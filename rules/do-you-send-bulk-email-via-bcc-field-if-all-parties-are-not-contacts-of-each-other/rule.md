@@ -13,13 +13,13 @@ authors:
 
 
 
-<span class='intro'> 
-  <p>To ensure privacy, and not allow parties to get hold of each others' email addresses, emails to multiple parties should be entered in the 'Bcc' field (not the 'To' field).
-</p>
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
-  <img src="/PublishingImages/better_emails_bulk_to.jpg" alt="Bad" class="ms-rteCustom-ImageArea" /> <span class="ms-rteCustom-FigureBad">Bad Example&#58; Send bulk email via 'To' field</span> <br>
-<img src="/PublishingImages/better_emails_bulk_bcc.JPG" alt="Good" class="ms-rteCustom-ImageArea" /> <span class="ms-rteCustom-FigureGood">Good Example&#58; Send bulk email via 'Bcc' field </span>
-
+<dl class="badImage">
+<dt><img style="border-right&#58;0px solid;border-top&#58;0px solid;border-left&#58;0px solid;border-bottom&#58;0px solid;" alt="Bad" src="/Standards/Communication/RulesToBetterEmail/PublishingImages/better_emails_bulk_to.jpg" border="0" /> 
+<dd>Bad Example&#58; Send bulk email via 'To' field </dd></dl>
+<dl class="goodImage">
+<dt><img style="border-right&#58;0px solid;border-top&#58;0px solid;border-left&#58;0px solid;border-bottom&#58;0px solid;" alt="Good" src="/Standards/Communication/RulesToBetterEmail/PublishingImages/better_emails_bulk_bcc.JPG" border="0" /> 
+<dd>Good Example&#58; Send bulk email via 'Bcc' field </dd></dl>
 
 
