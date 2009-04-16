@@ -1,0 +1,16 @@
+---
+type: rule
+title: Do you add context/reasoning to your emails?
+uri: do-you-add-contextreasoning-to-your-emails
+created: 2009-03-27T03:20:53.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+- id: 2
+  title: Cameron Shaw
+
+---
+
+ This field should not be null (Remove me when you edit this field). 
+
+![Bad - no context or reasoning](/Standards/Communication/RulesToBetterEmail/PublishingImages/BadContextReasoning.GIF) Figure - Bad example: there is no context or reasoning! ![Good - there is context and reasoning](/Standards/Communication/RulesToBetterEmail/PublishingImages/GoodContextReasoning.jpg) Figure - Good example: there is both context and reasoning! 
