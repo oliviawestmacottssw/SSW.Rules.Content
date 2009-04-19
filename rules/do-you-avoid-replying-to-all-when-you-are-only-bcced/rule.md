@@ -13,9 +13,12 @@ authors:
 
 
 
-<span class='intro'> If you receive email via BCC, other recipients are not aware that you were sent a copy so it's actually a VERY BAD idea to Reply All in this case. It's ok to reply to the message you were BCCed on, but it's not ok to send your reply to the people on TO or CC list. Only the sender should receive replies from BCCed people.
-<br><div><br></div> </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
-​This&#160;​extends even further to the person using BCC in the 1st place. Generally when using BCC, you should always pause to make sure you are doing the right thing.&#160;<div><img src="/PublishingImages/DontReplyAll.jpg" alt="DontReplyAll.jpg" style="margin&#58;5px;" />​<br></div><div><div>9 times out of 10, you will find that your motivation for using BCC is something less than fully candid... and it's almost always better to use CC or forward instead.​<br></div></div><div><br></div>
+<p>&#160;</p>
+<table class="clsSSWProductTable" width="55%" summary="LookOut">
+<tbody>
+<tr>
+<td>We have a program called <a href="http&#58;//www.ssw.com.au/ssw/LookOut/">SSW LookOut! for Outlook</a> to check for this rule. <br><br><img style="border-right&#58;0px solid;border-top&#58;0px solid;border-left&#58;0px solid;border-bottom&#58;0px solid;" alt="Lookout Reply All BCC Warning" src="/Standards/Communication/RulesToBetterEmail/PublishingImages/LookoutReplyAllBCCwarning.gif" border="0" /> <br><b>Figure&#58; SSW LookOut! for Outlook warns you if you accidentally 'Reply All' when you have been BCC'ed</b> </td></tr></tbody></table>
 
 
