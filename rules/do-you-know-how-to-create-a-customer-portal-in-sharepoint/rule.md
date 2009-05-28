@@ -29,7 +29,9 @@ Follow the following steps to create a Client Site.
 
 
 ![Manage Content and Structure](/Standards/CodeAndApplicationDesign/RulesToBeterSharePoint/PublishingImages/ManageContentAndStructure.jpg)
+Figure: Manage Content and Structure to view site collection 
+- New window will open, on the left hand side, click on the dropdown of the clients and select New-&gt;Site. NOTE: If you don’t see this option, that means you don’t have permission to create site, talk to John or Joe to grant you appropriate permission.
 
-- 
+
 
 
