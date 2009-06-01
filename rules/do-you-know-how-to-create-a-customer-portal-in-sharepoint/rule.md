@@ -48,26 +48,28 @@ Note how your select is confirmed in the picture. In this example the templateâ€
 
 ![Info to create site](/Standards/CodeAndApplicationDesign/RulesToBeterSharePoint/PublishingImages/CreateNewSiteStep2.jpg)
 Figure: Fill in the appropriate info then "Create"
-Next step is to setup the groups and permissions. 
-Note: you can also access this through the "People and Group" option on "Site Action" link on right hand top of the page.
+Next step is to setup the groups and permissions.
 
 ![Create new group Image](/Standards/CodeAndApplicationDesign/RulesToBeterSharePoint/PublishingImages/CreateNewSiteSetPermissionStep1.jpg)
 Figure: Create a 'new group' or select an 'existing group' for the newly created site.
-- Permissions: After you created the website for the client project, you need to configure the permission to make sure the developers and the clients can visit the site with the current authority.
+- Permissions: After you created the website for the client project, you need to configure the permission to make sure the developers and the clients can visit the site with the current authority. By default,
 
 
-1. On the root of the current client site, Go to Site Action - People and Groups for the client project.
-2. Create a group for visitors, New - New Group.
+1. **Visitors to the site - Read : **
+    - Visitors get to read most of the site.
+    - They can't read team discussions.
+    - They can download from release files document library.
+    - They can sychronize their calender to the team calendar in SharePoint.
+    - They can upload to client uploads document library.
+2. **Members of this Site - Contribute:**
+    - Can view, add, update and delete.
+3. **Owners of this Site - Full Control:**
+    - Has a full control.
 
-![Create new group](/Standards/CodeAndApplicationDesign/RulesToBeterSharePoint/PublishingImages/CreateNewSiteSetPermissionStep3.jpg)
-Figure: Create a 'new group' for the created site.3. Give appropriate permissions to this group.
 
+In this case, we are using 'create a new group' option.
 
-![Appropriate Permission](/Standards/CodeAndApplicationDesign/RulesToBeterSharePoint/PublishingImages/CreateNewSiteSetPermissionStep4.jpg)
-Figure: Assign an appropriate permission to the created groups.
-- Thats it all done.
-- Just keep following in mind while assigning permissions.
+Note: you can also access this through the "People and Group" option on "Site Action" link on right hand top of the page, if you need to manage permission in future.
 
+Click ok, and that's it all done.
 
-![Group explained](/Standards/CodeAndApplicationDesign/RulesToBeterSharePoint/PublishingImages/AdditionalInfo.jpg)
-Figure: Groups explained 'Keep in mind while assigning permissions'
