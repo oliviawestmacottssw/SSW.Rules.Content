@@ -14,62 +14,77 @@ authors:
 ---
 
  
-You should do anything that helps a project. The best thing is to enable great collaboration, by giving your customer an awesome 'Customer Portal'.  Then they can see new mockups, comment on features, get new releases and participate in team discussions on their particular project.
+You should do anything that helps a project succeed. The best thing is to enable great collaboration, by giving your customer an awesome 'Customer Portal'.  Then they can see new mockups, comment on features, get new releases and participate in team discussions on their particular project.
 
 So the first thing you should do is to create a 'Customer Portal' in your SharePoint extranet. Then give your customer a login, send them an email and they are now going to really get involved!
 
-It is advised that you create a customized SharePoint Team Collaboration site template. Then you can very quickly initialize a new site for each new customer.
+There are many means by which you could provide this functionality to your client.
 
-Then follow these steps to create a customer portal with SharePoint 2007:
+If you are using SharePoint then....
+
+It is advised that you create a customized SharePoint Team Collaboration site template. That way you can very quickly initialize a new site, for each new customer.
+
+Once you have the template, follow these steps to create a customer portal with SharePoint 2007:
  
-1. Go to the root where you want to create a site, i.e sharepoint.ssw.com.au
+1. Go to the root where you want to create a site
+eg. sharepoint.ssw.com.au
 2. Click "Site Actions" on right hand top, select "Manage Content and Structure
 
 
-![Manage Content and Structure](/Standards/CodeAndApplicationDesign/RulesToBeterSharePoint/PublishingImages/ManageContentAndStructure.jpg)
-Figure: First step is to select 'Manage Content and Structure' to view site collection 
+![Manage Content and Structure](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/ManageContentAndStructure.jpg)
+Figure: The first step to creating a 'Customer Portal' is to select 'Manage Content and Structure' to view site collection 
 Once the new window opens, on the left hand side, click on the 'Clients' dropdown select New-&gt; Site. 
 Note: If you don’t see this option, that means you don’t have permission to create site.
 
-![Create New Site](/Standards/CodeAndApplicationDesign/RulesToBeterSharePoint/PublishingImages/CreateNewSiteStep1.jpg)
+![Create New Site](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CreateNewSiteStep1.jpg)
 Figure: Create new site
-Now follow these steps when the new window opens,
+Now follow these steps when the new window opens fill in the fields below.
 
-1. Fill in the fields for the new client site eg. Title, Description and URL
-2. Select the template e.g “**ClientCollaboration\_V1**” in the Custom tab.
+![Info to create site](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CreateNewSiteStep2.jpg)
+Figure: Fill in the appropriate info then click "Create"
+More Information:
+
+1. Fill in the fields for the new client site 
+eg. Title, Description and URL
+2. Select the template 
+e.g “**ClientCollaboration\_V1**” in the Custom tab.
+Note: Your selection is confirmed in the picture. In this example the template’s description looks like “**Site for Collaboration with SSW Clients**”.
+3. Select “**Use Unique permissions**” as you need to give the client an account to visit.
+4. In the “**Navigation Inheritance**” choose “**No**” as you don’t need to let client visit the other client sites via the navigation.
+5. Click “**Create**”
 
 
-Note how your select is confirmed in the picture. In this example the template’s description looks like “**Site for Collaboration with SSW Clients**”.
-
-1. Select “**Use Unique permissions**” as you need to give the client an account to visit.
-2. In the “**Navigation Inheritance**” choose “**No**” as you don’t need to let client visit the other sites via the navigation.
-3. Click “**Create**”
 
 
-![Info to create site](/Standards/CodeAndApplicationDesign/RulesToBeterSharePoint/PublishingImages/CreateNewSiteStep2.jpg)
-Figure: Fill in the appropriate info then "Create"
 Next step is to setup the groups and permissions.
 
-![Create new group Image](/Standards/CodeAndApplicationDesign/RulesToBeterSharePoint/PublishingImages/CreateNewSiteSetPermissionStep1.jpg)
+![Create new group Image](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CreateNewSiteSetPermissionStep1.jpg)
 Figure: Create a 'new group' or select an 'existing group' for the newly created site.
-- Permissions: After you created the website for the client project, you need to configure the permission to make sure the developers and the clients can visit the site with the current authority. By default,
+More Information:
+
+- Permissions: After you created the website for the client project, you need to configure the permission to make sure the developers and the clients can visit the site with the current authority. By default:
 
 
 1. **Visitors to the site - Read : **
-    - Visitors get to read most of the site.
-    - They can't read team discussions.
-    - They can download from release files document library.
-    - They can sychronize their calender to the team calendar in SharePoint.
-    - They can upload to client uploads document library.
+    - Visitors need to read most of the site.
+    - They can't read team discussions (not used)
+    - They can download from 'release files' document library.
+    - They can sychronize their calender to the team calendar in SharePoint (not used - one day it should read from CRM)
+    - They can upload to client uploads document library (after you XXXXX )
 2. **Members of this Site - Contribute:**
     - Can view, add, update and delete.
 3. **Owners of this Site - Full Control:**
     - Has a full control.
 
 
-In this case, we are using 'create a new group' option.
+In this case, we are using 'create a new group' option because XXXXXX
 
 Note: you can also access this through the "People and Group" option on "Site Action" link on right hand top of the page, if you need to manage permission in future.
 
-Click ok, and that's it all done.
+Click "OK", and the portal is created.
+
+[XXXXXX PORTAL ]
+XXXXXXX   Figure: Give link to the snorthwind one
+
+Now sent the email to the customer with the URL, login and password.  XXXXXX
 
