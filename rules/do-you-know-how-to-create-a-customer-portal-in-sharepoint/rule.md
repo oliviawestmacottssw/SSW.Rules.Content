@@ -83,7 +83,6 @@ Note: you can also access this through the "People and Group" option on "Site Ac
 Click "OK", and the portal is created.
 
 ![Northwind Portal](/Standards/CodeAndApplicationDesign/RulesToBetterSharePoint/PublishingImages/Northwind%20Portal.jpg)
-XXXXXXX   Figure: Give link to the snorthwind one
-
+XXXXXXX   Figure: Give link to the snorthwind one.
 Now sent the email to the customer with the URL, login and password.  XXXXXX
 
