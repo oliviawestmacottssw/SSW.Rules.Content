@@ -70,20 +70,19 @@ More Information:
     - They can't read team discussions (not used)
     - They can download from 'release files' document library.
     - They can sychronize their calender to the team calendar in SharePoint (not used - one day it should read from CRM)
-    - They can upload to client uploads document library (after you XXXXX )
 2. **Members of this Site - Contribute:**
     - Can view, add, update and delete.
 3. **Owners of this Site - Full Control:**
     - Has a full control.
 
 
-In this case, we are using 'create a new group' option because XXXXXX
+In this case, we are using 'create a new group' option because we want this group to be able to access only for this perticular site  - It is a good practice to create a new group for every site you create, because it will be easier to add or delete users in the group for that specific site.
 
 Note: you can also access this through the "People and Group" option on "Site Action" link on right hand top of the page, if you need to manage permission in future.
 
 Click "OK", and the portal is created.
 
-[XXXXXX PORTAL ]
+![Northwind Portal](/Standards/CodeAndApplicationDesign/RulesToBetterSharePoint/PublishingImages/Northwind%20Portal.jpg)
 XXXXXXX   Figure: Give link to the snorthwind one
 
 Now sent the email to the customer with the URL, login and password.  XXXXXX
