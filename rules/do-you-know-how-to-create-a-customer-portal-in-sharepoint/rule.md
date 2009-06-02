@@ -31,16 +31,16 @@ eg. sharepoint.ssw.com.au
 2. Click "Site Actions" on right hand top, select "Manage Content and Structure
 
 
-![Manage Content and Structure](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/ManageContentAndStructure.jpg)
+![Manage Content and Structure](/Standards/CodeAndApplicationDesign/RulesToBetterSharePoint/PublishingImages/ManageContentAndStructure.jpg)
 Figure: The first step to creating a 'Customer Portal' is to select 'Manage Content and Structure' to view site collection 
 Once the new window opens, on the left hand side, click on the 'Clients' dropdown select New-&gt; Site. 
 Note: If you don’t see this option, that means you don’t have permission to create site.
 
-![Create New Site](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CreateNewSiteStep1.jpg)
+![Create New Site](/Standards/CodeAndApplicationDesign/RulesToBetterSharePoint/PublishingImages/CreateNewSiteStep1.jpg)
 Figure: Create new site
 Now follow these steps when the new window opens fill in the fields below.
 
-![Info to create site](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CreateNewSiteStep2.jpg)
+![Info to create site](/Standards/CodeAndApplicationDesign/RulesToBetterSharePoint/PublishingImages/CreateNewSiteStep2.jpg)
 Figure: Fill in the appropriate info then click "Create"
 More Information:
 
@@ -58,7 +58,7 @@ Note: Your selection is confirmed in the picture. In this example the template�
 
 Next step is to setup the groups and permissions.
 
-![Create new group Image](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CreateNewSiteSetPermissionStep1.jpg)
+![Create new group Image](/Standards/CodeAndApplicationDesign/RulesToBetterSharePoint/PublishingImages/CreateNewSiteSetPermissionStep1.jpg)
 Figure: Create a 'new group' or select an 'existing group' for the newly created site.
 More Information:
 
