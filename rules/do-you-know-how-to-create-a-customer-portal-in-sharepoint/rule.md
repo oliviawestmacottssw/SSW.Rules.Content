@@ -69,7 +69,7 @@ More Information:
     - Visitors need to read most of the site.
     - They can't read team discussions (not used)
     - They can download from 'release files' document library.
-    - They can sychronize their calender to the team calendar in SharePoint (not used - one day it should read from CRM)
+    - They can synchronize their calendar to the team calendar in SharePoint (not used - one day it should read from CRM)
 2. **Members of this Site - Contribute:**
     - Can view, add, update and delete.
 3. **Owners of this Site - Full Control:**
@@ -84,5 +84,3 @@ Click "OK", and the portal is created.
 
 ![Northwind Portal](/Standards/CodeAndApplicationDesign/RulesToBetterSharePoint/PublishingImages/Northwind%20Portal.jpg)
 Figure: [View Northwind portal.](/Clients/Northwind/default.aspx)
-Now sent the email to the customer with the URL, login and password.  XXXXXX
-
