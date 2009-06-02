@@ -84,5 +84,5 @@ Click "OK", and the portal is created.
 
 ![Northwind Portal](/Standards/CodeAndApplicationDesign/RulesToBetterSharePoint/PublishingImages/Northwind%20Portal.jpg)
 Figure: [View Northwind portal.](/Clients/Northwind/default.aspx)
-Now send the email to the customer with the URL, login and password.
+Note: SharePoint will send "welcome email" to all the members of the groups you created for the site with basic information, but you still need to send email to your customer with the login details like Url, userName and Password.
 
