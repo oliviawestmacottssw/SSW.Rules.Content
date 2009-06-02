@@ -84,3 +84,5 @@ Click "OK", and the portal is created.
 
 ![Northwind Portal](/Standards/CodeAndApplicationDesign/RulesToBetterSharePoint/PublishingImages/Northwind%20Portal.jpg)
 Figure: [View Northwind portal.](/Clients/Northwind/default.aspx)
+Now send the email to the customer with the URL, login and password.
+
