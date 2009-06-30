@@ -9,13 +9,13 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ With the convenience and cost-effectiveness of e-mail, it is tempting to resort to emails for client contact. We sometimes forget that our clients are people just like us who need human interaction to ensure everything is OK. This is why it is essential that you maintain verbal contact before, during and after a project. What does this mean?  
 1. Let the client know what to expect in terms of communication, i.e. :
-    1. "The first step is, we send you a release plan to approve. Once approved we can begin work"
-    2. "Every morning expect a 'Morning Goals' email with a list of tasks the developers will be working on that day"
-    3. "Every time a task is done, you will get an email with information about the task such as time taken, screen shots and code snippets"
-    4. "If you need to change the priority of a task, just let us know and we will consider it for inclusion either in this or the next release depending on its importance"
-2. Avoid going more than 3 days without a phone call
+    - "The first step is, we send you a release plan to approve. Once approved we can begin work"
+    - "Every morning expect a 'Morning Goals' email with a list of tasks the developers will be working on that day"
+    - "Every time a task is done, you will get an email with information about the task such as time taken, screen shots and code snippets"
+    - "If you need to change the priority of a task, just let us know and we will consider it for inclusion either in this or the next release depending on its importance"
+2. Avoid going more than 3 days without a phone call.
 3. If you are put onto an existing project, it is good practice to call the client and introduce yourself. For example, "Hi, I'm Andrew. I'll be taking over from Mark on your project. Mark has filled me in on the specifics and I'm keen to get involved."
 
 
