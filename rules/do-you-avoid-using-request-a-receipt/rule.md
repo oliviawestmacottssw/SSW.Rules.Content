@@ -11,7 +11,6 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
-
-<dl class="image"><dt><img style="border-right&#58;1px solid;border-top&#58;1px solid;border-left&#58;1px solid;border-bottom&#58;1px solid;" alt="Outlook Receipt Request" src="/Standards/Communication/RulesToBetterEmail/PublishingImages/OutlookReceiptRequest.gif" border="1"> 
-<dd>Figure&#58; Selectively request read receipts so as not to annoy your recipient.</dd></dl>
+ 
+Do you always demand a receipt for every email you send? This is the equivalent of crying wolf. People get prompted about receipts so often, that eventually they change the settings to automatically ignore receipt requests. Then when someone really, really needs acknowledgement that an email has been received, you never get one, because they've turn off the mechanism. Turning this option on all the time effectively throws the option away, not just for yourself, but everyone else as well.
+ ![Outlook Receipt Request](/Standards/Communication/RulesToBetterEmail/PublishingImages/OutlookReceiptRequest.gif)Figure: Selectively request read receipts so as not to annoy your recipient.
