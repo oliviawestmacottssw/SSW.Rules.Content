@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ As all these rules indicate, email can either be a blessing or a curse. One of the most deadly of all the potential curses of email is when people choose to use email when it is just not the right tool for that particular task. Absolutely avoid email in the following situations:  
 
 | ![Meta Group Phone Over Email](/Standards/Communication/RulesToBetterEmail/PublishingImages/MetaGroupPhoneOverEmail.gif)  |
 | --- |
