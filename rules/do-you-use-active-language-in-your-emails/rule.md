@@ -11,4 +11,4 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Try to use the active voice of a verb wherever possible. For instance, 'We will process your order today', sounds better than 'Your order will be processed today'. The first sounds more personal, whereas the latter, especially when used frequently, sounds unnecessarily formal. 
