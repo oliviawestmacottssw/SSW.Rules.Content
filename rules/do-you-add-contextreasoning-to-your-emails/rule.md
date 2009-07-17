@@ -11,8 +11,4 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
-
-<dl class="badImage"><dt><img style="border-right&#58;0px solid;border-top&#58;0px solid;border-left&#58;0px solid;border-bottom&#58;0px solid;" alt="Bad - no context or reasoning" src="/Standards/Communication/RulesToBetterEmail/PublishingImages/BadContextReasoning.GIF" border="0"> 
-<dd>Figure - Bad example&#58; there is no context or reasoning! </dd></dl><dl class="goodImage"><dt><img style="border-right&#58;0px solid;border-top&#58;0px solid;border-left&#58;0px solid;border-bottom&#58;0px solid;" alt="Good - there is context and reasoning" src="/Standards/Communication/RulesToBetterEmail/PublishingImages/GoodContextReasoning.jpg" border="0"> 
-<dd>Figure - Good example&#58; there is both context and reasoning! </dd></dl>
+ When sending an email it is important to give context and reasoning.  ![Bad - no context or reasoning](/Standards/Communication/RulesToBetterEmail/PublishingImages/BadContextReasoning.GIF)Figure - Bad example: there is no context or reasoning! ![Good - there is context and reasoning](/Standards/Communication/RulesToBetterEmail/PublishingImages/GoodContextReasoning.jpg) Figure - Good example: there is both context and reasoning!
