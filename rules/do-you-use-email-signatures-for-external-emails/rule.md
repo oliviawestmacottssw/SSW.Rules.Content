@@ -15,8 +15,9 @@ authors:
 
 
 
-<span class='intro'> ​Email signatures are a great way of adding some advertising and branding. You should always <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=73dea04c-b017-4c65-816e-aef8c84497be">use a nice email signature</a> for <b>external emails</b>.<div>Internally, you shouldn't use any or just use a short one (just&#160;your​ name or initials)<br></div> </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
-<h3 class="ssw15-rteElement-H3">What about appointments?​</h3><p class="ssw15-rteElement-P">Appointments going to people outside the organisation should be written and addressed the way you would an email. This includes using your email&#160;signature.</p><strong>VIDEO</strong>&#160;-&#160;<a href="https&#58;//www.youtube.com/watch?v=LAqRokqq4jI">Top 10+&#160;Rules to Better Email Communication with Ulysses Maclaren</a>​<br>
+<p>NOTE&#58; Delete your footer when you send emails internally, it's unnecessary. </p>
+<p>If you are on site at a customer, you want colleagues to be able to give you a call without asking the office what your mobile number is. In this case, you should include your mobile and/or temp number for internal emails (e.g.Jonny Trees | On Site | 0412 xxx xxx). </p>
 
 
