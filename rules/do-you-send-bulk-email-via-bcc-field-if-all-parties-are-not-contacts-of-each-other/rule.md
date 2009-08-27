@@ -11,6 +11,7 @@ authors:
 
 ---
 
- 
+
 To ensure privacy, and not allow parties to get hold of each others' email addresses, emails to multiple parties should be entered in the 'Bcc' field (not the 'To' field).
- ![Bad](/Standards/Communication/RulesToBetterEmail/PublishingImages/better_emails_bulk_to.jpg) Bad Example: Send bulk email via 'To' field ![Good](/Standards/Communication/RulesToBetterEmail/PublishingImages/better_emails_bulk_bcc.JPG) Good Example: Send bulk email via 'Bcc' field 
+![Bad](/Standards/Communication/RulesToBetterEmail/PublishingImages/better_emails_bulk_to.jpg) Bad Example: Send bulk email via 'To' field 
+![Good](/Standards/Communication/RulesToBetterEmail/PublishingImages/better_emails_bulk_bcc.JPG) Good Example: Send bulk email via 'Bcc' field 
