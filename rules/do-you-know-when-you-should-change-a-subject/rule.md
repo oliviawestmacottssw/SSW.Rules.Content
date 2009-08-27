@@ -18,7 +18,7 @@ Subject: "Outstanding Balance with SSW"
 
 When in dispute 
 Subject: "Swift - Issues to be resolved"
-(The Company name is added as a minimum so we can see which client the email related to ata  glance).
+(The Company name is added as a minimum so we can see which client the email related to at a  glance).
 
 When in they have gone over $20K
 Subject: "Swift - Account temporarily on Hold"
