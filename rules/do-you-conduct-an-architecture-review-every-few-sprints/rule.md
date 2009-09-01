@@ -18,11 +18,12 @@ authors:
 
 
 <span class='intro'> 
-  <p>There are 2 main parts to any application. The UI which is what the customer can see and provide feedback on, and the underlying code which they really can't know if it is healthy or not.<br></p><p>Therefore it is important to conduct a '<a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=7ba5e1cd-da39-4bf2-9fe2-5b899589b3d2">test please</a>' on the internal code and architecture of the application.</p><div>Ideally conduct a small 'Code + Architecture Review' for every sprint. Assuming a 2 week sprint, schedule a&#160;4 hour (2 architects x 2 hours) review.<br></div>
+  <p>An internal architecture review is the application of the <a href="/Standards/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx">Test Please</a> principle against the design phase. An architecture review conducted during every release minimises errors in design which saves future recitification costs.</p>
+<p>Schedule a&#160;4 hour (2 architects x 2 hours) review during all releases. While it may not be so important to conduct a review in every development release, they are compulsory for a specification release.</p>
  </span>
 
 
-  <p>The following are items that are addressed in an architecture/code review&#58; </p>
+  <p>The following are items that are address in a architecture/code review&#58; </p>
 <p><strong>Background information/overview of the project</strong> </p>
 <ul>
     <li>Current system </li>
@@ -31,14 +32,14 @@ authors:
     <li>Current technologies </li>
     <li>Current environment (SOA, SOE) </li>
 </ul>
-<p><strong>Points for discussion</strong> </p>
+<p><b>Points for discussion</b> </p>
 <ul>
     <li>Rich client </li>
     <li>Web client </li>
     <li>Smart client (any disconnected users?) </li>
     <li>Technology choices
     <ul>
-        <li>Persistence layer (e.g. Database) </li>
+        <li>Persistance layer (SQL Server, Access, SQL Express, LINQ, netTiers) </li>
         <li>Business layer </li>
         <li>UI </li>
         <li>Communications </li>
@@ -54,7 +55,7 @@ authors:
         <li>SharePoint </li>
     </ul>
     </li>
-    <li>Usage Telemetry</li><li>Performance Monitoring</li><li>​Data migrations </li>
+    <li>Data migrations </li>
     <li>Data reporting </li>
     <li>User experience </li>
     <li>Network </li>
@@ -82,11 +83,6 @@ authors:
     <li>Maintainability </li>
     <li>Reliability (failover servers?) </li>
     <li>'Sellability' i.e. is the solution appropriate for the client? </li>
-</ul>
-<p><strong>Note&#58; If you are using Enterprise Architect, be aware of technical debt&#58;</strong></p>
-<ul>
-<li>Add a datetime of the last time the diagram was modified so we have an indication of when it is out of date</li>
-<li>On your diagrams, be aware that some parts are done and some are not.</li>
 </ul>
 
 
