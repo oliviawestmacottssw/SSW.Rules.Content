@@ -11,9 +11,10 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
 
-| We have a program called [SSW LookOut! for Outlook](http&#58;//www.ssw.com.au/ssw/LookOut/) to check for this rule. <br><br>![Contact or attached](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ContactorAttached.gif)<br>**Figure: SSW LookOut! for Outlook automatically warns you if you have forgotten to include your attachments.** |
-| --- |
+<br>When you refer to an attachment in your email, don't forget to include the attachment. I always attach the files first before I write my message. 
 
+
+We have a program called [SSW LookOut! for Outlook](http&#58;//www.ssw.com.au/ssw/LookOut/) to check for this rule. 
+![Contact or attached](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ContactorAttached.gif) Figure: SSW LookOut! for Outlook automatically warns you if you have forgotten to include your attachments. 
 
