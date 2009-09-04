@@ -13,10 +13,14 @@ authors:
 
 
 
-<span class='intro'> ​​And remember to periodically select &quot;Check All Subfolders&quot; to make sure all folders are being synced in your .ost file.<br>
-<br>
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
-<dl class="image"><dt><img src="/PublishingImages/offline.JPG" alt="offline" /></dt><dd>Figure&#58; Periodically check that all your mail folders are being synced in your offline.ost file </dd> </dl>
+
+  <span class="ms-rteCustom-ImageArea">
+    <img style="border&#58;0px solid;" alt="offline" src="/Standards/Communication/RulesToBetterEmail/PublishingImages/offline.JPG" border="0" /> </span>
+  <span class="ms-rteCustom-FigureNormal">
+    <br>
+Figure&#58; Periodically check that all your mail folders are being synced in your offline.ost file</span> 
+
 
 
