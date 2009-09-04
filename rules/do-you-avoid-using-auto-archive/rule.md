@@ -11,15 +11,11 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
-##  
-<dl class="image"><dt><img style="border-right&#58;0px solid;border-top&#58;0px solid;border-left&#58;0px solid;border-bottom&#58;0px solid;" alt="Outlook Auto Archive" src="/Standards/Communication/RulesToBetterEmail/PublishingImages/OutlookAutoArchive.gif" border="0"> 
-<dd>Figure&#58; Turn off AutoArchive so your emails do not get thrown away</dd></dl>
+
+<br>If you use Exchange Server, Auto-Archive moves the archived items from the Exchange Server to a local drive on your notebook or desktop. While this keeps your Exchange Server nice and small, if you happen to use email to store legal documents, or want to search for emails you've sent a year ago, Auto-Archive is like throwing data away. <br> ![Outlook Auto Archive](/Standards/Communication/RulesToBetterEmail/PublishingImages/OutlookAutoArchive.gif) Figure: Turn off AutoArchive so your emails do not get thrown away
 I promise you'll be thankful you never deleted your Sent Items.
 
-
-|  |
-| --- |
-| We have a program called [SSW LookOut! for Outlook](http&#58;//www.ssw.com.au/ssw/LookOut/) to check for this rule. <br>SSW LookOut! for Outlook can tell you if you have archive on.<br>![Contact or No Aging](/Standards/Communication/RulesToBetterEmail/PublishingImages/ContactorNoAging.JPG) <br>**Figure: SSW LookOut! for Outlook warns you if Outlook is set to archive your emails**  |
-
+We have a program called [SSW LookOut! for Outlook](http&#58;//www.ssw.com.au/ssw/LookOut/) to check for this rule. 
+<br>SSW LookOut! for Outlook can tell you if you have archive on.
+![Contact or No Aging](/Standards/Communication/RulesToBetterEmail/PublishingImages/ContactorNoAging.JPG) Figure: SSW LookOut! for Outlook warns you if Outlook is set to archive your emails
 
