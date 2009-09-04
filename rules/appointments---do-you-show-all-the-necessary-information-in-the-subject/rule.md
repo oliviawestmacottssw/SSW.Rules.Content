@@ -11,4 +11,5 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![Bad Appointment Subject](/Standards/Communication/RulesToBetterEmail/PublishingImages/ApptSubjectBad_small.jpg) Figure: Bad appointment subject![Good Appointment Subject](/Standards/Communication/RulesToBetterEmail/PublishingImages/ApptSubjectGood_small.jpg) Figure: A good appointment subject
+
+<br>When sending an appointment, it's a good idea to choose your subject intelligently so that people can see in their calendar who will be attending without having to open the item. Think about what the recipient sees in their calendar and try to make it as clear as possible. <br> ![Bad Appointment Subject](/Standards/Communication/RulesToBetterEmail/PublishingImages/ApptSubjectBad_small.jpg) Figure: Bad appointment subject ![Good Appointment Subject](/Standards/Communication/RulesToBetterEmail/PublishingImages/ApptSubjectGood_small.jpg) Figure: A good appointment subject
