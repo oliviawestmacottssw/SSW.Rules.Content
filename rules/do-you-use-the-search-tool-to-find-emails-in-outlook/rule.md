@@ -1,0 +1,33 @@
+---
+type: rule
+title: Do you use the search tool to find emails in Outlook?
+uri: do-you-use-the-search-tool-to-find-emails-in-outlook
+created: 2009-04-07T05:27:31.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+- id: 2
+  title: Cameron Shaw
+- id: 16
+  title: Tiago Araujo
+
+---
+
+ This field should not be null (Remove me when you edit this field). 
+![Figure&#58; Bad Example&#58; Opening your sent Items and manually looking at the emails can take minutes ](/Standards/Communication/RulesToBetterEmail/PublishingImages/SearchingManually_small.jpg)
+Figure: Bad Example: Opening your sent items and manually looking at the emails can take minutes
+
+Let's use an example; say you are looking for emails sent to Frank where they have sql auditor and link auditor in the email (subject or body) then you enter "sent items" to:Frank "sql auditor" in search box; then you get the list of sql auditor emails sent to Frank.
+
+![Figure&#58; Good Example&#58; On Windows XP or better, useing Windows Desktop Search takes seconds](/Standards/Communication/RulesToBetterEmail/PublishingImages/SearchingSentEmails_small.jpg)
+Figure: Good Example: On Windows XP or better, useing Windows Desktop Search takes seconds
+
+If using Microsoft Outlook 2007, then use the search option to find your sent items. 
+![Figure&#58; Good Example - of searching sent emails using Windows Desktop Search](/Standards/Communication/RulesToBetterEmail/PublishingImages/WindowsOutlook2007Searching_small.jpg)
+Figure: Good Example - of searching sent emails using Windows Desktop Search
+
+We can also use Exchange Reporter to see the number of emails sent by each users.
+
+![Exchange Reporter](/Standards/Communication/RulesToBetterEmail/PublishingImages/ExchangeReporter_small.jpg)
+Figure: Good Example - of searching sent emails using Exchange Reporter
+
