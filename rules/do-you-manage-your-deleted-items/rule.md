@@ -19,7 +19,7 @@ Here's a couple of solutions:
 
 
 ![Oulook Deleted Items](/Standards/Communication/RulesToBetterEmail/PublishingImages/OulookDeletedItemsSubFolders.gif)
-<font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; Deleted Items </font>
+<font class="ms-rteCustom-FigureGood" size="+0">Figure&#58;&#160;Good Example - Deleted Items ordered into time periods</font>
 
  NOTE: A hot tip for making it easy to search for an accidentally deleted item is to add the "Modified" field into your Deleted Items view and sort by "Modified". The item from two months ago which you just accidentally deleted will be sitting at the top.
 
