@@ -11,14 +11,15 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Sometimes clients will add attachment files into emails. Those files could be documents or images, which may contain details or solutions of the issue, or some helpful information.
+<br>To keep the history, it is very important to embed the attachment files into the email since it's easy to lose those files when responding. <br> 
 Sometimes clients will add attachment files into emails. Those files could be documents or images, which may contain details or solutions of the issue, or some helpful information.
  To keep the history, it is very important to embed the attachment files into the email since it's easy to lose those files when responding.
 
 ![The image is in attachment. ](/Standards/Communication/RulesToBetterEmail/PublishingImages/EmailAttachImage_1_small.jpg)
-<font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; The image is in attachment. </font>
+<font class="ms-rteCustom-FigureBad" size="+0">Figure&#58;&#160;Bad Example - The image is in attachment. </font>
 ![The image is included in the context](/Standards/Communication/RulesToBetterEmail/PublishingImages/EmailAttachImage_2.JPG)
-<font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; The image is included in the context.</font>
+<font class="ms-rteCustom-FigureGood" size="+0">Figure&#58;&#160;Good Example - The image is included in the context.</font>
  PS: Clients make attachments because they are using OWA and you can't paste an image in - see suggestion for OWA
 
 
