@@ -13,8 +13,6 @@ authors:
 
 
 <br>OK - so now you've got your important emails identified, don't let them get lost in the quagmire. If you use Outlook make use of its inbuilt functionality. Always sort your emails by the Received, but add a secondary sort by "Important". This way your important emails always stay at the top to haunt you until they are done. <br> 
-![Outlook Sort By Received Then Important](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/OutlookSortbyReceivedThenImportant.gif) 
-Figure: Sort your emails by received and then by important to keep the most recent and important ones on top ![Always use a meaningful Subject](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/OutlookPriority.gif) 
 
 I think the Red Exclamation Mark is a good start, but I hate the Blue Arrow - it keeps getting my attention.
 
