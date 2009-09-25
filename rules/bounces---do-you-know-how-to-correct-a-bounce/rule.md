@@ -20,4 +20,4 @@ Get the correct email address and ‘Reply to all’ with just this text in brac
 <font class="ms-rteCustom-GreyBox">&#160;&#160;(Resending with Adam’s correct email)<br>
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<br>
 &#160;&#160;---------------------------------<br>
-&#160;&#160;[Original Email] </font><font class="ms-rteCustom-FigureGood">Figure&#58; Good Example - Correct the email address and send again.</font>
+&#160;&#160;[Original Email] </font>Figure: Good Example - Correct the email address and send again.
