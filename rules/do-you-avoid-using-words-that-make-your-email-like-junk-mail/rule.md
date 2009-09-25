@@ -11,8 +11,7 @@ authors:
 
 ---
 
-
-<br>Outlook by default reads your emails and can flag your email as potential junk email, or adult content email by examining a list of bad words. [Microsoft list of words](http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/OutlookBadWords.htm).
+ Outlook by default reads your emails and can flag your email as potential junk email, or adult content email by examining a list of bad words. [Microsoft list of words](http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/OutlookBadWords.htm).
 
 Sometimes, you would want to avoid using swear words, or using an angry tone as well.
 
