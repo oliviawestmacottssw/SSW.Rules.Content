@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Your deleted items can become quite out of hand if you don't manage them. First, it can waste a lot of space on your hard drive, and second, after accidentally deleting a mail item, it can take days to find it again amongst the 30,000 messages in your Deleted Items Folder. <br> 
+ Your deleted items can become quite out of hand if you don't manage them. First, it can waste a lot of space on your hard drive, and second, after accidentally deleting a mail item, it can take days to find it again amongst the 30,000 messages in your Deleted Items Folder.<br> 
 Here's a couple of solutions:
 
 - Permanently delete your deleted items. This is based on the theory that once you have deleted a mail item, you should NEVER HAVE TO LOOK AT IT AGAIN. This is a good theory, but unfortunately we don't always follow it in practice and there's no recovery
@@ -19,11 +19,11 @@ Here's a couple of solutions:
 
 
 ![Oulook Deleted Items](/Standards/Communication/RulesToBetterEmail/PublishingImages/OulookDeletedItemsSubFolders.gif)
-<font class="ms-rteCustom-FigureGood" size="+0">Figure&#58;&#160;Good Example - Deleted Items ordered into time periods</font>
+<font size="+0" class="ms-rteCustom-FigureGood">Figure&#58;&#160;Good Example - Deleted Items ordered into time periods</font>
 
  NOTE: A hot tip for making it easy to search for an accidentally deleted item is to add the "Modified" field into your Deleted Items view and sort by "Modified". The item from two months ago which you just accidentally deleted will be sitting at the top.
 
 ![](/Standards/Communication/RulesToBetterEmail/PublishingImages/OutlookModifiedByDate.gif)
-<font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; Sort by &quot;Modified&quot;</font>
-<font class="ms-rteCustom-YellowBorderBox" size="+0">We have a program called SSW LookOut! for Outlook to check for this rule. It leaves a reminder in your Inbox to remind you to clear your deleted items folder&#160; <br></font>
+<font size="+0" class="ms-rteCustom-FigureGood">Figure&#58; Sort by &quot;Modified&quot;</font>
+<font size="+0" class="ms-rteCustom-YellowBorderBox">We have a program called SSW LookOut! for Outlook to check for this rule. It leaves a reminder in your Inbox to remind you to clear your deleted items folder&#160; <br></font>
 
