@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Sometimes the person you send your email to may not reply immediately because they're busy or just may have forgotten about it.  If you need an answer, use a RESEND by doing the following: <br> 
+ Sometimes the person you send your email to may not reply immediately because they're busy or just may have forgotten about it.  If you need an answer, use a RESEND by doing the following:<br> 
 1. Reply to ALL
 2. Put (RESEND) in 1st line of the Body
 3. Plus any other instructions - such as "Hurry Up!"
