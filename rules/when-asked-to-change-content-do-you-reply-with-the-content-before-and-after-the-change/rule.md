@@ -11,4 +11,8 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+Your boss asks you to change a page on your website. You discuss it with your team and come up with the changes. Wouldn't it be nice if your boss could see exactly what was changed? Always keep a copy of what the page (or document) looked like before you make the change, and reply to the original email with the before and after.
+
+ Note: SharePoint has version histories, giving you the ability to compare to previous versions out of the box.
+
