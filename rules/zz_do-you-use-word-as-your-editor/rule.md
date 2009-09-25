@@ -11,7 +11,7 @@ authors:
 
 ---
 
- In Microsoft Outlook you have the option to use Word as your Email editor. <br> 
+ In Microsoft Outlook you have the option to use Word as your Email editor.<br> 
 ## 
 ![Outlook Word As Editor](/Standards/Communication/RulesToBetterEmail/PublishingImages/OutlookWordAsEditor.gif) Figure: Make sure you have this check box on
 This has a few advantages:
