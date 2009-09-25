@@ -12,7 +12,7 @@ authors:
 ---
 
 
-<br>We should follow the steps below to fix the large attachments issue: <br> 
+<br>We should follow the steps below to fix the large attachments issue:<br> 
 1. Avoid large attachments. So if you are sending an email that is &gt;1MB you need to take one second to think:
     - Could a URL be better than this attachment? (see example on the right)
     - Could I send this as a UNC to an internal share?
@@ -20,11 +20,7 @@ authors:
     - Could I put this picture on flickr or picasca?<br>        
 
 ```
-Dear Mike,
- 
-Thank you for spending time with us to come to a better understanding of your 
-business requirements. Please review the new version of specification at 
-http://www.ssw.com.au/ssw/SQLAuditor/Default.aspx
+Dear Mike, Thank you for spending time with us to come to a better understanding of your business requirements. Please review the new version of specification at http://www.ssw.com.au/ssw/SQLAuditor/Default.aspx
                         
 PS: The .docx was 4MB so I didn't attach a copy.
                    
