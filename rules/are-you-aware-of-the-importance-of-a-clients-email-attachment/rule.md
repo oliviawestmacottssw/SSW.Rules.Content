@@ -12,7 +12,7 @@ authors:
 ---
 
  Sometimes clients will add attachment files into emails. Those files could be documents or images, which may contain details or solutions of the issue, or some helpful information.
-<br>To keep the history, it is very important to embed the attachment files into the email since it's easy to lose those files when responding. <br> 
+<br>To keep the history, it is very important to embed the attachment files into the email since it's easy to lose those files when responding.<br> 
 Sometimes clients will add attachment files into emails. Those files could be documents or images, which may contain details or solutions of the issue, or some helpful information.
  To keep the history, it is very important to embed the attachment files into the email since it's easy to lose those files when responding.
 
