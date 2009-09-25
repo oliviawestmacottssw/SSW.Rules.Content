@@ -11,7 +11,20 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+**Problem:** 
+ Spam. It wastes time and resources. In most cases, the amount of spam received by an organization far exceeds the amount of legitimate email.
+
+Eg. Average volume of spam received daily at SSW
+
+
+
+
+| Total Email Recieved  | Spam  | Legitimate  | Spam %  |
+| --- | --- | --- | --- |
+| 2130  | 1331  | 799  | 62  |
+
+
 **Options: 
 **
  1. Software Spam Filters 
