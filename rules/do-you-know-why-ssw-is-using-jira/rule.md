@@ -9,16 +9,13 @@ authors: []
 
 
 
-<span class='intro'> 
-  <ol>To help track and prioritise Sys Admin tasks - It has the following key features that help us to work efficiently on the right things in a visible way&#58; </ol>
-    <ol></ol>
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
   <p>
-    <strong>
-    </strong>
-  </p>
+<strong>
+</strong>
+</p>
 <ol>
     <ol>
         <ol>
@@ -31,7 +28,7 @@ authors: []
         </ol>
     </ol>
 </ol>
-<blockquote dir="ltr" style="margin-right&#58;0px;"><blockquote dir="ltr" style="margin-right&#58;0px;"><blockquote dir="ltr" style="margin-right&#58;0px;">
+<blockquote style="margin-right&#58;0px;" dir="ltr"><blockquote style="margin-right&#58;0px;" dir="ltr"><blockquote style="margin-right&#58;0px;" dir="ltr">
 <p><strong><em>Of all the features above the Dashboard is the one with greatest value.&#160; We are able to configure dashbaords for individuals to know exactly what work they should be doing by when.&#160; We can configure dashboards to summarise a projects status.&#160; Consequently, non-power users of Jira can quicklty see what is going providing the visibility that we all need.</em></strong><br>
 <br>
 Clearly other products (like TFS) have similar features and we will be using TFS for other projects</p>
