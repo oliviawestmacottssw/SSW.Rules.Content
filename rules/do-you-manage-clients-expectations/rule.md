@@ -9,13 +9,13 @@ authors:
 
 ---
 
- 
+
 Software development can be painful and costly. Hang on, that should say
 
 "Software development IS painful and costly."
 
 Well, not always, but it has been observed that in 1999 "75% of all development projects missed their target release date or never ship at all." Projects often fail because clients think suppliers under-deliver and over-charge. The client and the supplier have different expectations about the goals of the project. This difference of opinion often leads to a projects absolute failure.
- 
+
 **Don't give ranges!** Let's say a prospect asks me "how much to do this Release?" I could say - "somewhere between $15k - $20k". I hear 20, the prospect hears 15. I'm pleased we got it done for $25k with a whole bunch of changes, the client is annoyed we didn't get it done in 12. So I never give a range to a client. I tell them that the first Release, along with its spec is likely to take $20k. That's two guys working full time for two weeks.
 
 **Be upfront about bugs** I don't believe there is such a thing as bugless software. It's important to admit that bugs will happen. Bugs will get through testing, and bugs will cause a headache in production. In a fixed price agreement we cover bugs, because the goal posts are stuck in the ground, but in hourly-rate work, bugs are covered by the client. See [what is covered in fixed price contracts](http&#58;//www.ssw.com.au/ssw/Standards/Forms/ConsultingOrderTermsConditions.aspx) for more information in relation to what is and what is not a bug.
