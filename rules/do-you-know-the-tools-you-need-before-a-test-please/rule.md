@@ -9,7 +9,11 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Don't let your client find bugs that they would have found if you had of ask them to do a 'Test Please'
+<br>Better still... Don't let your client find bugs that your internal tester would have found.
+<br>Better still... Don't let your tester find bugs that a tool could have found?
+
+<br>So prior to a version being submitted to the client, these are the 4 steps you should follow: <br> 
 1. Perform automated testing with tools:
 <br>    - SSW Link Auditor (for Web Apps) 
 <br>    - SSW Code Auditor (for all Apps)
