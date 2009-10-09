@@ -11,10 +11,7 @@ authors:
 
 
 
-<span class='intro'> Application upgrade might not only include the .exe and .dll but the database changes. How to deploy these changes, manually or using tools to deploy? <br>
-<br>
-Let's see the bad and good examples&#58; 
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
   <dl class="image">
@@ -70,7 +67,7 @@ Eric Phan
     <dd>Figure&#58; Best example - run SQL scripts in the application </dd>
 </dl>
 <dl class="image">
-    <dt><img alt="" src="/PublishingImages/UsingSQLDeployControl.png" /> </dt>
+    <dt><img alt="" src="/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/UsingSQLDeployControl.png" /> </dt>
     <dd>Figure&#58; Deploy SQL scripts by the application itself </dd>
 </dl>
 <br>
