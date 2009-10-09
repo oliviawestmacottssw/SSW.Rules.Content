@@ -11,21 +11,7 @@ authors:
 
 
 
-<span class='intro'> 
-  <p>You get an error message reported from a user like&#58; </p>
-<blockquote><i>&#160;&#160;&#160; When I click the Save button on the product form it gives an error message about a missing field.</i></blockquote>
-<dl class="image">
-    <dt><img alt="" src="/PublishingImages/ObamaThinking.jpg" /> </dt>
-    <dd>Figure&#58; The developer thinks &quot;what could be wrong&quot; </dd>
-</dl>
-<dl class="image">
-    <dt><img alt="" src="/PublishingImages/WorksOnMyMachine.png" /> </dt>
-    <dd>Figure&#58; The developer tests then&#160;replies &quot;Works on my machine&quot; </dd>
-</dl>
-<p>You try and reproduce it on your version in the office and everything works perfectly.<br>
-<br>
-You suspect that the customer probably has changed the schema. So you start drafting an email to the user like&#58; </p>
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
   <div class="greyBox">Mary, I need you to send me your database schema as it might be different from what it should be. Can you&#58;<br>
@@ -51,7 +37,7 @@ It would be much better to just say&#58;</p>
 <p>Therefore, you should deliver an application with the buttons &quot;Create&quot;, Upgrade&quot; and &quot;Reconcile&quot;, accessible via &quot;Tools - Options&quot; and a &quot;Database&quot; tab. We do this by using SSW SQL Deploy and throwing on the inherited user-control from the SSW.SQLDeploy.Options project.</p>
 <p>For more information see <a href="http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/SQLservertools.aspx#SQLDeploy">Best Tools for SQL Server</a></p>
 It looks like this<br>
-<img class="ms-rteCustom-ImageArea" alt="Reconcile" src="/PublishingImages/Reconcile.jpg" /> <span class="ms-rteCustom-FigureGood">Figure&#58; When weird errors are happening at a client, you need a &quot;Reconcile&quot; button in your application. This compares the current scripts, to the client's database and tells you if things are not right</span> <img class="ms-rteCustom-ImageArea" alt="New database dialog" src="/PublishingImages/NewDatabaseDialog.jpg" /> <span class="ms-rteCustom-FigureGood">Figure&#58; First time your client opens the application, they will need to Creating a database. It should be as easy as clicking &quot;Create&quot;</span>
+<img class="ms-rteCustom-ImageArea" alt="Reconcile" src="/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/Reconcile.jpg" /> <span class="ms-rteCustom-FigureGood">Figure&#58; When weird errors are happening at a client, you need a &quot;Reconcile&quot; button in your application. This compares the current scripts, to the client's database and tells you if things are not right</span> <img class="ms-rteCustom-ImageArea" alt="New database dialog" src="/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/NewDatabaseDialog.jpg" /> <span class="ms-rteCustom-FigureGood">Figure&#58; First time your client opens the application, they will need to Creating a database. It should be as easy as clicking &quot;Create&quot;</span>
 <div class="greyBox">As a developer, I promise to do these 3 things&#58;
 <ol>
     <li>Save every SQL change I do as a script </li>
@@ -60,7 +46,7 @@ It looks like this<br>
 </ol>
 </div>
 <dl class="image">
-    <dt><img alt="" src="/PublishingImages/ObamSwearing.jpg" /> </dt>
+    <dt><img alt="" src="/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/ObamSwearing.jpg" /> </dt>
     <dd>Figure&#58; Adam makes all his new developers swear in and repeat this </dd>
 </dl>
 
