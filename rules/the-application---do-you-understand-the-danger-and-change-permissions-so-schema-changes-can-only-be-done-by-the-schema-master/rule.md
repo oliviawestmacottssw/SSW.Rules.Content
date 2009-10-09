@@ -9,4 +9,6 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field).   To avoid this problem, only one person (the "Schema Master") should have permissions to upgrade the database. ![](/Standards/CodeAndApplicationDesign/RulesToBetterSQLServerSchemaDeployment/PublishingImages/FullPermission.jpg) Figure: The db\_owner role is granted for one person only – the "Schema Master" ![](/Standards/CodeAndApplicationDesign/RulesToBetterSQLServerSchemaDeployment/PublishingImages/Adam.jpg) Figure: And here is the "Schema Master" at SSW 
+ Having many people in a company that are able to make schema changes, can only lead to big problems. This gets worse if the application is powerful (eg. enabled with [SSW SQL Deploy](http&#58;//www.ssw.com.au/SSW/SQLDeploy/) that can make schema changes itself) can make schema changes. 
+
+<br>Let's see how to fix the issue: <br>   To avoid this problem, only one person (the "Schema Master") should have permissions to upgrade the database. ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/FullPermission.jpg) Figure: The db\_owner role is granted for one person only – the "Schema Master" ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/Adam.jpg) Figure: And here is the "Schema Master" at SSW 
