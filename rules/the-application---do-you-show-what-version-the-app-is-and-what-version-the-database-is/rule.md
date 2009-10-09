@@ -9,8 +9,6 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
-TODO: Add Timepro image as good example
-Figure: Good Example - You can get to the Database version via the Tools | Options | Database tab
-![](/Standards/CodeAndApplicationDesign/RulesToBetterSQLServerSchemaDeployment/PublishingImages/zsVersionTable.png)Figure: The Applications Database stores version info in a table called \_zsVersion
-![](/Standards/CodeAndApplicationDesign/RulesToBetterSQLServerSchemaDeployment/PublishingImages/ScriptFolder.png)Figure: The Application keeps all the scripts in a folder called SQLScripts
+![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/LinkAuditor.png) Figure: Everyone shows the version number somewhere on their app <br>...but databases also need a version number.
+
+<br>Let's see how to show the Database version:  <br> ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/zsVersionTable.png) Figure: The applications database should have a table storing the version info (the table is called \_zsVersion). See an example of this in [SSW Link Auditor](http&#58;//www.ssw.com.au/SSW/LinkAuditor/) ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/LinkAuditorVersion.png) Figure: The user can clearly see the Database version is 62 after clicking "Configure..." button in wizard "Storage Mechanism". See an example of this in [SSW Link Auditor](http&#58;//www.ssw.com.au/SSW/LinkAuditor/) ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/ChangeScripts.jpg) Figure: The Application keeps all the scripts in a folder called SQLScripts (this allows the application to upgrade itself and give the Reconciliation functionality) 
