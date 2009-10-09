@@ -11,10 +11,7 @@ authors:
 
 
 
-<span class='intro'> Lookup data is data that you usually see in combo boxes. It may be a Customer Category, a Product Color or the Order Status. Usually this is defined by the user and the programmer does not care what or how many records they have. When the programmer relies on records being in the lookup table, it is called 'Controlled Lookup Data'. <br>
-<br>
-So whenever you have special data,&#160;which is referenced in code you need to tread carefully by&#58; 
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
   <p style="margin&#58;0cm 0cm 0pt;">1) First understanding that although most of the time there is a clear separation between data and schema, there is an exception for Controlled Lookup Data. This is when data (aka Controlled Lookup Data) is tightly coupled to the&#160;application, meaning that you have an application that cannot function correctly without that data.</p>
@@ -23,11 +20,11 @@ So whenever you have special data,&#160;which is referenced in code you need to 
 3) You then need to add a check for it so that it does not disappear. </p>
 <p style="margin&#58;0cm 0cm 0pt;">Let's look at an example&#58;</p>
 <dl class="image">
-    <dt><img alt="" src="/PublishingImages/TimeProDropDown.png" /> </dt>
+    <dt><img alt="" src="/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/TimeProDropDown.png" /> </dt>
     <dd>Figure&#58; This combo looks innocent. However if it is &quot;Billable&quot; then the calendar goes yellow </dd>
 </dl>
 <dl class="image">
-    <dt><img alt="" src="/PublishingImages/TimeProCalendar.png" /> </dt>
+    <dt><img alt="" src="/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/TimeProCalendar.png" /> </dt>
     <dd>Figure&#58;&#160;Billable days are shown in yellow </dd>
 </dl>
 <dl class="image">
@@ -120,7 +117,7 @@ GO
     </font></dt>
     <dd>Figure&#58; This data must be deployed, just like we deploy schema </dd>
 </dl>
-Now you need&#160;to add a&#160;procValidate, see <a href="/Pages/DoYouCheckYourLookupDataAkaReferenceDataIsStillThereWithProcValidate.aspx">Do you check your &quot;Controlled Lookup Data&quot; (aka Reference Data) is still there with procValidate?&#160;</a> 
+Now you need&#160;to add a&#160;procValidate, see <a href="/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/Pages/DoYouCheckYourLookupDataAkaReferenceDataIsStillThereWithProcValidate.aspx">Do you check your &quot;Controlled Lookup Data&quot; (aka Reference Data) is still there with procValidate?&#160;</a> 
 
 
 
