@@ -9,18 +9,20 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ You have worked hard on the coding, got a pass from the testers. Great! Now you have approval to deploy to production. With VS 2010 deployment becomes easier and easier, you can choose different ways for different kinds of projects.
+
+<br>For example: <br> 
 - Web Clients
     - Right click "Publish" (recommended if you can directly connect) 
 <br>        or
     - Right click "Create Package"
-<br>         <br>        ![](/Standards/CodeAndApplicationDesign/RulesToBetterSQLServerSchemaDeployment/PublishingImages/PublishWeb.jpg) Figure: For a web app it is just one click
+<br>         <br>        ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/PublishWeb.jpg) Figure: For a web app it is just one click
 - Rich Clients
     - Right click "Publish" (recommended if you can use ClickOnce) 
 <br>        or
     - Right click "Create Setup" (Suggestion to Microsoft as menu doesn't exist)
 
-![](/Standards/CodeAndApplicationDesign/RulesToBetterSQLServerSchemaDeployment/PublishingImages/PublishRichClient.jpg) Figure: For a Windows clients it is also just one click
-- The Database<br>    ![](/Standards/CodeAndApplicationDesign/RulesToBetterSQLServerSchemaDeployment/PublishingImages/PublishDatabase.jpg) Figure: For the Database it is ..... well one click is what you need to aim for
+![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/PublishRichClient.jpg) Figure: For a Windows clients it is also just one click
+- The Database<br>    ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/PublishDatabase.jpg) Figure: For the Database it is ..... well one click is what you need to aim for
 
-
+ Now all this works beautifully first time, when there is no existing database... and no existing data to worry about. Now you have a reason to read the rest of the rules :-)   
