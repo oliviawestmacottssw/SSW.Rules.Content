@@ -18,8 +18,8 @@ authors:
  Do \*not\* wait until you have started to exceed your estimate, before you notify the client that the release is running late.
 <br> 
 <br>Let them decide and avoid conflict by sending an email like this: <br> 
-To: Mr Northwind
- Cc: David (Project Manager)
+**To**: Mr Northwind
+**Cc**: David (Project Manager)
 
  Dear Bill Northwind,
 
