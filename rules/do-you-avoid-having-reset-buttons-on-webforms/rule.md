@@ -17,5 +17,5 @@ authors:
 We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor) to check for this rule.
 
 We have a program called [SSW Link Auditor](http&#58;//www.ssw.com.au/ssw/LinkAuditor) to check for this rule. 
- We offer a [rule sample page](/SSW/LinkAuditor/Samples/Rules/NoResetButton.aspx) for demo scan.
+ We offer a [rule sample page](http&#58;//www.ssw.com.au/SSW/LinkAuditor/Samples/Rules/NoResetButton.aspx) for demo scan.
 
