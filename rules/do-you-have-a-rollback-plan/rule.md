@@ -11,4 +11,13 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+In the event of errors when testing:
+
+1. Bring the TFS2010 server down
+2. Bring the TFS2008 server up
+3. Change the DNS entries for tfs.northwind.com on
+    1. Internal DNS Server
+    2. External DNS Server
+
+
