@@ -15,8 +15,10 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
-In fact, for every 1 hour of 'application building' coding tasks there is between 1 and 4 hours of other work which SSW will charge for.
+ Just like building a beautiful house is more than the bricks, a software project is more than the sum of the coding tasks. 
 
-Here is a [list of the items](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulestoBetterProjectManagement.aspx#ReleaseEstimationProcess) which SSW considers when estimating a release.
+<br>Let's see what should be included : <br> 
+In fact, for every 1 hour of 'application building' coding tasks there is between 1 and 4 hours of other work which SSW will charge for. This other work includes administration, testing and bug fixing.
+
+Here is a [list of the items](/Standards/Management/RulesToBetterProjectManagement/Pages/ReleaseEstimationProcess.aspx) which SSW considers when estimating a release.
 
