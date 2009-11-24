@@ -12,12 +12,14 @@ authors:
 ---
 
 
-In the event of errors when testing:
+Always plan for a catastrophic disaster, in the event of errors when testing:
 
-1. Bring the TFS2010 server down
-2. Bring the TFS2008 server up
-3. Change the DNS entries for tfs.northwind.com on
+1. Take the TFS2010 server offline
+2. Bring the TFS2008 server online
+3. Change the DNS entries for tfs.northwind.com from the IP for the TFS2010 server to the IP for the TFS2008 server
     1. Internal DNS Server
     2. External DNS Server
 
+
+TODO: Add figure of DNS pointers.
 
