@@ -11,8 +11,11 @@ authors:
 
 
 
-<span class='intro'> A project page is not a place to introduce the project. It will be used to share the project process information between your teammates and clients. <a href="/rules-to-better-software-consultants-happy-clients">See our rules to happy clients</a>  </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
-<a href="/do-you-use-a-project-portal-for-your-team-and-client"></a>​​​​
+
+  <a href="http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoHappyClients.aspx#ProjectPage">
+  </a>
+
 
 
