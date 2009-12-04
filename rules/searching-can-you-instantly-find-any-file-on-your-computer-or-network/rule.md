@@ -9,8 +9,8 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
-Using either [Google Desktop Search](http&#58;//www.ssw.com.au/ssw/Redirect/GoogleSearch.htm) ![Leave Site](http&#58;//www.ssw.com.au/ssw/Images/LeaveSite.gif) or [MSN Desktop Search](http&#58;//www.ssw.com.au/ssw/Redirect/MSNSearch.htm) ![Leave Site](http&#58;//www.ssw.com.au/ssw/Images/LeaveSite.gif) will allow you to instantly search for a name and find all correspondence with that person. Even if there has been no contact for 6 months, you can resume the discussion as if it were yesterday.
+ Often you will want to quickly find a file on your computer or local network. On the web, with the advances in search engines this seems so easy. New enterprise search tools are now making this same feat possible for your desktop. Your tool should index all your local files and emails, and also allow you to search your entire network. <br> 
+Using either [Google Desktop Search](http&#58;//www.ssw.com.au/ssw/Redirect/GoogleSearch.htm) or [MSN Desktop Search](http&#58;//www.ssw.com.au/ssw/Redirect/MSNSearch.htm) will allow you to instantly search for a name and find all correspondence with that person. Even if there has been no contact for 6 months, you can resume the discussion as if it were yesterday.
 
 Of course if you are using Windows Vista, desktop search is integrated within the operating system.
 
