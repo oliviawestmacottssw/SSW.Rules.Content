@@ -1,0 +1,24 @@
+---
+type: rule
+title: Do you constantly add to the backlog?
+uri: do-you-constantly-add-to-the-backlog
+created: 2009-02-27T00:56:56.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+- id: 3
+  title: Eric Phan
+
+---
+
+ This field should not be null (Remove me when you edit this field). 
+The best solution is to use a combination or 2 and 3.
+
+- If it will take less 15 mins to fix, do it straight away.
+- If it will take more time, email the problem to the appropriate person (even if it's a 3rd party product).
+
+
+This approach raises the question of priorities. If you hit too many hurdles you continually get diverted from the main task: for example when fixing the Client form you encounter a problem with the Client Contact form which breaks the Products form etc. (This can be described as the "Tree Approach" as opposed to the "Straight through to the Goal approach".)
+
+You need to try to balance short term productivity with long term improvements. My view is that it is better to get 2 things done at 100% than get 4 things done at 75%!
+
