@@ -11,8 +11,23 @@ authors:
 
 
 
-<span class='intro'> <p>With the release of TFS 2012, you should always use TFS 2012 instead of TFS 2010. </p><p>These are the top 3 features&#58;</p> </span>
+<span class='intro'> With the release of TFS 2010 Beta 2 and GoLive license, you should always use TFS 2010 instead of TFS 2008. <br>
+<br>
+<strong>New Process Template&#58;</strong><br>
+TFS 2010 has improved MSF Agile Template v5.0 which includes new Work Items types like&#58; User Story, Test Case, Shared Steps to allow you to collect user&#160;requirements more easily and ensure the work is done with good quality. <br>
+<br>
+<strong>Better Integration with client applications&#58;</strong><br>
+TFS 2010 also include better integration with MS Project, Excel to allow us to use&#160;familiar&#160;tools to work with TFS. <br>
+<br>
+<strong>Better SharePoint Portal&#58;</strong><br>
+TFS 2010's SharePoint portal can be hosted on either WSS 3.0 or MOSS 2007, which includes a few great dashboards for project manager to monitor their projects easily. The new portal also allows us to create and edit work items. <br>
+<br>
+<strong>Better Reports&#58;<br>
+</strong>TFS 2010 provdes more reports and better reports for us to get update of the project. Based on SQL Server 2008 Reporting Services, the reports in TFS 2010 will scale better and provide better enterprise support. <br>
+<br>
+<br>
+ </span>
 
-<p>​<strong>Local workspaces </strong><br>Local workspaces allow many operations to be done offline (add, edit, rename, delete, undo, diff) and are recommended only for workspaces with fewer 50,000 files.&#160; Local workspaces are now the default with TFS 2012, but you can control that if you want server workspaces to be the default.</p><p><strong>Async checkout for Server Workspaces<br></strong>There is a new TFS 2012 feature so that VS 2012 will do checkouts in the background for server workspaces.&#160; That eliminates the pause when you start typing and VS checks out the file.&#160; Turning it on turns off checkout locks, but you can still use checkin locks.&#160; </p><p><strong>Merge on Unshelve</strong> <br>Shelvesets can now be unshelved into a workspace even if there are local changes on files in the shelveset.&#160; Conflicts will be created for any items modified both locally and in the shelveset, and you will resolve them as you would any other conflict. </p>
+
 
 
