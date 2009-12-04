@@ -13,13 +13,13 @@ authors:
 
 
 
-<span class='intro'> ​All the DLL references and files needed to create a setup.exe should be included in your solution. However, just including them as solution items is not enough, they will look very disordered (especially when you have a lot of solution items). And from the screenshot below, you might be wondering what the _Instructions.docx&#160;is used for... 
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
-<dl class="ssw15-rteElement-ImageArea"><img src="/PublishingImages/SSW%20-%20Rules%20.NET%20Projects%20-%20Bad%20Solution.png" alt="SSW - Rules .NET Projects - Bad Solution.png" style="margin&#58;5px;" /></dl>
+
+  <img class="ms-rteCustom-ImageArea" alt="unstructured solution folder" src="/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/WithoutReferencesAndSetupFolders.gif" /> <br>
 <font class="ms-rteCustom-FigureBad">Bad example - An unstructured solution folder</font>
-<p>An ideal way is to create &quot;sub-solution folders&quot; for the solution items, the common ones are &quot;References&quot; and &quot;Setup&quot;. This will make your solution items look neat and in order. Look at the screenshot below, now it makes sense, we know that the _Instructions.docx&#160;contains the instructions of what to do when creating a setup.exe. </p><dl class="ssw15-rteElement-ImageArea">
-<img src="/PublishingImages/SSW%20-%20Rules%20.NET%20Projects%20-%20Good%20Solution.png" alt="SSW - Rules .NET Projects - Good Solution.png" style="margin&#58;5px;width&#58;375px;" /></dl>
+<p>An ideal way is to create &quot;sub-solution folders&quot; for the solution items, the common ones are &quot;References&quot; and &quot;Setup&quot;. This feature is only available in Visual Studio 2005. This will make your solution items look neat and in order. Look at the screenshot below, now it makes sense, we know that the _Instructions.txt contains the instructions of what to do when creating a setup.exe. </p>
+<img class="ms-rteCustom-ImageArea" alt="A well structured solution folder has 2 folders - &quot;References&quot; and &quot;Setup&quot;" src="/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/WithReferencesAndSetupFolders.gif" /> <br>
 <font class="ms-rteCustom-FigureGood">Good example - A well structured solution folder has 2 folders - &quot;References&quot; and &quot;Setup&quot; <br>
 </font>
 <table class="clsSSWProductTable" summary="Code Auditor">
