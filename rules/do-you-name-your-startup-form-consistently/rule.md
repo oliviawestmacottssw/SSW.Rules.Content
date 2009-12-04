@@ -1,0 +1,19 @@
+---
+type: rule
+title: Do you name your startup form consistently?
+uri: do-you-name-your-startup-form-consistently
+created: 2009-04-27T07:41:12.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+- id: 17
+  title: Ryan Tee
+
+---
+
+ This field should not be null (Remove me when you edit this field). ![Bad Project without Main Form](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/BadMainForm.gif) Bad example - The entry form is not immediately recognizable because of a non standard name ![Good with Main Form](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/GoodMainForm.gif) Good example - The entry form follows the naming convention rule 
+
+| We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx#VBMainForm) to check for this rule.<br>            <br>Note: In Code Auditor we check for Form named: Startup, MainService, MainForm and WizardPage. |
+| --- |
+
+
