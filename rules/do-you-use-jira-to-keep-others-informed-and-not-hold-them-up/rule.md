@@ -1,0 +1,35 @@
+---
+type: rule
+title: Do you use Jira to keep others informed and not hold them up?
+uri: do-you-use-jira-to-keep-others-informed-and-not-hold-them-up
+created: 2009-12-04T09:27:06.0000000Z
+authors: []
+
+---
+
+ This field should not be null (Remove me when you edit this field). 
+ Any issues that require your immediate attention appear at the top of the left-hand column (see screenshot later) of your [dashboard](http&#58;//jira.ssw.com.au/secure/Dashboard.jspa).  Following this rule will ensure that the Reporter always knows the status, priority and plan for the issue resolution and the Assignee is never help up by the Reporter; this empowers you to "work efficiently on the right things in a visible way".
+
+ In the SSW Jira implementation, there are six situations where action is required by you swiftly and these appear on your dashboard in one or more of six filters:
+   
+
+| **Dashboard Filter:** | ** Status Now** | **You need to:** | **(As you are Performing the Role of:) ** | ** Which will change the Status to:** |
+| --- | --- | --- | --- | --- |
+| My Issues to Approve | Awaiting Approval | Approve or Reject | Adam | New |
+|  My Reported Issues to Answer | Questioned |  Answer or Close |  Reporter |  New |
+| My Assigned Unprioritised Issues | --various-- | Set priority with Update, Acknowledge, Progress | Assigneee | --various-- |
+| My Assigned New Prioritised Issues | New | Acknowledge, Progress, Done, Not Done, Block | Assignee | --various-- |
+| My Assigned Overdue Issues | --various-- | Update (with new due date), Done, Not Done | Assignee | --various-- |
+| My Reported Issues to Close | Resolved | Close or Re-open | Reporter | Closed or New |
+
+
+ NOTE: Most people will only have Reporter actions to perform. [Understand more about Reporters and Assignees](/Standards/Management/rulesforbetterjira/Pages/ReportesAndAssignees.aspx) 
+
+![](/Standards/Management/rulesforbetterjira/PublishingImages/Urgent.png) **Figure: Your [dashboard](http&#58;//jira.ssw.com.au/secure/Dashboard.jspa) is your Home Page when you ****[login like this](/Standards/Management/rulesforbetterjira/Pages/HowdoIsignintoJira.aspx)****and clearly shows the issues that need your immediate attention 
+**
+ For guidance on dealing with issues check out our other rules:
+
+[Answering](/Standards/Management/rulesforbetterjira/Pages/HowdoIansweraquestioninJira.aspx)[SSW Dashboard](/Standards/Management/rulesforbetterjira/Pages/SystemDashboard.aspx)
+[Reporters and Assignees](/Standards/Management/rulesforbetterjira/Pages/ReportesAndAssignees.aspx)
+[SSW Workflow](/Standards/Management/rulesforbetterjira/Pages/workflow.aspx)
+[Jira Rules Page](/Standards/Management/rulesforbetterjira)
