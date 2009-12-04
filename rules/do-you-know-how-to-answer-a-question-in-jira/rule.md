@@ -9,17 +9,24 @@ authors: []
 
 
 
-<span class='intro'> On receiving an email from Jira with &quot;Questioned&quot; in the subject or seeing a&#160;questioned task in your dashboard, &#160;you should open the task ..... ​ </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
-<p>You can&#160;open the relevant task in two ways&#58;</p>
-<ul><li>selecting it from your&#160;<a class="ms-rteCustom-External" href="/Pages/HowdoIansweraquestioninJira.aspx" target="_blank" shape="rect">System Dashboard</a> (Home in Jira) where it will appear in the left column, see <a href="/Pages/SystemDashboard.aspx" target="_blank" shape="rect">rules page on dashboard </a></li>
-<li>by clicking on the link of the &quot;Questioned&quot; email.&#160;&#160;If you are not logged in you you will be asked to do so; <a href="/Pages/HowdoIsignintoJira.aspx" shape="rect">this is how</a></li></ul>
+
+  <p>You can&#160;open the relevant task in two ways&#58;</p>
+<ul>
+    <li>selecting it from your&#160;<a shape="rect" href="http&#58;//jira.ssw.com.au/secure/Dashboard.jspa" class="ms-rteCustom-External" target="_blank">System Dashboard</a> (Home in Jira) where it will appear in the left column, see <a shape="rect" href="/Standards/Management/rulesforbetterjira/Pages/SystemDashboard.aspx" target="_blank">rules page on dashboard </a></li>
+    <li>by clicking on the link of the &quot;Questioned&quot; email.&#160;&#160;If you are not logged in you you will be asked to do so; <a shape="rect" href="/Standards/Management/rulesforbetterjira/Pages/HowdoIsignintoJira.aspx">this is how</a></li>
+</ul>
 <p>Once the task is displayed&#58;</p>
-<p>&#160;<img width="675" height="696" src="/PublishingImages/TaskToAnswer.png" border="0" alt="" style="border-bottom-width&#58;0px;border-bottom-style&#58;solid;border-bottom-color&#58;initial;border-left-width&#58;0px;border-left-style&#58;solid;border-left-color&#58;initial;border-top-width&#58;0px;border-top-style&#58;solid;border-top-color&#58;initial;border-right-width&#58;0px;border-right-style&#58;solid;border-right-color&#58;initial;" /></p>
-<p>You decide whether it is still required or not. <br>If it isn't - select Close and choose a relevant resolution&#58;</p>
-<p><img width="675" height="637" src="/PublishingImages/ClosingFromQuestion.png" border="0" alt="" style="border-bottom-width&#58;0px;border-bottom-style&#58;solid;border-bottom-color&#58;initial;border-left-width&#58;0px;border-left-style&#58;solid;border-left-color&#58;initial;width&#58;788px;height&#58;524px;border-top-width&#58;0px;border-top-style&#58;solid;border-top-color&#58;initial;border-right-width&#58;0px;border-right-style&#58;solid;border-right-color&#58;initial;" />&#160;</p>
+<p>&#160;<img width="675" height="696" style="border-bottom&#58;0px solid;border-left&#58;0px solid;border-top&#58;0px solid;border-right&#58;0px solid;" src="/Standards/Management/rulesforbetterjira/PublishingImages/TaskToAnswer.png" border="0" /></p>
+<p>You decide whether it is still required or not. <br>
+If it isn't - select Close and choose a relevant resolution&#58;</p>
+<p><img width="675" height="637" style="border-bottom&#58;0px solid;border-left&#58;0px solid;width&#58;788px;height&#58;524px;border-top&#58;0px solid;border-right&#58;0px solid;" src="/Standards/Management/rulesforbetterjira/PublishingImages/ClosingFromQuestion.png" border="0" /></p>
 <p>Otherwise, if it is still required, select Answer and complete the fields as shown, please read the description of the fields carefully&#58;</p>
-<p><img width="676" height="855" src="/PublishingImages/Answer.png" border="0" alt="" style="border-bottom-width&#58;0px;border-bottom-style&#58;solid;border-bottom-color&#58;initial;border-left-width&#58;0px;border-left-style&#58;solid;border-left-color&#58;initial;border-top-width&#58;0px;border-top-style&#58;solid;border-top-color&#58;initial;border-right-width&#58;0px;border-right-style&#58;solid;border-right-color&#58;initial;" />&#160;</p>
-<p>Once you have completed all required fields and pressed the Answer button, the task will be saved and put back on the Assignee's &quot;New&quot; queue.<br><br>You can see how this is part of the <a href="/Pages/workflow.aspx" target="_blank" shape="rect">workflow</a>.</p>
+<p><img width="676" height="855" style="border-bottom&#58;0px solid;border-left&#58;0px solid;border-top&#58;0px solid;border-right&#58;0px solid;" src="/Standards/Management/rulesforbetterjira/PublishingImages/Answer.png" border="0" /></p>
+<p>Once you have completed all required fields and pressed the Answer button, the task will be saved and put back on the Assignee's &quot;New&quot; queue.<br>
+<br>
+You can see how this is part of the <a shape="rect" href="/Standards/Management/rulesforbetterjira/Pages/workflow.aspx" target="_blank">workflow</a>.</p>
+
 
 
