@@ -1,0 +1,14 @@
+---
+type: rule
+title: Do you highlight strings in your code editor?
+uri: do-you-highlight-strings-in-your-code-editor
+created: 2009-05-11T07:45:41.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+- id: 17
+  title: Ryan Tee
+
+---
+
+ This field should not be null (Remove me when you edit this field). ![Default string appearance](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/HighlightString_bad_small.gif) Default string appearance ![Highlighted string appearance](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/HighlightString_good_small.jpg) Highlighted string appearance ![Tools | Options form of Visual Studio](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/HighlightString_VSOption_small.gif) Tools | Options form of Visual Studio
