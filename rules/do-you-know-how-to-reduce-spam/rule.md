@@ -55,7 +55,7 @@ Figure: Current email architecture with GMail.
 
 **The following steps need to be taken:
 
-1. Register for a Google Apps Standard Edition account. Go to [http://mail.google.com/](http&#58;//mail.google.com/) and register with your domain name.
+1. Register for a Google Apps Standard Edition account. Go to [http://mail.google.com/mail/](http&#58;//mail.google.com/mail/) and register with your domain name.
 
 2. Setup a catch-all account in Gmail and enable POP3 access to it. This means that only one account will need to be checked to retrieve filtered mail.
 
