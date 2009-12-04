@@ -1,0 +1,26 @@
+---
+type: rule
+title: Do you make your projects regenerated easily?
+uri: do-you-make-your-projects-regenerated-easily
+created: 2009-06-09T06:43:07.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+- id: 17
+  title: Ryan Tee
+
+---
+
+ This field should not be null (Remove me when you edit this field). 
+Code generators can be used to generate whole Windows and Web interfaces, as well as data access layers and frameworks for business layers, making them an excellent time saver. However making the code generators generate your projects for the first time takes much time and involves lots of configurations.
+
+In order to make it easier to do the generation next time, we recommend you putting the command line of operations into a file called "\_Regenerate.bat". When you want to generate it next time, just run the bat file and all things are done in a blink.
+
+
+```
+cs D:\DataDavidBian\Personal\New12345\NetTiers.csp
+```
+
+Figure: An example of command line of Code Smith for NorthWind
+Thus "\_Regenerate.bat" file must exist in your projects (of course so must other necessary resources).
+![](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/RegenerateBat.jpg)Figure: Good - Have \_Regenerate.bat in the solution
