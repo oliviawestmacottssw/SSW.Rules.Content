@@ -12,7 +12,7 @@ authors:
 ---
 
 
-Always plan for a catastrophic disaster, in the event of errors when testing:
+Always [plan for a catastrophic disaster](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterNetworks.aspx#assumeCatastrophic), in the event of errors when testing:
 
 1. Take the TFS2010 server offline
 2. Bring the TFS2008 server online
