@@ -13,13 +13,12 @@ authors:
 
 
 
-<span class='intro'> Stored procedure names in code should always be prefixed with the owner (usually dbo). This is because if the owner is not specified, SQL Server will look for a procedure with that name for the currently logged on user first, creating a performance hit. 
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
   <dl class="badCode">
     <dt style="width&#58;92.63%;height&#58;76px;">
-    <pre>SqlCommand sqlcmd = new SqlCommand(); sqlcmd.CommandText = &quot;<span style="background-color&#58;rgb(255, 0, 0);">
+    <pre>SqlCommand sqlcmd = new SqlCommand(); sqlcmd.CommandText = &quot;<span style="background-color&#58;#ff0000;">
                     proc_InsertCustomer</span>&quot; sqlcmd.CommandType
                     = CommandType.StoredProcedure; sqlcmd.Connection = sqlcon;</pre>
     </dt>
@@ -28,7 +27,7 @@ authors:
 <dl class="goodCode">
     <dt style="width&#58;93.1%;height&#58;80px;">
     <pre>SqlCommand sqlcmd = new SqlCommand(); sqlcmd.CommandText = &quot;
-                     <span style="background-color&#58;rgb(0, 255, 0);">dbo.proc_InsertCustomer</span>&quot;; sqlcmd.CommandType
+                     <span style="background-color&#58;#00ff00;">dbo.proc_InsertCustomer</span>&quot;; sqlcmd.CommandType
                      = CommandType.StoredProcedure; sqlcmd.Connection = sqlcon;</pre>
     </dt>
     <dd>Good Example </dd>
