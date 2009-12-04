@@ -11,11 +11,7 @@ authors:
 
 
 
-<span class='intro'> 
-  <p>​&#160;When you follow a rule, remember to refer to its URL&#58;<br></p>
-<img class="ms-rteCustom-ImageArea" src="/PublishingImages/RuleReferrence.jpg" alt="RuleReference" />
-<span class="ms-rteCustom-FigureGood">Good Example&#58; Refer to the URL</span>
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
 
