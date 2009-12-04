@@ -9,6 +9,8 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
 
+There must always be **\*one\* **person who is responsible for the project getting into production. That person is the project manager.
 
+SSW's Rules to Better Project Management, built on eXtreme Programming, allows businesses to address their most important challenges first, and respond quickly to a changing commercial environment. Whether you work on site or remotely, the key is good communication with the customer and users, becoming an integrated part of your team. [Follow these rules and you will deliver functional, value-adding software - faster](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagement.aspx).
+      
