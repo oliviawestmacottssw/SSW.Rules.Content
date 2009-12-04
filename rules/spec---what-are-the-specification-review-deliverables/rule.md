@@ -15,13 +15,30 @@ authors:
 
 
 
-<span class='intro'> Usually, a specification process is done with the client before beginning work on a project, just like you would never build a house without getting an architect to create a plan.<br>&#160;<br>As you might appreciate, it is not realistic to understand the complexity of your system and give you a realistic estimate after a brief meeting. Our experience tells us we will need to spend a few days to obtain and document the requirements from your project’s stakeholders. This will help you turn your ideas into a more detailed roadmap.&#160;<br> </span>
+<span class='intro'> <p>The Initial Release Plan is a summary of the work required to complete the clients project and provides a ballpark estimate. The Initial Release Plan will contain the following elements&#58; </p> </span>
 
-<dl class="image" style="width&#58;249px;clear&#58;both;float&#58;right;"><dt>
-      <img class="ms-rteCustom-ImageArea" alt="Remember, a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early" src="/PublishingImages/ProjectManagement_BallPark_Catch.jpg" border="0" /> 
-   </dt><dd>
-      <span class="ms-rteCustom-FigureNormal">Figure&#58; Remember, a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early by estimating too small</span></dd></dl><p></p>The deliverables for the Specification Review depend upon how large the application is and the time we have spent on the review.&#160; You will receive the following&#58;<div><br></div><div><strong>Requirements Analysis</strong><br> 
-<ul><li>​An architectural roadmap recommending technical solutions<br></li><li>A breakdown of the required software application into its core components, likely to include the approximate number of main features (e.g. forms, reports, etc.) </li><li>An integration plan​ </li><li>A deployment strategy </li><li>An MVP (minimum viable product) will be identified, as well as a<span style="background-color&#58;initial;">&#160;wish list - requiring the client to se​t the priorities for the project through defining what is in and out of scope for the MVP</span></li><li>A detailed list of 'issues' associated with the existing system which impact future development and maintenance </li><li>Hardware and licensed software recommendations </li><li>Mock-ups if required<br></li></ul><p> <strong>Summary Product&#160;Bac</strong><strong>klog&#160;​</strong><br></p><ul><li><span style="line-height&#58;1.6;">​​A list of product backlog items (PBIs) will be broken down based on the Requirements Analysis and the Architectural Design</span><br></li><li><span style="line-height&#58;1.6;">These PBIs will then be estimated</span><br></li></ul><p><span style="line-height&#58;1.6;background-color&#58;initial;">​</span><span style="line-height&#58;1.6;background-color&#58;initial;"><strong>Ballpark Estimates</strong></span></p><ul><li><span style="line-height&#58;1.6;">The estimated number of sprints</span><br></li><li><span style="line-height&#58;1.6;">Estimated cost of the project</span><br></li></ul><p>
-   With the Specification Review, the client can see whether the consultant&#160;understands their business and the requirements for their software development project.&#160;</p><p>The ballpark estimate allows them to decide whether the project is feasible for their budget and time-frame.<br></p></div>
+<dl style="width&#58;249px;float&#58;right;clear&#58;both;" class="image">
+<dt><img class="ms-rteCustom-ImageArea" border="0" alt="Remember, a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early" src="/Standards/Management/RulesToBetterProjectManagement/PublishingImages/ProjectManagement_BallPark_Catch.jpg" /></dt>
+<dd><span class="ms-rteCustom-FigureNormal">Figure&#58; Remember, a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early</span></dd></dl>
+<ul>
+<li>An architectural roadmap recommending technical solutions</li>
+<li>Time allocated for further specification work to be included in each Release. At SSW we only create detailed specifications for 3 releases at a time</li>
+<li>A breakdown of the required software application into its core components, likely to include the approximate number of main features (e.g. screens, reports or sitemap)</li>
+<li>An integration plan</li>
+<li>A deployment strategy</li>
+<li>A 'future functionality' wish list - requiring the client to set the priorities for the project through defining what is in and out of scope</li>
+<li>A detailed list of 'issues' associated with the existing system which impact future development and maintenance</li>
+<li>Hardware and licensed software recommendations</li>
+<li>A sample mock-up screen where the project is less than one month</li></ul>
+<p><strong>Sample Initial Release Plan</strong> </p>
+<ol>
+<li>Release&#160;1 (1.5 man months) - Database schema design</li>
+<li>Release&#160;2 (1.5 man months) - Development Module 1 Customers</li>
+<li>Release&#160;3 (1.5 man months) - Development Module 2 Products</li>
+<li>Release&#160;4 (1.5 man months) - Development Module 3 Orders</li>
+<li>Release&#160;5 (1.5 man months) - Development Module 4 Suppliers</li>
+<li>Release&#160;6 (1.5 man months) - Development Modules 5 Employees</li></ol>
+<p>With the Initial Release Plan, the client can see whether SSW understands their business and the requirements for their software development project. The ballpark estimate allows them to decide whether the project is feasible for their budget and time-frame. </p>
+<p>&#160;</p>
 
 
