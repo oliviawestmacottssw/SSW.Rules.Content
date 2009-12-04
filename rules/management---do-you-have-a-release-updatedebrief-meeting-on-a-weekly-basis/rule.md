@@ -9,30 +9,45 @@ authors:
 
 ---
 
- 
-Every week the project manager should meet with the client to conduct an external "Test Please" as well as to discuss the status of the release. While it is better to conduct an internal "test please" before the meeting, the update/debrief should proceed even if it hasn't been completed.
+
+Every week the project manager should meet with the client to conduct an external "Test Please" as well as to discuss the status of the release.
+
+Tip #1: Choose the same day each week (for example SSW chooses Tuesday)
+ Tip #2: While it is better to conduct an internal "Test Please" before the meeting (for example SSW chooses Friday), this "Release Update/Debrief Meeting" should proceed (even if it hasn't been completed).
 
 This is the agenda:
- 
-1. [Test please](/Standards/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)
-2. Status of original work items
-3. Triage additional work items
-4. Approval for additional work items/budget overruns
-5. Release sign-off & deployment schedule
-6. Approval of next release
-7. Ask the client for a mark out of 10 for the release
+
+1. Status of original work items - are they all done?
+2. External [Test Please](/Standards/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx) - go through the application and get the clients thoughts. Many issues they see, will already be reported by the internal "Test Please". Send emails for the new ones.
+3. Triage these additional work items - try to move all to the next release
+4. Approval for additional work items/budget overruns - talk $$ 
+<br>    eg. look at the "Actual" and "Estimate" figures on the top of the report
+5. Release sign-off - "Yes" or "No"?
 
 
-You can use the [eXtreme Emails Release update/debrief](http&#58;//www.ssw.com.au/ssw/EXtremeEmails/ManageProjects.aspx#ReleaseDebrief) template or SSW's TFS add-in \*\*Link needed\*\* to easily confirm the outcome of the meeting by email.
+If "Yes"
 
-**Promote your success**
-
-If the debrief is the last one of the project always:
-
-- Create a case study and get it approved - make sure it's branded nicely for the client
-- Ask for a testimonial for the work you have done
-- Add a link to the work you have done from your website or marketing material
+1. Ask the client for a mark /10 for the release
+2. Ask the client if you can do a deployment to Production?
+3. Ask for Approval for next release
 
 
-At SSW we do this at [our Clients](http&#58;//www.ssw.com.au/ssw/Company/OurClients.aspx) page
+There are two kinds of tools to help you do this
+
+- [SSW eXtreme Emails - Release Update/Debrief Report](http&#58;//www.ssw.com.au/ssw/EXtremeEmails/ManageProjects.aspx#ReleaseDebrief)
+
+![](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/ReleaseDebrief_small.jpg) Figure: The actual output of the Release Debrief Report
+Here is a HTML format [SSW Release Debrief Report.](http&#58;//www.ssw.com.au/ssw/extremeemails/reports/releasedebriefreport.htm)
+
+- [SSW TFS Add-in - Release Update/Debrief Report](http&#58;//www.ssw.com.au/ssw/AgileTemplate/UserGuide.aspx#ReleaseUpdate)
+
+![](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/ProgressReport_small.jpg) Figure: The actual output of the Release Update Report
+Here is a PDF format [SSW Release Update Report.](http&#58;//www.ssw.com.au/ssw/AgileTemplate/Sample/SSWReleaseUpdate.pdf)
+
+**If you are at the end of a main section of work, promote your success **
+
+- [Ask for a testimonial for the work you have done](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#PostClientWork)
+- Create a case study and get it approved - Info should be a win-win for the client. eg.  [WorleyParsons](http&#58;//www.ssw.com.au/ssw/Company/WorleyparsonsCaseStudy.aspx)
+- Add a link to the work you have done from your website or marketing material. eg. at SSW we do this via the [Our Clients](http&#58;//www.ssw.com.au/ssw/Company/OurClients.aspx) page
+
 
