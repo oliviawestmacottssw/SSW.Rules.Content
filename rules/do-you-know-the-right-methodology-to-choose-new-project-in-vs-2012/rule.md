@@ -13,8 +13,24 @@ authors:
 
 
 
-<span class='intro'> <p>When you decide to use TFS 2012, you have the option to choose from different methodologies (aka. Process Templates). </p><p>Choosing the right template to fit into your environment is very important. </p> </span>
+<span class='intro'> When you decided to use VSTS 2010, you have the options to choose from different methodologies (aka. Process Templates). Choose the right template to fit into your environment is very important, if you think the built-in template is not going to fulfil your need, customize it and create your own. In SSW, we have our own SSW.AgileTemplate to fit into our own development life cycle. 
+ </span>
 
-<dl class="image"><dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/VSTS2010ProcessTemplates.jpg" alt="" /></dt><dd>Figure&#58; Built-in Process Templates in Visual Studio 2012 with TFS 2012</dd></dl><p>It is recommended to use the top option, the Scrum one. If you think the built-in template is not going to fulfil your needs, customize it and create your own.</p><p class="greyBox">If you want help customising your own Process Template, call a TFS guru at SSW on +61 2 9953 3000.</p>
+
+  <img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Management/RulesToBetterProjectManagement/PublishingImages/VSTS2010ProcessTemplates.jpg" /> <br>
+<font class="ms-rteCustom-FigureNormal">Figure&#58; Built-in Process Templates in VSTS 2010</font><br>
+<br>
+Beside the Microsoft Process Templates below&#58;<br>
+- MSF for Agile Software Development v5.0<br>
+- MSF for CMMI Process Improvement v5.0<br>
+<br>
+You also have the choices from&#58;<br>
+- SSW.AgileTemplate<br>
+- Conchango Scrum<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
