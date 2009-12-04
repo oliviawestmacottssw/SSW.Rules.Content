@@ -1,0 +1,44 @@
+---
+type: rule
+title: Do you reference "most" .dlls by Project?
+uri: do-you-reference-most-dlls-by-project
+created: 2009-04-28T03:36:16.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+- id: 17
+  title: Ryan Tee
+
+---
+
+ This field should not be null (Remove me when you edit this field). 
+When you face a bug, there are 2 types of emails you can send:
+
+1. Dan, I get this error calling your Registration.dll? or
+2. Dan, I get this error calling your Registration.dll and I have investigated it. As per our conversation, I have changed this xxx to this xxx.
+
+
+The 2nd option is preferable.
+**The simple rule is:**
+- If there are no bugs then reference the assembly, and
+- If there are bugs in the project (or any project it references [See note below]) then reference the project.
+
+
+Since most applications have bugs, therefore most of the time you should be using the second option.
+
+If it is a well tested component and it is not changing constantly, then use the first option.
+
+1. Add the project to solution (if it is not in the solution). ![Add existing project](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/ReferenceProject1.gif) Figure: Add existing project
+2. Select the "References" folder of the project you want to add references to, right click and select "Add Reference...". 
+![Add reference](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/ReferenceProject2.gif) Figure: Add reference
+3. Select the projects to add as references and click OK. ![Select projects to reference](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/ReferenceProject3.gif) Figure: Select the projects to add as references
+
+
+Note: We have run into a situation where we reference a stable project A, and an unstable project B. Project A references project B. Each time project B is built, project A needs to be rebuilt.
+
+Now, if we reference stable project A by dll, and unstable project B by project according to this standard, then we might face referencing issues, where Project A will look for another version of Project B ?the one it is built to, rather than the current build, which will cause Project A to fail.
+
+To overcome this issue, we then reference by project rather than by assembly, even though Project A is a stable project. This will mitigate any referencing errors.
+
+
+
