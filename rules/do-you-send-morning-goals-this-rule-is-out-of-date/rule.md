@@ -9,7 +9,13 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+\*Note: We no longer do this, we now do our daily stand-up meetings (Scrums) because it is more effective with interactions between team members. 
+(An alternative to morning goals is having [daily stand up meetings](/Standards/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx) (scrums) which is more effective for interactions between team members and the client/manager. We now prefer scrums.)
+
+Before a day starts it is not only important to have a list of what you plan on achieving that day but to communicate that list to your manager and/or client. This not only keeps you accountable but allows your superior to change your priorities if needed.
+
+You can use eXtreme Emails to communicate your "Morning Goals" using the following method:
+
 ![Morning Goals Email](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/MorningGoals.jpg)
 Figure: Sample Morning Goals Email 
 
@@ -22,8 +28,4 @@ Figure: Sample Morning Goals Email
     ![Morning Goal Aims](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/MorningGoalAims.gif)
 Figure: Morning Goal Item with a mini goal (140 emails)
 
-
-
- CC the people you are working with on the email. 
-
-
+<br>CC the people you are working with on the email. 
