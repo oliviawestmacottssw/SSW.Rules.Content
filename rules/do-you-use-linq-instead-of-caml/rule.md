@@ -9,7 +9,12 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ In SharePoint development, it is always a good practice to use LINQ, instead of CAML.
+<br>Why CAML is bad?<br>
+- New language skills required for .NET developers
+- No IntelliSense or strongly typed objects
+
+
 Why LINQ is good?
 
 - No new language skills required
