@@ -41,8 +41,8 @@ Figure:Copy content in the notepad2. Delete the current content from Telerik fo
 ![Start copying content over](/Standards/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/CopyFromNotePad.jpg)
 Figure: Start copying content over4. Insert the image
 ![Insert an image](/Standards/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/InsertImage.jpg)
-Figure: Insert an image5. Add an image
-
+Figure: Add a link to text5. Add an image
+![Insert an image](/Standards/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/ApplyStyleInsertImage.jpg)
 Figure: Inser an image6. Press “enter” key to start a new row, then copy the figure from notepad to the Telerik editor area
 ![Add figure](/Standards/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/ApplyStyleAddFigure.jpg)
 Figure: Add figure7. Apply image style to the image by click on the image, then choose a style from “Apply CSS Class” dropdown list
@@ -55,5 +55,5 @@ Figure: Apply style to the figure9.Apply the yellow box
 ![Apply style to the figure](/Standards/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/ApplyStyleFigure.jpg)
 Figure: Apply yellow border box to the content10. Check in the changes, then you will have - "dada.."
 ![Right stlye in use](/Standards/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/ApplyStyleResult.jpg)
- Figure: Right style in use
+Figure: Right style in use
 
