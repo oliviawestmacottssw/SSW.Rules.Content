@@ -21,13 +21,13 @@ Let's take the "AvoidReplyToAllWhenBcc" page as example.
 - there is no style apply to figure;
 
 
-&lt;span class="ms-rteCustom-YellowBorderBox"&gt;We have a program called &lt;a href="[http://sharepoint.ssw.com.au/Standards/WebSites/RulesToBetterWebsitesLayout/Pages/originalAttribute=](/Standards/WebSites/RulesToBetterWebsitesLayout/Pages/originalAttribute=)"&gt;
+&lt;span class="ms-rteCustom-YellowBorderBox"&gt;We have a program called &lt;a href="[http://sharepoint.ssw.com.au/Standards/WebSites/RulesToBetterWebsitesLayout/](/Standards/WebSites/RulesToBetterWebsitesLayout)"&gt;
 <br>        SSW LookOut! for Outlook&lt;/a&gt; to check for this rule.
 <br>        &lt;br /&gt;
 <br>        &lt;br /&gt;
 <br>       &lt;span class="ms-rteCustom-ImageArea"&gt;
             &lt;img style="border-bottom: 0px solid; border-left: 0px solid; border-top: 0px solid;
-<br>                border-right: 0px solid;" border="0" alt="Lookout Reply All BCC Warning" src="[http://sharepoint.ssw.com.au/Standards/WebSites/RulesToBetterWebsitesLayout/Pages/originalAttribute=](/Standards/WebSites/RulesToBetterWebsitesLayout/Pages/originalAttribute=)" /&gt;
+<br>                border-right: 0px solid;" border="0" alt="Lookout Reply All BCC Warning" src="[http://sharepoint.ssw.com.au/Standards/WebSites/RulesToBetterWebsitesLayout](/Standards/WebSites/RulesToBetterWebsitesLayout)" /&gt;
 <br>            &lt;br /&gt;
 <br>       &lt;/span&gt;&lt;b&gt;
 <br>            &lt;br /&gt;
