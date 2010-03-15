@@ -15,6 +15,7 @@ authors:
 If someone's blog post is interesting or inflammatory enough that you want to comment on it, then it is probably worth a tweet.
 
 
-> **[MrHinsh](http&#58;//twitter.com/MrHinsh)** I missed this...John Liu, making sense, something to see [http://bit.ly/9wzSVT](http&#58;//bit.ly/9wzSVT)
+> **[MrHinsh](http&#58;//twitter.com/MrHinsh)** I missed this...John Liu, making sense, something to see [http://bit.ly/9wzSVT](http&#58;//bit.ly/9wzSVT) 
+> [less than 20 seconds ago](http&#58;//twitter.com/MrHinsh/status/10522525724)via [bit.ly](http&#58;//bit.ly/)
 
 
