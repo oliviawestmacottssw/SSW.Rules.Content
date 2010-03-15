@@ -16,6 +16,7 @@ If someone's blog post is interesting or inflammatory enough that you want to co
 
 
 > **[MrHinsh](http&#58;//twitter.com/MrHinsh)** I missed this...John Liu, making sense, something to see [http://bit.ly/9wzSVT](http&#58;//bit.ly/9wzSVT) 
-> [less than 20 seconds ago](http&#58;//twitter.com/MrHinsh/status/10522525724)via [bit.ly](http&#58;//bit.ly/)
+> [less than 20 seconds ago](http&#58;//twitter.com/MrHinsh/status/10522525724)via [bit.ly](http&#58;//bit.ly/) 
+>  Figure: When you comment, tweet the other persons blog. Its only polite.
 
 
