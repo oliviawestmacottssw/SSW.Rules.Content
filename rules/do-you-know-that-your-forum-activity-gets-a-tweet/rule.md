@@ -22,5 +22,15 @@ If you are active in a forum, like the MSDN or Stackoverflow forums, then you sh
 > **Figure: Good example, Aardvark tweets are built in.**
 
 
-Maybe your followers will want to chip in with a better answer.
+Maybe your followers will want to chip in with a better answer. 
+
+ This is done by finding your "activity" feed on the forum:
+
+
+> Activity feed from for Microsoft 
+> [http://services.social.microsoft.com/Feeds/Activities?user=MrHinsh&lcid=en-US&brand=Msdn&format=rss20](http&#58;//services.social.microsoft.com/Feeds/Activities?user=MrHinsh&amp;lcid=en-US&amp;brand=Msdn&amp;format=rss20)
+> 
+> Activity feed from StackOverflow
+> [http://stackoverflow.com/feeds/user/11799](http&#58;//stackoverflow.com/feeds/user/11799)
+
 
