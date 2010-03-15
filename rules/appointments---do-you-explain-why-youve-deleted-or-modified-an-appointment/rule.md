@@ -11,4 +11,8 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Whenever you have to modify the time, attendees or subject of an appointment, always send the updated one with comments at the top to explain why you want make these changes. 
+
+<br>This will help to solidify the changes and alleviate confusion.
+
+![](/Standards/Communication/RulesToBetterEmail/PublishingImages/AppointmentWithComments.jpg)   Figure: The note in brackets explains the change that has been made
