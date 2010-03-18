@@ -11,4 +11,14 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+The purpose of a rule is to effectively establish and record a process to guide employees in their day to day activities.
+
+Rules facilitate:
+
+- Consistency<br>    - Coherent instruction<br>    - A high standard of documentation<br>    - Better understanding of processes
+- Efficiency improvements
+
+
+Only write a rule after the situation has happened more than once – chances are it will happen again and a rule/standard should be created.
+
