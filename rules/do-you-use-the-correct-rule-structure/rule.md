@@ -7,4 +7,12 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+Your rule should be structured as follows:
+
+- Heading as a question
+- Why this rule exists and description
+- Bad example
+- Good example
+
+
