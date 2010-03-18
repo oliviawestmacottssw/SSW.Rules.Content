@@ -16,7 +16,10 @@ The purpose of a rule is to effectively establish and record a process to guide 
 
 Rules facilitate:
 
-- Consistency<br>    - Coherent instruction<br>    - A high standard of documentation<br>    - Better understanding of processes
+- Consistency
+- Coherent instruction
+- A high standard of documentation
+- Better understanding of processes
 - Efficiency improvements
 
 
