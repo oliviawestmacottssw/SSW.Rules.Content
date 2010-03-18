@@ -13,11 +13,11 @@ authors:
 
 
 
-<span class='intro'> Consistency across your similar pages (such as standards pages in this case) is very important and should be made easy to implement. 
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
-  <p>Guidelines and standards&#160;for the SSW website pages can be found at&#160;<span style="line-height&#58;20px;"><a href="https&#58;//www.ssw.com.au/ssw/company/Web-Reference.aspx">SSW&#160;Web Design References </a> .</span></p>
+  <p>Guidelines/standards and rules for the SSW website pages can be found at&#58; </p>
+<p><a href="http&#58;//www.ssw.com.au/ssw/standards/Templates/SSWWebTemplate.aspx" target="_blank">http&#58;//www.ssw.com.au/ssw/standards/Templates/SSWWebTemplate.aspx</a></p>
 
 
 
