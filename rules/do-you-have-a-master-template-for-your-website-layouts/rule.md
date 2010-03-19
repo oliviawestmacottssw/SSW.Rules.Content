@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Consistency across your similar pages (such as standards pages in this case) is very important and should be made easy to implement. <br> 
 Guidelines/standards and rules for the SSW website pages can be found at:
 
 [http://www.ssw.com.au/ssw/standards/Templates/SSWWebTemplate.aspx](http&#58;//www.ssw.com.au/ssw/standards/Templates/SSWWebTemplate.aspx)
