@@ -7,4 +7,6 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Your good and bad examples should be concise and to the point. 
+
+<br>Keep it simple, stupid :) <br> 
