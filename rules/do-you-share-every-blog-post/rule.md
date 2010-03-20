@@ -12,17 +12,20 @@ authors:
 ---
 
 
-You should always publish your blog posts to Twitter. It helps boost traffic and visability for your site.
+You should always publish your blog posts to Twitter. It helps boost traffic and visibility for your site.
 
- You do not need to do this manualy, there are services out there that will monitor your blogs RSS or ATOM feed and publish when you do.
+Make it automatic. You do not need to do this manually, there are services out there that will monitor your blogs RSS or ATOM feed and publish when you do.
 
-- [TwitterFeed](http&#58;//twitterfeed.com/) - This service offers a dedicated established service that will publish your feed to Twitter and Facebook.
-- [FeedBurner](http&#58;//feedburner.com/) - The feedburner service is provided by google and will monitor subscriptions and usage of your feeds.
-
-
-note: it does not even have to be a blog, any RSS feed will do.
+The best one is:
+    
+- [TwitterFeed](http&#58;//twitterfeed.com/) - This offers a dedicated established service that will publish your feed to Twitter and Facebook.
 
 
-> Blogging about When should I use Areas in TFS instead of Team Projects: Well, it depends…. If you are a small com... [http://bit.ly/cWqluq](http&#58;//bit.ly/cWqluq) [about 15 hours ago](http&#58;//twitter.com/MrHinsh/status/10218433605)via [twitterfeed](http&#58;//twitterfeed.com/)
+Unfortunately this automated service does not automatically add hashtags. (Suggestion: they should take this from your "categories" or "labels" that you use to tag your posts).
+ So the solution is to "double tweet" your blog post, adding useful hash tags.
 
+Do you know the minimum builds to create on any branch? [http://bit.ly/aXeGmU](http&#58;//bit.ly/aXeGmU)    1:51 AM Mar 19th   via twitterfeed
+Bad example - Leaving only this automated one, that came from twitterfeed (missing hash tags) 
+Do you know the minimum builds to create on any branch? [http://bit.ly/aXeGmU](http&#58;//bit.ly/aXeGmU)    1:51 AM Mar 19th   via twitterfeed(Adding hashtags) Do you know the minimum builds to create on any branch? [http://goo.gl/fb/Q71F](http&#58;//goo.gl/fb/Q71F)  #ssw #sswrules #vsalm #vsalmbuild    1:51 AM Mar 19th   via Google
+Good example - Adding hash tags to your automated tweet
 
