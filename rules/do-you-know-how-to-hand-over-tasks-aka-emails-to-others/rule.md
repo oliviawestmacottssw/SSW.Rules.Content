@@ -53,6 +53,7 @@ keeps crashing when I do a search under 'Company', please fix
 
 Figure: Good example - task clearly redirected 
 
- If you need to handover an entire project there are more details here:
-[http://sharepoint.ssw.com.au/Standards/Management/RulesToSuccessfulProjects/Pages/HandOverProject.aspx](/Standards/Management/RulesToSuccessfulProjects/Pages/HandOverProject.aspx) 
+
+If you need to handover an entire project there are more details here:
+[http://sharepoint.ssw.com.au/Standards/Management/RulesToSuccessfulProjects/Pages/HandOverProject.aspx](/Standards/Management/RulesToSuccessfulProjects/Pages/HandOverProject.aspx)
 
