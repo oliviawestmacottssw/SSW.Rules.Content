@@ -40,7 +40,7 @@ Done
 - **Confirm planned tasks **    Get release 43 out.
 - **Confirm location **
     - Source control<br>                Nothing
-    - Data storage<br>                [file://server/DataSSW/SSWProducts/Northwind](file&#58;//server/DataSSW/SSWProducts/Northwind)
+    - Data storage<br>                file://server/DataSSW/SSWProducts/Northwind
     - Deployment<br>                Make a build by using WISE
          Test: seadragon
          Production: squirrel
