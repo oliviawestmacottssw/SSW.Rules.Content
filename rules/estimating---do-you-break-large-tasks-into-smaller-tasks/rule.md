@@ -7,8 +7,8 @@ authors: []
 
 ---
 
- A task should never have an estimate of more than a day (8 hours).<br> 
+ A task should never have an estimate of more than a day (8 hours). <br> 
 If you have a big task with an estimate of more the 4 hours, you should consider breaking it in sub-tasks. In case the estimate has changed during the sprint, the “Remaining Hours” field must be update in order to have an accurate Burndown chart.
 
-The reason scrum limits the maximum hours is because you should always know in which task you are working and we don’t believe one single action can take that long.
+The reason scrum limits the maximum hours is because you should always know in which task you are working and we believe one single action that takes more than 4 hours might be too generic. Refer to [Do you create tasks under 4 hours?](/Standards/Management/RulesToBetterProjectManagement/Pages/TaskUnderFourHours.aspx) to know more.
 
