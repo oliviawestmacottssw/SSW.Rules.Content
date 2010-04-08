@@ -7,7 +7,9 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+A task should never take more than a day (8 hours) to be completed.
+
 If you have a big task, which takes more the 4 hours, you might consider breaking it in sub-tasks. In case the estimate has changed during the sprint, the “Remaining Hours” field must be update in order to have an accurate Burndown chart.
 
 The reason scrum limits the maximum hours is because you should always know in which task you are working and we don’t believe one single action can take that long.
