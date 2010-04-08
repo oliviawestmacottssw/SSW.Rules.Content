@@ -9,10 +9,7 @@ authors: []
 
 
 
-<span class='intro'> 
-  <p>Team members should always know in what task they are working on and make sure TFS is up-to-date. 
-</p>
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
   <p>It’s natural that everyone spends some time on grooming, making decisions etc, so it’s not expected that all team members work 8 hours per day on tasks. However, ideally everyone should be doing as many hours as possible.</p>
