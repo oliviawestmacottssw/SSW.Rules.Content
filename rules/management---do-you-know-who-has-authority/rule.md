@@ -9,7 +9,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Ok, once a project gets going, you can end up dealing with many people on the client side. From the Boss to the Business Decision Maker (we call them the "Product Owner") through to Mary the receptionist (aka "users"), everyone has something to say about the software as it is being developed. However, when you are working on a Time & Materials basis in a rapid development environment with continually changing specs, you have to be certain that the work you are doing is authorised by the person who signs the cheques.<br> 
 
 **To:** Angelo;
 **Cc:** John, Sophie
@@ -30,8 +30,8 @@ So, say Alan from Accounts would like the Username and Password authentication t
 
 As an example, this is how we govern this process:
 
-- At the beginning of the project one of the client staff is assigned as Company Champion. This person has full authority from the Business Decision Maker of the client as to what work is IN or OUT. Every new item of work must be authorized by this Company Champion.
-- Whenever someone who ISN'T the Company Champion makes a request for work, the Company Champion must be CC'd. If Mary the receptionist has not done this, the developer sends the email again to himself, and CC's the Company Champion (CC'ing other relevant people - if they may give feedback on the task) to let them know about the request.
-- We make the assumption that the task is good to go, so it is the Company Champion's job to make sure that they reply ASAP if they don't want the problem fixed.
+- At the beginning of the project one of the client staff is assigned as Product Owner. This person has full authority from the Business Decision Maker of the client as to what work is IN or OUT. Every new item of work must be authorized by this Product Owner.
+- Whenever someone who ISN'T the Product Owner makes a request for work, the Product Owner must be CC'd. If Mary the receptionist has not done this, the developer sends the email again to himself, and CC's the Product Owner (CC'ing other relevant people - if they may give feedback on the task) to let them know about the request.
+- We make the assumption that the task is good to go, so it is the Product Owner's job to make sure that they reply ASAP if they don't want the problem fixed.
 
 
