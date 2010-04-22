@@ -24,6 +24,8 @@ Each SharePoint packages contains features that can be targetted at various scop
 
 
 
+
+
 <br>But there is a problem... <br>   The problem with this web application feature is that it will activate by default on All new Web Applications created on that farm, regardless of what the web application or root site template is.
 
  The best practice is to make sure you use the additional attribute ActivateOnDefault and set it to False.  Then SharePoint administrators can choose to activate the feature after a new web application is created.
