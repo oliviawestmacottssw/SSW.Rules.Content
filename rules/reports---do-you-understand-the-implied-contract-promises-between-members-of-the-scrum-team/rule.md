@@ -11,7 +11,7 @@ authors: []
 
 | **Role** | **Promises ** |
 | --- | --- |
-| The Organisation | <ul>                <li>the team that there are stakeholders (including subject matter experts) who will help when needed </li>
+| The Organization | <ul>                <li>the team that there are stakeholders (including subject matter experts) who will help when needed </li>
                 <li>the team that there are stakeholders (including subject matter experts) who will help when needed </li>
                 <li>they will help the ScrumMaster in the removal of impediments to the Scrum team’s progress </li>
                 <li>the team that they will not change priorities or constraints in the middle of a sprint without team’s consent </li>
@@ -34,7 +34,7 @@ authors: []
                 <li>to use the stakeholders’ time wisely, by focusing on questions that are relevant to the work being done now </li>
                 <li>to do quality work the best way they know how within the constraints set forth by the organization </li>
                 <li>to deliver demonstrable product at the end of every sprint for review and validation by the stakeholders </li>
-                <li>to endeavour to become multi-skilled by sharing and pairing and not relying on experts on the team for specific functions </li>
+                <li>to endeavor to become multi-skilled by sharing and pairing and not relying on experts on the team for specific functions </li>
             </ul> |
 | Team Member | <ul>                <li>to bring issues, problems, impediments and realities encountered to the team </li>
                 <li>to be available and working with the team on every defined Scrum Day of a sprint in which they committed and any required absences will be scheduled before the beginning of the sprint </li>
