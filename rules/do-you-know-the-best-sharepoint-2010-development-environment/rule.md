@@ -44,7 +44,7 @@ One of the biggest problem is that SharePoint 2007 can only be installed on Wind
 <br>    Tip #4: The 64-bit requirement means, your host must be x64 to run the virtual machines in x64
 - Use ‘Boot’ to VHD (Recommended) 
 <br>    Note: Only if you have Windows 7 as the host
-<br>    See: Less Virtual, More Machine - Windows 7 and the magic of Boot to VHD
+<br>    See: [Less Virtual, More Machine - Windows 7 and the magic of Boot to VHD](http&#58;//www.hanselman.com/blog/LessVirtualMoreMachineWindows7AndTheMagicOfBootToVHD.aspx)
 - Install SharePoint 2010 on your Windows 7 PC (Not Recommended)
 <br>    You are not fully representing the production server
 
