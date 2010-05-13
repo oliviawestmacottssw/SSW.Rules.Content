@@ -7,11 +7,9 @@ authors: []
 
 ---
 
- The role of the [Story Owner](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/OwnerForEveryUserStory.aspx) is like a mini project manager. The story owner resolves any road blocks and performs the “[Test Please](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/TestPleaseInScrum.aspx)” and makes sure there is a good presentation at the Review Meeting. 
+ The role of the [Story Owner](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/OwnerForEveryUserStory.aspx) is like a mini project manager. The Story Owner resolves any road blocks, performs the “[Test Please](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/TestPleaseInScrum.aspx)” and makes sure there is a good presentation at the Review Meeting. 
 
-<br>There are four things that the story owner is responsible for:<br> 
-
-
+<br>There are four things that the story owner is responsible for: <br> 
 - Manage / Own the story and its sub tasks
 - Make sure a “[Test Please](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/TestPleaseInScrum.aspx)” is conducted or that their story is included in one
 - Make every effort to show the story to the Product Owner before the Sprint Review
