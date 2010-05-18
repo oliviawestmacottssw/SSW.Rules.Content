@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ You should always breakdown a task, by creating sub-tasks, until you are comfortable with the overall estimate. <br> 
 The reason for having this feeling is that the task is not broken down enough and appears difficult to breakdown because there are unknowns.   For a simple example, a task of a story is to produce something for the story and it is not known how yet.  Rather than put an estimate for the task that seems risky or low, break it down into at least two-sub tasks of:
 
 - Investigate best option to produce result
