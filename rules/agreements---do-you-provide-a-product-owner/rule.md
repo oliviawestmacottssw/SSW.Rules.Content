@@ -7,6 +7,8 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ There are lots of stakeholders in a software project. Users, Marketing, Managers, they all have requirements for the new system but if the spec becomes a free-for-all, it is more likely the project will be steered off-course. <br> 
 Select a "[Product Owner](/Standards/Management/RulesToSuccessfulProjects/Pages/WhoHasAuthority.aspx)" - who is the sole person able to make scope decisions and authorize work.
- &lt;&gt;Remember it's all too tempting to allow the DBA to authorise work without seeking proper authority, so insist that your software consultants follow [the standard on getting work approved](/Standards/Management/RulesToHappyClients/Pages/DoYouGetWorkApprovedBeforeYouDoIt.aspx) through a Product Owner.  
+
+Remember it's all too tempting to allow the DBA to authorise work without seeking proper authority, so insist that your software consultants follow [the standard on getting work approved](/Standards/Management/RulesToHappyClients/Pages/DoYouGetWorkApprovedBeforeYouDoIt.aspx) through a Product Owner.
+
