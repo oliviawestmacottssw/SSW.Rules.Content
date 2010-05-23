@@ -9,17 +9,37 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Carrying your laptop with the right stuff installed is not enough. 
+
+<br>Not only software, carrying your own hardware and peripherals will save you hours one day: 
+
+<br>Here are the things you should also physically carry: <br> 
 
 
 
-| ![Carry the right tools and you'll rescue someone, one day...](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/StBernardDog.jpg) |
+| ![Carry the right tools and you'll rescue someone, one day...](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/StBernardDog.jpg)  |
 | --- |
 | Figure: St. Bernards are known for rescuing lost mountaineers, bringing life saving provisions |
 
- Not only software, carrying your own hardware and peripherals will save you hours one day: network cables, cross-over cables, wireless cards, blank CD's, blank floppy's, software CD's, screw-drivers, even a text book or two. We have one guy in our office who carries two bags, each weighing about 10 kgs. He is the SSW St. Bernard!
-A spanner might get a plumber through 90% of jobs, but he'll get stuck on the last 10% if he doesn't carry anything else. I carry [these tools](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/Favourite3rdPartyTools.aspx) in my Tool Box every day. I hope you find them useful.
 
+- Business cards
+- A network cable (optional)
+- An extension cord (optional)
+- A thumb drive on your key ring
+- An external hard drive with 4GB+ (for software ISOs)
+- Software DVD's (minimum Office and Visual Studio)
+- Current brochures - Hand them out to interested clients
+- [User story cards](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard) - These help Product owners create user stories
+- [Evaluation forms](http&#58;//www.ssw.com.au/ssw/NETUG/UGEvaluationSurvey.aspx) - Ask for feedback if you did a presentation
+- Even a text book or two
+
+
+We have one guy in our office who carries two bags, each weighing about 10 kgs. He is the SSW St. Bernard!
+
+ If you need to quickly share something with your mate:
+
+- Use a thumb drive that you carry as per [Rules to better Software Consultants - Carry a thumb drive](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsWorkingInATeam.aspx#ThumbDrive)
+- Setup a wireless ad hoc network as per [http://www.addictivetips.com/windows-tips/create-a-quick-ad-hoc-wireless-network-connection-between-two-computers-in-windows-vista/](http&#58;//www.addictivetips.com/windows-tips/create-a-quick-ad-hoc-wireless-network-connection-between-two-computers-in-windows-vista/)
 
 
 
