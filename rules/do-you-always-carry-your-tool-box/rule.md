@@ -13,7 +13,7 @@ authors:
 
 <br>Not only software, carrying your own hardware and peripherals will save you hours one day: 
 
-<br>Here are the things you should also physically carry: <br> 
+<br>Here are the things you should also physically carry:<br> 
 
 
 
@@ -34,7 +34,7 @@ authors:
 - Even a text book or two
 
 
-We have one guy in our office who carries two bags, each weighing about 10 kgs. He is the SSW St. Bernard!
+We have one guy in our office who carries two bags, each weighing about 10 kgs. He is the SSW St. Bernard! \*
 
  If you need to quickly share something with your mate:
 
@@ -43,4 +43,5 @@ We have one guy in our office who carries two bags, each weighing about 10 kgs. 
 
 
 
+ \* One of our mean guys put a house brick in the bottom a bag to see if he noticed it. He carried it for 2 weeks. It was very funny.
 
