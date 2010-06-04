@@ -44,7 +44,7 @@ There are few consideration when using Virtual Machines:
 1. Need to activate additional servers
 2. Need at least 2 GB of RAM for SharePoint 2007
 3. Need at least 4 GB of RAM for SharePoint 2010
-4. Virtual PC does not support 64 bit of RAM
+4. Virtual PC does not support 64 bit Operating Systems 
     - If you’re using Windows 7 or Vista, we recommend using ‘boot to VHD’ or VMWare
 
 
