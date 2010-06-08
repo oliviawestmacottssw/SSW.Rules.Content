@@ -13,13 +13,29 @@ authors:
 
 
 
-<span class='intro'> ​Make your positive and negative points a tick and cross. 
-<br> </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
-<dl class="badImage"><dt>
-      <img src="/PublishingImages/TicksBad.jpg" alt="" /> 
-   </dt><dd>Figure&#58; Bad example - it's not clear which are good and bad points </dd></dl><dl class="goodImage"><dt>
-      <img src="/PublishingImages/TicksGood.jpg" alt="" /> 
-   </dt><dd>Figure&#58; Good example - It's far more obvious which ones are the good points and which are the bad </dd></dl><h3>How to create these custom&#160;bullet points?</h3><p class="ssw15-rteElement-P">​Read these instructions from Microsoft&#58;​&#160;<a href="https&#58;//support.office.com/en-us/article/create-custom-bullets-with-pictures-or-symbols-a6bf04a8-be3d-4bec-969a-6196e89da741">Create custom bullets with pictures or symbols​</a><br></p>
+
+  <dl>
+    <dt><img alt="" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets01.jpg" /></dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Right click the desired text and navigate to &quot;Bullets and Numbering...&quot;</dd>
+</dl>
+<dl>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets02.jpg" /></dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Select &quot;Picture...&quot; then &quot;Import...&quot; in the new window.</dd>
+</dl>
+<dl>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets03.jpg" /></dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Paste \\skunk\ssw\Images\TickCross in the navigation path and select the appropriate image</dd>
+</dl>
+<dl>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets04.jpg" /></dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; The bullet is now loaded!</dd>
+</dl>
+<dl>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets05.jpg" /></dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Bullet points properly applied on positive and negative points.</dd>
+</dl>
+
 
 
