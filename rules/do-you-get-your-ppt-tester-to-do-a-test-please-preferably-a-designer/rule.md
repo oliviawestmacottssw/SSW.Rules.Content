@@ -9,16 +9,12 @@ authors: []
 
 
 
-<span class='intro'> Image is everything. Improve the way you market, educate and promote yourself with striking presentations. Your content might be great - but if it is displayed poorly - it will be overshadowed by its flaws. Use a designer to make your presentation stand out. 
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
-  <h2>Related links</h2>
-<p><a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28">Do you conduct a &quot;test please&quot; internally and then with the client?</a></p>
-<dl>
-    <dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/before_after.jpg" alt="" /> </dt>
-    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Before and after... Designers can make anything look good </dd>
-    <dd></dd>
+  <dl>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/before_after.jpg" /></dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Designers can do many things</dd>
 </dl>
 
 
