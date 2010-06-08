@@ -9,14 +9,12 @@ authors: []
 
 
 
-<span class='intro'> You may be a natural born public speaker, but you will not be able 'wing' a presentation. Setting up a presentation takes time and practice. You want web pages already open, you want VMs ready and demos good to go.
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
-  <p>So document the steps to undertake prior to starting and you will present in a snappier fashion and not need to say the lame statement &quot;hope the demo gods are kind to me today&quot;. </p>
-<dl>
-    <dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/preslide.gif" alt="" /> </dt>
-    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Use a Pre-setup slide prior to the presentation and your pace will be snappier</dd>
+  <dl>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/preslide.gif" /> </dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Pre-setup slide </dd>
 </dl>
 
 
