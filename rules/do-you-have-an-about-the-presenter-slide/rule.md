@@ -7,4 +7,11 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/aboutAdam.gif)Figure: 'About Adam' slide
+
+Always introduce yourself:
+
+- Who are you?
+- What is your service or product?
+- What makes you so special?
+
+![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/aboutAdam.gif) Figure: 'About Adam' slide 
