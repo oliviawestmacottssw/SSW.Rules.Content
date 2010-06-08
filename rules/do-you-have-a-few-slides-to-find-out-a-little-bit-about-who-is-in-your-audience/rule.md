@@ -9,23 +9,23 @@ authors: []
 
 
 
-<span class='intro'> If you are presenting to people who you already know, then you have an enormous advantage over someone who is going to face an audience they have never previously met.
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
-  <p>It is best to confirm who you are speaking to via a few slides. Then you can make subtle changes during your presentation so your audience gets&#58;</p>
+  <p>Your aim in giving this presentation is to give your audience something that is&#58;</p>
 <ul>
-    <li>What is important for them</li>
+    <li>What they want</li>
+    <li>Important for them</li>
     <li>Interesting to them</li>
-    <li>Relevant to them </li>
+    <li>Relevant to them</li>
 </ul>
 <dl>
-    <dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/developer.gif" alt="" /> </dt>
-    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Ask &quot;How many are developers here?&quot; </dd>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/developer.gif" /></dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Example slide for developer</dd>
 </dl>
 <dl>
-    <dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/manager.gif" alt="" /> </dt>
-    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Ask &quot;How many are managers here?&quot; </dd>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/manager.gif" /></dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Example slide for manager</dd>
 </dl>
 
 
