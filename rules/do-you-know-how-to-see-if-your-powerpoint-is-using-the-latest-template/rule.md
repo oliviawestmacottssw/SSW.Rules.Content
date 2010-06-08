@@ -9,12 +9,18 @@ authors: []
 
 
 
-<span class='intro'> 
-  <p>Unfortunately, there is no easy solution to this. What we need is a 'version' field and an 'Update' button - See our <b><a href="http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/Office.aspx#Version">Suggestions to Microsoft PowerPoint&#58; Check for Updates</a></b></p>
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
-<dl class="image"><dt>
-      <img alt="Check Template" src="/PublishingImages/CheckTemplate.jpg" />
-   </dt><dd>Figure&#58; This is how you can see if you are using the template file </dd></dl>
+
+  <p>When you need to create a PowerPoint presentation file, find the latest version of <a href="http&#58;//projects.ssw.com.au/Templates/Forms/AllItems.aspx">SSW templates</a> on the SharePoint site. </p>
+<dl>
+    <dt><img class="ms-rteCustom-ImageArea" alt="Check version history" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/versionHistory.jpg" /> </dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Click &quot;Edit&quot; to see the version history of PowerPoint template file </dd>
+</dl>
+<dl>
+    <dt><img class="ms-rteCustom-ImageArea" alt="Version Number" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/versionNo.jpg" /> </dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Where to check the version number </dd>
+</dl>
+
 
 
