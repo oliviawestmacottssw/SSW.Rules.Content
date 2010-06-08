@@ -7,4 +7,4 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![Too much text-content in one single slide](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BadLessText.jpg)Figure: Bad Example - Too much text-content in one single slide![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodLessText.jpg)Figure: Good Example - Delivering information should be made simple and clear
+ Your audience cannot both listen to you and read your slides at the same time. Therefore, you should not show too much text on your slides. You will find that the best presenters hardly use text at all in their slides. It is useful to push technical, complicated or textual data into a handout.<br> ![Too much text-content in one single slide](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/BadLessText.jpg) Figure: Bad Example - Too much text-content in one single slide ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/GoodLessText.jpg) Figure: Good Example - Delivering information should be made simple and clear 
