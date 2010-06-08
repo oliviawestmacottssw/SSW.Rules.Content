@@ -9,18 +9,16 @@ authors: []
 
 
 
-<span class='intro'> A PowerPoint presentation is a verbal essay and it follows a structure. Shown at the start of the presentation, the Agenda slide sets expectation. 
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
-  <p>At the end the Summary slide should be identical, and summarize what you just spoke about.</p>
-<dl>
-    <dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/agenda.gif" alt="" /> </dt>
+  <dl>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/agenda.gif" /> </dt>
     <dd class="ms-rteCustom-FigureNormal">Figure&#58; Slide for agenda </dd>
 </dl>
 <dl>
-    <dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/summary.gif" alt="" /> </dt>
-    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Slide for summary (is the same as agenda) </dd>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/summary.gif" /> </dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Slide for summary </dd>
 </dl>
 
 
