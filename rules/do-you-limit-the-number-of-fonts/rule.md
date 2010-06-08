@@ -7,4 +7,4 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![too many fonts used for headers](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BadLimitFont.jpg) Figure: Bad Example - Having too many fonts makes your slide look untidy ![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodLimitFont.jpg) Figure: Good Example - It is simple and professional 
+ Each font or style should be used consistently throughout your presentation as it will help your audience garner relation. <br> ![too many fonts used for headers](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/BadLimitFont.jpg) Figure: Bad Example - Having too many fonts makes your slide look untidy ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/GoodLimitFont.jpg) Figure: Good Example - It is simple and professional 
