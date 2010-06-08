@@ -9,20 +9,16 @@ authors: []
 
 
 
-<span class='intro'> 
-  <p>Never stretch small, low-resolution photos to make it fill up the space. This degrades the resolution and the image will appear very coarse and granular on the projection screen.</p>
-<p>The quality of your images is a subconscious message to your audience. If you use low quality pictures, then you unintentionally suggest the same message about your product.</p>
-<p>For this reason, we encourage you to choose only high quality photos and to avoid cartoons and word art.</p>
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
   <dl>
-    <dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/low_d.gif" alt="" /> </dt>
-    <dd class="ms-rteCustom-FigureBad">Figure&#58; Bad Example - What is this monstrosity! </dd>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/low_d.gif" /></dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Using low resolution image brings down the quality of your presentation</dd>
 </dl>
 <dl>
-    <dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/high_d.jpg" alt="" /> </dt>
-    <dd class="ms-rteCustom-FigureGood">Figure&#58; Good Example - Looks classy, that. </dd>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/high_d.jpg" /></dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; High quality images</dd>
 </dl>
 
 
