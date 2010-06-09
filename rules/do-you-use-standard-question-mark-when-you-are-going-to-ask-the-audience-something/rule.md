@@ -7,4 +7,4 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/SSWQuestionMark.gif)Figure: Use an image to indicate when presenter is going to ask questions
+ In similar fashion to the previous rule, you can also add a visual cue for any audience participation events such as Q&A.<br> ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/SSWQuestionMark.gif) Figure: Use an image to indicate when presenter is going to ask questions 
