@@ -22,11 +22,11 @@ Worse yet, the description field in Team Foundation Server 2010 (TFS 2010) does 
 
 At SSW we always follow the rules, and it just so happened that we have rules to both achieve this, and to make it easier.
 
-You should follow the existing [Rules to Better Project Management](http&#58;//projects.ssw.com.au/tfs/SSW/SqlDeploy/Team%20Wiki/Scrum%20Dogs%20Practices.aspx)  and attach the email to your task so you can refer to and reply to it later when you close the task:
+You should follow the existing [Rules to Better Project Management](/Standards/Management/RulesToBetterProjectManagement)  and attach the email to your task so you can refer to and reply to it later when you close the task:
 
-- [Do you know what Outlook add-ins you need?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/#OutlookAddin)
-- [Describe the work item request in an email](http&#58;//www.ssw.com.au/ssw/Standards/Rules/#WorkItemEmail)
-- [Use Outlook Add-in to move the email to a TFS Work Item](http&#58;//www.ssw.com.au/ssw/Standards/Rules/#TeamCompanionWorkItem)
+- [Do you know what Outlook add-ins you need?](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#OutlookAddin)
+- [Describe the work item request in an email](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#WorkItemEmail)
+- [Use Outlook Add-in to move the email to a TFS Work Item](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#TeamCompanionWorkItem)
 
 
 When replying to an email with “done” you should follow:
