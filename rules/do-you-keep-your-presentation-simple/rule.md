@@ -7,15 +7,17 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
-In reality, giving a presentation is an entirely   different genre from writing a technical report.
 
-**KISS** - In its polite form, this   stands for **K**eep **I**t **S**hort   and **S**imple.
+Making your presentation over-complicated is a very easy trap to fall into. Many speakers make this mistake in an attempt to appear intelligent and knowledgeable.
 
-- In 20 minutes, you only have time for two major   points
+In reality, giving a presentation is an entirely different genre from writing a technical report.
+ 
+**KISS** - In its polite form, this stands for **K**eep **I**t **S**hort and **S**imple.
+
+- In 20 minutes, you only have time for two major points
 - In 30 minutes you might make three major points
-- In 40-45 minutes you might be able to cover four   major points, but three points and a longer time for questions would be   a better alternative
+- In 40-45 minutes you might be able to cover four major points, but three points and a longer time for questions would be a better alternative
 
 
-Most experienced and talented TV presenters   stick to making three points in half an hour - this is surely a lesson   for anyone planning a presentation.
+Most experienced and talented TV presenters stick to making three points in half an hour - this is surely a lesson for anyone planning a presentation.
 
