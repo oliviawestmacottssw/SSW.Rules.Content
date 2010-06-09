@@ -31,8 +31,8 @@ You should follow the existing [Rules to Better Project Management](/Standards/M
 
 When replying to an email with “done” you should follow:
 
-- [Do you update Team Companion template, so the email "subject" doesn't change?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/#KeepConsistentName)
-- [Do you update Team Companion template, so you can generate a proper "done" mail?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/#EmailTemplate)
+- [Do you update Team Companion template, so the email "subject" doesn't change?](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#KeepConsistentName)
+- [Do you update Team Companion template, so you can generate a proper "done" mail?](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#EmailTemplate)
 
 
 Following these simple rules will help your Product Owner understand you better, and allow your team to more effectively collaborate with each other.
