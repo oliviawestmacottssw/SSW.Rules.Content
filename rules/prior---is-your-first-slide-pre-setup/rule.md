@@ -7,5 +7,7 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). <dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/preslide.gif"> </dt>
+
+You may be a natural born public speaker, but you will not be able ‘wing’ a presentation. Setting up a presentation takes time and practise. It is important to make sure you understand what steps to undertake beforehand, especially when there is technology involved.
+<dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/preslide.gif"> </dt>
     <dd class="ms-rteCustom-FigureNormal">Figure&#58; Pre-setup slide </dd></dl>
