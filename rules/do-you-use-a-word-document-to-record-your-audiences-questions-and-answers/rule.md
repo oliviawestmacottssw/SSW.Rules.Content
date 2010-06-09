@@ -7,4 +7,8 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RecordQA.jpg) Figure: You should document any questions and answers from your audience  
+
+It is a good idea to have some interaction with your audience in the form of Q&A. This will not only grab their attention but instill a lasting message long after your presentation is over.
+
+By opening a word document on the screen or projector, everyone in the room will be clear about the questions being asked and the answers being given. This will also help you address any open issues after the presentation.
+ ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RecordQA.jpg) Figure: You should document any questions and answers from your audience  
