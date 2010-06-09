@@ -7,4 +7,4 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/Todo.jpg)Figure: Grab attention by standing out in Red
+ You might have plenty of ideas when you are preparing your presentation. Add these in your TODO items - utilize them to attract your attention later in case you run out of time. Note: We suggest you keep them consistent with VS.NET e.g. “TODO: xxx”<br> ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/Todo.jpg) Figure: Grab attention by standing out in Red 
