@@ -9,13 +9,11 @@ authors: []
 
 
 
-<span class='intro'> <p>You should have a good cover slide for each section of your presentation. They are called &quot;section break&quot; slides and are meant to visually divide the content structure. These slides should be
-                    consistent so they do not confuse the audience.
-                </p> </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
   <dl>
-    <dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/CoverSlide.jpg" alt="" /> </dt>
+    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/CoverSlide.jpg" /> </dt>
     <dd class="ms-rteCustom-FigureGood">Figure&#58; Good example – This is very clear that we are up to part 2 of the presentation </dd>
 </dl>
 
