@@ -7,4 +7,6 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/before_after.jpg)Figure: Designers can do many things
+
+Image is everything. Improve the way you market, educate and promote with striking presentations. Your content might be great; but if it is displayed poorly, it will be overshadowed. Designers can make your presentations stand out.
+![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/before_after.jpg) Figure: Designers can also make a wicked mocha cappuccino. 
