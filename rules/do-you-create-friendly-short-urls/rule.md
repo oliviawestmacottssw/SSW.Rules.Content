@@ -11,13 +11,15 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field).   I want to be able to type this URL in, but it is VERY long: 
-[<font color="#0000ff" face="Calibri">http&#58;//blogs.msdn.com/b/briankel/archive/2010/06/25/now-available-visual-studio-2010-rtm-virtual-machine-with-sample-data-and-hands-on-labs.aspx</font>](https&#58;//mail.ssw.com.au/owa/redir.aspx?C=48bca64384ed41749f81f0510568e825&amp;URL=http&#58;//blogs.msdn.com/b/briankel/archive/2010/06/25/now-available-visual-studio-2010-rtm-virtual-machine-with-sample-data-and-hands-on-labs.aspx)
+ When you create short URL's it is worth considering why you are shortening it. It is not just for space... aim for readability too.
+<br>Basically it for readability and you expect people to type this in… so making a friendly short URL.<br>   I want to be able to type this URL in, but it is VERY long:
+   
+[<font class="ms-rteCustom-GreyBox" color="#0000ff" face="Calibri">http&#58;//blogs.msdn.com/b/briankel/archive/2010/06/25/now-available-visual-studio-2010-rtm-virtual-machine-with-sample-data-and-hands-on-labs.aspx</font>](https&#58;//mail.ssw.com.au/owa/redir.aspx?C=48bca64384ed41749f81f0510568e825&amp;URL=http&#58;//blogs.msdn.com/b/briankel/archive/2010/06/25/now-available-visual-studio-2010-rtm-virtual-machine-with-sample-data-and-hands-on-labs.aspx)<font class="ms-rteCustom-FigureBad" size="+0">Bad example - People can’t easily type this URL in…. it is too long</font>
 
 <font class="ms-rteCustom-GreyBox" size="+0"><font face="Calibri">Thanks Rob, that is great.<br>
 </font><font face="Calibri">Made a bit.ly at </font><a shape="rect" href="http&#58;//bit.ly/aC5Lb2" target="_blank"><font color="#0000ff" face="Calibri">http&#58;//bit.ly/aC5Lb2</font></a> </font>
-<font class="ms-rteCustom-FigureBad" size="+0">Bad example, how will I remember that</font>
+<font class="ms-rteCustom-FigureBad" size="+0">Bad example -&#160;How will I remember that?</font>
 
 [http://bit.ly/VS2010SampleVM](http&#58;//bit.ly/VS2010SampleVM)
-<font class="ms-rteCustom-FigureGood" size="+0">Good example, you could remember this one</font>
+<font class="ms-rteCustom-FigureGood" size="+0">Good example - Easier to remember</font>
 
