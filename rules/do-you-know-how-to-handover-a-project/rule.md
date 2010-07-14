@@ -23,8 +23,9 @@ authors:
 5. Review the client portal
 6. Confirm location of info and procedures (hopefully these are on a wiki or SharePoint document library)
     - Source control
+    - Database
     - Documents
-    - How to Build and Packange
+    - How to Build and Package
     - Deployment Steps
     - Servers and Passwords
     - Failure & Recovery Steps
