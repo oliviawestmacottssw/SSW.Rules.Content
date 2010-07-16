@@ -24,6 +24,6 @@ The reasons for this are:
 - The 10% GST charged to the client is not income for your company. In Australia, we collect this 10% on behalf of the Australian Taxation Office.
 - The client will receive back this 10% GST from the Australian Tax Office when they do their quarterly BAS/GST Return.
 
-The total fixed price total is $AUD 66,000 - please find quote attached. Bad Example Bad Example The total fixed price total is $AUD 60,000 + GST (10%). Please find quote attached. Good Example 
+The total fixed price total is $AUD 66,000 - please find quote attached. Bad Example The total fixed price total is $AUD 60,000 + GST (10%). Please find quote attached. Good Example 
 **Note** : SSW and other Australian companies do not charge GST to external clients outside of Australia.
 
