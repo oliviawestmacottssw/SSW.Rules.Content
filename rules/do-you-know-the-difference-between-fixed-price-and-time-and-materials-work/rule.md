@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ There are two fundamental ways any consultant can bill clients:<br> 
 **Time and Materials**
 
 Time and materials is the standard mode of operation where the client is billed for the time spent by the consultant. There is no warranty on time and materials work.
