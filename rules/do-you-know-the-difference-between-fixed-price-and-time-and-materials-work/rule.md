@@ -9,8 +9,7 @@ authors: []
 
 
 
-<span class='intro'> There are two fundamental ways any consultant can bill clients&#58;
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
   <p>
@@ -23,11 +22,11 @@ authors: []
     <li>All screen mock-ups and business rules must be signed by the client </li>
     <li>A fixed price can only be done on a release by release basis, not on an entire project (this protects everyone) </li>
     <li>A 20% premium is added to the release estimates - just like an insurance premium because the consultant is carrying the risk </li>
-    <li>Variations/change requests have to have separate written approval. e.g. Hi John, You've asked for XXX. This is not covered in the original scope and so will be charged extra. Our estimate is&#160;YYY hours at $ZZZ + GST per hour. Please approve.</li></ul><ul>
+    <li>Variations/change requests through the development and testing of the release are moved to the next release (otherwise dependencies are too affected) </li>
     <li>Development is conducted off-site (to prevent unauthorised scope-development) </li>
     <li>50% of the fixed price is payable before work commences, the balance is payable at the delivery of the first external test please </li>
-    <li>There is a 30 day warranty on <a href="/management-is-your-client-clear-on-the-definition-of-a-bug">bugs</a> which commences when the first external test please is issued </li>
-    <li>The following release cannot commence until the prior release is signed-off.</li></ul><ul>
+    <li>There is a 30 day warranty on <a href="/Standards/Management/RulesToSuccessfulProjects/Pages/BugDefinition.aspx">bugs</a> which commences when the first external test please is issued </li>
+    <li>The following release cannot commence until the prior release is signed-off.</li>
 </ul>
 
 
