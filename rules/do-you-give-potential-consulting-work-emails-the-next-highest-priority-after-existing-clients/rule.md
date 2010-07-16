@@ -9,12 +9,11 @@ authors: []
 
 
 
-<span class='intro'> It is extremely important to demonstrate to potential clients a high level of quality service and attention to their needs; Whenever&#160;you receive an email from a potential client in relation to possible consulting work,&#160;you should&#160;make sure they receive an answer within 5 minutes of you receiving it. This is for 2 reasons&#58; 
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
   <ul>
-    <li>To show you are keen and to give an indication of the level of service they will receive </li>
+    <li>To show we are keen and give an indication of the level of service they will receive </li>
     <li>To stop them &quot;shopping around&quot; </li>
 </ul>
 <p>They will quickly recognize that they will not receive that kind of service anywhere else!</p>
