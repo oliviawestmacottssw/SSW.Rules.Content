@@ -7,7 +7,15 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+Office meetings often are ineffective, because:
+
+- There is a lot of discussion but no resulting "action items"
+- Time is wasted digressing to unrelated topics
+- People forget the meeting is on and do not attend
+- People turn up late with no notice
+
+
 To ensure your meetings are productive and successful, you should:
 
 - Create a meeting agenda prior to the meeting. Give each attendee a copy. If the discussion strays from the topic, the agenda will help you keep it on track.
