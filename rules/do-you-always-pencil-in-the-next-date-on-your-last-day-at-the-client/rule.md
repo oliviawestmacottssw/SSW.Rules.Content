@@ -1,0 +1,18 @@
+---
+type: rule
+title: Do you always pencil in the next date on your last day at the client?
+uri: do-you-always-pencil-in-the-next-date-on-your-last-day-at-the-client
+created: 2010-07-16T06:38:09.0000000Z
+authors: []
+
+---
+
+ This field should not be null (Remove me when you edit this field). 
+On your last day of consulting with a client you should always book in the next date. Be aware of the main blockage people get, which the client is saying "How about I check by calendar and get back to you?". And often this never happens.
+ A better approach is to reduce the risk by: 
+- saying that you are only pencilling it in and it can be cancelled, and
+- bringing some urgency (by saying your calendar fills up quick)
+
+
+So try something like "My calendar fills up really quick, how about I pencil you in.... How about we say 2 weeks time? Don't forget you can cancel it anytime."
+![pencil in](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/PencilIn.JPG) Figure: Plan ahead at the end of your day eg. "How about we pencil in my next visit, say 2 weeks time?" 
