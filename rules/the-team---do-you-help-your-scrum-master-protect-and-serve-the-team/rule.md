@@ -9,12 +9,21 @@ authors:
 
 ---
 
- Part of the ScrumMaster’s role is to protect the team from distractions so they can deliver on their commitment, to ensure agreed process is followed and to help all roles keep their promises.  <br> 
-It is incumbent on each team member to refuse to do any other work on a Scrum Day of more than 15 minutes.  Requests for work of more than 15 minutes must be referred to the ScrumMaster.  The only exception is for Production Issues that absolutely require the attention of a Team Member and nobody else is available.  In this case, if the ScrumMaster does not respond within 15 minutes, the requestor can insist that the member starts work on the Production Issue.
+ Part of the ScrumMaster’s role is to protect the team from distractions so they can deliver on their commitment, to ensure agreed process is followed and to help all roles keep their promises.  
 
-Any absences by any team member must be negotiated through the ScrumMaster.
+<br>It is also important that team member does not allow themsleves to get distracted and must work based on priority.<br> 
+Any requests for work or distractions that take more than 15 minutes must be declined politely and the distraction notified to the ScrumMaster.  
 
-Anything to do with process and the official meetings must be through the ScrumMaster.
+ The only exceptions where a Team Member can start the work after notifying the Scrum Master are:
+
+- Any Critical Production Issues that absolutely require the attention of the Team Member and nobody else is available
+- A Client request for work when the Team Member is working on a internal project
+- Test Please requests, if the total time taken from the Sprint for all Test Please requests is less than 8 hours
+
+
+In these 3 exceptional cases only, the Team Member notifies the Scrum Master, and even if they don't get a response from the Scrum Master the requestor can insist that the member starts the other work immediately.
+
+Anything else must be politely declined and the process of negotiating the time and any official meetings must be through the ScrumMaster.
 
 For details on promises, see the rule [“Do you understand the implied contract (promises) between Members of the Scrum Team?”](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/ContractBetweenMembersOfScrumTeams.aspx)
 
