@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ The least pleasant part of the consulting industry is dealing with clients who don't want to pay for your services.<br> 
 The least pleasant part of the consulting industry is dealing with clients who don't want to pay for your services.
 
 It's important that the client is **\*always made aware\*** from the beginning what they will and will not be charged for. That way, they will never receive an invoice they are not expecting and so will be happy to pay them.
