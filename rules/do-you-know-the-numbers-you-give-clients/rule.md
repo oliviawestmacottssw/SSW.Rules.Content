@@ -1,0 +1,41 @@
+---
+type: rule
+title: Do you know the numbers you give clients?
+uri: do-you-know-the-numbers-you-give-clients
+created: 2010-07-16T06:50:39.0000000Z
+authors: []
+
+---
+
+ This field should not be null (Remove me when you edit this field). 
+Simply things and just give them these 3 numbers:
+
+
+| <br><br>| $ Billed to date | \_\_$xx\_\_(accurate on Tuesday) |<br>| --- | --- |<br>| Burndown Days Remaining | \_\_8\_\_ |<br>| Calendar Days Booked | \_\_4days x 2\_\_ |<br>| Next meeting (for Review and Retro) |<br><br> |
+| --- |
+
+
+
+Hi Andrew,
+     Please find the Burndown report below. I have looked at a few tasks with Zune and re-estimated them.
+
+- Product owner:Andrew
+- Scrum master:Paul
+- Team:Mark L,Zune,Tristan,Trevor
+- $ Billed to date:$20,000
+- Days remaining:(around 50 hours based on chart below)=7+days
+- Days booked in are 4 days x 2
+    - ML and ZV - Mon 5th
+    - ML and ZV - Tue 6th
+    - ML and ZV - Mon 12th
+    - ML and ZV - Tue 13th
+- Only the 14th we will
+    - Move any remaining tasks to Sprint 4
+    - Have a Review Meeting (show and tell) at 10am – 2 hours
+    - Have a Retrospective Meeting at 12 noon – 2 hours
+    - Have a Planning Meeting at 2pm
+
+<br>        Please let us know if you have any questions or concerns.
+
+
+
