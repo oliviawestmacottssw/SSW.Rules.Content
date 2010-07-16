@@ -13,8 +13,34 @@ authors:
 
 
 
-<span class='intro'> <p>​​When a client arrives, your job is to make them feel comfortable and impress them with your professionalism. It is important that clients have a consistent experience in their contact with your company.<br></p> </span>
+<span class='intro'> When a client arrives, your job is to make them feel comfortable and impress them with your professionalism. It is important that clients have a consistent experience in their contact with your company. 
+ </span>
 
-<div class="greyBox"><ul><li>Leaving the client standing at the reception while finishing what you were doing<br></li><li>Offering them tea, coffee or biscuits (not everyone likes tea/coffee)</li></ul></div><dd class="ssw15-rteElement-FigureBad"> Figure&#58; Bad example - This could start the meeting poorly </dd><div class="greyBox"><ul><li><span style="line-height&#58;1.6;">Be dressed appropriately</span><br></li><li><span style="line-height&#58;1.6;">Greet them warmly</span><br></li><li><span style="line-height&#58;1.6;">Have a firm handshake</span><br></li><li><span style="line-height&#58;1.6;">Make eye contact and smile</span><br></li><li><span style="line-height&#58;1.6;">Direct them to wait in the waiting area (so they can learn about the company through our tv screens)</span><br></li><li><span style="line-height&#58;1.6;">Notify the project manager/developers who are included in the meeting</span><br></li><li><span style="line-height&#58;1.6;">Ask someone to bring a couple of glasses of water into the meeting (as everyone drinks water)&#160;</span></li><li><span style="line-height&#58;1.6;">Join the meeting in the boardroom&#58;<br></span><span style="line-height&#58;1.6;background-color&#58;initial;">- Show some enthusiasm when meeting with the client<br></span><span style="line-height&#58;1.6;background-color&#58;initial;">- Hand over, and collect, business cards - (organize in front of you, to help you remember their names)<br></span><span style="line-height&#58;1.6;background-color&#58;initial;">- Use their names a few times early on to help you remember their name </span></li></ul></div><dd class="ssw15-rteElement-FigureGood"> Figure&#58; Good Example - You are starting off the meeting well​<br></dd><p class="ssw15-rteElement-P">​​​<br></p><p class="ssw15-rteElement-GreyBox"><span style="font-size&#58;13px;">​</span><span style="font-size&#58;13px;">​​​​​</span><span style="font-size&#58;13px;">You should do a role-play with your manager being the client. Then get feedback on how he/she found the experience.&#160;</span><br></p>
+
+  <ul>
+    <li>Leaving the client standing at the reception while finishing what you were doing </li>
+    <li>Offering them tea, coffee or biscuits (not everyone likes tea/coffee) </li>
+</ul>
+<font class="ms-rteCustom-FigureBad" size="+0">Figure&#58; Bad example <br>
+</font>
+<ul></ul>
+    Be dressed appropriately
+    <li>Greet them warmly </li>
+    <li>Have a firm handshake </li>
+    <li>Make eye contact and smile </li>
+    <li>Direct them to wait in the boardroom (so they can see all the marketing materials on the walls) </li>
+    <li>Notify the project manager/developer who are included in the meeting </li>
+    <li>Ask someone to bring couple of glasses of water into the meeting (as everyone drinks water) </li>
+    <li>Join the meeting in the boardroom&#58;
+    <ul>
+        <li>Show some enthusiasm when meeting with the client </li>
+        <li>Hand over, and collect, business cards - (organize in front of you, to help you remember their names) </li>
+        <li>Use their names a few times early on to help you remember their name </li>
+        <li>Greet them warmly </li>
+        <li>Have a firm handshake </li>
+        <li>Make eye contact and smile </li>
+    </ul>
+    <font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; Good Example - You did some research before the meeting </font></li>
+
 
 
