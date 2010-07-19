@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Here are the first things you should do EVERY time you come off client work:<br> 
 1. Get a reference from the last client
     - It is a good way to check the client is happy
     - If your company is a Microsoft Gold Certified Partner, these references can lead to competencies such as Custom Development Solutions and ISV/Software Solution
