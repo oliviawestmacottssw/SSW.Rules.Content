@@ -17,20 +17,18 @@ authors:
 
 Figure: Bad example 
 
-
-     Be dressed appropriately     - Greet them warmly
+- Be dressed appropriately
+- Greet them warmly
 - Have a firm handshake
 - Make eye contact and smile
 - Direct them to wait in the boardroom (so they can see all the marketing materials on the walls)
 - Notify the project manager/developer who are included in the meeting
-- Ask someone to bring couple of glasses of water into the meeting (as everyone drinks water)
-- Join the meeting in the boardroom:
-- Show some enthusiasm when meeting with the client
-- Hand over, and collect, business cards - (organize in front of you, to help you remember their names)
-- Use their names a few times early on to help you remember their name
-- Greet them warmly
-- Have a firm handshake
-- Make eye contact and smile
+- Ask someone to bring couple of glasses of water into the meeting (as everyone drinks water) Join the meeting in the boardroom:
+    - Show some enthusiasm when meeting with the client
+    - Hand over, and collect, business cards - (organize in front of you, to help you remember their names)
+    - Use their names a few times early on to help you remember their name
+    - Greet them warmly
+    - Have a firm handshake
+    - Make eye contact and smile
 
-Figure: Good Example - You did some research before the meeting
-
+<br>    Figure: Good Example - You did some research before the meeting 
