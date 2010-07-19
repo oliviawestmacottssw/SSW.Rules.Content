@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Being a good developer is not enough. There are multiple factors that can affect whether a project proceeds in a positive or a negative way. One factor that can have a significant impact on a project is the relationship between the developer and the client. <br> 
 A great way of taking a small step each week is to do something on a more personal basis for the client.
 
 Each week give some love to your client. "Client Love", as I have seen, varies a lot. Here are some things I have seen:
@@ -29,6 +29,6 @@ The tasks don't have to cost anything. Free tasks are more thoughtful and show t
 Tasks should be completed whilst on client work. Once client work is completed, the developer should move onto the [Post Client Work](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#PostClientWork) rule.
 
 Extra Reading: For some, the above comes naturally. For the rest of us, we highly recommend the book "How to Win Friends and Influence People" written by Dale Carnegie. It is an easy read, the principles are easy to implement and will not only change your client relationships but enhance all the relationships in your life for the better.
-
+![](/Standards/Management/RulesToBeingSoftwareConsultants-DealingWithClients/PublishingImages/LoveClientsImage.jpg)
 See [Rules to Successful Sales Account Management](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulestoSuccessfulSalesAccountManagement.aspx#ReviewClientLove)
 
