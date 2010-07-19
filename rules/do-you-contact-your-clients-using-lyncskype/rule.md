@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Having your clients as Instant Messenger contacts can improve your efficiency in project work. You can get a fast solution to road blocks and solve little problems quickly, as well as develop a better relationship!<br> 
 Of course any important chats should be [confirmed via email](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInstantMessenger.aspx#ConfirmImportantChatsEmail).
 
 Hey Simon
