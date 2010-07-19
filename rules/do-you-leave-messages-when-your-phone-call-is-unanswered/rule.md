@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ If you call a client or team member, and for some reasons he/she do not attend your call, then you MUST leave messages to ensure a response. <br> 
 Your messages must contain ***your name (firstname and lastname)***,***purpose of calling***, and*** your contact number***. Below ia a good messages example:
 
 *Hi Ms. Emma, this is Alvin Shen from SSW. I am calling to follow up our meeting yesterday about your company website. Please return my call on 9953 3000. Thank you.* 
