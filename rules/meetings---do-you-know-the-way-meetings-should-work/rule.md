@@ -23,7 +23,7 @@ To ensure your meetings are productive and successful, you should:
 - If you are going to be late, contact the organizer or the person in charge of the meeting to let them know that you are running late and what time you will be arriving.
 - To improve future meetings, at the end of the meeting, do a quick debrief to see how long the meeting took, if anything was covered that didn't need to be, etc.
 
-![Meeting without agenda](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/MeetingNoAgenda.JPG) Figure: Bad example - meeting with No Agenda ![Meeting with agenda](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/MeetingWithAgenda.JPG) Figure: Good example - meeting with Agenda 
+![Meeting without agenda](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/MeetingNoAgenda.JPG) Figure: Bad example - meeting with No Agenda ![](/Standards/Management/RulesToBeingSoftwareConsultants-DealingWithClients/PublishingImages/MeetingWithAgenda_1.jpg)Figure: Good example - meeting with Agenda 
 Every Outlook appointment must have:
 
 1. A good subject, to let attendees know the purpose of the meeting, see our rule [Do you realize the importance of a good email Subject?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterEmail.aspX#ImportanceofaGoodSubject)
@@ -40,4 +40,4 @@ Hi Bill Northwind
 - FYI the account manager is not billable, the developers are billable
 - For meetings tips see [Rules to being Software Consultants - Dealing with Clients](http&#58;//www.ssw.com.au/SSW/standards/rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx)
 
-Figure - Message example
+Figure - Message example 
