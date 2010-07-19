@@ -11,4 +11,10 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+A problem, like a wound, gets worse the longer it remains untreated, so fix problems fast. Problems come in endless contexts but here's how we deal with some specific examples:
+
+1. [Fix bugs first](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoSuccessfulProjects.aspx#FixBugs)
+2. [Make client complaints a positive experience](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterInboundCalls.aspx#MakeComplaintsPositive)
+
+
