@@ -9,4 +9,13 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+If Access linked table does not have an index to uniquely identify rows, the whole table will be read-only
+
+
+
+
+| [Upsizing PRO](http&#58;//www.ssw.com.au/ssw/UpsizingPRO) will check this rule  |
+| --- |
+
+
