@@ -9,4 +9,5 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+![](/Standards/ReportingSolutions/RulesToBetterAccessDatabases/PublishingImages/MultipleForeignKeyRelationshipsDifferentNames.jpg) 
+Figure: Multiple Foreign Key Relationships Different Names [Upsizing PRO](http&#58;//www.ssw.com.au/ssw/UpsizingPRO) will check this rule <br> 
