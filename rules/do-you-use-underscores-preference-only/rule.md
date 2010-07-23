@@ -11,8 +11,7 @@ authors:
 
 
 
-<span class='intro'> They just add characters. Surely Order_Details.Order_ID is no better then OrderDetail.OrderID 
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
 
