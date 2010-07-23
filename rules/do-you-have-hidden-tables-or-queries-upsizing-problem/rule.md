@@ -9,4 +9,8 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+1. Access2000: Hidden tables are not shown in the list of tables available for upsizing regardless Tools-&gt;Options-&gt;View
+2. All versions of Access: Tables created by ADODB ("CREATE TABLE ...") are not shown at all
+
+
