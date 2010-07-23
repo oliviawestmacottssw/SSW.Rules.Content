@@ -11,8 +11,7 @@ authors:
 
 
 
-<span class='intro'> The Upsizing Tools do not try to upsize every type of Microsoft Access query that you may have in your Access (Jet) database. The following varieties of queries will not upsize&#58; 
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
   <ul>
