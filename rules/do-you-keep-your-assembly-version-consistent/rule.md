@@ -20,4 +20,4 @@ Figure: Keep these two versions consistent If you are not using the GAC, it is i
 
 [assembly: AssemblyVersion("2.0.0.0")]
 <br>[assembly: AssemblyFileVersion("2.0.\*")]
-<br>[assembly: AssemblyInformationalVersion("2.0.0.0")] Good example - the best way for Assembly versioning (when using the GAC) Note: It would be good if Microsoft changed the default behaviour of AssemblyInformationalVersionAttribute to default to the AssemblyVersion. See Mikes suggestion for improving the version number in the comments here.    
+<br>[assembly: AssemblyInformationalVersion("2.0.0.0")] Good example - the best way for Assembly versioning (when using the GAC) Note: It would be good if Microsoft changed the default behaviour of AssemblyInformationalVersionAttribute to default to the AssemblyVersion.[See Mikes suggestion for improving the version number in the comments here.](http&#58;//msdn.microsoft.com/en-us/library/system.reflection.assemblyinformationalversionattribute.aspx)
