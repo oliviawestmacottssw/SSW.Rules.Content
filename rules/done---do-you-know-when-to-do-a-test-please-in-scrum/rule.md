@@ -12,7 +12,7 @@ authors:
  Something that SSW has always done is to conduct an internal ”[Test Please](/Standards/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)” prior to releasing anything to a client. This should be conducted by someone outside the Scrum Team and as it is a blocking process must be started within an hour and take no longer than 3 hours to complete.<br> 
 **Rules to Successful Projects**
 
-1. Do you conduct an internal "test please" prior to releasing a version to a client?
+1. [Do you conduct an internal "test please" prior to releasing a version to a client?](/Standards/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)
 2. [Do you know the 4 steps to do a "Test Please"?](/Standards/Management/RulesToSuccessfulProjects/Pages/TestPleaseFourSteps.aspx)
 
 
