@@ -9,11 +9,11 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Something that SSW has always done is to conduct an internal ”[Test Please](/Standards/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)” prior to releasing anything to a client. This should be conducted by someone outside the Scrum Team and as it is a blocking process must be started within an hour and take no longer than 3 hours to complete.<br> 
 **Rules to Successful Projects**
 
-1. [Do you conduct an internal "test please" prior to releasing a version to a client?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/#TestPlease)
-2. [Do you know the 4 steps to do a "Test Please"?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/#TestPlease4Steps)
+1. Do you conduct an internal "test please" prior to releasing a version to a client?
+2. [Do you know the 4 steps to do a "Test Please"?](/Standards/Management/RulesToSuccessfulProjects/Pages/TestPleaseFourSteps.aspx)
 
 
 In Scrum you should conduct a separate “[Test Please”](/Standards/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx) for each of the stories. You might be using the same package, but all the bugs and issues found must be rolled up to the [Story Owner](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/OwnerForEveryUserStory.aspx) as they will need to decide on what needs to be done to deliver their Story.
