@@ -17,4 +17,12 @@ authors: []
 
  Ideally this meeting is timeboxed to as many hours as there will be weeks in the Sprint.  However, this planning is so essential that it must continue to completion outside the meeting if necessary. 
 
- It is not essential for the Product Owner or the Scrum Master to be present for the whole meeting but they must be available for consultation. The ScrumMaster should formally close the meeting.    
+ It is not essential for the Product Owner or the Scrum Master to be present for the whole meeting but they must be available for consultation. The ScrumMaster should formally close the meeting. 
+
+ In Scrum, there are totally 4 meetings that you need to know: 
+- Sprint Planning Meeting (we separate this meeting to two parts: [WHAT](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx "Sprint Planning (WHAT) Meeting") and HOW)
+- [Scrum Meeting (Daily standup)](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/UpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
+- [Sprint Review Meeting](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
+- [Sprint Retrospective Meeting](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx "Retrospective Meeting")
+
+
