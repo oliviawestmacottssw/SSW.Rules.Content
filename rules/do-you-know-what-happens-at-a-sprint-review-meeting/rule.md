@@ -21,3 +21,10 @@ authors: []
 
  This meeting is normally timeboxed to as many hours as there are weeks in the Sprint.
 
+In Scrum, there are totally 4 meetings that you need to know: <br>
+- Sprint Planning Meeting (we separate this meeting to two parts: [WHAT](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx "Sprint Planning (WHAT) Meeting") and [HOW](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28HOW%29Meeting.aspx))
+- [Scrum Meeting (Daily standup)](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/UpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
+- Sprint Review Meeting
+- [Sprint Retrospective Meeting](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx "Retrospective Meeting")
+
+
