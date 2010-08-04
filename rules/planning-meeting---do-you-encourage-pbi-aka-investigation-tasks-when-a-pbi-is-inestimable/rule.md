@@ -13,8 +13,19 @@ authors:
 
 ---
 
- Sometimes it can be unclear to The Scrum Team whether a Story can be completed as required. <br>   For example the story “automatically package with Wise after the automatic build” requires investigation to see if this is possible.  It is then best to write a new story “Spike - Investigate whether it is possible to automatically build with Wise”.  This story can be more accurately estimated and the result will allow the original story to be estimated or revised. We call that investigation a Spike.
+ Sometimes it can be unclear to The Scrum Team whether a Story can be completed as required.  <br> 
+For example the story “automatically package with Wise after the automatic build” requires investigation to see if this is possible.  It is then best to write a new story “Spike - Investigate whether it is possible to automatically build with Wise”.  This story can be more accurately estimated and the result will allow the original story to be estimated or revised. We call that investigation a Spike.
 
- All Spikes are experiments or investigations of just enough detail to determine an estimate for the related story.  All Spikes must be timeboxed as otherwise the process of investigation can meander and never come to a conclusion. 
+![](/Standards/Management/RulesToBetterScrumUsingTFS/PublishingImages/RuleEncouragingInvestigationStoriesBad.png)
+**Figure: Bad example – I want you to implement something, but I am not going to tell you want it is. How long will it take?**
 
- To embark on the original story when it was inestimable would be irresponsible and leave The Team with a potentially impossible story and the risk of a failed sprint.   
+To embark on the original story when it was inestimable would be irresponsible and leave The Team with a potentially impossible story and the risk of a failed sprint.
+
+All Spikes are experiments or investigations of just enough detail to determine an estimate for the related story.  All Spikes must be timeboxed as otherwise the process of investigation can meander and never come to a conclusion.
+
+![](/Standards/Management/RulesToBetterScrumUsingTFS/PublishingImages/RuleEncouragingInvestigationStoriesGood.png) 
+**Figure: Good example – The time boxed investigation comes first as it is impossible to estimate implementing something you do not know**
+
+Note: This gives you work for future Sprint
+ Note: this is also known as a Spike or Prototype, we call it investigating story
+
