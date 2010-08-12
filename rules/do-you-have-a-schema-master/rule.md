@@ -12,7 +12,7 @@ authors:
  You have a web site master right? This is the central point of contact if the site goes down.
 <br>When developing an application, all members can code. However schema changes being done by many developers often can lead to trouble. 
 
-<br>Who is "Schema Master"? What does he do?<br> ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/Nick.png) Figure: One person should be the 'Schema Master', on an average sized project (of 5-10 devs) 
+<br>Who is "Schema Master"? What does he do? <br> ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/Nick.png) Figure: One person should be the 'Schema Master', on an average sized project (of 5-10 devs) 
 If your project has a database, you need to select a "Schema Master". This is the one person who is allowed to make modifications to the database. These include:
 
 - Creating, Modifying and Deleting tables and columns
