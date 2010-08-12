@@ -9,7 +9,9 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Application upgrade might not only include the .exe and .dll but the database changes. How to deploy these changes, manually or using tools to deploy? 
+
+<br>Let's see the bad and good examples: <br> 
 
 ```
 Dear Mr Northwind, 
