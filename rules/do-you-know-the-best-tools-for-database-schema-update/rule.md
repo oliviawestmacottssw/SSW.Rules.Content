@@ -17,4 +17,10 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+1. Red Gate SQL Compare + Red Gate SQL Packager (post development model)
+2. Visual Studio 2010 Data Dude + Deploy (post development model)
+3. SQL Management Studio + OSQL  (Free and roll your own)
+4. SQL Management Studio + SSW SQL Deploy (As you go model)
+
+
