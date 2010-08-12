@@ -24,5 +24,3 @@ The alternative is to work with a project manager, specification and release pla
 
 This method is recommended for any work which is substantial and where the client wants a greater degree of control.
 
-The [managed approach](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoSuccessfulSalesAccountManagement.aspx#OutcomeInitialMeetingSpecRevieworAdHocWork) is SSW's prefer method of work.
-
