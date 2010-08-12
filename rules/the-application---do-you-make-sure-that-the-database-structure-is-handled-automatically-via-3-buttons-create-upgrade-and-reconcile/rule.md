@@ -9,7 +9,17 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+You get an error message reported from a user like:
+
+
+> *When I click the Save button on the product form it gives an error message about a missing field.*
+
+![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/ObamaThinking.jpg) Figure: The developer thinks "what could be wrong" ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/WorksOnMyMachine.png) Figure: The developer tests then replies "Works on my machine" 
+You try and reproduce it on your version in the office and everything works perfectly.
+
+ You suspect that the customer probably has changed the schema. So you start drafting an email to the user like:
+
 Mary, I need you to send me your database schema as it might be different from what it should be. Can you:
 
 1. Open up Enterprise Manager in you are on SQL 2000 (or open SQL Management Studio if you are on SQL 2005, 2008 or 2010)
