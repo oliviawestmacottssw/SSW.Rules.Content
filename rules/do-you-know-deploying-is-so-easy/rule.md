@@ -25,4 +25,4 @@ authors:
 ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/PublishRichClient.jpg) Figure: For a Windows clients it is also just one click
 - The Database<br>    ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/PublishDatabase.jpg) Figure: For the Database it is ..... well one click is what you need to aim for
 
- Now all this works beautifully first time, when there is no existing database... and no existing data to worry about. Now you have a reason to read the rest of the rules :-)   
+ Now all this works beautifully first time, when there is no existing database... and no existing data to worry about. Now you have a reason to read the rest of the rules :-)    
