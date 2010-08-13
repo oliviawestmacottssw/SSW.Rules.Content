@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Encouraging your team to evaluate their peers is a proven method to improve working environment and productivity.<br> 
+ Encouraging your team to evaluate their peers is a proven method to improve working environment and productivity. <br> 
 All peers that worked together should evaluate each other by filling the [Peer Evaluation Email](/Standards/Management/RulesToBetterProjectManagement/Documents/PeerEvaluationEmailTemplate.msg) every month.
 
 The evaluation is done by ranking from top to bottom and giving constructive comments in “Start, Stop, Continue”
