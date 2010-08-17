@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Fixing the Option Strict problem is one of the most annoying aspects of the Visual Basic development environment relates to Microsofts' decision to allow late binding. By turning Option Strict Off by default, many type-casting errors are not caught until runtime. You can make VB work the same as other MS languages (which always do strict type-checking at design time) by modifying these templates. <br> 
 So, always set Option Strict On right from the beginning of the development.
 
 Before you do this, you should first back up the entire VBWizards directory. If you make a mistake, then the templates will not load in the VS environment. You need to be able to restore the default templates if your updates cause problems.
