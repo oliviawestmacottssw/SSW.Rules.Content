@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Assembly names should reflect the the functionality that it provides. For example,<br> 
 
 ```
 System.IO
