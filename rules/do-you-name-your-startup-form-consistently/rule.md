@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![Bad Project without Main Form](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/BadMainForm.gif) Bad example - The entry form is not immediately recognizable because of a non standard name ![Good with Main Form](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/GoodMainForm.gif) Good example - The entry form follows the naming convention rule 
+ In every Windows application project. We need to have a main form for a better structure and design. <br> ![Bad Project without Main Form](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/BadMainForm.gif) Bad example - The entry form is not immediately recognizable because of a non standard name ![Good with Main Form](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/GoodMainForm.gif) Good example - The entry form follows the naming convention rule 
 
 | We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx#VBMainForm) to check for this rule.<br>            <br>Note: In Code Auditor we check for Form named: Startup, MainService, MainForm and WizardPage. |
 | --- |
