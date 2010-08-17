@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ There are many ways to reference images in ASP.NET. There are two different situations commonly encountered by developers when working with images: <br> 
 - Scenario #1: Images that are part of the content of a specific page eg. a picture used only on one page
 - Scenario #2:Images that are shared across on user controls which are shared across different pages in a site eg. a shared logo used across the site (commonly in user controls, or master pages)
 
