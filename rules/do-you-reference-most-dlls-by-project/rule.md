@@ -11,7 +11,13 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+When you obtain a 3rd party .dll (in-house or external), you sometimes get the code too. So should you:
+
+- reference the Project (aka including the source) or
+- reference the assembly?
+
+
 When you face a bug, there are 2 types of emails you can send:
 
 1. Dan, I get this error calling your Registration.dll? or
