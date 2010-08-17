@@ -11,7 +11,14 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+The designer should be used for all GUI design. Controls will be dragged and dropped onto the form and all properties should be set in the designer, e.g.
+
+- Labels, TextBoxes and other visual elements
+- ErrorProviders
+- DataSets (to allow data binding in the designer)
+
+
 Things that do not belong in the designer:
 
 - Connections
