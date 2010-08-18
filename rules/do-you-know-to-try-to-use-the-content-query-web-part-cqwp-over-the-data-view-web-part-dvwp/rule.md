@@ -11,4 +11,13 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+These controls are similar, but the DVWP needs heavier customization and should be avoided where possible.
+
+The CQWP is easier to style. The DVWP should only be used if you need one of these features:
+
+1. You only want to search on one column in the list, rather than all the (indexed) columns.
+2. You want to perform a search on multiple lists, but not all the lists on a web.
+3. You want to have a very specific Look and Feel that the search results use.
+
+
