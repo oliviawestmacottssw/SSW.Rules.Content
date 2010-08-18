@@ -11,7 +11,9 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). &lt;%@Master language="C#"%&gt;
+ To create a master page or reuse an existing master page is a time-consuming process. Because you have to determine what the Office SharePoint Server 2007 page model requires — necessary content placeholders and controls to work with the page layouts.
+
+<br>Another problem of Default.master is that it contains many tables that are difficult to style.<br> &lt;%@Master language="C#"%&gt;
 <br>    ...
 <br>    &lt;HEAD runat="server"&gt;
 <br>    ...
