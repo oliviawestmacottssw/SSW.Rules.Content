@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![Image bad link](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ImageLinkBad.gif) Bad example - Images under Product root folder.![Image good link](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ImageLinkGood.gif) Good example - Images under \Images folder.
+ Instead of images sitting all around the solution, we put all the images in the same folder. <br> ![Image bad link](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ImageLinkBad.gif) Bad example - Images under Product root folder. ![Image good link](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ImageLinkGood.gif) Good example - Images under \Images folder. 
 
 
 
