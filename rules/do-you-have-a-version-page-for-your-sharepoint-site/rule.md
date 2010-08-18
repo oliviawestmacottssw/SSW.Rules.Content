@@ -11,7 +11,11 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+Each time you deploy a new package to your SharePoint site, you should add a new entry in the version list.
+
+This will enable you to quickly find out which version of the package your SharePoint site is using, and let users know what version they are running.
+
 ![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SP_version_small.jpg)
 
 
