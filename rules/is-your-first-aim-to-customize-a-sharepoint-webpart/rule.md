@@ -11,7 +11,10 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+You should always try to configure existing out-of-the-box SharePoint webparts before you roll your own.
+<br>The Content Query web part in particular is very flexible – allowing contents from different lists to be presented in different ways. 
+
 These are some of the fields in the CQWP that are often configured:
 
 **MainXslLink, ItemXslLink:**
