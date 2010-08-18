@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Since we have many ways to use Connection String in .NET 2.0, it is probably that we are using duplicate connection string in web.config. <br> 
 
 ```
 <connectionStrings>   <add name="ConnectionString" connectionString="Server=(local);Database=NorthWind;" /></connectionStrings><appSettings>   <add key="ConnectionString" value="Server=(local);Database=NorthWind;"/></appSettings>
