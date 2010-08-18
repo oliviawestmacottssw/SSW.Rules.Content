@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![Store all setup files under one folder in root](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/SetupFileGood.gif) Good example - All the wise setup file in the \setup folder.
+ All setup files should stored under setup folder of your project root directory. <br> ![Store all setup files under one folder in root](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/SetupFileGood.gif) Good example - All the wise setup file in the \setup folder. 
 
 
 
