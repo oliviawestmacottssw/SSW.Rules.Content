@@ -11,7 +11,24 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+CAML is the XML definition for all things in SharePoint, in deployment, and in creating templates, CAML is the only format.
+In SharePoint development, you will also need to know CAML, in particular, how to write a query in CAML.
+
+- Widely used in Content Query Web Parts
+- Also used in SharePoint content reports
+- In code, used by SPSiteDataQuery object
+
+
+
+[Introduction to Collaborative Application Markup Language (CAML)](http&#58;//msdn.microsoft.com/en-us/library/ms426449.aspx)
+ 
+
+
+[Query Schema](http&#58;//msdn.microsoft.com/en-us/library/ms467521.aspx)
+
+
+
+
 
 
 
@@ -31,9 +48,9 @@ Problems with CAML:
 ```
 
      Figure: Example of CAML query
-2. SharePoint is not good at telling you if you made a mistake with your CAML query. ![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CAMLError.png)     Figure: Debug error message
+2. SharePoint is not good at telling you if you made a mistake with your CAML query. ![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CAMLError.png)      Figure: Debug error message
 3. Hard to debug.
-Tips: Use 3rd Party tools - U2U CAML Query Builder <br>![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/U2U.png)     Figure: U2U CAML Query Builder     Note: U2U CAML Builder is the best tool that we have. There are some occasional UI and interface issues, but for creating CAML and testing it against live SharePoint lists it gets the job done. And it’s FREE!
+Tips: Use 3rd Party tools - U2U CAML Query Builder<br>    ![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/U2U.png)      Figure: U2U CAML Query Builder<br>         Note: U2U CAML Builder is the best tool that we have. There are some occasional UI and interface issues, but for creating CAML and testing it against live SharePoint lists it gets the job done. And it’s FREE!
 
 
 
