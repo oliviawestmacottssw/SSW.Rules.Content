@@ -11,14 +11,14 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Development for a SharePoint solution is always risky and may involve bringing down the server from time to time.  So we always customize and develop SharePoint solutions on a separate development server.  But when your development is done, do you know how to deploy your changes to the staging and eventually the production server?<br> 
 The Bad method 
-The naïve and bad method would be to just back up the entire content database, then copy the database backup to the destination server, and restore it there.
+ The naïve and bad method would be to just back up the entire content database, then copy the database backup to the destination server, and restore it there.
 
 1. Backup command: 
-stsadm –o backup –url http://servername:port -filename c:\myfile.bak
+<br>    stsadm –o backup –url http://servername:port -filename c:\myfile.bak
 2. Restore command: 
-stsadm –o restore –url http://servername:port –filename c:\myfile.bak -overwrite
+<br>    stsadm –o restore –url http://servername:port –filename c:\myfile.bak -overwrite
 
 
 There are quite a few issues with this approach:
@@ -30,7 +30,7 @@ There are quite a few issues with this approach:
 
 
 The Good method 
-The better method is to build a feature or solution deployment package
+ The better method is to build a feature or solution deployment package
 
 1. Build a VSeWSS project for package and deployment
 2. When built, this will produce a wsp file (this is a cab file) that can be deployed as features on the destination server
