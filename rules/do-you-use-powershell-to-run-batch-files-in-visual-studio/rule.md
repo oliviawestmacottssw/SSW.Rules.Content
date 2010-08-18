@@ -11,4 +11,4 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![Image bad link](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/BadBatch_small.jpg) Bad example - Using Windows Command Processor (cmd.exe) for running batch files. ![Image good link](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/goodbatch_small.jpg) Good example - Using PowerShell for running batch files
+ Windows Command Processor (cmd.exe) cannot run batch files (.bat) in Visual Studio because it does not take the files as arguments. One way to run batch files in Visual Studio is to use PowerShell. <br> ![Image bad link](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/BadBatch_small.jpg) Bad example - Using Windows Command Processor (cmd.exe) for running batch files. ![Image good link](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/goodbatch_small.jpg) Good example - Using PowerShell for running batch files
