@@ -11,7 +11,13 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+Each class definition should live in its own file.
+
+Reasons:
+
+Easy to locate class definitions outside the Visual Studio IDE (e.g. SourceSafe, Windows Explorer)
+
 The only exception should be - classes that collectively forms one atomic unit of reuse should live in one file. For example:
 
 
