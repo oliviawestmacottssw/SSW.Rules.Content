@@ -13,7 +13,7 @@ authors:
 
 ---
 
- 
+
 You should do anything that helps a project succeed. The best thing is to enable great collaboration, by giving your customer an awesome 'Customer Portal'.  Then they can see new mockups, comment on features, get new releases and participate in team discussions on their particular project.
 
 So the first thing you should do is to create a 'Customer Portal' in your SharePoint extranet. Then give your customer a login, send them an email and they are now going to really get involved!
@@ -25,9 +25,9 @@ If you are using SharePoint then....
 It is advised that you create a customized SharePoint Team Collaboration site template. That way you can very quickly initialize a new site, for each new customer.
 
 Once you have the template, follow these steps to create a customer portal with SharePoint 2007:
- 
+
 1. Go to the root where you want to create a site
-eg. sharepoint.ssw.com.au
+<br>    eg. sharepoint.ssw.com.au
 2. Click "Site Actions" on right hand top, select "Manage Content and Structure
 
 
@@ -45,10 +45,10 @@ Figure: Fill in the appropriate info then click "Create"
 More Information:
 
 1. Fill in the fields for the new client site 
-eg. Title, Description and URL
+<br>    eg. Title, Description and URL
 2. Select the template 
-e.g “**ClientCollaboration\_V1**” in the Custom tab.
-Note: Your selection is confirmed in the picture. In this example the template’s description looks like “**Site for Collaboration with SSW Clients**”.
+<br>    e.g “**ClientCollaboration\_V1**” in the Custom tab.
+<br>    Note: Your selection is confirmed in the picture. In this example the template’s description looks like “**Site for Collaboration with SSW Clients**”.
 3. Select “**Use Unique permissions**” as you need to give the client an account to visit.
 4. In the “**Navigation Inheritance**” choose “**No**” as you don’t need to let client visit the other client sites via the navigation.
 5. Click “**Create**”
