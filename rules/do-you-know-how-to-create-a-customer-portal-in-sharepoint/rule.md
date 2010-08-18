@@ -37,11 +37,11 @@ Once the new window opens, on the left hand side, click on the 'Clients' dropdow
 Note: If you don’t see this option, that means you don’t have permission to create site.
 
 ![Create New Site](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CreateNewSiteStep1.jpg)
-Figure: Create new site
+Figure: Create new site 
 Now follow these steps when the new window opens fill in the fields below.
 
 ![Info to create site](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CreateNewSiteStep2.jpg)
-Figure: Fill in the appropriate info then click "Create"
+Figure: Fill in the appropriate info then click "Create" 
 More Information:
 
 1. Fill in the fields for the new client site 
@@ -59,7 +59,7 @@ More Information:
 Next step is to setup the groups and permissions.
 
 ![Create new group Image](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CreateNewSiteSetPermissionStep1.jpg)
-Figure: Create a 'new group' or select an 'existing group' for the newly created site.
+Figure: Create a 'new group' or select an 'existing group' for the newly created site. 
 More Information:
 
 - Permissions: After you created the website for the client project, you need to configure the permission to make sure the developers and the clients can visit the site with the current authority. By default:
@@ -83,6 +83,6 @@ Note: you can also access this through the "People and Group" option on "Site Ac
 Click "OK", and the portal is created.
 
 ![Northwind Portal](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/Northwind%20Portal.jpg)
-Figure: [View Northwind portal.](/zzClients/Northwind/default.aspx)
+Figure: [View Northwind portal.](/zzClients/Northwind/default.aspx) 
 Note: SharePoint will send "welcome email" to all the members of the groups you created for the site with basic information, but you still need to send email to your customer with the login details like Url, userName and Password.
 
