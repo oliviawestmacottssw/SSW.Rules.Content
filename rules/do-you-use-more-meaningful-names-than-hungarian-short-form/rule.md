@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Hungarian notation is used in VB6. In .NET, there are over 35,000 classes, so we can't just call them with three letter short form. We would suggest the developer use the full class name as  in example below. As a result, the code will be much easier to read and follow up. <br> 
 
 ```
 //Bad Code
