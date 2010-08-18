@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+Microsoft SharePoint Technologies is built on top of ASP.NET technologies.  In particular, MOSS 2007 is based on ASP.NET 2.0.
 This means that there are many skills that an ASP.NET developer already has that can be translated to SharePoint directly.
 
 - Master Pages – SharePoint uses master pages
