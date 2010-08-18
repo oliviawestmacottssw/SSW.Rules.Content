@@ -11,7 +11,11 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+In ASP.NET deployment is a simple xcopy. Or you can right click the Web Site project and  "Publish Web Site" in Visual Studio.
+![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/PublishWebSite.png) Fugure: Publish Web Site in Visual Studio
+
+
 In SharePoint the way to deploy a set of changes is via a solution package.
 
 SharePoint provides additional layer and infrastructure on top of ASP.NET  - part of this layer is the support for administrators (who may not be developers) to quickly add, remove, activate and deactivate features across a SharePoint site farm.
