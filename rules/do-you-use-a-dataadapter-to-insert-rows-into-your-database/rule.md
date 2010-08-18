@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ There are 5 common methods of inserting rows into your database:<br> 
 1. Use SqlCommand with an SQL INSERT statement and parameters:
 
 
