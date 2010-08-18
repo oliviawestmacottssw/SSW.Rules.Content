@@ -11,7 +11,11 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+Did you know if you are using DataSets throughout your application (not data readers) then you don't need to have any code about connection opening or closing.
+
+Some say it is better to be explicit. However the bottom line is less code is less bugs.
+
 
 ```
 try
@@ -63,8 +67,8 @@ try
   }
 ```
 
-Good code - letting the adapter worry about the connection.Note: A common comment for this rule is...
-"Please tell users to explicitly open and close connection - even when the .NET Framework can do for them"  
+Good code - letting the adapter worry about the connection. Note: A common comment for this rule is...
+ "Please tell users to explicitly open and close connection - even when the .NET Framework can do for them" 
 The developers who prefer the first (more explicit) code example give the following reasons:
 
 - Explicit Behaviour is always better. Code maintainability. Explicit code is more understandable than implicit code. Don't make your other developers have to look up the fact that data adapters automatically maintain the state of your connection for them.
