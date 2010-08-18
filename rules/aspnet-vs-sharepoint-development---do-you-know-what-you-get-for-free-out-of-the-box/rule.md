@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+SharePoint as a platform on top of ASP.NET gives you many components that you don’t get from ASP.NET out of the box:
 
 - WYSIWYG editing (IE only, no FireFox)
 <br>    SharePoint’s rich text editor works really well with IE out of the box, works with SharePoint image libraries, and supports many features and even allows site style configurations to define and restrict styles that can be applied in the site. Unfortunately, it is not a cross browser compliant WYSIWYG editor.
