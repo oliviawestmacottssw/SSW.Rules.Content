@@ -11,4 +11,11 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+The following files should NOT be included in source safe as they are user specific files:
+
+- \*.scc;\*.vspscc - Source Safe Files
+- \*.pdb - Debug Files
+- \*.user - User settings for Visual Studio .NET IDE
+
+
