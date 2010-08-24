@@ -10,4 +10,4 @@ authors:
 ---
 
  If the task requires a code change and you are using TFS, make sure it goes in as a work item. 
-[The perfect workflow is to use TeamCompanion and get nice email integration, as per "Rules to better Project Management with TFS"](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx#SendDoneMail)
+<br>The perfect workflow is to use TeamCompanion and get nice email integration, as per ["Rules to better Project Management with TFS"](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx#SendDoneMail)
