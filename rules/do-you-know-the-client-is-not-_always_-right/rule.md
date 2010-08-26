@@ -20,12 +20,13 @@ Clients come to us because of our experience and expertise as software consultan
 
  The expertise of a software consultant is likely to be in the technology underlying your clients business, not in their business model. If they're willing to pay for external consultants its highly likely their business model has been successful to date and it's wise that you leave that to them.
 
- However, on some technical issues you should speak out firmly when you think the client is suggesting the wrong course of action. The following areas are most common:
+ However, on some issues you should speak out firmly when you think the client is suggesting the wrong course of action. The following areas are most common:
 
 - Using old technology - eg SharePoint 2007 instead of SharePoint 2010
 - Wanting a non-scalable solution - this should speak for itself - the client is likely coming to you because their current solution has max'd out
 - Pushing for quick fixes when a better longer term fix is reasonable - eg hardcoding connection strings, using Boolean instead of Text when more options might arise down the track, fixing the size of text boxes instead of having them scale with the content.
 - Not thinking that UX matters
+- Trying to revert to a fixed price model when the agreement is time & materials
 
 
 **Knowing how to persuade the client that your way is the best way**
