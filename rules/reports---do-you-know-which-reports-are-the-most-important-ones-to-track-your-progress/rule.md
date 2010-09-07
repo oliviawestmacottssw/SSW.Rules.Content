@@ -15,16 +15,15 @@ authors:
 
 
 
-<span class='intro'> 
-  <p>In Scrum there is only one report that the team needs to track their progress. 
-</p>
- </span>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
 
   <p>
-    <img src="/PublishingImages/burndown_good_example.png" class="ssw-rteStyle-ImageArea" alt="" style="margin&#58;0px 20px;width&#58;702px;height&#58;410px;" />​<br><strong class="ms-rteCustom-FigureNormal" style="display&#58;inline !important;">Figure&#58; The burndown has all of the information you need to know if you are going to hit your mark</strong></p>
+    <img style="margin&#58;0px 20px;" src="http&#58;//www.ssw.com.au/ssw/standards/Rules/images/burndown.JPG" />
+    <br>
+<strong class="ms-rteCustom-FigureNormal">Figure&#58; The burndown has all of the information you need to know if you are going to hit your mark</strong></p>
 <p>There are however other reports that matter for management and putting together the bigger picture.</p>
-<p>See <a shape="rect" href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=eebdfafe-e7c3-40f4-a72f-4b4723e0b836" title="http&#58;//rules.ssw.com.au/Management/RulesToManagingSoftwareConsultants/Pages/DoYouGetRegularUpdatesOnCostsAndProgress.aspx"><font color="#000080">Do you get regular updates on costs and progress?</font></a></p>
+<p>See <a shape="rect" href="http&#58;//www.ssw.com.au/ssw/standards/Rules/RulestoManagingSoftwareConsultants.aspx#UpdatesProvided" title="http&#58;//www.ssw.com.au/ssw/standards/Rules/RulestoManagingSoftwareConsultants.aspx#UpdatesProvided"><font color="#000080">Do you get regular updates on costs and progress?</font></a></p>
 
 
 
