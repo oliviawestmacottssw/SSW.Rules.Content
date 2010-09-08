@@ -13,9 +13,20 @@ authors:
 
 
 
-<span class='intro'> <p>If you are recording a choice you should create a rule, if you are explaining how you did something, it should be a blog post.</p><p>If you are writing a really long email, ask yourself if it would be better as a lining blog post rather than a one off email.</p><p>Also see&#58; <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=257bcb90-884d-49bd-8e15-e639c70f7de1">Do you know to make what you can public?</a><br></p> </span>
+<span class='intro'> 
+  <p>If you are recording a choice you should create a rule, if you are explaining how you did something, it should be a blog post. </p>
+<p>If you are writing a really long email, ask yourself if it would be better as a lining blog post rather than a one off email. </p>
+<p>Also see&#58; <a shape="rect" href="/Standards/Communication/RulesToBetterBlogging/Pages/WhatCanYouMakePublic.aspx"><font color="#000080">Do you know to make what you can public?</font></a></p>
+ </span>
 
-<dl class="image"><dt> <img alt="image" src="/PublishingImages/RulesBloggingDocumentGood2.jpg" style="width&#58;750px;" /></dt><dd>Figure&#58; This rule describes the choice that was made<br></dd></dl><dl class="image"><dt> <img alt="image" src="/PublishingImages/RulesBloggingDocumentGood.jpg" style="width&#58;750px;" /></dt><dd>Figure&#58; This blog post documents the task or thought process </dd> </dl><p> 
-   <b> Hint&#58;</b> If you are really good you will end up with one or more rules, a blog post and a link in your email <br></p>
+
+  <p>
+    <a shape="rect" href="/Standards/Communication/RulesToBetterBlogging/Pages/WhatCanYouMakePublic.aspx">
+    </a>&#160; </p>
+<p><img title="image" style="background-image&#58;none;border-bottom&#58;0px;border-left&#58;0px;margin&#58;0px 20px;padding-left&#58;0px;width&#58;800px;padding-right&#58;0px;display&#58;inline;height&#58;374px;border-top&#58;0px;border-right&#58;0px;padding-top&#58;0px;" alt="image" src="/Standards/Communication/RulesToBetterBlogging/PublishingImages/RulesBloggingDocumentGood2.jpg" border="0" /><br>
+<font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; This Rule describes the choice that was made&#58; <a shape="rect" href="http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#LayoutSolution" target="_blank"><font color="#000080">Do you know how to layout your solution?</font></a> </font></p>
+<p><img title="image" style="background-image&#58;none;border-bottom&#58;0px;border-left&#58;0px;margin&#58;0px 20px;padding-left&#58;0px;width&#58;800px;padding-right&#58;0px;display&#58;inline;height&#58;468px;border-top&#58;0px;border-right&#58;0px;padding-top&#58;0px;" alt="image" src="/Standards/Communication/RulesToBetterBlogging/PublishingImages/RulesBloggingDocumentGood.jpg" border="0" /></p>
+<p><font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; This blog post documents the task or thought process&#58;&#160;<a shape="rect" href="http&#58;//blog.hinshelwood.com/archive/2010/05/17/guidance-how-to-layout-you-files-for-an-ideal-solution.aspx" title="http&#58;//blog.hinshelwood.com/archive/2010/05/17/guidance-how-to-layout-you-files-for-an-ideal-solution.aspx"><font color="#000080">Solution&#58; Do you know how to layout your solution?</font></a> </font>Hint&#58; If you are really good you will end up with one or more rules, a blog post and a link in your email</p>
+
 
 
