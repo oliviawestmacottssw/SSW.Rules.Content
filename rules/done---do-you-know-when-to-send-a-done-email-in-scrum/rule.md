@@ -41,13 +41,12 @@ When the last task/bug of a user story is complete, you then send a [comprehensi
 
 Here is the [Done Criteria](/Standards/Management/RulesToSuccessfulProjects/Pages/DoYouKnowTheMinimalDefinitionOfDone.aspx)we followed:
 
-1. Compiled/Built locally
-2. &gt;1% Code Coverage
-3. All unit tests passed
-
+a. Compiled/Built locally    
+     b. &gt;30% Code Coverage 
+     c. All unit tests passed
 
 Then add an illustration to show this.
 ![image](/Standards/Management/RulesToBetterScrumUsingTFS/PublishingImages/ProveDoneCriteria.png "image")
 Figure: Good example -  This is proof you have met your '[Done criteria](/Standards/Management/RulesToSuccessfulProjects/Pages/DoYouKnowTheMinimalDefinitionOfDone.aspx)'. 
-This is all designed to help you Scrum Team members (Product Owner, ScrumMaster and Team) keep a certain quality of each chunk of work. Remember that you are not DONE until your team says you are done.
+This is all designed to help you Scrum Team members (Product Owner, ScrumMaster and Team) keep a certain quality bar on completion of each chunk of work. Remember that you are not 'DONE' until your team says you are done.
 
