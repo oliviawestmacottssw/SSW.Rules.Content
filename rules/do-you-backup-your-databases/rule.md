@@ -7,4 +7,20 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+
+Run your daily backups to provide a saftey net should things go wrong.
+
+1. Confirm that the TFS2008 databases were backed up last night. a. TfsActivityLogging
+<br>    b. TfsBuild
+<br>    c. TfsIntegration
+<br>    d. TfsVersionControl
+<br>    e. TfsWarehouse 
+<br>    f. TfsWorkItemTracking
+<br>    g. TfsWorkItemTrackingAttachmentsFigure: If you can’t see the physical .bak file for all these, chase up your DBA
+2. Create a backup of the TFS2008 databases by running your Daily Backup maintenance plan on TFS2008 
+![](/Standards/TFS/RulesToBetterTFS2010Migration/PublishingImages/RunDailyBackup.png)
+Figure 1 - Before starting, kick off the daily backups
+
+
+
