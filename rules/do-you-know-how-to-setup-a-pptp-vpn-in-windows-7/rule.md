@@ -18,7 +18,7 @@ authors:
 ![](/Standards/ITAndNetworking/InternetAndNetworks/PublishingImages/SetupStep4.jpg) Figure 3 - Select "Connect to a workplace" 5.
 ![](/Standards/ITAndNetworking/InternetAndNetworks/PublishingImages/SetupStep5.jpg)Figure 4 - Click "Use my Internet Connection (VPN)"   6.
 ![](/Standards/ITAndNetworking/InternetAndNetworks/PublishingImages/SetupStep6.jpg)Figure 5 - Fill out "Internet Address" and "Destination Name" | Check "Don't Connect Now"  7. 
-![](/Standards/ITAndNetworking/InternetAndNetworks/PublishingImages/SetupStep7.jpg)Figure 6 - Enter your Username and Password  8.
+![](/Standards/ITAndNetworking/InternetAndNetworks/PublishingImages/SetupStep7.jpg)Figure 6 - Enter your Username and Password 8.
 ![](/Standards/ITAndNetworking/InternetAndNetworks/PublishingImages/SetupStep8.jpg)Figure 7 - Close the wizard without connecting   9.
 ![](/Standards/ITAndNetworking/InternetAndNetworks/PublishingImages/SetupStep9.jpg)Figure 8 - Back in the Control Panel, click “Change adapter settings”   10.
 ![](/Standards/ITAndNetworking/InternetAndNetworks/PublishingImages/SetupStep10.jpg) Figure 9 - Right click on your new VPN | Click "Properties"  
