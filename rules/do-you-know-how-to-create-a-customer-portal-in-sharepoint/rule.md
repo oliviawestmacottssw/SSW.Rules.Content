@@ -57,9 +57,7 @@ More Information:
 
 
 Next step is to setup the groups and permissions.
-
-![Create new group Image](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CreateNewSiteSetPermissionStep1.jpg)
-Figure: Create a 'new group' or select an 'existing group' for the newly created site. 
+![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SetUpGroupForSite.jpg)  Figure: Create a 'new group' or select an 'existing group' for the newly created site. 
 More Information:
 
 - Permissions: After you created the website for the client project, you need to configure the permission to make sure the developers and the clients can visit the site with the current authority. By default:
