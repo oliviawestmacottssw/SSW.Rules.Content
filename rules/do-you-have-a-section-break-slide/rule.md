@@ -7,4 +7,6 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/CoverSlide.jpg) Figure: Good example – This is very clear that we are up to part 2 of the presentation 
+
+Cover slides in presentations provide structure. These slides should be consistent so they do not confuse the audience.
+![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/CoverSlide.jpg) Figure: Good example – This is very clear that we are up to part 2 of the presentation 
