@@ -7,5 +7,7 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). <dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/CoverSlide.jpg"> </dt>
+
+Cover slides in presentations provide structure. These slides should be consistent so they do not confuse the audience.
+<dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/CoverSlide.jpg"> </dt>
     <dd class="ms-rteCustom-FigureGood">Figure&#58; Good example – This is very clear that we are up to part 2 of the presentation </dd></dl>
