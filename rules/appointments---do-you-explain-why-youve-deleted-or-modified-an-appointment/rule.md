@@ -15,4 +15,4 @@ authors:
 
 <br>This will help to solidify the changes and alleviate confusion.
 
-![](/Standards/Communication/RulesToBetterEmail/PublishingImages/AppointmentWithComments.jpg)   <font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; The note in brackets explains the change that has been made</font>
+![](/Communication/RulesToBetterEmail/PublishingImages/AppointmentWithComments.jpg)   <font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; The note in brackets explains the change that has been made</font>
