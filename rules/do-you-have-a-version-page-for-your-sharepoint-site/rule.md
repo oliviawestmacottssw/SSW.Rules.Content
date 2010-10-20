@@ -16,7 +16,7 @@ Each time you deploy a new package to your SharePoint site, you should add a new
 
 This will enable you to quickly find out which version of the package your SharePoint site is using, and let users know what version they are running.
 
-![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SP_version_small.jpg)
+![](/PublishingImages/SP_version_small.jpg)
 
 
 
