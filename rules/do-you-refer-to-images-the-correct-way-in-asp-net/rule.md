@@ -38,9 +38,9 @@ This has the advantage that &lt;img&gt; tags can easily be copied between pages,
 
 As shown above, this approach makes the URLs on the staging server hard to remember, or increases the length of URLs on the production web server.
 
-Verdict for Scenario #1: ![](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/fail.gif)
+Verdict for Scenario #1: ![](/PublishingImages/fail.gif)
 
-Verdict for Scenario #2: ![](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/fail.gif)
+Verdict for Scenario #2: ![](/PublishingImages/fail.gif)
 
 **Option #2:Relative Paths**
  Images that are part of the content of a page should be referenced using relative paths, e.g.
@@ -53,9 +53,9 @@ Verdict for Scenario #2: ![](/Standards/SoftwareDevelopment/RulesToBetterDotNETP
 Good example - Referencing images with absolute paths.
 However, this approach is not possible with images on user controls, because the relative paths will map to the wrong location if the user control is in a different folder to the page.
 
-Verdict for Scenario #1: ![](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/pass.gif)
+Verdict for Scenario #1: ![](/PublishingImages/pass.gif)
 
-Verdict for Scenario #2: ![](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/fail.gif)
+Verdict for Scenario #2: ![](/PublishingImages/fail.gif)
 
 **Option #3:Application-Relative Paths**
  In order to simplify URLs, ASP.NET introduced a new feature, application relative paths. By placing a tilde (~) in front of a path, a URL can refer to the root of a site, not just the root of the web server. However, this only works on Server Controls (controls with a runat="server" attribute).
@@ -71,9 +71,9 @@ To use this feature, you need either use ASP.NET Server controls or HTML Server 
 Good example - Application-relative paths with an ASP.NET Server control
 Using an HTML Server control creates less overhead than an ASP.NET Server control, but the control does not dynamically adapt its rendering to the user's browser, or provide such a rich set of server-side features.
 
-Verdict for Scenario #1: ![](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/fail.gif)
+Verdict for Scenario #1: ![](/PublishingImages/fail.gif)
 
-Verdict for Scenario #2: ![](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/pass.gif)
+Verdict for Scenario #2: ![](/PublishingImages/pass.gif)
 
 Note:A variation on this approach involves calling the Page.ResolveUrl method with inline code to place the correct path in a non-server tag.
 
