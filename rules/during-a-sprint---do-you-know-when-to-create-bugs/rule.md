@@ -38,7 +38,7 @@ Regardless of your answers, there are basically two types of bugs: those found i
 <br>        General tip: don’t create an associated task to fix a bug until the Sprint in which the team commits to fix it
 
 
-See [Do you know how to handle Bugs on the Product Backlog?](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/BugsontheProductBacklog.aspx) for how to work with bugs on your backlog.
+See [Do you know how to handle Bugs on the Product Backlog?](/Management/RulesToBetterScrumUsingTFS/Pages/BugsontheProductBacklog.aspx) for how to work with bugs on your backlog.
 
 Extracted from [Accentient’s](http&#58;//www.accentient.com/scrum.aspx) Scrum Training by [Richard Hundhausen](http&#58;//blog.hundhausen.com/)
 
