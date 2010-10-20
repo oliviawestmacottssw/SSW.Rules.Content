@@ -7,7 +7,9 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Summary:  [Login](http&#58;//jira.ssw.com.au/secure/Dashboard.jspa) to Jira and clear the issues from the top left of your dashboard usually by answering a question or closing.
+
+<br>Jira issues can enter states where it is important that action is taken immediately by either the Reporter or the Assignee.  These actions are always quick to do but keep others informed and keep the workflow going. <br> 
  Any issues that require your immediate attention appear at the top of the left-hand column (see screenshot later) of your [dashboard](http&#58;//jira.ssw.com.au/secure/Dashboard.jspa).  Following this rule will ensure that the Reporter always knows the status, priority and plan for the issue resolution and the Assignee is never help up by the Reporter; this empowers you to "work efficiently on the right things in a visible way".
 
  In the SSW Jira implementation, there are six situations where action is required by you swiftly and these appear on your dashboard in one or more of six filters:
@@ -23,13 +25,13 @@ authors: []
 | My Reported Issues to Close | Resolved | Close or Re-open | Reporter | Closed or New |
 
 
- NOTE: Most people will only have Reporter actions to perform. [Understand more about Reporters and Assignees](/Standards/Management/rulesforbetterjira/Pages/ReportesAndAssignees.aspx) 
+ NOTE: Most people will only have Reporter actions to perform. [Understand more about Reporters and Assignees](/Management/RulesToBetterJira/Pages/ReportesAndAssignees.aspx) 
 
-![](/Standards/Management/rulesforbetterjira/PublishingImages/Urgent.png) **Figure: Your [dashboard](http&#58;//jira.ssw.com.au/secure/Dashboard.jspa) is your Home Page when you ****[login like this](/Standards/Management/rulesforbetterjira/Pages/HowdoIsignintoJira.aspx)****and clearly shows the issues that need your immediate attention 
+![](/Management/RulesToBetterJira/PublishingImages/Urgent.png) **Figure: Your [dashboard](http&#58;//jira.ssw.com.au/secure/Dashboard.jspa) is your Home Page when you ****[login like this](/Management/RulesToBetterJira/Pages/HowdoIsignintoJira.aspx)****and clearly shows the issues that need your immediate attention 
 **
  For guidance on dealing with issues check out our other rules:
 
-[Answering](/Standards/Management/rulesforbetterjira/Pages/HowdoIansweraquestioninJira.aspx)[SSW Dashboard](/Standards/Management/rulesforbetterjira/Pages/SystemDashboard.aspx)
-[Reporters and Assignees](/Standards/Management/rulesforbetterjira/Pages/ReportesAndAssignees.aspx)
-[SSW Workflow](/Standards/Management/rulesforbetterjira/Pages/workflow.aspx)
-[Jira Rules Page](/Standards/Management/rulesforbetterjira)
+[Answering](/Management/RulesToBetterJira/Pages/HowdoIansweraquestioninJira.aspx)[SSW Dashboard](/Management/RulesToBetterJira/Pages/SystemDashboard.aspx)
+[Reporters and Assignees](/Management/RulesToBetterJira/Pages/ReportesAndAssignees.aspx)
+[SSW Workflow](/Management/RulesToBetterJira/Pages/workflow.aspx)
+[Jira Rules Page](/Management/RulesToBetterJira)
