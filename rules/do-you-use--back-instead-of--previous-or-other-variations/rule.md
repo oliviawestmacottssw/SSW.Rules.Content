@@ -24,7 +24,7 @@ There are a few reasons for this:
 
 
 Below is an example of a Good "&lt; Back" link versus some Bad variations.
-![Good](/Standards/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/textboxeswithshowbutton.gif) Figure: A Good example of a "&lt; Back" link ![Bad](/Standards/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/badpreviouslink.gif) Figure: This is Bad because it says "Previous" instead of "Back" ![Good](/Standards/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/badbacklink.gif) Figure: This is bad because it has too many "&lt;"s or it has no space between the "&lt;" and the "Back" 
+![Good](/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/textboxeswithshowbutton.gif) Figure: A Good example of a "&lt; Back" link ![Bad](/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/badpreviouslink.gif) Figure: This is Bad because it says "Previous" instead of "Back" ![Good](/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/badbacklink.gif) Figure: This is bad because it has too many "&lt;"s or it has no space between the "&lt;" and the "Back" 
 We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor) to check for this rule.
 
 
