@@ -13,4 +13,4 @@ Use high resolution images in your presentations. Never stretch small, low-resol
 The quality of your images is a subconscious message to your audience. If you use low quality pictures, then you unintentionally suggest the same message about your product.
 
 For this reason, we encourage you to choose only high quality photos and to avoid cartoons and word art.
-![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/low_d.gif) Figure: Bad Example - What is this monstrosity!![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/high_d.jpg) Figure: Good Example - Looks classy, that. 
+![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/low_d.gif) Figure: Bad Example - What is this monstrosity!![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/high_d.jpg) Figure: Good Example - Looks classy, that. 
