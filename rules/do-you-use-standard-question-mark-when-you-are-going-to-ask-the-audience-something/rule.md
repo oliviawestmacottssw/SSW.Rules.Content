@@ -7,5 +7,5 @@ authors: []
 
 ---
 
- In similar fashion to the previous rule, you can also add a visual cue for any audience participation events such as Q&A.<br> <dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/SSWQuestionMark.gif"> </dt>
+ In similar fashion to the previous rule, you can also add a visual cue for any audience participation events such as Q&A.<br> <dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Communication/RulesToBetterPowerpointPresentations/PublishingImages/SSWQuestionMark.gif"> </dt>
     <dd class="ms-rteCustom-FigureNormal">Figure&#58; Use an image to indicate when presenter is going to ask questions </dd></dl>
