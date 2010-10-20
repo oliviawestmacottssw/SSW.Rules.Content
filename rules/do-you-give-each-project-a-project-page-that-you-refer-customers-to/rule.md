@@ -9,4 +9,4 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ A project page is not a place to introduce the project. It will be used to share the project process information between your teammates and clients. [See our rules to happy clients](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoHappyClients.aspx#ProjectPage)
