@@ -12,5 +12,5 @@ authors:
 ---
 
  If you receive email via BCC, other recipients are not aware that you were sent a copy so it's actually a VERY BAD idea to Reply All in this case. It's ok to reply to the message you were BCCed on, but it's not ok to send your reply to the people on TO or CC list. Only the sender should receive replies from BCCed people.<br> <font size="+0" class="ms-rteCustom-YellowBorderBox">We have a program called <a href="http&#58;//www.ssw.com.au/ssw/LookOut/">SSW LookOut!</a> for Outlook to check for this rule.<br>
-&#160;<img src="/Standards/Communication/RulesToBetterEmail/PublishingImages/LookoutReplyAllBCCwarning.gif" alt="Lookout Reply All BCC Warning" class="ms-rteCustom-ImageArea"><br>
+&#160;<img src="/Communication/RulesToBetterEmail/PublishingImages/LookoutReplyAllBCCwarning.gif" alt="Lookout Reply All BCC Warning" class="ms-rteCustom-ImageArea"><br>
 <font size="+0" class="ms-rteCustom-FigureNormal">Figure&#58; SSW LookOut! for Outlook warns you if you accidentally 'Reply All' when you have been BCC'ed</font> </font>
