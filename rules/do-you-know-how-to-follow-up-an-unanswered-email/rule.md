@@ -16,6 +16,6 @@ authors:
 2. Put (RESEND) in 1st line of the Body
 3. Plus any other instructions - such as "Hurry Up!"
 
-![Hurry Up](/Standards/Communication/RulesToBetterEmail/PublishingImages/HurryUp.gif)Figure: Good Example - (RESEND) written at the top of the email.
+![Hurry Up](/Communication/RulesToBetterEmail/PublishingImages/HurryUp.gif)Figure: Good Example - (RESEND) written at the top of the email.
 This reminds the other person that you are still waiting for a response.
 
