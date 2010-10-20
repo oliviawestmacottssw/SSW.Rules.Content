@@ -17,4 +17,4 @@ Some people make extensive use of the rules wizard so that as email messages arr
 I guess there could be special folders for bug reports that are sent by exception handlers, but I still would not be keen on this.
 
 A better way is Conversation View and collapsing them if you need to hide them.
-![Conversation View](/Standards/Communication/RulesToBetterEmail/PublishingImages/conversationview.JPG) Figure: Conversation View allows you to choose which folders to collapse.
+![Conversation View](/Communication/RulesToBetterEmail/PublishingImages/conversationview.JPG) Figure: Conversation View allows you to choose which folders to collapse.
