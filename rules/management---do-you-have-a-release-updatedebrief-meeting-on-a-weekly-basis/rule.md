@@ -18,7 +18,7 @@ Tip #1: Choose the same day each week (for example SSW chooses Tuesday)
 This is the agenda:
 
 1. Status of original work items - are they all done?
-2. External [Test Please](/Standards/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx) - go through the application and get the clients thoughts. Many issues they see, will already be reported by the internal "Test Please". Send emails for the new ones.
+2. External [Test Please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx) - go through the application and get the clients thoughts. Many issues they see, will already be reported by the internal "Test Please". Send emails for the new ones.
 3. Triage these additional work items - try to move all to the next release
 4. Approval for additional work items/budget overruns - talk $$ 
 <br>    eg. look at the "Actual" and "Estimate" figures on the top of the report
@@ -36,12 +36,12 @@ There are two kinds of tools to help you do this
 
 - [SSW eXtreme Emails - Release Update/Debrief Report](http&#58;//www.ssw.com.au/ssw/EXtremeEmails/ManageProjects.aspx#ReleaseDebrief)
 
-![](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/ReleaseDebrief_small.jpg) Figure: The actual output of the Release Debrief Report
+![](/Management/RulesToSuccessfulProjects/PublishingImages/ReleaseDebrief_small.jpg) Figure: The actual output of the Release Debrief Report
 Here is a HTML format [SSW Release Debrief Report.](http&#58;//www.ssw.com.au/ssw/extremeemails/reports/releasedebriefreport.htm)
 
 - [SSW TFS Add-in - Release Update/Debrief Report](http&#58;//www.ssw.com.au/ssw/AgileTemplate/UserGuide.aspx#ReleaseUpdate)
 
-![](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/ProgressReport_small.jpg) Figure: The actual output of the Release Update Report
+![](/Management/RulesToSuccessfulProjects/PublishingImages/ProgressReport_small.jpg) Figure: The actual output of the Release Update Report
 Here is a PDF format [SSW Release Update Report.](http&#58;//www.ssw.com.au/ssw/AgileTemplate/Sample/SSWReleaseUpdate.pdf)
 
 **If you are at the end of a main section of work, promote your success **
