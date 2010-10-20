@@ -13,7 +13,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ In Scrum there is only one report that the team needs to track their progress.<br> 
 ![](http&#58;//www.ssw.com.au/ssw/standards/Rules/images/burndown.JPG)
 **Figure: The burndown has all of the information you need to know if you are going to hit your mark**
 
