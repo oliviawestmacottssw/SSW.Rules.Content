@@ -7,4 +7,4 @@ authors: []
 
 ---
 
- Different layouts have different purposes. While the default layout is nice; it's not the only option available. But remember to keep all things in moderation. You want the audience to focus on the content, not guessing what layout the next slide will have. <br> ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/layout.gif) Figure: How to change the layout in the template library 
+ Different layouts have different purposes. While the default layout is nice; it's not the only option available. But remember to keep all things in moderation. You want the audience to focus on the content, not guessing what layout the next slide will have. <br> ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/layout.gif) Figure: How to change the layout in the template library 
