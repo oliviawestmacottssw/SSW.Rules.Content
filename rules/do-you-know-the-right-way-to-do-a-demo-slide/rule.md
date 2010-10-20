@@ -7,4 +7,4 @@ authors: []
 
 ---
 
- By placing a little visual cue on your slide, you can remind yourself to show a demo to the audience. Avoid displaying the word demo; so you skip it if running short on time without needlessly distracting the audience.<br> ![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/demo.gif) Figure: SSW uses an icon to indicate a demo 
+ By placing a little visual cue on your slide, you can remind yourself to show a demo to the audience. Avoid displaying the word demo; so you skip it if running short on time without needlessly distracting the audience.<br> ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/demo.gif) Figure: SSW uses an icon to indicate a demo 
