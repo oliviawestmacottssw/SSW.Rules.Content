@@ -9,7 +9,14 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+This rule has been important for a long time: Fix bugs before adding functionality.
+
+- Bugs get more expensive as they get older
+- Bugs become more complex the longer you wait to fix it
+- You have better access to the developer who created it who will be able to fix it faster
+
+
 Failing to follow this rules encourages developers to focus on new 'interesting' functionality which is exactly what you don't want...
 
 You must be strong in the face of pressures from project plan scheduling!
