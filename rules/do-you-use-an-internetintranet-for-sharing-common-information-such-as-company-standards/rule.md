@@ -9,7 +9,9 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+Employees need easy access to standards that are used everyday. We maintain standards at SSW for any activity that can be standardized including coding practices, naming conventions, standard form layouts and documents. There are also internal standards like expense and leave procedures.
+
 The first step is to use HTML rather than MS Word documents.
 
 The second step is to think about location. Should it go on a Web site or Intranet? We believe in dividing it up into 2 groups:
