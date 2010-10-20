@@ -16,9 +16,9 @@ In order to achieve this entire the Team takes responsibility for “looking aft
 
  During the sprint one of the team will be the first person to answer any Product Owner queries.  That person is assigned to the story
 
-![image](/Standards/Management/RulesToBetterScrumUsingTFS/PublishingImages/UserStoryOwner_Bad.png "image") 
+![image](/Management/RulesToBetterScrumUsingTFS/PublishingImages/UserStoryOwner_Bad.png "image") 
 **Figure: Bad example, the product owner is not sure who to speak to.**
 
-![image](/Standards/Management/RulesToBetterScrumUsingTFS/PublishingImages/UserStoryOwner_Good.png "image") 
+![image](/Management/RulesToBetterScrumUsingTFS/PublishingImages/UserStoryOwner_Good.png "image") 
 **Figure: Good example, the product owner can now see who he should speak to and developers know where to send done emails.**
 
