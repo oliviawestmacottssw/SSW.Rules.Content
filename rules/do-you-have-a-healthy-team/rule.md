@@ -9,7 +9,9 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+Developers are notoriously unhealthy people. They don't exercise enough, don't sleep enough and eat the wrong food. An unhealthy developer is not going to be able to concentrate or put in the hard-yards when required, nor are they going to be very happy. In the office I try to look after them as best I can by:
+
 - Not having chocolate biscuits and instead keeping a bowl of fruit<br>
 - Not having coke machines and instead having a purified cold water bottle in the middle of the office<br>
 - Encouraging them to do as much exercise as possible - even doing push-ups every day.<br>
