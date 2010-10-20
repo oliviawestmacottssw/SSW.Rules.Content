@@ -9,4 +9,4 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ They just add characters. Surely Order\_Details.Order\_ID is no better then OrderDetail.OrderID <br> 
