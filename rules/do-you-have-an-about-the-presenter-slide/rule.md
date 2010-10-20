@@ -14,4 +14,4 @@ Always introduce yourself:
 - What is your service or product?
 - What makes you so special?
 
-![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/aboutAdam.gif) Figure: 'About Adam' slide 
+![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/aboutAdam.gif) Figure: 'About Adam' slide 
