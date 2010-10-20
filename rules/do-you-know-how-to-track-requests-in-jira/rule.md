@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Once you have created your issue (request) and you remain the [Reporter](/Management/RulesToBetterJira/Pages/ReportesAndAssignees.aspx), there are several ways you can track them, the most important is via your [Dashboard](http&#58;//jira.ssw.com.au/secure/Dashboard.jspa) ; see how to intepret your dashboard [here](/Management/RulesToBetterJira/Pages/SystemDashboard.aspx). <br> 
  Other ways are:
 
 - using the filter [My Reported Unresolved Issues](http&#58;//jira.ssw.com.au/secure/IssueNavigator.jspa?mode=hide&amp;requestId=10100)
