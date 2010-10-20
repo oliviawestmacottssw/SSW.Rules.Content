@@ -22,7 +22,7 @@ It will also show your Favourite Filters which are very useful.
  System Dashboard example:
 
 
-![](/Standards/Management/rulesforbetterjira/PublishingImages/SystemDashboardExample.png)The specification of the dashboard is:
+![](/Management/RulesToBetterJira/PublishingImages/SystemDashboardExample.png)The specification of the dashboard is:
 
-![](/Standards/Management/rulesforbetterjira/PublishingImages/SystemDashboardSpec.png)
+![](/Management/RulesToBetterJira/PublishingImages/SystemDashboardSpec.png)
 
