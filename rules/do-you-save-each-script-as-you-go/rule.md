@@ -29,7 +29,7 @@ authors:
 7. The application can have a "Reconcile" feature that compares the current schema to what it should be
 
 
-![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/ChangeScripts.jpg) Figure: A list of change SQL scripts, each file name is in the correct format 
+![](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/ChangeScripts.jpg) Figure: A list of change SQL scripts, each file name is in the correct format 
 **Is there a file naming convention to follow?**
  The script file naming convention should be XXXXX\_ObjectType\_ObjectName\_ColumnName\_Description\_SchemaMasterInitials.sql 
 
