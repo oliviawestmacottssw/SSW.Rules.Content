@@ -20,21 +20,21 @@ E.g.
 > “<font color="#ff0000">UPDATED</font>: 1 August 2010 [what you did]”
 
 
-![image](/Standards/Communication/RulesToBetterBlogging/PublishingImages/RulesBloggingUpdate_OKPeter.jpg "image")
+![image](/Communication/RulesToBetterBlogging/PublishingImages/RulesBloggingUpdate_OKPeter.jpg "image")
 
 Figure: OK example – Although Peter has the right idea, he needs to think more of a global audience
 [<font color="#000080">http&#58;//blog.gfader.com/2010/06/avoid-boolean-parameters-in-method.html</font>](http&#58;//blog.gfader.com/2010/06/avoid-boolean-parameters-in-method.html)
 
 
 
-![image](/Standards/Communication/RulesToBetterBlogging/PublishingImages/RulesBloggingUpdate_GoodMartin.jpg "image")
+![image](/Communication/RulesToBetterBlogging/PublishingImages/RulesBloggingUpdate_GoodMartin.jpg "image")
 
 Figure: Good example – its easy to see when the updates occurred
 [<font color="#000080">http&#58;//blog.hinshelwood.com/archive/2010/02/10/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc.aspx</font>](http&#58;//blog.hinshelwood.com/archive/2010/02/10/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc.aspx)
 
 
 
-![image](/Standards/Communication/RulesToBetterBlogging/PublishingImages/RulesBloggingUpdate_UltimateMike.jpg "image")
+![image](/Communication/RulesToBetterBlogging/PublishingImages/RulesBloggingUpdate_UltimateMike.jpg "image")
 
 Figure: Ultimate example – Mike has gotten into the swing of things
 [<font color="#000080">http&#58;//mikefourie.wordpress.com/2010/07/02/windows-live-essentials-wave-4-betalive-sync/</font>](http&#58;//mikefourie.wordpress.com/2010/07/02/windows-live-essentials-wave-4-betalive-sync/)
