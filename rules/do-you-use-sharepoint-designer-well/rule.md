@@ -23,4 +23,4 @@ But there are things that it doesn't do naturally, or it does really badly.  He
 
 
 
-![Uncheck Auto indent](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SPIndent.gif)
+![Uncheck Auto indent](/PublishingImages/SPIndent.gif)
