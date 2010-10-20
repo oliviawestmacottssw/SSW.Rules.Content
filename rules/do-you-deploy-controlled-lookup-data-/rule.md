@@ -19,7 +19,7 @@ authors:
  3) You then need to add a check for it so that it does not disappear.
 
 Let's look at an example:
-![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/TimeProDropDown.png) Figure: This combo looks innocent. However if it is "Billable" then the calendar goes yellow ![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/TimeProCalendar.png) Figure: Billable days are shown in yellow 
+![](/PublishingImages/TimeProDropDown.png) Figure: This combo looks innocent. However if it is "Billable" then the calendar goes yellow ![](/PublishingImages/TimeProCalendar.png) Figure: Billable days are shown in yellow 
 
 ```
 if (drDay.NotBillableCount == 0 && 
@@ -107,4 +107,4 @@ VALUES
 GO
 ```
 
-Figure: This data must be deployed, just like we deploy schema  Now you need to add a procValidate, see [Do you check your "Controlled Lookup Data" (aka Reference Data) is still there with procValidate?](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/Pages/DoYouCheckYourLookupDataAkaReferenceDataIsStillThereWithProcValidate.aspx)
+Figure: This data must be deployed, just like we deploy schema  Now you need to add a procValidate, see [Do you check your "Controlled Lookup Data" (aka Reference Data) is still there with procValidate?](/Pages/DoYouCheckYourLookupDataAkaReferenceDataIsStillThereWithProcValidate.aspx)
