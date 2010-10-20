@@ -35,5 +35,5 @@ Clients come to us because of our experience and expertise as software consultan
 
  As soon as you see the clients eyes glaze over, stop, it's likely you're bamboozling with techno-jargon. Rethink your argument and state it again. 
 
- If the point is arguable, once a client says no three times, don't push your luck too much. If you do concede don't forget to send an "[as per our conversation](/Standards/Management/RulesToHappyClients/Pages/DoYouAlwaysSendAnAsPerOurConversationEmail.aspx)" email to keep a record of the decision.
+ If the point is arguable, once a client says no three times, don't push your luck too much. If you do concede don't forget to send an "[as per our conversation](/do-you-send-＂as-per-our-conversation＂-emails)" email to keep a record of the decision.
 
