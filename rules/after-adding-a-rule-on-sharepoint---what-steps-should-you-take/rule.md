@@ -17,4 +17,4 @@ To prevent spelling or grammatical errors in the text content of a rule, you sho
 - Check the report and fix the errors
 - Check in the page and repeat steps 2-3 until Link Auditor has all green ticks
 
-<br>We also have a rule: [Adding a rule in aspx](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesDevelopment.aspx#StepsAfterAddRuleOnAspxPage)![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SPedit.jpg) Figure: SharePoint 2010 as a content management system 
+<br>We also have a rule: [Adding a rule in aspx](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesDevelopment.aspx#StepsAfterAddRuleOnAspxPage)![](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SPedit.jpg) Figure: SharePoint 2010 as a content management system 
