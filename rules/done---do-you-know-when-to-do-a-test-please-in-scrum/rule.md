@@ -9,12 +9,12 @@ authors:
 
 ---
 
- Something you must do it to conduct an internal ”[Test Please](/Standards/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)” prior to releasing anything to a client. This should be conducted by someone outside the Scrum Team and as it is a blocking process must be started within an hour and take no longer than 3 hours to complete. <br> 
+ Something you must do it to conduct an internal ”[Test Please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)” prior to releasing anything to a client. This should be conducted by someone outside the Scrum Team and as it is a blocking process must be started within an hour and take no longer than 3 hours to complete. <br> 
 **Rules to Successful Projects**
 
-1. [Do you conduct an internal "test please" prior to releasing a version to a client?](/Standards/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)
-2. [Do you know the 4 steps to do a "Test Please"?](/Standards/Management/RulesToSuccessfulProjects/Pages/TestPleaseFourSteps.aspx)
+1. [Do you conduct an internal "test please" prior to releasing a version to a client?](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)
+2. [Do you know the 4 steps to do a "Test Please"?](/Management/RulesToSuccessfulProjects/Pages/TestPleaseFourSteps.aspx)
 
 
-In Scrum you should conduct a separate “[Test Please”](/Standards/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx) for each of the stories. You might be using the same package, but all the bugs and issues found must be rolled up to the [Story Owner](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/OwnerForEveryUserStory.aspx) as they will need to decide on what needs to be done to deliver their Story.
+In Scrum you should conduct a separate “[Test Please”](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx) for each of the stories. You might be using the same package, but all the bugs and issues found must be rolled up to the [Story Owner](/Management/RulesToBetterScrumUsingTFS/Pages/OwnerForEveryUserStory.aspx) as they will need to decide on what needs to be done to deliver their Story.
 
