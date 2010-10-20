@@ -13,7 +13,7 @@ authors:
 
 [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx), [NUnit](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/netTools.aspx#NUnit) and [Microsoft FxCop](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/netTools.aspx#FxCop) are tools to keep your code "healthy". That is why they should be easily accessible in every solution so that they can be run with a double click of a mouse button. <br> 
 
-![Code Auditor Project File](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/CodeAuditorProjectFile.gif) 
+![Code Auditor Project File](/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/CodeAuditorProjectFile.gif) 
 To add a [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) file to your solution:
 
 1. Start up SSW Code Auditor
@@ -26,7 +26,7 @@ To add a [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.as
 8. Right click and **add existing file**
 9. Select the **SSW Code Auditor project file**
 10. Right click the newly added file and select "**Open With**"
-![Open With](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/OpenWith.gif)
+![Open With](/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/OpenWith.gif)
 11. Point it to the SSW Code Auditor executable
 
 
