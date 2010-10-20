@@ -13,6 +13,6 @@ Use high resolution images in your presentations. Never stretch small, low-resol
 The quality of your images is a subconscious message to your audience. If you use low quality pictures, then you unintentionally suggest the same message about your product.
 
 For this reason, we encourage you to choose only high quality photos and to avoid cartoons and word art.
-<dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/low_d.gif"> </dt>
-    <dd class="ms-rteCustom-FigureBad">Figure&#58; Bad Example - What is this monstrosity!</dd></dl><dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/high_d.jpg"> </dt>
+<dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Communication/RulesToBetterPowerpointPresentations/PublishingImages/low_d.gif"> </dt>
+    <dd class="ms-rteCustom-FigureBad">Figure&#58; Bad Example - What is this monstrosity!</dd></dl><dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Communication/RulesToBetterPowerpointPresentations/PublishingImages/high_d.jpg"> </dt>
     <dd class="ms-rteCustom-FigureGood">Figure&#58; Good Example - Looks classy, that. </dd></dl>
