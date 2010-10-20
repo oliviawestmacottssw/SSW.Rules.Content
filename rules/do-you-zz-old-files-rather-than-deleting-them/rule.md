@@ -9,7 +9,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![Obsolete old files aggressively](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/ObseleteOldFilesAggressively.gif)Figure: 'ZZ' your files rather than deleting them! 
+ When you are regularly creating new releases of a cool .NET application or simply producing new proposals in Microsoft Word, files will inevitably become outdated. Rather than hit the DELETE key put a 'zz' at the front of the filename. The old versions should not be deleted straight away - it is just an unnecessary risk!<br> ![Obsolete old files aggressively](/Management/RulesToSuccessfulProjects/PublishingImages/ObseleteOldFilesAggressively.gif)Figure: 'ZZ' your files rather than deleting them! 
 Note: Other systems are used that are less aggressive than our 'zz' rule.
 
 - In .NET, the keyword [obselete](http&#58;//www.ssw.com.au/ssw/Redirect/Obselete.htm) ![Leave site](http&#58;//www.ssw.com.au/ssw/Images/LeaveSite.gif) is used to mark types and members of types that should no longer be used - these then turn up as a compiler warning.
