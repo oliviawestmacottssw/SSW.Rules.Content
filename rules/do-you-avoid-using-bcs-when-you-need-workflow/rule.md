@@ -12,9 +12,9 @@ authors:
  If you are planning to use Workflow, use Workflow with SharePoint List instead of BCS. Because Workflow cannot be associated directly with external lists. The reason is data is not stored in SharePoint, so the Workflow cannot be notified when items change.
 
 
-![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/BCSDoesNotSupportWF.jpg)
+![](/PublishingImages/BCSDoesNotSupportWF.jpg)
 BCS doesn't have WorkFlow support
 
 
-![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/WFSupportList.jpg)
+![](/PublishingImages/WFSupportList.jpg)
 Use WorkFlow with SharePoint List
