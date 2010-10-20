@@ -11,9 +11,9 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ eXtreme Programming is a big concept which we try to use here. I don't adhere to every idea, but there are some very practical rules I follow which improves the way we develop on large projects: <br> 
 
-| ![Figure&#58; You need to check up on your developers every 2 weeks. Then you'll never be fooled!](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/Anthrax.gif) Figure: You need to check up on your developers every 2 weeks. Then you'll never be fooled!  |
+| ![Figure&#58; You need to check up on your developers every 2 weeks. Then you'll never be fooled!](/Management/RulesToSuccessfulProjects/PublishingImages/Anthrax.gif) Figure: You need to check up on your developers every 2 weeks. Then you'll never be fooled!  |
 | --- |
 
 
