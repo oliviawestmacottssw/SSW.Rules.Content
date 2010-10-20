@@ -9,8 +9,12 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
-![ ](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/imgErrorHandle.GIF)
+
+When you walk into a clothes store to exchange a pair of jeans, you expect to be treated with respect. The sales person should talk to you at your level, deal with your issues, and in a polite and fair way handle your problem. Developers should not expect software users to be treated any differenty.
+
+Every error message you put into your products is an opportunity for good service. Users don't want to see "Run-time error. Can't save record with zero length string", instead the User sould receive a message that help them through the situation.
+
+![ ](/Management/RulesToSuccessfulProjects/PublishingImages/imgErrorHandle.GIF)
 Figure: Log every error!
 Not to say though that there is any ideal error message - a great error is one that has been eliminated! In packaged products every unhandled error is our problem.
 
