@@ -9,20 +9,20 @@ authors:
 
 ---
 
-![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/BadDateFormat.gif) 
+![](/PublishingImages/BadDateFormat.gif) 
 Figure: Bad example - using the default Date Format
 
-![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/GoodDateFormat.gif)
+![](/PublishingImages/GoodDateFormat.gif)
 Figure: Good example - using the Date Format with 'ddd'
 
 **How do you do this ?**
   By default, the date type column only have two format options:
 
-      ![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/DateFormateDateOnly.gif) Figure: Date Format #1 ![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/DateFormateDateAndTime.gif) Figure: Date Format #2 
+      ![](/PublishingImages/DateFormateDateOnly.gif) Figure: Date Format #1 ![](/PublishingImages/DateFormateDateAndTime.gif) Figure: Date Format #2 
 To add the week day(eg.Wed) you need to: 
 1. Select List Settings | Columns |Create column | Calculated (calculation based on other columns)
-2. See the columns of this list in the "Insert Column", add the column you want to change format, and custom the code in "Formula" like below:  ![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CalculatedColumnWithFormulaCode.gif) 
+2. See the columns of this list in the "Insert Column", add the column you want to change format, and custom the code in "Formula" like below:  ![](/PublishingImages/CalculatedColumnWithFormulaCode.gif) 
 Figure: Calculated column with Formula code
-3. Change the views of the list to use the new Calculated column (WeekDate) instead of the original date column (Date): ![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/ReplaceOldDate.gif) Figure: Replace the old Date column (Date) with new Calculated column (WeekDate It should not be this hard - see [suggestion to the SharePoint team to make date formatting easier](http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/SharePointTeamServices.aspx#ChangeDateFormatShouldBeEasier).
+3. Change the views of the list to use the new Calculated column (WeekDate) instead of the original date column (Date): ![](/PublishingImages/ReplaceOldDate.gif) Figure: Replace the old Date column (Date) with new Calculated column (WeekDate It should not be this hard - see [suggestion to the SharePoint team to make date formatting easier](http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/SharePointTeamServices.aspx#ChangeDateFormatShouldBeEasier).
 
 
