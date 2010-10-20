@@ -14,18 +14,24 @@ authors:
 
 
 <span class='intro'> 
-  <p>The Product Owner is responsible for owning&#160;the Product backlog. See the video <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=a91de77d-a8dd-40be-b61a-bd6305e7183f">here</a>&#58;&#160;<br></p>
-<p>There are three options for how to a add new PBI (Product Backlog item) to the backlog&#58;<br></p>
+  <p>Your Product Owner is responsible for updating and managing the Product backlog.</p>
+<p>Do they know how?</p>
  </span>
 
-<ol><li>Emails​ 
-      <dd class="ssw15-rteElement-FigureBad">Bad Example - This is a poor way to add a PBI as you can’t order emails by business prior​​ity​<br></dd></li><li> 
-      <b>Visual Studio Team Services</b> - E.g. https&#58;//ssw.visualstudio.com <br> 
-​         <dt>
-            <img title="image" alt="image" src="/SiteAssets/product-owner-do-you-know-how-to-update-the-backlog/RulesScrumUpdateBacklogGood.jpg" style="width&#58;600px;" /> 
-         </dt><dd class="ssw15-rteElement-FigureGood">​​​​Figure&#58; Good Example -&#160;VSTS&#160;allows you to enter an item into the backlog, in any&#160;priority order<br></dd></li><li> 
-      <strong>Team Companion&#160;(Recommended)<br></strong><dl><dt> 
-            <img src="/PublishingImages/RulesScrumUpdateBacklogBest.jpg" alt="" style="width&#58;600px;height&#58;450px;" />
-         </dt><dd></dd><dd class="ssw15-rteElement-FigureGood">Figure&#58; Team Com​panion lets you convert an email to a PBI, giving you the best of both worlds<br></dd><p class="ssw15-rteElement-P">​<br></p><p class="ssw15-rteElement-P">Note&#58; You can also create a PBI using VSTS and attach and email directly&#160;if needed, without using Team Companion<br></p></dl></li></ol>
+
+  <ol>
+    <li><strong>Team Web Access</strong><br>
+    <a shape="rect" href="http&#58;//tfs.ssw.com.au/tfs/web/" title="http&#58;//tfs.ssw.com.au/tfs/web/"><font color="#000080">http&#58;//tfs.ssw.com.au/tfs/web/</font></a><br>
+    <font color="#000080"><img title="image" style="background-image&#58;none;border-bottom&#58;0px;border-left&#58;0px;margin&#58;0px 20px;padding-left&#58;0px;width&#58;600px;padding-right&#58;0px;display&#58;inline;height&#58;446px;border-top&#58;0px;border-right&#58;0px;padding-top&#58;0px;" alt="image" src="/Management/RulesToBetterScrumUsingTFS/PublishingImages/RulesScrumUpdateBacklogGood.jpg" border="0" /><br>
+    </font><strong>Figure&#58;Team Web Access is the best way<br>
+    </strong></li>
+    <li><strong>Emails</strong><br>
+    This is a very poor way to access and update the backlog as you can’t order the emails by business priority. </li>
+    <li><strong>Team Companion</strong><br>
+    <img style="width&#58;600px;height&#58;450px;" src="/Management/RulesToBetterScrumUsingTFS/PublishingImages/RulesScrumUpdateBacklogBest.jpg" /><br>
+    <strong>Figure&#58; Team Companion lets you edit work items right in Outlook</strong> </li>
+</ol>
+<p>Decide whatever works best for you; SSW recommends Team Companion</p>
+
 
 
