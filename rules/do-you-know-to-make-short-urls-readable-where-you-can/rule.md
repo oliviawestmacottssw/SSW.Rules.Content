@@ -11,7 +11,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Readability of URLs is important. It is not just making the length as short as possible. <br> 
 If you use a shortened link people can't see what they are clicking through to. In fact this is what most spamers rely on:
 
 [http://twb.ly/1uJtUG](http&#58;//twb.ly/1uJtUG) 
@@ -26,6 +26,6 @@ So you should only 'Auto Shorten URLs' when it is too long and you need the spac
 
 However it is becoming more prevalent for the software to support showing the full URL on rollover.
 
-![image](/Standards/Communication/RulesToBetterSocialNetworking/PublishingImages/RulesSocialTwitterReadableURL.jpg "image")
+![image](/PublishingImages/RulesSocialTwitterReadableURL.jpg "image")
 **Figure: Good example – the application does the heavy lifting for you**
 
