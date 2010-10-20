@@ -22,7 +22,7 @@ You should always try to use Site Columns instead of List Columns
 - More visibility of the customization we are applying to the SharePoint website
 - Make sure the site column is added to our own group description such as "SSW Columns" - this is important for filtering and exporting site column customizations for deployment.  Also great because they are now grouped in the UI.
 
-![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/ListColumn.png) Figure: Create column - Bad Example ![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SiteColumn.png) Figure: Add from existing site columns - Good Example ![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SSWColumns_small.jpg) Figure: Site Columns - Good Example 
+![](/PublishingImages/ListColumn.png) Figure: Create column - Bad Example ![](/PublishingImages/SiteColumn.png) Figure: Add from existing site columns - Good Example ![](/PublishingImages/SSWColumns_small.jpg) Figure: Site Columns - Good Example 
 
 
 
