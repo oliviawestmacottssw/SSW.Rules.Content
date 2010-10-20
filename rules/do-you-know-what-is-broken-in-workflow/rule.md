@@ -33,4 +33,4 @@ These kind of workflows are designed generic to fit any business’ needs – an
 We think these SharePoint workflows need to be far more customizable.
 
 SharePoint does not provide support for complex reusable workflows easily - most companies go for a 3rd party solution:
-![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/Blackpearl.png) Figure: 3rd party tool - Blackpearl<br>    ![](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/Ninetex.png) Figure: 3rd party tool - Ninetex 
+![](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/Blackpearl.png) Figure: 3rd party tool - Blackpearl<br>    ![](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/Ninetex.png) Figure: 3rd party tool - Ninetex 
