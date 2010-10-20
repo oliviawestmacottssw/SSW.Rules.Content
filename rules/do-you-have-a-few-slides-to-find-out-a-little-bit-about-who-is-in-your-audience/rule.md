@@ -7,7 +7,9 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+If you are presenting to people who you already know, then you have   an enormous advantage over someone who is going to face an audience they   have never previously met.
+
 Your aim in giving this presentation is to give your audience something that is:
 
 - What they want
@@ -15,6 +17,6 @@ Your aim in giving this presentation is to give your audience something that is:
 - Interesting to them
 - Relevant to them
 
-<dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/developer.gif"></dt>
-    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Example slide for developer</dd></dl><dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/manager.gif"></dt>
+<dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Communication/RulesToBetterPowerpointPresentations/PublishingImages/developer.gif"></dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Example slide for developer</dd></dl><dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Communication/RulesToBetterPowerpointPresentations/PublishingImages/manager.gif"></dt>
     <dd class="ms-rteCustom-FigureNormal">Figure&#58; Example slide for manager</dd></dl>
