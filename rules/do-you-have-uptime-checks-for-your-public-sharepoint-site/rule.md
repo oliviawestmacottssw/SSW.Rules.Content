@@ -9,4 +9,9 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Any configuration settings, that you rely upon, must have a check so you get an email as soon as the problem arises. Eg. 
+<br>An anonymous access check - A web publishing site needs a check to make sure anonymous access is configured correctly.
+![](/PublishingImages/sharepoint_anonymous_access.jpg)
+Figure: Enable anonymous access for publishing site![](/PublishingImages/sharepoint_anonymous_access_monitor.jpg)
+Figure: monitors for anonymous access - If the monitor is down, there will be an email sending out to our network admins
+
