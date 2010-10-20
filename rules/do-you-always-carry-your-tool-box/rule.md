@@ -17,7 +17,7 @@ authors:
 
 
 
-| ![Carry the right tools and you'll rescue someone, one day...](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/StBernardDog.jpg)  |
+| ![Carry the right tools and you'll rescue someone, one day...](/Management/RulesToSuccessfulProjects/PublishingImages/StBernardDog.jpg)  |
 | --- |
 | Figure: St. Bernards are known for rescuing lost mountaineers, bringing life saving provisions |
 
