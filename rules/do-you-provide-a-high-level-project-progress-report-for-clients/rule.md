@@ -20,8 +20,8 @@ authors:
 <br>We provide the following two reports to clients: <br> 
 - Project Progress Report: This report helps clients to review the current project progress, check the status of the project and whether they are over or under estimates.
 
-![Project Progress Report](/Standards/Management/RulesToHappyClients/PublishingImages/ProgressRpt.gif) Figure: Project Progress Report 
+![Project Progress Report](/Management/RulesToHappyClients/PublishingImages/ProgressRpt.gif) Figure: Project Progress Report 
 - Project Update from eXtreme Emails helps client to understand what's involved in the project.
-[Using eXtreme Emails! to Manage Projects - Send a Status Update every 2 weeks](http&#58;//www.ssw.com.au/SSW/eXtremeEmails/ManageProjects.aspx#StatusUpdate) ![Update Report](/Standards/Management/RulesToHappyClients/PublishingImages/UpdateRpt.gif) Figure: Generate Project Update Report
+[Using eXtreme Emails! to Manage Projects - Send a Status Update every 2 weeks](http&#58;//www.ssw.com.au/SSW/eXtremeEmails/ManageProjects.aspx#StatusUpdate) ![Update Report](/Management/RulesToHappyClients/PublishingImages/UpdateRpt.gif) Figure: Generate Project Update Report
 
-![Update Report Email](/Standards/Management/RulesToHappyClients/PublishingImages/UpdateRptMail.gif) Figure: Update Report Email
+![Update Report Email](/Management/RulesToHappyClients/PublishingImages/UpdateRptMail.gif) Figure: Update Report Email
