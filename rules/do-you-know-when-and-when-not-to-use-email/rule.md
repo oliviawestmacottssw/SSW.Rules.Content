@@ -11,7 +11,7 @@ authors:
 
 ---
 
- As all these rules indicate, email can either be a blessing or a curse. One of the most deadly of all the potential curses of email is when people choose to use email when it is just not the right tool for that particular task. Absolutely avoid email in the following situations: <br> ![Meta Group Phone Over Email](/Standards/Communication/RulesToBetterEmail/PublishingImages/MetaGroupPhoneOverEmail.gif) ![Meta Group Email Over Phone](/Standards/Communication/RulesToBetterEmail/PublishingImages/MetaGroupEmailOverPhone.gif)
+ As all these rules indicate, email can either be a blessing or a curse. One of the most deadly of all the potential curses of email is when people choose to use email when it is just not the right tool for that particular task. Absolutely avoid email in the following situations: <br> ![Meta Group Phone Over Email](/Communication/RulesToBetterEmail/PublishingImages/MetaGroupPhoneOverEmail.gif) ![Meta Group Email Over Phone](/Communication/RulesToBetterEmail/PublishingImages/MetaGroupEmailOverPhone.gif)
 **Figures: a ![Icon PDF](http&#58;//www.ssw.com.au/ssw/Images/IconPdf.gif) [Meta Group survey](http&#58;//www.ssw.com.au/ssw/Redirect/SSWUpdate/0304MetagroupUsersPreferEmailPDFReport.htm)found that 81% of respondents preferred the phone above email to build relationships, but 80% preferred email generally**
 1. When you want to discuss an issue and make a decision
 2. When you are dealing with a 'delicate' problem
@@ -35,6 +35,6 @@ Similarly, never bring up a tricky topic with someone by email. It's very easy t
 - Send the email
 
  This way you can review issues together, and, importantly, decisions are confirmed in writing. 
-![Don't shoot people!](/Standards/Communication/RulesToBetterEmail/PublishingImages/pic38-KeepDrasticThingsForImportantThings.gif) 
+![Don't shoot people!](/Communication/RulesToBetterEmail/PublishingImages/pic38-KeepDrasticThingsForImportantThings.gif) 
 **Figure: Are you in the right frame of mind?**
 
