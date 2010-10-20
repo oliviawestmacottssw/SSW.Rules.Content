@@ -7,10 +7,12 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![](/Standards/Management/rulesforbetterjira/PublishingImages/Create%20Issue1.png) 
+ If the task is for SysAdmins you can send an email to [jira@ssw.com.au](mailto&#58;jira@ssw.com.au) with the summary in the subject and the description in the message body.  However, if more information is required you will then be asked a quesion in Jira.  [Do you know how to answer it?](/Management/rulesforbetterjira/Pages/HowdoIansweraquestioninJira.aspx)
+
+<br>A better way, and the way it must be done for all other projects, is to [create an issue](http&#58;//jira.ssw.com.au/secure/CreateIssue%21default.jspa) in Jira ...... <br> ![](/Management/rulesforbetterjira/PublishingImages/Create%20Issue1.png) 
 
 
-![](/Standards/Management/rulesforbetterjira/PublishingImages/CreateIssue2.png)
+![](/Management/rulesforbetterjira/PublishingImages/CreateIssue2.png)
 
  Somebody should quickly acknowledge and priortise it and you can see it in your 
- Once priroritsed, you will be able to [track](/Standards/Management/rulesforbetterjira/Pages/TrackingRequests.aspx) it.    
+ Once priroritsed, you will be able to [track](/Management/rulesforbetterjira/Pages/TrackingRequests.aspx) it.    
