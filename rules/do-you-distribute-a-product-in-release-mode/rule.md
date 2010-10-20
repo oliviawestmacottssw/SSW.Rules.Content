@@ -17,7 +17,7 @@ authors:
 #if DEBUG MessageBox.Show("Application started"); #endif
 ```
 
-**Figure: Code that should only run in Debug mode, we certainly don't want this in the release version.**![Debug configuration](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/DebugConfiguration.gif) **Figure: Set "Generate Debugging Information" to True on the project properties page (VS 2003).**![Advanced Build Settings](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/VS2005AdvancedBuildSettings.gif) **Figure: Set "Debug Info" to "pdb-only" on the Advanced Build Settings page (VS 2005).**
+**Figure: Code that should only run in Debug mode, we certainly don't want this in the release version.**![Debug configuration](/PublishingImages/DebugConfiguration.gif) **Figure: Set "Generate Debugging Information" to True on the project properties page (VS 2003).**![Advanced Build Settings](/PublishingImages/VS2005AdvancedBuildSettings.gif) **Figure: Set "Debug Info" to "pdb-only" on the Advanced Build Settings page (VS 2005).**
 
 | We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule. |
 | --- |
