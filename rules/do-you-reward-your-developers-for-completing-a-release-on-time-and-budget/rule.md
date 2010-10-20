@@ -9,7 +9,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ When your team has completed a release successfully, they should be rewarded with a morale boosting event such as lunch, dinner, the movies or bowling, so long as you can meet the following conditions: <br> 
 1. Budget - the release must be completed within the budget allocated
 2. Scope - no more than 50% reduction in work item hours
 3. Quality - must pass test please and get a mark of 7/10 or above from the client
