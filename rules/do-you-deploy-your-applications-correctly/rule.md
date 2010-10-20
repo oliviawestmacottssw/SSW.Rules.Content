@@ -21,7 +21,7 @@ To prevent issues from arising and having to re-deploy continuously which would 
 
 1. Have scripts that can get the pathname of the .exe that the user has installed the application on
 
-<br>    Wise has a Dialog that prompts the user for the installation directory:<br>    ![](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/INSTALLDIR.jpg)**     Figure: Wise Prompts the user for the installation directory and sets the path to a property in wise called "INSTALLDIR"**    An embedded script must be used if the pathname is necessary in the application (i.e. like .reg files that set registry keys in registry)
+<br>    Wise has a Dialog that prompts the user for the installation directory:<br>    ![](/PublishingImages/INSTALLDIR.jpg)**     Figure: Wise Prompts the user for the installation directory and sets the path to a property in wise called "INSTALLDIR"**    An embedded script must be used if the pathname is necessary in the application (i.e. like .reg files that set registry keys in registry)
 
 
 ```
