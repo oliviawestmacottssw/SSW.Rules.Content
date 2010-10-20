@@ -11,7 +11,14 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+In the course of work everyone encounters bugs or problems. They can be dealt with by either:
+
+    1. Pretend you didn't see the problem<br>
+    2. Fixing it straight away<br>
+    3. Reporting it so someone else for fixing
+
+
 The best solution is to use a combination or 2 and 3.
 
 - If it will take less 15 mins to fix, do it straight away.
