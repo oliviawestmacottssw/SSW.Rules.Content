@@ -11,7 +11,7 @@ authors:
 
 ---
 
- When you decided to use VSTS 2010, you have the options to choose from different methodologies (aka. Process Templates). Choose the right template to fit into your environment is very important, if you think the built-in template is not going to fulfil your need, customize it and create your own. In SSW, we have our own SSW.AgileTemplate to fit into our own development life cycle. <br> ![](/Standards/Management/RulesToBetterProjectManagement/PublishingImages/VSTS2010ProcessTemplates.jpg) 
+ When you decided to use VSTS 2010, you have the options to choose from different methodologies (aka. Process Templates). Choose the right template to fit into your environment is very important, if you think the built-in template is not going to fulfil your need, customize it and create your own. In SSW, we have our own SSW.AgileTemplate to fit into our own development life cycle. <br> ![](/Management/RulesToBetterProjectManagement/PublishingImages/VSTS2010ProcessTemplates.jpg) 
 Figure: Built-in Process Templates in VSTS 2010
 
  Beside the Microsoft Process Templates below:
