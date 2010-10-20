@@ -17,7 +17,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Hash tags help you identify an event or topic on twitter. Always make sure everyone adds the same hash tags for common things.<br> 
 
 <font class="ms-rteCustom-SSWTable" size="+0"><table width="400" border="0" cellspacing="0" cellpadding="2">
     <tbody>
