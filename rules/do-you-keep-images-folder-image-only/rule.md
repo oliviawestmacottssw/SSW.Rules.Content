@@ -11,7 +11,7 @@ authors:
 
 ---
 
- We want to keep clear and simple file structure in our solution. Never put any files other than images file in \images folder.<br> ![Image bad link](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/OnlyImageBad.gif) Bad example - HTML file in \Images Folder.![Image good link](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/OnlyImageGood.gif) Good example - Images only, clean \Images folder.
+ We want to keep clear and simple file structure in our solution. Never put any files other than images file in \images folder.<br> ![Image bad link](/PublishingImages/OnlyImageBad.gif) Bad example - HTML file in \Images Folder.![Image good link](/PublishingImages/OnlyImageGood.gif) Good example - Images only, clean \Images folder.
 
 
 
