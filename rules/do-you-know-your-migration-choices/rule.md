@@ -11,4 +11,15 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+There are many options for migrating to TFS 2010 from TFS 2008.
+
+1. Bit by bit - Migrate some projects (keep both TFS2008 and TFS2010 online)
+2. Migrate all (recommended – this is what these rules will be about)
+
+
+
+
+
+For help on determining the optimum path for you check out [Bryan Krieger's post on the subject](http&#58;//blogs.msdn.com/bkrieger/archive/2009/10/21/team-foundation-server-2010-upgrade.aspx)
+
