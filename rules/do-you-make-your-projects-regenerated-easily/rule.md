@@ -23,4 +23,4 @@ cs D:\DataDavidBian\Personal\New12345\NetTiers.csp
 
 Figure: An example of command line of Code Smith for NorthWind
 Thus "\_Regenerate.bat" file must exist in your projects (of course so must other necessary resources).
-![](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/RegenerateBat.jpg) Figure: Good - Have \_Regenerate.bat in the solution
+![](/PublishingImages/RegenerateBat.jpg) Figure: Good - Have \_Regenerate.bat in the solution
