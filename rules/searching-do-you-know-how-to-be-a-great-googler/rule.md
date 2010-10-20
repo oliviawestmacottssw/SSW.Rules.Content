@@ -9,7 +9,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ The best developers are also extremely good at finding a solution to a problem they don't know. <br> 
 I am pretty good at Googling but when I can't find something, I ask my friend Scott on IM. Scott Hanselman is the best Googler I know. He can find anything in 2 minutes...
 **Tips:**
 1. Think of a piece of the code that will be in the answer
