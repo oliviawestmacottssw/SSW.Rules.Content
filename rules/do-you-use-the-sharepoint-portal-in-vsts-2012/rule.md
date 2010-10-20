@@ -11,7 +11,7 @@ authors:
 
  You should use the SharePoint portal in VSTS2010 because it provides you dashboards to monitor your projects as well as quick access to a lot of reports. You are able to create and edit work items via the portal as well. 
 
-![](/Standards/Management/RulesToBetterProjectManagement/PublishingImages/VSTS2010-SharePointPortal.jpg)
+![](/Management/RulesToBetterProjectManagement/PublishingImages/VSTS2010-SharePointPortal.jpg)
 Figure: SharePoint portal in VSTS 2010 
 
 
