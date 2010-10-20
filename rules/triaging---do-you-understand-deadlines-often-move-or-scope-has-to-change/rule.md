@@ -12,7 +12,7 @@ Your budget and deadline may mean some items will not get done.
 
 Sometimes their estimate on items are way too short or too long. It is very hard to be 100% accurate when estimating hours to complete work.
 
-The best way to keep track is to insist on a [weekly release update/debrief](/Standards/Management/RulesToSuccessfulProjects/Pages/ReleaseDebrief.aspx).
+The best way to keep track is to insist on a [weekly release update/debrief](/Management/RulesToSuccessfulProjects/Pages/ReleaseDebrief.aspx).
 
 **For Scrum Projects:**
 
