@@ -9,4 +9,4 @@ authors: []
 
 
 You may be a natural born public speaker, but you will not be able ‘wing’ a presentation. Setting up a presentation takes time and practise. It is important to make sure you understand what steps to undertake beforehand, especially when there is technology involved.
-![](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/preslide.gif) Figure: Pre-setup slide 
+![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/preslide.gif) Figure: Pre-setup slide 
