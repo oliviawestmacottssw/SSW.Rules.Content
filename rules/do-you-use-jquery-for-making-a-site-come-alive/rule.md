@@ -9,7 +9,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![Bad example – there is no response when mouse is over the image](/Standards/WebSites/RulesToBetterWebsiteDevelopmentASPDotNet/PublishingImages/OldFashionSite.jpg) Figure: Bad example – there is no response when mouse is over the image ![Good example – apply the different style when mouse is over](/Standards/WebSites/RulesToBetterWebsiteDevelopmentASPDotNet/PublishingImages/NewFashionSite.jpg) Figure: Good example – apply the different style when mouse is over 
+ To please customers every business knows they need to keep their services and offerings fresh and up-to-date. The same is true for websites. In order to attract new traffic, we should make the website vivid. <br> ![Bad example – there is no response when mouse is over the image](/PublishingImages/OldFashionSite.jpg) Figure: Bad example – there is no response when mouse is over the image ![Good example – apply the different style when mouse is over](/PublishingImages/NewFashionSite.jpg) Figure: Good example – apply the different style when mouse is over 
 
 ```
 $("p").hover(function () {
