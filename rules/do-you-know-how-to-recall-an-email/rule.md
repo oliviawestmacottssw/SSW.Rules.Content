@@ -13,6 +13,6 @@ authors:
 
  Even though you may check your emails before sending, use SSW lookout to help you avoid mistakes, and even if you send/receive manually, there will still be times where you will send out an email with mistakes or incorrect content.<br> 
 But all is not lost. If you go into your sent items, open up the offending email, and go into Actions | Recall this Message, outlook will attempt to delete the message from the recipient's inbox before he has a chance to read it.
-![Recall a message](/Standards/Communication/RulesToBetterEmail/PublishingImages/RecallMessage.JPG) Figure: Actions | Recall this Message
+![Recall a message](/Communication/RulesToBetterEmail/PublishingImages/RecallMessage.JPG) Figure: Actions | Recall this Message
 Outlook will tell you whether it was successful or not
 
