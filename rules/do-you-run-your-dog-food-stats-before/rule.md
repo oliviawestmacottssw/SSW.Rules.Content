@@ -11,4 +11,49 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+
+1. Run the excellent DogFoodStats by Grant Holliday    . These are queries on the TFS2008 database to give you stats about number of files, number of users etc.
+[http://blogs.msdn.com/bharry/archive/2007/12/02/tfs-statistics-update.aspx](http&#58;//blogs.msdn.com/bharry/archive/2007/12/02/tfs-statistics-update.aspx)
+    1. Record the Number of files
+    2. Record the number of Iterations
+
+
+
+
+TFS2008:
+
+===========================================
+
+Files
+
+-------- -----------
+
+1        28052
+
+2        335168
+
+-- Compresed file size:
+
+--------------------
+
+11837952896
+
+
+
+
+-- Uncompressed file sizes:
+
+--------------------
+
+24868196032
+
+-- Areas & Iterations:
+
+-----------
+
+1096
+
+
+Example: Dog Food Stats on TFS2008Make sure that you save the numbers so you can compair it to TFS 2010 later...
+
