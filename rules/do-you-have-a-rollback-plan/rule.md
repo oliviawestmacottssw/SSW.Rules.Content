@@ -21,5 +21,6 @@ Always [plan for a catastrophic disaster](http&#58;//www.ssw.com.au/SSW/Standard
     2. External DNS Server
 
 
-TODO[Martin Hinshelwood]: Add figure of DNS pointers.
+![TFS In DNS](/PublishingImages/TFSDNS.png)
+ Figure: DNS Pointer for TFS can be easily changed
 
