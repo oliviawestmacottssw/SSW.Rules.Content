@@ -16,7 +16,7 @@ authors:
 ---
 
 
-An internal architecture review is the application of the [Test Please](/Standards/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx) principle against the design phase. An architecture review conducted during every release minimises errors in design which saves future recitification costs.
+An internal architecture review is the application of the [Test Please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx) principle against the design phase. An architecture review conducted during every release minimises errors in design which saves future recitification costs.
 
 Schedule a 4 hour (2 architects x 2 hours) review during all releases. While it may not be so important to conduct a review in every development release, they are compulsory for a specification release.
 
