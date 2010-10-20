@@ -25,5 +25,5 @@ In these 3 exceptional cases only, even if the Team Member doesn't get a res
 
 Anything else must be politely declined and the request must be directed to the Scrum Master for the process of negotiating the work and any official meetings must be through the ScrumMaster.
 
-For details on promises, see the rule [“Do you understand the implied contract (promises) between Members of the Scrum Team?”](/Standards/Management/RulesToBetterScrumUsingTFS/Pages/ContractBetweenMembersOfScrumTeams.aspx)
+For details on promises, see the rule [“Do you understand the implied contract (promises) between Members of the Scrum Team?”](/Management/RulesToBetterScrumUsingTFS/Pages/ContractBetweenMembersOfScrumTeams.aspx)
 
