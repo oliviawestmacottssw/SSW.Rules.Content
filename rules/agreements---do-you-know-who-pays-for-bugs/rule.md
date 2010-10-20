@@ -12,5 +12,5 @@ authors: []
 
 For these reasons, fixing such issues is generally billable work on time & material contracts. On fixed-price contracts, bugs are generally fixable within the warranty period at no cost to you.
 
-[What is a bug?](/Standards/Management/RulesToSuccessfulProjects/Pages/BugDefinition.aspx)
+[What is a bug?](/Management/RulesToSuccessfulProjects/Pages/BugDefinition.aspx)
 
