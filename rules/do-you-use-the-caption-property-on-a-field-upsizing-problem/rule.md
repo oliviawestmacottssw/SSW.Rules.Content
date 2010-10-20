@@ -9,4 +9,4 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ The Caption property is ignored by the Upsizing Tools. The true column name of a field will always be upsized, regardless of what the caption for that field may read.<br> 
