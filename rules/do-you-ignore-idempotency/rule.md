@@ -43,4 +43,4 @@ CREATE TABLE [dbo].[Employees](
 ```
 
 Good example – not worrying about the idempotency. If errors occur we don’t want them to be hidden + it is easier to read
-![](/Standards/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/ViagraPill.jpg) Figure: Viagra isn't the cure to your Idempotency problems  See the concept of [Idempotence on WikiPedia](http&#58;//en.wikipedia.org/wiki/Idempotence)
+![](/PublishingImages/ViagraPill.jpg) Figure: Viagra isn't the cure to your Idempotency problems  See the concept of [Idempotence on WikiPedia](http&#58;//en.wikipedia.org/wiki/Idempotence)
