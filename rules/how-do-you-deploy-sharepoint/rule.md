@@ -7,7 +7,21 @@ authors: []
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ 
+We use **SSWPackage.exe**
+
+The long answer:
+
+Deploying changes between development, staging and production servers can be a very interesting exercise:
+
+- It is painstakingly awkward when you realize that you have forgotten a file
+- Or forgotten to take the latest version of a particular file
+- Each iteration is manual and can be error prone
+- The result is that your developers are working late into the evening and your SharePoint servers are down for a prolonged period of time – something that may be very difficult to accept in a corporate environment
+
+
+At SSW, we saw all this was unacceptable and work to improve this process.
+ 
 Our answer to the deployment problem is a combination of tools and processes – we call it the SSWpackage.exe
 
 - **Multiple development virtual machine environments
