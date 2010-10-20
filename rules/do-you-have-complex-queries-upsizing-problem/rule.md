@@ -9,7 +9,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ The Upsizing Tools do not try to upsize every type of Microsoft Access query that you may have in your Access (Jet) database. The following varieties of queries will not upsize: <br> 
 - Crosstab queries
 - Action queries (append, delete, make-table, update) that take parameters
 - Action queries that contain nested queries
