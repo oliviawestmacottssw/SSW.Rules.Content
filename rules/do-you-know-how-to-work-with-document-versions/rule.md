@@ -14,13 +14,13 @@ authors:
  1. Make sure your document library is configured to use versioning.
 
 <br>    TIP: You can configure this in Settings | Versioning Settings<br> 
-2. Make sure you are showing the version column in your document view. ![Add a version column](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/VersionColumn_Small.jpg)
+2. Make sure you are showing the version column in your document view. ![Add a version column](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/VersionColumn_Small.jpg)
 
 TIP: You can add the column by selecting Modify View
 
 3. Whenever you edit the document and check it in, SharePoint will automatically increase the version number.
  4. If you need to send this document to a client then it is important to:
-        a. Save the file locally by selecting Send To | Download a Copy ![Save a file locally ](/Standards/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SaveFileLocally_Small.jpg)
+        a. Save the file locally by selecting Send To | Download a Copy ![Save a file locally ](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SaveFileLocally_Small.jpg)
 
 b. Add the version to the end of the filename e.g. Specifications\_v2.0.docx
         c. Then email it to the client.
