@@ -11,7 +11,7 @@ authors:
 
 ---
 
-![](/Standards/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/VersionConsistent1.jpg) 
+![](/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/VersionConsistent1.jpg) 
 Figure: Keep these two versions consistent If you are not using the GAC, it is important to keep AssemblyVersion, AssemblyFileVersion and AssemblyInformationalVersionAttribute the same, otherwise it can lead to support and maintenance nightmares. By default these version values are defined in the AssemblyInfo file. In the following examples, the first line is the version of the assembly and the second line is the actual version display in file properties.
 [assembly: AssemblyVersion("2.0.\*")]
 <br>[assembly: AssemblyFileVersion("1.0.0.3")] Bad example - the common assembly versioning method. [assembly: AssemblyVersion("2.0.\*")]
