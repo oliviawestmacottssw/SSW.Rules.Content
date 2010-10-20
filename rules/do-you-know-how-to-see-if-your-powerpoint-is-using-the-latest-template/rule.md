@@ -9,4 +9,4 @@ authors: []
 
  At SSW, we use SharePoint to manage our marketing templates. <br> 
 When you need to create a PowerPoint presentation file, find the latest version of [SSW templates](http&#58;//projects.ssw.com.au/Templates/Forms/AllItems.aspx) here.
-![Check version history](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/versionHistory.jpg) Figure: Click "Edit" to see the version history of the template file ![Version Number](/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/versionNo.jpg) Figure: The version number can be seen here
+![Check version history](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/versionHistory.jpg) Figure: Click "Edit" to see the version history of the template file ![Version Number](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/versionNo.jpg) Figure: The version number can be seen here
