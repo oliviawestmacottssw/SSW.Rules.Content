@@ -9,7 +9,15 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+The MS Upsizing Wizard cannot upsize Microsoft Access queries containing
+
+- EXISTS &lt;&gt; FALSE/TRUE or
+- EXISTS = FALSE/TRUE
+
+
+For example, the following query will not be upsized:
+
 
 ```
 PARAMETERS [@Employee Last Name] Text ( 20 );    
