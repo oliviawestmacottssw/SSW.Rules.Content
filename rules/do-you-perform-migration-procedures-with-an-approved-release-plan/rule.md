@@ -9,7 +9,9 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+A migration from one technology to another is a process fraught with danger. Everyone would love the "upgrade" button to work perfectly but it doesn't. Expect any migration to fail first go. Any statement that "I didn't expect to have any problems" shows inexcuseable ignorance.
+
 A release plan for a migration will typically include:
 
 1. Business purpose for migration<br>
