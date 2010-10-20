@@ -9,4 +9,6 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+
+When you follow a rule, remember to refer to its URL:
+![RuleReference](/PublishingImages/RuleReferrence.jpg)Good Example: Refer to the URL
