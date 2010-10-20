@@ -9,7 +9,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field).   This may seem counterintuitive since there is no logical reason to write off the time but in situations where it is necessary:
+ Sometimes a client may ask for a small amount of time to be written off and may not have a good reason (from SSW’s point of view). Normally this would mean that the time would not be written off. However, sometimes, in the interest of continuing relationships with valued clients, some time may need to be written off simply to keep the clients happy.<br>   This may seem counterintuitive since there is no logical reason to write off the time but in situations where it is necessary:
 
 - Make sure you are not setting a precedent (“This is a one off” or “We don’t normally do this, but...”)
 - Make sure you are not allowing yourself to be bullied (If the client seems entirely unreasonable or just expects a discount, they may need to be trained to our way of working)
