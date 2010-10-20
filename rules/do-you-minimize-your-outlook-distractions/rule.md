@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Getting in the zone is pretty challenging in any work environment. Outlook in particular likes to offer as many distractions as possible to ensure you can never forget you've got it open. Set your options so that Outlook:<br> ![Outlook Minimise Distractions](/Standards/Communication/RulesToBetterEmail/PublishingImages/OutlookMinimiseDistractions.gif) Figure: Good Example - Turn off Outlook distractions!
+ Getting in the zone is pretty challenging in any work environment. Outlook in particular likes to offer as many distractions as possible to ensure you can never forget you've got it open. Set your options so that Outlook:<br> ![Outlook Minimise Distractions](/Communication/RulesToBetterEmail/PublishingImages/OutlookMinimiseDistractions.gif) Figure: Good Example - Turn off Outlook distractions!
 - Doesn't play a sound
 - Doesn't briefly change the mouse cursor
 - Doesn't show an envelope
