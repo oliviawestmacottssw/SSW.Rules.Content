@@ -19,5 +19,5 @@ Mock-ups are very powerful tools to communicate requirements with clients, howev
 - Collect feedbacks from clients,
 - Use them in development process directly (as they are real Sliverlight and WPF solution files)
 
-![](/Standards/Management/RulesToSuccessfulProjects/PublishingImages/sketchflow.jpg) 
+![](/Management/RulesToSuccessfulProjects/PublishingImages/sketchflow.jpg) 
 <font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; Expression + SketchFlow</font>
