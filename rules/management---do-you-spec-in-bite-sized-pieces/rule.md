@@ -20,7 +20,7 @@ For example, if your client wants an application that manages Customers and Cust
 
 At SSW we spec in two phases, the first to get an overview of the project, the second, to focus on the detail of first few releases only:
 
-- [Spec Review, or Initial Release Plan](/Standards/Management/RulesToBetterProjectManagement/Pages/InitialReleasePlanandBallpark.aspx)
-- [Detailed Release Plan](/Standards/Management/RulesToBetterProjectManagement/Pages/DetailedReleasePlan.aspx) - this phase is repeated through the project
+- [Spec Review, or Initial Release Plan](/Management/RulesToBetterProjectManagement/Pages/InitialReleasePlanandBallpark.aspx)
+- [Detailed Release Plan](/Management/RulesToBetterProjectManagement/Pages/DetailedReleasePlan.aspx) - this phase is repeated through the project
 
 
