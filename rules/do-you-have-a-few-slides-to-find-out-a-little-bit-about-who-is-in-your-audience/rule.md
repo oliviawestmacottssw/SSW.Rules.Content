@@ -8,7 +8,7 @@ authors: []
 ---
 
 
-If you are presenting to people who you already know, then you have   an enormous advantage over someone who is going to face an audience they   have never previously met.
+If you are presenting to people who you already know, then you have an enormous advantage over someone who is going to face an audience they have never previously met.
 
 Your aim in giving this presentation is to give your audience something that is:
 
@@ -17,4 +17,4 @@ Your aim in giving this presentation is to give your audience something that is:
 - Interesting to them
 - Relevant to them
 
-![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/developer.gif)Figure: Example slide for developer![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/manager.gif)Figure: Example slide for manager
+![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/developer.gif) Figure: Ask "How many are developers here?"![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/manager.gif) Figure: Ask "How many are managers here?"
