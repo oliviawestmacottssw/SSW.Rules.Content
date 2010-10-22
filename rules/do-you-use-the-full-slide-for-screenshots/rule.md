@@ -7,4 +7,6 @@ authors: []
 
 ---
 
- Small images are hard to see. Remember your audience at the back of the room. Especially for screenshots displaying important text, it is more important to utilize all the slide estate for visibility.  ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/badSmall.jpg) Figure: Bad Example - Image doesn’t cover the whole slide ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/goodbig.jpg) Figure: Good Example - Covers the whole slide (easier for people to see and read) 
+
+Small images are hard to see. Remember your audience at the back of the room. Especially for screenshots displaying important text, it is more important to utilize all the slide estate for visibility.
+![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/badSmall.jpg) Figure: Bad example - the image doesn't cover the whole slide![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/goodbig.jpg) Figure: Good example - Cover the whole slide with your image to make it easier for people to see from the back row
