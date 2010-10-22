@@ -11,4 +11,10 @@ authors:
 
 ---
 
- Positive and negative bullet points should be replaced with the SSW tick and cross respectively. <br> ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets01.jpg) Figure: Right click the desired text and navigate to "Bullets and Numbering..." ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets02.jpg) Figure: Select "Picture..." then "Import..." in the new window. ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets03.jpg) Figure: Paste \\skunk\ssw\Images\TickCross in the navigation path and select the appropriate image ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets04.jpg) Figure: The bullet is now loaded! ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets05.jpg) Figure: Bullet points properly applied on positive and negative points. 
+
+Make your positive and negative points a tick and cross.
+![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/TicksBad.jpg)Figure: Bad example - it's not clear which are good and bad points![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/TicksGood.jpg)Figure: Good example - It's far more obvious which ones are the good points and which are the bad
+## More information: How to do it
+
+[Note: Microsoft should make this easier - see our suggestion](http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/Office.aspx#RulesTicksCross)
+![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets01.jpg)Figure: Right click the desired text and navigate to "Bullets and Numbering..."![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets02.jpg)Figure: Select "Picture..." then "Import..." in the new window.![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets03.jpg)Figure: Paste your navigation path (eg. \\skunk\ssw\Images\TickCross) in the navigation path and select the appropriate image![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets04.jpg)Figure: The bullet is now loaded!![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/RulesBullets05.jpg)Figure: Bullet points properly applied on positive and negative points.
