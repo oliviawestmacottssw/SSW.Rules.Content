@@ -7,4 +7,6 @@ authors: []
 
 ---
 
- In similar fashion to the previous rule, you can also add a visual cue for any audience participation events such as Q&A.<br> ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/SSWQuestionMark.gif) Figure: Use an image to indicate when presenter is going to ask questions 
+
+In a similar fashion to the [Do you remind yourself to do a demo?](/Communication/RulesToBetterPowerpointPresentations/Pages/Doyouremindyourselftodoademo.aspx) rule, you can also add a visual cue for any audience participation events such as Q&A.
+![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/SSWQuestionMark.gif) Figure: Use an "?" image to tell the presenter to ask a question 
