@@ -8,5 +8,5 @@ authors: []
 ---
 
 
-Cover slides in presentations provide structure. These slides should be consistent so they do not confuse the audience.
+Section slides in presentations provide structure. These slides should be consistent so they do not confuse the audience.
 ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/CoverSlide.jpg) Figure: Good example – This is very clear that we are up to part 2 of the presentation 
