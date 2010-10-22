@@ -8,10 +8,10 @@ authors: []
 ---
 
 
-Always introduce yourself:
+Always introduce yourself after you have ask the audience who they are:
 
 - Who are you?
 - What is your service or product?
-- What makes you so special?
+- What is making you so special?
 
-![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/aboutAdam.gif) Figure: 'About Adam' slide 
+![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/aboutAdam.gif) Figure: Talk about yourself after you know the audience a little. It is not great to bring up the 'About' slide too early
