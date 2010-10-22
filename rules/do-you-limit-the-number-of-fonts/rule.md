@@ -8,7 +8,12 @@ authors: []
 ---
 
 
-Each font or style should be used consistently throughout your presentation as it will help your audience garner relation. While a different font face or color is a simple way of highlighting certain terms you want for focus, too much of it will do exactly the opposite and distract the audience. The best way is to limit yourself to one item per topic section- the most important point you want people to remember.
+Each font or style (italics or bold) should be used consistently throughout your presentation. While a different font face or color is a simple way of highlighting certain terms you want for focus, too much of it will do exactly the opposite and distract the audience.
 
-Steer clear of excessively bright colors or any flourished type face. Such things are difficult to read and impractical.
-![too many fonts used for headers](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/BadLimitFont.jpg) Figure: Bad Example - Too many fonts makes your slide look untidy![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/GoodLimitFont.jpg) Figure: Good Example - Looks clean and professional 
+The rules are:
+
+- Use one font per presentation
+- Use one style (eg. bold or color) per slide if possible
+- Steer clear of excessively bright colors or any flourished type face (both are hard to read)
+
+![too many fonts used for headers](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/BadLimitFont.jpg) Figure: Bad Example - Too many fonts makes your slide hard to read for the audience![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/GoodLimitFont.jpg) Figure: Better Example - Even though there is a lot of words, the main ones are clear because there is only one font used, with color to emphasize
