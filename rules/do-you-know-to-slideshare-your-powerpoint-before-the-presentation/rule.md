@@ -16,16 +16,12 @@ authors:
 
 Make sure you follow these steps when preparing your presentation to ensure your work is of the highest quality... and don't forget to archive your presentation on Slideshare!
 
-1. Prepare your PowerPoint
-2. Put it in SharePoint for the versioning
-3. Get it tested by a Tester (for the content)
-4. Get it tested by a Designer (so it looks good)
-5. Add a generic Slideshare link to the last slide
-6. Add the version number on the first page (this will help you later know what version is on slideshare)
-7. Check the name of the ppt eg. SharePoint-Jonah-Lomu-of-CMS\_Adam-Cogan\_V1-0.pptx
-8. Upload to Slideshare
-<br>    Eg. [http://www.slideshare.net/CraigBailey/sharepoint-as-a-web-cms](http&#58;//www.slideshare.net/CraigBailey/sharepoint-as-a-web-cms) ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW")
-9. In sharepoint add a \_OnSlideShare.txt with the url inside it
-10. Now you are ready to present
+- Prepare your PowerPoint as normally.
+- Remember to store all versions of your PowerPoint in SharePoint so that a record of your work may be kept.
+- Get your work checked by a Tester for content and a designer for visual appearances.
+- Add a slide that contain information on where to find the slides on Slideshare – incase your audience wishes to access your PowerPoint later.
+- Once your presentation has been finalized, add a version number on the first slide before uploading the document to Slideshare (this will help you know later what version is on Slideshare and if it needs to be updated)
+- Before you are ready to present, add a text file in SharePoint that links to the Slideshare url (at SSW we use the naming format “\_OnSlideshare.txt”)
+- Present! And have fun.
 
 
