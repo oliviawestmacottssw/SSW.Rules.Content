@@ -13,13 +13,13 @@ authors:
 
  Every time a change is made to your product's SQL Server Database, script out the change. You can use SQL Management Studio or VS.NET (you can find old guys that still use Enterprise Manager or Query Analyzer), but every time you make changes you must save the change as a .sql script file so any alterations are scripted. 
 
-<br>Everything you do on your database will be done at least three times ([once on development, once test and once on production](/Standards/Management/RulesToSuccessfulProjects/Pages/SeparateDevelopmentTestingAndProductionEnvironment.aspx)). Change control is one of the most important processes to ensuring a stable database system. 
+Everything you do on your database will be done at least three times ([once on development, once test and once on production](/Management/RulesToSuccessfulProjects/Pages/SeparateDevelopmentTestingAndProductionEnvironment.aspx)). Change control is one of the most important processes to ensuring a stable database system. 
 
-<br>Keep the scripts in a separate directory with only .sql files 
-<br>eg.  C:\Program Files\SSW Time PRO.NET\SQLScripts           (32 bit)
-<br> or  C:\Program Files (x86)\SSW Time PRO.NET\SQLScripts  (64 bit)
+Keep the scripts in a separate directory with only .sql files 
+eg.  C:\Program Files\SSW Time PRO.NET\SQLScripts           (32 bit)
+ or  C:\Program Files (x86)\SSW Time PRO.NET\SQLScripts  (64 bit)
 
-<br>Later on you will get these 7 benefits: <br> 
+Later on you will get these 7 benefits:  
 1. When you have an error you can see exactly which script introduced it
 2. You don't have to use a compare tool like Red-Gate SQL Compare at the end of your development cycle
 3. Your application can automatically make schema changes
@@ -31,7 +31,7 @@ authors:
 
 ![](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/ChangeScripts.jpg) Figure: A list of change SQL scripts, each file name is in the correct format 
 **Is there a file naming convention to follow?**
- The script file naming convention should be XXXXX\_ObjectType\_ObjectName\_ColumnName\_Description\_SchemaMasterInitials.sql 
+The script file naming convention should be XXXXX\_ObjectType\_ObjectName\_ColumnName\_Description\_SchemaMasterInitials.sql 
 
- eg.  00089\_Table\_Employee\_Gender\_ChangeFromBitToChar\_AC.sql
+eg.  00089\_Table\_Employee\_Gender\_ChangeFromBitToChar\_AC.sql
 
