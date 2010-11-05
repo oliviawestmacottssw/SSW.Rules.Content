@@ -31,7 +31,7 @@ To add a [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.as
 
 
  See [Do you run SSW Code Auditor?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsWorkingInATeam.aspx#CodeAuditor) 
- See [Do you check your code by Code Auditor before check-in?](/Standards/Management/RulesToSuccessfulProjects/Pages/CheckCodeByCodeAuditorBeforeCheckIn.aspx) 
+ See [Do you check your code by Code Auditor before check-in?](/Management/RulesToSuccessfulProjects/Pages/CheckCodeByCodeAuditorBeforeCheckIn.aspx) 
  To add a [Microsoft FxCop](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/netTools.aspx#FxCop)file to your solution:
 1. Stat up **Microsoft FxCop**
 2. Create a **New Project**
