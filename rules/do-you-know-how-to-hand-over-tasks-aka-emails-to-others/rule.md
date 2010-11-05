@@ -55,5 +55,5 @@ Figure: Good example - task clearly redirected
 
 
 If you need to handover an entire project there are more details here:
-[http://sharepoint.ssw.com.au/Standards/Management/RulesToSuccessfulProjects/Pages/HandOverProject.aspx](/Standards/Management/RulesToSuccessfulProjects/Pages/HandOverProject.aspx)
+[http://rules.ssw.com.au/Management/RulesToSuccessfulProjects/Pages/HandOverProject.aspx](/Management/RulesToSuccessfulProjects/Pages/HandOverProject.aspx)
 
