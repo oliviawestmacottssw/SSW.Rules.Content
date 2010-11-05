@@ -81,6 +81,6 @@ Note: you can also access this through the "People and Group" option on "Site Ac
 Click "OK", and the portal is created.
 
 ![Northwind Portal](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/Northwind%20Portal.jpg)
-Figure: [View Northwind portal.](/zzClients/Northwind/default.aspx) 
+Figure: [View Northwind portal.](http&#58;//sharepoint.ssw.com.au/zzClients/Northwind/default.aspx) 
 Note: SharePoint will send "welcome email" to all the members of the groups you created for the site with basic information, but you still need to send email to your customer with the login details like Url, userName and Password.
 
