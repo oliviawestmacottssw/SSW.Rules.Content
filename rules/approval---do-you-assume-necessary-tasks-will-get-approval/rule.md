@@ -11,7 +11,7 @@ authors:
 
 ---
 
- When you are working on a project, you need to follow the [get work approved before you do it](/Standards/Management/RulesToHappyClients/Pages/DoYouGetWorkApprovedBeforeYouDoIt.aspx) rule. However, you should assume some tasks will be approved by a client and do them anyway. This of course depends on the size of the task (eg half hour or less) and the obviousness of the task. <br> 
+ When you are working on a project, you need to follow the [get work approved before you do it](/Management/RulesToHappyClients/Pages/DoYouGetWorkApprovedBeforeYouDoIt.aspx) rule. However, you should assume some tasks will be approved by a client and do them anyway. This of course depends on the size of the task (eg half hour or less) and the obviousness of the task. <br> 
 If you reasonably assume that the task you are working on would be approved by the customer, and it will take less than half an hour, you should go ahead with that task.
 To: Scott 
 <br>Subject: QWI - Aqua UI Improvements from Adam Adam suggested that we make the positioning of the "New" Button consistent on all forms. Move the New to the right with the Save and close buttons. Estimated 15 minutes. 
