@@ -13,7 +13,7 @@ authors:
 We recommend adding these menus to your Tools Menu:
 
 - Tools - Validate Schema (with [SSW SQL Deploy](http&#58;//www.ssw.com.au/ssw/SQLDeploy/Default.aspx))
-- Tools - [Validate Data](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterInterfaces.aspx#ValidateData)
+- Tools - [Validate Data](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterInterfaces-WinApp.aspx#ValidateData)
 - Tools - [Run Unit Tests](http&#58;//www.ssw.com.au/ssw/Standards/Rules/rulestobetterwindowsforms.aspx#UnitTests) (with NUnit)
 - Tools - View Application Errors (with SSW Exception Logger)
 - Tools - Validate PC (with [SSW Diagnostics](http&#58;//www.ssw.com.au/ssw/Diagnostics/Default.aspx))
