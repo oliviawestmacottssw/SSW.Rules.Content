@@ -85,5 +85,5 @@ DONE - As per our meeting the handover has been completed to my satisfaction
 **Figure: Good Example - This handover has lots of URLs and is complete**
 
 If you need to handover only a single task there are more details here:
-[http://sharepoint.ssw.com.au/Standards/Communication/RulesToBetterEmail/Pages/HandOverTask.aspx](/Standards/Communication/RulesToBetterEmail/Pages/HandOverTask.aspx)
+[http://rules.ssw.com.au/Communication/RulesToBetterEmail/Pages/HandOverTask.aspx](/Communication/RulesToBetterEmail/Pages/HandOverTask.aspx)
 
