@@ -46,7 +46,7 @@ Subject&#58;&#160;SSW - Northwind handover</b></p>
         <p>Nothing</p>
         </li>
         <li>Data storage
-        <p><a>file&#58;//server/DataSSW/SSWProducts/Northwind</a></p>
+        <p><a shape="rect">file&#58;//server/DataSSW/SSWProducts/Northwind</a></p>
         </li>
         <li>Deployment
         <p>Make a build by using WISE<br>
@@ -112,5 +112,5 @@ Subject&#58;&#160;SSW - Northwind Handover</b> </p>
 </ul></font>**Figure: Good Example - This handover has lots of URLs and is complete**
 
 If you need to handover only a single task there are more details here:
-[http://sharepoint.ssw.com.au/Standards/Communication/RulesToBetterEmail/Pages/HandOverTask.aspx](/Standards/Communication/RulesToBetterEmail/Pages/HandOverTask.aspx)
+[http://rules.ssw.com.au/Communication/RulesToBetterEmail/Pages/HandOverTask.aspx](/Communication/RulesToBetterEmail/Pages/HandOverTask.aspx)
 
