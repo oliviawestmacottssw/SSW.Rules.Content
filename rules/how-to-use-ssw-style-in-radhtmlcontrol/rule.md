@@ -34,26 +34,26 @@ Let's take the "AvoidReplyToAllWhenBcc" page as example.
 <br>            Figure: SSW LookOut! for Outlook warns you if you accidentally 'Reply All' when
 <br>            you have been BCC'ed  &lt;/b&gt; &lt;/span&gt;
  1.  Not sure how user inputs the  content into this page. Anyway, here is the right way to add content via Telerik Editor. Please read below example of how I redo this part in Telerik Editor without changing the code manually
-![Copy content in notepad](/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/SaveContentInNotePad.jpg)
+![Copy content in notepad](/PublishingImages/SaveContentInNotePad.jpg)
 Figure:Copy content in the notepad2. Delete the current content from Telerik for a new start;
 
  3. Copy the first sentence from notepad and paste into Telerik Editor in the page; (please avoid copying straightly from web page and pasting them here, it will copy the all tags as well. it might affect the styles which can’t apply correctly )
-![Start copying content over](/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/CopyFromNotePad.jpg)
+![Start copying content over](/PublishingImages/CopyFromNotePad.jpg)
 Figure: Start copying content over4. Insert the image
-![Insert an image](/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/InsertImage.jpg)
+![Insert an image](/PublishingImages/InsertImage.jpg)
 Figure: Add a link to text5. Add an image
-![Insert an image](/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/ApplyStyleInsertImage.jpg)
+![Insert an image](/PublishingImages/ApplyStyleInsertImage.jpg)
 Figure: Inser an image6. Press “enter” key to start a new row, then copy the figure from notepad to the Telerik editor area
-![Add figure](/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/ApplyStyleAddFigure.jpg)
+![Add figure](/PublishingImages/ApplyStyleAddFigure.jpg)
 Figure: Add figure7. Apply image style to the image by click on the image, then choose a style from “Apply CSS Class” dropdown list
-![Apply style to the image](/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/ApplyStyleImageArea.jpg)
+![Apply style to the image](/PublishingImages/ApplyStyleImageArea.jpg)
 Figure: Apply style to the image
 
  8. Apply style to the figure
-![Apply style to the image](/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/ApplyStyleImageArea.jpg)
+![Apply style to the image](/PublishingImages/ApplyStyleImageArea.jpg)
 Figure: Apply style to the figure9.Apply the yellow box
-![Apply style to the figure](/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/ApplyStyleFigure.jpg)
+![Apply style to the figure](/PublishingImages/ApplyStyleFigure.jpg)
 Figure: Apply yellow border box to the content10. Check in the changes, then you will have - "dada.."
-![Right stlye in use](/WebSites/RulesToBetterWebsitesLayout/Publishing%20Image/ApplyStyleResult.jpg)
+![Right stlye in use](/PublishingImages/ApplyStyleResult.jpg)
 Figure: Right style in use
 
