@@ -16,6 +16,8 @@ authors:
 
 What is Shareshare? [Slideshare](http&#58;//www.slideshare.net/) is an online archive of presentations and other documents. It is the best way to store your training material for search engines and is easily accessible. Follow these steps to ensure you get as much coverage possible before and after your presentation.
 
+
+
 1. Prepare your PowerPoint as normal. Refer to [SSW Rules to Better Presentations.](/Communication/RulesToBetterPowerpointPresentations/Pages/default.aspx)
 2. Work on your presentation from SharePoint to maintain a version on the document.
 3. Get your content checked by a tester and a designer (See our Rule: [Do you get someone to do a 'Test Please'?](/Communication/RulesToBetterPowerpointPresentations/Pages/DoyougetsomeonetodoaTestPlease.aspx))
