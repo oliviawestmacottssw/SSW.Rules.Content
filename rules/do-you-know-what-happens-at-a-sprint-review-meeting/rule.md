@@ -24,7 +24,7 @@ authors: []
 In Scrum, there are totally 4 meetings that you need to know:<br>
 - Sprint Planning Meeting (we separate this meeting to two parts: [WHAT](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx "Sprint Planning (WHAT) Meeting") and [HOW](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28HOW%29Meeting.aspx))
 - [Scrum Meeting (Daily standup)](/Management/RulesToBetterScrumUsingTFS/Pages/UpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
-- Sprint Review Meeting
+- Sprint Review Meeting (this page)
 - [Sprint Retrospective Meeting](/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx "Retrospective Meeting")
 
 
