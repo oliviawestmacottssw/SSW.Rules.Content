@@ -37,8 +37,9 @@ This meeting will consist of:
 - **Sprint Review Meeting** (this page)
 <br>    We will go through the user stories that have been completed and demonstrate them
 - [**Sprint Retrospective Meeting
-**](/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx)We ask for feedback of the previous sprint so that we can ‘Inspect and Adapt’
-- **Sprint Planning Meeting** (we separate this meeting to two parts: [What](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx) and [How](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28HOW%29Meeting.aspx))
+**](/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx)- sprint closed and new sprint starts -
+<br>    We ask for feedback of the previous sprint so that we can ‘Inspect and Adapt’
+- **Sprint Planning Meeting** (we separate this meeting to two parts: [WHAT](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx) and [HOW](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28HOW%29Meeting.aspx))
 <br>    We go through the backlog (aka to do list), get more information, estimate and then prioritize. 
 <br>    In the how meeting, we then breakdown to tasks and commit to what we believe we can deliver for the next sprint.
 
