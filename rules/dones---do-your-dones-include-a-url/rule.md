@@ -1,0 +1,16 @@
+---
+type: rule
+title: Dones - Do your 'Dones' include a URL?
+uri: dones---do-your-dones-include-a-url
+created: 2009-12-10T06:55:30.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+- id: 2
+  title: Cameron Shaw
+- id: 4
+  title: Ulysses Maclaren
+
+---
+
+ If you are using a task tracking system like TFS or Jira always include the relevant URL.<br>  Done Figure: Bad Example     Done  http://jira.ssw.com.au/browse/NET-443 Figure: Good example  Done [http://tfs.ssw.com.au/tfs/web/wi.aspx?id=12075&pguid=fc921f37-b446-4414-bb1e-139a10946e3d](http&#58;//tfs.ssw.com.au/tfs/web/wi.aspx?id=12075&amp;pguid=fc921f37-b446-4414-bb1e-139a10946e3d) Figure: Good Example (sorry TFS URLs are a little uglier) 
