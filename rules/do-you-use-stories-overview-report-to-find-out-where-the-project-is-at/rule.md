@@ -14,7 +14,7 @@ authors:
 ---
 
 
-It's a common question for every project managers, where is my project at? It's not only to know how many tasks are done, but also to understand if all these tasks are done to meet users' requirements.
+A common question for every project manager is "where is my project at"? This question isn't just asked to find out how many tasks are done, but also to understand if all these tasks are done to meet users' requirements.
 
 TFS2010's Agile Template provides a built-in "Stories Overview" report to help you find out where the project is at, as well as to tell you if all the tasks are well tested.
 ![Stories Overview report](/Management/RulesToBetterProjectManagement/PublishingImages/StoriesOverviewReport.jpg) 
