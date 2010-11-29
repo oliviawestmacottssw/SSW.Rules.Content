@@ -21,7 +21,9 @@ TFS2010's Agile Template provides a built-in "Stories Overview" report to help y
 Figure: The developer says he is 90% done... the report shows 25% tested, but 0% passed!
 Tip: Set this up on a [daily schedule so the Scrum Team get this in their inbox each day](/Management/RulesToBetterScrumUsingTFS/Pages/set-up-2-key-reports.aspx).
 
-Suggestion for Microsoft: Add a Summary Number in large font at the top, eg. 55% complete.
+Suggestion for Microsoft #1: Add a Summary Number in large font at the top, eg. 55% complete.
+
+Suggestion for Microsoft #2: Add this great report to the Microsoft Scrum TFS Process Template.
 
 
 ## Where are we at?
