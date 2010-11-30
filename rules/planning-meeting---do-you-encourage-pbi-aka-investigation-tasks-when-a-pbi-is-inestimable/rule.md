@@ -13,7 +13,9 @@ authors:
 
 ---
 
- Sometimes it can be unclear to The Scrum Team whether a Story can be completed as required.  <br> 
+
+Sometimes it can be unclear to The Scrum Team whether a Story can be completed as required.
+
 For example the story “automatically package with Wise after the automatic build” requires investigation to see if this is possible.  It is then best to write a new story “Investigate whether it is possible to automatically build with Wise”.  This story can be more accurately estimated and the result will allow the original story to be estimated or revised.
 
 ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/RuleEncouragingInvestigationStoriesBad.png)
