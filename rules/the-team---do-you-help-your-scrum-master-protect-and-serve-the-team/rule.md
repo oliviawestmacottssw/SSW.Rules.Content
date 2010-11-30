@@ -9,9 +9,11 @@ authors:
 
 ---
 
- Part of the ScrumMaster’s role is to protect the team from distractions so they can deliver on their commitment, to ensure agreed process is followed and to help all roles keep their promises.  
 
-<br>It is also important that team member does not allow themsleves to get distracted and must work based on priority. <br> 
+Part of the ScrumMaster’s role is to protect the team from distractions so they can deliver on their commitment, to ensure agreed process is followed and to help all roles keep their promises.
+
+It is also important that team members do not allow themslevs to get distracted and must work based on priority.
+
 Any requests for work or distractions that take more than 15 minutes must be declined politely and the distraction notified to the ScrumMaster.  
 
  The only exceptions where a Team Member can start the work after notifying the Scrum Master are:
