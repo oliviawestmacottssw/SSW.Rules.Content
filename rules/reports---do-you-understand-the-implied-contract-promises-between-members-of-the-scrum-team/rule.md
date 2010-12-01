@@ -7,7 +7,9 @@ authors: []
 
 ---
 
- Member of the Scrum Team should understand their responsibilities and respect the implicit contract (promises) they have made. <br> 
+
+Member of the Scrum Team should understand their responsibilities and respect the implicit contract (promises) they have made.
+
 
 | **Role** | **Promises ** |
 | --- | --- |
