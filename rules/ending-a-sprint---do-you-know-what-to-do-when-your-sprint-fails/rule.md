@@ -13,7 +13,7 @@ authors:
 
 ---
 
- Having a rejected Sprint is so rare that you should be hard pushed to find any team that has had one.<br> 
+ Having a rejected Sprint is so rare that you should be hard pushed to find any team that has had one. <br> 
 If you do then this highlights an underlying communication issue and most likely a lack of participation by the product owner.
 
 See [Do you have a contract between the Product Owner and the Team?](/Management/RulesToBetterScrumUsingTFS/Pages/SprintContract-aka-TheDealBetweenTheProductOwnerAndTeam.aspx)
