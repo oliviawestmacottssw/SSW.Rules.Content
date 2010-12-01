@@ -13,7 +13,7 @@ authors:
 
 ---
 
- There are two reasons that a story can be removed from the sprint.<br> 
+ There are two reasons that a story can be removed from the sprint. <br> 
 1. Your team notices that they can’t get everything done, and agree with the product owner to remove the story.
 2. At the Sprint Review meeting the Product Owner rejects the story
 
