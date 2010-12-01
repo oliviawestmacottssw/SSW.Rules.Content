@@ -7,7 +7,9 @@ authors: []
 
 ---
 
- This is when The Scrum Team decides how they can improve and take action to do so. <br>   The ScrumMaster asks each member of The Scrum Team in turn what they found good about the Sprint.
+
+This is when The Scrum Team decides how they can improve and take action to do so.
+  The ScrumMaster asks each member of The Scrum Team in turn what they found good about the Sprint.
 
  After focusing on the good aspect the ScrumMaster asks each member of The Scrum Team in turn what they would like improved about the Sprint.  Some discussion should be allowed for clarification purposes but once an issue is raised and understood the next person should then get their turn.
 
@@ -28,7 +30,7 @@ Once all issues have been discussed to the satisfaction of The Scrum Team, the m
 
 In Scrum, there are totally 4 meetings that you need to know:
 - Sprint Planning Meeting (we separate this meeting to two parts: [WHAT](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx "Sprint Planning (WHAT) Meeting") and [HOW](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28HOW%29Meeting.aspx))
-- [Scrum Meeting (Daily standup)](/Management/RulesToBetterScrumUsingTFS/Pages/UpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
+- [Scrum Meeting (Daily standup)](/Management/RulesToBetterScrumUsingTFS/Pages/DailyScrumUpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
 - [Sprint Review Meeting](/Management/RulesToBetterScrumUsingTFS/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
 - Sprint Retrospective Meeting
 
