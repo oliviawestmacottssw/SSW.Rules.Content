@@ -16,5 +16,5 @@ authors:
 
 You should never have a partially completed story left in your sprint. You need to agree with the Product Owner that the story should be removed prior to the end of the sprint.
 
-Follow [Do you know when to remove stories from the sprint?](/Management/RulesToBetterScrumUsingTFS/Pages/RemoveStory.aspx)
+Follow [Do you know when to remove stories from the sprint?](/Pages/RemoveStory.aspx)
 
