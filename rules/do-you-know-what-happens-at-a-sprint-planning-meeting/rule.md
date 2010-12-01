@@ -7,7 +7,9 @@ authors: []
 
 ---
 
- At this meeting The Team decides how to implement the chosen stories for the Sprint. <br>   For each story The Team self-organises to decide HOW to implement it.  They create tasks, with sub-tasks where necessary, for everything that needs to be done to implement the story.  Every task and sub-task should be given an estimate in hours and the same value placed in the Remaining field.
+
+At this meeting The Team decides how to implement the chosen stories for the Sprint.
+  For each story The Team self-organises to decide HOW to implement it.  They create tasks, with sub-tasks where necessary, for everything that needs to be done to implement the story.  Every task and sub-task should be given an estimate in hours and the same value placed in the Remaining field.
 
  No actual work on the Sprint should start until this planning is complete.  It is these Remaining hours that determine the first value in the burndown chart which sets the Sprint on its way to completion.  There must be no omissions or The Team will start without an accurate burndown and we all know that "The Team is nothing without a burndown".
 
@@ -19,9 +21,9 @@ authors: []
 
  It is not essential for the Product Owner or the Scrum Master to be present for the whole meeting but they must be available for consultation. The ScrumMaster should formally close the meeting. 
 
-In Scrum, there are totally 4 meetings that you need to know: <br>
+In Scrum, there are totally 4 meetings that you need to know:<br>
 - Sprint Planning Meeting (we separate this meeting to two parts: [WHAT](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx "Sprint Planning (WHAT) Meeting") and HOW)
-- [Scrum Meeting (Daily standup)](/Management/RulesToBetterScrumUsingTFS/Pages/UpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
+- [Scrum Meeting (Daily standup)](/Management/RulesToBetterScrumUsingTFS/Pages/DailyScrumUpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
 - [Sprint Review Meeting](/Management/RulesToBetterScrumUsingTFS/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
 - [Sprint Retrospective Meeting](/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx "Retrospective Meeting")
 
