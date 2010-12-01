@@ -13,7 +13,9 @@ authors:
 
 ---
 
- Story Points cannot be allocated against bugs in MSF Agile 5.0 so to include them in a Sprint we need to group them. <br> 
+
+Story Points cannot be allocated against bugs in MSF Agile 5.0 so to include them in a Sprint we need to group them.
+
 Bugs that are introduced and found because of the current work in the Sprint are included in the Sprint and estimated immediately so the burndown remains accurate.
 
 See [Do you know when to create bugs?](/Management/RulesToBetterScrumUsingTFS/Pages/CreateBugs.aspx) for detailed information on identifying when something is a bug, and when to just fix it.
