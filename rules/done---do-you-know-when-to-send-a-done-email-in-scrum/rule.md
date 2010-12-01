@@ -39,7 +39,7 @@ Make sure that [every User Story has an Owner](/Management/RulesToBetterScrumUsi
 
 When the last task/bug of a user story is complete, you then send a [comprehensive done email](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterEmail.aspx#ReplyAndDelete) as per the rules when the story had been completed. Make sure you add a list of all of the Tasks that were completed as part of the story and the Done criteria that you completed.
 
-Here is the [Done Criteria](/Management/RulesToSuccessfulProjects/Pages/DoYouKnowTheMinimalDefinitionOfDone.aspx)we followed:
+Here is the [Done Criteria](/Management/RulesToSuccessfulProjects/Pages/DoYouGoBeyondDoneAndFollowADoneCriteria.aspx)we followed:
 
 a. Compiled/Built locally    
      b. &gt;30% Code Coverage 
@@ -47,6 +47,6 @@ a. Compiled/Built locally    
 
 Then add an illustration to show this.
 ![image](/Management/RulesToBetterScrumUsingTFS/PublishingImages/ProveDoneCriteria.png "image")
-Figure: Good example -  This is proof you have met your '[Done criteria](/Management/RulesToSuccessfulProjects/Pages/DoYouKnowTheMinimalDefinitionOfDone.aspx)'. 
+Figure: Good example -  This is proof you have met your '[Done criteria](/Management/RulesToSuccessfulProjects/Pages/DoYouGoBeyondDoneAndFollowADoneCriteria.aspx)'. 
 This is all designed to help you Scrum Team members (Product Owner, ScrumMaster and Team) keep a certain quality bar on completion of each chunk of work. Remember that you are not 'DONE' until your team says you are done.
 
