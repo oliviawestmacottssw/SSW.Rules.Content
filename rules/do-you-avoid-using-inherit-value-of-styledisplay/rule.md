@@ -7,7 +7,9 @@ authors: []
 
 ---
 
- The property “inherit” of JavaScript is not recognized by IE7 and IE7 compatibility mode. So if you use this property, it always causes script error in IE7 and IE compatibility. <br> 
+ The property value “inherit” of style.display is not recognized by IE7 and IE7 compatibility mode. So if you use this value in Javascript, it will causes script error in IE7 and IE7 compatibility like: 
+<br>            "Message: Could not get the display property. Invalid argument." 
+<br>So to make your Javascript and CSS style more compatible, avoid using "inherit" value of style.display: <br> 
 
 ```
 divLoading.style.display = "inherit";
