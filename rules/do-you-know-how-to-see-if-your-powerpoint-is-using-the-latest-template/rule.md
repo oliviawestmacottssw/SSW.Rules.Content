@@ -8,9 +8,5 @@ authors: []
 ---
 
 
-**See our [Suggestions to MS: Check for Updates](http&#58;//skunk/ssw/Standards/BetterSoftwareSuggestions/Office.aspx#Version)**
-
-The best idea is to use SharePoint to manage your templates.
-
-When you need to create a PowerPoint presentation file, find the latest version of [templates](http&#58;//projects.ssw.com.au/Templates/Forms/AllItems.aspx) here.
-![Check version history](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/versionHistory.jpg) Figure: Click "Edit" to see the version history of the template file ![Version Number](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/versionNo.jpg) Figure: The version number can be seen here 
+Unfortunately, there is no easy solution to this. What we need is a 'version' field  and an 'Update' button - See our **[Suggestions to Microsoft PowerPoint: Check for Updates](http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/Office.aspx#Version)**
+![Check Template](http&#58;//sharepoint.ssw.com.au/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/CheckTemplate.jpg)Figure: This is how you can see if you are using the template file 
