@@ -7,16 +7,13 @@ authors: []
 
 ---
 
+ If you are presenting to people who you already know, then you have an enormous advantage over someone who is going to face an audience they have never previously met.<br> 
+It is best to confirm who you are speaking to via a few slides. Then you can make subtle changes during your presentation so your audience gets:
 
-If you are presenting to people who you already know, then you have an enormous advantage over someone who is going to face an audience they have never previously met.
-
-Your aim in giving this presentation is to give your audience something that is:
-
-- What they want
-- Important for them
+- What is important for them
 - Interesting to them
 - Relevant to them
 
 <dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Communication/RulesToBetterPowerpointPresentations/PublishingImages/developer.gif"> </dt>
-    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Ask &quot;How many are developers here?&quot;</dd></dl><dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Communication/RulesToBetterPowerpointPresentations/PublishingImages/manager.gif"> </dt>
-    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Ask &quot;How many are managers here?&quot;</dd></dl>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Ask &quot;How many are developers here?&quot; </dd></dl><dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Communication/RulesToBetterPowerpointPresentations/PublishingImages/manager.gif"> </dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Ask &quot;How many are managers here?&quot; </dd></dl>
