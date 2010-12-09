@@ -7,6 +7,6 @@ authors: []
 
 ---
 
-
-A power point presentation is a verbal essay and it follows a structure. Shown at the start of the presentation, the Agenda slide sets expectation. The Summary slide is identical, but the purpose is to summarize the PowerPoint.
+ A PowerPoint presentation is a verbal essay and it follows a structure. Shown at the start of the presentation, the Agenda slide sets expectation. <br> 
+At the end the Summary slide should be identical, and summarize what you just spoke about.
 ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/agenda.gif) Figure: Slide for agenda ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/summary.gif) Figure: Slide for summary (is the same as agenda) 
