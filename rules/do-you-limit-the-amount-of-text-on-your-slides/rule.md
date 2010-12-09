@@ -7,6 +7,4 @@ authors: []
 
 ---
 
-
-Your audience cannot listen to you and read your slides at the same time. Therefore, you should not show too much text on your slides. The best presenters use hardly any text at all in their slides. It is useful to push technical, complicated or textual data into a handout.
-![Too much text-content in one single slide](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/BadLessText.jpg) Figure: Bad Example - Too much text-content in one single slide![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/GoodLessText.jpg) Figure: Good Example - Delivering information should be made simple and clear
+ Your audience cannot listen to you and read your slides at the same time. Therefore, you should not show too much text on your slides. The best presenters use hardly any text at all in their slides.<br> ![Too much text-content in one single slide](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/BadLessText.jpg) Figure: Bad Example - Too much text/content on this slide![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/GoodLessText.jpg) Figure: Good Example - Less is more
