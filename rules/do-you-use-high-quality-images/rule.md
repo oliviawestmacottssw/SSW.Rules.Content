@@ -8,7 +8,7 @@ authors: []
 ---
 
 
-Use high resolution images in your presentations. Never stretch small, low-resolution photos to make it fit. This degrades the resolution even further and the image will appear very coarse and granular on the projection screen.
+Never stretch small, low-resolution photos to make it fill up the space. This degrades the resolution and the image will appear very coarse and granular on the projection screen.
 
 The quality of your images is a subconscious message to your audience. If you use low quality pictures, then you unintentionally suggest the same message about your product.
 
