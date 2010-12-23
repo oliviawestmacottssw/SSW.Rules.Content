@@ -12,6 +12,7 @@ authors:
 ---
 
  SharePoint 2010 and Office 2010 ships with a fantastic document management feature "Managed Metadata Service". This new service provides first class support for enterprise taxonomy within a standard SharePoint 2010 environment. 
+
 <br>Unfortunately, Office 2007 and Office 2003 can't work with managed metadata fields out of the box. 
 
 Office 2010:1. Works fine
