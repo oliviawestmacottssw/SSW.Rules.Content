@@ -13,7 +13,7 @@ authors:
 
 ---
 
-
+ Even though you have advised staff members a migration is taking place – you can guarantee someone will try to check-in or edit documents. The best way to prevent this is to put your content database into read only mode. <br> 
 Even though you have advised staff members a migration is taking place – you can guarantee someone will try to check-in or edit documents. The best way to prevent this is to put your content database into read only mode.
 
 1.    On your database server open **SQL Server Management Studio**
@@ -30,4 +30,4 @@ Figure - Database Properties | Options | Database-Read Only
 5.    Now it’s safe to take a backup of your content database
 
 **NOTE: ** When some SharePoint timer services are run it may cause the site to display errors when the database is in read only mode
-  Even though you have advised staff members a migration is taking place – you can guarantee someone will try to check-in or edit documents. The best way to prevent this is to put your content database into read only mode.    
+
