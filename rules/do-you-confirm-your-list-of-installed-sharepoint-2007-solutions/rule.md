@@ -9,7 +9,7 @@ authors:
 
 ---
 
- When you move to SharePoint 2010, nothing is to unexpectedly disappear. So prior to the migration, you need to find out which solutions you currently have installed and decide if you will be installing them on the new server.<br> 
+ When you move to SharePoint 2010, nothing is to unexpectedly disappear. So prior to the migration, you need to find out which solutions you currently have installed and decide if you will be installing them on the new server. <br> 
 1. On the SharePoint 2007 Server, open **Central Administration** and go to **Operations | Solution Management**
 2. Copy the **Solution Name, Status** and **Deployed To** into the following table. This will ensure you deploy all the solutions you had on your old server to the SharePoint 2010 server
 3. Cross out any solutions that you will not be migrating
