@@ -21,6 +21,6 @@ The SharePoint master should be your companies SharePoint expert. All major chan
 - Migrations
 
 
-![](http&#58;//sharepoint.ssw.com.au/AboutUs/Employees/PublishingImages/john.jpg)
+![](http&#58;//sharepoint.ssw.com.au/AboutUs/Employees/PublishingImages/john_info.jpg)
 Figure: Do you have a SharePoint master
 
