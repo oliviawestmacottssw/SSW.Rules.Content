@@ -12,7 +12,7 @@ authors:
 ---
 
 
-You all know about a web master, the central point of contact if the website goes down. You should know about [Schema Masters for Database Design](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/Pages/DoYouHaveASchemaMaster.aspx). SharePoint should be no different.
+You all know about a web master, the central point of contact if the website goes down. You should know about [Schema Masters for Database Design](/do-you-have-a-＂schema-master＂). SharePoint should be no different.
 
 The SharePoint master should be your companies SharePoint expert. All major changes to the SharePoint servers should be run by the SharePoint master including:
 
@@ -21,6 +21,6 @@ The SharePoint master should be your companies SharePoint expert. All major chan
 - Migrations
 
 
-![](http&#58;//sharepoint.ssw.com.au/AboutUs/Employees/PublishingImages/john_info.jpg)
+![](http&#58;//sharepoint.ssw.com.au/AboutUs/Employees/PublishingImages/JohnLiu.jpg)
 Figure: Do you have a SharePoint master
 
