@@ -21,7 +21,7 @@ Now we need to attach the database backup we took of our SharePoint 2007 server:
 
 1. In **SQL Server Management Studio** right click on **Databases** | **Restore Database…
 
-![](/ITAndNetworking/SharePointMigration/PublishingImages/RestoreDatabase.png)
+![](/PublishingImages/RestoreDatabase.png)
 Figure 6 - Select “Restore Database”
 - Follow the prompts to restore your database
 **
