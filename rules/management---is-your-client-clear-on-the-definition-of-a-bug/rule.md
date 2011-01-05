@@ -25,7 +25,9 @@ A software issue will be fixed under the fixed-price warranty where:
 1. The application crashes to code because it doesn't check that a connection is valid before running a stored procedure **(this is likely covered because it crashes to code)
 ![](/Management/RulesToSuccessfulProjects/PublishingImages/YellowScreenofDeath.jpg)
 Figure: Yellow screen of death**
-2. A sum total is negative instead of positive because the wrong operator (plus instead of minus) has been used to calculate the running balance **(this is likely covered because data is inconsistent with the specified business rules)**
+2. A sum total is negative instead of positive because the wrong operator (plus instead of minus) has been used to calculate the running balance **(this is likely covered because data is inconsistent with the specified business rules)
+![](/Management/RulesToSuccessfulProjects/PublishingImages/IncorrectSum.jpg)
+Figure: An incorrect sum is likely to be a bug**
 3. The application is missing the Monthly Sales report **(this is likely covered because the application is missing functionality specified in the specification)**
 4. The output HTML in the application is formatted way out of line and does not display in the specified browser (e.g. Internet Explorer 9) **(this is likely covered because it substantially inconsistent with the agreed mockup)**
 
