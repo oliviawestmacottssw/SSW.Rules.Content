@@ -29,7 +29,8 @@ Figure: Yellow screen of death**
 ![](/Management/RulesToSuccessfulProjects/PublishingImages/IncorrectSum.jpg)
 Figure: An incorrect sum is likely to be a bug**
 3. The application is missing the Monthly Sales report **(this is likely covered because the application is missing functionality specified in the specification)**
-4. The output HTML in the application is formatted way out of line and does not display in the specified browser (e.g. Internet Explorer 9) **(this is likely covered because it substantially inconsistent with the agreed mockup)**
+4. The output HTML in the application is formatted way out of line and does not display in the specified browser (e.g. Internet Explorer 9) **(this is likely covered because it substantially inconsistent with the agreed mockup)
+**
 
 **Examples of what is \*not\* a bug covered by the warranty:**
 1. Any problem caused by software or an application not written by SSW.
