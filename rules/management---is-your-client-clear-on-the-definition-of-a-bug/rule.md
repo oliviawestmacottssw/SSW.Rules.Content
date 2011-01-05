@@ -11,7 +11,7 @@ authors:
 
 ---
 
- The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug. <br> 
+ The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug.<br> 
 A software issue will be fixed under the fixed-price warranty where:
 
 1. The application **crashes to code **(excluding bugs resulting from third party products (e.g. "blue screen of death" or crashing in a third party data grid that we cannot control); **or **
@@ -22,7 +22,9 @@ A software issue will be fixed under the fixed-price warranty where:
 
 **and **the developers can reproduce the above on the test server **and **the application is not yet "live" **and **the issue has been reported in time (generally 30 days).
 **Examples of what \*could\* constistute a bug covered by the warranty:**
-1. The application crashes to code because it doesn't check that a connection is valid before running a stored procedure **(this is likely covered because it crashes to code)**
+1. The application crashes to code because it doesn't check that a connection is valid before running a stored procedure **(this is likely covered because it crashes to code)
+![](/Management/RulesToSuccessfulProjects/PublishingImages/YellowScreenofDeath.jpg)
+Figure: Yellow screen of death**
 2. A sum total is negative instead of positive because the wrong operator (plus instead of minus) has been used to calculate the running balance **(this is likely covered because data is inconsistent with the specified business rules)**
 3. The application is missing the Monthly Sales report **(this is likely covered because the application is missing functionality specified in the specification)**
 4. The output HTML in the application is formatted way out of line and does not display in the specified browser (e.g. Internet Explorer 9) **(this is likely covered because it substantially inconsistent with the agreed mockup)**
