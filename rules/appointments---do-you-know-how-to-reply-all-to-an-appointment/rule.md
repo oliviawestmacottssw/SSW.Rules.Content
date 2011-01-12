@@ -11,12 +11,11 @@ authors:
 
 ---
 
- Once an appointment is made, you should track it until it's done. Refer to the example below:<br> 
-###### Step 1: Get the appointment
-![Calendar window](/Communication/RulesToBetterEmail/PublishingImages/betterMeeting1_small.jpg) Figure: Calendar page
-###### Step 2: Reply to All
-![Sent to all who participate in the meeting](/Communication/RulesToBetterEmail/PublishingImages/betterMeeting2_small.jpg) Figure: Sent to all participators
-###### Step 3: Change from RTF to HTML
-![Changing email format to HTML](/Communication/RulesToBetterEmail/PublishingImages/betterMeeting3_small.jpg) Figure: Change format to HTML
-###### Step 4: And type [below]
-![Type the messages](/Communication/RulesToBetterEmail/PublishingImages/betterMeeting4_small.jpg) Figure: Types the messages
+ Some of us have Outlook calendars that are full to the brim. We might use our Calendar to remind us to do certain personal tasks, we might have an appointment telling us that someone else is going on leave, and, of course, we all have meetings with clients or colleagues. Our calendars can get very messy and it's easy to miss something important. This is why you should remind attendees by email of your meeting the day before it is scheduled. Outlook makes this easy.<br> 
+###### ![Calendar window](/Communication/RulesToBetterEmail/PublishingImages/betterMeeting1_small.jpg)
+
+###### Figure: Open the appointment in your Calendar (You should already have Invited all the required people to attend)
+![](/Communication/RulesToBetterEmail/PublishingImages/Appt-ReplyAllWithMessage.jpg)
+
+Figure: Click on "Message to Attendees" and then "Reply to All with Message" ![Type the messages](/Communication/RulesToBetterEmail/PublishingImages/betterMeeting4_small.jpg) 
+Figure: Send a friendly reminder!
