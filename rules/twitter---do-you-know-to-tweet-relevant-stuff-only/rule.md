@@ -18,13 +18,6 @@ Your tweets should be interesting to your target audience. People aren't going t
 
 
 
-
-
-
-
-
-
-
 ![](/Communication/RulesToBetterSocialNetworking/PublishingImages/twitter-boring-tweet.png)
 
 Bad Example - "Having lunch" is not an interesting tweet
