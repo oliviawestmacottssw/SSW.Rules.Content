@@ -14,6 +14,17 @@ authors:
 ---
 
 
+Your tweets should be interesting to your target audience. People aren't going to follow you for long if you make off topic and low value tweets.
+
+
+
+
+
+
+
+
+
+
 ![](/Communication/RulesToBetterSocialNetworking/PublishingImages/twitter-boring-tweet.png)
 
 Bad Example - "Having lunch" is not an interesting tweet
@@ -36,4 +47,6 @@ Some good examples of things to tweet about:
 
 
 Good Example - An informative tweet with hash tags which appeals to a targeted audience of IT followers
-  Your tweets should be interesting to your target audience. People aren't going to follow you for long if you make off topic and low value tweets.   
+
+
+
