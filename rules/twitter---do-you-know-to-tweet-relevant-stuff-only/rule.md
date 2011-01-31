@@ -18,12 +18,12 @@ Your tweets should be interesting to your target audience. People aren't going t
 
 
 
-![](/Communication/RulesToBetterSocialNetworking/PublishingImages/twitter-boring-tweet.png)
-
+![](/PublishingImages/twitter-boring-tweet.png)
 Bad Example - "Having lunch" is not an interesting tweet
 
 
-Some good examples of things to tweet about:
+
+<br>Some good examples of things to tweet about:
 
 
 - 1 day before an event, tweet about the event and what you are talking about
@@ -35,7 +35,7 @@ Some good examples of things to tweet about:
     - #SharePoint2010 install done - found a great guide to follow here: www.example.com
 
 
-![](/Communication/RulesToBetterSocialNetworking/PublishingImages/twitter-goodtweet.png)
+![](/PublishingImages/twitter-goodtweet.png)
 
 
 
