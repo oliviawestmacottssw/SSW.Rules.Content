@@ -32,4 +32,4 @@ Good Example : Using TweetDeck gives you a dashboard to follow topics you are in
 
 You can download TweetDeck here: [http://www.tweetdeck.com/](http&#58;//www.tweetdeck.com/)
 
-  If you are looking to get the most out of your Twitter experience, you will need to use a Twitter client. SSW recommends TweetDeck.    
+  If you are looking to get the most out of your Twitter experience, you will need to use a Twitter client. SSW recommends TweetDeck.     
