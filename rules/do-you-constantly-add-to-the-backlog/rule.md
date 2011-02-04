@@ -16,7 +16,7 @@ In the course of work everyone encounters bugs or problems. They can be dealt wi
 
     1. Pretend you didn't see the problem<br>
     2. Fixing it straight away<br>
-    3. Reporting it so someone else for fixing
+    3. Add the issue to the backlog so someone else can fix it
 
 
 The best solution is to use a combination or 2 and 3.
@@ -27,5 +27,7 @@ The best solution is to use a combination or 2 and 3.
 
 This approach raises the question of priorities. If you hit too many hurdles you continually get diverted from the main task: for example when fixing the Client form you encounter a problem with the Client Contact form which breaks the Products form etc. (This can be described as the "Tree Approach" as opposed to the "Straight through to the Goal approach".)
 
-You need to try to balance short term productivity with long term improvements. My view is that it is better to get 2 things done at 100% than get 4 things done at 75%!
+You need to try to balance short term productivity with long term improvements. My view is that it is better to get 2 things done at 100% than get 4 things done at 75%! At a minimum, always add the issue to the backlog.
+
+
 
