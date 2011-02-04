@@ -12,10 +12,13 @@ authors:
 
 We recommend adding these menus to your Tools Menu:
 
-- Tools - Validate Schema (with [SSW SQL Deploy](http&#58;//www.ssw.com.au/ssw/SQLDeploy/Default.aspx))
-- Tools - [Validate Data](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterInterfaces-WinApp.aspx#ValidateData)
+- Tools - Validate - Validate Links (with [SSW Link Auditor](http&#58;//www.ssw.com.au/ssw/LinkAuditor))
+- Tools - Validate - [Validate Data](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterInterfaces-WinApp.aspx#ValidateData)
+- Tools - Validate Schema (with [SSW SQL Deploy](http&#58;//www.ssw.com.au/ssw/SQLDeploy/Default.aspx))
+- Tools - Validate - Reports (with [SSW Reporting Services Auditor](http&#58;//www.ssw.com.au/ssw/SQLReportingServicesAuditor/Default.aspx))
 - Tools - [Run Unit Tests](http&#58;//www.ssw.com.au/ssw/Standards/Rules/rulestobetterwindowsforms.aspx#UnitTests) (with NUnit)
-- Tools - View Application Errors (with SSW Exception Logger)
-- Tools - Validate PC (with [SSW Diagnostics](http&#58;//www.ssw.com.au/ssw/Diagnostics/Default.aspx))
+- Tools - Validate PC (with [SSW Diagnostics](http&#58;//www.ssw.com.au/ssw/Diagnostics/Default.aspx))
+- Tools - View Application Errors (with [SSW Lady Log](http&#58;//www.ssw.com.au/ssw/NetToolKit/04ExceptionReporter.aspx))
+- Tools - Validate - Code Quality (with SSW Code Auditor)
 
 
