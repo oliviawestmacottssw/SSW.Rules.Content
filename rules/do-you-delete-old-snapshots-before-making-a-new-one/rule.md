@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Snapshots are a very handy tool for a System Administrator, but they can quickly turn into a nightmare if they are not managed properly. Snapshots take far more hard drive space than a virtual machine without, and if you don’t clean up your snapshots you may run out of drive space.<br> ![Snapshots are useful, but they can take up a lot of space](/ITAndNetworking/RulesToBetterHyperV/PublishingImages/snapshot-avhds.jpg)
+ Snapshots are a very handy tool for a System Administrator, but they can quickly turn into a nightmare if they are not managed properly. Snapshots take far more hard drive space than a virtual machine without, and if you don’t clean up your snapshots you may run out of drive space. <br> ![Snapshots are useful, but they can take up a lot of space](/PublishingImages/snapshot-avhds.jpg) 
 Figure: Snapshots are useful, but they can take up a lot of space
 When you delete a snapshot you can no longer restore the virtual machine to the point in time the snapshot was taken. Deleting a snapshot does not affect any other snapshots, nor will it affect the current state of the virtual machine.
 
