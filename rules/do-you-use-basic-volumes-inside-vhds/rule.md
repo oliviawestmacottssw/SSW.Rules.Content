@@ -13,10 +13,10 @@ authors:
 
 <br>A **Dynamic** **disk **might be useful in situations where you want to create a software RAID array, but when using Hyper-V this not a good idea because it prevents Microsoft Data Protection Manager (DPM) from doing Child State Backups (backups while the machine is running).
 
-<br>For this reason, never use D**ynamic disks **inside Hyper-V Virtual Machines.
+<br>For this reason, never use **Dynamic disks **inside Hyper-V Virtual Machines.
 
-![Bad Example - DPM cannot backup this Virtual Machine's child state as it has a Dynamic Disk](/ITAndNetworking/RulesToBetterHyperV/PublishingImages/basicvolumes-badexample.jpg)
+![Bad Example - DPM cannot backup this Virtual Machine's child state as it has a Dynamic Disk](/PublishingImages/basicvolumes-badexample.jpg)
 Figure: Bad Example - DPM cannot backup this Virtual Machine's child state as it has a Dynamic Disk
 
-![Good example – Using Basic Volumes allows DPM to backup the Virtual Machine’s child state](/ITAndNetworking/RulesToBetterHyperV/PublishingImages/basicvolumes-goodexample.jpg)
+![Good example – Using Basic Volumes allows DPM to backup the Virtual Machine’s child state](/PublishingImages/basicvolumes-goodexample.jpg)
 Good example – Using Basic Volumes allows DPM to backup the Virtual Machine’s child state
