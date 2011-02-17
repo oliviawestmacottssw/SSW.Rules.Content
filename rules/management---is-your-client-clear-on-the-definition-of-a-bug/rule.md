@@ -11,7 +11,7 @@ authors:
 
 ---
 
- The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug.<br> 
+ The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug. <br> 
 A software issue will be fixed under the fixed-price warranty where:
 
 1. The application **crashes to code **(excluding bugs resulting from third party products (e.g. "blue screen of death" or crashing in a third party data grid that we cannot control); **or **
@@ -45,12 +45,9 @@ At SSW, we use TFS as our source control and project tracking system. Using it a
 
 
 > **![](/Management/RulesToSuccessfulProjects/PublishingImages/WorkItemsTFS.jpg)
-> <br>Figure: Work items in TFS
+> <br>Figure: Do I create this as a bug, or a task? ****
 > **
 
-
-**
-**
 
 **Handling additional work**
 
