@@ -39,6 +39,19 @@ Figure: An incorrect sum is likely to be a bug**
 4. The original specification states that the total price excludes GST, but it really should have included GST. This is a change to the specification, and is not included in the contract.
 
 
+**Work items in TFS**
+
+At SSW, we use TFS as our source control and project tracking system. Using it allows us to create work items such as user stories, bugs, tasks, test cases etc. We only create bugs in TFS for defects, faults, flaws, or imperfections that fulfill our definition of a bug. For everything else we use other work item types.
+
+
+> **![](/Management/RulesToSuccessfulProjects/PublishingImages/WorkItemsTFS.jpg)
+> <br>Figure: Work items in TFS
+> **
+
+
+**
+**
+
 **Handling additional work**
 
  Any new features or modifications (non-bug items) not in the original release plan are classed as additional work and are outside the scope of the contract. Any tasks which **are** bugs should be marked as additional items and be completed in the current release if possible. Most importantly, after the release plan has been sent, **a task should NOT be entered as an item (additional or otherwise) in ANY sprints if they are not a bug**. Instead, move all non-bug items to the product backlog for future review after the warranty period for the fixed price contract has passed.
