@@ -21,5 +21,5 @@ You don’t want to building solutions from scratch, take the business value you
 
 
 There are pros and cons to all and it depends on what functionality/customization you need but we lean towards DotNetNuke and Sharepoint for most solutions.
- See [DotNetNuke and Sharepoint Development - The leading CMS Solutions](http&#58;//www.ssw.com.au/ssw/Company/DotNetNuke_Sharepoint_Solutions.aspx).
+ See [DotNetNukeDevelopment - The leading CMS Solutions](http&#58;//www.ssw.com.au/ssw/Company/DNN-DotNetNuke.aspx).
 
