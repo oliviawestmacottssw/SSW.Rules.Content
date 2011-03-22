@@ -27,7 +27,7 @@ As a general rule, we wait 4 weeks before installing a new Service Pack, and tel
 
 
 
-![](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/holdyourhorses.jpg)
+![](/PublishingImages/holdyourhorses.jpg)
 
 
 Figure 1 - Even though managers and users might be pressing you to install a Service Pack - tell them to hold their horses!
