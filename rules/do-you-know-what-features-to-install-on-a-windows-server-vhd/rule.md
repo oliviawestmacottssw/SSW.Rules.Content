@@ -9,9 +9,7 @@ authors:
 
 ---
 
-
-When you setup a new Windows 2008 R2 VHD it will be lacking a few components that need to be installed so it can function as a personal computer as well as a presentation computer.
-
+ When you setup a new Windows 2008 R2 VHD it will be lacking a few components that need to be installed so it can function as a personal computer as well as a presentation computer.<br> 
 1. Open **Server Manager**
 2. Click on **Add Features**
 3. Install **Desktop Experience **and **Wireless LAN Service**
