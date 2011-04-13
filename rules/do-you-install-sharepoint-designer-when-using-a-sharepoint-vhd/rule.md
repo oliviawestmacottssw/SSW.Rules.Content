@@ -15,4 +15,7 @@ SharePoint designer is a handy program to be able to show off when presenting Sh
 Bad Example: Installing SharePoint Designer 2007 on a SharePoint 2010 VHD.
 
 Good Example: Installing SharePoint Designer 2010 on a SharePoint 2010 VHD.
+Bad
+
+Good
 
