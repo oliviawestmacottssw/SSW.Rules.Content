@@ -11,7 +11,7 @@ authors:
 
 ---
 
- When using your presentation computer you may want to still be able to send emails but not want to download your entire Exchange mailbox to your Boot2VHD image. This is especially relevant for people with large mailboxes.<br> 
+ When using your presentation computer you may want to still be able to send emails but not want to download your entire Exchange mailbox to your Boot2VHD image. This is especially relevant for people with large mailboxes. <br> 
 1. Open Outlook 2010 and create a new Exchange account
 2. Enter your server name and user name, but un-tick **Use Cached Exchange Mode
 ![Un-tick Use Cached Exchange Mode](/ITAndNetworking/RulesToBetterPresentationPCs/PublishingImages/fig3-untickcached.png)
@@ -30,5 +30,11 @@ authors:
 ![](/ITAndNetworking/RulesToBetterPresentationPCs/PublishingImages/fig5-sendreciveall.png)
 Figure - Untick "Receive mail items" | Tick "Sent Items", "Contacts" and "Outbox" | Download only headers for "Sent Items"
 6. When back in the main Outlook window click **Send / Receive All** **Folders **and this will sync your sent items and contacts which will now be available offline
+
+
+**Suggestion to the Microsoft Outlook Team:**
+
+- Give us a “Sync last x weeks” for each folder
+- Give us a ‘Work in Minimal Mode’ – that does the above
 
 
