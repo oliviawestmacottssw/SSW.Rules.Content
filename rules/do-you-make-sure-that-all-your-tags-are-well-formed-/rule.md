@@ -13,7 +13,7 @@ authors:
 <br>We need to make sure that all HTML/XML tags which open once, must be closed properly.<br> 
 &lt;div&gt;   
 <br>&lt;p&gt;Hello HTML&lt;/p&gt;   
-<br>&lt;div&gt;<br>
+<br>&lt;/div&gt;<br>
 Figure: Good Example
 
 &lt;breakfast\_menu&gt;<br>
