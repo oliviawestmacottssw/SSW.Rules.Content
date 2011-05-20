@@ -10,28 +10,21 @@ authors:
 ---
 
  Calling Thread.Sleep on your Silverlight application causes the UI thread to sleep. That means the application is not responsive.
-<br>If you want to delay something, you can use a [storyboard](http&#58;//msdn.microsoft.com/en-us/library/system.windows.media.animation.storyboard.aspx). <br> 
-`Thread.Sleep(5000); 
-              
-            
-this.Dispatcher.BeginInvoke(new Action(() => 
-                            { 
-                         //Try to reconnect in the background 
-                               Connect.Execute(null); 
-                             })); 
-Bad: Using Thread.Sleep() causes your Silverlight application to freeze 
- 
-  
-  
-  
-Storyboard sb = new Storyboard() { Duration = TimeSpan.FromSeconds(5) }; 
-  
-sb.Completed += (ds, de) => this.Dispatcher.BeginInvoke(new Action(() => 
-                                                                       { 
-                                                                          //Try to reconnect in the background 
-                                                                         Connect.Execute(null); 
-                                                                       })); 
-sb.Begin(); 
-
- GOOD: Use a Storyboard with a duration of the delay and once the Storyboard is finished running`
-
+<br>If you want to delay something, you can use a [storyboard](http&#58;//msdn.microsoft.com/en-us/library/system.windows.media.animation.storyboard.aspx). <br> Thread.Sleep(5000); 
+<br>this.Dispatcher.BeginInvoke(new Action(() =&gt; 
+<br>                            { 
+<br>                         //Try to reconnect in the background 
+<br>                               Connect.Execute(null); 
+<br>                             })); 
+<br>Bad: Using Thread.Sleep() causes your Silverlight application to freeze 
+<br> 
+<br>  
+<br>Storyboard sb = new Storyboard() { Duration = TimeSpan.FromSeconds(5) }; 
+<br>  
+<br>sb.Completed += (ds, de) =&gt; this.Dispatcher.BeginInvoke(new Action(() =&gt; 
+<br>                                                                       { 
+<br>                                                                          //Try to reconnect in the background 
+<br>                                                                         Connect.Execute(null); 
+<br>                                                                       })); 
+<br>sb.Begin(); 
+GOOD: Use a Storyboard with a duration of the delay and once the Storyboard is finished running 
