@@ -14,12 +14,13 @@ You don’t want to building solutions from scratch, take the business value you
 
  The main choices are:
 
+- [www.orchardproject.net/](http&#58;//www.orchardproject.net/)
 - [www.DotNetNuke.com](http&#58;//www.dotnetnuke.com/)
 - [Microsoft Sharepoint 2007](http&#58;//www.microsoft.com/office/preview/servers/sharepointserver/highlights.mspx)
-- www.CommunityServer.org
+- [www.CommunityServer.org](http&#58;//www.communityserver.org/)
 - Microsoft ASP.NET 2.0 hand coded pages
 
 
-There are pros and cons to all and it depends on what functionality/customization you need but we lean towards DotNetNuke and Sharepoint for most solutions.
- See [DotNetNuke Development - The leading CMS Solutions](http&#58;//www.ssw.com.au/ssw/Company/DNN-DotNetNuke.aspx).
+There are pros and cons to all and it depends on what functionality/customization you need but we lean towards Orchard and Sharepoint for most solutions.
+ See [The leading CMS Solutions](http&#58;//www.ssw.com.au/ssw/Company/DNN-DotNetNuke.aspx).
 
