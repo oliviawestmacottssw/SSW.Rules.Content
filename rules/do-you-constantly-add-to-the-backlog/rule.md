@@ -14,12 +14,12 @@ authors:
 
 In the course of work everyone encounters bugs or problems. They can be dealt with by either:
 
-    1. Pretend you didn't see the problem<br>
-    2. Fixing it straight away<br>
+    1. Pretend you didn't see the problem
+    2. Fixing it straight away
     3. Add the issue to the backlog so someone else can fix it
 
 
-The best solution is to use a combination or 2 and 3.
+The best solution is to use a combination of 2 and 3.
 
 - If it will take less 15 mins to fix, do it straight away.
 - If it will take more time, email the problem to the appropriate person (even if it's a 3rd party product).
