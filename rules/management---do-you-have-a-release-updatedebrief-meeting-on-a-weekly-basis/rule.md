@@ -32,22 +32,17 @@ If "Yes"
 3. Ask for Approval for next release
 
 
-There are two kinds of tools to help you do this
-
-- [SSW eXtreme Emails - Release Update/Debrief Report](http&#58;//www.ssw.com.au/ssw/EXtremeEmails/ManageProjects.aspx#ReleaseDebrief)
-
-![](/Management/RulesToSuccessfulProjects/PublishingImages/ReleaseDebrief_small.jpg) Figure: The actual output of the Release Debrief Report
-Here is a HTML format [SSW Release Debrief Report.](http&#58;//www.ssw.com.au/ssw/extremeemails/reports/releasedebriefreport.htm)
+There are tools to help you do this:
 
 - [SSW TFS Add-in - Release Update/Debrief Report](http&#58;//www.ssw.com.au/ssw/AgileTemplate/UserGuide.aspx#ReleaseUpdate)
 
-![](/Management/RulesToSuccessfulProjects/PublishingImages/ProgressReport_small.jpg) Figure: The actual output of the Release Update Report
+![](/Management/RulesToSuccessfulProjects/PublishingImages/ProgressReport_small.jpg) Figure: The actual output of the Release Update Report 
 Here is a PDF format [SSW Release Update Report.](http&#58;//www.ssw.com.au/ssw/AgileTemplate/Sample/SSWReleaseUpdate.pdf)
 
 **If you are at the end of a main section of work, promote your success **
 
 - [Ask for a testimonial for the work you have done](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#PostClientWork)
-- Create a case study and get it approved - Info should be a win-win for the client. eg.  [WorleyParsons](http&#58;//www.ssw.com.au/ssw/Company/WorleyparsonsCaseStudy.aspx)
+- Create a case study and get it approved - This should be a win-win for the client. eg.  [WorleyParsons](http&#58;//www.ssw.com.au/ssw/Company/WorleyparsonsCaseStudy.aspx)
 - Add a link to the work you have done from your website or marketing material. eg. at SSW we do this via the [Our Clients](http&#58;//www.ssw.com.au/ssw/Company/OurClients.aspx) page
 
 
