@@ -9,9 +9,9 @@ authors:
 
 ---
 
+ All team members must update their tasks with **status**, **remaining hours**, **completed hours** and **comments** prior to the daily Scrum meeting; in the case where the Scrum meeting is in the morning, this should be done at the end of the previous business day. 
 
-All team members must update their tasks with **status**, **remaining hours**, **completed hours** and **comments** one (1) hour prior to the daily Scrum meeting; in the case where the Scrum meeting is in the morning, this should be done at the end of the previous business day.
-![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/Updatetasks.jpg) Figure: Update these fields and your burndown will be accurate.
+<br>Update the following screen to keep your burndown rate accurate: <br> ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/Updatetasks.jpg) Figure: Update these fields and your burndown will be accurate.
 It’s recommended that the team set up an appointment to remind everyone to update TFS. Knowing that the team will continue working after the update, a forecast of what will be done up to The Scrum should be included so TFS is accurately up-to-date on the Burndown at the meeting time.
 
 The reason is because the cube currently takes some time to rebuild the Burndown and it’s very important to have the work status during the meeting. This is the best way to control how the sprint is going and make necessary improvements on work to avoid sprint fails.
