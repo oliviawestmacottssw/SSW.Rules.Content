@@ -11,12 +11,14 @@ authors:
 
 ---
 
+ When you are building complicated software and working with customers it is always nice for them to have some idea on who to speak to about a particular story during a sprint. 
 
-When you are building complicated software and working with customers it is always nice for them to have some idea on who to speak to about a particular story during a sprint.
+<br>In order to achieve this entire the Team takes responsibility for “looking after” a story and manages it to completion. 
 
-In order to achieve this entire the Team takes responsibility for “looking after” a story and manages it to completion. 
+<br>During the sprint one of the team will be the first person to answer any Product Owner queries.  That person is assigned to the story.
 
- During the sprint one of the team will be the first person to answer any Product Owner queries.  That person is assigned to the story
+<br>Here is how to attach an owner to a user story:<br> 
+
 
 ![image](/Management/RulesToBetterScrumUsingTFS/PublishingImages/UserStoryOwner_Bad.png "image") 
 **Figure: Bad example, the product owner is not sure who to speak to.**
