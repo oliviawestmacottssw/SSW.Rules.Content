@@ -12,9 +12,9 @@ authors:
 ---
 
 
-Your Product Owner is responsible for updating and managing the Product backlog.
+The Product Owner is responsible for updating and managing the Product backlog.
 
-Do they know how?
+There are the options:
 
 1. **Team Web Access**
 [http://tfs.ssw.com.au/tfs/web/](http&#58;//tfs.ssw.com.au/tfs/web/ "http&#58;//tfs.ssw.com.au/tfs/web/")
