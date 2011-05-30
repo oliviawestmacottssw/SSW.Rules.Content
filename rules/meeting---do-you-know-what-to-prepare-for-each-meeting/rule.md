@@ -7,7 +7,9 @@ authors: []
 
 ---
 
- In Scrum, meetings are time boxed. Team members must be well prepared in order to accomplish the meeting goals in time. <br> 
+ In Scrum, meetings are time boxed. Team members must be well prepared in order to accomplish the meeting goals in time. 
+
+
 **Daily Scrum Meetings** - all members of the team must be well prepared by:
 
 - Being available in time
