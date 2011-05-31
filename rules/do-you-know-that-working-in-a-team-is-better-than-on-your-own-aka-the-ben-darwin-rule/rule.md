@@ -22,6 +22,7 @@ authors:
 [Ben Darwin](http&#58;//www.abc.net.au/rn/sportsfactor/stories/2007/2024628.htm) speaking on how, after breaking his neck in a scrum, he was forced to quit being a Wallaby and rejoin normal society.
 
 
+
 We can see examples of this in nature as well. For the Antarctic Emperor Penguin, cooperation is the key to survival. Every winter thousands of male penguins huddle together to share warmth. The birds on the most exposed side of the huddle gradually move down around the huddle to the more sheltered side. This means that each bird spends some time exposed to the full force of the Antarctic winter, but then gets its fair share of warmth in the middle of the pack. These clever birds understand that by taking turns and enduring discomfort in the short term, their chances of success (survival) greatly increase.
 
 It is essential that in order to be a contributing member of a successful team, you are willing to put the good of the team over your own interests so that everyone can benefit in the long term.
@@ -45,5 +46,4 @@ Note: If this beautiful story is not up your alley you will prefer a similar exa
 
 With the rest of your team, prioritize the feedback you received and select a few key items that you can implement right away.
  Make a backlog from the feedback you received, set some goals and start your team on the road to being ‘Superstars’ too.
-
 
