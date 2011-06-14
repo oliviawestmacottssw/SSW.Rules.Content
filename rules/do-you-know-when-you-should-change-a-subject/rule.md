@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Some email threads go on forever. Sometimes the topics change or different people start chiming in with different points. When the original email subject has been superceded by the content of the current discussion, is too general or just isn't 100% relevant, you should change the email subject to a more relevant discussion.<br>
+ Some email threads go on forever. Sometimes the topics change or different people start chiming in with different points. When the original email subject has been superceded by the content of the current discussion, is too general or just isn't 100% relevant, you should change the email subject to a more relevant description of the content of the thread.<br>
 
 
 
