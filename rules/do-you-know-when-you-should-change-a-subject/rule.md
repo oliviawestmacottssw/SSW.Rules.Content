@@ -11,7 +11,20 @@ authors:
 
 ---
 
- Some email threads go on forever. Sometimes the topics change or different people start chiming in with different points. When the original email subject has been superceded by the content of the current discussion, is too general or just isn't 100% relevant, you should change the email subject to a more relevant description of the content of the thread.
-  When the problem is a 'too general' subject, sometimes a simple solution is to add the client, project or iteration name to the email subject.
 
- Remember, never forget the [importance of a good email subject](/Communication/RulesToBetterEmail/Pages/ImportanceOfAGoodSubject.aspx "Realize the Importance of a Good Email Subject") in improving communications.   
+Some email threads go on forever... sometimes the topic subtly changes... so when should you change the subject?
+ The answer is "cautiously".
+ The reason is email threading.
+
+So when do you change it?
+
+- When the original email theme has been superceded by new content, you should change the email subject to a more relevant description of the content of the thread.
+<br>    E.g. from** "Field of Study"**
+<br>    to **"Next Years Conference WAS: Field of Study"**
+- Also if the original subject was generic e.g. "Reminder" or "Invoice" (especially when automatically generated) then upon reply change the subject by adding the client or project name to the email subject.
+<br>    E.g. from **"Invoice"**
+<br>    to **"IBM WAS: Invoice"**
+
+
+Remember, never forget the [importance of a good email subject](/Communication/RulesToBetterEmail/Pages/ImportanceOfAGoodSubject.aspx "Realize the Importance of a Good Email Subject") in improving communications.
+
