@@ -11,15 +11,9 @@ authors:
 
 ---
 
+ Some email threads go on forever. Sometimes the topics change or different people start chiming in with different points. When the original email subject has been superceded by the content of the current discussion, is too general or just isn't 100% relevant, you should change the email subject to a more relevant discussion.<br>
 
-Normal reminder emails should be:
- Subject: "Outstanding Balance with SSW"
- (They should all have the same subject so that people know there is nothing out of the ordinary).
 
- When in dispute 
- Subject: "Swift - Issues to be resolved"
- (The Company name is added as a minimum so we can see which client the email related to at a  glance).
 
- When in they have gone over $20K
- Subject: "Swift - Account temporarily on Hold"
+You should always realize the importance of a good email subject[realize the importance of a good email subject](/Communication/RulesToBetterEmail/Pages/ImportanceOfAGoodSubject.aspx "Realize the Importance of a Good Email Subject").
 
