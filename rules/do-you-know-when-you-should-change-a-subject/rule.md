@@ -15,5 +15,5 @@ authors:
 
 
 
-You should always realize the importance of a good email subject[realize the importance of a good email subject](/Communication/RulesToBetterEmail/Pages/ImportanceOfAGoodSubject.aspx "Realize the Importance of a Good Email Subject").
+You should always realize [realize the importance of a good email subject](/Communication/RulesToBetterEmail/Pages/ImportanceOfAGoodSubject.aspx "Realize the Importance of a Good Email Subject").
 
