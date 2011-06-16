@@ -12,9 +12,7 @@ authors:
 ---
 
 
-Some email threads go on forever... sometimes the topic subtly changes... so when should you change the subject?
- The answer is "cautiously".
- The reason is email threading.
+Some email threads go on forever... sometimes the topic subtly changes... so when should you change the subject? The answer is "cautiously". The reason is email threading.
 
 So when do you change it?
 
@@ -27,4 +25,8 @@ So when do you change it?
 
 
 Remember, never forget the [importance of a good email subject](/Communication/RulesToBetterEmail/Pages/ImportanceOfAGoodSubject.aspx "Realize the Importance of a Good Email Subject") in improving communications.
+
+![](/Communication/RulesToBetterEmail/PublishingImages/SarahPalin.jpg)
+
+Figure: Keep your email subject description up-to-date. Out of date subjects can be misleading.
 
