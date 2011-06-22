@@ -9,12 +9,12 @@ authors:
 
 ---
 
- There is a place for Silverlight, but it can only be the 'richer' experience. In some case it is better not to use Silverlight for Data Entry Form and also content publisher should have alternative of Silverlight for Andriod & iOS user.<br> 
+ There is a place for Silverlight, but it can only be the 'richer' experience. In some case it is better not to use Silverlight for Data Entry Form and also content publisher should have alternative of Silverlight for Andriod & iOS user.  
 **Mobile Device: 
 
 ![Silverlight in iPad doesn't work](/SoftwareDevelopment/RulesToBetterSilverLight/PublishingImages/SilverlightInIPad.png)
-<br>    Figure: Silverlight does not work on an iPad, It can't be only experience. ** **
-<br>    ** Further Reading: [PCWorld](http&#58;//www.pcworld.com/article/193540/ipad_proves_that_apple_wants_to_kill_flash.html).
+    Figure: Silverlight does not work on an iPad, It can't be only experience. ** **
+    ** Further Reading: [PCWorld](http&#58;//www.pcworld.com/article/193540/ipad_proves_that_apple_wants_to_kill_flash.html).
 
 **Data Entry Forms**
 
@@ -41,7 +41,7 @@ YES. System.Net.Sockets.Socket Class provides a set of methods and properties fo
 
 **For interactive charts in a BI (*****Business Intelligence*****) solution **
 
-NO. There are some aftermarket solutions available. Notable are Telerik Silverlight Control , [Infragistics](http&#58;//www.infragistics.com/dotnet/netadvantage/silverlight/data-visualization.aspx#Overview) Silverlight Data Visualization. [Telerik](http&#58;//www.telerik.com/products/new-silverlight-controls.aspx) provides BI solution using Advanced GridView, Charts with zooming, scrolling, multi-level resource grouping. Both solutions use shared API across Silverlight and WPF, as a result product user can visualize data in more flexible way. 
+NO. There are some aftermarket solutions available. Notable are Telerik Silverlight Control , [Infragistics](http&#58;//www.infragistics.com/dotnet/netadvantage/silverlight/data-visualization.aspx#Overview)Silverlight Data Visualization. [Telerik](http&#58;//www.telerik.com/products/new-silverlight-controls.aspx) provides BI solution using Advanced GridView, Charts with zooming, scrolling, multi-level resource grouping. Both solutions use shared API across Silverlight and WPF, as a result product user can visualize data in more flexible way. 
 
  
 
