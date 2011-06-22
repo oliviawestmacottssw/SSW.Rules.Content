@@ -9,16 +9,16 @@ authors:
 
 ---
 
- There is a place for Silverlight, but it can only be the 'richer' experience. In some case it is better not to use Silverlight for Data Entry Form and also content publisher should have alternative of Silverlight for Andriod & iOS user.  
+ There is a place for Silverlight, but it can only be the 'richer' experience. In some case it is better not to use Silverlight for Data Entry Form and also content publisher should have alternative of Silverlight for Andriod & iOS user. <br> 
 **Mobile Device: 
 
 ![Silverlight in iPad doesn't work](/SoftwareDevelopment/RulesToBetterSilverLight/PublishingImages/SilverlightInIPad.png)
-    Figure: Silverlight does not work on an iPad, It can't be only experience. ** **
-    ** Further Reading: [PCWorld](http&#58;//www.pcworld.com/article/193540/ipad_proves_that_apple_wants_to_kill_flash.html).
+<br>    Figure: Silverlight does not work on an iPad, It can't be only experience. ** **
+<br>    ** Further Reading: [PCWorld](http&#58;//www.pcworld.com/article/193540/ipad_proves_that_apple_wants_to_kill_flash.html).
 
 **Data Entry Forms**
 
-       NO. HTML must be the default experience. Microsoft says for Business Apps, but be careful. Silverlight is \*Not\* for data entry forms. Tab Index Implement is very hard and end result isn’t consistent among popular browser. Users frequently uses tab to move from Text Box to another Text Box and require consistence experience while entering data using different browser. HTML 5 introduced autofocus, placeholder and validation feature which is useful for creating consistent Data Entry form for various browser.
+NO. HTML must be the default experience. Microsoft says for Business Apps, but be careful. Silverlight is \*Not\* for data entry forms. Tab Index Implement is very hard and end result isn’t consistent among popular browser. Users frequently uses tab to move from Text Box to another Text Box and require consistence experience while entering data using different browser. HTML 5 introduced autofocus, placeholder and validation feature which is useful for creating consistent Data Entry form for various browser.
 
  Useful Links: [HTML 5 Form Elements](http&#58;//www.xoriant.com/blog/software-product-development/html5-series-part-3-html5-form-elements.html)
 
