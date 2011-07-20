@@ -15,7 +15,7 @@ authors:
 
 <br>Always ensure that you complete the following checklist and *always*send the email confirming the handover is complete. 
 
-<br>Here are the 7 steps you should follow for a good handover.     <br> 
+<br>Here are the 8 steps you should follow for a good handover.     <br> 
 1. Confirm current tasks
 2. Confirm future tasks
 3. Confirm the primary contacts
@@ -26,10 +26,12 @@ authors:
     - Database
     - Documents
     - How to Build and Package
+    - Testing Steps and users and passwords to access the test and staging servers
     - Deployment Steps
     - Servers and Passwords
     - Failure & Recovery Steps
-7. Complete Handover by sending an email with: As per our meeting the handover has been completed to my satisfaction
+7. Test that the users, passwords, urls and server details provided in the handover are correct by logging in with each
+8. Complete the Handover by sending an email with: As per our meeting the handover has been completed to my satisfaction
 
 <font class="ms-rteCustom-GreyBox"><p><b>From&#58;&#160;Andy<br>
 To&#58;&#160;Gracia<br>
@@ -112,5 +114,5 @@ Subject&#58;&#160;SSW - Northwind Handover</b> </p>
 </ul></font>**Figure: Good Example - This handover has lots of URLs and is complete**
 
 If you need to handover only a single task there are more details here:
-[http://rules.ssw.com.au/Communication/RulesToBetterEmail/Pages/HandOverTask.aspx](/Communication/RulesToBetterEmail/Pages/HandOverTask.aspx)
+[http://rules.ssw.com.au/Communication/RulesToBetterEmail/Pages/HandOverTask.aspx](/do-you-know-how-to-hand-over-tasks-%28aka-emails%29-to-others)
 
