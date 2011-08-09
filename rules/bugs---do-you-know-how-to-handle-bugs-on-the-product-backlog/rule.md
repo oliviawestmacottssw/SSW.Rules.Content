@@ -31,6 +31,9 @@ See [Do you know when to create bugs?](/Management/RulesToBetterScrumUsingTFS/Pa
     - Prevents small Bugs taking up a whole Story Point
 2. ## Using Visual Studio Scrum 1.0
     In the Visual Studio Scrum template bugs are just another PBI and you can assign a business priority and an effort estimate in Story Points. Bugs that make the cut for the next sprint can be broken down into tasks and estimated as required.
+    As bugs from previous sprints are just PBI’s, the PO agrees to a list of bugs that will be fixed in the current Sprint.
+    The team just fixes any **newly** bugs they introduced in the current sprint.
+    If the team finds bugs due to functionality accepted in a previous sprint they log it as a PBI and will complete the fix in a future sprint, unless it is a critical bug, in which case they raise it as an impediment to the current sprint to the PO.
 
 
 Examples:
