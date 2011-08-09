@@ -16,7 +16,7 @@ authors:
 ---
 
 
-An internal architecture review is the application of the [Test Please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx) principle against the design phase. An architecture review conducted during every release minimises errors in design which saves future recitification costs.
+An internal architecture review is the application of the [Test Please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx) principle against the design phase. An architecture review conducted during every release minimizes errors in design which saves future rectification costs.
 
 Schedule a 4 hour (2 architects x 2 hours) review during all releases. While it may not be so important to conduct a review in every development release, they are compulsory for a specification release.
 
@@ -37,7 +37,7 @@ The following are items that are address in a architecture/code review:
 - Web client
 - Smart client (any disconnected users?)
 - Technology choices
-    - Persistance layer (SQL Server, Access, SQL Express, LINQ, netTiers)
+    - Persistence layer (SQL Server, Access, SQL Express, LINQ, netTiers)
     - Business layer
     - UI
     - Communications
