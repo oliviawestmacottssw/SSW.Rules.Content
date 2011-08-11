@@ -15,17 +15,20 @@ authors:
 
 
 
-<span class='intro'> <p>​A fixed price - fixed scope project sounds good but doesn't always end up with the result either the client or the developers expect and sometimes the key players can end up disappointed.​</p><p>There are 4 main reasons...</p> </span>
+<span class='intro'> 
+  <p>A fixed price - fixed scope project is normally a lose-lose contract.</p>
+<p>There are 4 main reasons...</p>
+ </span>
 
 
   <ol>
     <li>You can’t predict the future
     <ul>
         <li>Waterfall project planning has been proven to not  deliver over 30 years of trying... The Gartner Group says 74% of failed software  projects in the last 2 years</li>
-        <li>See the Con​e of Uncertainty to see the range of cost  change at different stages through a project&#58;<span class="ms-rteCustom-FigureNormal"></span></li>
-</ul>
-<span><img class="ms-rteCustom-ImageArea" alt="Cone of Uncertainty" src="/PublishingImages/cone-of-uncertainty.jpg" />
-        <span class="ms-rteCustom-FigureNormal">Figure&#58; The cone of uncertainty in software cost and size estimation<span style="display&#58;inline-block;"></span></span></span><ul>
+        <li>See the Code of Uncertainty to see the range of cost  change at different stages through a project&#58;
+        <img src="/Management/RulesToBeingSoftwareConsultants-DealingWithClients/PublishingImages/cone-of-uncertainty.jpg" alt="Cone of Uncertainty" class="ms-rteCustom-ImageArea" />
+        <span class="ms-rteCustom-FigureNormal">Figure&#58; The cone of uncertainty in software cost and size estimation</span>
+        </li>
     </ul>
     </li>
     <li>Changes requests are an extra cost and slow progress
@@ -45,7 +48,7 @@ authors:
     </ul>
     </li>
 </ol>
-<p>Instead,  the use of an iterative methodology like <a href="http&#58;//www.ssw.com.au/ssw/Consulting/Scrum.aspx">SCRUM</a> that provides constant progress  reporting and gives the client agility to implement the required features with  adjustments during the project, works to reduce the cost and also provides the  most important features paid as Time and Materials in a working solution  sooner.</p>
+<p>Instead,  the use of an iterative methodology like SCRUM that provides constant progress  reporting and gives the client agility to implement the required features with  adjustments during the project, works to reduce the cost and also provides the  most important features paid as Time and Materials in a working solution  sooner.</p>
 
 
 
