@@ -13,7 +13,7 @@ authors:
 
 ---
 
- Looking manually through your Outlook sent items is plain donkey work, that you should not be doing. The better way is: On Windows XP and Office 2003 use the Windows Desktop Search (or Google Desktop Search). On Vista and Office 2007 it is all built in.  
+ Looking manually through your Outlook sent items is plain donkey work that you should not be doing. The better way is: On Windows XP and Office 2003 use the Windows Desktop Search (or Google Desktop Search). On Widows7, Vista and Office 2007 and 2010 it is all built in.  
 ![Figure&#58; Bad Example&#58; Opening your sent Items and manually looking at the emails can take minutes ](/Communication/RulesToBetterEmail/PublishingImages/SearchingManually_small.jpg) 
 <font class="ms-rteCustom-FigureBad" size="+0">Figure&#58; Bad Example&#58; Opening your sent items and manually looking at the emails can take minutes </font>
 
@@ -26,7 +26,7 @@ If using Microsoft Outlook 2007, then use the search option to find your sent it
 ![Figure&#58; Good Example - of searching sent emails using Windows Desktop Search](/Communication/RulesToBetterEmail/PublishingImages/WindowsOutlook2007Searching_small.jpg)
 <font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; Good Example - of searching sent emails using Windows Desktop Search</font>
 
-We can also use Exchange Reporter to see the number of emails sent by each users.
+We can also use Exchange Reporter to see the number of emails sent by each user.
 
 ![Exchange Reporter](/Communication/RulesToBetterEmail/PublishingImages/ExchangeReporter_small.jpg)
 <font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; Good Example - of searching sent emails using Exchange Reporter</font>
