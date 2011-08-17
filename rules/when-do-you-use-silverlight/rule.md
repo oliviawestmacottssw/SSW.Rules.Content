@@ -41,7 +41,7 @@ YES. System.Net.Sockets.Socket Class provides a set of methods and properties fo
 
 **For interactive charts in a BI (*****Business Intelligence*****) solution **
 
-NO. There are some aftermarket solutions available. Notable are Telerik Silverlight Control , [Infragistics](http&#58;//www.infragistics.com/dotnet/netadvantage/silverlight/data-visualization.aspx#Overview)Silverlight Data Visualization. [Telerik](http&#58;//www.telerik.com/products/new-silverlight-controls.aspx) provides BI solution using Advanced GridView, Charts with zooming, scrolling, multi-level resource grouping. Both solutions use shared API across Silverlight and WPF, as a result product user can visualize data in more flexible way. 
+NO. There are some aftermarket solutions available. Notable are Telerik Silverlight Control , [Infragistics](http&#58;//www.infragistics.com/dotnet/netadvantage/silverlight/data-visualization.aspx)Silverlight Data Visualization. [Telerik](http&#58;//www.telerik.com/products/new-silverlight-controls.aspx) provides BI solution using Advanced GridView, Charts with zooming, scrolling, multi-level resource grouping. Both solutions use shared API across Silverlight and WPF, as a result product user can visualize data in more flexible way. 
 
  
 
