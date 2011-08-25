@@ -12,5 +12,14 @@ Next step check that you have primary and secondary (and even better tertiary) M
 ![SMTP test](/Communication/RulesToBetterEmail/PublishingImages/MXToolbox-4.jpg)Figure: Seeing at least 2 MX records is good... Run an SMTP Test to test mail servers. So Step 2 is good
 If success on both steps the error is most likely on the senders side. Send them the an email to check their mail settings.
 
-Dear xxx<br>As per this rule on bounced emails http://xxxxx<br><br>I have checked Step 1 – it is good<br>I have checked Step 2 – it is good<br><br>The problem is likely your end
+
+Dear xxx
+
+As per this rule on bounced emails http://rules.ssw.com.au/Communication/RulesToBetterEmail/Pages/Do-you-know-what-to-do-with-bounced-email.aspx
+
+- I have checked Step 1 – it is good
+- I have checked Step 2 – it is good
+    The problem is likely your end
+
+
 Figure: What to send the person 
