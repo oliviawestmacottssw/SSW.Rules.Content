@@ -15,46 +15,295 @@ authors:
 
 
 
-<span class='intro'> <p>You have data in CRM 2011, so how do you see it in SharePoint? The data that is stored in CRM entities should be available in SharePoint so users can find and use the data in areas such as&#58;<br></p>
-<ul><li>SharePoint search<br></li><li>SharePoint reporting (if you are using SQL Reporting Services in integrated mode)<br></li></ul>
+<span class='intro'> This field should not be null (Remove me when you edit this field). </span>
 
-<p>There are many ways to get to this data, let's go through them&#58;</p> </span>
+<p>You have data in CRM 2011, so how do you see it in SharePoint? The data that is stored in CRM entities should be available in SharePoint so users can find and use the data in areas such as&#58;</p>
 
-<h3 class="ssw15-rteElement-H3">Option 1&#58; SharePoint BCS Adapter (provided by the CRM Team) RECOMMENDED</h3><p>This BCS Adapter for CRM 2011 is from the CRM team (It does all of the BCS work for you by interrogating the CRM metadata service).</p><p>Summary&#58; SharePoint BCS -&gt; Pre-built Adapter (.NET Assembly) -&gt; CRM web services - &gt; CRM database</p><table cellspacing="0" cellpadding="0" border="1"><tbody><tr><td width="297" valign="top"><p>Pros</p></td><td width="295" valign="top"><p>Cons</p></td></tr><tr><td width="297" valign="top"><p> 
-               <img width="9" border="0" title="clip_image002[8]" alt="clip_image002[8]" src="/PublishingImages/correct.gif" height="9" style="border-width&#58;0px;background-image&#58;none;display&#58;inline;margin&#58;5px;" />Read/Write</p><p> 
-               <img width="9" border="0" title="clip_image002[9]" alt="clip_image002[9]" src="/PublishingImages/correct.gif" height="9" style="border-width&#58;0px;background-image&#58;none;display&#58;inline;margin&#58;5px;" />Minimal coding</p><p> 
-               <img width="9" border="0" title="clip_image002[10]" alt="clip_image002[10]" src="/PublishingImages/correct.gif" height="9" style="border-width&#58;0px;background-image&#58;none;display&#58;inline;margin&#58;5px;" />Easiest to implement</p><p> 
-               <img width="9" border="0" title="clip_image002[11]" alt="clip_image002[11]" src="/PublishingImages/correct.gif" height="9" style="border-width&#58;0px;background-image&#58;none;display&#58;inline;margin&#58;5px;" />The likely way forward (Best Practice as Microsoft)</p></td><td width="295" valign="top"><p> 
-               <img width="9" border="0" title="clip_image004[13]" alt="clip_image004[13]" src="/PublishingImages/wrong.gif" height="9" style="border-width&#58;0px;background-image&#58;none;display&#58;inline;margin&#58;5px;" />Needs to be deployed and published to the web&#160;server.</p><p> 
-               <img width="9" border="0" title="clip_image004[14]" alt="clip_image004[14]" src="/PublishingImages/wrong.gif" height="9" style="border-width&#58;0px;background-image&#58;none;display&#58;inline;margin&#58;5px;" />Less performance than SQL filter views directly</p><p> 
-               <img width="9" border="0" title="clip_image004[15]" alt="clip_image004[15]" src="/PublishingImages/wrong.gif" height="9" style="border-width&#58;0px;background-image&#58;none;display&#58;inline;margin&#58;5px;" />Only recently released.</p></td></tr></tbody></table><dl class="image"><dt> <img border="0" title="clip_image010" alt="clip_image010" src="/PublishingImages/figure5.jpg" style="width&#58;582px;" />&#160;​<br></dt></dl><ul>
+<p>- SharePoint search</p>
 
-         <strong>More information&#58;</strong>
-         <p></p><p>Download from Microsoft</p><p>Read &quot;<em>Connecting to CRM Online 2011 with SharePoint 2010 Business Connectivity Services</em>&quot;</p><p>Run tool to generate the XML mapping (.BDCM)</p><p>This solution uses a BCS Connector – a .NET Assembly responsible for mapping external data into a form usable by SharePoint. This component is loaded and hosted within SharePoint 2010 and communicates with CRM via the CRM Proxy Service.</p><h3 class="ssw15-rteElement-H3">Option 2&#58; SQL Server Filtered Views<br></h3><p>CRM recommends that you *don't* read from the Tables, so they provide SQL Views for this purpose.</p><p>Summary&#58; SharePoint BCS -&gt; CRM database</p><table cellspacing="0" cellpadding="0" border="1" style="width&#58;592px;height&#58;202px;"><tbody><tr><td width="297" valign="top"><p>Pros</p></td><td width="295" valign="top"><p>Cons</p></td></tr><tr><td width="297" valign="top"><p> ​<img border="0" title="clip_image002[2]" alt="clip_image002[2]" src="/PublishingImages/correct.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Best performance <br><br></p><p> ​<img border="0" title="clip_image002[2]" alt="clip_image002[2]" src="/PublishingImages/correct.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Codeless<br><br></p></td><td width="295" valign="top"><p> 
-                        <img width="9" height="9" border="0" title="clip_image004" alt="clip_image004" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Read-only</p><p> 
-                        <img width="9" height="9" border="0" title="clip_image004[1]" alt="clip_image004[1]" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Not available for hosted CRM</p><p> 
-                        <img width="9" height="9" border="0" title="clip_image004[2]" alt="clip_image004[2]" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /> Security issues as you are exposing the view.</p></td></tr></tbody></table><p>Filtered Views in Microsoft CRM provide access to the data available that supports providing picklist name and id values (lookup tables).</p><p class="ssw-rteStyle-Caption"> 
-            <b>More information&#58; </b></p><p>If you only want read-only for CRM on-premises data for SharePoint users, this solution is fine. You create the External Content Type directly against the Filtered Views in the CRM database.&#160;</p><p> 
-            <a href="http&#58;//msdn.microsoft.com/en-us/library/gg328467.aspx">http&#58;//msdn.microsoft.com/en-us/library/gg328467.aspx</a></p><dl class="image"><dt> <img width="644" height="266" border="0" title="clip_image005" alt="clip_image005" src="/PublishingImages/figure1.jpg" /> </dt><dd>Figure&#58; The result of &quot;SELECT * FROM FilteredCtx_Project&quot;. Use Office SharePoint Designer to hook this up</dd></dl><h3 class="ssw15-rteElement-H3">Option 3&#58; Web Services</h3><p>CRM provides web services.</p><p>Summary&#58; SharePoint BCS -&gt; Code calling CRM web services - &gt; CRM database</p><table cellspacing="0" cellpadding="0" border="1"><tbody><tr><td width="297" valign="top"><p>Pros</p></td><td width="295" valign="top"><p>Cons</p></td></tr><tr><td width="297" valign="top"><p> 
-                        <img width="9" height="9" border="0" title="clip_image002[3]" alt="clip_image002[3]" src="/PublishingImages/correct.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Read/Write</p></td><td width="295" valign="top"><p> 
-                        <img width="9" height="9" border="0" title="clip_image004[3]" alt="clip_image004[3]" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Needs lots of code and test work.</p><p> 
-                        <img width="9" height="9" border="0" title="clip_image004[4]" alt="clip_image004[4]" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Needs to be deployed and published to the web server.</p><p> 
-                        <img width="9" height="9" border="0" title="clip_image004[5]" alt="clip_image004[5]" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Less performance than SQL filter views directly #1</p></td></tr></tbody></table><p class="ssw-rteStyle-Tip">#1 Note&#58; Performance could be improved by making the reads from the views and the writes through the web service</p><p class="ssw-rteStyle-Caption"> 
-            <b>More information&#58;&#160; </b></p><p>1. Use BCS in VS 2010</p><p>2. Write code that calls the CRM web services (that access the CRM data)</p><p>3. Test</p><p>4. Deploy <br></p><h3 class="ssw15-rteElement-H3">Option 4&#58; Expose OData from CRM as RSS</h3><p>The CRM 2011 OData Query Designer can be used to build queries to expose the data from CRM as RSS</p><table cellspacing="0" cellpadding="0" border="1"><tbody><tr><td width="297" valign="top"><p>Pros</p></td><td width="295" valign="top"><p>Cons</p></td></tr><tr><td width="297" valign="top"><p> 
-                        <img width="9" height="9" border="0" title="clip_image002[4]" alt="clip_image002[4]" src="/PublishingImages/correct.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Easy configuration</p></td><td width="295" valign="top"><p> 
-                        <img width="9" height="9" border="0" title="clip_image004[6]" alt="clip_image004[6]" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />50 records limit. Need to page through the results.</p><p> 
-                        <img width="9" height="9" border="0" title="clip_image004[7]" alt="clip_image004[7]" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Possible issues with firewalls and proxies because it uses Integrated Security for authentication.</p><p> 
-                        <img width="9" height="9" border="0" title="clip_image004[8]" alt="clip_image004[8]" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Read-Only</p><p> 
-                        <img width="9" height="9" border="0" title="clip_image004[9]" alt="clip_image004[9]" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />No easy way to consume</p></td></tr></tbody></table><p> 
-            <b> <br></b> <b>Note&#58; </b>You can really only call the OData endpoint from an application that already has an authentication cookie with the CRM server. <br>i.e. you can't impersonate and call it like you can the standard WCF endpoints <br>So it is really only suited to calling from Silverlight and JavaScript web resources that are delivered inside CRM (because they have the cookie)</p><p class="ssw-rteStyle-Caption"> 
-            <b>More information&#58; </b></p><p>The first step is to expose the data&#58;</p><p>1. Install <a href="http&#58;//crm2011odatatool.codeplex.com/">http&#58;//crm2011odatatool.codeplex.com</a></p><p>2. Make a query</p><dl class="image"><dt> <img width="539" height="391" border="0" title="clip_image006" alt="clip_image006" src="/PublishingImages/figure2.jpg" /> </dt><dd>Figure&#58; Designing a query</dd></dl><p>3. See the data</p><dl class="image"><dt> <img width="547" height="347" border="0" title="clip_image007" alt="/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure3.jpg" src="/PublishingImages/figure3.jpg" /> </dt><dd>Figure&#58; See the data - RSS source for xtc_countrySet</dd></dl><p>The second step (and the problem) is consuming the data</p><dl class="image"><dt> <img width="244" height="87" border="0" title="clip_image009" alt="clip_image009" src="/PublishingImages/figure4.jpg" /> </dt><dd>Figure&#58; BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData</dd></dl><p>In summary, CRM 2011 can expose OData, but SharePoint 2010 BCS doesn't consume OData.</p><p>The 3 options to consume the OData/RSS data&#58;</p><p>Consume the OData by SQL Server, via TSQL ???&#160;&#160;&#160; Then use BCS to call SQL Server. <br>Summary&#58; SharePoint BCS -&gt; DataSourceType&#58; SQL Server -&gt; OData- &gt; CRM database</p><p>You would need to be crazy to go down this route <a href="http&#58;//www.vishalseth.com/post/2009/12/22/Call-a-webservice-from-TSQL-%28Stored-Procedure%29-using-MSXML.aspx">http&#58;//www.vishalseth.com/post/2009/12/22/Call-a-webservice-from-TSQL-(Stored-Procedure)-using-MSXML.aspx</a></p><p>· Consume the OData by a BCS adapter + code calling web services (same story as above). <br>Summary&#58; SharePoint BCS -&gt; code calling OData- &gt; CRM database</p><p>· Consume the RSS by &quot;SharePoint RSS view web part&quot; directly. <br>Summary&#58; SharePoint RSS view web part -&gt; OData- &gt; CRM database <br>(not recommended as it could not be used in &quot;SharePoint Search&quot;)</p><p>So OData is all things horrible because it is hard to eat &#58;-(</p><h3 class="ssw15-rteElement-H3">Option 5&#58; BizTalk<br></h3><p>Biztalk is built for mapping systems together, unfortunately, this solution is only considered for large enterprises.</p><p>Summary&#58; SharePoint BCS -&gt; BizTalk Database - &gt; CRM database</p><table cellspacing="0" cellpadding="0" border="1"><tbody><tr><td width="297" valign="top"><p>Pros</p></td><td width="295" valign="top"><p>Cons</p></td></tr><tr><td width="297" valign="top"><p> 
-                        <img width="9" height="9" border="0" title="clip_image002[5]" alt="clip_image002[5]" src="/PublishingImages/correct.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Read/Write</p><p> 
-                        <img width="9" height="9" border="0" title="clip_image002[6]" alt="clip_image002[6]" src="/PublishingImages/correct.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />The BizTalk data centre can also provide data for any system.</p><p> 
-                        <img width="9" height="9" border="0" title="clip_image002[7]" alt="clip_image002[7]" src="/PublishingImages/correct.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Requires little code if users already have BizTalk</p></td><td width="295" valign="top"><p> 
-                        <img width="9" height="9" border="0" title="clip_image004[10]" alt="clip_image004[10]" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />BizTalk &#58;-)</p><p> 
-                        <img width="9" height="9" border="0" title="clip_image004[11]" alt="clip_image004[11]" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" />Deployment - Needs external work to deploy BizTalk server.</p><p> 
-                        <img width="9" height="9" border="0" title="clip_image004[12]" alt="clip_image004[12]" src="/PublishingImages/wrong.gif" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /> Licence Cost</p></td></tr></tbody></table>
+<p>- SharePoint reporting (if you are using SQL Reporting Services in integrated mode)</p>
 
-         <h3 class="ssw15-rteElement-H3">Option 6&#58; OData 3rd Party solutions (doesn't exist)<br></h3><p>Today SharePoint 2010 exposes lists and document libraries as OData, but does not natively consume OData.</p><p>What does this mean?</p><ul><li>CRM 2011 exposes it data as OData, but cannot consume OData</li><li>SharePoint 2010 exposes it data as OData, but cannot consume OData</li></ul><p>....and there are no 3rd party solutions to solve this...</p></ul>​
+<p>There are many ways to get to this data, let's go through them&#58;</p>
+
+<p><b>Option 1&#58; SQL Server Filtered Views </b></p>
+
+<p>CRM recommends that you *don't* read from the Tables, so they provide SQL Views for this purpose.</p>
+
+<p>Summary&#58; SharePoint BCS -&gt; CRM database</p>
+
+<table cellspacing="0" cellpadding="0" border="1" style="width&#58;592px;height&#58;202px;"><tbody>
+    <tr>
+      <td width="297" valign="top">
+        <p>Pros</p>
+      </td>
+
+      <td width="295" valign="top">
+        <p>Cons</p>
+      </td>
+    </tr>
+
+
+
+    <tr>
+      <td width="297" valign="top">
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00225.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif" alt="clip_image002" title="clip_image002" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Easiest</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00212.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif" alt="clip_image002[1]" title="clip_image002[1]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Best performance</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00222[1].gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif" alt="clip_image002[2]" title="clip_image002[2]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Codeless</p>
+      </td>
+
+      <td width="295" valign="top">
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00433.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004" title="clip_image004" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Read-only</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00412[1].gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[1]" title="clip_image004[1]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Not available for hosted CRM</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00422.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[2]" title="clip_image004[2]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a> Security issues as you are exposing the view.</p>
+      </td>
+    </tr>
+  </tbody></table>
+
+<p>Filtered Views in Microsoft CRM provide access to the data available that supports providing picklist name and id values (lookup tables).</p>
+
+<p><b>More information&#58; </b></p>
+
+<p>If you only want read-only for CRM on-premises data for SharePoint users, this solution is fine. You create the External Content Type directly against the Filtered Views in the CRM database.&#160; </p>
+
+<p><a href="http&#58;//msdn.microsoft.com/en-us/library/gg328467.aspx">http&#58;//msdn.microsoft.com/en-us/library/gg328467.aspx</a></p>
+
+<p><a href="/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure1.jpg"><img width="644" border="0" height="266" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure1.jpg" alt="clip_image005" title="clip_image005" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a></p>
+
+<p><b>Figure&#58; The result of “SELECT * FROM FilteredCtx_Project”. Use Office SharePoint Designer to hook this up.</b></p>
+
+<p><b>OPTION 2&#58; Web Services</b></p>
+
+<p>CRM provides web services.</p>
+
+<p>Summary&#58; SharePoint BCS -&gt; Code calling CRM web services - &gt; CRM database</p>
+
+<table cellspacing="0" cellpadding="0" border="1"><tbody>
+    <tr>
+      <td width="297" valign="top">
+        <p>Pros</p>
+      </td>
+
+      <td width="295" valign="top">
+        <p>Cons</p>
+      </td>
+    </tr>
+
+
+
+    <tr>
+      <td width="297" valign="top">
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00232.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif" alt="clip_image002[3]" title="clip_image002[3]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Read/Write</p>
+      </td>
+
+      <td width="295" valign="top">
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00432[1].gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[3]" title="clip_image004[3]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Needs lots of code and test work.</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00442.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[4]" title="clip_image004[4]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Needs to be deployed and published to the web server.</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00452.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[5]" title="clip_image004[5]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Less performance than SQL filter views directly #1</p>
+      </td>
+    </tr>
+  </tbody></table>
+
+<p>#1 Note&#58; Performance could be improved by making the reads from the views and the writes through the web service</p>
+
+<p><b>More information&#58;&#160; </b></p>
+
+<p>1. Use BCS in VS 2010</p>
+
+<p>2. Write code that calls the CRM web services (that access the CRM data)</p>
+
+<p>3. Test</p>
+
+<p>4. Deploy</p>
+
+<p><b>OPTION 3&#58; Expose OData from CRM as RSS</b></p>
+
+<p>The CRM 2011 OData Query Designer can be used to build queries to expose the data from CRM as RSS</p>
+
+<table cellspacing="0" cellpadding="0" border="1"><tbody>
+    <tr>
+      <td width="297" valign="top">
+        <p>Pros</p>
+      </td>
+
+      <td width="295" valign="top">
+        <p>Cons</p>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td width="297" valign="top">
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00242.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif" alt="clip_image002[4]" title="clip_image002[4]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Easy configuration</p>
+      </td>
+
+      <td width="295" valign="top">
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00462.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[6]" title="clip_image004[6]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>50 records limit. Need to page through the results.</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00472.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[7]" title="clip_image004[7]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Possible issues with firewalls and proxies because it uses Integrated Security for authentication. </p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00482.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[8]" title="clip_image004[8]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Read-Only</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00492.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[9]" title="clip_image004[9]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>No easy way to consume</p>
+      </td>
+    </tr>
+  </tbody></table>
+
+<p><b>
+    <br></b>Note&#58; You can really only call the OData endpoint from an application that already has an authentication cookie with the CRM server. 
+
+  <br>i.e. you can't impersonate and call it like you can the standard WCF endpoints 
+
+  <br>So it is really only suited to calling from Silverlight and JavaScript web resources that are delivered inside CRM (because they have the cookie)</p>
+
+<p><b>More information&#58; </b></p>
+
+<p>The first step is to expose the data&#58; </p>
+
+<p>1. Install <a href="http&#58;//crm2011odatatool.codeplex.com/">http&#58;//crm2011odatatool.codeplex.com</a></p>
+
+<p>2. Make a query </p>
+
+<p><a href="/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure2.jpg"><img width="644" border="0" height="467" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure2.jpg" alt="clip_image006" title="clip_image006" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a></p>
+
+<p><b>Figure&#58; Designing a query</b></p>
+
+<p>3. See the data</p>
+
+<p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image0075.jpg"><img width="644" border="0" height="408" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure3.jpg" alt="/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure3.jpg" title="clip_image007" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a></p>
+
+<p><b>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Figure&#58; See the data - RSS source for xtc_countrySet</b></p>
+
+<p>The second step (and the problem) is consuming the data</p>
+
+<p><b><a href="/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure4.jpg"><img width="244" border="0" height="87" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure4.jpg" alt="clip_image009" title="clip_image009" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a></b></p>
+
+<p><b>Figure&#58; BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData</b></p>
+
+<p>In summary, CRM 2011 can exposes OData, but SharePoint 2010 BCS doesn't consume OData.</p>
+
+<p>The 3 options to consume the OData/RSS data&#58;</p>
+
+<p>· Consume the OData by SQL Server, via TSQL ???&#160;&#160;&#160; Then use BCS to call SQL Server. 
+  <br>Summary&#58; SharePoint BCS -&gt; DataSourceType&#58; SQL Server -&gt; OData- &gt; CRM database</p>
+
+<p>You would need to be crazy to go down this route <a href="http&#58;//www.vishalseth.com/post/2009/12/22/Call-a-webservice-from-TSQL-%28Stored-Procedure%29-using-MSXML.aspx">http&#58;//www.vishalseth.com/post/2009/12/22/Call-a-webservice-from-TSQL-(Stored-Procedure)-using-MSXML.aspx</a></p>
+
+<p>· Consume the OData by a BCS adapter + code calling web services (same story as above). 
+  <br>Summary&#58; SharePoint BCS -&gt; code calling OData- &gt; CRM database</p>
+
+<p>· Consume the RSS by &quot;SharePoint RSS view web part&quot; directly. 
+  <br>Summary&#58; SharePoint RSS view web part -&gt; OData- &gt; CRM database 
+
+  <br>(not recommended as it could not be used in &quot;SharePoint Search&quot;)</p>
+
+<p>So OData is all things horrible because it is hard to eat &#58;-(</p>
+
+<p><b>OPTION 4&#58; BizTalk</b></p>
+
+<p>Biztalk is built for mapping systems together, unfortunately this solution is only considered for large enterprises.</p>
+
+<p>Summary&#58; SharePoint BCS -&gt; BizTalk Database - &gt; CRM database</p>
+
+<table cellspacing="0" cellpadding="0" border="1"><tbody>
+    <tr>
+      <td width="297" valign="top">
+        <p>Pros</p>
+      </td>
+
+      <td width="295" valign="top">
+        <p>Cons</p>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td width="297" valign="top">
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00252.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif" alt="clip_image002[5]" title="clip_image002[5]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Read/Write</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00262.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif" alt="clip_image002[6]" title="clip_image002[6]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>The BizTalk data centre can also provide data for any system.</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00272.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif" alt="clip_image002[7]" title="clip_image002[7]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Requires little code if users already have BizTalk</p>
+      </td>
+
+      <td width="295" valign="top">
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image004102.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[10]" title="clip_image004[10]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>BizTalk &#58;-)</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image004112.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[11]" title="clip_image004[11]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Deployment - Needs external work to deploy BizTalk server.</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image004122.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[12]" title="clip_image004[12]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Licence Cost</p>
+      </td>
+    </tr>
+  </tbody></table>
+
+<p><b>OPTION 5&#58; SharePoint BCS Adapter (provided by the CRM Team) RECOMMENDED</b></p>
+
+<p>This BCS Adapter for CRM 2011 is from the CRM team (It does all of the BCS work for you by interrogating the CRM metadata service).</p>
+
+<p>Summary&#58; SharePoint BCS -&gt; Pre-built Adapter (.NET Assembly) -&gt; CRM web services - &gt; CRM database</p>
+
+<table cellspacing="0" cellpadding="0" border="1"><tbody>
+    <tr>
+      <td width="297" valign="top">
+        <p>Pros</p>
+      </td>
+
+      <td width="295" valign="top">
+        <p>Cons</p>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td width="297" valign="top">
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00282.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif" alt="clip_image002[8]" title="clip_image002[8]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Read/Write</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image00292.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif" alt="clip_image002[9]" title="clip_image002[9]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Minimal coding</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image002102.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif" alt="clip_image002[10]" title="clip_image002[10]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Easiest to implement</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image002112.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif" alt="clip_image002[11]" title="clip_image002[11]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>The likely way forward (Best Practice as Microsoft)</p>
+      </td>
+
+      <td width="295" valign="top">
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image004132.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[13]" title="clip_image004[13]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Needs to be deployed and published to the web server.</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image004142.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[14]" title="clip_image004[14]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Less performance than SQL filter views directly</p>
+
+        <p><a href="/SoftwareDevelopment/rulestobettercrm/Pages/$clip_image004152.gif"><img width="9" border="0" height="9" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif" alt="clip_image004[15]" title="clip_image004[15]" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;margin&#58;0px;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a>Only recently released.</p>
+      </td>
+    </tr>
+  </tbody></table>
+
+<p><a href="/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure5.jpg"><img width="644" border="0" height="438" src="/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure5.jpg" alt="clip_image010" title="clip_image010" style="background-image&#58;none;border-width&#58;0px;border-style&#58;none;border-color&#58;-moz-use-text-color;padding-left&#58;0px;padding-right&#58;0px;display&#58;inline;padding-top&#58;0px;" /></a> 
+
+  <br><b>Figure&#58; CRM data available in SharePoint</b></p>
+
+<p><b>More information&#58;</b></p>
+
+<p>Download from Microsoft</p>
+
+<p>Read &quot;<i>Connecting to CRM Online 2011 with SharePoint 2010 Business Connectivity Services</i>&quot;</p>
+
+<p>Run tool to generate the XML mapping (.BDCM)</p>
+
+<p>This solution uses a BCS Connector – a .NET Assembly responsible for mapping external data into a form usable by SharePoint. This component is loaded and hosted within SharePoint 2010, and communicates with CRM via the CRM Proxy Service.</p>
+
+<p><b>Option 6&#58; OData 3rd Party solutions (doesn't exist)</b></p>
+
+<p>Today SharePoint 2010 exposes lists and document libraries as OData, but does not natively consume OData.</p>
+
+<p>What does this mean?</p>
+
+<p>- CRM 2011 exposes it data as OData, but cannot consume OData</p>
+
+<p>- SharePoint 2010 exposes it data as OData, but cannot consume OData</p>
+
+<p>....and there are no 3rd party solutions to solve this...</p>
 
 
