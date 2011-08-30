@@ -14,7 +14,9 @@ authors:
 ---
 
  ​Being developers, it's often the case that we have to take our notebooks to visit a client or even home for the day. Using the suspend option is a great way to make sure time isn't wasted. Instead of shutting down and restarting (which as we know can be a lengthy operation) using suspend you can be working again much more quickly, meaning you can utilize that extra 10 mins in the car or on the train.
-   Your notebook should also be configured so that if it is left in suspend for a long period of time (more than 10 minutes) it will automatically  hibernate. However, your notebook should not automatically suspend or hibernate if the lid is simply closed. Both of these settings are in the Power Options in Control Panel.
+ 
+Your notebook should also be configured so that if it is left in suspend for a long period of time (more than 10 minutes) it will automatically  hibernate. However, your notebook should not automatically suspend or hibernate if the lid is simply closed. Both of these settings are in the Power Options in Control Panel.
+
  ![PowerOptions.gif](/Management/DeadTime/PublishingImages/PowerOptions.gif)
 
 
