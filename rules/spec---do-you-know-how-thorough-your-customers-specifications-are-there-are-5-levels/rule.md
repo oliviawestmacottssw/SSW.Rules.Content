@@ -11,9 +11,13 @@ authors:
 
 ---
 
- Types of specifications:<br> 
+ If you get the specification right then your chances of being successful are much higher. Tough conversations are best held early rather than the day before expected delivery.<br>Any idiot can manage success, it takes a pro to prepare for and survive the worst.<br><br><br> 
+#### Types of specifications
+
 1. I have an idea… 
-<br>    Run or verify they have a really hefty bank account
+<br>   Run from this
+or
+verify they have a really hefty bank account!
 2. High Level Requirements Document
 This will read like a wish list with no details and many unanswered questions
 Figure: High Level Requirements are very vague and open to many interpretations
@@ -63,7 +67,4 @@ This is the blueprint for the application. There should be no unanswered questio
 
 Figure: Technical Specifications will become the blueprint of the application. There shouldn’t be any unknowns.
 
-
-If you get the specification right then your chances of being successful are much higher. Tough conversations are best held early rather than the day before expected delivery. 
- Any idiot can manage success, it takes a pro to prepare for and survive the worst
 
