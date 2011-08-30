@@ -13,7 +13,15 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ 
+You have data in CRM 2011, so how do you see it in  SharePoint? The data that is stored in CRM entities should be available  in SharePoint so users can find and use the data in areas such as:
+
+- SharePoint search
+
+- SharePoint reporting (if you are using SQL Reporting Services in integrated mode)
+
+There are many ways to get to this data, let's go through them:
+ 
 You have data in CRM 2011, so how do you see it in SharePoint? The data that is stored in CRM entities should be available in SharePoint so users can find and use the data in areas such as:
 
 - SharePoint search
