@@ -26,7 +26,7 @@ To ensure your meetings are productive and successful, you should:
 ![Meeting without agenda](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/MeetingNoAgenda.JPG) Figure: Bad example - meeting with No Agenda ![](/Management/RulesToBeingSoftwareConsultants-DealingWithClients/PublishingImages/MeetingWithAgenda_1.jpg)Figure: Good example - meeting with Agenda 
 Every Outlook appointment must have:
 
-1. A good subject, to let attendees know the purpose of the meeting, see our rule [Do you realize the importance of a good email Subject?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterEmail.aspX#ImportanceofaGoodSubject)
+1. A good subject, to let attendees know the purpose of the meeting, see our rule [Do you realize the importance of a good email Subject?](/Communication/RulesToBetterEmail/Pages/ImportanceOfAGoodSubject.aspx)
 2. A good description of the location, including detailed information like location name and street
 3. The message itself must contain:
     1. A link to the location with instructions to print it eg. Print this map [www.ssw.com.au/ssw/company/directions](http&#58;//www.ssw.com.au/ssw/company/directions) or a google map link
