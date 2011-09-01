@@ -21,9 +21,10 @@ Once you are ready to start you need to make sure that no one can access the exi
     1. Runinng [TFSQuiesce](http&#58;//support.microsoft.com/kb/950893) (recommended) 
 <br>        or
     2. Turning off TFS Service
-<br>        a. Remote desktop into TFS 2008
-<br>        b. Start IIS
-<br>        c. Right click Team Foundation Server | Stop 
+        1. Remote desktop into TFS 2008
+        2. Start IIS
+        3. Right click Team Foundation Server | Stop
+
 ![](/TFS/RulesToBetterTFS2010Migration/PublishingImages/StopTFSServices.png)
 Figure: You need to stop anyone checking in files
 4. Confirm you can no longer get latest on the Northwind team project
