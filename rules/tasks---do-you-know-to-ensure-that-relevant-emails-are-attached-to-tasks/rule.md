@@ -14,7 +14,7 @@ Often you will receive rich information from your Product Owner (Customer) about
 
 You need to keep these so your Team can refer to it later, and so you can send a “done” when the task has been completed. This preserves the “history” of the task and allows you to keep relevant partied included in any future conversation.
 
-Keep the original email so that you can [reply DONE and delete the email](/Communication/RulesToBetterEmail/Pages/DoneReplyAndDeleteEmail.aspx).
+Keep the original email so that you can reply DONE and delete the email.
 
 But keeping it in your email does not help other members of the team if they complete the task and need to send the “done”.
 
