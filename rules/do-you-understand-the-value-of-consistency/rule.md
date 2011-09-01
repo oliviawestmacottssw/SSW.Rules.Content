@@ -17,7 +17,7 @@ Say we are creating a windows forms application. We can expect to:
 - **Improve quality - because you are following best practices.**
 <br>    For example, which logging library is better out of [Microsoft Application Block](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#ExceptionManagement) or [Log4NET](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#Log4Net).
 - **Improve communications - because people know what to expect.** 
-<br>    For example, when we complete a task we are clear and educate the customer by including a screenshot, the code and the time taken. We are consistent on whether we call it a bug or a feature because we [define what's a bug.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoSuccessfulProjects.aspx#BugDefinition)
+<br>    For example, when we complete a task we are clear and educate the customer by including a screenshot, the code and the time taken. We are consistent on whether we call it a bug or a feature because we [define what's a bug.](/Management/RulesToSuccessfulProjects/Pages/BugDefinition.aspx)
 - **Get straight to the meat of the customer's problem.**
 <br>    For example, our developers don't need to decide whether to implement baseforms or user controls. They already know because it's covered in [Rules to Better Windows Forms Applications.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#UserControls)
 
