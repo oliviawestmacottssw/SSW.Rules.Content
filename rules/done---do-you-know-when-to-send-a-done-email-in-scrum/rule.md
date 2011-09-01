@@ -31,7 +31,7 @@ Most devs don't send 'Done' emails. Do you really expect Product Owners to alway
 
 When you complete a Task that is part of a User Story you need to send a done email to the [Owner of that Story](/Management/RulesToBetterScrumUsingTFS/Pages/OwnerForEveryUserStory.aspx).
 
-You only need to add the Task #, Summary and link to the item in WIWA. Remember that all your tasks should be [under 4 hours](/Management/RulesToBetterScrumUsingTFS/Pages/BreakLargeTasks.aspx), do spending lots of time on a Done Email for a Task would be counter productive. Add more information if required, for example you may have completed the task a different way than previously discussed.
+You only need to add the Task #, Summary and link to the item in WIWA. Remember that all your tasks should be [under 4 hours](/Management/RulesToBetterScrumUsingTFS/Pages/BreakLargeTasks.aspx), do spending lots of time on a [Done Email](/Communication/RulesToBetterEmail/Pages/DoneReplyAndDeleteEmail.aspx) for a Task would be counter productive. Add more information if required, for example you may have completed the task a different way than previously discussed.
 
 Make sure that [every User Story has an Owner](/Management/RulesToBetterScrumUsingTFS/Pages/OwnerForEveryUserStory.aspx) as per the rules.
 
