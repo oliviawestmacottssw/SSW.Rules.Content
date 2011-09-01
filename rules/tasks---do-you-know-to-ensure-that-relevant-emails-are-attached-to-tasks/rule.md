@@ -14,7 +14,7 @@ Often you will receive rich information from your Product Owner (Customer) about
 
 You need to keep these so your Team can refer to it later, and so you can send a “done” when the task has been completed. This preserves the “history” of the task and allows you to keep relevant partied included in any future conversation.
 
-Keep the original email so that you can reply DONE and delete the email.
+Keep the original email so that you can [reply DONE and delete the email](/Communication/RulesToBetterEmail/Pages/DoneReplyAndDeleteEmail.aspx).
 
 But keeping it in your email does not help other members of the team if they complete the task and need to send the “done”.
 
@@ -22,7 +22,7 @@ Worse yet, the description field in Team Foundation Server 2010 (TFS 2010) does 
 
 **More information:**
 
-You should follow the existing [Rules to Better Project Management](/Management/RulesToBetterProjectManagement)  and attach the email to your task so you can refer to and reply to it later when you close the task:
+You should follow the existing [Rules to Better Project Management](/Management/RulestoBetterSpecificationReviews)  and attach the email to your task so you can refer to and reply to it later when you close the task:
 
 - [Do you know what Outlook add-ins you need?](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#OutlookAddin)
 - [Describe the work item request in an email](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#WorkItemEmail)
