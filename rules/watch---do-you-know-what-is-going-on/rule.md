@@ -16,5 +16,5 @@ With any professional consultant or tradesman you should always take a hands-on 
 
 Of course, as your relationship builds with the consultant or tradesman, and they become more aware of your expectations, you can divulge greater trust and leave them to it.
 
-So you should insist that your software consultants [maintain verbal contact](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoSuccessfulProjects.aspx#verbalcontact) with you.
+So you should insist that your software consultants [maintain verbal contact](/Management/RulesToSuccessfulProjects/Pages/Verbalcontact.aspx) with you.
 
