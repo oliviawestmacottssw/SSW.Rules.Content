@@ -54,7 +54,7 @@ YES. Using Silverlight Rich TextBox user can format Text, insert image, DataGrid
 
 **For mapping apps**
 
-YES. Microsoft.Maps.MapControl provides functionality to access Bing Maps. Using script a site can implement map feature by referencing the Bing Maps Silverlight Control XAP file in an object tag. Here are some sample applications:  [Microsoft Bing Map](http&#58;//www.microsoft.com/maps/isdk/silverlight/), [MotoGP Circuit](http&#58;//www.valentinorossi.fr/bingMapMotoGP.htm/MotoGPCircuitPage) & [DeepEarth Project](http&#58;//deepearth.codeplex.com/)
+YES. Microsoft.Maps.MapControl provides functionality to access Bing Maps. Using script a site can implement map feature by referencing the Bing Maps Silverlight Control XAP file in an object tag. Here are some sample applications:  [Microsoft Bing Map](http&#58;//www.microsoft.com/maps/isdk/silverlight/), [MotoGP Circuit](http&#58;//www.valentinorossi.fr/bingMapMotoGP.htm) & [DeepEarth Project](http&#58;//deepearth.codeplex.com/)
 
  
 
