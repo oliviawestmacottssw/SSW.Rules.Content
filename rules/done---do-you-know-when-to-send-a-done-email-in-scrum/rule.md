@@ -17,7 +17,7 @@ Most devs don't send 'Done' emails. Do you really expect Product Owners to alway
  The better approach is:
      - If task/bug came from a client, when it is completed, send the 'Done' email to Product Owner.
      - If the task/bug is your breakdown of a user story (that the developer did to break down a big user story), then only send the ‘Done’ once the entire user story is complete.
-**Note**: Send the ‘Done’ email to the [Owner of that User Story](/Management/RulesToBetterScrumUsingTFS/Pages/OwnerForEveryUserStory.aspx).
+**Note**: Send the ‘Done’ email to the [Owner of that User Story](/Pages/OwnerForEveryUserStory.aspx).
 
 ## Done tips:
 
@@ -29,24 +29,24 @@ Most devs don't send 'Done' emails. Do you really expect Product Owners to alway
 
 ## If you are working on a task:
 
-When you complete a Task that is part of a User Story you need to send a done email to the [Owner of that Story](/Management/RulesToBetterScrumUsingTFS/Pages/OwnerForEveryUserStory.aspx).
+When you complete a Task that is part of a User Story you need to send a done email to the [Owner of that Story](/Pages/OwnerForEveryUserStory.aspx).
 
-You only need to add the Task #, Summary and link to the item in WIWA. Remember that all your tasks should be [under 4 hours](/Management/RulesToBetterScrumUsingTFS/Pages/BreakLargeTasks.aspx), do spending lots of time on a [Done Email](/Communication/RulesToBetterEmail/Pages/DoneReplyAndDeleteEmail.aspx) for a Task would be counter productive. Add more information if required, for example you may have completed the task a different way than previously discussed.
+You only need to add the Task #, Summary and link to the item in WIWA. Remember that all your tasks should be [under 4 hours](/Pages/BreakLargeTasks.aspx), do spending lots of time on a [Done Email](/dones-do-you-reply-done-and-delete-the-original-email) for a Task would be counter productive. Add more information if required, for example you may have completed the task a different way than previously discussed.
 
-Make sure that [every User Story has an Owner](/Management/RulesToBetterScrumUsingTFS/Pages/OwnerForEveryUserStory.aspx) as per the rules.
+Make sure that [every User Story has an Owner](/Pages/OwnerForEveryUserStory.aspx) as per the rules.
 
 ## If you are the owner of a story:
 
-When the last task/bug of a user story is complete, you then send a [comprehensive done email](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterEmail.aspx#ReplyAndDelete) as per the rules when the story had been completed. Make sure you add a list of all of the Tasks that were completed as part of the story and the Done criteria that you completed.
+When the last task/bug of a user story is complete, you then send a [comprehensive done email](/dones-do-you-reply-done-and-delete-the-original-email) as per the rules when the story had been completed. Make sure you add a list of all of the Tasks that were completed as part of the story and the Done criteria that you completed.
 
-Here is the [Done Criteria](/Management/RulesToSuccessfulProjects/Pages/DoYouGoBeyondDoneAndFollowADoneCriteria.aspx)we followed:
+Here is the [Done Criteria](/done-do-you-go-beyond-done-and-follow-a-definition-of-done)we followed:
 
 a. Compiled/Built locally    
      b. &gt;30% Code Coverage 
      c. All unit tests passed
 
 Then add an illustration to show this.
-![image](/Management/RulesToBetterScrumUsingTFS/PublishingImages/ProveDoneCriteria.png "image")
-Figure: Good example -  This is proof you have met your '[Done criteria](/Management/RulesToSuccessfulProjects/Pages/DoYouGoBeyondDoneAndFollowADoneCriteria.aspx)'. 
+![image](/PublishingImages/ProveDoneCriteria.png "image")
+Figure: Good example -  This is proof you have met your '[Done criteria](/done-do-you-go-beyond-done-and-follow-a-definition-of-done)'. 
 This is all designed to help you Scrum Team members (Product Owner, ScrumMaster and Team) keep a certain quality bar on completion of each chunk of work. Remember that you are not 'DONE' until your team says you are done.
 
