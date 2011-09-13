@@ -39,7 +39,7 @@ Summary: SharePoint BCS -&gt; CRM database
 
 | Pros | Cons |
 | --- | --- |
-| [![clip_image002](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Easiest<br><br>[![clip_image002\[1\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[1]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Best performance<br><br>[![clip_image002\[2\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[2]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Codeless | [![clip_image004](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Read-only<br><br>[![clip_image004\[1\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[1]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Not available for hosted CRM<br><br>[![clip_image004\[2\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[2]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif) Security issues as you are exposing the view. |
+| ![clip_image002](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002")Easiest<br><br>![clip_image002\[1\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[1]")Best performance<br><br>![clip_image002\[2\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[2]")Codeless | ![clip_image004](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004")Read-only<br><br>![clip_image004\[1\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[1]")Not available for hosted CRM<br><br>![clip_image004\[2\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[2]") Security issues as you are exposing the view. |
 
 
 Filtered Views in Microsoft CRM provide access to the data available that supports providing picklist name and id values (lookup tables).
@@ -50,7 +50,7 @@ If you only want read-only for CRM on-premises data for SharePoint users, this s
 
 [http://msdn.microsoft.com/en-us/library/gg328467.aspx](http&#58;//msdn.microsoft.com/en-us/library/gg328467.aspx)
 
-[![clip_image005](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure1.jpg "clip_image005")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure1.jpg)
+![clip_image005](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure1.jpg "clip_image005")
 
 **Figure: The result of “SELECT \* FROM FilteredCtx\_Project”. Use Office SharePoint Designer to hook this up.**
 
@@ -63,7 +63,7 @@ Summary: SharePoint BCS -&gt; Code calling CRM web services - &gt; CRM database
 
 | Pros | Cons |
 | --- | --- |
-| [![clip_image002\[3\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[3]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Read/Write | [![clip_image004\[3\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[3]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif)Needs lots of code and test work.<br><br>[![clip_image004\[4\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[4]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif)Needs to be deployed and published to the web server.<br><br>[![clip_image004\[5\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[5]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif)Less performance than SQL filter views directly #1 |
+| ![clip_image002\[3\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[3]")Read/Write | ![clip_image004\[3\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[3]")Needs lots of code and test work.<br><br>![clip_image004\[4\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[4]")Needs to be deployed and published to the web server.<br><br>![clip_image004\[5\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[5]")Less performance than SQL filter views directly #1 |
 
 
 #1 Note: Performance could be improved by making the reads from the views and the writes through the web service
@@ -85,7 +85,7 @@ The CRM 2011 OData Query Designer can be used to build queries to expose the dat
 
 | Pros | Cons |
 | --- | --- |
-| [![clip_image002\[4\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[4]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif)Easy configuration | [![clip_image004\[6\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[6]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif)50 records limit. Need to page through the results.<br><br>[![clip_image004\[7\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[7]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif)Possible issues with firewalls and proxies because it uses Integrated Security for authentication.<br><br>[![clip_image004\[8\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[8]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif)Read-Only<br><br>[![clip_image004\[9\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[9]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif)No easy way to consume |
+| ![clip_image002\[4\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[4]")Easy configuration | ![clip_image004\[6\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[6]")50 records limit. Need to page through the results.<br><br>![clip_image004\[7\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[7]")Possible issues with firewalls and proxies because it uses Integrated Security for authentication.<br><br>![clip_image004\[8\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[8]")Read-Only<br><br>![clip_image004\[9\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[9]")No easy way to consume |
 
 
 **
@@ -101,19 +101,19 @@ The first step is to expose the data:
 
 2. Make a query
 
-[![clip_image006](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure2.jpg "clip_image006")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure2.jpg)
+![clip_image006](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure2.jpg "clip_image006")
 
 **Figure: Designing a query**
 
 3. See the data
 
-[![/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure3.jpg](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure3.jpg "clip_image007")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif)
+![/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure3.jpg](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure3.jpg "clip_image007")
 
 **                Figure: See the data - RSS source for xtc\_countrySet**
 
 The second step (and the problem) is consuming the data
 
-**[![clip_image009](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure4.jpg "clip_image009")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure4.jpg)**
+**![clip_image009](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure4.jpg "clip_image009")**
 
 **Figure: BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData**
 
@@ -144,7 +144,7 @@ Summary: SharePoint BCS -&gt; BizTalk Database - &gt; CRM database
 
 | Pros | Cons |
 | --- | --- |
-| [![clip_image002\[5\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[5]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Read/Write<br><br>[![clip_image002\[6\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[6]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)The BizTalk data centre can also provide data for any system.<br><br>[![clip_image002\[7\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[7]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Requires little code if users already have BizTalk | [![clip_image004\[10\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[10]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif)BizTalk :-)<br><br>[![clip_image004\[11\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[11]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif)Deployment - Needs external work to deploy BizTalk server.<br><br>[![clip_image004\[12\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[12]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif)Licence Cost |
+| ![clip_image002\[5\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[5]")Read/Write<br><br>![clip_image002\[6\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[6]")The BizTalk data centre can also provide data for any system.<br><br>![clip_image002\[7\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[7]")Requires little code if users already have BizTalk | ![clip_image004\[10\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[10]")BizTalk :-)<br><br>![clip_image004\[11\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[11]")Deployment - Needs external work to deploy BizTalk server.<br><br>![clip_image004\[12\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[12]")Licence Cost |
 
 
 **OPTION 5: SharePoint BCS Adapter (provided by the CRM Team) RECOMMENDED**
@@ -156,10 +156,10 @@ Summary: SharePoint BCS -&gt; Pre-built Adapter (.NET Assembly) -&gt; CRM web se
 
 | Pros | Cons |
 | --- | --- |
-| [![clip_image002\[8\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[8]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Read/Write<br><br>[![clip_image002\[9\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[9]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Minimal coding<br><br>[![clip_image002\[10\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[10]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Easiest to implement<br><br>[![clip_image002\[11\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[11]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)The likely way forward (Best Practice as Microsoft) | [![clip_image004\[13\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[13]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Needs to be deployed and published to the web server.<br><br>[![clip_image004\[14\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[14]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Less performance than SQL filter views directly<br><br>[![clip_image004\[15\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[15]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Only recently released. |
+| ![clip_image002\[8\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[8]")Read/Write<br><br>![clip_image002\[9\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[9]")Minimal coding<br><br>![clip_image002\[10\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[10]")Easiest to implement<br><br>![clip_image002\[11\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[11]")The likely way forward (Best Practice as Microsoft) | ![clip_image004\[13\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[13]")Needs to be deployed and published to the web server.<br><br>![clip_image004\[14\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[14]")Less performance than SQL filter views directly<br><br>![clip_image004\[15\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[15]")Only recently released. |
 
 
-[![clip_image010](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure5.jpg "clip_image010")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure5.jpg) 
+[![clip_image010](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure5.jpg "clip_image010")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure5.jpg) 
 **Figure: CRM data available in SharePoint**
 
 **More information:**
