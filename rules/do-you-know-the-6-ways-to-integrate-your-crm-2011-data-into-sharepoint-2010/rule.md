@@ -14,14 +14,14 @@ authors:
 ---
 
  
-You have data in CRM 2011, so how do you see it in  SharePoint? The data that is stored in CRM entities should be available  in SharePoint so users can find and use the data in areas such as:
+You have data in CRM 2011, so how do you see it in SharePoint? The data that is stored in CRM entities should be available in SharePoint so users can find and use the data in areas such as:
 
 - SharePoint search
 
 - SharePoint reporting (if you are using SQL Reporting Services in integrated mode)
 
 There are many ways to get to this data, let's go through them:
-
+ 
 You have data in CRM 2011, so how do you see it in SharePoint? The data that is stored in CRM entities should be available in SharePoint so users can find and use the data in areas such as:
 
 - SharePoint search
@@ -89,8 +89,8 @@ The CRM 2011 OData Query Designer can be used to build queries to expose the dat
 
 
 **
-**Note: You can really only call the OData endpoint from an application that already has an authentication cookie with the CRM server.     
-i.e. you can't impersonate and call it like you can the standard WCF endpoints     
+**Note: You can really only call the OData endpoint from an application that already has an authentication cookie with the CRM server. 
+i.e. you can't impersonate and call it like you can the standard WCF endpoints 
 So it is really only suited to calling from Silverlight and JavaScript web resources that are delivered inside CRM (because they have the cookie)
 
 **More information: **
@@ -121,16 +121,16 @@ In summary, CRM 2011 can exposes OData, but SharePoint 2010 BCS doesn't consume 
 
 The 3 options to consume the OData/RSS data:
 
-· Consume the OData by SQL Server, via TSQL ???    Then use BCS to call SQL Server.    
+· Consume the OData by SQL Server, via TSQL ???    Then use BCS to call SQL Server. 
 Summary: SharePoint BCS -&gt; DataSourceType: SQL Server -&gt; OData- &gt; CRM database
 
 You would need to be crazy to go down this route [http://www.vishalseth.com/post/2009/12/22/Call-a-webservice-from-TSQL-(Stored-Procedure)-using-MSXML.aspx](http&#58;//www.vishalseth.com/post/2009/12/22/Call-a-webservice-from-TSQL-%28Stored-Procedure%29-using-MSXML.aspx)
 
-· Consume the OData by a BCS adapter + code calling web services (same story as above).    
+· Consume the OData by a BCS adapter + code calling web services (same story as above). 
 Summary: SharePoint BCS -&gt; code calling OData- &gt; CRM database
 
-· Consume the RSS by "SharePoint RSS view web part" directly.    
-Summary: SharePoint RSS view web part -&gt; OData- &gt; CRM database     
+· Consume the RSS by "SharePoint RSS view web part" directly. 
+Summary: SharePoint RSS view web part -&gt; OData- &gt; CRM database 
 (not recommended as it could not be used in "SharePoint Search")
 
 So OData is all things horrible because it is hard to eat :-(
@@ -159,7 +159,7 @@ Summary: SharePoint BCS -&gt; Pre-built Adapter (.NET Assembly) -&gt; CRM web se
 | [![clip_image002\[8\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[8]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Read/Write<br><br>[![clip_image002\[9\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[9]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Minimal coding<br><br>[![clip_image002\[10\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[10]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Easiest to implement<br><br>[![clip_image002\[11\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[11]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)The likely way forward (Best Practice as Microsoft) | [![clip_image004\[13\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[13]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Needs to be deployed and published to the web server.<br><br>[![clip_image004\[14\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[14]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Less performance than SQL filter views directly<br><br>[![clip_image004\[15\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[15]")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif)Only recently released. |
 
 
-[![clip_image010](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure5.jpg "clip_image010")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure5.jpg)
+[![clip_image010](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure5.jpg "clip_image010")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure5.jpg) 
 **Figure: CRM data available in SharePoint**
 
 **More information:**
