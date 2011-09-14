@@ -19,7 +19,7 @@ A common question for every project manager is "where is my project at"? This qu
 TFS2010's Agile Template provides a built-in "Stories Overview" report to help you find out where the project is at, as well as to tell you if all the tasks are well tested.
 ![Stories Overview report](/Management/RulesToBetterProjectManagement/PublishingImages/StoriesOverviewReport.jpg) 
 Figure: The developer says he is 90% done... the report shows 25% tested, but 0% passed!
-Tip: Set this up on a [daily schedule so the Scrum Team get this in their inbox each day](/Management/RulesToBetterScrumUsingTFS/Pages/set-up-2-key-reports.aspx).
+Tip: Set this up on a [daily schedule so the Scrum Team get this in their inbox each day](/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx).
 
 Suggestion for Microsoft #1: Add a Summary Number in large font at the top, eg. 55% complete.
 
