@@ -11,7 +11,7 @@ authors:
 
 ---
 
- When a client arrives, your job is to make them feel comfortable and impress them with your professionalism. It is important that clients have a consistent experience in their contact with your company. <br> 
+ When a client arrives, your job is to make them feel comfortable and impress them with your professionalism. It is important that clients have a consistent experience in their contact with your company. <br>​ 
 - Leaving the client standing at the reception while finishing what you were doing
 - Offering them tea, coffee or biscuits (not everyone likes tea/coffee)
 
@@ -27,8 +27,5 @@ Figure: Bad example
     - Show some enthusiasm when meeting with the client
     - Hand over, and collect, business cards - (organize in front of you, to help you remember their names)
     - Use their names a few times early on to help you remember their name
-    - Greet them warmly
-    - Have a firm handshake
-    - Make eye contact and smile
 
-<br>    Figure: Good Example - You did some research before the meeting 
+Figure: Good Example - You did some research before the meeting 
