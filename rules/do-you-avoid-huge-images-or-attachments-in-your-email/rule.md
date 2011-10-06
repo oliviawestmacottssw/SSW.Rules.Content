@@ -11,13 +11,14 @@ authors:
 
 ---
 
+ 
+Follow the steps below to fix the large attachments issue:
 
-<br>We should follow the steps below to fix the large attachments issue:<br> 
 1. Avoid large attachments. So if you are sending an email that is &gt;1MB you need to take one second to think:
     - Could a URL be better than this attachment? (see example on the right)
     - Could I send this as a UNC to an internal share?
     - Could I .zip this?
-    - Could I put this picture on flickr or picasca?<br>        
+    - Could I put this picture on Flickr or Picasa?<br>        
 
 ```
 Dear Mike, Thank you for spending time with us to come to a better understanding of your business requirements. Please review the new version of specification at http://www.ssw.com.au/ssw/SQLAuditor/Default.aspx
@@ -34,7 +35,7 @@ www.ssw.com.au
 3. Never use Rich Text inside Outlook. As a software developer, most large messages I receive are screen captures. By all means use screen captures - pictures do tell a thousand words - but don't include unnecessarily huge images or attachments in your email. Generally the only time you will have serious size problems is if you are using Rich Text instead of HTML inside Outlook.
 4. If you are sending screenshots then just send the region of the screen you need. Use a screen capture utility like [Fullsho](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/WindowsTools.aspx#Snagit)t so you can use the region tool and get only the relevant part of the image you need. PS: Don't send screenshots as .bmps use .jpgs .gif or .png
 5. If you are sending pictures (every year digital cameras are making our photos bigger and bigger) you may need to resize them down. You can either use Photoshop or for something quicker try Office Document Imaging. 
-![Office Document Imaging Resize](/Communication/RulesToBetterEmail/PublishingImages/OfficeDocumentImagingResize.gif) ![Office Document Imaging Export](/Communication/RulesToBetterEmail/PublishingImages/OfficeDocumentImagingExport.gif) Figure: Office Document Imaging Resize and Export Options
+![Office Document Imaging Resize](/Communication/RulesToBetterEmail/PublishingImages/paper-sizes.jpg)Figure: Office Document Imaging Resize and Export Options
 
 
 **When should you break these size rules?**
