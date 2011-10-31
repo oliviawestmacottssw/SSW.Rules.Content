@@ -11,9 +11,9 @@ authors:
 
 ---
 
- We all know it’s important to keep our servers updated. Unfortunately though, by default, Windows will automatically download and install all new Windows Updates on your servers. This will mean the servers will occasionally restart to install updates when you don’t want them too. You will also get annoying popups trying to get you to restart the computer. <br> ![ Accidently press Restart Now on a Production server and your users won't be happy!](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/updates-restart.jpg) 
+ We all know it’s important to keep our servers updated. Unfortunately though, by default, Windows will automatically download and install all new Windows Updates on your servers. This will mean the servers will occasionally restart to install updates when you don’t want them too. You will also get annoying popups trying to get you to restart the computer.  ![ Accidently press Restart Now on a Production server and your users won't be happy!](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/updates-restart.jpg) 
 Figure 1 - Accidently press Restart Now on a Production server and your users won't be happy!
- The best ensure you are still downloading updates but not installing them automatically is to use Group Policy. 
+The best ensure you are still downloading updates but not installing them automatically is to use Group Policy. 
 
 
 1. Create an Organization Unit (OU) in Active Directory, and put all your Production Servers in the OU
@@ -33,4 +33,8 @@ Figure 3 - Create a new Group Policy for your Production Servers
 ![The Group Policy locks the Windows Update setting](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/updates-updatesforced.jpg)
 Figure 5 - The Group Policy locks the Windows Update setting
 
- Now the next time you plan to reboot your server you can install updates quickly and reboot – keeping your servers updated without unplanned reboots.    
+Now the next time you plan to reboot your server you can install updates quickly and reboot – keeping your servers updated without unplanned reboots.
+
+![Default domain policy.png](/ITAndNetworking/RulesToBetterWindowsServers/Documents/Default%20domain%20policy.png)
+Figure 5 - The Group Policy locks the Windows Update setting
+
