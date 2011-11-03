@@ -30,3 +30,5 @@ All investigating stories must be timeboxed otherwise the process of investigati
 
 Note: This gives you work for future Sprint
 
+Tip: There is a further benefit of tagging 'spike' tasks with a consistent label. If your company takes up R & D tax incentives, then you need to be able to query for activities that were 'of an experimental nature'. In Australia this is a 15% credit on each dollar you spend on a developer.
+
