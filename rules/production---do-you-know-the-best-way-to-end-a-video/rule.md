@@ -28,5 +28,13 @@ Figure: Good example – personal, doesn't break the 4th wall, refers to subject
 
 
 
+
+
+
+
+
+
+
+
 Figure: Good example - See Richard Campbell do it perfectly 10 seconds from the end of this video
 
