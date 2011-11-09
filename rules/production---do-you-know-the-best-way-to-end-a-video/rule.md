@@ -21,17 +21,16 @@ Figure: Bad example – impersonal, cheesy and uninformative sign off
 Interviewer (Adam): 
 "Well that’s all great stuff Joe and we're looking forward to seeing your new software soon"
 
-Interviewee (Joe):
-
-
-
-
-
-
-
+Interviewee (Joe): 
 "Thanks Adam"
 
-Figure: Good example – personal, doesn't break the 4th wall, refers to subject matter in the video
+Figure: Good example – personal, the speakers relate to each other well, refers to subject matter in the video
+
+
+
+
+
+
 
 
 
