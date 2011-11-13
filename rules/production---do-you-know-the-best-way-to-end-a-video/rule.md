@@ -18,11 +18,13 @@ In a lecture the best way is to finish is the same way the speaker would end a n
 
 "This is Adam Cogan signing off until next time" (grins at camera with a thumbs up)
 Figure: Bad example – impersonal, cheesy and uninformative sign off 
+
 Interviewer (Adam): 
 "Well that’s all great stuff Joe and we're looking forward to seeing your new software soon"
 
 Interviewee (Joe): 
 "Thanks Adam"
+
 Figure: Good example – personal, the speakers relate to each other well, refers to subject matter in the video 
 
 
