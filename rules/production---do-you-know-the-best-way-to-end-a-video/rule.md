@@ -23,10 +23,7 @@ Interviewer (Adam):
 
 Interviewee (Joe): 
 "Thanks Adam"
-
-Figure: Good example – personal, the speakers relate to each other well, refers to subject matter in the video
-
-
+Figure: Good example – personal, the speakers relate to each other well, refers to subject matter in the video 
 
 
 
@@ -37,4 +34,3 @@ Figure: Good example – personal, the speakers relate to each other well, refer
 
 
 Figure: Good example - See Richard Campbell do it perfectly 10 seconds from the end of this video
-
