@@ -12,7 +12,7 @@ authors:
 ---
 
  
-ThiDowntime occurs when you have a single server setup.
+Downtime occurs when you have a single server setup.
 
 Use NLB to allow load balancing and failover. On each of your Windows Servers you will host your website.
 
