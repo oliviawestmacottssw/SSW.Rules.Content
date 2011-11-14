@@ -12,8 +12,9 @@ authors:
 ---
 
  When using your presentation computer you may want to still be able to send emails but not want to download your entire Exchange mailbox to your Boot2VHD image. This is especially relevant for people with large mailboxes. <br> 
-1. Open Outlook 2010 and create a new Exchange account
-2. Enter your server name and user name, but un-tick **Use Cached Exchange Mode
+1. Open Outlook 2010 and create a new Exchange account 
+![Create New Account](/ITAndNetworking/RulesToBetterPresentationPCs/PublishingImages/new-account.jpg)
+Figure - Tick manually configure server settings2. Enter your server name and user name, but un-tick **Use Cached Exchange Mode
 ![Un-tick Use Cached Exchange Mode](/ITAndNetworking/RulesToBetterPresentationPCs/PublishingImages/fig3-untickcached.png)
 **Figure - Un-tick Use Cached Exchange Mode
 3. Finish the setup and then open Outlook
