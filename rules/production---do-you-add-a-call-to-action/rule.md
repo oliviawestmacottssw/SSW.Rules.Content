@@ -16,7 +16,7 @@ Without a call to action prompting viewers to do something at the end of a video
 - Obtain the viewer's email address
 - Get the viewer to provide info and request a service from the company
 
- 
+<br>​​​​ 
 A good 'call to action' should:
 
 1. Be short (around 30 seconds).
@@ -32,9 +32,22 @@ Figure: Bad example – no call to action
 
 Please leave a comment, and go to our website, Facebook, YouTube, Twitter and LinkedIn. Also please sign up for our newsletter. 
 Figure: Bad example - too many options breeds choice paralysis
-[![](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/SCRUM%20in%20under%2010%20minutes%20CTA.jpg)](http&#58;//www.youtube.com/watch?v=Q5k7a9YEoUI) 
+
+
+
+
+
+
+<br><br><br><br><br><br>​
+
+
+
+
+
+<br>​
+
 Figure: Fairly Good example (skip to the end) – a simple task to email [hamids@axosoft.com](mailto&#58;hamids@axosoft.com), plus links to social media are present, however there is too much on screen and he has used a graphic instead of live action.    [![](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Call-to-Action-Screenshot.jpg)](http&#58;//www.youtube.com/watch?v=11ibqpnitfk)
 **Figure: Good Example – very clear call to action that asks for an email address. Only asks for one thing at a time and uses zooming effects. In addition, gives a twitter option to engage and uses live action.**
  
 
-
+ ​  
