@@ -22,17 +22,21 @@ authors:
 | Figure: St. Bernards are known for rescuing lost mountaineers, bringing life saving provisions |
 
 
-- Business cards
-- A network cable (optional)
-- An extension cord (optional)
-- A thumb drive on your key ring
-- An external hard drive with 4GB+ (for software ISOs)
-- Software DVD's (minimum Office and Visual Studio)
-- Current brochures - Hand them out to interested clients
-- [User story cards](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard) - These help Product owners create user stories
-- [Evaluation forms](http&#58;//www.ssw.com.au/ssw/NETUG/UGEvaluationSurvey.aspx) - Ask for feedback if you did a presentation
-- Even a text book or two
 
+
+1. Business cards
+2. A network cable (optional)
+3. An extension cord (optional)
+4. A thumb drive on your key ring (a personal choice, but 16 GB is a good choice)
+5. An external hard drive (a personal choice, but 750 GB if a good choice if you have lots of 10+ GB VMs)
+6. Software DVD's (generally you can keep the .ISOs of MS Office and Visual Studio D:\DataSetup\ISOs\)
+7. Current brochures - Hand them out to interested clients
+8. [User story cards](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard) - These help Product owners create user stories
+9. [Evaluation forms](http&#58;//www.ssw.com.au/ssw/NETUG/UGEvaluationSurvey.aspx) - Ask for feedback if you did a presentation
+10. Even a text book or two
+
+
+Maybe we could combine items 4 and 5 and get a large hard disk and put the images on there.
 
 We have one guy in our office who carries two bags, each weighing about 10 kgs. He is the SSW St. Bernard! \*
 
