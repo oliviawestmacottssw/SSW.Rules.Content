@@ -29,4 +29,4 @@ That's why source code should be checked in regularly. We recommend a check-in:
 
  If the changes would break the build or are in a state that cannot be put into the main trunk, then this code should be put into a [shelveset](http&#58;//msdn.microsoft.com/en-us/library/ms181403.aspx) (sometimes referred to as 'sandbox') in source control. 
  Another good reason to check-in regularly is that it makes it easier to merge your changes with other developers. If all developers check-in lots of changes in one go, you will spend a lot of your time resolving conflicts instead of doing work. 
- TIP: How can you enforce regular check-ins? Monitor them using a [report to see who has not checked in](/TFS/RulesToBetterVersionControlwithTFS%28AKASourceControl%29/Pages/CheckinReport.aspx).    
+ TIP: How can you enforce regular check-ins? Monitor them using a [report to see who has not checked in](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#CheckinReport).    
