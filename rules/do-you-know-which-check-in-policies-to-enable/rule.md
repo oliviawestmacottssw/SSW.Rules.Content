@@ -15,11 +15,19 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ 
+Check-in policies are a great tool to enforce quality code before it hits your source control repository. SSW recommends that the following check-in policies be enabled by default on your project:
+ 
 1. Changeset Comments Policy - To enforce that all check-in contain comments
 2. SSW Code Auditor - To enforce coding standards and best practices before check-in
 3. Testing Policy - To enforce that unit tests should all pass before code can be checked-in
+4. SSW Code Auditor - To enforce coding standards and best practices before check-in
+5. Code Analysis Policy – To enforce that code analysis rules are not broken
+6. Testing Policy - To enforce that unit tests should all pass before code can be checked-in
+7. Builds Policy – To enforce that the developer has built the project end to end before they check-in
 
+
+**More Information**
 
 To enable these policies:
 
