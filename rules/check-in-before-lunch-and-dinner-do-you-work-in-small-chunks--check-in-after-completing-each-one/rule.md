@@ -15,13 +15,18 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/Check-InRegularly.jpg) Figure: Eating one big meal every three days gives you a bellyache... (aka check in small portions regularly, one large check-in after a few days will give you a headache)
+ Frequently developers work on long or difficult features/bugs and leave code checked out for days or worse still, weeks. 
+
+1. What happens if your laptop hard drive dies?
+2. What happens if you call in sick?
+3. How can you pair program if not sharing your changesets?
+
+![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/Check-InRegularly.jpg) Figure: Eating one big meal every three days gives you a bellyache... (aka check in small portions regularly, one large check-in after a few days will give you a headache)
 That's why source code should be checked in regularly. We recommend a check-in:
 
-- Immediately after completing a piece of functionality, where the code compiles and passes the unit tests
-- Before lunch or dinner
+- Immediately after completing a piece of functionality, where the [code compiles and passes the unit tests](/TFS/RulesToBetterVersionControlwithTFS%28AKASourceControl%29/Pages/CompilePassed.aspx)Before lunch or dinner
 - Before leaving your workstation for an extended period of time
 
  If the changes would break the build or are in a state that cannot be put into the main trunk, then this code should be put into a [shelveset](http&#58;//msdn.microsoft.com/en-us/library/ms181403.aspx) (sometimes referred to as 'sandbox') in source control. 
  Another good reason to check-in regularly is that it makes it easier to merge your changes with other developers. If all developers check-in lots of changes in one go, you will spend a lot of your time resolving conflicts instead of doing work. 
- TIP: How can you enforce regular check-ins? Monitor them using a report to see who has not checked in.    
+ TIP: How can you enforce regular check-ins? Monitor them using a [report to see who has not checked in](/TFS/RulesToBetterVersionControlwithTFS%28AKASourceControl%29/Pages/CheckinReport.aspx).    
