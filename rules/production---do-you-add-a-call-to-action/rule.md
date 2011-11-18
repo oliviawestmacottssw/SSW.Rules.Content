@@ -16,7 +16,7 @@ Without a call to action prompting viewers to do something at the end of a video
 - Obtain the viewer's email address
 - Get the viewer to provide info and request a service from the company
 
-<br>​​​​​​ 
+<br>​​​​​​​ 
 A good 'call to action' should:
 
 1. Be short (around 30 seconds).
