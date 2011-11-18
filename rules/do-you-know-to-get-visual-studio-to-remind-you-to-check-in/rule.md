@@ -15,7 +15,9 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ 
+When working on a task spanning multiple files, do not check-in only one or two of the files, this leads to the problem of partial check-ins where references to new classes or methods are unavailable because they are in the files that haven't been checked in. So either, check-in all the files you are working on or none at all if you aren't finished working on the task.
+ 
 1. Make Visual Studio remind you to check code in 
 In Microsoft Visual Studio. NET sharing project code can be configured by ticking the two checkboxes on top, in Options (from the Tools menu) as shows below.
 ![VS.NET 2008 Source Settings](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/SourceControlVS.jpg)Figure: Check-in files automatically the 2nd checkbox is very important so you get reminded to check-in your project when closing VS.NET. You know how frustrating it is when you want to fix an application and all the files are checked out by some one else! 
