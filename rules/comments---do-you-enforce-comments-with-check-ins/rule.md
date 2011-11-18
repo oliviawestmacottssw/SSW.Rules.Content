@@ -17,9 +17,9 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/CommentsBad.jpg) <font class="ms-rteCustom-FigureBad" size="+0">Figure&#58; Bad Example&#58; No Comments against the check-ins we don’t know what changes were made in each revision </font>![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/CommentsGood.jpg) <font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; Good Example&#58; Now we can pin point which revision a particular change has been made </font>
+ Team System is great, but there are some standard features in other source control systems that aren’t available. One of the glaring omissions is enforcing comments when checking in code. Without comments, some of the other built in features like History become redundant without comments.  ![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/CommentsBad.jpg) <font class="ms-rteCustom-FigureBad" size="+0">Figure&#58; Bad Example&#58; No Comments against the check-ins we don’t know what changes were made in each revision </font>![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/CommentsGood.jpg) <font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; Good Example&#58; Now we can pin point which revision a particular change has been made </font>
 More Information 
- To enforce this behaviour, you will need to:
+To enforce this behaviour, you will need to:
 
 1. Install Team Foundation Server Power Tools
 2. Right click the Team Project in Team Explorer &gt; Team Project Settings &gt; Source Control ![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/Enforce1.jpg)
