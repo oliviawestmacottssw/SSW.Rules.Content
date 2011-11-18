@@ -15,7 +15,9 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ 
+Having a good folder structure in version control allows everyone to know where everything is without even having to look.
+ 
 
 ```
 /northwind
@@ -28,6 +30,6 @@ authors:
 
 Figure: Bad example, SVN conventions are a dated and ignore releases, hotfixes and Service Packs 
 Trunk is the old way, Main is the new way as per the branching guidance, and it is the way that Microsoft does things.
-![Main branch guidance ](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BranchGuidance.jpg)Figure: Good example, this makes a lot more sense **More Information:**![Good format for the information](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodFormatForInfo.jpg)Figure: A good format for all your Products/Projects makes it easy to know where things are and what they are for 
-Read the TFS 2010 Branching Guidance ?[http://tfsbranchingguideiii.codeplex.com](http&#58;//tfsbranchingguideiii.codeplex.com/)
+![Main branch guidance ](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/BranchGuidance.jpg)Figure: Good example, this makes a lot more sense **More Information:** ![Good format for the information](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/GoodFormatForInfo.jpg)Figure: A good format for all your Products/Projects makes it easy to know where things are and what they are for 
+Read the TFS 2010 Branching Guidance - [http://tfsbranchingguideiii.codeplex.com](http&#58;//tfsbranchingguideiii.codeplex.com/)
 
