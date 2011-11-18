@@ -15,4 +15,11 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ 
+New, Bug or Refactor should be the prefix.
+
+Here are some examples:- New P112: Added a new control for DateOfBirth
+- Bug P113: Fixed validation to now allow US dates
+- Refactor: Moved the email regex from inline to a resource file
+
+ 
