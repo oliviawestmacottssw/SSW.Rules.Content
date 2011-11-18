@@ -26,6 +26,6 @@ authors:
 | #sswrules | Our public rules |
 | #proscrumdev | Professional Scrum Developer Course |
 | #BrainQuest | SSW Brain Quest |
-|  |  |
+|   |   |
 
 
