@@ -15,4 +15,6 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![Source Safe VS.NET](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/SideKicksStatus.jpg)Figure: Use TFS Sidekicks and search for files older than 48 hours to find the naughty boys. Suggestion for TFS Sidekicks: Add a button to “Email all people their shame list”…. showing their files that are still checked out (until then I do it manually)
+ 
+Managers should regularly check to see if developers are committing their changes into source control. In TFS you can only get a status by manually looking at each project or running "tfs status" command. A great tool is [Attrice Team Foundation SideKicks](http&#58;//www.ssw.com.au/SSW/Redirect/Attrice.htm) which can display the status of all users and projects
+ ![Source Safe VS.NET](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/SideKicksStatus.jpg)Figure: Use TFS Sidekicks and search for files older than 48 hours to find the naughty boys. Suggestion for TFS Sidekicks: Add a button to “Email all people their shame list”…. showing their files that are still checked out (until then I do it manually)
