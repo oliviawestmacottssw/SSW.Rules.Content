@@ -15,7 +15,9 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ 
+The more workspaces you have the more load the TFS server is under when users check in and out. TFS has to check all of the workspaces for other checkouts of the same files which can be intensive if you have a lot of workspaces.
+ 
 If a developer had code checked out to a workspace that they have not even looked at in months, what is the likelihood that they even remember what changes they were making?
 
 Why do workspaces build up?- Developers use multiple computers
