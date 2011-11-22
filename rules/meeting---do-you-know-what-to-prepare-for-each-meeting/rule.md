@@ -7,19 +7,26 @@ authors: []
 
 ---
 
- In Scrum, meetings are time boxed. Team members must be well prepared in order to accomplish the meeting goals in time. 
+ In Scrum, meetings are time boxed. Team members should be well prepared in order to accomplish the meeting goals in time. 
+
+ 
+**Daily Scrum Meetings** - This is time boxed to 15 mins. All members of the team should be well prepared by:
+
+- Being ready on time
+- Having their "Remaining hours" up-to-date – read [Do you update your tasks before the daily Scrum meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/UpdateTasks.aspx)
+- Knowing what was done since the last meeting e.g. "Yesterday I did xxx"
+- Knowing what is planned to be done until next meeting e.g. "Today I will do yyy"
+- Explain roadblocks and impediments that might exist e.g. "I might hit a roadblock today because of xxx"
+- Remember to say "Let's "Park" that conversation for after the scrum". Major discussions are not to be conducted during the time boxed scrum meeting.
+- Being online on Skype (especially for team members in different locations)
 
 
-**Daily Scrum Meetings** - all members of the team must be well prepared by:
+**Related Links**
 
-- Being available in time
-- Having their hours up-to-date – read [Do you update your tasks before the daily Scrum meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/UpdateTasks.aspx)
-- Knowing what was done since the last meeting
-- Knowing what is planned to be done until next meeting
-- Explain roadblocks and impediments that might exist
-- Not bringing major discussions during the time boxed meeting. Leave it for after scrum meeting
-- Being online on Skype in case any of the members is on different location –
-    - checking microphone and speakers in advance
+[Reports - Do you know which reports are the most important ones to track your progress?](/Management/RulesToBetterScrumUsingTFS/Pages/TrackProgress.aspx)
+
+[Management - Do you have daily stand-up meetings (Scrums)?](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)
+
 
 
 **Review Meetings** - all members of the team must be well prepared by:
