@@ -18,7 +18,7 @@ authors:
 
 
 <br>​ 
-1. Set your screen resolution to as high as possible but do not exceed 1920 x 1080 for a 16:9 display, or 1920 x 1200 for a 16:10 display.
+1. Set your screen resolution to as high as possible but do not exceed 1920 x 1080 for a 16:9 display, or 1920 x 1200 for a 16:10 display. If your screen resolution is too low then you will either have to expand the footage in post-production (which will result in a loss of quality) or release a low resolution video (which will become poor quality when watched in full screen).
     ![screen resolution.png](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/screen%20resolution.png)
 Figure: Set your screen resolution as high as possible without exceeding 1920 x 1080    ![poor resolution screenshot.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/poor%20resolution%20screenshot.jpg)
     Figure: Bad example - screen resolution is set to 800 x 600.
