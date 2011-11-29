@@ -14,9 +14,9 @@ Without a call to action prompting viewers to do something at the end of a video
 <br>Common objectives are to: 
 - Get them to the company's Facebook page
 - Obtain the viewer's email address
-- Get the viewer to provide info and request a service from the company
+- Get the viewer to provide info and request a service from the company​
 
-<br>​​​​​​​ 
+ 
 A good 'call to action' should:
 
 1. Be short (around 30 seconds).
