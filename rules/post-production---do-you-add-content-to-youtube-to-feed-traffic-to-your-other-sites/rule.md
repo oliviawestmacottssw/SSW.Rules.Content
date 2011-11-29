@@ -18,9 +18,7 @@ For most users, YouTube only allows a maximum length of 15 minutes on their vide
 [![Bad 1st 5 min example.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Bad%201st%205%20min%20example.jpg)](http&#58;//www.youtube.com/watch?v=DbpolzdGJ7Y) 
 **Figure: Bad Example – No call to action prompting viewers to go and see the full version.** 
 [![Okay 1st 5 min Example.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Okay-1st-5-min-Example.jpg)](http&#58;//www.youtube.com/watch?v=DbpolzdGJ7Y) 
-Figure: Okay Example – A link to the full version is included in the description section but no Call to Action in the actual video. 
-
-
+Figure: Okay Example – A link to the full version is included in the description section but no Call to Action in the actual video.
 
 
 
