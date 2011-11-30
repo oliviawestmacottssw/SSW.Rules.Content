@@ -10,7 +10,7 @@ authors:
 ---
 
  
-The ending of your video should contain a [call to action](/DesignandPresentation/RulesToBetterVideoRecording/Pages/Adding-a-call-to-action.aspx), the logo of your company and a sign off from the speaker(s).
+The ending of your video should contain a [call to action](/Pages/Adding-a-call-to-action.aspx), the logo of your company and a sign off from the speaker(s).
  
 In an interview situation the best way to sign off is to try and lead from the subject matter to the end of the video smoothly.
 
