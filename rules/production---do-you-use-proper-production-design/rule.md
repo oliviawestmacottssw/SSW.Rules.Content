@@ -35,8 +35,6 @@ Location is similar to set design, only in this instance the aspects are mostly 
 
 
 
-
-
 Figure: Good and Bad examples of filming locations
 
 **Lights**
