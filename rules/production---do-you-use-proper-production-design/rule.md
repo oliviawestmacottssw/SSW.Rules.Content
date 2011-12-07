@@ -11,19 +11,21 @@ authors:
 
 ---
 
- When filming a scene it is always important to remember production design aspects. Production design is basically all of the things (excluding the people) that we see on screen. This includes wardrobe, set design, location, lights and props. 
+ When filming a scene it is always important to remember production design aspects. Production design is basically all of the things (excluding the people) that we see on screen. This includes wardrobe, set design, location, lights and props.​ 
 ​Overall, one should try and use as little colours as possible when designing a production. That doesn't mean use mainly tones, it means try and limit your colour palette to as few colours as possible. If you are creating corporate work try and include your company's colours. So for example if you were creating a production for SSW, you would use black, white, red and bronze (the bronze refers to the colour of skin - this will almost always be involved in your colour palette). You might end up having to include another colour or two but you will find the less unnecessary colours you use the better. Try and apply this to every aspect of your production design.
 
 **Wardrobe**
 
-Wardrobe refers to what people wear when they're on screen. Keep in mind the tone, genre and mood of your production when choosing clothing. Avoid distracting jewelry or accessories unless it adds to the character. Also avoid stripes; most cameras will produce an unnatural, unpleasant effect when filming them, so make sure your actor isn't wearing their favourite striped shirt! Text on clothing is also a bad idea, the viewer will try to read it instead of listening to what your actor's are saying.
+Wardrobe refers to what people wear when they're on screen. Keep in mind the tone, genre, character and mood of your production when choosing clothing. Avoid distracting jewelry or accessories unless it adds to the character. Also avoid stripes; most cameras will produce an unnatural, unpleasant effect when filming them, so make sure your actor isn't wearing their favourite striped shirt! Text on clothing is also a bad idea, the viewer will try to read it instead of listening to what your actor's are saying.
 
 **Set Design**
 
 Creating a set for a production is a complex and tricky business but there are some basic ideas you can use to create appealing set design. First off try and design your set to reflect the theme of your production. So for example if you were creating a set for a software design talk show, you would probably want lots of metal and technical art, however if you were creating a set for a drama about a youth who's run away from home, you would want something dirty, dark and depressing to reflect the character's grim situation. Again, avoid stripes that are too close together. A general rule of thumb is that the stripes should be at least 5cm in width. Make sure that everything is safe and if there is construction to be done, hire a professional.
 
-![Bad-set-design-example.png](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Bad-set-design-example.png)
-Figure: Bad example - dark wall on the side, flat, boring wall in the middle, reflective surface with people passing behind, lack of depth. 
+![Bad-set-design-example.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Bad-set-design-example.jpg)
+
+Figure: Bad example - dark wall on the side, boring wall in the middle, reflective surface with people passing behind, lack of depth.
+
 ![good-set-example.png](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/good-set-example.png)
 Figure: Good example - interesting background but not distracting, relevant furniture, set reflects theme of show 
 **Location** 
