@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Using a 'Shot List', the camera operator can mark down where in the recording an interesting point is and where a cutaway or caption should appear.    ​The shot list provides the editor with a breakdown of where the interesting parts of the interview are that need cutaways and captions, what they could be 
+ Using a 'Shot List', the camera operator can mark down where in the recording an interesting point is and where a cutaway or caption should appear.    ​The shot list provides the editor with a breakdown of where the interesting parts of the interview are that need cutaways and captions, and what they could be. 
  ![shot list.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/shot%20list.jpg)
 Figure: Example shot list. The camera operator will mark down the time code (visible on the cameras' LCD screen) and note what words were said and what interesting caption or cutaway should be added. 
 
