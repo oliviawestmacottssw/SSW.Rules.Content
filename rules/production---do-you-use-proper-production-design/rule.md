@@ -22,9 +22,7 @@ Wardrobe refers to what people wear when they're on screen. Keep in mind the ton
 
 
 
- 
-
-
+<br> 
 
 **Set Design**
 
@@ -43,7 +41,7 @@ Location is similar to set design, only in this instance the aspects are mostly 
 
 
 
- 
+<br> 
 
 Figure: Good and Bad examples of filming locations
 
