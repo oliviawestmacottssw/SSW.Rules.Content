@@ -18,6 +18,14 @@ authors:
 
 Wardrobe refers to what people wear when they're on screen. Keep in mind the tone, genre, character and mood of your production when choosing clothing. Avoid distracting jewelry or accessories unless it adds to the character. Also avoid stripes; most cameras will produce an unnatural, unpleasant effect when filming them, so make sure your actor isn't wearing their favourite striped shirt! Text on clothing is also a bad idea, the viewer will try to read it instead of listening to what your actor's are saying.
 
+
+
+
+
+
+
+
+
 **Set Design**
 
 Creating a set for a production is a complex and tricky business but there are some basic ideas you can use to create appealing set design. First off try and design your set to reflect the theme of your production. So for example if you were creating a set for a software design talk show, you would probably want lots of metal and technical art, however if you were creating a set for a drama about a youth who's run away from home, you would want something dirty, dark and depressing to reflect the character's grim situation. Again, avoid stripes that are too close together. A general rule of thumb is that the stripes should be at least 5cm in width. Make sure that everything is safe and if there is construction to be done, hire a professional.
