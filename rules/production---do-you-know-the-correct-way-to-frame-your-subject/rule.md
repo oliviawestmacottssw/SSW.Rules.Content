@@ -12,7 +12,7 @@ authors:
  When filming a subject (or subjects) there are numerous ways to frame them.  
 Basic rules to follow include:
 
-- Avoid positioning them on opposite, far sides of the frame, as this creates a feeling of emotional distance between the two characters.
+- Avoid positioning them on opposite, far sides of the frame, as this creates a feeling of emotional distance between the two characters. Distances seem bigger in camera, so position your subjects as close together as they are comfortable with, especially if you are using tight framing and/or filming with one camera.
 - Avoid too much space in the frame, especially if the space has nothing in it. This is referred to as Dead Space. This can occur when the subjects are placed in front of a blank wall.
 - If you can (such as if you have access to 2 or more cameras) avoid filming directly side on, at 90 degrees to the subjects. Always try to be as face on with your subject as possible.
 - Try and have an interesting background. Patterns, movement and depth can help to create a more interesting shot.
@@ -24,22 +24,23 @@ Basic rules to follow include:
 When positioning your subjects it is important to remember several factors:
 
 
-- Do not position them too far apart. Distances seem bigger in camera, so position your subjects as close together as they are comfortable with, especially if you are using tight framing and/or filming with one camera.
+- ​It is a good idea (if you want to have one of your subjects more face on) to have the interviewee more face on than the interviewer.
+- The interviewer should be on the left side of the frame - the audience is more likely to sympathise with the person looking left to right.
+- The interviewer should avoid leaning in to the interviewee too much as it might make them feel uncomfortable and seem a little weird in the frame.
 - The best way to position your subjects is at 90° to each other and at 45° to the camera:
+
+
+
+
+![bad interview positions.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/bad-interview-positions.jpg)
+
+
+Figure: Bad example - Interviewer (right) is facing toward the interviewee too much and the interviewee is faced towards the camera too much.
 ![interview positions.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/interview%20positions.jpg)
 
 Figure: Good example - position your subjects properly to create an unbiased interview.
 
 
-
-
-- ​It is a good idea (if you want to have one of your subjects more face on) to have the interviewee more face on than the interviewer.
-- The interviewer should be on the left side of the frame - the audience is more likely to sympathise with the person looking left to right.
-- The interviewer should avoid leaning in to the interviewee too much as it might make them feel uncomfortable and seem a little weird in the frame.
-![bad interview positions.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/bad-interview-positions.jpg)
-
-
-Figure: Bad example - Interviewer (right) is facing toward the interviewee too much and the interviewee is faced towards the camera too much.
 
 When doing an over the shoulder shot (OTS) for a corporate video, it is generally best to stay at a level height with the subject. Looking up or down at them can create unnecessary meaning in the shot. It is also a good idea to avoid using the wide angle setting on your camera as it makes the subject seem distant and small in comparison to the person whose shoulder we can see.
 
@@ -58,4 +59,4 @@ Figure: Bad example – looking down at the subject with a wide angle lens setti
 
 ![Good OTS example.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Good%20OTS%20example.jpg)
 Figure: Good example – level height, zoom level not set to wide angle.
-
+ ​  
