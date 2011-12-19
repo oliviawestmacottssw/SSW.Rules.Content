@@ -9,28 +9,11 @@ authors: []
 
 
 
-<span class='intro'> <p>​​It's best to conduct an internal and external test procedure for videos. This ensures that you&#160;meet your internal standards and follow the necessary rules that relate to video content creation. </p>
-<p>You can also identify errors and inconsistencies that can be addressed for a second edit, before going live.​</p> </span>
+<span class='intro'> At SSW we conduct an internal and external test procedure for our videos. This ensures that we meet our internal standards and follow the necessary rules that relate to video content creation. We can also identify errors and inconsistencies that can be addressed for a second edit, before going live on SSW TV. </span>
 
-<br><ol><li>Complete the video editing (Version 1)</li>
-<p>Produce your first edit of your video. If necessary follow the Post Production rules i.e. <a href="/Pages/Do-you-use-cutaways.aspx">'Do you use cutaways?'</a>, <a href="/Pages/Adding-a-call-to-action.aspx">'Do you add a Call to Action?'</a>.</p>
-<li>Upload your first edit to YouTube</li>
-<ol><li>Send test please to Marlon or Uly and Adam</li>
-<li>Feedback must be done within 48 hours</li>
-<li>Need two out of the three to move ahead</li>
-<li>If response isn’t submitted within designated time, the process moves to the next step</li></ol>
-<li>Make changes to video from feedback</li>
-<li>Re-upload to YouTube</li>
-<li>Respond to each email with dones and not dones</li>
-<li>Send test please to your managers, any people on the video and one of the test groups</li>
-<ol><li>48 hours to test</li>
-<li>6 people on the test</li>
-<li>Need 3 responses to move ahead</li>
-<li>If response isn’t submitted within designated time, the process moves to the next step</li></ol>
-<li>Make changes to video from feedback</li>
-<li>Respond to each email with Done’s and reasons for Not Done’s</li>
-<li>Make post on tv.ssw.com for video – embed the YouTube&#160;​upload</li>
-<li>Send final test please – not for major changes (spelling mistakes, glaring faults etc.)</li>
-<ol><li>If there is no response within 48 hours, we go live</li></ol></ol>
+<p>​</p>
+<ol><li>Complete the video editing (Version 1)</li></ol>
+<p>Produce your first edit of your video. If necessary follow the Post Production rules i.e. do you use an intro/outro,do you use cutaways, do you use call to action.</p>
+<ol><li>Upload to Wistia<br>Upload your first edit to Wistia.<br>Send test please to Marlon or Uly and Adam.<br>Feedback must be done within 48 hours<br>Need two out of the three to move ahead<br>If response isn’t submitted within designated time, the process moves to the next step.<br>Make changes to video from feedback<br>Re-upload to wistia<br>Respond to each email with dones and not dones<br>Send test please to Adam, any people on the video and one of the test groups<br>48 hours to test<br>6 people on the test<br>Need 3 responses to move ahead <br>If response isn’t submitted within designated time, the process moves to the next step.<br>Make changes to video from feedback<br>Respond to each email with Done’s and reasons for Not Done’s<br>Make post on tv.ssw.com for video – embed the Wistia upload<br>Send final test please – not for major changes (spelling mistakes, glaring faults etc.).<br>If there is no response within 48 hours, we go live.<br></li></ol>
 
 
