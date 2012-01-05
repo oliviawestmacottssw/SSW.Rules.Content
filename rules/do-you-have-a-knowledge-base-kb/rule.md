@@ -96,6 +96,8 @@ However \***don't**\* write a KB article if fixing the bug and making a new ver
 
 You don't need to be Microsoft to build a KB. A Knowledge Base does not need to be complicated. We use a simple knowledge base which is located at [http://www.ssw.com.au/ssw/KB](http&#58;//www.ssw.com.au/ssw/KB)
 
+
+
 Suggestions for features should be added to the backlog and voted on at uservoice.com
 
 
