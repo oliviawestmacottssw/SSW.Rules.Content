@@ -13,12 +13,20 @@ authors:
 
 ---
 
-
+ 
 There are two reasons that a story can be removed from the sprint.
-
+ 
 1. Your team notices that they can’t get everything done, and agree with the product owner to remove the story.
 2. At the Sprint Review meeting the Product Owner rejects the story
 
 
-In both these cases the Story moves back to the backlog and any unfinished tasks left in the sprint are closed. The PO may decide to prioritise the story high enough to make the next Sprint, but he may not.
+There are a few reasons a team can find themselves in a position where they can't get everything done.
+
+1. They underestimated one or more stories
+2. Stories were blocked by other stories
+
+
+In all cases, when a story is removed from the backlog, it moves back to the top of the backlog and any unfinished tasks left in the sprint are closed.  When the Product Owner next grooms the backlog, or during the next planning meeting, he may decide to prioritise the story high enough to make the next Sprint, but he may not.
+
+
 
