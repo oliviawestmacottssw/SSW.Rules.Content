@@ -53,6 +53,7 @@ authors: []
 **Planning WHAT meetings** - all members of the team must be well prepared by:
 
 - Having all bugs and User Stories up-to-date on the backlog
+- Having all stories on the backlog “groomed” in<br>order of priority (according to the Product Owner)​
 
 
 **Planning HOW meetings** - all members of the team must be well prepared by:
