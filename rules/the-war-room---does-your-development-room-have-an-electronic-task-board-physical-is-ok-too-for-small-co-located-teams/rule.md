@@ -11,16 +11,26 @@ authors:
 
 
 
-<span class='intro'> <p>Having 
-   an electronic ​​​task board makes it easy for developers to keep track of tasks. </p><p>These are the columns (aka swim lanes) you need&#58;</p> </span>
+<span class='intro'> Having a physical task board makes it easy for developers to keep track of tasks. <br>
+<br>
+These are the columns (aka swim lanes) you need&#58; 
+ </span>
 
-<dl class="goodImage"><dt>​<img src="/PublishingImages/TFS%20Preview%20Task%20Board.png" alt="TFS Preview Task Board.png" style="width&#58;550px;" /></dt><dd>​​​Figure&#58; Good&#160;Example -&#160;a virtual&#160;client task board in action (<a href="http&#58;//tfspreview.com/">TFS​</a>)​</dd></dl><dl class="goodImage"><dt>
-      <img src="/PublishingImages/Taskboard.jpg" alt="TaskBoard" style="width&#58;550px;" />
-   </dt><dd>​​Figure&#58; OK​ Example -&#160;a physical&#160;client task board in operation</dd></dl><p>Near your task board, stick an SSW &quot;Want to submit a User Story?&quot;</p><ul><li>Where to find their project portal </li><li>Who to contact with questions​ </li><li>How to add tasks to the task board </li></ul><p>Print out this PDF and fill in the 2 fields and stick it on own task board.</p><div class="greyBox" style="overflow&#58;auto;"> 
-   <a href="/Documents/SSWSubmitaPBI.pdf">
-      <img src="/PublishingImages/preview-taskboard.jpg" alt="" style="float&#58;left;margin-right&#58;10px;" />Download the &quot;SSW Submit a PBI&quot; PDF.</a> </div><dl class="image"><dt> 
-      <img src="/PublishingImages/Avatar.jpg" alt="" />
-   </dt><dd>Figure&#58; Create an avatar for each person and stick them on the current task. You can find our 
-      <a shape="rect" href="http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard">User Story Cards here</a>. You can write the TFS work item ID on each card.</dd></dl>
+
+  <img width="500" class="ms-rteCustom-ImageArea" src="/Management/RulesToBetterScrumUsingTFS/PublishingImages/Taskboard.jpg" alt="" />&#160;<font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; a physical&#160;client taskboard in operation.</font><font class="ms-rteCustom-FigureNormal" size="+0"><img src="/Management/RulesToBetterScrumUsingTFS/PublishingImages/TFS%20Preview%20Task%20Board.png" alt="TFS Preview Task Board.png" style="margin-top&#58;5px;margin-right&#58;5px;margin-bottom&#58;5px;margin-left&#58;5px;height&#58;314px;width&#58;800px;" /><br><br><br>Figure&#58; a virtual&#160;client taskboard in action (<a href="http&#58;//tfspreview.com/">TFS​</a>).<br><br></font>
+<p>Here at SSW every taskboard is accompanied by a page that lists clearly three things that clients need to know&#58;</p>
+<ul>
+    <li>Where to find their project portal </li>
+    <li>Who to contact with questions </li>
+    <li>How to add tasks to the taskboard </li>
+</ul>
+<p>Print out this pdf and attach it to your own taskboard. </p>
+<div style="border-bottom-color&#58;rgb(187, 187, 187);border-bottom-width&#58;1px;border-bottom-style&#58;solid;border-left-color&#58;rgb(187, 187, 187);border-left-width&#58;1px;border-left-style&#58;solid;padding-bottom&#58;5px;padding-left&#58;5px;width&#58;220px;padding-right&#58;5px;background-image&#58;initial;background-attachment&#58;initial;background-color&#58;rgb(238, 238, 238);height&#58;73px;border-top-color&#58;rgb(187, 187, 187);border-top-width&#58;1px;border-top-style&#58;solid;border-right-color&#58;rgb(187, 187, 187);border-right-width&#58;1px;border-right-style&#58;solid;padding-top&#58;5px;"><a shape="rect" href="/Management/RulesToBetterScrumUsingTFS/Documents/SSW-Taskboard.pdf" style="border-bottom-width&#58;medium;border-bottom-style&#58;none;border-bottom-color&#58;initial;float&#58;left;"><img src="/Management/RulesToBetterScrumUsingTFS/PublishingImages/preview-taskboard.jpg" alt="" style="border-bottom-color&#58;rgb(204, 204, 204);border-bottom-width&#58;1px;border-bottom-style&#58;solid;border-left-color&#58;rgb(204, 204, 204);border-left-width&#58;1px;border-left-style&#58;solid;border-top-color&#58;rgb(204, 204, 204);border-top-width&#58;1px;border-top-style&#58;solid;margin-right&#58;8px;border-right-color&#58;rgb(204, 204, 204);border-right-width&#58;1px;border-right-style&#58;solid;" /></a> <a shape="rect" href="/Management/RulesToBetterScrumUsingTFS/Documents/SSW-Taskboard.pdf">Download the SSW Client Taskboard pdf.</a></div>
+<p>&#160;</p>
+<p><img src="/Management/RulesToBetterScrumUsingTFS/PublishingImages/Avatar.jpg" alt="" /><br>
+<font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; Create an avatar for each person and stick them on the current task<br>
+</font><br>
+You can find our <a shape="rect" href="http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard">User Story Cards here</a>. You can write the TFS work item ID on each card. </p>
+
 
 
