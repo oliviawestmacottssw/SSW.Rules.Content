@@ -11,7 +11,7 @@ authors:
 
  Having a physical task board makes it easy for developers to keep track of tasks. 
 
-<br>These are the columns (aka swim lanes) you need: <br> ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/Taskboard.jpg) Figure: a physical client taskboard in operation.![TFS Preview Task Board.png](/Management/RulesToBetterScrumUsingTFS/PublishingImages/TFS%20Preview%20Task%20Board.png)
+These are the columns (aka swim lanes) you need:  ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/Taskboard.jpg) Figure: a physical client taskboard in operation.![TFS Preview Task Board.png](/Management/RulesToBetterScrumUsingTFS/PublishingImages/TFS%20Preview%20Task%20Board.png)
 
 
 Figure: a virtual client taskboard in action ([TFS​](http&#58;//tfspreview.com/)).
@@ -33,5 +33,5 @@ Print out this pdf and attach it to your own taskboard.
 ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/Avatar.jpg)
 Figure: Create an avatar for each person and stick them on the current task
 
- You can find our [User Story Cards here](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard). You can write the TFS work item ID on each card.
+You can find our [User Story Cards here](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard). You can write the TFS work item ID on each card.
 
