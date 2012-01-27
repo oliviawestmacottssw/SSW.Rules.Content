@@ -13,7 +13,6 @@ authors:
 
 These are the columns (aka swim lanes) you need:  ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/Taskboard.jpg) Figure: a physical client taskboard in operation.![TFS Preview Task Board.png](/Management/RulesToBetterScrumUsingTFS/PublishingImages/TFS%20Preview%20Task%20Board.png)
 
-
 Figure: a virtual client taskboard in action ([TFS​](http&#58;//tfspreview.com/)).
 
 
