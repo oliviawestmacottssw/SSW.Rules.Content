@@ -13,12 +13,20 @@ authors: []
 **Daily Scrum Meetings** - This is time boxed to 15 mins. All members of the team should be well prepared by:
 
 - Being ready on time
-- Having their "Remaining hours" up-to-date – read [Do you update your tasks before the daily Scrum meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/UpdateTasks.aspx)
-- Knowing what was done since the last meeting e.g. "Yesterday I did xxx"
-- Knowing what is planned to be done until next meeting e.g. "Today I will do yyy"
-- Explain roadblocks and impediments that might exist e.g. "I might hit a roadblock today because of xxx"
-- Remember to say "Let's "Park" that conversation for after the scrum". Major discussions are not to be conducted during the time boxed scrum meeting.
-- Being online on Skype (especially for team members in different locations)
+- Having their "Remaining hours" up-to-date – read [Do you update your tasks before the daily Scrum meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/DailyScrumUpdateTasks.aspx)
+- Be ready to answer the 3 main questions:
+
+
+
+> > > What did you do yesterday? e.g. "Yesterday I did xxx"
+> > > 
+> > > What are you doing today? e.g. "Today I will do yyy"
+> > > 
+> > > Do you forsee any impediments or roadblocks? e.g. "I might hit a roadblock today because of xxx"
+
+
+- Remember to say "Let's Park" that conversation for after the scrum". Major discussions are not to be conducted during the time boxed scrum meeting.
+- Being online on Skype (especially for team members in different locations) Lync is better
 
 
 **Related Links**
@@ -53,7 +61,7 @@ authors: []
 **Planning WHAT meetings** - all members of the team must be well prepared by:
 
 - Having all bugs and User Stories up-to-date on the backlog
-- Having all stories on the backlog “groomed” in<br>order of priority (according to the Product Owner)​
+- Having all stories on the backlog “groomed” in order of priority (according to the Product Owner)​
 
 
 **Planning HOW meetings** - all members of the team must be well prepared by:
