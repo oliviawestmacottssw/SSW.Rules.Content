@@ -19,4 +19,4 @@ The scrum team needs a place to gather for all the scrum ceremonies. This room s
 - Product Roadmap (to let everyone know the large future priorities)
 - [Definition of Done - aka Done Criteria or DoD](/Management/RulesToSuccessfulProjects/Pages/DoYouGoBeyondDoneAndFollowADoneCriteria.aspx) (the quality that is being adheared to)
 
- ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/war-room-bad-example.jpg) Bad Example – No Product Roadmap is on the wall, so people can be out of sync with the future plans of the Product Owner ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/war-room-good-example.jpg) Good Example – The Product Roadmap is visible at a glance
+<br>​ ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/war-room-bad-example.jpg) Bad Example – No Product Roadmap is on the wall, so people can be out of sync with the future plans of the Product Owner ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/war-room-good-example.jpg) Good Example – The Product Roadmap is visible at a glance
