@@ -11,7 +11,7 @@ authors:
 
 ---
 
- The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug. <br> 
+ The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug. <br>​ 
 ![](/Management/RulesToSuccessfulProjects/PublishingImages/bug-feature.png)
 
 A software issue will be fixed under the fixed-price warranty where:
@@ -35,7 +35,7 @@ Figure: An incorrect sum is likely to be a bug**
 **
 
 **Examples of what is \*not\* a bug covered by the warranty:**
-1. Any problem caused by software or an application not written by company supplying the software.
+1. Any problem caused by software or an application not written by the organization supplying the software.
 2. The customer requirement was not included in the user interface/mock-ups/specifications.
 3. The client decides that they don't like the look of the current form even though it is the substantially the same as shown in the specification and wants the buttons at the bottom of the form instead of at the top.
 4. The original specification states that the total price excludes GST, but it really should have included GST. This is a change to the specification, and is not included in the contract.
