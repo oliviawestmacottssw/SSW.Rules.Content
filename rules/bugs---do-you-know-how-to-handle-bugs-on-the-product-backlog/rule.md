@@ -18,7 +18,7 @@ Story Points cannot be allocated against bugs in MSF Agile 5.0 so to include the
 
 Bugs that are introduced and found because of the current work in the Sprint are included in the Sprint and estimated immediately so the burndown remains accurate.
 
-See [Do you know when to create bugs?](/Management/RulesToBetterScrumUsingTFS/Pages/CreateBugs.aspx) for detailed information on identifying when something is a bug, and when to just fix it.
+See [Do you know when to create bugs?](/Pages/CreateBugs.aspx) for detailed information on identifying when something is a bug, and when to just fix it.
 
 1. ## Using MSF Agile 5.0
     Bugs found that are independent of the work on the current Sprint are placed on the Product Backlog as a work item “Bug”. The product Owner then ranks the Bugs with priority amongst the User Stories. Bugs cannot have Story Points allocated to them so User Stories need to be created with Bugs as Child Work Items. This is only done when the PO has prioritized the Bug and the Bug is likely to make the next Sprint. At the Planning Meeting, the PO elects which Bugs are to be included and new User Stories are created to group them appropriately with due regard to Severity and Stack Rank. Once the User Stories have been created, The Team estimates the Story Points for each one; the Product confirms User Stack Rank and the Sprint Backlog is planned as normal.
@@ -34,11 +34,17 @@ See [Do you know when to create bugs?](/Management/RulesToBetterScrumUsingTFS/Pa
     As bugs from previous sprints are just PBI’s, the PO agrees to a list of bugs that will be fixed in the current Sprint.
     The team just fixes any **newly** bugs they introduced in the current sprint.
     If the team finds bugs due to functionality accepted in a previous sprint they log it as a PBI and will complete the fix in a future sprint, unless it is a critical bug, in which case they raise it as an impediment to the current sprint to the PO.
+    Examples:
 
+    - **Small bug** – Text on a label is spelled incorrectly
+    - **Big bug** - There is an error thrown when transitioning from page 1 to page 2 when you hold down the Ctrl key
+3. ## ​​​​​​​Using TFS Preview (TFS 2012)
 
-Examples:
+    Bugs found that are independent of the work on the current Sprint are placed on the Product Backlog as a work item “Bug”. The product Owner then ranks the Bugs with priority amongst the User Stories. Bugs can have a value associated with them for effort the same as PBI's. At the Planning Meeting, the PO elects which Bugs are to be included by ordering them on the Product Backlog.
+    Bugs found within the current Sprint added to the tasks they are related to as child items. The Development Team aims to fix the bug as soon as possible within the current Sprint.
+    ![tfs_preview_add_bug.png](/PublishingImages/tfs_preview_add_bug.png)
 
-- **Small bug** – Text on a label is spelled incorrectly
-- **Big bug** - There is an error thrown when transitioning from page 1 to page 2 when you hold down the Ctrl key
+**Figure: Bugs can be added "out of Sprint" directly into the Product Backlog in TFS Preview (TFS 2012)**
+    ​
 
-
+ ​​​​​​​​  
