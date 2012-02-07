@@ -14,7 +14,7 @@ authors:
  The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug. <br> 
 ![](/Management/RulesToSuccessfulProjects/PublishingImages/bug-feature.png)
 
- A software issue will be fixed under the fixed-price warranty where:
+A software issue will be fixed under the fixed-price warranty where:
 
 1. The application **crashes to code **(excluding bugs resulting from third party products (e.g. "blue screen of death" or crashing in a third party data grid that we cannot control); **or **
 2. The application displays **data inconsistent with the specified business rules**;** or**
@@ -35,7 +35,7 @@ Figure: An incorrect sum is likely to be a bug**
 **
 
 **Examples of what is \*not\* a bug covered by the warranty:**
-1. Any problem caused by software or an application not written by SSW.
+1. Any problem caused by software or an application not written by company supplying the software.
 2. The customer requirement was not included in the user interface/mock-ups/specifications.
 3. The client decides that they don't like the look of the current form even though it is the substantially the same as shown in the specification and wants the buttons at the bottom of the form instead of at the top.
 4. The original specification states that the total price excludes GST, but it really should have included GST. This is a change to the specification, and is not included in the contract.
@@ -43,7 +43,7 @@ Figure: An incorrect sum is likely to be a bug**
 
 **Work items in TFS**
 
-At SSW, we use TFS as our source control and project tracking system. Using it allows us to create work items such as user stories, bugs, tasks, test cases etc. We only create bugs in TFS for defects, faults, flaws, or imperfections that fulfill our definition of a bug. For everything else we use other work item types.
+Using TFS allows you to create work items such as user stories, bugs, tasks, test cases etc. Only create bugs in TFS for defects, faults, flaws, or imperfections that fulfill your definition of a bug. For everything else use other work item types.
 
 
 > **![](/Management/RulesToSuccessfulProjects/PublishingImages/WorkItemsTFS.jpg)
