@@ -12,9 +12,9 @@ authors:
 ---
 
  The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug. <br>​ 
-![](/Management/RulesToSuccessfulProjects/PublishingImages/bug-feature.png)
+![](/PublishingImages/bug-feature.png)
 
-A software issue will be fixed under the fixed-price warranty where:
+A software issue can be classed as a bug where:
 
 1. The application **crashes to code **(excluding bugs resulting from third party products (e.g. "blue screen of death" or crashing in a third party data grid that we cannot control); **or **
 2. The application displays **data inconsistent with the specified business rules**;** or**
@@ -23,18 +23,18 @@ A software issue will be fixed under the fixed-price warranty where:
 
 
 **and **the developers can reproduce the above on the test server **and **the application is not yet "live" **and **the issue has been reported in time (generally 30 days).
-**Examples of what \*could\* constistute a bug covered by the warranty:**
+**Examples of what \*could\* constistute a bug:**
 1. The application crashes to code because it doesn't check that a connection is valid before running a stored procedure **(this is likely covered because it crashes to code)
-![](/Management/RulesToSuccessfulProjects/PublishingImages/YellowScreenofDeath.jpg)
+![](/PublishingImages/YellowScreenofDeath.jpg)
 Figure: Yellow screen of death**
 2. A sum total is negative instead of positive because the wrong operator (plus instead of minus) has been used to calculate the running balance **(this is likely covered because data is inconsistent with the specified business rules)
-![](/Management/RulesToSuccessfulProjects/PublishingImages/IncorrectSum.jpg)
+![](/PublishingImages/IncorrectSum.jpg)
 Figure: An incorrect sum is likely to be a bug**
 3. The application is missing the Monthly Sales report **(this is likely covered because the application is missing functionality specified in the specification)**
 4. The output HTML in the application is formatted way out of line and does not display in the specified browser (e.g. Internet Explorer 9) **(this is likely covered because it substantially inconsistent with the agreed mockup)
 **
 
-**Examples of what is \*not\* a bug covered by the warranty:**
+**Examples of what is \*not\* a bug:**
 1. Any problem caused by software or an application not written by the organization supplying the software.
 2. The customer requirement was not included in the user interface/mock-ups/specifications.
 3. The client decides that they don't like the look of the current form even though it is the substantially the same as shown in the specification and wants the buttons at the bottom of the form instead of at the top.
@@ -46,14 +46,21 @@ Figure: An incorrect sum is likely to be a bug**
 Using TFS allows you to create work items such as user stories, bugs, tasks, test cases etc. Only create bugs in TFS for defects, faults, flaws, or imperfections that fulfill your definition of a bug. For everything else use other work item types.
 
 
-> **![](/Management/RulesToSuccessfulProjects/PublishingImages/WorkItemsTFS.jpg)
+> **![](/PublishingImages/WorkItemsTFS.jpg)
 > <br>Figure: Do I create this as a bug, or a task? ****
 > **
 
 
-**Handling additional work**
+**Handling additional work for fixed-price contracts**
 
  Any new features or modifications (non-bug items) not in the original release plan are classed as additional work and are outside the scope of the contract. Any tasks which **are** bugs should be marked as additional items and be completed in the current release if possible. Most importantly, after the release plan has been sent, **a task should NOT be entered as an item (additional or otherwise) in ANY sprints if they are not a bug**. Instead, move all non-bug items to the product backlog for future review after the warranty period for the fixed price contract has passed.
+
+**Handling additional work in a Scrum project**
+
+Any new features or modifications (non-bug items) not in the original Product Backlog are classed as additional PBI's and placed on the Product Backlog. Any tasks which **are** bugs found during the current Sprint should be fixed within the current Sprint. Any tasks which **are** bugs found outside of the current Sprint should be added to the Product Backlog.
+
+![tfs_preview_add_bug.png](/PublishingImages/62034c_tfs_preview_add_bug.png)
+**Figure: Adding a bug to the Product Backlog in TFS Preview (TFS 2012)**
 
 If you see a bug in any software product, e.g. SSW Code Auditor, it is best to report the issue following the steps outlined the [SSW Bug or Enhancement Reporting Standard](http&#58;//www.ssw.com.au/ssw/Standards/Support/BugReportOrEnhancement.aspx).
 
