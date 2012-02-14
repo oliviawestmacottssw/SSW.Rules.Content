@@ -17,7 +17,7 @@ When updating a version of a video (especially in a corporate environment), it's
 Figure: Bad example - the version number completely overtakes the frame and it's all you can notice.
 
 ![Version Example.png](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Version%20Example.png)
-Figure: Good example - the text is barely visible and would only be noticeable if you're looking for it.
+Figure: Good example - the text is small, barely visible and would only be noticeable if you're looking for it.
 
 The best way to label the version is as follows:
 
