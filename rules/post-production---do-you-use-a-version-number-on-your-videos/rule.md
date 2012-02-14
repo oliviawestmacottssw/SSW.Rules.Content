@@ -10,10 +10,8 @@ authors:
 ---
 
  
-This field should not be null (Remove me when you edit this field).
-
 When updating a version of a video (especially in a corporate environment), it's wise to let the rest of your team know where you're up to. It can detract from your amount of hits if you include the version details in the title, so it's best to find a subtle way to incorporate it into the video itself.
-
+   ​
 ![Bad version example.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Bad%20version%20example.jpg)
 
 Figure: Bad example - the version number completely overtakes the frame and it's all you can notice.
@@ -21,9 +19,9 @@ Figure: Bad example - the version number completely overtakes the frame and it's
 ![Version Example.png](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Version%20Example.png)
 Figure: Good example - the text is barely visible and would only be noticeable if you're looking for it.
 
-The best way to label the version is as follows:
+The best way to label the version is as follows:
 
 When a team member creates a new version, they should change the minor (i.e. the number after the decimal point)
 
 When the product owner affirms a new version, the major changes (i.e. the number before the decimal point)
- 
+
