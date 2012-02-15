@@ -26,7 +26,7 @@ If you go into your sent items, open up the offending email, and go into file | 
 
 
 
-Figure: File | Info | Resend Or Recall | Recall This Message
+Figure: File | Info | Resend Or Recall | Recall This Message (Outlook 2010)
 
 Outlook will tell you whether it was successful or not
 
