@@ -19,9 +19,9 @@ This exercise uses the VS2010 planning poker deck of cards & TFS
 # Separate out the cards
 
 Separate out these as Chance Cards
-![Chance Cards](/Management/RulesToBetterScrumUsingTFS/PublishingImages/chance-cards.jpg) Figure: Chance cards
+![Chance Cards](/PublishingImages/chance-cards.jpg) Figure: Chance cards
 Separate out these as Point Cards
-![Point Cards](/Management/RulesToBetterScrumUsingTFS/PublishingImages/point-cards.jpg) Figure: Point cards
+![Point Cards](/PublishingImages/point-cards.jpg) Figure: Point cards
 # Set Timeboxes
 
 **Sprint Planning (What): ** 20 minutes
