@@ -14,7 +14,7 @@ When updating a version of a video (especially in a corporate environment),  it
    ​
 ![Bad version example.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Bad%20version%20example.jpg)
 
-Figure: Bad example - the version number completely overtakes the frame and it's all you can notice.
+Figure: Bad example - the version number completely overtakes the frame.
 
 ![Version Example.png](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Version%20Example.png)
 Figure: Good example - the text is small, barely visible and would only be noticeable if you're looking for it.
