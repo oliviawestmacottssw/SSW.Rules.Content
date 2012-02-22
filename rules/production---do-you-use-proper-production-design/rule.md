@@ -59,7 +59,7 @@ Figure: Good example - these lights are diffused enough that the rest of the pic
 Props and set dressing are important; props are defined as objects in the script that we know before-hand that the subjects will interact with, set dressing is things that we add to a set to create content. When choosing what props should(n't) be on set it is important to ask yourself, is there a reason for this to be here? A can of coke for example will be ugly and distracting in most circumstances but a pot of flowers might be just the thing to give your scene that extra bit of life, or convey a caring sensitive side of your character. If your subject needs to drink something while they're on camera, offer them a glass (its more visually pleasing). Look carefully at the frame and ask yourself, is there any camera equipment visible? Does that ugly mess of cables really need to be there? Does this scrap of paper or backpack *need* to be in the frame? If not, ditch it. If it adds value to the picture and doesn't distract, keep it.
 
 ![Props-Bad-example-DSC_0016.JPG](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Props-Bad-example-DSC_0016.JPG)
-Figure: Bad example - too much clutter on the desk, unnecessary dirty bowl, loose sheets of paper. 
+Figure: Bad example - too much clutter on the desk, unnecessary dirty bowl, loose sheets of paper, this would only work if you wanted to illustrate that the character is messy. 
 ![Props-good-example-DSC_0017.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Props-good-example-DSC_0017.jpg)
 
 Figure: Good example - clear space, clear point of focus, minimal cables, only necessary items.
