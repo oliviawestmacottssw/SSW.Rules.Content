@@ -28,3 +28,7 @@ Basic rules to follow include:
 4. The best way to position your subjects is at 90° to each other and at 45° to the camera:
 
 ![bad interview positions.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/bad-interview-positions.jpg) Figure: Bad example - Interviewer (right) is facing toward the interviewee too much and the interviewee is faced towards the camera too much. ![interview positions.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/interview%20positions.jpg) Figure: Good example - position your subjects properly to create an unbiased interview. When doing an over the shoulder shot (OTS) for a corporate video, it is generally best to stay at a level height with the subject. Looking up or down at them can create unnecessary meaning in the shot. It is also a good idea to avoid using the wide angle setting on your camera as it makes the subject seem distant and small in comparison to the person whose shoulder we can see. ![bad OTS example.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/bad%20OTS%20example.jpg) Figure: Bad example – looking down at the subject with a wide angle lens setting. ![Good OTS example.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Good%20OTS%20example.jpg)Figure: Good example – level height, zoom level not set to wide angle.
+
+
+
+
