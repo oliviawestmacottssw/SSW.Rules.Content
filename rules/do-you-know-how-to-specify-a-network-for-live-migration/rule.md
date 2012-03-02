@@ -14,8 +14,8 @@ To specify the roles of each network adapter:
 
 1. Open the Failover Cluster Manager
 2. Expand the Networks section and you will see all of your network adapters listed
-3. Right click on the network that you are using for LAN and ISCSI and make sure that the following setting is selected<br>![Network properties window](/ITAndNetworking/Rules-to-Better-Hyper-V-Clustering/PublishingImages/cluster-network.jpg)Figure: Network properties window
+3. Right click on the network that you are using for LAN and ISCSI and make sure that the following setting is selected
 
-
+![Network properties window](/ITAndNetworking/Rules-to-Better-Hyper-V-Clustering/PublishingImages/cluster-network.jpg)Figure: Network properties window
 This setting prevents ISCSI and LAN traffic from going over the cluster network
 
