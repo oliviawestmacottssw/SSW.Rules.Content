@@ -16,7 +16,7 @@ Tip #1: Choose the same day each week (for example SSW chooses Tuesday)
  Tip #2: While it is better to conduct an internal "Test Please" before the meeting (for example SSW chooses Friday), this "Release Update/Debrief Meeting" should proceed (even if it hasn't been completed).
 
 This is the agenda:
-
+<br>​ 
 1. Status of original work items - are they all done?
 2. External [Test Please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx) - go through the application and get the clients thoughts. Many issues they see, will already be reported by the internal "Test Please". Send emails for the new ones.
 3. Triage these additional work items - try to move all to the next release
@@ -37,7 +37,7 @@ There are tools to help you do this:
 - [SSW TFS Add-in - Release Update/Debrief Report](http&#58;//www.ssw.com.au/ssw/AgileTemplate/UserGuide.aspx#ReleaseUpdate)
 
 ![](/Management/RulesToSuccessfulProjects/PublishingImages/ProgressReport_small.jpg) Figure: The actual output of the Release Update Report 
-Here is a PDF format [SSW Release Update Report.](http&#58;//www.ssw.com.au/ssw/AgileTemplate/Sample/SSWReleaseUpdate.pdf)
+Here is a PDF format [SSW Release Upd​​ate Report.](http&#58;//www.ssw.com.au/ssw/AgileTemplate/Sample/SSWReleaseUpdate.pdf)
 
 **If you are at the end of a main section of work, promote your success **
 
