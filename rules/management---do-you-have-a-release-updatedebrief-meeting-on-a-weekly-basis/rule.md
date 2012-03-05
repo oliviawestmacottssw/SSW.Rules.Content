@@ -37,7 +37,7 @@ There are tools to help you do this:
 - [SSW TFS Add-in - Release Update/Debrief Report](http&#58;//www.ssw.com.au/ssw/AgileTemplate/UserGuide.aspx#ReleaseUpdate)
 
 ![](/Management/RulesToSuccessfulProjects/PublishingImages/ProgressReport_small.jpg) Figure: The actual output of the Release Update Report 
-Here is a PDF format [SSW Release Upd​​ate Report.](http&#58;//www.ssw.com.au/ssw/AgileTemplate/Sample/SSWReleaseUpdate.pdf)
+Here is a PDF format [SSW Release Upd​​ate Report.](http&#58;//www.ssw.com.au/ssw/AgileTemplate/Sample/Reports.zip)
 
 **If you are at the end of a main section of work, promote your success **
 
@@ -45,4 +45,4 @@ Here is a PDF format [SSW Release Upd​​ate Report.](http&#58;//www.ssw.com.
 - Create a case study and get it approved - This should be a win-win for the client. eg.  [WorleyParsons](http&#58;//www.ssw.com.au/ssw/Company/WorleyparsonsCaseStudy.aspx)
 - Add a link to the work you have done from your website or marketing material. eg. at SSW we do this via the [Our Clients](http&#58;//www.ssw.com.au/ssw/Company/OurClients.aspx) page
 
-
+ ​  
