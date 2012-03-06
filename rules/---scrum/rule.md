@@ -18,7 +18,7 @@ authors:
  
 ​1.  昨天做了什么?(你是否更新了TFS/其它跟踪系统的工作项)?
 
-2.  你今天要做什么?(我当前的任务已经在白板上了)
+2.  你今天要做什么?(我​当前的任务已经在白板上了)
 
 3.  你是否有阻碍?(问题/障碍物)
 
@@ -38,10 +38,10 @@ authors:
 <div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;"><strong>Stephen Forte</strong></div></span></div></div>
 <p><strong>&#160;下面这些建议由助于提高你的每日Scrum会议&#58;</strong></p>
 <p class="ssw-rteStyle-Tip">建议 1&#58;在会议结束时，让你的Scrum Master回顾当前迭代的进度</p>
-<p><span></span><span>在</span><span>会议结束时,Scrum</span><span> </span><span>Master应该</span><a href="/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx">检查燃尽图</a>以<span>把握团队当前的进度</span><span></span></p></font></font></font>
+<p><span></span><span></span><span>在</span><span>会议结束时,Scrum</span><span></span><span> </span><span></span><span>Master应该</span><a href="/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx">检查燃尽图</a>以<span>把握团队当前的进度</span><span></span><span></span></p></font></font></font>
 <font color="#333333"><font face="Verdana"><font size="2"><img class="ssw-rteStyle-ImageArea" alt="burndowntfspreview.png" src="/Management/RulesToSuccessfulProjects/PublishingImages/burndowntfspreview.png" style="width&#58;601px;height&#58;467px;">&#160;</font></font></font>
 
-<font color="#333333"><font face="Verdana"><font size="2"></font></font></font>Figure:TFS 预览版(TFS 2012)自动生成燃尽图建议 2: 在墙上留一张每日Scrum会议的日程表(+ 在OutLook中有一个appointment)
+<font color="#333333"><font face="Verdana"><font size="2"></font></font></font>Figure:TFS 预览版(TFS 2012)自动生成燃尽图建议 2: 在墙上留一张每日Scrum会议的日程表(+ 在OutLook中有一个appointment)
 
 
 <font size="2"><span>Hi <strong>&lt;团队名称&gt;</strong>,</span></font>
