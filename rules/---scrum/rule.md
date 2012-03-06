@@ -105,6 +105,8 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 **Figure:TFS ****Preview****中的任务板****(TFS 2012)**
 
+
+
 **建议**** 8:****带上纸和笔**
 
 带上纸和笔将事情的摘要记录下来。
