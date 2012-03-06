@@ -14,9 +14,9 @@ authors:
 
 最好还是通过站立的方式完成，这样会议将简短并且抓住要点。要知道没有人愿意站在那里闲聊。
 
-每个人要回答三个关键问题。
+每个人要回答三个关键问题。​
  
-​1.  昨天做了什么?(你是否更新了TFS/其它跟踪系统的工作项)?
+​1.  昨天做了什么?(你是否更新了TFS/其它任务跟踪系统的工作项)?
 
 2.  你今天要做什么?(我​当前的任务已经在白板上了)
 
@@ -44,7 +44,7 @@ authors:
 Stephen Forte
 
 
-** 下面这些建议由助于提高你的每日Scrum会议:**
+** 下面这些建议有助于提高你的每日Scrum会议:**
 
 建议 1:在会议结束时，让你的Scrum Master回顾当前迭代的进度
 
@@ -79,7 +79,7 @@ Figure:Outlook中设置每日站立会议的计划表模板
 
 如果Scrum Master不是团队的全职成语(通常他们是),他们应该偶尔参加以检查Scrum会议流程在被执行,并且保证每天的站立会议是用来同步团队的进度而不是一个普通的会议。
 
-注意 #1: Product Owner(通常是客户)是没必要参加站立会议的。如果他想要参加,保证他不要说话。
+注意 #1: Product Owner(通常是客户)是没必要参加站立会议的。如果他想要参加,保证让他不要说话。
 
 注意 #2: 如果你正在一个未经批准的迭代中，或者是正在做临时特别任务，那么Product Owner参加是最好的了。([临时特别任务](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#AdHocManagedWork))
 
@@ -91,11 +91,11 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 ​建议 5:不要详细内容
 
-​保证你的回答简洁明了。不要偏离了那三个主要问题。记着使用'Parking Lot'记录下主题以便在会议之后进行讨论
+​保证你的回答简洁明了。不要偏离了那三个主要问题。记着使用'Parking Lot'记录下主题以便在会议之后进行讨论。
 
 建议 6:不要打电话+不要检查邮件。不要分心
 
-科技会使得开会的人们失去了目标焦点。会议的目标是使人们通过分享他们正在做什么以保证团队的同步。在站立会议中通过禁止邮件，短信和电话以保证人们不会被分心
+科技会使得开会的人们失去了目标焦点。会议的目标是使人们通过分享他们正在做什么以保证团队的同步。在站立会议中通过禁止邮件，短信和电话以保证人们不会被分心。
 
 **建议**** 7: ****使用一个任务版（这要比使用的一个电子版的好****)**
 
@@ -121,11 +121,11 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 ![Description&#58; Get the Product Owner on the phone](/Management/RulesToSuccessfulProjects/PublishingImages/ProductOwnerTelephone.jpg)
 
-**Figure:****通常****Product**** ****Owner****不会****Scrum****会议中。但是如果你遇到一个障碍，给****Product**** ****Owner****打一个电话。如果你在上一周与他没有接触，那么与****Product**** ****Owner****交流就变的非常重要。与****Product**** ****Owner****失去联系是项目垮掉的一个信号****。**
+**Figure:****通常****Product**** ****Owner****不会在****Scrum****会议中。但是如果你遇到一个障碍，给****Product**** ****Owner****打一个电话。如果你在上一周与他没有接触，那么与****Product**** ****Owner****交流就变的非常重要。与****Product**** ****Owner****失去联系是项目垮掉的一个信号****。**
 
-**建议 11:你如何将你的Scrum会议填入你的工时表中?**
+**建议 11:如何将你的Scrum会议填入你的工时表中?**
 
-一旦你完成了站立会议，添加'S'在你的工时表中（[Rules](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTimesheets.aspx) to Better Timesheets)
+一旦你完成了站立会议，添加'S'在你的工时表中（ [SSW建议:更好的填写工时表](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTimesheets.aspx))
 
 建议 12:使用 Skype或者Lync
 
@@ -143,11 +143,9 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 更多的信息
 
-
-
 如果你的任务都做完了怎么办?
 
-目标是使一天8个小时变的有效率的,所以与其它开发人员交流，与他们一起完成其他的任务。如果没有任何任务了，就从Sprint Backlog中取出最上面的的一条任务。
+目标是使一天8个小时变的有效率,所以与其它开发人员交流，与他们一起完成其他的任务。如果没有任何任务了，就从Sprint Backlog中取出最上面的的一条任务。
 
 如果发生了重大事故怎么办?
 
