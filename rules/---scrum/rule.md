@@ -30,7 +30,7 @@ authors:
 
 ** **
 
-**Remember**
+**Remember** 
 **"改变Scrum是可以的，实际上为了成功，这也是有必要的。只要能遵守Scrum价值"**
 
 **Stephen Forte**
@@ -39,67 +39,22 @@ authors:
 ** 下面这些建议由助于提高你的每日Scrum会议:**
 
 **建议 1:在会议结束时，让你的Scrum Master回顾当前迭代的进度**
-<br>在会议结束时,Scrum Master应该[检查燃尽图](/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx)来把握当前团队的进度
+<br>在会议结束时,Scrum Master应该[检查燃尽图](/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx)来把握当前团队的进度 
 ![burndowntfspreview.png](/Management/RulesToSuccessfulProjects/PublishingImages/burndowntfspreview.png)
 
 Figure：TFS 预览版(TFS 2012)自动生成燃尽图**建议**** 2: 在墙上留一张每日Scrum会议的日程表(+ 在OutLook中有一个appointment)**
 
- 
+Hi &lt;团队名称&gt;,
 
+根据我们的会话,&lt;项目名称&gt;的每日Scrum会议在每个工作日的11:00AM(悉尼时间)在&lt;地点&gt;举行。
 
-**Hi**** ****&lt;团队名称&gt;****,**
+根据以下这条标准，它持续时间最长为15分钟
 
-**根据我们的会话,****&lt;项目名称&gt;****的每日Scrum会议在每个工作日的11:00AM(悉尼时间)在****&lt;地点&gt;****举行。**
+[http://rules.ssw.com.au/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)
 
-**根据以下这条标准，它持续时间最长为15分钟**
-
-[**http://rules.ssw.com.au/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx**](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)
-
-**谢谢,**
-
-**&lt;Scrum Master&gt;​**
-
-
+谢谢,
+<br>&lt;Scrum Master&gt;​
+<br> 
 
 Figure: Outlook中设置每日站立会议的计划表模板
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
