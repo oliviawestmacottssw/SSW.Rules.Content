@@ -39,9 +39,9 @@ authors:
 ** **
 
 **记住** 
-**      "改变Scrum是可以的，实际上为了成功，这也是有必要的。只要能遵守Scrum价值"**
+      "改变Scrum是可以的，实际上为了成功，这也是有必要的。只要能遵守Scrum价值"
 
-**Stephen Forte**
+Stephen Forte
 
 
 ** 下面这些建议由助于提高你的每日Scrum会议:**
@@ -59,8 +59,6 @@ Figure:TFS 预览版(TFS 2012)自动生成燃尽图
 
 Hi **&lt;团队名称&gt;**,
 
-
-
 根据我们的会话,**&lt;项目名称**&gt;的每日Scrum会议在每个工作日的11:00AM(悉尼时间)在&lt;**地点&gt;**举行。
 
 根据以下这条标准，它持续时间最长为15分钟
@@ -71,9 +69,7 @@ Hi **&lt;团队名称&gt;**,
 
 
 谢谢,
-**&lt;Scrum Master&gt;​  **
-
-<br> 
+**&lt;Scrum Master&gt;​  ** 
 
 Figure:Outlook中设置每日站立会议的计划表模板
 
@@ -105,9 +101,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 一个任务板允许人们看到当前正在讨论的问题。
 
-
-![Description&#58; tfspreviewtaskboard.png](/Management/RulesToSuccessfulProjects/PublishingImages/tfspreviewtaskboard.png)
-<br><br> 
+![tfspreviewtaskboard.png](/Management/RulesToSuccessfulProjects/PublishingImages/tfspreviewtaskboard.png)​
 
 **Figure:TFS ****Preview****中的任务板****(TFS 2012)**
 
@@ -135,7 +129,19 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 使用Skype或者Lync解决地理隔离问题
 
+
+
+
+> Focus on the Flow
+> 
+> "Extend this rule to focus on 'flow of value', not just people. In a continuous flow mindset, the daily standup is less about the people..... it's about flow. The team faces the scrumboard and goes ticket by ticket for all the items in the 'work in progress', finding out what is needed to get it to the next stage.. respecting work in progress constraints."
+> 
+> [Joel Semeniuk​](http&#58;//joelfromcanada.com/)
+
+
 更多的信息
+
+
 
 如果你的任务都做完了怎么办?
 
@@ -149,4 +155,4 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 ​Figure:如果有重大问题发生，每日站立会议会提醒每个人并且集中所有的智慧到一个问题上。如果一把尖刀插进了你的眼睛，你再给擦破皮的膝盖贴创可贴是没有任何意义的。​
 ![dailyscrumtweet.png](/Management/RulesToSuccessfulProjects/PublishingImages/dailyscrumtweet.png)​
-Figure: 喜欢请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https&#58;//twitter.com/#%21/AdamCogan/status/168175594209681408) ​
+Figure: 喜欢请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https&#58;//twitter.com/#%21/AdamCogan/status/168175594209681408) ​​  
