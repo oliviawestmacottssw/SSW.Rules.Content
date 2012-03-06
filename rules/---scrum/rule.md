@@ -18,7 +18,7 @@ authors:
  
 ​1.  昨天做了什么?(你是否更新了TFS/其它跟踪系统的工作项)?
 
-2.  你今天要做什么?(我当前的任务已经在白板上了)
+2.  你今天要做什么?(我​当前的任务已经在白板上了)
 
 3.  你是否有阻碍?(问题/障碍物)
 
@@ -52,7 +52,7 @@ authors:
 
 ![burndowntfspreview.png](/Management/RulesToSuccessfulProjects/PublishingImages/burndowntfspreview.png)
 
-Figure:TFS 预览版(TFS 2012)自动生成燃尽图建议 2: 在墙上留一张每日Scrum会议的日程表(+ 在OutLook中有一个appointment)
+Figure:TFS 预览版(TFS 2012)自动生成燃尽图建议 2: 在墙上留一张每日Scrum会议的日程表(+ 在OutLook中有一个appointment)
 
 
 Hi **&lt;团队名称&gt;**,
