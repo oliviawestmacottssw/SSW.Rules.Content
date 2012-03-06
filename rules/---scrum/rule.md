@@ -34,11 +34,11 @@ authors:
 
 <font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"><strong>Figure&#58; 微软的每日Scrum会议(长)</strong></font></font></font></font></font></font>
 <font color="#333333" style="line-height&#58;18px;"><font face="Verdana"><font size="2"><div><strong>&#160;</strong></div>
-<div class="ssw-rteStyle-GreyBox"><div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;font-family&#58;verdana, arial, sans-serif;margin-bottom&#58;0px;padding-top&#58;10px;"><strong>记住</strong><span style="line-height&#58;18px;"><strong></strong> <div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;"><strong>&#160; &#160; &#160; &quot;改变Scrum是可以的，实际上为了成功，这也是有必要的。只要能遵守Scrum价值&quot;</strong></div>
-<div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;"><strong>Stephen Forte</strong></div></span></div></div>
+<div class="ssw-rteStyle-GreyBox"><div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;font-family&#58;verdana, arial, sans-serif;margin-bottom&#58;0px;padding-top&#58;10px;"><strong>记住</strong><span style="line-height&#58;18px;"><strong></strong> <div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;">&#160; &#160; &#160; &quot;改变Scrum是可以的，实际上为了成功，这也是有必要的。只要能遵守Scrum价值&quot;</div>
+<div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;">Stephen Forte</div></span></div></div>
 <p><strong>&#160;下面这些建议由助于提高你的每日Scrum会议&#58;</strong></p>
 <p class="ssw-rteStyle-Tip">建议 1&#58;在会议结束时，让你的Scrum Master回顾当前迭代的进度</p>
-<p><span></span><span></span><span></span><span>在</span><span>会议结束时,Scrum</span><span></span><span></span><span> </span><span></span><span></span><span>Master应该</span><a href="/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx">检查燃尽图</a>以<span>把握团队当前的进度</span><span></span><span></span><span></span></p></font></font></font>
+<p><span></span><span>在</span><span>会议结束时,Scrum</span><span></span><span> </span><span></span><span>Master应该</span><a href="/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx">检查燃尽图</a>以<span>把握团队当前的进度</span><span></span></p></font></font></font>
 <font color="#333333"><font face="Verdana"><font size="2"><img class="ssw-rteStyle-ImageArea" alt="burndowntfspreview.png" src="/Management/RulesToSuccessfulProjects/PublishingImages/burndowntfspreview.png" style="width&#58;601px;height&#58;467px;">&#160;</font></font></font>
 
 <font color="#333333"><font face="Verdana"><font size="2"></font></font></font>Figure:TFS 预览版(TFS 2012)自动生成燃尽图
@@ -47,14 +47,12 @@ authors:
 
 
 <font size="2"><span>Hi <strong>&lt;团队名称&gt;</strong>,</span></font>
-<font size="2"><p><span></span>&#160;</p>
-<div><span>根据我们的会话,<strong>&lt;项目名称</strong>&gt;的每日Scrum会议在每个工作日的11&#58;00AM(悉尼时间)在&lt;<strong>地点&gt;</strong>举行。</span></div>
+<font size="2"><div><span>根据我们的会话,<strong>&lt;项目名称</strong>&gt;的每日Scrum会议在每个工作日的11&#58;00AM(悉尼时间)在&lt;<strong>地点&gt;</strong>举行。</span></div>
 <div>根据以下这条标准，它持续时间最长为15分钟</div>
 <div><span><font color="#3a66cc"><a href="/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx">http&#58;//rules.ssw.com.au/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx</a></font></span></div>
 <div><span><br></span></div>
 <div>谢谢,</div>
-<strong>&lt;Scrum Master&gt;​&#160;&#160;</strong><p>&#160;</p>
-&#160;</font>
+<strong>&lt;Scrum Master&gt;​ &#160;</strong></font> 
 
 Figure:Outlook中设置每日站立会议的计划表模板
 
@@ -86,9 +84,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 一个任务板允许人们看到当前正在讨论的问题。
 
-
-![Description&#58; tfspreviewtaskboard.png](/Management/RulesToSuccessfulProjects/PublishingImages/tfspreviewtaskboard.png)
-<br><br> 
+![tfspreviewtaskboard.png](/Management/RulesToSuccessfulProjects/PublishingImages/tfspreviewtaskboard.png)​
 
 **Figure:TFS ****Preview****中的任务板****(TFS 2012)**
 
@@ -116,18 +112,24 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 使用Skype或者Lync解决地理隔离问题
 
-更多的信息
 
-如果你的任务都做完了怎么办?
+<font class="ms-rteCustom-FigureNormal"><blockquote class="ms-rteCustom-GreyBox"><p>Focus on the Flow</p>
+<span style="font-weight&#58;normal;"><p>&quot;Extend this rule to focus on 'flow of value', not just people. In a continuous flow mindset, the daily standup is less about the people..... it's about flow. The team faces the scrumboard and goes ticket by ticket for all the items in the 'work in progress', finding out what is needed to get it to the next stage.. respecting work in progress constraints.&quot; </p>
+<p class="ms-rteCustom-FigureNormal"><span style="font-weight&#58;normal;"></span><span style="font-weight&#58;normal;"><a href="http&#58;//joelfromcanada.com/">Joel Semeniuk​</a></span></p></span></blockquote>
+<p class="ms-rteCustom-FigureNormal"><span style="font-size&#58;small;line-height&#58;15pt;"></span><span style="font-size&#58;small;line-height&#58;15pt;">更</span><span style="font-size&#58;small;line-height&#58;15pt;">多</span><span style="font-size&#58;small;line-height&#58;15pt;">的信息</span><span style="font-size&#58;small;line-height&#58;15pt;"></span></p>
+<p class="MsoNormal" style="font-size&#58;small;line-height&#58;15pt;background-image&#58;initial;background-attachment&#58;initial;"><b><span style="font-size&#58;9pt;font-family&#58;verdana, sans-serif;"></span></b>&#160;</p>
 
-目标是使一天8个小时变的有效率的,所以与其它开发人员交流，与他们一起完成其他的任务。如果没有任何任务了，就从Sprint Backlog中取出最上面的的一条任务。
+<p class="ssw-rteStyle-Tip"><span lang="ZH-CN">如果你的任务都做完了怎么办</span><span>?</span></p>
+<span class="ssw-rteStyle-Tip">
+</span>
 
-如果发生了重大事故怎么办?
+<p class="MsoNormal" style="font-size&#58;small;line-height&#58;15pt;background-image&#58;initial;background-attachment&#58;initial;"><span lang="ZH-CN">目标是使一天</span><span>8</span><span lang="ZH-CN">个小时变的有效率的</span><span>,</span><span lang="ZH-CN">所以与其它开发人员交流，与他们一起完成其他的任务。如果没有任何任务了，就从</span><span>Sprint </span><span></span><span>Backlog</span><span lang="ZH-CN">中取出最上面的的一条任务</span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN">。</span></p>
 
-首先处理任何重大事故是很重要的。处理任何在24小时内发生的重大事件。
+<p class="ssw-rteStyle-Tip"><span lang="ZH-CN">如果发生了重大事故怎么办</span><span>?</span></p>
+<span class="ssw-rteStyle-Tip">
+</span>
 
-![](/Management/RulesToSuccessfulProjects/PublishingImages/NewStandUpImage.jpg)
-
-​Figure:如果有重大问题发生，每日站立会议会提醒每个人并且集中所有的智慧到一个问题上。如果一把尖刀插进了你的眼睛，你再给擦破皮的膝盖贴创可贴是没有任何意义的。​
-![dailyscrumtweet.png](/Management/RulesToSuccessfulProjects/PublishingImages/dailyscrumtweet.png)​
-Figure: 喜欢请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https&#58;//twitter.com/#%21/AdamCogan/status/168175594209681408) ​
+<p class="MsoNormal" style="font-size&#58;small;line-height&#58;15pt;background-image&#58;initial;background-attachment&#58;initial;"><span lang="ZH-CN">首先处理任何重大事故是很重要的。处理任何在</span><span>24</span><span lang="ZH-CN">小时内发生的重大事件。</span><b><span style="font-size&#58;9pt;font-family&#58;verdana, sans-serif;"></span></b></p>
+<p class="MsoNormal" style="font-size&#58;small;line-height&#58;15pt;background-image&#58;initial;background-attachment&#58;initial;"><span lang="ZH-CN"><img src="/Management/RulesToSuccessfulProjects/PublishingImages/NewStandUpImage.jpg" class="ms-rteCustom-ImageArea" alt="" style="font-size&#58;12px;font-weight&#58;bold;line-height&#58;18px;"></span>&#160;</p>
+<p class="ssw-rteStyle-FigureNormal"><span lang="ZH-CN"></span><span>​Figure&#58;</span><span lang="ZH-CN">如果有重大问题发生，每日站立会议会提醒每个人并且集中所有的智慧到一个问题上。如果一把尖刀插进了你的眼睛，你再给擦破皮的膝盖贴创可贴是没有任何意义的。​</span></p>
+<span class="ssw-rteStyle-FigureNormal"><img src="/Management/RulesToSuccessfulProjects/PublishingImages/dailyscrumtweet.png" alt="dailyscrumtweet.png" class="ms-rteCustom-ImageArea" style="margin-right&#58;5px;margin-left&#58;5px;line-height&#58;20px;"><span style="line-height&#58;20px;">​</span><br style="line-height&#58;20px;"><span style="line-height&#58;20px;">Figure&#58; 喜欢请转发&#160;&#160;</span><a href="https&#58;//twitter.com/#%21/AdamCogan/status/168175594209681408" style="line-height&#58;20px;">https&#58;//twitter.com/#!/AdamCogan/status/168175594209681408</a><span style="line-height&#58;20px;">&#160;​</span></span></font>​  
