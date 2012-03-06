@@ -14,9 +14,9 @@ authors:
 
 最好还是通过站立的方式完成，这样会议将简短并且抓住要点。要知道没有人愿意站在那里闲聊。
 
-每个人要回答三个关键问题。
+每个人要回答三个关键问题。​
  
-​1.  昨天做了什么?(你是否更新了TFS/其它跟踪系统的工作项)?
+​1.  昨天做了什么?(你是否更新了TFS/其它任务跟踪系统的工作项)?
 
 2.  你今天要做什么?(我​当前的任务已经在白板上了)
 
@@ -36,7 +36,7 @@ authors:
 <font color="#333333" style="line-height&#58;18px;"><font face="Verdana"><font size="2"><div><strong>&#160;</strong></div>
 <div class="ssw-rteStyle-GreyBox"><div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;font-family&#58;verdana, arial, sans-serif;margin-bottom&#58;0px;padding-top&#58;10px;"><strong>记住</strong><span style="line-height&#58;18px;"><strong></strong> <div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;">&#160; &#160; &#160; &quot;改变Scrum是可以的，实际上为了成功，这也是有必要的。只要能遵守Scrum价值&quot;</div>
 <div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;">Stephen Forte</div></span></div></div>
-<p><strong>&#160;下面这些建议由助于提高你的每日Scrum会议&#58;</strong></p>
+<p><strong>&#160;下面这些建议有助于提高你的每日Scrum会议&#58;</strong></p>
 <p class="ssw-rteStyle-Tip">建议 1&#58;在会议结束时，让你的Scrum Master回顾当前迭代的进度</p>
 <p><span></span><span>在</span><span>会议结束时,Scrum</span><span></span><span> </span><span></span><span>Master应该</span><a href="/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx">检查燃尽图</a>以<span>把握团队当前的进度</span><span></span></p></font></font></font>
 <font color="#333333"><font face="Verdana"><font size="2"><img class="ssw-rteStyle-ImageArea" alt="burndowntfspreview.png" src="/Management/RulesToSuccessfulProjects/PublishingImages/burndowntfspreview.png" style="width&#58;601px;height&#58;467px;">&#160;</font></font></font>
@@ -62,7 +62,7 @@ Figure:Outlook中设置每日站立会议的计划表模板
 
 如果Scrum Master不是团队的全职成语(通常他们是),他们应该偶尔参加以检查Scrum会议流程在被执行,并且保证每天的站立会议是用来同步团队的进度而不是一个普通的会议。
 
-注意 #1: Product Owner(通常是客户)是没必要参加站立会议的。如果他想要参加,保证他不要说话。
+注意 #1: Product Owner(通常是客户)是没必要参加站立会议的。如果他想要参加,保证让他不要说话。
 
 注意 #2: 如果你正在一个未经批准的迭代中，或者是正在做临时特别任务，那么Product Owner参加是最好的了。([临时特别任务](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#AdHocManagedWork))
 
@@ -74,11 +74,11 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 ​建议 5:不要详细内容
 
-​保证你的回答简洁明了。不要偏离了那三个主要问题。记着使用'Parking Lot'记录下主题以便在会议之后进行讨论
+​保证你的回答简洁明了。不要偏离了那三个主要问题。记着使用'Parking Lot'记录下主题以便在会议之后进行讨论。
 
 建议 6:不要打电话+不要检查邮件。不要分心
 
-科技会使得开会的人们失去了目标焦点。会议的目标是使人们通过分享他们正在做什么以保证团队的同步。在站立会议中通过禁止邮件，短信和电话以保证人们不会被分心
+科技会使得开会的人们失去了目标焦点。会议的目标是使人们通过分享他们正在做什么以保证团队的同步。在站立会议中通过禁止邮件，短信和电话以保证人们不会被分心。
 
 **建议**** 7: ****使用一个任务版（这要比使用的一个电子版的好****)**
 
@@ -104,11 +104,11 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 ![Description&#58; Get the Product Owner on the phone](/Management/RulesToSuccessfulProjects/PublishingImages/ProductOwnerTelephone.jpg)
 
-**Figure:****通常****Product**** ****Owner****不会****Scrum****会议中。但是如果你遇到一个障碍，给****Product**** ****Owner****打一个电话。如果你在上一周与他没有接触，那么与****Product**** ****Owner****交流就变的非常重要。与****Product**** ****Owner****失去联系是项目垮掉的一个信号****。**
+**Figure:****通常****Product**** ****Owner****不会在****Scrum****会议中。但是如果你遇到一个障碍，给****Product**** ****Owner****打一个电话。如果你在上一周与他没有接触，那么与****Product**** ****Owner****交流就变的非常重要。与****Product**** ****Owner****失去联系是项目垮掉的一个信号****。**
 
-**建议 11:你如何将你的Scrum会议填入你的工时表中?**
+**建议 11:如何将你的Scrum会议填入你的工时表中?**
 
-一旦你完成了站立会议，添加'S'在你的工时表中（[Rules](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTimesheets.aspx) to Better Timesheets)
+一旦你完成了站立会议，添加'S'在你的工时表中（<font color="#3a66cc" face="verdana, sans-serif">&#160;</font>[<font color="#3a66cc" face="verdana, sans-serif">SSW建议&#58;更好的填写工时表</font>](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTimesheets.aspx)<font face="verdana, sans-serif"><span style="font-size&#58;9pt;line-height&#58;15pt;">)</span></font>
 
 建议 12:使用 Skype或者Lync
 
@@ -118,20 +118,20 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 <font class="ms-rteCustom-FigureNormal"><blockquote class="ms-rteCustom-GreyBox"><p>Focus on the Flow</p>
 <span style="font-weight&#58;normal;"><p>&quot;Extend this rule to focus on 'flow of value', not just people. In a continuous flow mindset, the daily standup is less about the people..... it's about flow. The team faces the scrumboard and goes ticket by ticket for all the items in the 'work in progress', finding out what is needed to get it to the next stage.. respecting work in progress constraints.&quot; </p>
 <p class="ms-rteCustom-FigureNormal"><span style="font-weight&#58;normal;"></span><span style="font-weight&#58;normal;"><a href="http&#58;//joelfromcanada.com/">Joel Semeniuk​</a></span></p></span></blockquote>
-<p class="ms-rteCustom-FigureNormal"><span style="font-size&#58;small;line-height&#58;15pt;"></span><span style="font-size&#58;small;line-height&#58;15pt;">更</span><span style="font-size&#58;small;line-height&#58;15pt;">多</span><span style="font-size&#58;small;line-height&#58;15pt;">的信息</span><span style="font-size&#58;small;line-height&#58;15pt;"></span></p>
-<p class="MsoNormal" style="font-size&#58;small;line-height&#58;15pt;background-image&#58;initial;background-attachment&#58;initial;"><b><span style="font-size&#58;9pt;font-family&#58;verdana, sans-serif;"></span></b>&#160;</p>
+<p class="ms-rteCustom-FigureNormal"><span style="font-size&#58;small;line-height&#58;15pt;"></span><span style="font-size&#58;small;line-height&#58;15pt;">更</span><span style="font-size&#58;small;line-height&#58;15pt;">多</span><span style="font-size&#58;small;line-height&#58;15pt;">的信息</span></p>
 
-<p class="ssw-rteStyle-Tip"><span lang="ZH-CN">如果你的任务都做完了怎么办</span><span>?</span></p>
-<span class="ssw-rteStyle-Tip">
+<span></span><p><span lang="ZH-CN">如果你的任务都做完了怎么办</span><span>?</span></p>
+<span>
 </span>
 
-<p class="MsoNormal" style="font-size&#58;small;line-height&#58;15pt;background-image&#58;initial;background-attachment&#58;initial;"><span lang="ZH-CN">目标是使一天</span><span>8</span><span lang="ZH-CN">个小时变的有效率的</span><span>,</span><span lang="ZH-CN">所以与其它开发人员交流，与他们一起完成其他的任务。如果没有任何任务了，就从</span><span>Sprint </span><span></span><span>Backlog</span><span lang="ZH-CN">中取出最上面的的一条任务</span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN">。</span></p>
+<span></span><span></span><p><span lang="ZH-CN">目标是使一天</span><span>8</span><span lang="ZH-CN">个小时变的有效率</span><span>,</span><span lang="ZH-CN">所以与其它开发人员交流，与他们一起完成其他的任务。如果没有任何任务了，就从</span><span>Sprint </span><span></span><span>Backlog</span><span lang="ZH-CN">中取出最上面的的一条任务</span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN">。</span></p>
+<span></span><span></span>
 
-<p class="ssw-rteStyle-Tip"><span lang="ZH-CN">如果发生了重大事故怎么办</span><span>?</span></p>
-<span class="ssw-rteStyle-Tip">
+<p><span lang="ZH-CN">如果发生了重大事故怎么办</span><span>?</span></p>
+<span>
 </span>
 
-<p class="MsoNormal" style="font-size&#58;small;line-height&#58;15pt;background-image&#58;initial;background-attachment&#58;initial;"><span lang="ZH-CN">首先处理任何重大事故是很重要的。处理任何在</span><span>24</span><span lang="ZH-CN">小时内发生的重大事件。</span><b><span style="font-size&#58;9pt;font-family&#58;verdana, sans-serif;"></span></b></p>
+<p class="MsoNormal" style="font-size&#58;small;line-height&#58;15pt;background-image&#58;initial;background-attachment&#58;initial;"><span lang="ZH-CN">首先处理任何重大事故是很重要的。处理任何在</span><span>24</span><span lang="ZH-CN">小时内发生的重大事件。</span><span></span><b><span style="font-size&#58;9pt;font-family&#58;verdana, sans-serif;"></span></b></p>
 <p class="MsoNormal" style="font-size&#58;small;line-height&#58;15pt;background-image&#58;initial;background-attachment&#58;initial;"><span lang="ZH-CN"><img src="/Management/RulesToSuccessfulProjects/PublishingImages/NewStandUpImage.jpg" class="ms-rteCustom-ImageArea" alt="" style="font-size&#58;12px;font-weight&#58;bold;line-height&#58;18px;"></span>&#160;</p>
 <p class="ssw-rteStyle-FigureNormal"><span lang="ZH-CN"></span><span>​Figure&#58;</span><span lang="ZH-CN">如果有重大问题发生，每日站立会议会提醒每个人并且集中所有的智慧到一个问题上。如果一把尖刀插进了你的眼睛，你再给擦破皮的膝盖贴创可贴是没有任何意义的。​</span></p>
 <span class="ssw-rteStyle-FigureNormal"><img src="/Management/RulesToSuccessfulProjects/PublishingImages/dailyscrumtweet.png" alt="dailyscrumtweet.png" class="ms-rteCustom-ImageArea" style="margin-right&#58;5px;margin-left&#58;5px;line-height&#58;20px;"><span style="line-height&#58;20px;">​</span><br style="line-height&#58;20px;"><span style="line-height&#58;20px;">Figure&#58; 喜欢请转发&#160;&#160;</span><a href="https&#58;//twitter.com/#%21/AdamCogan/status/168175594209681408" style="line-height&#58;20px;">https&#58;//twitter.com/#!/AdamCogan/status/168175594209681408</a><span style="line-height&#58;20px;">&#160;​</span></span></font>​  
