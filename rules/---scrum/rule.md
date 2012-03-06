@@ -46,13 +46,13 @@ authors:
 
 ** 下面这些建议由助于提高你的每日Scrum会议:**
 
-**建议 1:在会议结束时，让你的Scrum Master回顾当前迭代的进度**
-<br>在会议结束时,Scrum Master应该[检查燃尽图](/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx)来把握当前团队的进度 
+建议 1:在会议结束时，让你的Scrum Master回顾当前迭代的进度
+
+在会议结束时,Scrum Master应该[检查燃尽图](/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx)以把握团队当前的进度
+
 ![burndowntfspreview.png](/Management/RulesToSuccessfulProjects/PublishingImages/burndowntfspreview.png)
 
-Figure：TFS 预览版(TFS 2012)自动生成燃尽图**建议**** 2: 在墙上留一张每日Scrum会议的日程表(+ 在OutLook中有一个appointment)**
-
-
+Figure:TFS 预览版(TFS 2012)自动生成燃尽图建议 2: 在墙上留一张每日Scrum会议的日程表(+ 在OutLook中有一个appointment)
 
 
 Hi **&lt;团队名称&gt;**,
@@ -73,7 +73,7 @@ Hi **&lt;团队名称&gt;**,
 
 <br> 
 
-Figure: Outlook中设置每日站立会议的计划表模板
+Figure:Outlook中设置每日站立会议的计划表模板
 
 **建议**** 3: ****坚持日程****,****在同样地方****,****同样时间****(****即使有人缺席****)**
 
@@ -85,15 +85,15 @@ Figure: Outlook中设置每日站立会议的计划表模板
 
 注意 #2: 如果你正在一个未经批准的迭代中，或者是正在做临时特别任务，那么Product Owner参加是最好的了。([临时特别任务](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#AdHocManagedWork))
 
-**建议**** 4: ****在站立会议开始前你是否更新了任务状态****?**
+**建议**** 4: ​****在站立会议开始前你是否更新了任务状态****?**
 
 提前保证团队成员的任务状态被更新，这样会议会更有效率。
 
 SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/DailyScrumUpdateTasks.aspx)
 
-建议 5:不要详细内容
+​建议 5:不要详细内容
 
-保证你的回答简洁明了。不要偏离了那三个主要问题。记着使用'Parking Lot'记录下主题以便在会议之后进行讨论
+​保证你的回答简洁明了。不要偏离了那三个主要问题。记着使用'Parking Lot'记录下主题以便在会议之后进行讨论
 
 建议 6:不要打电话+不要检查邮件。不要分心
 
@@ -107,9 +107,9 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 ![Description&#58; tfspreviewtaskboard.png](/Management/RulesToSuccessfulProjects/PublishingImages/tfspreviewtaskboard.png)
 <br><br> 
 
-**Figure: TFS ****Preview****中的任务板****(TFS 2012)**
+**Figure:TFS ****Preview****中的任务板****(TFS 2012)**
 
-**建议**** 8: ****带上纸和笔**
+**建议**** 8:****带上纸和笔**
 
 带上纸和笔将事情的摘要记录下来。
 
@@ -121,7 +121,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 ![Description&#58; Get the Product Owner on the phone](/Management/RulesToSuccessfulProjects/PublishingImages/ProductOwnerTelephone.jpg)
 
-**Figure: ****通常****Product**** ****Owner****不会****Scrum****会议中。但是如果你遇到一个障碍，给****Product**** ****Owner****打一个电话。如果你在上一周与他没有接触，那么与****Product**** ****Owner****交流就变的非常重要。与****Product**** ****Owner****失去联系是项目垮掉的一个信号****。**
+**Figure:****通常****Product**** ****Owner****不会****Scrum****会议中。但是如果你遇到一个障碍，给****Product**** ****Owner****打一个电话。如果你在上一周与他没有接触，那么与****Product**** ****Owner****交流就变的非常重要。与****Product**** ****Owner****失去联系是项目垮掉的一个信号****。**
 
 **建议 11:你如何将你的Scrum会议填入你的工时表中?**
 
@@ -135,24 +135,14 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 如果你的任务都做完了怎么办?
 
-目标是使一天8个小时变的有效率的,所以与其它开发人员交流，与他们一起完成其他的任务。如果没有任何任务了，就从Sprint Backlog中取出最上面的的一条任务
+目标是使一天8个小时变的有效率的,所以与其它开发人员交流，与他们一起完成其他的任务。如果没有任何任务了，就从Sprint Backlog中取出最上面的的一条任务。
 
 如果发生了重大事故怎么办?
 
-首先处理任何重大事故时很重要的。处理任何在24小时内发生的重大事件。
+首先处理任何重大事故是很重要的。处理任何在24小时内发生的重大事件。
 
 ![](/Management/RulesToSuccessfulProjects/PublishingImages/NewStandUpImage.jpg)
 
-Figure:如果有重大问题发生，每日站立会议会提醒每个人并且集中所有的智慧到一个问题上。如果一把尖刀插进了你的眼睛，你再给擦破皮的膝盖贴创可贴是没有任何意义的。​
+​Figure:如果有重大问题发生，每日站立会议会提醒每个人并且集中所有的智慧到一个问题上。如果一把尖刀插进了你的眼睛，你再给擦破皮的膝盖贴创可贴是没有任何意义的。​
 ![dailyscrumtweet.png](/Management/RulesToSuccessfulProjects/PublishingImages/dailyscrumtweet.png)​
 Figure: 如果你喜欢，请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https&#58;//twitter.com/#%21/AdamCogan/status/168175594209681408) ​
-
-
-
-
-
-
-
-
-
- ​​​  
