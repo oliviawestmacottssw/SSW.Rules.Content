@@ -28,20 +28,22 @@ authors:
 
 <font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"><strong>Figure&#58; 微软的每日Scrum会议(短)</strong></font></font></font></font></font></font>
 
-<font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"><strong><br></strong></font></font></font></font></font></font>
+<font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"><strong>​<br></strong></font></font></font></font></font></font>
 
 <font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"><strong><br></strong></font></font></font></font></font></font>
 
 <font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"><strong>Figure&#58; 微软的每日Scrum会议(长)</strong></font></font></font></font></font></font>
 <font color="#333333" style="line-height&#58;18px;"><font face="Verdana"><font size="2"><div><strong>&#160;</strong></div>
-<div class="ssw-rteStyle-GreyBox"><div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;font-family&#58;verdana, arial, sans-serif;margin-bottom&#58;0px;padding-top&#58;10px;"><strong>记住</strong><span style="line-height&#58;18px;"><strong></strong> <div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;"><strong>&quot;改变Scrum是可以的，实际上为了成功，这也是有必要的。只要能遵守Scrum价值&quot;</strong></div>
+<div class="ssw-rteStyle-GreyBox"><div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;font-family&#58;verdana, arial, sans-serif;margin-bottom&#58;0px;padding-top&#58;10px;"><strong>记住</strong><span style="line-height&#58;18px;"><strong></strong> <div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;"><strong>&#160; &#160; &#160; &quot;改变Scrum是可以的，实际上为了成功，这也是有必要的。只要能遵守Scrum价值&quot;</strong></div>
 <div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;"><strong>Stephen Forte</strong></div></span></div></div>
 <p><strong>&#160;下面这些建议由助于提高你的每日Scrum会议&#58;</strong></p>
 <p class="ssw-rteStyle-Tip">建议 1&#58;在会议结束时，让你的Scrum Master回顾当前迭代的进度</p>
-<p><span></span><span></span><span>在</span><span>会议结束时,Scrum</span><span></span><span> </span><span></span><span>Master应该</span><a href="/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx">检查燃尽图</a>以<span>把握团队当前的进度</span><span></span><span></span></p></font></font></font>
+<p><span></span><span></span><span></span><span>在</span><span>会议结束时,Scrum</span><span></span><span></span><span> </span><span></span><span></span><span>Master应该</span><a href="/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx">检查燃尽图</a>以<span>把握团队当前的进度</span><span></span><span></span><span></span></p></font></font></font>
 <font color="#333333"><font face="Verdana"><font size="2"><img class="ssw-rteStyle-ImageArea" alt="burndowntfspreview.png" src="/Management/RulesToSuccessfulProjects/PublishingImages/burndowntfspreview.png" style="width&#58;601px;height&#58;467px;">&#160;</font></font></font>
 
-<font color="#333333"><font face="Verdana"><font size="2"></font></font></font>Figure:TFS 预览版(TFS 2012)自动生成燃尽图建议 2: 在墙上留一张每日Scrum会议的日程表(+ 在OutLook中有一个appointment)
+<font color="#333333"><font face="Verdana"><font size="2"></font></font></font>Figure:TFS 预览版(TFS 2012)自动生成燃尽图
+
+建议 2: 在墙上留一张每日Scrum会议的日程表(+ 在OutLook中有一个appointment)
 
 
 <font size="2"><span>Hi <strong>&lt;团队名称&gt;</strong>,</span></font>
@@ -96,7 +98,9 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 一个白板对于记录那些讨论中出现的问题也很有用。
 
-**建议 9:不要让你的每日Scrum会议变成一个日常会议-使用"Parking<br>L****ot"**"ParkingLot"是一个可以将任何阻碍回答三个主要问题的讨论放在一起的地方。只有那些感兴趣的人会在站立会议后留在"ParkingLot"讨论那些问题。
+建议 9:不要让你的每日Scrum会议变成一个日常会议-使用“Parking Lot”
+
+"ParkingLot"是一个可以将任何阻碍回答三个主要问题的讨论放在一起的地方。只有那些感兴趣的人会在站立会议后留在"ParkingLot"讨论那些问题。
 
 建议 10:如果你发现了障碍，考虑联系你的Product Owner
 
@@ -108,7 +112,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 一旦你完成了站立会议，添加'S'在你的工时表中（[Rules](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTimesheets.aspx) to Better Timesheets)
 
-建议 12：使用 Skype或者Lync
+建议 12:使用 Skype或者Lync
 
 使用Skype或者Lync解决地理隔离问题
 
@@ -126,4 +130,4 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 ​Figure:如果有重大问题发生，每日站立会议会提醒每个人并且集中所有的智慧到一个问题上。如果一把尖刀插进了你的眼睛，你再给擦破皮的膝盖贴创可贴是没有任何意义的。​
 ![dailyscrumtweet.png](/Management/RulesToSuccessfulProjects/PublishingImages/dailyscrumtweet.png)​
-Figure: 如果你喜欢，请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https&#58;//twitter.com/#%21/AdamCogan/status/168175594209681408) ​
+Figure: 喜欢请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https&#58;//twitter.com/#%21/AdamCogan/status/168175594209681408) ​
