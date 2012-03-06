@@ -38,7 +38,7 @@ authors:
 <div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;">Stephen Forte</div></span></div></div>
 <p><strong>&#160;下面这些建议有助于提高你的每日Scrum会议&#58;</strong></p>
 <p class="ssw-rteStyle-Tip">建议 1&#58;在会议结束时，让你的Scrum Master回顾当前迭代的进度</p>
-<p><span></span><span>在</span><span>会议结束时,Scrum</span><span></span><span> </span><span></span><span>Master应该</span><a href="/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx">检查燃尽图</a>以<span>把握团队当前的进度</span><span></span></p></font></font></font>
+<p><span></span><span></span><span>在</span><span>会议结束时,Scrum</span><span></span><span></span><span> </span><span></span><span></span><span>Master应该</span><a href="/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx">检查燃尽图</a>以<span>把握团队当前的进度</span><span></span><span></span></p></font></font></font>
 <font color="#333333"><font face="Verdana"><font size="2"><img class="ssw-rteStyle-ImageArea" alt="burndowntfspreview.png" src="/Management/RulesToSuccessfulProjects/PublishingImages/burndowntfspreview.png" style="width&#58;601px;height&#58;467px;">&#160;</font></font></font>
 
 <font color="#333333"><font face="Verdana"><font size="2"></font></font></font>Figure:TFS 预览版(TFS 2012)自动生成燃尽图
@@ -88,9 +88,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 
 **Figure:TFS ****Preview****中的任务板****(TFS 2012)**
 
-
-
-**建议**** 8:****带上纸和笔**
+**​建议**** 8:****带上纸和笔**
 
 带上纸和笔将事情的摘要记录下来。
 
@@ -118,13 +116,13 @@ SSW 规则 [Do you update your tasks before the daily stand-up<br>meeting?](/Man
 <font class="ms-rteCustom-FigureNormal"><blockquote class="ms-rteCustom-GreyBox"><p>Focus on the Flow</p>
 <span style="font-weight&#58;normal;"><p>&quot;Extend this rule to focus on 'flow of value', not just people. In a continuous flow mindset, the daily standup is less about the people..... it's about flow. The team faces the scrumboard and goes ticket by ticket for all the items in the 'work in progress', finding out what is needed to get it to the next stage.. respecting work in progress constraints.&quot; </p>
 <p class="ms-rteCustom-FigureNormal"><span style="font-weight&#58;normal;"></span><span style="font-weight&#58;normal;"><a href="http&#58;//joelfromcanada.com/">Joel Semeniuk​</a></span></p></span></blockquote>
-<p class="ms-rteCustom-FigureNormal"><span style="font-size&#58;small;line-height&#58;15pt;"></span><span style="font-size&#58;small;line-height&#58;15pt;">更</span><span style="font-size&#58;small;line-height&#58;15pt;">多</span><span style="font-size&#58;small;line-height&#58;15pt;">的信息</span></p>
+<p class="ms-rteCustom-FigureNormal"><span style="font-size&#58;small;line-height&#58;15pt;"></span><span style="font-size&#58;small;line-height&#58;15pt;"></span><span style="font-size&#58;small;line-height&#58;15pt;">更</span><span style="font-size&#58;small;line-height&#58;15pt;">多</span><span style="font-size&#58;small;line-height&#58;15pt;">的信息</span><span style="font-size&#58;small;line-height&#58;15pt;"></span></p>
 
 <span></span><p><span lang="ZH-CN">如果你的任务都做完了怎么办</span><span>?</span></p>
 <span>
 </span>
 
-<span></span><span></span><p><span lang="ZH-CN">目标是使一天</span><span>8</span><span lang="ZH-CN">个小时变的有效率</span><span>,</span><span lang="ZH-CN">所以与其它开发人员交流，与他们一起完成其他的任务。如果没有任何任务了，就从</span><span>Sprint </span><span></span><span>Backlog</span><span lang="ZH-CN">中取出最上面的的一条任务</span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN">。</span></p>
+<span></span><span></span><p><span lang="ZH-CN">目标是使一天</span><span>8</span><span lang="ZH-CN">个小时变的有效率</span><span>,</span><span lang="ZH-CN">所以与其它开发人员交流，与他们一起完成其他的任务。如果没有任何任务了，就从</span><span>Sprint </span><span></span><span></span><span>Backlog</span><span lang="ZH-CN">中取出最上面的的一条任务</span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN">。</span></p>
 <span></span><span></span>
 
 <p><span lang="ZH-CN">如果发生了重大事故怎么办</span><span>?</span></p>
