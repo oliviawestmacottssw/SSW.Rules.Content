@@ -83,13 +83,11 @@ Hi **&lt;团队名称&gt;**,
 如果Scrum Master不是团队的全职成员（通常他们是全职），他们应该偶尔参加以检查Scrum会议流程按时进行，并且保证每天的Scrum会议是用来同步团队成员的进度而不是一个普通的会议。
 
 注意 #1: Product Owner（通常是客户）是没必要参加Scrum会议的，如果他想要参加，让他保证不要说话。
-
 注意 #2: 如果你正在一个未经批准的迭代中，或者是正在做临时特别任务，那么Product Owner参加是最好的了。([临时特别任务](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#AdHocManagedWork))
 
 **建议**** 4：****在Scrum会议开始前你是否更新了任务状态****?**
 
 提前保证团队成员的任务状态被更新，这样会议会更有效率。
-
 SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/DailyScrumUpdateTasks.aspx)
 
 ​建议 5：不要涉及详细内容​保证你的回答简洁明了，不要偏离那三个关键问题，记着使用“Parking Lot”记录下问题以便在会议后进行讨论。
@@ -101,8 +99,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/Manage
 
 人们可以通过任务板看到当前正在讨论的问题。
 
-![tfspreviewtaskboard.png](/Management/RulesToSuccessfulProjects/PublishingImages/tfspreviewtaskboard.png)​
-
+![tfspreviewtaskboard.png](/Management/RulesToSuccessfulProjects/PublishingImages/tfspreviewtaskboard.png)​  
 **图：TFS ****Preview****中的任务板****(TFS 2012)**
 
 **
@@ -133,21 +130,19 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/Manage
 
 
 
-> Focus on the Flow
-> 
-> "Extend this rule to focus on 'flow of value', not just people. In a continuous flow mindset, the daily standup is less about the people..... it's about flow. The team faces the scrumboard and goes ticket by ticket for all the items in the 'work in progress', finding out what is needed to get it to the next stage.. respecting work in progress constraints."
+> **关注流动**
+> “将这条规则扩展到‘价值的流动’，而不仅仅是人。保持着一个持续化流动的理念在脑海中，Scrum会议将会更少的关注人....
+> 它是关注于价值的流动的。团队站在白板前，每个人浏览那些‘正在进行中’的工作项，试着找出推进它能进入到下一个阶段的方法...同时要考虑到工作项相互之间的约束。”
 > 
 > [Joel Semeniuk​](http&#58;//joelfromcanada.com/)
 
 
 更多的信息：
 
-1. 如果你的任务都做完了怎么办?
-
+1. 如果你的任务都做完了怎么办？
 为了提高一天8个小时的效率，要与其它开发人员沟通，与他们一起完成其他任务。如果没有任何任务了，就从“迭代任务表”中取出优先级最高的的一条任务。
 
-2. 如果发生了重大事故怎么办?
-
+2. 如果发生了重大事故怎么办？
 优先处理重大事故是很重要的，处理所有在24小时内发生的重大事件。
 
 ![](/Management/RulesToSuccessfulProjects/PublishingImages/NewStandUpImage.jpg)
