@@ -14,7 +14,7 @@ authors:
 
 最好还是通过站立的方式完成，这样会议将简短并且抓住要点。要知道没有人愿意站在那里闲聊。
 
-每个人要回答三个关键问题。​
+每个人要回答三个关键问题。​​​
  
 ​1.  昨天做了什么?(你是否更新了TFS/其它任务跟踪系统的工作项)?
 
@@ -30,6 +30,7 @@ authors:
 
 <font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"><strong>​<div class="ms-rtestate-read ms-rte-wpbox"><div class="ms-rtestate-notify  ms-rtestate-read f2ab1bb8-28cc-4914-b859-52688d9f51f9" id="div_f2ab1bb8-28cc-4914-b859-52688d9f51f9"></div>
 <div id="vid_f2ab1bb8-28cc-4914-b859-52688d9f51f9" style="display&#58;none;"></div></div>
+
 
 ​​<br></strong></font></font></font></font></font></font>
 
