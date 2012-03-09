@@ -28,7 +28,10 @@ authors:
 
 <font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"><strong>Figure&#58; 微软的每日Scrum会议(短)</strong></font></font></font></font></font></font>
 
-<font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"><strong>​<br></strong></font></font></font></font></font></font>
+<font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"><strong>​<div class="ms-rtestate-read ms-rte-wpbox"><div class="ms-rtestate-notify  ms-rtestate-read f2ab1bb8-28cc-4914-b859-52688d9f51f9" id="div_f2ab1bb8-28cc-4914-b859-52688d9f51f9"></div>
+<div id="vid_f2ab1bb8-28cc-4914-b859-52688d9f51f9" style="display&#58;none;"></div></div>
+
+​​<br></strong></font></font></font></font></font></font>
 
 <font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"><strong><br></strong></font></font></font></font></font></font>
 
