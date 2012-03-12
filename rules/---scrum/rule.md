@@ -74,7 +74,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/Manage
 建议 6：不要打电话+不要检查邮件+不要分心科技可以使开会的人们失去了焦点，会议的焦点是使人们通过分享他们正在做什么来同步团队进度。在Scrum会议中通过禁止邮件，短信和电话以保证人们不会被分心。
 
 **
-建议**** 7：****使用一个任务板（避免使用电子任务板****)**
+建议**** 7：****使用一个任务板（使用电子版的更好****)**
 
 <font size="2" face="宋体">人们可以通过</font>任务板<font face="宋体">看到</font>当前正在讨论的问题。
 
@@ -108,12 +108,14 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/Manage
 使用Skype或者Lync解决地域隔离问题
 
 
-<font class="ms-rteCustom-FigureNormal"><blockquote class="ms-rteCustom-GreyBox"><p><span style="font-weight&#58;normal;"><strong>关注流动</strong><p>“将这条规则扩展到‘价值的流动’，而不仅仅是人。保持着一个持续化流动的理念在脑海中，Scrum会议将会更少的关注人....<br>它是关注于价值的流动的。团队站在白板前，每个人浏览那些‘正在进行中’的工作项，试着找出推进它能进入到下一个阶段的方法...同时要考虑到工作项相互之间的约束。”</p>
-<p class="ms-rteCustom-FigureNormal"><span style="font-weight&#58;normal;"></span><span style="font-weight&#58;normal;"><a href="http&#58;//joelfromcanada.com/">Joel Semeniuk​</a></span></p></span></p>
+<font class="ms-rteCustom-FigureNormal"><blockquote class="ms-rteCustom-GreyBox"><p><span style="font-weight&#58;normal;"><strong>关注流动</strong></span></p>
+<p>“将这条规则扩展到‘价值的流动’，而不仅仅是人。保持着一个持续化流动的理念在脑海中，Scrum会议将会更少的关注人....<br>它是关注于价值的流动的。团队站在白板前，每个人浏览那些‘正在进行中’的工作项，试着找出推进它能进入到下一个阶段的方法...同时要考虑到工作项相互之间的约束。”</p>
+<p class="ms-rteCustom-FigureNormal"><span style="font-weight&#58;normal;"></span><span style="font-weight&#58;normal;"><a href="http&#58;//joelfromcanada.com/">Joel Semeniuk​</a></span></p>
+<p>&#160;</p>
 </blockquote>
 <p class="ms-rteCustom-FigureNormal"><span style="line-height&#58;15pt;font-size&#58;small;"></span><span style="line-height&#58;15pt;font-size&#58;small;"></span><span style="line-height&#58;15pt;font-size&#58;small;">更</span><span style="line-height&#58;15pt;font-size&#58;small;">多</span><span style="line-height&#58;15pt;font-size&#58;small;">的信息：</span><span style="line-height&#58;15pt;font-size&#58;small;"></span></p>
 <span></span><p><span lang="ZH-CN">1. 如果你的任务都做完了怎么办？<br></span><span lang="ZH-CN">为了提高一天</span><span>8</span><span lang="ZH-CN">个小时的效率，要</span><span lang="ZH-CN">与其它开发人员沟通，与他们一起完成其他任务。如果没有任何任务了，就从</span><span>“迭代任务表”</span><span lang="ZH-CN">中取出优先级最高的的一条任务</span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN">。</span></p>
 <span></span><span></span><p><span lang="ZH-CN">2. 如果发生了重大事故怎么办？<br></span><span lang="ZH-CN">优先处理重大事故是很重要的，处理所有在</span><span>24</span><span lang="ZH-CN">小时内发生的重大事件。</span><span></span><b><span style="font-family&#58;verdana, sans-serif;font-size&#58;9pt;"></span></b></p>
-<p class="MsoNormal" style="line-height&#58;15pt;font-size&#58;small;"><span lang="ZH-CN"><img class="ms-rteCustom-ImageArea" src="/Management/RulesToSuccessfulProjects/PublishingImages/NewStandUpImage.jpg" alt="" style="line-height&#58;18px;font-size&#58;12px;font-weight&#58;bold;"></span></p>
+<p class="MsoNormal" style="line-height&#58;15pt;font-size&#58;small;"><span lang="ZH-CN"><img class="ms-rteCustom-ImageArea" src="/Management/RulesToSuccessfulProjects/PublishingImages/NewStandUpImage.jpg" alt="" style="line-height&#58;18px;font-size&#58;12px;font-weight&#58;bold;"></span>&#160;</p>
 <p class="ssw-rteStyle-FigureNormal"><span lang="ZH-CN"></span><span>​图：</span><span lang="ZH-CN">如果有重大事故发生，每日Scrum会议可以提醒每个人并且集中所有的资源到一个问题上。如果一把尖刀插进了你的眼睛，而你却给擦伤的膝盖贴创可贴是没有任何意义的。​</span></p>
 <span class="ssw-rteStyle-FigureNormal"><img class="ms-rteCustom-ImageArea" alt="dailyscrumtweet.png" src="/Management/RulesToSuccessfulProjects/PublishingImages/dailyscrumtweet.png" style="line-height&#58;20px;margin-left&#58;5px;margin-right&#58;5px;"><span style="line-height&#58;20px;">​</span><br style="line-height&#58;20px;"><span style="line-height&#58;20px;">图：喜欢请转发&#160;&#160;</span><a href="https&#58;//twitter.com/#%21/AdamCogan/status/168175594209681408" style="line-height&#58;20px;">https&#58;//twitter.com/#!/AdamCogan/status/168175594209681408</a><span style="line-height&#58;20px;">&#160;​</span></span></font>
