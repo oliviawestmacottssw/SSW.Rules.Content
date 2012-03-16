@@ -18,8 +18,7 @@ Developers too often get bogged down in the UI… instead of staying in the midd
 
 So the 1st step is to  tell developers to concentrate on the code and delegate the UI stuff.
    ​ 
- 
+  ![](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/captureofcss.png)
 
- ![](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/captureofcss.png)
 Figure: Developers should assign a task like this to Designers
 
