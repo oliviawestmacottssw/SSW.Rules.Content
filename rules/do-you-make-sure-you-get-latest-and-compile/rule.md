@@ -18,6 +18,8 @@ Add intruction file into solution to help people take over the project easily:
 
 [http://rules.ssw.com.au/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/InstructionsHelpImproveWebProjects.aspx](/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/InstructionsHelpImproveWebProjects.aspx)
 
+ 
+
 A good developer how to get a project and complie it:
 
 ​[http://rules.ssw.com.au/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/Pages/TestDrivenProcess.aspx](/TFS/RulesToBetterVersionControlwithTFS%28AKASourceControl%29/Pages/TestDrivenProcess.aspx)
