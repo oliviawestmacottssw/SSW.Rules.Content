@@ -11,10 +11,5 @@ authors:
 
 ---
 
- 
-Point to our .NET Rule
-
-[http://www.ssw.com.au/ssw/standards/Rules/RulesToBetterdotNETProjects.aspx#SolutionStructure](https&#58;//mail.ssw.com.au/owa/redir.aspx?C=796a6508899b4b10ac0182d591160c2c&amp;URL=http&#58;//www.ssw.com.au/ssw/standards/Rules/RulesToBetterdotNETProjects.aspx%23SolutionStructure) 
-
- 
- 
+ The Solution Structure name should be consistent, read more about consistent .NET Solution Structure at:
+[http://rules.ssw.com.au/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/SolutionStructure.aspx](/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/SolutionStructure.aspx) 
