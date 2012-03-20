@@ -30,14 +30,17 @@ authors:
 
 &lt;&lt;[Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA)&gt;&gt;-Robert.C.Martin ]
 
+
+
+
 **Clean front-end code - semantics html**
 
 Anyone who creates their own HTML pages today should aim to make their markup semantically correct.([http://www.webdesignfromscratch.com/html-css/semantic-html/](http&#58;//www.webdesignfromscratch.com/html-css/semantic-html/))
 
 &lt;p&gt; is for a paragraph,not for defining a section;&lt;b&gt; is for bolding,not for emphasizing,&lt;strong&gt;,&lt;em&gt; do that.
 
-
-
+**
+**
 
 **Domain specific language,declartive programming - Tell what,not how**[[TechDays 2010 Keynote by Anders Hejlsberg: Trends and future directions in programming ​languages​](http&#58;//channel9.msdn.com/blogs/adebruyn/techdays-2010-developer-keynote-by-anders-hejlsberg)
 
@@ -82,11 +85,9 @@ result.Sort(delegate(Grouping x, Grouping y)
 
 
 ```
-The other way to solve the problem:Tell what with Linq
+Tell what with Linq(If I read the code,i can understand the programmer's purpose quickly)
 ```
 
-
- 
 
 
 ```
@@ -98,12 +99,7 @@ result = products
 ```
 
 
-**Question:s**
-
-**hould we force to use Linq???**
-
-**
-**
+**Question:****s****hould we force to use Linq???**
 
 **
 **
