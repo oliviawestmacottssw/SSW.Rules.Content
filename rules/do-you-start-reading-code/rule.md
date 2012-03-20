@@ -42,13 +42,13 @@ Anyone who creates their own HTML pages today should aim to make their markup se
 **
 **
 
-**Domain specific language,declartive programming - Tell what,not how**[[TechDays 2010 Keynote by Anders Hejlsberg: Trends and future directions in programming ​languages​](http&#58;//channel9.msdn.com/blogs/adebruyn/techdays-2010-developer-keynote-by-anders-hejlsberg)
+**declartive programming(****Question:****s****hould we force to use Linq???)**** - Tell what,not how**[[TechDays 2010 Keynote by Anders Hejlsberg: Trends and future directions in programming ​languages​](http&#58;//channel9.msdn.com/blogs/adebruyn/techdays-2010-developer-keynote-by-anders-hejlsberg)
 
 ]
 
 
 
-e.g.I want to show some products which unit price less than 20,and also  to know how many  products in every category.
+**e.g.**I want to show some products which unit price less than 20,and also  to know how many  products in every category.
 
 one way to solve the problem:**Tell**** how without Linq**
 
@@ -85,7 +85,7 @@ result.Sort(delegate(Grouping x, Grouping y)
 
 
 ```
-Tell what with Linq(If I read the code,i can understand the programmer's purpose quickly)
+the other way to solve the problem:Tell what with Linq(I can understand the developer's intenstion quickly)
 ```
 
 
@@ -99,7 +99,8 @@ result = products
 ```
 
 
-**Question:****s****hould we force to use Linq???**
+**
+**
 
 **
 **
