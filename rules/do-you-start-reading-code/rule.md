@@ -28,13 +28,9 @@ authors:
 
 [TODO:reference should be deleted 
 
-&lt;&lt;Clean Code: A Handbook of Agile Software Craftsmanship&gt;&gt;-Robert.C.Martin
+&lt;&lt;[Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA)&gt;&gt;-Robert.C.Martin ]
 
-http://www.google.com.hk/url?sa=t&rct=j&q=clean+code+download&source=web&cd=2&ved=0CDgQFjAB&url=http%3A%2F%2Fwww.e-reading.org.ua%2Fbookreader.php%2F134601%2FClean\_Code\_-\_A\_Handbook\_of\_Agile\_Software\_Craftsmanship.html&ei=2jRoT8yfM\_LSiAKK9piWBw&usg=AFQjCNEGQx\_\_eAf7t0yM\_dYGtaaxJ6TqJA
-
- ]
-
-**semantics html**
+**Clean front-end code - semantics html**
 
 Anyone who creates their own HTML pages today should aim to make their markup semantically correct.([http://www.webdesignfromscratch.com/html-css/semantic-html/](http&#58;//www.webdesignfromscratch.com/html-css/semantic-html/))
 
@@ -43,13 +39,15 @@ Anyone who creates their own HTML pages today should aim to make their markup se
 
 
 
-**Domain specific language - Tell what,not how**[[http://channel9.msdn.com/blogs/adebruyn/techdays-2010-developer-keynote-by-anders-hejlsberg](http&#58;//channel9.msdn.com/blogs/adebruyn/techdays-2010-developer-keynote-by-anders-hejlsberg)]
+**Domain specific language,declartive programming - Tell what,not how**[[TechDays 2010 Keynote by Anders Hejlsberg: Trends and future directions in programming ​languages​](http&#58;//channel9.msdn.com/blogs/adebruyn/techdays-2010-developer-keynote-by-anders-hejlsberg)
+
+]
 
 
 
 e.g.I want to show some products which unit price less than 20,and also  to know how many  products in every category.
 
-one way to solve the problem:**Tell how without Linq**
+one way to solve the problem:**Tell**** how without Linq**
 
 
 
@@ -88,10 +86,11 @@ The other way to solve the problem:Tell what with Linq
 ```
 
 
+ 
 
 
 ```
-var result = products
+result = products
     .Where(p => p.UnitPrice >= 20)
     .GroupBy(p => p.CategoryName)
     .OrderByDescending(g => g.Count())
@@ -99,8 +98,9 @@ var result = products
 ```
 
 
+**Question:s**
 
-**Question:should we force to use Linq???**
+**hould we force to use Linq???**
 
 **
 **
