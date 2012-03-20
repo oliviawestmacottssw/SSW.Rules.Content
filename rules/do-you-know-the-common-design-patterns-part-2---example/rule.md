@@ -39,9 +39,7 @@ Figure: 5 principles for class design
 
 [[http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod](http&#58;//butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 
-&lt;&lt;Agile Software Development, Principles, Patterns, and Practices​&gt;&gt;Robert.C.Martin:
-
-[http://codebetter.com/davidhayden/2005/05/20/agile-software-development-principles-patterns-and-practices/](http&#58;//codebetter.com/davidhayden/2005/05/20/agile-software-development-principles-patterns-and-practices/)
+&lt;&lt;[Agile Software Development, Principles, Patterns, and Practices](http&#58;//codebetter.com/davidhayden/2005/05/20/agile-software-development-principles-patterns-and-practices/)​&gt;&gt;Robert.C.Martin:
 
 ]
 
