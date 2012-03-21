@@ -17,9 +17,9 @@ authors:
 
  
 “Only add complexity <br>when you need flexibility” – Marcel de Vries
-<br>​   ​Our controller is tightly coupled to the ExampleService and as a result, there is no way to unit test the controller.[This example is from the blog:[http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container](http&#58;//www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container) ]
+   ​Our controller is tightly coupled to the ExampleService and as a result, there is no way to unit test the controller.[This example is from the blog:[http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container](http&#58;//www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container) ]
 
-| <br>`public` `class` `HomeController`<br><br>`{`<br><br>`    ``private` `readonly` `IExampleService _service;`<br><br>`    ` <br><br>`    ``public` `HomeController()`<br><br>`    ``{`<br><br>`      ``_service =``new` `ExampleService();`<br><br>`    ``}`<br><br>`    ` <br><br>`    ``public` `ActionResult Index()`<br><br>`    ``{`<br><br>`        ``return` `View(_service.GetSomething());`<br><br>`    ``}`<br><br>`}​`<br><br>`we have known this,how do we fix it?use container badly - without dependecy injection`<br><br>`public class HomeController
+| <br>`public` `class` `HomeController`<br><br>`{`<br><br>`    ``private` `readonly` `IExampleService _service;`<br><br>`    ` <br><br>`    ``public` `HomeController()`<br><br>`    ``{`<br><br>`      ``_service =``new` `ExampleService();`<br><br>`    ``}`<br><br>`    ` <br><br>`    ``public` `ActionResult Index()`<br><br>`    ``{`<br><br>`        ``return` `View(_service.GetSomething());`<br><br>`    ``}`<br><br>`}​`<br><br>`Figure:Controller coupled with ExampleService`<br><br>``<br><br>`we have known this,how do we fix it?use container badly - without dependecy injection`<br><br>`public class HomeController
 {
     private readonly IExampleService _service;
      
