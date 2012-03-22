@@ -11,7 +11,7 @@ authors:
 
 ---
 
- If you get the specification right then your chances of being successful are much higher. Tough conversations are best held early rather than the day before expected delivery.<br>Any idiot can manage success, it takes a pro to prepare for and survive the worst.<br><br><br> 
+ If you get the specification right then your chances of being successful are much higher. Tough conversations are best held early rather than the day before expected delivery.<br>Any idiot can manage success, it takes a pro to prepare for and survive the worst.<br><br><br>4 
 #### Types of specifications
 
 1. I have an idea… 
