@@ -11,7 +11,7 @@ authors:
 
 ---
 
- A Favicon is a small image file included on nearly all professional developed sites. When a browser hits your web site and a user bookmarks that site then the favicon.ico graphic will be displayed in the browser’s URL/address line upon subsequent visits to that site.<br> 
+ A Favicon is a small image file included on nearly all professional developed sites. When a browser hits your web site and a user bookmarks that site then the favicon.ico graphic will be displayed in the browser’s URL/address line upon subsequent visits to that site.<br>​ 
 
 | &lt;head runat="server"&gt; <br>                 &lt;meta name="GENERATOR" content="Microsoft SharePoint"&gt; <br>                 &lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8"&gt; <br>                 &lt;!--Placeholder for additional overrides--&gt; <br>                 &lt;asp:ContentPlaceHolder ID="PlaceHolderAdditionalPageHead" runat="server" /&gt; <br>                 &lt;link rel="shortcut icon" href="~/Style Library/Images/SSW/Rules/ssw.ico" type="image/x-icon" /&gt; <br>             &lt;/head&gt;<br><br>**Figure: One line of HTML lets you add your company's icon to  your web page** |
 | --- |
