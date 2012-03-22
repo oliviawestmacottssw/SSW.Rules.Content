@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- Enter Intro Text 
+ It’s important to have clear options for how a client can engage your services. You need to be clear on any differences between them in both billing and project management. 
 SSW offers both fixed price and time and materials contracts although all specification work is done on a time and materials basis.
 
 - **Time & Materials:** We work to your specification, billing for the number of hours we accrue. The benefit of this type of development is flexibility – you are able to add, remove and reprioritise development tasks during development.
