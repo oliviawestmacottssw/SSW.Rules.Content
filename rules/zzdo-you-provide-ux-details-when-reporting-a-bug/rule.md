@@ -1,0 +1,35 @@
+---
+type: rule
+title: zzDo you provide UX details when reporting a bug?
+uri: zzdo-you-provide-ux-details-when-reporting-a-bug
+created: 2012-03-27T18:17:10.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+
+---
+
+ The better you describe the problem you had, the more effective will be the solution. 
+Make sure you always explain and give details of how you got an error or a bad experience.
+Where is TV.SSW on the navigation?Figure: Bad example - Lack of details
+1. Navigated to ssw.com.au
+2. Me, scrolls down, looking for a big graphic like "CHECK OUT SSW TV! CLICK HERE!"
+ <br>(Nothing)
+ <br>Me, thinking… "Hmm… let's try the menu at the top..."
+3. About Us? Nope.
+4. Services? Nope.
+5. Products and Support? Nope.
+6. Training? Nope.
+7. User Group? Nope.
+8. Rules? Nope.
+<br>Me, thinking... "OK. Now where? Most likely, the SSW company description will list it..."
+9. Navigates to About Us.
+10. Me, scrolls down… nothing.
+<br>Me, thinking... "OK. Weird. Let's go back."
+11. Me, goes back to homepage.
+<br>Me, thinking… "Is there a site map?"
+12. Scrolls to bottom of page. Clicks sitemap link.
+<br>Me, thinking... "Ctrl+F for TV? Nope."
+13. Me, gives up… types tv.ssw.com.au to try and get lucky. Huzzah!
+
+Figure: Good example - We can easily identify more the one way to improve the UX
