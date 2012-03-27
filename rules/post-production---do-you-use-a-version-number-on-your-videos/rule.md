@@ -12,11 +12,11 @@ authors:
  
 When updating a version of a video (especially in a corporate environment),  it's wise to let the rest of your team know where you're up to. It can detract from your amount of hits if you include the version details in the title, so it's best to find a subtle way to incorporate it into the video itself.
    ​
-![Bad version example.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Bad%20version%20example.jpg)
+![bad-version-example.jpg](/PublishingImages/bad-version-example.jpg)
 
-Figure: Bad example - the version number completely overtakes the frame.
+Figure: Bad example - the version number is too large, too dark and too obvious
 
-![Version Example.png](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Version%20Example.png)
+![Version Example.png](/PublishingImages/Version%20Example.png)
 Figure: Good example - the text is small, barely visible and would only be noticeable if you're looking for it.
 
 The best way to label the version is as follows:
