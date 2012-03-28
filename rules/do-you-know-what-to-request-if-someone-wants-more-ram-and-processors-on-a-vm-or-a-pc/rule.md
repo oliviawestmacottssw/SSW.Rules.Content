@@ -12,7 +12,7 @@ authors:
 ---
 
  
-A “Too<br>slow” is not enough info.​
+A “Too<br>slow” is not enough info.​​
    ​Request<br>an image of the “Resource Monitor”
 Then<br>after you decide there is justification:
 
@@ -27,6 +27,10 @@ Then<br>after you decide there is justification:
 
 
 Note:<br>An ideal email subject prefix for more resources would be e.g. “Performance issue<br>– “Machine name”
+
+
+
+
 
 **![](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/resource_monitor.png)
 
