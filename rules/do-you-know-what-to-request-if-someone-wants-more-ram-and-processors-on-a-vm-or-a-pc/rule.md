@@ -12,7 +12,7 @@ authors:
 ---
 
  
-A “Too<br>slow” is not enough info.​​
+A “Too<br>slow” is not enough info.​​​
    ​Request<br>an image of the “Resource Monitor”
 Then<br>after you decide there is justification:
 
@@ -33,9 +33,6 @@ Note:<br>An ideal email subject prefix for more resources would be e.g. “Perfo
 
 
 **![](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/resource_monitor.png)
-
-
-
 Figure: Use “Resource Monitor”<br>prior to allocating**** more RAM on a VM**
 
 ![highUtilisation.png](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/highUtilisation.png)
