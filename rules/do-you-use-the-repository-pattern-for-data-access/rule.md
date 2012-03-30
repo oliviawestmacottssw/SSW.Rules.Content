@@ -10,8 +10,16 @@ authors:
 ---
 
  
-The repository pattern is a great way to handle your data access layer and should be used wherever you have a need to retrieve data and turn it into business objects.
+The repository pattern is a great way to handle your data access layer and should be used wherever you have a need to retrieve data and turn it into domain objects.
  
+The advantages of using a repository pattern are:
+
+- Abstraction away from the detail of how objects are retrieved and saved
+- Domain objects are ignorant of persistence - persistence is handled completely by the repository
+- Testability of your code without having to hit the database (you can just mock the repository)
+- Reusability of data access code without having to worry about consistency
+
+
 Even better, by providing a consistent repository base class, you can get all your CRUD operations while avoiding any plumbing code.
 
 See [this blog post](http&#58;//brdy.in/xqrAFb) by Damian Brady for an example of how to implement a repository pattern for Entity Framework.
