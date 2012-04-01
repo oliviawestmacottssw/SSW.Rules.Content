@@ -13,8 +13,8 @@ authors:
 
 ---
 
- *“Aim for simplicity. I want to code to read like poetry”*– Terje Sandstrom **​Clean Back-end Code**
-    -Meaningful names
+ *“Aim for simplicity. I want to code to read like poetry”*– Terje Sandstrom **​Clean Back-end Code** 
+   -Meaningful names
 
     -Functions
 
@@ -53,34 +53,30 @@ Anyone who creates their own HTML pages today should aim to make their markup se
 one way to solve the problem:**Tell**** how without Linq**
 
 
-
-```
-Dictionary<string, Grouping> groups = new Dictionary<string, Grouping>();
+Dictionary&lt;string, Grouping&gt; groups = new Dictionary&lt;string, Grouping&gt;();
 foreach (Product p in products)
 {
-    if (p.UnitPrice >= 20)
-    {
-        if (!groups.ContainsKey(p.CategoryName))
-        {
-            Grouping r = new Grouping();
-            r.CategoryName = p.CategoryName;
-            r.ProductCount = 0;
-            groups[p.CategoryName] = r;
-        }
-        groups[p.CategoryName].ProductCount++;
-    }
+    if (p.UnitPrice &gt;= 20)
+    {
+        if (!groups.ContainsKey(p.CategoryName))
+        {
+            Grouping r = new Grouping();
+            r.CategoryName = p.CategoryName;
+            r.ProductCount = 0;
+            groups[p.CategoryName] = r;
+        }
+        groups[p.CategoryName].ProductCount++;
+    }
 }
 
-List<Grouping> result = new List<Grouping>(groups.Values);
+List&lt;Grouping&gt; result = new List&lt;Grouping&gt;(groups.Values);
 result.Sort(delegate(Grouping x, Grouping y)
 {
-    return
-        x.ProductCount > y.ProductCount ? -1 :
-        x.ProductCount < y.ProductCount ? 1 :
-        0;
+    return
+        x.ProductCount &gt; y.ProductCount ? -1 :
+        x.ProductCount &lt; y.ProductCount ? 1 :
+        0;
 });
-```
-
 
 
 
