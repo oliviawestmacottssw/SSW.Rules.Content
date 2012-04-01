@@ -13,44 +13,26 @@ authors:
 
 ---
 
- *“Aim for simplicity. I want to code to read like poetry”*– Terje Sandstrom **​Clean Back-end Code** 
+ *“Aim for simplicity. I want to code to read like poetry”*– Terje Sandstrom **[Use ssw red heading and heading 2??]​**
+**Good code has:**
    -Meaningful names
 
-    -Functions
+   -Functions:Prefer exceptions  to returning error codes
 
-         Prefer exceptions to returning error codes
+   -Functions:Don't repeat yourself
 
-         don't repeat yourself
+  -Comments should explain the intent
 
-   -Comments
+  -Formatting
 
-   -Fommating
-
-[TODO:reference should be deleted 
-
-&lt;&lt;[Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA)&gt;&gt;-Robert.C.Martin ]
-
-
-
-
-**Clean front-end code - semantics html**
-
-Anyone who creates their own HTML pages today should aim to make their markup semantically correct.([http://www.webdesignfromscratch.com/html-css/semantic-html/](http&#58;//www.webdesignfromscratch.com/html-css/semantic-html/))
-
-&lt;p&gt; is for a paragraph,not for defining a section;&lt;b&gt; is for bolding,not for emphasizing,&lt;strong&gt;,&lt;em&gt; do that.
+Tip:Read this book &lt;&lt;[Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA)&gt;&gt;-Robert.C.Martin 
 
 **
 **
 
-**declartive programming(****Question:****s****hould we force to use Linq???)**** - Tell what,not how**[[TechDays 2010 Keynote by Anders Hejlsberg: Trends and future directions in programming ​languages​](http&#58;//channel9.msdn.com/blogs/adebruyn/techdays-2010-developer-keynote-by-anders-hejlsberg)]
+**Good code is ****declartive: **
 
- 
-
-
-
-**e.g.**I want to show some products which unit price less than 20,and also  to know how many  products in every category.
-
-one way to solve the problem:**Tell**** how without Linq**
+**e.g.**I want to show some products where the unit price less than 20, and also to know how many products in every category.
 
 
 Dictionary&lt;string, Grouping&gt; groups = new Dictionary&lt;string, Grouping&gt;();
@@ -81,7 +63,13 @@ result.Sort(delegate(Grouping x, Grouping y)
 
 
 ```
-the other way to solve the problem:Tell what with Linq(I can understand the developer's intenstion quickly)
+Figure: Bad example - Not using LINQ. The yellow gives it away.
+```
+
+
+
+```
+Tip: Resharper on foreach can automatically convert the code.
 ```
 
 
@@ -95,9 +83,40 @@ result = products
 ```
 
 
-**
-**
+**Figure: Good example - using LINQ**
 
 **
 **
+
+**More information on why declartive programming (aka LINQ, SQL, HTML****) is great. Anders explains why having your code “t****ell what, not how****“ **[[TechD](http&#58;//channel9.msdn.com/blogs/adebruyn/techdays-2010-developer-keynote-by-anders-hejlsberg)ays 2010 Keynote by Anders Hejlsberg: Trends and future directions in programming ​languages​]<br>
+
+
+
+
+
+**Clean front-end code - html**
+
+Anyone who creates their own HTML pages today should aim to make their markup semantically correct.([http://www.webdesignfromscratch.com/html-css/semantic-html/](http&#58;//www.webdesignfromscratch.com/html-css/semantic-html/))
+
+&lt;p&gt; is for a paragraph, not for defining a section;
+
+&lt;b&gt; is for bolding, not for emphasizing, &lt;strong&gt;, &lt;em&gt; do that.
+
+
+
+
+**Clean front-end code - JavaScript**
+
+**[TODO]**
+
+**bad example - not using Jquery**
+
+**good example ****- using Jquery​**
+
+**[TODO: remove dash from the URL]​**
+
+
+**
+**
+
 
