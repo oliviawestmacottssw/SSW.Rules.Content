@@ -11,8 +11,11 @@ authors:
 
 
 
-<span class='intro'> <p class="MsoListParagraph"><span lang="EN-AU">[bad code]</span></p>
-<p class="MsoListParagraph"><span lang="EN-AU">[good code]</span></p> </span>
+<span class='intro'> <p class="MsoListParagraph"><span lang="EN-AU">[bad
+code]</span></p>
+
+<p class="MsoListParagraph"><span lang="EN-AU">[good
+code]</span></p> </span>
 
 
 
