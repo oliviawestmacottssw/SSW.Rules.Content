@@ -18,5 +18,5 @@ c. If<br>you are going to change code, then add test  (aka Red-Green-Refactor)
 
 d. TIP:<br>read Michael Feather’s book on unit testing
 
-e. TIP:<br>don’t focus on the percentage of code coverage, focus on the if it touch the<br>line of code you care about​ ​
+e. TIP:<br>don’t focus on the percentage of code coverage, focus on the if it touch the<br>line of code you care about​ ​​
  
