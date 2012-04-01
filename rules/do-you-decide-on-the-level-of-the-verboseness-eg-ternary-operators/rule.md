@@ -12,11 +12,15 @@ authors:
 ---
 
  
+Do you believe in being verbose? (not short and use too many ternary operators)?
+
 I recall it was:
 
 a. Marcel = yes verbose, 
 
 b. TJ=no short.
 
-What is your opinion/vote on this http://stackoverflow.com/questions/2765360/ternary-operators-in-c-sharp​
+What is your opinion/vote on this [http://stackoverflow.com/questions/2765360/ternary-operators-in-c-sharp](http&#58;//stackoverflow.com/questions/2765360/ternary-operators-in-c-sharp)
+
+ 
  
