@@ -16,27 +16,16 @@ authors:
 ---
 
  
-“Only add complexity <br>when you need flexibility” – Marcel de Vries
-<br>​   ​Our controller is tightly coupled to the ExampleService and as a result, there is no way to unit test the controller.[This example is from the blog:[http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container](http&#58;//www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container) ]
+“Only add complexity when you need flexibility” – Marcel de Vries
+<br>​   ​Our controller is tightly coupled to the ExampleService and as a result, there is no way to unit test the controller.[This example is from the blog: [http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container](http&#58;//www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container) ] 
 
-| <br>`public` `class` `HomeController`<br><br>`{`<br><br>`    ``private` `readonly` `IExampleService _service;`<br><br>`    ` <br><br>`    ``public` `HomeController()`<br><br>`    ``{`<br><br>`      ``_service =``new` `ExampleService();`<br><br>`    ``}`<br><br>`    ` <br><br>`    ``public` `ActionResult Index()`<br><br>`    ``{`<br><br>`        ``return` `View(_service.GetSomething());`<br><br>`    ``}`<br><br>`}​`<br><br>`Figure:Controller coupled with ExampleService`<br><br>``<br><br>`we have known this,how do we fix it?use container badly - without dependecy injection`<br><br>`public class HomeController
-{
-    private readonly IExampleService _service;
-     
-    public HomeController()
-    {
-      _service = Container.Instance.Resolve<IExampleService>();
-    }
-     
-    public ActionResult Index()
-    {
-        return View(_service.GetSomething());
-    }
-}`<br> |
+| <br>`` <br><br>`public class HomeController{    private readonly IExampleService _service;    public HomeController()    {      _service = new ExampleService();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`<br><br>`Figure:Controller coupled with ExampleService`<br><br>`we have known this,how do we fix it?use container badly - without dependecy injection`<br><br>`public class HomeController{    private readonly IExampleService _service;         public HomeController()    {      _service = Container.Instance.Resolve<IExampleService>();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`<br> |
 | --- |
 
 
-[eg. Bad example - code showing NOT using dependency <br>injection]
+ Bad example - code showing NOT using dependency injection
+
+ 
 
 This is bad because
 
@@ -44,7 +33,7 @@ This is bad because
 
 2.it's not very clear what's going on.(The beauty of dependency injection is that just by looking at the constructor of a class, you can tell exactly what it depends upon.)[Static IS THE](http&#58;//codebetter.com/patricksmacchia/2009/02/01/understanding-code-static-vs-dynamic-dependencies/)KEY:The idea I would like to defend now is that when it comes to
  understand and maintain a program, one need to focus mostly on thestatic dependencies, the ones found in
-the source code.
+the source code. 
 
 
 
@@ -54,18 +43,10 @@ use IoC correctly - with DI 
 
 
 
-| <br>`public` `class` `HomeController`<br><br>`{`<br><br>`    ``private` `readonly` `IExampleService _service;`<br><br>`    ` <br><br>`    ``public` `HomeController(IExampleService service)`<br><br>`    ``{`<br><br>`      ``_service = service;`<br><br>`    ``}`<br><br>`    ` <br><br>`    ``public` `ActionResult Index()`<br><br>`    ``{`<br><br>`        ``return` `View(_service.GetSomething());`<br><br>`    ``}`<br><br>`}​`<br> |
+| <br>`public class HomeController{    private readonly IExampleService _service;         public HomeController(IExampleService service)    {      _service = service;    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`<br> |
 | --- |
 
-
-[eg. Good example - code showing using dependency <br>injection]
-
-
-
-
-
-
-
+eg. Good example - code showing using dependency injection
 
 
 
@@ -92,7 +73,7 @@ Figure: 5 principles for class design
 
 ]
 
-
+ 
 
 
 
