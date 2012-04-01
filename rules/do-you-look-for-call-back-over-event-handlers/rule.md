@@ -10,7 +10,7 @@ authors:
 ---
 
  
-[bad<br>code]
+[bad code]
 
-[good<br>code]
+[good code]
  
