@@ -13,7 +13,7 @@ authors:
 
 <br>It's a well known fact that a good team of 3 people will output more than 3 people working on their own. As well as that, the team members will find it more rewarding as well.
 <br> 
-<br>The best sum up of this was by famous Wallaby player, Ben Darwin, who said: <br>​​​​ 
+<br>The best sum up of this was by famous Wallaby player, Ben Darwin, who said: <br>​​​​​ 
 
 
 > I found the hardest issue of all was that I missed my friends, basically, and that's what I told them when I gave them the jersey for the final. I just missed the 14 guys. There's a feeling that comes in sport, particularly in team sport, where we say we feel jealous of the wages of individual sportspeople but never jealous of the lack of team. When you finish a game of football and you've played together and you walk off with the other 14 men, the guys on the bench, and you've overcome an opposition, you don't have to say anything to each other. You can simply look your fellow man or other player in the eye, and he knows **you helped him**, and you know how **he helped you**. That's enormously satisfying, and I haven't found that anywhere else in life.
