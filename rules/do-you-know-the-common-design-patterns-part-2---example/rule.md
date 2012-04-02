@@ -16,71 +16,33 @@ authors:
 ---
 
  
-“Only add complexity when you need flexibility” – Marcel de Vries
-<br>​   It's very important to use patterns. They are established ways to structuring your code to be more solid (pun intended).
-**[TODO:create a new rule : do you know what the important principles are] **the popular principles are defined as SOLID:​
+​Appropriate use of design patterns can ensure your code is maintainable.
+ 
+Using the Dependency Injection pattern allows us to decrease the coupling of our classes.
 
-
-
-| **SRP** | [The Single Responsibility Principle](http&#58;//www.objectmentor.com/resources/articles/srp.pdf) | *A class should have one, and only one, reason to change.* |
-| --- | --- | --- |
-| **OCP** | [The Open Closed Principle](http&#58;//www.objectmentor.com/resources/articles/ocp.pdf) | *You should be able to extend a classes behavior, without modifying it.* |
-| **LSP** | [The Liskov Substitution Principle](http&#58;//www.objectmentor.com/resources/articles/lsp.pdf) | *Derived classes must be substitutable for their base classes.* |
-| **DIP** | [The Dependency Inversion Principle](http&#58;//www.objectmentor.com/resources/articles/dip.pdf) | *Depend on abstractions, not on concretions.* |
-| **ISP** | [The Interface Segregation Principle](http&#58;//www.objectmentor.com/resources/articles/isp.pdf) | *Make fine grained interfaces that are client specific.​* |
-
-Figure: Your code should be using SOLID principles 
-
-Let's look at an example where we could take advantage of using a pattern.
-
-
-Our controller is tightly coupled to the ExampleService and as a result, there is no way to unit test the controller.
+For example: our controller is tightly coupled to the ExampleService and as a result, there is no way to unit test the controller.
 
 [This example is from the blog: [http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container](http&#58;//www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container) ] 
 
-| <br> <br><br>`public class HomeController{    private readonly IExampleService _service;    public HomeController()    {      _service = new ExampleService();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`<br><br>Figure: Bad example - Controller coupled with ExampleService<br><br>we have known this,how do we fix it?use container badly - without dependecy injection<br><br>`public class HomeController{    private readonly IExampleService _service;         public HomeController()    {      _service = Container.Instance.Resolve<IExampleService>();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`<br> |
+| <br> <br><br>`public class HomeController{    private readonly IExampleService _service;    public HomeController()    {      _service = new ExampleService();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`<br><br>Figure: Bad example - Controller coupled with ExampleService<br><br>we have known this,how do we fix it?use container badly - without dependecy injection<br><br>`public class HomeController{    private readonly IExampleService _service;         public HomeController()    {      _service = Container.Instance.Resolve<IExampleService>();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`<br> |
 | --- |
 
 
- Figure: Bad example - code \*not\* using dependency injection
+ Figure: Bad example - 2nd attempt using an Inversion of Control container but \*not\* using dependency injection. A dependency now exists on the Container.
+
+This is bad code because we removed one coupling but added another one (the container).
 
  
-
-This is bad code because
-
-1.we removed one coupling and adding another one(the container).
-
-2.it's not very clear what's going on.(The beauty of dependency injection is that just by looking at the constructor of a class, you can tell exactly what it depends upon.)[Static IS THE](http&#58;//codebetter.com/patricksmacchia/2009/02/01/understanding-code-static-vs-dynamic-dependencies/)KEY:The idea I would like to defend now is that when it comes to
-<br>understand and maintain a program, one need to focus mostly on thestatic dependencies, the ones found in
-the source code. 
-use IoC correctly - with DI 
-
 
 
 
 | <br>`public class HomeController{    private readonly IExampleService _service;         public HomeController(IExampleService service)    {      _service = service;    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`<br> |
 | --- |
 
-Figure: Good example - code showing using dependency injection
+Figure: Good example - code showing using dependency injection. No static dependencies. 
+
+
+It is important to know when the use of a pattern is appropriate.  Patterns can be useful, but they can also be harmful if used incorrectly.
 
 
 
-about overuse of patterns​
-
-pattern is an option,not must
-
-1.principles v.s. design patterns
-
-
-[[http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod](http&#58;//butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-
-&lt;&lt;[Agile Software Development, Principles, Patterns, and Practices](http&#58;//codebetter.com/davidhayden/2005/05/20/agile-software-development-principles-patterns-and-practices/)​&gt;&gt;Robert.C.Martin:
-
-]
-
- 
-
-
-<br>​​
-
- ​  
