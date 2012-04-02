@@ -15,8 +15,11 @@ We can also identify errors and inconsistencies that can be addressed for a seco
 
 1. Complete the video editing (Version 1)
     Produce your first edit of your video. If necessary follow the Post Production rules i.e. ['Do you use cutaways?'](/DesignandPresentation/RulesToBetterVideoRecording/Pages/Do-you-use-cutaways.aspx), ['Do you add a Call to Action?'](/DesignandPresentation/RulesToBetterVideoRecording/Pages/Adding-a-call-to-action.aspx).
-2. Upload to Wistia
-    
+2. Upload to Wistia 
+
+
+| <br><br>| <br><br>|   | <nobr><span>Content Editor</span><span id="WebPartCaptionWPQ3"></span></nobr> | <menu id="MSOMenu_WebPartMenu" class="ms-SrvMenuUI"></menu><menu id="MSOMenu_ConnectionsWebPartWPQ3" class="ms-SrvMenuUI"></menu><br>[![Content Editor Web Part Menu](/_layouts/images/wpmenuarrow.png)](/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx# "Content Editor Web Part Menu") | <input id="SelectionCbxWebPartWPQ3" class="ms-WPHeaderCbxHidden" title="Select or deselect Content Editor Web Part" type="checkbox"> |   |<br>| --- | --- | --- | --- | --- |<br><br> |<br>| --- |<br>| <br>Cannot retrieve the URL specified in the Content Link property. For more assistance, contact your site administrator.<br> |<br><br> |
+| --- |
 3. Upload your first edit to Wistia
     1. Send test please to Marlon or Uly and Adam
     2. Feedback must be done within 48 hours
