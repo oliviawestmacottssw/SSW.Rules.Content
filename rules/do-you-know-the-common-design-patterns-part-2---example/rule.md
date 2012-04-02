@@ -24,7 +24,7 @@ For example: our controller is tightly coupled to the ExampleService and as a re
 
 [This example is from the blog: [http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container](http&#58;//www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container) ] 
 
-| <br> <br><br>`public class HomeController{    private readonly IExampleService _service;    public HomeController()    {      _service = new ExampleService();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`<br><br>Figure: Bad example - Controller coupled with ExampleService<br><br>we have known this,how do we fix it?use container badly - without dependecy injection<br><br>`public class HomeController{    private readonly IExampleService _service;         public HomeController()    {      _service = Container.Instance.Resolve<IExampleService>();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`<br> |
+| <br> <br><br>`public class HomeController{    private readonly IExampleService _service;    public HomeController()    {      _service = new ExampleService();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`<br><br>Figure: Bad example - Controller coupled with ExampleService<br><br> <br><br>`public class HomeController{    private readonly IExampleService _service;         public HomeController()    {      _service = Container.Instance.Resolve<IExampleService>();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`<br> |
 | --- |
 
 
