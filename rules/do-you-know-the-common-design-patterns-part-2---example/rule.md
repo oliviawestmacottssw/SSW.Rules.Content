@@ -22,19 +22,22 @@ Using the Dependency Injection pattern allows us to decrease the coupling of our
 
 For example: our controller is tightly coupled to the ExampleService and as a result, there is no way to unit test the controller.
 
-[This example is from the blog: [http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container](http&#58;//www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container) ] 
+[This example is from the blog: [http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container](http&#58;//www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container)]
+
+`public class HomeController{    private readonly IExampleService _service;    public HomeController()    {      _service = new ExampleService();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`
+
+Figure: Bad example - Controller coupled with ExampleService
+
+`public class HomeController{    private readonly IExampleService _service;         public HomeController()    {      _service = Container.Instance.Resolve<IExampleService>();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`
 
 
-| <br> <br><br>`public class HomeController{    private readonly IExampleService _service;    public HomeController()    {      _service = new ExampleService();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`<br><br>Figure: Bad example - Controller coupled with ExampleService<br><br> <br><br>`public class HomeController{    private readonly IExampleService _service;         public HomeController()    {      _service = Container.Instance.Resolve<IExampleService>();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`<br> |
-| --- |
+
 
 
 
  Figure: Bad example - 2nd attempt using an Inversion of Control container but \*not\* using dependency injection. A dependency now exists on the Container.
 
 This is bad code because we removed one coupling but added another one (the container).
-
- 
 
 
 
