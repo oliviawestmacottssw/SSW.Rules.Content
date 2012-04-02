@@ -17,9 +17,8 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
-Every Workspace that exists on the server is another set of code that TFS has to check for checkouts. Worse you may have files checked out in that workspace that you will never see.
-<dl><dt><img alt="The current workspace status " src="/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/WorkspaceStatus.jpg"></dt>
-<dd>Figure&#58; John has not accessed many of these workspaces in years! Are they still current? </dd></dl>
+ ​Every Workspace that exists on the server is another set of code that TFS has to check for checkouts. Worse you may have files checked out in that workspace that you will never see. 
+![The current workspace status ](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/WorkspaceStatus.jpg)
+<dl><dd>Figure&#58; John has not accessed many of these workspaces in years! Are they still current? </dd></dl>
 Use the Workspace Sidekick in [Team Foundation Sidekicks](http&#58;//www.attrice.info/cm/tfs/index.htm) ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW") at the end of every month to make sure you have not forgotten anything.
 
