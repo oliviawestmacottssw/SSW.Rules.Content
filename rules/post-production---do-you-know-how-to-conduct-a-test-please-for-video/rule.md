@@ -10,7 +10,7 @@ authors: []
  
 At SSW we conduct an internal and external test procedure for our videos. This ensures that we meet our internal standards and follow the necessary rules that relate to video content creation.
 
-We can also identify errors and inconsistencies that can be addressed for a second edit, before going live on SSW TV.
+We can also identify errors and inconsistencies that can be addressed for a second edit, before going live on SSW TV.​
  
 
 1. Complete the video editing (Version 1)
@@ -18,7 +18,7 @@ We can also identify errors and inconsistencies that can be addressed for a seco
 2. Upload to Wistia 
 
 
-| <br><br>| <br><br>|   | Content Editor | <br>[![Content Editor Web Part Menu](/_layouts/images/wpmenuarrow.png)](/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx# "Content Editor Web Part Menu") |  |   |<br>| --- | --- | --- | --- | --- |<br><br> |<br>| --- |<br>| <br>Cannot retrieve the URL specified in the Content Link property. For more assistance, contact your site administrator.<br> |<br><br> |
+| <br><br>| <br><br>|   | Content Editor | <br>[![Content Editor Web Part Menu](/_layouts/images/wpmenuarrow.png)](/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx# "Content Editor Web Part Menu")  |  |   |<br>| --- | --- | --- | --- | --- |<br><br> |<br>| --- |<br>| <br>Cannot retrieve the URL specified in the Content Link property. For more assistance, contact your site administrator.<br> |<br><br> |
 | --- |
 3. Upload your first edit to Wistia
     1. Send test please to Marlon or Uly and Adam
