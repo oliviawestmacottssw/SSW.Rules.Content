@@ -23,9 +23,9 @@ Figure: VS11 lets you generate a dependency graph for your solution.![sqldeploy_
 Figure: The dependency graph in VS11 shows you some interesting information, but it's not as good as nDepends at highlighting issues
 
 nDepend is much better at showing you where your code architecture needs some work.
-
 ![nDepend.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/nDependDependencyGraph.png)
-Figure：nDepend Dependency Graph. Issues are highlighted in red for easy discovery.Read more about nDepend: [http://www.ndepend.com/](http&#58;//www.ndepend.com/)
+Figure：nDepend Dependency Graph. Issues are highlighted in red for easy discovery. 
+Read more about nDepend: [http://www.ndepend.com/](http&#58;//www.ndepend.com/)
 
 Warning: nDepend doesn't yet support Visual Studio 2012 (AKA VS11) with a plugin.
 
