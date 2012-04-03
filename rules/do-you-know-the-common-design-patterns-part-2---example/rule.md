@@ -30,9 +30,9 @@ Figure: Bad example - Controller coupled with ExampleService
 
 `public class HomeController{    private readonly IExampleService _service;         public HomeController()    {      _service = Container.Instance.Resolve<IExampleService>();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`
 
+ 
 
-
-
+ 
 
 
  Figure: Bad example - 2nd attempt using an Inversion of Control container but \*not\* using dependency injection. A dependency now exists on the Container.
@@ -45,7 +45,7 @@ This is bad code because we removed one coupling but added another one (the con
 | --- |
 
 Figure: Good example - code showing using dependency injection. No static dependencies. 
-
+ 
 
 It is important to know when the use of a pattern is appropriate.  Patterns can be useful, but they can also be harmful if used incorrectly.
 
