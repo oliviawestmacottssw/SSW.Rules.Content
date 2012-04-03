@@ -11,5 +11,11 @@ authors:
 
 ---
 
- The Solution Structure name should be consistent, read more about consistent .NET Solution Structure at:
-[http://rules.ssw.com.au/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/SolutionStructure.aspx](/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/SolutionStructure.aspx) 
+ 
+The name of your solution and the names of the projects in your solution should be consistent.
+
+Read more about consistent .NET Solution Structure at: [http://rules.ssw.com.au/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/SolutionStructure.aspx](/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/SolutionStructure.aspx)
+ 
+​![solutionlayout.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/SolutionLayout.png)
+Figure: Good Example - The Solution and Projects are named consistently
+
