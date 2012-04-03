@@ -18,10 +18,11 @@ authors:
  
 Code Coverage shows how much of your code is covered by tests and can be a useful tool for showing how effective your unit testing strategy is.  However, it should be looked at with caution.
  
-- ​You should focus on quality not quantity of tests.
+- ​You should focus on **\*quality\*** not **\*quantity\*** of tests.
 - You should write tests for fragile code first and not waste time testing trivial methods
 - Remember the 80-20 rule - a very high test coverage is a noble goal but there are diminishing returns.
-- If you're modifying code, write the test first, then change the code, then run the test to make sure it passes.
+- If you're modifying code, write the test first, then change the code, then run the test to make sure it passes (AKA red-green-refactor).
+- You should run your tests regularly (see Do you follow a Test Driven Process). Ideally, they'll be part of your build (see [Do you know the minimum builds to create on any branch](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#MinimumBuilds))
 
 ![CodeCoverage_blurred.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/CodeCoverage2010.png)
 Figure: Code Coverage metrics in VS2010. This solution has a very high code coverage percentage (around 80% on average)
