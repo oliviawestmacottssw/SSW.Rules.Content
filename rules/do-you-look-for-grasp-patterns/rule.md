@@ -12,14 +12,18 @@ authors:
 ---
 
  
-a. The<br>most important one being the Responsibility Assignment ?
+GRASP stands for General Responsibility Assignment Software Patterns and describes guidelines for working out wha
+ 
+​The fundamentals of GRASP are the building blocks of Object Oriented design.
+
+The most important one being the Responsibility Assignment ?
 
 ![](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/GRASP%20bad%20example.jpg)
 Figure: Bad Example
 
-![](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/GRASP%20good%20example.jpg)
+![](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/GRASP%20good%20example.jpg) 
 
 ​​​Figure: Good Example
 
 Suggestion to MS: make tool that show bad code like this​
- 
+
