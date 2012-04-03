@@ -14,30 +14,27 @@ authors:
 ---
 
  
-Developers too often get bogged down in the UI… instead of staying in the middle tier.
+Developers too often get bogged down in the UI instead of staying in the middle tier.
 
-So the 1st step is to tell developers to concentrate on the code and delegate the UI stuff.
+So the 1st step is to tell developers to concentrate on the code and delegate the UI stuff.
  
-
-​
-
-
 **From:** Bob Northwind​
 
 **To:** Developer
 
-**Subject:** Change the xxxx
+**Subject:** Change the mega menu's colour
 
 
 
 
-//add some content
+Dear Developer,
 
-//change the menu bar to another style
+Can you change the mega menu so it's a nicer colour?
 
-Tip: You might be able to use the new xxx feature in Visual Studio 11 - see below​
+Tip: You might be able to use the new CSS helper features in Visual Studio 11 - see below​
 ![](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/captureofcss.png)
 
 
-**Figure:​ This task should be delegated to designer**
- ​  
+
+**Figure:​ Bad Example - This task should be delegated to a designer**
+
