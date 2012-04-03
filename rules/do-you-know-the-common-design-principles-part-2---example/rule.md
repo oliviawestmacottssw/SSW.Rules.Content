@@ -20,7 +20,7 @@ The most common problem encountered will be code that violates the Single Respon
 
 1. "Cyclomatic Complexity" which indicates that your methods are complex, then
 2. "High Coupling" indicates that your class/method relies on many other classes, then
-3. "Number of Lines" indicates code structures that are long and unweildy.
+3. "Number of Lines" indicates code structures that are long and unwieldy.
 
 
 Let's look at code that does more than one thing, and therefore breaks the Single Responsibility Principle.
