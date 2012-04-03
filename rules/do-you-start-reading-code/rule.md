@@ -21,6 +21,7 @@ authors:
 - Has no repeated or redundant code
 - Includes comments that explain the intent (the why rather than the what)
 - Has consistent styles and formatting
+- Explains "why" when you read down, and "how" when you read left to right
 
 
 **Tip: **Read this book [Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA) by Robert. C. Martin
