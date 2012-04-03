@@ -11,6 +11,18 @@ authors:
 
 ---
 
- a. Bad<br>code = for each
-b. Good<br>code = LINQ.FindFirst 
  
+Linq is a fantastic addition to .Net which lets you write clear and beautiful declarative code. Linq allows you to focus more on the **\*what\*** and less on the **\*how\***.
+
+You should look for opportunities to replace your existing code with Linq.
+ 
+​For example, replace your foreach loops with Linq.
+
+var lucrativeCustomers = new List&lt;Customer&gt;();
+foreach (var customer in Customers)
+{
+    if (customer.Orders.Count &gt; 0) {
+        lucrativeCustomers.Add(customer);
+    }
+} Figure: Bad Example - imperative programming using a foreach loop.var lucrativeCustomers = Customers.Where(c =&gt; c.Orders.Count &gt; 0).ToList();Figure: Good Example - declarative programming using Linq.
+
