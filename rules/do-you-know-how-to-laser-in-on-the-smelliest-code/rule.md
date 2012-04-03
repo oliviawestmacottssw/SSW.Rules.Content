@@ -15,22 +15,14 @@ authors:
 
 
 
-<span class='intro'> <p>Rather than randomly browsing for dodgy code, use Visual Studio's Code Metrics feature to identify &quot;Hot Spots&quot; that require investigation.<br></p><dl class="badImage"><dt> 
-      <img alt="467510-lotto-balls.jpeg" src="/PublishingImages/lotto-balls.jpeg" style="width&#58;600px;" /> 
-   </dt><dd>​Figure&#58; The bad was is to browse the code<br></dd></dl> </span>
+<span class='intro'> <div>Rather than randomly browsing for dodgy code,&#160;use Visual Studio's Code Metrics feature to identify &quot;Hot Spots&quot; that require investigation.</div>
+<div><span><img src="/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/VS%2011%20Code%20Metrics.png" alt="" style="margin&#58;5px;" /> <div><div><span class="ssw-rteStyle-FigureNormal">Figure&#58; Run Code Metrics&#160;in VS11</span></div></div></span></div>
+<div><span><div>&#160;<img class="ssw-rteStyle-ImageArea" src="/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/CodeMetrics_3.png" alt="" style="margin&#58;5px;width&#58;657px;" /><br></div>
+<span class="ssw-rteStyle-FigureNormal">Figure&#58;&#160;Red dots indicate the code that is hard to maintain e.g.&#160;Save() and&#160;LoadCustomer()</span><div><span>Identifying the problem areas is on the start of the process.&#160; From here, you shoudl speak to the developers responsible for the dodgy code.</span></div>
+<div><span>To find out who they are, use the Annotate tool. See <a href="http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl">Do you know the benefits of Source Control?</a> for more information.</span></div>
+<div><span></span>&#160;</div></span></div>
+<p class="ssw-rteStyle-GreyBox"><span>Suggestion to MS&#58; allow us to visualize the developers responsible for the&#160;bad code&#160;(currently and historically)</span></p> </span>
 
-<dl class="image"><dt>
-      <img src="/PublishingImages/VS%2011%20Code%20Metrics.png" alt="Run Code Metrics" />
-   </dt><dd>Figure&#58; Run Code Metrics&#160;in Visual Studio</dd></dl><dl class="image"><dt>
-      <img src="/PublishingImages/CodeMetrics_3.png" alt="Red dots indicate the code that is hard to maintain" style="width&#58;750px;height&#58;389px;" />
-   </dt><dd>Figure&#58; Red dots indicate the code that is hard to maintain. E.g. Save() and LoadCustomer()</dd></dl><p>Identifying the problem areas is only the start of the process. From here, you should speak to the developers responsible for this dodgy code. There might be good reasons why they haven't invested time on this.</p><dl class="image"><dt>
-      <img class="ms-rteCustom-ImageArea" src="/PublishingImages/codelens-start-conversation.png" alt="codelens-start-conversation.png" />  
-      <br>
-   </dt><dd>Figure&#58; Find out who&#160;the devs are&#160;by using CodeLens and start a conversation<span style="color&#58;#444444;">​</span></dd></dl>​<strong>Tip&#58;</strong> To learn how to use Annotate, see 
-<a href="http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl">Do you know the benefits of Source Control?</a> 
-<p> 
-   <br> 
-</p><div><p class="ssw15-rteElement-GreyBox"> 
-      <b>​Suggestion to Microsoft&#58;</b> allow us to visualize the developers responsible for the bad code (currently and historically)&#160;using CodeLens.<br></p></div>
+
 
 
