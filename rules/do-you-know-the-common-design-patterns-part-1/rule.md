@@ -19,7 +19,7 @@ authors:
 
 | ​IOC | [​Inversion of Control](http&#58;//en.wikipedia.org/wiki/Inversion_of_control) | Control of the object coupling is the responsibility of the caller, not the class. |
 | --- | --- | --- |
-| ​DI | ​[Dependency Injection](http&#58;//en.wikipedia.org/wiki/Dependency_injection) | Dependencies are "injected" into the dependent object rather than the object deciding on concretions. |
+| ​DI | ​[Dependency Injection](http&#58;//en.wikipedia.org/wiki/Dependency_injection) | Dependencies are "injected" into the dependent object rather than the object depending on concretions. |
 | --- | --- | --- |
 | ​Factory | [​Factory Pattern](http&#58;//en.wikipedia.org/wiki/Factory_pattern) | ​Object creation is handled by a "factory" that can provide different concretions based on an abstraction. |
 | --- | --- | --- |
