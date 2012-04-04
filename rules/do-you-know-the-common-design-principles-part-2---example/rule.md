@@ -25,7 +25,7 @@ The most common problem encountered will be code that violates the Single Respon
 
 Let's just look at one example.
 
-For example, this code does more than one thing, and therefore breaks the Single Responsibility Principle.
+This code does more than one thing, and therefore breaks the Single Responsibility Principle.
 
 
 ```
