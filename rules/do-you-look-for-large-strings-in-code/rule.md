@@ -12,5 +12,5 @@ authors:
 ---
 
  
-a.      Look<br>for building up HTML strings ​
- 
+Hard-coded strings in a codebase can be a sign of poor architecture.
+   ​To make hard-coded strings easier to find, [consider highlighting them in your IDE](/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/HlightStrings.aspx).  
