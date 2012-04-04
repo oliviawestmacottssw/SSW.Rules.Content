@@ -27,5 +27,5 @@ nDepend is much better at showing you where your code architecture needs some wo
 Figure：nDepend Dependency Graph. Issues are highlighted in red for easy discovery. 
 Read more about nDepend: [http://www.ndepend.com/](http&#58;//www.ndepend.com/)
 
-Warning: nDepend doesn't yet support Visual Studio 2012 (AKA VS11) with a plugin.
+**Warning: **nDepend doesn't yet support Visual Studio 2012 (Aka VS11) with a plugin.
 
