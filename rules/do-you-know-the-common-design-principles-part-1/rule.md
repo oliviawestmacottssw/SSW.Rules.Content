@@ -29,7 +29,7 @@ authors:
 
 Figure: Your code should be using SOLID principles
  
-​It is assumed knowledge that you know these 6. If you don't, read about them on Uncle Bob's site above, or watch the [Pluralsight videos](http&#58;//www.pluralsight-training.net/microsoft/courses/TableOfContents?courseName=principles-oo-design&amp;highlight=) by Steve Smith.
+​It is assumed knowledge that you know these 6. If you don't, read about them on Uncle Bob's site above, or watch the [SOLID Pluralsight videos by Steve Smith.](http&#58;//www.pluralsight-training.net/microsoft/courses/TableOfContents?courseName=principles-oo-design&amp;highlight=)
 
 **What order?**
 
