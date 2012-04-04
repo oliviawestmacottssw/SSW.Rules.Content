@@ -25,24 +25,24 @@ authors:
 - Includes comments that explain the intent (the why rather than the what)
 - Explains "why" when you read down, and "how" when you read left to right
 
+
 public int GetFirstCustomerWithLastName(string lastname)
 {
   // we use StartsWith because the legacy system sometimes padded with spaces
   return repository.Customer.First(c =&gt; c.LastName.StartsWith(lastname));
-}Figure: Good comments explain the intent of the code rather than what it is doingpublic
+}Figure: Good comments explain the intent of the code rather than what it is doing
 
- int GetActiveSupplierCustomers(int supplierId) {
+public int GetActiveSupplierCustomers(int supplierId) {
     var supplier = repository.Suppliers.Single(s =&gt; s.Id == supplierId);
 
     var customers = suppliers.Customers
         .Where(c =&gt; c.Orders &gt; 0);
 
     return customers;
-}Figure: This code explains what it is doing as you read left to right, and why it is doing it when you read top to bottom.**
-Tip:
-**
+}Figure: This code explains what it is doing as you read left to right, and why it is doing it when you read top to bottom.
 
- Read the book [Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA) by Robert. C. Martin.
+**Tip: **Read the book [Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA) by Robert. C. Martin.
+
 **Good code is declarative:**
 
 For example, I want to show all the products where the unit price less than 20, and also how many products are in each category.
