@@ -54,4 +54,4 @@ For project documents, we should also add them into solution for later reference
 | --- | --- | --- | --- |
 | Documents  | Documents  | <br><br>| **Folder:**  | Northwind\Documents\  |<br>| --- | --- |<br><br> | This is outside the solution trunk  |
 
-
+![solutionlayout.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/SolutionLayout.png)Figure: Good Example - The Solution and Projects are named consistently
