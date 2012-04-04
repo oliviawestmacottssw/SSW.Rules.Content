@@ -20,7 +20,7 @@ nDepend is a great tool for analysing the dependencies between classes and assem
  
 ![architecturetools_vs11.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/ArchitectureToolsVS11.png)
 Figure: VS11 lets you generate a dependency graph for your solution.![sqldeploy_dependencies.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/DependencyDiagramInVS11.png)
-Figure: The dependency graph in VS11 shows you some interesting information, but it's not as good as nDepends at highlighting issues
+Figure: The dependency graph in VS11 shows you some interesting information, but it's not as good as nDepend at highlighting issues
 
 nDepend is much better at showing you where your code architecture needs some work.
 ![nDepend.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/nDependDependencyGraph.png)
