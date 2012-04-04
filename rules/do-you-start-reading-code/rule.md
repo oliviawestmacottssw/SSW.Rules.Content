@@ -13,8 +13,10 @@ authors:
 
 ---
 
- *“Aim for simplicity. I want to code to read like poetry”*– Terje Sandstrom 
-**Good code:** 
+ 
+*“Aim for simplicity. I want to code to read like poetry” -*Terje Sandstrom
+ 
+**Good code:**
 
 - Is clear and easy to read
 - Has consistent and meaningful names for everything
@@ -24,7 +26,7 @@ authors:
 - Explains "why" when you read down, and "how" when you read left to right
 
 
-**Tip: **Read this book [Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA) by Robert. C. Martin
+**Tip: **Read the book[Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA)by Robert. C. Martin
 
 **Good code is declarative:**
 
@@ -63,11 +65,7 @@ Figure: Bad example - Not using LINQ. The yellow gives it away.
 ```
 
 
-
-```
-Tip: Resharper can automatically convert this code.
-```
-
+**Tip:** Resharper can automatically convert this code.
 
 
 ```
@@ -84,15 +82,16 @@ result = products
 **
 **
 
-**Tip: **For more information on why declarative programming (aka LINQ, SQL, HTML) is great, watch the [TechDays 2010 Keynote by Anders Hejlsberg.](http&#58;//channel9.msdn.com/blogs/adebruyn/techdays-2010-developer-keynote-by-anders-hejlsberg) Anders explains why it's better to have code "tell what, not how"
+**Tip: **For more information on why declarative programming (aka LINQ, SQL, HTML) is great, watch the [TechDays 2010 Keynote by Anders Hejlsberg.](http&#58;//channel9.msdn.com/blogs/adebruyn/techdays-2010-developer-keynote-by-anders-hejlsberg) Anders explains why it's better to have code "tell what, not how".
 
-**Clean front-end code - HTML**
+**Clean front-end code - HTML (? designers)**
 
-Anyone who creates their own HTML pages today should aim to make their markup semantically correct.([http://www.webdesignfromscratch.com/html-css/semantic-html/](http&#58;//www.webdesignfromscratch.com/html-css/semantic-html/))
+Anyone who creates their own HTML pages today should aim to make their markup semantically correct. For more information on semantic markup, see [http://www.webdesignfromscratch.com/html-css/semantic-html/](http&#58;//www.webdesignfromscratch.com/html-css/semantic-html/).
 
-For example, &lt;p&gt; is for a paragraph, not for defining a section. &lt;b&gt; is for bolding, not for emphasizing (&lt;strong&gt; and &lt;em&gt;) do that.
+For example:
 
-
+- &lt;p&gt; is for a paragraph, not for defining a section.
+- &lt;b&gt; is for bolding, not for emphasizing (&lt;strong&gt; and &lt;em&gt;) do that.
 
 
 **Clean front-end code - JavaScript**
