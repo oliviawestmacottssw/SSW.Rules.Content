@@ -22,7 +22,5 @@ There are disadvantages to using dynamic loading of references:
 2. You lose your traceability. Visual Studio can no longer show you what concrete method is being called at design time.
 
 
-c. Suggestion to MS: Currently if you use reflection, meth, unity etc… they don’t show in the dependency graph. Microsoft should support this.
-
 For some examples of when you shouldn't use dynamic dependencies, look at these articles: [How Not to do Dependency Injection](http&#58;//www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container) and [Why do I need an IoC Container?](http&#58;//stackoverflow.com/questions/871405/why-do-i-need-an-ioc-container-as-opposed-to-straightforward-di-code).
 
