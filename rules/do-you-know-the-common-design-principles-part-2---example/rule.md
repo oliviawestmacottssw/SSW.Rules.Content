@@ -23,7 +23,9 @@ The most common problem encountered will be code that violates the Single Respon
 3. "Number of Lines" indicates code structures that are long and unwieldy.
 
 
-Let's look at code that does more than one thing, and therefore breaks the Single Responsibility Principle.
+Let's just look at one example.
+
+For example, this code does more than one thing, and therefore breaks the Single Responsibility Principle.
 
 
 ```
