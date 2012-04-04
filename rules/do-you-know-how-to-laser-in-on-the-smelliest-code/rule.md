@@ -25,9 +25,7 @@ Figure: Run Code Metrics in VS11
 Figure: Red dots indicate the code that is hard to maintain e.g. Save() and LoadCustomer()
 
 Identifying the problem areas is only the start of the process. From here, you should speak to the developers responsible for this dodgy code. There might be good reasons why they haven't invested time on this.
-
-[TODO - Tiago: Picture of two devs talking]
-
+![Two devs talking](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/two-devs-talking.jpg)
 Figure: Find out who the devs are by using the Annotate tool, and start a conversation.
 
 **Tip: **To learn how to use Annotate, see [Do you know the benefits of Source Control?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl).
