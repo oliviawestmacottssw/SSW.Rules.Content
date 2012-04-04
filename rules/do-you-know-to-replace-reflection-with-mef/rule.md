@@ -12,30 +12,23 @@ authors:
 ---
 
  
-a.      You don’t want containers ????
+Reflection code is often used to implement a "plugin" architecture where components are loaded at runtime rather than referenced directly in the code.  This is done instead of statically referencing classes to make the solution more flexible.
+
+The Managed Extensibility Framework (MEF) is an Inversion of Control (IoC) framework build on Reflection that simplifies and standardises this plugin methodology.
+
+[You don't need an IoC container or ServiceLocator for everything](http&#58;//blogs.clariusconsulting.net/kzu/you-dont-need-an-ioc-or-servicelocator-for-everything/ "You don’t need an IoC container or ServiceLocator for everything"), but an IoC container WILL help if you have complex dependency graphs to instantiate (in your default constructor) or you have truly pluggable components.  For example, if you want to allow a component to be picked up automatically at runtime from some assembly if it’s in a folder.
+
+Any existing Reflection code should be examined to see whether:
+
+1. It needs reflection at all - can the component be directly referenced? OR
+2. Can the pure reflection code be simplified with MEF?
 
 
-[You don’t need an IoC container or ServiceLocator for everything](http&#58;//blogs.clariusconsulting.net/kzu/you-dont-need-an-ioc-or-servicelocator-for-everything/ "You don’t need an IoC container or ServiceLocator for everything")
+[TODO - Damian: Bad example - using reflection]
 
-
-An IoC container WILL help if you have complex dependency graphs to instantiate (in your default constructor) or you have truly pluggable components (i.e. you want to allow a component to be picked up automatically at runtime from some binary if it’s in a folder, etc.).
-
-If you don’t, it’s perfectly fine to have a default constructor that is used at runtime and has a hardcoded instantiation of a dependency. It was never a requirement to make that thing configurable or dynamic. So don’t invent business requirements just ‘cause using an IoC container is fancier. ​
-
-
-
-[[http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container](http&#58;//www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container)]
-
-[[http://stackoverflow.com/questions/871405/why-do-i-need-an-ioc-container-as-opposed-to-straightforward-di-code](http&#58;//stackoverflow.com/questions/871405/why-do-i-need-an-ioc-container-as-opposed-to-straightforward-di-code)]
-
-
-
+[TODO - Damian Good Example - using MEF]
 
 
 
 
-
-
-
-b.      You don’t want reflection ….. much better to use meth
-<br>​ 
+ 
