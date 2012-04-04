@@ -21,7 +21,7 @@ Developers should be able to focus on what is important for the project rather t
 1. Are devs getting bogged down in the UI? [TODO - Damian: create page and link]
 2. Do you have continuous integration and deployment?
 3. [Do you have a Schema Master?](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/Pages/DoYouHaveASchemaMaster.aspx)
-4. Do you have a TFS Master?
-5. Do you have a Scrum Master?
+4. [Do you have a TFS Master?](/TFS/RulesToBetterVersionControlwithTFS%28AKASourceControl%29/Pages/TFSMaster.aspx)
+5. [Do you have a Scrum Master?](/Management/RulesToBetterScrumUsingTFS/Pages/settheSprintturnaroundmeetings.aspx)
 
 
