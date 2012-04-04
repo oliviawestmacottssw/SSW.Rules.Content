@@ -14,27 +14,14 @@ authors:
 ---
 
  
-Developers too often get bogged down in the UI instead of staying in the middle tier.
-
-So the 1st step is to tell developers to concentrate on the code and delegate the UI stuff.
+Often times incorrect process is the source of problems.
  
-**From:** Bob Northwind​
+Developers should be able to focus on what is important for the project rather than getting stuck on things they shouldn't have to worry about.
 
-**To:** Developer
+1. Are devs getting bogged down in the UI? [TODO - Damian: create page and link]
+2. Do you have continuous integration and deployment?
+3. [Do you have a Schema Master?](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/Pages/DoYouHaveASchemaMaster.aspx)
+4. Do you have a TFS Master?
+5. Do you have a Scrum Master?
 
-**Subject:** Change the mega menu's colour
-
-
-
-
-Dear Developer,
-
-Can you change the mega menu so it's a nicer colour?
-
-Tip: You might be able to use the new CSS helper features in Visual Studio 11 - see below​
-![](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/captureofcss.png)
-
-
-
-**Figure:​ Bad Example - This task should be delegated to a designer**
 
