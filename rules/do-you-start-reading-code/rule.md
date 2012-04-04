@@ -97,7 +97,7 @@ result = products
 **
 **
 
-**Tip: **For more information on why declarative programming (aka LINQ, SQL, HTML) is great, watch the [TechDay](http&#58;//channel9.msdn.com/blogs/adebruyn/techdays-2010-developer-keynote-by-anders-hejlsberg)s 2010 Keynote by Anders Hejlsberg. Anders explains why it's better to have code "tell what, not how".
+**Tip: **For more information on why declarative programming (aka LINQ, SQL, HTML) is great, watch the TechDays 2010 Keynote by Anders Hejlsberg. Anders explains why it's better to have code "tell what, not how".
 
 **Clean front-end code - HTML (? designers)**
 
