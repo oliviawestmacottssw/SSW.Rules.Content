@@ -29,7 +29,7 @@ authors:
 | --- | --- | --- |
 | ​Unit of Work | [​Unit of Work Pattern](http&#58;//msdn.microsoft.com/en-us/magazine/dd882510.aspx) | ​A way of handling multiple database operations that need to be done as part of a piece of work. |
 | --- | --- | --- |
-| ​MVC | [​Model View Controller](http&#58;//en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) | ​An architectural pattern separating domain logic (Controller) from how domain objects (Models) are presented (View). |
+| ​MVC | [​Model View Controller](http&#58;//en.wikipedia.org/wiki/Model%e2%80%93view%e2%80%93controller) | ​An architectural pattern separating domain logic (Controller) from how domain objects (Models) are presented (View). |
 | --- | --- | --- |
 | ​MVP | [​Model View Presenter](http&#58;//en.wikipedia.org/wiki/Model_View_Presenter) | ​An architectural pattern deriving from MVC where the View handles UI events instead of the Controller. |
 | --- | --- | --- |
@@ -37,5 +37,5 @@ authors:
 
 Figure: Choose patterns wisely to improve your solution architecture
 
-It is assumed knowledge that you know these design patterns. If you don't, read about them on the sites above or watch the [PluralSight videos](http&#58;//www.pluralsight-training.net/microsoft/courses/TableOfContents?courseName=patterns-library).
+It is assumed knowledge that you know these design patterns. If you don't, read about them on the sites above or watch the [PluralSight videos on Software Patterns.](http&#58;//www.pluralsight-training.net/microsoft/courses/TableOfContents?courseName=patterns-library)
 
