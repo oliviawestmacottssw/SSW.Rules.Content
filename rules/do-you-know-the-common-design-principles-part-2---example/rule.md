@@ -50,7 +50,7 @@ Figure: Bad example - This class does two distinct jobs. It creates print jobs a
 
 
 ```
-public class PrintServer {
+public class Printers {
     public string CreateJob(PrintJob data) { //...
     }
     public int GetStatus(string jobId) { //...
@@ -58,7 +58,7 @@ public class PrintServer {
     public void Print(string jobId, int startPage, int endPage) { //...
     }
 }
-public class PrinterList {
+public class PrinterManager {
     public List GetPrinterList() { //...
     }
     public bool AddPrinter(Printer printer) { //...
