@@ -18,9 +18,9 @@ authors:
  
 ​Appropriate use of design patterns can ensure your code is maintainable.
  
-Using the Dependency Injection pattern allows us to decrease the coupling of our classes.
+For example, we could implement Inversion of Control by using the Dependency Injection pattern to decrease the coupling of our classes.
 
-For example: our controller is tightly coupled to the ExampleService and as a result, there is no way to unit test the controller.
+In this code, our controller is tightly coupled to the ExampleService and as a result, there is no way to unit test the controller.
 
 [This example is from the blog: [http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container](http&#58;//www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container)]
 
@@ -30,12 +30,8 @@ Figure: Bad example - Controller coupled with ExampleService
 
 `public class HomeController{    private readonly IExampleService _service;         public HomeController()    {      _service = Container.Instance.Resolve<IExampleService>();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`
 
- 
+Figure: Bad example - 2nd attempt using an Inversion of Control container but \*not\* using dependency injection. A dependency now exists on the Container.
 
- 
-
-
- Figure: Bad example - 2nd attempt using an Inversion of Control container but \*not\* using dependency injection. A dependency now exists on the Container.
 
 This is bad code because we removed one coupling but added another one (the container).
 
@@ -44,10 +40,6 @@ This is bad code because we removed one coupling but added another one (the con
 | <br>`public class HomeController{    private readonly IExampleService _service;         public HomeController(IExampleService service)    {      _service = service;    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`<br> |
 | --- |
 
-Figure: Good example - code showing using dependency injection. No static dependencies. 
- 
-
-It is important to know when the use of a pattern is appropriate.  Patterns can be useful, but they can also be harmful if used incorrectly.
-
+Figure: Good example - code showing using dependency injection. No static dependencies. It is important to know when the use of a pattern is appropriate.  Patterns can be useful, but they can also be harmful if used incorrectly.
 
 
