@@ -21,3 +21,6 @@ You can find useful information like:
 
 Glimpse is available on NuGet, so it’s a simple matter to get it up and running on your application. You can find out more from [their website](http&#58;//getglimpse.com/).
 
+![glimpse.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/glimpse.png)
+Figure: Glimpse in action - We can see which routes were chosen for this page, and the parameters used by the controller
+
