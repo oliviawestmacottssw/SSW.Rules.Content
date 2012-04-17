@@ -22,7 +22,7 @@ LyncPOP can be purchased from [appVnet website](http&#58;//www.appvnet.com/servi
 - Presence Aware – control over what the application does based on Lync/OCS presence
 - Phone Activity – provides multiple options to record the call against a CRM record
 
-![LyncPOP-options.jpg](/ITAndNetworking/Rules-to-Better-Lync/PublishingImages/lyncPOP-options.jpg.jpg)Figure: LyncPOP advanced options
+![LyncPOP-options.jpg](/ITAndNetworking/Rules-to-Better-Lync/PublishingImages/lyncPOP-options.jpg)Figure: LyncPOP advanced options
 This tool is vital for sales staff and receptionists as a minimum. 
  Receptionists get the client record (based upon the inbound number) popup as the phone is ringing. They can answer the call accordantly. Sales staff has the ability to log the call in CRM along with what the call was about and also set a reminder for them to catch up in a few days.
 
