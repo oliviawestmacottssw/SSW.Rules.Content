@@ -72,3 +72,9 @@ The following are items that are address in a architecture/code review:
 - 'Sellability' i.e. is the solution appropriate for the client?
 
 
+**Enterprise Architect **
+
+- should have a datetime of the last time the diagram was modified so we have an indication of when it is out of date
+- should have the ability to mark items as ‘todo’. E.g. it would be nice to have an indication of which items on the diagrams have been completed, and which are still pending
+
+
