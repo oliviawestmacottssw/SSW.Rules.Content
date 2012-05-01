@@ -11,5 +11,5 @@ authors:
 
 ---
 
- If you don’t make another appointment to see a client before you leave you may forget, and the client may forget. Make sure they are thinking about your next visit by booking the next appointment there and then, even if it is not for many months. <br> ![](/Management/RulesToManagingSoftwareConsultants/PublishingImages/BookAppointment01.jpg) Figure: Always get that appointment booked Use your mobile phone to book an appointment rather than remembering it later. If the systems are down, you may forget it entirely and that would be worse than never having made it. 
+ If you don’t make another appointment to see a client before you leave you may forget, and the client may forget. Make sure they are thinking about your next visit by booking the next appointment there and then, even if it is not for many months.  ![](/Management/RulesToManagingSoftwareConsultants/PublishingImages/BookAppointment01.jpg) Figure: Always get that appointment booked Use your mobile phone to book an appointment rather than remembering it later. If the systems are down, you may forget it entirely and that would be worse than never having made it. 
 ![](/Management/RulesToManagingSoftwareConsultants/PublishingImages/UsePhoneToBookAppointment.jpg) Figure: Use your phone to book the appointment so you don’t forget
