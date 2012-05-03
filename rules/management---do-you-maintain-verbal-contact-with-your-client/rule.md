@@ -22,6 +22,8 @@ We will run your project in an agile manner. Expect emails and phone calls that 
 - If you need to change the priority of a task - email us and we will consider it for inclusion either the next release, or a subsequent one, depending on its importance"
 
 
+
+
 1. Avoid going more than 3 days without a phone call to your client.
 2. New Resources - If you are put onto an existing project, it is good practice to call the client and introduce yourself. For example,
 
