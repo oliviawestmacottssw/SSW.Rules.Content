@@ -7,8 +7,8 @@ authors: []
 
 ---
 
-
+ 
 Now we're working, you'll get loads of questions. Most software projects demands close interaction with the Client. As the developers are usually working to tight budgets and schedules, getting quick answers to questions is a must. The Product Owner should be able to answer developer's questions within 4 hours. Otherwise decisions will be delayed and costs increase.
 
-A good way to fix this problem is to insist your software consultants contact you via [MSN/Live Messenger](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#ClientsUsingMessenger)
-
+A good way to fix this problem is to insist your software consultants contact you via Skype or Lync.
+ 
