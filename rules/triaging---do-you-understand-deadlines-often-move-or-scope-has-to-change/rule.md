@@ -7,10 +7,10 @@ authors: []
 
 ---
 
- If you have a tight schedule and deadline for the release, we need you to be clear with your developers right at the beginning about what needs to be done and when. Most developers generally can't guarantee they can work with your deadlines, but they'll be honest up front about when items can be completed. <br> 
+ If you have a tight schedule and deadline for the release, we need you to be clear with your developers right at the beginning about what needs to be done and when. Most developers generally can't guarantee they can work with your deadlines, but they'll be honest up front about when items can be completed.  
 Your budget and deadline may mean some items will not get done.
 
-Sometimes their estimate on items are way too short or too long. It is very hard to be 100% accurate when estimating hours to complete work.
+Sometimes their estimates on items are way too short or too long. It is very hard to be 100% accurate when estimating hours to complete work.
 
 The best way to keep track is to insist on a [weekly release update/debrief](/Management/RulesToSuccessfulProjects/Pages/ReleaseDebrief.aspx).
 
