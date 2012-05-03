@@ -9,21 +9,21 @@ authors:
 
 ---
 
- With the convenience and cost-effectiveness of e-mail, it is tempting to resort to emails for too much client contact. Don't forget that clients are people too, and they need human interaction to ensure everything is OK. So it is essential that you maintain verbal contact before, during and after a project. What are examples of ongoing project contact? <br> 
-1. Set the expectations early. Let the client know what to expect in terms of communication. For example:    <br>    
-
-> > > > "Hi Bill,
-> > 
-> > 
-> > We will run your project in an agile manner. Expect emails and phone calls that we need responses to. These are examples:
+ With the convenience and cost-effectiveness of e-mail, it is tempting to resort to emails for too much client contact. Don't forget that clients are people too, and they need human interaction to ensure everything is OK. So it is essential that you maintain verbal contact before, during and after a project. What are examples of ongoing project contact?  
+1. Set the expectations early. Let the client know what to expect in terms of communication. For example:
 
 
-    - The first step - we will send you a release plan to approve. Once approved we can begin work
-    - Every morning - expect a 'Stand up meeting' call or 'Morning Goals' email with a list of tasks the developers will be working on that day
-    - Every time a task is done - you will get an email with information about what was done, often with screen shots and code snippets"
-    - If you need to change the priority of a task - email us and we will consider it for inclusion either the next release, or a subsequent one, depending on its importance"
-2. Avoid going more than 3 days without a phone call to your client.
-3. New Resources - If you are put onto an existing project, it is good practice to call the client and introduce yourself. For example,
+"Hi Bill,
+We will run your project in an agile manner. Expect emails and phone calls that we need responses to. These are examples:
+
+- The first step - we will send you a release plan to approve. Once approved we can begin work
+- Every morning - expect a 'Stand up meeting' call or 'Morning Goals' email with a list of tasks the developers will be working on that day
+- Every time a task is done - you will get an email with information about what was done, often with screen shots and code snippets"
+- If you need to change the priority of a task - email us and we will consider it for inclusion either the next release, or a subsequent one, depending on its importance"
+
+
+1. Avoid going more than 3 days without a phone call to your client.
+2. New Resources - If you are put onto an existing project, it is good practice to call the client and introduce yourself. For example,
 
 
 
