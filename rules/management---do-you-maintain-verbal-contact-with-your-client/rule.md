@@ -13,8 +13,10 @@ authors:
 1. Set the expectations early. Let the client know what to expect in terms of communication. For example:
 
 
-"Hi Bill,
-We will run your project in an agile manner. Expect emails and phone calls that we need responses to. These are examples:
+
+> "Hi Bill,
+> We will run your project in an agile manner. Expect emails and phone calls that we need responses to. These are examples:
+
 
 - The first step - we will send you a release plan to approve. Once approved we can begin work
 - Every morning - expect a 'Stand up meeting' call or 'Morning Goals' email with a list of tasks the developers will be working on that day
