@@ -7,8 +7,8 @@ authors: []
 
 ---
 
- No doubt there will be a time when you get new developers to work on an existing application. Known issues with the existing application should be clearly delineated as much as possible. But new bugs will occur when changes have unforeseen effects on functionality down the line. This is to be expected.<br> 
+ No doubt there will be a time when you get new developers to work on an existing application. Known issues with the existing application should be clearly delineated as much as possible. But new bugs will occur when changes have unforeseen effects on functionality down the line. This is to be expected.  
 Once again it's a matter of working with your developers in being clear in requirements and testing as changes are made to ensure these issues are trapped as early as possible.
 
-Ask your SSW developer to add a test case which will mean in the future important functionality will never "disappear" or break.
+Ask your SSW developer to add a test case which will mean in the future important functionality will never "disappear" or break. The earlier you do this, the less pain you'll have down the track.
 
