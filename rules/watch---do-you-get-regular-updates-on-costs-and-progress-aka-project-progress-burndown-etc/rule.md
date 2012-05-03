@@ -9,19 +9,19 @@ authors:
 
 ---
 
-
+ 
 You're the one paying the bills, make sure you know where the costs are and how the project is progressing.
 
 Insist on receiving these 3 reports each week:
-
+ 
 - Project Progress ($ spent)
 - Burndown (ETA)
 - Story Overview (testing quality)
 
 
-1. Current project costs (from the timesheets directly). This allows you to see the actual costs of the project on a weekly basis.<br>        ![project progress report](http&#58;//www.ssw.com.au/ssw/Standards/Rules/images/projectprogresscapture.JPG)
+1. Current project costs (from the timesheets directly). This allows you to see the actual costs of the project on a weekly basis.     ![project progress report](http&#58;//www.ssw.com.au/ssw/Standards/Rules/images/projectprogresscapture.JPG)
 **Figure: Project Progress – There is $8K outstanding**
-2. Current hours remaining and hours completed for the current sprint.<br>        ![Burndown report from TFS](http&#58;//www.ssw.com.au/ssw/Standards/Rules/images/burndown.JPG)
+2. Current hours remaining and hours completed for the current sprint.     ![Burndown report from TFS](http&#58;//www.ssw.com.au/ssw/Standards/Rules/images/burndown.JPG)
 **Figure: Burndown report showing the progress of the team in the current sprint – ETA is March 29 and Ana has no work to do**
     **Questions that the Burndown and Burn Rate report help answer: **
 
