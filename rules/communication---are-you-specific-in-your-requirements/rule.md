@@ -9,6 +9,7 @@ authors: []
 
  
 **Be Specific**
+
 When you're scoping the work to be completed, ensure you are as accurate as possible in your requirements.
  
 "I want to keep contact details on my clients"
