@@ -30,7 +30,7 @@ Figure. Subscribe report
 
 ![configurating settings.png](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/configurating%20settings.png) 
 
- Figure. Configurating report
+Figure. Configurating report
 
 
 
