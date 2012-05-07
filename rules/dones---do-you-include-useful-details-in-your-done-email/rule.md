@@ -33,7 +33,7 @@ Figure: Bad example - the client cannot see any detail of what was done ![ ](/Ma
 
 **Tip #2: Include a .diff file
 **You can include the code as an attached text file.
-![ ](/Management/RulesToHappyClients/PublishingImages/NotePad2DiffFiles.gif) Figure: Good example - this is a Text file with a .diff extension that includes the code change from TFS. If opened using NotePad2, the client can view the code changes with green and red color (added and deleted code). This was generated automatically by eXtreme Emails. 
+![ ](/Management/RulesToHappyClients/PublishingImages/NotePad2DiffFiles.gif) Figure: Good example - this is a Text file with a .diff extension that includes the code change from TFS. If opened using NotePad2, the client can view the code changes with green and red color (added and deleted code). 
 **Tip 3#: Do you have force a link between the code and the requirement?**
 For those developers lucky enough to be using Microsoft Team Foundation Server (TFS 2005, 2008 or 2010) you can associate your code changes with a work item. This means that future developers can work out not just \*what\* changed, but \*why\*. 
 For those using TFS, enable the Checkin policy and force all developers to associate every check-in with a work item.
