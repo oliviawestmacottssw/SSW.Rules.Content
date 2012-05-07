@@ -9,18 +9,34 @@ authors:
 
 ---
 
- Here is the steps to subsibe a report   ​1. Open IE,go to the folder view which contains the report you're going to subscribe.![reportFolderView.png](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/reportFolderView.png)
-​  Figure. Reports folder view
+ Here are the steps to subsibe a report   ​1. Open IE, go to the folder view which contains the report you're going to subscribe.
+![reportFolderView.png](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/reportFolderView.png)
+
+Figure. Reports folder view
+
+
+
 
 2. Click the report you're going to subscribe and select subscribe
 
 ![subscribeReport.png](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/subscribeReport.png) 
 
- Figure. Subscribe report3. Configurating the subscriber's email address,report rendering type and schedule.
+Figure. Subscribe report
+
+
+
+
+3. Configurating the subscriber's email address,report rendering type and schedule.
 
 ![configurating settings.png](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/configurating%20settings.png) 
 
  Figure. Configurating report
+
+
+
+
+
+
 
 
 
