@@ -14,7 +14,9 @@ Sometimes their estimates on items are way too short or too long. It is very har
 
 The best way to keep track is to insist on a [weekly release update/debrief](/Management/RulesToSuccessfulProjects/Pages/ReleaseDebrief.aspx).
 
+
 **For Scrum Projects:**
 
 Deadlines don't move, features do. At your Daily Scrum the team may decide that a Story or Stories will not be completed by the end of the Sprint. Make sure you are involved in the Daily Scrums to keep informed which Stories won’t make the Sprint.
+
 
