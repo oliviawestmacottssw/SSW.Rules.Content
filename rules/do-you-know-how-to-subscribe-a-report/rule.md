@@ -12,8 +12,8 @@ authors:
  Here are the steps to subscribe a report:
 
 
-   ​1. Open IE, go to the folder view which contains the report you're going to subscribe.
-![reportFolderView.png](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/reportFolderView.png)
+<br>​   ​1. Open IE, go to the folder view which contains the report you're going to subscribe.
+![reportFolderView.png](/PublishingImages/reportFolderView.png)
 
 Figure. Reports folder view
 
@@ -22,7 +22,7 @@ Figure. Reports folder view
 
 2. Click the report you're going to subscribe and select "Subscribe...".
 
-![subscribeReport.png](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/subscribeReport.png) 
+![subscribeReport.png](/PublishingImages/subscribeReport.png) 
 
 Figure. Subscribe report
 
@@ -31,9 +31,9 @@ Figure. Subscribe report
 
 3. Configuring​ the subscriber's email address, report render type and schedule.
 
-![configurating settings.png](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/configurating%20settings.png) 
+![configurating settings.png](/PublishingImages/configurating%20settings.png) 
 
-Figure. Configuring report
+Figure. Configuring subscribe settings
 
 
 
