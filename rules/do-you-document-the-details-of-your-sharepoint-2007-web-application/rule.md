@@ -15,7 +15,7 @@ authors:
 When you move to SharePoint 2010, you will need to know the settings you had on your 2007 server. Therefore document all the settings from the SharePoint 2007 server, that you will need to re-create on the SharePoint 2010 server.
 
 
-<br>​ 
+<br>​​ 
 Fill in the following table. You will use this later when creating the new web application in SharePoint 2010.
 
 
@@ -33,7 +33,7 @@ Fill in the following table. You will use this later when creating the new web a
 | Public URL | Automatically updated from Host Header |  |
 | Application pool name | Leave defaults |  |
 | Security account for this application pool | Leave defaults |  |
-| Database Name | Zz the database name so you know this will be replaced (read [http://www.ssw.com.au/ssw/Standards/Rules/RulestoSuccessfulProjects.aspx#zzoldfiles](/Management/RulesToSuccessfulProjects/Pages/ZZOldFiles.aspx)) |  |
+| Database Name | Zz the database name so you know this will be replaced (read [http://rules.ssw.com.au/Management/RulesToSuccessfulProjects/Pages/ZZOldFiles.aspx](/Management/RulesToSuccessfulProjects/Pages/ZZOldFiles.aspx))<br><br> |  |
 
 
 
