@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Installing MS Lync client on Iphone or Ipad. Employees should be contactable no matter if they are in the office or not  (at a client). By installing the Lync client, everyone knows where they are and if they are available to take calls or answer questions that may arise.   ​
+ Installing MS Lync client on Iphone or Ipad. Employees should be contactable no matter if they are in the office or not  (at a client). By installing the Lync client, everyone knows where they are and if they are available to take calls or answer questions that may arise.   ​ 
 1.    Search for “Lync” in the Apple App store.
 
  ![](/ITAndNetworking/PublishingImages/Lync1.png)
