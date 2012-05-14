@@ -19,4 +19,4 @@ If someone's blog post is interesting or inflammatory enough that you want to co
 > [less than 20 seconds ago](http&#58;//twitter.com/MrHinsh/status/10522525724)via [bit.ly](http&#58;//bitly.com/) 
 >  Figure: When you comment, tweet the other persons blog. Its only polite.
 
-<br>​​ 
+<br>​​​ 
