@@ -15,6 +15,7 @@ authors:
 SharePoint comes with some very basic workflows out of the box.  A particular example is the content approval workflow.
 
 When a content approval workflow is used, it modifies the process of publishing content to be:
+
 1. User clicks publish (click 1)
 2. Workflow starts, and asks the user to request for approval, there’s an option to add additional messages (click 2)
 3. The workflow sends an email to the user to tell him an approval workflow has started. (email 1)
@@ -28,7 +29,12 @@ When a content approval workflow is used, it modifies the process of publishing 
 What is the problem?
 
 The out of the box workflow is extremely generic.  It has no customizations or shortcuts.  Even if you are an approver, you cannot skip any of the steps.  The end result is that you will have to click 4 times and receive 3 emails, for approving your own finalized content.
+
 These kind of workflows are designed generic to fit any business’ needs – and in fact, businesses using these out of the box workflows have to adjust their staff’s workflow to match SharePoint’s ones.  Which can be counter intuitive.
+
+
+
+
 
 We think these SharePoint workflows need to be far more customizable.
 
