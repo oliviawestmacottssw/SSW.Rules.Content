@@ -65,14 +65,17 @@ In SSW, to make the chase work easier, we have a custom page to show the "Checke
 ![CheckedOutFilesApplicationReport.png](/ITAndNetworking/SharePointMigration/PublishingImages/CheckedOutFilesApplicationReport.png)
 Figure: Checked out Files custom application reportNotification email sample: 
 
-**Hi Daragh,  **
-
+**Hi Daragh, **
 
 You have some pages checked out in SharePoint. 
 
 
-> 1. Revise our SSW rule [on Frequent SharePoint Check-ins](/ITAndNetworking/SharePointMigration/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx).
+> 1. Revise our SSW rule [on Frequent SharePoint Check-ins](/ITAndNetworking/SharePoint/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx).
 > 2. If you are no longer editing these files, check them in!
+
+
+ 
+
 
 
 
@@ -90,19 +93,8 @@ Remember, you can check which files you have checked out at any time by going to
 
 &lt;As per rule [http://rules.ssw.com.au/ITAndNetworking/SharePoint/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx](/ITAndNetworking/SharePoint/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx) &gt;
 
- 
+William
 
 
 
-
-
-William 
-
- 
-
-
-
-
-
- 
 
