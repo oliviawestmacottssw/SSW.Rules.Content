@@ -63,14 +63,18 @@ Figure: Checked Out Documents report link make sure there are no files checked o
 In SSW, to make the chase work easier, we have a custom page to show the "Checked out files" and send the notification email to naughty people:
 
 ![CheckedOutFilesApplicationReport.png](/ITAndNetworking/SharePointMigration/PublishingImages/CheckedOutFilesApplicationReport.png)
-Figure: Checked out Files custom application reportNotification email sample: 
-**Hi SSW2000\RajDhatt,  **
+Figure: Checked out Files custom application reportNotification email sample: 
+
+**Hi Daragh,  **
+
 
 You have some pages checked out in SharePoint. 
 
 
 > 1. Revise our SSW rule [on Frequent SharePoint Check-ins](/ITAndNetworking/SharePointMigration/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx).
 > 2. If you are no longer editing these files, check them in!
+
+
 
 
 You currently have the following pages checked out: 
@@ -88,7 +92,17 @@ Remember, you can check which files you have checked out at any time by going to
 
  
 
+
+
+
+
 William 
 
+ 
 
+
+
+
+
+ 
 
