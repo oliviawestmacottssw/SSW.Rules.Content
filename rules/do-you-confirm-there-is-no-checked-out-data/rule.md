@@ -65,6 +65,7 @@ In SSW, to make the chase work easier, we have a custom page to show the "Checke
 ![CheckedOutFilesApplicationReport.png](/ITAndNetworking/SharePointMigration/PublishingImages/CheckedOutFilesApplicationReport.png)
 Figure: Checked out Files custom application reportNotification email sample: 
 **Hi SSW2000\RajDhatt,  **
+
 You have some pages checked out in SharePoint. 
 
 
@@ -87,5 +88,7 @@ Remember, you can check which files you have checked out at any time by going to
 
  
 
-William
+William 
+
+
 
