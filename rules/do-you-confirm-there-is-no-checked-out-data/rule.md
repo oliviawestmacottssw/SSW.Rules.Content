@@ -13,7 +13,15 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field).   ​ 
+ 
+Pages in SharePoint are easily checked out, and the changes not checked-in will not be migrated when you migrate SharePoint data.
+
+In SSW, we have two ways to check the "checked out files" regularly:
+
+- **A. Manage Content and Structure Report (No Code)**
+- **B. Custom applicatioin report (Includes some coding work)**
+
+   ​ 
 **A. Manage Content and Structure Report (No Code)**
 
 1. Create CAML query in site content and structure
