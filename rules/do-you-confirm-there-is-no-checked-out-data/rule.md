@@ -14,12 +14,12 @@ authors:
 ---
 
  
-Pages in SharePoint are easily checked out, and the changes not checked-in will not be migrated when you migrate SharePoint data.
+Pages in SharePoint are easily checked out, and the changes not checked-in will not be migrated when you do migration for SharePoint data.
 
 In SSW, we have two ways to check the "checked out files" regularly:
 
 - **A. Manage Content and Structure Report (No Code)**
-- **B. Custom applicatioin report (Includes some coding work)**
+- **B. Custom application report (Includes some coding work)**
 
    ​ 
 **A. Manage Content and Structure Report (No Code)**
@@ -59,9 +59,8 @@ Figure: Checked Out Documents report link make sure there are no files checked o
 
 
 
-**B. Custom applicatioin report (Includes some coding work)**
-In SSW, to make the chase work easier, we have a custom page to show the "Checked out files" and send the notification email to naughty people:![CheckedOutFilesApplicationReport.png](/ITAndNetworking/SharePointMigration/PublishingImages/CheckedOutFilesApplicationReport.png)
+**B. Custom application report (Includes some coding work)**
+In SSW, to make the chase work easier, we have a custom page to show the "Checked out files" and send the notification email to naughty people:
+
+![CheckedOutFilesApplicationReport.png](/ITAndNetworking/SharePointMigration/PublishingImages/CheckedOutFilesApplicationReport.png)
 Figure: Checked out Files custom application report
-
-
-
