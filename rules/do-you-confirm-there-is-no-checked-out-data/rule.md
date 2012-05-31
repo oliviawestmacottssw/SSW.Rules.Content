@@ -64,27 +64,28 @@ In SSW, to make the chase work easier, we have a custom page to show the "Checke
 
 ![CheckedOutFilesApplicationReport.png](/ITAndNetworking/SharePointMigration/PublishingImages/CheckedOutFilesApplicationReport.png)
 Figure: Checked out Files custom application reportNotification email sample: 
-Hi SSW2000\RajDhatt,
+**Hi SSW2000\RajDhatt,  **
+You have some pages checked out in SharePoint. 
 
-You have some pages checked out in SharePoint.
 
-
-> 1. Revise our SSW rule on Frequent SharePoint Check-ins.
+> 1. Revise our SSW rule [on Frequent SharePoint Check-ins](/ITAndNetworking/SharePointMigration/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx).
 > 2. If you are no longer editing these files, check them in!
 
 
-You currently have the following pages checked out:
+You currently have the following pages checked out: 
 
 
-> • [http://beirules.dev.ssw.com.au/DesignandPresentation/RulesToBetterVideoRecording/Pages/Default.aspx](http&#58;//beirules.dev.ssw.com.au/DesignandPresentation/RulesToBetterVideoRecording/Pages/Default.aspx)
-> • [http://beirules.dev.ssw.com.au/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx](http&#58;//beirules.dev.ssw.com.au/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx)
+> • http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/Default.aspx
+> • http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx
 
 
-Remember, you can check which files you have checked out at any time by going to [http://beirules.dev.ssw.com.au/\_layouts/SSWReports/CheckedOutReport.aspx](http&#58;//beirules.dev.ssw.com.au/_layouts/SSWAdminPages/CheckedOutReport.aspx)
+
+Remember, you can check which files you have checked out at any time by going to http://&lt;siteurl&gt;/\_layouts/SSWReports/CheckedOutReport.aspx
+
 
 &lt;As per rule [http://rules.ssw.com.au/ITAndNetworking/SharePoint/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx](/ITAndNetworking/SharePoint/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx) &gt;
 
+ 
+
 William
-
-
 
