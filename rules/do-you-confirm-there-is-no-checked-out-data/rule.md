@@ -63,9 +63,17 @@ Figure: Checked Out Documents report link make sure there are no files checked o
 In SSW, to make the chase work easier, we have a custom page to show the "Checked out files" and send the notification email to naughty people:
 
 ![CheckedOutFilesApplicationReport.png](/ITAndNetworking/SharePointMigration/PublishingImages/CheckedOutFilesApplicationReport.png)
-Figure: Checked out Files custom application reportNotification email sample: 
+
+Figure: "Checked out Files" custom application report
+
+ 
+
+Notification email sample: 
+
 
 **Hi Daragh, **
+
+ 
 
 You have some pages checked out in SharePoint. 
 
