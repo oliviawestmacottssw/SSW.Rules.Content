@@ -11,13 +11,11 @@ authors:
 
 ---
 
-
-
-1. Run the excellent DogFoodStats by Grant Holliday    . These are queries on the TFS2008 database to give you stats about number of files, number of users etc.
+ 
+1. Run the excellent DogFoodStats by Grant Holliday. These are queries on the TFS2008 database to give you stats about number of files, number of users etc.
 [http://blogs.msdn.com/bharry/archive/2007/12/02/tfs-statistics-update.aspx](http&#58;//blogs.msdn.com/bharry/archive/2007/12/02/tfs-statistics-update.aspx)
     1. Record the Number of files
     2. Record the number of Iterations
-
 
 
 
@@ -33,7 +31,7 @@ Files
 
 2        335168
 
--- Compresed file size:
+-- Compressed file size:
 
 --------------------
 
@@ -56,4 +54,4 @@ Files
 
 
 Example: Dog Food Stats on TFS2008Make sure that you save the numbers so you can compair it to TFS 2010 later...
-
+ 
