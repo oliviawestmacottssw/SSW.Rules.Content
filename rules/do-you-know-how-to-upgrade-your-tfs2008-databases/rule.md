@@ -11,9 +11,8 @@ authors:
 
 ---
 
-
+ 
 Since [we recommend doing a "move based upgrade"](/TFS/RulesToBetterTFS2010Migration/Pages/MigrationChoices.aspx), we don’t like the "in place upgrade" option, these are the steps:
-
 
 1. Copy the TFS2008 backups to TFS2010 server (e.g. C:\TfsBackups)
 2. Restore all the databases to TFS2010’s instance of SQL 2008
@@ -54,9 +53,9 @@ Since [we recommend doing a "move based upgrade"](/TFS/RulesToBetterTFS2010Migra
 ![TFS Upgrade Wizard - Readiness Checks](/TFS/RulesToBetterTFS2010Migration/PublishingImages/14-TFS%20Upgrade%20Wizard%20-%20Readiness%20Checks.png)
 24. Have coffee (2 hours)
 ![Coffee](/TFS/RulesToBetterTFS2010Migration/PublishingImages/coffee-cup.jpg)
-<br>    BTW: A good user interface should have a coffee image 
-<br>    [TODO: Martin to create new rule in "Rules to better UI"]
-<br>    [TODO: Martin to add sugestion to TFS]
+BTW: A good user interface should have a coffee image 
+[TODO: Martin to create new rule in "Rules to better UI"]
+[TODO: Martin to add suggestion to TFS]
 ![TFS Upgrade Wizard - Configure - Upgrade Process](/TFS/RulesToBetterTFS2010Migration/PublishingImages/15-TFS%20Upgrade%20Wizard%20-%20Configure%20-%20Upgrade%20Process.png)
 25. Click "Next"
 ![TFS Upgrade Wizard - Configure - Upgrade Process Success](/TFS/RulesToBetterTFS2010Migration/PublishingImages/16-TFS%20Upgrade%20Wizard%20-%20Configure%20-%20Upgrade%20Process%20Success.png)
@@ -70,9 +69,7 @@ Since [we recommend doing a "move based upgrade"](/TFS/RulesToBetterTFS2010Migra
 
 
 
-
 | ![Red Bull Can](/TFS/RulesToBetterTFS2010Migration/PublishingImages/redbull.jpg) | Since you have to deal with your system admins, this job will take the longest. Speed it up by buying a Red Bull for your system admin |
 | --- | --- |
 
-
-
+ 
