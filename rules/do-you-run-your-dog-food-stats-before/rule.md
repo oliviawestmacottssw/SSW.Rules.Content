@@ -53,5 +53,5 @@ Files
 1096
 
 
-Example: Dog Food Stats on TFS2008Make sure that you save the numbers so you can compair it to TFS 2010 later...
+Example: Dog Food Stats on TFS2008Make sure that you save the numbers so you can compare it to TFS 2010 later...
  
