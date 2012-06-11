@@ -53,5 +53,5 @@ Files
 <font style="background-color&#58;#ffff00;">1096</font>
 
 
-Example: Dog Food Stats on TFS2008Make sure that you save the numbers so you can compair it to TFS 2010 later...
+Example: Dog Food Stats on TFS2008Make sure that you save the numbers so you can compare it to TFS 2010 later...
  
