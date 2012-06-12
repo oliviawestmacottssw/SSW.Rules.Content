@@ -9,7 +9,7 @@ authors:
 
 ---
 
- When running code analysis you may need to ignore some rules that aren't relevant to your application. Visual Studio has a handy way of doing thing. ![code-analysis-bad-example](/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/code-analysis-bad-example)Figure: Good Example - The Solution and Projects are named consistently![code-analysis-good-example](/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/code-analysis-good-example)
+ When running code analysis you may need to ignore some rules that aren't relevant to your application. Visual Studio has a handy way of doing thing. ![code-analysis-bad-example](/PublishingImages/code-analysis-bad-example.jpg)Figure: Good Example - The Solution and Projects are named consistently![code-analysis-good-example](/PublishingImages/code-analysis-good-example.jpg)
 
 ```
 public partial class Account
