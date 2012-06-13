@@ -15,9 +15,9 @@ authors:
 
 ---
 
- Just like building a beautiful house is more than the bricks, a software project is more than the sum of the coding tasks. 
+ Just like how a beautiful house is more than the bricks, a software project is more than the sum of the coding tasks. 
 
-<br>Let's see what should be included : <br> 
+Let's see what should be included :  
 In fact, for every 1 hour of 'application building' coding tasks there is between 1 and 4 hours of other work which SSW will charge for. This other work includes administration, testing and bug fixing.
 
 Here is a [list of the items](/Management/RulesToBetterProjectManagement/Pages/ReleaseEstimationProcess.aspx) which SSW considers when estimating a release.
