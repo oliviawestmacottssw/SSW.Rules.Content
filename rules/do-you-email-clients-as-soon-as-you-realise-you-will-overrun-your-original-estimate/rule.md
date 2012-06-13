@@ -17,7 +17,7 @@ authors:
 
  Do \*not\* wait until you have started to exceed your estimate, before you notify the client that the release is running late.
 <br> 
-<br>Let them decide and avoid conflict by sending an email like this:<br> 
+<br>Let them decide and avoid conflict by sending an email like this:<br>​ 
 **To**: Mr Northwind
 **Cc**: David (Project Manager)
 
@@ -32,4 +32,4 @@ Figure: A sample of an email that informs the client that the estimate will be e
 
  Never keep the client in the dark when you exceed your estimates, it will only arouse suspicion and mistrust when they see the project deadline woosh past.
 
-SSW [eXtreme Emails](http&#58;//ssw.com.au/SSW/eXtremeEmails/Default.aspx)! that automatically generates emails to notify the client of an exceeded estimate 
+SSW [eXtreme Emails](http&#58;//www.ssw.com.au/SSW/eXtremeEmails/Default.aspx)! that automatically generates emails to notify the client of an exceeded estimate 
