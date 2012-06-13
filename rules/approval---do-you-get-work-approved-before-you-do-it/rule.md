@@ -29,10 +29,10 @@ Always get permission for:
 - [Data migration procedures](/Management/RulesToSuccessfulProjects/Pages/PerformMigrationProceduresWithAnApprovedReleasePlan.aspx)
 
 
-Having said that you need to manage two potential probems with seeking permission on work before acting:
+Having said that, you need to manage two potential problems with seeking permission on work before acting:
 
 - Increased dead time while waiting for approval
-- Discouraging initiative to [fix problems fast](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#FixProblemsFast)
+- Discouraging initiative to [fix problems quickly](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#FixProblemsFast)
 
 
 These problems are naturally solved through the continual refinement of what can and can't be done without approval. Different clients will have different standards depending on the type of project. From a time perspective the rule of thumb is never spend more than one hour without approval. 
