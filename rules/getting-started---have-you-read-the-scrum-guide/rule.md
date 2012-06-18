@@ -21,5 +21,3 @@ Everyone should:
 3. Watch the awesome video 'Scrum in 10 minutes'
 
 
-
-
