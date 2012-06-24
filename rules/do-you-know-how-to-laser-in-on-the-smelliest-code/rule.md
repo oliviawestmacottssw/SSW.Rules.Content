@@ -16,6 +16,9 @@ authors:
  
 Rather than randomly browsing for dodgy code, use Visual Studio's Code Metrics feature to identify "Hot Spots" that require investigation.
 
+![467510-lotto-balls.jpeg](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/lotto-balls.jpeg)
+​Figure: The bad was is to browse the code
+
 ![](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/VS%2011%20Code%20Metrics.png)
 Figure: Run Code Metrics in VS11![](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/CodeMetrics_3.png)
 Figure: Red dots indicate the code that is hard to maintain e.g. Save() and LoadCustomer()
