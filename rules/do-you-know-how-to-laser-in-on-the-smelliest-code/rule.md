@@ -27,5 +27,5 @@ Identifying the problem areas is only the start of the process. From here, you s
 ![Two devs talking](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/two-devs-talking.jpg)Figure: Find out who the devs are by using the Annotate tool, and start a conversation.
 **Tip: **To learn how to use Annotate, see [Do you know the benefits of Source Control?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl).
 
-Suggestion to MS: allow us to visualize the developers responsible for the bad code (currently and historically)
+Suggestion to MS: allow us to visualize the developers responsible for the bad code (currently and historically)​
  
