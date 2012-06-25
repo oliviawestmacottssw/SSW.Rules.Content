@@ -13,9 +13,9 @@ authors:
 
 ---
 
- The hot spots identified in your solution often indicate violations of common design principles.   ​![](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/CodeMetrics_3.png)
-Figure: Check Address.Save() and Customer.LoadCustomer() looking for SOLID refactor opportunities
-
+ 
+The hot spots identified in your solution often indicate violations of common design principles.
+   ​![Check Address](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/CodeMetrics_3.png)Figure: Check Address.Save() and Customer.LoadCustomer() looking for SOLID refactor opportunities
 The most common problem encountered will be code that violates the Single Responsibility Principle (SRP). Addressing SRP issues will see a reduction in the following 3 metrics:
 
 1. "Cyclomatic Complexity" which indicates that your methods are complex, then
@@ -47,9 +47,7 @@ public class PrintServer
 }
 ```
 
-
 Figure: Bad example - This class does two distinct jobs. It creates print jobs and manages printers.
-
 
 ```
 public class Printers {
@@ -68,9 +66,7 @@ public class PrinterManager {
 }
 ```
 
-
 Figure: Good Example - Each class has a single responsibility.
-
 Additionally, code that has high coupling violates the Dependency Inversion principle. This makes code difficult to change, but can be resolved by implementing the Inversion of Control **\*and\*** Dependency Injection patterns.
 
 TODO: Replace example with TailSpin
