@@ -18,6 +18,9 @@ GRASP stands for General Responsibility Assignment Software Patterns and describ
 
 GRASP consists of a set of patterns and principles that describe different ways of constructing relationships between classes and objects.
 
+
+
+
 | Creator | A specific class is responsible for creating instances of specific other classes (e.g. a Factory Pattern) |
 | --- | --- |
 | ​Information Expert | Responsibilities are delegated to the class that holds the information required to handle that responsibility​ |
@@ -36,6 +39,9 @@ GRASP consists of a set of patterns and principles that describe different ways
 | --- | --- |
 | ​Protected Variations | ​Variations in the behaviour of other objects is abstracted away from the dependent object by means of an interface and polymorphism |
 | --- | --- |
+
+
+
 
 Tip: Visual Studio's Architecture tools can help you visualise your dependencies.  A good structure will show calls flowing in one direction.
 
