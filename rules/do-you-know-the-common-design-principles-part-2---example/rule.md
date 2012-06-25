@@ -15,7 +15,7 @@ authors:
 
  
 The hot spots identified in your solution often indicate violations of common design principles.
-   ​![Check Address](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/CodeMetrics_3.png)Figure: Check Address.Save() and Customer.LoadCustomer() looking for SOLID refactor opportunities
+   ​![Check Address](/PublishingImages/CodeMetrics_3.png)Figure: Check Address.Save() and Customer.LoadCustomer() looking for SOLID refactor opportunities
 The most common problem encountered will be code that violates the Single Responsibility Principle (SRP). Addressing SRP issues will see a reduction in the following 3 metrics:
 
 1. "Cyclomatic Complexity" which indicates that your methods are complex, then
