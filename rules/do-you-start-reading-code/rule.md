@@ -67,9 +67,7 @@ foreach (var product in products)
         }
         groups[p.CategoryName].ProductCount++;
     }
-}
-
-var result = new List&lt;ProductGroup&gt;(groups.Values);
+}var result = new List&lt;ProductGroup&gt;(groups.Values);
 result.Sort(delegate(ProductGroup groupX, ProductGroup groupY)
 {
     return
