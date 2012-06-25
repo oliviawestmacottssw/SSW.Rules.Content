@@ -14,7 +14,8 @@ authors:
 ---
 
  
-*“Aim for simplicity. I want to code to read like poetry” -*Terje Sandstrom
+*“Aim for simplicity. I want to code to read like poetry”*
+ - Terje Sandstrom
  
 **Good code:**
 
@@ -29,14 +30,11 @@ Good code is so nice it doesn't need comments, but when it does:
 - Includes comments that explain the intent (the "why" rather than the "what")
 - Explains "why" when you read down, and "how" when you read left to right
 
-
 public Customer GetFirstCustomerWithLastName(string lastName)
 {
   // we use StartsWith because the legacy system sometimes padded with spaces
   return \_repository.Customer.FirstOrDefault(c =&gt; c.LastName.StartsWith(lastName));
-}Figure: Good comments explain the intent of the code rather than what it is doing
-
-public IEnumerable&lt;Customer&gt; GetSupplierCustomersWithMoreThanZeroOrders(int supplierId)
+}Figure: Good comments explain the intent of the code rather than what it is doingpublic IEnumerable&lt;Customer&gt; GetSupplierCustomersWithMoreThanZeroOrders(int supplierId)
 {
     var supplier = \_repository.Suppliers.Single(s =&gt; s.Id == supplierId);
 
@@ -49,13 +47,11 @@ public IEnumerable&lt;Customer&gt; GetSupplierCustomersWithMoreThanZeroOrders(in
 
     return customers;
 }Figure: This code explains what it is doing as you read left to right, and why it is doing it when you read top to bottom.
-
 **Tip: **Read the book [Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA) by Robert. C. Martin.
 
 **Good code is declarative:**
 
 For example, I want to show all the products where the unit price less than 20, and also how many products are in each category.
-
 
 Dictionary&lt;string, ProductGroup&gt; groups = new Dictionary&lt;string, ProductGroup&gt;();
 foreach (var product in products)
@@ -81,14 +77,7 @@ result.Sort(delegate(ProductGroup groupX, ProductGroup groupY)
         groupX.ProductCount &lt; groupY.ProductCount ? 1 :
         0;
 });
-
-
-
-```
 Figure: Bad example - Not using LINQ. The yellow gives it away.
-```
-
-
 **Tip:** Resharper can automatically convert this code.
 
 
@@ -100,13 +89,8 @@ result = products
     .Select(group => new { CategoryName = group.Key, ProductCount = group.Count() });
 ```
 
-
-**Figure: Good example - using LINQ**
-
-**
-**
-
-**Tip: **For more information on why declarative programming (aka LINQ, SQL, HTML) is great, watch the TechDays 2010 Keynote by Anders Hejlsberg. Anders explains why it's better to have code "tell what, not how".
+Figure: Good example - using LINQ
+**Tip: **For more information on why declarative programming (aka LINQ, SQL, HTML) is great, watch the TechDays 2010 Keynote by Anders Hejlsberg.Anders explains why it's better to have code "tell what, not how".
 
 **Clean front-end code - HTML (This one is questionable as HTML is generally a designer issue)**
 
@@ -124,8 +108,6 @@ Clean code and consistent coding standards is not just for server-side code.  I
 
 You should use a framework like jQuery to make development easier.  jQuery also contributes to clean and consistent code as you don't need to explicitly code for different browsers and standards.
 
- 
-
 
 
 ```
@@ -135,29 +117,23 @@ var ajax;
 
 
 ```
-if (window.XMLHttpRequest) {
-    ajax=new XMLHttpRequest()
-} else {
-    ajax=new ActiveXObject("Microsoft.XMLHTTP");
-}
-ajax.onreadystatechange = function() {
-    // handle response
 }
 ```
 
 
 
 ```
-ajax.open("GET", uri, true);
+ajax.open("GET"
 ```
 
 
 
-**Figure: Bad Example - This code doesn't use jQuery**
+```
+, uri, true);
+```
 
- 
 
-
+Figure: Bad Example - This code doesn't use jQuery
 
 
 ```
@@ -167,7 +143,19 @@ $.ajax({
 
 
 ```
-type: "GET",
+t
+```
+
+
+
+```
+ype:
+```
+
+
+
+```
+"GET",
 ```
 
 
@@ -185,7 +173,13 @@ url: uri
 
 
 ```
-$('results').append(html);
+$('results').append(html)
+```
+
+
+
+```
+;
 ```
 
 
@@ -195,9 +189,6 @@ $('results').append(html);
 ```
 
 
-
-
-**Figure: Good Example ****- using jQuery​, the code is much cleaner and easier to read**
-
+Figure: Good Example - using jQuery​, the code is much cleaner and easier to read
 Even better code usese [Knockout.js](http&#58;//knockoutjs.com/) for View Model binding with jQuery.
 
