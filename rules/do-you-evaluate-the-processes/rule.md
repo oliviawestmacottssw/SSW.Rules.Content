@@ -14,7 +14,7 @@ authors:
 ---
 
  
-Often times incorrect process is the source of problems.
+Often times incorrect process is the main source of problems.
  
 Developers should be able to focus on what is important for the project rather than getting stuck on things they shouldn't have to worry about.
 
