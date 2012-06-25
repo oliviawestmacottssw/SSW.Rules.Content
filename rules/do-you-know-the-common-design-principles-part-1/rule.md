@@ -13,8 +13,6 @@ authors:
 
  
 
-
-
 | SRP​ | [​The Single Responsibility Principle](http&#58;//www.objectmentor.com/resources/articles/srp.pdf) | A class should have one, and only one, reason to change. |
 | --- | --- | --- |
 | OCP​ | [The Open Closed Principle​](http&#58;//www.objectmentor.com/resources/articles/ocp.pdf) | You should be able to extend a classes behaviour without modifying it.​ |
@@ -26,12 +24,11 @@ authors:
 | DIP​ | [The Dependency Inversion Principle​](http&#58;//www.objectmentor.com/resources/articles/dip.pdf) | Depend on abstractions, not on concretions.​ |
 | --- | --- | --- |
 
-
 Figure: Your code should be using SOLID principles
- 
-​It is assumed knowledge that you know these 6. If you don't, read about them on Uncle Bob's site above, or watch the [SOLID Pluralsight videos by Steve Smith.](http&#58;//www.pluralsight-training.net/microsoft/courses/TableOfContents?courseName=principles-oo-design&amp;highlight=)
+​It is assumed knowledge that you know these 6.
+ If you don't, read about them on Uncle Bob's site above, or watch the [SOLID Pluralsight videos by Steve Smith.](http&#58;//www.pluralsight-training.net/microsoft/courses/TableOfContents?courseName=principles-oo-design&amp;highlight=)
 
-**What order?**
+## What order?
 
 1. Look for Single Responsibility Principle violations. These are the most common and are the source of many other issues. Reducing the size and complexity of your classes and methods will often resolve other problems.
 2. Liskov Substitution and Dependency Inversion are the next most common violations, so keep an eye out for them next.
