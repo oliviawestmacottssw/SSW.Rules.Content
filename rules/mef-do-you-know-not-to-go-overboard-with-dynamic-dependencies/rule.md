@@ -10,9 +10,7 @@ authors:
 ---
 
  
-Using dynamic dependencies by loading them at runtime can be useful, but it's not always required and does have some disadvantages.  You shouldn't always look to MEF to implement a dynamic strategy.
-
- 
+Using dynamic dependencies by loading them at runtime can be useful, but it's not always required and does have some disadvantages. You shouldn't always look to MEF to implement a dynamic strategy.
  
 ​If a reference doesn't need to be dynamically loaded at runtime, it's perfectly fine to have a default constructor that has a hardcoded instantiation of a dependency. If it was never a requirement to make that thing configurable or dynamic, don't invent business requirements just because using an IoC container is "fancier".
 
