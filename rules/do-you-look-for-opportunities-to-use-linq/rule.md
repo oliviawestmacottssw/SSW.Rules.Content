@@ -33,7 +33,7 @@ foreach (var customer in Customers)
 Figure: Bad Example - imperative programming using a foreach loop. 
 
 ```
-var lucrativeCustomers = Customers.Where(c => c.Orders.Count > 0).ToList();
+;
 ```
 
 Figure: Good Example - declarative programming using Linq.
