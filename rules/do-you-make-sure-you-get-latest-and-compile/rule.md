@@ -18,7 +18,5 @@ It's amazing how often you can't simply do a **"****Get Latest"** and compile.
 
 ​A good developer makes it clear how to get a new project and compile it.
 
-Check they have instruction files in their solution as per the [Do you make instructions at the beginning of a project and improve them gradually?](/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/DoYouMakeInstructions.aspx) rule.
- 
-**Warning:** If this step is problematic, there are other things you could start teaching the developers about to improve their process.  For example, are they using [Test Driven Development](/TFS/RulesToBetterVersionControlwithTFS%28AKASourceControl%29/Pages/TestDrivenProcess.aspx), or are they checking in regularly, but this should be saved for the [Team & Process Review](http&#58;//www.ssw.com.au/ssw/Consulting/SoftwareAudit.aspx).
+Check they have instruction files in their solution as per the [Do you make instructions at the beginning of a project and improve them gradually?](/do-you-make-instructions-at-the-beginning-of-a-project-and-improve-them-gradually) rule.
 
