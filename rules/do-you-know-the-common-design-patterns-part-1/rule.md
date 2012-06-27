@@ -14,7 +14,7 @@ authors:
 ---
 
  
-Design patterns are useful for ensuring [common design principles](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouKnowCommonDesignPrinciples.aspx)are being followed.  They help make your code consistent, predictable, and easy to maintain.
+Design patterns are useful for ensuring [common design principles](/Pages/DoYouKnowCommonDesignPrinciples.aspx)are being followed.  They help make your code consistent, predictable, and easy to maintain.
  
 ​There are a very large number of Design Patterns, but here are a few important ones.
 
@@ -31,7 +31,7 @@ Design patterns are useful for ensuring [common design principles](/SoftwareDeve
 | --- | --- | --- |
 | ​Unit of Work | [​Unit of Work Pattern](http&#58;//msdn.microsoft.com/en-us/magazine/dd882510.aspx) | ​A way of handling multiple database operations that need to be done as part of a piece of work. |
 | --- | --- | --- |
-| ​MVC | [​Model View Controller](http&#58;//en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) | ​An architectural pattern separating domain logic (Controller) from how domain objects (Models) are presented (View). |
+| ​MVC | [​Model View Controller](http&#58;//en.wikipedia.org/wiki/Model%e2%80%93view%e2%80%93controller) | ​An architectural pattern separating domain logic (Controller) from how domain objects (Models) are presented (View). |
 | --- | --- | --- |
 | ​MVP | [​Model View Presenter](http&#58;//en.wikipedia.org/wiki/Model_View_Presenter) | ​An architectural pattern deriving from MVC where the View handles UI events instead of the Controller. |
 | --- | --- | --- |
