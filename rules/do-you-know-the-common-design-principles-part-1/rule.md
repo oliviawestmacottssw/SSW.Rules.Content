@@ -25,8 +25,7 @@ authors:
 | --- | --- | --- |
 
 Figure: Your code should be using SOLID principles
-​It is assumed knowledge that you know these 6.
- If you don't, read about them on Uncle Bob's site above, or watch the [SOLID Pluralsight videos by Steve Smith.](http&#58;//www.pluralsight-training.net/microsoft/courses/TableOfContents?courseName=principles-oo-design&amp;highlight=)
+​It is assumed knowledge that you know all 5 SOLID principles. If you don't, read about them on Uncle Bob's site above, or watch the [SOLID Pluralsight videos by Steve Smith.](http&#58;//www.pluralsight-training.net/microsoft/courses/TableOfContents?courseName=principles-oo-design&amp;highlight=)
 
 ## What order?
 
@@ -37,5 +36,5 @@ Figure: Your code should be using SOLID principles
 
 After you have identified and corrected the most obvious broad principle violations, you can start drilling into code and looking for  localized code breaches. [ReSharper](http&#58;//www.jetbrains.com/resharper/) from JetBrains or [JustCode](http&#58;//www.telerik.com/products/justcode.aspx) from Telerik are invaluable tools once you get to this level.
 
-Once you understand common design principles, look at [common design patterns](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouKnowCommonDesignPatterns.aspx) to help you follow them in your projects.
+Once you understand common design principles, look at [common design patterns](/Pages/DoYouKnowCommonDesignPatterns.aspx) to help you follow them in your projects.
 
