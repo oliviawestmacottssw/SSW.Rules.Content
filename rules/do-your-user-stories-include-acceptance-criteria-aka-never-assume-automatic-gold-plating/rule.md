@@ -63,6 +63,4 @@ Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ 
 
  Figure: Good example - Acceptance Tests
 **Related Resources**
-[http://www.scrumalliance.org/articles/169-new-to-user-stories](http&#58;//www.scrumalliance.org/articles/169-new-to-user-stories)
-
-
+[http://www.scrumalliance.org/articles/169-new-to-user-stories](http&#58;//www.scrumalliance.org/articles/169-new-to-user-stories)![Test Cases](/Management/RulesToBetterScrumUsingTFS/PublishingImages/test-cases.jpg)Figure: The tester sees the Test Cases in Test Manager![Test Steps](/Management/RulesToBetterScrumUsingTFS/PublishingImages/test-steps.jpg)Figure: The tester follows each instruction (aka the Test Steps), and gives it a tick or cross
