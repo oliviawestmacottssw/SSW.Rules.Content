@@ -32,3 +32,12 @@ public int GetResult(string lastname)
     return repository.Customer.First(c =&gt; c.LastName.StartsWith(lastname));
 }Figure: Good Example - The method has been renamed so no comment is required, and the comment explains \*why\* the code has been written in that way.
 
+Good code is so nice it doesn't need comments, but when it does:
+
+- Includes comments that explain the intent (the "why" rather than the "what")
+
+public Customer GetFirstCustomerWithLastName(string lastName)
+{
+  // we use StartsWith because the legacy system sometimes padded with spaces
+  return \_repository.Customer.FirstOrDefault(c =&gt; c.LastName.StartsWith(lastName));
+}Figure: Good comments explain the intent of the code rather than what it is doing
