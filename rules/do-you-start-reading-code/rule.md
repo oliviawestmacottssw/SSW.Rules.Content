@@ -23,18 +23,9 @@ authors:
 - Has consistent and meaningful names for everything
 - Has no repeated or redundant code
 - Has neat formatting
-
-
-Good code is so nice it doesn't need comments, but when it does:
-
-- Includes comments that explain the intent (the "why" rather than the "what")
 - Explains "why" when you read down, and "how" when you read left to right
 
-public Customer GetFirstCustomerWithLastName(string lastName)
-{
-  // we use StartsWith because the legacy system sometimes padded with spaces
-  return \_repository.Customer.FirstOrDefault(c =&gt; c.LastName.StartsWith(lastName));
-}Figure: Good comments explain the intent of the code rather than what it is doingpublic IEnumerable&lt;Customer&gt; GetSupplierCustomersWithMoreThanZeroOrders(int supplierId)
+public IEnumerable&lt;Customer&gt; GetSupplierCustomersWithMoreThanZeroOrders(int supplierId)
 {
     var supplier = \_repository.Suppliers.Single(s =&gt; s.Id == supplierId);
 
