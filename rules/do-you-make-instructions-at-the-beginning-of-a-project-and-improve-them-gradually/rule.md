@@ -48,9 +48,9 @@ It is essential to have documentation that describes what is required to configu
 There are 3 Levels of this documentation in a project.
 
 ## Level 1: Can you get latest and compile with a Docx 
-![Good Solutions Have Instructions - Level 1](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/instructions-level1.jpg)Figure: Level 1 documentation is static word documents. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile
+![Good Solutions Have Instructions - Level 1](/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/instructions-level1.jpg)Figure: Level 1 documentation is static word documents. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile
 ## Level 2: Can you get latest and compile with the database 
-![Good Solutions Have Instructions - level 2](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/instructions-level2.jpg)Figure: Level 2 Documentation includes database build scripts. We use [SSW SQL Deploy] (link to SQL Deploy page) to make keeping all databases on the same version simple. Check out how to use [SQL Deploy here] (link to sql deploy video on ssw.tv)
+![Good Solutions Have Instructions - level 2](/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/instructions-level2.jpg)Figure: Level 2 Documentation includes database build scripts. We use [SSW SQL Deploy] (link to SQL Deploy page) to make keeping all databases on the same version simple. Check out how to use [SQL Deploy here] (link to sql deploy video on ssw.tv)
 ## Level 3: Can you get latest and compile  with a Powershell script
 
 A perfect solution would need no static documentation. Perfect code would be so self-explanatory that it did not need comments. The same rule applies with instructions on how to get the solution compiling: the best answer would be for the solution to contain scripts that automates the setup.
