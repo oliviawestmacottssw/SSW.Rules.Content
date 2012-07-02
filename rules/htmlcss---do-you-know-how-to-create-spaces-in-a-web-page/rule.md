@@ -1,0 +1,35 @@
+---
+type: rule
+title: HTML/CSS - Do you know how to create spaces in a web page?
+uri: htmlcss---do-you-know-how-to-create-spaces-in-a-web-page
+created: 2012-07-02T14:19:41.0000000Z
+authors:
+- id: 16
+  title: Tiago Araujo
+
+---
+
+ 
+There are many scenarios where you need some extra space in a web page.
+
+No matter which one you are at, CSS is the answer.
+ 
+Sometimes the first thing that comes to the developer mind is to use the "break line" tag or the [ASCII character code](http&#58;//en.wikipedia.org/wiki/ASCII) for "space". It's wrong. CSS is the way to go. You can use "margin" or "padding" CSS properties to get the result you want.
+
+&lt;ul&gt;
+<br>&lt;li&gt;&#160;&#160;&#160;List item&lt;/li&gt;
+<br>&lt;/ul&gt;
+
+Figure: Bad Example - Using the "space" ASCII character to create a padding on that list
+&lt;ul&gt;
+<br>&lt;li&gt;List item&lt;/li&gt;
+<br>&lt;/ul&gt;
+<br>&lt;br /&gt;
+<br>&lt;br /&gt;
+<br>&lt;br /&gt;
+Figure: Bad Example - Using the &lt;br /ul&gt; tag to create a space at the bottom of that list
+ul {margin-bottom:15px;}
+
+Figure: Good Example - Using CSS to create the padding on each list item and the margin at the bottom
+**Tip:** You might be not familiar with editing a CSS file. In this case, contact a designer. He/She will be more than happy to help you.
+
