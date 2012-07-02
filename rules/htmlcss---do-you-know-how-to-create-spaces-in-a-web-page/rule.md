@@ -27,7 +27,7 @@ Figure: Bad Example - Using the "space" ASCII character to create a padding on t
 <br>&lt;br /&gt;
 Figure: Bad Example - Using the &lt;br /&gt; tag to create a space at the bottom of that list
 ul {margin-bottom:15px;}
-
-Figure: Good Example - Using CSS to create the padding on each list item and the margin at the bottom
+<br>ul li {padding-left:10px;}
+Figure: Good Example - Using CSS to add a margin at the bottom of the list a the padding on the left side of each list item
 **Tip:** You might be not familiar with editing a CSS file. In this case, contact a designer. He/She will be more than happy to help you.
 
