@@ -10,11 +10,9 @@ authors:
 ---
 
  
-There are many scenarios where you need some extra space in a web page.
-
-No matter which one you are at, CSS is the answer.
+There are many scenarios where you need some extra space in a web page. No matter which one you are at, CSS is the answer.
  
-Sometimes the first thing that comes to the developer mind is to use the "break line" tag or the [ASCII character code](http&#58;//en.wikipedia.org/wiki/ASCII) for "space". It's wrong. CSS is the way to go. You can use "margin" or "padding" CSS properties to get the result you want.
+Sometimes the first thing that comes to the developer mind is to use the "break line" tag or the [ASCII character code](http&#58;//en.wikipedia.org/wiki/ASCII) for "space" to create these extra spaces. It's wrong. CSS is the way to go. You can use both "margin" or "padding" CSS properties to get the result you want.
 
 &lt;ul&gt;
 <br>&lt;li&gt;&#160;&#160;&#160;List item&lt;/li&gt;
