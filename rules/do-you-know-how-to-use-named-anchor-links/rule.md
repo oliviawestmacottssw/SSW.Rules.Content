@@ -19,8 +19,11 @@ To do so you should create a empty link tag with the attribute name you prefer:
 To create a link to that section, simply add a hash mark to the end of the URL followed by the name you chose:
 &lt;a href="#get-started"&gt;Go to Get Started section&lt;/a&gt;Figure: Code to link to a named section of a page. Remember to add the hash mark
 
-**Tip:** Use the hash mark only to go to the top of thepage.
-
+**Tip:** Use the hash mark only to go to the top of a page. 
 E.g. &lt;a href="#"&gt;&Go to top&lt;/a&gt;
+
+
+
+**Tip 2:** Some browsers consider capitalization for anchor names. Always check you have your link and anchor name identical
 
 
