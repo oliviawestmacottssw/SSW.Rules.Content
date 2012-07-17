@@ -15,6 +15,6 @@ authors:
 The &lt;font&gt; tag is supported in all major browsers, however it is deprecated since HTML 4.
  
 
-Tip: Use CSS to define the font, size, and color of text.
+**Tip:** Use CSS to define the font, size, and color of text.
 
 
