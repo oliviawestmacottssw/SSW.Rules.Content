@@ -23,4 +23,4 @@ ECHO \*\*\*\*\*\*\*\*\*\*\*Importing new definitions\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 ECHO ON
 witadmin importwitd /collection:http://%1:8080/tfs/%2 /p:%3 /f:"..\CN.SAC.TfsProcessTemplate\WorkItem Tracking\TypeDefinitions\Requirement.xml"
 witadmin importwitd /collection:http://%1:8080/tfs/%2 /p:%3 /f:"..\CN.SAC.TfsProcessTemplate\WorkItem Tracking\TypeDefinitions\Task.xml"
-witadmin importwitd /collection:http://%1:8080/tfs/%2 /p:%3 /f:"..\CN.SAC.TfsProcessTemplate\WorkItem Tracking\TypeDefinitions\Issue.xml"​​ Figure: quick<br>deployment script for process template – UpdateProcessTemplate.batWith above script, you can execute the command like<br>belowUpdateProcessTemplate.bat &lt;serverAddress&gt; &lt;collectionName&gt; &lt;projectName&gt; ​​  
+witadmin importwitd /collection:http://%1:8080/tfs/%2 /p:%3 /f:"..\CN.SAC.TfsProcessTemplate\WorkItem Tracking\TypeDefinitions\Issue.xml"​​ Figure: quick<br>deployment script for process template – Upd​ateProcessTemplate.batWith above script, you can execute the command like belowUpdateProcessTemplate.bat &lt;serverAddress&gt; &lt;collectionName&gt; &lt;projectName&gt; ​​​  
