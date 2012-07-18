@@ -13,10 +13,14 @@ authors:
 
 
 
-<span class='intro'> <p class="ssw15-rteElement-InfoBox">​For Azure DevOps Server (and old TFS servers)<br>Note&#58; If using Azure DevOps (cloud) then you have no method of tracking changes to the Process Template​​<br></p><p>The customized process template is a very important asset for your team, you should use Source Control to store the work-in-progress template so you can track the changes and avoid mistakes.<br></p><dl class="image"><dt><img src="/PublishingImages/CheckInTemplateIntoSourceControl.png" alt="CheckInTemplateIntoSourceControl.png" /></dt><dd>Figure&#58; customized process template in source control </dd> </dl> </span>
+<span class='intro'> <p class="MsoListParagraph">Customized process template will because very
+important asset for your team, you should use Source Control to store the
+work-in-progress template so you can track the changes and avoid mistakes.&#160;</p>
+<p class="MsoListParagraph"><img src="/TFS/RulesToBetterTFSCustomization/PublishingImages/CheckInTemplateIntoSourceControl.png" alt="CheckInTemplateIntoSourceControl.png" style="margin&#58;5px;" /><br><p class="MsoListParagraph">Figure&#58; customized process template in source control</p></p> </span>
 
-​
-<p>You should also keep a version history log in ProcessTemplate.xml so you can track the deployed version easily.</p><dl class="image"><dt><img src="/PublishingImages/KeepHistoryForTemplate.png" alt="keep history" />
-   </dt><dd>Figure&#58; ProcessTemplate.xml with version history log​<br></dd></dl>
+​You should also keep a version history log in
+ProcessTemplate.xml so you can track the deployed version easily.<p class="MsoListParagraph">&#160;<img width="628" height="271" src="/TFS/RulesToBetterTFSCustomization/PublishingImages/KeepHistoryForTemplate.png" alt="" /></p>
+<p class="MsoListParagraph">
+<b>Figure&#58; ProcessTemplate.xml with version history log&#160;</b></p>
 
 
