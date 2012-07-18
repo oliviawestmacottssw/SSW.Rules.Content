@@ -16,7 +16,7 @@ You should create a WIT template and use a place holder for the difference, e.g.
 
   …<br>
 
-&lt;/WORKITEMTYPE&gt;Figure: WIT template with place holder <br>​​ ​$original\_file = '..\WorkItem Tracking\TypeDefinitions\Task\_Template\_DONOTInstall.xml'
+&lt;/WORKITEMTYPE&gt;Figure: WIT template with place holder <br>​ ​$original\_file = '..\WorkItem Tracking\TypeDefinitions\Task\_Template\_DONOTInstall.xml'
 
 $destination\_file =  '..\WorkItem Tracking\TypeDefinitions\Task\_ PlatformDep.xml'
 (Get-Content $original\_file) | Foreach-Object {
