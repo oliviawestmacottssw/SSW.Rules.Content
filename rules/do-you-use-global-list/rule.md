@@ -43,5 +43,5 @@ Figure: Good Example - Save above as<br>GlobalList.xml file​ 
     &lt;GLOBALLIST name="Disciplines" /&gt;
   &lt;/ALLOWEDVALUES&gt;
 &lt;/FIELD&gt;​​
-Figure: Good Example - Reference a global list<br>in work item type definition
- ​​​​​​  
+Figure: Good Example - Reference a global list<br>in work item type definitionNote: Global list is defined at the Team Project Collection level and it needs to be uploaded before the process template could be 
+          uploaded. ​ ​​​​​​​  
