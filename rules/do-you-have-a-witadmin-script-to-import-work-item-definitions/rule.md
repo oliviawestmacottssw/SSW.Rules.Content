@@ -9,9 +9,8 @@ authors:
 
 ---
 
- 
-You will need to update your work item type frequently once the customization process is started, make sure you have a script like below ready in your solution, this will help you to upload your process template quickly with one click, it will make your development more efficient.
- ​ECHO OFF<font face="consolas" size="2"><br></font>ECHO \*\*\*\*\*\*\*\*\*\*\*Importing new definitions\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+ You will need to update your work item type<br>frequently once the customization process is started, make sure you have a<br>script like below ready in your solution, this will help you to upload your<br>process template quickly with one click, it will make your development more<br>efficient. ​ECHO OFF
+ECHO \*\*\*\*\*\*\*\*\*\*\*Importing new definitions\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 ECHO ON
 witadmin importwitd /collection:http://%1:8080/tfs/%2 /p:%3 /f:"..\CN.SAC.TfsProcessTemplate\WorkItem ​Tracking\TypeDefinitions\Requirement.xml"
 witadmin importwitd /collection:http://%1:8080/tfs/%2 /p:%3 /f:"..\CN.SAC.TfsProcessTemplate\WorkItem Tracking\TypeDefinitions\Task.xml"
@@ -22,4 +21,5 @@ ECHO \*\*\*\*\*\*\*\*\*\*\*Importing new definitions\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 ECHO ON
 witadmin importwitd /collection:http://%1:8080/tfs/%2 /p:%3 /f:"..\CN.SAC.TfsProcessTemplate\WorkItem Tracking\TypeDefinitions\Requirement.xml"
 witadmin importwitd /collection:http://%1:8080/tfs/%2 /p:%3 /f:"..\CN.SAC.TfsProcessTemplate\WorkItem Tracking\TypeDefinitions\Task.xml"
-witadmin importwitd /collection:http://%1:8080/tfs/%2 /p:%3 /f:"..\CN.SAC.TfsProcessTemplate\WorkItem Tracking\TypeDefinitions\Issue.xml"​​ Figure: quick<br>deployment script for process template – Upd​ateProcessTemplate.bat With above script, you can execute the command like below UpdateProcessTemplate.bat &lt;serverAddress&gt;<br>&lt;collectionName&gt; &lt;projectName&gt;<br>​​​​  
+witadmin importwitd /collection:http://%1:8080/tfs/%2 /p:%3 /f:"..\CN.SAC.TfsProcessTemplate\WorkItem Tracking\TypeDefinitions\Issue.xml"​​ ​Figure: quick<br>deployment script for process template – Upd​ateProcessTemplate.bat With above script, you can execute the command like below UpdateProcessTemplate.bat &lt;serverAddress&gt;<br>&lt;collectionName&gt; &lt;projectName&gt;<br>​​​
+
