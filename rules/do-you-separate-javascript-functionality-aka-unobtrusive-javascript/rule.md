@@ -17,8 +17,8 @@ All JavaScript code should go into an external .js file (linked to the document 
 
 &lt;a onclick="action()" href="#"&gt;Click Here&lt;/a&gt;
 
-Figure: Never include Javascript as inline attributes
+Figure: Never include JavaScript as inline attributes
 
 &lt;a href="backuplink.html" class="action"&gt;Click Here&lt;/a&gt;
 
-Figure: Javascript (included in an external file) should use a class or id for its behaviours
+Figure: JavaScript (included in an external file) should use a class or id for its behaviours
