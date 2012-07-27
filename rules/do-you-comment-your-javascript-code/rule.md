@@ -24,3 +24,7 @@ In other words, let your code speak for itself.
 
 Comments are ignored (not processed as coding) by the browser, however it makes you code heavier, so always try to keep your comments short by writing only what's needed to convey the idea.
 
+
+document.write ("Example!"); // prints a message
+
+Figure: Your comment should be simple and informative
