@@ -22,9 +22,11 @@ In other words, let your code speak for itself.
 - **Multiline comments** - start with slash-asterisk (/\*) and end with asterisk-slash (\*/) pair.
 
 
+Generally use line comments. Use multiline comments for formal documentation and for commenting out.
+
 Comments are ignored (not processed as coding) by the browser, however it makes you code heavier, so always try to keep your comments short by writing only what's needed to convey the idea.
 
 
 document.write ("Example!"); // prints a message
 
-Figure: Your comment should be simple and informative
+Figure: Although this example sounds unnecessary for a developer, it shows clearly how comment should be kept simple and informative
