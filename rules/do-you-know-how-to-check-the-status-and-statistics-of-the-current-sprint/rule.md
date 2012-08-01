@@ -13,12 +13,10 @@ authors:
 
 
 
-<span class='intro'> <p>Developers think they are done when they finish coding and check in.<br></p>
-<p>Wrong. It is much better to <a href="/Pages/Do-You-Run-Acceptance-Tests.aspx">use Microsoft Test Manager (MTM) and step through the Acceptance Tests.</a></p>
-<p>Once you are doing that, this is how you check the status of the current Sprint&#58;</p> </span>
+<span class='intro'> <p>This is how you check the status of the Current Sprint&#58;</p> </span>
 
-<dl class="image"><dt><img alt="run acceptance tests" src="/PublishingImages/check-sprint-status.jpg" /></dt><dd>Figure&#58; Good example - This Sprint currently has 2 'Failed' tests (red), and 1 'Active' test (blue). (This 'Results' view is new in MTM 2012) </dd></dl> 
-<p>Key&#58; 
-   <br><ul><li>The red is work remaining for the developers, and&#160;<br></li><li>The blue is working remaining for the testers (unfinished testing)<br></li></ul></p>
+<img class="ms-rteCustom-ImageArea" src="/PublishingImages/check-sprint-status.jpg" alt="run acceptance tests" />
+<span class="ms-rteCustom-FigureNormal">This Sprint currently has 2 failing tests (red), and one active test (blue). The blue indicates that the customer has not finished testing, and the red indicates that there is still work left for the developers. (This Results view is only available in MTM 2012)
+</span>
 
 
