@@ -18,10 +18,10 @@ Wrong. It is much better to [use Microsoft Test Manager (MTM) and step through t
 
 Once you are doing that, this is how you check the status of the current Sprint:
  
-![run acceptance tests](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/PublishingImages/check-sprint-status.jpg) 
-**Figure: Good example - This Sprint currently has 2 'Failed' tests (red), and 1 'Active' test (blue). (This Results view is new in MTM 2012) **
+![run acceptance tests](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/PublishingImages/check-sprint-status.jpg)  
+**Figure: Good example - This Sprint currently has 2 'Failed' tests (red), and 1 'Active' test (blue). (This 'Results' view is new in MTM 2012) **
 
 Key: 
-\* The blue indicates that the customer has not finished testing, and 
-\*The red indicates that there is still work left for the developers.
+\* The red is work remaining for the developers, and
 
+\* The blue is working remaining for the testers (unfinished testing)   
