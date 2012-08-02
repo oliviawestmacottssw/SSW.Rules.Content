@@ -37,3 +37,5 @@ This is how you run Acceptance Tests:
 **Figure: Good Example – every test is 'Passed'. 
 **Tip: You can pass a test from the test list. Select the Test menu, then the Test Suite. Choose the Test Case to pass and then click the green button ‘Pass Test’
 
+The next step is to [review the Statistics of the Sprint](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/Pages/How-to-Check-the-Status-of-the-Current-Sprint.aspx)
+
