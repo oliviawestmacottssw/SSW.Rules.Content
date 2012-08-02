@@ -12,5 +12,11 @@ authors:
 ---
 
  
-This is how you check the status of the Current Sprint:
- ![run acceptance tests](/PublishingImages/check-sprint-status.jpg)This Sprint currently has 2 failing tests (red), and one active test (blue). The blue indicates that the customer has not finished testing, and the red indicates that there is still work left for the developers. (This Results view is only available in MTM 2012)
+Developers think they are done when they finish coding and check in.
+
+Wrong. It is much better to [use Microsoft Test Manager (MTM) and step through the Acceptance Tests.](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/Pages/Do-You-Run-Acceptance-Tests.aspx)
+
+Once you are doing that, this is how you check the status of the current Sprint:
+ ![run acceptance tests](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/PublishingImages/check-sprint-status.jpg) Figure: Good example - This Sprint currently has 2 'Failed' tests (red), and 1 'Active' test (blue). (This Results view is new in MTM 2012) 
+The blue indicates that the customer has not finished testing, and 
+The red indicates that there is still work left for the developers. 
