@@ -16,7 +16,7 @@ Sometimes a task will not be clear, or you won't have sufficient context to unde
 
 A bad approach is to simply delete the email or to reply with “?” and then delete it.
  
-​What you should do is call the sender and ask for specifics, then reply to the email with an as per our conversation, documenting your new understanding of the task.
+​What you should do is call the sender and ask for specifics, then reply to the email with an [as per our conversation](/Communication/RulesToBetterEmail/Pages/DoYouAlwaysSendAnAsPerOurConversationEmail.aspx), documenting your new understanding of the task.
 
 If you can't get hold of the person, email them back asking specifics of what you don't understand.
 
