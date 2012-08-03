@@ -28,7 +28,7 @@ In SSW, we have two ways to check the "checked out files" regularly:
 
 Go to "Site Settings | Manage Content and Structure | Content and Structure Reports", click "New":
 
-![ContentAndStructureReportsNew.png](/ITAndNetworking/SharePointMigration/PublishingImages/ContentAndStructureReportsNew.png)
+![ContentAndStructureReportsNew.png](/ITAndNetworking/SharePointMigration/PublishingImages/ContentAndStructureReportsNew.png) 
 Figure: Create a new report 
 Fill the "CAML Query": 
 &lt;Where&gt;&lt;IsNotNull&gt;&lt;FieldRef Name="CheckoutUser" LookupId="TRUE"/&gt;&lt;/IsNotNull&gt;&lt;/Where&gt;
@@ -38,7 +38,7 @@ Fill the "CAML Query":
 
 Fill the other fields like below:
 
-![NewReportForm.png](/ITAndNetworking/SharePointMigration/PublishingImages/NewReportForm.png)
+![NewReportForm.png](/ITAndNetworking/SharePointMigration/PublishingImages/NewReportForm.png) 
 
 Figure: Fill in form
 
@@ -62,7 +62,7 @@ Figure: Checked Out Documents report link make sure there are no files checked o
 **B. Custom application report (Includes some coding work)**
 In SSW, to make the chase work easier, we have a custom page to show the "Checked out files" and send the notification email to naughty people:
 
-![CheckedOutFilesApplicationReport.png](/ITAndNetworking/SharePointMigration/PublishingImages/CheckedOutFilesApplicationReport.png)
+![CheckedOutFilesApplicationReport.png](/ITAndNetworking/SharePointMigration/PublishingImages/CheckedOutFilesApplicationReport.png) 
 
 Figure: "Checked out Files" custom application report
 
@@ -91,7 +91,7 @@ You have some pages checked out in SharePoint.
 You currently have the following pages checked out: 
 
 
-> • http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/Default.aspx
+> • [http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/Default.aspx](/ITAndNetworking/SharePoint/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
 > • http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx
 
 
