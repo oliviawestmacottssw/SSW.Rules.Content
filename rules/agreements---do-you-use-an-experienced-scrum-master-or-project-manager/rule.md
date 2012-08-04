@@ -33,7 +33,7 @@ If you are using the old waterfall method:
 
 Some clients think that a Project Manager is just a resource that increases the cost of a project. But a house does not get built if you leave the architect, carpenters, electricians and plumbers to just work it out between themselves. The house \*does\* get built if the foreman is keeping everyone on their toes, making sure they are doing their job.
 
-Insist that your Scrum Master (aka Project Manager) [maintains a strict project schedule](/Management/RulesToBetterProjectManagement/Pages/MaintainStrictProjectSchedule.aspx).
+Insist that your Scrum Master (aka Project Manager) [maintains a strict project schedule](/Management/RulesToBetterScrumUsingTFS/Pages/MaintainStrictProjectSchedule.aspx).
 
 
 **#1 For Scrum Projects:**
