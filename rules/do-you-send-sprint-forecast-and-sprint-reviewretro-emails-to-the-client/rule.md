@@ -12,16 +12,15 @@ authors:
 ---
 
  
-Each sprint has a "Sprint Plan" email that details what will be worked on during this sprint. At the end of the sprint, this should be replied to with a "Sprint Review" email that shows a breakdown of what was completed.
+Each sprint has a "Sprint Forecast" email that details what will be worked on during this sprint.
+
+At the end of the sprint, this should be replied to with a "Sprint Review" email that shows a breakdown of what was completed.
 
 Each sprint has the following stages:
- 
+
 1. Planning meeting:
-    - Sprint Plan email
-        - Subject: &lt;Client Name&gt; Sprint xxx Plan
-        - List of tasks to be worked on in this sprint (i.e. Client priorities)
-        - Link to Project Portal
-        - Date of next review/retro
+    - Sprint Forecast email
+    - See [http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-have-a-Sprint-Contract-aka-The-deal-between-the-Product-Owner-and-Team.aspx](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-have-a-Sprint-Contract-aka-The-deal-between-the-Product-Owner-and-Team.aspx) for more details
 2. Review and Retro meetings
     - The Sprint review/retro email: "Northwind Sprint 5 Review/Retro"
         - Subject: Sprint xxx Review
