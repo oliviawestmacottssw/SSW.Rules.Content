@@ -15,12 +15,12 @@ authors:
 
 ---
 
- Every now and then your clients are going to want to move on to another release which they see as more important than the current one. Provided that it doesn't have any negative effects on the current release, there isn't any reason why you can't stick to the "customer is always right" philosophy.
+ Every now and then your clients are going to want to change their priorites and have you work on something which they see as more important than your current sprint. Provided that it doesn't have any negative effects overall, there isn't any reason why you can't stick to the "customer is always right" philosophy.
 
 So what will you do when this happens? ​ 
 
-1. Move any left over work/items to the next release.
-2. Send a debrief to the client with a note eg. As per your request we have just cancelled Release five and will start on Release six. The remaining items have been moved into Release seven.
-3. Send a Release Plan for the new release.
+1. Move any left over work/items to the next backlog.
+2. Send a debrief to the client with a note e.g. As per your request we have just cancelled Sprint five and will start on Sprint six. The remaining items have been moved into the backlog.
+3. Send a Sprint Forecast for the new sprint.
 
 
