@@ -15,9 +15,9 @@ authors:
 
 ---
 
- Do \*not\* wait until you have started to exceed your estimate, before you notify the client that the release is running late.
+ Do \*not\* wait until you have started to exceed your estimate before you notify the client that the release is running late.
  
-Let them decide and avoid conflict by sending an email like this: ​ 
+Keep them informed and avoid conflict by sending an email like this: ​ 
 **To**: Mr Northwind
 **Cc**: David (Project Manager)
 
@@ -31,4 +31,6 @@ Figure: A sample of an email that informs the client that the estimate will be e
 As soon as you realise that any of your estimates are likely to be exceeded by a margin of 10% or greater, then let the customer know ASAP [by phone and by email (using the 'as per our conversation' rule)](/Management/RulesToHappyClients/Pages/DoYouAlwaysSendAnAsPerOurConversationEmail.aspx). This will ensure that the client is fully aware of any problems and has a chance to decide an alternative action. 
 
 Never keep the client in the dark when you exceed your estimates, it will only arouse suspicion and mistrust when they see the project deadline woosh past.
+
+Note: For Scrum projects, you should keep an eye on your burndown chart during your daily standups to see if you are on track to finish all the work in a Sprint.
 
