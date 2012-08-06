@@ -19,9 +19,13 @@ At the end of the sprint, this should be replied to with a "Sprint Review" email
 Each sprint has the following stages:
  
 1. Planning meeting:
-    - Sprint Forecast email
-    - See [Do you send a Sprint Forecast Email](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-have-a-Sprint-Contract-aka-The-deal-between-the-Product-Owner-and-Team.aspx) for more details
-2. The work is done:
+
+
+- Sprint Forecast email: "Northwind Sprint 5 Forecast"
+- See [Do you send a Sprint Forecast Email](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-have-a-Sprint-Contract-aka-The-deal-between-the-Product-Owner-and-Team.aspx) for more details
+
+
+1. The work is done:
 
 
 - Done emails are sent asking for specific functionality to be tested
@@ -29,7 +33,9 @@ Each sprint has the following stages:
 
 
 1. Review and Retro meetings
-    - The Sprint review/retro email: "Northwind Sprint 5 Review/Retro"
-    - See [Do you send a Sprint Review/Retro email](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Review-email.aspx "Do you send a Sprint Review/Retro email") for more details.
+
+
+- The Sprint review/retro email: "Northwind Sprint 5 Review/Retro"
+- See [Do you send a Sprint Review/Retro email](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Review-email.aspx "Do you send a Sprint Review/Retro email") for more details.
 
 
