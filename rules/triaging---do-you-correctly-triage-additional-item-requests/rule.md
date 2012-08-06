@@ -25,7 +25,7 @@ The first step is to analyse the priority of the additional item.
 Let's look at the rules to how to prioritize:
 
 1. **By Default, move Tasks into the Next Sprint.** 
-Priority is dependent upon the severity of the request. Only if it is a 'critical bug', then it will be done "in this sprint", most tasks however go "in a later sprint". They can include new feature requests, non-critical bug fixes, modifications and undiscovered work (i.e. work you didn't initially anticipate). <br><br>
+Priority is dependent upon the severity of the request. Only if it is a 'critical bug', then it will be done "in this sprint", most tasks however go "in a later sprint". They can include new feature requests, non-critical bug fixes, modifications and undiscovered work (i.e. work you didn't initially anticipate).  
 **Note:** On a fixed price contract the rules change. Bugs should be fixed in the current sprint if time allows, otherwise first thing in the next sprint as they are stopping you from being paid.
 2. **Exception #1 - Critical Bugs go into this Sprint**
 If you have a crash-to-code bug, most of the time it will go into this sprint. If it prevents one or more users accessing the system, it will  go into this sprint. Only high-priority bugs are fixed "in this sprint".
