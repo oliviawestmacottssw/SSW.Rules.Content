@@ -12,31 +12,24 @@ authors:
 ---
 
  
-
-
-Each sprint has a "Sprint plan" email that details what will be worked on during this sprint. At the end of the sprint, this should be replied to with a breakdown of what was completed.
+Each sprint has a "Sprint Plan" email that details what will be worked on during this sprint. At the end of the sprint, this should be replied to with a "Sprint Review" email that shows a breakdown of what was completed.
 
 Each sprint has the following stages:
  
-
-
-1. Planning meeting
-\* The Sprint plan email: "Northwind Sprint 5 Plan"
+1. Planning meeting:
+    - Sprint Plan email
+        - Subject: &lt;Client Name&gt; Sprint xxx Plan
+        - List of tasks to be worked on in this sprint (i.e. Client priorities)
+        - Link to Project Portal
+        - Date of next review/retro
 2. Review and Retro meetings
-​​\* The Sprint review/retro email: "Northwind Sprint 5 Review/Retro"
-\* Include the Sprint Plan in the history
-\* Include significant notes from the Retro
-\* Any other notes that the stakeholder might need to know
-
-
-The goal of this email is to inform disconnected stakeholders (depending on what notes you include) info that will answer the following questions:
-
-- The location of the new package you built last Friday
-- The % of the tasks done? (Find this from your current iteration)
-- The % of the budget spent? (Find from your Billing System. [See example of a Billing Report - Project Progress Report](/Management/RulesToManagingSoftwareConsultants/Pages/DoYouGetRegularUpdatesOnCostsAndProgress.aspx))
-- Expected finish date
-
-
+    - The Sprint review/retro email: "Northwind Sprint 5 Review/Retro"
+        - Subject: Sprint xxx Review
+        - This is a reply to the Sprint Plan email
+        - Breakdown of work completed
+        - Screenshot of Burndown
+        - Link to test environment
+        - Relevant notes from the retro
 
 Hi Mr Northwind 
 
@@ -53,4 +46,4 @@ Here is an update:
 - I expect to finish on Fri 30/05/2008
 
 
-Regards Eric Figure: The above is a sample of the 'Weekly Project Update' email 
+Regards Eric Figure: The above is a sample of the "Sprint XXX Review/Retro" email 
