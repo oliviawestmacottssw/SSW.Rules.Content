@@ -20,5 +20,5 @@ authors:
 Let's see what should be included :  
 In fact, for every 1 hour of 'application building' coding tasks there is between 1 and 4 hours of other work which SSW will charge for. This other work includes administration, testing and bug fixing.
 
-Here is a [list of the items](/Management/RulesToBetterProjectManagement/Pages/ReleaseEstimationProcess.aspx) which SSW considers when estimating a release.
+Here is a [list of the items](/spec-do-you-know-how-to-estimate-a-project-%28that-include-the-general-project-costs%29) which SSW considers when estimating a release.
 
