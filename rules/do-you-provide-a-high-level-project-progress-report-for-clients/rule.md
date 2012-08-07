@@ -20,5 +20,5 @@ authors:
 We provide the following report to clients:  
 - Project Progress Report: This report helps clients to review the current project progress, check the status of the project and whether they are over or under estimates.
 
-![rulestobetterprojectprogress2.png](/Management/RulesToHappyClients/PublishingImages/rulestobetterprojectprogress2.png)
+![](/Management/RulesToHappyClients/PublishingImages/rulestobetterprojectprogress2.png)
 Figure: Project Progress Report
