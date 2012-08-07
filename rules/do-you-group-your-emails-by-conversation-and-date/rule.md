@@ -19,7 +19,7 @@ authors:
 
 ![](/Communication/RulesToBetterEmail/PublishingImages/GroupByConversationAndDateGood.gif)
 
-<font face="Calibri"><strong><span lang="EN-AU" style="font-family&#58;'calibri','sans-serif';font-size&#58;11pt;"><strong>Figure&#58;&#160; Good example.&#160; Email messages are grouped by Conversation</strong></span></strong></font>
+<font face="Calibri"><strong><span lang="EN-AU" style="font-family&#58;calibri, sans-serif;font-size&#58;11pt;"><strong>Figure&#58;&#160; Good example.&#160; Email messages are grouped by Conversation</strong></span></strong></font>
 
 
 <br>Follow these steps to group by conversation:
