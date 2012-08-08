@@ -28,7 +28,7 @@ As per our conversation, The Data Migration task in Sprint 3 will take longer th
 Regards
 David
 Figure: Good Example - A sample of an email that informs the client that the estimate will be exceeded 
-As soon as you realise that any of your estimates are likely to be exceeded by a material margin (about 20%), then let the customer know ASAP [by phone and by email (using the 'as per our conversation' rule)](/Management/RulesToHappyClients/Pages/DoYouAlwaysSendAnAsPerOurConversationEmail.aspx). This will ensure that the client is fully aware of any problems and has a chance to decide an alternative action. 
+As soon as you realise that any of your estimates are likely to be exceeded by a material margin (about 20%), then let the customer know ASAP [by phone and by email (using the 'as per our conversation' rule)](/do-you-send-＂as-per-our-conversation＂-emails). This will ensure that the client is fully aware of any problems and has a chance to decide an alternative action. 
 
 Never keep the client in the dark when you exceed your estimates, it will only arouse suspicion and mistrust when they see the project deadline woosh past.
 
