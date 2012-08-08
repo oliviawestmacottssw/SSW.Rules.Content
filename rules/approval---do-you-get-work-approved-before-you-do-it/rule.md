@@ -39,5 +39,9 @@ Having said that, you need to manage two potential problems with seeking permiss
 - Discouraging initiative to [fix problems quickly](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#FixProblemsFast)
 
 
-This rule is not generally applicable if you are working on an [ad hoc](/Management/RulesToBeingSoftwareConsultants-DealingWithClients/Pages/Ad-hocWorkAndProjectManagedWork.aspx) basis on a client managed project OR if the task is an obvious task which you would [reasonably assume the client would approve](/Communication/RulesToBetterEmail/Pages/AssumeNecessaryTasks.aspx) and is not likely to take more than half an hour.
+This rule is not generally applicable if:
+
+- You are working on an [ad hoc](/Management/RulesToBeingSoftwareConsultants-DealingWithClients/Pages/Ad-hocWorkAndProjectManagedWork.aspx) basis on a client managed project
+- The task is an obvious task which you would [reasonably assume the client would approve](/Communication/RulesToBetterEmail/Pages/AssumeNecessaryTasks.aspx) and is not likely to take more than half an hour.
+
 
