@@ -19,7 +19,7 @@ authors:
 
 So what will you do when this happens? ​ 
 
-1. Move any left over work/items to the next backlog.
+1. Move any left over work/items to the backlog.
 2. Send a debrief to the client with a note e.g. As per your request we have just cancelled Sprint five and will start on Sprint six. The remaining items have been moved into the backlog.
 3. Send a Sprint Forecast for the new sprint.
 
