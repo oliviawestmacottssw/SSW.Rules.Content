@@ -18,8 +18,8 @@ Warning: iPhones strip inline images
 So in such a case, you will want to skip that email and go back to the last HTML email and past in the extra response. For clarity add something like:
 
 
-<font style="background-color&#58;#ffff00;">&quot;(fixed history to put back images - caused by Adam's iPhone)&quot;</font>
+<font style="background-color&#58;rgb(255, 255, 0);">&quot;(fixed history to put back images - caused by Adam's iPhone)&quot;</font>
 
 <font face="Calibri">&#160;</font>
 
- 
+
