@@ -38,5 +38,5 @@ Team Foundation Server is the fully integrated solution to manage projects, givi
 - Later on, when they decide to go with Lab Manager they will never spend time setting up that special environment (say running windows 95 and IE6)
 
 
-[Managing your SharePoint Projects with TFS (with proven Agile/Scrum and ALM Strategies)](/ssw/Consulting/Scrum.aspx)
+[Managing your SharePoint Projects with TFS (with proven Agile/Scrum and ALM Strategies)](http&#58;//www.ssw.com.au/ssw/consulting/scrum.aspx)
 
