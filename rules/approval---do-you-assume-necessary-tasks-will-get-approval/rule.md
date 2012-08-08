@@ -24,4 +24,6 @@ To: Scott
 Subject: QWI - Aqua UI Improvements from Adam
 
 Adam suggested that we make the positioning of the "New" Button consistent on all forms. Move the New to the right with the Save and close buttons. Estimated 15 minutes.
+
+I have made these small changes. Test please.
 Figure: Good Example.
