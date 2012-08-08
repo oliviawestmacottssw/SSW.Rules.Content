@@ -14,7 +14,7 @@ Team Foundation Server is the fully integrated solution to manage projects, givi
  
 #### Project Managers and stakeholders will love:
 
-- TFS's integration with code/sql/SharePoint which provides a dashboard with project reports, giving them greater visibility of the project status and burn down lists
+- TFS's integration with code/SQL/SharePoint which provides a dashboard with project reports, giving them greater visibility of the project status and burn down lists
 - The easily customization of the data using Excel Web Services
 
 
@@ -23,7 +23,7 @@ Team Foundation Server is the fully integrated solution to manage projects, givi
 - TFS 2010 for the SQL and SharePoint Server Explorer and the integration of viewing, creating and deploying
 - That they don't have to try to interpret a bug report from a tester,  and then they have to reproduce it. Why? Because of Intellitrace, which allows you to double click and open to the exact line of code with the variables set.
 - Seamless source control
-- No waiting for compiling and tests to run.The integration with the build server (continuous integration) is the biggest productivity boost you can give a developer
+- No waiting for compiling and tests to run. The integration with the build server (continuous integration) is the biggest productivity boost you can give a developer
 - SharePoint Wiki
 
 
