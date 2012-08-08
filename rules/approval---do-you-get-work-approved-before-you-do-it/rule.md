@@ -28,7 +28,9 @@ The natural time for this conversation to occur is in the [Daily Scrum](/Managem
 
 Always get permission for:
 
-- [Additional Items](/Management/RulesToHappyClients/Pages/DoYouGetApprovalForAdditionalItemsAndWhenEstimatesWillBeExceeded.aspx)
+- Additional Items
+- Investigation time for scoping out additional items
+- Adding additional resources onto a project
 - [Exceeding estimates](/Management/RulesToHappyClients/Pages/DoYouGetApprovalForAdditionalItemsAndWhenEstimatesWillBeExceeded.aspx)
 - [Data migration](/Management/RulesToSuccessfulProjects/Pages/PerformMigrationProceduresWithAnApprovedReleasePlan.aspx)
 
