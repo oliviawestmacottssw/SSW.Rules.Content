@@ -18,12 +18,12 @@ Here's a couple of solutions:
 - Move the items into subfolders under Deleted Items. This is a good solution as you can manually archive items, making it easier to search. You can permanently delete items when they reach a certain age.
 
 
-![Oulook Deleted Items](/Communication/RulesToBetterEmail/PublishingImages/OulookDeletedItemsSubFolders.gif)
+![Oulook Deleted Items](/PublishingImages/OulookDeletedItemsSubFolders.gif)
 Figure: Good Example - Deleted Items ordered into time periods
 
  NOTE: A hot tip for making it easy to search for an accidentally deleted item is to add the "Modified" field into your Deleted Items view and sort by "Modified". The item from two months ago which you just accidentally deleted will be sitting at the top.
 
-![](/Communication/RulesToBetterEmail/PublishingImages/OutlookModifiedByDate.gif)
+![](/PublishingImages/OutlookModifiedByDate.gif)
 Figure: Sort by "Modified"
 We have a program called SSW LookOut! for Outlook to check for this rule. It leaves a reminder in your Inbox to remind you to clear your deleted items folder
 
