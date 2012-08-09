@@ -55,5 +55,5 @@ Figure: Good example - task clearly redirected
 
 
 If you need to handover an entire project there are more details here:
-[http://rules.ssw.com.au/Management/RulesToSuccessfulProjects/Pages/HandOverProject.aspx](/Management/RulesToSuccessfulProjects/Pages/HandOverProject.aspx)
+[http://rules.ssw.com.au/Management/RulesToSuccessfulProjects/Pages/HandOverProject.aspx](/do-you-know-how-to-handover-a-project)
 
