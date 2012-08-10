@@ -12,7 +12,7 @@ authors:
  There is a place for Silverlight, but it can only be the 'richer' experience. In some case it is better not to use Silverlight for Data Entry Form and also content publisher should have alternative of Silverlight for Andriod & iOS user. <br> 
 **Mobile Device: 
 
-![Silverlight in iPad doesn't work](/SoftwareDevelopment/RulesToBetterSilverLight/PublishingImages/SilverlightInIPad.png)
+![Silverlight in iPad doesn't work](/PublishingImages/SilverlightInIPad.png)
 <br>    Figure: Silverlight does not work on an iPad, It can't be only experience. ** **
 <br>    ** Further Reading: [PCWorld](http&#58;//www.pcworld.com/article/193540/ipad_proves_that_apple_wants_to_kill_flash.html).
 
@@ -54,11 +54,11 @@ YES. Using Silverlight Rich TextBox user can format Text, insert image, DataGrid
 
 **For mapping apps**
 
-YES. Microsoft.Maps.MapControl provides functionality to access Bing Maps. Using script a site can implement map feature by referencing the Bing Maps Silverlight Control XAP file in an object tag. Here are some sample applications:  [Microsoft Bing Map](http&#58;//www.microsoft.com/maps/isdk/silverlight/), [MotoGP Circuit](http&#58;//www.valentinorossi.fr/bingMapMotoGP.htm) & [DeepEarth Project](http&#58;//deepearth.codeplex.com/)
+YES. Microsoft.Maps.MapControl provides functionality to access Bing Maps. Using script a site can implement map feature by referencing the Bing Maps Silverlight Control XAP file in an object tag. Here are some sample applications:  [Microsoft Bing Map](http&#58;//www.microsoft.com/maps/isdk/silverlight/) & [DeepEarth Project](http&#58;//deepearth.codeplex.com/)
 
  
 
 **Slow Response**
 
-The initial slow response is due to downloading of the .xap file. This is not an issue since it is a one-time download and the user gets a fast response with later interaction. For later visits, user will not face slow response issue as browser already cached the data. Also check out rules - [Do you use dynamic application loading in Silverlight](/SoftwareDevelopment/RulesToBetterSilverLight/Pages/Do-you-use-dynamic-application-loading-in-Silverlight.aspx)
+The initial slow response is due to downloading of the .xap file. This is not an issue since it is a one-time download and the user gets a fast response with later interaction. For later visits, user will not face slow response issue as browser already cached the data. Also check out rules - [Do you use dynamic application loading in Silverlight](/Pages/Do-you-use-dynamic-application-loading-in-Silverlight.aspx)
 
