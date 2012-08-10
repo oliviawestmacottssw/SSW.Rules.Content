@@ -16,6 +16,6 @@ authors:
 Sometimes, you would want to avoid using swear words, or using an angry tone as well.
 
 We have a program called [SSW LookOut! for Outlook](http&#58;//www.ssw.com.au/ssw/LookOut/) to check for this rule. 
-![Contact or bad word](/Communication/RulesToBetterEmail/PublishingImages/ContactorBadWord.GIF) 
+![Contact or bad word](/PublishingImages/ContactorBadWord.GIF) 
 Figure: SSW LookOut! for Outlook checks that you don't use bad words.
 
