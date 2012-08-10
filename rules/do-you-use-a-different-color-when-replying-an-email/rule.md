@@ -14,7 +14,8 @@ authors:
 ---
 
  Replying inline should be the exception rather than the rule as it messes up the history of the email thread. If you do - copy and paste the entire email in your reply and comment on each issue at a time. It's useful to write your comments in red. And make sure what you type should always be aligned left, not indented. Remember, if you write emails with one issue at a time you won't need to do this too often.<br> 
------Original Message-----<br>
+-----Original Message-----
+
 From: Daniel Hyles www.ssw.com.au
  Sent: Tuesday, 28 May 2002 7:31 AM
  To: Adam Cogan www.ssw.com.au
@@ -38,4 +39,6 @@ Not Done
 Not Done
 
 Figure: Good Example - See the "Reply In-line" comment, and see how the RED makes the email easier to read.
+
+
 
