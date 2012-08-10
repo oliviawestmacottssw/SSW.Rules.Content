@@ -21,5 +21,5 @@ In Scrum there is only one report that the team needs to track their progress.
 
 There are however other reports that matter for management and putting together the bigger picture.
 
-See [Do you get regular updates on costs and progress?](/Management/RulesToManagingSoftwareConsultants/Pages/DoYouGetRegularUpdatesOnCostsAndProgress.aspx "http&#58;//rules.ssw.com.au/Management/RulesToManagingSoftwareConsultants/Pages/DoYouGetRegularUpdatesOnCostsAndProgress.aspx")
+See [Do you get regular updates on costs and progress?](/watch-do-you-get-regular-updates-on-costs-and-progress-%28aka-project-progress-burndown-etc-%29 "http&#58;//rules.ssw.com.au/Management/RulesToManagingSoftwareConsultants/Pages/DoYouGetRegularUpdatesOnCostsAndProgress.aspx")
 
