@@ -85,6 +85,6 @@ We have a program called [SSW Exchange Reporter](http&#58;//www.ssw.com.au/ssw/E
 
 ## Related Links
 
-- [Do you get your work done in order of importance (aka priorities)?](/Management/Rules-to-Being-Software-Consultants-Working-in-a-Team/Pages/Do-you-get-your-work-done-in-order-of-importance.aspx)
+- [Do you get your work done in order of importance (aka priorities)?](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Do-you-get-your-work-done-in-order-of-importance.aspx)
 
 
