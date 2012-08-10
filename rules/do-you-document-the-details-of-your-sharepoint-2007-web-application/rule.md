@@ -30,6 +30,7 @@ Fill in the following table. You will use this later when creating the new web a
 | Public URL | Automatically updated from Host Header |  |
 | Application pool name | Leave defaults |  |
 | Security account for this application pool | Leave defaults |  |
+| Database Name | Zz the database name so you know this will be replaced (read [zzOldFiles](/Management/RulesToSuccessfulProjects/Pages/ZZOldFiles.aspx))<br><br> |  |
 
 
 
