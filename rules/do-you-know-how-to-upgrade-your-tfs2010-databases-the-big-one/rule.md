@@ -45,7 +45,7 @@ authors:
 **Note:** At this point, you may be asked to reboot and start the wizard again.  Don't despair - it's quicker the second time!
 23. Once you have all green ticks, click Configure
 ![tfs_final_configure.png](/TFS/RulesToBetterTFS2012Migration/PublishingImages/tfs_final_configure.png)
-24. Have coffee (image from [The Noun Project](http&#58;//thenounproject.com/noun/coffee/#icon-No1724))
+24. Have a coffee
 ![coffee.png](/TFS/RulesToBetterTFS2010Migration/PublishingImages/ssw-coffee.png)
 25. Click Next
 ![tfs_upgrade_complete.png](/TFS/RulesToBetterTFS2012Migration/PublishingImages/tfs_upgrade_complete.png)
