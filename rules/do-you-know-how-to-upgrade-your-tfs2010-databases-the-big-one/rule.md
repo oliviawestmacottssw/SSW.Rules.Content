@@ -46,7 +46,7 @@ authors:
 23. Once you have all green ticks, click Configure
 ![tfs_final_configure.png](/TFS/RulesToBetterTFS2012Migration/PublishingImages/tfs_final_configure.png)
 24. Have coffee (image from [The Noun Project](http&#58;//thenounproject.com/noun/coffee/#icon-No1724))
-![coffee.png](/TFS/RulesToBetterTFS2012Migration/PublishingImages/coffee.png)
+![coffee.png](/TFS/RulesToBetterTFS2010Migration/PublishingImages/ssw-coffee.png)
 25. Click Next
 ![tfs_upgrade_complete.png](/TFS/RulesToBetterTFS2012Migration/PublishingImages/tfs_upgrade_complete.png)
 26. Click Close, then Close again.
