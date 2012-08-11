@@ -52,7 +52,7 @@ Since [we recommend doing a "move based upgrade"](/TFS/RulesToBetterTFS2010Migra
 23. Click "Configure"
 ![TFS Upgrade Wizard - Readiness Checks](/TFS/RulesToBetterTFS2010Migration/PublishingImages/14-TFS%20Upgrade%20Wizard%20-%20Readiness%20Checks.png)
 24. Have coffee (2 hours)
-![Coffee](/TFS/RulesToBetterTFS2010Migration/PublishingImages/coffee-cup.jpg)
+![Coffee](/TFS/RulesToBetterTFS2010Migration/PublishingImages/ssw-coffee.png)
 BTW: A good user interface should have a coffee image 
 [TODO: Martin to create new rule in "Rules to better UI"]
 [TODO: Martin to add suggestion to TFS]
@@ -72,4 +72,4 @@ BTW: A good user interface should have a coffee image
 | ![Red Bull Can](/TFS/RulesToBetterTFS2010Migration/PublishingImages/redbull.jpg) | Since you have to deal with your system admins, this job will take the longest. Speed it up by buying a Red Bull for your system admin |
 | --- | --- |
 
- 
+
