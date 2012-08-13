@@ -31,7 +31,7 @@ Always get permission for:
 - Additional Items
 - Investigation time for scoping out additional items
 - Adding additional resources onto a project
-- [Exceeding estimates](/Management/RulesToHappyClients/Pages/DoYouGetApprovalForAdditionalItemsAndWhenEstimatesWillBeExceeded.aspx)
+- Exceeding estimates
 - [Data migration](/Management/RulesToSuccessfulProjects/Pages/PerformMigrationProceduresWithAnApprovedReleasePlan.aspx)
 
 
