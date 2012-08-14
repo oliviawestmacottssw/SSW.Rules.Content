@@ -38,7 +38,7 @@ For example:
 *"Hi Bill, this task you specified 'must be in this sprint' will take an extra 4 days. Our critical deadline will be missed. Is that OK?"*
 4. **Exception #3 - A Developer can Override
 **A client may request a small feature (e.g. changing the sort order of a combo-box). This work can go in this sprint as long as the task is small (less than 1/2 hour) and the sprint is under budget. 
-If the work is over budget then you need to obtain approval for any 'additional item', from both the project manager and the client, before adding the request into the Release Plan. See more about how to [Obtain Approval Additional Items Exceed Estimates](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoHappyClients.aspx#ObtainApprovalAdditionalItemsExceedEstimates). 
+If the work is over budget then you need to obtain approval for any 'additional item', from both the project manager and the client, before adding the request into the Release Plan. See more about how to [Obtain Approval Additional Items Exceed Estimates](/Management/RulesToHappyClients/Pages/DoYouEmailClientsAsSoonAsYouRealiseyouwilloverrunyouroriginalestimate.aspx). 
 To: Evan Lin - SSW
 From: Alan Ha - FinaMetrica 
 Subject: Client List for Administrators
