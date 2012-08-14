@@ -9,4 +9,4 @@ authors:
 
 ---
 
- A project page is not a place to introduce the project. It will be used to share the project process information between your teammates and clients. [See our rules to happy clients](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoHappyClients.aspx#ProjectPage)
+ A project page is not a place to introduce the project. It will be used to share the project process information between your teammates and clients. [See our rules to happy clients](/Management/RulesToHappyClients/Pages/default.aspx)
