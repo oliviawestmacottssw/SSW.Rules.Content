@@ -9,17 +9,17 @@ authors:
 
 ---
 
- If you need to do something more than once, then there should be a standard for it. At the heart of our philosophy on creating rules and standards is the idea of consistency. There are 4 main benefits you will get: <br> ![](/Management/RulesToSuccessfulProjects/PublishingImages/consitency.png)
+ If you need to do something more than once, then there should be a standard for it. At the heart of our philosophy on creating rules and standards is the idea of consistency. There are 4 main benefits you will get:  ![](/Management/RulesToSuccessfulProjects/PublishingImages/consitency.png) 
 Say we are creating a windows forms application. We can expect to:
 
 - **Improve productivity - because there are less decisions to make, and you build on existing work.** 
-<br>    For example, we don't need to discuss the pros and cons of MDI versus SDI because there is [already a standard.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#AvoidMDI)
+For example, we don't need to discuss the pros and cons of MDI versus SDI because there is [already a standard.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#AvoidMDI)
 - **Improve quality - because you are following best practices.**
-<br>    For example, which logging library is better out of [Microsoft Application Block](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#ExceptionManagement) or [Log4NET](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#Log4Net).
+For example, which logging library is better out of [Microsoft Application Block](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#ExceptionManagement) or [Log4NET](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#Log4Net).
 - **Improve communications - because people know what to expect.** 
-<br>    For example, when we complete a task we are clear and educate the customer by including a screenshot, the code and the time taken. We are consistent on whether we call it a bug or a feature because we [define what's a bug.](/Management/RulesToSuccessfulProjects/Pages/BugDefinition.aspx)
+For example, when we complete a task we are clear and educate the customer by including a screenshot, the code and the time taken. We are consistent on whether we call it a bug or a feature because we [define what's a bug.](/Management/RulesToSuccessfulProjects/Pages/BugDefinition.aspx)
 - **Get straight to the meat of the customer's problem.**
-<br>    For example, our developers don't need to decide whether to implement baseforms or user controls. They already know because it's covered in [Rules to Better Windows Forms Applications.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#UserControls)
+For example, our developers don't need to decide whether to implement baseforms or user controls. They already know because it's covered in [Rules to Better Windows Forms Applications.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#UserControls)
 
 
 At SSW we create standards for all manner of processes: from coding practices to project proposals and how to lock the office up at night. From the developer's perspective, consistency means that we understand each other's code, and if we don't know something, a standard will often save us asking someone. No more Chinese whispers, and less time wasted. From the customer's perspective, consistency leads to a reliable and repeatable experience.
