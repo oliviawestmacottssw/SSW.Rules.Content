@@ -11,7 +11,13 @@ authors:
 
 ---
 
- When developing a n-tiered software solution, we follow a standard solution structure. We have incorporated unit testing components, which is an integral part of the Extreme Programming development methodology, into our solution structure: <br> 
+ 
+[SP Link](/Management/RulesToSuccessfulProjects/Pages/DoYouUnderstandTheValueOfConsistency.aspx)
+
+[Web Link](/Management/RulesToSuccessfulProjects/Pages/DoYouUnderstandTheValueOfConsistency.aspx)
+
+When developing a n-tiered software solution, we follow a standard solution structure. We have incorporated unit testing components, which is an integral part of the Extreme Programming development methodology, into our solution structure:
+ 
 
 | Project Type  | Project Name  |  | Note  |
 | --- | --- | --- | --- |
@@ -54,4 +60,4 @@ For project documents, we should also add them into solution for later reference
 | --- | --- | --- | --- |
 | Documents  | Documents  | <br><br>| **Folder:**  | Northwind\Documents\  |<br>| --- | --- |<br><br> | This is outside the solution trunk  |
 
-![solutionlayout.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/SolutionLayout.png)Figure: Good Example - The Solution and Projects are named consistently
+![solutionlayout.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/SolutionLayout.png) Figure: Good Example - The Solution and Projects are named consistently
