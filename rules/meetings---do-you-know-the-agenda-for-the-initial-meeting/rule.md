@@ -32,4 +32,4 @@ The purpose of the initial meeting is to:
 - Take exceptional notes
 - Ask for the sale: "This project is right up our alley and we'd love to be involved,<br>                        is there anything stopping us from scheduling a [Specification Review](http&#58;//www.ssw.com.au/ssw/standards/rules/RulestoSuccessfulSalesAccountManagement.aspx#first-date)?" This will focus the mind of the client on the next step
 
-![Do you listen](/Management/Rules-to-Successful-Sales-and-Account-Management/PublishingImages/WomanListening.jpg)                        Figure: Do you listen?
+![Do you listen](/Management/RulesToSuccessfulSalesAndAccountManagement/PublishingImages/WomanListening.jpg)                        Figure: Do you listen?
