@@ -26,7 +26,7 @@ A "client relationship problem" is when you have said "no" to                   
 
 - Tell them the reasons for your stand
 - Tell them that developers will sometimes do the wrong thing - clients have different<br>                        opinions of what that is
-- Tell them you are authorized to split a problem,offer them the solution and ask if they<br>                        are happy with that solution
+- Tell them you are authorized to split a problem, offer them the solution and ask if they<br>                        are happy with that solution
 
 
 If they're still not happy you may need to refer them up the chain of authority.
