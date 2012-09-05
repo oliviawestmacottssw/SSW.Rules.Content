@@ -1,0 +1,29 @@
+---
+type: rule
+title: Do you know the alternative to giving discounts?
+uri: do-you-know-the-alternative-to-giving-discounts
+created: 2012-08-30T13:04:56.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+- id: 4
+  title: Ulysses Maclaren
+- id: 46
+  title: Danijel Malik
+
+---
+
+ 
+We should try to never discount our price at SSW. Instead we should be adding value                     to the offering for the client.
+ 
+If a client asks for a discount you can add value by offering:
+
+- All our products to our clients at no charge
+- Adam and Tim for 2 hours a<br>                        month to complete the following tasks:
+    - Code Review
+    - UI Review
+    - Help implement the SSW Checklist
+    - Tickets to our tech breakfasts for 3-6 months for 2 employees
+    - SSW Membership<br>                                program at no charge
+
+
