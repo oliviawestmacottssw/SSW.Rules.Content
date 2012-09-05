@@ -15,10 +15,27 @@ authors:
 
 
 
-<span class='intro'> <p>​​Some clients really want a discount. Most will be happy with a discount for pre-paying. Others&#160;won't go ahead until they feel they have got something more.&#160;</p><p>If a client asks for a further discount, try to&#160;add value by offering something else.&#160;​</p><p>e.g.​</p> </span>
+<span class='intro'> <p>
+                    We should try to never discount our price at SSW. Instead we should be adding value
+                    to the offering for the client.
+                </p> </span>
 
-<ul><li>Some of your&#160;products&#160;at no charge​​</li><li></li><li></li><li>A Senior Consultant&#160;for 2 hours a month to complete the following tasks&#58; 
-      <ul><li>Code Review</li><li>UI Review</li></ul></li></ul><p>Also bear in mind that offers like 2 for 1 are better than 50% discount because&#58;</p><ul><li>You sell for the price you wanted instead of losing money - adding an extra person or a licence is inexpensive</li><li>You are adding value to what you are selling e.g. more people will turn up to the event</li> 
-</ul>​
+<p>
+                    If a client asks for a discount you can add value by offering&#58;
+                </p>
+                <ul>
+                    <li>All our products to our clients at no charge</li>
+                    <li>Adam and Tim for 2 hours a
+                        month to complete the following tasks&#58;
+                        <ul>
+                            <li>Code Review</li>
+                            <li>UI Review</li>
+                            <li>Help implement the SSW Checklist</li>
+                            <li>Tickets to our tech breakfasts for 3-6 months for 2 employees</li>
+<li>SSW Membership
+                                program at no charge</li></ul>
+                    </li>
+                </ul>
+
 
 
