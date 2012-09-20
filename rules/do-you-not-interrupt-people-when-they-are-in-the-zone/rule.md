@@ -13,7 +13,6 @@ authors:
 Instead of interrupting someone directly you can:
 
 - Send them an email to contact you when free (preferred option)
-- Leave a business card on their desk, so they can choose the right time talk when they are free
-- Ping them on Skype or Lync with the message “See me when you are free” ( for emergencies only)
+- Ping them on Skype or Lync with the message “See me when you are free”
 
 
