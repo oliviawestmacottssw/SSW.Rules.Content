@@ -14,4 +14,4 @@ authors:
 1. A clear instruction for the sales person to follow up
 2. One action item for the sales person to follow (more than one action item or asking the prospect to complete a task can cause confusion and delay
 
-<br><br><br>I will add him now and follow up.<br> 
+ 
