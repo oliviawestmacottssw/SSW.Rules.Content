@@ -16,7 +16,7 @@ authors:
 - Methods you have previously attempted in order to resolve the problem
 
 
-Tip: Be aware that you don't want them to reply with [http://www.ssw.com.au/ssw/redirect/lmg.htm](http&#58;//www.ssw.com.au/ssw/redirect/lmg.htm)
+Tip: Be aware that you don't want them to reply with [http://www.lmgtfy.com](http&#58;//www.lmgtfy.com)
 
 or the bing version [http://letmebingthatforyou.com](http&#58;//letmebingthatforyou.com/) :-)
 ![IM Icon](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ImIcon.jpg) How do you xxxx? Figure: Bad Example - By not stating what you have previously attempted to resolve the problem, the person you are seeking advice from may be wasting time if they suggest methods you have already done.I have searched Google but no luck... How do you xxxx? Figure: Good Example - The person you are seeking advice from will not suggest for you to do the same methods again and will look for other ways to resolve the issue.
