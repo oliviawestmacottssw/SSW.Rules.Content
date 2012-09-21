@@ -26,4 +26,4 @@ To fix all these issues, instead of deleting people from the email, you:
 - Move them to the BCC
 - On the top line of the body say "(moving George and Bob to BCC)"
 
-![Add Recipient](/Communication/RulesToBetterEmail/PublishingImages/move-bcc.jpg)FFigure: Good Example – Moving someone to BCC
+![Add Recipient](/Communication/RulesToBetterEmail/PublishingImages/move-bcc.jpg) Figure: Good Example – Moving someone to BCC
