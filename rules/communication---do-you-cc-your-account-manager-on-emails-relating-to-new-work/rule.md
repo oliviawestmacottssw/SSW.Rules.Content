@@ -13,15 +13,16 @@ authors:
 
 
 
-<span class='intro'> <p>​​​Once a project gets underway, it is not uncommon for the development&#160;team&#160;to take
-                    over a lot of the project management workload. Since they are the people&#160;most in
+<span class='intro'> <p>
+                    Once a project gets underway, it is not uncommon for the lead developer to take
+                    over a lot of the project management workload. Since they are the person most in
                     contact with the client, sometimes new work will be organized through them instead
-                    of the Account Manager.​
-                <br></p> </span>
+                    of the Account Manager.
+                </p> </span>
 
  <p>
                     When this is the case, the &quot;As per our conversation&quot; email should CC the Account Manager
-                    so he is always aware of all work being done, and can create a <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=c797ad7b-cbb5-4266-8687-e5ca52c1aa6d">new CRM opportunity</a> if required.
+                    so he is always aware of all work being done.
                 </p>
                 <p>
                     If an initial meeting is required for the new work, the Account Manager should be in attendance
@@ -31,7 +32,7 @@ authors:
                <dl class="good">                    
                     <dt>
                         <p>Hi Bill,<br>
-                           As per our conversation, you want to book me&#160;for another 2 weeks on this additional work.​</p>
+                           As per our conversation, you want me to work for another 2 weeks to work on this additional work.</p>
                     </dt>
                     <dd>Figure&#58; Good Example - the account manager should be CCed on an email like this.</dd>
                 </dl>
