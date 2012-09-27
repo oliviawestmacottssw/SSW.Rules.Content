@@ -38,12 +38,12 @@ Always get permission for:
 Having said that, you need to manage two potential problems with seeking permission on work before acting:
 
 - Increased dead time while waiting for approval
-- Discouraging initiative to [fix problems quickly](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#FixProblemsFast)
+- Discouraging initiative to [fix problems quickly](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/Pages/FixProblemsQuickly.aspx)
 
 
 This rule is not generally applicable if:
 
-- You are working on an [ad hoc](/Management/RulesToBeingSoftwareConsultants-DealingWithClients/Pages/Ad-hocWorkAndProjectManagedWork.aspx) basis on a client managed project
+- You are working on an [ad hoc](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/Pages/Ad-hocWorkAndProjectManagedWork.aspx) basis on a client managed project
 - The task is an obvious task which you would [reasonably assume the client would approve](/Communication/RulesToBetterEmail/Pages/AssumeNecessaryTasks.aspx) and is not likely to take more than half an hour.
 
 
