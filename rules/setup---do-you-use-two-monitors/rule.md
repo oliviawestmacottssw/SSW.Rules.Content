@@ -13,14 +13,14 @@ authors:
 
 
 
-<span class='intro'> <p>​
+<span class='intro'> <p>
                     Studies have shown that you can get up to a 30% increase in productivity by using
                     more than one monitor when you work.
-                <br></p> </span>
+                </p> </span>
 
 <p>
                     Providing users with the ability to access more information and images simultaneously,
-                    multiple monitor configurations allow for more efficient multitasking between applications.
+                    multiple monitor configurations allow for more efficient multi-tasking between applications.
                 </p>
                 <p>
                     For example, if you were a developer; you could have your references in one monitor
@@ -29,7 +29,7 @@ authors:
                 </p>
                 <dl class="goodImage">
                     <dt>
-                        <img alt="Two Monitors Better Than One " src="/PublishingImages/TwoMonitorsBetterThanOne.JPG" />
+                        <img alt="Two Monitors Better Than One " src="/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/TwoMonitorsBetterThanOne.JPG" />
                     </dt>
                     <dd>
                        Figure&#58; Two monitors are better than one
