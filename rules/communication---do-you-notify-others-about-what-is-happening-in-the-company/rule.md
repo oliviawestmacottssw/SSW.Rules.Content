@@ -21,4 +21,15 @@ Examples of events that you should send an email                     around for:
 
 
 You should really feel free to share any good news you have with everyone. It will                     make the office feel more like a family and not just a place to turn up to work.
+                    Subject RE: Vacation
 
+<br>                    Hi Guys, 
+
+<br>                    I'm heading to Sanya with my wife and kid this weekend, still remember the good time I had there last year at the MVP China Summit; also I think I do need to recharge myself for a little bit after long time working over 12 hours almost every day. 
+
+<br>                    Pretty excited right now as this will be the very 1st official trip that I take with my kid, hope he will likes the beach. 
+
+<br>                    Be prepared for more photos from my Nikon D80, I think it will be having a hard time during these 5 days.
+
+<br>                    Will be back next Thursday, so if you need me for anything, call my mobile by skypein: \*\*\*\* \*\*\*\* (if you are in Sydney), or 139 \*\*\*\* \*\*\*\* (if you are in Beijing) 
+Figure: Good Example - Notify and give contact details
