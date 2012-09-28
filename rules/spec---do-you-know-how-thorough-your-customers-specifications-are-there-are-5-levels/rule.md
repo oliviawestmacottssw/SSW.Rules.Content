@@ -11,7 +11,7 @@ authors:
 
 ---
 
- If you get the specification right then your chances of being successful are much higher. Tough conversations are best held early rather than the day before expected delivery. Any idiot can manage success, it takes a pro to prepare for and survive the worst. 4 
+ If you get the specification right then your chances of being successful are much higher. Tough conversations are best held early rather than the day before expected delivery. Any idiot can manage success, it takes a pro to prepare for and survive the worst.  
 #### Types of specifications
 
 1. I have an idea… 
@@ -30,7 +30,7 @@ The details have been fleshed out and allows developers to write Functional and 
     - Password should be at least 8 characters
     - .NET 4 is already used for the existing site so that is what this should use of course
     - Should look like this:
-![](/Management/RulesToBetterProjectManagement/PublishingImages/LoginInterface.jpg)
+![](/PublishingImages/LoginInterface.jpg)
 
 Figure: Detailed Requirements have more of the details you want
 4. Functional Specification 
@@ -44,7 +44,7 @@ This will include detailed mock-ups for the UI, use cases/user stories and might
     - Site uses .NET 4 and this interface must be added to existing project
     - This is the layout for the login interface
     - **A red asterisk (\*) should be displayed if a value is left blank and Submit is pressed**
-![](/Management/RulesToBetterProjectManagement/PublishingImages/LoginInterface.jpg)
+![](/PublishingImages/LoginInterface.jpg)
 
 Figure: Functional Specifications go into more detail about the user interface and interactions in the system
 5. Technical Specification 
@@ -57,7 +57,7 @@ This is the blueprint for the application. There should be no unanswered questio
     - Password should be at least 8 characters
     - Site uses .NET 4 and this interface must be added to existing project
     - Define the data model explicitly
-![](/Management/RulesToBetterProjectManagement/PublishingImages/Table.jpg)
+![](/PublishingImages/Table.jpg)
     - Must work with IE7, IE8, IE9 and FF3
     - Must display correctly at 1024x768 resolution
     - Must support ANSI characters for Username and Password
