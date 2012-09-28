@@ -11,11 +11,11 @@ authors:
 
 ---
 
- If you get the specification right then your chances of being successful are much higher. Tough conversations are best held early rather than the day before expected delivery.<br>Any idiot can manage success, it takes a pro to prepare for and survive the worst.<br><br><br>4 
+ If you get the specification right then your chances of being successful are much higher. Tough conversations are best held early rather than the day before expected delivery. Any idiot can manage success, it takes a pro to prepare for and survive the worst. 4 
 #### Types of specifications
 
 1. I have an idea… 
-<br>   Run from this
+Run from this
 or
 verify they have a really hefty bank account!
 2. High Level Requirements Document
@@ -39,7 +39,7 @@ This will include detailed mock-ups for the UI, use cases/user stories and might
     - Must match existing site look and feel
     - Users table must be defined and added to the ABC database (SQL Server 2008)
     - **User Name consists of user first initial and first 7 characters of last name**
-<br>        - **For example Joe Jones -&gt; jjones**
+- **For example Joe Jones -&gt; jjones**
     - Password should be at least 8 characters
     - Site uses .NET 4 and this interface must be added to existing project
     - This is the layout for the login interface
