@@ -22,7 +22,7 @@ authors:
 
 Just like a car, applications need servicing and tuning every now and then to stay in top condition. They might need  alterations to deal with new business problems, or just tuning to increase efficiency based on changing user patterns.
  
-Different clients need different levels of support. At SSW we offer a number of different [support <br>offerings](http&#58;//www/ssw.com.au/ssw/Products/ProdCategory.aspx?CategoryID=8SUPP).
+Different clients need different levels of support. At SSW we offer a number of different [support <br>offerings](http&#58;//www.ssw.com.au/ssw/Products/ProdCategory.aspx?CategoryID=8SUPP).
 
 **Important:**
 When User Acceptance Testing(UAT) begins and there will be 30 days warranty period to test the application by the client and report any **bugs** back to us for free correction, after this warranty period, even bug fixing becomes chargeable. **During the warranty period, all feedback from clients should be moved to next release unless they fall into the ** [bug definition](http&#58;//www.ssw.com.au/SSW/Redirect/SSW/RulestoSuccessfulProjects.htm). After all reported critical bugs have been fixed, you may generate a release plan for the next release and ask for approval to start a new release.
