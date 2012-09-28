@@ -16,8 +16,8 @@ authors:
  "User Stories" is the new name for "Scenarios" in VSTS 2010, it allows you to collect your user requirements more easily by providing you a template for the title and streamlined UI. 
 
 As a &lt;type of User&gt;
-<br>I want &lt;some goal&gt;
-<br>so that &lt;some reason&gt;
+I want &lt;some goal&gt;
+so that &lt;some reason&gt;
 Figure: User Story - template for title![](/Management/RulesToBetterProjectManagement/PublishingImages/VSTS2010-UserStoryWI.jpg) 
 Figure: User Story - Work Item form
 
