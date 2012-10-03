@@ -11,16 +11,32 @@ authors:
 
 ---
 
- When you are building complicated software and working with customers it is always nice for them to have some idea on who to speak to about a particular story during a sprint. 
+ 
 
-<br>In order to achieve this entire the Team takes responsibility for “looking after” a story and manages it to completion. During the sprint one of the team will be the first person to answer any Product Owner queries.  That person is assigned to the story.
+During a sprint it can be useful for:
 
-<br>Here is how to attach an owner to a user story: <br> 
+- The Product Owner to know who to speak to regarding a User Story.
+- The Team to know who will be presenting the User Story at the Sprint Review
 
 
-![image](/Management/RulesToBetterScrumUsingTFS/PublishingImages/UserStoryOwner_Bad.png "image") 
+In order to achieve this, one of the Team can choose to be the primary contact for the user story. 
+
+
+Beware, this is intended for convenience and should not conflict with the following Scrum principals from page 6 of the [Scrum Guide](/Pages/Scrumguide.aspx)
+
+- The Development team is self-organising.
+- Accountability belongs to the development team as a whole
+
+
+
+
+
+![image](/PublishingImages/UserStoryOwner_Bad.png "image") 
 **Figure: Bad example, the product owner is not sure who to speak to.**
 
-![image](/Management/RulesToBetterScrumUsingTFS/PublishingImages/UserStoryOwner_Good.png "image") 
+![image](/PublishingImages/UserStoryOwner_Good.png "image") 
 **Figure: Good example, the product owner can now see who he should speak to and developers know where to send done emails.**
+
+![TFS_Screenshot4.png](/PublishingImages/TFS_Screenshot4.png)
+**Figure: we use the 'Assigned To' column to identify who will be presenting the task.**
 
