@@ -9,10 +9,10 @@ authors:
 
 ---
 
- When you initially setup a TFS server, you may add a Team Project Collection for testing purposes. After you have confirmed TFS, SharePoint and Reporting services is all working, you want to remove the test collection you made, but alas, there is no Delete option for project collections.<br> ![](/TFS/RulesToBetterTFSAdministration/PublishingImages/tfs-admin-no-delete.png) 
+ When you initially setup a TFS server, you may add a Team Project Collection for testing purposes. After you have confirmed TFS, SharePoint and Reporting services is all working, you want to remove the test collection you made, but alas, there is no Delete option for project collections.  ![](/PublishingImages/tfs-admin-no-delete.png) 
 Figure: There is no way to delete the Team Project Collection from the TFS Administration console.
 
- To delete the unwanted Team Project Collection:
+To delete the unwanted Team Project Collection:
 
 1. On your TFS server, open an **Administrative Command Prompt**
 2. Change into the TFS Tools Directory. Type:
@@ -22,7 +22,7 @@ Figure: There is no way to delete the Team Project Collection from the TFS Admin
 **
 
 
-![](/TFS/RulesToBetterTFSAdministration/PublishingImages/tfs-admin-delete-collection.png)
+![](/PublishingImages/tfs-admin-delete-collection.png)
 Figure: Use the TFSConfig tool to delete a Team Project CollectionIf you created a SharePoint Portal for your Team Project Collection, you should clean it up as well.
 
 1. Open the URL of your Team Project Collections SharePoint portal (eg. http://northwind.com.au/tfs/TestProjectCollection)
@@ -33,7 +33,7 @@ Figure: Use the TFSConfig tool to delete a Team Project CollectionIf you created
 
 If you created a Reports site for your Team Project Collection, you should clean it up as well.
 
-1. Open the URL of your Reporting Services page (eg. [http://tfs.ssw.com.au/Reports/](http&#58;//tfs.ssw.com.au/Reports/))
+1. Open the URL of your Reporting Services page (eg. http://tfs.ssw.com.au/Reports/)
 2. Click on the **TfsReports** folder
 3. Click on the name of the Team Project Collections folder
 4. Click **Properties **in the top navigation
