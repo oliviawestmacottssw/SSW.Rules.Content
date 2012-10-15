@@ -26,7 +26,7 @@ Some activities are run internally; some are run with the client.
 <li>Build review </li></ul> |  |
 |   |
 | Tuesday  | <ul><li><a href="/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx" shape="rect"></a><a href="/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx" shape="rect">Stand Up meeting (or Scrum)&#160;</a><a href="/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx" shape="rect">&#160;</a> </li></ul> | <ul><li>Conduct a <a href="/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx" shape="rect">test please </a>with the client </li>
-<li><a href="http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoHappyClients.aspx#TriageAdditionalItemRequests" shape="rect">Triage additional item requests</a> </li>
+<li><a href="/Management/RulesToHappyClients/Pages/DoYouKnowWhatTasksAreInAReleasePlanInAdditionToDevelopmentWorkItems.aspx" shape="rect">Triage additional item requests</a> </li>
 <li><a href="/Management/RulesToHappyClients/Pages/DoYouEmailClientsAsSoonAsYouRealiseyouwilloverrunyouroriginalestimate.aspx" shape="rect">Obtain approval for additional items and budget overuns</a> </li>
 <li><a href="/Management/RulesToSuccessfulProjects/Pages/ReleaseDebrief.aspx" shape="rect">Release update/debrief</a> </li>
 <li>Release sign-off </li>
@@ -44,4 +44,4 @@ Some activities are run internally; some are run with the client.
 
 
 
-![Only with a strict project schedule can the manager coach the team to success!](/Management/RulesToBetterProjectManagement/PublishingImages/ProjectManagement_Coach.jpg) Figure: Only with a strict project schedule can the manager coach the team to success! 
+![Only with a strict project schedule can the manager coach the team to success!](/Management/RulestoBetterSpecificationReviews/PublishingImages/ProjectManagement_Coach.jpg) Figure: Only with a strict project schedule can the manager coach the team to success! 
