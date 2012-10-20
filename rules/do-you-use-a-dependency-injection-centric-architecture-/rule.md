@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ![inject](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/dependency-injection-good.jpg)Figure: Bad Example – N-Tiered architectures do not inherently support dependency injection![inject](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/dependency-injection-bad.jpg)Figure: Good Example – The Onion Architecture promotes layers built on interfaces, and then injecting dependencies into those layers. This keeps coupling low, and therefore maintainability high
+ ![inject](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/dependency-injection-bad.jpg)Figure: Bad Example – N-Tiered architectures do not inherently support dependency injection![inject](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/dependency-injection-good.jpg)Figure: Good Example – The Onion Architecture promotes layers built on interfaces, and then injecting dependencies into those layers. This keeps coupling low, and therefore maintainability high
 The classes in each layer can depend on layers toward the centre.
 
 It emphasizes the use of interfaces for the business logic and repository layers. The repository layer corresponds to the Data Access layer in an n-Tier architecture.
