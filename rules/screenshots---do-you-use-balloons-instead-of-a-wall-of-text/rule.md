@@ -18,7 +18,7 @@ You can take screen captures to the next level by adding balloons that have the 
 
 The balloon is great because you can point to a specific part of the image. It is much easier than reading the old ‘Wall of Text’.
 
-Let's look at a bad and good example.-
+Let's look at bad and good examples:
        ![Baloon Bad Example](/Communication/RulesToBetterEmail/PublishingImages/BalloonBadExample.jpg) Figure: Bad example – The email is using a screenshot so that is good, but you need to read the text and relate it to the image
 ![Check the shadow properties](/Communication/RulesToBetterEmail/PublishingImages/BalloonGoodExample.jpg)Figure: Good example – The balloon with text on the screenshot, makes it quicker to understand
 See more details on [how to configure balloons branding in Fullshot and Snagit](/Communication/RulesToBetterEmail/Pages/HowToConfigureBalloonBranding.aspx).
