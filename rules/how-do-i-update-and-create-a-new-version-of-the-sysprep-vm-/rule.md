@@ -9,8 +9,8 @@ authors:
 
 ---
 
+ When MS releases a new service pack, or new Windows update, we install these to the master image and create a new version of the Sysprep image for future VMs.  
 
-When MS releases a new service pack, or new Windows update, we install these to the master image and create a new version of the Sysprep image for future VMs.
 
 1. Update SQL Server service packs
 2. Update Windows Server 2003 service packs
