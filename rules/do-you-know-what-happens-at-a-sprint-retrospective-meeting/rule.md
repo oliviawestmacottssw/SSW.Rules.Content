@@ -26,12 +26,12 @@ The Retro is a time-boxed event that focuses around 3 questions:
 The Scrum Master facilitates the meeting and collects issues as they are raised. Once every Scrum Team Member has spoken he facilitates debate on each issue so that team consensus is achieved.  The result should produce an actionable outcome, for example:
 
 - An adjustment is made to the daily processes followed by the Scrum Team
-- An adjustment is made to the Definition of Done
+- An adjustment is made to the [Definition of Done](/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx)
 - An adjustment is made at the organisation level
 - An item is added to the Product Backlog
 
 
-To help aid discussion it can be useful for the Scrum Master to prepare items for review by inspecting the Sprint Backlog and statistics such as Code Coverage. For example the Scrum Master can find User Stories that were successful / not successful and then facilitate the discussion as to why.
+To help aid discussion it can be useful for the Scrum Master to prepare items for review by inspecting the Sprint Backlog and statistics such as Code Coverage. For example the Scrum Master can find User Stories in the Sprint that were successful / not successful and then facilitate the discussion as to why.
 
 Once all issues have been discussed to the satisfaction of The Scrum Team, the meeting concludes.
 
