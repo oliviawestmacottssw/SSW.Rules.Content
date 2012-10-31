@@ -29,7 +29,7 @@ The first scenario assumes that you are filming something that requires later po
 
 **Scenario 2 - Editing Live**
 
-The second assumes you are going ‘as live’. This is where you edit the video while record just like live television.
+The second assumes you are going ‘as live’. This is where you edit the video while recording just like live television.
 
 This scenario requires very little post production as this was completed during the filming
 
