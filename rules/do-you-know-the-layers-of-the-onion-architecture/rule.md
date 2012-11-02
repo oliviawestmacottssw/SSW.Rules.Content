@@ -13,8 +13,8 @@ authors:
 
 ---
 
- ![Onion Architecture](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/onion-architecture.jpg)Figure: The layers of the onion architecture
-## Application Core (includes domain model, repository interfaces and business logic<br>interfaces)
+ ![Onion Architecture](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/onion-architecture.jpg) Figure: The layers of the onion architecture
+## Application Core (includes domain model, repository interfaces and business logic interfaces)
 
 This should be the big meaty part of the application where the domain logic resides.
 
@@ -27,7 +27,7 @@ In the very centre we see the Domain Model, which represents the state and behav
 The first layer around the Domain Model is typically where we find interfaces that provide object saving and retrieving behaviour. 
 The object saving behaviour is not in the application core, however, because it typically involves a database.  Only the interface is in the application core.  The actual implementation is a dependency which is injected.
 
-## Business<br>Logic Interfaces
+## Business Logic Interfaces
 
 Business logic is also exposed via interfaces to provide decoupling of business logic. 
 Examples of where this is useful include substituting a FacebookMessageService for an EmailMessageService or a FedexShippingCalculator for a DhlShippingCalculator
@@ -46,7 +46,7 @@ These classes are specific implementations and can be coupled to a particular me
 e.g. this is where the EF DbContext is implemented, as well as things like logging, email sending, etc.
 These dependencies are injected into the application core. 
 Because the Application core only relies on abstractions of the dependencies, it is easy to update them.
-The Onion Architecture relies heavily on the [Dependency<br>Inversion principle](http&#58;//en.wikipedia.org/wiki/Dependency_inversion_principle).
+The Onion Architecture relies heavily on the [Dependency Inversion principle](http&#58;//en.wikipedia.org/wiki/Dependency_inversion_principle).
 
 #### References:
 
