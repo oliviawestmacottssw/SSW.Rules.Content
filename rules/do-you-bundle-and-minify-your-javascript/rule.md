@@ -19,27 +19,27 @@ Bundling allows you to:
 
 
 The next part of the process is minification. This means that all the whitespace is removed from the JavaScript files and long variables names are shortened where possible to decrease the size of the package.
- All this adds up to a faster MVC app and a better user experience.
+All this adds up to a faster MVC app and a better user experience.
 
 Layout.cshtml
 <br>&lt;script type="text/javascript" src="/SoftwareDevelopment/RulesToBetterMVC/Pages/@Url.Content("&gt;&lt;/script&gt;
- <br>&lt;script type="text/javascript" src="/SoftwareDevelopment/RulesToBetterMVC/Pages/@Url.Content("&gt;&lt;/script&gt;
- <br>&lt;script type="text/javascript" src="/SoftwareDevelopment/RulesToBetterMVC/Pages/@Url.Content("&gt;&lt;/script&gt;
-  <br>&lt;script type="text/javascript" src="/SoftwareDevelopment/RulesToBetterMVC/Pages/@Url.Content("&gt;&lt;/script&gt;
- <br>&lt;script type="text/javascript" src="/SoftwareDevelopment/RulesToBetterMVC/Pages/@Url.Content("&gt;&lt;/script&gt;
- <br>&lt;script type="text/javascript" src="/SoftwareDevelopment/RulesToBetterMVC/Pages/@Url.Content("&gt;&lt;/script&gt;
- Figure: Scripts are specified in the view
+&lt;script type="text/javascript" src="/SoftwareDevelopment/RulesToBetterMVC/Pages/@Url.Content("&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="/SoftwareDevelopment/RulesToBetterMVC/Pages/@Url.Content("&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="/SoftwareDevelopment/RulesToBetterMVC/Pages/@Url.Content("&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="/SoftwareDevelopment/RulesToBetterMVC/Pages/@Url.Content("&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="/SoftwareDevelopment/RulesToBetterMVC/Pages/@Url.Content("&gt;&lt;/script&gt;
+Figure: Scripts are specified in the view 
 BundleConfig.cs
 <br>public static void RegisterBundles(BundleCollection bundles)
- <br>        {
- <br>            bundles.Add(new ScriptBundle("~/bundles/SSW").Include(
- <br>                        "~/Scripts/2011.3.1115/jquery-1.6.4.min.js", 
- <br>                        "~/Scripts/jquery-ui-1.8.16.min.js",
- <br>                        "~/Scripts/jquery.formatCurrency-1.4.0.min.js",
- <br>                        "~/Scripts/date.js",
- <br>                        "~/Scripts/jquery.watermark.min.js",
- <br>                        "~/Scripts/jquery.cross-slide.min.js"));
- <br>        }
+{
+bundles.Add(new ScriptBundle("~/bundles/SSW").Include(
+"~/Scripts/2011.3.1115/jquery-1.6.4.min.js", 
+"~/Scripts/jquery-ui-1.8.16.min.js",
+"~/Scripts/jquery.formatCurrency-1.4.0.min.js",
+"~/Scripts/date.js",
+"~/Scripts/jquery.watermark.min.js",
+"~/Scripts/jquery.cross-slide.min.js"));
+}
 
 Layout.cshtml
-<br>@Scripts.Render("~/bundles/ssw")Figure: A bundle is created in the bundle config and then referenced in the view
+<br>@Scripts.Render("~/bundles/ssw") Figure: A bundle is created in the bundle config and then referenced in the view
