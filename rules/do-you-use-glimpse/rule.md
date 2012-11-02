@@ -20,7 +20,7 @@ You can find useful information like:
 
 
 Glimpse is available on NuGet, so it’s a simple matter to get it up and running on your application. You can find out more from [their website](http&#58;//getglimpse.com/).
-![glimpse.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/glimpse.png)Figure: Glimpse in action - We can see which routes were chosen for this page, and the parameters used by the controller
+![glimpse.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/glimpse.png) Figure: Glimpse in action - We can see which routes were chosen for this page, and the parameters used by the controller 
 ## Securing Glimpse for production use
 
 Glimpse is very powerful but there are some considerations to be addressed before using it on Production.
@@ -35,7 +35,7 @@ Even with these considerations, Glimpse can provide some unique insights into pr
 
 Install Glimpse on production so that only internal developers can enable it.This is achieved by:
 
-- Limiting access to an ip address range.<br>
+- Limiting access to an ip address range. 
 
 &lt;glimpse enabled="true"&gt;
 
@@ -49,7 +49,7 @@ Install Glimpse on production so that only internal developers can enable it.Thi
 
     &lt;/ipAddresses&gt;
   &lt;/glimpse&gt;
-**Figure: Glimpse is<br>now limited to localhost and the 192.168.1.x network**
+**Figure: Glimpse is now limited to localhost and the 192.168.1.x network**
 - Using role-based authentication.
 If your site has role-based authentication, you can secure Glimpse usage by editing web.config to control access to the Glimpse.axd location.
 
@@ -59,15 +59,15 @@ If your site has role-based authentication, you can secure Glimpse usage by edit
 
          &lt;authorization&gt;
 
-     <br>        &lt;allow roles="Developers" /&gt;
+              &lt;allow roles="Developers" /&gt;
 
-     <br>        &lt;deny users="\*"/&gt;
+              &lt;deny users="\*" /&gt;
 
          &lt;/authorization&gt;
 
 &lt;/system.web&gt;
 
-&lt;/location&gt;
+&lt;/location&gt; 
 **Figure: Glimpse is restricted to the Developers group**
 
 
@@ -86,16 +86,16 @@ If an end-user reports a problem on your website it can be useful to temporarily
 
          &lt;authorization&gt;
 
-     <br>        &lt;allow roles="Developers, PublicGlimpseUsers" /&gt;
+              &lt;allow roles="Developers, PublicGlimpseUsers" /&gt;
 
-     <br>        &lt;deny users="\*"/&gt;
+              &lt;deny users="\*" /&gt;
 
          &lt;/authorization&gt;
 
 &lt;/system.web&gt;
 
-&lt;/location&gt;
-**Figure: Glimpse.axd is now restricted to Developers <br>and PublicGlimpseUsers 
+&lt;/location&gt; 
+**Figure: Glimpse.axd is now restricted to Developers  and PublicGlimpseUsers 
 **
 - Disable the “config” section of Glimpse so that site connection strings are not published. 
 
