@@ -24,9 +24,9 @@ Let's look at those 3 reports:
 # 1. Current project costs
 
 This allows you to see the actual costs of the project on a weekly basis.
-![project progress report](http&#58;//www.ssw.com.au/ssw/Standards/Rules/images/projectprogresscapture.JPG)Figure 1: Project Progress – There is $30k spent and $8K outstanding
+![project progress report](http&#58;//www.ssw.com.au/ssw/Standards/Rules/images/projectprogresscapture.JPG) Figure 1: Project Progress – There is $30k spent and $8K outstanding 
 # 2. Current hours remaining and hours completed for the current sprint
-![Burndown report from TFS](http&#58;//www.ssw.com.au/ssw/Standards/Rules/images/burndown.JPG)Figure 2: Burndown report - Shows the progress of the team in the current sprint – ETA is March 29 and Ana has no work to do
+![Burndown report from TFS](http&#58;//www.ssw.com.au/ssw/Standards/Rules/images/burndown.JPG) Figure 2: Burndown report - Shows the progress of the team in the current sprint – ETA is March 29 and Ana has no work to do 
 **Questions that the Burndown and Burn Rate report help answer: **
 
 1. Is the team likely to finish the iteration on time?
@@ -38,7 +38,7 @@ This allows you to see the actual costs of the project on a weekly basis.
 [How to Use the Burndown and Burn Rate Report](http&#58;//msdn.microsoft.com/en-us/library/dd380678%28VS.100%29.aspx) ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW")
 
 # Story Overview - See how each task is tracking
-![Stories overview report from TFS](http&#58;//www.ssw.com.au/ssw/Standards/Rules/images/storiesOverview.JPG)Figure 3: Stories Overview report - Shows the progress of the User Stories in the current sprint and nothing has been tested and no active bugs
+![Stories overview report from TFS](http&#58;//www.ssw.com.au/ssw/Standards/Rules/images/storiesOverview.JPG) Figure 3: Stories Overview report - Shows the progress of the User Stories in the current sprint and nothing has been tested and no active bugs 
 **Questions that the Stories Overview report help answer: **
 
 1. How much work does each story require?
