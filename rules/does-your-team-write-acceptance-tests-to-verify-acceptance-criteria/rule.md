@@ -11,14 +11,14 @@ authors:
 
 
 
-<span class='intro'> <p><strong>​Acceptance Tests</strong> (built by the developers) verify that the Acceptance Criteria are met.<br>
+<span class='intro'> <p><strong>Acceptance Tests</strong> (built by the developers) verify that the Acceptance Criteria are met.<br>
 The goal is for teams to move beyond manual testing and implement automated testing <br>
 eg. CodedUI tests, Telerik Tests etc<br>
 &#160;Test cases answer the question, &quot;How do I test and what are the test steps?&quot;</p> </span>
 
 
 
-<img class="ms-rteCustom-ImageArea" alt="Test Cases in a User Story" src="/PublishingImages/acceptance-criteria-test-cases.jpg" /> 
+<img src="/Management/RulesToBetterScrumUsingTFS/PublishingImages/acceptance-criteria-test-cases.jpg" alt="Test Cases in a User Story" class="ms-rteCustom-ImageArea" /> 
 <span class="ms-rteCustom-FigureNormal">Figure&#58; Test Cases in a User Story&#160; (MSF For Agile Template)</span><br>
 <p class="ms-rteCustom-GreyBox">Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ I will see all entries starting with Adam in the Grid<br>
 Negative Test - When I enter ‘zzz’ in the Search box and click ‘Search’ I will see *no* entries in the Grid<br>
@@ -35,10 +35,10 @@ Gold Plating – if a large set of results is returned and we are on page = MaxP
 </p>
 <span class="ms-rteCustom-FigureGood">&#160;Figure&#58; Good example - Acceptance Tests</span>
 
-<img class="ms-rteCustom-ImageArea" alt="Test Cases" src="/PublishingImages/test-cases.jpg" />
+<img src="/Management/RulesToBetterScrumUsingTFS/PublishingImages/test-cases.jpg" alt="Test Cases" class="ms-rteCustom-ImageArea" />
 <span class="ms-rteCustom-FigureNormal">Figure&#58; The tester sees the Test Cases in Test Manager</span>
 
-<img class="ms-rteCustom-ImageArea" alt="Test Steps" src="/PublishingImages/test-steps.jpg" />
+<img src="/Management/RulesToBetterScrumUsingTFS/PublishingImages/test-steps.jpg" alt="Test Steps" class="ms-rteCustom-ImageArea" />
 <span class="ms-rteCustom-FigureNormal">Figure&#58; The tester follows each instruction (aka the Test Steps), and gives it a tick or cross</span>
 
 <h2>Related Resources</h2>
