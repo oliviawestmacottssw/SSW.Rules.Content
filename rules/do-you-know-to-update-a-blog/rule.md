@@ -13,7 +13,7 @@ authors:
 
 ---
 
-<font face="Calibri"><p style="margin&#58;0cm 0cm 0pt 18pt;"><span><font face="Calibri">Use the word ‘updated’ in capitals and in red. The date should follow. </font></span></p></font>
+ <font face="Calibri"><p style="margin&#58;0cm 0cm 0pt 18pt;"><span><font face="Calibri">Use the word ‘updated’ in capitals and in red. The date should follow. </font></span></p></font> 
 E.g.
 
 
