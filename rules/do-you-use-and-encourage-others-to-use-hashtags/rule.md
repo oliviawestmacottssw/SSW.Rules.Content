@@ -17,7 +17,7 @@ authors:
 
 ---
 
- Hash tags help you identify an event or topic on twitter. Always make sure everyone adds the same hash tags for common things.<br> 
+ Hash tags help you identify an event or topic on twitter. Always make sure everyone adds the same hash tags for common things.  
 
 
 
@@ -26,6 +26,6 @@ authors:
 | #sswrules | Our public rules |
 | #proscrumdev | Professional Scrum Developer Course |
 | #BrainQuest | SSW Brain Quest |
-|   |   |
+|  |  |
 
 
