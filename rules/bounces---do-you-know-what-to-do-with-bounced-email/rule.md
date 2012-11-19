@@ -7,9 +7,9 @@ authors: []
 
 ---
 
- Having people report bounce back emails is frustrating and time consuming. The first thing to try when you get a report is to check that your mail server isn’t on a spam blacklist. An easy way to check this is via [MX Toolbox](http&#58;//mxtoolbox.com/). ![Enter the domain to check](/Communication/RulesToBetterEmail/PublishingImages/MXToolbox-1.jpg)Figure: Enter the domain to check![Then select Blacklist Check](/Communication/RulesToBetterEmail/PublishingImages/MXToolbox-2.jpg)Figure: Then select "Blacklist Check"![not blacklisted](/Communication/RulesToBetterEmail/PublishingImages/MXToolbox-3.jpg)Figure: Getting a zero is good, so you know that you are not blacklisted… so Step 1 is good
+ Having people report bounce back emails is frustrating and time consuming. The first thing to try when you get a report is to check that your mail server isn’t on a spam blacklist. An easy way to check this is via [MX Toolbox](http&#58;//mxtoolbox.com/). ![Enter the domain to check](/Communication/RulesToBetterEmail/PublishingImages/MXToolbox-1.jpg) Figure: Enter the domain to check ![Then select Blacklist Check](/Communication/RulesToBetterEmail/PublishingImages/MXToolbox-2.jpg) Figure: Then select "Blacklist Check" ![not blacklisted](/Communication/RulesToBetterEmail/PublishingImages/MXToolbox-3.jpg) Figure: Getting a zero is good, so you know that you are not blacklisted… so Step 1 is good 
 Next step check that you have primary and secondary (and even better tertiary) MX records setup and working.
-![SMTP test](/Communication/RulesToBetterEmail/PublishingImages/MXToolbox-4.jpg)Figure: Seeing at least 2 MX records is good... Run an SMTP Test to test mail servers. So Step 2 is good
+![SMTP test](/Communication/RulesToBetterEmail/PublishingImages/MXToolbox-4.jpg) Figure: Seeing at least 2 MX records is good... Run an SMTP Test to test mail servers. So Step 2 is good 
 If success on both steps the error is most likely on the senders side. Send them the an email to check their mail settings.
 
 
