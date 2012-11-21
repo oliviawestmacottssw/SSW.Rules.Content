@@ -31,8 +31,15 @@ The Scrum Master facilitates the meeting and collects issues as they are raised
 - An item is added to the Product Backlog
 
 
-To help aid discussion it can be useful for the Scrum Master to prepare items for review by inspecting the Sprint Backlog and statistics such as Code Coverage. For example the Scrum Master can find User Stories in the Sprint that were successful / not successful and then facilitate the discussion as to why.
+To help aid discussion it can be useful for the Scrum Master to prepare items for review by inspecting the Sprint Backlog and statistics such as:
 
+- Velocity
+- the Burndown
+- Code Coverage
+
+
+For example the Scrum Master can find User Stories in the Sprint that were successful / not successful and then facilitate the discussion as to why.
+![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/retrospective-meeting-1.jpg) Figure: The Scrum Master can inspect the Sprint Backlog for items which are Not Done at the end of a Sprint![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/retrospective-meeting-2.jpg) Figure: The Scrum Master can inspect the team’s velocity over multiple Sprints![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/retrospective-meeting-3.jpg) Figure: The Scrum Master can inspect the team’s Sprint Burndown for insight into how work progressed through the Sprint![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/retrospective-meeting-4.jpg) Figure: The Scrum Master can inspect the team’s Code Coverage to for an insight into code quality
 Once all issues have been discussed to the satisfaction of The Scrum Team, the meeting concludes.
 
  If the timebox limit is reached, the remaining issues should be recorded and dealt with by the Scrum Master.  Any outstanding issues must be raised at the next Retrospective if they are still relevant.
@@ -40,7 +47,7 @@ Once all issues have been discussed to the satisfaction of The Scrum Team, the m
  The time-box for this meeting is usually as many hours as weeks in the Sprint.
 
 In Scrum, there are totally 4 meetings that you need to know:
-- Sprint Planning Meeting (we separate this meeting to two parts: [WHAT](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx "Sprint Planning (WHAT) Meeting") and [HOW](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28HOW%29Meeting.aspx))
+- Sprint Planning Meeting (we separate this meeting to two parts: [WHAT](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx "Sprint Planning (WHAT) Meeting") and [HOW](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanningMeeting.aspx))
 - [Scrum Meeting (Daily standup)](/Management/RulesToBetterScrumUsingTFS/Pages/DailyScrumUpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
 - [Sprint Review Meeting](/Management/RulesToBetterScrumUsingTFS/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
 - Sprint Retrospective Meeting
