@@ -12,24 +12,20 @@ authors:
 ---
 
  ​
-​To ensure your videos gain maximum exposure, you need to promote them in various ways. The following are steps to do this.
+​To ensure your videos gain maximum exposure, you need to promote them in various ways. The following are the steps to do this.
  
-​To ensure your videos gain maximum exposure, you need to promote them in various ways. The following are steps to do this.
-
-**1. Add to social Media accounts**
+​**1. Add to social Media accounts**
 
 Add link to the new video to all social media accounts including:
 
+- Twitter
+- Facebook
+- LinkedIn
 
-a. Twitter
-b. Facebook
-c. LinkedIn
-
- 
 
 **2. Email all staff**
 
-The second step is to email all the staff with the links to the posts you have made. You want to make this as easy as possible for them to be able to re-post the original messages. Use a tool like [http://clicktotweet.com/](http&#58;//clicktotweet.com/) 
+The second step is to email all the staff with the links to the posts you have made. You want to make it as easy as possible for them to be able to re-post the original messages. Use a tool like [http://clicktotweet.com/](http&#58;//clicktotweet.com/) 
 
  
 
@@ -38,25 +34,25 @@ Example email:
  
 
 
-> Hi All,
-> 
->  
-> 
-> A new interview is now live on SSW TV. You can see it at [urls of video]  
-> 
-> Can you all promote the video in the following ways:
-> 
-> 1. Can you tweet [url generate by ClicktoTweet]
-> 2. Optionally, comment, like and share the post on Facebook [\[url](https&#58;//www.facebook.com/SSW.page/posts/415610061828310) of Facebook post
-> 
-> 
-> I appreciate the efforts from everyone :)
-> 
-> Cheers,
-> 
->  
-> 
-> Raj
+> > Hi All,
+> > 
+> >  
+> > 
+> > A new interview is now live on SSW TV. You can see it at [urls of video]  
+> > 
+> > Can you all promote the video in the following ways:
+> > 
+> > 1. Can you tweet [url generate by ClicktoTweet]
+> > 2. Optionally, comment, like and share the post on Facebook [\[url](https&#58;//www.facebook.com/SSW.page/posts/415610061828310) of Facebook post]
+> > 
+> > 
+> > I appreciate the efforts from everyone :)
+> > 
+> > Cheers,
+> > 
+> >  
+> > 
+> > Raj
 
 
  
