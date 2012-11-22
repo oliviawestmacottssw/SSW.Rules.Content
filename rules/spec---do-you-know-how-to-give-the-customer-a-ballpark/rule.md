@@ -16,7 +16,7 @@ authors:
 ---
 
  
-**How do I create a Release Plan? ****
+**How do I create an Estimate? ****
 **
 
 1. Use an [Excel template calcul​ator](/Management/RulesToBetterProjectManagement/Documents/SSWPrioritiesEstimatesTemplate.xlsx) to enter all your work items specific to the release including the estimates on the particular work items (enter estimates in days)
