@@ -14,7 +14,7 @@ The corner stone of good user interface design is that if your users need instru
 - There is no need to use help
 - No excuse for RTFM (read the freaking manual)
 
-<dl class="image"><dt><img border="1" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images%5cSelfEvident.gif" alt=""></dt>
+<dl class="image"><dt><img border="1" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/SelfEvident.gif" alt=""></dt>
 <dd>Figure&#58; A good interface does not need instructions!</dd></dl>
 A good UI is:
 
