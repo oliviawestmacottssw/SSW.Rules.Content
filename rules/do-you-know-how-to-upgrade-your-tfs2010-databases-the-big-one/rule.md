@@ -19,7 +19,7 @@ Note that these steps will also work for upgrading from TFS 2012 RC to RTM, or R
 1. [Send an email](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterNetworks.aspx#rebootrestart) to let everyone know the TFS server will be offline.
 2. Take the TFS 2010 server offline
 3. Copy the TFS 2010 database backups to the TFS server or the new SQL Server instance. Make sure the URL is accessible from the TFS server via a network share.
-4. Install Team Foundation Server 2012 or TFS 2012 Update 1 ([see Damian Brady's experiences](http&#58;//blog.damianbrady.com.au/2012/11/27/tfs-2012-with-update-1-done/))
+4. Install Team Foundation Server 2012 or TFS 2012 Update 1 ([see Damian Brady's experiences](http&#58;//blog.damianbrady.com.au/2012/11/27/tfs-2012-with-update-1-done/)). Make sure you have access to coffee - it could take a while!
 5. After the install has completed, the Team Foundation Server Configuration Center will start
 6. Select Upgrade | Start Wizard
 ![tfs_upgrade_existing.png](/TFS/RulesToBetterTFS2012Migration/PublishingImages/tfs_upgrade_existing.png)
