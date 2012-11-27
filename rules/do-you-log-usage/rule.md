@@ -15,5 +15,5 @@ So you can see what functions are being used more often (e.g. reports, menu item
 Plus, you can work out what fields to show on search pages (standard and advanced tabs) and which parameters are being used.
 <dl class="image"><dt><img alt="Good Log usage" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodLogUsage.png"></dt>
 <dd>Figure&#58; Keep track of what terms are searched most often.</dd></dl>
-You can acheive this with Redgate's [Feature Usage Reporting](http&#58;//www.red-gate.com/products/dotnet-development/smartassembly/features/) ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW").
+You can achieve this with Redgate's [Feature Usage Reporting](http&#58;//www.red-gate.com/products/dotnet-development/smartassembly/features/) ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW").
 
