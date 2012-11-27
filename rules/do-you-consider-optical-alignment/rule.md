@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- <dl class="Image"><dt><img alt="Optical alignment" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/opticalalignment.jpg"></dt>
+ <dl class="goodImage"><dt><img alt="Optical alignment" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/opticalalignment.jpg"></dt>
 <dd>Figure&#58; In the first example, although the text is technically aligned, it does not 'look' it. In the second one, the &quot;V&quot; has been moved into the margin, but the optical alignment is now correct</dd></dl>   ​
 Not only relevant in typography, optical alignment can also be used in forms and web.
 <dl class="badImage"><dt><img alt="Bad alignment" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/bad_opticalalignment.jpg"></dt>
