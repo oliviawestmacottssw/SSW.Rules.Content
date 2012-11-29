@@ -18,7 +18,7 @@ If a client says:
 
 We don't jump in and look at the code and clean it up and reply with something like:
 
-"I've looked at the code and cleaned it up - not sure if this is suitable - please tell me if you are OK with the performance now."
+*"I've looked at the code and cleaned it up - not sure if this is suitable - please tell me if you are OK with the performance now."*
 
 A better way is:
 
