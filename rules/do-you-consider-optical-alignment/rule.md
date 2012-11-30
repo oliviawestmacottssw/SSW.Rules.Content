@@ -9,4 +9,4 @@ authors: []
 
  ![Optical alignment](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/opticalalignment.jpg)Figure: In the first example, although the text is technically aligned, it does not 'look' it. In the second one, the "V" has been moved into the margin, but the optical alignment is now correct   ​
 Not only relevant in typography, optical alignment can also be used in forms and web.
-![Bad alignment](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/bad_opticalalignment.jpg)Bad example: The fields are aligned to the radio buttons, but it does't "look" good enough![Good alignment](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/good_opticalalignment.png)Good example: It seems neater, even though it is no longer technically aligned
+![Bad alignment](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/bad_opticalalignment.jpg)Bad example: The fields are aligned to the radio buttons, but it doesn't "look" good enough![Good alignment](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/good_opticalalignment.png)Good example: It seems neater, even though it is no longer technically aligned
