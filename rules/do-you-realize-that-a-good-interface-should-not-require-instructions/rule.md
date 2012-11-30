@@ -8,7 +8,7 @@ authors: []
 ---
 
  
-The corner stone of good user interface design is that if your users need instructions, you haven't done a good job. Of course with particularly complex applications there will be exceptions to this rule, but all developers should aim to make your interface as self evident as possible.
+The corner stone of good user interface design is that if your users need instructions, you haven't done a good job. Of course with particularly complex applications there will be exceptions to this rule, but all developers should aim to make your interface as self-evident as possible.
  
 - There are no surprises
 - There is no need to use help
@@ -18,12 +18,12 @@ The corner stone of good user interface design is that if your users need instru
 A good UI is:
 
 - Intuitive
-- Feels fast - eg. no white screen, threading code
+- Feels fast e.g. no white screen, threading code
 - Consistent
 - Minimal popups
 - No clutter - not busy
 - Good error handling
 - Easy to customize + apps (aka a platform)
-- Gamification eg. badges
+- Gamification e.g. badges
 
-![Team Viewer Interface](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodUITeamViewer.png)Good example: Teamviewer's interface requires very little explanation![Fly in a Urinal](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/FlyInUrinal.jpg)Figure: Good Example - See the fly? (an example of excellent usability) Dutch manufacturers realized that a fly painted on the urinal became a "target" for men using the facility. And the fly is positioned in precisely the right place for minimal spillage or splash back. Clever people those Dutch!
+![Team Viewer Interface](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodUITeamViewer.png)Figure: Good example - Teamviewer's interface requires very little explanation![Fly in a Urinal](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/FlyInUrinal.jpg)Figure: Good Example - See the fly? (an example of excellent usability) Dutch manufacturers realized that a fly painted on the urinal became a "target" for men using the facility. And the fly is positioned in precisely the right place for minimal spillage or splash back. Clever people those Dutch!
