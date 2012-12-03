@@ -19,8 +19,8 @@ Bad example: 'login' link
 ![HiddenDotLink.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/HiddenDotLink.png)
 Bad example: little dot for a hidden link
 
-3. Use /admin/ to let administrators to login  (And wordpress is almost perfect how they use /wp-admin/):
+3. Use /admin/ to let administrators to login (And WordPress is almost perfect how they use /wp-admin/):
 
 ![AdminURL.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/AdminURL.png)
-Good example: /admin/
+Good example: Use /admin/ URL for administrators
 
