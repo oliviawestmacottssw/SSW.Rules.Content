@@ -9,7 +9,7 @@ authors:
 
 ---
 
- When administrative people need a different authentication to login SharePoint page, there are different ways to implement that. 
+ When administrators need a different authentication to login SharePoint page, there are different ways to implement it. 
 ​1. Obvious "Login" link:
 
 ![LoginLink.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/LoginLink.png)
