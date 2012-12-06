@@ -13,16 +13,32 @@ authors:
 
 
 
-<span class='intro'> <p>​​​​CRM 2013 has a nice way of reducing the amount of work needed to create a new Contact,&#160;​Account&#160;and Opportunity.&#160;Simply make a Lead, and&#160;all&#160;three entities will be created in one&#160;go.<br></p><p><span style="line-height&#58;20.8px;">T</span><span style="line-height&#58;20.8px;">he process is&#58;​</span></p> </span>
+<span class='intro'> <p>All CRM users should be able to walk through this simple workflow.</p> </span>
 
-<ol><li>In CRM, create a Lead.<br></li><li>Convert it into an Opportunity, Contact and Account using the Qualify button.<br></li></ol><dl class="image"><dt>
-         <img alt="Become familiar with the 'Convert Lead' button" src="/PublishingImages/CRM_ConvertLead.jpg" />
-      </dt><dd>Figure&#58; Create a Lead, then become familiar with the time saving&#160;&quot;Qualify&quot; button<br></dd></dl><p>Clicking on the &quot;Qualify&quot; button allows the automatic generation of Accounts, Contacts and Opportunities, and also allows you to check for potential duplicates being created.<br></p><dl class="image"><dt>
-         <img alt="Convert Lead Web Page Dialog" src="/PublishingImages/CRM_ConvertLeadDialg.jpg" />
-      </dt><dd>Figure&#58; CRM 2013 also&#160;checks for existing records before creating new ones</dd></dl><p>This will&#58;</p><ol>
-   <li>​Deactivate the Lead​ </li><li>Create an Opportunity, Contact and Account</li><li>Automatically link the Opportunity to the Account and the Account to the Contact</li><li>
-      <span style="line-height&#58;1.6;">Save you substantial amount of time compared to creating and linking each one manually.</span><br></li></ol><div>
-   <span style="line-height&#58;20.8px;">​<br></span></div><div>
-   <span style="line-height&#58;20.8px;">Note&#58; You have just learned that a lead is a transitory thing. There is, however, one other case where you might want to use leads&#58;&#160;<a href="/Pages/The-one-case-where-you-use-a-CRM-lead.aspx">Do you know the one case where you use a CRM lead?</a>&#160;</span></div>
+<p>The process is&#58;</p>
+            <ol>
+                <li>In CRM, create a Lead</li>
+                <li>Convert it into an Opportunity, Contact and Account using the Qualify button</li>
+            
+                <dl class="image">
+                    <dt><img alt="Become familiar with the 'Convert Lead' button" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRM_ConvertLead.jpg" /></dt>
+                    <dd>Figure&#58; Become familiar with the Qualify&quot; button</dd>
+                </dl>
+                <p>Clicking on the &quot;Qualify&quot; button allows the automatic generation of Accounts, Contacts and Opportunities.</p>
+                <dl class="image">
+                    <dt><img alt="Convert Lead Web Page Dialog" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRM_ConvertLeadDialg.jpg" /></dt>
+                    <dd>Figure&#58; Qualify Lead Web Page Dialog</dd>
+                </dl>
+                <p>This will&#58;</p>
+
+                <li>Deactivate the Lead </li>
+                <li>Create an Opportunity and Account</li>
+                <li>Automatically link the Opportunity to the Account and the Account to the Contact</li>
+            </ol>
+            <dl class="image">
+                <dt><img alt="Link to Account from Opportunity" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRM_LinkToAccount.jpg" /></dt>
+                <dd>Figure&#58; Link to Account from Opportunity</dd>
+            </dl>
+            <p>This will save you substantial amount of time compared to creating and linking each one manually.</p>
 
 
