@@ -11,7 +11,7 @@ authors:
 
  
 Product Owner of a Company/Account should be included into the Job Title.
-   '<dl class="badImage">          <dt>
+ <dl class="badImage">          <dt>
             <img src="/Communication/RulesToBetterCRMForUsers/PublishingImages/BetterCRMDataBadExam.jpg" alt="Product Owner of the Company can't be determined by looking the contacts list">
           </dt>
           <dd>
