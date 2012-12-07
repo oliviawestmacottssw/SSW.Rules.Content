@@ -18,5 +18,5 @@ Contacts that you create or have tranferred to you and tagged as your "Active co
 
 To do this, in Outlook, click CRM | Options | Synchronization, and click Contacts.
 ![Contact Synchronization enabled](/Communication/RulesToBetterCRMForUsers/PublishingImages/ContactSynchronizationEnabled.jpg)Figure: Contact Synchronization enabled
-Remember, if your Outlook syncs to your mobile device, and you have a very large           numbr of active contacts under your name, often it is not a scalable option to sync           to CRM as you may get too many contacts to easily deal with.
+Remember, if your Outlook syncs to your mobile device, and you have a very large           number of active contacts under your name, often it is not a scalable option to sync           to CRM as you may get too many contacts to easily deal with.
 
