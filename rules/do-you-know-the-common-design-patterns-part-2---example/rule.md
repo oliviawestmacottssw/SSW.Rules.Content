@@ -43,7 +43,9 @@ Even better, use Annotate so you can enlighten the developer.
 ![bad.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/Code%20against%20interfaces%20-%20bad.png)
 **Figure: Bad Example - Referencing the concrete EF context**
 
-![good.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Documents/Code%20against%20interfaces%20-%20good.png)
+![](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Documents/Code%20against%20interfaces%20-%20good.png)
+
+
 **Figure: Good Example - Programming against the interface**
 
 It is important to know when the use of a pattern is appropriate.  Patterns can be useful, but they can also be harmful if used incorrectly.
