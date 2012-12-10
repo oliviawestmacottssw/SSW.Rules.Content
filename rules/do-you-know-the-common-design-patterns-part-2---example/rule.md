@@ -38,5 +38,13 @@ This is bad code because we removed one coupling but added another one (the con
 
 `public class HomeController{    private readonly IExampleService _service;         public HomeController(IExampleService service)    {      _service = service;    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`
 Figure: Good example - code showing using dependency injection. No static dependencies. 
+Even better, use Annotate so you can enlighten the developer.
+
+![bad.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/Code%20against%20interfaces%20-%20bad.png)
+**Figure: Bad Example - Referencing the concrete EF context**
+
+![good.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Documents/Code%20against%20interfaces%20-%20good.png)
+**Figure: Good Example - Programming against the interface**
+
 It is important to know when the use of a pattern is appropriate.  Patterns can be useful, but they can also be harmful if used incorrectly.
 
