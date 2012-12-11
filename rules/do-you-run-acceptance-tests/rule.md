@@ -12,9 +12,9 @@ authors:
 ---
 
  
-Once the coding doing is done by the developers, the functionality must then be stepped through in the required browsers. You can do this manually or step it up by using a great tool like Microsoft Test Manager.
+Once the coding is done by the developers, the functionality must then be stepped through in the required browsers. You can do this manually or automating it using a great tool like Microsoft Test Manager.
 
-This is how you run Acceptance Tests:
+The 1st step in getting automated tests, is to setup Acceptance Tests:
  
 ![run acceptance tests](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/PublishingImages/run-acceptance-tests-1.jpg) 
 **Figure: Run each 'test case' with a prescribed configuration**
@@ -23,7 +23,7 @@ This is how you run Acceptance Tests:
 **Figure: As you progress through each step, 'Pass' or 'Fail' the expected results. Take screen captures or video as appropriate.**
 
 ![run acceptance tests](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/PublishingImages/run-acceptance-tests-3.jpg) 
-**Figure: Bad Example -After checking all the ‘Expected’ results in your MTM test, do not forget to Pass or Fail the Test Case **
+**Figure: Bad Example -After checking all the ‘Expected’ results in your MTM test, do not forget to 'Pass' or 'Fail' the Test Case **
 
 ![run acceptance tests](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/PublishingImages/run-acceptance-tests-4.jpg)
 
@@ -35,7 +35,8 @@ This is how you run Acceptance Tests:
 ![run acceptance tests](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/PublishingImages/run-acceptance-tests-6.jpg)
 
 **Figure: Good Example – every test is 'Passed'. 
-**Tip: You can pass a test from the test list. Select the Test menu, then the Test Suite. Choose the Test Case to pass and then click the green button ‘Pass Test’
+**
+Tip: You can pass a test from the test list. Select the Test menu, then the Test Suite. Choose the Test Case to pass and then click the green button ‘Pass Test’
 
 The next step is to [review the Statistics of the Sprint](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/Pages/How-to-Check-the-Status-of-the-Current-Sprint.aspx)
 
