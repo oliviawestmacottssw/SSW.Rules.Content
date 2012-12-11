@@ -13,7 +13,7 @@ authors:
 
 ---
 
- ![Onion Architecture](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/Onion-Architecture.jpg)Figure: The layers of the onion architecture
+ [![Onion Architecture](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/Onion-Architecture.jpg)](/SoftwareDevelopment/RulesToBetterMVC/Documents/Onion-Architecture.pdf)Figure: The layers of the onion architecture
 ## Application Core (the grey stuff)
 
 This should be the big meaty part of the application where the domain logic resides.
@@ -46,7 +46,7 @@ These classes are specific implementations and can be coupled to a particular me
 e.g. this is where the EF DbContext is implemented, as well as things like logging, email sending, etc.
 These dependencies are injected into the application core. 
 Because the Application core only relies on abstractions of the dependencies, it is easy to update them.
-The Onion Architecture relies heavily on the [Dependency Inversion principle](http&#58;//en.wikipedia.org/wiki/Dependency_inversion_principle)and other [SOLID principles](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouKnowCommonDesignPrinciples.aspx).
+The Onion Architecture relies heavily on the [Dependency Inversion](http&#58;//en.wikipedia.org/wiki/Dependency_inversion_principle)principleand other [SOLID principles](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouKnowCommonDesignPrinciples.aspx).
 
 #### References:
 
