@@ -13,8 +13,8 @@ authors:
 
 ---
 
- ![Onion Architecture](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/onion-architecture.jpg) Figure: The layers of the onion architecture
-## Application Core (includes domain model, repository interfaces and business logic interfaces)
+ ![Onion Architecture](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/Onion-Architecture.jpg)Figure: The layers of the onion architecture
+## Application Core (the grey stuff)
 
 This should be the big meaty part of the application where the domain logic resides.
 
@@ -30,9 +30,9 @@ The object saving behaviour is not in the application core, however, because it 
 ## Business Logic Interfaces
 
 Business logic is also exposed via interfaces to provide decoupling of business logic. 
-Examples of where this is useful include substituting a FacebookMessageService for an EmailMessageService or a FedexShippingCalculator for a DhlShippingCalculator
+Examples of where this is useful include substituting a FacebookNotificationService for an EmailNotificationService or a FedExShippingCalculator for a DHLShippingCalculator
 
-## Clients
+## Clients (the red stuff)
 
 The outer layer is reserved for things that change often.  E.g. UI and the other applications that consume the Application Core. 
 This includes the MVC project.
@@ -46,7 +46,7 @@ These classes are specific implementations and can be coupled to a particular me
 e.g. this is where the EF DbContext is implemented, as well as things like logging, email sending, etc.
 These dependencies are injected into the application core. 
 Because the Application core only relies on abstractions of the dependencies, it is easy to update them.
-The Onion Architecture relies heavily on the [Dependency Inversion principle](http&#58;//en.wikipedia.org/wiki/Dependency_inversion_principle).
+The Onion Architecture relies heavily on the [Dependency Inversion principle](http&#58;//en.wikipedia.org/wiki/Dependency_inversion_principle)and other [SOLID principles](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouKnowCommonDesignPrinciples.aspx).
 
 #### References:
 
