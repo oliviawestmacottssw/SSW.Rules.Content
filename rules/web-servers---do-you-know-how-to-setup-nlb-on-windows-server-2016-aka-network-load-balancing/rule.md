@@ -39,7 +39,7 @@ You need to follow these steps to get it up and running:
 <br>Click connect
 ![Setup NLB](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/Setup-NLB-10.jpg) Figure: Enter the 2nd web servers name
 10. Take the default settings, assuring the ‘Priority (unique host identifier)’ is different than the first node:
-![Setup NLB](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/Setup-NLB-11.jpg) Figure: Set the priority as #2
+![Setup NLB](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/Setup-NLB-1.jpg) Figure: Set the priority as #2
 11. Take defaults on Port Rules page and click Finish
 12. Success. The status of the cluster will now be Converged
 ![Setup NLB](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/Setup-NLB-12.jpg) Figure: Success with 2 green icons
