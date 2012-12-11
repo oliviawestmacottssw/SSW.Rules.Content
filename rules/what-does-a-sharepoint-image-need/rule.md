@@ -7,8 +7,8 @@ authors: []
 
 ---
 
+ As a minumum, the SharePoint image needs:  
 
-As a minumum, the SharePoint image needs:
 
 1. Windows Server 2003 or 2008
 2. SQL Server 2005 sp1
