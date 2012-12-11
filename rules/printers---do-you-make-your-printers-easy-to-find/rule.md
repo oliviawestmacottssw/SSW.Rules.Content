@@ -13,4 +13,4 @@ authors:
 For PCs that are not on the domain, the printers won’t be automatically installed.
 
 So add a DNS alias which map \\printer to your print server.
-![Add the printer via Connect](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/add-printer-via-connect.jpg)Figure: \\printer takes to this window, were the you can Add the printer via Connect
+![Add the printer via Connect](/PublishingImages/add-printer-via-connect.jpg)Figure: \\printer takes to this window, were the you can Add the printer via Connect
