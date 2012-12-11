@@ -18,7 +18,7 @@ We can also identify errors and inconsistencies that can be addressed for a seco
 2. Upload to Wistia 
 
 
-| <br><br>| <br><br>|   | <nobr><span>Content Editor</span><span id="WebPartCaptionWPQ3"></span></nobr> | <menu id="MSOMenu_WebPartMenu" class="ms-SrvMenuUI"></menu><menu id="MSOMenu_ConnectionsWebPartWPQ3" class="ms-SrvMenuUI"></menu><br>[![Content Editor Web Part Menu](/_layouts/images/wpmenuarrow.png)](/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx# "Content Editor Web Part Menu")  | <input id="SelectionCbxWebPartWPQ3" class="ms-WPHeaderCbxHidden" title="Select or deselect Content Editor Web Part" type="checkbox"> |   |<br>| --- | --- | --- | --- | --- |<br><br> |<br>| --- |<br>| <br>Cannot retrieve the URL specified in the Content Link property. For more assistance, contact your site administrator.<br> |<br><br> |
+| <br><br>| <br><br>|   | <nobr><span>Content Editor</span><span id="WebPartCaptionWPQ3"></span></nobr> | <menu class="ms-SrvMenuUI" id="MSOMenu_WebPartMenu"></menu><menu class="ms-SrvMenuUI" id="MSOMenu_ConnectionsWebPartWPQ3"></menu><br>[![Content Editor Web Part Menu](/_layouts/images/wpmenuarrow.png)](/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx# "Content Editor Web Part Menu")  | <input type="checkbox" title="Select or deselect Content Editor Web Part" class="ms-WPHeaderCbxHidden" id="SelectionCbxWebPartWPQ3"> |   |<br>| --- | --- | --- | --- | --- |<br><br> |<br>| --- |<br>| <br>Cannot retrieve the URL specified in the Content Link property. For more assistance, contact your site administrator.<br> |<br><br> |
 | --- |
 3. Upload your first edit to Wistia
     1. Send test please to Marlon or Uly and Adam
