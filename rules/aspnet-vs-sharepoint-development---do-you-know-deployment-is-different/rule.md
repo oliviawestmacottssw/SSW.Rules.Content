@@ -13,7 +13,7 @@ authors:
 
 
 In ASP.NET deployment is a simple xcopy. Or you can right click the Web Site project and  "Publish Web Site" in Visual Studio.
-![](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/PublishWebSite.png) Fugure: Publish Web Site in Visual Studio 
+![](/PublishingImages/PublishWebSite.png) Fugure: Publish Web Site in Visual Studio 
 
 
 In SharePoint the way to deploy a set of changes is via a solution package.
