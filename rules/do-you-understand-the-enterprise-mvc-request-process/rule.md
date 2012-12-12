@@ -9,4 +9,4 @@ authors:
 
 ---
 
- ![inject](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/request-process-bad.jpg)Figure: Bad Example – The sample applications  do not include the concept of a business ![inject](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/request-process-good.jpg)Figure: Good Example – An enterprise solution should include a business layer and a data layer abstraction
+ ![inject](/PublishingImages/request-process-bad.jpg)Figure: Bad Example – The sample applications  do not include the concept of a business ![inject](/PublishingImages/request-process-good.jpg)Figure: Good Example – An enterprise solution should include a business layer and a data layer abstraction
