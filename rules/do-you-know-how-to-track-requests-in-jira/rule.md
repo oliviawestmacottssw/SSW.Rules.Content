@@ -7,13 +7,13 @@ authors: []
 
 ---
 
- Once you have created your issue (request) and you remain the [Reporter](/Management/RulesToBetterJira/Pages/ReportesAndAssignees.aspx), there are several ways you can track them, the most important is via your [Dashboard](/Management/RulesToBetterJira/Pages/TrackingRequests.aspx) ; see how to intepret your dashboard [here](/Management/RulesToBetterJira/Pages/SystemDashboard.aspx). <br>​​ 
+ Once you have created your issue (request) and you remain the [Reporter](/Pages/ReportesAndAssignees.aspx), there are several ways you can track them, the most important is via your [Dashboard](/Pages/TrackingRequests.aspx) ; see how to intepret your dashboard [here](/Pages/SystemDashboard.aspx). <br>​​ 
  Other ways are:
 
-- using the filter [My Reported Unresolved Issues](/Management/RulesToBetterJira/Pages/TrackingRequests.aspx)
-- for SysAdmin using the filter [SysAdmin Unresolved](/Management/RulesToBetterJira/Pages/TrackingRequests.aspx) shows where your request is in the queue
-- placing shared filters in your favouries with [Manage Filters](/Management/RulesToBetterJira/Pages/TrackingRequests.aspx)
-- creating your own filters and sharing them, do this with a [Find Issues](/Management/RulesToBetterJira/Pages/TrackingRequests.aspx)and then save it as a filter and share it
-- make shared dashboards your favourites and create new ones with [Manage Dashboards](/Management/RulesToBetterJira/Pages/TrackingRequests.aspx)
+- using the filter [My Reported Unresolved Issues](/Pages/TrackingRequests.aspx)
+- for SysAdmin using the filter [SysAdmin Unresolved](/Pages/TrackingRequests.aspx) shows where your request is in the queue
+- placing shared filters in your favouries with [Manage Filters](/Pages/TrackingRequests.aspx)
+- creating your own filters and sharing them, do this with a [Find Issues](/Pages/TrackingRequests.aspx)and then save it as a filter and share it
+- make shared dashboards your favourites and create new ones with [Manage Dashboards](/Pages/TrackingRequests.aspx)
 
 
