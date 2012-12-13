@@ -23,7 +23,7 @@ It is important to use terminology that your users will understand. Do not to us
 <dl class="badImage"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Bad-MessageBoxZango.jpg" alt=""></dt>
 <dd>Figure&#58; Bad Example - Is it OK to Cancel?</dd></dl>
 Microsoft uses this one:
-<dl class="goodImage"><dt><img alt="Not Enough Memory" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/NotEnoughMemory.gif"></dt>
+<dl class="goodImage"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/NotEnoughMemory.gif" alt="Not Enough Memory"></dt>
 <dd>Figure&#58; Good Example - Microsoft error message is concise</dd></dl>
 Some other message types that Microsoft uses are:
 
@@ -37,5 +37,5 @@ Some other message types that Microsoft uses are:
 
 Consider using or adapting them in your application in similar scenarios. Only include the information that the user needs and will understand.
 
-This also applies to general design principles, read our rule on [Less is more: do you know people scan, not read?](/DesignandPresentation/RulestoBetterInterfacesGeneral/Pages/Less-is-More---Do-you-know-people-visually-map-%28and-scan,-not-read%29.aspx)
+This also applies to general design principles, read our rule on [Less is more: do you know people scan, not read?](/less-is-more-do-you-know-people-scan-not-read)
 
