@@ -35,5 +35,5 @@ Some other message types that Microsoft uses are:
 
 Consider using or adapting them in your application in similar scenarios. Only include the information that the user needs and will understand.
 
-This also applies to general design principles, read our rule on [Less is more: do you know people scan, not read?](/DesignandPresentation/RulestoBetterInterfacesGeneral/Pages/Less-is-More---Do-you-know-people-visually-map-%28and-scan,-not-read%29.aspx)
+This also applies to general design principles, read our rule on [Less is more: do you know people scan, not read?](/less-is-more-do-you-know-people-scan-not-read)
 
