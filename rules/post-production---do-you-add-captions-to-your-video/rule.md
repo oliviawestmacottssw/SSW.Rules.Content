@@ -13,7 +13,8 @@ authors:
 ![Why Choose SSW.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Why%20Choose%20SSW.jpg)
 Figure: Good Example of Titles - Clear, nice effects and well stylized![Good titles example.png](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Good%20titles%20example.png)
 
-Figure: Good example of Titles - titles can come in a variety of formats​![CTA_Bad_Example_2.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/CTA_Bad_Example_2.jpg)
+Figure: Good example of Titles - titles can come in a variety of formats![SSWRules_LowerThirdsExample.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/SSWRules_LowerThirdsExample.jpg)
+Figure: Good example of Titles - this is the style used for 'SSW Rules' Videos​![CTA_Bad_Example_2.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/CTA_Bad_Example_2.jpg)
 
 Figure: Bad Example of Captions - Text is too small and hard to read.
 
