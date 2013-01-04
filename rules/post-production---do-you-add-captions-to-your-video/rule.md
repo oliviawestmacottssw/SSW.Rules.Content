@@ -11,13 +11,25 @@ authors:
 
  ​It is helpful to the viewers to include still or animated captions (also known as lower thirds) in your videos because they enhance or add extra information that is not fully explained by the speakers. These are not to be confused with *titles,*which is the term given to text that appears on screen, such as the opening film credits, or "1985 - New York City". <dl class="goodImage"><dt><img src="/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Why%20Choose%20SSW.jpg" alt="Why Choose SSW.jpg" style="width&#58;600px;"></dt>
 <dd>Figure&#58; Good example of Titles - Clear, nice effects and well stylized. This is the style used for SSW Infomercials</dd></dl><dl class="goodImage"><dt><img src="/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Good%20titles%20example.png" alt="Good titles example.png" style="width&#58;600px;"></dt>
-<dd>Figure&#58; Good example of Titles - this is the style used for SSW TV videos</dd></dl><dl class="goodImage"><dt><img src="/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/SSWRules_LowerThirdsExample.jpg" alt="SSWRules_LowerThirdsExample.jpg" style="margin&#58;5px;"><br><span class="ssw-rteStyle-FigureGood">Figure&#58; Good example of Titles - this is the style used for SSW Rules&#160;Videos</span></dt>
-<dt><br><img src="/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/CaseStudy_LowerThirds.jpg" alt="CaseStudy_LowerThirds.jpg" class="ssw-rteStyle-FigureGood" style="margin&#58;5px;"></dt>
-<dd>Figure&#58; Good example of titles - this is the style used for SSW Case Studies<br><br></dd></dl><dl class="badImage"><dt>
+<dd>Figure&#58; Good example of Titles - this is the style used for SSW TV videos</dd></dl><dl class="goodImage"><dt><img src="/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/SSWRules_LowerThirdsExample.jpg" alt="SSWRules_LowerThirdsExample.jpg" style="width&#58;600px;"></dt>
+<dd>Figure&#58; Good example of Titles - this is the style used for SSW Rules&#160;Videos</dd>
+<dl>
+
+<dl class="goodImage">
+<dt><img src="/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/CaseStudy_LowerThirds.jpg" alt="CaseStudy_LowerThirds.jpg" style="width&#58;600px;"></dt>
+<dd>Figure&#58; Good example of titles - this is the style used for SSW Case Studies</dd>
+</dl>
+
+<dl class="badImage">
+<dt>
 ​<img src="/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/CTA_Bad_Example_2.jpg" alt="CTA_Bad_Example_2.jpg" style="width&#58;600px;">
 </dt>
-<dd>Figure&#58; Bad example of Captions - Text is too small and hard to read. </dd></dl><dl class="goodImage"><dt><img src="/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/CTA_Good_Example_2.jpg" alt="CTA_Good_Example_2.jpg" style="width&#58;600px;"></dt>
-<dd>Figure&#58; Good example of Captions - Text is clear and legible. Provides extra value to the viewer with content not mentioned in the video</dd>
- </dl>
-Remember to put any links that you've mentioned in the captions underneath your video in it's own section (with a heading such as 'Show Notes' or 'Related Content'). You can also use this section to put in links that are related to what was said in the video as evidence (similar to footnotes or a bibliography in a book). That way, you will gain more Google juice and it will make it easier for the Product Owner to review your captions.
+<dd>Figure&#58; Bad example of Captions - Text is too small and hard to read. </dd>
+</dl>
 
+<dl class="goodImage">
+<dt><img src="/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/CTA_Good_Example_2.jpg" alt="CTA_Good_Example_2.jpg" style="width&#58;600px;"></dt>
+<dd>Figure&#58; Good example of Captions - Text is clear and legible. Provides extra value to the viewer with content not mentioned in the video</dd>
+</dl>
+
+<p>Remember to put any links that you've mentioned in&#160;the captions underneath your video in it's own section (with a heading such as 'Show Notes' or 'Related Content'). You can also use this section to put in links that are related to what was said in the video as evidence (similar to footnotes or a bibliography in a book). That way, you will gain more Google juice and it will make it easier for the Product Owner to review your captions.</p></dl></dl>
