@@ -24,11 +24,11 @@ Whenever an application has a database, have a visual indicator. I recommend a d
 
 
 Note: The Yellow might have been Orange (kind of like traffic lights) but the color palette in Word doesn't give Orange.
-![colors in Word color pallete](/Management/RulesToSuccessfulProjects/PublishingImages/WordColorPallete.GIF)Figure: colors in Word color palette 
+![colors in Word color pallete](/PublishingImages/WordColorPallete.GIF)Figure: colors in Word color palette 
 This prevents testers from accidentally entering test data into the production version.
 
 **Windows Forms Tip:** Implement in the base form in the header 
 **ASP.NET (at least version 2.0) Tip:** Implement in the master form in the header
-![ ](/Management/RulesToSuccessfulProjects/PublishingImages/dev_test_prod_servers.gif) Figure: Spice up your environments with different colors 
-An application of this rule is how we identify our CRM servers - see rule [Do you identify Development, Test and Production CRM Web Servers by colors?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterMicrosoftCRM.aspx#Environment)
+![ ](/PublishingImages/dev_test_prod_servers.gif) Figure: Spice up your environments with different colors 
+An application of this rule is how we identify our CRM servers - see rule [Do you identify Development, Test and Production CRM Web Servers by colors?](/do-you-identify-development-test-and-production-crm-web-servers-by-colors)
 
