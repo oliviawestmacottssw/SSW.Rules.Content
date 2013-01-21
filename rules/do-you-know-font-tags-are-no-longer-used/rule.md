@@ -21,7 +21,5 @@ Figure: Bad Example - Using deprecated HTML tag
 Figure: Good Example - Using &lt;p&gt; or &lt;span&gt; for texts
 **Tip:** Use CSS to define the font, size, and color of text.
 
-
-We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule.
-
+We have the programs [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) and [SSW Link Auditor](http&#58;//www.ssw.com.au/ssw/linkauditor/) to check for this rule.
 
