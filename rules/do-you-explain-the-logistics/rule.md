@@ -1,0 +1,26 @@
+---
+type: rule
+title: Do you explain the logistics?
+uri: do-you-explain-the-logistics
+created: 2013-01-29T20:03:42.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+
+---
+
+ Explain to the attendees the logistics of the day. 
+- What time are the breaks?
+    E.g.
+
+    - Session 1             09:00am – 11:00am
+    - **Break                    **11:00am – 11:20am
+    - Session 2             11:20am – 12:30am
+    - Lunch                    12:30am – 01:30pm
+    - Session 3             01:30pm – 03:20pm
+    - **Break                    **03:20pm – 03:40pm
+    - Session 4             03:40pm – 05:00pm
+- Where is the tea/coffee?
+- Where are the toilets?
+
+
