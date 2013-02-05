@@ -9,7 +9,12 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ 
+Using a precision mocking framework (such as Moq or NSubstitute) encourages developers to write maintainable, loosely coupled code.
+
+Mocking frameworks allow you to replace a section of the code you are about to test, with an alternative piece of code.
+ For example, this allows you to test a method that performs a calculation and saves to the database, without actually requiring a database.
+ 
 There are two types of mocking framework.
 
 **The Monster Mocker (e.g. Microsoft Fakes or TypeMock)**
