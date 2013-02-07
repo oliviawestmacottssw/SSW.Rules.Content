@@ -12,3 +12,8 @@ authors:
  
 Your source control repository should be the source of all truth. Everything, always, no-matter what should go into source control.
  
+This includes your deployment scripts and Web Deploy parameter files.
+![](/TFS/Rules-to-Better-Continuous-Deployment/PublishingImages/deployment-project.jpg)Figure: Good Example - Create a Deployment project alongside your web project.  You will copy in the template deployment files in the following steps.
+ Vm-SynWeb.Deploy.Bat is a batch  file that will deploy your web site to Vm-SynWeb
+ Vm-SynWeb.SetParameters.xml is a Web Deploy SetParameters file that specifies environment specific settings.
+ \_Deploy.Bat is the base batch file that your environment specific deployment batch files will call.![](/TFS/Rules-to-Better-Continuous-Deployment/PublishingImages/deployment-project-copy.jpg)Figure: It is important that each of the batch and parameters files has it ‘Copy to Output Directory’ setting set to ‘Copy Always’
