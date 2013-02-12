@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Linq is a fantastic addition to .Net which lets you write clear and beautiful declarative code. Linq allows you to focus more on the **\*what\*** and less on the **\*how\***.
+Linq is a fantastic addition to .Net which lets you write clear and beautiful declarative code. Linq allows you to focus more on the **what** and less on the **how**.
 
 You should look for opportunities to replace your existing code with Linq.
  
@@ -30,10 +30,10 @@ foreach (var customer in Customers)
 }
 ```
 
-Figure: Bad Example - imperative programming using a foreach loop. 
+Figure: Bad Example - imperative programming using a foreach loop
 
 ```
-;
+var lucrativeCustomers = Customers.Where(c => c.Orders.Count > 0).ToList();
 ```
 
-Figure: Good Example - declarative programming using Linq.
+Figure: Good Example - declarative programming using Linq
