@@ -9,7 +9,9 @@ authors:
 
 ---
 
- Explain to the attendees the logistics of the day. 
+ 
+Students will be able to concentrate best if they are comfortable that they know basically how the day will run. To this end, explain the logistics of the day.
+ 
 - What time are the breaks?
 E.g. <br>      
 
