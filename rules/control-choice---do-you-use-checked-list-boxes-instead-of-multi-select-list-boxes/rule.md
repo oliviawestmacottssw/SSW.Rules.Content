@@ -16,11 +16,11 @@ Multi-select listboxes are the bane of a graphical user interface, they have a n
 - They lose all selections if you click in the wrong place.
 - You can't tell if a Listbox is single-select or multi-select at first glance.
 
- Item 1 Item 2 Item 3 Item 4 Item 5 Item 6 Item 7 Item 8 Item 9 Item 10 Figure: Bad Example - List Boxes are impractical - try it and see
+Item 1Item 2Item 3Item 4Item 5Item 6Item 7Item 8Item 9Item 10 Figure: Bad Example - List Boxes are impractical - try it and see
 **Checked Listboxes** are the ideal alternative. They're much more pleasant to use and are a good deal more intuitive - compare to the list above. Checked Listboxes tell users immediately that they have the ability choose multiple options.
 
-- In ASP.NET, use **System.Web.UI.WebControls.CheckBoxList**. If you're having problems with there being too many items in the list, use a **scrolling DIV**
-- In Windows Forms, use **System.Windows.Forms.CheckedListBox**
+- In ASP.NET, use <br>      **System.Web.UI.WebControls.CheckBoxList**. If you're having problems with there being too many items in the list, use a <br>      **scrolling DIV**
+- In Windows Forms, use <br>      **System.Windows.Forms.CheckedListBox**
 
 
 
@@ -36,4 +36,4 @@ Multi-select listboxes are the bane of a graphical user interface, they have a n
 | Item 9 |
 | Item 10 |
 
-Figure: Good Example - The beauty of the CheckListBox in ASP.NET We have a program called [SSW Code Auditor](/ssw/CodeAuditor) to check for this rule.  
+Figure: Good Example - The beauty of the CheckListBox in ASP.NET We have a program called  [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/codeauditor/) to check for this rule.  
