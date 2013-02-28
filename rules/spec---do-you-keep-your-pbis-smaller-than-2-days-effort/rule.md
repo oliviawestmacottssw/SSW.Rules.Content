@@ -21,4 +21,4 @@ Email #3 Subject:  MVC prototype - Create a web service with the customer CRUD 
 Silverlight prototype - with firstname and lastname textboxes, a save button (and remmed out code web service 
 
 Email #4 Subject:  MVC prototype - Create methods on webservice exposed to client
-MVC prototype - with firstname and lastname textboxes, a save buttonFigure: Good example – The same monolithic task, broken down into 4 smaller tasks
+MVC prototype - with firstname and lastname textboxes, a save Figure: Good example – The same monolithic task, broken down into 4 smaller tasks
