@@ -11,18 +11,18 @@ authors:
 
 ---
 
- The built-in Process Templates in VSTS will not always fit into your environment, so you want to fix it by creating your own. In SSW, we have our own SSW.AgileTemplate to allow us to add our stuff and deletes the wortheless stuff. 
+ The built-in Process Templates in VSTS will not always fit into your environment, so you want to fix it by creating your own. In SSW, we have our own SSW.AgileTemplate to allow us to add our stuff and deletes the worthless stuff. 
 
-![](/Management/RulesToBetterProjectManagement/PublishingImages/SSWAgile-Baseline-1.jpg) 
+![](/Management/RulestoBetterWorkItems/PublishingImages/SSWAgile-Baseline-1.jpg) 
 Figure: Good - We added "Baseline work (hours)" field to keep original estimate
 
-![](/Management/RulesToBetterProjectManagement/PublishingImages/SSWAgile-Additional.jpg)
+![](/Management/RulestoBetterWorkItems/PublishingImages/SSWAgile-Additional.jpg)
 Figure: Good - We added "Additional Task" to track scope creep
 
-![](/Management/RulesToBetterProjectManagement/PublishingImages/SSWAgile-URL.jpg)
+![](/Management/RulestoBetterWorkItems/PublishingImages/SSWAgile-URL.jpg)
 Figure: Good - We added "URL" field to allow reverse view from the web page
 
-![](/Management/RulesToBetterProjectManagement/PublishingImages/SSWAgile-RichText.jpg)
+![](/Management/RulestoBetterWorkItems/PublishingImages/SSWAgile-RichText.jpg)
 Figure: Good - We enabled rich text in "Description" field to allow us enter better text for the requirement
 
 
