@@ -16,35 +16,36 @@ authors:
 **Calculate the total cost for your release:
 **Follow the steps below to save a baseline and track your project budget usage:
 
-1. Open MS Project and connect to your Team Project ![](/Management/RulesToBetterProjectManagement/PublishingImages/ChooseTeamProject_Small.jpg) Figure: Click “Choose Team Project” and choose the project you want to track
-2. Query the work items from the team project ![](/Management/RulesToBetterProjectManagement/PublishingImages/QueryTheWorkItem_Small.jpg)Figure: To select the work items that you want to use you should click on “Get Work Items” and choose a query.Note: normally you want to create queries for each of your Releases, then you can quickly import them together.
-3. To Track progress, we will use the “Team System Task Sheet” view; this can be selected from the “View” menu.
-4. Your work items will be imported and arranged within a hierarchy. As we are trying to track the progress, we want to keep “Original Estimate”, “Remaining Work” and “Completed Work” together, so drag them after the Work Item Title.![](/Management/RulesToBetterProjectManagement/PublishingImages/ArrangeWorkItems_Small.jpg)Figure: Arrange your work items so we can easily track their progress
-5. In order to have the cost calculated, we need to assign a rate to each of the resources. This can be done by going to “View | Resource Sheet”
-![](/Management/RulesToBetterProjectManagement/PublishingImages/AssignResourceRates.jpg)Figure: Assign resource rates
-6. When you switch back to “Team System Task Sheet”, you will want to add the following fields so we can see the cost status;
+1. Open MS Project and connect to your Team Project ![](/PublishingImages/ChooseTeamProject_Small.jpg) Figure: Click “Choose Team Project” and choose the project you want to track
+2. Query the work items from the team project ![](/PublishingImages/QueryTheWorkItem_Small.jpg)Figure: To select the work items that you want to use you should click on “Get Work Items” and choose a query.
+3. Note: normally you want to create queries for each of your Releases, then you can quickly import them together.
+4. To Track progress, we will use the “Team System Task Sheet” view; this can be selected from the “View” menu.
+5. Your work items will be imported and arranged within a hierarchy. As we are trying to track the progress, we want to keep “Original Estimate”, “Remaining Work” and “Completed Work” together, so drag them after the Work Item Title.![](/PublishingImages/ArrangeWorkItems_Small.jpg)Figure: Arrange your work items so we can easily track their progress
+6. In order to have the cost calculated, we need to assign a rate to each of the resources. This can be done by going to “View | Resource Sheet”
+![](/PublishingImages/AssignResourceRates.jpg)Figure: Assign resource rates
+7. When you switch back to “Team System Task Sheet”, you will want to add the following fields so we can see the cost status;
 <br>      a.  Baseline Cost
 <br>      b. Remaining Cost
 <br>      c. Actual Cost 
 <br>    You will notice the “Remaining Cost” column has been calculated based on the “Remaining Work” column and the Rate we entered for each task. 
-![](/Management/RulesToBetterProjectManagement/PublishingImages/CostColumn_Small.jpg)Figure: Showing the cost columns
-7. In order for MS Project to calculate and display a total cost for your current release you will need to add a summary task at the top level of the project tasks.
+![](/PublishingImages/CostColumn_Small.jpg)Figure: Showing the cost columns
+8. In order for MS Project to calculate and display a total cost for your current release you will need to add a summary task at the top level of the project tasks.
 <br>    Choose the 1st task in your project, right click and create a “New Task” 
-![](/Management/RulesToBetterProjectManagement/PublishingImages/SummaryTask.jpg)Figure: Create a summary task at the top Name the task as per your release name so you know what this plan is for; also you don’t want this task to be created in your TFS as a work item because it’s just a summary, set “Publish and Refresh” as “No”. 
-![](/Management/RulesToBetterProjectManagement/PublishingImages/NoPublishAndRefresh.jpg)Figure: Don’t publish and refresh this summary task In order to make this a summary item you need to select all the other tasks and indent them. To achieve this click the little red forward arrow in the toolbar.
-![](/Management/RulesToBetterProjectManagement/PublishingImages/IndentTask_Small.jpg)Figure: Indent tasks Now, your summary task is ready and it’s showing the total cost for your current release: ![](/Management/RulesToBetterProjectManagement/PublishingImages/TotalCost_Small.jpg) Figure: Total cost is calculated
+![](/PublishingImages/SummaryTask.jpg)Figure: Create a summary task at the top Name the task as per your release name so you know what this plan is for; also you don’t want this task to be created in your TFS as a work item because it’s just a summary, set “Publish and Refresh” as “No”. 
+![](/PublishingImages/NoPublishAndRefresh.jpg)Figure: Don’t publish and refresh this summary task In order to make this a summary item you need to select all the other tasks and indent them. To achieve this click the little red forward arrow in the toolbar.
+![](/PublishingImages/IndentTask_Small.jpg)Figure: Indent tasks Now, your summary task is ready and it’s showing the total cost for your current release: ![](/PublishingImages/TotalCost_Small.jpg) Figure: Total cost is calculated
 
 
 **Baseline management:**
  Baseline management is very important for every project manager as it helps you to determine the budget usage; once the client approves your initial estimate for the project it will become your baseline. So before you set a baseline in your MS Project, make sure the client approves it.
 
-To set a baseline, choose “Tools, Tracking, Set Baseline” from the menu: ![](/Management/RulesToBetterProjectManagement/PublishingImages/SetBaseline_Small.jpg)Figure: Set Baseline …![](/Management/RulesToBetterProjectManagement/PublishingImages/ChooseBaseline.jpg)Figure: Choose “Baseline” and click ok
+To set a baseline, choose “Tools, Tracking, Set Baseline” from the menu: ![](/PublishingImages/SetBaseline_Small.jpg)Figure: Set Baseline …![](/PublishingImages/ChooseBaseline.jpg)Figure: Choose “Baseline” and click ok
 
 A handy feature of MS Project is its ability to handle multiple baselines. Use a new baseline to seek approval from clients when they alter the project scope. 
- Once your baseline is set, you will be able to see the “Baseline Cost” column is showing $,![](/Management/RulesToBetterProjectManagement/PublishingImages/BaselineCost_Small.jpg)Figure: Baseline Cost is showing $
+ Once your baseline is set, you will be able to see the “Baseline Cost” column is showing $,![](/PublishingImages/BaselineCost_Small.jpg)Figure: Baseline Cost is showing $
 
 **Track your project on the go**
  When your project is running, your developers will update the “Remaining Work” and “Completed Work” columns from TFS, they may not use MS Project so you will need to refresh your MS Project file to get these changes, and the $ will be calculated on the fly to give you up-to-date status.
- To refresh your project file, simply click on the “Refresh” button in the toolbar. ![](/Management/RulesToBetterProjectManagement/PublishingImages/RefreshProject.jpg)Figure: Click the “Refresh” button to update your project file.![](/Management/RulesToBetterProjectManagement/PublishingImages/BudgetUsage_Small.jpg)Figure: Budget usage is calculated. Note: If you find that the values are not calculating properly, it may be that the calculation mode is set incorrectly. If pressing F9 updates the values you should change the setting “Tools | Options | Calculation” from “Manual” to “Automatic”.
-![](/Management/RulesToBetterProjectManagement/PublishingImages/CalculationMode_Small.jpg)Figure: set the calculation mode to “Automatic”Also make sure “Actual costs are always calculated by Microsoft Office Project” is enabled.
+ To refresh your project file, simply click on the “Refresh” button in the toolbar. ![](/PublishingImages/RefreshProject.jpg)Figure: Click the “Refresh” button to update your project file.![](/PublishingImages/BudgetUsage_Small.jpg)Figure: Budget usage is calculated. Note: If you find that the values are not calculating properly, it may be that the calculation mode is set incorrectly. If pressing F9 updates the values you should change the setting “Tools | Options | Calculation” from “Manual” to “Automatic”.
+![](/PublishingImages/CalculationMode_Small.jpg)Figure: set the calculation mode to “Automatic”Also make sure “Actual costs are always calculated by Microsoft Office Project” is enabled.
 
