@@ -9,19 +9,21 @@ authors:
 
 ---
 
- With the release of TFS 2010 Beta 2 and GoLive license, you should always use TFS 2010 instead of TFS 2008. 
+ 
+With the release of TFS 2012, you should always use TFS 2012 instead of TFS 2010. 
 
-**New Process Template:**
-<br>TFS 2010 has improved MSF Agile Template v5.0 which includes new Work Items types like: User Story, Test Case, Shared Steps to allow you to collect user requirements more easily and ensure the work is done with good quality. 
+**Projects and Solutions**
+ Work with Visual Studio 2010 SP1 projects and files in both Visual Studio 2012 and Visual Studio 2010 SP1.
 
-**Better Integration with client applications:**
-<br>TFS 2010 also include better integration with MS Project, Excel to allow us to use familiar tools to work with TFS. 
+**Window Management:**
+ Preview files in the code editor, access frequently used files more easily and arrange windows on multiple monitors more effectively.
 
-**Better SharePoint Portal:**
-<br>TFS 2010's SharePoint portal can be hosted on either WSS 3.0 or MOSS 2007, which includes a few great dashboards for project manager to monitor their projects easily. The new portal also allows us to create and edit work items. 
+**Automating and Debugging Builds:**
+Run, monitor and manage builds using the enhanced interface. Run automated builds from Team Foundation Server. Debug your build process more easily.
 
-**Better Reports:
-**TFS 2010 provdes more reports and better reports for us to get update of the project. Based on SQL Server 2008 Reporting Services, the reports in TFS 2010 will scale better and provide better enterprise support. 
+**Managing the Application Lifecycle:**
+Manage the backlog, sprints, and tasks by using agile tools. Engage stakeholders to provide feedback on pre-release software. Illustrate requirements with storyboards, and link these to work items.
 
-
-
+**Microsoft test Manager:**
+Run manual testing on windows store apps. Conduct exploratory testing. Include multiple lines and rich text in your manual test steps. Clone test plans for new iterations.
+ 
