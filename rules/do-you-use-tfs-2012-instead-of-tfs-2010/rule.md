@@ -12,18 +12,12 @@ authors:
  
 With the release of TFS 2012, you should always use TFS 2012 instead of TFS 2010. 
 
-**Projects and Solutions**
- Work with Visual Studio 2010 SP1 projects and files in both Visual Studio 2012 and Visual Studio 2010 SP1.
+**Async checkout**
+There is a new TFS 2012 feature so that VS 2012 will do checkouts in the background for server workspaces.  That eliminates the pause when you start typing and VS checks out the file.  Turning it on turns off checkout locks, but you can still use checkin locks.
 
-**Window Management:**
- Preview files in the code editor, access frequently used files more easily and arrange windows on multiple monitors more effectively.
+**Merge on Unshelve** 
+Shelvesets can now be unshelved into a workspace even if there are local changes on files in the shelveset.  Conflicts will be created for any items modified both locally and in the shelveset, and you will resolve them as you would any other conflict.
 
-**Automating and Debugging Builds:**
-Run, monitor and manage builds using the enhanced interface. Run automated builds from Team Foundation Server. Debug your build process more easily.
-
-**Managing the Application Lifecycle:**
-Manage the backlog, sprints, and tasks by using agile tools. Engage stakeholders to provide feedback on pre-release software. Illustrate requirements with storyboards, and link these to work items.
-
-**Microsoft test Manager:**
-Run manual testing on windows store apps. Conduct exploratory testing. Include multiple lines and rich text in your manual test steps. Clone test plans for new iterations.
+**Local workspaces **
+Local workspaces allow many operations to be done offline (add, edit, rename, delete, undo, diff) and are recommended only for workspaces with fewer 50,000 files.  Local workspaces are now the default with TFS 2012, but you can control that if you want server workspaces to be the default.
  
