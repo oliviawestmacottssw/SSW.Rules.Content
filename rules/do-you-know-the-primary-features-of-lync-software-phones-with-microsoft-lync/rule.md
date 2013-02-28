@@ -11,12 +11,18 @@ authors:
 
 
 
-<span class='intro'> ​​<div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify"><iframe width="640" height="360" src="https&#58;//www.youtube.com/embed/z45_IMwslYw?rel=0" frameborder="0"></iframe>&#160;</div>
-<p>There are a lot of features of Microsoft Lync. The primary features are&#58;</p> </span>
+<span class='intro'> There are&#160;lot of features of Microsoft Lync. The primary features are&#58; </span>
 
-<ul><li> 
-      <span style="line-height&#58;21px;">Internal calls</span></li><li>Transfer a call</li><li>Conference a call</li></ul><p>Plus even more&#58;</p><ul><li>Receiving your voice mails into your email</li><li>Presence Icon</li><li>IM functionality</li><li>Federation Abilities (so you have more people on your IM)</li>
-   <li>​Meetings</li><li>Remote Desktop</li><li>Whiteboard</li></ul><p>Read more about 
-   <a href="http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx">​implementing Microsoft Lync</a>.</p>
+<p> 
+Transfer a call<br> 
+Conference a call<br> 
+Internal<br> 
+Receiving your voice mails into your email<br> 
+You can always see if someone is available from lots of apps - Presence Icon<br> 
+IM functionality<br> 
+Meetings<br> 
+Adding all users from another instant messaging platform (or all users from another company) (aka Federation)<br>
+Remote Desktop<br> 
+Whiteboard</p>
 
 
