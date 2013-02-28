@@ -33,12 +33,17 @@ Note: It would be great if TFS Web Access had functionality to add [standard ite
 7. When the Estimate is approved by the client, start work following these rules: [Rules to Better Project Management with TFS](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx).
 
 <br>TODO - Ask Eric - We also set our SharePoint document library's default template to be this file to allow developers to find it easily. ​​​ 
+
+
 **Why Microsoft Project isn't recommended**
 
 - Tasks are auto scheduled based on dependency and resource allocation (who is assigned to it). This generates an estimated completion date which is never accurate, due to annual leave, public holidays and general shuffling of people in the team
 - It gets the summing wrong (the totals don't seem to update and no way to trigger it)
 - It's hard to synchronize with timesheets (as it doesn't connect to 3rd party timesheet systems out of the box – however, it does have its own time sheeting system, that is missing billing information!)
 - You cannot allocate two people to a task. This create a lot of additional overhead to get it right. \*\*fixed in TFS 2008\*\*
+
+
+
 
 **How to create a Release Plan
 **
