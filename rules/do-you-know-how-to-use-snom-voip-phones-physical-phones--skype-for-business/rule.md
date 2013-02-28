@@ -9,7 +9,7 @@ authors: []
 
  Using SNOM phones, transferring a call, creating a conference call, or making an internal call, is very easy.
 
-
+ 
  **Transferring a call**
 
 - While speaking to Mr Northwind, press <br>         ![Hold.png](/ITAndNetworking/Rules-to-Better-Lync/PublishingImages/Hold.png)*(Hold)*
