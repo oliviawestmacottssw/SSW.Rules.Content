@@ -26,13 +26,16 @@ Different clients need different levels of support. At SSW we offer a number of 
 When User Acceptance Testing (UAT) begins, there will be a 30 days warranty period for the client to test the application and report any **bugs** back to us for free correction, after this warranty period, even bug fixing becomes chargeable. **During the warranty period, all feedback from clients should be moved to next release unless they fall into the ** [bug definition](http&#58;//www.ssw.com.au/SSW/Redirect/SSW/RulestoSuccessfulProjects.htm). After all reported critical bugs have been fixed, you may generate a release plan for the next release and ask for approval to start a new release.
 
 #### 
+
+
+
 **Warranty on a Fixed Price Contract**
 
 The Project Lead should review the specification, check off and test all items. This will determine whether (in his opinion) all items have been completed in totality.
 
 The specification and project is handed over to a Tester (not a developer on the project) and the Tester reviews the specification, checking off and testing all items. He determines whether (in his opinion) all items have been completed in totality.
 
-Bugs are ficed and enhancements are made if required.
+Bugs are fixed and enhancements are made if required.
 
 When the Tester and the Project Lead are agreed that the project is completed, the project is handed over to the client for testing.
 
