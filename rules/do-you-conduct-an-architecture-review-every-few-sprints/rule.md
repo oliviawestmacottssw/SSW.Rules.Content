@@ -18,7 +18,7 @@ authors:
 
 There are 2 main parts to any application. The UI which is what the customer can see and provide feedback on, and the underlying code which they really can't know if it is healthy or not.
 
-Therefore it is important to conduct a '[test please](/Management/RulesToSuccessfulProjects/Pages/TestPleaseFourSteps.aspx)' on the iinternal code and architecture of the application. 
+Therefore it is important to conduct a '[test please](/Management/RulesToSuccessfulProjects/Pages/TestPleaseFourSteps.aspx)' on the internal code and architecture of the application. 
 
  
 
