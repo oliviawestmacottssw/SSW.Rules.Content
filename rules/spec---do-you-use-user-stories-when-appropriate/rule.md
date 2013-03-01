@@ -18,6 +18,6 @@ authors:
 As a &lt;type of User&gt;
 I want &lt;some goal&gt;
 so that &lt;some reason&gt;
-Figure: User Story - template for title![TFS2012UserStory.gif](/Management/RulesToBetterSpecificationReviews/PublishingImages/TFS2012UserStory.gif) 
+Figure: User Story - template for title![TFS2012UserStory.gif](/Management/RulestoBetterWorkItems/PublishingImages/TFS2012UserStory.gif) 
 Figure: User Story - Product Backlog Item form
 
