@@ -10,18 +10,18 @@ authors:
 ---
 
  There are lot of features of Microsoft Lync. The primary features are: 
+- Internal calls
 - <br>Transfer a call
 - Conference a call
-- Internal calls
 
 
 Plus even more:
 
 - Receiving your voice mails into your email
-- You can always see if someone is available from lots of apps - Presence Icon
+- Presence Icon
 - IM functionality
 - Meetings
-- Adding all users from another instant messaging platform (or all users from another company) (aka Federation)
+- Federation Abilities
 - Remote Desktop
 - Whiteboard
 
