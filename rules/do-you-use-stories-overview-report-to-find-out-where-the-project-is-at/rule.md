@@ -16,8 +16,8 @@ authors:
 
 A common question for every project manager is "where is my project at"? This question isn't just asked to find out how many tasks are done, but also to understand if all these tasks are done to meet users' requirements.
 
-The MSF for Agile Template in TFS 2010 and 2012 provides a built-in "Stories Overview" report to help you find out where the project is at, as well as to tell you if all the tasks are well tested.
-![Stories Overview report](/Management/RulesToBetterSpecificationReviews/PublishingImages/StoriesOverviewReport.jpg) 
+Both the Visual Studio Scrum and MSF for Agile project templates in TFS 2010 and 2012 provide a built-in "Stories Overview" report to help you find out where the project is at, as well as to tell you if all the tasks are well tested.
+![Stories Overview report](/Management/RulestoBetterSpecificationReviews/PublishingImages/StoriesOverviewReport.jpg) 
 Figure: The developer says he is 90% done... the report shows 25% tested, but 0% passed!
 Tip: Set this up on a [daily schedule so the Scrum Team get this in their inbox each day](/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx).
 
@@ -35,5 +35,5 @@ The problem with the answer is that developers almost always say 90%
 [@AdamCogan](http&#58;//twitter.com/adamcogan)
 
 
-Need to know $$$, read [Do you get regular updates on costs and progress (aka Project Progress, Burndown, Story Overview)?](/Management/RulesToManagingSoftwareConsultants/Pages/DoYouGetRegularUpdatesOnCostsAndProgress.aspx) to see which reports you need to get a complete project progress overview.
+Need to know $$$, read [Do you get regular updates on costs and progress (aka Project Progress, Burndown, Story Overview)?](/Management/RulesToBetterProductOwners/Pages/DoYouGetRegularUpdatesOnCostsAndProgress.aspx) to see which reports you need to get a complete project progress overview.
 
