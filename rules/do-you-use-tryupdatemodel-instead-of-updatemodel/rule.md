@@ -14,14 +14,26 @@ UpdateModel will throw an exception if validation of the model fails.  Instead o
 
 
 ```
-public ActionResult Create() { Entity myEntity = new Entity();           
-            UpdateModel(myEntity); }
+public ActionResult Create()
+{
+    Entity myEntity = new Entity();
+    UpdateModel(myEntity);
+}
 ```
 
-Figure: Bad Example – UpdateModel may throw an exception and the ModelState dictionary won’t be updated<br>   
+Figure: Bad Example – UpdateModel may throw an exception and the ModelState dictionary won’t be updated 
 
 ```
-public ActionResult Create() { Entity myEntity = new Entity(); TryUpdateModel(myEntity); if (ModelState.IsValid) { // ... } }
+public ActionResult Create()
+{
+    Entity myEntity = new Entity();
+    TryUpdateModel(myEntity);
+
+    if (ModelState.IsValid)
+    {
+        // ...
+    }
+}
 ```
 
-Figure: Good Example – TryUpdateModel will gracefully handle validation and will add to the ModelState dictionary so we can check for validity<br>    
+Figure: Good Example – TryUpdateModel will gracefully handle validation and will add to the ModelState dictionary so we can check for validity 
