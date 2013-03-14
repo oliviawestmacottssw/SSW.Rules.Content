@@ -18,7 +18,7 @@ Your messages must contain     ***your name (firstname and lastname)***,***purpo
 
 **Figure: Bad Example - lacking in communication details, reason for calling and sense of urgency**
 
-*Hi Ms. Emma, this is Alvin Shen from SSW. I am calling to follow up our meeting yesterday about your company website. Please return my call on 9953 3000. The best time to reach me is between 9 and 11am today, or between 3 and 5pm tomorrow. Thank you.* 
+*Hi Ms. Emma, this is Alvin Shen from SSW. I am calling to follow up our meeting yesterday about your company website. Please return my call on 02 9953 3000. The best time to reach me is between 9 and 11am today, or between 3 and 5pm tomorrow. My number again is 02 9953 3000. Thank you.* 
 
 **Figure: Good Example - This communicates important contact details, a reason for calling and implies a response is needed in the next day or so**
 
