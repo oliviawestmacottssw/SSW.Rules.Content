@@ -9,4 +9,8 @@ authors:
 
 ---
 
-[http://www.useit.com/alertbox/weblogs.html](http&#58;//www.useit.com/alertbox/weblogs.html)
+ 
+A blog is still a website that you want people to visit, so it’s important to consider the UI.
+ 
+​Have a look at [Jakob Nielsen's advice on the Top Ten Design Mistakes](http&#58;//www.nngroup.com/articles/weblog-usability-top-ten-mistakes/) for advice on how you can improve your blog UI.
+
