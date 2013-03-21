@@ -32,6 +32,12 @@ If you don't see a contact in the recipient list, that means your contact either
 
 
 9. Follow the on screen instructions in Microsoft Word and edit the content of the email that you want to send.
+
+
+# Attention: SSW Developers
+
+Please remove the yellow highlight for the block of the text that need to be filled in by you and the green highlight for the CRM field while you're editing the email.
+
 10. At the last step of the mail merge instructions in Microsoft Word, click <br>      **Electronic Mail** and fill in the subject line for your email.
 ![Fill in subject line for email](/Communication/Rules-to-Better-CRM-Mail-Merge/PublishingImages/send-mail-merge-4.jpg)Figure: Fill in subject line for email11. Click <br>      **Ok** to proceed to next step.
 12. Now because we're using CRM outlook, CRM mail merge will give you an option to create the activities that associated to this email. Check <br>      **Create Microsoft Dynamic CRM Activities** radio button, and uncheck the <br>      **Include an ubsubcribe link in the email message** to create the activities.
