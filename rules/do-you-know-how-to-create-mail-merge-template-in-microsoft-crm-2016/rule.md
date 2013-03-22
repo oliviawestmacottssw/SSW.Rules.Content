@@ -10,9 +10,9 @@ authors:
 ---
 
  
-The following instructions to create Microsoft CRM mail merge template require you to have Microsoft CRM Outlook add-in installed on your Outlook, and you need to open Outlook while creating the template:
+The following instructions to create Microsoft CRM 2011 mail merge template require you to have Microsoft CRM Outlook add-in installed on your Outlook, and you need to open Outlook while creating the template:
  
-1. Go to <br>      **Settings** from Microsoft CRM home page.
+1. Go to <br>      **Settings** from Microsoft CRM 2011 home page.
 2. Click <br>      **Templates** on the left navigation panel.
 3. Click <br>      **Mail Merge Templates** on right content panel.
 4. Click button <br>      **New** to create the new mail merge template.
@@ -30,8 +30,8 @@ The following instructions to create Microsoft CRM mail merge template require y
       </dt><dd>Figure&#58; Follow the instructions to create template content</dd></dl>
 # Attention: SSW Developers
     Please hightlight the block of text that you want user to edit in yellow.
-10. At the last step of Mail Merge instructions in Microsoft Word, click <br>      **Upload Template To CRM** and click <br>      **Yes** on the popup window to save your template in CRM.
+10. At the last step of Mail Merge instructions in Microsoft Word, click <br>      **Upload Template To CRM 2011** and click <br>      **Yes** on the popup window to save your template in CRM.
 <dl class="image"><dt>
          <img src="/Communication/Rules-to-Better-CRM-Mail-Merge/PublishingImages/mail-merge-4.jpg" alt="Save Mail Merge Template To CRM">
-      </dt><dd>Figure&#58; Save Mail Merge Template To CRM</dd></dl>
+      </dt><dd>Figure&#58; Save Mail Merge Template To CRM&#160;2011</dd></dl>
 
