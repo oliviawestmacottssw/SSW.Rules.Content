@@ -26,6 +26,6 @@ Please hightlight the block of text that you want user to edit in yellow.
 
 7. At the last step of the Mail Merge instructions, click <br>      **Upload Template To CRM 2011** and click <br>      **Yes** on the popup window, to save the template in the current template record that you open in Microsoft CRM.
 <dl class="image"><dt>
-         <img src="/Communication/Rules-to-Better-CRM-Mail-Merge/PublishingImages/edit-mail-merge-1.jpg" alt="Save Mail Merge Template To CRM">
+         <img src="/PublishingImages/edit-mail-merge-1.jpg" alt="Save Mail Merge Template To CRM">
       </dt><dd>Figure&#58; Save Mail Merge Template To CRM 2011</dd></dl>
 
