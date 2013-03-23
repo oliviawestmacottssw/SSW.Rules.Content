@@ -25,5 +25,5 @@ These are the steps to edit a mail merge template in CRM 2011:
 Please hightlight the block of text that you want user to edit in yellow.
 
 7. At the last step of the Mail Merge instructions, click <br>      **Upload Template To CRM 2011** and click <br>      **Yes** on the popup window, to save the template in the current template record that you open in Microsoft CRM.
-![Save Mail Merge Template To CRM](/Communication/Rules-to-Better-CRM-Mail-Merge/PublishingImages/edit-mail-merge-1.jpg)Figure: Save Mail Merge Template To CRM 2011
+![Save Mail Merge Template To CRM](/PublishingImages/edit-mail-merge-1.jpg)Figure: Save Mail Merge Template To CRM 2011
 
