@@ -13,13 +13,12 @@ authors:
 
 ---
 
- "User Stories" is the new name for "Scenarios" in TFS 2012, it allows you to collect your user requirements more easily by providing you a template for the title and streamlined UI. 
+ 
+"User Stories" is the new name for "Scenarios" in TFS 2012, it allows you to collect your user requirements more easily by providing you a template for the title and streamlined UI.
 
 As a &lt;type of User&gt;
 I want &lt;some goal&gt;
 so that &lt;some reason&gt;
-Figure: User Story - template for title![TFS2012UserStory.gif](/Management/RulestoBetterWorkItems/PublishingImages/TFS2012UserStory.gif) 
-Figure: User Story - Product Backlog Item form
-I want to be able to search for customers.                    Figure: Bad Example - the user story is too vague and broad in scopeAs a Marketing Manager...
-                    I want to be able to search for customers by country and last name.
-                    So that I can find their numbers and call customers close to me.                     Figure: Good Example - Clear user story following the INVEST principle
+Figure: User Story - template for title ![TFS2012UserStory.gif](/PublishingImages/TFS2012UserStory.gif)Figure: User Story - Product Backlog Item formI want to be able to search for customers.Figure: Bad Example - the user story is too vague and broad in scopeAs a Marketing Manager...
+<br>   I want to be able to search for customers by country and last name.
+<br>   So that I can find their numbers and call customers close to me. Figure: Good Example - Clear user story following the INVEST principle
