@@ -24,7 +24,7 @@ Figure: Good - The "URL" field has been added to allow reverse view from the we
 
 ![](/Management/RulestoBetterWorkItems/PublishingImages/SSWAgile-RichText.jpg)
 Figure: Good - Rich text has been enabled in the "Description" field to allow users to enter better text for the requirement
-
+ Note: the URL field is used in the  [SSW Smashing Barrier](http&#58;//sharepoint.ssw.com.au/Products/TFSSmashingBarrier/Default.aspx)product
 
 
 
