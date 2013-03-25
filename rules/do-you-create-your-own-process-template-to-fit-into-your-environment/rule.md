@@ -14,10 +14,10 @@ authors:
  The built-in Process Templates in TFS will not always fit into your environment, so you can fix it by creating your own. 
 
 ![](/Management/RulestoBetterWorkItems/PublishingImages/SSWAgile-Baseline-1.jpg) 
-Figure: Good - We added "Baseline work (hours)" field to keep original estimate
+Figure: Good - The "Baseline work (hours)" field was added to keep the original estimate
 
 ![](/Management/RulestoBetterWorkItems/PublishingImages/SSWAgile-Additional.jpg)
-Figure: Good - We added "Additional Task" to track scope creep
+Figure: Good - "Additional Task" was added to track scope creep
 
 ![](/Management/RulestoBetterWorkItems/PublishingImages/SSWAgile-URL.jpg)
 Figure: Good - The "URL" field has been added to allow reverse view from the web page
