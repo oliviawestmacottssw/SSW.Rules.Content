@@ -18,13 +18,11 @@ authors:
 
 There are 2 main parts to any application. The UI which is what the customer can see and provide feedback on, and the underlying code which they really can't know if it is healthy or not.
 
-Therefore it is important to conduct a '[test please](/Management/RulesToSuccessfulProjects/Pages/TestPleaseFourSteps.aspx)' on the internal code and architecture of the application. 
-
- 
+Therefore it is important to conduct a '[test please](/do-you-know-the-tools-you-need-before-a-＂test-please＂)' on the internal code and architecture of the application.
 
 Ideally conduct a small 'Code + Architecture Review' for every sprint. Assuming a 2 week sprint, schedule a 4 hour (2 architects x 2 hours) review during all sprints. 
 
-The following are items that are address in a architecture/code review:
+The following are items that are addressed in an architecture/code review:
 
 **Background information/overview of the project**
 
@@ -76,9 +74,9 @@ The following are items that are address in a architecture/code review:
 - 'Sellability' i.e. is the solution appropriate for the client?
 
 
-**Enterprise Architect **
+**Note: If you are using Enterprise Architect, be aware of technical debt:**
 
-- should have a datetime of the last time the diagram was modified so we have an indication of when it is out of date
-- should have the ability to mark items as ‘todo’. E.g. it would be nice to have an indication of which items on the diagrams have been completed, and which are still pending
+- Add a datetime of the last time the diagram was modified so we have an indication of when it is out of date
+- On your diagrams, be aware that some parts are done and some are not.
 
 
