@@ -22,9 +22,10 @@ Just like a car, applications need servicing and tuning every now and then to st
  
 Different clients need different levels of support. Offer your clients a few different [support <br>offerings](http&#58;//www.ssw.com.au/ssw/Products/ProdCategory.aspx?CategoryID=8SUPP).
 
-1. Maintenance Contract: 1 day a week (or whatever quantity suits), a developer will work on bug fixing and improvements.
-2. Time and Materials or Prepaid: A client can simply call for bug fixing or support as and when needed. However, unless it's a show stopper, often this model can involve waiting for developer availability.
-3. Fixed Price Warranty: For a period after the Sprint Review, (normally 14 or 30 days), bugs will be fixed for free.
+1. Ongoing Maintenance: 1 day a week (or whatever quantity suits), a developer will work on bug fixing and improvements. This is useful because you always know the next day work will be done on the system.
+2. Maintenance Contract: For 10% of the cost of the system per year, all bugs will be fixed, and this way you can be guarenteed the system will keep on running.
+3. Time and Materials or Prepaid: A client can simply call for bug fixing or support as and when needed. However, unless it's a show stopper, often this model can involve waiting for developer availability.
+4. Fixed Price Warranty: For a period after the Sprint Review, (normally 14 or 30 days), bugs will be fixed for free.
 
 
 
@@ -49,9 +50,4 @@ When User Acceptance Testing (UAT) begins, there will be a 30 days warranty peri
 ####  
 
 
-**Leaving Incomplete/Untested Work**
-
-If, at the end of the day, work hasn't been fully tested, or is incomplete and you haven't been booked in for the next day, tell the Product Owner (PO) that issues may arise and further work is likely to be required. After the conversation, email the PO and CC your manager to confirm that further work is required.
-
-E.g. As per our conversation, this work has not yet been tested and may still include bugs. At this stage you would prefer if we did not continue work tomorrow, but I do recommend that we come in and finish soon.
 
