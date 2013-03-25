@@ -13,7 +13,7 @@ authors:
 
 ---
 
- "User Stories" is the new name for "Scenarios" in VSTS 2012, it allows you to collect your user requirements more easily by providing you a template for the title and streamlined UI. 
+ "User Stories" is the new name for "Scenarios" in TFS 2012, it allows you to collect your user requirements more easily by providing you a template for the title and streamlined UI. 
 
 As a &lt;type of User&gt;
 I want &lt;some goal&gt;
