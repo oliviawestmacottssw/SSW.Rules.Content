@@ -16,4 +16,4 @@ Bitly helps you easily save & share links over the web. You can:
 - Share your bitmarks on Facebook, Twitter, or via email
 - Check on your stats to see how your bitmarks fared on the interwebs
 
- ![](/WebSites/Rules-to-better-bit-ly/PublishingImages/bitly-stats.jpg)Figure: bit.ly provides a details stats page
+ ![](/PublishingImages/bitly-stats-general.jpg)Figure: bit.ly provides a detailed stats page for all your links![](/PublishingImages/bitly-stats.jpg)Figure: bit.ly provides a detailed stats page for a single link
