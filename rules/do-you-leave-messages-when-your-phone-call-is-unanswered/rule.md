@@ -8,18 +8,10 @@ authors: []
 ---
 
  If you call a client or team member, and for some reasons he/she do not attend your call, then you MUST leave messages to ensure a response. <br> 
-Your messages must contain     ***your name (firstname and lastname)***,***purpose of calling***, and*** your contact number***. Create a sense of urgency by giving them explicit time frames when you are available.
-
-
-> *Hi Ms. Emma, this is Alvin. Please call me back, thanks.*
-
-
-
-
+Your messages must contain     ***your name (firstname and lastname)***, ***purpose of calling***, and*** your contact number***. Create a sense of urgency by giving them explicit time frames when you are available.
+ *Hi Ms. Emma, this is Alvin. Please call me back, thanks.*
 **Figure: Bad Example - lacking in communication details, reason for calling and sense of urgency**
-
 *Hi Ms. Emma, this is Alvin Shen from SSW. I am calling to follow up our meeting yesterday about your company website. Please return my call on 02 9953 3000. The best time to reach me is between 9 and 11am today, or between 3 and 5pm tomorrow. My number again is 02 9953 3000. Thank you.* 
-
 **Figure: Good Example - This communicates important contact details, a reason for calling and implies a response is needed in the next day or so**
 
 Confirm the voice message with an email.
