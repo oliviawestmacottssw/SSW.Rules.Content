@@ -13,12 +13,11 @@ authors:
 
  
 Do you know you should always use the language of your head office (usually English)?
-Say your language is Chinese, of course local Chinese customers would feel more comfortable communicating in English. The disconnect happens when head office needs to get involved. They cant review emails, read the history of email threads etc. 
-So make it easier to add English speakers into the loop at a moments notice.
-
-
+Say your language is Chinese, of course local Chinese customers would feel more comfortable communicating in English. The disconnect happens when head office needs to get involved. They cant review emails, read the history of email threads etc.
  
-​The most polite way of doing this is to mention in the email why you are using using English. 
+​So make it easier to add English speakers into the loop at a moments notice.
+
+The most polite way of doing this is to mention in the email why you are using using English. 
  
  Hi Joe, hope all is well. I wanted to confirm our conversation....
 Figure: Bad example
