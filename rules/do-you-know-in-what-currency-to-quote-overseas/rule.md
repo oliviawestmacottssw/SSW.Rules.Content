@@ -22,3 +22,5 @@ Figure: Bad example
 The price is 25K USD
 Figure: Good example
 
+
+
