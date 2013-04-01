@@ -17,7 +17,7 @@ Say your language is Chinese, of course local Chinese customers would feel more 
  
 ​So make it easier to add English speakers into the loop at a moments notice.
 
-The most polite way of doing this is to mention in the email why you are using using English. 
+The most polite way of doing this is to mention in the email why you are using English. 
  
  Hi Joe, hope all is well. I wanted to confirm our conversation....
 Figure: Bad example
