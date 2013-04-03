@@ -15,4 +15,4 @@ authors:
 
 <br>This will help to solidify the changes and alleviate confusion.
 
-![](/Communication/RulesToBetterEmail/PublishingImages/AppointmentWithComments.jpg)   Figure: The note in brackets explains the change that has been made
+![](/PublishingImages/AppointmentWithComments.jpg)   Figure: The note in brackets explains the change that has been made
