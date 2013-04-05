@@ -21,5 +21,8 @@ I’m on site with a client setting up their TFS Server. We have the TFS 2010 an
 
  SQL Reporting Services appears happy in the Advanced Configuration Wizard. Anyone have suggestions?
 
- Mike Figure: Good example – this reads a little better** Note:** This is almost as important as the [Do you use balloons instead of a 'Wall of Text'?](/Communication/RulesToBetterEmail/Pages/HowToUseBalloons.aspx) rule.
+ Mike Figure: Good example – this reads a little better
+Your new text should be kept to the left. When quoting text on web pages, other people or quoting past email history, indent it.
+
+**Note:** This is almost as important as the [Do you use balloons instead of a 'Wall of Text'?](/Communication/RulesToBetterEmail/Pages/HowToUseBalloons.aspx) rule.
 
