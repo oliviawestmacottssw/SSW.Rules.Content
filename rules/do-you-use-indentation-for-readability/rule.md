@@ -24,5 +24,7 @@ I’m on site with a client setting up their TFS Server. We have the TFS 2010 an
  Mike Figure: Good example – this reads a little better
 Your new text should be kept to the left. When quoting text on web pages, other people or quoting past email history, indent it.
 
-**Note:** This is almost as important as the [Do you use balloons instead of a 'Wall of Text'?](/Communication/RulesToBetterEmail/Pages/HowToUseBalloons.aspx) rule.
+**Note:** This is almost as important as the [Do you use balloons instead of a 'Wall of Text'?](/Pages/HowToUseBalloons.aspx) rule.
+
+**See Also:** [Do you use &gt; and indentation to keep the context?](/Pages/KeeptheContext.aspx)
 
