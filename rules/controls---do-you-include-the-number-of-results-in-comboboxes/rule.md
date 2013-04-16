@@ -11,9 +11,7 @@ authors:
 
  
 When designing your form, you should try to help your user whenever it's possible. So it's a good idea to include the number of results in ComboBoxes.
-   ​ 
-### For Web Pages
-<dl class="goodImage"><dt> 
+   ​For Web Pages<dl class="goodImage"><dt> 
       <img alt="Combo-box with multiple columns" src="/DesignandPresentation/RulestoBetterInterfacesControls/PublishingImages/combo-box-multiple-col.jpg"> 
    </dt><dd>Figure&#58; Good example – combo-box with multiple columns</dd></dl> Feel free to use our sample:  
 1. Download and install Kendo UI Controls from <br>      [Kendo UI](http&#58;//www.kendoui.com/)
