@@ -25,3 +25,5 @@ authors:
 - Don't skip small words like 'and'
 
  
+**Note:** If you have any working papers (e.g. written notes from a client requesting work), once the work is completed write 'DONE' on the paper and give it to your project manager for filing.
+'Apply changes as per Tony's request for FRDCAPP'Figure: This is an example of a bad timesheet note'CaterPRO! Version 8.3; Fixed Sales Reports (rptSales) (reconciles correctly with Food Sales Summary; Fixed Function Counts (was doublecounting); Fix to DiaryTemplate Updates; Fix to copy of Contacts (frmMoveClientPopup) - primary; Attempt to run CaterPRO! In XP with Alan.' Figure: This is an example of a good timesheet note
