@@ -17,6 +17,6 @@ The problem is you will forget their names after they introduce themselves.
 The fix is to have a piece of paper, (already divided up) so you can write down the names on it in the order that people are sitting.
 
 This ends up being a great reference you can use to address questions directly to participants using their name. This ensures that attendees keep focused as they may directly have questions referencing them.
-<dl class="image"><dt><img src="/Communication/RulesToBetterTraining/PublishingImages/classroom.jpg" alt="">
-   </dt><dd>Figure&#58; For a classroom like this...</dd></dl><dl class="image"><dt><img src="/Communication/RulesToBetterTraining/PublishingImages/names-list.jpg" alt="">
+<dl class="image"><dt><img src="/PublishingImages/classroom.jpg" alt="">
+   </dt><dd>Figure&#58; For a classroom like this...</dd></dl><dl class="image"><dt><img src="/PublishingImages/names-list.jpg" alt="">
    </dt><dd>Figure&#58; ...use a sheet like this</dd></dl>
