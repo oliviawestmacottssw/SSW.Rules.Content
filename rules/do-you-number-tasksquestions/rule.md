@@ -31,5 +31,5 @@ Hi PeterG
 
 
 Good example - the different tasks are clear
-**See also**: [Do you send tasks one email at a time?](/Communication/RulesToBetterEmail/Pages/SendTasksOneEmailAtATime.aspx)
+**See also**: [Do you send tasks one email at a time?](/Pages/SendTasksOneEmailAtATime.aspx)
 
