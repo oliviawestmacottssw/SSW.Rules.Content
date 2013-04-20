@@ -31,5 +31,5 @@ Hi PeterG
 
 
 <font class="ms-rteCustom-FigureGood" size="+0">Good example - the different tasks are clear</font>
-**See also**: [Do you send tasks one email at a time?](/Communication/RulesToBetterEmail/Pages/SendTasksOneEmailAtATime.aspx)
+**See also**: [Do you send tasks one email at a time?](/Pages/SendTasksOneEmailAtATime.aspx)
 
