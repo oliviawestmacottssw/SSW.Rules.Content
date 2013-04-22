@@ -7,4 +7,4 @@ authors: []
 
 ---
 
- Different layouts have different purposes. While the default layout is nice; it's not the only option available. But remember to keep all things in moderation. You want the audience to focus on the content, not guessing what layout the next slide will use.<br> ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/layout.gif) Figure: Don't use the same layout for all slides, instead choose the right 'layout' for the each slide (this is called the layout library) 
+ Different layouts have different purposes. While the default layout is nice; it's not the only option available. But remember to keep all things in moderation. You want the audience to focus on the content, not guessing what layout the next slide will use.<br> ![](/PublishingImages/layout.gif) Figure: Don't use the same layout for all slides, instead choose the right 'layout' for the each slide (this is called the layout library) 
