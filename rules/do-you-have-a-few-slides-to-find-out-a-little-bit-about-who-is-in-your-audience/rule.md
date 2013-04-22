@@ -14,6 +14,6 @@ It is best to confirm who you are speaking to via a few slides. Then you can mak
 - Interesting to them
 - Relevant to them
 
-<dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Communication/RulesToBetterPowerpointPresentations/PublishingImages/developer.gif"> </dt>
-    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Ask &quot;How many are developers here?&quot; </dd></dl><dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Communication/RulesToBetterPowerpointPresentations/PublishingImages/manager.gif"> </dt>
+<dl>    <dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/developer.gif" alt=""> </dt>
+    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Ask &quot;How many are developers here?&quot; </dd></dl><dl>    <dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/manager.gif" alt=""> </dt>
     <dd class="ms-rteCustom-FigureNormal">Figure&#58; Ask &quot;How many are managers here?&quot; </dd></dl>
