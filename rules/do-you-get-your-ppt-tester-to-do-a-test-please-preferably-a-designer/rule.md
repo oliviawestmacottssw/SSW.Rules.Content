@@ -10,5 +10,5 @@ authors: []
  Image is everything. Improve the way you market, educate and promote yourself with striking presentations. Your content might be great - but if it is displayed poorly - it will be overshadowed by its flaws. Use a designer to make your presentation stand out. <br> 
 ## Related links
 
-[Do you conduct a "test please" internally and then with the client?](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)
-![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/before_after.jpg) Figure: Before and after... Designers can make anything look good 
+[Do you conduct a "test please" internally and then with the client?](/do-you-conduct-a-＂test-please＂-internally-and-then-with-the-client)
+![](/PublishingImages/before_after.jpg) Figure: Before and after... Designers can make anything look good 
