@@ -14,4 +14,4 @@ It is best to confirm who you are speaking to via a few slides. Then you can mak
 - Interesting to them
 - Relevant to them
 
-![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/developer.gif) Figure: Ask "How many are developers here?" ![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/manager.gif) Figure: Ask "How many are managers here?" 
+![](/PublishingImages/developer.gif) Figure: Ask "How many are developers here?" ![](/PublishingImages/manager.gif) Figure: Ask "How many are managers here?" 
