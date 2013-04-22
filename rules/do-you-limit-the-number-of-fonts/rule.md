@@ -16,4 +16,4 @@ The rules are:
 - Use one style (eg. bold or color) per slide if possible
 - Steer clear of excessively bright colors or any flourished type face (both are hard to read)
 
-![too many fonts used for headers](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/BadLimitFont.jpg) Figure: Bad Example - 2 fonts are used, 2 styles are used, and flourished type face used. This all makes your slide hard to read for the audience![](/Communication/RulesToBetterPowerpointPresentations/PublishingImages/GoodLimitFont.jpg) Figure: Better Example - Even though there are a lot of words, the main ones are clear because there is only one font used, with color to emphasize
+![too many fonts used for headers](/PublishingImages/BadLimitFont.jpg) Figure: Bad Example - 2 fonts are used, 2 styles are used, and flourished type face used. This all makes your slide hard to read for the audience![](/PublishingImages/GoodLimitFont.jpg) Figure: Better Example - Even though there are a lot of words, the main ones are clear because there is only one font used, with color to emphasize
