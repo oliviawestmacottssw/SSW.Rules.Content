@@ -20,7 +20,7 @@ Sitefinity caches everything, checks licenses, creates in memory pages from the 
 2. Disable Sitefinity modules that you are not using or don't need.
                              We recommend disabling all modules and only enabling items that you require.
     You can access the Module list via the Sitefinity backend.
-![](/WebSites/RulesToBetterSitefinity/PublishingImages/sitefinity-admin-module.jpg)Figure: Administration -&gt; System -&gt; Modules
+![](/PublishingImages/sitefinity-admin-module.jpg)Figure: Administration -&gt; System -&gt; Modules
 3. Ensure that the Sitefinity database is indexed and the Statistics are updated.
 <br>                            This will ensure that the Sitefinity query's remain quick:
 [Sitefinity Database maintenance](http&#58;//www.sitefinity.com/devnet/kb/sitefinity-5-x/sitefinity-database-maintenance.aspx)
