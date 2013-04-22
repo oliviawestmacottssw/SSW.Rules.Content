@@ -14,5 +14,5 @@ Always introduce yourself \*after\* you have asked the audience who they are. Do
 - What you do (your service or product)?
 - What makes you qualified to speak on this topic?
 
-<dl>    <dt><img alt="" class="ms-rteCustom-ImageArea" src="/Communication/RulesToBetterPowerpointPresentations/PublishingImages/aboutAdam.gif"> </dt>
+<dl>    <dt><img class="ms-rteCustom-ImageArea" src="/PublishingImages/aboutAdam.gif" alt=""> </dt>
     <dd class="ms-rteCustom-FigureNormal">Figure&#58; Talk about yourself after you know the audience a little. It is not great to bring up the 'About' slide too early</dd></dl>
