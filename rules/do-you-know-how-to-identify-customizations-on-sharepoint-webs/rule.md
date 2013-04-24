@@ -10,7 +10,7 @@ authors:
 ---
 
  To do a successful migration, you must find all the customizations in your current environment. 
-- Use command "stsadm.exe -o enumallwebs -includefeatures -includewebparts &gt;C:\checkcustomizations.txt" to list all the features and webparts on webs.
+- Use command "**stsadm.exe -o enumallwebs -includefeatures -includewebparts &gt;C:\checkcustomizations.txt**" to list all the features and webparts on webs.
 
 
 1. Run this command on both your current Production environment and Test migration environment to get the list of features and web parts.![GetCustomFeaturesAndWebParts.jpg](/ITAndNetworking/RulesToBetterSharePoint2013Migration/PublishingImages/Pages/Do-you-know-how-to-identify-customizations-on-SharePoint-webs/GetCustomFeaturesAndWebParts.jpg)
@@ -20,7 +20,7 @@ authors:
 - Go to Central Admin site to check which custom WSP package has been deployed
 
 
-1. Go to Central Admin site | System Settings | Manage farm solutions, to look for deployed custom solution package.![CustomSolutionPackages.jpg](/ITAndNetworking/RulesToBetterSharePoint2013Migration/PublishingImages/Pages/Do-you-know-how-to-identify-customizations-on-SharePoint-webs/CustomSolutionPackages.jpg)
+1. Go to **Central Admin site** | **System Settings** | **Manage farm solutions**, to look for deployed custom solution package.![CustomSolutionPackages.jpg](/ITAndNetworking/RulesToBetterSharePoint2013Migration/PublishingImages/Pages/Do-you-know-how-to-identify-customizations-on-SharePoint-webs/CustomSolutionPackages.jpg)
 2. Compare web.config files between Production and Test environment as well to identify custom controls.
 
 
