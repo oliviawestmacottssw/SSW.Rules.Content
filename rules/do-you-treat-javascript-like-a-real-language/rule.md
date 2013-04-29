@@ -14,5 +14,5 @@ Would you put all your C# code in one file? Would you write single modules with 
 It's important to maintain coding standards when writing JavaScript just as you would when writing C#.
 
 
-Where appropriate, try to follow the [Rules to Better Architecture and Code Review](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/) with your JavaScript as well.  In particular, make sure you're still following the SOLID principles as much as you can.
+Where appropriate, try to follow the [Rules to Better Architecture and Code Review](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview) with your JavaScript as well.  In particular, make sure you're still following the SOLID principles as much as you can.
 
