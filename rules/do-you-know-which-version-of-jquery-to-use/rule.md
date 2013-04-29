@@ -15,3 +15,5 @@ authors:
 
 The jQuery authors made a decision to deprecate support for older versions of IE from version 2.0 onwards.  Even though support for these browsers has been discontinued, the authors have commited to maintaining version 1.9 so it's safe to keep using it.
 
+For more information about the changes, see the [jQuery blog post about the version 2.0 release](http&#58;//blog.jquery.com/2013/04/18/jquery-2-0-released/).
+
