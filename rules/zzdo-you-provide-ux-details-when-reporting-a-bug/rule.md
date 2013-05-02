@@ -35,9 +35,11 @@ Me, thinking… "Hmm… let's try the menu at the top..."
 13. Me, gives up… types tv.ssw.com.au to try and get lucky. Huzzah!
 
 Figure: Good example - We can easily identify more the one way to improve the UX
+Better than a good description of the bug is a screen recording. This should be followed for a more detailed report. Use [Snagit](http&#58;//www.techsmith.com/snagit.html) (preferred) or [Jing](http&#58;//www.techsmith.com/jing.html) to record your screen.
+
 ### Related rules
 
-- [Do you know the right way to report bugs?](/Communication/RulesToBetterEmail/Pages/BugReporting.aspx)
+- [Do you know the right way to report bugs?](/do-you-know-the-right-way-to-report-bugs)
 - [Report a Bug or Enhancement](http&#58;//www.ssw.com.au/ssw/Standards/Support/bugreportorenhancement.aspx)
 
 
