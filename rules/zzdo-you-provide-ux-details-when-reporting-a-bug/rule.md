@@ -10,26 +10,34 @@ authors:
 ---
 
  The better you describe the problem you had, the more effective will be the solution. 
-Make sure you always explain and give details of how you got an error or a bad experience.
-Where is TV.SSW on the navigation?Figure: Bad example - Lack of details
+Make sure you always explain and give as much details as you can of how you got an error or a bad experience.
+
+Where is TV.SSW on the navigation? 
+Figure: Bad example - Lack of details
 1. Navigated to ssw.com.au
-2. Me, scrolls down, looking for a big graphic like "CHECK OUT SSW TV! CLICK HERE!"
- <br>(Nothing)
- <br>Me, thinking… "Hmm… let's try the menu at the top..."
+2. Scrolling down looking for a big graphic like "CHECK OUT SSW TV! CLICK HERE!"
+(Nothing)
+Me, thinking… "Hmm… let's try the menu at the top..."
 3. About Us? Nope.
 4. Services? Nope.
 5. Products and Support? Nope.
 6. Training? Nope.
 7. User Group? Nope.
 8. Rules? Nope.
-<br>Me, thinking... "OK. Now where? Most likely, the SSW company description will list it..."
+ Me, thinking... "OK. Now where? Most likely, the SSW company description will list it..."
 9. Navigates to About Us.
 10. Me, scrolls down… nothing.
-<br>Me, thinking... "OK. Weird. Let's go back."
+ Me, thinking... "OK. Weird. Let's go back."
 11. Me, goes back to homepage.
-<br>Me, thinking… "Is there a site map?"
+ Me, thinking… "Is there a site map?"
 12. Scrolls to bottom of page. Clicks sitemap link.
-<br>Me, thinking... "Ctrl+F for TV? Nope."
+ Me, thinking... "Ctrl+F for TV? Nope."
 13. Me, gives up… types tv.ssw.com.au to try and get lucky. Huzzah!
 
 Figure: Good example - We can easily identify more the one way to improve the UX
+### Related rules
+
+- [Do you know the right way to report bugs?](/Communication/RulesToBetterEmail/Pages/BugReporting.aspx)
+- [Report a Bug or Enhancement](http&#58;//www.ssw.com.au/ssw/Standards/Support/bugreportorenhancement.aspx)
+
+
