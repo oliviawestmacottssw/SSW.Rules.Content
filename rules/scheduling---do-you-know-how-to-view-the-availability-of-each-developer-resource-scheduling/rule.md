@@ -24,7 +24,9 @@ The calendar provides          a one page view of everyone’s availability for 
 
 All of the Appointments in the Service Calendar will also sync to the developers' outlook calendars, keeping them up to date with where they need to be, when.
 
- <dl class="image">You have multiple options for ways to fill this data, which you can see in <a href="/Communication/RulesToBetterCRMForUsers/Pages/How-to-book-developers-for-a-project.aspx"><font color="#333333">Scheduling - Do you know how to book developers for a project?</font></a></dl>
+ 
+You have multiple options for ways to fill this data, which you can see in [<font color="#333333">Scheduling - Do you know how to book developers for a project?</font>](/Communication/RulesToBetterCRMForUsers/Pages/How-to-book-developers-for-a-project.aspx)
+
 
 <dl class="image"><dt><img alt="Toolbar CRM section in Inbox" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRMServiceCalendar.jpg"></dt>
             <dd>
