@@ -26,7 +26,7 @@ authors:
 <br>            }            
 <br>        }
 <br>    }Bad example: using custom code – creating a<br>custom event receiver on the item (the item adding event or item updating<br>event)
-![](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/ListValidation.jpg)
+![](/PublishingImages/ListValidation.jpg)
 Good example: using no code – just using the<br>field validation on a list
 <br>A demo of this from Andrew Connell on
 [http://channel9.msdn.com/learn/courses/SharePoint2010Developer/ListsAndSchemas/FieldandListItemValidation/](http&#58;//channel9.msdn.com/learn/courses/SharePoint2010Developer/ListsAndSchemas/FieldandListItemValidation/)
