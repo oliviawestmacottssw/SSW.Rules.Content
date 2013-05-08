@@ -9,7 +9,7 @@ authors:
 
 ---
 
- You will need to update your work item types<br>very frequently once the customization process is started, make sure you have a<br>script like below in your solution, this will help you to upload your<br>process template quickly with one click, which make your development more<br>efficient. ​ECHO OFF
+ ​You will need to update your work item types<br>very frequently once the customization process is started, make sure you have a<br>script like below in your solution, this will help you to upload your<br>process template quickly with one click, which make your development more<br>efficient. ​ECHO OFF
 ECHO \*\*\*\*\*\*\*\*\*\*\*Importing new definitions\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 ECHO ON
 witadmin importwitd /collection:http://%1:8080/tfs/%2 /p:%3 /f:"..\CN.SAC.TfsProcessTemplate\WorkItem ​Tracking\TypeDefinitions\Requirement.xml"
