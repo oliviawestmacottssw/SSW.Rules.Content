@@ -8,7 +8,7 @@ authors: []
 ---
 
  
-A product should not close without providing a warning. We use the following message box to warn the user before closing a program:
+​A product should not close without providing a warning. We use the following message box to warn the user before closing a program:
    ​<dl class="goodImage"><dt><img alt="SSW Exchange Reporter - Are you sure you want to exit?" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/CloseWarning.gif"></dt>
 <dd>Figure&#58; Good Example - Standard warning before a program exits</dd></dl><dl class="code"><dt><pre>        private void OnExit(object sender) 
              &#123; 
