@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Sometime you will need to create duplicate work item<br>types, e.g. a task work item may be clones as PlatformDepTask, SystemDepTask;<br>both of these task work items are sharing the same fields, workflow or layouts,<br>but they are configured to be accessible by different department or there is some other minor differences.
+ ​Sometime you will need to create duplicate work item<br>types, e.g. a task work item may be clones as PlatformDepTask, SystemDepTask;<br>both of these task work items are sharing the same fields, workflow or layouts,<br>but they are configured to be accessible by different department or there is some other minor differences.
 
 You should create a WIT template and use a place<br>holder for the difference, e.g.<br>&lt;WORKITEMTYPE<br>name="xxxxDepNamexxxxTask"&gt;
 
