@@ -12,8 +12,8 @@ authors:
 ---
 
  
-Customized process template is very important asset for your team, you should use Source Control to store the work-in-progress template so you can track the changes and avoid mistakes. 
-![CheckInTemplateIntoSourceControl.png](/TFS/RulesToBetterTFSCustomization/PublishingImages/CheckInTemplateIntoSourceControl.png)
+​Customized process template is very important asset for your team, you should use Source Control to store the work-in-progress template so you can track the changes and avoid mistakes. 
+![CheckInTemplateIntoSourceControl.png](/PublishingImages/CheckInTemplateIntoSourceControl.png)
 Figure: customized process template in source control​
-   ​You should also keep a version history log in ProcessTemplate.xml so you can track the deployed version easily.![](/TFS/RulesToBetterTFSCustomization/PublishingImages/KeepHistoryForTemplate.png)
+   ​You should also keep a version history log in ProcessTemplate.xml so you can track the deployed version easily.![](/PublishingImages/KeepHistoryForTemplate.png)
 **Figure: ProcessTemplate.xml with version history log **
