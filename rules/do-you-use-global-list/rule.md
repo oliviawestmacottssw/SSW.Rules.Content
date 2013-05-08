@@ -10,7 +10,7 @@ authors:
 ---
 
  
-Global list could be referenced in multiple work item types, if you are using the same list in different places and want to keep the drop down items con​sistent, global list is the best practise.
+​Global list could be referenced in multiple work item types, if you are using the same list in different places and want to keep the drop down items con​sistent, global list is the best practise.
  
 ​​​​​&lt;FIELD<br>name="Discipline"<br>refname="Microsoft.VSTS.Common.Discipline"<br>type="String"&gt;
   &lt;HELPTEXT&gt;The discipline to which the task belongs&lt;/HELPTEXT&gt;
