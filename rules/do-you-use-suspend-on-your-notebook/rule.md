@@ -17,7 +17,7 @@ authors:
  
 Your notebook should also be configured so that if it is left in suspend for a long period of time (more than 10 minutes) it will automatically  hibernate. However, your notebook should not automatically suspend or hibernate if the lid is simply closed. Both of these settings are in the Power Options in Control Panel.
 
- ![PowerOptions.gif](/Management/DeadTime/PublishingImages/PowerOptions.gif)
+ ![PowerOptions.gif](/PublishingImages/PowerOptions.gif)
 
 
 
