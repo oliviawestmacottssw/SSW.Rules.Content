@@ -31,4 +31,16 @@ public ActionResult Edit(string employeename, int id)
 }
 ```
 
-Figure: Good example - the comment says it all
+Figure: Good example - the comment says it all  Wordpress and Stack Overflow have URL formats that do this very well:
+
+
+
+http://tv.ssw.com/3102/business-valueGood example: If the "business-value" part of the URL changes, the page will redirect to the correct location.
+
+
+
+
+http://stackoverflow.com/questions/729921/settimeout-or-setinterval
+
+Figure: Good example - If the "settimeout-or-setinterval" part of th eURL changes, the page will redirect to the correct location.
+
