@@ -13,19 +13,11 @@ authors:
 
 
 
-<span class='intro'> <p><span style="line-height&#58;20px;">The goal is simple, accurate hours and good comments. </span></p><p><span style="line-height&#58;20px;">​There are&#160;4 ways developers can keep track of what they have been working on when the time comes to enter their timesheets&#58;</span></p> </span>
+<span class='intro'> You should carry your timesheets with you all the time. </span>
 
-<ol><li>Fully electronic - Enter your timesheets daily 
-      <strong>(recommended)</strong></li><li>Keep details in OneNote or Notepad++</li><li>Jot it down on paper (i.e. a physical diary)</li><li>Copy and paste your TFS check ins. The comments from these check-ins make great comments for your timesheet entries</li></ol><p><strong>Tip #1&#58;&#160;​</strong><a href="http&#58;//www.ssw.com.au/ssw/TimePRONET/">SSW TimePRO​</a> automatically pulls TFS check-ins in for you.</p><p>
-   <strong>Tip #2&#58;</strong> If you're using Microsoft 
-   <a href="/scheduling-do-you-know-how-to-book-developers-for-a-project">CRM for bookings</a>, you will have an appointment every day in your outlook that you can use to know what client you worked for.</p><p>
-   <strong>Tip #3​&#58;</strong> As a last resort, you can copy and paste the subject from your emails to the client. Check your&#160;Sent Items to see what work you completed in the day. This should be simple if you're sending 
-   <a href="/dones-do-you-include-useful-details-in-your-done-email">&quot;Done Emails&quot;</a>.</p><h3>Why have we moved away from Physical Diaries?</h3>
-<p>Back in the day, people used to keep physical diaries to keep track of what work they did, and then they'd get the client to sign it each day they were on site to ensure they were communicating. This is now all covered by TFS check ins, CRM bookings, Outlook emails, and 
-   <a href="/methodology-do-you-do-daily-scrums-(aka-stand-up-meetings)">Daily Scrums</a>​ to ensure communication.</p><dl class="badImage"><dt>
-      <img alt="Keep your Diary or timesheet with you" src="/PublishingImages/diary.jpg" />
-   </dt><dd>Figure&#58; Bad Example – Physical Diaries are no longer needed</dd></dl><dl class="goodImage"><dt> 
-      <img alt="Keep your Diary or timesheet with you" src="/PublishingImages/TFS-comments.png" /> 
-   </dt><dd>Figure&#58; Good Example – TFS Check in comments are a very accurate recording of what work was done</dd></dl> ​
+<dl class="image"><dt>
+      <img alt="Keep your Diary or timesheet with you" src="/Management/Rules-to-Better-Timesheets/PublishingImages/diary.jpg" />
+   </dt><dd>Figure&#58; Keep your hard copy Diary or timesheet with you.</dd></dl><ul><li>Carry your diary with you at all times</li><li>Have your diary open next to you at ALL TIMES</li><li>Stamp your ENTIRE diary with the 'Development Completed to a Professional Standard' stamp at the beginning of every year. NOTE&#58; If a dispute arises with a client, hiring an Expert to objectively determine whether work is of a good quality is a very expensive exercise. The stamp establishes that clients acknowledge the work is of a professional standard</li><li>Everything you write in your diary must be clear and legible. (Assume another person would be able to enter from it)</li><li>Once your timesheets are entered electronically write an 'e' with a circle around it to show that they have been 'entered'</li><li>If you are working on a fixed price project write 'FP' with a circle around it to show that is it fixed-price work</li><li>Mark the time that you do your daily scrum meeting with an 'S' (in a circle)</li><li>Every day you are to have your diary signed by your manager or the client you are working for. Do not leave the client site until someone has signed your diary</li><li>Your TimePRO! entry is to be an exact replica of your hard copy diary entry. If you change one record, change the other.</li></ul><dl class="image"><dt><img alt="mark your timesheet" src="/Management/Rules-to-Better-Timesheets/PublishingImages/timesheets-marks.jpg" />
+</dt><dd>Figure&#58; How to show &quot;entered&quot; and &quot;fixed price&quot; on your timesheets</dd></dl>
 
 
