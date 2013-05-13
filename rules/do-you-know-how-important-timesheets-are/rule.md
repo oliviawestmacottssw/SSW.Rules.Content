@@ -12,5 +12,5 @@ authors:
 ---
 
  
-Timesheets are an accurate record of the hours and work you complete in a day. **timesheets are the lifeblood of the company** and are the ultimate source of everyone's income and are recorded into your hard copy diary. All your company staff members are to keep diaries.
+Timesheets are an accurate record of the hours and work completed in a day. **Timesheets are the lifeblood of the company** and are the ultimate source of everyone's income.
  ![Bucket list](/Management/Rules-to-Better-Timesheets/PublishingImages/Bucket-list.jpg)Figure: Timesheets come first, always!
