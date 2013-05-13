@@ -11,15 +11,14 @@ authors:
 
 ---
 
- You should carry your timesheets with you all the time. ![Keep your Diary or timesheet with you](/Management/Rules-to-Better-Timesheets/PublishingImages/diary.jpg)Figure: Keep your hard copy Diary or timesheet with you.
-- Carry your diary with you at all times
-- Have your diary open next to you at ALL TIMES
-- Stamp your ENTIRE diary with the 'Development Completed to a Professional Standard' stamp at the beginning of every year. NOTE: If a dispute arises with a client, hiring an Expert to objectively determine whether work is of a good quality is a very expensive exercise. The stamp establishes that clients acknowledge the work is of a professional standard
-- Everything you write in your diary must be clear and legible. (Assume another person would be able to enter from it)
-- Once your timesheets are entered electronically write an 'e' with a circle around it to show that they have been 'entered'
-- If you are working on a fixed price project write 'FP' with a circle around it to show that is it fixed-price work
-- Mark the time that you do your daily scrum meeting with an 'S' (in a circle)
-- Every day you are to have your diary signed by your manager or the client you are working for. Do not leave the client site until someone has signed your diary
-- Your TimePRO! entry is to be an exact replica of your hard copy diary entry. If you change one record, change the other.
+ You should carry your timesheets with you all the time. 
+There are many ways developers can keep track of what they have been working on when it comes time to enter their timesheets.
 
-![mark your timesheet](/Management/Rules-to-Better-Timesheets/PublishingImages/timesheets-marks.jpg)Figure: How to show "entered" and "fixed price" on your timesheets
+If you're using [CRM for bookings](/Communication/RulesToBetterCRMForUsers/Pages/How-to-book-developers-for-a-project.aspx), you will have an appointment every day in your outlook that you can use to know what client you worked for.
+
+You can use Outlook sent items to see what work you completed in the day, especially if you're sending ["Done Emails"](/Communication/RulesToBetterEmail/Pages/DoYouIncludeUsefulDetailInYourDONEEmail.aspx).
+
+The best way to know what work you did is looking at your TFS check ins. The comments from these check-ins also make great comments for your timesheet entries. [SSW TimePro](https&#58;//timepro.ssw.com.au/Home/Easy#/bored) automatically pulls these in for you.
+![Keep your Diary or timesheet with you](/Management/Rules-to-Better-Timesheets/PublishingImages/TFS-comments.png)Figure: Good Example – TFS Check in comments are a very accurate recording of what work was done![Keep your Diary or timesheet with you](/Management/Rules-to-Better-Timesheets/PublishingImages/diary.jpg)Figure: Bad Example – Physical Diaries are no longer needed
+Back in the day, people used to keep physical diaries to keep track of what work they did, and then they'd get the client to sign it each day they were on site to ensure they were communicating. This is now all covered by TFS check ins, CRM bookings, Outlook emails, and [Daily Scrums](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)​ to ensure communication.
+
