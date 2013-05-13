@@ -12,15 +12,14 @@ authors:
 ---
 
  
-These are the essential fields for you timesheet:
+These are the essential fields for your timesheets:
 
 1. Client ID - or Client Name
 2. "On-Site" or "Off-Site"
-3. Start time & End time.
-4. Billable time is highlighted
-5. Project Name
-6. Break - Minimum 0.5 hours for time &gt;5.5 hours, greater if you have a longer break
-7. Who you were working with that day - both your company and Client people. We then know if we are missing any timesheets
-8. Version #
+3. Amount of time
+4. Project Name
+5. Break - Minimum 0.5 hours for time &gt;5.5 hours, greater if you have a longer break
+6. Who you were working with that day - both your company and Client people. We then know if we are missing any timesheets
+7. Version #
 
  
