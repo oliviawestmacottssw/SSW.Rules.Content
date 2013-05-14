@@ -11,10 +11,9 @@ authors:
 
 ---
 
- You should carry your timesheets with you all the time. 
-There are many ways developers can keep track of what they have been working on when it comes time to enter their timesheets.
-
-If you're using [CRM for bookings](/Communication/RulesToBetterCRMForUsers/Pages/How-to-book-developers-for-a-project.aspx), you will have an appointment every day in your outlook that you can use to know what client you worked for.
+ 
+​There are many ways developers can keep track of what they have been working on when it comes time to enter their timesheets.​
+ If you're using [CRM for bookings](/Communication/RulesToBetterCRMForUsers/Pages/How-to-book-developers-for-a-project.aspx), you will have an appointment every day in your outlook that you can use to know what client you worked for.
 
 You can use Outlook sent items to see what work you completed in the day, especially if you're sending ["Done Emails"](/Communication/RulesToBetterEmail/Pages/DoYouIncludeUsefulDetailInYourDONEEmail.aspx).
 
