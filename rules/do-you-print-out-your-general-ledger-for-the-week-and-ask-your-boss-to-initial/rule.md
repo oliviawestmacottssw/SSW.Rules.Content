@@ -10,7 +10,9 @@ authors:
 ---
 
  
-You should print out your general ledger for the week and then ask your boss to initial with "cheque number and memo descriptions good".
+In your first month as an Accountant for a new company, you should print out the general ledger for the week and ask your boss to initial to say that the "cheque numbers and memo descriptions are good".
  
-This is very important task for your first month in the job, otherwise you may find yourself going back and have to fix up all data. Do whatever you have to do e.g. drive to your boss' house to get this done! It can save your days off work.
+It's good to catch any mistakes early, so that you know the requirements early on and don't have to go back and fix up large amounts of data later.
+
+Do whatever you have to do e.g. drive to your boss' house to get this done! It can save you days of work down the track.
 ![](/Management/Rules-to-Better-Accounting/PublishingImages/ledger-for-week.jpg)Figure: Weekly ledger
