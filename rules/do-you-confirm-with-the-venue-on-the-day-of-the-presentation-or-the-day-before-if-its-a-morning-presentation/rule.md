@@ -9,7 +9,9 @@ authors:
 
 ---
 
- Enter Intro Text 
+ 
+Make sure that the venue is prepared for the speaker to arrive.
+​ 
 On the day of the presentation (or the day before for a morning presentation).
 
 1. Call the venue and confirm the room will be available and that the seating will be organised in a 'lecture' or 'classroom'​ style
