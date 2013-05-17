@@ -9,4 +9,6 @@ authors:
 
 ---
 
- Enter Intro Text 
+ 
+Many of our speakers have hundreds or thousands of followers on social media. To get the best attendance for the user group the speaker should announce on through as many media channels as possible that they are presenting at the user group.
+​ 
