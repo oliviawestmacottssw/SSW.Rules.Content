@@ -18,13 +18,13 @@ Whether on your TFS check in comments, or your timesheet entries, there are a fe
 - The term 'Investigated and changed' is to be preferred over 'Fixed bug'.
 <br>                        'Bug' gives the impression that the problem was solely the developer's fault, when often most fixes are to do with changes as a result of unspecified work (extra validation, extra testing or gold plating).
 'Fixed Bug on customer form'Figure: Bad example'Investigated and improved the  validation on customer form to enable saving when Customer Name is &gt; 100 characters' Figure: Good example<br>                        Note: Of course, if the problem was the developers fault, you can still use 'bug' when appropriate. <br>
-- Be specific about what you did. e.g.
-    - If you create a new form, write 'Created frmClient',
-    - If you are adding a button to a form write 'Added btnAddNew to frmClient'
-    - If you are trying to find a bug write 'Investigated error on frmClientDiary'.
-    - If you fix something, write 'Resolved'.
-    - If you are making something faster, write 'Optimized procClientDiary'.
-    - If you are writing stored procs, write down their names
+- Be specific about what you did. e.g. 
+If you create a new form, write 'Created frmClient'.
+If you are adding a button to a form write 'Added btnAddNew to frmClient'.
+If you are trying to find a bug write 'Investigated error on frmClientDiary'. 
+If you fix something, write 'Resolved'. 
+If you are making something faster, write 'Optimized procClientDiary'. 
+If you are writing stored procs, write down their names.
 - Follow the normal rules of English, use normal sentence structure not note style
 - Use capital letters appropriately - if it is a Proper Noun use a capital - e.g. Adam Cogan, SQL Server, Toyota is ok, Website is not
 - Don't start a new line for every detail (it takes up too much room on the invoice)
