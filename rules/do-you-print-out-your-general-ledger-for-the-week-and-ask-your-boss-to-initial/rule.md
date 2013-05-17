@@ -15,4 +15,4 @@ In your first month as an Accountant for a new company, you should print out the
 It's good to catch any mistakes early, so that you know the requirements early on and don't have to go back and fix up large amounts of data later.
 
 Do whatever you have to do e.g. drive to your boss' house to get this done! It can save you days of work down the track.
-![](/Management/Rules-to-Better-Accounting/PublishingImages/ledger-for-week.jpg)Figure: Weekly ledger
+![](/Management/Rules-to-Better-Accounting/PublishingImages/ledger-for-week.png)Figure: Weekly ledger
