@@ -28,9 +28,9 @@ Bad Example: Scenario where developer bills a partial day
 - The full 8 hours is billed to the client
 
 Good Example: The developer knows ahead of time what he’s working on and bills the full day
-The bad example scenario is no longer acceptable as the full day will be billed to the client, so it's up to you to make sure you are as productive as possible
+The bad example scenario is not acceptable as the full day will be billed to the client, so it's up to you to make sure you are as productive as possible
 
-The major benefit of this is that the Service Calendar will be an accurate representation of what will be worked, and when a client thinks they have a resource booked for a day, they do in fact get the full day.
+The major benefits of this is that the Service Calendar will be an accurate representation of what will be worked, and when a client thinks they have a resource booked for a day, they do in fact get the full day.
 
 There will of course be exceptions, such as emergencies or urgent work coming up, but 90% of the time, full days should be billed to 1 client.
 ![CRM showing timesheets](/Management/Rules-to-Better-Timesheets/PublishingImages/CRM-timesheets.jpg)Figure: Your timesheets for next week should end up looking a lot like your original bookings (in our case this is shown in the CRM service calendar)
