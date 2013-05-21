@@ -22,8 +22,8 @@ Check-in policies are a great way to enforce code quality before it hits your so
 1. Click Settings in the Team Explorer Home hub
 2. Click Source Control in the Team Project section (not Team Project Collection)
 3. Open the Check-in Policy tab
-4. Click Add... and select the check-in policies above. If you don’t have SSW Code Auditor installed, download it!
+4. Click Add... and select the check-in policies above. If you don’t have SSW Code Auditor installed, [download it](http&#58;//www.ssw.com.au/ssw/codeauditor/)​!
 
-<dl class="image"><dt>
-      <img src="/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/checkin-policies.jpg" alt="check in policies">
+<dl class="image"><dt> 
+      <img src="/PublishingImages/checkin-policies.jpg" alt="check in policies"> 
    </dt><dd>Figure&#58; Choose check-in policies in TFS</dd></dl>​  
