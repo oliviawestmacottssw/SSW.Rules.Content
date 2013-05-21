@@ -9,4 +9,4 @@ authors:
 
 ---
 
- Video thumbnails should entice a visitor to watch the video. We find that images are better than text. If text is used make sure that it is not obstructed by the play button. ![Text is obstructed by the play button](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/video-thumb-bad.jpg)Figure: Bad example – Text is obstructed by the play button![This image lets a visitor know that the video is an interview](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/video-thumb-good.jpg)Figure: Good Example – This image lets a visitor know that the video is an interview
+ ​Video thumbnails should entice a visitor to watch the video. We find that images are better than text. If text is used make sure that it is not obstructed by the play button. ![Text is obstructed by the play button](/PublishingImages/video-thumb-bad.jpg)Figure: Bad example – Text is obstructed by the play button![This image lets a visitor know that the video is an interview](/PublishingImages/video-thumb-good.jpg)Figure: Good Example – This image lets a visitor know that the video is an interview
