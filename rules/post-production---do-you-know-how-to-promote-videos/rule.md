@@ -12,7 +12,7 @@ authors:
 ---
 
  ​
-​To ensure your videos gain maximum exposure, you need to promote them in various ways. The following are the steps to do this.
+​​To ensure your videos gain maximum exposure, you need to promote them in various ways. The following are the steps to do this.
  
 1. ## Add to social Media accounts
     Add link to the new video to all social media accounts including:
