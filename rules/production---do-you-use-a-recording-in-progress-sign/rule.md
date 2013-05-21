@@ -9,8 +9,12 @@ authors:
 
 ---
 
- ​Unwanted noises such as people walking and talking can ruin a recording, the best way to avoid this is to use a recording in progress sign that informs people who are passing through the area that they need to be quite and/or leave the area. 
-​![Recording sign 2.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Recording%20sign%202.jpg)
+ ​Unwanted noises such as people walking and talking can ruin a recording. If you have this problem, the best way to avoid it is to use a recording in progress sign that informs people who are passing through the area that they need to be quite and/or leave the area. 
+​![RecordingInProgress_BadExample.psd](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/RecordingInProgress_BadExample.psd)
+
+Figure: Bad Example - This design does not imply a sense of alert​. You need something that is going to catch the attention of people and imply an important message.
+
+![Recording sign 2.jpg](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Recording%20sign%202.jpg)
 
 Figure: Example image of a 'Recording in Progress' sign.
 
