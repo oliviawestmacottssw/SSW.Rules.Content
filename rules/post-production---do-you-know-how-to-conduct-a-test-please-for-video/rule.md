@@ -8,18 +8,14 @@ authors: []
 ---
 
  
-At SSW we conduct an internal and external test procedure for our videos. This ensures that we meet our internal standards and follow the necessary rules that relate to video content creation.
+​At SSW we conduct an internal and external test procedure for our videos. This ensures that we meet our internal standards and follow the necessary rules that relate to video content creation.
 
 We can also identify errors and inconsistencies that can be addressed for a second edit, before going live on SSW TV.​
  
 
 1. Complete the video editing (Version 1)
     Produce your first edit of your video. If necessary follow the Post Production rules i.e. ['Do you use cutaways?'](/DesignandPresentation/RulesToBetterVideoRecording/Pages/Do-you-use-cutaways.aspx), ['Do you add a Call to Action?'](/DesignandPresentation/RulesToBetterVideoRecording/Pages/Adding-a-call-to-action.aspx).
-2. Upload to Wistia 
-
-
-| <br><br>| <br><br>|   | Content Editor | <br>[![Content Editor Web Part Menu](/_layouts/images/wpmenuarrow.png)](/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx# "Content Editor Web Part Menu")  |  |   |<br>| --- | --- | --- | --- | --- |<br><br> |<br>| --- |<br>| <br>Cannot retrieve the URL specified in the Content Link property. For more assistance, contact your site administrator.<br> |<br><br> |
-| --- |
+2. Upload to Wistia
 3. Upload your first edit to Wistia
     1. Send test please to Marlon or Uly and Adam
     2. Feedback must be done within 48 hours
