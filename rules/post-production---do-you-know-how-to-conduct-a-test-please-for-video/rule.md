@@ -8,7 +8,7 @@ authors: []
 ---
 
  
-​At SSW we conduct an internal and external test procedure for our videos. This ensures that we meet our internal standards and follow the necessary rules that relate to video content creation.
+​​At SSW we conduct an internal and external test procedure for our videos. This ensures that we meet our internal standards and follow the necessary rules that relate to video content creation.
 
 We can also identify errors and inconsistencies that can be addressed for a second edit, before going live on SSW TV.​
  
