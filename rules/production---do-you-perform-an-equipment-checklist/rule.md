@@ -18,7 +18,7 @@ As part of the checklist, it is also important to test the equipment beforehand.
 
 Here is an example of an equipment checklist:
 
-![Equipment checklist.png](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/Equipment%20checklist.png)
+![SSWTV_EquipmentChecklist.png](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/SSWTV_EquipmentChecklist.png)
 
-Figure: Good example. It's ideal to have two columns so you can check off items when leaving multiple locations.
+Figure: Good example. It's ideal to have two columns so you can check off items when leaving multiple locations, also extra rows might come in useful if there's extra equipment.
  
