@@ -21,13 +21,13 @@ If you are unaware of this, it can quickly add up and either burn through your f
 Having Diagnostics enabled can contribute 25 transactions per minute, this is 36,000 transactions per day.
 
 Question for Microsoft: Is this per Web Role?
-![Check properties](/SoftwareDevelopment/Rules-to-Better-Azure/PublishingImages/azure-check-properties.jpg)Figure: Check the properties of your web and worker role configuration files![Disable Diagnostics](/SoftwareDevelopment/Rules-to-Better-Azure/PublishingImages/azure-disable-diagnostics.jpg)Figure: Disable diagnostics
+![Check properties](/PublishingImages/azure-check-properties.jpg)Figure: Check the properties of your web and worker role configuration files![Disable Diagnostics](/PublishingImages/azure-disable-diagnostics.jpg)Figure: Disable diagnostics
 ## Disable IntelliTrace and Profiling
-![Azure publishing settings](/SoftwareDevelopment/Rules-to-Better-Azure/PublishingImages/azure-publishing-settings.jpg)Figure: When publishing, ensure that IntelliTrace and Profiling are both disabled
+![Azure publishing settings](/PublishingImages/azure-publishing-settings.jpg)Figure: When publishing, ensure that IntelliTrace and Profiling are both disabled
 ## Robots.txt 
 
 Search bots crawling your site to index it will lead to a lot of transactions. Especially for web "applications" that do not need to be searchable, use Robot.txt to save transactions.
-![Place robots.txt](/SoftwareDevelopment/Rules-to-Better-Azure/PublishingImages/azure-robots.jpg)Figure: Place robots.txt in the root of your site to control search engine indexing
+![Place robots.txt](/PublishingImages/azure-robots.jpg)Figure: Place robots.txt in the root of your site to control search engine indexing
 ## Continuous Deployment
 
 When deploying to Azure, the deployment package is loaded into the Storage Account. This will also contribute to the transaction count.
