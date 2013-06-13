@@ -23,12 +23,14 @@ Glimpse lets you find useful information like:
 
 The new version of Glimpse now also gives you a Heads Up Display (HUD) showing you important information all the time.  While developing, it's a good idea to keep Glimpse open so you can see any issues as soon they come up.
 
-![GlimpseHeadsUpDisplay.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/GlimpseHeadsUpDisplay.png)
+![GlimpseHeadsUpDisplay.png](/PublishingImages/GlimpseHeadsUpDisplay.png)
 
 Figure: The new Glimpse Heads Up Display
 
+For more information on what the HUD provides, see [Damian Brady's blog post​](http&#58;//blog.damianbrady.com.au/2013/06/12/glimpse-heads-up-display-released/).
+
 Glimpse is available on NuGet, so it’s a simple matter to get it up and running on your application. You can find out more from [their website](http&#58;//getglimpse.com/).
-![glimpse.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/glimpse.png) Figure: Glimpse in action - We can see which routes were chosen for this page, and the parameters used by the controller 
+![glimpse.png](/PublishingImages/glimpse.png) Figure: Glimpse in action - We can see which routes were chosen for this page, and the parameters used by the controller 
 ## Securing Glimpse for production use
 
 Glimpse is very powerful but there are some considerations to be addressed before using it on Production.
