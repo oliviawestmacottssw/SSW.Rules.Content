@@ -22,7 +22,7 @@ The common ways to customize are:
 
 
 The diagram below briefly outlines what are possible supported methods of customization.
-![ Microsoft CRM Customization Architecture ](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/PublishingImages/CRM_CustomizationArchitectrue.jpg)              Figure: Microsoft CRM Customization Architecture<br>            
+![ Microsoft CRM Customization Architecture ](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/PublishingImages/CRM_Customization_Architecture.JPG)              Figure: Microsoft CRM Customization Architecture<br>            
 Refer to P19 of the CRM Customization Manual Course 8525A for a more in depth discussion.
 
 PS: For CRM 3.0 you can't find everything on the web - you will need the CRM Customization Manual Course 8525A - you have to buy it from Microsoft :-(
