@@ -11,7 +11,7 @@ authors:
 
 ---
 
-
+ 
 History
 
 CRM 3.0 is in .NET 1.1 so it was designed to work with:
@@ -34,11 +34,11 @@ CRM 2011 is designed to work with:
 - .NET Framework 4.0 for Plugins, .NET Framework 4.0 or 3.5 for Visualizations (Charts)
 
 
-Make sure you are using the correct version of Visual Studio to edit reports, either Visual Studio 2008 or Visual Studio 2010 or **even better use Visual Studio 2012 and SSDT-BI to edit Report files**.
+Make sure you are using the correct version of Visual Studio to edit reports, either Visual Studio 2008 or Visual Studio 2010 or     **even better use Visual Studio 2012 and SSDT-BI to edit Report files**.
 
 The benefit of using SSDT-BI is you will be able to target SQL Reporting Services 2008-2012 without having different versions of Visual Studio installed.
 
-SSDT-BI can be downloaded from: [http://www.microsoft.com/en-au/download/details.aspx?id=36843](http&#58;//www.microsoft.com/en-au/download/details.aspx?id=36843)
+SSDT-BI can be downloaded from:     [http://www.microsoft.com/en-au/download/details.aspx?id=36843](http&#58;//www.microsoft.com/en-au/download/details.aspx?id=36843)
  
 
 
