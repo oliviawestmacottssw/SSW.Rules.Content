@@ -21,11 +21,11 @@ Figure: Good Example - You'll get exactly what you want. Even better, use screen
 **One Email per Item**
 
 
-The best way for this to work is to break tasks into the smallest possible [bite size pieces](/Management/RulesToSuccessfulProjects/Pages/SpecinBiteSizePieces.aspx) and ensure that those pieces are in the project plan explicitly.
+The best way for this to work is to break tasks into the smallest possible [bite size pieces](/management-do-you-spec-in-bite-sized-pieces) and ensure that those pieces are in the project plan explicitly.
 
 Sometimes software developers miss a related item which you might consider 'blindingly obvious.' For example you might ask them to fix a combo box on one form in a legacy application. But they mightn't know about the three other forms that the same type of combo appears on. So if you also want them fixed, then let them know about them!
 
 **Get UI Changes OKed**** **
 
-Insist your software consultants [conduct specifications by creating mock-ups](/Management/RulesToSuccessfulProjects/Pages/SpecificationByMockUp.aspx).
+Insist your software consultants [conduct specifications by creating mock-ups](/storyboarding-do-you-conduct-specification-analysis-by-creating-mock-ups).
 
