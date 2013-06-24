@@ -10,10 +10,10 @@ authors:
 ---
 
  
-It's is important to use consistent language when talk about changes we make to our CRM environment. The term configuration and customization are sometimes used interchangeably. At SSW we use the follow to differentiate them: Configuration, Customization and Extending.
+It is important to use consistent language when talking about changes we make to our CRM environment. The terms configuration and customization are sometimes used interchangeably. At SSW we use the following to differentiate them: Configuration, Customization and Extending.
 
 
- **Configuration **applies to any changes made to existing options available within the default installation of CRM, examples might include change the default currency from USD to AUD or the way emails are sent to using the Email Router instead of Outlook etc.
+ **Configuration **applies to any changes made to existing options available within the default installation of CRM, examples might include changing the default currency from USD to AUD or the way emails are sent; using the Email Router instead of Outlook etc.
 Configuration applies to objects like: Business Units, Security Roles, Users, Teams, Field Security, Auditing, and Solutions
 
 **Customization** is anything hat can be done within CRM without resorting to the SDK or external code. Adding new fields to an existing entity, creating new entities, option sets, reports etc.
