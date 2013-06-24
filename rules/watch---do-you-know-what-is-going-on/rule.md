@@ -16,7 +16,7 @@ With any professional consultant or tradesman you should always take a hands-on 
 
 Of course, as your relationship builds with the consultant or tradesman, and they become more aware of your expectations, you can divulge greater trust and leave them to it.
 
-So you should insist that your software consultants [maintain verbal contact](/Management/RulesToSuccessfulProjects/Pages/Verbalcontact.aspx) with you (before resorting to emails).
+So you should insist that your software consultants [maintain verbal contact](/management-do-you-maintain-verbal-contact-with-your-client) with you (before resorting to emails).
 
 They should then use “as per our conversation” follow up emails.
 
