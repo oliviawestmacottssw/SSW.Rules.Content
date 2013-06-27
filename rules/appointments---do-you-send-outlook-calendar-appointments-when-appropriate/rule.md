@@ -20,5 +20,7 @@ If the appointment is for **3 days or less**, send a separate appointment for ea
 ![Bad Multiple Day Appointment](/Communication/RulesToBetterEmail/PublishingImages/BadMultipleDayAppointment.gif) Figure: Bad Example - Multiple-day appointments appear hidden at the top of your Outlook calendar, so you might miss it, thinking that the time is free ![Good Single Day Appointments](/Communication/RulesToBetterEmail/PublishingImages/GoodSingleDayAppointments.gif) Figure: Good Example - Send a separate appointment for each day so you can clearly see it in your Outlook calendar
 
 
+You should always have calendar on your phone,<br>so we can quickly add a client booking into the calendar, then add a note what<br>to do with CRM (e.g. Uly please set regarding flag)​.
+
 
 
