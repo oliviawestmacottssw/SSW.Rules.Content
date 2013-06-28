@@ -14,6 +14,10 @@ authors:
 
 To use the CRM 2011 Custom Code Validation Tool, download the zip file from Microsoft and install the solution. Once install in CRM you will be able to run the validation tool over you JavaScript. Issues in red highlight depreciated functions and should be fixed immediately, issues in blue are uses of undocumented function, while not as important should be checked as well.
 
+![CRM-2011-Custom-Code-Validation-Tool.png](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/PublishingImages/CRM-2011-Custom-Code-Validation-Tool.png)
+
+Figure: Using Custom Code Verification Tool
+
 Download the CRM 2011 Custom Code Validation Tool from: [http://www.microsoft.com/en-us/download/details.aspx?id=30151](http&#58;//www.microsoft.com/en-us/download/details.aspx?id=30151)
 
 
