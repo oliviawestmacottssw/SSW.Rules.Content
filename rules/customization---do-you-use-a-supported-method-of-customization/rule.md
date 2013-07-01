@@ -17,12 +17,12 @@ The common ways to customize are:
 1. Use the designer to add Entities and Forms (aka Tables and Forms)
 2. Write SQL Reporting Services Reports
 3. Write workflows with the CRM designer
-4. Write workflows with VS.NET and .NET 3.0 WF (new in CRM 4.0)
+4. Write workflows with VS.NET and .NET 3.0 WF (new since CRM 4.0)
 5. Write callouts with VS.NET (the extension points made available)
 
 
 The diagram below briefly outlines what are possible supported methods of customization.
-![ Microsoft CRM Customization Architecture ](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/PublishingImages/CRM_Customization_Architecture.JPG)              Figure: Microsoft CRM Customization Architecture<br>            
+![ Microsoft CRM Customization Architecture ](/PublishingImages/CRM_Customization_Architecture.JPG)              Figure: Microsoft CRM Customization Architecture<br>            
 Refer to P19 of the CRM Customization Manual Course 8525A for a more in depth discussion.
 
 PS: For CRM 3.0 you can't find everything on the web - you will need the CRM Customization Manual Course 8525A - you have to buy it from Microsoft :-(
