@@ -11,7 +11,7 @@ authors:
 
 ---
 
- CRM 2011 regularly receives updates, known as Rollups. Rollups a are a set of cumulative updates and patches. It is important to ensure you are up to date as there many great enhancements (and the odd bug fix) that are included over time.  
+ CRM 2011 regularly receives updates, known as Rollups. Rollups are a set of cumulative updates and patches. It is important to ensure you are up to date as there many ​great enhancements (and the odd bug fix) that are included over time.  
 ​The current version is Rollup 13 and includes a great set of updates such as:
 
 - Cross browser support (finally support for Chrome, Safari (not iOS) and Firefox)
