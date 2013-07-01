@@ -12,21 +12,6 @@ authors:
 ---
 
  
-History
-
-CRM 3.0 is in .NET 1.1 so it was designed to work with:
-
-- SQL Server 2000 (even better to use 2005)
-- Reporting Services 2000 (design reports in VS.NET 2003)
-- Callouts in VS.NET 2003
-
-
-**Tip #1:** Do try to use SQL 2005 if available - it is marginally faster.
-
-**Tip #2:** Don't try working in VS.NET 2005 - there are workarounds but they become          very, very painful.
-
-**Tip #3:** SQL Reporting Services and the .rdl files are not backward compatible -          there is no hope of doing them in 2005 and back porting the RDL.
-
 CRM 2011 is designed to work with:
 
 - SQL Server 2012 (CRM Update Rollup 6 or greater required), SQL Server 2008 (or 2008 R2)
@@ -39,6 +24,23 @@ Make sure you are using the correct version of Visual Studio to edit reports, ei
 The benefit of using SSDT-BI is you will be able to target SQL Reporting Services 2008-2012 without having different versions of Visual Studio installed.
 
 SSDT-BI can be downloaded from:     [http://www.microsoft.com/en-au/download/details.aspx?id=36843](http&#58;//www.microsoft.com/en-au/download/details.aspx?id=36843)
+
+​
  
 
+
+History
+
+CRM 3.0 is in .NET 1.1 so it was designed to work with:
+
+- SQL Server 2000 (even better to use 2005)
+- Reporting Services 2000 (design reports in VS.NET 2003)
+- Callouts in VS.NET 2003
+
+
+**Tip #1:** Do try to use SQL 2005 if available - it is marginally faster.
+
+**Tip #2:** Don't try working in VS.NET 2005 - there are workarounds but they become very, very painful.
+
+**Tip #3:** SQL Reporting Services and the .rdl files are not backward compatible - there is no hope of doing them in 2005 and back porting the RDL.​​
 
