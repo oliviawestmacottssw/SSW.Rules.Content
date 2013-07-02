@@ -32,7 +32,6 @@ Figure: Email user experience
 ![](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/ReportingServicesWindowsUExample.jpg)
 Figure: Windows user experience
 
-![ReportingServicesSharePointReportingUI.jpg](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/ReportingServicesSharePointReportingUI.jpg)
-
+![ReportingServicesSharePointReportingUI.jpg](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/ReportingServicesSharePointReportingUI.jpg) 
 Figure: SharePoint user experience
 
