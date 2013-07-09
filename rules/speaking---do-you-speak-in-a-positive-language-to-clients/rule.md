@@ -13,5 +13,5 @@ authors:
 We will need your agreement on the mockup, and as soon as you are happy with it, we will develop it to the agreed mockup. We will not be able to change the mockup once made and you are happy with it.
 Bad example
 We will develop the report once you are happy with and have signed off the mockup.
- 
+
 Good example
