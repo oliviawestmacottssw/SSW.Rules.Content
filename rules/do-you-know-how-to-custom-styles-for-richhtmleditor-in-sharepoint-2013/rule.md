@@ -18,8 +18,7 @@ authors:
 
 
 In SharePoint, we can use the below way to apply custom styles like the below:
-
-[![](http&#58;//3.bp.blogspot.com/--i4W7kS6iWs/UdpXWDh3ABI/AAAAAAAAATM/9fSLvTmSG34/s400/CustomStylesInSharePoint.png)](http&#58;//3.bp.blogspot.com/--i4W7kS6iWs/UdpXWDh3ABI/AAAAAAAAATM/9fSLvTmSG34/s1600/CustomStylesInSharePoint.png)
+![CustomStylesInSharePoint.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CustomStylesInSharePoint.png)
 
 
 
@@ -104,9 +103,8 @@ font-size:12px;
 
 }
 
-This **Code Area** style will come up in "Page Elements" section:
-
-[![](http&#58;//3.bp.blogspot.com/-xT--jcG7Ois/UdpfhK5VbDI/AAAAAAAAATc/dQUTjqWbfW8/s400/CodeArea.png)](http&#58;//3.bp.blogspot.com/-xT--jcG7Ois/UdpfhK5VbDI/AAAAAAAAATc/dQUTjqWbfW8/s1600/CodeArea.png)
+This **Code Area** style will come up in "Page Elements" section:​
+![CodeArea.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CodeArea.png)
 
 
 
@@ -133,22 +131,15 @@ to
 
 Its html code will change
 
-from
 
-[![](http&#58;//3.bp.blogspot.com/-70Y8nDmGObw/UdpmFTctK7I/AAAAAAAAAUE/hUqEJaXOd2I/s640/page_element_p.png)](http&#58;//3.bp.blogspot.com/-70Y8nDmGObw/UdpmFTctK7I/AAAAAAAAAUE/hUqEJaXOd2I/s1600/page_element_p.png)
+from
+![page_element_p.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/page_element_p.png)
+
 
 
 
 to
-
-[![](http&#58;//1.bp.blogspot.com/-R5RyfitAHwE/UdpmWCrKkgI/AAAAAAAAAUM/c1-1Uv2AS_8/s640/page_element_dd.png)](http&#58;//1.bp.blogspot.com/-R5RyfitAHwE/UdpmWCrKkgI/AAAAAAAAAUM/c1-1Uv2AS_8/s1600/page_element_dd.png)
-
-
-
-
-
-
-
+![page_element_dd.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/page_element_dd.png)
 
 
 
@@ -168,13 +159,8 @@ background-color: #FFFF00;
 
 }
 
-This **Highlight** style will come up in "Text Styles" section:
-
-[![](http&#58;//2.bp.blogspot.com/-k6rPaxrtSUw/UdpgxbvtqaI/AAAAAAAAAT0/7RCPvKp0O_E/s400/HighLight.png)](http&#58;//2.bp.blogspot.com/-k6rPaxrtSUw/UdpgxbvtqaI/AAAAAAAAAT0/7RCPvKp0O_E/s1600/HighLight.png)
-
-
-
-
+This **Highlight** style will come up in "Text Styles" section:​
+![HighLight.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/HighLight.png)
 
 While applying a "Text Styles" style, it will
 
@@ -190,9 +176,9 @@ That means all "Text Styles" will apply to &lt;span&gt; tag, and you cannot appl
 
 
 
-4) .ssw15-rte**Table -** Tell SharePoint the definition of custom table styles. After inserting a table, you can see the styles under "Design" tab:
+4) .ssw15-rte**Table -** Tell SharePoint the definition of custom table styles. After inserting a table, you can see the styles under "Design" tab:​
 
-[![](http&#58;//2.bp.blogspot.com/-79EYPO8v9tQ/UdppLt46paI/AAAAAAAAAUc/89GC673Ob3g/s640/TableStyles.png)](http&#58;//2.bp.blogspot.com/-79EYPO8v9tQ/UdppLt46paI/AAAAAAAAAUc/89GC673Ob3g/s1600/TableStyles.png)
+​
 
 
 
