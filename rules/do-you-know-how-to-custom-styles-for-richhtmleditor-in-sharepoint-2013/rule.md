@@ -13,7 +13,7 @@ authors:
 
  
 
-​​As a CMS system, it's obviously necessary to apply standard styles to all content, so the whole site looks consistent.
+​​​As a CMS system, it's obviously necessary to apply standard styles to all content, so the whole site looks consistent.
 
 
 
