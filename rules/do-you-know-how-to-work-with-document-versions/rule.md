@@ -11,20 +11,17 @@ authors:
 
 ---
 
- 1. Make sure your document library is configured to use versioning.
+ This is how you should work with Document Versions: 
+1. Make sure your document library is configured to use versioning.
+ TIP: You can configure this in Settings | Versioning Settings​
+2. Make sure you are showing the version column in your document view. <br>      ![Add a version column](/PublishingImages/VersionColumn_Small.jpg)    TIP: You can add the column by selecting Modify View
+​​
+3. Whenever you edit the document and check it in, SharePoint will automatically increase the version number.
+    If you need to send this document to a client then it is important to:
+    1. Save the file locally by selecting Send To | Download a Copy <br>         ![Save a file locally](/PublishingImages/SaveFileLocally_Small.jpg)
+    2. Add the version to the end of the filename e.g. Specifications\_v2.0.docx
+    3. Then email it to the client.
+    4. We do this so that we can track what version of the document was sent to the client.
+        ​TIP: If you are not working with SharePoint then we recommend you follow the rule           [Do you include version numbers in your file names?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTechnicalDocumentation.aspx#VersionNumber)
 
-<br>    TIP: You can configure this in Settings | Versioning Settings<br> 
-2. Make sure you are showing the version column in your document view. ![Add a version column](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/VersionColumn_Small.jpg)
-
-TIP: You can add the column by selecting Modify View
-
-3. Whenever you edit the document and check it in, SharePoint will automatically increase the version number.
- 4. If you need to send this document to a client then it is important to:
-        a. Save the file locally by selecting Send To | Download a Copy ![Save a file locally ](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SaveFileLocally_Small.jpg)
-
-b. Add the version to the end of the filename e.g. Specifications\_v2.0.docx
-        c. Then email it to the client.
-        d. We do this so that we can track what version of the document was sent to the client.
-
-TIP: If you are not working with SharePoint then we recommend you follow the rule [Do you include version numbers in your file names?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTechnicalDocumentation.aspx#VersionNumber)
 
