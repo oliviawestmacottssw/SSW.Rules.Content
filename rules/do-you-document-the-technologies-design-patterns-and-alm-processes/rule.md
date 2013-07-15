@@ -21,18 +21,18 @@ ALM is about refining the work processes.​
 **ALM:** Continuous deployment to stagingGood example - this tells you a lot about the architecture and processes in a few words
 The important ones for most web projects:
 
-1. Technologies: MVC
-2. Patterns: Single responsibly - if it does more than one thing, then split it.
- Eg. If it checks the weather and gets data out of the database, then split it
-3. Patterns: Inversion of control / dependency injection
- Eg. If your controller needs to get data, then you inject the component that gets the data
-4. Patterns: Repository/Unit of Work - repository has standard methods for getting and saving data. The code calling the repository should not know where the data lives
+1. **Technologies: MVC**
+2. **Patterns: Single responsibly** - if it does more than one thing, then split it.
+ Eg. If it checks the weather and gets data out of the database, then split it.
+3. **Patterns: Inversion of control / dependency injection**
+ Eg. If your controller needs to get data, then you inject the component that gets the data.
+4. **Patterns: Repository/Unit of Work** - repository has standard methods for getting and saving data. The code calling the repository should not know where the data lives.
  Eg. A User Repository could be saving to Active Directory or CRM and it should not affect any other code
  You may or may not choose to have an additional abstraction away from entity framework.
-5. ALM: Scrum - kind of a pattern for your process
- A eg. Sprint Review every 2 weeks
- Mostly a senior architect should be added for that 1 day each 2 weeks
+5. **ALM: Scrum** - kind of a pattern for your process.
+E​g. Sprint Review every 2 weeks.
+ Mostly a senior architect should be added for that 1 day each 2 weeks.
 
 
-The decisions the team makes regarding these 3 areas, should be documented in \_Technologies.docx as per [http://rules.ssw.com.au/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouReviewTheDocumentation.aspx](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouReviewTheDocumentation.aspx)​.​
+The decisions the team makes regarding these 3 areas, should be documented in \_Technologies.docx as per [http://rules.ssw.com.au/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouReviewTheDocumentation.aspx](/Pages/DoYouReviewTheDocumentation.aspx)​.​
  ​  
