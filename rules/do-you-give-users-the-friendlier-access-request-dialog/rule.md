@@ -16,7 +16,7 @@ authors:
  
 ​The "request manager" will receive an email:
 ![RequestNotificationEmail.png](/ITAndNetworking/SharePoint/SiteAssets/Pages/PermissionRequest/RequestNotificationEmail.png)Figure: Request Notification Email SampleThe link in the email will navigate administrator to the **Pending Requests** list:![LinkToPendingRequestsList.png](/ITAndNetworking/SharePoint/SiteAssets/Pages/PermissionRequest/LinkToPendingRequestsList.png)Figure: Pending Requests List
-The administrator can "Approve" or "Decline" the request. Or he can start a conversation with the request user on the **Pending Requests** list directly to inquire more information:
+After reading the reqest infomation, the administrator can "Approve" or "Decline" the request, o​r he can start a conversation with the request user on the **Pending Requests** list directly to inquire more information:
 ![StartAConversatioinOnPendingList.png](/ITAndNetworking/SharePoint/SiteAssets/Pages/PermissionRequest/StartAConversatioinOnPendingList.png)Figure: possible actions for requests (Approve, Decline or start a conversation with the request user)
 
 
