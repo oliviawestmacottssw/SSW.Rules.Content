@@ -21,5 +21,11 @@ After reading the reqest infomation, the administrator can "Approve" or "Decline
 
 
 To setup permission request for a SharePoint site collection, go to "**Site Settings (Gear Wheel icon)** | **Site Permissions**":
-![SetupPermissionRequest.png](/ITAndNetworking/SharePoint/SiteAssets/Pages/PermissionRequest/SetupPermissionRequest.png)Figure: Open "Access Request" setting​
+![SetupPermissionRequest.png](/ITAndNetworking/SharePoint/SiteAssets/Pages/PermissionRequest/SetupPermissionRequest.png)Figure: Open "Access Request" setting
+
+
+**​​​​Limition:**
+This "Access Request" only works for authenticated users to inquire more access permission, that means if your site does not allow "anonymous access", then an anonymous user cannot send "access request" as he doesn't have an identify to be assigned more access permission​.
+
+
 
