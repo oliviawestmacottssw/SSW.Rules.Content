@@ -9,4 +9,6 @@ authors:
 
 ---
 
- Finding a file with a BAK extension is a "call sign" that your folders need a tidy up. ![](/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/bak-bad.jpg)Figure: Bad example![](/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/bak-good.jpg)Figure: Good example
+ Finding a file with a BAK extension is a "call sign" that your folders need a tidy up. ![](/PublishingImages/bak-bad.jpg)Figure: Bad example![](/PublishingImages/bak-good.jpg)Figure: Good example​
+We have a program called     [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor) to check for this rule.​
+​  
