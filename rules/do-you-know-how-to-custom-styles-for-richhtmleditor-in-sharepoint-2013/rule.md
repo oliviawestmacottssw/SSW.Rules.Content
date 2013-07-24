@@ -13,7 +13,7 @@ authors:
 
  
 
-​​​​​As a CMS system, it's obviously necessary to apply standard styles to all content, so the whole site looks consistent.
+​​​​​​As a CMS system, it's obviously necessary to apply standard styles to all content, so the whole site looks consistent.
 
 
 
@@ -22,7 +22,7 @@ This rule outlines how to use custom styles in the SharePoint  RichHTMLEditor�
 
 
 In SharePoint, we can use the below way to apply custom styles:
-![CustomStylesInSharePoint.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CustomStylesInSharePoint.png)Figure: custom RichHtmlEditor styles give your content editors a visual preview of your custom styles​
+![CustomStylesInSharePoint.png](/PublishingImages/CustomStylesInSharePoint.png)Figure: custom RichHtmlEditor styles give your content editors a visual preview of your custom styles​
 
 
 
@@ -108,7 +108,7 @@ font-size:12px;
 }
 
 This **Code Area** style will come up in "Page Elements" section:​
-![CodeArea.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CodeArea.png)Figure: Code Area style come up in "Page Elements" seciton
+![CodeArea.png](/PublishingImages/CodeArea.png)Figure: Code Area style come up in "Page Elements" seciton
 
 
 While applying a "Page Elements" style, it will
@@ -136,13 +136,13 @@ Its html code will change
 
 
 from
-![page_element_p.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/page_element_p.png)
+![page_element_p.png](/PublishingImages/page_element_p.png)
 
 Figure: "Code Area style" with parent element &lt;p&gt;
 
 
 to
-![page_element_dd.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/page_element_dd.png)Figure: "Good Figure style" changed the parent element from &lt;p&gt; to &lt;dd&gt;
+![page_element_dd.png](/PublishingImages/page_element_dd.png)Figure: "Good Figure style" changed the parent element from &lt;p&gt; to &lt;dd&gt;
 
 
 
@@ -164,7 +164,7 @@ background-color: #FFFF00;
 }
 
 This **Highlight** style will come up in "Text Styles" section:​
-![HighLight.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/HighLight.png)Figure: Highlight style will come up in "Text Styles" section​
+![HighLight.png](/PublishingImages/HighLight.png)Figure: Highlight style will come up in "Text Styles" section​
 
 
 While applying a "Text Styles" style, it will
