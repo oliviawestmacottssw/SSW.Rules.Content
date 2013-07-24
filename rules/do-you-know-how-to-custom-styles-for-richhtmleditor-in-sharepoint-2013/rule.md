@@ -13,7 +13,7 @@ authors:
 
  
 
-​​​​As a CMS system, it's obviously necessary to apply standard styles to all content, so the whole site looks consistent.
+​​​​​As a CMS system, it's obviously necessary to apply standard styles to all content, so the whole site looks consistent.
 
 
 
@@ -21,7 +21,7 @@ This rule outlines how to use custom styles in the SharePoint  RichHTMLEditor�
 
 
 
-In SharePoint, we can use the below way to apply custom styles like the below:
+In SharePoint, we can use the below way to apply custom styles:
 ![CustomStylesInSharePoint.png](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CustomStylesInSharePoint.png)Figure: custom RichHtmlEditor styles give your content editors a visual preview of your custom styles​
 
 
