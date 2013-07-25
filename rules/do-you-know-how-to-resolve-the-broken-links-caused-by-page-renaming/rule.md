@@ -11,14 +11,10 @@ authors:
 
 ---
 
- Renaming pages in SharePoint site will cause broken links.
-All request to old URL will be responsed with a 404 error.
- 
-​Basically there are three ways to handle this issue.
+ ​Renaming pages in SharePoint site will cause broken links, all requests to old URL will be responsed with a 404 error. 
+To resolve this issue, there are three ways basically:
 
-
-
-- Add a page every time for a rename…. JavaScript to redirect or META tag​
+- ​Add a page every time for a rename…. JavaScript to redirect or META tag​
 - Use custom 404 page to look at a list in SharePoint, the list contains all the renaming records, the records are automatically maintained via page updating events handler. (We are using this way)
 - Wait for MS to fix the problem - support alternative links for a page. (TODO: link to a suggestion)
 
