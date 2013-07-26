@@ -18,7 +18,7 @@ A. ​Create a shortcut in windows, then upload the shortcut file (.url) to th
 
 
  
-Step details
+Step details:​
 
 **A. Create a shortcut in windows, then upload the shortcut file (.url) to the document library.​**
 
