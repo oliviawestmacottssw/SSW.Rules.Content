@@ -14,7 +14,7 @@ authors:
  The goal is for teams to move beyond manual testing and implement automated testing 
  eg. CodedUI tests, Telerik Tests etc
   Test cases answer the question, "How do I test and what are the test steps?"
- ![Test Cases in a User Story](/Management/RulesToBetterScrumUsingTFS/PublishingImages/acceptance-criteria-test-cases.jpg)Figure: Test Cases in a User Story  (MSF For Agile Template)
+ ![Test Cases in a User Story](/PublishingImages/acceptance-criteria-test-cases.jpg)Figure: Test Cases in a User Story  (MSF For Agile Template)
 
 Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ I will see all entries starting with Adam in the Grid
  Negative Test - When I enter ‘zzz’ in the Search box and click ‘Search’ I will see \*no\* entries in the Grid
@@ -27,7 +27,7 @@ Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ 
  Gold Plating – if a large set of results is returned and we are on page 1, ‘Prev’ button does not error
  Gold Plating – if a large set of results is returned and we are on page &lt; MaxPage, clicking the ‘Next’ button goes to the next page
  Gold Plating – if a large set of results is returned and we are on page = MaxPage, clicking the ‘Next’ button does not error
- Figure: Good example - Acceptance Tests![Test Cases](/Management/RulesToBetterScrumUsingTFS/PublishingImages/test-cases.jpg)Figure: The tester sees the Test Cases in Test Manager![Test Steps](/Management/RulesToBetterScrumUsingTFS/PublishingImages/test-steps.jpg)Figure: The tester follows each instruction (aka the Test Steps), and gives it a tick or cross
+ Figure: Good example - Acceptance Tests![Test Cases](/PublishingImages/test-cases.jpg)Figure: The tester sees the Test Cases in Test Manager![Test Steps](/PublishingImages/test-steps.jpg)Figure: The tester follows each instruction (aka the Test Steps), and gives it a tick or cross
 ## Related Resources
 
 [http://www.scrumalliance.org/articles/169-new-to-user-stories](http&#58;//www.scrumalliance.org/articles/169-new-to-user-stories)
