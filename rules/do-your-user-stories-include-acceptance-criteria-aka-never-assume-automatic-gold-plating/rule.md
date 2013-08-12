@@ -25,9 +25,8 @@ They must be specified in the Acceptance Criteria if required.
 There are 2 parts to getting this right. The Acceptance Criteria, then the Acceptance Tests:
 
 **Acceptance Criteria **(from the Product Owner) define the exact requirements that must be met for the story to be completed. They answer the question, "How will I know when I’m done with the story?"
-![A User Story with Acceptance Criteria](/Management/RulesToBetterScrumUsingTFS/PublishingImages/acceptance-criteria.jpg) Figure: A User Story with Acceptance Criteria (MSF Agile Template)
-
-When I enter ‘Adam’ in the search box and click ‘Search’ I will see all entries starting with ‘Adam’ in the grid
+![A User Story with Acceptance Criteria](/Management/RulesToBetterScrumUsingTFS/PublishingImages/acceptance-criteria.jpg)Figure: A User Story with Acceptance Criteria (MSF Agile Template)
+When I enter ‘Adam’ in the search box and click ‘Search’ I will see all entries starting with ‘Adam’ in the grid.
 Figure: Bad Example of Acceptance Criteria - Incomplete
 Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ I will see all entries starting with Adam in the Grid
  Negative Test - When I enter ‘zzz’ in the Search box and click ‘Search’ I will see \*no\* entries in the Grid
@@ -37,8 +36,13 @@ Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ 
  Gold Plating - If no results are retuned show a message box ‘No results found’
  Gold Plating – Validation: If no search text is entered, the ‘Search’ button should be disabled
  Gold Plating – Right clicking on a column header should provide ‘Sort’ functionality
- Gold Plating – if a large set of results is returned, display pagination with page numbers and ‘Prev’, ‘Next’ links
- Figure: Good Example of Acceptance Criteria – Including Gold Plating
+ Gold Plating – if a large set of results is returned, display pagination with page numbers and ‘Prev’, ‘Next’ links​
+Figure: Good Example of Acceptance Criteria – Including Gold Plating
+ 
+For tiny stories, you can omit acceptance criteria. Sometimes you just need a screen shot, or even better a video.
 
+See screen shot and video.
 
-
+Screen shot – see PDF (link to pdf)
+ Video - [http://www.youtube.com/watch?v=M3FH4D9QuzU​](http&#58;//www.youtube.com/watch?v=M3FH4D9QuzU)
+Figure: Good Example for a simple change – just include a screen capture and/or video
