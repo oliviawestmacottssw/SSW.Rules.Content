@@ -16,9 +16,9 @@ It is also important that team members do not allow themselves to get distract
 
  Here is a good saying to remember: "It is very important I make my sprint. Can this wait 1 week until the next sprint?".
 
-Any requests for work or distractions that take more than 15 minutes must be declined politely and the distraction notified to the ScrumMaster.  
+Any requests for work or distractions outside the scope of the project that take more than 15 minutes must be declined politely and the distraction notified to the ScrumMaster.​
 
- The only exceptions where a Team Member can start the work after notifying the Scrum Master are:
+The only exceptions where a Team Member can start the work after notifying the Scrum Master are:
 
 - Any Critical Production Issues that absolutely require the attention of the Team Member and nobody else is available
 - A Client request for work when the Team Member is working on a internal project
@@ -29,5 +29,5 @@ In these 3 exceptional cases only, even if the Team Member doesn't get a res
 
 Anything else must be politely declined and the request must be directed to the Scrum Master for the process of negotiating the work and any official meetings must be through the ScrumMaster.
 
-For details on promises, see the rule [“Do you understand the implied contract (promises) between Members of the Scrum Team?”](/Management/RulesToBetterScrumUsingTFS/Pages/ContractBetweenMembersOfScrumTeams.aspx)
+For details on promises, see the rule     [“Do you understand the implied contract (promises) between Members of the Scrum Team?”](/Pages/ContractBetweenMembersOfScrumTeams.aspx)
 
