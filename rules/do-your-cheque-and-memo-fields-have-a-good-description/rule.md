@@ -9,4 +9,8 @@ authors:
 
 ---
 
- The memo field explains what a check is for and helps with auditing. ![memo field bad example](/Management/Rules-to-Better-Accounting/PublishingImages/memo-field-bad.jpg)Figure: Bad Example![memo field good example](/Management/Rules-to-Better-Accounting/PublishingImages/memo-field-good.jpg)Figure: Good Example
+ 
+If your descriptions have good comments then you don't need to go back to paperwork to investigate things.
+
+e.g.  The period the invoice relates to.
+ ![memo field bad example](/PublishingImages/memo-field-bad.jpg)Figure: Bad Example![memo field good example](/PublishingImages/memo-field-good.jpg)Figure: Good Example
