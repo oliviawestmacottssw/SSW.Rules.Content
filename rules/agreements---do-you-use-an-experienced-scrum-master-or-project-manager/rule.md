@@ -46,5 +46,5 @@ Insist that your Scrum Master (aka Project Manager) [maintains a strict project
 In Scrum projects the role of project manager is split into three roles: Scrum Master, Product Owner and Team. Each role is essential.
 
 
-For more information go to [Scrum Terms](http&#58;//www.scrumalliance.org/articles/39-glossary-of-scrum-terms) ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW") and [Scrum Roles](http&#58;//www.scrumalliance.org/pages/scrum_roles) ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW").
+For more information go to     [Scrum Terms](http&#58;//www.scrumalliance.org/articles/39-glossary-of-scrum-terms)​ and     [Scrum Roles](http&#58;//www.scrumalliance.org/pages/scrum_roles).
 
