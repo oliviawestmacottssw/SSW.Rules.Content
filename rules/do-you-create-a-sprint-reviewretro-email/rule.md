@@ -15,7 +15,7 @@ authors:
 
  After any Sprint Review and Retrospective, an email should be sent to all the stakeholders to update them on the outcome from the sprint: 
 - Subject: &lt;Client Name&gt; Sprint xxx Review/Retro
-- This is a reply to the <br>      [Sprint Forecast email](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-have-a-Sprint-Contract-aka-The-deal-between-the-Product-Owner-and-Team.aspx)
+- This is a reply to the <br>      [Sprint Forecast email](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Forecast-email.aspx)
 - Screenshot of Burndown from TFS
 - Breakdown of work completed (including current code coverage value)
 - Link to test environment
@@ -88,5 +88,9 @@ As part of our commitment to inspect and adapt as a team we conduct a Sprint Ret
 **Definition of Done *****- Optional***
 
 &lt;insert Definition of Done. Normally that it compiles, meets the acceptance criteria, and a test please has been sent if relevant&gt;
+
+
+
+&lt;This is as per the rule: [http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Review-email.aspx](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Review-email.aspx)&gt;
 
 Figure: Good Example - Template for Sprint Review/Retro Email. Subject: Sprint xxx Review/Retro
