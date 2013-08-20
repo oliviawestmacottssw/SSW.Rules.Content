@@ -16,15 +16,16 @@ A common example is bus and train fares to client sites. Amounts under $40 shoul
  
 If greater than $40 then use the     [expense claim form](http&#58;//www.ssw.com.au/ssw/StandardsInternal/Forms/ExpensesReimbursement.xls).
 
-Use [the KM reimbursement form](http&#58;//www.ssw.com.au/ssw/StandardsInternal/Forms/ExpensesReimbursementKM.xlt) if you want your reasonable km expenses reimbursed.
+Use     [the KM reimbursement form](http&#58;//www.ssw.com.au/ssw/StandardsInternal/Forms/ExpensesReimbursementKM.xlt) if you want your reasonable km expenses reimbursed.
 
 Remember to treat your company's money like your own and minimize costs where possible. Try to search around for a better price before committing to a purchase.
 
-1. All expense claims must:
-    1. Be work related
-    2. ​​Be made within a week
-    3. Be signed by the claimant and authorized by the relevant Manager
-    4. Be supported by Tax Invoices
-    5. Not include alcohol, as it incurs FBT
+All expense claims must:
 
+- Be work related
+- ​​Be made within a week
+- Be signed by the claimant and authorized by the relevant Manager
+- Be supported by Tax Invoices
+- Not include alcohol, as it incurs FBT
 
+​​  
