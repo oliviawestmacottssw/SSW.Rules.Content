@@ -35,7 +35,7 @@ Customization would apply to: Changing Work Item Templates, Custom Reports, Wor
 **Extending **is a term used with CRM that includes developing Plug-in's. With TFS this is covered under Customization.
 
 
-​See the [CRM ​](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/Pages/Do-you-know-how-to-correctly-use-the-terms-Configuration-Customization-and-Extending-in-the-CRM-context.aspx)for correct definitions.
+​See the [CRM](/do-you-know-how-to-correctly-use-the-terms-configuration-customization-and-extending-in-the-crm-context) rule for ​correct definitions.
 
 
 
