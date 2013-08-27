@@ -18,4 +18,4 @@ authors:
 
 
 Don't use CoffeeScript (language is too different from JavaSript)
- ![](/WebSites/RulestoBetterWebsitesJavaScript/PublishingImages/typescript-good.jpg)Figure: Good - TypeScript is very similar to JavaScript so it’s easy to learn, and also helps developers learn proper JavaScript coding practices![](/WebSites/RulestoBetterWebsitesJavaScript/PublishingImages/typescript-bad.jpg)Figure: Bad – CoffeeScript syntax is very different from JavaScript so it takes longer to learn ​
+ ![](/PublishingImages/typescript-good.jpg)Figure: Good - TypeScript is very similar to JavaScript so it’s easy to learn, and also helps developers learn proper JavaScript coding practices​    ![](/PublishingImages/typescript-bad.jpg)Figure: Bad – CoffeeScript syntax is very different from JavaScript so it takes longer to learn ​
