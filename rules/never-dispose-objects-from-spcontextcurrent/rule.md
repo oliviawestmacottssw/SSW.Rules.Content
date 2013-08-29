@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​​Although disposing objects in SharePoint is important, but never do it with "Current" objects, as you are not allowed to do it.
+​​​Although disposing objects in SharePoint is important, but never do it with "Current" objects, as you are not allowed to do it.
 
 
 
