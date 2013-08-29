@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Disposing objects in SharePoint is important, but never do it with objects from SPContext.Current. SharePoint will manage disposing these objects itself.​
+​Disposing objects in SharePoint is important, but never do it with objects from SPContext.Current. SharePoint will manage disposing these objects itself.​
 
 
 
