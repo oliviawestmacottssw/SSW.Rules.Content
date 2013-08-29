@@ -17,7 +17,7 @@ authors:
 
 
 
-using (SPWeb web = SPContext.Current.Site.RootWeb)
+**using **(SPWeb web = **SPContext.Current.Site.RootWeb**)
 {
  //do something here
 }
@@ -27,6 +27,6 @@ Figure: Using statement is trying to dispose current site object - it will cause
 
 Just simplely use "Current" object directly.
 
-SPWeb web = SPContext.Current.Site.R​ootWeb​;
+SPWeb web = **SPContext.Current.Site.R​ootWeb**​;
 //do something here
 Figure: Use Current objects directly - don't need to dispose them 
