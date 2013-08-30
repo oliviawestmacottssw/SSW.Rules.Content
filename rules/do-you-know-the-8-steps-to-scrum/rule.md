@@ -21,7 +21,7 @@ authors:
 3. ### [Sprint Planning](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx)
     Features are ordered by the Product Owner. The Development Team estimates and forecasts which features will be delivered in the Sprint.
 4. ### [Sprint](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)
-    The Development Team works on features in priority order, having done a Daily Scrum and sending 'Done' emails once the        ['Definition of Done'](/Management/RulesToSuccessfulProjects/Pages/DoYouGoBeyondDoneAndFollowADoneCriteria.aspx)is met. A task board is often used. During this process, the team also refines items in the Product Backlog to ensure they conform to the        ['Definition of Ready'.](/Management/RulesToBetterScrumUsingTFS/Pages/Definition-of-Ready.aspx)
+    The Development Team works on features in priority order, having done a Daily Scrum and sending 'Done' emails once the           ['Definition of Done'](/Management/RulesToSuccessfulProjects/Pages/DoYouGoBeyondDoneAndFollowADoneCriteria.aspx)is met. A task board is often used. During this process, the team also refines items in the Product Backlog to ensure they conform to the           ['Definition of Ready'.](/Management/RulesToBetterScrumUsingTFS/Pages/Definition-of-Ready.aspx)
 5. ### [Sprint Review](/Management/RulesToBetterScrumUsingTFS/Pages/SprintReviewMeeting.aspx)
     The Development Team demos all the features they've completed. Feedback is gathered. This is the real measure of the success of the Sprint.
 6. ### Product Increment
@@ -30,5 +30,5 @@ authors:
     Bugs and small changes are added to the current Sprint. Other requests are added to the Product Backlog if approved by the Product Owner.
 8. ### [Sprint Retrospective](/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx)
     This is the best part: Inspecting and adapting. Upon finishing the Sprint, the Scrum Team discusses what went well, what didn't and what to improve.
-[![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/8Steps_preview.jpg)](/Management/RulesToBetterScrumUsingTFS/PublishingImages/8Steps.jpg)Figure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this<br>   [SSW 8 Steps to Scrum pdf](/Management/RulesToBetterScrumUsingTFS/Documents/8StepstoScrum.pdf)" and put it on your <br>   ['War Room'](/Management/RulesToBetterScrumUsingTFS/Pages/ScrumVisualImage.aspx)wall.
+![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/8Steps_preview.jpg)​Fi​gure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this <br>         [SSW 8 Steps to Scrum PDF](/Management/RulesToBetterScrumUsingTFS/Documents/8StepstoScrum.pdf) and put it on your " <br>         [War Room](/Management/RulesToBetterScrumUsingTFS/Pages/ScrumVisualImage.aspx)" wall.
 ​  
