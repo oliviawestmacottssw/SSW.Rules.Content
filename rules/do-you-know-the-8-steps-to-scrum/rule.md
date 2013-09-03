@@ -12,8 +12,8 @@ authors:
 ---
 
  
-​Scrum is easier than it seems, we'll explain how in these 8 simple steps.
- 
+​​Scrum is easier than it seems, we'll explain how in these 8 simple steps.
+ ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/8Steps_preview.jpg)​Fi​gure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this <br>         [SSW 8 Steps to Scrum PDF](/Management/RulesToBetterScrumUsingTFS/Documents/8StepstoScrum.pdf) and put it on your " <br>         [War Room](/Management/RulesToBetterScrumUsingTFS/Pages/ScrumVisualImage.aspx)" wall​
 1. ### [Initial Meeting](/Management/RulesToSuccessfulSalesAndAccountManagement/Pages/Meetings-Prepare-for-the-Initial-Meeting-.aspx)
     The Product Owner explains the product vision, scope is agreed, and the number of days needed for the 'Backlog Construction' is proposed.
 2. ### [Backlog Construction](/Management/RulestoBetterSpecificationReviews/Pages/Default.aspx)
@@ -30,5 +30,5 @@ authors:
     Bugs and small changes are added to the current Sprint. Other requests are added to the Product Backlog if approved by the Product Owner.
 8. ### [Sprint Retrospective](/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx)
     This is the best part: Inspecting and adapting. Upon finishing the Sprint, the Scrum Team discusses what went well, what didn't and what to improve.
-![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/8Steps_preview.jpg)​Fi​gure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this <br>         [SSW 8 Steps to Scrum PDF](/Management/RulesToBetterScrumUsingTFS/Documents/8StepstoScrum.pdf) and put it on your " <br>         [War Room](/Management/RulesToBetterScrumUsingTFS/Pages/ScrumVisualImage.aspx)" wall.
+
 ​  
