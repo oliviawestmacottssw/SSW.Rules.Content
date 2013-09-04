@@ -11,7 +11,7 @@ authors:
 
 ---
 
- As part of the update to the Scrum Guide for 2013, there is a concept of a product backlog being "Ready".​​ 
+ ​As part of the update to the Scrum Guide for 2013, there is a concept of a product backlog being "Ready".​​ 
 Just like how the team has a     [Definition of Done](/Management/RulesToSuccessfulProjects/Pages/DoYouGoBeyondDoneAndFollowADoneCriteria.aspx) as a checklist for completing a PBI, the product owner needs a Definition of Ready to get the PBI in a state that’s ready for it to be added to a sprint. This should be done as part of the refinement (aka grooming) process and will greatly streamline the sprint planning meeting.​
 
 A recommended “Definition of Ready” would be:
@@ -21,4 +21,6 @@ A recommended “Definition of Ready” would be:
 - Has effort assigned
 - Is in the Approved state
 
+
+Read [Done - Do you go beyond 'Done' and follow a 'Definition of Done'?](/Management/RulesToSuccessfulProjects/Pages/DoYouGoBeyondDoneAndFollowADoneCriteria.aspx)
 
