@@ -12,7 +12,7 @@ authors:
  
 To share a draft of a post with others you need to install a plugin.
 
-The plugin is called 'Simple Preview' and can be located [here](http&#58;//gabriel.nagmay.com/2009/10/simple-preview/).
+The plugin is called 'Simple Preview' and can be located [here](http&#58;//gabriel.nagmay.com/2009/10/simple-preview/) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW").
  
 Once you have plugin installed, all you need to do is enable it and then follow the steps below:
 
