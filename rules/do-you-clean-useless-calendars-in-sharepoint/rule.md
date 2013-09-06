@@ -34,6 +34,6 @@ $site = Get-SPSite("http://&lt;site collection URL&gt;/"); # Specify url here​
 }
 
 This script will put the calendars which do not have any events into **Site Settings** | **Recycle Bin**:
-​![EmptyCalendarsInRecyckeBin.png](/ITAndNetworking/SharePoint/SiteAssets/Pages/CleanEmptyCalendars/EmptyCalendarsInRecyckeBin.png)Figure: Empty Calendars in Recycle Bin folder
+​![EmptyCalendarsInRecyckeBin.png](/PublishingImages/EmptyCalendarsInRecyckeBin.png)​Figure: Empty Calendars in Recycle Bin folder
 ​
 
