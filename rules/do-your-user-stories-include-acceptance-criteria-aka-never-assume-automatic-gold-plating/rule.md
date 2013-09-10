@@ -43,6 +43,6 @@ For tiny stories, you can omit acceptance criteria. Sometimes you just need a sc
 
 See screen shot and video.
 
-Screen shot – [see PDF](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/Documents/13_Anvil%20_1408_%20Customer.pdf)
- Video - [http://ww​w.youtube.com/watch?v=M3FH4D9QuzU​](http&#58;//www.youtube.com/watch?v=M3FH4D9QuzU "http&#58;//www.youtube.com/watch?v=M3FH4D9QuzU")
+Screen shot –           [see PDF](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/Documents/13_Anvil_1408_Customer.pdf)
+ Video -           [http://ww​w.youtube.com/watch?v=M3FH4D9QuzU​](http&#58;//www.youtube.com/watch?v=M3FH4D9QuzU "http&#58;//www.youtube.com/watch?v=M3FH4D9QuzU")
 Figure: Good Example for a simple change – just include a screen capture and/or video
