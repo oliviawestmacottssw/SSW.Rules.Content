@@ -12,7 +12,7 @@ authors:
 ---
 
  
-The best exception handling framework is ELMAH.
+​The best exception handling framework is ELMAH.
 
 Your users should never see the “yellow screen of death” in ASP.NET, or the “unhandled exception” message in a Windows application. Errors should always be caught and logged – preferably in a SQL database.
  
