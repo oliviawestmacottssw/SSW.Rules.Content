@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Your users should never see the “yellow screen of death” in ASP.NET. Errors should be caught, logged and a user-friendly screen displayed to the user.
+​Your users should never see the “yellow screen of death” in ASP.NET. Errors should be caught, logged and a user-friendly screen displayed to the user.
  
 This last part is done by adding the  element to the  section of the web.config file.
 
