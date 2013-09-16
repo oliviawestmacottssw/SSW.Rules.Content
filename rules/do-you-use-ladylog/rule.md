@@ -10,10 +10,10 @@ authors:
 ---
 
  
-Your users should never see the "unhandled exception" message in Windows Forms, WPF and Silverlight. You should always log errors somewhere (preferably a SQL database).
- ![](/SoftwareDevelopment/RulesForErrorHandling/PublishingImages/ladylog-bad.jpg)Figure: Bad example - your users should never have unhandled exceptions in Windows Forms
+​Your users should never see the "unhandled exception" message in Windows Forms, WPF and Silverlight. You should always log errors somewhere (preferably a SQL database).
+ ![](/PublishingImages/ladylog-bad.jpg)Figure: Bad example - your users should never have unhandled exceptions in Windows Forms
 LadyLog is a Windows UI for your application that allows users to Log meaningful errors.
-![](/SoftwareDevelopment/RulesForErrorHandling/PublishingImages/ladylog-good.jpg)Figure: Good example - your users get a nice professional error reporting window
+![](/PublishingImages/ladylog-good.jpg)Figure: Good example - your users get a nice professional error reporting window
 See     [SSW .NET Toolkit - LadyLog](http&#58;//www.ssw.com.au/ssw/NetToolKit/04ExceptionReporter.aspx).
 
 We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule.
