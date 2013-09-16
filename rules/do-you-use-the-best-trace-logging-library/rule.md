@@ -14,7 +14,7 @@ authors:
 ---
 
  
-The best trace logging framework is Log4Net.
+​The best trace logging framework is Log4Net.
 
 Did you know that writing your own logging infrastructure code wastes time.
 
