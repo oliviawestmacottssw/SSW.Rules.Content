@@ -16,6 +16,6 @@ authors:
 2. Put (PING) in 1<sup>st</sup> line of the Body
 3. Plus any other instructions - such as "Hurry Up!"
 
-![Hurry Up](/Communication/RulesToBetterEmail/PublishingImages/ping-email.png)Figure: Good Example - (PING) written at the top of the email.
+<dl class="goodImage"><dt><img src="/Communication/RulesToBetterEmail/PublishingImages/ping-email.png" alt="Hurry Up" class="ms-rteCustom-ImageArea"></dt><dd>Figure&#58;&#160;Good Example - (PING) written at the top of the email.</dd></dl>​ 
 This reminds the other person that you are still waiting for a response.
 
