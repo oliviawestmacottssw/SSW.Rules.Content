@@ -29,8 +29,7 @@ Sprint in Review: [Sprint Number]
 Sprint Duration: [Number of weeks]        
 Project: [Project Name]        
 Project Portal: [Link to project Portal]
-Test Environment: [Link to test environment]
-Code Coverage: [Code coverage value from Visual Studio]
+Test Environment: [Link to test environment]\
 Product Owner: [Product Owner Name]
 
 Attendees:        *(Optional as they may be in the to and CC)*
