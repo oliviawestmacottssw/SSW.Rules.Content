@@ -14,7 +14,7 @@ authors:
  
 Occasionally you will send an email and want to make changes on it after it's already gone. Microsoft Outlook has the option to "recall the message" but this is not recommended mainly because you cannot guarantee the recipient hasn't seen the message already.
 
-What you need to do is to set a rule to delay sending your emails in 15 minutes, which gives you time enough to correct it in most of the cases. If you only realize your mistake after this ammount of time, just use "reply to all" mentioning your changes.
+What you need to do is to set a rule to delay sending your emails in 15 minutes for example, which gives you time enough to correct it in most of the cases. If you only realize your mistake after this ammount of time, just use "reply to all" mentioning your changes.
  
 Here is how you do it in Outlook 2013:
 
@@ -34,4 +34,4 @@ Here is how you do it in Outlook 2013:
 
 
 Now when you click Send, each message remains in the Outbox folder for the time that you specified and you can make changes to it until then.
-![](/Communication/RulesToBetterEmail/PublishingImages/recall-message.jpg)Figure: Bad example - Recalling a message when you want to change an email after sending![](/Communication/RulesToBetterEmail/PublishingImages/create-rule-to-delay-sending.jpg)Figure: Good example - Delay sending in 15 minutes
+![](/PublishingImages/recall-message.jpg)Figure: Bad example - Recalling a message when you want to change an email after sending![](/PublishingImages/create-rule-to-delay-sending.jpg)Figure: Good example - Delay sending in 15 minutes (make it less or more if necessary)​
