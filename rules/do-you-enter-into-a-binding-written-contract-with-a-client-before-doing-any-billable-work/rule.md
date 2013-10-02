@@ -29,5 +29,5 @@ Before SSW engages in any billable work the two parties must enter into a bindin
 
 Email, Instant Messenger and (confirmed) verbal agreements are utilized extensively                 during a project where newly discovered work, delays, or other work outside the                 initial scope is required.
 
-Next - now run your project better with [Rules to Successful Project Management](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulestoBetterProjectManagement.aspx).
+Next - now run your project better with                      [Rules to Better Scrum Using TFS](/Management/RulesToBetterScrumUsingTFS/Pages/default.aspx)
 
