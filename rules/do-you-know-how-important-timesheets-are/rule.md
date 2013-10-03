@@ -13,4 +13,4 @@ authors:
 
  
 Timesheets are an accurate record of the hours and work completed in a day. **Timesheets are the lifeblood of the company** and are the ultimate source of everyone's income.
- ![Bucket list](/Management/Rules-to-Better-Timesheets/PublishingImages/Bucket-list.jpg)Figure: Timesheets come first, always!
+ Timesheets should be right near the top of your priorities. (#2 on [http://rules.ssw.com.au/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Do-you-get-your-work-done-in-order-of-importance.aspx](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Do-you-get-your-work-done-in-order-of-importance.aspx) ) ![Bucket list](/Management/Rules-to-Better-Timesheets/PublishingImages/Bucket-list.jpg)Figure: Timesheets come first, always!
