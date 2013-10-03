@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​There are 3 ways developers can keep track of what they have been working on when it comes time to enter their timesheets:
+​There are 4 ways developers can keep track of what they have been working on when it comes time to enter their timesheets:
  
 1. Fully electronic - Enter your timesheets daily **(recommended)**
 2. Jot it down on paper (i.e. a physical diary)
