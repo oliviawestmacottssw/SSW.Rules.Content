@@ -16,10 +16,11 @@ These are the essential fields for your timesheets:
 
 1. Client ID - or Client Name
 2. "On-Site" or "Off-Site"
-3. Amount of time
-4. Project Name
-5. Break - Minimum 0.5 hours for time &gt;5.5 hours, greater if you have a longer break
-6. Who you were working with that day - both your company and Client people. We then know if we are missing any timesheets
-7. Version #
+3. Project Name
+4. Category (what kind of work it is)
+5. Amount of time
+6. Break - Minimum 1/2 hour break if you work more than 5.5 hours.
+7. Who you were working with that day - both your company and Client people. We then know if we are missing any timesheets
+8. Version #
 
  
