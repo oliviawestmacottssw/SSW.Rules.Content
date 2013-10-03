@@ -14,8 +14,8 @@ authors:
  Sometimes the person you send your email to may not reply immediately because they're busy or just may have forgotten about it.  If you need an answer, use a PING by doing the following:<br> 
 1. Reply to ALL
 2. Put (PING) in 1st line of the Body
-3. Plus any other instructions - such as "Hurry Up!"
+3. Plus any other instructions - such as "Hurry Up!" or "following-up, and looking forward to your reply" or "Need an answer please"​
 
-![Hurry Up](/Communication/RulesToBetterEmail/PublishingImages/ping-email.png)Figure: Good Example - (PING) written at the top of the email.​ 
-This reminds the other person that you are still waiting for a response.
+![Hurry Up](/Communication/RulesToBetterEmail/PublishingImages/ping-email.png)Figure: Good Example - (PING) written at the top of the email.​  
+Of course if the person is a colleague you might "follow them up" a little differently if they were a client or a third party. If it's really important and you need an answer you might like to [consider using the phone instead of email](/Communication/RulesToBetterEmail/Pages/EmailForTasksNotCommunication.aspx)​.
 
