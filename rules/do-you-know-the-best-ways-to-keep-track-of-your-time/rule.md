@@ -21,3 +21,5 @@ The best way to know what work you did is looking at your TFS check ins. The com
 ![Keep your Diary or timesheet with you](/Management/Rules-to-Better-Timesheets/PublishingImages/TFS-comments.png)Figure: Good Example – TFS Check in comments are a very accurate recording of what work was done![Keep your Diary or timesheet with you](/Management/Rules-to-Better-Timesheets/PublishingImages/diary.jpg)Figure: Bad Example – Physical Diaries are no longer needed
 Back in the day, people used to keep physical diaries to keep track of what work they did, and then they'd get the client to sign it each day they were on site to ensure they were communicating. This is now all covered by TFS check ins, CRM bookings, Outlook emails, and [Daily Scrums](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)​ to ensure communication.
 
+Note: If you're not using TFS, it's still a good idea to jot down what you've been doing on a daily basis, either in a physical diary, or in OneNote, so that you don't forget by the time  you enter your timesheets
+
