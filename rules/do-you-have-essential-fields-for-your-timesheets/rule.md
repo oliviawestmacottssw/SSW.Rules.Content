@@ -21,10 +21,9 @@ These are the essential fields for your timesheets:
 5. Amount of time
 6. Break - Minimum 1/2 hour break if you work more than 5.5 hours.
 7. Who you were working with that day - both your company and Client people. We then know if we are missing any timesheets
-8. Version #
 
 
 
 
-![Good Timesheet.jpg](/Management/Rules-to-Better-Timesheets/PublishingImages/Pages/essential-fields-for-your-timesheet/Good%20Timesheet.jpg)
+![Good Timesheet.jpg](/PublishingImages/Good%20Timesheet.jpg)
 Figure - Good Example - A good timesheet with all the required fields taken from [SSW Time PRO!](http&#58;//www.ssw.com.au/ssw/TimePRONET/) 
