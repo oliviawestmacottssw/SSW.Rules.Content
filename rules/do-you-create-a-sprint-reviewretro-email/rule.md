@@ -13,7 +13,7 @@ authors:
 
 ---
 
- After any Sprint Review and Retrospective, an email should be sent to all the stakeholders to update them on the outcome from the sprint: 
+ ​After any Sprint Review and Retrospective, an email should be sent to all the stakeholders to update them on the outcome from the sprint: 
 - Subject: &lt;Client Name&gt; Sprint xxx Review/Retro
 - This is a reply to the <br>      [Sprint Forecast email](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Forecast-email.aspx)
 - Screenshot of Burndown from TFS
