@@ -15,7 +15,7 @@ As an Account Manager you'll frequently be required to find a free resource to p
 The calendar provides          a one page view of everyone’s availability for a given time period. Here’s          what you need to do to access it:
 
 
-1. Go to [<font color="#3a66cc">http&#58;//crm.ssw.com.au</font>](http&#58;//crm.ssw.com.au/)
+1. Go to <br>         [<font color="#3a66cc">https&#58;//ssw.crm.ssw.com.au</font>](https&#58;//ssw.crm.ssw.com.au/)
 2. Click Service | Service Calendar
 3. Choose Month, Week, or Day view to suit your needs
 
