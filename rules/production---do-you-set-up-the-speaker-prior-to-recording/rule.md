@@ -29,7 +29,7 @@ Assuming you are using a lapel microphone, make sure that it is attached to the 
 
 For each speaker you need to adjust the sensitivity of the microphone. Do this according to the instructions provided by the manufacturer. As a general rule, test to see that the mic input level does not peak (the audio meter on the device will reach the top). Adjust the mic sensitivity using the device until the input meter does not go past the 2/3rds point. Doing so will create distortions which are difficult to repair in post and waste time.
 
-Look at this video to understand more in-depth the correct way to set up a lapel mic system:
+Look at this video to understand more in-depth the correct way to set up a lapel mic system:<br>      
 
 
 
@@ -49,9 +49,9 @@ The people who watch your video need to know what the questions were in order to
 
  
 
-Audience member: "Why should we do things your way? 
+Audience member: "Why should we do things your way? <br>      
 Speaker: "Because..."
-Figure: Wrong way to respond (viewer will not understand what the context of the answer without knowing the question.) 
+Figure: Wrong way to respond (viewer will not understand what the context of the answer without knowing the question.)
 Audience member: "Why should we do things your way?"
 Speaker: "The reason you should do things this is way is because..."
 
@@ -60,27 +60,27 @@ Figure: Correct way to respond
 The speaker arrives to the venue with a mindset that they are speaking to a room of about 25 - 30 people. It is important to us and the audience at home who watch this online, that the speakers' mindset changes from presenting to a room of people to an audience of thousands.
 
 
-
+ 
 
  3.    Make sure the speaker has VS 2012 productivity tools installed if they are showing anything in Visual Studio
 
 
+ 
+
+ 4.    Make sure the speaker turns on <br>   [presentation mode](http&#58;//ntotten.com/2012/12/12/visual-studio-2012-presentation-mode/)![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") in Visual Studio.
 
 
- 4.    Make sure the speaker turns on [presentation mode](http&#58;//ntotten.com/2012/12/13/visual-studio-2012-presentation-mode/) in Visual Studio.
+ 
+
+ 5.    Tell the speaker to read <br>   [Rules to Better PowerPoint Presentations](https&#58;//www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=8&amp;cad=rja&amp;ved=0CHMQFjAH&amp;url=http&#58;//www.ssw.com.au/ssw/standards/Rules/RulesToBetterPowerpointPresentations.aspx&amp;ei=ue-GUdiyNueWiQedlICQBg&amp;usg=AFQjCNGvMOBZ3W-Ri29auNajyEjSPzX9oA&amp;sig2=9Is7_Z_fo0VGQt9r5SZpOg&amp;bvm=bv.45960087%2cd.aGc)![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW").
 
 
-
-
- 5.    Tell the speaker to read [Rules to Better PowerPoint Presentations](https&#58;//www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=8&amp;cad=rja&amp;ved=0CHMQFjAH&amp;url=http&#58;//www.ssw.com.au/ssw/standards/Rules/RulesToBetterPowerpointPresentations.aspx&amp;ei=ue-GUdiyNueWiQedlICQBg&amp;usg=AFQjCNGvMOBZ3W-Ri29auNajyEjSPzX9oA&amp;sig2=9Is7_Z_fo0VGQt9r5SZpOg&amp;bvm=bv.45960087%2cd.aGc).
-
-
-
+ 
 
  6.    Assume the speaker will need to play sound through the speakers, even if they say they won't, and set up to allow for it.
 
 
-
+ 
 
  7.    Explain to the speaker that you will give them a 5 second countdown when you are about to start streaming them and that they should face forward when this happens, instead of looking sideways at you.
 
