@@ -12,10 +12,10 @@ authors:
 
 When setting up a computer in a corporate environment – you would usually have a standard image with all the software everyone uses already installed. This isn’t the case for VHD’s. Install the following software:
 
-- SnagIt (Screen Capture)
+- ​SnagIt (Screen Capture)
 - Adobe Acrobat Reader
 - Adobe Flash Player
-- Office Professional 2010
+- Office Professional
 - SSW Diagnostics
 - Skype
 - Windows Live Messenger
