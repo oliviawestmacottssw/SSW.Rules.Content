@@ -9,14 +9,14 @@ authors:
 
 ---
 
- The Lync meeting experience is designed to allow people to collaborate productively from different locations. In Microsoft Lync 2010, conference call leaders are referred to as presenters. The meeting organizer is automatically a leader. 
-Lync presenter's best practices can be found [here](http&#58;//office.microsoft.com/en-us/communicator-help/organizer-and-presenter-best-practices-HA102006921.aspx).
+ The Lync meeting experience is designed to allow people to collaborate productively from different locations. In Microsoft Lync, conference call leaders are referred to as presenters. The meeting organizer is automatically a leader. 
+Lync presenter's best practices can be found     [here](http&#58;//office.microsoft.com/en-us/communicator-help/organizer-and-presenter-best-practices-HA102006921.aspx).
 
-## Features
+### Features
 
 A Lync whiteboard is a blank page that allows presenters to draw, add text, and highlight information by using the annotation tools.
 
-Desktop and application sharing, this feature allows presenters to broadcast any visuals, applications, Web pages, documents, software, or part of their desktops to remote participants in real time, right from Lync 2010.
+Desktop and application sharing, this feature allows presenters to broadcast any visuals, applications, Web pages, documents, software, or part of their desktops to remote participants in real time, right from Lync.
 
 Application sharing allows audience members to follow along with mouse movements and Keyboard input. Presenters can choose to share the entire screen or only a portion to keep the audience focused on key information. By sharing their desktops, presenters are able to engage with their audiences in interactive product or software demos from any location.
 
