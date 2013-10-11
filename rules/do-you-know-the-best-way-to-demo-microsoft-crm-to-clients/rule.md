@@ -38,4 +38,4 @@ You should be able to show:
 - Service (aka Support)
 - Mail Merge
 
-![](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/PublishingImages/CRMscreenshot.jpg)Figure: Outlook 2007 with the CRM plugin![](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/PublishingImages/CRM-2013-screenshot.jpg)Figure: Outlook 2013 with the CRM plugin
+![](/PublishingImages/CRM-2013-screenshot.jpg)Figure: Outlook​ with the CRM plugin
