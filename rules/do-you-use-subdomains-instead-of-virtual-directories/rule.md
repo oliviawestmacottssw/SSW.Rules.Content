@@ -9,15 +9,21 @@ authors:
 
 ---
 
- Using subdomains makes it easier to host different sections of your website on different platforms and in different geographic locations. 
-​​​​http://ssw.myservice.com/
-http://northwind.myservice.com/
+ Using subdomains over directories has 2 benefits: 
+1. it is easier to host different sections of your website on different platforms, and
 
-Figure: ​Good Example - A subdomain is used to distinguish ​organisations using myservice.com
-​​​http://www.myservice.com/ssw/
-http://www.myservice.com/northwind/
+2. in different geographic locations.
 
 
-​​Figure: Bad Example - Virtual directories are used to distinguish organisations using myservice.com
+
+​​​​http://**ssw**.myservice.com/
+http://**northwind**.myservice.com/
+
+Figure: ​Good Example - A subdomain is used to distinguish ​organisations 
+​​​http://www.myservice.com/**ssw**/
+http://www.myservice.com/**northwind**/
+
+
+​​Figure: Bad Example - Virtual directories are used to distinguish organisations
 
 
