@@ -17,14 +17,14 @@ The Product Owner is responsible for updating and managing the Product backlog.
 There are the options:
 
 1. **Team Web Access**
-[http://tfs.ssw.com.au/tfs/web/](http&#58;//tfs.ssw.com.au/tfs/web/ "http&#58;//tfs.ssw.com.au/tfs/web/")
-![image](/Management/RulesToBetterScrumUsingTFS/PublishingImages/RulesScrumUpdateBacklogGood.jpg "image")
+[https://tfs.ssw.com.au/tfs/​](https&#58;//tfs.ssw.com.au/tfs/ "https&#58;//tfs.ssw.com.au/tfs/")
+![image](/PublishingImages/RulesScrumUpdateBacklogGood.jpg "image")
 **Figure:Team Web Access is the best way
 **
 2. **Emails**
 <br>    This is a very poor way to access and update the backlog as you can’t order the emails by business priority.
 3. **Team Companion**
-![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/RulesScrumUpdateBacklogBest.jpg)
+![](/PublishingImages/RulesScrumUpdateBacklogBest.jpg)
 **Figure: Team Companion lets you edit work items right in Outlook**
 
 
