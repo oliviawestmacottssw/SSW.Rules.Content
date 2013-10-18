@@ -14,7 +14,7 @@ authors:
 ---
 
 
-You should do anything that helps a project succeed. The best thing is to enable great collaboration, by giving your customer an awesome 'Customer Portal'.  Then they can see new mockups, comment on features, get new releases and participate in team discussions on their particular project.
+​You should do anything that helps a project succeed. The best thing is to enable great collaboration, by giving your customer an awesome 'Customer Portal'.  Then they can see new mockups, comment on features, get new releases and participate in team discussions on their particular project.
 
 So the first thing you should do is to create a 'Customer Portal' in your SharePoint extranet. Then give your customer a login, send them an email and they are now going to really get involved!
 
@@ -31,16 +31,16 @@ Once you have the template, follow these steps to create a customer portal with 
 2. Click "Site Actions" on right hand top, select "Manage Content and Structure
 
 
-![Manage Content and Structure](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/ManageContentAndStructure.jpg)
+![Manage Content and Structure](/PublishingImages/ManageContentAndStructure.jpg)
 Figure: The first step to creating a 'Customer Portal' is to select 'Manage Content and Structure' to view site collection 
 Once the new window opens, on the left hand side, click on the 'Clients' dropdown select New-&gt; Site. 
 Note: If you don’t see this option, that means you don’t have permission to create site.
 
-![Create New Site](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CreateNewSiteStep1.jpg)
+![Create New Site](/PublishingImages/CreateNewSiteStep1.jpg)
 Figure: Create new site 
 Now follow these steps when the new window opens fill in the fields below.
 
-![Info to create site](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/CreateNewSiteStep2.jpg)
+![Info to create site](/PublishingImages/CreateNewSiteStep2.jpg)
 Figure: Fill in the appropriate info then click "Create" 
 More Information:
 
@@ -57,7 +57,7 @@ More Information:
 
 
 Next step is to setup the groups and permissions.
-![](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SetUpGroupForSite.jpg)  Figure: Create a 'new group' or select an 'existing group' for the newly created site. 
+![](/PublishingImages/SetUpGroupForSite.jpg)  Figure: Create a 'new group' or select an 'existing group' for the newly created site. 
 More Information:
 
 - Permissions: After you created the website for the client project, you need to configure the permission to make sure the developers and the clients can visit the site with the current authority. By default:
@@ -80,7 +80,7 @@ Note: you can also access this through the "People and Group" option on "Site Ac
 
 Click "OK", and the portal is created.
 
-![Northwind Portal](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/Northwind%20Portal.jpg)
-Figure: [View Northwind portal.](http&#58;//sharepoint.ssw.com.au/zzClients/Northwind/default.aspx) 
+![Northwind Portal](/PublishingImages/Northwind%20Portal.jpg)
+Figure: [View Northwind portal.](http&#58;//projects.ssw.com.au/sites/Northwind/default.aspx) 
 Note: SharePoint will send "welcome email" to all the members of the groups you created for the site with basic information, but you still need to send email to your customer with the login details like Url, userName and Password.
 
