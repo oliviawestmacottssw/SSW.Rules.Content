@@ -20,14 +20,17 @@ Figuring out how your workflow works is an essential part of the editing process
             - Edit Assets
                 - Music
                 - Images
-                - Templates
+                - Templates​
                 - Videos
                     - CTA
                 - Stings
                 - Effects
-                - Lower Thirds
+                - LowerThirds
                 - Transitions
-                - Live Stream
+                - LiveStream
+                - Fonts
+                - Intros\_Outros
+                - SoundEffects
             - YYYY\_MM\_DD\_ProjectName
                 - Rushes
                     - Shoot 1
