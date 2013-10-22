@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Carrying your laptop with the right stuff installed is not enough. 
+ ​Carrying your laptop with the right stuff installed is not enough. 
 
 <br>Not only software, carrying your own hardware and peripherals will save you hours one day: 
 
@@ -40,7 +40,7 @@ We have one guy in our office who carries two bags, each weighing about 10 kgs. 
 
  If you need to quickly share something with your mate:
 
-- Use a thumb drive that you carry as per [Rules to better Software Consultants - Carry a thumb drive](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsWorkingInATeam.aspx#ThumbDrive)
+- Use a thumb drive that you carry as per [Rules to better Software Consultants - Carry a thumb drive](/management/rules-to-better-software-consultants-working-in-a-team/pages/default.aspx#ThumbDrive)
 - Setup a wireless ad hoc network as per [http://www.addictivetips.com/windows-tips/create-a-quick-ad-hoc-wireless-network-connection-between-two-computers-in-windows-vista/](http&#58;//www.addictivetips.com/windows-tips/create-a-quick-ad-hoc-wireless-network-connection-between-two-computers-in-windows-vista/)
 
 
