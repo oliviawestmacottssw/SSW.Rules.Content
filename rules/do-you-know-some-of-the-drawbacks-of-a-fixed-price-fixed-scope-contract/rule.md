@@ -20,7 +20,7 @@ There are 4 main reasons...
 
 1. You can’t predict the future
     - Waterfall project planning has been proven to not  deliver over 30 years of trying... The Gartner Group says 74% of failed software  projects in the last 2 years
-    - See the Code of Uncertainty to see the range of cost  change at different stages through a project:
+    - See the Con​e of Uncertainty to see the range of cost  change at different stages through a project:
 
 ![Cone of Uncertainty](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/PublishingImages/cone-of-uncertainty.jpg)Figure: The cone of uncertainty in software cost and size estimation
 2. Changes requests are an extra cost and slow progress
