@@ -14,7 +14,7 @@ This is the meeting where the Product Owner accepts or rejects the stories in th
 One person, often the ScrumMaster, presents a summary to the Product Owner of the stories committed at the Sprint Planning meeting and the stories being presented for acceptance.  The Team seeks to have more stories accepted than originally committed.  It is important that the Product Owner knows at the beginning whether The Team believe that they have over or under achieved the Sprint commitment.
 
 Each story is then presented by the Story Owner for acceptance.  It is the objective of the Story Owner to get the Story accepted as quickly as possible while being totally transparent which includes declaring whether there are any known outstanding bugs in the story (which should already be on the Product Backlog) and adherence to The Team's Done Criteria.
-
+​
 If a Story is accepted but more work needs to be done, a new Story to cover this work is added to the Product Backlog.  Similarly, if a bug is found during the review, it is added to the Product Backlog.
 
 If a Story is rejected and returned to the Product Backlog but the Sprint itself is accepted, then a careful decision needs to be made.  If changes have been checked-in to the Sprint's branch then it must be established that these changes have no adverse effect or they must be carefully undone before the branch is merged with the trunk.  For this reason, it is always safer to accept stories with conditions rather than reject them.
@@ -23,34 +23,11 @@ The ScrumMaster keeps the meeting on track and to the Timebox by disallowing dis
 
 This meeting is normally timeboxed to as many hours as there are weeks in the Sprint.
 
-In Scrum, there are totally 4 meetings that you need to know: <br>   
-- Sprint Planning Meeting (we separate this meeting to two parts: <br>         [WHAT](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx "Sprint Planning (WHAT) Meeting") and <br>         [HOW](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanningMeeting.aspx))
+In Scrum, there are 4 meetings in total that you need to know about: <br>   
+- [Sprint Planning Meeting](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
 - [Scrum Meeting (Daily standup)](/Management/RulesToBetterScrumUsingTFS/Pages/DailyScrumUpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
-- Sprint Review Meeting (this page)
-- [Sprint Retrospective Meeting](/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx "Retrospective Meeting")
+- Sprint Review Meeting (Described on this page)
+- [Sprint Retrospective Meeting](/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx "Sprint Retrospective Meeting")
 
+ 
 
-
-
-**Hi XXX,**
-
-This meeting will consist of:
-
-**Sprint Review Meeting**
-     We will go through the user stories that have been completed and demonstrate them.
-See rule        [Do you know what happens at a Sprint Review Meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/SprintReviewMeeting.aspx)
-
-**Sprint Retrospective Meeting**
-Sprint closed and new sprint starts.
-We ask for feedback of the previous sprint so that we can ‘Inspect and Adapt’.
-See rule        [Do you know what happens at a Sprint Retrospective Meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx)
-
-**Sprint Planning Meeting **(we separate this meeting to two parts:        **WHAT **and        **HOW**)
-We go through the backlog (aka to do list), get more information, estimate and then prioritize.        
-In the how meeting, we then breakdown to tasks and commit to what we believe we can deliver for the next sprint.
-
-See rules        [Do you know what happens at a Sprint Planning (WHAT) Meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx) and        [Do you know what happens at a Sprint Planning (HOW) Meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanningMeeting.aspx)
-
-This is as per the rule        [Do you know what happens at a Sprint Review Meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/SprintReviewMeeting.aspx) from        [Rules to better Scrum using TFS](/Management/RulesToBetterScrumUsingTFS/Pages/default.aspx)
-
-**Figure: Good Example - copy this appointment template and send to Product Owner**
