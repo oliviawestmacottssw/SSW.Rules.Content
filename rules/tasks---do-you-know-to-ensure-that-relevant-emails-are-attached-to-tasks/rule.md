@@ -9,9 +9,18 @@ authors:
 
 ---
 
+ 
+Often you will receive rich information from your Product Owner (Customer) about tasks. That information can be in the form of Word documents, HTML Emails and Pictures, but you generally receive them in the context of an Email. This should be done by one person called the scribe.​
 
-Often you will receive rich information from your Product Owner (Customer) about tasks. That information can be in the form of Word documents, HTML Emails and Pictures, but you generally receive them in the context of an Email.
 
+### The Scribe will:
+
+1. take screenshots and notes
+2. turn them into multiple emails
+3. add them into the backlog with Team Companion (can be added directly into TFS on Web Browser)
+
+
+ 
 You need to keep these so your Team can refer to it later, and so you can send a “done” when the task has been completed. This preserves the “history” of the task and allows you to keep relevant partied included in any future conversation.
 
 Keep the original email so that you can [reply DONE and delete the email](/Communication/RulesToBetterEmail/Pages/DoneReplyAndDeleteEmail.aspx).
