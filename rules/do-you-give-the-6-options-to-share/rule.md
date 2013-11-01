@@ -9,4 +9,6 @@ authors: []
 
  
 If users want to make some information public, then make it easy for them.
-   ​![social networks links](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/social-networks.jpg)Figure: Good example – User can easily share information
+   ​ ![social networks links](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/social-networks.jpg)Figure: Good example – User can easily share information via 6 avenues, Google+, Twitter, Facebook, email, SMS, and copy to clipboard for pasting.
+
+
