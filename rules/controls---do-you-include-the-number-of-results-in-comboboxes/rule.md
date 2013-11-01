@@ -11,7 +11,7 @@ authors:
 
  
 When designing your form, you should try to help your user whenever it's possible. So it's a good idea to include the number of results in ComboBoxes.
-   ​For Web Pages![Combo-box with multiple columns](/DesignandPresentation/RulestoBetterInterfacesControls/PublishingImages/combo-box-multiple-col.jpg)Figure: Good example – combo-box with multiple columns Feel free to use our sample:  
+   ​For Web Pages![Combo-box with multiple columns](/PublishingImages/combo-box-multiple-col.jpg)Figure: Good example – combo-box with multiple columns Feel free to use our sample:  
 1. Download and install Kendo UI Controls from <br>      [Kendo UI](http&#58;//www.kendoui.com/)
 2. **HTML (Razor)**
  Create a combo-box that has a custom template. Use a code bellow as an example: <br>      
@@ -132,6 +132,7 @@ $(document).ready(function() {
    
     // prepend header to combo-box list. By default you only get <ul>
     $("
+            
             Project Name</td>" +
         "<td id='projectTotalCountHeader' class='projectTotalCount'>Used</td>" +
         "<td id='projectLastUsedHeader' class='projectLastUsed'>Last Used</td>" +
@@ -151,4 +152,5 @@ $(document).ready(function() {
 ### For Windows Forms
 ![Options Form - ComboBox without Result Count](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ComboWF-1.jpg)Figure: Bad Example - You can't tell the number of results and there is a scroll bar![Options Form - ComboBox with Result Count](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ComboWF-2.jpg)Figure: Good Example - The number of results is clearly displayed. Long text boxes &gt; 30 entries, another approach can be employed - putting the common ones at the top![Long Text ComboBox](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Rule38LongTextCombobox.jpg)Figure: Bad Example - Firstly because it is manual, plus what about the 4th, 5th, etc most common used countries![Sortable ComboBox](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/rule38SortableCombobox.jpg)Figure: Bad Example – This was a highly unpopular method of the sorting and counting above
 We believe all combos should be able to be sorted ascending/descending and by popularity asc/desc.
+![sort-alpha-numeric.jpg](/PublishingImages/sort-alpha-numeric.jpg)Figure: Good Example - Is there a better way to sort this?
 
