@@ -11,4 +11,4 @@ authors: []
 Put in all information, even if some aren't selectable, provided there is context.
    ​
 This lets the users see what is available and what isn't, without being overbearing.
-![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BadScanOptions.gif)Good Example: The "Check broken links" checkbox in this case is not an option, but showing it gives the user context
+![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BadScanOptions.gif)Figure: Good Example - The "Check broken links" checkbox in this case is not an option, but showing it gives the user context
