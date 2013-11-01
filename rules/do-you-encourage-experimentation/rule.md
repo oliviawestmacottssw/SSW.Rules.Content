@@ -14,8 +14,4 @@ Encourage experimentation to increase comfort:
     - Remember your last state
     - **Live preview**
 
- 
-​![live-preview.jpg](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/live-preview.jpg)
-
-Figure: Good example - Office Word uses Live Preview to show what styles look like
-
+ <dl class="ssw15-rteElement-ImageArea">​<img src="/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/live-preview.jpg" alt="live-preview.jpg" style="margin&#58;5px;width&#58;650px;"></dl><dd class="ssw15-rteElement-FigureGood">Figure&#58; Good example - Office Word uses Live Preview to show what styles look like</dd>
