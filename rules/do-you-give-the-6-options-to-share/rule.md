@@ -9,5 +9,8 @@ authors: []
 
  
 If users want to make some information public, then make it easy for them.
-   ​<dl class="goodImage"><dt><img alt="social networks links" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/social-networks.jpg"></dt>
-<dd>Figure&#58; Good example – User can easily share information</dd></dl>
+   ​ <dl class="goodImage"><dt>
+      <img alt="social networks links" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/social-networks.jpg">
+   </dt><dd>Figure&#58; Good example – User can easily share information via 6 avenues, Google+, Twitter, Facebook, email, SMS, and copy to clipboard for pasting.</dd></dl>
+
+
