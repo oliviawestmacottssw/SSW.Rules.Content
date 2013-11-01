@@ -39,7 +39,7 @@ Tech Support
 **To:** Tech Support
 **Subject:** Issue with lab management hosts
 
-I accidentally (on scvmm) created a folder called "Testing" under by All Hosts group. In TFSAC I added the AllHosts\Testing host. This lead me to other problems so I tried to remove this host from TFS. Guess what? I can't remove any hosts from TFS at all! Even after I deleted it from SCVMM. The error I get is: 
+I accidentally (on scvmm) created a folder called "Testing" under by All Hosts group. In TFSAC I added the AllHosts\Testing host. This led me to other problems so I tried to remove this host from TFS. Guess what? I can't remove any hosts from TFS at all! Even after I deleted it from SCVMM. The error I get is: 
 
 TF259085: Team Foundation Server could not delete the environment location because the following All Hosts\_Testing is currently in use: TeamProjectCollectionhostGroup. Delete the resources at this location, and then try the operation again. (type SoapException)
 
