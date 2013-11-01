@@ -8,5 +8,5 @@ authors: []
 ---
 
  
-## ![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodMoreInfo.png)Good Example: The screenshot provides more, useful information and gives the user context
+## ![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodMoreInfo.png)Figure: Good Example - The screenshot provides more, useful information and gives the user context
  
