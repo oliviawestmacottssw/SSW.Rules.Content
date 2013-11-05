@@ -19,4 +19,4 @@ authors:
 
 
 ### Download
-    <br>   ![](/_LAYOUTS/15/Images/SSW/IconDoc.png "Word Document") [Download the “Installed Solutions Checklist”](http&#58;//intranet.ssw.com.au/SysAdmin/SharedDocuments/MSSharePoint/HowTos-DoYouConfirmYourListOfInstalledSharePoint2007Solutions.docx) 
+    <br>   [Download the “Installed Solutions Checklist”](http&#58;//intranet.ssw.com.au/SysAdmin/SharedDocuments/MSSharePoint/HowTos-DoYouConfirmYourListOfInstalledSharePoint2007Solutions.docx) 
