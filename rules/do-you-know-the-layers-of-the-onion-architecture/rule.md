@@ -54,3 +54,5 @@ The Onion Architecture relies heavily on the [Dependency Inversion](http&#58;//
 - [http://stackoverflow.com/questions/9732747/what-type-of-architecture-is-this-called/9933371#9933371](http&#58;//stackoverflow.com/questions/9732747/what-type-of-architecture-is-this-called/9933371)
 
 
+**Further Reading:** [Do You Use a Dependency Injection Centric Architecture?](/SoftwareDevelopment/RulesToBetterMVC/Pages/Use-a-Dependency-Injection-Centric-Architecture.aspx)
+
