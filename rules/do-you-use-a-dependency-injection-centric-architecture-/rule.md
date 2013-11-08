@@ -19,3 +19,5 @@ It emphasizes the use of interfaces for the business logic and repository layers
 An n-Tier architecture has at its base the database.
 The core of the onion architecture is the Domain Model, and all dependencies are injected. This leads to more maintainable applications since it emphasizes separation of concerns.
 
+**Further Reading:** [Do you know the layers of the onion architecture?](/SoftwareDevelopment/RulesToBetterMVC/Pages/The-layers-of-the-onion-architecture.aspx)
+
