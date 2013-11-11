@@ -16,6 +16,8 @@ authors:
  Instructions are very important when maintaining a project. With this document, people new to it can take over it quickly. This document should be created at the beginning of a project and make sure it's updated gradually. ​​ 
 We recommend that you add a document as a solution item and name it '\_Instructions.docx'.
 
+​​​Tip: Microsoft Word documents are preferred over .txt files because images and formatting are important
+
 You can also break up this document into 4 smaller documents
 
 - \_Business.docx - Explaining the business purpose of the app
