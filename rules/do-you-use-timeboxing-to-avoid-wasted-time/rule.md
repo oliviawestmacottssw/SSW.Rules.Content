@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Sometimes you can set a task or be given work that ends up taking much longer than expected. Timeboxing sets a time limit to a task, afterwhich you must stop and move on. 
+ Sometimes you can set a task or be given work that ends up taking much longer than expected. Timeboxing sets a time limit to a task, after which you must stop and move on. 
 
 
 ​Timeboxing allows you to give more context to a task by showing how much time (and therefore money) you are willing to spend. This typically applies to:
@@ -26,6 +26,6 @@ authors:
  Do not spend more than the time allocated on this task.
 
 
-Figure: An example timeboxing of one hour.
+Figure: Good Example. A timeboxing of one hour.
 
 
