@@ -14,12 +14,13 @@ Some clients think that a Project Manager is just a resource that increases the 
 
 
 
-Software teams often come with Project Manager. You can do better than that getting a Scrum Master.
- 
-It's generally best for the Scrum Master \*not\* to be a member of the development team. This way they can stay objective and it creates more of a cerimony when they turn up.
-Tip: If they are trying to be a member of the development team and a Scrum Master, call them a 'Semi Scrum Master" as they often don't do as good a job.
-
  
+
+Software teams often come with a Project Manager. You can do better than that by getting a Scrum Master.
+ 
+It's generally best for the Scrum Master \*not\* to be a member of the development team. This way they can stay objective and it creates more of a ceremony when they turn up.
+
+**Tip:** If they are trying to be a member of the development team and a Scrum Master, call them a 'Semi Scrum Master" as they often don't do as good a job.
 
 Here is a common way a project goes with a Scrum Master involved:
 
