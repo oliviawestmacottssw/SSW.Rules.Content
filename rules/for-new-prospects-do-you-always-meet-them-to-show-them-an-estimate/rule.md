@@ -7,8 +7,8 @@ authors: []
 
 ---
 
-
+ 
 The findings of the Spec Review (the Initial Release Plan) should be presented at a meeting with the key decision makers of the project for review and acceptance, generally in the form of a PowerPoint presentation. It is important that all the required people are in a room together to review the Initial Release Plan.
 
-See [Rules to Better Project Management](http&#58;//www.ssw.com.au/ssw/standards/rules/RulestoBetterProjectManagement.aspx#SpecificationReviewPresentation)
-
+See     [Rules to Better Project Management](/spec-do-you-effectively-present-the-outcomes-at-the-＂specification-review-presentation＂)
+ 
