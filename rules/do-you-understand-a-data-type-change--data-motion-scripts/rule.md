@@ -57,6 +57,8 @@ Bad Example - the default scaffolded migration will not perform any mapping of 
 
 
 
+
+
 public partial class GenderToString : DbMigration
     {
         public override void Up()
@@ -73,4 +75,10 @@ DropColumn("dbo.Customers", "Gender");
 
 DropColumn("dbo.Customers", "GenderTemp");
         }
+
+
+
+
+
+
 Good Example - Data motion with EF Migrations
