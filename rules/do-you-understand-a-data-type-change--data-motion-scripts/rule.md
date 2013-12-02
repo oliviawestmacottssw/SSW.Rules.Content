@@ -31,4 +31,46 @@ We have a 'Gender' column (that is a Boolean) storing 0's and 1's. All works wel
 Visual Studio does not automatically support this scenario, as data type changes are not part of the refactoring tools. However, if you add pre and post scripting events to handle the data type change the rest of the changes are automatically handled for you.
 ![](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/DataDude-BadExample.jpg)
 Good Example - Don't use Data Dude
-note: In order to achieve this you MUST use the built in Refactor tools as it create a log of all the refactors in order. This helps Visual Studio generate the schema compare and make sure no data is lost.    
+
+note: In order to achieve this you MUST use the built in Refactor tools as it create a log of all the refactors in order. This helps Visual Studio generate the schema compare and make sure no data is lost.
+
+###  
+
+### EF Code-First Migrations
+
+All the same steps (rename, new column, map, delete) also apply when using Entity Framework Code-First Migrations.
+
+public partial class GenderToString : DbMigration
+    {
+        public override void Up()
+        {
+            AlterColumn("dbo.Customers", "Gender", c =&gt; c.String(maxLength: 2));
+        }
+        
+        public override void Down()
+        {
+            AlterColumn("dbo.Customers", "Gender", c =&gt; c.Boolean(nullable: false));
+        }
+    }
+Bad Example - the default scaffolded migration will not perform any mapping of your data
+
+
+
+
+public partial class GenderToString : DbMigration
+    {
+        public override void Up()
+        {
+            AddColumn("dbo.Customers", "GenderTemp", c =&gt; c.Boolean(nullable: false));
+
+Sql("UPDATE [dbo].[Customers] set GenderTemp = Gender");
+
+DropColumn("dbo.Customers", "Gender");
+            AddColumn("dbo.Customers", "Gender", c =&gt; c.String(maxLength: 2));
+            
+            Sql("UPDATE [dbo].[Customers] set Gender = 'M' where GenderTemp=1");
+            Sql("UPDATE [dbo].[Customers] set Gender = 'F' where GenderTemp=0");
+
+DropColumn("dbo.Customers", "GenderTemp");
+        }
+Good Example - Data motion with EF Migrations
