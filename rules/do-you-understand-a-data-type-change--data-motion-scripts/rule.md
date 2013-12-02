@@ -21,22 +21,22 @@ authors:
 
 <br>Let's look at an example: <br> 
 We have a 'Gender' column (that is a Boolean) storing 0's and 1's. All works well for a while.
-![](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/TableBit.jpg) Figure: Anything wrong this Gender column?   Later you learn you need to change the data type to char(2) to support 'M', 'F', 'T', 'NA' and 'U' ![](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/CasterSemenya.jpg) Figure: Caster Semenya has taught us a thing or two about the right data type for Gender  The data then must be migrated to the new data type this way: 
+![](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/TableBit.jpg)Figure: Anything wrong this Gender column?   Later you learn you need to change the data type to char(2) to support 'M', 'F', 'T', 'NA' and 'U'  ![](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/CasterSemenya.jpg)Figure: Caster Semenya has taught us a thing or two about the right data type for Gender  The data then must be migrated to the new data type this way:  
 1. Rename 'Gender' to 'ztGender' \*
 2. Add a new column 'Gender' with type char(2)
 3. Insert the existing data from 'ztGender' to 'Gender' (map 0 to 'F' and 1 to 'M')
 4. Delete the column ztGender\*
 
- \*Note: zt stands for Temporary ![](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/TableChar.jpg) Figure: Changing the data type and data required a ["Data Motion Script"](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/Pages/DoYouHaveAnUnderstandingOfSchemaChangesAndTheirIncreasingComplexity.aspx) 
+ \*Note: zt stands for Temporary  ![](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/TableChar.jpg)Figure: Changing the data type and data required a ["Data Motion Script"](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/Pages/DoYouHaveAnUnderstandingOfSchemaChangesAndTheirIncreasingComplexity.aspx) 
 Visual Studio does not automatically support this scenario, as data type changes are not part of the refactoring tools. However, if you add pre and post scripting events to handle the data type change the rest of the changes are automatically handled for you.
 ![](/SoftwareDevelopment/RulesToBetterSQLServerSchemaDeployment/PublishingImages/DataDude-BadExample.jpg)
 Good Example - Don't use Data Dude
-
+ 
 note: In order to achieve this you MUST use the built in Refactor tools as it create a log of all the refactors in order. This helps Visual Studio generate the schema compare and make sure no data is lost.
 
 ###  
 
-### EF Code-First Migrations
+### EF Code-First Migrations 
 
 All the same steps (rename, new column, map, delete) also apply when using Entity Framework Code-First Migrations.
 
@@ -46,7 +46,7 @@ public partial class GenderToString : DbMigration
         {
             AlterColumn("dbo.Customers", "Gender", c =&gt; c.String(maxLength: 2));
         }
-        
+            
         public override void Down()
         {
             AlterColumn("dbo.Customers", "Gender", c =&gt; c.Boolean(nullable: false));
@@ -55,30 +55,18 @@ public partial class GenderToString : DbMigration
 Bad Example - the default scaffolded migration will not perform any mapping of your data
 
 
-
-
-
-
 public partial class GenderToString : DbMigration
-    {
-        public override void Up()
-        {
-            AddColumn("dbo.Customers", "GenderTemp", c =&gt; c.Boolean(nullable: false));
-
-Sql("UPDATE [dbo].[Customers] set GenderTemp = Gender");
-
-DropColumn("dbo.Customers", "Gender");
-            AddColumn("dbo.Customers", "Gender", c =&gt; c.String(maxLength: 2));
-            
-            Sql("UPDATE [dbo].[Customers] set Gender = 'M' where GenderTemp=1");
-            Sql("UPDATE [dbo].[Customers] set Gender = 'F' where GenderTemp=0");
-
-DropColumn("dbo.Customers", "GenderTemp");
-        }
-
-
-
-
+ {
+ public override void Up()
+ {
+ AddColumn("dbo.Customers", "GenderTemp", c =&gt; c.Boolean(nullable: false));
+ Sql("UPDATE [dbo].[Customers] set GenderTemp = Gender");
+ DropColumn("dbo.Customers", "Gender");
+ AddColumn("dbo.Customers", "Gender", c =&gt; c.String(maxLength: 2));
+ Sql("UPDATE [dbo].[Customers] set Gender = 'M' where GenderTemp=1");
+ Sql("UPDATE [dbo].[Customers] set Gender = 'F' where GenderTemp=0");
+ DropColumn("dbo.Customers", "GenderTemp");
+ }
 
 
 Good Example - Data motion with EF Migrations
