@@ -71,7 +71,7 @@ It has one other advantage over the Fibonacci sequence, it is easier for non-tec
 Figure: Good example -Doubling simplifies relative sizing
 ### Thown 
 
-Another method of estimating is the "Thrown method" as described Martin Fowler.     [http://martinfowler.com/bliki/ThrownEstimate.html](http&#58;//martinfowler.com/bliki/ThrownEstimate.html) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")
+Another method of estimating is the "Thrown method" as described Martin Fowler.     [http://martinfowler.com/bliki/ThrownEstimate.html](http&#58;//martinfowler.com/bliki/ThrownEstimate.html) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")
 
 This is particularly useful if you don't have Planning Poker cards.  Instead of Fibonacci numbers, estimates are from 1 to 5.  It's nice and simple, and you only need the fingers on your hand.
 
@@ -107,6 +107,12 @@ The action is done in the same method as the game 'Rock, Paper, Scissors'. The o
 
 **#5 Use Spikes**
  If you do find a very large User Story, consider using a Spike (aka. an investigation task) to help work out how much work will be involved.
+
+**#6 Small stories**
+
+As some stories can be obviously very small, we allow any member of the Team to propose that a Story is 0.5 points and no further discussion is required.  If there is no objection (i.e. immediate consensus is reached) then the story is given 0.5 points and the Team move on to the next one.  This is the only way a story can have only 0.5 points and always indicates that is was a quick decision and therefore may have some risk attached.
+
+
  ​​Related rule
 - [Do you estimate “Business Value”?​](/Management/RulesToBetterScrumUsingTFS/Pages/Estimate-Business-Value.aspx)
 
