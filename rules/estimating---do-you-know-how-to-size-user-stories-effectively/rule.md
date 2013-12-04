@@ -16,7 +16,7 @@ authors:
 ---
 
  
-​It is very important for teams to estimate tasks effectively.  There are several methods for estimating:
+A team knows how many stories they can commit to my measuring their velocity.  The Team estimates the highest priority stories in the Product Backlog in Story Points. ​It is very important for teams to estimate tasks effectively.  There are several methods for estimating:
 
 - Shirt Sizes
 - Fibonacci Extended (1-100)
@@ -71,7 +71,7 @@ It has one other advantage over the Fibonacci sequence, it is easier for non-tec
 Figure: Good example -Doubling simplifies relative sizing
 ### Thown 
 
-Another method of estimating is the "Thrown method" as described Martin Fowler.     [http://martinfowler.com/bliki/ThrownEstimate.html](http&#58;//martinfowler.com/bliki/ThrownEstimate.html)
+Another method of estimating is the "Thrown method" as described Martin Fowler.     [http://martinfowler.com/bliki/ThrownEstimate.html](http&#58;//martinfowler.com/bliki/ThrownEstimate.html) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")
 
 This is particularly useful if you don't have Planning Poker cards.  Instead of Fibonacci numbers, estimates are from 1 to 5.  It's nice and simple, and you only need the fingers on your hand.
 
