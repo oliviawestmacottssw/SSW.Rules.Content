@@ -16,24 +16,24 @@ Many smart people like creating braches e.g.     [http://blog.hinshelwood.com/ar
 
 As outlined by Martin Fowler in his article on [Feature Branches](http&#58;//martinfowler.com/bliki/FeatureBranch.html) however, there are a number of issues related to merging that lead us to try and minimise the number of branches that we work with.
  
-​**Why we don’t like branching**
+### Why we don’t like branching
 
 1. Merging is painful, complex and is a time consuming task that does not add value.
 2. Often regressions are introduced as merges are missed and not merged back to trunk
 3. The longer branches are, the more people that have worked on them... the more unpleasant the merge is going to be.
-<br>Amount of pain = size of the change \* the amount of work on the trunk in that period
+ Amount of pain = size of the change \* the amount of work on the trunk in that period
 4. The more you need to create a branch, the harder it is going to be to merge it back into the trunk!
 5. Branching impedes refactoring.
-<br>If a am working on a branch and perform sweeping renaming, and a developer working on another branch does the same – merging is nearly impossible.
-<br>This is **very** likely to happen on code bases that require tidying when you have developers who believe in improving code as they go (see the [Boy Scout Rule](http&#58;//www.ssw.com.au/ssw/standards/Rules/RulestoBetterCode.aspx#BoyscoutRule))
+ If a am working on a branch and perform sweeping renaming, and a developer working on another branch does the same – merging is nearly impossible.
+ This is <br>      **very** likely to happen on code bases that require tidying when you have developers who believe in improving code as they go (see the <br>      [Boy Scout Rule](http&#58;//www.ssw.com.au/ssw/standards/Rules/RulestoBetterCode.aspx#BoyscoutRule))
 
 
-**When we \*DO\* branch**
+### When we \*DO\* branch
 
 - For a disposable, investigatory spike
 - Every time we release​
 
-![](/Management/RulesToBetterBranchingAndBuilds/PublishingImages/branch-bad.jpg)Figure: Bad Example – Creating a branch per feature leads to lots of merging (Image from[http://paulhammant.com/blog/branch\_by\_abstraction.html](http&#58;//paulhammant.com/blog/branch_by_abstraction.html))![](/Management/RulesToBetterBranchingAndBuilds/PublishingImages/branch-bad-2.jpg)Figure: Bad Example – Creating a branch per sprint has everyone working on the same code but requires at least one merge every sprint![](/Management/RulesToBetterBranchingAndBuilds/PublishingImages/branch-good.jpg)Figure: Good Example: Release Branching - always develop on the trunk, but create a new branch each time you release. 
+![](/TFS/RulesToBetterBranchingAndBuilds/PublishingImages/branch-bad.jpg)Figure: Bad Example – Creating a branch per feature leads to lots of merging (Image from[http://paulhammant.com/blog/branch\_by\_abstraction.html](http&#58;//paulhammant.com/blog/branch_by_abstraction.html))![](/TFS/RulesToBetterBranchingAndBuilds/PublishingImages/branch-bad-2.jpg)Figure: Bad Example – Creating a branch per sprint has everyone working on the same code but requires at least one merge every sprint![](/TFS/RulesToBetterBranchingAndBuilds/PublishingImages/branch-good.jpg)Figure: Good Example: Release Branching - always develop on the trunk, but create a new branch each time you release. 
 This means th​at all developers are continually integrating all their code, branching is rare, but you always have access to your released version in case bug fixes or small mods are required.
 (Image from [http://paulhammant.com/blog/branch\_by\_abstraction.html](http&#58;//paulhammant.com/blog/branch_by_abstraction.html))
 Further reading:
