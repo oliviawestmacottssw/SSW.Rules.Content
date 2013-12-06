@@ -22,7 +22,6 @@ The easiest method is a quick Google search.
 - Do they have a webpage?
 - Does the webpage look legitimate (not just thrown together)?
 - Is the "Contact Us" Address and/or phone number the same as the one they provided?
-- Do they have any references from other companies?
 
 
 With this information you can then rank them from "Not a Risk" all the way up to "Huge Risk" (the kind with neon flashing lights and all) and decide whether or not to go ahead with the business deal.
