@@ -15,7 +15,7 @@ authors: []
 - The next steps
 
 
-[Specification Review](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulestoBetterProjectManagement.aspx#SpecificationReview) - billed:
+[Specification Review](/Management/RulestoBetterSpecificationReviews/Pages/SpecificationReview.aspx) - billed:
 
 - A technical document listing in detail what technologies will be used and how
 - Most likely includes initial release plans and ballparks
