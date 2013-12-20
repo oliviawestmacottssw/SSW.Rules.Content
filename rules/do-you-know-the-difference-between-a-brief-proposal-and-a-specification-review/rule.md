@@ -15,7 +15,7 @@ authors: []
 - The next steps
 
 
-[Specification Review](/Management/RulestoBetterSpecificationReviews/Pages/SpecificationReview.aspx)![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window") - billed:
+Specification Review![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window") - billed:
 
 - A technical document listing in detail what technologies will be used and how
 - Most likely includes initial release plans and ballparks
