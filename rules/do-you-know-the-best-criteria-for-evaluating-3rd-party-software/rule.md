@@ -1,0 +1,31 @@
+---
+type: rule
+title: Do you know the best criteria for evaluating 3rd party software?
+uri: do-you-know-the-best-criteria-for-evaluating-3rd-party-software
+created: 2013-12-23T03:44:18.0000000Z
+authors: []
+
+---
+
+ Enter Intro Text 
+​At SSW we evaluate and use a lot of 3rd party libraries. Before considering a​ library for further evaluation we ask the following questions: 
+
+
+
+
+
+- Is it open source?
+- Is the licence LGPL, Apache, or MIT?​​​ ​​[Comparison of licences​](http&#58;//en.wikipedia.org/wiki/Comparison_of_free_software_licenses) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")
+- Is there a quick start guide?
+- Is there a FAQ?
+- Is there an API guide?
+- Is it easy to install? Is there a NuGet package?
+- Is there an active user community?
+
+
+
+
+
+
+If the answer is yes to all of these questions then the library is definitely worth further evaluation.
+
