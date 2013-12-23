@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- Enter Intro Text 
+ ​​Enter Intro Text 
 ​At SSW we evaluate and use a lot of 3rd party libraries. Before considering a​ library for further evaluation we ask the following questions: 
 
 
