@@ -18,11 +18,11 @@ Yes a ListView looks nicer than a DataGrid, but a Datagrid is better because it 
 
    ​
 So our old rule was to always use the ugly DataGrid (although we were never happy about that).
-<dl class="badImage"><dt><img alt="DataGrid" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/UsingDataGridWhenNotNeeded.gif" width="534" height="526"></dt>
-<dd>Figure&#58; Bad Example - The DataGrid is ugly</dd></dl><dl class="goodImage"><dt><img alt="Sortable ListView" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/SortableListView.gif" width="534" height="526"></dt>
+<dl class="badImage"><dt><img height="526" width="534" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/UsingDataGridWhenNotNeeded.gif" alt="DataGrid"></dt>
+<dd>Figure&#58; Bad Example - The DataGrid is ugly</dd></dl><dl class="goodImage"><dt><img height="526" width="534" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/SortableListView.gif" alt="Sortable ListView"></dt>
 <dd>Figure&#58; Good Example - A beautiful ListView - a nicer look over the datagrid</dd></dl>
 So the listview looks nicer? If you are not convinced here is another one:
-<dl class="goodImage"><dt><img alt="Datagrid and Listview" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DatagridVSListview.gif"></dt>
+<dl class="goodImage"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DatagridVSListview.gif" alt="Datagrid and Listview"></dt>
 <dd>Figure&#58; Good Example - The appearance of DataGrid and ListView</dd></dl>
 But another issue is how much code to write... For ListView you will need to write a bit of code to fill the list view...
 <dl class="badCode"><dt><pre>    this.listView1.Items.Clear(); 
@@ -58,8 +58,8 @@ So now the rules are:
 Always use the SSW ListView. 
 Exception: Use the DataGrid when: 
 
-- When not read only - i.e.. users will be editing data directly from the cells.
-- You need more than 1 column with checkboxes, or the column with checkboxes can't be the first column. E.g.: <dl class="image"><dt><img alt="DataGrid" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DataGrid2CheckBoxes.gif"></dt>
+- When not read only - i.e. users will be editing data directly from the cells.
+- You need more than 1 column with checkboxes, or the column with checkboxes can't be the first column. E.g.: <dl class="image"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DataGrid2CheckBoxes.gif" alt="DataGrid"></dt>
 <dd>Figure&#58; One place when you choose a DataGrid over a ListView is when you have 2 checkbox fields</dd></dl>
 
 
