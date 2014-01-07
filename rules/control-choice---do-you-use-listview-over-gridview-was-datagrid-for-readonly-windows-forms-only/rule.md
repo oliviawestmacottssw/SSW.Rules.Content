@@ -67,7 +67,7 @@ So now the rules are:
 Always use the SSW ListView. 
 Exception: Use the DataGrid when: 
 
-- When not read only - i.e.. users will be editing data directly from the cells.
+- When not read only - i.e. users will be editing data directly from the cells.
 - You need more than 1 column with checkboxes, or the column with checkboxes can't be the first column. E.g.: ![DataGrid](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DataGrid2CheckBoxes.gif)Figure: One place when you choose a DataGrid over a ListView is when you have 2 checkbox fields
 
 
