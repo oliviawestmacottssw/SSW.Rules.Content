@@ -10,8 +10,8 @@ authors: []
  
 Encourage experimentation to increase comfort:
 
-    - Undo
-    - Remember your last state
-    - **Live preview**
+- Undo
+- Remember your last state
+- **Live preview**
 
  ​![live-preview.jpg](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/live-preview.jpg)Figure: Good example - Office Word uses Live Preview to show what styles look like
