@@ -11,7 +11,7 @@ authors: []
 One side effect of having busy forms is that it doesn't scale down.
    ​
 Each user prefers to have their own resolution. You must check if your controls will fit on the user's screen. Think about on which computers your application will run, and what devices will display it. To be on the safe side, it is advisable to fit your controls on a 1024 x 768px screen. Our projector has that resolution and it may well be used for presenting your application to the client.
-![Bad Interface Design Example](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/InterfaceResBadExample.jpg)Figure: Bad Example - Form is too large to fit inside 1024x768px resolution![Good Interface Design Example](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/InterfaceResGoodExample.jpg)Figure : Good Example - Form fits inside any screen resolution
+![Bad Interface Design Example](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/InterfaceResBadExample.jpg)Figure: Bad Example - Form is too large to fit inside 1024x768px resolution![Good Interface Design Example](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/InterfaceResGoodExample.jpg)Figure: Good Example - Form fits inside any screen resolution
 The potential solutions for this problem are:
 
 1. Reorder and move the controls around on the form.
