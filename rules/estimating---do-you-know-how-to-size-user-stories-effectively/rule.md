@@ -50,7 +50,7 @@ Planning Poker is a very effective Product Backlog estimation technique and the 
 Mike Cohn introduced changes to the original 7 cards, by changing the 21 to 20 and adding 40 and 100 to indicate very large user stories called Epics.
 
 Ken Schwaber (the father of Scrum) says in his Scrum Certification course, that he is not a fan of the extra cards and says he prefers teams keep to the original 7 cards.
-![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/size-stories-good-example.jpg)Figure: Good example - Estimation using Planning Poker with only small numbers
+![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/size-stories-good-example.jpg)​Figure: OK example - Estimation using Planning Poker with only small numbers
 ### Doubling 
 
 Estimating using doubling numbers makes relative sizing simple. An 8 point PBI should be about twice the size as a 4-point PBI. This method also simplifies PBI swapping where a PBI is replaced with PBIs totalling the same number of points.
@@ -71,7 +71,7 @@ It has one other advantage over the Fibonacci sequence, it is easier for non-tec
 Figure: Good example -Doubling simplifies relative sizing
 ### Thown 
 
-Another method of estimating is the "Thrown method" as described Martin Fowler.     [http://martinfowler.com/bliki/ThrownEstimate.html](http&#58;//martinfowler.com/bliki/ThrownEstimate.html) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")
+Another method of estimating is the "Thrown method" as described Martin Fowler.     [http://martinfowler.com/bliki/ThrownEstimate.html](http&#58;//martinfowler.com/bliki/ThrownEstimate.html)![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")
 
 This is particularly useful if you don't have Planning Poker cards.  Instead of Fibonacci numbers, estimates are from 1 to 5.  It's nice and simple, and you only need the fingers on your hand.
 
