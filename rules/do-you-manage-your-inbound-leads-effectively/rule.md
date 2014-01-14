@@ -14,9 +14,11 @@ authors:
  
 With the amount of money companies spend on marketing these days, it's vital that, when you receive a phone call enquiring about your services, you know how to handle it.
  
-Be prepared for [inbound calls](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterInboundCalls.aspx#Preparation). You should have a script that your phone operators keep close at hand to make sure you ask the necessary qualifying questions. The aim is to determine if you are a good match with the prospect - that way you don't spend time on dead ends and can give more time to the most likely leads.
+Be prepared for [inbound calls](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterInboundCalls.aspx#Preparation). You should have a script that your phone operators keep close at hand to make sure you ask the necessary qua​lifying questio​ns. The aim is to determine if you are a good match with the prospect - that way you don't spend time on dead ends and can give more time to the most likely leads.
 
-Once you have qualified the lead, your aim for the remainder of the call should be to arrange a face-to-face Initial Meeting with the client. Our preference is for the Client to come to us. Think of this office as our showroom. Seeing it will reinforce for the client that we are a real business, not just a voice on the other end of the phone. If it's more convenient for us to visit them, we are happy to accommodate. Send this email  ![](/_LAYOUTS/15/Images/SSW/IconDoc.png "Word Document") [Pre Initial Meeting](http&#58;//www.ssw.com.au/ssw/Standards/templates/BriefProposal-PreInitialMeeting.docx).
+Once you have qualified the lead, your aim for the remainder of the call should be to arrange a face-to-face Initial Meeting with the client.
+
+Send this email ![](/_LAYOUTS/15/Images/SSW/IconDoc.png "Word Document") [Pre Initial Meeting](http&#58;//www.ssw.com.au/ssw/Standards/templates/BriefProposal-PreInitialMeeting.docx).
 
 Once you have agreed on a time, you send an appointment to the client and everyone who will be attending the meeting, including the notes from the phone call in the body of the appointment request.
 ![Meeting request](/Communication/RulesToBetterCRMForUsers/PublishingImages/meeting-request.jpg)Figure: Send an appointment for your initial meeting
