@@ -14,16 +14,13 @@ authors:
 ---
 
  
-We should try to never discount our price at SSW. Instead we should be adding value                     to the offering for the client.
+We try to never discount our price. Instead we should be adding value                     to the offering for the client.
  
 If a client asks for a discount you can add value by offering:
 
-- All our products to our clients at no charge
-- Adam and Tim for 2 hours a<br>                        month to complete the following tasks:
+- All our products to our clients at no charge​
+- Adam for 2 hours a<br>                        month to complete the following tasks:
     - Code Review
     - UI Review
-    - Help implement the SSW Checklist
-    - Tickets to our tech breakfasts for 3-6 months for 2 employees
-    - SSW Membership<br>                                program at no charge
 
 
