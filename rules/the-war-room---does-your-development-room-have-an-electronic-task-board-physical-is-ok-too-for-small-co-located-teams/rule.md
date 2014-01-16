@@ -13,15 +13,17 @@ authors:
 Having a physical task board makes it easy for developers to keep track of tasks.
 
 These are the columns (aka swim lanes) you need:
- ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/Taskboard.jpg)Figure: a physical client taskboard in operation.![TFS Preview Task Board.png](/Management/RulesToBetterScrumUsingTFS/PublishingImages/TFS%20Preview%20Task%20Board.png)Figure: a virtual client taskboard in action ([TFS​](http&#58;//tfspreview.com/)).
-Near your taskboard stick an SSW "Want to submit a User Story?"
+ ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/Taskboard.jpg)​​Figure: Good Example - a physical client task board in operation.
+![TFS Preview Task Board.png](/Management/RulesToBetterScrumUsingTFS/PublishingImages/TFS%20Preview%20Task%20Board.png)
+​​​Figure: Good Example - a virtual client task board in action ([TFS​](http&#58;//tfspreview.com/)).
+Near your task board, stick an SSW "Want to submit a User Story?"
 
 - Where to find their project portal
-- Who to contact with questions
-- How to add tasks to the taskboard
+- Who to contact with questions​
+- How to add tasks to the task board
 
 
-Print out this PDF and fill in the 2 fields and stick it on own taskboard.
+Print out this PDF and fill in the 2 fields and stick it on own task board.
 
 [!\[\](/Management/RulesToBetterScrumUsingTFS/PublishingImages/preview-taskboard.jpg)Download the "SSW Submit a PBI" PDF.](/Management/RulesToBetterScrumUsingTFS/Documents/SSWSubmitaPBI.pdf) 
 ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/Avatar.jpg)Figure: Create an avatar for each person and stick them on the current task. You can find our <br>      [User Story Cards here](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard). You can write the TFS work item ID on each card.
