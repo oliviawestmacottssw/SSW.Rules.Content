@@ -12,11 +12,12 @@ authors:
 ---
 
  
-The scrum team needs a place to gather for all the scrum ceremonies. This room should have useful information on the wall to help the team work more efficiently. We recommend having the following:
+​The scrum team needs a place to gather for all the scrum ceremonies. This room should have useful information on the wall to help the team work more efficiently. We recommend having the following:
 
 - [Physical Task Board](/Management/RulesToBetterScrumUsingTFS/Pages/PhysicalTaskboard.aspx) (to show to current work in progress)
-- [The 8 Steps to Scrum PDF](/Management/RulesToBetterScrumUsingTFS/PublishingImages/8StepstoScrum.pdf) (to show how we work)
+- [The 8 Steps to Scrum PDF](/Management/RulesToBetterScrumUsingTFS/Documents/8StepstoScrum.pdf) (to show how we work)
+- [The 3 Steps to a PBI PDF](/Management/RulesToBetterScrumUsingTFS/Documents/3StepsToAPBI.pdf) (to know the lifecycle of a PBI​)
 - Product Roadmap (to let everyone know the large future priorities)
 - [Definition of Done - aka Done Criteria or DoD](/Management/RulesToSuccessfulProjects/Pages/DoYouGoBeyondDoneAndFollowADoneCriteria.aspx) (the quality that is being adheared to)
 
-<br>​ ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/war-room-bad-example.jpg) Bad Example – No Product Roadmap is on the wall, so people can be out of sync with the future plans of the Product Owner ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/war-room-good-example.jpg) Good Example – The Product Roadmap is visible at a glance
+ ​ ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/war-room-bad-example.jpg) Bad Example – No Product Roadmap is on the wall, so people can be out of sync with the future plans of the Product Owner ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/war-room-good-example.jpg) Good Example – The Product Roadmap is visible at a glance
