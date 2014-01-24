@@ -12,12 +12,12 @@ authors:
 ---
 
 
-Option Explict should always only be used in VB.NET. 
+​Option Explict should always only be used in VB.NET. 
 
 This will turn many of your potential runtime errors into compile time errors, thus saving you from potential time bombs!
 
 
-| We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx#OptionExplicit) to check for this rule. |
+| We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule. |
 | --- |
 
 
