@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​While everyone knows that catch (Exception ex) is bad, no one has really noticed that throw new Exception() is worse.
+​​While everyone knows that catch (Exception ex) is bad, no one has really noticed that throw new Exception() is worse.
 
 System.Exception is a very extensive class, and it is inherited by all other exception classes. If you throw an exception with the code "throw Exception()", what you need subsequently to handle the exception will be the infamous "catch (Exception ex)".
  
