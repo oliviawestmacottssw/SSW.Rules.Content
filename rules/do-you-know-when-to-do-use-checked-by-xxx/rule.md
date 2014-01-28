@@ -17,10 +17,10 @@ authors:
 - When you are new to a company and sending an email to a large distribution list
 - Sending a complicated email
 - Sending a sensitive email (where the content could be perceived as confrontational)
-- When you need a quick "[test please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)" an​d the person is available on the spot
+- In application development, when you need a quick "[test please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)", an​d the person is available on the spot
 
 
-Doing this will ensure:
+Doing this will ensure:​
 
 - You avoid grammatical and spelling errors
 - The layout and tone of the email is professional
