@@ -17,7 +17,7 @@ authors:
 - When you are new to a company and sending an email to a large distribution list
 - Sending a complicated email
 - Sending a sensitive email (where the content could be perceived as confrontational)
-- In application development, when you need a quick "[test please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)", an​d the person is available on the spot
+- In application development, when you need a quick '[test please](/do-you-conduct-a-＂test-please＂-internally-and-then-with-the-client)', an​d the person is immediately available. This​ provides you a chance to check and collaborate on the finished change before the '[done email](/Pages/Done-GiveDetailsAndDelete.aspx)' is sent
 
 
 Doing this will ensure:​
