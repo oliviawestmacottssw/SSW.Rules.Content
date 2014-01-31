@@ -13,7 +13,6 @@ authors:
 
  ​​​​​​You can use SQL Server Reporting Services in MVC even though its only supported by WebForms.​ 
 ​
-
 ​SQL Server Reporting Services reports can be viewed in a web page with the ReportViewer control...however this only applies to ASP.NET WebForms.
 
 ​However, with an iframe and a little bit of code, your reports can be viewed in your ASP.NET MVC application.
