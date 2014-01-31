@@ -21,10 +21,10 @@ authors:
 The trouble is that the above is predicated on the notion that you're doing something wrong and are happy spending time putting out fires that needn't have been lit.
  
 Let's see how to live without stomach ulcers...
- ![Get work approved and spend less time putting out fires](/Management/RulesToHappyClients/PublishingImages/SuccessfulProjects_PuttingOutFires.jpg) Figure: Get work approved and spend less time putting out fires 
-Get permission for the work you do **\*before\*** you do it. Usually get permission verbally, [confirmed with an email](/Communication/RulesToBetterEmail/Pages/EmailToMyself.aspx) (or with a [signature](/Communication/RulesToBetterEmail/Pages/UseEmailSignatures.aspx), although that's sometimes a whole lot harder).
+ ![Get work approved and spend less time putting out fires](/PublishingImages/SuccessfulProjects_PuttingOutFires.jpg)Figure: Get work approved and spend less time putting out fires 
+Get permission for the work you do     **\*before\*** you do it. Usually get permission verbally,     [confirmed with an email](/dones-do-you-send-yourself-emails) (or with a     [signature](/do-you-ask-clients-to-initial-your-work), ​although that's sometimes a whole lot harder).
 
-The natural time for this conversation to occur is in the [Daily Scrum](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)
+The natural time for this conversation to occur is in the     [Daily Scrum](/methodology-do-you-do-daily-scrums-%28aka-stand-up-meetings%29)
 
 Always get permission for:
 
@@ -32,18 +32,18 @@ Always get permission for:
 - Investigation time for scoping out additional items
 - Adding additional resources onto a project
 - Exceeding estimates
-- [Data migration](/Management/RulesToSuccessfulProjects/Pages/PerformMigrationProceduresWithAnApprovedReleasePlan.aspx)
+- [Data migration](/do-you-perform-migration-procedures-with-an-approved-release-plan)
 
 
 Having said that, you need to manage two potential problems with seeking permission on work before acting:
 
 - Increased dead time while waiting for approval
-- Discouraging initiative to [fix problems quickly](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/Pages/FixProblemsQuickly.aspx)
+- Discouraging initiative to <br>      [fix problems quickly](/do-you-fix-problems-quickly)
 
 
 This rule is not generally applicable if:
 
-- You are working on an [ad hoc](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/Pages/Ad-hocWorkAndProjectManagedWork.aspx) basis on a client managed project
-- The task is an obvious task which you would [reasonably assume the client would approve](/Communication/RulesToBetterEmail/Pages/AssumeNecessaryTasks.aspx) and is not likely to take more than half an hour.
+- You are working on an <br>      [ad hoc](/do-you-know-the-difference-between-ad-hoc-work-and-managed-work) basis on a client managed project
+- The task is an obvious task which you would <br>      [reasonably assume the client would approve](/approval-do-you-assume-necessary-tasks-will-get-approval) and is not likely to take more than half an hour.
 
 
