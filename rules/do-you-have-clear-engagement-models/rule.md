@@ -8,7 +8,7 @@ authors: []
 ---
 
  It’s important to have clear options for how a client can engage your services. You need to be clear on any differences between them in both billing and project management. 
-SSW offers both fixed price and time and materials contracts although all specification work is done on a time and materials basis.
+For example, ​SSW offers both fixed price and time and materials contracts although all specification work is done on a time and materials basis.
 
 - **Time & Materials:** We work to the client's specification, billing for the number of hours we accrue. The benefit of this type of development is flexibility – the client is able to add, remove and reprioritise development tasks during development.
 - **Prepaid Time & Materials:** Time and Materials clients have the option of a prepaid discount – buying blocks of 40 hours per resource in advance entitles them to a $15 per hour discount on the hourly rate of each developer. See the specific terms on our [Terms & Conditions](http&#58;//www.ssw.com.au/ssw/Standards/Forms/ConsultingOrderTermsConditions.aspx).
