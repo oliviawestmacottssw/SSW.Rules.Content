@@ -30,8 +30,8 @@ The purpose of the initial meeting is to:
 - Listen - Find out if this is the sort of project you can do and want to do
 - Listen - Qualify the client to make sure they can afford what they want
 - Consider technology options
-- Introduce the SSW team, explain how our involvement<br>                        can help them, and whether we have a 'good fit'
-- Explain SSW rates, including pre-paid
+- Introduce your team, explain how our involvement<br>                        can​ help them, and whether we have a 'good fit'
+- Explain your rates, including pre-paid
 - Explain the strengths and challenges of a Time and Materials or Fixed Price approach
 - Explain our development method including the importance of a Specification Review
 - Take exceptional notes
