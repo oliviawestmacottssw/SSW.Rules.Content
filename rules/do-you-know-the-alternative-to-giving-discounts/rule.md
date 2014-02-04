@@ -14,12 +14,14 @@ authors:
 ---
 
  
-We try to never discount our price. Instead we should be adding value                     to the offering for the client.
+Try to never discount your price. Instead, you should be adding value                     to the offering for the client.
  
-If a client asks for a discount you can add value by offering:
+If a client asks for a discount, try to add value by offering something else.
 
-- All our products to our clients at no charge​
-- Adam for 2 hours a<br>                        month to complete the following tasks:
+e.g.​
+
+- Some of your products at no charge​
+- A Senior Consultant for 2 hours a<br>                        month to complete the following tasks:
     - Code Review
     - UI Review
 
