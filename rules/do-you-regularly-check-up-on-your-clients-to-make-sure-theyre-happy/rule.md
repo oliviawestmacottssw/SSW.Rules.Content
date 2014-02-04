@@ -14,5 +14,5 @@ authors:
  
 It's important for Account Managers to stay involved with client projects past the                  sales stage and into the implementation stage. The best way to do this is to call                  them once every 2 months or so once the project gets going, just to gage their                  overall satisfaction and happiness.
  
-We find that the best way to set you reminders to do this is using your CRM system.                  For every project, set a phone call about 2 months after the project starts, and                  then set another one 2 months after that once you've made that call, etc.
+The best way is to set yourself reminders to do this ​using [Followupthen](/Communication/RulesToBetterEmail/Pages/FollowUpEmailsEffectively.aspx).
 
