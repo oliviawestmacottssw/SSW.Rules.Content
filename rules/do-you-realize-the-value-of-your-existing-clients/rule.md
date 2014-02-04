@@ -12,7 +12,7 @@ authors:
 ---
 
  
-It's often quoted in marketing circles that it costs between 60% and 600% more to                     sell to new clients as opposed to existing ones. It makes sense then to nurture                     your existing client relationships.
+​                     It's often quoted in marketing circles that it costs between 60% and 600% more to                     sell to new clients as opposed to existing ones. It makes sense then to nurture                     your existing client relationships.
  
 There are two strategies that need to be employed here:
 
@@ -22,7 +22,7 @@ Feedback has been received from larger clients in the past that they expect reg
 
 As a Project Manager, one of the most important things you should focus on to keep                     clients happy is *communication*. For active clients, a week must not pass                     without a phone call or some other contact. A lot of the time this will be emails                     from the developer. Almost all disputes arise when you don't speak to a client for                     a period of time. This allows any annoyances to fester and any misunderstandings                     can turn into real problems.
 
-A "client relationship problem" is when you have said "no" to                     a client and and they let you know that they strongly disagree. In that case:
+A "client relationship problem" is when you have said "no" to                     a client and they let you know that they strongly disagree. In that case:
 
 - Tell them the reasons for your stand
 - Tell them that developers will sometimes do the wrong thing - clients have different<br>                        opinions of what that is
