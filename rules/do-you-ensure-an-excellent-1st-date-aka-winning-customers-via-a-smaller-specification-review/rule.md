@@ -18,9 +18,7 @@ For the majority of new clients, a [Specification Review](/Management/RulestoBe
 
 It is a 4 step process:
  
-
-
-1. Once you have decided that this is a project you want to work on, you have to convince the client to book in a Spec Review
+1. ​Once you have decided that this is a project you want to work on, you have to convince the client to book in a Spec Review
     - This is a 1-5 day exercise for 1-2 people. The general rule is 1 man day per expected 2 week sprint.
     - This process is timeboxed, and so appears to the client as a fixed price.
 2. Make sure you get [Terms and C​onditions](http&#58;//www.ssw.com.au/ssw/standards/forms/ConsultingOrderTermsConditions.aspx) signed before you start work on this.
