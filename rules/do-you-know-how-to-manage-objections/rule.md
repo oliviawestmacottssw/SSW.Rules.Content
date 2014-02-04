@@ -29,9 +29,9 @@ A typical objection we get is - "Why do you                     put 2 developers
 
 - Explain the benefits:
     - "We can complete the project sooner. Is that important to you?"
-    - You get more expertise - One guy is more focussed on UI, the other guy is stronger<br>                            with databases
-    - You get better quality code because the guys are able to "put their heads together"<br>                            to solve a problem - this saves maintenance costs down the track
-    - We can continue working if 1 guy gets sick
-- If they are still unsure, you can offer a small discount off the hourly rate, or<br>                        offer some free support - it's all about managing risk.
+    - "You get more expertise - One guy is more focussed on UI, the other guy is stronger<br>                            with databases"
+    - "You get better quality code because the guys are able to "put their heads together"<br>                            to solve a problem - this saves maintenance costs down the track"
+    - "We can continue working if 1 guy gets sick"
+- If they are still unsure, you can offer a small discount off the hourly rate, or<br>                        offer some free support - it's all about managing risk.​
 
 
