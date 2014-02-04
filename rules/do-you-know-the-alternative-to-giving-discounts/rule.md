@@ -14,12 +14,12 @@ authors:
 ---
 
  
-Try to never discount your price. Instead, you should be adding value                     to the offering for the client.
- 
-If a client asks for a discount, try to add value by offering something else.
+​​Some clients really want a discount. Most will be happy with a discount for pre-paying. Others won't go ahead until they feel they have got something more.
+
+If a client asks for a further discount, try to add value by offering something else. ​
 
 e.g.​
-
+ 
 - Some of your products at no charge​
 - A Senior Consultant for 2 hours a<br>                        month to complete the following tasks:
     - Code Review
