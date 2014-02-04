@@ -10,7 +10,7 @@ authors:
 ---
 
  
-Developers should carry out "client Love" every week. The best way is to check their time sheets on Friday for this.
+​Developers should carry out "Client Love" every week. The best way is to check their time sheets on Friday for this.
  
 See [Rules<br>                        To Being Software Consultants Dealing With Clients](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/Pages/BuildClientLove.aspx).
 
