@@ -10,12 +10,15 @@ authors:
 ---
 
  
-As an Account Manager you'll frequently be required to find a free resource to put          onto a project. Instead of going around and asking everyone “Who’s free          next week?”, you should use the CRM Service Calendar.
+​As an Account Manager, you'll frequently be required to find a free resource to put          onto a project.
+
+Instead of going around and asking everyone “Who’s free          next week?”, you should use the CRM Service Calendar.
 
 The calendar provides          a one page view of everyone’s availability for a given time period. Here’s          what you need to do to access it:
+ 
 
 
-1. Go to <br>         [https://ssw.crm.ssw.com.au](https&#58;//ssw.crm.ssw.com.au/)
+1. Go to your company's CRM, e.g. [https://ssw.crm.ssw.com.au](https&#58;//ssw.crm.ssw.com.au/)
 2. Click Service | Service Calendar
 3. Choose Month, Week, or Day view to suit your needs
 
@@ -24,8 +27,9 @@ The calendar provides          a one page view of everyone’s availability for 
 
 All of the Appointments in the Service Calendar will also sync to the developers' outlook calendars, keeping them up to date with where they need to be, when.
 
- 
-You have multiple options for ways to fill this data, which you can see in [Scheduling - Do you know how to book developers for a project?](/Communication/RulesToBetterCRMForUsers/Pages/How-to-book-developers-for-a-project.aspx)
+
+
+You have multiple options for ways to fill this data, which you can see in [Scheduling - Do you know how to book developers for a project?​](/Communication/RulesToBetterCRMForUsers/Pages/How-to-book-developers-for-a-project.aspx)
 
 
 ![Toolbar CRM section in Inbox](/Communication/RulesToBetterCRMForUsers/PublishingImages/CRMServiceCalendar.jpg)              Figure: Service Calendar in CRM 
