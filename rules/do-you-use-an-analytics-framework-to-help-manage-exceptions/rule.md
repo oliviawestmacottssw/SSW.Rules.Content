@@ -20,7 +20,7 @@ authors:
 - Analyse user demographics
 
 
-There are a number of existing Analytics frameworks available on the market, so there is no need to "re-invent the wheel". Why would you write your own if someone else has already taken the trouble to do it? We recommend using one of these two:
+There are a number of existing Analytics frameworks available on the market, so there is no need to "re-invent the wheel". Why would you write your own if someone else has already taken the trouble to do it? We recommend using one of these frameworks or services​:
 
 
 
