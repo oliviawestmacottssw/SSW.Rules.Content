@@ -19,9 +19,9 @@ It is a free tool that can be used in combination with other forms of promoting 
 
 See examples of pages that advertise their hashtags:
 
-- [SSW TV](http&#58;//tv.ssw.com/)
-- [Sydney .NET User Group](http&#58;//www.ssw.com.au/ssw/NETUG/Sydney.aspx)
-- [SSW Rules](/)
+- [SSW TV](http&#58;//tv.ssw.com/) #SSWTV
+- [Sydney .NET User Group](http&#58;//www.ssw.com.au/ssw/NETUG/Sydney.aspx) #NETUG
+- [SSW Rules](/) #SSWRules
 
 <dl class="image"><dt>
       <img src="/Communication/RulesToBetterSocialNetworking/PublishingImages/hashtag-twitter.jpg" alt="Twitter hashtag example">
