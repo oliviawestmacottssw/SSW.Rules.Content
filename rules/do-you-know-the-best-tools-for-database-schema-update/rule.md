@@ -19,8 +19,9 @@ authors:
 
  
 1. Red Gate SQL Compare + Red Gate SQL Packager (post development model)
-2. Visual Studio 2010 Data Dude + Deploy (post development model)
+2. Visual Studio 2013​ Data Dude + Deploy (post development model)
 3. SQL Management Studio + OSQL  (Free and roll your own)
-4. SQL Management Studio + SSW SQL Deploy (As you go model)
+4. SQL Management Studio + SSW SQL Deploy (As you go model
+5. Visual Studio 2013 + SSW SQL Validate (Code First)​
 
 
