@@ -12,9 +12,9 @@ authors:
 ---
 
  
-There are a number of reasons you may want to subtitle your video.
+​There are a number of reasons you may want to subtitle your video.
 
 Sometimes, the audio recording is too low, and adding gain to the audio will introduce unwanted noise. In this instance, you want to add subtitles using your editing program.
  
 ​​Use the following:
-![Have a subtitle](/DesignandPresentation/RulesToBetterVideoRecording/PublishingImages/subtitle.jpg)Figure: Good example – the text helps people to understand what's happening on the video
+![Have a subtitle](/PublishingImages/subtitle.jpg)Figure: Good example – the text helps people to understand what's happening on the video
