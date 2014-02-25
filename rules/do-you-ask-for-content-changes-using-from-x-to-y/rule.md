@@ -1,0 +1,49 @@
+---
+type: rule
+title: Do you ask for content changes using from X to Y?
+uri: do-you-ask-for-content-changes-using-from-x-to-y
+created: 2009-03-25T04:50:21.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+- id: 2
+  title: Cameron Shaw
+- id: 16
+  title: Tiago Araujo
+
+---
+
+ When asking for changes to be made to any file like a web page, Word document, PowerPoint slide or code, always include the original version of the content ("X") together with the changes you require ("Y"). This means you have at hand a history of the page or file as it currently stands allowing for convenient future reference and also makes it very clear to the person doing the changes exactly what the new file is meant to look like. 
+
+<br>Make the changes even easier to see and understand by highlighting in red​ what​ you want deleted (only do this on the "From" section)​ and in yellow what you want added/updated (only do this on the "To" section). <br> 
+
+Hi Eric,
+
+For the Code Auditor web page, please make the green ticks read:
+
+1. Scan all your projects for coding errors
+2. Guarantee Industry best practices
+3. Friendly licensing model, bloggers even pay 0$ for the full version!
+
+
+Figure: Bad example - original version of content has not been included in the email 
+
+Hi Eric,
+
+On the Code Auditor web page, please change              [http://www.ssw.com.au/ssw/codeauditor](http&#58;//www.ssw.com.au/ssw/codeauditor)
+
+From:
+
+1. Scan all your projects for coding bugs and errors
+2. Enforce industry best practices
+3. Friendly licensing model pay nothing for full version!
+
+
+To:
+
+1. Scan all your projects for coding errors
+2. Guarantee industry best practices
+3. Friendly licensing model, bloggers even pay​ 0$ for the​​​ full version!
+
+
+Figure: Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed 
