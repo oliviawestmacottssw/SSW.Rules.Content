@@ -21,24 +21,26 @@ From: Daniel Hyles www.ssw.com.au
  To: Adam Cogan www.ssw.com.au
  Subject: FW: Morning Goals
 
-Reply In-line in red
+I have replied inline in     red
 
 -----Original Message-----
- From: Daniel Hyles www.ssw.com.au 
+ From: Daniel Hyles www.ssw.com.au     
  Sent: Monday, 27 May 2002 8:00 AM
  To: Adam Cogan www.ssw.com.au
  Subject: FW: Morning Goals
 
 - TimePro Online pages
 Done
-- Double check backups (get backup today on both drives, I configured the other drive last night)
+ - Double check backups (get backup today on both drives, I configured the other drive last night)
 Done
-- Make sure Exchange is backing itself up.. Check Google on why not.
+ - Make sure Exchange is backing itself up.. Check Google on why not.
 Not Done
  - Access reporter
 Not Done
 
 Figure: Good Example - See the "Reply In-line" comment, and see how the RED makes the email easier to read.
+
+However, it is not recommended to use inline comments. See [Top 10 Rules to Better Email](http&#58;//tv.ssw.com/4818/top-5-rules-better-email-ulysses-maclaren) video for more details on how to reply to emails.
 
 
 
