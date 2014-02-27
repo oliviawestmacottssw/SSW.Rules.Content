@@ -10,5 +10,7 @@ authors:
 ---
 
  
-For an appointment of one day or less, use the start and end times so that it is           easily viewed on people's calendars as 1 day appointments are easy to miss. However,           if the appointment spans more than one day (e.g. 2 weeks) it's ok to use 1 appointment           to span the whole time period, as it drastically reduces the complexity of keeping           it accurate, up to date, and showing easily on the Service Calendar.
- ![Different types of appointments](/Communication/RulesToBetterCRMForUsers/PublishingImages/OverComplicatedAppointment.jpg)            Figure: Good example - multi day appointment shown at the top, single day appointment<br>            shown in the middle<br>          ![The appointment is too complicated.](/Communication/RulesToBetterCRMForUsers/PublishingImages/TypesOfAppointments.jpg)            Figure: Bad example - over complicated appointments for PDS and the 1 day appointment<br>            gets easily lost and is hard to read<br>          
+​CRM supports recurring appointments, and this allows for more flexibility in bookings, so you should always use these over using one long appointment for a booking.
+ 
+This also works better for Service Calendar syncing, as you can see what each person is working on each day.
+![Bad Example](/Communication/RulesToBetterCRMForUsers/PublishingImages/recurring-appointment-bad.png)Figure: Bad Example – If you need to change Tuesday’s booking, you’ll have an issue![Good Example](/Communication/RulesToBetterCRMForUsers/PublishingImages/recurring-appointment-good.png)Figure: Good Example – Easy to alter any individual day as needed
