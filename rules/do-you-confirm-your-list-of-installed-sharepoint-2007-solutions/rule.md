@@ -15,7 +15,7 @@ authors:
 3. Cross out any solutions that you will not be migrating
 4. Get the SharePoint master to sign off on the solution list
 
-![](/ITAndNetworking/SharePointMigration/PublishingImages/MigrateSolutionsList.png)Figure: Have your SharePoint Master confirm if all these solutions are to be migrated
+![](/PublishingImages/MigrateSolutionsList.png)Figure: Have your SharePoint Master confirm if all these solutions are to be migrated
 
 
 ### Download
