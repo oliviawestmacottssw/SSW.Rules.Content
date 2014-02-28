@@ -34,11 +34,12 @@ Good Example - Don't use Data Dude
  
 note: In order to achieve this you MUST use the built in Refactor tools as it create a log of all the refactors in order. This helps Visual Studio generate the schema compare and make sure no data is lost.
 
-###  
+There are few options available to perform data type change correctly:
 
-### EF Code-First Migrations 
+1. **Use manua​l scripts.** All data type changes including data migration can be performed by writing scripts manualy. This way you have full control over the change. It is recommended to use SQLDeploy or DbUp to automate script deployment and keep track of all database changes.
+2. **Use Database Project.** As mentioned above​, Visual Studio does not support data type changes out of the bo​x and should not be used to perform this kind of task.
+3. **Use Entity Framework Code First Migrations.** If your application uses Entity Framework Code First, then it is strongly recommended to use Migrations feature.​
 
-All the same steps (rename, new column, map, delete) also apply when using Entity Framework Code-First Migrations.
 
 public partial class GenderToString : DbMigration
     {
@@ -67,6 +68,4 @@ public partial class GenderToString : DbMigration
  Sql("UPDATE [dbo].[Customers] set Gender = 'F' where GenderTemp=0");
  DropColumn("dbo.Customers", "GenderTemp");
  }
-
-
-Good Example - Data motion with EF Migrations
+​​​  ​Good Example - Data motion with EF Migrations
