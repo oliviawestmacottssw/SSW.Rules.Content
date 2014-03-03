@@ -20,10 +20,14 @@ The process is:​
 2. Convert it into an Opportunity, Contact and Account using the Qualify button
 ![Become familiar with the 'Convert Lead' button](/Communication/RulesToBetterCRMForUsers/PublishingImages/CRM_ConvertLead.jpg)Figure: Become familiar with the "Qualify" button    Clicking on the "Qualify" button allows the automatic generation of Accounts, Contacts and Opportunities, and also allows you to check for potential duplicates being created.
 ![Convert Lead Web Page Dialog](/Communication/RulesToBetterCRMForUsers/PublishingImages/CRM_ConvertLeadDialg.jpg)Figure: You can check for existing records before creating new ones    This will:
-3. Deactivate the Lead
+3. Deactivate the Lead​
 4. Create an Opportunity, Contact and Account
 5. Automatically link the Opportunity to the Account and the Account to the Contact
+6. Save you substantial amount of time compared to creating and linking each one manually.
 
-This will save you substantial amount of time compared to creating and linking each one manually.
 
+
+
+
+Note: See [Do you know the one case where you use a CRM lead?](/Communication/RulesToBetterCRMForUsers/Pages/The-one-case-where-you-use-a-CRM-lead.aspx) to see why, apart from for this purpose, you should generally not be using CRM leads much.
 
