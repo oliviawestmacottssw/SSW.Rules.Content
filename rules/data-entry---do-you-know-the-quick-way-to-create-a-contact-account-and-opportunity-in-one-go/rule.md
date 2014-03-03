@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​​CRM 2013 has a nice way of reducing the amount of work needed to create a new Account, Contact, and opportunity, all via making a Lead 1st.
+​​​CRM 2013 has a nice way of reducing the amount of work needed to create a new Account, Contact, and opportunity, all via making a Lead 1st.
 
 The process is:​
  
