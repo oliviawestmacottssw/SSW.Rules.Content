@@ -7,13 +7,13 @@ authors: []
 
 ---
 
+ 
+​Is your price:
 
-Is your price:
-
-- $100 per hour + GST (the $100 being the net amount)
+- ​$100 per hour + GST (the $100 being the amount exclusive of GST)
 - $110 per hour (the $110 being the total amount)
 
-
+ 
 We say the first one. When providing quotes to prospects/clients, it is always better to display the net value + 10% GST rather than the total.
 
 The reasons for this are:
