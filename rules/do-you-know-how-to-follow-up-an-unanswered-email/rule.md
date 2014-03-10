@@ -16,6 +16,6 @@ authors:
 2. Put (PING) in 1st line of the Body
 3. Plus any other instructions - such as "Hurry Up!" or "following-up, and looking forward to your reply" or "Need an answer please"​
 
-![Hurry Up](/Communication/RulesToBetterEmail/PublishingImages/ping-email.png)Figure: Good Example - (PING) written at the top of the email.​  
-Of course if the person is a colleague you might "follow them up" a little differently if they were a client or a third party. If it's really important and you need an answer you might like to [consider using the phone instead of email](/Communication/RulesToBetterEmail/Pages/EmailForTasksNotCommunication.aspx)​.
+![Hurry Up](/PublishingImages/ping-email.png)Figure: Good Example - (PING) written at the top of the email.​  
+Of course you might use slightly friendlier language following up a client or a third party compared with following up a colleague!​ If it's really important and you need an answer you might like to     [consider using the phone instead of email](/Pages/EmailForTasksNotCommunication.aspx)​.
 
