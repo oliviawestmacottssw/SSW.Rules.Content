@@ -13,16 +13,16 @@ authors:
 
 ---
 
-
-A fixed price - fixed scope project is normally a lose-lose contract.
+ 
+​A fixed price - fixed scope project sounds good but doesn't always end up with the result either the client or the developers expect and sometimes the key players can end up disappointed.​
 
 There are 4 main reasons...
-
+ 
 1. You can’t predict the future
     - Waterfall project planning has been proven to not  deliver over 30 years of trying... The Gartner Group says 74% of failed software  projects in the last 2 years
     - See the Con​e of Uncertainty to see the range of cost  change at different stages through a project:
 
-![Cone of Uncertainty](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/PublishingImages/cone-of-uncertainty.jpg)Figure: The cone of uncertainty in software cost and size estimation
+![Cone of Uncertainty](/PublishingImages/cone-of-uncertainty.jpg)Figure: The cone of uncertainty in software cost and size estimation
 2. Changes requests are an extra cost and slow progress
     - It costs more because the fixed price part is fixed to  the original scope, not changes. So changes are a cost on top as changes are  new work and out of scope
     - Progress is slower because the change request cycle on  fixed scope consumes time and discussion of the nature of work and whether it  is in or out of scope
