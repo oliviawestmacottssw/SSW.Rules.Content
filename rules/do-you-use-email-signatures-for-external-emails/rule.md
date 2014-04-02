@@ -13,4 +13,9 @@ authors:
 
 ---
 
- Email signatures are a great way of adding some advertising and branding. [Read more](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterBranding.aspx#EmailSignatures)
+ ​Email signatures are a great way of adding some advertising and branding. [Read more](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterBranding.aspx#EmailSignatures)
+**​**
+
+**What about appointments?
+**Appointments going to people outside the organisation should be written and addressed the way you would an email. This includes using your email signature.
+
