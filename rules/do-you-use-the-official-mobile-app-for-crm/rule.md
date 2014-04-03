@@ -10,7 +10,7 @@ authors:
 ---
 
  
-While there is a web app available, Microsoft have now released a CRM mobile app for Apple, Android and, of course, their own phone OS.​ ​It is currently only for CRM Online and CRM2013 On-Premise
+​While there is a web app available, Microsoft have now released a CRM mobile app for Apple, Android and, of course, their own phone OS.​ ​It is only for CRM Online and CRM2013 On-Premise
  
 ​
 
