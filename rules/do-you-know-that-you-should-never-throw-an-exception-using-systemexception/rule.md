@@ -20,5 +20,5 @@ As a standard, you should use an exception class with the name that best describ
 
 Also, System.ApplicationException should be avoided as well unless it's an exception related to the application. While it's acceptable and should be used in certain cases, be aware that using it massively will be just as bad as "throw (Exception ex)".
 
-We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx%22%20%5cl%20%22Except) to check for this rule.
+We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule.
 
