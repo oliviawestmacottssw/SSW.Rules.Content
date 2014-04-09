@@ -46,5 +46,5 @@ Private Sub cmdSelect_Click()
 ```
 
 Good Example – Good code
-We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx%22%20%5cl%20%22NoOnErrorResumeNext) to check for this rule.
+We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule.
 
