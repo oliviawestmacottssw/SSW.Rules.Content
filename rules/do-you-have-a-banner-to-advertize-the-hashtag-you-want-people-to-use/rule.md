@@ -19,8 +19,8 @@ It is a free tool that can be used in combination with other forms of promoting 
 
 See examples of pages that advertise their hashtags:
 
-- [SSW TV](http&#58;//tv.ssw.com/) #SSWTV
-- [Sydney .NET User Group](http&#58;//www.ssw.com.au/ssw/NETUG/Sydney.aspx) #NETUG
+- [SSW TV](http&#58;//tv.ssw.com/) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") #SSWTV
+- [Sydney .NET User Group](http&#58;//www.ssw.com.au/ssw/NETUG/Sydney.aspx) ![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window") #NETUG
 - [SSW Rules](/) #SSWRules
 
 ![Twitter hashtag example](/Communication/RulesToBetterSocialNetworking/PublishingImages/hashtag-twitter.jpg)Figure: This Twitter widget shows​ the hashtags working​​![SharePoint conference hashtag](/Communication/RulesToBetterSocialNetworking/PublishingImages/sharepoint-conference-hashtag.jpg)Figure: Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use
