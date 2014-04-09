@@ -14,7 +14,7 @@ authors:
 ---
 
  
-​The best trace logging framework is Log4Net.
+[Do you use the best middle tier .Net libraries?](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouUseTheBestMiddleTierDotNetLibraries.aspx) ​The best trace logging library is Log4Net.
 
 Did you know that writing your own logging infrastructure code wastes time.
 
