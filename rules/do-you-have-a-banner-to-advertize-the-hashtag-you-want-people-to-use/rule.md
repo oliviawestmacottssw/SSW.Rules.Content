@@ -19,10 +19,10 @@ It is a free tool that can be used in combination with other forms of promoting 
 
 See examples of pages that advertise their hashtags:
 
-- [SSW TV](http&#58;//tv.ssw.com/) #SSWTV
-- [Sydney .NET User Group](http&#58;//www.ssw.com.au/ssw/NETUG/Sydney.aspx) #NETUG
+- [SSW TV](http&#58;//tv.ssw.com/) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") #SSWTV
+- [Sydney .NET User Group](http&#58;//www.ssw.com.au/ssw/NETUG/Sydney.aspx) ![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window") #NETUG
 - [SSW Rules](/) #SSWRules
 
 <dl class="image"><dt>
-      <img src="/Communication/RulesToBetterSocialNetworking/PublishingImages/hashtag-twitter.jpg" alt="Twitter hashtag example">
-   </dt><dd>Figure&#58; This Twitter widget shows​ the hashtags working</dd></dl><dl class="goodImage"><dt>​​<img src="/Communication/RulesToBetterSocialNetworking/PublishingImages/sharepoint-conference-hashtag.jpg" alt="SharePoint conference hashtag"></dt><dd>Figure&#58; Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use</dd></dl>
+      <img alt="Twitter hashtag example" src="/Communication/RulesToBetterSocialNetworking/PublishingImages/hashtag-twitter.jpg">
+   </dt><dd>Figure&#58; This Twitter widget shows​ the hashtags working</dd></dl><dl class="goodImage"><dt>​​<img alt="SharePoint conference hashtag" src="/Communication/RulesToBetterSocialNetworking/PublishingImages/sharepoint-conference-hashtag.jpg"></dt><dd>Figure&#58; Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use</dd></dl>
