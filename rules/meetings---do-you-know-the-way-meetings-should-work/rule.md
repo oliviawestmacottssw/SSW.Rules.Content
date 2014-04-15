@@ -33,11 +33,11 @@ Every Outlook appointment must have:
     2. The final step in the agenda being "Set a date for the next meeting"
     3. A note mentioning if the meeting is billable or not
     4. Your standard footer in message (same footer as in mail messages)
-    5. A URL mentioning [Tips for better meetings](http&#58;//www.ssw.com.au/ssw/Redirect/TipsForMeeting.htm) ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW")
+    5. A URL mentioning [Tips for better meetings](http&#58;//www.ssw.com.au/ssw/Redirect/TipsForMeeting.htm) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW")
 
 Hi Bill Northwind
 - Print map [www.ssw.com.au/ssw/company/directions](http&#58;//www.ssw.com.au/ssw/company/directions)
 - FYI the account manager is not billable, the developers are billable
-- For meetings tips see [Rules to being Software Consultants - Dealing with Clients](http&#58;//www.ssw.com.au/SSW/standards/rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx)
+- For meetings tips see [Rules to being Software Consultants - Dealing with Clients](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/pages/default.aspx)
 
 Figure - Message example 
