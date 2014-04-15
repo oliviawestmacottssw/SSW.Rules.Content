@@ -18,7 +18,7 @@ Tip #1: Choose the same day each week (for example SSW chooses Tuesday)
 This is the agenda:
 <br>​ 
 1. Status of original work items - are they all done?
-2. External [Test Please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx) - go through the application and get the clients thoughts. Many issues they see, will already be reported by the internal "Test Please". Send emails for the new ones.
+2. External [Test Please](/Pages/InternalTestPlease.aspx) - go through the application and get the clients thoughts. Many issues they see, will already be reported by the internal "Test Please". Send emails for the new ones.
 3. Triage these additional work items - try to move all to the next release
 4. Approval for additional work items/budget overruns - talk $$ 
 <br>    eg. look at the "Actual" and "Estimate" figures on the top of the report
@@ -36,12 +36,12 @@ There are tools to help you do this:
 
 - [SSW TFS Add-in - Release Update/Debrief Report](http&#58;//www.ssw.com.au/ssw/AgileTemplate/UserGuide.aspx#ReleaseUpdate)
 
-![](/Management/RulesToSuccessfulProjects/PublishingImages/ProgressReport_small.jpg) Figure: The actual output of the Release Update Report 
+![](/PublishingImages/ProgressReport_small.jpg) Figure: The actual output of the Release Update Report 
 Here is a PDF format [SSW Release Upd​​ate Report.](http&#58;//www.ssw.com.au/ssw/AgileTemplate/Sample/Reports.zip)
 
 **If you are at the end of a main section of work, promote your success **
 
-- [Ask for a testimonial for the work you have done](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#PostClientWork)
+- [Ask for a testimonial for the work you have done](/rules-to-better-software-consultants-dealing-with-clients)
 - Create a case study and get it approved - This should be a win-win for the client. eg.  [WorleyParsons](http&#58;//www.ssw.com.au/ssw/Company/WorleyparsonsCaseStudy.aspx)
 - Add a link to the work you have done from your website or marketing material. eg. at SSW we do this via the [Our Clients](http&#58;//www.ssw.com.au/ssw/Company/OurClients.aspx) page
 
