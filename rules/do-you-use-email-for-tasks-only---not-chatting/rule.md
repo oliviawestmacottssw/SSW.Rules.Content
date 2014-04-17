@@ -15,7 +15,7 @@ authors:
 - Send emails that contain clear tasks, not banter
 - If the email you receive is not clear, call up the person who sent it and ask for more information. Too many people reply to the unclear email asking for clarification, which wastes time and does not guarantee a response.
 - If you speak to them, follow this rule: [Do you Seek Clarification Via the Telephone First](/Communication/RulesToBetterEmail/Pages/SeekClarificationViaTelephoneFirst.aspx)
-- If you can't get through, follow this rule: [Do you chase your Manager or does he have to chase you?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsWorkingInATeam.aspx#ChaseManager)
+- If you can't get through, follow this rule: [Do you chase your Manager or does he have to chase you?](/management/rules-to-better-software-consultants-working-in-a-team/pages/default.aspx#ChaseManager)
 
 
 Using your mailbox as a task list also saves you from having to use inefficient paper-based cards to track your tasks.
