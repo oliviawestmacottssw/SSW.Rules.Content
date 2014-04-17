@@ -30,32 +30,34 @@ To add a [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.as
 11. Point it to the SSW Code Auditor executable
 
 
- See [Do you run SSW Code Auditor?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsWorkingInATeam.aspx#CodeAuditor) 
+ See [Do you run SSW Code Auditor?](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Run-SSW-Code-Auditor.aspx) 
  See [Do you check your code by Code Auditor before check-in?](/Management/RulesToSuccessfulProjects/Pages/CheckCodeByCodeAuditorBeforeCheckIn.aspx) 
- To add a [Microsoft FxCop](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/netTools.aspx#FxCop)file to your solution:
-1. Stat up **Microsoft FxCop**
-2. Create a **New Project**
-3. Right click the project and **Add Target**
-4. Select the Assembly (DLL/EXE) for the project
-5. Select **File &gt; Save Project As **(into the solution's folder as "**fxcop.FxCop**")
-6. Open your Solution in Visual Studio
-7. Right click and **add existing file**
-8. Select the **Microsoft FxCop project file**
-9. **Right click** the newly added file and select "**Open With**"
-10. Point it to the Microsoft FxCop executable
+ To add a [Microsoft FxC](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/netTools.aspx#FxCop)opfile to your solution:
+1. Stat up **Microsoft FxC**
+2. **op**
+3. Create a **New Project**
+4. Right click the project and **Add Target**
+5. Select the Assembly (DLL/EXE) for the project
+6. Select **File &gt; Save Project As **(into the solution's folder as "**fxc****op.FxCop**")
+7. Open your Solution in Visual Studio
+8. Right click and **add existing file**
+9. Select the **Microsoft FxCop project file**
+10. **Right click** the newly added file and select "**Open With**"
+11. Point it to the Microsoft FxCop executable
 
 
- To add a [NUnit](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/netTools.aspx#NUnit)file to your solution:
-1. Stat up **NUnit**
-2. Create a New Project by selecting **File &gt; New Project** and save it to your solution directory as "**nunit.NUnit**"
-3. From the **Project** menu select **Add Assembly**
-4. Select the Assembly (DLL/EXE) for the project that contains unit tests
-5. Select **File &gt; Save Project**
-6. Open your Solution in Visual Studio
-7. Right click and **add existing file**
-8. Select the **NUnit project file**
-9. **Right click** the newly added file and select "**Open With**"
-10. Point it to the NUnit executable
+ To add a [NUn](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/netTools.aspx#NUnit)itfile to your solution:
+1. Stat up **NUn**
+2. **it**
+3. Create a New Project by selecting **File &gt; New Project** and save it to your solution directory as "**nun****it.NUnit**"
+4. From the **Project** menu select **Add Assembly**
+5. Select the Assembly (DLL/EXE) for the project that contains unit tests
+6. Select **File &gt; Save Project**
+7. Open your Solution in Visual Studio
+8. Right click and **add existing file**
+9. Select the **NUnit project file**
+10. **Right click** the newly added file and select "**Open With**"
+11. Point it to the NUnit executable
 
 
 Now you can simply double click these project files to run the corresponding applications.
