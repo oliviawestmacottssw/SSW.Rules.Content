@@ -30,5 +30,5 @@ We generally estimate the overhead as 20% extra. But this is more than offset by
 
 **What if you are working remotely from each other?**
 
-If you are really working closely together, you will be using an application like     [TeamViewer](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/networkTools.aspx#TeamViewer)to view one another's desktops so you can help each other out when necessary. You should have     [TeamViewer showing on a 2nd monitor](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsWorkingInATeam.aspx#TwoMonitors).
+If you are really working closely together, you will be using an application like     [TeamViewer](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/networkTools.aspx#TeamViewer)to view one another's desktops so you can help each other out when necessary. You should have     [TeamViewer showing on a 2nd monitor](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Use-two-monitors.aspx).
 
