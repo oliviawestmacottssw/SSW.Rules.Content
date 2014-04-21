@@ -28,7 +28,7 @@ Maybe your followers will want to chip in with a better answer.
 
 
 > Activity feed from for Microsoft 
-> [http://services.social.microsoft.com/Feeds/Activiti​es?user=MrHinsh&lcid=en-US&bran​d=Msdn&format=rss20](http&#58;//services.social.microsoft.com/Feeds/Activities?user=MrHinsh&amp;lcid=en-US&amp;brand=Msdn&amp;format=rss20)
+>  http://services.social.microsoft.com/Feeds/Acti​viti​es?user=MrHinsh&lcid=en-US&bran​d=Msdn&format=rss20
 > 
 > Activity feed from StackOverflow
 > [http://stackoverflow.com/feeds/user/11799](http&#58;//stackoverflow.com/feeds/user/11799)
