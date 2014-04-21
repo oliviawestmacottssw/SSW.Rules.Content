@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Sometimes you can set a task or be given work that ends up taking much longer than expected. Timeboxing sets a time limit to a task, after which you must stop and move on. 
+ ​Sometimes you can set a task or be given work that ends up taking much longer than expected. Timeboxing sets a time limit to a task, after which you must stop and move on. 
 
 
 ​Timeboxing allows you to give more context to a task by showing how much time (and therefore money) you are willing to spend. This typically applies to:
@@ -21,7 +21,7 @@ authors:
 
 
 
-![time-box-scrum-small.jpg](/Management/DeadTime/PublishingImages/time-box-scrum-small.jpg)
+![time-box-scrum-small.jpg](/PublishingImages/time-box-scrum-small.jpg)
 **Timeboxed (1hr)**
  Do not spend more than the time allocated on this task.
 
