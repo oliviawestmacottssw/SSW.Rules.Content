@@ -22,15 +22,37 @@ You have data in CRM 2011, so how do you see it in SharePoint? The data that is 
 
 There are many ways to get to this data, let's go through them:
  
-You have data in CRM 2011, so how do you see it in SharePoint? The data that is stored in CRM entities should be available in SharePoint so users can find and use the data in areas such as:
 
-- SharePoint search
+### OPTION 1: SharePoint BCS A​​dapter (provided by the CRM Team) RECOMMENDED
 
-- SharePoint reporting (if you are using SQL Reporting Services in integrated mode)
+This BCS Adapter for CRM 2011 is from the CRM team (It does all of the BCS work for you by interrogating the CRM metadata service).
 
-There are many ways to get to this data, let's go through them:
+Summary: SharePoint BCS -&gt; Pre-built Adapter (.NET Assembly) -&gt; CRM web services - &gt; CRM database
 
-**Option 1: SQL Server Filtered Views **
+
+| Pros | Cons |
+| --- | --- |
+| ![clip_image002\[8\]](/PublishingImages/correct.gif "clip_image002[8]")Read/Write<br><br>![clip_image002\[9\]](/PublishingImages/correct.gif "clip_image002[9]")Minimal coding<br><br>![clip_image002\[10\]](/PublishingImages/correct.gif "clip_image002[10]")Easiest to implement<br><br>![clip_image002\[11\]](/PublishingImages/correct.gif "clip_image002[11]")The likely way forward (Best Practice as Microsoft) | ![clip_image004\[13\]](/PublishingImages/wrong.gif "clip_image004[13]")Needs to be deployed and published to the web server.<br><br>![clip_image004\[14\]](/PublishingImages/wrong.gif "clip_image004[14]")Less performance than SQL filter views directly<br><br>![clip_image004\[15\]](/PublishingImages/wrong.gif "clip_image004[15]")Only recently released. |
+
+
+[![clip_image010](/PublishingImages/figure5.jpg "clip_image010")](/PublishingImages/figure5.jpg) 
+**Figure: CRM data available in SharePoint**
+
+**More information:**
+
+Download from Microsoft
+
+Read "*Connecting to CRM Online 2011 with SharePoint 2010 Business Connectivity Services*"
+
+Run tool to generate the XML mapping (.BDCM)
+
+This solution uses a BCS Connector – a .NET Assembly responsible for mapping external data into a form usable by SharePoint. This component is loaded and hosted within SharePoint 2010, and communicates with CRM via the CRM Proxy Service.
+
+
+
+
+### Option 2: SQL Server Filtered Views
+
 
 CRM recommends that you \*don't\* read from the Tables, so they provide SQL Views for this purpose.
 
@@ -39,7 +61,7 @@ Summary: SharePoint BCS -&gt; CRM database
 
 | Pros | Cons |
 | --- | --- |
-| ![clip_image002](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002")Easiest<br><br>![clip_image002\[1\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[1]")Best performance<br><br>![clip_image002\[2\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[2]")Codeless | ![clip_image004](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004")Read-only<br><br>![clip_image004\[1\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[1]")Not available for hosted CRM<br><br>![clip_image004\[2\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[2]") Security issues as you are exposing the view. |
+| ![clip_image002](/PublishingImages/correct.gif "clip_image002")Easiest<br><br>![clip_image002\[1\]](/PublishingImages/correct.gif "clip_image002[1]")Best performance<br><br>![clip_image002\[2\]](/PublishingImages/correct.gif "clip_image002[2]")Codeless | ![clip_image004](/PublishingImages/wrong.gif "clip_image004")Read-only<br><br>![clip_image004\[1\]](/PublishingImages/wrong.gif "clip_image004[1]")Not available for hosted CRM<br><br>![clip_image004\[2\]](/PublishingImages/wrong.gif "clip_image004[2]") Security issues as you are exposing the view. |
 
 
 Filtered Views in Microsoft CRM provide access to the data available that supports providing picklist name and id values (lookup tables).
@@ -50,20 +72,23 @@ If you only want read-only for CRM on-premises data for SharePoint users, this s
 
 [http://msdn.microsoft.com/en-us/library/gg328467.aspx](http&#58;//msdn.microsoft.com/en-us/library/gg328467.aspx)
 
-![clip_image005](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure1.jpg "clip_image005")
+![clip_image005](/PublishingImages/figure1.jpg "clip_image005")
 
 **Figure: The result of “SELECT \* FROM FilteredCtx\_Project”. Use Office SharePoint Designer to hook this up.**
 
-**OPTION 2: Web Services**
+### 
+
+
+### OPTION 3​: Web Services
 
 CRM provides web services.
 
-Summary: SharePoint BCS -&gt; Code calling CRM web services - &gt; CRM database
+Summary: SharePoint BCS -&gt; Code calling CRM web services - &gt; CRM database​
 
 
 | Pros | Cons |
 | --- | --- |
-| ![clip_image002\[3\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[3]")Read/Write | ![clip_image004\[3\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[3]")Needs lots of code and test work.<br><br>![clip_image004\[4\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[4]")Needs to be deployed and published to the web server.<br><br>![clip_image004\[5\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[5]")Less performance than SQL filter views directly #1 |
+| ![clip_image002\[3\]](/PublishingImages/correct.gif "clip_image002[3]")Read/Write | ![clip_image004\[3\]](/PublishingImages/wrong.gif "clip_image004[3]")Needs lots of code and test work.<br><br>![clip_image004\[4\]](/PublishingImages/wrong.gif "clip_image004[4]")Needs to be deployed and published to the web server.<br><br>![clip_image004\[5\]](/PublishingImages/wrong.gif "clip_image004[5]")Less performance than SQL filter views directly #1 |
 
 
 #1 Note: Performance could be improved by making the reads from the views and the writes through the web service
@@ -78,14 +103,17 @@ Summary: SharePoint BCS -&gt; Code calling CRM web services - &gt; CRM database
 
 4. Deploy
 
-**OPTION 3: Expose OData from CRM as RSS**
+### 
+
+
+### OPTION 4​​: Expose OData from CRM as RSS
 
 The CRM 2011 OData Query Designer can be used to build queries to expose the data from CRM as RSS
 
 
 | Pros | Cons |
 | --- | --- |
-| ![clip_image002\[4\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[4]")Easy configuration | ![clip_image004\[6\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[6]")50 records limit. Need to page through the results.<br><br>![clip_image004\[7\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[7]")Possible issues with firewalls and proxies because it uses Integrated Security for authentication.<br><br>![clip_image004\[8\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[8]")Read-Only<br><br>![clip_image004\[9\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[9]")No easy way to consume |
+| ![clip_image002\[4\]](/PublishingImages/correct.gif "clip_image002[4]")Easy configuration | ![clip_image004\[6\]](/PublishingImages/wrong.gif "clip_image004[6]")50 records limit. Need to page through the results.<br><br>![clip_image004\[7\]](/PublishingImages/wrong.gif "clip_image004[7]")Possible issues with firewalls and proxies because it uses Integrated Security for authentication.<br><br>![clip_image004\[8\]](/PublishingImages/wrong.gif "clip_image004[8]")Read-Only<br><br>![clip_image004\[9\]](/PublishingImages/wrong.gif "clip_image004[9]")No easy way to consume |
 
 
 **
@@ -101,19 +129,19 @@ The first step is to expose the data:
 
 2. Make a query
 
-![clip_image006](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure2.jpg "clip_image006")
+![clip_image006](/PublishingImages/figure2.jpg "clip_image006")
 
 **Figure: Designing a query**
 
 3. See the data
 
-![/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure3.jpg](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure3.jpg "clip_image007")
+![/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure3.jpg](/PublishingImages/figure3.jpg "clip_image007")
 
 **                Figure: See the data - RSS source for xtc\_countrySet**
 
 The second step (and the problem) is consuming the data
 
-**![clip_image009](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure4.jpg "clip_image009")**
+**![clip_image009](/PublishingImages/figure4.jpg "clip_image009")**
 
 **Figure: BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData**
 
@@ -135,7 +163,10 @@ Summary: SharePoint RSS view web part -&gt; OData- &gt; CRM database
 
 So OData is all things horrible because it is hard to eat :-(
 
-**OPTION 4: BizTalk**
+### 
+
+
+### OPTION 5: BizTalk​
 
 Biztalk is built for mapping systems together, unfortunately this solution is only considered for large enterprises.
 
@@ -144,35 +175,15 @@ Summary: SharePoint BCS -&gt; BizTalk Database - &gt; CRM database
 
 | Pros | Cons |
 | --- | --- |
-| ![clip_image002\[5\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[5]")Read/Write<br><br>![clip_image002\[6\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[6]")The BizTalk data centre can also provide data for any system.<br><br>![clip_image002\[7\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[7]")Requires little code if users already have BizTalk | ![clip_image004\[10\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[10]")BizTalk :-)<br><br>![clip_image004\[11\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[11]")Deployment - Needs external work to deploy BizTalk server.<br><br>![clip_image004\[12\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[12]")Licence Cost |
+| ![clip_image002\[5\]](/PublishingImages/correct.gif "clip_image002[5]")Read/Write<br><br>![clip_image002\[6\]](/PublishingImages/correct.gif "clip_image002[6]")The BizTalk data centre can also provide data for any system.<br><br>![clip_image002\[7\]](/PublishingImages/correct.gif "clip_image002[7]")Requires little code if users already have BizTalk | ![clip_image004\[10\]](/PublishingImages/wrong.gif "clip_image004[10]")BizTalk :-)<br><br>![clip_image004\[11\]](/PublishingImages/wrong.gif "clip_image004[11]")Deployment - Needs external work to deploy BizTalk server.<br><br>![clip_image004\[12\]](/PublishingImages/wrong.gif "clip_image004[12]")Licence Cost |
 
 
-**OPTION 5: SharePoint BCS Adapter (provided by the CRM Team) RECOMMENDED**
-
-This BCS Adapter for CRM 2011 is from the CRM team (It does all of the BCS work for you by interrogating the CRM metadata service).
-
-Summary: SharePoint BCS -&gt; Pre-built Adapter (.NET Assembly) -&gt; CRM web services - &gt; CRM database
+**
+**
 
 
-| Pros | Cons |
-| --- | --- |
-| ![clip_image002\[8\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[8]")Read/Write<br><br>![clip_image002\[9\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[9]")Minimal coding<br><br>![clip_image002\[10\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[10]")Easiest to implement<br><br>![clip_image002\[11\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/correct.gif "clip_image002[11]")The likely way forward (Best Practice as Microsoft) | ![clip_image004\[13\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[13]")Needs to be deployed and published to the web server.<br><br>![clip_image004\[14\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[14]")Less performance than SQL filter views directly<br><br>![clip_image004\[15\]](/SoftwareDevelopment/rulestobettercrm/PublishingImages/wrong.gif "clip_image004[15]")Only recently released. |
 
-
-[![clip_image010](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure5.jpg "clip_image010")](/SoftwareDevelopment/rulestobettercrm/PublishingImages/figure5.jpg) 
-**Figure: CRM data available in SharePoint**
-
-**More information:**
-
-Download from Microsoft
-
-Read "*Connecting to CRM Online 2011 with SharePoint 2010 Business Connectivity Services*"
-
-Run tool to generate the XML mapping (.BDCM)
-
-This solution uses a BCS Connector – a .NET Assembly responsible for mapping external data into a form usable by SharePoint. This component is loaded and hosted within SharePoint 2010, and communicates with CRM via the CRM Proxy Service.
-
-**Option 6: OData 3rd Party solutions (doesn't exist)**
+### Option 6: OData 3rd Party solutions (doesn't exist)
 
 Today SharePoint 2010 exposes lists and document libraries as OData, but does not natively consume OData.
 
