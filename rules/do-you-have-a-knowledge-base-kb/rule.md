@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Do you know what the most useful thing on Microsoft web site is? It is their knowledge base at [http://www.ssw.com.au/ssw/Redirect/Microsoft/MicrosoftSupport.htm](http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/MicrosoftSupport.htm) When a problem arises it should be your first port of call - it allows you to help yourself.  
+ Do you know what the most useful thing on Microsoft web site is? It is their knowledge base at [http://www.ssw.com.au/ssw/Redirect/Microsoft/MicrosoftSupport.htm](http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/MicrosoftSupport.htm) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") When a problem arises it should be your first port of call - it allows you to help yourself.  
 So, if you answer questions on your products to customers, you are wasting time if you don't have a knowledge base. Just think, you might not be answering Harry's question if he could have looked it up himself.
 
 Now of course there are many customers who don't look for a KB, but instead you fire off the same old email that you already know is an MDAC related error, and your current solution is to tell them to run SSW Diagnostics and get all the green ticks.
@@ -92,7 +92,7 @@ Things are running well when you have support staff adding new KB for:
 - Performance tips KBs also play a very important role in getting a product released. You will never get every feature done or bug fixed - we all know it. Focus on getting a version out. It is usually more important to have a version available than having no version at all. When you are looking down the Project Plan, decide on what the \***must haves**\* are. The others features and known bugs will have to remain outstanding. All the longer term bugs should go into the KB. We also put in the feature requests that we plan on doing. This way our customers know of our exciting features coming in future versions of our software.
 
 
-However \***don't**\* write a KB article if fixing the bug and making a new version solves the problem. You'll have to fix the problem anyway, so don't waste time writing a KB, just email the new version. Please see [How to Develop and Reply "Done"](http&#58;//www.ssw.com.au/ssw/ExtremeEmails/ManageProjects.aspx#Develop)
+However \***don't**\* write a KB article if fixing the bug and making a new version solves the problem. You'll have to fix the problem anyway, so don't waste time writing a KB, just email the new version. Please see [How to Develop and Reply "Done"](http&#58;//www.ssw.com.au/ssw/extremeemails/default.aspx)
 
 You don't need to be Microsoft to build a KB. A Knowledge Base does not need to be complicated. We use a simple knowledge base which is located at [http://www.ssw.com.au/ssw/KB](http&#58;//www.ssw.com.au/ssw/KB)
 
@@ -105,7 +105,7 @@ Dear Harry,
 
 Thanks for the suggestion for SSW Code Auditor!
 
-I have added it to the list of future developments (which we call our backlog). Future features can be voted on at [uservoice.com](http&#58;//uservoice.com/).
+I have added it to the list of future developments (which we call our backlog). Future features can be voted on at [uservoice.com](http&#58;//uservoice.com/) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW").
 
 Thanks,
 John Prince
