@@ -30,7 +30,12 @@ You should always have two builds on your team project. These should be setup an
 **Note:** This build can take as long as it needs to - of course more than 24 hours is too long.
 
 
+**Reminder:** The same build rules apply to 'release' branches as the 'trunk' branch. Review our rule [Do You Know When To Branch?](/TFS/RulesToBetterBranchingAndBuilds/Pages/when-to-branch.aspx) for more information on the best branching strategy.  
+
+
+
+
 **Important: **Gate Builds are bad! Some people believe in having a build that stops developers checking in code unless the build succeeds. See our rule on [Do You Know That Gated Checkins Mask Dysfunction?](/Management/RulesToBetterScrumUsingTFS/Pages/Gated-Checkins-Mask-Dysfunction.aspx)
 ![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/ControlTestAndData.jpg)<font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; You can control what tests are run and what data is collected while they are running.</font> Note: We do not run all the tests every time because of the time consuming nature of running some tests, but ALL tests should be run overnight.  
 Note: If you had a really large project with thousands of tests including long running Load tests you may need to add a Weekly build to the mix.  
-![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/BuildStatus01.jpg) <font class="ms-rteCustom-FigureBad" size="+0">Figure&#58; Bad example, you can't tell what these builds do if they are in a larger list </font>![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/BuildStatus02.jpg)<font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; Good example, you know exactly what project, branch and type of build these are for. </font>
+![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/BuildStatus01.jpg) <font class="ms-rteCustom-FigureBad" size="+0">Figure&#58; Bad example, you can't tell what these builds do if they are in a larger list </font>![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/BuildStatus02.jpg)<font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; Good example, you know exactly what project, branch and type of build these are for.&#160;</font>
