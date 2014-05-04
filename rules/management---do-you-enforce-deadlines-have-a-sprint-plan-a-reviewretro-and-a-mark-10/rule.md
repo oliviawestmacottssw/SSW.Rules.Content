@@ -12,7 +12,7 @@ authors:
  Developers love doing things in their own time, investigating interesting things they find on the web, and therefore they're generally easily distracted. If they don't have a project plan constantly in front of them they'll never deliver on time! For every project you must have 4 essential things: <br> 
 1. Enforce Deadlines - Every week (usually Tuesday) the developer has a meeting with the client to discuss the status of project. 
 <br>    Note: If you can't have a meeting, a phone call must make do.
-<br>    Note #2: A weekly [status update report](http&#58;//www.ssw.com.au/ssw/ExtremeEmails/ManageProjects.aspx#StatusUpdate) (if the release is not yet complete).
+<br>    Note #2: A weekly [status update report](http&#58;//www.ssw.com.au/ssw/extremeemails/default.aspx) (if the release is not yet complete).
 2. Have a project release plan - ideally a signed copy of the Release Plan in their diary.
 <br>    Note: A printed copy of the email with "Approved" is fine.
 3. A debrief when the release is done.
