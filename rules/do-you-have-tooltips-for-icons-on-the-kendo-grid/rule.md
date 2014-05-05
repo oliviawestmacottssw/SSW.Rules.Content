@@ -13,4 +13,4 @@ authors:
 
  
 Icons make your user interface clean, but users sometimes need further information about the operation they are about to perform.​
- ![](/SoftwareDevelopment/RulesToBetterKendoUI/PublishingImages/kendo-tooltips.jpg)Figure: Good Example - Tooltips![](/SoftwareDevelopment/RulesToBetterKendoUI/PublishingImages/kendo-adding-tooltips.jpg)Figure: When adding Kendo Tooltips to Icons in the Kendo Grid, the Tooltip JavaScript needs to be executed as the page is bound or else the tooltips will not exist after a new page of data is selected![](/SoftwareDevelopment/RulesToBetterKendoUI/PublishingImages/kendo-commonJS.jpg)Figure: Common JavaScript library: add the EnableEditLinks() method/dd&gt; 
+ ![](/PublishingImages/kendo-tooltips.jpg)Figure: Good Example - Tooltips![](/PublishingImages/kendo-adding-tooltips.jpg)Figure: When adding Kendo Tooltips to Icons in the Kendo Grid, the Tooltip JavaScript needs to be executed as the page is bound or else the tooltips will not exist after a new page of data is selected![](/PublishingImages/kendo-commonJS.jpg)Figure: Common JavaScript library: add the EnableEditLinks() method/dd&gt; 
