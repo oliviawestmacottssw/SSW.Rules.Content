@@ -34,11 +34,11 @@ As outlined by Martin Fowler in his article on [Feature Branches](http&#58;//mar
 - Every time we release​
 
 <dl class="badImage"><dt>
-      <img src="/TFS/RulesToBetterBranchingAndBuilds/PublishingImages/branch-bad.jpg" alt="">
+      <img src="/ALM/RulesToBetterBranchingAndBuilds/PublishingImages/branch-bad.jpg" alt="">
    </dt><dd>Figure&#58; Bad Example – Creating a branch per feature leads to lots of merging (Image from<a href="http&#58;//paulhammant.com/blog/branch_by_abstraction.html"><span class="s2">http&#58;//paulhammant.com/blog/branch_by_abstraction.html</span></a>)</dd></dl><dl class="badImage"><dt>
-      <img src="/TFS/RulesToBetterBranchingAndBuilds/PublishingImages/branch-bad-2.jpg" alt="">
+      <img src="/ALM/RulesToBetterBranchingAndBuilds/PublishingImages/branch-bad-2.jpg" alt="">
    </dt><dd>Figure&#58; Bad Example – Creating a branch per sprint has everyone working on the same code but requires at least one merge every sprint</dd></dl><dl class="goodImage"><dt>
-      <img src="/TFS/RulesToBetterBranchingAndBuilds/PublishingImages/branch-good.jpg" alt="">
+      <img src="/ALM/RulesToBetterBranchingAndBuilds/PublishingImages/branch-good.jpg" alt="">
    </dt><dd>Figure&#58; Good Example&#58; Release Branching - always develop on the trunk, but create a new branch each time you release.&#160;<br>This means th​at all developers are continually integrating all their code, branching is rare, but you always have access to your released version in case bug fixes or small mods are required.<br>(Image from&#160;<a href="http&#58;//paulhammant.com/blog/branch_by_abstraction.html"><span class="s2">http&#58;//paulhammant.com/blog/branch_by_abstraction.html</span></a>)</dd></dl>
 Further reading:
 
