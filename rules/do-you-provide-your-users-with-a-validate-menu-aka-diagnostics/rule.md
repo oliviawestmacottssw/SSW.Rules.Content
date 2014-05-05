@@ -13,7 +13,7 @@ authors:
 We recommend adding these menus to your Tools Menu:
 
 - Tools - Validate - Validate Links (with [SSW Link Auditor](http&#58;//www.ssw.com.au/ssw/LinkAuditor))
-- Tools - Validate - [Validate Data](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterInterfaces-WinApp.aspx#ValidateData)
+- Tools - Validate - [Validate Data](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Windows-Applications.aspx#ValidateData)
 - Tools - Validate Schema (with [SSW SQL Deploy](http&#58;//www.ssw.com.au/ssw/SQLDeploy/Default.aspx))
 - Tools - Validate - Reports (with [SSW Reporting Services Auditor](http&#58;//www.ssw.com.au/ssw/SQLReportingServicesAuditor/Default.aspx))
 - Tools - [Run Unit Tests](http&#58;//www.ssw.com.au/ssw/Standards/Rules/rulestobetterwindowsforms.aspx#UnitTests) (with NUnit)
