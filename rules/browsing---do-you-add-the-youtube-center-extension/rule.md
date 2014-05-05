@@ -10,7 +10,7 @@ authors:
 ---
 
  
-[YouTube Center](http&#58;//userscripts.org/scripts/show/114002)​ contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
+​​​​​[YouTube Center](http&#58;//userscripts.org/scripts/show/114002)​ contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
  
 Major features for us:
 
