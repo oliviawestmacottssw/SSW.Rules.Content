@@ -27,4 +27,4 @@ Any opportunity that has not yet been converted to a sale will be at one of the 
 
 
 This is the modern version of the old 8 stages in the Sales Pipeline:
-![the old sales pipeline](/Management/RulesToSuccessfulSalesAndAccountManagement/PublishingImages/old-sales-pipeline.jpg)Figure: Bad Example – the old sales pipeline![the new sales pipeline](/Management/RulesToSuccessfulSalesAndAccountManagement/PublishingImages/new-sales-pipeline.jpg)Figure: Good Example – the new sales pipeline - [Download the printable PDF](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Files/6-Stages-in-the-Sales-Pipeline.pdf)
+![the old sales pipeline](/Management/RulesToSuccessfulSalesAndAccountManagement/PublishingImages/old-sales-pipeline.jpg)Figure: Bad Example – the old sales pipeline![the new sales pipeline](/Management/RulesToSuccessfulSalesAndAccountManagement/PublishingImages/new-sales-pipeline.jpg)Figure: Good Example – the new sales pipeline​
