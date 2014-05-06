@@ -36,7 +36,7 @@ Some activities are run internally; some are run with the client.
 | Wednesday  | <ul><li><a href="/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx" shape="rect">Stand Up meeting (or Scrum)&#160;</a> <ul></ul></li></ul> |  |
 |   |
 | Thursday  | <ul><li><a href="/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx" shape="rect">Stand Up meeting (or Scrum)&#160;</a> </li>
-<li><a href="http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterProjectManagement.aspx#ArchitectureCodeReview" shape="rect">Architecture/code review</a> </li></ul> |  |
+<li><a href="/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/default.aspx" shape="rect">Architecture/code review</a> </li></ul> |  |
 |   |
 | Friday  | <ul><li><a href="/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx" shape="rect">Stand Up meeting (or Scrum)&#160;</a> </li>
 <li><a href="http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSetups.aspx#BuildVersionDay" shape="rect">Internal build</a> </li>
