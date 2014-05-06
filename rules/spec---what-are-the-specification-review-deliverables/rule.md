@@ -13,7 +13,7 @@ authors:
 
 ---
 
- The Initial Release Plan is a summary of the work required to complete the client's project and provides a ballpark estimate. The Initial Release Plan will contain the following elements:  ![Remember, a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early](/Management/RulestoBetterSpecificationReviews/PublishingImages/ProjectManagement_BallPark_Catch.jpg) Figure: Remember, a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early
+ The Initial Release Plan is a summary of the work required to complete the client's project and provides a ballpark estimate. The Initial Release Plan will contain the following elements:  ![Remember, a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early](/PublishingImages/ProjectManagement_BallPark_Catch.jpg) Figure: Remember, a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early
 - An architectural roadmap recommending technical solutions
 - Time allocated for further specification work to be included in each Release. In general you should only create detailed specifications for a couple of releases at a time
 - A breakdown of the required software application into its core components, likely to include the approximate number of main features (e.g. screens, reports or sitemap)
