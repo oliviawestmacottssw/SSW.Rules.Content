@@ -15,10 +15,12 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). ![Select A Recent Work Item](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/SelectARecentWorkItem.jpg)Figure: When you use Check-in policies you often will need to select a work item that you selected recently 
-Make this easy on yourself by adding a query 'Recent'1. Create a work item query that returns you the last changed work item ![Add a query](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/AddQuery.jpg)Figure: Add a query just for your associated check ins
+ ![Select A Recent Work Item](/PublishingImages/SelectARecentWorkItem.jpg)Figure: When you use Check-in policies you often will need to select a work item that you selected recently​
+ 
+
+Make this easy on yourself by adding a query 'Recent'1. Create a work item query that returns you the last changed work item ![Add a query](/PublishingImages/AddQuery.jpg)Figure: Add a query just for your associated check ins
 2. Just copy the 'Tasks - My' query
-3. Add the sort date of 'Changed Date' sorted by descending ![Sorted the query by 'Changed Date' ](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/SortedByChangedDate.jpg)Figure: The query should be sorted by 'Changed Date'
+3. Add the sort date of 'Changed Date' sorted by descending ![Sorted the query by 'Changed Date' ](/PublishingImages/SortedByChangedDate.jpg)Figure: The query should be sorted by 'Changed Date'
 4. Use that query on your check ins and you find the relevant work item easily
 
 
