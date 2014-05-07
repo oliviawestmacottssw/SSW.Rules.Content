@@ -17,7 +17,7 @@ authors:
 
  
 - TFS SP1 
-This feature called "Extranet Support" was added way back in TFS 2005 SP1 as per [Stuff in the pipe for Team Foundation Server](http&#58;//www.ssw.com.au/ssw/Redirect/StandardsRules/MSDNBlog.htm) ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW")
+This feature called "Extranet Support" was added way back in TFS 2005 SP1 as per [Stuff in the pipe for Team Foundation Server](http&#58;//www.ssw.com.au/ssw/Redirect/StandardsRules/MSDNBlog.htm) ​
 - A domain name or IP address forwarded to TFS (eg: tfs.your-domain.com)
 - Port 8080 (this is port that TFS uses for source control)
 - Firewall/Router rule (ideally)​
