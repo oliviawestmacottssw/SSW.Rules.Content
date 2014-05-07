@@ -35,5 +35,5 @@ To enable these policies:
 2. Select the check-in policies above
 3. Click **OK**
 
-<dl><dt><img alt="Chose check in policy" src="/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/SC_TFSCI.jpg"></dt>
+<dl><dt><img alt="Chose check in policy" src="/PublishingImages/SC_TFSCI.jpg"></dt>
 <dd>Figure&#58; Chose check-in policies in TFS </dd></dl>
