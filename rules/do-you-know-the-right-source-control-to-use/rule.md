@@ -15,7 +15,7 @@ authors:
 
 ---
 
- SSW uses and recommends Microsoft Team Foundation Server (TFS) as a source code solution. <br> ![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/TFSTeam.jpg) <font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; Microsoft Visual Studio Team System </font>
+ SSW uses and recommends Microsoft Team Foundation Server (TFS) as a source code solution. <br> ![](/PublishingImages/TFSTeam.jpg) <font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; Microsoft Visual Studio Team System </font>
 Here are some of the reasons why:
 
 - Checkin policies
