@@ -17,12 +17,12 @@ authors:
 
  This field should not be null (Remove me when you edit this field). 
 There are two ways to do this:1. If you haven’t checked in any files since you started modifying them then the process is simple:
-    - Right click your solution and **Undo Pending Changes**<dl><dt><img alt="Undo Pending changes" src="/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/rollback1.gif" width="266" height="307"> </dt></dl>
+    - Right click your solution and **Undo Pending Changes**<dl><dt><img alt="Undo Pending changes" src="/PublishingImages/rollback1.gif" width="266" height="307"> </dt></dl>
 2. If you aren’t so lucky and have made some commits along the way then the only option is to use the Rollback command.
     - To use this you will need to install [Team Foundation Server Power Tools v1.2](http&#58;//www.ssw.com.au/ssw/Redirect/TFSPowerToolsDownload.htm) ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW")
-    - Find the revision before you started checking code in using the **History command**<dl><dt><img alt="Revision List" src="/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/rollback2.gif" width="595" height="178"></dt>
+    - Find the revision before you started checking code in using the **History command**<dl><dt><img alt="Revision List" src="/PublishingImages/rollback2.gif" width="595" height="178"></dt>
 <dd>Figure&#58; The last revision before Tristan made changes was 5367</dd></dl>
-    - Open the Command Prompt in your current working directory and type **“c:\Program Files\Microsoft Team Foundation Server Power Tools\tfpt.exe” rollback /changeset:5367**<dl><dt><img alt="Rollback Changeset" src="/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/rollback3.gif" width="807" height="342"> </dt></dl>
+    - Open the Command Prompt in your current working directory and type **“c:\Program Files\Microsoft Team Foundation Server Power Tools\tfpt.exe” rollback /changeset:5367**<dl><dt><img alt="Rollback Changeset" src="/PublishingImages/rollback3.gif" width="807" height="342"> </dt></dl>
     - Click **Yes** and the rollback will proceed
 
 
