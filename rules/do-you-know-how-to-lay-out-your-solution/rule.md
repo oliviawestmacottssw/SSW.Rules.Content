@@ -13,7 +13,7 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ 
 Whenever we setup a new Team Project we implement a basic version control structure. We put "readme.txt" files in the folder structure explaining the different levels, and a solution file called [Client].[Product].sln?located at ?/[Client]/[Product]/DEV/Main?within version control.
 ![Messy solution ](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/MessySolution.jpg)Figure: Bad Example, how would anyone know how to sort this mess out? ![Ideal solution ](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/IdealSolution.jpg)Figure: Good Example, The ideal solution. 
 For more implementation details see: 
