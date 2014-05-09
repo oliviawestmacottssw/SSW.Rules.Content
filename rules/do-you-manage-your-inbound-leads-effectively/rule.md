@@ -20,7 +20,7 @@ Once you have qualified the lead, your aim for the remainder of the call should 
 
 1. Agree on a time for an initial meeting.
 
-2. Send this email​ [Pre Initial Meeting](/Communication/RulesToBetterCRMForUsers/Documents/BriefProposal-PreInitialMeeting.docx).​
+2. Send this email​ [Pre Initial Meeting](/Communication/RulesToBetterCRMForUsers/Documents/BriefProposal-PreInitialMeeting.docx)​.​
 
 3. Send an appointment to the client and everyone who will be attending the meeting, including the the email above in the body of the appointment.
 ![Meeting request](/Communication/RulesToBetterCRMForUsers/PublishingImages/meeting-request.jpg)Figure: Send an appointment for your initial meeting
