@@ -18,11 +18,11 @@ Be prepared for [inbound calls](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Ru
 
 Once you have qualified the lead, your aim for the remainder of the call should be to arrange a face-to-face Initial Meeting with the client.
 
-1. Agree on a time for an initial meeting.
+1. Agree on a time for an initial meeting.​
 
 2. Send this email​ [Pre Initial Meeting](/Communication/RulesToBetterCRMForUsers/Documents/BriefProposal-PreInitialMeeting.docx)​.​
 
-3. Send an appointment to the client and everyone who will be attending the meeting, including the the email above in the body of the appointment.
+3. Send an appointment to the client and everyone who will be attending the meeting, including the email above in the body of the appointment.
 ![Meeting request](/Communication/RulesToBetterCRMForUsers/PublishingImages/meeting-request.jpg)Figure: Send an appointment for your initial meeting
 On the off-chance that the client wants to commence ad-hoc work (e.g. Consulting) without a meeting, you should immediately [enter a contract](/Management/RulesToSuccessfulSalesAndAccountManagement/Pages/Enter-into-a-binding-written-contract-with-a-client-before-doing-any-billable-work.aspx) with the client.
 
