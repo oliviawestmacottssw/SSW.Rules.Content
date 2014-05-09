@@ -12,7 +12,7 @@ authors:
 ---
 
  
-With the amount of money companies spend on marketing these days, it's vital that, when you receive a phone call enquiring about your services, you know how to handle it.
+​With the amount of money companies spend on marketing these days, it's vital that, when you receive a phone call enquiring about your services, you know how to handle it.
  
 Be prepared for [inbound calls](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterInboundCalls.aspx#Preparation). You should have a script that your phone operators keep close at hand to make sure you ask the necessary qua​lifying questio​ns. The aim is to determine if you are a good match with the prospect - that way you don't spend time on dead ends and can give more time to the most likely leads.
 
@@ -20,7 +20,7 @@ Once you have qualified the lead, your aim for the remainder of the call should 
 
 1. Agree on a time for an initial meeting.
 
-2. Send this email​ [Pre Initial Meeting](http&#58;//www.ssw.com.au/ssw/Standards/templates/BriefProposal-PreInitialMeeting.docx).​
+2. Send this email​ [Pre Initial Meeting](/Communication/RulesToBetterCRMForUsers/Documents/BriefProposal-PreInitialMeeting.docx).​
 
 3. Send an appointment to the client and everyone who will be attending the meeting, including the the email above in the body of the appointment.
 ![Meeting request](/Communication/RulesToBetterCRMForUsers/PublishingImages/meeting-request.jpg)Figure: Send an appointment for your initial meeting
