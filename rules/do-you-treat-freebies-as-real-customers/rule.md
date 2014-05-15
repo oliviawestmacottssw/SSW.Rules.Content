@@ -14,7 +14,7 @@ authors:
     A discount or freebie should follow all the standard processes such as:
 
     - [initial meetings](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoSuccessfulSalesAccountManagement.aspx#PrepareInitialMeeting)
-    - [written contracts](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoSuccessfulSalesAccountManagement.aspx#BindingWrittenClientContract)
+    - [written contracts](/Management/RulesToSuccessfulSalesAndAccountManagement/Pages/Enter-into-a-binding-written-contract-with-a-client-before-doing-any-billable-work.aspx)
     - [specification reviews](/Management/RulestoBetterSpecificationReviews/Pages/SpecificationReview.aspx)
     - [release plans](/Management/RulestoBetterSpecificationReviews/Pages/Work-included-in-Sprint.aspx)
     - [triaging additional items](/Management/RulesToHappyClients/Pages/DoYouKnowWhatTasksAreInAReleasePlanInAdditionToDevelopmentWorkItems.aspx)
