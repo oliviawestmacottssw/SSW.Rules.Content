@@ -12,7 +12,7 @@ authors:
 ---
 
  
-The first meeting is on you. While you have 1 - 2 hours to provide the prospective                     client with enough information to decide whether to pursue a [Spec Review](/Management/RulestoBetterSpecificationReviews/Pages/Default.aspx), the focus                     of the initial meeting is the client, their problem, and how you might build                     a solution.
+The first meeting is on you. While you have 1 - 2 hours to provide the prospective                     client with enough information to decide whether to pursue a [Spec Review](/rules), the focus                     of the initial meeting is the client, their problem, and how you might build                     a solution.
 
 The best way to action this is to ask questions, listen and take notes:                     Clients appreciate someone genuinely considering their needs. A brainstorming session                     is a fantastic way to give and receive feedback immediately. Even if the client                     decides not to use you, you should leave them with useful information and a positive                     impression.
  
@@ -35,6 +35,6 @@ The purpose of the initial meeting is to:
 - Explain the strengths and challenges of a Time and Materials or Fixed Price approach
 - Explain our development method including the importance of a Specification Review
 - Take exceptional notes
-- Ask for the sale: "This project is right up our alley and we'd love to be involved,<br>                        is there anything stopping you from scheduling a [Specification Review](http&#58;//www.ssw.com.au/ssw/standards/rules/RulestoSuccessfulSalesAccountManagement.aspx#first-date)?" This will focus the mind of the client on the next step​
+- Ask for the sale: "This project is right up our alley and we'd love to be involved,<br>                        is there anything stopping you from scheduling a [Specification Review](/Pages/Ensure-an-excellent-1st-date.aspx)?" This will focus the mind of the client on the next step​
 
-![Do you listen](/Management/RulesToSuccessfulSalesAndAccountManagement/PublishingImages/WomanListening.jpg)                        Figure: Do you listen?
+![Do you listen](/PublishingImages/WomanListening.jpg)                        Figure: Do you listen?
