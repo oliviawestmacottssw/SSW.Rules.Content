@@ -14,5 +14,5 @@ A better way to go about it is to spend a little more time, and really get down 
 
 The exception to this rule is if the client is happy to invest some of their own time to help you come up with a ballpark, then you can spend some time on it for free as this should help to get the client feeling invested in you and therefore more likely to go ahead with the work.
 
-See [Rules to Successful Sales Account Management](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulestoSuccessfulSalesAccountManagement.aspx#OutcomeInitialMeetingSpecRevieworAdHocWork).
+See [Rules to Successful Sales Account Management](/meetings-do-you-know-the-outcomes-from-your-initial-meeting-%28spec-review-or-ad-hoc-work%29).
  
