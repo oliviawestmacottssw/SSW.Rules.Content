@@ -24,9 +24,9 @@ Each week give some love to your client. "Client Love", as I have seen, varies a
     - General talking about their hobbies.
 The tasks don't have to cost anything. Free tasks are more thoughtful and show the client you are thinking about them.
 
-Tasks should be completed whilst on client work. Once client work is completed, the developer should move onto the [Post Client Work](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/pages/default.aspx) rule.
+Tasks should be completed whilst on client work. Once client work is completed, the developer should move onto the [Post Client Work](/Pages/Rules-to-Better-Software-Consultants---Dealing-with-Clients.aspx) rule.
 
 Extra Reading: For some, the above comes naturally. For the rest of us, we highly recommend the book "How to Win Friends and Influence People" written by Dale Carnegie. It is an easy read, the principles are easy to implement and will not only change your client relationships but enhance all the relationships in your life for the better.
-![](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/PublishingImages/LoveClientsImage.jpg) 
-See [Rules to Successful Sales Account Management](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulestoSuccessfulSalesAccountManagement.aspx#ReviewClientLove)
+![](/PublishingImages/LoveClientsImage.jpg) 
+See [Rules to Successful Sales Account Management](/do-you-review-your-team-are-giving-＂client-love＂-to-your-customer-every-friday)
 
