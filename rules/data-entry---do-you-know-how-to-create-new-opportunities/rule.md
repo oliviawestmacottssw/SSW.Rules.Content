@@ -11,4 +11,4 @@ authors:
 
 ---
 
- **Note:** In order to enter new opportunities into CRM, the company the opportunity belongs to must already exist.  ![Change CRM company Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/Sales-Opportunities.jpg)            Figure: In CRM 2013, click on Sales | Opportunity![Change CRM company Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/NewOpportunity.jpg)            Figure: Click New, enter as much details as possible, and then Click Save and Close.<br>          
+ **Note:** In order to enter new opportunities into CRM, the company the opportunity belongs to must already exist.  ![Change CRM company Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/Sales-Opportunities.jpg)            Figure: In CRM 2013, click on Sales | Opportunities​![Change CRM company Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/NewOpportunity.jpg)            Figure: Click New, enter as much details as possible, and then Click Save and Close.<br>          
