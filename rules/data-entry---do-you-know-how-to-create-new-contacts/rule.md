@@ -9,4 +9,4 @@ authors:
 
 ---
 
- **Note:** In order to enter new contacts into CRM, the company the contact belongs to<br> must first exist. ![Create New Contact Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/createNewContact.gif)            Figure: Create New Contact<br>          ![Create New Contact Information](/Communication/RulesToBetterCRMForUsers/PublishingImages/NewContactEnterInformation.gif)            Figure: Enter Contact Information and click Save and Close.<br>          
+ **Note:** In order to enter new contacts into CRM, the company the contact belongs to<br> must first exist. ![Create New Contact Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/Sales-COntacts.jpg)            Figure: Click on Sales | Contacts in CRM 2013![Create New Contact Information](/Communication/RulesToBetterCRMForUsers/PublishingImages/NewContact.jpg)            Figure: Click New, enter relevant contact information, and click Save and Close.<br>          
