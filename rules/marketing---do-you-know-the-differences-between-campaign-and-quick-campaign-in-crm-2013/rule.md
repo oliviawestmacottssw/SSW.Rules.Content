@@ -10,5 +10,7 @@ authors:
 ---
 
  
-Below picture shows a flowchart of Campaign and Quick Campaign in CRM 4:
- ![Color of CRM Development Server](/Communication/RulesToBetterCRMForUsers/PublishingImages/CampaignVSQuickCampaign.jpg)            Figure: Campaign VS Quick Campaign flowchart.
+Below picture shows a flowchart of Campaign and Quick Campaign in CRM 2013:
+ ![Color of CRM Development Server](/Communication/RulesToBetterCRMForUsers/PublishingImages/CampaignVSQuickCampaign.jpg) Figure: Campaign VS Quick Campaign flowchart.
+As you can see, the Campaign will track meta data for multi media marketing​ campaigns, whereas Quick Campaign is just meant for email Newsletters or quick group emails.
+
