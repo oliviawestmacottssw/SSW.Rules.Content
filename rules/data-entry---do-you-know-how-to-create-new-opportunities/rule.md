@@ -15,7 +15,7 @@ authors:
             <img src="/Communication/RulesToBetterCRMForUsers/PublishingImages/Sales-Opportunities.jpg" alt="Change CRM company Logo" style="width&#58;600px;height&#58;186px;">
           </dt>
           <dd>
-            Figure&#58; In CRM 2013, click on Sales | Opportunity</dd>
+            Figure&#58; In CRM 2013, click on Sales | Opportunities​</dd>
         </dl><dl class="goodImage">          <dt>
             <img src="/Communication/RulesToBetterCRMForUsers/PublishingImages/NewOpportunity.jpg" alt="Change CRM company Logo" style="width&#58;600px;height&#58;283px;">
           </dt>
