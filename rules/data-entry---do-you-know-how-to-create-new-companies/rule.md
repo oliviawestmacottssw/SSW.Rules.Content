@@ -9,4 +9,4 @@ authors:
 
 ---
 
- **Note:** Please make sure that there is no existing company before you make the entry. ![Change CRM company Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/Sales-Accounts.jpg)​<br>                      Figure: In MS CRM 2013, click on Sales | Accounts![Change CRM company Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/NewAccount.jpg)            Figure: Click New, enter the required fields, and save and close​
+ **Note:** Please make sure that there is no existing company before you make the entry. ![Change CRM company Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/Sales-Accounts.jpg)​<br>                      Figure: In MS CRM 2013, click on Sales | Accounts![Change CRM company Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/NewAccount.jpg)​<br>                      Figure: Click New, enter the required fields, and save and close​
