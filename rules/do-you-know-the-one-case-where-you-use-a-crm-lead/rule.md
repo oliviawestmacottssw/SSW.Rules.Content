@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​It can sometimes be hard to work out when to use a lead vs a contact and company,or even an opportunity.
+​It can sometimes be hard to work out when to use a lead vs a contact and company, ​or even an opportunity.
  
 
 |               Type<br>             |               Type and Category<br>             |
