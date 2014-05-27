@@ -14,14 +14,13 @@ The simplest way is, when writing or receiving the email, click the track in CRM
 <dl class="image">          <dt>
             <img alt="Ribbon CRM section in email" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRMSectionInEmail.jpg"></dt>
           <dd>
-            Figure&#58; When you receive an important email, click the 'Track in CRM' button in
-            on the CRM toolbar
+            Figure&#58; When you receive an important email, click the 'Track' button in
+            on the CRM toolbar​
           </dd>
         </dl>
 Otherwise, you can also do it from the main Outlook page with the toolbar at the           top.
 <dl class="image">          <dt>
             <img alt="Toolbar CRM section in Inbox" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRMSectionInInbox.jpg"></dt>
           <dd>
-            Figure&#58; A shortcut to the same 'Track in CRM' button exists on the CRM Toolbar
-          </dd>
+            Figure&#58; A shortcut to the same 'Track' button exists on the CRM Toolbar in your Inbox</dd>
         </dl>
