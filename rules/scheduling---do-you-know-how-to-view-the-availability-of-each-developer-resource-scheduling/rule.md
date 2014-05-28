@@ -31,7 +31,7 @@ All of the Appointments in the Service Calendar will also sync to the developers
 
 You have multiple options for ways to fill this data, which you can see in [<font color="#333333">Scheduling - Do you know how to book developers for a project?​</font>](/Communication/RulesToBetterCRMForUsers/Pages/How-to-book-developers-for-a-project.aspx)
 
-
+​
 <dl class="image"><dt><img alt="Toolbar CRM section in Inbox" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRMServiceCalendar.jpg" style="width&#58;600px;height&#58;317px;"></dt>
             <dd>
               Figure&#58; Service Calendar in CRM </dd></dl>
