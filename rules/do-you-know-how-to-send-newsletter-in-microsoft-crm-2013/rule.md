@@ -29,7 +29,7 @@ Subsequ​ent times - Use the **System View**, so everyone is using the same 
          <img src="/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm03.png" alt="crm03.png" style="margin&#58;5px;width&#58;600px;height&#58;327px;">
       </dt><dd>Figure&#58;&#160;<strong><span style="font-size&#58;8.5pt;font-family&#58;'segoe ui', sans-serif;color&#58;#555555;">Select Contacts at Look For and specify a set of criteria to search for newsletter contacts.</span></strong></dd><dd>
          <strong><br></strong></dd><dd>
-         <strong><img src="/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm04%20-%20results.png" alt="crm04 - results.png" style="margin&#58;5px;width&#58;600px;height&#58;192px;">Figure&#58; then select &quot;Results&quot; to bring up contacts which match your search query&#160;</strong><br></dd><dd>
+         <strong><img src="/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm04%20-%20results.png" alt="crm04 - results.png" style="margin&#58;5px;width&#58;600px;height&#58;192px;"></strong></dd><dd><strong>Figure&#58; then select &quot;Results&quot; to bring up contacts which match your search query&#160;</strong><br></dd><dd>
          <br>
       </dd><dd>
          <img src="/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm05%20-%20contacts%20list.png" alt="crm05 - contacts list.png" style="margin&#58;5px;width&#58;600px;height&#58;438px;">
@@ -37,8 +37,8 @@ Subsequ​ent times - Use the **System View**, so everyone is using the same 
       </dd><dd>
          <strong><span style="font-size&#58;8.5pt;font-family&#58;'segoe ui', sans-serif;color&#58;#555555;">Figure&#58; The result contacts that will get newsletter&#58; these contacts allow us to &quot;Send Marketing Material&quot; and have a New Zealand email address or living country is New Zealand.</span></strong></dd></dl>2. First time only, save this as a System View. You will need a SysAdmin for this.
 3. Create the newsletter in Microsoft CRM 2013 using a <br>      **Quick Campaign**.![Create Quick Campaign](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm06%20-%20create%20quick%20campaign.png)
-<dl class="image"><dd>
-         <strong>Figure&#58; Select &quot;For All Records on All Pages&quot; to create a Quick Campaign from current contact list. This will bring up a Quick campaign Wizard.</strong></dd></dl><dl class="image"><dt>
+**Figure: Select "For All Records on All Pages" to create a Quick Campaign from current contact list. This will bring up a Quick campaign Wizard.**
+<dl class="image"><dt>
          <img src="/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm07%20-%20name%20quick%20campaign.png" alt="Specify name of quick campaign" style="width&#58;600px;height&#58;438px;">
       </dt><dd>Figure&#58; Click Next and then specify name of quick campaign.</dd></dl><dl class="image"><dt>
          <img src="/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm08-%20own%20quick%20campaign.png" alt="Select the Activity Type and Owner" style="width&#58;600px;height&#58;438px;">
