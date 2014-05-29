@@ -19,9 +19,9 @@ Microsoft Dynamics CRM 2013 allows users to track activities such as emails, ap
 - Emails: Sales related emails
 
 
-All sales activities should be set regarding an opportunity, company or contact.
+All sales activities should be set regarding to an opportunity, company or contact.
 <dl><dt class="greyBox">
-<p>            From&#58; Marlon Marescia www.ssw.com.au <br>
+<p>            From&#58; Marlon Marescia​ www.ssw.com.au <br>
             Sent&#58; Thursday, 25 February 2010 10&#58;40 AM<br>
             To&#58; some-email-address<br>
             Subject&#58; RE&#58; Consulting<br></p>
