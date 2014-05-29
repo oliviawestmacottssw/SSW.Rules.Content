@@ -14,8 +14,8 @@ authors:
 **
 **
 
-**Tip #1:** Make sure that there is no existing company before you make the entry.
+**Tip #1:** Avoid duplicates - Make sure tha​t there is no existing company before you make the entry.
 
-**Tip #2: **Generally you should be [creating these from leads](/Communication/RulesToBetterCRMForUsers/Pages/Leads-can-be-converted-to-Opportunities-Contacts-and-Accounts.aspx), as it speeds up the process.
+**Tip #2: **Generally you should be [creating these from leads](/Pages/Leads-can-be-converted-to-Opportunities-Contacts-and-Accounts.aspx), as it speeds up the process.
 
- ![Change CRM company Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/Sales-Accounts.jpg)​<br>                      Figure: In MS CRM 2013, click on Sales | Accounts![Change CRM company Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/NewAccount.jpg)​<br>                      Figure: Click New, enter the required fields, and save and close​
+ ![Change CRM company Logo](/PublishingImages/Sales-Accounts.jpg)​<br>                      Figure: In MS CRM 2013, click on Sales | Accounts![Change CRM company Logo](/PublishingImages/NewAccount.jpg)​<br>                      Figure: Click New, enter the required fields, and save and close​
