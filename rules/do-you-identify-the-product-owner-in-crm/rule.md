@@ -12,5 +12,5 @@ authors:
  
 To make them easily identifiable​, the Product Owner of a Company/Account should be included into their Job Title.
  <dl class="badImage">          <dt><img src="/Communication/RulesToBetterCRMForUsers/PublishingImages/BetterCRMDataGoodExam.jpg" alt="CRM user can easily determine who is Product Owner of the Company/Contact."></dt></dl><dl class="goodImage">          <dd>
-            Figure&#58;&#160;A&#160;CRM 2013 user can easily determine who is the Product Owner of the Company/Contact</dd>
+            Figure&#58; Good Example -​&#160;A&#160;CRM 2013 user can easily determine who is the Product Owner of the Company/Contact</dd>
         </dl>
