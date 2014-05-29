@@ -20,11 +20,11 @@ The process is:​
 2. Convert it into an Opportunity, Contact and Account using the Qualify button
 
 <dl class="image"><dt>
-         <img alt="Become familiar with the 'Convert Lead' button" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRM_ConvertLead.jpg">
+         <img alt="Become familiar with the 'Convert Lead' button" src="/PublishingImages/CRM_ConvertLead.jpg">
       </dt><dd>Figure&#58; Create a Lead, then become familiar with the time saving&#160;&quot;Qualify&quot; button</dd></dl>
 Clicking on the "Qualify" button allows the automatic generation of Accounts, Contacts and Opportunities, and also allows you to check for potential duplicates being created.
 <dl class="image"><dt>
-         <img alt="Convert Lead Web Page Dialog" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRM_ConvertLeadDialg.jpg">
+         <img alt="Convert Lead Web Page Dialog" src="/PublishingImages/CRM_ConvertLeadDialg.jpg">
       </dt><dd>Figure&#58; CRM 2013 also&#160;check for existing records before creating new ones</dd></dl>
 This will:
 
@@ -34,8 +34,8 @@ This will:
 4. Save you substantial amount of time compared to creating and linking each one manually.
 
 
+​
 
 
-
-Note: See [Do you know the one case where you use a CRM lead?](/Communication/RulesToBetterCRMForUsers/Pages/The-one-case-where-you-use-a-CRM-lead.aspx) to see why, apart from for this purpose, you should generally not be using <br>      CRM leads much.
+Note: You have just learned that a lead is a transitory thing. There is, however, one other case where you might want to use leads: [Do you know the one case where you use a CRM lead?](/Pages/The-one-case-where-you-use-a-CRM-lead.aspx) 
 
