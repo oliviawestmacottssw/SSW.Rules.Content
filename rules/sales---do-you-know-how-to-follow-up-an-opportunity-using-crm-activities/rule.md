@@ -10,11 +10,11 @@ authors:
 ---
 
  
-Once you create an opportunity, you should click the "Follow Up" button to           create an activity to call up the client after approximately 1 week. Each time you           make this call, you should complete the activity and create a new one, with a time           interval based on the specific circumstances of the opportunity.
- ![Follow Up Activity](/Communication/RulesToBetterCRMForUsers/PublishingImages/FollowUpActivity.jpg)            Figure: 1 - follow up button; 2 - form that the follow up button opens
+Once you create an opportunity, you should click the "Add phone call" button to           create an activity to call up the client after approximately 1 week. Each time you           make this call, you should complete the activity and create a new one to follow up again when appropriate.
+ ![Follow Up Activity](/PublishingImages/FollowUpActivity.jpg)            Figure: Use sales activities to follow up an opportunity
 You can see your outstanding activities in your CRM workspace homepage, and this           should keep you on top of all of your current opportunities.
 
-Make sure you never have an opportunity in CRM without a follow up activity against           it; otherwise you're just hoping that they will remember to call you, which is never a good           sales strategy.         
+Make sure you never have an opportunity in CRM without a follow up activity against<br>          it; otherwise you're just hoping that they will remember to call you, which is never a good<br>          sales strategy.
 
-The alternative to CRM activities is to use [FollowUpThen](/Communication/RulesToBetterEmail/Pages/FollowUpEmailsEffectively.aspx) instead. This is more convenient but is not centralised, meaning that ​when a salesperson leaves an organisation, their opportunities will need to be handed over manually.
+**Note: **The alternative to CRM activities is to use [FollowUpThen](/do-you-follow-up-emails-effectively) instead as this is much more convenient. The downside is that these are not centralised, meaning that ​wh​en a salesperson leaves an organisation, their opportunities will need to be handed over manually.
 
