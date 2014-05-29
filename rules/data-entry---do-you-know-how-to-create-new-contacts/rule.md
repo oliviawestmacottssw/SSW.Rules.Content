@@ -11,9 +11,8 @@ authors:
 
  
 
-**Tip #1:** Search to see if the Contact ​already exists before creating it to avoid duplicates.
+**Tip #1:** Avoid duplicates - Search to see if the Contact ​already exists before creating it.
 
-**Tip #2: **Generally you should be [creating these from leads](/Communication/RulesToBetterCRMForUsers/Pages/Leads-can-be-converted-to-Opportunities-Contacts-and-Accounts.aspx), as it speeds up​ the process.
-
+**Tip #2: **Generally you should be [creating these from leads](/Communication/RulesToBetterCRMForUsers/Pages/Leads-can-be-converted-to-Opportunities-Contacts-and-Accounts.aspx), as it speeds up​ the process.​
 
  ![Create New Contact Logo](/Communication/RulesToBetterCRMForUsers/PublishingImages/Sales-COntacts.jpg)            Figure: In CRM 2013, click on Sales | Contacts![Create New Contact Information](/Communication/RulesToBetterCRMForUsers/PublishingImages/NewContact.jpg)            Figure: Click New, enter relevant contact information, and click Save and Close.<br>          
