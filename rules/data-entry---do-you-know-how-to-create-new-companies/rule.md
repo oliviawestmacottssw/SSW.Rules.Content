@@ -9,7 +9,16 @@ authors:
 
 ---
 
- **Note:** Please make sure that there is no existing company before you make the entry. <dl class="goodImage">          <dt>
+ Although you can create a Contact first, it's better to always create the Company first so you don't​ get orphan Contacts. 
+
+**
+**
+
+**Tip #1:** Make sure that there is no existing company before you make the entry.
+
+**Tip #2: **Generally you should be [creating these from leads](/Communication/RulesToBetterCRMForUsers/Pages/Leads-can-be-converted-to-Opportunities-Contacts-and-Accounts.aspx), as it speeds up the process.
+
+ <dl class="goodImage">          <dt>
             <img src="/Communication/RulesToBetterCRMForUsers/PublishingImages/Sales-Accounts.jpg" alt="Change CRM company Logo" style="width&#58;500px;height&#58;98px;">​
           </dt>
           <dd>
