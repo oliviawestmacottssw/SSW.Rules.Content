@@ -11,7 +11,7 @@ authors:
 
  
 
-**Tip #1:** Make sure that there is no existing Contact before you make the entry.
+**Tip #1:** Search to see if the Contact ​already exists before creating it to avoid duplicates.
 
 **Tip #2: **Generally you should be [creating these from leads](/Communication/RulesToBetterCRMForUsers/Pages/Leads-can-be-converted-to-Opportunities-Contacts-and-Accounts.aspx), as it speeds up​ the process.
 
