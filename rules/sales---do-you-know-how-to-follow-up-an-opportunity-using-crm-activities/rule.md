@@ -12,7 +12,7 @@ authors:
  
 Once you create an opportunity, you should click the "Follow Up" button to           create an activity to call up the client after approximately 1 week. Each time you           make this call, you should complete the activity and create a new one, with a time           interval based on the specific circumstances of the opportunity.
  <dl class="image">          <dt>
-            <img alt="Follow Up Activity" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/FollowUpActivity.jpg"></dt>
+            <img alt="Follow Up Activity" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/FollowUpActivity.jpg" style="width&#58;600px;height&#58;572px;"></dt>
           <dd>
             Figure&#58; 1 - follow up button; 2 - form that the follow up button opens</dd>
         </dl>
