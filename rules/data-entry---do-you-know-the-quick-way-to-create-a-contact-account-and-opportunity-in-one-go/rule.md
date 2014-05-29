@@ -12,26 +12,30 @@ authors:
 ---
 
  
-​​​CRM 2013 has a nice way of reducing the amount of work needed to create a new Account, Contact, and opportunity, all via making a Lead 1st.
+​​​CRM 2013 has a nice way of reducing the amount of work needed to create a new Account, Contact, and opportunity. You just make a Lead first and all three entities are created in one go.
 
 The process is:​
  
 1. In CRM, create a Lead
 2. Convert it into an Opportunity, Contact and Account using the Qualify button
-<dl class="image">                    <dt><img alt="Become familiar with the 'Convert Lead' button" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRM_ConvertLead.jpg"></dt>
-                    <dd>Figure&#58; Become familiar with the &quot;Qualify&quot; button</dd>
-                </dl>    Clicking on the "Qualify" button allows the automatic generation of Accounts, Contacts and Opportunities, and also allows you to check for potential duplicates being created.
-<dl class="image">                    <dt><img alt="Convert Lead Web Page Dialog" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRM_ConvertLeadDialg.jpg"></dt>
-                    <dd>Figure&#58; You can check for existing records before creating new ones</dd>
-                </dl>    This will:
-3. Deactivate the Lead​
-4. Create an Opportunity, Contact and Account
-5. Automatically link the Opportunity to the Account and the Account to the Contact
-6. Save you substantial amount of time compared to creating and linking each one manually.
+
+<dl class="image"><dt>
+         <img alt="Become familiar with the 'Convert Lead' button" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRM_ConvertLead.jpg">
+      </dt><dd>Figure&#58; Create a Lead, then become familiar with the time saving&#160;&quot;Qualify&quot; button</dd></dl>
+Clicking on the "Qualify" button allows the automatic generation of Accounts, Contacts and Opportunities, and also allows you to check for potential duplicates being created.
+<dl class="image"><dt>
+         <img alt="Convert Lead Web Page Dialog" src="/Communication/RulesToBetterCRMForUsers/PublishingImages/CRM_ConvertLeadDialg.jpg">
+      </dt><dd>Figure&#58; CRM 2013 also&#160;check for existing records before creating new ones</dd></dl>
+This will:
+
+1. ​Deactivate the Lead​
+2. Create an Opportunity, Contact and Account
+3. Automatically link the Opportunity to the Account and the Account to the Contact
+4. Save you substantial amount of time compared to creating and linking each one manually.
 
 
 
 
 
-Note: See [Do you know the one case where you use a CRM lead?](/Communication/RulesToBetterCRMForUsers/Pages/The-one-case-where-you-use-a-CRM-lead.aspx) to see why, apart from for this purpose, you should generally not be using CRM leads much.
+Note: See [Do you know the one case where you use a CRM lead?](/Communication/RulesToBetterCRMForUsers/Pages/The-one-case-where-you-use-a-CRM-lead.aspx) to see why, apart from for this purpose, you should generally not be using <br>      CRM leads much.
 
