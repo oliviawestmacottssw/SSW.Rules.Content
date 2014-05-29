@@ -19,7 +19,7 @@ authors:
 
 # Attention: SSW Developers
 
-At SSW, we used different **System View** for different list of newsletter contacts, you don't have to perform an **Advanced Find** everytime you want to send the newsletter.
+At SSW, we used different **System View** for different list of newsletter contacts, you don't have to perform an **Advanced Find** every time​ you want to send the newsletter.
 
 <dl class="image"><dt> 
          <img src="/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm01.png" alt="crm01.png" style="margin&#58;5px;width&#58;600px;"> 
@@ -53,6 +53,6 @@ You need to follow instruction in SSW Standards Internal for preparing newslette
       </dt><dd>Figure&#58; Highlight the keyword and click Unsubscribe button to make a link for subscribers to unsubscribe themselves.</dd></dl>3. Click <br>      **Next** to create all email activities in Microsoft CRM 2013.
 4. If you're using:
     - **Microsoft CRM Outlook** for outgoing email, then you need to open your Microsoft Outlook, so the email activities can be promoted to Outlook and sent out. This method is slow because of the synchronization process between CRM and Microsoft Outlook and you need to leave outlook open during the entire process.
-    - **Email router** for outgoing email, then those email activites will be sent out automatically by Email router. This method is our prefer method of sending the newsletter, CRM email router can be configured to send out newsletters immediately and user don't have to open Outlook while the emails are being processed.​
+    - **Email router** for outgoing email, then those email activities will be sent out automatically by Email router. This method is our prefer method of sending the newsletter, CRM email router can be configured to send out newsletters immediately and user don't have to open Outlook while the emails are being processed.​
 
 
