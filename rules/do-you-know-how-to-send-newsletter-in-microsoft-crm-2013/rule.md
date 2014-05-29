@@ -12,12 +12,12 @@ authors:
 ---
 
  
-​​Email newsletters can be sent and responses can be tracked using Microsoft Dynamic CRM 2013:
+​​​Email newsletters can be sent and responses can be tracked using Microsoft Dynamic CRM 2013:
  
 1. Find contacts that you will send the newsletters to. <br>      
 The first time - use <br>      **Advanced Find** in CRM 2013, then save it as a System View. In the example below, we're only interested in New Zealand contacts.
 Subsequ​ent times - Use the **System View**, so everyone is using the same list.​​​
-![crm01.png](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm01.png)Figure: <br>            **From the CRM home screen, hover your mouse over “Workplace”, and then click “Activities” in the menu that drops down **![crm02.png](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm02.png)Figure: F**rom the “Activities” page, click “…” | “Advanced Find”. This will activate a pop-up.**![crm03.png](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm03.png)Figure: **Select Contacts at Look For and specify a set of criteria to search for newsletter contacts.****
+![crm01.png](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm01.png)Figure: <br>            **From the CRM home screen, hover your mouse over “Workplace”, and then click “Contacts” in the menu that drops down **![crm02.png](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm02.png)Figure: F**rom the “Activities” page, click “…” | “Advanced Find”. This will activate a pop-up.**![crm03.png](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm03.png)Figure: **Select Contacts at Look For and specify a set of criteria to search for newsletter contacts.****
 ****![crm04 - results.png](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm04%20-%20results.png)Figure: then select "Results" to bring up contacts which match your search query **
 
 ![crm05 - contacts list.png](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm05%20-%20contacts%20list.png)
