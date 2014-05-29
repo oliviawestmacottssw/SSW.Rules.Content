@@ -19,7 +19,7 @@ authors:
 
 # Attention: SSW Developers
 
-At SSW, we used different **System View** for different list of newsletter contacts, you don't have to perform an **Advanced Find** everytime you want to send the newsletter.
+At SSW, we used different **System View** for different list of newsletter contacts, you don't have to perform an **Advanced Find** every time​ you want to send the newsletter.
 
 ![crm01.png](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm01.png)Figure: **From the CRM home screen, hover your mouse over<br>“Workplace”, and then click “Activities” in the menu that drops down **![crm02.png](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm02.png)Figure: F**rom the “Activities” page, click “…” |<br>“Advanced Find”. This will activate a pop-up.**![crm03.png](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm03.png)Figure: **Select Contacts at Look For<br>and specify a set of criteria to search for newsletter contacts.****
 ****![crm04 - results.png](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm04%20-%20results.png)Figure: then select "Results" to bring up contacts which match your search query **
@@ -36,6 +36,6 @@ You need to follow instruction in SSW Standards Internal for preparing newslette
 ![Newsletter Ubsubscribe](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm10%20-%20unsubscribe.png)Figure: Highlight the keyword and click Unsubscribe button to make a link for subscribers to unsubscribe themselves.3. Click <br>      **Next** to create all email activities in Microsoft CRM 2013.
 4. If you're using:
     - **Microsoft CRM Outlook** for outgoing email, then you need to open your Microsoft Outlook, so the email activities can be promoted to Outlook and sent out. This method is slow because of the synchronization process between CRM and Microsoft Outlook and you need to leave outlook open during the entire process.
-    - **Email router** for outgoing email, then those email activites will be sent out automatically by Email router. This method is our prefer method of sending the newsletter, CRM email router can be configured to send out newsletters immediately and user don't have to open Outlook while the emails are being processed.​
+    - **Email router** for outgoing email, then those email activities will be sent out automatically by Email router. This method is our prefer method of sending the newsletter, CRM email router can be configured to send out newsletters immediately and user don't have to open Outlook while the emails are being processed.​
 
 
