@@ -51,7 +51,7 @@ Subsequ​ent times - Use the **System View**, so everyone is using the same 
 You need to follow the instructions in SSW Standards Internal for preparing the newsletter. It's a manual checklist so you don't make any mistakes.
 
     
-    You will need to use Internet Explorer to view the content of the newsletter and copy and paste it in the text area.
+    Use your preferred browser to view the content of the newsletter, select all (or use "Ctrl" + "A") and then copy and paste it in the Quick Campaign text area.
     
 <dl class="image"><dt>
          <img src="/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm10%20-%20unsubscribe.png" alt="Newsletter Ubsubscribe" style="width&#58;600px;height&#58;438px;">
