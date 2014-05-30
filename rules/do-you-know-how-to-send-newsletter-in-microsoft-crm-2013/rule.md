@@ -31,7 +31,7 @@ Subsequ​ent times - Use the **System View**, so everyone is using the same 
 You need to follow the instructions in SSW Standards Internal for preparing the newsletter. It's a manual checklist so you don't make any mistakes.
 
     
-    You will need to use Internet Explorer to view the content of the newsletter and copy and paste it in the text area.
+    Use your preferred browser to view the content of the newsletter, select all (or use "Ctrl" + "A") and then copy and paste it in the Quick Campaign text area.
     
 ![Newsletter Ubsubscribe](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/how-to-send-newsletter-in-Microsoft-CRM/crm10%20-%20unsubscribe.png)Figure: Highlight the keyword and click the Unsubscribe button to make a link for subscribers to unsubscribe themselves.4. Click <br>      **Next** to create all email activities in Microsoft CRM 2013.
 5. Now you have to wait while the emails send out:​
