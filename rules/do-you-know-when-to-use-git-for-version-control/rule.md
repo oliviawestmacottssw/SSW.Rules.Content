@@ -14,8 +14,8 @@ authors:
 ---
 
  
-Team Foundation Server Update 2 and Team Foundation Server 2013 comes with built in support for Git as a version control system.​
- <dl class="image"><dt><img src="/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/git-screen.jpg" alt=""></dt><dd>Figure&#58; How you start using Git on TFS</dd>​</dl>
+​Team Foundation Server Update 2 and Team Foundation Server 2013 comes with built in support for Git as a version control system.​
+ <dl class="image"><dt><img src="/PublishingImages/git-screen.jpg" alt=""></dt><dd>Figure&#58; How you start using Git on TFS</dd>​</dl>
 You should use Git if you:
 
 - Are running an open source project
@@ -32,5 +32,5 @@ There are also several disadvantages:
 - No SOX, FDA or CFD-11 compliance
 
 
-At this point, SSW still recommends TFS as the version control system of choice.​
+At this point, SSW still recommends Team Foundation Version Control (TFVC) as the version control system of choice.​
 
