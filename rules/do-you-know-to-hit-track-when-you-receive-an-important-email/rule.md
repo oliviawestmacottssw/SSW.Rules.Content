@@ -9,7 +9,12 @@ authors:
 
 ---
 
- Whenever you email a client with a correspondence that relates to an existing CRM opportunity (i.e. an "as per our conversation" about when you think the project would get going etc.) you should track it in CRM so it is centralised and can be seen by anyone else who tries to follow up that opportunity. 
+ ​Whenever you email a client with a correspondence that relates to an existing CRM opportunity (i.e. an "as per our conversation" about when you think the project would get going etc.) you should track it in CRM so it is centralised and can be seen by anyone else who tries to follow up that opportunity.
+
+
+
+You can see other activities worth tracking in ​[Sales - Do you track all sales related activities in CRM?​​](/Communication/RulesToBetterCRMForUsers/Pages/Track-all-sales-related-activities-in-CRM.aspx)
+ 
 The simplest way is, when writing or receiving the email, click the track in CRM           button in the ribbon and "set regarding" to the opportunity in question.
 ![Ribbon CRM section in email](/Communication/RulesToBetterCRMForUsers/PublishingImages/CRMSectionInEmail.jpg)            Figure: When you receive an important email, click the 'Track' button in<br>            on the CRM toolbar​<br>          
 Otherwise, you can also do it from the main Outlook page with the toolbar at the           top.
