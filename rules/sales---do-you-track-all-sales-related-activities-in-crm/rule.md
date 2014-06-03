@@ -12,11 +12,11 @@ authors:
 ---
 
  
-Microsoft Dynamics CRM 2013 allows users to track activities such as appointments, phone calls, emails, ​etc. This feature can be easily abused by users to record unrelated           activities inside CRM. It is difficult sometimes to work out which type of activities           should be recorded. These are the types of activities you should track in CRM:
+Microsoft Dynamics CRM 2013 allows users to track activities such as appointments, phone calls, emails, ​etc. This feature can be easily abused by users to record unrelated           activities inside CRM. It is difficult sometimes to work out which type of activities           should be recorded. These are the types of activities you should track in CRM (In de:
  
-- Appointments: Initial meeting, and follow-up meetings...
-- Phone Calls: Any incoming and outgoing sales related phone call (note CRM 2013 has Lync and Skype integration to automatically track outgoing phone calls)​
-- Emails: Sales related emails
+- 01 Appointments: Initial meeting, and follow-up meetings...
+- 02 Phone Calls: Any incoming and outgoing sales related phone call (note CRM 2013 has Lync and Skype integration to automatically track outgoing phone calls)​
+- 03 Emails: Sales related emails
 
 
 All sales activities should be set regarding to an opportunity, company or contact.
@@ -36,10 +36,10 @@ I will call you in a week or so to see how things are progressing.
 By recording these activities, reports can be created to view:
 
 - The guys doing the most sales activities.
- e.g. The "Activities" report. This should be printed monthly and posted on the wall.
-- Which opportunities have been neglected. This is a custom report​
-- The history fo​r all sales activities relating to an opportunity. This is useful to review before making a call.
+ e.g. The "Activities" report. This should be printed monthly and posted on the wall. (shown below)
+- The history fo​r all sales activities relating to an opportunity. This is useful to review before making a call (but is not necessary if you CC each other)​
+- Which opportunities have been neglected. This is a custom report​ and could be useful in a large company where opportunities could slip through the cracks
 
-![Work tracking gragh](/Communication/RulesToBetterCRMForUsers/PublishingImages/TrackingGraph.jpg) Figure: Ulysses was the hardest worker for this month. Print this and put it on the wall and it will encourage everyone to log their calls 
-Note: ​You can see more details on what emails to track in [Do you know to hit 'Track' when you receive an important email?​​](/Communication/RulesToBetterCRMForUsers/Pages/Hit-Track-in-CRM-when-you-receive-an-important-email.aspx)
+![Work tracking gragh](/PublishingImages/TrackingGraph.jpg) Figure: Activities Report - Ulysses was the hardest worker for this month. Print this and put it on the wall and it will encourage everyone to log their calls 
+Note: ​You can see more details on what emails to track in [Do you know to hit 'Track' when you receive an important email?​​](/Pages/Hit-Track-in-CRM-when-you-receive-an-important-email.aspx)
 
