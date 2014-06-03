@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Microsoft Dynamics CRM 2013 allows users to track activities such as emails, appointments,           phone calls, etc. This feature can be easily abused by users to record unrelated           activities inside CRM. It is difficult sometimes to work out which type of activities           should be recorded. These are the types of activities you should track in CRM:
+Microsoft Dynamics CRM 2013 allows users to track activities such as appointments, phone calls, emails, ​etc. This feature can be easily abused by users to record unrelated           activities inside CRM. It is difficult sometimes to work out which type of activities           should be recorded. These are the types of activities you should track in CRM:
  
 - Appointments: Initial meeting, and follow-up meetings...
 - Phone Calls: Any incoming and outgoing sales related phone call (note CRM 2013 has Lync and Skype integration to automatically track outgoing phone calls)​
