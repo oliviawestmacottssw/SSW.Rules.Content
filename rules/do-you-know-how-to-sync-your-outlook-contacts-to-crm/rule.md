@@ -12,7 +12,7 @@ authors:
 ---
 
  
-It can be useful to have the contacts you deal with regularly in your outlook (for           offline access and easy editing).
+It can be useful to have the contacts you deal with regularly in your O​utlook (for           offline access and easy editing).
  
 Contacts that you create or have transferred to you are tagged as your "Active contacts".           These are the only ones that will sync from CRM to your Outlook.
 
