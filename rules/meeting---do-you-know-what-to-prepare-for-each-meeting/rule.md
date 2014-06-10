@@ -22,7 +22,7 @@ authors: []
 > > > 
 > > > What are you doing today? e.g. "Today I will do yyy"
 > > > 
-> > > Do you forsee any impediments or roadblocks? e.g. "I might hit a roadblock today because of xxx"
+> > > Do you foresee​ any impediments or roadblocks? e.g. "I might hit a roadblock today because of xxx"
 
 
 - Remember to say "Let's Park" that conversation for after the scrum". Major discussions are not to be conducted during the time boxed scrum meeting.
@@ -58,14 +58,10 @@ authors: []
 - Being clear and pointing issues that need further discussions
 
 
-**Planning WHAT meetings** - all members of the team must be well prepared by:
+**Planning meetings** - all members of the team must be well prepared by:
 
 - Having all bugs and User Stories up-to-date on the backlog
 - Having all stories on the backlog “groomed” in order of priority (according to the Product Owner)​
-
-
-**Planning HOW meetings** - all members of the team must be well prepared by:
-
 - Understanding all Stories and Product Owner’s priorities
 - Being responsible on estimates
 - Volunteering to be owner of stories and tasks, even if they are not related to your best skills – read [Do you encourage multi-skilled teams?](/Management/RulesToBetterScrumUsingTFS/Pages/BeingMultiSkilled.aspx)
