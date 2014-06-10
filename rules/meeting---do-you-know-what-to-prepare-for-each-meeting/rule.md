@@ -13,7 +13,7 @@ authors: []
 **Daily Scrum Meetings** - This is time boxed to 15 mins. All members of the team should be well prepared by:
 
 - Being ready on time
-- Having their "Remaining hours" up-to-date – read [Do you update your tasks before the daily Scrum meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/DailyScrumUpdateTasks.aspx)
+- Having their "Remaining hours" up-to-date – read [Do you update your tasks before the daily Scrum meeting?](/Pages/DailyScrumUpdateTasks.aspx)
 - Be ready to answer the 3 main questions:
 
 
@@ -31,9 +31,9 @@ authors: []
 
 **Related Links**
 
-[Reports - Do you know which reports are the most important ones to track your progress?](/Management/RulesToBetterScrumUsingTFS/Pages/TrackProgress.aspx)
+[Reports - Do you know which reports are the most important ones to track your progress?](/Pages/TrackProgress.aspx)
 
-[Management - Do you have daily stand-up meetings (Scrums)?](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)
+[Management - Do you have daily stand-up meetings (Scrums)?](/methodology-do-you-do-daily-scrums-%28aka-stand-up-meetings%29)
 
 
 
@@ -43,27 +43,28 @@ authors: []
 - Setting up and testing the projector in a computer before the meeting starts
 - Making sure remote members are connected via Skype and TeamViewer before the meeting starts
 - Nominating in advance another member of the team to take notes from the presentation
-- Deciding, in advance, the order in which stories should be presented; priority, sprint backlog order, logical order and minimizing presenter and presentation medium switching should be taken into account.
-- Controlling the time spent on the story presentation
-    - Inform the product owner what the main goal of the story
+- Deciding, in advance, the order in which PBIs should be presented; priority, sprint backlog order, logical order and minimizing presenter and presentation medium switching should be taken into account.
+- Controlling the time spent on the PBI presentation
+    - Inform the product owner what the main goal of the PBI
     - Tell if the team believe it was done or not
-    - If the Product Owner previously saw what was done, ideally the member should just mention that and ask if the story is accepted
+    - If the Product Owner previously saw what was done, ideally the member should just mention that and ask if the PBI is accepted
     - If the member needs to show something, show a couple of examples and ask if the Product Owner wants to see something else
 
 
 **Retrospective meetings** - all members of the team must be well prepared by:
 
-- Having all your tasks and user stories from the last sprint closed
+- Having all your tasks from the last sprint closed
 - Having your sprint feedback ready in advance, so members don’t need to think about it during the meeting, saving time
 - Being clear and pointing issues that need further discussions
 
 
-**Planning meetings** - all members of the team must be well prepared by:
+**
+Planning meetings** - all members of the team must be well prepared by:
 
-- Having all bugs and User Stories up-to-date on the backlog
-- Having all stories on the backlog “groomed” in order of priority (according to the Product Owner)​
-- Understanding all Stories and Product Owner’s priorities
+- Having all bugs and PBIs up-to-date on the backlog
+- Having all PBIs on the backlog “groomed” in order of priority (according to the Product Owner)​
+- Understanding all PBIs and the Product Owner’s priorities
 - Being responsible on estimates
-- Volunteering to be owner of stories and tasks, even if they are not related to your best skills – read [Do you encourage multi-skilled teams?](/Management/RulesToBetterScrumUsingTFS/Pages/BeingMultiSkilled.aspx)
+- Volunteering to be the owner of PBIs and tasks, even if they are not related to your best skills – read [Do you encourage multi-skilled teams?](/Pages/BeingMultiSkilled.aspx)
 
 
