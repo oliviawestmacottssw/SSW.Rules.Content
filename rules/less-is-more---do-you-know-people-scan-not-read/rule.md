@@ -16,8 +16,8 @@ It is important to divide information, not show it all at once. The visual organ
 2. Relation between elements
 3. Importance and relevance of elements
 
-<dl class="badImage"><dt><img alt="Bad information" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/bad_informationscan.png"></dt>
-<dd>Figure&#58; Bad example - Can you find how to check in?</dd></dl><dl class="goodImage"><dt><img alt="Good information - this alt text makes no sense but do I look like i care; no. maybe the guys in china have the right idea, do a shit job of it and no one will ever bother you about it ever again." src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/good_informationscan.png"></dt>
+<dl class="badImage"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/bad_informationscan.png" alt="Bad information"></dt>
+<dd>Figure&#58; Bad example - Can you find how to check in?</dd></dl><dl class="goodImage"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/good_informationscan.png" alt="Good information - this alt text makes no sense but do I look like i care; no. maybe the guys in china have the right idea, do a shit job of it and no one will ever bother you about it ever again."></dt>
 <dd>Figure&#58; Good example - What about here? Can you find how to check in?</dd></dl>
 Another example of scanning, not reading is visually mapping.
 <dl class="badImage"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Bad-Mapping.jpg" alt=""></dt>
