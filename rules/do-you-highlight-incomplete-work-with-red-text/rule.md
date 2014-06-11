@@ -18,4 +18,4 @@ Also, see our     [rule on color usage in windows forms](http&#58;//www.ssw.com.
    </dt><dd>Figure&#58; Good Example - It is clear to testers and to the product owner that this page is incomplete, but they can get more details from the product backlog</dd></dl><dl class="goodImage"><dt>
       <img src="/PublishingImages/best-incomplete-work.jpg" alt="" style="margin&#58;5px;">
    </dt><dd>Figure&#58; Best Example - Use feature toggles to not show incomplete elements to testers or product owners. See 
-      <a target="_blank" href="http&#58;//martinfowler.com/bliki/FeatureToggle.html">FeatureToggle by Martin Fowler</a>. Feature Toggling can require a large amount of extra work and so is often only implemented by teams with a need to ship features while others are still in development</dd></dl>
+      <a href="http&#58;//martinfowler.com/bliki/FeatureToggle.html" target="_blank">FeatureToggle by Martin Fowler</a>. Feature Toggling can require a large amount of extra work and so is often only implemented by teams with a need to ship features while others are still in development</dd></dl>
