@@ -15,6 +15,6 @@ authors:
 It originated with Frequent Flyer programs and has crossed over into the software world with the success of FourSquare.
 
 This concept is being utilized even in [Visual Studio](http&#58;//channel9.msdn.com/achievements/visualstudio). 
-<dl class="goodImage"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/msdn-statistics.jpg" alt="MSDN Screenshot"></dt>
-<dd>Figure&#58; Good Example – MSDN allows users to score achievement points</dd></dl><dl class="goodImage"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/stack-overflow-points.jpg" alt="Stack Overflow Screenshot"></dt>
+<dl class="goodImage"><dt><img alt="MSDN Screenshot" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/msdn-statistics.jpg"></dt>
+<dd>Figure&#58; Good Example – MSDN allows users to score achievement points</dd></dl><dl class="goodImage"><dt><img alt="Stack Overflow Screenshot" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/stack-overflow-points.jpg"></dt>
 <dd>Figure&#58; Good Example – Stack Overflow uses reputation points, awarded by how useful your answer to other user submitted questions were</dd></dl>
