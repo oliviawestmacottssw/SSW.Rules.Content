@@ -11,17 +11,44 @@ authors:
 
 ---
 
- ​​​​​​You can use SQL Server Reporting Services in MVC even though its only supported by WebForms.​ 
+ ​​​​​​​You can use SQL Server Reporting Services in MVC even though its only supported by WebForms.​ 
 ​
-​SQL Server Reporting Services reports can be viewed in a web page with the ReportViewer control...however this only applies to ASP.NET WebForms.
+It's great to include ​SQL Server Reporting Services (SSRS) reports in your web application, which can be done with the Microsoft ReportViewer web control...however this only applies to ASP.NET WebForms.
 
-​However, with an iframe and a little bit of code, your reports can be viewed in your ASP.NET MVC application.
+With an iframe and a little bit of code, your reports can also be viewed in your ASP.NET MVC application.
 
 In your MVC project, add a new item of type WebForm.
 
-​Add the ReportViewer control.
+![16-06-2014 10-44-12 AM.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/16-06-2014%2010-44-12%20AM.png)
 
-In the MVC view you want to display the report in, add an iframe pointing to this WebForm.
+**Figure: Add a new WebForm**
 
-Now to tie them together, by getting your report parameters from the MVC page and appending them to the query string of the iframe URL.
+Then add the ReportViewer control to the WebForm.
+
+![16-06-2014 10-46-58 AM.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/16-06-2014%2010-46-58%20AM.png)
+
+**Figure: Add the ReportViewer control**
+
+In the View you want to display the report in, add an iframe pointing to your WebForm.
+
+​Tie them together, by getting your report parameters from the MVC page and appending them to the query string of the iframe URL.
+
+(The below example uses JavaScript to execute this part from user input)
+
+![16-06-2014 10-50-55 AM.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/16-06-2014%2010-50-55%20AM.png)
+
+**Figure: Add an iframe**
+
+Now you have your SSRS report in your MVC application.
+
+**​​![17-06-2014 8-33-37 AM.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/17-06-2014%208-33-37%20AM.png)​
+Figure: The final report in an MVC application**
+
+**
+**
+
+**![16-06-2014 10-38-51 AM.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/16-06-2014%2010-38-51%20AM.png)
+**
+
+**Figure: Export your report with the in-build SSRS functionality**
 
