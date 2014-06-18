@@ -35,13 +35,13 @@ authors:
 <div id="vid_f2ab1bb8-28cc-4914-b859-52688d9f51f9" style="display&#58;none;"></div></div>
 ​​</strong></font></font></font></font></font></font><font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"><strong>视频&#58; 微软的每日Scrum会议(长)</strong></font></font></font></font></font></font>
 <font color="#333333" style="line-height&#58;18px;"><font face="Verdana"><font size="2"><div><strong>&#160;</strong></div>
-<div class="ssw-rteStyle-GreyBox" style="width&#58;715px;height&#58;119px;"><div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;font-family&#58;verdana, arial, sans-serif;margin-bottom&#58;0px;padding-top&#58;10px;"><span style="line-height&#58;18px;"><strong>牢记：</strong>&#160; <div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;">&#160;&#160;&#160;&#160;&#160; “只要能遵循Scrum价值，改变Scrum是可以的，实际上为了成功，这也是有必要的。”</div>
-<div style="padding-bottom&#58;10px;line-height&#58;20px;margin-top&#58;0px;padding-left&#58;0px;padding-right&#58;0px;margin-bottom&#58;0px;padding-top&#58;10px;">-Stephen Forte</div></span></div></div>
+<div class="ssw-rteStyle-GreyBox" style="width&#58;715px;height&#58;119px;"><div style="padding&#58;10px 0px;line-height&#58;20px;margin-top&#58;0px;font-family&#58;verdana, arial, sans-serif;margin-bottom&#58;0px;"><span style="line-height&#58;18px;"><strong>牢记：</strong>&#160; <div style="padding&#58;10px 0px;line-height&#58;20px;margin-top&#58;0px;margin-bottom&#58;0px;">&#160;&#160;&#160;&#160;&#160; “只要能遵循Scrum价值，改变Scrum是可以的，实际上为了成功，这也是有必要的。”</div>
+<div style="padding&#58;10px 0px;line-height&#58;20px;margin-top&#58;0px;margin-bottom&#58;0px;">-Stephen Forte</div></span></div></div>
 <p><strong></strong>&#160;</p>
 <p><strong>以下这些建议有助于提高每日Scrum会议质量&#58;</strong></p>
 <p class="ssw-rteStyle-Tip">建议 1：在会议结束时，Scrum Master回顾当前迭代的进度</p>
-<p><span></span><span></span><span>在</span><span>会议结束时,Scrum</span><span></span><span></span><span> </span><span></span><span></span><span>Master应该</span><a href="/Management/RulesToBetterScrumUsingTFS/Pages/DailyReportsEmailedToTeam.aspx">检查燃尽图</a>以<span>把握团队当前的进度</span><span></span><span></span></p></font></font></font>
-<font color="#333333"><font face="Verdana"><font size="2"><img class="ssw-rteStyle-ImageArea" alt="burndowntfspreview.png" src="/Management/RulesToSuccessfulProjects/PublishingImages/burndowntfspreview.png" style="width&#58;601px;height&#58;467px;">&#160;<br></font></font></font>图：TFS 预览版(TFS 2012)自动生成燃尽图
+<p><span></span><span></span><span></span><span>在</span><span>会议结束时,Scrum</span><span></span><span></span><span> </span><span></span><span></span><span>Master应该</span><a href="/reports-do-you-schedule-the-burndown-and-stories-overview-reports-to-be-emailed-to-the-team-every-day">检查燃尽图</a>以<span>把握团队当前的进度</span><span></span><span></span></p></font></font></font>
+<font color="#333333"><font face="Verdana"><font size="2"><img class="ssw-rteStyle-ImageArea" alt="burndowntfspreview.png" src="/PublishingImages/burndowntfspreview.png" style="width&#58;601px;height&#58;467px;"></font></font></font><font color="#333333"><font face="Verdana"><font size="2">&#160;<br></font></font></font>图：TFS 预览版(TFS 2012)自动生成燃尽图
 
 建议 2：在墙上贴一张每日Scrum会议的日程表(+ 在OutLook中设置一个预约)
 
@@ -49,7 +49,7 @@ authors:
 <font size="2"><span>Hi <strong>&lt;团队名称&gt;</strong>,</span></font>
 <font size="2"><div><span>根据我们的讨论，<strong>&lt;项目名称</strong>&gt;的每日Scrum会议在每个工作日的11&#58;00AM(悉尼时间)在&lt;<strong>地点&gt;</strong>举行。</span></div>
 <div>根据以下规则，它持续时间最长为15分钟</div>
-<div><span><font color="#3a66cc"><a href="/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx">http&#58;//rules.ssw.com.au/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx</a></font></span></div>
+<div><span><font color="#3a66cc"><a href="/Pages/DailyStandUpScrum.aspx">http&#58;//rules.ssw.com.au/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx</a></font></span></div>
 <div><span><br></span></div>
 <div>谢谢,</div>
 <strong>&lt;Scrum Master&gt;​ &#160;</strong></font> 
@@ -67,7 +67,7 @@ authors:
 **建议**** 4：****在Scrum会议开始前你是否更新了任务状态****?**
 
 提前保证团队成员的任务状态被更新，这样会议会更有效率。
-SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/Management/RulesToBetterScrumUsingTFS/Pages/DailyScrumUpdateTasks.aspx)
+SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meeting-do-you-update-your-tasks-before-the-daily-scrum)
 
 ​建议 5：不要涉及详细内容​保证你的回答简洁明了，不要偏离那三个关键问题，记着使用“Parking Lot<font size="2" face="宋体">”</font>记录下问题以便在会议后进行讨论。
 
@@ -78,7 +78,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/Manage
 
 <font size="2" face="宋体">人们可以通过</font>任务板<font face="宋体">看到</font>当前正在讨论的问题。
 
-![tfspreviewtaskboard.png](/Management/RulesToSuccessfulProjects/PublishingImages/tfspreviewtaskboard.png)​  
+![tfspreviewtaskboard.png](/PublishingImages/tfspreviewtaskboard.png)​  
 **图：TFS ****Preview****中的任务板****(TFS 2012)**
 
 **
@@ -92,7 +92,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/Manage
 
 建议 10：如果你发现了障碍，考虑联系你的Product Owner
 
-![Description&#58; Get the Product Owner on the phone](/Management/RulesToSuccessfulProjects/PublishingImages/ProductOwnerTelephone.jpg)
+![Description&#58; Get the Product Owner on the phone](/PublishingImages/ProductOwnerTelephone.jpg)
 
 **图：****通常****Product**** ****Owner****不会在****Scrum****会议中，但是如果你遇到一个障碍，给****Product**** ****Owner****打一个电话。如果你在上一周没有与他接触，那么与****Product**** ****Owner****交流就变的非常重要。与****Product**** ****Owner****失去联系是项目垮掉的一个信号****。
 
@@ -116,6 +116,6 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/Manage
 <p class="ms-rteCustom-FigureNormal"><span style="line-height&#58;15pt;font-size&#58;small;"></span><span style="line-height&#58;15pt;font-size&#58;small;"></span><span style="line-height&#58;15pt;font-size&#58;small;">更</span><span style="line-height&#58;15pt;font-size&#58;small;">多</span><span style="line-height&#58;15pt;font-size&#58;small;">的信息：</span><span style="line-height&#58;15pt;font-size&#58;small;"></span></p>
 <span></span><p><span lang="ZH-CN">1. 如果你的任务都做完了怎么办？<br></span><span lang="ZH-CN">为了提高一天</span><span>8</span><span lang="ZH-CN">个小时的效率，要</span><span lang="ZH-CN">与其它开发人员沟通，与他们一起完成其他任务。如果没有任何任务了，就从</span><span>“迭代任务表”</span><span lang="ZH-CN">中取出优先级最高的的一条任务</span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN">。</span></p>
 <span></span><span></span><p><span lang="ZH-CN">2. 如果发生了重大事故怎么办？<br></span><span lang="ZH-CN">优先处理重大事故是很重要的，处理所有在</span><span>24</span><span lang="ZH-CN">小时内发生的重大事件。</span><span></span><b><span style="font-family&#58;verdana, sans-serif;font-size&#58;9pt;"></span></b></p>
-<p class="MsoNormal" style="line-height&#58;15pt;font-size&#58;small;"><span lang="ZH-CN"><img class="ms-rteCustom-ImageArea" src="/Management/RulesToSuccessfulProjects/PublishingImages/NewStandUpImage.jpg" alt="" style="line-height&#58;18px;font-size&#58;12px;font-weight&#58;bold;"></span>&#160;</p>
+<p class="MsoNormal" style="line-height&#58;15pt;font-size&#58;small;"><span lang="ZH-CN"><img class="ms-rteCustom-ImageArea" src="/PublishingImages/NewStandUpImage.jpg" alt="" style="line-height&#58;18px;font-size&#58;12px;font-weight&#58;bold;"></span>&#160;</p>
 <p class="ssw-rteStyle-FigureNormal"><span lang="ZH-CN"></span><span>​图：</span><span lang="ZH-CN">如果有重大事故发生，每日Scrum会议可以提醒每个人并且集中所有的资源到一个问题上。如果一把尖刀插进了你的眼睛，而你却给擦伤的膝盖贴创可贴是没有任何意义的。​</span></p>
-<span class="ssw-rteStyle-FigureNormal"><img class="ms-rteCustom-ImageArea" alt="dailyscrumtweet.png" src="/Management/RulesToSuccessfulProjects/PublishingImages/dailyscrumtweet.png" style="line-height&#58;20px;margin-left&#58;5px;margin-right&#58;5px;"><span style="line-height&#58;20px;">​</span><br style="line-height&#58;20px;"><span style="line-height&#58;20px;">图：喜欢请转发&#160;&#160;</span><a href="https&#58;//twitter.com/#%21/AdamCogan/status/168175594209681408" style="line-height&#58;20px;">https&#58;//twitter.com/#!/AdamCogan/status/168175594209681408</a><span style="line-height&#58;20px;">&#160;​</span></span></font>
+<span class="ssw-rteStyle-FigureNormal"><img class="ms-rteCustom-ImageArea" alt="dailyscrumtweet.png" src="/PublishingImages/dailyscrumtweet.png" style="line-height&#58;20px;margin-left&#58;5px;margin-right&#58;5px;"><span style="line-height&#58;20px;">​</span><br style="line-height&#58;20px;"><span style="line-height&#58;20px;">图：喜欢请转发&#160;&#160;</span><a href="https&#58;//twitter.com/#%21/AdamCogan/status/168175594209681408" style="line-height&#58;20px;">https&#58;//twitter.com/#!/AdamCogan/status/168175594209681408</a><span style="line-height&#58;20px;">&#160;​</span></span></font>
