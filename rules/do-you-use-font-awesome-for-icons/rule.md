@@ -27,6 +27,8 @@ Font Awesome provides scalable vector icons which can be customized purely throu
 **
 **Figure: After adding Font Awesome from NuGet, two lines of code add the above icon​**
 
+
+
 You can get Font Awesome from NuGet or [http://fortawesome.github.io/Font-Awesome/](http&#58;//fortawesome.github.io/Font-Awesome/).​
 
 
