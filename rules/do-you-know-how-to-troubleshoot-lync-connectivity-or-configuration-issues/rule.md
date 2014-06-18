@@ -19,11 +19,11 @@ Specifically you now have the option of querying the locally configured DNS serv
 - From the same screen you can ping the resulting hostname or test the port availability on any of the Lync DNS record matches
 
 ![Lync Auto-discovery](/ITAndNetworking/Rules-to-Better-Lync/PublishingImages/lync-auto-discovery.jpg)Figure: Lync Auto-Discovery Mobility DNS record
-## Lync Monitoring Reports
+### Lync Monitoring Reports
 
 The Monitoring Server collects data from the call detail recording (CDR) and Quality of Experience (QoE) databases and presents that data with the help of the SQL Server Reporting Services and the predefined Monitoring reports. These reports will show statistics which will assist in identifying issues such as network issues such as latency and packet loss.
 
-## Internet Network connectivity tests
+### Internet Network connectivity tests
 
 Tools such as [Pingtest.net](http&#58;//pingtest.net/) and VisualRoute 2010 will assist in highlight problems related latency and packet loss.
 ![VisualRoute 2010 tool](/ITAndNetworking/Rules-to-Better-Lync/PublishingImages/visualroute-tool.jpg)Figure: VisualRoute 2010 tool showing a test to a Google DNS server
