@@ -11,7 +11,9 @@ authors:
 
 ---
 
- Bootstrap comes with a good font-based icon library to use in your Web Application, but there is an even better one you should use whenever you are using Bootstrap.​ 
+ ​Bootstrap comes with a good font-based icon library to use in your Web Application, but there is an even better one you should use whenever you are using Bootstrap.​ 
+
+
 Font Awesome provides scalable vector icons which can be customized purely through css and is completely free for commercial projects.
 
 
