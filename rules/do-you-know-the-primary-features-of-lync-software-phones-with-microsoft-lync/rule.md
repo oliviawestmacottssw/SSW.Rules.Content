@@ -13,7 +13,7 @@ authors:
 There are a lot of features of Microsoft Lync. The primary features are:
  
 - Internal calls
-- <br>Transfer a call
+- Transfer a call
 - Conference a call
 
 
@@ -27,4 +27,6 @@ Plus even more:
 - Remote Desktop
 - Whiteboard
 
+
+Read more about [​implementing Microsoft Lync](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx).
 
