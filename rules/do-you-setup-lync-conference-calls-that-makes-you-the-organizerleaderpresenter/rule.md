@@ -16,9 +16,9 @@ Lync presenter's best practices can be found     [here](http&#58;//office.micros
 
 A Lync whiteboard is a blank page that allows presenters to draw, add text, and highlight information by using the annotation tools.
 
-Desktop and application sharing, this feature allows presenters to broadcast any visuals, applications, Web pages, documents, software, or part of their desktops to remote participants in real time, right from Lync.
+Desktop and application sharing, this feature allows presenters to broadcast any visuals, applications, webpages, documents, software, or part of their desktops to remote participants in real time, right from Lync.
 
-Application sharing allows audience members to follow along with mouse movements and Keyboard input. Presenters can choose to share the entire screen or only a portion to keep the audience focused on key information. By sharing their desktops, presenters are able to engage with their audiences in interactive product or software demos from any location.
+Application sharing allows audience members to follow along with mouse movements and keyboard input. Presenters can choose to share the entire screen or only a portion to keep the audience focused on key information. By sharing their desktops, presenters are able to engage with their audiences in interactive product or software demos from any location.
 
 Application sharing allows presenters to share control of software on their desktops without losing sight of participant feedback or text questions.
 ![Lync Auto-discovery](/ITAndNetworking/Rules-to-Better-Lync/PublishingImages/lync-app-sharing.jpg)Figure: Application sharing, note the ability to view questions from participants
