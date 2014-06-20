@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Bootstrap provides a powerful, responsive layout with its rows and columns. 
+ ​​Bootstrap provides a powerful, responsive layout with its rows and columns. 
 
 
 
@@ -33,7 +33,7 @@ Did you know you can have more control over the responsive layout by including m
 **
 **
 
-**![18-06-2014 3-38-35 PM.png](/WebSites/RulesToBetterUIBootstrap/PublishingImages/Pages/Do-you-provide-alternate-sizings-for-Bootstrap-columns/18-06-2014%203-38-35%20PM.png)
+**![ResizingColumns.gif](/WebSites/RulesToBetterUIBootstrap/PublishingImages/Pages/Do-you-provide-alternate-sizings-for-Bootstrap-columns/ResizingColumns.gif)
 ​Figure: Instead of stacking, these columns now sit next to each other as 4-3-3**
 
 
