@@ -22,11 +22,11 @@ Plus even more:
 - Receiving your voice mails into your email
 - Presence Icon
 - IM functionality
-- Meetings
-- Federation Abilities
+- Federation Abilities (so you have more people on your IM)
+- ​Meetings
 - Remote Desktop
 - Whiteboard
 
 
-Read more about [​implementing Microsoft Lync](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx).
+Read more about     [​implementing Microsoft Lync](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx).
 
