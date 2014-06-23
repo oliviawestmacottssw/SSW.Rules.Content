@@ -11,29 +11,44 @@ authors:
 
 ---
 
- ​​Bootstrap provides a powerful, responsive layout with its rows and columns. 
+ ​​​​​​Bootstrap provides a powerful, responsive layout with its rows and columns. 
 
 
 
-![18-06-2014 2-42-55 PM.png](/WebSites/RulesToBetterUIBootstrap/PublishingImages/Pages/Do-you-provide-alternate-sizings-for-Bootstrap-columns/18-06-2014%202-42-55%20PM.png)
-
-​**Figure: Create a responsive layout with Bootstrap**
-
-
-
-Did you know you can have more control over the responsive layout by including multiple column classes? If you don't want your columns to stack on smaller devices, use the smaller grid classes by adding additional column classes (e.g. .col-xs-\* .col-md-\*) to your columns.
+The common way to use Bootstrap's layout system is to create a basic grid which will appear as horizontal columns on the desktop but then stack on a smaller screen such as mobiles. This is done with a single set of .col-md-\* classes.
 
 
 
 
-![18-06-2014 3-36-37 PM.png](/WebSites/RulesToBetterUIBootstrap/PublishingImages/Pages/Do-you-provide-alternate-sizings-for-Bootstrap-columns/18-06-2014%203-36-37%20PM.png)
+![23-06-2014 12-47-33 PM.png](/WebSites/RulesToBetterUIBootstrap/PublishingImages/Pages/Do-you-provide-alternate-sizings-for-Bootstrap-columns/23-06-2014%2012-47-33%20PM.png)
 
-**Figure: Add additional column classes to your columns**
+​**Figure: Bad example - create the default stacking layout with Bootstrap**
+**
+**
+
+**![23-06-2014 1-04-08 PM.png](/WebSites/RulesToBetterUIBootstrap/PublishingImages/Pages/Do-you-provide-alternate-sizings-for-Bootstrap-columns/23-06-2014%201-04-08%20PM.png)
+**
+
+**Figure:​ Bad example - the default stacking behavior on small devices
+**
+
+
+
+Did you know you can have more control over the responsive layout by including multiple column classes? The ability to control the layout across multiple screen sizes is a powerful tool within Bootstrap. For example, if you don't want your columns to stack on smaller devices, use the smaller grid classes by adding additional column classes (e.g. .col-xs-\* .col-sm-\*) to the respective &lt;div&gt;s.
+
+
+
+
+**​****![23-06-2014 12-45-30 PM.png](/WebSites/RulesToBetterUIBootstrap/PublishingImages/Pages/Do-you-provide-alternate-sizings-for-Bootstrap-columns/23-06-2014%2012-45-30%20PM.png)**
+
+**Figure: Good example - add additional column classes to your columns**
+
 
 **
 **
 
-**![ResizingColumns.gif](/WebSites/RulesToBetterUIBootstrap/PublishingImages/Pages/Do-you-provide-alternate-sizings-for-Bootstrap-columns/ResizingColumns.gif)
-​Figure: Instead of stacking, these columns now sit next to each other as 4-3-3**
+**![23-06-2014 1-14-39 PM.png](/WebSites/RulesToBetterUIBootstrap/PublishingImages/Pages/Do-you-provide-alternate-sizings-for-Bootstrap-columns/23-06-2014%201-14-39%20PM.png)
+​Figure: Good example - On a smaller device, these columns now arrange horizontally as desired**
+
 
 
