@@ -14,11 +14,13 @@ authors:
  
 Efficient programmers do not re-invent the wheel. That's why we [use the best Web UI libraries](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouUseTheBestWebUILibraries.aspx).
 
-Twitter Bootstrap is a NuGet Package that provides a jump-start for Html based projects. It includes the Html, CSS and JavaScript framework used by Twitter, to build the Twitter site.
+Twitter Bootstrap is a NuGet Package that provides a jump-start for HTML based projects. It includes the HTML, CSS and JavaScript framework used by Twitter, to build the Twitter site.
  
 Building your site on top of bootstrap makes it much easier to have your website look great on devices of all sizes, across many different browsers.
-![Bootstrap](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/bootstrap-1.jpg)Figure: This website template, along with many others is available as a starting point for building Bootstrap-based sites ![Bootstrap](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/iphonenonresponsive.png)Figure: Many websites built by using tables for positioning would render poorly on smaller devices, and be hard to use ![Bootstrap](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/bootstrap-3.jpg)Figure: Twitter Bootstrap uses many techniques to help make your site look great on different browsers, on all devices 
-## Documentation​
+![Bootstrap](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/bootstrap-1.jpg)Figure: This website template, along with many others is availa​ble as a starting point for building Bootstrap-based sites![Bootstrap](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/iphonenonresponsive.png)​Figure: Bad example - Many websites built by using tables for positioning would render poorly on smaller devices, and be hard to use![Bootstrap](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/bootstrap-3.jpg)Figure: Good​ example - Twitter Bootstrap uses many techniques to help make your site look great on different browsers, on all devices
+Read our [Rules to Better UI (Bootstrap)​](/WebSites/RulesToBetterUIBootstrap/Pages/default.aspx)
 
-[Bootstrap, from Twitter](https&#58;//github.com/twbs/bootstrap) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")
+### Documentation​
+
+[Bootstrap, from Twitter](https&#58;//github.com/twbs/bootstrap)
 
