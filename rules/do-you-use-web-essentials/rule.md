@@ -20,7 +20,7 @@ authors:
 
 Be sure to make sure your visual studio version and your web essentials version are the same.
 
-You can find more information at the extensions website found here: http://vswebessentials.com/​
+You can find more information at the extensions website found here: [http://vswebessentials.com/​​](http&#58;//vswebessentials.com/%E2%80%8B)
 
 
 
