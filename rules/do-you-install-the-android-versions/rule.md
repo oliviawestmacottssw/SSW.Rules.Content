@@ -9,25 +9,15 @@ authors:
 
 ---
 
- ​Installing MS Lync client on Andriod devices. Employees should be contactable no matter if they are in the office or not  (at a client). By installing the Lync client, everyone knows where they are and if they are available to take calls or answer questions that may arise. 
-​1.    Search for “Lync” in the [Play store](https&#58;//play.google.com/store) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW").
-
-![android_playstore.png](/ITAndNetworking/Rules-to-Better-Lync/SiteAssets/Pages/Do-you-install-the-android-versions/android_playstore.png)
-
-Figure: Search for Lync in Playstore
-
+ ​​Installing MS Lync client on Andriod devices. Employees should be contactable no matter if they are in the office or not  (at a client). By installing the Lync client, everyone knows where they are and if they are available to take calls or answer questions that may arise. 
+1. Search for “Lync” in the [Play store](https&#58;//play.google.com/store)![android_playstore.png](/PublishingImages/241b2b_android_playstore.png)Figure: Search for Lync in Playstore
 2. Install the Lync client on device
+3. Set up Lync to sign into your account as follows:<br>![lync-signin.png](/PublishingImages/lync-signin.png)Figure: Lync sign in process    You just need to enter 3 fields:
 
-3. Set up Lync to sign into your account as follows:
+    - Sign in address is** your email address**
+    - Password is <br>      **your AD password**
+    - Username is domain\username. For example SSW2000\davidberkes
 
-![lync-signin.png](/ITAndNetworking/Rules-to-Better-Lync/SiteAssets/Pages/Do-you-install-the-android-versions/lync-signin.png)
 
-Figure: Lync sign in process
-
-You just need to enter 3 fields:
-
-- Sign in address is** your email address**
-- Password is **your AD password**
-- Username is domain\username. For example SSW2000\davidberkes.
-
+Read more about     [​implementing Microsoft Lync](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx).
 
