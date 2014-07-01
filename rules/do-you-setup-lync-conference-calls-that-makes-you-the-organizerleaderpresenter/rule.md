@@ -21,6 +21,8 @@ Desktop and application sharing, this feature allows presenters to broadcast any
 Application sharing allows audience members to follow along with mouse movements and keyboard input. Presenters can choose to share the entire screen or only a portion to keep the audience focused on key information. By sharing their desktops, presenters are able to engage with their audiences in interactive product or software demos from any location.
 
 Application sharing allows presenters to share control of software on their desktops without losing sight of participant feedback or text questions.
-![Lync Auto-discovery](/ITAndNetworking/Rules-to-Better-Lync/PublishingImages/lync-app-sharing.jpg)Figure: Application sharing, note the ability to view questions from participants
+![Lync Auto-discovery](/PublishingImages/lync-app-sharing.jpg)Figure: Application sharing, note the ability to view questions from participants
 Presenters can delegate control to meeting participants. Presenters can customize the colour depth and screen resolution to better engage with participants who have varying desktop capabilities.
 
+Read more about     [​implementing Microsoft Lync](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx).
+​  
