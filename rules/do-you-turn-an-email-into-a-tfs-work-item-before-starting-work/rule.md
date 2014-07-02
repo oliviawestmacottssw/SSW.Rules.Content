@@ -18,7 +18,7 @@ If the email's contents or subject do not need changing, then no response email 
 
 However, if the subject is unclear, send a response as per the rules [http://rules.ssw.com.au/Communication/RulesToBetterEmail/Pages/WhenToChangeEmailSubject.aspx​](/Communication/RulesToBetterEmail/Pages/WhenToChangeEmailSubject.aspx) and [http://rules.ssw.com.au/Communication/RulesToBetterEmail/Pages/ImportanceOfAGoodSubject.aspx​](/Communication/RulesToBetterEmail/Pages/ImportanceOfAGoodSubject.aspx).
 
-If the request from the client is too large for one Work Item, then it will need to be turned into multiple Work Items as per the rule [http://rules.ssw.com.au/Management/RulestoBetterSpecificationReviews/Pages/TaskUnderFourHours.aspx​​](/Management/RulestoBetterSpecificationReviews/Pages/TaskUnderFourHours.aspx). In this case, you will need to let the client know this and include URLs to each Work Item.
+If the request from the client is too large for one Work Item, then it will need to be turned into multiple Work Items as per the rule​ [http://rules.ssw.com.au/Management/RulestoBetterSpecificationReviews/Pages/TaskUnderFourHours.aspx​​](/Management/RulestoBetterSpecificationReviews/Pages/TaskUnderFourHours.aspx). In this case, you will need to let the client know this and include URLs to each Work Item.
 
 **Note:** Once you've moved the email into TFS as work item, you should delete the original email from your inbox or move it to a outlook folder called "Moved to TFS" to avoid duplication.​​
 
