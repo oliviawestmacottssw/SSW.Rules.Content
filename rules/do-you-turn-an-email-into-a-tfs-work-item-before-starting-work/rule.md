@@ -14,9 +14,11 @@ authors:
 ---
 
  If a product owner sends an email to the development team with a request, that email should be turned into a TFS Work Item before any work is started or the work is prioritized on the backlog.  If you’re using Team Companion, this is easily done with the New Work Item from Mail button. ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/email-to-tfs-1.jpg)Figure: Team Companion lets you create a new work item straight from an email
-**Note:** Once you've moved the email into TFS as work item, you should delete the original email from your inbox or move it to a outlook folder called "Moved to TFS" to avoid duplication.
+If the email's contents or subject do not need changing, then no response email is required. This would create another unnecessary email in the world.
 
-It is just as important to let the client know that a request has been turned into a Work Item.
+However, if the subject is unclear, send a response as per the rules [http://rules.ssw.com.au/Communication/RulesToBetterEmail/Pages/WhenToChangeEmailSubject.aspx​](/Communication/RulesToBetterEmail/Pages/WhenToChangeEmailSubject.aspx) and [http://rules.ssw.com.au/Communication/RulesToBetterEmail/Pages/ImportanceOfAGoodSubject.aspx​](/Communication/RulesToBetterEmail/Pages/ImportanceOfAGoodSubject.aspx).
 
-Using Team Companion, you can navigate to the appropriate Work Item and click the Send button.  This will let you send an email to the Product Owner with the details of the Work Item including a link to the work item in Web Access.
-![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/email-to-tfs-2.jpg)Figure: The Send button when looking at a User Story in Team Companion​​​<br>   ![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/email-to-tfs-3.jpg)Figure: Sending an email using Team Companion keeps the Product Owner in the loop ​  
+If the request from the client is too large for one Work Item, then it will need to be turned into multiple Work Items as per the rule [http://rules.ssw.com.au/Management/RulestoBetterSpecificationReviews/Pages/TaskUnderFourHours.aspx​​](/Management/RulestoBetterSpecificationReviews/Pages/TaskUnderFourHours.aspx). In this case, you will need to let the client know this and include URLs to each Work Item.
+
+**Note:** Once you've moved the email into TFS as work item, you should delete the original email from your inbox or move it to a outlook folder called "Moved to TFS" to avoid duplication.​​
+
