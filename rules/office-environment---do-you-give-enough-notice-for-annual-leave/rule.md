@@ -14,13 +14,12 @@ authors:
  
 **For employees:**
                 Tell your managers and co-workers as soon as you know when you will be away. If you're planning to be away for any substantial amount of time (say 3 days or more), make sure you have told everyone who will need to know about 4 weeks in advance whenever possible. Most importantly, ensure that your clients are not left in a difficult position while you are gone.
-                     [Appointment to SSWAbsence and SSWAdmin]
+                     [Appointment to SSWAbsence]
 
-<br>                    Hi Admin,
-<br>                    I'm going to Brazil for 2 weeks on Monday... wish me luck :)<br>                                          Figure: Bad Example - not enough notice for substantial leave                    [Appointment to SSWAbsence and SSWAdmin]
-<br>                    FYI (You can delete this since it will be shown on the SSWAbsence calendar)
+<br>                    Hi SSW Absence,
+<br>                    I'm going to Brazil for 2 weeks on Monday... wish me luck :)<br>                                          Figure: Bad Example - not enough notice for substantial leave                    [Appointment to SSWAbsence]
 
-<br>                    Hi Admin,
+<br>                    Hi SSW Absence​,
 <br>                    I want to book a ticket to go to Brazil for 2 weeks.
 <br>                    I'd like to leave in about 4 weeks.
 <br>                    Please approve<br>                    Figure: Good Example - appropriate notice given
