@@ -17,13 +17,13 @@ authors:
 
 ---
 
- Hashtags identify the keyword or topic of interest that the post is about. They allow searching for similar posts on the topic. They were popularized on twitter and now work on Facebook, Pinterest, and google+. On twitter it is possible to "track" (aka Subscribe) a tag.   
+ ​Hashtags identify the keyword or topic of interest that the post is about. They allow searching for similar posts on the topic. They were popularized on twitter and now work on Facebook, Pinterest, and google+. On twitter it is possible to "track" (aka Subscribe) a tag.   
 
 
 **Tips for companies:
 ****Tip #1: **Encourage people to use the correct hash tag by adding the hashtag on the right hand side.
 
-![hashtag-stream.jpg](/Communication/RulesToBetterSocialNetworking/PublishingImages/hashtag-stream.jpg)
+![hashtag-stream.jpg](/PublishingImages/hashtag-stream.jpg)
 
 **Figure: On **[**www.ssw.com.au/ssw/netug**](http&#58;//www.ssw.com.au/ssw/netug)** you can see the right navigation show a feed from the hashtag you want your users to use.**
 
