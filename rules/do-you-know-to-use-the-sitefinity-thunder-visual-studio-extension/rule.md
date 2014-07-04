@@ -12,8 +12,13 @@ authors:
  ​If you are working with SiteFinity, then use SiteFin​ity Thunder. 
 ​
 
-​SiteFi​nity Thunder makes deploying your SiteFinity changes very easy.
+​SiteFi​nity Thunder integrates with Visual Studio and provides rich functionality to develop and deploy custom SiteFinity changes.
 
+For example:
+
+- allows developers to automatically deploy custom code to multiple Sitefinity projects​
+- accelerates custom development by connecting to Sitefinity instances inside Visual Studio. Once connected, Sitefinity Thunder supports a wide range of activities, including: modifying templates, deploying widgets, updating themes and much more
+- provides easy deployment to Azure through the Deploy to Azure wizard​
 
 
 ​
