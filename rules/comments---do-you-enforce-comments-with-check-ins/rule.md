@@ -17,15 +17,38 @@ authors:
 
 ---
 
- Team System is great, but there are some standard features in other source control systems that aren’t available. One of the glaring omissions is enforcing comments when checking in code. Without comments, some of the other built in features like History become redundant without comments.  ![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/CommentsBad.jpg) Figure: Bad Example: No Comments against the check-ins we don’t know what changes were made in each revision ![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/CommentsGood.jpg) Figure: Good Example: Now we can pin point which revision a particular change has been made 
-More Information 
-To enforce this behaviour, you will need to:
+ ​Team Foundation Server is great, and one of its neat features is enforcing comments when checking in code. Without comments, some of the other built in features like History become ​redundant without comments.  
 
-1. Install Team Foundation Server Power Tools
-2. Right click the Team Project in Team Explorer &gt; Team Project Settings &gt; Source Control ![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/Enforce1.jpg)
-3. Select the Check-in Policy tab
-4. Click Add
-5. Select the Changeset Comments Policy 
-![](/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/Enforce2.jpg)
 
- Now the next time someone checks-in some code, they are forced to enter a comment.   
+
+*You should have good comments… if you are struggling use [this​​](http&#58;//programmingexcuses.com/).*
+
+
+
+
+![15-07-2014 10-21-04 AM.png](/PublishingImages/15-07-2014%2010-21-04%20AM.png) Figure: Bad Example: No Comments against the check-ins we don’t know what changes were made in each revision ​
+![15-07-2014 10-24-40 AM.png](/PublishingImages/15-07-2014%2010-24-40%20AM.png)
+ Figure: Good Example: Now we can pin point which revision a particular change has been made 
+
+
+In Visual Studio 2013, to enforce this behaviour, you will need to:
+
+
+
+![15-07-2014 10-41-30 AM.png](/PublishingImages/15-07-2014%2010-41-30%20AM.png)
+
+**Figure: Go to Team Explorer | Source Control**
+
+![15-07-2014 10-42-21 AM.png](/PublishingImages/15-07-2014%2010-42-21%20AM.png)
+
+**Figure: Then Check-in Policy | Add**
+
+![15-07-2014 10-42-43 AM.png](/PublishingImages/15-07-2014%2010-42-43%20AM.png)
+
+**Figure: Then select Changeset Comments Policy and OK**
+
+![15-07-2014 10-42-56 AM.png](/PublishingImages/15-07-2014%2010-42-56%20AM.png)
+
+**Figure: Now you have the Changeset Comments Policy applied to your Team Project**
+​Now the next time someone checks-in some code, they are forced to enter a comment. 
+
