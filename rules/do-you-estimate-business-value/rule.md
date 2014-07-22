@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​​​​ <br>
+ ​​ <br>
 ​OK you say you do Scrum, but do you use the "Business Value" field?
 
 That's OK, most teams don't... but it is a terrible shame, because developers go to the trouble of estimating 'Effort' and if you have Effort, all you need is Business Value and you can calculate ROI.
