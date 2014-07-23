@@ -10,14 +10,24 @@ authors:
 ---
 
  
+​​​
+
+
+
+
+
+
+​​​​​​ ​<br>
+
 ​​OK you say you do Scrum, but do you use the "Business Value" field?
 
 ​​That's OK, most teams don't... but it is a terrible shame, because developers go to the trouble of estimating 'Effort' and if you have Effort, all you need is Business Value and you can calculate ROI.
 
 Once you have ROI a Product Owner can use the ROI field to sort priority. Awesome.
+
  
 ROI (Return on Investment) is an unbelievably simply calculation.
-![Business Value field](/Management/RulesToBetterScrumUsingTFS/PublishingImages/business-value-field.jpg)Figure:​ Product Owners should be estimating the Business Value
+![Business Value field](/PublishingImages/business-value-field.jpg)Figure:​ Product Owners should be estimating the Business Value
 
 ROI = Business Value / Effort​
 
@@ -33,7 +43,7 @@ The product backlog is just a list of items with rough estimates of both develop
 
 ## Product Owners are too busy for this
 
-If it is good enough for developers to estimate story points... then it is good enough for the Business to estimate Business Value. Usually devs will use the Fibonacci sequence, but since it is a good idea that the business guys use the same scale, it is best to switch to the doubling method of estimating -     [Do you know how to size user stories effectively?](/Management/RulesToBetterScrumUsingTFS/Pages/Do-You-Know-How-To-Size-Stories-Effectively.aspx)​
+If it is good enough for developers to estimate story points... then it is good enough for the Business to estimate Business Value. Usually devs will use the Fibonacci sequence, but since it is a good idea that the business guys use the same scale, it is best to switch to the doubling method of estimating -     [Do you know how to size user stories effectively?](/Pages/Do-You-Know-How-To-Size-Stories-Effectively.aspx)​
 
 For example, if the "add rich text box" and "add sortable column headings on the grid" have the same business value of 3, the one with the smallest development effort will have higher priority (the ROI is greater).
 
