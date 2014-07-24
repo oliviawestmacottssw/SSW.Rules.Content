@@ -22,7 +22,7 @@ A team knows how many stories they can commit to my measuring their velocity.  
 - Fibonacci Extended (1-100)
 - Fibonacci Original (1-21)
 - Doubling
-- Thown
+- Thr​own
 
 
 Let's go through them:​
