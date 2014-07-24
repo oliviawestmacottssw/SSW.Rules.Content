@@ -19,7 +19,8 @@ The reason we did this on TFS 2010 was is because the cube took some time to reb
 
 [Management - Do you have daily stand-up meetings (Scrums)?](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)
 
-In Scrum, there are 4 meetings in total that you need to know about: 
+
+In Scrum, there are 4 meetings in total that you need to know about: <br>   
 - [Sprint Planning Meeting​](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
 - Scrum Meeting (Daily standup​ - described on this page​​​)
 - [Sprint Review Meeting](/Management/RulesToBetterScrumUsingTFS/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
@@ -27,4 +28,9 @@ In Scrum, there are 4 meetings in total that you need to know about:
 
 
 
+### Related Videos
+
+#### Short Version (3:48)
+
+#### Long Version (12:15​)
 
