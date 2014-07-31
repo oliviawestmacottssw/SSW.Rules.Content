@@ -24,5 +24,5 @@ Popup forms are good:
 - if you make them clear by dimming the background (see below)
 
 ![Adobe Illustrator](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Popup01.jpg)Figure: Bad example - if this was a popup form it would be easier to focus on where to look (as a minimum you would be looking at half the screen)![Adobe Illustrator](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Popup02.jpg)Figure: Good example - the popup with the dimmed background is much more intuitive
-For example, adding a webpart in SharePoint 2010 should use a popup form. [See our suggestion to Microsoft](http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/sharepoint2010.aspx#PopupForm).
+For example, adding a webpart in SharePoint 2010 should use a popup form. [See our suggestion to Microsoft](http&#58;//www.ssw.com.au/ssw/standards/BetterSoftwareSuggestions/sharepoint.aspx#PopupForm).
 
