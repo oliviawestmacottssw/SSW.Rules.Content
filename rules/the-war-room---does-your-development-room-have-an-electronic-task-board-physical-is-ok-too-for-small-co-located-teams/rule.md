@@ -10,10 +10,10 @@ authors:
 ---
 
  
-Having a physical task board makes it easy for developers to keep track of tasks.
+Having     an electronic ​​​task board makes it easy for developers to keep track of tasks.
 
 These are the columns (aka swim lanes) you need:
- ![TaskBoard](/Management/RulesToBetterScrumUsingTFS/PublishingImages/Taskboard.jpg)​​Figure: Good Example - a physical client task board in operation.​​![TFS Preview Task Board.png](/Management/RulesToBetterScrumUsingTFS/PublishingImages/TFS%20Preview%20Task%20Board.png)​​​Figure: Good Example - a virtual client task board in action ([TFS​](http&#58;//tfspreview.com/)).
+ ​![TFS Preview Task Board.png](/Management/RulesToBetterScrumUsingTFS/PublishingImages/TFS%20Preview%20Task%20Board.png)​​​Figure: Good Example - a virtual client task board in action ([TFS​](http&#58;//tfspreview.com/))​![TaskBoard](/Management/RulesToBetterScrumUsingTFS/PublishingImages/Taskboard.jpg)​​Figure: Good Example - a physical client task board in operation
 Near your task board, stick an SSW "Want to submit a User Story?"
 
 - Where to find their project portal
