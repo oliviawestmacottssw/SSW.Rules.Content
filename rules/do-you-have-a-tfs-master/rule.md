@@ -18,7 +18,7 @@ authors:
 ---
 
  
-​The best way of getting the most out of TFS is to have a "TFS Master". A TFS Master is like a Scrum Master but is only interested in helping you get 100% from TFS.
+​The best way of getting the most out of TFS is to have a "TFS Master". A TFS Master is like a Scrum Master but is only interested in helping you get 100% from TFS and it's perfectly fine for them to be part of the development team.
 
 It's important to note that a TFS Master is not a management position. It's simply a role that encourages the team to use TFS in the best way possible. With a specialist knowledge of TFS, they're in the best position to know what should change and what could be done better.
 
