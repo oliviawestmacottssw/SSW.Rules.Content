@@ -9,7 +9,9 @@ authors:
 
 ---
 
- ​When integrating with external Web APIs which return a JSON response, there is a quick and easy way to generate classes to handle that response. 
+ ​​When integrating with external Web APIs which return a JSON response, there is a quick and easy way to generate classes to handle that response. 
+
+
 Execute the request, and copy the text of the JSON response.
 
 ![8-08-2014-3-41-23-PM-compressor.png](/SoftwareDevelopment/RulesToBetterWebAPI/PublishingImages/Pages/Do-you-know-how-to-easily-get-classes-from-a-JSON-response/8-08-2014-3-41-23-PM-compressor.png)
