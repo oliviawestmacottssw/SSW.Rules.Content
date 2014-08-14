@@ -30,7 +30,7 @@ Figure: Bad Example – Yellow Screen of Death![](/SoftwareDevelopment/RulesForE
 
 
 
-![14-08-2014-2-41-44-PM-compressor.png](/SoftwareDevelopment/RulesForErrorHandling/PublishingImages/Pages/present-a-nice-error-screen/14-08-2014-2-41-44-PM-compressor.png)​
-Figure: Good Example - Don't hide the yellow screen of death in the local environment
+![14-08-2014-2-47-50-PM-compressor.png](/SoftwareDevelopment/RulesForErrorHandling/PublishingImages/Pages/present-a-nice-error-screen/14-08-2014-2-47-50-PM-compressor.png)​​​​
+​​​Figure: Good Example - Don't hide the yellow screen of death in the local environment
 
 
