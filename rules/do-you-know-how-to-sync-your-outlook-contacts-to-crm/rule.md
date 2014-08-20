@@ -14,12 +14,12 @@ authors:
  
 It can be useful to have the contacts you deal with regularly in your O​​utlook (for           offline access and easy editing).
  
-Contacts that you create or are allocated to you (that have not been deactivated) are your "Active Contacts".     By default, these are the only ones that will sync from CRM to your Outlook. You can, however configure this to use any criteria you want to decide which contacts to sync.​
+Contacts that you create or are assigned to you (that have not been deactivated) are your "Active Contacts".     By default, these are the only ones that will sync from CRM to your Outlook. You can, however configure this to use any criteria you want to decide which contacts to sync.​
 
 To do this, in Outlook, click File | CRM | Option​s | Synchronization, and click Outlook Filters.
 
-
-![Contact Synchronization enabled](/Communication/RulesToBetterCRMForUsers/PublishingImages/ContactSynchronizationEnabled.jpg)Figure: Contact Synchronization enabled in MS Outlook 2013
+​
+![Contact Synchronization enabled](/PublishingImages/ContactSynchronizationEnabled.jpg)Figure: Contact Synchronization enabled in MS Outlook 2013
 In Outlook, you can also choose which of your personal contacts you want to sync to CRM by using the toolbar option "Track" and "Set Parent" (i.e. company).​​
 
 **You now know how to do this, although it is not recommended**
