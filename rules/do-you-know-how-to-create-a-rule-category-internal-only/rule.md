@@ -9,7 +9,7 @@ authors:
 
 ---
 
- The rule structure is http://rules.ssw.com.au/RuleCategory/Rule-SubCategory/Pages/rule-title.aspx.
+ ​The rule structure is http://rules.ssw.com.au/RuleCategory/Rule-SubCategory/Pages/rule-title.aspx.
 
 
 
