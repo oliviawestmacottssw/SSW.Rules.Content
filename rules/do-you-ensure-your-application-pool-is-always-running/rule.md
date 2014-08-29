@@ -1,0 +1,90 @@
+---
+type: rule
+title: Do you ensure your application pool is always running?
+uri: do-you-ensure-your-application-pool-is-always-running
+created: 2014-08-29T18:48:34.0000000Z
+authors:
+- id: 47
+  title: Stanley Sidik
+
+---
+
+ 
+Do users complain that at times their web application appears to be slow to run at times. The issue can be related to after IIS application pool recycles/reboots/crashes and the application pools are not automatically loaded back into into memory e.g. The first user in the morning complains about excessive load times for their web application.
+ 
+As per [IIS 8 What's new – Website settings](http&#58;//blogs.msdn.com/b/vijaysk/archive/2012/10/11/iis-8-what-s-new-website-settings.aspx) you can use the Application Initialization feature to alleviate this behaviour. If this setting is not enabled, then IIS has default settings to spin down the application and release it from memory when it has been idle for 20 minutes.
+
+When you set the startMode property of your application pool to AlwaysRunning a worker process is spawned as soon as IIS starts up and does not wait for the first user request. But this does not mean the web application is initialized.​
+
+When you set preloadEnabled to true, IIS will simulate a user request to the default page (can be changed with initializationPage metabase setting) of the website/virdir so that the application initializes. The request is not logged in the IIS logs.​
+
+### IIS 8 configuration:
+
+The feature is built-in to IIS 8
+
+1. Open Internet Information Services (IIS)
+2. Browse to the website in question
+3. Open Advanced settings<br><br>![](/WebSites/Rules-To-Better-IIS/Pages/ensure-your-application-pool-is-always-running.aspx?ControlMode=Edit&amp;DisplayMode=Design)Figure: IIS
+4. Change the “start mode” to “Always running”<br>![](/WebSites/Rules-To-Better-IIS/Pages/ensure-your-application-pool-is-always-running.aspx?ControlMode=Edit&amp;DisplayMode=Design)Figure: Start mode
+5. ​Change Preload Enabled to True<br>![](/WebSites/Rules-To-Better-IIS/Pages/ensure-your-application-pool-is-always-running.aspx?ControlMode=Edit&amp;DisplayMode=Design)Figure: Preload setting
+
+ ​ 
+Can you please follow the instructions below for IIS 7.5:
+
+
+
+1. 1. On the application server install <br>      [http://www.iis.net/downloads/microsoft/application-initialization](http&#58;//www.iis.net/downloads/microsoft/application-initialization) or it can be installed using the Web Platform installer
+2. 2. Open <br>      **Internet Information Services (IIS)**
+3. 3. Select the server
+4. 4. Scroll down and select <br>      **Configuration Editor**
+
+
+
+
+
+
+**Figure: IIS**
+
+
+
+1. 5. From the <br>      **Section** menu select <br>      **system.applicationHost / applicationPools**
+
+
+
+
+
+
+**Figure: Configuration editor**
+
+
+
+1. 6. Double click the <br>      **“…”** to the right of <br>      **(Collection)**
+2. 7. Find the Application Pool CFT is running on (it could be ComplyFirstTime or DefaultAppPool)
+3. 8. In the <br>      **Properties** window, scroll down and select <br>      **startMode**, choose <br>      **AlwaysRunning**
+
+
+
+
+
+
+Figure: Set “start Mode”
+
+
+
+1. 9. On the top right select <br>      **Apply**
+2. 10. There is a setting that has to be enabled in the applicationhost.config file which contains all of the top level configuration settings that IIS uses. This file is located at c:\windows\system32\inetsvr\config on a standard install of IIS.
+
+
+I recommend making a backup of this file before continuing. You can use any text editor to update this file. Search for and locate the section named &lt;applicationPools&gt;. Within this section, you will see your application listed in this format:
+
+
+
+&lt;add name=”**Application Pool Name**” managedRuntimeVersion=”v4.0″ /&gt;
+
+
+
+1. 11. Save this file and perform an IISReset so that the change is read into the running memory of the IIS server.​
+
+
+
+
