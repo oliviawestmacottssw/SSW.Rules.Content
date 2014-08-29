@@ -20,7 +20,8 @@ authors:
     1. If you can’t get the agreed task done by the deadline, tell the person why and set a new deadline, or agree on a different deliverable.
     2. Never leave them guessing
 3. **If you break your word, acknowledge it, and work out a way to repair your integrity**
-    1. ​Recognise the fault and propose a plan for how to do better next time
+    1. ​Recognise the fault and propose a plan for how to do better ​next time
+
 
 
 People who have integrity:
