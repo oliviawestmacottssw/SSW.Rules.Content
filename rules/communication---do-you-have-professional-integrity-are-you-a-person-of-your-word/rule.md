@@ -12,11 +12,9 @@ authors:
 ---
 
  
-​The word “integrity” can be loaded with ethical connotations, so let me define my meaning:
+​The word “integrity” can be loaded with ethical connotations, but in this context, integrity means:
  
-​Integrity is:
-
-1. **Being true to your word**
+1. **​Being true to your word**
     1. This means doing what you say you’d​ do, by the time you said you’d do it
 2. **If you can’t deliver on your promise, have a plan for a path forward**
     1. If you can’t get the agreed task done by the deadline, tell the person why and set a new deadline, or agree on a different deliverable.
