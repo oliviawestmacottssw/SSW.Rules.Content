@@ -14,13 +14,21 @@ authors:
  
 That's where the new [Visual Studio Online REST APIs](http&#58;//www.visualstudio.com/en-us/integrate/reference/reference-vso-overview-vsi.aspx) come in. You can get a list of commits from your VSO Git repository with only a HTTP request.​
 
+
+
 ![8-08-2014-9-58-37-AM-compressor.png](/TFS/RulesToBetterVersionControlWithGit/PublishingImages/Pages/Do-you-know-how-to-programmatically-get-Git-commits/8-08-2014-9-58-37-AM-compressor.png)
 **Figure: HTTPS GET commits from your VSO Git repository**
 
+
+
 ​Using H​TTPS with basic authentication, make a GET request to a URL as below, substituting in your VSO details. A JSON object will be returned. To quickly create classes from a JSON response, see the rule [Do you know how to easily get classes from a JSON response?](/SoftwareDevelopment/RulesToBetterWebAPI/Pages/Do-you-know-how-to-easily-get-classes-from-a-JSON-response.aspx)
+
+
 
 ![8-08-2014-4-24-34-PM-compressor.png](/TFS/RulesToBetterVersionControlWithGit/PublishingImages/Pages/Do-you-know-how-to-programmatically-get-Git-commits/8-08-2014-4-24-34-PM-compressor.png)
 **Figure: Using the Chrome extension Postman to execute our request with Basic Authentication**
+
+
 
 ​For a C# implementation, see this blog post Getting Git Commits with the VSO REST API​.​
 
