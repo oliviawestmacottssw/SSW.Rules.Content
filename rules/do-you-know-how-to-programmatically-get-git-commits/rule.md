@@ -16,21 +16,21 @@ That's where the new [Visual Studio Online REST APIs](http&#58;//www.visualstudi
 
 
 
-![8-08-2014-9-58-37-AM-compressor.png](/TFS/RulesToBetterVersionControlWithGit/PublishingImages/Pages/Do-you-know-how-to-programmatically-get-Git-commits/8-08-2014-9-58-37-AM-compressor.png)
+![8-08-2014-9-58-37-AM-compressor.png](/PublishingImages/8-08-2014-9-58-37-AM-compressor.png)
 **Figure: HTTPS GET commits from your VSO Git repository**
 
 
 
-​Using H​TTPS with basic authentication, make a GET request to a URL as below, substituting in your VSO details. A JSON object will be returned. To quickly create classes from a JSON response, see the rule [Do you know how to easily get classes from a JSON response?](/SoftwareDevelopment/RulesToBetterWebAPI/Pages/Do-you-know-how-to-easily-get-classes-from-a-JSON-response.aspx)
+​Using H​TTPS with basic authentication, make a GET request to a URL as below, substituting in your VSO details. A JSON object will be returned. To quickly create classes from a JSON response, see the rule [Do you know how to easily get classes from a JSON response?](/do-you-know-how-to-easily-get-classes-from-a-json-response)
 
 
 
-![8-08-2014-4-24-34-PM-compressor.png](/TFS/RulesToBetterVersionControlWithGit/PublishingImages/Pages/Do-you-know-how-to-programmatically-get-Git-commits/8-08-2014-4-24-34-PM-compressor.png)
+![8-08-2014-4-24-34-PM-compressor.png](/PublishingImages/8-08-2014-4-24-34-PM-compressor.png)
 **Figure: Using the Chrome extension Postman to execute our request with Basic Authentication**
 
 
 
-​For a C# implementation, see this blog post Getting Git Commits with the VSO REST API​.​
+​For a C# implementation, see this blog post [Getting Git Commits with the VSO REST API​](http&#58;//blog.damianbrady.com.au/2014/09/02/getting-git-commits-with-the-vso-rest-api/)​.​
 
 (This is based on [Get started with the REST APIs](http&#58;//www.visualstudio.com/en-us/integrate/get-started/get-started-rest-basics-vsi.aspx) and [VSO Integration Reference](http&#58;//www.visualstudio.com/integrate/reference/reference-vso-git-overview-vsi))​
 
