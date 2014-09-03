@@ -11,14 +11,16 @@ authors:
 
 ---
 
- Nobody Likes a Slow Website. You should optimize the performance of your websites so it loads as quick as possible.   Use [Pingdom Website Speed Test​​​](http&#58;//tools.pingdom.com/fpt/) to analyze the load speed of your websites and learn how to make them faster. 
-Keep it under 3MB:
+ Nobody Likes a Slow Website. You should optimize the performance of your websites so it loads as quick as possible. 
+You should use  [Pingdom Website Speed Test​​​](http&#58;//tools.pingdom.com/fpt/) to analyze the load speed of your websites and learn how to make them faster.
+
+Then work to k​eep it under 3 MB:
 
 
-- **Unacceptable** &gt; **3 MB**
-- OK **1.5 MB** to **3 MB** (apple.com is 1.5MB)
-- Good &lt; **1.5 MB​**
-- **Excellent** &lt; **1 MB**
+- **Unacceptable** &gt; <br>         **3 MB**
+- OK **1.5 MB** to <br>         **3 MB** (apple.com is 1.5MB)
+- Good &lt; <br>         **1.5 MB​**
+- **Excellent** &lt; <br>         **1 MB**
 
 
 
