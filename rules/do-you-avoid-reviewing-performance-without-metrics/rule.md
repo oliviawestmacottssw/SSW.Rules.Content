@@ -37,3 +37,8 @@ This is because performance is an emotional thing, sometimes it just \*feels\* s
 
 For sample code on how to measure performance for windows application form, please refer to rule [Do you have tests for Performance?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterUnitTests.aspx#Performance) on [Rules To Better Unit Tests](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterUnitTests.aspx).
 
+### Related Rule​
+
+- ​Do you keep your website loading time acceptable?​
+
+
