@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​Application Insights for Visual Studio Online gives you a great insight into how, when and where your website is used. 
+ ​​Application Insights for Visual Studio Online gives you a great insight into how, when and where your website is used. 
 ​
 
 ​If you're not using an analytics package in your website, you're flying blind when it comes to understanding how, when and where your webiste is used.
@@ -27,8 +27,7 @@ To add Application Insights to your website, follow these steps.
 ![apin5-compressor.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/Do-you-include-Application-Insights-for-Visual-Studio-Online-in-your-website/apin5-compressor.png)
 **Figure: Once Visual Studio has been restarted, open your solution. Right-click on your web project and select Add Application Insights Telemetry to Project...**
 
-**
-**
+(Add Application Insights Telemetry to Project... not displaying? See instructions at the end of this rule)
 
 ![apin6-compressor.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/Do-you-include-Application-Insights-for-Visual-Studio-Online-in-your-website/apin6-compressor.png)
 **Figure: ****Sign in with your VSO account if required. Then click Add Application Insights To Project**
@@ -56,6 +55,24 @@ Application Insights tracks a lot of metrics in your website but one of the most
 
 ![apin4-compressor.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/Do-you-include-Application-Insights-for-Visual-Studio-Online-in-your-website/apin4-compressor.png)
 **Figure: Breakdown of which browsers are used to access your website**
+
+**
+**
+
+Sometimes you will be trying to add Application Insights to an existing project and the context menu item will not be there. There is a manual way to add Application Insights if this is the case.
+
+![2014-09-05_14-49-56-compressor.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/Do-you-include-Application-Insights-for-Visual-Studio-Online-in-your-website/2014-09-05_14-49-56-compressor.png)
+**Figure: Sign into Visual Studio Online, and navigate to Application Insights | Add Application**
+
+
+
+![2014-09-05_14-59-06-compressor.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/Do-you-include-Application-Insights-for-Visual-Studio-Online-in-your-website/2014-09-05_14-59-06-compressor.png)
+**Figure: Use these settings to generate the manual instructions**
+
+
+
+![2014-09-05_15-26-32-compressor.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/Do-you-include-Application-Insights-for-Visual-Studio-Online-in-your-website/2014-09-05_15-26-32-compressor.png)
+**Figure: Follow these steps to add the Application Insights JavaScript code to your website**
 
 
 
