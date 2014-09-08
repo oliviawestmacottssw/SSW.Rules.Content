@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​In the try and catch block, if you always catch for normal     [Exception](http&#58;//msdn.microsoft.com/en-us/library/system.exception.aspx) you will never know where the true problem is. When using try we should always expect some exception may happen, in our code we always catch the specific exceptions.
+​​In the try and catch block, if you always catch for normal     [Exception](http&#58;//msdn.microsoft.com/en-us/library/system.exception.aspx) you will never know where the true problem is. When using try you should always expect some exception may happen, so in our code we always catch the specific exceptions.
  
 
 ```
