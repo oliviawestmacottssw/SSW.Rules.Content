@@ -14,9 +14,7 @@ authors:
 ---
 
  
-[Do you use the best middle tier .Net libraries?](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouUseTheBestMiddleTierDotNetLibraries.aspx) ​The best trace logging library is Log4Net.
-
-Did you know that writing your own logging infrastructure code wastes time.
+Did you know that writing your own logging infrastructure code wastes time? You should use a trace logging library, and the best trace logging library is Log4Net.
 
 Log4net is a NuGet package that can be included in any .Net application, is easy to configure, supports many different output targets, has great performance, and allows for runtime changes to configuration.
  
@@ -37,6 +35,8 @@ On development machines:
 - Write all Warning messages to the database
 - Write all Information messages on the area I am currently developing to the database
 
-![](/SoftwareDevelopment/RulesForErrorHandling/PublishingImages/trace-logging-bad.jpg)Figure: Bad Example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime![](/SoftwareDevelopment/RulesForErrorHandling/PublishingImages/trace-logging-bad-2.jpg)Figure: Bad Example - Roll your own logging components lack functionality, and have not been tested as thoroughly for quality or performance as log4net![](/SoftwareDevelopment/RulesForErrorHandling/PublishingImages/trace-logging-good.jpg)Figure: Good Example - Using log4net requires less work to install and configure than a roll-you-own logger, and provides many more features
+![](/PublishingImages/trace-logging-bad.jpg)Figure: Bad Example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime![](/PublishingImages/trace-logging-bad-2.jpg)Figure: Bad Example - Roll your own logging components lack functionality, and have not been tested as thoroughly for quality or performance as log4net![](/PublishingImages/trace-logging-good.jpg)Figure: Good Example - Using log4net requires less work to install and configure than a roll-you-own logger, and provides many more features
 Log4Net should be added to your project via the NuGet package manager.
+
+See also [Do you use the best middle tier .Net libraries?](/do-you-use-the-best-middle-tier-net-libraries)
 
