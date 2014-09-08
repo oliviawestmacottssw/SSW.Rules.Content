@@ -14,8 +14,8 @@ authors:
  Don't waste time evaluating which middle tier .Net libraries to use. Most of the commonly used libraries are very similar in fuctionality. By sticking to a library, you can also increase your expertise in it, reducing development time in the future. 
 ​At SSW, we use:
 
-- [StructureMap](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/Do-You-Know-the-Best-Dependency-Injection-Container.aspx) for IoC
-- TFS Application Analytics, [Log4Net](/SoftwareDevelopment/RulesForErrorHandling/Pages/implement-the-best-trace-logging-framework.aspx), or Telerik [EQATEC](http&#58;//www.telerik.com/analytics) for Tracing
-- TFS Application Analytics, Telerik EQATEK, or [ELMAH](/SoftwareDevelopment/RulesForErrorHandling/Pages/use-the-best-exception-handling-framework.aspx) for Error Handling
+- [StructureMap](/Pages/Do-You-Know-the-Best-Dependency-Injection-Container.aspx) for IoC
+- [Log4Net](/do-you-use-the-best-trace-logging-library), or [Telerik EQATE​C](http&#58;//www.telerik.com/analytics) for Tracing
+- [Application Insights for Visual Studio Online](/rules-to-better-application-insights-for-visual-studio-online), [Telerik EQATEK​](http&#58;//www.telerik.com/analytics), or [ELMAH](/do-you-use-the-best-exception-handling-library) for Error Handling
 
 
