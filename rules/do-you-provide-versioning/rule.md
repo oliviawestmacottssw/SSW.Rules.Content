@@ -15,7 +15,7 @@ As an API provider, one of your most important tasks is to make sure that breaki
 There are typically three main ways people provide versioning.
 
 1. **Change the URL:** Append a version number in the path
-e.g. <br>      [https://dimensiondataaperture.com/api/v2/account/](https&#58;//dimensiondataaperture.com/api/v2/account/)
+e.g. <br>      [https://dimensiondataaperture.com/api/v2/account/](/SoftwareDevelopment/RulesToBetterWebAPI/Pages/)
     1. Best choice for anonymous API access (callers may not be authenticated)
     2. E.g. Github, Twitter​
 2. **Based upon caller:**The caller has been authenticated and you determine the version of the API based upon the customer's record.
