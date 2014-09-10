@@ -29,7 +29,7 @@ You should align labels **next** to the inputs on medium and large displays and 
     &lt;/div&gt;
 &lt;/form&gt;​
 Figure: Example html using Bootstrap to get the above behaviour
-See     [http://getbootstrap.com/css/#forms-horizontal](http&#58;//getbootstrap.com/css/%22%20%5cl%20%22forms-horizontal) for more information.​
+See     [http://getbootstrap.com/css/#forms-horizontal](http&#58;//getbootstrap.com/css/#forms-horizontal) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") for more information.​
 
 ### Related Rule
 
