@@ -10,7 +10,13 @@ authors:
 ---
 
  
-​CRM supports recurring appointments, and this allows for more flexibility in bookings, so you should always use these over using one long appointment for a booking.
+For a 1 day appointment:
+
+- Bad Example - An all day appointment is not as visible​ and doesn't tell the client when the developer will arrive and leave.
+- Good Example - a start and end time will visibly fill his calendar and also give everyone a shared understanding of when the developer is working.
+
+
+For more than 1 day, ​CRM supports recurring appointments, and this allows for more flexibility in bookings, so you should always use these over using one long appointment for a booking.
  
 This also works better for Service Calendar syncing, as you can see what each person is working on each day.
 <dl class="badImage"><dt>
