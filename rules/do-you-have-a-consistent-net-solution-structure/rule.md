@@ -34,3 +34,8 @@ We have separated the unit tests, one for each project, for several reasons:
 - The different libraries can be used on other projects with confidence as there are a set of tests around them
 
 
+### Related rule
+
+- [Do you know how to lay out your solution?](/ALM/RulesToBetterVersionControlwithTFS%28AKASourceControl%29/Pages/LayoutSolution.aspx)
+
+
