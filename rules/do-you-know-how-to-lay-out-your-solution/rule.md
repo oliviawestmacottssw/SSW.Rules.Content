@@ -14,17 +14,17 @@ authors:
 ---
 
  
-​​​Whenever we setup a new Team Project we implement a basic version control structure. We put "readme.txt" files in the folder structure explaining the different levels, and a solution file called [Client].[Product].sln?located at ?/[Client]/[Product]/DEV/Main?within version control.
+​​​Whenever we setup a new Team Project we implement a basic version control structure. We put "readme.txt" files in the folder structure explaining the different levels, and a solution file called [Client].[Product].sln?located at ?/[Client]/[Product]/DEV/ ​within version control.
 <dl class="image"><dt>
-      <img alt="Messy solution " src="/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/MessySolution.jpg" style="margin&#58;5px;">
+      <img alt="Messy solution " src="/PublishingImages/MessySolution.jpg" style="margin&#58;5px;">
    </dt><dd>Figure&#58; Bad Example, how would anyone know how to sort this mess out?</dd></dl><dl class="image"><dt> 
-      <img alt="Ideal solution " src="/TFS/RulesToBetterVersionControlwithTFS(AKASourceControl)/PublishingImages/IdealSolution.jpg"> 
+      <img alt="Ideal solution " src="/PublishingImages/IdealSolution.jpg"> 
    </dt><dd>Figure&#58; Good Example, The ideal solution. </dd></dl>
 For more implementation details see:     
 [http://blog.hinshelwood.com/archive/2010/05/17/guidance-how-to-layout-you-files-for-an-ideal-solution.aspx](http&#58;//www.ssw.com.au/ssw/redirect/LayoutSolution.htm)
 
 ### Related rule
 
-- [Do you have a consistent .NET Solution Structure?​](/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/SolutionStructure.aspx)​
+- [Do you have a consistent .NET Solution Structure?​](/do-you-have-a-consistent-net-solution-structure)​
 
 
