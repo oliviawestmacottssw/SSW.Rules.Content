@@ -10,7 +10,7 @@ authors:
 ---
 
  
-Did you know you can post to wordpress via email? Thanks to the Jetpack plugin it's possible. Watch how you do it on Ben Cull's video:
+If you ever need to create a new post to your blog without access to WordPress admin are** **you can do it via email, thanks to the Jetpack plugin.​ Watch how you do it on Ben Cull's video:
  
 ​
 
