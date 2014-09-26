@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​​As an Account Manager, you'll frequently be required to find a free resource to put          onto a project.
+​​​As an Account Manager, you'll frequently be required to find a free resource to put          onto a project.
 
 ![yelling-whos-free.jpg](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/Use-CRM-resource-scheduler/yelling-whos-free.jpg)​
 <dd class="ssw15-rteElement-FigureBad">​​Figure&#58; Bad Example - Constantly yelling out &quot;who's free?&quot;&#160;<br></dd>
