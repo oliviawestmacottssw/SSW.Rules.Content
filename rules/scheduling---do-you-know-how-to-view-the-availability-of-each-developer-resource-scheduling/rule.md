@@ -12,6 +12,9 @@ authors:
  
 ​​As an Account Manager, you'll frequently be required to find a free resource to put          onto a project.
 
+![yelling-whos-free.jpg](/Communication/RulesToBetterCRMForUsers/SiteAssets/Pages/Use-CRM-resource-scheduler/yelling-whos-free.jpg)​
+​​Figure: Bad Example - Constantly yelling out "who's free?" 
+
 Instead of going around and asking everyone “Who’s free          next week?”, you should use the CRM Service Calendar.
 
 The calendar provides          a one page view of everyone’s availability for a given time period. Here’s          what you need to do to access it:
@@ -23,17 +26,9 @@ The calendar provides          a one page view of everyone’s availability for 
 3. Choose Month, Week, or Day view to suit your needs
 
 
-
-
-All of the Appointments in the Service Calendar will also sync to the developers' outlook calendars, keeping them up to date with where they need to be, when.
-
-
+All of the Appointments in the Service Calendar will also sync to the developers' Outlook calendars, keeping them up to date with where they need to be, when.
 
 You have multiple options for ways to fill this data, which you can see in [Scheduling - Do you know how to book developers for a project?​](/Communication/RulesToBetterCRMForUsers/Pages/How-to-book-developers-for-a-project.aspx)
-
-​
-![Toolbar CRM section in Inbox](/Communication/RulesToBetterCRMForUsers/PublishingImages/CRMServiceCalendar.jpg)              Figure: Service Calendar in CRM 
-
-
-One limitation of CRM is that you cannot send a URL to this page to someone, so they will have to navigate to it themselves
+![Toolbar CRM section in Inbox](/Communication/RulesToBetterCRMForUsers/PublishingImages/CRMServiceCalendar.jpg)              Figure: The Service Calendar in CRM is showing that Drew is available but Mehmet is busy next week​
+Suggestion to Microsoft: One limitation of CRM is that you cannot send a URL to this page to someone, so they will have to navigate to it themselves
 
