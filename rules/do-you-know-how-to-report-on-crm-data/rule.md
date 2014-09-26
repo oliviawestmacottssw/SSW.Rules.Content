@@ -10,5 +10,5 @@ authors:
 ---
 
  
-The data stored in CRM is useful on two counts. Firstly, it gives you a single source of truth for all customer related data. Secondly, you now have the ability to report on this data.
- ![](/Communication/RulesToBetterCRMForUsers/PublishingImages/report-crm-bad.jpg)Figure: Bad Example - You can do this though Excel, but you’ll always have to re-create your reports each time you need the information![](/Communication/RulesToBetterCRMForUsers/PublishingImages/report-crm-good.jpg)Figure: Good Example - The better way to do it is through CRM 2013 ​reports (built in SQL Reporting Services), as this gives you a reusable report you can come back to every time you need it​
+​​​The data stored in CRM is useful on two counts. Firstly, it gives you a single source of truth for all customer related data. Secondly, you now have the ability to report on this data.
+ ![](/Communication/RulesToBetterCRMForUsers/PublishingImages/report-crm-bad.jpg)Figure: Good ​​Example - You can do this though Advanced Find | Export to Excel, but you’ll always have to re-create your reports each time you need the information. This is fine if you only need the information for a one off purpose like a quick mail out​![](/Communication/RulesToBetterCRMForUsers/PublishingImages/report-crm-good.jpg)Figure: Better Example - The better way to do it is through CRM 2013 ​reports (built in SQL Reporting Services), as this gives you a reusable report you can come back to every time you need it​
