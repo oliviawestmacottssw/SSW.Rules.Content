@@ -14,7 +14,7 @@ People are often very inconsistent with how they make appointments. Sometimes t
 
 **​For a 1 day appointment**
 
-- Bad Example - An all day appointment is not as visible​ and doesn't tell the client when the developer will arrive and leave.
+- Bad Example - An all day appointment is [not as visible](/Communication/RulesToBetterEmail/Pages/SendOutlookCalendarAppointmentsAppropriate.aspx)​​ and doesn't tell the client when the developer will arrive and leave.
 - Good Example - a start and end time will visibly fill his calendar and also give everyone a shared understanding of when the developer is working.
 
 
