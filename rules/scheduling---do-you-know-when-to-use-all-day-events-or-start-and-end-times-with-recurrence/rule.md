@@ -10,7 +10,7 @@ authors:
 ---
 
  
-People are often very inconsistent with how they make appointments. Unless it's for leave, you should generally never use all day appointments​
+People are often very inconsistent with how they make appointments. Sometimes they use full days and sometimes they give a start and end time. It's important to be consistent.
 
 **​For a 1 day appointment**
 
@@ -25,8 +25,12 @@ People are often very inconsistent with how they make appointments. Unless it's
 CRM supports recurring appointments, and this allows for more flexibility in bookings, so you should always use these over using one long appointment for a booking.
  
 This also works better for Service Calendar syncing, as you can see what each person is working on each day.
-<dl class="badImage"><dt>
-      <img src="/Communication/RulesToBetterCRMForUsers/PublishingImages/recurring-appointment-bad.png" alt="Bad Example"> 
-   </dt><dd>Figure&#58; Bad Example – If a change is needed on Tuesday’s booking, there will​&#160;an issue</dd></dl><dl class="goodImage"><dt>
-      <img src="/Communication/RulesToBetterCRMForUsers/PublishingImages/recurring-appointment-good.png" alt="Good Example"> 
-   </dt><dd>Figure&#58; Good Example – Easy to alter any individual day as needed</dd></dl>
+<dl class="badImage"><dt> 
+      <img src="/Communication/RulesToBetterCRMForUsers/PublishingImages/recurring-appointment-bad.png" alt="Bad Example">
+   </dt><dd>Figure&#58; Bad Example – If a change is needed on Tuesday’s booking, there will​&#160;an issue</dd></dl><dl class="goodImage"><dt> 
+      <img src="/Communication/RulesToBetterCRMForUsers/PublishingImages/recurring-appointment-good.png" alt="Good Example">
+   </dt><dd>Figure&#58; Good Example – Easy to alter any individual day as needed<br></dd></dl>
+**For Leave**
+
+Leave appoi​ntments are the one time when it's actually useful to have the appointment out of the way up the top in your calendar, so "All Day" appointments are better for this.
+
