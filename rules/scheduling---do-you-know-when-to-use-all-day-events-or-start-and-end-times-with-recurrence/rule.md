@@ -10,11 +10,11 @@ authors:
 ---
 
  
-People are often very inconsistent with how they make appointments. Sometimes they use full days and sometimes they give a start and end time. It's important to be consistent.
+​People are often very inconsistent with how they make appointments. Sometimes they use full days and sometimes they give a start and end time. It's important to be consistent.
 
 **​For a 1 day appointment**
 
-- Bad Example - An all day appointment is [not as visible](/Communication/RulesToBetterEmail/Pages/SendOutlookCalendarAppointmentsAppropriate.aspx)​​ and doesn't tell the client when the developer will arrive and leave.
+- Bad Example - An all day appointment is [not as visible](/appointments-do-you-send-outlook-calendar-appointments-when-appropriate)​​ and doesn't tell the client when the developer will arrive and leave.
 - Good Example - a start and end time will visibly fill his calendar and also give everyone a shared understanding of when the developer is working.
 
 
@@ -25,7 +25,7 @@ People are often very inconsistent with how they make appointments. Sometimes t
 CRM supports recurring appointments, and this allows for more flexibility in bookings, so you should always use these over using one long appointment for a booking.
  
 This also works better for Service Calendar syncing, as you can see what each person is working on each day.
-![Bad Example](/Communication/RulesToBetterCRMForUsers/PublishingImages/recurring-appointment-bad.png)Figure: Bad Example – If a change is needed on Tuesday’s booking, there will​ an issue![Good Example](/Communication/RulesToBetterCRMForUsers/PublishingImages/recurring-appointment-good.png)Figure: Good Example – Easy to alter any individual day as needed
+![Bad Example](/PublishingImages/recurring-appointment-bad.png)Figure: Bad Example – If a change is needed on Tuesday’s booking, there will​ an issue![Good Example](/PublishingImages/recurring-appointment-good.png)Figure: Good Example – Easy to alter any individual day as needed
 
 **For Leave**
 
