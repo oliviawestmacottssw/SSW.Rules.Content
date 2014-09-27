@@ -37,7 +37,7 @@ ACME Corp (SharePoint) - Dan
 <dd class="ssw15-rteElement-FigureGood">Figure&#58;&#160;Good Examples</dd>
 
 
-The same format should also be used for leave requests.
+The same format should also be used for leave requests ([the same for nor​mal calendar appointments/invitations](/appointments-do-you-show-all-the-necessary-information-in-the-subject)).
 
 
 
