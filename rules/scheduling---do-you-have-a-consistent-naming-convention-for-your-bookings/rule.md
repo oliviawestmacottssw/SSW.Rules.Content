@@ -18,13 +18,18 @@ authors: []
 
 
 
-The project name is optional and only used if there is more than one project happening simultaneously.
+The project name (in parentheses) is optional and only used if there is more than one project happening simultaneously.
 
 You can have 1 or many names, dep​ending on the booking
 
 
 
 
+Go to ACME Corp​​
+Work onsite for ACME Corp
+Mehmet working at ACME Corp
+
+Figure: Bad example - all inconsistent​ and hard to read​​​
 ACME Corp - Mehmet
  ACME Corp - Mehmet, Dan
 ACME Corp (SharePoint) - Dan
