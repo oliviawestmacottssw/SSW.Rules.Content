@@ -23,7 +23,7 @@ Bad Example: This code will break when minified
 
 
 
-When this code in minified the parameters are renamed. This means that the dependency injector no longer knows which services to inject.
+When this code is minified the parameters are renamed. This means that the dependency injector no longer knows which services to inject.
 
 
 
