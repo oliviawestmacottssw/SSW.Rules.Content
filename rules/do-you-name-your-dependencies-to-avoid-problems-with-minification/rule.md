@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Angular uses parameter names to determine which dependencies to inject. When you minify your angular code, the parameter names are changed, so you must name your dependencies to ensure they work correctly. 
+ ​Angular uses parameter names to determine which dependencies to inject. When you minify your angular code, the parameter names are changed, so you must name your dependencies to ensure they work correctly. 
 
 The standard way to inject your dependencies looks a little like the following. We're defining a controller in this case.
 
@@ -18,12 +18,12 @@ The standard way to inject your dependencies looks a little like the following. 
 phonecatApp.controller('PhoneListCtrl', function ($scope, $http) {...}​
 ```
 
+Bad Example: This code will break when minified
 
 
 
 
-
-ct.
+When this code in minified the parameters are renamed. This means that the dependency injector no longer knows which services to inject.
 
 
 
@@ -38,6 +38,8 @@ PhoneListCtrl.$inject = ['$scope', '$http'];
 phonecatApp.controller('PhoneListCtrl', PhoneListCtrl);​
 ```
 
+Good Example: This code names the parameters using the $inject property
+
 
 
 
@@ -49,7 +51,10 @@ The second and preferred option is to pass an array containing the names, follow
 phonecatApp.controller('PhoneListCtrl', ['$scope', '$http', function($scope, $http) {...}]);​
 ```
 
-​
+Better Example: This code names the parameters inline which is a little cleaner​
+
+
+
 
 
 Using this method will ensure you don't run into problems with minification. If you'd like to read more, check out the [Angular tutorial for ​Dependency Injection​](https&#58;//docs.angularjs.org/tutorial/step_05).​​
