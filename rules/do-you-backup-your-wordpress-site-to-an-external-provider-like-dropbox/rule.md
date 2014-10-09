@@ -12,7 +12,7 @@ authors:
  
 ​Backing up your WordPress site is important and while most hosting providers will perform backups on your behalf, it doesn’t hurt to have another copy tucked away safely. For this purpose we use and recommend the     [BackWPup WordPress plugin](https&#58;//wordpress.org/plugins/backwpup)​.
  
-It simplifies Wordpress backups and can be configured to back up your site to:
+It simplifies WordP​ress backups and can be configured to back up your site to:
 
 
 - FTP server
@@ -25,6 +25,6 @@ It simplifies Wordpress backups and can be configured to back up your site to:
 
 
 We setup our WordPress sites to backup daily to Dropbox:
-![wp-dropbox.png](/WebSites/RulesToBetterWordPress/SiteAssets/Pages/backup-your-Wordpress-site-to-an-external-provider-like-Dropbox/wp-dropbox.png)Figure: [AdamCogan.com blog](http&#58;//adamcogan.com/) backs up daily to Dropbox<br> 
+![wp-dropbox.png](/PublishingImages/wp-dropbox.png)Figure: [AdamCogan.com blog](http&#58;//adamcogan.com/) backs up daily to Dropbox<br> 
 For more information head over to: [https://wordpress.org/plugins/backwpup](https&#58;//wordpress.org/plugins/backwpup)
 
