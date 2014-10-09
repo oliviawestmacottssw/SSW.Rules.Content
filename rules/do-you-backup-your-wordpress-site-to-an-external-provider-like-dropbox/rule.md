@@ -10,7 +10,7 @@ authors:
 ---
 
  
-Backing up your Wordpress site is important and while most hosting providers will perform backups on your behalf, it doesn’t hurt to have another copy tucked away safely. For this purpose we use and recommend the     [BackWPup WordPress plugin](https&#58;//wordpress.org/plugins/backwpup)​.
+​Backing up your WordPress site is important and while most hosting providers will perform backups on your behalf, it doesn’t hurt to have another copy tucked away safely. For this purpose we use and recommend the     [BackWPup WordPress plugin](https&#58;//wordpress.org/plugins/backwpup)​.
  
 It simplifies Wordpress backups and can be configured to back up your site to:
 
