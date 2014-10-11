@@ -10,13 +10,23 @@ authors:
 ---
 
  
-One of the most controversial issues we discuss is when to create branches.
+One of the most controversial issues developers discuss is when to create branches and how many you should have.
 
-Many smart people like creating braches e.g.     [http://blog.hinshelwood.com/archive/2010/04/14/guidance-a-branching-strategy-for-scrum-teams.aspx](http&#58;//blog.hinshelwood.com/archive/2010/04/14/guidance-a-branching-strategy-for-scrum-teams.aspx).
+Keep things simple:
 
-As outlined by Martin Fowler in his article on [Feature Branches](http&#58;//martinfowler.com/bliki/FeatureBranch.html) however, there are a number of issues related to merging that lead us to try and minimise the number of branches that we work with.
- 
-### Why we don’t like branching
+1. Have the team develop on the one branch. It is fantastic as there are no more merging hell.
+2. Have that branch called "master" or "trunk"
+
+
+Beware of smart bloggers giving the wrong advice :-) as many smart people like creating branches e.g. [http://blog.hinshelwood.com/archive/2010/04/14/guidance-a-branching-strategy-for-scrum-teams.aspx](http&#58;//blog.hinshelwood.com/archive/2010/04/14/guidance-a-branching-strategy-for-scrum-teams.aspx)![](/Style%20Library/SSWStyles/CoreImages/external.gif "You are now leaving SSW"). Even Martin Fowler says there are a number of issues related to merging that lead us to try and minimise the number of branches that we work with in his article on     [Feature Branches](http&#58;//martinfowler.com/bliki/FeatureBranch.html)![](/Style%20Library/SSWStyles/CoreImages/external.gif "You are now leaving SSW").
+
+The quintessential scenario you need to support is that emergency "Hey we have a security hole on the site and Hanselman has just tweeted it!"
+
+In that case you need to potentially update all of your branches and perform deployment, which can be quite tiresome.
+
+The better way is to use OctopusDeploy which relives developers from having multiple branches because you only have to worry about building on one branch and deployment can be done automatically to multiple environments. Octopus provides more secure, feature-rich environment which makes it very easy to deploy and promote builds between environments.
+![](/TFS/RulesToBetterBranchingAndBuilds/SiteAssets/Pages/when-to-branch/2014-10-11_18-54-00.png)Figure: Good Example: Manage deployments to multiple environments, view deployed versions. 
+### Why you should avoid branching
 
 1. Merging is painful, complex and is a time consuming task that does not add value.
 2. Often regressions are introduced as merges are missed and not merged back to trunk
@@ -28,19 +38,19 @@ As outlined by Martin Fowler in his article on [Feature Branches](http&#58;//mar
  This is <br>      **very** likely to happen on code bases that require tidying when you have developers who believe in improving code as they go (see the <br>      [Boy Scout Rule](http&#58;//www.ssw.com.au/ssw/standards/Rules/RulestoBetterCode.aspx#BoyscoutRule))
 
 
-### When we \*DO\* branch
+### When it's OK to branch
 
 - For a disposable, investigatory spike
-- Every time we release​
+- To perform hotfixes to production environment
 
-![](/ALM/RulesToBetterBranchingAndBuilds/PublishingImages/branch-bad.jpg)Figure: Bad Example – Creating a branch per feature leads to lots of merging (Image from[http://paulhammant.com/blog/branch\_by\_abstraction.html](http&#58;//paulhammant.com/blog/branch_by_abstraction.html))![](/ALM/RulesToBetterBranchingAndBuilds/PublishingImages/branch-bad-2.jpg)Figure: Bad Example – Creating a branch per sprint has everyone working on the same code but requires at least one merge every sprint![](/ALM/RulesToBetterBranchingAndBuilds/PublishingImages/branch-good.jpg)Figure: Good Example: Release Branching - always develop on the trunk, but create a new branch each time you release. 
+![](/TFS/RulesToBetterBranchingAndBuilds/PublishingImages/branch-bad.jpg)Figure: Bad Example – Creating a branch per feature leads to lots of merging (Image from[http://paulhammant.com/blog/branch\_by\_abstraction.html](http&#58;//paulhammant.com/blog/branch_by_abstraction.html) ![](/Style%20Library/SSWStyles/CoreImages/external.gif "You are now leaving SSW"))![](/TFS/RulesToBetterBranchingAndBuilds/PublishingImages/branch-bad-2.jpg)Figure: Bad Example – Creating a branch per sprint has everyone working on the same code but requires at least one merge every sprint![](/TFS/RulesToBetterBranchingAndBuilds/PublishingImages/branch-good.jpg)Figure: Good Example: Release Branching - always develop on the trunk, but create a new branch each time you release. 
 This means th​at all developers are continually integrating all their code, branching is rare, but you always have access to your released version in case bug fixes or small mods are required.
-(Image from [http://paulhammant.com/blog/branch\_by\_abstraction.html](http&#58;//paulhammant.com/blog/branch_by_abstraction.html))
+(Image from [http://paulhammant.com/blog/branch\_by\_abstraction.html](http&#58;//paulhammant.com/blog/branch_by_abstraction.html) ![](/Style%20Library/SSWStyles/CoreImages/external.gif "You are now leaving SSW"))
 Further reading:
 
-- [http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/](http&#58;//continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/)
-- [http://paulhammant.com/blog/branch\_by\_abstraction.html](http&#58;//paulhammant.com/blog/branch_by_abstraction.html)
-- [http://martinfowler.com/bliki/FeatureBranch.html](http&#58;//martinfowler.com/bliki/FeatureBranch.html)
-- [http://martinfowler.com/bliki/SemanticConflict.html](http&#58;//martinfowler.com/bliki/SemanticConflict.html)
+- [http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/](http&#58;//continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/) ![](/Style%20Library/SSWStyles/CoreImages/external.gif "You are now leaving SSW")
+- [http://paulhammant.com/blog/branch\_by\_abstraction.html](http&#58;//paulhammant.com/blog/branch_by_abstraction.html) ![](/Style%20Library/SSWStyles/CoreImages/external.gif "You are now leaving SSW")
+- [http://martinfowler.com/bliki/FeatureBranch.html](http&#58;//martinfowler.com/bliki/FeatureBranch.html) ![](/Style%20Library/SSWStyles/CoreImages/external.gif "You are now leaving SSW")
+- [http://martinfowler.com/bliki/SemanticConflict.html](http&#58;//martinfowler.com/bliki/SemanticConflict.html) ![](/Style%20Library/SSWStyles/CoreImages/external.gif "You are now leaving SSW")
 
 
