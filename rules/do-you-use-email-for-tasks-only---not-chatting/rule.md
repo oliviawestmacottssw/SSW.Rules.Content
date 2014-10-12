@@ -11,16 +11,16 @@ authors:
 
 ---
 
- Email is a very powerful business tool. The main problem, however, is that for most people it is out of control - emails build up until they are impossible to manage. To help minimize mailbox clutter, try these tips:   
+ Email is a very powerful business tool. The main problem, however, is that for most people it is out of control - emails build up until they are impossible to manage. To help minimize mailbox clutter, try these tips: ​ 
 - Send emails that contain clear tasks, not banter
 - If the email you receive is not clear, call up the person who sent it and ask for more information. Too many people reply to the unclear email asking for clarification, which wastes time and does not guarantee a response.
-- If you speak to them, follow this rule: [Do you Seek Clarification Via the Telephone First](/Communication/RulesToBetterEmail/Pages/SeekClarificationViaTelephoneFirst.aspx)
-- If you can't get through, follow this rule: [Do you chase your Manager or does he have to chase you?](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Chase-your-manager.aspx)
+- If you speak to them, follow this rule: [Do you Seek Clarification Via the Telephone First](/Pages/SeekClarificationViaTelephoneFirst.aspx)
+- If you can't get through, follow this rule: [Do you chase your Manager or does he have to chase you?](/do-you-chase-your-manager-before-he-has-to-chase-you-%28e-g-asking-for-clarification%29)
 
 
 Using your mailbox as a task list also saves you from having to use inefficient paper-based cards to track your tasks.
-![Bad email](/Communication/RulesToBetterEmail/PublishingImages/EmailBad.gif)Figure: Bad Example - A bad email is one that gives no clear action items ![Good email](/Communication/RulesToBetterEmail/PublishingImages/EmailGood.gif) Figure: Good Example - A good email has a clear next step action point  
-It is better that email is not used as communication, but for many instances, if the person is unavailable, it is better to send the email, than not. If you can’t do an ‘[as per our conversation](/Communication/RulesToBetterEmail/Pages/DoYouAlwaysSendAnAsPerOurConversationEmail.aspx)’ then add some text at the top of the email. e.g.
+![Bad email](/PublishingImages/EmailBad.gif)Figure: Bad Example - A bad email is one that gives no clear action items ![Good email](/PublishingImages/EmailGood.gif) Figure: Good Example - A good email has a clear next step action point  
+It is better that email is not used as communication, but for many instances, if the person is unavailable, it is better to send the email, than not. If you can’t do an ‘[as per our conversation](/Pages/DoYouAlwaysSendAnAsPerOurConversationEmail.aspx)’ then add some text at the top of the email. e.g.
 
 "As per the message I left on your phone…" and detail the questions you would like answered.
- Make sure to number your tasks, if there is more than one, as per "[Do you number small tasks related to 1 topic](/Communication/RulesToBetterEmail/Pages/NumberSmallTasks.aspx)?"   
+ Make sure to number your tasks, if there is more than one, as per "[Do you number small tasks related to 1 topic](/Pages/NumberSmallTasks.aspx)?"   
