@@ -10,7 +10,7 @@ authors:
 ---
 
  
-Microsoft Dynamics Marketing has four different user types. You can see a breakdown of the difference below:
+​Microsoft Dynamics Marketing has four different user types. You can see a breakdown of the difference below:
 
 
 | User Type | Added to O365? | License Required? | Administrator ​capability? | Description ​ |
