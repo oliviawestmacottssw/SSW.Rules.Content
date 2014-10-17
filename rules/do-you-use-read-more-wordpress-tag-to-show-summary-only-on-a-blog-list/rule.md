@@ -15,7 +15,9 @@ authors:
 You can split your blog entries so that only the first part of certain posts is displayed on the home and archive pages. When you do this, a link will be placed after the intro, pointing the reader to the full post.
  To do so, you can either edit the source index.php (or similar) file; or just click the "Read More" tag button in the first ​row of the visual editor toolbar (or press  **Alt+Shift+T**):  
 
-replace <br>      **&lt;?php the\_content(); ?&gt;** with <br>      **&lt;?php ****the\_excerpt();**** ?&gt;**Figure: Bad example - changing source php files is complicated​ and require developer skills​![](/WebSites/RulesToBetterWordPress/PublishingImages/readmore-tag.png)Figure: Good example - click on the "Read More" tag on the post visual editor
+replace <br>      **&lt;?php the\_content(); ?&gt;** with <br>      **&lt;?php ****the\_excerpt();**** ?&gt;**Figure: Bad example - changing source php files is complicated​ and require developer skills​![](/PublishingImages/readmore-tag.png)Figure: Good example - click on the "Read More" tag on the post visual editor
+**Note:** This is out-of-the-box with WordPress. You won't need a plugin.
+
 ### Custom Read More Message
 
 To customize the message, simply add a space after     ** &lt;!--more** and insert the text you want to show:
@@ -25,7 +27,7 @@ Figure: Custom "read more" link
 ### Some WordPress themes do this automatically
 
 Many WordPress themes will have an option to not show the full blog content on the homepage. E.g. in Avada (one of the most popular themes) it has this:
-![excerpt.png](/WebSites/RulesToBetterWordPress/SiteAssets/Pages/use-read-more-tag/excerpt.png)Figure: Many WordPress themes makes it​ easier to you
+![excerpt.png](/PublishingImages/excerpt.png)Figure: Many WordPress themes makes it​ easier to you
 
 
 Always check theme options before going back through posts to add in the Read More tags manually.
