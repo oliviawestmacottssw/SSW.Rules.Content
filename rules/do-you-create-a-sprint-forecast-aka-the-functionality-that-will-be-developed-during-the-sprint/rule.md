@@ -33,12 +33,12 @@ Each of the Sprints in a Scrum project can be considered a mini-project that has
 | Sprint Goal: | [Main goal of Sprint] |
 | Project: | [Project N​​​ame] |
 | Project Portal:<br>Product Owner: | [Link to project Portal]<br>[Product Owner Name] |
-| Sprint Review Meeting: | [Date and Time] |
+| Sprint Review Meeting:     | [Date and Time] |
 
 
 Attendees: [Names of Attendees]
 
-As per our Sprint Planning Meeting, and as the Product Owner, you have agreed to the following Product Backlog Items (PBIs) being included in the current sprint backlog.
+As per our Sprint Planning Meeting, and as the Product Owner, you have agreed to the following Product Backlog Items (PBIs) being included in the cu​rrent sprint backlog.
 
 The Team will do its best to deliver this set of features (Scope), to a defined quality standard (Definition of Done) by the end of the sprint. Ideally the team will deliver what they forecast, or even a bit more, but this can't be guaranteed.
 
