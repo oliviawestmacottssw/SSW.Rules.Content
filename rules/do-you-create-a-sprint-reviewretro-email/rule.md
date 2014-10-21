@@ -25,16 +25,19 @@ authors:
 
 Hi [Product Owner],
 
-Sprint in Review: [Sprint Number]        
-Sprint Duration: [Number of weeks]        
-Project: [Project Name]        
-Project Portal: [Link to project Portal]
-Test Environment: [Link to test environment]\
-Product Owner: [Product Owner Name]
+
+| Sprint in Review:  | [Sprint Number] |
+| --- | --- |
+| Sprint Duration:  | [Numbe​r of weeks] |
+| Project:  | [Project Name] |
+| Project Portal:  | [Link to project Portal] |
+| Test Environment:      | [Link to test environment] |
+| Product Owner:  | [Product Owner Name] |
+
 
 Attendees:        *(Optional as they may be in the to and CC)*
 
-
+​
 
 ### Sprint Review
 
@@ -90,6 +93,6 @@ As part of our commitment to inspect and adapt as a team we conduct a Sprint Ret
 
 
 
-&lt;This is as per the rule: [http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Review-email.aspx](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Review-email.aspx)&gt;
+&lt;This is as per the rule:        [http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Review-email.aspx](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Review-email.aspx)&gt;
 
 Figure: Good Example - Template for Sprint Review/Retro Email. Subject: Sprint xxx Review/Retro
