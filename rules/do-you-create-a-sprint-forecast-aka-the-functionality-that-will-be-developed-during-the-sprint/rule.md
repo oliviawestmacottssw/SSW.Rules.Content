@@ -31,7 +31,7 @@ Each of the Sprints in a Scrum project can be considered a mini-project that has
 | --- | --- |
 | Sprint Duration: | [Number of weeks] |
 | Sprint Goal: | [Main goal of Sprint] |
-| Project: | [Project Name] |
+| Project: | [Project N​​​ame] |
 | Project Portal:<br>Product Owner: | [Link to project Portal]<br>[Product Owner Name] |
 | Sprint Review Meeting: | [Date and Time] |
 
