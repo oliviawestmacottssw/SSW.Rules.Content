@@ -18,7 +18,7 @@ This is simply an agreement between the Development Team and the PO for one Spr
  
 
 > “*The implementation team agrees to do its best to deliver an agreed on set of features (scope) to a defined quality standard by the end of the sprint. (Ideally they deliver what they promised, or even a bit more.) The Product Owner agrees not to change his instructions before the end of the Sprint.*”
-> - Agile Project management ([http://agilesoftwaredevelopment.com/blog/peterstev/10-agile-contracts#Sprint](http&#58;//agilesoftwaredevelopment.com/blog/peterstev/10-agile-contracts#Sprint) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW"))
+> - Agile Project management ([http://agilesoftwaredevelopment.com/blog/peterstev/10-agile-contracts#Sprint](http&#58;//agilesoftwaredevelopment.com/blog/peterstev/10-agile-contracts#Sprint)​)
 
 
 Each of the Sprints in a Scrum project can be considered a mini-project that has Time (Sprint Length), Scope (Sprint Backlog), Quality (Definition of Done) and Cost (Team Size\*Sprint Length). Only the scope can vary and this is measured every sprint.
