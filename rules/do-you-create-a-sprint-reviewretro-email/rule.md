@@ -28,6 +28,7 @@ Hi [Product Owner],
 
 | Sprint in Review:  | [Sprint Number] |
 | --- | --- |
+| Sprint Goal:  | [Goal​] |
 | Sprint Duration:  | [Numbe​r of weeks] |
 | Project:  | [Project Name] |
 | Project Portal:  | [Link to project Portal] |
