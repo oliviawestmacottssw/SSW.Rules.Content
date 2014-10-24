@@ -23,8 +23,8 @@ The following are a few issues that are related to having your NuGet packages in
 
 
 ​
-
-How set up your project to avoid having your NuGet packages in the repository. Complete the following steps to activate NuGet Package Restore​ and include repositories.config in source control. With this done the NuGet Visual Studio extension integrates into Visual Studio's build events and restores missing packages when a build begins.​
+In order to track your repositories.config and make use of NuGet Package Restore to ​restore missing packages when a build begins, complete the following steps:
+​
 
 1. ​Read the NuGet offical documentation here http://docs.nuget.org/docs/reference/package-restore.
 2. Enable NuGet Package Restore for your solution by right clicking on your solution name in the Solution Explorer and selecting Enable NuGet Package Manage Restore from the drop down menu.                                        ![2014-10-23_17-12-1nuget package restore2.png](/TFS/RulesToBetterVersionControlWithGit/PublishingImages/Pages/Do-you-know-how-to-manage-NuGet-packages-with-Git/Enable%20package%20restore%202014-10-23_17-43-13.png)
