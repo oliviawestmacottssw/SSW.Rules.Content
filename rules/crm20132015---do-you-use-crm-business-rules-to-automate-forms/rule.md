@@ -10,7 +10,7 @@ authors:
 ---
 
  
-Prior to CRM 2013 if a CRM user wanted to:
+​Prior to CRM 2013 if a CRM user wanted to:
 
 - Show an error message
 - Set a field value
@@ -28,10 +28,10 @@ Starting with CRM 2013 (and much improved in CRM 2015), users can now use Busine
 To make this work use the following Business Rules:
 ![](/Communication/RulesToBetterCRMForUsers/PublishingImages/crm-automated-forms-1.png)Figure: Show the ‘Customer Type Other’ field when Customer Type equals Other
 The flip side of the expression also needs to be set where Customer Type doesn’t equal Other to hide the ‘Customer Type Other’ field (you could also optionally clear this field too)
-![](/Communication/RulesToBetterCRMForUsers/PublishingImages/crm-automated-forms-1.png)igure: Hide the ‘Customer Type Other’ field when Customer Type doesn’t equal Other
-Finally the last step is to **Activate** the Business Rules. To activate click the activate button on the top right of the tool bar.
+![](/Communication/RulesToBetterCRMForUsers/PublishingImages/crm-automated-forms-2.png)igure: Hide the ‘Customer Type Other’ field when Customer Type doesn’t equal Other
+Finally the last step is to     **Activate** the Business Rules. To activate click the activate button on the top right of the tool bar.
 
 Now the form will look like this:
-![](/Communication/RulesToBetterCRMForUsers/PublishingImages/crm-automated-forms-1.png)Figure: Great. Now ‘Customer Type Other’ is hidden![](/Communication/RulesToBetterCRMForUsers/PublishingImages/crm-automated-forms-1.png)Figure: And on the other side ‘Customer Type Other’ is visible
+![](/Communication/RulesToBetterCRMForUsers/PublishingImages/crm-automated-forms-3.png)Figure: Great. Now ‘Customer Type Other’ is hidden![](/Communication/RulesToBetterCRMForUsers/PublishingImages/crm-automated-forms-4.png)Figure: And on the other side ‘Customer Type Other’ is visible
 **Note:** CRM 2015 further improves on this by introducing the if… else… construct, so instead of creating two business rules (one for show and one for hide), this rule can be reduced to just one.
 
