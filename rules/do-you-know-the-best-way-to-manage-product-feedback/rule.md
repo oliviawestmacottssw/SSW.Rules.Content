@@ -17,32 +17,27 @@ There are a number of web applications that do a great job on this:
     - GetSatisfication​
     - UserEcho​
 
-![codeauditoruservoice.jpg](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/codeauditoruservoice.jpg)
-Figure: The UserVoice website allows user to enter suggestions (used here b​y SSW Code Auditor)
+![codeauditoruservoice.jpg](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/codeauditoruservoice.jpg)Figure: The UserVoice website allows user to enter suggestions (used here b​y SSW Code Auditor)
 
 
 
-![admin.jpg](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/admin.jpg)
-Figure: UserVoice has an Administrator console to track feedback
-
-
-
+![admin.jpg](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/admin.jpg)Figure: UserVoice has an Administrator console to track feedback
 
 [UserVoice](https&#58;//www.uservoice.com/) is the most popular platform to collect, manage, and prioritize user feedback. It has a voting and tickets system out of box.
 Many software houses use this for their products eg. SSW Code Auditor, SSW Link Auditor
 
 
 
-
+ 
 
 Here are the google results as at 2014​
 
 
-![uservoice.jp.jpg](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/uservoice.jp.jpg)Figure: Google result of UserVoice​
+![uservoice.jp.jpg](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/uservoice.jp.jpg)​Figure: Google result of UserVoice​
 
 
 
-
+ 
 
 ![getsatisfaction.jpg](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/getsatisfaction.jpg)Figure: Google result of GetSatisfaction​
 
@@ -51,6 +46,7 @@ Here are the google results as at 2014​
 
 ![googleresultuserecho.jpg](/SoftwareDevelopment/RulesToBetterBugReporting/SiteAssets/Pages/Do-you-use-UserVoice-website-to-manage-feedback/googleresultuserecho.jpg)
 Figure: Google result of UserEcho
+
 
 
 
