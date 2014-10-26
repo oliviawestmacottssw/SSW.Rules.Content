@@ -9,27 +9,21 @@ authors:
 
 ---
 
- Enter Intro Text 
-​How do you want customers to send you feedback? Phone calls? Emails? A website?
-
+ 
+​How do you want customers to send you feedback? Phone calls? Emails? A website? 
 There are a number of web applications that do a great job on this:
-
+ 
     - UserVoice
     - GetSatisfication​
     - UserEcho​
 
-
-![codeauditoruservoice.png](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/codeauditoruservoice.png)
-​
-**Figure: The UserVoice website allows user to enter suggestions (used here b​y SSW Code Auditor)**
+![codeauditoruservoice.jpg](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/codeauditoruservoice.jpg)
+Figure: The UserVoice website allows user to enter suggestions (used here b​y SSW Code Auditor)
 
 
 
-
-
-![](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/adminuservoice.png)
-**Figure: UserVoice has an Administrator console to track feedback**
-
+![admin.jpg](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/admin.jpg)
+Figure: UserVoice has an Administrator console to track feedback
 
 
 
@@ -44,15 +38,13 @@ Many software houses use this for their products eg. SSW Code Auditor, SSW Link 
 Here are the google results as at 2014​
 
 
-![](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/googleresultuservoice.png)
-Figure: Google result of UserVoice​
+![uservoice.jp.jpg](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/uservoice.jp.jpg)Figure: Google result of UserVoice​
 
 
 
 
 
-![](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/googleresultgetsatisfaction.png)
-Figure: Google result of GetSatisfaction​
+![getsatisfaction.jpg](/SoftwareDevelopment/RulesToBetterBugReporting/PublishingImages/getsatisfaction.jpg)Figure: Google result of GetSatisfaction​
 
 
 
