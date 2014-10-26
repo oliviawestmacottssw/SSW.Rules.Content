@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​How do you want customers to send you feedback? Phone calls? Emails? A website? 
+​​How do you want customers to send you feedback? Phone calls? Emails? A website? 
 There are a number of web applications that do a great job on this:
  
     - UserVoice
