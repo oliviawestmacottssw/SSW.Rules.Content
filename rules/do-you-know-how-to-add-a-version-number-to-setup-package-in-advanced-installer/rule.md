@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Developers should add a version number at the end of the out package. E.g. SSWCodeAuditor\_v14.0.0.exe
+​Developers should add a version number at the end of the out package. E.g. SSWCodeAuditor\_v14.0.0.exe
 
 Here is how you do it in Advanced Installer:
  
