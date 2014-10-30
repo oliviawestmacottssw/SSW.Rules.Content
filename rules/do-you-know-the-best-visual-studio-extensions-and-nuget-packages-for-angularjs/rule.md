@@ -29,8 +29,10 @@ John Papa's popular AngularJS Single Page Application (SPA) template.
 
 The best Visual Studio Extentions are:
 
-- ​Side Waffle
+- ​[Side Waffle](http&#58;//sidewaffle.com/)
 Templates for common AngularJS components like controllers, factories and modules.
+- [Web Essentials​](http&#58;//vswebessentials.com/)
+This VISX can help with all front end development and is a must have for Visual Studio.
 
 
 
