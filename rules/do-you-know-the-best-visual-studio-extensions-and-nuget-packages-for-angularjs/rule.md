@@ -10,14 +10,14 @@ authors:
 ---
 
  
-​​​​The best NuGet packages are:​​
+​​​​​The best NuGet packages are:​​
  
 
 
 
 
 - [Angular.UI.Bootstrap](http&#58;//www.nuget.org/packages/Angular.UI.Bootstrap/)​​​
-Check out the whole suite of tools from the Angular-UI​ team.
+Check out the whole suite of tools from the [Angular-UI​](http&#58;//angular-ui.github.io/) team.
 - 
 - [AngularJS.Core](http&#58;//www.nuget.org/packages/AngularJS.Core/)
 This core package only has the minimum Angular references to get started. Other Angular packages like [AngularJS.Route](https&#58;//www.nuget.org/packages/AngularJS.Route/)​ can be added as needed in addition to this.​
