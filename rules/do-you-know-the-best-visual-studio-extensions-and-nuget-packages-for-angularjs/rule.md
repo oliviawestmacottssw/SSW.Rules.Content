@@ -17,7 +17,7 @@ authors:
 
 
 - [Angular.UI.Bootstrap](http&#58;//www.nuget.org/packages/Angular.UI.Bootstrap/)​​​
-Check out the whole suite of tools from the [Angular-UI​](http&#58;//angular-ui.github.io/%E2%80%8B) team.
+Check out the whole suite of tools from the Angular-UI​ team.
 - 
 - [AngularJS.Core](http&#58;//www.nuget.org/packages/AngularJS.Core/)
 This core package only has the minimum Angular references to get started. Other Angular packages like [AngularJS.Route](https&#58;//www.nuget.org/packages/AngularJS.Route/)​ can be added as needed in addition to this.​
@@ -27,7 +27,7 @@ The whole AngularJS library​.​
 John Papa's popular AngularJS Single Page Application (SPA) template.
 
 
-The best Visual Studio Extentions are packages are:
+The best Visual Studio Extentions are:
 
 - ​Side Waffle
 Templates for common AngularJS components like controllers, factories and modules.
@@ -39,7 +39,7 @@ Templates for common AngularJS components like controllers, factories and module
 Alternate sources for Angular Modules:
 
 - ​​[NgModules.org](http&#58;//ngmodules.org/)
-A source for all popular Angular Modules that can be sorted by popluarity.
+A source for all popular AngularJS modules that can be sorted by popluarity.
 
 
 
