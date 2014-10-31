@@ -14,8 +14,8 @@ authors:
 ---
 
  ​After any Sprint Review and Retrospective, an email should be sent to all the stakeholders to update them on the outcome from the sprint: 
-- Subject: &lt;Client Name&gt; Sprint xxx Review/Retro
-- This is a reply to the <br>      [Sprint Forecast email](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Forecast-email.aspx)
+- Subject: &lt;Client Name&gt; Sprint XX Review/Retro
+- This is a reply to the <br>      [Sprint Forecast email](/Pages/Do-you-create-a-Sprint-Forecast-email.aspx)
 - Screenshot of Burndown from TFS
 - Breakdown of work completed (including current code coverage value)
 - Link to test environment
@@ -54,14 +54,10 @@ Attendees:        *(Optional as they may be in the to and CC)*
 Figure: Sprint Backlog from [Link to Sprint Backlog in TFS]
 
 
-As per        [http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx](/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx), we review:
+As per        [http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/RetrospectiveMeeting.aspx](/Pages/RetrospectiveMeeting.aspx), we review:
 
 1. Sprint Burndown (a quick overview of the sprint)
-
-![](/Management/RulesToBetterScrumUsingTFS/PublishingImages/burndown.JPG)
-
-**Figure: Sprint Burndown**
-
+![](/PublishingImages/burndown.JPG)Figure: Sprint Burndown
 2. Code Coverage (hopefully tests are increasing each sprint)
 XXX
 
@@ -69,8 +65,9 @@ XXX
 XXX
 
 4. Burnup (for the release - the whole project, how are we tracking for the big picture?)
-![Release Burnup.jpg](/Management/RulesToBetterScrumUsingTFS/SiteAssets/Pages/Do-you-create-a-Sprint-Review-email/Release%20Burnup.jpg)
-Figure: Release Burnup
+![Release Burnup.jpg](/PublishingImages/Release%20Burnup.jpg)Figure: Release Burnup
+5. Production Deployments (How many times did we deploy to Production?)
+![production-deploy.jpg](/PublishingImages/production-deploy.png)Figure: Deployments from Octopus Deploy
 ### Sprint Retrospective
 
 As part of our commitment to inspect and adapt as a team we conduct a Sprint Retrospective at the end of every Sprint. Here are the results of our Sprint Retrospective:
@@ -90,10 +87,8 @@ As part of our commitment to inspect and adapt as a team we conduct a Sprint Ret
 
 **Definition of Done *****- Optional***
 
-&lt;insert Definition of Done. Normally that it compiles, meets the acceptance criteria, and a test please has been sent if relevant&gt;
+&lt;insert Definition of Done. Normally that it compiles, meets the acceptance criteria, and a test please has been sent if relevant&gt;​
 
-
-
-&lt;This is as per the rule:        [http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Review-email.aspx](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Review-email.aspx)&gt;
+&lt;This is as per the rule:        [http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Review-email.aspx](/Pages/Do-you-create-a-Sprint-Review-email.aspx)&gt;
 
 Figure: Good Example - Template for Sprint Review/Retro Email. Subject: Sprint xxx Review/Retro
