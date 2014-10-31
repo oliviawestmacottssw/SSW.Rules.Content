@@ -10,10 +10,13 @@ authors:
 ---
 
  
-​​​​​The best NuGet packages are:​​
+​Following this rule will ensure the right NuGet packages and Visual Studio Extensions are included in you projects to help speed up your development, follow best practices and have the team using the same processes.
  
 
 
+
+
+​​​​​The best NuGet packages are:
 
 
 - [Angular.UI.Bootstrap](http&#58;//www.nuget.org/packages/Angular.UI.Bootstrap/)​​​
