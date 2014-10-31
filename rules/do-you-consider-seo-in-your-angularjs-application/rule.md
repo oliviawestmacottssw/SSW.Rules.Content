@@ -11,7 +11,14 @@ authors:
 
 ---
 
- ​How to get your AngularJS Single Page Application (SPA) SEO friendly: 
+ Search Engine Optimisation (SEO) with a Single Page Application (SPA) needs consideration like any other Framework to ensure it is SEO friendly. Becuase AngularJS manages your routing and URLs it isimportant to be aware of the differences in making an AngulaarJS SPA SEO friendly.
+ 
+
+
+​​How to get your AngularJS Single Page Application (SPA) SEO friendly:
+
+
+
 
 
 1. Enable html5Mode for AngularJS outing
