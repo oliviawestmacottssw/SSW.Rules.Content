@@ -9,7 +9,7 @@ authors:
 
 ---
 
- How do you keep your system up to date? FileHippo is a handy tool​ to check if there is any software on your machine need to be updated. 
-​![FileHippo.png](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/FileHippo.png)
+ ​How do you keep your system up to date? [FileHippo​](http&#58;//filehippo.com/default.aspx) is a handy tool​ to check if there is any software on your machine need to be updated. 
+​![FileHippo.png](/PublishingImages/FileHippo.png)
 **Figure: FileHippo tells which software need to update**
 
