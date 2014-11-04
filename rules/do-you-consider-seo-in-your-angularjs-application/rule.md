@@ -33,11 +33,10 @@ Web crawlers usually discover pages from links within the site and from other si
 3. Enriching your app with meta information
 This step ensures your search results are represented in a meaningful and predictable way. Dynamically changing the meta tags content in the head section of the page​ can also help google find and represent you in their search results​.  
 For more information and a demo see this blog [weluse.de](https&#58;//weluse.de/blog/angularjs-seo-finally-a-piece-of-cake.html).
+4. You can inspect what HTML Google renders with [Webmaster Tools​](https&#58;//www.google.com/webmasters/tools/home?hl=en), it is also an excellent source of information.
+5. Here’s what you need to know to ensure your website is crawled correctly by Google in general regardless of if your applocation is a SPA. http://tv.ssw.com/5162/introduction-seo-google-tools-craig-bailey-firebootcamp.
 
 
-
-
-
-Note: Since May 2014 Google announced that they're finally crawling javascript making SEO for a SPA simpler. Previouisly your SPA needed to distinguish between normal users and crawlers - and re-route (somehow) to the special crawler-only-endpoints if a bot is requesting the page​.​
+Note: Since May 2014 Google announced that they're finally crawling javascript making SEO for a SPA simpler. Previouisly your SPA needed to distinguish between normal users and crawlers - and re-route (somehow) to the special crawler-only-endpoints if a bot is requesting the page​.​ (source: http://googlewebmastercentral.blogspot.de/2014/05/understanding-web-pages-better.html)
 
 
