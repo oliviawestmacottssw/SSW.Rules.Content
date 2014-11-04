@@ -29,8 +29,9 @@ How to get your AngularJS Single Page Application (SPA) SEO friendly:
 1. Enable html5Mode for AngularJS outing
 This will remove the hashtagged-URLs by default for pretty URLS, using the pushState feature newer browsers have, which still falls back to the hashbang method if pushState isn't available.​ To enable html5Mode in AngularJs read more [scotch.io​](http&#58;//scotch.io/quick-tips/js/angular/pretty-urls-in-angularjs-removing-the-hashtag).
 2. Creating a sitemap
-More information at [sitemap.org](http&#58;//www.sitemaps.org/protocol.html)
-3. Enriching your app with meta informations
+Web crawlers usually discover pages from links within the site and from other sites. Sitemaps supplement this data to allow crawlers that support Sitemaps to pick up all URLs in the Sitemap and learn about those URLs using the associated metadata. Using the Sitemap protocol does not guarantee that web pages are included in search engines, but provides hints for web crawlers to do a better job of crawling your site.​ More information at [sitemap.org](http&#58;//www.sitemaps.org/protocol.html)
+3. Enriching your app with meta information
+This step ensures your serch results are represented in a meaniful and predictable way. Dynamically changing the meta tags content in the head section of the page​ can also help google find and represent you in search results​.  
 For more information and a demo see this blog [weluse.de](https&#58;//weluse.de/blog/angularjs-seo-finally-a-piece-of-cake.html).
 
 
