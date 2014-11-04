@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​​​​Do you know the best way to manage NuGet packages with Git? You can get into all sorts of trouble by including your packages in source control. 
+ ​​​​​​Do you know the best way to manage NuGet packages with Git? You can get into all sorts of trouble by including your packages in source control. 
 
 
 
@@ -30,7 +30,7 @@ The following are a few issues that are related to having your NuGet packages in
 
 Automatic Package Restore in Visual Studio 
 
-Beginning with NuGet 2.7, the NuGet Visual Studio extension integrates into Visual Studio's build events and restores missing packages when a build begins. This feature is enabled by default but you will need to include packages.config​ in your source control.
+Beginning with NuGet 2.7, the NuGet Visual Studio extension integrates into Visual Studio's build events and restores missing packages when a build begins. This feature is enabled by default and packages.config will be automatically included in souce control.
 
 
 
@@ -61,7 +61,7 @@ If you are using a version of NuGet prior to version 2.7 then the below steps 
 4. Choose Git Settings under Git. <br>   ![Team-Explorer compressor](/TFS/RulesToBetterVersionControlWithGit/PublishingImages/Pages/Do-you-know-how-to-manage-NuGet-packages-with-Git/Team-Explorer-2014-10-23_14-40-48-compressor.png)
 5. Choose /.gitIgnore<br>   ![Git Settings](/TFS/RulesToBetterVersionControlWithGit/PublishingImages/Pages/Do-you-know-how-to-manage-NuGet-packages-with-Git/Git%20Settings%202014-10-23_14-41-22.png)
 6. In the gitIgnore file find and uncomment the repositories.config line to include it in source control.<br>   ![git-ignore-image-compressor.png](/TFS/RulesToBetterVersionControlWithGit/PublishingImages/Pages/Do-you-know-how-to-manage-NuGet-packages-with-Git/git-ignore-image-2014-10-23_14-27-55-compressor.png)
-7. rebuild your solution and you can now safely delete your packages folder and NuGet Package Restore will restore any missing NuGet packages on each new build. You will not need to add your package folder to your repository after these steps.​​​​​​
+7. Rebuild your solution and you can now safely delete your packages folder and NuGet Package Restore will restore any missing NuGet packages on each new build. You will not need to add your package folder to your repository after these steps.​​​​​​
 
 <br>​
 
