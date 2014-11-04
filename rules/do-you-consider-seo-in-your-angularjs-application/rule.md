@@ -11,11 +11,16 @@ authors:
 
 ---
 
- ​Search Engine Optimisation (SEO) with a Single Page Application (SPA) needs consideration like any other Framework to ensure it is SEO friendly. Becuase AngularJS manages your routing and URLs it is important to be aware of the differences in making an AngularJS SPA SEO friendly.
+ ​​Search Engine Optimisation (SEO) with a Single Page Application (SPA) needs consideration like any other Framework to ensure it is SEO friendly. Becuase AngularJS manages your routing and URLs it is important to be aware of the differences in making an AngularJS SPA SEO friendly.
  
 
 
-​​How to get your AngularJS Single Page Application (SPA) SEO friendly:
+If you ignore your SEO in an Angular SPA you may not have your pages indexed by Google and lose your ranking with SEO. If your pages are not being rendered to Googles bots when they crawl your site, Google can not see your pages and it is like they do not exsist.​​
+
+
+
+
+How to get your AngularJS Single Page Application (SPA) SEO friendly:
 
 
 
