@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​​Search Engine Optimisation (SEO) with a Single Page Application (SPA) needs consideration like any other Framework to ensure it is SEO friendly. Becuase AngularJS manages your routing and URLs it is important to be aware of the differences in making an AngularJS SPA SEO friendly.
+ ​​​​Search Engine Optimisation (SEO) with a Single Page Application (SPA) needs consideration like any other Framework to ensure it is SEO friendly. Becuase AngularJS manages your routing and URLs it is important to be aware of the differences in making an AngularJS SPA SEO friendly.
  
 
 
@@ -31,7 +31,7 @@ This will remove the hashtagged-URLs by default for pretty URLS, using the push
 2. Creating a sitemap
 Web crawlers usually discover pages from links within the site and from other sites. Sitemaps supplement this data to allow crawlers that support Sitemaps to pick up all URLs in the Sitemap and learn about those URLs using the associated metadata. Using the Sitemap protocol does not guarantee that web pages are included in search engines, but provides hints for web crawlers to do a better job of crawling your site.​ More information at [sitemap.org](http&#58;//www.sitemaps.org/protocol.html)
 3. Enriching your app with meta information
-This step ensures your serch results are represented in a meaniful and predictable way. Dynamically changing the meta tags content in the head section of the page​ can also help google find and represent you in search results​.  
+This step ensures your search results are represented in a meaningful and predictable way. Dynamically changing the meta tags content in the head section of the page​ can also help google find and represent you in their search results​.  
 For more information and a demo see this blog [weluse.de](https&#58;//weluse.de/blog/angularjs-seo-finally-a-piece-of-cake.html).
 
 
