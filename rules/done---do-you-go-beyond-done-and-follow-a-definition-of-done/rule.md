@@ -36,7 +36,7 @@ Every team is different, but all need to agree on which items are in their "Defi
 
 - Sending a "Done" email
 - video
-- code (showing a full scenario e.g. a user story)
+- code (showing a full scenario e.g. a user story)​
 
 
 #### Example of a level 3 "done"
@@ -44,7 +44,7 @@ Every team is different, but all need to agree on which items are in their "Defi
 
 Subject: RE: Manad - Coded UI Tests #2
 
-&gt; Create a new CodedUI test on your feedback form – search only to test the telerik
+&gt; Create a new CodedUI test on your feedback form – search only to test the Telerik
 
 Done
 ![Coded UI Test passes in Visual Studio](/Management/RulesToSuccessfulProjects/PublishingImages/level-3-done.jpg)Figure – Coded UI Test passes in Visual Studio
@@ -100,20 +100,19 @@ Start with these examples showing typical "Definitions of Done" from beginner te
 - *All of the above, plus*
 - Multiple environments automatically tested using Lab Management
 
-![Lab management](/Management/RulesToSuccessfulProjects/PublishingImages/LabManagement.jpg)Figure: Good example - A tester Lab Management to create VMs for testing the application, then defines a test plan for that pplication with Test Case Management
+![Lab management](/Management/RulesToSuccessfulProjects/PublishingImages/LabManagement.jpg)Figure: Good example - A tester Lab Management to create VMs for testing the application, then defines a test plan for that application with Test Case Management
 ## Team - Level 7
 
 - *All of the above, plus*
 - Automated Load Testing
 - Continuous Deployment
 
-![Acceptance Tests in MTM](/Management/RulesToSuccessfulProjects/PublishingImages/LoadTesting.jpg)Figure: Good example - Load testing involves multiple test agents running Web Performance Tests and pounding the application (simulating the behaviour of manu simultaneous users)**Team - Level 8 (Gold)**
+![Acceptance Tests in MTM](/Management/RulesToSuccessfulProjects/PublishingImages/LoadTesting.jpg)Figure: Good example - Load testing involves multiple test agents running Web Performance Tests and pounding the application (simulating the behaviour of many simultaneous users)**Team - Level 8 (Gold)**
 - *All of the above, plus*
-- Inspected by the Product Owner
 - Deployed to Production
 
 
-Congratulations! You are frequently deploying to production. This idea is called “Continuous Delivery” and allows you to gather quick feedback from your end users.
+Congratulations! You are frequently deploying to production. This is called “Continuous Delivery” and allows you to gather quick feedback from your end users.
  
 
 *You might have everything deployed to production, but it might not yet be visible to the end user. This can be achieved by having “*[*Feature toggles*](http&#58;//martinfowler.com/bliki/FeatureToggle.html) *” in place. The actual release of the functionality is a decision that the Product Owner and business takes.*
