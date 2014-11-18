@@ -8,7 +8,7 @@ authors: []
 ---
 
 
-Office meetings often are ineffective, because:
+​Office meetings often are ineffective, because:
 
 - There is a lot of discussion but no resulting "action items"
 - Time is wasted digressing to unrelated topics
@@ -33,7 +33,7 @@ Every Outlook appointment must have:
     2. The final step in the agenda being "Set a date for the next meeting"
     3. A note mentioning if the meeting is billable or not
     4. Your standard footer in message (same footer as in mail messages)
-    5. A URL mentioning [Tips for better meetings](http&#58;//www.ssw.com.au/ssw/Redirect/TipsForMeeting.htm) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW")
+    5. A URL mentioning [Tips for better meetings](http&#58;//www.ssw.com.au/ssw/Redirect/TipsForMeeting.htm) ​​
 
 Hi Bill Northwind
 - Print map [www.ssw.com.au/ssw/company/directions](http&#58;//www.ssw.com.au/ssw/company/directions)
