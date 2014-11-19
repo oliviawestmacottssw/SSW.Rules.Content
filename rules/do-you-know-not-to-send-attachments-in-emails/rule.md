@@ -26,3 +26,7 @@ Using the Document ID Feature in SharePoint 2010 / 2013 will help minimise broke
 2. Records Management – when items are moved to the Record Centre
 
 ![OnePlaceMail.png](/Communication/RulesToBetterEmail/PublishingImages/insert_link_in_email_to_sharePoint_item_with_document_id-png.png)Figure: Good Example - The use of the SharePoint Document ID as part of the link (URL) formation
+If you are using a shared DropBox, then put in a reference like so:
+
+​​I've moved the file to our DropBox at:​ SSW\_Designers/Project – FireBootCamp/Admin/FireBootCamp-USA-Ultra-Advert.pptx
+
