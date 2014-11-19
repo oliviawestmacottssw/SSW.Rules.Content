@@ -16,25 +16,24 @@ It's better to use links to a portal or document store instead of having attachm
 
 If you're sending to a fellow employee, use a link to a document store on your intranet (e.g. intranet.northwind.com/SharedDocuments)
 
-If you're sending to a client, it would be a link to a document store on their [project portal](/Management/Rules-To-Better-Software-Consultants-Happy-Clients/Pages/DoYouUseAProjectPageForYourTeamAndClient.aspx). (e.g. projects.northwind.com/SharedDocuments)
- <dl class="badImage"><dt> 
-      <img alt="Forward client attachments" src="/Communication/RulesToBetterEmail/PublishingImages/Email_Attachment_1_small.jpg"> 
-   </dt><dd>Figure&#58; Bad example - Don't send attachments by mail </dd></dl><dl class="badImage"><dt> 
-      <img width="640" height="440" alt="PortalLinks.jpg" src="/Communication/RulesToBetterEmail/Documents/PortalLinks.jpg" style="height&#58;410px;margin&#58;5px;width&#58;610px;"> 
+If you're sending to a client, it would be a link to a document store on their [project portal](/do-you-use-a-project-portal-for-your-team-and-client). (e.g. projects.northwind.com/SharedDocuments)
+ <dl class="badImage"><dt>
+      <img alt="Forward client attachments" src="/PublishingImages/Email_Attachment_1_small.jpg">
+   </dt><dd>Figure&#58; Bad example - Don't send attachments by mail </dd></dl><dl class="badImage"><dt>
+      <img width="640" height="440" alt="PortalLinks.jpg" src="/Documents/PortalLinks.jpg" style="height&#58;410px;margin&#58;5px;width&#58;610px;">
    </dt><dd>Figure&#58; Bad example - Don't use location / filename in the link (URL)</dd></dl>
 **Tip:** If you're using SharePoint, then an even better way to do this is to use a tool like OnePlaceMail to insert a link from SharePoint
-<dl class="goodImage"><dt> 
-      <img alt="OnePlaceMail.png" src="/Communication/RulesToBetterEmail/PublishingImages/insert_link_in_email_to_sharePoint_item-png.png"> 
+<dl class="goodImage"><dt>
+      <img alt="OnePlaceMail.png" src="/PublishingImages/insert_link_in_email_to_sharePoint_item-png.png">
    </dt><dd>Figure&#58; Good Example - Use OnePlaceMail to send a link to a document in SharePoint</dd></dl>
 Using the Document ID Feature in SharePoint 2010 / 2013 will help minimise broken links under the following scenarios:
 
 1. Company Restructures / SharePoint restructures
 2. Records Management – when items are moved to the Record Centre
 
-<dl class="goodImage"><dt> 
-      <img alt="OnePlaceMail.png" src="/Communication/RulesToBetterEmail/PublishingImages/insert_link_in_email_to_sharePoint_item_with_document_id-png.png"> 
-   </dt><dd>Figure&#58; Good Example - The use of the SharePoint Document ID as part of the link (URL) formation</dd></dl>
+<dl class="goodImage"><dt>​<img alt="OnePlaceMail.png" src="/PublishingImages/insert_link_in_email_to_sharePoint_item_with_document_id-png.png"></dt><dd>Figure&#58; Good Example - The use of the SharePoint Document ID as part of the link (URL) formation</dd></dl>
 If you are using a shared DropBox, then put in a reference like so:
 
-​​I've moved the file to our DropBox at:​ SSW\_Designers/Project – FireBootCamp/Admin/FireBootCamp-USA-Ultra-Advert.pptx
+​​I've moved the file to our DropBox at:​ 
+​SSW\_Designers/Project – FireBootCamp/Admin/FireBootCamp-USA-Ultra-Advert.pptx
 
