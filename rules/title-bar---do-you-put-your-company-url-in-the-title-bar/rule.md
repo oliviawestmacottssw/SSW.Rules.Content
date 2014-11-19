@@ -9,7 +9,7 @@ authors: []
 
  
 When advertising and promoting your application using screenshots, you will want to have the URL for your company website displayed. This makes for good, free publicity.
-   ​
+   ​ 
 If you want the URL to be shown as often as possible, you can place it in the title-bar of your form. That way, your URL will be visible in all screenshots that show the title-bar.
 ![Title Bar URL](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/TitleBarURL.gif)Figure: Good Example - The company URL appearing in SSW SQL Auditor
 Note: Make sure the URL won't take other important information's place.
