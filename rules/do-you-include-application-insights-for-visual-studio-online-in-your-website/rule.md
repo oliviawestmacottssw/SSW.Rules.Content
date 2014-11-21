@@ -56,8 +56,11 @@ Application Insights tracks a lot of metrics in your website but one of the most
 ![apin4-compressor.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/Do-you-include-Application-Insights-for-Visual-Studio-Online-in-your-website/apin4-compressor.png)
 **Figure: Breakdown of which browsers are used to access your website**
 
-**
-**
+**Note: **​Make sure Server Performance Monitoring is set up (currently not available for Azure Websites)
+
+![1.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/Do-you-include-Application-Insights-for-Visual-Studio-Online-in-your-website/1.png)
+
+**Figure: Ensure you complete this process to add Server Monitoring**
 
 Sometimes you will be trying to add Application Insights to an existing project and the context menu item will not be there. There is a manual way to add Application Insights if this is the case.
 
