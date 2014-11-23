@@ -12,21 +12,32 @@ authors:
 
 
 <span class='intro'> There are a few methods to control a client's machine remotely, all of them have the same functionality, but different usage, and different pros and cons. 
-<br> </span>
+ </span>
 
-<h3 class="ssw15-rteElement-H3">Desktop support<br></h3><p>For supporting end users' workstation machines remotely, here is the order you should try with the end users&#58;</p><ul><li>
-      <a href="https&#58;//products.office.com/en-AU/microsoft-teams/group-chat-software">Microsoft Teams </a> - (recommended) 
-      <dl class="image"><dt>
-            <img src="/PublishingImages/Teams-give-control.png" alt="Teams-give-control.png" style="width&#58;760px;" />
-         </dt><dd>Figure&#58; Teams allow you to give remote control, making it the best option for giving support 
-            <br></dd></dl></li><li>
-      <a href="http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaTeamViewer.aspx" shape="rect">TeamViewer</a>&#160;&#160;</li><li>
-      <a href="http&#58;//www.skype.com/">Skype</a>&#160;- via screen&#160;share&#160;</li><li>
-      <a href="https&#58;//www.skype.com/en/business/skype-for-business/">Skype for Business (previously Lync)</a><br></li><li><a href="https&#58;//www.aeroadmin.com/en/">Aeroadmin​</a>&#160;<br></li><li>
-      <a href="https&#58;//www.mikogo.com/">Mikogo</a>&#160;(Free)</li><li>
-      <a href="https&#58;//www.join.me/">JoinMe</a>&#160;(Free)</li><li>
-      <a href="http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaUltraVNC.aspx" shape="rect">UltraVNC</a>&#160;(Free)<br></li></ul><h3 class="ssw15-rteElement-H3">Servers<br></h3><p>For server machines, we recommend using either Windows' built-in Remote Desktop (also knows as &quot;Terminal Services&quot;) or a VNC-based tool. Remote Desktop provides each authenticated user a Windows login session that is not shared.&#160;If your client lives in a place where the time zone is different, Remote Desktop should be your first choice as it doesn't need the client's interaction once Remote Desktop is enabled (typically it should have been enabled for a server for the ease for remote maintenance and monitoring). For servers, Remote Desktop is usually enabled via a group policy (AD GPO), although it can also be enabled through Windows System Properties.<br></p><dl class="image"><dt>
-      <img alt="remote connection" src="/PublishingImages/remoteconnection.png" border="0" />
-   </dt><dd>Figure&#58; Enable Remote Desktop </dd></dl><p>Remote Desktop works for workstations, but it's not recommended due to a security risk if Remote Support isn't disabled. Also, because of the End User License Agreement (EULA), only allows 1 user at a time, if you log in to client's Windows machine, the client will be logged off.</p><p>If you can't use TeamViewer, Skype,&#160;or Remote Desktop, you can try VNC.&#160;There are a number of VNC servers and clients available.&#160;VNC-based sessions typically behave as if you're physically using the computer. This means that it shares the same login session with the user who is currently logged on the machine. VNC software allows you to configure a specific username and password for remote access, which means that you don't have to share Windows usernames&#160;and passwords or create a temporary Windows user account.&#160;Some clients may also prefer this as they can sit in and watch what is happening.<br></p><p>The VNC tools we prefer&#58; ​​<a href="http&#58;//www.ssw.com.au/ssw/Redirect/tightvnc.htm">TightVNC</a> and​ <a href="http&#58;//www.ssw.com.au/ssw/Redirect/ultravnc.htm" target="_blank" shape="rect">Ultra VNC</a>.</p><p>Read <a href="http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportSampleScript.aspx" shape="rect" style="line-height&#58;1.6;">SSW Remote Support Standard</a>.</p>
+
+  <p>
+    <strong>Servers</strong> </p>
+<p>For server machines, we recommend using either Windows' built-in Remote Desktop (also knows as &quot;Terminal Services&quot; ) or a VNC-based tool. Remote Desktop provides each authenticated user a Windows logon session that is not shared.&#160;If your client lives in a place where the time zone is different, Remote Desktop should be your first choice as it doesn't need the client's interaction once Remote Desktop is enabled (typically it should have been enabled for a server for the ease for remote maintenance and monitoring). </p>
+<img class="ms-rteCustom-ImageArea" alt=" " src="/Management/RulesToSuccessfulProjects/PublishingImages/RemoteDesktop.gif" border="0" /> <span class="ms-rteCustom-FigureNormal">Figure&#58; Enabled Remote Desktop </span>
+<p>Remote Desktop works for workstations, but it's not recommended due to a security risk if Remote Support isn't disabled. Also, because of the End User License Agreement (EULA), XP only allows 1 user at a time, if you logon to client's XP machine, the client will be logged off. </p>
+<p>For the VNC-based remote tool, one of the main difference of VNC-based remote tool is it shares the same logon session with the user who is currently logged on the machine. The server administrator doesn't need to give us the Windows' username and password nor create a temporary user account for us. And because of both parties will share the same logon session, we see what the clients see, and so do they. Some clients may prefer this as they know what's happening exactly, which is important for a server. <br>
+The VNC tools we prefer&#58; <a shape="rect" href="http&#58;//www.ssw.com.au/ssw/Redirect/tightvnc.htm" class="newWindow" target="_blank">TightVNC</a> and <a shape="rect" href="http&#58;//www.ssw.com.au/ssw/Redirect/ultravnc.htm" class="newWindow" target="_blank">UltraVNC</a>. </p>
+<p><strong>Desktop support</strong></p>
+<p>For supporting end users' workstation machines remotely, here is the order you should try with the end users&#58; </p>
+<ul>
+    <li><span style="text-decoration-line&#58;underline;"><font color="#0066cc">MSN</font></span>&#160;Remote Assistance in MSN is what you try first. It will work unless the user is behind a firewall or router. </li>
+    <li><a shape="rect" href="http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaTeamViewer.aspx">TeamViewer</a>&#160;It’s easy, simple and works in most environments. Other benefits include&#58;
+    <ul>
+        <li>The client can see what you do on his/her machine </li>
+        <li>You can use chat with client in TeamViewer and </li>
+        <li>You can transfer files to client's desktop </li>
+    </ul>
+    You can also see <a shape="rect" href="http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaTeamViewer.aspx#Client">TeamViewer for clients</a>&#160;&#160; </li>
+    <li><a shape="rect" href="http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaUltraVNC.aspx">UltraVNC</a>&#160;Your second option is to try UltraVNC SC - there is no screwing with firewalls at client side and it is free. </li>
+    <li><a shape="rect" href="http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaCopilot.aspx">Copilot</a>&#160;The final option is to try Copilot - there is no screwing with firewalls at both sides. Only downside is it is not free. </li>
+</ul>
+<p><a shape="rect" href="http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportSampleScript.aspx">SSW Remote Support Standard</a> </p>
+<p>See useful tools <a shape="rect" href="http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/networkTools.aspx#TeamViewer">The Best 3rd Party Network Tools - TeamViewer</a>.</p>
+
 
 
