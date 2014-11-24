@@ -10,12 +10,13 @@ authors:
 ---
 
  There are a few methods to control a client's machine remotely, all of them have the same functionality, but different usage, and different pros and cons. <br> 
-**Desktop support**
+**
+Desktop support**
 
 For supporting end users' workstation machines remotely, here is the order you should try with the end users:
 
 - [TeamViewer](http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaTeamViewer.aspx) It’s easy, simple and works in most environments.
-- [Skype​](http&#58;//www.skype.com/)
+- [Skype​](http&#58;//www.skype.com/) - via screen share
 - [Lync](http&#58;//products.office.com/en/lync/lync)
 - [Mikogo](https&#58;//www.mikogo.com/) (Free)
 - [JoinMe](https&#58;//www.join.me/) (Free)
