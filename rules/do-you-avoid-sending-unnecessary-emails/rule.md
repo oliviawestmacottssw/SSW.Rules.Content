@@ -11,10 +11,12 @@ authors:
 
 ---
 
+ 
+​Every email you process takes time. Sifting through unnecessary emails becomes really frustrating. Don't clog up someone else's Inbox with unnecessary emails.
+ 
+​A good rule of thumb for whether an email is unnecessary is if your email comprises of less than 5 words (e.g. "OK" or "See you then") it's likely it doesn't need to be sent.
 
-Every email you process takes time. Sifting through unnecessary emails becomes really frustrating. Don't clog up someone else's Inbox with unnecessary emails.
+Merely saying "thanks" is often not sufficient to warrant the email but an exception to this rule is when positive reinforcement should be used when someone has done a specific ​behaviour that you like and want to encourage. E.g.
 
-A good rule of thumb for whether an email is unnecessary is if your email comprises of less than 5 words (e.g. "OK" or "See you then") it's likely it doesn't need to be sent.
-
- Naturally, an exception to this rule is when positive reinforcement should be used when someone has done a behaviour that you like and want to encourage. E.g. "Thanks for being proactive and pointing out that improvement."
+"Thanks for being proactive and pointing out that improvement."
 
