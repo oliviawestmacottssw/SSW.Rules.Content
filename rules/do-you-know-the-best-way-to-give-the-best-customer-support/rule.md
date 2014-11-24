@@ -14,24 +14,22 @@ authors:
 
 For server machines, we recommend using either Windows' built-in Remote Desktop (also knows as "Terminal Services" ) or a VNC-based tool. Remote Desktop provides each authenticated user a Windows logon session that is not shared. If your client lives in a place where the time zone is different, Remote Desktop should be your first choice as it doesn't need the client's interaction once Remote Desktop is enabled (typically it should have been enabled for a server for the ease for remote maintenance and monitoring).
 ![ ](/Management/RulesToSuccessfulProjects/PublishingImages/RemoteDesktop.gif) Figure: Enabled Remote Desktop 
-Remote Desktop works for workstations, but it's not recommended due to a security risk if Remote Support isn't disabled. Also, because of the End User License Agreement (EULA), XP only allows 1 user at a time, if you logon to client's XP machine, the client will be logged off.
+Remote Desktop works for workstations, but it's not recommended due to a security risk if Remote Support isn't disabled. Also, because of the End User License Agreement (EULA), only allows 1 user at a time, if you logon to client's Windows machine, the client will be logged off.
 
-For the VNC-based remote tool, one of the main difference of VNC-based remote tool is it shares the same logon session with the user who is currently logged on the machine. The server administrator doesn't need to give us the Windows' username and password nor create a temporary user account for us. And because of both parties will share the same logon session, we see what the clients see, and so do they. Some clients may prefer this as they know what's happening exactly, which is important for a server. 
+Of course the second option is a VNC-based remote tool, one of the main difference of a VNC-based remote tool is it shares the same logon session with the user who is currently logged on the machine. The server administrator doesn't need to give the user Windows' username and password, nor create a temporary user account. And because of both parties will share the same logon session, we see what the clients see, and so do they. Some clients may prefer this as they know what's happening exactly, which is important for a server. 
  The VNC tools we prefer: [TightVNC](http&#58;//www.ssw.com.au/ssw/Redirect/tightvnc.htm) and [UltraVNC](http&#58;//www.ssw.com.au/ssw/Redirect/ultravnc.htm).
 
 **Desktop support**
 
 For supporting end users' workstation machines remotely, here is the order you should try with the end users:
 
-- MSN Remote Assistance in MSN is what you try first. It will work unless the user is behind a firewall or router.
-- [TeamViewer](http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaTeamViewer.aspx) It’s easy, simple and works in most environments. Other benefits include:
-    - The client can see what you do on his/her machine
-    - You can use chat with client in TeamViewer and
-    - You can transfer files to client's desktop
-
-<br>    You can also see [TeamViewer for clients](http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaTeamViewer.aspx#Client)
-- [UltraVNC](http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaUltraVNC.aspx) Your second option is to try UltraVNC SC - there is no screwing with firewalls at client side and it is free.
-- [Copilot](http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaCopilot.aspx) The final option is to try Copilot - there is no screwing with firewalls at both sides. Only downside is it is not free.
+- [TeamViewer](http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaTeamViewer.aspx) It’s easy, simple and works in most environments.
+- [Skype​](http&#58;//www.skype.com/)
+- [Lync](http&#58;//products.office.com/en/lync/lync)
+- [Mikogo (Free)](https&#58;//www.mikogo.com/)
+- [JoinMe](https&#58;//www.join.me/) (Free)
+- [UltraVNC](http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaUltraVNC.aspx) (Free)
+- [Copilot](http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaCopilot.aspx) The final option is to try Copilot - there is no screwing with firewalls at both sides. (Not free)​
 
 
 [SSW Remote Support Standard](http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportSampleScript.aspx)
