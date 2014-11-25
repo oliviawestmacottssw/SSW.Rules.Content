@@ -23,14 +23,14 @@ Similar to VS. Net's Tools -&gt; Options.
 6. Hide unimportant controls and add the option to show them if necessary
 
 
-Read our rule on[Do you design your web pages to work on 1024x768px (not 800x600px)?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesLayout.aspx#Responsive) ![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window") 
+Read our rule on[Do you design your web pages to work on 1024x768px (not 800x600px)?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesLayout.aspx#Responsive) ​ 
 
 
-From [Adam Cogan](http&#58;//www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") ([http://www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/](http&#58;//www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")):
+From [Adam Cogan](http&#58;//www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/)  ([http://www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/](http&#58;//www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/) ):
 
 I am amazed how good the split screen is so you can be reading email while continuing to watch that movie.
  One thing developers need to be aware of when building apps, is to consider the size for the different resolutions in particular when an application is snapped. On the Surface, the snap view divides the screen up into ¼ and ¾, but this will be different on different devices (actually the snap view is always 342 pixels) so you really need to get into responsive designing. For a good user experience, keep the left snap view for reading, not interactive stuff like filling in forms.
  The great thing for developers is the way you test. With Visual Studio 2012, the emulator simulates the Surface perfectly.
-![SurfaceScreen.jpg](/DesignandPresentation/RulestoBetterInterfacesGeneral/SiteAssets/Pages/Does-your-application%27s-interface-fit-in-a-small-screen-resolution/SurfaceScreen.jpg)Figure: The Surface screen allows you to place two apps side by side.
+![SurfaceScreen.jpg](/PublishingImages/SurfaceScreen.jpg)Figure: The Surface screen allows you to place two apps side by side.
 
 
