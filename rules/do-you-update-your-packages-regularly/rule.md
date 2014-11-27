@@ -16,5 +16,5 @@ Each package update should contain improvements but also involves a small amount
 
 Updating often can help mitigate this risk by ensuring that each individual update is smaller.
 
-Recommended practice is to apply package updates at the start of a sprint so that there is time to find and resolve issues introduced by the update.
- ​![update-nuget.png](/SoftwareDevelopment/RulesToBetterNuget/PublishingImages/Pages/update-your-packages-regularly/update-nuget.png)Figure: Nuget package updates​  
+Recommended practice is to apply package updates at the start of a sprint so that there is time to find and resolve issues introduced by the update.​
+ ​​![update-nuget.png](/PublishingImages/update-nuget.png)Figure: Nuget package updates​  
