@@ -16,7 +16,7 @@ The user's last settings should be saved and should be selected as the Default t
 
 How do I store the settings?
 
-- .NET: Use the <br>      [Configuration Block](/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/ConfigurationManagementAppBlock.aspx) to store the settings.
+- .NET: Use the <br>      [Configuration Block](/do-you-use-configuration-management-application-block) to store the settings.
 - Access: Use a local table called 'Control' with one record.
 
 
