@@ -21,7 +21,7 @@ Most importantly when a first time a user tries your program, they should be abl
 
 
 <dl class="goodImage"><dt>
-                        <img border="0" alt="SSW Link Auditor - Scan Target" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodInformationFlow.gif" style="margin&#58;5px;width&#58;600px;"></dt><dd>Figure&#58; Good Example - SSW Link Auditor Wizard's
+                        <img border="0" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodInformationFlow.gif" alt="SSW Link Auditor - Scan Target" style="margin&#58;5px;width&#58;600px;"></dt><dd>Figure&#58; Good Example - SSW Link Auditor Wizard's
                                 better flow of information</dd></dl>
 Technical Note: To ensure visual consistency across applications, create a base                     form then set the properties in that form (application icon, menu structure, button                     names etc.) Add any logic in for switching pages with the "Next" and "Back"                     buttons. Then for all projects, add a reference to that one and inherit the customized                     form.
 
@@ -33,7 +33,7 @@ The "finish" button denotes the end of the Wizard; by clicking on it,           
 
 For longer processes, the Wizard should implement "Start" and "Skip"                     features to guide the user through from start to finish.
 <dl class="goodImage"><dt>
-                        <img border="0" alt="SSW Code Auditor - Start Process" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/StartProcess.gif" style="margin&#58;5px;width&#58;550px;"></dt><dd>Figure&#58; Good Example - SSW Code Auditor Wizard featuring
+                        <img border="0" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/StartProcess.gif" alt="SSW Code Auditor - Start Process" style="margin&#58;5px;width&#58;550px;"></dt><dd>Figure&#58; Good Example - SSW Code Auditor Wizard featuring
                                 &quot;Start&quot; and &quot;Skip&quot; options</dd></dl>
 Here's some more information on the [Microsoft Standard for Wizard Welcome and Completion Page art](http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/wizard.htm) and [Interior Page art](http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/wizard2.htm).
 
