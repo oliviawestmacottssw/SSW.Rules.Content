@@ -14,7 +14,7 @@ A brief introduction will give some idea about what will happen on this  process
 - Put a description next to it
 
 <dl class="badImage"><dt> 
-      <img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/IntroScreenBad.gif" alt="ssw Exchange Manager - Report Publication" style="margin&#58;5px;">
+      <img alt="ssw Exchange Manager - Report Publication" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/IntroScreenBad.gif" style="margin&#58;5px;">
    </dt><dd>Figure&#58; Bad Example - This screen has no product introduction... The user is thinking ‘What is this going to do?’</dd></dl><dl class="goodImage"><dt> 
-      <img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/IntroScreenGood.gif" alt="ssw Exchange Manager - Report Publication" style="margin&#58;5px;">
+      <img alt="ssw Exchange Manager - Report Publication" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/IntroScreenGood.gif" style="margin&#58;5px;">
    </dt><dd>Figure&#58; Good Example - This screen has product information before the settings... With a screen capture of where it ends up</dd></dl>
