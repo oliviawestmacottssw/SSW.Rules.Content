@@ -17,7 +17,7 @@ authors: []
 > 
 > **Bar Graph**
 > Bar graphs are used to compare things between  different groups or to track changes over time. However, when trying to  measure change over time, bar graphs are best when the changes are  larger.
-> [https://nces.ed.gov/nceskids/help/user\_guide/graph/whentouse.asp](https&#58;//nces.ed.gov/nceskids/help/user_guide/graph/whentouse.asp) ![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW")
+> [https://nces.ed.gov/nceskids/help/user\_guide/graph/whentouse.asp](https&#58;//nces.ed.gov/nceskids/help/user_guide/graph/whentouse.asp)
 
 
 This is a fancy way of saying use the right graph for  the right purpose. Pie graphs fulfill a specific requirement, unlike a  bar graph which is more multi-purpose.
