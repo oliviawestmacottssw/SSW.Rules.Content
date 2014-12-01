@@ -12,7 +12,7 @@ When designing custom applications you want to include branding on reports.     
  
 Or, even better, you can send or keep detailed information about the report for you and your company:
 <dl class="image"><dt> 
-      <img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BetterInterface_ReportFooter.jpg" alt="ssw Report Footer" style="margin&#58;5px;width&#58;650px;">
+      <img alt="ssw Report Footer" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BetterInterface_ReportFooter.jpg" style="margin&#58;5px;width&#58;650px;">
    </dt></dl>
 For more details about how to generate a footer like this, check our     [Rules to Better SQL Reporting Services](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSQLReportingServices.aspx#UsefulFooter).
 
