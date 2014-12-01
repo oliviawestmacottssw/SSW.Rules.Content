@@ -17,7 +17,7 @@ different groups or to track changes over time. However, when trying to
 measure change over time, bar graphs are best when the changes are 
 larger.</p>
 
-                    <span><a href="https&#58;//nces.ed.gov/nceskids/help/user_guide/graph/whentouse.asp">https&#58;//nces.ed.gov/nceskids/help/user_guide/graph/whentouse.asp</a>&#160;</span>
+                    <span><a href="https&#58;//nces.ed.gov/nceskids/help/user_guide/graph/whentouse.asp">https&#58;//nces.ed.gov/nceskids/help/user_guide/graph/whentouse.asp</a> <img title="You are now leaving SSW" src="http&#58;//www.ssw.com.au/ssw/images/external.gif" alt="" style="margin&#58;5px;" /></span>
                 </blockquote><p>This is a fancy way of saying use the right graph for
  the right purpose. Pie graphs fulfill a specific requirement, unlike a 
 bar graph which is more multi-purpose.</p> </span>
