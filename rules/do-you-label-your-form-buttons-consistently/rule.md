@@ -7,8 +7,10 @@ authors: []
 
 ---
 
- Enter Intro Text 
+ 
 ​The buttons that a user will typically use to close a form should be named consistently across your applications.
+ 
+
 ![Broker Details - Save &amp; Close Buttons](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ButtonLabels_Bad.gif)Figure: Bad Example - Unclear labels on the buttons
 - **Save** button could possibly update the fields but keep the form open.
 - **Close** could save the fields, then close the form, when the ** Cancel** button may be more appropriate.
