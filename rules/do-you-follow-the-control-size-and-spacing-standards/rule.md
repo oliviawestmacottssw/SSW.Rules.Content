@@ -12,7 +12,7 @@ authors: []
 
 Despite seeming trivial, the most subtle elements of your form can have the greatest impact on your users.
  <dl class="badImage"><dt>
-      <img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ScreenBadControls.gif" alt="SSW SQL Auditor - Choose Data Source" style="margin&#58;5px;">
+      <img alt="SSW SQL Auditor - Choose Data Source" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ScreenBadControls.gif" style="margin&#58;5px;">
    </dt><dd>Figure&#58; Bad Example - What's wrong with this form?</dd></dl>
 The form shown in this screenshot is an example of bad control placement:
 
@@ -31,7 +31,7 @@ The good news is that** you don't need to**: Microsoft have gone to a great deal
 
 These examples assume that you are using the standard system font as defined in the rule mentioned above. Please note that although Dialog Units (DLUs) are better suited for generic (font independent) use, they are not available in the Visual Studio designer.
 <dl class="goodImage"><dt>
-      <img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodStandardForm.jpg" alt="SSW SQL Auditor - Choose a Data Source" style="margin&#58;5px;">
+      <img alt="SSW SQL Auditor - Choose a Data Source" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodStandardForm.jpg" style="margin&#58;5px;">
    </dt><dd>Figure&#58; Good Example - The form follows Standards of good form design discussed below</dd></dl>
 ### The Rules
 
@@ -60,7 +60,7 @@ Here's a good example for you to take inspiration from. This dialog is from Micr
 3. The logo has been positioned evenly
 
 <dl class="goodImage"><dt>
-      <img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ScreenGoodControls.gif" alt="Outlook - Email Accounts" style="margin&#58;5px;">
+      <img alt="Outlook - Email Accounts" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ScreenGoodControls.gif" style="margin&#58;5px;">
    </dt><dd>Figure&#58; Good Example - Microsoft have defined to exacting measures what spacing should be used in their Microsoft Outlook wizards</dd></dl>
 Read more about control size on the     [Rules to Better Windows Forms](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#CommonControl) page
 
