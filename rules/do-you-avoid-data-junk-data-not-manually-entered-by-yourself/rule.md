@@ -14,9 +14,9 @@ When there are too many choices always Default to the most common ones.  Then ad
 
 Likewise in a contacts database where you have entries from all around the world it is good to add a check box on the search screen similar to the following:
 
- [x] Only include customers that have been updated by employees (not directly entered from the web) 
+[x] Only include customers that have been updated by employees (not directly entered from the web)
 
-A good example on that the checkbox on the search screen of TimePRO.NET
+A good example on that the checkbox on the search screen of TimePRO.NET.
 ![Options Form - ComboBox without Result Count](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DefaultSearch.gif)Figure: Default search tick box in TimePRO.NET
 Read our rule on     [Validation - Do you avoid capturing incorrect data?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Controls.aspx#AvoidIncorrectData)
 
