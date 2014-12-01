@@ -12,7 +12,7 @@ In a wizard, a visual indication about the progress should be  provided so users
 
 A good way to do this is use a left navigation bar with **bold** on the step they are currently at.
  <dl class="badImage"><dt> 
-      <img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/FrontPageWizard.gif" alt="Microsoft FrontPage - Corporate Presence Web Wizard" style="margin&#58;5px;"> 
+      <img alt="Microsoft FrontPage - Corporate Presence Web Wizard" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/FrontPageWizard.gif" style="margin&#58;5px;"> 
    </dt><dd>Figure&#58; Bad Example - The progress bar does not indicate completed nor next steps</dd></dl><dl class="goodImage"><dt>
-      <img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Wizard_1.jpg" alt="Good Wizard example" style="margin&#58;5px;">
+      <img alt="Good Wizard example" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Wizard_1.jpg" style="margin&#58;5px;">
    </dt><dd>Figure&#58; Good Example - This wizard form shows all steps and indicates where the user is up to</dd></dl>
