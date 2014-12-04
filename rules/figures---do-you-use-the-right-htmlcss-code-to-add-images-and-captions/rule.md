@@ -13,19 +13,22 @@ authors:
 
 
 
-<span class='intro'> <p>​​Most developers put the image and the caption in a DIV tag. The figure is just a paragraph.​<br></p> </span>
+<span class='intro'> <span style="line-height&#58;1.6;">Most developers (even WordPress) put the image and the caption in a DIV tag. The figure is just a paragraph.</span> </span>
 
-<font class="ms-rteCustom-CodeArea"> <pre>&lt;div&gt;
+<font class="ms-rteCustom-CodeArea"> 
+   <pre>&lt;div&gt;
 &lt;img alt=&quot;&quot;/&gt;
 &lt;p&gt;Figure&#58; Caption&lt;/p&gt;
 &lt;/div&gt;
-</pre> </font> <span class="ms-rteCustom-FigureBad">Figure&#58; Bad Example</span> 
-<p>Instead, you should use &lt;DL&gt;,&#160;&lt;DT&gt; (which is the item in the list – in our case an image) and &lt;DD&gt;for a caption. This structure gives semantic<span style="line-height&#58;20.8px;"> meaning</span> to&#160;the image and&#160;figure. <br></p>
-<font class="ms-rteCustom-CodeArea"> <pre>&lt;dl class=&quot;image&quot;&gt; OR &lt;dl class=&quot;badImage&quot;&gt; OR &lt;dl class=&quot;goodImage&quot;&gt;
+</pre> </font>
+<span class="ms-rteCustom-FigureBad">Figure&#58; Bad Example</span>
+<p>Instead, use a figure under the image, using a DL. A DL is a HTML tag that stands for ‘Definition List’. It contains a DT which is the item in the list – in our case an image. A DD (the description of the item). This structure gives the image and the figure, semantic meaning.</p> 
+<font class="ms-rteCustom-CodeArea"> 
+   <pre>&lt;dl&gt;
 &lt;dt&gt;&lt;img alt=&quot;&quot;/&gt;&lt;/dt&gt;
 &lt;dd&gt;Figure&#58; Caption&lt;/dd&gt;
 &lt;/dl&gt;
-</pre> </font> <span class="ms-rteCustom-FigureGood">Figure&#58; Good Example </span> 
-<p><b>Note&#58;</b>&#160;&lt;dl&gt; stands for &quot;<b>definition list</b>&quot;; &lt;dt&gt; for &quot;<b>definition term</b>&quot;; and &lt;dd&gt; for &quot;<b>definition description</b>&quot;.</p><h3 class="ssw15-rteElement-H3">​Relate Rule<br></h3><ul><li><a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=810b7dab-f94c-4495-bf88-bb80c3bc9776">Figures - Do you add useful and concise figure text?​​​</a><br></li></ul>
+</pre> </font>
+<span class="ms-rteCustom-FigureGood">Figure&#58; Good Example​</span> ​​
 
 
