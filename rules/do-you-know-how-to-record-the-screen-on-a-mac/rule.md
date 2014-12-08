@@ -13,10 +13,10 @@ authors:
 
  If you don't have Camtasia or ScreenFlow, you can use the built-in QuickTime Player to record the screen on Mac OSX. 
 ​Open the QuickTime Playey through the Applications folder, or by using search (Ctrl + Space) and typing QuickTime:
-![QuickTime Player.png](/DesignandPresentation/RulesToBetterVideoRecording/SiteAssets/Pages/Do-you-know-how-to-record-th-screen-on-a-Mac/QuickTime%20Player.png) Figure: Search for QuickTime Player
+![QuickTime Player.png](/PublishingImages/QuickTime%20Player.png) Figure: Search for QuickTime Player
 
 
 From QuickTime Player, you can tart a new Screen Recording from the File menu:
-![QuickTime new screen recording.png](/DesignandPresentation/RulesToBetterVideoRecording/SiteAssets/Pages/Do-you-know-how-to-record-th-screen-on-a-Mac/QuickTime%20new%20screen%20recording.png)Figure: QuickTime Player New Screen Recording 
+![QuickTime new screen recording.png](/PublishingImages/QuickTime%20new%20screen%20recording.png)Figure: QuickTime Player New Screen Recording 
 In the Screen Recording window, you an select which microphone to use if you want to record audio:
-![QuickTime Recorder.png](/DesignandPresentation/RulesToBetterVideoRecording/SiteAssets/Pages/Do-you-know-how-to-record-th-screen-on-a-Mac/QuickTime%20Recorder.png) Figure: Select your audio device
+![QuickTime Recorder.png](/PublishingImages/QuickTime%20Recorder.png) Figure: Select your audio device
