@@ -10,5 +10,5 @@ authors:
 ---
 
  
-It is always good to provide the user with an option to have their username and password remembered. Doing so means they don't have to type them again.
-​ ![Remember me checkbox](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/timepro-remember.jpg)Figure: 'Remember Me' checkbox in a Web Form​  
+​​                     It is always good to provide the user with an option to have their username and password remembered. Doing so means they don't have to type them again.
+​ ![Remember me checkbox](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/timepro-remember.jpg)Figure: 'Remember me' checkbox in a Web Form​  
