@@ -17,7 +17,7 @@ One of the most effective ways of launching an effective marketing campaign is t
 1. Select a name for the campaign
 2. Define the goals of the marketing campaign
 3. Define who is your target audience
-4. Summarise buyer persona
+4. Summarize buyer persona
 5. Identity the 10 industry leaders (people) with large following we will target for promotion
     1. Create emails to send to each as per the rule of
     2. Create social media updates to send to each as per the rule do you contact industry influences to promote your campaigns?
@@ -35,23 +35,23 @@ One of the most effective ways of launching an effective marketing campaign is t
 3. Define the Call to action
 4. Create the page to promote the campaign
 5. Add the campaign (if applicable) to the SharePoint list
-6. Optimise the page for SEO
+6. Optimize the page for SEO
 7. Add promotional banner to the homepage
 8. Add promotion to the monthly newsletter
 9. Add to the company blog
 10. Schedule the social media updates in Buffer
-11. Promote event in linkedin groups and Google+
+11. Promote event in LinkedIn groups and Google+
 12. Pay Per Click
     1. ​Facebook post promotions
-    2. Google Adwords
+    2. Google AdWords
     3. LinkedIn ads
-13. Work with SSW devs and account managers to promote the webinar to 3 of their clients or network each via phone call and email.
+13. Work with SSW developers and account managers to promote the webinar to 3 of their clients or network each via phone call and email.
 14. Have SSW employees promote event over social media twice leading up to the webinar​
 
 
 ### Autoresponders
 
-    1. Add relevant content to an autoresponder email campaign
+    1. Add relevant content to an autor​esponder email campaign
 
 
 You can find a template to follow at     [!\[\](/_layouts/15/images/icdocx.png)SSW-Marketing-Campaign-Checklist-TEMPLATE\_v1.docx](/marketing/RulesToBetterMarketing/Documents/SSW-Marketing-Campaign-Checklist-TEMPLATE_v1.docx)
