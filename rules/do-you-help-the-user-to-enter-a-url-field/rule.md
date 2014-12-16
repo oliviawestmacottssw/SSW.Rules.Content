@@ -11,6 +11,6 @@ authors:
 
  
 Most developers seem to validate a URL and tell the user what they have done wrong                     only after the error happens. URL fields should show how the users must enter it.
- ![Error message 'Cannot save record'](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/url-field-bad.jpg)                        Figure: Bad way of using a validation message to tell the user to enter a correct<br>                        URL
+ ![Error message 'Cannot save record'](/PublishingImages/url-field-bad.jpg)                        Figure: Bad example - U​sing a validation message to tell the user to enter a correct<br>                        URL
 The better way is to have the user avoid the error with a good default.
-![image showing blank textfield](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/url-field-bad2.jpg)                        Figure: Bad example - The user has a good chance of entering the URL in the incorrect format​​​![image showing a textfield pre-populated with 'http&#58;//www.'](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/url-field-good.jpg)                        Figure: Good example - User immediately knows the format expected
+![image showing blank textfield](/PublishingImages/url-field-bad2.jpg)                        Figure: Bad example - The user has a good chance of entering the URL in the incorrect format​​​![image showing a textfield pre-populated with 'http&#58;//www.'](/PublishingImages/url-field-good.jpg)                        Figure: Good example - User immediately knows the format expected
