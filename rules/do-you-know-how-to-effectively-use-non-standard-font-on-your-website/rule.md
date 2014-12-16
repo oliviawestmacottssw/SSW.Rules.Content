@@ -20,8 +20,8 @@ In some cases you may need to display text content on your page with a specific 
 6. Webfont services
 
 
-​​Each method mentioned above has their disadvantages. We discourage #1 and #2 - Images are bad for Google juice and cannot be selected;​ sFIR uses old technology based on nearly dead Flash.
+​​Each method mentioned above has their disadvantages. We discourage #1 - Images are bad for Google juice and cannot be selected;​ and #2 - sFIR uses old technology based on nearly dead Flash.
 
-For more information on the other methods read: [The best way to serve fonts to your website](http&#58;//www.webdesignerdepot.com/2014/03/the-best-way-to-serve-fonts-to-your-website/%E2%80%8B).
-
+For more information on the differences between the other methods read: The best way to serve fonts to your website.
+​
 
