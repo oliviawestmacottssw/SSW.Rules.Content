@@ -12,7 +12,7 @@ authors:
 ---
 
 
-If a client says:
+​If a client says:
 
 *"This application is too slow, I don't really want to put up with such poor performance. Please fix."*
 
@@ -30,7 +30,7 @@ A better way is:
 - Reply to the customer:
  "It was 22 seconds, you asked for around 10 seconds. It is now 8 seconds."
 
-![ ](/Management/RulesToSuccessfulProjects/PublishingImages/Code-Auditor-performance.jpg)Figure: Good example – Add some code to check the timing, before fixing any performance issues (An example from SSW Code Auditor)
+![ ](/PublishingImages/Code-Auditor-performance.jpg)Figure: Good example – Add some code to check the timing, before fixing any performance issues (An example from SSW Code Auditor)
 This is because performance is an emotional thing, sometimes it just \*feels\* slower. Without numbers, a person cannot really know for sure whether something has become quicker.
 
 #### Related
@@ -39,6 +39,6 @@ For sample code on how to measure performance for windows application form, plea
 ​<br>   
 ### Related Rule​
 
-- ​[Do you keep your website loading ti​me acceptable?​](/WebSites/RulesToBetterWebsiteDevelopmentASPDotNet/Pages/keep-your-website-loading-time-acceptable.aspx)
+- ​[Do you keep your website loading ti​me acceptable?​](/do-you-keep-your-website-loading-time-acceptable)
 
 
