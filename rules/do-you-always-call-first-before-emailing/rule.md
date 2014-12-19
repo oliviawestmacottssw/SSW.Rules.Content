@@ -9,8 +9,10 @@ authors:
 
 ---
 
- To prevent downtime waiting for a response you should always call first before emailing. 
-​Calling first can save valuable time versus waitng for someone to respond to your email, making you more productive.  [Do you seek clarification via the telephone first? ​](/Communication/RulesToBetterEmail/Pages/SeekClarificationViaTelephoneFirst.aspx)​as calling first also saves time when discussing topics that are easier explained over the phone. ​
+ ​​To prevent downtime waiting for a response you should always call first before emailing. 
+​
+
+Calling first can save valuable time versus waitng for someone to respond to your email, making you more productive. [Do you seek clarification via the telephone first? ​](/Communication/RulesToBetterEmail/Pages/SeekClarificationViaTelephoneFirst.aspx)​as calling first also saves time when discussing topics that are easier explained over the phone. ​
 
 When you need to contact someone the steps you should take are:
 
