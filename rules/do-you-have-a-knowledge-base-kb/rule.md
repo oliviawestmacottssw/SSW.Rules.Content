@@ -77,7 +77,7 @@ Thank you for taking the time to report the issue for SSW Code Auditor. I'm happ
 
 Please download the new version at [http://www.ssw.com.au/ssw/Download/download.aspx](http&#58;//www.ssw.com.au/ssw/Download/download.aspx)
 
-P.S. Don't forget to run SSW Diagnostics and gets all green ticks [www.ssw.com.au/diagnostics](/Standards/Management/RulesToSuccessfulProjects/Pages/www.ssw.com.au/diagnostics)
+P.S. Don't forget to run SSW Diagnostics and gets all green ticks [www.ssw.co​m.au/diagnostics](http&#58;//www.ssw.com.au/SSW/Diagnostics/default.aspx)
 
 Kind Regards, 
 Bob
