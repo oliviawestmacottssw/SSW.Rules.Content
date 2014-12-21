@@ -17,7 +17,7 @@ authors:
 
 
 
-| ![Carry the right tools and you'll rescue someone, one day...](/Management/RulesToSuccessfulProjects/PublishingImages/StBernardDog.jpg)  |
+| ![Carry the right tools and you'll rescue someone, one day...](/PublishingImages/StBernardDog.jpg)  |
 | --- |
 | Figure: St. Bernards are known for rescuing lost mountaineers, bringing life saving provisions |
 
@@ -40,8 +40,8 @@ We have one guy in our office who carries two bags, each weighing about 10 kgs. 
 
  If you need to quickly share something with your mate:
 
-- Use a thumb drive that you carry as per [Rules to better Software Consultants - Carry a thumb drive](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Always-carry-a-USB-drive.aspx)
-- Setup a wireless ad hoc network as per [http://www.addictivetips.com/windows-tips/create-a-quick-ad-hoc-wireless-network-connection-between-two-computers-in-windows-vista/](http&#58;//www.addictivetips.com/windows-tips/create-a-quick-ad-hoc-wireless-network-connection-between-two-computers-in-windows-vista/) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")
+- Use a thumb drive that you carry as per [Rules to better Software Consultants - Carry a thumb drive](/do-you-carry-your-usb-flash-drive-on-your-key-ring)
+- Setup a wireless ad hoc network as per [http://www.addictivetips.com/windows-tips/create-a-quick-ad-hoc-wireless-network-connection-between-two-computers-in-windows-vista/](http&#58;//www.addictivetips.com/windows-tips/create-a-quick-ad-hoc-wireless-network-connection-between-two-computers-in-windows-vista/) ​
 
 
 
