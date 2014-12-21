@@ -105,7 +105,7 @@ Dear Harry,
 
 Thanks for the suggestion for SSW Code Auditor!
 
-I have added it to the list of future developments (which we call our backlog). Future features can be voted on at [uservoice.com](http&#58;//uservoice.com/) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW").
+I have added it to the list of future developments (which we call our backlog). Future features can be voted on at [uservoice.com](http&#58;//uservoice.com/) ​.
 
 Thanks,
 John Prince
