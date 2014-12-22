@@ -31,4 +31,10 @@ Here's an example of how FieldSet works:
 </fieldset>
 ```
 
-Figure: Example code of FieldSet​<br>![](/DesignandPresentation/RulestoBetterInterfacesForms/PublishingImages/fieldset-browser.jpg)Figure: How that code will look on the browser
+Figure: Example code of FieldSet​ <br>   ![](/DesignandPresentation/RulestoBetterInterfacesForms/PublishingImages/fieldset-browser.jpg)Figure: How that code will look on the browser
+​ Things to remember:
+
+1. Wrap logical control groups in a &lt;fieldset&gt;.
+2. The first child of a &lt;fieldset&gt; should be a &lt;legend&gt;, so the user knows what to expect in that section.
+
+​  
