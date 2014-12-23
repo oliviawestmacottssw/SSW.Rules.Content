@@ -18,7 +18,7 @@ Whereas a button indicates that something is being processed - "When I click thi
  
 #### Note: If you are using an automated link checker
 
-It is important you use buttons for updating or deleting data on your website. The main reason is problems will occur when you run a link checker (we run [SSW Link Auditor](/ssw/LinkAuditor/)), and you have data driven pages with "Update" or "Delete" hyperlinks. The link checker will try to go to all associated links and potentially delete a lot of data from your website database.
+It is important you use buttons for updating or deleting data on your website. The main reason is problems will occur when you run a link checker (we run [SSW Li​nk Auditor](http&#58;//www.ssw.com.au/ssw/LinkAuditor/)), and you have data driven pages with "Update" or "Delete" hyperlinks. The link checker will try to go to all associated links and potentially delete a lot of data from your website database.
 
 But you say "My Delete links have JavaScript protection e.g. Are you sure you want to delete?". It is still no good because link checkers ignore all JavaScript validation.
 
@@ -33,4 +33,4 @@ That being said, there are a couple of exceptions to this rule.
 1. If you want the user to be able to right click and "Open in New Window"
 2. If you want a consistent design feel (and there is no confusion that the link is accepting data)
 
-![Links Example](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/LinksExample.gif)Figure: An exception to the rule - an "Update" button inside the datagrid would look inconsistent![Links Vs Button](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/LinkVsButton.gif)Figure: Bad Example - The "sign in" hyperlink should be a button![Correct sign in](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/Logon.gif)Figure: Good Example - This is a perfect example of how a good sign in screen should look
+![Links Example](/PublishingImages/LinksExample.gif)Figure: An exception to the rule - an "Update" button inside the datagrid would look inconsistent![Links Vs Button](/PublishingImages/LinkVsButton.gif)Figure: Bad Example - The "sign in" hyperlink should be a button![Correct sign in](/PublishingImages/Logon.gif)Figure: Good Example - This is a perfect example of how a good sign in screen should look
