@@ -7,10 +7,10 @@ authors: []
 
 ---
 
- Enter Intro Text 
-​
-
-This cannot be stressed enough. The venue for your event is the absolute most important item to get right and to get locked in. An ideal venue should be addressing all of the following
+ 
+​This cannot be stressed enough. The venue for your event is the absolute most important item to get right and to get locked in.​
+ 
+​ An ideal venue should be addressing all of the following
 
 - ​​Be able to accommodate the desired amount of people
 - Offer appropriate audio and visual equipment for the talks, such as microphones, projectors and power sources
