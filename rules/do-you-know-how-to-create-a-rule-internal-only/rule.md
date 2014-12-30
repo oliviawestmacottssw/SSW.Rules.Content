@@ -15,18 +15,20 @@ authors:
 1. Log in to <br>      [http://rules.ssw.com.au/admin/Pages/default.aspx​](/admin/Pages/default.aspx)
 2. Go to the category index. E.g For “Communication” go to http://rules.ssw.com.au/Communicatio​n/Pages/default.aspx
 3. Then to the subcategory E.g. http://rules.ssw.com.au/Communication/RulesToBetterSomething​
-4. Click on “Add a page” <br>      <dl class="image"><dt> 
+**Note:** It's very **important **to make sure you are at the right location before creating a rule!!!​
+4. Click on “Add a page”
+5. <dl class="image"><dt> 
             <img alt="Create Rule" src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/create-rule1.jpg"> 
          </dt></dl>    Note: Each rule will be a “page” on SharePoint – with its own URL - differently from old aspx, where rules where sections on a single page.
-5. ​Add the URL <br>      <dl class="image"><dt> 
+6. ​Add the URL <br>      <dl class="image"><dt> 
             <img alt="Create Rule" src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/create-rule2.jpg"> 
          </dt></dl>    Note: We use only the most important words of a rule title. The words in           **purple** are typically not used.
     E.g. #1 “**HTML/CSS - Do you know how to create spaces in a web page?**” should be “http://rules.ssw.com.au/WebSites/RulesToBetterWebsitesLayout/Pages/How-to-create-spaces-in-a-web-page.aspx”
     E.g. #2 “**Do you​ use "list" tags for lists only?**” should be “http://rules.ssw.com.au/WebSites/RulesToBetterWebsitesLayout/Pages/Use-list-tags-for-lists-only.aspx”
-6. ​​Add the rule title <br>      <dl class="image"><dt> 
+7. ​​Add the rule title <br>      <dl class="image"><dt> 
             <img alt="Create Rule" src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/create-rule3.jpg"> 
          </dt></dl>
-7. ​​**IMPORTANT** – Adding rule intro + content <br>          You have three options:
+8. ​​**IMPORTANT** – Adding rule intro + content <br>          You have three options:
 
     1. ​​**Option 1** – Start from scratch - Write content down on the fields
     2. ​​**Option 2** - Paste the content from another place - a HTML page on the browser or a Word document  <br>                    Warning: Select the “Paste Plaintext” when pasting or you will have a lot of work later
@@ -68,26 +70,26 @@ authors:
  E.g. &lt;img src=”http://rules.ssw.com.au/Communication/RulesToBetterBlogging/PublishingImages/RulesBloggingAcknowledgeBad.jpg"&gt;
         7. ​​Double check the links – you might have got a relative link E.g. <br>                  **&lt;a href=”../company/Offices.aspx”&gt; **which will not work because it’s now on a different site.
  So you will need to make it absolute E.g. ​ <br>                  **&lt;a href=”**[**http://www.ssw.com.au/ssw/company/Offices.aspx**](http&#58;//www.ssw.com.au/ssw/)**”&gt;**
-8. ​Add the rule intro <br>          Try to have a catch at the end so the user will want to read the rest of the rule. E.g. “​To reply to a bug effectively and efficiently in your emails, you need to include:”
+9. ​Add the rule intro <br>          Try to have a catch at the end so the user will want to read the rest of the rule. E.g. “​To reply to a bug effectively and efficiently in your emails, you need to include:”
 <dl class="image"><dt>
             <img alt="Create Rule" src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/create-rule13.jpg">
          </dt></dl><dl class="image"><dt> 
             <img alt="Create Rule" src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/create-rule14.jpg"> 
          </dt><dd>Figure&#58; The “Brief Blurb” should clearly explain what the rule is about and have a catch at the end</dd></dl>
-9. Add the rule content <br>      <dl class="image"><dt>
+10. Add the rule content <br>      <dl class="image"><dt>
             <img alt="Create Rule" src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/create-rule15.jpg">
          </dt></dl>
-10. Add the acknowledgements <br>      <dl class="image"><dt>
+11. Add the acknowledgements <br>      <dl class="image"><dt>
             <img alt="Create Rule" src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/create-rule16.jpg">
          </dt></dl>
-11. Hit “Publish” and “Continue” <br>      <dl class="image"><dt>
+12. Hit “Publish” and “Continue” <br>      <dl class="image"><dt>
             <img alt="Create Rule" src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/create-rule17.jpg">
          </dt></dl>
-12. Test on a browser you aren’t logged in. 
+13. Test on a browser you aren’t logged in. 
  Tip: In Chrome, select “New Incognito Window” <br>      <dl class="image"><dt>
             <img alt="Create Rule" src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/create-rule18.jpg">
          </dt></dl>
-13. Check on the subcategory page (e.g. <br>      http://rules.ssw.com.au/Communication/RulesToBetterSomething/ ) if the order is correct <br>      
+14. Check on the subcategory page (e.g. <br>      http://rules.ssw.com.au/Communication/RulesToBetterSomething/ ) if the order is correct <br>      
 If not it’s not correct, you can change the order of rules ​​​by following the instructions below <br>      
 Tip: You might need to refresh the cache – See “Rule Cache Management” <br>      <dl class="image"><dt>
             <img alt="Create Rule" src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/create-rule19.jpg">
