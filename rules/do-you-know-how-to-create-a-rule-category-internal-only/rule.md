@@ -13,7 +13,7 @@ authors:
 
 
 
-Here is how you create a **new** **rule category:**
+Here is how you create a **new** **rule category (or subcategory)​:**
 
 **
 **
