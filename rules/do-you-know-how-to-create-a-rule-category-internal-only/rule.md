@@ -13,16 +13,21 @@ authors:
 
 
 
-Here is how you create a **new** **rule category**:
+Here is how you create a **new** **rule category:**
+
+**
+**
  
-1. ​​Go to [http://rules.ssw.com.au](/)
-2. Click on "Site contents"
-<dl class="image"><dt><img src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/Pages/how-to-create-a-rule-category/site-content.jpg" alt="site-content.jpg">​</dt></dl>
-3. Scroll down and click on "new subsite"
+1. ​​Log in to [http://rules.ssw.com.au/admin/Pages/default.aspx​](/admin/Pages/default.aspx)
+2. It depends on which level of 'rule category' you are going to create, please make sure you have navigate to the correct site level, E.g if you are going to create a "rules to better something" under “Communication” category, please go to http://rules.ssw.com.au/Communicatio​n/Pages/default.aspx before you action the below steps.
+**Note:** It's very **important **to make sure you are at the right location before creating a rule!!!​​
+3. Click on "Site contents"
+<dl class="image"><dt><img src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/Pages/how-to-create-a-rule-category/site-content.jpg" alt="site-content.jpg">​​</dt></dl>
+4. Scroll down and click on "new subsite"
 <dl class="image"><dt>
                <img src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/Pages/how-to-create-a-rule-category/subsites.jpg" alt="subsites.jpg">
             </dt></dl>
-4. Fill the form with the title and URL complement (keep all the ratio buttons as default)
+5. Fill the form with the title and URL complement (keep all the ratio buttons as default)
 <dl class="image"><dt>
                <img src="/Communication/Rules-to-Better-Adding-Rules/PublishingImages/Pages/how-to-create-a-rule-category/subsite-form.jpg" alt="subsite-form.jpg">
             </dt></dl>
