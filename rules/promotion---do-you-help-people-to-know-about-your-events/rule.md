@@ -1,0 +1,36 @@
+---
+type: rule
+title: Promotion - Do you help people to know about your events?
+uri: promotion---do-you-help-people-to-know-about-your-events
+created: 2014-12-31T00:08:10.0000000Z
+authors:
+- id: 62
+  title: Penny Walker
+- id: 57
+  title: Brittany Lawrence
+
+---
+
+ 
+How are you going to have a successful event if no one shows up? ​​
+ 
+You will have to promote your event in any way that makes sense to your topic and approach. The most cost effective way is to use the large variety of online services that are available.
+
+**Meetup**
+
+This is the best way to increase discoverability of your event. Meetup provides the following and more:
+
+- Allows people to search and discover​
+- Allows people to join your group to get updates
+- You can easily list your upcoming events and have people join them
+- Comes with an automatic mailing list so you can send out announcements
+
+
+**Social Media**
+
+In some circumstances it is worth setting up one or more accounts on social media for promoting and corresponding as the event identity. In technical circles it is especially popular to use Twitter as a way to create awareness about events.
+
+**Word of Mouth**
+
+Don't underestimate the power of one friend or colleague telling another. DDD Melbourne sold out in 10 hours with almost no promotion except for Twitter and word of mouth. If you are creating a recurring event, word of mouth becomes extremely important as past experiences flow through the grapevine.
+
