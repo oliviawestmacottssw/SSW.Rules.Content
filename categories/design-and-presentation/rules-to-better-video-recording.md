@@ -45,10 +45,11 @@ index:
 - post-production---do-you-know-how-to-structure-your-files
 - post-production---do-you-have-a-branded-intro-and-outro-in-your-videos
 - production---do-you-know-to-subtitle-your-videos
+- do-you-avoid-dates-text-in-graphics-for-events-promo-videos
 - pre-production---do-you-define-the-level-of-quality-up-front-gold-vs-silver
 - production---do-you-create-a-quiz-immediately-following-production
 
 ---
-<p>​​Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.&#160;<br></p><p>If you still need help, visit <a href="http&#58;//www.ssw.com.au/ssw/Consulting/Video-Production/">Video Production​</a>&#160;<a href="http&#58;//www.ssw.com.au/ssw/Consulting/Default.aspx">​</a>and book in a consultant.​​</p>
+<p>​Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.&#160;</p><p>If you still need help, visit <a href="http&#58;//www.ssw.com.au/ssw/Consulting/Video-Production/">Video Production​</a>&#160;<a href="http&#58;//www.ssw.com.au/ssw/Consulting/Default.aspx">​</a>and book in a consultant.​​</p>
 
 
