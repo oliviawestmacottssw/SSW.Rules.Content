@@ -12,9 +12,9 @@ authors:
 ---
 
  
-TFS and Windows Azure work wonderfully together. It only takes a minute to configure continuous deployment from Team Foundation Service (visualstudio.com) to a Windows Azure Web Site or Cloud Service.
+TFS and Windows Azure work wonderfully together. It only takes a minute to configure continuous deployment from Visual Studio Online (visualstudio.com) to a Windows Azure Web Site or Cloud Service.
 
 This is by far the most simple method to achieve continuous deployment of your websites to Azure.
- ![](/TFS/Rules-to-Better-Continuous-Deployment/PublishingImages/integrate-source-control.jpg)Figure: Setting up deployment from source control is simple from within the Azure portal![](/TFS/Rules-to-Better-Continuous-Deployment/PublishingImages/where-source-code.jpg)Figure: Deployment is available from a number of different source control repositories
+But, if your application is more complicated, or you need to run UI tests as part of your deployment, you should be using Octopus Deploy instead.​ ![](/TFS/Rules-to-Better-Continuous-Deployment/PublishingImages/integrate-source-control.jpg)Figure: Setting up deployment from source control is simple from within the Azure portal![TFS_Deployment.png](/TFS/Rules-to-Better-Continuous-Deployment/PublishingImages/Pages/Publish-Directly-to-Windows-Azure-from-TFS/TFS_Deployment.png)Figure: Deployment is available from a number of different source control repositories
 Suggestion to Microsoft: We hope this functionality comes to on premise TFS and IIS configurations in the next version.​​​
 
