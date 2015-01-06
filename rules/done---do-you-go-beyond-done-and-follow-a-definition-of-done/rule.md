@@ -83,7 +83,7 @@ Start with these examples showing typical "Definitions of Done" from beginner te
 
 - *All of the above, plus*
 - All acceptance criteria have been met
-- All acceptance criteria have an associated test passing (aka. Automated functional testing with Web Tests, Coded UI Tests, or Telerik Tests)
+- All acceptance criteria have an associated test passing (aka. Automated functional testing with Web Tests (Selenium), Coded UI Tests, or Telerik Tests)
 - Sending a Done email (with video recording using Jing)
 
 ![Acceptance Tests in MTM](/Management/RulesToSuccessfulProjects/PublishingImages/AcceptanceTestsInMTM.jpg)Figure: Good example - Acceptance Tests in MTM
