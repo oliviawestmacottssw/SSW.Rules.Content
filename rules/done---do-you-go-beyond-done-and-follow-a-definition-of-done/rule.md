@@ -22,7 +22,7 @@ Every team is different, but all need to agree on which items are in their "Defi
 
 ## Level 1
 
-- Sending a "Done" email
+- Sending a ["Done" email](/Communication/RulesToBetterEmail/Pages/Done-GiveDetailsAndDelete.aspx)​
 
 
 ## Level 2
