@@ -22,7 +22,7 @@ Every team is different, but all need to agree on which items are in their "Defi
 
 ## Level 1
 
-- Sending a ["Done" email](/Communication/RulesToBetterEmail/Pages/Done-GiveDetailsAndDelete.aspx)​
+- Sending a ["Done" email](/dones-do-you-reply-done-and-delete-the-original-email)​
 
 
 ## Level 2
@@ -47,7 +47,7 @@ Subject: RE: Manad - Coded UI Tests #2
 &gt; Create a new CodedUI test on your feedback form – search only to test the Telerik
 
 Done
-![Coded UI Test passes in Visual Studio](/Management/RulesToSuccessfulProjects/PublishingImages/level-3-done.jpg)Figure – Coded UI Test passes in Visual Studio
+![Coded UI Test passes in Visual Studio](/PublishingImages/level-3-done.jpg)Figure – Coded UI Test passes in Visual Studio
 Jing Video of the test running:        [http://screencast.com/t/ps17fqsV](http&#58;//screencast.com/t/ps17fqsV)
 
 Figure: Good example - The "done" shows a full scenario
@@ -78,7 +78,7 @@ Start with these examples showing typical "Definitions of Done" from beginner te
 - Code reviewed by one other team member (e.g. Checked by Bill)
 - Sending a Done email with screenshots
 
-![Check in policy](/Management/RulesToSuccessfulProjects/PublishingImages/CheckinPolicy.jpg)Figure: Good example - Add check in policies to enforce your Definition of Done
+![Check in policy](/PublishingImages/CheckinPolicy.jpg)Figure: Good example - Add check in policies to enforce your Definition of Done
 ## Team - Level 4
 
 - *All of the above, plus*
@@ -86,7 +86,7 @@ Start with these examples showing typical "Definitions of Done" from beginner te
 - All acceptance criteria have an associated test passing (aka. Automated functional testing with Web Tests (Selenium), Coded UI Tests, or Telerik Tests)
 - Sending a Done email (with video recording using Jing)
 
-![Acceptance Tests in MTM](/Management/RulesToSuccessfulProjects/PublishingImages/AcceptanceTestsInMTM.jpg)Figure: Good example - Acceptance Tests in MTM
+![Acceptance Tests in MTM](/PublishingImages/AcceptanceTestsInMTM.jpg)Figure: Good example - Acceptance Tests in MTM
 ## Team - Level 5
 
 - *All of the above, plus*
@@ -100,14 +100,14 @@ Start with these examples showing typical "Definitions of Done" from beginner te
 - *All of the above, plus*
 - Multiple environments automatically tested using Lab Management
 
-![Lab management](/Management/RulesToSuccessfulProjects/PublishingImages/LabManagement.jpg)Figure: Good example - A tester Lab Management to create VMs for testing the application, then defines a test plan for that application with Test Case Management
+![Lab management](/PublishingImages/LabManagement.jpg)Figure: Good example - A tester Lab Management to create VMs for testing the application, then defines a test plan for that application with Test Case Management
 ## Team - Level 7
 
 - *All of the above, plus*
 - Automated Load Testing
 - Continuous Deployment
 
-![Acceptance Tests in MTM](/Management/RulesToSuccessfulProjects/PublishingImages/LoadTesting.jpg)Figure: Good example - Load testing involves multiple test agents running Web Performance Tests and pounding the application (simulating the behaviour of many simultaneous users)**Team - Level 8 (Gold)**
+![Acceptance Tests in MTM](/PublishingImages/LoadTesting.jpg)Figure: Good example - Load testing involves multiple test agents running Web Performance Tests and pounding the application (simulating the behaviour of many simultaneous users)**Team - Level 8 (Gold)**
 - *All of the above, plus*
 - Deployed to Production
 
@@ -120,11 +120,11 @@ Congratulations! You are frequently deploying to production. This is called “C
 
 **More Information:​**
 
-- [Do your user stories include acceptance criteria?](/SoftwareDevelopment/RulesToBetterUserAcceptanceTests/Pages/Do-Your-User-Stories-Include-Acceptance-Criteria.aspx)
+- [Do your user stories include acceptance criteria?](/do-your-user-stories-include-acceptance-criteria-%28aka-never-assume-automatic-gold-plating%29)
 - [Do you enforce comments with check-ins?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#EnforceComments "Do you enforce comments with check-ins?")
 - [Do you enforce work item association with check-in?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#EnforceWorkItemAss "Do you enforce work item association with check-in?")
 - [Do you follow a Test Driven Process?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterVersionControlwithTFS%28AKASourceControl%29.aspx#TestDrivenProcess "Do you follow a Test Driven Process?")
 - 
-- [Do you have a "Definition of Ready"?](/Management/RulesToBetterScrumUsingTFS/Pages/Definition-of-Ready.aspx)
+- [Do you have a "Definition of Ready"?](/do-you-have-a-＂definition-of-ready＂)
 
 
