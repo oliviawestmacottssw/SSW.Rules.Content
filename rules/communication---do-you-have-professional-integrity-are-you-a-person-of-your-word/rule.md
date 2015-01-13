@@ -22,8 +22,7 @@ authors:
 3. **If you break your word, acknowledge it, and work out a way to repair your integrity**
     1. ​Recognise the fault and propose a plan for how to do better ​next time
 
- ​
-
+![](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/improve.png)Figure: Good example: Acknowledging an improvement for next time
 People who have integrity:
 
 - Always take full ownership of any task given to them
@@ -31,7 +30,7 @@ People who have integrity:
 - Hold themselves to a high professional standard
 
 
-Bosses with employees who have integrity:
+Bosses with employees who have integrity:​
 
 - Trust their employees
 - Are comfortable delegating more important work
