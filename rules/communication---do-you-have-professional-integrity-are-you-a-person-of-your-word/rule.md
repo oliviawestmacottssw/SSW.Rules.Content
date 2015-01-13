@@ -15,14 +15,14 @@ authors:
 ​The word “integrity” can be loaded with ethical connotations, but in this context, integrity means:
  
 1. **​Being true to your word**
-    1. This means doing what you say you’d​ do, by the time you said you’d do it
+    1. This means doing what you say you’ll do, by the time you say you’ll do it
 2. **If you can’t deliver on your promise, have a plan for a path forward**
     1. If you can’t get the agreed task done by the deadline, tell the person why and set a new deadline, or agree on a different deliverable.
     2. Never leave them guessing
 3. **If you break your word, acknowledge it, and work out a way to repair your integrity**
     1. ​Recognise the fault and propose a plan for how to do better ​next time
 
-
+ ​
 
 People who have integrity:
 
