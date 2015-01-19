@@ -29,11 +29,11 @@ Office 2003:1. Can't create new or Open documents with managed metadata
 
  See more: 
 
-[https://www.nothingbutsharepoint.com/sites/devwiki/articles/Pages/Managed-Metadata-Columns-in-Office-2007.aspx](https&#58;//www.nothingbutsharepoint.com/sites/devwiki/articles/Pages/Managed-Metadata-Columns-in-Office-2007.aspx)
+[https://www.nothingbutsharepoint.com/2010/12/21/managed-metadata-columns-in-office-2007-aspx-2/](https&#58;//www.nothingbutsharepoint.com/2010/12/21/managed-metadata-columns-in-office-2007-aspx-2/)![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
 
 Best Solution:
 
- Use a 3rd party solution - the best one being OnePlaceMail which provides a UI for managed metadata via the "Save to SharePoint". Works with all three versions of Office so users get a consistent UI. 
+ Use a 3rd party solution - the best one being OnePlaceMail which provides a UI for managed metadata via the "Save to SharePoint". Works with all three versions of Office so users get a consistent UI.     
 
 ![](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/OnePlaceMail.jpg)
 Figure: The optional save dialog that pops up when saving document to SharePoint - allowing use of Managed Metadata from Office 2003, 2007 and File Explorer
