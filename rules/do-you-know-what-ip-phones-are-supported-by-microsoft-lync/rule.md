@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Before you rush out to purchase IP phones for the new Lync solution you have wanted to implement, you will need to consider if the IP phone are officially supported by Lync. At the time this article was published, Cisco is yet to offer a phone which supports Lync.   As per  [IP Desk Phones page](http&#58;//technet.microsoft.com/en-us/lync/gg278172) we can see there are three vendors which supply IP phones which are supported by Lync. These three vendors are: 
+ Before you rush out to purchase IP phones for the new Lync solution you have wanted to implement, you will need to consider if the IP phone are officially supported by Lync. At the time this article was published, Cisco is yet to offer a phone which supports Lync.   As per  [IP Desk Phones page](http&#58;//technet.microsoft.com/en-us/lync/gg278172) we can see there are three vendors which supply IP phones which are supported by Lync. These three vendors are:  
 
 
 - SNOM
@@ -32,7 +32,24 @@ Our review:
 
 
 While the differences between the different vendors were not hugely significant, SSW decided to go with SNOM as our base IP phone.
- We also wanted standalone phones that did not require a computer.​
+
+We also wanted standalone phones that did not require a computer.​
 
 Read more about     [​implementing Microsoft Lync](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx).
-​  
+
+### ​Set up phone
+
+
+1. Log on to SNOM Phone, press a key to continue
+![step-1.png](/PublishingImages/step-1.png)
+2. Enter in your SIP-URI, that is emailaddress@ssw.com.au and press the green tick
+![step-2](/PublishingImages/step-2.jpg)
+3. Enter in your Domain\Username, that is ssw2000\username and press the green tick
+![step-3](/PublishingImages/step-3.jpg)
+4. Enter in your AD password and press the green tick
+![step-4](/PublishingImages/step-4.jpg)
+
+
+Congratulations, you are now able to make and receive phone calls. 
+
+
