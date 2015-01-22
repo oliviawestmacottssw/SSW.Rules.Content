@@ -14,10 +14,6 @@ authors:
 
 A common example is bus and train fares to client sites. Amounts under $40 should be reimbursed through Petty Cash.
  
-If greater than $40 then use the     [expense claim form](http&#58;//www.ssw.com.au/ssw/StandardsInternal/Forms/ExpensesReimbursement.xls).
-
-Use     [the KM reimbursement form](http&#58;//www.ssw.com.au/ssw/StandardsInternal/Forms/ExpensesReimbursementKM.xlt) if you want your reasonable km expenses reimbursed.
-
 Remember to treat your company's money like your own and minimize costs where possible. Try to search around for a better price before committing to a purchase.
 
 All expense claims must:
