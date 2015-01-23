@@ -19,10 +19,10 @@ You can take screen captures to the next level by adding balloons that have the 
 The balloon is great because you can point to a specific part of the image. It is much easier than reading the old ‘Wall of Text’.
 
 Let's look at bad and good examples:
-       ![Baloon Bad Example](/Communication/RulesToBetterEmail/PublishingImages/BalloonBadExample.jpg) Figure: Bad example – The email is using a screenshot so that is good, but you need to read the text and relate it to the image
-![Check the shadow properties](/Communication/RulesToBetterEmail/PublishingImages/BalloonGoodExample.jpg)Figure: Good example – The balloon with text on the screenshot, makes it quicker to understand
-See more details on [how to configure balloons branding in Fullshot and Snagit](/Communication/RulesToBetterEmail/Pages/HowToConfigureBalloonBranding.aspx).
+       ![Baloon Bad Example](/PublishingImages/BalloonBadExample.jpg)Figure: Bad example – The email is using a screenshot so that is good, but you need to read the text and relate it to the image
+![Check the shadow properties](/PublishingImages/BalloonGoodExample.jpg)Figure: Good example – The balloon with text on the screenshot, makes it quicker to understand
+See more details on     [how to configure balloons branding in Fullshot and Snagit](/Pages/HowToConfigureBalloonBranding.aspx).
 
 Now be aware not to crazy with this balloon rule.
-![Balloon Bad Example](/Communication/RulesToBetterEmail/PublishingImages/Balloon-overload.jpg) Figure: Bad example – Balloon overload
-![Balloon good example](/Communication/RulesToBetterEmail/PublishingImages/Balloon-not-needed.jpg)Figure: Good example – See 3 balloons were not needed 
+![Balloon Bad Example](/PublishingImages/balloon-overload.jpg)Figure: Bad example – Balloon overload
+![Balloon good example](/PublishingImages/balloon-not-needed.JPG)Figure: Good example – See 3 balloons were not needed Figure: Good example – Betsy Weber Techsmith - Part 1 - Creator of Snagit. See [full series here](http&#58;//tv.ssw.com/204/betsy-weber-teched-interview)​  
