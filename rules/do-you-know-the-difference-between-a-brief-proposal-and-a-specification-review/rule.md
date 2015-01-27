@@ -17,11 +17,11 @@ authors: []
 - The next steps
 
 
-[Specification Review](/management/rulestobetterspecificationreviews/pages/default.aspx)![](/Style%20Library/SSW/CoreImages/IconNewWindow.png "This opens in a New Window")![](/Style%20Library/SSW/CoreImages/IconNewWindow.png "This opens in a New Window")![](/Style%20Library/SSW/CoreImages/IconNewWindow.png "This opens in a New Window")![](/Style%20Library/SSW/CoreImages/IconNewWindow.png "This opens in a New Window")![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window")![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window")![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window") - billed:
+[Specification Review](/management/rulestobetterspecificationreviews/pages/default.aspx)![](/Style%20Library/SSW/CoreImages/IconNewWindow.png "This opens in a New Window") - billed:
 
 - A technical document listing in detail what technologies will be used and how
 - Most likely includes initial release plans and ballparks
 
 
-[See](/management/rulestobetterspecificationreviews/pages/default.aspx)![](/Style%20Library/SSW/CoreImages/IconNewWindow.png "This opens in a New Window")![](/Style%20Library/SSW/CoreImages/IconNewWindow.png "This opens in a New Window")![](/Style%20Library/SSW/CoreImages/IconNewWindow.png "This opens in a New Window")![](/Style%20Library/SSW/CoreImages/IconNewWindow.png "This opens in a New Window")![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window")![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window")![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window")[Rules to Successful Sales Account Management](/Management/RulesToSuccessfulSalesAndAccountManagement/Pages/Meetings-Outcomes-from-initial-meeting.aspx)
+[See](/management/rulestobetterspecificationreviews/pages/default.aspx)![](/Style%20Library/SSW/CoreImages/IconNewWindow.png "This opens in a New Window")[Rules to Successful Sales Account Management](/Management/RulesToSuccessfulSalesAndAccountManagement/Pages/Meetings-Outcomes-from-initial-meeting.aspx)
 
