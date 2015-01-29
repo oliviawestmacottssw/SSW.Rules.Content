@@ -10,9 +10,17 @@ authors:
 ---
 
  
+**Built-in Automatic Backup in Azure SQL Database**​
+
 Microsoft Azure SQL Database has built-in backups to support self-service Point in Time Restore and Geo-Restore for Basic, Standard, and Premium service tiers.
  
-​Built-in Automatic Backup in Azure SQL Database
+​You should use the built in automatic backup in Azure SQL Database versus using T-SQL.
+
+
+> ​  ​​​    T-​​​SQL: CREATE DATABASE destination\_database\_nameAS COPY OF[source\_server\_name].source\_database\_name​​​​
+
+Figure: Bad example - Using T-SQL to restore your database​![Azure-restore.jpg](/SoftwareDevelopment/Rules-to-Better-Azure/SiteAssets/Pages/Do-You-Know-How-to-Backup-Data-on-SQL-Azure/Azure-restore.jpg)​Figure: Good example - Using the built in SQL Azure Database automatic backup system to restore your database
+
 
 Azure SQL Database automatically creates backups of every active database using the following schedule: Full database backup once a week, differential database backups once a day, and transaction log backups every 5 minutes. The full and differential backups are replicated across regions to ensure availability of the backups in the event of a disaster.
 
@@ -32,7 +40,7 @@ Backup storage is the storage associated with your automated database backups th
 | Premium | Supported | Supported | 35 days | √ |
 
 
-
+Table: All the modern SQL Azure Service Tiers support back. Web and Business tiers are being retired and do not support backup. Check [Web and Business Edition Sunset FAQ​](https&#58;//msdn.microsoft.com/en-us/library/azure/dn741330.aspx) for up to date retention periods.
 
 **Learn more:**
 
