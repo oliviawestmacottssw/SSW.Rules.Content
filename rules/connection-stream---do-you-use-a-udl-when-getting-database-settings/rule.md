@@ -12,7 +12,7 @@ Why do people always invent ways of getting the same old server name and a datab
    ​![Custom database connection screen ](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/CustomDatabaseConnectionScreen.jpg)Figure: Bad Example - Custom database connection screen in Speed Ferret
 While a nice form, it would have taken quite some developer time to get it right. Not only that, it is a little bit different than what a user has seen before. Now look at this UDL from one of our utilities [SSW SQL Auditor](http&#58;//www.ssw.com.au/ssw/SQLAuditor):
 ![Standard Microsoft UDL dialog](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/StandardMSUDLDialog.jpg)Figure: Good Example - Standard Microsoft UDL dialog
-Every developer has seen this before - so use it. Better still, it is only a few lines of code: [B-Open UDL Dialog-DH.txt](http&#58;//www.ssw.com.au/ssw/KB/Codebase/05VB-Net/B-Open%20UDL%20Dialog-DH.txt) 
+Every developer has seen this before - so use it. Better still, it is only a few lines of code: [B-Open UDL Dialog-DH.txt](https&#58;//gist.github.com/SSWConsulting/60cce3f7a65665d7dae2#file-b-open-udl-dialog-dh) 
 ![ Visual Studio .NET 2005 Microsoft are yet to release an API](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ReleaseAPI.jpg)Figure: Coming in Visual Studio .NET 2005 Microsoft are yet to release an API to do this
 [Need extra information?](http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/MSForm.aspx#InvokingOLEBDataLinkPropertiesDialog)
 
