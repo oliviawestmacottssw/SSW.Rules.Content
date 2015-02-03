@@ -13,14 +13,16 @@ authors:
 
 ---
 
- ​​​If you wish to organize a meeting that involves some of your colleagues and a client, instead of sending an email, send an appointment. Sending appointments is convenient because all the user has to do is click 'accept' and it is in their calendar.  ![Outlook Appointment](/Communication/RulesToBetterEmail/PublishingImages/OutlookAppointment.gif) Figure: Use Outlook appointments to easily synchronise your calendar with your client's 
+ ​​​If you wish to organize a meeting that involves some of your colleagues and a client, instead of sending an email, send an appointment. Sending appointments is convenient because all the user has to do is click 'accept' and it is in their calendar.  <dl class="image"><dt>
+      <img class="ms-rteCustom-ImageArea" alt="Outlook Appointment" src="/PublishingImages/OutlookAppointment.gif"> 
+   </dt><dd>Figure&#58; Use Outlook appointments to easily synchronise your calendar with your client's</dd></dl>
 This way Outlook will remind your colleagues about the appointment and you can update them if any changes are made.
 
-If the appointment is for **3 days or less**, send a separate appointment for each day. This is because multiple-day appointments appear at the top in your Outlook Calendar, so you risk missing the appointment (see below).
-![Bad Multiple Day Appointment](/Communication/RulesToBetterEmail/PublishingImages/BadMultipleDayAppointment.gif) Figure: Bad Example - Multiple-day appointments appear hidden at the top of your Outlook calendar, so you might miss it, thinking that the time is free ![Good Single Day Appointments](/Communication/RulesToBetterEmail/PublishingImages/GoodSingleDayAppointments.gif) Figure: Good Example - Send a separate appointment for each day so you can clearly see it in your Outlook calendar
-
-
-You should always have calendar on your phone,<br>so we can quickly add a client booking into the calendar, then add a note what<br>to do with CRM (e.g. Uly please set regarding flag)​.
-
-
+If the appointment is for     **3 days or less**, send a separate appointment for each day. This is because multiple-day appointments appear at the top in your Outlook Calendar, so you risk missing the appointment (see below).
+<dl class="badImage"><dt> 
+      <img alt="Bad Multiple Day Appointment" src="/PublishingImages/BadMultipleDayAppointment.gif" style="width&#58;600px;">
+   </dt><dd>Figure&#58;&#160;Bad Example - Multiple-day appointments appear hidden at the top of your Outlook calendar, so you might miss it, thinking that the time is free </dd></dl><dl class="goodImage"><dt> 
+      <img alt="Good Single Day Appointments" src="/PublishingImages/GoodSingleDayAppointments.gif" style="width&#58;600px;">
+   </dt><dd>Figure&#58; Good Example -&#160;Send a separate appointment for each day so you can clearly see it in your Outlook calendar</dd></dl>
+You should always have calendar on your phone, so we can quickly add a client booking into the calendar, then add a note what to do with CRM (e.g. Uly please set regarding flag)​.
 
