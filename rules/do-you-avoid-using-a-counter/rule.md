@@ -12,5 +12,5 @@ In the past, Web people thought it would be useful to tell people how many visit
 
 Behind-the-scenes Web tracking software now makes it possible to get  rid of the    counters and most professional sites have. Google Analytics allows  them to track their visitors much more comprehensively and use the    statistics to guide their marketing efforts.
 
-See our [to Better Google Analytics Reports](/WebSites/RulestoBetterGoogleAnalyticsReports/Pages/default.aspx)
+See our [to Better Google Analytics Reports](/rules-to-better-google-analytics-reports)
  
