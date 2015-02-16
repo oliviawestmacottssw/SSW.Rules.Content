@@ -8,7 +8,7 @@ authors: []
 ---
 
  
-Avoid forcing users to click to another page for more information.
+You should always avoid forcing users to click to another page if possible. Additional information can be shown on hover as a tooltip, or applications allow for inline editing.
  
 ​
 ![](http&#58;//www.ssw.com.au/SSW/Standards/Rules/images/Clickingthrough.jpg)Figure: Good example - Information is shown <br>         on hover, not an additional link
