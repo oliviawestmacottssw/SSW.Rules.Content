@@ -21,18 +21,14 @@ For example: This is a list of AD groups associated with products.
 SugarLearningEvents
  CodeAuditorAlerts
  LinkAuditorDevs
-
-**Figure: Bad Example – It is difficult to know the correct name for an AD group​**
-
+ <br>   Figure: Bad Example – It is difficult to know the correct name for an AD group​ 
 SugarLearning
  SugarLearningEvents
  CodeAuditor
  CodeAuditorEvents
  LinkAuditor
  LinkAuditorEvents
-​  
-**Figure: Good Example – By standardising the names of AD groups it saves confusion.**
-
+​   <br>   Figure: Good Example – By standardising the names of AD groups it saves confusion. 
 It is recommend by default having two AD groups, use the following table as a guide.
 
 
