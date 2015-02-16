@@ -18,23 +18,23 @@ authors:
 
 For example: This is a list of AD groups associated with products.
 
-SugarLearningEvents
- CodeAuditorAlerts
- LinkAuditorDevs
+SSWSugarLearningEvents
+ SSWCodeAuditorAlerts
+ SSWLinkAuditorDevs
  <br>   Figure: Bad Example – It is difficult to know the correct name for an AD group​ 
-SugarLearning
- SugarLearningEvents
- CodeAuditor
- CodeAuditorEvents
- LinkAuditor
- LinkAuditorEvents
+SSWSugarLearning
+ SSWSugarLearningEvents
+ SSWCodeAuditor
+ SSWCodeAuditorEvents
+ SSW​LinkAuditor
+ SSWLinkAuditorEvents
 ​   <br>   Figure: Good Example – By standardising the names of AD groups it saves confusion. 
 It is recommend by default having two AD groups, use the following table as a guide.
 
 
 | Name | Type | Purpose |
 | --- | --- | --- |
-| &lt;ProductName&gt; | Distribution group | This email is using to send emails to the development team for a product. |
-| &lt;ProductName&gt;Events | Mailbox | Acts as the collection point for all automatic notifications. For example notifications from Elmah and application insights. |
+| SSW&lt;ProductName&gt; | Distribution group | This email is using to send emails to the development team for a product. |
+| SSW​&lt;ProductName&gt;Events | Mailbox | Acts as the collection point for all automatic notifications. For example notifications from Elmah and application insights. |
 
 ​​  
