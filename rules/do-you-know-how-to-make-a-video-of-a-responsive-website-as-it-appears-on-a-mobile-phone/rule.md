@@ -34,7 +34,11 @@ Figure: How to adjust the video canvas in Camtasia to export HD video to YouTube
 5. You can directly upload you video to YouTube from Camtasia by clicking on share in the main menu and entering your credentials.
 
 
-**More resources**
+**Example video​**
+
+​You can watch an example of a videoshot of a mobile view using these tools here. https://www.youtube.com/watch?v=eyiqryb5y1Y​**
+**
+
 
 - ​​[Camtasia video tools](http&#58;//www.techsmith.com/camtasia.html)
 - [Chrome Device Mode & Mobile Emulation​​](https&#58;//developer.chrome.com/devtools/docs/device-mode)
