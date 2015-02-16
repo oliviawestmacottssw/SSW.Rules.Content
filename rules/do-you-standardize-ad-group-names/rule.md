@@ -12,7 +12,9 @@ authors:
 ---
 
  
-​The use of standardised AD Group names is a simple yet crucial step, towards building a more manageable software. Raining in on the number of AD Groups will make it simpler to manage and allow new developers to pick up an existing projecting faster.
+​​The use of standardised AD Group names is a simple yet crucial step, towards building a more manageable software. Raining in on the number of AD Groups will make it simpler to manage and allow new developers to pick up an existing projecting faster.
+ 
+​​The use of standardised AD Group names is a simple yet crucial step, towards building a more manageable software. Raining in on the number of AD Groups will make it simpler to manage and allow new developers to pick up an existing projecting faster.
 
 **You can save yourself countless confused conversations by standardising AD Group Names.​**
 
@@ -30,7 +32,7 @@ SugarLearning
  CodeAuditorEvents
  LinkAuditor
  LinkAuditorEvents
-​<br>
+​  
 **Figure: Good Example – By standardising the names of AD groups it saves confusion.**
 
 It is recommend by default having two AD groups, use the following table as a guide.
@@ -41,6 +43,4 @@ It is recommend by default having two AD groups, use the following table as a gu
 | &lt;ProductName&gt; | Distribution group | This email is using to send emails to the development team for a product. |
 | &lt;ProductName&gt;Events | Mailbox | Acts as the collection point for all automatic notifications. For example notifications from Elmah and application insights. |
 
-​ <br>
-
- 
+​​  
