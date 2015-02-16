@@ -13,23 +13,27 @@ authors:
 
 
 
-<span class='intro'> <p>When creating&#160;links,​​ you should&#160;follow a few basic rules&#58;
-​                <br></p> </span>
+<span class='intro'> <p>When I create links I follow a few basic rules&#58;
+                </p> </span>
 
-<ol><li>If your link is an internal link, then it should navigate&#160;within the same window. If the link is external, it should open in a new tab and be visually clear to the user that it will lead them away from the current site, that way it is not a surprise.<br></li><li>If a link is to an external site, a 
-      <b>visual indication</b> should be provided to the user like this&#58; 
-      <a href="http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/microsoft.htm" target="_blank">This is a link to another site</a>. 
-      <dl class="badImage"><p class="ssw15-rteElement-GreyBox">Search Engines (<a class="ignore" href="http&#58;//www.ssw.com.au/ssw/Redirect/Web/Google.htm" target="_blank">http&#58;//www.google.com</a> is by far the best but try other search engines as well)</p><dd>Figure&#58; Bad example - Without visual indication</dd></dl><dl class="goodImage"><p class="ssw15-rteElement-GreyBox">Search Engines (<a href="http&#58;//www.ssw.com.au/ssw/Redirect/Web/Google.htm" target="_blank">http&#58;//www.google.com</a>&#160;is by far the best but try other search engines as well</p><dd>Figure&#58; Good example - With visual indication<br></dd></dl></li><li>External link 
-      <strong>external indicators should be inserted by CSS</strong> as following&#58; 
-      <dl class="goodImage"><p class="ssw15-rteElement-CodeArea">a[href*=&quot;//&quot;]&#58;not([href*=&quot;mysite.com&quot;])&#58;after &#123; 
-            <br>&#160; &#160; content&#58; url(https&#58;//www.ssw.com.au/ssw/images/external.gif); 
-            <br>&#160; &#160; padding-left&#58; 4px;<br>&#125;</p><dd>Figure&#58; Good example - Icon is added by CSS via a simple declaration<br></dd></dl></li></ol><p class="ssw15-rteElement-YellowBorderBox">We have a program called 
-   <a href="http&#58;//www.ssw.com.au/ssw/CodeAuditor/">SSW Code Auditor</a> to check for this rule.<br></p> ​<br>
-<div><h3>Related&#160;Rule 
-      <br></h3><ul><li>
-         <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=1d8a7afd-9762-4bfd-971c-cacd787c28bb">
-Do you make external links open on a new tab?​​</a>​<br></li></ul>
-   <br>
-</div>
+<ol><li> If a link is to an external site, a visual indication should be provided to the user like this&#58; 
+      <a target="_blank" href="http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/microsoft.htm">This is a link to another site</a><img title="You are now leaving SSW" src="http&#58;//www.ssw.com.au/ssw/images/external.gif" alt="" style="margin&#58;5px;" /> 
+      <dl class="badImage"><p class="ssw15-rteElement-GreyBox"> Search Engines (<a target="_blank" href="http&#58;//www.ssw.com.au/ssw/Redirect/Web/Google.htm">http&#58;//www.google.com</a> is by far the best but try other search engines as well)</p><dd>Figure&#58; Bad example - Without visual indication</dd></dl><dl class="goodImage"><p class="ssw15-rteElement-GreyBox">Search Engines (<a target="_blank" href="http&#58;//www.ssw.com.au/ssw/Redirect/Web/Google.htm">http&#58;//www.google.com</a> is by far the best but try other search engines as well) </p><dd>Figure&#58; Good example - With visual indication</dd></dl></li><li>
+      All external links should NOT open in a New Window - this behaviour should be up to the user's discretion and not pre-determined by your site. New windows opening without the user's permission is considered spam behaviour.
+   </li><li>
+      External links should always go through a Redirect file to allow monitoring of click-throughs. We store all redirects in a redirect folder - /ssw/Redirect/[SubCategoryAsRequired] to 
+         <a href="http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterGoogleRankings.aspx#Robotstxtfile">avoid reducing our Google Ranking</a>.
+      <p>
+         <strong>Developer Note&#58;</strong> Do not use META refresh - instead, use server-side code (such as an ASP Response.Redirect), as this will send the proper &quot;Object moved&quot; message to the client and the redirect will be picked up by 
+         <a href="http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/WebdevelopmentTools.aspx#BrokenLinks">SSW Link Auditor</a>. There is also the possibility that the user has disabled META refreshes in the browser security options, as the redirect is performed on the client, not the server. </p><dl class="badImage"><p class="ssw15-rteElement-GreyBox">Microsoft Knowledge Base - 
+            <a target="_blank" href="http&#58;//support.microsoft.com/support">http&#58;//support.microsoft.com/support</a>(Great for issues/bugs in your programs) </p><dd>Figure&#58; Bad example - Go through a direct link</dd></dl><dl class="goodImage"><p class="ssw15-rteElement-GreyBox">Microsoft Knowledge Base - 
+            <a target="_blank" href="http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/MicrosoftSupport.htm">http&#58;//support.microsoft.com/support</a> (Great for issues/bugs in your programs) </p><dd>Figure&#58; Good example - Go through a redirect file</dd></dl><dl class="code"><dt> &lt;% Response.Redirect(&quot;http&#58;//www.link.com&quot;) %&gt; </dt><dd>Figure&#58; Sample Code for a Redirect File</dd></dl></li><li>
+      External link images should be inserted by CSS and not embedded in the page source.
+      <dl class="badImage"><dt>
+            <img src="http&#58;//www.ssw.com.au/SSW/Standards/Rules/images/BadLink.gif" alt="" style="margin&#58;5px;" />
+         </dt><dd>Figure&#58; Bad example - Why is this in my source code?</dd></dl><dl class="goodImage"><dt>
+            <img src="http&#58;//www.ssw.com.au/SSW/Standards/Rules/images/GoodLink.gif" alt="" style="margin&#58;5px;" />
+         </dt><dd>Figure&#58; Good example - Icon is added by CSS via a simple declaration.</dd></dl></li></ol><p>We have a program called 
+   <a href="http&#58;//www.ssw.com.au/ssw/CodeAuditor/">SSW Code Auditor</a> to check for this rule. </p>
 
 
