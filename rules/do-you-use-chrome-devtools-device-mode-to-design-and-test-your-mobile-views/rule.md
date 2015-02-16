@@ -11,7 +11,9 @@ authors:
 
  Making a responisve website work well on a mobile is not easy but with the right tools you can save time and avoid bugs. 
 
-> ​When making a responisve website you should use Chrome DevTools Device Mode ​to test different screen sizes.![bad-rules-testing-responsivewebsites.jpg](/DesignandPresentation/RulestoBetterInterfacesMobile/PublishingImages/Pages/Do-you-use-Chrome-DevTools-Device-Mode-to-design-and-test-your-mobile-views/bad-rules-testing-responsivewebsites.jpg)​
+> ​When making a responisve website you should use Chrome DevTools Device Mode ​to test different screen sizes.​
+> 
+> ​​​
 
 Figure: Bad example - Using your browser to test a responsive website layout.
 ​![2015-02-16_17-44-01.jpg](/DesignandPresentation/RulestoBetterInterfacesMobile/PublishingImages/Pages/Do-you-use-Chrome-DevTools-Device-Mode-to-design-and-test-your-mobile-views/2015-02-16_17-44-01.jpg)
