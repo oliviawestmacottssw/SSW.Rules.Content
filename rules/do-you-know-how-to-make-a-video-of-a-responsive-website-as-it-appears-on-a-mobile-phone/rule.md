@@ -36,7 +36,7 @@ Figure: How to adjust the video canvas in Camtasia to export HD video to YouTube
 
 **Example video​**
 
-​You can watch an example of a videoshot of a mobile view using these tools here. https://www.youtube.com/watch?v=eyiqryb5y1Y​**
+​You can watch an example of a video shot of a mobile view using these tools [here.​](https&#58;//www.youtube.com/watch?v=eyiqryb5y1Y) ​**
 **
 
 
