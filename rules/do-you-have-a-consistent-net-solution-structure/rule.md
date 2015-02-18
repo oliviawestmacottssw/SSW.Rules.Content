@@ -12,15 +12,15 @@ authors:
 ---
 
  
-​​​When developing software, we implement a [dependency injection centric architecture](/SoftwareDevelopment/RulesToBetterMVC/Pages/Use-a-Dependency-Injection-Centric-Architecture.aspx).
- ![Dependency Injection based architecture](/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/dependency-injection-structure.png)Figure: A Dependency Injection based architecture gives us great maintainability![solutionlayout.png](/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/solution-structure.png)Figure: Good Example - The Solution and Projects are named consistently and the Solution Folders organize the projects so that they follow the Onion Architecture
-Dependencies and the application core are clearly separated as per the     [Onion Architecture](/SoftwareDevelopment/RulesToBetterMVC/Pages/Use-a-Dependency-Injection-Centric-Architecture.aspx).
+​​​When developing software, we implement a [dependency injection centric architecture](/do-you-use-a-dependency-injection-centric-architecture).
+ ![Dependency Injection based architecture](/PublishingImages/dependency-injection-structure.png)Figure: A Dependency Injection based architecture gives us great maintainability![solutionlayout.png](/PublishingImages/solution-structure.png)Figure: Good Example - The Solution and Projects are named consistently and the Solution Folders organize the projects so that they follow the Onion Architecture
+Dependencies and the application core are clearly separated as per the     [Onion Architecture](/do-you-use-a-dependency-injection-centric-architecture).
 
 In the above example you can clearly see:
 
-- The different layers of the Onion Architecture: see <br>      [Layers of the Onion Architecture](/SoftwareDevelopment/RulesToBetterMVC/Pages/The-layers-of-the-onion-architecture.aspx)
+- The different layers of the Onion Architecture: see <br>      [Layers of the Onion Architecture](/do-you-know-the-layers-of-the-onion-architecture)
 - Unit test and integration test projects: see[Rules to Better Unit Tests](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterUnitTests.aspx)
-- The Documentation solution folder: see <br>      [Do you review the documentation?](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouReviewTheDocumentation.aspx)​
+- The Documentation solution folder: see <br>      [Do you review the documentation?](/do-you-review-the-documentation)​
 - The References solution folder: to hold any 3rd party assemblies that are not available via NuGet
 
 
@@ -36,6 +36,6 @@ We have separated the unit tests, one for each project, for several reasons:
 
 ### Related rule
 
-- [Do you know how to lay out your solution?](/ALM/RulesToBetterVersionControlwithTFS%28AKASourceControl%29/Pages/LayoutSolution.aspx)
+- [Do you know how to lay out your solution?](/do-you-know-how-to-lay-out-your-solution)
 
 
