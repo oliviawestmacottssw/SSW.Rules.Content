@@ -12,7 +12,7 @@ authors:
 ---
 
  
-is important when working in multiple projects to ensure consistent practices.​​
+It ​is important when working in multiple projects to ensure consistent practices.​​
 
 Structuring your repositories consistently makes your project feel professional, and makes it easier to work with as it is predictable.
- ![](/SoftwareDevelopment/RulesToBetterGitHub/PublishingImages/structure-github-bad.jpg)Figure: Bad Example – the folder containing the source code is called ‘trunk’ rather than ‘src’. There is no docs folder containing the important documents as per <br>      [Do you review the documentation?](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouReviewTheDocumentation.aspx)![](/SoftwareDevelopment/RulesToBetterGitHub/PublishingImages/structure-github-good.jpg)Figure: Good example - All documentation Is in the ‘docs’ folder, samples are in the ‘samples’ folder and all the source code is in the ‘src’ folder 
+ ![](/PublishingImages/structure-github-bad.jpg)Figure: Bad Example – the folder containing the source code is called ‘trunk’ rather than ‘src’. There is no docs folder containing the important documents as per <br>      [Do you review the documentation?](/do-you-review-the-documentation)![](/PublishingImages/structure-github-good.jpg)Figure: Good example - All documentation Is in the ‘docs’ folder, samples are in the ‘samples’ folder and all the source code is in the ‘src’ folder 
