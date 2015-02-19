@@ -65,7 +65,13 @@ If you are running a web application on Azure as you should configure you applic
 > EXEC sp\_addrolemember 'db\_ddladmin', myappstaging;
 
 
-**Figure: Example script to create a service user for myappstaging**
+**Script: Example script to create a service user for myappstaging**
+
+**Note: If you are using stored procedures, you will also need to grant execute permissions to the user.  E.g:**
+
+
+> GRANT EXECUTE TO myappstaging
+
 
 Data Source=tcp:xyzsqlserver.database.windows.net,1433; Initial Catalog=myapp-staging-db; User [ID=myappstaging@xyzsqlserver](mailto&#58;ID=myappstaging@xyzsqlserver); Password='\*\*\*\*\*\*\*\*\*\*\*\*\*'
 
