@@ -33,7 +33,7 @@ Most web applications need full read and write access to one database.  In the 
 | ** db\_datareader** | Members of the **db\_datareader **fixed database role can read all data from all user tables. |
 
 
-**Table: Database roles taken from **[**Database-Level Roles**](https&#58;//msdn.microsoft.com/en-us/library/ms189121.aspx) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
+**Table: Database roles taken from **[**Database-Level Roles**](https&#58;//msdn.microsoft.com/en-us/library/ms189121.aspx)![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
 
 If you are running a web application on Azure as you should configure you application to use its own specific account that has some restrictions.  The following script demonstrates setting up an sql user for myappstaging and another for myappproduction that also use EF code first migrations:
 
@@ -41,33 +41,33 @@ If you are running a web application on Azure as you should configure you applic
 > USE master
 > 
 > GO
-> 
+>   
 > CREATE LOGIN myappstaging WITH PASSWORD = '\*\*\*\*\*\*\*\*\*\*\*\*';
-> 
+>  
 > GO
-> 
+>  
 > CREATE USER myappstaging FROM LOGIN myappstaging;
-> 
+>  
 > GO
-> 
+>  
 > USE myapp-staging-db;
-> 
+>  
 > GO
-> 
+>  
 > CREATE USER myappstaging FROM LOGIN myappstaging;
-> 
+>  
 > GO
-> 
+>   
 > EXEC sp\_addrolemember 'db\_datareader', myappstaging;
-> 
+>  
 > EXEC sp\_addrolemember 'db\_datawriter', myappstaging;
-> 
+>  
 > EXEC sp\_addrolemember 'db\_ddladmin', myappstaging;
 
 
 **Figure: Example script to create a service user for myappstaging**
 
-Data Source=tcp:xyzsqlserver.database.windows.net,1433; Initial Catalog=myapp-staging-db; User [ID=myappstaging@xyzsqlserver;Password='\*\*\*\*\*\*\*\*\*\*\*\*\*'](mailto&#58;ID=myappstaging@xyzsqlserver;Password='*************')
+Data Source=tcp:xyzsqlserver.database.windows.net,1433; Initial Catalog=myapp-staging-db; User     [ID=myappstaging@xyzsqlserver;Password='\*\*\*\*\*\*\*\*\*\*\*\*\*'](mailto&#58;ID=myappstaging@xyzsqlserver;Password='*************')
 
 ​**Figure: Example connection string**
 
