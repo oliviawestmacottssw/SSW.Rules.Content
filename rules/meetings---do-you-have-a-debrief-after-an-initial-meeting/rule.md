@@ -10,7 +10,7 @@ authors:
 ---
 
  
-There is always something we can learn from our interactions with clients.
+​             There is always something we can learn from our interactions with clients.
              Initial meetings are a great opportunity to learn how we can fine tune our sales skills. Because there are always 2 SSW representatives in initial meetings with clients (usually an account manager and a developer) you should hold a debrief after the meeting on the way back to the office.
  
 Questions that you should ask each other are:
