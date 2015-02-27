@@ -25,8 +25,10 @@ Having MSBuild or Visual Studio automatically set the AssemblyVersion on build c
 If you are using the GAC, you should adopt a single AssemblyVersion and AssemblyInformationalVersionAttribute and update the AssemblyFileVerison with each build.
  [assembly: AssemblyVersion("2.0.0.0")]
  [assembly: AssemblyFileVersion("2.0.0.1")]
- [assembly: AssemblyInformationalVersion("v2 RTM")] Good example - the best way for Assembly versioning (when using the GAC)
+ [assembly: AssemblyInformationalVersion("My Product 2015 Professional")] Good example - the best way for Assembly versioning (when using the GAC)
 If you're working with SharePoint farm solutions (2007, 2010, or 2013), in most circumstances the assemblies in your SharePoint WSPs will be deployed to the GAC. For this reason development is much easier if you don't change your AssemblyVersion, and increment your AssemblyFileVersion instead.​
+
+The AssemblyInformationalVersion stores the product name as marketed to consumers. For example for Microsoft Office, this would be "Microsoft Office 2013", while the AssemblyVersion would be 15.0.0.0, and the AssemblyFileVersion is incremented as patches and updates are released.
 
 Note: It would be good if Microsoft changed the default behaviour of AssemblyInformationalVersionAttribute to default to the AssemblyVersion. [See Mikes suggestion for improving the version number in the comments here.](http&#58;//msdn.microsoft.com/en-us/library/system.reflection.assemblyinformationalversionattribute.aspx)
 
