@@ -12,12 +12,11 @@ authors:
 ---
 
 ![](/SoftwareDevelopment/RulesToBetterDotNETProjects/PublishingImages/VersionConsistent1.jpg) 
-Figure: Keep these two versions consistent If you are not using the GAC, it is important to keep AssemblyVersion, AssemblyFileVersion and AssemblyInformationalVersionAttribute the same, otherwise it can lead to support and maintenance nightmares. By default these version values are defined in the AssemblyInfo file. In the following examples, the first line is the version of the assembly and the second line is the actual version display in file properties.
+Figure: Keep these two versions consistent If you are not using the GAC, it is important to keep AssemblyVersion, AssemblyFil​eVersion and AssemblyInformationalVersionAttribute the same, otherwise it can lead to support and maintenance nightmares. By default these version values are defined in the AssemblyInfo file. In the following examples, the first line is the version of the assembly and the second line is the actual version display in file properties.
  [assembly: AssemblyVersion("2.0.0.\*")]
  [assembly: AssemblyFileVersion("2.0.0.\*")]
  [assembly: AssemblyInformationalVersion​("2.0.0.\*")] Bad example - AssemblyFileVersion and AssemblyInformationalVersion don't support the asterisk (\*) character
 If you use an asterisk in the AssemblyVersion, the version will be generated as described in the [MSDN documentation](https&#58;//msdn.microsoft.com/en-us/library/system.reflection.assemblyversionattribute.assemblyversionattribute%28v=vs.110%29.aspx). If you use an asterisk in the AssemblyFileVersion, you will see a warning, and the asterisk will be replaced with zeroes. If you use an asterisk in the AssemblyInformationVersion, the asterisk will be stored, as this version property is stored as a string.![AssemblyFileVersion-Warning.png](/SoftwareDevelopment/RulesToBetterDotNETProjects/SiteAssets/Pages/KeepAssemblyVersionConsistent/AssemblyFileVersion-Warning.png)Figure: Warning when you use an asterisk in the AssemblyFileVersion​
-
 [assembly: AssemblyVersion("2.0.\*")]
  [assembly: AssemblyFileVersion("2.0.1.1")]
  [assembly: AssemblyInformationalVersion("2.0")] Good example - MSBuild will automatically set the Assembly version on build (when not using the GAC)
