@@ -38,12 +38,11 @@ If you're de​signing a Web-based application, the decision is harder, but you 
 
 
 
+**What do you name your buttons?**
 
+It's often better to name a button to explain what it does, than to use a generic label like "OK". An explicit label serves as "just-in-time help," giving users more confidence in selecting the correct action.
 
-
-It's often better to name a button to explain what it does than to use a generic label (like "OK"). An explicit label serves as "just-in-time help," giving users more confidence in selecting the correct action.
-
-Make the most commonly selected button the default and highlight it (except if its action is particularly dangerous; in those cases, you want users to explicitly select the button rather than accidentally activating it by hitting Enter).​​
+Make the most commonly selected button the default and highlight it. Except if it's action is particularly dangerous; in those cases, you want users to explicitly select the button rather than accidentally activating it by hitting Enter.​​
 
 
 
