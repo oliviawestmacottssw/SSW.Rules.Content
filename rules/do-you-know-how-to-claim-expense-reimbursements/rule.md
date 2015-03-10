@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ![](/Management/Rules-to-Better-Accounting/PublishingImages/expense-reimbursement.png)
+ ![](/PublishingImages/expense-reimbursement.png)
 ​You should be reimbursed for all reasonable expenses incurred in carrying out your duties, which are above your normal costs, to and from the office.
 
 A common example is bus and train fares to client sites. Amounts under $40 should be reimbursed through Petty Cash.
