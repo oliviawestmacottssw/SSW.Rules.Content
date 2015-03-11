@@ -49,6 +49,7 @@ Make the most commonly selected button the default and highlight it. Except if i
 
 
 - ​[​Nielsen Norman -](http&#58;//www.nngroup.com/articles/ok-cancel-or-cancel-ok/) The usability guru talking about ok and cancel buttons​
+- [SSW Rule - ​Do you know to use Save, Save and Close on a webpage​?​​](/DesignandPresentation/RulestoBetterInterfacesGeneral/Pages/Do-you-know-to-use-Save-and-Close-on-a-webpage.aspx)
 
 
 
