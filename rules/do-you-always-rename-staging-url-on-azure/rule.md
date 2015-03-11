@@ -16,17 +16,27 @@ authors:
 ---
 
  
-Do you feel pain testing your code on Azure staging site? I did because the Url wasn't easy to remember. Follow this rule to increase your productivity.
-
-
+If you use the default Azure staging web site Url, it can be difficult to remember and a waste of time trying to lookup the name everytime you access it. Follow this rule to increase your productivity and make it easier for everyone to access your staging site.
  
 
-| Default Azure Url naming with staged publishing:<br><ul><li><span style="line-height&#58;20px;">Production web site&#58; <strong>sugarlearning.com</strong> (or sugarlearning.azurewebsites.net)</span></li><li><span style="line-height&#58;20px;">Staging web site&#58; <strong><strong>sugarlearning<span style="color&#58;#ff0066;">-staging</span>.azurewebsites.net</strong></strong></span></li></ul> |
+| Default Azure Url:<br><ul><li><strong style="line-height&#58;20px;background-color&#58;initial;"><strong>sugarlearning<span style="color&#58;#ff0066;">-staging</span>.azurewebsites.net</strong></strong><br></li></ul> |
 | --- |
 
-Bad e​​​​xample: Site using the default Url (hard to remember!!)
+Figure: Bad e​​​​xample - Site using the default Url (hard to remember!!)
 
-| Add a CName to resolve default Url like this:<br><ul><li><span style="line-height&#58;20px;">Production web site&#58; <strong>sugarlearning.com</strong> (or sugarlearning.azurewebsites.net)</span></li><li><span style="line-height&#58;20px;">Staging web site&#58; <strong><font color="#ff0066">staging</font></strong>.<strong>sugarlearning.com </strong>(or&#160;sugarlearning-staging.azurewebsites.net)</span></li></ul> |
+| Customized Url:<br><ul><li><strong style="line-height&#58;20px;background-color&#58;initial;"><font color="#ff0066">staging</font></strong><span style="line-height&#58;20px;background-color&#58;initial;">.</span><strong style="line-height&#58;20px;background-color&#58;initial;">sugarlearning.com</strong><br></li></ul> |
 | --- |
 
-​Good ​example: Staging Url having production Url with "staging." prefix
+Figure: ​Good ​example - Staging Url having production Url with "staging." prefix
+​
+
+​​**How to setup a custom Url**
+
+1. Add a CName to the default Url to your DNS server
+
+![2015-03-10_17-13-55.png](/SoftwareDevelopment/Rules-to-Better-Azure/SiteAssets/Pages/Always-rename-staging-Url/2015-03-10_17-13-55.png) Figure: ​Add a CName for the default Url
+
+2. Instruct Azure to have
+
+![custom domains (1).png](/SoftwareDevelopment/Rules-to-Better-Azure/SiteAssets/Pages/Always-rename-staging-Url/custom%20domains%20(1).png)Figure: ​Configure Azure to use the CName
+
