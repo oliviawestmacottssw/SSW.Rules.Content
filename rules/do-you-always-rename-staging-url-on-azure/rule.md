@@ -34,9 +34,9 @@ Figure: ​Good ​example - Staging Url having production Url with "staging." 
 
 1. Add a CName to the default Url to your DNS server
 
-![2015-03-10_17-13-55.png](/SoftwareDevelopment/Rules-to-Better-Azure/SiteAssets/Pages/Always-rename-staging-Url/2015-03-10_17-13-55.png) Figure: ​Add a CName for the default Url
+![2015-03-10_17-13-55.png](/SoftwareDevelopment/Rules-to-Better-Azure/SiteAssets/Pages/Always-rename-staging-Url/2015-03-10_17-13-55.png) Figure: ​ CName being added to DNS for the default Url
 
-2. Instruct Azure to have
+2. Instruct Azure to accept the custom Url
 
-![custom domains (1).png](/SoftwareDevelopment/Rules-to-Better-Azure/SiteAssets/Pages/Always-rename-staging-Url/custom%20domains%20(1).png)Figure: ​Configure Azure to use the CName
+![custom domains (1).png](/SoftwareDevelopment/Rules-to-Better-Azure/SiteAssets/Pages/Always-rename-staging-Url/custom%20domains%20(1).png)Figure: ​ Azure being configured to accept the CName
 
