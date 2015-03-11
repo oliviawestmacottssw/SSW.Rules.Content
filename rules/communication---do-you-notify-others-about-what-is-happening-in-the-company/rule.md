@@ -17,7 +17,7 @@ Examples of events that you should send an email                     around for:
 - An update to a company standard or procedure (including a link to it)
 - Births and marriages
 - Employees who are starting or finishing
-- Anything significant that is happening in your life or the life of a loved one
+- Anything significant that is happening in your life
 
 
 You should really feel free to share any good news you have with everyone. It will                     make the office feel more like a family and not just a place to turn up to work.
