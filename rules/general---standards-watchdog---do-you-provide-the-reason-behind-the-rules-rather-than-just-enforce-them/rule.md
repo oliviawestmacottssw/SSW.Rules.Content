@@ -19,7 +19,7 @@ If you criticize your staff:
 
  
 For example: If one of your responsibilities is to make sure all your developers sent "test please" emails, you can run around with a lot of authority telling them                     they'd better comply, but at soon as you're not around, they will resent you and                     not bother about it.
-A better approach is, when you see developers not sending "test please" emails:
+A better approach is, when you see developers not sending "test please" emails:​
 - Explain that these emails are there to make sure we are working on the right thing in the right way
 - Explain that they save time by getting early feedback, allowing bugs to be fixed while it's still fresh in the developers' minds
 
