@@ -13,7 +13,7 @@ authors:
 
 ---
 
- ​When the user is creating or editing data on a webpage, there are 2 buttons and one link you need to provide. 
+ ​​When the user is creating or editing data on a webpage, there are 2 buttons and one link you need to provide. 
 ​These three options are:
 
 - Save (button) - Saves the data and allows the user to keep editing
@@ -24,7 +24,7 @@ authors:
 
 
 
-![2014-11-27_11-45-25-compressor.png](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/2014-11-27_11-45-25-compressor.png)
+![2014-11-27_11-45-25-compressor.png](/PublishingImages/2014-11-27_11-45-25-compressor.png)
 
 
 **Figure: Bad example - only provided *Save*button and *Cancel*link**
@@ -32,7 +32,7 @@ authors:
 
 
 
-![2014-11-27_13-58-48-compressor.png](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/2014-11-27_13-58-48-compressor.png)
+![2014-11-27_13-58-48-compressor.png](/PublishingImages/2014-11-27_13-58-48-compressor.png)
 
 
 **Figure: Good example - CRM 2013 provides a *****Save *****button a****nd a *Save and Close* button**
@@ -40,11 +40,18 @@ authors:
 
 
 
-![2014-11-27_11-47-40-compressor.png](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/2014-11-27_11-47-40-compressor.png)
+![2014-11-27_11-47-40-compressor.png](/PublishingImages/2014-11-27_11-47-40-compressor.png)
 
 
 **Figure: Better example - SugarLearning provides a *Save*button, a *Save and Close* button and a *Cancel*link**
 
+
+
+
+**Further Reading:**
+
+
+- **[​​​SSW Rule - ​​Do you make your cancel button less obvious?​](/Pages/Do-you-know-to-use-Save-and-Close-on-a-webpage.aspx)**
 
 
 
