@@ -14,7 +14,7 @@ authors:
 ---
 
  
-Always make links perfectly clear.
+​Always make links perfectly clear.
  
 It's very important that your links stand out from the background as well as the surrounding text. A solid underline and a contrasting colour is the usually the best choice, but the exact method is not important as long as the end result stands out. A link should not only be discoverable upon accidental hovering.
 
@@ -26,7 +26,7 @@ Bad Example: This link is hard to recognize.
 Good Example: This link is obvious.
 ​
 
-![good-example-obvious-roll-over.jpg](/WebSites/RulestoBetterWebsitesNavigation/PublishingImages/Pages/Do-you-underline-links-and-include-a-rollover/good-example-obvious-roll-over.jpg)
+![good-example-obvious-roll-over.jpg](/PublishingImages/good-example-obvious-roll-over.jpg)
 ​Good Example: Obvious roll over with a button​
 **Example CSS for roll over:**
 
@@ -37,4 +37,4 @@ Good Example: This link is obvious.
 }​
 
 ​​​​​​Figure: Example CSS for roll over ​effect
- SSW has two programs called  [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#BreadCrumbs)   [SSW Link Auditor​](https&#58;//sswlinkauditor.com/) to check for this rule.  
+ SSW has two programs called [SSW Code Auditor​](/Pages/Do-you-underline-links-and-include-a-rollover.aspx) and [SSW Link Auditor​](https&#58;//sswlinkauditor.com/) to check for this rule.  
