@@ -10,8 +10,15 @@ authors:
 ---
 
  
-It is extremely important to maintain honesty in a team environment. Nothing breaks                     down a team like a lack of trust. Remember, honesty starts with the small things.
+It is extremely important to maintain honesty and candour in a team environment. Sometimes this means admitting when you're uncertain and not just communicating wishful thinking.
+
+Nothing breaks                     down a team like a lack of trust. Remember, honesty starts with the small things.
  
-"Lying is all about intent. When you say something you know isn't true in order                     to influence others, you're lying. If you say something which isn't true but you                     didn't know it wasn't true, that's not lying. But if you try to influence others                     by passing off something you don't know is true as truth, you are lying. Even if                     it subsequently turns out the thing was true."                     
-                     Ole Eichhorn More at [http://www.w-uh.com/posts/030328-lying.html](http&#58;//www.ssw.com.au/ssw/Redirect/Honesty.htm)
+You also need to make sure you qualify​ your level of certainty in an answer, so that your guess (which could be wrong) does not end up misleading someone.
+
+e.g. "Is the database corrupt?"
+
+Bad example: No.
+
+Good Example: I don't think so but I'd need investigate further to be sure.
 
