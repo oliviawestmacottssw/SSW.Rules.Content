@@ -23,4 +23,11 @@ Rollovers are important as they offer visual feedback to a user that this link t
 [Go to SSW](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterWebsitesNavigation.aspx#)
 Bad Example: This link is hard to recognize.
 [Go to SSW](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterWebsitesNavigation.aspx#)
-Good Example: This link is obvious. We have a program called  [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#BreadCrumbs) to check for this rule.  
+Good Example: This link is obvious.
+​
+
+![good-example-obvious-roll-over.jpg](/WebSites/RulestoBetterWebsitesNavigation/PublishingImages/Pages/Do-you-underline-links-and-include-a-rollover/good-example-obvious-roll-over.jpg)
+​Good Example: Obvious roll over with a button
+
+​
+ SSW has two programs called  [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#BreadCrumbs)  [SSW Link Auditor​](https&#58;//sswlinkauditor.com/) to check for this rule.  
