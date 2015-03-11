@@ -16,11 +16,5 @@ When you find a problem, pinpoint it directly (and recommend a solution):
 "The current sales process does not ensure that a prospect is followed up by a phone<br>                        call within 7 days of an initial meeting. Please create a workflow in CRM4, have it tested by the sales manager, and then we will email the sales team to inform them about the improvement."                         Figure: Good Example - Offering criticism in this way ensures that something will<br>                        happen to fix the problem.<br>                    
 Of course there are times that you can 'feel' that a problem exists, but you may not even be sure how are unable to pinpoint it, or can't think of a good solution. In this instance you should speak                     to someone who you think may be able to identify a solution, come to an agreement,                     and then request that action be taken.
 
-When criticism is general, it is impossible to know what to fix.​
-**Quote #1:** I don't mind being called a shit boss, just explain why.
+When criticism is general, it is impossible to know what to fix.​​
 
-<br>                    Adam Cogan, The Oaks (with David Klein) 2002
-
-**Quote #2:** How can you be influential, if you can't explain why.
-
-<br>                    Alison Young, SSW Boardroom 22/1/2009<br>                                             Figure: Relevant quotes that encourage you to be specific<br>                    
