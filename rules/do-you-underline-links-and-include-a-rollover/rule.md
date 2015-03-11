@@ -27,7 +27,14 @@ Good Example: This link is obvious.
 ​
 
 ![good-example-obvious-roll-over.jpg](/WebSites/RulestoBetterWebsitesNavigation/PublishingImages/Pages/Do-you-underline-links-and-include-a-rollover/good-example-obvious-roll-over.jpg)
-​Good Example: Obvious roll over with a button
+​Good Example: Obvious roll over with a button​
+**Example CSS for roll over:**
 
-​
- SSW has two programs called  [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#BreadCrumbs)  [SSW Link Auditor​](https&#58;//sswlinkauditor.com/) to check for this rule.  
+​​​a:link, a:visited { 
+    color: (internal value);
+    text-decoration: underline;
+    cursor: auto;
+}​
+
+​​​​​​Figure: Example CSS for roll over ​effect
+ SSW has two programs called  [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#BreadCrumbs)   [SSW Link Auditor​](https&#58;//sswlinkauditor.com/) to check for this rule.  
