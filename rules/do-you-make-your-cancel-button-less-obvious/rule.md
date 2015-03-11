@@ -11,7 +11,7 @@ authors:
 
 ---
 
- To avoid users accidentally cancelling an operation when they thought they where clicking the save button you should always make your cancel button less obvious.  
+ ​To avoid users accidentally cancelling an operation when they thought they where clicking the save button you should always make your cancel button less obvious.  
 ​![bad-cancel-button-example.jpg](/WebSites/RulesToBetterWebsitesLayout/SiteAssets/Pages/Do-you-make-your-cancel-button-less-obvious/bad-cancel-button-example.jpg)
 Bad example: Cancel button looks like a save button​.​​​​
 ​​![good-example-cancel-button.jpg](/WebSites/RulesToBetterWebsitesLayout/SiteAssets/Pages/Do-you-make-your-cancel-button-less-obvious/good-example-cancel-button.jpg)
@@ -26,13 +26,11 @@ It depends which operating platform your program runs on:
 
 - Windows - On the right
 - Apple, iOS and Android - On the left
-- Web? -  ​???​
+- Web? -  ​Generally on the ​right
 
 
 
 
-
-**​​What about web applications?​​**
 
 If you're de​signing a Web-based application, the decision is harder, but you should probably go with the platform preferred by most of your users. Your server logs will show you the percentage of Windows vs. Mac users for your specific website or intranet. Of course, Windows generally has many more users, so if you can't be bothered to check the logs, then the guideline that will apply to most situations is OK first, Cancel last.​
 
