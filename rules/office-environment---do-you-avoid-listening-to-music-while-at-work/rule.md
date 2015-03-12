@@ -30,7 +30,7 @@ Others have said I am wrong with reasons like:
 
 There is, however, a use for it being "background" music in some scenarios; like                     when you are doing time consuming mindless stuff like fixing data, building VPCs/VMWares                     or waiting for long builds.
 
-I've also been into a few offices that use ambient music to subdue their employees.                     Again, I'm not convinced of this as a method mostly due to the fact that your not                     likely to be able to attend to everyone's tastes, and you're even more likely to                     intensify the "oh, I love this song" factor.
+I've also been into a few offices that use ambient music to subdue their employees.                     Again, I'm not convinced of this as a method mostly due to the fact that you're not                     likely to be able to attend to everyone's tastes, and you're even more likely to                     intensify the "oh, I love this song" factor.​
 
-Note: Please see our [Rules To Better<br>                        Dead Time](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterDeadTime.aspx#AudioDevice) for how we like to effectively use audio devices like Zunes and                     iPods when we're not at work.
+Note: Please see our [Rules To Better<br>                        Dead Time](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterDeadTime.aspx#AudioDevice) for how we like to effectively use audio devices like iPods when we're not at work.
 
