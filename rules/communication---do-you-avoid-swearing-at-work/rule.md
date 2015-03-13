@@ -10,5 +10,12 @@ authors:
 ---
 
  
-Swearing is not acceptable at SSW. For those who work at SSW and do not follow this                     standard, we encourage them to do five push-ups or, alternatively, run outside and                     back. If nobody paid attention to our standard, people would get comfortable with                     bad language and the work environment would suffer.
+Swearing is not acceptable at work.
+
+A good deterrent is to enforce ten push-ups for every infraction. This is the same concept as a swear jar but also promotes fitness. ​
+
+If nobody paid attention to this rule, people would get comfortable with                     bad language and the work environment would suffer.
  
+​![GORDON-RAMSAY.jpg](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/GORDON-RAMSAY.jpg)
+**Figure: Gordon Ramsay - The only man who can get away with professional swearing**
+
