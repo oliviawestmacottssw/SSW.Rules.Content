@@ -12,16 +12,16 @@ authors:
 ---
 
  
-This idea is different from the above rules in that it strikes at the heart of our                     everyday behavior, not just when a crisis is looming. [The Lord Jesus](http&#58;//www.biblegateway.com/passage/?search=matt%205&#58;41&amp;version=NKJV%3b) said:
+This idea is different from the above rules in that it strikes at the heart of our                     everyday behaviour, not just when a crisis is looming. [Jesus of Nazareth](http&#58;//www.biblegateway.com/passage/?search=matt%205&#58;41&amp;version=NKJV%3b) said:
 
 
 "And whoever compels you to go one mile, go with him two."
 
 
-While not everyone chooses                     to agree with everything He said and did, it's a valid point when it came to creating                     a positive team environment. If you're willing to help others above and beyond the                     call of duty a whole ream of benefits flow:
+While not everyone chooses                     to agree with everything He said, it's a valid point when it came to creating                     a positive team environment. If you're willing to help others above and beyond the                     call of duty,​ a whole ream of benefits flow:
  
 - People begin to share responsibility for work that traditionally is claimed as "not my problem"
-- Others will return the favor when you really need it
+- Others will return the favour when you really need it
 - The sense of work-place isolation disappears
 - Productivity lifts as tasks can be achieved quicker
 
