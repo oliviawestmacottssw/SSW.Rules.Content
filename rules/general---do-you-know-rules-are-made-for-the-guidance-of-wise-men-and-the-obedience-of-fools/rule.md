@@ -14,12 +14,14 @@ authors:
 
 **Standards should \*not\* be followed blindly. Aim for continual improvement.**
 
-Of course there are pros and cons to having standards.
+Whenever you're doing something more than once there should be a clear procedure. We call them “standards” or “rules”. That means that there should be lots of standards.​
+
+But there are pros and cons to having standards.
 
 The pros:
 
 - They help speed up the decision making process – getting you to the best decision faster
-- They help [consistency](/Management/RulesToSuccessfulProjects/Pages/DoYouUnderstandTheValueOfConsistency.aspx)
+- They help [consistency](/Management/RulesToSuccessfulProjects/Pages/DoYouUnderstandTheValueOfConsistency.aspx)
 
 
 The cons:
@@ -32,7 +34,13 @@ The cons:
 
 **So standards should always help the critical thinking process, never replace it**
 
-If you think something can be done better or the standard is simply out of date, improve the standard. Email the person responsible for the standard the specific changes you want made [(e.g. change "x" to "y](/Communication/RulesToBetterEmail/Pages/Change-from-X-to-Y.aspx)").
+If you think something can be done better or the standard is simply out of date, you should improve the standard. This is best done as a team effort a with everyone making little changes often. Whenever you come across a standard which needs updating or improving you have four options:
 
+1. Ignore it and hope someone fixes it (this is punishable by being sat on by a wild hippo);
+2. Fix it yourself straight away (preferred);
+3. Fix it yourself later ([send yourself an email](/Communication/RulesToBetterEmail/Pages/EmailToMyself.aspx));
+4. Ask someone else to fix it (following the [change "x" to "y"](/Communication/RulesToBetterEmail/Pages/Change-from-X-to-Y.aspx) rule) ​​​
+
+ ​  
 For any rules on our site you can click the 'Feedback to SSW' link at the bottom left.
-       
+
