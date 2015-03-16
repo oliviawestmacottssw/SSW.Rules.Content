@@ -15,6 +15,12 @@ authors:
 1. Print out the section of the contract/T&C's the client sent
 2. Print off the balance of the pages from the relevant document (e.g. from the website) - of course it has to be the same document the client sent you a part of
 3. Scan the documents together as one document
-4. Email that entire document to the client saying "Dear Client. Because you only sent me the last page I printed the other pages and scanned all the pages as one document for convenience. If there any problems, please let me know"
+4. Email that entire document to the client
+
+
+​"Dear Client. 
+Because you only sent me the last page I printed the other pages and scanned all the pages as one document for convenience. If there any problems, please let me know"​
+
+​Figure - Good example: An elegant and helpful solution​
 
 
