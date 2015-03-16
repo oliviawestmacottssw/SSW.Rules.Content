@@ -8,13 +8,15 @@ authors: []
 ---
 
  
-To keep profile management simple and make it easier for users to have a consistent experience across applications, you should use [Gravatar](https&#58;//en.gravatar.com/) for showing profile images in your application.
+​To keep profile management simple and make it easier for users to have a consistent experience across applications, you should use [Gravatar](https&#58;//en.gravatar.com/) for showing profile images in your application.
 
 *Your Gravatar is an image that follows you from site to site appearing beside your name when you do things like comment or post on a blog.*
 
 It is simple to set up and if you are developing an MVC application, there are even several Nuget packages to make your life easier. The [GravatarHelper](https&#58;//www.nuget.org/packages/GravatarHelper/) is recommended.
 
-Usage: @Html.GravatarImage("MyEmailAddress@example.com", 80, new { Title = "My Gravatar", Alt = "Gravatar" })
+Usage:
+
+@Html.GravatarImage("MyEmailAddress@example.com", 80, new { Title = "My Gravatar", Alt = "Gravatar" })
 
 Also, check out the [Gravatar API documentation](https&#58;//en.gravatar.com/site/implement/images/) for all the options available.
 
