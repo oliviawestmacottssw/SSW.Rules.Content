@@ -15,6 +15,4 @@ authors:
 When a prospective client gets a quote for a huge price it's like giving them a slap in the face.                 Break your proposals into a series of releases, where each is 1 or more sprints, and                  clients can choose to proceed with a smaller financial commitment (such as just getting the mock-ups                  done) than if they were committing to the whole project. Often, small financial commitments will                  lead to bigger ones.
  
 This approach also allows you to side-step common delaying tactics of prospective clients by making it easier to get the project moving.
-![One big price is like a slap in the face](/Management/RulesToSuccessfulSalesAndAccountManagement/PublishingImages/AccountManagement-FaceSlap.jpg) Figure: One big price is like a slap in the face 
-One great example​ of this is [selling a specification review first](/Management/RulestoBetterSpecificationReviews/Pages/SpecificationReview.aspx), rather than trying to sell the entire project.
-
+![One big price is like a slap in the face](/PublishingImages/AccountManagement-FaceSlap.jpg) Figure: One big price is like a slap in the face ​
