@@ -9,10 +9,10 @@ authors:
 
 ---
 
- Do you display date on the website with a human friendly formatting? 
+ Do you display dates on your website formatted in a human friendly manner? 
 ​​![bad-timeformatting.jpg](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/bad-timeformatting.jpg)
-Figure: Bad - plain date formatting
+Figure: Bad - detailed date formatting is difficult to read
 
 
 ![good-timeformatting.jpg](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/good-timeformatting.jpg)
-Figure: Good - humanize date formatting
+Figure: Good - humanized​ date formatting is easy to read
