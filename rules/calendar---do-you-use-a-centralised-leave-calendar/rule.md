@@ -17,5 +17,5 @@ People take leave all the time, and it can be frustrating to find out that someo
 The easiest way to do this is to use a shared calendar which is just used for leave. At SSW, we have the SSWAbsence calendar to for this. This requires people to send their leave request as an appointment to SSWAbsence.​
 
 Since this is just a calendar, you should also have these leave requests automatically forwarded to your admin managers, so they are always notified of what's going on, although normally these managers will decline the notification rather than add it to their own calendar by accepting it. At SSW, we use the SSWAdmin group alias for this.
-​![Leave.png](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/Leave.png)​​​Figure: ​You can see everyone's leave in one place
+​![Leave.png](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/Leave.png)​​​Figure - Good Example:​ ​You can see everyone's leave in one place
 
