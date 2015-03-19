@@ -11,17 +11,9 @@ authors:
 
 ---
 
- Let's face it, we've all sent or received a cryptic email at some point. When you do receive a list of tasks in an email and part of it you just don't understand, don't just reply saying "I don't understand". Using email for this type of conversation will just waste time waiting for replies and email is best not used for these types of ongoing discussions. Chances are if the sender of the task couldn't give you enough detail or explain the task well enough the first time then it's likely to be a tough task so more conversation is needed anyway. Deal with it via a telephone conversation or meeting (MSN may also be acceptable) with the person who sent the email.  
-Having had the conversation, reply to the email (remembering to CC all involved) with:
-
-- Reply to the original email (Do not change the subject because it will break the threading).
-- Update the email with the new details arising from the conversation along with all original content. (Remember to start with an "As per our conversation" line).
-- Action the tasks from the email
-
-
-Another benefit of this type of email is so that you can subtly let the person know that next time they need to provide more details.
-
-However, sometimes you just cannot reach the task owner. In this case, you need to keep contacting this person for 24 hours. If you are still not able to contact the person or the clarification is not enough for you to action the task, you need to reply to the email and put the following in red in the first line: 
+ We've all received a cryptic email at some point. Don't just reply saying "I don't understand". Chances are if the sender of the task couldn't explain the task well enough the first time then it's likely conversation is needed to clarify the issue. Pick up the phone or Skype the person who sent the email. <br>![putin-phone.jpg](/PublishingImages/putin-phone.jpg)​Figure: If an email isn't clear a phone call generally sorts problems out quickly 
+Having clarified the issue by phone, reply but update the original email with the new details arising from the conversation (Remember to start with an "As per our conversation" line).
+However, sometimes you cannot immediately reach the task owner. In this case, you need to keep trying to contact the person for 24 hours. If you are still not able to contact the person, you need to reply to the email and put the following in red in the first line: 
 
 
 Hi John
