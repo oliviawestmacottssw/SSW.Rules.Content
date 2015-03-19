@@ -12,7 +12,7 @@ authors:
 ---
 
  
-In order to ensure the quailty of the code you deploy, make sure you don't deploy                     until you have got your code fully tested.
+In order to ensure the quality​ of the code you deploy, make sure you don't deploy                     until you have got your code fully tested and received a "test passed".
  
 For more information on this, see [Rules to Successful Projects](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx).
 
