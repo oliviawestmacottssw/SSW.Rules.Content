@@ -22,8 +22,8 @@ The follow steps will help you to setup your calendar to allow us track your cur
              Read rule: [Do you share your calendar with everyone?](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Share-your-calendar-with-everyone.aspx)
 
 **Step 4:** Allow calendar admins to have full access to your calendar
-             Read rule: [Do you allow full access to Calendar Admins?​](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Allow-full-access-to-calendar-admins.aspx)
+             Read rule: [Do you allow full access to Calendar Admins?​​](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Allow-full-access-to-calendar-admins.aspx)
 
-**Step 5:** Send your leave appointments to a centalised leave calendar
+**Step 5:** Send your leave appointments to a centralised leave calendar
              Read rule: [Do you use a centralised leave calendar?](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Inform-when-you-are-out-of-the-office-during-work-hours.aspx)
 
