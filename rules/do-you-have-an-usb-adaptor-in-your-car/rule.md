@@ -15,4 +15,4 @@ Car manufacturers should get rid of the cigarette lighter, smokers use the usual
 
 
 Note: Don't get the old 400mA adaptors (which supply enough power for the majority of USB devices) instead, get a more powerful one for items such as iPads​
-![Car USB Adaptor](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/USB.jpg)Figure: Have a USB adaptor in your car
+![Car USB Adaptor](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/USBCar.jpg)Figure: Have a USB adaptor in your car
