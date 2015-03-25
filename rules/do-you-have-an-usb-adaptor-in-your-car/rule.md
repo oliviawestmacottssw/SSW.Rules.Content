@@ -14,5 +14,5 @@ Car manufacturers should get rid of the cigarette lighter, smokers use the usual
    In the meantime, buy a 1000mA Car USB Adaptor (there are heaps of places you can buy one, and [Google Search results](https&#58;//www.google.com/search?hl=en&amp;q=usb+car+charger+adaptor) will show you heaps of places to start)
 
 
-Note: Don't get the old 400mA adaptors (which supply enough power for the majority of USB devices) instead, get a more powerful one for items such as the 5G iPods and new mobile phones.
-![Car USB Adaptor](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/car_usb_adaptor.jpg)Figure: Have an USB adaptor in your car
+Note: Don't get the old 400mA adaptors (which supply enough power for the majority of USB devices) instead, get a more powerful one for items such as iPads
+![Car USB Adaptor](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/USB.jpg)Figure: Have a USB adaptor in your car
