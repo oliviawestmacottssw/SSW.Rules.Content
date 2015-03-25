@@ -10,5 +10,5 @@ authors:
 ---
 
  
-​Always carry your USB drive with you - in your pocket, on your key chain or even around your neck. USB drives are particularly useful for storage of large files. A good team member will always have their USB drive available at the drop of a hat.
- ![Thumb Drive](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/ThumbDrive.jpg)Figure: USB drives are becoming increasingly popular in large corporations as well. Check out this [Computer World article](http&#58;//www.ssw.com.au/SSW/Redirect/ComputerWorld.htm)
+​Always carry your USB drive with you - in your pocket, on your key chain or even around your neck. USB drives are particularly useful for storage of large files. A good team member will always have their USB drive available at the drop of a hat.​
+ ![Thumb Drive](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/USB.jpg)Figure: USB drives are a very convenient way to transfer medium to large files
