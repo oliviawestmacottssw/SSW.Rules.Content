@@ -31,6 +31,8 @@ Generally, people who need to know include:
 
 
 **For employers:**
-                  Give your employees a bit of flexibility for small leave periods (say 1-2 days). As an employer, you should allow these small periods of leave with little to no notice.
+                  Give your employees a bit of flexibility for small leav​e periods (say 1-2 days). As an employer, you should allow these small periods of leave with little to no notice.
                   This will remove the incentive for employees to lie and say they are sick when they need time off with short notice.
 
+![BeachEnforcers.jpg](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/BeachEnforcers.jpg)
+Figure: Did you give enough notice, or do we need to track you down?
