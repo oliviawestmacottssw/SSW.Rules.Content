@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Do you display dates on your website formatted in a human friendly manner? 
+ ​Do you display dates on your website formatted in a human friendly manner? 
 ​​![bad-timeformatting.jpg](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/bad-timeformatting.jpg)
 Figure: Bad - detailed date formatting is difficult to read
 
