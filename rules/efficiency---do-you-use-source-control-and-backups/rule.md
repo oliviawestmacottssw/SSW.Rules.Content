@@ -16,7 +16,7 @@ As a responsible employee, there should be no excuse for ever losing data, espec
 - You are using [source control](/ALM/RulesToBetterVersionControlwithTFS%28AKASourceControl%29/Pages/default.aspx) for any code you develop
 
 
-If you are working onsite, you can still use TFS remotely and it's important to                     talk the client into this in order to avoid any possible disasters.
+If you are working onsite, you can still use TFS remotely and it's important to                     talk the client into this in order to avoid any possible disasters.​
 
 
 
