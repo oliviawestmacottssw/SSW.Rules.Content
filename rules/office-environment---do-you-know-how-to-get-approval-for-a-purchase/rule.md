@@ -26,8 +26,8 @@ authors:
 
  ​  
 ​    ![](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/purchase-please-bad-example.jpg)
-**Figure: Bad Example - this expense will not be reimbursed**​
+   Figure: Bad Exa​mple - this expense will not be reimbursed​
 
-![](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/purchase-please-good-example.jpg)
-**Figure: Good Example - this expense will be reimbursed, if David gets a reply from Adam**
 
+![](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/purchase-please-good-example.jpg)​
+   Figure: Good Example - this expense will be reimbursed, if David gets a reply from Adam
