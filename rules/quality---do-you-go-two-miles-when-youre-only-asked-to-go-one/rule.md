@@ -25,9 +25,4 @@ While not everyone chooses                     to agree with everything He said,
 - The sense of work-place isolation disappears
 - Productivity lifts as tasks can be achieved quicker
 
-
-![CowsBum.JPG](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/CowsBum.JPG)
-
-
-**Figure: Going the extra mile​**
-
+![CowsBum.JPG](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/CowsBum.JPG)​Figure: Going​ the extra mile​
