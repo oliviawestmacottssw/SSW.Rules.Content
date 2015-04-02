@@ -8,7 +8,7 @@ authors: []
 ---
 
  
-​​Hashtags are commonly use to group similarly tagged messages and topics on social media networks. It also allows users to search messages and topics on Facebook , Twitter and Instagram.​
+​​Hashtags are commonly use to group similarly tagged messages and topics on social media networks. It also allows users to search messages and topics on Facebook, Twitter and Instagram.​
  
-Tell your audience what the hashtag of your topic is. Do this  at the beginning and at the end of your presentation, this will give you exposure on social media.
+Tell your audience what the hashtag of your topic is. Do this at the beginning and at the end of your presentation, this will give you exposure on social media.
 
