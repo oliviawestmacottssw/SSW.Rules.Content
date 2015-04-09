@@ -40,16 +40,12 @@ Figure: Good example – this is an appointment with specific time for the next 
 
 
  
+Good Example: FireBootCamp - Scrum Commitments Specification Video
+ 
+Good Example: FireBootCamp - SugarLearning Specification Video
+ 
+Good Example: FireBootCamp - TimePRO Invoicing Specification Video
 
-
-
-[FireBootCamp - SugarLearning Specification Video](https&#58;//www.youtube.com/watch?v=nywSzMhkZV4) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
-
-[FireBootCamp - TimePRO Invoicing Specification Video](https&#58;//www.youtube.com/watch?v=VhWPZERUiYg) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
-
-[FireBootCamp - Code Auditor Specification Video](https&#58;//www.youtube.com/watch?v=vpFCtChJPVA) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
-
-
-Good Examples: Specification videos created using PowerPoint
+   Good Example: FireBootCamp - Code Auditor Specification Video
 Once again, the presentation needs to pass a '[test please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx "Test Please")' from another senior employee before the meeting takes place.
 
