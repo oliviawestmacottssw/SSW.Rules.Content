@@ -38,14 +38,14 @@ Figure: Good example – this is an appointment with specific time for the next 
 - A PowerPoint presentation with narrations, exported to a video (recommended)
 ![3-01-2014 10-13-04 PM.png](/Management/RulestoBetterSpecificationReviews/SiteAssets/Pages/SpecificationReviewPresentation/3-01-2014%2010-13-04%20PM.png)
 
+       Good Example: FireBootCamp - Scrum Commitments Specification Video
 
- 
-Good Example: FireBootCamp - Scrum Commitments Specification Video
- 
-Good Example: FireBootCamp - SugarLearning Specification Video
- 
-Good Example: FireBootCamp - TimePRO Invoicing Specification Video
+   Good Example: FireBootCamp - SugarLearning Specification Video
+
+   Good Example: FireBootCamp - TimePRO Invoicing Specification Video
 
    Good Example: FireBootCamp - Code Auditor Specification Video
+
+
 Once again, the presentation needs to pass a '[test please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx "Test Please")' from another senior employee before the meeting takes place.
 
