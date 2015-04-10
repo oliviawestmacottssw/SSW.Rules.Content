@@ -15,13 +15,13 @@ authors:
 
  ​​Whenever you are writing code, you should always make sure it conforms to your team's standards. The more pain a developer has when trying to check in, the better, because there will be less left up to testers to find.​
 
-
+ 
 
 ​​No matter how good a coder you are, you will always miss some of them some of the time, so it's a really good idea to have a tool that automatically scans your code and reports on what you need to change in order to improve it.​
 
 
 
-
+ 
 
 Visual Studio has a great Code Analysis tool to help you look for problems in your code. Combine this with Jetbrain's ReSharper and your code will be smell free.​
 
