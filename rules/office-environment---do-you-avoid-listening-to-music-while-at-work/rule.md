@@ -12,7 +12,7 @@ authors:
  
 Should we be listening to music                    at work? I've had the debate with numerous people.
  
-Regardless of whether it is AC/DC or DotNetRocks, music/podcasts should not be used in the work place because:
+Regardless of whether it is AC/DC or DotNetRocks, music/podcasts should not be used in the work place, especially using headphones, because:​
 
 - I want my team to work with each other, and I don't mind that they hear other conversations<br>                        going on. Hopefully if they hear about a problem they can fix quickly, they'll help<br>                        each other out.
 - It's been suggested that [multi-tasking lowers your ability to efficiently<br>                        carry out a task](http&#58;//www.codinghorror.com/blog/2006/09/the-multi-tasking-myth.html) (e.g. doing your task at hand along with listening to tunes)<br>                        - by as much as 20%!
