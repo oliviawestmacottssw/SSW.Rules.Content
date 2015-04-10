@@ -27,8 +27,11 @@ Visual Studio has a great Code Analysis tool to help you look for problems in yo
 
 The levels of protection are:
 
+​​​![CricketHelmet.jpg](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/CricketHelmet.jpg)
 
-​​​
+Figure: You wouldn't play cricket without protective gear and you shouldn't code without protective tools​
+
+
 
 ### Level 1
 
