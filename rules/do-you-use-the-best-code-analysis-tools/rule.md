@@ -79,11 +79,5 @@ More Information: [Do you make instructions at the beginning of a project and i
 Suggestion to MS: Allow developers to put a comment against any disabled rule when you turn it off
 <br>TODO - Damian: Add image
 
-​​​
-
-
-See [Do you add SSW Code Auditor, NUnit and Microsoft FxCop project files to your Solution?](/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/AddCAFxCopToSolution.aspx)
-
-See [Do you check your code by Code Auditor before check-in?](/Management/RulesToSuccessfulProjects/Pages/CheckCodeByCodeAuditorBeforeCheckIn.aspx)
-
+​​​​
 
