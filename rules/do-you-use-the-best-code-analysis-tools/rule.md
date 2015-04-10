@@ -46,26 +46,36 @@ Get ReSharper to green on each file you touch. You want the files you work on t
 ​Figure: ReSharper will show Orange when it detects that there is code that could be improved![image002.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/image002.png)​Figure: ReSharper will show green when all code is tidy
 ### Level 2
 
-Run Code Analysis (was FxCop) with the default settings
-![runcodeanalysisvs11.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/CodeAnalysisVS11.png)Figure: Run Code Analysis in VS2012
-
-
-![Code Analysis](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/codeanalysis.png)Figure: The Code Analysis results indicate there are 17 items that need fixing
-### Level 3
-
-Ratchet up your Code Analysis Rules until you get to 'Microsoft All Rules'
-![image003.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/image003.png)Figure: Start with the Minimum Recommended Rules, and then ratched up.
-### Level 4
-
-Is to use StyleCop to check that your code has consistent style and formatting.
-![stylecop.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/StyleCopInVS2010.png)Figure: StyleCop shows a lot of warnings in this test project
-### Level 5
-
 Is to use [Code Auditor.](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx)
+
+![stylecop.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/SiteAssets/Pages/DoYouDoCodeAnalysis/CodeAuditorScreenShot.png)
+
+**Figure: Code Auditor shows a lot of warnings in this test project**
 
 **Note:** Document any rules you've turned off.
 
+### Level 3
+
+Is to use [Link Auditor](http&#58;//www.ssw.com.au/ssw/LinkAuditor/).
+
+**Note:** Document any rules you've turned off.
+
+### Level 4
+
+Is to use  ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW") StyleCop to check that your code has consistent style and formatting.
+![stylecop.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/StyleCopInVS2010.png) Figure: StyleCop shows a lot of warnings in this test project
+### Level 5
+
+Run Code Analysis (was FxCop) with the default settings
+![runcodeanalysisvs11.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/CodeAnalysisVS11.png)Figure: Run Code Analysis in VS2015
+
+
+![Code Analysis](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/codeanalysis.png)Figure: The Code Analysis results indicate there are 17 items that need fixing
 ### Level 6
+
+Ratchet up your Code Analysis Rules until you get to 'Microsoft All Rules'
+![image003.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/image003.png)Figure: Start with the Minimum Recommended Rules, and then ratched up.
+### Level 7
 
 Is to document any rules you've turned off.
 
