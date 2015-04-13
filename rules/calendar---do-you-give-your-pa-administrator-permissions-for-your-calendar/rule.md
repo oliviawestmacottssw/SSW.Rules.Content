@@ -12,7 +12,7 @@ authors:
 ---
 
  
-There are occasions that you are not able to access your computer to send sick emails, or you get a call from your client on the way to the office that you have to drive to client site straight away; when such things happen, you need someone else to update your calendar when you call in, so others are aware of your availabilities.
+​There are occasions that you are not able to access your computer to send sick emails, or you get a call from your client on the way to the office that you have to drive to client site straight away; when such things happen, you need someone else to update your calendar when you call in, so others are aware of your availabilities.
  
 So always make sure the admin people are able to access your calendar with full permission in order to add/edit/delete appointments for you. ​
 ![Click on Calendar Permissions](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/CalendarPermissions.jpg)Figure: Click on "Calendar Permissions"![Set full access to admins](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/CalendarProperties.jpg)Figure: Give admins full access to your calendar
