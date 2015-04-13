@@ -13,3 +13,5 @@ authors:
 If someone asks you to do something you believe is unethical please ring them up                     straight away and discuss the issue.
  ​![Dilbert-Analysis.gif](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/Dilbert-Analysis.gif)Figure: Have a frank discussion if you feel strongly about something​
 
+​​It can also be a good idea to [document your objections in an email.](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/Pages/PutARecordForDisagree.aspx)​
+
