@@ -10,7 +10,7 @@ authors:
 ---
 
  
-The follow steps will help you to setup your calendar to allow us track your current availabilities and improve our team collaboration.
+​The follow steps will help you to setup your calendar to allow us track your current availabilities and improve our team collaboration.
  
 **Step 1:** Set your work hours in Outlook
               Read rule: [Do you set your work hours in your Calendars?](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Set-your-work-hours-in-your-calendars.aspx)
