@@ -8,7 +8,7 @@ authors: []
 ---
 
 
-​Office meetings often are ineffective, because:
+​​Office meetings often are ineffective, because:
 
 - There is a lot of discussion but no resulting "action items"
 - Time is wasted digressing to unrelated topics
@@ -19,14 +19,14 @@ authors: []
 To ensure your meetings are productive and successful, you should:
 
 - Create a meeting agenda prior to the meeting. Give each attendee a copy. If the discussion strays from the topic, the agenda will help you keep it on track.
-- Send [an appointment](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/Pages/WayMeetingsShouldWork.aspx) to all meeting attendees to ensure the meeting appears on their calendar.
+- Send [an appointment](/Pages/WayMeetingsShouldWork.aspx) to all meeting attendees to ensure the meeting appears on their calendar.
 - If you are going to be late, contact the organizer or the person in charge of the meeting to let them know that you are running late and what time you will be arriving.
 - To improve future meetings, at the end of the meeting, do a quick debrief to see how long the meeting took, if anything was covered that didn't need to be, etc.
 
-![Meeting without agenda](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/MeetingNoAgenda.JPG) Figure: Bad example - meeting with No Agenda ![](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/PublishingImages/MeetingWithAgenda_1.jpg)Figure: Good example - meeting with Agenda 
+![Meeting without agenda](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/MeetingNoAgenda.JPG) Figure: Bad example - meeting with No Agenda ![](/PublishingImages/MeetingWithAgenda_1.jpg)Figure: Good example - meeting with Agenda 
 Every Outlook appointment must have:
 
-1. A good subject, to let attendees know the purpose of the meeting, see our rule [Do you realize the importance of a good email Subject?](/Communication/RulesToBetterEmail/Pages/ImportanceOfAGoodSubject.aspx)
+1. A good subject, to let attendees know the purpose of the meeting, see our rule [Do you realize the importance of a good email Subject?](/do-you-realize-the-importance-of-a-good-email-subject)
 2. A good description of the location, including detailed information like location name and street
 3. The message itself must contain:
     1. A link to the location with instructions to print it eg. Print this map [www.ssw.com.au/ssw/company/directions](http&#58;//www.ssw.com.au/ssw/company/directions) or a google map link
@@ -38,6 +38,6 @@ Every Outlook appointment must have:
 Hi Bill Northwind
 - Print map [www.ssw.com.au/ssw/company/directions](http&#58;//www.ssw.com.au/ssw/company/directions)
 - FYI the account manager is not billable, the developers are billable
-- For meetings tips see [Rules to being Software Consultants - Dealing with Clients](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/pages/default.aspx)
+- For meetings tips see [Rules to being Software Consultants - Dealing with Clients](/Pages/Rules-to-Better-Software-Consultants---Dealing-with-Clients.aspx)
 
 Figure - Message example 
