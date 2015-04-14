@@ -22,7 +22,9 @@ While not everyone chooses                     to agree with everything He said,
  
 - People begin to share responsibility for work that traditionally is claimed as "not my problem"
 - Others will return the favour when you really need it
-- The sense of work-place isolation disappears
+- The sense of work-place isolation disappears​
 - Productivity lifts as tasks can be achieved quicker
 
 ![CowsBum.JPG](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/CowsBum.JPG)​Figure: Going​ the extra mile​
+T​his rule particularly applies when a person is blocked – as identified in their Daily Scrum.
+
