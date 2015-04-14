@@ -48,9 +48,7 @@ Get ReSharper to green on each file you touch. You want the files you work on t
 
 Is to use [Code Auditor.](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx)
 
-![stylecop.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/SiteAssets/Pages/DoYouDoCodeAnalysis/CodeAuditorScreenShot.png)
-
-**Figure: Code Auditor shows a lot of warnings in this test project**
+![stylecop.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/SiteAssets/Pages/DoYouDoCodeAnalysis/CodeAuditor.png) **Figure: Code Auditor shows a lot of warnings in this test project**
 
 **Note:** Document any rules you've turned off.
 
