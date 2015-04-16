@@ -14,10 +14,10 @@ authors:
  
 Once a project gets underway, it is not uncommon for the development team to take                     over a lot of the project management workload. Since they are the people most in                     contact with the client, sometimes new work will be organized through them instead                     of the Account Manager.​
  
-When this is the case, the "As per our conversation" email should CC the Account Manager                     so he is always aware of all work being done.
+When this is the case, the "As per our conversation" email should CC the Account Manager                     so he is always aware of all work being done, and can create a [new CRM opportunity](/Communication/RulesToBetterCRMForUsers/Pages/How-to-Create-New-Opportunities.aspx) if required.
 
 If an initial meeting is required for the new work, the Account Manager should be in attendance                     where possible to help continue the relationship.
 
 Hi Bill,
-                            As per our conversation, you want me to work for another 2 weeks to work on this additional work.
+                            As per our conversation, you want to book me for another 2 weeks on this additional work.​
 Figure: Good Example - the account manager should be CCed on an email like this.
