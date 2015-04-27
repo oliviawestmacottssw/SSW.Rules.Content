@@ -39,9 +39,9 @@ Keep in mind that 1) hosting of a full-text search service costs you labour to
 
 ​ ​​​
 
-![Untitled2.png](/SoftwareDevelopment/Rules-to-Better-Azure/SiteAssets/Pages/Consider-AzureSearch-for-your-Azure-website/Untitled2.png)
+​​​​![Untitled2.png](/PublishingImages/9c0754_Untitled2.png)
  Figure: Good Example - Azure website using AzureSearch for what it can deliver today 
 
 
-​​​​![Untitled.png](/SoftwareDevelopment/Rules-to-Better-Azure/SiteAssets/Pages/Consider-AzureSearch-for-your-Azure-website/Untitled.png)
+​​​​![Untitled.png](/PublishingImages/Untitled.png)
 Figure: Bad Example - Azure website using ElasticSearch for a simple search that AzureSearch can do
