@@ -10,5 +10,5 @@ authors:
 ---
 
  
-Follow [Rules to Better Flights](http&#58;//www.ssw.com.au/ssw/standards/Rules/RulesToBookingBetterFlights.aspx).​
+​Follow [Rules to Better Flights](/rules-to-better-flights).​
  
