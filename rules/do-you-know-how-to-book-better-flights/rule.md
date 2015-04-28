@@ -10,25 +10,26 @@ authors:
 ---
 
  
-1. ​Visit the sites below
+1. ​​Visit the sites below
 2. Enter the destinations with corresponding dates to receive a quote from each site
 3. Use the quotes to locate the best price or deal.
 
  
-
 ​
-    ​These are the best sites to check in order of preference:
-    - [www.zuji.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Zuji.htm) (10/10)​
-    - [www.jetabroad.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Jetbroad.htm) (9/10)
-    - [www.travel.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Travel.htm) (8/10)
-    - [www.edreams.com](http&#58;//www.ssw.com.au/SSW/Redirect/Edreams.htm) (8/10)
-    - [www.webjet.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Webjet.htm) (7/10)
-    - [www.qantas.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Qantas.htm)(7/10)
-    - [www.flightcentre.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Flightcentre.htm) **OR** [www.escapetravel.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Escapetravel.htm) (6/10) 
+
+​These are the best sites to check in order of preference:
+
+- [www.zuji.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Zuji.htm) (10/10)​​​
+- [www.jetabroad.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Jetbroad.htm) (9/10)
+- [www.travel.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Travel.htm) (8/10)
+- [www.edreams.com](http&#58;//www.ssw.com.au/SSW/Redirect/Edreams.htm) (8/10)
+- [www.webjet.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Webjet.htm) (7/10)
+- [www.qantas.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Qantas.htm)(7/10)
+- [www.flightcentre.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Flightcentre.htm) **OR** [www.escapetravel.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Escapetravel.htm) (6/10) 
 (both owned by same company)
-    - 
+- 
 
-
+​ 
 These are the best sites for flights within the US
 
 - [www.expedia.com](http&#58;//www.ssw.com.au/SSW/Redirect/Expedia.htm) (10/10)
