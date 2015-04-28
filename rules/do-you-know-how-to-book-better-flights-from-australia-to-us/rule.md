@@ -10,8 +10,8 @@ authors:
 ---
 
  
-1. Follow the steps 1-3 above to receive quotes for the destinations required from every site e.g. Sydney to Seattle
-2. Then repeat the steps 1-3 again, with the following changes:
+1. ​Follow the steps 1-3 above to receive quotes for the destinations required from every site e.g. Sydney to Seattle
+2. Then repeat the steps 1-3 again, with the following changes:​move​
 
 
 - Create a first quote to travel from Sydney to Honolulu (return)
