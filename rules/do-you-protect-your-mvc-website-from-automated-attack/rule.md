@@ -9,8 +9,8 @@ authors:
 
 ---
 
- ​​Protecting your site from automated attack is easy with reCAPTCHA. Learn how to by clicking [this ​link​](https&#58;//shigemimatsumoto.wordpress.com/2015/04/23/protected-mvc-web-application-with-recaptcha-12/) and improve your site security.[​](https&#58;//shigemimatsumoto.wordpress.com/2015/04/23/adding-recaptcha-to-mvc-application-12/) 
-​
+ ​​​Protecting your site from automated attack is easy with reCAPTCHA.  
+​Learn how to by clicking [this ​link​](https&#58;//shigemimatsumoto.wordpress.com/2015/04/27/protecting-mvc-web-application-with-recaptcha-22/) and improve your site security.[​](https&#58;//shigemimatsumoto.wordpress.com/2015/04/23/adding-recaptcha-to-mvc-application-12/)​
 
 ![Untitled2.png](/SoftwareDevelopment/RulesToBetterMVC/SiteAssets/Pages/stop-automated-email-attacks-with-recaptcha/Untitled2.png)
 ​​​Figure: Good Example - reCAPTCHA is protecting a site from automated attack
