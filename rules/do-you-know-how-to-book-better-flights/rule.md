@@ -16,8 +16,9 @@ authors:
 
  
 
-​These are the best sites to check in order of preference:
-    - [www.zuji.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Zuji.htm) (10/10)
+​
+    ​These are the best sites to check in order of preference:
+    - [www.zuji.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Zuji.htm) (10/10)​
     - [www.jetabroad.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Jetbroad.htm) (9/10)
     - [www.travel.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Travel.htm) (8/10)
     - [www.edreams.com](http&#58;//www.ssw.com.au/SSW/Redirect/Edreams.htm) (8/10)
@@ -25,15 +26,19 @@ authors:
     - [www.qantas.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Qantas.htm)(7/10)
     - [www.flightcentre.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Flightcentre.htm) **OR** [www.escapetravel.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Escapetravel.htm) (6/10) 
 (both owned by same company)
-    These are the best sites for flights within the US
-    - [www.expedia.com](http&#58;//www.ssw.com.au/SSW/Redirect/Expedia.htm) (10/10)
-    - [www.virginamerica.com](http&#58;//www.ssw.com.au/SSW/Redirect/VirginAmerica.htm) (8/10)
-    - [www.Cheaptickets.com](http&#58;//www.ssw.com.au/SSW/Redirect/Cheaptickets.htm) (7/10)
-    - [www.AmericanAirlines.com](http&#58;//www.ssw.com.au/SSW/Redirect/AmericanAirlines.htm) (5/10)
-    - [www.Cheapseats.com](http&#58;//www.ssw.com.au/SSW/Redirect/Cheapseats.htm) (4/10)
-1. As a further step, give the planned itinerary to a travel agent to investigate flights. In many cases, they are able to provide [better deals](http&#58;//aussietraveladvice.com/cheap-fares-travel-agents/) and are aware of specials and discounts for the planned travel. Be sure to do your own research first Be sure to let the travel agent know about the preferences of the traveller e.g. preferred airline, travel times, etc. as per [Do you know the general tips for booking flights?](http&#58;//www.ssw.com.au/ssw/standards/Rules/RulesToBookingBetterFlights.aspx#tip)
-2. Compare all alternatives researched and select 3 of the best options to choose from. Make a reccomendation for the option you feel is best (with reasons) and give to your boss to get his/her approval and initial before booking.
+    - 
 
+
+These are the best sites for flights within the US
+
+- [www.expedia.com](http&#58;//www.ssw.com.au/SSW/Redirect/Expedia.htm) (10/10)
+- [www.virginamerica.com](http&#58;//www.ssw.com.au/SSW/Redirect/VirginAmerica.htm) (8/10)
+- [www.Cheaptickets.com](http&#58;//www.ssw.com.au/SSW/Redirect/Cheaptickets.htm) (7/10)
+- [www.AmericanAirlines.com](http&#58;//www.ssw.com.au/SSW/Redirect/AmericanAirlines.htm) (5/10)
+- [www.Cheapseats.com](http&#58;//www.ssw.com.au/SSW/Redirect/Cheapseats.htm) (4/10)
+
+
+Compare all alternatives researched and select 3 of the best options to choose from. Make a reccomendation for the option you feel is best (with reasons) and give to your boss to get his/her approval and initial before booking.
 
 ### NOTE:
 
