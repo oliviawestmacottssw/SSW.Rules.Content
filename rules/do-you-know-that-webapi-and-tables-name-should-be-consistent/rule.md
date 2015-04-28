@@ -9,7 +9,7 @@ authors:
 
 ---
 
- When creating WebAPIs for your applications, it is useful to keep the naming consistent all the way from the back-end to the front-end. 
+ ​When creating WebAPIs for your applications, it is useful to keep the naming consistent all the way from the back-end to the front-end. 
 **Table name:** Employees
 **Endpoint:** /api/Users
 ​Bad Example: The endpoint is different to the table name
