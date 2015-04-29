@@ -19,13 +19,13 @@ With an iframe and a little bit of code, your reports can also be viewed in your
 
 In your MVC project, add a new item of type WebForm.
 
-![16-06-2014 10-44-12 AM.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/16-06-2014%2010-44-12%20AM.png)
+![16-06-2014 10-44-12 AM.png](/PublishingImages/16-06-2014%2010-44-12%20AM.png)
 
 **Figure: Add a new WebForm**
 
 Then add the ReportViewer control to the WebForm.
 
-![16-06-2014 10-46-58 AM.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/16-06-2014%2010-46-58%20AM.png)
+![16-06-2014 10-46-58 AM.png](/PublishingImages/16-06-2014%2010-46-58%20AM.png)
 
 **Figure: Add the ReportViewer control**
 
@@ -35,20 +35,30 @@ In the View you want to display the report in, add an iframe pointing to your We
 
 (The below example uses JavaScript to execute this part from user input)
 
-![16-06-2014 10-50-55 AM.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/16-06-2014%2010-50-55%20AM.png)
+![16-06-2014 10-50-55 AM.png](/PublishingImages/16-06-2014%2010-50-55%20AM.png)
 
 **Figure: Add an iframe**
 
 Now you have your SSRS report in your MVC application.
 
-**​​![17-06-2014 8-33-37 AM.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/17-06-2014%208-33-37%20AM.png)​
+**​​![17-06-2014 8-33-37 AM.png](/PublishingImages/17-06-2014%208-33-37%20AM.png)​
 Figure: The final report in an MVC application**
 
 **
 **
 
-**![16-06-2014 10-38-51 AM.png](/SoftwareDevelopment/RulesToBetterMVC/PublishingImages/16-06-2014%2010-38-51%20AM.png)
+**![16-06-2014 10-38-51 AM.png](/PublishingImages/16-06-2014%2010-38-51%20AM.png)
 **
 
 **Figure: Export your report with the in-build SSRS functionality**
+
+**
+**
+
+### When using Web-API the method above is difficult and time-consuming!
+
+![2015-04-29_10-09-56-compressor.png](/PublishingImages/2015-04-29_10-09-56-compressor.png)
+
+
+The easy solution is to render the report within the API and return it to the user ​as a pdf. For an example of how to implement the functionality, read the following series ​of articles on ['Integrating SSRS Web-API and AngularJS'​](http&#58;//blog.chrisbriggsy.com/the-first-step-towards-integration/).
 
