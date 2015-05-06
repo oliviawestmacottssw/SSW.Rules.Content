@@ -11,10 +11,10 @@ authors: []
 
 | ​ | ​Bad Example | ​Good Example |
 | --- | --- | --- |
-| Keep text as short as possible. Avoid wordy, stilted text​. | Consult the documentation that came with your phone for further instructions.​ | Read the instructions that came with your phone. |
-| Describe only what the user needs to know and don't provide unnecessary information.​ | ​Your phone needs to communicate with Google servers to sign in to your account. This may take up to five minutes. | ​Your phone is contacting Google. This can take up to 5 minutes. |
-| ​Focus on the user's concern, not technical details. | Manually control GPS to prevent other apps from using it.​ | ​To save power, switch Location mode to Battery saving. |
-| ​Put the most important thing first. | ​77 other people +1’d this, including Larry Page | Larry Page and 76 others +1’d this​ |
+| Keep text as short as possible. Avoid wordy, stilted text​. | Consult the documentation that came with your phone for further instructions.​ | Read the instructions that came with your phone |
+| Describe only what the user needs to know and don't provide unnecessary information. | ​Your phone needs to communicate with Google servers to sign in to your account. This may take up to five minutes. | ​Your phone is contacting Google. This can take up to 5 minutes. |
+| ​Focus on the user's concern, not technical details | Manually control GPS to prevent other apps from using it. | ​To save power, switch Location mode to Battery saving |
+| ​Put the most important thing first | ​77 other people +1’d this, including Larry Page | Larry Page and 76 others +1’d this​ |
 | ​Put the user's goal first | Touch Next to complete setup using a Wi-Fi connection​ | To finish setup using Wi-Fi, touch Next​ |
 | Avoid being confusing or annoying​ | ​Sorry! Activity MyAppActivity (in application MyApp) is not responding. | MyApp isn’t responding. Do you want to close it?​ |
 
@@ -22,7 +22,7 @@ authors: []
 ### Words to avoid
 
 
-| DON'T USE​ | ​USE |
+| Don't use​ | ​Use |
 | --- | --- |
 | ​cannot, could not, do not, did not will not, you will | ​Contractions: can’t, couldn’t, don’t, didn’t won’t, you’ll, and so on |
 | ​okay, ok | ​OK |
@@ -45,5 +45,7 @@ Capitalize all important words in:
 
 Be conservative. Don't capitalize words that aren't part of a formal feature name: Sim card lock, Home screen, not Sim Card Lock, Home Screen.
 
-**Period.** Don't use a period after a single sentence or phrase used in isolation, such as in a toast, label, or notification. Wherever two or more sentences run together, use a period for each sentence.
+### Using Periods 
+
+Don't use a period after a single sentence or phrase used in isolation, such as in a toast, label, or notification. Wherever two or more sentences run together, use a period for each sentence.
 
