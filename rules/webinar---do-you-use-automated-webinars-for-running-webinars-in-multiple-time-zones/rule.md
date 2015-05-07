@@ -27,4 +27,4 @@ When they get on the webinar at their time, the video starts playing for them.
 The has cut down time for us in creating multiple landing pages and the time to acutally run the webinar.
 
 The best platforms we have found to date for running automated webinars are     [Easy Webinar​](http&#58;//easywebinar.com/) and     [Webinar Ignition​](http&#58;//webinarignition.com/).
-![](/marketing/RulesToBetterMarketing/PublishingImages/Easy%20Webinar%20Logo.png%22)![](/marketing/RulesToBetterMarketing/PublishingImages/Webinar%20Ignition%20Logo.png%22)![](/marketing/RulesToBetterMarketing/PublishingImages/Easy%20Webinar%20Signup.png%22)​   
+![](//marketing/RulesToBetterMarketing/Pages/y%20Webinar%20Logo.png%22)![](//marketing/RulesToBetterMarketing/PublishingImages/Webinar%20Ignition%20Logo.png%22)![](//marketing/RulesToBetterMarketing/PublishingImages/Easy%20Webinar%20Signup.png%22)​   
