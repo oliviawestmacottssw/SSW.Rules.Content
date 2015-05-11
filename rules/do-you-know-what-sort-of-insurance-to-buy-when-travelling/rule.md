@@ -15,7 +15,7 @@ authors:
 
 For example, if you're travelling **within your home country** you might decide to only get insurance for a hire car – but this can be a trap: hire car insurance is expensive, and you might find that it is cheaper to buy travel insurance to cover the whole trip, which includes car hire insurance, than it is to purchase insurance just for the car. 
 
- ![](/Others/PublishingImages/hire-car-provided-insurance.jpg)** ​****Figure: Bad example: Getting<br>insurance through the car hire pr****ovider, with AUD$6,000 ex****cess, is $23.25/day.**
+ **![hire-car-provided-insurance.jpg](/Others/RulestoBetterFlights/PublishingImages/Pages/what-insurance-to-buy-when-travelling/hire-car-provided-insurance.jpg) ​****Figure: Bad example: Getting<br>insurance through the car hire pr****ovider, with AUD$6,000 ex****cess, is $23.25/day.**
 ![](/Others/PublishingImages/private-travel-insurance.jpg)
 **Figure: Good example:<br>Allianz travel insurance for within Australia covers up to AUD$6,000 excess on a<br>rental vehicle – this works out to be about $5.15 a day for a 9 day trip.**
 
