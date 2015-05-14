@@ -13,12 +13,14 @@ authors:
 
 ---
 
- ​Don't waste time evaluating which Web UI libraries to use. Most of the commonly used libraries are very similar in functionality​. ​The recommend​ library is **[Twitter Bootstrap](/SoftwareDevelopment/RulesToBetterMVC/Pages/Do-you-use-Twitter-Bootstrap.aspx)**. 
+ 
+​​Don't waste time evaluating which Web UI libraries to use. Most of the commonly used libraries are very similar in functionality​.  ​The recommend​ library is **[Twitter Bootstrap](/SoftwareDevelopment/RulesToBetterMVC/Pages/Do-you-use-Twitter-Bootstrap.aspx)**.
+ 
 It's the most popular available framework today, which means more people involved in the project, more tutorials and articles from the community, more real-world examples/websites, more third-party extensions, and better integration with other​ web development products
 ![zurb.png](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/zurb.png)Figure: Bad example - Zurb Foundation is the second most popular, but it uses Sass files and​ has the worst name
 **Note:** Zurb Foundation was always out of date on nuget. So if you use it (not recommended) download direct from ​Github.​​
 ![bootstrap.png](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/bootstrap.png)Figure: Good example - leader among frameworks today, Bootstrap toolkit is recommended to build​ successful websites
-### The 3 things a developer need to know to get up and running wuickly with ASP.NET MVC
+### The 3 things a developer need to know to get up and running quickly with ASP.NET MVC
 
  
 
