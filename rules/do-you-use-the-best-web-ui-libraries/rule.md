@@ -20,6 +20,8 @@ It's the most popular available framework today, which means more people involv
 ![bootstrap.png](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/bootstrap.png)Figure: Good example - leader among frameworks today, Boostrap toolkit is recommended to build​ successful websites
 ### Other useful frameworks
 
+Now that you saved a lot of UI develpment time by using Bootstrap, you can play around with other useful frameworks.​
+
 - ​**[KendoUI](http&#58;//www.kendoui.com/)** for enhanced HTML and jQuery controls
 - [**KnockoutJS**](http&#58;//knockoutjs.com/) for view-model data binding
 - **[SignalR](http&#58;//signalr.net/) **for real-time web functionality​
