@@ -17,10 +17,21 @@ authors:
 It's the most popular available framework today, which means more people involved in the project, more tutorials and articles from the community, more real-world examples/websites, more third-party extensions, and better integration with other​ web development products
 ![zurb.png](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/zurb.png)Figure: Bad example - Zurb Foundation is the second most popular, but it uses Sass files and​ has the worst name
 **Note:** Zurb Foundation was always out of date on nuget. So if you use it (not recommended) download direct from ​Github
-![bootstrap.png](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/bootstrap.png)Figure: Good example - leader among frameworks today, Boostrap toolkit is recommended to build​ successful websites
-### Other useful frameworks
+![bootstrap.png](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/bootstrap.png)Figure: Good example - leader among frameworks today, Bootstrap toolkit is recommended to build​ successful websites
+### The 3 things a developer need to know to get up and running wuickly with ASP.NET MVC
 
-Now that you saved a lot of UI develpment time by using Bootstrap, you can play around with other useful frameworks.​
+ 
+
+### Twitter Bootstrap & ASP.NET MVC ​​​​- Intro / Quickstart
+
+ 
+
+### 
+
+
+### Other useful frameworks​
+
+Now that you saved a lot of UI develo​pment time by using Bootstrap, you can play around with other useful frameworks.​
 
 - ​**[KendoUI](http&#58;//www.kendoui.com/)** for enhanced HTML and jQuery controls
 - [**KnockoutJS**](http&#58;//knockoutjs.com/) for view-model data binding
