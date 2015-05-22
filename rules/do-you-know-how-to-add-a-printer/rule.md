@@ -13,7 +13,7 @@ authors:
 ​​When you are connected to the SSW network, you may complete the following procedure.
 
 Go to **\\printer**
- ​![add-printer-1.png](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/add-printer-1.png)Figure: Printers listed in Printer Server
+ ​![add-printer-1.png](/PublishingImages/add-printer-1.png)Figure: Printers listed in Printer Server
 Double click on Printer to connect/add the printer. Follow prompt to finish adding printer (printer driver installation).
 
 Available Printers are:
@@ -23,4 +23,4 @@ Available Printers are:
 
 
 Congratulations, you have now successfully added the printer. You may now begin to print.
-​![add-printer-2.png](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/add-printer-2.png)Figure: Printers successfully added and shown in Devices and Printers
+​![add-printer-2.png](/PublishingImages/add-printer-2.png)Figure: Printers successfully added and shown in Devices and Printers
