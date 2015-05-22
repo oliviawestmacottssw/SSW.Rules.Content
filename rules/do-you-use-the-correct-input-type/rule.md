@@ -12,11 +12,13 @@ HTML5 introduced a whole slew of new type properties for forms. Gone are the day
 
 Although most of these don't do anything on desktop, on mobile devices they bring up the correct keyboard. As we move into a more mobile digital age, small things like the proper numerical keyboard or a keyboard with a quick ".com" becomes increasingly important.
  
-![](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/fieldtype-text.PNG)
+![](/PublishingImages/fieldtype-text.PNG)
 
 &lt;label for="phone"&gt;Phone&lt;/label&gt;: &lt;input           type="text" name="phone"&gt;&lt;/input&gt;
 Figure: Bad Example – This field is using a text type and shows a standard keyboard on mobile
-![](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/fieldtype-tel.PNG)
+
+![](/PublishingImages/fieldtype-tel.PNG)
+
 &lt;label for="phone"&gt;Phone&lt;/label&gt;: &lt;input           type="tel" name="phone"&gt;&lt;/input&gt;
 Figure: Good Example – This field is using the correct field type and shows the keypad on mobile
 
