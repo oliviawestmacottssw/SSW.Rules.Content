@@ -12,7 +12,7 @@ authors:
 ---
 
  
-The     **&lt;img&gt;** tag of HTML has 2 attributes - height and width - but any image resizing should ​be done via CSS. If the height / width ratio doesn't match that of original image, the image will be stretched.
- ![Stretched image which looks ugly](/WebSites/RulesToBetterWebsitesLayout/PublishingImages/streched-image.jpg) Figure: Bad example - Stretched image caused by inline​ height/width ratio that doesn't match
+​The     **&lt;img&gt;** tag of HTML has 2 attributes - height and width - but any image resizing should ​be done via CSS. If the height / width ratio doesn't match that of original image, the image will be stretched.
+ ![Stretched image which looks ugly](/PublishingImages/streched-image.jpg) Figure: Bad example - Stretched image caused by inline​ height/width ratio that doesn't match
 We have a program called     [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#IMGWidth) to check for this rule.
 
