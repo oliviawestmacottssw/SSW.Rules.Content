@@ -12,5 +12,7 @@ authors:
 ---
 
  
-​                    Imagine someone wants an appointment with a team member who has [shared their calendar](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Share-your-calendar-with-everyone.aspx) with you. Offer to look up the calendar and book in time straightaway.
- Try calling him.<br>                                            Bad Example                    Sure, I'll just look up Adam's calendar and see when he's free.<br>                                            Good Example
+Imagine someone wants an appointment with a team member who has [shared their calendar](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/Share-your-calendar-with-everyone.aspx) with you. Offer to look up the calendar and book in time straightaway.​
+
+![adams-calendar.jpg](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/SiteAssets/Pages/Check-calendar-before-booking-an-appointment/adams-calendar.jpg)
+ Try calling him.<br>                                            Bad Example                    Sure, I'll just look up Adam's calendar and see when he's free. Obviously it's not a good idea to call Adam now as he is on a plane.                         Good Example
