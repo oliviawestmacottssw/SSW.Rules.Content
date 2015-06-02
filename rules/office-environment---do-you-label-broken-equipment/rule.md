@@ -19,4 +19,4 @@ Imagine you see one port of a hub not working, what do you do?
 When you see something not working like a phone or a PowerPoint, don't ignore it,                     stick a note to it and tell the appropriate person.
  
 Create a form that reminds you what is broken, who you have to call to fix it and any notes that may need to ensure that the item in question is fixed properly or replaced.
-![LeaningTowerOfPisa.jpg](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/LeaningTowerOfPisa.jpg) Figure: Label broken things​  
+![LeaningTowerOfPisa.jpg](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/LeaningTowerOfPisa.jpg)Figure: Label broken things​ SSW Design Team has created [this PDF​](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Documents/SSW-label-broken-things.pdf) which can be printed and attached to stuff that needs fixing.  ![Broken Things SSW label](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/broken-things.jpg)Figure: Print PDF, fill the form and attach to broken things in the office​​   
