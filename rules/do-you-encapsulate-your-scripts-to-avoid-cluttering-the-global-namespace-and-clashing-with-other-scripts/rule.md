@@ -18,7 +18,7 @@ In order to avoid your variables and methods to be overwritten, it's best pract
 
 ​​(function(ssw){
     var buttonClicked = false; //private variable 
-    ssw.click = function(){​ //public method
+    ssw.click = function(){​ //public method
     {
         buttonClicked = true;
     }
@@ -29,7 +29,7 @@ In order to avoid your variables and methods to be overwritten, it's best pract
 
 ​​​(function(ssw,**$**){
     var buttonClicked = false; //private variable 
-    ssw.click = function(){​ //public method
+    ssw.click = function()​ //public method
     {
         buttonClicked = true;
         **$('#id').html('&lt;span&gt;Example&lt;/span&gt;');**
@@ -40,7 +40,7 @@ In order to avoid your variables and methods to be overwritten, it's best pract
 
 (function(ssw,$,**undefined**){
     var buttonClicked = false; //private variable 
-    ssw.click = function(){​ //public method
+    ssw.click = function()​ //public method
     {
         buttonClicked = true;
         $('#id').html('&lt;span&gt;Example&lt;/span&gt;');
