@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Have you ever needed to send your calendar schedule to someone, to figure out the best time to schedule a meeting with them? Figuring out when someone is available within your organization is usually email as Outlook does this automatically, but if you're trying to coordinate with someone outside of your organization, this can be more challenging. In Outlook you can easily include a copy of your calendar schedule to make this process easier.
+Have you ever needed to send your calendar schedule to someone to figure out the best time to schedule a meeting with them? Figuring out when someone is available within your organization is usually easy, as Outlook can show you automatically. If you're trying to coordinate with someone outside of your organization, this can be more challenging. In Outlook you can easily include a copy of your calendar schedule to make this process easier.
  
 To insert a nice looking calendar and .ics file attachment in to your emai in Outlook, do the following:
 
