@@ -10,9 +10,7 @@ authors:
 ---
 
  
-Some clients think that a Project Manager is just a resource that increases the cost of a project. But a house does not get built if you leave the architect, carpenters, electricians and plumbers to just work it out between themselves. The house \*does\* get built if the foreman is keeping everyone on their toes, making sure they are doing their job.
-
-
+Some clients think that a Project Manager is just a resource that increases the cost of a project. But a house does not get built if you leave the architect, carpenters, electricians and plumbers to just work it out between themselves. The house \*does\* get built if the foreman is keeping everyone on their toes, making sure they are doing their job.  ​
 
  
 
@@ -39,7 +37,7 @@ This is much better than the old waterfall method which goes like this:
 - The Account Manager sends invoices when milestones are met.
 
 
-Insist that your Scrum Master (aka Project Manager) [maintains a strict project schedule](/Management/RulesToBetterScrumUsingTFS/Pages/MaintainStrictProjectSchedule.aspx).
+Insist that your Scrum Master (aka Project Manager) [maintains a strict project schedule](/does-your-scrum-master-%28aka-project-manager%29-maintain-a-strict-project-schedule).
 
 
 **#1 For Scrum Projects:**
