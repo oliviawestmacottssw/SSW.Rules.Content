@@ -15,7 +15,7 @@ authors:
 
 ---
 
- The findings of the Spec Review should be presented at a meeting with the key decision makers of the project for review and acceptance, generally in the form of a PowerPoint presentation. It is important that all the required people are in a room together to review the plan.  ![It's a lot easier to get a signature when you've got the right people in the room](/Management/RulestoBetterSpecificationReviews/PublishingImages/ProjectManagement_DecisionMakers_Small.jpg)   Figure: It's a lot easier to get a signature when you've got the right people in the room 
+ ​The findings of the Spec Review should be presented at a meeting with the key decision makers of the project for review and acceptance, generally in the form of a PowerPoint presentation. It is important that all the required people are in a room together to review the plan.  ![It's a lot easier to get a signature when you've got the right people in the room](/PublishingImages/ProjectManagement_DecisionMakers_Small.jpg)   Figure: It's a lot easier to get a signature when you've got the right people in the room 
 If you've run the Spec Review successfully the client should not be surprised by anything you present. This means discussions should focus on issues such as what particular requirements could be added into the scope in the first phase, or what releases can be completed by what date, rather than spending the meeting helping the client regain consciousness after they blacked out from seeing the price.
 
 The Spec Review presentation should be scheduled by the Project Manager or Account Manager for the afternoon of the final day of the Spec Review. 
@@ -36,8 +36,8 @@ Figure: Good example – this is an appointment with specific time for the next 
 - A Word document, or
 - A PowerPoint presentation
 - A PowerPoint presentation with narrations, exported to a video (recommended)
-![3-01-2014 10-13-04 PM.png](/Management/RulestoBetterSpecificationReviews/SiteAssets/Pages/SpecificationReviewPresentation/3-01-2014%2010-13-04%20PM.png)
+![3-01-2014 10-13-04 PM.png](/PublishingImages/3-01-2014%2010-13-04%20PM.png)
 
 Good Example: FireBootCamp - Scrum Commitments Specification VideoGood Example: FireBootCamp - SugarLearning Specification VideoGood Example: FireBootCamp - TimePRO Invoicing Specification VideoGood Example: FireBootCamp - Code Auditor Specification Video
-Once again, the presentation needs to pass a '[test please](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx "Test Please")' from another senior employee before the meeting takes place.
+Once again, the presentation needs to pass a '[test please](/do-you-conduct-a-＂test-please＂-internally-and-then-with-the-client "Test Please")' from another senior employee before the meeting takes place.
 
