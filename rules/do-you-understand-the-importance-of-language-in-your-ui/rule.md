@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- The tone of your application speaks volumes about how users view it. Read this [Google documentation on the voice of Android](http&#58;//developer.android.com/design/style/writing.html). 
+ The tone of your application speaks volumes about how users view it. Read this [Google documentation on the voice of Android](http&#58;//developer.android.com/design/patterns/help.html). 
 
 | ​ | ​Bad Example | ​Good Example |
 | --- | --- | --- |
