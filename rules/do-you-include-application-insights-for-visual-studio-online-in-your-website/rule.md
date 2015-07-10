@@ -14,12 +14,12 @@ authors:
  ​​Application Insights for Visual Studio Online gives you a great insight into how, when and where your website is used. 
 ​
 
-​If you're not using an analytics package in your website, you're flying blind when it comes to understanding how, when and where your webiste is used.
+If you're not using an analytics package in your website, you're flying blind when it comes to understanding how, when and where your webiste is used.
 
 To add Application Insights to your website, follow these steps.
 
 ![apin1-compressor.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/Do-you-include-Application-Insights-for-Visual-Studio-Online-in-your-website/apin1-compressor.png)
-**Figure: In Visual Studio, go to Tools | Extensions and Updates... and​ download Application Insights Tools for Visual Studio**
+**Figure: In Visual Studio, go to Tools | Extensions and Updates... and download Application Insights Tools for Visual Studio**
 
 **
 **
@@ -46,6 +46,7 @@ To add Application Insights to your website, follow these steps.
 **
 
 ![apin10-compressor.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/Do-you-include-Application-Insights-for-Visual-Studio-Online-in-your-website/apin10-compressor.png)
+**Figure: Dashboard showing summary and application metrics​**
 
 
 
@@ -56,7 +57,7 @@ Application Insights tracks a lot of metrics in your website but one of the most
 ![apin4-compressor.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/Do-you-include-Application-Insights-for-Visual-Studio-Online-in-your-website/apin4-compressor.png)
 **Figure: Breakdown of which browsers are used to access your website**
 
-**Note: **​Make sure Server Performance Monitoring is set up (currently not available for Azure Websites)
+**Note: ** Make sure Server Performance Monitoring is set up (currently not available for Azure Websites)
 
 ![1.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/Do-you-include-Application-Insights-for-Visual-Studio-Online-in-your-website/1.png)
 
