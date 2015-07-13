@@ -13,43 +13,29 @@ authors:
 
 ---
 
- ​​Whenever you are writing code, you should always make sure it conforms to your team's standards. The more pain a developer has when trying to check in, the better, because there will be less left up to testers to find.​
+ 
+​​Whenever you are writing code, you should always make sure it conforms to your team's standards. The more pain a developer has when trying to check in, the better, because there will be less left up to testers to find.​
 
- 
-
-​​No matter how good a coder you are, you will always miss some of them some of the time, so it's a really good idea to have a tool that automatically scans your code and reports on what you need to change in order to improve it.​
-
-
-
- 
+No matter how good a coder you are, you will always miss some of them some of the time, so it's a really good idea to have a tool that automatically scans your code and reports on what you need to change in order to improve it.
 
 Visual Studio has a great Code Analysis tool to help you look for problems in your code. Combine this with Jetbrain's ReSharper and your code will be smell free.​
 
 The levels of protection are:
-
-​​​![CricketHelmet.jpg](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/CricketHelmet.jpg)
-
-Figure: You wouldn't play cricket without protective gear and you shouldn't code without protective tools​
-
-
-
+ ![CricketHelmet.jpg](/PublishingImages/CricketHelmet.jpg)Figure: You wouldn't play cricket without protective gear and you shouldn't code without protective tools​
 ### Level 1
 
-Get ReSharper to green on each file you touch. You want the files you work on to be left better than when you started. See [Do you follow the boyscout rule?](http&#58;//www.ssw.com.au/ssw/standards/rules/RulestoBetterCode.aspx#BoyscoutRule)
+Get ReSharper to green on each file you touch. You want the files you work on to be left better than when you started. See [Do you follow the boyscout rule?](http&#58;//www.ssw.com.au/ssw/standards/rules/RulestoBetterCode.aspx#BoyscoutRule)
 
-**Tip**: You can run through a file and tidy it very quickly if you know two great keyboard shortcuts:
+**Tip:** You can run through a file and tidy it very quickly if you know two great keyboard shortcuts:
 
 - Alt + [Page Down/Page Up] : Next/Previous Resharper Error / Warning
 - Alt + Enter: Smart refactoring suggestions
 
-![Image 01](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/image001.png)
-​Figure: ReSharper will show Orange when it detects that there is code that could be improved![image002.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/image002.png)​Figure: ReSharper will show green when all code is tidy
+![Image 01](/PublishingImages/48bc81_image001.png)​Figure: ReSharper will show Orange when it detects that there is code that could be improved![image002.png](/PublishingImages/image002.png)​Figure: ReSharper will show green when all code is tidy
 ### Level 2
 
 Is to use [Code Auditor.](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx)
-
-![stylecop.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/SiteAssets/Pages/DoYouDoCodeAnalysis/CodeAuditor.png) **Figure: Code Auditor shows a lot of warnings in this test project**
-
+![stylecop.png](/PublishingImages/CodeAuditor.png)Figure: Code Auditor shows a lot of warnings in this test project
 **Note:** Document any rules you've turned off.
 
 ### Level 3
@@ -60,19 +46,16 @@ Is to use [Link Auditor](http&#58;//www.ssw.com.au/ssw/LinkAuditor/).
 
 ### Level 4
 
-Is to use  ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW") StyleCop to check that your code has consistent style and formatting.
-![stylecop.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/StyleCopInVS2010.png) Figure: StyleCop shows a lot of warnings in this test project
+Is to use StyleCop to check that your code has consistent style and formatting.
+![stylecop.png](/PublishingImages/StyleCopInVS2010.png) Figure: StyleCop shows a lot of warnings in this test project
 ### Level 5
 
 Run Code Analysis (was FxCop) with the default settings
-![runcodeanalysisvs11.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/CodeAnalysisVS11.png)Figure: Run Code Analysis in VS2015
-
-
-![Code Analysis](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/codeanalysis.png)Figure: The Code Analysis results indicate there are 17 items that need fixing
+![runcodeanalysisvs11.png](/PublishingImages/CodeAnalysisVS11.png)Figure: Run Code Analysis in VS2015![Code Analysis](/PublishingImages/codeanalysis.png)Figure: The Code Analysis results indicate there are 17 items that need fixing
 ### Level 6
 
 Ratchet up your Code Analysis Rules until you get to 'Microsoft All Rules'
-![image003.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/image003.png)Figure: Start with the Minimum Recommended Rules, and then ratched up.
+![image003.png](/PublishingImages/image003.png) Figure: Start with the Minimum Recommended Rules, and then ratched up.
 ### Level 7
 
 Is to document any rules you've turned off.
@@ -81,11 +64,9 @@ All of these rules allow you to disable rules that you're not concerned about. 
 
 Create an **\_InstructionsCodeAnalysis.doc **document in your solution with the rules that have been turned off and why.
 
-More Information: [Do you make instructions at the beginning of a project and improve them gradually?​​](/SoftwareDevelopment/RulesToBetterDotNETProjects/Pages/DoYouMakeInstructions.aspx)
-![stylecop_removed_rules.png](/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/PublishingImages/StyleCopRemovedRules.png)Figure: The document \_InstructionsCodeAnalysis.doc shows that there were 3 StyleCop rules disabled.
+More Information: [Do you make instructions at the beginning of a project and improve the​m gradually?​​](/do-you-make-instructions-at-the-beginning-of-a-project-and-improve-them-gradually)
+![stylecop_removed_rules.png](/PublishingImages/StyleCopRemovedRules.png)Figure: The document \_InstructionsCodeAnalysis.doc shows that there were 3 StyleCop rules disabled.
 
 Suggestion to MS: Allow developers to put a comment against any disabled rule when you turn it off
-<br>TODO - Damian: Add image
-
-​​​​
-
+ TODO - Damian: Add image
+  ​  
