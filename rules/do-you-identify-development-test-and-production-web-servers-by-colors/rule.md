@@ -12,7 +12,7 @@ authors:
 ---
 
 
-As per rule ["Do you have separate development, testing and production environment?"](/Management/RulesToSuccessfulProjects/Pages/SeparateDevelopmentTestingAndProductionEnvironment.aspx), it's better to use different background colors to identify Development, Test and Production servers.
+As per rule ["Do you have separate development, testing and production environment?"](/do-you-have-separate-development-testing-and-production-environments), it's better to use different background colors to identify Development, Test and Production servers.
 
 The way to change the default background color is to edit the CRM css files. These changes aren't supported and may be overwritten when CRM Rollups are applied.
 
@@ -20,8 +20,9 @@ The way to change the default background color is to edit the CRM css files. The
 
 Using theme feature to change the environment color.
 
-![CRM2015Theme.JPG](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/PublishingImages/CRM2015Theme.JPG)
-Figure: Changing CRM UI by using theme
+![CRM2015Theme.JPG](/PublishingImages/CRM2015Theme.JPG)
+
+​Figure: Changing CRM UI by using theme
 
 ### CRM 2013
 
@@ -37,7 +38,7 @@ width: 100%;
 position: relative;
 }
  Figure: Edit the background color to reflect the environment
-![crm2013_greenbar.jpg](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/PublishingImages/crm2013_greenbar.jpg)
+![crm2013_greenbar.jpg](/PublishingImages/crm2013_greenbar.jpg)
  Figure: CRM 2013 with a green navigation bar        
 ### CRM 2011 
 
@@ -49,7 +50,7 @@ Change color to a suitable color for the environment:
 
 background-color : #bbffaa;
 
-![](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/PublishingImages/CRM2011_ColorCodedRibbon.jpg)
+![](/PublishingImages/CRM2011_ColorCodedRibbon.jpg)
 
 Figure: CRM Ribbon color green to signify production environment
 
@@ -74,6 +75,6 @@ body.stage
             }
 ```
 
-          Figure: In C:\Inetpub\wwwroot\\_common\styles\global.css.aspx comment out and change          the reference in yellow so the users know what server they are on![Color of CRM Development Server](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/PublishingImages/CRM_DevelopmentColor.jpg)            Figure: Color of CRM Development Server - Red![Color of CRM Test Server](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/PublishingImages/CRM_TestColor.jpg)            Figure: Color of CRM Test Server - Yellow![Color of CRM Test Server](/SoftwareDevelopment/RulesToBetterCRMForDevelopers/PublishingImages/CRM_ProductionColor.jpg)            Figure: Color of CRM Production Server - Default
+          Figure: In C:\Inetpub\wwwroot\\_common\styles\global.css.aspx comment out and change          the reference in yellow so the users know what server they are on![Color of CRM Development Server](/PublishingImages/CRM_DevelopmentColor.jpg)            Figure: Color of CRM Development Server - Red![Color of CRM Test Server](/PublishingImages/CRM_TestColor.jpg)            Figure: Color of CRM Test Server - Yellow![Color of CRM Test Server](/PublishingImages/CRM_ProductionColor.jpg)            Figure: Color of CRM Production Server - Default
 
 
