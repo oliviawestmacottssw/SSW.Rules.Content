@@ -16,7 +16,7 @@ authors:
 ---
 
  
-If you use the default Azure staging web site Url, it can be difficult to remember and a waste of time trying to lookup the name everytime you access it. Follow this rule to increase your productivity and make it easier for everyone to access your staging site.
+​If you use the default Azure staging web site Url, it can be difficult to remember and a waste of time trying to lookup the name every time you access it. Follow this rule to increase your productivity and make it easier for everyone to access your staging site.
  
 
 | Default Azure Url:<br><ul><li><strong style="line-height&#58;20px;background-color&#58;initial;"><strong>sugarlearning<span style="color&#58;#ff0066;">-staging</span>.azurewebsites.net</strong></strong><br></li></ul> |
@@ -34,9 +34,9 @@ Figure: ​Good ​example - Staging Url having production Url with "staging." 
 
 1. Add a CName to the default Url to your DNS server
 
-![2015-03-10_17-13-55.png](/SoftwareDevelopment/Rules-to-Better-Azure/SiteAssets/Pages/Always-rename-staging-Url/2015-03-10_17-13-55.png) Figure: ​ CName being added to DNS for the default Url
+![2015-03-10_17-13-55.png](/PublishingImages/2015-03-10_17-13-55.png) Figure: ​ CName being added to DNS for the default Url
 
 2. Instruct Azure to accept the custom Url
 
-![custom domains (1).png](/SoftwareDevelopment/Rules-to-Better-Azure/SiteAssets/Pages/Always-rename-staging-Url/custom%20domains%20(1).png)Figure: ​ Azure being configured to accept the CName
+![custom domains (1).png](/PublishingImages/custom%20domains%20(1).png)Figure: ​ Azure being configured to accept the CName
 
