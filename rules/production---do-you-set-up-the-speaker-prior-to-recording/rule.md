@@ -67,12 +67,12 @@ The speaker arrives to the venue with a mindset that they are speaking to a room
 
  
 
- 4.    Make sure the speaker turns on <br>   [presentation mode](http&#58;//ntotten.com/2012/12/12/visual-studio-2012-presentation-mode/) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") in Visual Studio.
+ 4.    Make sure the speaker turns on <br>   [presentation mode](https&#58;//ntotten.com/2012/12/13/visual-studio-2012-presentation-mode/) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW") ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") in Visual Studio.
 
 
  
 
- 5.    Tell the speaker to read <br>   [Rules to Better PowerPoint Presentations](https&#58;//www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=8&amp;cad=rja&amp;ved=0CHMQFjAH&amp;url=http&#58;//www.ssw.com.au/ssw/standards/Rules/RulesToBetterPowerpointPresentations.aspx&amp;ei=ue-GUdiyNueWiQedlICQBg&amp;usg=AFQjCNGvMOBZ3W-Ri29auNajyEjSPzX9oA&amp;sig2=9Is7_Z_fo0VGQt9r5SZpOg&amp;bvm=bv.45960087%2cd.aGc) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW").
+ 5.    Tell the speaker to read <br>   [Rules to Better PowerPoint Presentations](https&#58;//www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=8&amp;cad=rja&amp;ved=0CHMQFjAH&amp;url=http&#58;//www.ssw.com.au/ssw/standards/Rules/RulesToBetterPowerpointPresentations.aspx&amp;ei=ue-GUdiyNueWiQedlICQBg&amp;usg=AFQjCNGvMOBZ3W-Ri29auNajyEjSPzX9oA&amp;sig2=9Is7_Z_fo0VGQt9r5SZpOg&amp;bvm=bv.45960087%2cd.aGc) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW") ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW").
 
 
  
