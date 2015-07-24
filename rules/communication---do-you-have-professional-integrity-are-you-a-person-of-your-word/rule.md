@@ -22,7 +22,7 @@ authors:
 3. **If you break your word, acknowledge it, and work out a way to repair your integrity**
     1. ​If the deadline passes and you didn't do the above, recognise the fault and propose a plan for how to do better ​next time
 
-![](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/improve.png)Figure: Good example: Acknowledging an improvement for next time
+![](/PublishingImages/improve.png)Figure: Good example: Acknowledging an improvement for next time
 People who have integrity:
 
 - Always take full ownership of any task given to them
