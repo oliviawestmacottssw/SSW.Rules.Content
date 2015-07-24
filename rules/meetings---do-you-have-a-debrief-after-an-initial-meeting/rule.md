@@ -23,7 +23,7 @@ Questions that you should ask each other are:
 6. How can we improve our sales process from what we learned in this meeting?
 
 
-You should be as honest as possible with each other during the debrief but always use the [sandwich rule](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/Pages/The-sandwich-rule.aspx).
+You should be as honest as possible with each other during the debrief but always use the [sandwich rule](/Pages/The-sandwich-rule.aspx).
              Any good ideas or suggested changes should be emailed to the Product Owner.              
 
 
