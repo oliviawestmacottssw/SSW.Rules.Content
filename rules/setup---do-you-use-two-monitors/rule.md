@@ -17,4 +17,4 @@ Studies have shown that you can get up to a 30% increase in productivity by usin
 Providing users with the ability to access more information and images simultaneously,                     multiple monitor configurations allow for more efficient multi-tasking between applications.
 
 For example, if you were a developer; you could have your references in one monitor                     and your Visual Studio in another, and directly compare the two without compromising                     on space or layout.
-![Two Monitors Better Than One ](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/TwoMonitorsBetterThanOne.JPG)                       Figure: Two monitors are better than one<br>                    
+![Two Monitors Better Than One ](/PublishingImages/TwoMonitorsBetterThanOne.JPG)                       Figure: Two monitors are better than one<br>                    
