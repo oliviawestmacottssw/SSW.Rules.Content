@@ -31,6 +31,6 @@ Once you have a build server configured, you'll be able to see the build control
 
 
 
-![vso_build.png](/ALM/RulesToBetterBranchingAndBuilds/PublishingImages/vso_build.png)
+![vso_build.png](/PublishingImages/vso_build.png)
 
 <dd class="ssw15-rteElement-FigureGood">Figure&#58; Good Example - We have the option of an on-premises build controller&#160;as well as the Hosted Build controller</dd>
