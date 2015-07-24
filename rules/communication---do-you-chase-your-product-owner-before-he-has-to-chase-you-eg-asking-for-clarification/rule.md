@@ -26,5 +26,5 @@ What do you mean?
 <br>                    Will catch you later about it
 
 <br>                    UlyFigure: Good example - No bounce, still owning the task - even though you need clarification
-You can see more information on this at [Do you use email for tasks only - not communication?](/Communication/RulesToBetterEmail/Pages/EmailForTasksNotCommunication.aspx) and [Do you seek clarification via the telephone first?](/Communication/RulesToBetterEmail/Pages/SeekClarificationViaTelephoneFirst.aspx)
+You can see more information on this at [Do you use email for tasks only - not communication?](/dones-do-you-use-email-for-tasks-only-not-communication) and [Do you seek clarification via the telephone first?](/do-you-seek-clarification-via-the-telephone-first)
 
