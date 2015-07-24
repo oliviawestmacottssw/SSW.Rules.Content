@@ -16,11 +16,11 @@ authors:
    ​ 
 If you have a number of Team Projects open from the same TFS Project Collection, all of their workspaces will be included by default.  You should remove those workspaces that aren’t being used otherwise the build server will get the source for every workspace in this list before starting a build.
 
- ![](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/bad_workspace.png)
+ ![](/PublishingImages/bad_workspace.png)
    ![](/PublishingImages/bad.gif)**Figure: Bad example – Several workspaces from other team projects are included by default**
 
  
 
-![](/ITAndNetworking/RulesToBetterWindowsServers/PublishingImages/good_workspace.png)
+![](/PublishingImages/good_workspace.png)
 **  ![](/PublishingImages/good.gif)Figure: Good example – Only the relevant workspace has been included in this build definition**
 
