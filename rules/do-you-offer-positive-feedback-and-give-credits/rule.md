@@ -14,5 +14,5 @@ Receiving positive feedback makes everyone feel good. Forgetting to recognize su
  
 This is a simple rule - if someone goes beyond the call of duty, you thank them.
 
-![GoodJob.jpg](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/GoodJob.jpg)
+![GoodJob.jpg](/PublishingImages/GoodJob.jpg)
 Figure: Give credit whe​​re credit is due​
