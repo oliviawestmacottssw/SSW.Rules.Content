@@ -11,12 +11,12 @@ authors:
 
 ---
 
- ​​With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others.  ![Challenges ahead sign](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/challenges-ahead-sign.jpg) Figure: Remove roadblocks 
+ ​​With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others.  ![Challenges ahead sign](/PublishingImages/challenges-ahead-sign.jpg) Figure: Remove roadblocks 
 This is the order which you should work:
 
 1. **Urgent emails** - emails with "URGENT" in the subject e.g. URGENT - website is down
-2. Emails about [Timesheets](/Management/Rules-to-Better-Timesheets/Pages/what-timesheets-are.aspx)or invoicing issues
-3. **Your existing clients** - e.g. Normal planned client work and client administration (preferably working from a sprint [backlog](/Management/RulesToBetterProductOwners/Pages/how-to-manage-the-Product-Backlog.aspx) and Daily Scrums)
+2. Emails about [Timesheets](/do-you-know-how-important-timesheets-are)or invoicing issues
+3. **Your existing clients** - e.g. Normal planned client work and client administration (preferably working from a sprint [backlog](/do-you-know-how-to-manage-the-product-backlog) and Daily Scrums)
 4. **Other client work** - Ask others if you can help with their client work
 5. **Prospective clients** - project management, answering questions and setting up meetings
 6. Internal - all of the following might have their priorities ordered by the Daily Scrum
@@ -36,10 +36,10 @@ Tip #1: Don't move an important task out of your inbox unless:
 
 Figure: Leave it in your inbox - unless you need to delegate an important task
 ​Tip #2: Use inbox subfolders to group and prioritise tasks​​
-![subfolders.png](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/subfolders.png)
+![subfolders.png](/PublishingImages/subfolders.png)
 Figure: Group by subfolders under your inbox
-![Tasks](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/tasks-illustration.jpg) Figure: Efficient people keep a priority list (often written) 
+![Tasks](/PublishingImages/tasks-illustration.jpg) Figure: Efficient people keep a priority list (often written) 
 Also, it's common that priority orders change, but clients don't always mean to, so double check that the client means this.
 When someone is asking you to do a new task, and you are still working on some other task, you should ask:
 
-"Are you changing the priority order? Do you want this new task done before the current task I'm working on, which is xxx." Figure: Confirm with the client "Are you changing the prior order?"![](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/prioritization.jpg) Figure: Prioritization - The most recent task assigned is not necessarily the most important. Mentally do this (e.g. an air traffic controller does not deal with the newest plane that has popped up on his radar when he has 4 lined up to land
+"Are you changing the priority order? Do you want this new task done before the current task I'm working on, which is xxx." Figure: Confirm with the client "Are you changing the prior order?"![](/PublishingImages/prioritization.jpg) Figure: Prioritization - The most recent task assigned is not necessarily the most important. Mentally do this (e.g. an air traffic controller does not deal with the newest plane that has popped up on his radar when he has 4 lined up to land
