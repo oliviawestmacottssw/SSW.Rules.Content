@@ -12,7 +12,7 @@ authors:
 ---
 
  
-<font face="Calibri">When defining a build, you should always check the Workspace tab. Only the workspace relevant to your build should be included.</font>
+<font face="Calibri">​When defining a build, you should always check the Workspace tab. Only the workspace relevant to your build should be included.</font>
    ​ 
 <font face="Calibri">If you have a number of Team Projects open from the same TFS Project Collection, all of their workspaces will be included by default.&#160; You should remove those workspaces that aren’t being used otherwise the build server will get the source for every workspace in this list before starting a build.</font>
 
