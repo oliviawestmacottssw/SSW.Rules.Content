@@ -25,9 +25,9 @@ authors:
 - If it is for a client, include if it is to be on-charged (E.g. please invoice (add 20%))
 
  ​  
-​    ![](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/purchase-please-bad-example.jpg)
+​    ![](/PublishingImages/purchase-please-bad-example.jpg)
    Figure: Bad Exa​mple - this expense will not be reimbursed​
 
 
-![](/Management/Rules-to-Better-Software-Consultants-Working-in-a-Team/PublishingImages/purchase-please-good-example.jpg)​
+![](/PublishingImages/purchase-please-good-example.jpg)​
    Figure: Good Example - this expense will be reimbursed, if David gets a reply from Adam
