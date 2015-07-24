@@ -14,5 +14,5 @@ Many developers sit with their faces to the screen, isolating themselves from   
  
 No-one gets a medal for solving a problem                     on their own in 2 days, when it could've been solved by 2 people in a couple of                     hours.
 
-​The [Daily Scrum](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)​​ is a good time to bring up any ongoing issues or sticking points if you haven't already.
+​The [Daily Scrum](/methodology-do-you-do-daily-scrums-%28aka-stand-up-meetings%29)​​ is a good time to bring up any ongoing issues or sticking points if you haven't already.
 
