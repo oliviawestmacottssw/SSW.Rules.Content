@@ -10,7 +10,7 @@ authors:
 ---
 
  
-**​​Step 1 – Application Insights to your Project**
+**​​​Step 1 – Application Insights to your Project**
 
 To add Application Insights to a new project, check the 'Add Application Insights to Project' checkbox in the New Project dialog.
 
@@ -22,7 +22,7 @@ After 10 to 15 minutes, telemetry data will automatically start appearing in the
 
 If you see the following, click and follow the instructions that appear on the blade when you click the greyed out graph.
 
-![Greyed out app insights graph.png](/WebSites/RulesToBetterApplicationInsights/PublishingImages/Pages/How-to-set-up-application-insights/Greyed%20out%20app%20insights%20graph.png)
+![Greyed out app insights graph.png](/PublishingImages/Greyed%20out%20app%20insights%20graph.png)
 
 **Step 3 – Enable Application Insights to log expectations**
 
