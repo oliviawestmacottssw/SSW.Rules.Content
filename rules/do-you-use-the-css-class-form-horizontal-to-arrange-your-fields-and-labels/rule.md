@@ -12,8 +12,8 @@ authors:
  
 You should align labels **next** to the inputs on medium and large displays and **above** inputs on small and extra-small displays.
  
-​Bootstrap makes this easy. Use the css class     **form-horizontal **on your html form for it to use this behaviour by default.​
-
+Bootstrap makes this easy. Use the css class **form-horizontal **on your html form for it to use this behaviour by default.
+ 
 &lt;form class="form-horizontal"&gt;
     &lt;div class="form-group"&gt;
         &lt;label for="inputEmail3" class="col-sm-2 control-label"&gt;Email&lt;/label&gt;
@@ -27,15 +27,15 @@ You should align labels **next** to the inputs on medium and large displays and 
             &lt;input type="password" class="form-control" id="inputPassword3" placeholder="Password"&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-&lt;/form&gt;​
+&lt;/form&gt;
 Figure: Example html using Bootstrap to get the above behaviour
-See     [http://getbootstrap.com/css/#forms-horizontal](http&#58;//getbootstrap.com/css/#forms-horizontal) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") for more information.​
+​See [http://getbootstrap.com/css/#forms-horizontal](http&#58;//getbootstrap.com/css/#forms-horizontal) for more information.
 
 ### Related Rule
 
 
 
-- [Do you know how to arrange forms?​​​](/WebSites/RulesToBetterWebsitesLayout/Pages/how-to-arrange-forms.aspx)
+- [Do you know how to arrange forms?](/do-you-know-how-to-arrange-forms)
 
 
 
