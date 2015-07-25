@@ -19,9 +19,8 @@ You should have a banner that clearly show the hashtag people should use to refe
 
 See examples of pages that advertise their hashtags:
 
-- [SSW TV](http&#58;//tv.ssw.com/)  #SSWTV
-- ​[test external link](http&#58;//www.ssw.com.au/)link
+- [SSW TV](http&#58;//tv.ssw.com/)  #SSWTV​
 - [Sydney .NET User Group](http&#58;//www.ssw.com.au/ssw/NETUG/Sydney.aspx)  #NETUG
 - [SSW Rules](/) #SSWRules
 
- ![Twitter hashtag example](/Communication/RulesToBetterSocialNetworking/PublishingImages/hashtag-twitter.jpg) Figure: This Twitter widget shows the hashtags working ![SharePoint conference hashtag](/Communication/RulesToBetterSocialNetworking/PublishingImages/sharepoint-conference-hashtag.jpg)Figure: Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use
+ ![Twitter hashtag example](/PublishingImages/hashtag-twitter.jpg) Figure: This Twitter widget shows the hashtags working ![SharePoint conference hashtag](/PublishingImages/sharepoint-conference-hashtag.jpg)Figure: Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use
