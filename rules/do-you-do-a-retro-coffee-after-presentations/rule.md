@@ -24,5 +24,5 @@ Pick a few attendees at random to follow up with, give them a call and ask if yo
 - Whether there are any issues they’re having with those projects
 
 
-Read how this rule is also useful for account managers on [Do you follow up course attendees for consulting work?](/Management/RulesToSuccessfulSalesAndAccountManagement/Pages/Follow-up-course-attendees-for-consulting-work.aspx) ![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window")
+Read how this rule is also useful for account managers on [Do you follow up course attendees for consulting work?](/do-you-follow-up-course-attendees-for-consulting-work) ​
 
