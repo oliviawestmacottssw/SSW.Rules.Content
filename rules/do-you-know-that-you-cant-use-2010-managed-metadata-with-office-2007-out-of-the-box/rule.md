@@ -29,7 +29,7 @@ Office 2003:1. Can't create new or Open documents with managed metadata
 
  See more: 
 
-[https://www.nothingbutsharepoint.com/2010/12/21/managed-metadata-columns-in-office-2007-aspx-2/](https&#58;//www.nothingbutsharepoint.com/2010/12/21/managed-metadata-columns-in-office-2007-aspx-2/)![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
+[https://www.nothingbutsharepoint.com/2010/12/21/managed-metadata-columns-in-office-2007-aspx-2/](/SoftwareDevelopment/RulesToBetterSharePoint/Pages/www.nothingbutsharepoint.com/2010/12/21/managed-metadata-columns-in-office-2007-aspx-2) ​
 
 Best Solution:
 
