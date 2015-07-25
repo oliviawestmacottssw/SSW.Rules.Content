@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​It is vital to have the speaker ready and equipped prior to recording. There are a number of things that need to be done to make sure the speaker is ready for recording.
+​​It is vital to have the speaker ready and equipped prior to recording. There are a number of things that need to be done to make sure the speaker is ready for recording.
  
 
 It is vital to have the speaker ready and equipped prior to recording. There are a number of things that need to be done to make sure the speaker is ready for recording.
