@@ -10,18 +10,18 @@ authors: []
  There is often a bit of confusion about what constitutes a brief proposal and what constitutes a specification review.<br> 
 
 
-[Brief pr oposal](/Management/Rules-To-Better-Software-Consultants-Dealing-With-Clients/Pages/BriefProposalOrSpecificationReview.aspx) - free:
+[Brief proposal](/Pages/BriefProposalOrSpecificationReview.aspx) - free:
 
-- Information about your company
+- Information about your company​
 - A basic overview of what you'll do for them
 - The next steps
 
 
-[Specification Review](/management/rulestobetterspecificationreviews/pages/default.aspx) - billed:
+[Specification Review](/rules) - billed:
 
 - A technical document listing in detail what technologies will be used and how
 - Most likely includes initial release plans and ballparks
 
 
-[See](/management/rulestobetterspecificationreviews/pages/default.aspx) [Rules to Successful Sales Account Management](/Management/RulesToSuccessfulSalesAndAccountManagement/Pages/Meetings-Outcomes-from-initial-meeting.aspx)
+[See](/rules) [Rules to Successful Sales Account Management](/meetings-do-you-know-the-outcomes-from-your-initial-meeting-%28spec-review-or-ad-hoc-work%29)
 
