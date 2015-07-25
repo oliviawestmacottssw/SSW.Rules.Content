@@ -15,7 +15,7 @@ authors:
 ​When others mention you on their blog or podcast and if they re-tweet you then you should always thank them:
 
 
-> @[briankel](http&#58;//twitter.com/briankel) said something nice about me in his 100th This Week On Channel 9 episode        [https://bit.ly/cPD0vg](https&#58;//bit.ly/cPD0vg) :) Thanks Brian...        [7:30 AM Mar 8th](http&#58;//twitter.com/MrHinsh/status/10160987074)       via        [bit.ly](https&#58;//bitly.com/)![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW")
+> @[briankel](http&#58;//twitter.com/briankel) said something nice about me in his 100th This Week On Channel 9 episode        [https://bit.ly/cPD0vg](https&#58;//bit.ly/cPD0vg) :) Thanks Brian...        [7:30 AM Mar 8th](http&#58;//twitter.com/MrHinsh/status/10160987074)       via        [bit.ly](https&#58;//bitly.com/)​
 > 
 > **Figure: Good example, always thanking someone is not just good practice and polite, you both get Google juice as well.
 > 
