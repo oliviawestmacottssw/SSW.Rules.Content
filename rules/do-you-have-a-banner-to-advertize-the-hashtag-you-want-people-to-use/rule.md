@@ -15,12 +15,13 @@ authors:
 
 It is a free tool that can be used in combination with other forms of promoting services, products and events. Create a short, consistent and easy to remember hashtag so people can find and talk about your business.​
  
-​You should have a banner that clearly show the hashtag people should use to refer to that specific subject.
+You should have a banner that clearly show the hashtag people should use to refer to that specific subject.
 
 See examples of pages that advertise their hashtags:
 
-- [SSW TV](http&#58;//tv.ssw.com/) ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") ![](/_LAYOUTS/15/Images/SSW/external.gif "You are now leaving SSW") #SSWTV
-- [Sydney .NET User Group](http&#58;//www.ssw.com.au/ssw/NETUG/Sydney.aspx) ![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window") ![](/_LAYOUTS/15/Images/SSW/IconNewWindow.png "This opens in a New Window") #NETUG
+- [SSW TV](http&#58;//tv.ssw.com/)  #SSWTV
+- ​[test external link](http&#58;//www.ssw.com.au/)link
+- [Sydney .NET User Group](http&#58;//www.ssw.com.au/ssw/NETUG/Sydney.aspx)  #NETUG
 - [SSW Rules](/) #SSWRules
 
-![Twitter hashtag example](/Communication/RulesToBetterSocialNetworking/PublishingImages/hashtag-twitter.jpg)Figure: This Twitter widget shows​ the hashtags working​​![SharePoint conference hashtag](/Communication/RulesToBetterSocialNetworking/PublishingImages/sharepoint-conference-hashtag.jpg)Figure: Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use
+ ![Twitter hashtag example](/Communication/RulesToBetterSocialNetworking/PublishingImages/hashtag-twitter.jpg) Figure: This Twitter widget shows the hashtags working ![SharePoint conference hashtag](/Communication/RulesToBetterSocialNetworking/PublishingImages/sharepoint-conference-hashtag.jpg)Figure: Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use
