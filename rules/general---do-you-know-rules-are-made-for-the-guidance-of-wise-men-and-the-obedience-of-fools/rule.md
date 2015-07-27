@@ -18,10 +18,10 @@ Whenever you're doing something more than once there should be a clear procedure
 
 But there are pros and cons to having standards.
 
-The pros:
+The pros:​
 
 - They help speed up the decision making process – getting you to the best decision faster
-- They help [consistency](/Management/RulesToSuccessfulProjects/Pages/DoYouUnderstandTheValueOfConsistency.aspx)
+- They help [consistency](/Pages/DoYouUnderstandTheValueOfConsistency.aspx)
 
 
 The cons:
@@ -38,8 +38,8 @@ If you think something can be done better or the standard is simply out of date,
 
 1. Ignore it and hope someone fixes it (this is punishable by being sat on by a wild hippo);
 2. Fix it yourself straight away (preferred);
-3. Fix it yourself later ([send yourself an email](/Communication/RulesToBetterEmail/Pages/EmailToMyself.aspx));
-4. Ask someone else to fix it (following the [change "x" to "y"](/Communication/RulesToBetterEmail/Pages/Change-from-X-to-Y.aspx) rule) ​​​
+3. Fix it yourself later ([send yourself an email](/dones-do-you-send-yourself-emails));
+4. Ask someone else to fix it (following the [change "x" to "y"](/do-you-ask-for-content-changes-using-from-x-to-y) rule) ​​​
 
  ​  
 For any rules on our site you can click the 'Feedback to SSW' link at the bottom left.
