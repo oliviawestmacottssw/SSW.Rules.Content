@@ -10,9 +10,10 @@ authors:
 ---
 
  
-After the Sprint Planning Meeting it is useful for the Development Team to send the Product Owner (PO) a Sprint Forecast for the next Sprint. Doing this helps to improve common understanding in, and sometimes to enforce, the relationship between the PO and the Team.
+After the [Sprint Planning Meeting](/Pages/SprintPlanningMeeting.aspx)​ it is useful for the Development Team to send the Product Owner (PO) a Sprint Forecast for the next Sprint. Doing this helps to improve common understanding in, and sometimes to enforce, the relationship between the PO and the Team.​
 
- 
+
+
 
 This is simply an agreement between the Development Team and the PO for one Sprint and should be confirmed via an e-mail at the beginning of every Sprint.
  
@@ -22,7 +23,7 @@ This is simply an agreement between the Development Team and the PO for one Spr
 
 
 Each of the Sprints in a Scrum project can be considered a mini-project that has Time (Sprint Length), Scope (Sprint Backlog), Quality (Definition of Done) and Cost (Team Size\*Sprint Length). Only the scope can vary and this is measured every sprint.
-![ScrumSprintPlanning](/Management/RulesToBetterScrumUsingTFS/PublishingImages/ScrumSprintPlanningEmail1.png)**Figure: Good Example - the product owner should reply to the team and commit to the forecast**
+![ScrumSprintPlanning](/PublishingImages/ScrumSprintPlanningEmail1.png)**Figure: Good Example - the product owner should reply to the team and commit to the forecast**
 
 **Hi [Product Owner], **
 
@@ -56,28 +57,28 @@ The Team will do its best to deliver this set of features (Scope), to a defined 
 
 **Figure: The sprint backlog**
 
-&lt;This is as per rule:        [http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Forecast-email.aspx](/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Forecast-email.aspx) /&gt;
+&lt;This is as per rule:        [http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Forecast-email.aspx](/Pages/Do-you-create-a-Sprint-Forecast-email.aspx) /&gt;
 
 **Figure: Good Example - copy this as email template and send to Product Owner. Subject: &lt;Client Name&gt; Sprint xxx Forecast**
 
-Tip: Use this     [Outlook email template](/Management/RulesToBetterScrumUsingTFS/Documents/SprintContract.oft "Email Template")
+Tip: Use this     [Outlook email template](/Documents/SprintContract.oft "Email Template")
 
 More instructions are as below:
 
 1. Go to TFS web access page. E.g. http://tfs.northwind.com/tfs/web/UI/Pages/WorkItems/QueryResult.aspx?path=SSW.SharePoint/Team Queries/\_Areas/SP2010Migration/Sprint11(current.SolutionUpgrade)/Sprint11 backlog&pguid=32c0d57a-6e46-424f-9411-231bc0f86291
 2. Select <br>      **Tools** | <br>      **Email All Work Items as a List :**
-![Update the Table](/Management/RulesToBetterScrumUsingTFS/PublishingImages/FormattingTableImage1.jpg)
+![Update the Table](/PublishingImages/FormattingTableImage1.jpg)
 Figure: Select Tools -&gt; Email all work items as a list
 3. Ctrl +A and Copy the Email Content:
 
-![Copy the content of the table](/Management/RulesToBetterScrumUsingTFS/PublishingImages/FormattingTableImage2.jpg)
+![Copy the content of the table](/PublishingImages/FormattingTableImage2.jpg)
 Figure: Copy the content of the table
 4. Paste to the Forecast email, and format the table:
     - Remove some useless columns
     - Make the "User Stories" rows <br>            **Bold**
     - Make the "Task" rows font colour lighter black
 
-    ![Good Example of a Table](/Management/RulesToBetterScrumUsingTFS/PublishingImages/GoodExampleOfTableFormat.jpg)
+    ![Good Example of a Table](/PublishingImages/GoodExampleOfTableFormat.jpg)
 Figure: Good Example of a Table
 
 
