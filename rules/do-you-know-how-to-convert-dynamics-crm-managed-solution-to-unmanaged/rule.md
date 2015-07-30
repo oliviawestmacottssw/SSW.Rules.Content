@@ -16,4 +16,4 @@ If you don't have the unmanaged version which is bad practice. see [her​e](htt
 
 
 
-Thanks the author Gayan Perera who demos this in the video [https://channel9.msdn.com/Events/TechEd/NewZealand/TechEd-New-Zealand-2012/DYN401](https&#58;//channel9.msdn.com/Events/TechEd/NewZealand/TechEd-New-Zealand-2012/DYN401) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
+Thanks the author Gayan Perera who demos this in the video [https://channel9.msdn.com/Events/TechEd/NewZealand/TechEd-New-Zealand-2012/DYN401](https&#58;//channel9.msdn.com/Events/TechEd/NewZealand/TechEd-New-Zealand-2012/DYN401)
