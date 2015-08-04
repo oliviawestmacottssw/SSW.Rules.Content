@@ -14,7 +14,7 @@ authors:
 
 
 
-There are a few ways that you can easily add comments and interactivity, but using widgets from:
+There are a few ways that you can easily add comments an​​d interactivity, but using widgets from:
 
 
 - [​Disqus](https&#58;//disqus.com/)
