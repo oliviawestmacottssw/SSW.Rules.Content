@@ -25,7 +25,7 @@ There are a few ways that you can easily add comments an​​d interactivity, 
 
 
 
-​The following video shows an overview of Yotpo ratings that we've implemented for our SSW Rules.
+​The following video shows an overview of Yotpo ratings which we've implemented for our SSW Rules.
 
  
 Good Example: Yotpo ratings on the SSW Rules site​
