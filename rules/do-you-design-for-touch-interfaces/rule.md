@@ -16,7 +16,7 @@ The key thing to remember is that a mobile phone is a  different device and have
 
 True mobile interface design focuses that which is used on mobile and simplifies the process.
 <dl class="badImage"><dt>
-                      <img src="/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/TimePro-NotMobile.png" alt="" style="margin&#58;5px;">
+                      <img src="/PublishingImages/TimePro-NotMobile.png" alt="" style="margin&#58;5px;">
                    </dt><dd>​Figure&#58; Bad Example - TimePro as it renders on mobile. It is near unusable!<br></dd></dl><dl class="goodImage"><dt>
-                      <img width="286" src="/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/TimePro-Mobile.png" alt="" style="margin&#58;5px;">
+                      <img width="286" src="/PublishingImages/TimePro-Mobile.png" alt="" style="margin&#58;5px;">
                    </dt><dd>​Figure&#58; Good Example - TimePro designed for mobile.</dd></dl>
