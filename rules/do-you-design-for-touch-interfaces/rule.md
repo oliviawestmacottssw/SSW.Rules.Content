@@ -15,5 +15,5 @@ Although mobile browsers are capable of rendering your normal  website, some fun
 The key thing to remember is that a mobile phone is a  different device and have completely different use cases. EBay on a  desktop can be used for a large variety of cases, including the creation  of new bids, while EBay Mobile is primarily for checking activity while  on the move. The focus of a mobile design for EBay centers on browsing,  bidding and status updates for products - it doesn't need to cover all  cases, just the right ones.
 
 True mobile interface design focuses that which is used on mobile and simplifies the process.
-![](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/TimePro-NotMobile.png)​Figure: Bad Example - TimePro as it renders on mobile. It is near unusable!
-![](/DesignandPresentation/RulestoBetterInterfacesGeneral/PublishingImages/TimePro-Mobile.png)​Figure: Good Example - TimePro designed for mobile.
+![](/PublishingImages/TimePro-NotMobile.png)​Figure: Bad Example - TimePro as it renders on mobile. It is near unusable!
+![](/PublishingImages/TimePro-Mobile.png)​Figure: Good Example - TimePro designed for mobile.
