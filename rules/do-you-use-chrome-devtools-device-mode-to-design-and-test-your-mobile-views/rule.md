@@ -15,13 +15,13 @@ authors:
 
 
 
-
+ 
  
 
-> ​​​![](/DesignandPresentation/RulestoBetterInterfacesMobile/PublishingImages/Pages/Do-you-use-Chrome-DevTools-Device-Mode-to-design-and-test-your-mobile-views/bad-rules-testing-responsivewebsites.jpg)
+> ​​​![](/PublishingImages/bad-rules-testing-responsivewebsites.jpg)
 
 Figure: Bad example - Using your browser to test a responsive website layout.
-​![2015-02-16_17-44-01.jpg](/DesignandPresentation/RulestoBetterInterfacesMobile/PublishingImages/Pages/Do-you-use-Chrome-DevTools-Device-Mode-to-design-and-test-your-mobile-views/2015-02-16_17-44-01.jpg)
+​![2015-02-16_17-44-01.jpg](/PublishingImages/2015-02-16_17-44-01.jpg)
 Figure: Good example - Using Device Mode & Mobile Emulation in Chrome.
 **How to test a responsive website with Chrome DevTools Device Mode **
 
