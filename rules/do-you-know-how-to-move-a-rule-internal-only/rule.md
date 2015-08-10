@@ -12,10 +12,11 @@ authors:
 ---
 
  
-**Note**: 
-1) Moving a rule page physically is not needed anymore, because all rule pages are staying in the same "Pages" library after we moved rule pages from 100+ subwebs into one "Pages" library in root web.
+Moving a rule page from a folder to another is not needed anymore. All rule pages are staying in the same library (folder called "Pages") since we moved the rule pages from 100+ subwebs into this one.
 
-2) If you want a rule page to be shown on a different rule summary page, just simply change the "Rule Category" filed value to the relevant "rule category" name.
+If you want a rule page to be shown on a different rule summary page, simply change the "Rule Category" field value to the relevant one (see step #7 on [Do you know how to create a rule?​](/Communication/Rules-to-Better-Adding-Rules/Pages/how-to-create-a-rule.aspx))
+
+--​
 
 Sometimes you might need to move a rule from a category to another. You can do this by following these steps:
 
