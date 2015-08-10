@@ -12,9 +12,14 @@ authors:
 ---
 
  
-​Sometimes you might need to move a rule from a category to another. You can do this by following these steps:
+**Note**: 
+1) Moving a rule page physically is not needed anymore, because all rule pages are staying in the same "Pages" library after we moved rule pages from 100+ subwebs into one "Pages" library in root web.
 
-(Steps 1 and 2 can be skipped by clicking on [this link](/_layouts/15/sitemanager.aspx?Source=%7bWebUrl%7d_layouts/15/settings.aspx)​)
+2) If you want a rule page to be shown on a different rule summary page, just simply change the "Rule Category" filed value to the relevant "rule category" name.
+
+Sometimes you might need to move a rule from a category to another. You can do this by following these steps:
+
+(Steps 1 and 2 can be skipped by clicking on [this link](/_layouts/15/sitemanager.aspx?Source=%7bWebUrl%7d_layouts/15/settings.aspx) )
 
 1. ​Click on "Site Settings": <br>      ![site-settings.png](/Communication/Rules-to-Better-Adding-Rules/PublishingImages/Pages/how-to-move-a-rule/site-settings.png)​ Figure: Make sure you are logged in and click on "Site Settings"
 2. Under "Site Administration", click on "Content and structure": <br>      ![content-structure.png](/Communication/Rules-to-Better-Adding-Rules/PublishingImages/Pages/how-to-move-a-rule/content-structure.png)Figure: Go to "Content and structure"
