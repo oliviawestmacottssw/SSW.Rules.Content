@@ -9,8 +9,8 @@ authors:
 
 ---
 
- **Note: **
-I’m going to take the control back of updating “rule categories” for a few weeks, as we had some issues with the rule categories when everyone can update them. I’m going to sort this issue out in the next few weeks, during this period, please email to me if you need to create/update a rule summary page or need to create/update a rule category.
+ ** Note: **
+William is going to take the control back of updating “rule categories” for a few weeks, as we had some issues with the rule categories when everyone can update them. I’m going to sort this issue out in the next few weeks, during this period, please email to me if you need to create/update a rule summary page or need to create/update a rule category.
 ​
 
 
