@@ -8,6 +8,7 @@ authors: []
 ---
 
 
-Unfortunately, there is no easy solution to this. What we need is a 'version' field  and an 'Update' button - See our **[Suggestions to Microsoft PowerPoint: Check for Updates](http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/Office.aspx#Version)**
-<dl class="image">    <dt><img alt="Check Template" src="http&#58;//sharepoint.ssw.com.au/Standards/Communication/RulesToBetterPowerpointPresentations/PublishingImages/CheckTemplate.jpg"></dt>
-    <dd>Figure&#58; This is how you can see if you are using the template file </dd></dl>
+Unfortunately, there is no easy solution to this. What we need is a 'version' field and an 'Update' button - See our **[Suggestions to Microsoft PowerPoint: Check for Updates](http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/Office.aspx#Version)**
+<dl class="image"><dt>
+      <img alt="Check Template" src="/PublishingImages/CheckTemplate.jpg">
+   </dt><dd>Figure&#58; This is how you can see if you are using the template file </dd></dl>
