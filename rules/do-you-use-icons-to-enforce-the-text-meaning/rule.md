@@ -11,15 +11,10 @@ authors:
 
 ---
 
- ​ People may not pay attention to some important words in your pages. While adding a simple and clear icon beside the words will make the difference. Add a green tick for successful messages and a red cross for error messages.
+ ​People may not pay attention to some important words in your pages. While adding a simple and clear icon beside the words will make the difference. Add a green tick for successful messages and a red cross for error messages.
 ​ <dl class="image"><dt>
-                        <img src="/PublishingImages/icon-1.jpg" alt=""></dt><dd>
-                        Figure&#58; Icon to indicate an empty shopping cart</dd></dl><dl class="image"><dt>
-                        <img src="/PublishingImages/icon-2.jpg" alt=""></dt><dd>
-                        Figure&#58; Icon to warn some functionality may not work</dd></dl><dl class="image"><dt>
-                        <img src="/PublishingImages/icon-3.jpg" border="0" alt=""></dt><dd>
-                        Figure&#58; Icon of OK</dd></dl>
+                        </dt></dl><dl class="badImage"><dt><img src="/PublishingImages/validation-bad.jpg" alt="no icons to indicate the status" style="margin&#58;5px;"><span></span></dt><dd>Figure&#58; Bad example - no icons to indicate the status</dd></dl><dl class="badImage"><dt><img src="/PublishingImages/validation-good.jpg" alt="green tick and red cross helps the user to know what's going on" style="margin&#58;5px;"></dt><dd>Figure&#58; Good example - green tick and red cross helps the user to know what's going on</dd></dl>
 ### Related Rule​
 
-There is a​ similar rule for WinForm application -     [Do you use green tick, red cross and spinning icon to show the status?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=06bcd7b6-391c-4cfb-a715-b09c05bde154)
+There is a​ similar rule for WinForm application - [Do you use green tick, red cross and spinning icon to show the status?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=06bcd7b6-391c-4cfb-a715-b09c05bde154)​
 
