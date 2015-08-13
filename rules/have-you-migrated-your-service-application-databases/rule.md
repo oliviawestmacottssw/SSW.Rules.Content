@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Depends on your SharePoint farm, you can upgrade the service applications database to SharePoint 2013.
+ Depends on your SharePoint farm environments, you may need to upgrade some ​service applications database to SharePoint 2013.
 
  
 ​In our case, we have upgraded the below several service application databases:
