@@ -7,4 +7,12 @@ authors: []
 
 ---
 
- Enter Intro Text 
+ 
+​After upgrading, some third-party tools will no longer work.  Check for updates for these tools.
+ 
+a.               [TeamCompanion](http&#58;//www.teamcompanion.com/download/)  
+TeamCompanion version 5.2 Update 1 officially supports up to Outlook 2013 and Team Explorer 2013.
+
+b.              [Team Foundation SideKicks](http&#58;//www.attrice.info/cm/tfs/)  
+Team Foundation Sidekicks Version 5.0 officially supports TFS 2013.
+
