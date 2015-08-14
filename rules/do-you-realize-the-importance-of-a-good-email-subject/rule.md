@@ -28,7 +28,9 @@ Never leave the subject blank! It's like writing a book and failing to give it a
 | ??  | SSW - SQL Auditor - Bug |
 | User Group  | SSW - User Group - This month needs a speaker - Call Tom Howe pronto!  |
 | Feedback  | SSW - SQL Deploy - User interface feedback |
-| Broker Form  | Northwind - CPF - Fix combo box on Broker Form  |
+| Broken Form  | Northwind - CPF - Fix combo box on Broken Form  |
+| Test Please<br><br>(see test [please rul​e](https&#58;//www.ssw.com.au/ssw//Standards/Templates/test-please.aspx))<br> | Test Please​ - Product Name v1.11 |
+| RE: Test Please - Product Name v1.11<br><br><br>         (don't just reply) | Product Name v1.11 - "Save" button not working​ |
 
 
 **Figure: Always use a descriptive email subject to make it easier to find later**
@@ -78,6 +80,6 @@ For internal emails, the subject line should generally not be changed as it wil
 
 ## Related Links
 
-- [Do you get your work done in order of importance (aka priorities)?](/do-you-complete-work-in-order-of-importance-%28aka-priorities%29)
+- [Do you get your work done in order of importance (aka priorities)?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=422fc16f-bc94-413a-b14f-4172791f92a0)
 
 
