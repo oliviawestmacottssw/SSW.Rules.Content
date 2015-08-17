@@ -14,29 +14,33 @@ authors:
 ---
 
  
-Did you know that writing your own logging infrastructure code wastes time? You should use a trace logging library, and the best trace logging library is Log4Net.
+Did you know that writing your own logging infrastructure code wastes time? You should use a trace logging library, and the best trace logging library is Serilog.
 
-Log4net is a NuGet package that can be included in any .Net application, is easy to configure, supports many different output targets, has great performance, and allows for runtime changes to configuration.
+Serilog is a NuGet package that can be included in any .Net application, is easy to configure, supports many different output targets, has great performance, and allows for runtime changes to configuration. Serilog also supports full integration with log4net so is easy to use with any older codebase using log4net.
  
-It also supports the concept of logging at different levels of importance (e.g. Error, Warning, Information) and having different logs for different components of your application (e.g. a Customer Log and an Order Log).
+Serilog supports all the log4net concepts of logging at different levels of importance (e.g. Error, Warning, Information) and having different logs for different components of your application (e.g. a Customer Log and an Order Log).
 
-For example, log4net allows you to support the following scenarios by making configuration changes in XML config files.
+Serilog's main advantage over previous loggers is its ability to serialize and log full .net objects rather than just strings. Serilog also has a powerful, nested context system allowing log events to be grouped by request, operation etc.
 
-On all non-development machines:
+Serilog has the concept of "sinks": pluggable modules that that can consume, store and/or act on logging events. The most pwerfult sink is Seq - a web aplication that allows the user to perform complex search queries on incoming log data in real time.
 
-- Write all Error Log Messages to the Windows Event Log, the database and email them to the administrators group
-- Write all Warning messages to the database and email them to the administrators group
-- Write all Information messages to the database, and email any information messages in the Order component to the Order Fulfilment team for them to check
+Other sinks allow you to:
+
+- ​save logs to a file
+- export to log4net (and subsequently use any log4net appender)
+- save to a database
+- export to Application Insights, New Relic and many other APM platforms
 
 
-On development machines:
+Many other sinks are available as described here: [https://github.com/serilog/serilog/wiki/Provided-Sinks​](https&#58;//github.com/serilog/serilog/wiki/Provided-Sinks)
+![](/PublishingImages/trace-logging-bad.jpg)Figure: Bad Example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime![](/PublishingImages/trace-logging-bad-2.jpg)Figure: Bad Example - Roll your own logging components lack functionality, and have not been tested as thoroughly for quality or performance as log4net
+​
 
-- Write all Error Log Messages to the database
-- Write all Warning messages to the database
-- Write all Information messages on the area I am currently developing to the database
+![serilog.png](/SiteAssets/do-you-use-the-best-trace-logging-library/serilog.png)
+Figure: Good Example - Using serilog requires less work to install and configure than a roll-you-own logger, and provides many more features
+![seq2.png](/SiteAssets/do-you-use-the-best-trace-logging-library/seq2.png)
+Figure: Good Example - Seq provides a powerful UI for searching and viewing your structured logs
+Serilog should be added to your project via the NuGet package manager.
 
-![](/PublishingImages/trace-logging-bad.jpg)Figure: Bad Example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime![](/PublishingImages/trace-logging-bad-2.jpg)Figure: Bad Example - Roll your own logging components lack functionality, and have not been tested as thoroughly for quality or performance as log4net![](/PublishingImages/trace-logging-good.jpg)Figure: Good Example - Using log4net requires less work to install and configure than a roll-you-own logger, and provides many more features
-Log4Net should be added to your project via the NuGet package manager.
-
-See also [Do you use the best middle tier .Net libraries?](/do-you-use-the-best-middle-tier-net-libraries)
+See also [Do you use the best middle tier .Net libraries?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9ea489f4-032b-4e5b-a0e0-df5a0c3148fe)
 
