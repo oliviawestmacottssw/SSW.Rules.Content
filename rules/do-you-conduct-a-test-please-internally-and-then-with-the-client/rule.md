@@ -12,17 +12,18 @@ authors:
  Test, test, test! Testing is the most critical part of any project. Before the delivery of any release the application must pass an internal "test please". Clients quickly become disillusioned if you have delivered a bug-riddled application.  ![Do you want users to have good first impressions?](/PublishingImages/pic16-TestingDoYouWantThemT.gif) Figure: Do you want users to have good first impressions? 
 There are a number of different types of tests that you can perform:
 
-- Unit Testing:     It validates the smallest testable parts of an application. Unit tests do not cover the UI layer. There is no industry standard 3rd party unit test tool but at SSW we use NUnit and Visual Studio Team Test.
-- White Box Testing:     White box testing or structural testing is done knowing the internal code implementation and targeting specific aspects: for example security risks or a potential performance bottle neck. By looking at the implementation it helps to identify areas where the system could be flawed. Because the tests are designed to match the code, if the implementation changes, the tests will need to change.
-- Black Box Testing:     Black box testing or functional testing, unlike the White box testing, doesn't rely on the knowledge of the internal code structure. It relies on the software specifications and requirements. The tests use valid and invalid inputs and check that the output is correct.
-- Integration Testing:     Integration testing is performed when all the software components are put together. This testing should be done after each individual software component has passed unit testing. This type of testing highlights interface problems or misunderstanding of the software specifications where unit tests local to each component actually passed. Automated integration testing is essential and often run overnight due to the time it takes.
-- User Acceptance Testing (UAT):     User Acceptance Testing (UAT) or Beta Testing occurs at the end of the software development cycle (this could be at the end of a Scrum Sprint where the software is potentially shippable). As its name points out the end users will test the software and check it meets their acceptance criteria.
-- Security testing:     Security testing is done to check that a system protects data and maintains confidentiality as intended. The concepts covered by Security testing can include: network mapping, vulnerability scanning, password cracking, confidentiality, integrity, authentication, authorization, availability, non-repudiation and virus scanning.
-- Performance testing:     Performance Testing is used to determine the responsiveness, the effectiveness of a system under a given workload. Qualitative attributes such as reliability, scalability and interoperability may also be evaluated. Performance testing is often done along with stress testing.
-- Smoke testing:     Smoke testing is done to ensure the system doesn't have any critical bugs that would make other types of testing unnecessary. This type of testing is generally performed on a new or fixed software. A Smoke test should cover essential parts of the application so it is said to be shallow and broad.
+- Unit Testing:    It validates the smallest testable parts of an application. Unit tests do not cover the UI layer. There is no industry standard 3rd party unit test tool but at SSW we use NUnit and Visual Studio Team Test.
+- White Box Testing:    White box testing or structural testing is done knowing the internal code implementation and targeting specific aspects: for example security risks or a potential performance bottle neck. By looking at the implementation it helps to identify areas where the system could be flawed. Because the tests are designed to match the code, if the implementation changes, the tests will need to change.
+- Black Box Testing:    Black box testing or functional testing, unlike the White box testing, doesn't rely on the knowledge of the internal code structure. It relies on the software specifications and requirements. The tests use valid and invalid inputs and check that the output is correct.
+- Integration Testing:    Integration testing is performed when all the software components are put together. This testing should be done after each individual software component has passed unit testing. This type of testing highlights interface problems or misunderstanding of the software specifications where unit tests local to each component actually passed. Automated integration testing is essential and often run overnight due to the time it takes.
+- User Acceptance Testing (UAT):    User Acceptance Testing (UAT) or Beta Testing occurs at the end of the software development cycle (this could be at the end of a Scrum Sprint where the software is potentially shippable). As its name points out the end users will test the software and check it meets their acceptance criteria.
+- Security testing:    Security testing is done to check that a system protects data and maintains confidentiality as intended. The concepts covered by Security testing can include: network mapping, vulnerability scanning, password cracking, confidentiality, integrity, authentication, authorization, availability, non-repudiation and virus scanning.
+- Performance testing:    Performance Testing is used to determine the responsiveness, the effectiveness of a system under a given workload. Qualitative attributes such as reliability, scalability and interoperability may also be evaluated. Performance testing is often done along with stress testing.
+- Smoke testing:    Smoke testing is done to ensure the system doesn't have any critical bugs that would make other types of testing unnecessary. This type of testing is generally performed on a new or fixed software. A Smoke test should cover essential parts of the application so it is said to be shallow and broad.
 
 
-Does the "Test Please" principle apply to more than code?
+
+​Does the "Test Please" principle apply to more than code?
 Yes! A "Test Please", aka peer review highlights unseen errors, proposes new ideas for consideration or confirms the existing work as the best solution. A peer review can also effect cultural change amongst your development team as developers become more open to critiques of their work and comfortable with a 'continuous learning' environment. A "Test Please" will also be applied to:
 - Brief proposals
 - Release plans
@@ -33,22 +34,21 @@ Yes! A "Test Please", aka peer review highlights unseen errors, proposes new ide
 
 
 Always put "test please" in the email body so readers know they are expected to react quickly.
-<br>  
 
 
 **Lead Developer responsibilities**
 
 Please cc the client in all your "Test Please" emails including internal ones.
 
-1. At the end of a release, prepare a "Test Please" email.  Create the email by copying the text from the sample [Test Please Report](http&#58;//www.ssw.com.au/ssw/ExtremeEmails/Reports/TestPleaseReport.htm).
-2. Get two testers to test your app - if it's a web app ​make sure one uses IE and the other Firefox.
+1. At the end of a release, prepare a "Test Please" email.  Create the email by copying the text from the sample [Test Please Template](https&#58;//www.ssw.com.au/ssw/Standards/Templates/Test-Please.aspx).
+2. Get two testers to test your app - if it's a web app make sure one uses IE and the other Firefox.
 3. Specify exactly what is required to be tested by adding some bullet points at the top and highlighting in yellow, so it stands out from the template text. e.g.
     - Run Timesheet report
     - Check changing a rate
 4. Make sure the testers send one bug/suggestion per email.
-5. [Triage](/do-you-send-＂sprint-forecast＂-and-＂sprint-review-retro＂-emails-to-the-client) emails as they come in for completion in this release, or a later release.
+5. [Triage](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=7d5d1090-be17-4128-985b-b7e419812179) emails as they come in for completion in this release, or a later release.
 6. Don't change testers in the middle of a release. It is just sneaky to get a test failed from a tester and then try again by using another tester :-)
-7. Make sure that the testers know which build they are testing. The developers may be 3 builds ahead of the testers, but they need to complete a test run on an individual build to make sure that bugs are fixed and that there are no regressions.     Note: Having a good branching strategy makes this easy as you can run an Internal and External "Test Please" on your DEV branch before allowing the code to be committed to Main/Trunk. This protects your Main/Trunk branch from contamination by code that does not work.
+7. Make sure that the testers know which build they are testing. The developers may be 3 builds ahead of the testers, but they need to complete a test run on an individual build to make sure that bugs are fixed and that there are no regressions.    Note: Having a good branching strategy makes this easy as you can run an Internal and External "Test Please" on your DEV branch before allowing the code to be committed to Main/Trunk. This protects your Main/Trunk branch from contamination by code that does not work.
 8. Randomly have the manager do a "Test Please" as well. He gives a pass or fail on the job the testers did.
 9. When you receive a "Test Please Succeeded" from both testers (and never before) prepare a "Test Please" for the client. (If you are requested to issue a non-tested release to a client state "Has not passed internal testing" in the email.)
 
@@ -66,9 +66,9 @@ Please cc the client in all your "Test Please" emails including internal ones.
 9. Specify how you replicated the bug through clear instructions and screenshots.
 10. When finished reply to the 'test please' email with "Test Please Succeeded (as no Critical bugs)" or "Test please failed (as per critical bugs reported)".
 
-![](/PublishingImages/rulest7.gif) Figure: This is how to reply failed to a "test please" email **Note 1: **As 64bit platform has been quickly adopted, testers should consider to test the application on 64bit and 32 bit platforms, these will include Windows 8, Windows Server 2008, etc. 
+ ![](/PublishingImages/rulest7.gif) Figure: This is how to reply failed to a "test please" email  **Note 1: **As 64bit platform has been quickly adopted, testers should consider to test the application on 64bit and 32 bit platforms, these will include Windows 8, Windows Server 2008, etc.
 **Note 2: **If the test to be performed is quick and the tester is available on the spot, consider using a "
 
-[checked by](/do-you-know-when-to-do-use-checked-by-xxx)" style instead to save some time.
+[checked by](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b44ce620-2be6-4c95-ba62-cb6b36bfbb4a)" style instead to save some time.
 
 
