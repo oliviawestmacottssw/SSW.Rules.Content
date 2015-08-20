@@ -14,9 +14,9 @@ authors:
 ---
 
  
-​You can waste days evaluating IOC containers. The top ones are quite similar. There is not much in this, but the best ones are StructureMap and AutoFac. At SSW we use StructureMap on most projects.
+​​You can waste days evaluating IOC containers. The top ones are quite similar. There is not much in this, but the best ones are StructureMap and AutoFac. At SSW we use Autofac on most projects.
 
-Other excellent DI containers are AutoFac, Ninject and Castle Winsdor. They have weaknesses, some are listed below.
+Other excellent DI containers are StructureMap, Ninject and Castle Winsdor. They have weaknesses, some are listed below.
  
 Dependency Injection is an essential ingredient to having maintainable solutions. IOC containers make doing dependency injection easier.
 
@@ -31,21 +31,21 @@ When selecting a Dependency Injection container it is worth considering a number
 The top tools all contain comparable functionality. In practice which one you use makes little difference, especially when you consider that your container choice should not leak into your domain model.
 
 **Important:** Unless a specific shortfall is discovered with the container your team uses, you should continue to use the same container across all of your projects, become an expert with it and invest time on building features rather than learning new container implementations.
-![](/PublishingImages/ninject.jpg)Figure: Bad Example - The Ninject extension packages are not up-to-date. The Ninject.MVC3 package needs to be used for MVC 4 and the Ninject.Web.WebAPI package does not work with the release version of WebApi, so developers must use the Ninject.Web.WebAPI-RC package instead. Also, Ninject doesn’t work in a medium trust environment.![](/PublishingImages/frameworks-graphic.jpg)Figure: Good Example - StructureMap has better performance than the other top frameworks. <br>      Update: Autofac is now #1 as per <br>      [Unity, Castle Windsor, StructureMap, Ninject – who has best performance?](http&#58;//weblogs.asp.net/gunnarpeipman/archive/2010/09/21/unity-castle-windsor-structuremap-ninject-who-has-best-performance.aspx)
-- [Unity, Castle Windsor, StructureMap, Ninject – who has best performance?](http&#58;//weblogs.asp.net/gunnarpeipman/archive/2010/09/21/unity-castle-windsor-structuremap-ninject-who-has-best-performance.aspx)
-- [IoC Battle - .Net Inversion Of Control (IoC) Container Performance Comparison](http&#58;//www.iocbattle.com/)
-- [IoC Container Benchmark - Performance comparison](http&#58;//www.palmmedia.de/Blog/2011/8/30/ioc-container-benchmark-performance-comparison)
-
-
+![](/PublishingImages/ninject.jpg)Figure: Bad Example - The Ninject extension packages are not up-to-date. The Ninject.MVC3 package needs to be used for MVC 4 and the Ninject.Web.WebAPI package does not work with the release version of WebApi, so developers must use the Ninject.Web.WebAPI-RC package instead. Also, Ninject doesn’t work in a medium trust environment. <br>      ​​![IOC Container Performance](http&#58;//www.palmmedia.de/content/blogimages/67b056a5-9da8-40b4-9ae6-0c838cdac180.png)Figure: Good Example - Autofac has a good combination of performance and features as per http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison​​
 **Note:** Autofac's support for child lifetime containers maybe significant for some:​
 [​http://nblumhardt.com/2011/01/an-autofac-lifetime-primer](http&#58;//nblumhardt.com/2011/01/an-autofac-lifetime-primer/)
 
 StructureMap does also support a kind of child container:
 [http://codebetter.com/jeremymiller/2010/02/10/nested-containers-in-structuremap-2-6-1/](http&#58;//codebetter.com/jeremymiller/2010/02/10/nested-containers-in-structuremap-2-6-1/)
 
-#### Further Reading:
+​![Autofac_web.png](/SiteAssets/do-you-know-the-best-dependency-injection-container-(aka-don’t-waste-days-evaluating-ioc-containers)/Autofac_web.png)
+Figure: Good Example - the web / mvc integration package layer for Autofac is developed by the same core Autofac team. Some containers (such as Structure Map) requre third-party integration layers​​ ​
 
-- [Do you use a dependency injection centric architecture?](/do-you-use-a-dependency-injection-centric-architecture)
+
+
+#### Further Reading:​
+
+- [Do you use a dependency injection centric architecture?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0a5029a1-dd4f-46d7-9f22-8ab328e7c102)
 - [​Do you generate the VS dependency graph?](/Pages/DoYouGenerateTheVSDependencyGraph.aspx)​
 
 
