@@ -14,20 +14,36 @@ authors:
 ---
 
  Even though you have advised staff members a migration is taking place – you can guarantee someone will try to check-in or edit documents. The best way to prevent this is to put your content database into read only mode. <br> 
-Even though you have advised staff members a migration is taking place – you can guarantee someone will try to check-in or edit documents. The best way to prevent this is to put your content database into read only mode.
+Even though you have advised staff members a migration is taking place – you can guarantee someone will try to check-in or edit documents. The best way to prevent this is to lock the content database.
 
-1.    On your database server open     **SQL Server Management Studio**
+There are two options to lock the content database.
 
-2.    Right click on the content database associated with the site collection your migrating |     **Properties**
+Option 1 (**Recommended**):
 
-3.    Choose     **Options **| Scroll to the bottom of the options list
+1.  Open **SharePoint Central Administration** site, navigate to "**Application Management**" | "**Site Collections**" | "**Configure quotas and locks**".
+![quotas-and-locks.jpg](/PublishingImages/quotas-and-locks.jpg)
 
-4.    For the     **Database Read-Only** choose     **True![](/PublishingImages/LocLSQLDB.jpg)****
+2. Select the "site collection" which you would like to lock.
+
+3. Choose "Read-only (blocks additions, updates, and deletions)", then click "OK".
+![read-only-status.jpg](/PublishingImages/read-only-status.jpg)
+
+Option 2 (**not recommended**):
+
+1.    On your database server open **SQL Server Management Studio**
+
+2.    Right click on the content database associated with the site collection you're migra
+
+ting | **Properties**
+
+3.    Choose **Options **| Scroll to the bottom of the options list
+
+4.    For the **Database Read-Only** choose **True![](/PublishingImages/LocLSQLDB.jpg)****
  **
 
 Figure - Database Properties | Options | Database-Read Only
 
 5.    Now it’s safe to take a backup of your content database
 
-**NOTE: ** When some SharePoint timer services are run it may cause the site to display errors when the database is in read only mode
+**NOTE: ** When some SharePoint timer services are run it may cause the site to display errors when the database is in read-only mode
 
