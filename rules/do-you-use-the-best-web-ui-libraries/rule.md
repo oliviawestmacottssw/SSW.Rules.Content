@@ -14,7 +14,7 @@ authors:
 ---
 
  
-​​Don't waste time evaluating which Web UI libraries to use. Most of the commonly used libraries are very similar in functionality​.  ​The recommend​ library is **[Twitter Bootstrap](/do-you-use-twitter-bootstrap)**.
+​ Don't waste time evaluating which Web UI libraries to use. Most of the commonly used libraries are very similar in functionality .  The recommend  library is   ** [Twitter Bootstrap](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f02abbb2-35fb-47b3-b379-486061d69a70)**.
  
 It's the most popular available framework today, which means more people involved in the project, more tutorials and articles from the community, more real-world examples/websites, more third-party extensions, and better integration with other​ web development products
 ![zurb.png](/PublishingImages/zurb.png)Figure: Bad example - Zurb Foundation is the second most popular, but it uses Sass files and​ has the worst name
