@@ -31,14 +31,14 @@ When selecting a Dependency Injection container it is worth considering a number
 The top tools all contain comparable functionality. In practice which one you use makes little difference, especially when you consider that your container choice should not leak into your domain model.
 
 **Important:** Unless a specific shortfall is discovered with the container your team uses, you should continue to use the same container across all of your projects, become an expert with it and invest time on building features rather than learning new container implementations.
-![](/PublishingImages/ninject.jpg)Figure: Bad Example - The Ninject extension packages are not up-to-date. The Ninject.MVC3 package needs to be used for MVC 4 and the Ninject.Web.WebAPI package does not work with the release version of WebApi, so developers must use the Ninject.Web.WebAPI-RC package instead. Also, Ninject doesn’t work in a medium trust environment. <br>      ​​![IOC Container Performance](http&#58;//www.palmmedia.de/content/blogimages/67b056a5-9da8-40b4-9ae6-0c838cdac180.png)Figure: Good Example - Autofac has a good combination of performance and features as per http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison​​
+![](/PublishingImages/ninject.jpg)Figure: Bad Example - The Ninject extension packages are not up-to-date. The Ninject.MVC3 package needs to be used for MVC 4 and the Ninject.Web.WebAPI package does not work with the release version of WebApi, so developers must use the Ninject.Web.WebAPI-RC package instead. Also, Ninject doesn’t work in a medium trust environment. <br>      ​​![IOC Container Performance](http&#58;//www.palmmedia.de/content/blogimages/67b056a5-9da8-40b4-9ae6-0c838cdac180.png)Figure: Good Example - Autofac has a good combination of performance and features as per [http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison​​​](http&#58;//www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison)
 **Note:** Autofac's support for child lifetime containers maybe significant for some:​
 [​http://nblumhardt.com/2011/01/an-autofac-lifetime-primer](http&#58;//nblumhardt.com/2011/01/an-autofac-lifetime-primer/)
 
 StructureMap does also support a kind of child container:
 [http://codebetter.com/jeremymiller/2010/02/10/nested-containers-in-structuremap-2-6-1/](http&#58;//codebetter.com/jeremymiller/2010/02/10/nested-containers-in-structuremap-2-6-1/)
 
-​![Autofac_web.png](/SiteAssets/do-you-know-the-best-dependency-injection-container-(aka-don’t-waste-days-evaluating-ioc-containers)/Autofac_web.png)
+​![Autofac_web.png](/PublishingImages/Autofac_web.png)
 Figure: Good Example - the web / mvc integration package layer for Autofac is developed by the same core Autofac team. Some containers (such as Structure Map) requre third-party integration layers​​ ​
 
 
