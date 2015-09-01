@@ -10,7 +10,7 @@ authors:
 ---
 
  
-**​​​Step 1 – Application Insights to your Project**
+**​​​​Step 1 – Application Insights to your Project**
 
 To add Application Insights to a new project, check the 'Add Application Insights to Project' checkbox in the New Project dialog.
 
