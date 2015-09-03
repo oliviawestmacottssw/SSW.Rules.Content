@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​​​The easiest way to get started with Application Insights is to follow the documentation on MSDN [https://azure.microsoft.com/en-us/documentation/articles/app-insights-get-started/](https&#58;//azure.microsoft.com/en-us/documentation/articles/app-insights-get-started/) 
+​​​​The easiest way to get started with Application Insights is to follow the documentation on MSDN [https://azure.microsoft.com/en-us/documentation/articles/app-insights-get-started/](https&#58;//azure.microsoft.com/en-us/documentation/articles/app-insights-get-started/) 
 Below are our additional suggestions to help you get the most out of Application Insights.
 
 
