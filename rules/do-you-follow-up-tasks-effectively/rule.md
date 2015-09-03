@@ -24,6 +24,5 @@ Simply BCC &lt;period of time&gt;@followupthen.com and it will send you an email
 
 ** ![](/PublishingImages/FollowUpThen.jpg)**
 
-**Figure: Good Example - Use [1week@followupthen.com](mailto&#58;1week@followupthen.com)  to be reminded about this email in 1 week​
-**
+**Figure: Good Example - Use [1week@followupthen.com](mailto&#58;1week@followupthen.com)  to be reminded about this email in 1 week​**
 
