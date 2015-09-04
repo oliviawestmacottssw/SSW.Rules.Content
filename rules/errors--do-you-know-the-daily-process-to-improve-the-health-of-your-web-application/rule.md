@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​​​​​Application Insights can provide an overwhelming amount of errors in your web application, so use just-in-time bug processing to handle them. 
+ ​​​​​​Application Insights can provide an overwhelming amount of errors in your web application, so use just-in-time bug processing to handle them. 
 ​The goal is to each morning check your web application's dashboard and find zero errors. However, what happens if there are multiple errors? Don't panic, follow this process to improve your application's health.
 
 ![20-08-2014-11-50-59-AM-compressor.png](/PublishingImages/App-Insights-Failures.png)
