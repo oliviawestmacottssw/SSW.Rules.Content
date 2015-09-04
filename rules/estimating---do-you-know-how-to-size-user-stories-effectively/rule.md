@@ -16,7 +16,7 @@ authors:
 ---
 
  
-A team knows how many stories they can commit to my measuring their velocity.  The Team estimates the highest priority stories in the Product Backlog in Story Points. ​It is very important for teams to estimate tasks effectively.  There are several methods for estimating:
+​A team knows how many stories they can commit to my measuring their velocity.  The Team estimates the highest priority stories in the Product Backlog in Story Points. ​It is very important for teams to estimate tasks effectively.  There are several methods for estimating:
 
 - Shirt Sizes
 - Fibonacci Extended (1-100)
@@ -39,6 +39,8 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 > 8 = XL
 > 13 = ?
 > 21 = XXL
+> 
+> **​Please note: **In some teams which only use Small, Medium and Large the following numbering is applyed respectively​ 2, 4 and 8.​​
 
  ![](/PublishingImages/size-stories-bad-example.jpg) Figure: Bad example - Estimation using T-Shirt sizes
 ### Fibonacci Extended (1-100)
