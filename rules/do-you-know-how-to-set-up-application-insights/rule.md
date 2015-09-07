@@ -18,9 +18,9 @@ Lets take a look at the overview and our tips to help you get the most out of A
 **An overview of the setup steps**
 Application Insights requires that you make 2 general modifications to your application:
 1. On the client side, manually add a Javascript tracker to your web page header (i.e. by placing directly on each page or through a "master page" or "layout template"), this modification enables the "browser page loading time" monitor and can track client side exceptions:
-![app-insights-browser-loading-time.jpg](/SiteAssets/application-insights-in-sharepoint/app-insights-browser-loading-time.jpg) Browser side stats have been enabled with the JavaScript tracker.
+![app-insights-browser-loading-time.jpg](/PublishingImages/app-insights-browser-loading-time.jpg) Browser side stats have been enabled with the JavaScript tracker.
 2. On the server side, add the Application Insights DLL references and update web.config, these modifications enable the "server response time", "server request" and "failed requests" monitors. 
-This step can either be done within Visual Studio when right clicking on a project in Solution Explorer, but it can also be done with the server monitoring tool on ASP.Net applications you don't have control over (e.g. SharePoint).![server-response-requests-failed-requests.jpg](/SiteAssets/application-insights-in-sharepoint/server-response-requests-failed-requests.jpg)  
+This step can either be done within Visual Studio when right clicking on a project in Solution Explorer, but it can also be done with the server monitoring tool on ASP.Net applications you don't have control over (e.g. SharePoint).![server-response-requests-failed-requests.jpg](/PublishingImages/server-response-requests-failed-requests.jpg)  
 Server side stats have been enabled now that it has been added to the ASP.Net pipeline
 
 
