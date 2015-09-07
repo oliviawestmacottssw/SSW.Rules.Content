@@ -29,7 +29,7 @@ Never leave the subject blank! It's like writing a book and failing to give it a
 | User Group  | SSW - User Group - This month needs a speaker - Call Tom Howe pronto!  |
 | Feedback  | SSW - SQL Deploy - User interface feedback |
 | Broken Form  | Northwind - CPF - Fix combo box on Broken Form  |
-| Test Please<br><br>(see test [please rul​e](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ec137193-bbcb-43a7-bc9a-4d337395aa22))<br> | Test Please​ - Product Name v1.11 |
+| Test Please<br><br>(see [test please rul​e](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ec137193-bbcb-43a7-bc9a-4d337395aa22))<br> | Test Please​ - Product Name v1.11 |
 | RE: Test Please - Product Name v1.11<br><br><br>         (don't just reply) | Product Name v1.11 - "Save" button not working​ |
 
 
