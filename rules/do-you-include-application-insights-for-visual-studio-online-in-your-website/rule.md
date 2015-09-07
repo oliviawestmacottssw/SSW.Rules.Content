@@ -59,7 +59,7 @@ Application Insights tracks a lot of metrics in your website but one of the most
 
 **Note: ** Make sure Server Performance Monitoring is set up (currently not available for Azure Websites)
 
-![1.png](/PublishingImages/1.png)
+![1.png](/PublishingImages/AnyConnect%201.png)
 
 **Figure: Ensure you complete this process to add Server Monitoring**
 
