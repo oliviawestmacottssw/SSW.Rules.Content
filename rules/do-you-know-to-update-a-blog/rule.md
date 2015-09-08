@@ -41,3 +41,13 @@ Figure: Good example – its easy to see when the updates occurred
 Figure: Ultimate example – Mike has gotten into the swing of things
 [http://mikefourie.wordpress.com/2010/07/02/windows-live-essentials-wave-4-betalive-sync/](http&#58;//mikefourie.wordpress.com/2010/07/02/windows-live-essentials-wave-4-betalive-sync/)
 
+You should also apply this technique to youtube videos you record.​​
+
+![UpdatedYoutubeTitle.png](/PublishingImages/UpdatedYoutubeTitle.png)
+
+Figure: Good Example - Following up on bug video makes it clear that the bug was fixed quickly.
+
+
+
+
+
