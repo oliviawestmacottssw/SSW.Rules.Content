@@ -37,5 +37,15 @@ Figure: Good example – its easy to see when the updates occurred
 ![image](/PublishingImages/RulesBloggingUpdate_UltimateMike.jpg "image")
 
 Figure: Ultimate example – Mike has gotten into the swing of things
-[<font color="#000080">http&#58;//mikefourie.wordpress.com/2010/07/02/windows-live-essentials-wave-4-betalive-sync/</font>](http&#58;//mikefourie.wordpress.com/2010/07/02/windows-live-essentials-wave-4-betalive-sync/)
+<font color="#000080"><a href="http&#58;//mikefourie.wordpress.com/2010/07/02/windows-live-essentials-wave-4-betalive-sync/" shape="rect">http&#58;//mikefourie.wordpress.com/2010/07/02/windows-live-essentials-wave-4-betalive-sync/</a></font>
+
+You should also apply this technique to youtube videos you record.​​
+
+![UpdatedYoutubeTitle.png](/PublishingImages/UpdatedYoutubeTitle.png)
+
+Figure: Good Example - Following up on bug video makes it clear that the bug was fixed quickly.
+
+
+
+
 
