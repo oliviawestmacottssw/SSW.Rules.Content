@@ -9,10 +9,6 @@ authors:
 
 ---
 
-
-1. Sign up for twitter if you don’t already have an account
-2. Install a twitter client on your PC
-3. Install a twitter client on your phone
-4. Send a tweet: “Do you know to use Hash tags? [http://bit.ly/dtu8Rc](http&#58;//bit.ly/dtu8Rc)#ssw #sswrules”
-
-  You have just tweeted your first rule…    
+ 
+If you follow a rule, then tweet it . E.g:
+<br>​   You have just tweeted your first rule…    
