@@ -10,13 +10,11 @@ authors:
 ---
 
  
-​
+​​​​If you follow a rule, then tweet it.​ Use **#ssw** and **#sswrules**
 
 
 
 
 
 
-
-​​​If you follow a rule, then tweet it.​ Use **#ssw** and **#sswrules**
-<dl class="goodImage"><dt><img src="/PublishingImages/rule-tweet.png" alt="rule-tweet.png"></dt><dd>Figure&#58; Good Example - Tweeting about a rule you use using the right hashtags​</dd></dl>   You have just tweeted your first rule…    
+<dl class="goodImage"><dd>​Figure&#58; Good Example - Tweeting about a rule you use using the right hashtags​</dd></dl>   You have just tweeted your first rule…    
