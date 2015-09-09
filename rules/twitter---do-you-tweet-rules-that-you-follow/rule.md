@@ -10,5 +10,5 @@ authors:
 ---
 
  
-If you follow a rule, then tweet it . E.g:
+​If you follow a rule, then tweet it.​
 <br>​   You have just tweeted your first rule…    
