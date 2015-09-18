@@ -16,7 +16,7 @@ An important source of comfort for any client is a feeling that they are in cont
  
 Therefore, if you change the developers on a project or if one or more of their rates change, it is                      very important to inform the client, before sending them the next invoice, where they will find out                      and could think that you're being shifty.
 
-We have standard templates for these situations in our CRM. You can see an example here:
+We have standard templates for these situations in our intranet shared documents​. You can see an example here:
 
 Hi Marlon,
 
