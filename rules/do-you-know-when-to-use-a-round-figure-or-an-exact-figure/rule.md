@@ -24,11 +24,11 @@ A round figure gives the impression that it was just plucked out of thin air and
 The project will take about 6 months to complete and cost $200,000+GST
 Bad Example - You've just made that number up, you can go lower​
 An exact figure gives the impression that you've done your research and there isn't as much room to move.
-The project will take about 6 months to complete and cost $204,080+GST
+The project will take 6 months to complete and cost $204,080+GST
 Good Example - Everyone knows exactly what they're in for
  
 For a** variable price **project, round figures should be used. This gives room for the project scope to be varied with additional items and lends itself more to an agile approach.
-The project will take about 6 months to complete and cost $204,080+GST
+The project will take ​6 months to complete and cost $204,080+GST
 Bad Example - This makes it very hard to vary the project as the client will always have this figure in mind
  
  A round figure gives the impression that this is a ball park estimate and that the price will likely change. 
