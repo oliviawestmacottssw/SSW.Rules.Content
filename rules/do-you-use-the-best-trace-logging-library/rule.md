@@ -14,7 +14,7 @@ authors:
 ---
 
  
-Did you know that writing your own logging infrastructure code wastes time? You should use a trace logging library, and the best trace logging library is Serilog.
+Did you know that writing your own logging infrastructure code wastes time? You should use a logging library, and the best logging library is Serilog.
 
 Serilog is a NuGet package that can be included in any .Net application, is easy to configure, supports many different output targets, has great performance, and allows for runtime changes to configuration. Serilog also supports full integration with log4net so is easy to use with any older codebase using log4net.
  
