@@ -36,9 +36,9 @@ Many other sinks are available as described here: [https://github.com/serilog/s
 ![](/PublishingImages/trace-logging-bad.jpg)Figure: Bad Example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime![](/PublishingImages/trace-logging-bad-2.jpg)Figure: Bad Example - Roll your own logging components lack functionality, and have not been tested as thoroughly for quality or performance as log4net
 ​
 
-![serilog.png](/SiteAssets/do-you-use-the-best-trace-logging-library/serilog.png)
-Figure: Good Example - Using serilog requires less work to install and configure than a roll-you-own logger, and provides many more features
-![seq2.png](/SiteAssets/do-you-use-the-best-trace-logging-library/seq2.png)
+![serilog.png](/PublishingImages/serilog.png)
+Figure: Good Example - Using serilog allows persisting stuctured log data to multiple<br>stores, querying that data intelligently and requires less work to install and configure than a roll-you-own logger, and provides many more features
+![seq2.png](/PublishingImages/seq2.png)
 Figure: Good Example - Seq provides a powerful UI for searching and viewing your structured logs
 Serilog should be added to your project via the NuGet package manager.
 
