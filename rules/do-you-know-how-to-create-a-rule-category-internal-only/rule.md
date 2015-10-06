@@ -9,42 +9,37 @@ authors:
 
 ---
 
- ** Note: **
-William is going to take the control back of updating “rule categories” for a few weeks, as we had some issues with the rule categories management​ when everyone can update them. This issue will be sorted out in the next few weeks, during this period, please email to William Yin if you need to create/update a rule summary page or need to create/update a rule category.
-​
+ 
+Basically, creating a rule category contains two parts of work.
+
+1. Create a "rule category" in Term Store (e.g. "Rules to Better xxx")
+2. Create a "rule summary" page to show all the rule pages belongs to this rule category.
 
 
-
-
-
-The rule structure is http://rules.ssw.com.au/RuleCategory/Rule-SubCategory/Pages/rule-title.aspx.
-
-
-
-Here is how you create a **new** **rule category (or subcategory) :**
-
-**
-**
 
  
-1. Log in to [http://rules.ssw.com.au/admin/Pages/default.aspx](/admin/Pages/default.aspx)
-2. It depends on which level of 'rule category' you are going to create, please make sure you have navigate to the correct site level, E.g if you are going to create a "rules to better something" subcategory under “Communication” category, please go to http://rules.ssw.com.au/Communicatio n/Pages/default.aspx before you action the below steps.
-**Note:** It's very **important **to make sure you are at the right location before creating a rule category !!!
-3. Click on "Site contents"
-![site-content.jpg](/PublishingImages/site-content.jpg)
-4. Scroll down and click on "new subsite"
- ![subsites.jpg](/PublishingImages/subsites.jpg)
-5. Fill the form with the title and URL complement (keep all the ratio buttons as default)
- ![subsite-form.jpg](/PublishingImages/subsite-form.jpg)
+
+> 1) Open browser, log in to [http://rules.ssw.com.au/admin/](/admin/)
 
 
-This is how you **edit/update** an existing rule category:
+**1. Create a "rule category" in Term Store (e.g. "Rules to Better xxx")**** **
 
-1. Go to the rule category index (E.g. http://rules.ssw.com.au/Management)
-2. Click on "Site settings"
- ![site-settings.jpg](/PublishingImages/site-settings.jpg)
-3. Click on "Title, description, and logo" under "Look and feel" section
- ![site-settings-title.jpg](/PublishingImages/site-settings-title.jpg)
-4. Make your changes and press "OK"
+
+
+> 2) ​Open ​​[https://rules.ssw.com.au/\_layouts/15/termstoremanager.aspx?tsid=eacc332d045a40e1bcc10498d65b767f​](/_layouts/15/termstoremanager.aspx?tsid=eacc332d045a40e1bcc10498d65b767f) , under "ImportTaxonomy" | "RuleCategories", find the right "parent category" (e.g. "Communication"), click "Create Term":
+> ![rulecategor1.jpg](/SiteAssets/do-you-know-how-to-create-a-rule-category-(internal-only)/rulecategor1.jpg)
+> 3) Type the rule category name, e.g. "Rules to Better xxx":![rulecategor2.jpg](/SiteAssets/do-you-know-how-to-create-a-rule-category-(internal-only)/rulecategor2.jpg)
+
+**2. ​****Create a "rule summary" page to show rule pages belongs to this rule category**
+
+> 4) Go to "Site Setting" | "Add a page" to create a new page:
+> ![rulecategor3.jpg](/SiteAssets/do-you-know-how-to-create-a-rule-category-(internal-only)/rulecategor3.jpg)
+> 
+> 5) Type the rule category name in the popup dialog (same as the rule category name created in term store, e.g. "Rules to Better xxx"), then click "Create" button:
+> ![rulecategor4.jpg](/SiteAssets/do-you-know-how-to-create-a-rule-category-(internal-only)/rulecategor4.jpg)Figure: a friendly url will be automatically generated6) On the new created page, go to "Ribbon" | "Page" | "Page Layout" to change the new created page layout to be "SSW - Rule Summary Page":![rulecategor5.jpg](/SiteAssets/do-you-know-how-to-create-a-rule-category-(internal-only)/rulecategor5.jpg)
+> 7) "Check in" and "Publish" this "Rule Summary"​ page, then you should have a page like below,![rulecategor6.jpg](/SiteAssets/do-you-know-how-to-create-a-rule-category-(internal-only)/rulecategor6.jpg) Figure: Any futher created "rule pages" belong to this "rule category" will be listed on this page
+
+
+
 
 
