@@ -12,9 +12,9 @@ authors:
 
 To prevent spelling or grammatical errors in the text content of a rule, you should complete the following steps:
 
-- Check the rule in Office Word for [spelling or grammatical errors](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterTechnicalDocumentation.aspx#WordSpellingAndGrammarChecker)
-- Run Link Auditor on that page
-- Check the report and fix the errors
-- Check in the page and repeat steps 2-3 until Link Auditor has all green ticks
+1. Check the rule in Office Word for [spelling or grammatical errors](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterTechnicalDocumentation.aspx#WordSpellingAndGrammarChecker) (Warning: Select the “Paste Plaintext” when pasting from Office Word to SharePoint or you will have a lot of work later to clean up the automatic generated HTML code by Office Word)
+2. Run Link Auditor on that page
+3. Check the report and fix the errors
+4. Check in the page and repeat steps 2-3 until Link Auditor has all green ticks (alternatively, you can use "Check my links" app of Google Chrome to find the broken links)
 
-<br>We also have a rule: [Adding a rule in aspx](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesDevelopment.aspx#StepsAfterAddRuleOnAspxPage)![](/PublishingImages/SPedit.jpg) Figure: SharePoint 2010 as a content management system 
+We also have a rule: [Adding a rule in as px](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesDevelopment.aspx#StepsAfterAddRuleOnAspxPage)  ![](/PublishingImages/SPedit.jpg)  Figure: SharePoint as a content management system  
