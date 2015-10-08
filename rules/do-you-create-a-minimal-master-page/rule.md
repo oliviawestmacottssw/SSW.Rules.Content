@@ -71,9 +71,9 @@ To create a minimal master page
 3. Double-click Master Page to create a new master page.
 4. Click Design to show the master page in design view. You should see header and left margin areas and several content placeholders in the master page.
 5. Click Code to show the master page in code view.
-6. Copy the code into the master page​
+6. Copy the code into the master page 
 SharePoint 2007 - [https://msdn.microsoft.com/en-us/library/office/aa660698(v=office.12).aspx](https&#58;//msdn.microsoft.com/en-us/library/office/aa660698%28v=office.12%29.aspx) 
-SharePoint 2010 - [https://msdn.microsoft.com/en-us/library/office/dn205273.aspx​​](https&#58;//msdn.microsoft.com/en-us/library/office/dn205273.aspx%E2%80%8B%E2%80%8B)
+SharePoint 2010 - [https://msdn.microsoft.com/en-us/library/office/dn205 ​273.aspx](https&#58;//msdn.microsoft.com/en-us/library/office/dn205273.aspx)
  &lt;%@ Master language="C#" %&gt;
 ...
 &lt;html&gt;
