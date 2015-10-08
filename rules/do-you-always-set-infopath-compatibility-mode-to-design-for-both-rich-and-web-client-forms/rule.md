@@ -10,11 +10,9 @@ authors:
 ---
 
 
-DRAFT: InfoPath Rule number 1
-
-Do you always set compatibility mode to design Rich and Web client forms?
-
-This is the number one, and most important rule in working with InfoPath.
+​This is the number one, and most important rule in working with InfoPath.
 
 Always go for the lowest common denominator.  It sure beats realizing half way later that your form can't be hosted on SharePoint InfoPath Forms Services!
-  &lt;insert picture from InfoPath&gt;    
+
+
+
