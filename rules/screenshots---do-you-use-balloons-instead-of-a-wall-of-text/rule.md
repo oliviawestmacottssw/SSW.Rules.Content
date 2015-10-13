@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Some people communicate with a 'Wall of Text'. Communicate better by using screenshots and reduce your amount of words. 
+​Some people communicate with a 'Wall of Text'. Communicate better by using screenshots and reduce your amount of words. 
 
 You can take screen captures to the next level by adding balloons that have the appropriate text (aka speech bubbles). Sometimes you need only the text in the balloon and no text in the email.
 
