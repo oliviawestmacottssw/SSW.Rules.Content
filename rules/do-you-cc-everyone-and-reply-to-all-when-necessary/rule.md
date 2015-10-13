@@ -12,7 +12,7 @@ authors:
 ---
 
 
-When emailing external parties, it is a good idea to CC the other colleagues within your organization that may have an interest in the email. Some of the benefits of CC'ing others include:
+When emailing external parties, it is a good idea to CC the other colleagues within your organization that may have an interest in the email. Some of the benefits of CC'ing others are:
 
 - It can save time
 - Gives the email more credibility if you have CC'd others in your organization
@@ -25,15 +25,17 @@ In addition, I often see people replying only to the sender of the email, ignori
 ![Outlook Note to Self](/PublishingImages/OutlookNotetoSelf.gif) Figure: Good Example - Reply All so that everyone is kept in the loop. 
 
 If the original email was to an alias with many subscribers, in general you should not Reply All. 
- Also if the sender requests a ['little r'](http&#58;//www.ssw.com.au/ssw/Redirect/Netlingo.htm) ![You are going to a site outside of SSW](http&#58;//www.ssw.com.au/ssw/Images/LeaveSite.gif) reply, then you should not Reply All.
+Also, if the sender requests a ['little r'](http&#58;//www.ssw.com.au/ssw/Redirect/Netlingo.htm) reply, then you should not 'Reply All'.
 
-
-**Exception**
+### Exception
 
 - If not all recipients need to be informed
-- The opinions of the rest of the recipients do not matter as they are unlikely to disagree We have a program called [SSW LookOut! for Outlook](http&#58;//www.ssw.com.au/ssw/LookOut/) to check for this rule.     It checks this for you, and would raise a warning like this one:
-![LookOut warning - not everyone is CC'ed](/PublishingImages/ContactorNotAllCC.GIF)
-**Figure: SSW Lookout checks that you have Replied All each time you send an email**
+- The opinions of the rest of the recipients do not matter as they are unlikely to disagree
 
 
+
+We have a program called [SSW LookOut! for Outlook](http&#58;//www.ssw.com.au/ssw/LookOut/) to check for this rule.
+
+It checks this for you, and would raise a warning like this one:
+![LookOut warning - not everyone is CC'ed](/PublishingImages/ContactorNotAllCC.GIF) Figure: SSW Lookout checks that you have replied All each time you send an email ​
 
