@@ -13,7 +13,7 @@ authors:
 
 ---
 
- ​After any Sprint Review and Retrospective, an email should be sent to all the stakeholders to update them on the outcome from the sprint: 
+ ​​After any Sprint Review and Retrospective, an email should be sent to all the stakeholders to update them on the outcome from the sprint: 
 - Subject: &lt;Client Name&gt; Sprint XX Review/Retro
 - This is a reply to the <br>      [Sprint Forecast email](/Pages/Do-you-create-a-Sprint-Forecast-email.aspx)
 - Screenshot of Burndown from TFS
@@ -66,9 +66,13 @@ XXX
 
 4. Burnup (for the release - the whole project, how are we tracking for the big picture?)
 ![Release Burnup.jpg](/PublishingImages/Release%20Burnup.jpg)Figure: Release Burnup
-5. Production Deployments (How many times did we deploy to Production?)
+5. Production Deployments (How many times did we deploy to Producti​on?)
 ![production-deploy.jpg](/PublishingImages/production-deploy.png)Figure: Deployments from Octopus Deploy
-### Sprint Retrospective
+6​​. Application Health Overview Timeline (For the entire spirnt)​
+
+![Application Health Overview Timeline.png](/PublishingImages/Application%20Health%20Overview%20Timeline.png)
+
+### ​Sprint Retrospective
 
 As part of our commitment to inspect and adapt as a team we conduct a Sprint Retrospective at the end of every Sprint. Here are the results of our Sprint Retrospective:
 
