@@ -14,11 +14,13 @@ authors:
 
 Sending and listening to voice recordings feels more personal than reading an email, because it is possible to hear the person'​s mood and emphasis more naturally. It is also helpful if the recipient needs to re-play a portion of the message to understand it, especially for people who are communicating in a language other than their native tongue.
 
-Voice recordings shouldn't replace email entirely, but can be valuable tool when used at the right time. There are a number of technological tools available to facilitate voice messages. Here is a list of some of the services you can use:
+Voice recordings shouldn't replace email entirely,​ but can be valuable tool when used at the right time. There are a number of technological tools available to facilitate voice messages. Here is a list of some of the services you can use:
 
 - [WhatsApp](http&#58;//www.whatsapp.com/)
 - [WeChat](http&#58;//www.wechat.com/)
 - [TalkBox](http&#58;//talkboxapp.com/)
 - [iMessage​​](http&#58;//www.imore.com/how-send-voice-note-your-iphone-imessage-or-sms)
+- Skype
+- Snagit
 
 
