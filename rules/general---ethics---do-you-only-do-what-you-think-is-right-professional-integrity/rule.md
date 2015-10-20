@@ -10,8 +10,8 @@ authors:
 ---
 
  
-If someone asks you to do something you believe is unethical please ring them up                     straight away and discuss the issue.
+​                     If someone asks you to do something you believe is unethical please ring them up                     straight away and discuss the issue.
  ​![Dilbert-Analysis.gif](/PublishingImages/Dilbert-Analysis.gif)Figure: Have a frank discussion if you feel strongly about something​
 
-​​It can also be a good idea to [document your objections in an email.](/do-you-send-a-‘for-the-record’-email-when-you-disagree)​
+​​It can also be a good idea to [document your objections in an email.](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=59e4c25f-a62d-4944-af14-70fe2a648447)​
 
