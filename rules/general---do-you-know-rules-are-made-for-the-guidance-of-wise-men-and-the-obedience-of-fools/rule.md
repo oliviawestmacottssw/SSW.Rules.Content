@@ -38,8 +38,8 @@ If you think something can be done better or the standard is simply out of date,
 
 1. Ignore it and hope someone fixes it (this is punishable by being sat on by a wild hippo);
 2. Fix it yourself straight away (preferred);
-3. Fix it yourself later ([send yourself an email](/dones-do-you-send-yourself-emails));
-4. Ask someone else to fix it (following the [change "x" to "y"](/do-you-ask-for-content-changes-using-from-x-to-y) rule) ​​​
+3. Fix it yourself later ([send yourself an email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=5c16d531-007d-49ef-8acc-b26596e13e84));
+4. Ask someone else to fix it (following the [change "x" to "y"](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=172019d0-82fc-4d7b-9d91-ded321714309) rule) ​​​
 
  ​  
 For any rules on our site you can click the 'Feedback to SSW' link at the bottom left.
