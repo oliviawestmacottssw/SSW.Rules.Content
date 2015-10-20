@@ -14,3 +14,7 @@ authors:
  
 If you find yourself doing adhoc reports, or random SQL queries you should make sure the boss knows you could not find the data you needed.
 ![Eg. Email your boss to ask a number](/PublishingImages/CreateReport.JPG)                        Figure: Sample Email -- Send an email to your boss for a number. <br>                    
+​​
+
+Power BI is generally the best tool for this.​
+
