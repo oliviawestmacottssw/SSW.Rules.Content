@@ -18,3 +18,7 @@ Communication and how you express yourself to your co-workers and clients is ref
 
 Check out this video which highlights 5 common mistakes made by native english speakers:
 
+.​
+
+If you feel very strongly about this, you could enforce 10 pushups per infraction, similar to the penalty for swearing
+
