@@ -10,7 +10,7 @@ authors:
 ---
 
  
-Car manufacturers should get rid of the cigarette lighter, smokers use the usual portable lighters and everyone else uses them as a power source. So instead , why not just give us lots of USB ports to plug in our phone, iPod, camera and all the other gadgets we all seem to carry around these days!
+​Car manufacturers should get rid of the cigarette lighter, smokers use the usual portable lighters and everyone else uses them as a power source. So instead , why not just give us lots of USB ports to plug in our phone, iPod, camera and all the other gadgets we all seem to carry around these days!
    In the meantime, buy a 1000mA Car USB Adaptor (there are heaps of places you can buy one, and [Google Search results](https&#58;//www.google.com/search?hl=en&amp;q=usb+car+charger+adaptor) will show you heaps of places to start)
 
 
