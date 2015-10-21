@@ -12,7 +12,7 @@ authors:
 ---
 
  
-A common mistake is to use code or emails that you have previously written, and stored somewhere on your computer, and change around key bits to make it relevant for the current situation.
+​A common mistake is to use code or emails that you have previously written, and stored somewhere on your computer, and change around key bits to make it relevant for the current situation.
 
 The problem with this is that you make it impossible for anyone else in your organization to do the same task to the same quality level.
  
