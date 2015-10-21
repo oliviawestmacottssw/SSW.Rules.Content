@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​There are many good reasons why it's better to work in pairs. <br> ![Do you always try to work in pairs?](/PublishingImages/ProjectManagement_PairProgramming_Luge.jpg)Figure: Do you always try to work in pairs? 
+ ​There are many good reasons why it's better to work in pairs. <br> ![Do you always try to work in pairs?](/PublishingImages/ProjectManagement_PairProgramming_Luge.jpg)​Figure: Do you always try to work in pairs? 
 - Less time stuck on a problem - you have someone familiar with the project to help you work through the problem
 - Your code will have less strange workarounds - because if something doesn't add up to a developer, he has someone to ask
 - Cleaner code - because you know someone else is going to be looking at your code
@@ -30,5 +30,5 @@ We generally estimate the overhead as 20% extra. But this is more than offset by
 
 **What if you are working remotely from each other?**
 
-If you are really working closely together, you will be using an application like     [TeamViewer](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/networkTools.aspx#TeamViewer)to view one another's desktops so you can help each other out when necessary. You should have     [TeamViewer showing on a 2nd monitor](/efficiency-do-you-use-two-monitors).
+If you are really working closely together, you will be using an application like     [TeamViewer](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperGeneral/networkTools.aspx#TeamViewer)to view one another's desktops so you can help each other out when necessary. You should have     [TeamViewer showing on a 2nd monitor](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=c5320def-3f58-48ef-8ffd-06a64e1d34f6).
 
