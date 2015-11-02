@@ -46,7 +46,7 @@ These classes are specific implementations and can be coupled to a particular me
 e.g. this is where the EF DbContext is implemented, as well as things like logging, email sending, etc.
 These dependencies are injected into the application core.     
 Because the Application core only relies on abstractions of the dependencies, it is easy to update them.
-The Onion Architecture relies heavily on the [Dependency Inversion](http&#58;//en.wikipedia.org/wiki/Dependency_inversion_principle)principleand other     [SOLID principles](/do-you-know-the-common-design-principles-%28part-1%29).
+The Onion Architecture relies heavily on the [Dependency Inversion](http&#58;//en.wikipedia.org/wiki/Dependency_inversion_principle)principleand other     [SOLID principles](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=21a9d999-80cd-4e39-a5f5-c511522ffcb2).
 
 #### References:
 
@@ -54,7 +54,15 @@ The Onion Architecture relies heavily on the [Dependency Inversion](http&#58;//
 - [http://stackoverflow.com/questions/9732747/what-type-of-architecture-is-this-called/9933371#9933371](http&#58;//stackoverflow.com/questions/9732747/what-type-of-architecture-is-this-called/9933371)
 
 
+###  <br>   ​Use SSW Data Onion to Generate your Code
+
+
+To help make this process pain free, we've developed the [SSW Data Onion​](http&#58;//www.sswdataonion.com/) to get you going and take away the boilerplate code you would normally need to write. Check out this cool video to see how it works:
+
 ​
+
+ 
+
 
 
 
