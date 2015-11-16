@@ -14,7 +14,18 @@ authors:
 
 
 Your mobile phone is a very useful tool. However, it can also be a nuisance. To make sure it doesn't interrupt your daily activities, you should always put it on vibrate. 
+
+
+If you have a wearable device like a Microsoft Band that connects to your phone, your wrist vibrates when you recieve a call. This alerts you to your incoming call silently even if you are not near your phone, and means you \*never\* need to have your phone on anything but VIBRATE. Microsoft Bands also have the added advantage of allowing you to send a text message-based quick response right from the device letting your caller know you are busy. 
+
  
+
+
+![Microsoft Band Incoming call](/PublishingImages/microsoft-band-incoming-call.jpg)​
+Figure: with a Microsoft Band, you can keep your phone on vibtrate 100% of the time and never have to worry about missing a call
+
+
+
 This has the following advantages:
 
 - You get to only answer the phone when it is convenient for you
