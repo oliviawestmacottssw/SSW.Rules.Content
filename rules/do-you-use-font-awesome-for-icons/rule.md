@@ -42,5 +42,5 @@ Figure: Examples of Font Awesome icons
 ![23-06-2014 11-08-06 AM.png](/PublishingImages/23-06-2014%2011-08-06%20AM.png)Figure: After adding Font Awesome from NuGet, two lines of code add the below icon​![18-06-2014 2-33-45 PM.png](/PublishingImages/18-06-2014%202-33-45%20PM.png)Figure: A 5x scaled paper plane icon has been added to my Web Application
 You can get Font Awesome from NuGet or        [http://fortawesome.github.io/Font-Awesome/](http&#58;//fortawesome.github.io/Font-Awesome/).​
 
-Also check out Eric Phan's blog for more info: http://ericphan.net/blog/2013/10/15/javascript-corner-font-awesome​​.
+Also check out Eric Phan's blog for more info: [http://ericphan.net/blog/2013/10/15/javascript-corner-font-awesome​​](http&#58;//ericphan.net/blog/2013/10/15/javascript-corner-font-awesome).
  ​​
