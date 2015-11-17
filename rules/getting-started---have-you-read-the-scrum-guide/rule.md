@@ -18,6 +18,6 @@ Everyone should:
 
 1. Read the <br>      [Scrum Guide](https&#58;//www.scrum.org/Scrum-Guide).
 2. Take the <br>      [Scrum Open assessment](http&#58;//www.scrum.org/scrumopen/) and get at least 75% to be “Certified Scrum 1”
-3. Watch the awesome video 'Scrum in 10 minutes'   <br>
+3. Watch the awesome video '[Scrum in 10 minutes](https&#58;//www.youtube.com/watch?v=XU0llRltyFM)'   <br>
 
 
