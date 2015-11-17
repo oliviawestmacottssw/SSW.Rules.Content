@@ -51,26 +51,6 @@ Here are my thoughts on a couple of product sites critiqued against our criteria
 - No description of how it works.
 
 
-[FTP Sync](http&#58;//www.ssw.com.au/ssw/Redirect/Fileware2.htm)
-
-![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Good.gif) The good points about the website:
-
-- Summarises the product benefit well in one short paragraph.
-
-
-![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Bad.gif) The bad points about the website:
-
-- Screen shot available but not on the first page.
-- They have all the changes from previous releases on the main page - would have been better to have a link - it is assuming that all visitors are existing users who are very familiar with all the feature which I doubt is the case.
-- Aesthetically dull, no pictures or branding incorporated.
-- Information is not organized in any logical structure that entices web surfers to purchase.
-- No system specifications outlined.
-- Lacks structure. When you open up the first page you should see a quick summary of what the product will do for you. Such as the key features and benefits.
-- When you open up the first page you should see a quick summary of what the product will do for you. Such as the key features and benefits.
-- No description of system requirements.
-- Combining it with a whole lot of other products - should have a dedicated page per product.
-
-
 [Rich Text Box](http&#58;//www.ssw.com.au/ssw/Redirect/RichTextBoxEditor.htm)
 
 ![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Good.gif) The good points about the website:
