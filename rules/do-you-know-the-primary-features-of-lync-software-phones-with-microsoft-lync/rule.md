@@ -9,7 +9,9 @@ authors:
 
 ---
 
- 
+ ​​
+ 
+
 There are a lot of features of Microsoft Lync. The primary features are:
  
 - Internal calls
