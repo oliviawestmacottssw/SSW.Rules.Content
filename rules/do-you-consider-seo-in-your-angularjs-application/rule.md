@@ -20,12 +20,12 @@ If you ignore your SEO in an Angular SPA you may not have your pages indexed by 
 
 
 
-The only way to be sure your Angular SPA will be crawled and indexed properly by Google Bots is intercept all requests by Google Bots and serve them HTML you pre-render  on the server.
+The only way to be sure your Angular SPA will be crawled and indexed properly by Google Bots is intercept all their requests and serve them HTML you pre-render on the server.
 
 
 
 
-​It is not enough to just use hashes in your urls or hope Google can crawl and Angular application correctly. You can read more here [Guide to AJAX crawling for webmasters and developers](https&#58;//support.google.com/webmasters/answer/174992?hl=en). There are several libraries to help pre-render your code available on the internet. 
+​It is not enough to just use hashes in your urls (e.g., www.example.com/index.html#mystate, where #mystate is the hash fragment) or hope Google can crawl and Angular application correctly. You can read more here [Guide to AJAX crawling for webmasters and developers](https&#58;//support.google.com/webmasters/answer/174992?hl=en). There are several libraries to help pre-render your code available on the internet. 
 
 
 
