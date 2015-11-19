@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​​​​​Search Engine Optimisation (SEO) with a Single Page Application (SPA) needs consideration like any other Framework to ensure it is SEO friendly. Becuase AngularJS manages your routing and URLs it is important to be aware of the differences in making an AngularJS SPA SEO friendly.
+ ​​​​​​Search Engine Optimisation (SEO) with a Single Page Application (SPA) needs consideration like any other Framework to ensure it is SEO friendly. Becuase AngularJS manages your routing and URLs it is important to be aware of the differences in making an AngularJS SPA SEO friendly.
  
 
 
@@ -20,7 +20,36 @@ If you ignore your SEO in an Angular SPA you may not have your pages indexed by 
 
 
 
-How to get your AngularJS Single Page Application (SPA) SEO friendly:
+The only way to be sure your Angular SPA will be crawled and indexed properly by Google Bots is intercept all requests by Google Bots and serve them HTML you pre-render  on the server.
+
+
+
+
+​It is not enough to just use hashes in your urls or hope Google can crawl and Angular application correctly. You can read more here [Guide to AJAX crawling for webmasters and developers](https&#58;//support.google.com/webmasters/answer/174992?hl=en). There are several libraries to help pre-render your code available on the internet. 
+
+
+
+
+If you do not pre-render HTML you may still get good enough SEO as Google Bots are getting better at crawling JavaScript but you can not be certain it will work. You can use [Google Fetch](https&#58;//support.google.com/webmasters/answer/6066468?hl=en) to test how your webpages look to a Google bot.
+
+
+
+
+
+
+
+
+
+
+![seo_for_angular-diagram.png](/PublishingImages/seo_for_angular-diagram.png)
+
+
+Figure: How to configure your site to pre-render HTML for Google bots.
+
+
+
+
+Besides pre-rendering HTML to get your AngularJS Single Page Application (SPA) SEO friendly you can apply the following practices:
 
 
 
