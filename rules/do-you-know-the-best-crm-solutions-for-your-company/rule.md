@@ -14,13 +14,13 @@ authors:
 The main choices for CRM solutions are:
 
 - [Salesforce](http&#58;//www.salesforce.com/crm/ "Salesforce")
-- [Microsoft CRM](http&#58;//www.ssw.com.au/ssw/Company/MicrosoftCRM.aspx "Microsoft CRM ")
+- [Microsoft CRM](https&#58;//www.ssw.com.au/ssw/Consulting/MicrosoftCRM.aspx "Microsoft CRM ")
 
 
 At SSW we implemented a lot of CRM serices based on Microsoft CRM. 
  The experience with this solution showed us high trust in using MS CRM as a base for future business needs.
 
- But, we still have a couple of feature and [software suggestions for Microsoft CRM](http&#58;//www.ssw.com.au/SSW/Standards/BetterSoftwareSuggestions/CRM.aspx "SSW Microsoft CRM Suggestions")
+ But, we still have a couple of feature and [software suggestions for Microsoft CRM](http&#58;//www.ssw.com.au/SSW/Standards/BetterSoftwareSuggestions/CRM.aspx "SSW Microsoft CRM Suggestions") 
 
  Read the [rules to better Microsoft CRM](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterMicrosoftCRM.aspx "SSW Rules to Better Microsoft CRM")to get an idea what MS CRM can do for you.
 
