@@ -13,13 +13,13 @@ authors:
 After the [Sprint Planning Meeting](/Pages/SprintPlanningMeeting.aspx)​ it is useful for the Development Team to send the Product Owner (PO) a Sprint Forecast for the next Sprint. Doing this helps to improve common understanding in, and sometimes to enforce, the relationship between the PO and the Team.​
 
 
-
+ 
 
 This is simply an agreement between the Development Team and the PO for one Sprint and should be confirmed via an e-mail at the beginning of every Sprint.
  
 
 > “*The implementation team agrees to do its best to deliver an agreed on set of features (scope) to a defined quality standard by the end of the sprint. (Ideally they deliver what they promised, or even a bit more.) The Product Owner agrees not to change his instructions before the end of the Sprint.*”
-> - Agile Project management ([http://agilesoftwaredevelopment.com/blog/peterstev/10-agile-contracts#Sprint](http&#58;//agilesoftwaredevelopment.com/blog/peterstev/10-agile-contracts#Sprint)​)
+> - Agile Project management ([http://members.scrumalliance.org/resources/1119](http&#58;//members.scrumalliance.org/resources/1119) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")​)
 
 
 Each of the Sprints in a Scrum project can be considered a mini-project that has Time (Sprint Length), Scope (Sprint Backlog), Quality (Definition of Done) and Cost (Team Size\*Sprint Length). Only the scope can vary and this is measured every sprint.
