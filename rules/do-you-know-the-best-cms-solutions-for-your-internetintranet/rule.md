@@ -22,5 +22,5 @@ authors:
 
 
 There are pros and cons to all and it depends on what functionality/customization you need but we lean towards Orchard and Sharepoint for most solutions.
- See     [The leading CMS Solutions](http&#58;//www.ssw.com.au/ssw/Company/DNN-DotNetNuke.aspx).
+ See     [The leading CMS Solutions](https&#58;//www.ssw.com.au/ssw/Consulting/DNN-DotNetNuke.aspx).
  
