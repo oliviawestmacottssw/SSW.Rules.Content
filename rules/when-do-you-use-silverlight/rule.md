@@ -14,13 +14,13 @@ authors:
 
 ![Silverlight in iPad doesn't work](/PublishingImages/SilverlightInIPad.png)
 <br>    Figure: Silverlight does not work on an iPad, It can't be only experience. ** **
-<br>    ** Further Reading: [PCWorld](http&#58;//www.pcworld.com/article/193540/ipad_proves_that_apple_wants_to_kill_flash.html) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW").
+<br>    ** Further Reading: [PCWorld](http&#58;//www.pcworld.com/article/193540/ipad_proves_that_apple_wants_to_kill_flash.html)  .
 
 **Data Entry Forms**
 
 NO. HTML must be the default experience. Microsoft says for Business Apps, but be careful. Silverlight is \*Not\* for data entry forms. Tab Index Implement is very hard and end result isn’t consistent among popular browser. Users frequently uses tab to move from Text Box to another Text Box and require consistence experience while entering data using different browser. HTML 5 introduced autofocus, placeholder and validation feature which is useful for creating consistent Data Entry form for various browser.
 
- Useful Links: [HTML 5 Form Elements](http&#58;//www.xoriant.com/blog/software-product-development/html5-series-part-3-html5-form-elements.html) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
+ Useful Links: [HTML 5 Form Elements](http&#58;//www.xoriant.com/blog/software-product-development/html5-series-part-3-html5-form-elements.html)  
 
  
 
@@ -28,37 +28,37 @@ NO. HTML must be the default experience. Microsoft says for Business Apps, but b
 
 YES, You can access camera & microphone from Silverlight. System.Windows. Media.CaptureSource object provides methods and properties used to work with audio and video capture devices. In essence, CaptureSource is like a little media player. After video being captured, We can give ShaderEffect  or manipulate captured still image. 
 
-Useful links: [Learning Video](http&#58;//www.silverlight.net/learn/videos/silverlight-4-videos/access-web-camera-microphone/)
+Useful links: [Learning Video](http&#58;//www.silverlight.net/learn/videos/silverlight-4-videos/access-web-camera-microphone/) 
 
  
 
 **Socket Communication **
 
-YES. System.Net.Sockets.Socket Class provides a set of methods and properties for network communications. The Socket class allows you to perform asynchronous data transfer using any of the communication protocols listed in the ProtocolType enumeration. Currently, the only supported ProtocolType is the TCP protocol. Supported Version Silverlight 4 & 3 . [MSDN – Socket Class](http&#58;//msdn.microsoft.com/en-us/library/system.net.sockets.socket%28v=vs.95%29.aspx) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
+YES. System.Net.Sockets.Socket Class provides a set of methods and properties for network communications. The Socket class allows you to perform asynchronous data transfer using any of the communication protocols listed in the ProtocolType enumeration. Currently, the only supported ProtocolType is the TCP protocol. Supported Version Silverlight 4 & 3 . [MSDN – Socket Class](http&#58;//msdn.microsoft.com/en-us/library/system.net.sockets.socket%28v=vs.95%29.aspx)  
 
  
 
 
 **For interactive charts in a BI (*****Business Intelligence*****) solution **
 
-NO. There are some aftermarket solutions available. Notable are Telerik Silverlight Control , [Infragistics](http&#58;//www.infragistics.com/dotnet/netadvantage/silverlight/data-visualization.aspx) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")Silverlight Data Visualization. [Telerik](http&#58;//www.telerik.com/products/new-silverlight-controls.aspx) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW") provides BI solution using Advanced GridView, Charts with zooming, scrolling, multi-level resource grouping. Both solutions use shared API across Silverlight and WPF, as a result product user can visualize data in more flexible way. 
+NO. There are some aftermarket solutions available. Notable are Telerik Silverlight Control , [Infragistics](http&#58;//www.infragistics.com/dotnet/netadvantage/silverlight/data-visualization.aspx)  Silverlight Data Visualization. [Telerik](http&#58;//www.telerik.com/products/new-silverlight-controls.aspx)   provides BI solution using Advanced GridView, Charts with zooming, scrolling, multi-level resource grouping. Both solutions use shared API across Silverlight and WPF, as a result product user can visualize data in more flexible way. 
 
  
 
 
 **For Richer TextBox**
 
-YES. Using Silverlight Rich TextBox user can format Text, insert image, DataGrid, Calendar, display Text right-to-left, print content and can access clipboard. Accessing [Clipboard](http&#58;//msdn.microsoft.com/en-us/library/system.windows.clipboard%28v=vs.95%29.aspx) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW") can be implemented by using Clipboard Object. Selected Text context can be implemented using [Popup](http&#58;//msdn.microsoft.com/en-us/library/system.windows.controls.primitives.popup%28v=vs.95%29.aspx) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW") Control.  [Sample in MSDN](http&#58;//msdn.microsoft.com/en-us/library/ff426926%28v=vs.95%29.aspx) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW") 
+YES. Using Silverlight Rich TextBox user can format Text, insert image, DataGrid, Calendar, display Text right-to-left, print content and can access clipboard. Accessing [Clipboard](http&#58;//msdn.microsoft.com/en-us/library/system.windows.clipboard%28v=vs.95%29.aspx)   can be implemented by using Clipboard Object. Selected Text context can be implemented using [Popup](http&#58;//msdn.microsoft.com/en-us/library/system.windows.controls.primitives.popup%28v=vs.95%29.aspx)   Control.  [Sample in MSDN](http&#58;//msdn.microsoft.com/en-us/library/ff426926%28v=vs.95%29.aspx)   
 
  
 
 **For mapping apps**
 
-YES. Microsoft.Maps.MapControl provides functionality to access Bing Maps. Using script a site can implement map feature by referencing the Bing Maps Silverlight Control XAP file in an object tag. Here are some sample applications:  [Microsoft Bing Map](http&#58;//www.microsoft.com/maps/isdk/silverlight/) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW") & [DeepEarth Project](http&#58;//deepearth.codeplex.com/) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
+YES. Microsoft.Maps.MapControl provides functionality to access Bing Maps. Using script a site can implement map feature by referencing the Bing Maps Silverlight Control XAP file in an object tag. Here are some sample applications:  [Microsoft Bing Map](http&#58;//www.microsoft.com/maps/isdk/silverlight/)   & [DeepEarth Project](http&#58;//deepearth.codeplex.com/)  
 
  
 
 **Slow Response**
 
-The initial slow response is due to downloading of the .xap file. This is not an issue since it is a one-time download and the user gets a fast response with later interaction. For later visits, user will not face slow response issue as browser already cached the data. Also check out rules - [Do you use dynamic application loading in Silverlight](/Pages/Do-you-use-dynamic-application-loading-in-Silverlight.aspx) ![](/Style%20Library/SSW/CoreImages/IconNewWindow.png "This opens in a New Window")
+The initial slow response is due to downloading of the .xap file. This is not an issue since it is a one-time download and the user gets a fast response with later interaction. For later visits, user will not face slow response issue as browser already cached the data. Also check out rules - [Do you use dynamic application loading in Silverlight](/Pages/Do-you-use-dynamic-application-loading-in-Silverlight.aspx)  
 
