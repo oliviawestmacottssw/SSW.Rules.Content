@@ -16,8 +16,9 @@ Don't forget to add a favicon to the address bar of your website! That extra bit
  
 Simply add the following within the head tags on your document:
 
-      &lt;head&gt;
-<br>      &lt;LINK REL="SHORTCUT ICON" HREF="/ssw/Images/icossw\_v2.ico"&gt;
-<br>      &lt;/head&gt;
+
+&lt;head&gt;
+       &lt;LINK REL="SHORTCUT ICON" HREF="/ssw/Images/icossw\_v2.ico"&gt;
+       &lt;/head&gt;
 
 
