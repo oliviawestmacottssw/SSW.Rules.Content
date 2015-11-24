@@ -8,7 +8,7 @@ authors: []
 ---
 
  
-Basically every phone number should have +country code because then when  you are in another country you can dial anyone without knowing the  special numbers to go international.
+Basically every phone number should have +country code because then when you are in another country you can dial anyone without knowing the special numbers to go international.
  
 ​![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Bad.gif) Bad: (503) 629-4000
 
