@@ -41,8 +41,8 @@ Here is a PDF format [SSW Release Upd​​ate Report.](http&#58;//www.ssw.com.
 
 **If you are at the end of a main section of work, promote your success **
 
-- [Ask for a testimonial for the work you have done](/rules-to-better-software-consultants-dealing-with-clients)
-- Create a case study and get it approved - This should be a win-win for the client. eg.  [WorleyParsons](http&#58;//www.ssw.com.au/ssw/Company/WorleyparsonsCaseStudy.aspx)
+- [Ask for a testimonial for the work you have done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=c14a312e-5c0d-489f-80e1-8722fd99d607)
+- Create a case study and get it approved - This should be a win-win for the client. eg.  [WorleyParsons](https&#58;//www.ssw.com.au/ssw/Consulting/Case-Study/WorleyParsons.aspx)
 - Add a link to the work you have done from your website or marketing material. eg. at SSW we do this via the [Our Clients](http&#58;//www.ssw.com.au/ssw/Company/OurClients.aspx) page
 
  ​  
