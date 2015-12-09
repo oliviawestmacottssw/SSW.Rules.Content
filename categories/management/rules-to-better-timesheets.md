@@ -15,6 +15,6 @@ index:
 - do-you-keep-a-hard-copy-diary
 
 ---
+<p>​​</p>
 
-Rules to Better Tmesheets
 
