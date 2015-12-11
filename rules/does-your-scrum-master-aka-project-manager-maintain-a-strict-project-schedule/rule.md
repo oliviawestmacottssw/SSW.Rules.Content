@@ -22,28 +22,28 @@ Some activities are run internally; some are run with the client.
 | Day  | Internal activity  | With the client |
 | --- | --- | --- |
 | Monday  | <ul><li>
-                  <a href="/methodology-do-you-do-daily-scrums-(aka-stand-up-meetings)" shape="rect">Stand Up meeting (or Scrum) </a></li><li>
-                  <a href="/management-do-you-enforce-deadlines-have-a-project-release-plan-a-debrief-and-a-mark-10" shape="rect">Management Reporting</a> </li><li>Build review </li></ul> |  |
+                  <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=731a3f5d-a266-4944-876c-a45afa82832f" shape="rect">Stand Up meeting (or Scrum) </a></li><li>
+                  <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=dce3cd1a-6b69-499d-a542-a75f8c274187" shape="rect">Management Reporting</a> </li><li>Build review </li></ul> |  |
 |   |
 | Tuesday  | <ul><li>
-                  <a href="/methodology-do-you-do-daily-scrums-(aka-stand-up-meetings)" shape="rect"></a><a href="/methodology-do-you-do-daily-scrums-(aka-stand-up-meetings)" shape="rect">Stand Up meeting (or Scrum)&#160;</a><a href="/methodology-do-you-do-daily-scrums-(aka-stand-up-meetings)" shape="rect">&#160;</a> </li></ul> | <ul><li>Conduct a 
-                  <a href="/do-you-conduct-a-＂test-please＂-internally-and-then-with-the-client" shape="rect">test please </a>with the client </li><li>
-                  <a href="/estimating-do-you-know-what-tasks-are-involved-in-addition-to-just-development-work-items" shape="rect">Triage additional item requests</a> </li><li>
-                  <a href="/do-you-email-clients-as-soon-as-you-realise-you-will-overrun-your-original-estimate" shape="rect">Obtain approval for additional items and budget overuns</a> </li><li>
-                  <a href="/management-do-you-have-a-＂release-update-debrief-meeting＂-on-a-weekly-basis" shape="rect">Release update/debrief</a> </li><li>Release sign-off </li><li>Release deployment </li><li>Next Release approved </li></ul> |
+                  <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=731a3f5d-a266-4944-876c-a45afa82832f" shape="rect"></a><a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=731a3f5d-a266-4944-876c-a45afa82832f" shape="rect">Stand Up meeting (or Scrum)&#160;</a><a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=731a3f5d-a266-4944-876c-a45afa82832f" shape="rect">&#160;</a> </li></ul> | <ul><li>Conduct a 
+                  <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28" shape="rect">test please </a>with the client </li><li>
+                  <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=6519ef47-8d72-4eab-a63d-7a84befffeef" shape="rect">Triage additional item requests</a> </li><li>
+                  <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=1a59fed4-fb4b-4f47-bee8-acc65c0c4833" shape="rect">Obtain approval for additional items and budget overuns</a> </li><li>
+                  <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=02b4ff02-206e-4926-a931-d32570d8b27d" shape="rect">Release update/debrief</a> </li><li>Release sign-off </li><li>Release deployment </li><li>Next Release approved </li></ul> |
 |   |
 | Wednesday  | <ul><li>
-                  <a href="/methodology-do-you-do-daily-scrums-(aka-stand-up-meetings)" shape="rect">Stand Up meeting (or Scrum)&#160;</a> 
+                  <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=731a3f5d-a266-4944-876c-a45afa82832f" shape="rect">Stand Up meeting (or Scrum)&#160;</a> 
                   <ul></ul></li></ul> |  |
 |   |
 | Thursday  | <ul><li>
-                  <a href="/methodology-do-you-do-daily-scrums-(aka-stand-up-meetings)" shape="rect">Stand Up meeting (or Scrum)&#160;</a> </li><li>
-                  <a href="/rules-to-better-architecture-and-code-review" shape="rect">Architecture/code review</a> </li></ul> |  |
+                  <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=731a3f5d-a266-4944-876c-a45afa82832f" shape="rect">Stand Up meeting (or Scrum)&#160;</a> </li><li>
+                  <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=41f8e5b2-127f-4148-b07f-cb7fc39faf51" shape="rect">Architecture/code review</a> </li></ul> |  |
 |   |
 | Friday  | <ul><li>
-                  <a href="/methodology-do-you-do-daily-scrums-(aka-stand-up-meetings)" shape="rect">Stand Up meeting (or Scrum)&#160;</a> </li><li>
+                  <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=731a3f5d-a266-4944-876c-a45afa82832f" shape="rect">Stand Up meeting (or Scrum)&#160;</a> </li><li>
                   <a href="http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSetups.aspx#BuildVersionDay" shape="rect">Internal build</a> </li><li>
-                  <a href="/do-you-conduct-a-＂test-please＂-internally-and-then-with-the-client" shape="rect">Test please</a> </li></ul> |  |
+                  <a href="/conduct-a-test-please-internally-and-then-with-te-client" shape="rect">Test please</a> </li></ul> |  |
 
 
 
