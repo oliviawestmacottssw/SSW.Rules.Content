@@ -33,6 +33,7 @@ index:
 - do-you-add-a-prefix-on-blog-posts-titles
 - do-you-know-all-the-symbols-on-the-keyboard
 - do-you-use-generic-and-consistent-names-on-examples
+- do-you-use-relevant-words-on-your-links
 - tiny-do-you-know-scrum-should-be-capitalized
 
 ---
