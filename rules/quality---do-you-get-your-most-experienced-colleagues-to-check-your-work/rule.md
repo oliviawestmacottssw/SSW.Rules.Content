@@ -14,5 +14,5 @@ authors:
  
 For development, as your application starts to develop into a usable entity, make                     sure you get your Chief Architect (or equivalent) to have a look at what you're                     doing and w​eigh in with their advice.
 
-You can do this through either a [test please](/do-you-conduct-a-＂test-please＂-internally-and-then-with-the-client)on an individual piece of work, or a [code review](/rules-to-better-architecture-and-code-review) for the entire project.
+You can do this through either a [test please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28)on an individual piece of work, or a [code review](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=41f8e5b2-127f-4148-b07f-cb7fc39faf51) for the entire project.
 
