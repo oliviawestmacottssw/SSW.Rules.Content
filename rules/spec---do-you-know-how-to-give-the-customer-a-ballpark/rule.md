@@ -26,9 +26,9 @@ This process can take up to a few days, so if you're just after a ballpark, use 
 3. In Excel, add a colum called "Days"
 Convert the story points to days by deciding on a scaling factor based on your team's velocity. (e.g. Days = Effort/5... assuming you get about 5 story points done per day). 
 Note: Once we move to estimating in days, this is no longer Scrum.
-4. In Excel, copy this list and paste into another spreadsheet called the [Excel template calcul​ator](/Documents/SSWPrioritiesEstimatesTemplate.xlsx), in order to add all of the extra items (training, testing, Project management, etc.).
+4. In Excel, copy this list and paste into another spreadsheet called the ![](/Style%20Library/SSW/CoreImages/iconXls.png "Excel File") [Excel template calcul​ator](/Documents/zzSSWPrioritiesEstimatesTemplate-v1.xlsx) ![](/Style%20Library/SSW/CoreImages/IconNewWindow.png "This opens in a New Window"), in order to add all of the extra items (training, testing, Project management, etc.).
 Note: It would be great if TFS Web Access had functionality to add [standard items to a Release](http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/TeamFoundationServer.aspx#StandardItems) (aka iteration)
-5. Run a [test please](/do-you-conduct-a-＂test-please＂-internally-and-then-with-the-client) on this.
+5. Run a [test please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28) on this.
 6. Add this spreadsheet to your specification review document.
 7. When the Estimate is approved by the client, start work following these rules: [Rules to Better Project Management with TFS](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx).
 
