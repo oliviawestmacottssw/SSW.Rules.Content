@@ -39,5 +39,5 @@ Figure: Good example – this is an appointment with specific time for the next 
 ![3-01-2014 10-13-04 PM.png](/PublishingImages/3-01-2014%2010-13-04%20PM.png)
 
 Good Example: FireBootCamp - Scrum Commitments Specification VideoGood Example: FireBootCamp - SugarLearning Specification VideoGood Example: FireBootCamp - TimePRO Invoicing Specification VideoGood Example: FireBootCamp - Code Auditor Specification Video
-Once again, the presentation needs to pass a '[test please](/do-you-conduct-a-＂test-please＂-internally-and-then-with-the-client "Test Please")' from another senior employee before the meeting takes place.
+Once again, the presentation needs to pass a '[test please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28 "Test Please")' from another senior employee before the meeting takes place.
 
