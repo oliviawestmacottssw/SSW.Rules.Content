@@ -12,5 +12,5 @@ authors:
 ---
 
  Consistency across your similar pages (such as standards pages in this case) is very important and should be made easy to implement. <br> 
-Guidelines and standards for the SSW website pages can be found at SSW Web Design References .
+Guidelines and standards for the SSW website pages can be found at [SSW Web Design References](https&#58;//www.ssw.com.au/ssw/company/Web-Reference.aspx) .
 
