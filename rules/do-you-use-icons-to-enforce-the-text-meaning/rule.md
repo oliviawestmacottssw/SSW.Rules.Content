@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​People may not pay attention to some important words in your pages. While adding a simple and clear icon beside the words will make the difference. Add a green tick for successful messages and a red cross for error messages.
+ ​​People may not pay attention to some important words in your pages. While adding a simple and clear icon beside the words will make the difference. Add a green tick for successful messages and a red cross for error messages.
  ![no icons to indicate the status](/PublishingImages/validation-bad.jpg)Figure: Bad example - no icons to indicate the status![green tick and red cross helps the user to know what's going on](/PublishingImages/validation-good.jpg)Figure: Good example - green tick and red cross helps the user to know what's going on
 ### Related Rule​
 
