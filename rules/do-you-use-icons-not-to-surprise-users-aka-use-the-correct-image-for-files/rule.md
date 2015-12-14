@@ -12,7 +12,7 @@ authors:
 ---
 
  
-When a user clicks on a hyperlink they expect to open an       html file. If you click on a hyperlink (but it is actually a       .doc file) you wait and wait while it takes forever to       instantiate an instance of Microsoft Word in the background.
+​When a user clicks on a hyperlink they expect to open an       html file. If you click on a hyperlink (but it is actually a       .doc file) you wait and wait while it takes forever to       instantiate an instance of Microsoft Word in the background.
  
 Don't surprise users! Use the following icons:
 
@@ -35,6 +35,7 @@ Don't surprise users! Use the following icons:
 | XML / RSS  | ![Icon XML](http&#58;//www.ssw.com.au/ssw/Images/IconXML.gif) This will subscribe to RSS |
 | ODF | ![Icon ODF](http&#58;//www.ssw.com.au/ssw/Images/IconOFT.gif) This is an Outlook Item Template |
 | Page                          | ![](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/ms_lock.gif) This is a link to password protected page  |
+| ​YouTube | ​![](/PublishingImages/_t/youtube-icon_png.jpg)This is a link to a YouTube Video |
 
 ![Image good link](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/GoogleIcons.gif)Figure: FYI there are the same images used by Google at <br>      [GoogleDesktopSideBar.htm](http&#58;//desktop.google.com/features.html)![](http&#58;//www.ssw.com.au/ssw/images/external.gif "You are now leaving SSW")
  ![Image bad link](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/IconImageBad.gif)Figure: Bad Example - The user would expect all these hyperlinks to work the same way
