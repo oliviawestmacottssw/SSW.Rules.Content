@@ -40,7 +40,7 @@ Always put "test please" in the email body so readers know they are expected to 
 
 Please cc the client in all your "Test Please" emails including internal ones.
 
-1. At the end of a release, prepare a "Test Please" email.  Create the email by copying the text from the sample [Test Please Template](https&#58;//www.ssw.com.au/ssw/Standards/Templates/Test-Please.aspx).
+1. At the end of a release, prepare a "Test Please" email.  Create the email by copying the text from the sample [Test Please Template](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ec137193-bbcb-43a7-bc9a-4d337395aa22).
 2. Get two testers to test your app - if it's a web app make sure one uses IE and the other Firefox.
 3. Specify exactly what is required to be tested by adding some bullet points at the top and highlighting in yellow, so it stands out from the template text. e.g.
     - Run Timesheet report
