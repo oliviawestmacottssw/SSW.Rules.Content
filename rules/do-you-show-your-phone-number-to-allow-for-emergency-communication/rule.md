@@ -25,5 +25,5 @@ It is better to provide a local phone number to the clients, to encourage them t
 2. If your Skype is offline, it will redirect the call to your mobile / local phone.
 
 
-So get ​<br>      [a Skype online number](http&#58;//www.skype.com/allfeatures/onlinenumber/) .
+So get ​<br>      [a Skype online number](http&#58;//www.skype.com/allfeatures/onlinenumber/) and make sure that your main contact in a remote office is always contactable.
 
