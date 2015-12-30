@@ -22,10 +22,19 @@ Avoid old technologies such as:
 - KnockoutJS
 
 ​When you create a project you should be adding the following NuGet Packages:
-- S
-- SW.DataOnion
-- .HealthCheck
+
+- SSW.DataOnion
+- SSW.HealthCheck
 - ​​AutoFac
 - Serilog
 
+
+You should also be adding the following NPM (or Bower) packages:
+
+- Angular JS
+- Bootstrap
+- 
+
+
+Part of [SugarLearning Developer Induction](https&#58;//sugarlearning.com/companies/SSW/items/9553/do-you-know-which-nuget-packages-to-include).
 
