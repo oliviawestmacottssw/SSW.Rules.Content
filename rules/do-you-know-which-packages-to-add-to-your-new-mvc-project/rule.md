@@ -29,12 +29,12 @@ Avoid old technologies such as:
 - Serilog
 
 
-You should also be adding the following NPM (or Bower) packages:
+You should also add the following NPM (or Bower) packages:
 
 - Angular JS
 - Bootstrap
 - 
 
 
-Part of [SugarLearning Developer Induction](https&#58;//sugarlearning.com/companies/SSW/items/9553/do-you-know-which-nuget-packages-to-include).
+Part of [SugarLearning Developer Induction](https&#58;//sugarlearning.com/companies/SSW/modules/5099/induction-day-3-developer-induction).
 
