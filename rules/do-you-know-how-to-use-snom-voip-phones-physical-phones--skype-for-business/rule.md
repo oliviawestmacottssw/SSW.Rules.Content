@@ -46,5 +46,5 @@ Using SNOM phones, transferring a call, creating a conference call, or making an
 
 
 
-Read more about     [​implementing Microsoft Lync](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx).
-​  
+Read more about     [​](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx)[implementing Skype for Business​.​​](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx)
+
