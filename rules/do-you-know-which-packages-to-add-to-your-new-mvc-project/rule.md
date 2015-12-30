@@ -13,7 +13,7 @@ authors:
 
 ---
 
- ​​When you create a new MVC project in Visual Studio it is important to include the right NuGet packages from the start. This makes the project more manageable and you become more efficient in producing your final result. 
+ ​​When you create a new MVC project in Visual Studio it is important to include the right packages from the start. This makes the project more manageable and you become more efficient in producing your final result. 
 ​If you add old, obsolete or incorrect NuGet packages, the project will suffer and you might have decreased performance or scope creep as new requirements are discovered.
 
 Avoid old technologies such as:
@@ -29,12 +29,13 @@ Avoid old technologies such as:
 - Serilog
 
 
-You should also add the following NPM (or Bower) packages:
+You should also add the following NPM  packages:
 
 - Angular JS
 - Bootstrap
-- 
 
+
+Note: Prior to 2016, SSW recommend developers choose bower over NPM. That recomendation has chanaged due to the industry trend away from bower.
 
 Part of [SugarLearning Developer Induction](https&#58;//sugarlearning.com/companies/SSW/modules/5099/induction-day-3-developer-induction).
 
