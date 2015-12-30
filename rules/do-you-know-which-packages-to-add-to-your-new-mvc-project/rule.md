@@ -22,9 +22,10 @@ Avoid old technologies such as:
 - KnockoutJS
 
 ​When you create a project you should be adding the following NuGet Packages:
-- AngularJS
-- SSW.DataOnion
-- SSW.HealthCheck
-- And for generic stuff [https://github.com/ssw-au/SSW.Framework.Web.Mvc](https&#58;//github.com/ssw-au/SSW.Framework.Web.Mvc) ​​
+- S
+- SW.DataOnion
+- .HealthCheck
+- ​​AutoFac
+- Serilog
 
 
