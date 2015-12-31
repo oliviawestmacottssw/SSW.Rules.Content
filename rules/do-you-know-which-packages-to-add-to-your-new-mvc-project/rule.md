@@ -23,9 +23,8 @@ Avoid old technologies such as:
 
 ​When you create a project you should be adding the following NuGet Packages:
 
-- S
-- SW.DataOnion
-- k
+- SSW.DataOnion
+- SSW.HealthCheck
 - ​​AutoFac
 - Serilog
 
