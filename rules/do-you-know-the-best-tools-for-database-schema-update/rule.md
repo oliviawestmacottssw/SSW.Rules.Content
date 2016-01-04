@@ -18,10 +18,31 @@ authors:
 ---
 
  
-1. Red Gate SQL Compare + Red Gate SQL Packager (post development model)
-2. Visual Studio 2013​ Data Dude + Deploy (post development model)
-3. SQL Management Studio + OSQL  (Free and roll your own)
-4. SQL Management Studio + SSW SQL Deploy (As you go model
-5. Visual Studio 2013 + SSW SQL Validate (Code First)​
+​It is important when deploying your database for the database to be updated automatically.
+
+There are a number of tools that can be used to update the database as the application can be updated.
+
+
+
+
+- Red Gate SQL Compare + Red Gate SQL Packager (post development model)
+- Visual Studio 2013​ Data Dude + Deploy (post development model)
+- SQL Management Studio + OSQL  (Free and roll your own)​
+
+​Figure: Bad options for updating database schema​ - No ability to validate that the database hasn't been tampered with​
+
+
+
+
+![](http&#58;//sqldeploy.com/images/SQLDeploy_logo.png)
+​Figure: Good option for existing databases - ​SQL Management Studio + SSW SQL Deploy (As you go model)​
+
+
+
+[TODO: Logo Required for SQL Validate]
+
+
+​Figure: Good option for when using EF Code First: SSW SQL Validate
+
 
 
