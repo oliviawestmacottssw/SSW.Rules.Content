@@ -18,31 +18,23 @@ authors:
 ---
 
  
-​It is important when deploying your database for the database to be updated automatically.
+​​It is important when deploying your database for the database to be updated automatically.
 
 There are a number of tools that can be used to update the database as the application can be updated.
 
+- [Entity Framework Code First Migrations​​​​](https&#58;//msdn.microsoft.com/en-us/data/jj591621.aspx) (This is the suggested method if you are starting a new project)
+- [SQL Deploy](http&#58;//sqldeploy.com/) (This is the suggested tool if you are not using Entity Framework Code First)
+- [DAC Support For SQL Server Objects and Versions](https&#58;//technet.microsoft.com/en-us/library/ee210549%28v=sql.110%29.aspx)  (.dacpac files)
+- DBUp + SQL verify
 
 
+​Bad options for updating database schema​ - No ability to validate that the database hasn't been tampered with​
 
-- Red Gate SQL Compare + Red Gate SQL Packager (post development model)
-- Visual Studio 2013​ Data Dude + Deploy (post development model)
+
 - SQL Management Studio + OSQL  (Free and roll your own)​
+- Visual Studio 2015 + [SQL Server Data Tools​](https&#58;//msdn.microsoft.com/en-us/library/hh272686%28v=vs.103%29.aspx)​ (Formerly Data Dude) + Deploy (post development model)
+- Red Gate SQL Compare + Red Gate SQL Packager (post development model)
 
-​Figure: Bad options for updating database schema​ - No ability to validate that the database hasn't been tampered with​
-
-
-
-
-![](http&#58;//sqldeploy.com/images/SQLDeploy_logo.png)
-​Figure: Good option for existing databases - ​SQL Management Studio + SSW SQL Deploy (As you go model)​
-
-
-
-[TODO: Logo Required for SQL Validate]
-
-
-​Figure: Good option for when using EF Code First: SSW SQL Validate
 
 
 
