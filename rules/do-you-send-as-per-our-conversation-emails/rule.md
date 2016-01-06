@@ -16,7 +16,7 @@ authors:
 ---
 
  
-​Implement a policy of following up     **important** telephone conversations with an email that begins with the words "As per our conversation". The intent is to document what was said and agreed upon.
+​​Implement a policy of following up     **important** telephone conversations with an email that begins with the words "As per our conversation". The intent is to document what was said and agreed upon.
 
 Watch the video below and see how a single email can make your job easier.
 
