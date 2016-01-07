@@ -14,5 +14,5 @@ This does not imply that everyone is a guru in everything; no doubt some people 
 
 During task generation and estimation in Sprint Planning, choose something new and ask someone experienced in that area to have a subtask to help you.
 
-This is to make the team multi-skilled and reduce dependencies on individual.
+This is to make the team multi-skilled and reduce dependencies on individuals​.
 
