@@ -24,7 +24,7 @@ Estimate how much time each meeting will require, then schedule a single calen
 - These meetings do not necessarily have to be held on a Friday or Monday. You can have a Sprint start and end on any day of the week.​
 
 
-Tip: It can be helpful to finish the Sprint Review with the first D​aily Scrum​
+​​​​​​​​​Tip: It can be helpful to finish the Sprint Review with the first D​aily Scrum​
 
 Schedule the meeting and invite the Scrum Team and any interested stakeholders.​
 
@@ -53,12 +53,12 @@ See rule [Do you know what happens at a Sprint Retrospective Meeting?](/Pages/R
 We go through the backlog (aka to do list), get more information, estimate and then prioritize. We then breakdown to tasks and commit to what we believe we can deliver for the next sprint.
 See the rule [Do you know what happens at a Sprint Planning Meeting?](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
 
-​
+​​
 
 &lt;This email is as per the rule [Scrum Master - Do you schedule the 3 meetings?​​​](/Pages/ScheduleThe3Meetings.aspx) /&gt;
 
 
-**Figure: Good Example - copy this appointment template and send to ​the Scrum Team** 
+**Figure: Good Example - co​py this appointment template and send to ​the Scrum Team** 
 
 In Scrum, there are 4 meetings in total that you need to know about: 
 - [Sprint Planning Meeting​](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
