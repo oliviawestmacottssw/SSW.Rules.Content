@@ -13,7 +13,7 @@ authors:
 
 ---
 
- ​​When you create a new MVC project in Visual Studio it is important to include the right packages from the start. This makes the project more manageable and you become more efficient in producing your final result. 
+ ​​​When you create a new MVC project in Visual Studio it is important to include the right packages from the start. This makes the project more manageable and you become more efficient in producing your final result. 
 ​If you add old, obsolete or incorrect NuGet packages, the project will suffer and you might have decreased performance or scope creep as new requirements are discovered.
 
 Avoid old technologies such as:
@@ -23,9 +23,8 @@ Avoid old technologies such as:
 
 ​When you create a project you should be adding the following NuGet Packages:
 
-- S
-- SW.DataOnion
-- k
+- SSW.DataOnion
+- SSW.HealthCheck
 - ​​AutoFac
 - Serilog
 
