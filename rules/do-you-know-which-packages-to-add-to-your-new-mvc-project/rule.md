@@ -23,8 +23,9 @@ Avoid old technologies such as:
 
 ​When you create a project you should be adding the following NuGet Packages:
 
-- SSW.DataOnion
-- SSW.HealthCheck
+- S
+- SW.DataOnion
+- k
 - ​​AutoFac
 - Serilog
 
@@ -36,7 +37,7 @@ You should also add the following NPM  packages:
 - Gulp
 
 
-**Note**: Prior to 2016, SSW recommend developers choose bower over NPM as their front end package manager. That recomendation has chanaged due to the industry trend away from bower.
+**Note**: Prior to 2016, SSW recommend developers choose bower over NPM as their front end package manager. That recomendation has chan​ged due to the industry trend away from bower.
 
 ![Bower_v_NPM.png](/SiteAssets/do-you-know-which-packages-to-add-to-your-new-mvc-project/Bower_v_NPM.png)
 Figure: NPM Popularity has been increasing
