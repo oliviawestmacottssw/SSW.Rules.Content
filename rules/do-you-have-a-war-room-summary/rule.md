@@ -14,10 +14,10 @@ authors:
  
 ​​The scrum team needs a place to gather for all the scrum ceremonies. This room should have useful information on the wall to help the team work more efficiently. We recommend having the following:
 
-- [Physical Task Board](/Pages/Taskboard.aspx) (to show to current work in progress)
+- [Task Board](/Pages/Taskboard.aspx) (to show to current work in progress)
 - [The 8 Steps to Scrum PDF](/Documents/8StepstoScrum.pdf) (to show how we work)
-- [The 3 Steps to a PBI PDF](/Documents/3StepsToAPBI.pdf) (to know the lifecycle of a PBI​)
+- [The 3 Steps to a PBI PDF](/Documents/3StepsToAPBI.pdf) (to know the lifecycle of a PBI​)​
 - Product Roadmap (to let everyone know the large future priorities)
-- [Definition of Done - aka Done Criteria or DoD](/done-do-you-go-beyond-done-and-follow-a-definition-of-done) (the quality that is being adheared to)
+- [Definition of Done - aka Done Criteria or DoD](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=6449ae79-ba88-447e-aa48-36173029a2af) (the quality that is being adhered to)
 
  ​ ![](/PublishingImages/war-room-bad-example.jpg) Bad Example – No Product Roadmap is on the wall, so people can be out of sync with the future plans of the Product Owner ![](/PublishingImages/war-room-good-example.jpg) Good Example – The Product Roadmap is visible at a glance
