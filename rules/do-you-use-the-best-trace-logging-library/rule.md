@@ -22,7 +22,7 @@ Serilog supports all the log4net concepts of logging at different levels of imp
 
 Serilog's main advantage over previous loggers is its ability to serialize and log full .net objects rather than just strings. Serilog also has a powerful, nested context system allowing log events to be grouped by request, operation etc.
 
-Serilog has the concept of "sinks": pluggable modules that that can consume, store and/or act on logging events. The most pwerfult sink is Seq - a web aplication that allows the user to perform complex search queries on incoming log data in real time.
+Serilog has the concept of "sinks": pluggable modules that that can consume, store and/or act on logging events. The most powerful sink is Seq - a web aplication that allows the user to perform complex search queries on incoming log data in real time.
 
 Other sinks allow you to:
 
@@ -32,7 +32,7 @@ Other sinks allow you to:
 - export to Application Insights, New Relic and many other APM platforms
 
 
-Many other sinks are available as described here: [https://github.com/serilog/serilog/wiki/Provided-Sinks​](https&#58;//github.com/serilog/serilog/wiki/Provided-Sinks)
+Many other sinks are available as described here: [https://github.com/serilog/serilog/wiki/Provided-Sinks​](https&#58;//github.com/serilog/serilog/wiki/Provided-Sinks) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
 ![](/PublishingImages/trace-logging-bad.jpg)Figure: Bad Example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime![](/PublishingImages/trace-logging-bad-2.jpg)Figure: Bad Example - Roll your own logging components lack functionality, and have not been tested as thoroughly for quality or performance as log4net
 ​
 
