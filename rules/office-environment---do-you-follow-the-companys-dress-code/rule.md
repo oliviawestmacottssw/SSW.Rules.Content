@@ -22,7 +22,7 @@ One aspect of this is dress code. Dress code is important for two reasons:
 - Reinforce the company's [branding](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterBranding.aspx#BrandingEmployees)
 
 
-E.g. At SSW, our employees **"Dress Up" on Mondays and Tuesdays by wearing company colours**... with a nice shirt (business or polo), trousers, belt, nice shoes (no sneakers, joggers or thongs). So most employees wear their SSW shirts on Mondays​.​
+E.g. At SSW, our employees **"Dress Up" on Mondays and Tuesdays by wearing company colours**... with a nice shirt (business or polo), trousers (not blue jeans)​, belt, nice shoes (no sneakers, joggers or thongs). So most employees wear their SSW shirts on Mondays​.​
 
 ### The Obvious​
 
