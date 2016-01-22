@@ -18,6 +18,6 @@ authors:
 3. Redeploy CRM to the new environment
 4. Test to see if the new environment works as expected
 5. Upgrade the new environment to CRM 4
-6. Test the new environment after upgrading​
+6. ​Test the new environment after upgrading​
 
 
