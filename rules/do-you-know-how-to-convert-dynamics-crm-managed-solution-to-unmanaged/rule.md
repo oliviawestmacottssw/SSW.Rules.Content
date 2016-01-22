@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- ​You might need to modify solutions during migration. But if that solution is managed, you cannot edit directly. If you have the unmanaged version in development environment, you can edit it and override the production managed solution. 
+ ​​You might need to modify solutions during migration. But if that solution is managed, you cannot edit directly. If you have the unmanaged version in development environment, you can edit it and override the production managed solution. 
 If you don't have the unmanaged version which is bad practice. see [her​e](http&#58;//community.adxstudio.com/blogs/shan/2014-01-17-converting-crm-solutions-from-managed-to-unmanaged/) for good practice about CRM ALM (How to avoid this section), use the following script to hack the org database
 
 
