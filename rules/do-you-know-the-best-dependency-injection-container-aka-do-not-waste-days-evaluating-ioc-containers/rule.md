@@ -14,7 +14,7 @@ authors:
 ---
 
  
-​​You can waste days evaluating IOC containers. The top ones are quite similar. There is not much in this, but the best ones are StructureMap and AutoFac. At SSW we use Autofac on most projects.
+​​​You can waste days evaluating IOC containers. The top ones are quite similar. There is not much in this, but the best ones are StructureMap and AutoFac. At SSW we use Autofac on most projects.
 
 Other excellent DI containers are StructureMap, Ninject and Castle Winsdor. They have weaknesses, some are listed below.
  
