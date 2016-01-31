@@ -39,13 +39,26 @@ StructureMap does also support a kind of child container:
 [http://codebetter.com/jeremymiller/2010/02/10/nested-containers-in-structuremap-2-6-1/](http&#58;//codebetter.com/jeremymiller/2010/02/10/nested-containers-in-structuremap-2-6-1/)
 
 ​![Autofac_web.png](/PublishingImages/Autofac_web.png)
-Figure: Good Example - the web / mvc integration package layer for Autofac is developed by the same core Autofac team. Some containers (such as Structure Map) requre third-party integration layers​​ ​
+Figure: Good Example - the web / mvc integration package layer for Autofac is developed by the same core Autofac team. Some containers (such as Structure Map) require third-party integration layers​​ ​
+
+
+
+### What about ASP.NET 5's (core)​ default dependency injection?
+
+​ASP.NET 5 includes default dependency injection for new Web Apps in the Startup.cs file. This is adequate for simple projects, but not designed to compete with the features of alternatives containers (like AutoFac's convention based registration).
+
+"The default services container provided by ASP.NET 5 provides a minimal feature set and is not intended to replace other containers.​​" - Steve Smith, ([ASP.NET Dependency Injection](http&#58;//docs.asp.net/en/latest/fundamentals/dependency-injection.html))
+
+Here is an example of rewiring the default code to AutoFac with the [SSW's Music Store​](https&#58;//github.com/SSWConsulting/enterprise-musicstore-ui-angular2) app. ​
+![SSW-DependencyInjection-Example-Default-Bad.png](/SiteAssets/do-you-know-the-best-dependency-injection-container-(aka-do-not-waste-days-evaluating-ioc-containers)/SSW-DependencyInjection-Example-Default-Bad.png) ​​​​Figure: Bad Example - ​​The default dependency injection for ASP.NET 5​
+​​![SSW-DependencyInjection-Example-Default-Good.png](/SiteAssets/do-you-know-the-best-dependency-injection-container-(aka-do-not-waste-days-evaluating-ioc-containers)/SSW-DependencyInjection-Example-Default-Good.png)​
+​​Figure: Good Example - The bad example rewired to utilize​ AutoFac. Red boxes outline the modified code.
 
 
 
 #### Further Reading:​
 
 - [Do you use a dependency injection centric architecture?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0a5029a1-dd4f-46d7-9f22-8ab328e7c102)
-- [​Do you generate the VS dependency graph?](/Pages/DoYouGenerateTheVSDependencyGraph.aspx)​
+- [​Do you generate the VS dependency graph?](/Pages/DoYouGenerateTheVSDependencyGraph.aspx)​ ​
 
 
