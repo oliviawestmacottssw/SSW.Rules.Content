@@ -43,13 +43,17 @@ Figure: Good Example - the web / mvc integration package layer for Autofac is 
 
 
 
-### What about ASP.NET 5's (core)​ default dependency injection?
+### Do you know what to do about ASP.NET core (aka ASP.NET 5) default dependency injection?
 
-​ASP.NET 5 includes default dependency injection for new Web Apps in the Startup.cs file. This is adequate for simple projects, but not designed to compete with the features of alternatives containers (like AutoFac's convention based registration).
+​We already know what the [best IOC container is](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0aa194e1-2de9-4ed1-b430-444109d65a50), but how does ASP.NET core's default dependency injection comapre?
+
+ASP.NET 5 includes default dependency injection for new Web Apps in the Startup.cs file. This is adequate for simple projects, but not designed to compete with the features of alternatives containers (like AutoFac's convention based registration).
 
 "The default services container provided by ASP.NET 5 provides a minimal feature set and is not intended to replace other containers.​​" - Steve Smith, ([ASP.NET Dependency Injection](http&#58;//docs.asp.net/en/latest/fundamentals/dependency-injection.html))
 
-Here is an example of rewiring the default code to AutoFac with the [SSW's Music Store​](https&#58;//github.com/SSWConsulting/enterprise-musicstore-ui-angular2) app. ​
+You can quckly spot this error and any more by using the [SSW Code Auditor​](https&#58;//www.ssw.com.au/ssw/CodeAuditor/).
+
+Here is an example of rewiring the default code to AutoFac with the [SSW's Music Store​](https&#58;//github.com/SSWConsulting/enterprise-musicstore-ui-angular2) app:
 ![SSW-DependencyInjection-Example-Default-Bad.png](/SiteAssets/do-you-know-the-best-dependency-injection-container-(aka-do-not-waste-days-evaluating-ioc-containers)/SSW-DependencyInjection-Example-Default-Bad.png) ​​​​Figure: Bad Example - ​​The default dependency injection for ASP.NET 5​
 ​​![SSW-DependencyInjection-Example-Default-Good.png](/SiteAssets/do-you-know-the-best-dependency-injection-container-(aka-do-not-waste-days-evaluating-ioc-containers)/SSW-DependencyInjection-Example-Default-Good.png)​
 ​​Figure: Good Example - The bad example rewired to utilize​ AutoFac. Red boxes outline the modified code.
