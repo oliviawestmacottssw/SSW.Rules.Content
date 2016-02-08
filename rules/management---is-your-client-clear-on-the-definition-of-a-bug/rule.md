@@ -50,17 +50,12 @@ Using TFS allows you to create work items such as user stories, bugs, tasks, t
 > Figure: Do I create this as a bug, or a task? **
 
 
-**Work items in TFS - Scrum Template**
-
-The scrum template only has two types of work items "Product Backlog Item" and "Bug"​
-
 **Handling additional work for fixed-price contracts**
-
- Any new features or modifications (non-bug items) not in the original release plan are classed as additional work and are outside the scope of the contract. Any tasks which **are** bugs should be marked as additional items and be completed in the current release if possible. Most importantly, after the release plan has been sent, **a task should NOT be entered as an item (additional or otherwise) in ANY sprints if they are not a bug**. Instead, move all non-bug items to the product backlog for future review after the warranty period for the fixed price contract has passed.
+Any new features or modifications (non-bug items) not in the original release plan are classed as additional work and are outside the scope of the contract. Any tasks which **are** bugs should be marked as additional items and be completed in the current release if possible. Most importantly, after the release plan has been sent, **a task should NOT be entered as an item (additional or otherwise) in ANY sprints if they are not a bug**. Instead, move all non-bug items to the product backlog for future review after the warranty period for the fixed price contract has passed.
 
 **Handling additional work in a Scrum project**
 
-Any new features or modifications (non-bug items) not in the original Product Backlog are classed as additional PBI's and placed on the Product Backlog. Any tasks which **are** bugs found during the current Sprint should be fixed within the current Sprint. Any tasks which **are** bugs found outside of the current Sprint should be added to the Product Backlog.
+Any new features or modifications (non-bug items) not in the original Product Backlog are classed as additional PBI's and placed on the Product Backlog. Any tasks which **are** bugs found during the current Sprint should be fixed within the current Sprint. Any tasks which **are** bugs found outside of the current Sprint should be added to the Product Backlog. See [Do you know when to create bugs?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=a497565c-0fac-4fff-bec2-4cd3278c5654 "Do you know when to create bugs?") and [Do you know the 3 steps to a PBI?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2c4dfc14-8084-4277-ae5e-7f5f692e4065)​
 
 ![tfs_preview_add_bug.png](/PublishingImages/62034c_tfs_preview_add_bug.png)
 **Figure: Adding a bug to the Product Backlog in TFS**
