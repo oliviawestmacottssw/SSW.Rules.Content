@@ -14,15 +14,15 @@ authors:
 ---
 
 
-Story Points cannot be allocated against bugs in MSF Agile 5.0 so to include them in a Sprint we need to group them.
-
-Bugs that are introduced and found because of the current work in the Sprint are included in the Sprint and estimated immediately so the burndown remains accurate.
-
-See [Do you know when to create bugs?](/Pages/CreateBugs.aspx) for detailed information on identifying when something is a bug, and when to just fix it.
 
 
+Bugs that are introduced and found because of the current work in the Sprint are included in the Sprint and estimated immediately so the burndown remains accurate. All other bugs found independent of the work on the current sprint are placed on the Product Backlog.​
 
+See [Do you know when to create bugs?](/Pages/CreateBugs.aspx) for detailed information on identifying when something is a bug, and when to just fix it.
+ 
 ## Using the Agile process template
+
+In the Agile template, you can't assign Story Points to bugs, meaning that they will negatively impact on sprint velocity.
 
 Bugs found that are independent of the work on the current Sprint are placed on the Product Backlog as a work item “Bug”. The product Owner then ranks the Bugs with priority amongst the User Stories. Bugs cannot have Story Points allocated to them so User Stories need to be created with Bugs as Child Work Items. This is only done when the PO has prioritized the Bug and the Bug is likely to make the next Sprint. At the Planning Meeting, the PO elects which Bugs are to be included and new User Stories are created to group them appropriately with due regard to Severity and Stack Rank. Once the User Stories have been created, The Team estimates the Story Points for each one; the Product confirms User Stack Rank and the Sprint Backlog is planned as normal.
 
