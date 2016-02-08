@@ -11,7 +11,7 @@ authors:
 
 ---
 
- The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug. <br>​ 
+ ​The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug. <br>​ 
 ![](/PublishingImages/bug-feature.png)
 
 A software issue can be classed as a bug where:
@@ -41,15 +41,18 @@ Figure: An incorrect sum is likely to be a bug**
 4. The original specification states that the total price excludes GST, but it really should have included GST. This is a change to the specification, and is not included in the contract.
 
 
-**Work items in TFS**
+**Work items in TFS - Agile Template**
 
 Using TFS allows you to create work items such as user stories, bugs, tasks, test cases etc. Only create bugs in TFS for defects, faults, flaws, or imperfections that fulfill your definition of a bug. For everything else use other work item types.
 
 
-> **![](/PublishingImages/WorkItemsTFS.jpg)
-> <br>Figure: Do I create this as a bug, or a task? ****
-> **
+> **![2016-02-08_12-20-59.png](/SiteAssets/management-is-your-client-clear-on-the-definition-of-a-bug/2016-02-08_12-20-59.png)
+> Figure: Do I create this as a bug, or a task? **
 
+
+**Work items in TFS - Scrum Template**
+
+The scrum template only has two types of work items "Product Backlog Item" and "Bug"​
 
 **Handling additional work for fixed-price contracts**
 
@@ -60,7 +63,7 @@ Using TFS allows you to create work items such as user stories, bugs, tasks, t
 Any new features or modifications (non-bug items) not in the original Product Backlog are classed as additional PBI's and placed on the Product Backlog. Any tasks which **are** bugs found during the current Sprint should be fixed within the current Sprint. Any tasks which **are** bugs found outside of the current Sprint should be added to the Product Backlog.
 
 ![tfs_preview_add_bug.png](/PublishingImages/62034c_tfs_preview_add_bug.png)
-**Figure: Adding a bug to the Product Backlog in TFS Preview (TFS 2012)**
+**Figure: Adding a bug to the Product Backlog in TFS**
 
 If you see a bug in any software product, e.g. SSW Code Auditor, it is best to report the issue following the steps outlined the [SSW Bug or Enhancement Reporting Standard](http&#58;//www.ssw.com.au/ssw/Standards/Support/BugReportOrEnhancement.aspx).
 
