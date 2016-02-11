@@ -45,5 +45,6 @@ Figure: Good Example - the web / mvc integration package layer for Autofac is 
 
 - [Do you use a dependency injection centric architecture?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0a5029a1-dd4f-46d7-9f22-8ab328e7c102)
 - [​Do you generate the VS dependency graph?](/Pages/DoYouGenerateTheVSDependencyGraph.aspx)​ ​
+- [Do you know what to do about ASP.NET core (aka ASP.NET 5) default dependency injection?​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=c9398fcf-0c43-4f22-8819-f324c4ecb1a8)
 
 
