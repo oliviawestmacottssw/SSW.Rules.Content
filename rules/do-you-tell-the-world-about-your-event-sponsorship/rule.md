@@ -14,7 +14,7 @@ Sponsoring an event can be a good way to get your company’s name and expertise
  
 ​You should let the world know through the following channels:
 
-- Your website news page
+- Your website news page​​
 - Company Facebook groups or pages
 - Company LinkedIn pages
 
