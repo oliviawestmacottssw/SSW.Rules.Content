@@ -19,7 +19,7 @@ authors:
 3. Define who is your target audience
 4. Summarize buyer persona
 5. Identity the 10 industry leaders (people) with large following we will target for promotion
-    1. Create emails to send to each as per the rule of
+    1. ​Create emails to send to each as per the rule of
     2. Create social media updates to send to each as per the rule do you contact industry influences to promote your campaigns?
 6. Identify companies and website with large followings we will target for promotion (ie Microsoft divisions)
     1. Create emails to send to each
@@ -53,4 +53,4 @@ authors:
 
 1. Add relevant content to an auto-responder email campaign
 
- ​​You can find a template to follow at [!\[\](/_layouts/15/images/icdocx.png)SSW-Marketing-Campaign-Checklist-TEMPLATE\_v1.docx](/Documents/SSW-Marketing-Campaign-Checklist-TEMPLATE_v1.docx)
+ ​ You can find a template to follow at  [!\[\](/_layouts/15/images/icdocx.png)SSW-Marketing-Campaign-Checklist-TEMPLATE\_v1.docx](/Documents/SSW-Marketing-Campaign-Checklist-TEMPLATE_v1.docx)
