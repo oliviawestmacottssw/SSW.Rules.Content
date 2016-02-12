@@ -25,9 +25,9 @@ As such, we feel it necessary to identify the different forms of advertising med
 
 
  
-​Now details of SSW previous experience with those advertising mediums we feel are more applicably to the I.T. industry:
+Now details of SSW previous experience with those advertising mediums we feel are more applicably to the I.T. industry:
 
-#### Magazines
+### Magazines
 
 - BPR: very strong response
 - Smart Access: good
@@ -36,11 +36,11 @@ As such, we feel it necessary to identify the different forms of advertising med
 - Communique: absolutely hopeless - we have had 0 response from full page ads.
 
 
-#### Internet​
+### Internet
 
 Banner ads - We have had the best responses with the following websites:
 
 - Google
-- SQL Server​​
+- SQL Server
 
 
