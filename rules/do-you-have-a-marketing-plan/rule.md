@@ -12,8 +12,6 @@ authors:
 ---
 
  
-
-
 If you were going to build a house, you would hope that the architect and builders are working together using architectural plans and blue prints as a guide. So why would trying to build a solid customer base or market share be any different?
 
 At SSW we realize the monumental importance of a marketing plan. Although we recognize that in many cases marketing plans get filed away in the closet, until its time to get a business loan it's most effective when it acts as a blue print for all the marketing activities a company undertakes.
