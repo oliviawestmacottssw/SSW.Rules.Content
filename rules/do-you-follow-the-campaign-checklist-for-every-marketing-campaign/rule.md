@@ -12,7 +12,7 @@ authors:
  
 ​​One of the most effective ways of launching an effective marketing campaign is to follow a checklist that includes company tried and tested strategies. This checklist should be filled out with the campaign details and then followed to execute the campaign.​
  
-### ​Pre Campaign Stage​
+### Pre-Campaign Stage
 
 1. Select a name for the campaign
 2. Define the goals of the marketing campaign
@@ -21,7 +21,7 @@ authors:
 5. Identity the 10 industry leaders (people) with large following we will target for promotion
     1. Create emails to send to each as per the rule of
     2. Create social media updates to send to each as per the rule do you contact industry influences to promote your campaigns?
-6. ​Identify companies and website with large followings we will target for promotion (ie Microsoft divisions)
+6. Identify companies and website with large followings we will target for promotion (ie Microsoft divisions)
     1. Create emails to send to each
     2. Create social media updates to send to each
 
@@ -42,17 +42,15 @@ authors:
 10. Schedule the social media updates in Buffer
 11. Promote event in LinkedIn groups and Google+
 12. Pay Per Click
-    1. ​Facebook post promotions
+    1. Facebook post promotions
     2. Google AdWords
     3. LinkedIn ads
 13. Work with SSW developers and account managers to promote the webinar to 3 of their clients or network each via phone call and email.
-14. Have SSW employees promote event over social media twice leading up to the webinar​
+14. Have SSW employees promote event over social media twice leading up to the webinar
 
 
 ### Autoresponders
 
-    1. Add relevant content to an autor​esponder email campaign
+1. Add relevant content to an auto-responder email campaign
 
-
-You can find a template to follow at     [!\[\](/_layouts/15/images/icdocx.png)SSW-Marketing-Campaign-Checklist-TEMPLATE\_v1.docx](/Documents/SSW-Marketing-Campaign-Checklist-TEMPLATE_v1.docx)
-
+ ​​You can find a template to follow at [!\[\](/_layouts/15/images/icdocx.png)SSW-Marketing-Campaign-Checklist-TEMPLATE\_v1.docx](/Documents/SSW-Marketing-Campaign-Checklist-TEMPLATE_v1.docx)
