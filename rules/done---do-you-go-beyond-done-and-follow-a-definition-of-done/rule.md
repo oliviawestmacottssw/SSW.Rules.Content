@@ -22,7 +22,7 @@ Every team is different, but all need to agree on which items are in their "Defi
 
 ## Level 1
 
-- Sending a ["Done" email](/dones-do-you-reply-done-and-delete-the-original-email)​
+- Sending a ["Done" email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=29d5ca5d-c191-475f-8db2-0086c44ca46c)​
 
 
 ## Level 2
@@ -87,6 +87,12 @@ Start with these examples showing typical "Definitions of Done" from beginner te
 - Sending a Done email (with video recording using Jing)
 
 ![Acceptance Tests in MTM](/PublishingImages/AcceptanceTestsInMTM.jpg)Figure: Good example - Acceptance Tests in MTM
+​​​​
+
+ 
+
+​
+Figure: Good example - Done video showing the features worked on
 ## Team - Level 5
 
 - *All of the above, plus*
@@ -120,11 +126,11 @@ Congratulations! You are frequently deploying to production. This is called “C
 
 **More Information:​**
 
-- [Do your user stories include acceptance criteria?](/do-your-user-stories-include-acceptance-criteria-%28aka-never-assume-automatic-gold-plating%29)
+- [Do your user stories include acceptance criteria?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=a4a9c23a-4f68-4922-9605-83628509dc48)
 - [Do you enforce comments with check-ins?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#EnforceComments "Do you enforce comments with check-ins?")
 - [Do you enforce work item association with check-in?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#EnforceWorkItemAss "Do you enforce work item association with check-in?")
 - [Do you follow a Test Driven Process?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterVersionControlwithTFS%28AKASourceControl%29.aspx#TestDrivenProcess "Do you follow a Test Driven Process?")
 - 
-- [Do you have a "Definition of Ready"?](/do-you-have-a-＂definition-of-ready＂)
+- [Do you have a "Definition of Ready"?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=e01abde1-9a3e-4e4c-84a8-50e98e9c44d0)
 
 
