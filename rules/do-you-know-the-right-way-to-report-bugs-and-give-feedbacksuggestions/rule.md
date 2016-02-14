@@ -15,7 +15,7 @@ authors:
 
 
 
-Try to have one email per bu/suggestion, but if the bugs/suggestions are related or very small (e.g. they are all on the same page) then you should group them together in a single email.​
+Try to have one email per bug​/suggestion, but if the bugs/suggestions are related or very small (e.g. they are all on the same page) then you should group them together in a single email.​
  <dl class="badImage"><dt>​​<img src="/SiteAssets/do-you-know-the-right-way-to-report-bugs/do-you-know-the-right-way-to-report-bugs-bad-example.png" alt="do-you-know-the-right-way-to-report-bugs-bad-example.png" style="margin&#58;5px;"><br></dt><dd>Figure&#58; Bad Example - This email isn't going to help the developer much - it is vague and has no screen capture, and gives no alternate way for the developer to contact the user regarding the issue</dd></dl><dl class="goodImage"><dt><img src="/SiteAssets/do-you-know-the-right-way-to-report-bugs/do-you-know-the-right-way-to-report-bugs-good-example.png" alt="do-you-know-the-right-way-to-report-bugs-good-example.png" style="margin&#58;5px;width&#58;738px;"><br></dt><dd>Figure&#58;&#160;Good Example - This email includes the product name and version, the category of the issue (BUG), a screen capture and contact number, and shows that the user's system is up to date​</dd></dl>
 Also make sure your descriptions are detailed and useful as that can make finding the solution quicker and easier.
 
