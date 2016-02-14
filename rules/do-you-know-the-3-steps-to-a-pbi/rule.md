@@ -18,9 +18,10 @@ authors:
 2. Is the PBI ready?
 Check your PBI against your Definition of Ready. “Ready” PBIs must have Acceptance Criteria. A good Definition of Ready also encourages a test first mentality in requirements e.g. Use Spec Flow (Given, When, Then) and/or create Test Cases and Test Steps first.
 3. Break down your PBI into tasks.
-4. Don't forget to make a task for testing! (So that it is visible in the task board).
+4. Don't forget to make a task for testing! (So that it is visible in the task board). Note: You can also [customize the kanban board​](https&#58;//www.visualstudio.com/en-us/get-started/work/work-from-the-kanban-board-vs) by adding a new column for testing, but we recommend adding a testing task to the PBI instead.
 
- ![Testing task.png](/PublishingImages/Testing%20task.png) Figure: Testing Task added to PBI
+ ![KB-customize-board-columns.png](/SiteAssets/do-you-know-the-3-steps-to-a-pbi/KB-customize-board-columns.png)​​​​Figure: Adding a new "Test" state. This is only visible in the product backlog and not the sprint backlog
+![Testing task.png](/PublishingImages/Testing%20task.png) F​igure: Testing Task added to PBI. This is the board the team will use for 90% of the sprint, so testing should be clearly visible here.​
 ### 2. Code
 
 1. Create a branch for your PBI
