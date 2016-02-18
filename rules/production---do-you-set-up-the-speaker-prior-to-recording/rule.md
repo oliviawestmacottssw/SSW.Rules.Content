@@ -62,25 +62,22 @@ The speaker arrives to the venue with a mindset that they are speaking to a room
 
  
 
- 3.    Make sure the speaker has VS 2012 productivity tools installed if they are showing anything in Visual Studio
+ 3.    [Do you enable presentation mode in Visual Studio​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=54bab111-3d18-4190-9452-d7009dc18833).
+
+ 
+
+​
+
+
+ 4.    Tell the speaker to read [Rules to Better PowerPoint Presentations](https&#58;//www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=8&amp;cad=rja&amp;ved=0CHMQFjAH&amp;url=http&#58;//www.ssw.com.au/ssw/standards/Rules/RulesToBetterPowerpointPresentations.aspx&amp;ei=ue-GUdiyNueWiQedlICQBg&amp;usg=AFQjCNGvMOBZ3W-Ri29auNajyEjSPzX9oA&amp;sig2=9Is7_Z_fo0VGQt9r5SZpOg&amp;bvm=bv.45960087%2cd.aGc) ​ .
 
 
  
 
- 4.    Make sure the speaker turns on [presentation mode](https&#58;//ntotten.com/2012/12/13/visual-studio-2012-presentation-mode/)  in Visual Studio.
+ 5.    Assume the speaker will need to play sound through the speakers, even if they say they won't, and set up to allow for it.
 
 
  
 
- 5.    Tell the speaker to read [Rules to Better PowerPoint Presentations](https&#58;//www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=8&amp;cad=rja&amp;ved=0CHMQFjAH&amp;url=http&#58;//www.ssw.com.au/ssw/standards/Rules/RulesToBetterPowerpointPresentations.aspx&amp;ei=ue-GUdiyNueWiQedlICQBg&amp;usg=AFQjCNGvMOBZ3W-Ri29auNajyEjSPzX9oA&amp;sig2=9Is7_Z_fo0VGQt9r5SZpOg&amp;bvm=bv.45960087%2cd.aGc) ​ .
-
-
- 
-
- 6.    Assume the speaker will need to play sound through the speakers, even if they say they won't, and set up to allow for it.
-
-
- 
-
- 7.    Explain to the speaker that you will give them a 5 second countdown when you are about to start streaming them and that they should face forward when this happens, instead of looking sideways at you.
+ 6.    Explain to the speaker that you will give them a 5 second countdown when you are about to start streaming them and that they should face forward when this happens, instead of looking sideways at you.
 
