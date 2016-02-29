@@ -14,11 +14,11 @@ authors:
 ---
 
  
-​​Whenever you are writing code, you should always make sure it conforms to your team's standards. The more pain a developer has when trying to check in, the better, because there will be less left up to testers to find.​
+Whenever you are writing code, you should always make sure it conforms to your team's standards. The more pain a developer has when trying to check in, the better, because there will be less left up to testers to find.
 
 No matter how good a coder you are, you will always miss some of them some of the time, so it's a really good idea to have a tool that automatically scans your code and reports on what you need to change in order to improve it.
 
-Visual Studio has a great Code Analysis tool to help you look for problems in your code. Combine this with Jetbrain's ReSharper and your code will be smell free.​
+Visual Studio has a great Code Analysis tool to help you look for problems in your code. Combine this with Jetbrain's ReSharper and your code will be smell free.
 
 The levels of protection are:
  ![CricketHelmet.jpg](/PublishingImages/CricketHelmet.jpg)Figure: You wouldn't play cricket without protective gear and you shouldn't code without protective tools​
@@ -64,7 +64,7 @@ All of these rules allow you to disable rules that you're not concerned about. 
 
 Create an **\_InstructionsCodeAnalysis.doc **document in your solution with the rules that have been turned off and why.
 
-More Information: [Do you make instructions at the beginning of a project and improve the​m gradually?​​](/do-you-make-instructions-at-the-beginning-of-a-project-and-improve-them-gradually)
+More Information: [Do you make instructions at the beginning of a project and improve the​m gradually?​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d6d34c31-ac6a-49a4-876a-f9d30e1ab78a)
 ![stylecop_removed_rules.png](/PublishingImages/StyleCopRemovedRules.png)Figure: The document \_InstructionsCodeAnalysis.doc shows that there were 3 StyleCop rules disabled.
 
 Suggestion to MS: Allow developers to put a comment against any disabled rule when you turn it off
