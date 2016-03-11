@@ -47,4 +47,5 @@ E.g. At SSW, our employees **"Dress Down" later in the week... so they have "C
 Thursday are casual clothes… on Fridays they encourage​ sport clothes, such as shorts. It allows the end of the week to be fun.
 
 ​![SSW_Dresscode_Poster.png](/PublishingImages/SSW_Dresscode_Poster.png)
-Figure: SSW ​Dress Code​
+Figure: [SSW ​Dress Code​ can be downloaded here](https&#58;//www.dropbox.com/s/0sj1xn7av6sfz6w/SSW_Dresscode_Poster_A3.pdf?dl=0).
+
