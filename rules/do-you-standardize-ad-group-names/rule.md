@@ -12,7 +12,7 @@ authors:
 ---
 
  
-The use of standardised AD Group names is a simple yet crucial step towards building more manageable software. Raining in on the number of AD Groups used by an application will make it simpler to manage and allow new developers to pick up an existing project faster.​
+​The use of standardised AD Group names is a simple yet crucial step towards building more manageable software. Raining in on the number of AD Groups used by an application will make it simpler to manage and allow new developers to pick up an existing project faster.​
  
 **​You can save yourself countless confused conversations by standardising AD Group Names.​**
 
