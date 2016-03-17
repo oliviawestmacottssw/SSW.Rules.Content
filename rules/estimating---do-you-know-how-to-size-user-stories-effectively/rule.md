@@ -34,11 +34,11 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 
 > 1 = XS
 > 2 = S
-> 3 = M
-> 5 = L
-> 8 = XL
-> 13 = ?
-> 21 = XXL
+> 4 = M
+> 8 = L
+> 16 = XL
+> 32 = XXL
+> 64 = XXXL​
 > 
 > **​Please note: **In some teams which only use Small, Medium and Large the following numbering is applyed respectively​ 2, 4 and 8.​​
 
