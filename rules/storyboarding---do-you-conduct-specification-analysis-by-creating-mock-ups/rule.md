@@ -12,7 +12,7 @@ authors:
  ​​​Complex documentation can waste time. Many user requirements can be best encapsulated in screen mock-ups. Spend more time on mockups compared with time on documentation.  
 Storyboarding is a technique taken from movie production.
  ![Movie Storyboard](/PublishingImages/movie-storyboard.jpg) Figure: Movies are expensive to produce, so directors do story boards first and then the product designer, costume designer, lighting people etc. all know what they need to do for each scene
-There are five primary types of mock-ups:
+There are five primary types of mockups:
 
 1. Hand drawn Mockups
 2. Wireframe Mockups
@@ -21,7 +21,7 @@ There are five primary types of mock-ups:
 5. Designer Photoshop Mockups (recommended)
 
 
-Often it's best to start with some hand-drawn ones to get started. Then if you have access to designers, complete a couple of full 'Designer Photoshop Mockups' for look and feel approval, then complete the balance as wireframes.
+Often it's best to start with some hand-drawn ones to get started. Then if you have access to designers, complete a couple of full 'Designer Photoshop Mockups' for "look and feel" approval, then complete the balance as wireframes.
 
 1. ### Hand drawn Mockup
     'Hand drawn Mockups' are recommended to be done with the customer. Since it doesn't deal with any styling/color issues, 'Photoshop Mockups' will be needed after.
@@ -30,25 +30,21 @@ Often it's best to start with some hand-drawn ones to get started. Then if you 
     A layout of how the controls will look is usually all that is needed initially, without worrying about images. [An example of Wireframe Mockup](http&#58;//www.ssw.com.au/projects/ml_elaw/scenarios/index.html)
     **Tip:** The tools to develop a wireframe depend on your skillset and the front end technology chosen. For example use:
 
-    - PowerPoint Storyboard (ubiquitous)  ![](/PublishingImages/PPStoryboard.jpg) Figure: Wireframe storyboard mockup on Microsoft PowerPoint (works with TFS only)
+    - PowerPoint Storyboard (ubiquitous)  ![](/PublishingImages/PPStoryboard.jpg) Figure: Wireframe storyboard mockup on Microsoft PowerPoint (works with TFS only) <br>             ​
 
     Other wireframe tools that can be used:
 
-    - 
     - [Balsamiq](http&#58;//www.balsamiq.com/) **(the most widely used tool recommended for website design)**  ![Wireframe Mockup](/PublishingImages/c24602_WireframeMockup.jpg) Figure: Wireframe storyboard mockup on Balsamiq
-    - 
     - [Adobe XD](http&#58;//www.adobe.com/au/products/experience-design.html) - preloaded with the most popular UI design blocks **(recommended for web & mobile app design) **
 
  ![AdobeXD.jpg](/SiteAssets/storyboarding-do-you-conduct-specification-analysis-by-creating-mock-ups/AdobeXD.jpg) Figure: Adobe XD prototyping
 ​​​​​![AdobeXDMaterialDesign.png](/PublishingImages/AdobeXDMaterialDesign.png)
-Figure:  Adobe XD Google material design UI kit
+Figure:  Adobe XD Google material design UI kit    Others:
 
-Others:
-
-        - [Sketch flow](http&#58;//msdn.microsoft.com/en-us/library/ee341449%28v=expression.40%29.aspx) (required if the frontend will be a Silverlight or a WPF application - read [Do you use Expression Blend + SketchFlow to create mock-ups?](/Pages/UseExpressionBlendSketchflow.aspx) for further information)
-        - [Moqups](https&#58;//moqups.com/) (HTML5 based App)
-        - Photoshop (primarily for designers who already have the skills)
-        - ​​[UXPin](http&#58;//uxpin.com/) (more sophisticated, helps you create responsive designs)
+    - [Sketch flow](http&#58;//msdn.microsoft.com/en-us/library/ee341449%28v=expression.40%29.aspx) (required if the frontend will be a Silverlight or a WPF application - read [Do you use Expression Blend + SketchFlow to create mock-ups?](/Pages/UseExpressionBlendSketchflow.aspx) for further information)
+    - [Moqups](https&#58;//moqups.com/) (HTML5 based App)
+    - Photoshop (primarily for designers who already have the skills)
+    - ​​[UXPin](http&#58;//uxpin.com/) (more sophisticated, helps you create responsive designs)
 3. ### Developer HTML Mockup
     These are mockups done in the front end technology that will be used. Meaning it could be done as a Web/Windows Forms/Access UI with limited functionality:
     [An example of an ugly Developer HTML Mockup](http&#58;//www.ssw.com.au/Projects/AC_Metalcorp/Default.aspx).
@@ -73,21 +69,21 @@ UML is not all bad. UML and other formal documentation methods can be useful for
 
 The overarching problem is it gets out of date, so it gathers dust (aka Technical Debt).
 A better way of getting documentation is to flesh out the classes and use the VS Dependency Graph or NDepend.
-A demo can be see on the 2nd video ["A Modern Architecture Review"](http&#58;//channel9.msdn.com/Events/TechEd/Australia/2012?sort=sequential&amp;direction=desc&amp;term=&amp;s=adam%2Bcogan).
+A demo can be seen on the 2nd video ["A Modern Architecture Review"](http&#58;//channel9.msdn.com/Events/TechEd/Australia/2012?sort=sequential&amp;direction=desc&amp;term=&amp;s=adam%2Bcogan).
  ![](/PublishingImages/23f19c_ndepend.png) Figure: Tools like NDepend can generate diagrams from your source code so there's no "Technical Debt" 
 **Summary**
 Mock-ups and wireframes are far easier to understand. 
 For example, to communicate that “a customer has many phone numbers”, a storyboard/wireframe of how that relationship will appear in the user interface is highly more likely to be understood by the client.
-The clear communication of the message, is more important that the medium used to convey that message.
+The clear communication of the message is more important that the medium used to convey that message.
 
 
 Here are some more hot tips on mock-ups:
 
-- Avoid the thought of a "throw away" prototype. An example of a throw away prototype is when you design screens in Access, but the application will be HTML. So design the screens you and the customer are happy with the technology you will be using, and then use them in the app.
+- Avoid the thought of a "throw-away" prototype. An example of a throwaway prototype is when you design screens in Access, but the application will be HTML. So design the screens you and the customer are happy with the technology you will be using, and then use them in the app.
 - It is best to have a designer and developer and customer working together.
-- Get the mock-ups [physically initialled](/Pages/AskClientsToInitialYourWork.aspx), especially if you are performing a fixed-price contract. Yes paperless is great - but not in this case.
+- Get the mock-ups [physically initialled](/Pages/AskClientsToInitialYourWork.aspx), especially if you are performing a fixed-price contract. Yes, paperless is great - but not in this case.
 - If you can't get mock-ups initialled, then page by page approval over email is the 2nd best option.
-- A tip I picked up from Tom Howe was always add a client's branding into the mockup - it makes a big impression
+- A tip I picked up from Tom Howe was to always add a client's branding into the mockup - it makes a big impression
 - Mock-ups should follow [standard interface rules](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterInterfaces.aspx)
 - Write the related business rules at the bottom of each screen - and turn into unit tests.
 
