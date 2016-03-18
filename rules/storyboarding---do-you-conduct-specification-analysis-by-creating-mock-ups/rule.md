@@ -41,15 +41,15 @@ Often it's best to start with some hand-drawn ones to get started. Then if you 
 
 ![AdobeXD.jpg](/SiteAssets/storyboarding-do-you-conduct-specification-analysis-by-creating-mock-ups/AdobeXD.jpg)Figure: Adobe XD prototyping
 ​​​​​
-
+​<br>         
 Others:​
 
-        - [Sketch​flow](http&#58;//msdn.microsoft.com/en-us/library/ee341449%28v=expression.40%29.aspx) (required if the frontend will be a Silverlight or a WPF application - read [Do you use Expression Blend + SketchFlow to create mock-ups?](/Pages/UseExpressionBlendSketchflow.aspx) for further information)
+        - [Sketch​flow](http&#58;//msdn.microsoft.com/en-us/library/ee341449%28v=expression.40%29.aspx) (required if the frontend will be a Silverlight or a WPF application - read                       [Do you use Expression Blend + SketchFlow to create mock-ups?](/Pages/UseExpressionBlendSketchflow.aspx)​ for further information)
         - [Moqups](https&#58;//moqups.com/) (HTML5 based App)
-        - <br>                  Photoshop (primarily for designers who already have the skills)
+        - Photoshop (primarily for designers who already have the skills)
         - ​​[UXPin](http&#58;//uxpin.com/) (more sophisticated, helps you create responsive designs)
 
-<br>         ​​
+​
 3. ### Developer HTML Mockup
     These are mockups done in the front end technology that will be used. Meaning it could be done as a Web/Windows Forms/Access UI with limited functionality:
     [An example of an ugly Developer HTML Mockup](http&#58;//www.ssw.com.au/Projects/AC_Metalcorp/Default.aspx).
