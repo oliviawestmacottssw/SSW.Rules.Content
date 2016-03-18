@@ -40,8 +40,9 @@ Often it's best to start with some hand-drawn ones to get started. Then if you 
     - [Adobe XD](http&#58;//www.adobe.com/au/products/experience-design.html) - preloaded with the most popular UI design blocks **(recommended)​**
 
 ![AdobeXD.jpg](/SiteAssets/storyboarding-do-you-conduct-specification-analysis-by-creating-mock-ups/AdobeXD.jpg)Figure: Adobe XD prototyping
-​​​​​
-​<br>         
+​​​​​![AdobeXDMaterialDesign.png](/PublishingImages/AdobeXDMaterialDesign.png)
+Figure: ​​​Adobe XD Google ​material design UI kit
+
 Others:​
 
         - [Sketch​flow](http&#58;//msdn.microsoft.com/en-us/library/ee341449%28v=expression.40%29.aspx) (required if the frontend will be a Silverlight or a WPF application - read                       [Do you use Expression Blend + SketchFlow to create mock-ups?](/Pages/UseExpressionBlendSketchflow.aspx)​ for further information)
