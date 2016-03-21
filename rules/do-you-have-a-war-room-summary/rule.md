@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​​The scrum team needs a place to gather for all the scrum ceremonies. This room should have useful information on the wall to help the team work more efficiently. We recommend having the following:
+​​​The scrum team needs a place to gather for all the scrum ceremonies. This room should have useful information on the wall to help the team work more efficiently. We recommend having the following:
 
 - [Task Board](/Pages/Taskboard.aspx) (to show to current work in progress)
 - [The 8 Steps to Scrum PDF](/Documents/8StepstoScrum.pdf) (to show how we work)
