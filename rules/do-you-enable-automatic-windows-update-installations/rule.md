@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Microsoft automatic updates can be dangerous.
+​​Microsoft automatic updates can be dangerous.
 
 Microsoft Update is a service that allows for the periodic patching of system files to address known issues with Microsoft products. Originally called Windows Update, it was specifically focused on Operating System patches for Windows. More recently however, it has been expanded to include all Microsoft products and the name has changed to Microsoft Update, allowing the automated patching of non-OS software such as Internet Explorer and Microsoft Office.
  
