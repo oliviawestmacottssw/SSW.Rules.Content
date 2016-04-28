@@ -6,6 +6,7 @@ index:
 - do-you-know-the-best-time-to-tackle-performance-testing
 - do-you-know-where-your-goal-posts-are
 - do-you-avoid-reviewing-performance-without-metrics
+- do-you-know-the-steps-required-to-implement-a-performance-improvement
 - do-you-know-the-best-way-to-get-metrics-out-of-your-browser
 - do-you-know-where-bottlenecks-can-happen
 - do-you-know-how-to-find-performance-problems-with-application-insights
