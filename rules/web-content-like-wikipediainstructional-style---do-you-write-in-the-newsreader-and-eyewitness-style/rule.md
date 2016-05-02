@@ -11,7 +11,7 @@ authors:
 
 ---
 
- General web content should always be written as if read by a newsreader. It is objective and describes its content professionally. A good example of this is Wikipedia.​​ 
+ ​General web content should always be written as if read by a newsreader. It is objective and describes its content professionally. A good example of this is Wikipedia.​​ 
 I don't like JavaScript. I prefer jQuery because...
 Figure: Bad Example - using 1st person writing makes it sound like opinion
 jQuery is superior to JavaScript for this because...
