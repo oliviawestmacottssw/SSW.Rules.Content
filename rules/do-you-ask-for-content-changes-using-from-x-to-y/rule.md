@@ -35,7 +35,7 @@ On the Code Auditor web page, please change              [http://www.ssw.com.au/
 From:
 
 1. Scan all your projects for coding bugs and errors
-2. Enforce industry best practices
+2. Enforce industry best practices​
 3. Friendly licensing model pay nothing for full version!
 
 
