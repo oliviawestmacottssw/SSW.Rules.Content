@@ -9,7 +9,9 @@ authors:
 
 ---
 
- There are multiple ways to get SharePoint version:
+ You want to be on the latest version of SharePoint.
 
-Check SharePoint DLL versionCheck http://&lt;CentralAdminSite&gt;/\_admin/FarmServers.​aspx​Check ​​http://&lt;AnySiteCollection&gt;/\_vti\_pvt/service.cnf, see [http://www.jeremythake.com/2013/08/get-sharepoint-version-number-of-your-platform-quickly/](http&#58;//www.jeremythake.com/2013/08/get-sharepoint-version-number-of-your-platform-quickly/)​ for details.
+There are multiple ways to get it:​
+
+Check SharePoint DLL versionCheck http://&lt;CentralAdminSite&gt;/\_admin/FarmServers. aspx Check  http://&lt;AnySiteCollection&gt;/\_vti\_pvt/service.cnf, see [http://www.jeremythake.com/2013/08/get-sharepoint-version-number-of-your-platform-quickly/](http&#58;//www.jeremythake.com/2013/08/get-sharepoint-version-number-of-your-platform-quickly/) for details.
  
