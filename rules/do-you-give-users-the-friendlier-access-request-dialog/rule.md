@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Instead of displaying a direct "**Access Denied**" warning info, you can allow end users to send an "**Access Request**".
+ ​Instead of displaying a direct "**Access Denied**" warning info, you can allow end users to send an "**Access Request**".
 ![PermissionRequest.jpg](/PublishingImages/PermissionRequest.jpg)Figure: Joanna is requesting access to SharePoint site
  
 ​The "request manager" will receive an email:
