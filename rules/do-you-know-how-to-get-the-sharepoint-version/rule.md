@@ -11,17 +11,19 @@ authors:
 
  ​You want to be on the latest version of SharePoint.
 
-There are multiple ways to get it:​<br>
+There are multiple ways to get it:​ <br>
 
 Check SharePoint DLL versionCheck http://&lt;CentralAdminSite&gt;/\_admin/FarmServers. aspx
 
-​<br>   Check  http://&lt;AnySiteCollection&gt;/\_vti\_pvt/service.cnf,​ see [http://www.jeremythake.com/2013/08/get-sharepoint-version-number-of-your-platform-quickly/](http&#58;//www.jeremythake.com/2013/08/get-sharepoint-version-number-of-your-platform-quickly/) for details.
+​ <br>   Check  http://&lt;AnySiteCollection&gt;/\_vti\_pvt/service.cnf
+
+See [http://www.jeremythake.com/2013/08/get-sharepoint-version-number-of-your-platform-quickly/​](http&#58;//www.jeremythake.com/2013/08/get-sharepoint-version-number-of-your-platform-quickly/) for details.
+
  
 vti\_encoding:SR|utf8-nl 
 vti\_extenderversion:SR|16.0.0.4327
 
-​​Figure: ​https://intranet.ssw.com.au/​ gives you this
-
+​​Figure: ​On SharePoint 2016, this is what you get for https://intranet.ssw.com.au for example
 
 
 
