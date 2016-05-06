@@ -11,7 +11,7 @@ authors:
 
 ---
 
-  You may need a link in a SharePoint document to help you navigate to a different URL (like shortcut in Windows), there are different ways to implement this.
+ You may need a link in a SharePoint document to help you navigate to a different URL (like shortcut in Windows), there are different ways to implement this.
 
 
 A.  Create a shortcut in windows, then upload the shortcut file (.url) to the document library.B. Use "Link to a document" content type in SharePoint.
@@ -36,4 +36,4 @@ To do this, you need to remove .url file type from your blocked file types in 
 
 You should be able to see the link type document in your library:
 ![LinksTypeDocumentsWithShortcutIcon.png](/PublishingImages/LinksTypeDocumentsWithShortcutIcon.png)Figure: Link type documents with the lovely shortcut icon
-[TO DO TIAGO: ADD IMAGE WITH DOCUMENTS LIBRARY AND LINKS]​
+[TO DO TIAGO: ADD IMAGE OF WINDOWS EXPLORER (4 files in it) AND ANOTHER WITH SHAREPOINT DOCUMENTS LIBRARY​] 
