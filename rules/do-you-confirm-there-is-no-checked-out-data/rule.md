@@ -60,15 +60,11 @@ Figure: Checked Out Documents report link make sure there are no files checked o
 
 
 **B. Custom application report (Includes some coding work)**
-In SSW, to make the chase work easier, we have a custom page to show the "Checked out files" and send the notification email to naughty people:
+To make reminding users easier, this SharePoint Add-in has a custom page to show the "Checked out files". One button will send the notification email to all the naughty people.
 
-![CheckedOutFilesApplicationReport.png](/PublishingImages/CheckedOutFilesApplicationReport.png) 
-
-Figure: "Checked out Files" custom application report
+![CheckedOutFilesApplicationReport.png](/PublishingImages/CheckedOutFilesApplicationReport.png) Figure: One button reminds all users of their "Checked out Files"
 
  
-
-Notification email sample: 
 
 
 **Hi Daragh, **
@@ -101,8 +97,9 @@ Remember, you can check which files you have checked out at any time by going to
 
 &lt;As per rule [http://rules.ssw.com.au/ITAndNetworking/SharePoint/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx) &gt;
 
-William
 
 
 
+​--Powered by SSW.SharePoint.CheckedOutFilesReport​
 
+ Figure: An example of the reminder email that all users receive​
