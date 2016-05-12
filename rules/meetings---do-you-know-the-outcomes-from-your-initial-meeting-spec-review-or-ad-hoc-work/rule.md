@@ -18,6 +18,8 @@ For almost all projects, there is a need for additional requirements gathering. 
  
 It is the responsibility of the Account Manager during the initial meeting to present the benefits of a Specification Review for the client. Following the initial meeting, the Account Manager will send a [brief proposal](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=8dc33f53-e08f-44d7-9304-ca7b3fe89296) in the form of a [Post initial meeting](http&#58;//www.ssw.com.au/ssw/Standards/templates/BriefProposalPostInitialMeeting.docx) email through to the prospective client for a Specification Review.
 
+Note: M​ake sure everyone who was in the meeting from your company checks the email before it's sent.
+
 It may be necessary to conduct a second initial meeting with a technical specialist attending as well.
 
 You may also find that some clients are unable to progress to a Spec Review until they have a vague ballpark. In these cases, the sales person is to make the decision whether an extra 4 hours will be spent investigating the solution before the  ballpark is  given.
