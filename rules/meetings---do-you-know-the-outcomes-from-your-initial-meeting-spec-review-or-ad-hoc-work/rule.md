@@ -22,11 +22,11 @@ Note: M​ake sure everyone who was in the meeting from your company checks the 
 
 It may be necessary to conduct a second initial meeting with a technical specialist attending as well.
 
-You may also find that some clients are unable to progress to a Spec Review until they have a vague ballpark. In these cases, the sales person is to make the decision whether an extra 4 hours will be spent investigating the solution before the  ballpark is  given.
+You may also find that some clients are unable to progress to a Spec Review until they have a vague ballpark. In these cases, the sales person is to make the decision whether an extra 4 hours will be spent investigating the solution before the  ballpark is  given. This should then be sent as part of that "Post initial meeting" email mentioned above, with Spec review info swapped out for ballpark estimate info as required.
 
 A sales person has 16 hours per month of developer time they can invest into this pre-sales investigation, so this time has to be used wisely.
 
-Never offer a fixed price at the conclusion of an Initial Meeting, and this engagement model must be chosen before the Specification Review is done.
+Never offer a fixed price at the conclusion of an Initial Meeting, and this engagement model must be chosen before the Specification Review is done.​
 
 More on the [Specification Review](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=8d7b1fab-5923-4e07-8da2-ba906053c056).
  ![Send a brief proposal](/PublishingImages/Brief-Proposal-MrNorthwind.jpg)  Figure: Send a [brief proposal](http&#58;//www.ssw.com.au/ssw/Standards/templates/BriefProposal.doc)
