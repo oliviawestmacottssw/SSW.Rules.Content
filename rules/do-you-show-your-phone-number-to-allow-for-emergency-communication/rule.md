@@ -13,17 +13,9 @@ authors:
 
 ---
 
- Don’t make being overseas a barrier. Often the most effective methods of communication for a project is to talk directly to clients on the phone. It is better to provide a local phone number to the clients to ensure peace of mind and keep their costs down. Not many clients will call an international number.
-
-It is better to provide a local phone number to the clients, to encourage them to call.
-
-
  
-​The standard procedure of dealing with SkypeIn calls​:
+Email is great. But in an emergency you need to pick up the phone. Often the most effective methods of communication for a project is to talk directly to colleagues and clients on the phone.
 
-1. If your Skype is online, it will ring your computer. (just like normal)
-2. If your Skype is offline, it will redirect the call to your mobile / local phone.
-
-
-So get ​<br>      [a Skype online number](http&#58;//www.skype.com/allfeatures/onlinenumber/) and make sure that your main contact in a remote office is always contactable.
+ ![skype-bad.png](/PublishingImages/skype-bad.png) Figure: Bad example - can't call a phone number![skype-good.png](/PublishingImages/skype-good.png) Figure: Good example - Able to call phone numbers
+**Remote offices tip: **Don’t make being overseas a barrier. Of course,​ it is always best to provide a local number as that gives clients peace of mind and keep their costs down. Not many clients will call an international number and there are lots of options [http://www.skype.com/en/features/](http&#58;//www.skype.com/en/features/) . The next best alternative is to at least show your overseas phone number.
 
