@@ -14,56 +14,52 @@ authors:
 ---
 
  
-Pages in SharePoint are easily checked out, and the changes not checked-in will not be migrated when you do migration for SharePoint data.
 
-In SSW, we have two ways to check the "checked out files" regularly:
 
-- **A. Manage Content and Structure Report (No Code)**
-- **B. Custom application report (Includes some coding work)**
+One of the annoying things with SharePoint document libraries is that users often accidentally leave checked out files, that preventing others from modifying them.​
 
-  ​ 
-**A. Manage Content and Structure Report (No Code)**
+Suggestion to Microsoft: send an email to the user to remind them they have outstanding checkouts potentially blocking other users.
+![sp-docs.jpg](/PublishingImages/sp-docs.jpg)Figure: Here Eric Phan has not checked in a file 
+
+
+**Upgrade warning:** The pages that are not checked-in, will not be migrated on a SharePoint upgrade. There is \*no\* warning either.​
+
+There are 2 ways to remind users of their "checked out files":​
+
+- **Solution A: Manage Content and Structure Report (No Code)​**
+- **Solution B: Custom application report (Includes some coding work)​
+Eg. SSW.SharePoint.CheckedOutFilesReport​
+**
+
+   ​  
+**Solution A. Manage Content and Structure Report (No Code)**
 
 1. Create CAML query in site content and structure
 
 Go to "Site Settings | Manage Content and Structure | Content and Structure Reports", click "New":
-
-![ContentAndStructureReportsNew.png](/PublishingImages/ContentAndStructureReportsNew.png) 
-Figure: Create a new report 
-Fill the "CAML Query": 
+ ![ContentAndStructureReportsNew.png](/PublishingImages/ContentAndStructureReportsNew.png) Figure: Create a new report
+Fill the "CAML Query":
 &lt;Where&gt;&lt;IsNotNull&gt;&lt;FieldRef Name="CheckoutUser" LookupId="TRUE"/&gt;&lt;/IsNotNull&gt;&lt;/Where&gt;
 
- 
-
-
 Fill the other fields like below:
-
-![NewReportForm.png](/PublishingImages/NewReportForm.png) 
-
-Figure: Fill in form
-
-
-
+ ![NewReportForm.png](/PublishingImages/NewReportForm.png) Figure: Fill in form
 2. Run Checked Out report
 
  
 
 Run the checkout report from "Site Settings | Manage Content and Structure | View: Checked out documents":
-
-![CheckedOutDocuments.png](/PublishingImages/CheckedOutDocuments.png)
-
-Figure: Checked Out Documents report link make sure there are no files checked out, otherwise, go step 3. 
-
+ ![CheckedOutDocuments.png](/PublishingImages/CheckedOutDocuments.png) Figure: Checked Out Documents report link Make sure there are no files checked out, otherwise, go step 3
 3. Go chase after the users.
+​ <br>   
+**Solution B. Custom application report (Includes some coding work)
+**
 
 
+ **TODO: **Move this tool to GitHub, find a better name than "SSW.SharePoint.CheckedOutFilesReport".   Also change from a farm solution to a solution that can be used on Office365 - now in SharePoint 2016 and SharePoint online called "Sharepoint Add-ins" 
 
-
-**B. Custom application report (Includes some coding work)**
+ 
 To make reminding users easier, this SharePoint Add-in has a custom page to show the "Checked out files". One button will send the notification email to all the naughty people.
-
-![CheckedOutFilesApplicationReport.png](/PublishingImages/CheckedOutFilesApplicationReport.png) Figure: One button reminds all users of their "Checked out Files"
-
+ ![CheckedOutFilesApplicationReport.png](/PublishingImages/CheckedOutFilesApplicationReport.png)Figure: One button reminds all users of their "Checked out Files"
  
 
 
@@ -71,10 +67,10 @@ To make reminding users easier, this SharePoint Add-in has a custom page to s
 
  
 
-You have some pages checked out in SharePoint. 
+You have some pages checked out in SharePoint.
 
 
-> 1. Revise our SSW rule [on Frequent SharePoint Check-ins](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx).
+> 1. Revise our SSW rule <br>            [on Frequent SharePoint Check-ins](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx).
 > 2. If you are no longer editing these files, check them in!
 
 
@@ -84,11 +80,11 @@ You have some pages checked out in SharePoint.
 
 
 
-You currently have the following pages checked out: 
+You currently have the following pages checked out:
 
 
-> • [http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/Default.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
-> • [http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
+> • <br>            [http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/Default.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
+> • <br>            [http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
 
 
 
@@ -100,6 +96,7 @@ Remember, you can check which files you have checked out at any time by going to
 
 
 
-​--Powered by SSW.SharePoint.CheckedOutFilesReport​
+​--Powered by SSW.SharePoint.CheckedOutFilesReport
 
- Figure: An example of the reminder email that all users receive​
+ Figure: An example of the reminder email that all users receive 
+
