@@ -28,15 +28,15 @@ Every team is different, but all need to agree on which items are in their "Defi
 ## Level 2
 
 - Sending a "Done" email
-- screenshots
-- code
+- Screenshots
+- Code
 
 
 ## Level 3
 
 - Sending a "Done" email
-- video
-- code (showing a full scenario e.g. a user story)​
+- Recording a quick and dirty ​Done [Video](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=215be2dd-4a90-4f0f-a5fa-dbed2edca461)
+- Code (showing a full scenario e.g. a user story)​
 
 
 #### Example of a level 3 "done"
