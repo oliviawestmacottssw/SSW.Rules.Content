@@ -22,7 +22,7 @@ Every team is different, but all need to agree on which items are in their "Defi
 
 ## Level 1
 
-- Sending a ["Done" email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=29d5ca5d-c191-475f-8db2-0086c44ca46c)​
+- Sending a <br>      ["Done" email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=29d5ca5d-c191-475f-8db2-0086c44ca46c)​
 
 
 ## Level 2
@@ -32,10 +32,10 @@ Every team is different, but all need to agree on which items are in their "Defi
 - Code
 
 
-## Level 3
+## Level 3​
 
 - Sending a "Done" email
-- Recording a quick and dirty ​Done [Video](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=215be2dd-4a90-4f0f-a5fa-dbed2edca461)
+- Recording a quick and dirty ​"[Done Video](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=215be2dd-4a90-4f0f-a5fa-dbed2edca461)"
 - Code (showing a full scenario e.g. a user story)​
 
 
@@ -121,7 +121,7 @@ Figure: Good example - Done video showing the features worked on
 Congratulations! You are frequently deploying to production. This is called “Continuous Delivery” and allows you to gather quick feedback from your end users.
  
 
-*You might have everything deployed to production, but it might not yet be visible to the end user. This can be achieved by having “*[*Feature toggles*](http&#58;//martinfowler.com/bliki/FeatureToggle.html) *” in place. The actual release of the functionality is a decision that the Product Owner and business takes.*
+*You might have everything deployed to production, but it might not yet be visible to the end user. This can be achieved by having “*[*Feature toggles*](http&#58;//martinfowler.com/bliki/FeatureToggle.html)*” in place. The actual release of the functionality is a decision that the Product Owner and business takes.*
 
 
 **More Information:​**
