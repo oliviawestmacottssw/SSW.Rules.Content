@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Depends on your SharePoint farm environments, you may need to upgrade some ​service applications database to SharePoint 2013.
+ Depends on your SharePoint farm environments, you may need to upgrade some ​service applications databases.
 
  
 ​In our case, we have upgraded the below several service application databases:
@@ -24,11 +24,11 @@ authors:
 
 Steps:
 
-1. Backup databases of SharePoint 2010/2013 Service Application.
+1. Backup databases of SharePoint 2010 or 2013 Service Application.
 
-2. Restore and attach databases to SharePoint 2013/2016 SQL server.
+2. Restore and attach databases to SharePoint 2013 or 2016 SQL server.
 
-3. Create service application in SharePoint 2013/2016​ Central Admin site with the restored database.
+3. Create service application in SharePoint 2013 or 2016​ Central Admin site with the restored database.
 
 4. Test.
 
