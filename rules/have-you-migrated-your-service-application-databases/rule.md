@@ -24,11 +24,11 @@ authors:
 
 Steps:
 
-1. Backup databases of SharePoint 2010 Service Application.
+1. Backup databases of SharePoint 2010/2013 Service Application.
 
-2. Restore and attach databases to SharePoint 2013 SQL server.
+2. Restore and attach databases to SharePoint 2013/2016 SQL server.
 
-3. Create service application in SharePoint 2013 Central Admin site with the restored database.
+3. Create service application in SharePoint 2013/2016​ Central Admin site with the restored database.
 
 4. Test.
 
