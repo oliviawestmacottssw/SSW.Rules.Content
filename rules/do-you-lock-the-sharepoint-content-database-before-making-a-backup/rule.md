@@ -19,12 +19,11 @@ authors:
 Option 1 (**Recommended**): ​​
 
 1.  Open **SharePoint Central Administration** site, navigate to "**Application Management**" | "**Site Collections**" | "**Configure quotas and locks**".
-![quotas-and-locks.jpg](/PublishingImages/quotas-and-locks.jpg) 
+![quotas-and-locks.jpg](/PublishingImages/quotas-and-locks.jpg)
 2. Select the "site collection" which you would like to lock.
 
 ​3. Choose "Read-only (blocks additions, updates, and deletions)", then click "OK".
-![read-only-status.jpg](/PublishingImages/read-only-status.jpg) **Note**: Read more at [Manage the lock status for site collections in SharePoint 2013](https&#58;//technet.microsoft.com/en-us/library/cc263238%28v=office.15%29.aspx?f=255&amp;MSPPError=-2147217396) <br>   ​
- 
+![read-only-status.jpg](/PublishingImages/read-only-status.jpg)Note: Read more at [Manage the lock status for site collections in SharePoint 2013](https&#58;//technet.microsoft.com/en-us/library/cc263238%28v=office.15%29.aspx?f=255&amp;MSPPError=-2147217396)<br>​​
 Option 2 (**not recommended**):
 
 1.    On your database server open     **SQL Server Management Studio**
