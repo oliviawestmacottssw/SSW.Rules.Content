@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- Use a price comparison website to choose the hotel you'd like to book, but don't book directly ​​​through that site right away. Always call the hotel first to see if they can give you a better price. [This article explains how this can save you hundreds​](http&#58;//roadwarriorvoices.com/2015/06/03/why-you-should-book-your-stay-directly-with-the-hotel/). 
+ ​Use a price comparison website to choose the hotel you'd like to book, but don't book directly ​​​through that site right away. Always call the hotel first to see if they can give you a better price. [This article explains how this can save you hundreds​](http&#58;//roadwarriorvoices.com/2015/06/03/why-you-should-book-your-stay-directly-with-the-hotel/). 
 
 
 
