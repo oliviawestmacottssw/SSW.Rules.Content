@@ -19,3 +19,13 @@ Improper spelling, grammar and punctuation gives a bad impression of your compan
 
 Please read the related rule here -  [Do you use Microsoft Word's spelling and grammar checker to make your web content professional?](/Pages/UseSpellingAndGrammarChecker.aspx)
 
+Here is a helpful video on the subject:
+
+
+
+
+
+
+
+​​
+
