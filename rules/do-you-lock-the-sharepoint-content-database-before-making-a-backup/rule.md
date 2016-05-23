@@ -13,10 +13,8 @@ authors:
 
 ---
 
- Even though you have advised staff members a migration is taking place – you can guarantee someone will try to check-in or edit documents. The best way to prevent this is to put your content database into read-only mode.  
-Even though you have advised staff members a migration is taking place – you can guarantee someone will try to check-in or edit documents. The best way to prevent this is to lock the content database.
-
-There are two options to lock the content database.
+ Even though you have advised staff members a migration is taking place – you can guarantee someone will try to check-in or edit documents. The best way to prevent this is to put your content database into read-only mode, locking the content database. 
+​There are two options to lock the content database.
 
 Option 1 (**Recommended**): ​​
 
