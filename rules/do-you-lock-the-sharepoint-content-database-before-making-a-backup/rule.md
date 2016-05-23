@@ -13,7 +13,7 @@ authors:
 
 ---
 
- Even though you have advised staff members a migration is taking place – you can guarantee someone will try to check-in or edit documents. The best way to prevent this is to put your content database into read only mode.  
+ Even though you have advised staff members a migration is taking place – you can guarantee someone will try to check-in or edit documents. The best way to prevent this is to put your content database into read-only mode.  
 Even though you have advised staff members a migration is taking place – you can guarantee someone will try to check-in or edit documents. The best way to prevent this is to lock the content database.
 
 There are two options to lock the content database.
@@ -21,12 +21,12 @@ There are two options to lock the content database.
 Option 1 (**Recommended**): ​​
 
 1.  Open **SharePoint Central Administration** site, navigate to "**Application Management**" | "**Site Collections**" | "**Configure quotas and locks**".
-![quotas-and-locks.jpg](/PublishingImages/quotas-and-locks.jpg)
+![quotas-and-locks.jpg](/PublishingImages/quotas-and-locks.jpg) 
 2. Select the "site collection" which you would like to lock.
 
-3. Choose "Read-only (blocks additions, updates, and deletions)", then click "OK".
-![read-only-status.jpg](/PublishingImages/read-only-status.jpg)**Note**: Read more at [Manage the lock status for site collections in SharePoint 2013](https&#58;//technet.microsoft.com/en-us/library/cc263238%28v=office.15%29.aspx?f=255&amp;MSPPError=-2147217396)
-
+​3. Choose "Read-only (blocks additions, updates, and deletions)", then click "OK".
+![read-only-status.jpg](/PublishingImages/read-only-status.jpg) **Note**: Read more at [Manage the lock status for site collections in SharePoint 2013](https&#58;//technet.microsoft.com/en-us/library/cc263238%28v=office.15%29.aspx?f=255&amp;MSPPError=-2147217396) <br>   ​
+ 
 Option 2 (**not recommended**):
 
 1.    On your database server open     **SQL Server Management Studio**
