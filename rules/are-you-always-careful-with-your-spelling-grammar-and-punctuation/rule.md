@@ -12,7 +12,7 @@ authors:
 ---
 
 
-​​​​​​​​Improper spelling, grammar and punctuation gives a bad impression of your company, and can result in your message not being conveyed correctly. Emails with no full stops or commas are difficult to read and can sometimes even change the meaning of the text. And, if your program has a spelling checking option, why not use it?
+​​​​​​​​​​​Improper spelling, grammar and punctuation gives a bad impression of your company, and can result in your message not being conveyed correctly. Emails with no full stops or commas are difficult to read and can sometimes even change the meaning of the text. And, if your program has a spelling checking option, why not use it?
 
 **Warning: The 'Subject'**
  However, be careful because a lot of clients' spell checkers (including Outlook’s) does not check the subject field, so this should be carefully checked by a more manual process.  This is most important because spelling mistakes in the subject are much more noticeable than the body and give a bad first impression.
