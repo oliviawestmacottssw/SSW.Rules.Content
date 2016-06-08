@@ -8,7 +8,7 @@ authors: []
 ---
 
  
-Question: What is wrong with this Picture?
+​Question: What is wrong with this Picture?
 ![Modal Form in Taskbar](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ShowInTaskBar.jpg)Figure: Can you tell what is wrong with this Picture?   ​
 Answer: The 2 SSW SQL Auditor windows are bad, because one is just a modal form.
 
@@ -19,7 +19,7 @@ Note: We don't check for this in Code Auditor because making a form display as p
 Dim frm as new frmCustomer frm.ShowDialog
 ```
 
-Figure: Bad Code
+ Figure: Bad Code
 If your form is designed to be used modally (and thus be called using ShowDialog) then ShowInTaskbar should be set to false in the form designer.
 
 
@@ -27,10 +27,10 @@ If your form is designed to be used modally (and thus be called using ShowDialog
 Dim frm as new frmCustomer frm.ShowInTaskBar = False frm.ShowDialog
 ```
 
-Figure: Bad Code (because this should be set in the form designer)
+ Figure: Bad Code (because this should be set in the form designer) 
 
 ```
 Dim frm as new frmCustomer frm.ShowDialog
 ```
 
-Figure: Good Code (ShowInTaskbar is set in the form's InitializeComponents method instead)
+ Figure: Good Code (ShowInTaskbar is set in the form's InitializeComponents method instead)
