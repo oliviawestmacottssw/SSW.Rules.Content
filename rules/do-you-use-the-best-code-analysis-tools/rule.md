@@ -50,7 +50,7 @@ Is to use StyleCop to check that your code has consistent style and formatting.
 ![stylecop.png](/PublishingImages/StyleCopInVS2010.png) Figure: StyleCop shows a lot of warnings in this test project
 ### Level 5
 
-Run Code Analysis (was FxCop) with the default settings
+Run Code Analysis (was FxCop) with the default settings or ReSharper with Code Analysis turned on​​​​
 ![runcodeanalysisvs11.png](/PublishingImages/CodeAnalysisVS11.png)Figure: Run Code Analysis in VS2015![Code Analysis](/PublishingImages/codeanalysis.png)Figure: The Code Analysis results indicate there are 17 items that need fixing
 ### Level 6
 
@@ -68,5 +68,19 @@ More Information: [Do you make instructions at the beginning of a project and i
 ![stylecop_removed_rules.png](/PublishingImages/StyleCopRemovedRules.png)Figure: The document \_InstructionsCodeAnalysis.doc shows that there were 3 StyleCop rules disabled.
 
 Suggestion to MS: Allow developers to put a comment against any disabled rule when you turn it off
- TODO - Damian: Add image
-  ​  
+ 
+ ​
+### Level 8​
+
+The gold standard is to use [SonarQube](http&#58;//www.sonarqube.org/), which gives you the code analysis that the previous levels give you as wells as the ability to analyse techincal debt and to see which code changes had the most impact to technical debt
+
+
+
+
+![2016-06-08_12-59-38.png](/SiteAssets/do-you-use-the-best-code-analysis-tools/2016-06-08_12-59-38.png)
+
+​​Figure: ​​​SonarQube workflow with Visual Studio and TFS
+
+![2016-06-08_12-59-53.png](/SiteAssets/do-you-use-the-best-code-analysis-tools/2016-06-08_12-59-53.png)
+​Figure: SonarQube gives you the changes in code analysis results between each checkin
+
