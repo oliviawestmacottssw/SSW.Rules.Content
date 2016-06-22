@@ -19,7 +19,7 @@ authors:
 **Note: **Step 2 & 3 are not needed anymore after we moved all rule pages from 100+ subwebs into one "Pages" library in root web.
 4. Click on “Add a page” <br>      <dl class="image"><dt>
             <img alt="Create Rule" src="/PublishingImages/create-rule1.jpg">
-         </dt><dt></dt></dl>**Note:** Each rule will be a “page” on SharePoint – with its own URL - differently from old aspx, where rules where sections on a single page.
+         </dt><dt></dt></dl>**Note:** Each rule will be a “page” on SharePoint – with its own URL - differently from old aspx, where rules were sections on a single page.
 5. Add the URL <br>      <dl class="image"><dt> 
             <img alt="Create Rule" src="/PublishingImages/create-rule2.jpg" style="margin&#58;5px;"> 
          </dt></dl>    **Note:** We use only the most important words of a rule title. The words in **purple** are typically not used.
@@ -58,7 +58,7 @@ Note: Friendly URL should be automatically generated like:
                      </dt></dl>
         6. Now fix up the images – This part is a bit painful
             - Firstly you will need to save all the images to your local drive
-            - We don’t use the "Insert &gt; Picture" on the ribbon because it doesn’t generate the HTML code we use as default as per [Do you use the righ t HTML/CSS code to add the useful figure/caption?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterWebsiteslayout.aspx#AddFigureWithRightCode)
+            - We don’t use the "Insert &gt; Picture" on the ribbon because it doesn’t generate the HTML code we use as default as per [Do you use the right HTML/CSS code to add the useful figure/caption?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterWebsiteslayout.aspx#AddFigureWithRightCode)
             - Instead, upload them to the Images folder - http://rules.ssw.com.au/PublishingImages/
                 - Go to “Site Contents” <br>                              <dl class="image"><dt> 
                                     <img alt="Create Rule" src="/PublishingImages/create-rule9.jpg" style="margin&#58;5px;"> 
@@ -75,7 +75,7 @@ Note: Friendly URL should be automatically generated like:
                 - On the screen above you can see the path for each image. Copy it so you can paste into the HTML.
 E.g. &lt;img src=”http://rules.ssw.com.au/Communication/RulesToBetterBlogging/PublishingImages/RulesBloggingAcknowledgeBad.jpg"&gt;
         7. Double check the links – you might have got a relative link E.g. **&lt;a href=”../company/Offices.aspx”&gt; **which will not work because it’s now on a different site.
-So you will need to make it absolute E.g. **&lt;a href=”**[**http://www.ssw.com.au/ssw/company/Offices.aspx**](http&#58;//www.ssw.com.au/ssw/)**”&gt;**
+So you will nee​d to make it absolute E.g. **&lt;a href=”**[**http://www.ssw.com.au/ssw/company/Offices.aspx**](http&#58;//www.ssw.com.au/ssw/)**”&gt;**
 9. Add the rule intro <br>          Try to have a catch at the end so the user will want to read the rest of the rule. E.g. “ To reply to a bug effectively and efficiently in your emails, you need to include:”
 <dl class="image"><dt> 
             <img alt="Create Rule" src="/PublishingImages/create-rule13.jpg" style="margin&#58;5px;width&#58;650px;"> 
