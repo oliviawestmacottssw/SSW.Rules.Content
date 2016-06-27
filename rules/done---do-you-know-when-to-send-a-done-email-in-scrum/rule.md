@@ -12,7 +12,7 @@ authors:
 ---
 
 
-​Most devs don't send 'Done' emails. Do you really expect Product Owners to always be checking TFS?
+​​Most devs don't send 'Done' emails. Do you really expect Product Owners to always be checking TFS?
 
  The better approach is:
      - If task/bug came from a client, when it is completed, send the 'Done' email to Product Owner.
