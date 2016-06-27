@@ -14,13 +14,11 @@ authors:
 ---
 
 
-
-
 Bugs that are introduced and found because of the current work in the Sprint are included in the Sprint and estimated immediately so the burndown remains accurate. All other bugs found independent of the work on the current sprint are placed on the Product Backlog.​
 
 See [Do you know when to create bugs?](/Pages/CreateBugs.aspx) for detailed information on identifying when something is a bug, and when to just fix it.
  
-## Using the Agile process template
+### Using the Agile p​​​rocess template
 
 In the Agile template, you can't assign Story Points to bugs, meaning that they will negatively impact on sprint velocity.
 
@@ -39,7 +37,7 @@ This process:
 
 
 
-## Using the Scrum process template
+### Using the Scrum​​ process template
 
 In the Visual Studio Scrum template, bugs are just another PBI and you can assign a business priority and an effort estimate in Story Points. Bugs that make the cut for the next sprint can be broken down into tasks and estimated as required.
 
