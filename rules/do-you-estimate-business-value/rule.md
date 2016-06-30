@@ -10,15 +10,14 @@ authors:
 ---
 
  
-​​​
+​​​​​​
 
 
 
 
 
 
-​​​​​​ ​<br>
-
+​​​​​​<br><br>
 ​​OK you say you do Scrum, but do you use the "Business Value" field?
 
 ​​That's OK, most teams don't... but it is a terrible shame, because developers go to the trouble of estimating 'Effort' and if you have Effort, all you need is Business Value and you can calculate ROI.
@@ -29,7 +28,7 @@ Once you have ROI a Product Owner can use the ROI field to sort priority. Awesom
 ROI (Return on Investment) is an unbelievably simply calculation.
 ![Business Value field](/PublishingImages/business-value-field.jpg)Figure:​ Product Owners should be estimating the Business Value
 
-ROI = Business Value / Effort​
+ ROI = Business Value / Effort​ 
 
 ...of course there are other factors to consider.
 
@@ -41,7 +40,8 @@ E.g. Risk, Dependencies etc and you could make the formula more complicated....
 
 The product backlog is just a list of items with rough estimates of both development 'Effort' and 'Business Value'. You will find that ROI will tell you great stuff. It is especially useful for finding the easy high value items to kick off a sprint.
 
-## Product Owners are too busy for this
+### Product Owners are too busy for this​
+
 
 If it is good enough for developers to estimate story points... then it is good enough for the Business to estimate Business Value. Usually devs will use the Fibonacci sequence, but since it is a good idea that the business guys use the same scale, it is best to switch to the doubling method of estimating -     [Do you know how to size user stories effectively?](/Pages/Do-You-Know-How-To-Size-Stories-Effectively.aspx)​
 
