@@ -13,7 +13,8 @@ authors:
 
 ---
 
- ​​​​The Scrum Master (not ScrumMaster), must schedule the Sprint Review, Retrospective and Planning meetings. 
+ ​​​​​The Scrum Master (not ScrumMaster), must schedule the Sprint Review, Retrospective and Planning meetings.
+ 
 Estimate how much time each meeting will require, then schedule a single calendar appointment to cater for the three meetings. When scheduling the calendar appointment, keep in mind the following:
 
 - Ideally, each of the three meetings should be time boxed to an hour for every week of their associated Sprint.
@@ -24,13 +25,13 @@ Estimate how much time each meeting will require, then schedule a single calen
 - These meetings do not necessarily have to be held on a Friday or Monday. You can have a Sprint start and end on any day of the week.​
 
 
-​​​​​​​​​Tip: It can be helpful to finish the Sprint Review with the first D​aily Scrum​
+**Tip: **It can be helpful to finish the Sprint Review with the first D​aily Scrum​
 
-Schedule the meeting and invite the Scrum Team and any interested stakeholders.​
+Schedule the meeting and invite the Scrum Team and any interested stakeholders.
 
 
 
-**Required Attendees: **[Scrum Team] 
+**Required Attendees: **[Scrum Team]           
 **Optional Attendees:** [Interested Stakeholders]
 **Subject: **[Project Name] – Sprint Review, Retro and Planning Meetings
 
@@ -42,16 +43,17 @@ This is a calendar appointment to hold the following three Scrum meetings:
 
 **Sprint Review Meeting**
 We will go through the user stories that have been completed and demonstrate them.
-See rule [Do you know what happens at a Sprint Review Meeting?](/Pages/SprintReviewMeeting.aspx)
+See rule [What happens at a Sprint Review Meeting?](/Pages/SprintReviewMeeting.aspx)
 
 **Sprint Retrospective Meeting**
 Sprint closed and new sprint starts.
 We ask for feedback of the previous sprint so that we can ‘Inspect and Adapt’.
-See rule [Do you know what happens at a Sprint Retrospective Meeting?](/Pages/RetrospectiveMeeting.aspx)
+See rule [What happens at a Sprint Retrospective Meeting?](/Pages/RetrospectiveMeeting.aspx)​
 
 **Sprint Planning Meeting**
-We go through the backlog (aka to do list), get more information, estimate and then prioritize. We then breakdown to tasks and commit to what we believe we can deliver for the next sprint.
-See the rule [Do you know what happens at a Sprint Planning Meeting?](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
+We go through the backlog (aka to do list), get more information, estimate and then prioritize. 
+We then breakdown to tasks and commit to what we believe we can deliver for the next sprint.
+See the rule [What happens at a Sprint Planning Meeting?](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
 
 ​​
 
