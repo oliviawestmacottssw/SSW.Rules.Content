@@ -11,9 +11,7 @@ authors:
 
 ---
 
- ​​​
-Watch Adam Cogan explaining why you should use "Open with Explorer" over OneDrive (formerly called SkyDrive):
-
+ ​​​​​Watch Adam Cogan explaining why you should use "Open with Explorer" over OneDrive (formerly called SkyDrive):
  
 
 ​
