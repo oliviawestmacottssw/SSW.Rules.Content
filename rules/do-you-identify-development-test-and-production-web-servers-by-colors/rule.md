@@ -13,6 +13,8 @@ authors:
 
 
 ​As per rule ["Do you have separate development, testing and production environment?"](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ae2ccef9-6cdc-4767-8e5a-e0e3dbf46fe2), it's better to use different background colors to identify Development, Test and Production servers.
+![crm staging.png](/PublishingImages/crm%20staging.png)** Figure: Staging uses blue background**![crm production.png](/PublishingImages/crm%20production.png)**Figure: Production uses red background **
+
 
 The way to change the default background color is to edit the CRM css files. These changes aren't supported and may be overwritten when CRM Rollups are applied.
 
@@ -76,5 +78,7 @@ body.stage
 ```
 
           Figure: In C:\Inetpub\wwwroot\\_common\styles\global.css.aspx comment out and change          the reference in yellow so the users know what server they are on![Color of CRM Development Server](/PublishingImages/CRM_DevelopmentColor.jpg)            Figure: Color of CRM Development Server - Red![Color of CRM Test Server](/PublishingImages/CRM_TestColor.jpg)            Figure: Color of CRM Test Server - Yellow![Color of CRM Test Server](/PublishingImages/CRM_ProductionColor.jpg)            Figure: Color of CRM Production Server - Default
+
+
 
 
