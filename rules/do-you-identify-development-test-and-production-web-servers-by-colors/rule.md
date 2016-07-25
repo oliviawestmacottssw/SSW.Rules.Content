@@ -12,18 +12,18 @@ authors:
 ---
 
 
-As per rule ["Do you have separate development, testing and production environment?"](/do-you-have-separate-development-testing-and-production-environments), it's better to use different background colors to identify Development, Test and Production servers.
+​As per rule ["Do you have separate development, testing and production environment?"](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ae2ccef9-6cdc-4767-8e5a-e0e3dbf46fe2), it's better to use different background colors to identify Development, Test and Production servers.
 
 The way to change the default background color is to edit the CRM css files. These changes aren't supported and may be overwritten when CRM Rollups are applied.
 
-### CRM 2015 (Update 1)
+### CRM 2015 and CRM 2016
+
 
 Using theme feature to change the environment color.
 
 ![CRM2015Theme.JPG](/PublishingImages/CRM2015Theme.JPG)
-
-​Figure: Changing CRM UI by using theme
-
+  
+​  Figure: Changing CRM 2016 UI by using theme feature
 ### CRM 2013
 
 Edit: **&lt;CrmWebsiteRoot&gt;****\\_controls\navbar\navbar.css**
