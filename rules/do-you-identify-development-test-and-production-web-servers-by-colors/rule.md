@@ -13,7 +13,7 @@ authors:
 
 
 ​As per rule ["Do you have separate development, testing and production environment?"](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ae2ccef9-6cdc-4767-8e5a-e0e3dbf46fe2), it's better to use different background colors to identify Development, Test and Production servers.
-![crm staging.png](/PublishingImages/crm%20staging.png)** Figure: Staging uses blue background**![crm production.png](/PublishingImages/crm%20production.png)**Figure: Production uses red background **
+![crm staging.png](/PublishingImages/crm%20staging.png)**    Figure: Staging uses blue background**![crm production.png](/PublishingImages/crm%20production.png)**Figure: Production uses red background **
 
 
 The way to change the default background color is to edit the CRM css files. These changes aren't supported and may be overwritten when CRM Rollups are applied.
@@ -42,6 +42,7 @@ position: relative;
  Figure: Edit the background color to reflect the environment
 ![crm2013_greenbar.jpg](/PublishingImages/crm2013_greenbar.jpg)
  Figure: CRM 2013 with a green navigation bar        
+
 ### CRM 2011 
 
 Edit **&lt;CrmWebsiteRoot&gt;\\_static\css\1033\cui.css**, locate and modify the section ms-cui-tabBody so that it reads:
