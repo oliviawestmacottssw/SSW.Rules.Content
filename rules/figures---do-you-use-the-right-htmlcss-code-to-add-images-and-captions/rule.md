@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Most developers (even WordPress) put the image and the caption in a DIV tag. The figure is just a paragraph. 
+ Most developers put the image and the caption in a DIV tag. The figure is just a paragraph.  
 
 ```
 <div>
@@ -20,9 +20,9 @@ authors:
 </div>
 ```
 
- Figure: Bad Example
-Instead, use a figure under the image, using a DL. A DL is a HTML tag that stands for ‘Definition List’. It contains a DT which is the item in the list – in our case an image. A DD (the description of the item). This structure gives the image and the figure, semantic meaning.
-
+  Figure: Bad Example
+Instead, you should use &lt;DL&gt;, &lt;DT&gt; (which is the item in the list – in our case an image) and &lt;DD&gt;for caption. This structure gives  semantic meaning to the image and figure.​
+ 
 
 ```
 <dl>
@@ -31,4 +31,5 @@ Instead, use a figure under the image, using a DL. A DL is a HTML tag that stand
 </dl>
 ```
 
- Figure: Good Example​ ​​  
+  Figure: Good Example  **Note:** &lt;dl&gt; stands for "**definition list**"; &lt;dt&gt; for "**definition term**"; and &lt;dd&gt; for "**definition description**".
+
