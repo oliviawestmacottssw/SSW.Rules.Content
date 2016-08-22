@@ -30,11 +30,11 @@ Octopus Deploy allows you to package your projects in Nuget packages, publish th
 
 Then you should use an FTP client, which allows you to update files you have changed. **FTP Sync** and **Beyond Compare** are recommended as they compare all the files on the web server to a directory on a local machine, including date updated, file size and report which file is newer and what files will be overridden by uploading or downloading. you should only make changes on the local machine, so we can always upload files from the local machine to the web server.
 
-This process allows you to keep a local copy of your live website on you machine - a great backup as a side effect.
+This process allows you to keep a local copy of your live website on your machine - a great backup as a side effect.
 
 Whenever you make changes on the website, as soon as they are approved they will be uploaded. You should tick the box that says "sync sub-folders", but when you click sync be careful to check any files that may be marked for a reverse sync. You should reverse the direction on these files. For most general editing tasks, changes should be uploaded as soon as they are done. Don't leave it until the end of the day. You won't be able to remember what pages you've changed. And when you upload a file, you should sync EVERY file in that directory. It's highly likely that un-synced files have been changed by someone, and forgotten to be uploaded. And make sure that deleted folders in local server  are deleted in remote server.
 ![ticksubfolders.jpg](/PublishingImages/ticksubfolders.jpg)  
 If you are working on some files that you do not want to sync then put a **\_DoNotSyncFilesInThisFolder\_XX.txt **file in the folder. (Replace XX with your initials.) So if you see files that are to be synced (and you don't see this file) then find out who did it and tell them to sync. The reason you have this TXT file is so that people don't keep telling the web
 
-** NOTE: **Immediately before deployment of an ASP.NET application with FTPSync, you should ensure that the application compiles - otherwise it will not work correctly on the destination server (even though it still works on the development server).
+** NOTE: **Immediately before deployment of an ASP.NET application with FTP ​​Sync, you should ensure that the application compiles - otherwise it will not work correctly on the destination server (even though it still works on the development server).
 
