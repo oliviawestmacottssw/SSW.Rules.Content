@@ -43,8 +43,9 @@ Compare all alternatives researched and select 3 of the best options to choose f
 
 ### NOTE:
 
-- Some travel companies, such as Flight Centre, are able to match or beat the prices quoted by thier competitors so be sure to ask them for a competetive fare. See [Booking Online Versus Using a Travel Agent](http&#58;//aussietraveladvice.com/travel-advice-travel-tips/booking-a-holiday-online-versus-travel-agent/)
+- Some travel companies, such as Flight Centre, are able to match or beat the prices quoted by thier competitors so be sure to ask them for a competitive​ fare. See [Booking Online Versus Using a Travel Agent](http&#58;//aussietraveladvice.com/travel-advice-travel-tips/booking-a-holiday-online-versus-travel-agent/)
 - Make sure that before comparing the prices the quotes include all the taxes/ surcharges/fees
+- Booking sites often charge a fee for the service, for instance
 - Ensure that the quotes you receive are 'flexible' ( i.e. they provide an option to alter the travelling dates once the tickets are purchased)
 - Remember to convert all prices to Australian dollars when comparing quotes, by using the [SSW Currency Converter](http&#58;//www.ssw.com.au/ssw/Shop/OtherCurrency.asp).
 - Avoid Paper tickets - they are hard to change. Go for E-tickets
