@@ -16,7 +16,7 @@ authors:
 ---
 
 
-Estimates contain two main classes of work: Work relating to the particular product (e.g. Create Customers.aspx) and work relating to the project as a whole (e.g. management, administration, testing, software audit etc).
+Estimates contain two main classes of work: Work relating to the particular product (e.g. Create Customers.aspx) and work relating to the project as a whole (e.g. management, administration, testing, software audit etc.).
 
 PBIs may only make up about 60% of the total project time. Project Managers and developers should not think that the only work being charged on a project are coding tasks.
  
@@ -31,7 +31,7 @@ At SSW we add general project costs as a % of the work items generally in line w
 - Fixes from the Software Audit: 5%
 - Project Administration: 5% - this includes items like stand up meetings, timesheets, standard updates
 - Project Management: at least 1 day per week per resource on the project (e.g. two developers full time requires a PM two days per week) UNLESS the client provides a full time Project Manager and takes full responsibility for all resources
-- Unknowns: 10%. While this is arbitrary it raises awareness for everybody that 'there are things we still don't know!'
+- Unknowns: 10%. While this is arbitrary it raises awareness for everybody ​that 'there are things we still don't know!'
 
 
 **Project Specific Costs **
