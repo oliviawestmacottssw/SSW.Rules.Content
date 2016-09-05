@@ -25,3 +25,7 @@ Figure: Bad Example - the user story is too vague and broad in scopeAs a Marketi
 <br>   I want to be able to search for customers by country and last name.
 <br>   So that I can find their numbers and call customers close to me. Figure: Good Example - Clear user story following the INVEST principle
 
+
+
+​​​​Note: In the TFS Scrum template (since we now have a title, description, and acceptance criteria), we no longer generally need to use User Story formatting.​
+
