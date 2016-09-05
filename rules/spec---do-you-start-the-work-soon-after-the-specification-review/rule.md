@@ -11,10 +11,11 @@ authors:
 
 ---
 
- At the end of the spec review encourage the project to go ahead with the current resources, while it is fresh in their head. Say words to the effect of: 
+ At the end of the spec review encourage the project to go ahead with the current resources, while it is fresh in their heads. Say words to the effect of:
+ 
 *"The resources allocated to your project depend on availability. All efforts will be made to allocate the original resources used on the Spec Review, but that cannot be guaranteed.*
 
 *If you decide today or tomorrow, then we can use the same resources....*
 
-*Regardless it is always better to move ahead while the project is fresh in the developers heads."*
+*Regardless,​ it is always better to move ahead while the project is fresh in the developers' heads."*
 
