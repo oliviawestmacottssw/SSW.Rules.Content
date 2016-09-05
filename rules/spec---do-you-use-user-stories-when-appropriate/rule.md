@@ -14,11 +14,14 @@ authors:
 ---
 
  
-"User Stories" is the new name for "Scenarios" in TFS 2012, it allows you to collect your user requirements more easily by providing you a template for the title and streamlined UI.
+Product Backlog Items (PBIs) can be described in the form of a "User Stories" when appropriate. It ensures the developers will know the context for a PBI.​
 
 As a &lt;type of User&gt;
 I want &lt;some goal&gt;
 so that &lt;some reason&gt;
-Figure: User Story - template for title ![TFS2012UserStory.gif](/PublishingImages/TFS2012UserStory.gif)Figure: User Story - Product Backlog Item formI want to be able to search for customers.Figure: Bad Example - the user story is too vague and broad in scopeAs a Marketing Manager...
+Figure: User Story - template for description
+ ![TFS2012UserStory.gif](/PublishingImages/TFS2012UserStory.gif)Figure: User Story - Product Backlog Item formI want to be able to search for customers.
+Figure: Bad Example - the user story is too vague and broad in scopeAs a Marketing Manager...
 <br>   I want to be able to search for customers by country and last name.
 <br>   So that I can find their numbers and call customers close to me. Figure: Good Example - Clear user story following the INVEST principle
+
