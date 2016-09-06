@@ -20,8 +20,8 @@ authors:
 
 Watch the video below and see how a single email can make your job easier.
 
- <iframe width="800" height="450" frameborder="0" src="https&#58;//www.youtube.com/embed/falcO6smD_8?rel=0"></iframe> 
-​ <br>
+ <iframe width="840" height="473" frameborder="0" src="https&#58;//www.youtube.com/embed/falcO6smD_8?rel=0"></iframe> 
+​​ <br>
 
 It is not just a 'cover my ass' email. This is for several reasons:
 
