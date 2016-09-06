@@ -20,8 +20,8 @@ authors:
 
 Watch the video below and see how a single email can make your job easier.
 
- 
-
+  
+​ <br>
 
 It is not just a 'cover my ass' email. This is for several reasons:
 
