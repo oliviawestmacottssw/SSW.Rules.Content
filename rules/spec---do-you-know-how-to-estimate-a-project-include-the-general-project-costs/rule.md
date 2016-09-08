@@ -16,22 +16,22 @@ authors:
 ---
 
 
-Estimates contain two main classes of work: Work relating to the particular product (e.g. Create Customers.aspx) and work relating to the project as a whole (e.g. management, administration, testing, software audit etc.).
+​Estimates contain two main classes of work: Work relating to the particular product (e.g. Create Customers.aspx) and work relating to the project as a whole (e.g. management, administration, testing, software audit etc.).
 
 PBIs may only make up about 60% of the total project time. Project Managers and developers should not think that the only work being charged on a project are coding tasks.
  
 **General Project Costs 
-**Management costs can change depending on how much management the client requires. SSW will recommend a suitable level of management. 'Management', or to put it another way: 'accountability and transparency' has a cost.
+**Management costs can change depending on how much management the client requires. SSW will recommend a suitable level of management. 'Management, accountability and transparency' has a cost.
 
-At SSW we add general project costs as a % of the work items generally in line with the following:
+You should add general project costs as a % of the work items generally in line with the following:
 
-- Testing: 10-20%
-- Fixes from testing: 10-20%
-- Software Audit: 4 hours per Release - usually conducted by two experienced Architects
+- Testing: 20%​
+- Bug Fixes: 20%
+- Software Audit (if relevant): 4 hours per Release - usually conducted by two experienced Architects
 - Fixes from the Software Audit: 5%
-- Project Administration: 5% - this includes items like stand up meetings, timesheets, standard updates
-- Project Management: at least 1 day per week per resource on the project (e.g. two developers full time requires a PM two days per week) UNLESS the client provides a full time Project Manager and takes full responsibility for all resources
-- Unknowns: 10%. While this is arbitrary it raises awareness for everybody ​that 'there are things we still don't know!'
+- DevOps: 10%
+- Project Management: 15% - this includes items like stand up meetings, timesheets, standard updates, reviews, etc.
+- Unknowns (for risky projects): 10%. While this is arbitrary it raises awareness for everybody ​that 'there are things we still don't know!'
 
 
 **Project Specific Costs **
