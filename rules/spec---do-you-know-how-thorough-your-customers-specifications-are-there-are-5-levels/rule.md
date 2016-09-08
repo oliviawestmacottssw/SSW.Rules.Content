@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Different clients will have different levels of documentation on what they want built. You need to be ready to do a spec review for any one of the following 5 possible cases:
+ ​Different clients will have different levels of documentation on what they want built. You need to be ready to do a spec review for any one of the following 5 possible cases:
  
 #### Types of specifications
 
