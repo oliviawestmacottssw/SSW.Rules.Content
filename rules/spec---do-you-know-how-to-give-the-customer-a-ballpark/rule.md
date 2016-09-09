@@ -21,17 +21,24 @@ authors:
 
 This process can take up to a few days, so if you're just after a ballpark, use epics instead of PBIs (Product Backlog Items).
 
-1. List all of the PBIs in TFS, sizing them with story points.
-2. Export the list of PBIs and Story Points to Excel.
-3. In Excel, add a column called "Hours"​
-Note: Once we move to estimating in time, this is no longer Scrum.
-4. In Excel, copy this list and paste into another spreadsheet called the ![](/Style%20Library/SSW/CoreImages/iconXls.png "Excel File") [Estimates Calcul​ator](/Documents/4.%20Estimates%20Calculator.xlsx?d=w6f09d6a75d074fbda81e5e5dd3e18c76), in order to add all of the extra items (testing, DevOps, Project management, etc.).
-Note: It would be great if TFS Web Access had functionality to add [standard items to a Sprint](http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/TeamFoundationServer.aspx#StandardItems)
-5. Run a [test please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28) on this.​
-6. Add this spreadsheet to your specification review document.
-7. When the Estimate is approved by the client, start work following these rules: [Rules to Better Project Management with TFS](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx).
+Here are the 7 steps:
 
- 
+
+
+1. ​​​List all of the PBIs in TFS, sizing them with story points.
+2. Export the list of PBIs and Story Points to Excel.​
+3. In Excel, add a column called "Hours"​
+Note: Once we move to estimating in time, this is no longer Scrum.
+4. In Excel, copy this list and paste into another spreadsheet called the [Estimates Calcul​ator](/Documents/4.%20Estimates%20Calculator.xlsx?d=w6f09d6a75d074fbda81e5e5dd3e18c76), in order to add all of the extra items (testing, DevOps, Project management, etc.).
+Note: It would be great if TFS (or visualstudio.com) had functionality to add [standard items to a Sprint](http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/TeamFoundationServer.aspx#StandardItems)
+5. Run a [Test Please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28) on this.​
+6. Add this spreadsheet to your specification review document.
+7. When the estimate is approved by the client, start work following these rules: [Rules to Better Project Management with TFS](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx).
+
+
+
+
+
 ### How to use the Esti​mates Calculator
 
 
