@@ -69,7 +69,7 @@ You should follow [Rules to Better Proposals](http&#58;//www.ssw.com.au/ssw/Stan
 
 **Test Please**
 
-The Consultant must run a [test please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28) by other senior staff before anything is formally presented to the client.
+The Consultant must run a [test please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28) by another ​developer and your Account Manager before anything is formally presented to the client.
 
 **Example Schedule for a 1 day Specification Review**
 
