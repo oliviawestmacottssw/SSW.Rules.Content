@@ -21,9 +21,9 @@ authors:
 PBIs may only make up about 60% of the total project time. Project Managers and developers should not think that the only work being charged on a project are coding tasks.
  
 **General Project Costs 
-**Management costs can change depending on how much management the client requires. SSW will recommend a suitable level of management. 'Management, accountability and transparency' has a cost.
+**Management costs can change depending on how much management the client requires. You should recommend a suitable level of management. 'Management, accountability and transparency' has a cost.
 
-You should add general project costs as a % of the work items generally in line with the following:
+You should add general project costs as a % of the work items generally in line with the following (note that these numbers are just best guesses):
 
 - Testing: 20%​
 - Bug Fixes: 20%
@@ -36,11 +36,13 @@ You should add general project costs as a % of the work items generally in line 
 
 **Project Specific Costs **
 
-At SSW, estimates for a project will be done by a developer, checked by another developer, and finally triple checked by a project manager. While every project is different in some way, there are common elements. SSW has built an estimates calculator to assist in creating estimates.
+Estimates for a project should be done by a developer, checked by another developer, and finally triple checked by an Account Manager. While every project is different in some way, there are common elements.
 
-See the [Estimates Calculator](https&#58;//projects.ssw.com.au/Templates/Forms/AllItems.aspx)(NOTE: this is an Excel template file.  Save the File ("Save as" don't "Open" it) and then open the file in Windows Explorer)
+SSW has built an estimates calculator to assist in cre​ating estimates.
 
-​If the client requires a fixed price quotation a 20% premium is added to the estimates for the sprints specified in the Specification Release only (i.e. a fixed price is not given on the entire project). Requests for variations to a fixed price contract must wait until the contract is completed. If development is based on a fixed price contract, work is completed offsite only to facilitate project management and prevent unauthorized scope development.​
+See the [Estimates Calculator](https&#58;//projects.ssw.com.au/Templates/Forms/AllItems.aspx)(NOTE: this is an Excel template file.  Save the File ("Save as" don't "Open" it) and then open the file in Windows Explorer)​
+
+​If the client requires a fixed price quotation, a 20% premium is added to the estimates for the sprints specified in the Specification Release only (i.e. a fixed price is not given on the entire project). Requests for variations to a fixed price contract must wait until the contract is completed. If development is based on a fixed price contract, work is completed offsite only to facilitate project management and prevent unauthorized scope development.​
 
 Note: It would be great if TFS had functionality “Add [Standard Items](http&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/TeamFoundationServer.aspx#StandardItems)to a Iteration (aka Sprint, Release etc.)”
 
