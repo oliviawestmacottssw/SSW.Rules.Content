@@ -16,8 +16,8 @@ authors:
 ---
 
  
-**How to create an Estimate For a Spec Review (Summary)****
-**
+### ​How to create an Estimate For a Spec Review (Summary)
+
 
 This process can take up to a few days, so if you're just after a ballpark, use epics instead of PBIs (Product Backlog Items).
 
@@ -32,16 +32,15 @@ Note: It would be great if TFS Web Access had functionality to add [standard ite
 7. When the Estimate is approved by the client, start work following these rules: [Rules to Better Project Management with TFS](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx).
 
  
-**How to use the Estimates Calculator
-**
+### How to use the Esti​mates Calculator
+
+
 Open the [Estimates Calculator](/Documents/4.%20Estimates%20Calculator.xlsx?d=w6f09d6a75d074fbda81e5e5dd3e18c76) and do the following:
 ![Resource tab.png](/PublishingImages/Resource%20tab.png)Figure: set the types and numbers of resources who will be working on the project
 
 ![Estimates tab.png](/PublishingImages/Estimates%20tab.png)Figure​: Enter your PBIs and estimates
 
-Finally, you should copy and paste this estimates section into your proposal and present it to your client.
-
-
+Finally, you should copy and paste this estimates section into your proposal and present it to your client. ​
 
 
 ### Why Microsoft Project isn't recommended
