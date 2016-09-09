@@ -23,10 +23,15 @@ Watch the video below and see how a single email can make your job easier.
   
 ​​ <br>
 
-It is not just a 'cover my ass' email. This is for several reasons:
+As per our conversation, I am going to offer the client a Spec Review for $XXX
+ Figure: Good Example - using "As per our conversation" email 
+
+
+
+This is not just a 'cover my ass' email. This is for several reasons:
 
 - To make sure that you did not get the message wrong
-- To keep an audit trail of agreed decisions
+- To keep an audit trail of agreed decisions​
 - To keep people, who were not a party to the conversation, informed about the progress
 
 
@@ -38,6 +43,13 @@ Use this approach internally and with clients. As a result, expect to see "as pe
 - Can be referred back to in the future
 
 
-**Note:** This is most likely to happen after a conversation started        **by the client**.
-If        **you** are the one making the first contact, also follow:        [Do you prepare, then confirm conversations/decisions?](/Pages/PrepareAndConfirm.aspx)
+
+Sometimes you might not reach the client or Product owner via phone, and have to make a decision by yourself. In this case, it's still important to record everything in an email, starting with "I tried calling you but didn't get through":
+
+I tried calling you but didn't get through. I am going to offer the client a Spec Review for $XXX
+Figure: Good Example - for when you can't reach the person by phone 
+
+
+**Note:** This is most likely to happen after a conversation started **by the client**.
+If **you** are the one making the first contact, also follow: [Do you prepare, then confirm conversations/decisions?](/Pages/PrepareAndConfirm.aspx)
 
