@@ -25,7 +25,7 @@ PBIs may only make up about 60% of the total project time. Project Managers an
 
 You should add general project costs as a % of the work items generally in line with the following (note that these numbers are just best guesses):
 
-- Testing: 20%​
+- ​Testing: 20%​
 - Bug Fixes: 20%
 - Software Audit (if relevant): 4 hours per Release - usually conducted by two experienced Architects
 - Fixes from the Software Audit: 5%
