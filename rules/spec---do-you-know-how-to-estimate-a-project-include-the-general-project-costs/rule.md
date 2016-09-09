@@ -26,7 +26,7 @@ PBIs may only make up about 60% of the total project time. Project Managers an
 You should add general project costs as a % of the work items generally in line with the following (note that these numbers are just best guesses):
 
 - ​Testing: 20%​
-- Bug Fixes: 20%
+- Bug Fixes: 20%​
 - Software Audit (if relevant): 4 hours per Release - usually conducted by two experienced Architects
 - Fixes from the Software Audit: 5%
 - DevOps: 10%
@@ -38,7 +38,7 @@ You should add general project costs as a % of the work items generally in line 
 
 Estimates for a project should be done by a developer, checked by another developer, and finally triple checked by an Account Manager. While every project is different in some way, there are common elements.
 
-SSW has built an estimates calculator to assist in cre​ating estimates. See the [Estimates Calculator](https&#58;//projects.ssw.com.au/Templates/Forms/AllItems.aspx) here.
+SSW has built an estimates calculator to assist in cre​ating estimates. See the [Estimates Calculator](/Documents/4.%20Estimates%20Calculator.xlsx?d=w6f09d6a75d074fbda81e5e5dd3e18c76) here.
 
 ​If the client requires a fixed price quotation, a 20% premium is added to the estimates for the sprints specified in the Specification Release only (i.e. a fixed price is not given on the entire project). Requests for variations to a fixed price contract must wait until the contract is completed. If development is based on a fixed price contract, work is completed offsite only to facilitate project management and prevent unauthorized scope development.​
 
