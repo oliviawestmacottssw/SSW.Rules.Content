@@ -18,19 +18,30 @@ authors:
 ---
 
  A client will often ask for a proposal or ballpark for the project. It is very difficult to give them the price for a large project without first conducting a specification review. 
+
+
+The Spec Review is a process that will demonstrate to the client whether you have the commercial sense to understand their \*business\* and have the technical and management capacity to complete the project.
 ​
-A Specification Review is paid work conducted after the initial meeting to determine the overall scope, feasibility, and ballpark costs of the project (i.e. $50k or $500k). ​E.g. Mr. Northwind learns that the idea he presented at the initial meeting will cost approximately $80K and he has to determine if that is feasible to his business or if he will trim the functionality to better manage the cost.  ![proposal](/PublishingImages/proposal.jpg) Figure: A ballpark or proposal should start small and not be a big commitment
+It is paid work conducted after the initial meeting to determine the overall scope, feasibility, and ballpark costs of the project (i.e. $50k or $500k). ​E.g. Mr. Northwind learns that the idea he presented at the initial meeting will cost approximately $80K and he has to determine if that is feasible to his business or if he will trim the functionality to better manage the cost.
+
+  ![proposal](/PublishingImages/proposal.jpg) Figure: A ballpark or proposal should start small and not be a big commitment
+
 From this initial meeting, the ballpark is 6 months and $200K+GST
-Figure: Bad example - big scary figure 
+Figure: Bad example - big scary figure
+
+
 From this initial meeting, we will first need to conduct a specification review. This first step is $6K
 - 2 day Specification Review
 Figure: Good example - work in small chunks of work with details about what you will do
 
 ### Spec Review length
- ![Have a frank &amp; open interview style meeting with a data projector to get everything out on the table](/PublishingImages/ProjectManagement_OpenMeeting.jpg)  Figure: Have a frank & open interview style meeting with a shared screen to get everything out on the table 
-The Specification Review is conducted by two experienced developers at the client premises in close consultation with the client. The time allocated for a Spec Review is generally 1 - 5 days depending on initial expectations of the project. The rule of thumb is 1 - 2 days of Spec Review per estimated month of project time. The purpose is to understand the whole project but, if the project is greater than six months, focus primarily on the first six months. The Spec Review is a process that will demonstrate to the client whether you have the commercial sense to understand their \*business\* and have the technical and management capacity to complete the project.
 
-### Talk about business requirements
+
+The Specification Review is conducted by two experienced developers at the client premises in close consultation with the client. The time allocated for a Spec Review is generally 1 - 5 days depending on initial expectations of the project. The rule of thumb is 1 - 2 days of Spec Review per estimated month of project time.
+
+The purpose is to understand the whole project but, if the project is greater than six months, focus primarily on the first six months.
+
+### Talk about business requireme​nts
 
 
 - **Conduct Workshops: **Conduct workshops with different groups of users (e.g. management, back office, customer service) to build the "Product Backlog" which the business wants. This ensures that all users get their say. Some "nice-to-haves" might actually be quite easy to implement. Product Backlog Items can then be prioritized and fleshed out.
@@ -39,7 +50,8 @@ The Specification Review is conducted by two experienced developers at the clien
 - **Identify an MVP: **Most client can't afford everything they want, so make sure you're keeping track of the minimum we can do to deliver value.
 
 
-### Do something valuable
+### Do something valuable​
+
 
 Most software consulting experts will be able to provide a small improvement to the current system 'on the fly' during the Spec Review. This may be something as simple as adding an index to a table and thereby increasing the performance of a web page.
 
