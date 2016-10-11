@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​​Do you know what the most useful thing on Microsoft web site is? It is their knowledge base at <br>[http://support.microsoft.com/](http&#58;//support.microsoft.com/) <br>​ When a problem arises it should be your first port of call - it allows you to help yourself. ​ 
+ ​​Do you know what the most useful thing on Microsoft website is? It is their knowledge base at​ <br>[http://support.microsoft.com/](http&#58;//support.microsoft.com/) <br>​ When a problem arises it should be your first port of call - it allows you to help yourself. ​ 
 So, if you answer questions on your products to customers, you are wasting time if you don't have a knowledge base. Just think, you might not be answering Harry's question if he could have looked it up himself.
 
 Now of course there are many customers who don't look for a KB, but instead you fire off the same old email that you already know is an MDAC related error, and your current solution is to tell them to run SSW Diagnostics and get all the green ticks.
