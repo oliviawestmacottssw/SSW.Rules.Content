@@ -24,8 +24,8 @@ authors: []
 
 | Don't use​ | ​Use |
 | --- | --- |
-| ​cannot, could not, do not, did not will not, you will | ​Contractions: can’t, couldn’t, don’t, didn’t won’t, you’ll, and so on |
-| ​okay, ok | ​OK |
+| ​cannot, could not, do not, did not will not, you will | ​Contractions: can’t, couldn’t, don’t, didn’t, won’t, you’ll, and so on |
+| ​okay, ok | ​O​K |
 | ​please, sorry, thank you | Attempts at politeness can annoy the user, especially in messages that say something has gone wrong. Exception: In Japanese, “please” is mandatory and imperative verbs should be localized accordingly (turn on -&gt; please turn on).​ |
 | fail, failed, negative language​ | ​In general, use positive phrasing (for example, “do” rather than “don’t,” except in cases such as “Don’t show again,” “Can’t connect,” and so on.)  |
 | me, I, my, mine​ | ​you, your, yours |
