@@ -20,11 +20,10 @@ authors:
 Hi Eric,
 
 For the Code Auditor web page, please make the green ticks read:
-
-1. Scan all your projects for coding errors
-2. Guarantee Industry best practices
-3. Friendly licensing model, bloggers even pay 0$ for the full version!
-
+​
+​Scan all your projects for coding errors
+Guarantee Industry best practices
+​Friendly licensing model, bloggers even pay 0$ for the full version!
 
 Figure: Bad example - original version of content has not been included in the email 
 
@@ -34,16 +33,14 @@ On the Code Auditor web page, please change              [http://www.ssw.com.au/
 
 From:
 
-1. Scan all your projects for coding bugs and errors
-2. Enforce industry best practices​
-3. Friendly licensing model pay nothing for full version!
-
+     Scan all your projects for coding bugs and errors
+     Enforce industry best practices​
+     Friendly licensing model pay nothing for full version!
 
 To:
 
-1. Scan all your projects for coding errors
-2. Guarantee industry best practices
-3. Friendly licensing model, bloggers even pay​ 0$ for the​​​ full version!
-
+     Scan all your projects for coding errors
+     Guarantee industry best practices
+     Friendly licensing model, bloggers even pay​ 0$ for the​​​ full version!
 
 Figure: Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed 
