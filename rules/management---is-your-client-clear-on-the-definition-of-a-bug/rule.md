@@ -51,7 +51,7 @@ Using TFS allows you to create work items such as user stories, bugs, tasks, t
 
 
 **Handling additional work for fixed-price contracts**
-Any new features or modifications (non-bug items) not in the original release plan are classed as additional work and are outside the scope of the contract. Any tasks which **are** bugs should be marked as additional items and be completed in the current release if possible. Most importantly, after the release plan has been sent, **a task should NOT be entered as an item (additional or otherwise) in ANY sprints if they are not a bug**. Instead, move all non-bug items to the product backlog for future review after the warranty period for the fixed price contract has passed.
+Scrum wasn't designed for fixed price, fixed scope contracts, however, a​ny new features or modifications (non-bug items) not in the original sprint or sprints are classed as additional work and are outside the scope of the contract. Any tasks which **are** bugs should be marked as additional items and be completed in the current sprint if possible. Most importantly, after the sprint plan has been sent, **a PBI should NOT be entered as an item (additional or otherwise) in ANY sprints if they are not a bug**. Instead, move all non-bug items to the product backlog for future review after the warranty period for the fixed price contract has passed.
 
 **Handling additional work in a Scrum project**
 
