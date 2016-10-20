@@ -13,7 +13,7 @@ authors:
 
 ---
 
-  When you want to update the Rule Title, please DO NOT update them in the list directly.
+ When you want to update the Rule Title, please DO NOT update them in the list directly.
 <br> Click the URL near it, navigate to the Rule Summary page, and edit the Rule Summary Page Title, it will automatically update:
 
 - Rule Summary Page Title
@@ -21,5 +21,5 @@ authors:
 - Item Title in RuleCategoryLookupData List
 
   Like this (thanks for Adam's snapshot) : 
-![](/SoftwareDevelopment/RulesToBetterSharePoint/PublishingImages/SPTitle.jpg)
+![](/PublishingImages/SPTitle.jpg)
 
