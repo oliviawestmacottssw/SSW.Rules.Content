@@ -13,6 +13,6 @@ authors:
 1. ​[TeamCompanion](http&#58;//www.teamcompanion.com/download/)
 TeamCompanion is compatible with TFS 2012 from version 4.4.
 2. [Team Foundation SideKicks](http&#58;//www.attrice.info/cm/tfs/)
-Version 3.0 is compatible with TFS 2012/
+Version 3.0 is compatible with TFS 2012.
 
 
