@@ -11,7 +11,8 @@ authors:
 
 ---
 
- ​Just as we should not 'judge a book by it's cover' - we will not judge an email by its subject. But, we do! Because users get SOOOO many emails, getting your clients and suppliers to take notice of yours among the sea of email in their Inbox can be quite a struggle.<br> ![Outlook Choose an interesting subject](/PublishingImages/Outlook_ChooseAnInterestingSubject.gif)Figure: Good Example - I'm definitely going to read this email
+ ​​Just as we should not 'judge a book by it's cover' - we will not judge an email by its subject. But, we do! Because users get SOOOO many emails, getting your clients and suppliers to take notice of yours among the sea of email in their Inbox can be quite a struggle.<br>
+ ![Outlook Choose an interesting subject](/PublishingImages/Outlook_ChooseAnInterestingSubject.gif)Figure: Good Example - I'm definitely going to read this email
 Use the email Subject to grab your recipient's attention. Choosing the right subject can give an email a sense of urgency or importance that choosing the wrong subject won't!
 
 The best way of doing this is to ensure that your subject includes either an ACTION POINT (e.g. 6.30 TONIGHT! See you at The Oaks Hotel...) or a RESULT of a task you were asked to do (e.g. Here's the 5 mins. of FEEDBACK you requested from our meeting with Charles Merton). You'll note from this that including the date and time in the subject gives immediacy to the email.
@@ -45,7 +46,7 @@ We use the following format for the subject internally and encourage clients and
 ```
 
 
-The advantage of this is that when you sort by the subject in Outlook, you get all of the emails grouped together, and it is easy to recognize the client/prduct, because the subject contains the relevant information.
+The advantage of this is that when you sort by the subject in Outlook, you get all of the emails grouped together, and it is easy to recognize the client/product, because the subject contains the relevant information.
 
 Additionally I want to be able to determine which emails are the most important. Using a meaningful subject with key words makes it easy to identify and categorize emails without actually opening them (and is also makes it easy to find emails in my Sent Items). When emails are really important I write IMPORTANT in the subject. Other emails I consider important or urgent have the following in the subject field:
 
