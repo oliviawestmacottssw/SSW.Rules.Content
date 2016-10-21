@@ -10,7 +10,7 @@ authors:
 ---
 
  ​​Sometimes it is quicker to explain something than it is to write a comprehensive email. This is particularly true when explaining an idea or concept relating to a product, and you need to go backwards and forwards many times to clarify details. If you can't easily speak directly with someone, due to schedule, travel, or time zone constraints try sending a voice recording instead. 
-​Sending visoes or voice recordings can be thought of as a slow paced conversation. There are many benefits to sending voice messages instead of email when iterating over concepts and ideas.
+​Sending videos or voice recordings can be thought of as a slow paced conversation. There are many benefits to sending voice messages instead of email when iterating over concepts and ideas.
 
 Sending and listening to voice recordings feels more personal than reading an email, because it is possible to hear the person'​s mood and emphasis more naturally. It is also helpful if the recipient needs to re-play a portion of the message to understand it, especially for people who are communicating in a language other than their native tongue.
 
