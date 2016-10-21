@@ -12,7 +12,7 @@ authors:
 ---
 
  
-When attempting to sell a solution to a potential client, you will invariably come                     up against some objections. It is essential that you are prepared to handle these                     objections so the client is confident in your skills and has no reservations about                     choosing you over someone else. The main reason clients raise objections is because                     they have concerns about your experience "fit" with their needs.
+​When attempting to sell a solution to a potential client, you will invariably come                     up against some objections. It is essential that you are prepared to handle these                     objections so the client is confident in your skills and has no reservations about                     choosing you over someone else. The main reason clients raise objections is because                     they have concerns about your experience "fit" with their needs.
  
 We recommend you use this objection handling model.
 
@@ -20,7 +20,7 @@ We recommend you use this objection handling model.
 2. Acknowledge the objection - say, "Thanks for raising that", or, "Thanks for letting<br>                        us know about that"
 3. Probe - ask, "Can I ask you a few questions about the concerns that you have?"
 "If I could resolve this issue for you, could we move forward?
-"You can't always solve objections on the spot - it's ok to say, "Is it alright if<br>                            i speak to one of my developers about it and let you know about that later today?"
+"You can't always solve objections on the spot - it's ok to say, "Is it alright if I speak to one of my developers about it and let you know about that later today?"
 4. Answer - Pick the best response to their objection (see below)
 5. Confirm that they are happy with your answer - "Do you now feel comfortable with<br>                        our approach towards your project?"
 
