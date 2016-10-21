@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​A common mistake is to use code or emails that you have previously written, and stored somewhere on your computer, and change around key bits to make it relevant for the current situation.
+​​​A common mistake is to use code or emails that you have previously written, and stored somewhere on your computer, and change around key bits to make it relevant for the current situation.
 
 The problem with this is that you make it impossible for anyone else in your organization to do the same task to the same quality level.
  
@@ -29,7 +29,7 @@ For details on creating your own internal Nuget repository, read this rule:[http
 ​
 
 ​​![SSW_nuget.png](/PublishingImages/SSW_nuget.png)
-Good Example: If your library has potential outside of your current requirement, consider publising to the world on Nuget.  Often the work involved to make a library more generic and re-usable results in better-quality code.
+Good Example: If your library has potential outside of your current requirement, consider publishing to the world on Nuget.  Often the work involved to make a library more generic and re-usable results in better-quality code.
 You can find a selection of Nuget packages published by SSW here:
 [https://www.nuget.org/profiles/SSW​​](https&#58;//www.nuget.org/profiles/SSW)
 
