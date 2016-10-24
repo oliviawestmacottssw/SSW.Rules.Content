@@ -14,7 +14,7 @@ authors: []
 - Can't separate SQL into a strongly-typed dataset or middle-tier object like in ASP.NET
 - There are potential difficulties with the deployment of RS reports and the exposing of them. However, once we have the infrastructure...
 
-Pros
+**Pros**
 
 - You can develop read only reports faster in Reporting Services than ASP.NET
 - Maintenance with RS is easier than ASP .NET, as with most cases you don't have to write any code
@@ -29,5 +29,5 @@ So in conclusion, if you will only ever need 1 report, go with ASP.NET - it is e
 For a more detailed comparison between reporting solutions, take a look at our [Guidelines for Report Solutions - Web Clients](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperDotNet/guidelinesforreportingwebclient.aspx).
 
 
-![RSRulesUseRS1.gif](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/RSRulesUseRS1.gif)Figure: Reporting Services has built-in support for PDF/XLS export and can be embedded in your ASP.NET pages
+![RSRulesUseRS1.gif](/PublishingImages/RSRulesUseRS1.gif)Figure: Reporting Services has built-in support for PDF/XLS export and can be embedded in your ASP.NET pages
 
