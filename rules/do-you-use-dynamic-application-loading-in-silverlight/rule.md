@@ -9,7 +9,8 @@ authors:
 
 ---
 
- In a large business application with different and distinct modules, often it will make sense to build the separate modules and load them dynamically using a combination of Inversion of Control (IoC) and Silverlight's Dynamic Assembly Loading. <br>   There are a few huge wins for a customer when you build your line of business application this way: 
+ ​In a large business application with different and distinct modules, often it will make sense to build the separate modules and load them dynamically using a combination of Inversion of Control (IoC) and Silverlight's Dynamic Assembly Loading. <br>
+   There are a few huge wins for a customer when you build your line of business application this way: 
 
 1. The initial load isn't as large - you can have a quick load of a login and common UI, then as the person logs in, prepare their environment by loading additional components
 2. You can show a quick "Do you know… you can do XXX" while this is loading. You can also show them a quick list of what has been happening (e.g. a Dashboard).
