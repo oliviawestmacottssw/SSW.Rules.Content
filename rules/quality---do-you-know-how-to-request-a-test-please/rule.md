@@ -11,7 +11,7 @@ authors:
 
 ---
 
- These are the steps you should take when request a "test please" :
+ ​These are the steps you should take when request a "test please" :
 
 1. Find two free testers to send the email below
 2. Stop working on the project until you receive either a "pass" or "fail" email
