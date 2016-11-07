@@ -12,9 +12,8 @@ authors:
  
 ​                     Whenever you need a number from a system you should think of how you can create a report, so next time you can press a button to get the result.
  
-If you find yourself doing adhoc reports, or random SQL queries you should make sure the boss knows you could not find the data you needed.
+If you find yourself doing ad-hoc reports, or random SQL queries, you should make sure the boss knows you could not find the data you needed.​
 ![Eg. Email your boss to ask a number](/PublishingImages/CreateReport.JPG)                        Figure: Sample Email -- Send an email to your boss for a number. <br>                    
 ​​
-
-Power BI is generally the best tool for this.​
+​As you can see in Ulysses' video, Power BI is the ultimate tool for this: [https://tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren](https&#58;//tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren) 
 
