@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Here are the steps to subscribe a report:
+ ​Here are the steps to subscribe a report:
 
 
 <br>​   ​1. Open IE, go to the folder view which contains the report you're going to subscribe.
