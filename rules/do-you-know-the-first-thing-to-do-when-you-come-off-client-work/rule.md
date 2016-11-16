@@ -35,7 +35,6 @@ authors: []
         - Take some notes on what they liked about the solution.
     - Always ask if they know of some other projects we could help them with, or if they know of anybody that may need some software development gurus.
     - Send a follow up email
-        - Send an "[as per our conversation](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0dddad89-e1a1-4ef4-991a-8b600462c2cd)". Include some of your notes, a thank you for the time, and CC a project manager. If they were interested in a consultation, then ask the project manager to follow up
-        - Document the call date, and email subject line & results in the Notes field for the client in your corporate database
+        - Send an "[as per our conversation](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0dddad89-e1a1-4ef4-991a-8b600462c2cd)". Include some of your notes, a thank you for the time, and CC the Account Manager. If they were interested in a consultation, then ask the Account M​anager to follow up
 
 
