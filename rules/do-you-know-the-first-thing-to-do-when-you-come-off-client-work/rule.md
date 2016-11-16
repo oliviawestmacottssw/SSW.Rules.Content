@@ -7,13 +7,14 @@ authors: []
 
 ---
 
- Here are the first things you should do EVERY time you come off client work:<br> 
+ ​Here are the first things you should do EVERY time you come off client work:<br>
+ 
 1. Get a reference from the last client
     - It is a good way to check the client is happy
     - If your company is a Microsoft Gold Certified Partner, these references can lead to competencies such as Custom Development Solutions and ISV/Software Solution
     - An example of what to say to the client is: "We are a Microsoft Gold Certified Partner and I would like to submit a short description of the project to Microsoft, you will receive an email from Microsoft asking you to approve the reference. How does that sound?"
     - We would also love a testimonial to add to our website. Would you be happy to give a testimonial for the work we've done for you? Can you please email it to me?
-
+    - If there is going to be further work, ask to pencil in a booking for say a month's time or so​, so that you don't get too booked out by other clients.
 
 
 1. The next thing to do is to call your last few clients. You should always be in contact with them at least every 6 months
@@ -34,7 +35,7 @@ authors: []
         - Take some notes on what they liked about the solution.
     - Always ask if they know of some other projects we could help them with, or if they know of anybody that may need some software development gurus.
     - Send a follow up email
-        - Send an "[as per our conversation](/do-you-send-＂as-per-our-conversation＂-emails)". Include some of your notes, a thank you for the time, and CC a project manager. If they were interested in a consultation, then ask the project manager to follow up
+        - Send an "[as per our conversation](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0dddad89-e1a1-4ef4-991a-8b600462c2cd)". Include some of your notes, a thank you for the time, and CC a project manager. If they were interested in a consultation, then ask the project manager to follow up
         - Document the call date, and email subject line & results in the Notes field for the client in your corporate database
 
 
