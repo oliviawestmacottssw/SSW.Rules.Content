@@ -13,7 +13,8 @@ authors:
 
 ---
 
- ​​​If you wish to organize a meeting that involves some of your colleagues and a client, instead of sending an email, send an appointment. Sending appointments is convenient because all the user has to do is click 'accept' and it is in their calendar.  <dl class="image"><dt>
+ ​​​If you wish to organize a meeting that involves some of your colleagues and a client, instead of sending an email, send an appointment. Sending appointments is convenient because all the user has to do is click 'accept' and it is in their calendar. 
+ <dl class="image"><dt>
       <img class="ms-rteCustom-ImageArea" alt="Outlook Appointment" src="/PublishingImages/OutlookAppointment.gif"> 
    </dt><dd>Figure&#58; Use Outlook appointments to easily synchronise your calendar with your client's</dd></dl>
 This way Outlook will remind your colleagues about the appointment and you can update them if any changes are made.
