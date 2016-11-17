@@ -10,13 +10,17 @@ authors:
 ---
 
  
-SkypePOP is an easy to use screen pop application that supports Office 365, Microsoft Skype for Business and Microsoft Dynamics CRM and CRM Online, maximizing your investment in these two leading applications.
+​SkypePOP is an easy to use screen pop application that supports Office 365, Microsoft Skype for Business and Microsoft Dynamics CRM and CRM Online, maximizing your investment in these two leading applications.
+
+Even though it works great for direct calls on Skype for Business, transferred calls will not show the CRM entry of the person being transferred. This is because SkypePOP will always recognize the person who transfers the call as the actual caller.
  
 SkypePOP can be purchased from     [appVnet website](http&#58;//www.appvnet.com/).
 
 ### SkypePOP Features and Benefits
 
+
 - With support Office 365, Microsoft Skype for Business 2015 (as well as older versions)
+- Works with Skype for Business (doesn't work with Skype or Skype Preview)
 - Fast - pop's CRM records in milliseconds
 - Multiple records – handles multiple CRM records of different types with the same number
 - Pops information from CRM Contacts, Leads, Accounts and System Users
@@ -28,4 +32,11 @@ This tool is vital for sales staff and receptionists as a minimum.
 Receptionists get the client record (based upon the inbound number) popup as the phone is ringing. They can answer the call accordantly. Sales staff has the ability to log the call in CRM along with what the call was about and also set a reminder for them to catch up in a few days.
 
 Read more about     [implementing Microsoft Lync](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx).
-​  
+
+### SkypePOP​​ Setup​​
+
+​​![SkypePOPSetup.jpg](/SiteAssets/do-you-integrate-crm-with-microsoft-lync/SkypePOPSetupConnection.jpg)
+​Figure: Good example - use the discovery service of your CRM
+
+
+
