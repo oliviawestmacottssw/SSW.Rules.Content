@@ -14,8 +14,10 @@ authors:
 ---
 
  
-Email is great. But in an emergency you need to pick up the phone. Often the most effective methods of communication for a project is to talk directly to colleagues and clients on the phone.
+ Email is great. But in an emergency, you need to pick up the phone. Often the most effective methods of communication for a project is to talk directly to colleagues and clients on the phone.
 
- ![skype-bad.png](/PublishingImages/skype-bad.png) Figure: Bad example - can't call a phone number![skype-good.png](/PublishingImages/skype-good.png) Figure: Good example - Able to call phone numbers
-**Remote offices tip: **Don’t make being overseas a barrier. Of course,​ it is always best to provide a local number as that gives clients peace of mind and keep their costs down. Not many clients will call an international number and there are lots of options [http://www.skype.com/en/features/](http&#58;//www.skype.com/en/features/) . The next best alternative is to at least show your overseas phone number.
+ ![skype-phonenumber-bad.jpg](/PublishingImages/skype-phonenumber-bad.jpg)Figure: Bad example - can't call a phone number![skype-phonenumber-good.jpg](/PublishingImages/skype-phonenumber-good.jpg)Figure: Good example - Able to call phone numbers
+**Remote offices tip: **Don’t make being overseas a barrier. ​Of course,​ it is always best to provide a local number as that gives clients peace of mind and keep their costs down. Not many clients will call an international number and there are lots of options - [http://www.skype.com/en/features](http&#58;//www.skype.com/en/features/).
+
+The next best alternative is to at least show your overseas phone number.​
 
