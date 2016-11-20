@@ -13,10 +13,11 @@ authors:
 
 ---
 
- Instructions are very important when maintaining a project. With this document, people new to it can take over it quickly. This document should be created at the beginning of a project and make sure it's updated gradually. ​​ 
+ Instructions are very important when maintaining a project. With this document, people new to it can take over it quickly. This document should be created at the beginning of a project and make sure it's updated gradually. ​​
+ 
 We recommend that you add a document as a solution item and name it '\_Instructions.docx'.
 
-​​​Tip: Microsoft Word documents are preferred over .txt files because images and formatting are important
+Tip: Microsoft Word documents are preferred over .txt files because images and formatting are important
 
 You can also break up this document into 4 smaller documents
 
@@ -28,14 +29,14 @@ You can also break up this document into 4 smaller documents
 
 Here's a suggestion of what these documents could contain. They are not compulsory but may be necessary for running the project.
 
-1. Project structure <br>          All parts that composes the project and how they work with each other.
-2. Third party components <br>          Any software, tools and DLL files that this project uses. (e.g., NHibernate, ComponentArt)
+1. Project structure    All parts that composes the project and how they work with each other.
+2. Third party components    Any software, tools and DLL files that this project uses. (e.g., NHibernate, ComponentArt)
 3. Database configuration
 4. Other configuration information
-5. FTP information and Deployment procedure
+5. Deployment information and procedures
 6. Other things to take care of
 
-![A project with an instructions](/PublishingImages/BadNetProject.JPG)Bad example - A project without an instructions. ![Good Solutions Have Instructions](/PublishingImages/ProjectDocumentation.jpg)Good example - A project with instruction​
+ ![A project with an instructions](/PublishingImages/BadNetProject.JPG) Bad example - A project without an instructions.  ![Good Solutions Have Instructions](/PublishingImages/ProjectDocumentation.jpg) Good example - A project with instruction 
 When a new developer starts on a project you want them to get up and running as soon as possible.
 
 Problems to check for:
@@ -49,19 +50,23 @@ It is essential to have documentation that describes what is required to configu
 
 There are 3 Levels of this documentation in a project.
 
-## Level 1: Can you get latest and compile with a Docx 
-![Good Solutions Have Instructions - Level 1](/PublishingImages/instructions-level1.jpg)Figure: Level 1 documentation is static word documents. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile
-## Level 2: Can you get latest and compile with the database 
-![Good Solutions Have Instructions - level 2](/PublishingImages/instructions-level2.jpg)Figure: Level 2 Documentation includes database build scripts. We use <br>      [SSW SQL Deploy](http&#58;//sqldeploy.com/) to make keeping all databases on the same version simple. Check out <br>      [how to use SQL Deploy here​](http&#58;//tv.ssw.com/969/adam-stephensen-sql-deploy-demo)
-## Level 3: Can you get latest and compile  with a Powershell script
+## Level 1: Can you get latest and compile with a Docx
+ ![Good Solutions Have Instructions - Level 1](/PublishingImages/instructions-level1.jpg) Figure: Level 1 documentation is static word documents. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile
+## Level 2: Can you get latest and compile with the database
+ ![Good Solutions Have Instructions - level 2](/PublishingImages/instructions-level2.jpg) Figure: Level 2 Documentation includes database build scripts. We use [SSW SQL Deploy](http&#58;//sqldeploy.com/) to make keeping all databases on the same version simple. Check out [how to use SQL Deploy here](http&#58;//tv.ssw.com/969/adam-stephensen-sql-deploy-demo)
+## Level 3: Can you get latest and compile with a Powershell script
 
-A perfect solution would need no static documentation. Perfect code would be so self-explanatory that it did not need comments. The same rule applies with instructions on how to get the solution compiling: the best answer would be for the solution to contain scripts that automates the setup.
+A perfect solution would need no static documentation. Perfect code would be so self-explanatory that it did not need comments. The same rule applies with instructions on how to get the solution compiling: the best answer would be for the solution to contain scripts that automate the setup.
 
-## Example of Level 3: Powershell Documentation
 
-**Recommendation:** All manual work station setup steps should be scripted with powershell (as per the below example)
+> ## ​​Example of Level 3: Powershell Documentation
 
-**Recommendation:** You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
+
+
+> **Recommendation:** All manual workstation setup steps should be scripted with powershell (as per the below example)
+> 
+> **Recommendation:** You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
+
 
 PS C:\Code\Northwind&gt;** .\Setup-Environment.ps1**
 
@@ -73,7 +78,8 @@ WARNING: Abandoning remainder of script due to critical failures.
  
 To try and automatically resolve the problems found, re-run the script with a -Fix flag.
 
-Figure: You see the problems in the devs environment
+Figure: Good example - you see the problems in the devs environment
+
 
 PS C:\Code\Northwind&gt; .\Setup-Environment.ps1 -fix
 
@@ -87,7 +93,7 @@ WARNING: No automated fix available for 'Azure Storage Service is running'
  
 WARNING: Abandoning remainder of script due to critical failures.
 
-Figure: The script tries to automatically fix the problem
+Figure: Good example - when running with -fix this script tries to automatically fix the problem 
 
 
 
@@ -100,8 +106,9 @@ WARNING: Abandoning remainder of script due to critical failures.
 
 
 
-Figure: Note that on the 2nd run, issues resolved by the 1st run are not re-reported
+Figure: Good example - ​Note that on the 2nd run, issues resolved by the 1st run are not re-reported 
+
 ## Further Reading
 
-To see other documentation Rules, have a look at     [Do you review the documentation?](/do-you-review-the-documentation)
+To see other documentation Rules, have a look at [Do you review the documentation?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=951ffbf9-4066-42f3-a9b7-e0d8603e728b)
 
