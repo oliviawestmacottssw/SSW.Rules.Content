@@ -59,14 +59,12 @@ There are 3 Levels of this documentation in a project.
 A perfect solution would need no static documentation. Perfect code would be so self-explanatory that it did not need comments. The same rule applies with instructions on how to get the solution compiling: the best answer would be for the solution to contain scripts that automate the setup.
 
 
-> ## ​​Example of Level 3: PowerShell Documentation
+## Example of Level 3: PowerShell Documentation
 
 
+**Recommendation:** All manual workstation setup steps should be scripted with powerShell (as per the below example)
 
-> **Recommendation:** All manual workstation setup steps should be scripted with powerShell (as per the below example)
-> 
-> **Recommendation:** You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
-
+**Recommendation:** You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
 
 PS C:\Code\Northwind&gt;** .\Setup-Environment.ps1**
 
@@ -89,7 +87,7 @@ Fixed: \_CSRUN\_STATE\_DIRECTORY user variable set
  
 Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
 
-WARNING: No automated fix available for 'Azure Storage Service is running'
+WARNING: No automated fix availab ​​le for 'Azure Storage Service is running'
  
 WARNING: Abandoning remainder of script due to critical failures.
 
@@ -107,6 +105,7 @@ WARNING: Abandoning remainder of script due to critical failures.
 
 
 Figure: Good example -  Note that on the 2nd run, issues resolved by the 1st run are not re-reported 
+
 
 ## Further Reading
 
