@@ -16,11 +16,13 @@ authors:
 ---
 
  
-"Triage" is a term originally used to describe the assessment of injured persons into a priority order based on the severity and urgency of their injuries. While developers don't often deal with real life and death situations very often, the ability to prioritise and action issues that arise can keep the heartbeat of a project steady and strong.​
+​"Triage" is a term originally used to describe the assessment of injured persons into a priority order based on the severity and urgency of their injuries. While developers don't often deal with real life and death situations, the ability to prioritise and action issues that arise can keep the heartbeat of a project steady and strong.​​
  
 Managing additional work requests can reduce the adverse impact on estimates and deadlines.
 ![](/PublishingImages/SuccessfulProjects_Triage.jpg) Figure: Only if it's life and death does it get added "in this sprint" 
 The first step is to analyse the priority of the additional item.
+
+
 
 Let's look at the rules to how to prioritize:
 
@@ -38,7 +40,7 @@ For example:
 *"Hi Bill, this task you specified 'must be in this sprint' will take an extra 4 days. Our critical deadline will be missed. Is that OK?"*
 4. **Exception #3 - A Developer can Override
 **A client may request a small feature (e.g. changing the sort order of a combo-box). This work can go in this sprint as long as the task is small (less than 1/2 hour) and the sprint is under budget. 
-If the work is over budget then you need to obtain approval for any 'additional item', from both the project manager and the client, before adding the request into the Release Plan. See more about how to [Obtain Approval Additional Items Exceed Estimates](/do-you-email-clients-as-soon-as-you-realise-you-will-overrun-your-original-estimate). 
+If the work is over budget then you need to obtain approval for any 'additional item', from both the project manager and the client, before adding the request into the Release Plan. See more about how to [Obtain Approval Additional Items Exceed Estimates](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=1a59fed4-fb4b-4f47-bee8-acc65c0c4833). 
 To: Evan Lin - SSW
 From: Alan Ha - FinaMetrica 
 Subject: Client List for Administrators
