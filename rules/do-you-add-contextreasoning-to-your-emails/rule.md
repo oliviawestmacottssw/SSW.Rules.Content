@@ -11,4 +11,7 @@ authors:
 
 ---
 
- When sending an email it is important to give context and reasoning.<br> ![Bad - no context or reasoning](/PublishingImages/BadContextReasoning.GIF) Figure : Bad Example - There is no context or reasoning! ![Good - there is context and reasoning](/PublishingImages/GoodContextReasoning.jpg) Figure : Good Example - There is both context and reasoning!
+ When sending an email it is very important to give context and reasoning.<br>
+
+ ![Bad - no context or reasoning](/PublishingImages/BadContextReasoning.GIF)Figure: Bad Example - There is no context or reasoning![Good - there is context and reasoning](/PublishingImages/GoodContextReasoning.jpg)Figure: Good Example - There is both context and reasoning​
+
