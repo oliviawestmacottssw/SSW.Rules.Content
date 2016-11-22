@@ -11,7 +11,6 @@ authors:
 
 ---
 
- When sending an email it is very important to give context and reasoning.<br>
-
+ When sending an email it is very important to give context and reasoning. This way anyone can understand what was done at any time in the future. Never assume that the other person will get it anyway, and always try to give details and make yourself as clear as possible. 
  ![Bad - no context or reasoning](/PublishingImages/BadContextReasoning.GIF)Figure: Bad Example - There is no context or reasoning![Good - there is context and reasoning](/PublishingImages/GoodContextReasoning.jpg)Figure: Good Example - There is both context and reasoning​
 
