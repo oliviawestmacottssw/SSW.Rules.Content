@@ -40,8 +40,22 @@ The feature is built-in to IIS 8
 7. Find the Application Pool CFT is running on (it could be ComplyFirstTime or DefaultAppPool)
 8. In the <br>      **Properties** window, scroll down and select <br>      **startMode**, choose <br>      **AlwaysRunning**![](/PublishingImages/iis7-3.jpg)Figure: Set "start Mode"
 9. On the top right select <br>      **Apply**
-10. There is a setting that has to be enabled in the applicationhost.config file which contains all of the top level configuration settings that IIS uses. This file is located at c:\windows\system32\inetsvr\config on a standard install of IIS. <br>          I recommend making a backup of this file before continuing. You can use any text editor to update this file. Search for and locate the section named &lt;applicationPools&gt;. Within this section, you will see your application listed in this format:
-    &lt;add name=”Application Pool Name” managedRuntimeVersion=”v4.0″ /&gt;​
-11. Save this file and perform an IISReset so that the change is read into the running memory of the IIS server.​
 
- ​  
+
+**
+**
+
+
+### Alternative Instructions for IIS 7.5:
+**
+**
+
+1. ​​​There is a setting that has to be enabled in the applicationhost.config file which contains all of the top level configuration settings that IIS uses. This file is called appp​located at c:\windows\system32\inetsvr\config on a standard install of IIS. <br>          I recommend making a backup of this file before continuing. You can use any text editor to update this file. Search for and locate the section named &lt;applicationPools&gt;. Within this section, you will see your application listed in this format:
+    &lt;add name=”Application Pool Name” managedRuntimeVersion=”v4.0″ /&gt;​
+2. ​​add the Always Running mode by adding ​startMode="AlwaysRunning"​
+    
+    &lt;add name=”Application Pool Name” managedRuntimeVersion=”v4.0″ startMode="AlwaysRunning"
+​ /&gt;​​
+3. Save this file and perform an IISReset so that the change is read into the running memory of the IIS server.​
+
+
