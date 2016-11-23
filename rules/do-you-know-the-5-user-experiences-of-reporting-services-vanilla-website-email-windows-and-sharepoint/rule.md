@@ -21,17 +21,17 @@ authors:
 
 
  
-​![ReportingServicesVanillaExample.jpg](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/ReportingServicesVanillaExample.jpg)Figure: Vanilla user experience
+​![ReportingServicesVanillaExample.jpg](/PublishingImages/ReportingServicesVanillaExample.jpg)Figure: Vanilla user experience
 
-![ReportingServicesWebsiteUExample.jpg](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/ReportingServicesWebsiteUExample.jpg)
+![ReportingServicesWebsiteUExample.jpg](/PublishingImages/ReportingServicesWebsiteUExample.jpg)
 
-​​Figure: Website user experience![ReportingServicesEmailUExample.jpg](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/ReportingServicesEmailUExample.jpg)
+​​Figure: Website user experience![ReportingServicesEmailUExample.jpg](/PublishingImages/ReportingServicesEmailUExample.jpg)
 
 Figure: Email user experience
 
-![](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/ReportingServicesWindowsUExample.jpg)
+![](/PublishingImages/ReportingServicesWindowsUExample.jpg)
 Figure: Windows user experience
 
-![ReportingServicesSharePointReportingUI.jpg](/ReportingSolutions/RulesToBetterReportingSolutions/PublishingImages/ReportingServicesSharePointReportingUI.jpg) 
+![ReportingServicesSharePointReportingUI.jpg](/PublishingImages/ReportingServicesSharePointReportingUI.jpg) 
 Figure: SharePoint user experience
 
