@@ -13,7 +13,7 @@ authors:
 
 ---
 
- When asking for changes to be made to any file like a web page, Word document, PowerPoint slide or code, always include the original version of the content ("X") together with the changes you require ("Y"). This means you have at hand a history of the page or file as it currently stands allowing for convenient future reference and also makes it very clear to the person doing the changes exactly what the new file is meant to look like. 
+ ​When asking for changes to be made to any file like a web page, Word document, PowerPoint slide or code, always include the original version of the content ("X") together with the changes you require ("Y"). This means you have at hand a history of the page or file as it currently stands allowing for convenient future reference and also makes it very clear to the person doing the changes exactly what the new file is meant to look like. 
 
 <br>Make the changes even easier to see and understand by highlighting in red​ what​ you want deleted (only do this on the "From" section)​ and in yellow what you want added/updated (only do this on the "To" section). <br> 
 
@@ -23,7 +23,7 @@ For the Code Auditor web page, please make the green ticks read:
 ​
 ​Scan all your projects for coding errors
 Guarantee Industry best practices
-​Friendly licensing model, bloggers even pay 0$ for the full version!
+​Friendly licensing model, bloggers even pay 0$ for the full version!​
 
 Figure: Bad example - original version of content has not been included in the email 
 
@@ -33,7 +33,7 @@ On the Code Auditor web page, please change              [http://www.ssw.com.au/
 
 From:
 
-     Scan all your projects for coding bugs and errors
+     Scan all your projects for coding              bugs and errors
      Enforce industry best practices​
      Friendly licensing model pay nothing for full version!
 
@@ -44,3 +44,5 @@ To:
      Friendly licensing model, bloggers even pay​ 0$ for the​​​ full version!
 
 Figure: Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed 
+**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI) ​
+
