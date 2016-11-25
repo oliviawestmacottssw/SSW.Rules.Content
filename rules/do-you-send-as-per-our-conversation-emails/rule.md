@@ -40,7 +40,7 @@ Use this approach internally and with clients. As a result, expect to see "as pe
 - **Require a task to be completed **
 - Explain the logic of the decision
 - Include URLs that were referred to
-- Can be referred back to in the future
+- Can be referred back to in the future <br>
 
 
 
@@ -50,8 +50,8 @@ I tried calling you but didn't get through. I am going to offer the client a Sp
 Figure: Good Example - for when you can't reach the person by phone 
 
 
-**Note:** This is most likely to happen after a conversation started **by the client**.
-If **you** are the one making the first contact, also follow: [Do you prepare, then confirm conversations/decisions?](/Pages/PrepareAndConfirm.aspx)
+**Note:** This is most likely to happen after a conversation started     **by the client**.
+If     **you** are the one making the first contact, also follow:     [Do you prepare, then confirm conversations/decisions?](/Pages/PrepareAndConfirm.aspx)
 
 
 
@@ -69,6 +69,8 @@ If **you** are the one making the first contact, also follow: [Do you prepare, t
 1. I couldn't catch you on the phone today.
 2. I just left you a quick voicemail.
 3. I called earlier but couldn't get through.
-4. Hey I​ just called earlier to say...
+4. Hey I​ just called earlier to say...​
 
+
+**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI) ​
 
