@@ -11,26 +11,15 @@ authors:
 
 ---
 
- You may be involved in different tasks simultaneously every day.  The best way to organize your tasks and follow each task individually is grouping your emails by conversation.  By default, Outlook groups the emails by Date. <br> ![](/PublishingImages/GroupByConversationAndDateBad.gif)  
-**<font face="Calibri">Figure&#58; Bad example. Email messages are grouped by Date</font>**
+ You may be involved in different tasks simultaneously every day.  The best way to organize your tasks and follow each task individually is grouping your emails by conversation.  By default, Outlook groups the emails by Date. <br>
+ <dl class="badImage"><dt><img src="/PublishingImages/GroupByConversationAndDateBad.gif" alt=""></dt><dd>Figure&#58; Bad example. Email messages are grouped by Date</dd></dl><dl class="goodImage"><dt><img src="/PublishingImages/GroupByConversationAndDateGood.gif" alt=""></dt><dd>Figure&#58;&#160; Good example.&#160; Email messages are grouped by Conversation</dd></dl>
+Follow these steps to group by conversation:
 
+1. Open Outlook and select the Mail View.
+2. Right click any column and choose the "Customize Current View..." option.
+3. Select the "Group by..." option as displayed in the image.
+<dl class="image"><dt><img width="613" height="352" src="/PublishingImages/GroupByConversationAndDate3.gif" alt=""></dt><dd>Figure&#58;&#160; Steps to group by conversation field</dd></dl>
+4. Select the "Conversation" field from the list.  (Leave empty the remaining groups)
 
-
-
-![](/PublishingImages/GroupByConversationAndDateGood.gif)
-
-<font face="Calibri"><strong><span lang="EN-AU" style="font-family&#58;calibri, sans-serif;font-size&#58;11pt;"><strong>Figure&#58;&#160; Good example.&#160; Email messages are grouped by Conversation</strong></span></strong></font>
-
-
-<br>Follow these steps to group by conversation:
-
-<br>1.  Open Outlook and select the Mail View.
-<br>2.  Right click any column and choose the "Customize Current View..." option.
-<br>3.  Select the "Group by..." option as displayed in the image.
-
-![](/PublishingImages/GroupByConversationAndDate3.gif)
-**Figure:  Steps to group by conversation field**
-
-<br>4. Select the "Conversation" field from the list.  (Leave empty the remaining groups)
-
+**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI) ​
 
