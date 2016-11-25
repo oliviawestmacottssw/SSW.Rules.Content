@@ -69,6 +69,6 @@ If **you** are the one making the first contact, also follow: [Do you prepare, t
 1. I couldn't catch you on the phone today.
 2. I just left you a quick voicemail.
 3. I called earlier but couldn't get through.
-4. Hey i just called earlier to say...
+4. Hey I​ just called earlier to say...
 
 
