@@ -17,6 +17,8 @@ authors:
 Internally, you shouldn't use any or just use a short one (just your​ name or initials)
 
  
-**What about appointments?
-**Appointments going to people outside the organisation should be written and addressed the way you would an email. This includes using your email signature.
+### What about appointments?​
+
+Appointments going to people outside the organisation should be written and addressed the way you would an email. This includes using your email signature.
+**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI)​
 
