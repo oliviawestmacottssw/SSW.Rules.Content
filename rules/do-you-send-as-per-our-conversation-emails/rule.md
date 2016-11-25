@@ -53,3 +53,21 @@ Figure: Good Example - for when you can't reach the person by phone 
 **Note:** This is most likely to happen after a conversation started **by the client**.
 If **you** are the one making the first contact, also follow: [Do you prepare, then confirm conversations/decisions?](/Pages/PrepareAndConfirm.aspx)
 
+
+
+**Note: **​It's easy to fall into the trap of sounding rather robotic if you start every email with "As per our conversation", or "As per the message I just left on your mobile", etc. Here's a list of nice email openers that have the same effect:
+
+"As per our conversation" alternatives:
+
+1. ​Thanks for the chat
+2. Good talking to you
+3. As discussed...
+
+
+"As per the message i left on your mobile" alternatives:
+
+1. I couldn't catch you on the phone today
+2. I just left you a quick voicemail
+3. I called earlier but couldnt get through ​
+
+
