@@ -11,7 +11,8 @@ authors:
 
 ---
 
- Email is a very powerful business tool. The main problem, however, is that for most people it is out of control - emails build up until they are impossible to manage. To help minimize mailbox clutter, try these tips: ​ 
+ Email is a very powerful business tool. The main problem, however, is that for most people it is out of control - emails build up until they are impossible to manage. To help minimize mailbox clutter, try these tips: ​
+ 
 - Send emails that contain clear tasks, not banter
 - If the email you receive is not clear, call up the person who sent it and ask for more information. Too many people reply to the unclear email asking for clarification, which wastes time and does not guarantee a response.
 - If you speak to them, follow this rule: [Do you Seek Clarification Via the Telephone First](/Pages/SeekClarificationViaTelephoneFirst.aspx)
@@ -26,5 +27,5 @@ It is better that email is not used as communication, but for many instances, if
 
 Make sure to number your tasks, if there is more than one, as per "[Do you number small tasks related to 1 topic](/Pages/NumberSmallTasks.aspx)?"
 
-**VIDEO** - [Top 10 Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI)​
+**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI)​
 
