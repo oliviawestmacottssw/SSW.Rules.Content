@@ -63,10 +63,11 @@ If **you** are the one making the first contact, also follow: [Do you prepare, t
 3. As discussed...
 
 
-"As per the message i left on your mobile" alternatives:
+"As per the message I​ left on your mobile" alternatives:
 
-1. I couldn't catch you on the phone today
-2. I just left you a quick voicemail
-3. I called earlier but couldnt get through ​
+1. I couldn't catch you on the phone today.
+2. I just left you a quick voicemail.
+3. I called earlier but couldn't get through.
+4. Hey i just called earlier to say...
 
 
