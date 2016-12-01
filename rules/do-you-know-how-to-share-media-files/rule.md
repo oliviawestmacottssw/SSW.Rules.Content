@@ -18,9 +18,9 @@ It is important to be able to easily share files between workers. It is also imp
 
 Ideally SharePoint would be used for all content storage but occasionally it is not ideal.
   ![](/PublishingImages/share-media-files-1.jpg)  Figure: Bad Example - SharePoint Explorer View requires waiting every time you save a file while it syncs back to the server ![](/PublishingImages/share-media-files-2.jpg)  Figure: Bad Example - OneDrive (was SkyDrive) Pro enables offline access and saves locally and then syncs back to the SharePoint server asynchronously, but requires the whole document library to be brought to the local computer, even if you only need one folder in the document library
-**Sug gestion for OneDrive (was SkyDrive) Team:** Enable OneDrive to have selective sync on folders within a document library.
+**Suggestion for OneDrive (was SkyDrive) Team #1 : **Enable OneDrive to have selective sync on folders within a document library.
  ![](/PublishingImages/share-media-files-3.jpg)  Figure: Bad Example - Files shared via SkyDrive are hard to back up centrally. When you share folders through OneDrive (was SkyDrive) they are only made available through the web interface
-**Suggestion to OneDrive (was SkyDrive) Team:**  When folders are shared with another OneDrive user, the shared folder should appear in the recipients OneDrive folder. This allows it to be backed up by a central user at HQ.
+**Suggestion to OneDrive (was SkyDrive) Team #2: ** When folders are shared with another OneDrive user, the shared folder should appear in the recipients OneDrive folder. This allows it to be backed up by a central user at HQ.
  ![](/PublishingImages/share-media-files-4.jpg)  Figure: Good Example -  DropBox allows offline access. When you share a DropBox folder with another Dropbox user, the shared folder appears in the DropBox folder on their machine with a different icon to indicate sharing
 Having the folder on the remote machine allows remote backup. All folders used for SSW Work must be shared with the SSW Dropbox Account.
 The SSW sys-admin is responsible for backing up the SSW Dropbox account daily.
