@@ -35,8 +35,9 @@ Read more about     [implementing Microsoft Lync](http&#58;//www.ssw.com.au/ssw/
 
 ### SkypePOP​​ Setup​​
 
-​​![SkypePOPSetup.jpg](/SiteAssets/do-you-integrate-crm-with-microsoft-lync/SkypePOPSetupConnection.jpg)
-​Figure: Good example - use the discovery service of your CRM
+
+​​​![2016-12-02_15-14-23.jpg](/SiteAssets/do-you-integrate-crm-with-microsoft-lync/2016-12-02_15-14-23.jpg)
+​Figure: Good example - use the discovery service of your CRM (connect using &lt;yourname&gt;@&lt;yourdomain&gt; as a username)
 
 
 
