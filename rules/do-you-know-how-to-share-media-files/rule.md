@@ -14,7 +14,7 @@ authors:
 ---
 
  
-It is important to be able to easily share files between workers. It is also important that all content is backed up centrally in case an employee is unavailable.
+​​ It is important to be able to easily share files between workers. It is also important that all content is backed up centrally in case an employee is unavailable.
 
 Ideally SharePoint would be used for all content storage but occasionally it is not ideal.
   ![](/PublishingImages/share-media-files-1.jpg)  Figure: Bad Example - SharePoint Explorer View requires waiting every time you save a file while it syncs back to the server ![](/PublishingImages/share-media-files-2.jpg)  Figure: Bad Example - OneDrive (was SkyDrive) Pro enables offline access and saves locally and then syncs back to the SharePoint server asynchronously, but requires the whole document library to be brought to the local computer, even if you only need one folder in the document library
