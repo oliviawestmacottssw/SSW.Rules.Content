@@ -15,7 +15,7 @@ authors:
 ​When it comes to the easiest and quickest<br>way to share files between designers, it should all be done in Dropbox.
  ![](/PublishingImages/Designer-Source-Control-TFS.png) Figure: Bad example – TFS takes too long to set up and too slow to use
  ![](/PublishingImages/Designer-Source-Control-SkyDrive.png) Figure: Bad Example – What seemed like a great idea at the time, SharePoint and SkyDrive proved to be plagued with slow response times, upload errors and unresponsiveness
- ![](/PublishingImages/Designer-Source-Control-DropBox.png) Figure: Good Example – Dropbox… the way file sharing is meant to be
+ ![](/PublishingImages/Designer-Source-Control-DropBox.png)  Figure: Good Example – Dropbox... the way file sharing is meant to be
 
 ### So why do we prefer Dropbox over OneDrive?
 
@@ -30,7 +30,7 @@ authors:
  ![](/PublishingImages/Designer-Source-Control-SkyDriveUploadPaused.png) Figure: OneDrive (was SkyDrive) has my last two files just sitting as "upload paused" – these files are perfectly ok to be uploaded but it refuses to do so, even when I ask it to
 4. ** OneDrive (was SkyDrive) has strange errors that cannot be resolved. **    For example, in the screenshot below, I have been getting "Upload pending" when I have repeatedly tried to upload the file. I have no idea what OneDrive is doing. The file is checked out in SharePoint, it's a little big but typical of designer files. And yet, OneDrive sits there, doing nothing and throwing me popup messages about the status being updated.
     Dropbox just works.
-![](/PublishingImages/Designer-Source-Control-SkyDriveLoop.png) Figure: In OneDrive (was SkyDrive), my files are stuck in a "Upload pending" loop. I do not know why, as the files have been checked out and are not particularly large
+ ![](/PublishingImages/Designer-Source-Control-SkyDriveLoop.png) Figure: In OneDrive (was SkyDrive), my files are stuck in a "Upload pending" loop. I do not know why, as the files have been checked out and are not particularly large
 5. ** OneDrive (was SkyDrive) has problems uploading files. **    
 
     - In the first box, it decided to upload my file as a new file instead of saving the old one as a version
