@@ -17,7 +17,7 @@ Every time you decide that a process should be documented, it’s important to d
 Spending 5 minutes Googling can save you a lot of clean up and maintenance later.
  
  
-​ 
+​​​​ 
 Figure: You should think twice before adding content. As a great Australian Kerry Packer once said: "If you want to pass a new law, why don't you do it only when you've repealed an old one?"
 ​​
 
