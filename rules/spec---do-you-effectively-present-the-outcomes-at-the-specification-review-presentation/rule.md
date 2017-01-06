@@ -37,8 +37,9 @@ The Spec Review presentation should be scheduled by the Consultant or Account Ma
 - An email (if they want to minimize documentation time), or
 - A Word document (if they need to get approval from someone higher up), or
 - A PowerPoint presentation (if they are the decision maker, and they don't want a doc)
-- A PowerPoint presentation with narrations, exported to a video (if needed)
-  ![3-01-2014 10-13-04 PM.png](/PublishingImages/3-01-2014%2010-13-04%20PM.png)​
+- A PowerPoint presentation with narrations, **exported to a video** (if needed)​​​. Make sure to name your video according to the rules on [Ho​w to Include Version Numbers in Your File​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9998838d-6df2-4f96-94e3-7c3bd5697acd), and add a version number to it by following the rules on [How to Use a Version Number on Your Videos](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d2f51289-6130-4f59-864f-7b41329000cd)
+.​ Publish your video to YouTube afterward so you can easily share it with ​colleagues and clients.​​
+  ![3-01-2014 10-13-04 PM.png](/PublishingImages/3-01-2014%2010-13-04%20PM.png)​ **Figure: Create a Video out of your PowerPoint presentation**
 
  Good Example: FireBootCamp - Scrum Commitments Specification Video Good Example: FireBootCamp - SugarLearning Specification Video Good Example: FireBootCamp - TimePro Invoicing Specification Video Good Example: FireBootCamp - Code Auditor Specification Video
 Once again, the presentation needs to pass a '[test please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28 "Test Please")' from another senior employee before the meeting takes place.
