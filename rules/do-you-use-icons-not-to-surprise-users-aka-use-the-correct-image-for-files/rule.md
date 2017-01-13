@@ -12,7 +12,7 @@ authors:
 ---
 
  
-When a user clicks on a hyperlink they expect to open an html file. If you click on a hyperlink (but it is actually a .doc file) you wait and wait while it takes forever to instantiate an instance of Microsoft Word in the background.
+When a user clicks on a hyperlink they expect to open an HTML​ file. If you click on a hyperlink (but it is actually a .doc file) you wait and wait while it takes forever to instantiate an instance of Microsoft Word in the background.
  
 Don't surprise users! Use the following icons:
 
@@ -40,4 +40,6 @@ Don't surprise users! Use the following icons:
  ![Image good link](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/GoogleIcons.gif) Figure: FYI there are the same images used by Google at [GoogleDesktopSideBar.htm](http&#58;//desktop.google.com/features.html)  
   ![Image bad link](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/IconImageBad.gif) Figure: Bad Example - The user would expect all these hyperlinks to work the same way
   ![Image good link](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/IconImageGood.gif) Figure: Good Example - The pdf icon (before a hyperlink) indicates it is not a web page
-  We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.  
+ 
+We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.
+
