@@ -22,7 +22,7 @@ In the course of work everyone encounters bugs or problems. They can be dealt wi
 The best solution is to use a combination of 2 and 3.
 
 - If it will take less 15 mins to fix, do it straight away.
-- If it will take more time, email the problem to the appropriate person (even if it's a 3rd party product).
+- If it will take more time, add the problem to the product backlog and email a link to the appropriate person (even if it’s a third party product).
 
 
 This approach raises the question of priorities. If you hit too many hurdles you continually get diverted from the main task: for example when fixing the Client form you encounter a problem with the Client Contact form which breaks the Products form etc. (This can be described as the "Tree Approach" as opposed to the "Straight through to the Goal approach".)
