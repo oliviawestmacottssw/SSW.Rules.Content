@@ -12,7 +12,7 @@ authors:
 ---
 
  
-The first meeting is on you. While you have 1 - 2 hours to provide the prospective                     client with enough information to decide whether to pursue a [Spec Review](/rules), the focus                     of the initial meeting is the client, their problem, and how you might build                     a solution.
+The first meeting is on you. While you have 1 - 2 hours to provide the prospective                     client with enough information to decide whether to pursue a [Spec Review](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=8d7b1fab-5923-4e07-8da2-ba906053c056), the focus                     of the initial meeting is the client, their problem, and how you might build                     a solution.
 
 The best way to action this is to ask questions, listen and take notes:                     Clients appreciate someone genuinely considering their needs. A brainstorming session                     is a fantastic way to give and receive feedback immediately. Even if the client                     decides not to use you, you should leave them with useful information and a positive                     impression.
  
@@ -25,7 +25,7 @@ The purpose of the initial meeting is to:
 - Listen - Understand the 'pain level' of the client
 - Listen - Determine whether scope, time, quality or cost has the highest priority for the<br>                        client and what level of project management they require. E.g. if a project must<br>                        be delivered by June 30, a high level of management will be required to ensure enough<br>                        resources are supplied to achieve this
 - Listen - Understand as much as you can about the processes/business rules the system has<br>                        to manage. Every level of detail you can correctly comprehend and confirm back builds<br>                        your credibility as a good communicator and supplier!
-- Listen - Assess the overall scope of the project, i.e. is this is 'small', 'medium' or 'large'<br>                        project. The attending Architect should start guessing how many man months this project<br>                        might be. This information will help you assess how long the spec review should be.<br>                        These initial thoughts should not be shared with the client at this stage as they<br>                        are most likely incorrect.
+- Listen - Assess the overall scope of the project, i.e. is this a ​'small', 'medium' or 'large'<br>                        project. The attending Architect should start guessing how many man months this project<br>                        might be. This information will help you assess how long the spec review should be.<br>                        These initial thoughts should not be shared with the client at this stage as they<br>                        are most likely incorrect.
 - Listen - Determine the client's budget and who controls that budget. E.g. Are you dealing<br>                        with the business owner or a line manager in a corporation? Do they have a fixed<br>                        amount to spend? Do they have a time period to spend it in?​
 - Listen - Find out if this is the sort of project you can do and want to do
 - Listen - Qualify the client to make sure they can afford what they want
