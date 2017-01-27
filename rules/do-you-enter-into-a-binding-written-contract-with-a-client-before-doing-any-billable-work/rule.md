@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Before you engage in any billable work, the two parties must enter into a binding                     written contract. This ensures contractual obligations are clear on both sides,                     mitigating the potential for disagreements down the line and protecting both you                   and the client in the event of a disagreement. Binding contracts can take the form                     of Terms and Conditions, Emails and Instant Messenger and or even verbal                     agreements.
+​Before you engage in any billable work, the two parties must enter into a binding                     written contract. This ensures contractual obligations are clear on both sides,                     mitigating the potential for disagreements down the line and protecting both you                   and the client in the event of a disagreement. Binding contracts can take the form                     of Terms and Conditions, Emails and Instant Messenger or even verbal                     agreements.
  
 - **Terms and Conditions**    A signed copy of [standard Terms and Conditions](http&#58;//www.ssw.com.au/SSW/Standards/Forms/ConsultingOrderTermsConditions.aspx) are mandatory before billable work commences                         as they explain the terms on which you work and the rates which will be billed.                         Some clients may also have their own set of Terms and Conditions which you should consider signing if agreeable. It is also common for clients to ask you to                         sign a Non-Disclosure Agreement (NDA) which you should always consider.
     Long term clients should re-sign the Terms and Conditions every couple of years. Signed Terms                         and Conditions should be given to the Accounts department for record keeping.
@@ -22,8 +22,8 @@ Before you engage in any billable work, the two parties must enter into a bind
 ​Electronic communication such as email and Instant Messenger are extremely useful                         in getting decisions confirmed quickly but it is important to follow strict standards                         to ensure any agreements are clear to everyone. You should not generally rely upon                         verbal agreements, always confirming anything agreed verbally in writing. The following                         are important rules to follow:
 
 
-- [Do you<br>                    prepare then confirm conversations/decisions?](/do-you-prepare-then-confirm-conversations-decisions)
-- [Do you send<br>                    yourself emails?](/dones-do-you-send-yourself-emails)
+- [Do you<br>                    prepare then confirm conversations/decisions?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2b86d144-7041-41f3-92aa-d7d59b88149a)
+- [Do you send<br>                    yourself emails?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=5c16d531-007d-49ef-8acc-b26596e13e84)
 - [Do you confirm important IM chats by email](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInstantMessenger.aspx#ImportantChatsEmail)
 
 
