@@ -34,7 +34,7 @@ To make this work use the following Business Rules:
 The flip side of the expression also needs to be set where Customer Type doesn’t equal Other to hide the ‘Customer Type Other’ field (you could also optionally clear this field too)
 <dl class="image"><dt> 
       <img src="/PublishingImages/crm-automated-forms-3.png" alt=""> 
-   </dt><dd>igure&#58; Hide the ‘Customer Type Other’ field when Customer Type doesn’t equal Other</dd></dl>
+   </dt><dd>Figure​&#58; Hide the ‘Customer Type Other’ field when Customer Type doesn’t equal Other<br></dd></dl>
 Finally the last step is to     **Activate** the Business Rules. To activate click the activate button on the top right of the tool bar.
 
 Now the form will look like this:
