@@ -13,26 +13,27 @@ authors:
 
 ---
 
- ​​​When you create a new MVC project in Visual Studio it is important to include the right packages from the start. This makes the project more manageable and you become more efficient in producing your final result. 
+ ​​​When you create a new MVC project in Visual Studio it is important to include the right packages from the start. This makes the project more manageable and you become more efficient in producing your final result.
+ 
 ​If you add old, obsolete or incorrect NuGet packages, the project will suffer and you might have decreased performance or scope creep as new requirements are discovered.
 
 Avoid old technologies such as:
 
-- ​​MVC Web Forms
+- MVC W​​​​eb Forms
 - KnockoutJS
 
-​When you create a project you should be adding the following NuGet Packages:
+When ​you create a project you should be adding the following NuGet Packages:
 
 - SSW.DataOnion
-- SSW.HealthCheck
+- SSW.HealthCheck​
 - ​​AutoFac
-- Serilog
+- Seril​og​
 
 
 You should also add the following NPM  packages:
 
-- Angular JS
-- Bootstrap
+- ​Angular JS
+- ​Bootstrap
 - Gulp
 
 
@@ -41,5 +42,5 @@ You should also add the following NPM  packages:
 ![Bower_v_NPM.png](/SiteAssets/do-you-know-which-packages-to-add-to-your-new-mvc-project/Bower_v_NPM.png)
 Figure: NPM Popularity has been increasing
 
-Part of [SugarLearning Developer Induction](https&#58;//sugarlearning.com/companies/SSW/modules/5099/induction-day-3-developer-induction).
+Part of     [SugarLearning Developer Induction](https&#58;//sugarlearning.com/companies/SSW/modules/5099/induction-day-3-developer-induction).
 
