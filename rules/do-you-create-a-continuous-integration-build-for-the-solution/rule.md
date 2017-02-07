@@ -10,7 +10,7 @@ authors:
 ---
 
  
-(Before you configure continuous deployment) Y ou need to ensure that the code that you have on the server compiles. A successful CI build without deployment lets you know the solution will compile.
+​(Before you configure continuous deployment) You need to ensure that the code that you have on the server compiles. A successful CI build without deployment lets you know the solution will compile.
  <dl class="image"><dt>
       <img src="/PublishingImages/ci-build-1.jpg" alt="">
    </dt><dd>Figure&#58; The Build definition name should include the project name. The reason for this is that builds for all solutions are placed in the same folder, and including the build name makes the Build Drop folder organised</dd></dl><dl class="image"><dt>
