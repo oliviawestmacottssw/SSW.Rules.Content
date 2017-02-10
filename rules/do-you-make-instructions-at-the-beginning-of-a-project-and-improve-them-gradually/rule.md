@@ -15,7 +15,11 @@ authors:
 
  Instructions are very important when maintaining a project. With this document, people new to it can take over it quickly. This document should be created at the beginning of a project and make sure it's updated gradually. ​​
  
-We recommend that you add a document as a solution item and name it '\_Instructions.docx'.
+We recommend:
+
+- Add a document as a solution item and name it '\_Instructions.docx'
+- Add a readme.md to your solution (Use [this​](https&#58;//www.visualstudio.com/en-us/docs/reference/markdown-guidance) as a guidance for markdown)
+
 
 Tip: Microsoft Word documents are preferred over .txt files because images and formatting are important
 
