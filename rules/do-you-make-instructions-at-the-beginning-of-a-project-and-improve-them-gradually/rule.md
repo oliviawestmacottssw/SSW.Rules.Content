@@ -13,7 +13,10 @@ authors:
 
 ---
 
- Instructions are very important when maintaining a project. With this document, people new to it can take over it quickly. This document should be created at the beginning of a project and make sure it's updated gradually. ​​
+ ​Instructions are very important when maintaining a project. With this document, people new to it can take over it quickly. This document should be created at the beginning of a project and make sure it's updated gradually. ​​
+
+
+
  
 We recommend:
 
