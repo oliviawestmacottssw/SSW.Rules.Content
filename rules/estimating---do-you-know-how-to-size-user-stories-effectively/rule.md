@@ -16,7 +16,7 @@ authors:
 ---
 
  
-​A team knows how many stories they can commit to my measuring their velocity. The Team estimates the highest priority stories in the Product Backlog in Story Points. ​It is very important for teams to estimate tasks effectively. There are several methods for estimating:
+​​A team knows how many stories they can commit to by measuring their velocity. The Team estimates the highest priority stories in the Product Backlog in Story Points. ​It is very important for teams to estimate tasks effectively. There are several methods for estimating:
 
 - Shirt Sizes
 - Fibonacci Extended (1-100)
