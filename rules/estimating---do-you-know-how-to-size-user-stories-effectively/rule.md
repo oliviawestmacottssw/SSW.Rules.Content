@@ -16,7 +16,7 @@ authors:
 ---
 
  
-​A team knows how many stories they can commit to my measuring their velocity.  The Team estimates the highest priority stories in the Product Backlog in Story Points. ​It is very important for teams to estimate tasks effectively.  There are several methods for estimating:
+​A team knows how many stories they can commit to my measuring their velocity. The Team estimates the highest priority stories in the Product Backlog in Story Points. ​It is very important for teams to estimate tasks effectively. There are several methods for estimating:
 
 - Shirt Sizes
 - Fibonacci Extended (1-100)
@@ -52,24 +52,21 @@ Planning Poker is a very effective Product Backlog estimation technique and the 
 Mike Cohn introduced changes to the original 7 cards, by changing the 21 to 20 and adding 40 and 100 to indicate very large user stories called Epics.
 
 Ken Schwaber (the father of Scrum) says in his Scrum Certification course, that he is not a fan of the extra cards and says he prefers teams keep to the original 7 cards.
-  ![](/PublishingImages/size-stories-good-example.jpg) Figure: OK example - Estimation using Planning Poker with only small numbers
+ ![](/PublishingImages/size-stories-good-example.jpg) Figure: OK example - Estimation using Planning Poker with only small numbers
 ### Doubling
 
-Estimating using doubling numbers makes relative sizing simple. An 8 point PBI should be about twice the size as a 4-point PBI. This method also simplifies PBI swapping where a PBI is replaced with PBIs totalling the same number of points.
+Estimating using doubling numbers makes relative sizing simple. An 8 point PBI should be about twice the size as a 4-point PBI. This method also simplifies PBI swapping where a PBI is replaced with PBIs totaling the same number of points.
 
 It has one other advantage over the Fibonacci sequence, it is easier for non-techies because the numbers aren't whacky and the name isn't bizarre.
 
-
-| **Estimate ** |  |
-| --- | --- |
-| 1 |  |
-| 2 |  |
-| 4 |  |
-| 8 |  |
-| 16 |  |
-| 32 |  |
-| 64 |  |
-
+**Estimate**
+1
+2
+4
+8
+16
+32
+64​
 Figure: Good example -Doubling simplifies relative sizing
 ### Thrown
 
@@ -78,11 +75,12 @@ Another method of estimating is the "Thrown method" as described Martin Fowler. 
 This is particularly useful if you don't have Planning Poker cards.  Instead of Fibonacci numbers, estimates are from 1 to 5.  It's nice and simple, and you only need the fingers on your hand.
 
 The action is done in the same method as the game 'Rock, Paper, Scissors'. The options the developer can estimate is 1,2,3,4,5
- ![](/PublishingImages/fist-method.jpg) Figure: User Story estimates using the "Thr own method"
-### Other Tips:
+ ![](/PublishingImages/fist-method.jpg) Figure: User Story estimates using the "Thrown method"
+### Other Tips
+
 
 **#1 Don't Shout Out**
-It will just influence other peoples votes.
+It will just influence other people's votes.
 
 **#2 Guidelines for Estimating User Stories (aka Anchoring)**
 Every team is different, but you can use the following guidelines for sizing User Stories.
@@ -90,14 +88,13 @@ Every team is different, but you can use the following guidelines for sizing Use
 
 > | **Estimate Value** | **Example User Story** |
 > | --- | --- |
-> | 1 | A change to a m |
-> | essagebox |
+> | 1 | A change to a message box<br> |
 > | 2 | - |
 > | 3 | A timeboxed task for 1 day x 1 guy |
 > | 5 | A timeboxed task of 1 day x 2 guys |
 > | 8 | - |
 > | 13 | - |
-> | 21 | More than a month with a couple of guys.<br>TIP: Don't include these in a sprint because they are too risky - ask for them to be broken down. |
+> | 21 | More than a month with a couple of guys.<br>**Tip: **Don't include these in a sprint because they are too risky - ask for them to be broken down. |
 > 
 > Figure: Good example - Example User Story estimates
 
@@ -118,8 +115,8 @@ If you do find a very large User Story, consider using a Spike (aka. an investig
 
 As some stories can be obviously very small, we allow any member of the Team to propose that a Story is 0.5 points and no further discussion is required.  If there is no objection (i.e. immediate consensus is reached) then the story is given 0.5 points and the Team move on to the next one.  This is the only way a story can have only 0.5 points and always indicates that is was a quick decision and therefore may have some risk attached.
 
+### Related rule
 
- ​​Related rule
 - [Do you estimate “Business Value”?](/Pages/Estimate-Business-Value.aspx)
 
 
