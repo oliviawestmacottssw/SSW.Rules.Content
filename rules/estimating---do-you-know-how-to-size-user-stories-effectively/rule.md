@@ -71,14 +71,14 @@ It has one other advantage over the Fibonacci sequence, it is easier for non-tec
 | 64 |  |
 
 Figure: Good example -Doubling simplifies relative sizing
-### Thown
+### Thrown
 
 Another method of estimating is the "Thrown method" as described Martin Fowler. [http://martinfowler.com/bliki/ThrownEstimate.html](http&#58;//martinfowler.com/bliki/ThrownEstimate.html)
 
 This is particularly useful if you don't have Planning Poker cards.  Instead of Fibonacci numbers, estimates are from 1 to 5.  It's nice and simple, and you only need the fingers on your hand.
 
 The action is done in the same method as the game 'Rock, Paper, Scissors'. The options the developer can estimate is 1,2,3,4,5
- ![](/PublishingImages/fist-method.jpg) Figure: User Story estimates using the "Thown method"
+ ![](/PublishingImages/fist-method.jpg) Figure: User Story estimates using the "Thr own method"
 ### Other Tips:
 
 **#1 Don't Shout Out**
@@ -90,7 +90,8 @@ Every team is different, but you can use the following guidelines for sizing Use
 
 > | **Estimate Value** | **Example User Story** |
 > | --- | --- |
-> | 1 | A change to a messagebox |
+> | 1 | A change to a m |
+> | essagebox |
 > | 2 | - |
 > | 3 | A timeboxed task for 1 day x 1 guy |
 > | 5 | A timeboxed task of 1 day x 2 guys |
@@ -99,6 +100,9 @@ Every team is different, but you can use the following guidelines for sizing Use
 > | 21 | More than a month with a couple of guys.<br>TIP: Don't include these in a sprint because they are too risky - ask for them to be broken down. |
 > 
 > Figure: Good example - Example User Story estimates
+
+
+
 
 
 **#3 Using a Chat Program**
