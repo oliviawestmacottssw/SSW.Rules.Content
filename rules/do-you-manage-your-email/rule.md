@@ -9,8 +9,9 @@ authors:
 
 ---
 
-
-Having hundreds of emails in your inbox is not uncommon. But it's very uncommon to find people who successfully manage their inbox. Instead they let their inbox become a great black hole with no business value. Email has a bad name in business primarily because people don't treat email correctly. Email can be a vital tool to your company, and your software development project, but it has to be managed. Here's a [series of rules](/rules-to-better-email) that govern how we use our Inbox.
-
-We also use [SSW Exchange Reporter](http&#58;//www.ssw.com.au/ssw/ExchangeReporter/Default.aspx).
+ <br>  Often emails are rambling and unorganized, forcing the reader to wade through blocks of totally useless text. When it comes to written communication, less is more. Having hundreds of emails in your Inbox is not uncommon. But it's very uncommon to find people who successfully manage their Inbox. Instead they let their Inbox become a great black hole with no business value. Email has a bad name in business primarily because people don't treat email correctly.<br>
+ 
+​Email can be a vital tool to your company and your software development project, but it has to be managed. Email should be an accurate record of requests, conversations, and decisions. Emails are legal documents and should be treated with the same care as any other correspondence with clients or employees. Email is also in an extremely effective task tracking tool, and requests made by email should be treated with the same seriousness as Project Plans and other directives, for email can be seen as the protocol between the sender and receiver.
+​
+Please read [Rules to Better Email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9775587d-d391-4b7d-8654-96953eeb9cfc) to show how you can more efficiently use email.
 
