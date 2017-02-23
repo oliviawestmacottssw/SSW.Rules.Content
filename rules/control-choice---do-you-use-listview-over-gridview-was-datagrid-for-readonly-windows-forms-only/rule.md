@@ -16,45 +16,23 @@ Yes a ListView looks nicer than a DataGrid, but a Datagrid is better because it 
 - Sort data - always useful when there are more than about 20 rows
 - DataBind - always saves heaps of code
 
-   ​
+   ​ 
 So our old rule was to always use the ugly DataGrid (although we were never happy about that).
-![DataGrid](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/UsingDataGridWhenNotNeeded.gif)Figure: Bad Example - The DataGrid is ugly![Sortable ListView](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/SortableListView.gif)Figure: Good Example - A beautiful ListView - a nicer look over the datagrid
+ ![DataGrid](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/UsingDataGridWhenNotNeeded.gif) Figure: Bad Example - The DataGrid is ugly ![Sortable ListView](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/SortableListView.gif) Figure: Good Example - A beautiful ListView - a nicer look over the datagrid
 So the listview looks nicer? If you are not convinced here is another one:
-![Datagrid and Listview](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DatagridVSListview.gif)Figure: Good Example - The appearance of DataGrid and ListView
+ ![Datagrid and Listview](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DatagridVSListview.gif) Figure: Good Example - The appearance of DataGrid and ListView
 But another issue is how much code to write... For ListView you will need to write a bit of code to fill the list view...
 
-
-```
-this.listView1.Items.Clear(); 
-    // stops drawing to speed up the process, draw right at the end. 
-    this.listView1.BeginUpdate(); 
-    foreach(DataRow dr in this.dataSet11.Tables[0].Rows)
-    { 
-       ListViewItem lvi = new ListViewItem(new string[] {dr[0].ToString(),dr[1].ToString(),dr[2].ToString()});
-       lvi.Tag = dr; this.listView1.Items.Add(lvi); 
-    } 
-    this.listView1.EndUpdate();
-```
-
+this.listView1.Items.Clear(); // stops drawing to speed up the process, draw right at the end. this.listView1.BeginUpdate(); foreach(DataRow dr in this.dataSet11.Tables[0].Rows) { ListViewItem lvi = new ListViewItem(new string[] {dr[0].ToString(),dr[1].ToString(),dr[2].ToString()}); lvi.Tag = dr; this.listView1.Items.Add(lvi); } this.listView1.EndUpdate();
 Figure: 8 lines of code to fill a ListView
 But the datagrid is nicer to code... this is because it comes with data binding ability.
 
-
-```
-// bind it in the designer first. 
-    this.oleDbDataAdapter1.Fill(this.dataSet11);
-```
-
+// bind it in the designer first. this.oleDbDataAdapter1.Fill(this.dataSet11);
 Figure: One line of code to fill a DataGrid
 But the SSW ListView (included in the [.NET Toolkit](http&#58;//www.ssw.com.au/ssw/NETToolkit/)) is nicer to code with as it comes with data binding ability.
 
-
-```
-// bind it in the designer first. 
-    this.oleDbDataAdapter1.Fill(this.dataSet11);
-```
-
-Figure: One line of code to fill the SSW ListView
+// bind it in the designer first. this.oleDbDataAdapter1.Fill(this.dataSet11);
+ Figure: One line of code to fill the SSW ListView
 So what is this SSW ListView?
 
 It is an inherited control that how we implemented the ListView to give us what MS left out.
@@ -65,10 +43,10 @@ It is an inherited control that how we implemented the ListView to give us what 
 
 So now the rules are: 
 Always use the SSW ListView. 
-Exception: Use the DataGrid when: 
+Exception: Use the DataGrid when:
 
 - When not read only - i.e. users will be editing data directly from the cells.
-- You need more than 1 column with checkboxes, or the column with checkboxes can't be the first column. E.g.: ![DataGrid](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DataGrid2CheckBoxes.gif)Figure: One place when you choose a DataGrid over a ListView is when you have 2 checkbox fields
+- You need more than 1 column with checkboxes, or the column with checkboxes can't be the first column. E.g.:  ![DataGrid](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DataGrid2CheckBoxes.gif) Figure: One place when you choose a DataGrid over a ListView is when you have 2 checkbox fields
 
 
 So in summary, if you don't want users to edit the data directly from the cell, and only the first column need checkboxes, then the ListView is always the better choice.
