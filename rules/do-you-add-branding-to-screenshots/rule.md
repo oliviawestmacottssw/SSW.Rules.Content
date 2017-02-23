@@ -14,13 +14,14 @@ authors:
 ---
 
  
-You can communicate better by using screenshots with balloons instead of only text. [Read the benefits of using screenshots here](/Pages/HowToUseBalloons.aspx).
+​You can communicate better by using screenshots with balloons instead of only text. [Read the benefits of using screenshots here](/Pages/HowToUseBalloons.aspx).
 
-We recommend you define a standard style for your balloons by changing the default colors and shape of balloons according to your branding.
+We recommend you define a standard style for your balloons by changing the default colours and shape of balloons according to your branding.
 
 ### More Information on SSW Branding
 
- ![snagit-bad-branding.jpg](/PublishingImages/snagit-bad-branding.jpg) Figure: Bad example - The balloon doesn't match our company colors![snagit-good-branding.jpg](/PublishingImages/snagit-good-branding.jpg)
+ ![snagit-bad-branding.jpg](/PublishingImages/snagit-bad-branding.jpg) Figure: Bad example - The balloon doesn't match our company colours
+![snagit-good-branding.jpg](/PublishingImages/snagit-good-branding.jpg)
 Figure: Good example - Balloon follows SSW branding
  
 To use SSW branding on your next screenshots, you should have the latest version of Snagit (which is the leading screen capture utility) and import the theme found here: [\\fileserver\DataSSW\DataSSWEmployees\Templates\SSW.snagtheme](file&#58;//fileserver/DataSSW/DataSSWEmployees/Templates/SSW.snagtheme).
@@ -28,6 +29,7 @@ To use SSW branding on your next screenshots, you should have the latest version
 Instructions to create and use Snagit themes can be found at [Quick Style Themes Tutorial](https&#58;//www.techsmith.com/tutorial-snagit-13-quick-style-themes.html?utm_source=product&amp;utm_medium=snagit&amp;utm_campaign=sw13).
 
 ### Go Beyond with Snagit Presets
+
 
 
 We use a 1px grey border. Presets can't be defined on the theme. Everyone has to add them on their own Snagit tools:
@@ -38,7 +40,7 @@ We use a 1px grey border. Presets can't be defined on the theme. Everyone has t
 4. Click on your new quick effect once to add the 1px grey border (be sure to **Select All **before copying, because Snagit has got problems with the selecting there…you could miss the added border)
 
 
-PS. You don’t have to do step 1, you can just add a border from **Effects | Borders** or only add it to the quick effects and access via **Effects | Quick Effects**. For the sake of simplicity and ease of access it’s easier to have this in the toolbar.
- ![snagit-presets.png](/PublishingImages/snagit-presets.png) Figure: Adding Presets to your Snagi t
+PS. You don’t have to do step 1, you can just add a border from **Effects | Border** or only add it to the quick effects and access via **Effects | Quick Effects**. For the sake of simplicity and ease of access it’s easier to have this in the toolbar.
+ ![snagit-presets.png](/PublishingImages/snagit-presets.png) Figure: Adding Presets to your Snagit​
 
 
