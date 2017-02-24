@@ -13,16 +13,16 @@ authors:
 
 ---
 
- You can communicate better by using screenshots with balloons and other visual elements (arrows, shapes, and highlights) instead of only text. [Read the benefits of using screenshots here](/Pages/HowToUseBalloons.aspx).
-
-We recommend you define a standard style for your​ visual elements by changing the default colours and shapes according to your branding.
+ 
+You can communicate better by using screenshots with balloons and other visual elements (arrows, shapes, and highlights) instead of only text. [Read the benefits of using screenshots here](/Pages/HowToUseBalloons.aspx).
+<br>​
+We recommend you define a standard style for your visual elements by changing the default colours and shapes according to your branding.
 
 ### More Information on SSW Branding
 
  ![snagit-bad-branding.jpg](/PublishingImages/snagit-bad-branding.jpg) Figure: Bad example - The balloon doesn't match our company colours
- ![snagit-good-branding.jpg](/PublishingImages/snagit-good-branding.jpg)
+ ![snagit-good-branding.jpg](/PublishingImages/snagit-good-branding.jpg) 
 Figure: Good example - Balloon follows SSW branding
-
  
 To use SSW branding on your next screenshots, you should have the latest version of Snagit (which is the leading screen capture utility) and import the theme.
 Find SSW Snagit theme here: [\\fileserver\DataSSW\DataSSWEmployees\Templates\SSW.snagtheme](file&#58;//fileserver/DataSSW/DataSSWEmployees/Templates/SSW.snagtheme).
