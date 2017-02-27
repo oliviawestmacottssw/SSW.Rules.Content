@@ -12,11 +12,11 @@ authors:
 ---
 
  
-In order to make your next event even better, you need to be able to collect feedback on the day from the people that were there. ​
+​In order to make your next event even better, you need to be able to collect feedback on the day from the people that were there. ​
  
 There are a few options on how to collect the information.
 
-- Use a feedback form such as the one [from SSW](http&#58;//www.ssw.com.au/ssw/standards/forms/evaluationsurvey.pdf)
+- Use a feedback form such as the one [from SSW](https&#58;//www.ssw.com.au/ssw/standards/forms/SSWEvaluationSurvey.pdf)
 - Set up an online survey using services like [TypeForm](http&#58;//www.typeform.com/)
 
 
