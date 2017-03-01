@@ -25,7 +25,7 @@ We recommend you define a standard style for your visual elements by changing th
 Figure: Good example - Balloon follows SSW branding
  
 To use SSW branding on your next screenshots, you should have the latest version of Snagit (which is the leading screen capture utility) and import the theme.
-Find SSW Snagit theme here: [\\fileserver\DataSSW\DataSSWEmployees\Templates\SSW.snagtheme](file&#58;//fileserver/DataSSW/DataSSWEmployees/Templates/SSW.snagtheme).
+Find SSW Snagit theme here: [\\fileserver\DataSSW\DataSSWEmployees\Templates\SSW.snagtheme](file&#58;/////fileserver/DataSSW/DataSSWEmployees/Templates/SSW.snagtheme).
 ![snagit-ssw-theme.jpg](/PublishingImages/snagit-ssw-theme.jpg)Figure: SSW theme already includes all tools you need with our branding 
 Instructions to create and use Snagit themes can be found at [Quick Style Themes Tutorial](https&#58;//www.techsmith.com/tutorial-snagit-13-quick-style-themes.html?utm_source=product&amp;utm_medium=snagit&amp;utm_campaign=sw13).
 
