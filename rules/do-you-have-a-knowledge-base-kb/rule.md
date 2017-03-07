@@ -30,7 +30,7 @@ John Prince
 [http://www.ssw.com.au](http&#58;//www.ssw.com.au/ssw/)
 
 Figure: Responding to a known issue with a KB article 
-The basic rule is don't send back the answer in your email - instead send back the link. More specifically:
+The basic rule is:​ don't send back the answer in your email - instead send back the link. More specifically:
 
 1. If you can answer a support email then reply to the support email (using one of the 4 templates on the right)
     - TO: the client
@@ -62,14 +62,14 @@ Done. The code changed from
 
 xxx
 to
-yyy
+     yyy
 
 Thank you for reporting this bug - our software only gets better with help from our customers. This fix will be available in the next version shortly. In the meanwhile, [download an interim build.](http&#58;//www.ssw.com.au/)
 
 Kind Regards,
 Bob
 
-Figure: Informing of a Fix (Email 1 of 2) Note: In this email, you can offer them an interim build 
+Figure: Informing of a Fix (Email 1 of 2) Note: In this email, you can offer them an interim build
 
 Dear Harry,
 
@@ -77,12 +77,12 @@ Thank you for taking the time to report the issue for SSW Code Auditor. I'm happ
 
 Please download the new version at [http://www.ssw.com.au/ssw/Download/download.aspx](http&#58;//www.ssw.com.au/ssw/Download/download.aspx)
 
-P.S. Don't forget to run SSW Diagnostics and gets all green ticks [www.ssw.co​m.au/diagnostics](http&#58;//www.ssw.com.au/SSW/Diagnostics/default.aspx)
+P.S. Don't forget to run SSW Diagnostics and gets all green ticks [www.ssw.co m.au/diagnostics](http&#58;//www.ssw.com.au/SSW/Diagnostics/default.aspx)
 
 Kind Regards, 
 Bob
 
-Figure: Informing of a New Version (Email 2 of 2) 
+Figure: Informing of a New Version (Email 2 of 2)
 Notice how by just giving them the URL, this email does the job of encouraging them to use your knowledge base in the future. You need to make sure the support staff know that there are really only 4 types of emails customers should be receiving (see the 4 grey boxes).
 
 Things are running well when you have support staff adding new KB for:
@@ -94,22 +94,20 @@ Things are running well when you have support staff adding new KB for:
 
 However \***don't**\* write a KB article if fixing the bug and making a new version solves the problem. You'll have to fix the problem anyway, so don't waste time writing a KB, just email the new version. Please see [How to Develop and Reply "Done"](http&#58;//www.ssw.com.au/ssw/extremeemails/default.aspx)
 
-You don't need to be Microsoft to build a KB. A Knowledge Base does not need to be complicated. We use a simple knowledge base which is located at [http://www.ssw.com.au/ssw/KB](http&#58;//www.ssw.com.au/ssw/KB)
+You don't need to be Microsoft to build a KB. A Knowledge Base does not need to be complicated. We use a simple knowledge base which is located at [http://www.ssw.com.au/ssw/KB](http&#58;//www.ssw.com.au/ssw/KB).
 
-
-
-Suggestions for features should be added to the backlog and voted on at uservoice.com
+Suggestions for features should be added to the backlog and voted on at uservoice.com:
 
 
 Dear Harry,
 
 Thanks for the suggestion for SSW Code Auditor!
 
-I have added it to the list of future developments (which we call our backlog). Future features can be voted on at [uservoice.com](http&#58;//uservoice.com/) ​.
+I have added it to the list of future developments (which we call our backlog). Future features can be voted on at [uservoice. com](https&#58;//www.uservoice.com/) .
 
 Thanks,
 John Prince
 
-[http://www.ssw.com.au](http&#58;//www.ssw.com.au/ssw/)
+www.ssw.com.au
 
 Figure: Responding to a Feature Suggestion 
