@@ -8,9 +8,73 @@ authors: []
 ---
 
  
-When designing custom applications you want to include branding on reports.                      There are two ways to design a standard footer. As a minimum, you can have a                      line "Generated from [e.g.] SSW SQL Deploy - www.ssw.com.au".
+When designing custom applications you want to include branding on reports.                      You should always include a useful and informative footer at the bottom of your reports.
  
-Or, even better, you can send or keep detailed information about the report for you and your company:
-![ssw Report Footer](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BetterInterface_ReportFooter.jpg)
-For more details about how to generate a footer like this, check our     [Rules to Better SQL Reporting Services](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSQLReportingServices.aspx#UsefulFooter).
+Include:
+
+1. ​​Date and Time Printed and User who printed it - see warning below (e.g. Printed by SSW2000\JatinValabjee on 3/1/2006 3:16:30 PM)
+2. Execution Time (e.g. Execution time: 1 minute, 10 seconds)
+3. Page x of y (e.g. Page 3 of 10)
+4. Link to company website + slogan  (e.g. www.ssw.com.au - Writing software people understand)
+
+
+![RSRulesBadFooter.gif](/SiteAssets/reports-do-you-have-a-standard-report-footer/RSRulesBadFooter.gif)
+ 
+Bad Example - This footer doesn't provide any useful information 
+
+
+![RSRulesGoodFooter.gif](/SiteAssets/reports-do-you-have-a-standard-report-footer/RSRulesGoodFooter.gif)
+Good Example - Useful and informative information should be displayed in your report footer
+
+ 
+
+Use these handy report expressions to show the above information.
+
+**NOTE:** Do not use System.DateTime.Now​ for your Execution Time because if you do it will return the result at time of printing the document/PDF.  Instead store the value in a variable (for example GroupExecutionTime) and then call that.
+
+
+| Footer Item | Expression | Sample Output |
+| --- | --- | --- |
+| Date and Time Printed / User ID | ="Printed by " + User!UserID + " on " + <br>                            Globals!ExecutionTime.ToString() | Printed by SSW2000\JatinValabjee on 3/1/2006 3:16:30 PM |
+| Execution Time |                             ="Execution Time: " +<br><br>                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).TotalSeconds &lt; 1, "0 <br>                            seconds",<br>                            <br><br>                            (<br><br>                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Hours &gt; 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Hours & " hour(s), ", "") +<br><br>                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Minutes &gt; 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Minutes & " minute(s), ", <br>                            "") +<br><br>                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Seconds &gt; 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Seconds & " second(s)", ""))<br><br>                            )<br>                         | Execution time: 1 minute, 10 seconds |
+|                             Page x of y<br>                         |                             ="Page " + Globals!PageNumber.ToString() + " of " + <br>                            Globals!TotalPages.ToString() |                             Page 3 of 10 |
+
+​​​ 
+
+
+
+![footerInDesigner.gif](/SiteAssets/reports-do-you-have-a-standard-report-footer/footerInDesigner.gif)
+Good Example - Footer in visual studio designer
+
+ 
+
+**Warning:** Adding the User who printed it stops all data-driven subscriptions     
+When you try to add the User your data-driven subscriptions will fail with the following error:
+'The '/GroupHealth' report has user profile dependencies and cannot be run unattended. (rsHasUserProfileDependencies)'.     
+A quick workaround is to add a user function to fallback the error to a nice message, like: "SYSTEM",
+
+
+
+ Public Function UserName()
+
+
+> Try
+> 
+> 
+> > Return Report.User!UserID
+> 
+> 
+> Catch
+> 
+> 
+> 
+> > Return "System"
+> 
+> 
+> End Try
+
+
+End Function <br>   
+
+Use above function to replace your reference to Report.User!UserID will allow the subscription to work correctly.
 
