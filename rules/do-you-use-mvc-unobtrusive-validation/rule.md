@@ -9,8 +9,8 @@ authors:
 
 ---
 
- ​Validation is an important part of any data driven web application. Client-Side validation provides fast user feedback and a better UI experience but cannot be relied on for data integrity - so cient-side validation should always be backed by additional server-side validation.
-With MVC Unobtrusive Valilidation, you can configure both client-side and server-side in one place.  
+ ​Validation is an important part of any data driven web application. Client-Side validation provides fast user feedback and a better UI experience but cannot be relied on for data integrity - so client-side validation should always be backed by additional server-side validation.
+With MVC Unobtrusive Validation, you can configure both client-side and server-side in one place.  
 ​Validation rules can be added to a model object via Data Annotations or using the Fluent Validation API. 
 Fluent Validation is [available as a Nuget package](http&#58;//www.nuget.org/packages/FluentValidation/).
 
@@ -28,7 +28,7 @@ If you create a new MVC web application in VisualStudio 2013, unobtrusive valida
 
 ![view.png](/PublishingImages/view.png)
 
-Good Example: this razor view binds to a stronly typed model object and uses html helpers.
+Good Example: this razor view binds to a strongly​​ typed model object and uses html helpers.
 
 
 
