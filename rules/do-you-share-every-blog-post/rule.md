@@ -21,13 +21,17 @@ The best one is:
 - [TwitterFeed](http&#58;//twitterfeed.com/) - This offers a dedicated established service that will publish your feed to Twitter and Facebook.
 
 
-Unfortunately this automated service does not automatically add hashtags. (Suggestion: they should take this from your "categories" or "labels" that you use to tag your posts).
- So the solution is to "double tweet" your blog post, adding useful hash tags.
+Unfortunately, this automated service does not automatically add hashtags. (Suggestion: they should take this from your "categories" or "labels" that you use to tag your posts).
 
-Do you know the minimum builds to create on any branch? [http://bit.ly/aXeGmU](http&#58;//bit.ly/aXeGmU)    1:51 AM Mar 19th   via twitterfeed
+So the solution is to "double tweet" your blog post, adding useful hashtags.
+
+Do you know the minimum builds to create on any branch? http://bit.ly/aXeGmU    
+1:51 AM Mar 19th via twitterfeed
 Bad example - Leaving only this automated one, that came from twitterfeed (missing hash tags) 
-Do you know the minimum builds to create on any branch? [http://bit.ly/aXeGmU](http&#58;//bit.ly/aXeGmU)    1:51 AM Mar 19th   via twitterfeed
+Do you know the minimum builds to create on any branch? http://bit.ly/aXeGm U    1:51 AM Mar 19th   via twitterfeed
 
-<br>(Adding hashtags) Do you know the minimum builds to create on any branch? [http://goo.gl/fb/Q71F](http&#58;//goo.gl/fb/Q71F)  #ssw #sswrules #vsalm #vsalmbuild    1:51 AM Mar 19th   via Google
+(Adding hashtags) Do you know the minimum builds to create on any branch? http://goo.gl/fb/Q71F  #ssw #sswrules #vsalm #vsalmbuild    
+​
+1:51 AM Mar 19th via Google
 Good example - Adding hash tags to your automated tweet
 
