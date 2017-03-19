@@ -15,7 +15,7 @@ authors:
 
  If you are using a task tracking system like TFS or Jira, always include the relevant URL. Also valid for emails. This way people can check the work that was done.
  
-Done​.​​
-​Figure: Bad Example   Done  <br>   http://jira.ssw.com.au/browse/NET-443Figure: Good example Done [https://tfs.ssw.com.au/tfs/DefaultCollection/SSW.CRM/\_workitems#\_a=edit&id=12075](https&#58;//tfs.ssw.com.au/tfs/DefaultCollection/SSW.CRM/_workitems#_a=edit&amp;id=12075)   ​Figure: Good Example (sorry TFS URLs are a little uglier)
-**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI) ​
+Done
+ Figure: Bad Example   Done - http://jira.ssw.com.au/browse/NET-443Figure: Good example Done - https:/​/tfs.ssw.com.au/tfs/DefaultCollection/SSW.CRM/\_workitems#\_a=edit&id=12075   Figure: Good Example (sorry TFS URLs are a little uglier)
+**Video:​** [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI)
 
