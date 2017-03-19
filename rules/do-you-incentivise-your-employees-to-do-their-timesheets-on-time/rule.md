@@ -21,16 +21,16 @@ Get your employees to enter [their timesheets daily](/Pages/when-to-enter-your-t
 - A deadline for submitting timesheets (**Friday 5pm)**. If all timesheets are received on time, everyone is rewarded with a free lunch. However, if someone fails to enter their timesheets, they will be put on the "SHAME LIST" and all team members will miss out on the free lunch.    **Hi All,**
  
 No free lunch this week because of: 
- 
+ ​
 • Person 1’s name
 • Person 2’s name
 • etc
  
 Can you please complete your timesheets ASAP and little ‘r’ me when you are done
  
-I get my information from: [https://reports.ssw.com.au/Reports/Pages/Report.aspx?ItemPath=%2fSSWTimePRO%2fSSWTimePRONETReports%2f11\_ValidateMissingTimesheets​](https&#58;//reports.ssw.com.au/Reports/Pages/Report.aspx?ItemPath=/SSWTimePRO/SSWTimePRONETReports/11_ValidateMissingTimesheets) 
+I get my information from: https://reports.ssw.com.au/Reports/Pages/Report.aspx?ItemPath=%2fSSWTimePRO%2fSS​WTimePRONETReports%2f11\_ValidateMissingTimesheets  
  
-&lt;This email was sent as per the rule: [https://rules.ssw.com.au/Management/Rules-to-Better-Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx​](/Management/Rules-to-Better-Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx) &gt;
+&lt;This email was sent as per the rule: [https://rules.ssw.com.au/Management/Rules-to-Better-Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx](/Management/Rules-to-Better-Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx) &gt;
 
 
 **Note: **The Free Lunch should not accumulate. It's an 'on the day' reward, so take it or leave it... If they're not in the office, give them 30 days to get the $10.00 Tax Invoice back to Accounts for reimbursement.
