@@ -26,15 +26,14 @@ It is advised that you create a customized SharePoint Team Collaboration site te
 
 Once you have the template, follow these steps to create a customer portal with SharePoint 2007:
 
-1. Go to the root where you want to create a site
-<br>    eg. sharepoint.ssw.com.au
-2. Click "Site Actions" on right hand top, select "Manage Content and Structure
+1. Go to the root where you want to create a site. E.g. sharepoint.ssw.com.au
+2. Click "Site Actions" on right-hand top, select "Manage Content and Structure
 
 
 ![Manage Content and Structure](/PublishingImages/ManageContentAndStructure.jpg)
 Figure: The first step to creating a 'Customer Portal' is to select 'Manage Content and Structure' to view site collection 
-Once the new window opens, on the left hand side, click on the 'Clients' dropdown select New-&gt; Site. 
-Note: If you don’t see this option, that means you don’t have permission to create site.
+Once the new window opens, on the left-hand side, click on the 'Clients' dropdown select New -&gt; Site. 
+   Note: If you don’t see this option, that means you don’t have permission to create the site.
 
 ![Create New Site](/PublishingImages/CreateNewSiteStep1.jpg)
 Figure: Create new site 
@@ -45,10 +44,10 @@ Figure: Fill in the appropriate info then click "Create"
 More Information:
 
 1. Fill in the fields for the new client site 
-<br>    eg. Title, Description and URL
+eg. Title, Description, and URL
 2. Select the template 
-<br>    e.g “**ClientCollaboration\_V1**” in the Custom tab.
-<br>    Note: Your selection is confirmed in the picture. In this example the template’s description looks like “**Site for Collaboration with SSW Clients**”.
+e.g “**ClientCollaboration\_V1**” in the Custom tab.
+Note: Your selection is confirmed in the picture. In this example, the template’s description looks like “**Site for Collaboration with SSW Clients**”.
 3. Select “**Use Unique permissions**” as you need to give the client an account to visit.
 4. In the “**Navigation Inheritance**” choose “**No**” as you don’t need to let client visit the other client sites via the navigation.
 5. Click “**Create**”
@@ -57,13 +56,13 @@ More Information:
 
 
 Next step is to setup the groups and permissions.
-![](/PublishingImages/SetUpGroupForSite.jpg)  Figure: Create a 'new group' or select an 'existing group' for the newly created site. 
+![](/PublishingImages/SetUpGroupForSite.jpg)  Figure: Create a 'new group' or select an 'existing group' for the newly created site
 More Information:
 
 - Permissions: After you created the website for the client project, you need to configure the permission to make sure the developers and the clients can visit the site with the current authority. By default:
 
 
-1. **Visitors to the site - Read : **
+1. **Visitors to the site - Read: **
     - Visitors need to read most of the site.
     - They can't read team discussions (not used)
     - They can download from 'release files' document library.
@@ -74,13 +73,14 @@ More Information:
     - Has a full control.
 
 
-In this case, we are using 'create a new group' option because we want this group to be able to access only for this perticular site  - It is a good practice to create a new group for every site you create, because it will be easier to add or delete users in the group for that specific site.
+In this case, we are using 'create a new group' option because we want this group to be able to access only for this particular site  - It is a good practice to create a new group for every site you create, because it will be easier to add or delete users in the group for that specific site.
 
-Note: you can also access this through the "People and Group" option on "Site Action" link on right hand top of the page, if you need to manage permission in future.
+Note: you can also access this through the "People and Group" option on "Site Action" link on right-hand top of the page if you need to manage permission in future.
 
 Click "OK", and the portal is created.
 
 ![Northwind Portal](/PublishingImages/Northwind%20Portal.jpg)
-Figure: [View Northwind portal.](http&#58;//projects.ssw.com.au/sites/Northwind/default.aspx) 
-Note: SharePoint will send "welcome email" to all the members of the groups you created for the site with basic information, but you still need to send email to your customer with the login details like Url, userName and Password.
+Figure: Northwind portal
+
+Note: SharePoint will send "welcome email" to all the members of the groups you created for the site with basic information, but you still need to send an email to your customer with the login details like URL, username, and password.
 
