@@ -12,6 +12,7 @@ authors:
  
 Multi-select listboxes are the bane of a graphical user interface, they have a number of behavioral quirks that make it difficult for users to get used to them:
 
+
 - They require users to know that you select more than one entry by holding down the Ctrl key
 - They lose all selections if you click in the wrong place.
 - You can't tell if a Listbox is single-select or multi-select at first glance.
@@ -53,4 +54,6 @@ Multi-select listboxes are the bane of a graphical user interface, they have a n
                      <input id="cblList_8" type="checkbox">
                      <label>Item 9</label></td></tr><tr><td>
                      <input id="cblList_9" type="checkbox">
-                     <label>Item 10</label></td></tr></tbody></table></div></dt><dd>Figure&#58; Good Example - The beauty of the CheckListBox in ASP.NET</dd></dl> We have a program called  [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/codeauditor/) to check for this rule.  
+                     <label>Item 10</label></td></tr></tbody></table></div></dt><dd>Figure&#58; Good Example - The beauty of the CheckListBox in ASP.NET</dd></dl>
+We have a program called  [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/codeauditor/) to check for this rule.​​​
+
