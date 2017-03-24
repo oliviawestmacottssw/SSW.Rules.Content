@@ -19,7 +19,7 @@ If you ignore your SEO in an Angular SPA you may not have your pages indexed by 
 The only way to be sure your Angular SPA will be crawled and indexed properly by Google Bots is to intercept all their requests and serve them HTML you pre-render on the server.
 
 
-It is not enough to just use hashes in your URLs (e.g., www.example.com/index.html#mystate, where #mystate is the hash fragment) or hope Google can crawl and Angular application correctly. You can read more here [Guide to AJAX crawling for webmasters and developers](https&#58;//support.google.com/webmasters/answer/174992?hl=en).  There are several libraries to help pre-render your code available on the internet. 
+It is not enough to just use hashes in your URLs (e.g., www.example.com/index.html#mystate, where #mystate is the hash fragment) or hope Google can crawl and Angular application correctly. You can read more here [Guide to AJAX crawlin g for webmasters and developers](https&#58;//developers.google.com/webmasters/ajax-crawling/docs/getting-started).  There are several libraries to help pre-render your code available on the internet. 
  ​ <br>      
 If you do not pre-render HTML you may still get good enough SEO as Google Bots are getting better at crawling JavaScript but you can not be certain it will work. You can use [Google Fetch](https&#58;//www.google.com/webmasters/tools/googlebot-fetch) to test how your web pages look to a Google bot.
  ![seo_for_angular-diagram.png](/PublishingImages/seo_for_angular-diagram.png) Figure: How to configure your site to pre-render HTML for Google bots.
@@ -37,7 +37,7 @@ For more information and a demo see this  blog: [weluse.de](https&#58;//weluse
 ​​
 
 
-**Note:** Since May 2014 Google announced that they're finally crawling javascript making SEO for a SPA simpler. Previously your SPA needed to distinguish between normal users and crawlers - and re-route (somehow) to the special crawler-only-endpoints if a bot is requesting the page.(source: http://googlewebmastercentral.blogspot.de/2014/05/understanding-web-pages-better.html) ​
+**Note:** Since May 2014 Google announced that they're finally crawling javascript making SEO for a SPA simpler. Previously your SPA needed to distinguish between normal users and crawlers - and re-route (somehow) to the special crawler-only-endpoints if a bot is requesting the page.(source: http://googlewebmastercentral.blogspot.de/2014/05/understanding-web-pages-better.html)
 
 
 
