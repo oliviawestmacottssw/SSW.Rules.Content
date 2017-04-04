@@ -11,11 +11,11 @@ authors:
 
 ---
 
- A recent Security Hotfix has broken SharePoint WSS3 stand-alone installations.  This has prompted Microsoft SharePoint team to quickly release information regarding how to fix the issue: [https://blogs.msdn.microsoft.com/sharepoint/2010/06/22/installing-kb938444/​](https&#58;//blogs.msdn.microsoft.com/sharepoint/2010/06/22/installing-kb938444/)
+ It is not a good idea to have Windows Update automatically updating your servers.  There are a few reasons. <br>
 
-<br>This again reminds us that it is always not a good idea to have Windows Update automatically updating your servers.  There are a few reasons. <br> 
-1. ​The previously mentioned problem - where the hotfix could bring down a production environment.
-2. In fact, even in a development environment this could be hours of lost work as the development team struggles to understand why only **some** of the developers' SharePoint **magically and mysteriously **broke overnight.
+ 
+1. The hotfix could bring down a production environment. (This issue previously happened)
+2. In fact, even in a development environment this could be hours of lost work as the development team struggles to understand why only **some** of the developers' servers **magically and mysteriously **broke overnight.
 3. Windows Update could restart your server, or put your server in a state where it requires restarting - preventing any urgent MSI installs without bringing down the server.
 
 
