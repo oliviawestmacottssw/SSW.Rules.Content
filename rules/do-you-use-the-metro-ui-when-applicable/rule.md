@@ -11,11 +11,10 @@ authors:
 
  
 Metro is Microsoft’s UI design guideline.
-   ​ 
-From           [Adam Cogan's blog](http&#58;//www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/) ([http://www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/](http&#58;//www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/))
+ 
+From           [Adam Cogan's blog](http&#58;//www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/) ([http://www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/](http&#58;//www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/)):​
 
-We now have devices from phones, tablets, work PCs and servers all with the same Metro (don't tell me to call it Modern UI please) tiled user interface.
+"We now have devices from phones, tablets, work PCs and servers all with the same Metro (don't tell me to call it Modern UI please) tiled user interface.
  What that means for users is that they have the same \*one\* user experience.
- What that means for developers is that we have the simplest way to build apps that go across these 3 devices.
-
-![Metro UI in TFSPreview](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Metro-Good.jpg)Figure: Good example – TFSPreview.com adopts the Metro style![Metro UI in TimePRO](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Metro-Good2.jpg)Figure: Good example – <br>      [http://ssw.sswtimepro.com](http&#58;//ssw.sswtimepro.com/) has been Metro influenced.
+ What that means for developers is that we have the simplest way to build apps that go across these 3 devices."
+![Metro UI in TFSPreview](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Metro-Good.jpg) Figure: Good example – TFSPreview.com adopts the Metro style![Metro UI in TimePRO](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Metro-Good2.jpg)​ Figure: Good example – SSW TIMEPRO has been Metro influenced
