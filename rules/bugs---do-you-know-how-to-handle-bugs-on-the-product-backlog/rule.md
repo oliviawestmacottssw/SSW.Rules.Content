@@ -18,7 +18,8 @@ Bugs that are introduced and found because of the current work in the Sprint are
 
 See [Do you know when to create bugs?](/Pages/CreateBugs.aspx) for detailed information on identifying when something is a bug, and when to just fix it.
  
-### Using the Agile p​​​rocess template
+### Using the Agile p​​​rocess tem​plate
+
 
 In the Agile template, you can't assign Story Points to bugs, meaning that they will negatively impact on sprint velocity.
 
@@ -37,7 +38,8 @@ This process:
 
 
 
-### Using the Scrum​​ process template
+### Using the Scrum​​ process template​
+
 
 In the Visual Studio Scrum template, bugs are just another PBI and you can assign a business priority and an effort estimate in Story Points. Bugs that make the cut for the next sprint can be broken down into tasks and estimated as required.
 
@@ -59,3 +61,6 @@ Examples:
 
 
 ​​​​​​​​Figure: Bugs can be added "out of sprint" directly into the product backlog in TFS
+T​he Visual Studio team provides good guidance on [managing bugs in VSTS](https&#58;//www.visualstudio.com/en-us/docs/work/backlogs/manage-bugs)
+
+
