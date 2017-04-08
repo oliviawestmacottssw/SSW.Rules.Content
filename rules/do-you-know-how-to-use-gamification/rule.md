@@ -10,11 +10,12 @@ authors:
 ---
 
  
-"Gamification" is a method of encouraging user participation. Usually these are a set of fictional incentives such as points or achievement badges.
+​"Gamification" is a method of encouraging user participation. Usually, these are a set of fictional incentives such as points or achievement badges.
+
    ​  
 It originated with Frequent Flyer programs and has crossed over into the software world with the success of FourSquare.
 
-This concept is being utilized even in <br>   [Visual Studio](http&#58;//channel9.msdn.com/achievements/visualstudio). 
+This concept is being utilized even in <br>   [Visual Studio](https&#58;//channel9.msdn.com/achievements/visualstudio). 
 <dl class="goodImage"><dt>
       <img alt="MSDN Screenshot" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/msdn-statistics.jpg">
    </dt><dd>Figure&#58; Good Example – MSDN allows users to score achievement points</dd></dl><dl class="goodImage"><dt>
