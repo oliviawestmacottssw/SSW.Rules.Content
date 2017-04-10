@@ -9,4 +9,6 @@ authors:
 
 ---
 
- Microsoft has published their User Experience Design Guidelines for Windows Phone:<br>[http://msdn.microsoft.com/en-us/library/windowsphone/design/hh202915(v=vs.92).aspx](http&#58;//msdn.microsoft.com/en-us/library/windowsphone/design/hh202915%28v=vs.92%29.aspx) 
+ Microsoft has published their User Experience Design Guidelines for Windows Phone: [https://msdn.microsoft.com/library/windows/apps/fa00461b-abe1-41d1-be87-0b0fe3d3389d(v=vs.105).aspx​](https&#58;//msdn.microsoft.com/library/windows/apps/fa00461b-abe1-41d1-be87-0b0fe3d3389d%28v=vs.105%29.aspx)
+​
+ 
