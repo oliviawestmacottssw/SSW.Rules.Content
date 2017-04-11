@@ -24,9 +24,8 @@ Once this process has completed successfully, the developer will get presented w
 If the developer does not have Build notifications on there local computer then this step can also be easily performed via the Build Explorer in Visual Studio.
 ![Build screen](/PublishingImages/deployment3.jpg)Figure: Right click on your last successful build and choose "Reconcile Workspace"
 
-SSW also queues a build process that deploys the changes to our live Australian live production server.
+The [www.ssw.com.au](http&#58;//www.ssw.com.au/) website also queues a build process that deploys the changes to our Australian staging server. A developer can then use [Octopus deploy​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=580a6735-c102-48c2-bf22-91ff3cc9ead5) to push it live to our Australian and US production sites.
 
-We then schedule anther build to deploy to the other production servers the next day. This idea behind this is that there is a one day lag between our Australian and Overseas servers so we have a chance to make any changes if required.
 The process that syncs to our external servers is very quick. Only the changes in TFS since the last deployment are sent. This typically takes under 10 seconds to complete.
 
 We also run a longer weekly build that performs a FTP sync between our internal and external servers. This process inspects every file and will upload new or delete any orphaned files.
