@@ -28,8 +28,12 @@ The [www.ssw.com.au](http&#58;//www.ssw.com.au/) website also queues a build pr
 
 The process that syncs to our external servers is very quick. Only the changes in TFS since the last deployment are sent. This typically takes under 10 seconds to complete.
 
-We also run a longer weekly build that performs a FTP sync between our internal and external servers. This process inspects every file and will upload new or delete any orphaned files.
-The purpose of this is that it is possible that some files failed to copy or were locked at the time of sync. It also cleans up any log or temporary files on the server. It basically ensures that the website is a total copy of the local server.
+​If the build fails then no changes would get pushed to staging and developers should [swarm to fix the build](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=aea8bbdc-6efd-413a-b988-1c348dd77eb4).
+
+![2017-04-11_10-13-08.png](/SiteAssets/do-your-developers-deploy-manually/2017-04-11_10-13-08.png)
+​​Figure: See the build failing and who requested it
+
+
  
 
 
