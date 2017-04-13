@@ -47,7 +47,7 @@ Dear Harry,
 
 Thank you for taking the time to report the issue for SSW Code Auditor.
 
-I am sorry to let you know that I cannot reproduce this. Could you please provide me with more details or, even better, would I be able to connect to your PC? It is simple and you can see everything I do. To do so, you can send me an appointment for an appropriate time or add me to your MSN Messenger
+I am sorry to let you know that I cannot reproduce this. Could you please provide me with more details or, even better, would I be able to connect to your PC? It is simple and you can see everything I do. To do so, you can send me an appointment for an appropriate time or add me to your Skype
 
 P.S. Don't forget to run [SSW Diagnostics](http&#58;//www.ssw.com.au/diagnostics), ensuring that you only get green ticks.
 
