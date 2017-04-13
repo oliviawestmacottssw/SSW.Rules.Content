@@ -14,8 +14,8 @@ Software development can be painful and costly. Hang on, that should say
 
 "Software development IS painful and costly."
 
-Well, not always, but it has been observed that in 1999: "75% of all development projects missed their target release date or never shipped at all." 
-
+There's no doubt custom software development is a challenging industry. According to the Standish Group Report, 1999: Nearly 75% of all development projects missed their target release date or never ship at all. But what I find so interesting is that at least 7 of the 10 most common signs of product development failure are present before the design is created or a single line of code is written. (John S. Reel 1999).​
+​
  Projects often fail because clients think suppliers under-deliver and over-charge. The client and the supplier have different expectations about the goals of the project. This difference of opinion often leads to a project's absolute failure.
 
 **Don't give ranges!** Let's say a prospect asks me "how much to do this Release?" I could say - "Somewhere between $15k - $20k". I hear 20, the prospect hears 15. I'm pleased we got it done for $25k with a whole bunch of changes, the client is annoyed we didn't get it done in 12. So I never give a range to a client. I tell them that the first Release, along with its spec is likely to take $35k. That's two guys working full time for two weeks.
