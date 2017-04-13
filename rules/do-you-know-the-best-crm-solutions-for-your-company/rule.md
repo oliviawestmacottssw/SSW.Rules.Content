@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​There are a lot of different CRM solutions on the market. We would never suggest to develop a CRM solution from scratch. Instead pick an existing solution and customize it for your needs.
+ ​​There are a lot of different CRM solutions on the market. We would never suggest to develop a CRM solution from scratch. Instead pick an existing solution and customize it for your needs.
 
 The main choices for CRM solutions are:
 
@@ -19,8 +19,6 @@ The main choices for CRM solutions are:
 
 At SSW we implemented a lot of CRM services based on Microsoft CRM. 
  The experience with this solution showed us high trust in using MS CRM as a base for future business needs.
-
- But, we still have a couple of feature and [software suggestions for Microsoft CRM](http&#58;//www.ssw.com.au/SSW/Standards/BetterSoftwareSuggestions/CRM.aspx "SSW Microsoft CRM Suggestions") 
 
  Read the [rules to better Microsoft CRM](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterMicrosoftCRM.aspx "SSW Rules to Better Microsoft CRM")to get an idea what MS CRM can do for you.
 
