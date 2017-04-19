@@ -10,7 +10,7 @@ authors:
 ---
 
  
-Some clients think that a Project Manager is just a resource that increases the cost of a project. But a house does not get built if you leave the architect, carpenters, electricians and plumbers to just work it out between themselves. The house \*does\* get built if the foreman is keeping everyone on their toes, making sure they are doing their job.  ​
+Some clients think that a Project Manager is just a resource that increases the cost of a project. But a house does not get built if you leave the architect, carpenters, electricians and plumbers to just work it out between themselves. The house \*does\* get built if the foreman is keeping everyone on their toes, making sure they are doing their job.
 
  
 
@@ -37,7 +37,7 @@ This is much better than the old waterfall method which goes like this:
 - The Account Manager sends invoices when milestones are met.
 
 
-Insist that your Scrum Master (aka Project Manager) [maintains a strict project schedule](/does-your-scrum-master-%28aka-project-manager%29-maintain-a-strict-project-schedule).
+Insist that your Scrum Master (aka Project Manager) [maintains a strict project schedule](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ba60e584-b904-4028-a5be-e2b8900b4c97).
 
 
 **#1 For Scrum Projects:**
@@ -45,5 +45,5 @@ Insist that your Scrum Master (aka Project Manager) [maintains a strict project
 In Scrum projects the role of project manager is split into three roles: Scrum Master, Product Owner and Team. Each role is essential.
 
 
-For more information go to     [Scrum Terms](http&#58;//www.scrumalliance.org/articles/39-glossary-of-scrum-terms)​ and     [Scrum Roles](http&#58;//www.scrumalliance.org/pages/scrum_roles).
+For more information go to [Scrum Terms](https&#58;//www.scrumalliance.org/community/articles/2007/march/glossary-of-scrum-terms) and [Scrum Roles](https&#58;//www.scrumalliance.org/why-scrum/core-scrum-values-roles).
 
