@@ -9,15 +9,12 @@ authors:
 
 ---
 
- When you set a break at a training course, you should make sure you’re first make sure your finish what you are doing. Don’t cut people off because of a clock.   Tell them 20 min break (or 1 hour for lunch) and: 
+ When you set a break at a training course, you should make sure you first finish what you are doing. Don’t cut people off because of a clock.
+   Tell them 20 min break (or 1 hour for lunch) and:
 - Let them break
-- Write in a clear place the end time for the break and ask people to be back on time<br><dl>    <dt><img class="ms-rteCustom-ImageArea" alt="Break ends" src="/PublishingImages/break-ends.jpg"> </dt>
-    <dd class="ms-rteCustom-FigureNormal">Figure&#58; Clearly show the end time for the break - print the <img title="pdf file" src="/Style%20Library/SSW/CoreImages/IconPdf.png" alt=""> <a href="/Documents/break-ends-sheet.pdf">PDF here</a></dd>
-<dd class="ms-rteCustom-FigureNormal"><span style="line-height&#58;21px;font-size&#58;12px;font-weight&#58;normal;"></span></dd></dl>
-- ​Set an alarm on your phone or PC
-
-![iphone_timer.png](/PublishingImages/iphone_timer.png)​
-Figure: iPhone alarm
-- If anyone comes back late – Explain the value of integrity. Honouring your word in small things makes it easier to honour it for the larger things, such as doing your best in a sprint, and makes people believe in you more
+- Write in a clear place the end time for the break and ask people to be back on time <dl class="image"> <dt> <img class="ms-rteCustom-ImageArea" alt="Break ends" src="/PublishingImages/break-ends.jpg"> </dt><dd>Figure&#58; Clearly show the end time for the break - &#160;you can&#160;print this&#160;<a href="/Documents/break-ends-sheet.pdf">PDF here</a><br></dd></dl>
+- Set an alarm on your phone or PC
+<dl class="image"><dt><img class="ms-rteCustom-ImageArea" alt="iphone_timer.png" src="/PublishingImages/iphone_timer.png"></dt><dd>Figure&#58; iPhone alarm</dd></dl>
+- If anyone comes back late, **explain the value of integrity**. Honoring your word in small things makes it easier to honor it for the larger things, such as doing your best in a sprint, and makes people believe in you more
 
  ​  
