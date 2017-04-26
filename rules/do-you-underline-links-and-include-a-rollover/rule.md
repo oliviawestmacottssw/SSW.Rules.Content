@@ -16,25 +16,27 @@ authors:
  
 ​Always make links perfectly clear.
  
-It's very important that your links stand out from the background as well as the surrounding text. A solid underline and a contrasting colour is the usually the best choice, but the exact method is not important as long as the end result stands out. A link should not only be discoverable upon accidental hovering.
+It's very important that your links stand out from the background as well as the surrounding text. A solid underline and a contrasting color is the usually the best choice, but the exact method is not important as long as the end result stands out. A link should not only be discoverable upon accidental hovering.
 
-Rollovers are important as they offer visual feedback to a user that this link that will take them somewhere. While there are a myriad of ways to do this; you can't go wrong with a simple text colour change.
+Rollovers are important as they offer visual feedback to a user that this link that will take them somewhere. While there is a myriad of ways to do this; you can't go wrong with an underline or border-bottom.
 
-[Go to SSW](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterWebsitesNavigation.aspx#)
-Bad Example: This link is hard to recognize.
-[Go to SSW](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterWebsitesNavigation.aspx#)
-Good Example: This link is obvious.
-​
+For more information on this, please [go to SSW website](https&#58;//www.ssw.com.au/).
+Bad Example: The link is hard to recognize
 
-![good-example-obvious-roll-over.jpg](/PublishingImages/good-example-obvious-roll-over.jpg)
-​Good Example: Obvious roll over with a button​
-**Example CSS for roll over:**
+For more information on this, please [go to SSW website](https&#58;//www.ssw.com.au/).
+Good Example: This link is obvious
 
-​​​a:link, a:visited { 
-    color: (internal value);
-    text-decoration: underline;
-    cursor: auto;
-}​
 
-​​​​​​Figure: Example CSS for roll over ​effect
- SSW has two programs called [SSW Code Auditor​](/Pages/Do-you-underline-links-and-include-a-rollover.aspx) and [SSW Link Auditor​](https&#58;//sswlinkauditor.com/) to check for this rule.  
+​        ![link-hover.jpg](/PublishingImages/link-hover.jpg)
+
+
+ Good Example: Obvious rollover. You can test it by hovering the links on ​the example above
+
+Example CSS for rollover:
+
+a:hover { 
+    color: #cc4141;
+    cursor: pointer;
+}
+Figure: Example CSS for rollover effect 
+
