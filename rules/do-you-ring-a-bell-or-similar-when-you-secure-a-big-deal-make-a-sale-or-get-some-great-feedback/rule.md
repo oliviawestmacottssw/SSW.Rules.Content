@@ -14,5 +14,7 @@ A great way of motivating your staff is to have some form of recognition in plac
 
 At SSW whenever a big new project is signed up, we sell an enterprise license for one of our products, or we release a project into production we send an email to all staff and then ring the bell, which is located in the middle of the office.
 ![Ring the bell Email](/PublishingImages/ring-the-bell.jpg) Figure: We send around an email like this and ring the bell when we get good news! 
-Similarly, when we get some feedback we will send around an email, and store the email in a public folder.
-![ ](/PublishingImages/Feedback.gif) Figure: Store your feedback in a public folder
+Similarly, when we get some feedback we will send around an email.
+
+As a company owner or manager, you might want to see who of your employees are contributing to this feeling of appreciation around the office, and you can do that by querying your Exchange Server for threads with "Ring the Bell" in the subject
+
