@@ -58,7 +58,12 @@ Run the checkout report from "Site Settings | Manage Content and Structure | Vie
 **TODO: **Move this tool to GitHub, find a better name than "SSW.SharePoint.CheckedOutFilesReport".  Also change from a farm solution to a solution that can be used on Office365 - now in SharePoint 2016 and SharePoint online called "Sharepoint Add-ins" 
 
 
-To make reminding users easier, this SharePoint Add-in has a custom page to show the "Checked out files". One button will send the notification email to all the naughty people. <br>      
+To make reminding users easier, this SharePoint Add-in ha​s a custom page to show the "Checked out files". One button will send the notification email to all the naughty people. 
+
+
+
+Even better, we have also improved the application with a scheduled task using SharePoint CSOM API to find checked out files and send these notification emails automatically​ every night.
+
 
 ![CheckedOutFilesApplicationReport.png](/PublishingImages/CheckedOutFilesApplicationReport.png)Figure: One button reminds all users of their "Checked out Files"
 
@@ -100,11 +105,6 @@ Remember, you can check which files you have checked out at any time by going to
 ​--Powered by SSW.SharePoint.CheckedOutFilesReport
 
  Figure: An example of the reminder email that all users receive 
-
-
-Even better, we have also improved the application with a scheduled task using SharePoint CSOM API to find checked out files and send these notification emails automatically​ every night.
-
-
 
 
 
