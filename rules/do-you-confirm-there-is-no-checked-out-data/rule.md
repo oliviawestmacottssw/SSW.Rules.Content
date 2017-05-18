@@ -37,30 +37,31 @@ Eg. SSW.SharePoint.CheckedOutFilesReport​
 1. Create CAML query in site content and structure
 
 Go to "Site Settings | Manage Content and Structure | Content and Structure Reports", click "New":
- ![ContentAndStructureReportsNew.png](/PublishingImages/ContentAndStructureReportsNew.png) Figure: Create a new report
+![ContentAndStructureReportsNew.png](/PublishingImages/ContentAndStructureReportsNew.png)Figure: Create a new report
 Fill the "CAML Query":
 &lt;Where&gt;&lt;IsNotNull&gt;&lt;FieldRef Name="CheckoutUser" LookupId="TRUE"/&gt;&lt;/IsNotNull&gt;&lt;/Where&gt;
 
 Fill the other fields like below:
- ![NewReportForm.png](/PublishingImages/NewReportForm.png) Figure: Fill in form
+![NewReportForm.png](/PublishingImages/NewReportForm.png)Figure: Fill in form
 2. Run Checked Out report
 
  
 
 Run the checkout report from "Site Settings | Manage Content and Structure | View: Checked out documents":
- ![CheckedOutDocuments.png](/PublishingImages/CheckedOutDocuments.png) Figure: Checked Out Documents report link Make sure there are no files checked out, otherwise, go step 3
+![CheckedOutDocuments.png](/PublishingImages/CheckedOutDocuments.png)Figure: Checked Out Documents report link Make sure there are no files checked out, otherwise, go step 3
 3. Go chase after the users.
 ​ <br>   
 **Solution B. Custom application report (Includes some coding work)
 **
 
 
- **TODO: **Move this tool to GitHub, find a better name than "SSW.SharePoint.CheckedOutFilesReport".   Also change from a farm solution to a solution that can be used on Office365 - now in SharePoint 2016 and SharePoint online called "Sharepoint Add-ins" 
+**TODO: **Move this tool to GitHub, find a better name than "SSW.SharePoint.CheckedOutFilesReport".  Also change from a farm solution to a solution that can be used on Office365 - now in SharePoint 2016 and SharePoint online called "Sharepoint Add-ins" 
 
- 
-To make reminding users easier, this SharePoint Add-in has a custom page to show the "Checked out files". One button will send the notification email to all the naughty people.
- ![CheckedOutFilesApplicationReport.png](/PublishingImages/CheckedOutFilesApplicationReport.png)Figure: One button reminds all users of their "Checked out Files"
- 
+
+To make reminding users easier, this SharePoint Add-in has a custom page to show the "Checked out files". One button will send the notification email to all the naughty people. <br>      
+
+![CheckedOutFilesApplicationReport.png](/PublishingImages/CheckedOutFilesApplicationReport.png)Figure: One button reminds all users of their "Checked out Files"
+
 
 
 **Hi Daragh, **
@@ -88,10 +89,10 @@ You currently have the following pages checked out:
 
 
 
-Remember, you can check which files you have checked out at any time by going to [http://&lt;siteurl&gt;/\_layouts/SSWReports/CheckedOutReport.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
+Remember, you can check which files you have checked out at any time by going to <br>         [http://&lt;siteurl&gt;/\_layouts/SSWReports/CheckedOutReport.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
 
 
-&lt;As per rule [http://rules.ssw.com.au/ITAndNetworking/SharePoint/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx) &gt;
+&lt;As per rule <br>         [http://rules.ssw.com.au/ITAndNetworking/SharePoint/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx) &gt;
 
 
 
@@ -99,4 +100,11 @@ Remember, you can check which files you have checked out at any time by going to
 ​--Powered by SSW.SharePoint.CheckedOutFilesReport
 
  Figure: An example of the reminder email that all users receive 
+
+
+Even better, we have also improved the application with a scheduled task using SharePoint CSOM API to find checked out files and send these notification emails automatically​ every night.
+
+
+
+
 
