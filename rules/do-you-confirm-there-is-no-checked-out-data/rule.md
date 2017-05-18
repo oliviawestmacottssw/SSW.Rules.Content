@@ -14,9 +14,9 @@ authors:
 ---
 
  
+​
 
-
-One of the annoying things with SharePoint document libraries is that users often accidentally leave checked out files, that preventing others from modifying them.​
+One of the annoying things with SharePoint document libraries is that users often accidentally leave checked out files, that preventing others from modifying them.​​
 
 Suggestion to Microsoft: send an email to the user to remind them they have outstanding checkouts potentially blocking other users.
 ![sp-docs.jpg](/PublishingImages/sp-docs.jpg)Figure: Here Eric Phan has not checked in a file 
