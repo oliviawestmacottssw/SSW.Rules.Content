@@ -9,7 +9,7 @@ authors:
 
 ---
 
- <br>  Often emails are rambling and unorganized, forcing the reader to wade through blocks of totally useless text. When it comes to written communication, less is more. Having hundreds of emails in your Inbox is not uncommon. But it's very uncommon to find people who successfully manage their Inbox. Instead they let their Inbox become a great black hole with no business value. Email has a bad name in business primarily because people don't treat email correctly.<br>
+ Often emails are rambling and unorganized, forcing the reader to wade through blocks of totally useless text. When it comes to written communication, less is more. Having hundreds of emails in your Inbox is not uncommon. But it's very uncommon to find people who successfully manage their Inbox. Instead, they let their Inbox become a great black hole with no business value. Email has a bad name in business primarily because people don't treat email correctly. 
 
 ​
 
