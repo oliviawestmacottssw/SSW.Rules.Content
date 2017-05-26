@@ -14,11 +14,7 @@ Why don't most developers plan ahead? Take an average Desktop application that y
  
 Version control for your Schema and where required your Data should be an important part of planning your projects.
 
+For more information read https://rules.ssw.com.au/rules-to-better-sql-server-schema-deployment
 
-
-
-
-
-
-We have a program called [SSW SQL Deploy](http&#58;//www.ssw.com.au/ssw/SQLDeploy/Default.aspx) to solve this problem and automatically make schema changes.
+​We have a program called [SSW SQL Deploy](http&#58;//www.ssw.com.au/ssw/SQLDeploy/Default.aspx) to solve this problem and automatically make schema changes.
 
