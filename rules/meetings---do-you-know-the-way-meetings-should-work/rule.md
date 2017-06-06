@@ -18,7 +18,7 @@ authors: []
 
 To ensure your meetings are productive and successful, you should:
 
-- Make Sure the AV setup is correct. Click [HERE​](https&#58;//sugarlearning.com/companies/SSW/items/13053/av-setup-for-skype-for-business-meetings) to see the AV Setup rule.
+- Make Sure the AV setup is correct. Please refer to the SugarLearning item 'AV Setup for Skype for Business Meetings​​'.
 - Create a meeting agenda prior to the meeting. Give each attendee a copy. If the discussion strays from the topic, the agenda will help you keep it on track.
 - Send [an appointment](/Pages/WayMeetingsShouldWork.aspx) to all meeting attendees to ensure the meeting appears on their calendar.
 - If you are going to be late, contact the organizer or the person in charge of the meeting to let them know that you are running late and what time you will be arriving.
