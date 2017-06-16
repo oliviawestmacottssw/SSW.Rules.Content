@@ -19,10 +19,7 @@ authors:
 Make sure appointments have address details unless it's obvious for all attendees.
  ​​​![Bad location](/PublishingImages/appointment-location-bad-example.jpg)
 ​​​Figure: Bad Example - Appointments should have addresses in location when appropriate
-
-![Good location](/PublishingImages/appointment-location-good-example.jpg)
-​​F​​ig​​​​​ure: Good Example - Address is clearly identified in the location field, meaning this can easily be used by ​​​mapping applications on smartphones
-​​
+ ​
 ![map example.png](/SiteAssets/appointments-do-you-make-sure-your-appointment-has-a-clear-location-address/map%20example.png)
 Figure: Good example - Address is clearly identified in the location field, meaning it can be easily be used by mapping applications on smartphones
 
