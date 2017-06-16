@@ -16,7 +16,7 @@ authors:
 ---
 
  
-Make sure appointments have address details unless it's obvious for all attendees.
+​​​​Make sure appointments have address details unless it's obvious for all attendees.
  ​​​![Bad location](/PublishingImages/appointment-location-bad-example.jpg)
 ​​​Figure: Bad Example​ - Appointment field should have addresses in location when appropriate
  ​
