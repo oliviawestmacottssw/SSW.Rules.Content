@@ -18,10 +18,11 @@ authors:
  
 Make sure appointments have address details unless it's obvious for all attendees.
  ​​​![Bad location](/PublishingImages/appointment-location-bad-example.jpg)
-​​​Figure: Bad Example - Appointments should have addresses in location when appropriate
+​​​Figure: Bad Example​ - Appointment field should have addresses in location when appropriate
  ​
-![map example.png](/SiteAssets/appointments-do-you-make-sure-your-appointment-has-a-clear-location-address/map%20example.png)
-Figure: Good example - Address is clearly identified in the location field, meaning it can be easily be used by mapping applications on smartphones
+![map example.png](/SiteAssets/appointments-do-you-make-sure-your-appointment-has-a-clear-location-address/map%20example.png)​
+Figure: Good example - Address is clearly identified in the location field, meaning it can be mapped using applications on smartphones
+​
 
 If you are meeting at SSW Sydney, it is important to book the Chapel, or another meeting room. You can do this by adding the room name to the Location field. If it is the SSW Chapel, it will then appear in the Chapel Bookings calendar and alert all necessary parties that you will be using the space.
 
