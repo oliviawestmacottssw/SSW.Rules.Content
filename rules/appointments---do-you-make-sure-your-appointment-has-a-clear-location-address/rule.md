@@ -27,7 +27,7 @@ It's important to always add the address information in appointments when a thir
 - A meeting at the client location
 
 
-The exception is for internal meeting appointments:
+The exception is for internal meeting appointments:​
 
 I would invite Zune to work Saturday @ SSW (but not include the address)
 
