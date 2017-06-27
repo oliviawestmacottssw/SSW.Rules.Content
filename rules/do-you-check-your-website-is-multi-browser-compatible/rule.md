@@ -12,11 +12,11 @@ authors:
 ---
 
  
-You should design a website to look good when being viewed in the latest version of Internet Explorer, Mozilla Firefox, Safari and Google Chrome unless the client specifically requests otherwise.
+You should design a website to look good when being viewed in **Google Chrome**, **Mozilla Firefox**, the latest version of **Internet Explorer** and **Safari** unless the client specifically requests otherwise.
 
 There are a lot of other browsers available, but it is important to consider that most other browsers are based on the most used browser nowadays.
  
-Note that readable is not perfect. There may be some page elements that are less than perfect, but it's just not worth of time to fix small bugs on every single browser.
+Note that readable is not perfect. There may be some page elements that are less than perfect, but it's just not worth of time to fix small bugs in every single browser, except for **Google Chrome**.
 
 
 You must test your website on the major browsers, though, because that there will be more differences and problems than you would think. The typical things that you will need to fix are:
@@ -26,8 +26,12 @@ You must test your website on the major browsers, though, because that there wil
 - VB Script
 
 
-You should be able to fix all formatting and layout bugs editing the CSS file.
+You should be able to fix all formatting and layout bugs by editing the CSS file.
 
 
-![browser-usage.jpg](/PublishingImages/browser-usage.jpg)Figure: Browsers statistics in 2016 – Know more in [W3C Browser Stats](http&#58;//www.w3schools.com/browsers/browsers_stats.asp)
+ ![browser-usage.jpg](/PublishingImages/browser-usage.jpg) Figure: Browsers statistics in 2017 – Know more in [W3C Browser Stats](http&#58;//www.w3schools.com/browsers/browsers_stats.asp)
+
+
+**Note:** If a browser represents less than 2% of your website views in Analytics, then you shouldn't bother. 
+E.g. Google shut down this link - **http://html5shim.googlecode.com/svn/trunk/html5.js** - which was used as an HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries. Since IE represents a small percentage of views it can be removed instead of updated to a new working shim.
 
