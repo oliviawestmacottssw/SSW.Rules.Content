@@ -26,7 +26,7 @@ Don't surprise users! Use the following icons:
 | PPT | ![Icon PPT](http&#58;//www.ssw.com.au/ssw/Images/IconPPT.png) This is a PowerPoint file |
 | TXT | ![Icon TXT](http&#58;//www.ssw.com.au/ssw/Images/IconTxt.gif) This is a Text file |
 | AVI, MOV, MPG etc. | ![Icon MOV](http&#58;//www.ssw.com.au/ssw/Images/IconMov.gif) This is a Video file |
-| WAV, ​WMA, MP3 etc. | ![Icon MP3](http&#58;//www.ssw.com.au/ssw/Images/IconMus.gif) This is a Music file |
+| WAV, WMA, MP3 etc. | ![Icon MP3](http&#58;//www.ssw.com.au/ssw/Images/IconMus.gif) This is a Music file |
 | SNP | ![Icon SNP](http&#58;//www.ssw.com.au/ssw/Images/IconSnp.gif) This is an Access Database snapshot file (discontinued and not recommended) |
 | EPS | ![Icon EPS](http&#58;//www.ssw.com.au/ssw/Images/IconEps.gif) This is an EPS file |
 | ICS or VCS | ![Icon VCS](http&#58;//www.ssw.com.au/ssw/Images/IconVCS.gif) This is a calendar file |
@@ -40,6 +40,19 @@ Don't surprise users! Use the following icons:
  ![Image good link](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/GoogleIcons.gif) Figure: FYI there are the same images used by Google at [GoogleDesktopSideBar.htm](http&#58;//desktop.google.com/features.html)  
   ![Image bad link](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/IconImageBad.gif) Figure: Bad Example - The user would expect all these hyperlinks to work the same way
   ![Image good link](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/IconImageGood.gif) Figure: Good Example - The pdf icon (before a hyperlink) indicates it is not a web page
- 
+
+### How to add an icon before a link with CSS
+
+Add the icon image to your server. Then use $= to make the match the extension of the &gt;a&lt; tag on your CSS. The padding is to give it some space before the text (where the icon will be).
+
+a[href$='.pdf'] 
+{ 
+background: transparent url(/images/icon\_pdf.gif) center left no-repeat; 
+​padding-left: 20 px; 
+}
+
+
+
 We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.
+
 
