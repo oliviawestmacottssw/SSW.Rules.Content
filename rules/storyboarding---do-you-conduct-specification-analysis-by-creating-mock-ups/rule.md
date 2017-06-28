@@ -9,7 +9,10 @@ authors:
 
 ---
 
- ​​​Complex documentation can waste time. Many user requirements can be best encapsulated in screen mock-ups. Spend more time on mockups compared with time on documentation.  
+ ​​​Complex documentation can waste time. Many user requirements can be best encapsulated in screen mock-ups. Spend more time on mockups compared with time on documentation. 
+
+
+ 
 Storyboarding is a technique taken from movie production.
  ![Movie Storyboard](/PublishingImages/movie-storyboard.jpg) Figure: Movies are expensive to produce, so directors do storyboards first and then the product designer, costume designer, lighting people etc. all know what they need to do for each scene
 There are five primary types of mockups:
@@ -40,17 +43,17 @@ A layout of how the controls will look is usually all that is needed initially, 
 Other wireframe tools that can be used:
 
 - [Balsamiq](http&#58;//www.balsamiq.com/) **(the most widely used tool recommended for website design)**  ![Wireframe Mockup](/PublishingImages/c24602_WireframeMockup.jpg) Figure: Wireframe storyboard mockup on Balsamiq
-- [Adobe XD](http&#58;//www.adobe.com/au/products/experience-design.html) - preloaded with the most popular UI design blocks **(recommended for web &​​ mobile app design) **
+- [Adobe XD](http&#58;//www.adobe.com/au/products/experience-design.html) - preloaded with the most popular UI design blocks **(recommended for web & mobile app design) ​ **
 
  ![AdobeXD.jpg](/SiteAssets/storyboarding-do-you-conduct-specification-analysis-by-creating-mock-ups/AdobeXD.jpg) Figure: Adobe XD prototyping
  ![AdobeXDMaterialDesign.png](/PublishingImages/AdobeXDMaterialDesign.png) Figure:  Adobe XD Google material design UI kit
 ### Others 
 
 
-- [Sketch flow](http&#58;//msdn.microsoft.com/en-us/library/ee341449%28v=expression.40%29.aspx) (required if the frontend will be a Silverlight or a WPF application - read [Do you use Expression Blend + SketchFlow to create mock-ups?](/Pages/UseExpressionBlendSketchflow.aspx) for further information)
+- [Sketch](https&#58;//www.sketchapp.com/) (Mac Only and for UX designers)
 - [Moqups](https&#58;//moqups.com/) (HTML5 based App)
 - Photoshop (primarily for designers who already have the skills)
-- ​​[UXPin](http&#58;//uxpin.com/) (more sophisticated, helps you create responsive designs)
+- [UXPin](http&#58;//uxpin.com/) (more sophisticated, helps you create responsive designs)
 
 
 ### Developer HTML Mockup
@@ -108,6 +111,6 @@ Here are some more hot tips on mock-ups:
 
 ### Related Rules
 
-- [​​Spec - Do you effectively present the outcomes at the "Specification Review Presentation"?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2a0ffac9-689f-481a-a76b-56bd680310a9)
+- [Spec - Do you effectively present the outcomes at the "Specification Review Presentation"?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2a0ffac9-689f-481a-a76b-56bd680310a9)
 
 
