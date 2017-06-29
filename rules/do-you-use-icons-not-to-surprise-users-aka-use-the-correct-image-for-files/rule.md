@@ -19,7 +19,7 @@ Don't surprise users! Use the following icons:
 
 | File Type | Example |
 | --- | --- |
-| PDF | ![Icon PDF](http&#58;//www.ssw.com.au/ssw/Images/IconPdf.png) This is a PDF file |
+| PDF | ![Icon PDF](http&#58;//www.ssw.com.au/ssw/Images/IconPdf.png) This is a PDF file<br> |
 | JPG | ![Icon JPG](http&#58;//www.ssw.com.au/ssw/Images/IconJpg.gif) This is an Image file |
 | DOC or DOT | ![Icon DOC](http&#58;//www.ssw.com.au/ssw/Images/IconDoc.png) This is a Word Document file |
 | XLS | ![Icon XLS](http&#58;//www.ssw.com.au/ssw/Images/IconXls.gif) This is an Excel Spreadsheet file |
@@ -48,11 +48,11 @@ Add the icon image to your server. Then use $= to make the match the extension o
 a[href$='.pdf'] 
 { 
 background: transparent url(/images/icon\_pdf.gif) center left no-repeat; 
-​padding-left: 20 px; 
+padding-left: 20 px; 
 }
 
 
 
-We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.
+We have the programs [SSW CodeAuditor](http&#58;//www.codeauditor.com/) and [SSW LinkAuditor](https&#58;//linkauditor.com.au/) to check for this rule.
 
 
