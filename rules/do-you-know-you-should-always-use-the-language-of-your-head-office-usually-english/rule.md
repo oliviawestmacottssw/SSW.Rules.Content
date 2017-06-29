@@ -16,10 +16,12 @@ Say your language is Chinese, of course, local Chinese customers would feel more
  
 ​So make it easier to add English speakers into the loop at a moments notice.
 
-The most polite way of doing this is to mention in the email why you are using English. 
- Hi Joe, hope all is well. I wanted to confirm our conversation....
-Figure: Bad example (This is in English since I have included a Sydney colleague... let me know if you need it in Chinese).
+The most polite way of doing this is to mention in the email why you are using English.
 
-Hi Joe, hope all is well. I wanted to confirm our conversation....
-Figure: Good example​​​
+Hi Joe, hope all is well. I wanted to confirm our conversation...
+Figure: Bad example ​
 
+(This is in English since I have included a Sydney colleague... let me know if you need it in Chinese).
+
+Hi Joe, hope all is well. I wanted to confirm our conversation...​
+Figure: Good example​​​​
