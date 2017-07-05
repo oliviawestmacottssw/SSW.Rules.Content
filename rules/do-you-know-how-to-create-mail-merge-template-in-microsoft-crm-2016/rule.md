@@ -17,13 +17,15 @@ The following instructions to create Microsoft CRM 2011 mail merge template req
 3. Click <br>      **Mail Merge Templates** on right content panel.
 4. Click button <br>      **New** to create the new mail merge template.
 5. Fill in the mail merge template details and leave the <br>      **File Attachment** fields empty.
-![Fill in mail merge template details](/PublishingImages/mail-merge-1.jpg)Figure: Fill in mail merge template details6. Click the <br>      **Save** button to save your template.
+![](/PublishingImages/mail-merge-1.jpg)
+Figure: Fill in mail merge template details6. Click the <br>      **Save** button to save your template.
 7. After you save the template, click the button <br>      **Create Template in Word** to start creating the template content.
-![Create Mail Merge Template](/PublishingImages/mail-merge-2.jpg)Figure: Create Mail Merge Template8. A Microsoft Word document will be open on your machine. You'll see a popup about <br>      **Mail Merge Recipients**, click <br>      **Ok** to proceed.
-9. Follow on screen instructions on the right panel of the word document to create the template.
-![Mail Merge Template Document](/PublishingImages/mail-merge-3.jpg)Figure: Follow the instructions to create template content
-# Attention: SSW Developers
-    Please hightlight the block of text that you want user to edit in yellow.
-10. At the last step of Mail Merge instructions in Microsoft Word, click <br>      **Upload Template To CRM 2011** and click <br>      **Yes** on the popup window to save your template in CRM.
-![Save Mail Merge Template To CRM](/PublishingImages/mail-merge-4.jpg)Figure: Save Mail Merge Template To CRM 2011
+![](/PublishingImages/mail-merge-2.jpg)
+Figure: Create Mail Merge Template8. A Microsoft Word document will be open on your machine.
+9. Click Addins | CRM
+10. Follow on screen instructions on the right panel of the word document to create the template.
+![mail-merge-3.jpg](/PublishingImages/mail-merge-3.jpg)
+Figure: Follow the instructions to create template content​
+
+
 
