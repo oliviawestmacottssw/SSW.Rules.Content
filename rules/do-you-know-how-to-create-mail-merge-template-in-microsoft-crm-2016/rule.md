@@ -18,20 +18,15 @@ The following instructions to create Microsoft CRM 2011 mail merge template req
 4. Click button <br>      **New** to create the new mail merge template.
 5. Fill in the mail merge template details and leave the <br>      **File Attachment** fields empty.
 <dl class="image"><dt>
-         <img src="/PublishingImages/mail-merge-1.jpg" alt="Fill in mail merge template details">
-      </dt><dd>Figure&#58; Fill in mail merge template details</dd></dl>6. Click the <br>      **Save** button to save your template.
+         <img src="/PublishingImages/mail-merge-1.jpg" alt="" style="margin&#58;5px;">
+      <br></dt><dd>Figure&#58; Fill in mail merge template details</dd></dl>6. Click the <br>      **Save** button to save your template.
 7. After you save the template, click the button <br>      **Create Template in Word** to start creating the template content.
 <dl class="image"><dt>
-         <img src="/PublishingImages/mail-merge-2.jpg" alt="Create Mail Merge Template">
-      </dt><dd>Figure&#58; Create Mail Merge Template</dd></dl>8. A Microsoft Word document will be open on your machine. You'll see a popup about <br>      **Mail Merge Recipients**, click <br>      **Ok** to proceed.
-9. Follow on screen instructions on the right panel of the word document to create the template.
+         <img src="/PublishingImages/mail-merge-2.jpg" alt="" style="margin&#58;5px;">
+      <br></dt><dd>Figure&#58; Create Mail Merge Template</dd></dl>8. A Microsoft Word document will be open on your machine.
+9. Click Addins | CRM
+10. Follow on screen instructions on the right panel of the word document to create the template.
 <dl class="image"><dt>
-         <img src="/PublishingImages/mail-merge-3.jpg" alt="Mail Merge Template Document">
-      </dt><dd>Figure&#58; Follow the instructions to create template content</dd></dl>
-# Attention: SSW Developers
-    Please hightlight the block of text that you want user to edit in yellow.
-10. At the last step of Mail Merge instructions in Microsoft Word, click <br>      **Upload Template To CRM 2011** and click <br>      **Yes** on the popup window to save your template in CRM.
-<dl class="image"><dt>
-         <img src="/PublishingImages/mail-merge-4.jpg" alt="Save Mail Merge Template To CRM">
-      </dt><dd>Figure&#58; Save Mail Merge Template To CRM&#160;2011</dd></dl>
+         <img src="/PublishingImages/mail-merge-3.jpg" alt="mail-merge-3.jpg" style="margin&#58;5px;">
+      <br></dt><dd>Figure&#58; Follow the instructions to create template content​<br><br></dd></dl>
 
