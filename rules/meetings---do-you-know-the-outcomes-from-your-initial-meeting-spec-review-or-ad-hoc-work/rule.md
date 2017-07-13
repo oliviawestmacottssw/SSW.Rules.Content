@@ -23,17 +23,17 @@ Note: Make sure everyone who was in the meeting from your company checks the ema
 
 It may be necessary to conduct a second initial meeting with a technical specialist attending as well.
 
-You may also find that some clients are unable to progress to a Spec Review until they have a vague ballpark. In these cases, the sales person is to make the decision whether an extra 4 hours will be spent investigating the solution before the  ballpark is  given. This should then be sent as part of that "Post initial meeting" email mentioned above, with Spec review info swapped out for ballpark estimate info as required.
+You may also find that some clients are unable to progress to a Spec Review until they have a vague ballpark. In these cases, the sales person is to make the decision whether an extra 4 hours will be spent investigating the solution before the   ballpark is   given. This should then be sent as part of that "Post initial meeting" email mentioned above, with Spec review info swapped out for ballpark estimate info as required.
 
 A sales person has 16 hours per month of developer time they can invest into this pre-sales investigation, so this time has to be used wisely.
 
 Never offer a fixed price at the conclusion of an Initial Meeting, and this engagement model must be chosen before the Specification Review is done.
 
 More on the [Specification Review rules](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=35fd7784-942a-43ec-8a4b-6edf2fc601ba).
- ![Send a brief proposal](/PublishingImages/Brief-Proposal-MrNorthwind.jpg)  Figure: Send a [brief proposal](http&#58;//www.ssw.com.au/ssw/Standards/templates/BriefProposal.doc)
+ ![Send a brief proposal](/PublishingImages/Brief-Proposal-MrNorthwind.jpg)  Figure: Send a [brief proposal](http&#58;//www.ssw.com.au/ssw/Standards/templates/BriefProposal.docx)
 ### Ad-Hoc work/Consulting
 
 In the event the work is thought to be less than 3 developer days and the scope is well understood, it may be worthwhile for the developers to commence work straight away without a Specification Review. Normal standards for work should be followed, such as [daily scrums](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=731a3f5d-a266-4944-876c-a45afa82832f). This type of work is called 'ad-hoc' work.
 
-You may also immediately commence ad-hoc work if the client is a technical client and you are providing resources for an existing project under the sole direction of the client.​
+You may also immediately commence ad-hoc work if the client is a technical client and you are providing resources for an existing project under the sole direction of the client.
 
