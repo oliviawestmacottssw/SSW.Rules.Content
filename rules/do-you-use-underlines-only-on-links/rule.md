@@ -14,5 +14,9 @@ authors:
 ---
 
  
-Every user under 40 expects underlined text to be a hyperlink. Never underline text that isn't a link.
- ![Websites - Underline no hyperlink](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/Websites_UnderlineNoHyperlink.gif)Figure: Never underline the text when it isn't a link (even <br>      [Scott Guthrie agrees](http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/ScottGu.htm)!) We have a program called  [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#BreadCrumbs) to check for this rule.   
+Users expect underlined text to be a hyperlink. Never underline text that isn't a link.
+ ![Websites - Underline no hyperlink](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/Websites_UnderlineNoHyperlink.gif)Figure: Never underline the text when it isn't a link (even <br>      [Scott Guthrie agrees](http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/ScottGu.htm)!)
+We have a program called  [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#BreadCrumbs) to check for this rule. ​​​
+
+
+
