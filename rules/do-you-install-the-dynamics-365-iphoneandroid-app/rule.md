@@ -11,8 +11,8 @@ authors:
 
 
 
-<span class='intro'> You should have Dynamics 365 installed on your phone.​<br> </span>
+<span class='intro'> Enter Intro Text </span>
 
-<dl class="image"><dt>​<img src="/PublishingImages/dynamics365-app.png" alt="dynamics365-app.png" /></dt></dl><br>
+
 
 
