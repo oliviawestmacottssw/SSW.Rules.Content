@@ -63,7 +63,7 @@ Figure: Good example - Recording bug reports in a video can make the issue clear
 Figure: Good example - Giving feature requests via video
 
 
-### ​Related rules
+### Related rules
 
 - [Reporting a Bug or Enhancement](http&#58;//www.ssw.com.au/ssw/Standards/Support/bugreportorenhancement.aspx)
 - [Do you provide details when reporting .NET Applications errors](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=7cfe44b8-9635-49d9-a908-198a0ea85dc4)
