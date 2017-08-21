@@ -20,8 +20,8 @@ Try to have one email per bug​/suggestion, but if the bugs/suggestions are re
    </dt><dd>Figure&#58; Bad Example - This email isn't going to help the developer much - it is vague and has no screen capture, and gives no alternate way for the developer to contact the user regarding the issue</dd></dl><dl class="goodImage"><dt> <img src="/SiteAssets/do-you-know-the-right-way-to-report-bugs/do-you-know-the-right-way-to-report-bugs-good-example.png" alt="do-you-know-the-right-way-to-report-bugs-good-example.png"> <br>
    </dt><dd>Figure&#58;&#160;Good Example - This email includes the product name and version, the category of the issue (BUG), a screen capture and contact number, and shows that the user's system is up to date</dd> <br></dl>
 
-Writing detailed emails like the above can be very time-consuming and laborious. Therefore, it is always a good idea to use a template to make sending quality bug reports quick and easy. A great example is the [Functional Bug template](https&#58;//github.com/aspnet/Home/wiki/Functional-bug-template) from the ASP.NET open source project.
-
+A great template to follow is the [Functional Bug template](https&#58;//github.com/aspnet/Home/wiki/Functional-bug-template) from the ASP.NET open-source project. Spending time to provide as much detail as possible, by ensuring you have the three critical components of: Steps to reproduce, Expected outcome, and Actual outcome, will save the both you and the developer time and frustration in the long run. 
+​
 
 Also, make sure your descriptions are detailed and useful as that can make finding the solution quicker and easier.
 
