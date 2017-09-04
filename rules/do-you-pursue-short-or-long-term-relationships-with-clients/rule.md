@@ -9,7 +9,8 @@ authors:
 
 ---
 
- Treat clients the same way you would treat a prospective partner - that is, with lots of TLC. Think about your first conversation with a nice girl. You have two approaches you could try. <br> 
+ Treat clients the same way you would treat a prospective partner - that is, with lots of TLC. Think about your first conversation with a nice girl/guy. You have two approaches you could try. <br>
+ 
 The first kind of approach is where you try and seal the whole deal in one go: 
      "I think we would work well together, would you like to get married and have two children?"
 
