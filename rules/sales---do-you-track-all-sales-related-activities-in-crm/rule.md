@@ -12,7 +12,9 @@ authors:
 ---
 
  
-​Microsoft Dynamics 365 allows users to track activities such as appointments, phone calls, emails, ​etc. This feature can be easily abused by users to record unrelated           activities inside CRM. It is difficult sometimes to work out which type of activities           should be recorded. These are the types of activities you should track in CRM:
+**Prerequisite: **[Install the 2 CRM Addins](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10).
+
+Microsoft Dynamics 365 allows users to track activities such as appointments , phone calls, emails, etc. This feature can be easily abused by users to record unrelated activities inside CRM. It is difficult sometimes to work out which type of activities should be recorded. These are the types of activities you should track in CRM:
  
 - 01 Appointments: Initial meeting, and follow-up meetings...
 - 02 Phone Calls: Any incoming and outgoing sales related phone call (note Dynamics has Skype for Business integration to automatically track outgoing phone calls)
