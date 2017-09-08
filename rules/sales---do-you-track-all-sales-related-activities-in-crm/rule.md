@@ -19,7 +19,7 @@ authors:
 - 03 Emails: Sales related emails
 
 
-All sales activities should be set regarding to an opportunity, company or contact.
+All sales activities should be set regarding an opportunity, company or contact.
 <dl><dt class="greyBox"><p>From&#58; Marlon Marescia www.ssw.com.au <br>To&#58; some-email@address.com<br>Subject&#58; RE&#58; Consulting<br></p><p>Hi Robert,<br>As per our conversation, Dan will be starting on Monday 1st March.</p><p>We discussed using a second resource on the project with Dan. You and Dan will assess whether this is necessary during the first week and make a decision.</p><p>I will call you in a week or so to see how things are progressing.</p></dt><dd class="ssw15-rteElement-FigureNormal"> Figure&#58; This email should be tracked in CRM</dd></dl>
 By recording these activities, reports can be created to view:
 
@@ -30,4 +30,6 @@ By recording these activities, reports can be created to view:
 
 <dl class="image"><dt> <img src="/PublishingImages/TrackingGraph.jpg" alt="Work tracking gragh"> </dt><dd> Figure&#58; Activities Report -&#160;Ulysses was the hardest worker for this month. Print this and put it on the wall and it will encourage everyone to log their calls </dd></dl>
 **Note:** You can see more details on what emails to track in [Do you know to hit 'Track' when you receive an important email?](/Pages/Hit-Track-in-CRM-when-you-receive-an-important-email.aspx)
+
+**Prerequisite: **[Install the 2 CRM Addins](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10)
 
