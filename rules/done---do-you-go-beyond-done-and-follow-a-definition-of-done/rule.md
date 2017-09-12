@@ -73,9 +73,9 @@ Start with these examples showing typical "Definitions of Done" from beginner te
 
 - *All of the above, plus*
 - Successful build on the Build Server
-- Git Branch Policies 
+- [Git Branch Policies](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9f872ca1-644c-475d-a58b-8acad8851b87)
 or
-TFS Check in Policy - Changeset Comments Policy (all check-ins must have a comment)
+TFS Check in Policy - Change set Comments Policy (all check-ins must have a comment)
 - TFS Check in Policy - Work Items (all check-ins must be associated with a work item)
 - Code reviewed by one other team member (e.g. Checked by Bill)
 - Sending a Done email with screenshots
