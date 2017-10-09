@@ -11,4 +11,10 @@ authors:
 
 ---
 
- This field should not be null (Remove me when you edit this field). 
+ Continuous deployment is a set of processes and systems in place where every change is proven to be deployable to production and then deployed to production. E.g. DB migrations, code changes, metadata changes, scripts, etc. 
+
+
+
+At minimum teams needs to ensure that (a) All changes are sanitized by an automated continuous deployment pipeline (b) changes at end of each sprint​ are deployed to production. 
+
+ 
