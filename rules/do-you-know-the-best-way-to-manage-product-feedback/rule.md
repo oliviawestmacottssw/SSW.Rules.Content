@@ -17,10 +17,10 @@ There are a number of web applications that do a great job on this:
 - [GetSatisfication​](https&#58;//getsatisfaction.com/corp/)
 - [UserEcho​​](https&#58;//userecho.com/)
 
- ![codeauditoruservoice.jpg](/PublishingImages/codeauditoruservoice.jpg) Figure: The UserVoice website allows user to enter suggestions (used here b y SSW Code Auditor)![admin.jpg](/PublishingImages/admin.jpg) Figure: UserVoice has an Administrator console to track feedback 
+ ![codeauditoruservoice.jpg](/PublishingImages/codeauditoruservoice.jpg) Figure: The UserVoice website allows user to enter suggestions (used here by SSW Code Auditor)![admin.jpg](/PublishingImages/admin.jpg) Figure: UserVoice has an Administrator console to track feedback 
 [UserVoice](https&#58;//www.uservoice.com/) is the most popular platform to collect, manage, and prioritize user feedback. It has a voting and tickets system out of the box.
 
-Many software houses use this for their products eg. SSW Code Auditor, SSW Link Auditor
+Many software houses use this for their products E​g. SSW Code Auditor, SSW Link Auditor
 
 
 Here are the google results as at 2014
