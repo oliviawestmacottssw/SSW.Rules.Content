@@ -11,7 +11,7 @@ authors:
 
 
 
-<span class='intro'> Enter Intro Text<br> </span>
+<span class='intro'> Enter Intro Text </span>
 
 
 
