@@ -38,7 +38,13 @@ These are the best sites for flights within the US
 - [www.AmericanAirlines.com](http&#58;//www.ssw.com.au/SSW/Redirect/AmericanAirlines.htm) (5/10)
 
 
-These are the best sites for flights within China
+
+
+
+
+
+
+​These are the best sites for flights within China
 
 - [www.ctrip.com](http&#58;//www.ctrip.com/) (10/10)
 - [www.fliggy.com​](http&#58;//www.fliggy.com/) (9/10)
@@ -48,11 +54,12 @@ These are the best sites for flights within China
 
 
 
-Compare all alternatives researched and select 3 of the best options to choose from. Make a reccomendation for the option you feel is best (with reasons) and give to your boss to get his/her approval and initial before booking.
+Compare all alternatives researched and select 3 of the best options to choose from. Make a recommendation for the option you feel is best (with reasons) and give to your boss to get his/her approval and initial before booking.
 
 ### NOTE:
 
-- Some travel companies, such as Flight Centre, are able to match or beat the prices quoted by thier competitors so be sure to ask them for a competitive​ fare. See [Booking Online Versus Using a Travel Agent](http&#58;//aussietraveladvice.com/travel-advice-travel-tips/booking-a-holiday-online-versus-travel-agent/)
+
+- Some travel companies, such as Flight Centre, are able to match or beat the prices quoted by t​heir​ competitors so be sure to ask them for a competitive​ fare. See [Booking Online Versus Using a Travel Agent](http&#58;//aussietraveladvice.com/travel-advice-travel-tips/booking-a-holiday-online-versus-travel-agent/)
 - Make sure that before comparing the prices the quotes include all the taxes/ surcharges/fees
 - Booking sites often charge a fee for the service, for instance
 - Ensure that the quotes you receive are 'flexible' ( i.e. they provide an option to alter the travelling dates once the tickets are purchased)
