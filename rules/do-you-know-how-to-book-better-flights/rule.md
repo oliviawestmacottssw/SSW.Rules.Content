@@ -36,7 +36,16 @@ These are the best sites for flights within the US
 - [www.virginamerica.com](http&#58;//www.ssw.com.au/SSW/Redirect/VirginAmerica.htm) (8/10)
 - [www.Cheaptickets.com](http&#58;//www.ssw.com.au/SSW/Redirect/Cheaptickets.htm) (7/10)
 - [www.AmericanAirlines.com](http&#58;//www.ssw.com.au/SSW/Redirect/AmericanAirlines.htm) (5/10)
-- 
+
+
+These are the best sites for flights within China
+
+- [www.ctrip.com](http&#58;//www.ctrip.com/) (10/10)
+- [www.fliggy.com​](http&#58;//www.fliggy.com/) (9/10)
+- [www.qunar.com](http&#58;//www.qunar.com/) (7/10)
+- [www.lvmama.com​](http&#58;//www.lvmama.com/) (6/10)
+
+
 
 
 Compare all alternatives researched and select 3 of the best options to choose from. Make a reccomendation for the option you feel is best (with reasons) and give to your boss to get his/her approval and initial before booking.
