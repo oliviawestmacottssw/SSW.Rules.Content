@@ -10,7 +10,7 @@ authors:
 ---
 
  
-Tight project teams have a Daily 'Scrum' every day at the same time.
+​Tight project teams have a Daily 'Scrum' every day at the same time.
 
 It was once called a 'stand-up meeting' but that discriminates people in wheelchairs.
 
