@@ -15,6 +15,4 @@ Put 'Actual Time Taken' into your email. It's all about education and accountabi
 During the course of a Time and Materials projects, a client will often ask for an estimate on a particular piece of work. Of course we duly go about investigating the work to deliver to the client the required estimate.
 
 Sometimes, due to the nature of the work, the time taken to investigate is completely out of proportion to the time taken to complete the work. As an example, if you are working on a legacy ASP application with loads of spaghetti code, and the client wants a particular bug fixed, it can take 2 hours to locate the bug, and then only 15 minutes to fix it. When you report to the client the estimate for 'how long' - ensure you include the 2 hours investigation, not just the time to fix it. Thus, you need to put 'Actual Time Taken: 2:15'.
-
-We have a program called [SSW eXtreme Emails!](http&#58;//www.ssw.com.au/ssw/eXtremeEmails/Default.aspx) that allows you to use Email as a task tracking, estimating and reporting tool. 
-
+ ​   
