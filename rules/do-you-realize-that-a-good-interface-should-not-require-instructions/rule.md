@@ -26,4 +26,17 @@ A good UI is:
 - Easy to customize + apps (aka a platform)
 - Gamification e.g. badges
 
+
+**
+**
+
+**Suggested reading:**
+
+- [The Design of Everyday Things: Revised and Expanded Edition (Nov 2013)](https&#58;//www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
+- [Don’t Make Me Think, Revisited (3rd Edition)](https&#58;//www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
+
+
+
+
+
 ![Team Viewer Interface](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodUITeamViewer.png)Figure: Good example - Teamviewer's interface requires very little explanation![Fly in a Urinal](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/FlyInUrinal.jpg)Figure: Good Example - See the fly? (an example of excellent usability) Dutch manufacturers realized that a fly painted on the urinal became a "target" for men using the facility. And the fly is positioned in precisely the right place for minimal spillage or splash back. Clever people those Dutch!
