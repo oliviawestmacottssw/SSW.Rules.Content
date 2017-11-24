@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​Cars manufacturers use different solutions for navigation. Touchscreen is most intuitive and easy way to go, as you don't need to learn and get used to it - it's just like our phones, tablets and modern computers.
+ ​​Car manufacturers use different solutions for navigation. Touchscreen is most intuitive and easy way to go, as you don't need to learn and get used to it - it's just like our phones, tablets and modern computers.
  
 ### ​Related Links
 
