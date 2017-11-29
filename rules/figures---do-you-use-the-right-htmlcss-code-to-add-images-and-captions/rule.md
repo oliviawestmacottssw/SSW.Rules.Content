@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Most developers put the image and the caption in a DIV tag. The figure is just a paragraph.  
+ ​Most developers put the image and the caption in a DIV tag. The figure is just a paragraph.  
 
 ```
 <div>
