@@ -12,9 +12,9 @@ authors:
 ---
 
  
-- ​Wherever possible, book direct flights, and try to minimize connection times.
+- ​​Wherever possible, book direct flights, and try to minimize connection times.
 - Wherever possible, try to get flexible flights in case they need to be changed.
-- Appointments - If accomodation is also required then enter the accomodation details into another appointment
+- Appointments - If accommodation is also required then enter the accommodation details into another appointment
 - When booking flights, know the preferred time (on weekdays, avoid evening flights before 8pm. Peek times incur a Uber surcharge)
 - eg. Some people prefer 10am flights, some are not keen on overnight flights
 - When booking, always ask for an exit row or a window seat.
