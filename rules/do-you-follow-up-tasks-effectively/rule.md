@@ -16,7 +16,7 @@ authors:
  
 Sometimes the person responsible for a task isn't able to complete it right away or anytime soon. In this case, a promise is made and the person either has to make a note in a paper diary, stick a post-it note to his screen, or regularly trawl through 'Sent Items' for all the off-hand promises made.
 
-Another scenario is when the task should be done after a period of time. For example: "Send Google Analytics data after a month" or "Remove course banner after the course is completed".
+Another scenario is when the task should be done or will expire ​after a period of time. For example: "Send Google Analytics data after a month" or "Remove course banner after the course is completed".
 
 To ensure you follow up any task like these, there is a brilliant service called [followupthen](https&#58;//www.followupthen.com/) which can do all the administrative work for you.
  
