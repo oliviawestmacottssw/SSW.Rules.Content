@@ -14,15 +14,11 @@ authors:
 ---
 
  
-​​Promises made by email are often pretty empty - the person who made the promise either has to make a note in a paper diary, stick a post-it note to his screen, or regularly trawl through Sent Items for all the off-hand promises made.
+Sometimes the person responsible for a task isn't able to complete it right away or anytime soon. In this case, a promise is made and the person either has to make a note in a paper diary, stick a post-it note to his screen, or regularly trawl through 'Sent Items' for all the off-hand promises made.
 
-To ensure you follow up when you make a promise, you should do the following:
+Another scenario is when the task should be done after a period of time. For example: "Send Google Analytics data after a month" or "Remove course banner after the course is completed".
+
+To ensure you follow up any task like these, there is a brilliant service called [followupthen](https&#58;//www.followupthen.com/) which can do all the administrative work for you.
  
-There is a brilliant service called followupthen which can do all the administrative work for you.
-
-Simply BCC &lt;period of time&gt;@followupthen.com and it will send you an email when that time expires, reminding you to follow up with another phone call or email.
-
-** ![](/PublishingImages/FollowUpThen.jpg)**
-
-**Figure: Good Example - Use [1week@followupthen.com](mailto&#58;1week@followupthen.com)  to be reminded about this email in 1 week​**
-
+Simply BCC or email **&lt;period of time&gt;@followupthen.com** and it will send you an email when that time expires, reminding you to follow up with another​ email.
+![followupthen](/PublishingImages/FollowUpThen.jpg)Figure: Good Example - Use [1week@followupthen.com](mailto&#58;1week@followupthen.com)  to be reminded about this email in 1 week 
