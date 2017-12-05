@@ -19,7 +19,7 @@ authors:
 One of the annoying things with SharePoint document libraries is that users often accidentally leave checked out files, that preventing others from modifying them.​​
 
 Suggestion to Microsoft: send an email to the user to remind them they have outstanding checkouts potentially blocking other users.
-![sp-docs.jpg](/PublishingImages/sp-docs.jpg)Figure: Here Eric Phan has not checked in a file 
+![sp-docs.jpg](/PublishingImages/sp-docs.jpg)Figure: Here Greg Harris has not checked in a file 
 
 
 **Upgrade warning:** The pages that are not checked-in, will not be migrated on a SharePoint upgrade. There is \*no\* warning either.​
@@ -28,7 +28,7 @@ There are 2 ways to remind users of their "checked out files":​
 
 - **Solution A: Manage Content and Structure Report (No Code)​**
 - **Solution B: Custom application report (Includes some coding work)​
-Eg. SSW.SharePoint.CheckedOutFilesReport​
+Eg. SSW.SharePoint.Mama​
 **
 
    ​  
@@ -63,7 +63,7 @@ To make reminding users easier, this SharePoint Add-in ha​s a custom page t
 
 
 Even better, we have also improved the application with a scheduled task using SharePoint CSOM API to find checked out files and send these notification emails automatically​ every night.
-
+​
 
 ![CheckedOutFilesApplicationReport.png](/PublishingImages/CheckedOutFilesApplicationReport.png)Figure: One button reminds all users of their "Checked out Files"
 
@@ -102,7 +102,7 @@ Remember, you can check which files you have checked out at any time by going to
 
 
 
-​--Powered by SSW.SharePoint.CheckedOutFilesReport
+​--Powered by SSW.SharePoint.Mama (v16.1.6548.28338) on [Server Name]
 
  Figure: An example of the reminder email that all users receive 
 
