@@ -16,7 +16,7 @@ It's better to use links to a portal or document store instead of having attachm
 
 If you're sending to a fellow employee, use a link to a document store on your intranet (e.g. intranet.northwind.com/SharedDocuments)
 
-If you're sending to a client, it would be a link to a document store on their [project portal](/do-you-use-a-project-portal-for-your-team-and-client). (e.g. projects.northwind.com/SharedDocuments)
+If you're sending to a client, it would be a link to a document store on their [proje ct portal](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=846474eb-27a1-4645-90ee-10a349fef714). (e.g. projects.northwind.com/SharedDocuments)
  ![Forward client attachments](/PublishingImages/Email_Attachment_1_small.jpg)Figure: Bad example - Don't send attachments by mail ![PortalLinks.jpg](/Documents/PortalLinks.jpg)Figure: Bad example - Don't use location / filename in the link (URL)
 **Tip:** If you're using SharePoint, then an even better way to do this is to use a tool like OnePlaceMail to insert a link from SharePoint
 ![OnePlaceMail.png](/PublishingImages/insert_link_in_email_to_sharePoint_item-png.png)Figure: Good Example - Use OnePlaceMail to send a link to a document in SharePoint
