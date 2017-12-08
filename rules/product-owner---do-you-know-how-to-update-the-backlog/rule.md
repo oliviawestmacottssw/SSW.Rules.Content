@@ -12,13 +12,14 @@ authors:
 ---
 
 
-The Product Owner is responsible for updating and managing the Product backlog.
+The Product Owner is responsible for owning the Product backlog. See the video [here](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=a91de77d-a8dd-40be-b61a-bd6305e7183f):
 
-There are three options:
+There are three options for how to a add new PBI (Product Backlog item) to the backlog:
 
-1. **Team Web Access **- E.g. https://tfs.ssw.com.a​u/tfs  ![image](/SiteAssets/product-owner-do-you-know-how-to-update-the-backlog/RulesScrumUpdateBacklogGood.jpg "image") Figure: TFS Web Access is the best way
-2. **Emails** - This is a very poor way to access and update the backlog as you can’t order the emails by business priority
-3. **Team Companion** ![](/PublishingImages/RulesScrumUpdateBacklogBest.jpg) Figure: Team Companion lets you edit work items right in Outlook
+1. Emails <br>      Bad Example - This is a poor way to add a PBI as you can’t order emails by business prior​​ity​
+2. **Visual Studio Team Services** - E.g. https://ssw.visualstudio.com (Recommended)
+ <br>​         ![image](/SiteAssets/product-owner-do-you-know-how-to-update-the-backlog/RulesScrumUpdateBacklogGood.jpg "image")​​​​Figure: Good Example - VSTS allows you to enter an item directly into the backlog, in the priority order of your choosing
+3. **Team Companion**![](/PublishingImages/RulesScrumUpdateBacklogBest.jpg)Figure: Team Com​panion lets you convert an email to a PBI
 
 
 Decide whatever works best for you; SSW recommends using the backlog directly via web access
