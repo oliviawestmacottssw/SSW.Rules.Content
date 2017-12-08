@@ -22,4 +22,8 @@ There are three options for how to a add new PBI (Product Backlog item) to the b
 3. **Team Companion (Recommended)
 **![](/PublishingImages/RulesScrumUpdateBacklogBest.jpg)Figure: Team Com​panion lets you convert an email to a PBI, giving you the best of both worlds
 
+​
+
+Note: You can also create a PBI using VSTS and attach and email directly if needed, without using Team Companion
+
 
