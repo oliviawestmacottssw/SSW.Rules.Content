@@ -26,21 +26,21 @@ For the Code Auditor web page, please make the list read:
 - Guarantee Industry best practices
 - Friendly licensing model, bloggers even pay 0$ for the full version!
 
-Figure: Bad example - original version of content has not been included in the email 
+Figure: Bad example - original version of content has not been included in the email, 
 
 **Hi Eric,**
 
-On the Code Auditor web page, please change              [http://www.ssw.com.au/ssw/codeauditor](http&#58;//www.ssw.com.au/ssw/codeauditor):
+On the Code Auditor web page, please change [http://www.ssw.com.au/ssw/codeauditor](http&#58;//www.ssw.com.au/ssw/codeauditor):
 
-From:
-     - Scan all your projects for coding              bugs and errors
-     - ​Enforce industry best practices              
-     - Friendly licensing model pay nothing for full version!
+Change from:
+     &gt; - Scan all your projects for coding bugs and errors
+     -  Enforce industry best practices 
+     - Friendly licensing model pay nothing for the full version!
 
 To:
     - Scan all your projects for coding errors
-    ​​- ​Guarantee industry best practices
-    - Friendly licensing model, bloggers even pay  0$ for the full version!
+     -  Guarantee industry best practices
+    - Friendly licensing model,  bloggers even pay  0$ for the full version!
 
 Figure: Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed 
 **Video:** [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI)
