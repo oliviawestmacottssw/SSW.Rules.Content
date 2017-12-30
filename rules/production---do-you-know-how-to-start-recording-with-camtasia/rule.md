@@ -15,7 +15,7 @@ authors:
  
 1. Set your screen resolution to as high as possible but do not exceed 1920 x 1080 for a 16:9 display, or 1920 x 1200 for a 16:10 display. If your screen resolution is too low then you will either have to expand the footage in post-production (which will result in a loss of quality) or release a low-resolution video (which will become poor quality when watched in full screen).
  ![screen resolution.png](/PublishingImages/screen%20resolution.png) 
-Figure: Set your screen resolution as high as possible without exceeding 1920 x 1080 ![poor resolution screenshot.jpg](/PublishingImages/poor%20resolution%20screenshot.jpg) Figure: Bad example - screen resolution is set to 800 x 600. ![good resolution screenshot.jpg](/PublishingImages/good%20resolution%20screenshot.jpg) Figure: Good example - screen resolution set to 1920 x 10802. Start 'Camtasia Recorder'  ![How to record with Camtasia - step 1](/PublishingImages/record-camtasia-1.jpg) Figure: Click on "Record​ the Screen"
+Figure: Set your screen resolution as high as possible without exceeding 1920 x 1080 ![poor resolution screenshot.jpg](/PublishingImages/poor%20resolution%20screenshot.jpg) Figure: Bad example - screen resolution is set to 800 x 600. ![good resolution screenshot.jpg](/PublishingImages/good%20resolution%20screenshot.jpg) Figure: Good example - screen resolution set to 1920 x 10802. Start 'Camtasia Recorder'  ![How to record with Camtasia - step 1](/PublishingImages/record-camtasia-1.jpg) Figure: Click on "Record the Screen"
 3. In the Recorder window, select 'Full Screen', then turn on the mic. Choosing which mic input to use depends on the type of recording you are doing. If you are filming the session, you should select the internal mic since you will be using this for syncing purposes. If however you are just recording your screen with audio, then select an external mic since this will be higher quality.  ![How to record with Camtasia - step 2](/PublishingImages/record-camtasia-2.jpg) Figure: Select the options you need
 4. Select Tools | Options
 5. In the 'General' tab, uncheck the 'Show tooltips' box and check the 'Disable screensaver during capture'.
@@ -23,5 +23,5 @@ Figure: Set your screen resolution as high as possible without exceeding 1920 x 
  ![How to record with Camtasia - step 5](/PublishingImages/record-camtasia-3.jpg) Figure: Check the audio levels7. After you have done all these things, click on 'OK', and then hit the big red 'Rec' button to start recording!
 
  ​​  
-**Tip:** Alternatively, you can use [Loom](https&#58;//www.useloom.com/).
+**Tip:** Alternatively, you can use [Loom](https&#58;//www.useloom.com/), which works as a Google Chrome extension.​
 
