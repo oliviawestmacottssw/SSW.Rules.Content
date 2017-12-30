@@ -23,5 +23,12 @@ Figure: Set your screen resolution as high as possible without exceeding 1920 x 
  ![How to record with Camtasia - step 5](/PublishingImages/record-camtasia-3.jpg) Figure: Check the audio levels7. After you have done all these things, click on 'OK', and then hit the big red 'Rec' button to start recording!
 
  ​​  
-**Tip:** Alternatively, you can use [Loom](https&#58;//www.useloom.com/), which works as a Google Chrome extension.​
+**Tip:** Alternatively, you can use [Loom](https&#58;//www.useloom.com/), which works as a Google Chrome extension.
+
+### Related Rule
+
+
+- [Do you know how to record the screen on a Mac?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2934ebec-62ef-4dcf-a300-bd4f84f211c8)​
+
+
 
