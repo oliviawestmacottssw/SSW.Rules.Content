@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​​​CRM 2013 has a nice way of reducing the amount of work needed to create a new Account, Contact, and opportunity. You just make a Lead first and all three entities are created in one go.
+​​​​CRM 2013 has a nice way of reducing the amount of work needed to create a new Account, Contact, and opportunity. You just make a Lead first and all three entities are created in one go.
 
 The process is:​
  
