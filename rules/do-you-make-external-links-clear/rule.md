@@ -12,14 +12,15 @@ authors:
 ---
 
  
-When I create links I follow a few basic rules:
+When you create links you should follow a few basic rules:
  
-1. If a link is to an external site, a <br>      **visual indication** should be provided to the user like this: <br>      [This is a link to another site](http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/microsoft.htm). <br>      
+1. If your link is an internal link, then it should navigate within the same window. If the link is external, it should open in a new tab and be visually clear to the user that it will lead them away from the current site, that way it is not a surprise.
+2. If a link is to an external site, a <br>      **visual indication** should be provided to the user like this: <br>      [This is a link to another site](http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/microsoft.htm). <br>      
 Search Engines ([http://www.google.com](http&#58;//www.ssw.com.au/ssw/Redirect/Web/Google.htm) is by far the best but try other search engines as well)
 Figure: Bad example - Without visual indication
 Search Engines ([http://www.google.com](http&#58;//www.ssw.com.au/ssw/Redirect/Web/Google.htm) is by far the best but try other search engines as well)
 Figure: Good example - With visual indication​
-2. External link **images should be inserted by CSS** and not embedded in the page source. <br>      ![](http&#58;//www.ssw.com.au/SSW/Standards/Rules/images/BadLink.gif)​ <br>         Figure: Bad example - Why is this in my source code?![](http&#58;//www.ssw.com.au/SSW/Standards/Rules/images/GoodLink.gif)Figure: Good example - Icon is added by CSS via a simple declaration.
+3. External link **images should be inserted by CSS** and not embedded in the page source. <br>      ![](http&#58;//www.ssw.com.au/SSW/Standards/Rules/images/BadLink.gif)​ <br>         Figure: Bad example - Why is this in my source code?![](http&#58;//www.ssw.com.au/SSW/Standards/Rules/images/GoodLink.gif)Figure: Good example - Icon is added by CSS via a simple declaration.
 
 
 We have a program called     [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.​
