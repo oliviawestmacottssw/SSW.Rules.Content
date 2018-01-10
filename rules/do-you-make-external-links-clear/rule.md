@@ -12,7 +12,7 @@ authors:
 ---
 
  
-When you create links you should follow a few basic rules:
+When creating links,​​ you should follow a few basic rules: ​
  
 1. If your link is an internal link, then it should navigate within the same window. If the link is external, it should open in a new tab and be visually clear to the user that it will lead them away from the current site, that way it is not a surprise.
 2. If a link is to an external site, a <br>      **visual indication** should be provided to the user like this: <br>      [This is a link to another site](http&#58;//www.ssw.com.au/ssw/Redirect/Microsoft/microsoft.htm). <br>      
