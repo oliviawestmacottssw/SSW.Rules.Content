@@ -16,7 +16,8 @@ authors:
 Exploratory testing provides the best way to create repeatable tests from the acceptance criteria - as you need them.​
  
 There are two ways to run an exploratory test in Microsoft Test Manager.
-![exploratory_2.png](/PublishingImages/exploratory_2.png)Figure: Bad Example - go to the Test tab, choose Do Exploratory Testing, choose a PBI, then click Explore. Too many steps.![exploratory_1.png](/PublishingImages/exploratory_1.png)
+![exploratory_2.png](/PublishingImages/exploratory_2.png)Figure: Bad Example - go to the Test tab, choose Do Exploratory Testing, choose a PBI, then click Explore. Too many steps​
+![exploratory_1.png](/PublishingImages/exploratory_1.png)
 Figure: Good Example - Right-click on a requirement in your test suite and choose "Explore requirement"
 
 **Note: **You should always run an exploratory test against a PBI. This will automatically relate any bugs and test cases to that PBI (not to mention the exploratory test run).
