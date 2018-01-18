@@ -17,9 +17,11 @@ authors:
 
 ---
 
- Hashtags identify the keyword or topic of interest that the post is about. They allow searching for similar posts on the topic. They were popularized on twitter and now work on Facebook, Pinterest, and Google+. On twitter, it is possible to "track" (aka Subscribe to) a tag.  
+ ​Hashtags identify the keyword or topic of interest that the post is about. They allow searching for similar posts on the topic. They were popularized on twitter and now work on Facebook, Pinterest, and Google+. On twitter, it is possible to "track" (aka Subscribe to) a tag.  
  
-​​The best tweets will use a combination of @mentions and #hashtags where appropriate to properly leverage the platform – that way readers can check out the people involved OR join the conversation about a topic.
+
+
+The best tweets will use a combination of @mentions and #hashtags where appropriate to properly leverage the platform – that way readers can check out the people involved OR join the conversation about a topic.
 
 
 ​![hashtag-stream.jpg](/PublishingImages/tweet-with-mentions-and-hashtags.png)Figure: Figure: This tweet utilises @mentions, #hashtags, and an external link, which will create higher engagement and let the reader further explore the topic
