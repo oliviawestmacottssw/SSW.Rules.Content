@@ -24,6 +24,12 @@ On the other hand, **@Mentions** are used when talking to or about someone (the 
 
 
  
+The best tweets will use a combination of @mentions and #hashtags where appropriate to properly leverage the platform – that way readers can check out the people involved OR join the conversation about a topic. 
+​
+
+
+ ![hashtag-stream.jpg](/PublishingImages/tweet-with-mentions-and-hashtags.png) Figure: Figure: This tweet utilises @mentions, #hashtags, and an external link, which will create higher engagement and let the reader further explore the topic
+ 
 **Small companies:
 **If the brand is not big you don't need it diluted. So find the profile and use the @ not the #
 E.g. @firebootcamp is preferred over #firebootcamp
