@@ -12,7 +12,7 @@ authors:
  ![](/PublishingImages/expense-reimbursement.png)
 ​You should be reimbursed for all reasonable expenses incurred in carrying out your duties, which are above your normal costs, to and from the office.
 
-A common example is bus and train fares to client sites. Amounts under $40 should be reimbursed through Petty Cash. In SSW China office, amounts under ￥200 should be reimbursed through Petty Cash.
+A common example is bus and train fares to client sites. In Australia, amounts under $100 could be reimbursed through Petty Cash but in China, it would be around ￥300. ​
 
 
  
@@ -26,12 +26,15 @@ All expense claims must:
 - Be supported by Tax Invoices
 - Not include alcohol, as it incurs FBT
 
-​​If you’re in SSW China Office, all expense claims must:
+If you’re in China, all expense claims must:
+
+
 
 - Be work related
 - Only Fapiao is available
-- ​​Be made within a month
+- Be made within a month
 - Be authorized by the relevant Manager
+
 
 
 
