@@ -115,7 +115,42 @@ Focus on the Flow
 [Joel Semeniuk](http&#58;//joelfromcanada.com/)
 
 
-**More information:**
+When using email or IM try to be as specific as possible.
+
+
+Hi Adam, 
+
+I have XX days until my next client booking.
+I have 22 emails in my inbox.
+Yesterday I was on sick leave.
+Today I am working on:
+
+- Timepro PBIs
+- Tidy inbox
+
+
+&lt;This email was sent as per [http://sugarlearning.com/Item/8291](http&#58;//sugarlearning.com/Item/8291%22%20%5ct%20%22_blank)&gt;
+
+ Figure: Bad example - Lack of details. Eg. Yesterday - if it's Monday, you wouldn't say “Yesterday was Sunday"... so if you were sick, it's more useful to go back to the prior day you were working. 
+
+
+Hi Adam, 
+
+I have XX days until my next client booking.
+I have 22 emails in my inbox.
+Last Friday I was on sick leave.
+Today I am working on:
+
+- Timepro - Adding new button to the next day
+- Getting my emails on "SSW.com" to zero
+
+
+&lt;This email was sent as per [http://sugarlearning.com/Item/8291](http&#58;//sugarlearning.com/Item/8291%22%20%5ct%20%22_blank)&gt;
+
+ Figure: Good example - Clear details 
+
+### More information
+
 
 **What happens when you run out of tasks?**
 
