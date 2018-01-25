@@ -16,14 +16,14 @@ If you were going to build a house, you would hope that the architect and builde
 
 At SSW we realize the monumental importance of a marketing plan. Although we recognize that in many cases marketing plans get filed away in the closet, until its time to get a business loan it's most effective when it acts as a blue print for all the marketing activities a company undertakes.
  
-​Here are some of the important points to consider in a marketing plan.
+Here are some of the important points to consider in a marketing plan.
 
 - Sets out your marketing goals and objectives then aligns them with overall business goals and strategy
 - Sets out a time frame for achieving its goals
-- Identifies a target market and segmentation strategy
+- Identify a target market and segmentation strategy
 - How you will position and differentiate your product
 - Competitors and industry analysis
-- Identifies current and proposed marketing methods
+- Identify current and proposed marketing methods
 - Includes marketing reports (historical and forecasts)
 - It sets the criteria which the plan will be assessed for success or failure
 
