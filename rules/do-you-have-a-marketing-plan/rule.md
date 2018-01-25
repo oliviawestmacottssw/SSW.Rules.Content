@@ -25,7 +25,7 @@ Here are some of the important points to consider in a marketing plan.
 - Use competitors and industry analysis
 - Identify current and proposed marketing methods
 - Include marketing reports (historical and forecasts)
-- S et the criteria which the plan will be assessed for success or failure
+- Set the criteria which the plan will be assessed for success or failure
 
 
 The most important thing to remember about a marketing plan is that it is a work in progress. Always needing to be reassessed and changed to adapt to the dynamic business environment.
