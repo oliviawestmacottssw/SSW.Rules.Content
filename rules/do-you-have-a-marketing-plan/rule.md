@@ -18,14 +18,14 @@ At SSW we realize the monumental importance of a marketing plan. Although we rec
  
 Here are some of the important points to consider in a marketing plan.
 
-- Sets out your marketing goals and objectives then aligns them with overall business goals and strategy
-- Sets out a time frame for achieving its goals
+- Set out your marketing goals and objectives then aligns them with overall business goals and strategy
+- Set out a time frame for achieving its goals
 - Identify a target market and segmentation strategy
-- How you will position and differentiate your product
-- Competitors and industry analysis
+- Define how you will position and differentiate your product
+- Use competitors and industry analysis
 - Identify current and proposed marketing methods
-- Includes marketing reports (historical and forecasts)
-- It sets the criteria which the plan will be assessed for success or failure
+- Include marketing reports (historical and forecasts)
+- S et the criteria which the plan will be assessed for success or failure
 
 
 The most important thing to remember about a marketing plan is that it is a work in progress. Always needing to be reassessed and changed to adapt to the dynamic business environment.
