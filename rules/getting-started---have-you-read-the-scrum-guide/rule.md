@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- ​​​Everyone who will be involved in Scrum (pigs and chickens alike) should have read and understood the Scrum guide. 
+ ​​​​Everyone who will be involved in Scrum (pigs and chickens alike) should have read and understood the Scrum guide. 
  
 
 
