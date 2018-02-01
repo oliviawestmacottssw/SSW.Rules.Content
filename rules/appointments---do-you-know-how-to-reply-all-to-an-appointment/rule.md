@@ -12,11 +12,4 @@ authors:
 ---
 
  Some of us have Outlook calendars that are full to the brim. We might use our Calendar to remind us to do certain personal tasks, we might have an appointment telling us that someone else is going on leave, and, of course, we all have meetings with clients or colleagues. Our calendars can get very messy and it's easy to miss something important. This is why you should remind attendees by email of your meeting the day before it is scheduled. Outlook makes this easy.<br>
- 
-###### ![Calendar window](/PublishingImages/betterMeeting1_small.jpg)
-
-###### Figure: Open the appointment in your Calendar (You should already have Invited all the required people to attend)
-![](/PublishingImages/Appt-ReplyAllWithMessage.jpg)
-
-Figure: Click on "Message to Attendees" and then "Reply to All with Message" ![Type the messages](/PublishingImages/betterMeeting4_small.jpg) 
-Figure: Send a friendly reminder!
+ ![Calendar window](/PublishingImages/betterMeeting1_small.jpg)Figure: Open the appointment in your Calendar (You should already have Invited all the required people to attend)![](/PublishingImages/Appt-ReplyAllWithMessage.jpg)Figure: Click on "Message to Attendees" and then "Reply to All with Message"![Type the messages](/PublishingImages/betterMeeting4_small.jpg) Figure: Send a friendly reminder!
