@@ -43,7 +43,7 @@ A layout of how the controls will look is usually all that is needed initially, 
 Other wireframe tools that can be used:
 
 - [Balsamiq](http&#58;//www.balsamiq.com/) **(the most widely used tool recommended for website design)**  ![Wireframe Mockup](/PublishingImages/c24602_WireframeMockup.jpg) Figure: Wireframe storyboard mockup on Balsamiq
-- [Adobe XD](http&#58;//www.adobe.com/au/products/experience-design.html) - preloaded with the most popular UI design blocks **(recommended for web & mobile app design) ​ **
+- [Adobe XD](http&#58;//www.adobe.com/au/products/experience-design.html) - preloaded with the most popular UI design blocks **(recommended for web & mobile app design) **
 
  ![AdobeXD.jpg](/SiteAssets/storyboarding-do-you-conduct-specification-analysis-by-creating-mock-ups/AdobeXD.jpg) Figure: Adobe XD prototyping
  ![AdobeXDMaterialDesign.png](/PublishingImages/AdobeXDMaterialDesign.png) Figure:  Adobe XD Google material design UI kit
@@ -112,5 +112,6 @@ Here are some more hot tips on mock-ups:
 ### Related Rules
 
 - [Spec - Do you effectively present the outcomes at the "Specification Review Presentation"?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2a0ffac9-689f-481a-a76b-56bd680310a9)
+- [Do you ask clients to initial your work?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=69588363-1343-4697-8520-a04465e4ac1b)
 
 
