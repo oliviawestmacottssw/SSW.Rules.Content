@@ -9,12 +9,13 @@ authors:
 
 ---
 
- ​​​Complex documentation can waste time. Many user requirements can be best encapsulated in screen mock-ups. Spend more time on mockups compared with time on documentation. 
-
+ ​​​Complex documentation can waste time. Many user requirements can be best encapsulated in screen mock-ups. Spend more time on mockups compared with time on documentation.​
 
  
 Storyboarding is a technique taken from movie production.
  ![Movie Storyboard](/PublishingImages/movie-storyboard.jpg) Figure: Movies are expensive to produce, so directors do storyboards first and then the product designer, costume designer, lighting people etc. all know what they need to do for each scene
+Source: [Woodsman Film Company​](http&#58;//www.thewoodsmanfilm.com/importance-storyboarding-filmmaking/)
+
 There are five primary types of mockups:
 
 1. **Hand drawn Mockups**
@@ -112,6 +113,6 @@ Here are some more hot tips on mock-ups:
 ### Related Rules
 
 - [Spec - Do you effectively present the outcomes at the "Specification Review Presentation"?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2a0ffac9-689f-481a-a76b-56bd680310a9)
-- [Do you ask clients to initial your work?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=69588363-1343-4697-8520-a04465e4ac1b)
+- [Do you ask clients to initial your work?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=69588363-1343-4697-8520-a04465e4ac1b)
 
 
