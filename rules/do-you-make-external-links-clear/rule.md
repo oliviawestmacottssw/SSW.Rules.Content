@@ -21,16 +21,11 @@ Figure: Bad example - Without visual indication
 Search Engines ([http://www.google.com](http&#58;//www.ssw.com.au/ssw/Redirect/Web/Google.htm) is by far the best but try other search engines as well
 Figure: Good example - With visual indication
 3. External link **external indicators should be inserted by CSS** as following: 
-a[href\*="//"]:not([href\*="mysite.com"]):after {
-
-
-> content: url(https://www.ssw.com.au/ssw/images/external.gif);
-
-
-
-> padding-left: 4px;
-
-}Figure: Good example - Icon is added by CSS via a simple declaration
+a[href\*="//"]:not([href\*="mysite.com"]):after { 
+    content: url(https://www.ssw.com.au/ssw/images/external.gif); 
+    padding-left: 4px;
+}
+Figure: Good example - Icon is added by CSS via a simple declaration
 
 
 We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.
