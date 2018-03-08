@@ -11,7 +11,8 @@ authors:
 
 ---
 
- Wither you are converting an email to a blog post or writing it from scratch, always invite and instruct discussion. <br> 
+ Whether​ you are converting an email to a blog post or writing it from scratch, always invite and instruct discussion. <br>
+ 
 ![SNAGHTMLf1a9ab](/PublishingImages/RulesBloggingFeedbackBad.jpg "SNAGHTMLf1a9ab")
 Figure: Bad example, there are no instructions here
 
