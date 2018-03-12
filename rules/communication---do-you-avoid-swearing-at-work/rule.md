@@ -10,9 +10,11 @@ authors:
 ---
 
  
-Swearing is not acceptable at work.
+​Swearing is not acceptable at work.
 
 People should not get comfortable with bad language as the work environment would suffer.
 
-Some good deterrents are:
- To enforce ten push-ups for every infraction (recommended). ​This is the same concept as a swear jar but also promotes fitness. ​​![GORDON-RAMSAY.jpg](/PublishingImages/GORDON-RAMSAY.jpg)Figure: Gordon Ramsay - The only man who​ can ​​​​get away with professional swearing
+Some good deterrents are:​
+ 
+To enforce ten push-ups for every infraction ​(recommended). ​This is the same concept as a swear jar but also promotes fitness. ​
+![GORDON-RAMSAY.jpg](/PublishingImages/GORDON-RAMSAY.jpg)Figure: Gordon Ramsay - The only man who​ can ​​​​get away with professional swearing
