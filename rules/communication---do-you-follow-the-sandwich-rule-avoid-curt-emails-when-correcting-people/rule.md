@@ -17,7 +17,9 @@ The sandwich rule approach is an effective way to provide feedback to other team
 3. End with some additional positive feedback (you may repeat #1)
 
 
-This optimistic approach allows you to maintain a healthy relationship with your                     team members and clients.
+This optimistic approach allows you to maintain a healthy relationship with your team members and clients.
 
 ![criticize-behavior-not-person.gif](/PublishingImages/criticize-behavior-not-person.gif)
-Figure: What not to do​
+Figure: What not to do​​​​
+
+
