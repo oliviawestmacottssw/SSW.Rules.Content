@@ -18,4 +18,4 @@ Some good deterrents are:​
 - To enforce 10 push-ups for every infraction ​(recommended). ​
 This is the same concept as a swear jar but also promotes fitness.​
 
-![GORDON-RAMSAY.jpg](/PublishingImages/GORDON-RAMSAY.jpg)Figure: Gordon Ramsay - The only man who​ can ​​​​get away with professional swearing
+![GORDON-RAMSAY.jpg](/PublishingImages/gordon-ramsay.jpg)Figure: Gordon Ramsay - The only man who​ can ​​​​get away with professional swearing
