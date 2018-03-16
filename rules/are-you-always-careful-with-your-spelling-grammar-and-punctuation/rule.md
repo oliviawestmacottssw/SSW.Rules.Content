@@ -17,24 +17,27 @@ Improper spelling, grammar, and punctuation gives a bad impression of your compa
 ### Web Content
 
 
-Go to [Grammarly](https&#58;//app.grammarly.com/), create a New Document and Paste your content to check your text.
- ![grammarly.png](/PublishingImages/grammarly.png) Figure: A typo caught by Grammarly 
-
-It's also a good idea to [install Grammarly Addon for Chrome](https&#58;//chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) so you can automatically check web content while editing in a CMS for example.
+When on a web page, [install Grammarly Addon for Chrome](https&#58;//chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) so you can automatically check web content. For example, while editing in a CMS.
+ ![grammarly.png](/PublishingImages/grammarly-plugin.png) Figure: A typo caught by Grammarly plugin 
 
 ### Documents
 
 
-Copy and Paste your content into MS Word then press **F7 **(or on the ribbon go to **Review &gt; Spelling & Grammar**) to check your text.
+When on Word, press **F7 **(or on the ribbon go to **Review &gt; Spelling & Grammar**) to check your .docx text.
  ![Use Microsoft Word's spelling and grammar checker to confirm your content is correct](/PublishingImages/Microsoft-Word-has-a-spelling-and-grammar-checker.jpg) Figure: Click on "Spelling & Grammar" button to check your web content
-### ​Presentation
+### Presentation
 
-On PowerPoint press **F7 **(or on the ribbon go to **Review &gt; Spelling & Grammar**) to check your text.
- ![ppt-review-f7.png](/PublishingImages/ppt-review-f7.png) Figure: Click on "Spelling & Grammar" button to check your web content
-You should also keep "Check grammar with spelling" checked in your PowerPoint **Options &gt; Proofing**:
- ![ppt-check-spelling.png](/PublishingImages/ppt-check-spelling.png)
+When on PowerPoint , press **F7 **(or on the ribbon go to **Review | Spelling & Grammar**) to check your .pptx text.
+ ![ppt-review-f7.png](/PublishingImages/ppt-review-f7.png) Figure: Click on "Spelling" button to check your web content
+You should also keep "Check grammar with spelling" checked in your PowerPoint **Options | Proofing**:
+ ![ppt-check-spelling.png](/PublishingImages/ppt-check-spelling.png) 
 Figure: Make sure "Check grammar with spelling" is enabled
 
+### Web Content
+
+
+Any other text can be checked manually. Go to [Grammarly](https&#58;//app.grammarly.com/), create a New Document and Paste your content to check your text.
+ ![grammarly.png](/PublishingImages/grammarly.png) Figure: A typo caught by Grammarly 
 ### Related rule
 
 
