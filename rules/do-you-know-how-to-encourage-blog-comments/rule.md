@@ -12,12 +12,6 @@ authors:
 ---
 
  Whether​ you are converting an email to a blog post or writing it from scratch, always invite and instruct discussion. <br>
- 
-![SNAGHTMLf1a9ab](/PublishingImages/RulesBloggingFeedbackBad.jpg "SNAGHTMLf1a9ab")
-Figure: Bad example, there are no instructions here
-
-![SNAGHTMLef6f69](/PublishingImages/RulesBloggingFeedbackGood.jpg "SNAGHTMLef6f69")
-Figure: Good example – Asking some questions at the end will solicit more feedback
-
+ ![SNAGHTMLf1a9ab](/PublishingImages/RulesBloggingFeedbackBad.jpg "SNAGHTMLf1a9ab")Figure: Bad example, there are no instructions here![SNAGHTMLef6f69](/PublishingImages/RulesBloggingFeedbackGood.jpg "SNAGHTMLef6f69")Figure: Good example – Asking some questions at the end will solicit more feedback
 Although people may not comply, it helps them adjust from the world of email only.
 
