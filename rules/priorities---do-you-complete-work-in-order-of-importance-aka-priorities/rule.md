@@ -11,12 +11,12 @@ authors:
 
 ---
 
- ​​With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others.  ![Challenges ahead sign](/PublishingImages/challenges-ahead-sign.jpg) Figure: Remove roadblocks 
+ ​​With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others.   ![Challenges ahead sign](/PublishingImages/challenges-ahead-sign.jpg) Figure: Remove roadblocks
 This is the order which you should work:
 
-1. **Urgent emails** - emails with "URGENT" in the subject e.g. URGENT - website is down
-2. Emails about [Timesheets](/do-you-know-how-important-timesheets-are)or invoicing issues
-3. **Your existing clients** - e.g. Normal planned client work and client administration (preferably working from a sprint [backlog](/do-you-know-how-to-manage-the-product-backlog) and Daily Scrums)
+1. **Urgent emails** - emails with "URGENT" in the subject e.g. URGENT - the website is down
+2. Emails about  [Timesheets](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ffae6faf-35b2-48d6-8999-37a02ad3b9af)or invoicing issues
+3. **Your existing clients** - e.g. Normal planned client work and client administration (preferably working on a sprint [backlog](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f0198a96-7a71-4797-b738-d66aa38a98df) and Daily Scrums)
 4. **Other client work** - Ask others if you can help with their client work
 5. **Prospective clients** - project management, answering questions and setting up meetings
 6. Internal - all of the following might have their priorities ordered by the Daily Scrum
@@ -26,20 +26,23 @@ This is the order which you should work:
     4. Help others get their important emails to 0
     5. Get your inbox to 0
     6. Ping others to see if they need help completing their [Sprint](http&#58;//sharepoint.ssw.com.au/Standards/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx)
-7. Phew... Done...​
+7. Phew... Done...
 
 
 Tip #1: Don't move an important task out of your inbox unless:
 
 - Someone else is going to do it right away; or
-- It​ is going into a Sprint
+- It is going into a Sprint
 
-Figure: Leave it in your inbox - unless you need to delegate an important task
-​Tip #2: Use inbox subfolders to group and prioritise tasks​​
-![subfolders.png](/PublishingImages/subfolders.png)
-Figure: Group by subfolders under your inbox
-![Tasks](/PublishingImages/tasks-illustration.jpg) Figure: Efficient people keep a priority list (often written) 
+
+
+
+Tip #2: Use inbox subfolders to group and prioritize tasks
+ ![subfolders.png](/PublishingImages/subfolders.png) Figure: Group by subfolders under your inbox ![Tasks](/PublishingImages/tasks-illustration.jpg) Figure: Efficient people keep a priority list (often written)
 Also, it's common that priority orders change, but clients don't always mean to, so double check that the client means this.
+
 When someone is asking you to do a new task, and you are still working on some other task, you should ask:
 
-"Are you changing the priority order? Do you want this new task done before the current task I'm working on, which is xxx." Figure: Confirm with the client "Are you changing the prior order?"![](/PublishingImages/prioritization.jpg) Figure: Prioritization - The most recent task assigned is not necessarily the most important. Mentally do this (e.g. an air traffic controller does not deal with the newest plane that has popped up on his radar when he has 4 lined up to land
+"Are you changing the priority order? Do you want this new task done before the current task I'm working on, which is xxx."
+Figure: Confirm with the client "Are you changing the prior order?" ![](/PublishingImages/prioritization.jpg) Figure: Prioritization - The most recent task assigned is not necessarily the most important. Mentally do this (e.g. an air traffic controller does not deal with the newest plane that has popped up on his radar when he has 4 lined up to land​
+
