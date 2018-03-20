@@ -11,14 +11,7 @@ authors:
 
 ---
 
- If someone gives you feedback and you think it is worth incorporating into the content, you should always name them at the top of your blog post. This makes them feel good and gives your post more credibility. <br> 
-![SNAGHTML1d4b746](/PublishingImages/RulesBloggingAcknowledgeBad.jpg "SNAGHTML1d4b746") 
-<font class="ms-rteCustom-FigureBad" size="+0">Figure&#58; Bad example, a static blog post. Does not look like it has been updated.</font>
-
-
-
-![SNAGHTML1d398ce](/PublishingImages/RulesBloggingAcknowledgeGood.jpg "SNAGHTML1d398ce")
-<font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; Good example, dated and attributed updates give your posts credibility and make them seam alive.</font>
-
-Make sure that the follow up and aggregate Twitter and Facebook users as well. Make all your readers feel included and you will create loyalty within your readership.
+ If someone gives you feedback and you think it is worth incorporating into the content, you should always name them at the top of your blog post. This makes them feel good and gives your post more credibility. <br>
+ <dl class="badImage"><dt><img alt="SNAGHTML1d4b746" src="/PublishingImages/RulesBloggingAcknowledgeBad.jpg" style="width&#58;800px;"></dt><dd>Figure&#58; Bad example, a static blog post. Does not look like it has been updated.</dd></dl><dl class="goodImage"><dt><img alt="SNAGHTML1d398ce" src="/PublishingImages/RulesBloggingAcknowledgeGood.jpg" border="0" style="width&#58;800px;"> </dt><dd>Figure&#58; Good example, dated and attributed updates give your posts credibility and make them seam alive.</dd></dl>
+Make sure that the follow-up and aggregate Twitter and Facebook users as well. Make all your readers feel included and you will create loyalty within your readership.
 
