@@ -12,5 +12,5 @@ authors:
  
 We believe in reinforcing your company profile at every appropriate opportunity. The appearance of your office to your company profile is like your clothes to your personal profile, and although it may appear odd to cover yourself with marketing paraphernalia as you walk down the street, it's good business sense to use your office as a marketing tool.
  
-At SSW we direct all our visiting clients into the boardroom for a brief period, which contains useful information about us , such as signs on the walls and a tv with a scrolling video featuring our team, current projects and clients, the way we work, awards, upcoming events and testimonials from our long list of satisfied customers. ​​![IMG_0075.jpg](/SiteAssets/do-you-have-a-waiting-area-that-reinforces-your-marketing-profile/IMG_0075.jpg)
+At SSW we direct all our visiting clients into the boardroom for a brief period, which contains useful information about us , such as signs on the walls and a tv with a scrolling video featuring our team, current projects and clients, the way we work, awards, upcoming events and testimonials from our long list of satisfied customers. ​​​
 
