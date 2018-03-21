@@ -15,7 +15,7 @@ Did you know that all pilots around the world must speak English? Back then the 
 If you are an Australian or British this rule is controversial, but it is worth it for the following reasons:
 
 - Cater for the majority. Most web traffic is from American users and they expect American (most probably will assume it is an error)
-- On the practical side, more web searches are going to be returned for US spelling of words.​
+- On the practical side, more web searches are going to be returned for US spelling of words.
 
  
 ​​Don't forget [after making edits to check your pages for spelling errors](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTechnicalDocumentation.aspx#WordSpellingAndGrammarChecker).
