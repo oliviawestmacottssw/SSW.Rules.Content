@@ -8,7 +8,7 @@ authors: []
 ---
 
  
-​This cannot be stressed enough. The venue for your event is the absolute most important item to get right and to get locked in.​
+​​This cannot be stressed enough. The venue for your event is the absolute most important item to get right and to get locked in.​
  
 ​ An ideal venue should be addressing all of the following
 
