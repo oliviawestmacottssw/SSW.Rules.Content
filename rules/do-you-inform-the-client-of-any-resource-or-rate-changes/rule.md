@@ -20,9 +20,9 @@ We have standard templates for these situations in our intranet shared documents
 
 Hi Marlon,
 
-As per our conversation, I wanted to let you know that Eric was promoted to Solution Architect earlier this year. We held back his rate change until the end of this phase of the project, but we will be implementing his new rate as of 9/10/2013.
+As per our conversation, I wanted to let you know that Eric was promoted to Solution Architect earlier this year. We held back his rate change until the end of this phase of the project, but we will be implementing his new rate as of 9/1/2019.
 
-His new standard rate is $245/hour+GST. Don't forget SSW offers a competitive rate to those clients pre-paying time in blocks of 40 hours per Project Team Member.
+His new standard rate is $285/hour+GST. Don't forget SSW offers a competitive rate to those clients pre-paying time in blocks of 40 hours per Project Tea​m Member.
 
 I trust you've been happy with Eric's contribution to your project so far. We look forward to working with you soon.
 
