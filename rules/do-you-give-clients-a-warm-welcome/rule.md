@@ -19,18 +19,24 @@ authors:
 - Offering them tea, coffee or biscuits (not everyone likes tea/coffee)
 
 
-Figure: Bad example - This could start the meeting poorly ​ <br><br>      
+ Figure: Bad example - This could start the meeting poorly 
 
 - Be dressed appropriately
 - Greet them warmly
 - Have a firm handshake
 - Make eye contact and smile
-- Direct them to wait in the boardroom (so they can see all the marketing materials on the walls)
+- Direct them to wait in the waiting area (so they can learn about the company through our tv screens)
 - Notify the project manager/developers who are included in the meeting
-- Ask someone to bring couple of glasses of water into the meeting (as everyone drinks water) Join the meeting in the boardroom:
+- Ask someone to bring a couple of glasses of water into the meeting (as everyone drinks water)
+- Join the meeting in the boardroom:
 - Show some enthusiasm when meeting with the client
 - Hand over, and collect, business cards - (organize in front of you, to help you remember their names)
-- ​​Use their names a few times early on to help you remember their name​​
+- Use their names a few times early on to help you remember their name
 
 
- ​<br>​Figure: Good Example - You are starting off the meeting well
+ Figure: Good Example - You are starting off the meeting well​
+
+​​​
+
+​​​​​​You should do a role-play with your manager being the client. Then get feedback on how he/she found the experience.
+
