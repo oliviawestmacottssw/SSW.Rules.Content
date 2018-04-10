@@ -26,7 +26,7 @@ authors:
 
 Hi Bob, 
 ​
-As discussed, there will be no charge for the spec review. It will be 2 days of work. you will receive an invoice with the items on it at $10. I would like you to give me feedback as if you were a normal client, so you can help me run my business better.
+As discussed, there will be no charge for the spec review. It will be 2 days of work. you will receive an invoice with the items on it at $0. I would like you to give me feedback as if you were a normal client, so you can help me run my business better.
 **
 Zero Invoices:** When entering timesheets for free work, set your rate to $0
 ![zero-timesheet.png](/SiteAssets/do-you-treat-freebies-as-real-customers/zero-timesheet.png)
