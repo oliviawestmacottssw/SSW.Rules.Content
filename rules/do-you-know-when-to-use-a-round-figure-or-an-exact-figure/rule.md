@@ -18,7 +18,7 @@ authors:
  The number you give to a client says a lot about how much room there is to move. Knowing the difference and when to use them can be a valuable tool in securing projects.
 
 
-For a     **fixed price **project, exact figures should be used. This makes sure there is no ambiguity between what the client is thinking and what you are thinking.
+For a  **fixed price **project, exact figures should be used. This makes sure there is no ambiguity between what the client is thinking and what you are thinking.
 
 A round figure gives the impression that it was just plucked out of thin air and you can go lower.
 The project will take about 6 months to complete and cost $200,000+GST
