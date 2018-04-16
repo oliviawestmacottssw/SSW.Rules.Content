@@ -32,6 +32,6 @@ The project will take ​6 months to complete and cost $204,080+GST
 Bad Example - This makes it very hard to vary the project as the client will always have this figure in mind
  
  A round figure gives the impression that this is a ball park estimate and that the price will likely change. 
-The project will take about 6 months to complete and cost $200,000+GST
+The project will take about 6 months to complete and cost approximately $200,000+GST
 Good Example - Give the client an indication of how much it will approximately cost without committing to the figure
 
