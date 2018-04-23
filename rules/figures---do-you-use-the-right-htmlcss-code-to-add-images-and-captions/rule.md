@@ -11,7 +11,9 @@ authors:
 
 ---
 
- ​Most developers put the image and the caption in a DIV tag. The figure is just a paragraph.  
+ 
+​​Most developers put the image and the caption in a DIV tag. The figure is just a paragraph.​
+  
 
 ```
 <div>
@@ -21,7 +23,7 @@ authors:
 ```
 
   Figure: Bad Example
-Instead, you should use &lt;DL&gt;, &lt;DT&gt; (which is the item in the list – in our case an image) and &lt;DD&gt;for caption. This structure gives  semantic meaning to the image and figure.​
+Instead, you should use &lt;DL&gt;, &lt;DT&gt; (which is the item in the list – in our case an image) and &lt;DD&gt;for a caption. This structure gives semantic meaning to the image and figure.
  
 
 ```
@@ -31,5 +33,7 @@ Instead, you should use &lt;DL&gt;, &lt;DT&gt; (which is the item in the list �
 </dl>
 ```
 
-  Figure: Good Example  **Note:** &lt;dl&gt; stands for "**definition list**"; &lt;dt&gt; for "**definition term**"; and &lt;dd&gt; for "**definition description**".
+  Figure: Good Example 
+**Note:** &lt;dl&gt; stands for "**definition list**"; &lt;dt&gt; for "**definition term**"; and &lt;dd&gt; for "**definition description**".
+​
 
