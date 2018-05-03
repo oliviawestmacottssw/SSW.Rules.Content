@@ -13,7 +13,7 @@ authors:
 
 
 
-Your mobile phone is a very useful tool. However, it can also be a nuisance. To make sure it doesn't interrupt your daily activities, you should always put it on vibrate.
+Your mobile phone is a very useful tool. However, it can also be a nuisance. To make sure it doesn't interrupt your daily activities, you should always put it in silent mode.
 
 
 If you have a wearable device like an Apple Watch/ Fitbit/ Microsoft Band that connects to your phone, your wrist vibrates when you receive a call. This alerts you to your incoming call silently even if you are not near your phone, and means you \*never\* need to have your phone on anything but VIBRATE. Microsoft Bands also have the added advantage of allowing you to send a text message-based quick response right from the device letting your caller know you are busy. 
@@ -24,5 +24,13 @@ This has the following advantages:
 - You get to only answer the phone when it is convenient for you
 - You won't be interrupting conversations with clients, which can be seen as unprofessional
 - You don't interrupt people's work with loud ringtones
+
+
+
+ 
+
+
+
+Figure: Should the person you’re meeting get priority...or the person ringing in?​
 
 
