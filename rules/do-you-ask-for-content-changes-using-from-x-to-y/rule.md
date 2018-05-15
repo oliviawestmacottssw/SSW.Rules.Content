@@ -13,7 +13,7 @@ authors:
 
 ---
 
- ​When asking for changes to be made to any file like a web page, Word document, PowerPoint slide or code, always include the original version of the content ("X") together with the changes you require ("Y"). This means you have at hand a history of the page or file as it currently stands allowing for convenient future reference and also makes it very clear to the person doing the changes exactly what the new file is meant to look like. 
+ ​​When asking for changes to be made to any file like a web page, Word document, PowerPoint slide or code, always include the original version of the content ("X") together with the changes you require ("Y"). This means you have at hand a history of the page or file as it currently stands allowing for convenient future reference and also makes it very clear to the person doing the changes exactly what the new file is meant to look like. 
 
 Make the changes even easier to see and understand by highlighting in red what you want to delete (only do this on the "From" section) and in yellow what you want to be added/updated (only do this on the "To" section).  All text we do not write ourselves should be indented, so this includes paragraphs we are copying and pasting (see [Do you use indentation for readability?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=4d9255a5-7b57-4f98-9e86-3bbb8a64ce75))
  
@@ -33,7 +33,7 @@ Figure: Bad example - original version of content has not been included in the e
 On the Code Auditor web page, please change [http://www.ssw.com.au/ssw/codeauditor](http&#58;//www.ssw.com.au/ssw/codeauditor):
 
 Change from:
-     &gt; - Scan all your projects for coding bugs and errors
+     - Scan all your projects for coding bugs and errors
      -  Enforce industry best practices 
      - Friendly licensing model pay nothing for the full version!
 
