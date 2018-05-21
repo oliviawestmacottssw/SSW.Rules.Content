@@ -16,8 +16,11 @@ authors:
 ---
 
  
-Just like a car, applications need servicing and tuning every now and then to stay in top condition. They might need  alterations to deal with new business problems, or just tuning to increase efficiency.
+Just like a car, applications need servicing and tuning every now and then to stay in top condition. They might need alterations to deal with new business problems, or just tuning to increase efficiency.
+![sucessful-project-and-now.jpeg](/PublishingImages/sucessful-project-and-now.jpeg)Figure: What happens after the software has been delivered and the development team moves on. The next phase is maintenance​
  
+So you’ve done 10 good sprints and the [software has been delivered (ready)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=e01abde1-9a3e-4e4c-84a8-50e98e9c44d0) and the team is winding down. It will need maintenance.
+
 Different clients need different levels of support. Offer your clients a few different [support offerings](http&#58;//www.ssw.com.au/ssw/Products/ProdCategory.aspx?CategoryID=8SUPP).
 
 1. Ongoing Maintenance: 1 day per week (or whatever quantity suits), a developer will work on enhancements and bug fixing. This is useful because the client always knows when work will next be done.
@@ -26,7 +29,7 @@ Different clients need different levels of support. Offer your clients a few dif
 4. Fixed Price Warranty: For a fixed price project, a warranty commences after the Sprint Review. The warranty length is half the length of the sprint and, during this period, any bugs reported will be fixed for free.
 
 
-### ​Warranty on a Fixed Price Contract
+### Warranty on a Fixed Price Contract
 
 Once the sprint review is complete, the Product Owner has half the sprint period again to report any bugs.
 
@@ -34,7 +37,6 @@ Once the sprint review is complete, the Product Owner has half the sprint period
 
 **Note:** There is no warranty on a time & materials contract.
 
-**Important:
-**During the warranty period, all feedback from clients should be moved to backlog unless they fall into the [bug definition](http&#58;//www.ssw.com.au/SSW/Redirect/SSW/RulestoSuccessfulProjects.htm).​
+**Important: ​**During the warranty period, all feedback from clients should be moved to backlog unless they fall into the [bug definition](http&#58;//www.ssw.com.au/SSW/Redirect/SSW/RulestoSuccessfulProjects.htm). 
 
 
