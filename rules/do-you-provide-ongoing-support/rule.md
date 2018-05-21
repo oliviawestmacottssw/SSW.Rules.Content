@@ -18,7 +18,7 @@ authors:
  
 Just like a car, applications need servicing and tuning every now and then to stay in top condition. They might need  alterations to deal with new business problems, or just tuning to increase efficiency.
  
-Different clients need different levels of support. Offer your clients a few different [support <br>offerings](http&#58;//www.ssw.com.au/ssw/Products/ProdCategory.aspx?CategoryID=8SUPP).
+Different clients need different levels of support. Offer your clients a few different [support offerings](http&#58;//www.ssw.com.au/ssw/Products/ProdCategory.aspx?CategoryID=8SUPP).
 
 1. Ongoing Maintenance: 1 day per week (or whatever quantity suits), a developer will work on enhancements and bug fixing. This is useful because the client always knows when work will next be done.
 2. Maintenance Contract: For 10% per year of the cost of the system you developed, all bugs will be fixed. This way your client will be guaranteed that the system will keep on running.
@@ -26,21 +26,15 @@ Different clients need different levels of support. Offer your clients a few dif
 4. Fixed Price Warranty: For a fixed price project, a warranty commences after the Sprint Review. The warranty length is half the length of the sprint and, during this period, any bugs reported will be fixed for free.
 
 
-
-
-**Warranty on a Fixed Price Contract**
+### ​Warranty on a Fixed Price Contract
 
 Once the sprint review is complete, the Product Owner has half the sprint period again to report any bugs.
 
-**Note:** The warranty period pauses when the client reports a bug that stops them testing further. The warranty period resumes when a new version is sent. For example, the client may report a bug on a Wednesday morning on "Day 4" of the warranty. The bug is fixed on Friday and a new version is sent late in the afternoon. The warranty period resumes on Monday morning, at "Day 4". Therefore Wednesday through Friday were not included in the warranty.
+**Note:** The warranty period pauses when the client reports a bug that stops them testing further. The warranty period resumes when a new version is sent. For example, the client may report a bug on a Wednesday morning on "Day 4" of the warranty. The bug is fixed on Friday and a new version is sent late in the afternoon. The warranty period resumes on Monday morning, at "Day 4". Therefore Wednesday through Friday was not included in the warranty.
 
 **Note:** There is no warranty on a time & materials contract.
 
-**Important:**
-
-During the warranty period, all feedback from clients should be moved to backlog unless they fall into the** ** [bug definition](http&#58;//www.ssw.com.au/SSW/Redirect/SSW/RulestoSuccessfulProjects.htm). 
-
-####  
-
+**Important:
+**During the warranty period, all feedback from clients should be moved to backlog unless they fall into the [bug definition](http&#58;//www.ssw.com.au/SSW/Redirect/SSW/RulestoSuccessfulProjects.htm).​
 
 
