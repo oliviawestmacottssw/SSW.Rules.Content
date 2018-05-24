@@ -12,11 +12,11 @@ authors:
 ---
 
  
-​​Scrum is easier than it seems, we'll explain how in these 8 simple steps.
+​​​Scrum is easier than it seems, we'll explain how in these 8 simple steps.
  ![](/PublishingImages/8Steps_preview.jpg)​Fi​gure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this <br>      [SSW 8 Steps to Scrum PDF](/Documents/8StepstoScrum.pdf) and put it on your " <br>      [War Room](/Pages/ScrumVisualImage.aspx)" wall​
 1. ### ​[Initial Meeting](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=459927ab-429c-4882-8822-ccfda6be4be6)
     The Product Owner explains the product vision, scope is agreed, and the number of days needed for the 'Backlog Construction' is proposed.
-2. ### ​[Backlog Construction](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=8d7b1fab-5923-4e07-8da2-ba906053c056)
+2. ### ​[Backlog Construction](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=e8fba769-b2de-42f5-b5a1-e6b520dab76d)
     A 'Backlog Construction' is performed, listing the features, technologies and a ball park of the number of sprints. Together with a rate, this becomes the estimate.
 3. ### [Sprint Planning](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx)
     Features are ordered by the Product Owner. The Development Team estimates and forecasts which features will be delivered in the Sprint.
