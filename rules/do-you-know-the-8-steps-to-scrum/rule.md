@@ -18,7 +18,7 @@ authors:
     The Product Owner explains the product vision, scope is agreed, and the number of days needed for the 'Backlog Construction' is proposed.
 2. ### ​[Backlog Construction](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=e8fba769-b2de-42f5-b5a1-e6b520dab76d)
     A 'Backlog Construction' is performed, listing the features, technologies and a ball park of the number of sprints. Together with a rate, this becomes the estimate.
-3. ### [Sprint Planning](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx)
+3. ### [Sprint Pl​anning](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ba8d0048-f440-42a6-90c0-8f79f0973d10)
     Features are ordered by the Product Owner. The Development Team estimates and forecasts which features will be delivered in the Sprint.
 4. ###          ​[Sprint](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=731a3f5d-a266-4944-876c-a45afa82832f)
     The Development Team works on features in priority order, having done a Daily Scrum and sending 'Done' emails once the           ['Definition of Done'](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=6449ae79-ba88-447e-aa48-36173029a2af)is met. A task board is often used. During this process, the team also refines items in the Product Backlog to ensure they conform to the           ['Definition of Ready'.](/Pages/Definition-of-Ready.aspx)
