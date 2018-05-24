@@ -26,9 +26,9 @@ The Team are then advised of their resourcing for the Sprint as there may be add
 
 The Team then size (assign Story points to) Stories starting at the top until there are more than enough Stories to fill the Sprint.
 
-The process of sizing is somewhat formal. Either using cards or IM (essential if not co-located) the team vote privately on the size of the story. They can either use T-shirt sizes of XXS, XS, S, M, L, XL, XXL and XXXL or their equivalent number of story points for which we use the Fibinacci Series of 1/2, 1, 2, 3, 5, 8 or 13, 21 Once the differring votes are in, the ScrumMaster asks the smallest and biggest voters to explain the reasons for their vote. Assumtions and omisions are quickly identified through discussions and the Scrum Master encourages discussion until consensus on the Story points is reached. Any story voted at 13 or higher should be broken down into smaller stories; re-prioritised by the Product Owner and re-sized if necessary.
+The process of sizing is somewhat formal. Either using cards or IM (essential if not co-located) the team vote privately on the size of the story. They can either use T-shirt sizes of XXS, XS, S, M, L, XL, XXL and XXXL or their equivalent number of story points for which we use the Fibinacci Series of 1/2, 1, 2, 3, 5, 8 or 13, 21 Once the differring votes are in, the Scrum Master asks the smallest and biggest voters to explain the reasons for their vote. Assumtions and omisions are quickly identified through discussions and the Scrum Master encourages discussion until consensus on the Story points is reached. Any story voted at 13 or higher should be broken down into smaller stories; re-prioritised by the Product Owner and re-sized if necessary.
 ![](/PublishingImages/SprintWorkItem.jpg)Figure: A sample Sprint work item based on the Microsoft Scrum process template for TFS
-Once enough stories are sized, the product Owner is given the opportunity to re-prioritise now knowing the relative sizes. If more stories need then be sized then they are. The ScrumMaster keeps everything going and facilitates negotiation between The Team and The Product Owner until final priority is confirmed and The team commit to a number of stories and the meeting concludes.<br>      This meeting should be timeboxed to an hour for every week in the Sprint. However, the ScrumMaster must be sensitive to the meeting producing a workable result.​<br>      <br>   
+Once enough stories are sized, the product Owner is given the opportunity to re-prioritise now knowing the relative sizes. If more stories need then be sized then they are. The Scrum Master keeps everything going and facilitates negotiation between The Team and The Product Owner until final priority is confirmed and The team commit to a number of stories and the meeting concludes.<br>      This meeting should be timeboxed to an hour for every week in the Sprint. However, the Scrum Master must be sensitive to the meeting producing a workable result.​<br>      <br>   
 
 ### ​How will the work needed to deliver the Increment be achieved?​​
 
@@ -40,11 +40,11 @@ To answer the second question the team create tasks, with sub-tasks where neces
 
  The Team should also ensure that the burndown chart is working and will be automatically sent to all members of The Scrum Team overnight.   
 
- The meeting concludes when The Team reports to the ScrumMaster that their planning is complete and they are able to display the burndown chart.
+ The meeting concludes when The Team reports to the Scrum Master that their planning is complete and they are able to display the burndown chart.
 
  Ideally this meeting is timeboxed to as many hours as there will be weeks in the Sprint.  However, this planning is so essential that it must continue to completion outside the meeting if necessary.  
 
- It is not essential for the Product Owner or the Scrum Master to be present for the whole meeting but they must be available for consultation. The ScrumMaster should formally close the meeting. 
+ It is not essential for the Product Owner or the Scrum Master to be present for the whole meeting but they must be available for consultation. The Scrum ​Master should formally close the meeting. 
 
 Once this meeting is finished, the Scrum Master should email the Product Owner with a [forecast](/Pages/Do-you-create-a-Sprint-Forecast-email.aspx)​.
 
