@@ -12,17 +12,17 @@ authors:
 ---
 
  
-When you are building complicated software and working with customers it is always nice for them to have some idea on who to speak to about a particular story during a sprint. In order to achieve this one of the Team takes responsibility for “looking after” a story. They will collect all of the[“Done” emails](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=29d5ca5d-c191-475f-8db2-0086c44ca46c) and make sure that everyone follows the Done criteria identified by the team as well as answering any Product Owner queries.
+When you are building complicated software and working with customers it is always nice for them to have some idea on who to speak to about a particular PBI during a sprint. In order to achieve this one of the Team takes responsibility for “looking after” a PBI. They will collect all of the[“Done” emails](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=29d5ca5d-c191-475f-8db2-0086c44ca46c) and make sure that everyone follows the Done criteria identified by the team as well as answering any Product Owner queries.
  
 During a sprint it can be useful for:
 
-- The Product Owner to know who to speak to regarding a User Story.
-- The Team to know who will be presenting the User Story at the Sprint Review
+- The Product Owner to know who to speak to regarding a PBI
+- The Team to know who will be presenting the PBI at the Sprint Review
 
 
-In order to achieve this, one of the Team can choose to be the primary contact for the user story.
+In order to achieve this, one of the Team can choose to be the primary contact for the PBI.
 
-Beware, this is intended for convenience and should not conflict with the following Scrum principals from page 6 of the [Scrum Guide](/Pages/Scrumguide.aspx)
+Beware, this is intended for convenience and should not conflict with the following Scrum principal​s from page 6 of the [Scrum Guide](/Pages/Scrumguide.aspx)
 
 - The Development team is self-organizing.
 - Accountability belongs to the development team as a whole ​
