@@ -14,5 +14,6 @@ Change set 123 was associated to PBI 'As an end user I want to be able to looku
 ​
 Bad Example - The change set was associated to a User Story not a Task
 
-Change Set 123 was associated to Task 'Create database fields for customer' which is part of PBI​ 'As an end user I want to be able to lookup customers'Good Example - The change set was associated to a Task
+Change Set 123 was associated to Task 'Create database fields for customer' which is part of PBI​ 'As an end user I want to be able to lookup customers​
+Good Example - The change set was associated to a Task
 
