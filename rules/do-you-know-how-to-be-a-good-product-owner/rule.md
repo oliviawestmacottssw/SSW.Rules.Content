@@ -33,7 +33,10 @@ The client is generally the Product Owner (PO). They should read the Scrum Guide
 8. Respect the [Sprint Goal](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9119c922-1478-49e3-9d7a-903e9bc4be6e). Understand that the team will only work on things in the Sprint Backlog and don’t expect other things to be done as well. Most things can wait for the next sprint.
 
 
-**Who should be the Product Owner?**
+**
+**
+
+**​Who should be the Product Owner?**
 
 It’s hard to give guidance on who in the company would make a good PO. The usual candidate is often extremely busy. It should be:
 
