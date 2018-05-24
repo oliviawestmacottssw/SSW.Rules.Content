@@ -18,7 +18,10 @@ The client is generally the Product Owner (PO). They should read the Scrum Guide
 
 ​​​
  
-**In order to be a good PO, they need to:**
+**
+**
+
+**​In order to be a good PO, they need to:**
 
 1. Be available for Sprint [Reviews](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ce7cba56-e7a2-42c9-bdca-2445cf8f820b), [Retrospectives](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=4f02d28d-5375-4530-abcb-0b541683bcbc) and Sprint [Planning meetings](/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx) (approximately half a day for these 3 meetings, for each 2-week sprint).
 2. Order the Product Backlog. The important things will be done first, in order to maximize the ROI as the budget will run out one day.
