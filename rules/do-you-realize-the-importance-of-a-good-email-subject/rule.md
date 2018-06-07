@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Just as we should not 'judge a book by its cover' - we will not judge an email by its subject. But, we do! Because users get so many emails, getting your clients and suppliers to take notice of yours in their inbox can be quite a struggle. 
+ ​​Just as we should not 'judge a book by its cover' - we will not judge an email by its subject. But, we do! Because users get so many emails, getting your clients and suppliers to take notice of yours in their inbox can be quite a struggle. 
  ![Outlook Choose an interesting subject](/PublishingImages/Outlook_ChooseAnInterestingSubject.gif)Figure: Good Example - I'm definitely going to read this email
 Use the email Subject to grab your recipient's attention. Choosing the right subject can give an email a sense of urgency or importance that choosing the wrong subject won't!
 
