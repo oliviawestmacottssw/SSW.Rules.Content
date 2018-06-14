@@ -19,6 +19,9 @@ authors:
 You can either visit the [Buffer web app](https&#58;//buffer.com/) in your browser  or install a tool that sits next to the address bar of your browser.
 <dl class="image"><dt> <img src="/PublishingImages/buffer_tool.jpg" data-pin-nopin="true" alt="" style="width&#58;650px;"> </dt><dd>Figure&#58; to use the Buffer app from your browser, simply click the symbol</dd></dl><dl class="image"><dl class="ssw15-rteElement-ImageArea"> <img src="/PublishingImages/Buffer%20example.jpg" alt="" style="width&#58;700px;height&#58;270px;"> </dl><dd><span style="font-size&#58;14px;">Figure&#58; You can select as many Social Media accounts as required and post to each platform at once using Buffer. You can also&#160;use the &quot;Customize for each network&quot;&#160;button to modify the content&#160;for each platform&#160;before you post it</span><br></dd></dl>
 The content of your posts should be consistent across accounts. When making a post that exceeds the character limit of a site such as twitter, you should write a separate, shorter version of the post to send to that site only. You can also use the "Customize for each network" button on Buffer to modify the content to better suit the platform for each post. This means that you could write the content for a Tweet and then modify it to remove things like #Hashtags to post it to LinkedIn where they don't make sense.
+<dl class="ssw15-rteElement-ImageArea"><img src="/PublishingImages/Tweet%20example.jpg" alt="Tweet example.jpg" style="width&#58;599px;margin&#58;5px;"></dl><dd class="ssw15-rteElement-FigureBad">​​​Figure&#58; Bad example - only Tweeting using Twitter alone and not using a&#160;scheduler&#160;to post&#160;across&#160;the&#160;different media platforms at once. This is time consuming!​</dd><dl class="ssw15-rteElement-ImageArea"><img src="/PublishingImages/Buffer2.jpg" alt="Buffer2.jpg" style="width&#58;700px;margin&#58;5px;"></dl><dd class="ssw15-rteElement-FigureGood">​Figure&#58; Good example -&#160;posting using Buffer to modify your content between platforms - much faster than posting individually&#160;to each platform every time&#160;<br></dd>
+**
+**
 
 **Hashtags: **Hashtags are used across social sites such as Twitter, Instagram, Facebook and google+ to identify a keyword or topic of interest and facilitate a search for similar posts on the topic.
 
@@ -27,7 +30,7 @@ Establish a short hashtag that can be easily associated with your brand, company
 Note: LinkedIn does not support hashtags. If you use them in a post, they will show up on LinkedIn pages as plain text.
 
 For more on SSW hashtags, check out [Do you know how to use Hashtags?](/Pages/HashTags.aspx)
-<dl class="ssw15-rteElement-ImageArea"><img src="/PublishingImages/Tweet%20example.jpg" alt="Tweet example.jpg" style="margin&#58;5px;"></dl><dd class="ssw15-rteElement-FigureBad">​​​Figure&#58; Bad example - only Tweeting using Twitter alone and n<span style="font-size&#58;1rem;">ot using a </span><span style="font-size&#58;1rem;">scheduler</span><span style="font-size&#58;1rem;"> to post </span><span style="font-size&#58;1rem;">across</span><span style="font-size&#58;1rem;"> the </span><span style="font-size&#58;1rem;">different media platforms at once. This is time consuming!​</span></dd><dl class="ssw15-rteElement-ImageArea"><img src="/PublishingImages/Buffer2.jpg" alt="Buffer2.jpg" style="margin&#58;5px;width&#58;700px;height&#58;385px;"></dl><dd class="ssw15-rteElement-FigureGood"><span style="font-size&#58;16px;">Figure&#58; Good example -&#160;posting using Buffer to modify your content between platforms - much faster than posting individually&#160;to each platform every time&#160;<br></span></dd>
+
 **
 **
 
