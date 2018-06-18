@@ -10,9 +10,9 @@ authors:
 ---
 
  
-The goal is that I don't want CRM developers to move from Dev to Test and to Production manually. Basically I don't want a developer to touch Test or Production servers. The testers can run the .bat file. [See SSW rules to setup packages](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSetups.aspx).
+The goal is that CRM developers **to not **move from Dev to Test and to Production manually. Basically, we don't want a developer to touch Test or Production servers. The testers can run the .bat file. [See SSW rules to setup packages](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSetups.aspx).
  
-How developers should work?
+How should developers work?
 
 - All development done in a Virtual Server
 - Use TFS and VS.NET 2003 (since working with VS.NET 2003 you need to TFS adapter for 2003)
@@ -47,9 +47,7 @@ REM (deploy the callouts - Part 1)
 Deploy to Test Server
 
 - Import the customizations.xml
-- Run .bat file
-
-
+- Run .bat file​
 
 
 Deploy to Production Server
