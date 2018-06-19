@@ -11,20 +11,18 @@ authors:
 
 ---
 
- CRM 2011 regularly receives updates, known as Rollups. Rollups are a set of cumulative updates and patches. It is important to ensure you are up to date as there many ​great enhancements (and the odd bug fix) that are included over time. 
+ Dynamics regularly receives updates, known as Rollups. Rollups are a set of cumulative updates and patches. It is important to ensure you are up to date as there many great enhancements (and the odd bug fix) that are included over time. 
  
-​The current version is Rollup 13 and includes a great set of updates such as:
+The current version is Rollup 13 and includes a great set of updates such as:
 
-- Cross browser support (finally support for Chrome, Safari (not iOS) and Firefox)
-- Windows Server 2012 support
+- Cross-browser support (finally support for Chrome, Safari (not iOS) and Firefox)
+- Windows Server OS support
 - ADFS 2.1 support
 - SDK changes better handle bulk data updates
 - Many index improvements to make searches faster
 
 
-Download CRM Rollup 13 from: [http://www.microsoft.com/en-us/download/details.aspx?id=37133](http&#58;//www.microsoft.com/en-us/download/details.aspx?id=37133)
+Dynamics Cumulative updates are available from [https://support.microsoft.com/en-au/help/3142345/microsoft-dynamics-365-onpremise-cumulative-updates](https&#58;//support.microsoft.com/en-au/help/3142345/microsoft-dynamics-365-onpremise-cumulative-updates)
 
-It is important to ensure you test each Rollup before deploying it to a live environment and have a suitable rollback strategy.
-
-
+It is important to ensure you test each update before deploying it to a live environment and have a suitable rollback strategy.​
 
