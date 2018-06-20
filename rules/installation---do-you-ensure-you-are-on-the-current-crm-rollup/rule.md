@@ -13,7 +13,7 @@ authors:
 
  Dynamics regularly receives updates, known as Rollups. Rollups are a set of cumulative updates and patches. It is important to ensure you are up to date as there many great enhancements (and the odd bug fix) that are included over time. 
  
-The current version is Rollup 13 and includes a great set of updates such as:
+Past Rollups have included great improvements such as:​​
 
 - Cross-browser support (finally support for Chrome, Safari (not iOS) and Firefox)
 - Windows Server OS support
