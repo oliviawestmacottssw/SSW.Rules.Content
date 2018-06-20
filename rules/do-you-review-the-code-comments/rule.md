@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Comments can be useful for documenting code but should be used properly. Some developers like seeing lots of code comments and some don't.
+​Comments can be useful for documenting code but should be used properly. Some developers like seeing lots of code comments and some don't.
  
 Some tips for including comments in your code are:
 
