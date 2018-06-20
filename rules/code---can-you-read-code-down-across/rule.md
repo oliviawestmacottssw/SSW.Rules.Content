@@ -10,13 +10,9 @@ authors:
 ---
 
  
+R eading down should show you the what (all the intend)
 
-
-
-
-Reading down should show you the what (all the intend)
-
-Reading across should show you the how (F12)​
+Reading across should show you the how (F12)
 
 
 
