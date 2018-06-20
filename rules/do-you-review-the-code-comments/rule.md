@@ -12,11 +12,11 @@ authors:
 ---
 
  
-Comments can be useful for documenting code, but should be used properly. Some developers like seeing lots of code comments, and some don't.
+Comments can be useful for documenting code but should be used properly. Some developers like seeing lots of code comments and some don't.
  
 Some tips for including comments in your code are:
 
-1. Comments aren't aways the solution.  Sometimes it's better to refactor the comments into the actual method name. If your method needs a comment to tell a developer what it does, then the method name is probably not very clear.
+1. Comments aren't always the solution.  Sometimes it's better to refactor the comments into the actual method name. If your method needs a comment to tell a developer what it does, then the method name is probably not very clear.
 2. Comments should never say **\*what\*** the code does, it should say **\*why\*** the code does it.  Any decent developer can work out what a piece of code does.
 3. Comments can also be useful when code is missing.  For example, why there is no locking code around a thread-unsafe method.
 
@@ -40,4 +40,4 @@ public Customer GetFirstCustomerWithLastName(string lastName)
 {
   // we use StartsWith because the legacy system sometimes padded with spaces
   return \_repository.Customer.FirstOrDefault(c =&gt; c.LastName.StartsWith(lastName));
-}Figure: Good comments explain the intent of the code rather than what it is doing
+} Figure: Good comments explain the intent of the code rather than what it is doing
