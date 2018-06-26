@@ -11,39 +11,32 @@ authors:
 
 ---
 
- ​SharePoint search is a powerful tool for discovering information. Here are some tips to make sure you are getting the most from it. There are two things to consider regarding SharePoint search; firstly, how you save information to SharePoint to be more easily discoverable; secondly, how to perform searches within SharePoint. ​ 
+ ​SharePoint search is a powerful tool for discovering information. Here are some tips to make sure you are getting the most from it. There are two things to consider regarding SharePoint search; firstly, how you save information to SharePoint to be more easily discoverable; secondly, how to perform searches within SharePoint. ​
+ 
 ### Tips for saving documents to be more discoverable
 
 **When naming documents, use hyphens to separate words**
 
 MonthlyReport.docx
-
 Bad Example: File name doesn't contain any separators between words.
-
 A file name without spaces means that the SharePoint doesn't know where one word ends and the other one begins. This means that searching for 'monthly' or 'report' would **not** find this document.
 
 
 
 Monthly Report.docx
-
 Bad Example: File name uses a space to separate words.
-
 As far as SharePoint search goes, this is actually a usable option. What makes spaces less-preferable is the fact that the URL to this document will have those spaces escaped with the sequence %20. E.g. [https://sharepoint/site/library/Monthly%2 0 Report.docx](/Pages/Do-you-know-how-to-use-SharePoint-search.aspx). URLs with escaped spaces are longer and less human-readable.
 
 
 
 Monthly\_Report.docx
-
 Bad Example: File name uses an underscore to separate words.
-
 As far as SharePoint search goes, an underscore is only a valid word separator in SharePoint Standard or Enterprise, from 2010 onwards. Underscores are not valid word separators for search in SharePoint foundation. Also, sometimes underscores are less visible to users, for example, when a hyperlink is underlined. When reading a hyperlink that is underlined, it is often possible for the user to be mistaken by thinking that the URL contains spaces instead of underscores. For these reasons it is best to avoid their use in file names and titles.
 
 
 
 Monthly-Report.docx
-
 Good Example: File name uses a hyphen to separate words.
-
 A hyphen is the best choice, because it is understood both by humans and all versions of SharePoint search.
 
 
