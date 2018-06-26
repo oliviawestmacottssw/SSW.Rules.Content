@@ -38,8 +38,6 @@ Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx&gt;
 ​
 ​
 
-
-
 **​​Note: **The Free Lunch should not accumulate. It's an 'on the day' reward, so take it or leave it... If they're not in the office, give them 30 days to get the $10.00 Tax Invoice back to Accounts for reimbursement.​
 
 
