@@ -25,7 +25,7 @@ A deadline for submitting timesheets (Friday 12pm). The entire company is reward
 
 Everyone gets a free lunch today except for the following people:
 
-- Person 1’s name
+- Person 1’s name​
 - Person 2’s name
 - etc.
 
@@ -34,22 +34,20 @@ Can you please complete your timesheets ASAP and little ‘r’ me when you are 
 
 Here’s what we check:
 
-1. Timesheets - [http://reports.ssw.com.au/Reports/report/SSWTimePRO/SSWTimePRONETReports/11\_ValidateMissingTimesheets](http&#58;//reports.ssw.com.au/Reports/report/SSWTimePRO/SSWTimePRONETReports/11_ValidateMissingTimesheets%22)​
-2. SugarLearning - https://www.sugarlearning.com/SSW/Leaderboard
-3. Bookings - http://reports.ssw.com.au/Reports/report/SSW2005Reports/SSW%20Booked%20In%20Days
+1. Timesheets - <br>      [http://reports.ssw.com.au/Reports/report/SSWTimePRO/SSWTimePRONETReports/11\_ValidateMissingTimesheets](http&#58;//reports.ssw.com.au/Reports/report/SSWTimePRO/SSWTimePRONETReports/11_ValidateMissingTimesheets%22)​
+2. SugarLearning - [https://www.sugarlearning.com/SSW/Leaderboard](https&#58;//www.sugarlearning.com/SSW/Leaderboard)
+3. Bookings - [http://reports.ssw.com.au/Reports/report/SSW2005Reports/SSW%20Booked%20In%20Days](http&#58;//reports.ssw.com.au/Reports/report/SSW2005Reports/SSW%20Booked%20In%20Days)
 
-​
-&lt;This email was sent as per the rule: http://rules.ssw.com.au/Management/Rules-to-Better-
-Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx&gt;
-​
+​ 
+&lt;This email was sent as per the rule: [http://rules.ssw.com.au/Management/Rules-to-Better-
+Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx​](/Management/Rules-to-Better-%20Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx)&gt;
 
 
-​
-
+​ 
 **​​Note: **The Free Lunch should not accumulate. It's an 'on the day' reward, so take it or leave it... If they're not in the office, give them 30 days to get the $10.00 Tax Invoice back to Accounts for reimbursement.​
 
 
-**Note:** Ideally, buy the free lunch in 1 go, to reduce the admin involved for the accounts department.
+**​Note:** Ideally, buy the free lunch in 1 go, to reduce the admin involved for the accounts department.
 
 **Note:** Since it's damaging to have senior people belittled by getting called out for relatively trivial things, you should always make sure you do your absolute best to help them comply.
 
