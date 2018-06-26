@@ -16,25 +16,33 @@ Having a reward system in place can be a great way to make sure all employees ge
 
 Get your employees to enter [their timesheets daily](/Pages/when-to-enter-your-timesheets.aspx) and have a system that entails:
 
-- A Friday email to update their timesheets, [service calendar](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f33028a9-bf89-4237-87b4-3ef61eba65bf) and clean up any papers on their desks (before the cleaners come on the weekend)
-- A deadline for submitting timesheets (**Friday 12pm)**. The entire company is rewarded with a free lunch, and only people who missed the deadline will miss out on it.     **Hi All,**
+- A Friday email to update their timesheets, Sugar Learning, and [service calendar](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f33028a9-bf89-4237-87b4-3ef61eba65bf)
 
+
+A deadline for submitting timesheets (Friday 12pm). The entire company is rewarded with a free lunch, and only people who missed the deadline will miss out on it.
+
+Hi All,
 Everyone gets a free lunch today except for the following people:
-
 • Person 1’s name
 • Person 2’s name
 • etc.​
  
 Can you please complete your timesheets ASAP and little ‘r’ me when you are done
- 
-I get my information from: [https://reports.ssw.com.au/Reports/Pages/Report.aspx?ItemPath=%2fSSWTimePRO%2fSS​WTimePRONETReports%2f11\_ValidateMissingTimesheets](https&#58;//reports.ssw.com.au/Reports/Pages/Report.aspx?ItemPath=/SSWTimePRO/SS%E2%80%8BWTimePRONETReports/11_ValidateMissingTimesheets)
- 
-&lt;This email was sent as per the rule: [https://rules.ssw.com.au/Management/Rules-to-Better-Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx](/Management/Rules-to-Better-Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx) &gt;
 
+Here’s what we check: ​​
 
-**Note: **The Free Lunch should not accumulate. It's an 'on the day' reward, so take it or leave it... If they're not in the office, give them 30 days to get the $10.00 Tax Invoice back to Accounts for reimbursement.​
+1. Timesheets -http://reports.ssw.com.au/Reports/report/SSWTimePRO/SSWTimePRONETReports/11\_ValidateMissingTimesheets
+2. SugarLearning - https://www.sugarlearning.com/SSW/Leaderboard
+3. Bookings - http://reports.ssw.com.au/Reports/report/SSW2005Reports/SSW%20Booked%20In%20Days
+
+​&lt;This email was sent as per the rule: http://rules.ssw.com.au/Management/Rules-to-Better-
+Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx&gt;
+​
+ **Note: **The Free Lunch should not accumulate. It's an 'on the day' reward, so take it or leave it... If they're not in the office, give them 30 days to get the $10.00 Tax Invoice back to Accounts for reimbursement.​
+
 
 **Note:** Ideally, buy the free lunch in 1 go, to reduce the admin involved for the accounts department.
 
 **Note:** Since it's damaging to have senior people belittled by getting called out for relatively trivial things, you should always make sure you do your absolute best to help them comply.
+
 
