@@ -18,8 +18,8 @@ authors:
 **When naming documents, use hyphens to separate words**
 
 MonthlyReport.docx
-Bad Example: File name doesn't contain any separators between words.
-A file name without spaces means that the SharePoint doesn't know where one word ends and the other one begins. This means that searching for 'monthly' or 'report' would **not** find this document.
+Bad Example: File name doesn't contain any separators between words.A file name without spaces means that the SharePoint doesn't know where one word ends and the other one begins. This means that searching for 'monthly' or 'report' would **not** find this document.
+
 
 
 
@@ -31,7 +31,7 @@ As far as SharePoint search goes, this is actually a usable option. What makes 
 
 Monthly\_Report.docx
 Bad Example: File name uses an underscore to separate words.
-As far as SharePoint search goes, an underscore is only a valid word separator in SharePoint Standard or Enterprise, from 2010 onwards. Underscores are not valid word separators for search in SharePoint foundation. Also, sometimes underscores are less visible to users, for example, when a hyperlink is underlined. When reading a hyperlink that is underlined, it is often possible for the user to be mistaken by thinking that the URL contains spaces instead of underscores. For these reasons it is best to avoid their use in file names and titles.
+As far as SharePoint search goes, an underscore is only a valid word separator in SharePoint Standard or Enterprise, from 2010 onwards. Underscores are not valid word separators for search in SharePoint foundation. Also, sometimes underscores are less visible to users, for example, when a hyperlink is underlined. When reading a hyperlink that is underlined, it is oft​en possible for the user to be mistaken by thinking that the URL contains spaces instead of underscores. For these reasons it is best to avoid their use in file names and titles.
 
 
 
