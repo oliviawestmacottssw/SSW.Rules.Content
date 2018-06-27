@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​After the event it is also critical that you analyse the feedback. Why else would you be gathering it? ​​
+​​After the event it is also critical that you analyse the feedback. Why else would you be gathering it? ​​
  
 ​Look for trends in the data and evaluate what you can do better next time and what you should possibly leave out. ​​​​
 
