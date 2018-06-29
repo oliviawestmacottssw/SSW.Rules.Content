@@ -28,7 +28,7 @@ Everyone gets a free lunch today except for the following people:
 
 - Person 1’s name
 - Person 2’s name
-- etc.
+- etc.​
 
 
 Can you please complete your timesheets ASAP and little ‘r’ me when you are done
@@ -40,8 +40,7 @@ Here’s what we check:
 3. Bookings - [http://reports.ssw.com.au/Reports/report/SSW2005Reports/SSW%20Booked%20In%20Days](http&#58;//reports.ssw.com.au/Reports/report/SSW2005Reports/SSW%20Booked%20In%20Days)
 
 ​ <br>
-&lt;This email was sent as per the rule: [http://rules.ssw.com.au/Management/Rules-to-Better-
-Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx](/Management/Rules-to-Better-%20Timesheets/Pages/reward-your-employees-for-doing-their-timesheets.aspx)&gt;
+&lt;This email was sent as per the rule: [https://rules.ssw.com.au/do-you-reward-your-employees-for-doing-their-timesheets-on-time](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9bbec8d8-f552-46c1-a34e-fdaaa127662b) /&gt;
 
 
 ** Note: **The Free Lunch should not accumulate. It's an 'on the day' reward, so take it or leave it... If they're not in the office, give them 30 days to get the $10.00 Tax Invoice back to Accounts for reimbursement.
