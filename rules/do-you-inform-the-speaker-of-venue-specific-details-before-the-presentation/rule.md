@@ -17,14 +17,14 @@ Each venue is a little different and has different requirements. Don’t expect 
  
 ​​For example:
 
-### Sydney .Net User Group Presenter Information
+### Sydney .NET User Group Presenter Information
 
 1. Presenters will require a HDMI output, you will need an adaptor if you do not have this output.
 
 
-### Canberra .Net User​​​​ Group Presen​​ter Information
+### Canberra .NET User​​​​ Group Presen​​ter Information
 
-1. Presenters will require a VGA output on their laptops, or an adapter for VGA
+1. Presenters will require a VGA output on their laptops, or​ an adapter for VGA
 2. The Microsoft Canberra reception staff will not be available after 5pm so arrive at 4.45 and make sure that that you can get your laptop outputting connected to the projector correctly
 3. Set up early and then wait to greet people at the front door until 5.30 pm, otherwise it is not clear that the user group is on
 
@@ -32,18 +32,14 @@ Each venue is a little different and has different requirements. Don’t expect 
 
 
 
-Brisbane .Net User Group Presenter Information
+Brisbane .NET User Group Presenter Inform​​ation
 
 
 1. ​​​Presenters will require a HDMI output, you will need an adaptor if you do not have this output.​​
 
 
-### Melbourne .NEt User Group Presenter Informat
+### Melbourne .NET User Group Presenter Information
 
-### ion
-
-
-1. ut.
-​
+1. ​​​​​Presenters will require a HDMI output, you will need an adaptor if you do not have this output.​​​
 
 
