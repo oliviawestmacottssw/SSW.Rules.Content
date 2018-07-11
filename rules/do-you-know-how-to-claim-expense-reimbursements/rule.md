@@ -25,6 +25,12 @@ All expense claims must:
 - Be signed by the claimant and authorized by the relevant Manager
 - Be supported by Tax Invoices
 - Not include alcohol, as it incurs FBT
+- Receipts should be in English (where possible), or you must write on the receipt what the expense is, and​ what it was for
+
+
+Tip: If necessary, you can use the Google Translate app to translate your receipts by taking a photo!
+
+
 
 If you’re in China, all expense claims must:
 
