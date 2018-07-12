@@ -14,5 +14,19 @@ authors:
  ​​​​​Watch Adam Cogan explaining why you should use "Open with Explorer" over OneDrive (formerly called SkyDrive):
  
 
+
+
+/\*\*\*\*\* Update​ on Jul 2018 \*\*\*\*\*\*/
+
+With the latest version of OneDrive,
+
+1. It maps the folder in a second and shows the document previews without actually download the files. Files will be downloaded when you double click them or set their parent folder as “always available locally”, then they will show a “green tick” in "status" column to indicate that the files are available locally.
+2. You can select sub folders you want to sync on your computer.
+
+Considering the above two points, plus "Explorer view" is being decommissioned by Microsoft Mordern pages, we'd recommend you to use OneDrive over "Explorer view" now.
 ​
+
+
  
+​
+
