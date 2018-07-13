@@ -11,5 +11,18 @@ authors:
 
 ---
 
- Some of us have Outlook calendars that are full to the brim. We might use our Calendar to remind us to do certain personal tasks, we might have an appointment telling us that someone else is going on leave, and, of course, we all have meetings with clients or colleagues. Our calendars can get very messy and it's easy to miss something important. This is why you should remind attendees by email of your meeting the day before it is scheduled. Outlook makes this easy.<br>
- ![Calendar window](/PublishingImages/betterMeeting1_small.jpg)Figure: Open the appointment in your Calendar (You should already have Invited all the required people to attend)![](/PublishingImages/Appt-ReplyAllWithMessage.jpg)Figure: Click on "Message to Attendees" and then "Reply to All with Message"![Type the messages](/PublishingImages/betterMeeting4_small.jpg) Figure: Send a friendly reminder!
+ Some people have Outlook calendars that are full to the brim. They might use their Calendar to remind them to do certain personal tasks, they might have an appointment telling them that someone else is going on leave, and, of course, they have actual meetings with clients or colleagues. Their calendars can get very messy and it's easy to miss s​omething important. 
+
+
+
+This is why, when working with someone who has a hectic calendar like this, you might want to remind them by email of your meeting the day before it is scheduled. 
+
+
+
+
+
+Outlook makes this easy:
+
+ ![Calendar window](/SiteAssets/appointments-do-you-remind-attendees-about-tomorrows-appointment/Outlook%201.png)Figure: Open the appointment in your Calendar (You should already have Invited all the required people to attend)![](/SiteAssets/appointments-do-you-remind-attendees-about-tomorrows-appointment/Outlook%202.png)
+Figure: Click on "Contact Attendees" | "Reply to All with Email" if you created the appointment, or "Respond" | "Reply All" if you were invited
+![Type the messages](/SiteAssets/appointments-do-you-remind-attendees-about-tomorrows-appointment/Outlook%203.png) Figure: Send a friendly reminder!
