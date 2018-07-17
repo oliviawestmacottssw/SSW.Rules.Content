@@ -24,12 +24,10 @@ Each venue is a little different and has different requirements. Don’t expect 
 
 ### Canberra .NET User​​​​ Group Presen​​ter Information
 
-1. Presenters will require a VGA output on their laptops, or​ an adapter for VGA
-2. The Microsoft Canberra reception staff will not be available after 5pm so arrive at 4.45 and make sure that that you can get your laptop outputting connected to the projector correctly
-3. Set up early and then wait to greet people at the front door until 5.30 pm, otherwise it is not clear that the user group is on
-
-
-
+1. Presenters can use full-size HDMI, Mini-displayport or USB-C to project. There is a monitor on the lectern which duplicates the projector        screen, so it is possible to use “Presenter Mode” if you want to.
+2. Wifi is available on the MSFTGUEST network, but you will need the reception staff or MS sponsor to create an event access code that you      can use to authenticate.
+3. Pizzas arrive around 5:15. Attendees arrive around 5:30. Pizzas & meet-and-greet until 5:45, then start the user group.
+​
 
 
 Brisbane .NET User Group Presenter Inform​​ation
