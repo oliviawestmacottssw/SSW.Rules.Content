@@ -26,6 +26,12 @@ Use the following checklist to ensure you get catering right.
 
 
 
+
+
+<dd class="ssw15-rteElement-FigureGood">​​​​​​​​Figure​&#58; The Chinafy Breakfast in Sydney with yum​​​my compotes made from yoghurt, granola and fruit​​<br></dd>
+
+ 
+
 ​
 
 
