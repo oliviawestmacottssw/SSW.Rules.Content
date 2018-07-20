@@ -20,18 +20,15 @@ authors:
     - [release plans](/spec-do-you-know-what-extra-work-is-included-within-a-sprint)
     - [triaging additional items](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=6519ef47-8d72-4eab-a63d-7a84befffeef)
     - [release debriefs](/Pages/ReleaseDebrief.aspx)
-    - Issue a Discount Code for a free ticket to our regular events
+    - issue a Discount Code for a free ticket to our regular events
 2. **Feedback on service**    Often the people you choose to provide a freebie are the best people to provide feedback on your product or services. When you waive all your standard processes, they have no opportunity to review how you conduct your business. So if you're offering a freebie (or any discount), you should ensure every normal standard of business is followed (including sending $0 invoices!) and make sure you get valuable feedback to help you run your company better.
 
 **Sample email: **
-
-Hi Bob, 
+    Hi Bob, 
 ​
 As discussed, there will be no charge for the spec review. It will be 2 days of work. you will receive an invoice with the items on it at $0. I would like you to give me feedback as if you were a normal client, so you can help me run my business better.
-**
-Zero Invoices:** When entering timesheets for free work, set your rate to $0
-![zero-timesheet.png](/SiteAssets/do-you-treat-freebies-as-real-customers/zero-timesheet.png)
-Figure: It is a good idea to set your rate to $0 and show it on the invoice
-    ​
+    **
+Zero Invoices:** When entering timesheets for free work, set your rate to $0.​
+![zero-timesheet.png](/SiteAssets/do-you-treat-freebies-as-real-customers/zero-timesheet.png) Figure: It is a good idea to set your rate to $0 and show it on the invoice
 
 
