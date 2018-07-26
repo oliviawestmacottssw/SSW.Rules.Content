@@ -10,7 +10,7 @@ authors:
 ---
 
  
-Misunderstanding due to miscommunication can cause major disasters at work or in life (see: [http://en.wikipedia.org/wiki/Tenerife\_disaster](http&#58;//www.ssw.com.au/ssw/Redirect/StandardsRules/Wikipedia.htm)).
+​​Misunderstanding due to miscommunication can cause major disasters at work or in life (see: [http://en.wikipedia.org/wiki/Tenerife\_disaster](http&#58;//www.ssw.com.au/ssw/Redirect/StandardsRules/Wikipedia.htm)).
 
 ​A good communication strategy when receiving instructions is to repeat back what's being said to avoid misunderstanding.
  
