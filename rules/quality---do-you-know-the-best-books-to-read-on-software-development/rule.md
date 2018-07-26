@@ -16,9 +16,9 @@ authors:
 ---
 
  
-As a software consultant, knowing your industry, your project management methods and your technologies are vital. Although we're always looking for the latest best practices and shiney new technologies, knowing the fundamentals is vital.​
+As a software consultant, knowing your industry, your project management methods and your technologies are vital. Although we're always looking for the latest best practices and shiny new technologies, knowing the fundamentals is vital.
 
-Although everyone learns differently, and some prefer video sites like     [www.pluralsight.com​](http&#58;//www.pluralsight.com/) to reading, these books are still full of useful information:
+Although everyone learns differently, and some prefer video sites like [www.pluralsight.com](http&#58;//www.pluralsight.com/) to reading, these books are still full of useful information:
  
 - [Software Requirements and Specifications: A Lexicon of Practice, Principles and Prejudices](http&#58;//www.amazon.com/Software-Requirements-Specifications-Principles-Prejudices/dp/0201877120) (by Michael Jackson)
 - [Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust](http&#58;//www.amazon.com/Software-30-Days-Customers-Competitors/dp/1118206665) (by Ken Schwaber)
