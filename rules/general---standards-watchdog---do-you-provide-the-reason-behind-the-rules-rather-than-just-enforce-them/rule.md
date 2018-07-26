@@ -10,7 +10,7 @@ authors:
 ---
 
  
-If you criticize your staff:
+​If you criticize your staff:
 
 - You don't make lasting changes
 - They will resent you, resulting in lower productivity and employee morale
