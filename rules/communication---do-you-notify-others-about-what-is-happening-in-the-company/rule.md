@@ -10,7 +10,7 @@ authors:
 ---
 
  
-When something happens in your company, always send around an email so that the                     whole team is kept in the loop.
+​                     When something happens in your company, always send around an email so that the                     whole team is kept in the loop.
  
 Examples of events that you should send an email                     around for:
 
