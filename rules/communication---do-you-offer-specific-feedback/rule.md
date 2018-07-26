@@ -10,7 +10,7 @@ authors:
 ---
 
  
-Every day you will probably come across something that could be improved. If you're not making improvements, you're going backwards. But don't make suggestions or criticisms without being specific.
+​​Every day you will probably come across something that could be improved. If you're not making improvements, you're going backwards. But don't make suggestions or criticisms without being specific.
   
 "Do you know our sales process is pretty bad, what are you going to do about it?"
  Figure: Bad Example - Nonspecific criticism 
