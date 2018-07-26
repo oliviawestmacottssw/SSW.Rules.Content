@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​When you notice that someone has done something that could have been done better, make sure you are tactful in your correction/suggestions. When you are giving someone a correction or tip, try to include an URL to back up your point.
+​​​When you notice that someone has done something that could have been done better, make sure you are tactful in your correction/suggestions. When you are giving someone a correction or tip, try to include an URL to back up your point.
 
 For example, if someone sends you an email like that:
  
