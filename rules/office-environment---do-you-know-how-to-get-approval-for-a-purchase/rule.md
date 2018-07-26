@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​When you need to spend money, don't assume you will get authorization – make sure you have approval before spending the money.
+ ​​​When you need to spend money, don't assume you will get authorization – make sure you have approval before spending the money.
  
 Let's have a look at the best way to get authorization:
 
