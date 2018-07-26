@@ -9,7 +9,7 @@ authors:
 
 ---
 
- If you were talking to someone, when their phone rang; would you want them to answer it? If they were using a loud ringtone, the only way to continue your conversation would be to wait until they had finished or, at least, they would have to get their phone out to hang up. Why should the person who called get preferential treatment and be able to jump the queue? 
+ ​​If you were talking to someone, when their phone rang; would you want them to answer it? If they were using a loud ringtone, the only way to continue your conversation would be to wait until they had finished or, at least, they would have to get their phone out to hang up. Why should the person who called get preferential treatment and be able to jump the queue? 
 
 
 
