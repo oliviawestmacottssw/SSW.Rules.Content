@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​​The way you and all members of your team present themselves is a crucial part of                     creating a good impression for your clients, particularly in their first encounters                     with you.
+The way you and all members of your team present themselves is a crucial part of creating a good impression for your clients, particularly in their first encounters with you.
  
 ### Dressing Up
 
