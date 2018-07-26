@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​                     The sandwich rule approach is an effective way to provide feedback to other team                     members and clients.
+​​                     The sandwich rule approach is an effective way to provide feedback to other team                     members and clients.
  
 1. Start with positive feedback
 2. Give your recommendations for improvement
