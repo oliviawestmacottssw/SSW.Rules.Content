@@ -11,7 +11,8 @@ authors:
 
 ---
 
- ​​With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others.   ![Challenges ahead sign](/PublishingImages/challenges-ahead-sign.jpg) Figure: Remove roadblocks
+ ​​​​With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others. 
+  ![Challenges ahead sign](/PublishingImages/challenges-ahead-sign.jpg) Figure: Remove roadblocks
 This is the order which you should work:
 
 1. **Urgent emails** - emails with "URGENT" in the subject e.g. URGENT - the website is down
