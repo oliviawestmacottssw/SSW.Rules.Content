@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​It is extremely important to maintain honesty and candor in a team environment. Sometimes this means admitting when you're uncertain and not just communicating wishful thinking.
+​ It is extremely important to maintain honesty and candor in a team environment. Sometimes this means admitting when you're uncertain and not just communicating wishful thinking.
 
 Nothing breaks down a team like a lack of trust. Remember, honesty starts with the small things.
  
