@@ -12,7 +12,7 @@ authors:
 ---
 
  
-This idea is different from the above rules in that it strikes at the heart of our                     everyday behaviour, not just when a crisis is looming. [Jesus of Nazareth](http&#58;//www.biblegateway.com/passage/?search=matt%205&#58;41&amp;version=NKJV%3b) said:
+​                     This idea is different from the above rules in that it strikes at the heart of our                     everyday behaviour, not just when a crisis is looming. [Jesus of Nazareth](http&#58;//www.biblegateway.com/passage/?search=matt%205&#58;41&amp;version=NKJV%3b) said:
 
 
 "And whoever compels you to go one mile, go with him two."
