@@ -12,7 +12,7 @@ authors:
 ---
 
 
-**Standards should \*not\* be followed blindly. Aim for continual improvement.**
+**​Standards should \*not\* be followed blindly. Aim for continual improvement.**
 
 Whenever you're doing something more than once there should be a clear procedure. We call them “standards” or “rules”. That means that there should be lots of standards.​
 
