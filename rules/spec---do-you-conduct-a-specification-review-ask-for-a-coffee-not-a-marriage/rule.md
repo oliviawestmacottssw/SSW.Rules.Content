@@ -22,16 +22,15 @@ authors:
 
 The Spec Review is a process that will demonstrate to the client whether you have the commercial sense to understand their \*business\* and have the technical and management capacity to complete the project.
 ​
-It is paid work conducted after the initial meeting to determine the overall scope, feasibility, and ballpark costs of the project (i.e. $50k or $500k).  E.g. Mr Northwind learns that the idea he presented at the initial meeting will cost approximately $80K and he has to determine if that is feasible to his business or if he will trim the functionality to better manage the cost.
+It is paid work conducted after the initial meeting to determine the overall scope, feasibility, and ballpark costs of the project (i.e. $50k or $500k).  E.g. Mr. Northwind learns that the idea he presented at the initial meeting will cost approximately $80K and he has to determine if that is feasible to his business or if he will trim the functionality to better manage the cost.
 
   ![proposal](/PublishingImages/proposal.jpg) Figure: A ballpark or proposal should start small and not be a big commitment
 
 From this initial meeting, the ballpark is 6 months and $200K+GST
 Figure: Bad example - big scary figure
 
-
-From this initial meeting, we will first need to conduct a specification review. This first step is $6K
-- a​ 2 day Specification Review
+From this initial meeting, we will first need to conduct a specification review​ 
+This first step is $6K - a 2-day Specification Review
 Figure: Good example - work in small chunks of work with details about what you will do
 
 ### Spec Review length
@@ -59,7 +58,7 @@ Most software consulting experts will be able to provide a small improvement to
  ![Use corridor conversations to prevent nasty surprises](/PublishingImages/ProjectManagement_Suprise.jpg)  Figure: Use corridor conversations to prevent nasty surprises 
 The hallway is your friend. It's a place where you can gather a lot of information informally.
 
-While the information collected and the conclusions of the Spec Review are presented formally at the end of the Review, it is important that the consultants convey key points to the client as they emerge through the course of the Review. The formal presentation is NOT the time to be presenting new information to the client. Formal meetings can have a "Us vs Them" feel. Addressing key potential sticking points of budget and technology informally during the course of the Spec Review relieves the potential for unwelcome surprises during the Spec Review presentation. Canvassing the issues beforehand in casual 'corridor conversations' clears the decks for an agreement, rather than increasing the risk of heated discussions if you surprise a client at a formal meeting. For example, ask the client "building the cube will add around two months development time, shall we leave this out of the current scope, or do you want it in?" Remember, no politician challenging for the leadership ever calls a vote before he or she knows the numbers; you too will avoid presenting a solution at a meeting if you aren't convinced the client is already agreeable. Through the course of the Spec Review the client will be aware of at least the following:
+While the information collected and the conclusions of the Spec Review are presented formally at the end of the Review, it is important that the consultants convey key points to the client as they emerge through the course of the Review. The formal presentation is NOT the time to be presenting new information to the client. Formal meetings can have a "Us vs Them" feel. Addressing key potential sticking points of budget and technology informally during the course of the Spec Review relieves the potential for unwelcome surprises during the Spec Review presentation. Canvassing the issues beforehand in casual 'corridor conversations' clears the decks for an agreement, rather than increasing the risk of heated discussions if you surprise a client at a formal meeting. For example, ask the client "building the cube will add around two months of development time, shall we leave this out of the current scope, or do you want it in?" Remember, no politician challenging for the leadership ever calls a vote before he or she knows the numbers; you too will avoid presenting a solution at a meeting if you aren't convinced the client is already agreeable. Through the course of the Spec Review the client will be aware of at least the following:
 
 ### Estimates expressed in round numbers (or exact numbers for fixed price)
 
@@ -84,7 +83,7 @@ You should follow [Rules to Better Proposals](http&#58;//www.ssw.com.au/ssw/Stan
 
 The Consultant must run a [test please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28) by another developer and your Account Manager before anything is formally presented to the client.
 
-### Example Schedule for a 1 day Specification Review
+### Example Schedule for a 1-day Specification Review
 
 
 You want to have all the required work for a spec review done within the allocated time, so it’s important you leave time to implement the required changes after you present and before you email the final version.
