@@ -29,11 +29,12 @@ Doing this will ensure:​
 
 
 
-(Checked by Peter) 
- Dear Adam,
+Dear Adam,
+
+(Checked by Peter)
 
 [email content]
 
-Regards, Phil
+​Regards, Phil
 
 Figure: Use 'Checked by xxx' when sending a complicated email to a group of people 
