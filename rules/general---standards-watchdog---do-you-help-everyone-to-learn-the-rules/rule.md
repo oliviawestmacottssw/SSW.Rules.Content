@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​​"An ounce of prevention is worth a pound of cure" goes the saying. Having a strict coding standard is prevention. To create good code you must have good standards, such as commenting standards, naming standards, versioning standards and more. <br>
+ ​​​​​​"An ounce of prevention is worth a pound of cure" goes the saying. Having a strict coding standard is prevention. To create good code you must have good standards, such as commenting standards, naming standards, versioning standards and more. <br>
   ![Watchdog.jpg](/PublishingImages/fb339f_Watchdog.jpg)  Figure: Be a fearsome Standards Watchdog
 Every member of a team plays an important role in maintaining standards. Whether it's my code or someone else's, I always keep an eye out for mistakes.
 
