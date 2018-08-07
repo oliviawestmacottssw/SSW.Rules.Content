@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​​Swearing is not acceptable at work. People should not get comfortable with bad language as the work environment would suffer. You should be especially careful when giving and receiving feedback.​​
+​​​Swearing is not acceptable at work. People should not get comfortable with bad language as the work environment would suffer. You should be especially careful when giving and receiving feedback.​​
 
 Some good deterrents are:​
  
