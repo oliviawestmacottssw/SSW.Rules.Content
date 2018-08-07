@@ -15,7 +15,7 @@ authors:
 
 ---
 
- Including images is a good idea, in addition when appropriate include code snippets,  and ideally have the code that changed highlighted in yellow.   
+ ​Including images is a good idea, in addition when appropriate include code snippets,  and ideally have the code that changed highlighted in yellow.   
 This has several benefits:
 
 - Improved visibility and transparency - The client can see the work actually being done
