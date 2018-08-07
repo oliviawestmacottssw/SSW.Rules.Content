@@ -18,7 +18,7 @@ authors:
  ​Having a clear Definition of Done for your team is critical to your success and quality management in Scrum.
 
 Every team is different, but all need to agree on which items are in their "Definition of Done".  
-# There are 3 levels of "Done" in communication
+# There are 3 levels of 'Done' in communication
 
 ## Level 1
 
@@ -51,7 +51,7 @@ Done
 Jing Video of the test running: [http://screencast.com/t/ps17fqsV](http&#58;//screencast.com/t/ps17fqsV)
 
 Figure: Good example - The "done" shows a full scenario
-# There are 8 levels of "Done" in software quality
+# There are 8 levels of 'Done' in software quality
 
 Start with these examples showing typical "Definitions of Done" from beginner teams to more mature teams:
 
