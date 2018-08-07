@@ -14,7 +14,7 @@ authors:
 ---
 
  
-Communication can be difficult  (even if English is your first language!). It might be tempting to only communicate via IM, but this will not improve your skills or build a relationship as well as communicating verbally.
+​Communication can be difficult  (even if English is your first language!). It might be tempting to only communicate via IM, but this will not improve your skills or build a relationship as well as communicating verbally.
 
 1. Stop: Just using IM
 2. Start: Asking ‘Can I call you?’ 
