@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​​​​​​"An ounce of prevention is worth a pound of cure" goes the saying. Having a strict coding standard is prevention. To create good code you must have good standards, such as commenting standards, naming standards, versioning standards and more. <br>
+ ​​​​​​​​"An ounce of prevention is worth a pound of cure" goes the saying. Having a strict coding standard is prevention. To create good code you must have good standards, such as commenting standards, naming standards, versioning standards and more. <br>
   ![Watchdog.jpg](/PublishingImages/fb339f_Watchdog.jpg)  Figure: Be a fearsome Standards Watchdog
 Every member of a team plays an important role in maintaining standards. Whether it's my code or someone else's, I always keep an eye out for mistakes.
 
@@ -26,7 +26,7 @@ If you don't have the confidence to talk to the person, send an email from info.
 
 Clearly, this standard does not just apply to writing better code, it applies to **all company standards**. Standards are important because they ensure your experience at work is consistent and enjoyable. For example, if there was no standard to stack the dishes in the dishwasher when you were finished using them, dishes would build up and create a big mess in the kitchen!
 
-Equally important is your responsibility to ensure that others are doing their best to maintain and follow the standards.
+Equally important is your responsibility to ensure that others are doing their best to maintain and follow the standards. Remember, It can be just as important for someone’s professional development to give feedback as it is to receive it. Being able to communicate feedback in an effective and professional manner can benefit you in any career.
 
 **To:** Peter
 **CC:** Adam (Manager)
