@@ -10,9 +10,18 @@ authors:
 ---
 
  
-​​Misunderstanding due to miscommunication can cause major disasters at work or in life (see: [http://en.wikipedia.org/wiki/Tenerife\_disaster](http&#58;//www.ssw.com.au/ssw/Redirect/StandardsRules/Wikipedia.htm)).
+​​​Misunderstanding due to miscommunication can cause major disasters at work or in life (see: ​[http://en.wikipedia.org/wiki/Tenerife\_disaster](https&#58;//en.wikipedia.org/wiki/Tenerife_airport_disaster)).
+![flight-accident-1977.jpg](/PublishingImages/flight-accident-1977.jpg)Figure: KLM Flight 4805 collides with Pan Am Flight 1736 at Tenerife Los Rodeos Airport
+​​A good communication strategy when receiving instructions is to repeat back what's being said to avoid misunderstanding.
+   Question: 
 
-​A good communication strategy when receiving instructions is to repeat back what's being said to avoid misunderstanding.
- 
-Question: Please add a checkbox on the right, and make it red.
-"OK" or "Roger That" Figure: Bad ExampleOk, I will add a red checkbox on the rightFigure: Good Example
+1. Please add a checkbox on the right, and make it red.
+ 
+Possible answers: 
+"OK" or "Roger That"
+Figure: Bad Example
+Ok, I will add a red checkbox on the right
+Figure: Good Example - repeat back the task
+
+
+
