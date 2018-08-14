@@ -23,6 +23,6 @@ Let's look at bad and good examples:
 ![Check the shadow properties](/PublishingImages/BalloonGoodExample.jpg) Figure: Good example – The balloon with text on the screenshot, makes it quicker to understand
 See more details on [how to configure balloons branding in Fullshot and Snagit](/Pages/HowToConfigureBalloonBranding.aspx).
 
-Now be aware not to crazy with this balloon rule.
+Now be aware not to go crazy with this balloon rule.
 ![Balloon Bad Example](/PublishingImages/balloon-overload.jpg) Figure: Bad example – Balloon overload
 ![Balloon good example](/PublishingImages/balloon-not-needed.JPG) Figure: Good example – See 3 balloons were not needed   Figure: Good example – Betsy Weber Techsmith - Part 1 - Creator of Snagit. See [full series here](http&#58;//tv.ssw.com/204/betsy-weber-teched-interview)​  
