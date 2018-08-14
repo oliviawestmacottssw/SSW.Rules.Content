@@ -12,15 +12,15 @@ authors:
  
 ​​ There are five interrelated issues that undermine the performance of a team:
 
-1. **Absence of trust. **
+1. **Absence of trust **
 If the members of the team do not trust each other then they cannot be totally honest with each other.
-2. **Fear of conflict. **
+2. **Fear of conflict **
 Without trust people will not have the healthy debates that are necessary to arrive at better thought through decisions.
-3. **Lack of commitment. **
+3. **Lack of commitment**
 If the team have not aligned behind a decision then the individual members who did not agree with the final decision will ultimately be less committed to that decision.
-4. **Avoidance of accountability. **
+4. **Avoidance of accountability **
 If they are not committed to the course of action, then they are less likely to feel accountable (or hold other people accountable).
-5. **Inattention to results. **
+5. **Inattention to results **
 Consequently, they are less likely to care about the group results (and instead focus on achieving their own goals).
 
  
