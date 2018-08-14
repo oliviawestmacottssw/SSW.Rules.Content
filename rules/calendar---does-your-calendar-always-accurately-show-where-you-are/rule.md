@@ -13,16 +13,15 @@ authors:
 ​​​​The following steps will help you to setup your calendar to allow us track your current availabilities and improve our team collaboration.
  
 **Step 1:** Set your work hours in Outlook
-Read rule: [Do you set your work hours in your Calendars?](/Pages/Set-your-work-hours-in-your-calendars.aspx)
+Read rule:     [Do you set your work hours in your Calendars?](/Pages/Set-your-work-hours-in-your-calendars.aspx)
 
 **Step 2:** Share your outlook calendar with everyone
-Read rule:  [Do you know the ways to share and see others' calendars?](/Pages/Know-the-ways-to-share-and-see-calendars.aspx)
+Read rule:      [Do you know the ways to share and see others' calendars?](/Pages/Know-the-ways-to-share-and-see-calendars.aspx)
 
 **Step 3:** Allow calendar admins to have full access to your calendar
-Read rule: [Do you allow full access to Calendar Admins?](/Pages/Allow-full-access-to-calendar-admins.aspx)
+Read rule:     [Do you allow full access to Calendar Admins?](/Pages/Allow-full-access-to-calendar-admins.aspx)
 
-**Step 4 :** Send your leave appointments to a centralised leave calendar
-Read rule: [Do you use a centralised leave calendar?](/Pages/Inform-when-you-are-out-of-the-office-during-work-hours.aspx)
-![](/PublishingImages/calendar-accurately-show-where-you-are.jpg)
-Figure:  Keep your calendar up-to-date and set to share, so people can always find where you are 
+**Step 4:** Send your leave appointments to a centralized leave calendar
+Read rule:     [Do you use a centralized leave calendar?](/Pages/Inform-when-you-are-out-of-the-office-during-work-hours.aspx)
+![](/PublishingImages/calendar-accurately-show-where-you-are.jpg)Figure:  Keep your calendar up-to-date and set to share, so people can always find where you are​
 
