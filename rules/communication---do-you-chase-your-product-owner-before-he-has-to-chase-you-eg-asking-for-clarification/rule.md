@@ -12,28 +12,28 @@ authors:
 ---
 
  
-Managers (or clients), like all of us, are snowed under with work and won't always be able to respond to your emails in a timely manner. But keeping a good line of communication open is essential and it's up to you to make it happen. No matter whether your weekly meeting gets canceled or your client appears to avoid you for the week, stop and talk to them in the corridor, or pick up the phone and give them an update.
+Product Owners  (or clients), like all of us, are snowed under with work and won't always be able to respond to your emails in a timely manner. But keeping a good line of communication open is essential and it's up to you to make it happen. No matter whether your weekly meeting gets cancelled or your client appears to avoid you for the week, stop and talk to them in the corridor, or pick up the phone and give them an update.
 
-If you know you've got issues to discuss (such as looming deadlines), don't wait for the client or your manager to bring it up, take a pro-active approach and schedule a meeting.
+If you know you've got issues to discuss (such as looming deadlines), don't wait for the client or your Product Owner to bring it up, take a pro-active approach and schedule a meeting.
 
-As a guideline, you should not go more than 2 weeks without talking to your boss. And don't forget all the things you've got to say - have a sub-folder in your Inbox such as "Ask the Boss". Next time when the boss asks "does anyone want to speak to me?", look in that folder.
+As a guideline, you should not go more than 2 weeks without talking to your Product Owner (or boss/manager). And don't forget all the things you've got to say - have a sub-folder in your Inbox such as "Ask the Boss". Next time when they ask, "Does anyone want to speak to me?", look in that folder.
 
-What do you mean?
+[No email]
+Figure: The worst example - not reaching out to your Product Owner or manager at all. You should be in regular contact with them 
 
-Uly
-Figure: Bad example - bouncing emails back
-
-I called you... What do you mean?
+Did I have a project or something due soon?
 
 Uly
-Figure: OK example - calling, then bouncing emails back​
+Figure: Bad example - you shouldn't have to ask that!  
 
-(I called you and left a message as I need clarification - so have moved it to 'Ask the boss')
-FYI - Adam, I don't understand xxx
-Will catch you later about it
+Hey Adam,
+
+We've got the Northwind presentation coming up next week. I've finished a v1. 
+
+Would you have some time on Thursday afternoon to go over it with me? 
 
 Uly
-​  Figure: Good example - No bounce, still owning the task - even though you need clarification
+​  Figure: Good example - Actively reaching out to your Product Owner ​
 
-You can see more information on this at     [Do you use email for tasks only - not communication?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=143e6e25-62a3-48c8-bf9c-3c0b0a4682c6) and     [Do you seek clarification via the telephone first?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f4e3e0eb-a3b1-468f-8faa-a12909113d3e)
+You can see more information on this at [Do you use email for tasks only - not communication?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=143e6e25-62a3-48c8-bf9c-3c0b0a4682c6) and [Do you seek clarification via the telephone first?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f4e3e0eb-a3b1-468f-8faa-a12909113d3e)
 
