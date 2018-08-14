@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​​​​​​​​"An ounce of prevention is worth a pound of cure" goes the saying. Having a strict coding standard is prevention. To create good code you must have good standards, such as commenting standards, naming standards, versioning standards and more. <br>
+ ​​​​​​​​​"An ounce of prevention is worth a pound of cure" goes the saying. Having a strict coding standard is prevention. To create good code you must have good standards, such as commenting standards, naming standards, versioning standards and more. <br>
   ![Watchdog.jpg](/PublishingImages/fb339f_Watchdog.jpg)  Figure: Be a fearsome Standards Watchdog
 Every member of a team plays an important role in maintaining standards. Whether it's my code or someone else's, I always keep an eye out for mistakes.
 
@@ -35,7 +35,7 @@ Dear Peter,
 
 While you were away, I came across a page called ApplicationForm.aspx which was giving an error: 
 'The conversion of a char data type to a datetime data type resulted in an out-of-range datetime value.' 
-This happened when I entered '13/06/2002' into a the 'Start Date' field of the form.
+This happened when I entered '13/06/2018' into a the 'Start Date' field of the form.
 The error occurs because you are not using the default language of the server which is 'English' - for the users of this database FRDC. This is the same as US English format of Months first, then Days, then a four digit Year (mm/dd/yyyy). Instead, you used 'British English' on the FRDC database which has a format of dd/mm/yyyy. Please use the standard as per Rules to Better SQLServer Databases, Rule 1200 (Middle Tier Section)
 Please note that whilst inserting data from your Front End application, you should not use the format dd/mm/yyyy. Instead you should use yyyy/mm/dd
 
