@@ -12,7 +12,7 @@ authors:
 ---
 
  
-When you add an image to a website or application, it is so useful to add a figure underneath it to describe your image. 
+​​When you add an image to a website or application, it is so useful to add a figure underneath it to describe your image. 
 (This is the same as how Microsoft Word does it when you add a caption.)
 
 It's the best way of ensuring you catch users' attention to the content of your page. When you're scanning a newspaper for interesting articles, you'll check out the pictures, read the accompanying description, and if it sounds interesting you'll go back and read the article.
@@ -36,12 +36,12 @@ A good example of this rule can be seen in the figures at [SSW Code Auditor Us
 Figure: [Description…] (bolded is best)
 
 
-### Tip #2 - Give the actions 
+### Tip #2 - Describe the actions 
 
-For screenshots, it is a good idea to have your figure describe the action the user would take:
+Especially for screenshots, it is a good idea to have your figure describe the action the user would take:
 
 
-[image]​
+[image]
 
 
  Figure: This is the screen
@@ -51,11 +51,29 @@ For screenshots, it is a good idea to have your figure describe the action the
  Figure: On the screen, choose the execution method
 
 
-### Related Rules 
+
+### Tip #3 - Give bad and good examples 
+
+It's recommended that you use "bad" and "good" examples to clearly explain the DOs and DON'Ts.
+Bear in mind to always show the bad example first, then good example, like below:
+
+
+
+To print your document:
+1. Select File | Print. The Print dialog should now show.
+2. Select the number of copies and click Print. The file should now print.
+Figure: Bad Example - Using 'should' implies uncertainty
+To print your document: 
+1. Select File | Print. The Print dialog is shown.
+2. Select the number of copies and click Print. The file will now print.
+Good example - Using present or future tense implies confidence 
+
+
+### Related Rules
 
 
 - [Screenshots - Do you use balloons instead of a 'Wall of Text'?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=02a131ff-813e-4cfc-8012-51959b6edc15)
-- [Do you show a "bad example" and a "good example" to clearly explain the DOs and DON'Ts?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=e3ebb989-c11a-4fd4-8b47-8f62a8cc7557)
+- [Figures - Do you use the right HTML/CSS code to add images and captions?​​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=be0045bf-b30c-4ff7-8c5b-f418b3a1b892)
 
 
 
