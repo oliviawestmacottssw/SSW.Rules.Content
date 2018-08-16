@@ -12,12 +12,9 @@ authors:
 ---
 
  
-### ​ #1 For Employers:
+​Give your employees a flexibility for small leave periods (say 1-3 days) and let it be 'auto-approved'. That means that employees will often take small periods of leave with little notice. However, this has big benefits for both employees and employers, as it removes the incentive for employees to lie and say they are 'sick' when they need time off with short notice.
 
-
-Give your employees a flexibility for small leave periods (say 1-3 days) and let it be 'auto-approved'. That means that employees will often take small periods of leave with little notice. However, this has big benefits for both employees and employers, as it removes the incentive for employees to lie and say they are 'sick' when they need time off with short notice.
-
-### #2<br>               ​​For Employees:
+### ​​For Employees:​
 
 
 Tell your managers and co-workers as soon as you know when you will be away. If you're planning to be away for any substantial amount of time (say 3 days or more), make sure you have told everyone who will need to know about 4 weeks in advance whenever possible. Most importantly, ensure that your clients are not left in a difficult position while you are gone.
