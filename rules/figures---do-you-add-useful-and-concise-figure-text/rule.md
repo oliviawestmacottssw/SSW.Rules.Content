@@ -73,6 +73,7 @@ Good example - Using present or future tense implies confidence
 
 
 - [Screenshots - Do you use balloons instead of a 'Wall of Text'?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=02a131ff-813e-4cfc-8012-51959b6edc15)
+- [Figures - Do you use 'Bad Example' and 'Good Example' with ticks and crosses in captions?​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=09070992-59f9-4972-a978-1cce62e52fb3)
 - [Figures - Do you use the right HTML/CSS code to add images and captions?​​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=be0045bf-b30c-4ff7-8c5b-f418b3a1b892)
 
 
