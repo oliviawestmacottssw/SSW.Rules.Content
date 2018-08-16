@@ -34,10 +34,12 @@ Note: LinkedIn does not support #Hashtags. If you use them in a post, they will 
 
 For more on SSW #Hashtags, check out [Do you know how to use Hashtags?](/Pages/HashTags.aspx)
 
-**
-**
+
 
 **Custom URL shortening: **Buffer uses bi​t.ly to shorten URLs. You can create custom URLs at no cost by joining bit.ly and going into Settings | Advanced. This will allow even your shortened URL to carry your unique brand without the look of a long, untidy URL.
 
 For more on bit.ly and URL shortening, check out [Rules to Better bit.ly](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d3e8f047-751d-4ed3-a912-9988c20cf91a)
- ​   
+ ​ 
+**TIP: **Buffer does not tag people on Facebook. You will need to manually go onto the Facebook page you posted through and edit the post to tag the people you wanted. 
+
+
