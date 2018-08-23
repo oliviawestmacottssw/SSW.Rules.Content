@@ -16,7 +16,7 @@ The client is generally the Product Owner (PO). They should read the Scrum Guide
 
  
 
-​​​
+​​​​
  
 **
 **
