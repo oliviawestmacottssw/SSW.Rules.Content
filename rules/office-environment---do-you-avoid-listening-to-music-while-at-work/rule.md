@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​Should we be listening to music                    at work? I've had the debate with numerous people.
+​​Should we be listening to music                    at work? I've had the debate with numerous people.
  
 Regardless of whether it is AC/DC or DotNetRocks, music/podcasts should not be used in the workplace, especially using headphones, because:
 
