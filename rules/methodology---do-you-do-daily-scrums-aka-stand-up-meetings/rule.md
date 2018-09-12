@@ -57,6 +57,7 @@ Regards,
 &lt;This email was sent as per [Do you do Daily Scrums?](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)&gt;
 
 Figure: Schedule a recurring Daily Scrum meeting in Outlook using this template
+
 **Tip 3: Keep to the schedule. Same place, same time (and start even if people are missing)**
 
 Get started on time. Especially in the beginning, people will be late, but the meeting should be held with the remaining people. Don't worry. People learn.
@@ -131,8 +132,7 @@ Today I am working on:
 
 &lt;This email was sent as per [http://sugarlearning.com/Item/8291](http&#58;//sugarlearning.com/Item/8291%22%20%5ct%20%22_blank)&gt;
 
- Figure: Bad example - Lack of details. Eg. Yesterday - if it's Monday, you wouldn't say “Yesterday was Sunday"... so if you were sick, it's more useful to go back to the prior day you were working. 
-
+Figure: Bad example - Lack of details. Eg. Yesterday - if it's Monday, you wouldn't say “Yesterday was Sunday"... so if you were sick, it's more useful to go back to the prior day you were working
 
 Hi Adam, 
 
@@ -147,7 +147,7 @@ Today I am working on:
 
 &lt;This email was sent as per [http://sugarlearning.com/Item/8291](http&#58;//sugarlearning.com/Item/8291%22%20%5ct%20%22_blank)&gt;
 
- Figure: Good example - Clear details 
+ ​Figure: Good example - Clear details 
 
 ### More information
 
