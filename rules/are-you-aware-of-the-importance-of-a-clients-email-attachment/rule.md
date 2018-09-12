@@ -12,11 +12,7 @@ authors:
 ---
 
  Sometimes clients will add attachment files into emails. Those files could be documents or images, which may contain details or solutions of the issue, or some helpful information.
-<br>To keep the history, it is very important to embed the attachment files into the email since it's easy to lose those files when responding.<br> 
-Sometimes clients will add attachment files into emails. Those files could be documents or images, which may contain details or solutions of the issue, or some helpful information.
- To keep the history, it is very important to embed the attachment files into the email since it's easy to lose those files when responding.
-
-![The image is in attachment. ](/PublishingImages/EmailAttachImage_1_small.jpg)
+<br>To keep the history, it is very important to embed the attachment files into the email since it's easy to lose those files when responding.<br>      ​​![The image is in attachment. ](/PublishingImages/EmailAttachImage_1_small.jpg)
 Figure: Bad Example - The image is in attachment. 
 ![The image is included in the context](/PublishingImages/EmailAttachImage_2.JPG)
 Figure: Good Example - The image is included in the context.
