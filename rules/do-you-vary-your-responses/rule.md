@@ -11,8 +11,8 @@ authors:
 
 
 
-<span class='intro'> People don’t act like robots and answer the same way all the time. Neither should bots!&#160; All you need is a few different welcome messages and use a rand() function.<br> </span>
+<span class='intro'> Enter Intro Text </span>
 
-<dl class="goodImage"><dt>​​​<img src="/PublishingImages/bots-responses.jpg" alt="bots-responses.jpg" /></dt><dd>Figure&#58; Good examples - Different welcome messages​​<br></dd></dl>
+
 
 
