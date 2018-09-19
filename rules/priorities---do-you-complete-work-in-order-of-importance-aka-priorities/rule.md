@@ -19,7 +19,7 @@ This is the order which you should work:
 
 1. **Urgent emails** - emails with "URGENT" in the subject e.g. URGENT - the website is down
 2. Emails about  [Timesheets](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ffae6faf-35b2-48d6-8999-37a02ad3b9af)or invoicing issues
-3. Your calendar - [keep your calendar up to date](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0786a7f7-bd71-418c-908e-3e12fca21264)  so people know where you are
+3. Your calendar - [keep your calendar up to date​ ​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0786a7f7-bd71-418c-908e-3e12fca21264)so people know where you are
 4. **Your existing clients** - e.g. Normal planned client work and client administration (preferably working on a sprint [backlog](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f0198a96-7a71-4797-b738-d66aa38a98df) and Daily Scrums)
 5. **Other client work** - Ask others if you can help with their client work
 6. **Prospective clients** - project management, answering questions and setting up meetings
