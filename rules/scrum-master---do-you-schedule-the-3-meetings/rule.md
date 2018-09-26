@@ -41,6 +41,8 @@ Schedule the meeting and invite the Scrum Team and any interested stakeholders.
 
 This is a calendar appointment to hold the following three Scrum meetings:
 
+Task Board: XXX​
+
 **Sprint Review Meeting**
 We will go through the user stories that have been completed and demonstrate them.
 See rule [What happens at a Sprint Review Meeting?](/Pages/SprintReviewMeeting.aspx)
