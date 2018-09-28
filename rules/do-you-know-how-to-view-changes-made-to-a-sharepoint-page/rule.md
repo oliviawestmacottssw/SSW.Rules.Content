@@ -22,5 +22,5 @@ Watch the video which explains how to view the version history for a page in Sha
 
 ### Related rules
 
-If you want to see how this is done i n TFS, read [Do you know the benefits of using source control?](https&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl)
+If you want to see how this is done in TFS, read [Do you know the benefits of using source control?](https&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl)​
 
