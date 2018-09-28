@@ -19,7 +19,8 @@ Here is how you do it:
 Watch the video which explains how to view the version history for a page in SharePoint 2013 (Same as in SharePoint 2016). This allows you to see changes that were made to the page, as long as versioning is enabled in advance.
 
 ​​​​
- Read [Rules to Better Source Control with TFS](https&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx).​​
 
+### Related rules
 
+If you want to see how this is done on TFS, read [Do you know the benefits of using source control?](https&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl)
 
