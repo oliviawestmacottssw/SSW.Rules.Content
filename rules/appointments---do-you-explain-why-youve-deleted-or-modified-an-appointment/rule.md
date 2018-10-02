@@ -13,6 +13,6 @@ authors:
 
  Whenever you have to modify the time, attendees or subject of an appointment, always send the updated one with comments at the top to explain why you want make these changes. 
 
-<br>This will help to solidify the changes and alleviate confusion.
+This will help to solidify the changes and alleviate confusion.
 
 ![](/PublishingImages/AppointmentWithComments.jpg)   <font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; The note in brackets explains the change that has been made</font>
