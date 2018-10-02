@@ -11,4 +11,8 @@ authors:
 
 ---
 
- Some people make extensive use of the rules wizard so that as email messages arrive they already appear in the appropriately created folder. I basically think this doesn't work as you never look at these emails. <br>        
+ ​Some people make extensive use of the rules wizard so that as email messages arrive they already appear in the appropriately created folder.
+ 
+"I basically think this doesn't work as you never look at these emails."​
+**- Adam Cogan**
+
