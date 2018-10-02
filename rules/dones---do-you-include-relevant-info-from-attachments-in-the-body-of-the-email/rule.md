@@ -28,3 +28,5 @@ So in such a case, you will want to skip that email and go back to the last HTML
 - [Do you keep the history of an email?​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0068ccf3-e94e-47c6-832b-aea059a3d873)
 
 
+
+
