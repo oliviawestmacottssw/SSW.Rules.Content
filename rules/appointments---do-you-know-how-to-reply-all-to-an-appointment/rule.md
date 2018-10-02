@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​​​​Often your conv​ersation flow with someone will go from a phone call, to emails, to an appointment, and then back to emails.
+Often your conversation flow with someone will go from a phone call, to emails, to an appointment, and then back to emails.
 
 It's nice to be able to look back and see the whole history in 1 thread, so you will need to be able to Reply All to an appointment to continue the email conversation after the meeting.
 
