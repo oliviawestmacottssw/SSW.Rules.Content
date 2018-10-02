@@ -11,6 +11,6 @@ authors:
 
 ---
 
- And remember to periodically select "Check All Subfolders" to make sure all folders are being synced in your .ost file
+ ​​And remember to periodically select "Check All Subfolders" to make sure all folders are being synced in your .ost file.
 
-![offline](/PublishingImages/offline.JPG)Figure: Periodically check that all your mail folders are being synced in your offline.ost file
+<dl class="image"><dt><img src="/PublishingImages/offline.JPG" alt="offline"></dt><dd>Figure&#58; Periodically check that all your mail folders are being synced in your offline.ost file </dd> </dl>
