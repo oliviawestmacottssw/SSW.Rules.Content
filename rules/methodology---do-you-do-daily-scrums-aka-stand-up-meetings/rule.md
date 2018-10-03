@@ -130,7 +130,7 @@ Today I am working on:
 - Tidy inbox
 
 
-&lt;This email was sent as per [http://sugarlearning.com/Item/8291](http&#58;//sugarlearning.com/Item/8291%22%20%5ct%20%22_blank)&gt;
+&lt;This email was sent as per [http://sugarlearning.com/Item/8291](http&#58;//sugarlearning.com/Item/8291)&gt;
 
 Figure: Bad example - Lack of details. Eg. Yesterday - if it's Monday, you wouldn't say “Yesterday was Sunday"... so if you were sick, it's more useful to go back to the prior day you were working
 
@@ -159,5 +159,5 @@ The goal is to be productive for 8 hours of the day, so communicate with the res
 **What happens if there is a major incident?**
 
 It is important that any major incidents are dealt with first. Start with any major incidents that occurred in the last 24 hours.
- ![](/PublishingImages/NewStandUpImage.jpg) Figure: Daily Scrums will alert everyone if there is a major problem and get all brains aligned in the right direction. There is no sense in putting a Band-Aid on a patient's scraped knee if there is a big knife in his eye! ![dailyscrumtweet.png](/PublishingImages/dailyscrumtweet.png) Figure: If you like this, [retweet](https&#58;//twitter.com/AdamCogan/status/168175594209681408)​ ;)
+ ![](/PublishingImages/NewStandUpImage.jpg) Figure: Daily Scrums will alert everyone if there is a major problem and get all brains aligned in the right direction. There is no sense in putting a Band-Aid on a patient's scraped knee if there is a big knife in his eye! ![dailyscrumtweet.png](/PublishingImages/dailyscrumtweet.png) Figure: If you like this, [retweet](https&#58;//twitter.com/AdamCogan/status/168175594209681408)  ;)
 
