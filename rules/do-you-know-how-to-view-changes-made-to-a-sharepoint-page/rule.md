@@ -20,9 +20,7 @@ Here is how you see the     **history** of the page:
 Here is how you see the **history** on Office 365 - SharePoint Online:
 ![Snipaste_2018-10-08_13-21-05.jpg](/SiteAssets/how-to-view-changes-made-to-a-sharepoint-page/Snipaste_2018-10-08_13-21-05.jpg)Figure: Click on Show actions | Version History
 ![](/SiteAssets/how-to-view-changes-made-to-a-sharepoint-page/Snipaste_2018-10-08_13-22-46.jpg)
-Figure: Version History
-
-
+Figure: Version History listed
  
 Watch the video which explains how to view the version history for a page in SharePoint 2013 (Same as in SharePoint 2016). This allows you to see changes that were made to the page, as long as versioning is enabled in advance.
 
