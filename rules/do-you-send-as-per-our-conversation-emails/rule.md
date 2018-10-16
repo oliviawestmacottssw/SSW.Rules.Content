@@ -20,8 +20,8 @@ authors:
 
 Watch the video below and see how a single email can make your job easier.
 
- <iframe width="840" height="473" frameborder="0" src="https&#58;//www.youtube.com/embed/falcO6smD_8?rel=0"></iframe> 
-​​ <br>
+ <iframe width="840" height="473" frameborder="0" src="https&#58;//www.youtube.com/embed/falcO6smD_8"></iframe> 
+​​​ <br>
 
 As per our conversation, I am going to offer the client a Spec Review for $XXX
 <dd class="ssw15-rteElement-FigureGood"> Figure&#58; Good Example - using &quot;As per our conversation&quot; email&#160;<br></dd>
