@@ -21,7 +21,7 @@ authors:
 Watch the video below and see how a single email can make your job easier.
 
   
-​​ <br>
+​​​ <br>
 
 As per our conversation, I am going to offer the client a Spec Review for $XXX
  Figure: Good Example - using "As per our conversation" email 
