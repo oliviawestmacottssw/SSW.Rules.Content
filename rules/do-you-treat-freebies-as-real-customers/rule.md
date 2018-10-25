@@ -24,11 +24,18 @@ authors:
 2. **Feedback on service**    Often the people you choose to provide a freebie are the best people to provide feedback on your product or services. When you waive all your standard processes, they have no opportunity to review how you conduct your business. So if you're offering a freebie (or any discount), you should ensure every normal standard of business is followed (including sending $0 invoices!) and make sure you get valuable feedback to help you run your company better.
 
 **Sample email: **
-    Hi Bob, 
+    **Hi Bob,​ **
 ​
-As discussed, there will be no charge for the spec review. It will be 2 days of work. you will receive an invoice with the items on it at $0. I would like you to give me feedback as if you were a normal client, so you can help me run my business better.
+Sure we would love to have you at our event for no charge. You may register just like a real client. 
+
+You will receive an invoice with the items on it at $0. 
+
+It would be great if you could give us feedback on anything that could improve the experience (just as if you were a normal client).
+
+Regards,
+Adam
     **
-Zero Invoices:** When entering timesheets for free work, set your rate to $0.​
+Zero Invoices:** When entering timesheets for free work, set your rate to $0.
 ![zero-timesheet.png](/SiteAssets/do-you-treat-freebies-as-real-customers/zero-timesheet.png) Figure: It is a good idea to set your rate to $0 and show it on the invoice
 
 
