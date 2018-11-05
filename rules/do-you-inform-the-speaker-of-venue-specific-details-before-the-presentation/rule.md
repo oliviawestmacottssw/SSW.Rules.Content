@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Each venue is a little different and has different requirements. Don’t expect presenters to know how each user group runs, especially if the user group organisers will not be available on the day/night.
+​Each venue is a little different and has different requirements. Don’t expect presenters to know how each user group runs, especially if the user group organisers will not be available on the day/night.
 
  
 ​​For example:
@@ -26,7 +26,7 @@ Each venue is a little different and has different requirements. Don’t expect 
 
 1. Presenters can use full-size HDMI, Mini-displayport or USB-C to project. There is a monitor on the lectern which duplicates the projector        screen, so it is possible to use “Presenter Mode” if you want to.
 2. Wifi is available on the MSFTGUEST network, but you will need the reception staff or MS sponsor to create an event access code that you      can use to authenticate.
-3. Pizzas arrive around 5:15. Attendees arrive around 5:30. Pizzas & meet-and-greet until 5:45, then start the user group.
+3.  Pizzas arrive around 5:15. Attendees arrive around 5:30. Pizzas & meet-and-greet until 5:45, then start the user group.
 ​
 
 
