@@ -12,11 +12,13 @@ authors:
 ---
 
  
-​​When you add an image to a website or application, it is so useful to add a figure underneath it to describe your image. 
+When you add an image to a website or application, it is so useful to add a figure underneath it to describe your image. Tip: Prefix it with the actual word "Figure: ".
+
 (This is the same as how Microsoft Word does it when you add a caption.)
 
-It's the best way of ensuring you catch users' attention to the content of your page. When you're scanning a newspaper for interesting articles, you'll check out the pictures, read the accompanying description, and if it sounds interesting you'll go back and read the article.
-
+It's the best way of ensuring you catch users' attention to the content of your page. When you're scanning a newspaper for interesting articles, you'll check out the pictures, read the accompanying description, and if it sounds interesting you'll go back and read the article​.
+ ​
+ 
 Users read websites in a similar fashion. Catch their attention with an image, and then keep it with a useful description. Don't just describe what the image is; say what it's used for in the context of the document.
 ![Good Caption](/PublishingImages/good-caption.jpg)Figure: Good Example - Some nice useful text describing the image
 
@@ -26,7 +28,6 @@ It is especially important that images and captions serve a purpose, as opposed 
 
 
 [image]
-
 
  Figure: [Description…] (not bolded)
 [image]
@@ -51,7 +52,7 @@ Especially for screenshots, it is a good idea to have your figure describe the
 
 
 
-A good example of this can be seen in the figures at [SSW Code Auditor User Guide](https&#58;//www.ssw.com.au/ssw/CodeAuditor/UserGuide.aspx) page. ​​​
+A good example of this can be seen in the figures at [SSW Code Auditor User Guide](https&#58;//www.ssw.com.au/ssw/CodeAuditor/UserGuide.aspx) page.
 
 ### Tip #3 - Give bad and good examples 
 
@@ -67,7 +68,7 @@ Figure: Bad Example - Using 'should' implies uncertainty
 To print your document: 
 1. Select File | Print. The Print dialog is shown.
 2. Select the number of copies and click Print. The file will now print.
-Good example - Using present or future tense implies confidence 
+Figure: Good example - Using present or future tense implies confidence 
 
 
 ### Related Rules
