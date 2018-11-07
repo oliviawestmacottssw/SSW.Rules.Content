@@ -85,7 +85,7 @@ Subject: FW: Morning Goals
 - Double check backups (get backup today on both drives, I configured the other drive last night)
 - Make sure Exchange is backing itself up... Check Google on why not.
 - Access reporter
-Figure: Good Example - Replying in a different color + keeping history intact + using indentation​
+Figure: Good Example - Replying in a different color + keeping history intact + using indentation 
 
 
 
