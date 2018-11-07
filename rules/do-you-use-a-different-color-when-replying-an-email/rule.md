@@ -13,9 +13,16 @@ authors:
 
 ---
 
- Replying inline can mess up the history of the email thread. What you should do is to copy and paste the entire email in your reply and comment on each issue at a time, keeping the history intact.
+ 
+**Warning:** there is very rarely a reason to use inline – avoid it.  You should copy the tasks and paste in your response area ​instead.
+
+
+
+
+Replying inline can mess up the history of the email thread. What you should do is to copy and paste the entire email in your reply and comment on each issue at a time, keeping the history intact.
 
 It's important to write your comments in a different color. You might want to mention what color your comments are in (sometimes there is more than one person making in-line comments).  Make sure what you type should always be aligned left, not indented. Remember, if you write emails with one issue at a time you won't need to do this too often. 
+
   
 -----Original Message-----
 
