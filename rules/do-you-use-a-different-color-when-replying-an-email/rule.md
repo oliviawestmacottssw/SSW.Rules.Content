@@ -47,7 +47,7 @@ Subject: FW: Morning Goals
 <font style="color&#58;#000000;"><span style="color&#58;#000000;">Not Done</span></font>
 - Access reporter
 <font color="#ff0000"><span class="RedText" style="color&#58;#000000;"><span style="color&#58;#000000;">Not Done</span></span> </font>
- <dd class="ssw15-rteElement-FigureBad"> Figure&#58;&#160;Bad Example - Replying inline and&#160;<span style="color&#58;#555555;font-size&#58;14.4px;font-weight&#58;bold;">using the same color</span> can mess up the history + no indentation&#160;<br></dd>
+ <dd class="ssw15-rteElement-FigureBad"> Figure&#58;&#160;Bad Example - Replying inline and&#160;using the same color can mess up the history + no indentation&#160;<br></dd>
 
 
 From: Daniel Hyles www.ssw.com.au
@@ -80,7 +80,7 @@ Subject: FW: Morning Goals
 
 - TimePro Online pages<font style="color&#58;#000000;"><br></font>- Double check backups (get backup today on both drives, I configured the other drive last night)<font style="color&#58;#000000;"><br></font>- Make sure Exchange is backing itself up... Check Google on why not.
 - Access reporter
-<dd class="ssw15-rteElement-FigureGood">Figure&#58;&#160;Good Example - Replying in a different color + keeping history intact + using indentation​<br></dd>
+<dd class="ssw15-rteElement-FigureGood">Figure&#58;&#160;Good Example - Replying in a different color + keeping history intact + using indentation <br></dd>
 
 
 See [Top 10 Rules to Better Email](http&#58;//tv.ssw.com/4818/top-5-rules-better-email-ulysses-maclaren) video for more details on how to reply to emails.
