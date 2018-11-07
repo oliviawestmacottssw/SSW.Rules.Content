@@ -29,7 +29,7 @@ It's important to write your comments in a different color. You might want to me
 From: Daniel Hyles www.ssw.com.au
 Sent: Tuesday, 28 May 2002 7:31 AM
 To: Adam Cogan www.ssw.com.au
-Subject: FW: Morning Goals
+Subject: Daniel Hyles - Morning Goals
 
 I have replied inline
 
@@ -39,7 +39,7 @@ I have replied inline
 From: Adam Cogan www.ssw.com.au
 Sent: Monday, 27 May 2002 8:00 AM
 To: Daniel Hyles www.ssw.com.au 
-Subject: FW: Morning Goals
+Subject: Daniel Hyles - Morning Goals
 
 - TimePro Online pages
 <font style="color&#58;#000000;"><span class="RedText" style="color&#58;#000000;"><span style="color&#58;#000000;">Done</span></span><br style="color&#58;#000000;"><span style="color&#58;#000000;"> </span></font>- Double check backups (get backup today on both drives, I configured the other drive last night)
@@ -53,9 +53,9 @@ Subject: FW: Morning Goals
 From: Daniel Hyles www.ssw.com.au
 Sent: Tuesday, 28 May 2002 7:31 AM
 To: Adam Cogan www.ssw.com.au
-Subject: FW: Morning Goals
+Subject: Daniel Hyles - Morning Goals
 
-My answers in blue
+My answers in blue​
 
 &gt; 1. TimePro Online pages
 Done
@@ -76,7 +76,7 @@ Not Done
 From: Adam Cogan www.ssw.com.au
 Sent: Monday, 27 May 2002 8:00 AM
 To: Daniel Hyles www.ssw.com.au 
-Subject: FW: Morning Goals
+Subject: Daniel Hyles - Morning Goals​
 
 - TimePro Online pages<font style="color&#58;#000000;"><br></font>- Double check backups (get backup today on both drives, I configured the other drive last night)<font style="color&#58;#000000;"><br></font>- Make sure Exchange is backing itself up... Check Google on why not.
 - Access reporter
