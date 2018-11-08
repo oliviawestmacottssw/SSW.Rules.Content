@@ -32,9 +32,10 @@ The purpose of the initial meeting is to:
 - Consider technology options
 - Introduce your team, explain how our involvement<br>                        can​ help them, and whether you have a 'good fit'
 - Explain your rates, including pre-paid
-- Explain the strengths and challenges of a Time and Materials or Fixed Price approach
+- Explain the strengths and challenges of a Time and Mat​erials or Fixed Price approach
 - Explain our development method including the importance of a Specification Review
 - Take exceptional notes
 - Ask for the sale: "This project is right up our alley and we'd love to be involved,<br>                        is there anything stopping you from scheduling a [Specification Review](/Pages/Ensure-an-excellent-1st-date.aspx)?" This will focus the mind of the client on the next step​
+- Leave a bit of marketing collateral behind. Branded Notepads or USB sticks are ideal.
 
 ![Do you listen](/PublishingImages/WomanListening.jpg)                        Figure: Do you listen?
