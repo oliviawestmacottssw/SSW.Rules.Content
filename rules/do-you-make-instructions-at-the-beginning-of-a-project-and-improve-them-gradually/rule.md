@@ -13,7 +13,7 @@ authors:
 
 ---
 
- ​​​​​Instructions are very important when maintaining a project. With this document, people new to it can take over it quickly.
+ ​​​​​​Instructions are very important when maintaining a project. With this document, people new to it can take over it quickly.
  
 
 
@@ -68,7 +68,7 @@ You are at Level 2 when you have the static word documents with the step to comp
 A perfect solution would need no static documentation. Perfect code would be so self-explanatory that it did not need comments. The same rule applies with instructions on how to get the solution compiling: the best answer would be for the solution to contain scripts that automate the setup.
 
 
-## Example of Level 3: PowerShell Documentation
+## Example of Level 4: PowerShell Documentation
 
 
 **Recommendation:** All manual workstation setup steps should be scripted with powerShell (as per the below example)
