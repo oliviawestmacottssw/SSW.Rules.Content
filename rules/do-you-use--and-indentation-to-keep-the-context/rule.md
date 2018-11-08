@@ -16,7 +16,7 @@ authors:
 ---
 
 
-Electronic communication can easily cause misunderstandings. Help the reader understand your message better by:
+​Electronic communication can easily cause misunderstandings. Help the reader understand your message better by:
 
 - Keeping the prior email in your reply
 - Quote the original email by using the "&gt;" and indentation. Your new text should be kept to the left. When quoting text on web pages, other people or quoting past email history, indent it
@@ -36,8 +36,15 @@ Done
 
      &gt; 2. The program flow logic worries me a bit ​
 Sorry, this wasn't a final decision - I just put it there for testing purposes
- Figure: Good example - use indentation and "&gt;" in an email. It points out the context of what is referred to  
+ Figure: Good example - use indentation and "&gt;" in an email. It points out the context of what is referred to 
+
+
+
+**Note: For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually**
+​
+
 ### Related Rules
+
 
 
 - [Do you use indentation for readability?](/Pages/IndentationForReadability.aspx)
