@@ -13,9 +13,11 @@ authors:
 
 ---
 
- ​​​​Instructions are very important when maintaining a project. With this document, people new to it can take over it quickly.
+ ​​​​​Instructions are very important when maintaining a project. With this document, people new to it can take over it quickly.
  
-There are 4 Levels of this documentation in a project.
+
+
+​There are 4 Levels of this documentation in a project.
 ​
 Level 1 - Lots of documentation step by step​​
 
@@ -34,8 +36,7 @@ You can also break up this document into 4 smaller documents
 Here's a suggestion of what these documents could contain.
 
 1. Project structure <br>          All parts that composes the project and how they work with each other.
-2. Third party components <br>          Any software, tools and DLL files that this project uses. (e.g., NHibernate, ComponentArt, KendoUI
-)
+2. Third party components <br>          Any software, tools and DLL files that this project uses. (e.g., NHibernate, ComponentArt, KendoUI)
 3. Database configuration
 4. Other configuration information
 5. Deployment information and procedures <br>
