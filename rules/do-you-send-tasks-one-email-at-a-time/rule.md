@@ -35,6 +35,8 @@ If you have a very large task that requires days of work, it is better to brea
 
 
 The advantages are that you get an email history on a specific part and it is easier to include someone else.
+
+**Tip: **Understand tasks sizes by reading:​ [Estimating - Do you know how to size user stories effectively?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=51296135-61d2-46bd-bee5-50f992199d99)
 ![BAD - One email for separate tasks.](/PublishingImages/separateTasksOneEmail.gif) Figure: Bad Example - One email for multiple separate tasks ![GOOD - Separate emails for separate tasks.](/PublishingImages/separateTasksSeparateEmails.gif) Figure: Good Example - Separate emails for separate tasks 
 TODO: Make grey boxes with clear separated emails - change from IIS to Git Repo + will become 3 emails
 ### Replying 'dones' 
