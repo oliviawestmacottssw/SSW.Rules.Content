@@ -11,15 +11,36 @@ authors:
 
 ---
 
- Do you sometimes find that people don't attend to all the items you have listed in your long and carefully drafted email? 
+ ​Do you sometimes find that people don't attend to all the items you have listed in your long and carefully drafted email? 
  
-Make it easier for everyone to track the status of tasks by sending tasks one email at a time, and make the task it requests very clear. When a person has completed a task they just have to reply "Done" to that email, delete the email from their Inbox and then move on to the next task.
+Make it easier for everyone to track the status of tasks by sending tasks one email at a time, and make the requests very clear. When a person has completed a task they just have to reply "Done" to that email, delete the email from their inbox and then move on to the next task.
 
-This rule can be by-passed when dealing with small tasks relating to the same topic. In cases where this is needed, you should number each task that you wish to be completed, as per "[Do you number small tasks related to 1 topic](/Pages/NumberSmallTasks.aspx)". however, the person completing the task should still reply a single "Done" to the whole email once they have completed all of the small tasks.
+### Grouping related tasks 
 
-Also send separate emails per topic - that way there can be one email per topic. The advantages are that you get an email history on a specific topic and it is easier to include someone else.
-![BAD - One email for separate tasks.](/PublishingImages/separateTasksOneEmail.gif) Figure: Bad Example - One email for multiple separate tasks. ![GOOD - Separate emails for separate tasks.](/PublishingImages/separateTasksSeparateEmails.gif) Figure: Good Example - Separate emails for separate tasks. ![GOOD - Exception to the rule.](/PublishingImages/relatedTasks.gif) Figure: Good Example - A few related tasks in one email.
-Note: When replying to these emails, reply to each email individually. Don't consolidate them all into one as it leaves unfinished email threads.
 
-**See Also: **[Do you number tasks or questions you would like a reply to?](/Pages/NumberSmallTasks.aspx)
+Obviously, if you are requesting many small changes to the same page, use one email as they're related to the same topic. In this case number each task that you wish to be completed, as per "[Do you number small tasks related to 1 topic](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=072d00e3-9704-4c03-acc5-81b449d27a1c)". If all the tasks are very simple and everything was done as specified, the person who completed the tasks replies with a single "Done" to the whole email.
+
+**Warning:** Don't group unrelated topics
+
+![GOOD - Exception to the rule.](/PublishingImages/relatedTasks.gif)Figure: Good Example - A few related tasks in one email
+
+### Breaking up monster tasks 
+
+
+If you have a very large task that requires days of work, it is better to break it up and send separate emails. So that a task "Boil the Ocean" would become:
+
+- "Boil the Ocean #1",
+- "Boil the Ocean #2",
+- "Boil the Ocean #3" etc.
+
+
+The advantages are that you get an email history on a specific part and it is easier to include someone else.
+![BAD - One email for separate tasks.](/PublishingImages/separateTasksOneEmail.gif) Figure: Bad Example - One email for multiple separate tasks ![GOOD - Separate emails for separate tasks.](/PublishingImages/separateTasksSeparateEmails.gif) Figure: Good Example - Separate emails for separate tasks 
+TODO: Make grey boxes with clear separated emails - change from IIS to Git Repo + will become 3 emails
+### Replying 'dones' 
+
+
+When replying to these emails, reply to each email individually. Don't consolidate them all into one as it leaves unfinished email threads.
+
+
 
