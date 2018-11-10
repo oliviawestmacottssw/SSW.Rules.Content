@@ -18,7 +18,7 @@ When a colleague or a client asks you to do a task verbally, or you have discove
 
 The best solution is to send yourself an email CC'ing the person who asked you, including "[As per our conversation](/Pages/DoYouAlwaysSendAnAsPerOurConversationEmail.aspx)..." This way both of you know that the job needs to be done. This is really important especially when you are working for clients so there is a record of the requests for work.
  
-**[ADD IMAGE]**
+**[TODO: Tiago ​ADD IMAGE]**
 
 Figure: Writing yourself a "Post-It Note" is not the best method
 
