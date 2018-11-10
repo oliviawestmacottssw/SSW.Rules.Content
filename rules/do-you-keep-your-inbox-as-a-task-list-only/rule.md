@@ -14,7 +14,7 @@ authors:
 ---
 
  
-Most people don’t manage their inbox effectively. Emails should be treated as a list to do. As you complete a task you can just delete the email.
+​Most people don’t manage their inbox effectively. Emails should be treated as a list to do. As you complete a task you can just delete the email.
  
 Your inbox should only contain 'tasks', that are actionable items on your **list of things to do**. Everything that is in your 'Inbox' (including sub-folders) should only be to-do items.
 
