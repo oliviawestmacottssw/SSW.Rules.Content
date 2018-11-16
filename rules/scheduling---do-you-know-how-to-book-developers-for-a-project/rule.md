@@ -10,8 +10,8 @@ authors:
 ---
 
  
-** Prerequisite: **[Install the 2 CRM Addins](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10).
- ![Create new appointment in CRM](/PublishingImages/ServiceCalendar2013.jpg) Figure: Using the Service Calendar, you can see who is and is not available at a given time
+**​ Prerequisite: **[Install the 2 CRM Addins](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10).
+![Create new appointment in CRM](/PublishingImages/ServiceCalendar2013.jpg)Figure: Using the Service Calendar, you can see who is and is not available at a given time
 There are a few different ways of booking developers for project work, either via Outlook or the browser.
  
 ### Option 1: Use the Outlook Calendar and "Set Regarding" (recommended)
@@ -50,15 +50,9 @@ Sometimes you may want to reserve a consultant for an appointment but are not ab
 
 To create a Tentative Booking:
 
-
-> 1. Follow the same steps above to create the Appointment
-
-
-
-> 2. Instead of choosing a client account for 'Set Regarding', choose the company 'ssw.pencilledin'.
+1. Follow the same steps above to create the Appointment
+2. Instead of choosing a client account for 'Set Regarding', choose the company 'ssw.pencilledin'.
 
 
-Tentative Bookings will display in the BookedIn Days report in a khaki color, so as an Account Manager you'll know contact the booking creator if you need to use that time.​
-
-
+Tentative Bookings will display in the BookedIn Days report in a khaki color, so as an Account Manager you'll know contact the booking creator if you need to use that time.
 
