@@ -10,11 +10,11 @@ authors:
 ---
 
  
-**​ Prerequisite: **[Install the 2 CRM Addins](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10).
-<dl class="image"><dt> 
-      <img alt="Create new appointment in CRM" src="/PublishingImages/ServiceCalendar2013.jpg" style="width&#58;95%;"> 
+**​​ Prerequisite: **[Install the 2 CRM Addins](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10).
+<dl class="image"><dt>
+      <img alt="Create new appointment in CRM" src="/PublishingImages/ServiceCalendar2013.jpg" style="width&#58;95%;">
    </dt><dd>Figure&#58; Using the Service Calendar, you can see who is and is not available at a given time</dd></dl>
-There are a few different ways of booking developers for project work, either via Outlook or the browser.
+There are a few different ways of booking developers for project work, either via Outlook or the browser.​
  
 ### Option 1: Use the Outlook Calendar and "Set Regarding" (recommended)
 
@@ -41,7 +41,9 @@ This is a backup option for anyone who doesn't have access to Outlook with the 
 <dl class="image"><dt> <img alt="Complete appointment" src="/PublishingImages/complete-appointment.jpg" style="width&#58;95%;"> </dt><dd>Figure&#58; A complete CRM Appointment for a 1-day booking</dd></dl>
 
 ### Option 3: CRM Service Activities (bad example)
-<dl class="badImage"><dt> <img src="/PublishingImages/CRMServiceActivity.jpg" alt="CRMServiceActivity.jpg" style="width&#58;95%;"> </dt><dd> Figure&#58; Bad Example - Don't use Service Activities as they don't map as gracefully with Outlook Appointments</dd></dl> If you do not know who can do the work, but you know the type of resource required, you can use Service Activities.
+<dl class="badImage"><dt> <img src="/PublishingImages/CRMServiceActivity.jpg" alt="CRMServiceActivity.jpg" style="width&#58;95%;"> </dt><dd> Figure&#58; Bad Example - Don't use Service Activities as they don't map as gracefully with Outlook Appointments</dd></dl>
+If you do not know who can do the work, but you know the type of resource required, you can use Service Activities.
+
 The downside of Service Activities is that they do not sync gracefully with outlook calendars.
 
 Back in CRM4, the only way to make recurring appointments was to use Service activities, but this is no longer the case so Service Activities are not recommended for resource scheduling if you know who you want to schedule.
