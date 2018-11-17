@@ -29,7 +29,7 @@ This is generally the easiest way for developers to book themselves in as they d
 
 This is a backup option for anyone who doesn't have access to Outlook with the CRM addin.
 
-1. Create new appointment from the CRM 2016 web interface (also works in CRM 2013) ![New Appointment](/PublishingImages/appointment-new.jpg) Figure: Click Appointment to create a new appointment in CRM
+1. Create new appointment from the CRM 2016 web interface (also works in CRM 2013)  ![New Appointment](/PublishingImages/appointment-new.jpg) Figure: Click Appointment to create a new appointment in CRM
 2. Set the Subject
 3. Select the resources that you want to book
 4. Select the client that you want to book the developers to work on
