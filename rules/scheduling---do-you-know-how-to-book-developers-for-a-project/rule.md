@@ -26,12 +26,12 @@ This is generally the easiest way for developers to book themselves in as they d
 4. Set the recurrence if it’s more than 1 day of work
 5. Click "Set Regarding" on the ribbon and select the company that you want to book the developers to work on (this is the step that syncs it with CRM)
 
-<dl class="image"><dt> <img alt="CRM Service Calendar" src="/PublishingImages/appointment-booking.jpg"> </dt><dd>Figure&#58; A complete appointment booking Mark to work for Westlink for 5 days</dd></dl>
+<dl class="image"><dt> <img alt="CRM Service Calendar" src="/PublishingImages/appointment-booking.jpg" style="width&#58;750px;height&#58;416px;"> </dt><dd>Figure&#58; A complete appointment booking Mark to work for Westlink for 5 days</dd></dl>
 ### Option 2: CRM Activity Appointments 
 
 This is a backup option for anyone who doesn't have access to Outlook with the CRM addin.
 
-1. Create new appointment from the CRM web interface <dl class="image"><dt> <img alt="New Appointment" src="/PublishingImages/appointment-new.jpg" style="width&#58;750px;"> </dt><dd>Figure&#58; Click Appointment to create new appointment in CRM<br></dd></dl>
+1. Create new appointment from the CRM 2016 web interface (also works in CRM 2013)<dl class="image"><dt> <img alt="New Appointment" src="/PublishingImages/appointment-new.jpg" style="width&#58;750px;"> </dt><dd>Figure&#58; Click Appointment to create a new appointment in CRM<br></dd></dl>
 2. Set the Subject
 3. Select the resources that you want to book
 4. Select the client that you want to book the developers to work on
