@@ -20,5 +20,5 @@ authors:
 Reply to the "Done" email like below and CC the person who checked the email for you. In this way, you show it was double checked.  ![ruleDoneCheckedBy.png](/PublishingImages/ruleDoneCheckedBy.png) Figure: Reply Email with "Checked by XXX"  
 When you action a task for adding web content (such as a rule or suggestion), firstly paste the content into a new Word file and run the "Grammar & Spelling Check" to check if there are any errors. After the "Grammar & Spelling Check", you can add it to your website. After that, run [Link Auditor](http&#58;//sswlinkauditor.com/) in order to keep 0 bad links on that page.
 
-![](/PublishingImages/SpellAndLinkCheck.jpg)Figure: Reply to the email with grammar & spelling check and CA check results
+  ![](/PublishingImages/SpellAndLinkCheck.jpg) Figure: ​Reply to the email with grammar & spelling check and CA check results
 
