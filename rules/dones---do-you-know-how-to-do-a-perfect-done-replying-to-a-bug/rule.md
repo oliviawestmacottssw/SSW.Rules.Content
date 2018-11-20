@@ -16,8 +16,6 @@ authors:
 - Current Status - the bug is fixed (screenshot of working application) or not fixed (ask for more detailed information from the client)
 - Investigation - the reason for the bug, or if you don't know, what you investigated, e.g. checked Windows event logs and found nothing helpful
 - Solution - how you fixed the bug (code snippet if necessary)
+<dl class="goodImage"><dt><img alt="Reply to a bug" src="/PublishingImages/better_emails_reply_bug_small.jpg"></dt><dd>Figure&#58; Good Example - Reply to a bug showing all steps​<br></dd></dl>
 
-![Reply to a bug](/PublishingImages/better_emails_reply_bug_small.jpg)
 
-<font class="ms-rteCustom-FigureGood" size="+0">Figure&#58; Good Example - Reply to a bug showing all steps</font>
-      
