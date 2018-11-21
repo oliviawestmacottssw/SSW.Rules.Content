@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​​One of the most effective ways of launching an effective marketing campaign is to follow a checklist that includes company tried and tested strategies. This checklist should be filled out with the campaign details and then followed to execute the campaign.​
+​​​One of the most effective ways of launching an effective marketing campaign is to follow a checklist that includes company tried and tested strategies. This checklist should be filled out with the campaign details and then followed to execute the campaign.​
  
 ### Pre-Campaign Stage
 
@@ -42,7 +42,7 @@ authors:
 10. Schedule the social media updates in Buffer
 11. Promote event in LinkedIn groups and Google+
 12. Pay Per Click
-    1. Facebook post promotions
+    1. Facebook and Instagram post promotions
     2. Google AdWords
     3. LinkedIn ads
 13. Work with SSW developers and account managers to promote the webinar to 3 of their clients or network each via phone call and email.
