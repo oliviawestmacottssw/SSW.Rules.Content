@@ -40,11 +40,9 @@ Sorry, this wasn't a final decision - I just put it there for testing purposes
 
 
 
-**Note: For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually**
-​
+**Note: For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually​**
 
 ### Related Rules
-
 
 
 - [Do you use indentation for readability?](/Pages/IndentationForReadability.aspx)
