@@ -11,21 +11,22 @@ authors:
 
 ---
 
- Readability of URLs is important. It is not just making the length as short as possible. <br> 
-If you use a shortened link people can't see what they are clicking through to. In fact this is what most spamers rely on:
+ Readability of URLs is important. It is not just making the length as short as possible. <br>
+ 
+If you use a shortened link people can't see what they are clicking through to. In fact, this is what most spammers rely on:
 
-[http://twb.ly/1uJtUG](http&#58;//twb.ly/1uJtUG) 
+[http://twb.ly/1uJtUG](http&#58;//twb.ly/1uJtUG)
+
 Figure: Bad example - You don't know where this is going
 
 When you can, take the more readable option:
 
-[http://twibbon.com/join/Scotland](http&#58;//twibbon.com/join/Scotland) 
+[http://twibbon.com/join/Scotland](http&#58;//twibbon.com/join/Scotland)
+
 Figure: Better example - this link is sent in the clear as it is short enough
 
 So you should only 'Auto Shorten URLs' when it is too long and you need the space.
 
-However it is becoming more prevalent for the software to support showing the full URL on rollover.
-
-![image](/PublishingImages/RulesSocialTwitterReadableURL.jpg "image")
-**Figure: Good example – the application does the heavy lifting for you**
+However, it is becoming more prevalent for the software to support showing the full URL on rollover.
+![image](/PublishingImages/RulesSocialTwitterReadableURL.jpg "image")Figure: Good example – the application does the heavy lifting for you
 
