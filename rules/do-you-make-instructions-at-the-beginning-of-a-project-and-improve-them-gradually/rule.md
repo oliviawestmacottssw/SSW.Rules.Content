@@ -62,7 +62,8 @@ Problems to check for:
 ​​​Lots of dependencies​​
 
 
-You are at Level 2 when you have the static word documents with the step to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile
+You are at Level 2 when you have some static Word documents with the steps​ to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile.
+
 ### Level #3: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
 
 ![Good Solutions Have Instructions - level 2](/PublishingImages/instructions-level2.jpg)Figure: Level 2 Documentation includes database build scripts. We use <br>      [SSW SQL Deploy](http&#58;//sqldeploy.com/) to make keeping all databases on the same version simple. Check out <br>      [how to use SQL Deploy here](http&#58;//tv.ssw.com/969/adam-stephensen-sql-deploy-demo)
