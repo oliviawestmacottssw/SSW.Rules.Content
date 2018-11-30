@@ -13,13 +13,14 @@ authors:
 
 ---
 
- ​​​​​​Instructions are very important when maintaining a project. With this document, people new to it can take over it quickly.
+ Developers are better at coding then creating documentation. However project instructions are very important to enable developers to get up and running quickly.
  
+In the prior rule:      [Do you review the documentation? we learnt of the 6 documents](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=951ffbf9-4066-42f3-a9b7-e0d8603e728b)
 
+​There are 4 levels of project documentation. Documentation can start simple but ends up having a lot of manual steps. The best projects have simple documentation but more done automatically (level 4).​​​
 
-​There are 4 Levels of this documentation in a project.
-​
-Level 1 - Lots of documentation step by step​​
+### Level 1 - Lots of documentation step by step​​​​​
+
 
 Add a document as a solution item and name it '\_Instru​​ctions.docx'
 
@@ -42,33 +43,35 @@ Here's a suggestion of what these documents could contain.
 5. Deployment information and procedures <br>
 6. Other things to take care of
 
-![A project with an instructions](/PublishingImages/BadNetProject.JPG)Bad example - A project without an instructions. ![Good Solutions Have Instructions](/PublishingImages/ProjectDocumentation.jpg)Good example - A project with instruction 
-Level  1a:
+![A project with an instructions](/PublishingImages/BadNetProject.JPG)Bad example - A project without an instruction. ![Good Solutions Have Instructions](/PublishingImages/ProjectDocumentation.jpg)Good example - A project with instructions​
 
-VSTS with Markdown
-Add a readme.md to your solution (Use [this​](https&#58;//docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=vsts) as a guidance for markdown)​
+Add a readme.md to your solution (Use [this​](https&#58;//docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=vsts)  as a guidance for markdown)​​
 
-## Level 2: Can you get latest and compile with a Docx
+### ​​​Level #2: Lots of documentation (and the \*exact\* steps to Get Latest and compile)
+
 
 When a new developer starts on a project you want them to get up and running as soon as possible.
 
+If you were at Level 2 you might have a document that says:
+Dear Northwind Developer
+     This documentation describes what is required to configure a developer PC.​
+
 Problems to check for:
+​​Windows 8 not supported
+​​Many things to build
+​​​Lots of dependencies​​
 
-- Windows 8 not supported
-- Many things to build
-- Lots of dependencies
 
-
-It is essential to have documentation that describes what is required to configure a developer workstation.
 You are at Level 2 when you have the static word documents with the step to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile
-## Level 3: Can you get latest and compile with the database
+### Level #3: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
+
 ![Good Solutions Have Instructions - level 2](/PublishingImages/instructions-level2.jpg)Figure: Level 2 Documentation includes database build scripts. We use <br>      [SSW SQL Deploy](http&#58;//sqldeploy.com/) to make keeping all databases on the same version simple. Check out <br>      [how to use SQL Deploy here](http&#58;//tv.ssw.com/969/adam-stephensen-sql-deploy-demo)
-## Level 4: Can you get latest and compile with a PowerShell script
+### Level #4: Less documentation (and Get Latest and compile with a PowerShell script)​
+
 
 A perfect solution would need no static documentation. Perfect code would be so self-explanatory that it did not need comments. The same rule applies with instructions on how to get the solution compiling: the best answer would be for the solution to contain scripts that automate the setup.
 
-
-## Example of Level 4: PowerShell Documentation
+Example of Level 6: PowerShell Documentation
 
 
 **Recommendation:** All manual workstation setup steps should be scripted with powerShell (as per the below example)
