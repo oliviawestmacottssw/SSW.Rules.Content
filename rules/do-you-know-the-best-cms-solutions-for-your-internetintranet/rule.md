@@ -10,17 +10,17 @@ authors:
 ---
 
  
-​You don’t want to build solutions from scratch, take the business value you can, from a CMS and a CRM. Don't reinvent the wheel.
-
+​​You don’t want to build solutions from scratch, take the business value you can, from a CMS and a CRM. Don't reinvent the wheel.
  The main choices are:
 
 - [www.orchardproject.net/](http&#58;//www.orchardproject.net/)
 - [www.DotNetNuke.com](http&#58;//www.dotnetnuke.com/)
-- [Microsoft Sharepoint​](http&#58;//office.microsoft.com/en-au/sharepoint/)
+- [Microsoft SharePoint​​](http&#58;//office.microsoft.com/en-au/sharepoint/)
 - [www.CommunityServer.org](http&#58;//www.communityserver.org/)
 - Microsoft ASP.NET 2.0 hand coded pages
 
 
-There are pros and cons to all and it depends on what functionality/customization you need but we lean towards Orchard and Sharepoint for most solutions.
+There are pros and cons to all and it depends on what functionality/customization you need but we lean towards Orchard and SharePoint for most solutions.
  See     [The leading CMS Solutions](https&#58;//www.ssw.com.au/ssw/Consulting/DNN-DotNetNuke.aspx).
+​
  
