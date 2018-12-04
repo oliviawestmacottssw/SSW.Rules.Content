@@ -22,7 +22,6 @@ What do you want to charge for Cameron's rate?
 I would advise the standard $165 + GST until he has more experience.
 Please approve.
 
-
 Figure: Good Example <br>      
 
 When you are giving someone multiple options, you should recommend one and state why. For example:
