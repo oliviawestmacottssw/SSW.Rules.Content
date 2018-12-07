@@ -14,13 +14,19 @@ authors:
 ---
 
  
-Sometimes the person responsible for a task isn't able to complete it right away or anytime soon. In this case, a promise is made and the person either has to make a note in a paper diary, stick a post-it note to his screen, or regularly trawl through 'Sent Items' for all the off-hand promises made.
+Sometimes you're not able to complete a task right away or anytime soon. In this case, people usually just say:
 
-Another scenario is when the task should be done or will expire after a period of time. For example: "Send Google Analytics data after a month" or "Remove course banner after the course is completed".
+"I can't do this week, but I should have it done by the end of next week"
+
+Another scenario is when the task should be done or will expire after a period of time. For example:
+
+"Send Google Analytics data after a month" or "Remove course banner after the course is completed"
+
+Efficient people don't rely on their memory and instead, use some way to make sure they don't forget to do that task. The most common ways are to either make a note in a paper diary, stick a post-it note to his screen. But there are better ways.​
  ![postit-screen.jpg](/PublishingImages/postit-screen.jpg) Figure: Bad example - using stick notes
 To ensure you follow up any task like these, there are two ways to set yourself a task to follow up in the future:
 
-### Delayed Email 
+### #1 Delayed Email 
 
 
 Write yourself an email in Outlook. 
@@ -30,10 +36,10 @@ The email will sit in your outbox until the required time, when it will be sent 
 When you receive it in your inbox, action the task.
  ![delay-emails-outlook.jpg](/PublishingImages/delay-emails-outlook.jpg) Figure: Good example - Use delayed email on Outlook 
 
-### Email reminders - followupthen.com 
+### #2 Email reminders - followupthen.com 
 
 
 There is a brilliant service called FollowUpThen which can do all the administrative work for you.
 
 Simply BCC or email Simply BCC or email **&lt;period of time&gt;@followupthen.com** and it will send you an email when that time expires, reminding you to follow up with another email.
- ![followupthen](/PublishingImages/FollowUpThen.jpg) Figure: Good example - ​Use [1week@followupthen.com](mailto&#58;1week@followupthen.com)  to be reminded of this email in one week 
+ ![followupthen](/PublishingImages/FollowUpThen.jpg) Figure: Good example - ​Use [1week@followupthen.com](mailto&#58;1week@followupthen.com) to be reminded of this email in one week 
