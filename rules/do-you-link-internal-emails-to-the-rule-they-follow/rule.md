@@ -7,6 +7,9 @@ authors: []
 
 ---
 
- Having standard internal emails that go out is great, as it helps keep consistency, and the recipients know the format of the information they’re receiving and so can process it quickly. 
-However, they may assume that this is just the style of the sender, and not realise that it is a company standard. What's more, if another employee needs to send one of these out later, they may not know the processes that go into its construction. For this reason, it is a good idea to have a link at the bottom (in the footer) of any standard internal email which points to the rule which governs its creation. You may want to put this in XML brackets so it’s easy to spot.
+ Having standard internal emails that go out is great, as it helps keep consistency, and the recipients know the format of the information they’re receiving and so can process it quickly.
+ 
+However, they may assume that this is just the style of the sender, and not realize that it is a company standard. What's more, if another employee needs to send one of these out later, they may not know the processes that go into its construction. For this reason, it is a good idea to have a link at the bottom (in the footer) of any standard internal email which points to the rule which governs its creation. You may want to put this in XML brackets so it’s easy to spot.
+
+**Important:** Email templates are dangerous and should not be followed blindly. It's essential that you always read it and make the necessary changes before hitting "send".​
 ![Link to rule](/PublishingImages/link-to-rule.jpg) Figure: Good Example – the email links to the standard that explains how to write it
