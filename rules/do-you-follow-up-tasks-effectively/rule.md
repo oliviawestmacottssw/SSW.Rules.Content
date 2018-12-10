@@ -41,4 +41,20 @@ When you receive it in your inbox, action the task.
 There is a brilliant service called FollowUpThen which can do all the administrative work for you.
 
 Simply BCC or email Simply BCC or email **&lt;period of time&gt;@followupthen.com** and it will send you an email when that time expires, reminding you to follow up with another email.
-<dl class="goodImage"><dt> <img src="/PublishingImages/FollowUpThen.jpg" alt="followupthen"> </dt><dd>Figure&#58; Good example -&#160;​Use <a href="mailto&#58;1week@followupthen.com">1week@followupthen.com</a>&#160;to be reminded of this email in one week </dd></dl>
+<dl class="goodImage"><dt> <img src="/PublishingImages/FollowUpThen.jpg" alt="followupthen"> </dt><dd>Figure&#58; Good example -&#160; Use <a href="mailto&#58;1week@followupthen.com">1week@followupthen.com</a>&#160;to be reminded of this email in one week<br></dd></dl>
+### #3 ​Follow Up flag feature in Outlook
+
+When you require a reminder to follow up on an email by a certain date:
+
+
+
+1. Click the Follow Up button <dl class="image"><dt><img src="/PublishingImages/followup1.jpg" alt="followup1.jpg" style="width&#58;750px;"></dt><dd>Figure&#58; Set a follow-up date</dd></dl>
+2. Select an appropriate date from the drop-down or choose Custom to add additional reminders <dl class="image"><dt><img src="/PublishingImages/followup2.jpg" alt="followup2.jpg" style="width&#58;750px;"></dt><dd>Figure&#58; Add an additional reminder to follow up</dd></dl>
+    - You can even set a custom reminder for the recipient :)
+3. Outlook shows an info tip with the exact follow-up date you chose.
+4. A To-Do item is also added to your Outlook To-Do list <dl class="image"><dt><img src="/PublishingImages/followup3.jpg" alt="followup3.jpg" style="width&#58;750px;"></dt><dd>Figure&#58; An item is added to your To-Do list <br></dd></dl>
+    - To-Do list can be found in the Tasks pane
+5. On the due date you will receive a Reminder popup from Outlook
+6. If you chose to add a custom reminder you will also receive a Reminder popup from Outlook
+
+
