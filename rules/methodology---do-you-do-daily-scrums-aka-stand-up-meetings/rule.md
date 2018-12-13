@@ -28,19 +28,27 @@ Asking these questions of every team member means no-one can hide and everyone r
 The team's successes and failures are shared, and anyone who knows the answer to someone else's problem can help with a solution, \*after\* the meeting.
  Figure: Watch a Daily Scrum at Microsoft (short)  Figure: Watch a Daily Scrum at Microsoft (long)
 
+
 "Great video guys. Remember, it is ok to change Scrum, actually, it is necessary for success. Just adhere to the values of Scrum. "
 
 Stephen Forte (Board member ScrumAlliance.com)
 
 
-Follow these essential tips to improve your Daily Scrum meetings:
+### Follow these essential tips to improve your Daily Scrum meetings:
 
-**Tip 1: Have your Scrum Master review the Sprint Progress at the end**
+
+**Tip 1: Be prepared for the meeting **
+
+Before you join the Daily Scrum, [check the Teams group](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=df84e3d9-c64f-4419-98d6-cb50363450ef) to see what your colleagues have been discussing and working on, and check the portal to confirm the meeting time. If you’re joining a new project or re-joining a previous one after some time away, these steps are important to keep yourself up-to-date and abreast of progress.
+
+Then you’ll be able to say to your Scrum Master, “I’ve had a look at the Teams group. I am ready to join the daily Scrum.”
+
+**Tip 2: Have your Scrum Master review the Sprint Progress at the end**
 
 At the end of the Scrum, the Scrum Master should [review the current burn down](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=845e0bac-8c39-4acb-a62d-68b886f5ea2a) to check on the progress of the team.
  ![burndowntfspreview.png](/PublishingImages/burndowntfspreview.png) Figure: The burndown chart in tfs.visualstudio.com
 
-**Tip 2: Keep a schedule of the Daily Scrum times on a wall (+ have a recurring appointment in Outlook)**
+**Tip 3: Keep a schedule of the Daily Scrum times on a wall (+ have a recurring appointment in Outlook)**
 
 
 Hi **[Team name]**,
@@ -58,7 +66,7 @@ Regards,
 
 Figure: Schedule a recurring Daily Scrum meeting in Outlook using this template
 
-**Tip 3: Keep to the schedule. Same place, same time (and start even if people are missing)**
+**Tip 4: Keep to the schedule. Same place, same time (and start even if people are missing)**
 
 Get started on time. Especially in the beginning, people will be late, but the meeting should be held with the remaining people. Don't worry. People learn.
 
@@ -68,45 +76,46 @@ Note #1: The Product Owner (often the client) is not required at the stand-up me
 
 Note #2: If you are not doing an approved sprint and doing ad-hoc work, then best if the Product Owner (aka client) attends ([see Ad Hoc work](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=e86b7bb9-95a1-45c2-909c-d0ec85296be5)).
 
-**Tip 4: Do you update tasks before the Daily Scrum?**
+**Tip 5: Do you update tasks before the Daily Scrum?**
 
 Daily Scrums are more effective when team members arrive when their tasks are already updated.
 See [Do you update your tasks before the daily stand-up meeting?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=fef8584d-a54a-4628-a307-fa99cae26802)
 
-**Tip 5: Don't go into detail**
+**Tip 6: Don't go into detail**
 
 Keep your answers short and concise. Do not stray from the 3 main questions. Remember to use the "Parking Lot" to record topics to discuss after the Daily Scrum.
 
-**Tip 6: No phones + no checking email. No distractions.**
+**Tip 7: No phones + no checking email. No distractions.**
 
 Technology in the Daily Scrum causes people to lose focus on the goal. The goal is for the team to synchronize by sharing what they are doing. Avoid giving people the opportunity to be distracted easily by forbidding email, SMS and mobile phones from the Daily Scrum.
 
-**Tip 7: Use a task board (even better use an electronic one)**
+**Tip 8: Use a task board (even better use an electronic one)**
 
 A task board allows people to visualize what the team is talking about.
  ![tfspreviewtaskboard.png](/PublishingImages/tfspreviewtaskboard.png) Figure: The Task Board from tfs.visualstudio.com (TFS 2012)
-**Tip 8: Carry a pen and paper**
+**Tip 9: Carry a pen and paper**
 
 Use a pen and paper to jot things down.
 A whiteboard is also great for "Parking Lot" topics that arise, to be discussed after the meeting.
 
-**Tip 9: Don't let your Daily Scrum become a general meeting - use a "Parking Lot".**
+**Tip 10: Don't let your Daily Scrum become a general meeting - use a "Parking Lot".**
 
 A "Parking Lot" is the place for any discussions that stop the Team from answering the 3 main questions. Only interested people stay for the "Parking Lot" to discuss issues after the Daily Scrum.
 
-**Tip 10: If you have raised impediments, consider contacting the Product Owner **
+**Tip 11: If you have raised impediments, consider contacting the Product Owner **
  ![Get the Product Owner on the phone](/PublishingImages/ProductOwnerTelephone.jpg) Figure: Often the Product Owner won’t be at the Scrum. However, call the Product Owner if you have an Impediment (aka Roadblock). Communication with the Product Owner is essential and if you haven't touched base with him in the few days, then do so. A disconnected or absent Product Owner is a sign of dysfunction.
-**Tip 11: What to do when you're working for a PO directly**
+**Tip 12: What to do when you're working for a PO directly**
 
 If you don't have a team, and you're doing ad hoc work for a PO directly, it's best to contact him for the Daily Scrum every day if possible, and follow up with an email. This will keep the 2 of you synchronized.
 
-**Tip 12: How do you enter scrum meetings into your timesheets?**
+**Tip 13: How do you enter scrum meetings into your timesheets?**
 
 Once you have completed your stand up, add “S” to your timesheet as per [Rules to Better Timesheets](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTimesheets.aspx).
 
-**Tip 13: Use Skype or Lync**
+**Tip 14: Use Teams or Skype
+**
 
-Use Skype or Lync to bridge gaps in geography.
+Use Teams or Skype to bridge gaps in geography.
 
 
 Focus on the Flow
@@ -124,6 +133,7 @@ Hi Adam,
 I have XX days until my next client booking.
 I have 22 emails in my inbox.
 Yesterday I was on sick leave.
+
 Today I am working on:
 
 - Timepro PBIs
@@ -139,9 +149,10 @@ Adam,
 I have XX days until my next client booking.
 I have 22 emails in my inbox.
 Last Friday I was on sick leave.
+
 Today I am working on:
 
-- Timepro - Adding new button to the next day
+- TimePro - Adding new button to the next day
 - Getting my emails on "SSW.com" to zero
 
 
