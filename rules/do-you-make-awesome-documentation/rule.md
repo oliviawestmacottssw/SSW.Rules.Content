@@ -18,7 +18,7 @@ authors:
 ---
 
 
-​There are 2 styles of documentation:
+​There are a few styles of documentation:
  
 ### Level 1 - Old School
 
@@ -48,7 +48,7 @@ This is a well-established way to do documentation but the issue with it is that
 6 small docs (a couple of pages max + in the order you would read them):
 
 - Documentation\Business.docx - Explaining the business purpose of the app
-- Documentation\Instructions-Compile.docx - Contains instructions on [how to get the project to compile (aka the F5 experience)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d6d34c31-ac6a-49a4-876a-f9d30e1ab78a)
+- Documentation\Instructions-Compile.docx - Contains instructions on how​​ to get the project to compile (aka the F5 experience)
 - Documentation\Instructions-Deployment.docx - Describes the deployment process
 - Documentation\Patterns-and-Technologies.docx - Explaining the technical overview e.g. Broad architecture decisions, 3rd party utilities, patterns followed etc. (ie. SSW Data Onion)
 - Documentation\Definition-of-Done.docx – Ensures that your team [maintains a high level of quality with a Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=6449ae79-ba88-447e-aa48-36173029a2af)​
@@ -58,7 +58,7 @@ This is a well-established way to do documentation but the issue with it is that
 
  ![ProjectDocumentation.jpg](/PublishingImages/ProjectDocumentation.jpg) Figure: 6 small docs explain most of what you need to know very briefly
 
-​Add a document as a solution item and name it '\_Instructions.docx'
+Add a document as a solution item and name it '\_Instructions.docx'
 
 Tip: Microsoft Word documents are preferred over .txt files because images and formatting are important
 
@@ -86,6 +86,79 @@ Here's a suggestion of what these documents could contain.
  ![vsts-wiki.jpg](/PublishingImages/vsts-wiki.jpg) An Azure DevOps portal (was VSTS Wiki) is the modern alternative to the 6 Word docs – see [Do you make instructions at the beginning of a project and improve them gradually?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d6d34c31-ac6a-49a4-876a-f9d30e1ab78a)
 
 Add a readme.md to your solution (Use [this](https&#58;//docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=vsts) as a guidance for markdown)
+
+### Level 4: Lots of documentation (and the \*exact\* steps to Get Latest and compile)
+
+
+When a new developer starts on a project you want them to get up and running as soon as possible.
+
+If you were at Level 2 you might have a document that says:
+Dear Northwind Developer
+     This documentation describes what is required to configure a developer PC. 
+
+Problems to check for:
+  Windows 8 not supported
+​ Many things to build
+​​ Lots of dependencies
+
+
+You are at Level 2 when you have some static Word documents with the steps to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile.
+
+### Level 5: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
+
+ ![Good Solutions Have Instructions - level 2](/PublishingImages/instructions-level2.jpg) Figure: Level 2 Documentation includes database build scripts. We use [SSW SQL Deploy](http&#58;//sqldeploy.com/) to make keeping all databases on the same version simple. Check out [how to use SQL Deploy here](http&#58;//tv.ssw.com/969/adam-stephensen-sql-deploy-demo)
+### Level 6 : Less documentation (and Get Latest and compile with a PowerShell script) 
+
+
+A perfect solution would need no static documentation. Perfect code would be so self-explanatory that it did not need comments. The same rule applies with instructions on how to get the solution compiling: the best answer would be for the solution to contain scripts that automate the setup.
+
+Example of Level  6: PowerShell Documentation
+
+
+**Recommendation:** All manual workstation setup steps should be scripted with powerShell (as per the below example)
+
+**Recommendation:** You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
+
+PS C:\Code\Northwind&gt;** .\Setup-Environment.ps1**
+
+Problem: Azure environment variable run state directory is not configured (\_CSRUN\_STATE\_DIRECTORY).
+ 
+Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
+ 
+WARNING: Abandoning remainder of script due to critical failures.
+ 
+To try and automatically resolve the problems found, re-run the script with a -Fix flag.
+
+Figure: Good example - you see the problems in the devs environment
+
+
+PS C:\Code\Northwind&gt; .\Setup-Environment.ps1 -fix
+
+Problem: Azure environment variable run state directory is not configured (\_CSRUN\_STATE\_DIRECTORY).
+
+Fixed: \_CSRUN\_STATE\_DIRECTORY user variable set
+ 
+Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
+
+WARNING: No automated fix availab le for 'Azure Storage Service is running'
+ 
+WARNING: Abandoning remainder of script due to critical failures.
+
+Figure: Good example - when running with -fix this script tries to automatically fix the problem 
+
+
+
+PS C:\Code\Northwind&gt; .\Setup-Environment.ps1 -fix
+
+Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
+WARNING: No automated fix available for 'Azure Storage Service is running'
+
+WARNING: Abandoning remainder of script due to critical failures.
+
+
+
+Figure: Good example -  Note that on the 2nd run, issues resolved by the 1st run are not re-reported 
+
 
 ### Unit Testing
  ![UnitTestExplorer.png](/PublishingImages/UnitTestExplorer.png) Figure: Nice Unit Tests explain what the code is supposed to be doing. ![vs11debug.png](/PublishingImages/VS11Debug.png) Figure: Most young developers are happy with good old stepping through code with F11. The good thing is there are no diagrams that become out of date (which they always do after the first couple of sprints) giving you nasty Technical Debt. ![tfspreviewbacklog.png](/PublishingImages/TFSPreviewBacklog.jpg) Figure: Don't forget that you have the completed requirements which get done and archived and can now serve as free documentation e.g. User Stories (aka PBIs) ![Annotation and Comment](/PublishingImages/9c0cea_AnnotationAndComment.jpg) Figure: Annotations marry up the code with the PBIs, showing who, what, why and when for each piece of code
