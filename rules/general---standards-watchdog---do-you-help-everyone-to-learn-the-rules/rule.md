@@ -10,7 +10,7 @@ authors:
 ---
 
  
-"An ounce of prevention is worth a pound of cure" goes the saying. Having a strict coding standard is prevention. To create good code you must have good standards, such as commenting standards, naming standards, versioning standards and more.
+"An ounce of prevention is worth a pound of cure" goes the saying. Having a strict coding standard is prevention. To create good code you must have good standards, such as commenting standards, naming standards, versioning standards and [knowing the value of consistency](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f23d23e1-b60c-4c9c-b1e3-887a2906f3cf).
 
 **But this can really only happen if you’re going to [go the extra mile](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=36598961-2933-4a95-ba4b-9ed702e405ef) and stick your neck out and correct someone. **
   ![mean.jpg](/PublishingImages/watchdog-mean.jpg)  Figure: Bad Example - Correcting someone in a mean way ![ghost.jpg](/PublishingImages/watchdog-ghost.jpg) Figure: Bad example - seeing a mistake and not pointing it out, doesn’t improve a person. Allow them to benefit from your experience! ![thankyou.jpg](/PublishingImages/watchdog-thankyou.jpg) Figure: Good example - say 'thank you' to a person's corrections to show you don’t have thin skin and encourage further positive and negative feedback. It all helps you to improve ![Watchdog.jpg](/PublishingImages/watchdog-watchdog.jpg) Figure: Good example - People make mistakes but correct them as though they’re a soft cute puppy 🐶
@@ -32,7 +32,8 @@ When you notice someone doing the wrong thing:
 
 
 
-### Going Anonymous 
+### Going Anonymous
+
 
 If you don't have the confidence to talk to the person, send an email from info@
 
@@ -46,11 +47,25 @@ Clearly, this standard does not just apply to write better code, it applies to 
 
 ### Be nice, not harsh 
 
-E.g. maybe mention the word ‘tip’
+E.g. Mention the word 'tip'
+
+**From:** Adam
+**To:** Peter
+**Subject:** Your website footer
+ 
+Dear Peter,
+
+Looking at your website footer I believe it could be improved.
+
+**Tip:** I’d use international format on your phone number so people outside the USA can just click to dial - https://rules.ssw.com.au/great-email-signatures
+
+Cheers, 
+Adam
+ Figure: Good example - nicely informing of a standards violation 
 
 ### In Summary
 
-It’s important to ensure others are doing their best to maintain and follow the standards. Remember, it can be just as important for someone’s professional development to give feedback as it is to receive it. Being able to communicate feedback in an effective and professional manner can benefit you in any career. ​
+It’s important to ensure others are doing their best to maintain and follow the standards. Remember, it can be just as important for someone’s professional development to give feedback as it is to receive it. Being able to communicate feedback in an effective and professional manner can benefit you in any career.
 
 **To:** Peter
 **CC:** Adam (Manager)
@@ -59,6 +74,7 @@ Dear Peter,
 
 While you were away, I came across a page called ApplicationForm.aspx which was giving an error: 
 'The conversion of a char data type to a DateTime data type resulted in an out-of-range DateTime value.' 
+
 This happened when I entered '13/06/2018' into the 'Start Date' field of the form.
 The error occurs because you are not using the default language of the server which is 'English' - for the users of this database FRDC. This is the same as US English format of Months first, then Days, then a four-digit Year (mm/dd/yyyy). Instead, you used 'British English' on the FRDC database which has a format of dd/mm/yyyy. Please use the standard as per Rules to Better SQLServer Databases, Rule 1200 (Middle Tier Section)
 
@@ -67,5 +83,11 @@ Please note that whilst inserting data from your Front End application, you shou
 Let's fix it together when we get to work tomorrow.
 
 Cheers, DDK
- Figure: Good example - nicely informing of a standards violation 
+ Figure: Good example - nicely informing of a standards violation 
+
+**
+**
+
+**Tip:** In code, if you don't know who made a mistake, [use the annotate tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=1167746b-aca0-4a4f-9dd0-bf6b87953dae).
+
 
