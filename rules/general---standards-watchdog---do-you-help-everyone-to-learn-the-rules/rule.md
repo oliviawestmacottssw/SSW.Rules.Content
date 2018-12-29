@@ -24,18 +24,19 @@ This rule applies to all company standards. Standards are important because they
 
 ### Small things = Tiny Tip
 
+
 When the 'mistake' the person made is not an actual mistake, but something that the company has decided to do in one way for consistency, without a strong argument.
 
 
 
 **Tiny Tip: **I’d use international format on your phone number so people outside the USA can just click to dial - as per https://rules.ssw.com.au/great-email-signatures
-Figure: Good example - nicely informing of a small standard violation  
+Figure: Good example - nicely informing of a small standard oversight ​ 
 
-​Important things = Tip
+### Important things = Tip 
 
 When there is a proven better way to do something different from what the person has done. You should try to include the reasons.
 
-**Tip:** I noticed your email has a very generic subject: "website". Please resend with a use a descriptive email subject as per Rules to Better Email. This way it is easier to identify, categorize and find this email later,​ without having to open it :)
+**Tip:** I noticed your email has a very generic subject: "website". Please resend with a use a descriptive email subject as per Rules to Better Email. This way it is easier to identify, categorize and find this email later, without having to open it :)
 Figure: Good example - nicely informing of a better way to do something 
 
 
