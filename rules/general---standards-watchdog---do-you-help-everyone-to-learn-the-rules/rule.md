@@ -10,84 +10,95 @@ authors:
 ---
 
  
-"An ounce of prevention is worth a pound of cure" goes the saying. Having a strict coding standard is prevention. To create good code you must have good standards, such as commenting standards, naming standards, versioning standards and [knowing the value of consistency](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f23d23e1-b60c-4c9c-b1e3-887a2906f3cf).
+*"An ounce of prevention is worth a pound of cure"*goes the saying. Having a strict coding standard is prevention. To create good code you must have good standards, such as commenting standards, naming standards, versioning standards and [knowing the value of consistency](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f23d23e1-b60c-4c9c-b1e3-887a2906f3cf).
 
 **But this can really only happen if you’re going to [go the extra mile](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=36598961-2933-4a95-ba4b-9ed702e405ef) and stick your neck out and correct someone. **
-  ![mean.jpg](/PublishingImages/watchdog-mean.jpg)  Figure: Bad Example - Correcting someone in a mean way ![ghost.jpg](/PublishingImages/watchdog-ghost.jpg) Figure: Bad example - seeing a mistake and not pointing it out, doesn’t improve a person. Allow them to benefit from your experience! ![thankyou.jpg](/PublishingImages/watchdog-thankyou.jpg) Figure: Good example - say 'thank you' to a person's corrections to show you don’t have thin skin and encourage further positive and negative feedback. It all helps you to improve ![Watchdog.jpg](/PublishingImages/watchdog-watchdog.jpg) Figure: Good example - People make mistakes but correct them as though they’re a soft cute puppy 🐶
-Every member of a team plays an important role in maintaining standards. Whether it's your code or someone else's, always keep an eye out for **things that can be improved**.
+  ![mean.jpg](/PublishingImages/watchdog-mean.jpg) Figure: Bad Example - Correcting someone in a mean way ![Watchdog.jpg](/PublishingImages/watchdog-watchdog.jpg) Figure: Good example - People make mistakes but correct them as though they’re a soft cute puppy 🐶
+Every member of a team plays an important role in maintaining standards. Whether it's your work or someone else's, always keep an eye out for **things that can be improved**.
+
+This rule applies to all company standards. Standards are important because they ensure your experience at work is consistent and enjoyable. For example, if there was no standard to stack the dishes in the dishwasher when you were finished using them, dishes would build up and create a big mess in the kitchen!
+
+### Be nice, not harsh 
+
+[Do you know the nice way to correct someone?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=c3ff9a11-42d9-4b53-9d2f-713b0bd9d63b)
+
+### Small things = Tiny Tip
+
+When the 'mistake' the person made is not an actual mistake, but something that the company has decided to do in one way for consistency, without a strong argument.
 
 
 
-When you come across an error, don’t just fix it, as the developer who made it is likely to make it again. Instead, write an email to the person explaining what has been done wrong and how you would've improved the code. CC relevant parties to improve others, to [collect your brownie points](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=27115c96-c7f0-4d6c-9500-6c7f71e67f65) or to set a good example.
+**Tiny Tip: **I’d use international format on your phone number so people outside the USA can just click to dial - as per https://rules.ssw.com.au/great-email-signatures
+Figure: Good example - nicely informing of a small standard violation  
+
+​Important things = Tip
+
+When there is a proven better way to do something different from what the person has done. You should try to include the reasons.
+
+**Tip:** I noticed your email has a very generic subject: "website". Please resend with a use a descriptive email subject as per Rules to Better Email. This way it is easier to identify, categorize and find this email later,​ without having to open it :)
+Figure: Good example - nicely informing of a better way to do something 
+
+
+
+### Crucial things = Critical
+
+
+When the error the person committed can lead to a misunderstanding or a security breach. You should include a task with action when necessary.
+
+**Critical: **When sending a proposal never use the word "quote", but use "estimates" instead. As per Rules to Better Project Management we don't work with a fixed price, which is opposite to what the word "quote" implies. This might create different expectation and consequently frustration and legal problems with the client. 
+
+1. Please fix asap
+Figure: Good example - nicely informing of a critical mistake
+
+### Coding - For Developers
+
+When you come across an error, don't just fix it, as the developer who made it is likely to make it again. Instead, write an email to the person explaining what has been done wrong and how you would've improved the code. CC relevant parties to improve others, to [collect your brownie points](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=27115c96-c7f0-4d6c-9500-6c7f71e67f65) or to set a good example.
 
 No one likes being corrected but hopefully, with everyone doing this in the office, it's not a matter of finger-pointing, it is working together to write better code or developing better solutions.
 
-### What if it’s recurring? 
+**Tip:** In code, if you don't know who made the mistake, [use the annotate tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=1167746b-aca0-4a4f-9dd0-bf6b87953dae).
+
+### What if it's recurring?
 
 When you notice someone doing the wrong thing:
+
 - First time just send an email with a pointer to the rule
 - The second time, have a very quick chat with them
 - Third time call them in and give them a formal talk about it
 
 
+### Focus on the meat first
 
+When you receive a great 'done' email or document, make sure you mention how great it is **before** correcting any potential error.
 
-### Going Anonymous
-
-
-If you don't have the confidence to talk to the person, send an email from info@
-
-### Don't bottle it up 
+### Don't bottle it up
 
 The important thing is to talk about it at the time.
+ ![ghost.jpg](/PublishingImages/watchdog-ghost.jpg) Figure: Bad example - seeing a mistake and not pointing it out, doesn't improve a person. Allow them to benefit from your experience!
+### Going Anonymous
 
-### It’s beyond code
+When something is really personal, you can’t really correct someone unless you are a close friend and has credit with the person, so you should discretely ask your manager how to proceed in that specific case.
 
-Clearly, this standard does not just apply to write better code, it applies to all company standards. Standards are important because they ensure your experience at work is consistent and enjoyable. For example, if there was no standard to stack the dishes in the dishwasher when you were finished using them, dishes would build up and create a big mess in the kitchen!
-
-### Be nice, not harsh 
-
-E.g. Mention the word 'tip'
-
-**From:** Adam
-**To:** Peter
-**Subject:** Your website footer
- 
-Dear Peter,
-
-Looking at your website footer I believe it could be improved.
-
-**Tip:** I’d use international format on your phone number so people outside the USA can just click to dial - https://rules.ssw.com.au/great-email-signatures
-
-Cheers, 
-Adam
- Figure: Good example - nicely informing of a standards violation 
-
+### Taking Feedback
+ ![thankyou.jpg](/PublishingImages/watchdog-thankyou.jpg) Figure: Good example - say 'thank you' to a person's corrections to show you don't have thin skin and encourage further positive and negative feedback. It all helps you to improve
 ### In Summary
 
-It’s important to ensure others are doing their best to maintain and follow the standards. Remember, it can be just as important for someone’s professional development to give feedback as it is to receive it. Being able to communicate feedback in an effective and professional manner can benefit you in any career.
+It's important to ensure others are doing their best to maintain and follow the standards. Remember, it can be just as important for someone's professional development to give feedback as it is to receive it. Being able to communicate feedback in an effective and professional manner can benefit you in any career.
 
 **To:** Peter
 **CC:** Adam (Manager)
 ​
 Dear Peter,
 
-While you were away, I came across a page called ApplicationForm.aspx which was giving an error: 
-'The conversion of a char data type to a DateTime data type resulted in an out-of-range DateTime value.' 
+While you were away, I came across this page you edited, called ApplicationForm.aspx which was giving an error: 
+*'The conversion of a char data type to a DateTime data type resulted in an out-of-range DateTime value.'*
 
-This happened when I entered '13/06/2018' into the 'Start Date' field of the form.
-The error occurs because you are not using the default language of the server which is 'English' - for the users of this database FRDC. This is the same as US English format of Months first, then Days, then a four-digit Year (mm/dd/yyyy). Instead, you used 'British English' on the FRDC database which has a format of dd/mm/yyyy. Please use the standard as per Rules to Better SQLServer Databases, Rule 1200 (Middle Tier Section)
-
-Please note that whilst inserting data from your Front End application, you should not use the format dd/mm/yyyy. Instead, you should use yyyy/mm/dd
+Please note that whilst inserting data from your Front End application, you should not use the format **dd/mm/****yyyy**. 
+Instead, you should use **yyyy****/mm/dd **as per Rules to Better Databases.
 
 Let's fix it together when we get to work tomorrow.
 
-Cheers, DDK
+Cheers, 
+John
  Figure: Good example - nicely informing of a standards violation 
-
-**
-**
-
-**Tip:** In code, if you don't know who made a mistake, [use the annotate tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=1167746b-aca0-4a4f-9dd0-bf6b87953dae).
-
 
