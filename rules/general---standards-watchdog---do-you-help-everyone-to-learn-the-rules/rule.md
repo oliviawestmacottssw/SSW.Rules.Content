@@ -30,7 +30,7 @@ When the 'mistake' the person made is not an actual mistake, but something that 
 
 
 **Tiny Tip: **I’d use international format on your phone number so people outside the USA can just click to dial - as per https://rules.ssw.com.au/great-email-signatures
-Figure: Good example - nicely informing of a small standard oversight ​ 
+Figure: Good example - nicely informing of a small standard oversight 
 
 ### Important things = Tip 
 
@@ -72,10 +72,15 @@ When you notice someone doing the wrong thing:
 
 When you receive a great 'done' email or document, make sure you mention how great it is **before** correcting any potential error.
 
-### Don't bottle it up
+### Timing is everything - Don't bottle it up
 
-The important thing is to talk about it at the time.
- ![ghost.jpg](/PublishingImages/watchdog-ghost.jpg) Figure: Bad example - seeing a mistake and not pointing it out, doesn't improve a person. Allow them to benefit from your experience!
+It can be tempting to offer your feedback as soon as you think of it, but it's better to hold off until the recipient is in a place where they can hear it. If a person is busy, distracted, or in a poor emotional state, chances are your feedback won’t hit the mark. Wait until the person is calm and relaxed before asking them if now is a good time to offer your feedback.
+
+For more, check out [Do you know to create a safe space instead of jumping into feedback?​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2c548b17-a4cb-47b1-bc04-c3038c3ff52e)
+
+
+ ![ghost.jpg](/PublishingImages/watchdog-ghost.jpg) Figure: Bad example - seeing a mistake and not pointing it out doesn't improve a person. Allow them to benefit from your experience!
+
 ### Going Anonymous
 
 When something is really personal, you can’t really correct someone unless you are a close friend and has credit with the person, so you should discretely ask your manager how to proceed in that specific case.
