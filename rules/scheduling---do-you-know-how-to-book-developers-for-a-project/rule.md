@@ -20,6 +20,7 @@ This is generally the easiest way for developers to book themselves in as they d
 
 1. Create a new Outlook appointment and give it a relevant subject
 2. Select required resources if there are other people working with you or if you're booking for someone else
+    1. Note: if you're booking for someone else, just have them in the To box of the appointment​. If you're booking yourself AND someone else, have both of you in the To box.
 3. Set the time and location for your appointment
 4. Set the recurrence if it’s more than 1 day of work
 5. Click "Set Regarding" on the ribbon and select the company that you want to book the developers to work on (this is the step that syncs it with CRM)
