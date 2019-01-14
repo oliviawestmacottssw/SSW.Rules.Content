@@ -12,11 +12,11 @@ authors:
 ---
 
  
-As per rule     ["Do you have separate development, testing, and production environment?"](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ae2ccef9-6cdc-4767-8e5a-e0e3dbf46fe2), it's better to use different background colors to identify Development, Test and Production servers.
+As per rule ["Do you have separate development, testing, and production environment?"](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ae2ccef9-6cdc-4767-8e5a-e0e3dbf46fe2), it's better to use different background colors to identify Development, Test and Production servers.
 
-### CRM​​
+### CRM 
 
-![crm staging.png](/PublishingImages/ssw%20staging%202.png)Figure: Staging uses blue background![crm production.png](/PublishingImages/ssw%20production%202.png)Figure: Production uses red background 
+![crm staging.png](/PublishingImages/ssw%20staging%202.png)Figure: Staging uses blue background ![crm production.png](/PublishingImages/ssw%20production%202.png)Figure: Production uses red background 
 The way to change the default background color is to edit the CRM CSS files. These changes aren't supported and may be overwritten when CRM Rollups are applied.
 
 ### CRM 2015 and CRM 2016
@@ -25,9 +25,9 @@ The way to change the default background color is to edit the CRM CSS files. The
 Using theme feature to change the environment color.
 ![CRM2015Theme.JPG](/PublishingImages/CRM2015Theme.JPG)Figure: Changing CRM 2016 UI by using theme feature
 
-### ​CRM 2013
+### CRM 2013
 
-Edit:     **&lt;CrmWebsiteRoot&gt;****\\_controls\navbar\navbar.css**
+Edit: **&lt;CrmWebsiteRoot&gt;****\\_controls\navbar\navbar.css**
 
 .navigationControl
 {
@@ -66,39 +66,14 @@ body.stage
                     dir:rtl;
                 <%} %>
                 border-top:1px solid #6893cf;
-                
-                  
-            
-            
-            
-            
+​​
             /* background-color: #d6e8ff; */
-                
-                  
-            
-            
-            
-            
+
             background-color: #ffff00;
-                
-                  
-            
-            
-            
-            
+
             padding: 4px;
-                
-                  
-            
-            
-            
             
             /* background-repeat: repeat-x;
-                
-                  
-            
-            
-            
             
             background-image: url(/_imgs/app_back.gif);
                   */
