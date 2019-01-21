@@ -14,7 +14,7 @@ authors:
 ---
 
  
-​Communication can be difficult  (even if English is your first language!). It might be tempting to only communicate via IM, but this will not improve your skills or build a relationship as well as communicating verbally.
+​​Communication can be difficult  (even if English is your first language!). It might be tempting to only communicate via IM, but this will not improve your skills or build a relationship as well as communicating verbally.
 
 1. Stop: Just using IM
 2. Start: Asking ‘Can I call you?’ 
@@ -33,6 +33,8 @@ Here are some tips to have a better call:
 5. [Consider what is in the background​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=21a35c4d-e815-42a2-b69c-14206aa7e968)
 6. Help the other person by taking a screenshot and giving them a mark /10 with good and bad feedback of the call quality and background.
 
+ 
+7. Get your video background right. Check [Rules to Better Branding](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f6b90f42-7f48-4c44-b766-295de647bb47)
+<dl class="ssw15-rteElement-ImageArea" style="background-color&#58;#ffffff;">&#160;&#160;<img src="/SiteAssets/do-you-go-beyond-just-using-skype-chat/Bad-Video-Background-orgn.png" alt="" style="margin&#58;5px 25px;width&#58;500px;"><dd class="ssw15-rteElement-FigureBad">bad example - ugly background eg. Air conditioner<br><img src="/SiteAssets/do-you-go-beyond-just-using-skype-chat/Good-Video-Background-orgn.png" alt="" style="margin&#58;5px 0px;width&#58;500px;height&#58;369px;"></dd><dd class="ssw15-rteElement-FigureGood">​good example - good background<br></dd></dl>
 
-<font color="#333333">&#160; &#160; 7. Get your video background right. Check&#160;<a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=c5134894-9789-48e6-a0e5-bb1fd1c7b7b5">Better-websites-branding-and-marketing​</a></font>
-<dl class="ssw15-rteElement-ImageArea">&#160;&#160;<img src="/SiteAssets/do-you-go-beyond-just-using-skype-chat/Bad-Video-Background-orgn.png" alt="" style="margin&#58;5px 30px;width&#58;500px;height&#58;373px;"><dd class="ssw15-rteElement-FigureBad">bad example - ugly background eg. Air conditioner<br><img src="/SiteAssets/do-you-go-beyond-just-using-skype-chat/Good-Video-Background-orgn.png" alt="" style="margin&#58;5px;width&#58;500px;height&#58;369px;"></dd><dd class="ssw15-rteElement-FigureGood">​good example - good background<br><br></dd></dl> 
+
