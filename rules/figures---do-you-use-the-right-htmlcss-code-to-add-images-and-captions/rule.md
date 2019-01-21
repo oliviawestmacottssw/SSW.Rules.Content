@@ -27,7 +27,7 @@ Instead, you should use &lt;DL&gt;,Â &lt;DT&gt; (which is the item in the list â
  
 
 ```
-<dl>
+<dl class="image"> OR <dl class="badImage"> OR <dl class="goodImage">
 <dt><img alt=""/></dt>
 <dd>Figure: Caption</dd>
 </dl>
