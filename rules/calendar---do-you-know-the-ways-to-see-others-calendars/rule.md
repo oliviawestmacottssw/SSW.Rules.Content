@@ -53,7 +53,9 @@ When you want to keep track of important things like leave or client work, you 
 ### Option 3: Using SharePoint's calendars
 
 
-In this scenario, we want to share an event called "Some Event" with another person. There are two ways of doing this:
+Using this option, we can share our calendar on SharePoint with our team or another person.
+
+In this scenario, we want to share our calendar called "Team Calendar" containing SugarLearning Scrum events with our team. There are two ways of doing this:
 
 1. By sharing the calendar link - only works if the other person has access to your calendar.
 2. By sharing the calendar via Outlook.
