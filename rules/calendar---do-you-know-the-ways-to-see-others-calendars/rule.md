@@ -14,7 +14,7 @@ authors:
 ---
 
  
-​​​​​​​​There are 3 ways of sharing and seeing others' calendars.​
+​​​​​​​​​There are 3 ways of sharing and seeing others' calendars.​
  
 ### Option 1: Sharing Outlook Personal Calendar
 
