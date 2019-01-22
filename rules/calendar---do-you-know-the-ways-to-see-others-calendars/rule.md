@@ -28,8 +28,7 @@ How to share the calendar:
  ![outlook365 sharing using right click.png](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365%20sharing%20using%20right%20click.png) Figure: Right click on the calendar you want to share, and click "Properties..." on Outlook
 
 
- ![Image of calendar sharing on Outlook 365 (v1812 and newer)](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365.jpg) Figure: Click "Add..." to add a person or a group to share your calendar with on Outlook 365 (v1812 and newer) 
- 
+ ![Image of calendar sharing on Outlook 365 (v1812 and newer)](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365.jpg) Figure: Click "Add..." to add a person or a group to share your calendar with on Outlook 365 (v1812 and newer)
 
 
 
@@ -56,16 +55,16 @@ In this scenario, we want to share an event called "Some Event" with another p
  ![Sync calendar between Outlook and SharePoint 2007](/PublishingImages/Team_ShareCalendar_SharePoint.GIF) 
 Figure: The old way on SharePoint 2007
 
- Note: The disadvantage of the SharePoint calendar is every new employee that arrives (or those that leave), must share (or unshared) their calendars in their Outlook client. ​
+**Note:** The disadvantage of the SharePoint calendar is every new employee that arrives (or those that leave), must share (or unshared) their calendars in their Outlook client.
 
 
 ### Option 3: Using the CRM Service Calendar
 
-When you want to keep track of important things like leave or client work, you can share your schedule via CRM Service Calendar.
+When you want to keep track of important things like leave or client work, you can share your schedule via CRM Service Calendar.​
  ![ServiceCalendar.png](/PublishingImages/ServiceCalendar.png) Figure: The CRM Service Calendar shows everyone's booked in client work and leave
 
 
 
-Note: This will only show appointments that have been tracked in CRM.
+**Note:** This will only show appointments that have been tracked in CRM.
 
 
