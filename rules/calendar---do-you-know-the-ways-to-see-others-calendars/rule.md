@@ -56,9 +56,9 @@ Here's how to see the someone's calendar on Outlook:
 ### Option 2: Using the CRM Service Calendar
 
 
-When you want to look at your team's booking status, you can use the CRM Service Calendar.
+When you want to share your calendar with everyone or look at your colleague's booking status, you can use the CRM Service Calendar.
 
-You can also use CRM to keep track of important things like leave or client work, and you can share your schedule via CRM Service Calendar. Also see [Scheduling - Do you know how to book developers for a project?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d51b4fd0-dc73-4e51-a6fd-e2354b6add89) on how to add bookings to CRM.
+The CRM Service Calendar is used to keep track of important things like leave or client work via CRM Service Calendar. See [Scheduling - Do you know how to book developers for a project?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d51b4fd0-dc73-4e51-a6fd-e2354b6add89) on how to add bookings to CRM Service Calendar.
 ![ServiceCalendar.png](/PublishingImages/ServiceCalendar.png)Figure: The CRM Service Calendar shows everyone's booked in client work and leave
 
 
