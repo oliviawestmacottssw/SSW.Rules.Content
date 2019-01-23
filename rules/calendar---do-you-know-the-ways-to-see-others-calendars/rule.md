@@ -19,7 +19,7 @@ While working in a team, there are three ways of sharing and seeing others' or 
 ### Option 1: Using Outlook Calendar - Share with a person or a group
 
 
-We can share our Outlook calendar with another person or a group on Outlook. This option is useful when you want to share your personal calendar with another person or with a group.
+You can share your Outlook calendar with another person or a group on Outlook. This option is useful when you want to share your personal calendar with another person or with a group.
 
 In the example below, Chris is going to share his personal calendar with "SSWAll" group. After doing this step, the other person in "SSWAll" group should be able to see his events in their Outlook calendar.
 ![outlook365 shared calendar - result.png](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365%20shared%20calendar%20-%20result.png)Figure: The other person can see Chris's events on their Outlook (Outlook 365)
@@ -46,7 +46,7 @@ You can also open your colleague's calendar from Outlook by yourself. However, 
 
 Here's how to open someone's calendar on the Outlook:
 
-![outlook365 open-shared-calendar.png](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365%20open-shared-calendar.png)Figure: Click "Open Calendar" calendar and click "From Address Book..." to open your company's global address book.
+![outlook365 open-shared-calendar.png](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365%20open-shared-calendar.png)Figure: Click "Open Calendar" calendar and click "From Address Book..." to open your company's global address book
 ![outlook365 open-shared-calendar - address book.png](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365%20open-shared-calendar%20-%20address%20book.png)Figure: Step 1. Find their name using search field; Step 2. Double-click their name; Step 3. Ensure their name is on the list and click OK
 
 
@@ -66,7 +66,7 @@ The CRM Service Calendar is used to keep track of important things like leave
 ### Option 3: Using SharePoint's calendars - Share with a team
 
 
-We can also create a calendar on SharePoint which will be shared with the team in that SharePoint site. By sharing a calendar using SharePoint, new developers who have just joined the team can immediately look at the project's events (e.g. Daily Scrum meeting).
+You can also create a calendar on SharePoint which will be shared with the team in that SharePoint site. By sharing a calendar using SharePoint, new developers who have just joined the team can immediately look at the project's events (e.g. Daily Scrum meeting).
 
 In this scenario, the project manager of "SSWSugarLearning" want to share the project calendar called "Team Calendar" containing SugarLearning Scrum events with his team.
 
