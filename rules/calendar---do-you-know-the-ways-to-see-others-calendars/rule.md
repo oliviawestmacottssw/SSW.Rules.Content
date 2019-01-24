@@ -22,13 +22,13 @@ authors:
 You can share your Outlook calendar with another person or a group in Outlook. This option is useful when you want to share your personal calendar with others.
 
 In the example below, Chris is going to share his personal calendar with the "SSWAll" group, so they can see what's he's doing from Outlook calendar.
-![outlook365 shared calendar - result.png](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365%20shared%20calendar%20-%20result.png)Figure: Now people can see Chris's events on this week from Outlook (Outlook 365)
+![outlook365 shared calendar - result.png](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365%20shared%20calendar%20-%20result.png)Figure: In Outlook, after connecting to Chris's calendar, now people can see his events on this week
 
 Here's how to share your calendar (in this example, with a group):​
-![outlook365 sharing using right click.png](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365%20sharing%20using%20right%20click.png)Figure: Step 1. In Outlook, Right click on the calendar you want to share;​ Step 2. Click "Properties..."
+![outlook365 sharing using right click.png](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365%20sharing%20using%20right%20click.png)Figure: In Outlook: 1. Right click on the calendar you want to share;​ 2. Click "Properties..."
 
 
-![Image of calendar sharing on Outlook 365 (v1812 and newer)](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365.jpg)Figure: Click "Add..." to add a person or a group, and set the sharing permission (Outlook 365 v1812)
+![Image of calendar sharing on Outlook 365 (v1812 and newer)](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365.jpg)Figure: On the permission tab, click "Add..." and set the desired sharing permission (Outlook 365 v1812)
 
 
 
@@ -40,7 +40,7 @@ Here's how to share your calendar (in this example, with a group):​
  Then the other person will receive a sharing notification email: 
 ![outlook365 sharing using right click - email.png](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365%20sharing%20using%20right%20click%20-%20email.png)Figure: The invitees will receive a calendar sharing notification. Click "Open this Calendar" to open the calendar in Outlook
 
-Here's how to open someone's calendar in the Outlook (if they have shared it with you):
+Here's how to open someone's calendar in ​Outlook (if they have shared it with you):
 
 ![outlook365 open-shared-calendar.png](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365%20open-shared-calendar.png)Figure: In Outlook, click "Open Calendar" | "From Address Book..." (this opens the Global Address List)
 ![outlook365 open-shared-calendar - address book.png](/SiteAssets/calendar-do-you-know-the-ways-to-share-and-see-others-calendars/outlook365%20open-shared-calendar%20-%20address%20book.png)Figure: Find their name, ensure their name is on the list, and click OK
