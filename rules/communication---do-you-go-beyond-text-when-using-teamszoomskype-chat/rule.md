@@ -34,10 +34,8 @@ Here are some tips to have a better call:
 5. [Consider what is in the background​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=21a35c4d-e815-42a2-b69c-14206aa7e968)
 6. Help the other person by taking a screenshot and giving them a mark /10 with good and bad feedback of the call quality and background.
 
- 
-7. Get your video background right. Check [Rules to Better Branding](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f6b90f42-7f48-4c44-b766-295de647bb47)
-  ![](/SiteAssets/do-you-go-beyond-just-using-skype-chat/Bad-Video-Background-orgn.png)bad example - ugly background eg. Air conditioner
-![](/SiteAssets/do-you-go-beyond-just-using-skype-chat/Good-Video-Background-orgn.png)​good example - good background
-
-
+           7. Get your video background right. Check ​[Rules to Better Branding](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f6b90f42-7f48-4c44-b766-295de647bb47)​​​​ ​![](/SiteAssets/do-you-go-beyond-just-using-skype-chat/Bad-Video-Background-orgn.png)
+**Figure: bad example - ugly background eg. Air conditioner**
+​​​​![](/SiteAssets/do-you-go-beyond-just-using-skype-chat/Good-Video-Background-orgn.png) 
+**Figure: good exam​​ple - good background**
 
