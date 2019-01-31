@@ -49,7 +49,7 @@ Back in CRM4, the only way to make recurring appointments was to use Service act
 
 ### Adding Tentative Bookings
 
-Sometimes you may want to reserve a consultant for an appointment but are not able to confirm with the client immediately. In this case, you have the option to create a Tentative Booking which reserves the consultant for the period of the booking without assigning them to the client account. The purpose of Tentative Bookings is to reserve consultants and trigger a conversation between Account Managers if the consultant is required on confirmed client work over the same period.
+Sometimes you may want to reserve a consultant for an appointment but are not able to confirm with the client immediately. In this case, you have the option to create a Tentative Booking which reserves the consultant for the period of the booking without assigning th​em to the client account. The purpose of Tentative Bookings is to reserve consultants and trigger a conversation between Account Managers if the consultant is required on confirmed client work over the same period.
 
 To create a Tentative Booking:
 
@@ -57,5 +57,17 @@ To create a Tentative Booking:
 2. Instead of choosing a client account for 'Set Regarding', choose the company 'ssw.pencilledin'.
 
 
-Tentative Bookings will display in the BookedIn Days report in a khaki color, so as an Account Manager you'll know contact the booking creator if you need to use that time.
+Tentative Bookings will display in the BookedIn Days report in a khaki color, so as an Account Manager you'll know contact the booking creator if you need to use that time.​
+
+### Adding Internal Bookings​​
+
+
+If a developer is needed for urgent internal work, or travelling to teach public training events, you might want to block out their time as unavailable for client work.
+
+To book someone for internal work:
+
+1. ​​​​Follow the same steps as above to create the Appointment
+2. Instead of choosin a client account for "Set Regarding", choose your own company. In our case that is "SSW".
+
+
 
