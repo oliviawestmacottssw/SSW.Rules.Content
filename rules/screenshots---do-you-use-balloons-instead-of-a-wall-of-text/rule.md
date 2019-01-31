@@ -27,4 +27,4 @@ Now be aware not to go crazy with this balloon rule.
 ![Balloon Bad Example](/PublishingImages/balloon-overload.jpg)Figure: Bad Example – Balloon overload
 ![Balloon good example](/PublishingImages/balloon-not-needed.JPG)Figure: Good Example – See 3 balloons were not needed 
 ![Arrow good example](/SiteAssets/screenshots-do-you-use-balloons-instead-of-a-wall-of-text/arrow_example.png)​Figure: Good Example - Sometimes an arrow is all that is needed
-​<iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/5TB61bqQKtE" frameborder="0"></iframe>Figure: Good Example – Betsy Weber Techsmith - Part 1 - Creator of Snagit. See <br>   [full series here](http&#58;//tv.ssw.com/204/betsy-weber-teched-interview)​  
+​<iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/5TB61bqQKtE" frameborder="0" style="margin-bottom&#58;-5px;"></iframe>Figure: Good Example – Betsy Weber Techsmith - Part 1 - Creator of Snagit. See <br>   [full series here](http&#58;//tv.ssw.com/204/betsy-weber-teched-interview)​  
