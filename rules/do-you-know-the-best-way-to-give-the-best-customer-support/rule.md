@@ -20,6 +20,7 @@ For supporting end users' workstation machines remotely, here is the order you s
 - [TeamViewer](http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaTeamViewer.aspx)
 - [Skype](http&#58;//www.skype.com/) - via screen share
 - [Skype for Business (previously Lync)](https&#58;//www.skype.com/en/business/skype-for-business/)
+- [Aeroadmin​](https&#58;//www.aeroadmin.com/en/)
 - [Mikogo](https&#58;//www.mikogo.com/) (Free)
 - [JoinMe](https&#58;//www.join.me/) (Free)
 - [UltraVNC](http&#58;//www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaUltraVNC.aspx) (Free)
