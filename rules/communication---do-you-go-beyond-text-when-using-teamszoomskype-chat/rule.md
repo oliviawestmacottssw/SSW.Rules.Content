@@ -36,8 +36,7 @@ Here are some tips to have a better call:​
 7. ​​Get your video background right. Check  [Rules to Better Branding](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f6b90f42-7f48-4c44-b766-295de647bb47)
 
 ![](/SiteAssets/do-you-go-beyond-just-using-skype-chat/Bad-Video-Background-orgn.png)
-**Figure: Bad Example - ugly​​​ background eg. Air conditioner**
-​​​​​
+Figure: Bad Example - ugly​​​ background eg. Air conditioner​​​
 ![](/SiteAssets/do-you-go-beyond-just-using-skype-chat/Good-Video-Background-orgn.png)
 ​Figure: Good Example - good background​​​
 
