@@ -25,7 +25,7 @@ Start: It's always helpful to confirm things you're talking about with typed tex
 Figure: A group call should look like this 
 
 Here are some tips to have a better call:​
-       
+         
 
 1. Answer the call with video
 2. Sound - Be ready with the headset already on (it looks disorganized plugging it in after you take the call)
@@ -35,8 +35,10 @@ Here are some tips to have a better call:​
 6. Help the other person by taking a screenshot and giving them a mark /10 with good and bad feedback of the call quality and background.
 7. ​​Get your video background right. Check  [Rules to Better Branding](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f6b90f42-7f48-4c44-b766-295de647bb47)
 
-![](/SiteAssets/do-you-go-beyond-just-using-skype-chat/Bad-Video-Background-orgn.png) **Figure: Bad Example - ugly background eg. Air conditioner**
- ![](/SiteAssets/do-you-go-beyond-just-using-skype-chat/Good-Video-Background-orgn.png)  **Figure: Good Example - good background**
-
+![](/SiteAssets/do-you-go-beyond-just-using-skype-chat/Bad-Video-Background-orgn.png)
+**     Figure: Bad Example - ugly background eg. Air conditioner**
+​​​​
+![](/SiteAssets/do-you-go-beyond-just-using-skype-chat/Good-Video-Background-orgn.png)
+      ​​Figure: Good Example - good background​​​
 
 
