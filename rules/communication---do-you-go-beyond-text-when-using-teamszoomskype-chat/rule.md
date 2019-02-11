@@ -20,7 +20,7 @@ Communication can be difficult  (even if English is your first language!). It 
 <dd class="ssw15-rteElement-FigureGood">Start&#58; Using a video call (if weak bandwidth just use it for the first 10 seconds and say &quot;I'll turn off video to save bandwidth&quot;)<br></dd><dd class="ssw15-rteElement-FigureGood">Start&#58; It's always helpful to confirm things you're talking about with typed text during the call (Especially helpful for people with English as a second language)<br></dd><dl class="image"><dt> <img src="/PublishingImages/skype-conference.jpg" alt="skype-conference.jpg"> <br>
    </dt><dd>Figure&#58; A group call should look like this <br></dd></dl>
 Here are some tips to have a better call:​
-       
+         
 
 1. Answer the call with video
 2. Sound - Be ready with the headset already on (it looks disorganized plugging it in after you take the call)
@@ -30,5 +30,12 @@ Here are some tips to have a better call:​
 6. Help the other person by taking a screenshot and giving them a mark /10 with good and bad feedback of the call quality and background.
 7. ​​Get your video background right. Check  [Rules to Better Branding](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f6b90f42-7f48-4c44-b766-295de647bb47)
 
-<dl class="ssw15-rteElement-ImageArea"><img src="/SiteAssets/do-you-go-beyond-just-using-skype-chat/Bad-Video-Background-orgn.png" alt="" style="margin&#58;5px;"> </dl><dd class="ssw15-rteElement-FigureBad"><strong>Figure&#58;&#160;Bad Example - ugly background eg. Air conditioner</strong><br></dd><dl class="ssw15-rteElement-ImageArea"> <img src="/SiteAssets/do-you-go-beyond-just-using-skype-chat/Good-Video-Background-orgn.png" alt="" style="margin&#58;5px;"> </dl> <dd class="ssw15-rteElement-FigureGood"><strong>Figure&#58; Good Example - good background</strong><br><br></dd>
+<dl class="image"><dt>
+         <img src="/SiteAssets/do-you-go-beyond-just-using-skype-chat/Bad-Video-Background-orgn.png" alt="" style="margin&#58;5px;"> 
+         <br>
+      </dt><dd class="ssw15-rteElement-FigureBad">
+         <strong>&#160; &#160;&#160;&#160;Figure&#58; Bad Example - ugly background eg. Air conditioner</strong><br>​​​​<br></dd></dl><dl class="image"><dt>
+         <img src="/SiteAssets/do-you-go-beyond-just-using-skype-chat/Good-Video-Background-orgn.png" alt="" style="margin&#58;5px;"> 
+         <br>
+      </dt><dd class="ssw15-rteElement-FigureGood"> &#160; &#160;&#160;&#160;​​Figure&#58; Good Example - good background​​​<br></dd></dl>
 
