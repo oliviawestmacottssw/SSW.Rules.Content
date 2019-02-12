@@ -14,7 +14,8 @@ The text of a URL should make sense and relate to the content of the relevant pa
 
 There are a few options for how you format the text of a URL. The following suggestions                     are in preference order:
  
-1. Dashes between words: <br>      **rules-to-better-website-layouts.aspx** - This option appears to be most common and <br>      [Craig Bailey](http&#58;//www.craigbailey.net/)​'s ￼ preferred way
+1. Dashes between words: <br>      **rules-to-better-website-layouts.aspx
+**[RECOMMENDED] This option appears to be most common and <br>      [Craig Bailey](http&#58;//www.craigbailey.net/)​'s ￼ preferred way​
 2. ​Capitalize each word (Title Case): <br>      **RulesToBetterWebsiteLayouts.aspx**
 3. Upper case for appropriate words: <br>      **RulestoBetterWebsiteLayouts.aspx**
 4. Underscores between words: <br>      **rules\_to\_better\_website\_layouts.aspx**
