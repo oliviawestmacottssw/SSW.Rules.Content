@@ -12,11 +12,11 @@ authors:
 ---
 
  
-Having a reward system in place can be a great way to make sure all employees get their timesheets in on time.
+​Having a reward system in place can be a great way to make sure all employees get their timesheets in on time.
 
 Get your employees to enter [their timesheets daily](/Pages/when-to-enter-your-timesheets.aspx) and have a system that entails:
 
-- A Friday email to update their timesheets, Sugar Learning, and [service calendar](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f33028a9-bf89-4237-87b4-3ef61eba65bf)
+- A Friday email to update their timesheets, SugarLearning, and [service calendar](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f33028a9-bf89-4237-87b4-3ef61eba65bf)
 
 
 A deadline for submitting timesheets (Friday 12pm). The entire company is rewarded with a free lunch, and only people who missed the deadline will miss out on it.
