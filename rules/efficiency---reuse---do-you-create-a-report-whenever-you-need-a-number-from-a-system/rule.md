@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​​Whenever you need a number from a system you should think of how you can create a report, so next time you can press a button to get the result.
+​​​Whenever you need a number from a system you should think of how you can create a report, so next time you can press a button to get the result.
  
 If you found yourself doing ad-hoc reports, or random SQL queries, a few years ago, the best thing to do was to make sure the boss knows you could not find the data you needed, so he could commission a new report to be built.
 
