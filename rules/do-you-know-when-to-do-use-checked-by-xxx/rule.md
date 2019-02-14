@@ -11,8 +11,13 @@ authors:
 
 ---
 
- ​There are times you should have your email checked by someone else before sending. Examples are:
+ 
+​There are times you should have your email checked by someone else before sending. Simply ask for that person to come over and check it on your computer or IM him/her if the person is not close by (e.g. in a different room). This way you are guaranteed instant feedback and you won't clog up someone else's inbox with unnecessary emails.
 
+
+​Examples are:
+
+ 
 - Where you are a little unsure
 - When you are new to a company and sending an email to a large distribution list
 - Sending a complicated email
@@ -37,4 +42,14 @@ Dear Adam,
 
 ​Regards, Phil
 
-Figure: Use 'Checked by xxx' when sending a complicated email to a group of people 
+Figure: Use 'Checked by xxx' when sending a complicated email to a group of people
+
+### Related Rule​
+
+
+
+
+- [Do you always try to work in pairs?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=be93c4b4-b0a3-4ac9-99e5-6328a441f200)
+
+
+
