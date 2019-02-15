@@ -22,29 +22,25 @@ One aspect of this is dress code. Dress code is important for two reasons:
 - Reinforce the company's [branding](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterBranding.aspx#BrandingEmployees)
 
 
-E.g. At SSW, our employees **"Dress Up" on Mondays and Tuesdays by wearing company colors**, with a nice shirt (business or polo), trousers (not blue jeans), belt, nice shoes (no sneakers, joggers or thongs). So most employees wear their SSW shirts on Mondays.
+### Public Events and Meetings
 
-### The Obvious
 
-Of course when in a public event such as a User Group, conference or seeing clients you should "Dress Up".
+Of course, when in a public event such as a User Group, conference or seeing clients you should "Dress Up".​
 
 It should go without saying, but of course, things such as shaving off your weekend facial growth, using deodorant and having clean teeth and nice breath is assumed.
-
+![sean-connery_dressed-up.jpg](/PublishingImages/sean-connery_dressed-up.jpg)
 "There is nothing wrong with being the best-dressed man in the room."
-- **Sean Connery** 
- ​ 
+- **Sean Connery**
 ### On a business flight
 
-It's a good idea to "Dress Up" in flights as you never know who you will be seated next to. ![dresscode-linkedin.PNG](/PublishingImages/dresscode-linkedin.PNG) Figure: Why dress up in a flight
+It's a good idea to "Dress Up" in flights as you never know who you will be seated next to.  ![dresscode-linkedin.PNG](/PublishingImages/dresscode-linkedin.PNG)Figure: Why dress up in a flight
 
 ### Dressing Down (aka Casual Fridays)
 
 Many companies find it a good idea to have Casual Fridays. It is free and easy to do and gives the team something to look forward to.
 
-E.g. At SSW, our employees **"Dress Down" later in the week... so they have "Casual Thursday" and "Sporty Friday"**.
+E.g. At SSW, our employees **"Dress Up"** on Mondays and Tuesdays by wearing company colors, with a nice shirt (business or polo), trousers (not blue jeans), belt, nice shoes (no sneakers, joggers or thongs). So most employees wear their SSW shirts on Mondays.
+Then they **"Dress Down"** later in the week... so they have     **"Casual Thursday"** and     **"Sporty Friday"**.
 
-Thursday are casual clothes. On Fridays, they encourage sport clo thes, such as shorts. It allows the end of the week to be fun.
-
-​![SSW_Dresscode_Poster.png](/PublishingImages/SSW_Dresscode_Poster.png)
-Figure: [SSW Dress Code can be downloaded here](https&#58;//www.dropbox.com/s/0sj1xn7av6sfz6w/SSW_Dresscode_Poster_A3.pdf?dl=0).
-
+Thursday are casual clothes. On Fridays, they encourage sport clothes, such as shorts. It allows the end of the week to be fun.
+​![SSW_Dresscode_Poster.png](/PublishingImages/SSW_Dresscode_Poster.png)Figure: ​[SSW Dress Code can be downloaded here](https&#58;//www.dropbox.com/s/0sj1xn7av6sfz6w/SSW_Dresscode_Poster_A3.pdf?dl=0).
