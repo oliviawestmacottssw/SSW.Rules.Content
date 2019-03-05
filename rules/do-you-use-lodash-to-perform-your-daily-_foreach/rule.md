@@ -14,7 +14,7 @@ authors:
  
 In a nutshell, Lo-Dash is a super useful library that gives you access to over 100 extremely performant functions to help you avoid reinventing the wheel whilst writing JavaScript.
 
-You can get lodash from [GitHub repository](https&#58;//github.com/lodash/lodash) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW"), [cdnjs](https&#58;//cdnjs.com/libraries/lodash.js) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW") or via [NPM](https&#58;//www.npmjs.com/package/lodash) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW"). Once done you can include a reference in your HTML.
+You can get lodash from [GitHub repository](https&#58;//github.com/lodash/lodash), [cdnjs](https&#58;//cdnjs.com/libraries/lodash.js) or via [NPM](https&#58;//www.npmjs.com/package/lodash). Once done you can include a reference in your HTML.
  
 A simple example of the power of lodash is this snippet of code which is looping through a shared Kendo datasource that is being used in large Kendo grid. The shared datasource has many duplicates and this snippet does four things:
 
@@ -36,7 +36,7 @@ I created Lo-Dash to provide more consistent cross-environment iteration support
 
 Further reading:
 
-1. [https://lodash.com](https&#58;//lodash.com/) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")
-2. [http://underscorejs.org](http&#58;//underscorejs.org/) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW")​
+1. [https://lodash.com](https&#58;//lodash.com/)
+2. [http://underscorejs.org](http&#58;//underscorejs.org/) ​​
 
 
