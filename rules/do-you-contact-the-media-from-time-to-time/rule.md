@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​It is important for us to contact the media from time to time as they are the people who can get our products and services out to the world easily. It is a good way to advertise products.
+​​​​​It is important for us to contact the media from time to time as they are the people who can get our products and services out to the world easily. It is a good way to advertise products.
 ​ 
 When you find a media contact you think is appropriate to contact, add them to CRM then tag them as MEDIAJ - Media - Journalist.
 
