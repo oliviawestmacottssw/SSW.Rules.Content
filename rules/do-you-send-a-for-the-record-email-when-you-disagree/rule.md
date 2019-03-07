@@ -20,7 +20,7 @@ When you have a disagreement with someone who has decision making power, and 
 
 ​(6 months later)
 "I knew it, we should never have used React for the North​wind project."​​​​Bad example(On the day)
-"Thanks for the chat today. As per our conversation, you've decided to build this feature using a quick workaround. Just for the record, the best practice would have been to XXX, but since you are the Product Owner, and I understand we're under time pressure, I of course will go with your decision."
+"Thanks for the chat today. As per our conversation, you'd like us​ to build this feature using a quick workaround. Just for the record, the best practice would have been to XXX, but since you are the Product Owner, and I understand we're under time pressure, I of course will go with your decision."
 Good example - they asked you to do a shortcut
 (On the day)
 "Thanks for the chat today. For the record, I disagree with doing the Northwind Project in React and instead I recommend doing it in Angular, because...XXX.​​
