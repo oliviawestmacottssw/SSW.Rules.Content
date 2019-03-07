@@ -36,3 +36,13 @@ Start your email with the words "For the record," so that you can find it more 
 
 ​This is also a good thing to do if you have an <br>      [ethical problem](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=abac8182-ec61-48d2-85de-6201be2cf1de)​ with a task.
 
+
+
+
+
+​​​​![iknewit.jpg](/SiteAssets/send-a-for-the-record-email-when-you-disagree/iknewit.jpg)
+
+**Figure: It's OK to feel good about something you knew before, but remember to keep your arguments rational and productive...​**
+
+
+
