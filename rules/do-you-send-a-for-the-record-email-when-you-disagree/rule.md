@@ -14,6 +14,13 @@ authors:
  
 When you have a disagreement with someone who has decision making power, and you are unable to convince them that your recommendation is correct (and they were unable to convince you that their decision is correct), you must send an email to the people involved including your thoughts, because:
  
+**![past-decision-1500x500.jpg](/SiteAssets/send-a-for-the-record-email-when-you-disagree/past-decision-1500x500.jpg)
+**
+
+**Figure: It's common for people to say "I don't remember you disagreeing with that decision", sending a "for the record" email makes it clear.**
+
+
+
 1. Later down the track it will provide a learning experience for someone (depending on who was right 😉)
 **Tip**: Use a <br>      [follow up then​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=aa8c8dd3-1cd7-414c-b13e-d1a225e05ef0) set for e.g. 6 months in the future to remind you to revisit your email, then take the opportunity to show off your foresight or eat humble pie (either way is a positive outcome, since it shows you were invested enough in the issue to keep track of it)
 2. After cooling down from the meeting, people might read it later and see it as useful input
@@ -25,24 +32,16 @@ Good example - they asked you to do a shortcut
 (On the day)
 "Thanks for the chat today. For the record, I disagree with doing the Northwind Project in React and instead I recommend doing it in Angular, because...XXX.​​
 That said, you are the Product Owner and have final say in the matter, so I will proceed with React as per your decision.​"​​
-Good example - they are making a poor technology choice 
-(6 months later, replying to the Product Owner's complaint about costs)
-"As per our conversation, if you recall, I did mention about 6 months ago that we could have saved some money by using Angular instead of React (see email attached). We will be able to work around these issues, but unfortunately it will now cost more money than it would have if we used Angular​."
-Good example – you can refer back to your email to explain issues that may occur later​
-
-​Tread carefully with a follow up email - use your discretion to avoid souring a relationship by unnecessarily rubbing their face in it.​
-
-Start your email with the words "For the record," so that you can find it more easily in the future.
+Good example - they are making a poor technology choice.  Note it's also a good email to have in your back pocket in case the client complains about slow progress in a few months time
+(6 months later - the curious retrospective)
+"I just got reminded about this email from 6 months ago, in the spirit of doing retrospectives to learn, thanks for taking my call about it.  
+As per our conversation, we are both happy that the React solution has panned out and there has been some benefits that we didn't think of at the time such as hiring a couple of cool React developers.   We agreed that we could have saved some money with Angular, but we don't regret the decision."
+Good example – 6 month retrospective to analyse the pros and cons of a past decision.  ​Tread carefully with a follow up email - use your discretion to avoid souring a relationship by unnecessarily rubbing their face in it.​
+Mention the words "For the record," so that you can find it more easily in the future, but don't start with it because it can sound a bit harsh.
 
 ​This is also a good thing to do if you have an <br>      [ethical problem](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=abac8182-ec61-48d2-85de-6201be2cf1de)​ with a task.
 
 
-
-
-
-​​​​![iknewit.jpg](/SiteAssets/send-a-for-the-record-email-when-you-disagree/iknewit.jpg)
-
-**Figure: It's OK to feel good about something you knew before, but remember to keep your arguments rational and productive...​**
 
 
 
