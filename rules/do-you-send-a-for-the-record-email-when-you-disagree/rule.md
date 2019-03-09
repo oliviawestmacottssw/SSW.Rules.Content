@@ -12,7 +12,7 @@ authors:
 ---
 
  
-When you have a disagreement with someone who has decision making power, and you are unable to convince them that your recommendation is correct (and they were unable to convince you that their decision is correct), you must send an email to the people involved including your thoughts, because:
+​When you have a disagreement with someone who has decision making power, and you are unable to convince them that your recommendation is correct (and they were unable to convince you that their decision is correct), you should send an email to the people involved including your thoughts, because:
  
 **![past-decision-1500x500.jpg](/SiteAssets/send-a-for-the-record-email-when-you-disagree/past-decision-1500x500.jpg)
 **
@@ -22,9 +22,11 @@ When you have a disagreement with someone who has decision making power, and 
 
 
 1. Later down the track it will provide a learning experience for someone (depending on who was right 😉)
-**Tip**: Use a <br>      [follow up then​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=aa8c8dd3-1cd7-414c-b13e-d1a225e05ef0) set for e.g. 6 months in the future to remind you to revisit your email, then take the opportunity to show off your foresight or eat humble pie (either way is a positive outcome, since it shows you were invested enough in the issue to keep track of it)
+**Tip**: Use a <br>      [follow up then​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=aa8c8dd3-1cd7-414c-b13e-d1a225e05ef0) set for e.g. 6 months in the future to remind you to revisit your email, then take the opportunity to follow up on it with a retrospective analysing the decision that was made and what the outcome was (no matter who was right, it shows you were invested enough in the issue to keep track of it)
 2. After cooling down from the meeting, people might read it later and see it as useful input
 
+
+**Note**: A "For the record" email should be reserved for a significant architectural decision, etc. that will be difficult or costly to change later.  You should consider it a level above an ["As per our conversation" email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f98fc6fe-0e5d-43fe-b560-0f5603ec7069), which is better suited for more minor decisions.​
 ​(6 months later)
 "I knew it, we should never have used React for the North​wind project."​​​​Bad example(On the day)
 "Thanks for the chat today. As per our conversation, you'd like us​ to build this feature using a quick workaround. Just for the record, the best practice would have been to XXX, but since you are the Product Owner, and I understand we're under time pressure, I of course will go with your decision."
@@ -37,7 +39,9 @@ Good example - they are making a poor technology choice.  Note it's also a good
 "I just got reminded about this email from 6 months ago, in the spirit of doing retrospectives to learn, thanks for taking my call about it.  
 As per our conversation, we are both happy that the React solution has panned out and there has been some benefits that we didn't think of at the time such as hiring a couple of cool React developers.   We agreed that we could have saved some money with Angular, but we don't regret the decision."
 Good example – 6 month retrospective to analyse the pros and cons of a past decision.  ​Tread carefully with a follow up email - use your discretion to avoid souring a relationship by unnecessarily rubbing their face in it.​
-Mention the words "For the record," so that you can find it more easily in the future, but don't start with it because it can sound a bit harsh.
+Mention the words "For the record," so that you can find it more easily in the future with a search, but avoid starting with it because it can sound a bit harsh.
+
+Make it clear that your advice is purely technical in nature and not business or legal advice.  Consider putting the words "The above is not legal advice." at the end of your email.
 
 ​This is also a good thing to do if you have an <br>      [ethical problem](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=abac8182-ec61-48d2-85de-6201be2cf1de)​ with a task.
 
