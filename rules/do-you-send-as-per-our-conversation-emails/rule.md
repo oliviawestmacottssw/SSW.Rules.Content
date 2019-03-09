@@ -53,6 +53,11 @@ Figure: Good Example - for when you can't reach the person by phone 
 **Note:** This is most likely to happen after a conversation started     **by the client**.
 If     **you** are the one making the first contact, also follow:     [Do you prepare, then confirm conversations/decisions?](/Pages/PrepareAndConfirm.aspx)
 
+**
+**
+
+**​Note: **For a major architectural decision, etc. that could be difficult or expensive to change later, which was made against your recommendation, consider sending a ["For the record" email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=59e4c25f-a62d-4944-af14-70fe2a648447).
+
 
 
 **Note: **​It's easy to fall into the trap of sounding rather robotic if you start every email with "As per our conversation", or "As per the message I just left on your mobile", etc. Here's a list of nice email openers that have the same effect:
