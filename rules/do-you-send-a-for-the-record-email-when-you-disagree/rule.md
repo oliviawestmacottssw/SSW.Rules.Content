@@ -12,13 +12,17 @@ authors:
 ---
 
  
-​​​When you have a disagreement with someone who has decision making power, and you are unable to convince them that your recommendation is correct (and they were unable to convince you that their decision is correct), you should send an email to the people involved including your thoughts, because:
+​​​Over the course of work on a project, there will likely be many little disagreements, and most can be captured in ‘as per our conversation’ emails. Sometimes the differences of opinion relate to​ architectural issues or things that will be hard to change later. A lot of developers are on the quiet, introverted side, but vocal developers make their stance clear. Even that can be hard with some clients who have super strong voices and some clients are \*not\* great listeners. Regardless it is important to document disagreements so the client is crystal clear and a stronger version of ‘as per our conversation’ is to include the words ‘for the record’. Too often developers say they disagree but months later, the client may say:
+“No I don’t recall you disagreed, I thought I gave counter arguments and then I assumed you had agreed with me.”
  
 **![past-decision-1500x500.jpg](/SiteAssets/send-a-for-the-record-email-when-you-disagree/past-decision-1500x500.jpg)
 **
 
 **Figure: It's common for people to say "I don't remember you disagreeing with that decision", sending a "for the record" email makes it clear.**
 
+
+
+When you have a disagreement with someone who has decision making power, and you are unable to convince them that your recommendation is correct (and they were unable to convince you that their decision is correct), you should send an email to the people involved including your thoughts, because: 
 
 
 1. Later down the track it will provide a learning experience for someone (depending on who was right 😉)
