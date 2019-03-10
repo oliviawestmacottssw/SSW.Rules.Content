@@ -22,6 +22,19 @@ authors:
 
 
 
+**​One war story**
+ 
+One day we had an incident where one of our clients had found out that a developer had hard-coded the CSS (the default Angular way). W​hen the client discovered it, they were wild and wanted 24 days written off as a consequence. To be clear, the reaction and the request were disproportionate. However, clients have memories that are fallible and they can be entitled to be upset when they come to a company (like SSW) that prides themselves on following best-practices.
+ 
+I spoke to the developer about it, and he knew 100% that he had agreed with the Product Owner to leave it that way because it was super quick and they had bigger fish to fry at the time. The developer recalled explaining to the Product Owner that he wasn't comfortable taking that shortcut. The step that the developer failed to do was to cover his ass with an "As per our conversation" email... or when the disagreement is related to architectural issues (or issues that will require a lot of rework later) I suggest a more clear "For the record" email.
+**Note**: Even better the developer could have included a URL in the email with a link to a PBI to remove this technical debt later.
+ 
+Adam Cogan
+SSW Chief Architect
+
+
+
+
 When you have a disagreement with someone who has decision making power, and you are unable to convince them that your recommendation is correct (and they were unable to convince you that their decision is correct), you should send an email to the people involved including your thoughts, because: 
 
 
@@ -49,19 +62,6 @@ Make it clear that your advice is purely technical in nature and not business 
 
 ​This is also a good thing to do if you have an <br>      [ethical problem](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=abac8182-ec61-48d2-85de-6201be2cf1de)​ with a task.
 
-
-
-
-
-**​One war story**
- 
-One day we had an incident where one of our clients had found out that a developer had hard-coded the CSS (the default Angular way). W​hen the client discovered it, they were wild and wanted 24 days written off as a consequence. To be clear, the reaction and the request were disproportionate. However, clients have memories that are fallible and they can be entitled to be upset when they come to a company (like SSW) that prides themselves on following best-practices.
- 
-I spoke to the developer about it, and he knew 100% that he had agreed with the Product Owner to leave it that way because it was super quick and they had bigger fish to fry at the time. The developer recalled explaining to the Product Owner that he wasn't comfortable taking that shortcut. The step that the developer failed to do was to cover his ass with an "As per our conversation" email... or when the disagreement is related to architectural issues (or issues that will require a lot of rework later) I suggest a more clear "For the record" email.
-**Note**: Even better the developer could have included a URL in the email with a link to a PBI to remove this technical debt later.
- 
-Adam Cogan
-SSW Chief Architect
 
 
 
