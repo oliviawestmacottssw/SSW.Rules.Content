@@ -19,16 +19,16 @@ authors:
 Example:
 
 ​UPDATED: 1 August 2010 [what you changed]
-<dl class="image"><dt>
-      <img src="/PublishingImages/RulesBloggingUpdate_OKPeter.jpg" alt="" style="width&#58;750px;">
+<dl class="image"><dt> 
+      <img src="/PublishingImages/RulesBloggingUpdate_OKPeter.jpg" alt=""> 
    </dt><dd>Figure&#58; OK example&#160;– Although Peter has the right idea, he needs to think more of a global audience - 
-      <a href="http&#58;//blog.gfader.com/2010/06/avoid-boolean-parameters-in-method.html">See live</a></dd></dl><dl class="goodImage"><dt>
-      <img title="image" alt="image" src="/PublishingImages/RulesBloggingUpdate_UltimateMike.jpg" style="width&#58;750px;height&#58;559px;">
+      <a href="http&#58;//blog.gfader.com/2010/06/avoid-boolean-parameters-in-method.html">See live</a></dd></dl><dl class="goodImage"><dt> 
+      <img title="image" alt="image" src="/PublishingImages/RulesBloggingUpdate_UltimateMike.jpg"> 
    </dt><dd>Figure&#58; Ultimate example&#160;– Mike has gotten into the swing of things - 
       <a href="http&#58;//mikefourie.wordpress.com/2010/07/02/windows-live-essentials-wave-4-betalive-sync/">See live</a></dd></dl>
 You should also apply this technique to youtube videos you record.​
-<dl class="goodImage"><dt>
-      <img src="/PublishingImages/UpdatedYoutubeTitle.png" alt="UpdatedYoutubeTitle.png">
+<dl class="goodImage"><dt> 
+      <img src="/PublishingImages/UpdatedYoutubeTitle.png" alt="UpdatedYoutubeTitle.png"> 
    </dt><dd>Figure&#58; Good Example - Following up on bug video makes it clear that the bug was fixed quickly<br></dd></dl>
 ### ​Related Rule
 
