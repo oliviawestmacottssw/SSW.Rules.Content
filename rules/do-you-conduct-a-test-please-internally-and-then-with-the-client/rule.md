@@ -9,7 +9,8 @@ authors:
 
 ---
 
- Test, test, test! Testing is the most critical part of any project. Before the delivery of any release the application must pass an internal "test please". Clients quickly become disillusioned if you have delivered a bug-riddled application.  ![Do you want users to have good first impressions?](/PublishingImages/pic16-TestingDoYouWantThemT.gif) Figure: Do you want users to have good first impressions? 
+  Test, test, test! Testing is the most critical part of any project. Before the delivery of any release the application must pass an internal "test please". Clients quickly become disillusioned if you have delivered a bug-riddled application.
+  ![Do you want users to have good first impressions?](/PublishingImages/pic16-TestingDoYouWantThemT.gif) Figure: Do you want users to have good first impressions? 
 There are a number of different types of tests that you can perform:
 
 - Unit Testing:    It validates the smallest testable parts of an application. Unit tests do not cover the UI layer. There is no industry standard 3rd party unit test tool but at SSW we use NUnit and Visual Studio Team Test.
@@ -23,7 +24,7 @@ There are a number of different types of tests that you can perform:
 
 
 
-​Does the "Test Please" principle apply to more than code?
+Does the "Test Please" principle apply to more than code?
 Yes! A "Test Please", aka peer review highlights unseen errors, proposes new ideas for consideration or confirms the existing work as the best solution. A peer review can also effect cultural change amongst your development team as developers become more open to critiques of their work and comfortable with a 'continuous learning' environment. A "Test Please" will also be applied to:
 - Brief proposals
 - Release plans
@@ -40,7 +41,7 @@ Always put "test please" in the email body so readers know they are expected to 
 
 Please cc the client in all your "Test Please" emails including internal ones.
 
-1. At the end of a release, prepare a "Test Please" email.  Create the email by copying the text from the sample [Test Please Template](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ec137193-bbcb-43a7-bc9a-4d337395aa22).
+1. At the end of a release, prepare a "Test Please" email.  Create the email by copying the text from the sample [Test Please Template](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ec137193-bbcb-43a7-bc9a-4d337395aa22) .
 2. Get two testers to test your app - if it's a web app make sure one uses IE and the other Firefox.
 3. Specify exactly what is required to be tested by adding some bullet points at the top and highlighting in yellow, so it stands out from the template text. e.g.
     - Run Timesheet report
@@ -66,9 +67,19 @@ Please cc the client in all your "Test Please" emails including internal ones.
 9. Specify how you replicated the bug through clear instructions and screenshots.
 10. When finished reply to the 'test please' email with "Test Please Succeeded (as no Critical bugs)" or "Test please failed (as per critical bugs reported)".
 
- ![](/PublishingImages/rulest7.gif) Figure: This is how to reply failed to a "test please" email  **Note 1: **As 64bit platform has been quickly adopted, testers should consider to test the application on 64bit and 32 bit platforms, these will include Windows 8, Windows Server 2008, etc.
-**Note 2: **If the test to be performed is quick and the tester is available on the spot, consider using a "
 
-[checked by](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b44ce620-2be6-4c95-ba62-cb6b36bfbb4a)" style instead to save some time.
 
+**Subject:** RE: Test Please - \\Public Folders\All Public Folders\SSWeXtremeEmailsDatabase\SSWCodeAuditor\Release09
+
+Gary,
+
+​**Test please failed**
+
+(as per critical bugs reported)
+
+Figure: This is how to reply failed to a "test please" email  **Note 1: **As 64bit platform has been quickly adopted, testers should consider to test the application on 64bit and 32 bit platforms, these will include Windows 8, Windows Server 2008, etc.
+**Note 2: **If the test to be performed is quick and the tester is available on the spot, consider using a "[checked by](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b44ce620-2be6-4c95-ba62-cb6b36bfbb4a)" style instead to save some time. 
+​
+
+ ​
 
