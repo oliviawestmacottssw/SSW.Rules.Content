@@ -60,6 +60,16 @@ If you are working with someone remote, you will be using an application like   
 - Visual Studio 2017 - <br>            [Install extension](https&#58;//marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)​
 
 
+
+
+
+Please complete this survey:
+
+
+[https://forms.office.com/Pages/ResponsePage.aspx?id=NHwvrDW56Uir3BHl1PyysCa8TOGbvXxGkJLSg13sAKhUMjdMN0g2MEZHNjZJU1NVNVBOTzY1TjJXRyQlQCN0PWcu
+​](https&#58;//forms.office.com/Pages/ResponsePage.aspx?id=NHwvrDW56Uir3BHl1PyysCa8TOGbvXxGkJLSg13sAKhUMjdMN0g2MEZHNjZJU1NVNVBOTzY1TjJXRyQlQCN0PWcu)
+
+
 ### Related Rule​
 
 
