@@ -14,7 +14,7 @@ authors:
  ​​Email is a very powerful business tool. The main problem, however, is that for most people it is out of control - emails build up until they are impossible to manage. To help minimize mailbox clutter, try these tips: ​​
  
 - Send emails that contain clear tasks, not banter
-- If the email you receive is not clear, call up the person who sent it and ask for more information. Too many people reply to the unclear email asking for clarification, which wastes time and does not guarantee a response.
+- If an email you receive is not clear, phone the sender and ask for clarification, then document it in a follow-up email “As per our conversation…”. Too many people reply by email asking for more information​, which wastes time and does not guarantee a response.
 - If you speak to them, follow this rule: [Do you Seek Clarification Via the Telephone First](/Pages/SeekClarificationViaTelephoneFirst.aspx)
 - If you can't get through, follow this rule: [Do you chase your Manager or does he have to chase you?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=78b1a580-5e33-4b0e-ae87-f6039dde6dc6)
 
