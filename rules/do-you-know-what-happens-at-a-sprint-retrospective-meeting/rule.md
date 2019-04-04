@@ -36,6 +36,8 @@ To help aid discussion it can be useful for the Scrum Master to prepare items fo
 - Velocity
 - the Burndown
 - Code Coverage
+- Number of deployments
+- Number of errors in Application Insights​
 
 
 For example the Scrum Master can find User Stories in the Sprint that were successful / not successful and then facilitate the discussion as to why.
