@@ -13,37 +13,34 @@ authors:
 
 ---
 
- Creating, uploading, and sharing documents with other people should be done using SharePoint and Microsoft Teams.
+ Each client project should have a nice place to keep files. In the old days, things were simple but limited, we simply used Windows Explorer and file shares. Today there are so many places that teams can store documents eg. Dropbox, OneDrive, SharePoint, TFS, and even Microsoft Teams.
  
-In the old days, we used File Shares. Today there are so many places that teams can store documents eg. Dropbox, OneDrive, SharePoint, TFS, and even Microsoft Teams.
+### Which is the best corporate solution?
 
-The solution should allow collaboration with Developers, Project Managers, and other stakeholders.
 
-You want to be able to quickly store and locate important details such as:
+The solution that allows the best collaboration with Developers, Project Managers, and other stakeholders is SharePoint and Microsoft Teams. It is super easy to create, upload and sharing documents with others.
+
+### What stuff do you need to store?​
+
+
+For most projects you need to quickly store and locate important details and documents such as:
 
 - Server details (Dev, Test, Production)
-- Changelogs
-- Upcoming features
+- Changelog documents
+- Upcoming features most often in Word or OneNote
+- General Documents eg. Requirements/Specifications
 
 
-### Documents
+
+![Keep Files Bad Example](/PublishingImages/Dont-keep-files.jpg)Figure: Bad example – It might be easy to use File Shares, your Local C: or emails – but don’t. They don’t work in a team environment as they aren’t easy for others to access![Keep Files Bad Example](/PublishingImages/keep-files-TFS.jpg)Figure: Bad example – SharePoint integrated into TFS is not supported via Visual Studio anymore![Keep Files Bad Example](/PublishingImages/keep-files-SP.jpg)Figure: Bad example – even though this is using SharePoint - this is using a Team Site with a Document Library - it is better to use Microsoft Teams which uses SharePoint under the covers![Keep Files Good Example](/PublishingImages/keep-files-sp-teams.jpg)Good example: Use Microsoft Teams and it will automatically create a Site for the Team (and that includes a document library and Team OneDrive)
+### What does not get stored in Microsoft Teams? 
 
 
-- Requirements/Specifications
-
-
-### Additional Information
-
-- Server settings
-
- ![Keep Files Bad Example](/PublishingImages/Dont-keep-files.jpg) Figure: Bad example – File Share or your Local C: or emails - they aren’t easy for others to access ![Keep Files Bad Example](/PublishingImages/keep-files-TFS.jpg) Figure: Bad example – Sharepoint integrated into TFS is not supported via Visual Studio anymore ![Keep Files Bad Example](/PublishingImages/keep-files-SP.jpg) Figure: Bad example – even though this is using SharePoint - this is using a Team Site with a Document Library - it is better to use Microsoft Teams which uses SharePoint under the covers  ![Keep Files Good Example](/PublishingImages/keep-files-sp-teams.jpg) Good example: Use Teams and it will automatically create a Site for the Team (and that includes a document library and Team OneDrive)
-**Note: **[4 important documents](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=951ffbf9-4066-42f3-a9b7-e0d8603e728b)should be stored in TFS.​​
-
-For designers, see: [Do you know the best Source Control for Designers?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2df3378d-f923-4f3f-8c86-ec1074f7f98b)
-
+1. For developers, the [4 important documents](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=951ffbf9-4066-42f3-a9b7-e0d8603e728b) should be stored in TFS.​​.. or instead [use Markdown with the Wiki](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=846474eb-27a1-4645-90ee-10a349fef714)
+2. For designers with large files, OneDrive is a better choice. See: [Do you know the best Source Control for Designers?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2df3378d-f923-4f3f-8c86-ec1074f7f98b)
 
 ### What about usernames and passwords?
 
-Security is very important for any company. You should use [KeePass](http&#58;//keepass.info/) to store usernames and passwords. KeePass keeps all passwords in one database locked by a master key, which should be accessible only by the few people you trust.
 
+Documents with user names and passwords should not be stored in Microsoft Teams. Security is very important for everyone and every company. Use Azure KeyVault or [KeePass](http&#58;//keepass.info/) to store usernames and passwords. KeePass keeps all passwords in one database locked by a master key, which should be accessible only by the few people you trust.
 
