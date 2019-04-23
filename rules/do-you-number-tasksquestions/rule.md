@@ -15,14 +15,18 @@ authors:
 
  
 It is good practice to be clear on what you want. One way you can make things clearer is to number tasks or questions.
+
+**Note:** Receiving an email with just numbered items is cold - An email with a paragraph of context, then numbers is much nicer
  
-**Hi PeterG,**
+**Hi Bob,**
 Make sure to use Linq to SQL for the bit where you execute Stored Procs. First, double check that executing Stored Procs is still an outstanding issue with EDMX. 
 Don't forget to create a .txt file of the same name to the rule, so other developers know why you did this.
  Bad example - the different tasks may be skipped if the reader does not read carefully
 
-**Hi PeterG,**
-1. Double check that executing stored procedures  is still an outstanding issue with EDMX
+**Hi Bob,**
+We need to confirm the store procedures on Mr. Northwind project and also make sure we have documenation on it.
+
+1. Please double check that executing stored procedures is still an outstanding issue with EDMX
 2. Add .txt file of the same name with a link to the rule, so other developers know why you did this
 3. In the .txt file, link to the UserVoice suggestion
 4. In the .txt file, link to the rule on Rules to better LINQ
