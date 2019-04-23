@@ -19,19 +19,23 @@ It is good practice to be clear on what you want. One way you can make things cl
 **Note:** Receiving an email with just numbered items is cold - An email with a paragraph of context, then numbers is much nicer
  
 **Hi Bob,**
-Make sure to use Linq to SQL for the bit where you execute Stored Procs. First, double check that executing Stored Procs is still an outstanding issue with EDMX. 
-Don't forget to create a .txt file of the same name to the rule, so other developers know why you did this.
- Bad example - the different tasks may be skipped if the reader does not read carefully
+We’ll commence the meeting at our office where we can provide you with an overview of the SSW operation, and then discuss in more detail the Northwind solution and how we can partner to make it a success.
+
+How many attendees from will be attending on the meeting day? Are you able to stay for dinner or lunch with our team? Either option would be great but we’ll need to book in advance. Please let me know if your team have any specific meeting requirements.
+Would you like to see some sights while you’re in town? For example, we often take clients to visit the World Heritage listed West Lake region. It’s beautiful to see, and it can be very productive to walk around and take in the sights while discussing business matters.
+ Bad example - the different tasks/questions​ may be skipped if the reader does not read carefully
 
 **Hi Bob,**
-We need to confirm the store procedures on Mr. Northwind project and also make sure we have documenation on it.
+We’ll commence the meeting at our office where we can provide you with an overview of the SSW operation, and then discuss in more detail the Northwind solution and how we can partner to make it a success.
 
-1. Please double check that executing stored procedures is still an outstanding issue with EDMX
-2. Add .txt file of the same name with a link to the rule, so other developers know why you did this
-3. In the .txt file, link to the UserVoice suggestion
-4. In the .txt file, link to the rule on Rules to better LINQ
-5.  Make sure that actual rule links to the UserVoice (or Connect) suggestion too
- Good example - the different tasks are clear
+I have a few more questions about the day to help me and the team prepare:
+
+1. How many attendees from will be attending on the meeting day?
+2. Are you able to stay for dinner or lunch with our team? 
+Either option would be great but we’ll need to book in advance. Please let me know if your team have any specific meeting requirements.
+3. Would you like to see some sights while you’re in town? 
+For example, we often take clients to visit the World Heritage listed West Lake region. It’s beautiful to see, and it can be very productive to walk around and take in the sights while discussing business matters.
+ Good example - the different tasks/questions are clear
 
 **
 **
