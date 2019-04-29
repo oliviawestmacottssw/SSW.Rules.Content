@@ -42,7 +42,8 @@ Is the PBI "Done"? Check your Definition of Done:
 3. Use [Microsoft's "Test and Feedback" Chrome extension](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=14be0d02-79ad-4286-8b78-4f28b0ed4eea) to test the app
 4. Make changes based on feedback (and then get more feedback)
 5. Complete the Pull Request! Merge changes to master, this automatically deploys (to either Test, Staging or Prod based on process maturity)
-6. Send a "done" email
+6. Send a "done" email (if required)
+Check the Acceptance Criteria for notes about email attachments (as per [Do you attach emails to the PBI?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=5baf5235-c66a-4e3d-9b27-55a4859ae8a2)).​
 
 ​Congrats. Your PBI is now ready to be demonstrated during your Sprint Review! (Note: This is also the same process you follow for a Bug work item)![3StepsToAPBI.jpg](/PublishingImages/3StepsToAPBI.jpg) Good Figure: This image includes all the important steps in a PBI lifecycle. Print this "[SSW 3 Steps to a PBI pdf](/Documents/3StepsToAPBI.pdf)" and put it on your 'War Room' wall
 
