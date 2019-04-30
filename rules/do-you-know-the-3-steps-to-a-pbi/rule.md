@@ -21,7 +21,7 @@ Check your PBI against your Definition of Ready. "Ready"​ PBIs must have Accep
 3. Break down your PBI into tasks.
 4. Don't forget to make a task for testing! (So that it is visible in the task board). Note: You can also <br>      [customize the kanban board​](https&#58;//www.visualstudio.com/en-us/get-started/work/work-from-the-kanban-board-vs) by adding a new column for testing, but we recommend adding a testing task to the PBI instead.
 
-![KB-customize-board-columns.png](/SiteAssets/do-you-know-the-3-steps-to-a-pbi/KB-customize-board-columns.png)​​​​Figure: Adding a new "Test" state. This is only visible in the Product Backlog and not the Sprint Backlog![Testing task.png](/PublishingImages/Testing-task.png)F​igure: Testing Task added to PBI. This is the board the team will use for 90% of the Sprint, so testing should be clearly visible here
+![KB-customize-board-columns.png](/PublishingImages/KB-customize-board-columns.png)​​​​Figure: Adding a new "Test" state. This is only visible in the Product Backlog and not the Sprint Backlog![Testing task.png](/PublishingImages/Testing-task.png)F​igure: Testing Task added to PBI. This is the board the team will use for 90% of the Sprint, so testing should be clearly visible here
 
 ### 2. Code
 
