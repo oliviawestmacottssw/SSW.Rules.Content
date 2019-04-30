@@ -21,7 +21,7 @@ Check your PBI against your Definition of Ready. "Ready"​ PBIs must have Accep
 3. Break down your PBI into tasks.
 4. Don't forget to make a task for testing! (So that it is visible in the task board). Note: You can also <br>      [customize the kanban board​](https&#58;//www.visualstudio.com/en-us/get-started/work/work-from-the-kanban-board-vs) by adding a new column for testing, but we recommend adding a testing task to the PBI instead.
 
-![KB-customize-board-columns.png](/SiteAssets/do-you-know-the-3-steps-to-a-pbi/KB-customize-board-columns.png)​​​​Figure: Adding a new "Test" state. This is only visible in the Product Backlog and not the Sprint Backlog![Testing task.png](/PublishingImages/Testing%20task.png)F​igure: Testing Task added to PBI. This is the board the team will use for 90% of the Sprint, so testing should be clearly visible here
+![KB-customize-board-columns.png](/SiteAssets/do-you-know-the-3-steps-to-a-pbi/KB-customize-board-columns.png)​​​​Figure: Adding a new "Test" state. This is only visible in the Product Backlog and not the Sprint Backlog![Testing task.png](/PublishingImages/Testing-task.png)F​igure: Testing Task added to PBI. This is the board the team will use for 90% of the Sprint, so testing should be clearly visible here
 
 ### 2. Code
 
@@ -43,7 +43,7 @@ Is the PBI "Done"? Check your Definition of Done:
 4. Make changes based on feedback (and then get more feedback)
 5. Complete the Pull Request! Merge changes to master, this automatically deploys (to either Test, Staging or Prod based on process maturity)
 6. Send a "done" email (if required)
-Check the Acceptance Criteria for notes about email attachments (as per [Do you attach emails to the PBI?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=5baf5235-c66a-4e3d-9b27-55a4859ae8a2)).​
+Check the Acceptance Criteria for notes about email attachments (as per <br>      [Do you attach emails to the PBI?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=5baf5235-c66a-4e3d-9b27-55a4859ae8a2)).​
 
 ​Congrats. Your PBI is now ready to be demonstrated during your Sprint Review! (Note: This is also the same process you follow for a Bug work item)![3StepsToAPBI.jpg](/PublishingImages/3StepsToAPBI.jpg) Good Figure: This image includes all the important steps in a PBI lifecycle. Print this "[SSW 3 Steps to a PBI pdf](/Documents/3StepsToAPBI.pdf)" and put it on your 'War Room' wall
 
