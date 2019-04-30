@@ -21,7 +21,7 @@ Check your PBI against your Definition of Ready. "Ready"​ PBIs must have Accep
 3. Break down your PBI into tasks.
 4. Don't forget to make a task for testing! (So that it is visible in the task board). Note: You can also <br>      [customize the kanban board​](https&#58;//www.visualstudio.com/en-us/get-started/work/work-from-the-kanban-board-vs) by adding a new column for testing, but we recommend adding a testing task to the PBI instead.
 
-![KB-customize-board-columns.png](/SiteAssets/do-you-know-the-3-steps-to-a-pbi/KB-customize-board-columns.png)​​​​Figure: Adding a new "Test" state. This is only visible in the product backlog and not the sprint backlog![Testing task.png](/PublishingImages/Testing%20task.png)F​igure: Testing Task added to PBI. This is the board the team will use for 90% of the sprint, so testing should be clearly visible here
+![KB-customize-board-columns.png](/SiteAssets/do-you-know-the-3-steps-to-a-pbi/KB-customize-board-columns.png)​​​​Figure: Adding a new "Test" state. This is only visible in the Product Backlog and not the Sprint Backlog![Testing task.png](/PublishingImages/Testing%20task.png)F​igure: Testing Task added to PBI. This is the board the team will use for 90% of the Sprint, so testing should be clearly visible here
 
 ### 2. Code
 
@@ -30,14 +30,14 @@ Check your PBI against your Definition of Ready. "Ready"​ PBIs must have Accep
 3. Code, code, commit… Code, code, commit (Red Green Refactor)
 4. As you complete tasks, move them to "Done"
 5. Repeat 2-4
-6. If you want feedback early, record a video. E.g. Snagit
+6. If you want feedback early, record a ​Done Video. E.g. Snagit
 
 
 ### 3. Done
 
 Is the PBI "Done"? Check your Definition of Done:
 
-1. Open a pull request
+1. Open a Pull Request
 2. Get another engineer in your team to do an "over the shoulder" check of the code
 3. Use [Microsoft's "Test and Feedback" Chrome extension](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=14be0d02-79ad-4286-8b78-4f28b0ed4eea) to test the app
 4. Make changes based on feedback (and then get more feedback)
