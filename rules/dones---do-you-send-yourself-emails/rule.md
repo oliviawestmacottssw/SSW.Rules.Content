@@ -37,7 +37,7 @@ As per my conversation with Lei, the rule on progress bar is missing a bad exam
 Figure: Good Example - Send yourself an email, and make it clear to everyone else​​
 ### Tip: Include an estimate and priority too 
 
-When you write a "To Myself" email is even better when you include an estimate and the priority, so the expectations are set better.
+When you write a "To Myself" email, it is even better when you include an estimate and the priority, so the expectations are set better.
 
 With this estimate, the Product Owner can stop you if they think the amount of time doesn't provide good ROI.
 <dl class="badImage"><dt> <img src="/PublishingImages/EmailWithoutEstimation.JPG" alt="Send a task to self without an estimation" class="ms-rteCustom-ImageArea" style="width&#58;485px;"> </dt><dd>Figure&#58;&#160;Bad Example - Send a task to self without an estimate</dd></dl> <dl class="goodImage"> <dt> <img src="/PublishingImages/EmailWithEstimation.jpg" alt="Send a task to self with an estimation" class="ms-rteCustom-ImageArea"> <br>
