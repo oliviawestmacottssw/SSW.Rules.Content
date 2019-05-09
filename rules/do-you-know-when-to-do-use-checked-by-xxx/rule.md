@@ -34,9 +34,9 @@ Doing this will ensure:​
 
 
 
-Dear Adam,
+(Checked by Peter) 
 
-(Checked by Peter)
+Dear Adam,​​
 
 [email content]
 
