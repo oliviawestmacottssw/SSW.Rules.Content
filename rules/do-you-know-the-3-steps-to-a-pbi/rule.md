@@ -25,17 +25,17 @@ Check your PBI against your Definition of Ready. "Ready"​ PBIs must have Accep
 
 ### 2. Code
 
-1. Create a branch for your PBI
-2. On the Web Task Board, move your Task into "In Progress"
-3. Code, code, commit… Code, code, commit (Red Green Refactor)
-4. As you complete tasks, move them to "Done"
-5. Repeat 2-4
+1. From the PBI, create a new branch (so that your work is automatically taggde to the PBI)
+2. On the Kanban Board, move your Task into "In Progress"
+3. Checkout your new branch and start coding!
+4. Code, code, code… (Red, Green, Refactor)
+5. Push your changes, open a Pull Request
 6. If you want feedback early, record a ​Done Video. E.g. Snagit
 
 
 ### 3. Done
 
-Is the PBI "Done"? Check your Definition of Done:
+Is the PBI "Done"? Check your Definition of Done, and then:
 
 1. Open a Pull Request
 2. Get another engineer in your team to do an "over the shoulder" check of the code
