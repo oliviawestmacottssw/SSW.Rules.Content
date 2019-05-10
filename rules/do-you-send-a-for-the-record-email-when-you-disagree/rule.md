@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​​​​Over the course of work on a project, there will likely be many little disagreements, and most can be captured in ‘as per our conversation’ emails. Sometimes the differences of opinion relate to​ architectural issues or things that will be hard to change later. A lot of developers are on the quiet, introverted side, but vocal developers make their stance clear. Even that can be hard with some clients who have super strong voices and some clients are \*not\* great listeners. Regardless it is important to document disagreements so the client is crystal clear and a stronger version of ‘as per our conversation’ is to include the words ‘for the record’. Too often developers say they disagree but months later, the client may say:
+​​​​​Over the course of work on a project, there will likely be many little disagreements, and most can be captured in ‘as per our conversation’ emails. Sometimes the differences of opinion relate to​ architectural issues or things that will be hard to change later. A lot of developers are on the quiet, introverted side, but vocal developers make their stance clear. Even that can be hard with some clients who have super strong voices and some clients are \*not\* great listeners. Regardless it is important to document disagreements so the client is crystal clear and a stronger version of ‘as per our conversation’ is to include the words ‘for the record’. Too often developers say they disagree but months later, the client may say:
 “No I don’t recall you disagreed, I thought I gave counter arguments and then I assumed you had agreed with me.”
  
 **![past-decision-1500x500.jpg](/SiteAssets/send-a-for-the-record-email-when-you-disagree/past-decision-1500x500.jpg)
@@ -57,6 +57,8 @@ Good example - they are making a poor technology choice.  Note it's also a good
 As per our conversation, we are both happy that the React solution has panned out and there has been some benefits that we didn't think of at the time such as hiring a couple of cool React developers.   We agreed that we could have saved some money with Angular, but we don't regret the decision."
 Good example – 6 month retrospective to analyse the pros and cons of a past decision.  ​Tread carefully with a follow up email - use your discretion to avoid souring a relationship by unnecessarily rubbing their face in it.​
 Mention the words "For the record," so that you can find it more easily in the future with a search, but avoid starting with it because it can sound a bit harsh.
+
+Make sure you CC your account manager and any other relevant parties so that they can keep informed of the situation.
 
 Make it clear that your advice is purely technical in nature and not business or legal advice.  Consider putting the words "The above is not legal advice." at the end of your email.
 
