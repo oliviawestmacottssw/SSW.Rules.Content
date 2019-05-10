@@ -11,13 +11,13 @@ authors:
 
 ---
 
- ​​​The lifecycle of a PBI can be broken down into 3 steps:
+ ​​​​The lifecycle of a PBI can be broken down into 3 steps:
  
 ### 1. Ready
 
-1. Take the next PBI that was created by the Product Owner
+1. Take the next PBI that was created by the [Product Owner​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d3fc9341-c12c-465c-800b-c8575375d138)
 2. Is the PBI ready?
-Check your PBI against your Definition of Ready. "Ready"​ PBIs must have Acceptance Criteria. A good Definition of Ready also encourages a test first mentality in requirements e.g. Use Spec Flow (Given, When, Then) and/or create Test Cases and Test Steps first.
+Check your PBI against your [Definition of Ready​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=e01abde1-9a3e-4e4c-84a8-50e98e9c44d0). "Ready"​ PBIs must have Acceptance Criteria. A good Definition of Ready also encourages a test first mentality in requirements e.g. Use Spec Flow (Given, When, Then) and/or create Tes​t Cases and Test Steps first.
 3. Break down your PBI into tasks.
 4. Don't forget to make a task for testing! (So that it is visible in the task board). Note: You can also <br>      [customize the kanban board​](https&#58;//www.visualstudio.com/en-us/get-started/work/work-from-the-kanban-board-vs) by adding a new column for testing, but we recommend adding a testing task to the PBI instead.
 
