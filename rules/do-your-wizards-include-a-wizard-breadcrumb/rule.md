@@ -8,7 +8,7 @@ authors: []
 ---
 
  
-​Headings that direct the user around your web page are       important as it gives the user the feeling of confident in       using your web page. The user will tend to feel lost and       unsure in what he/she should be doing next, if a website       dose not directs them properly. Good navigation through       directing headings removes this feeling and gives the user       confidence. This rule becomes especially important when it comes to shopping applications, of which Amazon is exemplary. A great shopping application includes the following breadcrumbs:
+​​​​​Headings that direct the user around your web page are       important as it gives the user the feeling of confident in       using your web page. The user will tend to feel lost and       unsure in what he/she should be doing next, if a website       dose not directs them properly. Good navigation through       directing headings removes this feeling and gives the user       confidence. This rule becomes especially important when it comes to shopping applications, of which Amazon is exemplary. A great shopping application includes the following breadcrumbs:
 
 - Showing the user where they are up to in buying products, previous steps and the next step in the process, gives the user the confidence that they are doing the right steps in purchasing a product.
 - Allowing the user to go back to previous steps allows them to change or review a previous choice.
