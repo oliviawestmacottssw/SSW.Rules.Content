@@ -18,7 +18,7 @@ authors:
 ---
 
  
-It is important when deploying your database for the database to be updated automatically.
+It is important when deploying your database for the database to be updated automatically.​​​
 
 There are a number of tools that can be used to update the database as the application can be updated.
 
@@ -27,24 +27,16 @@ There are a number of tools that can be used to update the database as the appli
 - [DBUp](https&#58;//dbup.readthedocs.io/en/latest/)
 
 
-
-
-
 Legacy full framework
 
-- ​[SQL Deploy](http&#58;//sqldeploy.com/)  (This is the suggested tool if you are not using Entity Framework Code First)
+- [SQL Deploy](http&#58;//sqldeploy.com/)  (This is the suggested tool if you are not using Entity Framework Code First)
 - DBUp + SQL verify
 
-​
 
+Bad options for updating database schema - No ability to validate that the database hasn't been tampered with
 
-Bad options for updating database schema - No ability to validate that the database hasn't been tampered with 
-
-
-- SQL Management Studio + OSQL  (Free and roll your own)
-- Visual Studio 2017 + [SQL Server Data Tools](https&#58;//visualstudio.microsoft.com/vs/features/ssdt/)  (Formerly Data Dude) + Deploy (post-development model)
+- SQL Management Studio + OSQL  (Free and roll your own)
+- Visual Studio 2017 + [SQL Server Data Tools](https&#58;//visualstudio.microsoft.com/vs/features/ssdt/) (Formerly Data Dude) + Deploy (post-development model)
 - Red Gate SQL Compare + Red Gate SQL Packager (post-development model)
-
-
 
 
