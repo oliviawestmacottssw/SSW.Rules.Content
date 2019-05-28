@@ -14,6 +14,10 @@ authors:
  
 A common source of pain, is picking up a project without a decent/complete handover. To have a successful project you must navigate over the problem of changing resources/people leaving etc.
 
+As soon as an employee has given their resignation notice, their manager should become responsible for ensuring a successful handover takes place.  Each project they were involved in should be reviewed and another employee with a matching skill set should be selected to receive the handover.  Handovers should be booked in for each project with both employees in attendance, as early as possible and with high priority.
+
+Once the handover is complete, the resigning employee should no longer work on that project so that any gaps in knowledge can be covered ideally before their notice period expires.
+
 Always ensure that you complete the following checklist and *always*send the email confirming the handover is complete.
 
 Here are the 8 steps you should follow for a good handover.
@@ -46,7 +50,7 @@ Here are the 8 steps you should follow for a good handover.
                   <a shape="rect">file&#58;//server/DataSSW/SSWProducts/Northwind</a></p></li><li>Deployment<p>Make a build by using WISE<br>Test&#58;&#160;seadragon<br>Production&#58;&#160;squirrel</p></li><li>Failure &amp; Recovery<p>Do not work on the Master folder, work on local machine. If it has some issue, grab the file from master folder.<br>Always backup master folder’s file before uploading the changes to the master folder</p></li></ul></li><li> 
          <strong>Update the Employee Responsibilities in SSW intranet </strong>
          <p> 
-            <b>TODO</b> </p></li></ul> </font> **Figure Bad Example - This handover is incomplete and light on details** 
+            <b>TODO</b> </p></li></ul> </font> **​​​Figure Bad Example - This handover is incomplete and light on details** 
 <font class="ms-rteCustom-GreyBox"> <p> 
       <b>From&#58;&#160;Andy<br>To&#58; Gracia<br>Subject&#58;&#160;SSW - Northwind Handover</b> </p>
    <p>Done -&#160;As per our meeting the handover has been completed to my satisfaction <br></p><ul><li> 
