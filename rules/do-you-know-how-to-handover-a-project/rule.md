@@ -14,6 +14,10 @@ authors:
  
 A common source of pain, is picking up a project without a decent/complete handover. To have a successful project you must navigate over the problem of changing resources/people leaving etc.
 
+As soon as an employee has given their resignation notice, their manager should become responsible for ensuring a successful handover takes place.  Each project they were involved in should be reviewed and another employee with a matching skill set should be selected to receive the handover.  Handovers should be booked in for each project with both employees in attendance, as early as possible and with high priority.
+
+Once the handover is complete, the resigning employee should no longer work on that project so that any gaps in knowledge can be covered ideally before their notice period expires.
+
 Always ensure that you complete the following checklist and *always*send the email confirming the handover is complete.
 
 Here are the 8 steps you should follow for a good handover.
@@ -54,7 +58,7 @@ Production: squirrel
 Always backup master folder’s file before uploading the changes to the master folder
 - **Update the Employee Responsibilities in SSW intranet **    **TODO**
 
-  **Figure Bad Example - This handover is incomplete and light on details** 
+  **​​​Figure Bad Example - This handover is incomplete and light on details** 
  
 **From: Andy
 To: Gracia
