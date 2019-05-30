@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​​​​​When reporting bugs and giving product feedback, it is essential that you are as descriptive as possible, so that the developer can reproduce the error to find out what the problem is or understand what features you are requesting
+ ​​​​​​When reporting bugs and giving product feedback, it is essential that you are as descriptive as possible, so that the developer can reproduce the error to find out what the problem is or understand what features you are requesting
 
 
 
