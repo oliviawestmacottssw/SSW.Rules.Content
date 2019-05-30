@@ -63,10 +63,12 @@ Me, thinking... "Ctrl+F for TV? Nope."
 - Adam
 
 Figure: Good example - We can easily identify more the one way to improve the UX
-Better than a good description of the bug is a screen recording. This should be followed for a more detailed report. Use [Snagit](http&#58;//www.techsmith.com/snagit.html) (preferred) or [Jing](http&#58;//www.techsmith.com/jing.html) to record your screen.
+Better than a good description of the bug is a screen recording. This should be followed for a more detailed report. Use [Snagit](http&#58;//www.techsmith.com/snagit.html) or [Camtasia​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=84dca81b-9cc2-4b6a-a237-948304131b54) to record your screen.
 
  
 Figure: Good example - Recording bug reports in a video can make the issue clearer to see
+
+
 
  
 Figure: Good example - Giving feature requests via video
