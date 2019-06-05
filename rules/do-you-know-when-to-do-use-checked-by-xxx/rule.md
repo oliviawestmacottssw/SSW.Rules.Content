@@ -34,16 +34,16 @@ Doing this will ensure:​
 
 
 
-(Checked by Peter) 
-
 Dear Adam,​​
+
+(Checked by Peter)
 
 [email content]
 
 ​Regards, Phil
 
 Figure: Use 'Checked by xxx' when sending a complicated email to a group of people
-<dl class="image"><dt><img src="/PublishingImages/four-eyes.jpg" alt="four-eyes.jpg"></dt><dd>​Figure&#58; Consider this the '4 eye check' (<a href="https&#58;//www.collinsdictionary.com/dictionary/english/four-eyes-principle" target="_blank">four eye principle</a>)</dd></dl>
+<dl class="image"><dt><img src="/PublishingImages/four-eyes.jpg" alt="four-eyes.jpg"></dt><dd>​​Figure&#58; Consider this the '4 eye check' (<a href="https&#58;//www.collinsdictionary.com/dictionary/english/four-eyes-principle" target="_blank">four eye principle</a>)</dd></dl>
 ### Related Rule​
 
 
