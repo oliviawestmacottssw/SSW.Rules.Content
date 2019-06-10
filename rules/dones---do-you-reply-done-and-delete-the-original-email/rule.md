@@ -19,9 +19,9 @@ authors:
 Read "[Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=6449ae79-ba88-447e-aa48-36173029a2af "Done Criteria")" for more information about the steps that need to be finished before replying to a done email.
 
  
-- If the task is already done, then reply "ALREADY DONE".
-- If you don't agree with the task or are unable to complete the task, reply "NOT DONE - the reason is XXX".
-- If there are multiple tasks that are DONE and NOT DONE then, reply with "PARTIAL DONE - See below." at the top of the email.
+- If the task is already done, then reply "Already done - the reason is XXX".
+- If you don't agree with the task or are unable to complete the task, reply "Not done - the reason is XXX".
+- If there are multiple tasks that are DONE and NOT DONE then, reply with "Partially done - the reason is XXX​." at the top of the email.
 
 
 **Note 1**: Only say done when the work is done. If you have added the email to your backlog or todo list then instead of ‘Done’, say ‘Added to backlog – URL is xxx’.
