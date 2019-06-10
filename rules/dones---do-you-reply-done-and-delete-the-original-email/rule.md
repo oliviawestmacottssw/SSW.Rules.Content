@@ -24,7 +24,7 @@ Read "[Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-
 - If there are multiple tasks that are Done and Not Done then, reply with "Partially done - the reason is XXX​" at the top of the email.
 
 
-**Note 1**: Only say done when the work is done. If you have added the email to your backlog or todo list then instead of "Done", say "Added to backlog – URL is xxx".
+**Note 1**: Only say done when the work is done. If you have added the email to your backlog or todo list then instead of "Done", say "Added to backlog – URL is XXX​".
 
 **Note 2: **For tasks that will take time to be completely done (E.g. Producing a video), you may send a "work in progress" email. This way you avoid giving the perception that no action was in relation to the​ task.
  ![NOT Done Email](/PublishingImages/NotDone.jpg) Figure: Not Done Email 
