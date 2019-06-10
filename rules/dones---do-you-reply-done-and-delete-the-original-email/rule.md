@@ -14,17 +14,17 @@ authors:
 ---
 
  
-​​​If someone asks you to perform a task by email, don't reply "OK, I will do that" or fail to reply at all. Instead, do the task and reply "Done" when the task has been completed, and then delete the email. This way the person requesting the task knows that it has been done, and doesn't waste time following you up.
+​​​​If someone asks you to perform a task by email, don't reply "OK, I will do that" or fail to reply at all. Instead, do the task and reply "Done" when the task has been completed, and then delete the email. This way the person requesting the task knows that it has been done, and doesn't waste time following you up.
 
 Read "[Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=6449ae79-ba88-447e-aa48-36173029a2af "Done Criteria")" for more information about the steps that need to be finished before replying to a done email.
 
  
 - If the task is already done, then reply "Already done - the reason is XXX".
 - If you don't agree with the task or are unable to complete the task, reply "Not done - the reason is XXX".
-- If there are multiple tasks that are DONE and NOT DONE then, reply with "Partially done - the reason is XXX​." at the top of the email.
+- If there are multiple tasks that are Done and Not Done then, reply with "Partially done - the reason is XXX​" at the top of the email.
 
 
-**Note 1**: Only say done when the work is done. If you have added the email to your backlog or todo list then instead of ‘Done’, say ‘Added to backlog – URL is xxx’.
+**Note 1**: Only say done when the work is done. If you have added the email to your backlog or todo list then instead of "Done", say "Added to backlog – URL is xxx".
 
 **Note 2: **For tasks that will take time to be completely done (E.g. Producing a video), you may send a "work in progress" email. This way you avoid giving the perception that no action was in relation to the​ task.
  ![NOT Done Email](/PublishingImages/NotDone.jpg) Figure: Not Done Email 
