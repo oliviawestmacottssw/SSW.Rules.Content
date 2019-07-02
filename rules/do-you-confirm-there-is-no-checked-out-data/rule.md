@@ -28,7 +28,7 @@ There are 2 ways to remind users of their "checked out files":​
 
 - **Solution A: Manage Content and Structure Report (No Code)​**
 - **Solution B: Custom application report (Includes some coding work)​
-Eg. SSW.SharePoint.Mama​
+Eg. SSW.Dory​​
 **
 
    ​  
@@ -69,40 +69,40 @@ Even better, we have also improved the application with a scheduled task using 
 
 
 
-**Hi Daragh, **
+**Hi Sophie, **
 
  
 
 You have some pages checked out in SharePoint.
 
 
-> 1. Revise our SSW rule <br>            [on Frequent SharePoint Check-ins](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx).
-> 2. If you are no longer editing these files, check them in!
-
-
- 
-
-
-
-
-
-You currently have the following pages checked out:
-
-
-> • <br>            [http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/Default.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
-> • <br>            [http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
+> 1. You should check in at least daily. Revise our SSW rule [on Frequent SharePoint Check-ins](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx).
+> 2. If you are no longer editing these files, check them in! 
+> 
+> 3. Reply to this email with something like:
+>     ‘Done - x files checked in’
+> 
+> 
+> 
+> 
+> You currently have the following pages checked out:
 
 
 
-Remember, you can check which files you have checked out at any time by going to <br>         [http://&lt;siteurl&gt;/\_layouts/SSWReports/CheckedOutReport.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
-
-
-&lt;As per rule <br>         [http://rules.ssw.com.au/ITAndNetworking/SharePoint/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx) &gt;
-
+> • <br>            [http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/Default.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)  (parent folder)
+> • <br>            [http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)  (parent folder)
 
 
 
-​--Powered by SSW.SharePoint.Mama (v16.1.6548.28338) on [Server Name]
+Tip: See all files you have checked out at [http://&lt;siteurl&gt;/\_layouts/SSWReports/CheckedOutReport.aspx](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
+
+&lt;As per rule http://rules.ssw.com.au/ITAndNetworking/SharePoint/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx&gt;
+
+
+-- Powered by SSW.Dory
+-- v16.1.7122.24300 Server: DESKTOP-C7SF4A3
+
+
 
  Figure: An example of the reminder email that all users receive 
 
