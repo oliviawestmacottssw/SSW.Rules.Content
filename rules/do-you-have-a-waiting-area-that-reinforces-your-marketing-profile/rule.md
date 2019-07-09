@@ -17,8 +17,6 @@ We believe in reinforcing your company profile at every appropriate opportunity.
 
 
 
-
 ![MicrosoftTeams-image (1).png](/SiteAssets/do-you-have-a-waiting-area-that-reinforces-your-marketing-profile/MicrosoftTeams-image%20(1).png)
-
 Good Example - Figure: use your waiting area as an extension of your Marketing strategy
 
