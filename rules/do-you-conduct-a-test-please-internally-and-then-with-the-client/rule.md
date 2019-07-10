@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​ Test, test, test! Testing is the most critical part of any project. Before the delivery of any release the application must pass an internal "test please". Clients quickly become disillusioned if you have delivered a bug-riddled application.
+ **​Test, test, test!** Testing is the most critical part of any project. Before the delivery of any release the application must pass an internal "test please". Clients quickly become disillusioned if you have delivered a bug-riddled application.
   ![Do you want users to have good first impressions?](/PublishingImages/pic16-TestingDoYouWantThemT.gif) Figure: Do you want users to have good first impressions? 
 There are a number of different types of tests that you can perform:
 
@@ -37,7 +37,7 @@ Yes! A "Test Please", aka peer review highlights unseen errors, proposes new ide
 Always put "test please" in the email body so readers know they are expected to react quickly.
 
 
-**Lead Developer responsibilities**
+###  <br>   Lead Developer responsibilities
 
 Please cc the client in all your "Test Please" emails including internal ones.
 
@@ -54,7 +54,7 @@ Please cc the client in all your "Test Please" emails including internal ones.
 9. When you receive a "Test Please Succeeded" from both testers (and never before) prepare a "Test Please" for the client. (If you are requested to issue a non-tested release to a client state "Has not passed internal testing" in the email.)
 
 
-**Tester responsibilities**
+###  <br>   Tester responsibilities
 
 1. Confirm you are a tester - If the developer did not name you, make sure he corrects himself and resends the 'test please' email.
 2. Ensure you are working on the Standard Operating Environment specific to the client and using the right browser for web apps.
@@ -77,9 +77,10 @@ Gary,
 
 (as per critical bugs reported in other emails)
 
-Figure: This is how to reply failed to a "test please" email  **Note 1: **As 64bit platform has been quickly adopted, testers should consider to test the application on 64bit and 32 bit platforms, these will include Windows 8, Windows Server 2008, etc.
-**Note 2: **If the test to be performed is quick and the tester is available on the spot, consider using a "[checked by](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b44ce620-2be6-4c95-ba62-cb6b36bfbb4a)" style instead to save some time. 
-​
+Figure: This is how to reply failed to a "test please" email 
 
- ​
+
+**Note 1:** As 64bit platform has been quickly adopted, testers should consider to test the application on 64bit and 32 bit platforms, these will include Windows 8, Windows Server 2008, etc.
+
+**Note 2: **If the test to be performed is quick and the tester is available on the spot, consider using a "[checked by](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b44ce620-2be6-4c95-ba62-cb6b36bfbb4a)" style instead to save some time.​
 
