@@ -79,7 +79,5 @@ Gary,
 
 Figure: This is how to reply failed to a "test please" email 
 
-**Note 1:** As 64bit platform has been quickly adopted, testers should consider to test the application on 64bit and 32 bit platforms, these will include Windows 8, Windows Server 2008, etc.
-
-**Note 2: **If the test to be performed is quick and the tester is available on the spot, consider using a "[checked by](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b44ce620-2be6-4c95-ba62-cb6b36bfbb4a)" style instead to save some time.​
+**Note: **If the test to be performed is quick and the tester is available on the spot, consider using a "[checked by](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b44ce620-2be6-4c95-ba62-cb6b36bfbb4a)" style instead to save some time.​
 
