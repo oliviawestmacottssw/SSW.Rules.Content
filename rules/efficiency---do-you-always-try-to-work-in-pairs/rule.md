@@ -16,7 +16,7 @@ For everyone:
 
 - Less time stuck on a problem - you have someone familiar with the project to help you work through the problem
 - You can keep each other motivated  and you absorb knowledge from each other
-- Experience shows that <br>      **people** are more productive. As per​ Strengthening the Case for Pair-Programming
+- Experience shows that <br>      **people** are more productive. As per​ <br>      Strengthening the Case for Pair-Programming
 
 
 Extra for d​evelopers:
@@ -46,7 +46,7 @@ Estimates vary for the overhead, but say it is 20% extra, this is more than off
 If you are working with someone remote, you will be using an application like     [TeamViewer or another support tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f5be979b-fa7e-4bad-8a47-60fccd308df6)to view one another's desktops so you can help each other out when necessary. You should have     [TeamViewer showing on a 2nd monitor](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=c5320def-3f58-48ef-8ffd-06a64e1d34f6).
 
 ### What is the best code collaboration tool?
-[Visual Studio Live Share](https&#58;//visualstudio.microsoft.com/services/live-share/) - See Video (3 minutes): 
+[Visual Studio Live Share](https&#58;//visualstudio.microsoft.com/services/live-share/) - See Video (3 minutes):  
 
  
 
@@ -60,13 +60,7 @@ If you are working with someone remote, you will be using an application like   
 - Visual Studio 2017 - <br>            [Install extension](https&#58;//marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)​
 
 
-
-
-
-Please complete this survey:
-
-
-[https://forms.office.com/Pages/ResponsePage.aspx?id=NHwvrDW56Uir3BHl1PyysCa8TOGbvXxGkJLSg13sAKhUMjdMN0g2MEZHNjZJU1NVNVBOTzY1TjJXRyQlQCN0PWcu](https&#58;//forms.office.com/Pages/ResponsePage.aspx?id=NHwvrDW56Uir3BHl1PyysCa8TOGbvXxGkJLSg13sAKhUMjdMN0g2MEZHNjZJU1NVNVBOTzY1TjJXRyQlQCN0PWcu)
+Please complete this survey [on Working in Pairs](https&#58;//forms.office.com/Pages/ResponsePage.aspx?id=NHwvrDW56Uir3BHl1PyysCa8TOGbvXxGkJLSg13sAKhUMjdMN0g2MEZHNjZJU1NVNVBOTzY1TjJXRyQlQCN0PWcu).​
 
 
 
