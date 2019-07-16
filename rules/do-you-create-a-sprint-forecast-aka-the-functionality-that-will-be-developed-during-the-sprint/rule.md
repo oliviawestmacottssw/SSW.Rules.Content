@@ -24,7 +24,7 @@ This is simply an agreement between the Development Team and the PO for one Spr
 
 
 Each of the Sprints in a Scrum project can be considered a mini-project that has Time (Sprint Length), Scope (Sprint Backlog), Quality (Definition of Done) and Cost (Team Size\*Sprint Length). Only the scope can vary and this is measured every sprint.
-![ScrumSprintPlanning](/PublishingImages/ScrumSprintPlanningEmail1.png)  **Figure: Good Example - the product owner should reply to the team and commit to the forecast**
+
 
 **Hi [Product Owner], **
 
@@ -45,7 +45,7 @@ As per our Sprint Planning Meeting, and as the Product Owner, you have agreed t
 The Team will do its best to deliver this set of features (Scope), to a defined quality standard (Definition of Done) by the end of the sprint. Ideally, the team will deliver what they forecast, or even a bit more, but this can't be guaranteed.
 
 
-| ** ID** | ** Title** | ** Stack Rank** | ** Assigned To** |
+| ** ID** | ** Title** | **State** | ** Effort** |
 | --- | --- | --- | --- |
 |  |  |  |  |
 |  | &lt; generate this table as per the instruction on the rule below &gt; |  |  |
@@ -54,7 +54,7 @@ The Team will do its best to deliver this set of features (Scope), to a defined 
 
 ** Figure: The sprint backlog**
 
-&lt;This is as per rule: [http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/Do-you-create-a-Sprint-Forecast-email.aspx](/Pages/Do-you-create-a-Sprint-Forecast-email.aspx) /&gt;
+&lt;This is as per rule: [https://rules.ssw.com.au/do-you-create-a-sprint-forecast-(aka-the-functionality-that-will-be-developed-during-the-sprint)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9119c922-1478-49e3-9d7a-903e9bc4be6e) /&gt;
 
  **Figure: Good Example - copy this as email template and send to Product Owner. Subject: &lt;Client Name&gt; Sprint xxx Forecast**
 
@@ -62,20 +62,10 @@ Tip: Use this [Outlook email template](/Documents/SprintContract.oft "Email Temp
 
 More instructions are as below:
 
-1. Go to TFS web access page. E.g. http://tfs.northwind.com/tfs/web/UI/Pages/WorkItems/QueryResult.aspx?path=SSW.SharePoint/Team Queries/\_Areas/SP2010Migration/Sprint11(current.SolutionUpgrade)/Sprint11 backlog&pguid=32c0d57a-6e46-424f-9411-231bc0f86291
-2. Select **Tools** | **Email All Work Items as a List:**
-![Update the Table](/PublishingImages/FormattingTableImage1.jpg)
-Figure: Select Tools -&gt; Email all work items as a list
-3. Ctrl +A and Copy the Email Content:
+1. Go to Azure DevOps and navig​ate to the current sprint's backlog view. E.g. https://dev.azure.com/Northwind/ProjectName/\_sprints/backlog/Northwind/ProjectName/Sprint%201
+2. Paste to the Forecast email, and format the table:
+    - Remove any useless columns![Good Example of a Table](/PublishingImages/Sprint%20forecast%20example%20table.jpg)
 
-![Copy the content of the table](/PublishingImages/FormattingTableImage2.jpg)
-Figure: Copy the content of the table
-4. Paste to the Forecast email, and format the table:
-    - Remove some useless columns
-    - Make the "User Stories" rows **Bold**
-    - Make the "Task" rows font colour lighter black
-
-    ![Good Example of a Table](/PublishingImages/GoodExampleOfTableFormat.jpg) 
-Figure: Good Example of a Table
+    Figure: Good Example of a Table
 
 
