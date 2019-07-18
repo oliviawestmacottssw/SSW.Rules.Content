@@ -37,10 +37,10 @@ The Spec Review presentation should be scheduled by the Consultant or Account Ma
 ### What does the client get at the conclusion of the Spec Review? 
  
 
-- An email (if they want to minimize documentation time), or
-- A Word document (if they need to get approval from someone higher up), or
-- A PowerPoint presentation (if they are the decision maker, and they don't want a doc)
-- A PowerPoint presentation with narrations **exported to a video** (if needed). Make sure to name your video according to the rules on [How to Include Version Numbers in Your File](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d2f51289-6130-4f59-864f-7b41329000cd), and add a version number to it by following the rule on How to Use a Version Number on Your Videos. Publish your video to YouTube afterwards so you can easily share it with colleagues and clients. 
+- **Option A** - Email (if they want to minimize documentation time), or​
+- **Option B** - Word document (if they need to get approval from someone higher up), or
+- **Option C **- PowerPoint presentation (if they are the decision maker, and they don't want a doc)
+- **Option D **- PowerPoint presentation with narrations **exported to a video** (if needed). Make sure to name your video according to the rules on [How to Include Version Numbers in Your File](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d2f51289-6130-4f59-864f-7b41329000cd), and add a version number to it by following the rule on How to Use a Version Number on Your Videos. Publish your video to YouTube afterwards so you can easily share it with colleagues and clients. 
  ![3-01-2014 10-13-04 PM.png](/PublishingImages/3-01-2014%2010-13-04%20PM.png) Figure: Good example - Export your PowerPoint presentation as a video
 
 
