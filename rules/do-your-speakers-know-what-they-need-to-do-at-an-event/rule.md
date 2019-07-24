@@ -12,13 +12,26 @@ authors:
 ---
 
  
-Every event is prone to run over time for one or more segments of the day.​​
+It is really important that your speakers feel empowered, so make sure you give them the tools they need to run their event well.
  
-​​It is important to have one or more time keepers that makes sure speakers and breaks run to time. Even slipping 5 minutes a few times will mean a significant delay at the end of the day.
+On the day of your event, great your speaker and give them a check list so they know how the day will run:
 
-A few roles that might be worth assigning on the day are
+Eg. Good morning Brendan, here is your check list to ensure today's event goes well.
 
-- MC to entertain attendees when they are waiting as well as introducing key speakers
-- Ushers in each room or location to get things started on time and wound up as well
+1. Tell the audience the agenda, and let them know the break times. You can stick the agenda up somewhere in the room if you would like to.
 
+2. Draw yourself a rough diagram of the room, and go around the room and write people's names down for future reference. It will make speaking to them later a lot more personal if you can learn their name.
+
+
+![Diagram-Desk-layout.jpg](/PublishingImages/Diagram-Desk-layout.jpg)**Figure: An example of a room layout with attendee's name**
+
+
+
+3. Ask them what coffee they would like, or ask them to fill out an electronic form. ​​Tip: If you draw the table layout before the arrive it is easier to locate people.
+
+4. Breaks - we recommend the following breaks:
+![Schedule.jpg](/PublishingImages/Schedule.jpg)
+**Figure: A schedule to give to your speakers to help with time keeping **
+
+5. Please give your evaluation forms out around 4pm to give people time to complete them.
 
