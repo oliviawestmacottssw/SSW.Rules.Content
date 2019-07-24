@@ -13,7 +13,7 @@ authors:
 
 ---
 
- It might make sense in your environment to install a DPM Server inside a Virtual Machine. While it is supported by Microsoft, there are a few limitations you need to be aware of.<br>
+ ​It might make sense in your environment to install a DPM Server inside a Virtual Machine. While it is supported by Microsoft, there are a few limitations you need to be aware of.<br>
  
 - The Hyper-V role cannot be installed on the DPM server when it has been virtualized. This prevents you doing item level restores from inside Hyper-V virtual machines.
 - You are unable to use hardware tape libraries inside the Virtual Machine. You are still able to use iSCSI or Virtual Tape libraries though.
