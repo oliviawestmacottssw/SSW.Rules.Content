@@ -14,7 +14,7 @@ authors:
  
 It is really important that your speakers feel empowered, so make sure you give them the tools they need to run their event well.
  
-On the day of your event, chat to the speaker and give them the speaker check list so they know how the day will run:
+On the day of your event, chat to the speaker and give them the Speaker Checklist so ​they know how the day will run:
 
 ### 1. Agenda
 
