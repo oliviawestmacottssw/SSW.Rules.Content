@@ -30,7 +30,7 @@ There are a number of tools that can be used to update the database as the appli
 Legacy full framework
 
 - [SQL Deploy](http&#58;//sqldeploy.com/)  (This is the suggested tool if you are not using Entity Framework Code First)
-- DBUp + SQL verify
+- DBUp + [SQL verify​](https&#58;//www.nuget.org/packages/SSW.SqlVerify.Core/)
 
 
 Bad options for updating database schema - No ability to validate that the database hasn't been tampered with
