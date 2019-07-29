@@ -16,16 +16,14 @@ authors:
  
 To visualize the structure of all your code you need architecture tools that will analyse your whole solution.
 
-They show the dependencies between classes and assemblies in your projects.
- You have 2 choices:
+They show the dependencies between classes and assemblies in your projects. You have 2 choices:
 
 - Visual Studio's Dependency Graph. This feature is only available in Visual Studio Ultimate. (recommended)
-- If you want architecture tools for Visual Studio, but don't have Visual Studio Ultimate, then the excellent 3rd party solution nDepend. A bonus is that it can also find issues and highlights them in red for easy discovery.
+- If you want architecture tools for Visual Studio, but don't have Visual Studio Ultimate, then the excellent 3rd party solution nDepend. A bonus is that it can also find issues and highlights them in red for easy discovery
 
-![architecturetools_vs11.png](/PublishingImages/ArchitectureToolsVS11.png)Figure: VS2012 lets you generate a dependency graph for your solution.![sqldeploy_dependencies.png](/PublishingImages/DependencyDiagramInVS11.png)Figure: The dependency graph in VS2012 shows you some interesting information about how projects relate to each other
-nDepend has a similar diagram that is a little messier, but the latest version also includes a "Queries + Rules Explorer" which is another code analysis tool
-![nDepend.png](/PublishingImages/nDependDependencyGraph.png)​ Figure：nDepend Dependency Graph. Issues are highlighted in red for easy discovery.
-Read more about nDepend: [http://www.ndepend.com/](http&#58;//www.ndepend.com/)
+![architecturetools_vs11.png](/PublishingImages/ArchitectureToolsVS11.png)Figure: Visual Studio lets you generate a dependency graph for your solution![sqldeploy_dependencies.png](/PublishingImages/DependencyDiagramInVS11.png) Figure: The dependency graph in Visual Studio shows you some interesting information about how projects relate to each other​
 
-**Warning: **nDepend doesn't yet support Visual Studio 2012 (Aka VS11) with a plugin.
+nDepend has a similar diagram that is a little messier, but the latest version also includes a "Queries + Rules Explorer" which is another code analysis tool.
+![nDepend.png](/PublishingImages/nDependDependencyGraph.png)​ Figure: nDepend Dependency Graph. Issues are highlighted in red for easy discovery
+Read more about nDepend: [ndepend.com](http&#58;//www.ndepend.com/).
 
