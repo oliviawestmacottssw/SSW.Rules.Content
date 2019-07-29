@@ -18,9 +18,10 @@ authors:
 
 There are 2 main parts to any application. The UI which is what the customer can see and provide feedback on, and the underlying code which they really can't know if it is healthy or not.
 
-Therefore it is important to conduct a '[test please](/do-you-know-the-tools-you-need-before-a-＂test-please＂)' on the internal code and architecture of the application.
+Therefore it is important to conduct a '[test please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=7ba5e1cd-da39-4bf2-9fe2-5b899589b3d2)' on the internal code and architecture of the application.
 
-Ideally conduct a small 'Code + Architecture Review' for every sprint. Assuming a 2 week sprint, schedule a 4 hour (2 architects x 2 hours) review during all sprints. 
+Ideally conduct a small 'Code + Architecture Review' for every sprint. Assuming a 2 week sprint, schedule a 4 hour (2 architects x 2 hours) review.
+
 
 The following are items that are addressed in an architecture/code review:
 
@@ -39,7 +40,7 @@ The following are items that are addressed in an architecture/code review:
 - Web client
 - Smart client (any disconnected users?)
 - Technology choices
-    - Persistence layer (SQL Server, Access, SQL Express, LINQ, netTiers)
+    - Persistence layer (e.g. Database)
     - Business layer
     - UI
     - Communications
@@ -50,7 +51,9 @@ The following are items that are addressed in an architecture/code review:
     - Reporting Services
     - Accounting packages
     - SharePoint
-- Data migrations
+- Usage Telemetry
+- Performance Monitoring
+- ​Data migrations
 - Data reporting
 - User experience
 - Network
