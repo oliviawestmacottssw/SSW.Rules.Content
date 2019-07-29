@@ -107,7 +107,7 @@ You are at Level 2 when you have some static Word documents with the steps to co
 ### Level 5: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
 
  ![Good Solutions Have Instructions - level 2](/PublishingImages/instructions-level2.jpg) Figure: Level 2 Documentation includes database build scripts. We use [SSW SQL Deploy](http&#58;//sqldeploy.com/) to make keeping all databases on the same version simple. Check out [how to use SQL Deploy here](http&#58;//tv.ssw.com/969/adam-stephensen-sql-deploy-demo)
-### Level 6 : Less documentation (and Get Latest and compile with a PowerShell script) 
+### Level 6: Less documentation (and Get Latest and compile with a PowerShell script) 
 
 
 A perfect solution would need no static documentation. Perfect code would be so self-explanatory that it did not need comments. The same rule applies with instructions on how to get the solution compiling: the best answer would be for the solution to contain scripts that automate the setup.
@@ -115,7 +115,7 @@ A perfect solution would need no static documentation. Perfect code would be so 
 Example of Level  6: PowerShell Documentation
 
 
-**Recommendation:** All manual workstation setup steps should be scripted with powerShell (as per the below example)
+**Recommendation:** All manual workstation setup steps should be scripted with PowerShell (as per the below example)
 
 **Recommendation:** You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
 
@@ -140,12 +140,11 @@ Fixed: \_CSRUN\_STATE\_DIRECTORY user variable set
  
 Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
 
-WARNING: No automated fix availab le for 'Azure Storage Service is running'
+WARNING: No automated fix available for 'Azure Storage Service is running'
  
 WARNING: Abandoning remainder of script due to critical failures.
 
-Figure: Good example - when running with -fix this script tries to automatically fix the problem 
-
+Figure: Good example - when running with - fix this script tries to automatically fix the problem 
 
 
 PS C:\Code\Northwind&gt; .\Setup-Environment.ps1 -fix
@@ -156,26 +155,37 @@ WARNING: No automated fix available for 'Azure Storage Service is running'
 WARNING: Abandoning remainder of script due to critical failures.
 
 
+Figure: Good example - Note that on the 2nd run, issues resolved by the 1st run are not re-reported 
 
-Figure: Good example -  Note that on the 2nd run, issues resolved by the 1st run are not re-reported 
+
+### Level 7: Less documentation (and Get Latest and compile with starting the application)
+
+Similar to Level 6 except no setup document but a business document that details the checks that are done as part of the bootstrapping of the application:
+
+- Dependencies are pulled in via NuGet/NPM/Yarn/etc
+- Database setup, migrations and seeding are automatically performed on app start-up
+- Application does a health check on start-up to make sure its dependencies are up and running (and provides specific feedback if they aren’t)
+- Any dependency setup tasks (or fixes) that can be performed by the application are automatically performed e.g. a folder is being used as an SMTP pickup directory - gets auto created if it doesn’t already exist
+- Application settings can be ultimately configured by user secrets
 
 
 ### Unit Testing
+
  ![UnitTestExplorer.png](/PublishingImages/UnitTestExplorer.png) Figure: Nice Unit Tests explain what the code is supposed to be doing. ![vs11debug.png](/PublishingImages/VS11Debug.png) Figure: Most young developers are happy with good old stepping through code with F11. The good thing is there are no diagrams that become out of date (which they always do after the first couple of sprints) giving you nasty Technical Debt. ![tfspreviewbacklog.png](/PublishingImages/TFSPreviewBacklog.jpg) Figure: Don't forget that you have the completed requirements which get done and archived and can now serve as free documentation e.g. User Stories (aka PBIs) ![Annotation and Comment](/PublishingImages/9c0cea_AnnotationAndComment.jpg) Figure: Annotations marry up the code with the PBIs, showing who, what, why and when for each piece of code
 
 ### Level 3+: The rest of the jigsaw
 
 
-**Scrum Tip: Update your Acceptance Criteria** - If you subscribe to this work item check-in policy, then you understand that the PBI is now the documentation. If requirements change during the course of the PBI (based on a conversation with Product Owner of course) then the PBI should be updated.
+**Scrum Tip: Update your Acceptance Criteria** - If you use a policy that requires commits to be linked to PBIs, then you understand that the PBI is now the documentation. If requirements change (based on a conversation with Product Owner of course) then the PBI should be updated.
 
-When updating the acceptance criteria, strike through the altered acceptance criteria and add the new ones. Get the PO to confirm your understanding.
+When updating the Acceptance Criteria, strike through the altered Acceptance Criteria and add the new ones. Get the PO to confirm your understanding.
 
 E.g.
 Enter search text, click ‘Google’, and see the results populate below.
 [Updated]
 Enter search text and automatically see the results populate below.
 
-This should be added to the [definition of done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=6449ae79-ba88-447e-aa48-36173029a2af).
+This should be added to the [Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=6449ae79-ba88-447e-aa48-36173029a2af).
 
 
 ![Technical Debt](/PublishingImages/Debt.jpg)
@@ -185,14 +195,14 @@ During a project, when you add functionality, you have a choice:
 
 One way is quick but messy - it will make further changes harder in the future (i.e. quick and dirty).
 
-The other way is cleaner – it will make changes easier to do in the future, but will take longer to put in place.
+The other way is cleaner – it will make changes easier to do in the future but will take longer to put in place.
 
-'Technical Debt' is a metaphor to help us think about this problem. In this metaphor (often mentioned during Scrum software projects), doing things the quick and dirty way gives us a 'technical debt', which will have to be fixed later. Like a financial debt, the technical debt incurs interest payments - in the form of the extra effort that we have to do in future development.
+'Technical Debt' is a metaphor to help us think about this problem. In this metaphor (often mentioned during Scrum software projects), doing things the quick and dirty way gives us a 'technical debt', which will have to be fixed later. Like a financial debt, the technical debt incurs interest payments - in the form of the extra effort that we must do in future development.
 
-We can choose to continue paying the interest, or we can pay the debt up front by redoing the piece of work in the cleaner way.
+We can choose to continue paying the interest, or we can pay the debt in full by redoing the piece of work in the cleaner way.
 
-The same principle is true with documentation. Using the 'old school' method will leave you with a build-up of documentation that you will need to keep up-to-date as the project evolves.
+The same principle is true with documentation. Using the 'old school' method will leave you with a build-up of documentation that you will need to keep up to date as the project evolves.
 
-Warning: if you want to follow Scrum and have zero technical debt, then you have to throw away all documentation at the end of each sprint. If you do want to keep it, make sure you add it to your [definition of done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=6449ae79-ba88-447e-aa48-36173029a2af)to keep it updated.
+Warning: if you want to follow Scrum and have zero technical debt, then you must​ throw away all documentation at the end of each sprint. If you do want to keep it, make sure you add it to your [definition of done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=6449ae79-ba88-447e-aa48-36173029a2af)to keep it updated.
 
 
