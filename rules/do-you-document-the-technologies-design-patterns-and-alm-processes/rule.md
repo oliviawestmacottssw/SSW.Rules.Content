@@ -15,13 +15,17 @@ The technologies and design patterns form the architecture that is usually the s
 A pattern allows using a few words to a dev and he knows exactly what coding pattern you mean.
 
 ALM is about refining the work processes.​
- We are doing this project using C#​Bad example - you know nothing about how the project will be done**Technologies:** MVC4. The DI container is Structure Map. Entity Framework. Typescript. Knockout.
+ We are doing this project using C#​Bad example - you know nothing about how the project will be done
+
+**Technologies:** WebAPI. The DI container is Structure Map. Entity Framework. Typescript. Angular.
 **Patterns:** Repository and Unit of Work (tied to Entity Framework to remove additional abstraction), IOC
-**ALM:** Scrum with 2 week sprints and a Definition of Done including StyleCop to green
+**ALM:** Scrum with 2-week sprints and a Definition of Done including StyleCop to green
 **ALM:** Continuous deployment to stagingGood example - this tells you a lot about the architecture and processes in a few words
+
+
 The important ones for most web projects:
 
-1. **Technologies: MVC**
+1. **Technologies: WebAPI**
 2. **Patterns: Single responsibly** - if it does more than one thing, then split it.
  Eg. If it checks the weather and gets data out of the database, then split it.
 3. **Patterns: Inversion of control / dependency injection**
@@ -34,5 +38,5 @@ E​g. Sprint Review every 2 weeks.
  Mostly a senior architect should be added for that 1 day each 2 weeks.
 
 
-The decisions the team makes regarding these 3 areas, should be documented in \_Technologies.docx as per [http://rules.ssw.com.au/SoftwareDevelopment/RulestobetterArchitectureandCodeReview/Pages/DoYouReviewTheDocumentation.aspx](/Pages/DoYouReviewTheDocumentation.aspx)​.​
- ​  
+The decisions the team makes regarding these 3 areas, should be documented in \_Technologies.docx as per [https://rules.ssw.com.au/do-you-review-the-documentation](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=951ffbf9-4066-42f3-a9b7-e0d8603e728b)​.​​
+
