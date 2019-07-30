@@ -22,7 +22,7 @@ A class should have one, and only one reason to change.
 **LSP The Liskov Substitution Principle 
 **Derived classes must be substitutable for their base classes.
 
-**ISP The Interface Seg regation Principle 
+**ISP The Interface Seg​regation Principle 
 **Make fine-grained interfaces that are client specific.
 
 **DIP The Dependency Inversion Principle 
