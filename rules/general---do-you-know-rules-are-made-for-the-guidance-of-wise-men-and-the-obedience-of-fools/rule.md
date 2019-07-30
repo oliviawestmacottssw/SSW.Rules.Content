@@ -34,7 +34,7 @@ The cons:
 
 **So standards should always help the critical thinking process, never replace it**
 
-If you think something can be done better or the standard is simply out of date, you should improve the standard. This is best done as a team effort a with everyone making little changes often. Whenever you come across a standard which needs updating or improving you have four options:
+If you think something can be done better or the standard is simply out of date, you should improve the standard. This is best done as a team effort​ with everyone making little changes often. Whenever you come across a standard which needs updating or improving you have four options:
 
 1. Ignore it and hope someone fixes it (this is punishable by being sat on by a wild hippo);
 2. Fix it yourself straight away (preferred);
