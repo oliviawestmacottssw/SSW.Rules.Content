@@ -22,5 +22,5 @@ The advantages of using a repository pattern are:
 
 Even better, by providing a consistent repository base class, you can get all your CRUD operations while avoiding any plumbing code.
 
-See the ["A Generic CRUD Repository for Entity Framework"](http&#58;//blog.damianbrady.com.au/2012/03/07/a-generic-crud-repository-for-entity-framework/) blog post by Damian Brady for an example of how to implement a repository pattern.
+Tip: Entity Framework provides a great abstraction for data access out of the box. See [Jason’s Clean Architecture with ASP.NET Core talk](https&#58;//tv.ssw.com/clean-architecture-with-asp-net-core-2-1-jason-taylor-ddd-sydney-2018/) ​for more information​
 
