@@ -26,18 +26,9 @@ public int GetResult(string lastname)
 {
     // get the first matching customer from the repository
     return repository.Customer.First(c =&gt; c.LastName.StartsWith(lastname));
-} Figure: Bad Example - The first comment is only valuable because the method is poorly named, while the second describes \*what\* is happening, not \*why\*.public int GetFirstCustomerWithLastName(string lastname)
+} Figure: Bad Example - The first comment is only valuable because the method is poorly named, while the second describes \*what\* is happening, not \*why\*​public int GetFirstCustomerWithLastName(string lastname)
 {
     // we use StartsWith because the legacy system sometimes padded with spaces
     return repository.Customer.First(c =&gt; c.LastName.StartsWith(lastname));
-}Figure: Good Example - The method has been renamed so no comment is required, and the comment explains \*why\* the code has been written in that way.
+}Figure: Good Example - The method has been renamed so no comment is required, and the comment explains \*why\* the code has been written in that way
 
-Good code is so nice it doesn't need comments, but when it does:
-
-- Includes comments that explain the intent (the "why" rather than the "what")
-
-public Customer GetFirstCustomerWithLastName(string lastName)
-{
-  // we use StartsWith because the legacy system sometimes padded with spaces
-  return \_repository.Customer.FirstOrDefault(c =&gt; c.LastName.StartsWith(lastName));
-} Figure: Good comments explain the intent of the code rather than what it is doing
