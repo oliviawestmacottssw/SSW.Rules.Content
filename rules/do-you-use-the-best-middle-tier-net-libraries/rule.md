@@ -11,12 +11,11 @@ authors:
 
 ---
 
- ​Don't waste time evaluating which middle tier .Net libraries to use. Most of the commonly used libraries are very similar in fuctionality. By sticking to a library, you can also increase your expertise in it, reducing development time in the future.
  
-​Don't waste time evaluating which middle tier .NET libraries to use. Most of the commonly used libraries are very similar in functionality. By sticking to a library, you can also increase your expertise in it, reducing development time in the future.
+​Don't waste time evaluating which middle tier .NET libraries to use. Most of the commonly used libraries are very similar in functionality. By sticking to a library, you can also increase your expertise in it, reducing development time in the future.​​
+ 
 
-
-Great products include:
+​​​Great products include:
 
 - [AutoFac](https&#58;//autofac.org/) (was StructureMap) for IoC
 - [Serilog](https&#58;//serilog.net/) and [Seq](https&#58;//datalust.co/) (was Log4Net) for Logging and Tracing
