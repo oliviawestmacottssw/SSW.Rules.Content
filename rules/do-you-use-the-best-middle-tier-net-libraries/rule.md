@@ -11,11 +11,16 @@ authors:
 
 ---
 
- Don't waste time evaluating which middle tier .Net libraries to use. Most of the commonly used libraries are very similar in fuctionality. By sticking to a library, you can also increase your expertise in it, reducing development time in the future. 
-​At SSW, we use:
+ ​Don't waste time evaluating which middle tier .Net libraries to use. Most of the commonly used libraries are very similar in fuctionality. By sticking to a library, you can also increase your expertise in it, reducing development time in the future.
+ 
+​Don't waste time evaluating which middle tier .NET libraries to use. Most of the commonly used libraries are very similar in functionality. By sticking to a library, you can also increase your expertise in it, reducing development time in the future.
 
-- [StructureMap](/Pages/Do-You-Know-the-Best-Dependency-Injection-Container.aspx) for IoC
-- [Log4Net](/do-you-use-the-best-trace-logging-library), or [Telerik EQATE​C](http&#58;//www.telerik.com/analytics) for Tracing
-- [Application Insights for Visual Studio Online](/rules-to-better-application-insights-for-visual-studio-online), [Telerik EQATEK​](http&#58;//www.telerik.com/analytics), or [ELMAH](/do-you-use-the-best-exception-handling-library) for Error Handling
+
+Great products include:
+
+- [AutoFac](https&#58;//autofac.org/) (was StructureMap) for IoC
+- [Serilog](https&#58;//serilog.net/) and [Seq](https&#58;//datalust.co/) (was Log4Net) for Logging and Tracing
+- [Application Insights](/rules-to-better-application-insights-for-visual-studio-online) (was ELAMH) for Usage Telemetry and Error Reporting
+
 
 
