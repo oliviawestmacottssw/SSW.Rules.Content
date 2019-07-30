@@ -30,18 +30,25 @@ Figure: Bad example - original version of content has not been included in the e
 
 **Hi Eric,**
 
-On the Code Auditor web page, please change [http://www.ssw.com.au/ssw/codeauditor](http&#58;//www.ssw.com.au/ssw/codeauditor):
+On the Code Auditor web page, please change              [http://www.ssw.com.au/ssw/codeauditor](http&#58;//www.ssw.com.au/ssw/codeauditor):
 
 Change from:
-     - Scan all your projects for coding bugs and errors
-     -  Enforce industry best practices 
+     - Scan all your projects for coding              bugs and errors
+     - Enforce industry best practices              
      - Friendly licensing model pay nothing for the full version!
 
 To:
     - Scan all your projects for coding errors
-     -  Guarantee industry best practices
-    - Friendly licensing model,  bloggers even pay  0$ for the full version!
+    - Guarantee industry best practices
+    - Friendly licensing model, bloggers even pay  0$ for the full version!​
 
-Figure: Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed 
-**Video:** [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI)
+Figure: Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed
+
+### If there are ​too many changes
+
+
+​Sometimes you have a lot of content and too many changes, making the process "from X to Y" too arduous. In this case is recommended to use     [Word 'Track Changes'](https&#58;//support.office.com/en-gb/article/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) functionality.
+![word-track-changes.jpg](/PublishingImages/word-track-changes.jpg)Figure: A Word document with 'Track Changes' ON​ is recommended if you have too many changes​
+
+**Video: **[Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI)​
 
