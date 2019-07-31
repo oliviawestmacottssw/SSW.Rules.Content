@@ -29,20 +29,18 @@ We have a 'Gender' column (that is a Boolean) storing 0's and 1's. All works wel
 
  \*Note: zt stands for Temporary  ![](/PublishingImages/TableChar.jpg)Figure: Changing the data type and data required a ["Data Motion Script"](/Pages/DoYouHaveAnUnderstandingOfSchemaChangesAndTheirIncreasingComplexity.aspx) 
 Visual Studio does not automatically support this scenario, as data type changes are not part of the refactoring tools. However, if you add pre and post scripting events to handle the data type change the rest of the changes are automatically handled for you.
-![](/PublishingImages/DataDude-BadExample.jpg)
-Good Example - Don't use Data Dude
- 
+![](/PublishingImages/DataDude-BadExample.jpg)Figure: Don't use Data Dude
 note: In order to achieve this you MUST use the built in Refactor tools as it create a log of all the refactors in order. This helps Visual Studio generate the schema compare and make sure no data is lost.
 
 There are few options available to perform data type change correctly:
 
-        1. **​​​​​Use manua​l scripts.** All data type changes including data migration can be performed by writing scripts manualy. This way you have full control over the change. It is recommended to use [SQLDeploy](http&#58;//sqldeploy.com/) or [DbUp](http&#58;//dbup.github.io/) to automate script deployment and keep track of all database changes.​
+        1. **​​​​​Use manua​l scripts.** All data type changes including data migration can be performed by writing scripts manualy. This way you have full control over the change. It is recommended to use <br>            [SQLDeploy](http&#58;//sqldeploy.com/) or <br>            [DbUp](http&#58;//dbup.github.io/) to automate script deployment and keep track of all database changes.​
         2. **​Use Database Project.** As mentioned above​, Visual Studio does not support data type changes out of the bo​x and should not be used to perform this kind of task.
         3. ​​​​​​​​​**Use Entity Framework (EF) Code First Migrations.** If your application uses Entity Framework Code First, then it is strongly recommended to use Migrations feature.
 ​Using EF Code First Migrations is comparable to using one of the below combinations:
-- ​[DBUp](http&#58;//dbup.github.io/) + [SQL verify](https&#58;//www.nuget.org/packages/SSW.SqlVerify.EF/)
-- [DAC Support For SQL Server Objects and Versions](https&#58;//technet.microsoft.com/en-us/library/ee210549%28v=sql.110%29.aspx)  (.dacpac files)
-- [SQL Deploy ​​​](http&#58;//sqldeploy.com/)
+- ​[DBUp](http&#58;//dbup.github.io/) + <br>            [SQL verify](https&#58;//www.nuget.org/packages/SSW.SqlVerify.EF/)
+- <br>            [DAC Support For SQL Server Objects and Versions](https&#58;//technet.microsoft.com/en-us/library/ee210549%28v=sql.110%29.aspx)  (.dacpac files)
+- <br>            [SQL Deploy ​​​](http&#58;//sqldeploy.com/)
 ​
 
 
@@ -73,4 +71,5 @@ public partial class GenderToString : DbMigration
  Sql("UPDATE [dbo].[Customers] set Gender = 'F' where GenderTemp=0");
  DropColumn("dbo.Customers", "GenderTemp");
  }
-​​​  ​Good Example - Data motion with EF Migrations
+​Good Example - Data motion with EF Migrations
+
