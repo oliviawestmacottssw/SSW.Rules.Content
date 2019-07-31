@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Make your positive and negative points a tick and cross. <br>
+ ​Make your positive and negative points a tick and cross. <br>
  <dl class="badImage"><dt>
       <img src="/PublishingImages/TicksBad.jpg" alt=""> 
    </dt><dd>Figure&#58; Bad example - it's not clear which are good and bad points </dd></dl><dl class="goodImage"><dt>
