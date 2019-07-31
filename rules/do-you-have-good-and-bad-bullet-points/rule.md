@@ -11,7 +11,8 @@ authors:
 
 ---
 
- Make your positive and negative points a tick and cross. <br> <dl class="badImage"><dt>
+ Make your positive and negative points a tick and cross. <br>
+ <dl class="badImage"><dt>
       <img src="/PublishingImages/TicksBad.jpg" alt=""> 
    </dt><dd>Figure&#58; Bad example - it's not clear which are good and bad points </dd></dl><dl class="goodImage"><dt>
       <img src="/PublishingImages/TicksGood.jpg" alt=""> 
@@ -29,5 +30,4 @@ Note: Microsoft should make this easier - [see our suggestion](http&#58;//better
          <img src="/PublishingImages/RulesBullets04.jpg" alt=""> 
       </dt><dd>Figure&#58; The bullet is now loaded! </dd></dl><dl class="image"><dt>
          <img src="/PublishingImages/RulesBullets05.jpg" alt=""> 
-      </dt><dd>Figure&#58; Congratulations - your bullet points now show your positive and negative points</dd></dl>​fixed 
-
+      </dt><dd>Figure&#58; Congratulations - your bullet points now show your positive and negative points​<br></dd></dl>
