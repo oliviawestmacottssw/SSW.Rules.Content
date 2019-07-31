@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Make your positive and negative points a tick and cross. <br>
+ ​Make your positive and negative points a tick and cross. <br>
  ![](/PublishingImages/TicksBad.jpg)Figure: Bad example - it's not clear which are good and bad points ![](/PublishingImages/TicksGood.jpg)Figure: Good example - It's far more obvious which ones are the good points and which are the bad 
 ### More information: How to do it
 
