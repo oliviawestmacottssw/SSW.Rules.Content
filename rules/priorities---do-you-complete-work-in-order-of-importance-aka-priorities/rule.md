@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​​​​​​​With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others. 
+ ​​​​​​​​​With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others. 
  
 ​The word "Urgent" is more important than the word "Important"
  ![Challenges ahead sign](/PublishingImages/challenges-ahead-sign.jpg) Figure: Remove roadblocks
