@@ -29,14 +29,14 @@ When the 'mistake' the person made is not an actual mistake, but something that 
 
 
 
-**Tiny Tip: **I’d use international format on your phone number so people outside the USA can just click to dial - as per https://rules.ssw.com.au/great-email-signatures
+**Tiny Tip: **I’d use international format on your phone number so people outside Australia can just click to dial - as per https://rules.ssw.com.au/great-email-signatures
 Figure: Good example - nicely informing of a small standard oversight 
 
 ### Important things = Tip 
 
 When there is a proven better way to do something different from what the person has done. You should try to include the reasons.
 
-**Tip:** I noticed your email has a very generic subject: "website". Please resend with a use a descriptive email subject as per Rules to Better Email. This way it is easier to identify, categorize and find this email later, without having to open it :)
+**Tip:** I noticed your email has a very generic subject: "website". Please resend with a descriptive email subject as per Rules to Better Email. This way it is easier to identify, categorize and find this email later, without having to open it :)
 Figure: Good example - nicely informing of a better way to do something 
 
 
@@ -83,7 +83,7 @@ For more, check out [Do you know to create a safe space instead of jumping into 
 
 ### Going Anonymous
 
-When something is really personal, you can’t really correct someone unless you are a close friend and has credit with the person, so you should discretely ask your manager how to proceed in that specific case.
+When something is really personal, you can’t really correct someone unless you are a close friend and have credit with the person, so you should discretely ask your manager how to proceed in that specific case.
 
 ### Taking Feedback
  ![thankyou.jpg](/PublishingImages/watchdog-thankyou.jpg) Figure: Good example - say 'thank you' to a person's corrections to show you don't have thin skin and encourage further positive and negative feedback. It all helps you to improve
