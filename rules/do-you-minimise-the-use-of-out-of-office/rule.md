@@ -21,7 +21,6 @@ authors:
 
 
 ![2016-07-27_15-42-13-OOO.png](/SiteAssets/do-you-avoid-using-out-of-office/2016-07-27_15-42-13-OOO.png)
-Figure: Avoid using the Outlook Out of Office Assistant - This can fill up your clients' mailboxes with annoying auto-**replies**.
-
+Figure: Avoid using the Outlook Out of Office Assistant - This can fill up your clients' mailboxes with annoying auto-replies. 
 The use of 'Out of Office - Automated Response​' emails should be avoided unless you plan to be away for more than a week, and unable to check your emails while away. In this case, it is also good to mention one or two alternative contact(s).
 
