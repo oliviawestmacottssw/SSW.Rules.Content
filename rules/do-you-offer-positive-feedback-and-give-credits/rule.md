@@ -18,5 +18,5 @@ This is a simple rule - if someone goes beyond the call of duty, you thank them.
 **Bonus:** If you want to go further, you can tweet the link where you've found help from.
 
 **Tip:** Elaborate your text and avoid adding URLs as it may look like spam.
-![GoodJob.jpg](/PublishingImages/GoodJob.jpg)Figure: Show appreciation when you get help
+![GoodJob.jpg](/PublishingImages/GoodJob.jpg)Figure: Show appreciation when you've got help
 
