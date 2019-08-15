@@ -10,9 +10,7 @@ authors:
 ---
 
  
-​                     Receiving positive feedback makes everyone feel good. Forgetting to recognize success                     means the team has no motivation to succeed.
+​Receiving positive feedback makes everyone feel good. Forgetting to recognize success                     means the team has no motivation to succeed.
  
-This is a simple rule - if someone goes beyond the call of duty, you thank them.
-
-![GoodJob.jpg](/PublishingImages/GoodJob.jpg)
-Figure: Give credit whe​​re credit is due​
+This is a simple rule - if someone goes beyond the call of duty, you thank them.​​​
+![GoodJob.jpg](/PublishingImages/GoodJob.jpg)Figure: Give credit whe​​re credit is due​
