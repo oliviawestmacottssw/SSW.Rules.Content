@@ -32,10 +32,10 @@ Done. Sorry, this wasn't a final decision - I just put it there for testing pur
 Figure: Bad Example - there's too much information here
 
 &gt; 1. Please change from X to Y
-Done
+**Done**
 
      &gt; 2. The program flow logic worries me a bit ​
-Sorry, this wasn't a final decision - I just put it there for testing purposes
+**Sorry, this wasn't a final decision - I just put it there for testing purposes**
  Figure: Good example - use indentation and "&gt;" in an email. It points out the context of what is referred to 
 
 
