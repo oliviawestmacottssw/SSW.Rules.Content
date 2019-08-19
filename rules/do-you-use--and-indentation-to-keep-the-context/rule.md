@@ -31,10 +31,10 @@ The program flow logic worries me a bit 
 Done. Sorry, this wasn't a final decision - I just put it there for testing purposes
 <dd class="ssw15-rteElement-FigureBad">Figure&#58; Bad Example - there's too much information here<br></dd>
 &gt; 1. Please change from X to Y
-Done
+**Done**
 
      &gt; 2. The program flow logic worries me a bit ​
-Sorry, this wasn't a final decision - I just put it there for testing purposes
+**Sorry, this wasn't a final decision - I just put it there for testing purposes**
 <dd class="ssw15-rteElement-FigureGood"> Figure&#58; Good example - use indentation and &quot;&gt;&quot; in an email. It points out the context of what is referred to&#160;<br></dd>
 
 
