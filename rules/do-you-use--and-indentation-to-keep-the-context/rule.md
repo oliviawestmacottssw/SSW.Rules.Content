@@ -38,9 +38,9 @@ Done. Sorry, this wasn't a final decision - I just put it there for testing pur
 <dd class="ssw15-rteElement-FigureGood"> Figure&#58; Good example - use indentation and &quot;&gt;&quot; in an email. It points out the context of what is referred to&#160;<br></dd>
 
 
-**Note: For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually​**
+**Note: **For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually​.
 
-### Related Rules
+### Related Rules​
 
 
 - [Do you use indentation for readability?](/Pages/IndentationForReadability.aspx)
