@@ -40,9 +40,9 @@ Figure: Bad Example - there's too much information here
 
 
 
-**Note: For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually​**
+**Note: **For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually​.
 
-### Related Rules
+### Related Rules​
 
 
 - [Do you use indentation for readability?](/Pages/IndentationForReadability.aspx)
