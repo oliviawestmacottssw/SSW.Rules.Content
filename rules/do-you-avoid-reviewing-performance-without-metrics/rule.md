@@ -48,6 +48,6 @@ For sample code on how to measure performance for windows application form, plea
 
 ### Related Rule
 
-- [Do you keep your website loading ti me acceptable?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=cb28d27b-542f-4f02-bfa4-31b3672ed0d5)​
+- [Do you keep your website loading ti​me acceptable?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=cb28d27b-542f-4f02-bfa4-31b3672ed0d5)​
 
 
