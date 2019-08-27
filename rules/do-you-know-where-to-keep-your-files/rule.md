@@ -28,7 +28,7 @@ For most projects you need to quickly store and locate important details and doc
 - Server details (Dev, Test, Production)
 - Changelog documents
 - Upcoming features most often in Word or OneNote
-- General Documents eg. Requirements/Specifications
+- General Documents eg. Requirements/Specifications (Note: it is possible to share documents from Microsoft Teams externally, but not from Teams directly...just open it in ​Office Online or a specific Office app first)
 
 
 
