@@ -13,12 +13,12 @@ authors:
 
 ---
 
- ​Each client project should have a nice place to keep files. In the old days, things were simple but limited, we simply used Windows Explorer and file shares. Today there are so many places that teams can store documents eg. Dropbox, OneDrive, SharePoint, TFS, and even Microsoft Teams.
+ ​Each client project should have a nice place to keep files. In the old days, things were simple but limited, we simply used Windows Explorer and file shares. Today there are so many places that teams can store documents e.g. Dropbox, OneDrive, SharePoint, TFS, and even Microsoft Teams.
  
 ### Which is the best corporate solution?
 
 
-The solution that allows the best collaboration with Developers, Project Managers, and other stakeholders is SharePoint and Microsoft Teams. It is super easy to create, upload and sharing documents with others.
+The solution that allows the best collaboration with Developers, Project Managers, and other stakeholders is SharePoint and Microsoft Teams. It is super easy to create, upload and share documents with others.
 
 ### What stuff do you need to store?​
 
@@ -26,9 +26,9 @@ The solution that allows the best collaboration with Developers, Project Manager
 For most projects you need to quickly store and locate important details and documents such as:
 
 - Server details (Dev, Test, Production)
-- Changelog documents
-- Upcoming features most often in Word or OneNote
-- General Documents eg. Requirements/Specifications (Note: it is possible to share documents from Microsoft Teams externally, but not from Teams directly...just open it in ​Office Online or a specific Office app first)
+- Change-log documents
+- Upcoming features (most often in Word or OneNote)
+- General documents e.g. Requirements/Specifications (Note: it is possible to share documents from Microsoft Teams externally, but not from Teams directly... just open it in ​Office Online or a specific Office app first)​
 
 
 
