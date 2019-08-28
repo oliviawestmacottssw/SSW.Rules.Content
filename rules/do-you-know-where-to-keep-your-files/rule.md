@@ -13,7 +13,7 @@ authors:
 
 ---
 
- Each client project should have a nice place to keep files. In the old days, things were simple but limited, we simply used Windows Explorer and file shares. Today there are so many places that teams can store documents eg. Dropbox, OneDrive, SharePoint, TFS, and even Microsoft Teams.
+ ​Each client project should have a nice place to keep files. In the old days, things were simple but limited, we simply used Windows Explorer and file shares. Today there are so many places that teams can store documents eg. Dropbox, OneDrive, SharePoint, TFS, and even Microsoft Teams.
  
 ### Which is the best corporate solution?
 
@@ -32,7 +32,7 @@ For most projects you need to quickly store and locate important details and doc
 
 
 
-![Keep Files Bad Example](/PublishingImages/Dont-keep-files.jpg)Figure: Bad example – It might be easy to use File Shares, your Local C: or emails – but don’t. They don’t work in a team environment as they aren’t easy for others to access![Keep Files Bad Example](/PublishingImages/keep-files-TFS.jpg)Figure: Bad example – SharePoint integrated into TFS is not supported via Visual Studio anymore![Keep Files Bad Example](/PublishingImages/keep-files-SP.jpg)Figure: Bad example – even though this is using SharePoint - this is using a Team Site with a Document Library - it is better to use Microsoft Teams which uses SharePoint under the covers![Keep Files Good Example](/PublishingImages/keep-files-sp-teams.jpg)Good example: Use Microsoft Teams and it will automatically create a Site for the Team (and that includes a document library and Team OneDrive)
+![Keep Files Bad Example](/PublishingImages/Dont-keep-files.jpg)Figure: Bad example – It might be easy to use File Shares, your Local C: or emails – but don’t. They don’t work in a team environment as they aren’t easy for others to access![Keep Files Bad Example](/PublishingImages/keep-files-TFS.jpg)Figure: Bad example – SharePoint integrated into TFS is not supported via Visual Studio anymore![Keep Files Bad Example](/PublishingImages/keep-files-SP.jpg)Figure: Bad example – even though this is using SharePoint - this is using a Team Site with a Document Library - it is better to use Microsoft Teams which uses SharePoint under the covers![Keep Files Good Example](/PublishingImages/keep-files-sp-teams.jpg)Good example: Use Microsoft Teams and it will automatically create a Site for the Team (and that includes a document library which you can connect to with OneDrive)
 ### What does not get stored in Microsoft Teams? 
 
 
