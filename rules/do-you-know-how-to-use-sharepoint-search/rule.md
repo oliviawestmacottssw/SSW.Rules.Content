@@ -11,8 +11,10 @@ authors:
 
 ---
 
- ​​
+ ​<br><br>
  
+
+
 
 
 ​​
@@ -21,6 +23,7 @@ authors:
 
 
 ​​SharePoint search is a powerful tool for discovering information. Here are some tips to make sure you are getting the most from it. There are two things to consider regarding SharePoint search; firstly, how you save information to SharePoint to be more easily discoverable; secondly, how to perform searches within SharePoint. ​
+
 
 
  
