@@ -12,7 +12,7 @@ authors:
 ---
 
  
-t's better to use links to a portal or document store instead of having attachments in your emails.
+​t's better to use links to a portal or document store instead of having attachments in your emails.
 
 If you're sending to a fellow employee, use a link to a document store on your intranet (e.g. intranet.northwind.com/SharedDocuments)
 
@@ -20,7 +20,7 @@ If you're sending to a client, it would be a link to a document store on their [
  ![Forward client attachments](/PublishingImages/Email_Attachment_1_small.jpg)Figure: Bad example - Don't send attachments by mail ![PortalLinks.jpg](/Documents/PortalLinks.jpg)Figure: Bad example - Don't use location / filename in the link (URL)
 **Tip:** If you're using SharePoint, then an even better way to do this is to use a tool like OnePlaceMail to insert a link from SharePoint
 ![OnePlaceMail.png](/PublishingImages/insert_link_in_email_to_sharePoint_item-png.png)Figure: Good Example - Use OnePlaceMail to send a link to a document in SharePoint
-Using the Document ID Feature in SharePoint 2010 / 2013 will help minimise broken links under the following scenarios:
+Using the Document ID Feature in SharePoint will help minimise broken links under the following scenarios:
 
 1. Company Restructures / SharePoint restructures
 2. Records Management – when items are moved to the Record Centre
@@ -30,4 +30,10 @@ If you are using a shared DropBox, then put in a reference like so:
 
 ​​I've moved the file to our DropBox at:​ 
 ​SSW\_Designers/Project – FireBootCamp/Admin/FireBootCamp-USA-Ultra-Advert.pptx
+
+### Related Rule
+
+
+- Do you know how to share a file/folder in SharePoint?
+
 
