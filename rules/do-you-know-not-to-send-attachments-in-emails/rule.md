@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​t's better to use links to a portal or document store instead of having attachments in your emails.
+​​t's better to use links to a portal or document store instead of having attachments in your emails.
 
 If you're sending to a fellow employee, use a link to a document store on your intranet (e.g. intranet.northwind.com/SharedDocuments)
 
@@ -34,6 +34,6 @@ If you are using a shared DropBox, then put in a reference like so:
 ### Related Rule
 
 
-- Do you know how to share a file/folder in SharePoint?
+- [Do you know how to share a file/folder in SharePoint?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b1d51fb3-9f27-4f5c-b228-d8b790aaccc1)
 
 
