@@ -55,7 +55,7 @@ if you are familiar with the structure of the metadata in the content you're sea
 
 
 - [Do you know how to use Teams Search?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=1f58c5ab-10d5-40f7-8a24-7f88570ad5ef)
-- [Do you know how to name sharepoint documents?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=281372de-6277-4797-8454-e285cfe02bdf)​
+- [Do you know how to name ShareP​oint documents?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=281372de-6277-4797-8454-e285cfe02bdf)​
 
 
 
