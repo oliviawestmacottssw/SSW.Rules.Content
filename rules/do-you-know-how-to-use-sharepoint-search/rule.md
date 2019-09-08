@@ -39,7 +39,7 @@ Note: OR and AND must be capitalized, however case is irrelevant for actual sear
 
 This can be useful if you know that certain words are used together, e.g. Fire\* will return results for FireBootCamp.
 
-Note: Because of word stemming which is enabled by default in SharePoint 2013, you do not need to use wildcards to find variations on words. For example, searching for "computer" will return results that contain "computers", so you do not need to search for "computer\*".
+Note: Because of word stemming which is enabled by default in ​SharePoint 2019, 2016 and 2013, you do not need to use wildcards to find variations on words. For example, searching for "computer" will return results that contain "computers", so you do not need to search for "computer\*".
 
 ###  Use double quotes to find specific phrases
 
