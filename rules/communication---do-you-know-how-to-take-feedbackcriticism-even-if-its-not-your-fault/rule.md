@@ -17,11 +17,13 @@ authors:
 The best way to take this is to reply to the person, and tell them the following 3 things:
 
 1. Apologize if it was your fault, or explain if it wasn't, but then do the next 2 steps regardless...
-2. Show that you've fixed th e problem (if possible)
+2. Show that you've fixed the problem (if possible)
 3. Explain what system you've put in place to ensure that the same issue won't happen again
 
 
 Even if you've been wrongly accused of something, you should still do steps 2 and 3, as it shows great initiative. Always have a view to the future and the big picture.
+
+Important: Most people get stuck on #1 above and never progress to #2 or 3. They then seem more interested in justifying themselves or explaining their reasoning, than actually fixing the problem. ​
 
 ![dilbert-criticism-1.gif](/PublishingImages/dilbert-criticism-1.gif)
  Figure: Make sure you know how to take criticism well  
