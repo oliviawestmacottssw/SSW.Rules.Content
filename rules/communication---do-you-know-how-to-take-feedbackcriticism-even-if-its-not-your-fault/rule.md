@@ -20,14 +20,14 @@ The best way to take this is to reply to the person, and tell them the following
 
 
 1. The first part of a good customer service is **acknowledging** that something happened. If you don't acknowledge the other person won't know if you agree or not that something is wrong.
-2. Then the hard part: You should clearly clearly **apologize** for what happened.
+2. Then the hard part: You should clearly **apologize** for what happened.
 3. ​Lastly, explain how you will take **action** now, and in the future.
 ​
 
 
-Even if you've been wrongly accused of something, you should still show you understad others' frustrations, as it shows great initiative. Always have a view to the future and the big picture.
+Even if you've been wrongly accused of something, you should still show you understand the other person's frustration, and demonstrate initiative. Always have a view to the future and the big picture.
 
-**Important:** Most people get stuck on #1 above and never progress to #2 or 3. They then seem more interested in justifying themselves or explaining their reasoning, than actually fixing the problem. ​
+**Important:** Most people get stuck on #1 above and never progress to #2 or #​3. They then seem more interested in justifying themselves or explaining their reasoning, than actually fixing the problem. ​
 ![dilbert-criticism-1.gif](/PublishingImages/dilbert-criticism-1.gif)Figure: Make sure you know how to take criticism well
 
 
