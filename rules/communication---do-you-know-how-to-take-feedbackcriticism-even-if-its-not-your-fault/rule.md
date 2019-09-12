@@ -14,29 +14,21 @@ authors:
  
 ​​​​​​​In any job, you will most likely at some point face some criticism. Someone may be telling you that you’ve done something wrong or just expressing displeasure because you didn’t do something they wanted.
  
-The best way to take this is to reply to the person, and tell them the following 3 things:
+The best way to take this is to reply to the person, and tell them the following the 3 A's.
 
-1. Apologize if it was your fault, or explain if it wasn't, but then do the next 2 steps regardless...
-2. Show that you've fixed the problem (if possible)
-3. Explain what system you've put in place to ensure that the same issue won't happen again
+### The three A’s: ​Acknowledge, Apologize, Act ​
 
 
-Even if you've been wrongly accused of something, you should still do steps 2 and 3, as it shows great initiative. Always have a view to the future and the big picture.
-
-Important: Most people get stuck on #1 above and never progress to #2 or 3. They then seem more interested in justifying themselves or explaining their reasoning, than actually fixing the problem. ​
-![dilbert-criticism-1.gif](/PublishingImages/dilbert-criticism-1.gif)Figure: Make sure you know how to take criticism well 
-### <br>The three A’s: Acknowledge, Apologize, Act 
-
-The first part of a good customer service is **acknowledging** that something happened. If you don't acknowledge the other person won't know if you agree or not that something is wrong.
-
-
-
-
-Then the hard part: You should clearly clearly **apologize**.
-
-
-​Lastly, explain how you will **take action** now, and in the future.
+1. The first part of a good customer service is **acknowledging** that something happened. If you don't acknowledge the other person won't know if you agree or not that something is wrong.
+2. Then the hard part: You should clearly clearly **apologize** for what happened.
+3. ​Lastly, explain how you will take **action** now, and in the future.
 ​
+
+
+Even if you've been wrongly accused of something, you should still show you understad others' frustrations, as it shows great initiative. Always have a view to the future and the big picture.
+
+**Important:** Most people get stuck on #1 above and never progress to #2 or 3. They then seem more interested in justifying themselves or explaining their reasoning, than actually fixing the problem. ​
+![dilbert-criticism-1.gif](/PublishingImages/dilbert-criticism-1.gif)Figure: Make sure you know how to take criticism well
 
 
 ### Video​
@@ -48,5 +40,4 @@ Then the hard part: You should clearly clearly **apologize**.
 
 
 ​​​
-
 
