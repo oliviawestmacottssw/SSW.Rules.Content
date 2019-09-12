@@ -36,7 +36,7 @@ More:     **The 3 A’s of Business** (a great article from American Express)
 ![dilbert-criticism-1.gif](/PublishingImages/dilbert-criticism-1.gif)
 Figure: Make sure you know how to take criticism well
 
-Defensive behaviour is the primary barrier to effective communication because when a person is being defensive they actually don’t really **listen** to the other person. And if listening isn’t present, how can two people **effectively communicate** with each other?
+Defensive behaviour is the primary barrier to effective communication because when a person is being defensive they actually don’t really     **listen** to the other person. And if listening isn’t present, how can two people     **effectively communicate** with each other?
 
 - flowingwithchange.com​
 
