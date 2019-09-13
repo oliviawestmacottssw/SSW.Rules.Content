@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​​​​​​​​In any job, you will most likely at some point face some criticism. Someone may be telling you that you’ve done something wrong or just expressing displeasure because you didn’t do something they wanted.
+​​​​​​​​​In any job, you will most likely at some point face some criticism. Someone may be telling you that you’ve done something wrong or just expressing displeasure because you didn’t do something they wanted.
  
 The best way to take this is to reply to the person, and tell them the following the 3 A's.
 
