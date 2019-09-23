@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​​t's better to use links to a portal or document store instead of having attachments in your emails.
+​I​​t's better to use links to a portal or document store instead of having attachments in your emails.
 
 If you're sending to a fellow employee, use a link to a document store on your intranet (e.g. intranet.northwind.com/SharedDocuments)
 
