@@ -41,7 +41,7 @@ Figure: Bad Example - there's too much information here
 
      &gt; 2. The program flow logic worries me a bit ​
 **Sorry, this wasn't a final decision - I just put it there for testing purposes**
- Figure: Bad example​ - only X should be indented because it is someone else's​ text
+ Figure: Bad Example​ - only X should be indented because it is someone else's​ text
 
 &gt; 1. Please change from X to Y
 **Done, I changed from:
@@ -51,7 +51,7 @@ Figure: Bad Example - there's too much information here
 
      &gt; 2. The program flow logic worries me a bit ​
 **Sorry, this wasn't a final decision - I just put it there for testing purposes **
-Figure: Good example - Y should be kept to the left because it is your text
+Figure: Good E​xample - Y should be kept to the left because it is your text
 
 
 **Note: **For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually​.
