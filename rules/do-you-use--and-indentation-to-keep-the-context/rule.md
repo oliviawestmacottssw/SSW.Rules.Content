@@ -40,7 +40,7 @@ Done. Sorry, this wasn't a final decision - I just put it there for testing pur
 
      &gt; 2. The program flow logic worries me a bit ​
 **Sorry, this wasn't a final decision - I just put it there for testing purposes**
-<dd class="ssw15-rteElement-FigureBad"> Figure&#58; Bad&#160;example​ - only X should be indented because it is someone else's​ text<br></dd>
+<dd class="ssw15-rteElement-FigureBad"> Figure&#58; Bad Example​ - only X should be indented because it is someone else's​ text<br></dd>
 &gt; 1. Please change from X to Y
 **Done, I changed from:
 **     **&gt;X**
@@ -49,7 +49,7 @@ Done. Sorry, this wasn't a final decision - I just put it there for testing pur
 
      &gt; 2. The program flow logic worries me a bit ​
 **Sorry, this wasn't a final decision - I just put it there for testing purposes **
-<dd class="ssw15-rteElement-FigureGood">Figure&#58; Good example - Y should be kept to the left because it is your text<br><br></dd>
+<dd class="ssw15-rteElement-FigureGood">Figure&#58; Good E​xample - Y should be kept to the left because it is your text<br><br></dd>
 **Note: **For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually​.
 
 ### Related Rules​
