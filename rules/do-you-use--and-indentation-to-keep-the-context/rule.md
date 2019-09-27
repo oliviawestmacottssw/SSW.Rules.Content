@@ -40,7 +40,7 @@ Done. Sorry, this wasn't a final decision - I just put it there for testing pur
 
      &gt; 2. The program flow logic worries me a bit ​
 **Sorry, this wasn't a final decision - I just put it there for testing purposes**
-<dd class="ssw15-rteElement-FigureBad"> Figure&#58; Bad Example​ - only X should be indented because it is someone else's​ text<br></dd>
+<dd class="ssw15-rteElement-FigureBad"> Figure&#58; Bad Example​ - only X should be indented with &quot;&gt;&quot; ​because it is someone else's​ text<br></dd>
 &gt; 1. Please change from X to Y
 **Done, I changed from:
 **     **&gt;X**
