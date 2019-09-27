@@ -41,7 +41,7 @@ Figure: Bad Example - there's too much information here
 
      &gt; 2. The program flow logic worries me a bit ​
 **Sorry, this wasn't a final decision - I just put it there for testing purposes**
- Figure: Bad Example​ - only X should be indented because it is someone else's​ text
+ Figure: Bad Example​ - only X should be indented with "&gt;" ​because it is someone else's​ text
 
 &gt; 1. Please change from X to Y
 **Done, I changed from:
