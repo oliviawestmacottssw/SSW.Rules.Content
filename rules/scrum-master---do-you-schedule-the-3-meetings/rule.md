@@ -33,7 +33,7 @@ Schedule the meeting and invite the Scrum Team and any interested stakeholders.
 
 **Required Attendees: **[Scrum Team]           
 **Optional Attendees:** [Interested Stakeholders]
-**Subject: **[Project Name] – Sprint Review, Retro and Planning
+**Subject: 🏃‍♂️ **[Project Name] – Sprint Review, Retro and Planning
 
 ​​​​​
 
