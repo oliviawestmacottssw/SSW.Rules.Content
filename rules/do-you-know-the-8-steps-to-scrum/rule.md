@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​​​Scrum is easier than it seems, we'll explain how in these 8 simple steps.
+​​​​Scrum is easier than it seems, we'll explain how in these 8 simple steps.
  ![](/PublishingImages/8Steps_preview.jpg)​Fi​gure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this <br>      [SSW 8 Steps to Scrum PDF](/Documents/8StepstoScrum.pdf) and put it on your " <br>      [War Room](/Pages/ScrumVisualImage.aspx)" wall​
 1. ### ​[Initial Meeting](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=459927ab-429c-4882-8822-ccfda6be4be6)
     The Product Owner explains the product vision, scope is agreed, and the number of days needed for the 'Backlog Construction' is proposed.
