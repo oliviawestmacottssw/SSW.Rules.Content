@@ -11,8 +11,8 @@ authors:
 
 
 
-<span class='intro'> <p class="ssw15-rteElement-P">​​​Indexes should generally have a fillfactor of 90%. If the amount of data stored in the database does not prohibit rebuilding indexes, a fillfactor of 90% should be maintained to increase the performance of inserts.​<br></p> </span>
+<span class='intro'> Enter Intro Text </span>
 
-<p class="ssw15-rteElement-P">​A table that expects a lot of insert operations could use a lower fillfactor.​​<br></p>
+
 
 
