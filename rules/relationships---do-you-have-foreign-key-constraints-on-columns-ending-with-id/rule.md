@@ -11,9 +11,8 @@ authors:
 
 
 
-<span class='intro'> Columns ending with 'ID' should&#160;have FOREIGN KEY constraints​.<br> </span>
+<span class='intro'> Enter Intro Text </span>
 
-<dl class="image"><dt>
-​<img src="/PublishingImages/NorthwindRelationships.jpg" alt="NorthwindRelationships.jpg" /></dt><dd>Figure&#58; Missing relationships​<br></dd></dl>
+
 
 
