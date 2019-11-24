@@ -74,7 +74,22 @@ XXX
 
 ![Application Health Overview Timeline.png](/PublishingImages/Application%20Insights.jpg)
 
+### R&D 
+
+
+
+
+**Did we have any failed experiments?​**
+
+&lt;insert details of any trial/error processes, and ensure all detail is captured as per https://rules.ssw.com.au/do-you-record-your-failures&gt;
+
+**Did we need to invent any new solutions?**
+
+&lt;insert details of any problems for which no solutions existed, and ensure detail is captured as per https://rules.ssw.com.au/do-you-record-your-research-under-the-pbi&gt;
+​
+
 ### ​Sprint Retrospective
+
 
 As part of our commitment to inspect and adapt as a team we conduct a Sprint Retrospective at the end of every Sprint. Here are the results of our Sprint Retrospective:
 
