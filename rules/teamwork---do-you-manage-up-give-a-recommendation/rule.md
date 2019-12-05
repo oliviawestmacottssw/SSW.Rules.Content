@@ -44,6 +44,7 @@ Figure: Good Example <br>
 
 
 - [Do you know how to get approval for a purchase?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=48889512-6575-4e0e-8a3a-7e6933a41128)​
+- [Do you always propose all available options?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2b96c878-2c4f-4c5c-8807-304930169da6)
 
 
 
