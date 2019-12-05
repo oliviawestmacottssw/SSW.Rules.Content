@@ -89,5 +89,5 @@ Figure: Good Example - Replying in a different color + keeping history intact +
 
 
 
-See [Top 10 Rules to Better Email](http&#58;//tv.ssw.com/4818/top-5-rules-better-email-ulysses-maclaren) video for more details on how to reply to emails.
+See [Top 10 Rules to Bet​ter Email](https&#58;//tv.ssw.com/top-rules-to-better-email-by-ulysses-maclaren/) video for more details on how to reply to emails.
 
