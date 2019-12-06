@@ -12,17 +12,17 @@ authors:
 ---
 
  
-​​​​Managing up is providing your manager with an option to approve, rather than asking a general question.
+​​​​​Managing up is providing your manager with an option to approve, rather than asking a general question.
  
 What do you want to charge for Cameron's rate?
-   Figure: Bad Example - Nothing to approve <br>   
+   Figure: Bad Example - Nothing to approve
 
 What do you want to charge for Cameron's rate?
 
 I would advise the standard $165 + GST until he has more experience.
 Please approve.
 
-Figure: Good Example – Option to approve 
+Figure: Good Example - Option to approve 
 
 When you are giving someone multiple options, you should recommend one and state why. For example:
 
@@ -35,7 +35,7 @@ The choices:
 **Option C** - Customize a ready-made solution (Recommended) - We are able to get rid of redundant features and change it to meet our requirements. It is cheaper than building a new solution from scratch.
 
 Please decide so I can move forward
-Figure: Good Example – Multiple options to approve with reasons for each<br>      
+Figure: Good Example - Multiple options to approve with reasons for each<br>      
 ![complexity and false hope](/PublishingImages/complexity-and-false-hope.jpg)
  Figure: Har​d decision - this guy needs to state why he recommends this option
 
