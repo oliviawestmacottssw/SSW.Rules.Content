@@ -22,23 +22,22 @@ What do you want to charge for Cameron's rate?
 I would advise the standard $165 + GST until he has more experience.
 Please approve.
 
-Figure: Good Example <br>      
+Figure: Good Example – Option to approve 
 
 When you are giving someone multiple options, you should recommend one and state why. For example:
 
-When you are giving someone multiple options, you should recommend one and state why. For example:
 We want to integrate our database with our website so that customers can purchase online.
 
-The choices: Buy a ready-made solution - The ready-made solution is cheap but it does not have everything that we need and has unnecessary features.
+The choices:
 
 **Option A** - Buy a ready-made solution - The ready-made solution is cheap but it does not have everything that we need and has unnecessary features.        
 **Option B** - Build a new solution using a third party company - It will be expensive and it will take a long time.
-**Option C**  - Customize a ready-made solution (Recommended) - We are able to get rid of redundant features and change it to meet our requirements. It is cheaper than building a new solution from scratch.
+**Option C** - Customize a ready-made solution (Recommended) - We are able to get rid of redundant features and change it to meet our requirements. It is cheaper than building a new solution from scratch.
 
 Please decide so I can move forward
-Figure: Good Example <br>      
+Figure: Good Example – Multiple options to approve with reasons for each<br>      
 ![complexity and false hope](/PublishingImages/complexity-and-false-hope.jpg)
- Figure: Hard decision - this guy needs to state why he recommends this option
+ Figure: Har​d decision - this guy needs to state why he recommends this option
 
 ### Related Rules <br>      
 
