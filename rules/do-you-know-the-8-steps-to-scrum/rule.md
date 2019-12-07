@@ -13,7 +13,8 @@ authors:
 
  
 ​​​​Scrum is easier than it seems, we'll explain how in these 8 simple steps.
- ![](/PublishingImages/8Steps_preview.jpg)​Fi​gure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this <br>      [SSW 8 Steps to Scrum PDF](/Documents/8StepstoScrum.pdf) and put it on your " <br>      [War Room](/Pages/ScrumVisualImage.aspx)" wall​
+ ![](/PublishingImages/8Steps_preview.jpg)​
+Fi​gure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this <br>      [SSW 8 Steps to Scrum PDF](/Documents/8StepstoScrum.pdf) and put it on your " <br>      [War Room](/Pages/ScrumVisualImage.aspx)" wall​
 1. ### ​[Initial Meeting](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=459927ab-429c-4882-8822-ccfda6be4be6)
     The Product Owner explains the product vision, scope is agreed, and the number of days needed for the 'Backlog Construction' is proposed.
 2. ### ​[Backlog Construction](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=e8fba769-b2de-42f5-b5a1-e6b520dab76d)
@@ -25,7 +26,7 @@ authors:
 5. ### [Sprint Review](/Pages/SprintReviewMeeting.aspx)
     The Development Team demos all the features they've completed. Feedback is gathered. This is the real measure of the success of the Sprint.
 6. ### Product Increment
-    Work accepted by the Product Owner can be deployed to production. Each Sprint is a potentially shippable increment of software.
+    During the Sprint, one or more Product Increments, accepted by the Product Owner, can be deployed to production. Each Sprint is a potentially shippable increment of software, and with good DevOps, this can be done on a PBI by PBI basis.​
 7. ​<br>      
 ### [Product Feedback](/Pages/CreateBugs.aspx)
     Bugs and small changes are added to the current Sprint. Other requests are added to the Product Backlog if approved by the Product Owner.
