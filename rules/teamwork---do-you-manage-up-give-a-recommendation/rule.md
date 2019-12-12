@@ -30,9 +30,9 @@ We want to integrate our database with our website so that customers can purchas
 
 The choices:
 
-**Option A** - Buy a ready-made solution - The ready-made solution is cheap but it does not have everything that we need and has unnecessary features.        
-**Option B** - Build a new solution using a third party company - It will be expensive and it will take a long time.
-**Option C** - Customize a ready-made solution (Recommended) - We are able to get rid of redundant features and change it to meet our requirements. It is cheaper than building a new solution from scratch.
+Option A** **(Recommended) - Customize a ready-made solution - We are able to get rid of redundant features and change it to meet our requirements. It is cheaper than building a new solution from scratch.
+**​Option B** - Buy a ready-made solution - The ready-made solution is cheap but it does not have everything that we need and has unnecessary features.        
+**Option C​** - Build a new solution using a third party company - It will be expensive and it will take a long time.
 
 Please let me know if you're happy to proceed with our recommendation, otherwise let me know if you have any questions.
 Figure: Good Example - Multiple options to approve with reasons for each<br>      
