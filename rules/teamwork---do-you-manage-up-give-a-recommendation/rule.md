@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​​​​​​Managing up is providing your manager with an option to approve, rather than asking a general question.
+​​​​​​​Managing up is providing your manager with an option to approve, rather than asking a general question.
  
 What do you want to charge for Cameron's rate?
  Figure: Bad Example - Nothing to approve
@@ -44,6 +44,7 @@ Figure: Good Example - Multiple options to approve with reasons for each <br>
 
 - [Do you know how to get approval for a purchase?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=48889512-6575-4e0e-8a3a-7e6933a41128)​
 - ​[Do you always propose all available options?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2b96c878-2c4f-4c5c-8807-304930169da6)
+- [Do you have a table summarizing the major features and options?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0eb7e207-f234-44a7-8c48-78ad6d261f74)
 
 
 
