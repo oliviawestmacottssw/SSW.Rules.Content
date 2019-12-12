@@ -15,7 +15,7 @@ authors:
 ​​​​​​Managing up is providing your manager with an option to approve, rather than asking a general question.
  
 What do you want to charge for Cameron's rate?
-   Figure: Bad Example - Nothing to approve
+ Figure: Bad Example - Nothing to approve
 
 What do you want to charge for Cameron's rate?
 
@@ -30,16 +30,16 @@ We want to integrate our database with our website so that customers can purchas
 
 The choices:
 
-Option A** **(Recommended) - Customize a ready-made solution - We are able to get rid of redundant features and change it to meet our requirements. It is cheaper than building a new solution from scratch.
-**​Option B** - Buy a ready-made solution - The ready-made solution is cheap but it does not have everything that we need and has unnecessary features.        
+**Option A **(Recommended) - Customize a ready-made solution - We are able to get rid of redundant features and change it to meet our requirements. It is cheaper than building a new solution from scratch.
+**​Option B** - Buy a ready-made solution - The ready-made solution is cheap bu​t it does not have everything that we need and has unnecessary features.        
 **Option C​** - Build a new solution using a third party company - It will be expensive and it will take a long time.
 
 Please let me know if you're happy to proceed with our recommendation, otherwise let me know if you have any questions.
-Figure: Good Example - Multiple options to approve with reasons for each<br>      
+Figure: Good Example - Multiple options to approve with reasons for each <br>      
 ![complexity and false hope](/PublishingImages/complexity-and-false-hope.jpg)
  Figure: Har​d decision - this guy needs to state why he recommends this option
 
-### Related Rules <br>      
+### Related Rules  <br>      
 
 
 - [Do you know how to get approval for a purchase?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=48889512-6575-4e0e-8a3a-7e6933a41128)​
