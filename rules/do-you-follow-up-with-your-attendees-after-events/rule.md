@@ -10,13 +10,13 @@ authors:
 ---
 
  
-Your attendees have all gone home with a mental boat load of information and great insights. Now is the time to follow them up and remind them of other events, how to keep in touch with you and where to find more information. ​​
+​Your attendees have all gone home with a mental boat load of information and great insights. Now is the time to follow them up and remind them of other events, how to keep in touch with you and where to find more information. ​​
  
-This is not meant to be a big sales pitch necessarily, but you want to capitalize on your event being fresh in their mind.
+This does not need to be big sales pitch, but you do want to capitalize on your event being fresh in their mind.
 
-Create a follow up strategy which could include
+Create a follow up strategy which could include:
 
-- Add attendees to CRM for later follow up and communication (if they have agreed to do so)
+- Adding attendees to a CRM for later follow up and communication (if they have agreed to do so)
 - Send out a thank you email with more information such as
 
 
