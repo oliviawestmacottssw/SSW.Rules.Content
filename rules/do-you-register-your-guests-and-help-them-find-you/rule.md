@@ -10,7 +10,7 @@ authors:
 ---
 
  
-Arriving at a venue for the first time can be both confusing and daunting if you don't know the area. Your event should have a registration area clearly signposted and easily identifiable so that your guests can find you more easily.
+​​​Arriving at a venue for the first time can be both confusing and daunting if you don't know the area. Your event should have a registration area clearly signposted and easily identifiable so that your guests can find you more easily.
  
 Your registration process should be efficient and simple. What has worked well at DDD Melbourne is:
 
