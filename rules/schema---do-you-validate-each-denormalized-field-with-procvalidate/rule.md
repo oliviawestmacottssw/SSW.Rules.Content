@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​​90% of the databases that SSW works with make use of denormalized fields. We believe this is with good reason. However, several precautions should be taken to ensure that the data held within these fields is reliable. This is particularly the case several applications are updating your denormalized data. To illustrate, let's say that we want to show all Customers with a calculated field totalling their order amount (ie Customer.OrderTotal).
+​​​90% of the databases that SSW works with make use of denormalized fields. We believe this is with good reason. However, several precautions should be taken to ensure that the data held within these fields is reliable. This is particularly the case several applications are updating your denormalized data. To illustrate, let's say that we want to show all Customers with a calculated field totalling their order amount (ie Customer.OrderTotal).
 
 With this example in mind, the main reasons we use denormalized fields are:
  
@@ -68,7 +68,7 @@ All in all, we choose to still use denormalized fields because they can save dev
 
 Here is how we ensure that this data is validated:
 
-1. Change the description on any denormalized fields to include "Denormalized" in the description - "Denormalized: Sum(OrderTotal) FROM Orders" in description in Enterprise Manager
+1. Change the description on any denormalized fields to include "Denormalized" in the description - "Denormalized: Sum(OrderTotal) FROM Orders" in description in SQL Server Management Studio.
 2. Create a view that lists all the denormalized fields in the database - based on the description field. 
 
 ```
