@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​You should link all your accounts (available at the moment: Twitter and Facebook) to your bit.ly account. This can be done under the ["Connected Account" tab](https&#58;//bitly.com/a/settings/connected).
+​​​You should link all your accounts (available at the moment: Twitter and Facebook) to your bit.ly account. This can be done under the ["Connected Account" tab](https&#58;//bitly.com/a/settings/connected).
  ![](/PublishingImages/bitly-connect.jpg)​​Figure: Connect your accounts to bit.ly
 
 
