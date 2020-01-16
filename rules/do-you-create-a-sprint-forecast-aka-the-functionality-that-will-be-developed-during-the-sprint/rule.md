@@ -10,7 +10,7 @@ authors:
 ---
 
  
-After the [Sprint Planning](/Pages/SprintPlanningMeeting.aspx)[Meeting](/Pages/SprintPlanningMeeting.aspx), it is useful for the Development Team to send the Product Owner (PO) a Sprint Forecast for the next Sprint. Doing this helps to improve common understanding in, and sometimes to enforce, the relationship between the PO and the Team.​
+​After the [Sprint Planning](/Pages/SprintPlanningMeeting.aspx)[Meeting](/Pages/SprintPlanningMeeting.aspx), it is useful for the Development Team to send the Product Owner (PO) a Sprint Forecast for the next Sprint. Doing this helps to improve common understanding in, and sometimes to enforce, the relationship between the PO and the Team.​
 
 
 
@@ -34,8 +34,9 @@ Each of the Sprints in a Scrum project can be considered a mini-project that has
 | Sprint Duration: | [Number of weeks] |
 | Sprint Goal: | [Main goal of Sprint] |
 | Project: | [Project Name] |
-| Project Portal:<br>Product Owner: | [Link to project Portal]<br>[Product Owner Name] |
-| Sprint Review Meeting:     | [Date and Time] |
+| Project Portal: | [Link to project Portal] |
+| Product Owner: | [Product Owner Name] |
+| ​Sprint Review Meeting: | [Date and Time] |
 
 
 Attendees: [Names of Attendees]
@@ -45,7 +46,7 @@ As per our Sprint Planning Meeting, and as the Product Owner, you have agreed t
 The Team will do its best to deliver this set of features (Scope), to a defined quality standard (Definition of Done) by the end of the sprint. Ideally, the team will deliver what they forecast, or even a bit more, but this can't be guaranteed.
 
 
-| ** ID** | ** Title** | **State** | ** Effort** |
+| **ID** | **Title** | **State** | **Effort** |
 | --- | --- | --- | --- |
 |  |  |  |  |
 |  | &lt; generate this table as per the instruction on the rule below &gt; |  |  |
@@ -54,11 +55,11 @@ The Team will do its best to deliver this set of features (Scope), to a defined 
 
 ** Figure: The sprint backlog**
 
-&lt;This is as per rule: [https://rules.ssw.com.au/do-you-create-a-sprint-forecast-(aka-the-functionality-that-will-be-developed-during-the-sprint)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9119c922-1478-49e3-9d7a-903e9bc4be6e) /&gt;
+&lt;This is as per rule:        [https://rules.ssw.com.au/do-you-create-a-sprint-forecast-(aka-the-functionality-that-will-be-developed-during-the-sprint)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9119c922-1478-49e3-9d7a-903e9bc4be6e) /&gt;
 
- **Figure: Good Example - copy this as email template and send to Product Owner. Subject: &lt;Client Name&gt; Sprint xxx Forecast**
-
-Tip: Use this [Outlook email template](/Documents/SprintContract.oft "Email Template")
+**Figure: Good Example - copy this as email template and send to Product Owner. 
+****Subject: &lt;Client Name&gt;: Sprint xxx Forecast**
+Tip: Use this     [Outlook email template](/Documents/SprintContract.oft "Email Template")
 
 More instructions are as below:
 
