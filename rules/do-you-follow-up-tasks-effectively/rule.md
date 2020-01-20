@@ -41,7 +41,7 @@ When you receive it in your inbox, action the task.
 
 There is a brilliant service called FollowUpThen which can do all the administrative work for you.
 
-Simply BCC or email Simply BCC or email **&lt;period of time&gt;@followupthen.com** and it will send you an email when that time expires, reminding you to follow up with another email.
+​Simply BCC or email **&lt;period of time&gt;@followupthen.com** and it will send you an email when that time expires, reminding you to follow up with another email.
  ![followupthen](/PublishingImages/FollowUpThen.jpg) Figure: Good example -  Use [1week@followupthen.com](mailto&#58;1week@followupthen.com) to be reminded of this email in one week
 
 ### #3 ​Follow Up flag feature in Outlook
