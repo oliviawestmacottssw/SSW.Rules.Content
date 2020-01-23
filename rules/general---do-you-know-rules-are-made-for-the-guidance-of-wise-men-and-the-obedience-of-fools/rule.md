@@ -27,7 +27,7 @@ The pros:
 The cons:
 
 - They take time to write in a generic fashion
-- Technology ones rust easily. Technologies and techniques change often, so you must be on the lookout for the new and better approaches and need continual updating
+- Technological rules rust easily. Technologies and techniques change often, so you must be on the lookout for the new and better approaches and continually update these.​
 - They have errors as they are written by imperfect people.
 - People will sometimes follow an inappropriate rule. A set of rules can never predict every path, so  cases can and will appear that the standards fail to cater for.
 
