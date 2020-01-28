@@ -20,7 +20,7 @@ Make the changes even easier to see and understand by highlighting in red what
 
 **Hi Eric,**
 
-For the Code Auditor web page, please make the list read:
+1. For the Code Auditor web page, please make the list read:
 
 - Scan all your projects for coding errors
 - Guarantee Industry best practices
@@ -30,7 +30,7 @@ Figure: Bad example - original version of content has not been included in the e
 
 **Hi Eric,**
 
-On the Code Auditor web page, please change              [http://www.ssw.com.au/ssw/codeauditor](http&#58;//www.ssw.com.au/ssw/codeauditor):
+1. ​On the Code Auditor web page, please change              [http://www.ssw.com.au/ssw/codeauditor](http&#58;//www.ssw.com.au/ssw/codeauditor):
 
 Change from:
      - Scan all your projects for coding              bugs and errors
