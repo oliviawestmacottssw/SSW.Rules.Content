@@ -24,7 +24,13 @@ Please approve.
 
 Figure: Good Example - Option to approve 
 
-When you are giving someone multiple options, you should recommend one and state why. For example:
+When you are giving someone multiple options you should:
+
+- Limit the number of options to 3 to avoid "option overload" (more on <br>         [Choice Overload](https&#58;//www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/choice-overload/) and [The Burden of Choice](https&#58;//www.psychologytoday.com/au/blog/more-tech-support/201011/the-burden-choice))
+- Recommend one and state why
+
+
+​For example:
 
 We want to integrate our database with our website so that customers can purchase online.
 
@@ -37,9 +43,9 @@ The choices:
 Please let me know if you're happy to proceed with our recommendation, otherwise let me know if you have any questions.
 Figure: Good Example - Multiple options to approve with reasons for each <br>      
 ![complexity and false hope](/PublishingImages/complexity-and-false-hope.jpg)
- Figure: Har​d decision - this guy needs to state why he recommends this option
+ Figure: Hard decision - this guy needs to state why he recommends this option
 
-### Related Rules  <br>      
+### ​Related Rules  <br>      
 
 
 - [Do you know how to get approval for a purchase?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=48889512-6575-4e0e-8a3a-7e6933a41128)​
