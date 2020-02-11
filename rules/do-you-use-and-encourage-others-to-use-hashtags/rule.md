@@ -17,7 +17,7 @@ authors:
 
 ---
 
-  Hashtags identify the keyword or topic of interest that the post is about. They allow searching for similar posts on the topic. They were popularized on twitter and now work on Facebook, Pinterest, and Google+. On twitter, it is possible to "track" (aka Subscribe to) a tag.  
+ ​ Hashtags identify the keyword or topic of interest that the post is about. They allow searching for similar posts on the topic. They were popularized on twitter and now work on Facebook, Pinterest, and Google+. On twitter, it is possible to "track" (aka Subscribe to) a tag.  
  
 
 
@@ -37,7 +37,7 @@ The best tweets will use a combination of @mentions and #hashtags where appropri
 
 **Tip #4: ** Keep your hashtags on topic – again, you might seem "spammy" if you use hashtags that are unrelated to your post.
 
-**Tip #5**: For more readability, capitalise the first letter of each word, for example, #SocialMedia
+**Tip #5**: For more readability, capitalise the first letter of each word, for example, #SocialMedia.
 
 
 
