@@ -16,10 +16,10 @@ The way you and all members of your team present themselves is a crucial part of
  
 ### Dressing Up
 
-One aspect of this is dress code. Dress code is important for two reasons:
+One aspect of this is the dress code. Dress code is important for two reasons:
 
 - Looking professional and keen for business
-- Reinforce the company's [branding](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterBranding.aspx#BrandingEmployees)
+- Reinforce the company's [branding](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f6b90f42-7f48-4c44-b766-295de647bb47)
 
 
 ### Public Events and Meetings
@@ -43,4 +43,5 @@ E.g. At SSW, our employees **"Dress Up"** on Mondays and Tuesdays by wearing 
 Then they **"Dress Down"** later in the week... so they have     **"Casual Thursday"** and     **"Sporty Friday"**.
 
 Thursday are casual clothes. On Fridays, they encourage sport clothes, such as shorts. It allows the end of the week to be fun.
-​![SSW_Dresscode_Poster.png](/PublishingImages/SSW_Dresscode_Poster.png)Figure: ​[SSW Dress Code can be downloaded here](https&#58;//www.dropbox.com/s/0sj1xn7av6sfz6w/SSW_Dresscode_Poster_A3.pdf?dl=0).
+​![SSW_Dresscode_Poster.png](/PublishingImages/SSW_Dresscode_Poster.png)Figure: ​[SSW Dress Code can be downloaded here (internal only)](https&#58;//sswcom.sharepoint.com/&#58;b&#58;/s/SSWDESIGN/EfVEIVvnUK5EoEE22SnqtskBlSE3nryQTkLDTjsfGrTV-Q?e=XijWyg)
+
