@@ -21,6 +21,8 @@ authors:
 - Breakdown of work completed (including current code coverage value)
 - Link to test environment
 - Relevant notes from the retrospective
+- CC - SSWSprintReviews@sswcom.onmicrosoft.com
+​
 
 
 
@@ -39,7 +41,7 @@ Hi [Product Owner],
 
 Attendees:        *(Optional as they may be in the to and CC)*
 
-​
+
 
 ### Sprint Review
 
@@ -79,13 +81,12 @@ XXX
 
 
 
-**Did we have any failed experiments?​**
+**Did we do any experimental work?
+**
 
 &lt;insert details of any trial/error processes, and ensure all detail is captured as per https://rules.ssw.com.au/do-you-record-your-failures&gt;
 
-**Did we need to invent any new solutions?**
-
-&lt;insert details of any problems for which no solutions existed, and ensure detail is captured as per https://rules.ssw.com.au/do-you-record-your-research-under-the-pbi&gt;
+​&lt;insert details of any problems for which no solutions existed, and ensure detail is captured as per https://rules.ssw.com.au/do-you-record-your-research-under-the-pbi&gt;
 ​
 
 ### ​Sprint Retrospective
@@ -102,7 +103,7 @@ As part of our commitment to inspect and adapt as a team we conduct a Sprint Ret
 **What improvements will be made for the next Sprint?**
 &lt;insert what improvements will be made for the next Sprint&gt;
 
-**Definition of Ready *****- Optional***
+**Definition of Ready *****- Optional​​​​​***
 
 &lt;insert the definition of Ready. Normally that the PBIs are Sized with Acceptance criteria added&gt;
 
