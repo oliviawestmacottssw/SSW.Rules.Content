@@ -27,9 +27,8 @@ You must test your website on the major browsers, though, because that there wil
 
 
 You should be able to fix all formatting and layout bugs by editing the CSS file.
-
-
- ![browser-usage.jpg](/PublishingImages/browser-usage.jpg) Figure: Browsers statistics in 2017 – Know more in [W3C Browser Stats](http&#58;//www.w3schools.com/browsers/browsers_stats.asp)
+![BrowserUsageStats2020.png](/SiteAssets/do-you-check-your-website-is-multi-browser-compatible/BrowserUsageStats2020.png)
+Figure: Browsers statistics in 2020 – Know more in [W3C Browser Stats](http&#58;//www.w3schools.com/browsers/browsers_stats.asp)
 
 
 **Note:** If a browser represents less than 2% of your website views in Analytics, then you shouldn't bother. 
