@@ -15,8 +15,8 @@ authors:
 Here is how you do it:
 
 1. Open Outlook and create a new Exchange account: <br>      
-![Create New Account](/PublishingImages/new-account.jpg)Figure - Tick manually configure server settings
-2. ​Enter your server name and user name, but un-tick <br>      **Use Cached Exchange Mode**: ​ <br>      ![Un-tick Use Cached Exchange Mode](/PublishingImages/fig3-untickcached.png)Figure - Un-tick Use Cached Exchange Mode
+![Create New Account](/SiteAssets/do-you-know-how-to-setup-your-outlook-to-send-but-not-receive/mail1.png)Figure - Tick manually configure server settings
+2. ​Enter your server name and user name, but un-tick <br>      **Use Cached Exchange Mode**: ​ <br>      ![Un-tick Use Cached Exchange Mode](/SiteAssets/do-you-know-how-to-setup-your-outlook-to-send-but-not-receive/Mail3.png)Figure - Un-tick Use Cached Exchange Mode
 3. Finish the setup and then open Outlook
 4. Configure your Send / Receive Groups: <br>      ![Click Send / Receive | Click Send / Receive Groups | Click Define Send / Receive Groups](/SiteAssets/do-you-know-how-to-setup-your-outlook-to-send-but-not-receive/Email2.png)Figure - Click Send / Receive | Click Send / Receive Groups | Click Define Send / Receive Groups
 5. Now we can choose the parts of our mailbox we want to synced to our PC. The following options are recommended:
