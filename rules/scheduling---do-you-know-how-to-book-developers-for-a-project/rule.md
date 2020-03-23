@@ -10,11 +10,11 @@ authors:
 ---
 
  
-​ ​It is the responsiblity of Account Managers​ to book developers for known client work, however anyone can book a developer, including the developer themselves.
+​​​It is the responsibility of Account Managers​ to book developers for known client work, however anyone can book a developer, including the developer themselves.
 
 ​To book a developer:
 
-**Prerequisite: **[Install the 2 CRM Addins](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10).
+**Prerequisite: **[Install the 2 CRM Addins​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10).​
 <dl class="image"><dt>
       <img alt="Create new appointment in CRM" src="/PublishingImages/ServiceCalendar2013.jpg" style="width&#58;95%;">
    </dt><dd>Figure&#58; Using the Service Calendar, you can see who is and is not available at a given time</dd></dl>
@@ -55,7 +55,7 @@ Back in CRM4, the only way to make recurring appointments was to use Service act
 
 ### (for options 1 and 2) Adding Tentative Bookings
 
-Sometimes you may want to reserve a consultant for an appointment but are not able to confirm with the client immediately. In this case, create a Tentative Booking which reserves the consultant for the period of the booking without assigning th​em to the client account. The purpose of a Tentative Booking is to reserve a consultant and trigger a conversation between Account Managers if the consultant is required on confirmed client work over the same period.
+Sometimes you may want to reserve a consultant for an appointment but are not able to confirm with the client immediately. In this case, create a Tentative Booking which reserves the consultant for the period of the booking without assigning t​​h​em to the client account. The purpose of a Tentative Booking is to reserve a consultant and trigger a conversation between Account Managers if the consultant is required on confirmed client work over the same period.
 
 To create a Tentative Booking:
 
