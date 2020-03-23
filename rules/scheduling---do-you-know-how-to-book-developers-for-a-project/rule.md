@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​It is the responsiblity of Account Managers​ to book developers for known client work, however anyone can book a developer, including the developer themselves.
+​ ​It is the responsiblity of Account Managers​ to book developers for known client work, however anyone can book a developer, including the developer themselves.
 
 ​To book a developer:
 
@@ -57,7 +57,7 @@ Sometimes you may want to reserve a consultant for an appointment but are not ab
 
 To create a Tentative Booking:
 
-1. Follow the same steps above to create the Appointment
+1. Follow the same steps above to create the Appointment​
 2. Instead of choosing a client account for 'Set Regarding', choose the company (E.g. "ssw.pencilledin").
 
 
