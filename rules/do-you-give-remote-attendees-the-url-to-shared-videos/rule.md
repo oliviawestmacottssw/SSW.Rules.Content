@@ -7,5 +7,10 @@ authors: []
 
 ---
 
- If the presenter wants to show a video, they should give remote attendees the URL to the video prior to playing. Video never plays well over a shared screen. ​
+ If the presenter wants to show a video, they should give remote attendees the URL to the video prior to playing. 
+
+
+
+Videos never play well over a shared screen, as there could be a delay on the internet connection​.
+
  
