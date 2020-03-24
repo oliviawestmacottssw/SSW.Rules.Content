@@ -16,7 +16,8 @@ Knowing the holistic health of your application is important once it has been de
 We recommend using Application Insights, as getting it set up and running is quick, simple and relatively painless.
 
 Application Insights will tell you if your application goes down or runs slowly under load. If there are any uncaught exceptions, you'll be able to drill into the code to pinpoint the problem. You can also find out what your users are doing with the application so that you can tune it to their needs in each development cycle.
-  ![](/PublishingImages/Google-analytics.png) Figure:  When developing a public website, you wouldn't deploy without Google Analytics to track metrics about user activity.  ![](/PublishingImages/App-Insights-Dashboard.png) Figure: For similar reasons, you shouldn't deploy a web application without metric tracking on performance and exceptions
+  ![](/PublishingImages/Google-analytics.png) Figure:  When developing a public website, you wouldn't deploy without Google Analytics to track metrics about user activity.  ![2020-03-24_15-27-26.jpg](/SiteAssets/why-you-want-to-use-application-insights/2020-03-24_15-27-26.jpg) 
+Figure: For similar reasons, you shouldn't deploy a web application without metric tracking on performance and exceptions
 
 1. You need a portal for your app
 2. You need to know spikes are dangerous
