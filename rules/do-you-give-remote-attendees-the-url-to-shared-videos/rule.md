@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- If the presenter wants to show a video, they should give remote attendees the URL to the video prior to playing. 
+ ​If the presenter wants to show a video, they should give remote attendees the URL to the video prior to playing. 
 
 
 
