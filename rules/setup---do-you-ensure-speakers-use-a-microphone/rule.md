@@ -8,7 +8,7 @@ authors: []
 ---
 
  
-​​It’s sometimes quite hard to hear who is speaking. Usually, the person leading the meeting is audible because they’ll be using a mic, but if others want to talk, they should come up next to the presenter and speak (if they are in the same room) – this is important so people who are attending the meeting remotely can hear what is being discussed.
+​​​It’s sometimes quite hard to hear who is speaking. Usually, the person leading the meeting is audible because they’ll be using a mic, but if others want to talk, they should come up next to the presenter and speak (if they are in the same room) – this is important so people who are attending the meeting remotely can hear what is being discussed.
 
 
 
