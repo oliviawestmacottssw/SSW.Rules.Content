@@ -79,7 +79,7 @@ Hi Bob,
 
 
 Damian
- Figure: Good Example – It’s clear which tasks have been done and which haven’t 
+ Figure: OK Example – It’s clear which tasks have been done and which haven’t, but you have to scroll to see what were the tasks​ 
 
  
 Hi Bob,
@@ -104,11 +104,16 @@ Bob
  
 Hi Bob,
 
-All Done
-See [www.ssw.com.au](http&#58;//www.ssw.com.au/) for the new logo.
+
+
+1. Change the logo on the SSW website to our new logo. Done - see www.ssw.com.au
+2. Take a photo of you standing on your head.​
+
+
+All Done - See [www.ssw.com.au](http&#58;//www.ssw.com.au/) for the new logo.
 
 Damian
- Figure: Good example – It’s still clear that all tasks have been done. 
+ Figure: Good example – If multiple tasks are 'done' with no need for extra explanation, you can combine them. It’s clear that all tasks have been done 
 
 ### Tip 3: Reply "Done" if you have a task that is &gt; 4 hours
 
