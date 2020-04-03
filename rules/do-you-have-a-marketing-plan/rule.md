@@ -12,20 +12,20 @@ authors:
 ---
 
  
-If you were going to build a house, you would hope that the architect and builders are working together using architectural plans and blueprints as a guide. So why would try to build a solid customer base or market share be any different?
+If you were going to build a house, you would hope that the architect and builders were working together using architectural plans and blueprints as their guide. So why would trying to build a solid customer base or market share be any different?
 
-At SSW we realize the monumental importance of a marketing plan. Although we recognize that in many cases marketing plans get filed away in the closet until its time to get a business loan it's most effective when it acts as a blueprint for all the marketing activities a company undertakes.
+At SSW we realize the monumental importance of a marketing plan. Although we recognize that in many cases marketing plans get filed away in the closet until it's time to get a business loan, they're most effective when they act as a blueprint for all the marketing activities a company undertakes.
  
 Here are some of the important points to consider in a marketing plan.
 
-- Set out your marketing goals and objectives then aligns them with overall business goals and strategy
-- Set out a time frame for achieving its goals
+- Set out your marketing goals and objectives then align them with your overall business goals and strategy
+- Set out a time frame for achieving those goals
 - Identify a target market and segmentation strategy
 - Define how you will position and differentiate your product
-- Use competitors and industry analysis
+- Use competitor and industry analysis
 - Identify current and proposed marketing methods
 - Include marketing reports (historical and forecasts)
-- Set the criteria which the plan will be assessed for success or failure
+- Set the criteria against which the plan will be assessed for success or failure
 
 
 The most important thing to remember about a marketing plan is that it is a work in progress. Always needing to be reassessed and changed to adapt to the dynamic business environment.
