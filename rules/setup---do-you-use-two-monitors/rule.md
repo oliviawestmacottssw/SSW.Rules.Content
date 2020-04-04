@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Studies have shown that you can get up to a 30% increase in productivity by using                     more than one monitor when you work.
+​                     Studies have shown that you can get up to a 30% increase in productivity by using                     more than one monitor when you work.
  
 Providing users with the ability to access more information and images simultaneously,                     multiple monitor configurations allow for more efficient multitasking between applications.
 
