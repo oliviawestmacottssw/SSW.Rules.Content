@@ -66,9 +66,8 @@ Regards,
 &lt;This email is as per the rule [https://rules.ssw.com.au/scrum-master-do-you-schedule-the-3-meetings](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=c7aaccf3-506d-46a2-8eb2-813d611ec008) /&gt;​
 
  Figure: Good Example - copy this appointment template and send to ​the Scrum Team​
-
-
-![teams-logo.png](/PublishingImages/teams-logo.png)​It's a great idea to run your Scrum meetings through Microsoft Teams so that the whole team is invited and new developers can easily find the meetings see [https://rules.ssw.com.au/run-your-meetings-through-teams​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=91a6a999-29d4-4903-8b7a-16fddd976d65) for more info.
+![New meeting on Teams](/PublishingImages/Screen%20Shot%202020-04-06%20at%204.15.50%20PM.png)​​
+​It's a great idea to run your Scrum meetings through Microsoft Teams so that the whole team is invited and new developers can easily find the meetings see [https://rules.ssw.com.au/run-your-meetings-through-teams​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=91a6a999-29d4-4903-8b7a-16fddd976d65) for more info.
 
 In Scrum, there are 4 meetings in total that you need to know about: 
 - [Sprint Planning Meeting​](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
