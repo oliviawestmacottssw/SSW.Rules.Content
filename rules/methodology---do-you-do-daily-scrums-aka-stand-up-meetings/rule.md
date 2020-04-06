@@ -10,7 +10,7 @@ authors:
 ---
 
  
-​Tight project teams have a Daily 'Scrum' every day at the same time.
+​​Tight project teams have a Daily 'Scrum' every day at the same time.
 
 It was once called a 'stand-up meeting' but that discriminates people in wheelchairs.
 
@@ -51,12 +51,17 @@ At the end of the Scrum, the Scrum Master should     [review the current burn d
 **Tip 3: Keep a schedule of the Daily Scrum times on a wall (+ have a recurring appointment in Outlook)​​​**
 
 
-Subject: Daily Scrum –              **[Project Name]
+Subject: 🙋Daily Scrum –              **[Project Name]
 **
 Hi** [Team name]**,
 As per our conversation, the Daily Scrum will be held each day.
 
-Project:** [Project Name] **
+Project:** [Project Name]
+**Scrum Master: **[Scrum Master Name]
+**
+Regards,
+
+**[Your name here]**
 
 &lt;This email was sent as per              [Do you do Daily Scrums?](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)&gt;
 
