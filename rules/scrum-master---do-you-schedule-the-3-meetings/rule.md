@@ -23,6 +23,8 @@ Estimate how much time each meeting will require, then schedule a single calen
 - People need breaks.
 - The Sprint officially finishes at the end of the Sprint Review meeting. The Sprint Retrospective marks the beginning of the next Sprint.
 - These meetings do not necessarily have to be held on a Friday or Monday. You can have a Sprint start and end on any day of the week.​
+Mid week meeting are recommended so that the liklihood of it occurring on a public holiday long weekend is minimised.
+- Since these meetings will occur every Sprint - set a recurrence on the calendar appointment (every 1, 2, 3, or 4 weeks)​ so that people have the time blocked out well in advance.
 
 
 **Tip: **It can be helpful to finish the Sprint Review with the first Daily Scrum​
