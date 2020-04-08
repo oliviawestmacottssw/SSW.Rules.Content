@@ -57,7 +57,7 @@ Hi** [Team name]**,
 As per our conversation, the Daily Scrum will be held each day.
 
 Project:** [Project Name]
-**Scrum Master: **[Scrum Master Name]
+**Scrum Master:              **[Scrum Master Name]
 **
 Regards,
 
@@ -171,5 +171,9 @@ The goal is to be productive for 8 hours of the day, so communicate with the res
 **What happens if there is a major incident?**
 
 It is important that any major incidents are dealt with first. Start with any major incidents that occurred in the last 24 hours.
-![](/PublishingImages/NewStandUpImage.jpg)Figure: Daily Scrums will alert everyone if there is a major problem and get all brains aligned in the right direction. There is no sense in putting a Band-Aid on a patient's scraped knee if there is a big knife in his eye!![dailyscrumtweet.png](/PublishingImages/dailyscrumtweet.png)Figure: If you like this, <br>      [retweet](https&#58;//twitter.com/AdamCogan/status/168175594209681408)  ;)
+![](/PublishingImages/NewStandUpImage.jpg)Figure: Daily Scrums will alert everyone if there is a major problem and get all brains aligned in the right direction. There is no sense in putting a Band-Aid on a patient's scraped knee if there is a big knife in his eye!![dailyscrumtweet.png](/PublishingImages/dailyscrumtweet.png)Figure: If you like this, <br>      [retweet](https&#58;//twitter.com/AdamCogan/status/168175594209681408)  ;)​
+### Related rule
+
+- [Do you use the status message in Teams?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=8deaea57-532b-4446-9eb2-f906830dd222)​
+
 
