@@ -22,6 +22,6 @@ The core of the onion architecture is the Domain Model, and all dependencies are
 ####  Further Reading: 
 
 - [Do you know the layers of the onion architecture?](/Pages/The-layers-of-the-onion-architecture.aspx)
-- [Do you know the best dependency injection container?​](/do-you-know-the-best-dependency-injection-container-%28aka-don’t-waste-days-evaluating-ioc-containers%29)
+- [Do you know the best dependency injection container​?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0aa194e1-2de9-4ed1-b430-444109d65a50)
 
 
