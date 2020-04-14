@@ -28,7 +28,7 @@ Here are the 8 steps you should follow for a good handover.
 4. Do a code review
 5. Review the client portal
 6. Confirm location of info and procedures (hopefully, these are on a wiki or SharePoint document library)
-    - Source control
+    - Source control. Make sure there is no stale or old branches. ​​​Check out: [​​Do you know when to branch in git?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d12d969d-0a5f-4d75-8f6b-1c33ac8f74a1)
     - Database
     - Documents
     - How to Build and Package
@@ -65,5 +65,5 @@ Here are the 8 steps you should follow for a good handover.
          <p>DONE</p></li><li> 
          <strong>Complete Handover </strong></li></ul> </font> **Figure: Good Example - This handover has lots of URLs and is complete**
 
-If you need to handover only a single task there are more details here: [Do you know how to hand over tasks (aka Emails) to others? ​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2586b50a-21b6-40b0-8004-d90d1b029bec)
+If you need to handover only a single task there are more details here: [Do you know how to hand over tasks (aka Emails) to others? ​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2586b50a-21b6-40b0-8004-d90d1b029bec)​
 
