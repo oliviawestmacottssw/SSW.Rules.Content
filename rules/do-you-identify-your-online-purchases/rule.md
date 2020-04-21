@@ -9,4 +9,5 @@ authors:
 
 ---
 
- When making an online purchase from the company account, remember to include your name in the postal details so that the item is correctly identified and given to you - having it sent to the company unidentified or with the boss's name on it instead can lead to confusion and the package may end up in limbo.  
+ When making an online purchase using the company account, remember to include **your name** in the postal details so that the item is correctly identified and given to you. Having it sent to the company unidentified or under the boss's name​ can lead to confusion and the package may end up in limbo. 
+ 
