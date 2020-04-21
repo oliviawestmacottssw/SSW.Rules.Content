@@ -23,6 +23,6 @@ I want to be able to type this URL in, but it is VERY long:
 <font class="ms-rteCustom-FigureBad">Bad example - People can’t easily type this URL in…. it is too long</font>
 Thanks Rob, that is great.
 <br>Made a bit.ly at [http://bit.ly/aC5Lb2](http&#58;//bit.ly/aC5Lb2)
-<font class="ms-rteCustom-FigureBad">Bad example -&#160;How will I remember that?</font>
+<font class="ms-rteCustom-FigureBad">Bad example -&#160;How will I​ remember that?</font>
 [http://bit.ly/VS2010VM](http&#58;//bit.ly/VS2010VM)
 <font class="ms-rteCustom-FigureGood">Good example - Easier to remember</font>​​  
