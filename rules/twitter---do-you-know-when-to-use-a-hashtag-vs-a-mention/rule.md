@@ -14,7 +14,7 @@ authors:
 ---
 
  
-**#Hashtags** are used when talking about something – a topic or keyword. Using a hashtag creates a link that leads to a page displaying an aggregated list of posts about that thing. 
+**​#Hashtags** are used when talking about something – a topic or keyword. Using a hashtag creates a link that leads to a page displaying an aggregated list of posts about that thing. 
 
 
 
