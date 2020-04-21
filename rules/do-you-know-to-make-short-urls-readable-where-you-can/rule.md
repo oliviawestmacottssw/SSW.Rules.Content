@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Readability of URLs is important. It is not just making the length as short as possible. <br>
+ Readability of URLs is important, so you should consider making a short URL. However, it is not just making the length as short as possible - it should be friendly.​ 
  
 If you use a shortened link people can't see what they are clicking through to. In fact, this is what most spammers rely on:
 
