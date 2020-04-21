@@ -12,7 +12,7 @@ authors:
 ---
 
 
-You should always publish your blog posts to Twitter. It helps boost traffic and visibility for your site.
+You should always publish your blog posts to Twitter and other social media​. It helps boost traffic and visibility for your site.
 
 Make it automatic. You do not need to do this manually, there are services out there that will monitor your blogs RSS or ATOM feed and publish when you do.
 
