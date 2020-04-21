@@ -14,7 +14,7 @@ authors:
 ---
 
  
-​Buffer is a great tool for managing multiple social media accounts across a range of sites such as Facebook, Instagram, LinkedIn and Twitter. 
+​Buffer is a great tool for managing multiple social media accounts across a range of sites such as Facebook, Instagram, LinkedIn, and Twitter. 
 It allows you to choose which accounts to post to, can post to multiple social media accounts at once, and even lets you write and schedule your posts to be released over the course of a day or even over the next few weeks, so you don't need to be at your computer while maintaining an online presence. It also offers URL shortening and provides analytics so you can track the success of your posts across multiple sites.
  
 You can either visit the [Buffer web app](https&#58;//buffer.com/) in your browser  or install a tool that sits next to the address bar of your browser.
