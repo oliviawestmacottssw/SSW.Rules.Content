@@ -16,29 +16,15 @@ authors:
 
 Your tweets should be interesting to your target audience. People aren't going to follow you for long if you make off topic and low value tweets.
 
-
-
-![](/PublishingImages/twitter-boring-tweet.png)
-<font class="ms-rteCustom-FigureBad" size="+0">Bad Example - &quot;Having lunch&quot; is not an interesting tweet<br></font>
-
-
-<br>Some good examples of things to tweet about:
-
+<dl class="badImage"><dt><img src="/PublishingImages/twitter-boring-tweet.png" alt=""></dt><dd> Bad Example - &quot;Having lunch&quot; is not an interesting tweet<br> </dd></dl>
+Some good examples of things to tweet about:
 
 - 1 day before an event, tweet about the event and what you are talking about
 - On the day of the event, check-in on foursquare when you arrive (gives people a nice map)
 - When something good happens to you, eg. you beat your boss in an arm wrestle
 - Tweet before and after installing new software or after an upgrade eg:
 
-    - Installing #SharePoint2010 for the first time
-    - #SharePoint2010 install done - found a great guide to follow here: www.example.com
+    - Installing #SharePoint for the first time
+    - #SharePoint install done - found a great guide to follow here: www.example.com​
 
-
-![](/PublishingImages/twitter-goodtweet.png)
-
-
-
-Good Example - An informative tweet with hash tags which appeals to a targeted audience of IT followers
-
-
-
+<dl class="goodImage"><dt><img src="/PublishingImages/twitter-goodtweet.png" alt=""></dt><dd>Good Example - An informative tweet with hashtags which appeals to a targeted audience of IT followers</dd> </dl>
