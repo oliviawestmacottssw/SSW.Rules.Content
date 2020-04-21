@@ -23,6 +23,6 @@ I want to be able to type this URL in, but it is VERY long:
 Bad example - People can’t easily type this URL in…. it is too long
 Thanks Rob, that is great.
 <br>Made a bit.ly at [http://bit.ly/aC5Lb2](http&#58;//bit.ly/aC5Lb2)
-Bad example - How will I remember that?
+Bad example - How will I​ remember that?
 [http://bit.ly/VS2010VM](http&#58;//bit.ly/VS2010VM)
 Good example - Easier to remember​​  
