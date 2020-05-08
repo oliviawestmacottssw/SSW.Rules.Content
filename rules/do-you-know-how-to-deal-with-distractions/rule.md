@@ -23,8 +23,10 @@ Tip:​​ There is an extension for Google Chrome to replace your homepage cal
 6. [Minimize Microsoft Team distractions​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ab17d85c-5ee1-44a9-8433-200bd5771337).
 7. [Minimize Outlook distractions](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=7d2b06ad-cac7-4afc-b7af-0552fe30b6ac).
 8. [Minimize Skype distractions](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInstantMessenger.aspx#MinimiseMSNMessengerDistractions).
-9. People should [avoid distracting you](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=3e0a3341-90ff-4b73-92d0-d14fb3e7ed13), but it’s easier when they know what you are working on. Tip: Use the Teams status to let people know what you are doing (saves them having to ask you) - see [https://rules.ssw.com.au/use-the-status-message-in-teams](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=8deaea57-532b-4446-9eb2-f906830dd222).
-10. Use a concentration technique, such as [Pomodoro​](https&#58;//en.wikipedia.org/wiki/Pomodoro_Technique).
+9. People should [avoid distracting you](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=3e0a3341-90ff-4b73-92d0-d14fb3e7ed13) - using IM unnecessarily can be evil. See [https://rules.ssw.com.au/important-chats-should-be-in-an-email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=dbad1760-3f29-4aa5-b24f-5e3fd60a05b3).
+10. People will interrupt you less if you let them know what you are working on.
+Tip: Use the Teams status to let people know what you are doing (saves them having to ask you). See [https://rules.ssw.com.au/use-the-status-message-in-teams](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=8deaea57-532b-4446-9eb2-f906830dd222).
+11. Use a concentration technique, such as [Pomodoro​](https&#58;//en.wikipedia.org/wiki/Pomodoro_Technique).
 
 
 
