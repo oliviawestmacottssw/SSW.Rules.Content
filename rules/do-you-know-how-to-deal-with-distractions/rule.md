@@ -18,6 +18,7 @@ authors:
 2. Don't interrupt people unnecessarily when they're working - create comprehensive standards for people to refer to.
 3. Avoid multi-tasking as much as possible. Don't open an email, respond to half the questions, and then open another. Complete the first task and then delete the email. When you multi-task, there’s a higher chance your work quality will be dropped, as well as your attention to detail.
 4. Set your Browser's default to "About: Blank"  so you don't get distracted by news or social media, for example.
+**TIP:**​​ There is an extension for Google Chrome to replace your homepage called [Momentum​](https&#58;//chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en-US), where you will be shown a photograph as the background, time, greetings, and your own focus for the day.
 5. [Minimize Outlook distractions](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=7d2b06ad-cac7-4afc-b7af-0552fe30b6ac).
 6. [Minimize Skype distractions](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInstantMessenger.aspx#MinimiseMSNMessengerDistractions).
 7. [Minimize Microsoft Team distractions](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ab17d85c-5ee1-44a9-8433-200bd5771337).
@@ -27,12 +28,7 @@ authors:
 
 
 
-TIP:​​ There is an extension for Google Chrome to replace your homepage called Momentum ([https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en-US](https&#58;//chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en-US)) where you will be shown a photograph as the background, time, greetings, and your own focus for the day.
-
 ​​![Pomodoro.png](/PublishingImages/Pomodoro.png)
-**​​Fig​ure: The ​Pomodoro technique ****uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.**
-​
-
-
+**​​Figure: The ​Pomodoro technique ****uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.**
 
 
