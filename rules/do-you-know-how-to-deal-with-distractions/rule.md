@@ -9,14 +9,14 @@ authors:
 
 ---
 
- ​Keeping your mind on the job is so important if you're trying to fix a bug/issue, and finalizing a task to meet this afternoon's deadline. Here are a few practical suggestions that are used in the SSW office to help the team keep "in the zone".
+ ​​Keeping your mind on the job is so important if you're trying to fix a bug/issue, and finalizing a task to meet this afternoon's deadline. Here are a few practical suggestions that are used in the SSW office to help the team keep "in the zone".
 
 
 
  
 1. Programming/working in pairs means you won't cruise the web, or play Solitaire, you'll be forced to focus.
 2. Don't interrupt people unnecessarily when they're working - create comprehensive standards for people to refer to.
-3. Avoid multi-tasking as much as possible. Don't open an email, respond to half the questions, and then open another. Complete the first task and then delete it. When you multi-task, there’s a higher chance your work quality will be dropped, as well as your attention to detail.
+3. Avoid multi-tasking as much as possible. Don't open an email, respond to half the questions, and then open another. Complete the first task and then delete the email. When you multi-task, there’s a higher chance your work quality will be dropped, as well as your attention to detail.
 4. Set your Browser's default to "About: Blank"  so you don't get distracted by news or social media, for example.
 5. [Minimize Outlook distractions](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=7d2b06ad-cac7-4afc-b7af-0552fe30b6ac).
 6. [Minimize Skype distractions](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInstantMessenger.aspx#MinimiseMSNMessengerDistractions).
