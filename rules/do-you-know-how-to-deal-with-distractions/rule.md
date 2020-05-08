@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​​Keeping your mind on the job is so important if you're trying to fix a bug/issue, and finalizing a task to meet this afternoon's deadline. Here are a few practical suggestions that are used in the SSW office to help the team keep "in the zone".
+ Keeping your mind on the job is so important if you're trying to fix a bug/issue to finalize a task to meet this afternoon's deadline. Here is how you keep "in the zone".​
 
 
 
