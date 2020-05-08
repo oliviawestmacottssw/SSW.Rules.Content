@@ -15,7 +15,7 @@ authors:
 
  
 1. Programming/working in pairs means you won't cruise the web, or play Solitaire, you'll be forced to focus.
-2. Don't interrupt people unnecessarily when they're working - create comprehensive standards for people to refer to.
+2. Refer people to standards and you will be helping them learn + reducing the number of interruptions they get. This is why we invest in the SSW Rules.​
 3. Avoid multi-tasking as much as possible. Don't open an email, respond to half the questions, and then open another. Complete the first task and then delete the email. When you multi-task, there’s a higher chance your work quality will be dropped, as well as your attention to detail.
 4. Set your Browser's default to "About: Blank"  so you don't get distracted by news or social media, for example.
 Tip:​​ There is an extension for Google Chrome to replace your homepage called [Momentum​](https&#58;//chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en-US), where you will be shown a photograph as the background, time, greetings, and your own focus for the day.
