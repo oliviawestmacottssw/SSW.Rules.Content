@@ -12,7 +12,9 @@ authors:
 ---
 
  Getting in the zone is pretty challenging in any work environment. Outlook in particular likes to offer as many distractions as possible to ensure you can never forget you've got it open. Set your options so that Outlook: <br>
-    ![OutlookDistractions.png](/PublishingImages/OutlookDistractions.png) Figure: Good Example - Turn off Outlook distractions!
+ ![OutlookDistractions.png](/PublishingImages/OutlookDistractions.png)Figure: Good Example - Turn off Outlook distractions on Windows​
+![minimize-outlook-distractions-mac.jpg](/PublishingImages/minimize-outlook-distractions-mac.jpg)Figure: Good Example - Turn off Outlook distractions on a Mac
+
 - Doesn't play a sound
 - Doesn't briefly change the mouse cursor
 - Doesn't show an envelope
@@ -21,10 +23,10 @@ authors:
 
 Here are a few more distractions tips:
 
-- [MSN Messenger distractions](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInstantMessenger.aspx#MinimiseMSNMessengerDistractions)
+- [Minimize Teams distractions​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ab17d85c-5ee1-44a9-8433-200bd5771337)
+- [Minimize Skype distractions](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=6650d51f-dc2c-47d4-a779-2dc4f8a3c8c9)
 - [General working environment distractions](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d65f17a0-2354-4793-9481-7dc2eea0e559)​
+- [Turn off email notifications on Gmail](https&#58;//support.google.com/mail/answer/1075549)
 
-
-You should also [turn off email notifications on Gmail](https&#58;//support.google.com/mail/answer/1075549).
 
 
