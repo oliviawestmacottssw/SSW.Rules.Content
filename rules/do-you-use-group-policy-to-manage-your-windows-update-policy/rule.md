@@ -39,6 +39,6 @@ After the new Group Policy propagates, you will notice the update setting is now
  ![The Group Policy locks the Windows Update setting](/PublishingImages/updates-updatesforced.jpg) The Group Policy locks the Windows Update setting
 
 
-After the new Group Policy propagates, you will notice the update setting is now locked on the servers in the Production Server OU.
+From now on your servers will be updated without unplanned reboots!
  ![Default domain policy1.png](/Documents/Default%20domain%20policy1.png)     Figure: Good example - AD shows the Group Policy setting “3 – Auto download and notify for install”. This policy is applied to the specified OU eg. Production Servers joined to this domain 
 
