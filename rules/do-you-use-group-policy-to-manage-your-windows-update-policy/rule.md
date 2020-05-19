@@ -12,8 +12,16 @@ authors:
 ---
 
  We all know it’s important to keep our servers updated. Unfortunately though, by default, Windows will automatically download and install all new Windows Updates on your servers. This will mean the servers will occasionally restart to install updates when you don’t want them too. You will also get annoying popups trying to get you to restart the computer. 
-  ![ Accidently press Restart Now on a Production server and your users won't be happy!](/PublishingImages/updates-restart.jpg) Bad example – it is automatically installing and you want control over your patching. Accidentally press Restart Now on a Production server and your users won't be happy!
-**Note : **Server patching is also achievable via SCCM and you get more control over restarting windows like this. WSUS can also be used in conjunction with group policies to handle restart times better.
+ 
+Note: This rule applied to both client PCs and servers.
+It is also one more reason developers don’t like to join a company domain on their personal laptops!
+
+
+
+![Windows-Update-notification.png](/SiteAssets/do-you-use-group-policy-to-manage-your-windows-update-policy/Windows-Update-notification.png)Bad Example - Windows 10 shows a ‘Restart now’ – do not accidentally press it! Your production server and your users won't be happy!
+
+ ![Accidently press Restart Now on a Production server and your users won't be happy!](/PublishingImages/updates-restart.jpg) Bad example – Remember this nasty one from Vista days?
+**Note: **Server patching is also achievable via SCCM and you get more control over restarting windows like this. WSUS can also be used in conjunction with group policies to handle restart times better.
 
 The best ensure you are still downloading updates but not installing them automatically is to use Group Policy.
 
@@ -29,7 +37,8 @@ The best ensure you are still downloading updates but not installing them automa
 
 After the new Group Policy propagates, you will notice the update setting is now locked on the servers in the Production Server OU.
  ![The Group Policy locks the Windows Update setting](/PublishingImages/updates-updatesforced.jpg) The Group Policy locks the Windows Update setting
-Now the next time you plan to reboot your server you can install updates quickly and reboot – keeping your servers updated without unplanned reboots.
 
-The following screenshot is the settings applied to the default domain policy for the same group policy settings but this will apply to all machines joined to the SSW domain.
- ![Default domain policy1.png](/Documents/Default%20domain%20policy1.png) 
+
+After the new Group Policy propagates, you will notice the update setting is now locked on the servers in the Production Server OU.
+ ![Default domain policy1.png](/Documents/Default%20domain%20policy1.png)     Figure: Good example - AD shows the Group Policy setting “3 – Auto download and notify for install”. This policy is applied to the specified OU eg. Production Servers joined to this domain 
+
