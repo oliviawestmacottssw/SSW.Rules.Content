@@ -110,6 +110,8 @@ Hi Bob,
 2. Take a photo of you standing on your head.​
 
 
+
+
 All Done - See [www.ssw.com.au](http&#58;//www.ssw.com.au/) for the new logo.
 
 Damian
@@ -181,4 +183,9 @@ In a development team environment, it is better to move emails to bug tracking s
 Record a quick and dirty "[Done Video](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=215be2dd-4a90-4f0f-a5fa-dbed2edca461)"
 
 **VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI)
+
+### Tip 12: Remember to thank people - don't be too brief and icy
+
+
+When replying 'Done' for a bug or issue someone reported, remember to thank the person for taking the time to send it. A short "Thank you for reporting this" helps to make your 'Done' warmer.​
 
