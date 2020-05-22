@@ -9,7 +9,7 @@ authors:
 
 ---
 
- **​Keeping your mind on the job **is very important, especially when you're trying to fix a bug/issue or finalize a task to meet this afternoon's deadline. Here is how you keep "in the zone":​
+ **​​Keeping your mind on the job **is very important, especially when you're trying to fix a bug/issue or finalize a task to meet this afternoon's deadline. Here is how you keep "in the zone":​
 
 
  
