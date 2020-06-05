@@ -36,7 +36,14 @@ For most projects you need to quickly store and locate important details and doc
 ### What does not get stored in Microsoft Teams? 
 
 
-1. For developers, the [6 important documents](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=951ffbf9-4066-42f3-a9b7-e0d8603e728b) should be stored in Azure DevOps (was TFS/VSTS).​​.. or instead [use Markdown with the Wiki](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=846474eb-27a1-4645-90ee-10a349fef714)
+1. For developers,
+
+
+> ​A: code obviously belongs in github, azure, devops, etc.
+> 
+> B: Also the [6 important documents](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=951ffbf9-4066-42f3-a9b7-e0d8603e728b) should be stored in Azure DevOps (was TFS/VSTS).​​.. or instead [use Markdown with the Wiki](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=846474eb-27a1-4645-90ee-10a349fef714)
+
+
 2. For designers with large files, OneDrive is a better choice. See: [Do you know the best Source Control for Designers?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2df3378d-f923-4f3f-8c86-ec1074f7f98b)
 
 ### What about usernames and pas​swords?
