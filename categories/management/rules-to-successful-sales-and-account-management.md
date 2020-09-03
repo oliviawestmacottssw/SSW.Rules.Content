@@ -50,5 +50,6 @@ index:
 
 ---
 
+<p></p><p>You can have the best developers in the world, but if you haven&#39;t got a good sales process, no-one will ever use them. It&#39;s up to the Sales Manager to get this right.<br/><br/>Once you&#39;ve got the job, software projects are delicate activities and the client needs love. It&#39;s up to the Account Managers to keep everyone on the same page, especially if there is no Scrum Master.<br/><br/>The Account Manager is responsible for invoicing, resource management (booking developers)&#160;and conflict resolution.&#160;Here are SSW&#39;s rules for better Sales and Account Management.​​<br/><br/>Do you agree with them all? Are we missing some? Email us your tips, thoughts or arguments. Let us know what you think.&#160;</p>
 
 
