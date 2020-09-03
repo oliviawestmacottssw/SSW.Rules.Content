@@ -25,7 +25,7 @@ authors:
     </ol>
     </li>
 </ol>
-<p><img alt="TFS In DNS" src="/PublishingImages/TFSDNS.png" /><br>
+<p><img alt="TFS In DNS" src="TFSDNS.png" /><br>
 Figure&#58; DNS Pointer for&#160;TFS can be easily changed</p>
  </span>
 
