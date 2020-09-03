@@ -16,7 +16,7 @@ authors:
 <li>Diagnostics will pick up that you need the Visual Studio 2008 SP1 Forward Compatibility Update for Team Foundation Server 2010 installed&#160; </li>
 <li>Start Visual Studio 2008 </li>
 <li>Open&#160;Team Explorer </li>
-<li>Add a new server http&#58;//tfs.northwind.com&#58;8080/tfs/&#160;<br><span><img alt="Add Team Foundation Serve" src="/PublishingImages/AddTeamFoundationServer.png" style="width&#58;442px;height&#58;236px;" /></span>&#160;<br><font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; Remember to use the &quot;/tfs&quot; option when connecting to the new server.</font></li>
+<li>Add a new server http&#58;//tfs.northwind.com&#58;8080/tfs/&#160;<br><span><img alt="Add Team Foundation Serve" src="AddTeamFoundationServer.png" style="width&#58;442px;height&#58;236px;" /></span>&#160;<br><font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; Remember to use the &quot;/tfs&quot; option when connecting to the new server.</font></li>
 <li><span>Confirm that the following are correct</span> <ol><li><span>Source Code</span> - connect to TFS2010 server and confirm that you can get latest.</li>
 <li><span>Source Code history</span> - check that the source history is intact</li>
 <li><span>Work Items</span> - confirm that you can see the last work items that you created</li>
