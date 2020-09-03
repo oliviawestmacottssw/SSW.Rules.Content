@@ -20,7 +20,7 @@ authors:
 <li>Turning off TFS Service <ol><li>Remote desktop into TFS 2008</li>
 <li>Start IIS</li>
 <li>Right click Team Foundation Server | Stop </li></ol>
-<span><img src="/PublishingImages/StopTFSServices.png" alt="" style="width&#58;500px;height&#58;412px;" /></span><br><span style="font-size&#58;12px;font-weight&#58;bold;">Figure&#58;&#160;You need to stop anyone checking in files</span>&#160; </li></ol></li>
+<span><img src="StopTFSServices.png" alt="" style="width&#58;500px;height&#58;412px;" /></span><br><span style="font-size&#58;12px;font-weight&#58;bold;">Figure&#58;&#160;You need to stop anyone checking in files</span>&#160; </li></ol></li>
 <li>Confirm you can no longer get latest on the Northwind team project </li></ol> </span>
 
 
