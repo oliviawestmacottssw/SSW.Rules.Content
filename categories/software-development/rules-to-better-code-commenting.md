@@ -13,6 +13,6 @@ index:
 - comments-do-you-comment-each-property-and-method
 
 ---
-<p>​Rules for adding comments to code.​<br></p>
+<p>​​Rules for adding comments to code.​<br></p>
 
 
