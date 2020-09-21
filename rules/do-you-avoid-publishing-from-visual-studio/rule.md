@@ -14,9 +14,9 @@ authors:
  
 A better way to deploy is by using a defined Build in TFS.
 <dl class="badImage"><dt>
-      <img src="/PublishingImages/test-publish.jpg" alt="">
-   </dt><dd>Figure&#58; Bad Example – Using Publish to deploy </dd></dl><dl class="goodImage"><dt>
-      <img src="/PublishingImages/queuing-new-build.jpg" alt="">
-   </dt><dd>Figure&#58; Good Example – Queuing a new build to deploy your application</dd></dl><dl class="goodImage"><dt>
-      <img src="/PublishingImages/continuous-integration.jpg" alt="">
-   </dt><dd>Figure&#58; Best example – Use continuous integration to trigger your Continuous Deployment build</dd></dl>
+      <img src="test-publish.jpg" alt="">
+   </dt><dd>Figure: Bad Example – Using Publish to deploy </dd></dl><dl class="goodImage"><dt>
+      <img src="queuing-new-build.jpg" alt="">
+   </dt><dd>Figure: Good Example – Queuing a new build to deploy your application</dd></dl><dl class="goodImage"><dt>
+      <img src="continuous-integration.jpg" alt="">
+   </dt><dd>Figure: Best example – Use continuous integration to trigger your Continuous Deployment build</dd></dl>
