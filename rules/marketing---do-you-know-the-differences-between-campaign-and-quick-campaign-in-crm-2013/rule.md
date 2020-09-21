@@ -10,10 +10,10 @@ authors:
 ---
 
  
-​​This picture shows a flowchart of Campaigns and Quick Campaigns in CRM 2013:
+​​This picture shows a flowchart of Campaigns and Quick Campaigns in CRM 2013:
  <dl class="image"><dt> 
-      <img alt="Color of CRM Development Server" src="/PublishingImages/CampaignVSQuickCampaign.jpg">
-   </dt><dd> Figure&#58; Campaign VS Quick Campaign flowchart.</dd></dl>
+      <img alt="Color of CRM Development Server" src="CampaignVSQuickCampaign.jpg">
+   </dt><dd> Figure: Campaign VS Quick Campaign flowchart.</dd></dl>
 A Campaign can extend over a long period of time, with potentially multiple different media types being used for a common purpose. It has extensive meta-data to both plan activities and then show rep​orts on results.​ e.g.
 
 - ​​A monthly newsletter​​
@@ -21,7 +21,7 @@ A Campaign can extend over a long period of time, with potentially multiple diff
 - A cold-calling campaign​
 
 
-A Quick Campaign, however, is for a one-off distribution of emails to a targeted group of contacts. e.g.
+A Quick Campaign, however, is for a one-off distribution of emails to a targeted group of contacts. e.g.
 
 - ​Letting your local clients know about an upcoming event by email​​
 
