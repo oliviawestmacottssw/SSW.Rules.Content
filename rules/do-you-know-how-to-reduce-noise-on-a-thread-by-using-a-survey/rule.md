@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Reducing noise in email threads is easy now we have Office365 and OneDrive.  
+ Reducing noise in email threads is easy now we have Office365 and OneDrive.  
 Sometimes when organising or planning you will need to gather responses from a lot of people, but having many people reply to the email can create a long and messy thread.
 
 
@@ -23,11 +23,11 @@ An easy alternative to this is to use Office365 in OneDrive to create a survey i
 
 
 
-![](/PublishingImages/Bad-Example-too-many-emails.png)
+![](Bad-Example-too-many-emails.png)
 
-<dd class="ssw15-rteElement-FigureBad">​​Figure&#58; Bad example – a simple “X or Y?” question thread generated dozens of responses that clogged up the inboxes of the recipients&#160;<br></dd>
-![](/PublishingImages/Good-Example-Invite-to-Survey.png)
+<dd class="ssw15-rteElement-FigureBad">​​Figure: Bad example – a simple “X or Y?” question thread generated dozens of responses that clogged up the inboxes of the recipients <br></dd>
+![](Good-Example-Invite-to-Survey.png)
 
-<dd class="ssw15-rteElement-FigureGood">​Figure&#58; Good example – send an email with a link to a survey instead of asking for replies&#160;​</dd>
-​For a quick introduction to how to use Office365 from OneDrive, watch this video:  ​
-<iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/1D47IIIY87M" frameborder="0"></iframe>
+<dd class="ssw15-rteElement-FigureGood">​Figure: Good example – send an email with a link to a survey instead of asking for replies ​</dd>
+​For a quick introduction to how to use Office365 from OneDrive, watch this video:  ​
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1D47IIIY87M" frameborder="0"></iframe>
