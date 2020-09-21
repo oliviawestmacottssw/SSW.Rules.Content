@@ -12,14 +12,12 @@ HTML5 introduced a whole slew of new type properties for forms. Gone are the day
 
 Although most of these don't do anything on desktop, on mobile devices they bring up the correct keyboard. As we move into a more mobile digital age, small things like the proper numerical keyboard or a keyboard with a quick ".com" becomes increasingly important.
  <dl class="ssw15-rteElement-ImageArea"><dt><div> 
-         <img width="200px" src="/PublishingImages/fieldtype-text.PNG" alt="">
-      </div><p class="ssw15-rteElement-CodeArea">&lt;label for=&quot;phone&quot;&gt;Phone&lt;/label&gt;&#58; &lt;input 
-         <span class="ssw15-rteStyle-Highlight">type=&quot;text&quot;</span> name=&quot;phone&quot;&gt;&lt;/input&gt;</p></dt><dd class="ssw15-rteElement-FigureBad">Figure&#58; Bad Example – This field is using a text type and shows a standard keyboard on mobile</dd></dl>
+         <img width="200px" src="fieldtype-text.PNG" alt="">
+      </div><p class="ssw15-rteElement-CodeArea"><label for="phone">Phone</label>: <input><span class="ssw15-rteStyle-Highlight">type="text"</span> name="phone"></p></dt><dd class="ssw15-rteElement-FigureBad">Figure: Bad Example – This field is using a text type and shows a standard keyboard on mobile</dd></dl>
 <dl class="ssw15-rteElement-ImageArea"><dt><div> 
-      <img width="200px" src="/PublishingImages/fieldtype-tel.PNG" alt="">
+      <img width="200px" src="fieldtype-tel.PNG" alt="">
       </div>
-      <p class="ssw15-rteElement-CodeArea">&lt;label for=&quot;phone&quot;&gt;Phone&lt;/label&gt;&#58; &lt;input 
-         <span class="ssw15-rteStyle-Highlight">type=&quot;tel&quot;</span> name=&quot;phone&quot;&gt;&lt;/input&gt;</p></dt><dd class="ssw15-rteElement-FigureGood">Figure&#58; Good Example – This field is using the correct field type and shows the keypad on mobile</dd></dl>
+      <p class="ssw15-rteElement-CodeArea"><label for="phone">Phone</label>: <input><span class="ssw15-rteStyle-Highlight">type="tel"</span> name="phone"></p></dt><dd class="ssw15-rteElement-FigureGood">Figure: Good Example – This field is using the correct field type and shows the keypad on mobile</dd></dl>
 
 
 Here is a table of some useful input types and what they do:
