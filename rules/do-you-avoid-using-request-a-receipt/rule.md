@@ -16,6 +16,6 @@ authors:
 
 Turning this option on all the time effectively throws the option away, not just for yourself, but everyone else as well.
  <dl class="image"><dt> 
-      <img src="/PublishingImages/OutlookReceiptRequest.gif" alt="Outlook Receipt Request" class="ms-rteCustom-ImageArea">​​ </dt><dd>Figure&#58; Selectively request read receipts so as not to annoy your recipient.​<br></dd></dl>
+      <img src="OutlookReceiptRequest.gif" alt="Outlook Receipt Request" class="ms-rteCustom-ImageArea">​​ </dt><dd>Figure: Selectively request read receipts so as not to annoy your recipient.​<br></dd></dl>
 **Warning:** If you are using this more than once a year then alarms should be ringing!​
 
