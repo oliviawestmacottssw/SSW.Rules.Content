@@ -16,5 +16,5 @@ authors:
 
 **Hint:** When you deactivate a client - put a note in the notes field to say           why first.
 
-![CRM-DeactivateContact.jpg](/PublishingImages/CRM-DeactivateContact.jpg)
-<dd class="ssw15-rteElement-FigureNormal">​​​​​Figure&#58; Once a contact moves on or their details are no longer relevant, deactivate them<br></dd>
+![CRM-DeactivateContact.jpg](CRM-DeactivateContact.jpg)
+<dd class="ssw15-rteElement-FigureNormal">​​​​​Figure: Once a contact moves on or their details are no longer relevant, deactivate them<br></dd>
