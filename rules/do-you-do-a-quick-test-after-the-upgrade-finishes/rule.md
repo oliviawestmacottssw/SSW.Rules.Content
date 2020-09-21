@@ -12,7 +12,7 @@ All of the hard work has been done, now you need to do a quick test.
 
 1. Open http://tfs.northwind.com:8080/tfs/web/
 2. Confirm the Team Web Access page load and shows all your team projects
-![Quick Test After Upgrade](/PublishingImages/QuickTestAfterUpgrade.png) 
-<font class="ms-rteCustom-FigureNormal" size="+0">Figure&#58; Make sure you can access TSWA after the upgrade.</font>
+![Quick Test After Upgrade](QuickTestAfterUpgrade.png) 
+<font class="ms-rteCustom-FigureNormal" size="+0">Figure: Make sure you can access TSWA after the upgrade.</font>
 
 
