@@ -29,14 +29,14 @@
   <meta name="theme-color" content="#ffffff" />
   <meta name="msapplication-TileColor" content="#ffffff" />
   <meta name="msapplication-TileImage" content="app/assets/images/Favicons/mstile-144x144.png" />
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
-    integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" />
-<link rel="stylesheet" href="/app/styles.1dadbfbe0e7c572d15d7.css"></head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.5.0/css/all.min.css"
+    integrity="sha512-QfDd74mlg8afgSqm3Vq2Q65e9b3xMhJB4GZ9OcHDVy1hZ6pqBJPWWnMsKDXM7NINoKqJANNGBuVRIpIJ5dogfA==" crossorigin="anonymous" />
+<link rel="stylesheet" href="/app/styles.1febfe4ade95b9bdd532.css"></head>
 
 <body>
   <ssw-root></ssw-root>
   <script async
     src="https://ssw-boggo-app.azurewebsites.net/widget?project=SSW.Induction&account=ssw&version=2" defer></script>
-<script src="/app/runtime-es2015.e312bef914b0c44c4949.js" type="module"></script><script src="/app/runtime-es5.e312bef914b0c44c4949.js" nomodule defer></script><script src="/app/polyfills-es5.85bdd27a5c0050fcb9bd.js" nomodule defer></script><script src="/app/polyfills-es2015.633448cfa4fb787f0454.js" type="module"></script><script src="/app/scripts.fef169a2b7ca08eaa1b8.js" defer></script><script src="/app/vendor-es2015.488a099dc9fd057b28cf.js" type="module"></script><script src="/app/vendor-es5.488a099dc9fd057b28cf.js" nomodule defer></script><script src="/app/main-es2015.62c31029c164f9071d0d.js" type="module"></script><script src="/app/main-es5.62c31029c164f9071d0d.js" nomodule defer></script></body>
+<script src="/app/runtime-es2015.574dcb269aa6f882d572.js" type="module"></script><script src="/app/runtime-es5.574dcb269aa6f882d572.js" nomodule defer></script><script src="/app/polyfills-es5.85bdd27a5c0050fcb9bd.js" nomodule defer></script><script src="/app/polyfills-es2015.633448cfa4fb787f0454.js" type="module"></script><script src="/app/scripts.fef169a2b7ca08eaa1b8.js" defer></script><script src="/app/vendor-es2015.a111bf966f216576ab96.js" type="module"></script><script src="/app/vendor-es5.a111bf966f216576ab96.js" nomodule defer></script><script src="/app/main-es2015.3caa87dc0b3d10dfa2fe.js" type="module"></script><script src="/app/main-es5.3caa87dc0b3d10dfa2fe.js" nomodule defer></script></body>
 
 </html>
