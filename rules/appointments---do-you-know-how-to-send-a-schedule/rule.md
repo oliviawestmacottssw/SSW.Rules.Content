@@ -12,16 +12,16 @@ authors:
 ---
 
  
-Have you ever needed to send your calendar schedule to someone to figure out the best time to schedule a meeting with them? Figuring out when someone is available within your organization is usually easy, as Outlook can show you automatically. If you're trying to coordinate with someone outside of your organization, this can be more challenging. In Outlook you can easily include a copy of your calendar schedule to make this process easier.
+Have you ever needed to send your calendar schedule to someone to figure out the best time to schedule a meeting with them? Figuring out when someone is available within your organization is usually easy, as Outlook can show you automatically. If you're trying to coordinate with someone outside of your organization, this can be more challenging. In Outlook you can easily include a copy of your calendar schedule to make this process easier.
  
 To insert a nice looking calendar and .ics file attachment in to your email in Outlook, do the following:
 
-1. New email in Outlook, go to the ribbon and select Insert / Calendar:    ![2015-06-05_9-57-12.png](/PublishingImages/2015-06-05_9-57-12.png)
-<dd class="ssw15-rteElement-FigureNormal">Figure&#58; Ribbon Insert / Calendar<br></dd>
-2. Select your options to insert the fancy HTML calendar and .ICS file in to the email:    ![2015-06-05_9-57-27.png](/PublishingImages/2015-06-05_9-57-27.png)
-<dd class="ssw15-rteElement-FigureNormal">Figure&#58; Pick your calendar, date range, and amount of detail<br></dd>
-3. You now have a nice looking calendar showing your availability, ready to send:    ![2015-06-05_10-11-03.png](/PublishingImages/2015-06-05_10-11-03.png)
+1. New email in Outlook, go to the ribbon and select Insert / Calendar:    ![2015-06-05_9-57-12.png](2015-06-05_9-57-12.png)
+<dd class="ssw15-rteElement-FigureNormal">Figure: Ribbon Insert / Calendar<br></dd>
+2. Select your options to insert the fancy HTML calendar and .ICS file in to the email:    ![2015-06-05_9-57-27.png](2015-06-05_9-57-27.png)
+<dd class="ssw15-rteElement-FigureNormal">Figure: Pick your calendar, date range, and amount of detail<br></dd>
+3. You now have a nice looking calendar showing your availability, ready to send:    ![2015-06-05_10-11-03.png](2015-06-05_10-11-03.png)
 
-<dl><dl><dl><dd class="ssw15-rteElement-FigureNormal">Figure&#58; Pretty calendar ready to send via email</dd></dl></dl></dl>
+<dl><dl><dl><dd class="ssw15-rteElement-FigureNormal">Figure: Pretty calendar ready to send via email</dd></dl></dl></dl>
 
 
