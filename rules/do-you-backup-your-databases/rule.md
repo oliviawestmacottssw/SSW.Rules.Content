@@ -16,12 +16,12 @@ a. TfsActivityLogging
 b. TfsBuild
 c. TfsIntegration
 d. TfsVersionControl
-e. TfsWarehouse 
+e. TfsWarehouse 
 f. TfsWorkItemTracking
 g. TfsWorkItemTrackingAttachments
 Figure: If you can’t see the physical .bak file for all these, chase up your DBA
-2. Create a backup of the TFS2008 databases by running your Daily Backup maintenance plan on TFS2008 
-![](/PublishingImages/RunDailyBackup.png)
+2. Create a backup of the TFS2008 databases by running your Daily Backup maintenance plan on TFS2008 
+![](RunDailyBackup.png)
 Figure: Before starting, kick off the daily backups
 
 
