@@ -15,6 +15,6 @@ authors:
 
  </span>
 
-<p>To enable these policies&#58;</p><ol><li>Click Settings in the Team Explorer Home hub</li><li>Click Source Control in the Team Project section (not Team Project Collection)</li><li>Open the Check-in Policy tab</li><li>Click Add... and select the check-in policies above. If you don’t have SSW Code Auditor installed, <a href="https&#58;//www.ssw.com.au/ssw/codeauditor/" target="_blank">download it</a>&#160;here.​add<br></li></ol><dl class="image"><dt> <img src="/PublishingImages/checkin-policies.jpg" alt="check in policies" /> </dt><dd>Figure&#58; Choose check-in policies in TFS</dd></dl>​
+<p>To enable these policies&#58;</p><ol><li>Click Settings in the Team Explorer Home hub</li><li>Click Source Control in the Team Project section (not Team Project Collection)</li><li>Open the Check-in Policy tab</li><li>Click Add... and select the check-in policies above. If you don’t have SSW Code Auditor installed, <a href="https&#58;//www.ssw.com.au/ssw/codeauditor/" target="_blank">download it</a>&#160;here.​add<br></li></ol><dl class="image"><dt> <img src="checkin-policies.jpg" alt="check in policies" /> </dt><dd>Figure&#58; Choose check-in policies in TFS</dd></dl>​
 
 
