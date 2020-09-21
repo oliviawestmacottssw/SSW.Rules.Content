@@ -12,15 +12,15 @@ authors:
  
 As an Account Manager, you'll frequently be required to find a free resource to put onto a project.
 
-![yelling-whos-free.jpg](/PublishingImages/yelling-whos-free.jpg)​
-<dd class="ssw15-rteElement-FigureBad"> Figure&#58; Bad Example - Constantly yelling out &quot;who's free?&quot;&#160;<br></dd>
+![yelling-whos-free.jpg](yelling-whos-free.jpg)​
+<dd class="ssw15-rteElement-FigureBad"> Figure: Bad Example - Constantly yelling out "who's free?" <br></dd>
 Instead of going around and asking everyone “Who’s free next week?”, you should use the CRM Service Calendar.
 
 The calendar provides a one page view of everyone’s availability for a given time period. Here’s what you need to do to access it:
  
 
 
-1. Go to your company's CRM, e.g. [<font color="#3a66cc">http&#58;// crm.ssw.com.au</font>](http&#58;//crm.ssw.com.au/)
+1. Go to your company's CRM, e.g. [<font color="#3a66cc">http:// crm.ssw.com.au</font>](http://crm.ssw.com.au/)
 2. Click Service | Service Calendar
 3. Choose Month, Week, or Day view to suit your needs
 
@@ -28,6 +28,6 @@ The calendar provides a one page view of everyone’s availability for a given t
 All of the Appointments in the Service Calendar will also sync to the developers' Outlook calendars, keeping them up to date with where they need to be, when.
 
 You have multiple options for ways to fill this data, which you can see in [<font color="#333333">Scheduling - Do you know how to book developers for a project? </font>](/Pages/How-to-book-developers-for-a-project.aspx)
-<dl class="image"><dt><img alt="Toolbar CRM section in Inbox" src="/PublishingImages/CRMServiceCalendar.jpg" style="width&#58;600px;height&#58;280px;"></dt> <dd> Figure&#58; The&#160;Service Calendar in CRM is showing that Drew is available but Mehmet is busy next week </dd></dl>
-<font color="#555555">Suggestion to Microsoft&#58;&#160;One limitation of CRM is that you cannot send a URL to this page to someone, so they will have to navigate to it themselves</font>
+<dl class="image"><dt><img alt="Toolbar CRM section in Inbox" src="CRMServiceCalendar.jpg" style="width:600px;height:280px;"></dt> <dd> Figure: The Service Calendar in CRM is showing that Drew is available but Mehmet is busy next week </dd></dl>
+<font color="#555555">Suggestion to Microsoft: One limitation of CRM is that you cannot send a URL to this page to someone, so they will have to navigate to it themselves</font>
 <dl class="image"> </dl>
