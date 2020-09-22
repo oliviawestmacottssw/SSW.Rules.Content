@@ -25,4 +25,4 @@ So when do you change it?
 
 
 Remember, never forget the     [importance of a good email subject](/Pages/ImportanceOfAGoodSubject.aspx "Realize the Importance of a Good Email Subject") in improving communications.
-<dl class="image"><dt><img src="/PublishingImages/SarahPalin.jpg" alt=""></dt><dd>Figure&#58; Keep your email subject description up-to-date. Sarah Palin isn’t even a governor anymore</dd></dl>​   
+<dl class="image"><dt><img src="SarahPalin.jpg" alt=""></dt><dd>Figure: Keep your email subject description up-to-date. Sarah Palin isn’t even a governor anymore</dd></dl>​   
