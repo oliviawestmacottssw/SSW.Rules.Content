@@ -29,9 +29,9 @@ The way you present information to prospective clients determines its effectiven
 9. **System Requirements**
  The minimum system specifications to run the application.
 10. **Support**
- One of the most important attributes that customers of software products look for when they make a purchase is whether or not there will be support if they are stuck and having difficulties with the software. One very cost effective method of support is to provide a <br>      [knowledge base](http&#58;//www.ssw.com.au/ssw/KB/KBSearch.aspx) where customers are free to seek the answers to their own problems.
+ One of the most important attributes that customers of software products look for when they make a purchase is whether or not there will be support if they are stuck and having difficulties with the software. One very cost effective method of support is to provide a <br>      [knowledge base](http://www.ssw.com.au/ssw/KB/KBSearch.aspx) where customers are free to seek the answers to their own problems.
 
 
 
-![Organize your product information](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ScreenCodeAuditor.jpg) Figure: How to organize your product information.
+![Organize your product information](../../assets/ScreenCodeAuditor.jpg) Figure: How to organize your product information.
 
