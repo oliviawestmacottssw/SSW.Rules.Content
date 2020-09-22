@@ -9,24 +9,24 @@ authors:
 
 ---
 
- Making a responsive​ website work well on a mobile is not easy but with the right tools you can save time and avoid bugs. ​You should use Chrome DevTools Device Mode ​to test different screen sizes.​
+ Making a responsive​ website work well on a mobile is not easy but with the right tools you can save time and avoid bugs. ​You should use Chrome DevTools Device Mode ​to test different screen sizes.​
 
 
 
 
 
- 
+ 
  
 
-> ​​​![](/PublishingImages/bad-rules-testing-responsivewebsites.jpg)
+> ​​​![](bad-rules-testing-responsivewebsites.jpg)
 
-<dl class="bad" style="margin&#58;0px;line-height&#58;17px;padding-top&#58;10px;padding-bottom&#58;10px;padding-left&#58;20px;font-family&#58;arial, helvetica, sans-serif;"><dd style="padding-bottom&#58;7px;padding-left&#58;1.7em;margin-top&#58;-2px;margin-left&#58;0px;">Figure&#58; Bad example -&#160;Using your browser to test a responsive website layout.<br>​<img alt="2015-02-16_17-44-01.jpg" src="/PublishingImages/2015-02-16_17-44-01.jpg" style="margin&#58;5px;width&#58;500px;height&#58;510px;"><br></dd></dl><dl class="good" style="margin&#58;0px;padding-top&#58;10px;padding-bottom&#58;10px;padding-left&#58;20px;"><dd style="line-height&#58;17px;padding-bottom&#58;7px;padding-left&#58;1.7em;font-family&#58;arial, helvetica, sans-serif;margin-top&#58;-2px;margin-left&#58;0px;">Figure&#58; Good example -&#160;Using Device Mode &amp; Mobile Emulation in Chrome.</dd><ul><font color="#555555" face="arial, helvetica, sans-serif"><strong>How to test a responsive website with&#160;Chrome DevTools Device Mode&#160;</strong></font></ul><span style="line-height&#58;21px;font-family&#58;arial, helvetica, sans-serif;"><ol><li style="color&#58;#555555;">Watch this video below​</li><li style="color&#58;#555555;">Read the documentation on the <a href="https&#58;//developer.chrome.com/devtools/docs/device-mode">Chrome Developer Website.​</a></li></ol></span></dl>
-<iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/FrAZWiMWRa4" frameborder="0"></iframe> 
+<dl class="bad" style="margin:0px;line-height:17px;padding-top:10px;padding-bottom:10px;padding-left:20px;font-family:arial, helvetica, sans-serif;"><dd style="padding-bottom:7px;padding-left:1.7em;margin-top:-2px;margin-left:0px;">Figure: Bad example - Using your browser to test a responsive website layout.<br>​<img alt="2015-02-16_17-44-01.jpg" src="2015-02-16_17-44-01.jpg" style="margin:5px;width:500px;height:510px;"><br></dd></dl><dl class="good" style="margin:0px;padding-top:10px;padding-bottom:10px;padding-left:20px;"><dd style="line-height:17px;padding-bottom:7px;padding-left:1.7em;font-family:arial, helvetica, sans-serif;margin-top:-2px;margin-left:0px;">Figure: Good example - Using Device Mode & Mobile Emulation in Chrome.</dd><ul><font color="#555555" face="arial, helvetica, sans-serif"><strong>How to test a responsive website with Chrome DevTools Device Mode </strong></font></ul><span style="line-height:21px;font-family:arial, helvetica, sans-serif;"><ol><li style="color:#555555;">Watch this video below​</li><li style="color:#555555;">Read the documentation on the <a href="https://developer.chrome.com/devtools/docs/device-mode">Chrome Developer Website.​</a></li></ol></span></dl>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FrAZWiMWRa4" frameborder="0"></iframe> 
 
 
-**​Additional resources**<font color="#555555"><span style="font-size&#58;11px;"><br></span></font>
-- [Chrome Device Mode & Mobile Emulation​​](https&#58;//developer.chrome.com/devtools/docs/device-mode)
-- [CHRISPEDERICK.COM​​](http&#58;//chrispederick.com/work/web-developer/)
+**​Additional resources**<font color="#555555"><span style="font-size:11px;"><br></span></font>
+- [Chrome Device Mode & Mobile Emulation​​](https://developer.chrome.com/devtools/docs/device-mode)
+- [CHRISPEDERICK.COM​​](http://chrispederick.com/work/web-developer/)
 
 ​
 
