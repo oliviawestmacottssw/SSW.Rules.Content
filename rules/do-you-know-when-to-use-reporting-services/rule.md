@@ -16,7 +16,7 @@ authors: []
 
 **Pros**
 
-- You can develop read only reports faster in Reporting Services than ASP.NET
+- You can develop read only reports faster in Reporting Services than ASP.NET
 - Maintenance with RS is easier than ASP .NET, as with most cases you don't have to write any code
 - Flexibility with groupings and totals is easier. In ASP.NET you would need to iterate through the DataSet, keeping variables with the totals
 - Parameters are built-in. In ASP.NET there is code
@@ -26,8 +26,8 @@ authors: []
 
 So in conclusion, if you will only ever need 1 report, go with ASP.NET - it is easier to get up and running. If you plan to have more than one report, use Reporting Services - it's worth the time to configure.
 
-For a more detailed comparison between reporting solutions, take a look at our [Guidelines for Report Solutions - Web Clients](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperDotNet/guidelinesforreportingwebclient.aspx).
+For a more detailed comparison between reporting solutions, take a look at our [Guidelines for Report Solutions - Web Clients](http://www.ssw.com.au/ssw/Standards/DeveloperDotNet/guidelinesforreportingwebclient.aspx).
 
 
-![RSRulesUseRS1.gif](/PublishingImages/RSRulesUseRS1.gif)Figure: Reporting Services has built-in support for PDF/XLS export and can be embedded in your ASP.NET pages
+![RSRulesUseRS1.gif](RSRulesUseRS1.gif)Figure: Reporting Services has built-in support for PDF/XLS export and can be embedded in your ASP.NET pages
 
