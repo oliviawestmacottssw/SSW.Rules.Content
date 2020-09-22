@@ -21,7 +21,7 @@ Now we need to attach the database backup we took of our SharePoint 2007 server:
 
 1. In **SQL Server Management Studio** right click on **Databases** | **Restore Database…
 
-![](/PublishingImages/RestoreDatabase.png)
+![](RestoreDatabase.png)
 Figure 6 - Select “Restore Database”
 - Follow the prompts to restore your database
 **
@@ -31,7 +31,7 @@ Figure 6 - Select “Restore Database”
 Now we need to attach the content database to the web application:
 
 1. Open up the **SharePoint 2010 Management Shell** with administrative permissions.
-2. Run the following command to attach the database to the web application (replacing the red text to match your environment)<br>        **stsadm –o addcontentdb –url ****http://sp2010rc/**** –databaseserver &lt;DatabaseServerName&gt; –databasename &lt;ContentDatabaseName&gt;**
+2. Run the following command to attach the database to the web application (replacing the red text to match your environment)<br>        **stsadm –o addcontentdb –url ****http://sp2010rc/**** –databaseserver  –databasename **
 3. After the database has been restored you will get a status message telling you how the upgrade went, with the path to a log file. Send this file to the SharePoint developers to determine if any issues occurred during the migration
 
 
