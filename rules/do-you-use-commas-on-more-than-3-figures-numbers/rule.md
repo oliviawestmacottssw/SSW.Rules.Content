@@ -11,11 +11,11 @@ authors:
 
 ---
 
- In numbers of more than 3​ digits,​ always use commas.​​ This makes reading much easier. <dl class="badImage"><dt> 
-      <img src="/PublishingImages/numbers-bad-example.png" alt="numbers-bad-example.png"> 
-   </dt><dd>Figure&#58; Bad example&#58; No commas make it harder to read </dd></dl><dl class="goodImage">   <dt> 
-      <img src="/PublishingImages/numbers-good-example.png" alt="numbers-good-example.png"> 
-   </dt><dd>Figure&#58; Good example&#58; Commas make it easier to read </dd></dl> **Note:** Numbers which normally do not take commas are:
+ In numbers of more than 3​ digits,​ always use commas.​​ This makes reading much easier. <dl class="badImage"><dt> 
+      <img src="numbers-bad-example.png" alt="numbers-bad-example.png"> 
+   </dt><dd>Figure: Bad example: No commas make it harder to read </dd></dl><dl class="goodImage">   <dt> 
+      <img src="numbers-good-example.png" alt="numbers-good-example.png"> 
+   </dt><dd>Figure: Good example: Commas make it easier to read </dd></dl> **Note:** Numbers which normally do not take commas are:
 
 
 - ZIP codes
@@ -25,8 +25,8 @@ authors:
 - Dates of years
 
 
-**Note 2​:** Different countries use a periods in place of comma and vice-versa. 
-E.g. In United States and Australia: **2,367.48 francs** / In France: **2.367,48 francs**.
+**Note 2​:** Different countries use a periods in place of comma and vice-versa. 
+E.g. In United States and Australia: **2,367.48 francs** / In France: **2.367,48 francs**.
 
 
 
