@@ -12,7 +12,7 @@ authors:
 
 After you have finished migrating the database, it is extremely important to verify that no data has been lost in the move. The quickest way to do this is to compare the SharePoint 2007 and the SharePoint 2010 server **All Site Content** pages and confirm that the item numbers match:
 
-![](/PublishingImages/AllSiteContentCount.png)
+![](AllSiteContentCount.png)
 
 **Figure 7 – In the "All Site Content" pages library, ensure the ‘item’ numbers exactly match between SharePoint 2007 and SharePoint 2010**
 
