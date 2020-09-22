@@ -8,4 +8,4 @@ authors: []
 ---
 
  Often clients will call up asking for a short task to be performed. You need to know how to let them know that the time will be charged. <br> If it was a quick 5 mins I would do it straight away... however I need to do a little investigation... first impression is that it might take me a couple of hours... if that is OK then I would need you to authorize me to go ahead. 
-<br>    Let me know... Good example ![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DealingwithClients-Floodgates.jpg) Figure: Careful! One small free task can turn into a dam-breaking torrent of free work. 
+<br>    Let me know... Good example ![](../../assets/DealingwithClients-Floodgates.jpg) Figure: Careful! One small free task can turn into a dam-breaking torrent of free work. 
