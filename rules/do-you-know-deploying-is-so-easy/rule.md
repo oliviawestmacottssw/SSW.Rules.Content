@@ -13,16 +13,16 @@ authors:
 
 <br>For example: <br> 
 - Web Clients
-    - Right click "Publish" (recommended if you can directly connect) 
+    - Right click "Publish" (recommended if you can directly connect) 
 <br>        or
     - Right click "Create Package"
-<br>         <br>        ![](/PublishingImages/PublishWeb.jpg) Figure: For a web app it is just one click
+![](PublishWeb.jpg) Figure: For a web app it is just one click
 - Rich Clients
-    - Right click "Publish" (recommended if you can use ClickOnce) 
+    - Right click "Publish" (recommended if you can use ClickOnce) 
 <br>        or
     - Right click "Create Setup" (Suggestion to Microsoft as menu doesn't exist)
 
-![](/PublishingImages/PublishRichClient.jpg) Figure: For a Windows clients it is also just one click
-- The Database<br>    ![](/PublishingImages/PublishDatabase.jpg) Figure: For the Database it is ..... well one click is what you need to aim for
+![](PublishRichClient.jpg) Figure: For a Windows clients it is also just one click
+- The Database<br>    ![](PublishDatabase.jpg) Figure: For the Database it is ..... well one click is what you need to aim for
 
  Now all this works beautifully first time, when there is no existing database... and no existing data to worry about. Now you have a reason to read the rest of the rules :-)    
