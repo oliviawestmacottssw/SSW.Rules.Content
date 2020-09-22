@@ -18,14 +18,14 @@ The reasons are:
 
 
 PS: One reason web UI's are nice, is that the information is always selectable/copyable.
-<dl class="badImage"><dt><img alt="Long string cut off when you are using label" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BetterInterface_LabelCutOff.jpg"></dt>
-<dd>Figure&#58; Bad Example - Not only is the data cut off when you are using label, but you can't copy and paste the value</dd></dl><dl class="goodImage"><dt><img alt="Using Textbox is better practice" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodTextbox.gif"></dt>
-<dd>Figure&#58; Good Example - Using Textbox controls makes the data obvious to users</dd></dl>
+<dl class="badImage"><dt><img alt="Long string cut off when you are using label" src="../../assets/BetterInterface_LabelCutOff.jpg"></dt>
+<dd>Figure: Bad Example - Not only is the data cut off when you are using label, but you can't copy and paste the value</dd></dl><dl class="goodImage"><dt><img alt="Using Textbox is better practice" src="../../assets/GoodTextbox.gif"></dt>
+<dd>Figure: Good Example - Using Textbox controls makes the data obvious to users</dd></dl>
 As you can see you'll barely know the difference, so start using Textboxes for displaying data, that's good practice.
 
 #### More Information
 
 When using TextBox controls in Windows Forms, set them up like this:
-<dl class="image"><dt><img alt="Using Textbox is better practice" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BorderStyle_1.gif"></dt>
-<dd>Figure&#58; Having the 'BorderStyle' Property set to Fixed3D is the best choice visually</dd></dl><dl class="image"><dt><img alt="Using Textbox is better practice" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ReadOnly_1.gif"></dt>
-<dd>Figure&#58; Make the text box Read-Only (users copying data is OK, changing is silly)</dd></dl>
+<dl class="image"><dt><img alt="Using Textbox is better practice" src="../../assets/BorderStyle_1.gif"></dt>
+<dd>Figure: Having the 'BorderStyle' Property set to Fixed3D is the best choice visually</dd></dl><dl class="image"><dt><img alt="Using Textbox is better practice" src="../../assets/ReadOnly_1.gif"></dt>
+<dd>Figure: Make the text box Read-Only (users copying data is OK, changing is silly)</dd></dl>
