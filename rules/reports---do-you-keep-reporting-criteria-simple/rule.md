@@ -15,7 +15,7 @@ authors: []
     - Also it is disorientating for the user to have this as a selection
 
  <dl class="image"><dt> 
-      <img border="1" alt="Reporting Criteria" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GraphInterface.gif" style="margin&#58;5px;width&#58;600px;">
+      <img border="1" alt="Reporting Criteria" src="../../assets/GraphInterface.gif" style="margin:5px;width:600px;">
    </dt></dl>
-More     [Options for Reporting](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperDotNet/GuidelinesForReporting.aspx)
+More     [Options for Reporting](http://www.ssw.com.au/ssw/Standards/DeveloperDotNet/GuidelinesForReporting.aspx)
 
