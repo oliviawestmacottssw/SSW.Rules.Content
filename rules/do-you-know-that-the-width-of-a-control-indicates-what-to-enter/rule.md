@@ -9,4 +9,4 @@ authors: []
 
  
 The widths of the fields indicate to a user the data that goes in it. Do not use a large width field when you know the entry will have only few characters (the same for small fields and large entries)
-   ​![Field width](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/field-width.jpg)Figure: Bad Example - The 'Data Retention Days' field should be reduced
+   ​![Field width](../../assets/field-width.jpg)Figure: Bad Example - The 'Data Retention Days' field should be reduced
