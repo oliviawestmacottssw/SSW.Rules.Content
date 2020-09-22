@@ -12,7 +12,7 @@ authors:
 ---
 
  
-Facebook has a call-to-action feature that helps Pages drive business objectives. These call-to-action buttons link to any destination on or off Facebook that aligns with a business’s goals.
+Facebook has a call-to-action feature that helps Pages drive business objectives. These call-to-action buttons link to any destination on or off Facebook that aligns with a business’s goals.
 
 Page admins can select from a group of call-to-action buttons:
 
@@ -29,6 +29,6 @@ Page admins can select from a group of call-to-action buttons:
 
 
  
-​​For services or apps, you should use the "Watch Video" one. Video is flooding the online marketplace and is quickly becoming a marketing standard to convey your message.​ ​If you don't have a video yet, visit <br>      [SSW's Video Services pages](http&#58;//www.ssw.com.au/ssw/Consulting/Video-Production/) to make a creative and engaging ​video for your company.
-![watch-video-facebook.png](/PublishingImages/watch-video-facebook.png)Figure: Good Example - Take the Facebook visitor to watch your video​
+​​For services or apps, you should use the "Watch Video" one. Video is flooding the online marketplace and is quickly becoming a marketing standard to convey your message.​ ​If you don't have a video yet, visit <br>      [SSW's Video Services pages](http://www.ssw.com.au/ssw/Consulting/Video-Production/) to make a creative and engaging ​video for your company.
+![watch-video-facebook.png](watch-video-facebook.png)Figure: Good Example - Take the Facebook visitor to watch your video​
 
