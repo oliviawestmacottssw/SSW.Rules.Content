@@ -14,7 +14,7 @@ The corner stone of good user interface design is that if your users need instru
 - There is no need to use help
 - No excuse for RTFM (read the freaking manual)
 
-![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/SelfEvident.gif)Figure: A good interface does not need instructions!
+![](../../assets/SelfEvident.gif)Figure: A good interface does not need instructions!
 A good UI is:
 
 - Intuitive
@@ -32,11 +32,11 @@ A good UI is:
 
 **Suggested reading:**
 
-- [The Design of Everyday Things: Revised and Expanded Edition (Nov 2013)](https&#58;//www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
-- [Don’t Make Me Think, Revisited (3rd Edition)](https&#58;//www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
+- [The Design of Everyday Things: Revised and Expanded Edition (Nov 2013)](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
+- [Don’t Make Me Think, Revisited (3rd Edition)](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 
 
 
 
 
-![Team Viewer Interface](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodUITeamViewer.png)Figure: Good example - Teamviewer's interface requires very little explanation![Fly in a Urinal](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/FlyInUrinal.jpg)Figure: Good Example - See the fly? (an example of excellent usability) Dutch manufacturers realized that a fly painted on the urinal became a "target" for men using the facility. And the fly is positioned in precisely the right place for minimal spillage or splash back. Clever people those Dutch!
+![Team Viewer Interface](../../assets/GoodUITeamViewer.png)Figure: Good example - Teamviewer's interface requires very little explanation![Fly in a Urinal](../../assets/FlyInUrinal.jpg)Figure: Good Example - See the fly? (an example of excellent usability) Dutch manufacturers realized that a fly painted on the urinal became a "target" for men using the facility. And the fly is positioned in precisely the right place for minimal spillage or splash back. Clever people those Dutch!
