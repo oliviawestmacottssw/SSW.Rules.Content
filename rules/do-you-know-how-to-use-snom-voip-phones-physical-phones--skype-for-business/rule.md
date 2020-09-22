@@ -10,29 +10,29 @@ authors: []
  
 ​​
 
- 
+ 
 
-Using SNOM phones, transferring a call, creating a conference call, or making an internal call, is very easy. ​ ​
+Using SNOM phones, transferring a call, creating a conference call, or making an internal call, is very easy. ​ ​
  **Transferring a call**
 
-- While speaking to Mr Northwind, press <br>         ![Hold.png](/PublishingImages/Hold.png)*(Hold)*
-- Press <br>         ![Directory.png](/PublishingImages/Directory.png)*(Directory)*. Then choose a person from the list, press <br>         ![Tick.png](/PublishingImages/Tick.png)*(Tick)*
+- While speaking to Mr Northwind, press <br>         ![Hold.png](Hold.png)*(Hold)*
+- Press <br>         ![Directory.png](Directory.png)*(Directory)*. Then choose a person from the list, press <br>         ![Tick.png](Tick.png)*(Tick)*
 **OR**
- Dial the external number, press <br>         ![](/PublishingImages/Tick.png)*(Tick)*
+ Dial the external number, press <br>         ![](Tick.png)*(Tick)*
 - Tell the staff member "Mr Northwind for you"
-- Press <br>         ![Transfer.png](/PublishingImages/Transfer.png)*(Transfer)*, press <br>         ![](/PublishingImages/Tick.png)*(Tick)*
+- Press <br>         ![Transfer.png](Transfer.png)*(Transfer)*, press <br>         ![](Tick.png)*(Tick)*
 
 
 
 
 **Making a Conference Call (up to 5 people)**
 
-- While speaking to Mr Northwind, press <br>         ![](/PublishingImages/Hold.png)*(Hold)*
-- Press <br>         ![](/PublishingImages/Directory.png)*(Directory)*. Then choose a person from the list, press <br>         ![](/PublishingImages/Tick.png)*(Tick)*
+- While speaking to Mr Northwind, press <br>         ![](Hold.png)*(Hold)*
+- Press <br>         ![](Directory.png)*(Directory)*. Then choose a person from the list, press <br>         ![](Tick.png)*(Tick)*
 **OR**
- Dial the external number, press <br>         ![](/PublishingImages/Tick.png)*(Tick)*
+ Dial the external number, press <br>         ![](Tick.png)*(Tick)*
 - Tell the staff member "Adding you to a conference call"
-- Press <br>         ![Conference.png](/PublishingImages/Conference.png)*(Conference)* to start the conference
+- Press <br>         ![Conference.png](Conference.png)*(Conference)* to start the conference
 
 
 
@@ -40,11 +40,11 @@ Using SNOM phones, transferring a call, creating a conference call, or making an
 **Making an Internal Call**
 
 - Lift handset (or press speaker)
-- Press <br>         ![](/PublishingImages/Directory.png)*(Directory)*
+- Press <br>         ![](Directory.png)*(Directory)*
 - Choose a person
-- Press <br>         ![](/PublishingImages/Tick.png)*(Tick)*
+- Press <br>         ![](Tick.png)*(Tick)*
 
 
 
-Read more about     [​](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx)[implementing Skype for Business​.​​](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx)
+Read more about     [​](http://www.ssw.com.au/ssw/Consulting/Lync.aspx)[implementing Skype for Business​.​​](http://www.ssw.com.au/ssw/Consulting/Lync.aspx)
 
