@@ -8,7 +8,7 @@ authors: []
 ---
 
  
-AzureSearch is designed to work with Azure based data and runs on ElasticSearch. It is still NEW as of today (27/4/2015) and doesn't expose all the advanced search features. You may resist to choose it as your search engine from the missing features and what seems to be an expensive monthly fee ($250 as of today). If this is the case, follow this rule:
+AzureSearch is designed to work with Azure based data and runs on ElasticSearch. It is still NEW as of today (27/4/2015) and doesn't expose all the advanced search features. You may resist to choose it as your search engine from the missing features and what seems to be an expensive monthly fee ($250 as of today). If this is the case, follow this rule:
 
 **Consider AzureSearch if your website**:
 
@@ -20,14 +20,14 @@ AzureSearch is designed to work with Azure based data and runs on ElasticSearch
 
 
 
-**Consider ElasticSearch if your website**:
+**Consider ElasticSearch if your website**:
 
 1. Requries advance search features that aren't supported by AzureSearch
 
 
 
 
-Keep in mind that 1) hosting of a full-text search service costs you labour to set up and maintain the infrastructure, and 2) a single Azure VM can cost you up to $450. So do not drop AzureSearch option unless the missing features are absolutely necessary for your site
+Keep in mind that 1) hosting of a full-text search service costs you labour to set up and maintain the infrastructure, and 2) a single Azure VM can cost you up to $450. So do not drop AzureSearch option unless the missing features are absolutely necessary for your site
 
 
 
@@ -39,9 +39,9 @@ Keep in mind that 1) hosting of a full-text search service costs you labour to
 
 ​ ​​​
 
-​​​​![Untitled2.png](/PublishingImages/9c0754_Untitled2.png)
+​​​​![Untitled2.png](9c0754_Untitled2.png)
  Figure: Good Example - Azure website using AzureSearch for what it can deliver today 
 
 
-​​​​![Untitled.png](/PublishingImages/Untitled.png)
+​​​​![Untitled.png](Untitled.png)
 Figure: Bad Example - Azure website using ElasticSearch for a simple search that AzureSearch can do
