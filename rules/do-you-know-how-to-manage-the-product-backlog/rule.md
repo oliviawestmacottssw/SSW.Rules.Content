@@ -11,7 +11,7 @@ authors:
 
 ---
 
- The Product Owner (PO) is responsible for managing the Product Backlog. This includes the following: <br>![PO Tasks](/PublishingImages/po-tasks.jpg)Figure: PO responsibilities regarding the Backlog from the <br>      [“What is a Product Owner”​ video](http&#58;//www.youtube.com/watch?v=3eljozEWpf8)​ 
+ The Product Owner (PO) is responsible for managing the Product Backlog. This includes the following: <br>![PO Tasks](po-tasks.jpg)Figure: PO responsibilities regarding the Backlog from the <br>      [“What is a Product Owner”​ video](http://www.youtube.com/watch?v=3eljozEWpf8)​ 
 1. Create clear PBIs
 2. Order them by priority level
 3. Make sure they’re useful to the business
