@@ -18,4 +18,4 @@ Getting attendees at a course or presentation involved has many benefits:
 
 
 The easiest way to get attendees involved is to promote a social media​ hashtag at the beginning of every presentation or course.
-![](/PublishingImages/presentation-promote-bad.jpg)Figure: Bad Example – Presentation title slide does not promote attendee involvement![](/PublishingImages/presentation-promote-good.jpg)Figure: Good Example – Promoting a Twitter backchannel promotes online discussion and feedback
+![](presentation-promote-bad.jpg)Figure: Bad Example – Presentation title slide does not promote attendee involvement![](presentation-promote-good.jpg)Figure: Good Example – Promoting a Twitter backchannel promotes online discussion and feedback
