@@ -14,4 +14,4 @@ It's a good idea to make sure your page names are consistent       between:
 2. Page Title
 3. Navigation
 
- ![](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/BadPageName.jpg)Figure: Bad example - Inconsistency everywhere!![](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/GoodPageName.jpg)Figure: Good example - Title, Header and Navigation Menu item have the same text.
+ ![](../../assets/BadPageName.jpg)Figure: Bad example - Inconsistency everywhere!![](../../assets/GoodPageName.jpg)Figure: Good example - Title, Header and Navigation Menu item have the same text.
