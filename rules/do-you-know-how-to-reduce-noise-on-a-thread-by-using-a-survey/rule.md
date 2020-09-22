@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Reducing noise in email threads is easy now we have Office365 and OneDrive.  
+ Reducing noise in email threads is easy now we have Office365 and OneDrive.  
 Sometimes when organising or planning you will need to gather responses from a lot of people, but having many people reply to the email can create a long and messy thread.
 
 
@@ -23,12 +23,12 @@ An easy alternative to this is to use Office365 in OneDrive to create a survey i
 
 
 
-![](/PublishingImages/Bad-Example-too-many-emails.png)
+![](Bad-Example-too-many-emails.png)
 
-​​Figure: Bad example – a simple “X or Y?” question thread generated dozens of responses that clogged up the inboxes of the recipients 
+​​Figure: Bad example – a simple “X or Y?” question thread generated dozens of responses that clogged up the inboxes of the recipients 
 
-![](/PublishingImages/Good-Example-Invite-to-Survey.png)
+![](Good-Example-Invite-to-Survey.png)
 
-​Figure: Good example – send an email with a link to a survey instead of asking for replies ​
-​For a quick introduction to how to use Office365 from OneDrive, watch this video:  ​
+​Figure: Good example – send an email with a link to a survey instead of asking for replies ​
+​For a quick introduction to how to use Office365 from OneDrive, watch this video:  ​
 
