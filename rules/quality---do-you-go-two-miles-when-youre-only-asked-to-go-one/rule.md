@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​                     This idea is different from the above rules in that it strikes at the heart of our                     everyday behaviour, not just when a crisis is looming. [Jesus of Nazareth](http&#58;//www.biblegateway.com/passage/?search=matt%205&#58;41&amp;version=NKJV%3b) said:
+​                     This idea is different from the above rules in that it strikes at the heart of our                     everyday behaviour, not just when a crisis is looming. [Jesus of Nazareth](http://www.biblegateway.com/passage/?search=matt%205:41&version=NKJV%3b) said:
 
 
 "And whoever compels you to go one mile, go with him two."
@@ -25,6 +25,6 @@ While not everyone chooses                     to agree with everything He said,
 - The sense of work-place isolation disappears​
 - Productivity lifts as tasks can be achieved quicker
 
-![CowsBum.JPG](/PublishingImages/CowsBum.JPG)​Figure: Going​ the extra mile​
-T​his rule particularly applies when a person is [blocked](/Pages/Ask-questions-where-you-are-stuck.aspx)​– as identified in their Daily Scrum.
+![CowsBum.JPG](CowsBum.JPG)​Figure: Going​ the extra mile​
+T​his rule particularly applies when a person is [blocked](/Pages/Ask-questions-where-you-are-stuck.aspx)​– as identified in their Daily Scrum.
 
