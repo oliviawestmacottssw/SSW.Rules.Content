@@ -10,9 +10,9 @@ authors: []
  Some tasks are either time-critical or you give a promise to do them promptly. It's very important that these tasks are given a high priority. 
  
 If you're not going to be able to deliver a task on-time, you should let the appropriate people know right away.
-![A ticking clock](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/tickingclock.JPG)Figure: Some tasks are time critical. If you have agreed on something then notify the person when you know you will miss the deadline.​
+![A ticking clock](../../assets/tickingclock.JPG)Figure: Some tasks are time critical. If you have agreed on something then notify the person when you know you will miss the deadline.​
 
-You could use your Inbox as a priority list by sending yourself email with an estimate and the priority. Also you are supposed CC other who you think should know about this, so that they could give you some advice and know what is going on here. (Link:        [do-you​-send-yourself-emails​)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=5c16d531-007d-49ef-8acc-b26596e13e84)​
+You could use your Inbox as a priority list by sending yourself email with an estimate and the priority. Also you are supposed CC other who you think should know about this, so that they could give you some advice and know what is going on here. (Link:        [do-you​-send-yourself-emails​)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=5c16d531-007d-49ef-8acc-b26596e13e84)​
 ​<br>   
 ​
 
