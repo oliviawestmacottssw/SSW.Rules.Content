@@ -16,13 +16,13 @@ When implementing search on a website, do you know that it is best to highlight 
 
 
 
-![2014-08-07_15-48-11-before-compressor.png](/PublishingImages/2014-08-07_15-48-11-before-compressor.png)
+![2014-08-07_15-48-11-before-compressor.png](2014-08-07_15-48-11-before-compressor.png)
 
 **Figure: Search for items with these tags**
 
 
 
-![2014-08-07_15-47-15-after-compressor.png](/PublishingImages/2014-08-07_15-47-15-after-compressor.png)
+![2014-08-07_15-47-15-after-compressor.png](2014-08-07_15-47-15-after-compressor.png)
 
 **Figure: Search results have their relevant tags highlighted**
 
