@@ -20,11 +20,11 @@ It is important to use terminology that your users will understand. Do not to us
 - Ran out of memory.
 - You may be out of memory.
 
-<dl class="badImage"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Bad-MessageBoxZango.jpg" alt=""></dt>
-<dd>Figure&#58; Bad Example - Is it OK to Cancel?</dd></dl>
+<dl class="badImage"><dt><img src="../../assets/Bad-MessageBoxZango.jpg" alt=""></dt>
+<dd>Figure: Bad Example - Is it OK to Cancel?</dd></dl>
 Microsoft uses this one:
-<dl class="goodImage"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/NotEnoughMemory.gif" alt="Not Enough Memory"></dt>
-<dd>Figure&#58; Good Example - Microsoft error message is concise</dd></dl>
+<dl class="goodImage"><dt><img src="../../assets/NotEnoughMemory.gif" alt="Not Enough Memory"></dt>
+<dd>Figure: Good Example - Microsoft error message is concise</dd></dl>
 Some other message types that Microsoft uses are:
 
 
