@@ -16,7 +16,7 @@ authors:
 **SRP The Single Responsibility Principle**
 A class should have one, and only one reason to change.
 
-**OCP The Open Closed Principle 
+**OCP	The Open Closed Principle 
 **You should be able to extend a class's behavior without modifying it.
 
 **LSP The Liskov Substitution Principle 
@@ -25,7 +25,7 @@ A class should have one, and only one reason to change.
 **ISP The Interface Seg​regation Principle 
 **Make fine-grained interfaces that are client specific.
 
-**DIP The Dependency Inversion Principle 
+**DIP	The Dependency Inversion Principle 
 **Depend on abstractions, not on concretions.
 
  Figure: Your code should be using <br>   [SOLID principles​​](https&#58;//en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)​
