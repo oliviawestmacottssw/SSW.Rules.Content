@@ -12,9 +12,9 @@ authors:
  
 ​SkypePOP is an easy to use screen pop application that supports Office 365, Microsoft Skype for Business and Microsoft Dynamics CRM and CRM Online, maximizing your investment in these two leading applications.
 
-Even though it works great for direct calls on Skype for Business, transferred calls will not show the CRM entry of the person being transferred. This is because SkypePOP will always recognize the person who transfers the call as the actual caller.
+Even though it works great for direct calls on Skype for Business, transferred calls will not show the CRM entry of the person being transferred. This is because SkypePOP will always recognize the person who transfers the call as the actual caller.
  
-SkypePOP can be purchased from     [appVnet website](http&#58;//www.appvnet.com/).
+SkypePOP can be purchased from     [appVnet website](http://www.appvnet.com/).
 
 ### SkypePOP Features and Benefits
 
@@ -27,17 +27,17 @@ SkypePOP can be purchased from     [appVnet website](http&#58;//www.appvnet.com/
 - Presence Aware – control over what the application does based on Lync/OCS presence
 - Phone Activity – provides multiple options to record the call against a CRM record​
 
-![lyncPOP-options.png](/SiteAssets/do-you-integrate-crm-with-microsoft-lync/lyncPOP-options.png)Figure: SkypePOP advanced options
+![lyncPOP-options.png](lyncPOP-options.png)Figure: SkypePOP advanced options
 This tool is vital for sales staff and receptionists as a minimum.     
 Receptionists get the client record (based upon the inbound number) popup as the phone is ringing. They can answer the call accordantly. Sales staff has the ability to log the call in CRM along with what the call was about and also set a reminder for them to catch up in a few days.
 
-Read more about     [implementing Microsoft Lync](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx).
+Read more about     [implementing Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).
 
 ### SkypePOP​​ Setup​​
 
 
-​​​![2016-12-02_15-14-23.jpg](/SiteAssets/do-you-integrate-crm-with-microsoft-lync/2016-12-02_15-14-23.jpg)
-​Figure: Good example - use the discovery service of your CRM (connect using &lt;yourname&gt;@&lt;yourdomain&gt; as a username)
+​​​![2016-12-02_15-14-23.jpg](2016-12-02_15-14-23.jpg)
+​Figure: Good example - use the discovery service of your CRM (connect using @ as a username)
 
 
 
