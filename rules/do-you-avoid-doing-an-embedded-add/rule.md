@@ -9,7 +9,7 @@ authors: []
 
  
 For any case of 'Add New', choose to open a new window (popup) for entering data.
- ![The 'Add New' button should open a new form](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/EmbeddedAdd.jpg)Figure: The 'Add New' button changes from a view into a data entry form![The 'Add New' did not open a new form](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BadEmbeddedAdd.jpg)Figure: Bad Example - The 'Add New' button, shown in Figure 1, opened the page in the same window
+ ![The 'Add New' button should open a new form](../../assets/EmbeddedAdd.jpg)Figure: The 'Add New' button changes from a view into a data entry form![The 'Add New' did not open a new form](../../assets/BadEmbeddedAdd.jpg)Figure: Bad Example - The 'Add New' button, shown in Figure 1, opened the page in the same window
 It is better to open in a new form, reasons being:
 
 - It is better for the user in terms of clarity. The change of view to data entry form can be a surprise
@@ -19,4 +19,4 @@ It is better to open in a new form, reasons being:
 However, you do need to call back on save and requery it.
  Use a modal form and requery it (DON'T use JavaScript, instead use the Modal Popup Form Example)
  An example of this is in Outlook with the 'New' button.
-![The 'New' opens a new form](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodEmbeddedAdd.jpg)Figure: Good Example - the 'New' button in Outlook opens a new form for you to construct your email![Adding a new table in SharePoiny](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/sharepoint-add-table.jpg)Figure: Adding a table in SharePoint have a popup with dimmed background
+![The 'New' opens a new form](../../assets/GoodEmbeddedAdd.jpg)Figure: Good Example - the 'New' button in Outlook opens a new form for you to construct your email![Adding a new table in SharePoiny](../../assets/sharepoint-add-table.jpg)Figure: Adding a table in SharePoint have a popup with dimmed background
