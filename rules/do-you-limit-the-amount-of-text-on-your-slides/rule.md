@@ -7,4 +7,4 @@ authors: []
 
 ---
 
- Your audience cannot listen to you and read your slides at the same time. Therefore, you should not show too much text on your slides. The best presenters use hardly any text at all in their slides.<br> ![Too much text-content in one single slide](/PublishingImages/BadLessText.jpg) Figure: Bad Example - Too much text/content on this slide![](/PublishingImages/GoodLessText.jpg) Figure: Good Example - Less is more
+ Your audience cannot listen to you and read your slides at the same time. Therefore, you should not show too much text on your slides. The best presenters use hardly any text at all in their slides.<br> ![Too much text-content in one single slide](BadLessText.jpg) Figure: Bad Example - Too much text/content on this slide![](GoodLessText.jpg) Figure: Good Example - Less is more
