@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​Carrying your laptop with the right stuff installed is not enough. 
+ ​Carrying your laptop with the right stuff installed is not enough. 
 
 <br>Not only software, carrying your own hardware and peripherals will save you hours one day: 
 
@@ -17,7 +17,7 @@ authors:
 
 
 
-| ![Carry the right tools and you'll rescue someone, one day...](/PublishingImages/StBernardDog.jpg)  |
+| ![Carry the right tools and you'll rescue someone, one day...](StBernardDog.jpg)  |
 | --- |
 | Figure: St. Bernards are known for rescuing lost mountaineers, bringing life saving provisions |
 
@@ -31,8 +31,8 @@ authors:
 - An external hard drive (a personal choice, but 750 GB if a good choice if you have lots of 10+ GB VMs)
 - Software DVD's (generally you can keep the .ISOs of MS Office and Visual Studio D:\DataSetup\ISOs\)
 - Current brochures - Hand them out to interested clients
-- [User story cards](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard) - These help Product owners create user stories
-- [Evaluation forms](http&#58;//www.ssw.com.au/ssw/NETUG/UGEvaluationSurvey.aspx) - Ask for feedback if you did a presentation
+- [User story cards](http://www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard) - These help Product owners create user stories
+- [Evaluation forms](http://www.ssw.com.au/ssw/NETUG/UGEvaluationSurvey.aspx) - Ask for feedback if you did a presentation
 - Even a text book or two
 
 
@@ -41,7 +41,7 @@ We have one guy in our office who carries two bags, each weighing about 10 kgs. 
  If you need to quickly share something with your mate:
 
 - Use a thumb drive that you carry as per [Rules to better Software Consultants - Carry a thumb drive](/do-you-carry-your-usb-flash-drive-on-your-key-ring)
-- Setup a wireless ad hoc network as per [http://www.addictivetips.com/windows-tips/create-a-quick-ad-hoc-wireless-network-connection-between-two-computers-in-windows-vista/](http&#58;//www.addictivetips.com/windows-tips/create-a-quick-ad-hoc-wireless-network-connection-between-two-computers-in-windows-vista/) ​
+- Setup a wireless ad hoc network as per http://www.addictivetips.com/windows-tips/create-a-quick-ad-hoc-wireless-network-connection-between-two-computers-in-windows-vista/ ​
 
 
 
