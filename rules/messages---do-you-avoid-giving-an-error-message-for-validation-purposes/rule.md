@@ -9,7 +9,7 @@ authors: []
 
  
 If you do a search and no matches are found, display a message indicating zero results were returned rather than an error message.
-![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/InappropriateError.gif)Figure: Bad Example - No matches found on searching is not an "Error"   ​
+![](../../assets/InappropriateError.gif)Figure: Bad Example - No matches found on searching is not an "Error"   ​
 However, a user thinks that either:
 
 1. They have done something wrong (i.e. they are incompetent) OR
@@ -19,4 +19,4 @@ However, a user thinks that either:
 Forcing the user into this opinion is a good way to make them avoid using your software in the future.
 
 Instead, use the term "Information" when validation is required.
-![Appro](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/AppropriateMessage.gif)Figure: Good Example - Only use "Error" when appropriate
+![Appro](../../assets/AppropriateMessage.gif)Figure: Good Example - Only use "Error" when appropriate
