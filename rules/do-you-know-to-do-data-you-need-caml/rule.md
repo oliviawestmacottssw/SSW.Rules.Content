@@ -20,11 +20,11 @@ In SharePoint development, you will also need to know CAML, in particular, how t
 
 
 
-[Introduction to Collaborative Application Markup Language (CAML)](http&#58;//msdn.microsoft.com/en-us/library/ms426449.aspx)
- 
+[Introduction to Collaborative Application Markup Language (CAML)](http://msdn.microsoft.com/en-us/library/ms426449.aspx)
+ 
 
 
-[Query Schema](http&#58;//msdn.microsoft.com/en-us/library/ms467521.aspx)
+[Query Schema](http://msdn.microsoft.com/en-us/library/ms467521.aspx)
 
 
 
@@ -33,24 +33,24 @@ In SharePoint development, you will also need to know CAML, in particular, how t
 
 
 ```
-<Query>    <OrderBy>        <FieldRef Name="Modified" Ascending="FALSE"></FieldRef>    </OrderBy>    <Where>        <And>            <Neq>                <FieldRef Name="Status"></FieldRef>                <Value Type="Text">Completed</Value>            </Neq>            <IsNull>                <FieldRef Name="Sent"></FieldRef>            </IsNull>        </And>    </Where></Query>
+Completed
 ```
 
-Figure: Example of CAML query 
+Figure: Example of CAML query 
 You can see - CAML is essentially the same as SQL WHERE syntax, but wrapped in an XML format.
 
 Problems with CAML:
 
-1. CAML is XML and is case sensitive – including attributes names. 
+1. CAML is XML and is case sensitive – including attributes names. 
 
 ```
-<Query>    <Where>        <Or>            <Eq>              <FieldRef name="Status" />             <Value Type="Text">Completed</Value>            </Eq>            <IsNull>                <FieldRef Name="Status" />            </IsNull>        </Or>    </Where></Query>
+name="Status" />             Completed                                        Name="Status" />
 ```
 
-     Figure: Example of CAML query
-2. SharePoint is not good at telling you if you made a mistake with your CAML query. ![](/PublishingImages/CAMLError.png)      Figure: Debug error message
+     Figure: Example of CAML query
+2. SharePoint is not good at telling you if you made a mistake with your CAML query. ![](CAMLError.png)      Figure: Debug error message
 3. Hard to debug.
-Tips: Use 3rd Party tools - U2U CAML Query Builder<br>    ![](/PublishingImages/U2U.png)      Figure: U2U CAML Query Builder<br>         Note: U2U CAML Builder is the best tool that we have. There are some occasional UI and interface issues, but for creating CAML and testing it against live SharePoint lists it gets the job done. And it’s FREE!
+Tips: Use 3rd Party tools - U2U CAML Query Builder<br>    ![](U2U.png)      Figure: U2U CAML Query BuilderNote: U2U CAML Builder is the best tool that we have. There are some occasional UI and interface issues, but for creating CAML and testing it against live SharePoint lists it gets the job done. And it’s FREE!
 
 
 
