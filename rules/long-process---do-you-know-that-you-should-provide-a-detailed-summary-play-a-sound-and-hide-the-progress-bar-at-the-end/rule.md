@@ -17,14 +17,14 @@ Your application should remind the user to go back and check on it by:
 - Showing a message box at the end of the long process
 
 
-See rule on [Do you know how to make long-running processes user-friendly?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Windows-Applications.aspx#LongProcessFriendly)
+See rule on [Do you know how to make long-running processes user-friendly?](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Windows-Applications.aspx#LongProcessFriendly)
 
 When using Message Box to indicate user a process is done, always includes detailed summary of the process. Don't just say "Process completed."
 
 Process completed. 
 Figure: Bad example – No detailed information
 This is just like standing at a set of traffic lights listening for the beep to know when to walk, rather than constantly looking at the red and green lights.
-![Completed Progress Form](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ProgressBarComplete.gif)Figure: OK Example - A completed progress form
+![Completed Progress Form](../../assets/ProgressBarComplete.gif)Figure: OK Example - A completed progress form
 Manual extraction process completed.
 
 Mailboxes scanned: 8
