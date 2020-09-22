@@ -30,6 +30,6 @@ The reason for the above validation placement is that these events run in the fo
 - Parse/Format
 - Validated
 
-![Centrix - Error Provider](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ErrorProviderIconExample.jpg)Figure: Good Example - Error Provider Icon next to a required field
+![Centrix - Error Provider](../../assets/ErrorProviderIconExample.jpg)Figure: Good Example - Error Provider Icon next to a required field
 Do **not** show a message box after every error in validation. You may show a message box as an error summary when an OK or Apply is clicked. Make sure you warn the user that there is an error on the form when they attempt to save.
-![Centrix - Error Provider](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ValidationBalloon.png)Figure: Good Example - Balloon tooltips to indicate validation errors
+![Centrix - Error Provider](../../assets/ValidationBalloon.png)Figure: Good Example - Balloon tooltips to indicate validation errors
