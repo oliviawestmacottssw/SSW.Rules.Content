@@ -10,13 +10,13 @@ authors:
 ---
 
  
-​Receiving positive feedback makes everyone feel good, peps them up and encourages them to do more of whatever they are doing.
-Forgetting to recognize success                     means they have​ no motivation to succeed.
+​Receiving positive feedback makes everyone feel good, peps them up and encourages them to do more of whatever they are doing.
+Forgetting to recognize success                     means they have​ no motivation to succeed.
  
 This is a simple rule - if someone goes beyond the call of duty, you thank them.​​​
 
 **Bonus:** If you want to go further, you can tweet the link where you've found help from.
 
 **Tip:** Elaborate your text and avoid adding URLs as it may look like spam.
-![GoodJob.jpg](/PublishingImages/GoodJob.jpg)Figure: Show appreciation when you've got help
+![GoodJob.jpg](GoodJob.jpg)Figure: Show appreciation when you've got help
 
