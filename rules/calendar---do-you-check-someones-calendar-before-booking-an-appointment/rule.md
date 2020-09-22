@@ -12,6 +12,6 @@ authors:
 ---
 
  
-​​Imagine someone wants an appointment with a team member who has [shared their calendar](/Pages/Know-the-ways-to-share-and-see-calendars.aspx) with you. Offer to look up the calendar and book in time straightaway.​
- Try calling him.<br>                                            Bad Example![adams-calendar.jpg](/PublishingImages/adams-calendar.jpg)
-                    Sure, I'll just look up Adam's calendar and see when he's free. Obviously it's not a good idea to call Adam now as he is on a plane.                         Good Example
+​​Imagine someone wants an appointment with a team member who has [shared their calendar](/Pages/Know-the-ways-to-share-and-see-calendars.aspx) with you. Offer to look up the calendar and book in time straightaway.​
+ Try calling him.<br>                                            Bad Example![adams-calendar.jpg](adams-calendar.jpg)
+                    Sure, I'll just look up Adam's calendar and see when he's free. Obviously it's not a good idea to call Adam now as he is on a plane.                         Good Example
