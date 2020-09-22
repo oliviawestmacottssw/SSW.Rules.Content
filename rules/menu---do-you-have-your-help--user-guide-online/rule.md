@@ -16,4 +16,4 @@ There are benefits of having your user guide online:
 2. Stats on usage
 3. Allows community commenting
 
-![Help User Guide](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/RulesT3.gif)Figure: Good Example - "User Guide" link in the "Help" menu![Online User Guide](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/TelerikUserGuide.png)Figure: Good Example - Telerik keeps their "User Guide" online
+![Help User Guide](../../assets/RulesT3.gif)Figure: Good Example - "User Guide" link in the "Help" menu![Online User Guide](../../assets/TelerikUserGuide.png)Figure: Good Example - Telerik keeps their "User Guide" online
