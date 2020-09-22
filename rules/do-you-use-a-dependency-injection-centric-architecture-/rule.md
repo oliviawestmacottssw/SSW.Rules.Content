@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ![inject](/PublishingImages/dependency-injection-bad.jpg) Figure: Bad Example – N-Tiered architectures do not inherently support dependency injection ![inject](/PublishingImages/dependency-injection-good.jpg) Figure: Good Example – The Onion Architecture promotes layers built on interfaces, and then injecting dependencies into those layers. This keeps coupling low, and therefore maintainability high
+ ![inject](dependency-injection-bad.jpg) Figure: Bad Example – N-Tiered architectures do not inherently support dependency injection ![inject](dependency-injection-good.jpg) Figure: Good Example – The Onion Architecture promotes layers built on interfaces, and then injecting dependencies into those layers. This keeps coupling low, and therefore maintainability high
 The classes in each layer can depend on layers toward the centre.
 
 It emphasizes the use of interfaces for the business logic and repository layers. The repository layer corresponds to the Data Access layer in an n-Tier architecture.
@@ -22,6 +22,6 @@ The core of the onion architecture is the Domain Model, and all dependencies are
 ####  Further Reading: 
 
 - [Do you know the layers of the onion architecture?](/Pages/The-layers-of-the-onion-architecture.aspx)
-- [Do you know the best dependency injection container​?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=0aa194e1-2de9-4ed1-b430-444109d65a50)
+- [Do you know the best dependency injection container​?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0aa194e1-2de9-4ed1-b430-444109d65a50)
 
 
