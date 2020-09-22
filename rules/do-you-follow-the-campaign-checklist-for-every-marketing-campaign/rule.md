@@ -28,7 +28,7 @@ authors:
 
 ### ​Content Promotion
 
-**Content promotion strategy **
+**Content promotion strategy **
 
 1. Define type of campaign
 2. Define Go live Date
@@ -53,4 +53,4 @@ authors:
 
 1. Add relevant content to an auto-responder email campaign
 
- ​ You can find a template to follow at  [!\[\](/_layouts/15/images/icdocx.png)SSW-Marketing-Campaign-Checklist-TEMPLATE\_v1.docx](/Documents/SSW-Marketing-Campaign-Checklist-TEMPLATE_v1.docx)
+ ​ You can find a template to follow at  [!\[\](icdocx.png)SSW-Marketing-Campaign-Checklist-TEMPLATE\_v1.docx](/Documents/SSW-Marketing-Campaign-Checklist-TEMPLATE_v1.docx)
