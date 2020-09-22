@@ -14,12 +14,12 @@ authors:
 ---
 
  When you want to update the Rule Title, please DO NOT update them in the list directly.
-<br> Click the URL near it, navigate to the Rule Summary page, and edit the Rule Summary Page Title, it will automatically update:
+<br> Click the URL near it, navigate to the Rule Summary page, and edit the Rule Summary Page Title, it will automatically update:
 
 - Rule Summary Page Title
 - Site Title
 - Item Title in RuleCategoryLookupData List
 
   Like this (thanks for Adam's snapshot) : 
-![](/PublishingImages/SPTitle.jpg)
+![](SPTitle.jpg)
 
