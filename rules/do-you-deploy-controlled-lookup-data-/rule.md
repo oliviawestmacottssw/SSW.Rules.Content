@@ -11,15 +11,15 @@ authors:
 
  Lookup data is data that you usually see in combo boxes. It may be a Customer Category, a Product Color or the Order Status. Usually this is defined by the user and the programmer does not care what or how many records they have. When the programmer relies on records being in the lookup table, it is called 'Controlled Lookup Data'. 
 
-<br>So whenever you have special data, which is referenced in code you need to tread carefully by: <br> 
-1) First understanding that although most of the time there is a clear separation between data and schema, there is an exception for Controlled Lookup Data. This is when data (aka Controlled Lookup Data) is tightly coupled to the application, meaning that you have an application that cannot function correctly without that data.
+<br>So whenever you have special data, which is referenced in code you need to tread carefully by: <br> 
+1) First understanding that although most of the time there is a clear separation between data and schema, there is an exception for Controlled Lookup Data. This is when data (aka Controlled Lookup Data) is tightly coupled to the application, meaning that you have an application that cannot function correctly without that data.
 
 2) You need to deploy that 'Controlled Lookup Data'
 
  3) You then need to add a check for it so that it does not disappear.
 
 Let's look at an example:
-![](/PublishingImages/TimeProDropDown.png) Figure: This combo looks innocent. However if it is "Billable" then the calendar goes yellow ![](/PublishingImages/TimeProCalendar.png) Figure: Billable days are shown in yellow 
+![](TimeProDropDown.png) Figure: This combo looks innocent. However if it is "Billable" then the calendar goes yellow ![](TimeProCalendar.png) Figure: Billable days are shown in yellow 
 
 ```
 if (drDay.NotBillableCount == 0 && 
@@ -107,4 +107,4 @@ VALUES
 GO
 ```
 
-Figure: This data must be deployed, just like we deploy schema  Now you need to add a procValidate, see [Do you check your "Controlled Lookup Data" (aka Reference Data) is still there with procValidate?](/Pages/DoYouCheckYourLookupDataAkaReferenceDataIsStillThereWithProcValidate.aspx)
+Figure: This data must be deployed, just like we deploy schema  Now you need to add a procValidate, see [Do you check your "Controlled Lookup Data" (aka Reference Data) is still there with procValidate?](/Pages/DoYouCheckYourLookupDataAkaReferenceDataIsStillThereWithProcValidate.aspx)
