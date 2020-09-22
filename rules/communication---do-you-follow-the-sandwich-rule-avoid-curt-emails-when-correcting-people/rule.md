@@ -19,7 +19,7 @@ authors:
 
 This optimistic approach allows you to maintain a healthy relationship with your team members and clients.
 
-![criticize-behavior-not-person.gif](/PublishingImages/criticize-behavior-not-person.gif)
+![criticize-behavior-not-person.gif](criticize-behavior-not-person.gif)
 Figure: What not to do​​​​
 ​
 
