@@ -17,9 +17,9 @@ authors:
 
  
 Just like a car, applications need servicing and tuning every now and then to stay in top condition. They might need alterations to deal with new business problems, or just tuning to increase efficiency.
-![sucessful-project-and-now.jpeg](/PublishingImages/sucessful-project-and-now.jpeg)Figure: What happens after the software has been delivered and the development team moves on. The next phase is maintenance​
+![sucessful-project-and-now.jpeg](sucessful-project-and-now.jpeg)Figure: What happens after the software has been delivered and the development team moves on. The next phase is maintenance​
  
-So you’ve done 10 good sprints and the [software has been delivered ​(ready)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=e01abde1-9a3e-4e4c-84a8-50e98e9c44d0) and the team is winding down. It will need maintenance.
+So you’ve done 10 good sprints and the [software has been delivered ​(ready)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e01abde1-9a3e-4e4c-84a8-50e98e9c44d0) and the team is winding down. It will need maintenance.
 
 Different clients need different levels of support. Offer your clients a few different support offerings.
 
@@ -37,6 +37,6 @@ Once the sprint review is complete, the Product Owner has half the sprint period
 
 **Note:** There is no warranty on a time & materials contract.
 
-**Important:  **During the warranty period, all feedback from clients should be moved to backlog unless they fall into the [bug definition](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=117f6f22-8c72-4895-b419-1e2e0dc5fbf1). 
+**Important:  **During the warranty period, all feedback from clients should be moved to backlog unless they fall into the [bug definition](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=117f6f22-8c72-4895-b419-1e2e0dc5fbf1). 
 
 
