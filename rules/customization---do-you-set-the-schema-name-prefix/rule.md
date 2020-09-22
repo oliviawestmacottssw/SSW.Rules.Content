@@ -11,4 +11,4 @@ authors:
 
  
 Note when you do a customization it gives it a prefix with the schema name - in           our case SSW. With this prefix you can easily distinguish customized attributes           from default attributes.
- ![Set your schema-name prefix to use for custom entities and attributes](/PublishingImages/CRM_PrefixSetting.jpg)            Figure: Set your schema-name prefix to use for custom entities and attributes![customized attributes with the prefix](/PublishingImages/CRM_Prefix.jpg)            Figure: customized attributes with the prefix
+ ![Set your schema-name prefix to use for custom entities and attributes](CRM_PrefixSetting.jpg)            Figure: Set your schema-name prefix to use for custom entities and attributes![customized attributes with the prefix](CRM_Prefix.jpg)            Figure: customized attributes with the prefix
