@@ -12,7 +12,7 @@ authors:
 ---
 
  
-​Developers should add a version number at the end of the out package. E.g. SSWCodeAuditor\_v14.0.0.exe
+​Developers should add a version number at the end of the out package. E.g. SSWCodeAuditor\_v14.0.0.exe
 
 Here is how you do it in Advanced Installer:
  
@@ -20,4 +20,4 @@ Here is how you do it in Advanced Installer:
 2. Choose <br>      **Configuration** tab and click in <br>      **MSI name** text box which is located under <br>      **Output** section
 3. Next to the text add <br>      [|ProductVersion]. If the text-box is empty you may want to start it with <br>      [|ProductName]
 
-![](/PublishingImages/installer-add-version-number.jpg)Figure​: Advanced Installer - Add version to output package
+![](installer-add-version-number.jpg)Figure​: Advanced Installer - Add version to output package
