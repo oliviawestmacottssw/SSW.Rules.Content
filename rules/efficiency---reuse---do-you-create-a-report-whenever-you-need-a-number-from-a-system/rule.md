@@ -22,12 +22,12 @@ Dear boss,
 
 Today I needed to find xxx and so I had to write a query to find it. You can find it at \\server\Reports\_Adhoc\SalesByRegion.xlsx
 
-I suggest adding this into our Performance Point Cube so I could find it at a URL.  
+I suggest adding this into our Performance Point Cube so I could find it at a URL.  
 
 Jonny
 
-Figure - Bad Example: If you can't build it yourself, send an email to your boss for a number
- ![Power BI.png](/PublishingImages/Power%20BI.png)  Figure - Good Example: Sate your own curiosity with Power BI ​See Ulysses' video on how Power BI is the best tool for this: [https://tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren](https&#58;//tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren)​
+Figure - Bad Example: If you can't build it yourself, send an email to your boss for a number
+ ![Power BI.png](Power BI.png)  Figure - Good Example: Sate your own curiosity with Power BI ​See Ulysses' video on how Power BI is the best tool for this: https://tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren​
 ​
 
 
