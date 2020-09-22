@@ -11,10 +11,10 @@ authors: []
 The user's last settings should be saved and should be selected as the Default the                     next time a form is opened in many instances. For example:
  
 - Login forms - the last login name should be the Default selected and the cursor should be in the password box. <br>      <dl class="badImage"><dt> 
-            <img border="0" alt="SSW Time PRO .NET - Login" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BadFormLogin.jpg" style="margin&#58;5px;width&#58;342px;">
-         </dt><dd> Figure&#58; Bad Example - Last Username is not saved</dd></dl><dl class="goodImage"><dt> 
-            <img border="0" alt="SSW Time PRO .NET - Login" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodFormLogin.jpg" style="margin&#58;5px;width&#58;342px;">
-         </dt><dd> Figure&#58; Good Example - Last Username is saved</dd></dl>
+            <img border="0" alt="SSW Time PRO .NET - Login" src="../../assets/BadFormLogin.jpg" style="margin:5px;width:342px;">
+         </dt><dd> Figure: Bad Example - Last Username is not saved</dd></dl><dl class="goodImage"><dt> 
+            <img border="0" alt="SSW Time PRO .NET - Login" src="../../assets/GoodFormLogin.jpg" style="margin:5px;width:342px;">
+         </dt><dd> Figure: Good Example - Last Username is saved</dd></dl>
 - Report criteria forms - e.g. date start and date end fields should be automatically populated
 
 
