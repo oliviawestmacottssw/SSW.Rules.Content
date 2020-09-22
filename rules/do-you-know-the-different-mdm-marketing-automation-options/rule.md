@@ -33,4 +33,4 @@ authors:
 - ​Scheduler (e.g. to delay x days before doing the next step
 - Trigger (e.g. if someone goes to an event)
 
-![mdm-options.png](/PublishingImages/mdm-options.png)Figure: Simple drag and drop interface for creating automated marketing workflows
+![mdm-options.png](mdm-options.png)Figure: Simple drag and drop interface for creating automated marketing workflows
