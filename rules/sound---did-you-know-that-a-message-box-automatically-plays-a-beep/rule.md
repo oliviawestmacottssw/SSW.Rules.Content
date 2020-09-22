@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- ![Windows plays sounds for message boxes](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Win7SoundError.png)Figure: Good Example - Windows message boxes plays a sound... which cannot be captured in screenshot form.   ​
+ ![Windows plays sounds for message boxes](../../assets/Win7SoundError.png)Figure: Good Example - Windows message boxes plays a sound... which cannot be captured in screenshot form.   ​
 A message box automatically provides this functionality so there is no need to manually put a beep right before a message box pops up.
 
 
