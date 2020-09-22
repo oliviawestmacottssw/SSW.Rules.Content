@@ -10,9 +10,9 @@ authors:
 ---
 
  
-OK you say you do Scrum, but do you use the "Business Value" field?
+OK you say you do Scrum, but do you use the "Business Value" field?
 
-That's OK, most teams don't... but it is a terrible shame, because developers go to the trouble of estimating 'Effort' and if you have Effort, all you need is Business Value and you can calculate ROI.
+That's OK, most teams don't... but it is a terrible shame, because developers go to the trouble of estimating 'Effort' and if you have Effort, all you need is Business Value and you can calculate ROI.
 
 Once you have ROI a Product Owner can use the ROI field to sort priority. Awesome.​
 
@@ -24,7 +24,7 @@ Once you have ROI a Product Owner can use the ROI field to sort priority. Awesom
 ​​​​
  
 ROI (Return on Investment) is an unbelievably simply calculation.
-![Business Value field](/PublishingImages/business-value-field.jpg)Figure:​ Product Owners should be estimating the Business Value
+![Business Value field](business-value-field.jpg)Figure:​ Product Owners should be estimating the Business Value
 
  ROI = Business Value / Effort​ 
 
@@ -49,7 +49,7 @@ In summary, the simple calculated field ROI, can automatically order the backlog
 
 ### Related links
 
-- [Adam's blog - Effective Product Owners use the "Business Value" Field](http&#58;//www.adamcogan.com/2013/05/08/the-business-value-field/)
-- [SSW TV​ - Estimating "Business Value" to order your Backlog](http&#58;//tv.ssw.com/3102/business-value)
+- [Adam's blog - Effective Product Owners use the "Business Value" Field](http://www.adamcogan.com/2013/05/08/the-business-value-field/)
+- [SSW TV​ - Estimating "Business Value" to order your Backlog](http://tv.ssw.com/3102/business-value)
 
 
