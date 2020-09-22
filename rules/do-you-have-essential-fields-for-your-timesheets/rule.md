@@ -19,11 +19,11 @@ authors:
 3. Project and Iteration (if applicable)
 4. Category (what kind of work it is)
 5. Amount of time
-6. Break - Minimum 1/2 hour break if you work more than 5.5 hours
+6. Break - Minimum 1/2 hour break if you work more than 5.5 hours
 7. Who you were working with that day - both your company and Client people. We then know if we are missing any timesheets
 
 
 
 
-![Good Timesheet.jpg](/PublishingImages/Good%20Timesheet.jpg)
-Figure - Good Example - A good timesheet with all the required fields taken from [SSW Time PRO!](http&#58;//www.ssw.com.au/ssw/TimePRONET/) 
+![Good Timesheet.jpg](Good Timesheet.jpg)
+Figure - Good Example - A good timesheet with all the required fields taken from [SSW Time PRO!](http://www.ssw.com.au/ssw/TimePRONET/) 
