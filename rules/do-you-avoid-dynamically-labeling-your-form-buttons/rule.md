@@ -9,4 +9,4 @@ authors: []
 
  
 The buttons that a user will typically use should not be dynamically labeled across your applications.
- ![OLEDB Connection String](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DynamicallyLabelingButtonBad.gif)Figure: Bad Example - Buttons are dynamically labeled "Build ..." and "Edit ..." depending on text in the text box![OLEDB Connection String](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DynamicallyLabelingButtonGood.gif)Figure: Good Example - Buttons are not dynamically labelled
+ ![OLEDB Connection String](../../assets/DynamicallyLabelingButtonBad.gif)Figure: Bad Example - Buttons are dynamically labeled "Build ..." and "Edit ..." depending on text in the text box![OLEDB Connection String](../../assets/DynamicallyLabelingButtonGood.gif)Figure: Good Example - Buttons are not dynamically labelled
