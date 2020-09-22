@@ -11,8 +11,8 @@ authors:
 
 ---
 
- ​​Just as we should not 'judge a book by its cover' - we will not judge an email by its subject. But, we do! Because users get so many emails, getting your clients and suppliers to take notice of yours in their inbox can be quite a struggle. 
-  ![Outlook Choose an interesting subject](/PublishingImages/Outlook_ChooseAnInterestingSubject.gif)​​​ Figure: Good Example - I'm definitely going to read this email
+ ​​Just as we should not 'judge a book by its cover' - we will not judge an email by its subject. But, we do! Because users get so many emails, getting your clients and suppliers to take notice of yours in their inbox can be quite a struggle. 
+  ![Outlook Choose an interesting subject](Outlook_ChooseAnInterestingSubject.gif)​​​ Figure: Good Example - I'm definitely going to read this email
 Use the email Subject to grab your recipient's attention. Choosing the right subject can give an email a sense of urgency or importance that choosing the wrong subject won't!
 
 The best way of doing this is to ensure that your subject includes either an ACTION POINT (e.g. 6.30 TONIGHT! See you at The Oaks Hotel...) or a RESULT of a task you were asked to do (e.g. Here's the 5 mins. of FEEDBACK you requested from our meeting with Charles Merton). You'll note from this that including the date and time in the subject gives immediacy to the email.
@@ -24,14 +24,14 @@ Never leave the subject blank! It's like writing a book and failing to give it a
 
 |  Bad Subject Examples<br> |  Good Subject Examples<br> |
 | --- | --- |
-| Database | Northwind - Future - Meeting to get your software solution rolling, next Monday 2PM<br> |
+| Database | Northwind - Future - Meeting to get your software solution rolling, next Monday 2PM<br> |
 | Dinner | Dinner Tonight, 6.30PM at The Oaks |
-| ?? | BUG - SSW SQL Auditor - Button not working |
+| ?? | BUG - SSW SQL Auditor - Button not working |
 | User Group | SSW User Group - This month needs a speaker - Call Tom Howe pronto! |
 | Feedback | SSW SQL Deploy - User interface feedback |
-| Broken Form | Northwind - CPF - Fix combo box on Broken Form |
-| Test Please<br><br>(see [test please rule](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ec137193-bbcb-43a7-bc9a-4d337395aa22))<br> | Test Please - Product Name v1.11 |
-| RE: Test Please - Product Name v1.11<br><br>(don't just reply) | TODO -  Product Name v1.11 - "Save" button not working<br> |
+| Broken Form | Northwind - CPF - Fix combo box on Broken Form |
+| Test Please<br><br>(see [test please rule](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ec137193-bbcb-43a7-bc9a-4d337395aa22))<br> | Test Please - Product Name v1.11 |
+| RE: Test Please - Product Name v1.11<br><br>(don't just reply) | TODO -  Product Name v1.11 - "Save" button not working<br> |
 | Website problem | BUG - www.yourdomain.com | Fix broken link <br> |
 
 
@@ -44,7 +44,7 @@ We use the following format for the subject internally and encourage clients and
 [Client Name/Product Name] - [Project Name] – [Object Name/Description]
 Eg.: **WorleyParsons – IOP – Customer.aspx - Add email address validation**
 
-The advantage of this is that when you sort by the subject in Outlook, you get all of the emails grouped together, and it is easy to recognize the client/product, because the subject contains the relevant information.
+The advantage of this is that when you sort by the subject in Outlook, you get all of the emails grouped together, and it is easy to recognize the client/product, because the subject contains the relevant information.
 
 **Tip: **When referring to a website, it's a good idea to include the URL in the email subject.
 
@@ -75,12 +75,12 @@ Other words to be used are:
 
 For external emails, it is acceptable to [change the email subject](/Pages/WhenToChangeEmailSubject.aspx "When to Change an Email Subject") in certain circumstances.
 
-For internal emails, the subject line should generally not be changed as it will break the threading of emails.
+For internal emails, the subject line should generally not be changed as it will break the threading of emails.
 
 
 
 ## Related Links
 
-- [Do you get your work done in order of i​mportance (aka priorities)?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=dfaed2cc-e5c6-4844-98fc-aa1d89a690eb)
+- [Do you get your work done in order of i​mportance (aka priorities)?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=dfaed2cc-e5c6-4844-98fc-aa1d89a690eb)
 
 
