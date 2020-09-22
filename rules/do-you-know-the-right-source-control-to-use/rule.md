@@ -15,7 +15,7 @@ authors:
 
 ---
 
- SSW uses and recommends Microsoft Team Foundation Server (TFS) as a source code solution. <br> ![](/PublishingImages/TFSTeam.jpg) Figure: Microsoft Visual Studio Team System 
+ SSW uses and recommends Microsoft Team Foundation Server (TFS) as a source code solution. <br> ![](TFSTeam.jpg) Figure: Microsoft Visual Studio Team System 
 Here are some of the reasons why:
 
 - Checkin policies
@@ -36,8 +36,8 @@ Reasons companies choose Subversion (SVN)
 <br>-No Work Item integration 
 Figure: Better example, Subversion (SVN) is an OK choice 
 Reasons companies choose Team Foundation Server (TFS)
-<br> -It's free (With MSDN)
-<br> -It's easy to use 
+<br> -It's free (With MSDN)
+<br> -It's easy to use 
 <br>-It's easy to install 
 <br>-High fidelity SQL data store 
 <br>-No VPN required
