@@ -21,13 +21,13 @@ If you are unaware of this, it can quickly add up and either burn through your f
 Having Diagnostics enabled can contribute 25 transactions per minute, this is 36,000 transactions per day.
 
 Question for Microsoft: Is this per Web Role?
-![Check properties](/PublishingImages/azure-check-properties.jpg)Figure: Check the properties of your web and worker role configuration files![Disable Diagnostics](/PublishingImages/azure-disable-diagnostics.jpg)Figure: Disable diagnostics
+![Check properties](azure-check-properties.jpg)Figure: Check the properties of your web and worker role configuration files![Disable Diagnostics](azure-disable-diagnostics.jpg)Figure: Disable diagnostics
 ## Disable IntelliTrace and Profiling
-![Azure publishing settings](/PublishingImages/azure-publishing-settings.jpg)Figure: When publishing, ensure that IntelliTrace and Profiling are both disabled
+![Azure publishing settings](azure-publishing-settings.jpg)Figure: When publishing, ensure that IntelliTrace and Profiling are both disabled
 ## Robots.txt 
 
 Search bots crawling your site to index it will lead to a lot of transactions. Especially for web "applications" that do not need to be searchable, use Robot.txt to save transactions.
-![Place robots.txt](/PublishingImages/azure-robots.jpg)Figure: Place robots.txt in the root of your site to control search engine indexing
+![Place robots.txt](azure-robots.jpg)Figure: Place robots.txt in the root of your site to control search engine indexing
 ## Continuous Deployment
 
 When deploying to Azure, the deployment package is loaded into the Storage Account. This will also contribute to the transaction count.
@@ -36,7 +36,7 @@ If you have enabled continuous deployment to Azure, you will need to monitor you
 
 ### References
 
-- [Understanding Windows Azure Storage Billing – Bandwidth, Transactions, and Capacity](http&#58;//blogs.msdn.com/b/windowsazurestorage/archive/2010/07/09/understanding-windows-azure-storage-billing-bandwidth-transactions-and-capacity.aspx%20target=)
-- [Does Windows Azure hosted service use storage transactions](http&#58;//serverfault.com/questions/363803/does-windows-azure-hosted-service-use-storage-transactions%20target=)
+- [Understanding Windows Azure Storage Billing – Bandwidth, Transactions, and Capacity](http://blogs.msdn.com/b/windowsazurestorage/archive/2010/07/09/understanding-windows-azure-storage-billing-bandwidth-transactions-and-capacity.aspx%20target=)
+- [Does Windows Azure hosted service use storage transactions](http://serverfault.com/questions/363803/does-windows-azure-hosted-service-use-storage-transactions%20target=)
 
 
