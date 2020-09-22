@@ -19,4 +19,4 @@ Exception: Only use them in the following scenarios:
 - Confirming the deletion of a record
 - Kicking off a long running process that cannot be cancelled
 
-![Move Error MSG to the right ](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/MoveErrorMSG.jpg)Figure: Bad example - could the information in this message box be moved into the panel on the right![Embedded message box](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/oneplacemailerror.png)Figure: Good example - An error message that does not pop up and block your user
+![Move Error MSG to the right ](../../assets/MoveErrorMSG.jpg)Figure: Bad example - could the information in this message box be moved into the panel on the right![Embedded message box](../../assets/oneplacemailerror.png)Figure: Good example - An error message that does not pop up and block your user
