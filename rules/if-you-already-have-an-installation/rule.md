@@ -12,7 +12,7 @@ If you have already done some test migrations on the new server there is no need
 
 1. Open the Team Foundation Server Admin Console
 2. Click Application Tier | Team Project Collections | Detach Team Project Collection
-![Detach Team Project Collection](/PublishingImages/Detach%20Team%20Project%20Collection.png) 
+![Detach Team Project Collection](Detach Team Project Collection.png) 
 Figure: Remove the old Team Project Collection from the server.
 3. Delete the Tfs\_\* databases except Tfs\_Configuration from SQL Server Management Studio
 4. Delete the Tfs\_Analysis database from SQL Server Analysis Server.
@@ -20,7 +20,7 @@ Figure: Remove the old Team Project Collection from the server.
 6. Restore the databases to the TFS2010’s SQL 2008 Server
 7. In the Team Foundation Server Admin Console
 8. Click Application Tier | Team Project Collections |Attach Team Project Collection
-![Attach Team Project Collection](/PublishingImages/Attach%20Team%20Project%20Collection.png)
+![Attach Team Project Collection](Attach Team Project Collection.png)
 9. Follow the wizard, [rule #8 from step 13](/Pages/UpgradeTFS2008Databases.aspx).
 
 
