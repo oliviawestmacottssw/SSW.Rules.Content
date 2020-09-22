@@ -14,9 +14,9 @@ authors:
  
 GRASP stands for General Responsibility Assignment Software Patterns and describes guidelines for working out what objects are responsible for what areas of the application.
  
-​The fundamentals of GRASP are the building blocks of Object-​Oriented design.  It is important that responsibilities in your application are assigned predictably and sensibly to achieve maximum extensibility and maintainability.
+​The fundamentals of GRASP are the building blocks of Object-​Oriented design.  It is important that responsibilities in your application are assigned predictably and sensibly to achieve maximum extensibility and maintainability.
 
-GRASP consists of a set of patterns and principles that describe different ways of constructing relationships between classes and objects.
+GRASP consists of a set of patterns and principles that describe different ways of constructing relationships between classes and objects.
 
 
 | Creator | A specific class is responsible for creating instances of specific other classes (e.g. a Factory Pattern) |
@@ -39,5 +39,5 @@ GRASP consists of a set of patterns and principles that describe different ways
 | --- | --- |
 
 
-Tip: Visual Studio's Architecture tools can help you visualise your dependencies.  A good structure will show calls flowing in one direction.
-![architecture_responsibility_bad.png](/PublishingImages/architecture_responsibility_bad.png)Figure: Bad Example - Calls are going in both directions which hints at a poor architecture![architecture_responsibility_good.png](/PublishingImages/architecture_responsibility_good.png)Figure: Good Example - Calls are flowing in one direction hinting at a more sensible arrangement of responsibilities
+Tip: Visual Studio's Architecture tools can help you visualise your dependencies.  A good structure will show calls flowing in one direction.
+![architecture_responsibility_bad.png](architecture_responsibility_bad.png)Figure: Bad Example - Calls are going in both directions which hints at a poor architecture![architecture_responsibility_good.png](architecture_responsibility_good.png)Figure: Good Example - Calls are flowing in one direction hinting at a more sensible arrangement of responsibilities
