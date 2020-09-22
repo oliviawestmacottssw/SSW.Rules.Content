@@ -11,12 +11,12 @@ authors:
 
  Encouraging your team to evaluate their peers is a proven method to improve working environment and productivity.​ <br>
  
-All peers that worked together should evaluate each other by filling the [Peer Evaluation Email](/Documents/PeerEvaluationEmailTemplate.msg) every month.
+All peers that worked together should evaluate each other by filling the [Peer Evaluation Email](/Documents/PeerEvaluationEmailTemplate.msg) every month.
 
 The evaluation is done by giving constructive comments in “Start, Stop, Continue”
- e.g. (Start...) checking in with better comments  
- e.g. (Stop...) coding without a user story​   
+ e.g. (Start...) checking in with better comments  
+ e.g. (Stop...) coding without a user story​   
  e.g. (Continue...) with your helpful SEO comments
 
-![PeerEvaluation.png](/PublishingImages/PeerEvaluation.png)​
+![PeerEvaluation.png](PeerEvaluation.png)​
 Figure: Example email​​
