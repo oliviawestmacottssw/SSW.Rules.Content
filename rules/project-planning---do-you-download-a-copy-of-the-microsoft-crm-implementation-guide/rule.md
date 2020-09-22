@@ -10,7 +10,7 @@ authors:
 ---
 
  
-The [Microsoft CRM Implementation Guide](http&#58;//www.microsoft.com/en-us/download/details.aspx?id=3621) contains essential information on installation pre-requisites and planning, implementation tools and troubleshooting.
+The [Microsoft CRM Implementation Guide](http://www.microsoft.com/en-us/download/details.aspx?id=3621) contains essential information on installation pre-requisites and planning, implementation tools and troubleshooting.
 
 Using the CHM (Compiled HTML Help) makes searching easier than using a word or pdf document.
-![Implementation guide screenshot](/PublishingImages/crm-implementation-guide.jpg)Figure: Searching the CHM version of the implementation guide is much nicer than the Word document
+![Implementation guide screenshot](crm-implementation-guide.jpg)Figure: Searching the CHM version of the implementation guide is much nicer than the Word document
