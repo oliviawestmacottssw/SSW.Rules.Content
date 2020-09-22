@@ -34,4 +34,4 @@ Here is how you do it in Outlook :
 
 
 Now when you click Send, each message remains in the Outbox folder for the time that you specified and you can make changes to it until then.
-![](/PublishingImages/recall-message.jpg)Figure: Bad example - Recalling a message when you want to change an email after sending![](/PublishingImages/create-rule-to-delay-sending.jpg)Figure: Good example - Delay sending in 15 minutes (make it less or more if necessary) 
+![](recall-message.jpg)Figure: Bad example - Recalling a message when you want to change an email after sending![](create-rule-to-delay-sending.jpg)Figure: Good example - Delay sending in 15 minutes (make it less or more if necessary) 
