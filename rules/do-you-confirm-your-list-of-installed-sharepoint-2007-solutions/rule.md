@@ -15,8 +15,8 @@ authors:
 3. Cross out any solutions that you will not be migrating
 4. Get the SharePoint master to sign off on the solution list
 
-![](/PublishingImages/MigrateSolutionsList.png)Figure: Have your SharePoint Master confirm if all these solutions are to be migrated
+![](MigrateSolutionsList.png)Figure: Have your SharePoint Master confirm if all these solutions are to be migrated
 
 
 ### Download
-    <br>   [Download the “Installed Solutions Checklist”](http&#58;//intranet.ssw.com.au/SysAdmin/SharedDocuments/MSSharePoint/HowTos-DoYouConfirmYourListOfInstalledSharePoint2007Solutions.docx) 
+[Download the “Installed Solutions Checklist”](http://intranet.ssw.com.au/SysAdmin/SharedDocuments/MSSharePoint/HowTos-DoYouConfirmYourListOfInstalledSharePoint2007Solutions.docx) 
