@@ -24,7 +24,7 @@ authors: []
 - Payment Details - Select how you pay and enter details
 - Confirmation of Purchase - Display information about their purchase
 
-![Example Header](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/ExamleHeadingforShoppingBasket.gif)Figure: Simple Header that tells the user where they have come from
+![Example Header](../../assets/ExamleHeadingforShoppingBasket.gif)Figure: Simple Header that tells the user where they have come from
 **Amazon Example:**
 
 - Welcome Icon - Ordering from Amazon.com is quick and easy
@@ -34,6 +34,6 @@ authors: []
 
 
 The following heading from Amazon shows the user at what stage of the ordering process they are at and what they can expect next. This covers the whole billing process.
-![Amazon Shopping](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/amazonshopping.jpg)Figure: This is how headings should look![Virgin Flight Booking](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/virgin-flight-navigation.png)Figure: Virgin Australia uses a more subtle approach
+![Amazon Shopping](../../assets/amazonshopping.jpg)Figure: This is how headings should look![Virgin Flight Booking](../../assets/virgin-flight-navigation.png)Figure: Virgin Australia uses a more subtle approach
 
 
