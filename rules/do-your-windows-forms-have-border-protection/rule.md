@@ -10,28 +10,28 @@ authors: []
  
 Border protection helps us design Windows Forms properly without placing  controls too near to the border. Maintain a consistent alignment makes  the Windows Forms look better, especially on designing wizard forms  where all forms have the same size.
  <dl class="goodImage"><dt> 
-      <img alt="Designing border protection." src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BorderProtectionExample.gif" style="margin&#58;5px;width&#58;600px;"> 
-   </dt><dd>Figure&#58; Good Example - Good border protection on a form at run time. The only problem is you would have to imagine these blue lines to get consistency</dd></dl>
+      <img alt="Designing border protection." src="../../assets/BorderProtectionExample.gif" style="margin:5px;width:600px;"> 
+   </dt><dd>Figure: Good Example - Good border protection on a form at run time. The only problem is you would have to imagine these blue lines to get consistency</dd></dl>
 **Border protection in action:**
 <dl class="badImage"><dt> 
-      <img alt="SSW Link Auditor - UI without border protection." src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BorderProtectionBad.gif" style="margin&#58;5px;"> 
-   </dt><dd>Figure&#58; Bad Example - Controls placed very near to the border and not aligned correctly</dd></dl><dl class="goodImage"><dt> 
-      <img alt="SSW Link Auditor - UI with border protection." src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BorderProtectionGood.gif" style="margin&#58;5px;"> 
-   </dt><dd>Figure&#58; Good Example - All controls are in the border protection area and aligned correctly</dd></dl><dl class="image"><dt> 
-      <img alt="SSW Link Auditor - UI with border protection." src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BorderProtectionDesign.gif" style="margin&#58;5px;"> 
-   </dt><dd>Figure&#58; Design mode</dd></dl>
+      <img alt="SSW Link Auditor - UI without border protection." src="../../assets/BorderProtectionBad.gif" style="margin:5px;"> 
+   </dt><dd>Figure: Bad Example - Controls placed very near to the border and not aligned correctly</dd></dl><dl class="goodImage"><dt> 
+      <img alt="SSW Link Auditor - UI with border protection." src="../../assets/BorderProtectionGood.gif" style="margin:5px;"> 
+   </dt><dd>Figure: Good Example - All controls are in the border protection area and aligned correctly</dd></dl><dl class="image"><dt> 
+      <img alt="SSW Link Auditor - UI with border protection." src="../../assets/BorderProtectionDesign.gif" style="margin:5px;"> 
+   </dt><dd>Figure: Design mode</dd></dl>
 The way to implement border protection (the 2 vertical red lines) is implement it in the base form or base user control, and all other forms and user controls inherit the base class to get consistent border protection lines.
 <dl class="code"><dt><pre>            private void BaseForm_Paint(object sender, PaintEventArgs e)
-            &#123;
+            {
                 // Draw border protection lines 
                 if (this.DesignMode) 
-                &#123; 
+                { 
                    Pen pen = new Pen(Color.Red); 
                    e.Graphics.DrawLine(pen,
                             23, 0, 23, this.Height); 
                             e.Graphics.DrawLine(pen, this.Width - 23, 0, this.Width - 23, this.Height); 
-                &#125; 
-            &#125;
+                } 
+            }
             </pre></dt></dl>
 
 | **Q:** | **Why don't we put a panel on the form and set the form DockPadding property which does a similar thing?** |
