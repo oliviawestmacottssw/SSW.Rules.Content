@@ -9,4 +9,4 @@ authors: []
 
  
 Make the options clearer by using bold.
-   ​![SSW Link Auditor - Command Line](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/OptionsTextNotInBold.gif)Figure: Bad Example - Main options text not in bold![SSW Link Auditor - Command Line](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/OptionsTextInBold.gif)Figure: Good Example - Main options text in bold
+   ​![SSW Link Auditor - Command Line](../../assets/OptionsTextNotInBold.gif)Figure: Bad Example - Main options text not in bold![SSW Link Auditor - Command Line](../../assets/OptionsTextInBold.gif)Figure: Good Example - Main options text in bold
