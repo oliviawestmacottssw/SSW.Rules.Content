@@ -16,15 +16,15 @@ Think about a summary report - users should always be able to "drill-down" to tr
 There are four ways to provide drill-downs:
 
 1. Preferred - Use buttons to navigate around the application <br>      <dl class="image"><dt>
-            <img alt="SSW Timesheets - Add Timesheet Entry" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/DrillDownDrillAround.gif" style="margin&#58;5px;">
-         </dt><dd>Figure&#58; Use named buttons to navigate around the application (Preferred)</dd></dl>
+            <img alt="SSW Timesheets - Add Timesheet Entry" src="../../assets/DrillDownDrillAround.gif" style="margin:5px;">
+         </dt><dd>Figure: Use named buttons to navigate around the application (Preferred)</dd></dl>
 2. Double click the control
 3. Use buttons with three dots - an ellipsis (...) character <br>      <dl class="goodImage"><dt>
-            <img alt="SSW Code Auditor - Path to Scan" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/CodeAuditorEllipses.gif" style="margin&#58;5px;">
-         </dt><dd>Figure&#58; Good Example - Use ellipses to navigate around the application</dd></dl>
+            <img alt="SSW Code Auditor - Path to Scan" src="../../assets/CodeAuditorEllipses.gif" style="margin:5px;">
+         </dt><dd>Figure: Good Example - Use ellipses to navigate around the application</dd></dl>
 4. Use hyperlinks <br>      <dl class="image"><dt>
-            <img alt="Asset Form" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/AssetForm.png" style="margin&#58;5px;">
-         </dt><dd>Figure&#58; Drill-downs implemented as links (an interesting alternative but a bit too much of a visual impact)</dd></dl>
+            <img alt="Asset Form" src="../../assets/AssetForm.png" style="margin:5px;">
+         </dt><dd>Figure: Drill-downs implemented as links (an interesting alternative but a bit too much of a visual impact)</dd></dl>
 
 
 Another handy thing to add for users is "drill-around". This is implemented by using a right mouse-click to activate context-sensitive links between related screens.
