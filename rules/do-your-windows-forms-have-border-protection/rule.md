@@ -9,9 +9,9 @@ authors: []
 
  
 Border protection helps us design Windows Forms properly without placing  controls too near to the border. Maintain a consistent alignment makes  the Windows Forms look better, especially on designing wizard forms  where all forms have the same size.
- ![Designing border protection.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BorderProtectionExample.gif)Figure: Good Example - Good border protection on a form at run time. The only problem is you would have to imagine these blue lines to get consistency
+ ![Designing border protection.](../../assets/BorderProtectionExample.gif)Figure: Good Example - Good border protection on a form at run time. The only problem is you would have to imagine these blue lines to get consistency
 **Border protection in action:**
-![SSW Link Auditor - UI without border protection.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BorderProtectionBad.gif)Figure: Bad Example - Controls placed very near to the border and not aligned correctly![SSW Link Auditor - UI with border protection.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BorderProtectionGood.gif)Figure: Good Example - All controls are in the border protection area and aligned correctly![SSW Link Auditor - UI with border protection.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BorderProtectionDesign.gif)Figure: Design mode
+![SSW Link Auditor - UI without border protection.](../../assets/BorderProtectionBad.gif)Figure: Bad Example - Controls placed very near to the border and not aligned correctly![SSW Link Auditor - UI with border protection.](../../assets/BorderProtectionGood.gif)Figure: Good Example - All controls are in the border protection area and aligned correctly![SSW Link Auditor - UI with border protection.](../../assets/BorderProtectionDesign.gif)Figure: Design mode
 The way to implement border protection (the 2 vertical red lines) is implement it in the base form or base user control, and all other forms and user controls inherit the base class to get consistent border protection lines.
 
 
