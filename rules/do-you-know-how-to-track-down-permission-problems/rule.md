@@ -12,7 +12,7 @@ authors:
 ---
 
  
-You need     [process monitor](http&#58;//technet.microsoft.com/en-us/sysinternals/bb896645.aspx) to track down permissions problems.
+You need     [process monitor](http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx) to track down permissions problems.
 
 E.g.     **Problem**
 
@@ -20,8 +20,8 @@ To hunt down a problem where say the IIS server couldn’t write to a directory,
 
 **Solution**
 
-1. Install and run <br>      [process monitor](http&#58;//technet.microsoft.com/en-us/sysinternals/bb896645.aspx)
+1. Install and run <br>      [process monitor](http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx)
 2. Apply filter
 3. Rejoice
 
-![](/PublishingImages/process-monitor-filter.jpg)Figure: Apply filter to only show "ACCESS DENIED" results​​<br>   ![](/PublishingImages/event-properties.jpg)Figure: And here we have the offending account 
+![](process-monitor-filter.jpg)Figure: Apply filter to only show "ACCESS DENIED" results​​<br>   ![](event-properties.jpg)Figure: And here we have the offending account 
