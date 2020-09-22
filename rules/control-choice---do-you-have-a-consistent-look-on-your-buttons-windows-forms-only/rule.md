@@ -9,18 +9,18 @@ authors: []
 
  
 Question: What is wrong with this Picture?
-![Inconsistent Button FlatStyles](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/InconsistentButtonStyles.jpg)Figure: What is wrong?   ​
+![Inconsistent Button FlatStyles](../../assets/InconsistentButtonStyles.jpg)Figure: What is wrong?   ​
 **Answer:** There are three different types of buttons in the Application:
 
-- *Next &gt;* - Default Window Style
+- *Next >* - Default Window Style
 - *Preview* - .NET Flat Style
 - *Cancel* - Window XP Style
 
-![bad divider](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BadDivider.gif)Figure: Even labels need to use FlatStyle.System. Can you spot the wrong label?
-See our [Rules to Better Windows Forms](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#XPThemes) to implement XP Themes in .NET.
+![bad divider](../../assets/BadDivider.gif)Figure: Even labels need to use FlatStyle.System. Can you spot the wrong label?
+See our [Rules to Better Windows Forms](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#XPThemes) to implement XP Themes in .NET.
 
 
-| We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#ConsistentButtonStyle) to check for this rule. |
+| We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#ConsistentButtonStyle) to check for this rule. |
 | --- |
 
 
