@@ -20,9 +20,9 @@ It is important to use terminology that your users will understand. Do not to us
 - Ran out of memory.
 - You may be out of memory.
 
-![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Bad-MessageBoxZango.jpg)Figure: Bad Example - Is it OK to Cancel?
+![](../../assets/Bad-MessageBoxZango.jpg)Figure: Bad Example - Is it OK to Cancel?
 Microsoft uses this one:
-![Not Enough Memory](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/NotEnoughMemory.gif)Figure: Good Example - Microsoft error message is concise
+![Not Enough Memory](../../assets/NotEnoughMemory.gif)Figure: Good Example - Microsoft error message is concise
 Some other message types that Microsoft uses are:
 
 
