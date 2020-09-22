@@ -10,4 +10,4 @@ authors: []
  
 If the form controls are different entities, they usually have different  data and different validation, thus they should not be combined.
                     Having the controls separated also make the form easier to read.
- ![Different entities are combined.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/AvoidCombiningBad.gif)Figure: Bad Example - Different entities are combined![Different entities are separated.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/AvoidCombiningGood.gif)Figure: Good Example - Different entities are separated
+ ![Different entities are combined.](../../assets/AvoidCombiningBad.gif)Figure: Bad Example - Different entities are combined![Different entities are separated.](../../assets/AvoidCombiningGood.gif)Figure: Good Example - Different entities are separated
