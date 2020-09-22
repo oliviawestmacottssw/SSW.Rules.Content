@@ -15,13 +15,13 @@ Whenever you email a client with a correspondence that relates to an existing CR
 
 
 
-Now you know how to do it, what activities are worth tracking?​ [Sales - Do you track all sales related activities in CRM?](/Pages/Track-all-sales-related-activities-in-CRM.aspx)
+Now you know how to do it, what activities are worth tracking?​ [Sales - Do you track all sales related activities in CRM?](/Pages/Track-all-sales-related-activities-in-CRM.aspx)
 
 ​
 
 
  
 The simplest way is, when writing or receiving the email, click the track in CRM           button in the ribbon and "set regarding" to the opportunity in question.
-![Ribbon CRM section in email](/PublishingImages/CRMSectionInEmail.jpg)            Figure: When you receive an important email, click the 'Track' button in<br>            on the CRM toolbar​<br>          
+![Ribbon CRM section in email](CRMSectionInEmail.jpg)            Figure: When you receive an important email, click the 'Track' button in<br>            on the CRM toolbar​<br>          
 Otherwise, you can also do it from the main Outlook page with the toolbar at the           top.
-![Toolbar CRM section in Inbox](/PublishingImages/CRMSectionInInbox.jpg)            Figure: A shortcut to the same 'Track' button exists on the CRM Toolbar in your Inbox
+![Toolbar CRM section in Inbox](CRMSectionInInbox.jpg)            Figure: A shortcut to the same 'Track' button exists on the CRM Toolbar in your Inbox
