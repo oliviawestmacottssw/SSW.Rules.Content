@@ -17,11 +17,11 @@ authors:
 1. Create a new Protection Group, for our example we will call it **SharePoint Protection **
 2. In the new Protection Group, add protection for the for the SharePoint role on your SharePoint server:
 
-![Notice that SharePoint protection only selects the SharePoint_Config and Content databases.](/PublishingImages/dpm-spcorrectorder-1.png)
+![Notice that SharePoint protection only selects the SharePoint_Config and Content databases.](dpm-spcorrectorder-1.png)
 Notice that SharePoint protection only selects the SharePoint\_Config and Content databases.
 3. Now browse to the SQL Server and add the entire SharePoint SQL Instance to the **SharePoint Protection** group. You will notice that you are unable to select some of the databases, as they are already being protected by SharePoint role protection.
 
-![Ensure you back up the remaining databases in the SharePoint SQL Instance](/PublishingImages/dpm-spcorrectorder-2.png)
+![Ensure you back up the remaining databases in the SharePoint SQL Instance](dpm-spcorrectorder-2.png)
 Ensure you back up the remaining databases in the SharePoint SQL Instance
 
 
