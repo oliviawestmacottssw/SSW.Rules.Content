@@ -22,6 +22,6 @@ Do you like apples? Yes No Cannot say
 |  |   | No |
 |  |  | Cannot say |
 3. **Text on the Right**     The Option Group or Check Box should always be on the left, with the text following on the right. Once again, this makes it easy for the User to work out what is going on.
-![Interfaces Action Then Text](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Interfaces_ActionThenText.gif)Figure: Good Example - Action on the left, text on the right
+![Interfaces Action Then Text](../../assets/Interfaces_ActionThenText.gif)Figure: Good Example - Action on the left, text on the right
 
 
