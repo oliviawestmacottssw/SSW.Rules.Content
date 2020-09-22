@@ -12,9 +12,9 @@ authors:
 ---
 
  
-If you have “custom site template” for  your site, you can’t upgrade your site to the SharePoint 2013 UI unless you have a site template with the same name ready for new UI.
+If you have “custom site template” for  your site, you can’t upgrade your site to the SharePoint 2013 UI unless you have a site template with the same name ready for new UI.
 
-![missingSiteTemplateError.jpg](/PublishingImages/missingSiteTemplateError.jpg)
+![missingSiteTemplateError.jpg](missingSiteTemplateError.jpg)
 
 Figure:SharePoint will show you an error “Missing Site Templates” that prevents you from upgrading
  
@@ -26,7 +26,7 @@ Figure:SharePoint will show you an error “Missing Site Templates” that preve
 
 
 
-> ![siteTemplateStructure.jpg](/PublishingImages/siteTemplateStructure.jpg) 
+> ![siteTemplateStructure.jpg](siteTemplateStructure.jpg) 
 > 
 > 3.Package the site template’s **definition **XML file to map location “**{SharePointRoot}\TEMPLATE\1033\XML**”.
 
@@ -35,7 +35,7 @@ Figure:SharePoint will show you an error “Missing Site Templates” that preve
 
 
 
-> ![siteTemplateDefinitionFile.jpg](/PublishingImages/siteTemplateDefinitionFile.jpg)
+> ![siteTemplateDefinitionFile.jpg](siteTemplateDefinitionFile.jpg)
 > 4.Deploy the package.
 
 
