@@ -1,6 +1,6 @@
 ---
 type: rule
-title: Priorities - Do you complete work in order of importance (aka priorities)?
+title: PRIORITIES - Do you complete work in order of importance (aka priorities)?
 uri: priorities---do-you-complete-work-in-order-of-importance-aka-priorities
 created: 2012-03-20T17:57:49.0000000Z
 authors:
@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​​​​​​​​​With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others. 
+ ​​​​​​​With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others. 
  
 ​The word "Urgent" is more important than the word "Important"
  ![Challenges ahead sign](challenges-ahead-sign.jpg) Figure: Remove roadblocks

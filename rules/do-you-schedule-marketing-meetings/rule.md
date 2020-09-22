@@ -1,0 +1,17 @@
+---
+type: rule
+title: Do you schedule marketing meetings?
+uri: do-you-schedule-marketing-meetings
+created: 2020-05-26T20:30:32.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+- id: 62
+  title: Penny Walker
+
+---
+
+ 
+It is very easy to take days and multiple resources to write a Marketing Plan, so it is essential that you schedule meetings to update your Marketing plan at regular intervals. After each Marketing Meeting, we recommend that you book the next meeting immediately so that you have time to plan and prepare ahead of time. This also makes your team regularly use and update your plan. ​​​
+ ![mkt-plan-bad.png](mkt-plan-bad.png)​Figure: Bad example – Where ideas go to die, the plan falls into a black hole and is wasted!​![mkt-plan-good.png](Screen Shot 2020-05-26 at 3.08.24 PM.png)Figure: Good example – Pre-book your meetings, update the plan, and action!​
+

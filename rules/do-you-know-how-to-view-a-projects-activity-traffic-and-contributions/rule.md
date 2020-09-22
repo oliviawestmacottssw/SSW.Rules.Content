@@ -1,0 +1,34 @@
+---
+type: rule
+title: Do you know how to view a project’s activity, traffic and contributions?
+uri: do-you-know-how-to-view-a-projects-activity-traffic-and-contributions
+created: 2020-04-17T21:50:16.0000000Z
+authors:
+- id: 84
+  title: Patricia Barros
+
+---
+
+ 
+When you have a public project in GitHub you have some graphs available that give you some statistics helping you to understand who is using your project and why they are using it. These graphs can be found under the Insights tab.
+ ​![view-project-1.png](view-project-1.png)Figure: Under your project name, click Insights
+Read more about the project’s graphs: https://help.github.com/en/github/visualizing-repository-data-with-graphs/about-repository-graphs
+
+Some project graphs available:
+
+### ​Pulse Graph
+
+​![view-project-2.png](view-project-2.png)Figure: Pulse graph shows a summary of the project activity
+Read more about **Pulse Graph**:     [https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-summary-of-repository-activity​](https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-summary-of-repository-activity)
+
+### ​​Contributors Graph
+
+​![view-project-3.png](view-project-3.png)Figure: Contributors graphs show the top 100 contributors to the project
+Read more about **Contributors Graph**:     [https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-projects-contributors​](https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-projects-contributors)
+
+### ​Traffic Graph
+
+​![view-project-1.png](view-project-1.png)Figure: Traffic graphs show the project’s traffic, including clones, visitors in the past 14 days, referring sites and popular content to anyone with push access to the project​
+
+Read more about **Traffic Graph**:     [https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-traffic-to-a-repository​](https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-traffic-to-a-repository)​
+

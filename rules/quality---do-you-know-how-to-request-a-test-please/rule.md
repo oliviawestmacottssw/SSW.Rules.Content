@@ -44,9 +44,9 @@ Keep in mind that a "test please" is an urgent task and that it should start wit
 
     - Send suggestions/bugs one email at a time (with a new email subject) because it makes it easier to fix and reply "done"
         - Please CC the project manager [xxx@yyy.com] and the client [xxx@yyy.com]
-    - Know the definition of a bug. Read [www.ssw.com.au/ssw/Standards/Support/BugReportOrEnhancement.aspx](http&#58;//www.ssw.com.au/ssw/Standards/Support/BugReportOrEnhancement.aspx)
+    - Know the definition of a bug. Read http://www.ssw.com.au/ssw/Standards/Support/BugReportOrEnhancement.aspx
     - Understand the importance of testing. Read the rule on [Do you conduct a "test please" internally and then with the client?](/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx)
-    - Use good subjects on your emails. Read [Do you realize the importance of a good email Subject?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f4073e2a-b089-4a7f-8ee6-a7b1a48509e8)
+    - Use good subjects on your emails. Read [Do you realize the importance of a good email Subject?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f4073e2a-b089-4a7f-8ee6-a7b1a48509e8)
     - Do not reply to this message until you can say "Test Please Succeeded (as no Critical bugs). You are ready to deploy." or "Test Please Failed (as per Critical bugs reported)"
 
 
@@ -57,14 +57,14 @@ Thanks, [XXX]
     - Install into a non-default directory
     - Check the installation folder for misplaced items
     - Test Unit Tests via "Help - Run Unit Tests"
-    - (If Applicable)Test the "Create" and "Reconcile" buttons. Read [Rules to Better .NET Projects](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d384ebb3-3679-41cc-b05a-d439fa76cd35)
+    - (If Applicable)Test the "Create" and "Reconcile" buttons. Read [Rules to Better .NET Projects](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d384ebb3-3679-41cc-b05a-d439fa76cd35)
     - Test open and closing forms and saving values
     - Test most buttons and menus and links
     - Disable your network connection and test again (check for unhandled errors)
     - If your test fails, please rename the executable to [Application\_verX-XX\_failed.exe]
 5. **What if you are doing an email test?**
     - DO NOT add Test Please to the subject. (it is too easy to forget later!)
-    - Instead, add "Test please" with a yellow highlight to the top of the email body.
+    - Instead, add "Test please" with a yellow highlight to the top of the email body.
 
 
 
@@ -78,13 +78,13 @@ Dear [XXX],
 I am looking for bugs or approval to release this version.
 
 I have done what I could for my code's health. E.g.
-6. ​ <br>      **Note to ** ** developer: **If current version is better than the last version you can release (even with a test fail) as long:
+6. ​ <br>      **Note to ** ** developer: **If current version is better than the last version you can release (even with a test fail) as long:
     - The bugs reported in the test fail existed in the old version
     - Two people have tested it
     - The changes in this version are fairly important to get out
     - You get to work on the failures ASAP
 7. For clients on fixed price contracts, this email marks the start of the 30 day warranty period.
-8. Use TFS to email the work items to the project manager and client:  ![tfs-backlog-email.jpg](/PublishingImages/tfs-backlog-email.jpg) Figure: TFS makes it easy to export work items  ![tfs-backlog-email-2.jpg](/PublishingImages/tfs-backlog-email-2.jpg) Figure: How the email is generated
+8. Use TFS to email the work items to the project manager and client:  ![tfs-backlog-email.jpg](tfs-backlog-email.jpg) Figure: TFS makes it easy to export work items  ![tfs-backlog-email-2.jpg](tfs-backlog-email-2.jpg) Figure: How the email is generated
 
 ​
 

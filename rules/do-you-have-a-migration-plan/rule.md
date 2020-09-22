@@ -1,0 +1,30 @@
+---
+type: rule
+title: Do you have a Migration plan?
+uri: do-you-have-a-migration-plan
+created: 2018-01-17T19:21:26.0000000Z
+authors:
+- id: 69
+  title: Jean Thirion
+
+---
+
+ 
+At a high level, the plan is:
+ 
+- Choose your SharePoint Online Plan (for most companies already included in o365 plan) <br>      
+[Compare SharePoint Online options​​](https&#58;//products.office.com/en-us/sharepoint/compare-sharepoint-plans)
+- Choose a migration tool to help you migrate the content online <br>      
+i.e. at SSW we use Sharegate
+- Install the migration tool <br>
+- Migration tool - Configure connections to your source and target SharePoint site collections
+- Migration tool - Migrate your content
+    - Structure migration and content (dry-run)
+    - Analyse result reports
+    - Fix potential errors and warnings (repeat until you get to zero - see rule #2)
+    - Structure migration and content (for real)
+- Remove permissions on your on-premises SharePoint site(s) and give access to SharePoint Online
+- After a week, decommission your on-premises farm​
+
+
+
