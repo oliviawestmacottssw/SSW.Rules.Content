@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Different clients will have different levels of documentation on what they want to be built. You need to be ready to do a spec review for any one of the following 5 possible cases:
+ Different clients will have different levels of documentation on what they want to be built. You need to be ready to do a spec review for any one of the following 5 possible cases:
  
 #### Types of specifications​
 
@@ -23,7 +23,7 @@ Run from this
 or
 verify they have a really hefty bank account!
 
-### 2. High-Level Requirements Document
+### 2. High-Level Requirements Document
 
 This will read like a wish list with no details and many unanswered questions
 Figure: High-Level Requirements are very vague and open to many interpretations
@@ -36,24 +36,24 @@ The details have been fleshed out and allow developers to write Functional and T
 - Password should be at least 8 characters
 - .NET 4 is already used for the existing site so that is what this should use of course
 - Should look like this:
-![](/PublishingImages/LoginInterface.jpg)
+![](LoginInterface.jpg)
 
 Figure: Detailed Requirements have more of the details you want​  
 ### 4. Functional Specification
 This will include detailed mock-ups for the UI, use cases/user stories and might be at a level to allow for fixed price quoting on the project
-- We need a login page for [www.northwind.com](http&#58;//www.northwind.com/)
+- We need a login page for [www.northwind.com](http://www.northwind.com/)
 - Must match existing site look and feel
 - Users table must be defined and added to the ABC database (SQL Server 2008)
 - **User Name consists of user first initial and first 7 characters of the last name**
-- **For example Joe Jones -&gt; jjones**
+- **For example Joe Jones -> jjones**
 - Password should be at least 8 characters
 - Site uses .NET 4 and this interface must be added to existing project
 - This is the layout for the login interface
 - **A red asterisk (\*) should be displayed if a value is left blank and Submit is pressed**
-![](/PublishingImages/LoginInterface.jpg)
+![](LoginInterface.jpg)
 
 Figure: Functional Specifications go into more detail about the user interface and interactions in the system 
-### 5. Technical Specification
+### 5. Technical Specification
 
 
 This is the blueprint for the application. There should be no unanswered questions and should allow for a fixed price quote.
@@ -62,11 +62,11 @@ This is the blueprint for the application. There should be no unanswered questio
 - Must match existing site look and feel
 - Users table must be defined and added to the ABC database (SQL Server 2008)
 - User Name consists of user first initial and first 7 characters of the last name
-- For example Joe Jones -&gt; jjones
+- For example Joe Jones -> jjones
 - Password should be at least 8 characters
 - Site uses .NET 4 and this interface must be added to existing project
 - Define the data model explicitly
-![](/PublishingImages/Table.jpg)
+![](Table.jpg)
 - Must work with IE7, IE8, IE9, and FF3
 - Must display correctly at 1024x768 resolution
 - Must support ANSI characters for Username and Password
