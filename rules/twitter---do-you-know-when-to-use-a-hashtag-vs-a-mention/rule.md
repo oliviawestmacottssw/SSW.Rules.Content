@@ -14,7 +14,7 @@ authors:
 ---
 
  
-**​#Hashtags** are used when talking about something – a topic or keyword. Using a hashtag creates a link that leads to a page displaying an aggregated list of posts about that thing. 
+**​#Hashtags** are used when talking about something – a topic or keyword. Using a hashtag creates a link that leads to a page displaying an aggregated list of posts about that thing. 
 
 
 
@@ -28,15 +28,15 @@ The best tweets will use a combination of @mentions and #hashtags where appropri
 ​
 
 
- ![hashtag-stream.jpg](/PublishingImages/tweet-with-mentions-and-hashtags.png) Figure: Figure: This tweet utilises @mentions, #hashtags, and an external link, which will create higher engagement and let the reader further explore the topic
+ ![hashtag-stream.jpg](tweet-with-mentions-and-hashtags.png) Figure: Figure: This tweet utilises @mentions, #hashtags, and an external link, which will create higher engagement and let the reader further explore the topic
  
 **Small companies:
-**If the brand is not big you don't need it diluted. So find the profile and use the @ not the #
-E.g. @firebootcamp is preferred over #firebootcamp
+**If the brand is not big you don't need it diluted. So find the profile and use the @ not the #
+E.g. @firebootcamp is preferred over #firebootcamp
 
 **Large companies:**
 
-If the brand is big, you will see a difference between the @ and the #. So if you want to tweet about a subject that is also a username – such as #VisualStudio / @VisualStudio - then the content of your tweet will decide whether to use a hashtag or a @mention: 
+If the brand is big, you will see a difference between the @ and the #. So if you want to tweet about a subject that is also a username – such as #VisualStudio / @VisualStudio - then the content of your tweet will decide whether to use a hashtag or a @mention: 
 
 
 - If you are talking to someone directly, or mention a specific user in your tweet, you should use the @mention.
