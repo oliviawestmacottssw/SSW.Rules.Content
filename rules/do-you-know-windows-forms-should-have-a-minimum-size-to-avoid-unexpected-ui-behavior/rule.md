@@ -10,10 +10,10 @@ authors:
 ---
 
  If windows form does not setup a minimum size, your users could have unpredictable form behaviour​ as seen below:
-![Bad window form](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Bugsize.gif)​Figure: Bad Example - Unexpected window form​
+![Bad window form](../../assets/Bugsize.gif)​Figure: Bad Example - Unexpected window form​
 
  
 ​Therefore, a standard has been built to ensure Windows forms have a minimum size.
-![Good window form](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Minisize.gif)Figu​re: Good Example - User friendly window form​​​
+![Good window form](../../assets/Minisize.gif)Figu​re: Good Example - User friendly window form​​​
 ​
 
