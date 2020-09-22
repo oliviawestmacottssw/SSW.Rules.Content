@@ -14,18 +14,18 @@ authors:
 
 ​Timeboxing allows you to give more context to a task by showing how much time (and therefore money) you are willing to spend. This typically applies to:
 
-- "Nice to Haves" - If it takes too long, don't worry about it.
-- Risky tasks - I'm not sure this will even work, if you can't figure it out, don't worry about it.
+- "Nice to Haves" - If it takes too long, don't worry about it.
+- Risky tasks - I'm not sure this will even work, if you can't figure it out, don't worry about it.
 - Unknowns - This could take 2 minutes or 2 days. If it takes too long don't worry about it.
 
 
 
 
-![time-box-scrum-small.jpg](/PublishingImages/time-box-scrum-small.jpg)
+![time-box-scrum-small.jpg](time-box-scrum-small.jpg)
 **Timeboxed (1hr)**
  Do not spend more than the time allocated on this task.
 
 
-Figure: Good Example. A timeboxing of one hour.
+Figure: Good Example. A timeboxing of one hour.
 
 
