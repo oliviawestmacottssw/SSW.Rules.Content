@@ -13,4 +13,4 @@ A brief introduction will give some idea about what will happen on this  process
 - Add screen shot with red circle at the top of the screen
 - Put a description next to it
 
-![ssw Exchange Manager - Report Publication](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/IntroScreenBad.gif)Figure: Bad Example - This screen has no product introduction... The user is thinking ‘What is this going to do?’![ssw Exchange Manager - Report Publication](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/IntroScreenGood.gif)Figure: Good Example - This screen has product information before the settings... With a screen capture of where it ends up
+![ssw Exchange Manager - Report Publication](../../assets/IntroScreenBad.gif)Figure: Bad Example - This screen has no product introduction... The user is thinking ‘What is this going to do?’![ssw Exchange Manager - Report Publication](../../assets/IntroScreenGood.gif)Figure: Good Example - This screen has product information before the settings... With a screen capture of where it ends up
