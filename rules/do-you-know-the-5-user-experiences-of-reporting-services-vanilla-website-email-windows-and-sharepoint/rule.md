@@ -21,17 +21,17 @@ authors:
 
 
  
-​![ReportingServicesVanillaExample.jpg](/PublishingImages/ReportingServicesVanillaExample.jpg)Figure: Vanilla user experience
+​![ReportingServicesVanillaExample.jpg](ReportingServicesVanillaExample.jpg)Figure: Vanilla user experience
 
-![ReportingServicesWebsiteUExample.jpg](/PublishingImages/ReportingServicesWebsiteUExample.jpg)
+![ReportingServicesWebsiteUExample.jpg](ReportingServicesWebsiteUExample.jpg)
 
-​​Figure: Website user experience![ReportingServicesEmailUExample.jpg](/PublishingImages/ReportingServicesEmailUExample.jpg)
+​​Figure: Website user experience![ReportingServicesEmailUExample.jpg](ReportingServicesEmailUExample.jpg)
 
 Figure: Email user experience
 
-![](/PublishingImages/ReportingServicesWindowsUExample.jpg)
+![](ReportingServicesWindowsUExample.jpg)
 Figure: Windows user experience
 
-![ReportingServicesSharePointReportingUI.jpg](/PublishingImages/ReportingServicesSharePointReportingUI.jpg) 
+![ReportingServicesSharePointReportingUI.jpg](ReportingServicesSharePointReportingUI.jpg) 
 Figure: SharePoint user experience
 
