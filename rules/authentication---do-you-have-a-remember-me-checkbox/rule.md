@@ -11,5 +11,5 @@ authors:
 
  
 ​​It is always good to provide the user with an option to have their username and password remembered. Doing so means they don't have to type them again.​​
- ![sugarlearning-rememberme.jpg](/PublishingImages/sugarlearning-rememberme.jpg)
+ ![sugarlearning-rememberme.jpg](sugarlearning-rememberme.jpg)
 Figure: 'Remember me' checkbox in a Web Form​  
