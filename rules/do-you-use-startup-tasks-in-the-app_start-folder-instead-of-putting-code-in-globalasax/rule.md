@@ -49,6 +49,6 @@ public class MvcApplication : System.Web.HttpApplication
 ```
 
 
-![](/PublishingImages/startup-task.jpg) Figure: Good Example – Startup tasks are called from the Application\_Start method but are located in the App\_Start folder​
+![](startup-task.jpg) Figure: Good Example – Startup tasks are called from the Application\_Start method but are located in the App\_Start folder​
 
 
