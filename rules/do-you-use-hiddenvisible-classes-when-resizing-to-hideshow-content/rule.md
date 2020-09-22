@@ -27,8 +27,11 @@ As well as being able to hide content per view, you can also selectively show it
 - .visible-md
 - .visible-lg
 
-![RulesBootstrap - hidden.png](/PublishingImages/RulesBootstrap%20-%20hidden.png)​Bad Example: The mobile view on the right has a large unneccessary title.
+![RulesBootstrap - hidden.png](RulesBootstrap - hidden.png)​Bad Example: The mobile view on the right has a large unneccessary title.
 Remove the title by adding the .hidden-xs class.
 
-&lt;h1 class="hidden-xs"&gt;ASP.NET&lt;/h1&gt;​
-![RulesBootstrap - hidden2.png](/PublishingImages/RulesBootstrap%20-%20hidden2.png)G​ood Example: The mobile view is now leaner and cleaner thanks to our .hidden-xs class.​  
+
+
+# ASP.NET
+​
+![RulesBootstrap - hidden2.png](RulesBootstrap - hidden2.png)G​ood Example: The mobile view is now leaner and cleaner thanks to our .hidden-xs class.​  
