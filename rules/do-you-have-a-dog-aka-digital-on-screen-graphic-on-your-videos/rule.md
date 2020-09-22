@@ -26,7 +26,7 @@ A Good DOG must:​
 
 1. ​Be instantly recognizable
 2. Not obstruct the content
-3. Be in a semi-transparent format - usually  50 %  transparent white
+3. Be in a semi-transparent format - usually  50 %  transparent white
 4. Remain consistently placed throughout the broadcast
 
-<dl class="badImage"><dt><img src="/PublishingImages/dog-bad.jpg" alt=""></dt><dd>Figure – Bad example&#58; Channel ID is too obstructive and has unusual placement</dd></dl><dl class="goodImage"><dt><img src="/PublishingImages/dog-good.jpg" alt=""></dt><dd>Figure – Good example&#58; DOG placed in lower right corner where it's not obtrusive</dd></dl>
+<dl class="badImage"><dt><img src="dog-bad.jpg" alt=""></dt><dd>Figure – Bad example: Channel ID is too obstructive and has unusual placement</dd></dl><dl class="goodImage"><dt><img src="dog-good.jpg" alt=""></dt><dd>Figure – Good example: DOG placed in lower right corner where it's not obtrusive</dd></dl>
