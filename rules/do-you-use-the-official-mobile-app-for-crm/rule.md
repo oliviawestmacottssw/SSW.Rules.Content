@@ -10,13 +10,13 @@ authors:
 ---
 
  
-​While there is a web app available, Microsoft have now released a CRM mobile app for Apple, Android and, of course, their own phone OS.​ ​It is only for CRM Online and CRM2013 On-Premise.​
- ![](/PublishingImages/crm-mobile.jpg)Figure: CRM 2013 on your mobile​ gives you even more accessibility to your important company information
-You can download it now for your device (Aussie links):
+​While there is a web app available, Microsoft have now released a CRM mobile app for Apple, Android and, of course, their own phone OS.​ ​It is only for CRM Online and CRM2013 On-Premise.​
+ ![](crm-mobile.jpg)Figure: CRM 2013 on your mobile​ gives you even more accessibility to your important company information
+You can download it now for your device (Aussie links):
 
-- Windows Phone: <br>   [http://www.windowsphone.com/en-au/store/app/dynamics-crm/bdf6ad14-8ff3-4db1-a9d5-336c50ef13ee](http&#58;//www.windowsphone.com/en-au/store/app/dynamics-crm/bdf6ad14-8ff3-4db1-a9d5-336c50ef13ee)
-- Android: <br>   [https://play.google.com/store/apps/details?id=com.microsoft.crm.crmhost](https&#58;//play.google.com/store/apps/details?id=com.microsoft.crm.crmhost)
-- Apple iOS: <br>   [https://itunes.apple.com/us/app/microsoft-dynamics-crm-for/id723891307?mt=8](https&#58;//itunes.apple.com/us/app/microsoft-dynamics-crm-for/id723891307?mt=8)
+- Windows Phone: <br>   http://www.windowsphone.com/en-au/store/app/dynamics-crm/bdf6ad14-8ff3-4db1-a9d5-336c50ef13ee
+- Android: <br>   https://play.google.com/store/apps/details?id=com.microsoft.crm.crmhost
+- Apple iOS: <br>   https://itunes.apple.com/us/app/microsoft-dynamics-crm-for/id723891307?mt=8
 
 
 Make sure when you download that you're getting the official app released by Microsoft Corporation.
