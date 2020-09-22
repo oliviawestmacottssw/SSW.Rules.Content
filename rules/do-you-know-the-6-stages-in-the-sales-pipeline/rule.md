@@ -26,5 +26,5 @@ Any opportunity that has not yet been converted to a sale will be at one of the 
     - After the spec review, the client has been given a proposal for a chunk of work. Once this is approved, the opportunity is closed as won
 
 
-The old Sales Pipeline was 9 steps, whereas this new one is 6 steps.
-![the old sales pipeline](/PublishingImages/old-sales-pipeline.jpg)Figure: Bad Example – the old sales pipeline![the new sales pipeline](/PublishingImages/new-sales-pipeline.jpg)Figure: Good Example – the new sales pipeline​
+The old Sales Pipeline was 9 steps, whereas this new one is 6 steps.
+![the old sales pipeline](old-sales-pipeline.jpg)Figure: Bad Example – the old sales pipeline![the new sales pipeline](new-sales-pipeline.jpg)Figure: Good Example – the new sales pipeline​
