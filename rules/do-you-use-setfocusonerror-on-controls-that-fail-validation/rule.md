@@ -9,4 +9,4 @@ authors: []
 
  
 For Validation Errors, don’t rely on an error messagebox, instead automatically focus on the control.
-![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodValidation.jpg)Figure: Good Example - Balloons also direct the eye
+![](../../assets/GoodValidation.jpg)Figure: Good Example - Balloons also direct the eye
