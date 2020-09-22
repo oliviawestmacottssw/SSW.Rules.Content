@@ -12,17 +12,17 @@ authors:
 ---
 
  
-​​​​CRM 2013 has a nice way of reducing the amount of work needed to create a new Contact, ​Account and Opportunity. Simply make a Lead, and all three entities will be created in one go.
+​​​​CRM 2013 has a nice way of reducing the amount of work needed to create a new Contact, ​Account and Opportunity. Simply make a Lead, and all three entities will be created in one go.
 
 The process is:​
  
 1. In CRM, create a Lead.
 2. Convert it into an Opportunity, Contact and Account using the Qualify button.
 
-![Become familiar with the 'Convert Lead' button](/PublishingImages/CRM_ConvertLead.jpg)Figure: Create a Lead, then become familiar with the time saving "Qualify" button
+![Become familiar with the 'Convert Lead' button](CRM_ConvertLead.jpg)Figure: Create a Lead, then become familiar with the time saving "Qualify" button
 
 Clicking on the "Qualify" button allows the automatic generation of Accounts, Contacts and Opportunities, and also allows you to check for potential duplicates being created.
-![Convert Lead Web Page Dialog](/PublishingImages/CRM_ConvertLeadDialg.jpg)Figure: CRM 2013 also checks for existing records before creating new ones
+![Convert Lead Web Page Dialog](CRM_ConvertLeadDialg.jpg)Figure: CRM 2013 also checks for existing records before creating new ones
 This will:
 
 1. ​Deactivate the Lead​
@@ -34,5 +34,5 @@ This will:
 ​
 
 
-Note: You have just learned that a lead is a transitory thing. There is, however, one other case where you might want to use leads: [Do you know the one case where you use a CRM lead?](/Pages/The-one-case-where-you-use-a-CRM-lead.aspx) 
+Note: You have just learned that a lead is a transitory thing. There is, however, one other case where you might want to use leads: [Do you know the one case where you use a CRM lead?](/Pages/The-one-case-where-you-use-a-CRM-lead.aspx) 
 
