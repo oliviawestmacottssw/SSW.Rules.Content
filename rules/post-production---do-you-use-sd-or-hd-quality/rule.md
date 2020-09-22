@@ -14,7 +14,7 @@ authors:
  
 Most, if not all, modern video cameras sold today record at HD resolution. Many now record full HD (1080p) which allows you to get even greater detail. Also, modern compression types allow you to ‘squeeze’ the large amounts of data that would normally take up gigabytes of storage right down to something that can be streamed over the web, without too much loss of fidelity.
 
-![img_SDvsHD.jpg](/PublishingImages/SD-vs-HD.jpg)
+![img_SDvsHD.jpg](SD-vs-HD.jpg)
 
 Because of the ease of recording and compressing down HD video, it seems like a no brainer that videos should be produced in HD rather than SD. Once you have your videos recorded and edited using Adobe Premiere Pro, you need to choose an appropriate export setting. Assuming you’re making the video for web, here is what you need set as your pre-set for best quality ‘HD’ video while maintaining a small file size:
 
