@@ -20,9 +20,9 @@ When emailing external parties, it is a good idea to CC the other colleagues wit
 
 
 In addition, I often see people replying only to the sender of the email, ignoring the fact that there were other persons included in the original email. Obviously the original sender intended to keep everyone in the loop, so it would be polite to CC everyone included on the original communication. The converse is true also - don't cc people unnecessarily - you're just adding to the email problem!
-![good-emails-reply-to-all.jpg](/PublishingImages/good-emails-reply-to-all.jpg)Figure: Good Example - Reply All so that everyone is kept in the loop
+![good-emails-reply-to-all.jpg](good-emails-reply-to-all.jpg)Figure: Good Example - Reply All so that everyone is kept in the loop
 If the original email was to an alias with many subscribers, in general you should not Reply All.     
-Also, if the sender requests a     ['little r'](http&#58;//www.ssw.com.au/ssw/Redirect/Netlingo.htm) reply, then you should not 'Reply All'.​
+Also, if the sender requests a     ['little r'](http://www.ssw.com.au/ssw/Redirect/Netlingo.htm) reply, then you should not 'Reply All'.​
 
 ### Exception
 
@@ -30,5 +30,5 @@ Also, if the sender requests a     ['little r'](http&#58;//www.ssw.com.au/ssw/Re
 - The opinions of the rest of the recipients do not matter as they are unlikely to disagree
 
 
-**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI) ​
+**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI) ​
 
