@@ -19,9 +19,9 @@ This exercise uses the VS2010 planning poker deck of cards & TFS
 # Separate out the cards
 
 Separate out these as Chance Cards
-![Chance Cards](/PublishingImages/chance-cards.jpg) Figure: Chance cards
+![Chance Cards](chance-cards.jpg) Figure: Chance cards
 Separate out these as Point Cards
-![Point Cards](/PublishingImages/point-cards.jpg) Figure: Point cards
+![Point Cards](point-cards.jpg) Figure: Point cards
 # Set Timeboxes
 
 **Sprint Planning (What): ** 20 minutes
@@ -34,7 +34,7 @@ Separate out these as Point Cards
 
 # Sprint Planning Meeting (What)
 
-1. The trainer acts as PO and gives PBIs & prioritises them
+1. The trainer acts as PO and gives PBIs & prioritises them
 2. Students clarify the requirements of the PBIs (Details, Acceptance Criteria)
 3. Students do Planning Poker to Estimate
 4. Students break PBIs into tasks
@@ -67,9 +67,9 @@ Students and PO do a standard Scrum retro for the exercise.
 
 | **∞**** ** | Impediment |
 | --- | --- |
-| <br><ul>                <li>Draw a point card </li><br>                <li>Add the value to the remaining hours of a task</li><br>                <li>Record the impediment</li><br>            </ul><br>e.g.  DBA will not give access to the database. |
+| <br><ul>                <li>Draw a point card </li><br>                <li>Add the value to the remaining hours of a task</li><br>                <li>Record the impediment</li><br>            </ul><br>e.g.  DBA will not give access to the database. |
 | **?** | Clarification |
-| <br><ul>                <li>Draw a point card </li><br>                <li>Add a new task</li><br>                <li>Set the remaining hours of a task to the value</li><br>            </ul><br>e.g.  The error message should change from “User Error” to “The process could not be completed, please check the Url value provided for the webservice and try    again”. |
+| <br><ul>                <li>Draw a point card </li><br>                <li>Add a new task</li><br>                <li>Set the remaining hours of a task to the value</li><br>            </ul><br>e.g.  The error message should change from “User Error” to “The process could not be completed, please check the Url value provided for the webservice and try    again”. |
 | **0** | Bug |
 | <br><ul>                <li>Draw a point card </li><br>                <li>Create a bug</li><br>                <li>Add a task to the bug</li><br>                <li>Set the remaining hours on the task to the value</li><br>            </ul><br>e.g. One of the build scripts fails on the build server, but works on a local dev machine. |
 | **20** | Bubble |
