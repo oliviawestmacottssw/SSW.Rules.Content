@@ -29,8 +29,8 @@ Check-in policies are a great tool to enforce quality code before it hits your s
 
 To enable these policies:
 
-1. Right click the **Team Project in Team Explorer &gt; Team Project Settings &gt; Source Control**
+1. Right click the **Team Project in Team Explorer > Team Project Settings > Source Control**
 2. Select the check-in policies above
 3. Click **OK**
 
-![Chose check in policy](/PublishingImages/SC_TFSCI.jpg)Figure: Chose check-in policies in TFS 
+![Chose check in policy](SC_TFSCI.jpg)Figure: Chose check-in policies in TFS 
