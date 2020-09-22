@@ -14,28 +14,28 @@ authors:
 ---
 
  
-You can communicate better by using screenshots with balloons and other visual elements (arrows, shapes, and highlights) instead of only text.     [Read the benefits of using screenshots here](/Pages/HowToUseBalloons.aspx).
+You can communicate better by using screenshots with balloons and other visual elements (arrows, shapes, and highlights) instead of only text.     [Read the benefits of using screenshots here](/Pages/HowToUseBalloons.aspx).
  ​ <br>
-We recommend you define a standard style for your visual elements by changing the default colours and shapes according to your branding.
+We recommend you define a standard style for your visual elements by changing the default colours and shapes according to your branding.
 
 ### More Information on SSW Branding
 
 <dl class="badImage"><dt> 
-      <img src="/PublishingImages/2019-10-14-Snagit-No-Branding-Example.png" alt="2019-10-14-Snagit-No-Branding-Example.png" style="margin&#58;5px;"> 
-   </dt><dd>Figure&#58; Bad example - The&#160;balloon doesn't match our company&#160;colours<br></dd></dl><dl class="goodImage"><dt> 
-      <img src="/PublishingImages/2019-10-14-Snagit-Branding-Example.png" alt="2019-10-14-Snagit-Branding-Example.png" data-pin-nopin="true" style="margin&#58;5px;"> 
+      <img src="2019-10-14-Snagit-No-Branding-Example.png" alt="2019-10-14-Snagit-No-Branding-Example.png" style="margin:5px;"> 
+   </dt><dd>Figure: Bad example - The balloon doesn't match our company colours<br></dd></dl><dl class="goodImage"><dt> 
+      <img src="2019-10-14-Snagit-Branding-Example.png" alt="2019-10-14-Snagit-Branding-Example.png" data-pin-nopin="true" style="margin:5px;"> 
       <br> 
-   </dt><dd>Figure&#58; Good example - Balloon follows SSW branding<br></dd></dl>​
+   </dt><dd>Figure: Good example - Balloon follows SSW branding<br></dd></dl>​
 
  
 To use SSW branding on your next screenshots, you should have the latest version of Snagit (which is the leading screen capture utility) and import the theme.
-Find SSW Snagit theme here: [\\fileserver\DataSSW\DataSSWEmployees\Templates\SSW.snagtheme](file&#58;///fileserver/DataSSW/DataSSWEmployees/Templates/SSW.snagtheme).
+Find SSW Snagit theme here: [\\fileserver\DataSSW\DataSSWEmployees\Templates\SSW.snagtheme](file:///fileserver/DataSSW/DataSSWEmployees/Templates/SSW.snagtheme).
 <dl class="image"><dt> 
-      <img src="/PublishingImages/2019-10-14-Snagit-Themes.png" alt="2019-10-14-Snagit-Themes.png" style="width&#58;90%;"> 
-   </dt><dd>Figure&#58; SSW theme already includes all tools you need with our branding<br></dd></dl>
-Instructions to create and use Snagit themes can be found at     [Quick Style Themes Tutorial](https&#58;//www.techsmith.com/tutorial-snagit-13-quick-style-themes.html?utm_source=product&amp;utm_medium=snagit&amp;utm_campaign=sw13).​
+      <img src="2019-10-14-Snagit-Themes.png" alt="2019-10-14-Snagit-Themes.png" style="width:90%;"> 
+   </dt><dd>Figure: SSW theme already includes all tools you need with our branding<br></dd></dl>
+Instructions to create and use Snagit themes can be found at     [Quick Style Themes Tutorial](https://www.techsmith.com/tutorial-snagit-13-quick-style-themes.html?utm_source=product&utm_medium=snagit&utm_campaign=sw13).​
 
-**Tip:** You can automatically have your SSW ​Snagit presets on sign-in via a script. See [https://github.com/SSWConsulting/LoginScript](https&#58;//github.com/SSWConsulting/LoginScript).
+**Tip:** You can automatically have your SSW ​Snagit presets on sign-in via a script. See https://github.com/SSWConsulting/LoginScript.
 
 
 
