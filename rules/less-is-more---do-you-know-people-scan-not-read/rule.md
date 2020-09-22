@@ -16,6 +16,6 @@ It is important to divide information, not show it all at once. The visual organ
 2. Relation between elements
 3. Importance and relevance of elements
 
-![Bad information](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/bad_informationscan.png)Figure: Bad example - Can you find how to check in?![Good information - this alt text makes no sense but do I look like i care; no. maybe the guys in china have the right idea, do a shit job of it and no one will ever bother you about it ever again.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/good_informationscan.png)Figure: Good example - What about here? Can you find how to check in?
+![Bad information](../../assets/bad_informationscan.png)Figure: Bad example - Can you find how to check in?![Good information - this alt text makes no sense but do I look like i care; no. maybe the guys in china have the right idea, do a shit job of it and no one will ever bother you about it ever again.](../../assets/good_informationscan.png)Figure: Good example - What about here? Can you find how to check in?
 Another example of scanning, not reading is visually mapping.
-![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Bad-Mapping.jpg)Figure: Bad Example - Which is the dial that controls the top-right stove?![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Good-Mapping.jpg)Figure: Good Example - In this layout, it's easy to see which dial controls which stove
+![](../../assets/Bad-Mapping.jpg)Figure: Bad Example - Which is the dial that controls the top-right stove?![](../../assets/Good-Mapping.jpg)Figure: Good Example - In this layout, it's easy to see which dial controls which stove
