@@ -21,4 +21,4 @@ Eg.
 - Customer and Contact Form v1
 - Customer and Contact Form v2
 
-![](/PublishingImages/undone-work.png)Figure: A PBI has had the scope adjusted and the v1 has been completed. Additional functionality has been moved to v2 and put on the backlog
+![](undone-work.png)Figure: A PBI has had the scope adjusted and the v1 has been completed. Additional functionality has been moved to v2 and put on the backlog
