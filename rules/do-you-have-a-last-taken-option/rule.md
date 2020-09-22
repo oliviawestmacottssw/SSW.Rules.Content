@@ -10,9 +10,9 @@ authors: []
 
 The best apps predict what the user is trying to do from context and does it for them.
  <dl><dt>
-<img src="/PublishingImages/lastphototaken.png" alt="" style="width&#58;200px;"> 
-</dt><dd class="ssw15-rteElement-FigureGood">Figure&#58; Good Example – “Use Last Photo Taken” is a simple example from Slack.</dd></dl>
+<img src="lastphototaken.png" alt="" style="width:200px;"> 
+</dt><dd class="ssw15-rteElement-FigureGood">Figure: Good Example – “Use Last Photo Taken” is a simple example from Slack.</dd></dl>
 This is generally referred to as an “adaptive system.”
 
-Smashing magazine has a much more detailed article regarding [adaptive systems](http&#58;//www.smashingmagazine.com/2012/12/10/creating-an-adaptive-system-to-enhance-ux/) from 2012 along with advanced examples.
+Smashing magazine has a much more detailed article regarding [adaptive systems](http://www.smashingmagazine.com/2012/12/10/creating-an-adaptive-system-to-enhance-ux/) from 2012 along with advanced examples.
 
