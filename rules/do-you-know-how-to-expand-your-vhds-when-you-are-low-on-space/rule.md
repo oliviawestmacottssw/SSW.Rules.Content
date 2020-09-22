@@ -13,7 +13,7 @@ authors:
 1. Open the** Hyper-V Manager** on the server hosting the Virtual Machine
 2. Shutdown the virtual machine
 3. Click **Edit Disk...** in the **Actions **pane of the **Hyper-V Manager
-![You expand a VHD from the Actions Menu | Edit Disk](/PublishingImages/actions-expand.jpg)
+![You expand a VHD from the Actions Menu | Edit Disk](actions-expand.jpg)
 **Figure: You expand a VHD from the Actions Menu | Edit Disk
 4. In the **Edit Virtual Hard Disk Wizard** window, choose the VHD you want to edit and choose **Next.**
 5. Select **Expand** and click **Next**
@@ -25,10 +25,10 @@ You will now have a resized VHD. Next step is to boot up into the virtual machin
 1. Boot into the virtual machine
 2. Open **Computer Management** and choose **Disk Management**
 3. Right click on the partition sitting at the front of the newly resized disk and click on **Extend Volume...
-![The first partition on the disk needs to be expanded to use up the unallocated space created when expanding the VHD](/PublishingImages/expand-freespace.jpg)
+![The first partition on the disk needs to be expanded to use up the unallocated space created when expanding the VHD](expand-freespace.jpg)
 ****Figure: The first partition on the disk needs to be expanded to use up the unallocated space created when expanding the VHD**
 4. You will have to use all the available space when you extend the volume as it is a Simple Volume. (See Rule: [Do you use Basic Volumes inside VHD’s?](/Pages/Do-you-use-Basic-Volumes-inside-VHDs.aspx)) When you are asked to select your disks just click **Next**
 5. Click **Finish
-![The disk is now using all the available space inside the VHD ](/PublishingImages/expand-fullspaceused.jpg)** Figure: The disk is now using all the available space inside the VHD
+![The disk is now using all the available space inside the VHD ](expand-fullspaceused.jpg)** Figure: The disk is now using all the available space inside the VHD
 
 
