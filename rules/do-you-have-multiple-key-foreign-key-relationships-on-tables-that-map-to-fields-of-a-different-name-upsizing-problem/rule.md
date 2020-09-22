@@ -9,5 +9,5 @@ authors:
 
 ---
 
-![](/PublishingImages/MultipleForeignKeyRelationshipsDifferentNames.jpg) 
-Figure: Multiple Foreign Key Relationships Different Names [Upsizing PRO](http&#58;//www.ssw.com.au/ssw/UpsizingPRO) will check this rule 
+![](MultipleForeignKeyRelationshipsDifferentNames.jpg) 
+Figure: Multiple Foreign Key Relationships Different Names [Upsizing PRO](http://www.ssw.com.au/ssw/UpsizingPRO) will check this rule 
