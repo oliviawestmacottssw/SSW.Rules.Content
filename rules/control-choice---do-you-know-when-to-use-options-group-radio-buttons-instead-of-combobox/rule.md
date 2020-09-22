@@ -17,4 +17,4 @@ For a ComboBox, user needs 2 clicks to change the value
 
 
 For an options group, user can see all the available options without clicking, and select the option with just a click.
-![ComboBox is used for ](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/NotUsingRadioButtons.gif)Figure: Bad Example - ComboBox is used for "Job Type" where it contains only 2 options![Radio Buttons are used and aligned vertically.](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/UsingRadioButtons.gif)Figure: Good Example - Radio Buttons are used and aligned vertically
+![ComboBox is used for ](../../assets/NotUsingRadioButtons.gif)Figure: Bad Example - ComboBox is used for "Job Type" where it contains only 2 options![Radio Buttons are used and aligned vertically.](../../assets/UsingRadioButtons.gif)Figure: Good Example - Radio Buttons are used and aligned vertically
