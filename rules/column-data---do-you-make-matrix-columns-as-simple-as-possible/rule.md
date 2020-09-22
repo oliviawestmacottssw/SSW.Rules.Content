@@ -7,4 +7,4 @@ authors: []
 
 ---
 
- ![Bad alignment](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/bad-matrixcol.jpg)Figure: Bad example - Hard to read these columns   ​![Good alignment](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/good-matrixcol.jpg)Figure: Good example - The whole table has been re-written and is now easier to understand
+ ![Bad alignment](../../assets/bad-matrixcol.jpg)Figure: Bad example - Hard to read these columns   ​![Good alignment](../../assets/good-matrixcol.jpg)Figure: Good example - The whole table has been re-written and is now easier to understand
