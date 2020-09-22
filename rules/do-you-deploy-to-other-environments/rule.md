@@ -15,4 +15,4 @@ Now that you have configured “Build Once, Deploy Many” you can open the fold
 This means that if you deploy version 37, and then want to roll back to version 36 simply open the folder for 36 and re-run that batch file (assuming there has been no breaking DB schema changes).
 
 TODO: AdamS – Write a rule on non-breaking Schema changes
-![](/PublishingImages/deploy-other-environments.jpg)Figure: To deploy to staging and production, open the appropriate drops folder and execute the correct batch file from the drops folder
+![](deploy-other-environments.jpg)Figure: To deploy to staging and production, open the appropriate drops folder and execute the correct batch file from the drops folder
