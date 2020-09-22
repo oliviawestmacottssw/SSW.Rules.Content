@@ -45,9 +45,9 @@ Thanks, Patricia
 
 Hi SSW Absence,
 I want to book a ticket to go to Brazil for 2 weeks.
-I'd like to leave in about 4 weeks. I will, of course, check with my client before I purchase my tickets.
+I'd like to leave in about 4 weeks. I will, of course, check with my client before I purchase my tickets.
 
 Thanks, Patricia
 Figure: Good Example - appropriate notice given
- ![BeachEnforcers.jpg](/PublishingImages/BeachEnforcers.jpg) Figure: Did you give enough notice, or do we need to track you down?​
+ ![BeachEnforcers.jpg](BeachEnforcers.jpg) Figure: Did you give enough notice, or do we need to track you down?​
 
