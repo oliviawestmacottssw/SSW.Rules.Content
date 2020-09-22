@@ -21,7 +21,7 @@ In debug mode the compiler emits debug symbols for all variables and compiles th
 
 The rest is up to the JIT.
 
-As per:     [C# debug vs release performance](http&#58;//stackoverflow.com/questions/2446027/c-sharp-debug-vs-release-performance).
-![](/PublishingImages/debug-bad.jpg)Figure: Bad Example![](/PublishingImages/debug-good.jpg)Figure: Good Example
-We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor) to check for this rule.​​
+As per:     [C# debug vs release performance](http://stackoverflow.com/questions/2446027/c-sharp-debug-vs-release-performance).
+![](debug-bad.jpg)Figure: Bad Example![](debug-good.jpg)Figure: Good Example
+We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.​​
 
