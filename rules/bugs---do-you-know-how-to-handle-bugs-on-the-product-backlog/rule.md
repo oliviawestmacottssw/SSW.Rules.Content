@@ -16,9 +16,9 @@ authors:
 
 Bugs that are introduced and found because of the current work in the Sprint are included in the Sprint and estimated immediately so the burndown remains accurate. All other bugs found independent of the work on the current sprint are placed on the Product Backlog.​
 
-See [Do you know when to create bugs?](/Pages/CreateBugs.aspx) for detailed information on identifying when something is a bug, and when to just fix it.
+See [Do you know when to create bugs?](/Pages/CreateBugs.aspx) for detailed information on identifying when something is a bug, and when to just fix it.
  
-### Using the Agile p​​​rocess tem​plate
+### Using the Agile p​​​rocess tem​plate
 
 
 In the Agile template, you can't assign Story Points to bugs, meaning that they will negatively impact on sprint velocity.
@@ -38,14 +38,14 @@ This process:
 
 
 
-### Using the Scrum​​ process template​
+### Using the Scrum​​ process template​
 
 
 In the Visual Studio Scrum template, bugs are just another PBI and you can assign a business priority and an effort estimate in Story Points. Bugs that make the cut for the next sprint can be broken down into tasks and estimated as required.
 
 As bugs from previous sprints are just PBI’s, the PO agrees to a list of bugs that will be fixed in the current Sprint.
 
-The team just fixes any **new** bugs they introduced in the current sprint.
+The team just fixes any **new** bugs they introduced in the current sprint.
 
 If the team finds bugs due to functionality accepted in a previous sprint they log it as a PBI and will complete the fix in a future sprint, unless it is a critical bug, in which case they raise it as an impediment to the current sprint to the PO.
 
@@ -57,10 +57,10 @@ Examples:
 
 
 
-​​![2016-02-08_12-02-29.png](/SiteAssets/bugs-do-you-know-how-to-handle-bugs-on-the-product-backlog/2016-02-08_12-02-29.png)
+​​![2016-02-08_12-02-29.png](2016-02-08_12-02-29.png)
 
 
 ​​​​​​​​Figure: Bugs can be added "out of sprint" directly into the product backlog in TFS
-T​he Visual Studio team provides good guidance on [managing bugs in VSTS](https&#58;//www.visualstudio.com/en-us/docs/work/backlogs/manage-bugs)
+T​he Visual Studio team provides good guidance on [managing bugs in VSTS](https://www.visualstudio.com/en-us/docs/work/backlogs/manage-bugs)
 
 
