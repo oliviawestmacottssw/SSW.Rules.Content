@@ -15,7 +15,7 @@ authors:
 
 与会者每人要回答三个关键问题：​​​​​​
  
-​1.  昨天做了什么？（你是否更新了TFS/其它任务跟踪系统的工作项？）
+​1.  昨天做了什么？（你是否更新了TFS/其它任务跟踪系统的工作项？）
 
 2. 你今天要做什么？（我​当前的任务已经在白板上了）
 
@@ -39,10 +39,10 @@ authors:
 
 <br>​​****视频: 微软的每日Scrum会议(长)**
 
-** **
+** **
 
-**牢记：**  
-      “只要能遵循Scrum价值，改变Scrum是可以的，实际上为了成功，这也是有必要的。”
+**牢记：**
+      “只要能遵循Scrum价值，改变Scrum是可以的，实际上为了成功，这也是有必要的。”
 
 -Stephen Forte
 
@@ -55,15 +55,15 @@ authors:
 
 在会议结束时,Scrum Master应该[检查燃尽图](/reports-do-you-schedule-the-burndown-and-stories-overview-reports-to-be-emailed-to-the-team-every-day)以把握团队当前的进度
 
-![burndowntfspreview.png](/PublishingImages/burndowntfspreview.png) 
+![burndowntfspreview.png](burndowntfspreview.png) 
 图：TFS 预览版(TFS 2012)自动生成燃尽图
 
-建议 2：在墙上贴一张每日Scrum会议的日程表(+ 在OutLook中设置一个预约)
+建议 2：在墙上贴一张每日Scrum会议的日程表(+ 在OutLook中设置一个预约)
 
 
-Hi **&lt;团队名称&gt;**,
+Hi ,
 
-根据我们的讨论，**&lt;项目名称**&gt;的每日Scrum会议在每个工作日的11:00AM(悉尼时间)在&lt;**地点&gt;**举行。
+根据我们的讨论，>的每日Scrum会议在每个工作日的11:00AM(悉尼时间)在<**地点>**举行。
 
 根据以下规则，它持续时间最长为15分钟
 
@@ -73,7 +73,7 @@ Hi **&lt;团队名称&gt;**,
 
 
 谢谢,
-**&lt;Scrum Master&gt;​  ** 
+**​  ** 
 
 示例：在Outlook中设置每日Scrum会议预约模板
 
@@ -83,23 +83,23 @@ Hi **&lt;团队名称&gt;**,
 如果Scrum Master不是团队的全职成员（通常他们是全职），他们应该偶尔参加以检查Scrum会议流程按时进行，并且保证每天的Scrum会议是用来同步团队成员的进度而不是一个普通的会议。
 
 注意 #1: Product Owner（通常是客户）是没必要参加Scrum会议的，如果他想要参加，让他保证不要说话。
-注意 #2: 如果你正在一个未经批准的迭代中，或者是正在做临时特别任务，那么Product Owner参加是最好的了。([临时特别任务](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#AdHocManagedWork))
+注意 #2: 如果你正在一个未经批准的迭代中，或者是正在做临时特别任务，那么Product Owner参加是最好的了。([临时特别任务](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#AdHocManagedWork))
 
 **建议**** 4：****在Scrum会议开始前你是否更新了任务状态****?**
 
 提前保证团队成员的任务状态被更新，这样会议会更有效率。
 SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meeting-do-you-update-your-tasks-before-the-daily-scrum)
 
-​建议 5：不要涉及详细内容​保证你的回答简洁明了，不要偏离那三个关键问题，记着使用“Parking Lot”记录下问题以便在会议后进行讨论。
+​建议 5：不要涉及详细内容​保证你的回答简洁明了，不要偏离那三个关键问题，记着使用“Parking Lot”记录下问题以便在会议后进行讨论。
 
-建议 6：不要打电话+不要检查邮件+不要分心科技可以使开会的人们失去了焦点，会议的焦点是使人们通过分享他们正在做什么来同步团队进度。在Scrum会议中通过禁止邮件，短信和电话以保证人们不会被分心。
+建议 6：不要打电话+不要检查邮件+不要分心科技可以使开会的人们失去了焦点，会议的焦点是使人们通过分享他们正在做什么来同步团队进度。在Scrum会议中通过禁止邮件，短信和电话以保证人们不会被分心。
 
 **
 建议**** 7：****使用一个任务板（使用电子版的更好****)**
 
 人们可以通过任务板看到当前正在讨论的问题。
 
-![tfspreviewtaskboard.png](/PublishingImages/tfspreviewtaskboard.png)​  
+![tfspreviewtaskboard.png](tfspreviewtaskboard.png)​  
 **图：TFS ****Preview****中的任务板****(TFS 2012)**
 
 **
@@ -111,17 +111,17 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 
 “Parking Lot”用来记录阻碍回答三个关键问题的讨论，只有那些感兴趣的人会在Scrum会议后继续讨论“Parking Lot”记录的问题。
 
-建议 10：如果你发现了障碍，考虑联系你的Product Owner
+建议 10：如果你发现了障碍，考虑联系你的Product Owner
 
-![Description&#58; Get the Product Owner on the phone](/PublishingImages/ProductOwnerTelephone.jpg)
+![Description: Get the Product Owner on the phone](ProductOwnerTelephone.jpg)
 
 **图：****通常****Product**** ****Owner****不会在****Scrum****会议中，但是如果你遇到一个障碍，给****Product**** ****Owner****打一个电话。如果你在上一周没有与他接触，那么与****Product**** ****Owner****交流就变的非常重要。与****Product**** ****Owner****失去联系是项目垮掉的一个信号****。
 
 **
 
-**建议 11：如何将Scrum会议填入你的工时表中？**
+**建议 11：如何将Scrum会议填入你的工时表中？**
 
-一旦你完成了Scrum会议，在你的工时表中添加'S'（ [SSW建议:更好的填写工时表](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTimesheets.aspx)）
+一旦你完成了Scrum会议，在你的工时表中添加'S'（ [SSW建议:更好的填写工时表](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTimesheets.aspx)）
 
 建议 12：使用 Skype或者Lync
 
@@ -135,7 +135,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 > “将这条规则扩展到‘价值的流动’，而不仅仅是人。保持着一个持续化流动的理念在脑海中，Scrum会议将会更少的关注人....
 > 它是关注于价值的流动的。团队站在白板前，每个人浏览那些‘正在进行中’的工作项，试着找出推进它能进入到下一个阶段的方法...同时要考虑到工作项相互之间的约束。”
 > 
-> [Joel Semeniuk​](http&#58;//joelfromcanada.com/)
+> [Joel Semeniuk​](http://joelfromcanada.com/)
 
 
 更多的信息：
@@ -146,8 +146,8 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 2. 如果发生了重大事故怎么办？
 优先处理重大事故是很重要的，处理所有在24小时内发生的重大事件。
 
-![](/PublishingImages/NewStandUpImage.jpg)
+![](NewStandUpImage.jpg)
 
 ​图：如果有重大事故发生，每日Scrum会议可以提醒每个人并且集中所有的资源到一个问题上。如果一把尖刀插进了你的眼睛，而你却给擦伤的膝盖贴创可贴是没有任何意义的。​
-![dailyscrumtweet.png](/PublishingImages/dailyscrumtweet.png)​
-图：喜欢请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https&#58;//twitter.com/#%21/AdamCogan/status/168175594209681408) ​
+![dailyscrumtweet.png](dailyscrumtweet.png)​
+图：喜欢请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https://twitter.com/#%21/AdamCogan/status/168175594209681408) ​
