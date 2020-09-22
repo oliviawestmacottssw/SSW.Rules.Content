@@ -12,5 +12,5 @@ authors:
 ---
 
  
-If you have form fields that require some further information, you can provide a hints column next to the fields so users know what the purpose of the data is.
- ![field hints](/PublishingImages/field-hints.jpg) Figure: Good example - Field hints can make the user more comfortable​
+If you have form fields that require some further information, you can provide a hints column next to the fields so users know what the purpose of the data is.
+ ![field hints](field-hints.jpg) Figure: Good example - Field hints can make the user more comfortable​
