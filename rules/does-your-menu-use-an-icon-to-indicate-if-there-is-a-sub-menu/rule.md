@@ -9,6 +9,6 @@ authors: []
 
  
 Too many sites expect the user to hover and wait to       'discover' if there are sub menus. Use an icon and avoid the       surprises.
- ![Good](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/SubmenusHaveIcons_Good.gif)Figure: Good Example - This menu clearly shows which items have submenus
-[WorleyParson](http&#58;//www.worleyparsons.com/csg/infrastructureandenvironment/resource_infrastructure/Pages/default.aspx) submenus were also designed with this in mind.
+ ![Good](../../assets/SubmenusHaveIcons_Good.gif)Figure: Good Example - This menu clearly shows which items have submenus
+[WorleyParson](http://www.worleyparsons.com/csg/infrastructureandenvironment/resource_infrastructure/Pages/default.aspx) submenus were also designed with this in mind.
 
