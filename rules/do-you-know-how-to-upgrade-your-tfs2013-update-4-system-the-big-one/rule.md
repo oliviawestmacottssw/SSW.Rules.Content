@@ -15,36 +15,36 @@ Once you have prepared your environment by creating backups, testing your rollba
  
 Here we assume that you are performing an in-place upgrade. Below are the high level steps that you should follow:
 
-a.               [Send an email](http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterNetworks.aspx#rebootrestart) to let everyone know the TFS server will be offline.
+a.               [Send an email](http://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterNetworks.aspx#rebootrestart) to let everyone know the TFS server will be offline.
 
-b.              Ensure that your Project Collections are offline.
+b.              Ensure that your Project Collections are offline.
 
-c.               Run the setup tool from the TFS 2015 media (or ISO).
+c.               Run the setup tool from the TFS 2015 media (or ISO).
 
-.                Run through the wizard. It should remember most of your existing settings, so not much configuration is required.
+.                Run through the wizard. It should remember most of your existing settings, so not much configuration is required.
 
-d.              Make sure you have access to coffee while it's upgrading your Project Collections- it could take a while!
+d.              Make sure you have access to coffee while it's upgrading your Project Collections- it could take a while!
 
 
 
-![depending size.png](/PublishingImages/depending%20size.png)
+![depending size.png](depending size.png)
 
 **Figure: Depending on the size of your collections, the Project Collection upgrade process takes the longest out of all steps**
 
 
 
-![coffee.png](/PublishingImages/coffee2.png)
+![coffee.png](coffee2.png)
 
 **Figure: Wait for the Project Collection upgrade to complete**
 
-** **
+** **
 
-**![success.png](/PublishingImages/success.png)
+**![success.png](success.png)
 **
 
 **Figure: TFS Upgrade wizard success!**
 
-** **
+** **
 
 Now you're almost done! That covers the core upgrade of your TFS server, your TFS configuration database, and Project Collections.
 
