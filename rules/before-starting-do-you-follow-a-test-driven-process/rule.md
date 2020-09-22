@@ -18,7 +18,7 @@ authors:
 4. Compile
 5. Check In
 
-Figure: Bad example - wrong process![](/PublishingImages/BeforeCoding.jpg)Figure: Before you start cooking prepare all your ingredients. Before you start coding, "Get Latest" the right way
+Figure: Bad example - wrong process![](BeforeCoding.jpg)Figure: Before you start cooking prepare all your ingredients. Before you start coding, "Get Latest" the right way
 1. Get latest
 2. Compile
 3. Run Unit Tests
