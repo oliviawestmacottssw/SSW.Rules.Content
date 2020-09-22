@@ -9,10 +9,10 @@ authors:
 
 ---
 
- ![](/PublishingImages/expense-reimbursement.png)
+ ![](expense-reimbursement.png)
 ​You should be reimbursed for all reasonable expenses incurred in carrying out your duties, which are above your normal costs, to and from the office.
 
-A common example is bus and train fares to client sites. In Australia, amounts under $100 could be reimbursed through Petty Cash but in China, it would be around ￥300. ​
+A common example is bus and train fares to client sites. In Australia, amounts under $100 could be reimbursed through Petty Cash but in China, it would be around ￥300. ​
 
 
  
@@ -25,10 +25,10 @@ All expense claims must:
 - Be signed by the claimant and authorized by the relevant Manager
 - Be supported by Tax Invoices
 - Not include alcohol, as it incurs FBT
-- Receipts should be in English (where possible), or you must write on the receipt what the expense is, and​ what it was for
+- Receipts should be in English (where possible), or you must write on the receipt what the expense is, and​ what it was for
 
 
-Tip: If necessary, you can use the Google Translate app to translate your receipts by taking a photo!
+Tip: If necessary, you can use the Google Translate app to translate your receipts by taking a photo!
 
 
 
