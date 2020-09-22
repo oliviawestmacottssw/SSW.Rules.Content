@@ -16,6 +16,6 @@ Snapshots are a very easy way to back up a system before a big change is made. T
 2. Right click on the virtual machine you wish to snapshot and click **Snapshot**
 3. The snapshot should run very quickly and you will notice the snapshot in the **Snapshots **area of the **Hyper-V Manager
 
-![You will see the snapshots associated with a Virtual Machine when you click on them](/PublishingImages/snapshot-while-off.jpg)**
+![You will see the snapshots associated with a Virtual Machine when you click on them](snapshot-while-off.jpg)**
 **You will see the snapshots associated with a Virtual Machine when you click on them**
 
