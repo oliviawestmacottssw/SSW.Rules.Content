@@ -12,13 +12,13 @@ authors:
  
 ​                     As a responsible employee, there should be no excuse for ever losing data, especially                     if it belongs to a client. For this reason, it's important to make sure:
  
-- Your [backups](http&#58;//www.ssw.com.au/ssw/standards/rulestobetterdeadtime/images/developergeneral/windowstools.aspx#backup)are working properly
-- You are using [source control](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=eb7e3b10-ce4f-432f-92a8-bafda609877e) for any code you develop
+- Your [backups](http://www.ssw.com.au/ssw/standards/rulestobetterdeadtime/images/developergeneral/windowstools.aspx#backup)are working properly
+- You are using [source control](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=eb7e3b10-ce4f-432f-92a8-bafda609877e) for any code you develop
 
 
 If you are working onsite, you can still use TFS remotely and it's important to                     talk the client into this in order to avoid any possible disasters.​
 
 
 
-![Backup.gif](/PublishingImages/Backup.gif)
+![Backup.gif](Backup.gif)
 ​Figure: Have a backup
