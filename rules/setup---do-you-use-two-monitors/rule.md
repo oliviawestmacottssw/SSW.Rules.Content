@@ -17,4 +17,4 @@ authors:
 Providing users with the ability to access more information and images simultaneously,                     multiple monitor configurations allow for more efficient multitasking between applications.
 
 For example, if you were a developer; you could have your references in one monitor                     and your Visual Studio in another, and directly compare the two without compromising                     on space or layout.
-![Two Monitors Better Than One ](/PublishingImages/TwoMonitorsBetterThanOne.JPG)                       Figure: Two monitors are better than one<br>                    
+![Two Monitors Better Than One ](TwoMonitorsBetterThanOne.JPG)                       Figure: Two monitors are better than one<br>                    
