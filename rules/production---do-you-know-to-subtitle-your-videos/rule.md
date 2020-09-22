@@ -17,4 +17,4 @@ authors:
 Sometimes, the audio recording is too low, and adding gain to the audio will introduce unwanted noise. In this instance, you want to add subtitles using your editing program.
  
 ​​Use the following:
-![Have a subtitle](/PublishingImages/subtitle.jpg)Figure: Good example – the text helps people to understand what's happening on the video
+![Have a subtitle](subtitle.jpg)Figure: Good example – the text helps people to understand what's happening on the video
