@@ -15,9 +15,9 @@ The importance of having the status of progress bar on winform's title:
 
    ​
 The form title should take the form of "[XX]% Completed - [Task Description] - [Product Name]".
-There is another relevant rule about the [winform title](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Windows-Applications.aspx#TitleBarCaption).
-<dl class="badImage"><dt><img width="420" height="222" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BadProgressForm.gif" alt="Winform's title without progress status"></dt>
-<dd>Figure&#58; Bad Example - The winform's title does not contain the progress status</dd></dl><dl class="goodImage"><dt><img width="580" height="489" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodProgressForm.gif" alt="Winform's title with progress status"></dt>
-<dd>Figure&#58; Good Example - The winform's title contains the status of progress bar</dd></dl><dl class="goodImage"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodProgressFormTaskbar.gif" alt="Winform's title with progress status (Taskbar)" style="width&#58;550px;"></dt>
-<dd>Figure&#58; Good Example - You can clearly see the progress status from taskbar when you have the windows minimized</dd></dl><dl class="goodImage"><dt><img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/TaskBarProgress.png" alt="Winform's title with progress status (Taskbar)"></dt>
-<dd>Figure&#58; Good Example - Windows 7 shows the progress in the taskbar (which is visible even when the application is minimized)</dd></dl>
+There is another relevant rule about the [winform title](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Windows-Applications.aspx#TitleBarCaption).
+<dl class="badImage"><dt><img width="420" height="222" src="../../assets/BadProgressForm.gif" alt="Winform's title without progress status"></dt>
+<dd>Figure: Bad Example - The winform's title does not contain the progress status</dd></dl><dl class="goodImage"><dt><img width="580" height="489" src="../../assets/GoodProgressForm.gif" alt="Winform's title with progress status"></dt>
+<dd>Figure: Good Example - The winform's title contains the status of progress bar</dd></dl><dl class="goodImage"><dt><img src="../../assets/GoodProgressFormTaskbar.gif" alt="Winform's title with progress status (Taskbar)" style="width:550px;"></dt>
+<dd>Figure: Good Example - You can clearly see the progress status from taskbar when you have the windows minimized</dd></dl><dl class="goodImage"><dt><img src="../../assets/TaskBarProgress.png" alt="Winform's title with progress status (Taskbar)"></dt>
+<dd>Figure: Good Example - Windows 7 shows the progress in the taskbar (which is visible even when the application is minimized)</dd></dl>
