@@ -12,8 +12,8 @@ authors:
  
 For PCs that are not in the domain, the printers won’t be automatically installed.
 
-So you should add a DNS alias which maps \\printer to your print server.
-![Add the printer via Connect](/PublishingImages/add-printer-via-connect.jpg)Figure: \\printer takes to this window, were you can "Add" the printer via Connect
+So you should add a DNS alias which maps \\printer to your print server.
+![Add the printer via Connect](add-printer-via-connect.jpg)Figure: \\printer takes to this window, were you can "Add" the printer via Connect
 Note: It is better to automate mappings via GPO preferences. As a backup, you can allow users to manually map as above.
 ​
 
