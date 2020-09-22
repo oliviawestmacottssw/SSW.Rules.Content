@@ -14,7 +14,7 @@ authors:
 
 
 
-This is simply an agreement between the Development Team and the PO for one Sprint and should be confirmed via an e-mail at the beginning of every Sprint.
+This is simply an agreement between the Development Team and the PO for one Sprint and should be confirmed via an e-mail at the beginning of every Sprint.
 
  
 
@@ -41,7 +41,7 @@ Each of the Sprints in a Scrum project can be considered a mini-project that has
 
 Attendees: [Names of Attendees]
 
-As per our Sprint Planning Meeting, and as the Product Owner, you have agreed to the following Product Backlog Items (PBIs) being included in the current sprint backlog.
+As per our Sprint Planning Meeting, and as the Product Owner, you have agreed to the following Product Backlog Items (PBIs) being included in the current sprint backlog.
 
 The Team will do its best to deliver this set of features (Scope), to a defined quality standard (Definition of Done) by the end of the sprint. Ideally, the team will deliver what they forecast, or even a bit more, but this can't be guaranteed.
 
@@ -49,23 +49,23 @@ The Team will do its best to deliver this set of features (Scope), to a defined 
 | **ID** | **Title** | **State** | **Effort** |
 | --- | --- | --- | --- |
 |  |  |  |  |
-|  | &lt; generate this table as per the instruction on the rule below &gt; |  |  |
+|  | < generate this table as per the instruction on the rule below > |  |  |
 |  |  |  |  |
 
 
 ** Figure: The sprint backlog**
 
-&lt;This is as per rule:        [https://rules.ssw.com.au/do-you-create-a-sprint-forecast-(aka-the-functionality-that-will-be-developed-during-the-sprint)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9119c922-1478-49e3-9d7a-903e9bc4be6e) /&gt;
+[https://rules.ssw.com.au/do-you-create-a-sprint-forecast-(aka-the-functionality-that-will-be-developed-during-the-sprint)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=9119c922-1478-49e3-9d7a-903e9bc4be6e) />
 
-**Figure: Good Example - copy this as email template and send to Product Owner. 
-****Subject: &lt;Client Name&gt;: Sprint xxx Forecast**
+**Figure: Good Example - copy this as email template and send to Product Owner. 
+****Subject: : Sprint xxx Forecast**
 Tip: Use this     [Outlook email template](/Documents/SprintContract.oft "Email Template")
 
 More instructions are as below:
 
 1. Go to Azure DevOps and navig​ate to the current sprint's backlog view. E.g. https://dev.azure.com/Northwind/ProjectName/\_sprints/backlog/Northwind/ProjectName/Sprint%201
-2. Paste to the Forecast email, and format the table:
-    - Remove any useless columns![Good Example of a Table](/PublishingImages/Sprint%20forecast%20example%20table.jpg)
+2. Paste to the Forecast email, and format the table:
+    - Remove any useless columns![Good Example of a Table](Sprint forecast example table.jpg)
 
     Figure: Good Example of a Table
 
