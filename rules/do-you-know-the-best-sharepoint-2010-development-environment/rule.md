@@ -17,7 +17,7 @@ authors:
 Developing in ASP.NET is easy, you just press F5, Visual Studio spins up instance of the Cassini web server, and you can see your work execute. Developing in SharePoint is much harder as you need access to a local SharePoint server to see your work run.
 
 In SharePoint 2007 there are three options, in SharePoint 2010 they have added one more.
-![](/PublishingImages/SetupSPEnviroment.jpg) Figure: Setting up the development environment in SharePoint can give you a headache  Your development choices in SharePoint 2007 are: 
+![](SetupSPEnviroment.jpg) Figure: Setting up the development environment in SharePoint can give you a headache  Your development choices in SharePoint 2007 are: 
 - Remote to a shared SharePoint development server 
 <br>    Tip: This is best for people who do \*not\* need to have their own SharePoint server, such as designers, testers or content editors.
 <br>    Problem #1: By default you only get 2 concurrent accounts
@@ -27,7 +27,7 @@ In SharePoint 2007 there are three options, in SharePoint 2010 they have added o
 <br>    Tip #2: Use SSD to go even faster :)
 - Use ‘Boot’ to VHD (Recommended - most trouble but best performance)
 <br>    Note: Only if you have Windows 7 as the host 
-<br>    See: [Less Virtual, More Machine - Windows 7 and the magic of Boot to VHD](http&#58;//www.hanselman.com/blog/LessVirtualMoreMachineWindows7AndTheMagicOfBootToVHD.aspx)
+<br>    See: [Less Virtual, More Machine - Windows 7 and the magic of Boot to VHD](http://www.hanselman.com/blog/LessVirtualMoreMachineWindows7AndTheMagicOfBootToVHD.aspx)
 
 
 One of the biggest problem is that SharePoint 2007 can only be installed on Windows Server and most developer machines do not run Windows Server as the host OS. Tweaks to install SharePoint to Vista were available, but considered risky – since your development environment does not fully reflect the production server.
@@ -44,7 +44,7 @@ One of the biggest problem is that SharePoint 2007 can only be installed on Wind
 <br>    Tip #4: The 64-bit requirement means, your host must be x64 to run the virtual machines in x64
 - Use ‘Boot’ to VHD (Recommended) 
 <br>    Note: Only if you have Windows 7 as the host
-<br>    See: [Less Virtual, More Machine - Windows 7 and the magic of Boot to VHD](http&#58;//www.hanselman.com/blog/LessVirtualMoreMachineWindows7AndTheMagicOfBootToVHD.aspx)
+<br>    See: [Less Virtual, More Machine - Windows 7 and the magic of Boot to VHD](http://www.hanselman.com/blog/LessVirtualMoreMachineWindows7AndTheMagicOfBootToVHD.aspx)
 - Install SharePoint 2010 on your Windows 7 PC (Not Recommended)
 <br>    You are not fully representing the production server
 
@@ -53,7 +53,7 @@ One of the biggest problem is that SharePoint 2007 can only be installed on Wind
 - Yes, you can easily deploy a xap file to a document library. However, if you need to debug it you will need the SharePoint 2010 object model. 
 <br>    Tip: You could minimise your exposure to the object model by using a Repository pattern, which would allow you to debug and test your application without SharePoint, but ultimately you will need to debug and test in SharePoint.
 
-![](/PublishingImages/UltimateSolution.jpg) Figure: The Ultimate solution for SharePoint development environments is to have another machine under your desk. The Ultimate Solution 
+![](UltimateSolution.jpg) Figure: The Ultimate solution for SharePoint development environments is to have another machine under your desk. The Ultimate Solution 
 
 - Get yourself a second machine (same as remote)
 - But don’t share it with anyone else!
