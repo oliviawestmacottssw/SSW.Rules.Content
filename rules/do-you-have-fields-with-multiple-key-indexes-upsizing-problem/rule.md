@@ -9,5 +9,5 @@ authors:
 
 ---
 
-![](/PublishingImages/FieldsMultipleKeyIndexes.jpg) 
-Figure: A table with fields with multiple key indexes where the total size of the fields adds to more than 450 characters [Upsizing PRO](http&#58;//www.ssw.com.au/ssw/UpsizingPRO) will check this rule 
+![](FieldsMultipleKeyIndexes.jpg) 
+Figure: A table with fields with multiple key indexes where the total size of the fields adds to more than 450 characters [Upsizing PRO](http://www.ssw.com.au/ssw/UpsizingPRO) will check this rule 
