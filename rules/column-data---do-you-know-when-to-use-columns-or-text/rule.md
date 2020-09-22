@@ -14,4 +14,4 @@ It's OK to use text because it's more natural, but use columns if you need:
 - side by side comparison
 - totals
 
-   ​![Bad alignment](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ColumnsText.jpg)Figure: While text looks friendlier, in terms of presenting data it's not the easiest to read
+   ​![Bad alignment](../../assets/ColumnsText.jpg)Figure: While text looks friendlier, in terms of presenting data it's not the easiest to read
