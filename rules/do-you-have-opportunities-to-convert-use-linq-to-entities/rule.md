@@ -11,4 +11,4 @@ authors:
 
  
 Look for inline SQL​ to see whether you can replace it with Linq to Entities.
- ![Speed camera](/PublishingImages/speed-camera.jpg) Figure: SQL Injection for Speed Cameras :-)
+ ![Speed camera](speed-camera.jpg) Figure: SQL Injection for Speed Cameras :-)
