@@ -15,8 +15,8 @@ authors:
 
 
 
-   ​This ​extends even further to the person using BCC in the 1st place. Generally when using BCC, you should always pause to make sure you are doing the right thing. 
-![DontReplyAll.jpg](/PublishingImages/DontReplyAll.jpg)​
+   ​This ​extends even further to the person using BCC in the 1st place. Generally when using BCC, you should always pause to make sure you are doing the right thing. 
+![DontReplyAll.jpg](DontReplyAll.jpg)​
 
 
 9 times out of 10, you will find that your motivation for using BCC is something less than fully candid... and it's almost always better to use CC or forward instead.​
