@@ -13,4 +13,4 @@ Don't log in and make manual changes to the clustered nodes.
 When working with clustered environments it is important that settings be consistent across every node. The best way to handle this is through group policy.
  
 Create a policy that you would like applied to each node of the cluster using the **Group Policy Management**.
-![Group policy bad](/PublishingImages/group-policy-bad.jpg)Figure: Bad Example - Do not manually change settings on each node![Group policy good](/PublishingImages/group-policy-good.jpg)Figure: Good Example - Changing settings through Group Policy keeps node settings the same
+![Group policy bad](group-policy-bad.jpg)Figure: Bad Example - Do not manually change settings on each node![Group policy good](group-policy-good.jpg)Figure: Good Example - Changing settings through Group Policy keeps node settings the same
