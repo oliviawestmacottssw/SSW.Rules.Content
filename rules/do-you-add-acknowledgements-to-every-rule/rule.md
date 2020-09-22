@@ -11,8 +11,8 @@ authors:
 
 ---
 
- ​Every rule must have a person (or more) responsible for its content - The rule owner. Readers can see this person on the "Acknowledgement" section. 
+ ​Every rule must have a person (or more) responsible for its content - The rule owner. Readers can see this person on the "Acknowledgement" section. 
 ### How to add the rule owner​
 
 When editing a rule, choose who is the rule owner on the "Acknowledgements" field. It is OK to have more than one person there.
-![acknowledgements.jpg](/PublishingImages/acknowledgements.jpg)​Figure: This is where you add or remove "Acknowledgements"​![acknowledgements.jpg](/PublishingImages/add-new-value.png)​Figure: Click on "Go to lookup list to add new value​" if the person is not on the list yet​
+![acknowledgements.jpg](acknowledgements.jpg)​Figure: This is where you add or remove "Acknowledgements"​![acknowledgements.jpg](add-new-value.png)​Figure: Click on "Go to lookup list to add new value​" if the person is not on the list yet​
