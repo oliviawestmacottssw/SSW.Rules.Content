@@ -11,7 +11,7 @@ authors:
 
  Follow the step to fix SharePoint JavaScript errors:<br> 
 1. Your content editor is trying to change page layout via the Ribbon in SharePoint 2010 
-![](/PublishingImages/PagelayoutInRibbon.jpg) Figure: Click Page Layout in the Ribbon
+![](PagelayoutInRibbon.jpg) Figure: Click Page Layout in the Ribbon
 2. But they get a JavaScript error
     Webpage error details
 
@@ -21,16 +21,16 @@ authors:
      Line: 2
      Char: 6422
      Code: 0
-     URI:[http://intranet.ssw.com.au/\_layouts/cui.js?rev=wvoVpqlQb30nGo4DjDk8Kg%3D%3D](http&#58;//intranet.ssw.com.au/_layouts/cui.js?rev=wvoVpqlQb30nGo4DjDk8Kg%3D%3D)
+     URI:[http://intranet.ssw.com.au/\_layouts/cui.js?rev=wvoVpqlQb30nGo4DjDk8Kg%3D%3D](http://intranet.ssw.com.au/_layouts/cui.js?rev=wvoVpqlQb30nGo4DjDk8Kg%3D%3D)
 
 
 This error is likely caused by SharePoint trying to render available page layouts for the page to switch to, but there is an error.
  A very quick fix that can be applied by a site owner is:
 
 1. Site Settings | Look and Feel | Page layouts and site templates
-2. Restrict the valid number of page layouts that can be used, instead of allowing "Pages in this site can use any layout"![](/PublishingImages/RestrictedPageLayout.jpg)Figure: Restrict valid page layouts
+2. Restrict the valid number of page layouts that can be used, instead of allowing "Pages in this site can use any layout"![](RestrictedPageLayout.jpg)Figure: Restrict valid page layouts
 3. This fixes the Ribbon menu
-![](/PublishingImages/RibbonMenu01.jpg)Figure: Ribbon menu fixed!
+![](RibbonMenu01.jpg)Figure: Ribbon menu fixed!
 4. Tell your sys admin that there are broken packages in SharePoint and must be fixed ASAP
 
 
