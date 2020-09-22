@@ -9,4 +9,4 @@ authors: []
 
  
 Your site visitors should never see **Untitled Page** on     their browser. When creating a new page, remember to change the     default page title. This rule applies whether you are using a Master     Page or not.
- ![Page with a good title](http&#58;//www.ssw.com.au/ssw/standards/rules/Images/BadTitle.jpg)Figure: Bad example - A page with the default title ![Page with a good title](http&#58;//www.ssw.com.au/ssw/standards/rules/Images/GoodTitle.jpg)Figure: Good example - A page with a good title 
+ ![Page with a good title](../../assets/BadTitle.jpg)Figure: Bad example - A page with the default title ![Page with a good title](../../assets/GoodTitle.jpg)Figure: Good example - A page with a good title 
