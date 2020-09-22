@@ -9,4 +9,4 @@ authors: []
 
  
 Time formats should be consistent across your application, to give the                      application a very professional and consistent look.
- ![Bad Example](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/BadExampleTP.gif) Figure: Bad Example - Three screens with inconsistent time formats![Good Example](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/GoodExampleTP.gif) Figure: Good Example - Three screens with consistent formats
+ ![Bad Example](../../assets/BadExampleTP.gif) Figure: Bad Example - Three screens with inconsistent time formats![Good Example](../../assets/GoodExampleTP.gif) Figure: Good Example - Three screens with consistent formats
