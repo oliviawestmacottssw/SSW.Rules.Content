@@ -23,7 +23,7 @@ There was a bug in Beta2 (fixed in upcoming RC release) wherein even if you have
 
 1. Run the following commands to project level association (make sure that there are no Lab environments in this Host Group).
 
-**TFSLabConfig.exe DeleteTeamProjectHostGroup /Collection:&lt;CollectionUrl&gt; /teamProject:\* /name:"Testing Host" **
+**TFSLabConfig.exe DeleteTeamProjectHostGroup /Collection: /teamProject:\* /name:"Testing Host" **
 2. Delete the host groups from Team Foundation Admin Console UI
 
 **There was a similar issue with the Library shares also, and has been fixed now.**
@@ -47,4 +47,4 @@ I have no idea what this is telling me. Anyone have any ideas?
 
 Thanks!
 Mr Northwind
-Figure: Bad Example - The user encounters an issue and has to email someone about it ![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/InterfacesWiki.png)Figure: Good Example - The 'Wiki...' link in the bottom left, takes the user to a wiki page with common issues and workarounds for this form (e.g. Creating a Project Portal) 
+Figure: Bad Example - The user encounters an issue and has to email someone about it ![](../../assets/InterfacesWiki.png)Figure: Good Example - The 'Wiki...' link in the bottom left, takes the user to a wiki page with common issues and workarounds for this form (e.g. Creating a Project Portal) 
