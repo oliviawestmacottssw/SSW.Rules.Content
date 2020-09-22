@@ -23,7 +23,7 @@ To prevent issues from arising and having to re-deploy continuously which would 
 
 1. Have scripts that can get the pathname of the .exe that the user has installed the application on
 
-Wise has a Dialog that prompts the user for the installation directory:  ![](/PublishingImages/INSTALLDIR.jpg) Figure: Wise Prompts the user for the installation directory and sets the path to a property in wise called "INSTALLDIR"    An embedded script must be used if the pathname is necessary in the application (i.e. like .reg files that set registry keys in registry)
+Wise has a Dialog that prompts the user for the installation directory:  ![](INSTALLDIR.jpg) Figure: Wise Prompts the user for the installation directory and sets the path to a property in wise called "INSTALLDIR"    An embedded script must be used if the pathname is necessary in the application (i.e. like .reg files that set registry keys in registry)
 
 
 ```
@@ -59,7 +59,7 @@ Wise has a Dialog that prompts the user for the installation directory:  ![](/Pu
 
 Figure: The "REPLACE\_ME" string is replaced with the value of the INSTALLDIR property in the .reg file
 2. After setting up the wise file then running the build script, the application must be first tested on the developers' own machine.
-Many developers forget to test the application outside the development environment completely and don't bother to install the application using the installation package they have just created.
+Many developers forget to test the application outside the development environment completely and don't bother to install the application using the installation package they have just created.
 Doing this will allow them to fix e.g. pathnames of images that might have been set to a relative path of the running process and not the relative path of the actual executable. 
 
 ```
