@@ -9,15 +9,15 @@ authors:
 
 ---
 
- Facebook recommendations are a great way to publicize your pages without blatant advertising.  ![](/PublishingImages/Facebook_Recommend01.jpg) 
+ Facebook recommendations are a great way to publicize your pages without blatant advertising.  ![](Facebook_Recommend01.jpg) 
 Figure: A user clicks recommend. 
 
-![](/PublishingImages/Facebook_Recommend02.jpg)
+![](Facebook_Recommend02.jpg)
 Figure: His friends can see this activity on the homepage (provided that the plugin is installed.) 
 
-![](/PublishingImages/Facebook_Recommend03.jpg)
+![](Facebook_Recommend03.jpg)
 Figure: It appears on your Facebook page.
 
-![](/PublishingImages/Facebook_Recommend04.jpg)
+![](Facebook_Recommend04.jpg)
 Figure: Your friends also see it on your Facebook page.
 
