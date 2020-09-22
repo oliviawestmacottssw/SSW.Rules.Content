@@ -7,13 +7,13 @@ authors: []
 
 ---
 
- The workflow controls how an issue is taken from creation to closure via a Done or Not Done governing who does what at what point.  The workflow has several states in which a given number of transitions (actions within a state) can be taken by different people according to their role. <br> 
+ The workflow controls how an issue is taken from creation to closure via a Done or Not Done governing who does what at what point.  The workflow has several states in which a given number of transitions (actions within a state) can be taken by different people according to their role. <br> 
 
 
 Here is a description of the main states of the SSW workflow:
 
 1. New - When a new issue on your dashboard, it is either completley new, just assigned to you, just re-opened, just answered or just brought out of Deferred. Whatever the reason you should immediately either:
-    - Assign it to somebody else ; this leaves it in New
+    - Assign it to somebody else ; this leaves it in New
     - Question - asks the Reporter a question about the issue which puts it in Questioned state
     - Update - this allows you yo set fields such as Priority, Due Date etc. without changing the status
     - Acknowledge - this puts it in Acknowledged State and means that you know about it and will do it as specified. If you can't make a due date set or an estimate has been made that is unrealistic; you should Question the reporter.
@@ -29,7 +29,7 @@ Here is a description of the main states of the SSW workflow:
 
 The following digram shows the main flows:
 
-![](/PublishingImages/Workflow.png)
+![](Workflow.png)
 
-(A table further defining the workflow this will appear here in due course)
+(A table further defining the workflow this will appear here in due course)
 
