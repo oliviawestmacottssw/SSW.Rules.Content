@@ -15,7 +15,7 @@ authors:
 
 1. Find two free testers to send the email below
 2. Stop working on the project until you receive either a "pass" or "fail" email
-3. Create your "test please" following this template:
+3. Create your "test please" following this template: (refer to Windows Forms or Email templates below)
 
 **Subject: Test Please - Product Name v1.11**​
 
@@ -52,7 +52,6 @@ Keep in mind that a "test please" is an urgent task and that it should start wit
 
 Thanks, [XXX]
 4. **What if you're doing a Windows Forms test?**    Then you should also include this to the email:
-
     - The latest version of [XXX] has been uploaded to \\frog\SSW\Download\[Application\_verX-XX\_beta.exe
     - Test on a fresh VPC image of Windows
     - Install into a non-default directory
@@ -63,12 +62,29 @@ Thanks, [XXX]
     - Test most buttons and menus and links
     - Disable your network connection and test again (check for unhandled errors)
     - If your test fails, please rename the executable to [Application\_verX-XX\_failed.exe]
-5. **Note to ** ** developer: **If current version is better than the last version you can release (even with a test fail) as long:
+5. **What if you are doing an email test?**
+    - DO NOT add Test Please to the subject. (it is too easy to forget later!)
+    - Instead, add "Test please" with a yellow highlight to the top of the email body.
+
+
+
+**Subject: Product Name v1.11**
+
+Test please
+ ​ ​
+
+Dear [XXX],
+
+I am looking for bugs or approval to release this version.
+
+I have done what I could for my code's health. E.g.
+6. ​ <br>      **Note to ** ** developer: **If current version is better than the last version you can release (even with a test fail) as long:
     - The bugs reported in the test fail existed in the old version
     - Two people have tested it
     - The changes in this version are fairly important to get out
     - You get to work on the failures ASAP
-6. For clients on fixed price contracts, this email marks the start of the 30 day warranty period.
-7. Use TFS to email the work items to the project manager and client:  ![tfs-backlog-email.jpg](/PublishingImages/tfs-backlog-email.jpg) Figure: TFS makes it easy to export work items  ![tfs-backlog-email-2.jpg](/PublishingImages/tfs-backlog-email-2.jpg)​ Figure: How the email is generated
+7. For clients on fixed price contracts, this email marks the start of the 30 day warranty period.
+8. Use TFS to email the work items to the project manager and client:  ![tfs-backlog-email.jpg](/PublishingImages/tfs-backlog-email.jpg) Figure: TFS makes it easy to export work items  ![tfs-backlog-email-2.jpg](/PublishingImages/tfs-backlog-email-2.jpg) Figure: How the email is generated
 
-​  
+​
+
