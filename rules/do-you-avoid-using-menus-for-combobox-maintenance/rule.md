@@ -10,7 +10,7 @@ authors: []
  
 Using a separate menu to maintain ComboBoxes is never a good idea. A  better solution is to use an ellipses button to drill down into the  menu.
  <dl class="badImage"><dt>
-      <img alt="Menu driven ComboBox Maintenance System" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ComboBoxMenuBad.gif" style="margin&#58;5px;">
-   </dt><dd>Figure&#58; Bad Example - Menu driven ComboBox maintenance form</dd></dl><dl class="goodImage"><dt>
-      <img alt="SSW eXtreme Emails! - Add Incident" src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Ellipses.gif" style="margin&#58;5px;">
-   </dt><dd>Figure&#58; Good Example - Use ellipses to drill down into a ComboBox maintenance form</dd></dl>
+      <img alt="Menu driven ComboBox Maintenance System" src="../../assets/ComboBoxMenuBad.gif" style="margin:5px;">
+   </dt><dd>Figure: Bad Example - Menu driven ComboBox maintenance form</dd></dl><dl class="goodImage"><dt>
+      <img alt="SSW eXtreme Emails! - Add Incident" src="../../assets/Ellipses.gif" style="margin:5px;">
+   </dt><dd>Figure: Good Example - Use ellipses to drill down into a ComboBox maintenance form</dd></dl>
