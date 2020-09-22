@@ -15,10 +15,10 @@ authors:
 You may be nicely equipped with a 21" monitor running at a resolution of 1920x1440px at work, but in a business travel or meeting people will only have their mobile phone or tablet.
 
 Your website should work nicely on screens that vary from a mobile/tablet to a large PC monitor.
-  ![Responsive Design](/PublishingImages/Responsive-Design.jpg) Figure: Good example - A modern website adapts to different screens
-Google has a web tool to  [test how mobile-friendly your site is.](https&#58;//testmysite.thinkwithgoogle.com/)
+  ![Responsive Design](Responsive-Design.jpg) Figure: Good example - A modern website adapts to different screens
+Google has a web tool to  [test how mobile-friendly your site is.](https://testmysite.thinkwithgoogle.com/)
 
-Know more at [Responsive Web Design: What It Is and How To Use It](http&#58;//www.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/).
+Know more at [Responsive Web Design: What It Is and How To Use It](http://www.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/).
 
 ### Go beyond responsive design
 
@@ -26,5 +26,5 @@ Responsive Web Design is great. It lets you alter the display of a web page usin
 
 When building websites targeting mobile devices it is only part of the solution, however.
 
- 
-​Figure: Watch the [clip with Dino Esposito](http&#58;//tv.ssw.com/4681/writing-mobile-sites-lessons-learned-top-tips-web-developers) to find out why​  
+ 
+​Figure: Watch the [clip with Dino Esposito](http://tv.ssw.com/4681/writing-mobile-sites-lessons-learned-top-tips-web-developers) to find out why​  
