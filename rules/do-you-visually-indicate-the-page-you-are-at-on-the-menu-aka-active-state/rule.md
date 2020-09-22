@@ -9,4 +9,4 @@ authors: []
 
  
 The active menu item should stand out from the others. This way you make it easy for users to know where they are at in the website.
- ![](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/active-state-bad.jpg)Figure: Bad Example – you can't tell where you are in the site![](http&#58;//www.ssw.com.au/SSW/Standards/Rules/Images/active-state-good.jpg)Figure: Good Example – it’s easy to see where you are at 
+ ![](../../assets/active-state-bad.jpg)Figure: Bad Example – you can't tell where you are in the site![](../../assets/active-state-good.jpg)Figure: Good Example – it’s easy to see where you are at 
