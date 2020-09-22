@@ -14,7 +14,7 @@ authors:
 
 When developing with Sitefinity in a local development environment, the compilation element in your web.config file will be set to false. While this is common practice when developing ASP.NET applications, Sitefinity disables caching in this scenario. This will make development slower (but easier as changes will be immediate) but will severly impact performance in test and production environments.
 
-![4-07-2014-2-07-31-PM-compressor.png](/PublishingImages/4-07-2014-2-07-31-PM-compressor.png)
+![4-07-2014-2-07-31-PM-compressor.png](4-07-2014-2-07-31-PM-compressor.png)
 
 **Figure: Default compilation settings in Sitefinity**
 
