@@ -12,11 +12,11 @@ Sounds are important to an interface. Sounds provide an extra level of feedback 
    ​
 Out of the box, you'll get a sound with error messages. You'll still need to add your own for:
 
-- Long process - there should be a sound at the end of every long process to notify the user that it has finished [![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Sound.gif)](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Sounds/sswLongProcessFinished01_ChatWhsp.wav)
+- Long process - there should be a sound at the end of every long process to notify the user that it has finished [![](../../assets/Sound.gif)](http://www.ssw.com.au/ssw/Standards/Rules/Sounds/sswLongProcessFinished01_ChatWhsp.wav)
 - Deleting records
-- ![](http&#58;//www.ssw.com.au/ssw/Images/iconAudio.png "Audio File") [Application opening](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Sounds/SSWApplicationOpened_dooropen.wav) [![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Sound.gif)](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Sounds/SSWApplicationOpened_dooropen.wav) / ![](http&#58;//www.ssw.com.au/ssw/Images/iconAudio.png "Audio File") [closing](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Sounds/SSWApplicationClosed_doorslam.wav) [![](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/Sound.gif)](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Sounds/SSWApplicationClosed_doorslam.wav)
+- ![](../../assets/iconAudio.png "Audio File") [Application opening](http://www.ssw.com.au/ssw/Standards/Rules/Sounds/SSWApplicationOpened_dooropen.wav) [![](../../assets/Sound.gif)](http://www.ssw.com.au/ssw/Standards/Rules/Sounds/SSWApplicationOpened_dooropen.wav) / ![](../../assets/iconAudio.png "Audio File") [closing](http://www.ssw.com.au/ssw/Standards/Rules/Sounds/SSWApplicationClosed_doorslam.wav) [![](../../assets/Sound.gif)](http://www.ssw.com.au/ssw/Standards/Rules/Sounds/SSWApplicationClosed_doorslam.wav)
 - Copying and pasting text
 
 
 However, not everyone likes sounds, so we think it is also important to have an option to disable sounds in your application.
-![Outlook Sounds](http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/OutlookSounds.gif)Figure: Good Example - Turning on Feedback with sound in Outlook
+![Outlook Sounds](../../assets/OutlookSounds.gif)Figure: Good Example - Turning on Feedback with sound in Outlook
