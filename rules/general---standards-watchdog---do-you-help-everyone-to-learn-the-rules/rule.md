@@ -12,7 +12,7 @@ authors:
  
 *"An ounce of prevention is worth a pound of cure"*goes the saying. Having a strict coding standard is prevention. To create good code you must have good standards, such as commenting standards, naming standards, versioning standards and [knowing the value of consistency](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f23d23e1-b60c-4c9c-b1e3-887a2906f3cf).
 
-**But this can really only happen if you’re going to [go the extra mile](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=36598961-2933-4a95-ba4b-9ed702e405ef) and stick your neck out and correct someone. **
+**But this can really only happen if you’re going to [go the extra mile](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=36598961-2933-4a95-ba4b-9ed702e405ef) and stick your neck out and correct someone.**
   ![mean.jpg](watchdog-mean.jpg) Figure: Bad Example - Correcting someone in a mean way ![Watchdog.jpg](watchdog-watchdog.jpg) Figure: Good example - People make mistakes but correct them as though they’re a soft cute puppy 🐶
 Every member of a team plays an important role in maintaining standards. Whether it's your work or someone else's, always keep an eye out for **things that can be improved**.
 
@@ -100,7 +100,7 @@ While you were away, I came across this page you edited, called ApplicationForm.
 *'The conversion of a char data type to a DateTime data type resulted in an out-of-range DateTime value.'*
 
 Please note that whilst inserting data from your Front End application, you should not use the format **dd/mm/****yyyy**. 
-Instead, you should use **yyyy****/mm/dd **as per Rules to Better Databases.
+Instead, you should use **yyyy****/mm/dd** as per Rules to Better Databases.
 
 Let's fix it together when we get to work tomorrow.
 

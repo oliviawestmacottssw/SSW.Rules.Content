@@ -12,7 +12,7 @@ authors:
 ---
 
  
-The **![]()** tag of HTML has 2 attributes that should not be used - **"height" **and** "width"**.  Any image resizing should  be done via CSS. If the height / width ratio doesn't match that of original image, the image will be stretched.
+The **![]()** tag of HTML has 2 attributes that should not be used - **"height"** and **"width"**.  Any image resizing should  be done via CSS. If the height / width ratio doesn't match that of original image, the image will be stretched.
  
 ![Code Auditor logo](images/codeauditor-logo.png)width="150" height="100" />​
 ![Stretched image which looks ugly](streched-image.jpg) Figure: Bad example - Stretched image caused by inline​ height/width ratio that doesn't match

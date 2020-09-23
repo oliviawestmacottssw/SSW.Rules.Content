@@ -41,7 +41,7 @@ Regards,
 
     After you export to Excel, follow this example:
  ![old-sharepoint-modification.jpg](old-sharepoint-modification.jpg) Figure: Modifications are done on the old SharePoint intranet during the migration process (hence not migrated to the cloud)    **Green: **non-important data (automated logging info) - ignore
-    **Orange: **potentially important data (user made changes) – ask the user
+    **Orange:** potentially important data (user made changes) – ask the user
     **Red:** critical data (invoices !) – Migrate these documents
 
 

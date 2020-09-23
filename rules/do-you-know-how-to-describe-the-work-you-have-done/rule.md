@@ -14,7 +14,7 @@ authors:
  
 Clients want to know how you spend your time, and how you word it matters.
 
-**Tip: **Avoid doubling up by using your TFS check-in comments, that flow through to timesheets - use TimePro.
+**Tip:** Avoid doubling up by using your TFS check-in comments, that flow through to timesheets - use TimePro.
 
 On your timesheet entries, there are a few rules you should follow on how to best explain the value you have created for the client:
  

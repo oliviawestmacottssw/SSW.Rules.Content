@@ -19,7 +19,7 @@ Some tips and techniques to keep in mind as you work on optimizing your images:
 
 - **Don't be afraid to dial down the "quality" settings** if the results are very good and byte savings are significant
 - **Remove unnecessary image metadata** like geo information, camera information, and so on.
-- **Use**** automated tools** to ensure that all of your images are always optimized. E.g.: [http://optimizilla.com​](http://optimizilla.com/)
+- **Use** **automated tools** to ensure that all of your images are always optimized. E.g.: [http://optimizilla.com​](http://optimizilla.com/)
 
  ![optimizeexample.png](optimizeexample.png) Figure: Optimizilla reduced the image below in 31%
 

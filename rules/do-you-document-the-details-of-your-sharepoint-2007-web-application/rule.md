@@ -20,7 +20,7 @@ Fill in the following table. You will use this later when creating the new web a
 
 | **SharePoint 2010 Web Application Option** | **Where To Find This In SharePoint 2007** | **Answer** |
 | --- | --- | --- |
-| Authentication Provider | Use **classic** unless you know you need **claims based authentication <br>**Note: this is a new feature in SharePoint 2010. |  |
+| Authentication Provider | Use **classic** unless you know you need **claims based authentication <br>** Note: this is a new feature in SharePoint 2010. |  |
 | New IIS Web Site Name | Application Management | Web application list | **Name Field** |  |
 | Port | Application Management | Web application list | **URL Field**. <br>                     Port number will be listed on end of URL (if nothing its port 80) |  |
 | Host Header | Application Management | Web application list | **URL Field** if a DNS name is used (not just the NetBIOS name). <br>                     If a DNS name is **NOT** used, leave this blank. |  |

@@ -12,7 +12,7 @@ authors:
  
 ​If you need to do something more than once, then there should be a standard for it. At the heart of our philosophy on creating rules and standards is the idea of consistency. There are 4 main benefits you will get:
  ![](consitency.png)Say we are creating a windows forms application. We can expect to:
-- ** Improve productivity - because there are fewer decisions to make, and you build on existing work.** 
+- **Improve productivity - because there are fewer decisions to make, and you build on existing work.** 
 For example, we don't need to discuss the pros and cons of MDI versus SDI because there is [already a standard.](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#AvoidMDI)
 - **Improve quality - because you are following best practices.**
 For example, which logging library is better out of [Microsoft Application Block](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#ExceptionManagement) or [Log4NET](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#Log4Net).
@@ -27,7 +27,7 @@ At SSW we create standards for all manner of processes: from coding practices to
 The following story illustrates these values:
 
 
-**The Barber **(excerpt from "The E Myth" page 105)
+**The Barber** (excerpt from "The E Myth" page 105)
 
 I went to a barber who, in our first meeting, gave me one of the best haircuts I had ever had. He was a master with the scissors and used them exclusively, never resorting to electric shears as so many others do. Before cutting my hair, he insisted on washing it, explaining that the washing made cutting easier. During the haircut, one of his assistants kept my cup of coffee fresh. In all, the experience was delightful, so I made an appointment to return.
 

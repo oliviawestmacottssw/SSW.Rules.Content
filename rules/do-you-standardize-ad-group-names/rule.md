@@ -49,7 +49,7 @@ G-GlobalGroupName-
 
 That becomes “G-SYD-SP-SSW-Users"
 
-**​Note: **You would not use this naming convention for distribution groups – as they would display to users.
+**​Note:** You would not use this naming convention for distribution groups – as they would display to users.
 
 It is recommended by default to have two AD groups per product. The following table should be used as a guide for naming them:
 

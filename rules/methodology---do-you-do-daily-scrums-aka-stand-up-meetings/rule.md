@@ -56,7 +56,7 @@ Subject: 🙋Daily Scrum –              **[Project Name]
 Hi** [Team name]**,
 As per our conversation, the Daily Scrum will be held each day.
 
-Project:** [Project Name]
+Project: **[Project Name]
 **Scrum Master:              **[Scrum Master Name]
 **
 Regards,

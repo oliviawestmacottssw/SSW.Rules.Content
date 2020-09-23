@@ -14,7 +14,7 @@ You should know how to jab ([YES ladder​](/_layouts/15/FIXUPREDIRECT.ASPX?WebI
 
 For example, if I'm on the phone trying to sell a training event, and the conversation started sounding like this:
  
-**Scott: **I think I've got just what you're after for advanced IT training.
+**Scott:** I think I've got just what you're after for advanced IT training.
 **Prospect:** Really? That reminds me of a time when this other sales person who was trying to sell me tickets to crackpot training events held in an abandoned warehouse. He was the rudest person I'd ever spoken to and he had this funny accent... Blah Blah.
 
 When this happens, ask a general question that you know they're going to say "Yes" to like this...

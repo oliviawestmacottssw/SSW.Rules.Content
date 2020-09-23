@@ -28,7 +28,7 @@ Organizations are extremely good at accumulating data. Mostly in the form of doc
 
 [SharePoint](https&#58;//www.ssw.com.au/ssw/Consulting/SharePoint.aspx) is the best organization tool to improve this situation by storing all documents & records in a centralized system. SharePoint stores every version of a document, allows you to enforce information management policies, and improves efficiency by automating common business processes. Here you will find many rules for a better experience with​ SharePoint.
 
-**Other SharePoint Rules: **
+**Other SharePoint Rules:**
 
 1. [Rules to Better SharePoint Development](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b08818c1-254a-4593-889e-41338b9c52cb)​​​​
 2. [Rules to Better SharePoint for End Users](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=aa51e478-fbc4-4ba6-9520-9487c89b11f8)

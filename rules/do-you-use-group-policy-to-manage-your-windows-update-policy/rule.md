@@ -22,7 +22,7 @@ It is also one more reason developers don’t like to join a company domain on t
 
 
 ![Windows-Update-notification.png](Windows-Update-notification.png)Bad Example - Windows 10 shows a ‘Restart now’ – do not accidentally press it! Your production server and your users won't be happy!​![Accidently press Restart Now on a Production server and your users won't be happy!](updates-restart.jpg) Bad example – Remember this nasty one from Vista days?
-**Note: **Server patching is also achievable via SCCM and you get more control over restarting windows like this. WSUS can also be used in conjunction with group policies to handle restart times better.
+**Note:** Server patching is also achievable via SCCM and you get more control over restarting windows like this. WSUS can also be used in conjunction with group policies to handle restart times better.
 
 The best ensure you are still downloading updates but not installing them automatically is to use Group Policy.
 

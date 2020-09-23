@@ -37,7 +37,7 @@ Figure: Accessing a PWA on your mobile will prompt adding it on your Home s​cr
 
 You can check the Progressive Web App score of your application using Chrome's Developer tools. ​
 
-**Note: **See how to generate a PWA report on           https://developers.google.com/web/tools/lighthouse/#devtools.​
+**Note:** See how to generate a PWA report on           https://developers.google.com/web/tools/lighthouse/#devtools.​
 
 
 ![PWA-tools.png](PWA-tools.png)​Figure: Good Example - Aim for a good Progressive Web App score​​

@@ -18,7 +18,7 @@ Putting all the field binding code AND the business rule in the
 
 control
 
-- **Bad: **Business logic is in the presentation layer (.aspx file)
+- **Bad:** Business logic is in the presentation layer (.aspx file)
 - **Bad:** No intellisense
 - **Bad:** Compile errors are not picked up
 

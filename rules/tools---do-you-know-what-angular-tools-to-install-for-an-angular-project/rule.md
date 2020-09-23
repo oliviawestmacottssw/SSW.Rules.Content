@@ -27,7 +27,7 @@ The libraries that are required to get started are:
 
 1. **Node.js** (https://nodejs.org/) and **NPM** (https://www.npmjs.com/)
 2. **Git** (https://git-scm.com/), and
-3. **Angular CLI **(https://angular.io/cli)​
+3. **Angular CLI** (https://angular.io/cli)​
 
  
 ### 1. Node.js and NPM

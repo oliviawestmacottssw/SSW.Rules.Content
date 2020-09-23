@@ -18,7 +18,7 @@ If your servers are down or have to go down during business hours you should not
 
 For short outages (under 15 minutes) that only affect only a few people (under 5 people), or are outside of business hours, then IM is the best method. If you use     [Teams or Skype](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=3a474efa-ca72-4320-af36-b0e6af355684) a quick message will do.
 
-**Note: **If they are not online on Teams or Skype, then they can't complain that they were not warned.
+**Note:** If they are not online on Teams or Skype, then they can't complain that they were not warned.
 
 For extended or planned outages, or if you have a larger number of users (50+),     **email** is the suggested method.​​
  
@@ -68,7 +68,7 @@ Here is the summary of the outage plan:
 **Figure: Clearly showing the potential risks
 
 **
-** Note: **The following servers will be affected
+**Note:** The following servers will be affected
 ![rule-outage-1.jpg](rule-outage-1.jpg)
 http://wug.ssw.com.au/
 

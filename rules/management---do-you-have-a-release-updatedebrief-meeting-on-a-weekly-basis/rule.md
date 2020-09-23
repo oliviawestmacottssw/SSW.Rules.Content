@@ -12,8 +12,8 @@ authors:
 
 Every week the project manager should meet with the client to conduct an external "Test Please" as well as to discuss the status of the release.
 
-**Tip #1: **Choose the same day each week (for example SSW chooses Tuesday)
-**Tip #2: **While it is better to conduct an internal "Test Please" before the meeting (for example SSW chooses Friday), this "Release Update/Debrief Meeting" should proceed (even if it hasn't been completed).
+**Tip #1:** Choose the same day each week (for example SSW chooses Tuesday)
+**Tip #2:** While it is better to conduct an internal "Test Please" before the meeting (for example SSW chooses Friday), this "Release Update/Debrief Meeting" should proceed (even if it hasn't been completed).
 
 This is the agenda:​​
  

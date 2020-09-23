@@ -14,6 +14,6 @@ Like other services, it is important that your company has a structured and secu
 
 First a little understanding of how Azure permissions work. For each subscription, there is an Access Control (IAM) section that will allow you to grant overall permissions to this Azure subscription. It is important to remember that any access that is given under Subscriptions | "Subscription Name" | Access Control (IAM), will apply to all Resource Groups within the Subscription.
  ![azure-permissions-bad.jpg](azure-permissions-bad.jpg)Figure: Bad example - too many people have Owner permission on the subscription level![azure-permissions-good.png](azure-permissions-good.png)Figure: Good Example - only Administrators that will be managing overall permissions and content have been given Owner/Co-administrator ​ 
-From the above image, only the main Administrators have been given Owner/Co-administrator access, all other users within the SSWDesigners and ** SSWDevelopers** Security Groups have been given Reader access. The **SSWSysAdmins** Security group has also been included as an owner which will assist in case permissions are accidentally stripped from the current Owners.
+From the above image, only the main Administrators have been given Owner/Co-administrator access, all other users within the SSWDesigners and  **SSWDevelopers** Security Groups have been given Reader access. The **SSWSysAdmins** Security group has also been included as an owner which will assist in case permissions are accidentally stripped from the current Owners.
 ​​
 

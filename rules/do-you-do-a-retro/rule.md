@@ -38,9 +38,9 @@ Finally, we ask, “What could we do differently next time?”
 Bad example: This line of questioning doesn’t provide useful feedback​
 
 **Adam:** What went well with your presentation?
-**Eddie: **People seemed to really relate to the case studies I presented.
-**Adam: **What didn’t go so well?
-**Eddie: **My demo didn’t work. That was really embarrassing.
+**Eddie:** People seemed to really relate to the case studies I presented.
+**Adam:** What didn’t go so well?
+**Eddie:** My demo didn’t work. That was really embarrassing.
 **Adam:** What would you do differently next time?
 **Eddie:** I’d definitely get there a bit earlier so I’d have time to troubleshoot that pesky demo on their wifi! That would also give me extra time to talk to the audience so I could find out what problems they’re hoping to solve with my session - it’s a good way to get more case studies!
 Good example: The 3 magic questions got a lot more detail and the beginnings of a plan for next time​

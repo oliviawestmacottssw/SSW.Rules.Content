@@ -32,7 +32,7 @@ Using this strategy, ** master **is always production-ready and deployable.
 ### #assumption​
 
 
-**Set up build system to deploy from the master branch **
+**Set up build system to deploy from the master branch**
 
 Your build systems should always deploy from master, and should automatically deploy on every commit to master.
 Since master is always being deployed, it must always be in a deployable state.
@@ -41,7 +41,7 @@ Since master is always being deployed, it must always be in a deployable state.
 
 **a) Create a "feature branch" for every PBI**
 
-When starting a PBI from the task board, create a branch from     ** master** with a descriptive name for that feature.
+When starting a PBI from the task board, create a branch from      **master** with a descriptive name for that feature.
 ![git branch start-stuff](BadBranchName.png)Figure: Bad example - Branch name is not descriptive![git branch create-basic-web-application](GoodBranchName.png) Figure: Good Example - Branch name describes the intent of the change
 **It is critical that this branch always comes off master, not another feature branch. Master is the only branch that is mandated to be in a deployable state, so any other option is unsafe.**
 
@@ -56,7 +56,7 @@ The benefit of creating feature branches is to reduce the number of conflicts an
 While working, commit frequently to this branch with nice, descriptive messages. For example, "Added a field to hold the product category to our timesheet read model" and "added a column to the timesheet summary UI for the product category".
 ![git commit -m ](BadCommitMessage.png)Figure: Bad Example - Commit message does not describe what was changed![GoodCommitMessage.png](GoodCommitMessage.png)Figure: Good Example - Commit message describes exactly what was changed. 
 
-**d) Push your changes to your remote Feature Branch **
+**d) Push your changes to your remote Feature Branch**
 
 ### 2) Open a pull request (to merge from your current branch to the master)
 
@@ -72,7 +72,7 @@ It is easy to chalk this step up as busy-work, but it is one of the most valuabl
 
 Deploy the changes to a staging environment.  This allows the features to be tested before being merged to     **master**.
 
-Some prefer to move this step to after the merge, especially when using a release management tool like VSTS Release or Octopus Deploy (see     [Do you use the best deployment tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e2608875-5b0b-4215-bee8-8ffd966dc972)).  If you decide to go this route, remember that     **master** should remain deployable and production ready at all times and that all branches come from     ** master**.  If skipping this step, ensure that you have CI on your feature branch to ensure that your branch compiles and passes all tests before merging.
+Some prefer to move this step to after the merge, especially when using a release management tool like VSTS Release or Octopus Deploy (see     [Do you use the best deployment tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e2608875-5b0b-4215-bee8-8ffd966dc972)).  If you decide to go this route, remember that     **master** should remain deployable and production ready at all times and that all branches come from      **master**.  If skipping this step, ensure that you have CI on your feature branch to ensure that your branch compiles and passes all tests before merging.
 
 ### 3) Merge and Deploy (to master)
 
@@ -91,5 +91,5 @@ Otherwise, you can do it before you complete the pull request by ticking     del
         ​​Figure: Good Example - Automatically delete the branch after the pull<br>        request completion in Azure Devops
     ​​​​​![github settings.png](github settings.png)        ​​Figure: Good Example - Set the whole project to auto-delete branch after<br>        merging in GitHub
 ​ 
-Once merged,     ** master** should immediately and automatically be deployed (in a perfect world, to production).
+Once merged,      **master** should immediately and automatically be deployed (in a perfect world, to production).
 

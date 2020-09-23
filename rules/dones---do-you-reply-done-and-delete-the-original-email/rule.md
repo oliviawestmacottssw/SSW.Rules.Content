@@ -26,7 +26,7 @@ Read "[Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4
 
 **Note 1**: Only say done when the work is done. If you have added the email to your backlog or to-do list then instead of "Done", say "Added to backlog – URL is XXX​".​
 
-**Note 2: **For tasks that will take time to be completely done (E.g. Producing a video), you may send a "work in progress" email. This way you avoid giving the perception that no action was in relation to the​ task.
+**Note 2:** For tasks that will take time to be completely done (E.g. Producing a video), you may send a "work in progress" email. This way you avoid giving the perception that no action was in relation to the​ task.
  ![NOT Done Email](NotDone.jpg) Figure: Not Done Email 
 ### Tip 1: Provide Detail in your "Done"
 

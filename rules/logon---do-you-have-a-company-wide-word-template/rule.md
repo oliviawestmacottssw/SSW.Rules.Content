@@ -43,7 +43,7 @@ For more information on why we need to modify the Normal.dotm, you can access th
 
 
 
-**Note: **If you use a Mac computer, a login script will not work. In order to use a Word template, you must install the template to Word locally, create a new document locally in Word, and then upload that document to Teams.​
+**Note:** If you use a Mac computer, a login script will not work. In order to use a Word template, you must install the template to Word locally, create a new document locally in Word, and then upload that document to Teams.​
 
 
 

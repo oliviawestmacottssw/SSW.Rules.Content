@@ -22,8 +22,8 @@ Figure: Download the​​ [Little Book of Angular](/SiteCollectionDocuments/Lit
 
 
 - **[​​The official documentation - Angular.io​](https://angular.io/)**
-- **NDC Sydney ****- Angular War Stories** - http://bit.ly/ndc-sydney-ng2-war-stories
-- ​**SSW TV **- http://tv.ssw.com/?s=angular
+- **NDC Sydney****- Angular War Stories** - http://bit.ly/ndc-sydney-ng2-war-stories
+- ​**SSW TV** - http://tv.ssw.com/?s=angular
 
 
 

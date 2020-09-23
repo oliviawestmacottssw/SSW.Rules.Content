@@ -13,7 +13,7 @@ authors:
  
 This can be achieved via Group Policy. This can be set up easily in​ a Microsoft Windows 2008 Server R2:
 
-**Note: **It is better to deploy printers via GPO preferences to end users and also for large-scale environments. There are third-party products eg. Tricerat or Printer Logic which makes centralizing printer queues and servers more efficiently.
+**Note:** It is better to deploy printers via GPO preferences to end users and also for large-scale environments. There are third-party products eg. Tricerat or Printer Logic which makes centralizing printer queues and servers more efficiently.
 
 - From Server Manager add the Print Services role
 ![Install the Print Services role](install-print-roles.jpg)Figure: Install the Print Services role- When the role has installed, open Print Management from Administrative Tools

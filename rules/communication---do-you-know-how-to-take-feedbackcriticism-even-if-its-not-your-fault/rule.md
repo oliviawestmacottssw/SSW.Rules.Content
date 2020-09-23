@@ -19,11 +19,11 @@ The best way to take this is to reply to the person and tell them the following 
 ### The three A’s:  Acknowledge, Apologize, Act  
 
 
-**A - **The first part of good customer service is **acknowledging** that something happened. If you don't acknowledge the pain, then other person won't know if you agree or not that something is wrong.
+**A -** The first part of good customer service is **acknowledging** that something happened. If you don't acknowledge the pain, then other person won't know if you agree or not that something is wrong.
 
-**A- ** **Apologize **if you messed up… or even if you didn’t. Just be clear you are sorry for their situation. E.g. "I am sorry for the downtime you have been experiencing today"
+**A-****Apologize** if you messed up… or even if you didn’t. Just be clear you are sorry for their situation. E.g. "I am sorry for the downtime you have been experiencing today"
 
-** A - **Lastly, explain how you will take **action** now, and in the future.
+**A -** Lastly, explain how you will take **action** now, and in the future.
 ​
 
 Even if you've been wrongly accused of something, you should still show you understand the other person's frustration and demonstrate initiative. Always have a view of the future and the big picture.

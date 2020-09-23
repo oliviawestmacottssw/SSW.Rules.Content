@@ -52,7 +52,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 | ​![clip_image002\[2\]](correct.gif "clip_image002[2]")Best performance<br><br>​![clip_image002\[2\]](correct.gif "clip_image002[2]")Codeless | ![clip_image004](wrong.gif "clip_image004")Read-only<br><br>![clip_image004\[1\]](wrong.gif "clip_image004[1]")Not available for hosted CRM<br><br>![clip_image004\[2\]](wrong.gif "clip_image004[2]") Security issues as you are exposing the view. |
 
     Filtered Views in Microsoft CRM provide access to the data available that supports providing picklist name and id values (lookup tables).
-    **More information: **
+    **More information:**
     If you only want read-only for CRM on-premises data for SharePoint users, this solution is fine. You create the External Content Type directly against the Filtered Views in the CRM database.
     http://msdn.microsoft.com/en-us/library/gg328467.aspx
  ![clip_image005](figure1.jpg "clip_image005") Figure: The result of "SELECT \* FROM FilteredCtx\_Project". Use Office SharePoint Designer to hook this up
@@ -66,7 +66,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 | ![clip_image002\[3\]](correct.gif "clip_image002[3]")Read/Write | ![clip_image004\[3\]](wrong.gif "clip_image004[3]")Needs lots of code and test work.<br><br>![clip_image004\[4\]](wrong.gif "clip_image004[4]")Needs to be deployed and published to the web server.<br><br>![clip_image004\[5\]](wrong.gif "clip_image004[5]")Less performance than SQL filter views directly #1 |
 
     #1 Note: Performance could be improved by making the reads from the views and the writes through the web service
-    **More information:  **
+    **More information: **
     1. Use BCS in VS 2010
     2. Write code that calls the CRM web services (that access the CRM data)
     3. Test
@@ -80,11 +80,11 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 | --- | --- |
 | ![clip_image002\[4\]](correct.gif "clip_image002[4]")Easy configuration | ![clip_image004\[6\]](wrong.gif "clip_image004[6]")50 records limit. Need to page through the results.<br><br>![clip_image004\[7\]](wrong.gif "clip_image004[7]")Possible issues with firewalls and proxies because it uses Integrated Security for authentication.<br><br>![clip_image004\[8\]](wrong.gif "clip_image004[8]")Read-Only<br><br>![clip_image004\[9\]](wrong.gif "clip_image004[9]")No easy way to consume |
 
-    ** 
-** **Note: **You can really only call the OData endpoint from an application that already has an authentication cookie with the CRM server. 
+    **
+** **Note:** You can really only call the OData endpoint from an application that already has an authentication cookie with the CRM server. 
 i.e. you can't impersonate and call it like you can the standard WCF endpoints 
 So it is really only suited to calling from Silverlight and JavaScript web resources that are delivered inside CRM (because they have the cookie)
-    **More information: **
+    **More information:**
     The first step is to expose the data:
     1. Install [http://crm2011odatatool.codeplex.com](http://crm2011odatatool.codeplex.com/)
     2. Make a query

@@ -21,7 +21,7 @@ When adding input boxes to collect data, please always have a &lt;label&gt; tag 
 ```
 
 
-**Tip: **To do this in ASP.NET use the AssociatedControlID parameter on your &lt;asp:Label /&gt;                     controls.
+**Tip:** To do this in ASP.NET use the AssociatedControlID parameter on your &lt;asp:Label /&gt;                     controls.
 
 
 ```

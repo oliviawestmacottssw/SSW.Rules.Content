@@ -26,5 +26,5 @@ To archive a Team, follow these steps:
 - Click "Archive team"​
 
 ![old-teams-how1.jpg](old-teams-how1.jpg)Figure: Clicking "Manage Teams"![old-teams-how2.png](old-teams-how2.png)Figure: Clicking "Ellipsis" | "Archive Team"
-**Note: **Archived teams can be restored at any time to be made available again.
+**Note:** Archived teams can be restored at any time to be made available again.
 

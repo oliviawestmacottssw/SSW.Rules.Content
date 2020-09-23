@@ -30,11 +30,11 @@ Option 2 (**not recommended**):
 
 2.    Right click on the content database associated with the site collection you're migrating | **Properties**
 
-3.    Choose     **Options **| Scroll to the bottom of the options list
+3.    Choose     **Options** | Scroll to the bottom of the options list
 
 4.    For the     **Database Read-Only** choose True
 ![](LocLSQLDB.jpg)Figure - Database Properties | Options | Database-Read Only ​  
 5.    Now it’s safe to take a backup of your content database
 
-**NOTE: ** When some SharePoint timer services are run it may cause the site to display errors when the database is in read-only mode
+**NOTE:**  When some SharePoint timer services are run it may cause the site to display errors when the database is in read-only mode
 

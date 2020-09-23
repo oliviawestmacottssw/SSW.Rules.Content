@@ -44,6 +44,6 @@ The best tweets will use a combination of @mentions and #hashtags where appropri
 - **#SSWRules** - For our public standards
 - **#SSWTV** - For our video channel
 - **#SSWTraining **- For our training programs
-- **#AngularHackDay **- For one of our "Hack Day" training events
+- **#AngularHackDay** - For one of our "Hack Day" training events
 
 

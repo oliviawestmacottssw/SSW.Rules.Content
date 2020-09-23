@@ -12,7 +12,7 @@ authors:
  
 ​The prefix is used to give context to your blog posts (or other type of content), so users know what to expect.
  
-Example 1: Use "**CODE:" **when your blog post is about coding or "**VIDEO:"** when it has a video.
+Example 1: Use "**CODE:"** when your blog post is about coding or "**VIDEO:"** when it has a video.
 
 Northwind Traders with Entity Framework Core
  Figure: Bad example - Post title with no prefix

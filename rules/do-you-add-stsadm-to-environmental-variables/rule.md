@@ -24,16 +24,16 @@ Figure: Using SharePoint 2010 Management Shell
 
 **More Information** for SharePoint 2007
 
-1. In the start menu type **Edit the system environment variables **and run the tool![](EnvVariables.png) 
+1. In the start menu type **Edit the system environment variables** and run the tool![](EnvVariables.png) 
 <br>    Figure 1 - Search for "Edit the system environment variables” in the Start Menu
-2. In the **System variables **section, select **Path **and click **Edit
-**![](EnvVariables2.png) 
+2. In the **System variables** section, select **Path** and click **Edit
+** ![](EnvVariables2.png) 
 <br>    Figure 2 - Under System Variables | Select Path | Click Edit
 3. Add the path at the end of the **Variable Value**
     1. For a SharePoint 2007 Server, enter:
 **;C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\12\bin**
 4. You may need to reboot the server
-5. You can now run **stsadm **from anywhere in the command prompt
+5. You can now run **stsadm** from anywhere in the command prompt
 
 
 

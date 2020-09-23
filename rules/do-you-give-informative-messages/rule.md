@@ -21,7 +21,7 @@ Giving your fellow employees informative messages is important. Follow these ste
 - Ask for the number
 
  
-** Subject:** Phone message from John Smith
+**Subject:** Phone message from John Smith
 
 Adam,
 ​
