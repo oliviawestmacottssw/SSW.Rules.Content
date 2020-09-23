@@ -16,7 +16,7 @@ index:
 - do-you-know-how-to-find-an-employee-or-clients-phone-number
 
 ---
-<p>​​​<br><br></p>
-<a href="http://www.ssw.com.au/ssw/Consulting/Lync.aspx" style="border: currentcolor; text-decoration: none;"><img src="/PublishingImages/lync-ad.jpg" alt="" style="margin-bottom: 50px;"/></a>
 
+​​​
+[![](/PublishingImages/lync-ad.jpg)](http://www.ssw.com.au/ssw/Consulting/Lync.aspx)
 

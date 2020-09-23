@@ -26,6 +26,7 @@ index:
 - do-you-use-the-best-deployment-tool
 
 ---
-<p>​​​</p>
+
+​​​
 
 

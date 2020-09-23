@@ -19,6 +19,7 @@ index:
 - logon---do-you-have-a-company-wide-word-template
 
 ---
-<p>Networks are the lifeblood of any business. This is why we have developed a few rules for a better Networks.​​<br></p>
+
+Networks are the lifeblood of any business. This is why we have developed a few rules for a better Networks.​​
 
 

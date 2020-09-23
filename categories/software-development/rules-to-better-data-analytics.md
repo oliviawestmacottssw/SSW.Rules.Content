@@ -6,6 +6,7 @@ index:
 - do-you-clean-your-data-before-modelling
 
 ---
-<p>​​<br></p>
+
+​​
 
 

@@ -19,6 +19,7 @@ index:
 - do-you-take-advantage-of-business-rewards-programs
 
 ---
-<p>​​​​​​​​<br></p>
+
+​​​​​​​​
 
 

@@ -9,6 +9,7 @@ index:
 - html---do-you-use-absolute-paths-for-newsletter-links-and-images
 
 ---
-<p>​​​<br></p>
+
+​​​
 
 

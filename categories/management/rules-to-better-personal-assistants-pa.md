@@ -15,6 +15,7 @@ index:
 - do-you-try-to-be-one-step-ahead-doing-tasks-before-they-come-up
 
 ---
-<p>​​<br></p>
-Rules to Better PA (aka Personal Assistant)
+
+​​
+ Rules to Better PA (aka Personal Assistant) 
 

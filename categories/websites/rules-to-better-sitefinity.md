@@ -10,6 +10,5 @@ index:
 - do-you-know-to-create-a-custom-library-provider
 
 ---
-
-SSW Rules to Better Sitefinity
+  SSW Rules to Better Sitefinity 
 

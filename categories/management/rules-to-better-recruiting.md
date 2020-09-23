@@ -9,6 +9,7 @@ index:
 - do-you-know-to-prepare-a-special-goodbye-to-a-co-worker-leaving-the-company
 
 ---
-<p>​​<br></p>
+
+​​
 
 

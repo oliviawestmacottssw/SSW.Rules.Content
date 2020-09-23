@@ -20,8 +20,7 @@ index:
 
 ---
 
-<p>Say you are doing a full day of training, you will need to get yourself and your students organized to do a great job.<br/>
-Here are some tips and tricks you can use.</p>
- 
+Say you are doing a full day of training, you will need to get yourself and your students organized to do a great job.
+ Here are some tips and tricks you can use.
 
 

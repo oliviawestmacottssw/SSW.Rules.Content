@@ -18,6 +18,7 @@ index:
 - do-you-use-screenshots-in-your-proposals
 
 ---
-<p>​​​<br></p>
+
+​​​
 
 

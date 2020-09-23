@@ -6,6 +6,7 @@ index:
 - do-you-use-by-rather-than-per-in-your-chart-titles
 
 ---
-<p>​​​​​<br></p>
+
+​​​​​
 
 

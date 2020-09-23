@@ -18,6 +18,7 @@ index:
 - do-you-reply-to-the-correct-zendesk-email
 
 ---
-<p>​​<br></p>
+
+​​
 
 
