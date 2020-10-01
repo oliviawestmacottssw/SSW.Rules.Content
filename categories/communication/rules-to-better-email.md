@@ -81,16 +81,16 @@ index:
 - do-you-use-great-email-signatures
 
 ---
-[!\[What others have to say about us\](/PublishingImages/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx) 
+[!\[What others have to say about us\](Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx) 
 
 
-| ![See what people think about this product](/PublishingImages/Testimonials_LeftQuote.gif) | I've been putting together Development Guidelines for my employer and in the process have reviewed many published standards (in the .Net arena) from around the world. In each category, the suggestions at SSW are always among the best. | ![See what people think about this product](/PublishingImages/Testimonials_RightQuote.gif) |
+| ![See what people think about this product](Testimonials_LeftQuote.gif) | I've been putting together Development Guidelines for my employer and in the process have reviewed many published standards (in the .Net arena) from around the world. In each category, the suggestions at SSW are always among the best. | ![See what people think about this product](Testimonials_RightQuote.gif) |
 | --- | --- | --- |
 
 
 *- Leon Bambrick,*
  
- 
+ 
 
 
 
@@ -104,7 +104,7 @@ Often emails are rambling and unorganized, forcing the reader to wade through bl
 
 Email can be a vital tool to your company and your software development project, but it has to be managed. Email should be an accurate record of requests, conversations, and decisions. Emails are legal documents and should be treated with the same care as any other correspondence with clients or employees. Email is also an extremely effective task tracking tool, and requests made by email should be treated with the same seriousness as Project Plans and other directives, for email can be seen as the protocol between the sender and receiver. Here is a series of email rules / etiquette that govern how we use our Inbox.
 
- 
+ 
 
-Do you agree with them all? Are we missing some? Email us your tips, thoughts or arguments. [Let us know](javascript:sendEmail%28&#39;6D61696C746F3A496E666F407373772E636F6D2E61753F5375626A6563743D52756C6573253230746F253230426574746572253230456D61696C&#39;%29) what you think.
+Do you agree with them all? Are we missing some? Email us your tips, thoughts or arguments. [Let us know](javascript:sendEmail%28'6D61696C746F3A496E666F407373772E636F6D2E61753F5375626A6563743D52756C6573253230746F253230426574746572253230456D61696C'%29) what you think.
 

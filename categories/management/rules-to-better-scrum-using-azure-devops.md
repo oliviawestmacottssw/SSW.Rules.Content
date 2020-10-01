@@ -70,16 +70,16 @@ index:
 - do-you-know-which-emojis-to-use-in-scrum
 
 ---
-SSW's Rules to Better [Scrum](http://www.ssw.com.au/ssw/Consulting/Scrum.aspx) allows businesses to address their most important challenges first and respond quickly to change. Our rules advocate software consultants working on-site, or on the phone, so long as there is close consultation with business users, with the goal to become integrated members of the client's team.
+SSW's Rules to Better [Scrum](http://www.ssw.com.au/ssw/Consulting/Scrum.aspx) allows businesses to address their most important challenges first and respond quickly to change. Our rules advocate software consultants working on-site, or on the phone, so long as there is close consultation with business users, with the goal to become integrated members of the client's team.
 
 
 
 > Software must help a business become more efficient and build better relationships with their clients. Business need software to be produced cost-effectively and quickly. Simple steps upfront stop software being slow to build and difficult to change.
 > 
-> Read our rules on Scrum (project management) for some simple tips before starting your next project.
+> Read our rules on Scrum (project management) for some simple tips before starting your next project.
 
 
 Adam Cogan, SSW Chief Architect
  
-![ Classic stories of Project Management  ](/PublishingImages/ProjectManagementSummary_Small.jpg)
+![ Classic stories of Project Management  ](ProjectManagementSummary_Small.jpg)
 

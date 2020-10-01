@@ -78,16 +78,16 @@ index:
 - do-you-use-the-brains-of-your-company
 
 ---
-[!\[What others have to say about us\](http://www.ssw.com.au/ssw/Images/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx) 
+[!\[What others have to say about us\](../../assets/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx) 
 
 
-| ![See what people think about this product](http://www.ssw.com.au/ssw/Images/Testimonials_LeftQuote.gif) | I've been putting together Development Guidelines for my employer and in the process have reviewed many published standards (in the .NET arena) from around the world. In each category, the suggestions at SSW are always among the best. | ![See what people think about this product](http://www.ssw.com.au/ssw/Images/Testimonials_RightQuote.gif) |
+| ![See what people think about this product](../../assets/Testimonials_LeftQuote.gif) | I've been putting together Development Guidelines for my employer and in the process have reviewed many published standards (in the .NET arena) from around the world. In each category, the suggestions at SSW are always among the best. | ![See what people think about this product](../../assets/Testimonials_RightQuote.gif) |
 | --- | --- | --- |
 
 
 *- Leon Bambrick*
 
-  
+
 
 
 
@@ -107,7 +107,7 @@ What is it that makes a good software development consultancy? What sets one com
 
 The promise of a successful project is something we all work harder to achieve, but working harder is not the answer. Software companies need to work smarter before, during, and after development, to ensure that the client gets not only what they want, but what they need.
 
-There are real gurus in this field like [Joel Spolsky](http://www.ssw.com.au/ssw/Redirect/homepageJoelOnSoftware.htm) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW"), [Kent Beck](http://www.ssw.com.au/ssw/Redirect/XP/AmazonExtremeProgramming.htm) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW"), [Tom DeMarco, and Timothy Lister](http://www.ssw.com.au/ssw/Redirect/XP/AmazonPeopleWare.htm) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW"). We like what they say, but we also reckon they miss a few things as well - everyone has their own ideas. These are the rules we run by every day. We believe they can help every software developer and team manager to deliver better code and a better end product.
+There are real gurus in this field like [Joel Spolsky](http://www.ssw.com.au/ssw/Redirect/homepageJoelOnSoftware.htm) ![](external.gif "You are now leaving SSW"), [Kent Beck](http://www.ssw.com.au/ssw/Redirect/XP/AmazonExtremeProgramming.htm) ![](external.gif "You are now leaving SSW"), [Tom DeMarco, and Timothy Lister](http://www.ssw.com.au/ssw/Redirect/XP/AmazonPeopleWare.htm) ![](external.gif "You are now leaving SSW"). We like what they say, but we also reckon they miss a few things as well - everyone has their own ideas. These are the rules we run by every day. We believe they can help every software developer and team manager to deliver better code and a better end product.
 
-Do you agree with them all? Are we missing some? Comment on individual rules, or [email us](javascript:sendEmail%28&#39;696E666F407373772E636F6D2E61753F7375626A6563743D52756C657320746F205375636365737366756C2050726F6A65637473&#39;%29) .
+Do you agree with them all? Are we missing some? Comment on individual rules, or [email us](javascript:sendEmail%28'696E666F407373772E636F6D2E61753F7375626A6563743D52756C657320746F205375636365737366756C2050726F6A65637473'%29) .
 
