@@ -11,4 +11,5 @@ authors:
 
 ---
 
-While "OK" buttons were the standard convention with operating systems of the past, web applications should use a more user-friendly approach to dialog boxes.<br>Instead of "OK" buttons to confirm an action the users want, it’s more efficient and effective to give them button that is labeled with that specific action.<br> ![ Bad example - web application button labeled as "OK"![OK](OKGoodExample.png)](OKBadExample.png)
+While "OK" buttons were the standard convention with operating systems of the past, web applications should use a more user-friendly approach to dialog boxes.<br>Instead of "OK" buttons to confirm an action the users want, it’s more efficient and effective to give them button that is labeled with that specific action.<br> [[badExample]]
+| ![web application button labeled as "OK"![OK](OKGoodExample.png)](OKBadExample.png)

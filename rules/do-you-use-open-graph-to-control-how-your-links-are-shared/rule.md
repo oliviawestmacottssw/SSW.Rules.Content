@@ -16,7 +16,8 @@ Open Graph is a metadata tag that allows you to control what content shows up wh
 It should be placed on the  section of your page. The most used properties are:
 
 
- ![ Bad example - Shared link has no image and the title was "guessed" by LinkedIn ![opengraph-good.jpg](opengraph-good.jpg) ](open-graph-bad.jpg) 
+ [[badExample]]
+| ![Shared link has no image and the title was "guessed" by LinkedIn ![opengraph-good.jpg](opengraph-good.jpg) ](open-graph-bad.jpg) 
 
 **Note: **For LinkedIn you might need to add the prefix as following:
 

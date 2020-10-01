@@ -15,7 +15,8 @@ If you decide to get insurance for your trip, the type of insurance you choose w
 
 For example, if you're travelling **within your home country** you might decide to only get insurance for a hire car – but this can be a trap: hire car insurance is expensive, and you might find that it is cheaper to buy travel insurance to cover the whole trip, which includes car hire insurance, than it is to purchase insurance just for the car. 
 
- ![ Bad example - Getting insurance through the car hire provider, with AUD$6,000 excess, is $23.25/day![private-travel-insurance.jpg](575bdf_private-travel-insurance.jpg) ](53a2eb_hire-car-provided-insurance.jpg)  
+ [[badExample]]
+| ![Getting insurance through the car hire provider, with AUD$6,000 excess, is $23.25/day![private-travel-insurance.jpg](575bdf_private-travel-insurance.jpg) ](53a2eb_hire-car-provided-insurance.jpg)  
 ### International travel:
 
 If you're **travelling outside of the country**, you should definitely take out travel insurance. If you book and pay using a credit card, you might be eligible for free travel insurance through your credit card institution, but don't assume this cover will be right for your needs, or will necessarily cover the whole travel party.

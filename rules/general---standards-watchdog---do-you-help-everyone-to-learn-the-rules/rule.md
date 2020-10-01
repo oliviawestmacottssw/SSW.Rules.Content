@@ -78,14 +78,16 @@ It can be tempting to offer your feedback as soon as you think of it, but it's b
 For more, check out [Do you know to create a safe space instead of jumping into feedback?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2c548b17-a4cb-47b1-bc04-c3038c3ff52e)
 
 
- ![ Bad example - seeing a mistake and not pointing it out doesn't improve a person. Allow them to benefit from your experience!](watchdog-ghost.jpg) 
+ [[badExample]]
+| ![seeing a mistake and not pointing it out doesn't improve a person. Allow them to benefit from your experience!](watchdog-ghost.jpg) 
 
 ### Going Anonymous
 
 When something is really personal, you can’t really correct someone unless you are a close friend and have credit with the person, so you should discretely ask your manager how to proceed in that specific case.
 
 ### Taking Feedback
- ![ Good example - say 'thank you' to a person's corrections to show you don't have thin skin and encourage further positive and negative feedback. It all helps you to improve](watchdog-thankyou.jpg) 
+ [[goodExample]]
+| ![say 'thank you' to a person's corrections to show you don't have thin skin and encourage further positive and negative feedback. It all helps you to improve](watchdog-thankyou.jpg) 
 ### In Summary
 
 It's important to ensure others are doing their best to maintain and follow the standards. Remember, it can be just as important for someone's professional development to give feedback as it is to receive it. Being able to communicate feedback in an effective and professional manner can benefit you in any career.

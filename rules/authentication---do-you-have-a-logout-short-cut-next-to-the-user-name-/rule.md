@@ -10,4 +10,5 @@ authors:
 ---
 
 Although most of the sites have a 'Log off' submenu, we recommend adding a short                     cut next to the user name, this will make the 'log Off' operation more convenient.
- ![ Bad example - Only has a 'Log Off' operation in the submenu![Good example - has a 'Logout'](logoff-good.jpg)                        ](logoff-bad.jpg)
+ [[badExample]]
+| ![Only has a 'Log Off' operation in the submenu![Good example - has a 'Logout'](logoff-good.jpg)                        ](logoff-bad.jpg)

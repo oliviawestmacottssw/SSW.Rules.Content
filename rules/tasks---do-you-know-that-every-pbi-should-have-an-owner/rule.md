@@ -26,4 +26,5 @@ Beware, this is intended for convenience and should not conflict with the follow
 - The Development team is self-organizing.
 - Accountability belongs to the development team as a whole
 
-![ Bad example - The Product Owner is not sure who to speak to![image](UserStoryOwner_Good.png)](UserStoryOwner_Bad.png)
+[[badExample]]
+| ![The Product Owner is not sure who to speak to![image](UserStoryOwner_Good.png)](UserStoryOwner_Bad.png)

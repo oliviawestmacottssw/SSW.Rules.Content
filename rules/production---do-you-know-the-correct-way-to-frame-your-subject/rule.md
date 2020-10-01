@@ -27,4 +27,5 @@ Basic rules to follow include:
 3. The interviewer should avoid leaning in to the interviewee too much as it might make them feel uncomfortable and seem a little weird in the frame.
 4. The best way to position your subjects is at 90° to each other and at 45° to the camera:
 
-![ Bad example - Interviewee (left) is facing toward the interviewer (right) too much and the interviewer is faced towards the camera too much. ![interview positions.jpg](interview positions.jpg) ](bad-interview-positions.jpg)
+[[badExample]]
+| ![Interviewee (left) is facing toward the interviewer (right) too much and the interviewer is faced towards the camera too much. ![interview positions.jpg](interview positions.jpg) ](bad-interview-positions.jpg)

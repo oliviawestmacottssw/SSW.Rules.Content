@@ -9,7 +9,8 @@ authors:
 
 ---
 
-Out of the box CRM4 only enables a contact to have 3 phone numbers (home, business and mobile) + 3 email addresses (but only one visible). A customization that almost everyone needs is to remove this limitation (to allow contacts to have an unlimited amount of phone numbers and email addresses). ![ Bad example - Out of the box a contact can only have 3 phone numbers and<br>              1 email address](contact1.jpg)
+Out of the box CRM4 only enables a contact to have 3 phone numbers (home, business and mobile) + 3 email addresses (but only one visible). A customization that almost everyone needs is to remove this limitation (to allow contacts to have an unlimited amount of phone numbers and email addresses). [[badExample]]
+| ![Out of the box a contact can only have 3 phone numbers and<br>              1 email address](contact1.jpg)
 There are a few customizations needed to get the SSW Contact Makeover:
 
 - Show some hidden fields
@@ -18,7 +19,8 @@ There are a few customizations needed to get the SSW Contact Makeover:
 - Add some entities
 - Add some form java script to hide the core Contact Details? tab when a user is<br>            entering a new contact
 
-![ Good example - Enable the hidden fields and move it to a new tab. And now<br>              a Contact has 3 email addresses and phone numbers ![](contact2.jpg)](contact3.jpg)
+[[goodExample]]
+| ![Enable the hidden fields and move it to a new tab. And now<br>              a Contact has 3 email addresses and phone numbers ![](contact2.jpg)](contact3.jpg)
 Q: So what is the end result? 
 A: The end user experience to add a phone number is ..
 ![  Step 1: Double-click the contact (or right-click the contact and<br>              select Open) Open![](contact5.jpg)](contact4.jpg)

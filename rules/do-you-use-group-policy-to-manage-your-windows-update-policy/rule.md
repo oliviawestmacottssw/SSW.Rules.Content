@@ -41,7 +41,8 @@ After the new Group Policy propagates, you will notice the update setting is now
 
 
 From now on your servers will be updated without unplanned reboots!
-![ Good example - AD shows the Group Policy setting “3 – Auto download and notify for install”. This policy is applied to the specified OU eg. Production Servers joined to this domain <br>      ](Default domain policy1.png)     
+[[goodExample]]
+| ![AD shows the Group Policy setting “3 – Auto download and notify for install”. This policy is applied to the specified OU eg. Production Servers joined to this domain <br>      ](Default domain policy1.png)     
 
 
 

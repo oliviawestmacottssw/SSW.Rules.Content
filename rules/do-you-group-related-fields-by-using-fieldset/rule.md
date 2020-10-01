@@ -12,7 +12,8 @@ authors:
 **FieldSet** element allows you to group thematically related controls                     and labels. Grouping controls makes forms more accessible and easier for users to                     understand the purpose of filling the forms.
 
 See the example below using "Your Details"                     and "Event Details".
- ![ Good example - Use FieldSet for grouping](fieldset.jpg)
+ [[goodExample]]
+| ![Use FieldSet for grouping](fieldset.jpg)
 Here's an example of how FieldSet works:
 
 

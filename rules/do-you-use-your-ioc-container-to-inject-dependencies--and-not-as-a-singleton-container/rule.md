@@ -16,7 +16,8 @@ Using an IOC container in this manner can bring advantages such as centralised c
 ![ Bad Example - the dependency is manually fetched from the IOC container, This class now has a hard dependency on your IOC container](IOC_badexample.png)
 
 
-![ Good example -  The dependency is enforced via a constuctor parameter. The class does not need to know anything about the IOC container being used and can potentially be reused in different contexts and with different IOC containers. ](IOC_GoodExample.png)
+[[goodExample]]
+| ![ The dependency is enforced via a constuctor parameter. The class does not need to know anything about the IOC container being used and can potentially be reused in different contexts and with different IOC containers. ](IOC_GoodExample.png)
 
 
 For more information and insight on IOC usage, read the following: http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container

@@ -10,5 +10,6 @@ authors:
 ---
 
 If your page requires permission to be accessed it should provide a button for the user to request it.
- ![ Bad example -  You just don't have access](no-request-permission.png)
+ [[badExample]]
+| ![ You just don't have access](no-request-permission.png)
 ![ Good example – Office 365 has a "Request Access" button ](request-permission.png)

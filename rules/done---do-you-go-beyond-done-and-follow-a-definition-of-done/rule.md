@@ -80,7 +80,8 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 - Code reviewed by one other team member (e.g. Checked by Bill)
 - Sending a Done email with screenshots
 
- ![ Good example - Add check in policies to enforce your Definition of Done](CheckinPolicy.jpg) 
+ [[goodExample]]
+| ![Add check in policies to enforce your Definition of Done](CheckinPolicy.jpg) 
 ## Team - Level 4
 
 - *All of the above, plus*
@@ -106,14 +107,16 @@ Figure: Good example - Done video showing the features worked on
 - *All of the above, plus*
 - Multiple environments automatically tested using Lab Management
 
- ![ Good example - A tester Lab Management to create VMs for testing the application, then defines a test plan for that application with Test Case Management](LabManagement.jpg) 
+ [[goodExample]]
+| ![A tester Lab Management to create VMs for testing the application, then defines a test plan for that application with Test Case Management](LabManagement.jpg) 
 ## Team - Level 7
 
 - *All of the above, plus*
 - Automated Load Testing
 - Continuous Deployment
 
- ![ Good example - Load testing involves multiple test agents running Web Performance Tests and pounding the application (simulating the behavior of many simultaneous users)](LoadTesting.jpg) 
+ [[goodExample]]
+| ![Load testing involves multiple test agents running Web Performance Tests and pounding the application (simulating the behavior of many simultaneous users)](LoadTesting.jpg) 
 ## Team - Level 8 (Gold)
 
 - *All of the above, plus*

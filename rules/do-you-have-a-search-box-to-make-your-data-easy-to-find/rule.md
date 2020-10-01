@@ -7,4 +7,5 @@ authors: []
 
 ---
 
-![ Good example - a "search box" makes it easy to find data![Easy to search](win8search.jpg)](../../assets/EasySearch.png)
+[[goodExample]]
+| ![a "search box" makes it easy to find data![Easy to search](win8search.jpg)](../../assets/EasySearch.png)

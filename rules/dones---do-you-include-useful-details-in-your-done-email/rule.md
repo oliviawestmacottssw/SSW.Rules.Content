@@ -30,13 +30,15 @@ This has several benefits:
 
 
 Let's look at some examples and tips:
- ![ Bad example - the client cannot see any detail of what was done  ![](NotifyCodeChanges.gif) ](NotifyCodeChangesBad.gif) 
+ [[badExample]]
+| ![the client cannot see any detail of what was done  ![](NotifyCodeChanges.gif) ](NotifyCodeChangesBad.gif) 
 **Tip #1: Include the URL
 **If you are using TFS, you can also include a URL to the work item in TSWA
 
 **Tip #2: Include a .diff file
 **You can include the code as an attached text file.
- ![ Good example - this is a Text file with a .diff extension that includes the code change from TFS. If opened using NotePad2, the client can view the code changes with green and red color (added and deleted code). ](NotePad2DiffFiles.gif) 
+ [[goodExample]]
+| ![this is a Text file with a .diff extension that includes the code change from TFS. If opened using NotePad2, the client can view the code changes with green and red color (added and deleted code). ](NotePad2DiffFiles.gif) 
 **Tip 3#: Do you have force a link between the code and the requirement?**
 
 For those developers lucky enough to be using Microsoft Team Foundation Server (TFS 2005, 2008 or 2010) you can associate your code changes with a work item. This means that future developers can work out not just \*what\* changed, but \*why\*. 

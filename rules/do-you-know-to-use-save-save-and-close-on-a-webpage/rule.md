@@ -25,12 +25,14 @@ These three options are:
 
 
 
-![ Bad example - only provided *Save*button and *Cancel*link](2014-11-27_11-45-25-compressor.png)
+[[badExample]]
+| ![only provided *Save*button and *Cancel*link](2014-11-27_11-45-25-compressor.png)
 
 
 
 
-![ Good example - CRM 2013 provides a *Save *button and a *Save and Close* button](2014-11-27_13-58-48-compressor.png)
+[[goodExample]]
+| ![CRM 2013 provides a *Save *button and a *Save and Close* button](2014-11-27_13-58-48-compressor.png)
 
 
 

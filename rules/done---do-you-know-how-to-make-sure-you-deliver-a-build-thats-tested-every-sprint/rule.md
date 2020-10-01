@@ -15,7 +15,8 @@ authors:
 
 What happens when you leave all the testing to the end of the sprint? You find things that are not ***done*** and you have no time before the **Sprint Review** to fix them.
 
-![ Bad example - if you don’t complete all the tasks the customer will not receive a build in the sprint One way to mitigate this is to aim for a “*test please*” to occur a few days before the end of the Sprint but you still run the risk of not having enough time to make sure everything is *done.* ](RuleBuildEverySprintBad.png) 
+[[badExample]]
+| ![if you don’t complete all the tasks the customer will not receive a build in the sprint One way to mitigate this is to aim for a “*test please*” to occur a few days before the end of the Sprint but you still run the risk of not having enough time to make sure everything is *done.* ](RuleBuildEverySprintBad.png) 
 
 ![ OK example – Send the “test please” before the end of the sprint so you have time to finish everything](RuleBuildEverySprintOK.png)
 

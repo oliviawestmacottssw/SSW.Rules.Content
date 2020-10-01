@@ -50,7 +50,8 @@ Then deny check-ins to **Contributors**, P**roject Administrators** and **Projec
 
 Next step is to update the dashboard to let new developers know.
 
-![ Good example - Let new users know that the source control is now on Git](2017-04-05_10-30-43.png)
+[[goodExample]]
+| ![Let new users know that the source control is now on Git](2017-04-05_10-30-43.png)
 
 
 

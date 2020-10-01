@@ -26,4 +26,5 @@ In specific cases, like on breadcrumbs and logo, you don't want these URL's, so 
 .breadcrumb a[href]:after {
 content: none;
 }
-![ Good example - printing links on the content but avoiding it on obvious places, like the logo and bradcrumbs](print-url.jpg)
+[[goodExample]]
+| ![printing links on the content but avoiding it on obvious places, like the logo and bradcrumbs](print-url.jpg)

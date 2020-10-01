@@ -40,7 +40,8 @@ The Spec Review presentation should be scheduled by the Consultant or Account Ma
 - **Option D **- Video of PowerPoint presentation with narrations **exported to a video** (the best option to gather more feedback, you can even gather public feedback E.g. PointBank https://sswconsulting.github.io/PointBank/).
 Make sure to name your video according to the rules on [How to Include Version Numbers in Your File](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d2f51289-6130-4f59-864f-7b41329000cd), and add a version number to it by following the rule on How to Use a Version Number on Your Videos. Publish your video to YouTube afterwards so you can easily share it with colleagues and clients.
 
-![ Good example - Export your PowerPoint presentation as a video](3-01-2014 10-13-04 PM.png)
+[[goodExample]]
+| ![Export your PowerPoint presentation as a video](3-01-2014 10-13-04 PM.png)
 
 ### Video Examples <br>   
 

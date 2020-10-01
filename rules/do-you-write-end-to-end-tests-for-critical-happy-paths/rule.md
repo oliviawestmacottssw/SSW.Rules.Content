@@ -17,4 +17,5 @@ These are workflows that, if errors occur, the product becomes rather useless, a
 A nice option is to use [Seleno](http://seleno.teststack.net/) with an appropriate web driver for the desired browser – see the Seleno documentation.  This library lets you write code to drive a user’s action in a browser, including  for example logging in, searching for a product, adding it to the cart, proceeding to checkout, entering test credit card information and ensuring the success message.
  
 This isn’t free though.  The nature of these tests mean that without proper care and maintenance, tests will fail intermittently.  There are difficult-to-predict timings, DOM changes and browser compatibility issues and ongoing maintainability - so it is beneficial to limit these kinds of tests to critical happy-paths.
-![ Bad example - No end-to-end tests, no automatic feedback when things go catastrophically wrong ![test-good.png](test-good.png)](test-bad.png)
+[[badExample]]
+| ![No end-to-end tests, no automatic feedback when things go catastrophically wrong ![test-good.png](test-good.png)](test-bad.png)

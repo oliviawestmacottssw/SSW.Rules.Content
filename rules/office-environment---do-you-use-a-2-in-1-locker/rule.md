@@ -12,5 +12,7 @@ authors:
 It's important to provide a physical space for each employee to receive packages and mails.
  
 The locker should have a slot for mail, so you don't need 2 different locations.
- ![ Bad example - Having a drawer and a mailbox takes too much space (2 different locations) and larger packages won't fit![Lockers.jpg](Lockers.jpg)](drawer-bad.jpg) 
- ![ Good example - A locker with mail slot is ideal for both mail and packages ](locker-good.jpg)
+ [[badExample]]
+| ![Having a drawer and a mailbox takes too much space (2 different locations) and larger packages won't fit![Lockers.jpg](Lockers.jpg)](drawer-bad.jpg) 
+ [[goodExample]]
+| ![A locker with mail slot is ideal for both mail and packages ](locker-good.jpg)

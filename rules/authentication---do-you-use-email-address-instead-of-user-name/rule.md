@@ -14,4 +14,5 @@ It is easier for users to remember their frequently accessed email address more 
 "I do recommend letting users enter their email address instead of a user ID: It's guaranteed to be unique and it is easy to remember."
 
 **Jakob Nielsen**,** **Ph.D. and Principal at Nielsen Norman Group
-![ Bad example - users have to remember which username applies to this particular website![](good-email.jpg) ](bad-username.jpg)
+[[badExample]]
+| ![users have to remember which username applies to this particular website![](good-email.jpg) ](bad-username.jpg)

@@ -18,7 +18,8 @@ You should use the built in automatic backup in Azure SQL Database versus using 
 
 > T-SQL: CREATE DATABASE destination\_database\_nameAS COPY OF[source\_server\_name].source\_database\_name
 
-Figure: Bad example - Using T-SQL to restore your database![ Good example - Using the built in SQL Azure Database automatic backup system to restore your database](Azure-restore.jpg)
+Figure: Bad example - Using T-SQL to restore your database[[goodExample]]
+| ![Using the built in SQL Azure Database automatic backup system to restore your database](Azure-restore.jpg)
 
 
 Azure SQL Database automatically creates backups of every active database using the following schedule: Full database backup once a week, differential database backups once a day, and transaction log backups every 5 minutes. The full and differential backups are replicated across regions to ensure availability of the backups in the event of a disaster.

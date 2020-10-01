@@ -23,7 +23,8 @@ To ensure your meetings are productive and successful, you should:
 - If you are going to be late, contact the organizer or the person in charge of the meeting to let them know that you are running late and what time you will be arriving.
 - To improve future meetings, at the end of the meeting, do a quick debrief to see how long the meeting took, if anything was covered that didn't need to be, etc.
 
-![ Bad example - meeting with No Agenda ![](MeetingWithAgenda_1.jpg)](../../assets/MeetingNoAgenda.JPG) 
+[[badExample]]
+| ![meeting with No Agenda ![](MeetingWithAgenda_1.jpg)](../../assets/MeetingNoAgenda.JPG) 
 Every Outlook appointment must have:
 
 1. A good subject, to let attendees know the purpose of the meeting, see our rule [Do you realize the importance of a good email Subject?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f4073e2a-b089-4a7f-8ee6-a7b1a48509e8)

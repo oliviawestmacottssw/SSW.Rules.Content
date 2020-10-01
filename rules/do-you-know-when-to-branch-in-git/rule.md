@@ -25,7 +25,8 @@ Using this strategy, ** master **is always production-ready and deployable.
  
 
 
-![ Bad example - Committing to master![commit-branch-good.jpg](commit-branch-good.jpg) ](commit-master-bad.jpg)
+[[badExample]]
+| ![Committing to master![commit-branch-good.jpg](commit-branch-good.jpg) ](commit-master-bad.jpg)
 ![ Great diagram from <br>      [GitHub](https://guides.github.com/pdfs/githubflow-online.pdf) ](github-flow.jpg)
 ### The process
 
@@ -42,7 +43,8 @@ Since master is always being deployed, it must always be in a deployable state.
 **a) Create a "feature branch" for every PBI**
 
 When starting a PBI from the task board, create a branch from      **master** with a descriptive name for that feature.
-![ Bad example - Branch name is not descriptive![git branch create-basic-web-application](GoodBranchName.png) ](BadBranchName.png)
+[[badExample]]
+| ![Branch name is not descriptive![git branch create-basic-web-application](GoodBranchName.png) ](BadBranchName.png)
 **It is critical that this branch always comes off master, not another feature branch. Master is the only branch that is mandated to be in a deployable state, so any other option is unsafe.**
 
 Obviously, we're creating a lot of branches and merging a lot under this strategy - and that's ok.  Be sure to keep your PBIs small (as per [do you break large tasks into smaller tasks](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2e446681-6eff-4cec-b955-e530edc4cdc8)), and you will not have much merge pain.

@@ -38,4 +38,5 @@ A good UI is:
 
 
 
-![ Good example - Teamviewer's interface requires very little explanation![Fly in a Urinal](../../assets/FlyInUrinal.jpg)](../../assets/GoodUITeamViewer.png)
+[[goodExample]]
+| ![Teamviewer's interface requires very little explanation![Fly in a Urinal](../../assets/FlyInUrinal.jpg)](../../assets/GoodUITeamViewer.png)

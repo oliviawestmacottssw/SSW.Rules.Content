@@ -28,4 +28,5 @@ Microsoft Teams' winning feature is its tight integration with Office services a
 **Skype** – an instant messaging app that provides online text messages and video chat services. Users may transmit both text and video messages and may exchange digital documents such as images, text, and video. 
 
 **Skype for Business** – a solid communication product boasting multiple modalities and the ability to easily switch between them, as well as share a variety of content forms (e.g., desktop, application, whiteboard, poll).
-![ Bad example - Numerous group chats with no group name and therefore no way of tracking previous chats/files![Teams chat.jpg](Teams chat.jpg)](skype chat.jpg)
+[[badExample]]
+| ![Numerous group chats with no group name and therefore no way of tracking previous chats/files![Teams chat.jpg](Teams chat.jpg)](skype chat.jpg)

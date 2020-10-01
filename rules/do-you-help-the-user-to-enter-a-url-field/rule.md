@@ -10,6 +10,8 @@ authors:
 ---
 
 Most developers seem to validate a URL and tell the user what they have done wrong                     only after the error happens. URL fields should show how the users must enter it.
- ![ Bad example - Using a validation message to tell the user to enter a correct<br>                        URL](url-field-bad.jpg)                        
+ [[badExample]]
+| ![Using a validation message to tell the user to enter a correct<br>                        URL](url-field-bad.jpg)                        
 The better way is to have the user avoid the error with a good default.
-![ Bad example - The user has a good chance of entering the URL in the incorrect format![image showing a textfield pre-populated with 'http://www.'](url-field-good.jpg)                        ](url-field-bad2.jpg)
+[[badExample]]
+| ![The user has a good chance of entering the URL in the incorrect format![image showing a textfield pre-populated with 'http://www.'](url-field-good.jpg)                        ](url-field-bad2.jpg)

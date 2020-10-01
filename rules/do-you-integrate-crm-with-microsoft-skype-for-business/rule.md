@@ -35,4 +35,5 @@ Read more about     [implementing Microsoft Lync](http://www.ssw.com.au/ssw/Cons
 ### SkypePOP Setup
 
 
-![ Good example - use the discovery service of your CRM (connect using @ as a username)](2016-12-02_15-14-23.jpg)
+[[goodExample]]
+| ![use the discovery service of your CRM (connect using @ as a username)](2016-12-02_15-14-23.jpg)

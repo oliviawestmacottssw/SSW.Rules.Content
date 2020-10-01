@@ -14,7 +14,8 @@ authors:
 Within a team or project-based organisation, the number of Teams can rapidly grow out of control. The more active Teams you have, the harder it gets to find the right information when you need it.
  
 Hiding teams works well enough for end users but doesn't help administrators figure out which teams are actually in use. You should "Archive" unused teams instead – making the team unavailable read-only.
-![ Bad example - Lots of old and test teams![old-teams-good.jpg](old-teams-good.jpg)](old-teams-bad.png)
+[[badExample]]
+| ![Lots of old and test teams![old-teams-good.jpg](old-teams-good.jpg)](old-teams-bad.png)
 To archive a Team, follow these steps:
 
 

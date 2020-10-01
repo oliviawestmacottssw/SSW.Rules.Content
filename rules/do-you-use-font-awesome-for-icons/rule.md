@@ -11,7 +11,8 @@ authors:
 
 ---
 
-Bootstrap comes with a good font-based icon library to use in your web application, but there is an even better one you should use whenever you are using Bootstrap.   When building a web application, it is common that you will need icons in the UI. Traditionally, this has been done with images (e.g. png, jpg) which leads to a lot of resource management.  ![ Bad example - using images for application icons](23-06-2014 11-20-02 AM.png) 
+Bootstrap comes with a good font-based icon library to use in your web application, but there is an even better one you should use whenever you are using Bootstrap.   When building a web application, it is common that you will need icons in the UI. Traditionally, this has been done with images (e.g. png, jpg) which leads to a lot of resource management.  [[badExample]]
+| ![using images for application icons](23-06-2014 11-20-02 AM.png) 
 This is simplified if you are using Bootstrap, as it comes with a font-based icon library you can use in your web application. However, there is an even better third-party font-based icon library you should use when using Bootstrap.
 
 Font Awesome provides scalable vector icons which can be customized purely through CSS and is completely free for commercial projects. This is great if you’re tight on implementation deadlines, but is no replacement for a specifically designed icon set. However, if you need generic icons in a hurry, then use Font Awesome.

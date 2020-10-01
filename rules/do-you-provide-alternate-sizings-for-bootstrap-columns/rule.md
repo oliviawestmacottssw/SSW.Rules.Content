@@ -13,7 +13,9 @@ authors:
 
 Bootstrap provides a powerful, responsive layout with its rows and columns. 
 The common way to use Bootstrap's layout system is to create a basic grid which will appear as horizontal columns on the desktop but then stack on a smaller screen such as mobiles. This is done with a single set of .col-md-\* classes.
-![ Bad example - create the default stacking layout with Bootstrap![23-06-2014 1-04-08 PM.png](23-06-2014 1-04-08 PM.png)](23-06-2014 12-47-33 PM.png)
+[[badExample]]
+| ![create the default stacking layout with Bootstrap![23-06-2014 1-04-08 PM.png](23-06-2014 1-04-08 PM.png)](23-06-2014 12-47-33 PM.png)
 Did you know you can have more control over the responsive layout by including multiple column classes? The ability to control the layout across multiple screen sizes is a powerful tool within Bootstrap. For example, if you don't want your columns to stack on smaller devices, use the smaller grid classes by adding additional column classes (e.g. .col-xs-\* .col-sm-\*) to the respective
 
-s. ![ Good example - add additional column classes to your columns![23-06-2014 1-14-39 PM.png](23-06-2014 1-14-39 PM.png)](23-06-2014 12-45-30 PM.png)
+s. [[goodExample]]
+| ![add additional column classes to your columns![23-06-2014 1-14-39 PM.png](23-06-2014 1-14-39 PM.png)](23-06-2014 12-45-30 PM.png)

@@ -18,4 +18,5 @@ Exception: Only use them in the following scenarios:
 - Confirming the deletion of a record
 - Kicking off a long running process that cannot be cancelled
 
-![ Bad example - could the information in this message box be moved into the panel on the right![Embedded message box](../../assets/oneplacemailerror.png)](../../assets/MoveErrorMSG.jpg)
+[[badExample]]
+| ![could the information in this message box be moved into the panel on the right![Embedded message box](../../assets/oneplacemailerror.png)](../../assets/MoveErrorMSG.jpg)

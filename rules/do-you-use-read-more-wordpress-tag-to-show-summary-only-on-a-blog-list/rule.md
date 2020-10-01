@@ -18,7 +18,8 @@ To do so, you can either edit the source index.php (or similar) file; or just cl
 
 
 replace  with
-Figure: Bad example - changing source PHP files is complicated and require developer skills  ![ Good example - click on the "Read More" tag on the post visual editor](readmore-tag.png) 
+Figure: Bad example - changing source PHP files is complicated and require developer skills  [[goodExample]]
+| ![click on the "Read More" tag on the post visual editor](readmore-tag.png) 
 **Note:** This is out-of-the-box with WordPress. You won't need a plugin.
 
 ### Custom Read More Message

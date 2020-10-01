@@ -10,4 +10,5 @@ authors:
 ---
 
 Using "Magic numbers" in your code makes it confusing and really hard to maintain.
- ![ Bad example - "Magic Number" works, but is a bad idea![MagicNumberGood.jpg](MagicNumberGood.jpg)](MagicNumberBad.jpg)
+ [[badExample]]
+| !["Magic Number" works, but is a bad idea![MagicNumberGood.jpg](MagicNumberGood.jpg)](MagicNumberBad.jpg)

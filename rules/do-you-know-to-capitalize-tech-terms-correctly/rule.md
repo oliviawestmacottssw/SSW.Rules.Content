@@ -43,4 +43,5 @@ Here’s a quick overview:
 > | Agile<br><br> | Only first letter capitalized<br><br> |
 > | Scrum<br><br> | Only first letter capitalized<br><br>(Note: it is not an acronym, so it should never be spelled "SCRUM") |
 
-![ Bad example - If you want to be taken seriously as an expert in the subject, you should properly and consistently spell, punctuate, and capitalize the technology you are working with![Good example: This banner shows the correct capitalization for .NET](good-example-correctly-capitalized.jpg)](bad-example-incorrect-capitalization.jpg)
+[[badExample]]
+| ![If you want to be taken seriously as an expert in the subject, you should properly and consistently spell, punctuate, and capitalize the technology you are working with![Good example: This banner shows the correct capitalization for .NET](good-example-correctly-capitalized.jpg)](bad-example-incorrect-capitalization.jpg)

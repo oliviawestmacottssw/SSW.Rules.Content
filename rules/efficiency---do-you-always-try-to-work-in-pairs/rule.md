@@ -34,7 +34,8 @@ SSW Chief Architect + Microsoft Regional Director
 
 
 If you are not sitting next to a person working on the same project, then fix it. If you cannot then at least mention it to your manager.
-![ Bad example - This is normal ‘pair programming’, two people working at one PC![](PairProgramming02_Small.jpg)](PairProgramming01.jpg)
+[[badExample]]
+| ![This is normal ‘pair programming’, two people working at one PC![](PairProgramming02_Small.jpg)](PairProgramming01.jpg)
 ###  Is there an overhead?
 
 Some projects are done quicker with two people - especially when they are complex. But on most projects there is an overhead, because of the extra communication between the developers - you now have to please someone else - not just yourself.

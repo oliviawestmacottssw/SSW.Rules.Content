@@ -24,4 +24,5 @@ As per our rule [Do you know when to use CheckBox?](http://www.ssw.com.au/SSW/st
 ![ Change layout and control formatting of email field to one column type and<br>              check box.10. Repeat steps 6-9 for other contact method](CRMChangeContactMethodsFieldProperties.jpg)              
 11. Repeat steps 3-9 for account entity
 
-![ Good example - Checkboxes are used for contact methods because they're clear<br>            and simple.](CRMContactMethodsWithCheckboxes.jpg)
+[[goodExample]]
+| ![Checkboxes are used for contact methods because they're clear<br>            and simple.](CRMContactMethodsWithCheckboxes.jpg)

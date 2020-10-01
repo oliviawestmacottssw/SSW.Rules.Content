@@ -22,5 +22,6 @@ Popup forms are good:
 - if they can't get lost behind another window
 - if you make them clear by dimming the background (see below)
 
-![ Bad example - if this was a popup form it would be easier to focus on where to look (as a minimum you would be looking at half the screen)![Adobe Illustrator](../../assets/Popup02.jpg)](../../assets/Popup01.jpg)
+[[badExample]]
+| ![if this was a popup form it would be easier to focus on where to look (as a minimum you would be looking at half the screen)![Adobe Illustrator](../../assets/Popup02.jpg)](../../assets/Popup01.jpg)
 For example, adding a webpart in SharePoint 2010 should use a popup form. [See our suggestion to Microsoft](http://www.ssw.com.au/ssw/standards/BetterSoftwareSuggestions/sharepoint.aspx#PopupForm).

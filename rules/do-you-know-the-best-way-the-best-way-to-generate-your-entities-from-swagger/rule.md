@@ -21,8 +21,12 @@ There are 3 ways:
 2. **NSwagStudio** - https://github.com/NSwag/NSwag/wiki/NSwagStudio
 3. **Swagger Codegen** - http://swagger.io/swagger-codegen
 
- ![ Bad example - only around 1, 000 results ](nswagstudio-search.jpg) 
- ![ Bad example - NSwag has not many "Watch" and "Star"](github-nswag.jpg) 
- ![ OK example - Around 40,000 results](swagger-codegen-search.jpg)
+ [[badExample]]
+| ![only around 1, 000 results ](nswagstudio-search.jpg) 
+ [[badExample]]
+| ![NSwag has not many "Watch" and "Star"](github-nswag.jpg) 
+ [[okExample]]
+| ![Around 40,000 results](swagger-codegen-search.jpg)
  ![ Swagger-Codegen and Autorest are quite popular. Swagger-Codegen has more “Star” ](github-swagger-codegen.jpg)
- ![ Good example - 130,000+ results![github-autorest.jpg](github-autorest.jpg)](autorest-search.jpg)
+ [[goodExample]]
+| ![130,000+ results![github-autorest.jpg](github-autorest.jpg)](autorest-search.jpg)

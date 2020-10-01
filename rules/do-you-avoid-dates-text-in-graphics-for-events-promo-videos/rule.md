@@ -10,5 +10,6 @@ authors:
 ---
 
 To maximize reusability and minimize costs, it’s best to avoid including dates as text in graphics for promotional videos.
- ![ Bad example - dates shown as text in graphics (creates extra work to change every time)![events-dates-good.png](events-dates-good.png)](events-dates-bad.png)
+ [[badExample]]
+| ![dates shown as text in graphics (creates extra work to change every time)![events-dates-good.png](events-dates-good.png)](events-dates-bad.png)
 If there is some particular value/purpose in including dates there may be exceptions to this rule.

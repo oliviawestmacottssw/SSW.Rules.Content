@@ -26,7 +26,8 @@ For ASP.NET website, the detailed information would be presented to the remote m
 This error information is useful for the developer to do debugging. However, it would leak out some confidential information which could be used to get into your system by the hackers. We can assume that if a SQL exception occurs by accident, which may expose database sensitive information (e.g. connection string; SQL script). So, to prevent these leaks, you should set the "mode" attribute of the tag  to "RemoteOnly" or "On" in the web.config file and create a user-friendly customized error page to replace the detailed error information.
 
 
- Figure: Turning on "customErrors" protects sensitive information against Hacker   ![ Bad example - Unhandled error ![404-good.jpg](404-good.jpg) ](404-bad.jpg) 
+ Figure: Turning on "customErrors" protects sensitive information against Hacker   [[badExample]]
+| ![Unhandled error ![404-good.jpg](404-good.jpg) ](404-bad.jpg) 
 ### Related rule
 
 - [Do you avoid changing the URL on a 404 error?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0c5ba2ba-eb40-4b9e-afdc-c2bccd589b54)
