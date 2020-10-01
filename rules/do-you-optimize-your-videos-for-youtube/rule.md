@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Having great content is important, but it’s not all. You must also consider writing a good title, description and add relevant tags and not too many.
  
 It is not very difficult, but you should still follow some rules:
@@ -32,5 +31,3 @@ Good example: treat your video description as a blog post and give info but keep
 > 
 > 
 > **Images**: courtesy of Brian Dean ([source](https://backlinko.com/grow-youtube-channel)).
-
-

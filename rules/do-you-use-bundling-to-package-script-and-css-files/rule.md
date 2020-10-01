@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 ASP.NET provides a great way to compress and package multiple script files or multiple css files.  Bundling multiple files together results in fewer requests from the client and smaller payloads which leads to much faster render times.
  
 Rather than link to each script or css file individually, use bundling to group many together and get the advantages of minification and versioning out of the box.

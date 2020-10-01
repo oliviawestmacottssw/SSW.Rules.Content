@@ -11,16 +11,13 @@ authors:
 
 ---
 
- 
 Developers think they are done when they finish coding and check in.
 
 Wrong. It is much better to [use Microsoft Test Manager (MTM) and step through the Acceptance Tests.](/Pages/Do-You-Run-Acceptance-Tests.aspx)
 
 Once you are doing that, this is how you check the status of the current Sprint:
- ![run acceptance tests](check-sprint-status.jpg)Figure: Good example - This Sprint currently has 2 'Failed' tests (red), and 1 'Active' test (blue). (This 'Results' view is new in MTM 2012) 
+ ![ Good example - This Sprint currently has 2 'Failed' tests (red), and 1 'Active' test (blue). (This 'Results' view is new in MTM 2012) ](check-sprint-status.jpg)
 Key:
 
 - The red is work remaining for the developers, and
 - The blue is working remaining for the testers (unfinished testing)
-
-

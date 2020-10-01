@@ -9,7 +9,7 @@ authors:
 
 ---
 
- SSRS keeps track of each report that gets executed and records useful information like:
+SSRS keeps track of each report that gets executed and records useful information like:
 
 
 - How long did the report take to generate
@@ -22,7 +22,7 @@ So it's quite simply a matter of querying the ReportServer database for informat
 
 
  
-​WITH RankedReports
+WITH RankedReports
 AS
 (SELECT ReportID,
         TimeStart,
@@ -47,5 +47,4 @@ SELECT t2.Name AS ReportName,
 GROUP BY t2.Name, Path, ReportID
 ORDER BY MAX(t1.TimeStart) DESC;
 
-​​​The query above gives you the last reports that were accessed (Credit to [Eric Phan - SSRS - Find out which reports are being used (handy for migrating only the useful reports to a new server)​](http&#58;//ericphan.net/blog/2016/9/12/ssrs-find-out-which-reports-area-being-used-handy-for-migrating-only-the-useful-reports-to-a-new-server))
-
+The query above gives you the last reports that were accessed (Credit to [Eric Phan - SSRS - Find out which reports are being used (handy for migrating only the useful reports to a new server)](http&#58;//ericphan.net/blog/2016/9/12/ssrs-find-out-which-reports-area-being-used-handy-for-migrating-only-the-useful-reports-to-a-new-server))

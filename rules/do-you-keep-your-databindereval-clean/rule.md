@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Remember ASP code, you had lots of inline processing. Using DataBinder.Eval encourages the same tendencies. DataBinder.Eval is OK, so is formatting a number to a currency. But not formatting based on business rules. The general rule is, any code between **&lt;%#** and **DataBinder.Eval** is bad and should be moved into protected method on the form.
 
 Here is a good and a bad way to binding fields in ASP.NET in a datagrid.
@@ -23,11 +22,11 @@ control
 - **Bad:** Compile errors are not picked up
 
  
-​​
+
 
 &lt;asp:Label id="tumorSizeLabel" runat="server" Text='&lt;%# iif( Container.DataItem.Row.IsNull("TumorSize"), "N/A",DataBinder.Eval(Container, "DataItem.TumorSize", "0.00")) %&gt;'/&gt;
- Bad code​​ 
-​​Putting the code on the ItemDataBound Event.
+ Bad code 
+Putting the code on the ItemDataBound Event.
 
 - **Good:** Business logic is in the code behind (.vb or .cs file)
 - **Good****:** intellisense
@@ -37,7 +36,7 @@ control
 
 **In server page:**
 
-​​&lt;asp:Label id="tumorSizeLabel" runat="server" /&gt;
+&lt;asp:Label id="tumorSizeLabel" runat="server" /&gt;
 
 **In code behind:**
 
@@ -54,7 +53,5 @@ tumorSizeLabel.Text = row.TumorSize.ToString("0.00")
 End If
 End If
 End Sub
-Good code​​
-​​We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.​​​
-​
-
+Good code
+We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.

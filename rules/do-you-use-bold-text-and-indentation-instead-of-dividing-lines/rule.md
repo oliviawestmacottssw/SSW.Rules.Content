@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Many applications have a lot of content on each form. If this is the case there                     needs to be some way to separate certain sections. To achieve this separation Microsoft                     (and therefore most developers) uses separating lines, but this UI is not perfect                     because:
 
 - It creates additional visual clutter
@@ -24,4 +23,4 @@ We recommend using bold instead of dividing lines because:
     - The dividing lines create additional visual clutter (ever so slight)
     - Each line creates additional performance implications (ever so slight)
 
-![Internet options form of IE](../../assets/ToolsOptionforIE.gif) Figure: Bad Example - This is the Tools - Options from Internet Explorer and it groups each section in a groupbox - busy UI. ![Options form of Outlook](../../assets/ToolsOptionforOutlook.gif) Figure: Bad Example - This is the Tools - Options from Outlook and it uses dividing lines for each section.![SSW Code AUditor - Email and Schedule](../../assets/BadDivider.gif) Figure: Bad Example - This is an old screen from Code Auditor - the dividing lines are not required. ![SSW Code Auditor - Email and Schedule](../../assets/GoodDivider.jpg) Figure: Good Example - This is the new screen from Code Auditor - the bold title and indenting are the best way to show the sections.
+![ Bad Example - This is the Tools - Options from Internet Explorer and it groups each section in a groupbox - busy UI. ![Options form of Outlook](../../assets/ToolsOptionforOutlook.gif) ](../../assets/ToolsOptionforIE.gif)

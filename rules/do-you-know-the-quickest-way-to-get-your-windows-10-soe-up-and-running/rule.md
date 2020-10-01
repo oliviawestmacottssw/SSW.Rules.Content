@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Your developers should be using Windows 10 for a [number of reasons](http://au.pcmag.com/windows-10-preview-release-date-news-features/35511/feature/10-reasons-to-upgrade-to-windows-10), the primary one being it is faster than Windows 8.
+Your developers should be using Windows 10 for a [number of reasons](http://au.pcmag.com/windows-10-preview-release-date-news-features/35511/feature/10-reasons-to-upgrade-to-windows-10), the primary one being it is faster than Windows 8.
 The next step is to get the Standard Operating Environment (SOE) installed. You have a few choices:
 
 - Manually - it can take over a day to install your favourite 20 or so apps
@@ -31,10 +31,10 @@ Assuming that Windows 10 in already installed, then get your SOE installed fast 
 3. Join laptop to the Domain (or run a Logon-Script.bat to get printers, Word templates etc. Contact SysAdmin to join laptop to domain)
 4. Install and run a Chocolatey script to get most of the software
     [Chocolatey script](file:///fileserver/SetupFiles/SetupNotMS/ChocolateySSWPackages) for SSW
-5. Install all rest of the standard Software that does not support Chocolatey [SSW Only]      [Standard Software](https://intranet.ssw.com.au/SysAdmin/Lists/WinImageInstalledSoftware/AllItems.aspx) for SSW​
+5. Install all rest of the standard Software that does not support Chocolatey [SSW Only]      [Standard Software](https://intranet.ssw.com.au/SysAdmin/Lists/WinImageInstalledSoftware/AllItems.aspx) for SSW
 6. In case you lose your laptop, it is a good idea to stick a business card to the bottom
 7. For branding reasons, stick your company sticker to the laptop
 
- ![LoginScript.jpg](LoginScript.jpg) Figure: SSWLoginScript.bat 
+ ![ SSWLoginScript.bat ](LoginScript.jpg) 
 
- ![ChocolateyScript.jpg](ChocolateyScript.jpg) Figure: SSWPackages.ps1 which runs Chocolatey command to install SOE software ![NonChocolateySoftware.jpg](NonChocolateyApp.jpg) Figure: SOE Software that are not supported by Chocolatey ![SSWLaptopBranding.jpg](SSWLaptopBranding.jpg) Figure: Company branding on laptop 
+ ![ SSWPackages.ps1 which runs Chocolatey command to install SOE software ![NonChocolateySoftware.jpg](NonChocolateyApp.jpg) ](ChocolateyScript.jpg)

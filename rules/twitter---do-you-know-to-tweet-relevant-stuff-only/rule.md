@@ -13,7 +13,6 @@ authors:
 
 ---
 
-
 Your tweets should be interesting to your target audience. People aren't going to follow you for long if you make off topic and low value tweets.
 
 ![](twitter-boring-tweet.png) Bad Example - "Having lunch" is not an interesting tweet
@@ -26,6 +25,6 @@ Some good examples of things to tweet about:
 - Tweet before and after installing new software or after an upgrade eg:
 
     - Installing #SharePoint for the first time
-    - #SharePoint install done - found a great guide to follow here: www.example.com​
+    - #SharePoint install done - found a great guide to follow here: www.example.com
 
 ![](twitter-goodtweet.png)Good Example - An informative tweet with hashtags which appeals to a targeted audience of IT followers

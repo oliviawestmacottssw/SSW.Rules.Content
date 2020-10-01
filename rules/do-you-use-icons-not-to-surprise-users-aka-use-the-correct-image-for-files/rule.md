@@ -11,8 +11,7 @@ authors:
 
 ---
 
- 
-When a user clicks on a hyperlink they expect to open an HTML​ file. If you click on a hyperlink (but it is actually a .doc file) you wait and wait while it takes forever to instantiate an instance of Microsoft Word in the background.
+When a user clicks on a hyperlink they expect to open an HTML file. If you click on a hyperlink (but it is actually a .doc file) you wait and wait while it takes forever to instantiate an instance of Microsoft Word in the background.
  
 Don't surprise users! Use the following icons:
 
@@ -35,11 +34,11 @@ Don't surprise users! Use the following icons:
 | XML / RSS | ![Icon XML](../../assets/IconXML.gif) This will subscribe to RSS |
 | ODF | ![Icon ODF](../../assets/IconOFT.gif) This is an Outlook Item Template |
 | Page | ![](../../assets/ms_lock.gif) This is a link to password protected page |
-| YouTube | ​![](youtube-icon_png.jpg)This is a link to a YouTube Video |
+| YouTube | ![](youtube-icon_png.jpg)This is a link to a YouTube Video |
 
- ![Image good link](../../assets/GoogleIcons.gif) Figure: FYI there are the same images used by Google at [GoogleDesktopSideBar.htm](http://desktop.google.com/features.html)
-  ![Image bad link](../../assets/IconImageBad.gif) Figure: Bad Example - The user would expect all these hyperlinks to work the same way
-  ![Image good link](../../assets/IconImageGood.gif) Figure: Good Example - The pdf icon (before a hyperlink) indicates it is not a web page
+ ![ FYI there are the same images used by Google at [GoogleDesktopSideBar.htm](http://desktop.google.com/features.html)](../../assets/GoogleIcons.gif) 
+  ![ Bad Example - The user would expect all these hyperlinks to work the same way](../../assets/IconImageBad.gif) 
+  ![ Good Example - The pdf icon (before a hyperlink) indicates it is not a web page](../../assets/IconImageGood.gif) 
 
 ### How to add an icon before a link with CSS
 
@@ -54,5 +53,3 @@ padding-left: 20 px;
 
 
 We have the programs [SSW CodeAuditor](http://www.codeauditor.com/) and [SSW LinkAuditor](https://linkauditor.com.au/) to check for this rule.
-
-

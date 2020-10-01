@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Load testing helps you ensure that your apps can scale and do not go down when peak traffic hits. Load testing is typically initiated for seasonal events such as tax filing season, Black Friday, Christmas, summer sales, etc.
 
 Ultimately the tool used will depend on the number of users you want to target and what infrastructure you have available. 
@@ -21,7 +20,6 @@ Most commercial tools will support up to 50 virtual users in the load test but o
 - [Loadstorm.com](https://loadstorm.com/)
 - [LoadView-testing.com](https://www.loadview-testing.com/)
 - [LoadImpact.com](https://loadimpact.com/)
-- [jmeter.apache.org](http://jmeter.apache.org/)​
+- [jmeter.apache.org](http://jmeter.apache.org/)
 
- ![testingtools.jpg](testingtools9.jpg)Figure: Load Storm results​
-
+ ![ Load Storm results](testingtools9.jpg)

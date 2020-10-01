@@ -11,7 +11,7 @@ authors:
 
 ---
 
- All SharePoint customization and development must be done on a Virtual Machine.  
+All SharePoint customization and development must be done on a Virtual Machine.  
 
 
 1. It's very important to correctly setup a SharePoint environment for development. Correctly configured, this will save you a lot of trouble later on.
@@ -21,5 +21,3 @@ authors:
 5. Virtual machines can be copied and brought to a client for demostration.
 6. Very easy for someone to quickly create a new SharePoint server to quickly test or experiment with SharePoint.
 7. Bad: There might be more work required to activate additional servers.
-
-

@@ -9,10 +9,6 @@ authors:
 
 ---
 
- 
-​Change the defaults from 20480KB to 64000KB and Overwrite as needed. This will allow the users to view Security audits and errors much further into the past with a minimal increase in space - and it will never bloat your server.​
- ​![SQLDatabases_EventLog_Bad.png](EventViewer_BadSmallLogSize.png)
-Figure: Bad Example - Using a small log size
-![SQLDatabases_EventLog_Bad.png](EventViewer_GoodReasonableLogSize.png)
-Figure: Good Example - Using a ​reasonable log size
-
+Change the defaults from 20480KB to 64000KB and Overwrite as needed. This will allow the users to view Security audits and errors much further into the past with a minimal increase in space - and it will never bloat your server.
+ ![ Bad Example - Using a small log size](EventViewer_BadSmallLogSize.png)
+![ Good Example - Using a reasonable log size](EventViewer_GoodReasonableLogSize.png)

@@ -11,8 +11,8 @@ authors:
 
 ---
 
- A company-wide template will be implemented, so users have automatic footers to save time and give better branding.​​
-![word-template-bad.jpg](word-template-bad.jpg)Figure: Bad Example - creating an email/document does not have the company templates ![word-template-good.jpg](word-template-good.jpg)Figure: Good Example - creating an email/document with the company templates​
+A company-wide template will be implemented, so users have automatic footers to save time and give better branding.
+![ Bad Example - creating an email/document does not have the company templates ![word-template-good.jpg](word-template-good.jpg)](word-template-bad.jpg)
  
 How to have a company-wide Word template:
 
@@ -20,7 +20,7 @@ How to have a company-wide Word template:
 - Create standard employee email footer files e.g. JamesZhou.htm or JamesZho u.txt
 - Put the files on a network location - this is the place that will have the master copies 
 e.g. \\ssw\ant\standardsinternal\template\
-- ​Have a logon script which is setup through Group policy that will copy the file to the users' computer when they logon.
+- Have a logon script which is setup through Group policy that will copy the file to the users' computer when they logon.
 
 
 
@@ -35,7 +35,7 @@ xcopy /Y "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dotm" "%AP
 xcopy /Y "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dotx" "%APPDATA%\Microsoft\QuickStyles\" >> %LogonLogFile%
 ECHO Templates Copied
 Figure: This is a snippet of our login script
-​ 
+ 
 
 **Note:** We don't want people using .RTF emails so we include this message in SSW.rtf. Be aware that we don't want to use RTF because of [Remove RTF as an option or explain when it is a good choice](https://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/Outlook.aspx#RemoveRTF).
 
@@ -43,7 +43,7 @@ For more information on why we need to modify the Normal.dotm, you can access th
 
 
 
-**Note:** If you use a Mac computer, a login script will not work. In order to use a Word template, you must install the template to Word locally, create a new document locally in Word, and then upload that document to Teams.​
+**Note:** If you use a Mac computer, a login script will not work. In order to use a Word template, you must install the template to Word locally, create a new document locally in Word, and then upload that document to Teams.
 
 
 
@@ -53,6 +53,3 @@ For more information on why we need to modify the Normal.dotm, you can access th
 
 
 - [Do you know what makes a great email signature?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=73dea04c-b017-4c65-816e-aef8c84497be)
-
-
-

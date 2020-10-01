@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​If you need to do something more than once, then there should be a standard for it. At the heart of our philosophy on creating rules and standards is the idea of consistency. There are 4 main benefits you will get:
+If you need to do something more than once, then there should be a standard for it. At the heart of our philosophy on creating rules and standards is the idea of consistency. There are 4 main benefits you will get:
  ![](consitency.png)Say we are creating a windows forms application. We can expect to:
 - **Improve productivity - because there are fewer decisions to make, and you build on existing work.** 
 For example, we don't need to discuss the pros and cons of MDI versus SDI because there is [already a standard.](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#AvoidMDI)
@@ -60,4 +59,3 @@ What you do in your model is not nearly as important as doing what you do the sa
  Figure: The Barber gave an inconsistent experience. Excerpt from "The E Myth" page 10 
 
 Standards don't need to come at the expense of creativity. Following standards means less time doing the administrative stuff and more time for the creative. Of course, standards are works in progress, and so we are always on the lookout for improvements. That's why standards should be shared with everyone.
-

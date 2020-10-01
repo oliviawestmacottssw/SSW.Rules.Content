@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Since [we recommend doing a "move based upgrade"](/Pages/MigrationChoices.aspx), we don’t like the "in place upgrade" option, these are the steps:
 
 1. Copy the TFS2008 backups to TFS2010 server (e.g. C:\TfsBackups)
@@ -71,5 +70,3 @@ BTW: A good user interface should have a coffee image
 
 | ![Red Bull Can](redbull.jpg) | Since you have to deal with your system admins, this job will take the longest. Speed it up by buying a Red Bull for your system admin |
 | --- | --- |
-
-

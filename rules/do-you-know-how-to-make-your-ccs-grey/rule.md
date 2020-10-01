@@ -9,6 +9,5 @@ authors:
 
 ---
 
- 
-​Cut down the noise in your inbox by visually filtering emails not sent directly to you.
-![make cc grey](MakeCCGrey.jpg) Figure: Good Example - Cut down the noise in your inbox by visually filtering emails not sent directly to you
+Cut down the noise in your inbox by visually filtering emails not sent directly to you.
+![ Good Example - Cut down the noise in your inbox by visually filtering emails not sent directly to you](MakeCCGrey.jpg)

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Some clients think that a Project Manager is just a resource that increases the cost of a project. But a house does not get built if you leave the architect, carpenters, electricians and plumbers to just work it out between themselves. The house \*does\* get built if the foreman is keeping everyone on their toes, making sure they are doing their job.
 
  
@@ -46,4 +45,3 @@ In Scrum projects the role of project manager is split into three roles: Scrum M
 
 
 For more information go to [Scrum Terms](https&#58;//www.scrumalliance.org/community/articles/2007/march/glossary-of-scrum-terms) and [Scrum Roles](https&#58;//www.scrumalliance.org/why-scrum/core-scrum-values-roles).
-

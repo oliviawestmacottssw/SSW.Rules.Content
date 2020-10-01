@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Imagine this… a client calls you in a panic when you are working at another client. You need to login to their DevOps portal to see the problem and so you sign out of your current clients DevOps portal …wait… wait… get a 2 factor SMS… wait… and then finally get in! But then you notice it also knocked you out of the Azure Portal and your Office 365 email that you were previously signed into. Annoying!
  
 ### Chrome Profiles allow you to use different credentials 
@@ -60,4 +59,3 @@ Make use of Chrome Profiles to separate your bookmarks, history, passwords and o
 ### How to add or remove a person profile?
 
 Please have a look at https://support.google.com/chrome/answer/2364824
-

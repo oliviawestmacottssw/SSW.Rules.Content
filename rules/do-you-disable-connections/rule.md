@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 It is important that while you're upgrading, nobody can check in.  Any check-ins after you backup your database will be lost.
 
 To make sure that nobody can change anything during the upgrade, follow these steps.
@@ -23,21 +22,14 @@ d.               Navigate to Application Tier / Team Project Collections.
 
 e.              For each Team Project Collection, select it, and click "Stop Collection". Enter a useful message (this will be displayed to users trying to connect from Visual Studio) and click "Stop":
 
-![stop each term.png](stop each term.png)
-
-**Figure: Stop each Team Project Collection**
+![ Stop each Team Project Collection](stop each term.png)
 
 
 
-![all team project.png](all team project.png)
+![ All Team Project Collections are stopped](all team project.png)
 
-**Figure: All Team Project Collections are stopped**
 
-​
 
 f.               In Visual Studio, confirm you can no longer connect to TFS
 
-![visual studio.png](visual studio.png)
-
-**Figure: Visual Studio shows the message that you entered when you stopped the Team Project Collection**
-
+![ Visual Studio shows the message that you entered when you stopped the Team Project Collection](visual studio.png)

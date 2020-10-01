@@ -9,10 +9,9 @@ authors:
 
 ---
 
- 
 Below are the best practices you should know:
 
-- ​​Ensure time zone and currency are set up correctly!
+- Ensure time zone and currency are set up correctly!
 - Define target location – choose a city, a region or a country according to your demographics
 - Set a budget for each campaign based on needs
 - Connect your account to Google Analytics. It’s important to check your customer activity (which is essential for remarketing actions!)
@@ -25,9 +24,9 @@ Below are the best practices you should know:
 - Focus on click and impressions with CPC bidding
 - Use high-quality optimised landing pages – make sure your website is mobile friendly. Test your URL with this Google tool!
 - Test your ads at least every fortnight, if possible one day a week. Use the tool Ad Preview and Diagnosis Tool and try different keywords and locations, depending on your business.
-- Review the Search Terms Report​
+- Review the Search Terms Report
 
- ​![ad-strength.png](ad-strength.png)Figure: Always check your Ad strength
+ ![ Always check your Ad strength](ad-strength.png)
 ### Additional resources
 
 Whilst this overview of Google Ads will provide you with enough detail to get a campaign started, there may be additional questions you need answered or information, and that's where these resources come in:
@@ -36,5 +35,3 @@ Whilst this overview of Google Ads will provide you with enough detail to get a 
 - [WordStream](https://www.wordstream.com/how-to-use-google-adwords) – This WordStream article provides a basic overview of how to use Google Ads and features a handy helpful infographic. Word Stream have other articles on Google Ads which may be useful.
 - [HubSpot](https://blog.hubspot.com/marketing/google-adwords-ppc) – This free HubSpot eBook discusses all the ins and outs of PPC campaigns and is a great starting point to learn more about Google Ads. Like WordStream, HubSpot also have other helpful articles discussing Google Ads.
 - [Neil Patel](https://neilpatel.com/what-is-google-adwords/) – Neil Patel is a popular digital marketer, with a strong focus on helping businesses grow. This post focuses on Google Ads and takes you through the process step by step, so it's a great starting point for some more information.
-
-

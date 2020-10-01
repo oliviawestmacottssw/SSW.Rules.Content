@@ -9,10 +9,9 @@ authors:
 
 ---
 
- 
 An oversized image or table on your page can greatly reduce your page's readability                     and disrupt its layout￼￼￼￼. It affects page loading and can also cause problems in printing, wasting natural resources.
  
-That's why you should limit all your images and tables to a maximum of 8​00 pixels wide.
+That's why you should limit all your images and tables to a maximum of 800 pixels wide.
 
 We have a program called     [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.
 
@@ -23,4 +22,3 @@ Some have said 800 pixels is too small, if you resized a large image you can't r
 
 
 Also, if you are resizing in Photoshop you can easily resize the image and yet put the zoom out on a part that you want the reader to read (combining both options).
-​  

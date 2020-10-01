@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 Many developers worry about Idempotency. They make sure that their scripts can run multiple times without it affecting the database, upon subsequent running of the script.
 
 This usually involves a check at the start to see if the object exists or not. 
@@ -43,4 +42,4 @@ CREATE TABLE [dbo].[Employees](
 ```
 
 Good example – not worrying about the idempotency. If errors occur we don’t want them to be hidden + it is easier to read
-![](ViagraPill.jpg) Figure: Viagra isn't the cure to your Idempotency problems  See the concept of [Idempotence on WikiPedia](http://en.wikipedia.org/wiki/Idempotence)
+![ Viagra isn't the cure to your Idempotency problems  See the concept of [Idempotence on WikiPedia](http://en.wikipedia.org/wiki/Idempotence)](ViagraPill.jpg)

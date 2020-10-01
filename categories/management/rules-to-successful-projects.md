@@ -78,9 +78,6 @@ index:
 - do-you-use-the-brains-of-your-company
 
 ---
-
-​​​​
-
 [!\[What others have to say about us\](http://www.ssw.com.au/ssw/Images/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx) 
 
 
@@ -91,7 +88,7 @@ index:
 *- Leon Bambrick*
 
   
-​
+
 
 
 ### What is a successful project?
@@ -113,6 +110,4 @@ The promise of a successful project is something we all work harder to achieve, 
 There are real gurus in this field like [Joel Spolsky](http://www.ssw.com.au/ssw/Redirect/homepageJoelOnSoftware.htm) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW"), [Kent Beck](http://www.ssw.com.au/ssw/Redirect/XP/AmazonExtremeProgramming.htm) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW"), [Tom DeMarco, and Timothy Lister](http://www.ssw.com.au/ssw/Redirect/XP/AmazonPeopleWare.htm) ![](/Style%20Library/SSW/CoreImages/external.gif "You are now leaving SSW"). We like what they say, but we also reckon they miss a few things as well - everyone has their own ideas. These are the rules we run by every day. We believe they can help every software developer and team manager to deliver better code and a better end product.
 
 Do you agree with them all? Are we missing some? Comment on individual rules, or [email us](javascript:sendEmail%28&#39;696E666F407373772E636F6D2E61753F7375626A6563743D52756C657320746F205375636365737366756C2050726F6A65637473&#39;%29) .
-
-
 

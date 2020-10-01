@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Use **.NET MVC** over **ASP.NET Web Forms**.
 
 &lt;asp:HyperLink     ID="HyperLink1"     runat="Server"     NavigateUrl="http://www.example.com" CssClass="example"     Text="Hello World"/&gt;
@@ -27,6 +26,4 @@ Read the Top 5 reasons why you should never use Web Forms again:
 5. **Mobile Support** - With Adaptive Rendering, MVC allows the same User Interface to Render on Different Devices, so users can check it out on their PC, their Tablet or even their Smart Phone
 
 
-Or watch the video: ​
- 
-
+Or watch the video:

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 A lot of companies will struggle with one of the main strategies trending at the moment: Content Marketing! One way of delivering good content is through a blog. To convince you that a corporate blog is a must for your business, here are some reasons why you should do it:
  
 
@@ -59,8 +58,3 @@ Interesting and relevant articles demonstrate your company as an industry leader
 
 
 Blogs provide an extra source to deepen the conversation (and connection) with your customer. By connecting directly on your website, your clients are able to get to know your business, service or product whenever and wherever they are. Build trust by being a reliable source of information. Clients like to be informed and appreciate that you are the one teaching them. Additionally, just as on your other social websites, engage with your audience by responding to comments and interacting with your consumer. If they have questions about a product you are writing about, respond to them directly on your website – don’t leave them waiting. Unlike many social sites, a blog is generally searchable on your site for some time. Your website comments last longer than on a Twitter response or Facebook post. Other customers will see your interactions too, that’s why is important to show that you’re always replying and connecting with your clients as soon as possible.
-
-
-
-
-

@@ -11,15 +11,14 @@ authors:
 
 ---
 
- You may be involved in different tasks simultaneously every day.  The best way to organize your tasks and follow each task individually is grouping your emails by conversation.  By default, Outlook groups the emails by Date. <br>
- ![](GroupByConversationAndDateBad.gif)Figure: Bad example. Email messages are grouped by Date![](GroupByConversationAndDateGood.gif)Figure:  Good example.  Email messages are grouped by Conversation
+You may be involved in different tasks simultaneously every day.  The best way to organize your tasks and follow each task individually is grouping your emails by conversation.  By default, Outlook groups the emails by Date. <br>
+ ![ Bad example. Email messages are grouped by Date![](GroupByConversationAndDateGood.gif)](GroupByConversationAndDateBad.gif)
 Follow these steps to group by conversation:
 
 1. Open Outlook and select the Mail View.
 2. Right-click any column and choose the "Customize Current View..." option.
 3. Select the "Group by..." option as displayed in the image.
-![](GroupByConversationAndDate3.gif)Figure:  Steps to group by conversation field
+![  Steps to group by conversation field](GroupByConversationAndDate3.gif)
 4. Select the "Conversation" field from the list.  (Leave empty the remaining groups)
 
-**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI) 
-
+**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)

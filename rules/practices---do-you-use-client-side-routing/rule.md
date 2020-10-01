@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Single page applications (SPAs) are getting more and more popular, and for good reason – a better and faster user experience, reduced server load and encourages good API separation.
 
 But have you ever visited a website, thought “I’ll refresh that” and then got taken back to the home screen? Or tried to copy or bookmark the URL, only to find it’s just “/Home”? This happens when client-side routing hasn’t been implemented properly and is a big hit to a site’s usability.
@@ -23,7 +22,7 @@ This is easily fixed with Angular ’s routing capabilities, and implementing it
 - Less prone to errors
 - Better separation of concerns (navigation vs page state)
 
- ![client-side-bad.png](client-side-bad.png) Figure: Bad example - The blog post component is choosing components based on the state of the component
+ ![ Bad example - The blog post component is choosing components based on the state of the component](client-side-bad.png) 
 A better way is to set up routes, and use a router (the first-party component router is great for this) to manage your components:
  ![client-side-good.png](client-side-good.png) 
-Good: Setting up declarative routes and outlets gives a good user experience, persistent URLs, ​and fewer moving parts 
+Good: Setting up declarative routes and outlets gives a good user experience, persistent URLs, and fewer moving parts

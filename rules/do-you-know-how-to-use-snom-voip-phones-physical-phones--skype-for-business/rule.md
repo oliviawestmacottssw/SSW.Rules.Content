@@ -7,12 +7,7 @@ authors: []
 
 ---
 
- 
-​​
-
- 
-
-Using SNOM phones, transferring a call, creating a conference call, or making an internal call, is very easy. ​ ​
+Using SNOM phones, transferring a call, creating a conference call, or making an internal call, is very easy.
  **Transferring a call**
 
 - While speaking to Mr Northwind, press <br>         ![Hold.png](Hold.png)*(Hold)*
@@ -46,5 +41,4 @@ Using SNOM phones, transferring a call, creating a conference call, or making an
 
 
 
-Read more about     [​](http://www.ssw.com.au/ssw/Consulting/Lync.aspx)[implementing Skype for Business​.​​](http://www.ssw.com.au/ssw/Consulting/Lync.aspx)
-
+Read more about     [implementing Skype for Business.](http://www.ssw.com.au/ssw/Consulting/Lync.aspx)

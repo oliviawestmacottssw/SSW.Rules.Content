@@ -15,9 +15,8 @@ authors:
 
 ---
 
- 
 Email signatures are a great way of adding some advertising and branding. You should always use a nice email signature for **external emails**.
-Internally, you shouldn't use any or just use a short one (just your​ name or initials).
+Internally, you shouldn't use any or just use a short one (just your name or initials).
 
 
 
@@ -29,7 +28,7 @@ Full email signatures are great when they have:
 - Your company **website link **(e.g. www.ssw.com.au/)
 - Your work-related **social media** and **blog** link
 - Your **position**
-- Your​ **location** (city/country) where you are based
+- Your **location** (city/country) where you are based
 
 
 Mobile signature are not easily customized so they can be simpler.
@@ -41,20 +40,19 @@ Mobile signature are not easily customized so they can be simpler.
 Use the "mobile signature" when sending emails from your phone.
 
 Get Outlook for Android
-Figure: Bad example - This default signature sucks​
+Figure: Bad example - This default signature sucks
 
 
 Thanks, Adam
-www.ssw.com.au  |​ +61 4 1985 1995
-Figure: Good example – Add your name, URL and your phone number​
+www.ssw.com.au  | +61 4 1985 1995
+Figure: Good example – Add your name, URL and your phone number
 
 ### PC Long Signature
 
 **Use the complete "long signature" when sending a new email or appointment to a client.**
 
 This is created in HTML and goes well on emails with Word used as the email editor. Include some product advertising, like what's new on your monthly newsletter. It should have the company colors.
-![outlook-signature.png](outlook-signature.png)
-Figure: A great long signature for PC
+![ A great long signature for PC](outlook-signature.png)
 However, you shouldn't use your long signature on <br>   **every** sent email. It's recommended to have a simpler version for internal emails and appointments:
 ### PC Short Signature
 
@@ -73,25 +71,24 @@ Use a really short signature (your first name or initials) or no signature at al
 2. Click the "Mail" tab as seen below
 3. Click on "Signatures..." and add in your signatures
 
-![](../../assets/Outlook2013_signature.jpg)Figure: How to add a signature in Outlook
+![ How to add a signature in Outlook](../../assets/Outlook2013_signature.jpg)
 **How to set it up in OWA**
 
 1. Open OWA (e.g. http://mail.northwind.com/owa)
 2. Click "Options" on the top right side. <br>
 3. Go Settings | Mail and make following changes: <br>
 
-![owa-signatures.png](owa-signatures.png)Figure: Add your 'Email Signature' and save
+![ Add your 'Email Signature' and save](owa-signatures.png)
 
 **How to set it up in Office 365**
 
 1. Open Outlook in Office 365 ([http://outlook.office.com/mail/inbox](https://outlook.office.com/mail/inbox))
 2. Click the "Settings" cog on the top right corner of the Window
-3. Click on “View all Outlook settings” at the bottom of the Settings panel <br>      ![outlook-settings-signature.png](outlook-settings-signature.png)Figure: Where to find "View all Outlook settings"
+3. Click on “View all Outlook settings” at the bottom of the Settings panel <br>      ![ Where to find "View all Outlook settings"](outlook-settings-signature.png)
 4. In the "Settings" window that pops up, go to: Mail | Compose and reply.
 5. Add your email signature and click "Save"
 
 
 **Warning:** Unfortunately you need to setup up your signature in Outlook and OWA. There is no way to share this.
 
-**SSW Only:** You can automatically have your Outlook signature changed on sign-in via a script. ​See https://github.com/SSWConsulting/LoginScript.​
-
+**SSW Only:** You can automatically have your Outlook signature changed on sign-in via a script. See https://github.com/SSWConsulting/LoginScript.

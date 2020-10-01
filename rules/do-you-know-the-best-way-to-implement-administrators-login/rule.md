@@ -9,8 +9,8 @@ authors:
 
 ---
 
- When administrators need different credentials to login to a SharePoint site, there are different ways to implement it. 
-​1. Obvious "Login" link for administrators:
+When administrators need different credentials to login to a SharePoint site, there are different ways to implement it. 
+1. Obvious "Login" link for administrators:
 
 ![LoginLink.png](LoginLink.png)
 Bad example: Obvious 'login' link for administrators 
@@ -23,4 +23,3 @@ Bad example: little dot for a hidden link
 
 ![AdminURL.png](AdminURL.png)
 Good example: Use /admin/ URL for administrators
-

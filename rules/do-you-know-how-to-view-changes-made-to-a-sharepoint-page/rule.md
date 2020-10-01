@@ -11,22 +11,19 @@ authors:
 
 ---
 
- 
 If you find a     mistake or typo you should look and see who is the culprit before fixing it. This way you can inform the person what was done.
 
 Here is how you see the     **history** of the page:
-![Screen Shot 2018-09-28 at 3.34.38 PM-min.png](Screen Shot 2018-09-28 at 3.34.38 PM-min.png)Figure: Click on Page | Page History![sharepoint-page-history.png](sharepoint-page-history.png)​Figure: See the changes made, versions and the​ person who changed it
+![ Click on Page | Page History![sharepoint-page-history.png](sharepoint-page-history.png)](Screen Shot 2018-09-28 at 3.34.38 PM-min.png)
 
 Here is how you see the **history** on Office 365 - SharePoint Online:
-![Snipaste_2018-10-08_13-21-05.jpg](Snipaste_2018-10-08_13-21-05.jpg)Figure: Click on Show actions | Version History
-![](Snipaste_2018-10-08_13-22-46.jpg)
-Figure: Version History listed
+![ Click on Show actions | Version History](Snipaste_2018-10-08_13-21-05.jpg)
+![ Version History listed](Snipaste_2018-10-08_13-22-46.jpg)
  
 Watch the video which explains how to view the version history for a page in SharePoint 2013 (Same as in SharePoint 2016). This allows you to see changes that were made to the page, as long as versioning is enabled in advance.
 
-​​
+
 
 ### Related rules
 
-If you want to see how this is done in TFS, read [Do you know the benefits of using source control?](https://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl)​
-
+If you want to see how this is done in TFS, read [Do you know the benefits of using source control?](https://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl)

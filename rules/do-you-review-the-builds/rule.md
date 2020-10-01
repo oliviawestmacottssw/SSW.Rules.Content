@@ -9,6 +9,4 @@ authors:
 
 ---
 
- 
-Quote:<br>don’t use gated check-ins because…. thanks Peter Provost​
- 
+Quote:<br>don’t use gated check-ins because…. thanks Peter Provost

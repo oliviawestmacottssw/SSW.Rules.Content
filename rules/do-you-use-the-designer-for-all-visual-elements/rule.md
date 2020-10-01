@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 The designer should be used for all GUI design. Controls will be dragged and dropped onto the form and all properties should be set in the designer, e.g.
 
 - Labels, TextBoxes and other visual elements

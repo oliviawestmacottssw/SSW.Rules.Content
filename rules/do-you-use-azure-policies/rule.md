@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 If you use a strong naming convention and is using Tags to its full extent in Azure, then it is time for the next step.
 
 Azure Policies is a strong tool to help in governing your Azure subscription. With it, you make it easier to fall in The Pit of Success when creating or updating new resources. Some features of it:
@@ -26,4 +25,4 @@ Azure Policies is a strong tool to help in governing your Azure subscription. Wi
 Azure Policy allow for making of initiatives (group full of policies) that try to achieve an objective e.g. a initiative to audit all tags within a subscription, to allow creation of only some types of VMs, etc...
 
 You can delve deep on it here: https://docs.microsoft.com/en-us/azure/governance/policy/overview
-![compliant-initiative-azure-policy.png](compliant-initiative-azure-policy.png)Figure: Good Example - A fully compliant initiative in Azure Policy"
+![ Good Example - A fully compliant initiative in Azure Policy"](compliant-initiative-azure-policy.png)

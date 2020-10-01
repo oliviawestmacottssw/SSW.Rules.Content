@@ -9,11 +9,9 @@ authors:
 
 ---
 
- According to the Scrum Alliance, "Scrum" is capitalized.
+According to the Scrum Alliance, "Scrum" is capitalized.
  
-​You will occasionally see it in:
+You will occasionally see it in:
 
-- not capitalized (scrum) - this is incorrect​
+- not capitalized (scrum) - this is incorrect
 - all caps (SCRUM) - this is incorrect, as Scrum is not an acronym
-
-

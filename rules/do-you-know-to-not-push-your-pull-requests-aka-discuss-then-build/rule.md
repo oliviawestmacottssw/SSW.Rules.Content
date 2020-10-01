@@ -9,12 +9,11 @@ authors:
 
 ---
 
- 
-For the original article check out [​​​​​Don't "Push" Your Pull Requests ​](https&#58;//www.igvita.com/2011/12/19/dont-push-your-pull-requests/)b​y Ilya Grigorik.​
+For the original article check out [Don't "Push" Your Pull Requests](https&#58;//www.igvita.com/2011/12/19/dont-push-your-pull-requests/)by Ilya Grigorik.
 
 Open source software projects love it when the community get involved and pitch in.
 
-It's great when someone fixes a bug.​
+It's great when someone fixes a bug.
 
 A short pull request to fix a small problem is easy to review and accept.
  
@@ -57,6 +56,3 @@ Figure; Good  Example - Good communication leads to collaboration and better ou
 
 - Internal SSW team members should only work on features during work hours that have been assigned to a release by the core contributors for a project
 - Features will be assigned to a release during the Community Standup
-
-
-

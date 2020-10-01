@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 Unfortunately here is the normal routine to get an email       with your password.
 
 1. You go to a Login form, enter your email and password, <br>     and click the 'Login' button.
@@ -24,4 +23,3 @@ Unfortunately here is the normal routine to get an email       with your passwor
 Be more efficient and user-friendly and save them a step. Please DO NOT bother users to do any more redundant work.
 
 Instead enter their email when they click 'Forgot Password' link.
-

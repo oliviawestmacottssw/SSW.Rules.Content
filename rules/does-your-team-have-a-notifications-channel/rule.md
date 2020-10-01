@@ -11,7 +11,7 @@ authors:
 
 ---
 
- It is important to have a feed of what is happening in your project while still keeping a clean space to have discussions. This is why your Team should always have a Notifications channel.
+It is important to have a feed of what is happening in your project while still keeping a clean space to have discussions. This is why your Team should always have a Notifications channel.
 
 
 
@@ -23,11 +23,7 @@ A majority of these notifications can be created using the connectors that are b
 - Select the three dots in the top right of the screen and select "Connectors."
 
 
-![Add-a-Connector.png](Add-a-Connector.png)
-
-
-
-**Figure: This is how you begin the process of adding a connector.**
+![ This is how you begin the process of adding a connector.](Add-a-Connector.png)
 
 
 
@@ -37,11 +33,7 @@ A majority of these notifications can be created using the connectors that are b
 - Select "Add" on the connector that you want to use.
 
 
-![Select-a-Connector.png](Select-a-Connector.png)
-
-
-
-**Figure: This is the pop-up that allows you to select which connector to add.**
+![ This is the pop-up that allows you to select which connector to add.](Select-a-Connector.png)
 
 
 
@@ -67,16 +59,8 @@ Sometimes you may have to choose between multiple connectors that can serve the 
 
 
 
-![Notification-Bad-Example.png](Notification-Bad-Example.png)
-
-
-**Figure: Bad example – There is no thumbnail and no link to the video. (It is nice that you can add custom text – inside the 2 emoijs)**
+![ Bad example – There is no thumbnail and no link to the video. (It is nice that you can add custom text – inside the 2 emoijs)](Notification-Bad-Example.png)
 
 
 
-![Notification-Good-Example.png](Notification-Good-Example.png)
-
-
-**Figure: Good example – There is a thumbnail and a link to the video. (Although there is no custom text)**
-
- 
+![ Good example – There is a thumbnail and a link to the video. (Although there is no custom text)](Notification-Good-Example.png)

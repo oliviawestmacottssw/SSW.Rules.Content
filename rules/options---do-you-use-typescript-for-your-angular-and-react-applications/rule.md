@@ -11,11 +11,10 @@ authors:
 
 ---
 
- ​Typescript is the best choice ​when writing Angular​ and React applications. Angular is even written in Typescript itself! 
+Typescript is the best choice when writing Angular and React applications. Angular is even written in Typescript itself! 
  
 Typescript allows you to strongly type your JavaScript code as well as use the new ES6+ specifications.
 
 You can start learning more about typescript at [http://www.typescriptlang.org/](http&#58;//www.typescriptlang.org/).
 
 You should also check out [SSW TV Videos on Typescript](http&#58;//tv.ssw.com/tag/typescript).
-

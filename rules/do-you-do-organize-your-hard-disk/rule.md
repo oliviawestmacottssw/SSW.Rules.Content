@@ -9,11 +9,10 @@ authors:
 
 ---
 
- 
-​Using a standard file structure for storing user data on laptops makes locating the important information fast and performing automated backup operations easy - Use this checklist.
+Using a standard file structure for storing user data on laptops makes locating the important information fast and performing automated backup operations easy - Use this checklist.
 
 Remember, the expectation is for all the questions to be answered with "YES" by the end of this checklist.
-![data-backup.jpg](data-backup.jpg)​<br>​
+![data-backup.jpg](data-backup.jpg)
  
 
 ###  Domain-joined checklist:
@@ -66,7 +65,7 @@ E.g. Create a folder in C: with Data and your username, for example, "C:\DataKai
 
 
 
-> ​​![OneDrive.jpg](OneDrive.jpg)
+> ![OneDrive.jpg](OneDrive.jpg)
 > **Figure: Good Example - Backup is being done automatically
 > 
 > **
@@ -104,6 +103,3 @@ Install the OneDrive (or your other selected backup application) app on your pho
 If Yes and iOS, then use iCloud, OneDrive or your selected backup application on your phone to back them up automatically.
 If Yes and Android, then use Google Drive, OneDrive or your selected backup application on your phone to back them up!
 If you don't care about losing your photos, do nothing!
-
-
-

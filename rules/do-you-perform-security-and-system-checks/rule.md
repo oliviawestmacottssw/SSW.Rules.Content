@@ -11,14 +11,11 @@ authors:
 
 ---
 
- 
 To maintain the stability of your server and help protect against harmful attacks, your server should only be running necessary services, and all software should have the latest updates.
 
-This includes:​​
+This includes:
  
 - Check that your operating system has the latest patches
-- Check the system for software updates​
+- Check the system for software updates
 - Check system event logs for software error reports
-- Check the system is only running necessary services​
-
-
+- Check the system is only running necessary services

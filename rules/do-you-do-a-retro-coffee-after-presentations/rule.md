@@ -13,7 +13,6 @@ authors:
 
 ---
 
- 
 Presentations at User Groups and other events are great for connecting with the developer community. After giving a presentation, you should always follow up with a few attendees to get feedback, find out what projects they’re working on, and potentially how you can help.
  
 Pick a few attendees at random to follow up with, give them a call and ask if you can buy them a coffee. You should ask them:
@@ -24,5 +23,4 @@ Pick a few attendees at random to follow up with, give them a call and ask if yo
 - Whether there are any issues they’re having with those projects
 
 
-Read how this rule is also useful for account managers on [Do you follow up course attendees for consulting work?](/do-you-follow-up-course-attendees-for-consulting-work) ​
-
+Read how this rule is also useful for account managers on [Do you follow up course attendees for consulting work?](/do-you-follow-up-course-attendees-for-consulting-work)

@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-1. ​Disable defaults
+1. Disable defaults
     - Disable Administrator and Rename it, then create a new "honeypot" Administrator account with no permissions.
     - Disable Guest on the SQL
     - Change Port 1433
@@ -19,7 +18,4 @@ authors:
     - Use a service account with a strong password
     - Do not run SQL Server service as an administrator
     - Run in integrated security mode
-    - Run on NTFS file system - Encrypt the data files​
-
-
- 
+    - Run on NTFS file system - Encrypt the data files

@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-Every company needs a business continuity and disaster recover plan. DPM is a robust backup solution used in many enterprises it can give you piece of mind knowing that your data is backed up, safe and easily restorable. It allows for backing up of:​
+Every company needs a business continuity and disaster recover plan. DPM is a robust backup solution used in many enterprises it can give you piece of mind knowing that your data is backed up, safe and easily restorable. It allows for backing up of:
  
 - Hyper-V
 - Physical Machines
@@ -24,6 +23,4 @@ It also allows for the storage over many platforms:
 
 - Disk
 - Tape
-- Cloud​
-
-
+- Cloud

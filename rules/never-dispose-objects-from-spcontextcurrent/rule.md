@@ -11,8 +11,7 @@ authors:
 
 ---
 
- 
-​Disposing objects in SharePoint is important, but never do it with objects from SPContext.Current. SharePoint will manage disposing these objects itself.​
+Disposing objects in SharePoint is important, but never do it with objects from SPContext.Current. SharePoint will manage disposing these objects itself.
 
 
 
@@ -27,6 +26,6 @@ Figure: Using statement is trying to dispose current site object - it will cause
 
 Just simplely use "Current" object directly.
 
-SPWeb web = **SPContext.Current.Site.R​ootWeb**​;
+SPWeb web = **SPContext.Current.Site.RootWeb**;
 //do something here
-Figure: Use Current objects directly - don't need to dispose them 
+Figure: Use Current objects directly - don't need to dispose them

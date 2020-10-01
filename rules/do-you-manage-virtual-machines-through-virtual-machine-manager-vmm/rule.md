@@ -7,11 +7,10 @@ authors: []
 
 ---
 
- 
 Virtual Machine Manager (VMM) is made for managing Virtual Machines (VM)!
 Everything is easy to set up and deploy using VMM.
  
-​You can provision VMs using a number of different approaches in VMM:
+You can provision VMs using a number of different approaches in VMM:
 
 1. [Create VMs from a blank virtual disk](https&#58;//docs.microsoft.com/en-us/system-center/vmm/vm-blank-disk?view=sc-vmm-2019);
   2. [Create VMs from existing hard disks](https&#58;//docs.microsoft.com/en-us/system-center/vmm/vm-existing-disk?view=sc-vmm-2019);
@@ -32,4 +31,3 @@ VMM uses an algorithm to intelligently place your newly created virtual machine 
 It then places the VM in the best host available for it.
 
 VMM does this and much more for VMs, and you can read a bigger explanation [here](https&#58;//docs.microsoft.com/en-us/system-center/vmm/provision-vms?view=sc-vmm-2019).
-

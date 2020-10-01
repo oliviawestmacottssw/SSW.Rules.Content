@@ -9,8 +9,8 @@ authors:
 
 ---
 
- ​There are two types of approval processes. One is quick and the other takes longer.
-   ​ 
+There are two types of approval processes. One is quick and the other takes longer.
+    
 **Scenario 1 - Editing in Post**
 
  
@@ -41,6 +41,3 @@ This scenario requires very little post production as this was completed during 
 
 By following this rule you can best assess what type of method you should use when creating a video. For example, if the video is an interview (basic two shot), use the Live option as you can do all the editing as you record/stream live.
  If however you are creating a creative video such as a corporate video or promo, then follow the traditional method in scenario 1 as these types of videos benefit from extensive post-production work.
-
-
-

@@ -9,6 +9,5 @@ authors:
 
 ---
 
-
 The name of default crm logo is 'masthead.jpg' which is located under directory           '\_imgs' of the crm web folder. Rename this file to, say, masthead\_backup.jpg and           put your company logo and name it as ''masthead.jpg'. Done!
- ![Change CRM company Logo](CRM_ChangeLogo.jpg)            Figure: Change CRM company logo
+ ![ Change CRM company logo](CRM_ChangeLogo.jpg)

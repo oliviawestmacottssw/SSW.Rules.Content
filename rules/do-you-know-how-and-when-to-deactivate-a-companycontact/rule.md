@@ -9,13 +9,11 @@ authors:
 
 ---
 
- There comes a time when some contacts in your CRM database might just be taking up space and not giving any value. At this point it is best to deactivate them. 
+There comes a time when some contacts in your CRM database might just be taking up space and not giving any value. At this point it is best to deactivate them. 
 - CRM still knows about it so it will still come up for duplicate detection.
 - You can still view them if you need to by viewing Inactive companies/contacts.
 
 
 **Hint:** When you deactivate a client - put a note in the notes field to say           why first.
 
-![CRM-DeactivateContact.jpg](CRM-DeactivateContact.jpg)
-​​​​​Figure: Once a contact moves on or their details are no longer relevant, deactivate them
-
+![ Once a contact moves on or their details are no longer relevant, deactivate them](CRM-DeactivateContact.jpg)

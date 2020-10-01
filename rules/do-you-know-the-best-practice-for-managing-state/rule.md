@@ -11,8 +11,7 @@ authors:
 
 ---
 
- 
-​State management is complex and time-consuming.​​​​​
+State management is complex and time-consuming.
  
 The redux pattern helps resolve this issue.
 ![maintaining-state.png](maintaining-state.png)
@@ -38,8 +37,3 @@ The advantages of using redux-saga are:
 1. Collects all asynchronous operations in one place, making the code clearer.
 2. Uses an  ES6 feature called Generators to make asynchronous flows easy to read, write and test.
 3. Generators also let these asynchronous flows look like your standard synchronous code (kind of like async/await in C#). This solves “callback hell” [[https://en.wiktionary.org/wiki/callback\_hell](https://en.wiktionary.org/wiki/callback_hell)]
-
-
-
-
-

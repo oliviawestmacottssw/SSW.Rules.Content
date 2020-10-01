@@ -11,5 +11,5 @@ authors:
 
 ---
 
- Avoid putting the date and time into the text field of a meeting since these are often overlooked when changing the meeting time/date metadata.<br>
- ![Appointment with date in the text](MeetingAppointmentWithDateAndTime_Bad.jpg) Figure: Bad Example - The appointment with the date in the text. ![Appointment without date and time in the text](AppintmentWithoutTimeDateInContent_Good.jpg) Figure: Good Example - The appointment without time and date in the text.
+Avoid putting the date and time into the text field of a meeting since these are often overlooked when changing the meeting time/date metadata.<br>
+ ![ Bad Example - The appointment with the date in the text. ![Appointment without date and time in the text](AppintmentWithoutTimeDateInContent_Good.jpg) ](MeetingAppointmentWithDateAndTime_Bad.jpg)

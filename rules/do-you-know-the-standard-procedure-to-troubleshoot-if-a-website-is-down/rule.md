@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​When a site is down, you have to troubleshoot the problem. During troubleshooting, you might need to restart the IIS services. Here're several steps you can follow.​
+When a site is down, you have to troubleshoot the problem. During troubleshooting, you might need to restart the IIS services. Here're several steps you can follow.
  
 1. [Restart the website](https&#58;//www.microsoft.com/technet/prodtechnol/WindowsServer2003/Library/IIS/f38a73eb-9e33-4f71-bcca-a913a125a50e.mspx?mfr=true)
 2. If step 1 doesn't work, try to [recycle the application pool](https&#58;//www.microsoft.com/technet/prodtechnol/WindowsServer2003/Library/IIS/f11b8294-cc42-4e9c-8482-6257bf3b80f2.mspx?mfr=true)  of the site
@@ -20,4 +19,3 @@ authors:
 
 
 Still not fixed? Escalate the issue. Please refer to [SSW](https&#58;//www.ssw.com.au/).
-

@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 Run the excellent DogFoodStats queries:
 
 o   For TFS 2010 - from Grant Holliday - [http://blogs.msdn.com/b/granth/archive/2009/10/23/tfs2010-sql-queries-for-tfs-statistics.aspx](http&#58;//blogs.msdn.com/b/granth/archive/2009/10/23/tfs2010-sql-queries-for-tfs-statistics.aspx)   .
@@ -184,4 +183,3 @@ QueryWorkitems        830
 Update                272
 
 **Figure: Example result of DogFoodStats on our TFS 2010 instance**
-

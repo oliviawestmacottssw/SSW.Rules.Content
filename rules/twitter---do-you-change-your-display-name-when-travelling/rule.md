@@ -9,12 +9,11 @@ authors:
 
 ---
 
- When at a conference change it to the conference's hashtag:
+When at a conference change it to the conference's hashtag:
 Eg. **Todd Gardner at #NdcOslo**
 
 When traveling change it to the area you are in:
 Eg. **Todd Gardner in Norway 🇳🇴 **
  
-​This tip also works well on all social media platforms. Eg. Facebook, Instagram etc.​
-![twitter-name.png](twitter-name.png)Figure: Changing name when traveling​
-
+This tip also works well on all social media platforms. Eg. Facebook, Instagram etc.
+![ Changing name when traveling](twitter-name.png)

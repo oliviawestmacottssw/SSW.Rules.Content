@@ -9,15 +9,14 @@ authors:
 
 ---
 
- 
-​Once you have a website up and running, it is important to make sure that it keeps running under load. Local testing of the website will not always reveal the latent problems in the website when it is subjected to thousands of users. Typical issues that result from inadequate load testing are:
+Once you have a website up and running, it is important to make sure that it keeps running under load. Local testing of the website will not always reveal the latent problems in the website when it is subjected to thousands of users. Typical issues that result from inadequate load testing are:
 
 - 503 Service Is Temporarily Unavailable
-- Very slow load times​​​​​​​
+- Very slow load times
 - Application Crashes due to:
     - Insufficient resources - so application pools are recycled
     - Too many concurrent users causing race conditions
-    - Too many users trying to connect to the database​​
+    - Too many users trying to connect to the database
 
  
 Load Tests help you **avoid these issues** by prompting them before you go live. Some issues might be resolved by getting a better web server, while others might require code changes and optimizations.
@@ -32,7 +31,7 @@ In **Visual Studio 2005 - Software Testers Edition**, there is a built-in Test P
  ![Record the pages you want to Load Test](../../assets/record_website.gif)
 5. Click Stop when you are finished recording the pages to be tested
 6. Click the **Run** button to make sure the tests run
-![Test our recorded test](../../assets/run_webtest.gif)​
+![Test our recorded test](../../assets/run_webtest.gif)
 7. Add a new Load Test
  ![Add Load Test](../../assets/add_load_test.gif)
 8. Follow the **Load Test Wizard**:
@@ -44,6 +43,3 @@ In **Visual Studio 2005 - Software Testers Edition**, there is a built-in Test P
 10. Click **Run** to run the load test
  ![Run Load Test](../../assets/run_load_test.gif)
 11. This will kick off the load test and show a live graph of user load, requests per second and response time
-
-​
-

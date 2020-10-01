@@ -9,9 +9,6 @@ authors:
 
 ---
 
- 
- 
-
 **Figure: See how Slack can be setup to improve your Devops**
 
 
@@ -31,7 +28,7 @@ This is where a tool like Slack comes in handy. It can help your team aggregate 
 
  
  
-​​At SSW we integrate Slack with:
+At SSW we integrate Slack with:
 
 - Octopus Deploy
 - RayGun.io

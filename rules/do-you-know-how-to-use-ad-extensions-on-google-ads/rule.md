@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Ad extensions are additional pieces of information about your business, like a phone number or a link to a specific page on your website, that we can add to your ads. Keep in mind that ad extensions can improve the visibility of your ads, which can lead to more clicks and improve your ROI. It’ll give the ad greater visibility/prominence, so you tend to get more value from your ad. These are the possibilities:
  
 - **App extensions** – downloading an app (when appropriate to your business)
@@ -22,6 +21,5 @@ Ad extensions are additional pieces of information about your business, like a p
 - **Call out** – Additional detail/an invitation to a call-to-action
 - **Sitelinks** – Promoting links from your website you want to advertise
 
-![google-ad-no-ad-extension.jpg](google-ad-no-ad-extension.jpg)Figure: Bad Example – Ad doesn't have a clear message about either product or service, there’s no call extension even though it mentions "Call Now"​
-![google-ad-extension.jpg](google-ad-extension.jpg)​
-Figure: Good Example - Sitelinks and Call extensions on one of our mobile ads​​  
+![ Bad Example – Ad doesn't have a clear message about either product or service, there’s no call extension even though it mentions "Call Now"](google-ad-no-ad-extension.jpg)
+![ Good Example - Sitelinks and Call extensions on one of our mobile ads](google-ad-extension.jpg)

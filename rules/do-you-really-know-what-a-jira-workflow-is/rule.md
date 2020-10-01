@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- The workflow controls how an issue is taken from creation to closure via a Done or Not Done governing who does what at what point.  The workflow has several states in which a given number of transitions (actions within a state) can be taken by different people according to their role. <br> 
+The workflow controls how an issue is taken from creation to closure via a Done or Not Done governing who does what at what point.  The workflow has several states in which a given number of transitions (actions within a state) can be taken by different people according to their role. <br> 
 
 
 Here is a description of the main states of the SSW workflow:
@@ -32,4 +32,3 @@ The following digram shows the main flows:
 ![](Workflow.png)
 
 (A table further defining the workflow this will appear here in due course)
-

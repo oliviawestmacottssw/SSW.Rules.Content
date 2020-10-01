@@ -9,7 +9,7 @@ authors:
 
 ---
 
- DPM is great for backing up SharePoint data, but when you select to back up the SharePoint role of a server, DPM will only backup the SharePoint\_Config database and the content databases, which is less than ideal. <br>   To back up the SharePoint Server properly in DPM: 
+DPM is great for backing up SharePoint data, but when you select to back up the SharePoint role of a server, DPM will only backup the SharePoint\_Config database and the content databases, which is less than ideal. <br>   To back up the SharePoint Server properly in DPM: 
 
 
 
@@ -25,5 +25,4 @@ Notice that SharePoint protection only selects the SharePoint\_Config and Conten
 Ensure you back up the remaining databases in the SharePoint SQL Instance
 
 
-<br>After following these steps you will have full protection of your SharePoint databases. 
-
+<br>After following these steps you will have full protection of your SharePoint databases.

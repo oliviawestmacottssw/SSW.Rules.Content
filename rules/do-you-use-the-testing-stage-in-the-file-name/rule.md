@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 When moving through the different stages of testing i.e. from internal testing, through to UAT, you should suffix the application name with the appropriate stage:
  
 
@@ -18,6 +17,3 @@ When moving through the different stages of testing i.e. from internal testing, 
 | Alpha | Developer testing with project team | Northwind\_v2-3\_alpha.exe |
 | Beta | Internal “Test Please" testing with non-project working colleagues | Northwind\_v2-3\_beta.exe |
 | Production e.g. | When moving onto production, this naming convention is dropped | Northwind\_v2-3.exe |
-
- ​​
-

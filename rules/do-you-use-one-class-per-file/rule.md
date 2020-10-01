@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 Each class definition should live in its own file.
 
 Reasons:
@@ -67,4 +66,4 @@ class MyClassBException
 }
 ```
 
-Bad example - 1 project, 1 file. 
+Bad example - 1 project, 1 file.

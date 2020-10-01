@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Assembly names should reflect the the functionality that it provides. For example,<br> 
+Assembly names should reflect the the functionality that it provides. For example,<br> 
 
 ```
 System.IO
@@ -23,4 +23,3 @@ contains all the classes that deal with inputs and outputs. As a general rule of
 &lt;CompanyName&gt;.&lt;ComponentName&gt; (e.g. SSW.Framework)
 
 This allows a developer to know who developed the assembly and give the developer a general idea of what the assembly can be used for.
-

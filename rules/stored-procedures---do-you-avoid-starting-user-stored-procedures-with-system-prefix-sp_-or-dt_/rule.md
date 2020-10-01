@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 System stored procedures are created and stored in the master database and have the sp\_ prefix. System stored procedures can be executed from any database without having to qualify the stored procedure name fully using the database name master. It is strongly recommended that you do not create any stored procedures using sp\_ as a prefix. SQL Server always looks for a stored procedure beginning with sp\_ in this order:
 
 1. The stored procedure in the master database.
@@ -20,4 +19,3 @@ System stored procedures are created and stored in the master database and have 
 Therefore, although the user-created stored procedure prefixed with sp\_ may exist in the current database, the master database is always checked first, even if the stored procedure is qualified with the database name.
 
 **Important:** If any user-created stored procedure has the same name as a system stored procedure, the user-created stored procedure will never be executed.
-

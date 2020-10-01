@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 Running the [DogFoodStats queries](http&#58;//blogs.msdn.com/b/granth/archive/2009/10/23/tfs2010-sql-queries-for-tfs-statistics.aspx)   over the new TFS 2015 server is a good way to see if the upgrade was successful.  You should check the new values against the [stats you recorded from your TFS 2013 Update 4 databases](/ALM/RulesToBetterTFS2012Migration/Pages/DogfoodStatsBefore.aspx).
 
 
@@ -131,4 +130,3 @@ QueryWorkitems       601
 Update               240
 
 **Figure: Example DogFoodStats after the upgrade**
-

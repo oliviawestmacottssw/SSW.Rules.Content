@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Step 1 - What data?
 
 1. Don't take all the data for the first release - Usually there are huge amounts<br>            of data in legacy systems - take only the most important firstly.
@@ -20,5 +19,3 @@ Step 2 - Sync or import?
 
 1. Syncing and keeping the old system live is the preferred option
 2. Consider writing .NET callouts - or consider Scribe Insight
-
- 

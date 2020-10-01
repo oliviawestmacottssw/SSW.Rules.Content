@@ -9,13 +9,12 @@ authors:
 
 ---
 
- 
 The technologies and design patterns form the architecture that is usually the stuff that is hard to change.
 
 A pattern allows using a few words to a dev and he knows exactly what coding pattern you mean.
 
-ALM is about refining the work processes.​
- We are doing this project using C#​Bad example - you know nothing about how the project will be done
+ALM is about refining the work processes.
+ We are doing this project using C#Bad example - you know nothing about how the project will be done
 
 **Technologies:** WebAPI. The DI container is Structure Map. Entity Framework. Typescript. Angular.
 **Patterns:** Repository and Unit of Work (tied to Entity Framework to remove additional abstraction), IOC
@@ -34,9 +33,8 @@ The important ones for most web projects:
  Eg. A User Repository could be saving to Active Directory or CRM and it should not affect any other code
  You may or may not choose to have an additional abstraction away from entity framework.
 5. **ALM: Scrum** - kind of a pattern for your process.
-E​g. Sprint Review every 2 weeks.
+Eg. Sprint Review every 2 weeks.
  Mostly a senior architect should be added for that 1 day each 2 weeks.
 
 
-The decisions the team makes regarding these 3 areas, should be documented in \_Technologies.docx as per [https://rules.ssw.com.au/do-you-review-the-documentation](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=951ffbf9-4066-42f3-a9b7-e0d8603e728b)​.​​
-
+The decisions the team makes regarding these 3 areas, should be documented in \_Technologies.docx as per [https://rules.ssw.com.au/do-you-review-the-documentation](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=951ffbf9-4066-42f3-a9b7-e0d8603e728b).

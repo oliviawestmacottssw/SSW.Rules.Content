@@ -7,20 +7,17 @@ authors: []
 
 ---
 
- 
 Question: What is wrong with this Picture?
-![Inconsistent Button FlatStyles](../../assets/InconsistentButtonStyles.jpg)Figure: What is wrong?   ​
+![ What is wrong? ](../../assets/InconsistentButtonStyles.jpg)
 **Answer:** There are three different types of buttons in the Application:
 
 - *Next >* - Default Window Style
 - *Preview* - .NET Flat Style
 - *Cancel* - Window XP Style
 
-![bad divider](../../assets/BadDivider.gif)Figure: Even labels need to use FlatStyle.System. Can you spot the wrong label?
+![ Even labels need to use FlatStyle.System. Can you spot the wrong label?](../../assets/BadDivider.gif)
 See our [Rules to Better Windows Forms](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#XPThemes) to implement XP Themes in .NET.
 
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#ConsistentButtonStyle) to check for this rule. |
 | --- |
-
-

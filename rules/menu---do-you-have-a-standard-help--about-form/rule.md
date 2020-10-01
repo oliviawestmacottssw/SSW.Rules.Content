@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 Every application you build should have the same "Help | About" form. The form should always display the following information:
 
 1. Version number
@@ -17,4 +16,4 @@ Tip: This should be consistent with your standard description on the product box
 4. Contact details (especially a phone number)
 5. Branding (logo)
 
-   ​![SSW Time PRO.NET About Form](../../assets/BadHelpAboutForm.jpg)Figure: Bad Example - This "About" dialog does not provide enough information about the product and/or company![SSW Code Auditor - Help About](../../assets/SSWHelpAbout.gif)Figure: This "Help | About" form contains all 5 elements, but has room for aesthetic improvements (old SSW design)![SSW Help About](../../assets/Rego9.png)Figure: Good Example - This "Help | About" has the 5 elements presented better,
+ ![ Bad Example - This "About" dialog does not provide enough information about the product and/or company![SSW Code Auditor - Help About](../../assets/SSWHelpAbout.gif)](../../assets/BadHelpAboutForm.jpg)

@@ -7,7 +7,6 @@ authors: []
 
 ---
 
-
 At the end of every Sprint the Development Team performs a Sprint Retrospective also known as the Retro. The Retro provides an opportunity for the Scrum Team to reflect on what has gone well, what has gone poorly, and what the team wants to change.
 
 Inspect-and-adapt is a key component of the Scrum framework and the Retro gives Scrum Teams an opportunity to learn from their successes and mistakes.
@@ -37,21 +36,19 @@ To help aid discussion it can be useful for the Scrum Master to prepare items fo
 - the Burndown
 - Code Coverage
 - Number of deployments
-- Number of errors in Application Insights​
+- Number of errors in Application Insights
 
 
 For example the Scrum Master can find PBIs (Product Backlog Items) in the Sprint that were successful / not successful and then facilitate the discussion as to why.
-![](retrospective-meeting-1.jpg) Figure: The Scrum Master can inspect the Sprint Backlog for items which are Not Done at the end of a Sprint![](retrospective-meeting-2.jpg) Figure: The Scrum Master can inspect the team’s velocity over multiple Sprints![](retrospective-meeting-3.jpg) Figure: The Scrum Master can inspect the team’s Sprint Burndown for insight into how work progressed through the Sprint![](retrospective-meeting-4.jpg) Figure: The Scrum Master can inspect the team’s Code Coverage to for an insight into code quality
+![ The Scrum Master can inspect the Sprint Backlog for items which are Not Done at the end of a Sprint![](retrospective-meeting-2.jpg) ](retrospective-meeting-1.jpg) 
 Once all issues have been discussed to the satisfaction of The Scrum Team, the meeting concludes.
 
  If the timebox limit is reached, the remaining issues should be recorded and dealt with by the Scrum Master.  Any outstanding issues must be raised at the next Retrospective if they are still relevant.
 
  The time-box for this meeting is usually as many hours as weeks in the Sprint.
 
-In Scrum, there are 4 meeting​s in total that you need to know about:
+In Scrum, there are 4 meetings in total that you need to know about:
 - [Sprint Planning Meeting](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
 - [Scrum Meeting (Daily standup)](/Pages/DailyScrumUpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
 - [Sprint Review Meeting](/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
-- Sprint Retrospective Meeting (Described on this page)​
-
-
+- Sprint Retrospective Meeting (Described on this page)

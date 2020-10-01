@@ -7,12 +7,9 @@ authors: []
 
 ---
 
-
 Your rule should be structured as follows:
 
 - Heading as a question
 - Why this rule exists and description
 - Bad example
 - Good example
-
-

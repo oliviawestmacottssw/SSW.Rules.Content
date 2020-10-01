@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 There are two main ways to move from TFS 2013 Update 4 to TFS 2015:
  
 **Option 1: ****In-place migration (Recommended)**
@@ -35,4 +34,3 @@ With both options, you can also use the [TfsPreUpgrade tool to reduce downtime](
 
 
 By using the TfsPreUpgrade tool, you can thereby reduce the downtime for the actual cut-over to the new version by ensuring that your databases are updated in advance.
-

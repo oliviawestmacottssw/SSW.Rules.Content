@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 A site column is created on a site level and visible to all lists and content types within that site (and subsites).
 
 You should always try to use Site Columns instead of List Columns
@@ -22,7 +21,7 @@ You should always try to use Site Columns instead of List Columns
 - More visibility of the customization we are applying to the SharePoint website
 - Make sure the site column is added to our own group description such as "SSW Columns" - this is important for filtering and exporting site column customizations for deployment.  Also great because they are now grouped in the UI.
 
-![](ListColumn.png) Figure: Create column - Bad Example ![](SiteColumn.png) Figure: Add from existing site columns - Good Example ![](SSWColumns_small.jpg) Figure: Site Columns - Good Example 
+![ Create column - Bad Example ![](SiteColumn.png) ](ListColumn.png) 
 
 
 
@@ -30,5 +29,3 @@ You should always try to use Site Columns instead of List Columns
 Sometimes you still may want to use a List Column.
 
 - You are Mary and want to create a simple list to track supplies, but you do not have site permissions to create site columns
-
-

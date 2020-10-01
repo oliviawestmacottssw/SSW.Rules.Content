@@ -13,27 +13,26 @@ authors:
 
 ---
 
- 
-​​​​If someone asks you to perform a task by email, don't reply "OK, I will do that" or fail to reply at all. Instead, do the task and reply "Done" when the task has been completed, and then delete the email. This way the person requesting the task knows that it has been done, and doesn't waste time following you up.
+If someone asks you to perform a task by email, don't reply "OK, I will do that" or fail to reply at all. Instead, do the task and reply "Done" when the task has been completed, and then delete the email. This way the person requesting the task knows that it has been done, and doesn't waste time following you up.
 
 Read "[Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6449ae79-ba88-447e-aa48-36173029a2af "Done Criteria")" for more information about the steps that need to be finished before replying to a done email.
 
  
 - If the task is already done, then reply "Already done - the reason is XXX".
 - If you don't agree with the task or are unable to complete the task, reply "Not done - the reason is XXX".
-- If there are multiple tasks that are Done and Not Done then, reply with "Partially done - the reason is XXX​" at the top of the email.
+- If there are multiple tasks that are Done and Not Done then, reply with "Partially done - the reason is XXX" at the top of the email.
 
 
-**Note 1**: Only say done when the work is done. If you have added the email to your backlog or to-do list then instead of "Done", say "Added to backlog – URL is XXX​".​
+**Note 1**: Only say done when the work is done. If you have added the email to your backlog or to-do list then instead of "Done", say "Added to backlog – URL is XXX".
 
-**Note 2:** For tasks that will take time to be completely done (E.g. Producing a video), you may send a "work in progress" email. This way you avoid giving the perception that no action was in relation to the​ task.
- ![NOT Done Email](NotDone.jpg) Figure: Not Done Email 
+**Note 2:** For tasks that will take time to be completely done (E.g. Producing a video), you may send a "work in progress" email. This way you avoid giving the perception that no action was in relation to the task.
+ ![ Not Done Email ](NotDone.jpg) 
 ### Tip 1: Provide Detail in your "Done"
 
 In any reply, include relevant information, such as the URL and the code or text that has been updated, which allows the person requesting the work to check what was done and allows for offline reading.
 
 [Use SnagIt with Balloons in screenshots](/Pages/HowToUseBalloons.aspx).
- ![Bad Done Email](email_done_bad.JPG) Figure: Bad Example of a "Done" email. ![Good Done Email](email_done_good.JPG) Figure: Good Example of a "Done" email as it has both the link and the changed text.
+ ![ Bad Example of a "Done" email. ![Good Done Email](email_done_good.JPG) ](email_done_bad.JPG) 
 If you find that you have already sent a "Done", and then the client asks you to undo the change, reply "Undone".
 
 ### Tip 2: Reply "Done" to multiple tasks
@@ -79,7 +78,7 @@ Hi Bob,
 
 
 Damian
- Figure: OK Example – It’s clear which tasks have been done and which haven’t, but you have to scroll to see what were the tasks​ 
+ Figure: OK Example – It’s clear which tasks have been done and which haven’t, but you have to scroll to see what were the tasks 
 
  
 Hi Bob,
@@ -107,7 +106,7 @@ Hi Bob,
 
 
 1. Change the logo on the SSW website to our new logo. Done - see www.ssw.com.au
-2. Take a photo of you standing on your head.​
+2. Take a photo of you standing on your head.
 
 
 
@@ -140,14 +139,14 @@ Screen captures should always include the:
 **\* URL ** 
 **\* Top left - so you can see what browser it is eg. Internet Explorer or FireFox **
 ### Tip 7: When appropriate use text instead of an image
-​  
+
 To: Ross
 From: J Liu
 Subject: RE: BUG on Product.aspx
 
 
-DONE - There was a problem with the SQL. I added the line highlighted in​ Yellow:
-​ <br>   
+DONE - There was a problem with the SQL. I added the line highlighted in Yellow:
+
 
 ```
 SELECTProdName = CASE WHEN Download.ProdCategoryID <> ''
@@ -155,9 +154,9 @@ SELECTProdName = CASE WHEN Download.ProdCategoryID <> ''
 THEN ProdCategory.CategoryNameELSE Download.ProdName END,Downloads = (SELECT Count(*) FROM ClientDiaryWHERE ClientDiary.DownloadID = Download.DownloadID 
 
 AND ClientDiary.CategoryID = 'DOWN'AND ClientDiary.DateCreated > '01/01/2000'AND ClientDiary.DateCreated < '01/01/2003')FROMDownloadLEFT JOIN ProdCategory 
-ON Download.ProdCategoryID = ProdCategory.CategoryID    ​
-​
-ORDER By Downloads DESC​
+ON Download.ProdCategoryID = ProdCategory.CategoryID    
+
+ORDER By Downloads DESC
 ```
 
 
@@ -187,5 +186,4 @@ Record a quick and dirty "[Done Video](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3df
 ### Tip 12: Remember to thank people - don't be too brief and icy
 
 
-When replying 'Done' for a bug or issue someone reported, remember to thank the person for taking the time to send it. A short "Thank you for reporting this" helps to make your 'Done' warmer.​
-
+When replying 'Done' for a bug or issue someone reported, remember to thank the person for taking the time to send it. A short "Thank you for reporting this" helps to make your 'Done' warmer.

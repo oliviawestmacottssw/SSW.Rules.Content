@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 To prevent spelling or grammatical errors in the text content of a rule, you should complete the following steps:
 
 1. Check the rule in Office Word for [spelling or grammatical errors](http://www.ssw.com.au/ssw/standards/rules/RulesToBetterTechnicalDocumentation.aspx#WordSpellingAndGrammarChecker) (Warning: Select the “Paste Plaintext” when pasting from Office Word to SharePoint or you will have a lot of work later to clean up the automatic generated HTML code by Office Word)
@@ -17,4 +16,4 @@ To prevent spelling or grammatical errors in the text content of a rule, you sho
 3. Check the report and fix the errors
 4. Check in the page and repeat steps 2-3 until Link Auditor has all green ticks (alternatively, you can use "Check my links" app of Google Chrome to find the broken links)
 
-We also have a rule: [Adding a rule in as px](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesDevelopment.aspx#StepsAfterAddRuleOnAspxPage)  ![](SPedit.jpg)  Figure: SharePoint as a content management system  
+We also have a rule: [Adding a rule in as px](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesDevelopment.aspx#StepsAfterAddRuleOnAspxPage)  ![ SharePoint as a content management system  ](SPedit.jpg)

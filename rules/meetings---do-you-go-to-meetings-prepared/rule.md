@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- Before you attend a meeting you must come prepared with details about the client; meaning no unnecessary questions. By unnecessary, I mean you should already have the answers to these questions. Extensive research is impressive to clients. <br> 
+Before you attend a meeting you must come prepared with details about the client; meaning no unnecessary questions. By unnecessary, I mean you should already have the answers to these questions. Extensive research is impressive to clients. <br> 
 So you are talking to a client about their ice cream chain?
 How many outlets do you have? 
 <br>    Where is the main outlet? Figure: Bad examples - you should already know the answers to these questions by use of research tools such as the Internet I noticed you have x amount of outlets, are you planning to open up more, when and where?
@@ -20,4 +20,3 @@ By asking questions, you show interest as well as initiating conversation - reme
 Look for points of pain and build on them - if there's no pain it's hard to fix the problem properly.
 
  Tip: Google their name before the meeting. Customers' ears prick up when they hear that you googled them.
-

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Supporting old operating systems and old versions means you have more (and often messy) code, with lots of if or switch statements. This might be OK for you because you wrote the code, but down the track when someone else is maintaining it, then there is more time/expense needed.
 
 When you realize there is a better way to do something, then you will change it, clean code should be the goal, however, because this affects old users, and changing interfaces at every whim also means an expense for all the apps that break, the decision isn't so easy to make.
@@ -48,7 +47,3 @@ You can change your settings either by:
 
 - Going to LookOut Options -&gt; Database tab and select the new stored procedure
 - Upgrading to SSW LookOut version 10.0 which will be released later today
-
-
-
-

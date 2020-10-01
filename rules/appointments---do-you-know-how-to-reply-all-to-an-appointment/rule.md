@@ -11,20 +11,16 @@ authors:
 
 ---
 
- 
 Often your conversation flow with someone will go from a phone call, to emails, to an appointment, and then back to emails.
 
 It's nice to be able to look back and see the whole history in 1 thread, so you will need to be able to Reply All to an appointment to continue the email conversation after the meeting.
 
 Outlook makes this easy:
- ![Calendar window](Outlook 1.png)Figure: Open the appointment in your Calendar (You should already have Invited all the required people to attend)![](Outlook 2.png)
-Figure: Click on "Contact Attendees" | "Reply to All with Email" if you created the appointment, or "Respond" | "Reply All" if you were invited
-![Type the messages](Outlook 3.png)Figure: Send a friendly reminder!
+ ![ Open the appointment in your Calendar (You should already have Invited all the required people to attend)![](Outlook 2.png)](Outlook 1.png)
+![ Send a friendly reminder!](Outlook 3.png)
 
 Reasons you might want to Reply All to an Appointment include:
 
 1. Continuing the conversation after a meeting
-2. Reminding someone about an upcoming meeting (especially if you know they have unwieldy calendars)​
+2. Reminding someone about an upcoming meeting (especially if you know they have unwieldy calendars)
 3. Getting more information before a meeting
-
-

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 The idea is simple , each time leave code a little cleaner then you found it.
 
 Common examples are:
@@ -21,7 +20,5 @@ Common examples are:
 
 Related links:
 
-- [http://stackoverflow.com/questions/455269/refactoring-do-you-follow-the-boy-scout-rule​](http&#58;//stackoverflow.com/questions/455269/refactoring-do-you-follow-the-boy-scout-rule)
-- [http://programmer.97things.oreilly.com/wiki/index.php/The\_Boy\_Scout\_Rule](http&#58;//programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)​
-
-
+- [http://stackoverflow.com/questions/455269/refactoring-do-you-follow-the-boy-scout-rule](http&#58;//stackoverflow.com/questions/455269/refactoring-do-you-follow-the-boy-scout-rule)
+- [http://programmer.97things.oreilly.com/wiki/index.php/The\_Boy\_Scout\_Rule](http&#58;//programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)

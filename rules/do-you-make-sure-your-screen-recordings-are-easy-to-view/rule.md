@@ -9,8 +9,7 @@ authors:
 
 ---
 
+As developers, we are used to having our screen efficiently set up – often these means small fonts, visible bookmark bars and a huge amount of browser tabs and taskbar items.
  
-As developers, we are used to having our screen efficiently set up – often these means small fonts, visible bookmark bars and a huge amount of browser tabs and taskbar items.​
- 
-​​While this is great for efficiency, it is not very good for recordings or presentations, and the clutter should be removed.​
-​​![screen-recording-bad.png](screen-recording-bad.png)Figure: Bad example - This video will be cluttered and unprofessional​![screen-recording-good.png](screen-recording-good.png)Figure: Good example - This is easy to read, and doesn’t look cluttered
+While this is great for efficiency, it is not very good for recordings or presentations, and the clutter should be removed.
+![ Bad example - This video will be cluttered and unprofessional![screen-recording-good.png](screen-recording-good.png)](screen-recording-bad.png)

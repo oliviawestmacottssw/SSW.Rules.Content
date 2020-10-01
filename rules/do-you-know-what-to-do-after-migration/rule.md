@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Although Sharegate migration tool works very well to help you with your SharePoint migration, some manual steps might be necessary to complete the migration. These extra steps include:
+Although Sharegate migration tool works very well to help you with your SharePoint migration, some manual steps might be necessary to complete the migration. These extra steps include:
 
  
 - Configuring any custom Search scopes/refinements
@@ -17,5 +17,4 @@ authors:
 - Ask users to change their mapped folders
 - Communicate about the changes
 
-![set-custom-refinements.png](set-custom-refinements.png)​Figure: After migration set your custom refinements so users can filter down into a specific area ​​
-
+![ After migration set your custom refinements so users can filter down into a specific area](set-custom-refinements.png)

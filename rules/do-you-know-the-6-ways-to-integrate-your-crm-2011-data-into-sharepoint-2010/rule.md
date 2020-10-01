@@ -13,7 +13,6 @@ authors:
 
 ---
 
- 
 You have data in CRM 2011, so how do you see it in SharePoint? The data that is stored in CRM entities should be available in SharePoint so users can find and use the data in areas such as:
 
 - SharePoint search
@@ -33,7 +32,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 | --- | --- |
 | ![clip_image002\[8\]](correct.gif "clip_image002[8]")Read/Write<br><br>![clip_image002\[9\]](correct.gif "clip_image002[9]")Minimal coding<br><br>![clip_image002\[10\]](correct.gif "clip_image002[10]")Easiest to implement<br><br>![clip_image002\[11\]](correct.gif "clip_image002[11]")The likely way forward (Best Practice as Microsoft) | ![clip_image004\[13\]](wrong.gif "clip_image004[13]")Needs to be deployed and published to the web server.<br><br>![clip_image004\[14\]](wrong.gif "clip_image004[14]")Less performance than SQL filter views directly<br><br>![clip_image004\[15\]](wrong.gif "clip_image004[15]")Only recently released. |
 
- ![clip_image010](figure5.jpg "clip_image010") ​
+ ![clip_image010](figure5.jpg "clip_image010") 
 
 **More information:**    
     Download from Microsoft
@@ -49,13 +48,13 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 
 | Pros | Cons |
 | --- | --- |
-| ​![clip_image002\[2\]](correct.gif "clip_image002[2]")Best performance<br><br>​![clip_image002\[2\]](correct.gif "clip_image002[2]")Codeless | ![clip_image004](wrong.gif "clip_image004")Read-only<br><br>![clip_image004\[1\]](wrong.gif "clip_image004[1]")Not available for hosted CRM<br><br>![clip_image004\[2\]](wrong.gif "clip_image004[2]") Security issues as you are exposing the view. |
+| ![clip_image002\[2\]](correct.gif "clip_image002[2]")Best performance<br><br>![clip_image002\[2\]](correct.gif "clip_image002[2]")Codeless | ![clip_image004](wrong.gif "clip_image004")Read-only<br><br>![clip_image004\[1\]](wrong.gif "clip_image004[1]")Not available for hosted CRM<br><br>![clip_image004\[2\]](wrong.gif "clip_image004[2]") Security issues as you are exposing the view. |
 
     Filtered Views in Microsoft CRM provide access to the data available that supports providing picklist name and id values (lookup tables).
     **More information:**
     If you only want read-only for CRM on-premises data for SharePoint users, this solution is fine. You create the External Content Type directly against the Filtered Views in the CRM database.
     http://msdn.microsoft.com/en-us/library/gg328467.aspx
- ![clip_image005](figure1.jpg "clip_image005") Figure: The result of "SELECT \* FROM FilteredCtx\_Project". Use Office SharePoint Designer to hook this up
+ ![ The result of "SELECT \* FROM FilteredCtx\_Project". Use Office SharePoint Designer to hook this up](figure1.jpg "clip_image005") 
 ### Option 3: Web Services
     CRM provides web services.
     Summary: SharePoint BCS -> Code calling CRM web services - > CRM database
@@ -88,9 +87,9 @@ So it is really only suited to calling from Silverlight and JavaScript web resou
     The first step is to expose the data:
     1. Install [http://crm2011odatatool.codeplex.com](http://crm2011odatatool.codeplex.com/)
     2. Make a query
- ![clip_image006](figure2.jpg "clip_image006") Figure: Designing a query    3. See the data
- ![/SoftwareDevelopment/rulestobettercrmfigure3.jpg](figure3.jpg "clip_image007") Figure: See the data - RSS source for xtc\_countrySet    The second step (and the problem) is consuming the data
- ![clip_image009](figure4.jpg "clip_image009") Figure: BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData    In summary, CRM 2011 can expose OData, but SharePoint 2010 BCS doesn't consume OData.
+ ![ Designing a query    3. See the data](figure2.jpg "clip_image006") 
+ ![ See the data - RSS source for xtc\_countrySet    The second step (and the problem) is consuming the data](figure3.jpg "clip_image007") 
+ ![ BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData    In summary, CRM 2011 can expose OData, but SharePoint 2010 BCS doesn't consume OData.](figure4.jpg "clip_image009") 
     The 3 options to consume the OData/RSS data:
     Consume the OData by SQL Server, via TSQL ???    Then use BCS to call SQL Server. 
 Summary: SharePoint BCS -> DataSourceType: SQL Server -> OData- > CRM database
@@ -120,5 +119,3 @@ Summary: SharePoint RSS view web part -> OData- > CRM database
     - CRM 2011 exposes it data as OData, but cannot consume OData
     - SharePoint 2010 exposes it data as OData, but cannot consume OData
     ....and there are no 3rd party solutions to solve this...
-
-​  

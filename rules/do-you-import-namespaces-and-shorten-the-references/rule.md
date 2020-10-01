@@ -9,10 +9,10 @@ authors:
 
 ---
 
- You should import namespaces and shorten the references.
+You should import namespaces and shorten the references.
  
-​System.Text.StringBuilder myStringBuilder = new System.Text.StringBuilder();
-Figure: Bad code - Long reference to object name​​
+System.Text.StringBuilder myStringBuilder = new System.Text.StringBuilder();
+Figure: Bad code - Long reference to object name
 
 using System.Text;
 ...
@@ -20,10 +20,8 @@ using System.Text;
 StringBuilder myStringBuilder = new StringBuilder();
 Figure: Good code - Import the namespace and remove the repeated System.Text reference
 
-​
+
 
 If you have ReSharper installed, you can let ReSharper take care of this for you:
-![ReSharperReformatCode.gif](ReSharperReformatCode.gif)Figure: Right click and select "Reformat Code..."
-![ReSharperShortenReferences.gif](ReSharperShortenReferences.gif)Figure: Make sure "Shorten references" is checked and click "Reformat"​
-​​
-
+![ Right click and select "Reformat Code..."](ReSharperReformatCode.gif)
+![ Make sure "Shorten references" is checked and click "Reformat"](ReSharperShortenReferences.gif)

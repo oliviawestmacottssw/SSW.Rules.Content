@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​SQL Server stores vital error and performance information in several different logs. You should be aware of all of them:
+SQL Server stores vital error and performance information in several different logs. You should be aware of all of them:
 
 1. SQL Server Error Logs
     - Configure how many you want to keep
@@ -22,7 +21,4 @@ authors:
     - Agent properties, Job System tab
     - Probably too low by default
 4. DBMaint history logs
-5. (Event Viewer) - Issues​
-
-
- 
+5. (Event Viewer) - Issues

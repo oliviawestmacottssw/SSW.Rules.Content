@@ -9,16 +9,13 @@ authors:
 
 ---
 
- 
 Know the best OpenAPI toolchain:
 
-​swashbuckle
+swashbuckle
 
-​​​​​Bad Example ​​
+Bad Example 
 
 nswag
 
 
-​​​Good Example (more comprehensive)
-
- 
+Good Example (more comprehensive)

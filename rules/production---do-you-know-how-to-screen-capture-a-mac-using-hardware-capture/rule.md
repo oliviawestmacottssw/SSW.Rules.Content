@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Capturing video from your mac can be done in different ways. One way is to use software that will capture the screen, and create a file that you can use in your editing software. The other is to use hardware capture that connects to the video output (i.e. HDMI) of your mac. This rule will focus on capturing video via hardware. 
+Capturing video from your mac can be done in different ways. One way is to use software that will capture the screen, and create a file that you can use in your editing software. The other is to use hardware capture that connects to the video output (i.e. HDMI) of your mac. This rule will focus on capturing video via hardware. 
 At SSW, we use HDMI capture cards to record the video from a presenters’ laptop into our workstation. This video is then either recorded for later editing or used as part of the Live Stream.
 
 PC’s will have no issues when connecting to the system. Outputting via HDMI, VGA or Display Port, you can connect directly or convert these connections via a splitter/scaler device.
@@ -66,4 +66,3 @@ Connecting the Mac to the capture devce:
 
 
 If you use Windows natively on mac (not using Parallels), you will not have any issues with HDCP protection, so you can just connect via the display port or HDMI with no issues.
-

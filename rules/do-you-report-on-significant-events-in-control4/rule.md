@@ -9,7 +9,6 @@ authors:
 
 ---
 
- Enter Intro Text
+Enter Intro Text
  
 List details of using the TCP driver to log data to database and then report in BI. Use toilet usage example.
-

@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​​When integrating with external Web APIs which return a JSON response, there is a quick and easy way to generate classes to handle that response. 
+When integrating with external Web APIs which return a JSON response, there is a quick and easy way to generate classes to handle that response. 
 
 
 Execute the request, and copy the text of the JSON response.
@@ -18,13 +18,8 @@ Execute the request, and copy the text of the JSON response.
 
 Create a new class in Visual Studio, and Click Edit | Paste Special | Past As JSON Classes and classes will be generated from the JSON in the clipboard.
 
-![8-08-2014-3-53-17-PM-compressor.png](8-08-2014-3-53-17-PM-compressor.png)
-**Figure: Edit | Paste Special | Paste JSON As Classes**
+![ Edit | Paste Special | Paste JSON As Classes](8-08-2014-3-53-17-PM-compressor.png)
 
-![8-08-2014-3-56-34-PM-compressor.png](8-08-2014-3-56-34-PM-compressor.png)
-**Figure: Classes generated from the JSON**
+![ Classes generated from the JSON](8-08-2014-3-56-34-PM-compressor.png)
 
 The results may need cleaning up a little bit, but its much easier than trying to write them manually.
-
-
-

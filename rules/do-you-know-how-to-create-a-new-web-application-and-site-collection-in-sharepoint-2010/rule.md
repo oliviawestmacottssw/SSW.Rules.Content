@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 We are now ready to make a new web application and site collection which we will need to match closely to the original SharePoint 2007 server. In the SharePoint 2010 server:
 
 1. Open **SharePoint Central Administration** | **Manage web applications**
@@ -22,4 +21,3 @@ We are now ready to make a new web application and site collection which we will
 
 
 Note: The rest do not matter as they will be replaced when you restore the database from SharePoint 2007.
-

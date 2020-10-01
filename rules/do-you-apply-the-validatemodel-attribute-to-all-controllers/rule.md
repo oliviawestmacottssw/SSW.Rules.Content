@@ -9,8 +9,8 @@ authors:
 
 ---
 
- Web API does not automatically return an error to the client when validation fails. It is up to the controller action to check the model state and respond appropriately. 
-​You can also create an action filter to check the model state before the controller action is invoked.​
+Web API does not automatically return an error to the client when validation fails. It is up to the controller action to check the model state and respond appropriately. 
+You can also create an action filter to check the model state before the controller action is invoked.
 
 using System.Collections.Generic;
  using System.Linq;
@@ -33,7 +33,7 @@ using System.Collections.Generic;
  }
  }
  }
- }​
+ }
 Figure: If model validation fails, this filter returns an HTTP response that contains the validation errors. In that case, the controller action is not invoked
 public class ProductsController : ApiController
  {
@@ -53,4 +53,4 @@ public static class WebApiConfig
              // ...
          }
  }
-Figure: Good Example - Add an instance of the filter to the ​HttpConfiguration.Filterscollection to apply this filter to all Web API controllers
+Figure: Good Example - Add an instance of the filter to the HttpConfiguration.Filterscollection to apply this filter to all Web API controllers

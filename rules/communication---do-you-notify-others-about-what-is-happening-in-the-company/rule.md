@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​                     When something happens in your company, always send around an email so that the                     whole team is kept in the loop.
+When something happens in your company, always send around an email so that the                     whole team is kept in the loop.
  
 Examples of events that you should send an email                     around for:
 
@@ -31,5 +30,5 @@ You should really feel free to share any good news you have with everyone. It wi
 
 <br>                    Be prepared for more photos from my Nikon D80, I think it will be having a hard time during these 5 days.
 
-<br>                    Will be back next Thursday, so if you need me for anything, call my mobile by skypein: \*\*\*\* \*\*\*\* (if you are in Sydney), or 139 \*\*\*\* \*\*\*\* (if you are in Beijing) ​
+<br>                    Will be back next Thursday, so if you need me for anything, call my mobile by skypein: \*\*\*\* \*\*\*\* (if you are in Sydney), or 139 \*\*\*\* \*\*\*\* (if you are in Beijing) 
 Figure: Good Example - Notify and give contact details

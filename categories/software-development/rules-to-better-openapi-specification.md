@@ -9,7 +9,5 @@ index:
 - do-you-define-your-response-types
 
 ---
-
-​​​​AKA OAS. Previously known as Swagger.
-
+AKA OAS. Previously known as Swagger.
 

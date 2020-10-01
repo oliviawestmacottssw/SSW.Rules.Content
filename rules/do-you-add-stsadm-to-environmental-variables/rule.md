@@ -13,14 +13,11 @@ authors:
 
 ---
 
-
 In SharePoint 2007, it is a good idea to add the path to stsadm.exe into the environment variables on a SharePoint server so you can open a command prompt and run the tool from anywhere.
 
-![](stsadm.png)
-Figure: you should be able to quickly type ‘stsadm’. Believe me you will be typing it enough!In SharePoint 2010, you can skip quite a few steps by using the PowerShell Console.
+![ you should be able to quickly type ‘stsadm’. Believe me you will be typing it enough!In SharePoint 2010, you can skip quite a few steps by using the PowerShell Console.](stsadm.png)
 
-![](SP2010PowerShell.png)
-Figure: Using SharePoint 2010 Management Shell
+![ Using SharePoint 2010 Management Shell](SP2010PowerShell.png)
 
 **More Information** for SharePoint 2007
 
@@ -34,7 +31,3 @@ Figure: Using SharePoint 2010 Management Shell
 **;C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\12\bin**
 4. You may need to reboot the server
 5. You can now run **stsadm** from anywhere in the command prompt
-
-
-
-

@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 If you have followed the previous rule and the ball is always in their court, you need to make sure that they keep playing.
 
 The best way to do this is to make sure you follow up all communications that require a reply, whenever you feel that a bottleneck is forming.
@@ -23,4 +22,3 @@ Call them
 
 
 TIP Use [www.FollowUpThen.com](http&#58;//www.ssw.com.au/ssw/redirect/FollowUpThen.htm) for your follow up emails
-

@@ -7,8 +7,5 @@ authors: []
 
 ---
 
- 
-​When a user enters your website for the first time, they should be encouraged to give you their email address via a nice popup.
-​![goodExampleEmailCollection.jpg](goodExampleEmailCollection.jpg)
-​​Figure: Good Example - the user profits from signing up with their email address.​
- 
+When a user enters your website for the first time, they should be encouraged to give you their email address via a nice popup.
+![ Good Example - the user profits from signing up with their email address.](goodExampleEmailCollection.jpg)

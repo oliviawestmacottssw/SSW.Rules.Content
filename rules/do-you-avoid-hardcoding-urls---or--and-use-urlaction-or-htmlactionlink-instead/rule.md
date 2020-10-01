@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Hardcoding URLs in your View can cause problems if your routes or page names need to change.  Instead, you should always use the Url and Html helpers to refer to different pages in your MVC application.
  
 

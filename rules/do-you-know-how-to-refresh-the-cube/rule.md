@@ -15,10 +15,8 @@ authors:
 
 ---
 
- 
 The cube is by default refreshed every two hours, but what is you are about to go into a status meeting and you want up to date reports?
 
 You can refresh the cube manually using the web services, but only from the TFS server:
  ![Warehouse WebControl Service ](WarehouseWebControlService.jpg)
 Read [Refresh the TFS Warehouse manually](http://www.ewaldhofman.nl/post/2009/11/25/Refresh-the-TFS-Warehouse-manually.aspx) ![](../../assets/external.gif "You are now leaving SSW") for more detail.
-

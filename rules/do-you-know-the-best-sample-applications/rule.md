@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Before starting a software project and evaluating a new technology, it is important to know what the best practices are. The easiest way to get up and running is by looking at a sample application. Below is a list of sample applications that we’ve curated and given our seal of approval.
  
 ### SQL Server 2017
@@ -23,7 +22,7 @@ Before starting a software project and evaluating a new technology, it is import
 ### SQL Server 2017 and Azure SQL Database
 
 
-- ​​​**WideWorldImporters Sample Database** - [https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers](https&#58;//github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
+- **WideWorldImporters Sample Database** - [https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers](https&#58;//github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
 
 
 
@@ -50,6 +49,4 @@ More complicated sample showing off a lot of technologies as well as mobile plat
 Music store sample with enterprise architecture using Entity Framework and the [Onion Architecture](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d9095365-95c6-4474-b7aa-1986efca7a27)
 
 
-#### 
-
-
+####

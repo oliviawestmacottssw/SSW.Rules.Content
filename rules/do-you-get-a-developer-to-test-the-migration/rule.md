@@ -7,8 +7,7 @@ authors: []
 
 ---
 
- 
-It is important to get another developer to check the migration f​or issues.
+It is important to get another developer to check the migration for issues.
  They should follow these steps:
 a.      Start Visual Studio 2013
 
@@ -31,4 +30,3 @@ e.      Test that your builds complete successfully on the upgraded build c
 f.       Check that they can create a new Team Project in Visual Studio 2015
 
 **Congratulations! You've completed a successful migration!**
-

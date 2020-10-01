@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Comments are used to add extra information pertaining to your code. They not only make you understand your code when you look at it after a period of time, but it also help other people who might be working with you on the same project.
 
 The goal is to write clear, concise and meaningful comments. They should describe your code in a way you or others understand what that particular piece of code does.

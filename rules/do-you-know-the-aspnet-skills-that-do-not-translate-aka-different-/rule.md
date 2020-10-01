@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 ASP.NET is file system driven, SharePoint is database driven – all SharePoint content and meta data comes from a database, include images, HTML, Master Page, etc. SharePoint provides a framework where components can be plugged in, and out of the box these areas are improved:
 
 - Security model, membership, permissions
@@ -32,5 +31,3 @@ Tools:
     - Internet Explorer – SharePoint configurations (note: non IE browsers remain 2nd level and isn’t as good as IE with SharePoint)
     - Microsoft SharePoint Designer – SharePoint HTML page design and customization
     - Visual Studio .NET – custom web parts, custom workflows, solution packages
-
-

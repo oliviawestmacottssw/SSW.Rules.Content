@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Development for a SharePoint solution is always risky and may involve bringing down the server from time to time.  So we always customize and develop SharePoint solutions on a separate development server.  But when your development is done, do you know how to deploy your changes to the staging and eventually the production server?<br> 
+Development for a SharePoint solution is always risky and may involve bringing down the server from time to time.  So we always customize and develop SharePoint solutions on a separate development server.  But when your development is done, do you know how to deploy your changes to the staging and eventually the production server?<br> 
 The Bad method 
  The naïve and bad method would be to just back up the entire content database, then copy the database backup to the destination server, and restore it there.
 
@@ -40,5 +40,3 @@ A few considerations for this approach:
 
 1. Site definitions, list definitions, layouts and masterpages, static content and webparts can all be deployed this way
 2. User content cannot be deployed this way. Any content will need to be exported and re-imported to move between development, staging and/or production servers.
-
-

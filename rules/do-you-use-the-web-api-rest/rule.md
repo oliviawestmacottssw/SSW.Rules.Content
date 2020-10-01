@@ -9,10 +9,8 @@ authors:
 
 ---
 
- 
 RIA services – RIP
 
 WCF – RIP(Now shipped in Asp.Net MVC4)
 
 SOAP - RIP
-

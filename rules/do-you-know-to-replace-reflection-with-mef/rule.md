@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Reflection code is often used to implement a "plugin" architecture where components are loaded at runtime rather than referenced directly in the code. This is done instead of statically referencing classes to make the solution more flexible.
 
 The Managed Extensibility Framework (MEF) is an Inversion of Control (IoC) framework build on Reflection that simplifies and standardises this plugin methodology.
@@ -27,4 +26,3 @@ Any existing Reflection code should be examined to see whether:
 [TODO - Damian: Bad example - using reflection]
 
 [TODO - Damian Good Example - using MEF]
-

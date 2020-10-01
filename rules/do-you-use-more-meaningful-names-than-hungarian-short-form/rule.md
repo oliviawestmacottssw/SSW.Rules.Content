@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Hungarian notation is used in VB6. In .NET, there are over 35,000 classes, so we can't just call them with three letter short form. We would suggest the developer use the full class name as  in example below. As a result, the code will be much easier to read and follow up. <br> 
+Hungarian notation is used in VB6. In .NET, there are over 35,000 classes, so we can't just call them with three letter short form. We would suggest the developer use the full class name as  in example below. As a result, the code will be much easier to read and follow up. <br> 
 
 ```
 //Bad Code
@@ -43,5 +43,3 @@ Good code - With meaningful name.
 
 | We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule |
 | --- |
-
-

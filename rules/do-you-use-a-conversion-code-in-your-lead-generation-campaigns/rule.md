@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 A conversion pixel will help you understand if your ads are generating leads.
  
 A conversion is an action you want the user to make while visiting your website.
@@ -26,5 +25,3 @@ You may have heard about a tracking pixel too. [ClickMeter explains the differen
 
 
 - The **Conversion code** is a piece (snippet) of code you place in the thank you page to track conversions. The Conversion Code can ALSO be a Conversion Pixel.
-
-

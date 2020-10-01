@@ -9,10 +9,9 @@ authors:
 
 ---
 
+The brand is the summary of our company.
  
-​​​The brand is the summary of our company.
- 
-The brand should contain the copyright declaration.​
+The brand should contain the copyright declaration.
 Bad header comments
 
 ///&lt;summary&gt;
@@ -26,13 +25,7 @@ Bad header comments
 ///&lt;/summary&gt;
 ///'----------------------------------------------
 
-Good header comments​​
+Good header comments
 
 
 /// Copyright 2017 www.ssw.com.au
-​​​
-
-
-
-
-

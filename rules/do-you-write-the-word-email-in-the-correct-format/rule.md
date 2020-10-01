@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​Do you spell 'email' correctly?
+Do you spell 'email' correctly?
  
 There is one correct way to spell 'email' and many incorrect ones. The common incorrect ones are:
 
@@ -25,7 +24,7 @@ Bad example: Using 'e-mail' in your text
 &lt;p&gt;Your email address must match your confirm email address&lt;/p&gt;
 Good example: Using 'email' instead
 
-​
+
 
 Upper Case with capital M:
 
@@ -38,5 +37,3 @@ Good example: Use 'Email' instead 
 
 
 We have a rule in [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/codeauditor/) and [SSW Link Auditor](https&#58;//sswlinkauditor.com/) to check for this.
-
-

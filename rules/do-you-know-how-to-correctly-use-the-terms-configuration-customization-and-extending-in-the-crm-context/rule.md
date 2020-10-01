@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 It is important to use consistent language when talking about changes made to a CRM environment. The terms configuration and customization are sometimes used interchangeably.  It is clearer to use the following to differentiate them: Configuration, Customization and Extending.
 
 
@@ -23,7 +22,4 @@ Customization would apply to: Fields, Entities, Relationships, Forms, Views, and
 
 
 
-See the [TFS​](/do-you-know-how-to-correctly-use-the-terms-configuration-and-customization-in-the-tfs-context) rule for correct definitions.
-
-
-
+See the [TFS](/do-you-know-how-to-correctly-use-the-terms-configuration-and-customization-in-the-tfs-context) rule for correct definitions.

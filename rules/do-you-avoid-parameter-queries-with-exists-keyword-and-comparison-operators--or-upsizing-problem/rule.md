@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 The MS Upsizing Wizard cannot upsize Microsoft Access queries containing
 
 - EXISTS &lt;&gt; FALSE/TRUE or
@@ -45,4 +44,4 @@ WHERE EXISTS (SELECT EmployeeID
  AND Employees.EmployeeID=Orders.EmployeeID)
 ```
 
-Figure: Good example of Access query with EXISTS keyword and without comparison operatorIn order to get the good example syntax you must switch from Design View window to SQL View in query designer window and save query definition.   
+Figure: Good example of Access query with EXISTS keyword and without comparison operatorIn order to get the good example syntax you must switch from Design View window to SQL View in query designer window and save query definition.

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 These are the steps to edit a mail merge template in CRM 2011:
  
 1. Go to <br>      **Settings** from Microsoft CRM 2011 home page.
@@ -17,6 +16,4 @@ These are the steps to edit a mail merge template in CRM 2011:
 3. Click <br>      **Mail Merge Templates** on right content panel.
 4. Double click the template that you want to edit.
 5. On top of the template details window, click <br>      **Edit Template in Word**.
-6. A word document will be open like when you create the template, from there you can follow on screen instructions to edit the template content.​
-
-
+6. A word document will be open like when you create the template, from there you can follow on screen instructions to edit the template content.

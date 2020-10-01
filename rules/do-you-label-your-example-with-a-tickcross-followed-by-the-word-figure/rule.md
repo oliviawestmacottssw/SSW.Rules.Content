@@ -7,7 +7,6 @@ authors: []
 
 ---
 
-
 Always use a green tick for a good example and red cross for a bad example followed with a label “Figure:”?
 Bad example - background colour is manually added to &lt;tablegt; tag
 

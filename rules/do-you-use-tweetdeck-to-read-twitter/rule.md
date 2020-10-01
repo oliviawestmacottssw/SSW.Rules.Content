@@ -13,7 +13,7 @@ authors:
 
 ---
 
- If you are looking to get the most out of your Twitter experience, you will need to use a Twitter client. SSW recommends TweetDeck.  <br>    Recently the Twitter website has been updated to enrich the Twitter experience, but you still can’t easily be notified about topics that you are interested in. 
+If you are looking to get the most out of your Twitter experience, you will need to use a Twitter client. SSW recommends TweetDeck.  <br>    Recently the Twitter website has been updated to enrich the Twitter experience, but you still can’t easily be notified about topics that you are interested in. 
 
 
 
@@ -31,5 +31,3 @@ Bad Example : Using the Twitter webpage is not the best way to use Twitter
 Good Example : Using TweetDeck gives you a dashboard to follow topics you are interested in
 
 You can download TweetDeck here: http://www.tweetdeck.com/
-
-

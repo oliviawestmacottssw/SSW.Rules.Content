@@ -9,15 +9,13 @@ authors:
 
 ---
 
- Events should end in "ing" or "ed".
-​
+Events should end in "ing" or "ed".
+
  
-​ public event Action
+public event Action
 &lt; connectioninformation &gt; ConnectionProblem;
-​​Bad code​​
+Bad code
 
 public event Action
 &lt; connectioninformation &gt; ConnectionProblemDetected;
-​​Good code
-​​​
-
+Good code

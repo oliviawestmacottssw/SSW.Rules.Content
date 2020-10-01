@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 When you do a lot of presenting on your laptop it is good to have a standard location to keep your VHD and instructions.
 
 - Give the VHD the name of what the demo is for and a version number for the image.
@@ -20,5 +19,3 @@ When you do a lot of presenting on your laptop it is good to have a standard loc
 **Example: **D:\DataVMs\SharePoint2010\_v2 \SharePoint2010\_v2.vhd
 - Keep an instructions.txt in the same folder as the VHD with any instructions for the VHD and the username and password to log into the VHD.
 **Example: **D:\DataVMs\SharePoint2010\_v2 \instructions.txt
-
-

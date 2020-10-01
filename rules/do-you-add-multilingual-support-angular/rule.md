@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 ### How to implement multilingual support in an Angular project?
 
 There are several ways of implementing multilingual support in an Angular project, the following libraries are popularly:
@@ -42,4 +41,3 @@ The following table shows the pros and cons of the 3 libraries:
 ![code-2.png](code-2.png)
 
 By comparing of the 3 libraries we can see  **ngx-translate** provides the best functionality now due to the API support, even though the built-in i18n module will catch up in a certain time, but we still recommend using  **ngx-translate** for multilingual support in your Angular application.
-

@@ -9,6 +9,6 @@ authors:
 
 ---
 
- Text files created on DOS/Windows machines have different line endings than files created on Unix/Linux. DOS uses carriage return and line feed ("\r\n") as a line ending, which Unix uses just line feed ("\n").
-​​
- ​![carriage-bad.jpg](carriage-bad.jpg)Figure: Bad example ​<br>      ![carriage-good.jpg](carriage-good.jpg)Figure: Good example​​
+Text files created on DOS/Windows machines have different line endings than files created on Unix/Linux. DOS uses carriage return and line feed ("\r\n") as a line ending, which Unix uses just line feed ("\n").
+
+ ![ Bad example![carriage-good.jpg](carriage-good.jpg)](carriage-bad.jpg)

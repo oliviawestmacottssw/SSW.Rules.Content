@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-Engaging and interacting with your audience is great a way to get more "activities"​ around your videos and channel as well as building a faithful audience.​​
+Engaging and interacting with your audience is great a way to get more "activities" around your videos and channel as well as building a faithful audience.
  
 Make sure you:
 
@@ -27,7 +26,3 @@ There are also some other little “tricks” to keep your audience happy:
 - Creating a 60 second-long video preview (with the same title) with a link to the full YouTube video written in a comment is a good way to promote it on Facebook.
 - Use emotional keywords in your title and description. Use the [Advanced Marketing Institute website](http&#58;//www.aminstitute.com/headline/index.htm), check your keywords and keep those with a result of at least 25% (the higher the result the better).
 - Reach the largest audience by posting at the best time: between 12 pm and 4 pm on weekdays (ideally on Thursdays) and between 9 am and 11 am on weekend (ideally on Saturdays).
-
-
-
-

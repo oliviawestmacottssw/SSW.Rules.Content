@@ -7,7 +7,6 @@ authors: []
 
 ---
 
-
 Making your presentation over-complicated is a very easy trap to fall into. Many speakers make the mistake of giving way too much information.
 
 In reality, giving a presentation is an entirely different genre from writing a technical report.
@@ -20,4 +19,3 @@ In reality, giving a presentation is an entirely different genre from writing a 
 
 
 Most experienced and talented TV presenters stick to making three points in half an hour - this is surely a lesson for anyone planning a presentation.
-

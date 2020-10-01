@@ -13,10 +13,6 @@ authors:
 
 ---
 
- 
 Users expect underlined text to be a hyperlink. Never underline text that isn't a link.
- ![Websites - Underline no hyperlink](../../assets/Websites_UnderlineNoHyperlink.gif)Figure: Never underline the text when it isn't a link (even <br>      [Scott Guthrie agrees](http://www.ssw.com.au/ssw/Redirect/Microsoft/ScottGu.htm)!)
-We have a program called  [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#BreadCrumbs) to check for this rule. ​​​
-
-
-
+ ![ Never underline the text when it isn't a link (even <br>      [Scott Guthrie agrees](http://www.ssw.com.au/ssw/Redirect/Microsoft/ScottGu.htm)!)](../../assets/Websites_UnderlineNoHyperlink.gif)
+We have a program called  [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#BreadCrumbs) to check for this rule.

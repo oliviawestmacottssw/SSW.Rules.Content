@@ -9,7 +9,7 @@ authors:
 
 ---
 
- The Upsizing Tools do not try to upsize Microsoft Access query that includes VBA function names that don't have their equivalent Transact-SQL functions. The upsizing result will depend on Microsoft Access version (2000/2002/2003) and SQL Server Version (2000/2005). The following varieties of queries will not upsize: <br> 
+The Upsizing Tools do not try to upsize Microsoft Access query that includes VBA function names that don't have their equivalent Transact-SQL functions. The upsizing result will depend on Microsoft Access version (2000/2002/2003) and SQL Server Version (2000/2005). The following varieties of queries will not upsize: <br> 
 - Queries referencing value in control, for example Forms![FormName]![ControlName] (Access 2000)
 - Select queries that take parameters (Access 2000)
 - Select queries where parameter used more than once (All versions of Access)
@@ -41,4 +41,3 @@ INNER JOIN "Order Subtotals"
 
 Figure: Good example of SQL Server view with YEAR keyword 
 [Upsizing PRO](http&#58;//www.ssw.com.au/ssw/UpsizingPRO) will check this rule
-

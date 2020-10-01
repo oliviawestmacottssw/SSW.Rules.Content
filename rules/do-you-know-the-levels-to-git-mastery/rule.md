@@ -9,15 +9,14 @@ authors:
 
 ---
 
- 
-​​​Like most skills, it can take a little while to get your head around Git.
+Like most skills, it can take a little while to get your head around Git.
 We rate our devs and the devs that we mentor on the following scale.
 
 **Where are you?**
  
 ### \*\* Level 1 - Understanding the basic principles
 
-At this level, you need to have an understanding of the basic operations (including branching).​
+At this level, you need to have an understanding of the basic operations (including branching).
 
 Your workflow looks like this:
 
@@ -50,12 +49,10 @@ Pull requests should preferably be used with policies (TFS Git only  - hard
 ### \*\* Level 4 -  Working with a team advanced - Rebasing (harder, but worth it) 
 
 When working in a team, Git does a pretty good job of merging code together from different branches... but it can be very messy. 
-True Git masters master [rebasing​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=686b79aa-362e-4309-91e9-0add03593c34). It lets you keep a much cleaner project history.
+True Git masters master [rebasing](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=686b79aa-362e-4309-91e9-0add03593c34). It lets you keep a much cleaner project history.
 
-Git process for Git masters:​
+Git process for Git masters:
 
 - pull master
 - rebase feature branch on top of remote master
 - push feature branch to remote or create pull request
-
-

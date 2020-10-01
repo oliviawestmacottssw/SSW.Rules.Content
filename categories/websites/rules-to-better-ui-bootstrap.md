@@ -13,9 +13,7 @@ index:
 - do-you-use-web-essentials
 
 ---
-
 ### Twitter Bootstrap & ASP.NET MVC - Intro / Quickstart with Ben Cull
 
 In this video, Ben Cull walks us through Bootstrap, how it impacts your development experience and how to get the most out of it to produce functional and visually pleasing solutions.
-​ ​​​​ 
 

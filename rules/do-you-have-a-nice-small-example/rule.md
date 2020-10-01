@@ -7,6 +7,6 @@ authors: []
 
 ---
 
- Your good and bad examples should be concise and to the point. 
+Your good and bad examples should be concise and to the point. 
 
-<br>Keep it simple, stupid :) <br> 
+<br>Keep it simple, stupid :) <br>

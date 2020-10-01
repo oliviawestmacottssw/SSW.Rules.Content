@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 A sprite is an image that has all of your other images inside of it, so if your sprite               has 5 images, you’d be getting rid of 4 HTTP requests and speeding your site’s loading time               up by the time for each of those 4 requests latency. You will use CSS selectors for each               link to display only a portion of the image sprite - effectively showing just the               image you need.
  
 The benefits to use CSS image sprites are:
@@ -18,4 +17,4 @@ The benefits to use CSS image sprites are:
 
 
 Ensure that the file size of your master image isn't greater than the sum of its pieces.
-![One image per Icon](ImageSprites_bad.gif)Figure: Bad Example - four images, one for each icon![One image contains all icons](ImageSprites_good.gif)Figure: Good Example - one image contains all the icons and CSS selectors make the browser display only the part you need
+![ Bad Example - four images, one for each icon![One image contains all icons](ImageSprites_good.gif)](ImageSprites_bad.gif)

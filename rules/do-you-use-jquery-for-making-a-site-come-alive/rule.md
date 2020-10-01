@@ -9,7 +9,7 @@ authors:
 
 ---
 
- To please customers every business knows they need to keep their services and offerings fresh and up-to-date. The same is true for websites. In order to attract new traffic, we should make the website vivid. <br> ![Bad example – there is no response when mouse is over the image](OldFashionSite.jpg) Figure: Bad example – there is no response when mouse is over the image ![Good example – apply the different style when mouse is over](NewFashionSite.jpg) Figure: Good example – apply the different style when mouse is over 
+To please customers every business knows they need to keep their services and offerings fresh and up-to-date. The same is true for websites. In order to attract new traffic, we should make the website vivid. <br> ![ Bad example – there is no response when mouse is over the image ![Good example – apply the different style when mouse is over](NewFashionSite.jpg) ](OldFashionSite.jpg) 
 
 ```
 $("p").hover(function () {
@@ -23,4 +23,4 @@ $("p").hover(function () {
         });
 ```
 
-Figure: Mouse hover sample 
+Figure: Mouse hover sample

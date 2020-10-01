@@ -9,10 +9,8 @@ authors:
 
 ---
 
- 
 Spaces should be avoided. If an object name contains a space, it can cause problems later on for developers because the developer must remember to put the object name inside square brackets when referencing it.
 
 [Why avoid reserved words and spaces in object names?](https&#58;//www.ssw.com.au/ssw/KB/KB.asp?KBID=Q1620415)
  
-​We aim to never have to use square brackets in any of our databases.​​​​
-
+We aim to never have to use square brackets in any of our databases.

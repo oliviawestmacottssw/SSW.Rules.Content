@@ -13,7 +13,7 @@ authors:
 
 ---
 
- ​​​[![Onion Architecture](Onion-Architecture.jpg)](/Documents/Onion-Architecture.pdf)Figure: The layers of the onion architecture 
+[![ The layers of the onion architecture ](Onion-Architecture.jpg)](/Documents/Onion-Architecture.pdf)
 ### Application Core (the grey stuff)
 
 This should be the big meaty part of the application where the domain logic resides.
@@ -59,7 +59,7 @@ The Onion Architecture relies heavily on the [Dependency Inversion](http://en.wi
 
 To help make this process pain free, we've developed the [SSW Data Onion](http://www.sswdataonion.com/) to get you going and take away the boilerplate code you would normally need to write. Check out this cool video to see how it works:
 
-​
+
 
  
 
@@ -69,6 +69,3 @@ To help make this process pain free, we've developed the [SSW Data Onion](http:/
 
 
 **Further Reading:**[Do You Use a Dependency Injection Centric Architecture?](/Pages/Use-a-Dependency-Injection-Centric-Architecture.aspx)
-
-​
-

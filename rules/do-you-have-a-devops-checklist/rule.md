@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 DevOps (Developers and IT Operations) is a phrase used to describe the relationship and/or communication between Developers and IT Operations.
    A DevOps checklist is a simple document that allows development teams to note all of the tasks related to monitoring and application life cycle along with their quality metrics and place them into one of three categories:
 
@@ -26,7 +25,4 @@ Tasks that are performed at the end of each sprint.
 
 Actions or Tasks follow a basic format of: Action / Task Name |  Where the task can be performed | Quality Metric
 
-![Action-Table.png](Action-Table.png)
-Figure: Good Example of a Basic Action Table format
-
-
+![ Good Example of a Basic Action Table format](Action-Table.png)

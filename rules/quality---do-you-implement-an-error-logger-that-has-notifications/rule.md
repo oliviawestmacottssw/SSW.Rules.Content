@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​                     When building an application for a client, you should implement functionality which                     will notify you personally whenever it throws an exception and log the issue for                     review.
+When building an application for a client, you should implement functionality which                     will notify you personally whenever it throws an exception and log the issue for                     review.
  
 There are a few reasons to do this:
 
@@ -23,5 +22,4 @@ There are a few reasons to do this:
 
 You will find that this will lead to more clients who are happy to use you into                     the future because they know that you care about their application.
 
-See also: ​[https://rules.ssw.com.au/rules-for-error-handling​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=1fc78c51-a2ac-40cf-be19-a55c82de3a33)
-
+See also: [https://rules.ssw.com.au/rules-for-error-handling](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=1fc78c51-a2ac-40cf-be19-a55c82de3a33)

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Students will be able to concentrate best if they are comfortable that they know basically how the day will run. To this end, explain the logistics of the day.
  
 - What time are the breaks?
@@ -24,5 +23,3 @@ E.g. <br>
     - - Session 4 --&gt; 03:40pm – 05:00pm
 - Where is the tea/coffee?
 - Where are the toilets?
-
-

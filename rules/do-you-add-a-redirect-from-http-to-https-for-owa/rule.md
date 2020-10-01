@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Do you configure redirection from HTTP to https for Outlook Web App (OWA)? To simplify OWA access for your users, you want to configure the Outlook Web App page to automatically redirect users to https. The HTTP redirect procedure in IIS Manager simplifies OWA URL and forces to SSL connection from **http://mail.domain.com** to h**ttps://mail.domain.com/owa**.
  
 ### Step 1: Use IIS Manager to simplify OWA URL and force redirection to SSL
@@ -19,7 +18,7 @@ Do you configure redirection from HTTP to https for Outlook Web App (OWA)? To si
 3. At the bottom of the Default Web Site Home pane, click **Features View** if this option isn't already selected.
 4. In the **IIS** section, double-click **HTTP Redirect**
 5. Select the **Redirect requests to this destination** check box.
-6. Type the absolute path of the /owa virtual directory. For example, type **https://mail.domain.com/owa​.**
+6. Type the absolute path of the /owa virtual directory. For example, type **https://mail.domain.com/owa.**
 7. Under **Redirect Behavior**, select the **Only redirect requests to content in this directory (not subdirectories)** check box.
 8. In the **Status code** list, click **Found (302)**.
 9. In the Actions pane, click **Apply**.  ![OWARedirect.jpg](OWARedirect.jpg)
@@ -41,8 +40,7 @@ appcmd set config "Default Web Site/powershell" /section:httpredirect /enabled:f
 appcmd set config "Default Web Site/rpc" /section:httpredirect /enabled:false -commit:apphost
 appcmd set config "Default Web Site/rpcwithcert" /section:httpredirect /enabled:false -commit:apphost
 appcmd set config "Default Web Site/Microsoft-Server ActiveSync" /section:httpredirect /enabled:false -commit:apphost
-​
-4. Finish by running the command:    `​​iisreset/noforce`.
+4. Finish by running the command:    `iisreset/noforce`.
 
 
 ### Step 3: Test that HTTP to HTTPS redirect is working
@@ -50,5 +48,5 @@ appcmd set config "Default Web Site/Microsoft-Server ActiveSync" /section:httpre
 1. Open Internet Explorer and type in **http://mail.domain.com**
 2. DONE - You are then redirected to **https://mail.domain.com/owa**
 
- ![iisnoredirect.jpg](iisnoredirect.jpg)  Figure: Bad Example, no redirect in place for OWA
- ![iisredirect.jpg](iisredirect.jpg) Figure: Good Example, redirect from HTTP to https for OWA 
+ ![ Bad Example, no redirect in place for OWA](iisnoredirect.jpg)  
+ ![ Good Example, redirect from HTTP to https for OWA ](iisredirect.jpg)

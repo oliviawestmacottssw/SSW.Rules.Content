@@ -9,8 +9,8 @@ authors:
 
 ---
 
- **​Test, test, test!** Testing is the most critical part of any project. Before the delivery of any release the application must pass an internal "test please". Clients quickly become disillusioned if you have delivered a bug-riddled application.
-  ![Do you want users to have good first impressions?](pic16-TestingDoYouWantThemT.gif) Figure: Do you want users to have good first impressions? 
+**Test, test, test!** Testing is the most critical part of any project. Before the delivery of any release the application must pass an internal "test please". Clients quickly become disillusioned if you have delivered a bug-riddled application.
+  ![ Do you want users to have good first impressions? ](pic16-TestingDoYouWantThemT.gif) 
 There are a number of different types of tests that you can perform:
 
 - **Unit Testing:**    It validates the smallest testable parts of an application. Unit tests do not cover the UI layer. There is no industry standard 3rd party unit test tool but at SSW we use NUnit and Visual Studio Team Test.
@@ -28,7 +28,7 @@ There are a number of different types of tests that you can perform:
 Yes! A "Test Please", aka peer review highlights unseen errors, proposes new ideas for consideration or confirms the existing work as the best solution. A peer review can also effect cultural change amongst your development team as developers become more open to critiques of their work and comfortable with a 'continuous learning' environment. A "Test Please" will also be applied to:
 - Brief proposals
 - Release plans
-- Estimates​
+- Estimates
 - Anything else being sent to a client
 - Anything else being sent to an employee of a sensitive nature
 - Anything being sent for public consumption - such as newsletters, print documents and or advertisements.
@@ -73,11 +73,10 @@ Please cc the client in all your "Test Please" emails including internal ones.
 
 Gary,
 
-​**Test please failed**
+**Test please failed**
 
 (as per critical bugs reported in other emails)
 
 Figure: This is how to reply failed to a "test please" email 
 
-**Note: **If the test to be performed is quick and the tester is available on the spot, consider using a "[checked by](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=b44ce620-2be6-4c95-ba62-cb6b36bfbb4a)" style instead to save some time.​
-
+**Note: **If the test to be performed is quick and the tester is available on the spot, consider using a "[checked by](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=b44ce620-2be6-4c95-ba62-cb6b36bfbb4a)" style instead to save some time.

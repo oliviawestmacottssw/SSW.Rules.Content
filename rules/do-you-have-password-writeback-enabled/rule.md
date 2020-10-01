@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Do you have Password Writeback enabled in your Azure AD Connect?
+Do you have Password Writeback enabled in your Azure AD Connect?
  
 If you want to let your users reset their own, on-premises passwords directly from the cloud, you need to have Password Writeback enabled in Azure AD Connect!
 
@@ -19,4 +19,3 @@ When setting up Azure AD Connect, you need to set the "Password Writeback" optio
 
 ![enablepasswordwriteback.png](enablepasswordwriteback.png)
 Good Example: Setting up Password Writeback in Azure AD Connect
-

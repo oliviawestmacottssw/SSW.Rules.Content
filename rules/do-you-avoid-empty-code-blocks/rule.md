@@ -9,28 +9,27 @@ authors:
 
 ---
 
- 
-​Empty Visual C# .NET method consumes program resources unnecessarily. Put a ​​comment in code block if its stub for future application.
+Empty Visual C# .NET method consumes program resources unnecessarily. Put a comment in code block if its stub for future application.
 
 **Exception:** If a Class implements an Inherited Interface method, you should add a comment within the Code block
 
  
-​public class Example
+public class Example
  {
  public double salary()
  {     
  }
  }
-​​Figure: Bad Example - Method is empty​​​​​
+Figure: Bad Example - Method is empty
 
-​public class Sample
+public class Sample
  {
  public double salary()
  {
  return 2500.00;
  }
  }
-​Figure: G​ood Example - Method implements some code
+Figure: Good Example - Method implements some code
 
 public interface IDemo
  {
@@ -49,8 +48,8 @@ public class Demo : IDemo
  { 
  } 
  }
-​Figure: Bad Example - No Comment within empty code block
-​​​public interface IDemo
+Figure: Bad Example - No Comment within empty code block
+public interface IDemo
  {
  void DoSomethingUseful();
  void SomethingThatCanBeIgnored();
@@ -68,5 +67,4 @@ public class Demo : IDemo
  // stub for IDemo interface
  } 
  }
-​​​Figure: Good Example - Added comment within Empty Code block method of interface class​
-
+Figure: Good Example - Added comment within Empty Code block method of interface class

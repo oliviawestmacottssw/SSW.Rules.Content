@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Injecting your dependency gives you:
 
 - Loosely coupled classes
@@ -19,4 +18,4 @@ Injecting your dependency gives you:
 - All dependencies are specified in one place
 - Class dependencies are clearly visible in the constructor
 
- ![inject](inject-bad-1.jpg) Figure: Bad Example – A solution where each layer depends on static classes is not maintainable or testable ![inject](inject-good-1.jpg) Figure: Good Example – Dependencies in each layer should only be interfaces. This allows dependencies to be easily interchanged and unit tests to be written against mock/fake objects ![inject](inject-bad-2.jpg) Figure: Bad Example – Classes should not include dependencies on database classes or business objects. Both of these classes may contain dependencies on external services like web services or databases ![inject](inject-good-2.jpg) Figure: Good Example – The dependencies are injected into the class. This enables alternative classes to be injected. For example, a DHLShippingCalculator should be easily substituted for a FedexShippingCalculator. A MockShippingCalculator and MockProductRepository could be injected if we wanted to run unit tests
+ ![ Bad Example – A solution where each layer depends on static classes is not maintainable or testable ![inject](inject-good-1.jpg) ](inject-bad-1.jpg)

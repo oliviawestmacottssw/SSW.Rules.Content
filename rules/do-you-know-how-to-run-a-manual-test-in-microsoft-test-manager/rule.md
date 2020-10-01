@@ -9,4 +9,4 @@ authors:
 
 ---
 
- Running tests with MTM allows you to keep track of your testing progress. 
+Running tests with MTM allows you to keep track of your testing progress.

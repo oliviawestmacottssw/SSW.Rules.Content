@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Good error design is as important to the sucess of an API as the API design itself. A good error message provides context and visibility on how to troubleshoot and resolve issues at critical times.
  
 ### Start by using the correct HTTP Status Codes.
@@ -66,5 +65,3 @@ Providing a URI to an additional help resources as part of your request will all
     "StatusCode": 404
 }`
 Figure: Good Example - A help link is provided as part of the response.
-
-

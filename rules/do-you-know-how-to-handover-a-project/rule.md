@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 A common source of pain, is picking up a project without a decent/complete handover. To have a successful project you must navigate over the problem of changing resources/people leaving etc.
 
 As soon as an employee has given their resignation notice, their manager should become responsible for ensuring a successful handover takes place.  Each project they were involved in should be reviewed and another employee with a matching skill set should be selected to receive the handover.  Handovers should be booked in for each project with both employees in attendance, as early as possible and with high priority.
@@ -28,7 +27,7 @@ Here are the 8 steps you should follow for a good handover.
 4. Do a code review
 5. Review the client portal
 6. Confirm location of info and procedures (hopefully, these are on a wiki or SharePoint document library)
-    - Source control. Make sure there is no stale or old branches. ​​​Check out: [​​Do you know when to branch in git?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d12d969d-0a5f-4d75-8f6b-1c33ac8f74a1)
+    - Source control. Make sure there is no stale or old branches. Check out: [Do you know when to branch in git?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d12d969d-0a5f-4d75-8f6b-1c33ac8f74a1)
     - Database
     - Documents
     - How to Build and Package
@@ -58,7 +57,7 @@ Production: squirrel
 Always backup master folder’s file before uploading the changes to the master folder
 - **Update the Employee Responsibilities in SSW intranet **    **TODO**
 
-  **​​​Figure Bad Example - This handover is incomplete and light on details** 
+  **Figure Bad Example - This handover is incomplete and light on details** 
  
 **From: Andy
 To: Gracia
@@ -89,5 +88,4 @@ If a problem occurs, restore the backup of the master folder and restart
 
   **Figure: Good Example - This handover has lots of URLs and is complete**
 
-If you need to handover only a single task there are more details here: [Do you know how to hand over tasks (aka Emails) to others? ​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2586b50a-21b6-40b0-8004-d90d1b029bec)​
-
+If you need to handover only a single task there are more details here: [Do you know how to hand over tasks (aka Emails) to others?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2586b50a-21b6-40b0-8004-d90d1b029bec)

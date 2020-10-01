@@ -11,9 +11,9 @@ authors:
 
 ---
 
- ​Knowing when to use SQL Server Reporting Services (SSRS) over Power BI can ensure that you are using the tools most efficiently to help drive your business.
+Knowing when to use SQL Server Reporting Services (SSRS) over Power BI can ensure that you are using the tools most efficiently to help drive your business.
  
-Many organisations see Power BI as a replacement to SSRS due to a lack of major advancements in the SSRS space however while similar they both fill different key needs for organisations and the BI team at Microsoft have invested alot of time into improving the SSRS offering.​
+Many organisations see Power BI as a replacement to SSRS due to a lack of major advancements in the SSRS space however while similar they both fill different key needs for organisations and the BI team at Microsoft have invested alot of time into improving the SSRS offering.
 
 
 
@@ -22,6 +22,3 @@ SSRS provides a stronger ability when it comes to static representational report
 
 
 BI however is better for a dynamic interrogation of data as it currently stands so this can allow power users to drill into live data to identify trends.
-
-
-

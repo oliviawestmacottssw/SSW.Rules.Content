@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​​​An ergonomic setup ensures that you are using your computer in a way that will not injure or strain you in any way. As you will likely be sitting/standing at your desk for up to 8 hours it is crucial to not become complacent with the layout of your desk.​
+An ergonomic setup ensures that you are using your computer in a way that will not injure or strain you in any way. As you will likely be sitting/standing at your desk for up to 8 hours it is crucial to not become complacent with the layout of your desk.
  
 Tips to remember when reviewing your desk:
 
@@ -20,6 +19,4 @@ Tips to remember when reviewing your desk:
 - Feet should be either flat on the ground or on a slightly angled foot rest
 - Shoulders and arms should be parallel to the ground
 - Lower back should have support
-- ​You should be able to comfortably sit up straight
-
-
+- You should be able to comfortably sit up straight

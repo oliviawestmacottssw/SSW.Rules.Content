@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 <br>Both controls can represent XML hierarchical data and support Extensible Stylesheet Language (XSL) templates, which can be used to transform an XML file into a the correct format and structure. While TreeView can apply Styles more easily, provide special properties that simplify the customization of the appearance of elements based on their current state. <br> 
 
 ```

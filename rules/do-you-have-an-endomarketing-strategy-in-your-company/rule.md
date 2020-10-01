@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Endomarketing is one of the most effective strategies to reduce your employee turnover rate and attract new highly qualified professionals to your company. 
 
 
@@ -53,10 +52,8 @@ The main benefits of this strategy are:
 - It also improves workers’ mental health and quality of life which, in the long term, will reduce the number of casualties in the company
 
 
-   ​
+
 
 ![bunny.jpg](bunny.jpg) 
 
 Good Example – Figure: Celebrate special dates with your team!
-
-

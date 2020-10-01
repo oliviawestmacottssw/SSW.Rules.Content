@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 When adding input boxes to collect data, please always have a &lt;label&gt; tag                     associated with your &lt;input&gt; tag to link the labels with their respective                     edit controls. This improves accessibility and gives nice focusing stuff (when you                     click the label).
  
 
@@ -30,5 +29,3 @@ When adding input boxes to collect data, please always have a &lt;label&gt; tag 
     <asp:TextBox ID="EmailAddress" runat="server"/>
 </p>
 ```
-
-

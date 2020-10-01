@@ -13,8 +13,7 @@ authors:
 
 ---
 
- 
-​When you've finished a PBI you should record a video to send to your Product Owner and anyone else that is interested. A 'Done' video is much better than a screenshot because you are proving the PBI workflow actually works. Even better, this video can double as documentation or release notes for your users.
+When you've finished a PBI you should record a video to send to your Product Owner and anyone else that is interested. A 'Done' video is much better than a screenshot because you are proving the PBI workflow actually works. Even better, this video can double as documentation or release notes for your users.
  
 When deciding whether a PBI might be a good contender to record a done video for, consider these factors:
 
@@ -23,7 +22,7 @@ When deciding whether a PBI might be a good contender to record a done video for
 3. Is it UI heavy? i.e. would the video be compelling?
 
 
-​
+
 
 Here's a quick video describing how to record and edit a quick done video. (Notice how it itself is also in the done video format?)
 
@@ -38,7 +37,7 @@ Here's a quick video describing how to record and edit a quick done video. (Noti
 **
 
 
-**​​For a great 'Done Video' here are the key things to remember:
+**For a great 'Done Video' here are the key things to remember:
 **
 
 - Don't just demonstrate your new feature, start by showing the problem you are solving and the pain of why you needed to add the feature
@@ -58,9 +57,9 @@ Here's a quick video describing how to record and edit a quick done video. (Noti
 
 
 
-**​Tip:** Some offices have a professional setup.
+**Tip:** Some offices have a professional setup.
 E.g. SSW have the                 **Marantz Turret** hardware and desktop recording kit. The Turret is an ideal device to record these videos as it has a professional podcasting microphone, built-in light and good quality High Definition video camera.
-![turret-usage.jpg](turret-usage.jpg)Figure: 'Done' video in progress using a Marantz turret broadcasting kit Learn more about the Turret: <br>            [Product Review: The Marantz Turret — Wistia](https://wistia.com/learn/production/marantz-turret-review?wvideo=whmpjct7xj)
+![ 'Done' video in progress using a Marantz turret broadcasting kit Learn more about the Turret: <br>            [Product Review: The Marantz Turret — Wistia](https://wistia.com/learn/production/marantz-turret-review?wvideo=whmpjct7xj)](turret-usage.jpg)
 
 
 ### Camtasia - Let's look at an example by Ben Cull
@@ -72,19 +71,19 @@ E.g. SSW TimePRO - Power BI Ad-Hoc Reporting:
 **Figure: A real example of a 'Done Video' with Fades**
 
 
-​
+
 
 ### Tip: Fix the audio before making any cuts to the video
 
 
-​After ​recording your video, you need to do some basic sound processing to make the audio awesome.
+After recording your video, you need to do some basic sound processing to make the audio awesome.
 
 - In the Timeline, select the clip with the audio
 - On the top left panel, click ‘Audio Effects’ and drag the ‘Levelling’ effect onto your clip
 - On the timeline, move the new audio meter up just until the audio waveform is about to hit the top
-- Listen and adjust as necessary​
+- Listen and adjust as necessary
 
-![audio-effects-panel.png](audio-effects-panel.png)Figure: audio effects panel with the compressor
+![ audio effects panel with the compressor](audio-effects-panel.png)
 
 ### Tip: Camtasia 9 - How to fade-out and fade-in the video track of your face in Camtasia 9
 
@@ -95,9 +94,9 @@ E.g. SSW TimePRO - Power BI Ad-Hoc Reporting:
 4. Select the **Full Opacity (4) **animation effect for fade-in.
 5. **Drag and drop the Full Opacity effect (5) ** to the point in the track where you want to fade-in. Adjust the start  and end point of the fade using the handles on the animation arrow.
 
-![fade in and out.png](fade in and out.png)Figure: Camtasia - Steps for adding fade-out/fade-in animation to video track of your face in 'Done' video​​​​​​
+![ Camtasia - Steps for adding fade-out/fade-in animation to video track of your face in 'Done' video](fade in and out.png)
 
-###  Final Step – Export your video  ​
+###  Final Step – Export your video  
 
 
 Follow the steps to export your video:
@@ -110,8 +109,8 @@ Follow the steps to export your video:
 -	Frame Rate: 30
 -	H.264 Profile: High
 -	Encoding mode: Quality
-    o	Increase the quality to 100% <br>                     ![export-video4.png](export-video4.png)Figure: Copy these settings
-5. In the ‘Audio settings’ tab, make sure the Bit rate is set to 320 kbps <br>                     ![export-video5.png](export-video5.png)​
+    o	Increase the quality to 100% <br>                     ![ Copy these settings](export-video4.png)
+5. In the ‘Audio settings’ tab, make sure the Bit rate is set to 320 kbps <br>                     ![export-video5.png](export-video5.png)
 6. Click Next and save your file!
 
 
@@ -124,7 +123,4 @@ Follow the steps to export your video:
 
 
 
-- [​Communication - Do you send "Done Videos"?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f5fc27ce-af9d-4b57-ad64-3893dacc09e3)​
-
-
-
+- [Communication - Do you send "Done Videos"?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f5fc27ce-af9d-4b57-ad64-3893dacc09e3)

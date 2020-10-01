@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 You should use virtualized standalone servers because:
 
 - If one server goes down it does not affect other servers (e.g. a centralized SQL server fails and brings down: CRM, TFS, Reports, Web Server)
@@ -20,5 +19,3 @@ You should use virtualized standalone servers because:
 However, you should scale out your servers if:
 
 - You want the best performance (e.g. A different server for SQL backend and Web frontend)
-
-​​ 

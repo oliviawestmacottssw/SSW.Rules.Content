@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Once you have decided to put an IM chat into an email or manager may suggest a course of action or a piece of work that they would like completed. It's highly important that such chats are copied from the chat screen, pasted into an email, and sent to the client or manager with a note: "Confirming our IM chat this morning", and CC'ing anyone else who is relevant. Don't just paste the whole conversation into an email.
 Snip the relevant information only. You can do this by:
 
@@ -22,7 +21,5 @@ Snip the relevant information only. You can do this by:
 **
 **
 
-![Bad Example of an IM snip](Bad-Example-of-IM-snip.jpg)
-​​Figure: Bad example - this IM snip has a lot of unnecessary text that makes it hard to read
-​​​![Good example of an IM snip](Good-Example-of-IM-snip.jpg)
-​​​​​​​Figure: Good example - snipped and formatted
+![ Bad example - this IM snip has a lot of unnecessary text that makes it hard to read](Bad-Example-of-IM-snip.jpg)
+![ Good example - snipped and formatted](Good-Example-of-IM-snip.jpg)

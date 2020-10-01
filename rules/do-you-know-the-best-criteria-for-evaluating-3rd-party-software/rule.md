@@ -7,12 +7,11 @@ authors: []
 
 ---
 
- 
-​​​At SSW we evaluate and use a lot of 3rd party libraries. Before considering a​ library for further evaluation we ask the following questions:
+At SSW we evaluate and use a lot of 3rd party libraries. Before considering a library for further evaluation we ask the following questions:
  
 
-- ​Is it open source?
-- Is the licence LGPL, Apache, or MIT?​​​ ​​[Comparison of licences​](http&#58;//en.wikipedia.org/wiki/Comparison_of_free_software_licenses)
+- Is it open source?
+- Is the licence LGPL, Apache, or MIT? [Comparison of licences](http&#58;//en.wikipedia.org/wiki/Comparison_of_free_software_licenses)
 - Is there a quick start guide?
 - Is there a FAQ?
 - Is there an API guide?
@@ -25,4 +24,3 @@ authors: []
 
 
 If the answer is yes to all of these questions then the library is definitely worth further evaluation.
-

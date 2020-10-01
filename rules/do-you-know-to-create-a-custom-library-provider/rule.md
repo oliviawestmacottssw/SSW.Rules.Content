@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 We have needed to create a custom CDN library provider.
 
 Sitefinity manages images, videos, and content on a file system which the website uses.
@@ -33,5 +32,3 @@ Once you have made your class then you need to register it in Sitefinity.
  </blobStorage>
     </librariesConfig>
 ```
-
-

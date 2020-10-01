@@ -9,6 +9,5 @@ authors:
 
 ---
 
- You should have Dynamics 365 installed on your phone.​
- ​![dynamics365-app.png](dynamics365-app.png)
-
+You should have Dynamics 365 installed on your phone.
+ ![dynamics365-app.png](dynamics365-app.png)

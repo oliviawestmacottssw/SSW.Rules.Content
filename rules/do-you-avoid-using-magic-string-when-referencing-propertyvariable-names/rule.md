@@ -11,11 +11,10 @@ authors:
 
 ---
 
- ​Hard coded strings when referencing property and variable names can be problematic as your codebase evolves, and can make your code brittle.
+Hard coded strings when referencing property and variable names can be problematic as your codebase evolves, and can make your code brittle.
  
-​​(if customer.Address.ZipCode == null) throw new ArgumentNullException("ZipCode");
-Figure: ​​​Bad Example - Hardcoding a reference to a property
+(if customer.Address.ZipCode == null) throw new ArgumentNullException("ZipCode");
+Figure: Bad Example - Hardcoding a reference to a property
 
-​​(if customer.Address.ZipCode == null) throw new ArgumentNullException(nameof(customer.Address.ZipCode));
-​​Figure: Good Example - Using nameof() operator to avoid hardcoded strings
-
+(if customer.Address.ZipCode == null) throw new ArgumentNullException(nameof(customer.Address.ZipCode));
+Figure: Good Example - Using nameof() operator to avoid hardcoded strings

@@ -9,7 +9,7 @@ authors:
 
 ---
 
- When you want to create a SharePoint environment, you would need to create a new Virtual Machine from the SysPrep image.  
+When you want to create a SharePoint environment, you would need to create a new Virtual Machine from the SysPrep image.  
 When you want to create a SharePoint environment, you would need to create a new Virtual Machine from the SysPrep image.
 
 1. Make a copy of the latest version of sysprep.vhd and **do not run the base one**
@@ -27,5 +27,3 @@ e.g. client\_project\_v7.vhd
 7. A second set of setup scripts will run for this account - this will install MOSS, SP1
 8. When this is all done, you will power down the VM, and commit all changes to disk
     1. You will consider setting up either snapshots or undo-disk at this point.
-
-

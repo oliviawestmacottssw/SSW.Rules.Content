@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 HTML5 introduced a whole slew of new type properties for forms. Gone are the days of just using type="text" for every field in a form (barring buttons and checkboxes).
 
 Although most of these don't do anything on desktop, on mobile devices they bring up the correct keyboard. As we move into a more mobile digital age, small things like the proper numerical keyboard or a keyboard with a quick ".com" becomes increasingly important.
@@ -41,5 +40,3 @@ Here is a table of some useful input types and what they do:
 | Tel | This brings up the number pad on mobile |
 | Time | This brings up the time picker on mobile |
 | URL | This adds ".com" to the keyboard on mobile |
-
-

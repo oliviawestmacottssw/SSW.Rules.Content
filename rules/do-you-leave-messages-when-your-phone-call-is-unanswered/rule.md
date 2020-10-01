@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- If you call a client or team member, and for some reasons he/she do not attend your call, then you MUST leave messages to ensure a response.  
+If you call a client or team member, and for some reasons he/she do not attend your call, then you MUST leave messages to ensure a response.  
 Your messages must contain     ***your name (firstname and lastname)***,     ***purpose of calling***, and***your contact number***. Create a sense of urgency by giving them explicit time frames when you are available.
 *Hi Ms. Emma, this is Alvin. Please call me back, thanks.*
 **Figure: Bad Example - lacking in communication details, reason for calling and sense of urgency**
@@ -20,5 +20,3 @@ There are several advantages leaving messages when your call is unanswered:
 
 - He/she may know who calls and be able to return your call.
 - If your message is urgent, he/she may return your call straight away (even though he/she is VERY busy.
-
-

@@ -9,11 +9,10 @@ authors:
 
 ---
 
- 
-**​FieldSet** element allows you to group thematically related controls                     and labels. Grouping controls makes forms more accessible and easier for users to                     understand the purpose of filling the forms.
+**FieldSet** element allows you to group thematically related controls                     and labels. Grouping controls makes forms more accessible and easier for users to                     understand the purpose of filling the forms.
 
 See the example below using "Your Details"                     and "Event Details".
- ![](fieldset.jpg)Figure: Good example - Use FieldSet for grouping
+ ![ Good example - Use FieldSet for grouping](fieldset.jpg)
 Here's an example of how FieldSet works:
 
 
@@ -27,10 +26,8 @@ Your Details
         Email Address:
 ```
 
-Figure: Example code of FieldSet​ <br>   ![](fieldset-browser.jpg)Figure: How that code will look on the browser
-​ Things to remember:
+Figure: Example code of FieldSet![ How that code will look on the browser](fieldset-browser.jpg)
+Things to remember:
 
 1. Wrap logical control groups in a .
 2. The first child of a  should be a , so the user knows what to expect in that section.
-
-​  

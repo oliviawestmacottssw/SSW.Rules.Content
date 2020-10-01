@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Gated checkins are used to stop developers from checking in bad code and breaking the build.
 
 This does not contribute to high functioning teams, and instead masks, or even creates dysfunction.
@@ -56,4 +55,3 @@ Instead I encourage the process to be:
 
 
 This is the most productive way for small teams of awesome developers to produce great code… and it's fun !
-

@@ -11,8 +11,7 @@ authors:
 
 ---
 
- 
-​​Do you know why it is a good idea to upgrade your AngularJS application to the latest version of Angular (Angular 7, was Angular 6, was Angular 5, was Angular 4, was Angular 2+, and from here on will be known as Angular)?​​
+Do you know why it is a good idea to upgrade your AngularJS application to the latest version of Angular (Angular 7, was Angular 6, was Angular 5, was Angular 4, was Angular 2+, and from here on will be known as Angular)?
  
 There are a number of reasons why you should consider migrating your AngularJS application to the latest version,
 
@@ -24,5 +23,3 @@ Angular is entirely component-based. This feature enforces thinking in componen
 There is a simpler, more intelligible dependency injection container in Angular. Few developers knew the difference between provider, service, and factory in Angular 1 and there is no such problem in Angular. Now the default setting is class instance - only if you want to use a different raw value you need to declare it explicitly using an easily understandable object literal.
 4. **TypeScript Support**
 The latest version of Angular fully embraces Typescript. For those unfamiliar with this term, TypeScript Lang builds on top of what you already know about JavaScript but incorporates many additional tools to your ability to refactor code, write in modern JS (ECMAScript 2015), and compile to the older versions depending on browser request. Another important facet is IDE integration is that it makes easier to scale large projects through refactoring your whole code base at the same time. Its inbuilt code completion tool effectively saves your precious time from having to look up various features from the libraries you use individually.
-
-

@@ -17,7 +17,7 @@ authors:
 
 ---
 
- ​ ![](finishing-a-feature-with-world-class-flow.jpg)Note: This rule applies to git. For branching advice in TFVC, see [Do you know when to branch in TFVC?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=cd330379-4568-45fa-bd68-7229044697b7)
+![](finishing-a-feature-with-world-class-flow.jpg)Note: This rule applies to git. For branching advice in TFVC, see [Do you know when to branch in TFVC?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=cd330379-4568-45fa-bd68-7229044697b7)
 The best way to handle continuous development and deployment is following [GitHub Flow](https://guides.github.com/introduction/flow/). The basic idea is to always deploy from ** master**, and to create a feature branch for every feature. When the feature is complete, it is merged back to master via a pull request, which provides a trigger for other developers to build.
 
 Using this strategy, ** master **is always production-ready and deployable.
@@ -25,11 +25,11 @@ Using this strategy, ** master **is always production-ready and deployable.
  
 
 
-![commit-master-bad.jpg](commit-master-bad.jpg)Figure: Bad example - Committing to master![commit-branch-good.jpg](commit-branch-good.jpg) Figure: Good example - Committing to a new branch
-![github-flow.jpg](github-flow.jpg)Figure: Great diagram from <br>      [GitHub](https://guides.github.com/pdfs/githubflow-online.pdf) 
+![ Bad example - Committing to master![commit-branch-good.jpg](commit-branch-good.jpg) ](commit-master-bad.jpg)
+![ Great diagram from <br>      [GitHub](https://guides.github.com/pdfs/githubflow-online.pdf) ](github-flow.jpg)
 ### The process
 
-### #assumption​
+### #assumption
 
 
 **Set up build system to deploy from the master branch**
@@ -42,7 +42,7 @@ Since master is always being deployed, it must always be in a deployable state.
 **a) Create a "feature branch" for every PBI**
 
 When starting a PBI from the task board, create a branch from      **master** with a descriptive name for that feature.
-![git branch start-stuff](BadBranchName.png)Figure: Bad example - Branch name is not descriptive![git branch create-basic-web-application](GoodBranchName.png) Figure: Good Example - Branch name describes the intent of the change
+![ Bad example - Branch name is not descriptive![git branch create-basic-web-application](GoodBranchName.png) ](BadBranchName.png)
 **It is critical that this branch always comes off master, not another feature branch. Master is the only branch that is mandated to be in a deployable state, so any other option is unsafe.**
 
 Obviously, we're creating a lot of branches and merging a lot under this strategy - and that's ok.  Be sure to keep your PBIs small (as per [do you break large tasks into smaller tasks](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2e446681-6eff-4cec-b955-e530edc4cdc8)), and you will not have much merge pain.
@@ -54,7 +54,7 @@ The benefit of creating feature branches is to reduce the number of conflicts an
 **c) Create a commit - it will contain your changed files on your local PC **
 
 While working, commit frequently to this branch with nice, descriptive messages. For example, "Added a field to hold the product category to our timesheet read model" and "added a column to the timesheet summary UI for the product category".
-![git commit -m ](BadCommitMessage.png)Figure: Bad Example - Commit message does not describe what was changed![GoodCommitMessage.png](GoodCommitMessage.png)Figure: Good Example - Commit message describes exactly what was changed. 
+![ Bad Example - Commit message does not describe what was changed![GoodCommitMessage.png](GoodCommitMessage.png)](BadCommitMessage.png)
 
 **d) Push your changes to your remote Feature Branch**
 
@@ -78,18 +78,17 @@ Some prefer to move this step to after the merge, especially when using a releas
 
 
 Once everyone is happy and everything is tested, complete the pull request, which will merge back to     ** master**. Ensure you are not using the "Fast Forward" merge option (git), or details about the branch will be lost - it will appear as though all work was done in     **master**. Being able to see the feature branches in the git log is very useful.
-![GoodGitHistory.png](GoodGitHistory.png)Figure: Good Example - Each change is well described, small and in its own feature branch.
+![ Good Example - Each change is well described, small and in its own feature branch.](GoodGitHistory.png)
 After you completed the pull request, make sure you also delete the branch     that you made the pull request of. Deleting your completed branch will not just help yourself in the long run, but also everyone else. Having too many branches especially a stale one will confuse developers on what "may" be in progress, moreover it would cause so much pain to the future developer when they have to do a clean-up and the branch author has left.
 ![bad-figure-stale-branches2.png](bad-figure-stale-branches2.png)
 
 
-        Figure: Bad Example - Lots of stale branches that could cause confusion or potentially take a long time to resolve conflicts when merging​
+        Figure: Bad Example - Lots of stale branches that could cause confusion or potentially take a long time to resolve conflicts when merging
 
 Otherwise, you can do it before you complete the pull request by ticking     delete branch option.
 ![delete branch in devops.png](delete branch in devops.png)
 
-        ​​Figure: Good Example - Automatically delete the branch after the pull<br>        request completion in Azure Devops
-    ​​​​​![github settings.png](github settings.png)        ​​Figure: Good Example - Set the whole project to auto-delete branch after<br>        merging in GitHub
-​ 
-Once merged,      **master** should immediately and automatically be deployed (in a perfect world, to production).
+        Figure: Good Example - Automatically delete the branch after the pull<br>        request completion in Azure Devops
+![ Good Example - Set the whole project to auto-delete branch after<br>        merging in GitHub](github settings.png)        
 
+Once merged,      **master** should immediately and automatically be deployed (in a perfect world, to production).

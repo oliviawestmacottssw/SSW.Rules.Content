@@ -11,8 +11,7 @@ authors:
 
 ---
 
- 
-First of all, understand that IM is distracting so use it judiciously. However, IM is great when an email is unclear or you have an additional question about the email that is stopping you from sending a 'done'. IM is great for reminding people and is excellent to push the important things... especially for people who ignore emails!​
+First of all, understand that IM is distracting so use it judiciously. However, IM is great when an email is unclear or you have an additional question about the email that is stopping you from sending a 'done'. IM is great for reminding people and is excellent to push the important things... especially for people who ignore emails!
  
 
 ### Dealing with external clients 
@@ -33,7 +32,7 @@ When you copy and paste a Skype conversation into an email remember the followin
 
 
 
-Make it readable by snipping out just the important information and CC relevant parties. ([See rule on Snipping for more information​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2a7db667-c3ac-47a1-b258-56c32f18b9e4)).
+Make it readable by snipping out just the important information and CC relevant parties. ([See rule on Snipping for more information](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2a7db667-c3ac-47a1-b258-56c32f18b9e4)).
 
 
 
@@ -44,5 +43,4 @@ If you get an internal IM that should be an email, don't simply convert it into 
 
 "Hi xxx, next time an email would have been less distracting.
 
-For things like this - that are clearly tasks, and require a 'done' - please send an email straight away as per https://rules.ssw.com.au/important-chats-should-be-in-an-email" ​​
-
+For things like this - that are clearly tasks, and require a 'done' - please send an email straight away as per https://rules.ssw.com.au/important-chats-should-be-in-an-email"

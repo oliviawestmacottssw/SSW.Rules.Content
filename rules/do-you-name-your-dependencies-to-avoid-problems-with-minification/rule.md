@@ -9,13 +9,13 @@ authors:
 
 ---
 
- ​Angular uses parameter names to determine which dependencies to inject. When you minify your angular code, the parameter names are changed, so you must name your dependencies to ensure they work correctly. 
+Angular uses parameter names to determine which dependencies to inject. When you minify your angular code, the parameter names are changed, so you must name your dependencies to ensure they work correctly. 
 
 The standard way to inject your dependencies looks a little like the following. We're defining a controller in this case.
 
 
 ```
-phonecatApp.controller('PhoneListCtrl', function ($scope, $http) {...}​
+phonecatApp.controller('PhoneListCtrl', function ($scope, $http) {...}
 ```
 
 Bad Example: This code will break when minified
@@ -35,7 +35,7 @@ You can fix this in two ways. The first one uses the $inject property to identif
 ```
 function PhoneListCtrl($scope, $http) {...}
 PhoneListCtrl.$inject = ['$scope', '$http'];
-phonecatApp.controller('PhoneListCtrl', PhoneListCtrl);​
+phonecatApp.controller('PhoneListCtrl', PhoneListCtrl);
 ```
 
 Good Example: This code names the parameters using the $inject property
@@ -48,14 +48,13 @@ The second and preferred option is to pass an array containing the names, follow
 
 
 ```
-phonecatApp.controller('PhoneListCtrl', ['$scope', '$http', function($scope, $http) {...}]);​
+phonecatApp.controller('PhoneListCtrl', ['$scope', '$http', function($scope, $http) {...}]);
 ```
 
-Better Example: This code names the parameters inline which is a little cleaner​
+Better Example: This code names the parameters inline which is a little cleaner
 
 
 
 
 
-Using this method will ensure you don't run into problems with minification. If you'd like to read more, check out the [Angular tutorial for ​Dependency Injection​](https&#58;//docs.angularjs.org/tutorial/step_05).​​
-
+Using this method will ensure you don't run into problems with minification. If you'd like to read more, check out the [Angular tutorial for Dependency Injection](https&#58;//docs.angularjs.org/tutorial/step_05).

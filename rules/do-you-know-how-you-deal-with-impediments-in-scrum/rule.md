@@ -11,17 +11,16 @@ authors:
 
 ---
 
-
 Exercise – Click Click Scrum
 
 This exercise uses the VS2010 planning poker deck of cards & TFS
-<br>​​ 
+
 # Separate out the cards
 
 Separate out these as Chance Cards
-![Chance Cards](chance-cards.jpg) Figure: Chance cards
+![ Chance cards](chance-cards.jpg) 
 Separate out these as Point Cards
-![Point Cards](point-cards.jpg) Figure: Point cards
+![ Point cards](point-cards.jpg) 
 # Set Timeboxes
 
 **Sprint Planning (What): ** 20 minutes
@@ -79,7 +78,7 @@ Students and PO do a standard Scrum retro for the exercise.
 | **100** | Task blowout |
 | <br><ul>                <li>Double the remaining hours on a task </li><br>            </ul><br>e.g. Multiple field data validation was supported in the application but when it was implemented for this work it failed all validations calls and it took ages to find the    settings in web.config were wrong. |
 | **Cancelled Sprint** | The PO cancels the sprint |
-| <br><ul>                <li>Cancel all tasks</li><br>                <li>Recycle the PBIs ​to the Product Backlog </li><br>            </ul> |
+| <br><ul>                <li>Cancel all tasks</li><br>                <li>Recycle the PBIs to the Product Backlog </li><br>            </ul> |
 | **Team Member <br><br>            Leaves**** ** | The Team is missing a Team Member |
 | <br><ul>                <li>Reduce the hours the team works by 8 hours </li><br>            </ul> |
 | **Scrum Master <br><br>            Leaves**** ** | The Team is missing the  Scrum Master |
@@ -88,5 +87,3 @@ Students and PO do a standard Scrum retro for the exercise.
 | <br><ul>                <li>The team handles the missing PO</li><br>            </ul> |
 | **Stakeholder Interferes**** ** | Stakeholders are contacting the Team to change priorities and requirements |
 | <br><ul>                <li>The team handles the Stakeholders </li><br>            </ul> |
-
-

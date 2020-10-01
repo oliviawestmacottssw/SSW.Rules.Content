@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 In ASP.NET
  Typically, the team will store the code on a source control system such as TFS (Team Foundation Server), check it out to their own local system, develop and test locally then check it back into source control for sharing.
 
@@ -31,5 +30,3 @@ And these should not (or cannot) be version controlled on SharePoint server:
 
 - Low level customizations such as custom web parts should still be developed in VS.NET and stored in TFS.
 - Package files to build solution packages should be stored in TFS.
-
-

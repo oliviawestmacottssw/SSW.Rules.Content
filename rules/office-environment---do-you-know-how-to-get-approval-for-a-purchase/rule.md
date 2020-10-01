@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​​​When you need to spend money, don't assume you will get authorization – make sure you have approval before spending the money.
+When you need to spend money, don't assume you will get authorization – make sure you have approval before spending the money.
  
 Let's have a look at the best way to get authorization:
 
@@ -25,14 +25,10 @@ Let's have a look at the best way to get authorization:
     - If this is for a client, include the Client ID/name
     - If it is for a client, include if it is to be on-charged (E.g. please invoice - add 20%)
 
- ![](purchase-please-bad-example.jpg)  Figure: Bad Example - this expense will not be reimbursed  ![](purchase-please-good-example.jpg)  Figure: Good Example - this expense will be reimbursed, if David gets a reply from Adam
+ ![ Bad Example - this expense will not be reimbursed  ![](purchase-please-good-example.jpg)  ](purchase-please-bad-example.jpg)  
 ### Related Rule 
 
 
 
 
-- [​Do you manage up? (give a recommendation)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ba07b0d2-ccce-4584-a636-f3a5d9bec2cf)
-
-
-
-
+- [Do you manage up? (give a recommendation)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ba07b0d2-ccce-4584-a636-f3a5d9bec2cf)

@@ -7,5 +7,5 @@ index:
 - do-you-save-a-few-gb-by-creating-recovery-partition-on-a-surface
 
 ---
-  Rules to Better Microsoft Surface 
+Rules to Better Microsoft Surface
 

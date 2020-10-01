@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 We love SharePoint designer and use it everyday.
 
 But there are things that it doesn't do naturally, or it does really badly.  Here are some tips on using SharePoint designer well.

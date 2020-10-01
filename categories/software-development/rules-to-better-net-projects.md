@@ -70,10 +70,9 @@ index:
 - do-you-use-tracefail-or-set-assertuienabledtrue-in-your-webconfig
 
 ---
+Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
 
-Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see. ​
-
-If you still need help, visit [ASP.NET MVC Web Application Development​](http&#58;//www.ssw.com.au/ssw/Consulting/WebsiteDevelopment.aspx) and book in a consultant.
+If you still need help, visit [ASP.NET MVC Web Application Development](http&#58;//www.ssw.com.au/ssw/Consulting/WebsiteDevelopment.aspx) and book in a consultant.
 
 [![What others have to say about us](http://www.ssw.com.au/ssw/Images/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx)
 
@@ -86,5 +85,4 @@ If you still need help, visit [ASP.NET MVC Web Application Development​](http
 
    
 Do you agree with them all? Are we missing some? [Let us know](javascript:sendEmail%28&#39;6D61696C746F3A696E666F407373772E636F6D2E61753F5375626A6563743D52756C6573253230746F2532304265747465722532302E4E45542050726F6A65637473&#39;%29) what you think.
-
 

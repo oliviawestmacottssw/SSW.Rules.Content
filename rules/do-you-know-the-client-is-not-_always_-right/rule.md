@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 Clients come to us because of our experience and expertise as software consultants. Many of the problems faced by our clients we have seen, and solved, before. This means that, sometimes, the software consultants know best. But this is a delicate subject. You must be very competent to pull this card from your sleeve. It is easy to not only cause offence but also be plainly wrong. So before you speak make sure you've got the two fundamental aspects of this rule clearly sorted:
 
 1. Knowing when you know best (and knowing when you don't)
@@ -36,4 +35,3 @@ Clients come to us because of our experience and expertise as software consultan
  As soon as you see the clients eyes glaze over, stop, it's likely you're bamboozling with techno-jargon. Rethink your argument and state it again. 
 
  If the point is arguable, once a client says no three times, don't push your luck too much. If you do concede don't forget to send an "[as per our conversation](/do-you-send-＂as-per-our-conversation＂-emails)" email to keep a record of the decision.
-

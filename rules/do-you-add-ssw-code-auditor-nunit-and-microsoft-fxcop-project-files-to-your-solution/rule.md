@@ -32,7 +32,7 @@ To add a [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) 
 
 See [Do you run SSW Code Auditor?](/Pages/AddCAFxCopToSolution.aspx) 
 See [Do you check your code by Code Auditor before check-in?](/Pages/AddCAFxCopToSolution.aspx) 
-To add a [Microsoft Fx](http://www.ssw.com.au/ssw/Standards/DeveloperGeneral/netTools.aspx#FxCop)Copfile to your solution:​
+To add a [Microsoft Fx](http://www.ssw.com.au/ssw/Standards/DeveloperGeneral/netTools.aspx#FxCop)Copfile to your solution:
 1. Stat up **Microsoft FxC**
 2. **op**
 3. Create a **New Project**
@@ -65,5 +65,3 @@ Now you can simply double click these project files to run the corresponding app
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) that implements this rule. |
 | --- |
-
-

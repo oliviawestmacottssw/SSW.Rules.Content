@@ -11,9 +11,9 @@ authors:
 
 ---
 
- You need to know what's in the sales pipeline, and the way to do that is by entering a potential sale and it's value.
+You need to know what's in the sales pipeline, and the way to do that is by entering a potential sale and it's value.
 **
 **
 
 **Note:** In order to enter new Opportunities into CRM, the company the Opportunity belongs to must already exist. 
- ![Change CRM company Logo](Sales-Opportunities.jpg)            Figure: In CRM 2013, click on Sales | Opportunities​![Change CRM company Logo](NewOpportunity.jpg)            Figure: Click New, enter the Opportunity, especially the $ value and the chance of success
+ ![ In CRM 2013, click on Sales | Opportunities![Change CRM company Logo](NewOpportunity.jpg)            ](Sales-Opportunities.jpg)

@@ -11,12 +11,11 @@ authors:
 
 ---
 
+A picture is worth a thousand words; and a video is worth a thousand pictures.
  
-​​​​A picture is worth a thousand words; and a ​video is worth a thousand pictures.
- 
-Clients love Done Videos. Done V​ideos offer transparency, visibility, testing, and early releasing of a feature they might otherwise have to wait weeks or months to see released. The video lets them see the new feature and enables early feedback, which is beneficial to both the developer and the client.
+Clients love Done Videos. Done Videos offer transparency, visibility, testing, and early releasing of a feature they might otherwise have to wait weeks or months to see released. The video lets them see the new feature and enables early feedback, which is beneficial to both the developer and the client.
 
-The best way to demonstrate that a new piece of functionality is working is to record yourself using it successfully. this works as both a demo, as well as a training aid if they need to reference it again later.​​
+The best way to demonstrate that a new piece of functionality is working is to record yourself using it successfully. this works as both a demo, as well as a training aid if they need to reference it again later.
 
  
  Figure: Good example - Record yourself and your  screen
@@ -25,6 +24,4 @@ The best way to demonstrate that a new piece of functionality is working is to r
 ### Related rule
 
 
-- [Do you know how to record a quick and dirty 'Done Video'?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=215be2dd-4a90-4f0f-a5fa-dbed2edca461)
-
-
+- [Do you know how to record a quick and dirty 'Done Video'?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=215be2dd-4a90-4f0f-a5fa-dbed2edca461)

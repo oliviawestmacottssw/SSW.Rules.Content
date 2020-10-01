@@ -9,8 +9,6 @@ authors:
 
 ---
 
- 
 [bad code]
 
 [good code]
- 

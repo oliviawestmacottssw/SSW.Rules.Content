@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Returning a view that is named differently to the action confuses the MVC process and can make the code difficult to maintain.
  
 In cases where data is posted, if you don't do a redirect and the user hits the refresh/reload button in the browser, the data can be is submitted more than once. This can lead to duplicate data being stored in your database.

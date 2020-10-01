@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 Do you let your designers loose on your development SharePoint?
 
 This is how we work:
@@ -40,4 +39,3 @@ Luckily, we always start with a clean-minimal masterpage, which gives our design
 &lt;insert picture&gt;
 
 Figure: Good - clean-minimal masterpage
-

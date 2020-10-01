@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Using Boot to VHD is very similar to dual-booting your machine, except that you do not have to partition your hard drive. It also has performance benefits over using a Hyper-V server for presentations. <br> **Pre-Requisites**
+Using Boot to VHD is very similar to dual-booting your machine, except that you do not have to partition your hard drive. It also has performance benefits over using a Hyper-V server for presentations. <br> **Pre-Requisites**
 
 
 - The presentation computer running Window 7
@@ -31,5 +31,3 @@ bcdedit /set  **osdevice **vhd=[D:]\VM-DEV-SharePoint\_2010\_Public\_Beta.vhd
 bcdedit /set  detecthal on![Each time you run a BCDEdit command it should return ](fig2-addguids.png)
 Figure - Each time you run a BCDEdit command it should return "The operation completed successfully"
 7. Reboot the computer and now you will have the option to choose between Windows 7 and the new Boot to VHD image.
-
-

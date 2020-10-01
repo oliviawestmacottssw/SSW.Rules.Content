@@ -13,12 +13,10 @@ authors:
 
 ---
 
- ![github-pullrequest-bad-2.png](github-pullrequest-bad-2.png)
-Figure: Bad example - Every developer commits to the master branch, code is not reviewed, and code quality is poor![github-pullrequest-bad-2.png](github-pullrequest-bad.png)
+![ Bad example - Every developer commits to the master branch, code is not reviewed, and code quality is poor![github-pullrequest-bad-2.png](github-pullrequest-bad.png)](github-pullrequest-bad-2.png)
 Figure: Bad example - Use the out of the box pull requests to ensure all code is reviewed 
- ​<br>   ​​![github-pullrequest-1.png](github-pullrequest-1.png)
-Figure: Good example - Use the plugin "Reviewable". Reviewable improves pull requests and code reviews with a powerful UI and easy code commenting. ​See the Reviewable icon above ​​![github-pullrequest-2.png](github-pullrequest-2.png)
-Figure: See how easy it is to see the code rejected​
+ ![ Good example - Use the plugin "Reviewable". Reviewable improves pull requests and code reviews with a powerful UI and easy code commenting. See the Reviewable icon above ![github-pullrequest-2.png](github-pullrequest-2.png)](github-pullrequest-1.png)
+Figure: See how easy it is to see the code rejected
 
 
 
@@ -28,6 +26,4 @@ Figure: See how easy it is to see the code rejected​
 
 https://www.visualstudio.com/learn/git-pull-requests/
 https://www.visualstudio.com/en-us/docs/git/pull-requests/
-[https://yangsu.github.io/pull-request-tutorial/​](https://yangsu.github.io/pull-request-tutorial/)
- ​
-
+https://yangsu.github.io/pull-request-tutorial/

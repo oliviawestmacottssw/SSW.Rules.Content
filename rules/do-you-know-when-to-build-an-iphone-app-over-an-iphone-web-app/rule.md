@@ -7,8 +7,7 @@ authors: []
 
 ---
 
- 
-​                     It depends on:
+It depends on:
 
 - Your Budget
 - Usage of native API
@@ -16,4 +15,3 @@ authors: []
 
 
 Note: An iPhone (or WP7) web app without a network  connection, will not load the web page you were on previously.
- 

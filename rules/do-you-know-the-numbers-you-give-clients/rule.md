@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- When working on an hourly basis, you can confuse clients when sometimes you try to talk about a few hours here and a few hours here or there.<br> 
+When working on an hourly basis, you can confuse clients when sometimes you try to talk about a few hours here and a few hours here or there.<br> 
 Simply things and just give them these 3 numbers:
 
 
@@ -36,6 +36,3 @@ Hi Andrew,
     - Have a Planning Meeting at 2pm
 
 <br>        Please let us know if you have any questions or concerns.
-
-
-

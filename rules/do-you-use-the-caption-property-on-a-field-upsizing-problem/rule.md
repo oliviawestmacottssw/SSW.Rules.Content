@@ -9,4 +9,4 @@ authors:
 
 ---
 
- The Caption property is ignored by the Upsizing Tools. The true column name of a field will always be upsized, regardless of what the caption for that field may read.<br> 
+The Caption property is ignored by the Upsizing Tools. The true column name of a field will always be upsized, regardless of what the caption for that field may read.<br>

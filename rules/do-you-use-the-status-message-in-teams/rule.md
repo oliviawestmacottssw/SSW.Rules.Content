@@ -9,26 +9,25 @@ authors:
 
 ---
 
- 
-​The status message is often not used but can be quite helpful. People can instantly see what you are up to when they chat with you. ​​
+The status message is often not used but can be quite helpful. People can instantly see what you are up to when they chat with you.
 
-It tells people 3 things:​
+It tells people 3 things:
 
 - What project you’re working on
 - The people that you need to speak to (they will get the notifications)
-- The location of where you are​
+- The location of where you are
 
- ![teams-status-message.jpg](teams-status-message.jpg)​Figure: When people chat with you, they can see what you’re up to
-### More information​
+ ![ When people chat with you, they can see what you’re up to](teams-status-message.jpg)
+### More information
 
 
-To update the status message, follow these steps:​​​
+To update the status message, follow these steps:
 
 - On the top right, click on your photo
-- Click on the pencil icon to edit the status message​
+- Click on the pencil icon to edit the status message
 
-![edit-teams-status.jpg](edit-teams-status.jpg)Figure: Edit the Teams status message each day
-The status message is helpful when it contains: ​
+![ Edit the Teams status message each day](edit-teams-status.jpg)
+The status message is helpful when it contains:
 
 - **Project:** xxx (the product/project you’re working on) | yyy (the tasks you’re working on)
 - **Need:** xxx (team members that you’re working with – use @mention to tag these members)
@@ -40,9 +39,7 @@ The status message is helpful when it contains: ​
 - For “Clear status message after”, select Never (to prevent Microsoft from deleting the status message)
 - Click Done once complete
 
-![edit-teams-status-2.jpg](edit-teams-status-2.jpg)Figure: Edit the status message​
+![ Edit the status message](edit-teams-status-2.jpg)
 ### Related rule
 
-- [Do you do Daily Scrums (aka stand-up meetings)?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=731a3f5d-a266-4944-876c-a45afa82832f)
-
-
+- [Do you do Daily Scrums (aka stand-up meetings)?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=731a3f5d-a266-4944-876c-a45afa82832f)

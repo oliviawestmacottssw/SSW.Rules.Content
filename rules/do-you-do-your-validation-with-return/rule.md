@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 The return statement can be very useful when used for validation filtering.
 Instead of a deep nested If, use Return to provide a short execution path for conditions which are invalid.
  
@@ -27,10 +26,10 @@ private void AssignRightToLeft()
        RefreshData();
     }
   }
-}​
+}
 Figure: Bad example - using nested if for validation
 
-​
+
 
 private void AssignRightToLeft()
 {
@@ -51,5 +50,4 @@ private void AssignRightToLeft()
   para.MoveRight(paraId);
   RefreshData();
 }
-Figure: Good example - using Return to exit early if invalid ​
-
+Figure: Good example - using Return to exit early if invalid

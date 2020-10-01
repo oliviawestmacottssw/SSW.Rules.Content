@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 As a server product, SharePoint supports lots of configuration, but the support for packaging and deploying changes between servers remains very week.
 
 The experts agree that the best and preferred way to package a set of changes is to build a solution package.  A SharePoint solution package includes all the components and dependent files packed in a cab file.
@@ -23,5 +22,3 @@ There are many reasons why you need to use solution package:
 3. Solution packages are easy to retract
 4. Minimize downtime in the SharePoint production server during an upgrade operation
 5. No content data loss during upgrades - SharePoint backup/restore deployment methods will block users from making changes to the production the site during the upgrade period
-
-

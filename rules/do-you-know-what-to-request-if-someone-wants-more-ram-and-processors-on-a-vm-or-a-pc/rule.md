@@ -11,14 +11,13 @@ authors:
 
 ---
 
- 
-A “Too<br>slow” is not enough info.​​​
-   ​Request<br>an image of the “Resource Monitor”
+A “Too<br>slow” is not enough info.
+ Request<br>an image of the “Resource Monitor”
 Then<br>after you decide there is justification:
 
 •           Do a typical action – take a new<br>image or baseline.
 
-•           give the ​​additional resources e.g. Ram<br>and processors….
+•           give the additional resources e.g. Ram<br>and processors….
 
 •           Do the typical action again – take<br>another image of the “Resource Monitor”
 
@@ -30,10 +29,7 @@ Note:<br>An ideal email subject prefix for more resources would be e.g. “Perfo
 
 
 
-**![](resource_monitor.png)**
-
-**Figure: Use “Resource Monitor”<br>prior to allocating**** more RAM on a VM**
+**![ Use “Resource Monitor”<br>prior to allocating more RAM on a VM](resource_monitor.png)
 
 ![highUtilisation.png](highUtilisation.png)
 **            Figure: If you see something like<br>this, pass their request :-)**
-

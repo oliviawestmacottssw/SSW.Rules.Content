@@ -13,7 +13,6 @@ authors:
 
 ---
 
- 
 To visualize the structure of all your code you need architecture tools that will analyse your whole solution.
 
 They show the dependencies between classes and assemblies in your projects. You have 2 choices:
@@ -21,9 +20,8 @@ They show the dependencies between classes and assemblies in your projects. You 
 - Visual Studio's Dependency Graph. This feature is only available in Visual Studio Ultimate. (recommended)
 - If you want architecture tools for Visual Studio, but don't have Visual Studio Ultimate, then the excellent 3rd party solution nDepend. A bonus is that it can also find issues and highlights them in red for easy discovery
 
-![architecturetools_vs11.png](ArchitectureToolsVS11.png)Figure: Visual Studio lets you generate a dependency graph for your solution![sqldeploy_dependencies.png](DependencyDiagramInVS11.png) Figure: The dependency graph in Visual Studio shows you some interesting information about how projects relate to each other​
+![ Visual Studio lets you generate a dependency graph for your solution![sqldeploy_dependencies.png](DependencyDiagramInVS11.png) ](ArchitectureToolsVS11.png)
 
 nDepend has a similar diagram that is a little messier, but the latest version also includes a "Queries + Rules Explorer" which is another code analysis tool.
-![nDepend.png](nDependDependencyGraph.png)​ Figure: nDepend Dependency Graph. Issues are highlighted in red for easy discovery
+![ nDepend Dependency Graph. Issues are highlighted in red for easy discovery](nDependDependencyGraph.png) 
 Read more about nDepend: [ndepend.com](http://www.ndepend.com/).
-

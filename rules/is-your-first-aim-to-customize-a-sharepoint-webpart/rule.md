@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 You should always try to configure existing out-of-the-box SharePoint webparts before you roll your own.
 <br>The Content Query web part in particular is very flexible – allowing contents from different lists to be presented in different ways. 
 
@@ -57,5 +56,3 @@ public class RelatedContentByQueryWebPart:CustomContentByQueryWebPart{    public
 ```
 
 Good Example: Inherit from CustomContentByQueryWebPart
-
-

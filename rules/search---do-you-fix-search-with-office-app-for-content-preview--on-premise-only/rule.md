@@ -9,4 +9,4 @@ authors:
 
 ---
 
- ​​​​​To make office documents with content​ preview available in search result, you need to setup an Office App server and link it to SharePoint: ​![preview-sharepoint.png](preview-sharepoint.png)​​Figure: Preview Office documents on SharePoint
+To make office documents with content preview available in search result, you need to setup an Office App server and link it to SharePoint: ![ Preview Office documents on SharePoint](preview-sharepoint.png)

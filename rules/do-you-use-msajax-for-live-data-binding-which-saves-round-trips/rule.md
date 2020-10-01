@@ -9,7 +9,7 @@ authors:
 
 ---
 
- In old versions of ASP.NET AJAX the UI control couldn't get notification if the source had been changed. Developers had to write the extra code to refresh the value.
+In old versions of ASP.NET AJAX the UI control couldn't get notification if the source had been changed. Developers had to write the extra code to refresh the value.
 
 <br>In ASP.NET AJAX version 4.0, there is a new feature called "Live Data Binding", which means when there's any change in the data source, the changes are reflected to the data bound interface instantly and vice versa.  <br> **Binding Modes:** 
 
@@ -57,4 +57,4 @@ Figure: When you update the Name, it won't affect the Echo. But if you update Ec
 
 Figure: When you update the Name in the first time, it will affect the Echo. After the first time, it won't affect the Echo.
 
- The live-binding syntax is similar to binding syntax in WPF (XAML).    
+ The live-binding syntax is similar to binding syntax in WPF (XAML).

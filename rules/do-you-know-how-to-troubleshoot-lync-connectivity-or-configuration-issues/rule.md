@@ -9,7 +9,7 @@ authors:
 
 ---
 
- At times especially during the initial implementation, you may encounter some issues with Lync. The following are some of the useful tools which will assist you in identifying where the problem lies.
+At times especially during the initial implementation, you may encounter some issues with Lync. The following are some of the useful tools which will assist you in identifying where the problem lies.
  
 Remote UC Troubleshooting Tool (RUCT) for Lync will show that the DNS records used by the Lync mobility clients to auto-discover the Lync mobility service have been added. This tool can be acquired from [Inside OCS blog](http://insideocs.com/).
 
@@ -19,7 +19,7 @@ Specifically, you now have the option of querying the locally configured DNS ser
 - Lyncdiscoverinternal. (both CNAME or A record)
 - From the same screen, you can ping the resulting hostname or test the port availability on any of the Lync DNS record matches
 
- ![Lync Auto-discovery](lync-auto-discovery.jpg) Figure: Lync Auto-Discovery Mobility DNS record
+ ![ Lync Auto-Discovery Mobility DNS record](lync-auto-discovery.jpg) 
 ### Lync Monitoring Reports
 
 The Monitoring Server collects data from the call detail recording (CDR) and Quality of Experience (QoE) databases and presents that data with the help of the SQL Server Reporting Services and the predefined Monitoring reports. These reports will show statistics which will assist in identifying issues such as network issues such as latency and packet loss.
@@ -27,6 +27,5 @@ The Monitoring Server collects data from the call detail recording (CDR) and Qua
 ### Internet Network connectivity tests
 
 Tools such as VisualRoute 2010 will assist in highlight problems related latency and packet loss.
-![VisualRoute 2010 tool](visualroute-tool.jpg) Figure: VisualRoute 2010 tool showing a test to a Google DNS server
-Read more about implementing [Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).​
-
+![ VisualRoute 2010 tool showing a test to a Google DNS server](visualroute-tool.jpg) 
+Read more about implementing [Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).

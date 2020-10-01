@@ -9,9 +9,9 @@ authors:
 
 ---
 
- Storing all the messages and global strings in one place will make it easy to manage them and to keep the applications in the same style.
+Storing all the messages and global strings in one place will make it easy to manage them and to keep the applications in the same style.
 
- ![Code_StoreMessage.jpg](Code_StoreMessage.jpg) ​Store messages in the Message.resx
+ ![Code_StoreMessage.jpg](Code_StoreMessage.jpg) Store messages in the Message.resx
 Catch(SqlNullValueException sqlex)
 {
 Response.Write("The value cannot be null.");
@@ -27,5 +27,4 @@ Catch(SqlNullValueException sqlex)
 {
 Response.Write(Resources.Messages.SqlValueNotNull); 'Good Code - storing message in resource file. 
 }
-Good Example 
-
+Good Example

@@ -11,9 +11,8 @@ authors:
 
 ---
 
- 
 For modern applications, there are many layers and moving parts that need to seamlessly work together to deliver our application to the end user.
-   ![bottleneck.png](bottleneck.png) Figure: Bottlenecks can happen anywhere! Call out diagrammatically where you think the bottlenecks are happenning
+   ![ Bottlenecks can happen anywhere! Call out diagrammatically where you think the bottlenecks are happenning](bottleneck.png) 
 
 The issues can be in:
 
@@ -57,12 +56,10 @@ The issues can be in:
 
 ### Connection between Web and End users
 
-- Geographic​ally too far (e.g. US servers, AU users)
+- Geographically too far (e.g. US servers, AU users)
 
 
 ### Infrastructure
 
 - Misconfiguration
-- ​Resource contention
-
-
+- Resource contention

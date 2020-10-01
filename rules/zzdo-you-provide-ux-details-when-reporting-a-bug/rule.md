@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​​​The better you describe the problem you had, the more effective will be the solution. 
+The better you describe the problem you had, the more effective will be the solution. 
 Make sure you always explain and give as much details as you can of how you got an error or a bad experience.
 
 Where is TV.SSW on the navigation? 
@@ -41,5 +41,3 @@ Better than a good description of the bug is a screen recording. This should be 
 
 - [Do you know the right way to report bugs?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=1fe85c97-442d-4798-9528-3f5711e8f847)
 - [Report a Bug or Enhancement](http&#58;//www.ssw.com.au/ssw/Standards/Support/bugreportorenhancement.aspx)
-
-

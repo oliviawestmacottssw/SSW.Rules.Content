@@ -11,8 +11,7 @@ authors:
 
 ---
 
- 
-​TODO TIAGO: ADD IMAGE OF WINDOWS EXPLORER (4 files in it) AND ANOTHER WITH SHAREPOINT DOCUMENTS LIBRARY​
+TODO TIAGO: ADD IMAGE OF WINDOWS EXPLORER (4 files in it) AND ANOTHER WITH SHAREPOINT DOCUMENTS LIBRARY
 
 
 
@@ -34,12 +33,12 @@ To do this, you need to remove .url file type from your blocked file types in yo
 **B. Use "Link to a document" content type in SharePoint.**
 
 1) Enable "Content Type management" in your document library.
-![EnableContentTypeDocument.png](EnableContentTypeDocument.png)Figure: Enable Content Type management in library setting
+![ Enable Content Type management in library setting](EnableContentTypeDocument.png)
 2) Add "Link to a Document" content type into the library.
-![AddExistContentType.png](AddExistContentType.png)Figure: Add from existing site content type![SelectLinkToADocumentType.png](SelectLinkToADocumentType.png)Figure: Select "Link to a Document" content type
+![ Add from existing site content type![SelectLinkToADocumentType.png](SelectLinkToADocumentType.png)](AddExistContentType.png)
 3) Create a "Link to a document" instance
-![CreateLinkToADocumentInstance.png](CreateLinkToADocumentInstance.png)Figure: select "File | New Document (dropdown) | Link to a document"![InputLinkUrlAndName.png](InputLinkUrlAndName.png)Figure: Input "Name" and "URL"
+![ select "File | New Document (dropdown) | Link to a document"![InputLinkUrlAndName.png](InputLinkUrlAndName.png)](CreateLinkToADocumentInstance.png)
 4) Done
 
 You should be able to see the link type document in your library:
-![LinksTypeDocumentsWithShortcutIcon.png](LinksTypeDocumentsWithShortcutIcon.png)Figure: Link type documents with the lovely shortcut icon
+![ Link type documents with the lovely shortcut icon](LinksTypeDocumentsWithShortcutIcon.png)

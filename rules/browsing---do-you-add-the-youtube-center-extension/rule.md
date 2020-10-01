@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​​​​​​​[YouTube ​Center](https&#58;//github.com/YePpHa/YouTubeCenter/wiki) ​​​​ contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
+[YouTube Center](https&#58;//github.com/YePpHa/YouTubeCenter/wiki)  contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
  
 Major features for us:
 
@@ -19,5 +18,3 @@ Major features for us:
 - Specify HTML5 or Flash Player
 - Download Youtube Videos in a number of formats (inc. 1080p)
 - Change default player size and resolution
-
-

@@ -9,7 +9,7 @@ authors:
 
 ---
 
- When working on a Time and Materials basis there are two different management arrangements depending on what the client requires.  
+When working on a Time and Materials basis there are two different management arrangements depending on what the client requires.  
 **A. Ad-Hoc Work**
 
 Working on an ad-hoc basis allows tasks to be done as they are requested without any formal approval process. This is a simple approach but provides little in the way of management or accountability. This may be suitable for ongoing work such as application maintenance with longstanding clients OR working under a client manager.
@@ -21,4 +21,3 @@ The ad-hoc work approach should not generally be used for project work where the
 The alternative is to work with a project manager (Scrum Master), specification and Sprint plans. In this approach, a method of project management is applied to provide control on the elements of time, scope, quality and cost.
 
 This method is recommended for any work which is substantial and where the client wants a greater degree of control.
-

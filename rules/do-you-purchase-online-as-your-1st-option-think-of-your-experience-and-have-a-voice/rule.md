@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​​We want a world of great user interfaces so when purchasing online cast a critical eye (or complimentary eye) over your experience. If you see something painful (or cool), then take a screenshot and tweet and share your experience.​
+We want a world of great user interfaces so when purchasing online cast a critical eye (or complimentary eye) over your experience. If you see something painful (or cool), then take a screenshot and tweet and share your experience.
  
 More info on Customer Experience on Adam's blog: [From UX to CX – Improving the Customer Experience](https&#58;//adamcogan.com/2017/11/08/from-ux-to-cx-improving-the-customer-experience/).
 
@@ -19,7 +18,7 @@ More info on Customer Experience on Adam's blog: [From UX to CX – Improving t
 
 
 
-​Figure: Positive shopping tweet
+Figure: Positive shopping tweet
 
 
 
@@ -27,6 +26,4 @@ More info on Customer Experience on Adam's blog: [From UX to CX – Improving t
 
 
 
-​Figure: Negative shopping tweet
-
-
+Figure: Negative shopping tweet

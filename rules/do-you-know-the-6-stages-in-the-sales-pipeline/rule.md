@@ -9,13 +9,12 @@ authors:
 
 ---
 
- 
 Any opportunity that has not yet been converted to a sale will be at one of the following 6 stages:
  
 1. Initial Phone Call
     - The client has made contact but no initial meeting has yet been made
 2. Initial Meeting – Booked
-    - You've arranged an initial meeting and it's booked in​
+    - You've arranged an initial meeting and it's booked in
 3. Follow Up Meeting – Booked
     - In some cases, more than one initial meeting may be required before work or speccing commences
 4. Spec Review Proposal – Waiting for Approval
@@ -27,4 +26,4 @@ Any opportunity that has not yet been converted to a sale will be at one of the 
 
 
 The old Sales Pipeline was 9 steps, whereas this new one is 6 steps.
-![the old sales pipeline](old-sales-pipeline.jpg)Figure: Bad Example – the old sales pipeline![the new sales pipeline](new-sales-pipeline.jpg)Figure: Good Example – the new sales pipeline​
+![ Bad Example – the old sales pipeline![the new sales pipeline](new-sales-pipeline.jpg)](old-sales-pipeline.jpg)

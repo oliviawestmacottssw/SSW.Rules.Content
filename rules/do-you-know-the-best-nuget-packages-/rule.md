@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 The best NuGet packages are:
  
 - Glimpse - [http://getglimpse.com](http&#58;//getglimpse.com/)
@@ -20,4 +19,3 @@ The best NuGet packages are:
 
 
 ### [Todo:] Add a rule for each of these packages
-

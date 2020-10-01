@@ -19,8 +19,6 @@ index:
 - do-your-presentations-promote-online-discussion
 
 ---
-
 Say you are doing a full day of training, you will need to get yourself and your students organized to do a great job.
  Here are some tips and tricks you can use.
-
 

@@ -9,10 +9,7 @@ authors:
 
 ---
 
- 
 [w3dt.net](https&#58;//w3dt.net//) supplies a DNS report tool which can help administrator to troubleshoot DNS issues with domains, name servers, SOA, and other information.                     We need to get all green ticks except for:
  
 - Missing (stealth) nameservers
 - Missing nameservers 2
-
-​  

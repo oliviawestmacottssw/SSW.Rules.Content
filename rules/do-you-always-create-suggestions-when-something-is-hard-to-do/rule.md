@@ -9,10 +9,9 @@ authors:
 
 ---
 
- 
 One of our goals is to make the job of the developer as easy as possible. If you have to write a lot of code for something that you think you should not have to do, you should make a suggestion and add it to the relevant page.
 
-If you have to add a suggestion, make sure that you put the link to that suggestion into the comments of your code.​​
+If you have to add a suggestion, make sure that you put the link to that suggestion into the comments of your code.
  
 /// &lt;summary&gt;
 /// base class for command implementations
@@ -22,10 +21,10 @@ If you have to add a suggestion, make sure that you put the link to that suggest
 public class Command : ICommand
 {
  // code
-}​
-Figure: Bad example - The link to the suggestion should be in the comments​
+}
+Figure: Bad example - The link to the suggestion should be in the comments
 
-​/// &lt;summary&gt;
+/// &lt;summary&gt;
 /// base class for command implementations
 /// This is a work around as standard MVVM commands
 /// are not provided by default. 
@@ -38,6 +37,4 @@ public class Command : ICommand
 {
  // code
 }
-​Figure: Good example - Wh​​en you link to a suggestion everyone can find it and vote it up
-​
-
+Figure: Good example - When you link to a suggestion everyone can find it and vote it up

@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Since we have many ways to use Connection String in .NET 2.0, it is probably that we are using duplicate connection string in web.config. <br> 
+Since we have many ways to use Connection String in .NET 2.0, it is probably that we are using duplicate connection string in web.config. <br> 
 
 ```
 <connectionStrings>   <add name="ConnectionString" connectionString="Server=(local);Database=NorthWind;" /></connectionStrings><appSettings>   <add key="ConnectionString" value="Server=(local);Database=NorthWind;"/></appSettings>
@@ -21,5 +21,3 @@ Bad example - use duplicate connection string in web.config.
 
 | We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule. |
 | --- |
-
-

@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Let's say you press “Send” and get a bounce, e.g. An email in your inbox that reads:
 
 Delivery has failed to these recipients or distribution lists:
@@ -23,4 +22,4 @@ Get the correct email address and ‘Reply to all’ with just this text in brac
   (Resending with Adam’s correct email)
                                 
   ---------------------------------
-  [Original Email] Figure: Good Example - Correct the email address and send again.  
+  [Original Email] Figure: Good Example - Correct the email address and send again.

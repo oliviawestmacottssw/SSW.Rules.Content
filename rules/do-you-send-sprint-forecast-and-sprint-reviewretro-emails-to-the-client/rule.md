@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Each sprint has a "Sprint Forecast" email that details what will be worked on during this sprint.
 
 At the end of the sprint, this should be replied to with a "Sprint Review" email that shows a breakdown of what was completed.
@@ -27,5 +26,3 @@ Each sprint has the following stages:
 3. Review and Retro meetings
     - The Sprint review/retro email: "Northwind Sprint 5 Review/Retro"
     - See [Do you send a Sprint Review/Retro email](/do-you-create-a-sprint-review-retro-email "Do you send a Sprint Review/Retro email") for more details.
-
-

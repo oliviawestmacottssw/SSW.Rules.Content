@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​You should use SET NOCOUNT ON for production and NOCOUNT OFF off for development/debugging purposes (i.e. when you want the rowcounts to display as the messages from your T-SQL).​​
+You should use SET NOCOUNT ON for production and NOCOUNT OFF off for development/debugging purposes (i.e. when you want the rowcounts to display as the messages from your T-SQL).
  
 According to SQL Server Books Online:
 "For stored procedures that contain several statements that do not return much actual data, this can provide a significant performance boost because network traffic is greatly reduced."
@@ -63,5 +62,4 @@ This procedure will display 0 or the error to indicate success or failure. You s
 
 This separates return values from actual data so that other programmers know what to expect.
 
-**Note:** If you are using SQL Server stored procedures to edit or delete data using a SqlDataAdapter, make sure that you do not use SET NOCOUNT ON in the stored procedure definition. This causes the rows affected count returned to be zero, which the DataAdapter interprets as a concurrency conflict. In this event, a DBConcurrencyException will be thrown.​
-
+**Note:** If you are using SQL Server stored procedures to edit or delete data using a SqlDataAdapter, make sure that you do not use SET NOCOUNT ON in the stored procedure definition. This causes the rows affected count returned to be zero, which the DataAdapter interprets as a concurrency conflict. In this event, a DBConcurrencyException will be thrown.

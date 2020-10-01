@@ -11,16 +11,15 @@ authors:
 
 ---
 
- 
-​Ugly URL's don't only make it difficult for users to browse your site, they can also impact your Google rankings.
+Ugly URL's don't only make it difficult for users to browse your site, they can also impact your Google rankings.
 
 http://www.northwind.com/MyInternalDB/UserDatabase/ProductList.aspx?productname=Access
-Figure: If you have a nasty URL like this...​​
+Figure: If you have a nasty URL like this...
 You should fix it up to look more like this:
 
-http://www.northwind.com/products/access​
+http://www.northwind.com/products/access
 
-Figure: Users could even guess the URL​​
+Figure: Users could even guess the URL
 
  
 1. Add in Global.asax a route
@@ -31,6 +30,4 @@ RouteTable.Routes.Add("ProductRoute", new Route("products/{productname}", new Pa
 }
     **Figure: OK example - create a static route if you only have a few rewrites**
 2. Use the URL Rewriting Module for IIS7 
-![IIS7Rewrite.jpg](IIS7Rewrite.jpg)Figure: Good example - An IIS7 Rewrite is much easier to manage
-
-​  
+![ Good example - An IIS7 Rewrite is much easier to manage](IIS7Rewrite.jpg)

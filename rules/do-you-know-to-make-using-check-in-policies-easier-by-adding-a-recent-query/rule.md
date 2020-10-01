@@ -15,12 +15,10 @@ authors:
 
 ---
 
- ![Select A Recent Work Item](SelectARecentWorkItem.jpg)Figure: When you use Check-in policies you often will need to select a work item that you selected recently​
+![ When you use Check-in policies you often will need to select a work item that you selected recently](SelectARecentWorkItem.jpg)
  
 
-Make this easy on yourself by adding a query 'Recent'1. Create a work item query that returns you the last changed work item ![Add a query](AddQuery.jpg)Figure: Add a query just for your associated check ins
+Make this easy on yourself by adding a query 'Recent'1. Create a work item query that returns you the last changed work item ![ Add a query just for your associated check ins](AddQuery.jpg)
 2. Just copy the 'Tasks - My' query
-3. Add the sort date of 'Changed Date' sorted by descending ![Sorted the query by 'Changed Date' ](SortedByChangedDate.jpg)Figure: The query should be sorted by 'Changed Date'
+3. Add the sort date of 'Changed Date' sorted by descending ![ The query should be sorted by 'Changed Date'](SortedByChangedDate.jpg)
 4. Use that query on your check ins and you find the relevant work item easily
-
-

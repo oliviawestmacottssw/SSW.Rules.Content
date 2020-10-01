@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- Summary:  Login  to Jira and clear the issues from the top left of your dashboard usually by answering a question or closing.
+Summary:  Login  to Jira and clear the issues from the top left of your dashboard usually by answering a question or closing.
 
 <br>Jira issues can enter states where it is important that action is taken immediately by either the Reporter or the Assignee.  These actions are always quick to do but keep others informed and keep the workflow going. <br> 
  Any issues that require your immediate attention appear at the top of the left-hand column (see screenshot later) of your dashboard.  Following this rule will ensure that the Reporter always knows the status, priority and plan for the issue resolution and the Assignee is never help up by the Reporter; this empowers you to "work efficiently on the right things in a visible way".
@@ -27,7 +27,7 @@ authors: []
 
  NOTE: Most people will only have Reporter actions to perform. [Understand more about Reporters and Assignees](/Pages/ReportesAndAssignees.aspx) 
 
-![](Urgent.png) **Figure: Your dashbo​ard is your Home Page when you ****[login like this](/Pages/HowdoIsignintoJira.aspx)****and clearly shows the issues that need your immediate attention 
+![ Your dashboard is your Home Page when you [login like this](/Pages/HowdoIsignintoJira.aspx)and clearly shows the issues that need your immediate attention ](Urgent.png) 
 **
  For guidance on dealing with issues check out our other rules:
 

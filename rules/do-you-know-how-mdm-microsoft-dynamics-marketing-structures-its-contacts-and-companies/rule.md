@@ -9,10 +9,9 @@ authors:
 
 ---
 
- 
 Microsoft Dynamics Marketing organizes contacts and companies with four different categories, each with a different intended purpose: clients, vendors, staff, and marketing.
  
-**​C​​lients**
+**Clients**
 
 Clients are those contacts and companies you do marketing work for. A client can be an external organization or an internal contact in another department.
 
@@ -29,4 +28,3 @@ All users created in Office 365 are added to MDM as a Staff contact. Staff typic
 **Marketing**
 
 The majority of most MDM contacts, Marketing contacts and companies are those the marketing department markets to. Typically they are added to campaigns and segmented with marketing lists based on a variety of attributes. Marketing contacts are not available for use with all functions. For example, a marketing contact cannot be specified as the “From” contact when sending an email marketing message.
-

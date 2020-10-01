@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 There is a great quote by Wyatt Wood small which says:
 
 
@@ -26,5 +25,3 @@ Think about the last visit you made to your doctor. Why did you trust the doctor
 The same is true for effective marketing. If your advertising describes your prospect’s pain points so well that they identify with your message, they will click the ad, join the webinar or buy your product – or do what your Call-To-Action (CTA) says. And that’s why they will be perfect for targeting your audience.
 
 Spend some time to understand your target’s pain points and use them in your advertising to get their attention and try to convert them with your CTA’s.
-
-

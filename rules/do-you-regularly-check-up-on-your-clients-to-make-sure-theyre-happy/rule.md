@@ -11,8 +11,6 @@ authors:
 
 ---
 
+It's important for Account Managers to stay involved with client projects past the                  sales stage and into the implementation stage. The best way to do this is to call                  them once every 2 months or so once the project gets going, just to guage their                  overall satisfaction and happiness.
  
-​It's important for Account Managers to stay involved with client projects past the                  sales stage and into the implementation stage. The best way to do this is to call                  them once every 2 months or so once the project gets going, just to guage their                  overall satisfaction and happiness.
- 
-The best way is to set yourself reminders to do this ​using [FollowUpT​hen](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=aa8c8dd3-1cd7-414c-b13e-d1a225e05ef0).
-
+The best way is to set yourself reminders to do this using [FollowUpThen](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=aa8c8dd3-1cd7-414c-b13e-d1a225e05ef0).

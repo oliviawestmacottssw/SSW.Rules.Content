@@ -9,7 +9,7 @@ authors:
 
 ---
 
- When designing your Bot, you will very likely leverage some Bot Frameworks or AI Services to take care of the Natural Language Processing (NLP) so that you can focus on implementing your business logic.
+When designing your Bot, you will very likely leverage some Bot Frameworks or AI Services to take care of the Natural Language Processing (NLP) so that you can focus on implementing your business logic.
 To host your business logic, it is common to use serverless applications such as [Azure Function](https&#58;//azure.microsoft.com/en-au/services/functions/), [Google Firebase](https&#58;//firebase.google.com/) or [Amazon Web Service Lambda Functions](https&#58;//aws.amazon.com/lambda/). Serverless applications come with amazing scaling abilities and simplified programming models, but they also suffer from at least one well-known side-effect that is commonly referred to as **Cold Starts**.  
  
 
@@ -17,10 +17,10 @@ Here are some recommended solutions to eliminate Cold Starts:
  
 **Microsoft Azure Functions**
 
-- ​Add warm-up request
+- Add warm-up request
 
 
-Use a timer trigger function to keep the Azure Functions application warm. If you know that at a certain time of a day the Function App is likely to be cold and so you wake it up just before you expect users to send out requests. ​​
+Use a timer trigger function to keep the Azure Functions application warm. If you know that at a certain time of a day the Function App is likely to be cold and so you wake it up just before you expect users to send out requests.
 
 - Move to App Service Plan
 
@@ -35,7 +35,7 @@ Use a timer trigger function to keep the Azure Functions application warm. If yo
 **Firebase Functions on Google Cloud Platform**
 
 - In Node.js code, export all the functions your want to deploy to cloud functions. And import / require dependencies inside the function. So that each function call will only load the dependency it needs instead of loading all dependencies in the index.ts file.
-- ​Warm up request - Create a separate function that works on a timer. The function can run at some time interval that you know your app will not be cold.
+- Warm up request - Create a separate function that works on a timer. The function can run at some time interval that you know your app will not be cold.
 - If cold starts are unbearable, convert to other infrastructure such as App Engine .
 
  
@@ -52,5 +52,3 @@ Use a timer trigger function to keep the Azure Functions application warm. If yo
 
             2.1 Warm-up calls will potentially keep all your containers busy and a real customer request could not find a place to run
             2.2 A Lambda function in one container can catch all calls at once and this can make other containers down after a while
-
-

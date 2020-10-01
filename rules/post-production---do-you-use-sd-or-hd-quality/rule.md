@@ -9,7 +9,7 @@ authors:
 
 ---
 
- There are a myriad of video formats and codecs that exist for all project types. It’s important for your project to use the correct format depending on what it is you are doing and what you want to achieve with your video.
+There are a myriad of video formats and codecs that exist for all project types. It’s important for your project to use the correct format depending on what it is you are doing and what you want to achieve with your video.
 
  
 Most, if not all, modern video cameras sold today record at HD resolution. Many now record full HD (1080p) which allows you to get even greater detail. Also, modern compression types allow you to ‘squeeze’ the large amounts of data that would normally take up gigabytes of storage right down to something that can be streamed over the web, without too much loss of fidelity.
@@ -25,5 +25,3 @@ Because of the ease of recording and compressing down HD video, it seems like a 
 - In the Audio tab, under Bitrate Settings, select a Bitrate of 192kbps
 - Save this pre-set and give it an appropriate name.
 - Lastly, click on the "Queue" tab at the bottom of the window to send your project to Adobe Encoder.
-
-

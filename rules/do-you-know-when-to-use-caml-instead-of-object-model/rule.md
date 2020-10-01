@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 SharePoint utilizes CAML to do a lot of things - one of these is using CAML to define a query language to select elements from lists within SharePoint.
 
 The development experience with CAML is not good.  CAML is unforgiving when it comes to errors, but it doesn't tell you what's wrong.  Thus earning it a bad name with SharePoint developers.  People don't like CAML.
@@ -34,5 +33,3 @@ And you use CAML, whether in CQWP or in code with SPSiteDataQuery to:
 
 - Select, filter elements from SharePoint lists
 - Select elements from multiple lists
-
-

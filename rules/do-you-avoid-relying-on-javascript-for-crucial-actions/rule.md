@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Don't assume JavaScript is always enabled.
 
 JavaScript should be used to enhance the overall user experience and not as a dependency.
@@ -20,5 +19,3 @@ Depending on your audience you may choose to disregard this rule, but for mainst
 
 
 **Note: **This rule can be applied to any other third-party technology, such as Flash or Java. If it's not built into every web browser/device or if it can be disabled, then make sure the page is still accessible and usable without it.
-
-

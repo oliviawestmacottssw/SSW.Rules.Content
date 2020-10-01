@@ -13,8 +13,7 @@ authors:
 
 ---
 
- 
-​We know that the way your inbound links are worded does make a difference, they play an important factor when Google searches are made by search engine users. Google uses the words between your &lt;a href&gt; tags to decide which websites are the most relevant to the search terms.
+We know that the way your inbound links are worded does make a difference, they play an important factor when Google searches are made by search engine users. Google uses the words between your &lt;a href&gt; tags to decide which websites are the most relevant to the search terms.
 
 Having these relevant words on links also gives a more friendly experience to the users.
    For example, if SSW had a million inbound links that described the site like this...  
@@ -30,12 +29,10 @@ Figure: Bad Example #1 - Link does not increase your rankings
 "For tips and tricks to increase your Google Ranking        read this"
 Figure: Bad Example #3 - Link does not increase your rankings
 "For tips and tricks to increase your Google Ranking Click Here"
-Figure: Bad Example #4 - <br>      Link title does not increase your rankings​ (scroll and hold over link to see it)
+Figure: Bad Example #4 - <br>      Link title does not increase your rankings (scroll and hold over link to see it)
 "For tips and tricks to increase your Google Ranking go to https://rules.ssw.com.au/rules-to-better-google-rankings"
-Figure: Bad Example #5 - <br>      Link is the whole​ URL
+Figure: Bad Example #5 - <br>      Link is the whole URL
 "For tips and tricks to increase your Google Rankings go to our Rules to Better Google Rankings"
 Figure: Good Example - Descriptive link
 
 This rule also has relevance for [easier website navigation](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=313838ef-4179-493e-8b76-34acc6a20615).
-
-

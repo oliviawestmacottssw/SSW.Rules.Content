@@ -9,7 +9,7 @@ authors:
 
 ---
 
- In Scrum, it's important to flesh out the details of a PBI when it makes sense to do so.
+In Scrum, it's important to flesh out the details of a PBI when it makes sense to do so.
 
 
 
@@ -20,14 +20,10 @@ You should estimate your PBIs as soon as you can, but you don't need to break al
 
 However, before starting work on a sprint you should always break the PBIs in that sprint into estimated tasks.
 
-​
+
 
  
-Team Foundation Server uses the remaining hours assigned to Tasks to calculate the burndown.  ​By breaking the PBIs down into tasks with estimates, your burndown will start looking correct right from the first day of the sprint.
+Team Foundation Server uses the remaining hours assigned to Tasks to calculate the burndown.  By breaking the PBIs down into tasks with estimates, your burndown will start looking correct right from the first day of the sprint.
 
-![burndown_bad_example.png](burndown_bad_example.png)
-Figure: Bad Example - The tasks weren't estimated at the start of the sprint
-![burndown_good_example.png](burndown_good_example.png)
-Figure: Good Example - The tasks were estimated from day one
-​
-
+![ Bad Example - The tasks weren't estimated at the start of the sprint](burndown_bad_example.png)
+![ Good Example - The tasks were estimated from day one](burndown_good_example.png)

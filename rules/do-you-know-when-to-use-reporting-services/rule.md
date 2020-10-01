@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- Like any solution, Reporting Services has its pros and cons. From our experience, we have discovered these things about Reporting Services: Cons
+Like any solution, Reporting Services has its pros and cons. From our experience, we have discovered these things about Reporting Services: Cons
 
 - Parameters - you are forced to use built-in controls
 - Query string - when you change the parameters and refresh a report, the values do not appear directly in the query string, making it hard to copy/paste URLs
@@ -29,5 +29,4 @@ So in conclusion, if you will only ever need 1 report, go with ASP.NET - it is e
 For a more detailed comparison between reporting solutions, take a look at our [Guidelines for Report Solutions - Web Clients](http://www.ssw.com.au/ssw/Standards/DeveloperDotNet/guidelinesforreportingwebclient.aspx).
 
 
-![RSRulesUseRS1.gif](RSRulesUseRS1.gif)Figure: Reporting Services has built-in support for PDF/XLS export and can be embedded in your ASP.NET pages
-
+![ Reporting Services has built-in support for PDF/XLS export and can be embedded in your ASP.NET pages](RSRulesUseRS1.gif)

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 When sending a standardized follow-up email after an out-bound call, you should always try to tailor your email to each client.
 
 If you don't then the client will ignore your email.
@@ -17,9 +16,9 @@ If you don't then the client will ignore your email.
 These are the 5 things that you should include in your follow-up email:
 
  
-1. ​Record what was said in the conversation including:
+1. Record what was said in the conversation including:
     - the projects they are working on
-    - their priorities​
+    - their priorities
     - the technologies they are interested in
 2. When you will call them back
 3. Other relevant answers to questions in the script you are using.
@@ -29,7 +28,7 @@ These are the 5 things that you should include in your follow-up email:
 
 
 
-​All this information is important as it gives the next salesperson who speaks to this person a good background on your interaction with them.
+All this information is important as it gives the next salesperson who speaks to this person a good background on your interaction with them.
 
 **To Marlon,**
 
@@ -55,6 +54,4 @@ I will contact you in 1 month and we will discuss how things are going and your 
 I have also included information on our seminars below just in case anyone was interested.
 
 Feel free to contact me for more information.
-Good Example: the next time you call you will be able to 'remember' plenty of details <br>   
-
-
+Good Example: the next time you call you will be able to 'remember' plenty of details <br>

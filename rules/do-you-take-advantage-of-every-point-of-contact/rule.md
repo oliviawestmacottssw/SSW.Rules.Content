@@ -9,10 +9,9 @@ authors:
 
 ---
 
- 
 Every point of contact that you have with your customers is a potential to sell them something, whether that be other products or services or even to sell the company as a whole by saying how great we are.
  
-​Here are some examples of how we take advantage of every point of contact with our target market:
+Here are some examples of how we take advantage of every point of contact with our target market:
 
 - At SSW we send a tech breakfast flyer with the invoices that we send via snail mail
 - We give out SSW bags and flyers at our User Group
@@ -21,5 +20,4 @@ Every point of contact that you have with your customers is a potential to sell 
 - When we present at other events our slides are branded with the SSW logo
 
 
-We think that it's the little things like this that may make the difference!​
-
+We think that it's the little things like this that may make the difference!

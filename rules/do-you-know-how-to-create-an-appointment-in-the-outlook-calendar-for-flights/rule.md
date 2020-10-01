@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 - When creating the appointment, make sure to invite any relevant parties even though they may not be flying
 e.g. the Boss's wife would like to know when he is flying out and coming home.
 - Enter all of the flight details into the appointment - include both the departure time (for the person flying) and the arrival time (for the people picking up the passenger)
@@ -21,6 +20,4 @@ As per our conversation, you are flying via Melbourne, because xxx...
 - **Do not forget to categorize the appointment as CONFIRMED RED so it cannot be overlooked.**
 - When possible, always include the terminal number in the Location feild and if a non standard terminal eg. Jetstar flights highlight it with a warning 
 Eg. WARNING: Different terminal. Allow more time
-- Include the duration of the flight in the message of the appointment.​
-
- 
+- Include the duration of the flight in the message of the appointment.

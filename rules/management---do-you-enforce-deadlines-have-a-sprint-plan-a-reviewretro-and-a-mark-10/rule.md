@@ -9,13 +9,13 @@ authors:
 
 ---
 
- Developers love doing things in their own time, investigating interesting things they find on the web, and therefore they're generally easily distracted. If they don't have a Sprint Plan constantly in front of them, they'll never deliver on time! For every project you must have 4 essential things: <br>
+Developers love doing things in their own time, investigating interesting things they find on the web, and therefore they're generally easily distracted. If they don't have a Sprint Plan constantly in front of them, they'll never deliver on time! For every project you must have 4 essential things: <br>
  
 1. Enforce Deadlines - Every week (usually Tuesday) the developer has a sprint review meeting with the client to discuss the status of project. 
 <br>    Note: If you can't have a meeting, a phone call must make do.
 2. Have a Sprint Plan
 3. A Sprint Review and Retro when the release is done.
-4. A mark /10 - from the client.  ​
+4. A mark /10 - from the client.  
 <br>
 
 
@@ -28,4 +28,3 @@ A better idea is to figure out 'why are things are going right?', and work out h
 you should look at how the project was run. Was the solution high-quality because your developer is a faster coder, or good at following your coding standards? Or was his professional conduct due to lots of customer interaction and polite and clear communication?
 
 Of course, if in your retrospective, if you find that the client is unhappy due to bad conduct, scope creep, or poor quality code, you need to check that your standards are being followed to ensure a positive experience in the next debriefing.
-

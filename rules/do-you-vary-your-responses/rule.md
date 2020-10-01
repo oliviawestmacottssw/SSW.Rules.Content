@@ -9,6 +9,5 @@ authors:
 
 ---
 
- People don’t act like robots and answer the same way all the time. Neither should bots!  All you need is a few different welcome messages and use a rand() function.
- ​​​![bots-responses.jpg](bots-responses.jpg)Figure: Good examples - Different welcome messages​​
-
+People don’t act like robots and answer the same way all the time. Neither should bots!  All you need is a few different welcome messages and use a rand() function.
+ ![ Good examples - Different welcome messages](bots-responses.jpg)

@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​​Treat clients the same way you would treat a prospective partner - that is, with lots of TLC. Think about your first conversation with a nice girl/guy. You have two approaches you could try. <br>
+Treat clients the same way you would treat a prospective partner - that is, with lots of TLC. Think about your first conversation with a nice girl/guy. You have two approaches you could try. <br>
  
 The first kind of approach is where you try and seal the whole deal in one go:
 
@@ -21,7 +21,7 @@ The likely response would be:
 
 The second and more appropriate approach would be to ask something like:
 
-​"Would you like to have coffee together?"
+"Would you like to have coffee together?"
 
 You have a greater chance that your prospective partner will say:
 
@@ -41,6 +41,4 @@ Thanks for this initial meeting. There are two options to consider for the next 
 1) We could do detailed Specification Review, which is a commitment of 5 days with 2 developers, or
 2) We could do brief Specification Review, which is a smaller commitment of 2 days with 2 developers
 
- Figure: Good Example - a client is more likely to appreciate this approach, they get a choice + they are given an option of proceeding with a small project. There are prospects of continuing the relationship based on how well the previous project goes  
-
-
+ Figure: Good Example - a client is more likely to appreciate this approach, they get a choice + they are given an option of proceeding with a small project. There are prospects of continuing the relationship based on how well the previous project goes

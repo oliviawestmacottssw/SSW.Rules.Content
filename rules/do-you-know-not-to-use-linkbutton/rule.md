@@ -9,8 +9,8 @@ authors:
 
 ---
 
- If we want to refresh and data bind the same page from client side, we can use the javascript function calls "\_\_doPostBack". We shouldn't fire this post back in LinkButton. Otherwise, there will be an error.
- ![RightClickLink.gif](RightClickLink.gif)Figure: Right click the link with \_\_doPostBack event  ​![PostBack.gif](PostBack.gif)Figure: New window with incorrect URL
+If we want to refresh and data bind the same page from client side, we can use the javascript function calls "\_\_doPostBack". We shouldn't fire this post back in LinkButton. Otherwise, there will be an error.
+ ![ Right click the link with \_\_doPostBack event  ![PostBack.gif](PostBack.gif)](RightClickLink.gif)
 ASPX:
 
  
@@ -45,12 +45,9 @@ protected void mUpdatePanel\_Load(object sender, EventArgs e)
  gvList.DataBind();
  }
 }
- Sample Code​​​ 
-​​​[Refresh](javascript:__doPostBack%28'mUpdatePanel',''%29;)
- Bad Code​ 
+ Sample Code 
+[Refresh](javascript:__doPostBack%28'mUpdatePanel',''%29;)
+ Bad Code 
 
- Good Code​ 
-We have a program called [SSW Code Auditor](https://www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.​
-
-​
-
+ Good Code 
+We have a program called [SSW Code Auditor](https://www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.

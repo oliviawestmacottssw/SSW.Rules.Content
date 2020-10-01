@@ -8,5 +8,5 @@ index:
 - does-your-navigation-device-support-touch
 
 ---
-  Rules to Better Cars 
+Rules to Better Cars
 

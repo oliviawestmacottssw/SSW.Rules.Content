@@ -9,6 +9,5 @@ authors:
 
 ---
 
- 
-Look for inline SQL​ to see whether you can replace it with Linq to Entities.
- ![Speed camera](speed-camera.jpg) Figure: SQL Injection for Speed Cameras :-)
+Look for inline SQL to see whether you can replace it with Linq to Entities.
+ ![ SQL Injection for Speed Cameras :-)](speed-camera.jpg)

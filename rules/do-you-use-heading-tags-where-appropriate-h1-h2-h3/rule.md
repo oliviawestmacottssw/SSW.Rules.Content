@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 You should  understand the hierarchy and try to use the heading tags (&lt;H1&gt;, &lt;H2&gt; or &lt;H3&gt;...) for titles and subtitles.
 
 It's also important to customize these headings via CSS, making the font bigger, bold or in a different color. This way page looks nice and organized.
@@ -27,16 +26,14 @@ The following benefits of using heading tags:
 
 
 &lt;p&gt;&lt;span class="Heading"&gt;Introduction&lt;/span&gt;        
-&lt;br&gt;Lets chatter about...&lt;/p&gt;​
-​​​Figure: Bad example​​ - ​**using span tags and CSS classes to put headings in**
+&lt;br&gt;Lets chatter about...&lt;/p&gt;
+Figure: Bad example - **using span tags and CSS classes to put headings in**
 
 
 
 &lt;h2&gt;Introduction&lt;/h2&gt;
-​​Figure: Good example - using heading styles​
+Figure: Good example - using heading styles
 
 ### Related Rules
 
-- ​[Do you make your "title", "h1", and "h2" tags descriptive?​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d40446f8-8f5f-4a4a-a231-faace7124d7a)​
-
-
+- [Do you make your "title", "h1", and "h2" tags descriptive?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=d40446f8-8f5f-4a4a-a231-faace7124d7a)

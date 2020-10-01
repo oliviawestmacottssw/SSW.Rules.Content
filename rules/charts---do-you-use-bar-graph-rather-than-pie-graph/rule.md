@@ -7,8 +7,6 @@ authors: []
 
 ---
 
- 
-
 > **Line graph**
 > Line graphs are used to track changes over short  and long periods of time. When smaller changes exist, line graphs are  better to use than bar graphs. Line graphs can also be used to compare  changes over the same period of time for more than one group.
 > 
@@ -23,4 +21,4 @@ authors: []
 This is a fancy way of saying use the right graph for  the right purpose. Pie graphs fulfill a specific requirement, unlike a  bar graph which is more multi-purpose.
  
 Pie graphs are used to show the general composition of an element. It's good for seeing at a glance what section is dominating, but it doesn't handle details very well.
-![Bad Label](../../assets/PieGraph.gif) Figure: Bad Example - This Pie Graph is too complicated and difficult to understand.![Good Label](../../assets/PieGraph-Good.jpg) Figure: Good Example - This Pie Graph has been simplified and it is easy to see at a glance that Nike sold the most sneakers this month compared to others.![Good Label](../../assets/BarGraph.gif) Figure: Good Example - This Bar Graph data hasn't even been processed but it's still readable.
+![ Bad Example - This Pie Graph is too complicated and difficult to understand.![Good Label](../../assets/PieGraph-Good.jpg) ](../../assets/PieGraph.gif)

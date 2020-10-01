@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​To help with automation you can use the MAC address of your mobile device to match when it joins the company wifi. This allows you to:
+To help with automation you can use the MAC address of your mobile device to match when it joins the company wifi. This allows you to:
 
 - Automatically log when you come in or out (See [Do you know the best way to see if someone is in the office?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=1f63c01f-cad4-4f24-bc3c-9f870112b6fa) ) <br>
 - Announce your presence to the rest of the office
@@ -23,7 +22,7 @@ Here is how to find your MAC address:
 
 
  
-​​iPhone
+iPhone
 
 1. Open the **Settings** app
 2. Navigate to **General | About**
@@ -38,7 +37,7 @@ Here is how to find your MAC address:
 2. Tap **About Phone**
 3. Tap **Status/Hardware information**
 4. Scroll down to see your** ****WiFi/MAC address
-![android-mac-address.jpg](android-mac-address.jpg)​
+![android-mac-address.jpg](android-mac-address.jpg)
 **
 
 
@@ -46,7 +45,4 @@ Here is how to find your MAC address:
 
 1. From the Windows Phone home screen, swipe left to reveal more icons. Then, scroll down and tap** ****Settings**
 2. Scroll down and tap **About**
-3. In the **About**** **screen, tap** M****ore info​**
-
-
-
+3. In the **About**** **screen, tap** M****ore info**

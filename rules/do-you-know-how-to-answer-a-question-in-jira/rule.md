@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- On receiving an email from Jira with "Questioned" in the subject or seeing a questioned task in your dashboard,  you should open the task ..... ​ 
+On receiving an email from Jira with "Questioned" in the subject or seeing a questioned task in your dashboard,  you should open the task .....  
 You can open the relevant task in two ways:
 
 - selecting it from your [System Dashboard](/Pages/HowdoIansweraquestioninJira.aspx) (Home in Jira) where it will appear in the left column, see [rules page on dashboard](/Pages/SystemDashboard.aspx)
@@ -30,4 +30,3 @@ Otherwise, if it is still required, select Answer and complete the fields as sho
 Once you have completed all required fields and pressed the Answer button, the task will be saved and put back on the Assignee's "New" queue.
 
 You can see how this is part of the [workflow](/Pages/workflow.aspx).
-

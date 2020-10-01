@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 Snapshots are a very easy way to back up a system before a big change is made. They can also be easily restored if something goes wrong during the change.
 
 1. In the **Hyper-V Manager**, ensure the Virtual Machine has the state of **Off**
@@ -18,4 +17,3 @@ Snapshots are a very easy way to back up a system before a big change is made. T
 
 ![You will see the snapshots associated with a Virtual Machine when you click on them](snapshot-while-off.jpg)**
 **You will see the snapshots associated with a Virtual Machine when you click on them**
-

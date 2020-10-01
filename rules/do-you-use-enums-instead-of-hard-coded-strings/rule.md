@@ -9,7 +9,5 @@ authors:
 
 ---
 
- 
 Use Enums instead of hard-coded strings, it makes your code lot **cleaner** and is **really easy to manage**.
-  ![EnumBadExample.jpg](EnumBadExample.jpg)Figure: Bad example - "Hard- coded string" works, but is a bad idea![EnumGoodExample.jpg](EnumGoodExample.jpg)Figure: Good example - Used Enums, looks good and is easy to manage
-
+  ![ Bad example - "Hard- coded string" works, but is a bad idea![EnumGoodExample.jpg](EnumGoodExample.jpg)](EnumBadExample.jpg)

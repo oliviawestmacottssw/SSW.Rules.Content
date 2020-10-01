@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Sometimes the prospect is not ready at the end of the initial meeting to engage you for a spec review or ad-hoc work. Even if this is the case, it's really important you leave the meeting with a crystal clear future about the next stage and when that will be. Every prospect needs an intelligently scheduled follow-up activity.
  
 So, at the end, ask the prospect:
@@ -27,5 +26,4 @@ So, at the end, ask the prospect:
 <br>                      "Cool, Do you want to send the appointment or should I?"<br>                                           Figure: Good example: Asking them lots of questions and setting a specific time and date for the next meeting (or phone call)<br>                    
 This will ensure that the follow up meeting or phone call gets a much better chance of                      happening... Basically the prospect sets this up and will feel a certain indirect obligation.
 
-The other way to schedule a follow up is using ​[Followupthen](/do-you-follow-up-emails-effectively).
-
+The other way to schedule a follow up is using [Followupthen](/do-you-follow-up-emails-effectively).

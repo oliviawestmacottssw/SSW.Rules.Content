@@ -7,10 +7,9 @@ authors: []
 
 ---
 
- 
 1. When we see a door, we immediately know that we can open it and go through it
 2. Links in blue and underlined has an affordance of clickability
 3. Buttons can be pressed
 4. Scrollbar moves the document in the window
 
-   ​![False affordance](../../assets/Bad-Affordance2.jpg)Figure: Bad Example - The affordance of the checkbox makes this UI misleading![False affordance](../../assets/Bad-FalseAffordance.jpg)Figure: Bad Example - If this mop sink didn't look so much like a urinal and wasn't right next to the toilet, maybe the sign wouldn't be necessary.![False affordance](../../assets/Bad-Affordance3.jpg)Figure: Bad Example – It might not have been a good idea to place a male policeman where the exhaust pipe is.![False affordance](../../assets/Bad-Affordance.jpg)Figure: Bad Example - Old MS Word - Because of the UI, people never knew they could use styles e.g. normal, H1, H2![](../../assets/Good-Affordance.jpg)Figure: Good Example - New MS Word - Because of the new ribbon UI, people intuitively know how to use styles
+ ![ Bad Example - The affordance of the checkbox makes this UI misleading![False affordance](../../assets/Bad-FalseAffordance.jpg)](../../assets/Bad-Affordance2.jpg)

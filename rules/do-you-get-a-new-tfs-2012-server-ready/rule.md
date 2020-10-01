@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 1. Prepare a new image. We recommend running **Windows 2008 R2 Server x64 **using Hyper-V Manager. Your options are:
     1. Manually build a server
     2. Use a syspreped image (this will be quicker)
@@ -22,5 +21,3 @@ authors:
     2. Install (but don't configure) **SQL Server 2012 Analysis Services**
 4. You'll also need a SQL Server instance for the TFS databases if you don't already have one
     1. Install **SQL Server 2012 x64** default configuration
-
- 

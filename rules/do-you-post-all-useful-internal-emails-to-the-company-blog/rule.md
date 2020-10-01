@@ -11,9 +11,7 @@ authors:
 
 ---
 
- Most companies have intelligent people who make some relevant and useful points for the greater community or industry, while writing internal emails. Those emails should be published to the company blog for the following reasons:<br> 
+Most companies have intelligent people who make some relevant and useful points for the greater community or industry, while writing internal emails. Those emails should be published to the company blog for the following reasons:<br> 
 1. It provides great content for Google to index
 2. It raises the profile of your company around the topics discussed
 3. It shows the industry that you have intelligent and forward thinking staff
-
-

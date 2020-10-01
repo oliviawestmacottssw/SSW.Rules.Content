@@ -9,7 +9,7 @@ authors:
 
 ---
 
- After a new Service Pack is released for a product (for example, Exchange 2010 Service Pack 1), users and management can get very excited about new features that the Service Pack will bring that will help them out, or fix problems that they had been having with the product.<br>
+After a new Service Pack is released for a product (for example, Exchange 2010 Service Pack 1), users and management can get very excited about new features that the Service Pack will bring that will help them out, or fix problems that they had been having with the product.<br>
 
 
 
@@ -49,6 +49,3 @@ After the 4 week period has expired perform the following tasks before installin
 
 
 Following this rule should prevent disaster in the event that a Service Pack is troublesome.
-
-
-

@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 Mock-ups are very powerful tools to communicate requirements with clients, however it could be very time consuming and costing to create a good looking mock-up. Also, we don't want to "create and throw" our mock-ups, they should be picked up by developers and add features on top of them once the client approves the work. 
 
  Using Expression + SketchFlow, you can:
@@ -19,7 +18,5 @@ Mock-ups are very powerful tools to communicate requirements with clients, howev
 - Collect feedbacks from clients,
 - Use them in development process directly (as they are real Sliverlight and WPF solution files)
 
-![](sketchflow.jpg) ​
-Figure: Expression + SketchFlow
+![ Expression + SketchFlow](sketchflow.jpg) 
 Read [Do you conduct specification analysis by creating mock-ups?](/Pages/SpecificationByMockUp.aspx) to learn more about other mock-up types.
-

@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 This is one of the most common workflows that every company needs.
 
 Companies have employees who make purchase requests, then business rules get fired, then you wait for approval.
@@ -24,10 +23,9 @@ Choices:- **TFS 2012** (too hard)
 - **SharePoint 2013** (recommended)
 SharePoint doesn't have an out of the box solution. To configure it, have the purchase requests go into SharePoint lists and then the workflow service that runs on the server (using WF3 under the covers) can have business rules added.
 - **CRM 2011**
- CRM also needs an out of the box solution. You can have requests go into as CRM Entities and there is a workflow service that runs on the server, using WF3 under the covers.​
+ CRM also needs an out of the box solution. You can have requests go into as CRM Entities and there is a workflow service that runs on the server, using WF3 under the covers.
 - **JIRA**
  Jira supports workflows and approvals, like SharePoint, but it is not .NET
 
 
 **Suggestion to Microsoft:** Please provide an out of the box solution for CRM and SharePoint, so we don't have to configure this for each client.
-

@@ -15,9 +15,9 @@ authors:
 
 ---
 
- ​Note: If you did not finish working:
+Note: If you did not finish working:
 
 - TFS put changes into shelveset
 - SVN put changes into sandbox / branches
 
-<br>Note: Another way to do this is to enable gated check-in and prevent check-ins that do not have build and tests passed.  
+<br>Note: Another way to do this is to enable gated check-in and prevent check-ins that do not have build and tests passed.

@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 The way you present information to prospective clients determines its effectiveness.        In a cluttered environment we skilfully organize information for the greatest impact.        When advertising software we like to use the following standard.
  
 1. **First Sentence (aka Tag Line)**
@@ -33,5 +32,4 @@ The way you present information to prospective clients determines its effectiven
 
 
 
-![Organize your product information](../../assets/ScreenCodeAuditor.jpg) Figure: How to organize your product information.
-
+![ How to organize your product information.](../../assets/ScreenCodeAuditor.jpg)

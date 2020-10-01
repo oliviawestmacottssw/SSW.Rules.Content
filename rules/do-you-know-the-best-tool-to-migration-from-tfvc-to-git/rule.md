@@ -13,7 +13,7 @@ authors:
 
 ---
 
- Git has become the defacto standard for version control systems. It's distributed and decentralized and promotes working disconnected as default. It also takes away the pain of branching and merging and has a built in code review system with pull requests. Everybody should be using Git, and if you're not, you should be migrating the Git using one of the below tools.
+Git has become the defacto standard for version control systems. It's distributed and decentralized and promotes working disconnected as default. It also takes away the pain of branching and merging and has a built in code review system with pull requests. Everybody should be using Git, and if you're not, you should be migrating the Git using one of the below tools.
 
 
 - VisualStudio.com - Import Repository
@@ -67,10 +67,4 @@ To see how to use this to migrate see ["Migrate an existing project from TFS to 
 
 
 Follow the [migration guide](https://github.com/git-tfs/git-tfs/blob/master/doc/usecases/migrate_tfs_to_git.md) to import from TFVC to Git and then proceed with [the after migration steps](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d9e40f73-f7e8-4ff3-aedf-800df2941564).
-To help you do a smoother migration, you can refer to this [tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d754182b-a385-4d9e-9c99-c0f83204e6a4). 
-
-
-
-
-
-
+To help you do a smoother migration, you can refer to this [tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d754182b-a385-4d9e-9c99-c0f83204e6a4).

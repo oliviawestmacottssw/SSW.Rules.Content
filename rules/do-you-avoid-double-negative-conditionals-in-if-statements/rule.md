@@ -9,20 +9,19 @@ authors:
 
 ---
 
- 
 Try to avoid Double-Negative Conditionals in if-statements. Double negative conditionals are difficult to read because developers have to evaluate what is positive state of two negatives. So always try to make a single positive when you write if-statement.
  
-​if (!IsValid)
+if (!IsValid)
 {
  // handle no error
 }
 else
 {
  // handle error
-}​
+}
 
 
-Figure: Bad e​xample​
+Figure: Bad example
 
 if (IsValid)
 {
@@ -34,10 +33,10 @@ else
 }
 
 
-Figure: Good example​
+Figure: Good example
 
 if (!IsValid)
 {
  // handle error
 }
-​Figure: Another good example​
+Figure: Another good example

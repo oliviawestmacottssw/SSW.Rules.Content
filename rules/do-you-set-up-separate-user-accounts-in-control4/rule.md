@@ -11,8 +11,7 @@ authors:
 
 ---
 
- 
-​Some companies incorrectly share a user account and many people use it. This is easy initially but creates problems later on.
+Some companies incorrectly share a user account and many people use it. This is easy initially but creates problems later on.
  
 Each user should use their own account. If users share a single account, and you need to remove their access, you would then have to change the password and inform all other users.
 
@@ -20,7 +19,4 @@ If everyone is using an individual account, it is as simple as disabling (or del
 
 
 
-​![ManageUser.png](ManageUser.png)
-
-**Figure: Use the Customer Portal to add accounts for all users**
-
+![ Use the Customer Portal to add accounts for all users](ManageUser.png)

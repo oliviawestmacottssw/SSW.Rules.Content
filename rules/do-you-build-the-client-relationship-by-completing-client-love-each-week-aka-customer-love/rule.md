@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- Being a good developer is not enough. There are multiple factors that can affect whether a project proceeds in a positive or a negative way. One factor that can have a significant impact on a project is the relationship between the developer and the client.  
+Being a good developer is not enough. There are multiple factors that can affect whether a project proceeds in a positive or a negative way. One factor that can have a significant impact on a project is the relationship between the developer and the client.  
 A great way of taking a small step each week is to do something on a more personal basis for the client.
 
 Each week give some love to your client. "Client Love", as I have seen, varies a lot. Here are some things I have seen:
@@ -29,4 +29,3 @@ Tasks should be completed whilst on client work. Once client work is completed, 
 Extra Reading: For some, the above comes naturally. For the rest of us, we highly recommend the book "How to Win Friends and Influence People" written by Dale Carnegie. It is an easy read, the principles are easy to implement and will not only change your client relationships but enhance all the relationships in your life for the better.
 ![](LoveClientsImage.jpg) 
 See [Rules to Successful Sales Account Management](/do-you-review-your-team-are-giving-＂client-love＂-to-your-customer-every-friday)
-

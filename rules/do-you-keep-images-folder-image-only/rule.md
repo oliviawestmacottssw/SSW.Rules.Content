@@ -11,11 +11,9 @@ authors:
 
 ---
 
- We want to keep clear and simple file structure in our solution. Never put any files other than images file in \images folder.<br> ![Image bad link](OnlyImageBad.gif) Bad example - HTML file in \Images Folder.![Image good link](OnlyImageGood.gif) Good example - Images only, clean \Images folder.
+We want to keep clear and simple file structure in our solution. Never put any files other than images file in \images folder.<br> ![Image bad link](OnlyImageBad.gif) Bad example - HTML file in \Images Folder.![Image good link](OnlyImageGood.gif) Good example - Images only, clean \Images folder.
 
 
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule. |
 | --- |
-
-

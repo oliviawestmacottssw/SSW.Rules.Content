@@ -7,10 +7,8 @@ authors: []
 
 ---
 
- 
 Basically every phone number should have +country code because then when you are in another country you can dial anyone without knowing the special numbers to go international.
  
-​![](../../assets/Bad.gif) Bad: (503) 629-4000
+![](../../assets/Bad.gif) Bad: (503) 629-4000
 
 ![](../../assets/Good.gif) Good: +1 (503) 629-4000
-

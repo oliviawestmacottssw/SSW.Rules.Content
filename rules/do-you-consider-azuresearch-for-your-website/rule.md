@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 AzureSearch is designed to work with Azure based data and runs on ElasticSearch. It is still NEW as of today (27/4/2015) and doesn't expose all the advanced search features. You may resist to choose it as your search engine from the missing features and what seems to be an expensive monthly fee ($250 as of today). If this is the case, follow this rule:
 
 **Consider AzureSearch if your website**:
@@ -37,11 +36,10 @@ Keep in mind that 1) hosting of a full-text search service costs you labour to s
  
 
 
-​ ​​​
 
-​​​​![Untitled2.png](9c0754_Untitled2.png)
+
+![Untitled2.png](9c0754_Untitled2.png)
  Figure: Good Example - Azure website using AzureSearch for what it can deliver today 
 
 
-​​​​![Untitled.png](Untitled.png)
-Figure: Bad Example - Azure website using ElasticSearch for a simple search that AzureSearch can do
+![ Bad Example - Azure website using ElasticSearch for a simple search that AzureSearch can do](Untitled.png)

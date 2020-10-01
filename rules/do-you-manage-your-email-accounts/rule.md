@@ -11,6 +11,4 @@ authors:
 
 ---
 
- 
 When we have to use a local Email account, make sure we always CC our internal account on every email we send.
- 

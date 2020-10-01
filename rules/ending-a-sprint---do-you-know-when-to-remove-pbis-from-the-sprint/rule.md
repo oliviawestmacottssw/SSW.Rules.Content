@@ -13,7 +13,6 @@ authors:
 
 ---
 
- 
 There are two reasons that a PBI can be removed from the sprint.
  
 1. Your team notices that they can’t get everything done, and agree with the Product Owner to remove the PBI.
@@ -26,7 +25,4 @@ There are a few reasons a team can find themselves in a position where they can'
 2. PBIs were blocked by other PBIs
 
 
-In all cases, when a PBI is removed from the backlog, it moves back to the top of the backlog and any unfinished tasks left in the sprint are closed.  When the Product Owner next grooms the backlog, or during the next Planning Meeting, he may decide to prioritise the PBI ​high enough to make the next Sprint, but he may not.
-
-
-
+In all cases, when a PBI is removed from the backlog, it moves back to the top of the backlog and any unfinished tasks left in the sprint are closed.  When the Product Owner next grooms the backlog, or during the next Planning Meeting, he may decide to prioritise the PBI high enough to make the next Sprint, but he may not.

@@ -34,5 +34,4 @@ SharePoint as a platform on top of ASP.NET gives you many components that you do
 <br>    SharePoint search can index Office documents as well as other popular document formats like PDF.
 <br>    Search engines like Google performs well for public content, but there is no way for the search crawler to index inside your organization. SharePoint uses its own internal crawler to keep your site’s content up to date in the search results.
 
-<br>In ASP.NET - this is often overlooked – most ASP.NET search facilities are limited to only specific kind of data: e.g. *search clients with the ID of SSW* 
-
+<br>In ASP.NET - this is often overlooked – most ASP.NET search facilities are limited to only specific kind of data: e.g. *search clients with the ID of SSW*

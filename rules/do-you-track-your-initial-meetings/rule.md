@@ -9,7 +9,7 @@ authors:
 
 ---
 
- When creating an appointment email for an initial meeting, make sure you include the words "**initial**" and "**meeting**" on the subject. 
+When creating an appointment email for an initial meeting, make sure you include the words "**initial**" and "**meeting**" on the subject. 
 
 Subject: Northwind project with SSW and Bob
 
@@ -18,10 +18,9 @@ Subject: Northwind project with SSW and Bob
 Subject: Initial meeting with SSW and Bob from Northwind
 Subject: Initial phone meeting with SSW and Bob from Northwind
 
-Figure: Good subjects - Make clear it is an initial meeting by having both words​ 
+Figure: Good subjects - Make clear it is an initial meeting by having both words 
 
 
  
 The idea behind it is that Power BI can then track and show this.
-![initial-meeting-graph.jpg](initial-meeting-graph.jpg)Figure: It's clear to see that there is no yellow in the past couple of months, which may indicate work drying up for Stephen's area
-
+![ It's clear to see that there is no yellow in the past couple of months, which may indicate work drying up for Stephen's area](initial-meeting-graph.jpg)

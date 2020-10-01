@@ -11,6 +11,5 @@ authors:
 
 ---
 
- Use the VSTS Branch Policies feature. This is a super sexy feature.
- ![protect-branch-bad.jpg](protect-branch-bad.jpg)Figure: Bad example – no protection – anyone can make unreviewed changes![protect-branch-good.jpg](protect-branch-good.jpg)Figure: Good example – the branch protected ​
-
+Use the VSTS Branch Policies feature. This is a super sexy feature.
+ ![ Bad example – no protection – anyone can make unreviewed changes![protect-branch-good.jpg](protect-branch-good.jpg)](protect-branch-bad.jpg)

@@ -9,7 +9,7 @@ authors:
 
 ---
 
- When MS releases a new service pack, or new Windows update, we install these to the master image and create a new version of the Sysprep image for future VMs.  
+When MS releases a new service pack, or new Windows update, we install these to the master image and create a new version of the Sysprep image for future VMs.  
 1. Update SQL Server service packs
 2. Update Windows Server 2003 service packs
 3. Update Windows
@@ -30,5 +30,3 @@ To create a new VM:
 8. This will generalize the computer's settings and shut it down
 9. Don't start up the VM again - or it'll run the start up scripts
 10. Zz old copies of the master.vhd and sysprep.vhd
-
-

@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​On the computer that you want to setup the VPN:<br>
+On the computer that you want to setup the VPN:<br>
  
 1. Go to Start | Control Panel 
 ![](SetupStep2.jpg)
@@ -32,4 +32,3 @@ Figure 1 - Click on "View network status and tasks"  3.
 15. Click OK on all of the open dialogs | Double click on the new VPN 
  16.You will notice your username and password is missing – retype these into the VPN connection 
  17. Press Connect and your VPN should dial and connect
-

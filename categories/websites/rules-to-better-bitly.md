@@ -9,5 +9,5 @@ index:
 - do-you-link-your-social-accounts-to-bitly
 
 ---
-  Rules To Better bit.ly 
+Rules To Better bit.ly
 

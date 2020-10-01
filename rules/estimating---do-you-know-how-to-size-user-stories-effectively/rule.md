@@ -15,14 +15,13 @@ authors:
 
 ---
 
- 
-​​A team knows how many stories they can commit to by measuring their velocity. The Team estimates the highest priority stories in the Product Backlog in Story Points. ​It is very important for teams to estimate tasks effectively. There are several methods for estimating:
+A team knows how many stories they can commit to by measuring their velocity. The Team estimates the highest priority stories in the Product Backlog in Story Points. It is very important for teams to estimate tasks effectively. There are several methods for estimating:
 
 - Shirt Sizes
 - Fibonacci Extended (1-100)
 - Fibonacci Original (1-21)
 - Doubling
-- Thr​own
+- Thrown
 
 
 Let's go through them:
@@ -38,21 +37,21 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 > 8 = L
 > 16 = XL
 > 32 = XXL
-> 64 = XXXL​
+> 64 = XXXL
 > 
-> **​Please note: **In some teams which only use Small, Medium and Large the following numbering is applyed respectively​ 2, 4 and 8.​​
+> **Please note: **In some teams which only use Small, Medium and Large the following numbering is applyed respectively 2, 4 and 8.
 
- ![](size-stories-bad-example.jpg) Figure: Bad example - Estimation using T-Shirt sizes
+ ![ Bad example - Estimation using T-Shirt sizes](size-stories-bad-example.jpg) 
 ### Fibonacci Extended (1-100)
 
 Planning Poker is a very effective Product Backlog estimation technique and the most common method is using Fibonacci numbers (1,2,3,5,8,13, etc.). This was made popular by Mike Cohn.
- ![](size-stories-ok-example.jpg) Figure: OK example - Estimation using Planning Poker with large numbers
+ ![ OK example - Estimation using Planning Poker with large numbers](size-stories-ok-example.jpg) 
 ### Fibonacci (1-21)
 
 Mike Cohn introduced changes to the original 7 cards, by changing the 21 to 20 and adding 40 and 100 to indicate very large user stories called Epics.
 
 Ken Schwaber (the father of Scrum) says in his Scrum Certification course, that he is not a fan of the extra cards and says he prefers teams keep to the original 7 cards.
- ![](size-stories-good-example.jpg) Figure: OK example - Estimation using Planning Poker with only small numbers
+ ![ OK example - Estimation using Planning Poker with only small numbers](size-stories-good-example.jpg) 
 ### Doubling
 
 Estimating using doubling numbers makes relative sizing simple. An 8 point PBI should be about twice the size as a 4-point PBI. This method also simplifies PBI swapping where a PBI is replaced with PBIs totaling the same number of points.
@@ -66,7 +65,7 @@ It has one other advantage over the Fibonacci sequence, it is easier for non-tec
 8
 16
 32
-64​
+64
 Figure: Good example -Doubling simplifies relative sizing
 ### Thrown
 
@@ -75,7 +74,7 @@ Another method of estimating is the "Thrown method" as described Martin Fowler. 
 This is particularly useful if you don't have Planning Poker cards.  Instead of Fibonacci numbers, estimates are from 1 to 5.  It's nice and simple, and you only need the fingers on your hand.
 
 The action is done in the same method as the game 'Rock, Paper, Scissors'. The options the developer can estimate is 1,2,3,4,5
- ![](fist-method.jpg) Figure: User Story estimates using the "Thrown method"
+ ![ User Story estimates using the "Thrown method"](fist-method.jpg) 
 ### Other Tips
 
 
@@ -118,5 +117,3 @@ As some stories can be obviously very small, we allow any member of the Team to 
 ### Related rule
 
 - [Do you estimate “Business Value”?](/Pages/Estimate-Business-Value.aspx)
-
-

@@ -11,9 +11,9 @@ authors:
 
 ---
 
- The following steps will help to guide efforts to implement a performance improvement. The key is to only make a small change with each iteration and run a performance test to ensure that change resulted in an improvement.
+The following steps will help to guide efforts to implement a performance improvement. The key is to only make a small change with each iteration and run a performance test to ensure that change resulted in an improvement.
  
-​
+
 
 1. Establish a performance target (goal posts)
 2. Build an automated performance test
@@ -35,14 +35,10 @@ For **bonus points** when you're ready to deploy to production:
 
 
 
-​Working against a baseline and having a defined target will ensure that you are not prematurely or over optimizing your process.
+Working against a baseline and having a defined target will ensure that you are not prematurely or over optimizing your process.
 
-### Related rule​​s​
+### Related rules
 
 
-- [Do you avoid reviewing performance without metrics?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ce49995e-7a6e-47fb-9463-2cdf1ac3395e)
+- [Do you avoid reviewing performance without metrics?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ce49995e-7a6e-47fb-9463-2cdf1ac3395e)
 - [Do you have tests for Performance?](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterUnitTests.aspx#Performance)
-
-
-​
-

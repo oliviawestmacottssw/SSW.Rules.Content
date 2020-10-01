@@ -15,10 +15,8 @@ authors:
 
 ---
 
- 
-​​The findings of the Spec Review should be presented at a meeting with the key decision makers of the project for review and acceptance, generally in the form of a PowerPoint presentation, or sometimes a word doc. It is important that all the required people are in a room together to review the plan.
- ![It's a lot easier to get a signature when you've got the right people in the room](ProjectManagement_DecisionMakers_Small.jpg)
-Figure: It's a lot easier to get a signature when you've got the right people in the room 
+The findings of the Spec Review should be presented at a meeting with the key decision makers of the project for review and acceptance, generally in the form of a PowerPoint presentation, or sometimes a word doc. It is important that all the required people are in a room together to review the plan.
+ ![ It's a lot easier to get a signature when you've got the right people in the room ](ProjectManagement_DecisionMakers_Small.jpg)
 If you've run the Spec Review successfully the client should not be surprised by anything you present. This means discussions should focus on issues such as what particular requirements could be added into the scope for the MVP, or what releases can be completed by what date, rather than spending the meeting helping the client regain consciousness after they blacked out from seeing the price.
 
 The Spec Review presentation should be scheduled by the Consultant or Account Manager for the afternoon of the final day of the Spec Review.
@@ -36,17 +34,16 @@ The Spec Review presentation should be scheduled by the Consultant or Account Ma
 ### What does the client get at the conclusion of the Spec Review? <br>   
  
 
-- **Option A** - Email (if they want to minimize documentation time), or​
+- **Option A** - Email (if they want to minimize documentation time), or
 - **Option B** - Word document (if they need to get approval from someone higher up), or
 - **Option C **- PowerPoint presentation (if they are the decision maker, and they don't want a doc)
-- **Option D **- Video of PowerPoint presentation with narrations **exported to a video** (the best option to gather more feedback, you can even gather public feedback E.g. PointBank https://sswconsulting.github.io/PointBank/).​
-Make sure to name your video according to the rules on [How to Include Version Numbers in Your File](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d2f51289-6130-4f59-864f-7b41329000cd), and add a version number to it by following the rule on How to Use a Version Number on Your Videos. Publish your video to YouTube afterwards so you can easily share it with colleagues and clients. ​
+- **Option D **- Video of PowerPoint presentation with narrations **exported to a video** (the best option to gather more feedback, you can even gather public feedback E.g. PointBank https://sswconsulting.github.io/PointBank/).
+Make sure to name your video according to the rules on [How to Include Version Numbers in Your File](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d2f51289-6130-4f59-864f-7b41329000cd), and add a version number to it by following the rule on How to Use a Version Number on Your Videos. Publish your video to YouTube afterwards so you can easily share it with colleagues and clients.
 
-![3-01-2014 10-13-04 PM.png](3-01-2014 10-13-04 PM.png)Figure: Good example - Export your PowerPoint presentation as a video
+![ Good example - Export your PowerPoint presentation as a video](3-01-2014 10-13-04 PM.png)
 
 ### Video Examples <br>   
 
-Good Example: FireBootCamp - Scrum Commitments Specification VideoGood Example: FireBootCamp - SugarLearning Specification Video​
+Good Example: FireBootCamp - Scrum Commitments Specification VideoGood Example: FireBootCamp - SugarLearning Specification Video
 Good Example: FireBootCamp - TimePro Invoicing Specification VideoGood Example: FireBootCamp - Code Auditor Specification Video
 Once again, the presentation needs to pass a '[test please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28 "Test Please")' from another senior employee before the meeting takes place.
-

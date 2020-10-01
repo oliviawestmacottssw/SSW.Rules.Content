@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Figure: Watch the URL working as a navigation aid
+Figure: Watch the URL working as a navigation aid
 MVC gives us great URLs, but you need to help users navigate via the URL.  If the user changes a URL, and the route parameters no longer match, you should correct them with a redirect.
  
 
@@ -43,4 +43,3 @@ http://tv.ssw.com/3102/business-valueGood example: If the "business-value" part
 http://stackoverflow.com/questions/729921/settimeout-or-setinterval
 
 Figure: Good example - If the "settimeout-or-setinterval" part of th eURL changes, the page will redirect to the correct location.
-

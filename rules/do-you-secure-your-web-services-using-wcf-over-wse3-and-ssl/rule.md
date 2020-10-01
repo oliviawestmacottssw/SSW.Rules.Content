@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 <br>Windows Communication Foundation (WCF) extends .NET Framework to enable building secure, reliable & interoperable Web Services.
 <br>WCF demonstrated interoperability with using the Web Services Security (WSS) including UsernameToken over SSL, UsernameToken for X509 Certificate and X509 Mutual Certificate profiles. <br> 
 WSE has been outdated and replaced by WCF and has provided its own set of attributes that can be plugged into any Web Service application.

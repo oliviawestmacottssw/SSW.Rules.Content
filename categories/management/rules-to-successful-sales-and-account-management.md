@@ -49,15 +49,11 @@ index:
 - scheduling---do-you-know-how-to-book-developers-for-a-project
 
 ---
-
-
-
 You can have the best developers in the world, but if you haven't got a good sales process, no-one will ever use them. It's up to the Sales Manager to get this right.
 
 Once you've got the job, software projects are delicate activities and the client needs love. It's up to the Account Managers to keep everyone on the same page, especially if there is no Scrum Master.
 
-The Account Manager is responsible for invoicing, resource management (booking developers) and conflict resolution. Here are SSW's rules for better Sales and Account Management.​​
+The Account Manager is responsible for invoicing, resource management (booking developers) and conflict resolution. Here are SSW's rules for better Sales and Account Management.
 
 Do you agree with them all? Are we missing some? Email us your tips, thoughts or arguments. Let us know what you think.
-
 

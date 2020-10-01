@@ -11,8 +11,7 @@ authors:
 
 ---
 
- 
-​A good catch and re-throw will make life easier while debugging, a bad catch and re-throw will ruin the exception's stack trace and make debugging difficult.
+A good catch and re-throw will make life easier while debugging, a bad catch and re-throw will ruin the exception's stack trace and make debugging difficult.
  
 
 ```
@@ -52,4 +51,3 @@ catch (SomeException ex)
 
 Good Example - Good code
 We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule.
-

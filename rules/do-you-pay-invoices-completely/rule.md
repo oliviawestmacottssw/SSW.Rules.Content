@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 If you negotiate with a supplier in relation to an invoice, do you ensure the invoice is reissued?
 
 It is not always common but sometimes you will negotiate a change in the agreed price once an invoice has been issued by a supplier. This might be because there was a change or defect in the good or service provided and a lesser amount is agreed or an agreement that a certain amount of the invoice will be paid later when the rest of the product or service is delivered.
@@ -24,5 +23,3 @@ Figure: Bad example
 
 “Dear Jim, Please reissue the invoice or provide a credit note for the now agreed correct amount."
 Figure: Good example
-
-

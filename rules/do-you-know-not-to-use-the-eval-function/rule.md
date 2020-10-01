@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 The Javascript command "eval" evaluates the content of a text string and then runs it as Javascript code. It's common to see it around, however "eval" is one of the most inefficient constructs that JavaScript has. There are always more efficient ways to code and get a direct reference.
  
 Most of people that use "eval" want part of a variable name to be variable.

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-  Additionally to the reasons found on rule [Do you always deploy Release builds to production](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2e8cdcb8-70e6-4fbe-b255-4d81b8b74125), there are more reasons doing this with ASP.NET
+Additionally to the reasons found on rule [Do you always deploy Release builds to production](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2e8cdcb8-70e6-4fbe-b255-4d81b8b74125), there are more reasons doing this with ASP.NET
 
     - ASP.NET conducts a batch compilation on "release builds", which means it tries to compile all files in the current folder into one DLL
     - No resource caching is performed on debug build assemblies, which means that each request/response for a resource is not cached
@@ -17,12 +17,10 @@ authors:
 According to [MSDN web developer tips](https&#58;//blogs.msdn.microsoft.com/), you can choose one of the following to release build your web application
 
     - In web.config file, set &lt;compilation debug="false"/&gt;
-    - Disable the &lt;compilation debug="true"/&gt; switch for all ASP.NET applications on the server by setting the following in Machine.config​
+    - Disable the &lt;compilation debug="true"/&gt; switch for all ASP.NET applications on the server by setting the following in Machine.config
 
  
-​&lt;system.web&gt; &lt;deployment retail="true"/&gt; &lt;/system.web&gt;
-​​​The setting in machine.config will also turn off trace output in a page and detailed error messages remotely
+&lt;system.web&gt; &lt;deployment retail="true"/&gt; &lt;/system.web&gt;
+The setting in machine.config will also turn off trace output in a page and detailed error messages remotely
 
-​Machine.config file is typically located at %SystemRoot%\Microsoft.NET\Framework\%VersionNumber%\CONFIG.​​
-
-
+Machine.config file is typically located at %SystemRoot%\Microsoft.NET\Framework\%VersionNumber%\CONFIG.

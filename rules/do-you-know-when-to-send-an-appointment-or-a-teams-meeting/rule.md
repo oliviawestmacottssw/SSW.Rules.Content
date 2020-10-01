@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Sending appointments from Teams feels less natural than from Outlook but there are some great benefits:
 
 - Appointment -  You don’t need to remember everyone’s name - The whole team is invited
@@ -30,22 +29,20 @@ Sending appointments from Teams feels less natural than from Outlook but there a
 **Important:** Although the meeting app works great to organize Teamwork such as Scrum meetings or other client meetings, it is not very suitable for more global events such as a retreat or a conference. At SSW we use Microsoft Outlook appointments in those instances.
 
 
-![teams meeting - invitation link.jpg](team meeting - bad example.jpg)
-​​Figure: Bad Example - This appointment was created using Outlook using Zoom - the team members needed to be added to the appointment individually and there are too many options on how to join the meeting.
+![ Bad Example - This appointment was created using Outlook using Zoom - the team members needed to be added to the appointment individually and there are too many options on how to join the meeting.](team meeting - bad example.jpg)
 
 
-![teams meeting - invitation link.jpg](team meetings - appointment from teams.jpg)​​Figure: Good Example - I know this appointment was created in Microsoft Teams since it was created on behalf of the team (see sender) and at the bottom it has a link so that people can click and join the correct meeting (even without Teams installed)
+![ Good Example - I know this appointment was created in Microsoft Teams since it was created on behalf of the team (see sender) and at the bottom it has a link so that people can click and join the correct meeting (even without Teams installed)](team meetings - appointment from teams.jpg)
  
 ### How to make a Teams Meeting
 
 
 To setup a Teams meeting, simply navigate to "Calendar" and then either "Meet Now" or "New Meeting".
-![creating-new-meeting.jpg](creating-new-meeting.jpg)​Figure: Creating a new meeting ![meetings-options.jpg](meetings-options.jpg)Figure: Meeting options
+![ Creating a new meeting ![meetings-options.jpg](meetings-options.jpg)](creating-new-meeting.jpg)
 You can select a Channel to meet in and by doing so, members of the Team in which this channel lives will see a Channel activity that you can click to directly jump in the meeting.
-![meeting-channel-activity.jpg](meeting-channel-activity.jpg)​ Figure: meeting channel activity
-Microsoft Teams will also send out an email invitation email for the meeting - this is especially useful when inviting people outside your organization.​
+![ meeting channel activity](meeting-channel-activity.jpg) 
+Microsoft Teams will also send out an email invitation email for the meeting - this is especially useful when inviting people outside your organization.
 
-### Related rule​
+### Related rule
 
-[- \[​Do you make your team meetings easy to find?​\](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8b74eb19-4dad-492b-a3b1-d1ad07371551)​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8b74eb19-4dad-492b-a3b1-d1ad07371551)
-
+[- \[Do you make your team meetings easy to find?\](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8b74eb19-4dad-492b-a3b1-d1ad07371551)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8b74eb19-4dad-492b-a3b1-d1ad07371551)

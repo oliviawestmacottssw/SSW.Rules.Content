@@ -11,7 +11,7 @@ authors:
 
 ---
 
- In v1.0 and v1.1 of .NET framework when serializing DateTime values with the XmlSerializer, the local time zone of machine would always been appended. And when deserializing on the receiving machine, DateTime values would be automatically adjusted based on time zone offset relative to the sender time zone. See below example:<br> 
+In v1.0 and v1.1 of .NET framework when serializing DateTime values with the XmlSerializer, the local time zone of machine would always been appended. And when deserializing on the receiving machine, DateTime values would be automatically adjusted based on time zone offset relative to the sender time zone. See below example:<br> 
 
 
 ```
@@ -41,4 +41,3 @@ Datetime unspecifiedTime = DateTime.SpecifyKind(DateTime.Now,DateTimeKind.Unspec
 **Figure: front end code in .NET v2.0 (front end time zone: GTM+8)**
 
 In this way, the server end will always get a datetime value of 14/01/2006 11:00:00 without GTM offset and return what front end expects
-

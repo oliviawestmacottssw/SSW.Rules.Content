@@ -11,12 +11,12 @@ authors:
 
 ---
 
- ​​​​​Watch Adam Cogan explaining why you should use "Open with Explorer" over OneDrive (formerly called SkyDrive):
+Watch Adam Cogan explaining why you should use "Open with Explorer" over OneDrive (formerly called SkyDrive):
  
 
 
 
-/\*\*\*\*\* Update​ on Jul 2018 \*\*\*\*\*\*/
+/\*\*\*\*\* Update on Jul 2018 \*\*\*\*\*\*/
 
 With the latest version of OneDrive,
 
@@ -24,9 +24,3 @@ With the latest version of OneDrive,
 2. You can select sub folders you want to sync on your computer.
 
 Considering the above two points, plus "Explorer view" is being decommissioned by Microsoft Mordern pages, we'd recommend you to use OneDrive over "Explorer view" now.
-​
-
-
- 
-​
-

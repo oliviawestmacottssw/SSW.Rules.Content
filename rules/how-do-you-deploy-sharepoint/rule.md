@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 We use **SSWPackage.exe**
 
 The long answer:
@@ -44,5 +43,3 @@ Into the future of SSWPackage.exe
 - More SharePoint validation functions
 - Improved versioning control
 - A great GUI to bring it all together
-
-

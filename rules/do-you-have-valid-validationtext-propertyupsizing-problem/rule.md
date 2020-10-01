@@ -9,4 +9,4 @@ authors:
 
 ---
 
- ValidationText is upsized only if its accompanying ValidationRule is successfully migrated. Avoid the use of apostrophes ( ' ) in your validation text because they will be displayed as quotation marks ( " ) when upsized.<br> 
+ValidationText is upsized only if its accompanying ValidationRule is successfully migrated. Avoid the use of apostrophes ( ' ) in your validation text because they will be displayed as quotation marks ( " ) when upsized.<br>

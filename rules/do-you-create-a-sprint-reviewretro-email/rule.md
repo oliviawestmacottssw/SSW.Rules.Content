@@ -13,7 +13,7 @@ authors:
 
 ---
 
- ​​After any Sprint Review and Retrospective, an email should be sent to all the stakeholders to update them on the outcome from the sprint:
+After any Sprint Review and Retrospective, an email should be sent to all the stakeholders to update them on the outcome from the sprint:
  
 - Subject:  Sprint XX Review/Retro
 - This is a reply to the <br>      [Sprint Forecast email](/Pages/Do-you-create-a-Sprint-Forecast-email.aspx)
@@ -22,7 +22,6 @@ authors:
 - Link to test environment
 - Relevant notes from the retrospective
 - CC - SSWSprintReviews@sswcom.onmicrosoft.com
-​
 
 
 
@@ -31,8 +30,8 @@ Hi [Product Owner],
 
 | Sprint in Review:  | [Sprint Number] |
 | --- | --- |
-| Sprint Goal:  | [Goal​] |
-| Sprint Duration:  | [Numbe​r of weeks] |
+| Sprint Goal:  | [Goal] |
+| Sprint Duration:  | [Number of weeks] |
 | Project:  | [Project Name] |
 | Project Portal:  | [Link to project Portal] |
 | Test Environment:      | [Link to test environment] |
@@ -49,19 +48,19 @@ Attendees:        *(Optional as they may be in the to and CC)*
 
 
 
-| **ID** | **Title** | **State** | ​**Effort**<br> |
+| **ID** | **Title** | **State** | **Effort**<br> |
 | --- | --- | --- | --- |
-| 24124 <br> | UI Improvements<br> | Done<br> | ​4<br> |
-| 24112 <br> | Integrate Business Logic to MVC app  <br> | Done | ​8<br> |
-| 24097 <br> | Styling<br> | Committed  <br> | ​16<br> |
+| 24124 <br> | UI Improvements<br> | Done<br> | 4<br> |
+| 24112 <br> | Integrate Business Logic to MVC app  <br> | Done | 8<br> |
+| 24097 <br> | Styling<br> | Committed  <br> | 16<br> |
 
 Figure: Sprint Backlog from [Link to Sprint Backlog in Azure DevOps]
 
 
-As per [https://rules.ssw.com.au/do-you-know-what-happens-at-a-sprint-retrospective-meeting​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=4f02d28d-5375-4530-abcb-0b541683bcbc), we review:
+As per [https://rules.ssw.com.au/do-you-know-what-happens-at-a-sprint-retrospective-meeting](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=4f02d28d-5375-4530-abcb-0b541683bcbc), we review:
 
 1. Sprint Burndown (a quick overview of the sprint)
-![](burndown.JPG)Figure: Sprint Burndown
+![ Sprint Burndown](burndown.JPG)
 2. Code Coverage (hopefully tests are increasing each sprint)
 XXX
 
@@ -69,10 +68,10 @@ XXX
 XXX
 
 4. Burnup (for the release - the whole project, how are we tracking for the big picture?)
-![Release Burnup.jpg](Release Burnup.jpg)Figure: Release Burnup
+![ Release Burnup](Release Burnup.jpg)
 5. Production Deployments (How many times did we deploy to Production?)
-![production-deploy.jpg](production-deploy.png)Figure: Deployments from Octopus Deploy
-6​​. Application Health Overview Timeline (For the entire Sprint)​​
+![ Deployments from Octopus Deploy](production-deploy.png)
+6. Application Health Overview Timeline (For the entire Sprint)
 
 ![Application Health Overview Timeline.png](Application Insights.jpg)
 
@@ -86,10 +85,9 @@ XXX
 
 
 
-​
-​
 
-### ​Sprint Retrospective
+
+### Sprint Retrospective
 
 
 As part of our commitment to inspect and adapt as a team we conduct a Sprint Retrospective at the end of every Sprint. Here are the results of our Sprint Retrospective:
@@ -100,14 +98,14 @@ As part of our commitment to inspect and adapt as a team we conduct a Sprint Ret
 
 **What improvements will be made for the next Sprint?**
 
-**Definition of Ready *****- Optional​​​​​***
+**Definition of Ready *****- Optional***
 
 
 
 **Definition of Done *****- Optional***
 
-​
 
-[https://rules.ssw.com.au/do-you-create-a-sprint-review-retro-email​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2a845add-b4b9-45ac-b47f-c646fe7d0c40) />
+
+[https://rules.ssw.com.au/do-you-create-a-sprint-review-retro-email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2a845add-b4b9-45ac-b47f-c646fe7d0c40) />
 
 Figure: Good Example - Template for Sprint Review/Retro Email. Subject: Sprint xxx Review/Retro

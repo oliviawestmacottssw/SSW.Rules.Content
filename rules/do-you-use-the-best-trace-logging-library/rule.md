@@ -13,7 +13,6 @@ authors:
 
 ---
 
- 
 Did you know that writing your own logging infrastructure code wastes time? You should use a logging library, and the best logging library is Serilog.
 
 Serilog is a NuGet package that can be included in any .NET application, is easy to configure, supports many different output targets, has great performance, and allows for runtime changes to the configuration. Serilog also supports full integration with log4net so is easy to use with any older codebase using log4net.
@@ -33,8 +32,7 @@ Other sinks allow you to:
 
 
 Many other sinks are available as described here: https://github.com/serilog/serilog/wiki/Provided-Sinks
- ![](trace-logging-bad.jpg) Figure: Bad Example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime ![](trace-logging-bad-2.jpg) Figure: Bad Example - Roll your own logging components lack functionality, and have not been tested as thoroughly for quality or performance as log4net ![serilog.png](serilog.png) Figure: Good Example - Using serilog allows persisting structured log data to multiple stores, querying that data intelligently and requires less work to install and configure than a roll-you-own logger, and provides many more features   ![seq2.png](seq2.png) Figure: Good Example - Seq provides a powerful UI for searching and viewing your structured logs
+ ![ Bad Example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime ![](trace-logging-bad-2.jpg) ](trace-logging-bad.jpg) 
 Serilog should be added to your project via the NuGet package manager.
 
 See also [Do you use the best middle tier .NET libraries?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=9ea489f4-032b-4e5b-a0e0-df5a0c3148fe)
-

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Here are the options we have:
 
 
@@ -18,7 +17,7 @@ Here are the options we have:
 **For cloud users:**
 
 - LinkedIn skills [sync] office365 list. (Preferred)
-- ​Office 365 users profile | skills. (Limited)
+- Office 365 users profile | skills. (Limited)
 - Azure AD [sync] office365 list
 
 
@@ -27,10 +26,3 @@ Here are the options we have:
 **For on-premises users:**
 
 - User profile [sync] list. (Old)
-
-
-
-​
-
-
- 

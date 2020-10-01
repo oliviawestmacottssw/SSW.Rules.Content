@@ -9,11 +9,10 @@ authors:
 
 ---
 
- 
 Bitly helps you easily save & share links over the web. You can:
 
 - Save a link to any page, image, song or video by pasting the URL into the box at the top right of the page
 - Share your bitmarks on Facebook, Twitter, or via email
 - Check on your stats to see how your bitmarks fared on the interwebs
 
- ![](bitly-stats-general.jpg)Figure: bit.ly provides a detailed stats page for all your links![](bitly-stats.jpg)Figure: bit.ly provides a detailed stats page for a single link
+ ![ bit.ly provides a detailed stats page for all your links![](bitly-stats.jpg)](bitly-stats-general.jpg)

@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- There are two fundamental ways any consultant can bill clients:<br> 
+There are two fundamental ways any consultant can bill clients:<br> 
 **Time and Materials**
 
 Time and materials is the standard mode of operation where the client is billed for the time spent by the consultant. There is no warranty on time and materials work.
@@ -27,7 +27,3 @@ Fixed price is where the client is billed a fixed amount agreed between the clie
 - 50% of the fixed price is payable before work commences, the balance is payable at the delivery of the first external test please
 - There is a 30 day warranty on [bugs](/management-is-your-client-clear-on-the-definition-of-a-bug) which commences when the first external test please is issued
 - The following release cannot commence until the prior release is signed-off.
-
-
-
-

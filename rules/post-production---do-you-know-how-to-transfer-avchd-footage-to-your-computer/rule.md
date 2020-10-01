@@ -9,10 +9,9 @@ authors:
 
 ---
 
- 
 AVCHD is a highly compressed ‘HD’ format used by many modern consumer and professional cameras.
 
-Because of the limitation FAT32, AVCHD cameras record to their memory in 4GB chunks. These split files need to be combined using software into one file that is usable in editing programs, such as Adobe Premiere Pro (Premiere Pro will read the split files directly from the camera, however,​ if you try and manually combine all the files in the timeline you will have problems with the audio at the beginning and ends of each split clip).
+Because of the limitation FAT32, AVCHD cameras record to their memory in 4GB chunks. These split files need to be combined using software into one file that is usable in editing programs, such as Adobe Premiere Pro (Premiere Pro will read the split files directly from the camera, however, if you try and manually combine all the files in the timeline you will have problems with the audio at the beginning and ends of each split clip).
 
 We will go through the process of using Sony Content Management Utility software to correctly and safely convert and transfer the raw footage from your camera to your computer.
  
@@ -43,7 +42,3 @@ If you are unable to use the Content Management Utility for some reason - maybe 
 1. To find your recordings, navigate to G\*:\AVCHD\BDMV\STREAM
 2. Note: Replace ‘\*’ with the appropriate drive letter of your camera
 Follow the steps outlined here: http://avchdvideos.blogspot.com.au/p/joining-my-avchd-videos.html
-
-
-
-

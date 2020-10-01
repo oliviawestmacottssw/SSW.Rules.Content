@@ -15,9 +15,9 @@ authors:
 
 ---
 
- Do \*not\* wait until you have started to exceed your estimate before you notify the client that the release is running late.
+Do \*not\* wait until you have started to exceed your estimate before you notify the client that the release is running late.
  
-Keep them informed and avoid conflict by sending an email like this: ​ 
+Keep them informed and avoid conflict by sending an email like this:  
 **To**: Mr Northwind
 **Cc**: David (Project Manager)
 
@@ -33,4 +33,3 @@ As soon as you realise that any of your estimates are likely to be exceeded by a
 Never keep the client in the dark when you exceed your estimates, it will only arouse suspicion and mistrust when they see the project deadline woosh past.
 
 Note: For Scrum projects, you should keep an eye on your burndown chart during your daily standups to see if you are on track to finish all the work in a Sprint.
-

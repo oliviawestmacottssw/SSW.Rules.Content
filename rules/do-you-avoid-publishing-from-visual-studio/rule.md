@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​Publishing from Visual Studio is a convenient way to deploy a web application, but it relies on a single developer’s machine which can lead to problems. Deploying to production should be easily repeatable, and able to be performed from different machines.
+Publishing from Visual Studio is a convenient way to deploy a web application, but it relies on a single developer’s machine which can lead to problems. Deploying to production should be easily repeatable, and able to be performed from different machines.
  
 A better way to deploy is by using a defined Build in TFS.
-![](test-publish.jpg)Figure: Bad Example – Using Publish to deploy ![](queuing-new-build.jpg)Figure: Good Example – Queuing a new build to deploy your application![](continuous-integration.jpg)Figure: Best example – Use continuous integration to trigger your Continuous Deployment build
+![ Bad Example – Using Publish to deploy ![](queuing-new-build.jpg)](test-publish.jpg)

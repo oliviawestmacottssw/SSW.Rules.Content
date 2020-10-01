@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Sometimes less is better, CRM customizations are cumulative, this means that a customization that you import will override your existing schema. So if you're only working on for example Account entity, you should only export the Account entity's customization and any related entities in any new relationship that you have added to the schema. This avoids unexpected overriding existing entity's customization that potentially can break your CRM system.
  
 Account entity has relationships with pretty much every other entity in CRM.
@@ -23,4 +22,3 @@ In CRM2011, there is  dependencies as solution items. It depends on the circums
 If you are an ISV and shipping solutions to the marketplace, you have no choice but to use managed solutions. If you are a CRM consultant and building a repeatable industry solution that you want to service many customers with, use managed solutions. If you are an enterprise development shop and building a departmental xRM application that is going to have multiple installations in different orgs, use managed solutions. If you are building integration components for back-office systems, use managed solutions for those.
 
 \*In all other cases, use unmanaged solutions\*.
-

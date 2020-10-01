@@ -7,6 +7,5 @@ authors: []
 
 ---
 
- 
 Use jQuery or Ajax controls whenever possible to send requests without  feedback on the process. This is to avoid a "white" blank page, while  the page reloads. Similar ideas are like a save button that disables  after the first click so it can't be hit multiple times.
- ![](../../assets/Bad-AjaxControls.jpg)Figure: Bad example - An Ajax control which automatically disables the save button would make this message unnecessary.
+ ![ Bad example - An Ajax control which automatically disables the save button would make this message unnecessary.](../../assets/Bad-AjaxControls.jpg)

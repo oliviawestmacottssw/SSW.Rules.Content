@@ -11,7 +11,7 @@ authors:
 
 ---
 
- There are three types of settings files that we may need to use in .NET : <br> 
+There are three types of settings files that we may need to use in .NET : <br> 
 1. App.Config/Web.Config is the default .NET settings file, including any settings for the Microsoft Application Blocks (eg. the Exception Management Block and the Configuration Management Block). These are for settings that dont change from within the application. In addition, System.Configuration classes dont allow writing to this file.
 2. ToolsOptions.Config (an SSW standard) is the file to hold the users own settings, that are users can change in the Tools - Options. 
 <br>    Eg. ConnectionString, EmailTo, EmailCC
@@ -19,5 +19,3 @@ authors:
 3. UserSession.Config (an SSW standard). These are for additional setting files that the user cannot change. 
 <br>    e.g. FormLocation, LastReportSelected
 <br>    Note: This file is over writable (say during a re-installation) and it will not affect the user if the file is deleted.
-
-

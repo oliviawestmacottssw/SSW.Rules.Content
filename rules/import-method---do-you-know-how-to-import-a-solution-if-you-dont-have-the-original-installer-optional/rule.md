@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- You should have at this point, either:
+You should have at this point, either:
 
 <br>1. Installer packages from 3rd Party Vendors for installing their custom solution or,
 <br>2. WSP packages from 3rd party, or built from your own source code, or extracted using the Export Method (not recommended)
@@ -19,5 +19,3 @@ cd C:\SharePointCustomizations
 3. Use **stsadm** to import the solution to your new server
 Stsadm –o AddSolution –filename NameOfSolution.wsp
 4. Make sure there are no errors when the command runs
-
-

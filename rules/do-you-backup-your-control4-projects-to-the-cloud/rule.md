@@ -9,11 +9,8 @@ authors:
 
 ---
 
- 
-​​​If your project gets corrupted or if the changes you made caused unexpected issues, do you have a backup of your Control4 project to rollback to?​
+If your project gets corrupted or if the changes you made caused unexpected issues, do you have a backup of your Control4 project to rollback to?
  
 You should configure Control4 to automatically backup your changes to the cloud.  You configure this in composer under Agents | Backup.
 
-![control4-backup.jpg](control4-backup.jpg)
-**Figure: Configure backups in Composer under Agents | Backup**
-
+![ Configure backups in Composer under Agents | Backup](control4-backup.jpg)

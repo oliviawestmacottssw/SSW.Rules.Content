@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Microsoft SharePoint Technologies is built on top of ASP.NET technologies.  In particular, MOSS 2007 is based on ASP.NET 2.0, SharePoint 2010 is based on ASP.NET 3.5, SharePoint 2013 is based on ASP.NET 4.​ 
+Microsoft SharePoint Technologies is built on top of ASP.NET technologies.  In particular, MOSS 2007 is based on ASP.NET 2.0, SharePoint 2010 is based on ASP.NET 3.5, SharePoint 2013 is based on ASP.NET 4. 
 This means that there are many skills that an ASP.NET developer already has that can be translated to SharePoint directly.
 
 - Master Pages – SharePoint uses master pages
@@ -21,5 +21,3 @@ This means that there are many skills that an ASP.NET developer already has that
 - Web.Config – like ASP.NET – many SharePoint configuration is done in the Web.Config – though SharePoint provides web UI to modify many of these options from Central Administration
 - .NET – Your .NET skills are definitely not going to go away
 - IIS – Each SharePoint web application is a “Site” in IIS, the site bindings are also identical
-
-

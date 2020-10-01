@@ -13,7 +13,7 @@ authors:
 
 ---
 
- ​​​​​The Scrum Master (not ScrumMaster), must schedule the Sprint Review, Retrospective and Planning meetings.
+The Scrum Master (not ScrumMaster), must schedule the Sprint Review, Retrospective and Planning meetings.
  
 Estimate how much time each meeting will require, then schedule a single calendar appointment to cater to the three meetings. When scheduling the calendar appointment, keep in mind the following:
 
@@ -22,12 +22,12 @@ Estimate how much time each meeting will require, then schedule a single calenda
 - With the Product Owner's help, the Scrum Team will need some time to update the Product Backlog after the Retrospective and before the Planning meeting.
 - People need breaks.
 - The Sprint officially finishes at the end of the Sprint Review meeting. The Sprint Retrospective marks the beginning of the next Sprint.
-- These meetings do not necessarily have to be held on a Friday or Monday. You can have a Sprint start and end on any day of the week.​
+- These meetings do not necessarily have to be held on a Friday or Monday. You can have a Sprint start and end on any day of the week.
 Mid week meeting are recommended so that the liklihood of it occurring on a public holiday long weekend is minimised.
-- Since these meetings will occur every Sprint - set a recurrence on the calendar appointment (every 1, 2, 3, or 4 weeks)​ so that people have the time blocked out well in advance.
+- Since these meetings will occur every Sprint - set a recurrence on the calendar appointment (every 1, 2, 3, or 4 weeks) so that people have the time blocked out well in advance.
 
 
-**Tip: **It can be helpful to finish the Sprint Review with the first Daily Scrum​
+**Tip: **It can be helpful to finish the Sprint Review with the first Daily Scrum
 
 Schedule the meeting and invite the Scrum Team and any interested stakeholders.
 
@@ -37,15 +37,14 @@ Schedule the meeting and invite the Scrum Team and any interested stakeholders.
 **Optional Attendees:** [Interested Stakeholders]
 **Subject: 🏃‍♂️ **[Project Name] – Sprint Review, Retro and Planning
 **Recurrence**: Every **[Number of weeks in the Sprint]** weeks
-​​​​​
 
 
 
 Hi           **XXX**,
  
 This is a calendar appointment to hold the following three Scrum meetings:
-Scrum Master: **XXX​**
-Task Board:           **XXX**​
+Scrum Master: **XXX**
+Task Board:           **XXX**
  
 **Sprint Review Meeting**
 We will go through the user stories that have been completed and demonstrate them.
@@ -65,17 +64,14 @@ Regards,
 
 **XXX**
 
-[https://rules.ssw.com.au/scrum-master-do-you-schedule-the-3-meetings](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=c7aaccf3-506d-46a2-8eb2-813d611ec008) />​
+[https://rules.ssw.com.au/scrum-master-do-you-schedule-the-3-meetings](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=c7aaccf3-506d-46a2-8eb2-813d611ec008) />
 
- Figure: Good Example - copy this appointment template and send to ​the Scrum Team​
-![New meeting on Teams](Screen Shot 2020-04-06 at 4.15.50 PM.png)​​
-​It's a great idea to run your Scrum meetings through Microsoft Teams so that the whole team is invited and new developers can easily find the meetings see [https://rules.ssw.com.au/run-your-meetings-through-teams​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=91a6a999-29d4-4903-8b7a-16fddd976d65) for more info.
+ Figure: Good Example - copy this appointment template and send to the Scrum Team
+![New meeting on Teams](Screen Shot 2020-04-06 at 4.15.50 PM.png)
+It's a great idea to run your Scrum meetings through Microsoft Teams so that the whole team is invited and new developers can easily find the meetings see [https://rules.ssw.com.au/run-your-meetings-through-teams](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=91a6a999-29d4-4903-8b7a-16fddd976d65) for more info.
 
 In Scrum, there are 4 meetings in total that you need to know about:
-- [Sprint Planning Meeting​](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
-- [Daily Scrum Meeting​](/Pages/DailyScrumUpdateTasks.aspx "Daily Scrum Meeting") (Stand-up​​​​)
+- [Sprint Planning Meeting](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
+- [Daily Scrum Meeting](/Pages/DailyScrumUpdateTasks.aspx "Daily Scrum Meeting") (Stand-up)
 - [Sprint Review Meeting](/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
-- [Sprint Retrospective Meeting](/Pages/RetrospectiveMeeting.aspx "Sprint Retrospective Meeting")​
-
-
-
+- [Sprint Retrospective Meeting](/Pages/RetrospectiveMeeting.aspx "Sprint Retrospective Meeting")

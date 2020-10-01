@@ -10,9 +10,5 @@ index:
 - do-you-use-a-finger-scanner-to-monitor-access-to-secure-areas
 
 ---
-
-​More info at [Smart Office & Smart Home consulting page](https&#58;//www.ssw.com.au/ssw/Consulting/Smart-Office-and-Smart-Home.aspx). ​While running a Control4 showroom in Sydney, our customers and SSW consultants have come across some issues that you can see on [Suggestions to Control4](https&#58;//bettersoftwaresuggestions.com/category/control4/).
-
-​​
-
+More info at [Smart Office & Smart Home consulting page](https&#58;//www.ssw.com.au/ssw/Consulting/Smart-Office-and-Smart-Home.aspx). While running a Control4 showroom in Sydney, our customers and SSW consultants have come across some issues that you can see on [Suggestions to Control4](https&#58;//bettersoftwaresuggestions.com/category/control4/).
 

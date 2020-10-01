@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 It is extremely important to make your site standards compliant:
 
 - It makes styling a lot easier.
@@ -80,5 +79,3 @@ Implement CSS Friendly – these are the control adapters released by Microsoft 
 <br>            ...
 <br>        &lt;/ul&gt;
 <br>    &lt;/div&gt; Good example - using CSS Friendly
-
-

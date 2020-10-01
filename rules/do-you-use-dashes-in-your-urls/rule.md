@@ -11,15 +11,14 @@ authors:
 
 ---
 
- 
-​​​For maximum readability and SEO use kebab-case (dashes) in your URLs. ​
+For maximum readability and SEO use kebab-case (dashes) in your URLs.
  
 http://northwind.com/pageonworddocumentation
  Figure: Bad example - No kebab-case in URL 
 
 
 http://northwind.com/PageOnWordDocumentation
- Fi​gure: Bad example - PascalCase (better readability and still works in small caps, but other people might share it without the MixedCase) 
+ Figure: Bad example - PascalCase (better readability and still works in small caps, but other people might share it without the MixedCase) 
 
 
 
@@ -32,7 +31,7 @@ http://northwind.com/page on word documentation
 
 
 http://northwind.com/page\_on\_word\_documentation
- Figure: OK​ example - underscored (snake\_case) URLs have good readability but are not recommended by Google
+ Figure: OK example - underscored (snake\_case) URLs have good readability but are not recommended by Google
 
 
 http://northwind.com/page-on-word-documentation
@@ -43,13 +42,10 @@ Figure: Good example - kebab-case is recommended by Google
 
 Read more on [SEO 101: Hyphens vs. Underscores in URLs](https://www.seomechanic.com/seo-101-hyphens-underscores-_-urls/)
 
-### More info​
+### More info
 
 You can install the IIS [URL Rewrite Module](http://learn.iis.net/page.aspx/460/using-the-url-rewrite-module/) ![](external.gif "You are now leaving SSW") for IIS7 you can make ugly URL's much more friendly.
-![Rewrite the HTML](friendly-url-rule.jpg)Figure: Rewrite both the HTML in the page and the incoming URL's to be friendly
+![ Rewrite both the HTML in the page and the incoming URL's to be friendly](friendly-url-rule.jpg)
 The caveat here is that it will only work if the URL is in the clear on the page.
 
 **Note: **This could only be done with certain links as others are postbacks as well.
-
-​
-

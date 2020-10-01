@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​​Never use On Error Resume Next in VB (and VB.NET) projects.
+Never use On Error Resume Next in VB (and VB.NET) projects.
 
  If an error occurred, On Error Resume Next will hide the error and things can go very haywire! In .NET, stop using the On Error syntax and use the try-catch exception syntax for better structural exception handling.
  
@@ -47,4 +46,3 @@ Private Sub cmdSelect_Click()
 
 Good Example – Good code
 We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule.
-

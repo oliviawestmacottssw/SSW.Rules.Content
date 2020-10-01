@@ -7,8 +7,6 @@ authors: []
 
 ---
 
-
 You won’t know if your interface is any good until it’s actually tested! Test, test, test, nothing can possibly replace that first hand data.
 
-​![]()![](UsabilityTesting.jpg)
-
+![]()![](UsabilityTesting.jpg)

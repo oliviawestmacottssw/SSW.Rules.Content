@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- Using Virtual Machine (VM) templates makes it easy to deploy consistent VM setting using VMM.
+Using Virtual Machine (VM) templates makes it easy to deploy consistent VM setting using VMM.
  
 There are 2 types of templates:
 
@@ -17,4 +17,3 @@ There are 2 types of templates:
 You can create a VM template from an existing virtual hard disk, or from an existing VM deployed on a host.
 
 To see how this is done, you can check [here](https&#58;//docs.microsoft.com/en-us/system-center/vmm/library-vm-templates?view=sc-vmm-2019).
-

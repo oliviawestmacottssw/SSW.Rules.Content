@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- In Scrum, meetings are time boxed. Team members should be well prepared in order to accomplish the meeting goals in time. 
+In Scrum, meetings are time boxed. Team members should be well prepared in order to accomplish the meeting goals in time. 
 
  
 **Daily Scrum Meetings** - This is time boxed to 15 mins. All members of the team should be well prepared by:
@@ -22,7 +22,7 @@ authors: []
 > > > 
 > > > What are you doing today? e.g. "Today I will do yyy"
 > > > 
-> > > Do you foresee​ any impediments or roadblocks? e.g. "I might hit a roadblock today because of xxx"
+> > > Do you foresee any impediments or roadblocks? e.g. "I might hit a roadblock today because of xxx"
 
 
 - Remember to say "Let's park that conversation for after the Daily Scrum". Major discussions are not to be conducted during the time boxed Scrum meeting.
@@ -45,7 +45,7 @@ authors: []
 - Nominating in advance another member of the team to take notes from the presentation
 - Deciding, in advance, the order in which PBIs should be presented; priority, sprint backlog order, logical order and minimizing presenter and presentation medium switching should be taken into account.
 - Controlling the time spent on the PBI presentation
-    - Practice the demo beforehand if needed to ensure a succinct delivery. This can be in the form of a pre-prepared video if desired​
+    - Practice the demo beforehand if needed to ensure a succinct delivery. This can be in the form of a pre-prepared video if desired
     - Inform the product owner what the main goal of the PBI is and tell if the team believe it was done or not
     - If the Product Owner previously saw what was done, ideally the member should just mention that and ask if the PBI is accepted
     - If the member needs to show something, show a couple of examples and ask if the Product Owner wants to see something else
@@ -62,9 +62,7 @@ authors: []
 Planning meetings** - all members of the team must be well prepared by:
 
 - Having all bugs and PBIs up-to-date on the backlog
-- Having all PBIs on the backlog “groomed” in order of priority (according to the Product Owner)​
+- Having all PBIs on the backlog “groomed” in order of priority (according to the Product Owner)
 - Understanding all PBIs and the Product Owner’s priorities
 - Being responsible on estimates
 - Volunteering to work on PBIs and tasks, even if they are not related to your best skills – read <br>      [Do you encourage multi-skilled teams?](/Pages/BeingMultiSkilled.aspx)
-
-​  

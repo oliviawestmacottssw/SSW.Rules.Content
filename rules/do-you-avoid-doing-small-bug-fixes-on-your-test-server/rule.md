@@ -9,8 +9,6 @@ authors:
 
 ---
 
- 
 Don't make any changes to the test server, it can break your deployment process           of your plug-in.
 
 Develop only on your development server.
- 

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 There are certain features in SharePoint on-premises that are no longer supported with SharePoint Online.
 
 If you migrate using the Sharegate migration tool, you want to have zero errors in their reports. To do so, here are what you should do before considering migration:
@@ -25,5 +24,4 @@ Remove unsupported columns such as:
 - Managed Metadata columns on folders
 - Get rid of MicroFeed
 
-![avoid-errors-sp-migration3.png](avoid-errors-sp-migration3.png)Bad example: Sharegate migration report shows error if MicroFeed(s) have not been removed​
-
+![avoid-errors-sp-migration3.png](avoid-errors-sp-migration3.png)Bad example: Sharegate migration report shows error if MicroFeed(s) have not been removed

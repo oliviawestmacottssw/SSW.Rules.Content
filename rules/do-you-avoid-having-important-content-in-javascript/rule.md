@@ -11,8 +11,6 @@ authors:
 
 ---
 
- 
-​JavaScript is becoming more and more in common the sites we build everyday. We use them for fancy menus, dropdowns or scroll overs, even the whole website can be written in JavaScript.
+JavaScript is becoming more and more in common the sites we build everyday. We use them for fancy menus, dropdowns or scroll overs, even the whole website can be written in JavaScript.
 
-However, sometimes search engines can't read JavaScript in all of our pages. It's known that Google can index some content inside JavaScript, but not all. If you keep important information that should show up in Google searches, you must make sure it is placed inside normal HTML so that you know it will be indexed. This keeps the code clean and helps search engines index pages.​
- 
+However, sometimes search engines can't read JavaScript in all of our pages. It's known that Google can index some content inside JavaScript, but not all. If you keep important information that should show up in Google searches, you must make sure it is placed inside normal HTML so that you know it will be indexed. This keeps the code clean and helps search engines index pages.

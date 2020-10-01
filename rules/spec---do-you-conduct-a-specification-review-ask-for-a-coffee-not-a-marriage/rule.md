@@ -17,19 +17,19 @@ authors:
 
 ---
 
- A client will often ask for a proposal or ballpark for the project. It is very difficult to give them the price for a large project without first conducting a specification review. 
+A client will often ask for a proposal or ballpark for the project. It is very difficult to give them the price for a large project without first conducting a specification review. 
 
 
 The Spec Review is a process that will demonstrate to the client whether you have the commercial sense to understand their \*business\* and have the technical and management capacity to complete the project.
-​
+
 It is paid work conducted after the initial meeting to determine the overall scope, feasibility, and ballpark costs of the project (i.e. $50k or $500k).  E.g. Mr. Northwind learns that the idea he presented at the initial meeting will cost approximately $80K and he has to determine if that is feasible to his business or if he will trim the functionality to better manage the cost.
 
-  ![proposal](proposal.jpg) Figure: A ballpark or proposal should start small and not be a big commitment
+  ![ A ballpark or proposal should start small and not be a big commitment](proposal.jpg) 
 
 From this initial meeting, the ballpark is 6 months and $200K+GST
 Figure: Bad example - big scary figure
 
-From this initial meeting, we will first need to conduct a specification review​ 
+From this initial meeting, we will first need to conduct a specification review 
 This first step is $6K - a 2-day Specification Review
 Figure: Good example - work in small chunks of work with details about what you will do
 
@@ -55,7 +55,7 @@ The purpose is to understand the whole project but, if the project is greater th
 Most software consulting experts will be able to provide a small improvement to the current system 'on the fly' during the Spec Review. This may be something as simple as adding an index to a table and thereby increasing the performance of a web page.
 
 ### Use 'Corridor Conversations'
- ![Use corridor conversations to prevent nasty surprises](ProjectManagement_Suprise.jpg)  Figure: Use corridor conversations to prevent nasty surprises 
+ ![ Use corridor conversations to prevent nasty surprises ](ProjectManagement_Suprise.jpg)  
 The hallway is your friend. It's a place where you can gather a lot of information informally.
 
 While the information collected and the conclusions of the Spec Review are presented formally at the end of the Review, it is important that the consultants convey key points to the client as they emerge through the course of the Review. The formal presentation is NOT the time to be presenting new information to the client. Formal meetings can have a "Us vs Them" feel. Addressing key potential sticking points of budget and technology informally during the course of the Spec Review relieves the potential for unwelcome surprises during the Spec Review presentation. Canvassing the issues beforehand in casual 'corridor conversations' clears the decks for an agreement, rather than increasing the risk of heated discussions if you surprise a client at a formal meeting. For example, ask the client "building the cube will add around two months of development time, shall we leave this out of the current scope, or do you want it in?" Remember, no politician challenging for the leadership ever calls a vote before he or she knows the numbers; you too will avoid presenting a solution at a meeting if you aren't convinced the client is already agreeable. Through the course of the Spec Review the client will be aware of at least the following:
@@ -95,4 +95,3 @@ You want to have all the required work for a spec review done within the allocat
 **6 pm:  **    Send “As per our conversation” with Word or PPT attachment
 
 In a 2 or 3-day spec review, you should assume you’ll need more time to implement changes, so push the presentation time forward to 2 pm.
-

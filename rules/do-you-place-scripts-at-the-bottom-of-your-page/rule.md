@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Bear in mind that the load time is a very important aspect on web development.<br>The goal is to make the page load as quickly as possible for the user.  
+Bear in mind that the load time is a very important aspect on web development.<br>The goal is to make the page load as quickly as possible for the user.  
 It's known that when a browser loads a script, it can’t continue on until the entire file has been loaded.
 
 Once JavaScript files have the purpose to add functionality — something happen after a button is clicked for example — there is no good reason to load the JS file before the button itself.
@@ -23,4 +23,3 @@ So go ahead and place JS files at the bottom of the HTML, just before the closin
 
 Figure: Place JavaScript at the bottom of your HTML
 Tests at a big online sales company revealed that every 100 ms increase in load time decreased sales by 1%.
-

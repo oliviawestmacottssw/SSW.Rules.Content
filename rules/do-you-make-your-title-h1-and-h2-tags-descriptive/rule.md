@@ -11,6 +11,4 @@ authors:
 
 ---
 
- 
-​​The
-
+The

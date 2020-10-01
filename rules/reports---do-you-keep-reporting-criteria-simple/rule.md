@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 1. Have Selection for filters e.g. Date Ranges
 2. Have Selection for chart options e.g. Show Legend
 3. Don't have selection for chart groupings e.g. By Month or By Product
@@ -16,4 +15,3 @@ authors: []
 
  ![Reporting Criteria](../../assets/GraphInterface.gif)
 More     [Options for Reporting](http://www.ssw.com.au/ssw/Standards/DeveloperDotNet/GuidelinesForReporting.aspx)
-

@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 1. If your app is built on Silverlight today. Stop building things on Silverlight today.<br>
 2. Reasons are:
 
@@ -39,5 +38,3 @@ authors: []
 | --- | --- |
 |                             Market place:<br>                         |                             2 days (Quicker since it is managed code. Unmanaged code is easy to spot)<br>                         |
     - App store is blocking applications MS won't.<br>
-
- 

@@ -9,8 +9,8 @@ authors:
 
 ---
 
- Group Policy is a fast and effective way to configure Hibernate on multiple PC's 
-​To enable Hibernate option in Group Policy open up Group Policy Management.
+Group Policy is a fast and effective way to configure Hibernate on multiple PC's 
+To enable Hibernate option in Group Policy open up Group Policy Management.
 
 1. Create a new Group Policy Object and name it "EnableHibernate"
 
@@ -24,6 +24,3 @@ authors:
 
 5. Wait for a few moment for GPO to refresh and apply. Alternatively manually force a GP Update through Command Prompt - GPUpdate /force. Check that Hibernate Option is now in Start Menu.
 ![StartHibernateEnabled.jpg](StartHibernateEnabled.jpg)
-
-
-

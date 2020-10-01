@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​Did you know that you can import your Google Ad campaigns directly into Microsoft Advertising? 
+Did you know that you can import your Google Ad campaigns directly into Microsoft Advertising? 
 
 
 
@@ -19,7 +19,7 @@ authors:
 If you already are using Google Ads to advertise on Google, you can import these campaigns into Microsoft Advertising so that you can run the same ads on Bing. This is an easy way to expand your online advertising reach. Microsoft Bing is the second most popular search engine in the world, and you could be missing out on valuable traffic by not utilising their ad platform. 
 
  
-### ​Why use Microsoft Audience Ads?
+### Why use Microsoft Audience Ads?
 
 
 
@@ -33,19 +33,19 @@ If you already are using Google Ads to advertise on Google, you can import these
     - Reach millions of people on MSN, Microsoft Outlook, Microsoft Edge and our syndicated partner sites, with more to come.
     - Boosted performance, powered by artificial intelligence
     - AI and machine learning help guide ad selection and relevancy matching, along with pricing, click and conversion prediction to help deliver the best marketing ROI.
-    - Performance tracking is easy​
-    - Use the same Microsoft Advertising tools, reports and analytics to monitor your campaign performance.​
+    - Performance tracking is easy
+    - Use the same Microsoft Advertising tools, reports and analytics to monitor your campaign performance.
 
 
 
 ### Importing from Google Ads
 
 
-​Follow these steps to import:
+Follow these steps to import:
 
 1. In Microsoft Advertising, click Import Campaigns, and then click Import from Google Ads.
-2. If you have imported from Google Ads in the past 90 days, you will see a table that shows you the Date/Time and Google Ads account that was imported along with.​
-3. ​Click Sign in to Google.
+2. If you have imported from Google Ads in the past 90 days, you will see a table that shows you the Date/Time and Google Ads account that was imported along with.
+3. Click Sign in to Google.
 4. Enter your Google Ads sign-in information, click **Sign in**.
 5. Select the Google Ads campaigns you want to import, then click **Continue**.
 6. Under **Choose Import Options**, do the following:
@@ -55,7 +55,7 @@ If you already are using Google Ads to advertise on Google, you can import these
 8. Click Import or if you want to set a schedule, click **Schedule**.
 9. Review the** Import summary **to see what entities were newly added or updated, or couldn't be imported (skipped).
 10. If you want to review the details of the campaigns and make changes, click **View imported campaigns.**
-11. If you want to sync multiple Google Ads accounts into the same Microsoft Advertising, treat each Ad Words account as a separate import. It is recommended that you wait at least a 2-hour time difference between each import to insure their completion.​
+11. If you want to sync multiple Google Ads accounts into the same Microsoft Advertising, treat each Ad Words account as a separate import. It is recommended that you wait at least a 2-hour time difference between each import to insure their completion.
 
 
 
@@ -69,8 +69,3 @@ Most items from Google Ads import seamlessly into Microsoft Advertising. However
             - Bids and budgets
             - Targeting options
             - Negative keywords
-
-
-
-
-

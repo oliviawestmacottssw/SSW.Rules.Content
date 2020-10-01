@@ -9,10 +9,7 @@ authors:
 
 ---
 
- 
-​Use server side comments:
+Use server side comments:
 
 - Use **&lt;%-- Comment Here --%&gt;** instead of **&lt;!-- Comment Here --&gt;** (Does not get rendered to the client, saves us a few precious kilobytes)
-- Use **CTRL + K, C** to comment and **CTRL + K, U** to uncomment​
-
- 
+- Use **CTRL + K, C** to comment and **CTRL + K, U** to uncomment

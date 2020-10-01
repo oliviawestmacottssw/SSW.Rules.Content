@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-Adding code to the Application\_Start method in the Global.asax file is the easiest and most straight-forward approach for executing startup logic, however,​ this code should be encapsulated in static methods outside the Global.asax file. Doing this helps provide cleaner code and encourages proper adherence to the Single Responsibility principle.
+Adding code to the Application\_Start method in the Global.asax file is the easiest and most straight-forward approach for executing startup logic, however, this code should be encapsulated in static methods outside the Global.asax file. Doing this helps provide cleaner code and encourages proper adherence to the Single Responsibility principle.
  
 
 ```
@@ -49,6 +48,4 @@ public class MvcApplication : System.Web.HttpApplication
 ```
 
 
-![](startup-task.jpg) Figure: Good Example – Startup tasks are called from the Application\_Start method but are located in the App\_Start folder​
-
-
+![ Good Example – Startup tasks are called from the Application\_Start method but are located in the App\_Start folder](startup-task.jpg)

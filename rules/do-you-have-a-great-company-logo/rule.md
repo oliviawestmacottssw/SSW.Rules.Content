@@ -11,16 +11,15 @@ authors:
 
 ---
 
- 
-​​​Think about McDonalds and you will see the yellow arches, in the shape of an "M". Think of Nike and the swoosh is the first image in your mind.
+Think about McDonalds and you will see the yellow arches, in the shape of an "M". Think of Nike and the swoosh is the first image in your mind.
 
-It doesn't have to take millions of dollars and 15 marketing consultancies to come up with a great logo, but make sure you get a professional designer to make it.​​
+It doesn't have to take millions of dollars and 15 marketing consultancies to come up with a great logo, but make sure you get a professional designer to make it.
  
 
 
 The characteristics you should be after:
 
-- **Simple** - Follow solid basic design principles, such as proportion and symmetry, coherent fonts and matching colors​
+- **Simple** - Follow solid basic design principles, such as proportion and symmetry, coherent fonts and matching colors
 - **Versatile** - Your logo will eventually end up on different mediums, and it must work well in all kinds of situations
 - **Relevant** - Represent the company
 - **Memorable** - Be unique
@@ -39,4 +38,3 @@ Some examples of great logos:
 
 
 It is very important to remember that your logo should be consistently displayed wherever your company promotes itself.
-

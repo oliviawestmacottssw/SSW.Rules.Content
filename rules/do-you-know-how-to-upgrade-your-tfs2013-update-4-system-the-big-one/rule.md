@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 Once you have prepared your environment by creating backups, testing your rollback plan, and set your Project Collections to be offline, you're ready to run the setup process that will perform the upgrade.
 
 
@@ -27,15 +26,11 @@ d.              Make sure you have access to coffee while it's upgrading your Pr
 
 
 
-![depending size.png](depending size.png)
-
-**Figure: Depending on the size of your collections, the Project Collection upgrade process takes the longest out of all steps**
+![ Depending on the size of your collections, the Project Collection upgrade process takes the longest out of all steps](depending size.png)
 
 
 
-![coffee.png](coffee2.png)
-
-**Figure: Wait for the Project Collection upgrade to complete**
+![ Wait for the Project Collection upgrade to complete](coffee2.png)
 
 ** **
 
@@ -51,4 +46,3 @@ Now you're almost done! That covers the core upgrade of your TFS server, your TF
 
 
 Next, you'll need to make sure that additional services like XAML Build Configuration and SharePoint integration are configured before testing.
-

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Once you have documented your prospect’s pain points, choose the best ones. The greatest way to test if they are good enough is to run a social media ad campaign targeting your most engaged audience with your top 7 pain points. The pain point that gets the most engagement, is the one that people relate to the most.
 
  
@@ -24,6 +23,4 @@ The winning ad is your hottest pain point for your target market.
 
 
 
-Take the winner and complete the marketing campaign and show this campaign to all your audiences. You can also use these headlines to create content for your target audience and get leads out of it when they download your content.
-
-
+Take the winner and complete the marketing campaign and show this campaign to all your audiences. You can also use these headlines to create content for your target audience and get leads out of it when they download your content.

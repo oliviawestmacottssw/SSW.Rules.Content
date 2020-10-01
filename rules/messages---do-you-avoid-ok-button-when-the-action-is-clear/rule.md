@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 Don't use "OK" if the button does one clear action. The button name must reflect the action that is going to happen by clicking the button. Examples of button names that are better than "OK" are:
 
 - Save
@@ -20,6 +19,5 @@ Don't use "OK" if the button does one clear action. The button name must reflect
 - Process
 - Login
 
-  ​![Save button](../../assets/DontUseOpen.jpg)Figure: Save button in action
+![ Save button in action](../../assets/DontUseOpen.jpg)
 However, there is an exception when there are multiple settings being changed. Typical examples are Properties and the Tools - Options dialog. There are often many tabs with many options. It would make no sense to have "Save Settings" or "Save". This is where the "OK" "Apply" "Cancel" convention really applies.
-

@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​​When a ticket is created in Zendesk, an email for it is created as well - and, if you have set up Zendesk correctly, the correct group of people will already receive the task.
+When a ticket is created in Zendesk, an email for it is created as well - and, if you have set up Zendesk correctly, the correct group of people will already receive the task.
  
 In Zendesk, you can set groups, like 'SysAdmins' and 'Sales'and insert the correct people there already, so there is no need to add another group of the same people to the email. That is repetition and it is not necessary.
 
@@ -27,11 +27,9 @@ Bad Example: Adding groups with the same people twice. They will receive it twic
 ![zendndnd.png](zendndnd.png)
  Good Example: Add only one group, that goes to Zendesk and spread the ticket only once for everyone
 
-​
+
 
 ### Related Links
 
 
-- [Rules to Better Scrum - Do you know when to use @ mentions in a PBI​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=efd6c91e-7cc5-4473-a299-9104c8fd6e0d)
-
-
+- [Rules to Better Scrum - Do you know when to use @ mentions in a PBI](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=efd6c91e-7cc5-4473-a299-9104c8fd6e0d)

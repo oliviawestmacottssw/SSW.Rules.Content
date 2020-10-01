@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Often, deployment is either done manually or as part of the build process. But deployment is a completely different step in your lifecycle. It's important that deployment is automated, but done separately from the build process.
+Often, deployment is either done manually or as part of the build process. But deployment is a completely different step in your lifecycle. It's important that deployment is automated, but done separately from the build process.
  
 There are two main reasons you should separate your deployment from your build process:
 
@@ -20,7 +20,7 @@ There are two main reasons you should separate your deployment from your build p
 
 
 The best tool for deployments is [Octopus Deploy](https://octopus.com/).
- ![SugarLearningOctopus.png](SugarLearningOctopus.png)  Figure: Good Example - SSW uses Octopus Deploy to deploy Sugar Learning
+ ![ Good Example - SSW uses Octopus Deploy to deploy Sugar Learning](SugarLearningOctopus.png)  
 Octopus Deploy allows you to package your projects in Nuget packages, publish them to the Octopus server, and deploy the package to your configured environments. Advanced users can also perform other tasks as part of a deployment like running integration and smoke tests, or notifying third-party services of a successful deployment.
 
 [Version 2.6 of Octopus Deploy](https://octopus.com/blog/2.6) introduced the ability to create a new release and trigger a deployment when a new package is pushed to the Octopus server. Combined with Octopack, this makes continuous integration very easy from Team Foundation Server.
@@ -37,4 +37,3 @@ Whenever you make changes on the website, as soon as they are approved they will
 If you are working on some files that you do not want to sync then put a **\_DoNotSyncFilesInThisFolder\_XX.txt** file in the folder. (Replace XX with your initials.) So if you see files that are to be synced (and you don't see this file) then find out who did it and tell them to sync. The reason you have this TXT file is so that people don't keep telling the web
 
 **NOTE:** Immediately before deployment of an ASP.NET application with FTP Sync, you should ensure that the application compiles - otherwise it will not work correctly on the destination server (even though it still works on the development server).
-

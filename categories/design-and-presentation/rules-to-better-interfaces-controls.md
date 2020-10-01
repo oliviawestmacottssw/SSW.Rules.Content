@@ -34,9 +34,7 @@ index:
 - controls---do-you-set-row-select-mode-as-fullrowselect-for-datagridview-if-it-is-read-only-windows-forms-only
 
 ---
-
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
 
-If you still need help, visit [Website Design and User Experience​](http&#58;//www.ssw.com.au/ssw/Consulting/WebsiteDesignAndUserExperience.aspx) and book in a consultant.​​
-
+If you still need help, visit [Website Design and User Experience](http&#58;//www.ssw.com.au/ssw/Consulting/WebsiteDesignAndUserExperience.aspx) and book in a consultant.
 

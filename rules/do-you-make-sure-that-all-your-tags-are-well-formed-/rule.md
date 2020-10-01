@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Do you know how to form HTML/XML tags on webpages?
+Do you know how to form HTML/XML tags on webpages?
 <br>We need to make sure that all HTML/XML tags which open once, must be closed properly.<br> 
 &lt;div&gt;   
 <br>&lt;p&gt;Hello HTML&lt;/p&gt;   
@@ -36,5 +36,3 @@ Figure: Bad Example
 <br>&lt;calories&gt;950<br>
 <br>&lt;/food&gt;
 <br>&lt;/breakfast\_menu&gt;Figure: Bad Example
-
-

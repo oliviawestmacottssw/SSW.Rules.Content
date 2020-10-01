@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Promoting your application and business via social media can be extremely beneficial, not only for promoting of a business, but for feedback from customers as well. To help implement social media campaigns, try these tips:
  
 - Target platforms for the countries in which you’ll have either an e-commerce or on-the-ground presence. e.g. Facebook/Qzone, Twitter/Weibo.
@@ -19,7 +18,6 @@ Promoting your application and business via social media can be extremely benefi
 - Post it to the English site.
 - Then post it to the Chinese site.
 - Great, now you are ready to post to all of the social media platforms simultaneously.
- ![Facebook Like pages](Weibo.jpg) Figure:  Make sure that your social media presence covers the countries you have translated your application into                e.g. Link Auditor on Weibo (A local social media, China’s Twitter replacement). 
+ ![  Make sure that your social media presence covers the countries you have translated your application into                e.g. Link Auditor on Weibo (A local social media, China’s Twitter replacement). ](Weibo.jpg) 
 
 We have a service called [SSW Chinafy](https://www.ssw.com.au/ssw/Consulting/China-Localization.aspx) that can help you get started following this rule.
-

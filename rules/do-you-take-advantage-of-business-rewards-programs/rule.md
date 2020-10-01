@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​​Some airlines offer rewards schemes to win over businesses. For example, [Qantas has started a frequent flyer program for businesses](https://www.qantasbusinessrewards.com/).
+Some airlines offer rewards schemes to win over businesses. For example, [Qantas has started a frequent flyer program for businesses](https://www.qantasbusinessrewards.com/).
 
 This program lets businesses accrue points and credits. It’s simple: set up a business membership with Qantas, and then remember to enter the ABN alongside the traveller’s frequent flyer number when booking a flight. 
 
@@ -19,9 +19,6 @@ The traveller’s Qantas Frequent Flyer membership will still accumulate the sam
 
 
 Not all travellers will have a frequent flyer membership, but for those that do, the Qantas Business Rewards Program is well worth taking advantage of. 
-​
 
- ![Qantas Business Rewards Points Activity screen](qantas-business-rewards-points-activity.jpg)
-Figure: Always remember to include the company ABN alongside that traveller’s frequent flyer number for rewards that benefit both the company and the individual
- 
 
+ ![ Always remember to include the company ABN alongside that traveller’s frequent flyer number for rewards that benefit both the company and the individual](qantas-business-rewards-points-activity.jpg)

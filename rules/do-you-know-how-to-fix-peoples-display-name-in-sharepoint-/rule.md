@@ -9,7 +9,7 @@ authors:
 
 ---
 
- When SharePoint encounters a new person, it takes people's display name and account name from Active Directory, but sometimes<br> ![](MixUpNames.jpg) Figure: Mixed up names - some are good Display Name, some are essentially just the Account Name (More here) 
+When SharePoint encounters a new person, it takes people's display name and account name from Active Directory, but sometimes<br> ![ Mixed up names - some are good Display Name, some are essentially just the Account Name (More here) ](MixUpNames.jpg) 
 
 The easiest way to fix this requires someone with central administration access:1. Go to: SharePoint Central Administration | Application Management | Service Applications | Manage Service applications 
 ![](ServiceApplication.jpg)
@@ -34,5 +34,3 @@ Unless configured otherwise, end users in SharePoint do not have the ability to 
 
 1. Modify the farm user information list cache (via steps above), or
 2. Set up User Profile Synchronization
-
-

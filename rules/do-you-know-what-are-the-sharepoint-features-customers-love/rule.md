@@ -9,18 +9,15 @@ authors:
 
 ---
 
- 
 SharePoint is a great platform for intranet, and the new version SharePoint 2016 and SharePoint Online is getting even better every day.
 
  
-​<br>
-​ 
+
+ 
 - Powerful content discoverability via full-text search
 - Rich workflow capabilities (e.g. approval & distribution processes)
 - Document Accessibility (over the web and via Office programs)
 - Information Management Policies (e.g. Document retention policies)
 - Compliance suitability (e.g. Email archiving)
 - Great for storing both structured and unstructured content. (e.g. meeting workspaces, ad-hoc lists, project workspaces, company portal)
-- Highly customizable and extensible​
-
-
+- Highly customizable and extensible

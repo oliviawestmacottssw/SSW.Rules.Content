@@ -11,10 +11,10 @@ authors:
 
 ---
 
- Measuring which pages receive the most hits will help a great deal when looking to optimise your website.
+Measuring which pages receive the most hits will help a great deal when looking to optimise your website.
 
 - Measuring usage will help to determine the current business value of a page or feature
 - Optimising a highly used page will have a higher impact on overall system performance
 
 A number of great tools exist to find the highest hit pages.
- ![App-Insights-return-request.png](App-Insights-return-request.png)​Figure: Application Insights can return request counts under the performance screen![GoogleAnalytics-Stats.png](GoogleAnalytics-Stats.png)​ ​Figure: Google Analytics provides powerful usage statistics
+ ![ Application Insights can return request counts under the performance screen![GoogleAnalytics-Stats.png](GoogleAnalytics-Stats.png) ](App-Insights-return-request.png)

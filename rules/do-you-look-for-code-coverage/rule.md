@@ -15,8 +15,7 @@ authors:
 
 ---
 
- 
-Code Coverage shows how much of your code is covered by tests and can be a useful tool for showing how effective your unit testing strategy is.  However, it should be looked at with caution.​​
+Code Coverage shows how much of your code is covered by tests and can be a useful tool for showing how effective your unit testing strategy is.  However, it should be looked at with caution.
  
 - You should focus on **\*quality\*** not **\*quantity\*** of tests.
 - You should write tests for fragile code first and not waste time testing trivial methods
@@ -24,7 +23,6 @@ Code Coverage shows how much of your code is covered by tests and can be a usefu
 - If you're modifying code, write the test first, then change the code, then run the test to make sure it passes (AKA red-green-refactor).
 - You should run your tests regularly (see [Do you follow a Test Driven Process](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=53774ecb-3e5b-4985-89e9-3a57c2737e4c)). Ideally, they'll be part of your build (see [Do you know the minimum builds to create on any branch](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterVersionControlwithTFS%28AKASourceControl%29.aspx#MinimumBuilds))
 
-![CodeCoverage_blurred.png](CodeCoverage2010.png)Figure: Code Coverage metrics in Visual Studio. This solution has a very high code coverage percentage (around 80% on average)
+![ Code Coverage metrics in Visual Studio. This solution has a very high code coverage percentage (around 80% on average)](CodeCoverage2010.png)
 
-**​Tip:**[Do you use Live Unit Testing to see code coverage?](https://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterUnitTests.aspx#CodeCoverage)
-
+**Tip:**[Do you use Live Unit Testing to see code coverage?](https://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterUnitTests.aspx#CodeCoverage)

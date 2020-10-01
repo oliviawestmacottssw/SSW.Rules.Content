@@ -9,7 +9,7 @@ authors:
 
 ---
 
- To ensure everyone is on the same page, you can create a mission statement that continually drives your marketing plan. Is a short statement that outlines why your organization exists, what its overall goal is and it identifies the goal of its operations, e.g. what kind of product or service it provides, its primary customers or market, and its geographical region of operation and target audience. 
+To ensure everyone is on the same page, you can create a mission statement that continually drives your marketing plan. Is a short statement that outlines why your organization exists, what its overall goal is and it identifies the goal of its operations, e.g. what kind of product or service it provides, its primary customers or market, and its geographical region of operation and target audience. 
  
 A good mission statement can help in three main ways:
 
@@ -17,5 +17,4 @@ A good mission statement can help in three main ways:
 - It provides a means of evaluating and screening your marketing plan; e.g. are your daily marketing decisions consistent with the overall mission
 - It provides an incentive to implement the marketing plan, and keep updating and improving it
 
-![mission-statement.png](mission-statement.png)Figure: A clear business mission should include the purpose, value, standard behaviors, strategy, and scope of your business. Having these clearly defined allows your team to always be pushing your overall goals​
-
+![ A clear business mission should include the purpose, value, standard behaviors, strategy, and scope of your business. Having these clearly defined allows your team to always be pushing your overall goals](mission-statement.png)

@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Code duplication is a big "code smell" that harms maintainability.  You should keep an eye out for repeated code and make sure you refactor it into a single place. 
+Code duplication is a big "code smell" that harms maintainability.  You should keep an eye out for repeated code and make sure you refactor it into a single place. 
 For example, have a look at these two Action methods in an MVC 4 controller.
 
 
@@ -125,4 +125,4 @@ public ActionResult Details(int id = 0)
 Figure: Good Example - The repeated code has been refactored into its own method.
 
 **Tip: **The Refactor menu in Visual Studio 11 can do this refactoring for you.
-![vs_refactor_extract.png](vs_refactor_extract.png)Figure: The Extract Method function in Visual Studio's Refactor menu.
+![ The Extract Method function in Visual Studio's Refactor menu.](vs_refactor_extract.png)

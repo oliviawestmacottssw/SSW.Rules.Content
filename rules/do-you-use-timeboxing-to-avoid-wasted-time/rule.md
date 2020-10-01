@@ -9,10 +9,10 @@ authors:
 
 ---
 
- ​Sometimes you can set a task or be given work that ends up taking much longer than expected. Timeboxing sets a time limit to a task, after which you must stop and move on. 
+Sometimes you can set a task or be given work that ends up taking much longer than expected. Timeboxing sets a time limit to a task, after which you must stop and move on. 
 
 
-​Timeboxing allows you to give more context to a task by showing how much time (and therefore money) you are willing to spend. This typically applies to:
+Timeboxing allows you to give more context to a task by showing how much time (and therefore money) you are willing to spend. This typically applies to:
 
 - "Nice to Haves" - If it takes too long, don't worry about it.
 - Risky tasks - I'm not sure this will even work, if you can't figure it out, don't worry about it.
@@ -27,5 +27,3 @@ authors:
 
 
 Figure: Good Example. A timeboxing of one hour.
-
-

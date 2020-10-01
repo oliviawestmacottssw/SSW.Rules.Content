@@ -9,9 +9,8 @@ authors:
 
 ---
 
- 
 The Single Responsibility Principle is a well understood, and well-accepted tenant of good code design.  It states that a class should do one thing, and do it well – and an Angular component is no exception.
 
 When designing components, keep them small, modular and reusable. For example, if you have a menu, put it into a menu component, don’t put it in your app component.
- ![comp-1.png](comp-1.png)Figure: Bad example - Having just 3 components for the page makes it difficult to reuse, maintain and test​
-![comp-2.png](comp-2.png)Figure: Good example - Splitting up the page into 11 components means they are small and targeted - and thus easy to maintain and test. Components can be reused on other pages​  
+ ![ Bad example - Having just 3 components for the page makes it difficult to reuse, maintain and test](comp-1.png)
+![ Good example - Splitting up the page into 11 components means they are small and targeted - and thus easy to maintain and test. Components can be reused on other pages](comp-2.png)

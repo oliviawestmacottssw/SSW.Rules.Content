@@ -11,8 +11,7 @@ authors:
 
 ---
 
- 
-​​​​​​​The word “integrity” can be loaded with ethical connotations, but in this context, integrity means:
+The word “integrity” can be loaded with ethical connotations, but in this context, integrity means:
  
 1. ** Being true to your word**
     1. This means doing what you say you’ll do, by the time you say you’ll do it
@@ -29,7 +28,7 @@ As per our conversation, I'm sorry I missed the full requirements for this PBI.
 
 Next time I will add the details of your requirements into the Acceptance Criteria of the PBI and pay more attention to them. 
 
-Cheers, Lars​
+Cheers, Lars
 
 Figure: Good example: Acknowledging an improvement for next time
 
@@ -45,5 +44,3 @@ Managers with employees who have integrity:
 
 - Trust their employees
 - Are comfortable delegating more important work
-
-

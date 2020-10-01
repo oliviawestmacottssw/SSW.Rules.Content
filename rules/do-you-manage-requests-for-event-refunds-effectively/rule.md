@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- Every now and then, a client will purchase training or event passes and be unable to attend. In this scenario, 2 things should occur in order: 
+Every now and then, a client will purchase training or event passes and be unable to attend. In this scenario, 2 things should occur in order: 
 1. They should be offered an alternative. This is important as if they needed the training, they may well appreciate being given the option. This requires a conversation with the client and the alternative options are:
     1. A different date that the same course is being run.
     2. A different course that interests them.
@@ -17,5 +17,3 @@ authors: []
 
 
 As an example, this means that the Accountant can always issue a refund for an event immediately, without any further approval needed from the boss, so long as at least 1 alternative has been verbally offered to the client (normally by the Account Manager)
-
-

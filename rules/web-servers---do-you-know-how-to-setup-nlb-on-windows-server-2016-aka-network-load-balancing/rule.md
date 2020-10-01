@@ -11,35 +11,32 @@ authors:
 
 ---
 
- 
 Downtime occurs when you have a single server setup.
 
 **TODO: This is 2008 R2 – update to 2016**
 **Note: **2008 R2 was not as reliable as later versions. So it would be better to use failover cluster in Server 2012 R2 or 2016 for a more reliable infrastructure configuration.
 
-​​Use NLB to allow load balancing and failover. On each of your Windows Servers, you will host your website.
+Use NLB to allow load balancing and failover. On each of your Windows Servers, you will host your website.
 
 You need to follow these steps to get it up and running:
  
 1. On all nodes of the NBL cluster, the Network Load Balancing Feature needs to be installed.
-![Setup NLB](NLB1.png) Figure: Install the NLB Feature
+![ Install the NLB Feature](NLB1.png) 
 2. Open the Network Load Balancing Manager from Administrative Tools
-![Setup NLB](NLB22.png) Figure: Under the Cluster menu item, click New
+![ Under the Cluster menu item, click New](NLB22.png) 
 3. Enter the first node in the cluster in ‘Host’ and press ‘Connect’
-![Setup NLB](NLB33.png) Figure: Select the interface for the node
+![ Select the interface for the node](NLB33.png) 
 4. Enter a Priority as 1 (this is just a host identifier)
-![Setup NLB](NLB44.png) Figure: In 'Priority' enter '1'
-5. ![Setup NLB](NLB55.png) Figure: Enter a virtual IP address for the cluster. eg. 192.168.1.12
+![ In 'Priority' enter '1'](NLB44.png) 
+5. ![ Enter a virtual IP address for the cluster. eg. 192.168.1.12](NLB55.png) 
 6. Choose the IP address of your cluster from the dropdown list Set a Full Internet Name eg. spcluster.sydney.ssw.com.au. 
 Ensure the Multicast Cluster operation mode is selected.
-![Setup NLB](NLB66.png) Figure: Set the 3 cluster parameters
+![ Set the 3 cluster parameters](NLB66.png) 
 7. You want sticky sessions so you don’t mistakenly bounce between servers (and lose your state)
-![Setup NLB](NLB77.png) Figure: Leave the Port Rule as default. This will provide sticky session
-![Setup NLB](NLB88.png) Figure: Success. The cluster configuration will show a green icon
+![ Leave the Port Rule as default. This will provide sticky session](NLB77.png) 
+![ Success. The cluster configuration will show a green icon](NLB88.png) 
 8. Right click the name of the cluster eg. spcluster.sydney.ssw.com.au Click Add Host To Cluster
-![Setup NLB](NLB99.png) Figure: Add the 2nd web server with a priority of 2
+![ Add the 2nd web server with a priority of 2](NLB99.png) 
 9. Open a command prompt and type in wlbs query to verify the cluster:
-![Setup NLB](Setup-NLB-13.jpg) Figure: Type in wlbs query to verify the cluster
+![ Type in wlbs query to verify the cluster](Setup-NLB-13.jpg) 
 10. Ping both nodes and the virtual IP address externally to verify they are all working
-
-

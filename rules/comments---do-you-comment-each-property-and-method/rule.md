@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​​​​​It's important that you have a consistent code comment standard throughout an application, regardless of language. Therefore, other developers can quickly determine the workings of a function/sub/class/stored procedure. Ideally, the code should be as simple and self-explanatory as possible.
+It's important that you have a consistent code comment standard throughout an application, regardless of language. Therefore, other developers can quickly determine the workings of a function/sub/class/stored procedure. Ideally, the code should be as simple and self-explanatory as possible.
  
 **UPDATE:** See Robert Martin Chapter 4: Comments  [Clean Code: A Handbook of Agile Software Craftsmanship](https&#58;//www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
@@ -20,14 +19,13 @@ In JavaScript and HTML, you should put these comments between the 
 &lt;HEAD&gt; and &lt;/HEAD&gt;
 tags.
 
-​
 To delimit the comments (ie top and bottom), you should use the standard block comment markers of 
 &lt;!-- and --&gt;. 
 
-A CSS file should be delimited with the block comment marks of ​​
+A CSS file should be delimited with the block comment marks of 
 /\* and \*/.
 
-If the file contains any function/sub module/class declaration, comments will be contained​​ to each of them containing at least the following:
+If the file contains any function/sub module/class declaration, comments will be contained to each of them containing at least the following:
 
 - function/sub module/class name
 - role of the function/sub module/class declaration
@@ -42,7 +40,4 @@ If the file contains any function/sub module/class declaration, comments will be
 /// &lt;param name="e"&gt;&lt;/param&gt;
 /// &lt;remarks &gt;&lt;/remarks&gt;
 
-**​Bonus - you can automatically generate documentation - but the number of clients that want this is minimal.**
-
-
-
+**Bonus - you can automatically generate documentation - but the number of clients that want this is minimal.**

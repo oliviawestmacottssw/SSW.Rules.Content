@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Your videos must be optimized for YouTube including in regards to the watch time (total time spent watching a YouTube video since it went live) as their algorithm pushes to increase watch time. YouTube will rank higher in a video with a higher watch time (this is not the only setting).
  
 Your videos will be more adapted to YouTube by following the below rules:
@@ -19,5 +18,3 @@ Your videos will be more adapted to YouTube by following the below rules:
 3. **Use “pattern interrupts”.** They are elements in a video that are different from the rest of the video (they literally “interrupt” the “pattern”). These can be graphics, other video extracts, camera angle changes etc.
 4. **Script every line** or at least follow a detailed outline. You must look confident while not reading a piece of paper. Feel free to read a piece a paper, say what you just read in front of the camera and then cut the reading part when editing the video. This will also give you the opportunity to insert a pattern interrupt.
 5. **Analyse what already worked** to see what is already proven to work (you can use Buffer to help you for instance). To do so, watch the top 3 videos when searching for a particular keyword and note what they have in common (using many examples, videos are all long, all videos mention “live video”, “Instagram”, “influencer marketing”, 2 videos out of 3 mentions they are specifically for this year, etc.). Then indeed include these elements in your video.
-
-

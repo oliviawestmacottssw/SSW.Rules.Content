@@ -9,7 +9,7 @@ authors:
 
 ---
 
- This is against the .NET Object Naming Conventions and inconsistent with the framework.
+This is against the .NET Object Naming Conventions and inconsistent with the framework.
  
 Public Enum ProjectLanguageEnum CSharp VisualBasic End Enum
  Bad - Enum type is suffixed with the word "Enum" 
@@ -18,5 +18,3 @@ Public Enum ProjectLanguage CSharp VisualBasic End Enum
 Good - Enum type is not suffixed with the word "Enum" 
 
 We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.
- ​
-

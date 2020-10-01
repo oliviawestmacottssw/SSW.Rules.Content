@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​​​​​​It is vital to have the speaker ready and equipped prior to recording. There are a number of things that need to be done to make sure the speaker is ready for recording.​
+It is vital to have the speaker ready and equipped prior to recording. There are a number of things that need to be done to make sure the speaker is ready for recording.
  
 It is vital to have the speaker ready and equipped prior to recording. There are a number of things that need to be done to make sure the speaker is ready for recording.
 
@@ -34,5 +33,3 @@ Figure: Correct way to respond    The speaker arrives to the venue with a mindse
 4. Tell the speaker to read  [Rules to Better PowerPoint Presentations](https&#58;//www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=8&amp;cad=rja&amp;ved=0CHMQFjAH&amp;url=http&#58;//www.ssw.com.au/ssw/standards/Rules/RulesToBetterPowerpointPresentations.aspx&amp;ei=ue-GUdiyNueWiQedlICQBg&amp;usg=AFQjCNGvMOBZ3W-Ri29auNajyEjSPzX9oA&amp;sig2=9Is7_Z_fo0VGQt9r5SZpOg&amp;bvm=bv.45960087%2cd.aGc).
 5. Assume the speaker will need to play sound through the speakers, even if they say they won't, and set up to allow for it.
 6. Explain to the speaker that you will give them a 5-second countdown when you are about to start streaming them and that they should face forward when this happens, instead of looking sideways at you
-
-

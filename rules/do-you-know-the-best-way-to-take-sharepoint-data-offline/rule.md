@@ -9,7 +9,7 @@ authors:
 
 ---
 
- In SharePoint 2010, there are quite a few tools that we can use to take SharePoint data offline. Let’s look at our options:
+In SharePoint 2010, there are quite a few tools that we can use to take SharePoint data offline. Let’s look at our options:
 
 - use Outlook to synchronize document libraries, calendar and contacts offline.
 - use Excel to take read-only copies of list data offline.
@@ -20,11 +20,9 @@ authors:
 
 1. SharePoint Workspace synchronize an entire site
 <br>    a. So when lists are renamed it knows about it.
-<br>    b. It also knows about new lists that are added to a SharePoint site ![](Synchronize.jpg)Figure: SharePoint Workspace synchronizing an entire site
+<br>    b. It also knows about new lists that are added to a SharePoint site ![ SharePoint Workspace synchronizing an entire site](Synchronize.jpg)
 2. Outlook can be quite busy when synchronizing to Exchange server; it is good to not burden it with more work.
 
  While SharePoint Workspace is quite good, we don’t like to store lists in it:
 
 1. Access has better filtering, sorting options when offline
-
-

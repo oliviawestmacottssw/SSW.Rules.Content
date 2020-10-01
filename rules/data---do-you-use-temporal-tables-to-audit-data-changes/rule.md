@@ -11,15 +11,14 @@ authors:
 
 ---
 
+In many cases, there are legal requirements to audit all updates to financial records. In other cases, you will want to be able to track and undo deletes to your database. With the use of Temporal tables, this becomes much easier to manage.
  
-​​​In many cases, there are le​gal requirements to audit all updates to financial records. In other cases, you will want to be able to track and undo deletes to your database. With the use of Temporal tables, this becomes much easier to manage.
- 
-[​Temporal tables​](https://docs.microsoft.com/en-us/sql/relational-databases/tables/temporal-tables?view=sql-server-ver15) were introduced in SQL Server 2016 and enhanced with increased features in SQL Server 2017.
-They offer the ability to record all the entity changes to a history table allowing the querying of the entity at a point in time.​
+[Temporal tables](https://docs.microsoft.com/en-us/sql/relational-databases/tables/temporal-tables?view=sql-server-ver15) were introduced in SQL Server 2016 and enhanced with increased features in SQL Server 2017.
+They offer the ability to record all the entity changes to a history table allowing the querying of the entity at a point in time.
 
 
-​
-​​Pros:
+
+Pros:
 
 
 
@@ -30,11 +29,11 @@ They offer the ability to record all the entity changes to a history table allow
  
 
 
-Co​​ns:
+Cons:
 
 
 
-- History tables can grow very quickly in size.​
+- History tables can grow very quickly in size.
 - Storing blob datatypes (nvarchar(max), varbinary(max), ntext and image) can increase storage costs and decrease performance.
 - You cannot truncate the table.
 - Temporal and history table cannot be FILETABLE.
@@ -46,7 +45,7 @@ Co​​ns:
 
 
 
-​​CREATE TABLE dbo.Shippers
+CREATE TABLE dbo.Shippers
 (
                [ShipperID] int IDENTITY(1, 1) NOT NULL,
                [CompanyName] nvarchar(40) NOT NULL,
@@ -60,19 +59,19 @@ Co​​ns:
                )
 )
 **WITH (SYSTEM\_VERSIONING = ON (HISTORY\_TABLE = dbo.ShippersHistory));**
-Figure: Shippers table from the Northwind schema converted to a temporal table.​
+Figure: Shippers table from the Northwind schema converted to a temporal table.
 
-![](Shippers_TemporalTable.PNG)Figure: New temporal table shown in SQL Management Studio.
+![ New temporal table shown in SQL Management Studio.](Shippers_TemporalTable.PNG)
 
 
 
 
 -- Update the tables history data retention
 ALTER TABLE dbo.Shippers
-SET (SYSTEM\_VERSIONING = ON (HISTORY\_RETENTION\_PERIOD = 7 YEARS));​
+SET (SYSTEM\_VERSIONING = ON (HISTORY\_RETENTION\_PERIOD = 7 YEARS));
 Figure: Code snippet for updating data retention.
 
-​
+
 
 Some alternative solutions are:
 
@@ -85,5 +84,4 @@ Some alternative solutions are:
 
 
 
-This means that you can devote your development time to areas other than auditing. Also, unlike other utilities which use triggers (such as [ApexSQL Audit](https://www.ssw.com.au/ssw/Redirect/ApexSQL.htm)), there is no performance overhead because it relies upon log files already created by SQL Server. If required, you can export the log information to SQL Server, so you can perform advanced queries on it. It even allows you to recover previously deleted tables.​
-
+This means that you can devote your development time to areas other than auditing. Also, unlike other utilities which use triggers (such as [ApexSQL Audit](https://www.ssw.com.au/ssw/Redirect/ApexSQL.htm)), there is no performance overhead because it relies upon log files already created by SQL Server. If required, you can export the log information to SQL Server, so you can perform advanced queries on it. It even allows you to recover previously deleted tables.

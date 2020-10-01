@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-You should initialize variables outside of the try block.​
+You should initialize variables outside of the try block.
  
 Cursor cur;
 try
@@ -37,5 +36,4 @@ finally
 {
 Cursor.Current = cur;
 }
-Good Example : Because the initializing code is outside the try​​​ block​​
-
+Good Example : Because the initializing code is outside the try block

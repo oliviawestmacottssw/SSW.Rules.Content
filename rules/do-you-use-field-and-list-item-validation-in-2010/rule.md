@@ -9,7 +9,7 @@ authors:
 
 ---
 
-    class CreateShoppingListHandler : SPItemEventReceiver
+class CreateShoppingListHandler : SPItemEventReceiver
 <br>    {
 <br>        public override void ItemAdding(SPItemEventProperties properties)
 <br>        {

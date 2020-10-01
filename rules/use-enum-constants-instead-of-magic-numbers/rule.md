@@ -9,7 +9,5 @@ authors:
 
 ---
 
- 
-Using "Magic numbers" in your code makes it confusing and really hard to maintain.​​​
- ![MagicNumberBad.jpg](MagicNumberBad.jpg)​Figure: Bad example - "Magic Number" works, but is a bad idea![MagicNumberGood.jpg](MagicNumberGood.jpg)Figure: Good example - No Magic Number, looks good and is easy to manage​
-
+Using "Magic numbers" in your code makes it confusing and really hard to maintain.
+ ![ Bad example - "Magic Number" works, but is a bad idea![MagicNumberGood.jpg](MagicNumberGood.jpg)](MagicNumberBad.jpg)

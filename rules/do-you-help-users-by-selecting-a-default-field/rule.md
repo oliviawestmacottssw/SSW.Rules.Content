@@ -7,7 +7,7 @@ authors: []
 
 ---
 
- ​Help your users by setting the default field when your MVC WebSite loads.​​ 
+Help your users by setting the default field when your MVC WebSite loads. 
 By selecting a default field for your users when a page loads you can improve the usability of your web site by reducing the amount of steps needed to perform a task.
 
 
@@ -28,7 +28,7 @@ Here is a way to do this with MVC 3 and Razor:
 > 
 > 
 > ```
-> @Html.EditorFor(model => model.FirstName)​
+> @Html.EditorFor(model => model.FirstName)
 >     @Html
 > ```
 > 
@@ -49,7 +49,7 @@ Here is a way to do this with MVC 3 and Razor:
 
 
 
-2. Then use jQuery to select the class and set focus​:
+2. Then use jQuery to select the class and set focus:
 
 
 
@@ -71,5 +71,3 @@ Here is a way to do this with MVC 3 and Razor:
 > ```
 > });
 > ```
-
-

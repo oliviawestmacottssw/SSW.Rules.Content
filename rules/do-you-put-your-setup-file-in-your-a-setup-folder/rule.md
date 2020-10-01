@@ -11,11 +11,9 @@ authors:
 
 ---
 
- All setup files should stored under setup folder of your project root directory. <br> ![Store all setup files under one folder in root](SetupFileGood.gif) Good example - All the wise setup file in the \setup folder. 
+All setup files should stored under setup folder of your project root directory. <br> ![Store all setup files under one folder in root](SetupFileGood.gif) Good example - All the wise setup file in the \setup folder. 
 
 
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule.  |
 | --- |
-
-

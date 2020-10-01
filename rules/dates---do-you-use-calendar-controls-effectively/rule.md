@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 In Outlook, the Calendar control has a number of important features:
 
 - Saturday and Sunday are displayed at the *end*.
@@ -15,7 +14,7 @@ In Outlook, the Calendar control has a number of important features:
 - The current day is highlighted with a box
 
  
-​
+
 
 Users are familiar with the Outlook calendar control. When the calendar control                      is used it should incorporate all of these features of the Outlook calendar                      control.
-![Calendar Control](../../assets/CalendarControlBad.gif)                        Figure: Bad Example - Calendar Control - Sunday is at the front, today's date is <br>                        not highlighted, and items with data are not bolded![Calendar Control](../../assets/CalendarControlGood.gif)                        Figure: Good Example - Calendar Control - Monday is at the front, today's date <br>                        is highlighted, and items with data are bolded                                                                                            We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/) to                              check for this rule.  
+![ Bad Example - Calendar Control - Sunday is at the front, today's date is <br>                        not highlighted, and items with data are not bolded![Calendar Control](../../assets/CalendarControlGood.gif)                        ](../../assets/CalendarControlBad.gif)

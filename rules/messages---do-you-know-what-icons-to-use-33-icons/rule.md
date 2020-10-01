@@ -7,11 +7,10 @@ authors: []
 
 ---
 
- 
 #### Icon
 
 Including an icon is important because not only does it give the user a visual indication of the type of message, but without it only the Default beep sound is used. The icon should reflect the type of information being presented:
-   ​
+ 
 
 | Icon | Name | When to use |
 | --- | --- | --- |
@@ -23,4 +22,3 @@ Including an icon is important because not only does it give the user a visual i
 
 
 We have a program called [SSW Code](http://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#TitleVB)Auditorto check for this rule.
-

@@ -11,7 +11,7 @@ authors:
 
 ---
 
-  In SharePoint, web configuration includes:
+In SharePoint, web configuration includes:
 1. ASP.NET 3.5/4.0 library references – this is necessary for all the ASP.NET AJAX calls
 2. Add system.web/pages/controls – to add additional tag prefix from System.W eb.Extensions
 3. Add HttpModule (for example – to clean up extra JavaScript from SharePoint)

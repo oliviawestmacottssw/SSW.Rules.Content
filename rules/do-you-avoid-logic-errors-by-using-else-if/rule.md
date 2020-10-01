@@ -9,7 +9,7 @@ authors:
 
 ---
 
- We see a lot of programmers doing this, they have two conditions - true and false - and they do not consider other possibilities - e.g. an empty string. Take a look at this example. We have an If statement that checks what backend database is being used.
+We see a lot of programmers doing this, they have two conditions - true and false - and they do not consider other possibilities - e.g. an empty string. Take a look at this example. We have an If statement that checks what backend database is being used.
  
 In the example the only expected values are "Development" and "Production".
 
@@ -47,4 +47,3 @@ void Load(string environment)
   }
 }
 Figure: Good example with If statement
-

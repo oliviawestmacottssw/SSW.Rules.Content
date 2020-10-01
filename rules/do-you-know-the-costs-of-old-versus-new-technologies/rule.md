@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Every new project faces the question "What technology should I build this solution in?". There are pros and cons to choosing new technologies over old ones: 
+Every new project faces the question "What technology should I build this solution in?". There are pros and cons to choosing new technologies over old ones: 
 Pros:
 
 - Productivity improvements (faster and cheaper development)
@@ -26,4 +26,3 @@ Cons:
 
 
 One major issue with using old technologies is that you will often be up for additional costs to set up suitable legacy development environments. i.e. SQL 2005 Server, Windows 7 running VS2008 etc. and then there are bills for ongoing charges (if required to host and store dormant VMs)
-

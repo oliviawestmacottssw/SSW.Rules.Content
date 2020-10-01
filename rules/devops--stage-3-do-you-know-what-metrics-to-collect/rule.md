@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Now that your team is spending less time deploying the application, you’ve got more time to improve other aspects of the application, but first you need to know what to improve.
 
 Here are a few easy things to gather metrics on:
@@ -27,7 +26,7 @@ See how many errors are being produced, aim to reduce this as the produce mature
 - [https://rules.ssw.com.au/do-you-use-the-best-exception-handling-library](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8c5a1235-d169-4164-92a1-08812c26fc22)
 - Application Insights
 - RayGun.io
-- [Visual Studio App Center​​​](https://appcenter.ms/)(for mobile)
+- [Visual Studio App Center](https://appcenter.ms/)(for mobile)
 
 
 
@@ -45,14 +44,12 @@ But it's not only exceptions you should be looking at but also how your users ar
 
 Application/Server performance – track how your code is running in production, that way you can tell if you need to provision more servers or increase hardware specs to keep up with demand
 
-![2020-03-24_15-27-26.jpg](2020-03-24_15-27-26.jpg)
-​​​​Figure: Application Insights gives you information about how things are running and whether there are detected abnormalities in the telemetry
+![ Application Insights gives you information about how things are running and whether there are detected abnormalities in the telemetry](2020-03-24_15-27-26.jpg)
 
 
 
-![2020-03-24_15-27-45.jpg](2020-03-24_15-27-45.jpg)
-​Figure: Azure can render the Application Insights data on a nice dashboard so you can get a high level view of your application
-![2020-03-24_15-28-22.jpg](2020-03-24_15-28-22.jpg)​​​​​Figure: App Center can let you monitor app install stats, usage and errors from phones just like an app running in Azure
+![ Azure can render the Application Insights data on a nice dashboard so you can get a high level view of your application](2020-03-24_15-27-45.jpg)
+![ App Center can let you monitor app install stats, usage and errors from phones just like an app running in Azure](2020-03-24_15-28-22.jpg)
 
 
 
@@ -75,5 +72,3 @@ The last set of metrics you should be looking at revolves around the code and ho
 
 - Code Analysis
 - [SonarQube](https://www.sonarqube.org/)
-
-

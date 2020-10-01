@@ -13,5 +13,5 @@ index:
 - do-you-know-to-the-requirements-to-create-a-new-repository
 
 ---
-  Rules to Better GitHub 
+Rules to Better GitHub
 

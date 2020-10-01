@@ -11,16 +11,15 @@ authors:
 
 ---
 
- 
-​​​The first day of a new job can be daunting.  For the new starter, the workplace is unfamiliar, their colleagues are strangers, and there’s so much to learn they think their head might explode. All up, it’s a stressful time.
+The first day of a new job can be daunting.  For the new starter, the workplace is unfamiliar, their colleagues are strangers, and there’s so much to learn they think their head might explode. All up, it’s a stressful time.
 
-There are few simple ways to help new hires feel more comfortable as they adjust to their new workspace: ​
+There are few simple ways to help new hires feel more comfortable as they adjust to their new workspace:
  
 ** Before they start:**
 
 Prior to the newcomer’s arrival, make sure their desk and work area are clean by giving the desktop, monitor, mouse and keyboard a wipe with a damp cloth. Then test that the equipment on their desk, such as the computer, phone and any other electronics, is in good working condition.
 
-​​**The day before they start:**
+**The day before they start:**
 
 Give them a call and make sure they're ready and know what to bring with them, what to wear, etc.
 
@@ -37,7 +36,7 @@ Other nice day 1 gifts could include:
 - Use a blank notebook to write a welcome note and put handy hints inside, then they can continue to use the notepad during induction!
 
 
-![Penny Welcome Pic.jpg](Penny Welcome Pic.jpg)Good example: Personal, fun welcome to SSW Sydney with all of the good food and coffee tips​!
+![Penny Welcome Pic.jpg](Penny Welcome Pic.jpg)Good example: Personal, fun welcome to SSW Sydney with all of the good food and coffee tips!
 
 
 
@@ -53,5 +52,4 @@ These are some thoughtful ways to show the new hire that the company is pleased 
 
 
 
-Find the longer version of this post on [Facebook](https://www.facebook.com/SSW.page/photos/pb.120920301257947.-2207520000.1569264924./3020784747938140/?type=1&theater) and [LinkedIn​](https://www.linkedin.com/posts/ssw_the-1st-day-of-a-new-job-can-be-daunting-activity-6581822083670642688-DFTl).
-
+Find the longer version of this post on [Facebook](https://www.facebook.com/SSW.page/photos/pb.120920301257947.-2207520000.1569264924./3020784747938140/?type=1&theater) and [LinkedIn](https://www.linkedin.com/posts/ssw_the-1st-day-of-a-new-job-can-be-daunting-activity-6581822083670642688-DFTl).

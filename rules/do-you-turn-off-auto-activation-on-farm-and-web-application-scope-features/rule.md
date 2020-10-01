@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 Each SharePoint packages contains features that can be targetted at various scopes.  
 
  You need to pay special attention when you are targetting the Web Application scope.
@@ -33,6 +32,3 @@ ActivateOnDefault="False"&gt;
 &lt;ElementManifests /&gt;
 
 &lt;/Feature&gt;
-
-
-

@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 CRM 2011 is designed to work with:
 
 - SQL Server 2012 (CRM Update Rollup 6 or greater required), SQL Server 2008 (or 2008 R2)
@@ -25,7 +24,7 @@ The benefit of using SSDT-BI is you will be able to target SQL Reporting Service
 
 SSDT-BI can be downloaded from:     [http://www.microsoft.com/en-au/download/details.aspx?id=36843](http&#58;//www.microsoft.com/en-au/download/details.aspx?id=36843)
 
-​
+
  
 
 
@@ -42,5 +41,4 @@ CRM 3.0 is in .NET 1.1 so it was designed to work with:
 
 **Tip #2:** Don't try working in VS.NET 2005 - there are workarounds but they become very, very painful.
 
-**Tip #3:** SQL Reporting Services and the .rdl files are not backward compatible - there is no hope of doing them in 2005 and back porting the RDL.​​
-
+**Tip #3:** SQL Reporting Services and the .rdl files are not backward compatible - there is no hope of doing them in 2005 and back porting the RDL.

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Whether your business is big or small Advertising is an essential way of exposing customers to your brands. With the increasing competitiveness of business these days it is essential that your advertising has the greatest impact.
 
 As such, we feel it necessary to identify the different forms of advertising mediums.
@@ -42,5 +41,3 @@ Banner ads - We have had the best responses with the following websites:
 
 - Google
 - SQL Server
-
-

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Thumbnails are a great way of telling your (potential) viewers what your video is about and why they should watch it. It is therefore important that these stand out from the others.
  
 A thumbnail can draw attention by:
@@ -29,4 +28,3 @@ YouTube offers [resources to create better custom thumbnails](https://support.go
 
 ![](thumbnail_good.png) Good example: a custom thumbnail looks professional and already gives important information about the content of the video.
 **Images**: courtesy of Brian Dean ([source](https://backlinko.com/grow-youtube-channel)).
-

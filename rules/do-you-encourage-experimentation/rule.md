@@ -7,11 +7,10 @@ authors: []
 
 ---
 
- 
 Encourage experimentation to increase comfort:
 
 - Undo
 - Remember your last state
 - **Live preview**
 
- ​![live-preview.jpg](live-preview.jpg)Figure: Good example - Office Word uses Live Preview to show what styles look like
+ ![ Good example - Office Word uses Live Preview to show what styles look like](live-preview.jpg)

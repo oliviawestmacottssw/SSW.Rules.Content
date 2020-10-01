@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 When a designer (or a developer) adds design/style files to SharePoint - care must be taken regarding where the files are placed:
 
 - Some places are are not suitable because they are not good for deployment
@@ -26,5 +25,3 @@ So our rules are:
 <br>    E.g. /Style Library/CSS/SSW/Clients/layout.css
 5. Designers can modify the XSL file as well!
 <br>    put them under /Style Library/XSL Style Sheets/&lt;client&gt;/
-
-

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 We believe in reinforcing your company profile at every appropriate opportunity. The appearance of your office is very important because it is often the first impression of your company to any new visitor or client. In this way, its appearance is as important to your company profile as your clothing is to your personal profile. Although it may appear odd to cover yourself with marketing paraphernalia as you walk down the street, it's good business sense to use your office as one of your marketing tools.
 
 
@@ -19,4 +18,3 @@ We believe in reinforcing your company profile at every appropriate opportunity.
 
 ![MicrosoftTeams-image (1).png](MicrosoftTeams-image (1).png)
 Good Example - Figure: use your waiting area as an extension of your Marketing strategy
-

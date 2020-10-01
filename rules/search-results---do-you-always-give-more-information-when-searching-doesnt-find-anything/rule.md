@@ -9,10 +9,8 @@ authors:
 
 ---
 
- 
+When you ring up a company and ask “do you sell boxes?” it is not expected to hear them say “no” and hang up. They should answer the question and suggestion something, for example: “No, but we sell plastic containers, would you like that instead?”
 
-When you ring up a company and ask “do you sell boxes?” it is not expected to hear them say “no” and hang up. They should answer the question and suggestion something, for example: “No, but we sell plastic containers, would you like that instead?” ​
+Websites should do the same by giving more information instead of just say “404 – page not found” or “your search did not match anything”. It can be a simple “Try one of these instead” giving a number of links.
 
-Websites should do the same by giving more information instead of just say “404 – page not found” or “your search did not match anything”. It can be a simple “Try one of these instead” giving a number of links. ​
-
- ![](amazon-search.jpg)Figure: Good example - If you don’t match anything on Amazon, it gives you some other choices to click on
+ ![ Good example - If you don’t match anything on Amazon, it gives you some other choices to click on](amazon-search.jpg)

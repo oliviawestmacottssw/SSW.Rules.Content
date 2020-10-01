@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Twitter lets anyone request a verified account (the blue tick goes public). Twitter says that an account will be verified if it is deemed of being of public interest.
+Twitter lets anyone request a verified account (the blue tick goes public). Twitter says that an account will be verified if it is deemed of being of public interest.
  
 As outlined on the Twitter website:
 
@@ -44,8 +44,3 @@ Some common characteristics of verified accounts include:
 
 
 In order to verify your account, fill out [this form](https&#58;//verification.twitter.com/welcome) .
-
-
-
-
-

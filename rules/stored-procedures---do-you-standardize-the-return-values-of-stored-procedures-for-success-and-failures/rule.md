@@ -9,6 +9,4 @@ authors:
 
 ---
 
- 
-Standardize on the return values of stored procedures for success and failures.​​
- 
+Standardize on the return values of stored procedures for success and failures.

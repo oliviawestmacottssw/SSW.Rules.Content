@@ -7,6 +7,5 @@ authors: []
 
 ---
 
- 
 Don't surprise users! Put a lock icon                                          to indicate the link is a password protected page and login       required.
- ![Password prompt as a surprise](../../assets/PasswordProtectedPagesNeedKey.gif)Figure: Bad Example - because when you click "Building 100" you get a password prompt as a surprise
+ ![ Bad Example - because when you click "Building 100" you get a password prompt as a surprise](../../assets/PasswordProtectedPagesNeedKey.gif)

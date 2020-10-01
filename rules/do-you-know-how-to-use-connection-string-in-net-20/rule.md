@@ -11,7 +11,7 @@ authors:
 
 ---
 
- In .NET 1.1 we used to store our connection string in a configuration file like this: <br> 
+In .NET 1.1 we used to store our connection string in a configuration file like this: <br> 
 
 
 and access this connection string in code like this:
@@ -25,9 +25,9 @@ Bad example - old ASP.NET 1.1 way, untyped and prone to error.
 In .NET 2.0 you can access it in another way
 
 Step 1: Setup your settings in your common project. E.g. Northwind.Common
-![Settings in Project Properties](ConnStringNET2_Settings.jpg) Figure: Settings in Project Properties
+![ Settings in Project Properties](ConnStringNET2_Settings.jpg) 
 Step 2: Open up the generated App.config under your common project. E.g. Northwind.Common/App.config
-![Auto generated app.config](ConnStringNET2_CommonApp.GIF) Figure: Auto generated app.config
+![ Auto generated app.config](ConnStringNET2_CommonApp.GIF) 
 Step 3: Copy the content into your entry applications app.config. E.g. Northwind.WindowsUI/App.config The new setting has been updated to app.config automatically in .NET 2.0
 
 
@@ -48,5 +48,3 @@ Good example - access our connection string by strongly typed generated settings
 Please note these steps does not work for web site model in Visual Studio 2005. However, they work for other projects such as Windows Form, Console application, Class Library and Web Application Project.
 
 This is not an issue in a well designed website, since it's connection string will be defined in the **data layer** and you can overwrite this connection string in your web.config.
-
-

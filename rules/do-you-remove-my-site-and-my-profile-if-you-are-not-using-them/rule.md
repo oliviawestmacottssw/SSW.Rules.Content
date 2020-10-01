@@ -13,9 +13,8 @@ authors:
 
 ---
 
-
 **My Site** and **My Profile** are great but if you are not using them, it makes sense to remove them:
-![](LinksNeedToBeRemove.png) Figure: Links need to be hidden
+![ Links need to be hidden](LinksNeedToBeRemove.png) 
 
 You can follow below steps to hide “My Site” and “My Profile”,
 <br>There are a few options, based on what you need to do:
@@ -25,7 +24,7 @@ You can follow below steps to hide “My Site” and “My Profile”,
 
 > a. Go to **Central Admin**     | **Application Management** | **Service Applications**     | **Configure service application associations**, 
 >      Choose “default” link:     
-> ![](RemoveAssociation.png)Figure: Choose “default” link
+> ![ Choose “default” link](RemoveAssociation.png)
 > 
 > b.Uncheck the “**User Profile Service Application**”  in the     opened page, then click “**OK**”:![](RemoveAssociation2.png)
 > Figure: uncheck the association for user<br>    profile service
@@ -51,7 +50,3 @@ You can follow below steps to hide “My Site” and “My Profile”,
 
 **Note**:<br>    Later on if you want to get My Site working read these 2 links… unless Microsoft<br>    creates a services that fixes User Profile Synchronization service…. thanks to<br>    Mark Rhodes for these tips…
 http://www.harbar.net/articles/sp2010ups2.aspx    and http://www.harbar.net/articles/sp2010ups.aspx
-
-
-
-

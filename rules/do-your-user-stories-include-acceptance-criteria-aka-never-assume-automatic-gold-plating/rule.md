@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 Most teams are getting the hang of User Stories that have subtasks. Unfortunately the same can’t be said about acceptance criteria. 
 It is so important because real user stories tell a team when the task is done.
 
@@ -24,9 +23,9 @@ For example, Product Owners should not assume things like:
 They must be specified in the Acceptance Criteria if required.
 
 There are 2 parts to getting this right. The Acceptance Criteria, then the Acceptance Tests:
- ![DevsAndUsers.jpg](DevsAndUsers.jpg) Figure: You need a common language to communicate in
+ ![ You need a common language to communicate in](DevsAndUsers.jpg) 
 **Acceptance Criteria **(from the Product Owner) define the exact requirements that must be met for the story to be completed. They answer the question, "How will I know when I' m done with the story?"
- ![A User Story with Acceptance Criteria](acceptance-criteria.jpg) Figure: A User Story with Acceptance Criteria (MSF Agile Template)​
+ ![ A User Story with Acceptance Criteria (MSF Agile Template)](acceptance-criteria.jpg) 
 
 When I enter ‘Adam’ in the search box and click 'Search' I will see all entries starting with 'Adam' in the grid.
 Figure: Bad Example of Acceptance Criteria - Incomplete 
@@ -47,6 +46,4 @@ For tiny stories, you can omit acceptance criteria. Sometimes you just need a sc
 See screenshot and video.
 Screenshot – [see PDF](/Documents/13_Anvil_1408_Customer.pdf)
 Video - [http://ww w.youtube.com/watch?v=M3FH4D9QuzU](http://www.youtube.com/watch?v=M3FH4D9QuzU "http://www.youtube.com/watch?v=M3FH4D9QuzU")
-Figure: Good Example for a simple change – just include a screen capture and/or video 
- 
-
+Figure: Good Example for a simple change – just include a screen capture and/or video

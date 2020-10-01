@@ -7,10 +7,9 @@ authors: []
 
 ---
 
+Quotation marks can help user distinguish controls from the normal words. This is especially important in technical documentation, as the control names can be normal words.
  
-​​​​​Quotation marks can help user distinguish controls from the normal words. This is especially important in technical documentation, as the control names can be normal words.
- 
-​Click the Upgrade link
+Click the Upgrade link
 Figure: Bad Example - It's not clear that Upgrade is a control
 Click the "Upgrade" link
 Figure: Good Example - This is much clearer to the user what to search for.

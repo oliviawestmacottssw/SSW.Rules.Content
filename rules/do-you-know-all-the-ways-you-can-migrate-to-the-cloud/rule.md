@@ -9,7 +9,7 @@ authors:
 
 ---
 
- The 7 options are:
+The 7 options are:
  
     - **Option 1:** Take the latest version
     - **Option 2:** + Migrate Work Items using Excel
@@ -18,11 +18,7 @@ authors:
 by Martin Hinshelwood (ex-SSW)
     - **Option 5:** OpsHub
     - **Option 6:** Timely Migration
-    - **Option 7:** TfsMigrator - Microsoft​​
+    - **Option 7:** TfsMigrator - Microsoft
 
 
-Watch the video:​
-
- 
-
-
+Watch the video:

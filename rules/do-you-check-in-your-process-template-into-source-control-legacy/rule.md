@@ -11,12 +11,10 @@ authors:
 
 ---
 
- 
-​For Azure DevOps Server (and old TFS servers)
-Note: If using Azure DevOps (cloud) then you have no method of tracking changes to the Process Template​​
+For Azure DevOps Server (and old TFS servers)
+Note: If using Azure DevOps (cloud) then you have no method of tracking changes to the Process Template
 
 The customized process template is a very important asset for your team, you should use Source Control to store the work-in-progress template so you can track the changes and avoid mistakes.
-![CheckInTemplateIntoSourceControl.png](CheckInTemplateIntoSourceControl.png)Figure: customized process template in source control     ​ 
+![ customized process template in source control   ](CheckInTemplateIntoSourceControl.png)
 You should also keep a version history log in ProcessTemplate.xml so you can track the deployed version easily.
-![keep history](KeepHistoryForTemplate.png)Figure: ProcessTemplate.xml with version history log​
-
+![ ProcessTemplate.xml with version history log](KeepHistoryForTemplate.png)

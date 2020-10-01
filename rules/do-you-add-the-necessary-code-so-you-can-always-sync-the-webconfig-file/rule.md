@@ -11,7 +11,7 @@ authors:
 
 ---
 
- The Web.config file should be your main source where you store your application settings. These change, depending on which system you are working on, e.g. your local machine or the website. That's why you have to keep two versions of the Web.config file, one for your local machine and one for the website. 
+The Web.config file should be your main source where you store your application settings. These change, depending on which system you are working on, e.g. your local machine or the website. That's why you have to keep two versions of the Web.config file, one for your local machine and one for the website. 
 <br>That's annoying, not really efficient and often the cause of problems. <br> 
 In the following extract of a sample Web.config file you can see the problem. The local machine "HIPPO" has, of course, another WebServiceURL than the Webserver "SEAL". So you have to keep two versions of the Web.config file, one when working on "HIPPO" and one when working on "SEAL".
 
@@ -45,4 +45,3 @@ Figure: Sample Get WebConfigString Class
 This class simply adds the name of the Computer on which it is running on to the WebConfigString. In the former example, this would be "HIPPO\_" or "SEAL\_".
 
 Instead of using the WebConfigString directly you can now transform it using this function. With the help of this code, you always get the right value for the WebConfigString, no matter on which machine the application runs and you don't have to care about synchronizing the Web.config file any more.
-

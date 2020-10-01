@@ -7,9 +7,9 @@ authors: []
 
 ---
 
- Whenever writing numbers for a web<br>audience, it's generally a good idea to use numerals, especially for<br>complicated numbers. Numerals are more easily noticed when a page is scanned by<br>a user's eye.
+Whenever writing numbers for a web<br>audience, it's generally a good idea to use numerals, especially for<br>complicated numbers. Numerals are more easily noticed when a page is scanned by<br>a user's eye.
 For example: 
-​There are seventy three good reasons to do this.
+There are seventy three good reasons to do this.
 Figure: Bad Example - The number is spelled out.
 There are 73 good reasons to do this.
 

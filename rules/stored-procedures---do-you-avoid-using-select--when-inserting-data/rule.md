@@ -9,10 +9,10 @@ authors:
 
 ---
 
- ​Using a statement like "INSERT tableName SELECT \* FROM otherTable", makes your stored procedures vulnerable to failure. Once either of the two tables change, your stored procedure won't work. Not only that, when the inserting table has an identity column, such a statement will cause an error - "An explicit value for the identity column in table ParaRight can only be specified when a column list is used and IDENTITY\_INSERT is ON."
+Using a statement like "INSERT tableName SELECT \* FROM otherTable", makes your stored procedures vulnerable to failure. Once either of the two tables change, your stored procedure won't work. Not only that, when the inserting table has an identity column, such a statement will cause an error - "An explicit value for the identity column in table ParaRight can only be specified when a column list is used and IDENTITY\_INSERT is ON."
 
  
-​USE [ParaGreg]
+USE [ParaGreg]
 GO
 /\*\*\*\*\*\* Object: StoredProcedure [dbo].[procMove] Script Date: 08/08/2008 12:18:33 \*\*\*\*\*\*/
 SET ANSI\_NULLS ON
@@ -39,7 +39,7 @@ BEGIN
  DELETE FROM ParaRight
  WHERE ParaID = @id
 END
-​Figure: Bad Example - Using SELECT \* when inserting data. Besides, this stored procedure should have an Else section to raise error when no condition is satisfied
+Figure: Bad Example - Using SELECT \* when inserting data. Besides, this stored procedure should have an Else section to raise error when no condition is satisfied
 
 USE [ParaGreg]
 GO
@@ -70,5 +70,4 @@ BEGIN
 END
 ELSE BEGIN PRINT "Please use a correct direction"
  END
-Figure: Good Example - Using concrete columns instead of \* and provide an Else section to raise errors​​
-
+Figure: Good Example - Using concrete columns instead of \* and provide an Else section to raise errors

@@ -9,6 +9,5 @@ authors:
 
 ---
 
- Labels provide an easy way to show text in a form. It is recommended to consistently keep labels as clean as possible, without having them ending a colon [ **:** ], which is a common thing to do in Windows Forms.​
- ![Bad Label](LabelBad.gif)​ Figure: Bad Example - Labels with ":" at the end![Good Label](LabelGood.gif)
-Figure: Good Example - Clean labels without ":"
+Labels provide an easy way to show text in a form. It is recommended to consistently keep labels as clean as possible, without having them ending a colon [ **:** ], which is a common thing to do in Windows Forms.
+ ![ Bad Example - Labels with ":" at the end![Good Label](LabelGood.gif)](LabelBad.gif)

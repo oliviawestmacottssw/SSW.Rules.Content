@@ -9,7 +9,7 @@ authors:
 
 ---
 
- The Upsizing Tools do not try to upsize every type of Microsoft Access query that you may have in your Access (Jet) database. The following varieties of queries will not upsize: <br> 
+The Upsizing Tools do not try to upsize every type of Microsoft Access query that you may have in your Access (Jet) database. The following varieties of queries will not upsize: <br> 
 - Crosstab queries
 - Action queries (append, delete, make-table, update) that take parameters
 - Action queries that contain nested queries
@@ -22,4 +22,3 @@ authors:
 
 
 You must manually re-create queries that the Upsizing Tools do not migrate.
-

@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 The 5S desk space organization system was invented by the Japanese. Basically, it is a 5 step daily procedure to keep your desk clean and common stuff in the same place. When you have no useless stuff around, it brings you peace of mind and efficiency.
  
 Here are some resources on the topic:
@@ -27,7 +26,6 @@ Here are some resources on the topic:
 Photo: courtesy of goleansixsigma.com ([source](https://goleansixsigma.com/apply-5s-home-office-desk/)).
 
 
-​  ![Apply-5S_Desk-04_GoLeanSixSigma.com_.jpg](Apply-5S_Desk-04_GoLeanSixSigma.com_.jpg) Good example - A clean and productive workspace following the 5S methodology
+  ![Apply-5S_Desk-04_GoLeanSixSigma.com_.jpg](Apply-5S_Desk-04_GoLeanSixSigma.com_.jpg) Good example - A clean and productive workspace following the 5S methodology
 
 Photo: courtesy of goleansixsigma.com ([source](https://goleansixsigma.com/apply-5s-home-office-desk/)).
-

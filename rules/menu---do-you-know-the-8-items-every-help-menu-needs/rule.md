@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 A good help menu should have these 8 items in it:
 
 1. Training Videos
@@ -20,4 +19,4 @@ A good help menu should have these 8 items in it:
 7. Run Unit Tests...
 8. About [Product Name]...
 
-   ​![Bad example of help menu](../../assets/BadExampleForHelpMenu.gif)Figure: Bad Example - Example of a Help menu with only "About"![Good example of help menu](../../assets/GoodExampleOfHelpMenu.gif)Figure: Good Example - Example of a Help menu with all 8 items
+ ![ Bad Example - Example of a Help menu with only "About"![Good example of help menu](../../assets/GoodExampleOfHelpMenu.gif)](../../assets/BadExampleForHelpMenu.gif)

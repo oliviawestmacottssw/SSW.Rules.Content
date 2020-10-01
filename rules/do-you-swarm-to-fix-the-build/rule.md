@@ -9,8 +9,8 @@ authors:
 
 ---
 
- If you or someone on your team has broken the build, the whole team should swarm to fix the problem immediately. 
-​
+If you or someone on your team has broken the build, the whole team should swarm to fix the problem immediately. 
+
 
 
 
@@ -28,9 +28,7 @@ Two things should be done:
 ![broken builds.png](broken builds.png)
 
 Bad Example: Too many broken builds in a row.
-​
 
-​​![good builds.png](good builds.png)
+
+![good builds.png](good builds.png)
 Good Example: Broken build was fixed immediately.
-​
-

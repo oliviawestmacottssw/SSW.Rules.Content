@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 If in the office:
 
 - Option 1 is the Outlook Client - connect to the demo organization (you will need to deploy a demo org first).
@@ -38,4 +37,4 @@ You should be able to show:
 - Service (aka Support)
 - Mail Merge
 
-![](CRM-2013-screenshot.jpg)Figure: Outlook​ with the CRM plugin
+![ Outlook with the CRM plugin](CRM-2013-screenshot.jpg)

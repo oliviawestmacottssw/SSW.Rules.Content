@@ -9,15 +9,7 @@ authors:
 
 ---
 
- The following ​​video explains the importance of:
+The following video explains the importance of:
 
 - Hand gestures
 - An upbeat voice (especially at the beginning of your talk and during an elevator pitch)
-
- 
-​​​
-
- 
-
-
-

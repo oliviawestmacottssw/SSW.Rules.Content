@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 When you are about to finish a client project, it is a good idea to prepare a "thank you" email, have it checked and send it to your customer (usually product owner) on the last day. In this email include:
  
 
@@ -31,7 +30,7 @@ There are a number of reasons why this is important:
 - Show him that you will be supporting him after the project ends (not disappearing forever)
 
 
-Below is a template email you can use:​
+Below is a template email you can use:
 
 Hi &lt;ClientName&gt;, 
 
@@ -53,6 +52,3 @@ Please feel free to contact us if you have any questions.
 
 Regards,
 &lt;yourExternalSignature&gt;
-
-
-

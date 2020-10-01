@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 You should design a website to look good when being viewed in **Google Chrome**, **Mozilla Firefox**, the latest version of **Internet Explorer** and **Safari** unless the client specifically requests otherwise.
 
 There are a lot of other browsers available, but it is important to consider that most other browsers are based on the most used browser nowadays.
@@ -27,10 +26,8 @@ You must test your website on the major browsers, though, because that there wil
 
 
 You should be able to fix all formatting and layout bugs by editing the CSS file.
-![BrowserUsageStats2020.png](BrowserUsageStats2020.png)
-Figure: Browsers statistics in 2020 – Know more in [W3C Browser Stats](http://www.w3schools.com/browsers/browsers_stats.asp)
+![ Browsers statistics in 2020 – Know more in [W3C Browser Stats](http://www.w3schools.com/browsers/browsers_stats.asp)](BrowserUsageStats2020.png)
 
 
 **Note:** If a browser represents less than 2% of your website views in Analytics, then you shouldn't bother. 
 E.g. Google shut down this link - **http://html5shim.googlecode.com/svn/trunk/html5.js** - which was used as an HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries. Since IE represents a small percentage of views it can be removed instead of updated to a new working shim.
-

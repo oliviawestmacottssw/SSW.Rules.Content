@@ -13,7 +13,7 @@ authors:
 
 ---
 
- According to http://msdn.microsoft.com/en-us/library/ms997609.aspx, the commands for navigating through a wizard should be "< Back" and "Next >". <br> 
+According to http://msdn.microsoft.com/en-us/library/ms997609.aspx, the commands for navigating through a wizard should be "< Back" and "Next >". <br> 
 When your site needs a link to iterate backwards through records we recommend that you use "< Back" instead of "< Previous".
 
 There are a few reasons for this:
@@ -24,7 +24,7 @@ There are a few reasons for this:
 
 
 Below is an example of a Good "< Back" link versus some Bad variations.
-![Good](textboxeswithshowbutton.gif) Figure: A Good example of a "< Back" link ![Bad](badpreviouslink.gif) Figure: This is Bad because it says "Previous" instead of "Back" ![Good](badbacklink.gif) Figure: This is bad because it has too many "<"s or it has no space between the "<" and the "Back" 
+![ A Good example of a "< Back" link ![Bad](badpreviouslink.gif) ](textboxeswithshowbutton.gif) 
 We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.
 
 

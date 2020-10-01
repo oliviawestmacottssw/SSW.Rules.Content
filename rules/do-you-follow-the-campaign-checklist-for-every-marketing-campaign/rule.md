@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​​​One of the most effective ways of launching an effective marketing campaign is to follow a checklist that includes company tried and tested strategies. This checklist should be filled out with the campaign details and then followed to execute the campaign.​
+One of the most effective ways of launching an effective marketing campaign is to follow a checklist that includes company tried and tested strategies. This checklist should be filled out with the campaign details and then followed to execute the campaign.
  
 ### Pre-Campaign Stage
 
@@ -26,7 +25,7 @@ authors:
     2. Create social media updates to send to each
 
 
-### ​Content Promotion
+### Content Promotion
 
 **Content promotion strategy **
 
@@ -53,4 +52,4 @@ authors:
 
 1. Add relevant content to an auto-responder email campaign
 
- ​ You can find a template to follow at  [!\[\](icdocx.png)SSW-Marketing-Campaign-Checklist-TEMPLATE\_v1.docx](/Documents/SSW-Marketing-Campaign-Checklist-TEMPLATE_v1.docx)
+  You can find a template to follow at  [!\[\](icdocx.png)SSW-Marketing-Campaign-Checklist-TEMPLATE\_v1.docx](/Documents/SSW-Marketing-Campaign-Checklist-TEMPLATE_v1.docx)

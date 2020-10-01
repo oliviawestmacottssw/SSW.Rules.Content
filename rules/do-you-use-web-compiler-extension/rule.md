@@ -9,11 +9,10 @@ authors:
 
 ---
 
- You can use Visual Studio's Web Compiler extension to create a bundle.css and test if CSS was compiled successfully. 
+You can use Visual Studio's Web Compiler extension to create a bundle.css and test if CSS was compiled successfully. 
  
 More information and download at [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebCompiler).
- ![web-compiler-find-error.png](web-compiler-find-error.png) Figure: Web Compiler can find missing curly braces Unfortunately different kinds of errors, like are not caught.  ![web-compiler-didnt-find-error.png](web-compiler-didnt-find-error.png) Figure: Curly braces in the wrong place, but still compiled successfully 
+ ![ Web Compiler can find missing curly braces Unfortunately different kinds of errors, like are not caught.  ![web-compiler-didnt-find-error.png](web-compiler-didnt-find-error.png) ](web-compiler-find-error.png) 
 
 In addition, Gulp is wrongly successful too:
-![gulp-didnt-find-error.png](gulp-didnt-find-error.png) Figure: Gulp couldn't find the curly braces error​
-
+![ Gulp couldn't find the curly braces error](gulp-didnt-find-error.png)

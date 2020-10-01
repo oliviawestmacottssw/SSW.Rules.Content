@@ -9,9 +9,6 @@ authors:
 
 ---
 
- 
-
-
 The &lt;font&gt; tag is supported in all major browsers, however it is deprecated since HTML 4. Read more at [w3schools.com](http&#58;//www.w3schools.com/tags/tag_font.asp).
  
 &lt;font&gt;Some text&lt;/font&gt;
@@ -22,4 +19,3 @@ Figure: Good Example - Using &lt;p&gt; or &lt;span&gt; for texts
 **Tip:** Use CSS to define the font, size, and color of text.
 
 We have the programs [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) and [SSW Link Auditor](http&#58;//www.ssw.com.au/ssw/linkauditor/) to check for this rule.
-

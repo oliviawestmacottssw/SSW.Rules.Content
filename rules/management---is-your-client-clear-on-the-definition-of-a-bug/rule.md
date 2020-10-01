@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug. <br>​ 
+The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug. <br> 
 ![](bug-feature.png)
 
 A software issue can be classed as a bug where:
@@ -25,11 +25,9 @@ A software issue can be classed as a bug where:
 **and **the developers can reproduce the above on the test server **and **the application is not yet "live" **and **the issue has been reported in time (generally 30 days).
 **Examples of what \*could\* constistute a bug:**
 1. The application crashes to code because it doesn't check that a connection is valid before running a stored procedure **(this is likely covered because it crashes to code)
-![](YellowScreenofDeath.jpg)
-Figure: Yellow screen of death**
+![ Yellow screen of death](YellowScreenofDeath.jpg)
 2. A sum total is negative instead of positive because the wrong operator (plus instead of minus) has been used to calculate the running balance **(this is likely covered because data is inconsistent with the specified business rules)
-![](IncorrectSum.jpg)
-Figure: An incorrect sum is likely to be a bug**
+![ An incorrect sum is likely to be a bug](IncorrectSum.jpg)
 3. The application is missing the Monthly Sales report **(this is likely covered because the application is missing functionality specified in the specification)**
 4. The output HTML in the application is formatted way out of line and does not display in the specified browser (e.g. Internet Explorer 9) **(this is likely covered because it substantially inconsistent with the agreed mockup)
 **
@@ -51,14 +49,13 @@ Using TFS allows you to create work items such as user stories, bugs, tasks, tes
 
 
 **Handling additional work for fixed-price contracts**
-Scrum wasn't designed for fixed price, fixed scope contracts, however, a​ny new features or modifications (non-bug items) not in the original sprint or sprints are classed as additional work and are outside the scope of the contract. Any tasks which **are** bugs should be marked as additional items and be completed in the current sprint if possible. Most importantly, after the sprint plan has been sent, **a PBI should NOT be entered as an item (additional or otherwise) in ANY sprints if they are not a bug**. Instead, move all non-bug items to the product backlog for future review after the warranty period for the fixed price contract has passed.
+Scrum wasn't designed for fixed price, fixed scope contracts, however, any new features or modifications (non-bug items) not in the original sprint or sprints are classed as additional work and are outside the scope of the contract. Any tasks which **are** bugs should be marked as additional items and be completed in the current sprint if possible. Most importantly, after the sprint plan has been sent, **a PBI should NOT be entered as an item (additional or otherwise) in ANY sprints if they are not a bug**. Instead, move all non-bug items to the product backlog for future review after the warranty period for the fixed price contract has passed.
 
 **Handling additional work in a Scrum project**
 
-Any new features or modifications (non-bug items) not in the original Product Backlog are classed as additional PBI's and placed on the Product Backlog. Any tasks which **are** bugs found during the current Sprint should be fixed within the current Sprint. Any tasks which **are** bugs found outside of the current Sprint should be added to the Product Backlog. See [Do you know when to create bugs?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a497565c-0fac-4fff-bec2-4cd3278c5654 "Do you know when to create bugs?") and [Do you know the 3 steps to a PBI?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2c4dfc14-8084-4277-ae5e-7f5f692e4065)​
+Any new features or modifications (non-bug items) not in the original Product Backlog are classed as additional PBI's and placed on the Product Backlog. Any tasks which **are** bugs found during the current Sprint should be fixed within the current Sprint. Any tasks which **are** bugs found outside of the current Sprint should be added to the Product Backlog. See [Do you know when to create bugs?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a497565c-0fac-4fff-bec2-4cd3278c5654 "Do you know when to create bugs?") and [Do you know the 3 steps to a PBI?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2c4dfc14-8084-4277-ae5e-7f5f692e4065)
 
-![tfs_preview_add_bug.png](62034c_tfs_preview_add_bug.png)
-**Figure: Adding a bug to the Product Backlog in TFS**
+![ Adding a bug to the Product Backlog in TFS](62034c_tfs_preview_add_bug.png)
 
 If you see a bug in any software product, e.g. SSW Code Auditor, it is best to report the issue following the steps outlined the [SSW Bug or Enhancement Reporting Standard](http://www.ssw.com.au/ssw/Standards/Support/BugReportOrEnhancement.aspx).
 
@@ -69,6 +66,3 @@ Note: The above is our definition. Others have different definitions that we do 
 
 You can also use the Wiki definition of "Software Bug" as a reference to understand this concept:
 - [Wikipedia Definition of Software Bug](http://en.wikipedia.org/wiki/Software_bug) ![You are about to leave the SSW site](../../assets/LeaveSite.gif)
-
-
-

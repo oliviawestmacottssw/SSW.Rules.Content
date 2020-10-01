@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​The goal of any outbound call is to get the person on the other end of the line involved. The way to do this is to employ a knockout combo. If you were a boxer, you'd follow up a jab with a cross hook and an uppercut! (the good ole one-two-three knockout!). If you're a telemarketer you follow the YES ladder up with open-ended questions. Here's how most of your combos should sound:
+The goal of any outbound call is to get the person on the other end of the line involved. The way to do this is to employ a knockout combo. If you were a boxer, you'd follow up a jab with a cross hook and an uppercut! (the good ole one-two-three knockout!). If you're a telemarketer you follow the YES ladder up with open-ended questions. Here's how most of your combos should sound:
  
 For your jab and cross hook combo use questions one, two and three (see [Do you build a YES ladder to your outbound script?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ff214e08-7bf1-4604-9047-1c1f40d2339a)).
 
@@ -33,6 +32,3 @@ This question is great because of the following reasons:
 - It's likely the prospect has thought about this.
 - The answer is likely to give you some good points to feed off or identify what doesn't interest them.
 - The question can't be answered with a quick yes or no and the prospect must think about how they really feel/think. This increases their involvement and investment into the conversation bringing you a step closer to a sale.
-
-
-

@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Do you dream to be a 'Schema Master' one day? If so you need to know what changes are low impact and what needs to be done with care. Take care when it involves existing data. Do you know what the hard ones are? 
+Do you dream to be a 'Schema Master' one day? If so you need to know what changes are low impact and what needs to be done with care. Take care when it involves existing data. Do you know what the hard ones are? 
 
 <br>Let's look at examples of this increasing complexity (using [The Mr Northwinds database](http&#58;//www.microsoft.com/Downloads/details.aspx?FamilyID=06616212-0356-46a0-8da2-eebc53a68034&amp;displaylang=en)) : <br> 
 
@@ -92,4 +92,4 @@ GO
 ```
 
 Figure: Change data type (Very Hard) e.g. Text to Integer. Text to Integer and data conversion requires ["Data Motion Scripts"](/Pages/DoYouUnderstandADataTypeChangeDataMotionScripts.aspx). The above is abbreviated, see [the full .SQL file](/Documents/EmployeesCharToInt.sql)    
- And the point of know this. Well no tool out there, not Redgate's SQL Compare, not Microsoft's Data Dude, nor SSW's SQL Deploy will do this automagically for you. So you better understand that this stuff is delicate.    
+ And the point of know this. Well no tool out there, not Redgate's SQL Compare, not Microsoft's Data Dude, nor SSW's SQL Deploy will do this automagically for you. So you better understand that this stuff is delicate.

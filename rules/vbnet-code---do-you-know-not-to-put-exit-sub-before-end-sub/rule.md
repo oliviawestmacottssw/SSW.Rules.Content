@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 This is often a bad practice if you already are ending Sub you don't need another line.
  
 Sub MySub
@@ -24,5 +23,4 @@ Sub MySub
 End sub
 
 
-Figure: Good example​
-
+Figure: Good example

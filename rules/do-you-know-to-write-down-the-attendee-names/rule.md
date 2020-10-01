@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 If the presenter has a small audience (say under 20), then it is best to know the attendee names (or at least quite a few of them) so you are able to communicate better with them throughout the day.
 
 The problem is you will forget their names after they introduce themselves.
@@ -17,4 +16,4 @@ The problem is you will forget their names after they introduce themselves.
 The fix is to have a piece of paper, (already divided up) so you can write down the names on it in the order that people are sitting.
 
 This ends up being a great reference you can use to address questions directly to participants using their name. This ensures that attendees keep focused as they may directly have questions referencing them.
-![](classroom.jpg)Figure: For a classroom like this...![](names-list.jpg)Figure: ...use a sheet like this
+![ For a classroom like this...![](names-list.jpg)](classroom.jpg)

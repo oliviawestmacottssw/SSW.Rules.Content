@@ -13,11 +13,10 @@ authors:
 
 ---
 
-
 Developing in ASP.NET is easy, you just press F5, Visual Studio spins up instance of the Cassini web server, and you can see your work execute. Developing in SharePoint is much harder as you need access to a local SharePoint server to see your work run.
 
 In SharePoint 2007 there are three options, in SharePoint 2010 they have added one more.
-![](SetupSPEnviroment.jpg) Figure: Setting up the development environment in SharePoint can give you a headache  Your development choices in SharePoint 2007 are: 
+![ Setting up the development environment in SharePoint can give you a headache  Your development choices in SharePoint 2007 are: ](SetupSPEnviroment.jpg) 
 - Remote to a shared SharePoint development server 
 <br>    Tip: This is best for people who do \*not\* need to have their own SharePoint server, such as designers, testers or content editors.
 <br>    Problem #1: By default you only get 2 concurrent accounts
@@ -53,9 +52,7 @@ One of the biggest problem is that SharePoint 2007 can only be installed on Wind
 - Yes, you can easily deploy a xap file to a document library. However, if you need to debug it you will need the SharePoint 2010 object model. 
 <br>    Tip: You could minimise your exposure to the object model by using a Repository pattern, which would allow you to debug and test your application without SharePoint, but ultimately you will need to debug and test in SharePoint.
 
-![](UltimateSolution.jpg) Figure: The Ultimate solution for SharePoint development environments is to have another machine under your desk. The Ultimate Solution 
+![ The Ultimate solution for SharePoint development environments is to have another machine under your desk. The Ultimate Solution ](UltimateSolution.jpg) 
 
 - Get yourself a second machine (same as remote)
 - But don’t share it with anyone else!
-
-

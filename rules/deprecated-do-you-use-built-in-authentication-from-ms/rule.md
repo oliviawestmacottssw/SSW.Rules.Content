@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​This rule has been replaced by  ​[Do you choose the best method of authentication for your situation?​​​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=afa18fb5-a263-4538-a54e-02c8bd78ad67)
+This rule has been replaced by  [Do you choose the best method of authentication for your situation?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=afa18fb5-a263-4538-a54e-02c8bd78ad67)
  
 Assuming you want:
 
@@ -112,4 +111,3 @@ The ASP.NET membership provider is wired in at a deep level in the ASP.NET pipel
 An example of completely removing ASP.NET Membership Providers: [Kicking ASP.NET Providers to the Curb](http&#58;//www.devproconnections.com/article/aspnet2/Kicking-ASP-NET-Providers-to-the-Curb-129584) - And that actually works fine, but with one big, ugly, drawback. The site is able to authenticate and authorize as needed, but you drop in a few .ashx or other things like Elmah, CacheManagement, etc, and then tried to restrict access to them... it obviously is not able to.
 
 **Note:** Gurus use Windows Identity Foundation (and IdentityModel).
-

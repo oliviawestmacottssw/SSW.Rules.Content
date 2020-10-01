@@ -9,10 +9,9 @@ authors:
 
 ---
 
- 
 The best way to emphasize your point is to "build" the pain first and then show the solution. So we use "Bad Example" and "Good Example" in the captions where possible.
  
 To do this, we give a bad example and raise users' expectation first.
-![bad example](ImageBadExample.gif)Figure: Bad Example - kid not in his seat
+![ Bad Example - kid not in his seat](ImageBadExample.gif)
 Now we can show the solution and give a good example as the result, make them feel released.
-![good example](kid-in-airplane-seat.jpg)Figure: Good Example - kid in his seat
+![ Good Example - kid in his seat](kid-in-airplane-seat.jpg)

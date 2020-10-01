@@ -9,8 +9,6 @@ authors:
 
 ---
 
+Then avoid adding exclusions… and if you \***have to**\* make sure any exclusions…then have each one agreed to by all the team members.
  
-Then avoid adding exclusions… and if you \***have to**\* make sure any exclusions…then have each one agreed to by all the team members.​
- 
-​[https://github.com/StyleCop/StyleCop](https&#58;//github.com/StyleCop/StyleCop) ​​
-
+[https://github.com/StyleCop/StyleCop](https&#58;//github.com/StyleCop/StyleCop)

@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Be sure you are aware of what is business logic and what isn't. Typically, looping code will be placed in the business layer. This ensures that no redundant code is written and other projects can reference this logic as well.
+Be sure you are aware of what is business logic and what isn't. Typically, looping code will be placed in the business layer. This ensures that no redundant code is written and other projects can reference this logic as well.
 
  
 private void btnOK\_Click(object sender, EventArgs e)
@@ -36,7 +36,4 @@ string paraText = Business.GetParaText();
 rtbParaText.Clear();
 rtbParaText.Add(paraText);
 }
-Good Example : Putting business logics into the business project, just call the relevant method when needed​​
-
-
-
+Good Example : Putting business logics into the business project, just call the relevant method when needed

@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 Did you know if you are using DataSets throughout your application (not data readers) then you don't need to have any code about connection opening or closing.
 
 Some say it is better to be explicit. However the bottom line is less code is less bugs.
@@ -95,4 +94,3 @@ People who don't:
 Microsoft's online guide to [Improving ADO.NET performance](http&#58;//www.ssw.com.au/ssw/Redirect/MSDN_ADO.htm) to see their opinion and other tips.
 
 One final note: This argument is a waste of time.... With code generators developing most of the Data Access layer of the application, the errors, if any, will be long gone and the developer is presented with higher level of abstraction that allows him/her to concentrate on more important things rather than mucking around with connections. Particularly considering that, when we start using the Provider model from Whidbey, it won't even be clear whether you're talking to SQL Server or to an XML file.
-

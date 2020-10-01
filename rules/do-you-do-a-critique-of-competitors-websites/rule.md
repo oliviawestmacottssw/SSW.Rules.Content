@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 Here are my thoughts on a couple of product sites critiqued against our criteria.       The following are the first 3 things I look on a product site:
 
 - Screenshots
@@ -88,5 +87,3 @@ Here are my thoughts on a couple of product sites critiqued against our criteria
 - No clear links to product knowledge base until the bottom of the page
 - Section about FxCop could be put on a separate page, with a feature comparison table, which is then linked to with a navigation item. This content won't be of interest to many surfers. Those who do know FxCop will see the link and click through.
 - Report demo should be made clearer. People want to see this.
-
-

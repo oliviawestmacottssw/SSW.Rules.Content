@@ -11,11 +11,10 @@ authors:
 
 ---
 
- ​Null-conditional operators - makes checking for null as easy as inserting a single question mark. The Null-conditional operators feature boils down all of the previously laborious clunky code into a single question mark.
+Null-conditional operators - makes checking for null as easy as inserting a single question mark. The Null-conditional operators feature boils down all of the previously laborious clunky code into a single question mark.
  
 int length = customer != null && customer.name != null ? customer.name.length : 0;
 Figure: Bad Example - Verbose and complex code checking for nulls
 
 int length = customers?.name?.length ?? 0;
-​​Figure: Good Example - Robust and easier to read code
-
+Figure: Good Example - Robust and easier to read code

@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​​- default zone should be over http, this is so search can access it over non-secure connection
+- default zone should be over http, this is so search can access it over non-secure connection
 - default zone should not be accessible outside of internal network
 - extend the web application to an internet zone, this should be https to provide secure connection
 
@@ -25,5 +25,4 @@ For this scenario to work, web application needs to be extended 2 to 3 different
 
 **Internet** (http for reverse proxy)
 
-**Intranet** (https for internal https link)​
-
+**Intranet** (https for internal https link)

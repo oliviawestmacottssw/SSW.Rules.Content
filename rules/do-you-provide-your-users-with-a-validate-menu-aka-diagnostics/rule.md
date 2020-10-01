@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 We recommend adding these menus to your Tools Menu:
 
 - Tools - Validate - Validate Links (with [SSW Link Auditor](http&#58;//www.ssw.com.au/ssw/LinkAuditor))
@@ -20,5 +19,3 @@ We recommend adding these menus to your Tools Menu:
 - Tools - Validate PC (with [SSW Diagnostics](http&#58;//www.ssw.com.au/ssw/Diagnostics/Default.aspx))
 - Tools - View Application Errors (with [SSW Lady Log](http&#58;//www.ssw.com.au/ssw/NetToolKit/04ExceptionReporter.aspx))
 - Tools - Validate - Code Quality (with SSW Code Auditor)
-
-

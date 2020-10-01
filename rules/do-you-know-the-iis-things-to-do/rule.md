@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​There are a number of things you can do to make your content more search-friendly in IIS.
+There are a number of things you can do to make your content more search-friendly in IIS.
 
 - Make content search engine-friendly
 - Improve volume and quality of traffic
@@ -19,7 +18,6 @@ authors:
 - Show broken pages
 
  
-​​You can use the [IIS SEO](http://www.iis.net/extensions/SEOToolkit) Toolkit to find most of your problems.
-![AnalyseSite.jpg](AnalyseSite.jpg)​​Figure: Analyzing your site is easy![ProblemsYouHave.jpg](ProblemsYouHave.jpg)​​​Figure: You never know how many problems you have until you try​
-See [ScottGu's post on IIS Search Engine Optimization Toolkit](http://weblogs.asp.net/scottgu/archive/2009/06/03/iis-search-engine-optimization-toolkit.aspx) for more information​​​
-
+You can use the [IIS SEO](http://www.iis.net/extensions/SEOToolkit) Toolkit to find most of your problems.
+![ Analyzing your site is easy![ProblemsYouHave.jpg](ProblemsYouHave.jpg)](AnalyseSite.jpg)
+See [ScottGu's post on IIS Search Engine Optimization Toolkit](http://weblogs.asp.net/scottgu/archive/2009/06/03/iis-search-engine-optimization-toolkit.aspx) for more information

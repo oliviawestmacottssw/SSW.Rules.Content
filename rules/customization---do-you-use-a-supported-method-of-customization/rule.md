@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 The Microsoft CRM customization tools make it no longer necessary for you to hack           ie. write triggers, stored procedures and .aspx pages. In fact if you were to do           any of these your CRM is unsupported. Changes will not be preserved in any upgrades           or fixes and Microsoft will not attend to any of your support calls until you revert           your CRM back to a supported state.
  
 The common ways to customize are:
@@ -22,8 +21,7 @@ The common ways to customize are:
 
 
 The diagram below briefly outlines what are possible supported methods of customization.
-![ Microsoft CRM Customization Architecture ](CRM_Customization_Architecture.JPG)              Figure: Microsoft CRM Customization Architecture<br>            
+![ Microsoft CRM Customization Architecture<br>            ](CRM_Customization_Architecture.JPG)              
 Refer to P19 of the CRM Customization Manual Course 8525A for a more in depth discussion.
 
 PS: For CRM 3.0 you can't find everything on the web - you will need the CRM Customization Manual Course 8525A - you have to buy it from Microsoft :-(
-

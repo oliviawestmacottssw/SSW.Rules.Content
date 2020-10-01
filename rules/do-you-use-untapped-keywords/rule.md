@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Choosing the right keywords will help your audience find your video. However, some keywords are very competitive (many people use them) so you need to “niche” your content as well.
  
 To do this, follow these steps:
@@ -21,4 +20,3 @@ To do this, follow these steps:
 
 
 Ideally, you would like to select keywords that appear in the YouTube suggestions as well as the videos from your competitors but also keywords that haven’t been used while still being relevant to your content. It is a good balance to find.
-

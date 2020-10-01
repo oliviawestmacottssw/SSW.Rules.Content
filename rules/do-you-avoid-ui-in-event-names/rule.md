@@ -9,7 +9,7 @@ authors:
 
 ---
 
- No "UI" in event names, the event raiser should be unaware of the UI in MVVM and user controls
+No "UI" in event names, the event raiser should be unaware of the UI in MVVM and user controls
 The handler of the event should then do something on the UI. 
  
 private void RaiseUIUpdateBidButtonsRed()
@@ -20,7 +20,7 @@ UIUpdateBidButtonsRed();
 }
 }
  Bad Code: Avoid "UI" in event names, an event is UI un-aware
-​​
+
 
 private void RaiseSelectedLotUpdated()
 {
@@ -30,5 +30,3 @@ SelectedLotUpdated();
 }
 }
  Good Code: We received an update on the currently selected item, change the UI correspondingly (or even better: use MVVM and data binding)
-​
-

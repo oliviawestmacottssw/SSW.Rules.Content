@@ -9,7 +9,7 @@ authors:
 
 ---
 
- There is a place for Silverlight, but it can only be the 'richer' experience. In some case it is better not to use Silverlight for Data Entry Form and also content publisher should have alternative of Silverlight for Andriod & iOS user. <br> 
+There is a place for Silverlight, but it can only be the 'richer' experience. In some case it is better not to use Silverlight for Data Entry Form and also content publisher should have alternative of Silverlight for Andriod & iOS user. <br> 
 **Mobile Device: 
 
 ![Silverlight in iPad doesn't work](SilverlightInIPad.png)
@@ -61,4 +61,3 @@ YES. Microsoft.Maps.MapControl provides functionality to access Bing Maps. Using
 **Slow Response**
 
 The initial slow response is due to downloading of the .xap file. This is not an issue since it is a one-time download and the user gets a fast response with later interaction. For later visits, user will not face slow response issue as browser already cached the data. Also check out rules - [Do you use dynamic application loading in Silverlight](/Pages/Do-you-use-dynamic-application-loading-in-Silverlight.aspx)
-

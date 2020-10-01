@@ -9,8 +9,6 @@ authors:
 
 ---
 
- 
 Each file in TypeScript is a module, and each module can export whatever members it wants.  However, if you export everything, you run the risk of having to increment major versions (when using semantic versioning), or having your module used in unintended ways.
  
-​​Only export the types necessary to reduce your API surface.  Often, this means exporting interfaces over implementations.
-
+Only export the types necessary to reduce your API surface.  Often, this means exporting interfaces over implementations.

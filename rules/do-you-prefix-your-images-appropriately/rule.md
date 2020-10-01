@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 It is important to sensibly name your images. We don't use "img" (in the same way we don't use "tbl" for tables).
 
 However, for special types of images we do include a prefix.
@@ -19,4 +18,4 @@ However, for special types of images we do include a prefix.
 | Icon | ico | icoSSW.ico |
 | Screenshot | Screen | ScreenCodeAuditorMainWindow.gif |
 
-![](ScreenFilesWithScreenPrefix.gif)Figure: Correctly named images​  
+![ Correctly named images](ScreenFilesWithScreenPrefix.gif)

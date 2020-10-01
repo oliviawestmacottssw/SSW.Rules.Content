@@ -15,15 +15,15 @@ authors:
 
 ---
 
- Every now and then your clients are going to want to change their priorities​ and have you work on something which they see as more important than some of the items in your current sprint. Provided that it doesn't have any negative effects overall, there isn't any reason why you can't stick to the "customer is always right" philosophy.
+Every now and then your clients are going to want to change their priorities and have you work on something which they see as more important than some of the items in your current sprint. Provided that it doesn't have any negative effects overall, there isn't any reason why you can't stick to the "customer is always right" philosophy.
 
-So what will you do when this happens? ​ 
-1. Double check that this new item is more important than the current sprint items (if not add it to the product backlog instead​)
+So what will you do when this happens?  
+1. Double check that this new item is more important than the current sprint items (if not add it to the product backlog instead)
 2. Add the new PBI to the current sprint
 3. Remove another item of similar size off the sprint and back to the backlog
 
 
-​
+
 
 In the rare case where the entire sprint goal and all PBIs are no longer high priority, you can instead cancel the entire sprint and start again:
 
@@ -33,4 +33,3 @@ In the rare case where the entire sprint goal and all PBIs are no longer high pr
 
 
 This should only be done in extreme circumstances as it is traumatic to the team.
-

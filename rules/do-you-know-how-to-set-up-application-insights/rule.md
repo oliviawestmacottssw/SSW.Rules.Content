@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​The easiest way to get started with Application Insights is to follow the documentation on MSDN https://azure.microsoft.com/en-us/documentation/articles/app-insights-get-started/
+The easiest way to get started with Application Insights is to follow the documentation on MSDN https://azure.microsoft.com/en-us/documentation/articles/app-insights-get-started/
 
 Lets take a look at the overview and our tips to help you get the most out of Application Insights.
  
@@ -30,4 +29,3 @@ The default set up and configuration of Application Insights will send generic p
 **Tip #3 – What if you don't have the source code of your ASP.NET application **
 
 This rule on how to add Application Insights to a SharePoint application shows that you can use the Application Insights monitor to add the .dlls and modify the web.config file of a deployed application https://rules.ssw.com.au/application-insights-in-sharepoint
-

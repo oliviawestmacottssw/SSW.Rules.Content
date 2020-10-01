@@ -13,9 +13,8 @@ authors:
 
 ---
 
- 
 Some people might think that if they are working from home it’s okay to wear pyjamas or not brush their hair. However, if you change into your usual dress code, you will feel more motivated and ready to work.
-​​Also, you will show professionalism by not wearing pyjamas​ and attending meetings as you would if you were there in person.​​
+Also, you will show professionalism by not wearing pyjamas and attending meetings as you would if you were there in person.
  
-​Try to start your day afresh, as you would usually do to go to your workplace. Follow your usual morning routine: shower, dress, eat breakfast, and then start your work routine.
-![dressing-meeting-bad.jpg](dressing-meeting-bad.jpg)Bad example - Figure: Not dressing accordingly or not having a work station from home can drastically reduce your concentration![dressing-meeting-good.jpg](dressing-meeting-good.jpg)Good example - Figure: Nice work station and good personal presentation whilst working ​from home​​
+Try to start your day afresh, as you would usually do to go to your workplace. Follow your usual morning routine: shower, dress, eat breakfast, and then start your work routine.
+![ Not dressing accordingly or not having a work station from home can drastically reduce your concentration![dressing-meeting-good.jpg](dressing-meeting-good.jpg)Good example - ](dressing-meeting-bad.jpg)Bad example -

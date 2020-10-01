@@ -9,7 +9,7 @@ authors:
 
 ---
 
- If your method is consists of logic and IO, we recommend you isolate them to increase the testability of the logic.
+If your method is consists of logic and IO, we recommend you isolate them to increase the testability of the logic.
 Take this for example (and see how we refactor it):
 
  
@@ -87,5 +87,4 @@ public void TestVS2005CSProj()
  Assert.AreEqual(true, result.Contains(Path.Combine(baseFolder, "OptionsUI.cs")));
  Assert.AreEqual(true, result.Contains(Path.Combine(baseFolder, "VSAddInMain.cs")));
 }
-Good - Different test cases and assertions are created to test the logic​
-
+Good - Different test cases and assertions are created to test the logic

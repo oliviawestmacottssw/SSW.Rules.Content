@@ -9,6 +9,5 @@ authors:
 
 ---
 
- Make sure that anyone tasked in emails is explicitly added to the to line. This helps them identify emails where they have tasks.<br>
- ![](SearchTask.jpg)Figure: Bad example, Mark can’t search for tasks that have been assigned to him![](FilterEmail.jpg)Figure: Good example, Mark can filter his emails based on whether his name is on the TO field. 
-
+Make sure that anyone tasked in emails is explicitly added to the to line. This helps them identify emails where they have tasks.<br>
+ ![ Bad example, Mark can’t search for tasks that have been assigned to him![](FilterEmail.jpg)](SearchTask.jpg)

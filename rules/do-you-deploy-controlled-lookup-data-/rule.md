@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Lookup data is data that you usually see in combo boxes. It may be a Customer Category, a Product Color or the Order Status. Usually this is defined by the user and the programmer does not care what or how many records they have. When the programmer relies on records being in the lookup table, it is called 'Controlled Lookup Data'. 
+Lookup data is data that you usually see in combo boxes. It may be a Customer Category, a Product Color or the Order Status. Usually this is defined by the user and the programmer does not care what or how many records they have. When the programmer relies on records being in the lookup table, it is called 'Controlled Lookup Data'. 
 
 <br>So whenever you have special data, which is referenced in code you need to tread carefully by: <br> 
 1) First understanding that although most of the time there is a clear separation between data and schema, there is an exception for Controlled Lookup Data. This is when data (aka Controlled Lookup Data) is tightly coupled to the application, meaning that you have an application that cannot function correctly without that data.
@@ -19,7 +19,7 @@ authors:
  3) You then need to add a check for it so that it does not disappear.
 
 Let's look at an example:
-![](TimeProDropDown.png) Figure: This combo looks innocent. However if it is "Billable" then the calendar goes yellow ![](TimeProCalendar.png) Figure: Billable days are shown in yellow 
+![ This combo looks innocent. However if it is "Billable" then the calendar goes yellow ![](TimeProCalendar.png) ](TimeProDropDown.png) 
 
 ```
 if (drDay.NotBillableCount == 0 && 

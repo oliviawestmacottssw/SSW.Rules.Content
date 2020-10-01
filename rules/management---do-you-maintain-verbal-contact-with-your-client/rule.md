@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​​With the convenience and cost-effectiveness of e-mail, it is tempting to resort to emails for too much client contact. Don't forget that clients are people too, and they need human interaction to ensure everything is OK. So it is essential that you maintain verbal contact before, during and after a project. What are examples of ongoing project contact? 
+With the convenience and cost-effectiveness of e-mail, it is tempting to resort to emails for too much client contact. Don't forget that clients are people too, and they need human interaction to ensure everything is OK. So it is essential that you maintain verbal contact before, during and after a project. What are examples of ongoing project contact? 
  
 1. Set the expectations early. Let the client know what to expect in terms of communication. For example: <br>      
 
@@ -28,4 +28,3 @@ We will run your project in an agile manner. Expect emails and phone calls that 
 
 
 If you use the phone instead of email when it is appropriate, you maintain an open channel of verbal communication with your client. This helps to break down communication barriers, lets the client know that you are friendly and involved, and makes them feel confident in your ability to deliver the project.
-

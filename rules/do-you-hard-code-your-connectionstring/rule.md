@@ -11,7 +11,7 @@ authors:
 
 ---
 
- We don't like hard coded string inside our programme. We are using model-driven development, in which we create or reuse code, and perform changes in configuration file rather the in-code changing. [More information on implementing our configuration](/Pages/ConfigurationManagementAppBlock.aspx). <br> 
+We don't like hard coded string inside our programme. We are using model-driven development, in which we create or reuse code, and perform changes in configuration file rather the in-code changing. [More information on implementing our configuration](/Pages/ConfigurationManagementAppBlock.aspx). <br> 
 
 ```
 connection.ConnectionString = "
@@ -34,5 +34,3 @@ Figure: Good Code - Use ConfigurationManager to handle the connection string.
 
 | We have a program called [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule.  |
 | --- |
-
-

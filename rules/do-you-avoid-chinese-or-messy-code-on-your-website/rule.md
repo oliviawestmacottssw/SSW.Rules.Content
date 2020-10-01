@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Many companies use overseas developers to do some of their work, but the language barrier can sometimes extend past simply communications. Sometimes you can end up with foreign language snippets in your code too.
 
 When you edit an aspx page in TFS, follow the below steps to avoid having Chinese characters appear.
@@ -20,5 +19,3 @@ When you edit an aspx page in TFS, follow the below steps to avoid having Chines
 3. Check the whole page which you edited, and make sure no messy code or characters are there.
 4. Ask someone beside you to check the rule or page you just edited.
 5. Reply done in an email.
-
-

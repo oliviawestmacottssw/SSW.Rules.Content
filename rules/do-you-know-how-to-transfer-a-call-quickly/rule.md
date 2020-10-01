@@ -9,7 +9,7 @@ authors:
 
 ---
 
- How often has the connection dropped out while a call center operator was trying to transfer you, or perhaps you get put straight through to someone's voicemail, meaning you need to hang up and call again. You should have a simple method for transferring calls that ensures the caller doesn't go around in circles or is left waiting for ages, wondering what is going on.  
+How often has the connection dropped out while a call center operator was trying to transfer you, or perhaps you get put straight through to someone's voicemail, meaning you need to hang up and call again. You should have a simple method for transferring calls that ensures the caller doesn't go around in circles or is left waiting for ages, wondering what is going on.  
  
 - When a caller asks to be transferred say "Just putting you through" (Instead of "Hang on" which doesn't give the caller any indication of what is going on).
 - IM e.g. Stephen: "Stephen, Colin from Microsoft Events, Line 1."
@@ -18,4 +18,3 @@ authors:
 
 
 More on [Rules to Better Instant Messenger](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=74c43cf5-36a0-4cde-bea2-f9aa7f3b7b59).
-

@@ -11,7 +11,7 @@ authors:
 
 ---
 
-   If you want an easy way to access data in remote or legacy systems, provide one or more of the CRUD operations to the end users and search the data within the SharePoint search framework, then you should consider BCS. You can also use MS Office applications to access the data from SharePoint.
+If you want an easy way to access data in remote or legacy systems, provide one or more of the CRUD operations to the end users and search the data within the SharePoint search framework, then you should consider BCS. You can also use MS Office applications to access the data from SharePoint.
 
 <br>However, BCS doesn't do everything.  It does not provide support for WorkFlow or EventReceivers on the list in SharePoint.  
 
@@ -25,5 +25,3 @@ Use BCS with multiple systems(not working)
 
 ![](BCSGoodExample.jpg)
 Use BCS with one system at time
-
-

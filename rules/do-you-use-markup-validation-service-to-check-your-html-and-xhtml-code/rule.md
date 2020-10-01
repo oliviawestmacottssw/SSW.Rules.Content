@@ -9,13 +9,9 @@ authors:
 
 ---
 
- 
 **Markup Validation Service** allows you to check your web page against the W3C recommendations. When developing web pages you want to create a clean and valid web page. It makes it easier for someone else to read and add new parts to a web page. Every web language like HTML has its own syntax it must follow in order to produce a clean and valid web page, **Markup Validation Service** allows you to achieve that goal.
  
-Go to [Markup Validation Service​](https&#58;//validator.w3.org/):
+Go to [Markup Validation Service](https&#58;//validator.w3.org/):
 
-1. Enter the URL or upload file to check ​
+1. Enter the URL or upload file to check
 2. Review the results and make changes to fix errors
-
- ​
-

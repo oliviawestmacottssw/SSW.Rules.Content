@@ -9,7 +9,7 @@ authors:
 
 ---
 
- In SharePoint 2007, we have Business Data Catalog to connect SharePoint to other line of business applications.  
+In SharePoint 2007, we have Business Data Catalog to connect SharePoint to other line of business applications.  
 <br>When you connect your other systems to SharePoint you can then have one central place to see your data:
 
 1. Microsoft CRM connected to SharePoint allows you to search for CRM contacts from SharePoint<br>
@@ -20,5 +20,3 @@ authors:
 
 1. It is a lot easier to plug-in<br>
 2. Supports not just READ operations, but delete, update and create operations as well.<br>
-
-

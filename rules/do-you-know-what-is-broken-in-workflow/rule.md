@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 SharePoint comes with some very basic workflows out of the box.  A particular example is the content approval workflow.
 
 When a content approval workflow is used, it modifies the process of publishing content to be:
@@ -39,4 +38,4 @@ These kind of workflows are designed generic to fit any business’ needs – an
 We think these SharePoint workflows need to be far more customizable.
 
 SharePoint does not provide support for complex reusable workflows easily - most companies go for a 3rd party solution:
-![](Blackpearl.png) Figure: 3rd party tool - Blackpearl<br>    ![](Ninetex.png) Figure: 3rd party tool - Nintex 
+![ 3rd party tool - Blackpearl<br>    ![](Ninetex.png) ](Blackpearl.png)

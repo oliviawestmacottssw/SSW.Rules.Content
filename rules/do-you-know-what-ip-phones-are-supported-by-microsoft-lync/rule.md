@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Before you rush out to purchase IP phones for the new Lync solution you have wanted to implement, you will need to consider if the IP phone are officially supported by Lync. At the time this article was published, Cisco is yet to offer a phone which supports Lync.   As per  [IP Desk Phones page](http://technet.microsoft.com/en-us/lync/gg278172) we can see there are three vendors which supply IP phones which are supported by Lync. These three vendors are:  
+Before you rush out to purchase IP phones for the new Lync solution you have wanted to implement, you will need to consider if the IP phone are officially supported by Lync. At the time this article was published, Cisco is yet to offer a phone which supports Lync.   As per  [IP Desk Phones page](http://technet.microsoft.com/en-us/lync/gg278172) we can see there are three vendors which supply IP phones which are supported by Lync. These three vendors are:  
 
 
 - SNOM
@@ -33,11 +33,11 @@ Our review:
 
 While the differences between the different vendors were not hugely significant, SSW decided to go with SNOM as our base IP phone.
 
-We also wanted standalone phones that did not require a computer.​
+We also wanted standalone phones that did not require a computer.
 
-Read more about     [​implementing Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).
+Read more about     [implementing Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).
 
-### ​Set up phone
+### Set up phone
 
 
 1. Log on to SNOM Phone, press a key to continue
@@ -50,6 +50,4 @@ Read more about     [​implementing Microsoft Lync](http://www.ssw.com.au/ssw/C
 ![step-4](step-4.jpg)
 
 
-Congratulations, you are now able to make and receive phone calls. 
-
-
+Congratulations, you are now able to make and receive phone calls.

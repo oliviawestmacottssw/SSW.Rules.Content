@@ -9,7 +9,7 @@ authors:
 
 ---
 
- Application upgrade might not only include the .exe and .dll but the database changes. How to deploy these changes, manually or using tools to deploy? 
+Application upgrade might not only include the .exe and .dll but the database changes. How to deploy these changes, manually or using tools to deploy? 
 
 <br>Let's see the bad and good examples: <br> 
 
@@ -60,5 +60,5 @@ Regards,
 Eric Phan
 ```
 
-Figure: Best example - run SQL scripts in the application ![](UsingSQLDeployControl.png) Figure: Deploy SQL scripts by the application itself 
- We have a tool called [SQL Deploy](http://www.ssw.com.au/ssw/SQLDeploy) can do this.    
+Figure: Best example - run SQL scripts in the application ![ Deploy SQL scripts by the application itself ](UsingSQLDeployControl.png) 
+ We have a tool called [SQL Deploy](http://www.ssw.com.au/ssw/SQLDeploy) can do this.

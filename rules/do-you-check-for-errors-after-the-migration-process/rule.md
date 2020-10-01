@@ -7,7 +7,6 @@ authors: []
 
 ---
 
-
 After the database has finished being attached to the web application you will get a log file with information about the import process.
 
 1. Open up this log fine and pay special attention to any lines with **[ERROR]**. 
@@ -18,4 +17,3 @@ After the database has finished being attached to the web application you will g
 
 ![](FixEventLogs.png)
 figure: the event log should show 0 errors after fixing the errors
-

@@ -9,10 +9,9 @@ authors:
 
 ---
 
- 
 We recommend enforcing strict password policies.
 
-Below is a capture of the settings we use:​​
+Below is a capture of the settings we use:
 
 ![ADSecurityPolicy.png](ADSecurityPolicy.png)
  
@@ -27,7 +26,7 @@ When passwords have to be changed they must meet the following minimum requireme
     - Non-alphanumeric characters (e.g., !, $, #, %)
 
 
-Rember it is always good to use an even number for password length ;) https://www.troyhunt.com/how-long-is-long-enough-minimum-password-lengths-by-the-worlds-top-sites/​
+Rember it is always good to use an even number for password length ;) https://www.troyhunt.com/how-long-is-long-enough-minimum-password-lengths-by-the-worlds-top-sites/
 
 
 
@@ -36,16 +35,15 @@ Complexity requirements are enforced when passwords are changed or created.
 
 
 
-​Every 180 days clients will be required to change their password, they can change it when:
+Every 180 days clients will be required to change their password, they can change it when:
 
-- Login to their ​computer
+- Login to their computer
 - Terminal server to another computer
 - VPN
 
 
 This allows users to change their password by making a VPN connection to the office.
 
-We also enforce a lockout policy so if a user gets their password wrong 5 times, their account will be locked out for 15 minutes.​
+We also enforce a lockout policy so if a user gets their password wrong 5 times, their account will be locked out for 15 minutes.
 
 If you want to change your password sooner, press [ctrl] [alt] [delete] then click "Change Password" button.
-

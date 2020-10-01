@@ -11,8 +11,7 @@ authors:
 
 ---
 
- 
-​These are the essential fields for your timesheets:
+These are the essential fields for your timesheets:
 
 1. Client ID - or Client Name
 2. "On-Site" or "Off-Site"
@@ -26,4 +25,4 @@ authors:
 
 
 ![Good Timesheet.jpg](Good Timesheet.jpg)
-Figure - Good Example - A good timesheet with all the required fields taken from [SSW Time PRO!](http://www.ssw.com.au/ssw/TimePRONET/) 
+Figure - Good Example - A good timesheet with all the required fields taken from [SSW Time PRO!](http://www.ssw.com.au/ssw/TimePRONET/)

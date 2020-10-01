@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 When an Account Manager and a client have made an agreement that a developer will work on a particular project for a day, the dev needs to work on it all day (at least 8 hours), and that should be reflected in his timesheets.
 
 If the dev is booked in on the Service Calendar in CRM, he will be billing that full day to the respective client. Let's see 2 examples:
@@ -33,4 +32,4 @@ The bad example scenario is not acceptable as the full day will be billed to the
 The major benefits of the good example (working full days for the client) is that the Service Calendar will be an accurate representation of what will be worked on, and when a client thinks they have a resource booked for a day, they do in fact get the full day.
 
 There will of course be exceptions, such as emergencies or urgent work coming up, but 90% of the time, full days should be billed to 1 client.
-![CRM showing timesheets](CRM-timesheets.jpg)Figure: Your timesheets for next week should end up looking a lot like your original bookings (in our case this is shown in the CRM service calendar)
+![ Your timesheets for next week should end up looking a lot like your original bookings (in our case this is shown in the CRM service calendar)](CRM-timesheets.jpg)

@@ -7,6 +7,5 @@ authors: []
 
 ---
 
- 
 The search direction of a list should be obvious. When it comes to a multicolumn list, you should always head down instead of across for legibility.
-   ​![Bad alignment](../../assets/bad-alphanum.jpg)Figure: Bad example - The list columns go across instead of down![Good alignment](../../assets/good-alphanum.jpg)Figure: Good example - The list is going down
+ ![ Bad example - The list columns go across instead of down![Good alignment](../../assets/good-alphanum.jpg)](../../assets/bad-alphanum.jpg)

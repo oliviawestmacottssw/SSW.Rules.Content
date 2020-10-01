@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Always do a quick investigation before asking for help. When asking a question using IM, always start your conversation with "I have googled this and no luck".
 
 
@@ -18,5 +17,4 @@ Always do a quick investigation before asking for help. When asking a question u
 
 IM can interrupt a person when they are busy, so make sure that you are well prepared and have tried to find the solution another way first.
 
- ​![lmgtfy.jpg](lmgtfy.jpg)​Figure: Don't make someone else have to [Google something​ for you​​](http://lmgtfy.com/)
-
+ ![ Don't make someone else have to [Google something for you](http://lmgtfy.com/)](lmgtfy.jpg)

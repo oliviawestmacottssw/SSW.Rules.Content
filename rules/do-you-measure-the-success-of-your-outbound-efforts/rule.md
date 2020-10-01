@@ -9,10 +9,9 @@ authors:
 
 ---
 
+At the end of the day, when all the people on your prospect list have been called and you're just about ready to throw in the towel, there's still one more task to complete. You need to remember that an outbound campaign is just like any other business campaign - it needs to show an ROI (Return on Investment). Management needs to be made aware of its success or its failures.
  
-At the end of the day, when all the people on your prospect list have been called and you're just about ready to throw in the towel, there's still one more task to complete. You need to remember that an outbound campaign is just like any other business campaign - it needs to show an ROI (Return on Investment). Management needs to be made aware of its success or its failures.​​
- 
-​
+
 
 For example, at SSW every time a Tech Breakfast call is made, it is logged in our database as one of either 5 states:
 
@@ -32,5 +31,4 @@ We run a query at the end of the day to find out how many people were:
 - Dead leads (Not Interested & Not Contactable)
 
 
-These details are then emailed to the manager for review on a weekly basis.​​
-
+These details are then emailed to the manager for review on a weekly basis.

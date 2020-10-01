@@ -9,7 +9,7 @@ authors:
 
 ---
 
- The Marketing Automation inside Microsoft Dynamics Marketing is very powerful and easy to use. You have the following options when creating these: 
+The Marketing Automation inside Microsoft Dynamics Marketing is very powerful and easy to use. You have the following options when creating these: 
 **Action Type**
 
 - Email
@@ -30,7 +30,7 @@ authors:
 
 **Response**
 
-- ​Scheduler (e.g. to delay x days before doing the next step
+- Scheduler (e.g. to delay x days before doing the next step
 - Trigger (e.g. if someone goes to an event)
 
-![mdm-options.png](mdm-options.png)Figure: Simple drag and drop interface for creating automated marketing workflows
+![ Simple drag and drop interface for creating automated marketing workflows](mdm-options.png)

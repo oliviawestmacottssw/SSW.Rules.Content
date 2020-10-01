@@ -9,14 +9,12 @@ authors:
 
 ---
 
- It’s important that your salespeople work together to help each other through blockages, and also that they keep each other accountable so that no one drops the ball for an extended period.
+It’s important that your salespeople work together to help each other through blockages, and also that they keep each other accountable so that no one drops the ball for an extended period.
 
  
 You should organize a weekly meeting for all Account Managers. The focus should shift each week between 2 topics:
 
 1. **Opportunities**
     - Look at all current opportunities and make sure there is a plan for a continuance. Agree to close off any that are no longer viable
-2. **Current Projects​**
+2. **Current Projects**
     - Look at the way your current resources are being used and make any adjustments necessary. In the case of a consulting company, identify if all bookings are up to date, and potentially if under-used resources need retraining or re-allocation
-
-

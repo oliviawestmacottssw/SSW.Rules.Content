@@ -11,7 +11,7 @@ authors:
 
 ---
 
- To create a master page or reuse an existing master page is a time-consuming process. Because you have to determine what the Office SharePoint Server 2007 page model requires — necessary content placeholders and controls to work with the page layouts.
+To create a master page or reuse an existing master page is a time-consuming process. Because you have to determine what the Office SharePoint Server 2007 page model requires — necessary content placeholders and controls to work with the page layouts.
 
 <br>Another problem of Default.master is that it contains many tables that are difficult to style.<br>  &lt;%@Master language="C#"%&gt;
 ...
@@ -73,7 +73,7 @@ To create a minimal master page
 5. Click Code to show the master page in code view.
 6. Copy the code into the master page 
 SharePoint 2007 - [https://msdn.microsoft.com/en-us/library/office/aa660698(v=office.12).aspx](https&#58;//msdn.microsoft.com/en-us/library/office/aa660698%28v=office.12%29.aspx) 
-SharePoint 2010 - [https://msdn.microsoft.com/en-us/library/office/dn205 ​273.aspx](https&#58;//msdn.microsoft.com/en-us/library/office/dn205273.aspx)
+SharePoint 2010 - [https://msdn.microsoft.com/en-us/library/office/dn205 273.aspx](https&#58;//msdn.microsoft.com/en-us/library/office/dn205273.aspx)
  &lt;%@ Master language="C#" %&gt;
 ...
 &lt;html&gt;
@@ -104,5 +104,3 @@ SharePoint 2010 - [https://msdn.microsoft.com/en-us/library/office/dn205 ​273
     &lt;/body&gt;
 &lt;/html&gt;     Good example - using minimal master page
 7. On the File menu, click Save As, provide a unique file name with the .master extension, and then save the file to the master page gallery (/\_catalogs/masterpage) in your site collection.
-
-

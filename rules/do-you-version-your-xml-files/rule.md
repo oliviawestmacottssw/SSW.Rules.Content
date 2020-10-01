@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 It is good to store program settings in an .xml file. But developers rarely worry about future schema changes and how they will inform the user it is an old schema.
 
  What is wrong with this?
@@ -39,4 +38,3 @@ Public Function IsXMLFileValid() As Boolean  Dim fileVersion As String = "not sp
 
 **Figure: Code to illustrate how to check if the xml file is valid.**
 Note: to allow backward compatibility, you should give the user an option to convert old xml files into the new version structure.
-

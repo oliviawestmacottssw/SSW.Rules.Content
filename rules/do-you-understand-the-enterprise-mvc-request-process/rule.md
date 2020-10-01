@@ -9,4 +9,4 @@ authors:
 
 ---
 
- ![inject](request-process-bad.jpg)Figure: Bad Example – The sample applications  do not include the concept of a business ![inject](request-process-good.jpg)Figure: Good Example – An enterprise solution should include a business layer and a data layer abstraction
+![ Bad Example – The sample applications  do not include the concept of a business ![inject](request-process-good.jpg)](request-process-bad.jpg)

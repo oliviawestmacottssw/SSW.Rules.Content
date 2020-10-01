@@ -9,12 +9,11 @@ authors:
 
 ---
 
- 
 We recommend doing a [move to a new environment](/Pages/MigrationChoices.aspx) because it has a much easier rollback path if something goes wrong.
 
 Note that these steps will also work for upgrading from TFS 2012 RC to RTM, or RTM to Update 1.
  
-​These are the steps to migrate and upgrade to a new environment:
+These are the steps to migrate and upgrade to a new environment:
 
 1. [Send an email](http://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterNetworks.aspx#rebootrestart) to let everyone know the TFS server will be offline.
 2. Take the TFS 2010 server offline
@@ -59,5 +58,3 @@ Note that these steps will also work for upgrading from TFS 2012 RC to RTM, or R
 28. Change the DNS entries for your TFS server to point to the new TFS 2012 server
 ![tfs_dns.png](tfs_dns.png)
 **Note:** It's a good idea to get the SysAdmins involved at this stage
-
-

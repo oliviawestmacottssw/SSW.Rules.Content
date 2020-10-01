@@ -9,15 +9,15 @@ authors:
 
 ---
 
- ​Often when writing technical documents, you will instruct the reader to 'set up' his PC or run a 'setup' file. Remember that 'set up' is a verb, and 'setup' is a noun.
+Often when writing technical documents, you will instruct the reader to 'set up' his PC or run a 'setup' file. Remember that 'set up' is a verb, and 'setup' is a noun.
  
-​Verify that your network setup is correct before attempting to connect to the Internet.​
+Verify that your network setup is correct before attempting to connect to the Internet.
 Figure: Good Example - This is the correct use of "setup"
 
 
 
 Click Go to set up your database.
-Figure: Good Example - This is the correct use of "set up"​
+Figure: Good Example - This is the correct use of "set up"
 
 
 
@@ -29,7 +29,3 @@ The single word 'setup' is a noun, basically meaning an 'arrangement.' 'The setu
 
 
 How can you remember this? Mentally replace 'setup' or 'set up' with 'setting up.' If the sentence still basically makes sense, use two words. If it doesn't, use the single word. For example, the sentence 'he is setting up shop' makes sense. 'The setting up was all wrong' does not.
-
-
-
-

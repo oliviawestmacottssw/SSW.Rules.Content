@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​The evolution of website development can be divided by: 
+The evolution of website development can be divided by: 
 
     - 1990 - Cool website – content focus (static HTML content)
     - 1995 - Cool graphics – interface focus (dynamic HTML content)
@@ -21,9 +21,8 @@ authors:
 
  
 It's important that your website is focused on CX (Customer Experience) which means you need modern contact options.
- ![moderncontact-bad.png](moderncontact-bad.png) Figure: Bad example: the only way to contact the company is via email   ![moderncontact-good.png](moderncontact-good.png) Figure: Good example - Chat is available along with other ways of contact, such as voip, IM, KB etc​
+ ![ Bad example: the only way to contact the company is via email   ![moderncontact-good.png](moderncontact-good.png) ](moderncontact-bad.png) 
  
  
  
-Zendesk explain how you can use mulitple channels of support to give your customers a better CX. 
-
+Zendesk explain how you can use mulitple channels of support to give your customers a better CX.

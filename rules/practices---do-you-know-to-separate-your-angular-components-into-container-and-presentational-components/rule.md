@@ -11,10 +11,9 @@ authors:
 
 ---
 
+There are two types of components 'dumb' and 'smart' components. Dumb components normally have no dependencies and no logic and just have @Input() and @Output(). Smart components are their parent components that would have multiple dependencies and logic but not necessarily an HTML template.
  
-​​​​There are two types of components 'dumb' and 'smart' components. Dumb components normally have no dependencies and no logic and just have @Input() and @Output(). Smart components are their parent components that would have multiple dependencies and logic but not necessarily an HTML template.​
- 
-​​Aiming to keep the components that display data 'dumb' makes them much easy to reuse in your application and less buggy, but many people do not like the terms smart and dumb components as a dumb component may just have less logic versus none. Many people and SSW included are preferring the terms container and presentational components for these reasons.​​​
+Aiming to keep the components that display data 'dumb' makes them much easy to reuse in your application and less buggy, but many people do not like the terms smart and dumb components as a dumb component may just have less logic versus none. Many people and SSW included are preferring the terms container and presentational components for these reasons.
 
 **company-list-table.component.ts**
 @Component({
@@ -49,8 +48,7 @@ export class CompanyListTableComponent {
     @Output() deleteCompanySelected = new EventEmitter&lt;number&gt;();
      
     confirmDelete(company: Company) {
-        this.deleteCompanySelected.emit(company.id);​
+        this.deleteCompanySelected.emit(company.id);
     }
 }
-​Figure: Good example of a presenta​​tional component with no injected dependencies​
-
+Figure: Good example of a presentational component with no injected dependencies

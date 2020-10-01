@@ -7,6 +7,6 @@ authors: []
 
 ---
 
- PowerPoint templates are designed to engage your audience visually and save you time. When you start creating a new presentation file, always make sure you use a template. <br> ![not follow SSW brand](bad_cover.gif) Figure: Bad Example - Not using the corporate template (in this case not SSW) ![SSW PowerPoint Template](good_cover.jpg) Figure: Good Example - That's a mighty fine looking template you got there 
+PowerPoint templates are designed to engage your audience visually and save you time. When you start creating a new presentation file, always make sure you use a template. <br> ![ Bad Example - Not using the corporate template (in this case not SSW) ![SSW PowerPoint Template](good_cover.jpg) ](bad_cover.gif) 
 **More Information:**
-![](noTemplate.jpg) Figure: Bad Example - No template applied to the file ![Find SSW template from My template](templateApplied02.gif) Figure: Good Example - Find the template when creating a new presentation file 
+![ Bad Example - No template applied to the file ![Find SSW template from My template](templateApplied02.gif) ](noTemplate.jpg)

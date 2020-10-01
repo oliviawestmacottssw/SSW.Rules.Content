@@ -11,7 +11,7 @@ authors:
 
 ---
 
- Readability of URLs is important, so you should consider making a short URL. However, it is not just making the length as short as possible - it should be friendly.​ 
+Readability of URLs is important, so you should consider making a short URL. However, it is not just making the length as short as possible - it should be friendly. 
  
 If you use a shortened link people can't see what they are clicking through to. In fact, this is what most spammers rely on:
 
@@ -28,5 +28,4 @@ Figure: Better example - this link is sent in the clear as it is short enough
 So you should only 'Auto Shorten URLs' when it is too long and you need the space.
 
 However, it is becoming more prevalent for the software to support showing the full URL on rollover.
-![image](RulesSocialTwitterReadableURL.jpg "image")Figure: Good example – the application does the heavy lifting for you
-
+![ Good example – the application does the heavy lifting for you](RulesSocialTwitterReadableURL.jpg "image")

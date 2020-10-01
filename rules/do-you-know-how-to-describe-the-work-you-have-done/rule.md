@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Clients want to know how you spend your time, and how you word it matters.
 
 **Tip:** Avoid doubling up by using your TFS check-in comments, that flow through to timesheets - use TimePro.
@@ -42,7 +41,3 @@ If you are writing stored procs, write down their names.
 'Apply changes as per Tony's request for FRDCAPP'Figure: This is an example of a bad timesheet note
 
 'CaterPRO! Version 8.3Fixed Sales Reports (Sales Dashboard). It now reconciles correctly with Food Sales Summary.Fixed Function Counts (was doublecounting)Fix to DiaryTemplate UpdatesAttempt to run CaterPRO! In the old Windows 7 with AlanFigure: This is an example of a good timesheet note
-
-
-
-

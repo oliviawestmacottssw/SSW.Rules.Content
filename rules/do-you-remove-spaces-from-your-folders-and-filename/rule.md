@@ -9,10 +9,9 @@ authors:
 
 ---
 
- 
 It is not a good idea to have spaces in a folder or file name as they don't translate to URLs very well and can even cause technical problems.
 
-Instead of using spaces, you should have the first letter of each word in UPPERCASE and the rest of the word in lowercase. Alternatively, you can choose to use underscores. This alternative method to spacing makes file names more readable when published on the web. ​
+Instead of using spaces, you should have the first letter of each word in UPPERCASE and the rest of the word in lowercase. Alternatively, you can choose to use underscores. This alternative method to spacing makes file names more readable when published on the web.
  
 Note that this rule should apply to any file or folder that is on the web. This includes TFS Team Project names and SharePoint Pages.
 
@@ -25,8 +24,7 @@ ExtremeEmails\_v1\_2.doc
  Figure – Good Examples: file names do not have spaces
 &lt;a href="http://sharepoint.ssw.com.au/Training/UTSNET/Pages/UTS%20NET%20Short%20Course.aspx"&gt;UTS Short Course&lt;/a&gt;
 &lt;a href="file://fileserver/Shared%20Documents/Ignite%20Brisbane%20Talk.docx"&gt;Ignite Talk&lt;/a&gt;
-Figure – Bad Examples: f​ile names have been published with spaces so the URLs look ugly and are hard to read
+Figure – Bad Examples: file names have been published with spaces so the URLs look ugly and are hard to read
 &lt;a href="http://sharepoint.ssw.com.au/Training/UTSNET/Pages/UTSNETShortCourse.aspx"&gt;UTS Short Course&lt;/a&gt;
 &lt;a href="file://fileserver/SharedDocuments/Ignite\_Brisbane\_Talk.docx"&gt;Ignite Talk&lt;/a&gt;
-Figure – Good Examples: file names have no spaces so are much easier to read​​
-
+Figure – Good Examples: file names have no spaces so are much easier to read

@@ -11,9 +11,9 @@ authors:
 
 ---
 
- Both NUnit and xUnit are great choices for unit testing – and are highly recommended. Both these frameworks are optimized for unit testing - and xUnit, in particular, has been designed to encourage strong unit test principles by keeping tests isolated.​
+Both NUnit and xUnit are great choices for unit testing – and are highly recommended. Both these frameworks are optimized for unit testing - and xUnit, in particular, has been designed to encourage strong unit test principles by keeping tests isolated.
  
-​When it comes to writing integration tests, you often write tests against slower shared resources and you need more flexibility on how to discover, set up and run your tests.
+When it comes to writing integration tests, you often write tests against slower shared resources and you need more flexibility on how to discover, set up and run your tests.
 
 Fixie solves this issue by providing an extensible conventions based system to control how tests are discovered and executed.
 
@@ -24,4 +24,3 @@ Fixie solves this issue by providing an extensible conventions based system to c
 
 
 Read the Fixie Documentation here:     [https://github.com/fixie/fixie/wiki](https&#58;//github.com/fixie/fixie/wiki)
-

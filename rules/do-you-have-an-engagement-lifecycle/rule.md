@@ -9,13 +9,12 @@ authors:
 
 ---
 
- Having a documented process for managing engagements provides clients with a consistent experience. It also helps to get new employees up to speed quickly, and provides a reference to existing employees to ensure no steps are accidentally missed. 
-​
+Having a documented process for managing engagements provides clients with a consistent experience. It also helps to get new employees up to speed quickly, and provides a reference to existing employees to ensure no steps are accidentally missed. 
+
 
 Our engagement lifecycle overlaps with our     [sales pipeline](/do-you-know-the-6-stages-in-the-sales-pipeline), and maps to the     [8 Steps to Scrum](/do-you-know-the-8-steps-to-scrum).
 
-![7ProjectPhases.png](Engagement Lifecycle.png)
-Figure: Good Example - Engagement Lifecycle
+![ Good Example - Engagement Lifecycle](Engagement Lifecycle.png)
 
 
 1. Initial Phone Call
@@ -39,5 +38,3 @@ Figure: Good Example - Engagement Lifecycle
 8. Project Closure
     - Project is completed, any handover or other transition that has been defined is completed with the client.
     - Just like a Sprint Retrospective is held at the end of each Sprint, a Project Retrospective is held to learn from the project that has just completed.
-
-

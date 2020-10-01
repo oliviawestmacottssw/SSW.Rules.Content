@@ -7,8 +7,7 @@ authors: []
 
 ---
 
- 
 Put in all information, even if some aren't selectable, provided there is context.
-   ​
+ 
 This lets the users see what is available and what isn't, without being overbearing.
-![](../../assets/BadScanOptions.gif)Figure: Good Example - The "Check broken links" checkbox in this case is not an option, but showing it gives the user context
+![ Good Example - The "Check broken links" checkbox in this case is not an option, but showing it gives the user context](../../assets/BadScanOptions.gif)

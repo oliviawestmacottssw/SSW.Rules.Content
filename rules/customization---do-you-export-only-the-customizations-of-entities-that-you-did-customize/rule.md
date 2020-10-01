@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Export each single entity customization and keep each entity customization in a           separate file, like:
 
 - Account\_11022009.xml
@@ -19,4 +18,4 @@ Export each single entity customization and keep each entity customization in a 
 This way, if an entity is changed or broken on the Live environment, you can re-import           the customization for this entity again, without breaking other entities on live           environment.
 
 Instead of exporting each single entity, you can also export only your customized           entities in 1 step, and afterwards select what entities to import
-![Import single customization](CRM_CUS_01.JPG)            Figure: You can select the single customization to import<br>          
+![ You can select the single customization to import<br>          ](CRM_CUS_01.JPG)

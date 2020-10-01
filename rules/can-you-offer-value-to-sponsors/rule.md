@@ -7,12 +7,11 @@ authors: []
 
 ---
 
- 
-Putting on events aren’t free. ​​​
+Putting on events aren’t free.
  
 You need to pay for some or all of these
 
-- ​Venue
+- Venue
 - Catering
 - Prizes
 - Speaker expenses
@@ -31,4 +30,3 @@ To raise the money for paying for these and to make the event a success you will
 Sponsorship doesn't always have to be about cool hard cash. It can also include catering, prizes, giveaways, goody bags and much more. There are many ways sponsors can help your event, and it is up to you to determine what benefits you get out of each.
 
 A good idea is to have levels of sponsorship such as gold, silver and bronze. This gives sponsors an option of joining at the level they feel comfortable with. It also has the side effect of potentially being able to upsell the sponsorship, if you have defined your levels well.
-

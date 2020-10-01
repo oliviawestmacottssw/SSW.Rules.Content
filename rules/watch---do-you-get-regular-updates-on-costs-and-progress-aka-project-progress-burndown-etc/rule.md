@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 You're the one paying the bills, make sure you know where the costs are and how the project is progressing.
 
 Insist on receiving these 3 reports in every Review Meeting:
@@ -48,4 +47,3 @@ This allows you to see the actual costs of the project on a weekly basis.
 
 
 [How to Use the Stories Overview Report](http://msdn.microsoft.com/en-us/library/dd380648%28VS.100%29.aspx) ![](../../assets/external.gif "You are now leaving SSW")
-

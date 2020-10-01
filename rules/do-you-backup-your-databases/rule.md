@@ -7,12 +7,11 @@ authors: []
 
 ---
 
- 
 Before starting your upgrade, you should back up all your TFS databases.
 
-​It's important that you backup TFS by using one of the supported methods, to ensure that you can reliably restore your data if needed.
+It's important that you backup TFS by using one of the supported methods, to ensure that you can reliably restore your data if needed.
  
-**​Tip: **The Team Foundation Server Team Foundation Server 2012 Update 2 and above has a built in Scheduled Backup tool which helps you to easily backup all TFS Databases. For versions prior to TFS 2012 Update 2 you have to use Backups tool from the [TFS Power Tools](http://visualstudiogallery.msdn.microsoft.com/b1ef7eb2-e084-4cb8-9bc7-06c3bad9148f)   package.
+**Tip: **The Team Foundation Server Team Foundation Server 2012 Update 2 and above has a built in Scheduled Backup tool which helps you to easily backup all TFS Databases. For versions prior to TFS 2012 Update 2 you have to use Backups tool from the [TFS Power Tools](http://visualstudiogallery.msdn.microsoft.com/b1ef7eb2-e084-4cb8-9bc7-06c3bad9148f)   package.
 
 **![tfs scheduled.jpg](tfs scheduled.jpg)
 **
@@ -21,18 +20,14 @@ Before starting your upgrade, you should back up all your TFS databases.
 
 In some cases you won't be able to use this tool e.g. with TFS 2012 Power Tools RTM. This version has a bug which causes a failure of Tfs\_Configuration DB when you try to restore it.
 
-![tfs backup.jpg](tfs backup.jpg)
-
-**Figure: TFS Backup tool failed to restore the Tfs\_Configuration DB – known bug in TFS 2012 Power Tools RTM**
+![ TFS Backup tool failed to restore the Tfs\_Configuration DB – known bug in TFS 2012 Power Tools RTM](tfs backup.jpg)
 
 In such case you will have to manually backup databases. Make sure all relevant databases have been backed up. This includes all those starting with "Tfs\_"
 
 **
 **
 
-**![backup all.jpg](backup all.jpg)**
-
-**Figure: Backup all relevant databases**
+**![ Backup all relevant databases](backup all.jpg)
 
 IMPORTANT
 
@@ -42,9 +37,7 @@ Manual backup requires additional user steps which involve creation of additiona
 **
 **
 
-**![add tbl.jpg](add tbl.jpg)**
-
-**Figure: Add tbl\_TfsTransactionLogMark table to every Tfs\_\* Database**
+**![ Add tbl\_TfsTransactionLogMark table to every Tfs\_\* Database](add tbl.jpg)
 
 **![add spset.jpg](add spset.jpg)
 **
@@ -53,15 +46,10 @@ Manual backup requires additional user steps which involve creation of additiona
 
 If you manually backup the TFS Databases make sure you add additional jobs that execute 1 minute before the backup kick off.
 
-![add additional.jpg](add additional.jpg)
-
-**Figure: Add additional jobs to SQL Server Agent**
+![ Add additional jobs to SQL Server Agent](add additional.jpg)
 
 Make sure you back up the Reporting Services database if you'd like your reports to come across as well.
 
 For Reporting Services make sure you have backed up the encryption key.
 
-![backup reporting.jpg](backup reporting.jpg)
-
-**Figure: Backup Reporting Services encryption keys**
-
+![ Backup Reporting Services encryption keys](backup reporting.jpg)

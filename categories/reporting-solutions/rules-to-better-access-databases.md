@@ -23,10 +23,9 @@ index:
 - do-you-avoid-parameter-queries-with-exists-keyword-and-comparison-operators--or-upsizing-problem
 
 ---
+Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
 
-​Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
-
-If you still need help, visit [Enterprise Reporting and BI​](http&#58;//www.ssw.com.au/ssw/Consulting/EnterpriseReporting.aspx) and book i​n a consultant.​​
+If you still need help, visit [Enterprise Reporting and BI](http&#58;//www.ssw.com.au/ssw/Consulting/EnterpriseReporting.aspx) and book in a consultant.
 
 [![What others have to say about us](http://www.ssw.com.au/ssw/Images/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx)
 
@@ -41,5 +40,5 @@ If you still need help, visit [Enterprise Reporting and BI​](http&#58;//www.ss
 What is it that makes a good software development consultancy? What sets one company completely above another? What makes a project completely successful?
 
 Do you agree with them all? Are we missing some? Email us your tips, thoughts or arguments. [Let us know](javascript:var%20e1=&#39;s%73%77.%63%6f%6d%2e%61%75&#39;,e2=&#39;mailto:%20&#39;,%20e3=&#39;info&#39;,%20e4=&#39;?Subject=Rules%20to%20Better%20Access%20Databases&#39;;var%20e0=e2+e3+&#39;@&#39;+e1+e4;%28window.location?window.location.replace%28e0%29:document.write%28e0%29%29; "info@ssw.com.au") what you think.
-**\*\*\* Update \*\*\*** Instead of manually implementing these rules, use [SSW Upsizing PRO](http://www.ssw.com.au/ssw/UpsizingPRO) to automatically implement many of them for you. [Download](http://www.ssw.com.au/ssw/Download/Download.aspx?GroupCategoryID=2ACCESS) it and give it a go. 
+**\*\*\* Update \*\*\*** Instead of manually implementing these rules, use [SSW Upsizing PRO](http://www.ssw.com.au/ssw/UpsizingPRO) to automatically implement many of them for you. [Download](http://www.ssw.com.au/ssw/Download/Download.aspx?GroupCategoryID=2ACCESS) it and give it a go.
 

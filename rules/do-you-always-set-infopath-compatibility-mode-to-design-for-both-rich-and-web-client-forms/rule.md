@@ -9,10 +9,6 @@ authors:
 
 ---
 
-
-​This is the number one, and most important rule in working with InfoPath.
+This is the number one, and most important rule in working with InfoPath.
 
 Always go for the lowest common denominator.  It sure beats realizing half way later that your form can't be hosted on SharePoint InfoPath Forms Services!
-
-
-

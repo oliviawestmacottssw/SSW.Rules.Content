@@ -7,8 +7,8 @@ authors: []
 
 ---
 
- One of the hardest things to deal with when presenting to an audience is the correct way to deal with questions. 
-​Try and give firm guidelines when you start as to the correct way to ask a question.
+One of the hardest things to deal with when presenting to an audience is the correct way to deal with questions. 
+Try and give firm guidelines when you start as to the correct way to ask a question.
 
 SPEAKER: "No questions please. Ask your questions at the end"
 
@@ -23,4 +23,3 @@ It is quite common for one audience member to derail the speaker with a lot of q
 SPEAKER: "OK Bob, I think that is your 10th question and your quota has expired. I want to give everyone a fair go, so you get 1 more question after this. OK?"
 
 Figure: Good Example - this is a firm yet polite way of managing the situation
-

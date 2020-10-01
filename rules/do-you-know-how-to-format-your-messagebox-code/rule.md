@@ -9,16 +9,15 @@ authors:
 
 ---
 
- 
 You should always write each parameter of MessageBox in a separate line. So it will be more clear to read in the code. Format your message text in code as you want to see on the screen.
  
-​Private Sub ShowMyMessage()
+Private Sub ShowMyMessage()
  MessageBox.Show("Are
  you sure you want to delete the team project """ + strProjectName
  + """?" + Environment.NewLine + Environment.NewLine + "Warning:
  Deleting a team project cannot be undone.", strProductName + "
  " + strVersion(), MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2)
-Figure: Bad example of MessageBox code format​
+Figure: Bad example of MessageBox code format
 
 Private Sub ShowMyMessage()
  MessageBox.Show( \_ 
@@ -33,5 +32,4 @@ Private Sub ShowMyMessage()
 End Sub
 
 
-Figure: Good example of MessageBox code format​​
-
+Figure: Good example of MessageBox code format

@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-To update a rule category name, please follow these steps:​
+To update a rule category name, please follow these steps:
  
 1. **Rename “category name" in metadata:**
 Go to [https://rules.ssw.com.au/\_layouts/15/termstoremanager.aspx?tsid=eacc332d045a40e1bcc10498d65b767f](/_layouts/15/termstoremanager.aspx?tsid=eacc332d045a40e1bcc10498d65b767f)
@@ -25,6 +24,3 @@ Go to the “Rule Summary page", edit its title with the new name “Rules to Be
     4. Check in and publish all the rules when you finish your modification.
 4. **[Optional] Rename “page URL"**
 If you want to rename the page URL too, please refer [https://rules.ssw.com.au/rename-a-rule](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=b80e70f4-2076-403d-9c62-e7d59d3aa369)
-
- ​
-

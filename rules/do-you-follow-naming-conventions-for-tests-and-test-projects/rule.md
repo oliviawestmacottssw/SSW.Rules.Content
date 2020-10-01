@@ -13,22 +13,21 @@ authors:
 
 ---
 
- 
-### Test Projects​​
+### Test Projects
 
 
 Tests typically live in separate projects – and you usually create a project from a template for your chosen test framework.
 Because your test projects are startup projects (in that they can be independently started), they should target specific .NET runtimes and not just .NET Standard.
 A unit test project usually targets a single code project.
 
-### Project Naming​
+### Project Naming
 
 
 Integration and unit tests should be kept separate and should be named to clearly distinguish the two.
 This is to make it easier to run only unit tests on your build server (and this should be possible as unit tests should have no external dependencies) 
 Integration tests require dependencies and often won't run as part of your build process.  These should be automated later in the DevOps pipeline.
  
-### ​Test Project Location​
+### Test Project Location
 
 
 Test projects can be located either:
@@ -36,8 +35,8 @@ Test projects can be located either:
 - Directly next to the project under test – which makes them easy to find, or
 - In a separate tests location – which makes it easier to deploy the application without tests included.
 
-![clean-architecture-naming.png](clean-architecture-naming.png)Figure: In the above project, the tests are clearly placed in a separate location which makes it easy to deploy to production without them. It’s easy to tell which project is under test and what style of tests will be found in each test project. <br>      [https://github.com/jasontaylordev/CleanArchitecture​](https://github.com/jasontaylordev/CleanArchitecture)
-### ​Naming Conventions for Tests​​
+![ In the above project, the tests are clearly placed in a separate location which makes it easy to deploy to production without them. It’s easy to tell which project is under test and what style of tests will be found in each test project. <br>      https://github.com/jasontaylordev/CleanArchitecture](clean-architecture-naming.png)
+### Naming Conventions for Tests
 
 There are a few “schools of thought” when it comes to naming the tests themselves. 
 Internal consistency within a project is important.
@@ -51,7 +50,7 @@ Remember that descriptive names are useful – but the choice of name is not the
 - Remember that the F12 shortcut will navigate from the body of your test straight to the method you’re calling.
 - The point of a naming convention is to make code more readable, not less - so use your judgement and call in others to verify your readability.
 
-![bad-naming.png](bad-naming.png)​Figure: Bad Example - From the test explorer view you cannot tell what a test is meant to test from the name
+![ Bad Example - From the test explorer view you cannot tell what a test is meant to test from the name](bad-naming.png)
 **[Method/PropertyName]\_Should\_[ExpectedBehavior]\_When\_[StateUnderTest]**
 Figure: The "should" naming convention is effective – it encourages developers to clearly define the expected result upfront without requiring too much verbosity. 
 The following test names use the "should" naming convention:
@@ -64,4 +63,3 @@ The following test names use the "should" naming convention:
 Figure: Good Examples - Without looking at code, I know what the unit tests are trying to do
 
 A list of other suggested conventions can be found here: [7 Popular Unit Test Naming Conventions](https://dzone.com/articles/7-popular-unit-test-naming).
-

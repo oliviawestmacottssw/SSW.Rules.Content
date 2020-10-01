@@ -11,13 +11,13 @@ authors:
 
 ---
 
- There are several ways you can set up your boardroom AV for effective and efficient conferencing.
+There are several ways you can set up your boardroom AV for effective and efficient conferencing.
  
-### ​Apple TV​​
+### Apple TV
 
 
 A popular way to connect devices wirelessly to the boardroom TV is to use an Apple TV.
-![appletv.jpg](appletv.jpg)Figure: [Apple TV with remote](https://www.apple.com/au/apple-tv-4k/)Pros​
+![ [Apple TV with remote](https://www.apple.com/au/apple-tv-4k/)Pros](appletv.jpg)
 
 
 
@@ -26,14 +26,14 @@ A popular way to connect devices wirelessly to the boardroom TV is to use an App
 - Can be easily added to an AV automation system, e.g. Control4, Savant, etc. which allows you to display on any other display connected to the same AV system
 - Inexpensive way of adding wireless connectivity to an existing system
 
-Co​​ns
+Cons
 - Only works with Apple devices
 - Not designed for corporate networking (can’t have both guest access and secured network at the same time)
 - Guest need to be on a corporate network to connect
 
 
 ### Smart TV’s with built-in AirPlay, Google and HoMirrorcast
-A newer way to connect wirelessly is to use Smart TV’s built-in features.![smarttv.jpg](smarttv.jpg)Figure: Samsung Smart TV with built-in AirPlayPros
+A newer way to connect wirelessly is to use Smart TV’s built-in features.![ Samsung Smart TV with built-in AirPlayPros](smarttv.jpg)
 
 - Allows you to wirelessly connect any Apple device including laptop and IOS
 - Can connect Windows laptops through Mirrorcast
@@ -47,11 +47,11 @@ Cons
 - Display can not be shared across multiple screens in an automated AV setup, e.g through Control4
 
 
-### Extron​
+### Extron
 
 
 For a more robust AV solution, you can install an Extron system. We recommend the ShareLink Pro.
-![extron.jpg](extron.jpg)Figure: [Extron ShareLink Pro 1000​](https://www.extron.com/article/sharelinkproad) diagramPros​
+![ [Extron ShareLink Pro 1000](https://www.extron.com/article/sharelinkproad) diagramPros](extron.jpg)
 
 - Allows you to wirelessly connect any device
 - Also has an HDMI through connection so you can connect both wired and wirelessly
@@ -65,24 +65,20 @@ Cons
 - Expensive
 
 
-### Barco Clickshare​
+### Barco Clickshare
 
 
 A more advanced wireless solution, Barco Clickshare allows you to use any laptop device without installing software by connecting a small USB dongle. The Clickshare 'brain' is connected to your TV or AV hub via HDMI.
-![barcousb.jpg](barcousb.jpg)Figure: Barco USB dongle for the laptop, or an app for your smartphone
-Pros​
+![ Barco USB dongle for the laptop, or an app for your smartphone](barcousb.jpg)
+Pros
 
 - Allows you to wirelessly connect any smartphone via an app
 - Both windows and apple laptops can connect via the included USB dongle
 - Can have multiple users connected at once, and switch between them by pressing the present button on the dongle
 - IT-friendly with lots of controls and security features
 
-Cons​
+Cons
 
 - Compared to a wired HDMI signal, the video will not play super smoothly all the time (bad if you’re playing back videos for review)
 - Can easily lose the dongles if staff and guests are not careful
-- Most expensive option (can be around 8K AUD for the 4k version)​
-
-
-
-
+- Most expensive option (can be around 8K AUD for the 4k version)

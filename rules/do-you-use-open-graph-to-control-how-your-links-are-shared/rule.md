@@ -11,16 +11,15 @@ authors:
 
 ---
 
- Open Graph is a metadata tag that allows you to control what content shows up when a page is shared on social media networks.
+Open Graph is a metadata tag that allows you to control what content shows up when a page is shared on social media networks.
  
 It should be placed on the  section of your page. The most used properties are:
 
 
- ![open-graph-bad.jpg](open-graph-bad.jpg) Figure: Bad example - Shared link has no image and the title was "guessed" by LinkedIn ![opengraph-good.jpg](opengraph-good.jpg) Figure: Good example - Shared link has a nice image and title, both defined via​ Open Graph tags 
+ ![ Bad example - Shared link has no image and the title was "guessed" by LinkedIn ![opengraph-good.jpg](opengraph-good.jpg) ](open-graph-bad.jpg) 
 
 **Note: **For LinkedIn you might need to add the prefix as following:
 
 prefix="og: http://ogp.me/ns#" property='og:title' content="Microsoft Azure | SSW Consulting - Sydney, Brisbane, Melbourne"/>
 
 More information and other properties can be found at [http://ogp.me](http://ogp.me/)
-

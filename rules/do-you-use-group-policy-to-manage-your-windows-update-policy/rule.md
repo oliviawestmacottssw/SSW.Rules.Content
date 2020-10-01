@@ -11,7 +11,7 @@ authors:
 
 ---
 
- We all know it’s important to keep our servers updated. Unfortunately though, by default, Windows will automatically download and install all new Windows Updates on your servers. This will mean the servers will occasionally restart to install updates when you don’t want them too. You will also get annoying popups trying to get you to restart the computer. 
+We all know it’s important to keep our servers updated. Unfortunately though, by default, Windows will automatically download and install all new Windows Updates on your servers. This will mean the servers will occasionally restart to install updates when you don’t want them too. You will also get annoying popups trying to get you to restart the computer. 
  
 **Note:** This rule applied to both client PCs and servers.
 
@@ -21,7 +21,7 @@ authors:
 It is also one more reason developers don’t like to join a company domain on their personal laptops!
 
 
-![Windows-Update-notification.png](Windows-Update-notification.png)Bad Example - Windows 10 shows a ‘Restart now’ – do not accidentally press it! Your production server and your users won't be happy!​![Accidently press Restart Now on a Production server and your users won't be happy!](updates-restart.jpg) Bad example – Remember this nasty one from Vista days?
+![Windows-Update-notification.png](Windows-Update-notification.png)Bad Example - Windows 10 shows a ‘Restart now’ – do not accidentally press it! Your production server and your users won't be happy!![Accidently press Restart Now on a Production server and your users won't be happy!](updates-restart.jpg) Bad example – Remember this nasty one from Vista days?
 **Note:** Server patching is also achievable via SCCM and you get more control over restarting windows like this. WSUS can also be used in conjunction with group policies to handle restart times better.
 
 The best ensure you are still downloading updates but not installing them automatically is to use Group Policy.
@@ -41,14 +41,12 @@ After the new Group Policy propagates, you will notice the update setting is now
 
 
 From now on your servers will be updated without unplanned reboots!
-![Default domain policy1.png](Default domain policy1.png)     Figure: Good example - AD shows the Group Policy setting “3 – Auto download and notify for install”. This policy is applied to the specified OU eg. Production Servers joined to this domain <br>      
+![ Good example - AD shows the Group Policy setting “3 – Auto download and notify for install”. This policy is applied to the specified OU eg. Production Servers joined to this domain <br>      ](Default domain policy1.png)     
 
 
 
-###  ​​Related Rules
+###  Related Rules
 
 
-- [​Do you enable automatic Windows Update Installations?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f5432cb4-40af-491b-8da5-33b8a80dcb0a) [for PCs]
-- [Do you turn off auto-update on your servers?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=3b0722be-c3e3-4369-a590-258c7501a67a) [for Servers]​
-
-
+- [Do you enable automatic Windows Update Installations?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f5432cb4-40af-491b-8da5-33b8a80dcb0a) [for PCs]
+- [Do you turn off auto-update on your servers?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=3b0722be-c3e3-4369-a590-258c7501a67a) [for Servers]

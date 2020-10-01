@@ -11,9 +11,8 @@ authors:
 
 ---
 
- 
-​When you make a pull request or need to communicate the next actions someone needs to take in a GitHub comment, you should use a @mention.
+When you make a pull request or need to communicate the next actions someone needs to take in a GitHub comment, you should use a @mention.
 
 Read more about @mention: https://help.github.com/articles/basic-writing-and-formatting-syntax/#mentioning-users-and-teams
- ​​![github-mention-bad.png](github-mention-bad.png)Figure: Bad example - Not using a @mention when addressing Duncan or Igor​
-![github-mention-good.png](github-mention-good.png)Figure: Good example - Using a @mention
+ ![ Bad example - Not using a @mention when addressing Duncan or Igor](github-mention-bad.png)
+![ Good example - Using a @mention](github-mention-good.png)

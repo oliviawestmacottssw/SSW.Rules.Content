@@ -7,8 +7,7 @@ authors: []
 
 ---
 
- 
 If all you have time to ftp up is a couple of simple html pages with few contact     details and a brief "About Us", then leave it as that. Writing "Under Construction"     says "We have a few ideas, but we really just don't have the resources to get our     website together at the moment." Bad idea.
  
-​
-![Websites Under Construction](../../assets/Websites_UnderConstruction.jpg)     Figure: "We just can't get our act together on our website"
+
+![ "We just can't get our act together on our website"](../../assets/Websites_UnderConstruction.jpg)

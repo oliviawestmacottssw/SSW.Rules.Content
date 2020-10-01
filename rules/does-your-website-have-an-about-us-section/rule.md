@@ -7,12 +7,11 @@ authors: []
 
 ---
 
- 
 One of the first things you need to include when building a website is an 'About       Us' section. An 'About Us' section gives the website credibility and more importantly       gives readers an overview of you and your company.
 
 At SSW we based our 'About Us' page on 4 criteria; these are 4 aspects that we feel       potential clients would want to know. Below is an example of the most important       aspects we felt needed to be addressed on the SSW 'About Us' page:
  
-​
+
 
 1. **Target**
     - Our location - Sydney
@@ -29,4 +28,3 @@ At SSW we based our 'About Us' page on 4 criteria; these are 4 aspects that we f
 
 
 To see the final result of these standards, see SSW ['About Us'](http&#58;//www.ssw.com.au/ssw/Company/AboutUs.aspx).
-

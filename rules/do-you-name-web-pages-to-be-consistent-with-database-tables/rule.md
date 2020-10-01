@@ -9,14 +9,10 @@ authors:
 
 ---
 
- In a database-driven page, it is important that the name of the page is based on the data that the page contains. For example, if a page shows client details and is based on the Client table, then the page should be called Client.aspx.​
+In a database-driven page, it is important that the name of the page is based on the data that the page contains. For example, if a page shows client details and is based on the Client table, then the page should be called Client.aspx.
 Other examples are: 
 
  
 - a search page. This page [ssw/Kb/KBSearch.asp](https&#58;//www.ssw.com.au/ssw/KB/KBSearch.aspx) is for searching a table obviously called KB
 - a search results page. This page [ssw/KB/KBResult.aspx?searchOn=Words&searchFor=problem](https&#58;//www.ssw.com.au/ssw/KB/KBResult.aspx?searchOn=Words&amp;searchFor=problem) is returning the records for a table called KB
 - a detail page. This page is showing the detail record for a record in the table 'KB'
-
-
-
-

@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Running training courses can be a great way to make sure your site always has new content and show that your company is active publicly. As well as being good for branding, it can also be a great source of lead generation for consulting work.
  
 In order to capitalise on this, you should have a developer in any training course who is there to help out and get to know the attendees, whose job it will be to meet up with some of the attendees a couple of weeks after the course to catch up for a coffee and a chat. This could be the speaker or another personable developer if required. It’s important that this is not just a sales person, as it needs to be someone who can give further advice on the training topic at a later date if needed.
@@ -36,4 +35,3 @@ It's also a good idea to mention that this will happen at the end of the course 
 
 
 Read how this rule is also useful for presenters on [Do you do a Retro Coffee after presentations?](/do-you-do-a-retro-coffee-after-presentations)
-

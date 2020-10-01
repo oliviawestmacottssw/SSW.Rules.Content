@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Unless you're the &lt;1% of companies who competes based purely on price, you will need to be able to explain why your services are more expensive than 1 or more of your competitors.
 
 In the bespoke software space, this is easy, as your clients are not buying something generic, and quality matters. Here's how we do it:
@@ -25,6 +24,4 @@ From our research, our rates are in the top 1/3rd of our Australian competitors,
     - Our arduous [hiring process](https&#58;//www.ssw.com.au/ssw/Employment/Employment.aspx) ensures we only have the most technically proficient consultants with the best communication skills
     - A strong focus on [rules and best practices](/rules-to-better-scrum-using-tfs) ensure that we are consistently delivering high-quality solutions
     - Our [community involvement](https&#58;//www.ssw.com.au/ssw/Events/) (User groups, Hack Days, MS Events, etc.)  helps us to rub shoulders with the other thought leaders in our industry  and stay ahead of the game
-    - ​Our strong [partnership with Microsoft](https&#58;//www.ssw.com.au/ssw/Company/AboutUs.aspx) (our owner is 1 of only 3 Microsoft Regional Directors in Australia) makes sure we have support when we need it
-
-
+    - Our strong [partnership with Microsoft](https&#58;//www.ssw.com.au/ssw/Company/AboutUs.aspx) (our owner is 1 of only 3 Microsoft Regional Directors in Australia) makes sure we have support when we need it

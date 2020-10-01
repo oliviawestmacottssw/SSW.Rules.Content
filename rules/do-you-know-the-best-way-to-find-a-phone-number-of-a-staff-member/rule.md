@@ -9,10 +9,8 @@ authors:
 
 ---
 
-
 Bad way: use the Global Address List in Active Directory, because you can’t update it from Outlook... Only an administrator can maintain the details
  Note: good UI as it is easy to find inside outlook
 
 Good way: use the Dynamics 365 (formerly CRM 2016) toolbar?
  Note: We have a suggestion that Outlook should allow you to put the CRM2016 URL into Tools | Options so this is better integrated
-

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Team Foundation Server is the fully integrated solution to manage projects, giving developers, testers and management a single source of truth for all project needs.
  
 #### Project Managers and stakeholders will love:
@@ -39,4 +38,3 @@ Team Foundation Server is the fully integrated solution to manage projects, givi
 
 
 [Managing your SharePoint Projects with TFS (with proven Agile/Scrum and ALM Strategies)](http&#58;//www.ssw.com.au/ssw/consulting/scrum.aspx)
-

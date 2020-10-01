@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Multi-select listboxes are the bane of a graphical user interface, they have a number of behavioral quirks that make it difficult for users to get used to them:
 
 
@@ -38,5 +37,4 @@ Item 1Item 2Item 3Item 4Item 5Item 6Item 7Item 8Item 9Item 10 Figure: Bad Exampl
 | Item 10 |
 
 Figure: Good Example - The beauty of the CheckListBox in ASP.NET
-We have a program called  [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/codeauditor/) to check for this rule.​​​
-
+We have a program called  [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/codeauditor/) to check for this rule.

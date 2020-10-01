@@ -7,12 +7,11 @@ authors: []
 
 ---
 
- 
-​​​​​Headings that direct the user around your web page are       important as it gives the user the feeling of confident in       using your web page. The user will tend to feel lost and       unsure in what he/she should be doing next, if a website       dose not directs them properly. Good navigation through       directing headings removes this feeling and gives the user       confidence. This rule becomes especially important when it comes to shopping applications, of which Amazon is exemplary. A great shopping application includes the following breadcrumbs:
+Headings that direct the user around your web page are       important as it gives the user the feeling of confident in       using your web page. The user will tend to feel lost and       unsure in what he/she should be doing next, if a website       dose not directs them properly. Good navigation through       directing headings removes this feeling and gives the user       confidence. This rule becomes especially important when it comes to shopping applications, of which Amazon is exemplary. A great shopping application includes the following breadcrumbs:
 
 - Showing the user where they are up to in buying products, previous steps and the next step in the process, gives the user the confidence that they are doing the right steps in purchasing a product.
 - Allowing the user to go back to previous steps allows them to change or review a previous choice.
-- ​Showing the user where they are up to and what is next shows the user what is left in the process in purchasing a product.
+- Showing the user where they are up to and what is next shows the user what is left in the process in purchasing a product.
 
 
 
@@ -24,7 +23,7 @@ authors: []
 - Payment Details - Select how you pay and enter details
 - Confirmation of Purchase - Display information about their purchase
 
-![Example Header](../../assets/ExamleHeadingforShoppingBasket.gif)Figure: Simple Header that tells the user where they have come from
+![ Simple Header that tells the user where they have come from](../../assets/ExamleHeadingforShoppingBasket.gif)
 **Amazon Example:**
 
 - Welcome Icon - Ordering from Amazon.com is quick and easy
@@ -34,6 +33,4 @@ authors: []
 
 
 The following heading from Amazon shows the user at what stage of the ordering process they are at and what they can expect next. This covers the whole billing process.
-![Amazon Shopping](../../assets/amazonshopping.jpg)Figure: This is how headings should look![Virgin Flight Booking](../../assets/virgin-flight-navigation.png)Figure: Virgin Australia uses a more subtle approach
-
-
+![ This is how headings should look![Virgin Flight Booking](../../assets/virgin-flight-navigation.png)](../../assets/amazonshopping.jpg)

@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 When you move to SharePoint 2010, you will need to know the settings you had on your 2007 server. 
 Therefore document all the settings from the SharePoint 2007 server, that you will need to re-create on the SharePoint 2010 server.
  
@@ -31,6 +30,3 @@ Fill in the following table. You will use this later when creating the new web a
 | Application pool name | Leave defaults |  |
 | Security account for this application pool | Leave defaults |  |
 | Database Name | Zz the database name so you know this will be replaced (read [zzOldFiles](/do-you-zz-old-files-rather-than-deleting-them))<br><br> |  |
-
-
-

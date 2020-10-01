@@ -15,14 +15,14 @@ authors:
 
 ---
 
- ​Having a clear Definition of Done for your team is critical to your success and quality management in Scrum.
+Having a clear Definition of Done for your team is critical to your success and quality management in Scrum.
 
 Every team is different, but all need to agree on which items are in their "Definition of Done".  
 # There are 3 levels of 'Done' in communication
 
 ## Level 1
 
-- Sending a ["Done" email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=29d5ca5d-c191-475f-8db2-0086c44ca46c)​
+- Sending a ["Done" email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=29d5ca5d-c191-475f-8db2-0086c44ca46c)
 
 
 ## Level 2
@@ -80,7 +80,7 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 - Code reviewed by one other team member (e.g. Checked by Bill)
 - Sending a Done email with screenshots
 
- ![Check in policy](CheckinPolicy.jpg) Figure: Good example - Add check in policies to enforce your Definition of Done
+ ![ Good example - Add check in policies to enforce your Definition of Done](CheckinPolicy.jpg) 
 ## Team - Level 4
 
 - *All of the above, plus*
@@ -89,7 +89,7 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 - Tip: Use Microsoft | [Test Manager](https://marketplace.visualstudio.com/items?itemName=ms.vss-testmanager-web)
 - Sending a Done email (with video recording using SnagIt)
 
- ![TestPlanning-1.png](TestPlanning-1.png) Figure: Organize tests in suites with built-in E2E traceability across requirements, test artifacts and defects ![MTR-2.png](MTR-2.png) Figure: Use the client, Microsoft Test Manager, to run tests and not just capture the pass/fail of steps, comments/attachments and bugs, but also capture diagnostic data during execution, such as screen recording, system info, image action log etc ![XT-3.png](XT-3.png) Figure: Explore your web applications, find and submit bugs directly from your Chrome browser – no need for predefined test cases or test steps 
+ ![ Organize tests in suites with built-in E2E traceability across requirements, test artifacts and defects ![MTR-2.png](MTR-2.png) ](TestPlanning-1.png) 
 
  
 Figure: Good example - Done video showing the features worked on
@@ -106,14 +106,14 @@ Figure: Good example - Done video showing the features worked on
 - *All of the above, plus*
 - Multiple environments automatically tested using Lab Management
 
- ![Lab management](LabManagement.jpg) Figure: Good example - A tester Lab Management to create VMs for testing the application, then defines a test plan for that application with Test Case Management
+ ![ Good example - A tester Lab Management to create VMs for testing the application, then defines a test plan for that application with Test Case Management](LabManagement.jpg) 
 ## Team - Level 7
 
 - *All of the above, plus*
 - Automated Load Testing
 - Continuous Deployment
 
- ![Acceptance Tests in MTM](LoadTesting.jpg) Figure: Good example - Load testing involves multiple test agents running Web Performance Tests and pounding the application (simulating the behavior of many simultaneous users)
+ ![ Good example - Load testing involves multiple test agents running Web Performance Tests and pounding the application (simulating the behavior of many simultaneous users)](LoadTesting.jpg) 
 ## Team - Level 8 (Gold)
 
 - *All of the above, plus*
@@ -131,6 +131,4 @@ Congratulations! You are frequently deploying to production. This is called “C
 - [Do you enforce comments with check-ins?](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#EnforceComments "Do you enforce comments with check-ins?")
 - [Do you enforce work item association with check-in?](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#EnforceWorkItemAss "Do you enforce work item association with check-in?")
 - [Do you follow a Test Driven Process?](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterVersionControlwithTFS%28AKASourceControl%29.aspx#TestDrivenProcess "Do you follow a Test Driven Process?")
-- ​[Do you have a "Definition of Ready"?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e01abde1-9a3e-4e4c-84a8-50e98e9c44d0)
-
-
+- [Do you have a "Definition of Ready"?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e01abde1-9a3e-4e4c-84a8-50e98e9c44d0)

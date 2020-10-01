@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 This is a very common question asked of teams using Scrum. The answer can depend on a lot of things, such as:
 
 - How big is the bug?
@@ -43,7 +42,6 @@ For stories that the team had previously considered done, here are some guidelin
 General tip: don’t create an associated task to fix a bug until the Sprint in which the team commits to fix it
 
 
-See rule on​     [Do you know how to handle Bugs on the Product Backlog?](/Pages/BugsontheProductBacklog.aspx) for how to work with bugs on your backlog.
+See rule on     [Do you know how to handle Bugs on the Product Backlog?](/Pages/BugsontheProductBacklog.aspx) for how to work with bugs on your backlog.
 
 Extracted from        [Accentient’s](http&#58;//www.accentient.com/scrum/) Scrum Training by        [Richard Hundhausen](https&#58;//twitter.com/rhundhausen).
-

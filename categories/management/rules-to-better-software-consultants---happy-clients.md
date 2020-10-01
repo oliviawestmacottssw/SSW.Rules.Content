@@ -11,11 +11,10 @@ index:
 - do-you-send-thank-you-email-to-your-client-when-project-is-about-to-end
 
 ---
-
 ### This page is for both developers and Account Managers
 
 Aiming for 'happy clients' can be an elusive game. Ultimately what makes one client happy is different from what makes another happy. However the first step to keeping anyone happy is to [manage expectations](/do-you-manage-clients-expectations) from the beginning to the end of a project.
 
 The following steps are the processes by which you can manage client expectations and, with luck, keep them happy...
-  ![](/PublishingImages/SuccessfulProjects_ManagingExpectations.jpg)   ​Figure: Making premature statements is not an effective way of managing expectations  
+  ![ Making premature statements is not an effective way of managing expectations  ](/PublishingImages/SuccessfulProjects_ManagingExpectations.jpg)
 

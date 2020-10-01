@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 1. Prepare a new image. We recommend running **Windows 2008 R2 Server x64 **using Hyper-V Manager. Your options are:
     1. Manually build a server
     2. A syspreped image (this will be quicker)
@@ -22,5 +21,3 @@ authors:
 3. Install **SQL Server 2008 x64** default configuration
 4. Install **SQL Server 2008 SP1**
 5. Run [www.ssw.com.au/ssw/Diagnostics/](http&#58;//www.ssw.com.au/ssw/Diagnostics/) and get all green ticks
-
-

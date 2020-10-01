@@ -11,7 +11,6 @@ authors:
 
 ---
 
-
 In ASP.NET deployment is a simple xcopy. Or you can right click the Web Site project and  "Publish Web Site" in Visual Studio.
 ![](PublishWebSite.png) Fugure: Publish Web Site in Visual Studio 
 
@@ -28,5 +27,3 @@ These are awesome features and something that basic ASP.NET does not have, but i
 4. Compile the package into a WSP file (which is a cab file)
 5. Test the package on a staging server.
 6. Deploy it on a production server.
-
-

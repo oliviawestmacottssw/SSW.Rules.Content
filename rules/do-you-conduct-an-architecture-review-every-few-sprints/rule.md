@@ -15,7 +15,6 @@ authors:
 
 ---
 
-
 There are 2 main parts to any application. The UI which is what the customer can see and provide feedback on, and the underlying code which they really can't know if it is healthy or not.
 
 Therefore it is important to conduct a '[test please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=7ba5e1cd-da39-4bf2-9fe2-5b899589b3d2)' on the internal code and architecture of the application.
@@ -53,7 +52,7 @@ The following are items that are addressed in an architecture/code review:
     - SharePoint
 - Usage Telemetry
 - Performance Monitoring
-- ​Data migrations
+- Data migrations
 - Data reporting
 - User experience
 - Network
@@ -81,5 +80,3 @@ The following are items that are addressed in an architecture/code review:
 
 - Add a datetime of the last time the diagram was modified so we have an indication of when it is out of date
 - On your diagrams, be aware that some parts are done and some are not.
-
-

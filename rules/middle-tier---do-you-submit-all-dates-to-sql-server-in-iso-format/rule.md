@@ -9,10 +9,9 @@ authors:
 
 ---
 
+All dates submitted to SQL Server must be in ISO format date. This ensures that language or database settings do not interfere with inserts and updates of data. You should NEVER need to change the default language of users or of the database in SQL Server. For example, any insert into a SQL Server database with Visual Basic should call Format(ctlStartDate,"yyyy-mm-dd") or VB.NET Ctype(ctlStartDate.Text,Date).ToString("yyyy-MM-dd") before attempting the insert or update. This will ensure consistency of treatment when dealing with dates in your SQL Server backend.
  
-All dates submitted to SQL Server must be in ISO format date. This ensures that language or database settings do not interfere with inserts and updates of data. You should NEVER need to change the default language of users or of the database in SQL Server. For example, any insert into a SQL Server database with Visual Basic should call Format(ctlStartDate,"yyyy-mm-dd") or VB.NET Ctype(ctlStartDate.Text,Date).ToString("yyyy-MM-dd") before attempting the insert or update. This will ensure consistency of treatment when dealing with dates in your SQL Server backend.​​
- 
-​SET DATEFORMAT mdy
+SET DATEFORMAT mdy
 
  print convert( datetime, '2020-07-01' )
 
@@ -39,11 +38,11 @@ SET DATEFORMAT dmy
  print convert( datetime, '20200701' )
 
  -- returns Jul 1 2020 12:00AM, only one which is same as above
-​Code - ISO format date is the best
+Code - ISO format date is the best
 
 The extended format can still mix up month & day in some circumstances, whereas the basic format is the only one that always works correctly.
 
-To be even more pedantic, when you include the time as well as the date, the value isn't really an ISO value at all! The ISO representation of a date/time would be '20200701T0958', whereas for SQL you should send it as '2020​0701 09:58'. This isn't even the extended ISO format as it is missing the obligatory "T" character (ref. section 5.4.1 of the standard).
+To be even more pedantic, when you include the time as well as the date, the value isn't really an ISO value at all! The ISO representation of a date/time would be '20200701T0958', whereas for SQL you should send it as '20200701 09:58'. This isn't even the extended ISO format as it is missing the obligatory "T" character (ref. section 5.4.1 of the standard).
 
 (The standard does allow you to "be omitted in applications where there is no risk of confusing", but it doesn't allow you to add a space or mix basic date with extended time.)
 
@@ -55,5 +54,4 @@ The help specifies that this format is unaffected by the SET DATEFORMAT command 
 
 "The SET DATEFORMAT session setting does not apply to all-numeric date entries (numeric entries without separators). Six- or eight-digit strings are always interpreted as ymd."
 
-[​What is ISO format date? ​](https&#58;//www.w3.org/QA/Tips/iso-date)
-
+[What is ISO format date?](https&#58;//www.w3.org/QA/Tips/iso-date)

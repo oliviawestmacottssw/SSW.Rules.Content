@@ -7,12 +7,12 @@ authors: []
 
 ---
 
- There is often a bit of confusion about what constitutes a brief proposal and what constitutes a specification review.<br> 
+There is often a bit of confusion about what constitutes a brief proposal and what constitutes a specification review.<br> 
 
 
 [Brief proposal](/Pages/BriefProposalOrSpecificationReview.aspx) - free:
 
-- Information about your company​
+- Information about your company
 - A basic overview of what you'll do for them
 - The next steps
 
@@ -24,4 +24,3 @@ authors: []
 
 
 [See](/rules) [Rules to Successful Sales Account Management](/meetings-do-you-know-the-outcomes-from-your-initial-meeting-%28spec-review-or-ad-hoc-work%29)
-

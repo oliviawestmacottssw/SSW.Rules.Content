@@ -7,7 +7,6 @@ authors: []
 
 ---
 
-
 You should always breakdown a task, by creating sub-tasks, until you are comfortable with the overall estimate. Alternatively, instead of making an unknown estimate, create a task first to investigate.
 
 The reason for having this feeling is that the task is not broken down enough and appears difficult to breakdown because there are unknowns.   For a simple example, a task of a story is to produce something for the story and it is not known how yet.  Rather than put an estimate for the task that seems risky or low, break it down into at least two-sub tasks of:
@@ -17,4 +16,3 @@ The reason for having this feeling is that the task is not broken down enough an
 
 
 The estimate for the second sub-task might be tough but you must make your best estimate to ensure the burndown is as accurate as possible.  Once the first sub-task is complete then the second sub-task can be updated in both description and estimate as appropriate.   Other people can then clearly see what is transpiring.
-

@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 **Be Specific**
 
 When you're scoping the work to be completed, ensure you are as accurate as possible in your requirements.
@@ -28,4 +27,3 @@ Sometimes software developers miss a related item which you might consider 'blin
 **Get UI Changes OKed**** **
 
 Insist your software consultants [conduct specifications by creating mock-ups](/storyboarding-do-you-conduct-specification-analysis-by-creating-mock-ups).
-

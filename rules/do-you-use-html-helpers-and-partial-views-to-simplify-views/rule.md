@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Repeated sections of User Interface should be encapsulated in either Html Helpers or Partial Views to avoid repetition.
  
 

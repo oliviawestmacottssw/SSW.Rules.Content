@@ -11,7 +11,7 @@ authors:
 
 ---
 
- The following checklist is a good example of areas to focus on:
+The following checklist is a good example of areas to focus on:
 
 - Run penetration tests with SSLLabs.com to check how exposed your servers are
 - Look for passwords in .config and code (SSW Code Auditor can help)
@@ -26,8 +26,4 @@ authors:
 - Logging who is doing what and when (audit trails)
 
 
-There is a more comprehensive list here on GitH​ub: [A practical security guide for web developers​](http&#58;//bit.ly/SecurityGuide-Checklist).
-
- 
-
-
+There is a more comprehensive list here on GitHub: [A practical security guide for web developers](http&#58;//bit.ly/SecurityGuide-Checklist).

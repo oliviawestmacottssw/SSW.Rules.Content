@@ -9,5 +9,5 @@ authors:
 
 ---
 
- Developers should \*never\* use the "General" Project.
- ​![using-general-timesheets-bad.png](using-general-timesheets-bad.png)Figure: Bad Example - "General" category​![do-not-use-general-timesheets-good.png](using-general-timesheets-bad.png)Figure: Good Example -​ Specific category 
+Developers should \*never\* use the "General" Project.
+ ![ Bad Example - "General" category![do-not-use-general-timesheets-good.png](using-general-timesheets-bad.png)](using-general-timesheets-bad.png)

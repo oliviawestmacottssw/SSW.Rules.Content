@@ -11,7 +11,7 @@ authors:
 
 ---
 
- ​Do you sometimes find that people don't attend to all the items you have listed in your long and carefully drafted email? 
+Do you sometimes find that people don't attend to all the items you have listed in your long and carefully drafted email? 
  
 Make it easier for everyone to track the status of tasks by sending tasks one email at a time, and make the requests very clear. When a person has completed a task they just have to reply "Done" to that email, delete the email from their inbox and then move on to the next task.
 
@@ -22,7 +22,7 @@ Obviously, if you are requesting many small changes to the same page, use one em
 
 **Warning:** Don't group unrelated topics
 
-![GOOD - Exception to the rule.](relatedTasks.gif)Figure: Good Example - A few related tasks in one email
+![ Good Example - A few related tasks in one email](relatedTasks.gif)
 
 ### Breaking up monster tasks 
 
@@ -36,13 +36,10 @@ If you have a very large task that requires days of work, it is better to break 
 
 The advantages are that you get an email history on a specific part and it is easier to include someone else.
 
-**Tip:** Understand tasks sizes by reading:​ [Estimating - Do you know how to size user stories effectively?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=51296135-61d2-46bd-bee5-50f992199d99)
-![BAD - One email for separate tasks.](separateTasksOneEmail.gif) Figure: Bad Example - One email for multiple separate tasks ![GOOD - Separate emails for separate tasks.](separateTasksSeparateEmails.gif) Figure: Good Example - Separate emails for separate tasks 
+**Tip:** Understand tasks sizes by reading: [Estimating - Do you know how to size user stories effectively?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=51296135-61d2-46bd-bee5-50f992199d99)
+![ Bad Example - One email for multiple separate tasks ![GOOD - Separate emails for separate tasks.](separateTasksSeparateEmails.gif) ](separateTasksOneEmail.gif) 
 TODO: Make grey boxes with clear separated emails - change from IIS to Git Repo + will become 3 emails
 ### Replying 'dones' 
 
 
 When replying to these emails, reply to each email individually. Don't consolidate them all into one as it leaves unfinished email threads.
-
-
-

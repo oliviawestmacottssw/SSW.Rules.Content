@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Did you know you can improve the speed of your MVC app by using a built in feature called bundling and minification.
  
 Bundling allows you to:

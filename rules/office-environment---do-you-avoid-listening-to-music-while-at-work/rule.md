@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​​Should we be listening to music                    at work? I've had the debate with numerous people.
+Should we be listening to music                    at work? I've had the debate with numerous people.
  
 Regardless of whether it is AC/DC or DotNetRocks, music/podcasts should not be used in the workplace, especially using headphones, because:
 
@@ -30,7 +29,6 @@ Yes I love hearing a good song, for example, when I hear Robbie Williams' "Bette
 In several open offices using a headphone seems to be encouraged as the most effective for productivity.
 
 
-There is, however, a use for it being "background" music in some scenarios; like when you are doing time-consuming mindless stuff like fixing data, building VPCs/VMWare or waiting for long builds.​
+There is, however, a use for it being "background" music in some scenarios; like when you are doing time-consuming mindless stuff like fixing data, building VPCs/VMWare or waiting for long builds.
 
 **Note:** Please see our [Rules To Better Dead Time](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterDeadTime.aspx#AudioDevice) for how we like to effectively use audio devices like iPods when we're not at work.
-

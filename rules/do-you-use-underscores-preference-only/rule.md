@@ -9,4 +9,4 @@ authors:
 
 ---
 
- They just add characters. Surely Order\_Details.Order\_ID is no better then OrderDetail.OrderID <br> 
+They just add characters. Surely Order\_Details.Order\_ID is no better then OrderDetail.OrderID <br>

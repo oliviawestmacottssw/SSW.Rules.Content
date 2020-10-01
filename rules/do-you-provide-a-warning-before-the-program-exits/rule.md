@@ -7,9 +7,8 @@ authors: []
 
 ---
 
- 
-​A product should not close without providing a warning. We use the following message box to warn the user before closing a program:
-   ​![SSW Exchange Reporter - Are you sure you want to exit?](../../assets/CloseWarning.gif)Figure: Good Example - Standard warning before a program exits
+A product should not close without providing a warning. We use the following message box to warn the user before closing a program:
+ ![ Good Example - Standard warning before a program exits](../../assets/CloseWarning.gif)
 
 ```
 private void OnExit(object sender) 
@@ -32,4 +31,3 @@ private void OnExit(object sender)
 
 
 We have an example of this in the [SSW .NET Toolkit](http://www.ssw.com.au/ssw/NETToolkit/).
-

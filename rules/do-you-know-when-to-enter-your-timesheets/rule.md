@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Remember to enter your timesheets at the end of each day, while they're still fresh in your mind.
 
 Here are 5 tips to getting this done:
@@ -21,5 +20,3 @@ Here are 5 tips to getting this done:
 - Every now and then, there is a blocking issue stopping you from getting this done. In that case, you can catch up the next morning. There is no excuse at all for not having them in by Sunday night. The purpose of this is so that your Accounts team can check all timesheets and invoice the clients first thing on Monday morning.
 - Make it easy on yourself by working for [1 client per day](/Pages/book-a-minimum-of-1-day.aspx)whenever possible.
 - You may want to have a [reward system](/Pages/reward-your-employees-for-doing-their-timesheets.aspx)in place to ensure this always happens
-
-

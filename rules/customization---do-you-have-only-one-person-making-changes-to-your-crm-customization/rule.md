@@ -11,8 +11,7 @@ authors:
 
 ---
 
- 
-With CRM4, customizations cannot be undone and are cumulative, e.g.​ if you add an attribute on a form and deploy, there is no easy way to remove the attribute from the entity. We have a [suggestion to CRM on this issue](http&#58;//www.ssw.com.au/SSW/Standards/BetterSoftwareSuggestions/CRM.aspx#RemoveAttributeOnForm).
+With CRM4, customizations cannot be undone and are cumulative, e.g. if you add an attribute on a form and deploy, there is no easy way to remove the attribute from the entity. We have a [suggestion to CRM on this issue](http&#58;//www.ssw.com.au/SSW/Standards/BetterSoftwareSuggestions/CRM.aspx#RemoveAttributeOnForm).
  
 In order to remove the attribute, what you have to do:
 
@@ -33,4 +32,3 @@ Because of this reason, we have to take extra care in tracking and maintaining t
 
 
 On larger scale projects, functional design documentation governs the customization and on multiple member project teams, it’s normally the BA(s), who are in charge of designing and configuring CRM. Developers rarely configure the system unless acting in a BA capacity.
-

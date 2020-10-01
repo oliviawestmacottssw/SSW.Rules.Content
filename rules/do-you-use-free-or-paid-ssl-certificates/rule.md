@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 What is the best option for your business when it comes to securing your website with HTTPS?
  
 When you create a website, you can only access it through HTTP (http://website), and not securely through HTTPS if you do not own an SSL Certificate.
@@ -52,6 +51,3 @@ If you are operating a big business, paid certificates give you some more assura
 SSL Certificates are an important part of any reputable website, so if you are operating a small website, blog, testing environment, personal site, anything that doesn't need too much support, getting a free certificate is the way to go.
 
 If your business or site does not fit on the above affirmation, getting a paid certificate is the best option!
-
-
-

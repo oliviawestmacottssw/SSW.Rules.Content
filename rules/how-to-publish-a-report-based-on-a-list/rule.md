@@ -9,7 +9,7 @@ authors:
 
 ---
 
- ​When you want a Grid with filters, group by, totals and sorting, how do you do this (if all the data is in a list) ? <br> 
+When you want a Grid with filters, group by, totals and sorting, how do you do this (if all the data is in a list) ? <br> 
 There are 6 options:
 
 - Option 1 - use data view web part + AJAX (on test server, then export web part, and import to production)
@@ -27,8 +27,3 @@ There are 6 options:
 if you need to use the object model (like PublishedBy.aspx) to interate through records - use Option 1,3,5 , and we prefer option 5.
 
 if you need to bind a simple list  - use Option 4 (best designer, scheduling included, parameters are easy... we know that iFrame is not great).
-
-
-
-
-

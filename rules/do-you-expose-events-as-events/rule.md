@@ -9,13 +9,12 @@ authors:
 
 ---
 
- You should expose events as events.​
+You should expose events as events.
  
-​ public Action
+public Action
 &lt; connectioninformation &gt; ConnectionProblem;
-Bad code​
+Bad code
 
 public event Action
 &lt; connectioninformation &gt; ConnectionProblem;
-​​​Good code​​
-
+Good code

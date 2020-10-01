@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 The goal is that CRM developers **to not **move from Dev to Test and to Production manually. Basically, we don't want a developer to touch Test or Production servers. The testers can run the .bat file. [See SSW rules to setup packages](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSetups.aspx).
  
 How should developers work?
@@ -47,12 +46,10 @@ REM (deploy the callouts - Part 1)
 Deploy to Test Server
 
 - Import the customizations.xml
-- Run .bat file​
+- Run .bat file
 
 
 Deploy to Production Server
 
 - Import the customizations.xml
 - Run .bat file
-
-

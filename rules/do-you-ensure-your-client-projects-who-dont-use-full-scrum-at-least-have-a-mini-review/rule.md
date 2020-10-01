@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 Ideally, all projects should be managed using Scrum, with sprint planning, reviews, and retros, daily scrums, sprint backlogs etc., but some client engagements are too short to justify this.
 
 In these cases, as a minimum, there should be a backlog and a Kanban board, and the developer should still be doing daily Scrums with the client.
@@ -24,8 +23,7 @@ In this meeting, you should check the following:
 2. Look at the backlog (if just using Kanban this might be the same as the board)
 3. Ask what has been done since the last Mini-Review (or the start of the project)
 4. Ask what will be worked on next
-5. See if the current booking remaining is sufficient... i.e. book in more time as needed​
+5. See if the current booking remaining is sufficient... i.e. book in more time as needed
 
 
 Ideally, the account manager would be a good person for this.
-

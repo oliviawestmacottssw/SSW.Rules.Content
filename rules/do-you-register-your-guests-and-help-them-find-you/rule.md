@@ -9,8 +9,7 @@ authors:
 
 ---
 
- 
-​​​Arriving at a venue for the first time can be both confusing and daunting if you don't know the area. Your event should have a registration area clearly signposted and easily identifiable so that your guests can find you more easily.
+Arriving at a venue for the first time can be both confusing and daunting if you don't know the area. Your event should have a registration area clearly signposted and easily identifiable so that your guests can find you more easily.
  
 Your registration process should be efficient and simple. What has worked well at DDD Melbourne is:
 
@@ -22,9 +21,7 @@ Your registration process should be efficient and simple. What has worked well a
 
 Attendees will go to the registration area to register (if applicable) and they will go here to have any questions answered as well. A registration area should be:
 
-- Clearly visible – Put up adequate signage and announce where the​ area is
+- Clearly visible – Put up adequate signage and announce where the area is
 - Always manned – registration should have permanent staff there to help any attendees that require it at any time
-- Brand your staff using company t-shirts, this will help people identify helpers immediately​.
+- Brand your staff using company t-shirts, this will help people identify helpers immediately.
 - Be at a central location, but not in the way of where people are walking
-
-

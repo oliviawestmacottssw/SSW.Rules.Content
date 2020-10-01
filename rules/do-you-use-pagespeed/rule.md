@@ -13,28 +13,23 @@ authors:
 
 ---
 
- ​PageSpeed can analyze the performance of your webpages and get specific suggestions on how to optimize them.
+PageSpeed can analyze the performance of your webpages and get specific suggestions on how to optimize them.
 
  
-​**How to install PageSpeed?​​**
+**How to install PageSpeed?**
 
 Install PageSpeed from https://chrome.google.com/webstore/detail/pagespeed-insights-with-p/lanlbpjbalfkflkhegagflkgcfklnbnh?hl=en-GB
-​
-![2d.png](2d.png)
 
-Figure:  Install PageSpeed Insights (with PNaCl).
+![  Install PageSpeed Insights (with PNaCl).](2d.png)
 
 
 
 **How to use PageSpeed?**
 
-In Developer Tools (F12), you will have a new tab ​​​named PageSpeed.
+In Developer Tools (F12), you will have a new tab named PageSpeed.
 
-![use-pageSpeed.png](use-pageSpeed.png)
-Figure: Start your PageSpeed by clicking "ANALYZE".​
+![ Start your PageSpeed by clicking "ANALYZE".](use-pageSpeed.png)
 
 The result of the analysis will be displayed in the PageSpeed tab.
 
-![1.png](1.png)Figure: Some files can be compressed more than 80%​
-
-
+![ Some files can be compressed more than 80%](1.png)

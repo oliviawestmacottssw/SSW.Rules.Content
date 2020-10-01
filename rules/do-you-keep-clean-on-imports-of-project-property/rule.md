@@ -11,11 +11,11 @@ authors:
 
 ---
 
- When programming in a Dot Net environment it is a good practice to remove the default imports that aren't used frequently in your code. <br> 
+When programming in a Dot Net environment it is a good practice to remove the default imports that aren't used frequently in your code. <br> 
 This is because IntelliSense lists will be harder to use and navigate with too many imports. For example if in VB.NET, Microsoft.VisualBasic would be a good item to have in the imports list, because it will be used in most areas of your application.
 
 To remove all the default imports, load Project Property page and select Common properties - Imports.
-![Imports VB](ImportsVB.jpg) Figure: Using aliases with the Imports Statement
+![ Using aliases with the Imports Statement](ImportsVB.jpg) 
 The Import statement makes it easier to access methods of classes by eliminating the need to explicitly type the fully qualified reference names. Aliases let you assign a friendlier name to just one part of a namespace.
 
 For example, the carriage return-line feed sequence that causes a single piece of text to be displayed on multiple lines is part of the ControlChars class in the Microsoft.VisualBasic namespace. To use this constant in a program without an alias, you would need to type the following code:
@@ -42,4 +42,3 @@ MsgBox("Some text" & CtrlChrs.crlf & "Some more text")
 
 
 If an Imports statement does not include an alias name, elements defined within the imported namespace can be used in the module without qualification. If the alias name is specified, it must be used as a qualifier for names contained within that namespace.
-

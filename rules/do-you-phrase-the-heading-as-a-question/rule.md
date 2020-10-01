@@ -7,7 +7,6 @@ authors: []
 
 ---
 
-
 By forming the heading as a question you are encouraging the reader to answer with a simple yes or no. When the answer is no, it is clear that the rule has been broken and will need to be corrected.
 Phrase the heading as a question. 
 

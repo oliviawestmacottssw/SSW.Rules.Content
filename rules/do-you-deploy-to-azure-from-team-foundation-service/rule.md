@@ -9,8 +9,6 @@ authors:
 
 ---
 
- 
 Deploying your website to an Azure Web Site is the easiest way to get continuous deployment working if you’re using Team Foundation Service.
  
-​For instructions, see     [Continuous delivery to Windows Azure by using Team Foundation Service](http&#58;//www.windowsazure.com/en-us/develop/net/common-tasks/publishing-with-tfs/).
-
+For instructions, see     [Continuous delivery to Windows Azure by using Team Foundation Service](http&#58;//www.windowsazure.com/en-us/develop/net/common-tasks/publishing-with-tfs/).

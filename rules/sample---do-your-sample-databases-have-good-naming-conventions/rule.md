@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 You should prefix your sample databases with your company and products. This is so your users can tell easily at a glance what it is for. Sample databases should be named in the following way:
 
 - SSWSQLAuditorNorthwindSample
@@ -18,5 +17,3 @@ You should prefix your sample databases with your company and products. This is 
 Sample Access database are named similarly:
 
 - SSWLookOutNorthwindSample2000.mdb
-
-

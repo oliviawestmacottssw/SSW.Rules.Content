@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 In a nutshell, Lo-Dash is a super useful library that gives you access to over 100 extremely performant functions to help you avoid reinventing the wheel whilst writing JavaScript.
 
 You can get lodash from [GitHub repository](https&#58;//github.com/lodash/lodash), [cdnjs](https&#58;//cdnjs.com/libraries/lodash.js) or via [NPM](https&#58;//www.npmjs.com/package/lodash). Once done you can include a reference in your HTML.
@@ -37,6 +36,4 @@ I created Lo-Dash to provide more consistent cross-environment iteration support
 Further reading:
 
 1. [https://lodash.com](https&#58;//lodash.com/)
-2. [http://underscorejs.org](http&#58;//underscorejs.org/) ​​
-
-
+2. [http://underscorejs.org](http&#58;//underscorejs.org/)

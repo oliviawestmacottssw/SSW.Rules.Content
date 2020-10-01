@@ -7,9 +7,9 @@ authors: []
 
 ---
 
- When you run into a wall in Power BI and feel like you've exhausted the out of the box functionality, that when it's time to investigate what a bit of DAX can do for you. 
+When you run into a wall in Power BI and feel like you've exhausted the out of the box functionality, that when it's time to investigate what a bit of DAX can do for you. 
  
-There are 2 different things​ you can do with DAX, create a Measure or a Calculated Column.​
+There are 2 different things you can do with DAX, create a Measure or a Calculated Column.
 
 Calculated columns:
 
@@ -33,6 +33,3 @@ Measures:
 
 GroupingColumn = if(value&lt;x, small, if(value&lt;y, medium, large))
 Figure - Good Example: Nested if statements are a great way to split up your data into groups
-
-
-

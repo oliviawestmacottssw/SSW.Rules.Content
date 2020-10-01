@@ -9,14 +9,13 @@ authors:
 
 ---
 
- 
 Any website designer that needs to display code should be aware that there is a very simple method for simply formatting code, and there is a slow and complex method.
 
 The complex method requires formatting each line with HTML tags (such as &lt;br&gt; and &nbsp;) to ensure the code looks nice and pretty.
 
-The simpler method uses &lt;pre&gt; tags. Pre (standing for "preformatted") means that the code is formatted exactly as it is written in the HTML window. This means the page designer can format code in a very simple fashion, without worrying about tags.​
+The simpler method uses &lt;pre&gt; tags. Pre (standing for "preformatted") means that the code is formatted exactly as it is written in the HTML window. This means the page designer can format code in a very simple fashion, without worrying about tags.
  
-​​**Note:** &lt;code&gt; tags should not be used because they only provide the font Courier - you still have to manually indent all of your code as in the bad code display example below.
+**Note:** &lt;code&gt; tags should not be used because they only provide the font Courier - you still have to manually indent all of your code as in the bad code display example below.
 
 &lt;font face="Courier, Times, Arial, Verdana" size="3"&gt;
 public class Configuration&lt;br&gt;
@@ -47,4 +46,3 @@ get
  Figure: Good code display example - using &lt;pre&gt;
 
 **Tip:** Do not use auto-format (Ctrl-K, Ctrl-F) in Visual Studio when updating page with &lt;pre&gt; tags, or it will destroy all the code formatting. We have made a suggestion to Microsoft to fix this.
-

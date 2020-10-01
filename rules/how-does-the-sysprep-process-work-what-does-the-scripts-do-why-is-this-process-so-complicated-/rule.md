@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 - SharePoint server can't be renamed after SharePoint is installed
 - Multiple VM's with the same name can't be powered up in the same network
 - So the master.vhd contains:
@@ -21,5 +20,3 @@ authors: []
 - After restart - login with MossFarm account and run the scripts to install
     1. SharePoint 2007 sp1
 - Runs Moss\Post\_Build.cmd
-
- 

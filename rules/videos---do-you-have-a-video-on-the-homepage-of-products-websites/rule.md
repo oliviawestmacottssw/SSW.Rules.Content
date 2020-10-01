@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 The best way to show the features of a product is creating a video. The information you are able to communicate in seconds of a video would take hundreds of words of text to explain.
 
 Videos are also important for services, but for products, it should be **on the homepage**.
@@ -18,4 +17,3 @@ Videos are also important for services, but for products, it should be **on the 
 ### Videos are also good for SEO
 
 By embedding videos onto your website it will help get the videos more views, which is a determinant for Google nowadays.
-

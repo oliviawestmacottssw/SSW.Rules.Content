@@ -7,11 +7,11 @@ authors: []
 
 ---
 
- If you are presenting to people who you already know, then you have an enormous advantage over someone who is going to face an audience they have never previously met.<br> 
+If you are presenting to people who you already know, then you have an enormous advantage over someone who is going to face an audience they have never previously met.<br> 
 It is best to confirm who you are speaking to via a few slides. Then you can make subtle changes during your presentation so your audience gets:
 
 - What is important for them
 - Interesting to them
 - Relevant to them
 
-![](developer.gif) Figure: Ask "How many are developers here?" ![](manager.gif) Figure: Ask "How many are managers here?" 
+![ Ask "How many are developers here?" ![](manager.gif) ](developer.gif)

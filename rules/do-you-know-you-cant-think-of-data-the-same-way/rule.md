@@ -9,7 +9,6 @@ authors:
 
 ---
 
-
 In SQL Server you have tables to store data.  Then you have Views, Relations and Stored Procedures.
 
 SharePoint gives us Lists where we can store rows and columns of data, but it is not the same as a full database.
@@ -21,4 +20,3 @@ SharePoint gives us Lists where we can store rows and columns of data, but it is
 
 
 Database remains the best at doing database work.  SharePoint is OK at creating quick lists and working with simple lists, but it is not a database server.
-

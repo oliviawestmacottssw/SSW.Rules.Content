@@ -15,7 +15,7 @@ authors:
 
 ---
 
- Some countries (especially the People's Republic of China) strictly control access to various international web services. You can use service detection to determine whether particular services are available and fall-back gracefully or use alternative providers.​
+Some countries (especially the People's Republic of China) strictly control access to various international web services. You can use service detection to determine whether particular services are available and fall-back gracefully or use alternative providers.
  
 As well as from inside China, another common place where access to third-party services may be blocked is from behind corporate firewalls.
 
@@ -37,7 +37,7 @@ You can use geolocation based on client IP to determine what services are availa
 
 For these reasons, dynamic service detection is recommended in preference to solutions based on geo-location.
 
-### ​​Option 2: Check Connectivity  
+### Option 2: Check Connectivity  
 
 **Universality** - China is not the only place that blocks stuff. there are other countries to consider. Also many corporate firewalls block stuff. actively detecting access to a service from the client handles all these scenarios at runtime with no prior configuration.
 
@@ -47,10 +47,9 @@ SSW has created a simple Service Detection library for exactly this purpose call
 
 This Service Detector works by attempting to download the Favicon.ico file from the website for each service you want to use. These favicon files are small, so if a service is available, the file will download very quickly. If a service is blocked, the connection could take a long time to timeout on its own. In this situation, the service detector uses a 1.5-second timer to attempt the download and will cancel the request after this time so that these connection attempts fail quickly and don't block the entire page.
 ![](BlockedDependencies.png)Figure Bad Example: Attempted requests to Facebook, Google, and Youtube from China took a long time to timeout, adding significant delays to the rendering of this page
-![SSW.ServiceDetector.png](SSW.ServiceDetector.png)
-Figure: Good Example - Only 4 errors on F12 in China. Using SSW.ServiceDetector, there were only short, canceled requests raised to blocked services. The site was then able to fall-back gracefully for some services and load YouKu for videos
+![ Good Example - Only 4 errors on F12 in China. Using SSW.ServiceDetector, there were only short, canceled requests raised to blocked services. The site was then able to fall-back gracefully for some services and load YouKu for videos](SSW.ServiceDetector.png)
 
-### ​Solutions
+### Solutions
 
 If, for example, your site displays videos, you can detect that YouTube is not available in China and embed YouKu videos instead. 
 Both these options require service detection to operate properly. Remember that attempting to connect to a blocked service from China could take a long time to timeout, potentially adding significant loading times to your site.

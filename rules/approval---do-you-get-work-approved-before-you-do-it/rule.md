@@ -15,14 +15,13 @@ authors:
 
 ---
 
- 
 "Sometimes it's better to ask forgiveness than permission" - Tony Abbott
 
 The trouble is that the above is predicated on the notion that you're doing something wrong and are happy spending time putting out fires that needn't have been lit.
  
 Let's see how to live without stomach ulcers...
- ![Get work approved and spend less time putting out fires](SuccessfulProjects_PuttingOutFires.jpg)Figure: Get work approved and spend less time putting out fires 
-Get permission for the work you do     **\*before\*** you do it. Usually get permission verbally,     [confirmed with an email](/dones-do-you-send-yourself-emails) (or with a     [signature](/do-you-ask-clients-to-initial-your-work), ​although that's sometimes a whole lot harder).
+ ![ Get work approved and spend less time putting out fires ](SuccessfulProjects_PuttingOutFires.jpg)
+Get permission for the work you do     **\*before\*** you do it. Usually get permission verbally,     [confirmed with an email](/dones-do-you-send-yourself-emails) (or with a     [signature](/do-you-ask-clients-to-initial-your-work), although that's sometimes a whole lot harder).
 
 The natural time for this conversation to occur is in the     [Daily Scrum](/methodology-do-you-do-daily-scrums-%28aka-stand-up-meetings%29)
 
@@ -45,5 +44,3 @@ This rule is not generally applicable if:
 
 - You are working on an <br>      [ad hoc](/do-you-know-the-difference-between-ad-hoc-work-and-managed-work) basis on a client managed project
 - The task is an obvious task which you would <br>      [reasonably assume the client would approve](/approval-do-you-assume-necessary-tasks-will-get-approval) and is not likely to take more than half an hour.
-
-

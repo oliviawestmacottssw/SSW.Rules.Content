@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 Once you discover a pain point that resonates with your perfect prospect, you should use this pain point across all of your marketing campaigns.
  
 Here are some good ideas on how to use it: 
@@ -45,5 +44,3 @@ Here are some good ideas on how to use it:
 
 
 10.	As one email in an automated email marketing sequence
-
-

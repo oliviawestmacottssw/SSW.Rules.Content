@@ -13,19 +13,16 @@ authors:
 
 ---
 
- 
 To generate entities from a swagger rest definition a tool can automate this.
 
 There are 3 ways:
  
 1. **AutoR est** - [https://github.com/Azure/aut orest](https://github.com/Azure/autorest)
 2. **NSwagStudio** - https://github.com/NSwag/NSwag/wiki/NSwagStudio
-3. **Swagger Codegen** - http://swagger.io/swagger-codegen​
+3. **Swagger Codegen** - http://swagger.io/swagger-codegen
 
- ![nswagstudio-search.jpg](nswagstudio-search.jpg) Figure: Bad example - only around 1, 000 results 
- ![github-nswag.jpg](github-nswag.jpg) Figure: Bad example - NSwag has not many "Watch" and "Star"
- ![swagger-codegen-search.jpg](swagger-codegen-search.jpg)Figure: OK example - Around 40,000 results
- ![github-swagger-codegen.jpg](github-swagger-codegen.jpg)Figure: Swagger-Codegen and Autorest are quite popular. Swagger-Codegen has more “Star” 
- ![autorest-search.jpg](autorest-search.jpg) Figure: Good example - 130,000+ results![github-autorest.jpg](github-autorest.jpg)
-Figure: Swagger-Codegen and Autorest are quite popular. Autorest has more “Watch”
-
+ ![ Bad example - only around 1, 000 results ](nswagstudio-search.jpg) 
+ ![ Bad example - NSwag has not many "Watch" and "Star"](github-nswag.jpg) 
+ ![ OK example - Around 40,000 results](swagger-codegen-search.jpg)
+ ![ Swagger-Codegen and Autorest are quite popular. Swagger-Codegen has more “Star” ](github-swagger-codegen.jpg)
+ ![ Good example - 130,000+ results![github-autorest.jpg](github-autorest.jpg)](autorest-search.jpg)

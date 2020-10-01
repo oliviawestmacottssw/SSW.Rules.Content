@@ -13,24 +13,23 @@ authors:
 
 ---
 
- ​​​There are many great resources for learning the principles of Clean Architecture, but a the best place to start is with Jason Taylor’s video:
+There are many great resources for learning the principles of Clean Architecture, but a the best place to start is with Jason Taylor’s video:
 
  
-Figure​​​​: Clean Architecture with ASP.NET Core 3.0 (Recommended)
-<br>   ​<br>
+Figure: Clean Architecture with ASP.NET Core 3.0 (Recommended)
+
  
 
-Figure​​​: Clean Architecture with ASP.NET Core 2.1​​​​​
+Figure: Clean Architecture with ASP.NET Core 2.1
 
 To read further, start with Robert C Martin’s blog post:        [The Clean Architecture](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
 
  
-​Then, check out these books:
+Then, check out these books:
 
 This book by Robert C. Martin (aka ‘Uncle Bob’) should be anyone’s starting point for reading further.
-![clean-architecture-book-1.jpg](clean-architecture-book-1.jpg)Figure: Clean Architecture: A Craftsman's Guide to Software Structure and Design
-This resource by Steve Smith is available as an online e-book and contains up-to-date specific examples for ASP.NET Core and Azure.​
+![ Clean Architecture: A Craftsman's Guide to Software Structure and Design](clean-architecture-book-1.jpg)
+This resource by Steve Smith is available as an online e-book and contains up-to-date specific examples for ASP.NET Core and Azure.
 
 
-![clean-architecture-book-2.png](clean-architecture-book-2.png)​​​Figure: Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure
-
+![ Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](clean-architecture-book-2.png)

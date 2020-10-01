@@ -13,17 +13,15 @@ authors:
 
 ---
 
- 
 Unless you are writing a Console application, any output that uses Console.WriteLine will almost certainly be lost.  You're much better off using Trace.WriteLine.
 
 A better approach is to use Trace.WriteLine. You can create a trace listener to send your Trace.WriteLine statements to the Console if you wish, but you can also redirect them elsewhere if required. See [this MSDN article for more information](http&#58;//msdn.microsoft.com/en-us/library/sk36c28t.aspx).
 
-Console.WriteLine("Service started");​
-​ Figure: Bad Example - Using Console.WriteLine to write debug information
-Trace.WriteLine("Service started");​​
-​​ Figure: Better Example - Using Trace.WriteLine to write debug informatio
+Console.WriteLine("Service started");
+ Figure: Bad Example - Using Console.WriteLine to write debug information
+Trace.WriteLine("Service started");
+ Figure: Better Example - Using Trace.WriteLine to write debug informatio
 The best approach is to use a logging framework like Serilog. You can direct output to different sinks (e.g. log file, database, table storage or Application Insights), include structured objects as well and filter output based off severity (Verbose/Debug/Info/Warning/Error).
 
-Log.Debug(“Service started”); ​​
-​​Figure: Best Example – Using Serilog to write debug information
-
+Log.Debug(“Service started”);
+Figure: Best Example – Using Serilog to write debug information

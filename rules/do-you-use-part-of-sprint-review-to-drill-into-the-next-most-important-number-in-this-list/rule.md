@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 a. Use the retro to come up with better work practises
 
 b. Image of our “Scrum 8 steps” 
@@ -18,7 +17,3 @@ b. Image of our “Scrum 8 steps” 
 
 
 Google: Tips for Retrospective
-
-
-
- 

@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 ## Thin Controllers
 
 You need to think of a controller as more of a coordinator than a controller. 
@@ -54,4 +53,3 @@ Figure: The logic is related to the displaying of data only
 ## Fat Model
 
 So where do we put all the logic? The answer of course is in the model, hence the name fat model.
-

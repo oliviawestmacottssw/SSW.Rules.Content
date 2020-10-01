@@ -13,18 +13,17 @@ authors:
 
 ---
 
- ​​​Do you check in on your home or office from your smartphone using the Control4 App?​
+Do you check in on your home or office from your smartphone using the Control4 App?
 
-​
+
 
  
-The Control4 App turns your iOS or Android mobile device into the ​​smart home/office command center. It connects directly to your system and allows you to control and manage all of your system’s features, such as lights, temperature, cameras, audio/video equipment, smart door locks and more.​
-![control4.jpg](os3app.webp)
-Figure: Use the Control4 App​
+The Control4 App turns your iOS or Android mobile device into the smart home/office command center. It connects directly to your system and allows you to control and manage all of your system’s features, such as lights, temperature, cameras, audio/video equipment, smart door locks and more.
+![ Use the Control4 App](os3app.webp)
 Throw away your remote controls and move on to technological freedom!
-![Bad example C4.jpg](Bad example C4.jpg)Figure: Bad example, using any pysical remote control instead of the Control4 app.​
+![ Bad example, using any pysical remote control instead of the Control4 app.](Bad example C4.jpg)
 
-​​​
+
 ![Good example C4.PNG](boardroomac.jpg)Good Example: Turning on the air conditioner using Control4
 
 
@@ -33,13 +32,12 @@ Throw away your remote controls and move on to technological freedom!
 To use Control4 on your phone and remotely control all services, you will need to follow these simple steps:
 
 
-1. ​Download the app from the App Store: http://www.control4.com/software/control4-app-ios/latest
-​or Google Play: http://www.control4.com/software/control4-app-android/latest
-​
+1. Download the app from the App Store: http://www.control4.com/software/control4-app-ios/latest
+or Google Play: http://www.control4.com/software/control4-app-android/latest
 
 ![Control4 1.png](control4iosappstore.jpg)
 
-> ​​2.​ Select "Add System" button.
+> 2. Select "Add System" button.
 
 ![Control4 2.png](control4start.jpg)
 
@@ -47,7 +45,7 @@ To use Control4 on your phone and remotely control all services, you will need t
 > 3. Contact your SysAdmin to set you up with an account for logging in.
 > 
 > 
-> 4. Make sure you are on the same WiFi network as your Control4 System and that you have an internet​ connection.
+> 4. Make sure you are on the same WiFi network as your Control4 System and that you have an internet connection.
 > 
 > 5. Use your credentials to sign into Control4. 
 > TIP: The System Name you enter is what the system will be called on your device. It can be anything.
@@ -56,7 +54,7 @@ To use Control4 on your phone and remotely control all services, you will need t
 
 ### Using Control4
 
-Once logged in, you will have ​access to your site's controls. These apps are customisable, but the ones we have at SSW are:
+Once logged in, you will have access to your site's controls. These apps are customisable, but the ones we have at SSW are:
 ![Control4 4.png](control4reception-notes.jpg)
 
 ### Changing Users
@@ -69,12 +67,12 @@ If you need to change the user or sign in with new credentials, you can use the 
 ![control4receptionLogo.jpg](control4receptionLogo.jpg)
 
 
-> 2. Scroll to the bottom and sele​ct the settings button.
+> 2. Scroll to the bottom and select the settings button.
 
 ![Control4 5.png](control4menusettings.png)
 
 
-> 3.​ Select your System​:
+> 3. Select your System:
 
 ![Control4 6.png](control4settings.jpg)
 
@@ -84,6 +82,3 @@ If you need to change the user or sign in with new credentials, you can use the 
 > 4. Select "Delete". This will reset the account and allow you to enter new credentials.
 
 ![Control4 8.png](control4delete.jpg)
-
-
-

@@ -7,7 +7,6 @@ authors: []
 
 ---
 
- 
 When asking for an opinion do you give people the option of having no opinion at all? If you only provide "Yes" or "No" as answers to the question "Do you like apples?" then you force people to make a decision which may not be correct.
  
 
@@ -25,5 +24,3 @@ Additionally, when the user don't answer the question at all, the response you w
 | --- | --- | --- |
 |  |   | No |
 |  |   | Cannot say |
-
-

@@ -11,7 +11,6 @@ authors:
 
 ---
 
- 
 External links should **open in a new tab** (a.k.a. use target="\_blank") - since browsers implemented tabs (replacing new window), it's considered a good practice to open external links in a different tab.
 
 Main reasons are:
@@ -25,11 +24,9 @@ Main reasons are:
 Figure: Bad example - External link opening on the same tab
 
 &lt;a href="http://support.microsoft.com/support" target="\_blank"&gt;Support&lt;/a&gt;
-Figure: Good example - External link opening in a new tab ​
+Figure: Good example - External link opening in a new tab 
 
-### ​Related Rule​​
+### Related Rule
 
 
 - [Do you make external links clear?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=e967b272-519c-4c96-9880-2f95c1362ac5)
-
-

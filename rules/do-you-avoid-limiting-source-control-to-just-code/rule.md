@@ -15,7 +15,6 @@ authors:
 
 ---
 
- 
 You can spend valuable developer time on every part of a project. The bulk of time is normally spent on coding up .cs, .vb, .resx and .aspx files. However, you could potentially have the following happen if you do not include other files in source control:- lose work
 - lose old versions of work
 - have work overwritten
@@ -31,5 +30,3 @@ In particular, you should make it as easy as possible to see who changed what an
 
 Things you don't store are:- Video files eg. avi
 - Installers eg. .msi
-
-

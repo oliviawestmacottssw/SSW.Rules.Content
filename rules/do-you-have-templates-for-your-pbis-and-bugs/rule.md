@@ -9,25 +9,22 @@ authors:
 
 ---
 
- ​Often bugs are hard to reproduce because they are inconsistently described, and people forget to say what they expected to see. To increase consistency of bug reporting - it's a great idea to add templates for work items in Azure DevOps. It guides people into the pit of success as it helps them fill in all the required info in a clear and concise manner – then you will never see unclear steps to repro a bug again. 
+Often bugs are hard to reproduce because they are inconsistently described, and people forget to say what they expected to see. To increase consistency of bug reporting - it's a great idea to add templates for work items in Azure DevOps. It guides people into the pit of success as it helps them fill in all the required info in a clear and concise manner – then you will never see unclear steps to repro a bug again. 
 
  
-​​Often bugs are hard to reproduce because they are inconsistently described, and people forget to say what they expected to see. To increase consistency of bug reporting - it’s a great idea to add templates for work items in Azure DevOps. It guides people into the pit of success as it helps them fill in all the required info in a clear and concise manner – then you will never see unclear steps to repro a bug again.
+Often bugs are hard to reproduce because they are inconsistently described, and people forget to say what they expected to see. To increase consistency of bug reporting - it’s a great idea to add templates for work items in Azure DevOps. It guides people into the pit of success as it helps them fill in all the required info in a clear and concise manner – then you will never see unclear steps to repro a bug again.
 
-![templates for pbis and bugs - bad example.png](templates for pbis and bugs - bad example.png)​
-Figure: Bad Example – This new bug template doesn’t make it obvious how the team likes their steps to repro
-![templates for pbis and bugs - good example.png](templates for pbis and bugs - good example.png)
-Figure: Good Example – This new bug template guides the user to fill in the steps to repro in an ordered list and even prompts them to fill in what they expected to happen (and what actually happened)
+![ Bad Example – This new bug template doesn’t make it obvious how the team likes their steps to repro](templates for pbis and bugs - bad example.png)
+![ Good Example – This new bug template guides the user to fill in the steps to repro in an ordered list and even prompts them to fill in what they expected to happen (and what actually happened)](templates for pbis and bugs - good example.png)
 Setting this up is pretty easy.
 
-1. First you need to customise the template for a work item type ![templates for pbis and bugs - customise.png](templates for pbis and bugs - customise.png)​Figure: Customising a bug work item
-2. ​Choose the form control to edit
-![templates for pbis and bugs - customise form.png](templates for pbis and bugs - customise form.png)
-Figure: Customising a bug work item form
-3. ​​​​​Choose the form control to edit​ ![templates for pbis and bugs - customise default value.png](templates for pbis and bugs - customise default value.png)Figure: Set the default value for the Repro Steps field (tip: use HTML)
-4. Save Template​
+1. First you need to customise the template for a work item type ![ Customising a bug work item](templates for pbis and bugs - customise.png)
+2. Choose the form control to edit
+![ Customising a bug work item form](templates for pbis and bugs - customise form.png)
+3. Choose the form control to edit ![ Set the default value for the Repro Steps field (tip: use HTML)](templates for pbis and bugs - customise default value.png)
+4. Save Template
 
-​  
+
 Sample Template:
 
 
@@ -45,6 +42,4 @@ I expected it to save properly
 
 **Actual Result**
 
-I got an exception (tip: you can copy/paste screenshots)​
-
-
+I got an exception (tip: you can copy/paste screenshots)

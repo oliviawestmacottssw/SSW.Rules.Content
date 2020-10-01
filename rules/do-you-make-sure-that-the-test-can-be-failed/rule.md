@@ -11,10 +11,7 @@ authors:
 
 ---
 
- 
-
-
-​You should make sure that the unit tests you create can actually fail. A test that never fails is not useful to anyone.​
+You should make sure that the unit tests you create can actually fail. A test that never fails is not useful to anyone.
 
 This is a fundamental principle in Test Driven Development (TDD) called Red/Green/Refactor.
  
@@ -35,7 +32,7 @@ public int Sum(int x, int y)
 {
    throw new NotImplementedException();
 }
-Bad Example: The test fails by throwing a NotImplementedException​​​​
+Bad Example: The test fails by throwing a NotImplementedException
 
 This test fails for the wrong reason, by throwing a NotImplementedException. In production, this is not a valid reason for this test to fail.
 
@@ -46,7 +43,6 @@ public int Sum(int x, int y)
 {
    return 0;
 }
-Good Example: The test fails by returning an invalid result​​​​
+Good Example: The test fails by returning an invalid result
 
 In this case, the test will fail because the behavior is incorrect. It is not correctly adding the two numbers.
-

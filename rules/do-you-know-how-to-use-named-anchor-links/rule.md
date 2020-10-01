@@ -9,7 +9,6 @@ authors:
 
 ---
 
- 
 The attribute "name" allows you to link to specific places within the page, via the &lt;a&gt; tag.
 
 This is especially useful in long pages that can be separated into sections. You can create a named anchor in each of these section headings to provide "jump-to" functionality. In other words, you can have a different URL for each piece of content on the same page.
@@ -24,4 +23,3 @@ To create a link to your anchor named section inside the same page, simply add a
 E.g. &lt;a href="#"&gt;&Go to top&lt;/a&gt;
 
 **Tip #2:** Some browsers consider capitalization for anchor names (E.g. Firefox). Always check your links and anchor names are identical, matching the capitalization.
-

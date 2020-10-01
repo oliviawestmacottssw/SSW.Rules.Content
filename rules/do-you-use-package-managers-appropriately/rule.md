@@ -9,12 +9,11 @@ authors:
 
 ---
 
- 
 Advice like this can be a minefield, and is constantly in flux, but there are some rules-of-thumb that can make life simpler.
- ​![package1.jpg](package1.jpg)Figure: Default ASP.NET Core project is package management done wrong​![package2.jpg](package2.jpg)Figure: Project using good package management
+ ![ Default ASP.NET Core project is package management done wrong![package2.jpg](package2.jpg)](package1.jpg)
 ### Bower is dead
-​![package3.jpg](package3.jpg)Figure: Bower is dead 
-File-New Project in Visual Studio comes with bower packages, and there are a lot of old blog posts that  recommend bower for client side libraries, but bower is dead. Angular2 is discouraging its use, and npm has all the same packages, and more. Prefer npm over bower, even for client-side​ dependencies.
+![ Bower is dead ](package3.jpg)
+File-New Project in Visual Studio comes with bower packages, and there are a lot of old blog posts that  recommend bower for client side libraries, but bower is dead. Angular2 is discouraging its use, and npm has all the same packages, and more. Prefer npm over bower, even for client-side dependencies.
 
 ### Use a single package manager
 
@@ -26,7 +25,6 @@ Right now, this is npm, but watch out for jspm, which shows a lot of promise if 
 
 Theoretically, everything in npm is using semantic versioning.  In practice, people aren’t that diligent, so it pays to be careful with your version numbers. It’s not rare for versions to disappear from npm, or for a build-servers internet connection to be flaky.  If these issues are happening, consider using        [npm-shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap) to lockdown dependency versions.
 
-### Track your dev dependencies and dependencies separately​
+### Track your dev dependencies and dependencies separately
 
 All package managers distinguish between those used for development, and those used for the application.  Use this feature – it will save you time.
-
