@@ -20,4 +20,4 @@ Once you have found an exception you can drill down into it to discover more con
 ![ Drilling down into an exception to discover more.](App-Insights-Failures-drilldown.png)
 It's easy to be overwhelmed by all these issues, so don't create a bug for each issue or even the top 5 issues. Simply create one bug for the most critical issue. Reproduce, fix and close the bug then you can move onto the next one and repeat. This is just-in-time bug processing and will move your application towards better health one step at a time.
 [[badExample]]
-| ![creating all the bugs![20-08-2014-12-06-16-PM-compressor.png](20-08-2014-12-06-16-PM-compressor.png)](20-08-2014-12-04-31-PM-compressor.png)
+| ![ creating all the bugs![20-08-2014-12-06-16-PM-compressor.png](20-08-2014-12-06-16-PM-compressor.png)](20-08-2014-12-04-31-PM-compressor.png)

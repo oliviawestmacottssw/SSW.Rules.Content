@@ -59,8 +59,10 @@ Sometimes you may have to choose between multiple connectors that can serve the 
 
 
 
-![ Bad example – There is no thumbnail and no link to the video. (It is nice that you can add custom text – inside the 2 emoijs)](Notification-Bad-Example.png)
+[[badExample]]
+| ![ Bad example – There is no thumbnail and no link to the video. (It is nice that you can add custom text – inside the 2 emoijs)](Notification-Bad-Example.png)
 
 
 
-![ Good example – There is a thumbnail and a link to the video. (Although there is no custom text)](Notification-Good-Example.png)
+[[goodExample]]
+| ![ Good example – There is a thumbnail and a link to the video. (Although there is no custom text)](Notification-Good-Example.png)

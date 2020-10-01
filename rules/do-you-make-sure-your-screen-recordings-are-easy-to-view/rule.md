@@ -13,4 +13,4 @@ As developers, we are used to having our screen efficiently set up – often the
  
 While this is great for efficiency, it is not very good for recordings or presentations, and the clutter should be removed.
 [[badExample]]
-| ![This video will be cluttered and unprofessional![screen-recording-good.png](screen-recording-good.png)](screen-recording-bad.png)
+| ![ This video will be cluttered and unprofessional![screen-recording-good.png](screen-recording-good.png)](screen-recording-bad.png)

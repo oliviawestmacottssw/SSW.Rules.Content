@@ -10,7 +10,8 @@ authors:
 ---
 
 Audience shots are great except when you don’t have a full house. In this case you should move people to be next to each other.
- ![ Bad example – the audience shot shows the bad numbers. It would be better to not use this view![bad-audience-2.jpg](bad-audience-2.jpg)](bad-audience.jpg)
+ [[badExample]]
+| ![ Bad example – the audience shot shows the bad numbers. It would be better to not use this view![bad-audience-2.jpg](bad-audience-2.jpg)](bad-audience.jpg)
 
 
 ![ Using a VIP sign on the back row to prevent people sitting there initially](vip.jpg)

@@ -17,5 +17,5 @@ This is not one of the main ones, but still relevant. Your domain name is import
 - It’s a good idea to set your domain to auto-renew to ensure that you never forget to renew your domain registration. Don’t be like Australian PM Scott Morrison [who lost control of his domain name](https://www.sbs.com.au/news/pm-s-website-taken-over-by-troll-plays-loop-of-scotty-doesn-t-know) to a prankster.
 
  [[badExample]]
-| ![What happens when you lose your domain to a prankster and you are the PM.](tweet.jpg)
+| ![ What happens when you lose your domain to a prankster and you are the PM.](tweet.jpg)
 ![ Good Example - This website has its main product 'car' in their domain.](car.jpg)

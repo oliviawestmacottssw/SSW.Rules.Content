@@ -10,7 +10,7 @@ authors:
 ---
 
 [[badExample]]
-| ![using the default Date Format](BadDateFormat.gif) 
+| ![ using the default Date Format](BadDateFormat.gif) 
 
 [[goodExample]]
 | ![using the Date Format with 'ddd'](GoodDateFormat.gif)

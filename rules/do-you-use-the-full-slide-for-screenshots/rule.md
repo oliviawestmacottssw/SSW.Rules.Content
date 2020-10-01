@@ -9,4 +9,4 @@ authors: []
 
 Small images are hard to see. Remember your audience sitting at the back of the room. Especially for screenshots displaying important text, use all your real estate. <br>
  [[badExample]]
-| ![the image doesn't cover the whole slide![](goodbig.jpg)](badSmall.jpg)
+| ![ the image doesn't cover the whole slide![](goodbig.jpg)](badSmall.jpg)

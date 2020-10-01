@@ -14,7 +14,8 @@ authors:
 When working with SSRS reports, you need to have the right type of project otherwise it will be difficult for a developer, to create new reports or update existing ones.
 
 If you have some reports and want to check them into source control, if you add them to project that is not a report project, your reports will not open in the design/preview view (allowing to see the DataSource and DataSets). They will open in the XML view (which is not pretty to work with).
- ![ Bad example – C# project with reports opening as XML](report-server-project1.png)
+ [[badExample]]
+| ![ Bad example – C# project with reports opening as XML](report-server-project1.png)
 To open the reports in the right view you will need to:
 
 1. Be sure that you VS has the tool/extensions Microsoft Reporting Services Projects installed, go to **Tools** | **Extensions and Updates** | **Online**, and search for services

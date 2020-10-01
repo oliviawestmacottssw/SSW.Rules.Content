@@ -15,7 +15,7 @@ The **![]()** tag of HTML has 2 attributes that should not be used - **"height"*
  
 ![Code Auditor logo](images/codeauditor-logo.png)width="150" height="100" />
 [[badExample]]
-| ![Stretched image caused by inline height/width ratio that doesn't match](streched-image.jpg) 
+| ![ Stretched image caused by inline height/width ratio that doesn't match](streched-image.jpg) 
 ![Code Auditor logo](images/codeauditor-logo.png)
 [[goodExample]]
 | ![Avoiding inline height/width ratio keeps the image as original](non-streched-image.jpg) 

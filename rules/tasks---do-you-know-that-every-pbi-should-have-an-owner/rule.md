@@ -27,4 +27,4 @@ Beware, this is intended for convenience and should not conflict with the follow
 - Accountability belongs to the development team as a whole
 
 [[badExample]]
-| ![The Product Owner is not sure who to speak to![image](UserStoryOwner_Good.png)](UserStoryOwner_Bad.png)
+| ![ The Product Owner is not sure who to speak to![image](UserStoryOwner_Good.png)](UserStoryOwner_Bad.png)

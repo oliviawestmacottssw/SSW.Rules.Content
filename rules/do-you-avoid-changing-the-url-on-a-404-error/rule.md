@@ -16,7 +16,7 @@ The advantage of this solution is, that the page looks nice and you can customiz
 
 The disadvantage is, that .NET changes the URL. So if the user wants to correct the URL he entered, for example, because he just mixed up a letter, then this means quite a lot of work for him. He has to retype the whole URL or at least copy and paste the parameter out of the new URL. This is very uncomfortable for the user.
  [[badExample]]
-| ![URL changes ](url_asp.gif)
+| ![ URL changes ](url_asp.gif)
 
 Our solution is to show the customized error page while not change the original URL. So if the user wants to do any corrections, e.g. a mixed up letter, he can do that by just editing the URL in the address bar.
 The advantages of this solution are, that the site looks nice and matches the design of the whole site and that the user can easily change the original URL he typed.

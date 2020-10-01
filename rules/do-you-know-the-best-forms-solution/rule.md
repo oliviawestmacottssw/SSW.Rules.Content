@@ -11,4 +11,4 @@ authors:
 
 You should use PowerApps for your forms.
  [[badExample]]
-| ![Using Nintext![infopath.jpg](infopath.jpg)](nintex.jpg)
+| ![ Using Nintext![infopath.jpg](infopath.jpg)](nintex.jpg)

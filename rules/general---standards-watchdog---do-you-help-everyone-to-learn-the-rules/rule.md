@@ -79,7 +79,7 @@ For more, check out [Do you know to create a safe space instead of jumping into 
 
 
  [[badExample]]
-| ![seeing a mistake and not pointing it out doesn't improve a person. Allow them to benefit from your experience!](watchdog-ghost.jpg) 
+| ![ seeing a mistake and not pointing it out doesn't improve a person. Allow them to benefit from your experience!](watchdog-ghost.jpg) 
 
 ### Going Anonymous
 

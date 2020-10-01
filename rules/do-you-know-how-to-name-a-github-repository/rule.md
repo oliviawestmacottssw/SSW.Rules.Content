@@ -12,4 +12,5 @@ authors:
 ---
 
 Consistent naming is important so that users of your GitHub account can easily find what they are looking for and so that you appear professional.
- ![ Bad example – Repository names are not consistently formatted![](name-github-ok.png)](name-github-bad.png)
+ [[badExample]]
+| ![ Bad example – Repository names are not consistently formatted![](name-github-ok.png)](name-github-bad.png)

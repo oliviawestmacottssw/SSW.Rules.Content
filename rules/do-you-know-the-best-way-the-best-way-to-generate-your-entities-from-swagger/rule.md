@@ -22,9 +22,9 @@ There are 3 ways:
 3. **Swagger Codegen** - http://swagger.io/swagger-codegen
 
  [[badExample]]
-| ![only around 1, 000 results ](nswagstudio-search.jpg) 
+| ![ only around 1, 000 results ](nswagstudio-search.jpg) 
  [[badExample]]
-| ![NSwag has not many "Watch" and "Star"](github-nswag.jpg) 
+| ![ NSwag has not many "Watch" and "Star"](github-nswag.jpg) 
  [[okExample]]
 | ![Around 40,000 results](swagger-codegen-search.jpg)
  ![ Swagger-Codegen and Autorest are quite popular. Swagger-Codegen has more “Star” ](github-swagger-codegen.jpg)

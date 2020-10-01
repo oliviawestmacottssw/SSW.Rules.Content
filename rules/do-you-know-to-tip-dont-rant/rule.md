@@ -14,6 +14,8 @@ authors:
 Probably the best reason to blog is when you have made a mistake, especially if you were pulled up for it by a peer. Post about the mistake you made, why you made it and how you are going to try and avoided it in the future. <br> 
 Turn a rant into a tip…
 
-![ Bad example – It is too easy to rant](RulesBloggingTipBad.jpg "SNAGHTML1b864a4")
+[[badExample]]
+| ![ Bad example – It is too easy to rant](RulesBloggingTipBad.jpg "SNAGHTML1b864a4")
 
-![ Good example – What started out as a rant about Plaxo became a tip on how to get round it](RulesBloggingTipGood.jpg "SNAGHTML1b94284")
+[[goodExample]]
+| ![ Good example – What started out as a rant about Plaxo became a tip on how to get round it](RulesBloggingTipGood.jpg "SNAGHTML1b94284")

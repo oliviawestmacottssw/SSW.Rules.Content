@@ -20,7 +20,7 @@ We recommend you define a standard style for your visual elements by changing th
 ### More Information on SSW Branding
 
 [[badExample]]
-| ![The balloon doesn't match our company colours](2019-10-14-Snagit-No-Branding-Example.png)
+| ![ The balloon doesn't match our company colours](2019-10-14-Snagit-No-Branding-Example.png)
 [[goodExample]]
 | ![Balloon follows SSW branding](2019-10-14-Snagit-Branding-Example.png)
 

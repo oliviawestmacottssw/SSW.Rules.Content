@@ -13,7 +13,7 @@ authors:
 
 Inevitably, our well-engineered Angular application will need to send and receive data from a service of some sort – usually a Web API. A common mistake people make when doing this is using typescript’s built in **any** type for these services, which offers no type safety whatsoever.
  [[badExample]]
-| ![The "any" type is used as the DTO for this service. There is no type safety.](dtogs-bad.png)
+| ![ The "any" type is used as the DTO for this service. There is no type safety.](dtogs-bad.png)
 One step better is to manually create interfaces for the DTOs. This gives type safety, but still means a lot of manual, tedious work to generate the interfaces.
 [[okExample]]
 | ![Manually coded interface ensures any object passed to the service is in the correct format ](dtogs-ok.png)

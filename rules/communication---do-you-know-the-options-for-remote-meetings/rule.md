@@ -29,4 +29,4 @@ Microsoft Teams' winning feature is its tight integration with Office services a
 
 **Skype for Business** – a solid communication product boasting multiple modalities and the ability to easily switch between them, as well as share a variety of content forms (e.g., desktop, application, whiteboard, poll).
 [[badExample]]
-| ![Numerous group chats with no group name and therefore no way of tracking previous chats/files![Teams chat.jpg](Teams chat.jpg)](skype chat.jpg)
+| ![ Numerous group chats with no group name and therefore no way of tracking previous chats/files![Teams chat.jpg](Teams chat.jpg)](skype chat.jpg)

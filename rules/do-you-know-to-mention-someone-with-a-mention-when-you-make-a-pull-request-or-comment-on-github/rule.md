@@ -15,6 +15,6 @@ When you make a pull request or need to communicate the next actions someone nee
 
 Read more about @mention: https://help.github.com/articles/basic-writing-and-formatting-syntax/#mentioning-users-and-teams
  [[badExample]]
-| ![Not using a @mention when addressing Duncan or Igor](github-mention-bad.png)
+| ![ Not using a @mention when addressing Duncan or Igor](github-mention-bad.png)
 [[goodExample]]
 | ![Using a @mention](github-mention-good.png)

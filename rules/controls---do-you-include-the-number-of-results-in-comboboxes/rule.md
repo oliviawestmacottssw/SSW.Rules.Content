@@ -10,7 +10,8 @@ authors:
 ---
 
 When designing your form, you should try to help your user whenever it's possible. So it's a good idea to include the number of results in ComboBoxes.
- For Web Pages  ![ Good example – combo-box with multiple columns Feel free to use our sample:](combo-box-multiple-col.jpg) 
+ For Web Pages  [[goodExample]]
+| ![ Good example – combo-box with multiple columns Feel free to use our sample:](combo-box-multiple-col.jpg) 
 1. Download and install Kendo UI Controls from [Kendo UI](http://www.kendoui.com/)
 2. **HTML (Razor)**
 Create a combo-box that has a custom template. Use a code bellow as an example:

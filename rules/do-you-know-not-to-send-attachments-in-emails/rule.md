@@ -17,7 +17,7 @@ If you're sending to a fellow employee, use a link to a document store on your i
 
 If you're sending to a client, it would be a link to a document store on their [project portal](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=846474eb-27a1-4645-90ee-10a349fef714). (e.g. projects.northwind.com/SharedDocuments)
  [[badExample]]
-| ![Don't send attachments by mail ![PortalLinks.jpg](PortalLinks.jpg)](Email_Attachment_1_small.jpg)
+| ![ Don't send attachments by mail ![PortalLinks.jpg](PortalLinks.jpg)](Email_Attachment_1_small.jpg)
 **Tip:** If you're using SharePoint, then an even better way to do this is to use a tool like OnePlaceMail to insert a link from SharePoint
 ![ Good Example - Use OnePlaceMail to send a link to a document in SharePoint](insert_link_in_email_to_sharePoint_item-png.png)
 Using the Document ID Feature in SharePoint will help minimise broken links under the following scenarios:

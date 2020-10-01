@@ -23,7 +23,7 @@ Another scenario is when the task should be done or will expire after a period o
 
 Efficient people don't rely on their memory and instead, use some way to make sure they don't forget to do that task. The most common ways are to either make a note in a paper diary, stick a post-it note to his screen. But there are better ways.
  [[badExample]]
-| ![using stick notes](postit-screen.jpg) 
+| ![ using stick notes](postit-screen.jpg) 
 To ensure you follow up any task like these, there are two ways to set yourself a task to follow up in the future:
 
 ### #1 Delayed Email 

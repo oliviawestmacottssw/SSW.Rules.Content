@@ -12,7 +12,8 @@ authors:
 Every website out there has a page which displays the results of a search. I am                     amazed that no standard has been adopted throughout the Web as nearly every site                     seems to have a different way of displaying data.
  
 However, Google is a very good example for displaying search results. Their result                     pages are clear and efficient, especially for a large result set.
-![ Good example – adopt [Google's search result layout](http://www.google.com.au/search?hl=en&q=ssw&btnG=Google+Search&meta=)](results-ssw.jpg)                        
+[[goodExample]]
+| ![ Good example – adopt [Google's search result layout](http://www.google.com.au/search?hl=en&q=ssw&btnG=Google+Search&meta=)](results-ssw.jpg)                        
 So adopt Google's search result layout and it will give new and regular users a better navigation experience.                 Here's our standard layout for our search function.
 
 Want the 'Google grid'? Then follow these rules to help users to navigate:

@@ -20,7 +20,7 @@ SQL Server includes Database Mail (it was a new feature released back in 2005 as
 - Attachment size regulations and file extension requirements
 
  [[badExample]]
-| ![Using SQL Mail](SQLDatabases_SQLMail.png)
+| ![ Using SQL Mail](SQLDatabases_SQLMail.png)
 EXEC master.dbo.xp\_smtp\_sendmail
 @FROM = N'your@email.com',
 @FROM\_NAME = N'Sophie Belle',

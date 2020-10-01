@@ -27,7 +27,7 @@ This error information is useful for the developer to do debugging. However, it 
 
 
  Figure: Turning on "customErrors" protects sensitive information against Hacker   [[badExample]]
-| ![Unhandled error ![404-good.jpg](404-good.jpg) ](404-bad.jpg) 
+| ![ Unhandled error ![404-good.jpg](404-good.jpg) ](404-bad.jpg) 
 ### Related rule
 
 - [Do you avoid changing the URL on a 404 error?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0c5ba2ba-eb40-4b9e-afdc-c2bccd589b54)

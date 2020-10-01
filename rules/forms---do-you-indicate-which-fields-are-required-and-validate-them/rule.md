@@ -11,7 +11,7 @@ authors:
 
 Always indicate which fields are required. Users get frustrated when they experience a wasted trip to the server, just because they did not get an obvious indication of what was required first time around.
  [[badExample]]
-| ![No visual indication for required fields when a user first sees the form](Required-field_Bad-example.jpg)
+| ![ No visual indication for required fields when a user first sees the form](Required-field_Bad-example.jpg)
 A designer will know the best way to indicate required field depending on the layout. However if you are in doubt and don’t have a designer around, a red asterisk is definitely the best option.
 ![ Good Example - A visual indication of what fields are required (use a red asterisk if you are not a designer)](Redstar_Good-example.jpg)
 #### More Information

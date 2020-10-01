@@ -19,7 +19,7 @@ Let us look at some examples:
  
 ### Google Chrome
 [[badExample]]
-| ![Chrome using Chinese as its language setting![](2016-3-22 14-59-07.png)](2016-3-22 10-43-12.png)
+| ![ Chrome using Chinese as its language setting![](2016-3-22 14-59-07.png)](2016-3-22 10-43-12.png)
 ### How to fix on a PC?
 
 

@@ -44,4 +44,4 @@ Here’s a quick overview:
 > | Scrum<br><br> | Only first letter capitalized<br><br>(Note: it is not an acronym, so it should never be spelled "SCRUM") |
 
 [[badExample]]
-| ![If you want to be taken seriously as an expert in the subject, you should properly and consistently spell, punctuate, and capitalize the technology you are working with![Good example: This banner shows the correct capitalization for .NET](good-example-correctly-capitalized.jpg)](bad-example-incorrect-capitalization.jpg)
+| ![ If you want to be taken seriously as an expert in the subject, you should properly and consistently spell, punctuate, and capitalize the technology you are working with![Good example: This banner shows the correct capitalization for .NET](good-example-correctly-capitalized.jpg)](bad-example-incorrect-capitalization.jpg)

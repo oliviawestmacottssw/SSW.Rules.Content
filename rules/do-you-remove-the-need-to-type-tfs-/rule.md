@@ -16,7 +16,7 @@ Many clients that complain when they type: **tfs.northwind.com**
 
 It is not a nice experience that in 2015 the out-of-the-box requirement is still to type "/tfs".
  [[badExample]]
-| ![A horrible first experience... did I get the URL wrong? Is the server down?](tfs-url-1.jpg)
+| ![ A horrible first experience... did I get the URL wrong? Is the server down?](tfs-url-1.jpg)
 **Note: **The better out-of-the-box experience for Exchange OWA is to type https://mail.ssw.com.au/
 ...and it redirects to     
 [https://mail.ssw.com.au/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.ssw.com.au%2fowa%2f](https://mail.ssw.com.au/owa/auth/logon.aspx?replaceCurrent=1&url=https://mail.ssw.com.au/owa/).

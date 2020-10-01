@@ -10,7 +10,8 @@ authors:
 ---
 
 It is important to define your response types.
-![ Bad example – no response types![good-response-types.png](good-response-types.png)](bad-no-response-types.jpg)<br>dd>
+[[badExample]]
+| ![ Bad example – no response types![good-response-types.png](good-response-types.png)](bad-no-response-types.jpg)<br>dd>
 
 
 /// 

@@ -26,7 +26,7 @@ These three options are:
 
 
 [[badExample]]
-| ![only provided *Save*button and *Cancel*link](2014-11-27_11-45-25-compressor.png)
+| ![ only provided *Save*button and *Cancel*link](2014-11-27_11-45-25-compressor.png)
 
 
 

@@ -12,7 +12,8 @@ authors:
 ---
 
 When it comes to the easiest and quickest<br>way to share files between designers, it should all be done in Dropbox.
- ![ Bad example – TFS takes too long to set up and too slow to use](Designer-Source-Control-TFS.png) 
+ [[badExample]]
+| ![ Bad example – TFS takes too long to set up and too slow to use](Designer-Source-Control-TFS.png) 
  ![ Bad Example – What seemed like a great idea at the time, SharePoint and SkyDrive proved to be plagued with slow response times, upload errors and unresponsiveness](Designer-Source-Control-SkyDrive.png) 
  ![ Good Example – Dropbox... the way file sharing is meant to be](Designer-Source-Control-DropBox.png)  
 

@@ -11,4 +11,4 @@ authors:
 
 Keeping your projects tidy says good things about the teams maturity. Therefore any files and folders that are prefixed with zz, must be deleted from the project.
  [[badExample]]
-| ![Zz-ed files should not exist in Source Control![no zzed files in source control](zzed-good.jpg)](zzed-bad.jpg)
+| ![ Zz-ed files should not exist in Source Control![no zzed files in source control](zzed-good.jpg)](zzed-bad.jpg)

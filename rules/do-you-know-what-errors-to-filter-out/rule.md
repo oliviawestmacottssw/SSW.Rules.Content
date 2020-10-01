@@ -23,4 +23,5 @@ To enable filtering:
 
 
 Now you should have a nice clean crash report page with actual errors.
- ![ Good example – Now that the noise is gone, we can see the actual errors ](raygun-filter-good.jpg)
+ [[goodExample]]
+| ![ Good example – Now that the noise is gone, we can see the actual errors ](raygun-filter-good.jpg)

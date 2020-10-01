@@ -9,7 +9,8 @@ authors:
 
 ---
 
-To please customers every business knows they need to keep their services and offerings fresh and up-to-date. The same is true for websites. In order to attract new traffic, we should make the website vivid. <br> ![ Bad example – there is no response when mouse is over the image ![Good example – apply the different style when mouse is over](NewFashionSite.jpg) ](OldFashionSite.jpg) 
+To please customers every business knows they need to keep their services and offerings fresh and up-to-date. The same is true for websites. In order to attract new traffic, we should make the website vivid. <br> [[badExample]]
+| ![ Bad example – there is no response when mouse is over the image ![Good example – apply the different style when mouse is over](NewFashionSite.jpg) ](OldFashionSite.jpg) 
 
 ```
 $("p").hover(function () {

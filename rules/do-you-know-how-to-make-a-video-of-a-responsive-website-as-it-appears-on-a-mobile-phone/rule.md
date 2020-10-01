@@ -17,7 +17,7 @@ You should use Device Mode & Mobile Emulation in the Chrome browser to make a vi
 
 
 > [[badExample]]
-| ![Using your browser makes it hard to see the video is a mobile phone demo.](browser-bad-view-for-video.jpg)
+| ![ Using your browser makes it hard to see the video is a mobile phone demo.](browser-bad-view-for-video.jpg)
 
 [[goodExample]]
 | ![Using Device Mode & Mobile Emulation in Chrome makes it clear the video is a mobile phone demo.](Mobilephone-emulator-chrome.jpg)

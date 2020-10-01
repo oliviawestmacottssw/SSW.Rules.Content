@@ -22,6 +22,6 @@ Snip the relevant information only. You can do this by:
 **
 
 [[badExample]]
-| ![this IM snip has a lot of unnecessary text that makes it hard to read](Bad-Example-of-IM-snip.jpg)
+| ![ this IM snip has a lot of unnecessary text that makes it hard to read](Bad-Example-of-IM-snip.jpg)
 [[goodExample]]
 | ![snipped and formatted](Good-Example-of-IM-snip.jpg)

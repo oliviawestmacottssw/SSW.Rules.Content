@@ -23,13 +23,15 @@ How is experimentation done? In agile software development, when you have an unk
 
 It is then best to write a new PBI “Investigate whether it is possible to automatically build with Wise”.  This PBI can be more accurately estimated and the result will allow the original PBI to be estimated or revised.
 
-![ Bad example – I want you to implement something, but I am not going to tell you what it is. How long will it take?](RuleEncouragingInvestigationStoriesBad.png)
+[[badExample]]
+| ![ Bad example – I want you to implement something, but I am not going to tell you what it is. How long will it take?](RuleEncouragingInvestigationStoriesBad.png)
 
 To embark on the original PBI when it is inestimable would be irresponsible and leave The Team with a potentially impossible PBI and the risk of a failed sprint.
 
 All investigating PBId must be timeboxed otherwise the process of investigation can meander and never come to a conclusion.
 
-![ Good example – The spike (time boxed investigation) comes first as it is impossible to estimate implementing something you do not know](RuleEncouragingInvestigationStoriesGood.png) 
+[[goodExample]]
+| ![ Good example – The spike (time boxed investigation) comes first as it is impossible to estimate implementing something you do not know](RuleEncouragingInvestigationStoriesGood.png) 
 
 Note: This gives you work for future Sprints
 

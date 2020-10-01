@@ -43,4 +43,4 @@ This approach brings many benefits:
 - For complex operations, it’s possible to compose from multiple smaller commands and queries. Each command or query is an atomic, potentially reusable operation. Such complexity should be adopted very carefully. The developer should be aware of two sometimes conflicting principles: DRY or Don't Repeat Yourself and SRP or the Single Responsibility Principle. In practice, any branching logic inside a handler to support use inside multiple contexts should be considered a violation of the Single Responsibility Principle and should be aggressively avoided
 
 [[badExample]]
-| ![Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse![clean-architecture-good.jpg](clean-architecture-good.jpg)](clean-architecture-bad.jpg)
+| ![ Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse![clean-architecture-good.jpg](clean-architecture-good.jpg)](clean-architecture-bad.jpg)

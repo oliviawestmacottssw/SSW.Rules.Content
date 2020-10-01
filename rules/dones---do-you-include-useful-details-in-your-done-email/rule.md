@@ -31,7 +31,7 @@ This has several benefits:
 
 Let's look at some examples and tips:
  [[badExample]]
-| ![the client cannot see any detail of what was done  ![](NotifyCodeChanges.gif) ](NotifyCodeChangesBad.gif) 
+| ![ the client cannot see any detail of what was done  ![](NotifyCodeChanges.gif) ](NotifyCodeChangesBad.gif) 
 **Tip #1: Include the URL
 **If you are using TFS, you can also include a URL to the work item in TSWA
 

@@ -14,4 +14,5 @@ TypeScript’s any keyword is a blessing and a curse.  It is a type that can be 
 However, it’s easy to use it as a crutch, and as a result, miss out on handy intellisense, refactoring support and compile-time safety – the main benefits of TypeScript!
  
 Aim to use any in the same way that you use the dynamic keyword in C# - that is, sparingly, and with careful consideration.
-![ Bad example – I can pass anything into this method, so I get bad output at run time (“undefined undefined”)![any-good.png](any-good.png)](any-bad.png)
+[[badExample]]
+| ![ Bad example – I can pass anything into this method, so I get bad output at run time (“undefined undefined”)![any-good.png](any-good.png)](any-bad.png)

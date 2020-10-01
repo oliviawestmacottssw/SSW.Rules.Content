@@ -23,4 +23,4 @@ In the service properties window for these services, ensure that the Service Sta
 
 For security, you should not have this domain account in the Administrators group.
  [[badExample]]
-| ![This service is using a built-in local service account![SQLDatabases_RunAsAccount.png](SQLDatabases_RunAsAccount.png)](SQLDatabases_RunAsAccount_Bad.png)
+| ![ This service is using a built-in local service account![SQLDatabases_RunAsAccount.png](SQLDatabases_RunAsAccount.png)](SQLDatabases_RunAsAccount_Bad.png)

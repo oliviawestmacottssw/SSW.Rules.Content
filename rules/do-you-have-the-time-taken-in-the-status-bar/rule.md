@@ -13,4 +13,4 @@ This feature is Particularly important if the user runs a semi-long task (e.g.30
 
 Also for a developer, you can use it to know if a piece of code you have modified has increased the performance of the task or hindered it.
  [[badExample]]
-| ![popup dialog at the end of a long process![TimeTaken_Good.jpg](TimeTaken_Good.jpg)](TimeTaken_Bad.jpg)
+| ![ popup dialog at the end of a long process![TimeTaken_Good.jpg](TimeTaken_Good.jpg)](TimeTaken_Bad.jpg)

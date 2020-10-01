@@ -10,4 +10,4 @@ authors: []
 By placing a little visual cue on your slide, you can remind yourself to show a demo to the audience. Avoid displaying the word 'demo', because when out of time, presenters skip them and leave the audience felling ripped off. <br> 
 The icon allows you to skip it when running short on time, without upsetting the audience.
 [[badExample]]
-| ![demo text shown. The problem is if you run out of time you need to say "Sorry, let's skip that demo since I am short of time". Then the audience feels cheated![](demo.gif) ](DemoBad.gif)
+| ![ demo text shown. The problem is if you run out of time you need to say "Sorry, let's skip that demo since I am short of time". Then the audience feels cheated![](demo.gif) ](DemoBad.gif)

@@ -42,7 +42,7 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 > **Please note: **In some teams which only use Small, Medium and Large the following numbering is applyed respectively 2, 4 and 8.
 
  [[badExample]]
-| ![Estimation using T-Shirt sizes](size-stories-bad-example.jpg) 
+| ![ Estimation using T-Shirt sizes](size-stories-bad-example.jpg) 
 ### Fibonacci Extended (1-100)
 
 Planning Poker is a very effective Product Backlog estimation technique and the most common method is using Fibonacci numbers (1,2,3,5,8,13, etc.). This was made popular by Mike Cohn.

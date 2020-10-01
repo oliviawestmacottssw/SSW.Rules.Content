@@ -19,10 +19,10 @@ There are the 3 ways people can send tasks:
 
 1. Send an email only.
 [[badExample]]
-| ![An email with requirements does not indicate the priority](Email sign.jpg)
+| ![ An email with requirements does not indicate the priority](Email sign.jpg)
 2. Put the task straight into the backlog, and send no email:
 [[badExample]]
-| ![The developer does not get a chance to ask questions and refine it before it hits the backlog](straight to scrum.jpg)
+| ![ The developer does not get a chance to ask questions and refine it before it hits the backlog](straight to scrum.jpg)
 3. Send an email, the recipient reviews it and places it into the backlog, based off the specified Business Value. Developers often prefer this method if they like control over their backlog.
 ![Developer entered.jpg](Developer entered.jpg)Good example - Email tasks with a Business Value, allow the developer to review before putting it in the backlog
 

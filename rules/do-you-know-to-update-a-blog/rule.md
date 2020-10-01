@@ -18,7 +18,8 @@ Use the word "UPDATED" clearly (in capitals and in red for example). The date sh
 Example:
 
 UPDATED: 1 August 2010 [what you changed]
-![ OK example – Although Peter has the right idea, he needs to think more of a global audience - <br>      [See live](http://blog.gfader.com/2010/06/avoid-boolean-parameters-in-method.html)![image](RulesBloggingUpdate_UltimateMike.jpg "image")](RulesBloggingUpdate_OKPeter.jpg)
+[[okExample]]
+| ![ OK example – Although Peter has the right idea, he needs to think more of a global audience - <br>      [See live](http://blog.gfader.com/2010/06/avoid-boolean-parameters-in-method.html)![image](RulesBloggingUpdate_UltimateMike.jpg "image")](RulesBloggingUpdate_OKPeter.jpg)
 You should also apply this technique to youtube videos you record.
 ![ Good Example - Following up on bug video makes it clear that the bug was fixed quickly](UpdatedYoutubeTitle.png)
 

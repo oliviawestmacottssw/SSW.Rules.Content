@@ -12,4 +12,5 @@ authors:
 During an interview, looking at a talking head (the subject) can become monotonous. As such it is a good idea to ‘cutaway’ to the topic/product that the speaker is referring to. Not only does it make it more interesting, it improves the understandability of the video for your audience.
  
 As an example, if you are interviewing someone and the topic of unit testing comes up, mid-sentence you can cut to a shot of the unit testing UI.
-![ Bad example – Looking at a talking head for 30 mins is boring![Cutaways  Bad example](cutaways-good-example.jpg)](cutaways-bad-example.jpg)
+[[badExample]]
+| ![ Bad example – Looking at a talking head for 30 mins is boring![Cutaways  Bad example](cutaways-good-example.jpg)](cutaways-bad-example.jpg)
