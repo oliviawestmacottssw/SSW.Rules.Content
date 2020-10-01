@@ -8,14 +8,14 @@ authors: []
 ---
 
 Data Entrees should be able to use your data entry form with ease. It should follow the flow that they are familiar with.
- ![ Bad Example - New button should open another form, and Delete button should be on that new form](../../assets/BadAddDeleteSubForm.gif)
+ ![ Bad Example - New button should open another form, and Delete button should be on that new form](../assets/BadAddDeleteSubForm.gif)
 1. ### Multiple Form Instances
     Imagine, while the Sally is entering a Quote on the Quote Form, they receive a Phone call from a client needing a new Quote. The user will not want to close the current Quote, because they are 1/2 way through it.
     As we saw in the example above, Sally needs to open multiple instances of the same form. A reputable example for this is Microsoft's Outlook. When you are 1/2 way through an email, and you chose to start writing another, Outlook makes it convenient by placing every email you open in the taskbar. The figure below illustrates this.
-![ Good Example - Outlook opens multiple instances of the data entry form (email message)![Outlook Taskbar](../../assets/outlooktaskbar.jpg)](../../assets/Outlookemails.jpg)
+![ Good Example - Outlook opens multiple instances of the data entry form (email message)![Outlook Taskbar](../assets/outlooktaskbar.jpg)](../assets/Outlookemails.jpg)
     New and Delete buttons should appear, in a toolbar for example, docked to the top.
  The figure in           [Data Entry Drill Downs](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Forms.aspx#DrillAround) below illustrates this.
-![ Good Example - New and Delete buttons docked in the Toolbar providing easy data entry for new Timesheets    The Delete button resides there to make sure that Sally has seen the record before she deletes it. The New button should instantiate a new data entry form in add mode (as compared to "edit"), leaving the current one in the background.](../../assets/GoodAddDeleteSubForm.jpg)
+![ Good Example - New and Delete buttons docked in the Toolbar providing easy data entry for new Timesheets    The Delete button resides there to make sure that Sally has seen the record before she deletes it. The New button should instantiate a new data entry form in add mode (as compared to "edit"), leaving the current one in the background.](../assets/GoodAddDeleteSubForm.jpg)
     It can be argued that navigation is required in a data entry form. As an option, a good navigation system will navigate through a subset of records (ideally records which are search results). The idea of navigating through all records can be tedious, and most of the time useless.
 
 ### However there is a problem
@@ -32,12 +32,12 @@ Data Entrees should be able to use your data entry form with ease. It should fol
  If No, then close the form without saving.
  If Cancel, then return back to the dirty form.
 
-![ Good Example - Save Changes Dialog must appear when form is dirty](../../assets/SaveChangesDialog.jpg)
+![ Good Example - Save Changes Dialog must appear when form is dirty](../assets/SaveChangesDialog.jpg)
 3. Do not add buttons for searching on the data entry form, create a new form for search, through which you can open new instances of the form. The convenience of the search capability on the form will be overlooked as it makes the form more crowded. Another issue which can arise is if Sally searches for a criteria which returns multiple records, she cannot look at all those records. She can only open one at a time, navigating through them. The solution to the search dilemma is to create a new search form, which is shown in the figure below. The search form will allow multiple criteria, will not over crowd the data entry form, and will show you all the results that your search has retrieved.
-![ Bad Example - This implementation of a search utility is on the same form![Separate Search](../../assets/SearchForm.gif)](../../assets/BadSearch.gif)
+![ Bad Example - This implementation of a search utility is on the same form![Separate Search](../assets/SearchForm.gif)](../assets/BadSearch.gif)
 4. ### No Delete Button for sub forms
     When including a sub form in your main form (as shown in figure below), the only options the user should have are "New" and "Edit". When "Edit" is clicked, another data entry form is opened to edit selected record. In this data entry form, you will have a "Delete" button on the toolbar. This saves the user from making mistakes and forcing them to see the record before deleting.
-![ Good Example - No Delete button for Sub forms](../../assets/SubFormsExample.gif)
+![ Good Example - No Delete button for Sub forms](../assets/SubFormsExample.gif)
 5. ### Validation
     Most fields required validation. There are three types of validations:
 
@@ -56,10 +56,10 @@ Data Entrees should be able to use your data entry form with ease. It should fol
     - Parse/Format
     - Validated
 
-![ Good Example - Error Provider Icon next to a required field    Do not show a message box after every error in validation. You may show a message box as an error summary when an OK or Apply is clicked. Make sure you warn the user that there is an error on the form when they attempt to save.](../../assets/ErrorProviderIconExample.jpg)
+![ Good Example - Error Provider Icon next to a required field    Do not show a message box after every error in validation. You may show a message box as an error summary when an OK or Apply is clicked. Make sure you warn the user that there is an error on the form when they attempt to save.](../assets/ErrorProviderIconExample.jpg)
 6. ### Relevant Menus
     Make sure that the menu items are relevant to the current form. The main idea is that we don't want to show the user any dummy menu items. However, this may become complex when a base form (containing the menu) is inherited. Access to menus in the base form must be granted (maybe through properties), so that each menu can be customized according to each child form.
-![ Bad Example - Action and Tools are irrelevant on this form![Centrix - File, Report & Help Menus](../../assets/MenuGoodExample.jpg)](../../assets/MenuBadExample.jpg)
+![ Bad Example - Action and Tools are irrelevant on this form![Centrix - File, Report & Help Menus](../assets/MenuGoodExample.jpg)](../assets/MenuBadExample.jpg)
 7. ### Field Formatting
     Ensure that the data is displayed in correct format. For example, when presenting a percentage data in a field, make sure it is displayed as '% xx.xx'.
  To accompany formatting, you must also create a parse function for putting the correct value back in the database.
@@ -95,7 +95,7 @@ Code: Code for Handling Parse and Format Events for Data bound Controls    The B
 8. ### Created/Last Updated By Fields
     With all database entries, there are always some fields that are used over and over again. For example, these fields may be created date, created by, last updated date, updated by, etc.
     A common UI to use for these fields can be seen in the example below. What we do is create a user control that is identical across all projects/UI.
-![ Bad Example - This form has no information to indicate who created this entry and who last modified it![SSW Time PRO .NET - Time Sheets](../../assets/GoodCreatedUpdated.jpg)](../../assets/BadCreatedUpdated.jpg)
+![ Bad Example - This form has no information to indicate who created this entry and who last modified it![SSW Time PRO .NET - Time Sheets](../assets/GoodCreatedUpdated.jpg)](../assets/BadCreatedUpdated.jpg)
 
 
 ```
@@ -106,7 +106,7 @@ updatedBy.CreatedDate = .DateCreated
 ```
 
 Code: Code for Setting values for User Control    Databinding is also available to be used with this user control.
-![ Data Binding using the Designer](../../assets/CommonFieldsDB.gif)
+![ Data Binding using the Designer](../assets/CommonFieldsDB.gif)
 9. ### Minimum Defaults
     In many situations, there is a need for field Defaults. These Defaults can be extracted from the Database for example. When a new form is opened ensure that only necessary Defaults are loaded. By Default some decimal fields will become 0.0, but make sure they are set to blank because they may be required fields.
 10. ### Resizing

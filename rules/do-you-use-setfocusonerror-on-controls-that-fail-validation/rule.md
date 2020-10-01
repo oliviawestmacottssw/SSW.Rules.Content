@@ -8,4 +8,4 @@ authors: []
 ---
 
 For Validation Errors, don’t rely on an error messagebox, instead automatically focus on the control.
-![ Good Example - Balloons also direct the eye](../../assets/GoodValidation.jpg)
+![ Good Example - Balloons also direct the eye](../assets/GoodValidation.jpg)

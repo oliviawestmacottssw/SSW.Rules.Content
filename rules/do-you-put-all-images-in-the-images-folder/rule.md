@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Instead of images sitting all around the solution, we put all the images in the same folder. <br> ![Image bad link](../../assets/ImageLinkBad.gif) Bad example - Images under Product root folder. ![Image good link](../../assets/ImageLinkGood.gif) Good example - Images under \Images folder. 
+Instead of images sitting all around the solution, we put all the images in the same folder. <br> ![Image bad link](../assets/ImageLinkBad.gif) Bad example - Images under Product root folder. ![Image good link](../assets/ImageLinkGood.gif) Good example - Images under \Images folder. 
 
 
 

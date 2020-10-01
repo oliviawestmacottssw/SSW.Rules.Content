@@ -8,4 +8,4 @@ authors: []
 ---
 
 Make the options clearer by using bold.
- ![ Bad Example - Main options text not in bold![SSW Link Auditor - Command Line](../../assets/OptionsTextInBold.gif)](../../assets/OptionsTextNotInBold.gif)
+ ![ Bad Example - Main options text not in bold![SSW Link Auditor - Command Line](../assets/OptionsTextInBold.gif)](../assets/OptionsTextNotInBold.gif)

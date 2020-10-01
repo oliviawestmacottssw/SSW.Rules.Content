@@ -59,6 +59,6 @@ Use JavaScript to change the combo-box's behaviour.
 
 
 ### For Windows Forms
- ![ Bad Example - You can't tell the number of results and there is a scroll bar ![Options Form - ComboBox with Result Count](../../assets/ComboWF-2.jpg) ](../../assets/ComboWF-1.jpg) 
+ ![ Bad Example - You can't tell the number of results and there is a scroll bar ![Options Form - ComboBox with Result Count](../assets/ComboWF-2.jpg) ](../assets/ComboWF-1.jpg) 
 We believe all combos should be able to be sorted ascending/descending and by popularity asc/desc.
  ![ Good Example - Is there a better way to sort this?](sort-alpha-numeric.jpg)

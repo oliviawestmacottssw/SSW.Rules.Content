@@ -8,4 +8,4 @@ authors: []
 ---
 
 Time formats should be consistent across your application, to give the                      application a very professional and consistent look.
- ![ Bad Example - Three screens with inconsistent time formats![Good Example](../../assets/GoodExampleTP.gif) ](../../assets/BadExampleTP.gif)
+ ![ Bad Example - Three screens with inconsistent time formats![Good Example](../assets/GoodExampleTP.gif) ](../assets/BadExampleTP.gif)

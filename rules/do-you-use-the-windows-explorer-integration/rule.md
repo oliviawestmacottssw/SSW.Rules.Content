@@ -22,5 +22,5 @@ authors:
 Suggestion to the TFS Team: I didn't see blame annotate in the drop down - which is a bit odd.
 
 More reading from the prolific Brian Harry: 
-http://blogs.msdn.com/bharry/archive/2008/11/08/oct-08-tfs-power-tools-are-available.aspx ![](../../assets/external.gif "You are now leaving SSW") 
-http://blogs.msdn.com/bharry/archive/2008/10/01/preview-of-the-next-tfs-power-tools-release.aspx ![](../../assets/external.gif "You are now leaving SSW")
+http://blogs.msdn.com/bharry/archive/2008/11/08/oct-08-tfs-power-tools-are-available.aspx ![](../assets/external.gif "You are now leaving SSW") 
+http://blogs.msdn.com/bharry/archive/2008/10/01/preview-of-the-next-tfs-power-tools-release.aspx ![](../assets/external.gif "You are now leaving SSW")

@@ -8,7 +8,7 @@ authors: []
 ---
 
 In Outlook the Street Address is stored as 1 Multi-Line field (with an  intelligent Address Checker - nice but not essential), yet in Microsoft  CRM the Street Address is split out across 3 separate single line text  fields, they should be consistent.
- ![ Street Address in Outlook.![Street Address in CRM](../../assets/BadExample.jpg)](../../assets/GoodExample.jpg)
+ ![ Street Address in Outlook.![Street Address in CRM](../assets/BadExample.jpg)](../assets/GoodExample.jpg)
 We consider Outlook is friendlier, because:
 
 1. The wrong data is entered often when you have Street 1, Street 2, Street 3.

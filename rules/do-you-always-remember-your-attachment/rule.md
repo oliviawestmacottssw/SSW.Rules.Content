@@ -15,4 +15,4 @@ authors:
 
 
 We have a program called [SSW LookOut! for Outlook](http://www.ssw.com.au/ssw/LookOut/) to check for this rule. 
-![ SSW LookOut! for Outlook automatically warns you if you have forgotten to include your attachments. ](../../assets/ContactorAttached.gif)
+![ SSW LookOut! for Outlook automatically warns you if you have forgotten to include your attachments. ](../assets/ContactorAttached.gif)

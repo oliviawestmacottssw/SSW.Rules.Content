@@ -19,4 +19,4 @@ Exception: Only use them in the following scenarios:
 - Kicking off a long running process that cannot be cancelled
 
 [[badExample]]
-| ![ could the information in this message box be moved into the panel on the right![Embedded message box](../../assets/oneplacemailerror.png)](../../assets/MoveErrorMSG.jpg)
+| ![ could the information in this message box be moved into the panel on the right![Embedded message box](../assets/oneplacemailerror.png)](../assets/MoveErrorMSG.jpg)

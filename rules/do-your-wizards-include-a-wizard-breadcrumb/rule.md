@@ -23,7 +23,7 @@ Headings that direct the user around your web page are       important as it giv
 - Payment Details - Select how you pay and enter details
 - Confirmation of Purchase - Display information about their purchase
 
-![ Simple Header that tells the user where they have come from](../../assets/ExamleHeadingforShoppingBasket.gif)
+![ Simple Header that tells the user where they have come from](../assets/ExamleHeadingforShoppingBasket.gif)
 **Amazon Example:**
 
 - Welcome Icon - Ordering from Amazon.com is quick and easy
@@ -33,4 +33,4 @@ Headings that direct the user around your web page are       important as it giv
 
 
 The following heading from Amazon shows the user at what stage of the ordering process they are at and what they can expect next. This covers the whole billing process.
-![ This is how headings should look![Virgin Flight Booking](../../assets/virgin-flight-navigation.png)](../../assets/amazonshopping.jpg)
+![ This is how headings should look![Virgin Flight Booking](../assets/virgin-flight-navigation.png)](../assets/amazonshopping.jpg)

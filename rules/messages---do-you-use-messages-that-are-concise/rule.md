@@ -19,9 +19,9 @@ It is important to use terminology that your users will understand. Do not to us
 - Ran out of memory.
 - You may be out of memory.
 
-![ Bad Example - Is it OK to Cancel?](../../assets/Bad-MessageBoxZango.jpg)
+![ Bad Example - Is it OK to Cancel?](../assets/Bad-MessageBoxZango.jpg)
 Microsoft uses this one:
-![ Good Example - Microsoft error message is concise](../../assets/NotEnoughMemory.gif)
+![ Good Example - Microsoft error message is concise](../assets/NotEnoughMemory.gif)
 Some other message types that Microsoft uses are:
 
 

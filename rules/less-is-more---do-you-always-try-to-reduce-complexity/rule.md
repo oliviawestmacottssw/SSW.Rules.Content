@@ -19,4 +19,4 @@ The human brain:
 It's important to keep these in mind when making design decisions or presenting data.
 
 Our visual short term memory has a capacity of 4 items. So options are easier for our brain to digest when presented in sets of 4.
-![ Blocks of 4 or less menu items are easier for the brain to consume![Adobe Illustrator](../../assets/4VisualOptions2.jpg)](../../assets/4VisualOptions1.jpg)
+![ Blocks of 4 or less menu items are easier for the brain to consume![Adobe Illustrator](../assets/4VisualOptions2.jpg)](../assets/4VisualOptions1.jpg)

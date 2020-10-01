@@ -8,4 +8,4 @@ authors: []
 ---
 
 [[badExample]]
-| ![ Hard to read these columns ![Good alignment](../../assets/good-matrixcol.jpg)](../../assets/bad-matrixcol.jpg)
+| ![ Hard to read these columns ![Good alignment](../assets/good-matrixcol.jpg)](../assets/bad-matrixcol.jpg)

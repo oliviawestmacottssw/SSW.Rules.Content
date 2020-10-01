@@ -19,7 +19,7 @@ To ensure a consistent user experience, make sure to include these visual elemen
 4. **Company logo.** This helps promote branding, however it should be<br>                        inconspicuous and should not move visual focus away from the body of your application.<br>
 
 
-![ Good Example - SSW Link Auditor Wizard's<br>                                better flow of information](../../assets/GoodInformationFlow.gif)
+![ Good Example - SSW Link Auditor Wizard's<br>                                better flow of information](../assets/GoodInformationFlow.gif)
 Technical Note: To ensure visual consistency across applications, create a base                     form then set the properties in that form (application icon, menu structure, button                     names etc.) Add any logic in for switching pages with the "Next" and "Back"                     buttons. Then for all projects, add a reference to that one and inherit the customized                     form.
 
 In the forms in your application, instead of inheriting from **System.Windows.Forms.Form**                     (the Default), inherit from your new base form class.
@@ -39,5 +39,5 @@ public class MyForm : Company.Framework.BaseCustomForm
 The "finish" button denotes the end of the Wizard; by clicking on it,                     the user closes the Wizard.
 
 For longer processes, the Wizard should implement "Start" and "Skip"                     features to guide the user through from start to finish.
-![ Good Example - SSW Code Auditor Wizard featuring<br>                                "Start" and "Skip" options](../../assets/StartProcess.gif)
+![ Good Example - SSW Code Auditor Wizard featuring<br>                                "Start" and "Skip" options](../assets/StartProcess.gif)
 Here's some more information on the [Microsoft Standard for Wizard Welcome and Completion Page art](http://www.ssw.com.au/ssw/Redirect/Microsoft/wizard.htm) and [Interior Page art](http://www.ssw.com.au/ssw/Redirect/Microsoft/wizard2.htm).

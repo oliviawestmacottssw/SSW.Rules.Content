@@ -14,4 +14,4 @@ In menus (including context menus) or buttons, there are generally two types of 
 
  
 Microsoft applications use this technique to indicate whether or not the action will be carried out without any further user intervention. Your application should also follow this well-established standard, so users will not be caught off guard when an action carried out immediately after they click the menu item.
-![ Good Example - Options menu in Outlook, with ellipsis![Shows that it needs further input](../../assets/RunDialog.gif)](../../assets/Elipsis.gif)
+![ Good Example - Options menu in Outlook, with ellipsis![Shows that it needs further input](../assets/RunDialog.gif)](../assets/Elipsis.gif)

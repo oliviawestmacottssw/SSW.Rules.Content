@@ -71,7 +71,7 @@ Use a really short signature (your first name or initials) or no signature at al
 2. Click the "Mail" tab as seen below
 3. Click on "Signatures..." and add in your signatures
 
-![ How to add a signature in Outlook](../../assets/Outlook2013_signature.jpg)
+![ How to add a signature in Outlook](../assets/Outlook2013_signature.jpg)
 **How to set it up in OWA**
 
 1. Open OWA (e.g. http://mail.northwind.com/owa)
