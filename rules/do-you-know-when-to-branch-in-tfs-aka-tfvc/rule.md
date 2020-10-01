@@ -44,12 +44,12 @@ The better way is to use OctopusDeploy which relives developers from having mult
 - For a disposable, investigatory spike
 - To perform hotfixes to production environment
 
-![ Bad Example – Creating a branch per feature leads to lots of merging (Image from[http://paulhammant.com/blog/branch\_by\_abstraction.html](http://paulhammant.com/blog/branch_by_abstraction.html) ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW"))![](branch-bad-2.jpg)](branch-bad.jpg)
+![ Bad Example – Creating a branch per feature leads to lots of merging (Image from[http://paulhammant.com/blog/branch\_by\_abstraction.html](http://paulhammant.com/blog/branch_by_abstraction.html)    )![](branch-bad-2.jpg)](branch-bad.jpg)
 This means that all developers are continually integrating all their code, branching is rare, but you always have access to your released version in case bug fixes or small mods are required.
-(Image from [http://paulhammant.com/blog/branch\_by\_abstraction.html](http://paulhammant.com/blog/branch_by_abstraction.html) ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW"))
+(Image from [http://paulhammant.com/blog/branch\_by\_abstraction.html](http://paulhammant.com/blog/branch_by_abstraction.html)    )
 Further reading:
 
-- http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/ ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW")
-- [http://paulhammant.com/blog/branch\_by\_abstraction.html](http://paulhammant.com/blog/branch_by_abstraction.html) ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW")
-- http://martinfowler.com/bliki/FeatureBranch.html ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW")
-- http://martinfowler.com/bliki/SemanticConflict.html ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW")
+- http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/    
+- [http://paulhammant.com/blog/branch\_by\_abstraction.html](http://paulhammant.com/blog/branch_by_abstraction.html)    
+- http://martinfowler.com/bliki/FeatureBranch.html    
+- http://martinfowler.com/bliki/SemanticConflict.html

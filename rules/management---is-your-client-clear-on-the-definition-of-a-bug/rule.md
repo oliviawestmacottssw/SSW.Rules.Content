@@ -60,9 +60,9 @@ Any new features or modifications (non-bug items) not in the original Product Ba
 If you see a bug in any software product, e.g. SSW Code Auditor, it is best to report the issue following the steps outlined the [SSW Bug or Enhancement Reporting Standard](http://www.ssw.com.au/ssw/Standards/Support/BugReportOrEnhancement.aspx).
 
 Note: The above is our definition. Others have different definitions that we do **not**subscribe to:
-- http://www.ssw.com.au/ssw/Redirect/KB/KBQ720494JoelOnSoftware.htm ![You are about to leave the SSW site](../../assets/LeaveSite.gif)
+- http://www.ssw.com.au/ssw/Redirect/KB/KBQ720494JoelOnSoftware.htm 
 
 
 
 You can also use the Wiki definition of "Software Bug" as a reference to understand this concept:
-- [Wikipedia Definition of Software Bug](http://en.wikipedia.org/wiki/Software_bug) ![You are about to leave the SSW site](../../assets/LeaveSite.gif)
+- [Wikipedia Definition of Software Bug](http://en.wikipedia.org/wiki/Software_bug)

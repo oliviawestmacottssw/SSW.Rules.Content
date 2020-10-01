@@ -15,4 +15,4 @@ A fundamental principal of Angular is that you build a Model in JavaScript (or T
 
 **In Angular, you do not interact with the page you update the model, and the page is just displaying a view of the model.**
 ![ Good Example - In both AngularJs & Angular 2.0 jQuery is not required on the view. The view binds to properties on a JavaScript model](understand-goodcode.png)
-Further reading: http://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background ![](external.gif "You are now leaving SSW")
+Further reading: http://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background

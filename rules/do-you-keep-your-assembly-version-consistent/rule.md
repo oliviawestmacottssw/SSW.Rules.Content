@@ -29,4 +29,4 @@ If you're working with SharePoint farm solutions (2007, 2010, or 2013), in most 
 
 The AssemblyInformationalVersion stores the product name as marketed to consumers. For example for Microsoft Office, this would be "Microsoft Office 2013", while the AssemblyVersion would be 15.0.0.0, and the AssemblyFileVersion is incremented as patches and updates are released.
 
-Note: It would be good if Microsoft changed the default behaviour of AssemblyInformationalVersionAttribute to default to the AssemblyVersion. [See Mikes suggestion for improving the version number in the comments here.](http://msdn.microsoft.com/en-us/library/system.reflection.assemblyinformationalversionattribute.aspx) ![](external.gif "You are now leaving SSW") ![](external.gif "You are now leaving SSW")
+Note: It would be good if Microsoft changed the default behaviour of AssemblyInformationalVersionAttribute to default to the AssemblyVersion. [See Mikes suggestion for improving the version number in the comments here.](http://msdn.microsoft.com/en-us/library/system.reflection.assemblyinformationalversionattribute.aspx)
