@@ -13,7 +13,7 @@ The corner stone of good user interface design is that if your users need instru
 - There is no need to use help
 - No excuse for RTFM (read the freaking manual)
 
-![ A good interface does not need instructions!](../assets/SelfEvident.gif)
+![ A good interface does not need instructions!](../../assets/SelfEvident.gif)
 A good UI is:
 
 - Intuitive
@@ -39,4 +39,4 @@ A good UI is:
 
 
 [[goodExample]]
-| ![Teamviewer's interface requires very little explanation![Fly in a Urinal](../assets/FlyInUrinal.jpg)](../assets/GoodUITeamViewer.png)
+| ![Teamviewer's interface requires very little explanation![Fly in a Urinal](../../assets/FlyInUrinal.jpg)](../../assets/GoodUITeamViewer.png)

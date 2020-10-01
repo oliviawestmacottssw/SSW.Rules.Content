@@ -8,4 +8,4 @@ authors: []
 ---
 
 The buttons that a user will typically use should not be dynamically labeled across your applications.
- ![ Bad Example - Buttons are dynamically labeled "Build ..." and "Edit ..." depending on text in the text box![OLEDB Connection String](../assets/DynamicallyLabelingButtonGood.gif)](../assets/DynamicallyLabelingButtonBad.gif)
+ ![ Bad Example - Buttons are dynamically labeled "Build ..." and "Edit ..." depending on text in the text box![OLEDB Connection String](../../assets/DynamicallyLabelingButtonGood.gif)](../../assets/DynamicallyLabelingButtonBad.gif)

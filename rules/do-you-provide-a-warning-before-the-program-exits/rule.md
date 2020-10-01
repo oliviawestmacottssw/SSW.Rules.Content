@@ -8,7 +8,7 @@ authors: []
 ---
 
 A product should not close without providing a warning. We use the following message box to warn the user before closing a program:
- ![ Good Example - Standard warning before a program exits](../assets/CloseWarning.gif)
+ ![ Good Example - Standard warning before a program exits](../../assets/CloseWarning.gif)
 
 ```
 private void OnExit(object sender) 

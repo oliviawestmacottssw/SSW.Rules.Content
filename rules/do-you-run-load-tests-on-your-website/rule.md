@@ -25,15 +25,15 @@ In **Visual Studio 2005 - Software Testers Edition**, there is a built-in Test P
 
 1. From the **Test** menu select **New Test**
 2. Select **Web Test** and **Create a new Test Project**
- ![Add a new Web Test](../assets/add_new_test.gif)
+ ![Add a new Web Test](../../assets/add_new_test.gif)
 3. Name the Test Project .WebUI.Tests
 4. An Internet Explorer window will open with a recorder toolbar. Navigate to the web pages that need to be Load Tested
- ![Record the pages you want to Load Test](../assets/record_website.gif)
+ ![Record the pages you want to Load Test](../../assets/record_website.gif)
 5. Click Stop when you are finished recording the pages to be tested
 6. Click the **Run** button to make sure the tests run
-![Test our recorded test](../assets/run_webtest.gif)
+![Test our recorded test](../../assets/run_webtest.gif)
 7. Add a new Load Test
- ![Add Load Test](../assets/add_load_test.gif)
+ ![Add Load Test](../../assets/add_load_test.gif)
 8. Follow the **Load Test Wizard**:
     - **Load Pattern** - Define the number of users hitting the site
     - **Test Mix** - Select the web test you recorded earlier
@@ -41,5 +41,5 @@ In **Visual Studio 2005 - Software Testers Edition**, there is a built-in Test P
     - **Network Mix** - Specify connection speeds of users (leave as default)
 9. Click **Finish**
 10. Click **Run** to run the load test
- ![Run Load Test](../assets/run_load_test.gif)
+ ![Run Load Test](../../assets/run_load_test.gif)
 11. This will kick off the load test and show a live graph of user load, requests per second and response time

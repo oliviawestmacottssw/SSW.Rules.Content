@@ -10,4 +10,4 @@ authors: []
 **Give users the chance to skip a lengthy process.**
 
 When your wizard has a lot of processing, do you allow the user to skip that processing when appropriate? It may be that the user simply wants to see the results of the last time the wizard was used, or is interested in seeing what comes after the processing step before deciding to run the process.
- ![ Good Example - Here the user can skip a long process and see the last results (from SSW Diagnostics)](../assets/SkipLongProcess.gif)
+ ![ Good Example - Here the user can skip a long process and see the last results (from SSW Diagnostics)](../../assets/SkipLongProcess.gif)

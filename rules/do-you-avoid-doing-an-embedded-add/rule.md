@@ -8,7 +8,7 @@ authors: []
 ---
 
 For any case of 'Add New', choose to open a new window (popup) for entering data.
- ![ The 'Add New' button changes from a view into a data entry form![The 'Add New' did not open a new form](../assets/BadEmbeddedAdd.jpg)](../assets/EmbeddedAdd.jpg)
+ ![ The 'Add New' button changes from a view into a data entry form![The 'Add New' did not open a new form](../../assets/BadEmbeddedAdd.jpg)](../../assets/EmbeddedAdd.jpg)
 It is better to open in a new form, reasons being:
 
 - It is better for the user in terms of clarity. The change of view to data entry form can be a surprise
@@ -18,4 +18,4 @@ It is better to open in a new form, reasons being:
 However, you do need to call back on save and requery it.
  Use a modal form and requery it (DON'T use JavaScript, instead use the Modal Popup Form Example)
  An example of this is in Outlook with the 'New' button.
-![ Good Example - the 'New' button in Outlook opens a new form for you to construct your email![Adding a new table in SharePoiny](../assets/sharepoint-add-table.jpg)](../assets/GoodEmbeddedAdd.jpg)
+![ Good Example - the 'New' button in Outlook opens a new form for you to construct your email![Adding a new table in SharePoiny](../../assets/sharepoint-add-table.jpg)](../../assets/GoodEmbeddedAdd.jpg)

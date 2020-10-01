@@ -8,4 +8,4 @@ authors: []
 ---
 
 Below is a report screen that is fairly common that developers create,  they will make it so every time the page is loaded the user will have to  reselect their options. To make it simpler the options should be stored  in a cookie or database and be already pre-selected once the page is  reloaded, as it is likely they will want to use the same or slightly  modified query. If they don't then they can simply select what they are  after anyway.
- ![ Bad Example - This is suitable for first view, but not for a return view![Sample Select 2](../assets/SampleSelect2.jpg)](../assets/SampleSelect.jpg)
+ ![ Bad Example - This is suitable for first view, but not for a return view![Sample Select 2](../../assets/SampleSelect2.jpg)](../../assets/SampleSelect.jpg)

@@ -10,7 +10,7 @@ authors: []
 Not only do we try to keep our designs clean and simple without too many images,          we also try to minimise the number of words. If something can be revised to make          it cleaner and simpler, we will always do it. A lack of superfluous words means          your readers don't get bored and will stick around longer.
  
 
-![ Testimonials as displayed on SSW's About Us page](../assets/MinimalDesignImage.jpg)
+![ Testimonials as displayed on SSW's About Us page](../../assets/MinimalDesignImage.jpg)
 Web minimalism and simplicity means emphasizing what is essential and important           to your readers. Remove every non-essential or unimportant element. Readers only           have so much attention to give, if you present them with less they will have more           attention to give to each element.
 
 ### Benefits of Simple Design

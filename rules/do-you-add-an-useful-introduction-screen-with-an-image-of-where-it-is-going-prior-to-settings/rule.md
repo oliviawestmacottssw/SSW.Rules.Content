@@ -12,4 +12,4 @@ A brief introduction will give some idea about what will happen on this  process
 - Add screen shot with red circle at the top of the screen
 - Put a description next to it
 
-![ Bad Example - This screen has no product introduction... The user is thinking ‘What is this going to do?’![ssw Exchange Manager - Report Publication](../assets/IntroScreenGood.gif)](../assets/IntroScreenBad.gif)
+![ Bad Example - This screen has no product introduction... The user is thinking ‘What is this going to do?’![ssw Exchange Manager - Report Publication](../../assets/IntroScreenGood.gif)](../../assets/IntroScreenBad.gif)

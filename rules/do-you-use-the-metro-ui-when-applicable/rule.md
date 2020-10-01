@@ -17,4 +17,4 @@ From           [Adam Cogan's blog](http://www.adamcogan.com/2012/11/18/microsoft
  What that means for users is that they have the same \*one\* user experience.
  What that means for developers is that we have the simplest way to build apps that go across these 3 devices."
 [[goodExample]]
-| ![ Good example – TFSPreview.com adopts the Metro style![Metro UI in TimePRO](../assets/Metro-Good2.jpg) ](../assets/Metro-Good.jpg)
+| ![ Good example – TFSPreview.com adopts the Metro style![Metro UI in TimePRO](../../assets/Metro-Good2.jpg) ](../../assets/Metro-Good.jpg)

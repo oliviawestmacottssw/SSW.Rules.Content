@@ -21,4 +21,4 @@ Most developers think about user interface last. They spend their time worrying 
 It might be fantastic under the covers, but if the user interface is not intuitive the user will think the application is just hopeless. If the user interface doesn't afford an easy and simple understanding of how to operate the application, you'll get a lot of unhappy customers and unnecessary support calls.
 
 Do yourself a favor, take some time to think about UI first.
-![ Bad Example - An example of a poor UI![Bad UI Example](../assets/bad-functionaloverload1.jpg)](../assets/badui2.jpg)
+![ Bad Example - An example of a poor UI![Bad UI Example](../../assets/bad-functionaloverload1.jpg)](../../assets/badui2.jpg)

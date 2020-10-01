@@ -10,7 +10,7 @@ authors:
 ---
 
 When you can't see all the text for an item in a ListView you need to expose the full text via a ToolTip.
- ![ Bad Example - Users can't see all the text and the ListView doesn't use a Tooltip![ListView control with Tooltip.](../assets/ListViewWithToolTip.gif)](../assets/ListViewWithoutToolTip.gif)
+ ![ Bad Example - Users can't see all the text and the ListView doesn't use a Tooltip![ListView control with Tooltip.](../../assets/ListViewWithToolTip.gif)](../../assets/ListViewWithoutToolTip.gif)
 The code to do this is:
 
 private ListViewItem hoveredItem;

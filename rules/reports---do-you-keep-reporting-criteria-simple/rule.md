@@ -13,5 +13,5 @@ authors: []
     - Crystal and Access these are built into the report and it is very complex to <br>                                have a generic solution.
     - Also it is disorientating for the user to have this as a selection
 
- ![Reporting Criteria](../assets/GraphInterface.gif)
+ ![Reporting Criteria](../../assets/GraphInterface.gif)
 More     [Options for Reporting](http://www.ssw.com.au/ssw/Standards/DeveloperDotNet/GuidelinesForReporting.aspx)

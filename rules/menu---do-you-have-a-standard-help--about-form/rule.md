@@ -16,4 +16,4 @@ Tip: This should be consistent with your standard description on the product box
 4. Contact details (especially a phone number)
 5. Branding (logo)
 
- ![ Bad Example - This "About" dialog does not provide enough information about the product and/or company![SSW Code Auditor - Help About](../assets/SSWHelpAbout.gif)](../assets/BadHelpAboutForm.jpg)
+ ![ Bad Example - This "About" dialog does not provide enough information about the product and/or company![SSW Code Auditor - Help About](../../assets/SSWHelpAbout.gif)](../../assets/BadHelpAboutForm.jpg)

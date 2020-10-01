@@ -8,7 +8,7 @@ authors: []
 ---
 
 The standard tooltip is a rectangle, so the tool tip for the control can be misleading. While, the balloon tooltip has an arrow pointing to the destination control, which is clearer for users.
- ![ Standard tooltip.![Balloon tooltip](../assets/GoodTooltip.gif)](../assets/BadTooltip.gif)
+ ![ Standard tooltip.![Balloon tooltip](../../assets/GoodTooltip.gif)](../../assets/BadTooltip.gif)
 To implement you can:
 
 1. Set the standard Tooltip's property IsBalloon true or

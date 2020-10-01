@@ -18,5 +18,5 @@ Instead, keep users happy with your application by:
 - Showing status description information above the progress bar
 - Allowing the user to stop the process at any time by clicking "Cancel" (or as a minimum, prompt for confirmation before the long running process starts)
 
-![ Good Example - Progress Bar with description and Cancel Button![Progress form with description and status& Cancel Button](../assets/AllowCancelAndShowProgressForLongRunningProcesses2.jpg)](../assets/AllowCancelAndShowProgressForLongRunningProcesses.gif)
+![ Good Example - Progress Bar with description and Cancel Button![Progress form with description and status& Cancel Button](../../assets/AllowCancelAndShowProgressForLongRunningProcesses2.jpg)](../../assets/AllowCancelAndShowProgressForLongRunningProcesses.gif)
 We have a product called [SSW .NET Toolkit](http://www.ssw.com.au/ssw/NETToolKit/) which includes these controls. [SSW .NET Toolkit - Using Progress bars/Status forms.](http://www.ssw.com.au/ssw/NETToolKit/08ProgressbarsStatusforms.aspx)

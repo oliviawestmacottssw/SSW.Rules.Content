@@ -14,4 +14,4 @@ It's a good idea to make sure your page names are consistent       between:
 3. Navigation
 
  [[badExample]]
-| ![ Inconsistency everywhere!![](../assets/GoodPageName.jpg)](../assets/BadPageName.jpg)
+| ![ Inconsistency everywhere!![](../../assets/GoodPageName.jpg)](../../assets/BadPageName.jpg)

@@ -14,8 +14,8 @@ authors:
 What do you do when you want images to link to your site? In the case of images, Google will look for the "alt" text and factor this into the search results. So when you ask someone else to link to your site with an image you should always add attributes like "alt" and "title" into the code. Here's an example.
  
 Hold the cursor over the image below and see what happens.
-![](../assets/SSWLogo.png)
+![](../../assets/SSWLogo.png)
 [!\[\](logo.png)](/ssw/Default.aspx)
-Figure: Bad example - No attributes to the image![SSW Logo](../assets/SSWLogo.png "SSW Logo")
+Figure: Bad example - No attributes to the image![SSW Logo](../../assets/SSWLogo.png "SSW Logo")
 [!\[\](logo.png)alt="SSW Logo" title="SSW Logo" />](/ssw/Default.aspx)
 Figure: Good example - Search engines will index this text. Scroll over

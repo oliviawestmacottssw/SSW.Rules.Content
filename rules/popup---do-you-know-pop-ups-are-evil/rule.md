@@ -8,4 +8,4 @@ authors: []
 ---
 
 Popups are intrusive and ugly.
- ![ All popups are evil but this may be the most annoying one in history. How ironic that the popup is informing you that IE has blocked a popup. ![Pop-up on iPhone](../assets/iphone-popup.jpg) ](../assets/popup-evil.jpg)
+ ![ All popups are evil but this may be the most annoying one in history. How ironic that the popup is informing you that IE has blocked a popup. ![Pop-up on iPhone](../../assets/iphone-popup.jpg) ](../../assets/popup-evil.jpg)

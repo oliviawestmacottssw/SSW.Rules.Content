@@ -10,13 +10,13 @@ authors: []
 #### Description
 
 The description should explain *what the error was*, followed by the *why it occurred*. Information that is useful for debugging should be included with errors where possible in a "Details" section. You should also avoid making the text unnecessarily wide. e.g.
- ![ Bad Example - A message box that does not intuitively alert the user](../assets/BadMessageBox.gif)
+ ![ Bad Example - A message box that does not intuitively alert the user](../../assets/BadMessageBox.gif)
 - This is confusing, because it uses different terminology to the title ("estimate" instead of "quote")
 - There is no punctuation
 - The word "Error" is meaningless
 - Line breaks are not present, so the message box is too wide and the text may wrap in the wrong spot
 
-![ Good Example - A message box that is clear, consistent and intuitive](../assets/GoodMessageBox.gif)
+![ Good Example - A message box that is clear, consistent and intuitive](../../assets/GoodMessageBox.gif)
 - Terminology is consistent
 - Punctuation is present
 - "Details" indicates that this information is useful for debugging

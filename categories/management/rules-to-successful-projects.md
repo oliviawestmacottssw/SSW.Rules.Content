@@ -78,10 +78,10 @@ index:
 - do-you-use-the-brains-of-your-company
 
 ---
-[!\[What others have to say about us\](../assets/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx) 
+[!\[What others have to say about us\](../../assets/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx) 
 
 
-| ![See what people think about this product](../assets/Testimonials_LeftQuote.gif) | I've been putting together Development Guidelines for my employer and in the process have reviewed many published standards (in the .NET arena) from around the world. In each category, the suggestions at SSW are always among the best. | ![See what people think about this product](../assets/Testimonials_RightQuote.gif) |
+| ![See what people think about this product](../../assets/Testimonials_LeftQuote.gif) | I've been putting together Development Guidelines for my employer and in the process have reviewed many published standards (in the .NET arena) from around the world. In each category, the suggestions at SSW are always among the best. | ![See what people think about this product](../../assets/Testimonials_RightQuote.gif) |
 | --- | --- | --- |
 
 
