@@ -7,5 +7,5 @@ index:
 - do-you-use-legacy-check-tool-before-migrating
 
 ---
-
+ 
 

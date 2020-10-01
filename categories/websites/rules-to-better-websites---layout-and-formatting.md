@@ -56,5 +56,5 @@ index:
 - do-you-use-adaptive-placeholders-on-your-forms
 
 ---
-
+ 
 

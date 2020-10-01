@@ -12,5 +12,5 @@ index:
 - do-you-use-read-more-wordpress-tag-to-show-summary-only-on-a-blog-list
 
 ---
-
+ 
 

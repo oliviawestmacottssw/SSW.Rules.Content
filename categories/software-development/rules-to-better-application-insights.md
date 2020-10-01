@@ -16,5 +16,5 @@ index:
 - do-you-use-codelens-to-view-your-application-insights-data
 
 ---
-
+ 
 

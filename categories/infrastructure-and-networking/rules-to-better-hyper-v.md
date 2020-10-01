@@ -26,5 +26,5 @@ index:
 - do-you-use-virtual-machine-templates-with-virtual-machine-manager-vmm
 
 ---
-
+ 
 

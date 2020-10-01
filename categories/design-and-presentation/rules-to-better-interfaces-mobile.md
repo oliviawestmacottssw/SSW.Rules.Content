@@ -11,5 +11,5 @@ index:
 - do-you-use-chrome-devtools-device-mode-to-design-and-test-your-mobile-views
 
 ---
-
+ 
 
