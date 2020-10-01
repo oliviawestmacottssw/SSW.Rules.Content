@@ -45,4 +45,4 @@ Microsoft Teams will also send out an email invitation email for the meeting - t
 
 ### Related rule
 
-[- \[Do you make your team meetings easy to find?\](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8b74eb19-4dad-492b-a3b1-d1ad07371551)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8b74eb19-4dad-492b-a3b1-d1ad07371551)
+[- \[Do you make your team meetings easy to find?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8b74eb19-4dad-492b-a3b1-d1ad07371551)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8b74eb19-4dad-492b-a3b1-d1ad07371551)
