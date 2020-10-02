@@ -68,10 +68,10 @@ Here is the summary of the outage plan:
 
 **
 **Note:** The following servers will be affected
-![rule-outage-1.jpg](rule-outage-1.jpg)
+![](rule-outage-1.jpg)
 http://wug.ssw.com.au/
 
-![rule-outage-2.jpg](rule-outage-2.jpg)
+![](rule-outage-2.jpg)
 
 **To myself,****
 **To show others who are interested in what needs to be done to fix the problem:

@@ -21,23 +21,23 @@ We all know it’s important to keep our servers updated. Unfortunately though, 
 It is also one more reason developers don’t like to join a company domain on their personal laptops!
 
 
-![Windows-Update-notification.png](Windows-Update-notification.png)Bad Example - Windows 10 shows a ‘Restart now’ – do not accidentally press it! Your production server and your users won't be happy!![Accidently press Restart Now on a Production server and your users won't be happy!](updates-restart.jpg) Bad example – Remember this nasty one from Vista days?
+![](Windows-Update-notification.png)Bad Example - Windows 10 shows a ‘Restart now’ – do not accidentally press it! Your production server and your users won't be happy!![Accidently press Restart Now on a Production server and your users won't be happy!](updates-restart.jpg) Bad example – Remember this nasty one from Vista days?
 **Note:** Server patching is also achievable via SCCM and you get more control over restarting windows like this. WSUS can also be used in conjunction with group policies to handle restart times better.
 
 The best ensure you are still downloading updates but not installing them automatically is to use Group Policy.
 
 1. Create an Organization Unit (OU) in Active Directory, and put all your Production Servers in the OU
-![Add all your Production Servers to the Production Server OU](updates-adou.jpg)Add all your Production Servers to the Production Server OU
+![](updates-adou.jpg)Add all your Production Servers to the Production Server OU
 2. Create a new Group Policy object and link it to the Production Server OU
-![Create a new Group Policy for your Production Servers](updates-gpo.jpg)Create a new Group Policy for your Production Servers
+![](updates-gpo.jpg)Create a new Group Policy for your Production Servers
 3. Edit the new Group Policy object and drill down to <br>      **Computer Configuration** | <br>      **Policies **| <br>      **Windows Components** | <br>      **Windows Update**
 4. Edit the <br>      **Configure Automatic Update Properties** item and <br>      **enable **it
 5. Set the <br>      **Configure Automatic Updating** option to <br>      **3 – Auto download and notify for install
-![Edit Configure Automatic Updates Properties and enable Auto download and notify for install](updates-editgp.jpg)Edit Configure Automatic Updates Properties and enable 'Auto download and notify for install **
+![](updates-editgp.jpg)Edit Configure Automatic Updates Properties and enable 'Auto download and notify for install **
 
 
 After the new Group Policy propagates, you will notice the update setting is now locked on the servers in the Production Server OU.
-![The Group Policy locks the Windows Update setting](updates-updatesforced.jpg)The Group Policy locks the Windows Update setting
+![](updates-updatesforced.jpg)The Group Policy locks the Windows Update setting
 
 
 From now on your servers will be updated without unplanned reboots!

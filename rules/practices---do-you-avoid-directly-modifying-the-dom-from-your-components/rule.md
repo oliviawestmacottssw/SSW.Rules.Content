@@ -19,4 +19,4 @@ Using DOM is fine, but manipulating DOM directly in your component is not. With 
 
 
 This means that the component's state must expose things that are useful to the template as public properties or fields, and the Angular should read these fields to draw itself.
-![dom1.png](dom1.png) This component manipulates the DOM directly to show and hide the menu![dom2.png](dom2.png)This component sets component state, which the template can use.  It is simpler, more descriptive and easier to test
+![](dom1.png) This component manipulates the DOM directly to show and hide the menu![dom2.png](dom2.png)This component sets component state, which the template can use.  It is simpler, more descriptive and easier to test

@@ -11,7 +11,7 @@ authors:
 
 As an Account Manager, you'll frequently be required to find a free resource to put onto a project.
 
-![yelling-whos-free.jpg](yelling-whos-free.jpg)
+![](yelling-whos-free.jpg)
  Figure: Bad Example - Constantly yelling out "who's free?" 
 
 Instead of going around and asking everyone “Who’s free next week?”, you should use the CRM Service Calendar.

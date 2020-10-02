@@ -23,4 +23,4 @@ Many software houses use this for their products Eg. SSW Code Auditor, SSW Link 
 
 
 Here are the google results as at 2014
-![ Google result of UserVoice![getsatisfaction.jpg](getsatisfaction.jpg) ](uservoice.jp.jpg)
+![ Google result of UserVoice![getsatisfaction.jpg ](uservoice.jp.jpg)

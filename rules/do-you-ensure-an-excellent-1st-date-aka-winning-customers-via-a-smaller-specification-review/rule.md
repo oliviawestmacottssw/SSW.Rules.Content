@@ -24,4 +24,4 @@ It is a simple 4 step process:
 3. [Specification Review](/rules) - You will create a backlog of tasks, and some form of document (word or ppt) to present to the client explaining your proposed approach.<br>![](ms-ppt-word-logos.jpg)
 4. Present the Spec Review results to the client (in a meeting with all stakeholders) on site if possible, or over the phone if not, but never just by email.
 
-![ Good Example - The backlog is constructed during the Spec Review![CRM Opportunity](CRMOpportunitySalesStage.jpg) ](ProductBacklog.jpg)
+![ Good Example - The backlog is constructed during the Spec Review![CRM Opportunity of the Opportunity after the Spec Review has been booked](ProductBacklog.jpg)

@@ -23,7 +23,7 @@ To fix this issue
 
 
 
-> ![siteTemplateStructure.jpg](siteTemplateStructure.jpg) 
+> ![](siteTemplateStructure.jpg) 
 > 
 > 3.Package the site template’s **definition **XML file to map location “**{SharePointRoot}\TEMPLATE\1033\XML**”.
 
@@ -32,7 +32,7 @@ To fix this issue
 
 
 
-> ![siteTemplateDefinitionFile.jpg](siteTemplateDefinitionFile.jpg)
+> ![](siteTemplateDefinitionFile.jpg)
 > 4.Deploy the package.
 
 

@@ -15,10 +15,10 @@ authors:
 By default, only your files will be copied back to LIVE. You can move content by checking the tables you would like to move below. Keep in mind these tables will replace the LIVE version with the STAGING version. So for instance, if you choose to move wp\_posts all posts added to the LIVE site since the staging site was created will be removed. However, a **checkpoint of your site will be created so you can 'undo' the changes if necessary**.
 
 After logging into your live site's /wp-admin click the WP Engine button on the top left-hand side. Then, click the "Staging" tab.
- ![staging-tab.jpg](staging-tab.jpg) 
+ ![](staging-tab.jpg) 
  Figure: Staging tab in WordPress
 Then, choose from the following options:
-![wp-tables.png](wp-tables.png)  
+![](wp-tables.png)  
 When pushing changes from staging to live the file system from staging does not overwrite the live file system but instead, merges with the live file system.
 
 This means any updated files in staging will be updated on live after a push, but any deleted files in staging would not be deleted in live.

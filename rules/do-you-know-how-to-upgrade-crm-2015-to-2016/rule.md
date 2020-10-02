@@ -40,5 +40,5 @@ If using Email Router, do the following 2 steps to upgrade Email Router to 2016
 ![ Uninstall Email Router 2015](uninstall_emailRouter.png) 
 **
 8. Download [CRM 2016 Email Router](https://www.microsoft.com/en-us/download/details.aspx?id=50373) and install
-![ Install required components for Email Router 2016![emailRouter_installtionFinish.png](emailRouter_installtionFinish.png) ](install_emailRouter.png) 
+![ Install required components for Email Router 2016![emailRouter_installtionFinish.png ](install_emailRouter.png) 
 You're now ready to roll with Microsoft Dynamics CRM 2016. If you had any trouble with this guide, please let us know with a rating of this rule.

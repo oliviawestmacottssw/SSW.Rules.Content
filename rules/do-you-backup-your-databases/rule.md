@@ -13,7 +13,7 @@ It's important that you backup TFS by using one of the supported methods, to ens
  
 **Tip: **The Team Foundation Server Team Foundation Server 2012 Update 2 and above has a built in Scheduled Backup tool which helps you to easily backup all TFS Databases. For versions prior to TFS 2012 Update 2 you have to use Backups tool from the [TFS Power Tools](http://visualstudiogallery.msdn.microsoft.com/b1ef7eb2-e084-4cb8-9bc7-06c3bad9148f)   package.
 
-**![tfs scheduled.jpg](tfs scheduled.jpg)
+**![](tfs scheduled.jpg)
 **
 
 **Figure: TFS Scheduled Backups Tool**
@@ -39,7 +39,7 @@ Manual backup requires additional user steps which involve creation of additiona
 
 **![ Add tbl\_TfsTransactionLogMark table to every Tfs\_\* Database](add tbl.jpg)
 
-**![add spset.jpg](add spset.jpg)
+**![](add spset.jpg)
 **
 
 **Figure: Add sp\_SetTransactionLogMark stored procedure to every Tfs\_\* Database**

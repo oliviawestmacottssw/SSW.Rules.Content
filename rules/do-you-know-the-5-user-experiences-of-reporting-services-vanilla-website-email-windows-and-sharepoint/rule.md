@@ -23,7 +23,7 @@ The five user experiences of Reporting Services are:
  
 ![ Vanilla user experience](ReportingServicesVanillaExample.jpg)
 
-![ Website user experience![ReportingServicesEmailUExample.jpg](ReportingServicesEmailUExample.jpg)](ReportingServicesWebsiteUExample.jpg)
+![ Website user experience![](ReportingServicesEmailUExample.jpg)](ReportingServicesWebsiteUExample.jpg)
 
 Figure: Email user experience
 

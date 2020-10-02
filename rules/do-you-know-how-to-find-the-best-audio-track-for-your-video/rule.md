@@ -11,7 +11,7 @@ authors:
 
 ---
 
-You should never use any copyrighted work without permission. When it comes to videos, if you have licensed music or songs on your YouTube video, it might be entirely removed from the site. To avoid this, use **royalty free** music.  ![audio-video-bad.jpg](audio-video-bad.jpg) Bad example: Ripping someone's song - your video will get taken down by YouTube
+You should never use any copyrighted work without permission. When it comes to videos, if you have licensed music or songs on your YouTube video, it might be entirely removed from the site. To avoid this, use **royalty free** music.  ![](audio-video-bad.jpg) Bad example: Ripping someone's song - your video will get taken down by YouTube
 
 ### Royalty Free Music 
 
@@ -21,7 +21,7 @@ There are many options available for purchasing high-quality royalty free music.
 The two we use at SSW are [audiojungle.net](https://audiojungle.net/) and [Art List Music](https://artlist.io/).
 
 Audio Jungle is great for finding sound effects and [Foley](https://en.wikipedia.org/wiki/Foley_%28filmmaking%29) sounds. You can also find many great full-length songs that suit corporate video. However, the music style is typically geared towards online ads and marketing videos  and doesn't quite have that 'professional' sound you get from bands and mainstream artists.
- ![audio-video-good-audiojungle.jpg](audio-video-good-audiojungle.jpg)  Good example: E.g. AudioJungle.net - you can pay $1 for a laugh track 
+ ![](audio-video-good-audiojungle.jpg)  Good example: E.g. AudioJungle.net - you can pay $1 for a laugh track 
 
 If you want audio that sounds more like professional music created by bands and artists but still designed for corporate, then use Art List Music.
- ![audio-video-good-art-list.jpg](audio-video-good-art-list.jpg) Good example: E.g. Art List Music - For $200 per a year, you get unlimited access to really awesome quality music. Have a listen on the website
+ ![](audio-video-good-art-list.jpg) Good example: E.g. Art List Music - For $200 per a year, you get unlimited access to really awesome quality music. Have a listen on the website

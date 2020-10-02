@@ -44,7 +44,7 @@ A majority of these notifications can be created using the connectors that are b
 - Complete the other configuration options for the Connector and click "Save."
 
 
-![Connector-Settings.png](Connector-Settings.png)**
+![](Connector-Settings.png)**
 **
 
 

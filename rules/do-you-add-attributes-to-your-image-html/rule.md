@@ -16,6 +16,6 @@ What do you do when you want images to link to your site? In the case of images,
 Hold the cursor over the image below and see what happens.
 ![](../../assets/SSWLogo.png)
 [[[badExample]]
-| ![ No attributes to the image![SSW Logo](../../assets/SSWLogo.png "SSW Logo")](logo.png)](/ssw/Default.aspx)
+| ![ No attributes to the image![](../../assets/SSWLogo.png "SSW Logo")](logo.png)](/ssw/Default.aspx)
 [[[goodExample]]
 | ![Search engines will index this text. Scroll over](logo.png)alt="SSW Logo" title="SSW Logo" />](/ssw/Default.aspx)

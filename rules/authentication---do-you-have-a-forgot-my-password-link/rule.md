@@ -13,7 +13,7 @@ authors:
 
 It's easy and common for users to forget their passwords, the vital key which grants                     them access to the services they are eligible for. To cater for this instance, it                     is important to have a 'Forgot my password' link on the sign in page.
  [[badExample]]
-| ![ what will happen for the poor user that forgot his password?![good.png](good.png) ](bad.png)
+| ![ what will happen for the poor user that forgot his password?![good.png ](bad.png)
 ### Do you avoid a username enumeration attack?
 
 

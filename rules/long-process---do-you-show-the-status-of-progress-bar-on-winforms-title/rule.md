@@ -15,4 +15,4 @@ The importance of having the status of progress bar on winform's title:
  
 The form title should take the form of "[XX]% Completed - [Task Description] - [Product Name]".
 There is another relevant rule about the [winform title](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Windows-Applications.aspx#TitleBarCaption).
-![ Bad Example - The winform's title does not contain the progress status![Winform's title with progress status](../../assets/GoodProgressForm.gif)](../../assets/BadProgressForm.gif)
+![ Bad Example - The winform's title does not contain the progress status![Winform's title with progress status](../../assets/BadProgressForm.gif)

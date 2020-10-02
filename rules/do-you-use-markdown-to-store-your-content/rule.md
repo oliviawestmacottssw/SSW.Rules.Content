@@ -34,7 +34,7 @@ The original spec for Markdown can be found at https://daringfireball.net/projec
 The [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great page to reference when learning Markdown.
 
 If you use markdown-it, there are many plugins that allow you to extend markdown. [SugarLearning](https://sugarlearning.com/) provides a more extensive [cheatsheet](https://my.sugarlearning.com/SSW/items/13308/markdown-cheatsheet) which includes a number of custom templates and markdown-it plugins.
-![markdown.jpg](markdown.jpg)
+![](markdown.jpg)
 
 
 
@@ -99,7 +99,7 @@ A better way is to use a plugin (if your Markdown engine supports it).
 ![ Good Example – VuePress has a custom container that generates nice alert boxes like Bootstrap but without tying the presentation to the CSS framework in the content](vuepress-custom-container.png)
 Unfortunately, Markdown does not support YouTube videos embedding out of the box. However, there is a workaround to embed it.
 
-[![What is SSW TV](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ![ Good Example - Workaround to embed YouTube video using YouTube's generated thumbnail ](YouTube Embed Workaround.png)
 

@@ -47,7 +47,7 @@ Subject: RE: Manad - Coded UI Tests #2
 > Create a new CodedUI test on your feedback form – search only to test the Telerik
 
 Done
-![Coded UI Test passes in Visual Studio](level-3-done.jpg) Figure – Coded UI Test passes in Visual Studio
+![](level-3-done.jpg) Figure – Coded UI Test passes in Visual Studio
 Jing Video of the test running: http://screencast.com/t/ps17fqsV
 
 Figure: Good example - The "done" shows a full scenario
@@ -90,7 +90,7 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 - Tip: Use Microsoft | [Test Manager](https://marketplace.visualstudio.com/items?itemName=ms.vss-testmanager-web)
 - Sending a Done email (with video recording using SnagIt)
 
- ![ Organize tests in suites with built-in E2E traceability across requirements, test artifacts and defects ![MTR-2.png](MTR-2.png) ](TestPlanning-1.png) 
+ ![ Organize tests in suites with built-in E2E traceability across requirements, test artifacts and defects ![MTR-2.png ](TestPlanning-1.png) 
 
  
 Figure: Good example - Done video showing the features worked on

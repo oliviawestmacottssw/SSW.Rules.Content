@@ -17,6 +17,6 @@ For a function like this, it might be simple to spot errors when there are one o
 
 **Sample Test:**
 
-**![unit test - arithmetic tests.jpg](unit test - arithmetic tests.jpg)
+**![](unit test - arithmetic tests.jpg)
 **
 Figure: Test calculates total by checking something we know the result of. (Note: it doesn't need a failure case because it isn't a Regex.)

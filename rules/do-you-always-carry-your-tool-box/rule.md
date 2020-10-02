@@ -17,7 +17,7 @@ Carrying your laptop with the right stuff installed is not enough.
 
 
 
-| ![Carry the right tools and you'll rescue someone, one day...](StBernardDog.jpg)  |
+| ![](StBernardDog.jpg)  |
 | --- |
 | Figure: St. Bernards are known for rescuing lost mountaineers, bringing life saving provisions |
 

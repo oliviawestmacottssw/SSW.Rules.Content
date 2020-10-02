@@ -13,5 +13,5 @@ Documenting your WebAPI is important but you don't want to spend a massive amoun
  
 Implementing Swashbuckle with give you an automatic UI to explore and test your WebAPI methods.
 
-![swagger.png](swagger.png)
+![](swagger.png)
 Swagger gives you a nice UI automatically generated on top of your WebAPI methods

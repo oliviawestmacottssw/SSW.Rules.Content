@@ -30,11 +30,11 @@ if (!('IntersectionObserver' in window)) {
 2.	If the browser supports IntersectionObserver, in your page html, change the “src” of “![]()” to “data-src”
 From
 
-![flight.jpg]()src="https://rules.ssw.com.au/PublishingImages/flight.jpg">
+![]()src="https://rules.ssw.com.au/PublishingImages/flight.jpg">
 
 to
 
-![flight.jpg]()data-src="https://rules.ssw.com.au/PublishingImages/flight.jpg">
+![]()data-src="https://rules.ssw.com.au/PublishingImages/flight.jpg">
 
 3.	Use the below Javascript to change “data-src” back to “src” for the ![]() html objects, which become visible, so that those images will be loaded
 

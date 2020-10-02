@@ -30,7 +30,7 @@ Figure: Bad example - Broad email asking what’s been happening
 
 
 Teams can keep you abreast of all the events happening on your project.
- ![Teams Notifications.png](Teams Notifications.png)
+ ![](Teams Notifications.png)
 
 Good example: See that a record of team conversations, builds, and deployments 
 

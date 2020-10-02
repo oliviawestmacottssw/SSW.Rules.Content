@@ -30,9 +30,9 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 
 | Pros | Cons |
 | --- | --- |
-| ![clip_image002\[8\]](correct.gif "clip_image002[8]")Read/Write<br><br>![clip_image002\[9\]](correct.gif "clip_image002[9]")Minimal coding<br><br>![clip_image002\[10\]](correct.gif "clip_image002[10]")Easiest to implement<br><br>![clip_image002\[11\]](correct.gif "clip_image002[11]")The likely way forward (Best Practice as Microsoft) | ![clip_image004\[13\]](wrong.gif "clip_image004[13]")Needs to be deployed and published to the web server.<br><br>![clip_image004\[14\]](wrong.gif "clip_image004[14]")Less performance than SQL filter views directly<br><br>![clip_image004\[15\]](wrong.gif "clip_image004[15]")Only recently released. |
+| ![](correct.gif "clip_image002[8]")Read/Write<br><br>![clip_image002\[9\]Only recently released. |
 
- ![clip_image010](figure5.jpg "clip_image010") 
+ ![](figure5.jpg "clip_image010") 
 
 **More information:**    
     Download from Microsoft
@@ -48,7 +48,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 
 | Pros | Cons |
 | --- | --- |
-| ![clip_image002\[2\]](correct.gif "clip_image002[2]")Best performance<br><br>![clip_image002\[2\]](correct.gif "clip_image002[2]")Codeless | ![clip_image004](wrong.gif "clip_image004")Read-only<br><br>![clip_image004\[1\]](wrong.gif "clip_image004[1]")Not available for hosted CRM<br><br>![clip_image004\[2\]](wrong.gif "clip_image004[2]") Security issues as you are exposing the view. |
+| ![](correct.gif "clip_image002[2]")Best performance<br><br>![clip_image002\[2\] Security issues as you are exposing the view. |
 
     Filtered Views in Microsoft CRM provide access to the data available that supports providing picklist name and id values (lookup tables).
     **More information:**
@@ -62,7 +62,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 
 | Pros | Cons |
 | --- | --- |
-| ![clip_image002\[3\]](correct.gif "clip_image002[3]")Read/Write | ![clip_image004\[3\]](wrong.gif "clip_image004[3]")Needs lots of code and test work.<br><br>![clip_image004\[4\]](wrong.gif "clip_image004[4]")Needs to be deployed and published to the web server.<br><br>![clip_image004\[5\]](wrong.gif "clip_image004[5]")Less performance than SQL filter views directly #1 |
+| ![](correct.gif "clip_image002[3]")Read/Write | ![clip_image004\[3\]Less performance than SQL filter views directly #1 |
 
     #1 Note: Performance could be improved by making the reads from the views and the writes through the web service
     **More information: **
@@ -77,7 +77,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 
 | Pros | Cons |
 | --- | --- |
-| ![clip_image002\[4\]](correct.gif "clip_image002[4]")Easy configuration | ![clip_image004\[6\]](wrong.gif "clip_image004[6]")50 records limit. Need to page through the results.<br><br>![clip_image004\[7\]](wrong.gif "clip_image004[7]")Possible issues with firewalls and proxies because it uses Integrated Security for authentication.<br><br>![clip_image004\[8\]](wrong.gif "clip_image004[8]")Read-Only<br><br>![clip_image004\[9\]](wrong.gif "clip_image004[9]")No easy way to consume |
+| ![](correct.gif "clip_image002[4]")Easy configuration | ![clip_image004\[6\]No easy way to consume |
 
     **
 ** **Note:** You can really only call the OData endpoint from an application that already has an authentication cookie with the CRM server. 
@@ -109,7 +109,7 @@ Summary: SharePoint RSS view web part -> OData- > CRM database
 
 | Pros | Cons |
 | --- | --- |
-| ![clip_image002\[5\]](correct.gif "clip_image002[5]")Read/Write<br><br>![clip_image002\[6\]](correct.gif "clip_image002[6]")The BizTalk data centre can also provide data for any system.<br><br>![clip_image002\[7\]](correct.gif "clip_image002[7]")Requires little code if users already have BizTalk | ![clip_image004\[10\]](wrong.gif "clip_image004[10]")BizTalk :-)<br><br>![clip_image004\[11\]](wrong.gif "clip_image004[11]")Deployment - Needs external work to deploy BizTalk server.<br><br>![clip_image004\[12\]](wrong.gif "clip_image004[12]") Licence Cost |
+| ![](correct.gif "clip_image002[5]")Read/Write<br><br>![clip_image002\[6\] Licence Cost |
 
 
 ### Option 6: OData 3rd Party solutions (doesn't exist)

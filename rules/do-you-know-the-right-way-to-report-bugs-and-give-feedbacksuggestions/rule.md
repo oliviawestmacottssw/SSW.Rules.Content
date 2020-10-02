@@ -14,7 +14,7 @@ authors:
 When reporting bugs and giving product feedback, it is essential that you are as descriptive as possible, so that the developer can reproduce the error to find out what the problem is or understand what features you are requesting.
 
 Try to have one email per bug/suggestion, but if the bugs/suggestions are related or very small (e.g. they are all on the same page) then you should group them together in a single email.
-  ![ Bad Example - This email isn't going to help the developer much - it is vague and has no screen capture, and gives no alternate way for the developer to contact the user regarding the issue ![do-you-know-the-right-way-to-report-bugs-good-example.png](do-you-know-the-right-way-to-report-bugs-good-example.png) ](do-you-know-the-right-way-to-report-bugs-bad-example.png) 
+  ![ Bad Example - This email isn't going to help the developer much - it is vague and has no screen capture, and gives no alternate way for the developer to contact the user regarding the issue ![](do-you-know-the-right-way-to-report-bugs-good-example.png) ](do-you-know-the-right-way-to-report-bugs-bad-example.png) 
 Figure: Good Example - This email includes the product name and version, the category of the issue (BUG), a screen capture and contact number, and shows that the user's system is up to date
 
 

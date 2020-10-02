@@ -21,7 +21,7 @@ Timeboxing allows you to give more context to a task by showing how much time (a
 
 
 
-![time-box-scrum-small.jpg](time-box-scrum-small.jpg)
+![](time-box-scrum-small.jpg)
 **Timeboxed (1hr)**
  Do not spend more than the time allocated on this task.
 

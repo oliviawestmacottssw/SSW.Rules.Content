@@ -27,7 +27,7 @@ One aspect of this is the dress code. Dress code is important for two reasons:
 Of course, when in a public event such as a User Group, conference or seeing clients you should "Dress Up".
 
 It should go without saying, but of course, things such as shaving off your weekend facial growth, using deodorant and having clean teeth and nice breath is assumed.
-![sean-connery_dressed-up.jpg](sean-connery_dressed-up.jpg)
+![](sean-connery_dressed-up.jpg)
 "There is nothing wrong with being the best-dressed man in the room."
 - **Sean Connery**
 ### On a business flight

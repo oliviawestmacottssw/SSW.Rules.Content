@@ -11,4 +11,4 @@ authors:
 
 ![ Everyone shows the version number somewhere on their app <br>...but databases also need a version number.](LinkAuditor.png) 
 
-<br>Let's see how to show the Database version:  <br> ![ The applications database should have a table storing the version info (the table is called \_zsDataVersion). See an example of this in [SSW Link Auditor](http://www.ssw.com.au/SSW/LinkAuditor/) ![](LinkAuditorVersion.png) ](zsVersionTable.png)
+<br>Let's see how to show the Database version:  <br> ![ The applications database should have a table storing the version info (the table is called \_zsDataVersion). See an example of this in [SSW Link Auditor ](zsVersionTable.png)

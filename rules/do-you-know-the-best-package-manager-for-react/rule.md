@@ -12,4 +12,4 @@ authors:
 ---
 
 When working with JavaScript packages there are 2 common choices:
-  ![ npm is the backbone of JavaScript development but after the [left-pad](https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/) disaster of 2016 lots of developers wanted more power![yarn-logo.jpg](yarn-logo.jpg)](npm-logo.jpg)
+  ![ npm is the backbone of JavaScript development but after the [left-pad](npm-logo.jpg)

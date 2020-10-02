@@ -29,4 +29,4 @@ Basic rules to follow include:
 4. The best way to position your subjects is at 90° to each other and at 45° to the camera:
 
 [[badExample]]
-| ![ Interviewee (left) is facing toward the interviewer (right) too much and the interviewer is faced towards the camera too much. ![interview positions.jpg](interview positions.jpg) ](bad-interview-positions.jpg)
+| ![ Interviewee (left) is facing toward the interviewer (right) too much and the interviewer is faced towards the camera too much. ![interview positions.jpg ](bad-interview-positions.jpg)

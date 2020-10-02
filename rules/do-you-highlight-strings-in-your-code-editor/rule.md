@@ -11,4 +11,4 @@ authors:
 
 ---
 
-It is a good practice to highlight string variables or const in source code editor of Visual Studio to make them clear. Strings can be easily found especially you have long source code. <br> ![Default string appearance](HighlightString_bad_small.gif) Default string appearance ![Highlighted string appearance](HighlightString_good_small.jpg) Highlighted string appearance ![Tools | Options form of Visual Studio](HighlightString_VSOption_small.gif) Tools | Options form of Visual Studio
+It is a good practice to highlight string variables or const in source code editor of Visual Studio to make them clear. Strings can be easily found especially you have long source code. <br> ![](HighlightString_bad_small.gif) Default string appearance ![Highlighted string appearance Tools | Options form of Visual Studio

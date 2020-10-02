@@ -12,4 +12,4 @@ authors:
 ---
 
 Icons make your user interface clean, but users sometimes need further information about the operation they are about to perform.
- ![ Good Example - Tooltips![](kendo-adding-tooltips.jpg)](kendo-tooltips.jpg)
+ ![ Good Example - Tooltips![ method/dd> ](kendo-tooltips.jpg)

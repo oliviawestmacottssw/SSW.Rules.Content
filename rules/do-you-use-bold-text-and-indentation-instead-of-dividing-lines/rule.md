@@ -23,4 +23,4 @@ We recommend using bold instead of dividing lines because:
     - The dividing lines create additional visual clutter (ever so slight)
     - Each line creates additional performance implications (ever so slight)
 
-![ Bad Example - This is the Tools - Options from Internet Explorer and it groups each section in a groupbox - busy UI. ![Options form of Outlook](../../assets/ToolsOptionforOutlook.gif) ](../../assets/ToolsOptionforIE.gif)
+![ Bad Example - This is the Tools - Options from Internet Explorer and it groups each section in a groupbox - busy UI. ![Options form of Outlook ](../../assets/ToolsOptionforIE.gif)

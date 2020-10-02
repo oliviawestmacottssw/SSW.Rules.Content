@@ -77,7 +77,7 @@ body.stage
             }
 ```
 
- Figure: In C:\Inetpub\wwwroot\\_common\styles\global.css.aspx comment out and change the reference in yellow so the users know what server they are on![ Color of CRM Development Server - Red![Color of CRM Test Server](CRM_TestColor.jpg)](CRM_DevelopmentColor.jpg)
+ Figure: In C:\Inetpub\wwwroot\\_common\styles\global.css.aspx comment out and change the reference in yellow so the users know what server they are on![ Color of CRM Development Server - Red![Color of CRM Test Server ](CRM_DevelopmentColor.jpg)
 
 ### SharePoint online
 

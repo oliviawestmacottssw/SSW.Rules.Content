@@ -38,5 +38,5 @@ ALTER TABLE [TableName] ADD CONSTRAINT CK\_String\_Identifier
 
 ![ Bad Example - No '-All-' option so the user cannot select all data![ComboBox without All](../../assets/Combo-ALL-2.jpg)](../../assets/Combo-ALL-1.jpg)
 Also, keep it simple!
-![ Bad Example - '-All Stores-' isn't needed![All](../../assets/SelectAllGood.jpg)](../../assets/SelectAllBad.jpg)
+![ Bad Example - '-All Stores-' isn't needed![All when you have multiple fields.](../../assets/SelectAllBad.jpg)
 Read our rule on [Always make sure the dimensions All Captions = All](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterBusinessIntelligence.aspx#AllDimensionsTag).

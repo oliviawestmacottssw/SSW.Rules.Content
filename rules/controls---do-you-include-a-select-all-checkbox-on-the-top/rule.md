@@ -10,7 +10,7 @@ authors:
 ---
 
 Do you have checkbox (on the top) that let users select or unselect all checkboxes underneath it? If you have a list of checkboxes, you are going to frustrate users unless you provide an easy way to select all. The best way to achieve this is to have a checkbox at the top.
-  ![ Good Example - Hotmail does this ![Gmail](../../assets/GmailSelectAll.gif) ](../../assets/HotmailSelectAll.gif) 
+  ![ Good Example - Hotmail does this ![Gmail ](../../assets/HotmailSelectAll.gif) 
 Private Sub CheckBoxSelectAll\_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) \_
 Handles CheckBoxSelectAll.CheckedChanged
 'Select checkbox in each row

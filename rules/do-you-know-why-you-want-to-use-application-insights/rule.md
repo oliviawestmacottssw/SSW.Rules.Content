@@ -24,7 +24,7 @@ Application Insights will tell you if your application goes down or runs slowly 
     2. Performance
     3. Usage
 
- ![
+ ![ Spikes on an Echidna are dangerous  ![Spikes on a graph are dangerous](../../assets/sockeye-daily-count.jpg)  ](../../assets/r437355_2104314.jpg)  
 To add Application Insights to your application, make sure you follow the rule [Do you know how to set up Application Insights?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=68f64a3a-78ec-49f6-87ed-7ee92af1c809)
 
 Can't use Application Insights? Check out the following rule [Do you use the best exception handling library](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8c5a1235-d169-4164-92a1-08812c26fc22) ?

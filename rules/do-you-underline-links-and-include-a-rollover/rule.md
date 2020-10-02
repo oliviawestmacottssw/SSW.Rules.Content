@@ -26,7 +26,7 @@ For more information on this, please [go to SSW website](https://www.ssw.com.au/
 Good Example: This link is obvious
 
 
-![link-hover.jpg](link-hover.jpg)
+![](link-hover.jpg)
 
 
  Good Example: Obvious rollover. You can test it by hovering the links on the example above

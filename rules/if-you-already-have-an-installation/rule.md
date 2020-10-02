@@ -18,5 +18,5 @@ If you have already done some test migrations on the new server there is no need
 6. Restore the databases to the TFS2010’s SQL 2008 Server
 7. In the Team Foundation Server Admin Console
 8. Click Application Tier | Team Project Collections |Attach Team Project Collection
-![Attach Team Project Collection](Attach Team Project Collection.png)
+![](Attach Team Project Collection.png)
 9. Follow the wizard, [rule #8 from step 13](/Pages/UpgradeTFS2008Databases.aspx).

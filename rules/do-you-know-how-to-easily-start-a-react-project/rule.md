@@ -10,7 +10,7 @@ authors:
 ---
 
 Create-React-App is a boilerplate provided by Facebook for almost any React project. Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.
- ![create-react-app.png](create-react-app.png)
+ ![](create-react-app.png)
 Good example: Use the create-react-app npm package <br>      
 
 1. Install [Create-React-App](https://github.com/facebook/create-react-app)

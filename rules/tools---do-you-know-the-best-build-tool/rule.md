@@ -13,4 +13,4 @@ authors:
 
 Building, bundling and compiling Angular applications can get complicated. You need great build tools.
   ![ Bad Example - Gulp requires hundreds of lines of config to build and bundle Angular applications](gulp.png) 
- ![ Good Example - Webpack is an open-source JavaScript module bundler that can be used to build your application (and lots more as well). Teams with advanced build requirements use Webpack. The downside of Webpack is that it requires a large investment in learning Webpack - if it isn't required, the Angular CLI is a better choice ![cli.png](cli.png) ](webpack.png)
+ ![ Good Example - Webpack is an open-source JavaScript module bundler that can be used to build your application (and lots more as well). Teams with advanced build requirements use Webpack. The downside of Webpack is that it requires a large investment in learning Webpack - if it isn't required, the Angular CLI is a better choice ![](cli.png) ](webpack.png)

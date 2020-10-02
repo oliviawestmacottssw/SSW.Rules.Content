@@ -81,10 +81,10 @@ index:
 - do-you-use-great-email-signatures
 
 ---
-[![What others have to say about us](Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx) 
+[![](Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx) 
 
 
-| ![See what people think about this product](Testimonials_LeftQuote.gif) | I've been putting together Development Guidelines for my employer and in the process have reviewed many published standards (in the .Net arena) from around the world. In each category, the suggestions at SSW are always among the best. | ![See what people think about this product](Testimonials_RightQuote.gif) |
+| ![](Testimonials_LeftQuote.gif) | I've been putting together Development Guidelines for my employer and in the process have reviewed many published standards (in the .Net arena) from around the world. In each category, the suggestions at SSW are always among the best. | ![See what people think about this product](Testimonials_RightQuote.gif) |
 | --- | --- | --- |
 
 

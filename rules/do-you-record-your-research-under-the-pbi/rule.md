@@ -25,7 +25,7 @@ Create a new task under the PBI and place these resources in the description wit
 
 
 
-![research-task-under-pbi.png](research-task-under-pbi.png)
+![](research-task-under-pbi.png)
 
 Good Example: Task for research created under the PBI
 

@@ -19,12 +19,12 @@ For example, Zendesk is set up with the email SysAdmins@ssw.zendesk.com and ther
 
 It is best practice to only use the Zendesk group to manage tasks and not both groups in the same email thread.
 
-![zenddddd.png](zenddddd.png)
+![](zenddddd.png)
 Bad Example: Adding groups with the same people twice. They will receive it twice in their inbox
 
 
 
-![zendndnd.png](zendndnd.png)
+![](zendndnd.png)
  Good Example: Add only one group, that goes to Zendesk and spread the ticket only once for everyone
 
 

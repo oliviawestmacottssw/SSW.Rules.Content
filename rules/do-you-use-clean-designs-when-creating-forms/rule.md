@@ -14,7 +14,7 @@ As we know, [an image is worth a thousand words](/_layouts/15/FIXUPREDIRECT.ASPX
 ###  Bad Example
 
 A fairly standard Access 97 application that needs some love (Before a makeover)
-![ Avoid using background colors for your form controls - they can be confusing![Before a makeover](accessui_candidateedit2_before.gif)](accessui_candidateedit1_before.gif)
+![ Avoid using background colors for your form controls - they can be confusing![Before a makeover![Before a makeover](accessui_candidatesearch_before.gif)](accessui_candidateedit1_before.gif)
 ###  Good Example 
 
 Screenshots of the existing Application in Access 97 after an SSW makeover (Good)

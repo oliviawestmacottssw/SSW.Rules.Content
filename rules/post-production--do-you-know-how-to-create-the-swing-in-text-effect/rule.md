@@ -15,4 +15,4 @@ The text swing in can be a great way to make a title gain attention, but if the 
 - Each keyframe should be half the distance on the timeline from the previous keyframe
 
  ![ Bad Example - this does not simulate gravity and will be jarring to the viewer](TextExpression-AfterEffects-TheSwingIn_BadExample.jpg)
-![ Good Example - Angle/time graphic for "Swing In" effect[![Swing-In.jpg](Swing-In.jpg)](http://youtu.be/0ugMkda9IBw?t=7s)](TextExpression-AfterEffects-TheSwingIn.jpg)
+![ Good Example - Angle/time graphic for "Swing In" effect[![](Swing-In.jpg)](TextExpression-AfterEffects-TheSwingIn.jpg)

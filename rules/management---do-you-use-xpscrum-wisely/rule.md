@@ -14,7 +14,7 @@ authors:
 Scrum is a big concept which we try to use here. I don't adhere to every idea, but there are some very practical rules I follow which improves the way we develop on large projects: <br>
  
 
-| ![
+| ![ You need to check up on your developers every 2 weeks. Then you'll never be fooled!  |](ab9491_Anthrax.gif) 
 | --- |
 
 

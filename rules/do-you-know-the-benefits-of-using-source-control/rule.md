@@ -16,7 +16,7 @@ authors:
 ---
 
 Source control is your backup of your code, as well as your change history to track changes. 
-<br>With the source control (we use TFS), we can share project code and cooperate with other team members. Using it allows us to track changes, compare code and even roll-back if required. Moreover, it keeps our code safe that is the most important. <br> ![ View the changes in source control on each individual file ![](HistoryCompareMenu.jpg) ](HistoryWindow.jpg) 
+<br>With the source control (we use TFS), we can share project code and cooperate with other team members. Using it allows us to track changes, compare code and even roll-back if required. Moreover, it keeps our code safe that is the most important. <br> ![ View the changes in source control on each individual file ![ ](HistoryWindow.jpg) 
 ![ Right click file and select Annotate to view the history on a segment basis ![](Annotate.jpg)](AnnotateMenu.jpg)
 
 Don't just fix the problem, see who caused the problem and correct them.

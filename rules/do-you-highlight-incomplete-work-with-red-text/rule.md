@@ -10,7 +10,7 @@ authors: []
 It is important that users of your application who provide feedback <br>have very clear indications of work that is not yet complete, to avoid <br>feedback on sections of your application that are still under <br>development.
  
 Also, see our     [rule on colour usage in windows forms](http://www.ssw.com.au/ssw/Standards/rules/rulestobetterwindowsforms.aspx#RedYellowDesigner).
-![ Bad Example - A tester or a product owner who comes to this page may believe that it is broken, or that the developers have 'missed' it. Always be clear about what parts of your application are not yet ready for feedback![](400e3f_good-incomplete-work.jpg)](4e246f_bad-incomplete-work.jpg)
+![ Bad Example - A tester or a product owner who comes to this page may believe that it is broken, or that the developers have 'missed' it. Always be clear about what parts of your application are not yet ready for feedback![. Feature Toggling can require a large amount of extra work and so is often only implemented by teams with a need to ship features while others are still in development](4e246f_bad-incomplete-work.jpg)
 #### Related Rule
 
 - [Do you use red and yellow colours to distinguish elements in the Designer?](http://www.ssw.com.au/ssw/Standards/rules/rulestobetterwindowsforms.aspx#RedYellowDesigner)

@@ -20,7 +20,7 @@ So, here are a few examples taken from our social media of what you could post o
 ### Video content
 ![ SSW TV Tech tips recorded during NDC 2019 on YouTube - <br>      [Watch the playlist here](https://www.youtube.com/playlist?list=PLpiOR7CBNvlqSNO-jkFxuAqy9uL6vnfkx)](sswtv.jpg)
 ### Events that your company organised
-![ Clean Architecture Superpowers paid training promotion on SSW's socials![sswevents.jpg](sswevents.jpg)](promoclean.jpg)
+![ Clean Architecture Superpowers paid training promotion on SSW's socials![sswevents.jpg post-event post](promoclean.jpg)
 
 ### External events that you and your team attended to
 ![ SSW’s team in our booth at NDC Sydney 2019 with Alumnus Tiago Passos](ndc.jpg)
@@ -38,7 +38,7 @@ So, here are a few examples taken from our social media of what you could post o
 ### Teamwork, parties, etc
 ![ A team shot just before NDC with part of the SSW China office](teamwork2.jpg)
 ### Relevant news for your industry
-![ If you don’t have a catchy photo to represent your news, try free stock photo websites like <br>      [Pexels](https://www.pexels.com/) or <br>      [Unsplash](https://unsplash.com/)](technews.jpg)
+![ If you don’t have a catchy photo to represent your news, try free stock photo websites like <br>      [Pexels](technews.jpg)
 ### Memes, if they suit your industry
 
 

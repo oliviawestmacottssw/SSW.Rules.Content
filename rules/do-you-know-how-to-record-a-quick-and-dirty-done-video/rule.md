@@ -102,15 +102,15 @@ After recording your video, you need to do some basic sound processing to make t
 Follow the steps to export your video:
 
 1. Click the Share button on the top right of the window
-![export-video1.png](export-video1.png)
-2. In the new dialog, select custom production settings <br>                     ![export-video2.png](export-video2.png)
-3. In the next window, uncheck the ‘Produce with controller’ option <br>                     ![export-video3.png](export-video3.png)
+![](export-video1.png)
+2. In the new dialog, select custom production settings <br>                     ![](export-video2.png)
+3. In the next window, uncheck the ‘Produce with controller’ option <br>                     ![](export-video3.png)
 4. In the ‘Video settings’ tab, copy these settings:
 -	Frame Rate: 30
 -	H.264 Profile: High
 -	Encoding mode: Quality
     o	Increase the quality to 100% <br>                     ![ Copy these settings](export-video4.png)
-5. In the ‘Audio settings’ tab, make sure the Bit rate is set to 320 kbps <br>                     ![export-video5.png](export-video5.png)
+5. In the ‘Audio settings’ tab, make sure the Bit rate is set to 320 kbps <br>                     ![](export-video5.png)
 6. Click Next and save your file!
 
 

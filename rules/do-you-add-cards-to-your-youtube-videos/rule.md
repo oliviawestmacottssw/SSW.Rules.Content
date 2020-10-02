@@ -12,7 +12,7 @@ authors:
 Cards on YouTube are an effective way to keep people watching your videos by suggesting to the viewer the other videos they could be interested in.
  
 You could also promote an external website [(just like with ed screens)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=bad882c6-59d2-4a8f-97be-a15c6dc19296) but remember you want people to stay on YouTube and keep watching your videos.
-![card example.png](card example.png)
+![](card example.png)
 
 Good example: A card is discreet and adds an easy way for the viewer to get to the relevant content.
 

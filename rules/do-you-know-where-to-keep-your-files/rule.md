@@ -33,7 +33,7 @@ For most projects you need to quickly store and locate important details and doc
 
 
 [[badExample]]
-| ![ Bad example – It might be easy to use File Shares, your Local C: or emails – but don’t. They don’t work in a team environment as they aren’t easy for others to access![Keep Files Bad Example](keep-files-TFS.jpg)](Dont-keep-files.jpg)
+| ![ Bad example – It might be easy to use File Shares, your Local C: or emails – but don’t. They don’t work in a team environment as they aren’t easy for others to access![Keep Files Bad Example](Dont-keep-files.jpg)
 ### What does not get stored in Microsoft Teams? 
 
 

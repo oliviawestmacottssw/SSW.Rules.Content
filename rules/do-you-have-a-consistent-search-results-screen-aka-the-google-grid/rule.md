@@ -23,4 +23,4 @@ Want the 'Google grid'? Then follow these rules to help users to navigate:
 3. A statement that explains the criteria that you used for searching (or keep the criteria in the text box like google does)
 4. The number of pages found (hyperlinks centered in the middle), and these hyperlinks<br>                        should be shown on the footer of the page only.
 
-![ The header of [SSW results screen<br>](http://www.ssw.com.au/ssw/Products/ProdCategoryList.aspx)- filter, number of results found, search criteria and time taken![Result Pages](results-pagination.jpg)                        ](results-filter.jpg)
+![ The header of [SSW results screen<br>                        ](results-filter.jpg)

@@ -21,4 +21,4 @@ With Visual Studio, you can write database unit tests. These are useful for test
 
 These tests can also be added to the same library as your unit, web and load tests.
 
- ![AddNewTest.jpg](AddNewTest.jpg)Figure 1 - Database Unit Test![WriteUnitTest.jpg](WriteUnitTest.jpg)Figure 2 - Writing the unit test against a stored proc
+ ![](AddNewTest.jpg)Figure 1 - Database Unit Test![WriteUnitTest.jpg](WriteUnitTest.jpg)Figure 2 - Writing the unit test against a stored proc

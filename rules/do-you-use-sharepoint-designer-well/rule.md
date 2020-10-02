@@ -23,4 +23,4 @@ But there are things that it doesn't do naturally, or it does really badly.  Her
 
 
 
-![Uncheck Auto indent](SPIndent.gif)
+![](SPIndent.gif)

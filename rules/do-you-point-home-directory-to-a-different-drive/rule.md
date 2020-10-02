@@ -14,12 +14,12 @@ When you run Octopus Deploy setup the application installs to you %Program Files
 
 
 
-![2016-05-30_12-18-02.png](2016-05-30_12-18-02.png)
+![](2016-05-30_12-18-02.png)
 
 Bad<br>Example - Home directory is pointing to %SystemDrive%
 
 
 
-![2016-05-30_12-29-09.png](2016-05-30_12-29-09.png)
+![](2016-05-30_12-29-09.png)
 
 Good Example - Home directory is pointing to another drive

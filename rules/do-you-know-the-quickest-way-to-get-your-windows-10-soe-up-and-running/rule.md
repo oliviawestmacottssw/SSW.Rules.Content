@@ -37,4 +37,4 @@ Assuming that Windows 10 in already installed, then get your SOE installed fast 
 
  ![ SSWLoginScript.bat ](LoginScript.jpg) 
 
- ![ SSWPackages.ps1 which runs Chocolatey command to install SOE software ![NonChocolateySoftware.jpg](NonChocolateyApp.jpg) ](ChocolateyScript.jpg)
+ ![ SSWPackages.ps1 which runs Chocolatey command to install SOE software ![NonChocolateySoftware.jpg ](ChocolateyScript.jpg)

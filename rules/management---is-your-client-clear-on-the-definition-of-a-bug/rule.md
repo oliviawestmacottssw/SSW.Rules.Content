@@ -44,7 +44,7 @@ A software issue can be classed as a bug where:
 Using TFS allows you to create work items such as user stories, bugs, tasks, test cases etc. Only create bugs in TFS for defects, faults, flaws, or imperfections that fulfill your definition of a bug. For everything else use other work item types.
 
 
-> **![2016-02-08_12-20-59.png](2016-02-08_12-20-59.png)
+> **![](2016-02-08_12-20-59.png)
 > Figure: Do I create this as a bug, or a task? **
 
 

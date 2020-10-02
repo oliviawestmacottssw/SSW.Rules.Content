@@ -29,7 +29,7 @@ Your end screen shouldn’t overlap actual video content so you should leave up 
 
 
 
-![end screen example.png](end screen example.png)
+![](end screen example.png)
 Good example: An example of an end screen featuring a Subscribe button (the SSW logo) and a playlist (which the video is from). 
 
 You can see a demo at the end of our [LINQPad: Insights from its creator Joseph Albahari (2017 NDC Sydney)](https://www.youtube.com/watch?v=4Hpl4Gq-yNE) video (from 6:39).

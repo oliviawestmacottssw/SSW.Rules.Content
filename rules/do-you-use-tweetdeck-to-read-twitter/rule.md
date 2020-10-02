@@ -17,7 +17,7 @@ If you are looking to get the most out of your Twitter experience, you will need
 
 
 
-![Bad Example : Using the Twitter webpage is not the best way to use Twitter.](twitter-webpage.png)
+![](twitter-webpage.png)
 
 
 Bad Example : Using the Twitter webpage is not the best way to use Twitter

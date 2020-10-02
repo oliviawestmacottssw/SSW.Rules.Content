@@ -35,7 +35,7 @@ Choose**Internet Information Services | Web Management Tools | World Wide Web Se
     - Method 2:  Using “Gzipper” in your Angular website
 Followhttps://www.npmjs.com/package/gzipper .(but it still need IIS Server enable static content compression.) 
 Using "npm i gzipper g" to install "gzipper" first. Add to scripts in your package.json
-![7.png](7.png)
+![](7.png)
 
 ![ "Finish configuration like that.](6.png)
 

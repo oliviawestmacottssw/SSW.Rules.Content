@@ -15,9 +15,9 @@ Lets take a look at the overview and our tips to help you get the most out of Ap
  
 **An overview of the setup steps** Application Insights requires that you make 2 general modifications to your application:
 
-1. On the client side, manually[add a Javascript tracker to your web page header](https://azure.microsoft.com/en-us/documentation/articles/app-insights-javascript/) (i.e. by placing directly on each page or through a "master page" or "layout template"), this modification enables the "browser page loading time" monitor and can track client-side exceptions: ![app-insights-browser-loading-time.jpg](app-insights-browser-loading-time.jpg) Browser side stats have been enabled with the JavaScript tracker
+1. On the client side, manually[add a Javascript tracker to your web page header](https://azure.microsoft.com/en-us/documentation/articles/app-insights-javascript/) (i.e. by placing directly on each page or through a "master page" or "layout template"), this modification enables the "browser page loading time" monitor and can track client-side exceptions: ![](app-insights-browser-loading-time.jpg) Browser side stats have been enabled with the JavaScript tracker
 2. On the server side, [add the Application Insights DLL references and update web.config](https://azure.microsoft.com/en-us/documentation/articles/app-insights-start-monitoring-app-health-usage/), these modifications enable the "server response time", "server request" and "failed requests" monitors. This step can either be done within Visual Studio when right-clicking on a project in Solution Explorer, but it can also be done with the server monitoring tool on ASP.NET applications you don't have control over (e.g. SharePoint).
-3. ![server-response-requests-failed-requests.jpg](server-response-requests-failed-requests.jpg)Server side stats have been enabled now that it has been added to the ASP.NET pipeline
+3. ![](server-response-requests-failed-requests.jpg)Server side stats have been enabled now that it has been added to the ASP.NET pipeline
 
 
 **Tip #1 – Add enhanced Exception tracking to your application** 

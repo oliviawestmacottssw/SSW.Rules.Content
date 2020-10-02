@@ -24,7 +24,7 @@ There are a few reasons for this:
 
 
 Below is an example of a Good "< Back" link versus some Bad variations.
-![ A Good example of a "< Back" link ![Bad](badpreviouslink.gif) ](textboxeswithshowbutton.gif) 
+![ A Good example of a "< Back" link ![Bad ](textboxeswithshowbutton.gif) 
 We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.
 
 

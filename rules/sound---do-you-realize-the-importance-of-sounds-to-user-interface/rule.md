@@ -13,7 +13,7 @@ Out of the box, you'll get a sound with error messages. You'll still need to add
 
 - Long process - there should be a sound at the end of every long process to notify the user that it has finished [![](../../assets/Sound.gif)](http://www.ssw.com.au/ssw/Standards/Rules/Sounds/sswLongProcessFinished01_ChatWhsp.wav)
 - Deleting records
-- ![](../../assets/iconAudio.png "Audio File") [Application opening](http://www.ssw.com.au/ssw/Standards/Rules/Sounds/SSWApplicationOpened_dooropen.wav) [![](../../assets/Sound.gif)](http://www.ssw.com.au/ssw/Standards/Rules/Sounds/SSWApplicationOpened_dooropen.wav) / ![](../../assets/iconAudio.png "Audio File") [closing](http://www.ssw.com.au/ssw/Standards/Rules/Sounds/SSWApplicationClosed_doorslam.wav) [![](../../assets/Sound.gif)](http://www.ssw.com.au/ssw/Standards/Rules/Sounds/SSWApplicationClosed_doorslam.wav)
+- ![](../../assets/iconAudio.png "Audio File") [Application opening
 - Copying and pasting text
 
 

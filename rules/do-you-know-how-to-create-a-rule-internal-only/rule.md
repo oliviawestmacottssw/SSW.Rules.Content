@@ -17,15 +17,15 @@ This is how you create a rule at **rules.ssw.com.au**.
 3. Then to the subcategory E.g. http://rules.ssw.com.au/Communication/RulesToBetterSomething 
 **Note:** It's very **important **to make sure you are at the right location before creating a rule!!! 
 **Note: **Step 2 & 3 are not needed anymore after we moved all rule pages from 100+ subwebs into one "Pages" library in root web.
-4. Click on “Add a page”  ![Create Rule](create-rule1.jpg)    **Note:** Each rule will be a “page” on SharePoint – with its own URL - differently from old aspx, where rules were sections on a single page.
-5. Add the URL  ![Create Rule](create-rule2.jpg)     **Note:** We use only the most important words of a rule title. The words in **purple** are typically not used.
+4. Click on “Add a page”  ![](create-rule1.jpg)    **Note:** Each rule will be a “page” on SharePoint – with its own URL - differently from old aspx, where rules were sections on a single page.
+5. Add the URL  ![](create-rule2.jpg)     **Note:** We use only the most important words of a rule title. The words in **purple** are typically not used.
     E.g. #1 “**HTML/CSS - Do you know how to create spaces in a web page?**” should be “http://rules.ssw.com.au/WebSites/RulesToBetterWebsitesLayout/Pages/How-to-create-spaces-in-a-web-page.aspx”
     E.g. #2 “**Do you use "list" tags for lists only?**” should be “http://rules.ssw.com.au/WebSites/RulesToBetterWebsitesLayout/Pages/Use-list-tags-for-lists-only.aspx”
 
 Note: Friendly URL should be automatically generated like:
- ![auto-generate-friendlyurl.jpg](auto-generate-friendlyurl.jpg)
-6. Add the rule title  ![Create Rule](create-rule3.jpg)
-7. Add the rule category (so that it will be shown on the summary page):  ![add-rule-category.jpg](add-rule-category.jpg)
+ ![](auto-generate-friendlyurl.jpg)
+6. Add the rule title  ![](create-rule3.jpg)
+7. Add the rule category (so that it will be shown on the summary page):  ![](add-rule-category.jpg)
 8. **IMPORTANT** – Adding rule intro + content    You have three options:
 
     1. **Option 1** – Start from scratch - Write content down on the fields
@@ -38,30 +38,30 @@ Note: Friendly URL should be automatically generated like:
         1. Open up and copy the HTML code (from “view source” on a browser)
         2. Go back to SharePoint (where you are adding the rule)
         3. Click in the field you are going to edit
-        4. In the “Format Text” ribbon, click “Edit Source”  ![Create Rule](create-rule7.jpg)
-        5. Paste the HTML there  ![Create Rule](create-rule8.jpg)
+        4. In the “Format Text” ribbon, click “Edit Source”  ![](create-rule7.jpg)
+        5. Paste the HTML there  ![](create-rule8.jpg)
         6. Now fix up the images – This part is a bit painful
             - Firstly you will need to save all the images to your local drive
             - We don’t use the "Insert > Picture" on the ribbon because it doesn’t generate the HTML code we use as default as per [Do you use the right HTML/CSS code to add the useful figure/caption?](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterWebsiteslayout.aspx#AddFigureWithRightCode)
             - Instead, upload them to the Images folder - http://rules.ssw.com.au/PublishingImages/
-                - Go to “Site Contents”  ![Create Rule](create-rule9.jpg)
-                - Click on “Images”  ![Create Rule](create-rule10.jpg)
-                - Drag the images from your local drive to the Images folder in SharePoint:  ![Create Rule](create-rule11.jpg)
-                - Make sure you “Check In” all the images (otherwise they won’t be visible for anonymous users)  ![Create Rule](create-rule12.jpg)
+                - Go to “Site Contents”  ![](create-rule9.jpg)
+                - Click on “Images”  ![](create-rule10.jpg)
+                - Drag the images from your local drive to the Images folder in SharePoint:  ![](create-rule11.jpg)
+                - Make sure you “Check In” all the images (otherwise they won’t be visible for anonymous users)  ![](create-rule12.jpg)
                 - On the screen above you can see the path for each image. Copy it so you can paste into the HTML.
 E.g. ![]()http://rules.ssw.com.au/Communication/RulesToBetterBlogging/PublishingImages/RulesBloggingAcknowledgeBad.jpg">
         7. Double check the links – you might have got a relative link E.g. **../company/Offices.aspx”> **which will not work because it’s now on a different site.
 So you will nee d to make it absolute E.g. [**http://www.ssw.com.au/ssw/company/Offices.aspx**](http://www.ssw.com.au/ssw/)**”>**
 9. Add the rule intro    Try to have a catch at the end so the user will want to read the rest of the rule. E.g. “ To reply to a bug effectively and efficiently in your emails, you need to include:”
- ![ The “Brief Blurb” should clearly explain what the rule is about and have a catch at the end](create-rule13.jpg)  ![ The “Brief Blurb” should clearly explain what the rule is about and have a catch at the end](create-rule14.jpg) 
-10. Add the rule content  ![Create Rule](create-rule15.jpg)
-11. [Add the acknowledgements](/Pages/add-acknowledgements-to-rules.aspx)  ![Create Rule](create-rule16.jpg)
-12. Hit “Publish”, add your comments and “Continue”  ![Create Rule](create-rule17.jpg)     **Note:** "Check in a major version" **equals** "Publish", so you can choose to "Check in a major version" instead of "Publish".
+ ![ The “Brief Blurb” should clearly explain what the rule is about and have a catch at the end](create-rule13.jpg)  ![Create Rule](create-rule14.jpg) 
+10. Add the rule content  ![](create-rule15.jpg)
+11. [Add the acknowledgements](/Pages/add-acknowledgements-to-rules.aspx)  ![](create-rule16.jpg)
+12. Hit “Publish”, add your comments and “Continue”  ![](create-rule17.jpg)     **Note:** "Check in a major version" **equals** "Publish", so you can choose to "Check in a major version" instead of "Publish".
 13. Test on a browser you aren’t logged in. 
-**Tip:** In Chrome, select “New Incognito Window”  ![Create Rule](create-rule18.jpg)
+**Tip:** In Chrome, select “New Incognito Window”  ![](create-rule18.jpg)
 14. Check on the summary page (e.g. http://rules.ssw.com.au/RulesToBetterSomething/ ) if the order is correct 
 If not it’s not correct, you can change the order of rules by following the instructions as per the section below:
- ![Create Rule](create-rule19.jpg)  ** Tip: **You might need to refresh the cache – See “Rule Cache Management” also on the section above.
+ ![](create-rule19.jpg)  ** Tip: **You might need to refresh the cache – See “Rule Cache Management” also on the section above.
 
 
 Congratulations, you’ve just added a rule!

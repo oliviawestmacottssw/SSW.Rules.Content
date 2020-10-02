@@ -13,7 +13,7 @@ authors:
 
 How often do you find files on your network file server that clearly shouldn't be there? Developers are notorious for creating temporary files and littering your file system with them. So how can you identify exactly who created or modified the file, and when?
 
-  ![ Who created this file? ![networkauditing_06.gif](RDP.png) ](DuplicateFile.png) 
+  ![ Who created this file? ![networkauditing_06.gif ](DuplicateFile.png) 
 The easiest way is to configure **Windows file auditing**.
 
 Thankfully, Windows XP and Server come with built-in file auditing. Any changes create and delete can be logged to your system event log. Here's how to set it up.

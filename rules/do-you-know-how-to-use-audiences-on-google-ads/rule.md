@@ -24,4 +24,4 @@ You'll find: Audience lists, Audience insights and sources.
 On Sources, you can link Google Analytics, YouTube (if you use this social media), Google Play and App Analytics (if you sell apps). All of this will bring information that will help you build your custom audience.
 
 To build your In-Market and Affinity audiences, you can select from some options that Google will give you like below:
-![ In-Market audiences that might be your right target![audience-5.png](audience-5.png)](audience-4.png)
+![ In-Market audiences that might be your right target![audience-5.png](audience-4.png)

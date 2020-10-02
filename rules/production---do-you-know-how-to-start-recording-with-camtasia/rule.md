@@ -14,7 +14,7 @@ authors:
 Follow these steps to start recording using Camtasia:<br>
  
 1. Set your screen resolution to as high as possible but do not exceed 1920 x 1080 for a 16:9 display, or 1920 x 1200 for a 16:10 display. If your screen resolution is too low then you will either have to expand the footage in post-production (which will result in a loss of quality) or release a low-resolution video (which will become poor quality when watched in full screen).
- ![ Set your screen resolution as high as possible without exceeding 1920 x 1080 ![poor resolution screenshot.jpg](poor resolution screenshot.jpg) ](screen resolution.png) 
+ ![ Set your screen resolution as high as possible without exceeding 1920 x 1080 ![](poor resolution screenshot.jpg) ](screen resolution.png) 
 3. In the Recorder window, select 'Full Screen', then turn on the mic. Choosing which mic input to use depends on the type of recording you are doing. If you are filming the session, you should select the internal mic since you will be using this for syncing purposes. If however you are just recording your screen with audio, then select an external mic since this will be higher quality.  ![ Select the options you need](record-camtasia-2.jpg) 
 4. Select Tools | Options
 5. In the 'General' tab, uncheck the 'Show tooltips' box and check the 'Disable screensaver during capture'.

@@ -18,4 +18,4 @@ We are always disappointed when adding version information to a Word document. W
 **Follow the guide here**:     http://www.bryansgeekspeak.com/2009/03/moss-2007-show-sharepoint-version.html
 
 **Note:** This also works in SharePoint 2010 and Office 2010.
-![ Good example, you see the formatted SharePoint version number ![](BadVersioning.png)Bad Example![](GoodVersioning.png)Good Example](VersionInWord.jpg)
+![ Good example, you see the formatted SharePoint version number ![Good Example](VersionInWord.jpg)

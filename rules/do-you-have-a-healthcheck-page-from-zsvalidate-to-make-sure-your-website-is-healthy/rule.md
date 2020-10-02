@@ -43,6 +43,6 @@ Best of all they have a [Release Gate available on the DevOps market place](http
 
 
 #### Other products using validation status
-![ Microsoft Live status - <br>      [www.apple.com/au/support/systemstatus/](http://status.mailchimp.com/)![Google Apps summary](status-google.jpg)](status-microsoft.jpg)
+![ Microsoft Live status - <br>      [www.apple.com/au/support/systemstatus/](status-microsoft.jpg)
 See     [SSW Rules - Do you have a HealthCheck page to test your website dependencies?](https://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterUnitTests.aspx#HealthCheck)
 ![ Check everything with care](check-everything.JPG)

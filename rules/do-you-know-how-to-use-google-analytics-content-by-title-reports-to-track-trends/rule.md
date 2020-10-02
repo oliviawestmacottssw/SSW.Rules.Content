@@ -19,7 +19,7 @@ Keeping on top of your web site analytics can be daunting given the vast number 
 4. ## View by Day, Week and Month Trends
 ![ Use the ‘Graph By’ options to show trends for Weeks and Monthly visits](analytics-weekly-trend.jpg) 
 5. ## View Segments
-![ Add Segments to compare your traffic sources including Search, Direct and Referral traffic. You can also compare with paid search traffic (if you are using AdWords to drive traffic). ![](analytics-content-search-traffic.jpg) ](analytics-segments.jpg) 
+![ Add Segments to compare your traffic sources including Search, Direct and Referral traffic. You can also compare with paid search traffic (if you are using AdWords to drive traffic). ![ ](analytics-segments.jpg) 
 ![ You can also view the sources of the traffic to see which sites are sending you traffic by clicking on the Pivot View. ![](analytics-content-sources-bounce-rate.jpg) ](analytics-content-sources.jpg) 
 6. ## Add To Dashboard
 ![ Add the Report to your Dashboard ![](analytics-dashboard.jpg) ](analytics-add-dashboard.jpg)

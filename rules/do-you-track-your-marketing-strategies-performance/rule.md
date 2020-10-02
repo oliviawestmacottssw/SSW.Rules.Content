@@ -20,7 +20,7 @@ One simple way of tracking this, is to collate the performance data and analyze 
 To do this, you first need to decide how frequently you’d like to collect your data. Monthly is a good cadence to start with, as it can show trends without being too labor-intensive. However, some metrics might need to be looked at more frequently to ensure you’re on track.
 
 Here is a diagram outlining some of the ways you can track your performance:
-![mkt-performance-diagram.png](mkt-performance-diagram.png)
+![](mkt-performance-diagram.png)
 A simple way of tracking this, is to have a spreadsheet that holds all of your data. Measurement can be as simple or as complicated as you make it. Don’t measure simply for the sake of having some numbers to present to your upper management. If you aren’t certain what you should be measuring, ask yourself these two questions:
 
 - Do these metrics support my key goals?

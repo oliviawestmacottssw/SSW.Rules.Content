@@ -24,7 +24,7 @@ Throw away your remote controls and move on to technological freedom!
 ![ Bad example, using any pysical remote control instead of the Control4 app.](Bad example C4.jpg)
 
 
-![Good example C4.PNG](boardroomac.jpg)Good Example: Turning on the air conditioner using Control4
+![](boardroomac.jpg)Good Example: Turning on the air conditioner using Control4
 
 
 ### Installing Control4 on your phone
@@ -35,11 +35,11 @@ To use Control4 on your phone and remotely control all services, you will need t
 1. Download the app from the App Store: http://www.control4.com/software/control4-app-ios/latest
 or Google Play: http://www.control4.com/software/control4-app-android/latest
 
-![Control4 1.png](control4iosappstore.jpg)
+![](control4iosappstore.jpg)
 
 > 2. Select "Add System" button.
 
-![Control4 2.png](control4start.jpg)
+![](control4start.jpg)
 
 
 > 3. Contact your SysAdmin to set you up with an account for logging in.
@@ -50,12 +50,12 @@ or Google Play: http://www.control4.com/software/control4-app-android/latest
 > 5. Use your credentials to sign into Control4. 
 > TIP: The System Name you enter is what the system will be called on your device. It can be anything.
 
-![Control4 3.png](control4add.jpg)
+![](control4add.jpg)
 
 ### Using Control4
 
 Once logged in, you will have access to your site's controls. These apps are customisable, but the ones we have at SSW are:
-![Control4 4.png](control4reception-notes.jpg)
+![](control4reception-notes.jpg)
 
 ### Changing Users
 
@@ -64,21 +64,21 @@ If you need to change the user or sign in with new credentials, you can use the 
 
 > 1. Tap the Control4 logo to open the menu.
 
-![control4receptionLogo.jpg](control4receptionLogo.jpg)
+![](control4receptionLogo.jpg)
 
 
 > 2. Scroll to the bottom and select the settings button.
 
-![Control4 5.png](control4menusettings.png)
+![](control4menusettings.png)
 
 
 > 3. Select your System:
 
-![Control4 6.png](control4settings.jpg)
+![](control4settings.jpg)
 
 
 
 
 > 4. Select "Delete". This will reset the account and allow you to enter new credentials.
 
-![Control4 8.png](control4delete.jpg)
+![](control4delete.jpg)

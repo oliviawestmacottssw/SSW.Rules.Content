@@ -16,5 +16,5 @@ We believe in reinforcing your company profile at every appropriate opportunity.
 
 
 
-![MicrosoftTeams-image (1).png](MicrosoftTeams-image (1).png)
+![](MicrosoftTeams-image (1).png)
 Good Example - Figure: use your waiting area as an extension of your Marketing strategy

@@ -15,10 +15,10 @@ When using your presentation computer you may want to still be able to send emai
 Here is how you do it:
 
 1. Open Outlook and create a new Exchange account: <br>      
-![Create New Account](mail1.png)Figure - Tick manually configure server settings
-2. Enter your server name and user name, but un-tick <br>      **Use Cached Exchange Mode**:  <br>      ![Un-tick Use Cached Exchange Mode](Mail3.png)Figure - Un-tick Use Cached Exchange Mode
+![](mail1.png)Figure - Tick manually configure server settings
+2. Enter your server name and user name, but un-tick <br>      **Use Cached Exchange Mode**:  <br>      ![](Mail3.png)Figure - Un-tick Use Cached Exchange Mode
 3. Finish the setup and then open Outlook
-4. Configure your Send / Receive Groups: <br>      ![Click Send / Receive | Click Send / Receive Groups | Click Define Send / Receive Groups](Email2.png)Figure - Click Send / Receive | Click Send / Receive Groups | Click Define Send / Receive Groups
+4. Configure your Send / Receive Groups: <br>      ![](Email2.png)Figure - Click Send / Receive | Click Send / Receive Groups | Click Define Send / Receive Groups
 5. Now we can choose the parts of our mailbox we want to synced to our PC. The following options are recommended:
     - Untick <br>            **Receive Mail Items**
     - Tick <br>            **Download offline address book**

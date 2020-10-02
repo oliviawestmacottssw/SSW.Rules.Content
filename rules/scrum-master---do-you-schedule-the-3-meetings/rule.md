@@ -67,7 +67,7 @@ Regards,
 [https://rules.ssw.com.au/scrum-master-do-you-schedule-the-3-meetings](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=c7aaccf3-506d-46a2-8eb2-813d611ec008) />
 
  Figure: Good Example - copy this appointment template and send to the Scrum Team
-![New meeting on Teams](Screen Shot 2020-04-06 at 4.15.50 PM.png)
+![](Screen Shot 2020-04-06 at 4.15.50 PM.png)
 It's a great idea to run your Scrum meetings through Microsoft Teams so that the whole team is invited and new developers can easily find the meetings see [https://rules.ssw.com.au/run-your-meetings-through-teams](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=91a6a999-29d4-4903-8b7a-16fddd976d65) for more info.
 
 In Scrum, there are 4 meetings in total that you need to know about:

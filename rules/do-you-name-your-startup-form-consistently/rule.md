@@ -11,7 +11,7 @@ authors:
 
 ---
 
-In every Windows application project, we need to have a main, start-up or wizard page  form for a better structure and design.<br> ![Bad Project without Main Form](BadMainForm.gif) Bad example - The entry form is not immediately recognizable because of a non standard name ![Good with Main Form](GoodMainForm.gif) Good example - The entry form follows the naming convention rule 
+In every Windows application project, we need to have a main, start-up or wizard page  form for a better structure and design.<br> ![](BadMainForm.gif) Bad example - The entry form is not immediately recognizable because of a non standard name ![Good with Main Form](GoodMainForm.gif) Good example - The entry form follows the naming convention rule 
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx#VBMainForm) to check for this rule.<br>            <br>Note: In Code Auditor we check for Form named: Startup, MainForm and WizardPage. |
 | --- |

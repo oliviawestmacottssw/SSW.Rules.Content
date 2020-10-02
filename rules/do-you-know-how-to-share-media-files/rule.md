@@ -23,4 +23,4 @@ Ideally SharePoint would be used for all content storage but occasionally it is 
  ![ Good Example -  DropBox allows offline access. When you share a DropBox folder with another Dropbox user, the shared folder appears in the DropBox folder on their machine with a different icon to indicate sharing](share-media-files-4.jpg)  
 Having the folder on the remote machine allows remote backup. All folders used for SSW Work must be shared with the SSW Dropbox Account.
 The SSW sys-admin is responsible for backing up the SSW Dropbox account daily.
- ![ To allow you to use Dropbox for work, first create a folder called SSW\_[YourName] (e.g. SSW\_AdamStephensen), right click on the folder and choose Share this folder... ![](share-media-files-6.jpg)  ](share-media-files-5.jpg)
+ ![ To allow you to use Dropbox for work, first create a folder called SSW\_[YourName] (e.g. SSW\_AdamStephensen), right click on the folder and choose Share this folder... ![  ](share-media-files-5.jpg)

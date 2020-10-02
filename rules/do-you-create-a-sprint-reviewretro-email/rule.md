@@ -73,7 +73,7 @@ XXX
 ![ Deployments from Octopus Deploy](production-deploy.png)
 6. Application Health Overview Timeline (For the entire Sprint)
 
-![Application Health Overview Timeline.png](Application Insights.jpg)
+![](Application Insights.jpg)
 
 ### R&D 
 

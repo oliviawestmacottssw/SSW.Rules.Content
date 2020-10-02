@@ -31,7 +31,7 @@ Next is to fix it for the future – you could explain the new steps in the proc
 
 More: **The 3 A’s of Business** (a great article from American Express)
 https://www.americanexpress.com/en-us/business/trends-and-insights/articles/the-three-as-of-business/
- ![ Make sure you know how to take criticism well ![Defensive behaviour.png](Defensive behaviour.png) ](dilbert-criticism-1.gif) 
+ ![ Make sure you know how to take criticism well ![](Defensive behaviour.png) ](dilbert-criticism-1.gif) 
 
 
 

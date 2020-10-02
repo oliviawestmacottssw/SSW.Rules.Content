@@ -12,14 +12,14 @@ authors:
 When administrators need different credentials to login to a SharePoint site, there are different ways to implement it. 
 1. Obvious "Login" link for administrators:
 
-![LoginLink.png](LoginLink.png)
+![](LoginLink.png)
 Bad example: Obvious 'login' link for administrators 
 2. Use little dot for a hidden link:
 
-![HiddenDotLink.png](HiddenDotLink.png)
+![](HiddenDotLink.png)
 Bad example: little dot for a hidden link
 
 3. Use /admin/ to let administrators to login (WordPress nearly got it right with /wp-admin/):
 
-![AdminURL.png](AdminURL.png)
+![](AdminURL.png)
 Good example: Use /admin/ URL for administrators

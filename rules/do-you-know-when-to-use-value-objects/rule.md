@@ -20,7 +20,7 @@ The underlying implementation for the     **AdAccount** class is as follows:
 The     **AdAccount** type is based on the     **ValueObject** type, which you can view here;     https://github.com/SSWConsulting/NorthwindTraders/blob/master/Northwind.Domain/Infrastructure/ValueObject.cs.
 
 Working with the AD accounts will now be easy. You can construct a new     **AdAccount** with the factory method     **For **as follows:
-![when-use-value-eg-1.png](when-use-value-eg-1.png)
+![](when-use-value-eg-1.png)
 The factory method     **For** ensures only valid AD accounts can be constructed and for invalid AD account strings, exceptions are meaningful, i.e.     **AdAccountInvalidException** rather than     **IndexOutOfRangeException**.
 
 Given an     **AdAccount** named account, you can access:

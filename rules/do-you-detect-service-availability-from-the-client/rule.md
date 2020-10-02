@@ -55,6 +55,6 @@ If, for example, your site displays videos, you can detect that YouTube is not a
 Both these options require service detection to operate properly. Remember that attempting to connect to a blocked service from China could take a long time to timeout, potentially adding significant loading times to your site.
 
 **Solution 1: Remove the content**
-![youtuberemove.png](youtuberemove.png)
+![](youtuberemove.png)
 **Solution 2: Provide an alternative to the blocked service**
-![youku.png](youku.png)
+![](youku.png)

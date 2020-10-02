@@ -17,12 +17,12 @@ Include:
 4. Link to company website + slogan  (e.g. www.ssw.com.au - Writing software people understand)
 
 
-![RSRulesBadFooter.gif](RSRulesBadFooter.gif)
+![](RSRulesBadFooter.gif)
  
 Bad Example - This footer doesn't provide any useful information 
 
 
-![RSRulesGoodFooter.gif](RSRulesGoodFooter.gif)
+![](RSRulesGoodFooter.gif)
 Good Example - Useful and informative information should be displayed in your report footer
 
  
@@ -42,7 +42,7 @@ Use these handy report expressions to show the above information.
 
 
 
-![footerInDesigner.gif](footerInDesigner.gif)
+![](footerInDesigner.gif)
 Good Example - Footer in visual studio designer
 
  

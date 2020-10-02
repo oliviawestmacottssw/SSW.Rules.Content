@@ -12,7 +12,7 @@ authors:
 Although many have differing opinions on this matter, Windows has standard storage locations for files for application, whether they're settings or user data. Some will disagree with those standards, but it's safe to say that following it regardless will give users a more consistent and straightforward computing experience.
 
 The following grid shows where application files should be placed:
-![store-files.jpg](store-files.jpg)  
+![](store-files.jpg)  
 
 
 ### Further Information

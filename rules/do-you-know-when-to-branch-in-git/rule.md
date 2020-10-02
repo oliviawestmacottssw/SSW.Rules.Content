@@ -82,13 +82,13 @@ Some prefer to move this step to after the merge, especially when using a releas
 Once everyone is happy and everything is tested, complete the pull request, which will merge back to     ** master**. Ensure you are not using the "Fast Forward" merge option (git), or details about the branch will be lost - it will appear as though all work was done in     **master**. Being able to see the feature branches in the git log is very useful.
 ![ Good Example - Each change is well described, small and in its own feature branch.](GoodGitHistory.png)
 After you completed the pull request, make sure you also delete the branch     that you made the pull request of. Deleting your completed branch will not just help yourself in the long run, but also everyone else. Having too many branches especially a stale one will confuse developers on what "may" be in progress, moreover it would cause so much pain to the future developer when they have to do a clean-up and the branch author has left.
-![bad-figure-stale-branches2.png](bad-figure-stale-branches2.png)
+![](bad-figure-stale-branches2.png)
 
 
         Figure: Bad Example - Lots of stale branches that could cause confusion or potentially take a long time to resolve conflicts when merging
 
 Otherwise, you can do it before you complete the pull request by ticking     delete branch option.
-![delete branch in devops.png](delete branch in devops.png)
+![](delete branch in devops.png)
 
         Figure: Good Example - Automatically delete the branch after the pull<br>        request completion in Azure Devops
 ![ Good Example - Set the whole project to auto-delete branch after<br>        merging in GitHub](github settings.png)        

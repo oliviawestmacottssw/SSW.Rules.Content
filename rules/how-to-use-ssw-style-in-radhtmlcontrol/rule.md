@@ -27,7 +27,7 @@ We have a program called [http://rules.ssw.com.au/WebSites/RulesToBetterWebsites
 
 
 
-![Lookout Reply All BCC Warning](<a shape=)http://rules.ssw.com.au/WebSites/RulesToBetterWebsitesLayout" />
+![](<a shape=)http://rules.ssw.com.au/WebSites/RulesToBetterWebsitesLayout" />
 
 
 **

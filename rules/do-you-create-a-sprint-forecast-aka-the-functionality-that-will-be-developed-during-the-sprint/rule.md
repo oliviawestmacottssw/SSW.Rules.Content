@@ -64,6 +64,6 @@ More instructions are as below:
 
 1. Go to Azure DevOps and navigate to the current sprint's backlog view. E.g. https://dev.azure.com/Northwind/ProjectName/\_sprints/backlog/Northwind/ProjectName/Sprint%201
 2. Paste to the Forecast email, and format the table:
-    - Remove any useless columns![Good Example of a Table](Sprint forecast example table.jpg)
+    - Remove any useless columns![](Sprint forecast example table.jpg)
 
     Figure: Good Example of a Table

@@ -10,4 +10,4 @@ authors:
 ---
 
 Setting up a WordPress site hosted on Windows Azure is easy and free, but you only get 20Mb of MySql data on the free plan.
- ![ Once you approach your 20Mb limit you will receive a warning that your database may be suspended![](wp-db-azure2.jpg)](wp-db-azure1.jpg)
+ ![ Once you approach your 20Mb limit you will receive a warning that your database may be suspended![](wp-db-azure1.jpg)

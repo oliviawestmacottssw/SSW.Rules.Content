@@ -32,7 +32,7 @@ Other sinks allow you to:
 
 
 Many other sinks are available as described here: https://github.com/serilog/serilog/wiki/Provided-Sinks
- ![ Bad Example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime ![](trace-logging-bad-2.jpg) ](trace-logging-bad.jpg) 
+ ![ Bad Example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime ![ ](trace-logging-bad.jpg) 
 Serilog should be added to your project via the NuGet package manager.
 
 See also [Do you use the best middle tier .NET libraries?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=9ea489f4-032b-4e5b-a0e0-df5a0c3148fe)

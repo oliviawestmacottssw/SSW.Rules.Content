@@ -18,4 +18,4 @@ Injecting your dependency gives you:
 - All dependencies are specified in one place
 - Class dependencies are clearly visible in the constructor
 
- ![ Bad Example – A solution where each layer depends on static classes is not maintainable or testable ![inject](inject-good-1.jpg) ](inject-bad-1.jpg)
+ ![ Bad Example – A solution where each layer depends on static classes is not maintainable or testable ![inject ](inject-bad-1.jpg)

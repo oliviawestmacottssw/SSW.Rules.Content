@@ -40,4 +40,4 @@ The dashboard should contain:
 Your solution should also contain the standard [\_Instructions.docx](/Pages/DoYouMakeInstructions.aspx) to your solution file for additional details on getting the project up and running in Visual Studio.
 
 For particularly large and complex projects you can use an induction tool like [SugarLearning](https://www.sugarlearning.com/) to create a course for getting up to speed with the project.
-![2016-06-06_7-18-43.png](2016-06-06_7-18-43.png)
+![](2016-06-06_7-18-43.png)

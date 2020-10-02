@@ -17,7 +17,7 @@ Debugging JavaScript application can be difficult. Having to console.log results
 
 
 1. **Debug your JavaScript using console.log()
-**While this is a valid approach it should only be utilized for the simplest of manual debugging tests as they are slow, you have to re-run the app every time, do not allow you to change state mid-flight and developers sometimes forget to clean up after themselves and the code becomes riddled with console.log statements.  ![debug-js-1.png](debug-js-1.png) Bad code - Using console.log() to debug your JavaScript
+**While this is a valid approach it should only be utilized for the simplest of manual debugging tests as they are slow, you have to re-run the app every time, do not allow you to change state mid-flight and developers sometimes forget to clean up after themselves and the code becomes riddled with console.log statements.  ![](debug-js-1.png) Bad code - Using console.log() to debug your JavaScript
 2. **Debug in the browser with a breakpoint
 **Chrome is by far the most popular browser for the average web developer followed by Firefox, but all the major browsers have a debugging tool.  ![ Old school JavaScript debugging with Chrome Dev Tools is still the best and most versatile tool](debug-js-2.png) 
 3. **Debug in an IDE**

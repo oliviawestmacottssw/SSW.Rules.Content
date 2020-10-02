@@ -11,17 +11,17 @@ authors:
 
 **TODO Matt. W**.: Flesh out rule content
  
-![Jekyll.jpg](Jekyll.jpg)
+![](Jekyll.jpg)
 Bad Example: Jekyll - Great but too simple
 
 
 
-![NextJS.jpg](NextJS.jpg)
+![](NextJS.jpg)
 Bad Example: NextJS - We had reliability issues with page generation
 
 
 
-![Gatsby.jpg](Gatsby.jpg)
+![](Gatsby.jpg)
 Good Example: Gatsby
 
 Gatsby is great because it's simple and yet powerful. It works natively with GitHub as a Datasource and you can query via GraphQL based on Tags and Branches.
