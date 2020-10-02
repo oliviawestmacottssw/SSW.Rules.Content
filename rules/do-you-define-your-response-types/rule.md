@@ -10,8 +10,11 @@ authors:
 ---
 
 It is important to define your response types.
-[[badExample]]
-| ![ Bad example – no response types![good-response-types.png](good-response-types.png)](bad-no-response-types.jpg)<br>dd>
+
+![](bad-no-response-types.jpg)<br>dd>Figure: Bad example – no response types
+[[goodExample]]
+| ![ Good example – Response types ](good-response-types.png)
+(in .NET) 
 
 
 /// 

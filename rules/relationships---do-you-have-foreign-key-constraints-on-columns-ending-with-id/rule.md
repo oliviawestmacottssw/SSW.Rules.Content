@@ -10,4 +10,5 @@ authors:
 ---
 
 Columns ending with 'ID' should have FOREIGN KEY constraints.
- ![ Missing relationships](NorthwindRelationships.jpg)
+ 
+![ Missing relationships](NorthwindRelationships.jpg)

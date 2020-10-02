@@ -61,7 +61,9 @@ CREATE TABLE dbo.Shippers
 **WITH (SYSTEM\_VERSIONING = ON (HISTORY\_TABLE = dbo.ShippersHistory));**
 Figure: Shippers table from the Northwind schema converted to a temporal table.
 
+
 ![ New temporal table shown in SQL Management Studio.](Shippers_TemporalTable.PNG)
+
 
 
 

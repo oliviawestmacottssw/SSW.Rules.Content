@@ -38,7 +38,9 @@ Bad options for updating database schema - No ability to validate that the datab
 - Visual Studio 2017 + [SQL Server Data Tools](https://visualstudio.microsoft.com/vs/features/ssdt/) (Formerly Data Dude) + Deploy (post-development model)
 - Red Gate SQL Compare + Red Gate SQL Packager (post-development model)
 
+
 ![ Don't use Data Dude](DataDude-BadExample.jpg)
+
 public partial class GenderToString : DbMigration
  {
  public override void Up()

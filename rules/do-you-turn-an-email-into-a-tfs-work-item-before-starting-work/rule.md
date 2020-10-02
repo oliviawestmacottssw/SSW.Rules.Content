@@ -14,7 +14,9 @@ authors:
 ---
 
 If a product owner sends an email to the development team with a request, that email should be turned into a TFS Work Item before any work is started or the work is prioritized on the backlog.  If you’re using Team Companion, this is easily done with the New Work Item from Mail button.
- ![ Team Companion lets you create a new work item straight from an email](email-to-tfs-1.jpg)
+ 
+![ Team Companion lets you create a new work item straight from an email](email-to-tfs-1.jpg)
+
 If the email's contents or subject do not need changing, then no response email is required. This would create another unnecessary email in the world.
 
 However, if the subject is unclear, send a response as per the rules [Do you know when you should change a subject?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=5df965e4-26d3-410d-88a9-880dde8f4353) and [Do you realize the importance of a good email Subject?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f4073e2a-b089-4a7f-8ee6-a7b1a48509e8)
@@ -22,7 +24,9 @@ However, if the subject is unclear, send a response as per the rules [Do you kno
 If the request from the client is too large for one Work Item, then it will need to be turned into multiple Work Items as per the rule  [Do you keep your PBIs smaller than 2 days' effort?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=c0d01e55-619e-4f99-a480-6c9f0bfe9855) In this case, you will need to let the client know this and include URLs to each Work Item.
 
 **Note:** Once you've moved the email into TFS as a work item, you should delete the original email from your inbox or move it to an Outlook folder called "Moved to TFS" to avoid duplication.
+
 ![ Now the new Product Backlog Item is in the Product Backlog](2014-11-10_13-17-43-compressor.png)
+
 
 ### Related rules
 

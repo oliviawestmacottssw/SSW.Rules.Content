@@ -25,7 +25,13 @@ Let's have a look at the best way to get authorization:
     - If this is for a client, include the Client ID/name
     - If it is for a client, include if it is to be on-charged (E.g. please invoice - add 20%)
 
- ![ Bad Example - this expense will not be reimbursed  ![](purchase-please-good-example.jpg)  ](purchase-please-bad-example.jpg)  
+ 
+[[badExample]]
+| ![ Bad Example - this expense will not be reimbursed  ](purchase-please-bad-example.jpg)  
+
+[[goodExample]]
+| ![ Good Example - this expense will be reimbursed, if David gets a reply from Adam](purchase-please-good-example.jpg)  
+
 ### Related Rule 
 
 

@@ -35,6 +35,13 @@ Assuming that Windows 10 in already installed, then get your SOE installed fast 
 6. In case you lose your laptop, it is a good idea to stick a business card to the bottom
 7. For branding reasons, stick your company sticker to the laptop
 
- ![ SSWLoginScript.bat ](LoginScript.jpg) 
+ 
+![ SSWLoginScript.bat ](LoginScript.jpg) 
 
- ![ SSWPackages.ps1 which runs Chocolatey command to install SOE software ![NonChocolateySoftware.jpg ](ChocolateyScript.jpg)
+
+ 
+![ SSWPackages.ps1 which runs Chocolatey command to install SOE software ](ChocolateyScript.jpg) 
+
+![ SOE Software that are not supported by Chocolatey ](NonChocolateyApp.jpg) 
+
+![ Company branding on laptop ](SSWLaptopBranding.jpg)

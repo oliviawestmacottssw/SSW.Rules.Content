@@ -27,7 +27,9 @@ Copying the content to a MicroFeed list is not supported.
 **Solution:** Clean up all “MicroFeed" lists as they are not supported to be migrated to the cloud.
 
 **Source: ** https://support.share-gate.com/hc/en-us/articles/115000600227
- ![ errors due to micro feed migration](errors-micro-feed-migration.png)
+ 
+![ errors due to micro feed migration](errors-micro-feed-migration.png)
+
 ### Lookup fields
 
 **Error:** Property Receipt: The following values are unavailable: 'XXXXX'. Please specify another value.

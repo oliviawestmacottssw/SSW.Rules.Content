@@ -15,6 +15,7 @@ Use the template below to brainstorm with your team or your client:
 
 
 
+
 ![](Pain Point Pinpointer.png)
 
 You have a few some ways of doing this, you can: 

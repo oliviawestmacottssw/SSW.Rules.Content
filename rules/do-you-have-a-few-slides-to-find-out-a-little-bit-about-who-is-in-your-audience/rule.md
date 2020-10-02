@@ -14,4 +14,7 @@ It is best to confirm who you are speaking to via a few slides. Then you can mak
 - Interesting to them
 - Relevant to them
 
-![ Ask "How many are developers here?" ![](manager.gif) ](developer.gif)
+
+![ Ask "How many are developers here?" ](developer.gif) 
+
+![ Ask "How many are managers here?" ](manager.gif)

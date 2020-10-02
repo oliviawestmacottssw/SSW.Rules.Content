@@ -21,9 +21,11 @@ Make sure your company has a common code base and email template store and endea
 
 The best approach to reuse code across multiple projects is to create Nuget Packages. When you need to update that library, it is then trivial to apply that update to your client projects.
 
+
 ![](BCE_Nuget_Server.png)
 Good Example: when reusing code across multiple projects for a single client, hosting your own Nuget Server provides an excellent way to manage shared private dependencies
 For details on creating your own internal Nuget repository, read this rule:[https://rules.ssw.com.au/do-you-create-a-private-repository-for-reusable-internal-code](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=91a40442-d5ea-40a5-b442-33419f9fd369)
+
 
 
 

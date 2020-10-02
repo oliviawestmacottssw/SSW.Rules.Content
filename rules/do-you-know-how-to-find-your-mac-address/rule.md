@@ -27,6 +27,7 @@ iPhone
 1. Open the **Settings** app
 2. Navigate to **General | About**
 3. Look for **WiFi Address
+
 ![](iphone-mac.png)**
 
 
@@ -37,6 +38,7 @@ iPhone
 2. Tap **About Phone**
 3. Tap **Status/Hardware information**
 4. Scroll down to see your** ****WiFi/MAC address
+
 ![](android-mac-address.jpg)
 **
 

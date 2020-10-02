@@ -26,12 +26,19 @@ In Visual Studio:
 - Argument: /run (so that the tests run automatically when started)
 - Initial Directory: $(Target directory)
 
- ![ Bad Example - NUnit In Visual Studio](NUnitInVStudio.jpg)
+ 
+[[badExample]]
+| ![ Bad Example - NUnit In Visual Studio](NUnitInVStudio.jpg)
+
 ### Option 2: Test Driven .net
 
 
 TestDriven.net has better NUnit integration – from both code and Solution Explorer windows.
-![ Better way - Use TestDriven.Net - it has a 'Run Test(s)' command for a single test (above) or...![GUIBringUpAction.jpg](GUIBringUpAction.jpg)](UseTestDriven.jpg)
+
+![ Better way - Use TestDriven.Net - it has a 'Run Test](UseTestDriven.jpg)
+(s)' command for a single test (above) or...
+![ ...you can right-click on a project and select 'Test With > NUnit' to bring up the GUI. It is certainly more convenient](GUIBringUpAction.jpg)
+
 To run unit testing: Tools > NUnit GUI to launch NUnit and run the tests.
 
 ### Option 3: Other Tools

@@ -21,4 +21,12 @@ authors: []
 This is a fancy way of saying use the right graph for  the right purpose. Pie graphs fulfill a specific requirement, unlike a  bar graph which is more multi-purpose.
  
 Pie graphs are used to show the general composition of an element. It's good for seeing at a glance what section is dominating, but it doesn't handle details very well.
-![ Bad Example - This Pie Graph is too complicated and difficult to understand.![Good Label ](../../assets/PieGraph.gif)
+
+[[badExample]]
+| ![ Bad Example - This Pie Graph is too complicated and difficult to understand.](../../assets/PieGraph.gif) 
+
+[[goodExample]]
+| ![ Good Example - This Pie Graph has been simplified and it is easy to see at a glance that Nike sold the most sneakers this month compared to others.](../../assets/PieGraph-Good.jpg) 
+
+[[goodExample]]
+| ![ Good Example - This Bar Graph data hasn't even been processed but it's still readable.](../../assets/BarGraph.gif)

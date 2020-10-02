@@ -21,4 +21,5 @@ Note: Make sure you are ready for the review. Have a scribe and how you are demo
 
 The objective of the Review meeting is to have the story accepted quickly.
 
+
 ![ Out of the box the Microsoft Scrum Template supports a ‘Story Owner’ via the ‘Owned By’ field](NewProductBacklog.jpg)

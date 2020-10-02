@@ -22,7 +22,10 @@ d.               Navigate to Application Tier / Team Project Collections.
 
 e.              For each Team Project Collection, select it, and click "Stop Collection". Enter a useful message (this will be displayed to users trying to connect from Visual Studio) and click "Stop":
 
+
 ![ Stop each Team Project Collection](stop each term.png)
+
+
 
 
 
@@ -30,6 +33,8 @@ e.              For each Team Project Collection, select it, and click "Stop Col
 
 
 
+
 f.               In Visual Studio, confirm you can no longer connect to TFS
+
 
 ![ Visual Studio shows the message that you entered when you stopped the Team Project Collection](visual studio.png)

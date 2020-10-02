@@ -11,10 +11,12 @@ HTML5 introduced a whole slew of new type properties for forms. Gone are the day
 
 Although most of these don't do anything on desktop, on mobile devices they bring up the correct keyboard. As we move into a more mobile digital age, small things like the proper numerical keyboard or a keyboard with a quick ".com" becomes increasingly important.
  
+
 ![](fieldtype-text.PNG)
 
 Phone: type="text" name="phone">
 Figure: Bad Example – This field is using a text type and shows a standard keyboard on mobile
+
 
 ![](fieldtype-tel.PNG)
 

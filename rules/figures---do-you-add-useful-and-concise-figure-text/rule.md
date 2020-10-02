@@ -18,7 +18,10 @@ When you add an image to a website or application, it is so useful to add a figu
 It's the best way of ensuring you catch users' attention to the content of your page. When you're scanning a newspaper for interesting articles, you'll check out the pictures, read the accompanying description, and if it sounds interesting you'll go back and read the article.
  
 Users read websites in a similar fashion. Catch their attention with an image, and then keep it with a useful description. Don't just describe what the image is; say what it's used for in the context of the document.
-![ Good Example - Some nice useful text describing the image](good-caption.jpg)
+
+[[goodExample]]
+| ![ Good Example - Some nice useful text describing the image](good-caption.jpg)
+
 
 It is especially important that images and captions serve a purpose, as opposed to graphics which are there solely for design.
 

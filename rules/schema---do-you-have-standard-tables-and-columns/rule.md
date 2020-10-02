@@ -25,7 +25,9 @@ authors:
 
  
 The first three are examples of bad table records. The last one is an example of how this table structure should be entered.
+
 ![ 3 bad examples and 1 good example of Row auditing](imgGoodBadPracticesExampleSQLFields.png)
+
 **Note #1:** Never set the CreatedUtc field - instead use a default GETUTCDATE()
 **Note #2:** These fields offer basic row auditing that will cover the majority of applications. When an application has specific auditing requirements, they should be analysed to see if this approach is sufficient.
 

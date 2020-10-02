@@ -30,15 +30,24 @@ When selecting a Dependency Injection container it is worth considering a number
 The top tools all contain comparable functionality. In practice which one you use makes little difference, especially when you consider that your container choice should not leak into your domain model.
 
 **Important:** Unless a specific shortfall is discovered with the container your team uses, you should continue to use the same container across all of your projects, become an expert with it and invest time on building features rather than learning new container implementations.
-![ Bad Example - Ninject was a top container but is no longer developed as actively as Autofac and Structuremap. Both Autofac and Structuremap have active communities and contributors that ensure they stay up to date with the latest changes in .Net](dic-bad.png) 
- ![ Good Example - Autofac has a great combination of performance and features and is actively developed ](dic-good.png) 
+
+[[badExample]]
+| ![ Bad Example - Ninject was a top container but is no longer developed as actively as Autofac and Structuremap. Both Autofac and Structuremap have active communities and contributors that ensure they stay up to date with the latest changes in .Net](dic-bad.png) 
+
+ 
+[[goodExample]]
+| ![ Good Example - Autofac has a great combination of performance and features and is actively developed ](dic-good.png) 
+
 **Note:** Autofac's support for child lifetime containers may be  significant for some: 
 [http://nblumhardt.com/2011/01/an-autofac-lifetime-primer](http://nblumhardt.com/2011/01/an-autofac-lifetime-primer/)
 
 StructureMap does also support a kind of child container:
 http://codebetter.com/jeremymiller/2010/02/10/nested-containers-in-structuremap-2-6-1/
 
-![ Good Example - the web / mvc integration package layer for Autofac is developed by the same core Autofac team. Some containers (such as Structure Map) require third-party integration layers   ](Autofac_web.png)
+
+[[goodExample]]
+| ![ Good Example - the web / mvc integration package layer for Autofac is developed by the same core Autofac team. Some containers ](Autofac_web.png)
+(such as Structure Map) require third-party integration layers   
 
 ### Further Reading:
 

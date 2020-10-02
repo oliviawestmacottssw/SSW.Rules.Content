@@ -29,4 +29,5 @@ So in conclusion, if you will only ever need 1 report, go with ASP.NET - it is e
 For a more detailed comparison between reporting solutions, take a look at our [Guidelines for Report Solutions - Web Clients](http://www.ssw.com.au/ssw/Standards/DeveloperDotNet/guidelinesforreportingwebclient.aspx).
 
 
+
 ![ Reporting Services has built-in support for PDF/XLS export and can be embedded in your ASP.NET pages](RSRulesUseRS1.gif)

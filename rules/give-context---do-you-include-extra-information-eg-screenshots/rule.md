@@ -7,4 +7,6 @@ authors: []
 
 ---
 
-## ![ Good Example - The screenshot provides more, useful information and gives the user context](../../assets/GoodMoreInfo.png)
+## 
+[[goodExample]]
+| ![ Good Example - The screenshot provides more, useful information and gives the user context](../../assets/GoodMoreInfo.png)

@@ -12,4 +12,6 @@ authors:
 Websites should have an uptime report to provide real-time and historical performance and availability information. 
  
 Plus, with history information, you can get exact downtime of your website or services in the past.
-![ Google's uptime reports - with history information. <br>      [See it now](http://www.google.com.br/appsstatus)](google-uptime-report.jpg)
+
+![ Google's uptime reports - with history information. <br>      ](google-uptime-report.jpg)
+[See it now](http://www.google.com.br/appsstatus)

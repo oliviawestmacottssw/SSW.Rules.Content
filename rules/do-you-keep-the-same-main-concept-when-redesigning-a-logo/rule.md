@@ -12,4 +12,6 @@ authors:
 ---
 
 It's perfectly normal that a logo starts to look outdated in over decades, so it needs a refresh. In this case, you should aim to keep the most recognizable characteristics of the old logo, so people will automatically know it's the same company when they first see the new logo.
-  ![ Good Example - Although the SSW logo was completely redesigned, you can easily recognize it's the same company because the logo concept didn't change](sswlogo-comparison.jpg)
+  
+[[goodExample]]
+| ![ Good Example - Although the SSW logo was completely redesigned, you can easily recognize it's the same company because the logo concept didn't change](sswlogo-comparison.jpg)

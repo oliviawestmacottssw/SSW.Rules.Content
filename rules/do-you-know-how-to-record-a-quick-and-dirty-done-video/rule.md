@@ -59,7 +59,9 @@ Here's a quick video describing how to record and edit a quick done video. (Noti
 
 **Tip:** Some offices have a professional setup.
 E.g. SSW have the                 **Marantz Turret** hardware and desktop recording kit. The Turret is an ideal device to record these videos as it has a professional podcasting microphone, built-in light and good quality High Definition video camera.
-![ 'Done' video in progress using a Marantz turret broadcasting kit Learn more about the Turret: <br>            [Product Review: The Marantz Turret — Wistia](https://wistia.com/learn/production/marantz-turret-review?wvideo=whmpjct7xj)](turret-usage.jpg)
+
+![ 'Done' video in progress using a Marantz turret broadcasting kit Learn more about the Turret: <br>            ](turret-usage.jpg)
+[Product Review: The Marantz Turret — Wistia](https://wistia.com/learn/production/marantz-turret-review?wvideo=whmpjct7xj)
 
 
 ### Camtasia - Let's look at an example by Ben Cull
@@ -83,7 +85,9 @@ After recording your video, you need to do some basic sound processing to make t
 - On the timeline, move the new audio meter up just until the audio waveform is about to hit the top
 - Listen and adjust as necessary
 
+
 ![ audio effects panel with the compressor](audio-effects-panel.png)
+
 
 ### Tip: Camtasia 9 - How to fade-out and fade-in the video track of your face in Camtasia 9
 
@@ -94,7 +98,9 @@ After recording your video, you need to do some basic sound processing to make t
 4. Select the **Full Opacity (4) **animation effect for fade-in.
 5. **Drag and drop the Full Opacity effect (5) ** to the point in the track where you want to fade-in. Adjust the start  and end point of the fade using the handles on the animation arrow.
 
+
 ![ Camtasia - Steps for adding fade-out/fade-in animation to video track of your face in 'Done' video](fade in and out.png)
+
 
 ###  Final Step – Export your video  
 
@@ -102,15 +108,21 @@ After recording your video, you need to do some basic sound processing to make t
 Follow the steps to export your video:
 
 1. Click the Share button on the top right of the window
+
 ![](export-video1.png)
-2. In the new dialog, select custom production settings <br>                     ![](export-video2.png)
-3. In the next window, uncheck the ‘Produce with controller’ option <br>                     ![](export-video3.png)
+2. In the new dialog, select custom production settings <br>                     
+![](export-video2.png)
+3. In the next window, uncheck the ‘Produce with controller’ option <br>                     
+![](export-video3.png)
 4. In the ‘Video settings’ tab, copy these settings:
 -	Frame Rate: 30
 -	H.264 Profile: High
 -	Encoding mode: Quality
-    o	Increase the quality to 100% <br>                     ![ Copy these settings](export-video4.png)
-5. In the ‘Audio settings’ tab, make sure the Bit rate is set to 320 kbps <br>                     ![](export-video5.png)
+    o	Increase the quality to 100% <br>                     
+![ Copy these settings](export-video4.png)
+
+5. In the ‘Audio settings’ tab, make sure the Bit rate is set to 320 kbps <br>                     
+![](export-video5.png)
 6. Click Next and save your file!
 
 

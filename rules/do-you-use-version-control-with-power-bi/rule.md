@@ -38,11 +38,23 @@ Here’s the pros and cons we’ve found for each file type:
 **Power BI pbix files** can get very large, but when you open them, the data is there and you can immediately make changes to the report. However, if your workplace is geographically dispersed, then upload and download times to/from source control will be a consideration.
 
 Having a mixed set of rules for storing different file types based on their size will quickly get messy if you have a number of reports, so make a decision to go one way or the other based on your environment.
-![ Bad Example – Mixed Template and Power BI Files in Source Control![](PowerBI-SourceControl-GoodExample.png)](PowerBI-SourceControl-BadExample.png)
+
+[[badExample]]
+| ![ Bad Example – Mixed Template and Power BI Files in Source Control](PowerBI-SourceControl-BadExample.png)
+
+[[goodExample]]
+| ![ Good Example – Single File Type in Source Control](PowerBI-SourceControl-GoodExample.png)
+
 To export a template from Power BI Desktop, select File | Export | Power BI template from the menu, enter a description, file name and click save, as per the below figures.
+
 ![ Exporting a Power BI Template from Power BI Desktop](PowerBI-SourceControl-1-3.jpg) 
+
 Add comments describing the changes made to the report and append to these, in descending order, each time a change is made. This way the history will be at hand each time the template is opened.
-![ Enter a Description for the Template![](PowerBI-SourceControl-3-3.jpg)](PowerBI-SourceControl-2-3.jpg)
+
+![ Enter a Description for the Template](PowerBI-SourceControl-2-3.jpg)
+
+![ Enter a File Name and Save](PowerBI-SourceControl-3-3.jpg)
+
 Save your pbix file to the same folder as the template above, you’ll need these if you want to publish your report to Power BI Online.
 
 If you’ve decided to store template pbit files in source control, ensure you’ve set your source control application to ignore \*.pbix files.

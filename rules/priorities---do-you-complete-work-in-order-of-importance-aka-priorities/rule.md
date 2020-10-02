@@ -14,7 +14,9 @@ authors:
 With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others. 
  
 The word "Urgent" is more important than the word "Important"
- ![ Remove roadblocks](challenges-ahead-sign.jpg) 
+ 
+![ Remove roadblocks](challenges-ahead-sign.jpg) 
+
 This is the order which you should work:
 
 1. **Urgent emails** - emails with "URGENT" in the subject e.g. URGENT - the website is down
@@ -42,10 +44,16 @@ Tip #1: Don't move an important task out of your inbox unless:
 
 
 Tip #2: Use inbox subfolders to group and prioritize tasks
- ![ Group by subfolders under your inbox ![Tasks](tasks-illustration.jpg) ](subfolders.png) 
+ 
+![ Group by subfolders under your inbox ](subfolders.png) 
+
+![ Efficient people keep a priority list ](tasks-illustration.jpg) 
+(often written)
 Also, it's common that priority orders change, but clients don't always mean to, so double check that the client means this.
 
 When someone is asking you to do a new task, and you are still working on some other task, you should ask:
 
 "Are you changing the priority order? Do you want this new task done before the current task I'm working on, which is xxx."
-Figure: Confirm with the client "Are you changing the prior order?" ![ Prioritization - The most recent task assigned is not necessarily the most important. Mentally do this (e.g. an air traffic controller does not deal with the newest plane that has popped up on his radar when he has 4 lined up to land ](prioritization.jpg)
+Figure: Confirm with the client "Are you changing the prior order?" 
+![ Prioritization - The most recent task assigned is not necessarily the most important. Mentally do this ](prioritization.jpg) 
+(e.g. an air traffic controller does not deal with the newest plane that has popped up on his radar when he has 4 lined up to land

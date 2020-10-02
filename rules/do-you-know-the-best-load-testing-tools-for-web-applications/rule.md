@@ -22,4 +22,5 @@ Most commercial tools will support up to 50 virtual users in the load test but o
 - [LoadImpact.com](https://loadimpact.com/)
 - [jmeter.apache.org](http://jmeter.apache.org/)
 
- ![ Load Storm results](testingtools9.jpg)
+ 
+![ Load Storm results](testingtools9.jpg)

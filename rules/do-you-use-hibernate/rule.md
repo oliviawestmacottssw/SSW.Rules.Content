@@ -13,10 +13,14 @@ Hibernate is a power-saving state designed primarily for laptops, and might not 
 To enable the Hibernate option in Windows 10, make sure that your system hardware supports hibernation and then follow the steps below to enable it. (Do not use Hibernate of Fast Startup if you are dual booting).
 1. Open Power Options by typing *Power Options* in Start and choosing the first result.
  Alternatively, you can right-click on the Start button and select *Power Options*.
-2. Select *Choose what the power buttons* do from the left panel.![](../../assets/choose-what-power-button-does-power-options.png)
-3. Click on *Change settings that are currently unavailable*.![](../../assets/change-unavailable-settings-win-10-power-options.png)
-4. Now check the box in front of *Hibernate – Show in Power menu* under Shutdown settings.![](../../assets/enable-hibernate-power-options-win-10.png)
-5. Finally click on Save settings and you will now find the Hibernate option under the Power menu on Start or Win + X menu.![](../../assets/hibernate-power-options-star-10.png)
+2. Select *Choose what the power buttons* do from the left panel.
+![](../../assets/choose-what-power-button-does-power-options.png)
+3. Click on *Change settings that are currently unavailable*.
+![](../../assets/change-unavailable-settings-win-10-power-options.png)
+4. Now check the box in front of *Hibernate – Show in Power menu* under Shutdown settings.
+![](../../assets/enable-hibernate-power-options-win-10.png)
+5. Finally click on Save settings and you will now find the Hibernate option under the Power menu on Start or Win + X menu.
+![](../../assets/hibernate-power-options-star-10.png)
 
 
 Love hibernate? Make sure that you still properly shut down your PC once in a while to keep it working normally.

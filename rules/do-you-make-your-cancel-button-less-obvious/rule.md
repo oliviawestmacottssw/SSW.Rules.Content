@@ -11,7 +11,9 @@ authors:
 
 ---
 
-To avoid users accidentally cancelling an operation when they thought they where clicking the save button you should always make your cancel button less obvious.  ![](bad-cancel-button-example.jpg)Bad example: Cancel button looks like a save button![good-example-cancel-button.jpg](good-example-cancel-button.jpg)Good example: Cancel button is less obvious
+To avoid users accidentally cancelling an operation when they thought they where clicking the save button you should always make your cancel button less obvious.  
+![](bad-cancel-button-example.jpg)Bad example: Cancel button looks like a save button
+![](good-example-cancel-button.jpg)Good example: Cancel button is less obvious
 **Which side should the cancel button be on?**
 
 It depends which operating platform your program runs on:

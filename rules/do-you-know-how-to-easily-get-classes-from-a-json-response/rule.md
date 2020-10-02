@@ -14,12 +14,17 @@ When integrating with external Web APIs which return a JSON response, there is a
 
 Execute the request, and copy the text of the JSON response.
 
+
 ![](8-08-2014-3-41-23-PM-compressor.png)
 
 Create a new class in Visual Studio, and Click Edit | Paste Special | Past As JSON Classes and classes will be generated from the JSON in the clipboard.
 
+
 ![ Edit | Paste Special | Paste JSON As Classes](8-08-2014-3-53-17-PM-compressor.png)
 
+
+
 ![ Classes generated from the JSON](8-08-2014-3-56-34-PM-compressor.png)
+
 
 The results may need cleaning up a little bit, but its much easier than trying to write them manually.

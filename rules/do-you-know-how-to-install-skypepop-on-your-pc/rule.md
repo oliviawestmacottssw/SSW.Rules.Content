@@ -29,7 +29,8 @@ Only receptionists should have SkypePOP installed.
 2.      The CRM contact pops up (or a "new contact" form if the number is not already in your CRM):
 
 
-> ![](1.png)
+> 
+![](1.png)
 
 
 
@@ -38,7 +39,8 @@ Only receptionists should have SkypePOP installed.
 3.      Send Email
 
 
-> ![](2.png)
+> 
+![](2.png)
 
 
 
@@ -76,13 +78,16 @@ Email: standard generic email
 2.** **     Open the        **Connections** settings
 
 
-> ![ Right click on the SkypePOP icon in the taskbar](2016-11-18_16-35-15.jpg)
+> 
+![ Right click on the SkypePOP icon in the taskbar](2016-11-18_16-35-15.jpg)
+
 
 
 
 
 3.      Add your CRM connection details
-Tip: Go to Main | Settings | Customizations | Developer Resources in order to find the address for your CRM <br>      ![](CRM_Endpoint_Address_SkypePOP.jpg)
+Tip: Go to Main | Settings | Customizations | Developer Resources in order to find the address for your CRM <br>      
+![](CRM_Endpoint_Address_SkypePOP.jpg)
 
 
 > **Figure: Copy the Endpoint Address for your Organization Service**
@@ -90,7 +95,8 @@ Tip: Go to Main | Settings | Customizations | Developer Resources in order to fi
 > **
 > **
 > 
-> **![](2016-12-02_15-14-23.jpg)
+> **
+![](2016-12-02_15-14-23.jpg)
 > **
 > 
 > **Figure: Enter your CRM Connection Details
@@ -105,12 +111,15 @@ The following shows how to connect to SSW CRM:
 ·        Username:  @ssw.com.au
 ·        Password: 
 ·        Organization: Live
-![ Example CRM connection settings (this URL is working, too)](40.jpg)  
+
+![](40.jpg)**  Figure: Example CRM connection settings (this URL is working, too)**
 
 4.      Change the SkypePOP **Preferences**
 
 
-> ![ Right click on the icon in the taskbar and select “Preferences”](2016-12-22_9-13-03.jpg) 
+> 
+![ Right click on the icon in the taskbar and select “Preferences”](2016-12-22_9-13-03.jpg) 
+
 
 
 
@@ -118,7 +127,8 @@ The following shows how to connect to SSW CRM:
 
 5.      Configure the <br>      **Dynamics CRM** settings to something similar to this: <br>      
 
-> ![](50.jpg)
+> 
+![](50.jpg)
 
 
 
@@ -132,7 +142,9 @@ The following shows how to connect to SSW CRM:
 7.      Review the           **SkypePOP - Skype for Business** settings
 
 
-> ![ These are the default Skype for Business settings](2016-11-18_16-44-59.jpg)
+> 
+![ These are the default Skype for Business settings](2016-11-18_16-44-59.jpg)
+
 
 
 
@@ -140,7 +152,8 @@ The following shows how to connect to SSW CRM:
 
 
 
-> ![](2016-11-18_16-47-00.jpg)
+> 
+![](2016-11-18_16-47-00.jpg)
 > Figure: Check that you are properly connected - blue is success
 
 

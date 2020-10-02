@@ -13,7 +13,8 @@ authors:
 
 ---
 
-[![ The layers of the onion architecture ](Onion-Architecture.jpg)](/Documents/Onion-Architecture.pdf)
+[
+![](Onion-Architecture.jpg)](/Documents/Onion-Architecture.pdf)Figure: The layers of the onion architecture 
 ### Application Core (the grey stuff)
 
 This should be the big meaty part of the application where the domain logic resides.

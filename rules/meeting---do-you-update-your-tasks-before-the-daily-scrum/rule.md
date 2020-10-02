@@ -10,7 +10,9 @@ authors:
 ---
 
 All team members must update their tasks with  status,  remaining hours,  completed hours and  comments prior to the daily Scrum meeting. When the Scrum meeting is in the morning, this should be done at the end of the previous business day.
- ![ Update the following screen to keep your burndown rate accurate.](Updatetasks.jpg)
+ 
+![ Update the following screen to keep your burndown rate accurate.](Updatetasks.jpg)
+
 The reason we did this on TFS 2010 was is because the cube took some time to rebuild the Burndown and it’s very important to have the work status during the meeting. This is not an issue with TFS 2012 as the Burndown will update in real-time, but the rule still applies, as the Daily Scrum flows more smoothly if each developer has already updated the remaining hours on their tasks.
 
 **Related Links**

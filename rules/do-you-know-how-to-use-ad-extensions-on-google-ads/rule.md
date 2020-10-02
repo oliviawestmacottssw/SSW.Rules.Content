@@ -21,5 +21,10 @@ Ad extensions are additional pieces of information about your business, like a p
 - **Call out** – Additional detail/an invitation to a call-to-action
 - **Sitelinks** – Promoting links from your website you want to advertise
 
-![ Bad Example – Ad doesn't have a clear message about either product or service, there’s no call extension even though it mentions "Call Now"](google-ad-no-ad-extension.jpg)
-![ Good Example - Sitelinks and Call extensions on one of our mobile ads](google-ad-extension.jpg)
+
+[[badExample]]
+| ![ Bad Example – Ad doesn't have a clear message about either product or service, there’s no call extension even though it mentions "Call Now"](google-ad-no-ad-extension.jpg)
+
+
+[[goodExample]]
+| ![ Good Example - Sitelinks and Call extensions on one of our mobile ads](google-ad-extension.jpg)

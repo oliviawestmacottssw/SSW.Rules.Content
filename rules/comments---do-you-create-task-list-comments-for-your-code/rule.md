@@ -21,12 +21,17 @@ Task List comments can be used to indicate a variety of work to be done at the l
  
 As with other Task List entries, you can double-click any comment entry to display the file indicated in the Code Editor and jump to the line of code marked. More details for [Task List comments](https://www.ssw.com.au/SSW/Redirect/MSDN2/TaskListcomments.htm).
 
+
 [[badExample]]
 | ![ the comment doesn't show in Task List window](pic1.png)
 
 
+
+
 [[goodExample]]
 | ![Marked TODO in the comment, so you can see it in Task List window and double-click to jump to](pic2.png)
+
+
 
 
 [[goodExample]]

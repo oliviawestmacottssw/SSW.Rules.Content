@@ -59,6 +59,9 @@ When choosing a CDN provider, take into account where your user base is located 
 2.https://ajax.googleapis.com
 
 
+
 ![ Bad example, jquery.min.js from GoogleAPIs failed to load.](5-28.4.png)
+
+
 
 ![ Good example, jquery.min.js from CDNJS isn't block and is very fast.](5-28.5.png)

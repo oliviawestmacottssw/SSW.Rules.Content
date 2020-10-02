@@ -12,6 +12,7 @@ authors:
 There is a place for Silverlight, but it can only be the 'richer' experience. In some case it is better not to use Silverlight for Data Entry Form and also content publisher should have alternative of Silverlight for Andriod & iOS user. <br> 
 **Mobile Device: 
 
+
 ![](SilverlightInIPad.png)
 <br>    Figure: Silverlight does not work on an iPad, It can't be only experience. ** **
 ** Further Reading: [PCWorld](http://www.pcworld.com/article/193540/ipad_proves_that_apple_wants_to_kill_flash.html)  .

@@ -19,9 +19,14 @@ Do you check in on your home or office from your smartphone using the Control4 A
 
  
 The Control4 App turns your iOS or Android mobile device into the smart home/office command center. It connects directly to your system and allows you to control and manage all of your system’s features, such as lights, temperature, cameras, audio/video equipment, smart door locks and more.
+
 ![ Use the Control4 App](os3app.webp)
+
 Throw away your remote controls and move on to technological freedom!
+
 ![ Bad example, using any pysical remote control instead of the Control4 app.](Bad example C4.jpg)
+
+
 
 
 ![](boardroomac.jpg)Good Example: Turning on the air conditioner using Control4
@@ -35,9 +40,11 @@ To use Control4 on your phone and remotely control all services, you will need t
 1. Download the app from the App Store: http://www.control4.com/software/control4-app-ios/latest
 or Google Play: http://www.control4.com/software/control4-app-android/latest
 
+
 ![](control4iosappstore.jpg)
 
 > 2. Select "Add System" button.
+
 
 ![](control4start.jpg)
 
@@ -50,11 +57,13 @@ or Google Play: http://www.control4.com/software/control4-app-android/latest
 > 5. Use your credentials to sign into Control4. 
 > TIP: The System Name you enter is what the system will be called on your device. It can be anything.
 
+
 ![](control4add.jpg)
 
 ### Using Control4
 
 Once logged in, you will have access to your site's controls. These apps are customisable, but the ones we have at SSW are:
+
 ![](control4reception-notes.jpg)
 
 ### Changing Users
@@ -64,15 +73,18 @@ If you need to change the user or sign in with new credentials, you can use the 
 
 > 1. Tap the Control4 logo to open the menu.
 
+
 ![](control4receptionLogo.jpg)
 
 
 > 2. Scroll to the bottom and select the settings button.
 
+
 ![](control4menusettings.png)
 
 
 > 3. Select your System:
+
 
 ![](control4settings.jpg)
 
@@ -80,5 +92,6 @@ If you need to change the user or sign in with new credentials, you can use the 
 
 
 > 4. Select "Delete". This will reset the account and allow you to enter new credentials.
+
 
 ![](control4delete.jpg)

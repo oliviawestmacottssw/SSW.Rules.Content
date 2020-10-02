@@ -11,7 +11,12 @@ authors:
 
 ---
 
-![ Bad Example – N-Tiered architectures do not inherently support dependency injection ![inject](dependency-injection-good.jpg) ](dependency-injection-bad.jpg) 
+[[badExample]]
+| ![ Bad Example – N-Tiered architectures do not inherently support dependency injection ](dependency-injection-bad.jpg) 
+
+[[goodExample]]
+| ![ Good Example – The Onion Architecture promotes layers built on interfaces, and then injecting dependencies into those layers. This keeps coupling low, and therefore maintainability high](dependency-injection-good.jpg) 
+
 The classes in each layer can depend on layers toward the centre.
 
 It emphasizes the use of interfaces for the business logic and repository layers. The repository layer corresponds to the Data Access layer in an n-Tier architecture.

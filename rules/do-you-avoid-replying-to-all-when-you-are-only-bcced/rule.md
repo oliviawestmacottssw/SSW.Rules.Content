@@ -16,6 +16,7 @@ If you receive email via BCC, other recipients are not aware that you were sent 
 
 
    This extends even further to the person using BCC in the 1st place. Generally when using BCC, you should always pause to make sure you are doing the right thing. 
+
 ![](DontReplyAll.jpg)
 
 

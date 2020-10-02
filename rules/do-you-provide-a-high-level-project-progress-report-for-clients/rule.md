@@ -20,4 +20,5 @@ Communication is a critical part in project management and it's essential to pro
 You should provide the following report to clients:  
 - Project Progress Report: This report helps clients to review the current project progress, check the status of the project and whether they are over or under estimates.
 
+
 ![ Project Progress Report](rulestobetterprojectprogress2.png)

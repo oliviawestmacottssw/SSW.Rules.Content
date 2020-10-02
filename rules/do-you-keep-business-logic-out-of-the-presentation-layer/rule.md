@@ -10,8 +10,10 @@ authors:
 ---
 
 It's common for business logic to be added directly to the presentation layer. When building ASP.NET MVC systems, this typically means that business logic is added to controllers as per the following example:
- [[badExample]]
+ 
+[[badExample]]
 | ![ Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse](business-logic-presentation-layer-bad.png)
+
 The logic in the above controller cannot be reused, for example, by a new console application. This might be fine for trivial or small systems but would be a mistake for enterprise systems. It is important to ensure that logic such as this is independent of the UI so that the system will be easy to maintain now and well into the future. A great approach to solving this problem is to use the mediator pattern with CQRS.
 
 CQRS stands for Command Query Responsibility Segregation. It's a pattern that I first heard described by Greg Young. At its heart is the notion that you can use a different model to update information than the model you use to read information
@@ -25,9 +27,13 @@ CQRS can be used with complex architectures such as Event Sourcing but the conce
 MediatR is an open source .NET library by Jimmy Bogard that provides an elegant and powerful approach for writing CQRS, making it easier to write clean code.
 
 For every command or query, you create a specific request class that explicitly defines the “input” required to invoke the operation.
-![ (from MediatR docs) A Simple Request class](business-logic-presentation-layer-simple.png)
+
+![ ](business-logic-presentation-layer-simple.png)
+(from MediatR docs) A Simple Request class
 Then the implementation of that command or query is implemented in a handler class. The handler class is instantiated by a Dependency Injection container – so can use any of the configured dependencies (Repositories, Entity Framework, services etc).
+
 ![ A handler class](business-logic-presentation-layer-handler.png)
+
 This approach brings many benefits:
 
 - Each command or query represents an atomic, well-defined operation such as "Get My Order Details" (Query) or "Add Product X to My Order" (Command)
@@ -39,6 +45,7 @@ This approach brings many benefits:
 - MediatR handlers are easy to mock and unit test
 - The interface for MediatR handlers encourages the implementation of best-practice async methods with cancellation token support.
 - MediatR introduces a pipeline behaviour system allowing custom to be injected around handler invocation. This is useful for implementing cross-cutting concerns such as logging, validation or caching
+
 
 [[goodExample]]
 | ![MediatR simplifies the dependencies injected into the controller. The incoming web request is simply mapped directly to a MediatR request that orchestrates all the logic for this operation. The implementation and dependencies needed to complete “GetItemForEdit” are free to change without needing to change the controller class](business-logic-presentation-layer-good.png)

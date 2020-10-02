@@ -39,7 +39,8 @@ Figure: Good example - Jane feels heard
 
 
 This will make the person who's giving you the feedback feel heard and that you have taken the criticism constructively. If you are also able to proactively suggest alternative behaviour for the future that would work for everyone, then you will build trust.
- ![ It's important that the other person knows that they've been heard ](SSW Team(2).png) 
+ 
+![](SSW Team(2).png) Figure: It's important that the other person knows that they've been heard 
 
 
 ### Related Rule

@@ -11,7 +11,9 @@ authors:
 
 ---
 
-You may know that it is quite easy to sort view by a column through the UI.![ Change view column sort from web UI](SortInView.png)
+You may know that it is quite easy to sort view by a column through the UI.
+![ Change view column sort from web UI](SortInView.png)
+
 But when you are trying to do that via code, you may find a pretty tricky issue.
    You can use some code like:
 

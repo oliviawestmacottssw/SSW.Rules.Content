@@ -12,16 +12,26 @@ authors:
 ---
 
 Instead of displaying a direct "**Access Denied**" warning info, you can allow end users to send an "**Access Request**".
+
 ![ Joanna is requesting access to SharePoint site](PermissionRequest.jpg)
+
  
 The "request manager" will receive an email:
-![ Request Notification Email SampleThe link in the email will navigate administrator to the Pending Requests list:![LinkToPendingRequestsList.png](LinkToPendingRequestsList.png)](637cf8_RequestNotificationEmail.png)
+
+![ Request Notification Email SampleThe link in the email will navigate administrator to the Pending Requests list:](637cf8_RequestNotificationEmail.png)
+
+![ Pending Requests List](LinkToPendingRequestsList.png)
+
 After reading the request infomation, the administrator can "Approve" or "Decline" the request, or he can start a conversation with the request user on the **Pending Requests** list directly to inquire more information:
-![ possible actions for requests (Approve, Decline or start a conversation with the request user)](StartAConversatioinOnPendingList.png)
+
+![ possible actions for requests ](StartAConversatioinOnPendingList.png)
+(Approve, Decline or start a conversation with the request user)
 
 
 To setup permission request for a SharePoint site collection, go to "**Site Settings (Gear Wheel icon)** | **Site Permissions**":
+
 ![ Open "Access Request" setting](SetupPermissionRequest.png)
+
 
 
 **Limition:**

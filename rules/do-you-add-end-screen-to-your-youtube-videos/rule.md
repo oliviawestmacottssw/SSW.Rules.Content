@@ -18,7 +18,9 @@ End screens help to avoid viewers to go away by suggesting to them the next cont
 - Another channel
 - A link to an approved website
 
-![ To add an end screen, go to VIDEO MANAGER | Videos | (select your video) | End screens and Annotations | Add element](end screen.png)
+
+![ To add an end screen, go to VIDEO MANAGER | Videos | ](end screen.png)
+(select your video) | End screens and Annotations | Add element
 
 
 
@@ -26,6 +28,7 @@ End screens help to avoid viewers to go away by suggesting to them the next cont
 
 Keep in mind that end screens must include at least one video or playlist element (i.e. you can’t just display a subscribe button on its own).
 Your end screen shouldn’t overlap actual video content so you should leave up to 20 seconds for this to fit into at the end of your video (note that 20 seconds is the maximum duration of an end screen). This should just show background content such as an image, plain screen, or some unobtrusive background video content.
+
 
 
 

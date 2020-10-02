@@ -8,4 +8,10 @@ authors: []
 ---
 
 [[goodExample]]
-| ![a "search box" makes it easy to find data![Easy to search](win8search.jpg)](../../assets/EasySearch.png)
+| ![a "search box" makes it easy to find data](../../assets/EasySearch.png)
+
+[[goodExample]]
+| ![the search bar in Windows 8 is now always in the same position, no matter what program or where you are searching for. You can activate Charms in Windows 8 by mousing to the top right corner.](win8search.jpg)
+
+[[goodExample]]
+| ![ Good Example - TFS Preview has an easy to find search box.](searchbox.png)

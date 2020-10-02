@@ -21,15 +21,23 @@ Scripting out a schema change is easy, worrying about data is not. "'Data motion
 
 <br>Let's look at an example: <br> 
 We have a 'Gender' column (that is a Boolean) storing 0's and 1's. All works well for a while.
-![ Anything wrong this Gender column?   Later you learn you need to change the data type to char(2) to support 'M', 'F', 'T', 'NA' and 'U'  ![](CasterSemenya.jpg)](TableBit.jpg)
+
+![ Anything wrong this Gender column?   Later you learn you need to change the data type to char](TableBit.jpg)
+(2) to support 'M', 'F', 'T', 'NA' and 'U'  
+![ Caster Semenya has taught us a thing or two about the right data type for Gender  The data then must be migrated to the new data type this way:  ](CasterSemenya.jpg)
+
 1. Rename 'Gender' to 'ztGender' \*
 2. Add a new column 'Gender' with type char(2)
 3. Insert the existing data from 'ztGender' to 'Gender' (map 0 to 'F' and 1 to 'M')
 4. Delete the column ztGender\*
 
- \*Note: zt stands for Temporary  ![ Changing the data type and data required a ["Data Motion Script"](/Pages/DoYouHaveAnUnderstandingOfSchemaChangesAndTheirIncreasingComplexity.aspx) ](TableChar.jpg)
+ \*Note: zt stands for Temporary  
+![ Changing the data type and data required a ](TableChar.jpg)
+["Data Motion Script"](/Pages/DoYouHaveAnUnderstandingOfSchemaChangesAndTheirIncreasingComplexity.aspx) 
 Visual Studio does not automatically support this scenario, as data type changes are not part of the refactoring tools. However, if you add pre and post scripting events to handle the data type change the rest of the changes are automatically handled for you.
+
 ![ Don't use Data Dude](DataDude-BadExample.jpg)
+
 note: In order to achieve this you MUST use the built in Refactor tools as it create a log of all the refactors in order. This helps Visual Studio generate the schema compare and make sure no data is lost.
 
 There are few options available to perform data type change correctly:

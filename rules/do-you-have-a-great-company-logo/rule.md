@@ -30,10 +30,13 @@ If you follow these principles, people should be able to look at your logo from 
 Some examples of great logos:
 
 - **Twitter** - the small flying blue bird makes an instinctive correlation to tweeting
+
 ![](twitterlogo.jpg)
 - **Mini** - the mini "wings" logo is simple and easily recognizable 
+
 ![](mini-logo.jpg)
 - **Canon** - the font of the logo simple and is tweaked with only a slight tilt
+
 ![](canon-logo.jpg)
 
 

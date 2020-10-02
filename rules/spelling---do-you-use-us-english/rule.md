@@ -18,6 +18,8 @@ If you are an Australian or British this rule is controversial, but it is worth 
 - Aim for the majority. Most web traffic is from American users and they expect American (most probably will assume anything different is an error)
 - SEO - On the practical side, more web searches are going to be returned for US spelling of words.
 
- [[goodExample]]
+ 
+[[goodExample]]
 | ![the US English is the selected language ](SetLanguageUS.png) 
+
 Don't forget to check your pages for spelling errors after making edits.

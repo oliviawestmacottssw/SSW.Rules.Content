@@ -16,4 +16,6 @@ The best way to achieve this is to use gated content, which requires potential l
 
 
 At SSW we did some research, and after initially using LeadPages, we decided to swap to OptinMonster. This choice was made for a few reasons, OptinMonster is significantly cheaper than LeadPages, and provides all the features we required including; form builders, pop-up forms, mobile friendly, A/B testing and tracking.
-![ Example of OptinMonster pop-up form on [SSWTV](https://tv.ssw.com/)](Picture1.png)
+
+![ Example of OptinMonster pop-up form on ](Picture1.png)
+[SSWTV](https://tv.ssw.com/)

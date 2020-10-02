@@ -41,8 +41,9 @@ The choices:
 
 Please let me know if you're happy to proceed with our recommendation, otherwise let me know if you have any questions.
 Figure: Good Example - Multiple options to approve with reasons for each <br>      
-![](complexity-and-false-hope.jpg)
- Figure: Hard decision - this guy needs to state why he recommends this option
+
+![ Hard decision - this guy needs to state why he recommends this option](complexity-and-false-hope.jpg) 
+
 
 ### Related Rules  <br>      
 

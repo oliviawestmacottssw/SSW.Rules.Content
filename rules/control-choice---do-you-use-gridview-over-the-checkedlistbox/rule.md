@@ -12,7 +12,8 @@ authors:
 In Web we have:
 
 
-- Grids E.g. http://demos.kendoui.com/web/grid/selection.html ![](../../assets/external.gif "You are now leaving SSW")
+- Grids E.g. http://demos.kendoui.com/web/grid/selection.html 
+![](../../assets/external.gif "You are now leaving SSW")
 
 
 In Windows Forms we have a CheckedListBox. With a CheckedListBox you cannot:
@@ -21,7 +22,13 @@ In Windows Forms we have a CheckedListBox. With a CheckedListBox you cannot:
 - Contain much information - can only show one field
 - DataBind - always costs heaps of code
 
-  ![ Bad Example - The CheckedListBox is limited ![DataGrid](../../assets/UsingDataGrid.gif) ](../../assets/UsingCheckedListBox.gif) 
+  
+[[badExample]]
+| ![ Bad Example - The CheckedListBox is limited ](../../assets/UsingCheckedListBox.gif) 
+
+[[goodExample]]
+| ![ Good Example - The DataGrid can show much more information ](../../assets/UsingDataGrid.gif) 
+(and if you use a 3rd Party eg. Telerik, then it can be pretty too)
 In Windows Forms, the code of DataGrid databinding is easier than that of CheckedListBox.
 
 ProductsService.Instance.GetAll(Me.ProductsDataSet1)

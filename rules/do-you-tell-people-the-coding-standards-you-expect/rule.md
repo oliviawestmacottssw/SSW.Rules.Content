@@ -23,4 +23,6 @@ In an open source project the easy way to ensure that all developers share and a
 - Solution and project folder structure and naming
 - Unit testing requirements
 
-![ Good Example - Adding an ENGINEERING-GUIDELINES.md to your project clearly defines the engineering practices and guidelines that must be required for contributors pull requests to be accepted](guidelines-opensource.png)
+
+[[goodExample]]
+| ![ Good Example - Adding an ENGINEERING-GUIDELINES.md to your project clearly defines the engineering practices and guidelines that must be required for contributors pull requests to be accepted](guidelines-opensource.png)

@@ -18,7 +18,9 @@ On large applications, it becomes very difficult to maintain state. The redux pa
 
 NgRx is the redux pattern implemented for Angular.        [View on GitHub](https://github.com/ngrx).
 
-  ![ NgRx supercharges the redux pattern with RxJS ](ngrx.png) 
+  
+![ NgRx supercharges the redux pattern with RxJS ](ngrx.png) 
+
 
 Benefits:
 
@@ -28,8 +30,12 @@ Benefits:
 - Increased performance
 - Code that is easy to test
 
- ![ NgRx supercharges the redux pattern with RxJS ](img1.png) 
+ 
+![ NgRx supercharges the redux pattern with RxJS ](img1.png) 
+
+
 ![ The redux pattern is a way to implement a predictable state container](img2.png)
+
 The three principles of the redux pattern:
 
 1. The entire state of the application is represented in a single JavaScript object called a store.

@@ -14,6 +14,11 @@ If you think the task you have been given is going to take more than 2 hours, st
 
 If you can, don't wait until two hours is up before checking - check as soon as you realise it is likely to take more than two hours.
 
-![ bad example: Don't keep working on a task until it's too late!](ManinthePeatBog.jpg)
 
-![ Good example: Calling the customer to tell them that "changing that function hyperlink is going to take more than 2 hours. Actually more like 2 days, do you want me to go ahead?"](bush_on_the_phone.jpg)
+[[badExample]]
+| ![ bad example: Don't keep working on a task until it's too late](ManinthePeatBog.jpg)
+!
+
+
+[[goodExample]]
+| ![ Good example: Calling the customer to tell them that "changing that function hyperlink is going to take more than 2 hours. Actually more like 2 days, do you want me to go ahead?"](bush_on_the_phone.jpg)

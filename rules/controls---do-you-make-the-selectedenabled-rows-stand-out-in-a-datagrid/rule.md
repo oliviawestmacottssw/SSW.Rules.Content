@@ -10,7 +10,13 @@ authors:
 ---
 
 Many times you allow a multiple selection in a grid by using a checkbox. When you do this make it easy to see the distinction of a row that is selected and one that is not. Make it subtle by dimming the unselected text.
-  ![ Bad Example - Selected rows are not separate from others. ![Seleted rows standard out](../../assets/Interface_Selected_Rows_Good.JPG) ](../../assets/Interface_Selected_Rows_Bad.JPG) 
+  
+[[badExample]]
+| ![ Bad Example - Selected rows are not separate from others. ](../../assets/Interface_Selected_Rows_Bad.JPG) 
+
+[[goodExample]]
+| ![ Good Example - Selected rows are separate from others.](../../assets/Interface_Selected_Rows_Good.JPG) 
+
 To make this effect in datagrid, you may need to edit the **cellcontentclick** event handler code. 
 Example:
 

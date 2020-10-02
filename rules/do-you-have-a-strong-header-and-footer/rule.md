@@ -10,5 +10,6 @@ authors:
 ---
 
 A strong header and footer will make the client sure that document is from your company in any page he is looking at.
- ![](proposal-header-and-footer.jpg)
+ 
+![](proposal-header-and-footer.jpg)
 Good Example - The header and footer are consistent, using the company colours and all the necessary information

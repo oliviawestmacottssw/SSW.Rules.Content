@@ -21,7 +21,9 @@ Frequently developers work on long or difficult features/bugs and leave code che
 2. What happens if you call in sick?
 3. How can you pair program if not sharing your changesets?
 
-![ Eating one big meal every three days gives you a bellyache... (aka check in small portions regularly, one large check-in after a few days will give you a headache)](Check-InRegularly.jpg) 
+
+![ Eating one big meal every three days gives you a bellyache... ](Check-InRegularly.jpg) 
+(aka check in small portions regularly, one large check-in after a few days will give you a headache)
 That's why source code should be checked in regularly. We recommend a check-in:
 
 - Immediately after completing a piece of functionality, where the [code compiles and passes the unit tests](/Pages/CompilePassed.aspx)Before lunch or dinner

@@ -11,13 +11,16 @@ authors:
 
 **TODO Matt. W**.: Flesh out rule content
  
+
 ![](Jekyll.jpg)
 Bad Example: Jekyll - Great but too simple
 
 
 
+
 ![](NextJS.jpg)
 Bad Example: NextJS - We had reliability issues with page generation
+
 
 
 

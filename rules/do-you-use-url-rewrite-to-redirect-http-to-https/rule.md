@@ -57,4 +57,5 @@ First you must download the IIS URL Rewrite module from Web Platform Component I
 
 
 
+
 ![ HTTP to HTTPS redirect using IIS URL Rewrite module](IISURLRewrite.jpg)

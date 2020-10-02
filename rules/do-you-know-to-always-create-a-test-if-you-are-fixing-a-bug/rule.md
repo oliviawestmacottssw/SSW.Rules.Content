@@ -15,4 +15,5 @@ authors:
 
 ---
 
-This field should not be null (Remove me when you edit this field). ![ You can easily fix this by associating tests with a Test Case which in turn "Tests" a bug ](TestCase.jpg)
+This field should not be null (Remove me when you edit this field). 
+![ You can easily fix this by associating tests with a Test Case which in turn "Tests" a bug ](TestCase.jpg)

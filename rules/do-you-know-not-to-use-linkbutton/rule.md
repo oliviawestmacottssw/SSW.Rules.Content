@@ -10,7 +10,11 @@ authors:
 ---
 
 If we want to refresh and data bind the same page from client side, we can use the javascript function calls "\_\_doPostBack". We shouldn't fire this post back in LinkButton. Otherwise, there will be an error.
- ![ Right click the link with \_\_doPostBack event  ![PostBack.gif](PostBack.gif)](RightClickLink.gif)
+ 
+![ Right click the link with \_\_doPostBack event  ](RightClickLink.gif)
+
+![ New window with incorrect URL](PostBack.gif)
+
 ASPX:
 
  

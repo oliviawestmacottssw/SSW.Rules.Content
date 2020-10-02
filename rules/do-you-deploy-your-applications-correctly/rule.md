@@ -22,7 +22,9 @@ To prevent issues from arising and having to re-deploy continuously which would 
 
 1. Have scripts that can get the pathname of the .exe that the user has installed the application on
 
-Wise has a Dialog that prompts the user for the installation directory:  ![ Wise Prompts the user for the installation directory and sets the path to a property in wise called "INSTALLDIR"    An embedded script must be used if the pathname is necessary in the application (i.e. like .reg files that set registry keys in registry)](INSTALLDIR.jpg) 
+Wise has a Dialog that prompts the user for the installation directory:  
+![ Wise Prompts the user for the installation directory and sets the path to a property in wise called "INSTALLDIR"    An embedded script must be used if the pathname is necessary in the application ](INSTALLDIR.jpg) 
+(i.e. like .reg files that set registry keys in registry)
 
 
 ```

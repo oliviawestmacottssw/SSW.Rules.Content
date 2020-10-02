@@ -12,5 +12,6 @@ authors:
 ---
 
 If you have form fields that require some further information, you can provide a hints column next to the fields so users know what the purpose of the data is.
- [[goodExample]]
+ 
+[[goodExample]]
 | ![Field hints can make the user more comfortable](field-hints.jpg)

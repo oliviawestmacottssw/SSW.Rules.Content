@@ -33,12 +33,23 @@ To do this, you need to remove .url file type from your blocked file types in yo
 **B. Use "Link to a document" content type in SharePoint.**
 
 1) Enable "Content Type management" in your document library.
+
 ![ Enable Content Type management in library setting](EnableContentTypeDocument.png)
+
 2) Add "Link to a Document" content type into the library.
-![ Add from existing site content type![SelectLinkToADocumentType.png](SelectLinkToADocumentType.png)](AddExistContentType.png)
+
+![ Add from existing site content type](AddExistContentType.png)
+
+![ Select "Link to a Document" content type](SelectLinkToADocumentType.png)
+
 3) Create a "Link to a document" instance
-![ select "File | New Document (dropdown) | Link to a document"![InputLinkUrlAndName.png](InputLinkUrlAndName.png)](CreateLinkToADocumentInstance.png)
+
+![ select "File | New Document ](CreateLinkToADocumentInstance.png)
+(dropdown) | Link to a document"
+![ Input "Name" and "URL"](InputLinkUrlAndName.png)
+
 4) Done
 
 You should be able to see the link type document in your library:
+
 ![ Link type documents with the lovely shortcut icon](LinksTypeDocumentsWithShortcutIcon.png)

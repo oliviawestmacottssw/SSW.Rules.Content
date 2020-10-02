@@ -39,4 +39,9 @@ GRASP consists of a set of patterns and principles that describe different ways 
 
 
 Tip: Visual Studio's Architecture tools can help you visualise your dependencies.  A good structure will show calls flowing in one direction.
-![ Bad Example - Calls are going in both directions which hints at a poor architecture![architecture_responsibility_good.png](architecture_responsibility_good.png)](architecture_responsibility_bad.png)
+
+[[badExample]]
+| ![ Bad Example - Calls are going in both directions which hints at a poor architecture](architecture_responsibility_bad.png)
+
+[[goodExample]]
+| ![ Good Example - Calls are flowing in one direction hinting at a more sensible arrangement of responsibilities](architecture_responsibility_good.png)

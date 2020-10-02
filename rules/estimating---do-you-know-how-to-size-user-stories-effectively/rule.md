@@ -41,20 +41,26 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 > 
 > **Please note: **In some teams which only use Small, Medium and Large the following numbering is applyed respectively 2, 4 and 8.
 
- [[badExample]]
+ 
+[[badExample]]
 | ![ Estimation using T-Shirt sizes](size-stories-bad-example.jpg) 
+
 ### Fibonacci Extended (1-100)
 
 Planning Poker is a very effective Product Backlog estimation technique and the most common method is using Fibonacci numbers (1,2,3,5,8,13, etc.). This was made popular by Mike Cohn.
- [[okExample]]
+ 
+[[okExample]]
 | ![Estimation using Planning Poker with large numbers](size-stories-ok-example.jpg) 
+
 ### Fibonacci (1-21)
 
 Mike Cohn introduced changes to the original 7 cards, by changing the 21 to 20 and adding 40 and 100 to indicate very large user stories called Epics.
 
 Ken Schwaber (the father of Scrum) says in his Scrum Certification course, that he is not a fan of the extra cards and says he prefers teams keep to the original 7 cards.
- [[okExample]]
+ 
+[[okExample]]
 | ![Estimation using Planning Poker with only small numbers](size-stories-good-example.jpg) 
+
 ### Doubling
 
 Estimating using doubling numbers makes relative sizing simple. An 8 point PBI should be about twice the size as a 4-point PBI. This method also simplifies PBI swapping where a PBI is replaced with PBIs totaling the same number of points.
@@ -77,7 +83,9 @@ Another method of estimating is the "Thrown method" as described Martin Fowler. 
 This is particularly useful if you don't have Planning Poker cards.  Instead of Fibonacci numbers, estimates are from 1 to 5.  It's nice and simple, and you only need the fingers on your hand.
 
 The action is done in the same method as the game 'Rock, Paper, Scissors'. The options the developer can estimate is 1,2,3,4,5
- ![ User Story estimates using the "Thrown method"](fist-method.jpg) 
+ 
+![ User Story estimates using the "Thrown method"](fist-method.jpg) 
+
 ### Other Tips
 
 

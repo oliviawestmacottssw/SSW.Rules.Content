@@ -34,5 +34,6 @@ MessageBoxIcon.Warning) = DialogResult.Yes) {
 }
 Figure: Bad example - timestamped comments add noise to the code
 
-![](comment annotations.png)
- Figure: Good example - we can tell who added the comment using annotations
+
+[[goodExample]]
+| ![we can tell who added the comment using annotations](comment annotations.png)

@@ -23,4 +23,5 @@ Figure: Good subjects - Make clear it is an initial meeting by having both words
 
  
 The idea behind it is that Power BI can then track and show this.
+
 ![ It's clear to see that there is no yellow in the past couple of months, which may indicate work drying up for Stephen's area](initial-meeting-graph.jpg)

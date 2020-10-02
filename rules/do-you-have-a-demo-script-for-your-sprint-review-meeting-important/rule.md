@@ -18,4 +18,5 @@ During the Sprint Review Meeting you should demo all features (Sprint goals expr
 2. Steps to show what has been done aka Demo script itself
 3. Give an overview of upcoming PBIs, so that everyone has an idea before you go into the Sprint Planning Meeting
 
+
 ![ Store the demo scripts on TFS](StoreDemoScriptInTFS.jpg)

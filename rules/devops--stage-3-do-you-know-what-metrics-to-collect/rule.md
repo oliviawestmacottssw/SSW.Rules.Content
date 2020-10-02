@@ -44,12 +44,18 @@ But it's not only exceptions you should be looking at but also how your users ar
 
 Application/Server performance – track how your code is running in production, that way you can tell if you need to provision more servers or increase hardware specs to keep up with demand
 
+
 ![ Application Insights gives you information about how things are running and whether there are detected abnormalities in the telemetry](2020-03-24_15-27-26.jpg)
 
 
 
+
+
 ![ Azure can render the Application Insights data on a nice dashboard so you can get a high level view of your application](2020-03-24_15-27-45.jpg)
+
+
 ![ App Center can let you monitor app install stats, usage and errors from phones just like an app running in Azure](2020-03-24_15-28-22.jpg)
+
 
 
 

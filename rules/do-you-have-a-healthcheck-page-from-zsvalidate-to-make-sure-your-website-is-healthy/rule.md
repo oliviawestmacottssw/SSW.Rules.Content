@@ -37,12 +37,25 @@ Best of all they have a [Release Gate available on the DevOps market place](http
 
 
 
- ![ Sample Health Page](ui-branding.png)
+ 
+![ Sample Health Page](ui-branding.png)
+
+
 
 ![ Sample Health of an endpoint being viewed in a timeline i.e. so I can see when was a resource last healthy](timeline.png)
 
 
+
 #### Other products using validation status
-![ Microsoft Live status - <br>      [www.apple.com/au/support/systemstatus/](status-microsoft.jpg)
+
+![ Microsoft Live status - <br>      ](status-microsoft.jpg)
+[www.apple.com/au/support/systemstatus/](http://status.mailchimp.com/)
+![ Google Apps status - <br>      http://www.google.com/appsstatus](status-google.jpg)
+
+![ Apple status - <br>      ](status-apple.jpg)
+[status.mailchimp.com](https://www.apple.com/au/support/systemstatus/)
+![ MailChimp status - <br>      ](status-mailchimp.jpg)
+[status.mailchimp.com](http://status.mailchimp.com/)
 See     [SSW Rules - Do you have a HealthCheck page to test your website dependencies?](https://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterUnitTests.aspx#HealthCheck)
+
 ![ Check everything with care](check-everything.JPG)

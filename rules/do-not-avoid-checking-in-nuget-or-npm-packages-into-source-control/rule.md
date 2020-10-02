@@ -13,7 +13,9 @@ Reasons for avoiding checking Nuget or Npm packages
 2. When packages are included in the repository, developers are liable to add references directly to package contents on disk rather than referencing packages through NuGet, which can lead to hard-coded path names in the project.
 
  
+
 ![  Do not have a folder called "packages" or "Node\_Modules" ](nugetpackages.png)
+
 
 
 

@@ -13,10 +13,12 @@ If your Control4 system is running slowly, there's a System Diagnostics tool tha
  
 To access Control4 System Diagnostics, open Composer.
 
+
 ![](Composer-Tools-System-Dianostics.png)
 
 Select Tools > System Diagnostics. 
 
  
+
 
 ![](Composer-System-Dianostics.png)

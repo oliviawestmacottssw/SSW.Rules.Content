@@ -10,7 +10,9 @@ authors:
 ---
 
 With so many different capitalization conventions used in technology names, it can be confusing to know which convention to use for which technology.
- ![ John Bristowe tackled some of the most commonly confused tech names in this tweet](john-bristow-tweet.jpg)
+ 
+![ John Bristowe tackled some of the most commonly confused tech names in this tweet](john-bristow-tweet.jpg)
+
 The main 5 types used are:
 
 1. All uppercase – ALL UPPERCASE
@@ -43,5 +45,9 @@ Here’s a quick overview:
 > | Agile<br><br> | Only first letter capitalized<br><br> |
 > | Scrum<br><br> | Only first letter capitalized<br><br>(Note: it is not an acronym, so it should never be spelled "SCRUM") |
 
+
 [[badExample]]
-| ![ If you want to be taken seriously as an expert in the subject, you should properly and consistently spell, punctuate, and capitalize the technology you are working with![Good example: This banner shows the correct capitalization for .NET](good-example-correctly-capitalized.jpg)](bad-example-incorrect-capitalization.jpg)
+| ![ If you want to be taken seriously as an expert in the subject, you should properly and consistently spell, punctuate, and capitalize the technology you are working with](bad-example-incorrect-capitalization.jpg)
+
+[[goodExample]]
+| ![ Good example – the technology is consistently capitalized correctly across the page](good-example-correctly-capitalized.jpg)

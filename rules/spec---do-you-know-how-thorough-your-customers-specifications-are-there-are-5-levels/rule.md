@@ -36,7 +36,9 @@ The details have been fleshed out and allow developers to write Functional and T
 - Password should be at least 8 characters
 - .NET 4 is already used for the existing site so that is what this should use of course
 - Should look like this:
+
 ![ Detailed Requirements have more of the details you want  ](LoginInterface.jpg)
+
 ### 4. Functional Specification
 This will include detailed mock-ups for the UI, use cases/user stories and might be at a level to allow for fixed price quoting on the project
 - We need a login page for [www.northwind.com](http://www.northwind.com/)
@@ -48,7 +50,9 @@ This will include detailed mock-ups for the UI, use cases/user stories and might
 - Site uses .NET 4 and this interface must be added to existing project
 - This is the layout for the login interface
 - **A red asterisk (\*) should be displayed if a value is left blank and Submit is pressed**
+
 ![ Functional Specifications go into more detail about the user interface and interactions in the system ](LoginInterface.jpg)
+
 ### 5. Technical Specification
 
 
@@ -62,6 +66,7 @@ This is the blueprint for the application. There should be no unanswered questio
 - Password should be at least 8 characters
 - Site uses .NET 4 and this interface must be added to existing project
 - Define the data model explicitly
+
 ![](Table.jpg)
 - Must work with IE7, IE8, IE9, and FF3
 - Must display correctly at 1024x768 resolution

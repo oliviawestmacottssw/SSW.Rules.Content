@@ -29,14 +29,20 @@ Once you have the template, follow these steps to create a customer portal with 
 2. Click "Site Actions" on right-hand top, select "Manage Content and Structure
 
 
+
 ![ The first step to creating a 'Customer Portal' is to select 'Manage Content and Structure' to view site collection ](ManageContentAndStructure.jpg)
+
 Once the new window opens, on the left-hand side, click on the 'Clients' dropdown select New -> Site. 
    Note: If you don’t see this option, that means you don’t have permission to create the site.
 
+
 ![ Create new site ](CreateNewSiteStep1.jpg)
+
 Now follow these steps when the new window opens fill in the fields below.
 
+
 ![ Fill in the appropriate info then click "Create" ](CreateNewSiteStep2.jpg)
+
 More Information:
 
 1. Fill in the fields for the new client site 
@@ -52,7 +58,9 @@ Note: Your selection is confirmed in the picture. In this example, the template�
 
 
 Next step is to setup the groups and permissions.
+
 ![ Create a 'new group' or select an 'existing group' for the newly created site](SetUpGroupForSite.jpg)
+
 More Information:
 
 - Permissions: After you created the website for the client project, you need to configure the permission to make sure the developers and the clients can visit the site with the current authority. By default:
@@ -75,6 +83,8 @@ Note: you can also access this through the "People and Group" option on "Site Ac
 
 Click "OK", and the portal is created.
 
+
 ![ Northwind portal](Northwind Portal.jpg)
+
 
 Note: SharePoint will send "welcome email" to all the members of the groups you created for the site with basic information, but you still need to send an email to your customer with the login details like URL, username, and password.

@@ -25,4 +25,5 @@ Tasks that are performed at the end of each sprint.
 
 Actions or Tasks follow a basic format of: Action / Task Name |  Where the task can be performed | Quality Metric
 
+
 ![ Good Example of a Basic Action Table format](Action-Table.png)

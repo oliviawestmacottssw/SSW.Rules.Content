@@ -16,13 +16,19 @@ You have worked hard on the coding, got a pass from the testers. Great! Now you 
     - Right click "Publish" (recommended if you can directly connect) 
 <br>        or
     - Right click "Create Package"
+
 ![ For a web app it is just one click](PublishWeb.jpg) 
+
 - Rich Clients
     - Right click "Publish" (recommended if you can use ClickOnce) 
 <br>        or
     - Right click "Create Setup" (Suggestion to Microsoft as menu doesn't exist)
 
+
 ![ For a Windows clients it is also just one click](PublishRichClient.jpg) 
-- The Database<br>    ![ For the Database it is ..... well one click is what you need to aim for](PublishDatabase.jpg) 
+
+- The Database<br>    
+![ For the Database it is ..... well one click is what you need to aim for](PublishDatabase.jpg) 
+
 
  Now all this works beautifully first time, when there is no existing database... and no existing data to worry about. Now you have a reason to read the rest of the rules :-)

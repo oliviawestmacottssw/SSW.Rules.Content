@@ -25,7 +25,9 @@ For example:
 
 
 
+
 ![ The Sitefinity Thunder dashboard](4-07-2014-1-08-52-PM-compressor.png)
+
 
 You can find out more at http://www.sitefinity.com/resources/tools/sitefinity-thunder.
 
@@ -34,7 +36,10 @@ You can find out more at http://www.sitefinity.com/resources/tools/sitefinity-th
 
 It can be installed from Visual Studio | Tools | Extensions and Updates...
 
+
 ![ Add an extension to Visual Studio](4-07-2014-12-35-25-PM-compressor.png)
+
+
 
 
 
@@ -42,6 +47,9 @@ It can be installed from Visual Studio | Tools | Extensions and Updates...
 
 
 
+
+
 ![ Once installation is completed, you'll be prompted to restart Visual Studio to use Sitefinity Thunder](4-07-2014-12-58-32-PM-compressor.png)
+
 
 Once Visual Studio is restarted, you'll be presented with the dashboard from top of this article.

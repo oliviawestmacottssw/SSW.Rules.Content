@@ -18,4 +18,5 @@ However, for special types of images we do include a prefix.
 | Icon | ico | icoSSW.ico |
 | Screenshot | Screen | ScreenCodeAuditorMainWindow.gif |
 
+
 ![ Correctly named images](ScreenFilesWithScreenPrefix.gif)

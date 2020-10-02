@@ -16,7 +16,9 @@ authors:
 A common question for every project manager is "where is my project at"? This question isn't just asked to find out how many tasks are done, but also to understand if all these tasks are done to meet users' requirements.
 
 Both the Visual Studio Scrum and MSF for Agile project templates in TFS 2010 and 2012 provide a built-in "Stories Overview" report to help you find out where the project is at, as well as to tell you if all the tasks are well tested.
-![ The developer says he is 90% done... the report shows 25% tested, but 0% passed!](84d04e_StoriesOverviewReport.jpg) 
+
+![ The developer says he is 90% done... the report shows 25% tested, but 0% passed](84d04e_StoriesOverviewReport.jpg) 
+!
 Tip: Set this up on a [daily schedule so the Scrum Team get this in their inbox each day](/reports-do-you-schedule-the-burndown-and-stories-overview-reports-to-be-emailed-to-the-team-every-day).
 
 Suggestion for Microsoft #1: Add a Summary Number in large font at the top, eg. 55% complete.

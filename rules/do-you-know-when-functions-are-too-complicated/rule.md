@@ -14,6 +14,9 @@ In general you should always be looking to simplify your code (e.g. heavily nest
 In Visual Studio, there is inbuilt support for Cyclomatic Complexity analysis.
  
 1. Go to Developer > Code Metrics > Generate for Solution
+
 ![ Cyclomatic Complexity analysis tool](CodeMetrics.gif)
+
 2. Look at the largest Cyclomatic Complexity number and refactor.
+
 ![ Results from Cyclomatic analysis these metrics give an indication on how complicated functions areTip: Maintainability index > 85 is good and < 65 is hard to maintain](CyclomaticAnalysis.gif)

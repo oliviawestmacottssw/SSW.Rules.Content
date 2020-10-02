@@ -10,7 +10,9 @@ authors:
 ---
 
 If you store your URL references in the application settings, you can create integration tests to validate them.
- ![ URL for link stored in application settings](testURLSettings.gif)
+ 
+![ URL for link stored in application settings](testURLSettings.gif)
+
 **Sample Code: How to test the URL**
 
 [Test]

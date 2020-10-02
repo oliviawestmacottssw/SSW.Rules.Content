@@ -23,4 +23,8 @@ See examples of pages that advertise their hashtags:
 - [Sydney .NET User Group](http://www.ssw.com.au/ssw/NETUG/Sydney.aspx)  #NETUG
 - [SSW Rules](/) #SSWRules
 
- ![ This Twitter widget shows the hashtags working ![SharePoint conference hashtag](sharepoint-conference-hashtag.jpg)](hashtag-twitter.jpg)
+ 
+![ This Twitter widget shows the hashtags working ](hashtag-twitter.jpg) 
+
+[[goodExample]]
+| ![ Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use](sharepoint-conference-hashtag.jpg)

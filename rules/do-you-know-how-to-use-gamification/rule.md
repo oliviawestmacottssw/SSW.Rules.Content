@@ -14,6 +14,20 @@ authors:
 It originated with Frequent Flyer programs and has crossed over into the software world with the success of Foursquare.
 
 This concept is being utilized even in <br>   [Visual Studio](https://channel9.msdn.com/achievements/visualstudio). 
-![ Good Example – Microsoft Rewards gives points when you search on Bing.com and buy things from the Microsoft Store online and in Windows 10](microsoft-rewards.jpg)
-![ Good Example – Stack Overflow uses reputation points, awarded by how useful your answer to other user submitted questions were![TimePro Screenshot](gamification-timepro.png)](stack-overflow-reputation.jpg)
-![ Good Example – Dropbox rewards its users with extra storage space instead of imaginary points. This is more interesting](gamification-dropbox.png)
+
+[[goodExample]]
+| ![ Good Example – Microsoft Rewards gives points when you search on Bing.com and buy things from the Microsoft Store online and in Windows 10](microsoft-rewards.jpg)
+
+
+[[goodExample]]
+| ![ Good Example – Stack Overflow uses reputation points, awarded by how useful your answer to other user submitted questions were](stack-overflow-reputation.jpg)
+
+[[goodExample]]
+| ![ Good Example – TimePro uses gamification to encourage users to do their timesheets on time ](gamification-timepro.png)
+
+[[goodExample]]
+| ![ Good Example – SugarLearning Leaderboard is another good example](sugarlearning-leaderboard.png)
+
+
+[[goodExample]]
+| ![ Good Example – Dropbox rewards its users with extra storage space instead of imaginary points. This is more interesting](gamification-dropbox.png)

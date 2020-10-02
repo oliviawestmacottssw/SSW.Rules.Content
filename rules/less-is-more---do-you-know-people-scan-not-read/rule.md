@@ -15,7 +15,17 @@ It is important to divide information, not show it all at once. The visual organ
 2. Relation between elements
 3. Importance and relevance of elements
 
+
 [[badExample]]
-| ![ Can you find how to check in?![Good information - this alt text makes no sense but do I look like i care; no. maybe the guys in china have the right idea, do a shit job of it and no one will ever bother you about it ever again.](../../assets/good_informationscan.png)](../../assets/bad_informationscan.png)
+| ![ Can you find how to check in?](../../assets/bad_informationscan.png)
+
+[[goodExample]]
+| ![What about here? Can you find how to check in?](../../assets/good_informationscan.png)
+
 Another example of scanning, not reading is visually mapping.
-![ Bad Example - Which is the dial that controls the top-right stove?![](../../assets/Good-Mapping.jpg)](../../assets/Bad-Mapping.jpg)
+
+[[badExample]]
+| ![ Bad Example - Which is the dial that controls the top-right stove?](../../assets/Bad-Mapping.jpg)
+
+[[goodExample]]
+| ![ Good Example - In this layout, it's easy to see which dial controls which stove](../../assets/Good-Mapping.jpg)

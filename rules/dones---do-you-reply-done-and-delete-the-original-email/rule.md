@@ -26,13 +26,19 @@ Read "[Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4
 **Note 1**: Only say done when the work is done. If you have added the email to your backlog or to-do list then instead of "Done", say "Added to backlog – URL is XXX".
 
 **Note 2:** For tasks that will take time to be completely done (E.g. Producing a video), you may send a "work in progress" email. This way you avoid giving the perception that no action was in relation to the task.
- ![ Not Done Email ](NotDone.jpg) 
+ 
+![ Not Done Email ](NotDone.jpg) 
+
 ### Tip 1: Provide Detail in your "Done"
 
 In any reply, include relevant information, such as the URL and the code or text that has been updated, which allows the person requesting the work to check what was done and allows for offline reading.
 
 [Use SnagIt with Balloons in screenshots](/Pages/HowToUseBalloons.aspx).
- ![ Bad Example of a "Done" email. ![Good Done Email](email_done_good.JPG) ](email_done_bad.JPG) 
+ 
+![ Bad Example of a "Done" email. ](email_done_bad.JPG) 
+
+![ Good Example of a "Done" email as it has both the link and the changed text.](email_done_good.JPG) 
+
 If you find that you have already sent a "Done", and then the client asks you to undo the change, reply "Undone".
 
 ### Tip 2: Reply "Done" to multiple tasks

@@ -16,5 +16,7 @@ Likewise in a contacts database where you have entries from all around the world
 [x] Only include customers that have been updated by employees (not directly entered from the web)
 
 A good example on that the checkbox on the search screen of TimePRO.NET.
+
 ![ Default search tick box in TimePRO.NET](../../assets/DefaultSearch.gif)
+
 Read our rule on     [Validation - Do you avoid capturing incorrect data?](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Controls.aspx#AvoidIncorrectData)

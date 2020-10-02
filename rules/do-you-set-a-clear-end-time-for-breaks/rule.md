@@ -12,7 +12,11 @@ authors:
 When you set a break at a training course, you should make sure you first finish what you are doing. Don’t cut people off because of a clock.
    Tell them 20 min break (or 1 hour for lunch) and:
 - Let them break
-- Write in a clear place the end time for the break and ask people to be back on time   ![ Clearly show the end time for the break - you can print this [PDF here](/Documents/break-ends-sheet.pdf)](break-ends.jpg) 
+- Write in a clear place the end time for the break and ask people to be back on time   
+![ Clearly show the end time for the break - you can print this ](break-ends.jpg) 
+[PDF here](/Documents/break-ends-sheet.pdf)
 - Set an alarm on your phone or PC
+
 ![ iPhone alarm](iphone_timer.png)
+
 - If anyone comes back late, **explain the value of integrity**. Honoring your word in small things makes it easier to honor it for the larger things, such as doing your best in a sprint, and makes people believe in you more

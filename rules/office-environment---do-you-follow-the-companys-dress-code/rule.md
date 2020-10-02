@@ -27,12 +27,15 @@ One aspect of this is the dress code. Dress code is important for two reasons:
 Of course, when in a public event such as a User Group, conference or seeing clients you should "Dress Up".
 
 It should go without saying, but of course, things such as shaving off your weekend facial growth, using deodorant and having clean teeth and nice breath is assumed.
+
 ![](sean-connery_dressed-up.jpg)
 "There is nothing wrong with being the best-dressed man in the room."
 - **Sean Connery**
 ### On a business flight
 
-It's a good idea to "Dress Up" in flights as you never know who you will be seated next to.  ![ Why dress up in a flight](dresscode-linkedin.PNG)
+It's a good idea to "Dress Up" in flights as you never know who you will be seated next to.  
+![ Why dress up in a flight](dresscode-linkedin.PNG)
+
 
 ### Dressing Down (aka Casual Fridays)
 
@@ -42,4 +45,6 @@ E.g. At SSW, our employees **"Dress Up"** on Mondays and Tuesdays by wearing com
 Then they **"Dress Down"** later in the week... so they have     **"Casual Thursday"** and     **"Sporty Friday"**.
 
 Thursday are casual clothes. On Fridays, they encourage sport clothes, such as shorts. It allows the end of the week to be fun.
-![ [SSW Dress Code can be downloaded here (internal only)](https://sswcom.sharepoint.com/:b:/s/SSWDESIGN/EfVEIVvnUK5EoEE22SnqtskBlSE3nryQTkLDTjsfGrTV-Q?e=XijWyg)](SSW_Dresscode_Poster.png)
+
+![ ](SSW_Dresscode_Poster.png)
+[SSW Dress Code can be downloaded here (internal only)](https://sswcom.sharepoint.com/:b:/s/SSWDESIGN/EfVEIVvnUK5EoEE22SnqtskBlSE3nryQTkLDTjsfGrTV-Q?e=XijWyg)

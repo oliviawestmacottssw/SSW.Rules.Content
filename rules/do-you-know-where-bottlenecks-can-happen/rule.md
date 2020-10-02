@@ -12,7 +12,9 @@ authors:
 ---
 
 For modern applications, there are many layers and moving parts that need to seamlessly work together to deliver our application to the end user.
-   ![ Bottlenecks can happen anywhere! Call out diagrammatically where you think the bottlenecks are happenning](bottleneck.png) 
+   
+![ Bottlenecks can happen anywhere](bottleneck.png) 
+! Call out diagrammatically where you think the bottlenecks are happenning
 
 The issues can be in:
 

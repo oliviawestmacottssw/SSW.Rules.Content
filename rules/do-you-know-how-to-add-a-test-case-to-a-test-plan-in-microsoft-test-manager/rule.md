@@ -14,4 +14,9 @@ authors:
 You organize your Test Cases by adding them to a Test Plan (also called a Test Suite).
  
 We have one Test Plan per sprint.
-![ Select Plan from the main menu, and then choose the Test Plan that you would like to add Test Cases to![How to add a test case to a test plan](add-tc-to-tp-2.jpg)](add-tc-to-tp-1.jpg)
+
+![ Select Plan from the main menu, and then choose the Test Plan that you would like to add Test Cases to](add-tc-to-tp-1.jpg)
+
+![ Add a filter to make it easy to find your Test Cases. Click the Run button, select the relevant items and click the 'Add Test Cases' button](add-tc-to-tp-2.jpg)
+
+![ Your Test Case has now been added to the suite](add-tc-to-tp-3.jpg)

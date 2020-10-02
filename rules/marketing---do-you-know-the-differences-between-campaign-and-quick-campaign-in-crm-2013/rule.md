@@ -10,7 +10,9 @@ authors:
 ---
 
 This picture shows a flowchart of Campaigns and Quick Campaigns in CRM 2013:
- ![ Campaign VS Quick Campaign flowchart.](CampaignVSQuickCampaign.jpg) 
+ 
+![ Campaign VS Quick Campaign flowchart.](CampaignVSQuickCampaign.jpg) 
+
 A Campaign can extend over a long period of time, with potentially multiple different media types being used for a common purpose. It has extensive meta-data to both plan activities and then show reports on results. e.g.
 
 - A monthly newsletter

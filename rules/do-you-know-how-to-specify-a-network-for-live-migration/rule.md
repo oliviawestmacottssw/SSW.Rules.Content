@@ -15,5 +15,7 @@ To specify the roles of each network adapter:
 2. Expand the Networks section and you will see all of your network adapters listed
 3. Right click on the network that you are using for LAN and ISCSI and make sure that the following setting is selected
 
+
 ![ Network properties window](cluster-network.jpg)
+
 This setting prevents ISCSI and LAN traffic from going over the cluster network

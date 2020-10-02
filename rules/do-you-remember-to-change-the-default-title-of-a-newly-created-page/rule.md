@@ -8,5 +8,9 @@ authors: []
 ---
 
 Your site visitors should never see **Untitled Page** on     their browser. When creating a new page, remember to change the     default page title. This rule applies whether you are using a Master     Page or not.
- [[badExample]]
-| ![ A page with the default title ![Page with a good title](../../assets/GoodTitle.jpg)](../../assets/BadTitle.jpg)
+ 
+[[badExample]]
+| ![ A page with the default title ](../../assets/BadTitle.jpg)
+
+[[goodExample]]
+| ![A page with a good title ](../../assets/GoodTitle.jpg)

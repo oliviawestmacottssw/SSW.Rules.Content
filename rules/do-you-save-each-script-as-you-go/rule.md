@@ -29,7 +29,9 @@ Every time a change is made to your product's SQL Server Database, script out th
 7. The application can have a "Reconcile" feature that compares the current schema to what it should be
 
 
+
 ![ A list of change SQL scripts, each file name is in the correct format ](ChangeScripts.jpg) 
+
 **Is there a file naming convention to follow?**
  The script file naming convention should be XXXXX\_ObjectType\_ObjectName\_ColumnName\_Description\_SchemaMasterInitials.sql  
 

@@ -9,4 +9,8 @@ authors:
 
 ---
 
-![ Bad Example – The sample applications  do not include the concept of a business ![inject](request-process-good.jpg)](request-process-bad.jpg)
+[[badExample]]
+| ![ Bad Example – The sample applications  do not include the concept of a business ](request-process-bad.jpg)
+
+[[goodExample]]
+| ![ Good Example – An enterprise solution should include a business layer and a data layer abstraction](request-process-good.jpg)

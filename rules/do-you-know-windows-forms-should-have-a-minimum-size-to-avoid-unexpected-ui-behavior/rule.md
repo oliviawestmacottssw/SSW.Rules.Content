@@ -10,8 +10,13 @@ authors:
 ---
 
 If windows form does not setup a minimum size, your users could have unpredictable form behaviour as seen below:
-![ Bad Example - Unexpected window form](../../assets/Bugsize.gif)
+
+[[badExample]]
+| ![ Bad Example - Unexpected window form](../../assets/Bugsize.gif)
+
 
  
 Therefore, a standard has been built to ensure Windows forms have a minimum size.
-![ Good Example - User friendly window form](../../assets/Minisize.gif)
+
+[[goodExample]]
+| ![ Good Example - User friendly window form](../../assets/Minisize.gif)

@@ -42,4 +42,6 @@ Dear Adam,
 Regards, Phil
 
 Figure: Use 'Checked by xxx' when sending a complicated email to a group of people
-![ Consider this the '4 eye check' ([four eye principle](https://www.collinsdictionary.com/dictionary/english/four-eyes-principle))](four-eyes.jpg)
+
+![ Consider this the '4 eye check' ](four-eyes.jpg)
+([four eye principle](https://www.collinsdictionary.com/dictionary/english/four-eyes-principle))

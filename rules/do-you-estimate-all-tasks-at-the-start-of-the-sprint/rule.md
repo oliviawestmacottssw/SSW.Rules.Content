@@ -25,5 +25,10 @@ However, before starting work on a sprint you should always break the PBIs in th
  
 Team Foundation Server uses the remaining hours assigned to Tasks to calculate the burndown.  By breaking the PBIs down into tasks with estimates, your burndown will start looking correct right from the first day of the sprint.
 
-![ Bad Example - The tasks weren't estimated at the start of the sprint](burndown_bad_example.png)
-![ Good Example - The tasks were estimated from day one](burndown_good_example.png)
+
+[[badExample]]
+| ![ Bad Example - The tasks weren't estimated at the start of the sprint](burndown_bad_example.png)
+
+
+[[goodExample]]
+| ![ Good Example - The tasks were estimated from day one](burndown_good_example.png)

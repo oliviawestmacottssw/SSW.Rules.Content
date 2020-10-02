@@ -21,7 +21,8 @@ Each of these situations requires a different referencing method.
 **Option #1:Absolute Paths (Root-Relative Paths)**
  Often developers reference all images by using an absolute path (prefixing the path with a slash, which refers to the root of the site), as shown below.
 Bad example - Referencing images with absolute paths
-This has the advantage that ![]() tags can easily be copied between pages, however it should not be used in either situation, because it requires that the website have its own site IIS and be placed in the root (not just an application), or that the entire site be in a subfolder on the production web server. For example, the following combinations of URLs are possible with this approach:
+This has the advantage that 
+![]() tags can easily be copied between pages, however it should not be used in either situation, because it requires that the website have its own site IIS and be placed in the root (not just an application), or that the entire site be in a subfolder on the production web server. For example, the following combinations of URLs are possible with this approach:
 
 
 | Staging Server URL  | Production Server URL  |
@@ -32,18 +33,22 @@ This has the advantage that ![]() tags can easily be copied between pages, howev
 
 As shown above, this approach makes the URLs on the staging server hard to remember, or increases the length of URLs on the production web server.
 
-Verdict for Scenario #1: ![](fail.gif)
+Verdict for Scenario #1: 
+![](fail.gif)
 
-Verdict for Scenario #2: ![](fail.gif)
+Verdict for Scenario #2: 
+![](fail.gif)
 
 **Option #2:Relative Paths**
  Images that are part of the content of a page should be referenced using relative paths, e.g.
 Good example - Referencing images with absolute paths.
 However, this approach is not possible with images on user controls, because the relative paths will map to the wrong location if the user control is in a different folder to the page.
 
-Verdict for Scenario #1: ![](pass.gif)
+Verdict for Scenario #1: 
+![](pass.gif)
 
-Verdict for Scenario #2: ![](fail.gif)
+Verdict for Scenario #2: 
+![](fail.gif)
 
 **Option #3:Application-Relative Paths**
  In order to simplify URLs, ASP.NET introduced a new feature, application relative paths. By placing a tilde (~) in front of a path, a URL can refer to the root of a site, not just the root of the web server. However, this only works on Server Controls (controls with a runat="server" attribute).
@@ -52,9 +57,11 @@ To use this feature, you need either use ASP.NET Server controls or HTML Server 
 Good example - Application-relative paths with an ASP.NET Server control
 Using an HTML Server control creates less overhead than an ASP.NET Server control, but the control does not dynamically adapt its rendering to the user's browser, or provide such a rich set of server-side features.
 
-Verdict for Scenario #1: ![](fail.gif)
+Verdict for Scenario #1: 
+![](fail.gif)
 
-Verdict for Scenario #2: ![](pass.gif)
+Verdict for Scenario #2: 
+![](pass.gif)
 
 Note:A variation on this approach involves calling the Page.ResolveUrl method with inline code to place the correct path in a non-server tag.
 Bad example - Page.ResolveUrl method with a non-server tag

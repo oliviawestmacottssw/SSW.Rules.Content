@@ -20,8 +20,14 @@ They show the dependencies between classes and assemblies in your projects. You 
 - Visual Studio's Dependency Graph. This feature is only available in Visual Studio Ultimate. (recommended)
 - If you want architecture tools for Visual Studio, but don't have Visual Studio Ultimate, then the excellent 3rd party solution nDepend. A bonus is that it can also find issues and highlights them in red for easy discovery
 
-![ Visual Studio lets you generate a dependency graph for your solution![sqldeploy_dependencies.png](DependencyDiagramInVS11.png) ](ArchitectureToolsVS11.png)
+
+![ Visual Studio lets you generate a dependency graph for your solution](ArchitectureToolsVS11.png)
+
+![ The dependency graph in Visual Studio shows you some interesting information about how projects relate to each other](DependencyDiagramInVS11.png) 
+
 
 nDepend has a similar diagram that is a little messier, but the latest version also includes a "Queries + Rules Explorer" which is another code analysis tool.
+
 ![ nDepend Dependency Graph. Issues are highlighted in red for easy discovery](nDependDependencyGraph.png) 
+
 Read more about nDepend: [ndepend.com](http://www.ndepend.com/).

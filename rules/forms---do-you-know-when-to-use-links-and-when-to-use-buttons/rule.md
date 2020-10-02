@@ -32,4 +32,11 @@ That being said, there are a couple of exceptions to this rule.
 1. If you want the user to be able to right click and "Open in New Window"
 2. If you want a consistent design feel (and there is no confusion that the link is accepting data)
 
-![ An exception to the rule - an "Update" button inside the datagrid would look inconsistent![Links Vs Button](LinkVsButton.gif)](LinksExample.gif)
+
+![ An exception to the rule - an "Update" button inside the datagrid would look inconsistent](LinksExample.gif)
+
+[[badExample]]
+| ![ Bad Example - The "sign in" hyperlink should be a button](LinkVsButton.gif)
+
+[[goodExample]]
+| ![ Good Example - This is a perfect example of how a good sign in screen should look](Logon.gif)

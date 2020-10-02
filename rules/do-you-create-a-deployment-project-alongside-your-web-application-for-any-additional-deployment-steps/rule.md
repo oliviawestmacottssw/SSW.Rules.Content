@@ -14,6 +14,10 @@ Your source control repository should be the source of all truth. Everything, al
 This includes any deployment scripts and Web Deploy parameter files if you need them.
  
 This includes your deployment scripts and Web Deploy parameter files.
-![ Good Example - Create a Deployment project alongside your web project.   In the image aboce, Vm-SynWeb.Deploy.Bat is a batch  file that will deploy your web site to Vm-SynWeb](deployment-project.jpg)
+
+[[goodExample]]
+| ![ Good Example - Create a Deployment project alongside your web project.   In the image aboce, Vm-SynWeb.Deploy.Bat is a batch  file that will deploy your web site to Vm-SynWeb](deployment-project.jpg)
+
  Vm-SynWeb.SetParameters.xml is a Web Deploy SetParameters file that specifies environment specific settings.
- \_Deploy.Bat is the base batch file that your environment specific deployment batch files will call. ![ It is important that each of the batch and parameters files has it ‘Copy to Output Directory’ setting set to ‘Copy Always’](deployment-project-copy.jpg)
+ \_Deploy.Bat is the base batch file that your environment specific deployment batch files will call. 
+![ It is important that each of the batch and parameters files has it ‘Copy to Output Directory’ setting set to ‘Copy Always’](deployment-project-copy.jpg)

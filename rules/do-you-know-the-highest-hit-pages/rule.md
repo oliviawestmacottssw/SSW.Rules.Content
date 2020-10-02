@@ -17,4 +17,7 @@ Measuring which pages receive the most hits will help a great deal when looking 
 - Optimising a highly used page will have a higher impact on overall system performance
 
 A number of great tools exist to find the highest hit pages.
- ![ Application Insights can return request counts under the performance screen![GoogleAnalytics-Stats.png](GoogleAnalytics-Stats.png) ](App-Insights-return-request.png)
+ 
+![ Application Insights can return request counts under the performance screen](App-Insights-return-request.png)
+
+![ Google Analytics provides powerful usage statistics](GoogleAnalytics-Stats.png)

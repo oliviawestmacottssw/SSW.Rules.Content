@@ -16,4 +16,5 @@ Knowing the context and use of certain strings will help translators choose the 
 - Tooltip
 - Textbox Placeholder
 
- ![ Use the comment field in the resx to tell you where it is used](Localization_Commonts.jpg)
+ 
+![ Use the comment field in the resx to tell you where it is used](Localization_Commonts.jpg)

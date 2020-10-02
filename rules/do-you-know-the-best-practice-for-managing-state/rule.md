@@ -14,8 +14,10 @@ authors:
 State management is complex and time-consuming.
  
 The redux pattern helps resolve this issue.
+
 ![](maintaining-state.png)
-Bad example: maintaining state on individual components![](redux-logo.png) 
+Bad example: maintaining state on individual components
+![](redux-logo.png) 
  Good example: use the redux pattern
 The 4 principles of the redux pattern:
 

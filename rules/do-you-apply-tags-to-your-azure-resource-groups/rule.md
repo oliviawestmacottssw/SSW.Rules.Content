@@ -14,7 +14,9 @@ authors:
 To help maintain order and control in your Azure environment, applying tags to resources and resources groups is the way to go.
 
 Azure has the Tag feature, which allows you to apply different Tag Names and values to Resources and Resource Groups:
- ![ Little example of Tags in Resource Groups](tags-in-resources-group.png)
+ 
+![ Little example of Tags in Resource Groups](tags-in-resources-group.png)
+
 You can leverage this feature to organize your resources in a logical way, not relying in the names only. E.g.
 
 - **Owner tag:** You can specify who owns that resource

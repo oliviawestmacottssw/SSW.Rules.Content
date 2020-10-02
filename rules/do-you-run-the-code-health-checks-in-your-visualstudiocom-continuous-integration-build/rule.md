@@ -33,13 +33,21 @@ Summary:
 
 
 The resulting build should look like this.
-![ Good Example - Build Passing with no summary issues](VSO-Build-Good-1.png)
+
+[[goodExample]]
+| ![ Good Example - Build Passing with no summary issues](VSO-Build-Good-1.png)
+
 
 Ensure utilisation of TeamBuild2015 or higher. (No support for XAML builds)
 Edit the build definition on .visualstudio.com, and add the following build tasks.
 If your project does not contain TypeScript files, then you do not need to include the TSLint build tasks.
-![ Good Example - Steps added to build definition.](VSO-BuildDefinition-V3.png)
+
+[[goodExample]]
+| ![ Good Example - Steps added to build definition.](VSO-BuildDefinition-V3.png)
+
+
 ![ Example directory for TSLint run commands](VSO-DirectoryExampleV2.png)
+
 
 Under advanced for the Command Line tasks, the Working Directory can be specified if necessary.
 
@@ -67,7 +75,9 @@ TsLint
 
 If your build is being hosted, then the config file must be reloaded every time. If your build is running on premises, the config file will attempt to load over the existing one and break the build.
 If this is the case, just add a step to delete your config file after the scan is complete.
-![ Command line step to remove the config file (tslint.json) after the linter has run](VSO-RemoveConfig.png)
+
+![ Command line step to remove the config file ](VSO-RemoveConfig.png)
+(tslint.json) after the linter has run
 
 **Command Line** - Remove the tslint config file, as it will break future scan if the build is on premises if a config file already exists and an attempt to add another one is made.
 **Name: **Remove tslint config
@@ -85,9 +95,16 @@ At the moment, it is fine to leave the warnings in the build, since the defined 
 
 For the purposes of reporting, a unique tag must be added to the build definition which the Code Health steps have been applied to. 
 This is done with the addition of a variable (Name = PrimaryBuild, Value = true)
+
 ![ Steps to add PrimaryBuild variable to build definition](VSO-AddVariableTag.png)
+
 
 ### Check the build is running without issues
 
-![ Bad Code with a Good Code Health Implementation - Build broke due to compile errors. Must fix to proceed.![VSO-Build-Ok-1.png](VSO-Build-Ok-1.png)](VSO-Build-Bad-1.png)
+
+![ Bad Code with a Good Code Health Implementation - Build broke due to compile errors. Must fix to proceed.](VSO-Build-Bad-1.png)
+
+![ Bad Code with a Good Code Health Implementation - Successful build with warnings. These should be reprioritised as errors, or removed](VSO-Build-Ok-1.png)
+
+
 ![  Good Code with a Good Code Health Implementation - Successful build with no warnings.](VSO-Build-Good-1.png)

@@ -23,9 +23,13 @@ For example, Product Owners should not assume things like:
 They must be specified in the Acceptance Criteria if required.
 
 There are 2 parts to getting this right. The Acceptance Criteria, then the Acceptance Tests:
- ![ You need a common language to communicate in](DevsAndUsers.jpg) 
+ 
+![ You need a common language to communicate in](DevsAndUsers.jpg) 
+
 **Acceptance Criteria **(from the Product Owner) define the exact requirements that must be met for the story to be completed. They answer the question, "How will I know when I' m done with the story?"
- ![ A User Story with Acceptance Criteria (MSF Agile Template)](acceptance-criteria.jpg) 
+ 
+![ A User Story with Acceptance Criteria ](acceptance-criteria.jpg) 
+(MSF Agile Template)
 
 When I enter ‘Adam’ in the search box and click 'Search' I will see all entries starting with 'Adam' in the grid.
 Figure: Bad Example of Acceptance Criteria - Incomplete 

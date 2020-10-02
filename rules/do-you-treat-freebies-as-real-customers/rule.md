@@ -39,4 +39,5 @@ Regards,
 Adam
     **
 Zero Invoices:** When entering timesheets for free work, set your rate to $0.
+
 ![ It is a good idea to set your rate to $0 and show it on the invoice](zero-timesheet.png)

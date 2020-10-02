@@ -41,11 +41,15 @@ Using SQL Management Studio
 
 
 
+
 ![ SQL Import Wizard - Edit Mappings](IdentityImportEditMappings.png)
 
 
+
 4. Ensure the Enable identity insert is checked
+
 ![ SQL Import Wizard – Ensure Enable identity insert is checked.](EnableIdentityInsert.png)
+
 
 
 Alternatively, you can also enable and disable the identity insert through SQL with the following commands

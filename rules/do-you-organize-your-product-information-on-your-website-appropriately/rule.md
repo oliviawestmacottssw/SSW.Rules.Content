@@ -32,4 +32,5 @@ The way you present information to prospective clients determines its effectiven
 
 
 
+
 ![ How to organize your product information.](../../assets/ScreenCodeAuditor.jpg)

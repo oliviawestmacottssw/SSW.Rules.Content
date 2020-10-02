@@ -12,7 +12,9 @@ authors:
 It is important to parameterize all input to your database and it’s easy to implement.
 Doing so will also reduce a lot of headaches down the track.
 
- ![ What can happen if you don’t parameterize your inputs](ParameterizeSqlInputsXKCD.png)
+ 
+![ What can happen if you don’t parameterize your inputs](ParameterizeSqlInputsXKCD.png)
+
 Source: [xkcd.com](https://xkcd.com/327/)
 
  

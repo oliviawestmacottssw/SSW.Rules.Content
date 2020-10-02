@@ -29,6 +29,11 @@ The reason for the above validation placement is that these events run in the fo
 - Parse/Format
 - Validated
 
-![ Good Example - Error Provider Icon next to a required field](../../assets/ErrorProviderIconExample.jpg)
+
+[[goodExample]]
+| ![ Good Example - Error Provider Icon next to a required field](../../assets/ErrorProviderIconExample.jpg)
+
 Do **not** show a message box after every error in validation. You may show a message box as an error summary when an OK or Apply is clicked. Make sure you warn the user that there is an error on the form when they attempt to save.
-![ Good Example - Balloon tooltips to indicate validation errors](../../assets/ValidationBalloon.png)
+
+[[goodExample]]
+| ![ Good Example - Balloon tooltips to indicate validation errors](../../assets/ValidationBalloon.png)

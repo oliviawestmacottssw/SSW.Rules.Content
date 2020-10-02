@@ -18,7 +18,9 @@ Contacts that you create or are assigned to you (that have not been deactivated)
 To do this, in Outlook, click File | CRM | Options | Synchronization, and click Outlook Filters.
 
 
+
 ![ Contact Synchronization enabled in MS Outlook 2013](ContactSynchronizationEnabled.jpg)
+
 In Outlook, you can also choose which of your personal contacts you want to sync to CRM by using the toolbar option "Track" and "Set Parent" (i.e. company).
 
 **You now know how to do this, although it is not recommended**

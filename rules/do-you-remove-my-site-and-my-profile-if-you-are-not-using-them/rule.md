@@ -14,7 +14,9 @@ authors:
 ---
 
 **My Site** and **My Profile** are great but if you are not using them, it makes sense to remove them:
+
 ![ Links need to be hidden](LinksNeedToBeRemove.png) 
+
 
 You can follow below steps to hide “My Site” and “My Profile”,
 <br>There are a few options, based on what you need to do:
@@ -24,19 +26,24 @@ You can follow below steps to hide “My Site” and “My Profile”,
 
 > a. Go to **Central Admin**     | **Application Management** | **Service Applications**     | **Configure service application associations**, 
 >      Choose “default” link:     
-> ![ Choose “default” link](RemoveAssociation.png)
 > 
-> b.Uncheck the “**User Profile Service Application**”  in the     opened page, then click “**OK**”:![](RemoveAssociation2.png)
+![ Choose “default” link](RemoveAssociation.png)
+
+> 
+> b.Uncheck the “**User Profile Service Application**”  in the     opened page, then click “**OK**”:
+![](RemoveAssociation2.png)
 > Figure: uncheck the association for user<br>    profile service
 - **Customize permissions for only some people to have access to create personal site**
 
 > You can remove it for most people - but leave it for only some users.
 > 
 > a.Go to **Central Admin** | **Application Management**<br>    | **Service Applications** | **Manage service applications**,
-> <br>    Click the link of “User Profile Service Application”, navigate to its manage<br>    page:**![](UserProfileServiceManagePage.png)
+> <br>    Click the link of “User Profile Service Application”, navigate to its manage<br>    page:**
+![](UserProfileServiceManagePage.png)
 > **Figure: “User Profile<br>    Service Application” manage page
 > 
-> b.Click     **People** | **Manage User Permissions**, you can     customize the user profile permission for specific users:**![](CustomUserProfileServicePermission.png)
+> b.Click     **People** | **Manage User Permissions**, you can     customize the user profile permission for specific users:**
+![](CustomUserProfileServicePermission.png)
 > **Figure: Better - customize User profile<br>    permission
 - **Delete the service** (recommended if you don't need the service at all in your farm)<br>    
 
@@ -44,7 +51,8 @@ You can follow below steps to hide “My Site” and “My Profile”,
 > 
 >      Go to **Central Admin** | **Application Management** |     **Service Applications** | **Manage service applications**,
 > 
-> Select “User Profile Service Application”, then click the<br>    “Delete” button on the ribbon:**![](DeleteUserProfileService.png)
+> Select “User Profile Service Application”, then click the<br>    “Delete” button on the ribbon:**
+![](DeleteUserProfileService.png)
 > **Figure: Best - delete user profile<br>    service
 
 

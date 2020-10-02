@@ -25,4 +25,6 @@ During this meeting, you can discuss:    - Marketing activities you worked on
 6. After the meeting, send an email with what was discussed, what you worked on, and what results you have achieved. Of course, don’t forget to include the approved budget.
 7. Keep this information in a report-style document stored in your Intranet that hopefully, you can look back to compare results.
 
-![ tracking just a few information won't help you see the big picture![Screen Shot 2020-05-01 at 4.17.26 pm.png](Screen Shot 2020-05-01 at 4.17.26 pm.png)Good Example - ](marketing overview old.png)Bad Example -
+
+![](marketing overview old.png)Bad Example - Figure: tracking just a few information won't help you see the big picture
+![](Screen Shot 2020-05-01 at 4.17.26 pm.png)Good Example - Figure: tracking all your marketing efforts will help you see where you can improve and what you are already on the right track

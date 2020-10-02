@@ -34,4 +34,6 @@ View [SSW Web References](https://www.ssw.com.au/ssw/company/Web-Reference.aspx)
 
 
 You should help designers to find stuff in your Intranet:
-![ Good Example - Keep things together in your Intranet](intranet.jpg)
+
+[[goodExample]]
+| ![ Good Example - Keep things together in your Intranet](intranet.jpg)

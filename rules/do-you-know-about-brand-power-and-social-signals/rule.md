@@ -21,4 +21,5 @@ Therefore, it’s the combination of good branding and a strong social media pre
 Always include your social media signals, on your website so that people can easily connect with you and stay connected.
 
 
- ![ How Social sharing indirectly affects your Google Ranking](sharing.png)
+ 
+![ How Social sharing indirectly affects your Google Ranking](sharing.png)

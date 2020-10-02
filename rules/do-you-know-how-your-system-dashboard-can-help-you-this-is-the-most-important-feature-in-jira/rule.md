@@ -22,6 +22,8 @@ It will also show your Favourite Filters which are very useful.
  System Dashboard example:
 
 
+
 ![](SystemDashboardExample.png)The specification of the dashboard is:
+
 
 ![](SystemDashboardSpec.png)

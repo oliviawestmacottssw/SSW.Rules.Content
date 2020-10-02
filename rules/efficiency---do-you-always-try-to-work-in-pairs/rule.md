@@ -10,7 +10,9 @@ authors:
 ---
 
 There are many good reasons why it's better to work in pairs. <br>
- ![ Do you always try to work in pairs?](ProjectManagement_PairProgramming_Luge.jpg)
+ 
+![ Do you always try to work in pairs?](ProjectManagement_PairProgramming_Luge.jpg)
+
 
 For everyone:
 
@@ -34,8 +36,13 @@ SSW Chief Architect + Microsoft Regional Director
 
 
 If you are not sitting next to a person working on the same project, then fix it. If you cannot then at least mention it to your manager.
+
 [[badExample]]
-| ![ This is normal ‘pair programming’, two people working at one PC![](PairProgramming02_Small.jpg)](PairProgramming01.jpg)
+| ![ This is normal ‘pair programming’, two people working at one PC](PairProgramming01.jpg)
+
+[[goodExample]]
+| ![This is ‘working in pairs’, two guys working on the same project, with their own laptops, but sitting very close to each other](PairProgramming02_Small.jpg)
+
 ###  Is there an overhead?
 
 Some projects are done quicker with two people - especially when they are complex. But on most projects there is an overhead, because of the extra communication between the developers - you now have to please someone else - not just yourself.

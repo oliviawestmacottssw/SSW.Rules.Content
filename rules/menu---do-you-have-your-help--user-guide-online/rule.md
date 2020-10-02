@@ -15,4 +15,9 @@ There are benefits of having your user guide online:
 2. Stats on usage
 3. Allows community commenting
 
-![ Good Example - "User Guide" link in the "Help" menu![Online User Guide](../../assets/TelerikUserGuide.png)](../../assets/RulesT3.gif)
+
+[[goodExample]]
+| ![ Good Example - "User Guide" link in the "Help" menu](../../assets/RulesT3.gif)
+
+[[goodExample]]
+| ![ Good Example - Telerik keeps their "User Guide" online](../../assets/TelerikUserGuide.png)

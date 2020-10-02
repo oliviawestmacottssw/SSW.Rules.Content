@@ -19,16 +19,22 @@ We recommend you define a standard style for your visual elements by changing th
 
 ### More Information on SSW Branding
 
+
 [[badExample]]
 | ![ The balloon doesn't match our company colours](2019-10-14-Snagit-No-Branding-Example.png)
+
+
 [[goodExample]]
 | ![Balloon follows SSW branding](2019-10-14-Snagit-Branding-Example.png)
+
 
 
  
 To use SSW branding on your next screenshots, you should have the latest version of Snagit (which is the leading screen capture utility) and import the theme.
 Find SSW Snagit theme here: [\\fileserver\DataSSW\DataSSWEmployees\Templates\SSW.snagtheme](file:///fileserver/DataSSW/DataSSWEmployees/Templates/SSW.snagtheme).
+
 ![ SSW theme already includes all tools you need with our branding](2019-10-14-Snagit-Themes.png)
+
 
 Instructions to create and use Snagit themes can be found at     [Quick Style Themes Tutorial](https://www.techsmith.com/tutorial-snagit-13-quick-style-themes.html?utm_source=product&utm_medium=snagit&utm_campaign=sw13).
 

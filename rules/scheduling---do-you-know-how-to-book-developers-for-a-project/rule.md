@@ -14,7 +14,9 @@ It is the responsibility of Account Managers to book developers for known client
 To book a developer:
 
 **Prerequisite: **[Install the 2 CRM Addins](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10).
+
 ![ Using the Service Calendar, you can see who is and is not available at a given time](ServiceCalendar2013.jpg)
+
 There are a few different ways of booking developers for project work, either via Outlook or the browser.
  
 ### Option 1: Use the Outlook Calendar and "Set Regarding" (recommended)
@@ -28,22 +30,31 @@ This is generally the easiest way for developers to book themselves in as they d
 4. Set the recurrence if it’s more than 1 day of work
 5. Click "Set Regarding" on the ribbon and select the company that you want to book the developers to work on (this is the step that syncs it with CRM)
 
- ![ A complete appointment booking Mark to work for Westlink for 5 days](appointment-booking.jpg) 
+ 
+![ A complete appointment booking Mark to work for Westlink for 5 days](appointment-booking.jpg) 
+
 ### Option 2: CRM Activity Appointments 
 
 This is a backup option for anyone who doesn't have access to Outlook with the CRM addin.
 
-1. Create new appointment from the CRM 2016 web interface (also works in CRM 2013)  ![ Click Appointment to create a new appointment in CRM](appointment-new.jpg) 
+1. Create new appointment from the CRM 2016 web interface (also works in CRM 2013)  
+![ Click Appointment to create a new appointment in CRM](appointment-new.jpg) 
+
 2. Set the Subject
 3. Select the resources that you want to book
 4. Select the client that you want to book the developers to work on
 5. Set the location
 6. Set the Start and End times
 7. If the booking is for more than 1 day, click “Recurrence” and set the frequency
- ![ A complete CRM Appointment for a 1-day booking](complete-appointment.jpg) 
+ 
+![ A complete CRM Appointment for a 1-day booking](complete-appointment.jpg) 
+
 
 ### Option 3: CRM Service Activities (bad example)
- ![ Bad Example - Don't use Service Activities as they don't map as gracefully with Outlook Appointments](CRMServiceActivity.jpg)  
+ 
+[[badExample]]
+| ![ Bad Example - Don't use Service Activities as they don't map as gracefully with Outlook Appointments](CRMServiceActivity.jpg)  
+
 If you do not know who can do the work, but you know the type of resource required, you can use Service Activities.
 
 The downside of Service Activities is that they do not sync gracefully with outlook calendars.
@@ -71,6 +82,7 @@ To book someone for internal work:
 
 1. Follow the same steps as above to create the Appointment
 2. Instead of choosing a client account for "Set Regarding", choose your own company (E.g. "SSW").
+
 
 
 ![ Internally Booked days show as black and Pencilled In days show as grey](2020-03-20_10-49-19.png)

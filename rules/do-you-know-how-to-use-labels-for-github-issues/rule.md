@@ -20,6 +20,8 @@ Managing your labels on GitHub issues will let the community feel professional a
 
  When you are using an internal project management solution (such as Azure DevOps) for an open source project. It is a good idea to use labels to demonstrate that an issue is being worked on to the community.
 This way you can give the community an understanding of the current goals of the project and a higher feeling of interactivity with your development team.
+
 ![](issues_bad_example.png)Bad Example: It is hard to understand what issues are being worked on
+
 
 ![](issues_good_example.png)Good Example: It is very simple to understand if an issue has received attention

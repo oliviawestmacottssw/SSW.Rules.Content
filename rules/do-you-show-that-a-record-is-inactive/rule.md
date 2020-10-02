@@ -12,4 +12,6 @@ authors:
 ---
 
 Make it clear when a record is inactive by reducing it opacity, for example.
- ![ Good Example - Microsoft Teams clearly shows inactive users](inactive-record.png)
+ 
+[[goodExample]]
+| ![ Good Example - Microsoft Teams clearly shows inactive users](inactive-record.png)

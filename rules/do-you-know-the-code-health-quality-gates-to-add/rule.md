@@ -35,7 +35,9 @@ Search & Install the NuGet packages:
 "tslint" https://www.nuget.org/packages/tslint/
 
 For Visual Studio development on web applications, download Web Essentials, it will provide intellisense for JS, CSS, HTML, Less, Scss, and CoffeeScript. (https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials20153 )
+
 ![ Steps to install NuGet Packages](VS-InstallNuGetPackages.png)
+
 
 Here is a quick guide to the steps to install NuGet Packages to the entire solution:
  1) Right click solution
@@ -47,7 +49,9 @@ Here is a quick guide to the steps to install NuGet Packages to the entire solut
  7) Click "Install"
 
 Issues from these will now be returned in the Visual Studio analyser error list.
+
 ![ New Roslyn Rule issues raised in Visual Studio Analyser](VS-RoslynRules.png)
+
 Run Code Analysis on the project. Check over all of the warnings, if they are unnecessary or inappropriate, disable them, otherwise modify their severity level to "Error". 
 When the build is run, "Errors" will break the build, while "Warnings" will be reported, but not break the build.
 Rules which have been flagged should also be checked once the build is completed
@@ -62,10 +66,14 @@ Please also copy the current version number of this rule into the "\_Instruction
 
 The current standard for rules is just the default ones. Frequently check back here for updates to the ruleset definition.
 
+
 ![ Steps to open Visual Studio Analyser rules customisation page](VS-ModifyRules.png)
 
+
 Right Click project | Properties | Code Analysis | Open
+
 ![ How to customize rules. By either enabling / disabling rules or packages. Or by modifying the rule severity level.](VS-ModifyRules2.png)
+
 
 ### Visual Studio Code
 
@@ -74,7 +82,9 @@ For web projects, we advocate the use of CSSLint for css files and TSLint for ty
 
 Linters for these can be easily added to VS Code via extensions.
 Simply select the "Extensions" tab, search for "CSSLint" and "TSLint" and click "Install" on each respectively.
+
 ![ Addition of CssLint and TSLint to VS Code Project](VSCode-Extensions.png)
+
 
 If you prefer not to use the Extensions (which are currently a bit out of date). You can install them using npm as normal.
 
@@ -86,9 +96,15 @@ TSLint https://www.npmjs.com/package/tslint
 
 Ensure utilisation of TeamBuild2015 or higher. (No support for XAML builds)
 Edit the build definition
+
 ![ Steps to edit an existing build definition on VisualStudio.com ](VSO-EditBuild.png)
+
 Select "Build & Release" > Select "Builds" > Click on your existing build > Click "Edit"
-![ Example completed build definition.![VSO-DirectoryExampleV2.png](VSO-DirectoryExampleV2.png)](VSO-BuildDefinition-V3.png)
+
+![ Example completed build definition.](VSO-BuildDefinition-V3.png)
+
+![ Example directory for TSLint run commands](VSO-DirectoryExampleV2.png)
+
 
 Under advanced for the Command Line tasks, the Working Directory can be specified if necessary.
 
@@ -117,7 +133,9 @@ TsLint
 
 If your build is being hosted, then the config file must be reloaded every time. If your build is running on premises, the config file will attempt to load over the existing one and break the build.
 If this is the case, just add a step to delete your config file after the scan is complete.
-![ Command line step to remove the config file (tslint.json) after the linter has run](VSO-RemoveConfig.png)
+
+![ Command line step to remove the config file ](VSO-RemoveConfig.png)
+(tslint.json) after the linter has run
 
 **Command Line** - Remove the tslint config file, as it will break future scan if the build is on premises if a config file already exists and an attempt to add another one is made.
 **Name: **Remove tslint config
@@ -134,12 +152,24 @@ At the moment, it is fine to leave the warnings in the build, since the defined 
 
 
 If your project does not contain TypeScript files, then you do not need to include the TSLint build tasks.
-![ Ensure TSLint actually finds files to scan (if the project includes TSLint files) otherwise it will pass without you noticing](VSO-EnsureTSLintRuns.png)
+
+![ Ensure TSLint actually finds files to scan ](VSO-EnsureTSLintRuns.png)
+(if the project includes TSLint files) otherwise it will pass without you noticing
 
 
 
 For the purposes of reporting, a unique tag must be added to the build definition which the Code Health steps have been applied to. 
 This is done with the addition of a variable (Name = PrimaryBuild, Value = true)
-![ Steps to add PrimaryBuild variable to build definition![VSO-BuildResult-BadV3.png](VSO-BuildResult-BadV3.png)](VSO-AddVariableTag.png)
-![ Bad Example - Successful build with warnings. Should be disabled or set as errors.](VSO-BuildResultV3.png)
-![ Good Example - Successful build with no warnings.](VSO-BuildResult-GoodV3.png)
+
+![ Steps to add PrimaryBuild variable to build definition](VSO-AddVariableTag.png)
+
+[[badExample]]
+| ![ Bad Example - Build broke due to compile errors. Must fix to proceed.](VSO-BuildResult-BadV3.png)
+
+
+[[badExample]]
+| ![ Bad Example - Successful build with warnings. Should be disabled or set as errors.](VSO-BuildResultV3.png)
+
+
+[[goodExample]]
+| ![ Good Example - Successful build with no warnings.](VSO-BuildResult-GoodV3.png)

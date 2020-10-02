@@ -18,7 +18,10 @@ authors:
 ---
 
 While working on a task or PBI, it is very important that you save any discussions or contextual information related to the work completed. This helps for future understanding of what happened as well as providing relevant documents that support your research claims.
- ![](no-email-attached.png)Bad Example: An important research task that hasn't is missing records of communication![](email-in-the-description.png)Good Example: Email is copied to the description
+ 
+![](no-email-attached.png)Bad Example: An important research task that hasn't is missing records of communication
+![](email-in-the-description.png)Good Example: Email is copied to the description
+
 ![](email-attached-to-the-pbi.png)Good Example: Related emails are attached to the PBI
 When attaching an email to the PBI, consider whether or not a response to the email is required. The sender will usually expect a response when the issue is resolved. If a response is required, update the Acceptance Criteria with a note. E.g. 
 Send a done email in reply to the original email (attached).

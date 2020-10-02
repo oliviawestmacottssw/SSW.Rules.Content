@@ -14,11 +14,17 @@ authors:
 ---
 
 [[badExample]]
-| ![ Every developer commits to the master branch, code is not reviewed, and code quality is poor![github-pullrequest-bad-2.png](github-pullrequest-bad.png)](github-pullrequest-bad-2.png)
-Figure: Bad example - Use the out of the box pull requests to ensure all code is reviewed 
- [[goodExample]]
-| ![Use the plugin "Reviewable". Reviewable improves pull requests and code reviews with a powerful UI and easy code commenting. See the Reviewable icon above ![github-pullrequest-2.png](github-pullrequest-2.png)](github-pullrequest-1.png)
-Figure: See how easy it is to see the code rejected
+| ![ Every developer commits to the master branch, code is not reviewed, and code quality is poor](github-pullrequest-bad-2.png)
+
+[[badExample]]
+| ![ Use the out of the box pull requests to ensure all code is reviewed ](github-pullrequest-bad.png)
+
+ 
+[[goodExample]]
+| ![Use the plugin "Reviewable". Reviewable improves pull requests and code reviews with a powerful UI and easy code commenting. See the Reviewable icon above ](github-pullrequest-1.png)
+
+![ See how easy it is to see the code rejected](github-pullrequest-2.png)
+
 
 
 

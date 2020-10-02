@@ -60,5 +60,7 @@ Regards,
 Eric Phan
 ```
 
-Figure: Best example - run SQL scripts in the application ![ Deploy SQL scripts by the application itself ](UsingSQLDeployControl.png) 
+Figure: Best example - run SQL scripts in the application 
+![ Deploy SQL scripts by the application itself ](UsingSQLDeployControl.png) 
+
  We have a tool called [SQL Deploy](http://www.ssw.com.au/ssw/SQLDeploy) can do this.

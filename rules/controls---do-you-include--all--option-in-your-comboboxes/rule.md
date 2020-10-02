@@ -36,7 +36,22 @@ ALTER TABLE [TableName] ADD CONSTRAINT CK\_String\_Identifier
 
 
 
-![ Bad Example - No '-All-' option so the user cannot select all data![ComboBox without All](../../assets/Combo-ALL-2.jpg)](../../assets/Combo-ALL-1.jpg)
+
+[[badExample]]
+| ![ Bad Example - No '-All-' option so the user cannot select all data](../../assets/Combo-ALL-1.jpg)
+
+[[goodExample]]
+| ![ Good Example - Having an '-All-' option gives a user a chance to select all data](../../assets/Combo-ALL-2.jpg)
+
 Also, keep it simple!
-![ Bad Example - '-All Stores-' isn't needed![All when you have multiple fields.](../../assets/SelectAllBad.jpg)
+
+[[badExample]]
+| ![ Bad Example - '-All Stores-' isn't needed](../../assets/SelectAllBad.jpg)
+
+[[goodExample]]
+| ![ Good Example - Keep it as a simple '-All-'](../../assets/SelectAllGood.jpg)
+
+[[goodExample]]
+| ![ Good Example - Keeping it simple makes it easy to spot ](../../assets/SelectAllVGood.gif)
+(that there is no filter) when you have multiple fields.
 Read our rule on [Always make sure the dimensions All Captions = All](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterBusinessIntelligence.aspx#AllDimensionsTag).

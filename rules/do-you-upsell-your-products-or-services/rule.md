@@ -19,7 +19,8 @@ Say you are talking to a customer having problems with a product e.g. Upsizing P
 
 Customers normally appreciate this sentiment. You need to remember that prospects don't always know exactly what they want or need and that's exactly why they've gone to the experts - YOU.
 
- ![](fries-mcdonalds-whitebg.gif)#2 When consulting, upsell/cross-sell opportunities you spot
+ 
+![](fries-mcdonalds-whitebg.gif)#2 When consulting, upsell/cross-sell opportunities you spot
 When an **Account Manager sells** a solution to a customer, they are generally not trusted and have a bunch of competition.
 
 When a **developer sells** the same solution to a customer they are generally trusted and have no competition - It is easier for a dev to upsell/cross-sell.

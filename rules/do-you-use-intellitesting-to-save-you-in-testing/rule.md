@@ -14,6 +14,11 @@ It is difficult to measure test quality as there are a number of different avail
 However, the most important question a dev can ask themselves is, "What assertions should I test?".
 
 This is where IntelliTesting comes into play. The feature, formerly known as Smart Unit Testing (and even more formerly known as PEX), will help you answer this question by intelligently analyzing your code. Then, based on the information gathered, it will generate a unit test for each scenario it finds.
- [[badExample]]
-| ![ What’s wrong with this code?![IntelliTest-Good.png](IntelliTest-Good.png)](IntelliTest-bad.png)
+ 
+[[badExample]]
+| ![ What’s wrong with this code?](IntelliTest-bad.png)
+
+[[goodExample]]
+| ![IntelliTest in action](IntelliTest-Good.png)
+
 In short, by using IntelliTest, you will increase code coverage, greatly increase the number of assertions tested, and increase the number of edge cases tested. By adding automation to your testing, you save yourself time in the long run and reduce the risk of problems in your code caused by simple human error.

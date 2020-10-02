@@ -23,7 +23,9 @@ A thumbnail can draw attention by:
 
 YouTube offers [resources to create better custom thumbnails](https://support.google.com/youtube/answer/72431?hl=en) including image size and resolution, policies, etc.
 
+
 ![](thumbnail_bad.png)Bad example: despite looking "trustworthy", a thumbnail automatically generated from the video is not engaging enough.
+
 
 
 ![](thumbnail_good.png) Good example: a custom thumbnail looks professional and already gives important information about the content of the video.

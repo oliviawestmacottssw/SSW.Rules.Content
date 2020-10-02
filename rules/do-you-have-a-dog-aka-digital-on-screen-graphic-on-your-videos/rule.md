@@ -28,4 +28,6 @@ A Good DOG must:
 3. Be in a semi-transparent format - usually  50 %  transparent white
 4. Remain consistently placed throughout the broadcast
 
-![](dog-bad.jpg)Figure – Bad example: Channel ID is too obstructive and has unusual placement![](dog-good.jpg)Figure – Good example: DOG placed in lower right corner where it's not obtrusive
+
+![](dog-bad.jpg)Figure – Bad example: Channel ID is too obstructive and has unusual placement
+![](dog-good.jpg)Figure – Good example: DOG placed in lower right corner where it's not obtrusive

@@ -40,7 +40,9 @@ By recording these activities, reports can be created to view:
 - The history for all sales activities relating to an opportunity. This is useful to review before making a call (but is not necessary if you CC each other).
 - Which opportunities have been neglected. This is a custom report and could be useful in a large company where opportunities could slip through the cracks.
 
- ![ Activities Report - Ulysses was the hardest worker for this month. Print this and put it on the wall and it will encourage everyone to log their calls ](TrackingGraph.jpg)  
+ 
+![ Activities Report - Ulysses was the hardest worker for this month. Print this and put it on the wall and it will encourage everyone to log their calls ](TrackingGraph.jpg)  
+
 **Note:** You can see more details on what emails to track in [Do you know to hit 'Track' when you receive an important email?](/Pages/Hit-Track-in-CRM-when-you-receive-an-important-email.aspx)
 
 **Prerequisite: **[Install the 2 CRM Addins](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10)

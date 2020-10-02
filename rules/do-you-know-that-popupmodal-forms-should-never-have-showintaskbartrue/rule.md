@@ -8,7 +8,9 @@ authors: []
 ---
 
 Question: What is wrong with this Picture?
+
 ![ Can you tell what is wrong with this Picture? ](../../assets/ShowInTaskBar.jpg)
+
 Answer: The 2 SSW SQL Auditor windows are bad, because one is just a modal form.
 
 Note: We don't check for this in Code Auditor because making a form display as popup, is done at runtime via the ShowDialog method.

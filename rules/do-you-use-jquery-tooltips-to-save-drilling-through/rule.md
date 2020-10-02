@@ -11,4 +11,9 @@ authors:
 
 It is common when we browse a list page, we have to click the "More..." or "Details" button to view the item detail. This process takes more time because we need to wait for the loading of the detail page.
 
-<br>To improve the performance, we can use jQuery plus CSS to show tooltips in the list page that can let users determine which item detail they want to see. <br> ![ Bad Example - redirect to a new page to view the detail ![Good Example - show tooltip when mouse is over in the list](ViewTooltipGrid.jpg) ](ViewDetailGrid.jpg)
+<br>To improve the performance, we can use jQuery plus CSS to show tooltips in the list page that can let users determine which item detail they want to see. <br> 
+[[badExample]]
+| ![ Bad Example - redirect to a new page to view the detail ](ViewDetailGrid.jpg) 
+
+[[goodExample]]
+| ![ Good Example - show tooltip when mouse is over in the list ](ViewTooltipGrid.jpg)

@@ -16,4 +16,5 @@ Search for the client photo in Google Images or Facebook:
 - "Tom Northwind" Australia
 - "Tom Northwind" Facebook
 
+
 ![ Remember to add a photo of the client](Proposals_ClientPhoto.jpg)

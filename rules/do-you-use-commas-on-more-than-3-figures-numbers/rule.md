@@ -11,7 +11,13 @@ authors:
 
 ---
 
-In numbers of more than 3 digits, always use commas. This makes reading much easier. ![ Bad example: No commas make it harder to read ![numbers-good-example.png](numbers-good-example.png)](numbers-bad-example.png)
+In numbers of more than 3 digits, always use commas. This makes reading much easier. 
+[[badExample]]
+| ![ Bad example: No commas make it harder to read ](numbers-bad-example.png)
+
+[[goodExample]]
+| ![ Good example: Commas make it easier to read  Note: Numbers which normally do not take commas are:](numbers-good-example.png)
+
 
 
 - ZIP codes

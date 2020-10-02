@@ -13,5 +13,6 @@ When you ring up a company and ask “do you sell boxes?” it is not expected t
 
 Websites should do the same by giving more information instead of just say “404 – page not found” or “your search did not match anything”. It can be a simple “Try one of these instead” giving a number of links.
 
- [[goodExample]]
+ 
+[[goodExample]]
 | ![If you don’t match anything on Amazon, it gives you some other choices to click on](amazon-search.jpg)

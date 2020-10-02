@@ -16,7 +16,9 @@ authors:
 ---
 
 The findings of the Spec Review should be presented at a meeting with the key decision makers of the project for review and acceptance, generally in the form of a PowerPoint presentation, or sometimes a word doc. It is important that all the required people are in a room together to review the plan.
- ![ It's a lot easier to get a signature when you've got the right people in the room ](ProjectManagement_DecisionMakers_Small.jpg)
+ 
+![ It's a lot easier to get a signature when you've got the right people in the room ](ProjectManagement_DecisionMakers_Small.jpg)
+
 If you've run the Spec Review successfully the client should not be surprised by anything you present. This means discussions should focus on issues such as what particular requirements could be added into the scope for the MVP, or what releases can be completed by what date, rather than spending the meeting helping the client regain consciousness after they blacked out from seeing the price.
 
 The Spec Review presentation should be scheduled by the Consultant or Account Manager for the afternoon of the final day of the Spec Review.
@@ -40,8 +42,10 @@ The Spec Review presentation should be scheduled by the Consultant or Account Ma
 - **Option D **- Video of PowerPoint presentation with narrations **exported to a video** (the best option to gather more feedback, you can even gather public feedback E.g. PointBank https://sswconsulting.github.io/PointBank/).
 Make sure to name your video according to the rules on [How to Include Version Numbers in Your File](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d2f51289-6130-4f59-864f-7b41329000cd), and add a version number to it by following the rule on How to Use a Version Number on Your Videos. Publish your video to YouTube afterwards so you can easily share it with colleagues and clients.
 
+
 [[goodExample]]
 | ![Export your PowerPoint presentation as a video](3-01-2014 10-13-04 PM.png)
+
 
 ### Video Examples <br>   
 

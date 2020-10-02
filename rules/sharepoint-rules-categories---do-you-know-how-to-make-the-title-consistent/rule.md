@@ -21,4 +21,5 @@ When you want to update the Rule Title, please DO NOT update them in the list di
 - Item Title in RuleCategoryLookupData List
 
   Like this (thanks for Adam's snapshot) : 
+
 ![](SPTitle.jpg)

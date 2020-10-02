@@ -16,14 +16,17 @@ You can open the relevant task in two ways:
 
 Once the task is displayed:
 
+
 ![](TaskToAnswer.png)
 
 You decide whether it is still required or not. 
 If it isn't - select Close and choose a relevant resolution:
 
+
 ![](ClosingFromQuestion.png)
 
 Otherwise, if it is still required, select Answer and complete the fields as shown, please read the description of the fields carefully:
+
 
 ![](Answer.png)
 

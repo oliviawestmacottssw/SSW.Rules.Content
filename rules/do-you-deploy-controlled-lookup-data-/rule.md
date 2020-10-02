@@ -19,7 +19,11 @@ Lookup data is data that you usually see in combo boxes. It may be a Customer Ca
  3) You then need to add a check for it so that it does not disappear.
 
 Let's look at an example:
-![ This combo looks innocent. However if it is "Billable" then the calendar goes yellow ![](TimeProCalendar.png) ](TimeProDropDown.png) 
+
+![ This combo looks innocent. However if it is "Billable" then the calendar goes yellow ](TimeProDropDown.png) 
+
+![ Billable days are shown in yellow ](TimeProCalendar.png) 
+
 
 ```
 if (drDay.NotBillableCount == 0 && 

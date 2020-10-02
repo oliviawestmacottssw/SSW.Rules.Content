@@ -35,7 +35,9 @@ There are tools to help you do this:
 
 - [SSW TFS Add-in - Release Update/Debrief Report](http://www.ssw.com.au/ssw/AgileTemplate/UserGuide.aspx#ReleaseUpdate)
 
- ![ The actual output of the Release Update Report  ](ProgressReport_small.jpg)  
+ 
+![ The actual output of the Release Update Report  ](ProgressReport_small.jpg)  
+
 Here is a PDF format [SSW Release Update Report.](http://www.ssw.com.au/ssw/AgileTemplate/Sample/Reports.zip)
 
 **If you are at the end of a main section of work, promote your success **

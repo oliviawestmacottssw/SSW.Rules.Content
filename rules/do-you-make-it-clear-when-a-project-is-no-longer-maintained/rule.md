@@ -10,6 +10,11 @@ authors:
 ---
 
 It is important that users of your open source contributions are aware if you are maintaining them and keeping them up to date.
-  ![ Good Example - It is clear that the project is not going to be updated, and where to go for the most recent version. The description starts with "Retired" , and the readme very clearly indicates that the project has been replaced with a newer version and where to get it ](open-source-retired.png) 
+  
+[[goodExample]]
+| ![ Good Example - It is clear that the project is not going to be updated, and where to go for the most recent version. The description starts with "Retired" , and the readme very clearly indicates that the project has been replaced with a newer version and where to get it ](open-source-retired.png) 
 
- ![ Good Example - one off repos. For repositories just created to share code with students, it should be clear that the code will not be updated and maintained, and reference the course associated with its creation ](open-source-retired-2.png)
+
+ 
+[[goodExample]]
+| ![ Good Example - one off repos. For repositories just created to share code with students, it should be clear that the code will not be updated and maintained, and reference the course associated with its creation ](open-source-retired-2.png)

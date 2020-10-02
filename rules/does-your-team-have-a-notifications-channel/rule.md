@@ -23,7 +23,9 @@ A majority of these notifications can be created using the connectors that are b
 - Select the three dots in the top right of the screen and select "Connectors."
 
 
+
 ![ This is how you begin the process of adding a connector.](Add-a-Connector.png)
+
 
 
 
@@ -33,7 +35,9 @@ A majority of these notifications can be created using the connectors that are b
 - Select "Add" on the connector that you want to use.
 
 
+
 ![ This is the pop-up that allows you to select which connector to add.](Select-a-Connector.png)
+
 
 
 
@@ -42,6 +46,7 @@ A majority of these notifications can be created using the connectors that are b
 
 - Give the Connector a name that describes what it does.
 - Complete the other configuration options for the Connector and click "Save."
+
 
 
 ![](Connector-Settings.png)**
@@ -59,10 +64,14 @@ Sometimes you may have to choose between multiple connectors that can serve the 
 
 
 
+
 [[badExample]]
-| ![ Bad example – There is no thumbnail and no link to the video. (It is nice that you can add custom text – inside the 2 emoijs)](Notification-Bad-Example.png)
+| ![ Bad example – There is no thumbnail and no link to the video. ](Notification-Bad-Example.png)
+(It is nice that you can add custom text – inside the 2 emoijs)**
+
 
 
 
 [[goodExample]]
-| ![ Good example – There is a thumbnail and a link to the video. (Although there is no custom text)](Notification-Good-Example.png)
+| ![ Good example – There is a thumbnail and a link to the video. ](Notification-Good-Example.png)
+(Although there is no custom text)**

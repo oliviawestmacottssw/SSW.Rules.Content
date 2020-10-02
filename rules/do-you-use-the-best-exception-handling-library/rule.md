@@ -31,6 +31,8 @@ If you are still developing Windows applications, then SSW Exception Logger is t
 
 ELMAH can be easily added to your application from NuGet, and it configures itself.
 
+
 ![ Add ELMAH to your web application from NuGet](2014-09-08_10-56-57-compressor.png)
+
 
 See also [Do you use the best middle tier .Net libraries?](/Pages/use-the-best-exception-handling-framework.aspx)

@@ -23,9 +23,20 @@ Here is a list of English words which are OK to use on your user interface:
 - AI
 - 3D
 
-![ Good Example - Microsoft's Chinese software downloading site use "FAQ" on the main menu](microsoft download site.jpg)
+
+[[goodExample]]
+| ![ Good Example - Microsoft's Chinese software downloading site use "FAQ" on the main menu](microsoft download site.jpg)
 
 
-![ Good Example - SugarLearning.cn site use "FAQ" on the main menu](sugarlearning cn site.jpg)
-![ Good Example - Apps keep "V" or "Version" in English](versionok.png)
-![ Good Example - iOS keep "ID" in English](FACE ID.png)
+
+
+[[goodExample]]
+| ![ Good Example - SugarLearning.cn site use "FAQ" on the main menu](sugarlearning cn site.jpg)
+
+
+[[goodExample]]
+| ![ Good Example - Apps keep "V" or "Version" in English](versionok.png)
+
+
+[[goodExample]]
+| ![ Good Example - iOS keep "ID" in English](FACE ID.png)

@@ -28,5 +28,6 @@ Figure: Better example - this link is sent in the clear as it is short enough
 So you should only 'Auto Shorten URLs' when it is too long and you need the space.
 
 However, it is becoming more prevalent for the software to support showing the full URL on rollover.
+
 [[goodExample]]
 | ![ Good example – the application does the heavy lifting for you](RulesSocialTwitterReadableURL.jpg "image")

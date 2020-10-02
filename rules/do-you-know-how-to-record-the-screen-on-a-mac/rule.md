@@ -14,12 +14,19 @@ authors:
 If you don't have Camtasia or ScreenFlow, you can use the built-in QuickTime Player to record the screen on Mac OSX.
  
 Open the QuickTime Player through the Applications folder, or by using search (Ctrl + Space) and typing QuickTime:
+
 ![ Search for QuickTime Player](QuickTime Player.png) 
+
 From QuickTime Player, you can start a new Screen Recording from the File menu:
+
 ![ QuickTime Player New Screen Recording ](QuickTime new screen recording.png)
+
 In the Screen Recording window, you an select which microphone to use if you want to record audio:
+
 ![ Select your audio device](QuickTime Recorder.png) 
-**Tip:** Alternatively, you can use [Loom](https://www.useloom.com/) , which works as a Google Chrome extension.
+
+**Tip:** Alternatively, you can use [Loom](https://www.useloom.com/) 
+, which works as a Google Chrome extension.
 
 ### Related Rule 
 

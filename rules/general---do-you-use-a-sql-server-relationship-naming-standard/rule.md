@@ -21,14 +21,22 @@ Relationship names are to have this syntax:
 
 [1] The table whose columns are referenced by other tables in a one-to-one or one-to-many relationship.
 Rather than accepting the default value i.e. ClientAccount\_FK01 that is given from upsizing.
-![ Bad Example - using the default relationship name](imgRelationshipPic1.gif)
+
+[[badExample]]
+| ![ Bad Example - using the default relationship name](imgRelationshipPic1.gif)
+
 
 We recommend using Prod-ClientAccount.
-![ Good Example - using a more descriptive relationship name](imgRelationshipPic2.gif)
+
+[[goodExample]]
+| ![ Good Example - using a more descriptive relationship name](imgRelationshipPic2.gif)
+
 
 
 
 The good thing is when you look at the relationship from the other side it is there as well.
+
 ![ Relationship name shown on the other table](imgRelationshipPic3.gif)
+
 
 We also believe in using Cascade Updates - but never cascade deletes.

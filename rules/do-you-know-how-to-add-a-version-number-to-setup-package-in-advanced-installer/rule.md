@@ -19,4 +19,5 @@ Here is how you do it in Advanced Installer:
 2. Choose <br>      **Configuration** tab and click in <br>      **MSI name** text box which is located under <br>      **Output** section
 3. Next to the text add <br>      [|ProductVersion]. If the text-box is empty you may want to start it with <br>      [|ProductName]
 
+
 ![ Advanced Installer - Add version to output package](installer-add-version-number.jpg)

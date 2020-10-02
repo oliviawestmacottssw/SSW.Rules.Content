@@ -30,4 +30,5 @@ If you need further instructions, you can find more at Microsoft Ads support: ht
 
 
 
+
 ![ Import Campaigns default selection will match your budget from Google](Msads.png)

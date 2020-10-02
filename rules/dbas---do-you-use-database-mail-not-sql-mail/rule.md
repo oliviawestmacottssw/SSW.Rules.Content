@@ -19,8 +19,10 @@ SQL Server includes Database Mail (it was a new feature released back in 2005 as
 - Logging and auditing
 - Attachment size regulations and file extension requirements
 
- [[badExample]]
+ 
+[[badExample]]
 | ![ Using SQL Mail](SQLDatabases_SQLMail.png)
+
 EXEC master.dbo.xp\_smtp\_sendmail
 @FROM = N'your@email.com',
 @FROM\_NAME = N'Sophie Belle',
@@ -30,8 +32,10 @@ EXEC master.dbo.xp\_smtp\_sendmail
 @type = N'text/html',
 @server = N'mail.company.com.au'
 Figure: Bad example - Avoid using SQL Mail -  you need to have Outlook on the server and there is no built-in logging
+
 [[goodExample]]
 | ![ Use Database Mail](SqlDatabaseMail01.png)
+
 USE msdb
 Execute dbo.sp\_send\_dbmail
 @profile\_name = 'UTS',

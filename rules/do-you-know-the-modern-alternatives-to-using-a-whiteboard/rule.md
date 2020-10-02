@@ -26,7 +26,9 @@ This could then be screen-shared for remote meeting attendees and is easily save
 ### #2 Tech Whiteboard replacement
 
 - **Samsung Flip** ($3k)
- ![ Samsung flipchart can be flipped from horizontal to vertical](samsung-flip.png) 
+ 
+![ Samsung flipchart can be flipped from horizontal to vertical](samsung-flip.png) 
+
 - **Microsoft Surface Hub 2** (coming - about $5K)
 
 
@@ -34,7 +36,9 @@ This could then be screen-shared for remote meeting attendees and is easily save
 
 
 Old school but it is great to have a pen in hand, you can always just grab a big piece of paper and draw on it together.
+
 ![ Paper whiteboards are bad is someone is in Sydney and the other attendee is in Melbourne](paperboard.jpg)
+
 
 
 ### #4 Whiteboard and marker - Low tech (ugly) 
@@ -53,4 +57,5 @@ The common scenario is for a spec review. I am always happy when I see devs usin
 
 
 Low tech (ugly) – Paint a wall to be writable or put some writable film on an office glass wall
- ![ Writable walls can be dirty even after cleaning up ](writable-walls.jpg)
+ 
+![ Writable walls can be dirty even after cleaning up ](writable-walls.jpg)

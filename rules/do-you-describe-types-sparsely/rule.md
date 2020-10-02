@@ -18,4 +18,5 @@ This comes down to personal preference, but there are only a few times when you 
 Of course, there are also times when you may want to be more explicit – you may want to have an interface as a function return value instead of the class, for example.
  
 The rest of the time, rely on TypeScript to infer the type for you.
+
 ![ Except for the input parameter, TypeScript can infer all the types for this function](describe.png)

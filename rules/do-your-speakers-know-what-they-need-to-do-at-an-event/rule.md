@@ -21,7 +21,9 @@ On the day of your event, chat to the speaker and give them the Speaker Checklis
 - Tell the audience the agenda, so they know the break times.
 - We recommend the following breaks:
 
+
 ![ A schedule to give to your speakers to help with time keeping ](Schedule.jpg)
+
 
 ### 2. Breaks
 
@@ -38,6 +40,7 @@ TIP: We also have a handy rule on this: https://rules.ssw.com.au/do-you-set-a-cl
 Draw yourself a rough diagram of the room, start with intros an then go around the room and write people's names down for future reference. It will make speaking to them later a lot more personal if you can learn their name.
 
 Tip: Draw the table layout before people arrive - it's faster. It's also easy if you draw the view you see looking at the audience.
+
 ![](Diagram-Desk-layout2.jpg)
 **  Figure: An example of the room layout with attendee's name, and memorable things about the   m**
 

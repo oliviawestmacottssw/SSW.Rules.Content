@@ -25,9 +25,11 @@ Two things should be done:
 
 
 
+
 ![](broken builds.png)
 
 Bad Example: Too many broken builds in a row.
+
 
 
 ![](good builds.png)

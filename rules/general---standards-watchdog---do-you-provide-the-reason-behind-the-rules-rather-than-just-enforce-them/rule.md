@@ -19,4 +19,5 @@ For example: If one of your responsibilities is to make sure all your developers
 
 A better approach is, when you see developers not sending "test please" emails, explain that they save time by getting early feedback, allowing bugs to be fixed while it's still fresh in the developers' minds. Explain to them that the cost of a bug increases over time.
 
+
 ![ "The floggings will continue until morale improves"](DontCriticize.jpg)

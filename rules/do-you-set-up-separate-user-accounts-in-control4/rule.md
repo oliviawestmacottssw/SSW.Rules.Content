@@ -19,4 +19,5 @@ If everyone is using an individual account, it is as simple as disabling (or del
 
 
 
+
 ![ Use the Customer Portal to add accounts for all users](ManageUser.png)

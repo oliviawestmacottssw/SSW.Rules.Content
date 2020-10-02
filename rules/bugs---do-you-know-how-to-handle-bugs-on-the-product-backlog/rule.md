@@ -56,5 +56,7 @@ Examples:
 
 
 
+
 ![ Bugs can be added "out of sprint" directly into the product backlog in TFS](2016-02-08_12-02-29.png)
+
 The Visual Studio team provides good guidance on [managing bugs in VSTS](https://www.visualstudio.com/en-us/docs/work/backlogs/manage-bugs)

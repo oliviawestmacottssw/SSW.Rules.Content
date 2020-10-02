@@ -44,8 +44,10 @@ That means all tests must pass.
 Test.Integration.WebUI: This test project tests the WebUI and depends on other external resources (Eg. probably needs a database, web services, etc.).
 That means if any external resource is unavailable, the tests will fail.
 Tests.Functional.SilverlightUI: Tests the Silverlight UI from an end-user perspective by clicking around in the application
+
 [[goodExample]]
 | ![Naming for a Unit Test ProjectSamples Naming of test methods](UnitTestsProject.jpg)
+
 [TestMethod]
  public void Test\_Client()
 Bad example: There is no way to guess what this test does; you have to read the source
@@ -104,6 +106,11 @@ namespace SSW.NETToolkit.IntegrationTests
         }
     }
   }
+
 ![ This rule is consistent with the Visual Studio defaultTip: You can create a test project using the Unit Test Wizard: Test > Add New Test](TestGenerationSettings.gif)
 
-![ Unit Test Wizard 1![CreateUnitTests.gif](CreateUnitTests.gif)](AddNewTest.gif)
+
+
+![ Unit Test Wizard 1](AddNewTest.gif)
+
+![ Unit Test Wizard 2](CreateUnitTests.gif)

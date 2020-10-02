@@ -16,7 +16,9 @@ authors:
 One of the annoying things with SharePoint document libraries is that users often accidentally leave checked out files, that preventing others from modifying them.
 
 Suggestion to Microsoft: send an email to the user to remind them they have outstanding checkouts potentially blocking other users.
+
 ![ Here Greg Harris has not checked in a file ](sp-docs.jpg)
+
 
 
 **Upgrade warning:** The pages that are not checked-in, will not be migrated on a SharePoint upgrade. There is \*no\* warning either.
@@ -34,18 +36,24 @@ Eg. SSW.Dory
 1. Create CAML query in site content and structure
 
 Go to "Site Settings | Manage Content and Structure | Content and Structure Reports", click "New":
+
 ![ Create a new report](ContentAndStructureReportsNew.png)
+
 Fill the "CAML Query":
 
 
 Fill the other fields like below:
+
 ![ Fill in form](NewReportForm.png)
+
 2. Run Checked Out report
 
  
 
 Run the checkout report from "Site Settings | Manage Content and Structure | View: Checked out documents":
+
 ![ Checked Out Documents report link Make sure there are no files checked out, otherwise, go step 3](CheckedOutDocuments.png)
+
 3. Go chase after the users.
 
 **Solution B. Custom application report (Includes some coding work)
@@ -62,7 +70,9 @@ To make reminding users easier, this SharePoint Add-in has a custom page to show
 Even better, we have also improved the application with a scheduled task using SharePoint CSOM API to find checked out files and send these notification emails automatically every night.
 
 
+
 ![ One button reminds all users of their "Checked out Files"](CheckedOutFilesApplicationReport.png)
+
 
 
 

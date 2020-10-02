@@ -45,6 +45,8 @@ a. Compiled/Built locally
      c. All unit tests passed
 
 Then add an illustration to show this.
+
 [[goodExample]]
-| ![ This is proof you have met your '[Done criteria](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6449ae79-ba88-447e-aa48-36173029a2af)'. ](ProveDoneCriteria.png "image")
+| ![ This is proof you have met your '](ProveDoneCriteria.png "image")
+[Done criteria](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6449ae79-ba88-447e-aa48-36173029a2af)'. 
 This is all designed to help you Scrum Team members (Product Owner, Scrum Master and Team) keep a certain quality bar on completion of each chunk of work. Remember that you are not 'DONE' until your team says you are done.

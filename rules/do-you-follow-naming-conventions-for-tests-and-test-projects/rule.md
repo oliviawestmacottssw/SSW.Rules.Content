@@ -35,7 +35,9 @@ Test projects can be located either:
 - Directly next to the project under test – which makes them easy to find, or
 - In a separate tests location – which makes it easier to deploy the application without tests included.
 
+
 ![ In the above project, the tests are clearly placed in a separate location which makes it easy to deploy to production without them. It’s easy to tell which project is under test and what style of tests will be found in each test project. <br>      https://github.com/jasontaylordev/CleanArchitecture](clean-architecture-naming.png)
+
 ### Naming Conventions for Tests
 
 There are a few “schools of thought” when it comes to naming the tests themselves. 
@@ -50,7 +52,10 @@ Remember that descriptive names are useful – but the choice of name is not the
 - Remember that the F12 shortcut will navigate from the body of your test straight to the method you’re calling.
 - The point of a naming convention is to make code more readable, not less - so use your judgement and call in others to verify your readability.
 
-![ Bad Example - From the test explorer view you cannot tell what a test is meant to test from the name](bad-naming.png)
+
+[[badExample]]
+| ![ Bad Example - From the test explorer view you cannot tell what a test is meant to test from the name](bad-naming.png)
+
 **[Method/PropertyName]\_Should\_[ExpectedBehavior]\_When\_[StateUnderTest]**
 Figure: The "should" naming convention is effective – it encourages developers to clearly define the expected result upfront without requiring too much verbosity. 
 The following test names use the "should" naming convention:

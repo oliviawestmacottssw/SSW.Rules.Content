@@ -10,7 +10,9 @@ authors: []
 .NET applications can sometimes produce a stack trace of an error, these error messages are all we need to figure out what has happened.  **Please do not send us this screen shot**, instead, select the top section of what's within this box and paste it in an email that you can send back to us.
  
 The text within the 'Details' button is more useful for debugging and locating the problem.
+
 ![ Bug details window](../../assets/DotNetDebug2.GIF)
+
 See the end of this message for details on invoking 
 just-in-time (JIT) debugging instead of this dialog box.
 

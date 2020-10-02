@@ -42,4 +42,5 @@ One of the best ways to generate new opportunities for your business is to hold 
     **3. Add all people who register to the monthly newsletter list **
 
 
-You can use [![](icxlsx.png)this template](/Documents/Webinar-Follow-up-template.xlsx) to track the calls and as an agenda got your phone call.
+You can use [
+![](icxlsx.png)this template](/Documents/Webinar-Follow-up-template.xlsx) to track the calls and as an agenda got your phone call.

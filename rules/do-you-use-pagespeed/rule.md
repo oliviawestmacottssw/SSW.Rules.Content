@@ -20,7 +20,9 @@ PageSpeed can analyze the performance of your webpages and get specific suggesti
 
 Install PageSpeed from https://chrome.google.com/webstore/detail/pagespeed-insights-with-p/lanlbpjbalfkflkhegagflkgcfklnbnh?hl=en-GB
 
-![  Install PageSpeed Insights (with PNaCl).](2d.png)
+
+![  Install PageSpeed Insights ](2d.png)
+(with PNaCl).
 
 
 
@@ -28,8 +30,11 @@ Install PageSpeed from https://chrome.google.com/webstore/detail/pagespeed-insig
 
 In Developer Tools (F12), you will have a new tab named PageSpeed.
 
+
 ![ Start your PageSpeed by clicking "ANALYZE".](use-pageSpeed.png)
 
+
 The result of the analysis will be displayed in the PageSpeed tab.
+
 
 ![ Some files can be compressed more than 80%](1.png)

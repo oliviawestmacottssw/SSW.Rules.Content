@@ -13,8 +13,10 @@ JavaScript alerts are evil. Not only are they ugly, they look unprofessional...
  
 
 
+
 ![](JS_Alert.png)
 Bad example: A JavaScript alert showing a message to the user
+
 
 
 ![](JSAlert_Code.png)
@@ -22,8 +24,10 @@ Bad example: The alert(".....") is the evil code
 
 
 
+
 ![](Toastr_Alert.png)
 Good example: The message in green is rendered as Html
+
 
 
 ![](JS_Alert_2.png)

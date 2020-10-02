@@ -54,6 +54,7 @@ authors:
 
 在会议结束时,Scrum Master应该[检查燃尽图](/reports-do-you-schedule-the-burndown-and-stories-overview-reports-to-be-emailed-to-the-team-every-day)以把握团队当前的进度
 
+
 ![](burndowntfspreview.png) 
 图：TFS 预览版(TFS 2012)自动生成燃尽图
 
@@ -98,6 +99,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 
 人们可以通过任务板看到当前正在讨论的问题。
 
+
 ![](tfspreviewtaskboard.png)  
 **图：TFS ****Preview****中的任务板****(TFS 2012)**
 
@@ -111,6 +113,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 “Parking Lot”用来记录阻碍回答三个关键问题的讨论，只有那些感兴趣的人会在Scrum会议后继续讨论“Parking Lot”记录的问题。
 
 建议 10：如果你发现了障碍，考虑联系你的Product Owner
+
 
 ![](ProductOwnerTelephone.jpg)
 
@@ -145,8 +148,10 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 2. 如果发生了重大事故怎么办？
 优先处理重大事故是很重要的，处理所有在24小时内发生的重大事件。
 
+
 ![](NewStandUpImage.jpg)
 
 图：如果有重大事故发生，每日Scrum会议可以提醒每个人并且集中所有的资源到一个问题上。如果一把尖刀插进了你的眼睛，而你却给擦伤的膝盖贴创可贴是没有任何意义的。
+
 ![](dailyscrumtweet.png)
 图：喜欢请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https://twitter.com/#%21/AdamCogan/status/168175594209681408)

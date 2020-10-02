@@ -24,14 +24,19 @@ Unfortunately, you can't kill the TFVC repository and make Git the default one, 
 
 
  
-![ Bad Example - Can't delete the now deprecated TFVC repository](2017-04-05_10-02-58.png)
+
+[[badExample]]
+| ![ Bad Example - Can't delete the now deprecated TFVC repository](2017-04-05_10-02-58.png)
+
 
 ### Delete files from TFVC
 
 
 Go into the repository, delete any existing files. Add a new document saying "\_Migrated\_to\_Git.md". This will stop people from getting the wrong code.
 
+
 ![ Clean up TFVC so developers can't accidentally get the wrong source code](2017-04-05_10-24-52.png)
+
 
 
 **Note**: All the source code is still there, it's just flagged as being deleted.
@@ -41,7 +46,9 @@ Go into the repository, delete any existing files. Add a new document saying "\_
 
 In the TFVC repository, click Security
 
+
 ![ Configure the security of the TFVC repository](2017-04-05_10-43-51.png)
+
 
 Then deny check-ins to **Contributors**, P**roject Administrators** and **Project Collection Administrators**. This should stop anyone from committing new code to the repository.
 
@@ -50,8 +57,10 @@ Then deny check-ins to **Contributors**, P**roject Administrators** and **Projec
 
 Next step is to update the dashboard to let new developers know.
 
+
 [[goodExample]]
 | ![Let new users know that the source control is now on Git](2017-04-05_10-30-43.png)
+
 
 
 
@@ -65,6 +74,7 @@ Next step is to update the dashboard to let new developers know.
 
 
 Having any of these suggestions will avoid the confusion on this screen
+
 
 
 ![ Bad Exmaple - This is confusing for a new dev](2017-04-05_10-06-12.png)

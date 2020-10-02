@@ -18,5 +18,11 @@ If your styles are going to be different, then make it obvious that they are dif
 Partial differences make people get confused and start asking things like "this looks a bit strange, but I don't know why. Is that intentional?"
  
 Compare the follow two examples:
-![ Bad Example - The heading and body text is very simlar, only 2px font-size difference.![](choosingFontsgood.png)                        ](choosingFontsbad.png)                        
+
+[[badExample]]
+| ![ Bad Example - The heading and body text is very simlar, only 2px font-size difference.](choosingFontsbad.png)                        
+
+[[goodExample]]
+| ![ Good Example - The heading as been bolded and the content font size decreased to make it more obvious that the two are different styles.](choosingFontsgood.png)                        
+
 Picking your fonts carefully applies to all forms of design where text is involved. Unfortunately, deciding what sort of differences look good and what doesn't is extremely subjective and is a skill that gets developed overtime.

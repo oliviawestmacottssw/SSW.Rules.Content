@@ -14,8 +14,12 @@ For most users, YouTube only allows a maximum length of 15 minutes on their vide
 3. Upload these versions to YouTube (preferably around the same time you upload the full versions to other sites).
 
 
-[![ Bad Example – No call to action prompting viewers to go and see the full version. ](Bad 1st 5 min example.jpg)](http://www.youtube.com/watch?v=DbpolzdGJ7Y) 
-[![ Okay Example – A link to the full version is included in the description section but no Call to Action in the actual video.](Okay-1st-5-min-Example.jpg)](http://www.youtube.com/watch?v=DbpolzdGJ7Y) 
+[
+![](Bad 1st 5 min example.jpg)](http://www.youtube.com/watch?v=DbpolzdGJ7Y) 
+**Figure: Bad Example – No call to action prompting viewers to go and see the full version.** 
+[
+![](Okay-1st-5-min-Example.jpg)](http://www.youtube.com/watch?v=DbpolzdGJ7Y) 
+Figure: Okay Example – A link to the full version is included in the description section but no Call to Action in the actual video.
 
 
 

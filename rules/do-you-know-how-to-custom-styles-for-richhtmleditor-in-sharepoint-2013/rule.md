@@ -20,7 +20,9 @@ This rule outlines how to use custom styles in the SharePoint  RichHTMLEditor.
 
 
 In SharePoint, we can use the below way to apply custom styles:
+
 ![ custom RichHtmlEditor styles give your content editors a visual preview of your custom styles](CustomStylesInSharePoint.png)
+
 
 
 
@@ -108,7 +110,9 @@ font-size:12px;
 }
 
 This **Code Area** style will come up in "Page Elements" section:
+
 ![ Code Area style come up in "Page Elements" seciton](CodeArea.png)
+
 
 
 While applying a "Page Elements" style, it will
@@ -136,13 +140,17 @@ Its html code will change
 
 
 from
+
 ![ "Code Area style" with parent element ](page_element_p.png)
 
 
 
 
+
 to
+
 ![ "Good Figure style" changed the parent element from ](page_element_dd.png)
+
 to
 
 
@@ -166,7 +174,9 @@ background-color: #FFFF00;
 }
 
 This **Highlight** style will come up in "Text Styles" section:
+
 ![ Highlight style will come up in "Text Styles" section](HighLight.png)
+
 
 
 While applying a "Text Styles" style, it will

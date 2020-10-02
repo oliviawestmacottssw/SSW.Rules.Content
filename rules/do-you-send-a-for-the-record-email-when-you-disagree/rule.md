@@ -14,7 +14,8 @@ authors:
 Over the course of work on a project, there will likely be many little disagreements, and most can be captured in ‘as per our conversation’ emails. Sometimes the differences of opinion relate to architectural issues or things that will be hard to change later. A lot of developers are on the quiet, introverted side, but vocal developers make their stance clear. Even that can be hard with some clients who have super strong voices and some clients are \*not\* great listeners. Regardless it is important to document disagreements so the client is crystal clear and a stronger version of ‘as per our conversation’ is to include the words ‘for the record’. Too often developers say they disagree but months later, the client may say:
 “No I don’t recall you disagreed, I thought I gave counter arguments and then I assumed you had agreed with me.”
  
-**![](past-decision-1500x500.jpg)
+**
+![](past-decision-1500x500.jpg)
 **
 
 **Figure: It's common for people to say "I don't remember you disagreeing with that decision", sending a "for the record" email makes it clear.**

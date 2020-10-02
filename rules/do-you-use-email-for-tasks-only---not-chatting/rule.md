@@ -20,7 +20,13 @@ Email is a very powerful business tool. The main problem, however, is that for m
 
 
 Using your mailbox as a task list also saves you from having to use inefficient paper-based cards to track your tasks.
-![ Bad Example - A bad email is one that gives no clear action items and will probably lead to a back and forth thread (potentially with people misunderstanding each other) ![Good email](EmailGood.gif) ](EmailBad.gif)  
+
+[[badExample]]
+| ![ Bad Example - A bad email is one that gives no clear action items and will probably lead to a back and forth thread ](EmailBad.gif)  
+(potentially with people misunderstanding each other) 
+[[goodExample]]
+| ![ Good Example - A good email has a clear next step action point ](EmailGood.gif) 
+
 **Tip 1:** It is better when email is not used as communication. Of course, if the person is unavailable, follow the ‘[as per our conversation](/Pages/DoYouAlwaysSendAnAsPerOurConversationEmail.aspx)’ rule which tells you what to do.
 
 E.g. "As per the message I left on your phone…" and detail the questions you would like answered.

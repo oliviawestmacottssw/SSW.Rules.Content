@@ -7,4 +7,8 @@ authors: []
 
 ---
 
-Create a hashtag for your presentation prior to the presentation and display it your introduction slide! Twitter backchannels are valuable sources of feedback.<br> ![ A Twitter hashtag allows the attendees to have a backchannel that can be used to talk about your presentation, during your presentation![](PPTwit2.jpg) ](PPTwit.jpg)
+Create a hashtag for your presentation prior to the presentation and display it your introduction slide! Twitter backchannels are valuable sources of feedback.<br> 
+![ A Twitter hashtag allows the attendees to have a backchannel that can be used to talk about your presentation, during your presentation](PPTwit.jpg) 
+
+![ ](PPTwit2.jpg) 
+(optional) Midway through the presentation have a slide where you say "Let's see if any questions have arisen"

@@ -12,7 +12,13 @@ authors:
 ---
 
 A company-wide template will be implemented, so users have automatic footers to save time and give better branding.
-![ Bad Example - creating an email/document does not have the company templates ![word-template-good.jpg](word-template-good.jpg)](word-template-bad.jpg)
+
+[[badExample]]
+| ![ Bad Example - creating an email/document does not have the company templates ](word-template-bad.jpg)
+
+[[goodExample]]
+| ![ Good Example - creating an email/document with the company templates](word-template-good.jpg)
+
  
 How to have a company-wide Word template:
 

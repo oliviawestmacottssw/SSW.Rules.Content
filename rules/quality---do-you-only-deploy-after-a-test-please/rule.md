@@ -25,7 +25,9 @@ Here are some examples:
 
 
 
+
 ![ Giving clients sole access to the deploy button, allows them to take ownership of the decision to deploy. ](OctopusDeploy.png)
+
 
 
  

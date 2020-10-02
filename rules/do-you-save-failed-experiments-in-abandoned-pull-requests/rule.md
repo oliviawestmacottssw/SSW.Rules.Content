@@ -28,8 +28,10 @@ This makes sure that we have a historical log of work completed, and still keeps
 
 
 
- ![](create-pr-for-failed-branch.png)
+ 
+![](create-pr-for-failed-branch.png)
 Good Example: Setup pull request for feature branch so that we have a history of the commits
+
 
 
 

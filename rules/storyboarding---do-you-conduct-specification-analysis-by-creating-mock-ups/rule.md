@@ -13,7 +13,9 @@ Complex documentation can waste time. Many user requirements can be best encapsu
 
  
 Storyboarding is a technique taken from movie production.
- ![ Movies are expensive to produce, so directors do storyboards first and then the product designer, costume designer, lighting people etc. all know what they need to do for each scene](movie-storyboard.jpg) 
+ 
+![ Movies are expensive to produce, so directors do storyboards first and then the product designer, costume designer, lighting people etc. all know what they need to do for each scene](movie-storyboard.jpg) 
+
 Source: [Woodsman Film Company](http://www.thewoodsmanfilm.com/importance-storyboarding-filmmaking/)
 
 There are five primary types of mockups:
@@ -30,7 +32,9 @@ Often it's best to start with some hand-drawn ones to get started. Then if you h
 ### Hand drawn Mockup
 
 'Hand drawn Mockups' are recommended to be done with the customer. Since it doesn't deal with any styling/color issues, 'Photoshop Mockups' will be needed after.
- ![ A 'Hand drawn mockup' example. Nice and quick for early concept design](Hand-Drawn-Mockup.jpg) 
+ 
+![ A 'Hand drawn mockup' example. Nice and quick for early concept design](Hand-Drawn-Mockup.jpg) 
+
 
 ### Wireframe Mockup
 
@@ -40,11 +44,17 @@ A layout of how the controls will look is usually all that is needed initially, 
 **Tip:** The tools to develop a wireframe depend on your skillset and the front end technology chosen. For example use:
 
 - Microsoft PowerPoint (ubiquitous)
-- [Balsamiq](http://www.balsamiq.com/) ![ Wireframe storyboard mockup on Balsamiq](c24602_WireframeMockup.jpg) 
+- [Balsamiq](http://www.balsamiq.com/) 
+![ Wireframe storyboard mockup on Balsamiq](c24602_WireframeMockup.jpg) 
+
 - [Adobe XD](http://www.adobe.com/au/products/experience-design.html) - preloaded with the most popular UI design blocks **(recommended for web & mobile app design) **
 
- ![ Adobe XD prototyping](AdobeXD.jpg) 
- ![ Adobe XD Google material design UI kit](AdobeXDMaterialDesign.png) 
+ 
+![ Adobe XD prototyping](AdobeXD.jpg) 
+
+ 
+![ Adobe XD Google material design UI kit](AdobeXDMaterialDesign.png) 
+
 ### Others 
 
 
@@ -59,33 +69,48 @@ A layout of how the controls will look is usually all that is needed initially, 
 These are mockups done in the front end technology that will be used. Meaning it could be done as a Web/Windows Forms/Access UI with limited functionality:
 
 [An example of an ugly Developer HTML Mockup](http://www.ssw.com.au/Projects/AC_Metalcorp/Default.aspx).
- ![ Developer HTML Mockup example - not recommended as it is a bad starting point from an HTML view and refactoring later is harder (if even possible) + this reeks of Bodgy Brothers and doesn't do a very good sales job](1d9b4a_DeveloperHTMLMockup.jpg) 
+ 
+![ Developer HTML Mockup example - not recommended as it is a bad starting point from an HTML view and refactoring later is harder ](1d9b4a_DeveloperHTMLMockup.jpg) 
+(if even possible) + this reeks of Bodgy Brothers and doesn't do a very good sales job
 ### Designer HTML Mockup
 
 These are also mockups in a Web/Windows Forms with full CSS Styling and graphic designer enhancements:
 
 [An example of a pretty Designer HTML Mockup](http://www.ssw.com.au/projects/ml_elaw/html/clientpage.html)
- ![ Designer HTML Mockup - not recommend because it is time-consuming to make changes (and change is all you do at the beginning of a project)](11fe40_HTMLMockup.jpg) 
+ 
+![ Designer HTML Mockup - not recommend because it is time-consuming to make changes ](11fe40_HTMLMockup.jpg) 
+(and change is all you do at the beginning of a project)
 ### Designer Mockup
 
 These are concept mockups produced by designers in Photoshop providing a guidance of the final look with full styling.
 
 **Warning:** Don't go down the track of giving a customer a few concepts (on some projects we gave 2 or 3 completely different concepts by different designers). There becomes too much mixing and matching when they see them. Once the images are approved, then the designers slice them up and turn them into HTML (slicing is the exporting of each image).
- ![ Designer Photoshop Mockup example - recommended as quick to change, when changes happen ](1d6c03_PSMockup.jpg) 
+ 
+![ Designer Photoshop Mockup example - recommended as quick to change, when changes happen ](1d6c03_PSMockup.jpg) 
+
 **More information – Add notes at the bottom**
 
 Wireframes should include numbers (in orange circles) and notes at the bottom, explaining features and/or indicating priority.
- ![ This wireframe indicates priorities of features ](wireframe-with-notes.jpg) 
+ 
+![ This wireframe indicates priorities of features ](wireframe-with-notes.jpg) 
+
 Mock-ups notes should also include the business rules that apply to the page. If there are a lot of rules then it is acceptable to link off to a Microsoft Word document.
- ![ Good Example - This mockup states the validation and business rules that apply to the page ](88215b_Mockup_1.jpg) 
+ 
+[[goodExample]]
+| ![ Good Example - This mockup states the validation and business rules that apply to the page ](88215b_Mockup_1.jpg) 
+
 ### Don't use UML - it is virtually impossible to get clients to understand these.
- ![ Don't use UML diagram which clients can't fully understand](Bad-UML.jpg) 
+ 
+![ Don't use UML diagram which clients can't fully understand](Bad-UML.jpg) 
+
 UML is not all bad. UML and other formal documentation methods can be useful for developers.
 
 The overarching problem is it gets out of date, so it gathers dust (aka Technical Debt).
 A better way of getting documentation is to flesh out the classes and use the VS Dependency Graph or NDepend.
 A demo can be seen in the 2nd video ["A Modern Architecture Review"](http://channel9.msdn.com/Events/TechEd/Australia/2012?sort=sequential&direction=desc&term=&s=adam%2Bcogan).
- ![ Tools like NDepend can generate diagrams from your source code so there's no "Technical Debt" ](23f19c_ndepend.png) 
+ 
+![ Tools like NDepend can generate diagrams from your source code so there's no "Technical Debt" ](23f19c_ndepend.png) 
+
 ## Summary
 
 Mock-ups and wireframes are far easier to understand.

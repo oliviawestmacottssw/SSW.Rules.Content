@@ -26,7 +26,9 @@ The Team are then advised of their resourcing for the Sprint as there may be add
 The Team then size (assign Story points to) Stories starting at the top until there are more than enough Stories to fill the Sprint.
 
 The process of sizing is somewhat formal. Either using cards or IM (essential if not co-located) the team vote privately on the size of the story. They can either use T-shirt sizes of XXS, XS, S, M, L, XL, XXL and XXXL or their equivalent number of story points for which we use the Fibinacci Series of 1/2, 1, 2, 3, 5, 8 or 13, 21 Once the differring votes are in, the Scrum Master asks the smallest and biggest voters to explain the reasons for their vote. Assumtions and omisions are quickly identified through discussions and the Scrum Master encourages discussion until consensus on the Story points is reached. Any story voted at 13 or higher should be broken down into smaller stories; re-prioritised by the Product Owner and re-sized if necessary.
+
 ![ A sample Sprint work item based on the Microsoft Scrum process template for TFS](SprintWorkItem.jpg)
+
 Once enough stories are sized, the product Owner is given the opportunity to re-prioritise now knowing the relative sizes. If more stories need then be sized then they are. The Scrum Master keeps everything going and facilitates negotiation between The Team and The Product Owner until final priority is confirmed and The team commit to a number of stories and the meeting concludes.<br>      This meeting should be timeboxed to an hour for every week in the Sprint. However, the Scrum Master must be sensitive to the meeting producing a workable result.<br>      <br>   
 
 ### How will the work needed to deliver the Increment be achieved?

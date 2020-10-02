@@ -30,7 +30,9 @@ Sharing source or binaries via 3rd party tools like ProGet, MyGet
 OK example
 
 Sharing source or binaries via packages created using VSTS Team Build
-Good example![ Start from <br>      https://marketplace.visualstudio.com/items?itemName=ms.feed](package-management-site.png)
+Good example
+![ Start from <br>      https://marketplace.visualstudio.com/items?itemName=ms.feed](package-management-site.png)
+
 
 VSTS is about to add benefits like Component Governance, which allows policies to be set over who can and cannot use the source or binaries E.g. Licensing (MIT might be ok and GPL not ok), security - in development
 

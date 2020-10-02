@@ -32,4 +32,5 @@ To enable these policies:
 2. Select the check-in policies above
 3. Click **OK**
 
+
 ![ Chose check-in policies in TFS ](SC_TFSCI.jpg)

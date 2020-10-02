@@ -15,7 +15,9 @@ authors:
 
 ---
 
-SSW uses and recommends Microsoft Team Foundation Server (TFS) as a source code solution. <br> ![ Microsoft Visual Studio Team System ](TFSTeam.jpg) 
+SSW uses and recommends Microsoft Team Foundation Server (TFS) as a source code solution. <br> 
+![ Microsoft Visual Studio Team System ](TFSTeam.jpg) 
+
 Here are some of the reasons why:
 
 - Checkin policies

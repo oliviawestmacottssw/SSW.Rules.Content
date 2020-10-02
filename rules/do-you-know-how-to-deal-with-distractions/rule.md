@@ -25,4 +25,7 @@ authors:
 10. Whenever you can, programming/working in pairs is great as it means you will be forced to focus, you won't cruise the web, or play Solitaire.
 11. Use a concentration technique, such as <br>      [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique).
 
-![ Multi-tasking can be your deadline's enemy![Pomodoro.png](Pomodoro.png)](Square SM photos.png)
+
+![ Multi-tasking can be your deadline's enemy](Square SM photos.png)
+
+![ The Pomodoro technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. ](Pomodoro.png)

@@ -60,7 +60,9 @@ Figure: Sprint Backlog from [Link to Sprint Backlog in Azure DevOps]
 As per [https://rules.ssw.com.au/do-you-know-what-happens-at-a-sprint-retrospective-meeting](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=4f02d28d-5375-4530-abcb-0b541683bcbc), we review:
 
 1. Sprint Burndown (a quick overview of the sprint)
+
 ![ Sprint Burndown](burndown.JPG)
+
 2. Code Coverage (hopefully tests are increasing each sprint)
 XXX
 
@@ -68,10 +70,15 @@ XXX
 XXX
 
 4. Burnup (for the release - the whole project, how are we tracking for the big picture?)
+
 ![ Release Burnup](Release Burnup.jpg)
+
 5. Production Deployments (How many times did we deploy to Production?)
+
 ![ Deployments from Octopus Deploy](production-deploy.png)
+
 6. Application Health Overview Timeline (For the entire Sprint)
+
 
 ![](Application Insights.jpg)
 

@@ -24,7 +24,13 @@ People are often very inconsistent with how they make appointments. Sometimes th
 CRM supports recurring appointments, and this allows for more flexibility in bookings, so you should always use these over using one long appointment for a booking.
  
 This also works better for Service Calendar syncing, as you can see what each person is working on each day.
-![ Bad Example – If a change is needed on Tuesday’s booking, there will an issue![Good Example](recurring-appointment-good.png)](recurring-appointment-bad.png)
+
+[[badExample]]
+| ![ Bad Example – If a change is needed on Tuesday’s booking, there will an issue](recurring-appointment-bad.png)
+
+[[goodExample]]
+| ![ Good Example – Easy to alter any individual day as needed](recurring-appointment-good.png)
+
 
 **For Leave**
 

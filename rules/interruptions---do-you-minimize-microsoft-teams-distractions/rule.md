@@ -16,7 +16,13 @@ authors:
 1. Turn on at start-up - With the application always on your desktop, there is no reason for alerts to be sent to your email or phone
 2. Disable email alerts - this [reduces bloat in your task list](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=4ebaa676-4599-4be1-b4ee-55427dba91bf)
 
- ![ Open options (select image in the bottom right) | Notifications ![Teams_2_SetNotifications.jpg ](Teams_1_FindNotifications.jpg)
+ 
+![ Open options ](Teams_1_FindNotifications.jpg)
+(select image in the bottom right) | Notifications 
+![ Set settings to "Only show in feed" so distracting phone and email alerts aren't sent](Teams_2_SetNotifications.jpg) 
+
+![ In Microsoft Teams turn on "Auto-start application". Suggestion to Microsoft: Make this the default](Teams_4_ApplicationSettings.jpg) 
+
 
 ### Related Rules 
 

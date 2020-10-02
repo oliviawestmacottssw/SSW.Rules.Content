@@ -10,7 +10,9 @@ authors:
 ---
 
 Misunderstanding due to miscommunication can cause major disasters at work or in life (see: [Tenerife airport disaster](https://en.wikipedia.org/wiki/Tenerife_airport_disaster)).
+
 ![ KLM Flight 4805 collides with Pan Am Flight 1736 at Tenerife Los Rodeos Airport](flight-accident-1977.jpg)
+
 A good communication strategy when receiving instructions is to repeat back what's being said to avoid misunderstanding.
    Question:   
 

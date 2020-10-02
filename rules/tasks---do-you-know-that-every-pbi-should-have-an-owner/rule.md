@@ -26,5 +26,11 @@ Beware, this is intended for convenience and should not conflict with the follow
 - The Development team is self-organizing.
 - Accountability belongs to the development team as a whole
 
+
 [[badExample]]
-| ![ The Product Owner is not sure who to speak to![image](UserStoryOwner_Good.png)](UserStoryOwner_Bad.png)
+| ![ The Product Owner is not sure who to speak to](UserStoryOwner_Bad.png)
+
+[[goodExample]]
+| ![The Product Owner can now see who he should speak to and developers know where to send done emails](UserStoryOwner_Good.png)
+
+![ Use the 'Assigned To' column to identify who will be presenting the task](TFS_Screenshot4.png)

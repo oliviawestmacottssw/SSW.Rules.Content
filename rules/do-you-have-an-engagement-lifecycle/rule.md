@@ -14,7 +14,10 @@ Having a documented process for managing engagements provides clients with a con
 
 Our engagement lifecycle overlaps with our     [sales pipeline](/do-you-know-the-6-stages-in-the-sales-pipeline), and maps to the     [8 Steps to Scrum](/do-you-know-the-8-steps-to-scrum).
 
-![ Good Example - Engagement Lifecycle](Engagement Lifecycle.png)
+
+[[goodExample]]
+| ![ Good Example - Engagement Lifecycle](Engagement Lifecycle.png)
+
 
 
 1. Initial Phone Call

@@ -14,7 +14,19 @@ If you are dealing with Content Management System (CMS), you are likely to play 
 It means the browsers will only load images and embedded videos in the visible area by default, then load the rest images and videos while users are scrolling down to them.
  
 On our rules web site, one of the pages’ initial loading size of images reduced from 4.8MB to 500KB after being applied “lazy loading” of images:
-![ Bad Example - load all images by default![load-images-2.jpg](load-images-2.jpg)](load-images-1.jpg)
+
+[[badExample]]
+| ![ Bad Example - load all images by default](load-images-1.jpg)
+
+[[goodExample]]
+| ![ Good Example - Do not load all images by default, only load them when they are visible while scrolling down the browsersThe page's initial loading size of JS scripts reduced from 2.3MB to 518KB after being applied “lazy loading” of embedded YouTube videos:](load-images-2.jpg)
+
+[[badExample]]
+| ![ Bad Example – load all embedded YouTube videos by default](load-images-3.jpg)
+
+[[goodExample]]
+| ![ Good Example - Do not load all embedded YouTube videos by default, only load them when they are visible while scrolling down the browsers](load-images-4.jpg)
+
 To implement lazy loading for image:
 
 1.	Check if the browser supports IntersectionObserver, if the browser supports IntersectionObserver, we will only load images and videos in the areas are visible to users by default. If the browser doesn’t support it, we will have to load all images and embedded videos on the page immediately after the page is loaded.
@@ -27,16 +39,20 @@ if (!('IntersectionObserver' in window)) {
 
 **Note:** You can use a polyfill library to add **IntersectionObserver** support to older browsers.
 
-2.	If the browser supports IntersectionObserver, in your page html, change the “src” of “![]()” to “data-src”
+2.	If the browser supports IntersectionObserver, in your page html, change the “src” of “
+![]()” to “data-src”
 From
+
 
 ![]()src="https://rules.ssw.com.au/PublishingImages/flight.jpg">
 
 to
 
+
 ![]()data-src="https://rules.ssw.com.au/PublishingImages/flight.jpg">
 
-3.	Use the below Javascript to change “data-src” back to “src” for the ![]() html objects, which become visible, so that those images will be loaded
+3.	Use the below Javascript to change “data-src” back to “src” for the 
+![]() html objects, which become visible, so that those images will be loaded
 
 function onIntersection(entries) {
   // Loop through the entries

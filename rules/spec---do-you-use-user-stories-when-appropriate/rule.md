@@ -19,7 +19,9 @@ As a
 I want 
 so that
 Figure: User Story - template for description
- ![ User Story - Product Backlog Item form](TFS2012UserStory.gif)
+ 
+![ User Story - Product Backlog Item form](TFS2012UserStory.gif)
+
 I want to be able to search for customers.
 Figure: Bad Example - the user story is too vague and broad in scope
 As a Marketing Manager...

@@ -48,4 +48,6 @@ public class MvcApplication : System.Web.HttpApplication
 ```
 
 
-![ Good Example – Startup tasks are called from the Application\_Start method but are located in the App\_Start folder](startup-task.jpg)
+
+[[goodExample]]
+| ![ Good Example – Startup tasks are called from the Application\_Start method but are located in the App\_Start folder](startup-task.jpg)

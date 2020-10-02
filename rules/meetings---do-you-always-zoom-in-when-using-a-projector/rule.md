@@ -12,4 +12,5 @@ authors:
 It is a common problem that people will tend to use the default screen resolution when displaying something on a projector for a room full of people to read. This is difficult for people to see because of the distances involved.
  
 It is always better to zoom in by holding down the CTRL button and scrolling up on the mouse.
+
 ![ Zoom in email             <br>                   ](ZoomInEmail.jpg)

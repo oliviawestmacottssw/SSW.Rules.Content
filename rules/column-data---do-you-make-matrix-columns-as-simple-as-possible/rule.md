@@ -8,4 +8,7 @@ authors: []
 ---
 
 [[badExample]]
-| ![ Hard to read these columns ![Good alignment](../../assets/good-matrixcol.jpg)](../../assets/bad-matrixcol.jpg)
+| ![ Hard to read these columns ](../../assets/bad-matrixcol.jpg)
+
+[[goodExample]]
+| ![The whole table has been re-written and is now easier to understand](../../assets/good-matrixcol.jpg)

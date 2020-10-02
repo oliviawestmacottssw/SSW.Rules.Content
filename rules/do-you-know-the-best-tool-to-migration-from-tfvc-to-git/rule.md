@@ -27,6 +27,7 @@ Git has become the defacto standard for version control systems. It's distribute
 
 VisualStudio.com gives you the ability to import from a TFVC repository into a new Git repository.
 
+
 ![](03_29_08.png)
 Bad Example - Built in tool has several limitations
 

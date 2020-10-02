@@ -11,7 +11,12 @@ authors:
 
 Shotgun Microphones are, by definition, built to capture the audio from what they are pointing directly towards. They are actually built to cut out audio from any other direction. This means that if someone behind the microphone says something, it will likely not be picked up, or only the bass will be picked up and the sound will be distorted.
  
+
 ![ Shotgun Microphone - this will only record audio from the area it is pointed at.](sgm-1000-lg.jpg)
 
+
+
 ![ Handheld omni-directional microphones such as this will pick up sound from any direction, though as with all mics, the source of the sound should be as close to the mic as possible.](92914.jpg)
+
+
 ![ Zoom microphones such as these will pick up sound from 2 directions and as such can be quite useful in covering sound from multiple angles.](zoom-h4.jpg)

@@ -13,8 +13,10 @@ authors:
 
 There needs to be consistency between all of your developers' timesheets, so you should get them all to adhere to the following:
 
-- Be accurate <br>      [[goodExample]]
+- Be accurate <br>      
+[[goodExample]]
 | ![Inform accurately how much time you spent for each client](timesheet-accuracy.jpg)
+
 - Follow <br>      [Do you know how to describe the work you have done?](/Pages/how-to-describe-the-work.aspx)
 - Record all the work you do for a client, even if it is to be written off
 - If you are working with another employee, ensure your times are consistent, in both time and category

@@ -22,4 +22,9 @@ In other words, you may be fond of family pictures hanging on the wall or band p
 A nice test is to sit at your desk and to take a selfie to see what others will see in your background. Then organize your background accordingly.
 
 If you want to go the extra mile, consider designating one wall as your company wall and keep it consistent with the company branding.
-![ Bad Example – A messy background will not look professional![good-background.png](good-background.png)](bad-background.png)
+
+[[badExample]]
+| ![ Bad Example – A messy background will not look professional](bad-background.png)
+
+[[goodExample]]
+| ![ Good Example – Branded monitor in the background showing off the company website](good-background.png)

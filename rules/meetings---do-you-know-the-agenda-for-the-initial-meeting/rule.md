@@ -38,4 +38,5 @@ The purpose of the initial meeting is to:
 - Ask for the sale: "This project is right up our alley and we'd love to be involved,<br>                        is there anything stopping you from scheduling a [Specification Review](/Pages/Ensure-an-excellent-1st-date.aspx)?" This will focus the mind of the client on the next step
 - Leave a bit of marketing collateral behind. Branded Notepads or USB sticks are ideal.
 
+
 ![ Do you listen?](WomanListening.jpg)

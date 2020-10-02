@@ -36,7 +36,9 @@ The following table shows the pros and cons of the 3 libraries:
 
 **Ngx-translate** provides the APIs which you can use to translate the resources in the code:
 
+
 ![](code-1.png)
+
 
 ![](code-2.png)
 

@@ -13,4 +13,5 @@ a.               Check your Build servers. You'll need to upgrade the TFS instal
 
 Check your SharePoint servers.  You'll need to install the latest SharePoint Extensions and make sure you repair your SharePoint connections in the Configuration Manager of your TFS Server.
 
+
 ![ Repair your Sharepoint Connections](sharepoint.png)

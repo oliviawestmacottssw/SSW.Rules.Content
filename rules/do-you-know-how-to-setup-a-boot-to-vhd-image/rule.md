@@ -19,7 +19,8 @@ Using Boot to VHD is very similar to dual-booting your machine, except that you 
 1. Copy a SysPreped VHD image to the laptop to be used for the presentation.
 2. Open an Administrative command prompt.
 3. Type:
-bcdedit /copy {default} /d “Demo-NameOfDemo”![](fig1-creatingentry.png)
+bcdedit /copy {default} /d “Demo-NameOfDemo”
+![](fig1-creatingentry.png)
 Figure - Creating the entry using BCDEdit shows your GUID
 4. Type:
 bcdedit /set  **device **vhd=[D:]\VM-DEV-SharePoint\_2010\_Public\_Beta.vhd
@@ -28,6 +29,7 @@ bcdedit /set  **device **vhd=[D:]\VM-DEV-SharePoint\_2010\_Public\_Beta.vhd
 bcdedit /set  **osdevice **vhd=[D:]\VM-DEV-SharePoint\_2010\_Public\_Beta.vhd
 **D:\** is the drive the VHD is located and **VM-DEV-SharePoint\_2010\_Public\_Beta.vhd** is the location of your VHD file. Make sure you replace ** **with the GUID you got in the previous step.
 6. Type:
-bcdedit /set  detecthal on![](fig2-addguids.png)
+bcdedit /set  detecthal on
+![](fig2-addguids.png)
 Figure - Each time you run a BCDEdit command it should return "The operation completed successfully"
 7. Reboot the computer and now you will have the option to choose between Windows 7 and the new Boot to VHD image.

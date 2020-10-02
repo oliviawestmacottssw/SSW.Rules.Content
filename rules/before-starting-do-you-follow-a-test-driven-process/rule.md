@@ -18,7 +18,9 @@ Never allow a situation where a developer can check out code and the code does n
 4. Compile
 5. Check In
 
-Figure: Bad example - wrong process![ Before you start cooking prepare all your ingredients. Before you start coding, "Get Latest" the right way](BeforeCoding.jpg)
+Figure: Bad example - wrong process
+![ Before you start cooking prepare all your ingredients. Before you start coding, "Get Latest" the right way](BeforeCoding.jpg)
+
 1. Get latest
 2. Compile
 3. Run Unit Tests

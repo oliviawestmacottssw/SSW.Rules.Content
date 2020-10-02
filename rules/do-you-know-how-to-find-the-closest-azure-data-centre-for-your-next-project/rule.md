@@ -18,4 +18,5 @@ As well as testing latency it has additional tests that come in handy like:
 - Large File Upload Test
 - Download Test <br>
 
+
 ![ AzureSpeed.com example](azure-speed.jpg)

@@ -10,7 +10,9 @@ authors:
 ---
 
 Client-side validation provides a great user experience but this must always be backed up by server-side validation.
- ![ Client-side validation does not provide effective data security for your Web API endpoints](cartoon-client-side-validation.jpg)
+ 
+![ Client-side validation does not provide effective data security for your Web API endpoints](cartoon-client-side-validation.jpg)
+
 **.NET** and **.NET Core Web APIs** provide built-in support for validation using Data Annotations:
 
 1. Decorate your model classes with validation attributes, e.g. [Required], [MaxLength(60)]

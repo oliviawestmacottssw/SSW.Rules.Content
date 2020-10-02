@@ -10,7 +10,13 @@ authors:
 ---
 
 A mnemonic for a button is the letter which has an underscore, and the user can press the button using Alt-.
- ![ Bad Example - All buttons without Mnemonic![Browse Button](../../assets/GoodMem.gif)](../../assets/BadMem.gif)
+ 
+[[badExample]]
+| ![ Bad Example - All buttons without Mnemonic](../../assets/BadMem.gif)
+
+[[goodExample]]
+| ![ Good Example - All buttons with Mnemonic - user can easily choose which button they want without a click](../../assets/GoodMem.gif)
+
 In Windows Applications, it is quite easy to assign a mnemonic to a button with the "&" character.
 
 So for the case above, the text would be:

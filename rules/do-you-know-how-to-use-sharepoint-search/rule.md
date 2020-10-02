@@ -48,7 +48,9 @@ Example of properties you can use (common ones);
 
 
 More: https://docs.microsoft.com/en-us/office365/securitycompliance/keyword-queries-and-search-conditions
+
 ![ Example of using Filetype: filter3. Use Boolean OR and AND operators](filter-sharepoint-example.png)
+
 Similar to Google and Bing, you can use OR and AND Boolean operators. E.g. "sharepoint AND search".
 
 Note: OR and AND must be capitalized, however case is irrelevant for actual search terms.

@@ -13,4 +13,9 @@ authors:
 
 **Tip #2: **Generally you should be [creating these from leads](/Pages/Leads-can-be-converted-to-Opportunities-Contacts-and-Accounts.aspx), as it speeds up the process.
 
- ![ Bad Example - Click New, enter relevant contact information, and click "Save and Close"![Create New Contact Logo](Sales-COntacts.jpg)](NewContact.jpg)
+ 
+[[badExample]]
+| ![ Bad Example - Click New, enter relevant contact information, and click "Save and Close"](NewContact.jpg) 
+
+[[goodExample]]
+| ![ Good Example - open the Account and create the contact from there](Sales-COntacts.jpg)

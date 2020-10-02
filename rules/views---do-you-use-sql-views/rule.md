@@ -93,10 +93,15 @@ Figure: Using a multi-table view after the when clause
 
 
 So your business has an employees table as shown below that has detailed information about their name, birthdate, home phone, address and photo. This information is suitable for the payroll department but what you want to display employees names and photos on the website for public viewing. Or what If you want contact information such as extension number and country to be available on the company intranet?
+
 ![ Northwind traders employees table](ViewsSqlEmployeesTable.png)
+
 You could create separate tables for each department, only supplying the required fields for each. 
 This would also need an additional system to sync between the tables to ensure the information was kept up to date.
-![ Bad Example – Using tables and duplicating data](ViewsSqlTables.png)
+
+[[badExample]]
+| ![ Bad Example – Using tables and duplicating data](ViewsSqlTables.png)
+
 CREATE VIEW  vwIntranetEmployees AS  
 SELECT EmployeeID, LastName, FirstName, Title, TitleOfCourtesy, Country, Extension, Photo, PhotoPath   
 FROM Employees;  

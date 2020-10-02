@@ -17,9 +17,11 @@ Include:
 4. Link to company website + slogan  (e.g. www.ssw.com.au - Writing software people understand)
 
 
+
 ![](RSRulesBadFooter.gif)
  
 Bad Example - This footer doesn't provide any useful information 
+
 
 
 ![](RSRulesGoodFooter.gif)
@@ -37,6 +39,7 @@ Use these handy report expressions to show the above information.
 | Date and Time Printed / User ID | ="Printed by " + User!UserID + " on " + <br>                            Globals!ExecutionTime.ToString() | Printed by SSW2000\JatinValabjee on 3/1/2006 3:16:30 PM |
 | Execution Time |                             ="Execution Time: " +<br><br>                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).TotalSeconds < 1, "0 <br>                            seconds",<br>                            <br><br>                            (<br><br>                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Hours > 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Hours & " hour(s), ", "") +<br><br>                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Minutes > 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Minutes & " minute(s), ", <br>                            "") +<br><br>                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Seconds > 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Seconds & " second(s)", ""))<br><br>                            )<br>                         | Execution time: 1 minute, 10 seconds |
 |                             Page x of y<br>                         |                             ="Page " + Globals!PageNumber.ToString() + " of " + <br>                            Globals!TotalPages.ToString() |                             Page 3 of 10 |
+
 
 
 

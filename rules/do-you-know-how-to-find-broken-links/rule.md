@@ -21,7 +21,12 @@ Figure: Example source code - finding broken links
 It will return all the knowledge base articles in a paged format. The link scanner will click the Next Page link and eventually scan through the entire knowledge base.
 
 [Google webmaster tools](https://www.google.com/webmasters) and [Bing webmaster centre](http://www.bing.com/toolbox/webmaster/) are useful tools to monitor links.
- ![ In Google webmaster tools you can see all broken URLs, and even the pages who are linking to them (known as referrer, found in the 'Linked From' column) ![](BingWebMaster.jpg) ](GoogleWebMaster.jpg) 
+ 
+![In Google webmaster tools you can see all broken URLs, and even the pages who are linking to them (known as referrer, found in the 'Linked From' column)](GoogleWebMaster.jpg) 
+Figure: In Google webmaster tools you can see all broken URLs, and even the pages who are linking to them (known as referrer, found in the 'Linked From' column) 
+![ In Bing webmaster centre you can find the broken URL which is linked by the above URL](BingWebMaster.jpg) 
+
 
 We have a program called [SSW Link Auditor](https://sswlinkauditor.com/) to check for this rule.
- ![ SSW Link Auditor automatically locate broken links ](link-auditor-scan.jpg)
+ 
+![ SSW Link Auditor automatically locate broken links ](link-auditor-scan.jpg)

@@ -48,4 +48,5 @@ I'd like to leave in about 4 weeks. I will, of course, check with my client befo
 
 Thanks, Patricia
 Figure: Good Example - appropriate notice given
- ![ Did you give enough notice, or do we need to track you down?](BeachEnforcers.jpg)
+ 
+![ Did you give enough notice, or do we need to track you down?](BeachEnforcers.jpg)

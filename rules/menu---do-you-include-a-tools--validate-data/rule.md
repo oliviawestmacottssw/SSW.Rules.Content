@@ -14,7 +14,10 @@ So when you add business rules to the middle tier, consider scenarios such as im
 - For SQL Server we use **vwValidateClient\_MustHaveACategoryID**, or **procValidateClient\_MustHaveACategoryID**
 - For Access we use **qryValidateClient\_MustHaveACategoryID**
 
-![ Good Example - This application, while not the prettiest, has a handy validation tool to check for incorrect data](../../assets/TimeProValidateData.png)
+
+[[goodExample]]
+| ![ Good Example - This application, while not the prettiest, has a handy validation tool to check for incorrect data](../../assets/TimeProValidateData.png)
+
 # Related Links
 
 [Do you validate each "Denormalized Field" with procValidate?](/do-you-validate-each-＂denormalized-field＂-with-procvalidate)

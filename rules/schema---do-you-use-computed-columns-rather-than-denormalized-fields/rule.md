@@ -13,8 +13,14 @@ When you have a denormalized field, use a computed column.  In SQL Server they c
 
 Use the suffix "Computed" to clearly distinguish that this field is a computed field.
 
-![ Bad Example - This field was manually updated from code in the middle tier.](NormalizedFields_Bad.jpg)
-![ Good Example - There was no code in the middle tier to calculate this (and it has the correct name)](NormalizedFields_Good.jpg)
+
+[[badExample]]
+| ![ Bad Example - This field was manually updated from code in the middle tier.](NormalizedFields_Bad.jpg)
+
+
+[[goodExample]]
+| ![ Good Example - There was no code in the middle tier to calculate this ](NormalizedFields_Good.jpg)
+(and it has the correct name)
 
  
 Computed columns have some limitations - they cannot access fields in other tables, or other computed fields in the current table.
@@ -35,4 +41,5 @@ RETURN (round(isnull(CONVERT([decimal](8,6),@TimeEnd - @TimeStart,(0))\*(24),(0)
 
  END
 Figure: This is the user defined function
+
 ![ Setting up a computed column in the table designer](NormalizedFieldsDefine.jpg)

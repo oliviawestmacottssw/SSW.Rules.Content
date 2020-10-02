@@ -47,6 +47,7 @@ Subject: RE: Manad - Coded UI Tests #2
 > Create a new CodedUI test on your feedback form – search only to test the Telerik
 
 Done
+
 ![](level-3-done.jpg) Figure – Coded UI Test passes in Visual Studio
 Jing Video of the test running: http://screencast.com/t/ps17fqsV
 
@@ -80,8 +81,10 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 - Code reviewed by one other team member (e.g. Checked by Bill)
 - Sending a Done email with screenshots
 
- [[goodExample]]
+ 
+[[goodExample]]
 | ![Add check in policies to enforce your Definition of Done](CheckinPolicy.jpg) 
+
 ## Team - Level 4
 
 - *All of the above, plus*
@@ -90,7 +93,13 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 - Tip: Use Microsoft | [Test Manager](https://marketplace.visualstudio.com/items?itemName=ms.vss-testmanager-web)
 - Sending a Done email (with video recording using SnagIt)
 
- ![ Organize tests in suites with built-in E2E traceability across requirements, test artifacts and defects ![MTR-2.png ](TestPlanning-1.png) 
+ 
+![ Organize tests in suites with built-in E2E traceability across requirements, test artifacts and defects ](TestPlanning-1.png) 
+
+![ Use the client, Microsoft Test Manager, to run tests and not just capture the pass/fail of steps, comments/attachments and bugs, but also capture diagnostic data during execution, such as screen recording, system info, image action log etc ](MTR-2.png) 
+
+![ Explore your web applications, find and submit bugs directly from your Chrome browser – no need for predefined test cases or test steps ](XT-3.png) 
+
 
  
 Figure: Good example - Done video showing the features worked on
@@ -107,16 +116,20 @@ Figure: Good example - Done video showing the features worked on
 - *All of the above, plus*
 - Multiple environments automatically tested using Lab Management
 
- [[goodExample]]
+ 
+[[goodExample]]
 | ![A tester Lab Management to create VMs for testing the application, then defines a test plan for that application with Test Case Management](LabManagement.jpg) 
+
 ## Team - Level 7
 
 - *All of the above, plus*
 - Automated Load Testing
 - Continuous Deployment
 
- [[goodExample]]
-| ![Load testing involves multiple test agents running Web Performance Tests and pounding the application (simulating the behavior of many simultaneous users)](LoadTesting.jpg) 
+ 
+[[goodExample]]
+| ![Load testing involves multiple test agents running Web Performance Tests and pounding the application ](LoadTesting.jpg) 
+(simulating the behavior of many simultaneous users)
 ## Team - Level 8 (Gold)
 
 - *All of the above, plus*

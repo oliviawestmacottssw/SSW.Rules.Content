@@ -12,8 +12,14 @@ authors:
 ---
 
 Getting in the zone is pretty challenging in any work environment. Outlook in particular likes to offer as many distractions as possible to ensure you can never forget you've got it open. Set your options so that Outlook: <br>
- ![ Good Example - Turn off Outlook distractions on Windows](OutlookDistractions.png)
-![ Good Example - Turn off Outlook distractions on a Mac](minimize-outlook-distractions-mac.jpg)
+ 
+[[goodExample]]
+| ![ Good Example - Turn off Outlook distractions on Windows](OutlookDistractions.png)
+
+
+[[goodExample]]
+| ![ Good Example - Turn off Outlook distractions on a Mac](minimize-outlook-distractions-mac.jpg)
+
 
 - Doesn't play a sound
 - Doesn't briefly change the mouse cursor

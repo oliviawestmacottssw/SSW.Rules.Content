@@ -17,6 +17,15 @@ It’s a good way of adding text to a photo as well following your branding guid
 
  
 See some bad and good examples from SSW's social media below:
-![ Bad Example – An overlay could have made this post look nicer ![goode5videos.png ](badexampleandreas.png)
+
+[[badExample]]
+| ![ Bad Example – An overlay could have made this post look nicer ](badexampleandreas.png)
+
+[[goodExample]]
+| ![ Good Example – Overlay on a social media post used to have some text on it ](goode5videos.png) 
+
+[[goodExample]]
+| ![ Good Example – Overlay on a social media post to fill in the 4 square gaps that a wide photo can have](goodeteamphoto.png) 
+
 
 See more variations of overlays created by SSW Designers that you can use [here](https://sswcom.sharepoint.com/sites/SSWDESIGN/Shared%20Documents/Forms/AllItems.aspx?RootFolder=/sites/SSWDESIGN/Shared%20Documents/General/-%20DavidB/Social%20media%20templates&FolderCTID=0x012000B6BF72AABC74FE4B945D57002722E9F0%E2%80%8B).

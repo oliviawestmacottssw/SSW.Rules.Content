@@ -30,7 +30,8 @@ Figure: Bad example - Broad email asking what’s been happening
 
 
 Teams can keep you abreast of all the events happening on your project.
- ![](Teams Notifications.png)
+ 
+![](Teams Notifications.png)
 
 Good example: See that a record of team conversations, builds, and deployments 
 
@@ -42,4 +43,5 @@ If you are part of the Marketing team, be aware that every time a new post is ou
 - A new post on Instagram #sswtv
 
 This is necessary because of the notifications tab our Media team have on their Teams group as per the photo below. This way every time a new video is out they'll know! 
+
 ![ all social media posts related to videos will be tracked on SSW TV Teams group ](notificationsteams.jpg)

@@ -18,27 +18,52 @@ Don't surprise users! Use the following icons:
 
 | File Type | Example |
 | --- | --- |
-| PDF | ![](../../assets/IconPdf.png) This is a PDF file<br> |
-| JPG | ![](../../assets/IconJpg.gif) This is an Image file |
-| DOC or DOT | ![](../../assets/IconDoc.png) This is a Word Document file |
-| XLS | ![](../../assets/IconXls.gif) This is an Excel Spreadsheet file |
-| PPT | ![](../../assets/IconPPT.png) This is a PowerPoint file |
-| TXT | ![](../../assets/IconTxt.gif) This is a Text file |
-| AVI, MOV, MPG etc. | ![](../../assets/IconMov.gif) This is a Video file |
-| WAV, WMA, MP3 etc. | ![](../../assets/IconMus.gif) This is a Music file |
-| SNP | ![](../../assets/IconSnp.gif) This is an Access Database snapshot file (discontinued and not recommended) |
-| EPS | ![](../../assets/IconEps.gif) This is an EPS file |
-| ICS or VCS | ![](../../assets/IconVCS.gif) This is a calendar file |
-| EXE or ZIP | ![](../../assets/Download.gif)This is an executable or zip file |
-| Mailto: | ![](../../assets/IconMailTo.gif) This will send an email |
-| XML / RSS | ![](../../assets/IconXML.gif) This will subscribe to RSS |
-| ODF | ![](../../assets/IconOFT.gif) This is an Outlook Item Template |
-| Page | ![](../../assets/ms_lock.gif) This is a link to password protected page |
-| YouTube | ![](youtube-icon_png.jpg)This is a link to a YouTube Video |
+| PDF | 
+![](../../assets/IconPdf.png) This is a PDF file<br> |
+| JPG | 
+![](../../assets/IconJpg.gif) This is an Image file |
+| DOC or DOT | 
+![](../../assets/IconDoc.png) This is a Word Document file |
+| XLS | 
+![](../../assets/IconXls.gif) This is an Excel Spreadsheet file |
+| PPT | 
+![](../../assets/IconPPT.png) This is a PowerPoint file |
+| TXT | 
+![](../../assets/IconTxt.gif) This is a Text file |
+| AVI, MOV, MPG etc. | 
+![](../../assets/IconMov.gif) This is a Video file |
+| WAV, WMA, MP3 etc. | 
+![](../../assets/IconMus.gif) This is a Music file |
+| SNP | 
+![](../../assets/IconSnp.gif) This is an Access Database snapshot file (discontinued and not recommended) |
+| EPS | 
+![](../../assets/IconEps.gif) This is an EPS file |
+| ICS or VCS | 
+![](../../assets/IconVCS.gif) This is a calendar file |
+| EXE or ZIP | 
+![](../../assets/Download.gif)This is an executable or zip file |
+| Mailto: | 
+![](../../assets/IconMailTo.gif) This will send an email |
+| XML / RSS | 
+![](../../assets/IconXML.gif) This will subscribe to RSS |
+| ODF | 
+![](../../assets/IconOFT.gif) This is an Outlook Item Template |
+| Page | 
+![](../../assets/ms_lock.gif) This is a link to password protected page |
+| YouTube | 
+![](youtube-icon_png.jpg)This is a link to a YouTube Video |
 
- ![ FYI there are the same images used by Google at [GoogleDesktopSideBar.htm](http://desktop.google.com/features.html)](../../assets/GoogleIcons.gif) 
-  ![ Bad Example - The user would expect all these hyperlinks to work the same way](../../assets/IconImageBad.gif) 
-  ![ Good Example - The pdf icon (before a hyperlink) indicates it is not a web page](../../assets/IconImageGood.gif) 
+ 
+![ FYI there are the same images used by Google at ](../../assets/GoogleIcons.gif) 
+[GoogleDesktopSideBar.htm](http://desktop.google.com/features.html)
+  
+[[badExample]]
+| ![ Bad Example - The user would expect all these hyperlinks to work the same way](../../assets/IconImageBad.gif) 
+
+  
+[[goodExample]]
+| ![ Good Example - The pdf icon ](../../assets/IconImageGood.gif) 
+(before a hyperlink) indicates it is not a web page
 
 ### How to add an icon before a link with CSS
 

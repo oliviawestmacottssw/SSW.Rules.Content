@@ -19,8 +19,10 @@ If you want an easy way to access data in remote or legacy systems, provide one 
 
 
 
+
 ![](BCSBadExample.jpg) 
 Use BCS with multiple systems(not working)
+
 
 
 ![](BCSGoodExample.jpg)

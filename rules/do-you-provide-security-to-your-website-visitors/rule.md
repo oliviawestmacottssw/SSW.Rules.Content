@@ -17,8 +17,11 @@ To stay secure, you will require a website security certificate. A website secur
 Previously you have had to pay for this service, but there is now a free CA called Lets Encrypt that issues free security certificates for 3 months. Renewing every 3 months might be a pain, so we recommend using a certification tool like Certify the Web which will do this for you if you go the free route.
 
 
- [[badExample]]
+ 
+[[badExample]]
 | ![ Bad example – As you can see, your web-browser will let you know if the website you’re accessing is not secure](tomato.jpg)
+
+
 
 [[goodExample]]
 | ![ Good example – SSW’s website is secure and does not share your information](ssw.jpg)

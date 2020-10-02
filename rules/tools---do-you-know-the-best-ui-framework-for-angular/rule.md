@@ -30,7 +30,9 @@ Making the choice of which to use will depend on several factors related to your
 ### Angular Material
 
 Angular Material has a very specific design metaphor, and if the look and feel is one that your client likes, then consider using it. But if the Material metaphor doesn't match the rest of the client's applications, then it may not be a good choice.
+
 ![  Angular Material is built by the Angular team](angular-material.png)
+
 The components available in Angular Material are solid, but it doesn't have the range of components that are available in Bootstrap. It is actively being developed though, and new, exciting components are being added regularly. For example, an infinite scroll component was added in October 2018.
 
 Angular Material uses Angular components for its widgets. This means that the HTML rendered in the browser will include directives, divs, and classes that are not present in the component template HTML. It is for this reason that Designers without a good understanding of Angular may have difficulties tweaking the look of the Angular Material components.
@@ -51,6 +53,8 @@ Now you can do following:<br>          Primary
 ### Bootstrap
 
 Bootstrap is the obvious choice if your UI design requires extensive customization. Bootstrap makes it easy to theme your application's design and to tweak the design of individual components. In addition to components, Bootstrap 4 provides powerful layout and theming capabilities. These features make it popular with Designers.
- ![ Bootstrap has been the recommended UI framework for the web for years](bad-bootstrap.png)
+ 
+![ Bootstrap has been the recommended UI framework for the web for years](bad-bootstrap.png)
+
 
 There are two popular bootstrap-based Angular component libraries -     [ng-bootstrap](https://ng-bootstrap.github.io/%22%20%5cl%20%22/home) and     [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap). Both support Bootstrap 4 and provide a rich choice of components.

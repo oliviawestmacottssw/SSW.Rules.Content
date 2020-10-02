@@ -19,9 +19,14 @@ Check out https://www.scrumoji.org/ for the full list.
 
 
 
-![ Bad Example - The Sprint Review is an important meeting but doesn't stand out in my calendar](srumoji - bad example.jpg)
+
+[[badExample]]
+| ![ Bad Example - The Sprint Review is an important meeting but doesn't stand out in my calendar](srumoji - bad example.jpg)
 
 
 
 
-![ Good Example - The Daily Scrum and Sprint Review stand out and I will definitely not forget to attend](scrumoji - good example.jpg)
+
+
+[[goodExample]]
+| ![ Good Example - The Daily Scrum and Sprint Review stand out and I will definitely not forget to attend](scrumoji - good example.jpg)

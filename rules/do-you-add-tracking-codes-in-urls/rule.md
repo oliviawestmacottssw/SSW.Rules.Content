@@ -27,7 +27,9 @@ Vs
  
 With the second URL you will get reports like this:
 
+
 ![ The page owner will find out how people are getting to their page. ](UTM-codes-in-google-analytics.jpg)
+
 This enables the page owner to find out how visitors are finding the page. For example, if they're advertising ProductX on Google, and on Facebook, and in email blasts, all linking to the same page, they can customise the links from each of these pages with a unique tracking code. This code will identify the traffic that comes from that source, along with other useful information like which advertising campaign the traffic came from.
 
 With the long URL, there's a lot of additional information that can be taken from the link:

@@ -21,7 +21,14 @@ When a new developer joins a project, there is often a sea of information that t
 
 
 Make it easy for the new developer by putting all this information in a central location like the Visual Studio dashboard.
-![ Bad Example - Don't stick with the default dashboard, it's almost useless![2016-06-06_9-15-14.png](2016-06-06_9-15-14.png)](plaindashboard.png)![2016-06-06_8-00-55.png](2016-06-06_8-00-55.png)
+
+![](plaindashboard.png)
+[[badExample]]
+| ![ Bad Example - Don't stick with the default dashboard, it's almost useless](2016-06-06_8-00-55.png)
+
+[[goodExample]]
+| ![ Good Example - This dashboard contains all the information a new team member would need to get started](2016-06-06_9-15-14.png)
+
  
  
 The dashboard should contain:
@@ -40,4 +47,5 @@ The dashboard should contain:
 Your solution should also contain the standard [\_Instructions.docx](/Pages/DoYouMakeInstructions.aspx) to your solution file for additional details on getting the project up and running in Visual Studio.
 
 For particularly large and complex projects you can use an induction tool like [SugarLearning](https://www.sugarlearning.com/) to create a course for getting up to speed with the project.
+
 ![](2016-06-06_7-18-43.png)

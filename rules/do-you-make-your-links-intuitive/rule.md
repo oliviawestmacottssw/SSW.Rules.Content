@@ -8,5 +8,11 @@ authors: []
 ---
 
 Hyperlinks are the foundation to website navigation. Without       it, the Internet is merely a series of unconnected       documents. An intuitive hyperlink is one where the link       explains what will happen when it is clicked where they will       take the user.
- ![ Bad Example - I have no way of knowing that this link allows me to edit my details![Websites - Intuitive Hyperlinks](../../assets/Websites_IntuitiveHyperlinks.gif)](../../assets/Websites_NotIntuitiveHyperlinks.gif)
+ 
+[[badExample]]
+| ![ Bad Example - I have no way of knowing that this link allows me to edit my details](../../assets/Websites_NotIntuitiveHyperlinks.gif)
+
+[[goodExample]]
+| ![ Good Example - I'm pretty certain where this link will take me...](../../assets/Websites_IntuitiveHyperlinks.gif)
+
 This rule also has relevance to     [improve your Google ranking](http://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterGoogleRankings.aspx#Relevancy).

@@ -21,4 +21,5 @@ The traveller’s Qantas Frequent Flyer membership will still accumulate the sam
 Not all travellers will have a frequent flyer membership, but for those that do, the Qantas Business Rewards Program is well worth taking advantage of. 
 
 
- ![ Always remember to include the company ABN alongside that traveller’s frequent flyer number for rewards that benefit both the company and the individual](qantas-business-rewards-points-activity.jpg)
+ 
+![ Always remember to include the company ABN alongside that traveller’s frequent flyer number for rewards that benefit both the company and the individual](qantas-business-rewards-points-activity.jpg)

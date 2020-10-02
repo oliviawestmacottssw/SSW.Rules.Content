@@ -14,7 +14,10 @@ authors:
 So when the Product Owner verbally requests a change to a PBI how do you update the PBI to reflect the change and also keep track of the conversation?
  
 You could send yourself a "[To Myself](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=5c16d531-007d-49ef-8acc-b26596e13e84)" email and update the PBI description accordingly, but only those people included in the email chain are aware of the conversation.
-![ Bad Example – don' t use emails to update tasks](bad-mention-pbi.jpg)
+
+[[badExample]]
+| ![ Bad Example – don' t use emails to update tasks](bad-mention-pbi.jpg)
+
 Instead, what you should do is use the discussions feature in the PBI and mention the user using "@". 
 The benefits of using comments are:
 
@@ -22,7 +25,13 @@ The benefits of using comments are:
 - History is visible to anyone looking at the PBI (with email, if you don’t cc them, they wouldn’t have a clue)
 - Easy to see all important notes/comments in one place instead of digging through email
 
-![ Good Example – Using @ mentions in the discussion![good-mention-pbi-2.jpg](good-mention-pbi-2.jpg)](good-mention-pbi.jpg)
+
+[[goodExample]]
+| ![ Good Example – Using @ mentions in the discussion](good-mention-pbi.jpg)
+
+[[goodExample]]
+| ![ Good Example – Email still gets sent to the users who are mentioned in the discussion, so they can still chime in if any details are incorrect](good-mention-pbi-2.jpg)
+
 
 ### Related Links
 

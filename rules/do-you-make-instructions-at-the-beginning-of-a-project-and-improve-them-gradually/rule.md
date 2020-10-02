@@ -43,7 +43,9 @@ Here's a suggestion of what these documents could contain.
 5. Deployment information and procedures <br>
 6. Other things to take care of
 
-![](BadNetProject.JPG)Bad example - A project without an instruction. ![Good Solutions Have Instructions](ProjectDocumentation.jpg)Good example - A project with instructions
+
+![](BadNetProject.JPG)Bad example - A project without an instruction. 
+![](ProjectDocumentation.jpg)Good example - A project with instructions
 
 Add a readme.md to your solution (Use [this](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=vsts)  as a guidance for markdown)
 
@@ -66,7 +68,9 @@ You are at Level 2 when you have some static Word documents with the steps to co
 
 ### Level #3: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
 
-![ Level 2 Documentation includes database build scripts. We use <br>      [SSW SQL Deploy](instructions-level2.jpg)
+
+![ Level 2 Documentation includes database build scripts. We use <br>      ](instructions-level2.jpg)
+[SSW SQL Deploy](http://sqldeploy.com/) to make keeping all databases on the same version simple. Check out <br>      [how to use SQL Deploy here](http://tv.ssw.com/969/adam-stephensen-sql-deploy-demo)
 ### Level #4: Less documentation (and Get Latest and compile with a PowerShell script)
 
 

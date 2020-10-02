@@ -8,7 +8,15 @@ authors: []
 ---
 
 Date formats should always be kept consistent across your application, more importantly,                      it should be kept consistent with the operating system's regional settings otherwise                      this will cause significant confusion for your users.
- ![ Operating System's Regional Settings ![Bad Example ](../../assets/BetterInterface_RegionalSettings.jpg) 
+ 
+![ Operating System's Regional Settings ](../../assets/BetterInterface_RegionalSettings.jpg) 
+
+[[badExample]]
+| ![ Bad Example - Two screens with inconsistent date formats](../../assets/BadExampleDP.gif) 
+
+[[goodExample]]
+| ![ Good Example - Two screens with consistent date formats](../../assets/GoodExampleDP.gif) 
+
 The best way to do this in your code is to grab the culture information from the application thread and use it to automatically format your Datetime data type. Do not use hard coded datetime formatting strings unless it's absolutely necessary.
 
 

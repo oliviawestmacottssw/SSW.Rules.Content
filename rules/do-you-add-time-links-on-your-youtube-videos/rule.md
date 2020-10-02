@@ -20,4 +20,5 @@ Steps to do this:
 **Note:** This also work on comments
 5. Save and YouTube will automatically add a link to that exact time of the video
 
+
 ![ Users can easily go to each section of the video by clicking on these links](youtube-video-time-link.jpg)

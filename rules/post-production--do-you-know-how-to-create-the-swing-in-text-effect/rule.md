@@ -14,5 +14,12 @@ The text swing in can be a great way to make a title gain attention, but if the 
 - Each keyframe should be half the angle of the previous keyframe from 90 degrees
 - Each keyframe should be half the distance on the timeline from the previous keyframe
 
- ![ Bad Example - this does not simulate gravity and will be jarring to the viewer](TextExpression-AfterEffects-TheSwingIn_BadExample.jpg)
-![ Good Example - Angle/time graphic for "Swing In" effect[![](Swing-In.jpg)](TextExpression-AfterEffects-TheSwingIn.jpg)
+ 
+[[badExample]]
+| ![ Bad Example - this does not simulate gravity and will be jarring to the viewer](TextExpression-AfterEffects-TheSwingIn_BadExample.jpg)
+
+
+[[goodExample]]
+| ![ Good Example - Angle/time graphic for "Swing In" effect](TextExpression-AfterEffects-TheSwingIn.jpg)
+[
+![](Swing-In.jpg)](http://youtu.be/0ugMkda9IBw?t=7s)Figure: Good example – A well designed 'swing-in' effect can bring your titles to life - See 0:07 in this <br>      [video example](http://youtu.be/0ugMkda9IBw?t=7s)

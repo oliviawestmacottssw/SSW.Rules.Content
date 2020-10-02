@@ -17,4 +17,9 @@ The benefits to use CSS image sprites are:
 
 
 Ensure that the file size of your master image isn't greater than the sum of its pieces.
-![ Bad Example - four images, one for each icon![One image contains all icons](ImageSprites_good.gif)](ImageSprites_bad.gif)
+
+[[badExample]]
+| ![ Bad Example - four images, one for each icon](ImageSprites_bad.gif)
+
+[[goodExample]]
+| ![ Good Example - one image contains all the icons and CSS selectors make the browser display only the part you need](ImageSprites_good.gif)

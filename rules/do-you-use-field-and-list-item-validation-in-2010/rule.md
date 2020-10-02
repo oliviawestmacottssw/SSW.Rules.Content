@@ -26,6 +26,7 @@ class CreateShoppingListHandler : SPItemEventReceiver
 <br>            }            
 <br>        }
 <br>    }Bad example: using custom code – creating a<br>custom event receiver on the item (the item adding event or item updating<br>event)
+
 ![](ListValidation.jpg)
 Good example: using no code – just using the<br>field validation on a list
 <br>A demo of this from Andrew Connell on

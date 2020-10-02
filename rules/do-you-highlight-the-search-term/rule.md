@@ -15,7 +15,10 @@ Search is a common feature in websites, and one you will most likely have to imp
 
 
 
+
 ![ Search for items with these tags](2014-08-07_15-48-11-before-compressor.png)
+
+
 
 
 

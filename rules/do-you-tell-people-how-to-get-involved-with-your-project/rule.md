@@ -14,4 +14,10 @@ The key to building a great open source project is to build a great community ar
 To do this it is essential that potential contributors can find out how to get involved.
  
 It is a common pattern for open source projects to contain a CONTRIBUTING.md markdown file that supplies information on how to get involved.
-![ Good Example - The Microsoft ASP.NET and Azure teams both do a great job of providing documentation on how to start contributing![getinvolved2.png](getinvolved2.png)](getinvolved1.png)
+
+[[goodExample]]
+| ![ Good Example - The Microsoft ASP.NET and Azure teams both do a great job of providing documentation on how to start contributing](getinvolved1.png)
+
+[[goodExample]]
+| ![ Good Example - The ASP.NET team ](getinvolved2.png)
+(and the SSW team) use a common CONTRIBUTING.md in a common 'Home' repository. This ensures that all projects for their team are collaborated on in the same way

@@ -11,7 +11,9 @@ authors:
 
 ---
 
-Tracking expenses can be a painful process of accumulating receipts and entering them into outdated systems… but there is a better way:<br>![ Expensify is an app that helps you upload receipts and invoices](expensify-logo.png)
+Tracking expenses can be a painful process of accumulating receipts and entering them into outdated systems… but there is a better way:<br>
+![ Expensify is an app that helps you upload receipts and invoices](expensify-logo.png)
+
 
 
 
@@ -24,8 +26,14 @@ Tracking expenses can be a painful process of accumulating receipts and entering
 
 As a user, all you have to do is take a photo of the receipt from your mobile app and add a comment (all other data is pulled in via OCR “Smart-scan”), then all of these expenses get batched together and sent on a weekly basis to the accountant, who can then manage them in bulk. 
 Best of all… for light users… it’s free!
-![ Bad Example – Concur (the next best alternative) has no free version](expenses-bad.jpg)
-![ Good Example – Expensify has a free version](expenses-good.jpg)
+
+[[badExample]]
+| ![ Bad Example – Concur ](expenses-bad.jpg)
+(the next best alternative) has no free version
+
+[[goodExample]]
+| ![ Good Example – Expensify has a free version](expenses-good.jpg)
+
 
 
 

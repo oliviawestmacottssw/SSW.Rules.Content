@@ -13,4 +13,5 @@ If your project gets corrupted or if the changes you made caused unexpected issu
  
 You should configure Control4 to automatically backup your changes to the cloud.  You configure this in composer under Agents | Backup.
 
+
 ![ Configure backups in Composer under Agents | Backup](control4-backup.jpg)

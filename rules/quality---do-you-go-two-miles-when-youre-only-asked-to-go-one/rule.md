@@ -24,5 +24,7 @@ While not everyone chooses                     to agree with everything He said,
 - The sense of work-place isolation disappears
 - Productivity lifts as tasks can be achieved quicker
 
+
 ![ Going the extra mile](CowsBum.JPG)
+
 This rule particularly applies when a person is [blocked](/Pages/Ask-questions-where-you-are-stuck.aspx)– as identified in their Daily Scrum.

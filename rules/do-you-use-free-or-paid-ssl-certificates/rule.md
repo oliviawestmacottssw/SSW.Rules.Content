@@ -25,6 +25,7 @@ Free certificates can be obtained from Certificate Authorities like Let's Encryp
 
 
 
+
 ![](letsenc.png) 
 Good Example: Let's Encrypt Free Certificate Authority
 
@@ -40,6 +41,7 @@ If you are operating a big business, paid certificates give you some more assura
 1. Paid certificates gives you warranty against misuse or wrongly issued certificates;
 2. Paid certificates are normally valid for at least 1 year or more, while free certificates are only valid for 3 months;
 3. Paid certificates offer support for any errors or problems you have with your certificates.
+
 
 
 ![](comodo.png)Good Example: Comodo Paid Certificate Authority

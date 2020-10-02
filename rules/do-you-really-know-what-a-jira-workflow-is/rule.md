@@ -29,6 +29,7 @@ Here is a description of the main states of the SSW workflow:
 
 The following digram shows the main flows:
 
+
 ![](Workflow.png)
 
 (A table further defining the workflow this will appear here in due course)

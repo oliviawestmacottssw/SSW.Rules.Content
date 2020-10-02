@@ -14,7 +14,9 @@ authors:
 ---
 
 Here are the best collection of resources for Angular.
-![ Download the [Little Book of Angular](/SiteCollectionDocuments/Little-Book-Angular.pdf)](The-Little-Book-of-Angular-v1-8.jpg)
+
+![ Download the ](The-Little-Book-of-Angular-v1-8.jpg)
+[Little Book of Angular](/SiteCollectionDocuments/Little-Book-Angular.pdf)
  
 ### Free Resources 
 

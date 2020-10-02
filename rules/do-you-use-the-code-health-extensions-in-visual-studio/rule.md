@@ -36,12 +36,16 @@ Search & Install the NuGet packages:
 
 For Visual Studio development on web applications, download Web Essentials, it will provide intellisense for JS, CSS, HTML, Less, Scss, and CoffeeScript. ([Nuget page for Web Analysers](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials20153%E2%80%8B))
 
+
 ![ Steps to install NuGet Packages](VS-InstallNuGetPackages.png)
 
 
 
+
 Issues from these will now be returned in the Visual Studio analyser error list.
+
 ![ New Roslyn Rule issues raised in Visual Studio Analyser](VS-RoslynRules.png)
+
 Your goal should be to get the issues in a solution down to zero.
 If you believe the issues being raised are not important, please check the section below which outlines how to change the ruleset.
 
@@ -55,10 +59,15 @@ Please also copy the current version number of this rule into the "\_Instruction
 The current standard for rules is just the default ones. Frequently check back here for updates to the ruleset definition.
 
 
+
 ![ Steps to open Visual Studio Analyser rules customisation page](VS-ModifyRules.png)
+
 
 
 Steps to open Analyser customisation page:
 Right Click project > Properties > Code Analysis > Open
+
 ![ How to customize rules. By either enabling / disabling rules or packages. Or by modifying the rule severity level.](VS-ModifyRules2.png)
+
+
 ![ How to apply custom ruleset to all projects in a solution](VS-ModifyRules3.png)

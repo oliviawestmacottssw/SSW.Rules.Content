@@ -12,7 +12,9 @@ authors:
 ---
 
 Scrum is easier than it seems, we'll explain how in these 8 simple steps.
- ![ This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this <br>      [SSW 8 Steps to Scrum PDF](/Documents/8StepstoScrum.pdf) and put it on your " <br>      [War Room](/Pages/ScrumVisualImage.aspx)" wall](8Steps_preview.jpg)
+ 
+![ This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this <br>      ](8Steps_preview.jpg)
+[SSW 8 Steps to Scrum PDF](/Documents/8StepstoScrum.pdf) and put it on your " <br>      [War Room](/Pages/ScrumVisualImage.aspx)" wall
 
 
 
@@ -39,7 +41,9 @@ Scrum is easier than it seems, we'll explain how in these 8 simple steps.
 
 
 From here, another Sprint Planning session commences, and the wheel keeps turning, getting better and better with every revolution.
+
 ![ If you like this, retweet https://twitter.com/AdamCogan/status/375010501693960192](8steps2013-tweet.jpg)
+
 
 > New PDF for War Room: 8 Steps to Scrum - Updated to Scrum Guide 2013        http://t.co/lIvYdcDoD7 CC        [@Scrumdotorg](https://twitter.com/Scrumdotorg)[@ScrumAlliance](https://twitter.com/ScrumAlliance)
 > — Adam Cogan [SSW] (@AdamCogan) <br>   [September 3, 2013](https://twitter.com/AdamCogan/statuses/375010501693960192)

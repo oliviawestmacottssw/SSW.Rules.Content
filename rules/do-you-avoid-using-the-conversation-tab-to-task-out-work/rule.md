@@ -10,7 +10,13 @@ authors:
 ---
 
 Tasking out work means adding it to the backlog. Adding it to<br>the backlog has project management benefits and is easy to do if you have a tab<br>for VSTS in the channel.
- ![ Bad Example - asking someone to do work in a conversation![teams - add to backlog.png](teams - add to backlog.png)](teams - tasking in conversation.png)
+ 
+[[badExample]]
+| ![ Bad Example - asking someone to do work in a conversation](teams - tasking in conversation.png)
+
+[[goodExample]]
+| ![ Good Example - task is added to the backlog](teams - add to backlog.png)
+
 
 
 TODO: Have the bot listen in on the conversations to remind you about the rule

@@ -16,7 +16,9 @@ Use a table to summarize the major features of the project. Columns that are nee
 - **Option A** (Recommended)
 - **Option B**
 
- ![ Highlight the option recommended](Proposals_OptionAHighlighted.jpg)
+ 
+![ Highlight the option recommended](Proposals_OptionAHighlighted.jpg)
+
 
 ### Related Rule
 

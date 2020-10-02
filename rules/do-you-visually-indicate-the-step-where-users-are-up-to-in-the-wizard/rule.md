@@ -10,4 +10,9 @@ authors: []
 In a wizard, a visual indication about the progress should be  provided so users know where they are up to. It should also let the user  know which steps have been completed and how far to go.
 
 A good way to do this is use a left navigation bar with **bold** on the step they are currently at.
- ![ Bad Example - The progress bar does not indicate completed nor next steps![Good Wizard example](../../assets/Wizard_1.jpg)](../../assets/FrontPageWizard.gif)
+ 
+[[badExample]]
+| ![ Bad Example - The progress bar does not indicate completed nor next steps](../../assets/FrontPageWizard.gif)
+
+[[goodExample]]
+| ![ Good Example - This wizard form shows all steps and indicates where the user is up to](../../assets/Wizard_1.jpg)

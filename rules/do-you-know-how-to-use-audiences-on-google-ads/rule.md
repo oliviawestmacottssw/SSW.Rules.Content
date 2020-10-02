@@ -16,7 +16,15 @@ Audiences, in general, will allow you to try pulling up your ads to different gr
 - **In-Market Audience** – Find customers who are researching and are actively looking into buying a service or product you sell.
 - **Remarketing & Similar Audiences** – Show your ads to people who have visited your website previously before (You can choose the period) or viewed your content somewhere online. This would include remarketing lists.
 
-![ Bad Example – No audiences were set up yet![audience-2.png](audience-2.png)](audience-1.png)
+
+[[badExample]]
+| ![ Bad Example – No audiences were set up yet](audience-1.png)
+
+[[goodExample]]
+| ![ Good Example – Add specific audiences and increase the engagement on your campaigns with your target audience](audience-2.png)
+
+![ Find your excluded audience so you won't waste any money for useless clicks](audience-3.png)
+
 To be able to choose your audience and even create remarketing actions, you will have to use the tool “Audience Manager". Click on: Tools | Shared Library | Audience Manager
 
 You'll find: Audience lists, Audience insights and sources.
@@ -24,4 +32,9 @@ You'll find: Audience lists, Audience insights and sources.
 On Sources, you can link Google Analytics, YouTube (if you use this social media), Google Play and App Analytics (if you sell apps). All of this will bring information that will help you build your custom audience.
 
 To build your In-Market and Affinity audiences, you can select from some options that Google will give you like below:
-![ In-Market audiences that might be your right target![audience-5.png](audience-4.png)
+
+![ In-Market audiences that might be your right target](audience-4.png)
+
+![ Affinity audiences suggestions from Google](audience-5.png)
+
+![](audience-6.png)

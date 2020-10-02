@@ -26,4 +26,5 @@ I suggest adding this into our Performance Point Cube so I could find it at a UR
 Jonny
 
 Figure - Bad Example: If you can't build it yourself, send an email to your boss for a number
- ![](Power BI.png)  Figure - Good Example: Sate your own curiosity with Power BI See Ulysses' video on how Power BI is the best tool for this: https://tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren
+ 
+![](Power BI.png)  Figure - Good Example: Sate your own curiosity with Power BI See Ulysses' video on how Power BI is the best tool for this: https://tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren

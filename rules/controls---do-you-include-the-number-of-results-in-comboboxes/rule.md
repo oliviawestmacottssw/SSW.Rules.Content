@@ -10,8 +10,10 @@ authors:
 ---
 
 When designing your form, you should try to help your user whenever it's possible. So it's a good idea to include the number of results in ComboBoxes.
- For Web Pages  [[goodExample]]
+ For Web Pages  
+[[goodExample]]
 | ![ Good example – combo-box with multiple columns Feel free to use our sample:](combo-box-multiple-col.jpg) 
+
 1. Download and install Kendo UI Controls from [Kendo UI](http://www.kendoui.com/)
 2. **HTML (Razor)**
 Create a combo-box that has a custom template. Use a code bellow as an example:
@@ -59,6 +61,20 @@ Use JavaScript to change the combo-box's behaviour.
 
 
 ### For Windows Forms
- ![ Bad Example - You can't tell the number of results and there is a scroll bar ![Options Form - ComboBox with Result Count ](../../assets/ComboWF-1.jpg) 
+ 
+[[badExample]]
+| ![ Bad Example - You can't tell the number of results and there is a scroll bar ](../../assets/ComboWF-1.jpg) 
+
+[[goodExample]]
+| ![ Good Example - The number of results is clearly displayed. Long text boxes > 30 entries, another approach can be employed - putting the common ones at the top ](../../assets/ComboWF-2.jpg) 
+
+[[badExample]]
+| ![ Bad Example - Firstly because it is manual, plus what about the 4th, 5th, etc most common used countries ](../../assets/Rule38LongTextCombobox.jpg) 
+
+[[badExample]]
+| ![ Bad Example – This was a highly unpopular method of the sorting and counting above](../../assets/rule38SortableCombobox.jpg) 
+
 We believe all combos should be able to be sorted ascending/descending and by popularity asc/desc.
- ![ Good Example - Is there a better way to sort this?](sort-alpha-numeric.jpg)
+ 
+[[goodExample]]
+| ![ Good Example - Is there a better way to sort this?](sort-alpha-numeric.jpg)

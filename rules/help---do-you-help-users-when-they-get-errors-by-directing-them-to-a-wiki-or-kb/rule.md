@@ -8,4 +8,6 @@ authors: []
 ---
 
 Every message box should contain a link to a wiki or KB with more details about the message. In the example of the below error message:
- ![](../../assets/NoDirectForError.jpg)Figure - Bad Example: User now has to Google to find out how to fix this error![Direct for this error](../../assets/DirectForError.jpg)Figure - Good Example: If you click on the "Get Help..." link on the bottom of the form it will take you to a wiki page with common issues and resolutions
+ 
+![](../../assets/NoDirectForError.jpg)Figure - Bad Example: User now has to Google to find out how to fix this error
+![](../../assets/DirectForError.jpg)Figure - Good Example: If you click on the "Get Help..." link on the bottom of the form it will take you to a wiki page with common issues and resolutions

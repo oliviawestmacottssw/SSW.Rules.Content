@@ -31,4 +31,6 @@ Once you have a build server configured, you'll be able to see the build control
 
 
 
-![ Good Example - We have the option of an on-premises build controller as well as the Hosted Build controller](vso_build.png)
+
+[[goodExample]]
+| ![ Good Example - We have the option of an on-premises build controller as well as the Hosted Build controller](vso_build.png)

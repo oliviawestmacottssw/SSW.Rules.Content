@@ -13,5 +13,6 @@ Encourage experimentation to increase comfort:
 - Remember your last state
 - **Live preview**
 
- [[goodExample]]
+ 
+[[goodExample]]
 | ![Office Word uses Live Preview to show what styles look like](live-preview.jpg)

@@ -12,6 +12,7 @@ authors:
 ---
 
 In ASP.NET deployment is a simple xcopy. Or you can right click the Web Site project and  "Publish Web Site" in Visual Studio.
+
 ![](PublishWebSite.png) Fugure: Publish Web Site in Visual Studio 
 
 

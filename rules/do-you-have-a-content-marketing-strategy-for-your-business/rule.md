@@ -29,4 +29,6 @@ It should definitely include:
 - Goals
 - Metrics that will be followed
 
-![ Marketing Content is valuable with the right approach! - Image source: <br>      [Joe Lesina](https://medium.com/%40joelesina/content-marketing-a-simple-guide-on-how-i-do-it-1b1791ca1898)](contentmkt.png)
+
+![ Marketing Content is valuable with the right approach](contentmkt.png)
+! - Image source: <br>      [Joe Lesina](https://medium.com/%40joelesina/content-marketing-a-simple-guide-on-how-i-do-it-1b1791ca1898)

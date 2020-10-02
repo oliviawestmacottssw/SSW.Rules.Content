@@ -17,7 +17,9 @@ Without a spare room, it can be difficult to create a workable setup, however as
 
 ### Tip 1: Use a room divider
 
+
 ![ Christian uses this divider to hide his background](room-divider.jpg)
+
 Christian has used a folding room divider to hide his background and create something visually nice to look at.
 
 It has the added effect of softening any background light, e.g. windows, lamps etc.
@@ -26,7 +28,9 @@ It has the added effect of softening any background light, e.g. windows, lamps e
 
 
 Jason’s setup is another good example:
+
 ![ Jason is in a bedroom, however, the angle shows little of the bed](jason-angle-bed.jpg)
+
 In this setup, Jason is using a more ‘pro’ setup with a USB powered podcasting mic and an articulating arm. He is also using a high-quality webcam with a ring light.
 
 Originally the shot was more head-on, which meant you could see the bed in full view, however by moving the webcam off to the side and using the blinds, we can get a more pleasant looking shot.
@@ -41,7 +45,9 @@ One of the most frustrating aspects of remote calls is participants’ mixed aud
 
 
 **USB webcam with built-in mic array**
-![ <br>      [Logitech Brio 4k webcam](https://www.logitech.com/en-au/product/brio#specification-tabular)](logitech-brio.png)
+
+![ <br>      ](logitech-brio.png)
+[Logitech Brio 4k webcam](https://www.logitech.com/en-au/product/brio#specification-tabular)
 
 Benefits
 
@@ -53,7 +59,9 @@ Benefits
 
 
 **Podcast style microphone**
-![ <br>            [Rode USB Podcaster microphone](http://www.rode.com/microphones/podcaster)](rode-podcaster.jpg)
+
+![ <br>            ](rode-podcaster.jpg)
+[Rode USB Podcaster microphone](http://www.rode.com/microphones/podcaster)
 Benefits
 
 - High-quality audio will be very useful if you plan to record videos. e.g. done videos
@@ -64,7 +72,9 @@ Benefits
 
 
 The best way to improve your video is not to buy a new fancy camera, but to improve your existing setup with great lighting.
+
 ![ Ring light for webcam/camera/smartphone](ring-light.jpg)
+
 
 Benefits
 

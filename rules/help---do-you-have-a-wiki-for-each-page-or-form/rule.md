@@ -46,4 +46,7 @@ I have no idea what this is telling me. Anyone have any ideas?
 
 Thanks!
 Mr Northwind
-Figure: Bad Example - The user encounters an issue and has to email someone about it ![ Good Example - The 'Wiki...' link in the bottom left, takes the user to a wiki page with common issues and workarounds for this form (e.g. Creating a Project Portal) ](../../assets/InterfacesWiki.png)
+Figure: Bad Example - The user encounters an issue and has to email someone about it 
+[[goodExample]]
+| ![ Good Example - The 'Wiki...' link in the bottom left, takes the user to a wiki page with common issues and workarounds for this form ](../../assets/InterfacesWiki.png)
+(e.g. Creating a Project Portal)

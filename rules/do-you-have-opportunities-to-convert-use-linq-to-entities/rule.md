@@ -10,4 +10,6 @@ authors:
 ---
 
 Look for inline SQL to see whether you can replace it with Linq to Entities.
- ![ SQL Injection for Speed Cameras :-)](speed-camera.jpg)
+ 
+![ SQL Injection for Speed Cameras :-](speed-camera.jpg) 
+)

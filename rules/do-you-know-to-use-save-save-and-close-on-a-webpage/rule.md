@@ -25,8 +25,11 @@ These three options are:
 
 
 
+
 [[badExample]]
 | ![ only provided *Save*button and *Cancel*link](2014-11-27_11-45-25-compressor.png)
+
+
 
 
 
@@ -37,7 +40,10 @@ These three options are:
 
 
 
+
+
 ![ Better example - SugarLearning provides a *Save*button, a *Save and Close* button and a *Cancel*link](2014-11-27_11-47-40-compressor.png)
+
 
 
 

@@ -25,9 +25,16 @@ Using this strategy, ** master **is always production-ready and deployable.
  
 
 
+
 [[badExample]]
-| ![ Committing to master![commit-branch-good.jpg](commit-branch-good.jpg) ](commit-master-bad.jpg)
-![ Great diagram from <br>      [GitHub](https://guides.github.com/pdfs/githubflow-online.pdf) ](github-flow.jpg)
+| ![ Committing to master](commit-master-bad.jpg)
+
+[[goodExample]]
+| ![Committing to a new branch](commit-branch-good.jpg) 
+
+
+![ Great diagram from <br>      ](github-flow.jpg)
+[GitHub](https://guides.github.com/pdfs/githubflow-online.pdf) 
 ### The process
 
 ### #assumption
@@ -43,8 +50,13 @@ Since master is always being deployed, it must always be in a deployable state.
 **a) Create a "feature branch" for every PBI**
 
 When starting a PBI from the task board, create a branch from      **master** with a descriptive name for that feature.
+
 [[badExample]]
-| ![ Branch name is not descriptive![git branch create-basic-web-application](GoodBranchName.png) ](BadBranchName.png)
+| ![ Branch name is not descriptive](BadBranchName.png)
+
+[[goodExample]]
+| ![ Good Example - Branch name describes the intent of the change](GoodBranchName.png) 
+
 **It is critical that this branch always comes off master, not another feature branch. Master is the only branch that is mandated to be in a deployable state, so any other option is unsafe.**
 
 Obviously, we're creating a lot of branches and merging a lot under this strategy - and that's ok.  Be sure to keep your PBIs small (as per [do you break large tasks into smaller tasks](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2e446681-6eff-4cec-b955-e530edc4cdc8)), and you will not have much merge pain.
@@ -56,7 +68,13 @@ The benefit of creating feature branches is to reduce the number of conflicts an
 **c) Create a commit - it will contain your changed files on your local PC **
 
 While working, commit frequently to this branch with nice, descriptive messages. For example, "Added a field to hold the product category to our timesheet read model" and "added a column to the timesheet summary UI for the product category".
-![ Bad Example - Commit message does not describe what was changed![GoodCommitMessage.png](GoodCommitMessage.png)](BadCommitMessage.png)
+
+[[badExample]]
+| ![ Bad Example - Commit message does not describe what was changed](BadCommitMessage.png)
+
+[[goodExample]]
+| ![ Good Example - Commit message describes exactly what was changed. ](GoodCommitMessage.png)
+
 
 **d) Push your changes to your remote Feature Branch**
 
@@ -80,17 +98,24 @@ Some prefer to move this step to after the merge, especially when using a releas
 
 
 Once everyone is happy and everything is tested, complete the pull request, which will merge back to     ** master**. Ensure you are not using the "Fast Forward" merge option (git), or details about the branch will be lost - it will appear as though all work was done in     **master**. Being able to see the feature branches in the git log is very useful.
-![ Good Example - Each change is well described, small and in its own feature branch.](GoodGitHistory.png)
+
+[[goodExample]]
+| ![ Good Example - Each change is well described, small and in its own feature branch.](GoodGitHistory.png)
+
 After you completed the pull request, make sure you also delete the branch     that you made the pull request of. Deleting your completed branch will not just help yourself in the long run, but also everyone else. Having too many branches especially a stale one will confuse developers on what "may" be in progress, moreover it would cause so much pain to the future developer when they have to do a clean-up and the branch author has left.
-![](bad-figure-stale-branches2.png)
 
+[[badExample]]
+| ![ Bad Example - Lots of stale branches that could cause confusion or potentially take a long time to resolve conflicts when merging](bad-figure-stale-branches2.png)        
 
-        Figure: Bad Example - Lots of stale branches that could cause confusion or potentially take a long time to resolve conflicts when merging
 
 Otherwise, you can do it before you complete the pull request by ticking     delete branch option.
-![](delete branch in devops.png)
 
-        Figure: Good Example - Automatically delete the branch after the pull<br>        request completion in Azure Devops
-![ Good Example - Set the whole project to auto-delete branch after<br>        merging in GitHub](github settings.png)        
+[[goodExample]]
+| ![ Good Example - Automatically delete the branch after the pull<br>        request completion in Azure Devops](delete branch in devops.png)        
+
+
+[[goodExample]]
+| ![ Good Example - Set the whole project to auto-delete branch after<br>        merging in GitHub](github settings.png)        
+
 
 Once merged,      **master** should immediately and automatically be deployed (in a perfect world, to production).

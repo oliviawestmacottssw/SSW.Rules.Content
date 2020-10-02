@@ -21,22 +21,42 @@ Use NLB to allow load balancing and failover. On each of your Windows Servers, y
 You need to follow these steps to get it up and running:
  
 1. On all nodes of the NBL cluster, the Network Load Balancing Feature needs to be installed.
+
 ![ Install the NLB Feature](NLB1.png) 
+
 2. Open the Network Load Balancing Manager from Administrative Tools
+
 ![ Under the Cluster menu item, click New](NLB22.png) 
+
 3. Enter the first node in the cluster in ‘Host’ and press ‘Connect’
+
 ![ Select the interface for the node](NLB33.png) 
+
 4. Enter a Priority as 1 (this is just a host identifier)
+
 ![ In 'Priority' enter '1'](NLB44.png) 
-5. ![ Enter a virtual IP address for the cluster. eg. 192.168.1.12](NLB55.png) 
+
+5. 
+![ Enter a virtual IP address for the cluster. eg. 192.168.1.12](NLB55.png) 
+
 6. Choose the IP address of your cluster from the dropdown list Set a Full Internet Name eg. spcluster.sydney.ssw.com.au. 
 Ensure the Multicast Cluster operation mode is selected.
+
 ![ Set the 3 cluster parameters](NLB66.png) 
+
 7. You want sticky sessions so you don’t mistakenly bounce between servers (and lose your state)
+
 ![ Leave the Port Rule as default. This will provide sticky session](NLB77.png) 
+
+
 ![ Success. The cluster configuration will show a green icon](NLB88.png) 
+
 8. Right click the name of the cluster eg. spcluster.sydney.ssw.com.au Click Add Host To Cluster
+
 ![ Add the 2nd web server with a priority of 2](NLB99.png) 
+
 9. Open a command prompt and type in wlbs query to verify the cluster:
+
 ![ Type in wlbs query to verify the cluster](Setup-NLB-13.jpg) 
+
 10. Ping both nodes and the virtual IP address externally to verify they are all working

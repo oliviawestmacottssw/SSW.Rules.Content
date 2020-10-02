@@ -10,7 +10,10 @@ authors:
 ---
 
 The default WIT doesn’t control the valid drop down<br>items in Assigned To filed, this will introduce unnecessary items to be shown<br>in the list which will make your users confused, e.g. TFSBUILD, tfsBuildService<br>should never be used to assign a job.
-![ Bad Example – shown unnecessary values   You can add the following XML in the Assigned To filed definition to control the valid values:](UnnecessaryValue.png)
+
+[[badExample]]
+| ![ Bad Example – shown unnecessary values   You can add the following XML in the Assigned To filed definition to control the valid values:](UnnecessaryValue.png)
+
 
 <FIELD name="Assigned To" refname="System.AssignedTo" type="String" reportable="dimension" syncnamechanges="true">
 <ALLOWEXISTINGVALUE />
@@ -25,4 +28,6 @@ FIELD>
 
 Figure: Use ALLOWEDVALUES to control the values in Assigned to field
 
-![ Good Example – shown necessary values](ShowNecessaryUser.png)
+
+[[goodExample]]
+| ![ Good Example – shown necessary values](ShowNecessaryUser.png)

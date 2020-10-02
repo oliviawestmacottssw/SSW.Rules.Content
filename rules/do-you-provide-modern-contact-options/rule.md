@@ -21,7 +21,13 @@ The evolution of website development can be divided by:
 
  
 It's important that your website is focused on CX (Customer Experience) which means you need modern contact options.
- ![ Bad example: the only way to contact the company is via email   ![moderncontact-good.png](moderncontact-good.png) ](moderncontact-bad.png) 
+ 
+[[badExample]]
+| ![ Bad example: the only way to contact the company is via email   ](moderncontact-bad.png) 
+
+[[goodExample]]
+| ![Chat is available along with other ways of contact, such as voip, IM, KB etc](moderncontact-good.png) 
+
  
  
  

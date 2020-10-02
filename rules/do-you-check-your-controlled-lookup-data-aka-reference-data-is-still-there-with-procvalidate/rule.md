@@ -12,8 +12,12 @@ authors:
 [Controlled Lookup Data](/Pages/DoYouDeployLookupData.aspx) is when data is tightly coupled to the application. If the data is not there, you have problems. So how do we check to see if data is still there?
 
 The simplest way is to add a procValidate (Stored Procedure) to check that all the lookup data is still there.
+
 ![ procValidates are just like a nagging wife ](NaggingWife.gif) 
-<br>Let's look at an example, of a combo that is populated with Controlled Lookup data (just 4 records)  <br> ![ How do I make sure these 4 records never go missing? ](TimeProDropDown.png) 
+
+<br>Let's look at an example, of a combo that is populated with Controlled Lookup data (just 4 records)  <br> 
+![ How do I make sure these 4 records never go missing? ](TimeProDropDown.png) 
+
 
 ```
 CREATE PROCEDURE procValidate_Region 

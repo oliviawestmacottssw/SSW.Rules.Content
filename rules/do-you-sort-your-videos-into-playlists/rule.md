@@ -14,11 +14,15 @@ All your videos should be inserted into playlists and these playlists should be 
 Creating and promoting optimized playlists is a plus, increasing session time (amount of time spent by a person on YouTube after watching your video). YouTube wants people to spend more time on their website (to increase their revenue with ads) so if a channel makes people spend more time on YouTube, this channel gets a boost. YouTube will automatically launch another video from a playlist once the first video is over, increasing session time. This snowball effect will give your channel and videos a great boost!
 
 
+
 ![](playlist_bad.png) Bad example: people living YouTube after (or even while) watching one of your videos will rank you (and your content) down.
+
 
 ![](playlist_ok.png) OK example: people watching another video after yours will give you a little boost.
 
+
 ![](playlist_good.png) Good example: people watching a video from your playlist are more likely to keep watching more of your videos, giving you a big boost!
+
 
 ![](playlist_good_sswtv.png) Good example: make sure that every video is in at least one playlist.
 **Images**: courtesy of Brian Dean ([source](https://backlinko.com/grow-youtube-channel)).

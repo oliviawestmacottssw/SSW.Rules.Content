@@ -14,23 +14,39 @@ Unfortunately, when you “Send As Email” it doesn’t compress the file; this
 
 
 This has been done in the 3.8 release of the template, but for old templates you may have to do this manually.
-![ Go to the slide master![02.png](02.png)](01.png)
+
+![ Go to the slide master](01.png)
+
+![ Find the slide layout "Presentation with Title and Video" and delete it. ](02.png)
+
  
 
 
 ### Compress ALL your images
-![ Go to the File menu![06.png](06.png)](05.png)
+
+![ Go to the File menu](05.png)
+
+![ Select Options](06.png)
+
+![ Apply settings. You may compress this further down to 96ppi if you must.](07.png)
+
 
 
 
 ### Compress individual images (not recommended)
-![ Find the Image Compression option![04.png](04.png)](03.png) 
+
+![ Find the Image Compression option](03.png) 
+
+![ Apply these settings and go for a coffee break. This may take a long time, depending on how many slides you have.](04.png)
+
 
 
 
 ### Compress font - ONLY DO THIS WHEN YOU ARE FINISHED EDITING
 
+
 ![ Apply these settings. Once you remove the font, you’re more likely to get missing font bugs when editing the file, so only do this step when you are done.](08.png)
+
 
 
 
@@ -45,4 +61,6 @@ If you find your files are still rather big after compression, you can export th
 
 
 Your own mileage may vary.
-![ We've compressed this particular file down by 50%!](10.png)
+
+![ We've compressed this particular file down by 50%](10.png)
+!

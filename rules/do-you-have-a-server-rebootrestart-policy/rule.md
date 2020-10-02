@@ -68,8 +68,10 @@ Here is the summary of the outage plan:
 
 **
 **Note:** The following servers will be affected
+
 ![](rule-outage-1.jpg)
 http://wug.ssw.com.au/
+
 
 ![](rule-outage-2.jpg)
 
@@ -99,15 +101,21 @@ Immediately before the scheduled downtime, check for logged in users, file acces
 ### Users
 
 Open 'Windows Task Manager' (Run > taskmgr) and select the 'Users' tab. Check with users if they have active connections, then have them log off.
+
 ![ Connected users can be viewed in Task Manager](rule-outage-3.png)
+
 ### Files
 
 Open 'Computer Management' (Run > compmgmt.msc), then 'System Tools > Shared Folders'. Check 'Session' and 'Open Files' for user connections.
+
 ![ Computer Management 'Open Files' View](rule-outage-4.png)
+
 ### Database
 
 Open SQL Server Management Studio on the server. Connect to the local SQL Server. Expand 'Management' and double-click 'Activity Manager'.
+
 ![ SQL Management Studio 'Active Connections' View](rule-outage-5.gif)
+
 Once these have been checked for active users, and users have logged off, maintenance can be carried out.
 
 **Restarts should only be performed during the following time periods**

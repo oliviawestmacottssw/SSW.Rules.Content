@@ -16,4 +16,5 @@ When traveling change it to the area you are in:
 Eg. **Todd Gardner in Norway 🇳🇴 **
  
 This tip also works well on all social media platforms. Eg. Facebook, Instagram etc.
+
 ![ Changing name when traveling](twitter-name.png)

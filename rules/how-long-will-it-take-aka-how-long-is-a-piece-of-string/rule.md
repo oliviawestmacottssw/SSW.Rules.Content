@@ -9,6 +9,11 @@ authors:
 
 ---
 
-Judging how long a project will take is a difficult task as there are many factors to consider like resourcing, leave and blowouts. ![ Estimating how long a project will take is like asking how long a piece of string is](how-long-1.jpg)
+Judging how long a project will take is a difficult task as there are many factors to consider like resourcing, leave and blowouts. 
+![ Estimating how long a project will take is like asking how long a piece of string is](how-long-1.jpg)
+
 Thankfully Project Server 2013 or 2010 allows us to stay on top of the project with live updates with TFS and the project gantt chart to track progress and delays.
-![ Get the right figures at a glance with Project Server 2013![Tracking project blowouts with Project Server 2010](how-long-3.jpg)](how-long-2.jpg)
+
+![ Get the right figures at a glance with Project Server 2013](how-long-2.jpg)
+
+![ Tracking project blowouts with Project Server 2013](how-long-3.jpg)

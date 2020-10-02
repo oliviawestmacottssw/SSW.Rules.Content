@@ -19,4 +19,6 @@ Schema.org provides a list of the most common types of schema markup. You can vi
 
 
 
- ![ Good example. Result from a Google Search of “Chocolate cake.” Not only is it showing you a link to the website, but the Schema Code is showing a small picture of the cake (yum), the ranking in the form of stars, some of the ingredients and the calories, all before you have clicked on any links.](choc cake.png)
+ 
+![ Good example. Result from a Google Search of “Chocolate cake.” Not only is it showing you a link to the website, but the Schema Code is showing a small picture of the cake ](choc cake.png)
+(yum), the ranking in the form of stars, some of the ingredients and the calories, all before you have clicked on any links.

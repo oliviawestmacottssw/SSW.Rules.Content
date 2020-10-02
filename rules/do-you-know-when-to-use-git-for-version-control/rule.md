@@ -14,7 +14,9 @@ authors:
 ---
 
 Team Foundation Server Update 2 and Team Foundation Server 2013 comes with built in support for Git as a version control system.
- ![ How you start using Git on TFS](git-screen.jpg)
+ 
+![ How you start using Git on TFS](git-screen.jpg)
+
 You should use Git if you:
 
 - Are running an open source project

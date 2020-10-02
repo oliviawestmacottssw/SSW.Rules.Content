@@ -17,10 +17,20 @@ The reasons are:
 
 
 PS: One reason web UI's are nice, is that the information is always selectable/copyable.
-![ Bad Example - Not only is the data cut off when you are using label, but you can't copy and paste the value![Using Textbox is better practice](../../assets/GoodTextbox.gif)](../../assets/BetterInterface_LabelCutOff.jpg)
+
+[[badExample]]
+| ![ Bad Example - Not only is the data cut off when you are using label, but you can't copy and paste the value](../../assets/BetterInterface_LabelCutOff.jpg)
+
+[[goodExample]]
+| ![ Good Example - Using Textbox controls makes the data obvious to users](../../assets/GoodTextbox.gif)
+
 As you can see you'll barely know the difference, so start using Textboxes for displaying data, that's good practice.
 
 #### More Information
 
 When using TextBox controls in Windows Forms, set them up like this:
-![ Having the 'BorderStyle' Property set to Fixed3D is the best choice visually![Using Textbox is better practice](../../assets/ReadOnly_1.gif)](../../assets/BorderStyle_1.gif)
+
+![ Having the 'BorderStyle' Property set to Fixed3D is the best choice visually](../../assets/BorderStyle_1.gif)
+
+![ Make the text box Read-Only ](../../assets/ReadOnly_1.gif)
+(users copying data is OK, changing is silly)

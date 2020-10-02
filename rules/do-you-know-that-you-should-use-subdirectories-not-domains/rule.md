@@ -10,7 +10,9 @@ authors:
 ---
 
 If you’re building a website today, and your business needs to create addresses for different online directories, it can be confusing to figure out the best way to go about it. There’s a lot of debate about this topic on the internet, so the question to ask yourself is: “Should I use subdirectories or subdomains?”
- ![ Difference between subdirectories and subdomains](rulesubdomains.png)
+ 
+![ Difference between subdirectories and subdomains](rulesubdomains.png)
+
 
 
 

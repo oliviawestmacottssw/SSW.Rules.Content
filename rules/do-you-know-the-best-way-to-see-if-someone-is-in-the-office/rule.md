@@ -12,8 +12,14 @@ authors:
 ---
 
 You should create an #in-and-out channel on Slack and use the employees' MAC Addresses to identify who entered and left the office.
- ![ Bad Example – Scream out “Where is Marlon?”](shout.jpg)
-![ Good Example – Using in/out functionality with Slack and Ubiquity Access Point](Slack-in-out.jpg)
+ 
+[[badExample]]
+| ![ Bad Example – Scream out “Where is Marlon?”](shout.jpg)
+
+
+[[goodExample]]
+| ![ Good Example – Using in/out functionality with Slack and Ubiquity Access Point](Slack-in-out.jpg)
+
 
 Although there is one bug with the solution:
 

@@ -13,8 +13,10 @@ SSW All emails should be used for critical information or emails that require fe
  
 SSW All emails serve an important purpose in providing information to the entire organisation in a way that is less likely to get lost than an Instant Message.  Its also provides a good method of allowing for a good cross section of staff responses.  IM messages are better suited to general comments/information or random posts.
 
+
 ![](bad1.png)
 Bad Example - No information. Not relevant for all staff to see.
+
 
 
 
@@ -25,8 +27,10 @@ Bad Example - This should have been shared in a group. Not via SSWAll
 
 
 
+
 ![](good1.png)
 Good Example - Clearly talks about an outage that will affect all users
+
 
 
 

@@ -21,7 +21,10 @@ You can run Lighthouse:
 
 
 It runs a series of audits against a URL and then it generates a report on how well the page did. From there, you can use the failing audits as indicators on how to improve the page. Each audit has a reference doc explaining why the audit is important, as well as how to fix it.
-![ Good Example - Google Chrome Lighthouse is showing 100%](lighthouse-100.png)
+
+[[goodExample]]
+| ![ Good Example - Google Chrome Lighthouse is showing 100%](lighthouse-100.png)
+
 
 
 ### Lighthouse Level 1: Throttling Off
@@ -33,7 +36,10 @@ For applications intended for use on a desktop and from within a well-connected 
 
 To see how well your website would perform on low-spec devices and with poor internet bandwidth, use the throttling features. This is most important for high volume, customer-facing apps.
 
-![ Good Example - Lighhouse can simulate slow netwrking and CPU when performing tests](lighthouse_throttling.png)
+
+[[goodExample]]
+| ![ Good Example - Lighhouse can simulate slow netwrking and CPU when performing tests](lighthouse_throttling.png)
+
 
 
 

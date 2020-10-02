@@ -15,8 +15,10 @@ An application's database access profile should be as restricted as possible, so
 
 Application database access should be also be restricted to only the application's database, and none of the other databases on the server
  
+
 ![](administratorlogininitsconnectionstring.png)
 Bad Example – Contract Manager Web Application using the administrator login in its connection string 
+
 
 
 ![](databaseuserconfiguredintheconnectionstring.png)

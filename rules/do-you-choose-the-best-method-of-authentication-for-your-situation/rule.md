@@ -14,6 +14,7 @@ authors:
 ---
 
 Authentication and authorisation are complicated, and it is risky to try and implement it yourself.  Use this rule for a guide on choosing the right service or framework for your situation.
+
 ![](security-icon-ssw.jpg)
  
 Choosing the right     [authentication and authorisation](https://www.youtube.com/watch?v=i0d9iTmWIOw) approach for your situation can be tricky. It is a multi-facted problem with many variables, and what seems like the right choice in one situation may not be in the other.
@@ -36,7 +37,9 @@ Without the answers to these questions, it will be difficult to choose the right
 
 ###  External Applications
 
-![ WebAPI (Public facing/consumer Application) - Authentication selection flow chart](Flow Chart - External.png)
+
+![ WebAPI ](Flow Chart - External.png)
+(Public facing/consumer Application) - Authentication selection flow chart
 
 **Example Template to Customer:**
 
@@ -55,7 +58,9 @@ MFA - You would like to allow users to enable MFA.
 
 ###  Internal Applications
 
-![ WebAPI (Internal Enterprise Application) - Authentication selection flow chart](Flow Chart - Internal.png)
+
+![ WebAPI ](Flow Chart - Internal.png)
+(Internal Enterprise Application) - Authentication selection flow chart
 
 
 **Example Template to Customer:**

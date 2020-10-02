@@ -95,7 +95,9 @@ These are the types of content:
 2. Create a Quotable Card with a great background image:
 
 - create a version of the video for Facebook, Twitter, LinkedIn and Instagram
-       - write the copy for the update![ Good example, create a version of the video for Facebook, Twitter, LinkedIn, and Instagram](ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png)
+       - write the copy for the update
+![ Good example, create a version of the video for Facebook, Twitter, LinkedIn, and Instagram](ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png)
+
 
 
 

@@ -20,7 +20,9 @@ In SharePoint 2010, there are quite a few tools that we can use to take SharePoi
 
 1. SharePoint Workspace synchronize an entire site
 <br>    a. So when lists are renamed it knows about it.
-<br>    b. It also knows about new lists that are added to a SharePoint site ![ SharePoint Workspace synchronizing an entire site](Synchronize.jpg)
+<br>    b. It also knows about new lists that are added to a SharePoint site 
+![ SharePoint Workspace synchronizing an entire site](Synchronize.jpg)
+
 2. Outlook can be quite busy when synchronizing to Exchange server; it is good to not burden it with more work.
 
  While SharePoint Workspace is quite good, we don’t like to store lists in it:

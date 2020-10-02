@@ -31,8 +31,13 @@ A better process is to submit your build for Testflight and Release simultaneous
 **    Tip for End of Sprint Releases: **Get the Testflight and Release submissions approved in preparation for your Sprint Review. You can then demo your release to the Product Owner and be ready to release your Product Increment after the Sprint Review.
 6. You can now release your app as soon as you are ready. In App Store Connect click Release to make your latest build publicly available in the App Store.
 
-![ Bad Example - v1.7 is "Waiting for Review" in Testflight but only v1.6 is submitted to the App Store. This can introduce delays of 3 weeks.](bad-example-new.png)
+
+[[badExample]]
+| ![ Bad Example - v1.7 is "Waiting for Review" in Testflight but only v1.6 is submitted to the App Store. This can introduce delays of 3 weeks.](bad-example-new.png)
 
 
 
-![ Good Example - v1.7 has been submitted to Testflight and App Store at the same time - also "Waiting for Review", but your build will be ready to release as soon as testing has passed](good-example-new.png)
+
+
+[[goodExample]]
+| ![ Good Example - v1.7 has been submitted to Testflight and App Store at the same time - also "Waiting for Review", but your build will be ready to release as soon as testing has passed](good-example-new.png)

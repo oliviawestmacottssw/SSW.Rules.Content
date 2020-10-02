@@ -53,7 +53,10 @@ We should have the following color variation when we creating a logo:
 2. All Black
 3. All White (in a dark background)
 
-![ Good Example - SSW logo design has three different color set](ssw logo sample.png)
+
+[[goodExample]]
+| ![ Good Example - SSW logo design has three different color set](ssw logo sample.png)
+
 
 
 

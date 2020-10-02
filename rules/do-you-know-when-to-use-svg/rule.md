@@ -22,4 +22,9 @@ Some of SVG format advantages are:
 - Supports transparency
 - Text can be selected, copied, spoken by the computer, and indexed by search engines.
 
- ![ Bad Example - this graphic is line art, but has mistakenly been saved as a JPEG. It loses resolution.![Good Example - Using SVG for line art](svg.jpg)](jpg_vs_svg_bad.jpg)
+ 
+[[badExample]]
+| ![ Bad Example - this graphic is line art, but has mistakenly been saved as a JPEG. It loses resolution.](jpg_vs_svg_bad.jpg)
+
+[[goodExample]]
+| ![ Good Example - the same graphic, saved as an SVG, no pixelation.](svg.jpg)

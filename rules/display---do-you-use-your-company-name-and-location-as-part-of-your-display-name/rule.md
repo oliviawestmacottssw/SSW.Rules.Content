@@ -11,6 +11,7 @@ authors:
 
 ![ Display your company name and location](display-your-company-name.jpg) 
 
+
 Using your company name as part of your Display Name has the double advantage of firstly branding, and secondly, indicating to other parties that your IM account is for work purposes.
  
 Be aware that while you can change your display name, Skype doesn't allow you to rename the account... So use your full name. If you just use "Peter", then people can't distinguish you from the 3 other Peters they have.

@@ -17,7 +17,9 @@ It tells people 3 things:
 - The people that you need to speak to (they will get the notifications)
 - The location of where you are
 
- ![ When people chat with you, they can see what you’re up to](teams-status-message.jpg)
+ 
+![ When people chat with you, they can see what you’re up to](teams-status-message.jpg)
+
 ### More information
 
 
@@ -26,7 +28,9 @@ To update the status message, follow these steps:
 - On the top right, click on your photo
 - Click on the pencil icon to edit the status message
 
+
 ![ Edit the Teams status message each day](edit-teams-status.jpg)
+
 The status message is helpful when it contains:
 
 - **Project:** xxx (the product/project you’re working on) | yyy (the tasks you’re working on)
@@ -39,7 +43,9 @@ The status message is helpful when it contains:
 - For “Clear status message after”, select Never (to prevent Microsoft from deleting the status message)
 - Click Done once complete
 
+
 ![ Edit the status message](edit-teams-status-2.jpg)
+
 ### Related rule
 
 - [Do you do Daily Scrums (aka stand-up meetings)?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=731a3f5d-a266-4944-876c-a45afa82832f)

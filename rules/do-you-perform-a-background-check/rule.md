@@ -23,7 +23,9 @@ The easiest method is to check they are a legitimate company via a quick Google 
 - Is the "Contact Us" address and/or phone number the same as the one they provided?
 
 
+
 ![ Make sure you know who you're going into business with](Wanted-Poster.jpg)
+
 
 
 With this information you can then rank them from "Not a Risk" all the way up to "Huge Risk" (the kind with neon flashing lights and all) and decide whether or not to go ahead with the business deal.

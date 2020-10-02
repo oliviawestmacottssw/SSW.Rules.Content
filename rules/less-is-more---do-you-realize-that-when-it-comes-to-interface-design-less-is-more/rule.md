@@ -21,4 +21,16 @@ Most developers think about user interface last. They spend their time worrying 
 It might be fantastic under the covers, but if the user interface is not intuitive the user will think the application is just hopeless. If the user interface doesn't afford an easy and simple understanding of how to operate the application, you'll get a lot of unhappy customers and unnecessary support calls.
 
 Do yourself a favor, take some time to think about UI first.
-![ Bad Example - An example of a poor UI![Bad UI Example, streamlined functionality and minimal](../../assets/badui2.jpg)
+
+[[badExample]]
+| ![ Bad Example - An example of a poor UI](../../assets/badui2.jpg)
+
+[[badExample]]
+| ![ Bad Example - Functional overload ](../../assets/bad-functionaloverload1.jpg)
+(a programmer probably designed this one)
+[[badExample]]
+| ![ Bad Example - Another example of Functional overload](../../assets/bad-functionaloverload2.jpg)
+
+[[goodExample]]
+| ![ Good Example - Outlook.com ](OutlookCom.png)
+(the replacement to Hotmail), streamlined functionality and minimal

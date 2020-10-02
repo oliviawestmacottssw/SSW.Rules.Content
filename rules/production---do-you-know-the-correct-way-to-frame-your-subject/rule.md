@@ -21,12 +21,27 @@ Basic rules to follow include:
 7. Avoid areas of high contrast - a hot spot (where the light is concentrated into a pure white) or a very dark spot or section of the frame in a predominantly light frame can draw the viewers eye. If this is not what you want them to focus on, don't include it in the frame.
 8. If there is only one person in the frame (or if there are two people looking the same direction), place them on the opposite side to the direction they're looking. That is, if they're looking left to right, place them on the left side of the frame. If this is not followed, your subject will be pressed up against the edge of the frame and this can create an uncomfortable feeling for the audience.
 
+
 [[badExample]]
-| ![ Bad example – too much dead space, the characters are unevenly placed, there is an uninteresting background, it's side on and the framing is too far out ![Video Frame Good example](video-fram-good-example.jpg) ](video-fram-bad-example.jpg) 
+| ![ Bad example – too much dead space, the characters are unevenly placed, there is an uninteresting background, it's side on and the framing is too far out ](video-fram-bad-example.jpg) 
+
+[[goodExample]]
+| ![ Good example – rule of thirds followed, mid-shot, interesting background, no dead space, fairly face on, subject placed on right side because he's looking from right to left ](video-fram-good-example.jpg) 
+(leading room).When positioning your subjects it is important to remember several factors:
 1. It is a good idea (if you want to have one of your subjects more face on) to have the interviewee more face on than the interviewer.
 2. The interviewer should be on the right side of the frame - you'll notice talk show hosts will always look right to left.
 3. The interviewer should avoid leaning in to the interviewee too much as it might make them feel uncomfortable and seem a little weird in the frame.
 4. The best way to position your subjects is at 90° to each other and at 45° to the camera:
 
+
 [[badExample]]
-| ![ Interviewee (left) is facing toward the interviewer (right) too much and the interviewer is faced towards the camera too much. ![interview positions.jpg ](bad-interview-positions.jpg)
+| ![ Interviewee ](bad-interview-positions.jpg) 
+(left) is facing toward the interviewer (right) too much and the interviewer is faced towards the camera too much. 
+[[goodExample]]
+| ![position your subjects properly to create an unbiased interview. When doing an over the shoulder shot ](interview positions.jpg) 
+(OTS) for a corporate video, it is generally best to stay at a level height with the subject. Looking up or down at them can create unnecessary meaning in the shot. It is also a good idea to avoid using the wide angle setting on your camera as it makes the subject seem distant and small in comparison to the person whose shoulder we can see. 
+[[badExample]]
+| ![ Bad example – looking down at the subject with a wide angle lens setting. ](bad OTS example.jpg) 
+
+[[goodExample]]
+| ![ Good example – level height, zoom level not set to wide angle.](Good OTS example.jpg)

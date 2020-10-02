@@ -20,12 +20,15 @@ Please follow these steps to create your maintenance pages.
 3. Install CodeSmith.
 4. Run C:\Program Files\NetTiers\NetTiers.cst.
 5. Set requires properties following instructions.
- ![](NetTiersConfig.jpg)
- Figure: Properties Window6. Generate.
+ 
+![ Properties Window6. Generate.](NetTiersConfig.jpg) 
+
 7. Open the solution.
 8. Build it and run it in IE.
 9. Congratulations! It's up and running.
- ![ The application is running](RunNorthwind.jpg) 
+ 
+![ The application is running](RunNorthwind.jpg) 
+
 
 Code Smith enables to do this generate with a single command. If you want to generate it again, just run this command.
 
