@@ -9,11 +9,11 @@ authors:
 
 ---
 
-People are often very inconsistent with how they make appointments. Sometimes they use full days and sometimes they give a start and end time. It's important to be consistent.
+​People are often very inconsistent with how they make appointments. Sometimes they use full days and sometimes they give a start and end time. It's important to be consistent.
 
-**For a 1 day appointment**
+**​For a 1 day appointment**
 
-- Bad Example - An all day appointment is [not as visible](/appointments-do-you-send-outlook-calendar-appointments-when-appropriate) and doesn't tell the client when the developer will arrive and leave.
+- Bad Example - An all day appointment is [not as visible](/appointments-do-you-send-outlook-calendar-appointments-when-appropriate)​​ and doesn't tell the client when the developer will arrive and leave.
 - Good Example - a start and end time will visibly fill his calendar and also give everyone a shared understanding of when the developer is working.
 
 
@@ -26,7 +26,7 @@ CRM supports recurring appointments, and this allows for more flexibility in boo
 This also works better for Service Calendar syncing, as you can see what each person is working on each day.
 
 [[badExample]]
-| ![ Bad Example – If a change is needed on Tuesday’s booking, there will an issue](recurring-appointment-bad.png)
+| ![ Bad Example – If a change is needed on Tuesday’s booking, there will​ an issue](recurring-appointment-bad.png)
 
 [[goodExample]]
 | ![ Good Example – Easy to alter any individual day as needed](recurring-appointment-good.png)
@@ -34,4 +34,4 @@ This also works better for Service Calendar syncing, as you can see what each pe
 
 **For Leave**
 
-Leave appointments are the one time when it's actually useful to have the appointment out of the way up the top in your calendar, so "All Day" appointments are better for this.
+Leave appoi​ntments are the one time when it's actually useful to have the appointment out of the way up the top in your calendar, so "All Day" appointments are better for this.

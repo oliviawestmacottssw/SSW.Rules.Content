@@ -9,10 +9,8 @@ authors:
 
 ---
 
-Using "Magic numbers" in your code makes it confusing and really hard to maintain.
+Using "Magic numbers" in your code makes it confusing and really hard to maintain.​​​
  
-[[badExample]]
-| ![ "Magic Number" works, but is a bad idea](MagicNumberBad.jpg)
-
+![](MagicNumberBad.jpg)​Figure: Bad example - "Magic Number" works, but is a bad idea
 [[goodExample]]
-| ![No Magic Number, looks good and is easy to manage](MagicNumberGood.jpg)
+| ![No Magic Number, looks good and is easy to manage​](MagicNumberGood.jpg)

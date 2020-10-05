@@ -35,4 +35,4 @@ Page Title
 **
 This works for most websites, including ASPX WebForms, MVC and WordPress.
 
-We have        [SSW CodeAuditor](https://www.ssw.com.au/ssw/CodeAuditor/) and        [SSW LinkAuditor](https://www.ssw.com.au/ssw/LinkAuditor/) to check for this rule.
+We have        [SSW CodeAuditor](https://www.ssw.com.au/ssw/CodeAuditor/) and        [SSW LinkAuditor](https://www.ssw.com.au/ssw/LinkAuditor/) to check for this rule.​​

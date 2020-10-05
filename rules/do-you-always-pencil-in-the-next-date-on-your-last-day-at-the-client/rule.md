@@ -15,7 +15,7 @@ On your last day of consulting with a client, you should always book on the next
 - bringing some urgency (by saying your calendar fills up quick)
 
 
-So try something like "My calendar fills up really quick, how about I pencil you in... How about we say 2 weeks' time? Don't forget you can cancel it anytime."
+So try something like "My calendar fills up really quick, how about I pencil you in... How about we say 2 weeks' time? Don't forget you can cancel it anytime."​​
 
 ![ Plan ahead at the end of your day eg. "How about we pencil in my next visit, say 2 weeks' time?" ](mobile-calendar.jpg)
 

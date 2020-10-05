@@ -11,7 +11,7 @@ Though all software should be intuitive there are still times when users need ex
 
 Most importantly when a first time a user tries your program, they should be able                     to step through the setting up process. A wizard helps to show how your application                     flows from beginning to end.
  
-To ensure a consistent user experience, make sure to include these visual elements:
+​To ensure a consistent user experience, make sure to include these visual elements:
 
 1. **Page name.** It is important for the user to know which page they<br>                        are currently on.
 2. **Page description.** You should provide a short description of the<br>                        task to be performed on the page.

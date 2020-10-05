@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Whether you are converting an email to a blog post or writing it from scratch, always invite and instruct discussion. <br>
+Whether​ you are converting an email to a blog post or writing it from scratch, always invite and instruct discussion. <br>
  
 ![ Bad example, there are no instructions here](RulesBloggingFeedbackBad.jpg "SNAGHTMLf1a9ab")
 

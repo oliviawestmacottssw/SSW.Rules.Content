@@ -11,6 +11,6 @@ authors:
 
 **&lt;a&gt;** tag should **runat=“server"** \*ONLY\* if you need to change the target at runtime.
 
-If you include **runat=“server"** for an HTML element that you do not need access to in code behind, you are introducing a whole lot of overhead you do not need.
+If you include** runat=“server"** for an HTML element that you do not need access to in code behind, you are introducing a whole lot of overhead you do not need. ​
  
-We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.
+​We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.​​

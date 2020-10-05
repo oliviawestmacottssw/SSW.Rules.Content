@@ -8,18 +8,18 @@ authors: []
 ---
 
 Figuring out how your workflow works is an essential part of the editing process. As such you should make sure to have an effective and consistent file/folder structure. 
-This is an efficient way for a 2-3 person team to structure their files/folders:
+​This is an efficient way for a 2-3 person team to structure their files/folders:
 
 
 
 - Data[FirstnameLastname]
     - ProjectFiles
-        - Pictures
+        - Pictures​
         - Videos
             - Edit Assets
                 - Music
                 - Images
-                - Templates
+                - Templates​
                 - Videos
                     - CTA
                 - Stings

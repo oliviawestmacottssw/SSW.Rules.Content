@@ -11,7 +11,7 @@ authors:
 
 ---
 
-When you create a new git repository and need to push it to VSTS you need to provide login credentials.
+​​​​When you create a new git repository and need to push it to VSTS you need to provide login credentials.​
 
 It isn't always clear how to do this.
  
@@ -30,4 +30,4 @@ Option 2 is to manually create Personal Access Token and use it as a password fo
 You can follow this blog post for full instructions: [Using Personal Access Tokens to access Visual Studio Online](https://roadtoalm.com/2015/07/22/using-personal-access-tokens-to-access-visual-studio-online/).
 
 [[goodExample]]
-| ![ Good Example - You can also manually enter Personal Access Token into password section if the credential manager doesn't work](git-credentials-personal-access-token-manual.png)
+| ![ Good Example - You can also manually enter Personal Access Token into password section if the credential manager doesn't work​](git-credentials-personal-access-token-manual.png)

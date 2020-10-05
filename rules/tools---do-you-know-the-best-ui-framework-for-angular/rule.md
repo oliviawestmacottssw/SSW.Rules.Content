@@ -24,7 +24,7 @@ Making the choice of which to use will depend on several factors related to your
 1. The look and feel of the site that your client is seeking
 2. The range of components that will be required in the application
 3. The developers' familiarity with the framework
-4. The designers' familiarity with theming in the framework
+4. The designers' familiarity with theming in the framework​
 
  
 ### Angular Material
@@ -52,7 +52,7 @@ Now you can do following:<br>          Primary
 
 ### Bootstrap
 
-Bootstrap is the obvious choice if your UI design requires extensive customization. Bootstrap makes it easy to theme your application's design and to tweak the design of individual components. In addition to components, Bootstrap 4 provides powerful layout and theming capabilities. These features make it popular with Designers.
+Bootstrap is the obvious choice if your UI design requires extensive customization.​​ Bootstrap makes it easy to theme your application's design and to tweak the design of individual components. In addition to components, Bootstrap 4 provides powerful layout and theming capabilities. These features make it popular with Designers.​
  
 ![ Bootstrap has been the recommended UI framework for the web for years](bad-bootstrap.png)
 

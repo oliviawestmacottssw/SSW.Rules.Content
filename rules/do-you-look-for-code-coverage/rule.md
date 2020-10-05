@@ -15,7 +15,7 @@ authors:
 
 ---
 
-Code Coverage shows how much of your code is covered by tests and can be a useful tool for showing how effective your unit testing strategy is.  However, it should be looked at with caution.
+Code Coverage shows how much of your code is covered by tests and can be a useful tool for showing how effective your unit testing strategy is.  However, it should be looked at with caution.​​
  
 - You should focus on **\*quality\*** not **\*quantity\*** of tests.
 - You should write tests for fragile code first and not waste time testing trivial methods
@@ -27,4 +27,4 @@ Code Coverage shows how much of your code is covered by tests and can be a usefu
 ![ Code Coverage metrics in Visual Studio. This solution has a very high code coverage percentage ](CodeCoverage2010.png)
 (around 80% on average)
 
-**Tip:**[Do you use Live Unit Testing to see code coverage?](https://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterUnitTests.aspx#CodeCoverage)
+**​Tip: ** [Do you use Live Unit Testing to see code coverage?](https://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterUnitTests.aspx#CodeCoverage)

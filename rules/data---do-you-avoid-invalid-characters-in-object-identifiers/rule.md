@@ -9,4 +9,4 @@ authors:
 
 ---
 
-We believe it is not good that use invalid characters (most of are Symbol characters, like ",;"\/(", etc.) in object identifiers. Though it is legal, it is easily confused and probably cause an error during run script on these objects.
+​We believe it is not good that use invalid characters (most of are Symbol characters, like ",;"\/(", etc.) in object identifiers. Though it is legal, it is easily confused and probably cause an error during run script on these objects.​

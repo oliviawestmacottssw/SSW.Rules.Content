@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Brian Harry said in [his blog](https://blogs.msdn.microsoft.com/bharry/2017/08/18/taking-feedback/):
+​​Brian Harry said in [his blog](https://blogs.msdn.microsoft.com/bharry/2017/08/18/taking-feedback/):
  
 "Examples – When giving feedback, it’s often useful to use examples. Examples help make the feedback concrete. But, don’t allow the conversation to turn into a refutation of every example. I've been in conversations where the person I'm talking with wants to go through every example I have and explain why my interpretation is wrong. Be open to being wrong but don’t let it turn into point/counterpoint. Examples are only examples to support your feedback."
 
@@ -45,4 +45,4 @@ This will make the person who's giving you the feedback feel heard and that you 
 
 ### Related Rule
 
-- [Communication - Do you know how to take feedback/criticism (even if it’s not your fault)?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=64a98a6a-e49f-4d49-ae44-f50975df0a23)
+- ​​​​​[Communication - Do you know how to take feedback/criticism (even if it’s not your fault)?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=64a98a6a-e49f-4d49-ae44-f50975df0a23)

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Any time you come to some verbal arrangement with an employee, client or contractor, which creates or varies a contract (for example changes to rates, deliverables etc.), it's crucial you draft the agreement yourself. <br>
+Any time you come to some verbal arrangement with an employee, client or contractor, which creates or varies a contract (for example changes to rates, deliverables etc.​), it's crucial you draft the agreement yourself. <br>
  
 ![ Can you really trust the other side to draft the agreement correctly?](SuccessfulProjects_DraftAgreementYourself.jpg) 
 

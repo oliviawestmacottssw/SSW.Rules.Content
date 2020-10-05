@@ -11,13 +11,13 @@ authors:
 
 ---
 
-A “Too<br>slow” is not enough info.
- Request<br>an image of the “Resource Monitor”
+A “Too<br>slow” is not enough info.​​​
+   ​Request<br>an image of the “Resource Monitor”
 Then<br>after you decide there is justification:
 
 •           Do a typical action – take a new<br>image or baseline.
 
-•           give the additional resources e.g. Ram<br>and processors….
+•           give the ​​additional resources e.g. Ram<br>and processors….
 
 •           Do the typical action again – take<br>another image of the “Resource Monitor”
 

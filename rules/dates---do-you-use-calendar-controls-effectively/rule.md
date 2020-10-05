@@ -14,7 +14,7 @@ In Outlook, the Calendar control has a number of important features:
 - The current day is highlighted with a box
 
  
-
+​
 
 Users are familiar with the Outlook calendar control. When the calendar control                      is used it should incorporate all of these features of the Outlook calendar                      control.
 

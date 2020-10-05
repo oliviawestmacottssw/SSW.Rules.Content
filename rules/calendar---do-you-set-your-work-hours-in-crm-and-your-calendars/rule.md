@@ -11,7 +11,7 @@ authors:
 
 ---
 
-You should always set your working hours in your outlook calendar so others knows when you are working, this will help us to do resource scheduling.  This is especially important for people who are not working as full time, e.g. part-time, contractors etc.
+​​You should always set your working hours in your outlook calendar so others knows when you are working, this will help us to do resource scheduling.  This is especially important for people who are not working as full time, e.g. part-time, contractors etc.
  
 You can find this setting in File | Options | Calendar Options, it looks like below:
 
@@ -19,6 +19,6 @@ You can find this setting in File | Options | Calendar Options, it looks like be
 
 Once you set this up, you will be able to see the grey area in "Scheduling assistant" so you know what's the best time to book that person.
 
-![ Working hours will be shown in Scheduling Assistant](SchedulingAssistant.jpg)
+![ Working hours will be shown in Scheduling Assistant      ​](SchedulingAssistant.jpg)
 
-![ In CRM, go to your User Profile | click the arrow to the right of your name in the breadcrumb | select work hours](CRM work hours.jpg)
+![ In CRM, go to your User Profile | click the arrow to the right of your name in the breadcrumb | select work hours​](CRM work hours.jpg)

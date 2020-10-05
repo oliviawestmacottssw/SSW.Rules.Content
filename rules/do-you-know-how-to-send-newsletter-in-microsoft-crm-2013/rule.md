@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Email newsletters can be sent and responses can be tracked using Microsoft Dynamic CRM 2013:
+​​​Email newsletters can be sent and responses can be tracked using Microsoft Dynamic CRM 2013:
  
 There is more than one way to distribute a newsletter through CRM, such as through Campaigns and Quick Campaigns. The way detailed below is the simplest method, using Quick Campaigns.
 
@@ -30,7 +30,7 @@ Subsequent times - Use the **System View**, so everyone is using the same list.
 
 ![ The result contacts that will get newsletter: these contacts allow us to "Send Marketing Material" and have a New Zealand email address or living country is New Zealand](crm05 - contacts list.png)
 
-2. First time only, save this as a System View. You will need a SysAdmin for this.
+2. ​First time only, save this as a System View. You will need a SysAdmin for this.
 3. Create the newsletter in Microsoft CRM 2013 using a <br>            **Quick Campaign**
 ![ Select "For All Records on All Pages" to create a Quick Campaign from the current contact list. This will bring up a Quick Campaign Wizard](crm06 - create quick campaign.png)
 
@@ -42,11 +42,11 @@ Subsequent times - Use the **System View**, so everyone is using the same list.
 ![ Fill in newsletter content.    Attention: SSW Employees](crm09 - add content.png)
 
 You need to follow the instructions in SSW Standards Internal for preparing the newsletter. It's a manual checklist so you don't make any mistakes.
-    Use your preferred browser to view the content of the newsletter, select all (or use "Ctrl" + "A") and then copy and paste it in the Quick Campaign text area.
+​    Use your preferred browser to view the content of the newsletter, select all (or use "Ctrl" + "A") and then copy and paste it in the Quick Campaign text area.
 
 ![ Highlight the keyword and click the Unsubscribe button to make a link for subscribers to unsubscribe themselves.4. Click <br>            Next to create all email activities in Microsoft CRM 2013.](crm10 - unsubscribe.png)
 
 5. Now you have to wait while the emails send out:
     - **Bad Example - Microsoft CRM Outlook** for outgoing email, then you need to open your Microsoft Outlook, so the email activities can be promoted to Outlook and sent out. This method is slow because of the synchronization process between CRM and Microsoft Outlook and you need to leave outlook open during the entire process.
-    - **Bad Example - Email router** for outgoing email, then those email activities will be sent out automatically by Email router. This method is our preferred method of sending the newsletter, CRM email router can be configured to send out newsletters immediately and the user doesn't have to open Outlook while the emails are being processed. As per Crm tip of the day (https://crmtipoftheday.com/979/start-planning-farewell-party-for-email-router/) the email router is now deprecated
-    - **Good Example - Server side sync ** for outgoing email, then those email activities will be sent out automatically by server side sync. This method is our preferred method of sending the newsletter, CRM Server side sync can be configured to send out newsletters immediately and the user doesn't have to open Outlook while the emails are being processed.
+    - **Bad Example - Email router** for outgoing email, then those email activities will be sent out automatically by Email router. This method is our preferred method of sending the newsletter, CRM email router can be configured to send out newsletters immediately and the user doesn't have to open Outlook while the emails are being processed. ​As per Crm tip of the day (https://crmtipoftheday.com/979/start-planning-farewell-party-for-email-router/) the email router is now deprecated
+    - ​**Good Example - Server side sync ** for outgoing email, then those email activities will be sent out automatically by server side sync. This method is our preferred method of sending the newsletter, CRM Server side sync can be configured to send out newsletters immediately and the user doesn't have to open Outlook while the emails are being processed.

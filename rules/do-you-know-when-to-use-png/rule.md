@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-[PNG](http&#58;//www.libpng.org/pub/png/) is an alternative to JPG, heavily endorsed by some circles, mainly because of its open source and non-commercial nature.
+​[PNG](http&#58;//www.libpng.org/pub/png/) is an alternative to JPG, heavily endorsed by some circles, mainly because of its open source and non-commercial nature.
 
 PNG boasts:
 
@@ -16,4 +16,4 @@ PNG boasts:
 - Multiple CRCs so that file integrity can be checked without viewing
 
 
-However, it has rather poor file compression and should be used sparingly.
+However, it has rather poor file compression and should be used sparingly.​

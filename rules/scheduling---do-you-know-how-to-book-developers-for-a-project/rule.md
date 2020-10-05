@@ -9,15 +9,15 @@ authors:
 
 ---
 
-It is the responsibility of Account Managers to book developers for known client work, however anyone can book a developer, including the developer themselves.
+​​​It is the responsibility of Account Managers​ to book developers for known client work, however anyone can book a developer, including the developer themselves.
 
-To book a developer:
+​To book a developer:
 
-**Prerequisite: **[Install the 2 CRM Addins](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10).
+**Prerequisite: **[Install the 2 CRM Addins​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10).​
 
 ![ Using the Service Calendar, you can see who is and is not available at a given time](ServiceCalendar2013.jpg)
 
-There are a few different ways of booking developers for project work, either via Outlook or the browser.
+There are a few different ways of booking developers for project work, either via Outlook or the browser.​
  
 ### Option 1: Use the Outlook Calendar and "Set Regarding" (recommended)
 
@@ -25,7 +25,7 @@ This is generally the easiest way for developers to book themselves in as they d
 
 1. Create a new Outlook appointment and give it a relevant subject
 2. Select required resources if there are other people working with you or if you're booking for someone else
-    1. Note: if you're booking for someone else, just have them in the To box of the appointment. If you're booking yourself AND someone else, have both of you in the To box.
+    1. ​​​Note: if you're booking for someone else, just have them in the To box of the appointment​. If you're booking yourself AND someone else, have both of you in the To box.
 3. Set the time and location for your appointment
 4. Set the recurrence if it’s more than 1 day of work
 5. Click "Set Regarding" on the ribbon and select the company that you want to book the developers to work on (this is the step that syncs it with CRM)
@@ -33,7 +33,7 @@ This is generally the easiest way for developers to book themselves in as they d
  
 ![ A complete appointment booking Mark to work for Westlink for 5 days](appointment-booking.jpg) 
 
-### Option 2: CRM Activity Appointments 
+### ​Option 2: CRM Activity Appointments 
 
 This is a backup option for anyone who doesn't have access to Outlook with the CRM addin.
 
@@ -63,26 +63,26 @@ Back in CRM4, the only way to make recurring appointments was to use Service act
 
 ### (for options 1 and 2) Adding Tentative Bookings
 
-Sometimes you may want to reserve a consultant for an appointment but are not able to confirm with the client immediately. In this case, create a Tentative Booking which reserves the consultant for the period of the booking without assigning them to the client account. The purpose of a Tentative Booking is to reserve a consultant and trigger a conversation between Account Managers if the consultant is required on confirmed client work over the same period.
+Sometimes you may want to reserve a consultant for an appointment but are not able to confirm with the client immediately. In this case, create a Tentative Booking which reserves the consultant for the period of the booking without assigning t​​h​em to the client account. The purpose of a Tentative Booking is to reserve a consultant and trigger a conversation between Account Managers if the consultant is required on confirmed client work over the same period.
 
 To create a Tentative Booking:
 
-1. Follow the same steps above to create the Appointment
+1. Follow the same steps above to create the Appointment​
 2. Instead of choosing a client account for 'Set Regarding', choose the company (E.g. "ssw.pencilledin").
 
 
-**Tip:** Create a "Booked In Days" Report and make the Tentative Bookings display obviously (E.g. A grey color), so Account Managers can easily see it if they need to use that time.
+**Tip:** Create a "Booked In Days" Report and make the Tentative Bookings display obviously (E.g. A grey color), so Account Managers can easily see it​​ if they need to use that time.​
 
-### (for options 1 and 2) Adding Internal Bookings
+### (for options 1 and 2) Adding Internal Bookings​​
 
 
 If a developer is needed for non-billable work (E.g. Urgent internal work), or travelling to teach public training events, their time should be blocked out so it shows as unavailable for client work.
 
 To book someone for internal work:
 
-1. Follow the same steps as above to create the Appointment
+1. ​​​​Follow the same steps as above to create the Appointment
 2. Instead of choosing a client account for "Set Regarding", choose your own company (E.g. "SSW").
 
 
 
-![ Internally Booked days show as black and Pencilled In days show as grey](2020-03-20_10-49-19.png)
+![ Internally Booked days show as black and Pencilled In days show as grey​​​​](2020-03-20_10-49-19.png)

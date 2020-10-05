@@ -24,12 +24,14 @@ An easy alternative to this is to use Office365 in OneDrive to create a survey i
 
 
 
-[[badExample]]
-| ![ Bad example – a simple “X or Y?” question thread generated dozens of responses that clogged up the inboxes of the recipients ](Bad-Example-too-many-emails.png)
+![](Bad-Example-too-many-emails.png)
+
+​​Figure: Bad example – a simple “X or Y?” question thread generated dozens of responses that clogged up the inboxes of the recipients 
 
 
+![](Good-Example-Invite-to-Survey.png)
 
-[[goodExample]]
-| ![ Good example – send an email with a link to a survey instead of asking for replies ](Good-Example-Invite-to-Survey.png)
+​Figure: Good example – send an email with a link to a survey instead of asking for replies ​
+​For a quick introduction to how to use Office365 from OneDrive, watch this video:  ​
 
-For a quick introduction to how to use Office365 from OneDrive, watch this video:
+`youtube: https://www.youtube.com/embed/1D47IIIY87M`

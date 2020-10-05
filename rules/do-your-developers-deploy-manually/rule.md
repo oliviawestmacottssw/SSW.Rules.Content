@@ -11,7 +11,7 @@ authors:
 
 ---
 
-We strongly believe that this process should all be automated and painless. Even the receptionist should be able to make a grammatical change on the website and be able to deploy it.
+​We strongly believe that this process should all be automated and painless. Even the receptionist should be able to make a grammatical change on the website and be able to deploy it.
 We use TFS gated check-ins to do the deployment for us. When a developer checks there changes into TFS they are prompted with a gated check-in screen.
 
 ![ "Build" screen](deployment1.jpg)
@@ -30,11 +30,12 @@ If the developer does not have Build notifications on there local computer then 
 ![ Right click on your last successful build and choose "Reconcile Workspace"](deployment3.jpg)
 
 
-The [www.ssw.com.au](http://www.ssw.com.au/) website also queues a build process that deploys the changes to our Australian staging server. A developer can then use [Octopus deploy](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=580a6735-c102-48c2-bf22-91ff3cc9ead5) to push it live to our Australian and US production sites.
+The [www.ssw.com.au](http://www.ssw.com.au/) website also queues a build process that deploys the changes to our Australian staging server. A developer can then use [Octopus deploy​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=580a6735-c102-48c2-bf22-91ff3cc9ead5) to push it live to our Australian and US production sites.
 
 The process that syncs to our external servers is very quick. Only the changes in TFS since the last deployment are sent. This typically takes under 10 seconds to complete.
 
-If the build fails then no changes would get pushed to staging and developers should [swarm to fix the build](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=aea8bbdc-6efd-413a-b988-1c348dd77eb4).
+​If the build fails then no changes would get pushed to staging and developers should [swarm to fix the build](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=aea8bbdc-6efd-413a-b988-1c348dd77eb4).
 
 
-![ See the build failing and who requested it](2017-04-11_10-13-08.png)
+![](2017-04-11_10-13-08.png)
+​​Figure: See the build failing and who requested it

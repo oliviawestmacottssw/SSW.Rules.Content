@@ -22,6 +22,6 @@ Of course, don't use a mega dropdown menu just because you can. Turning your nor
 
  
 [[goodExample]]
-| ![ Good Example - Links are grouped into distinct category   ](megamenu.jpg) 
+| ![ Good Example - Links are grouped into distinct category   ​](megamenu.jpg) 
 
 ![ Bear in mind that mobile menus are limited](mobilemenu.jpg)

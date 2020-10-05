@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Memes are one of the greatest symbols of social media – fun fact: some people use social networks mainly for that reason. They’re funny and they usually carry personality, either to a person or a brand. They’re easy to engage with, but sometimes besides bringing some popularity to your account, they can also be risky for your business depending on its content. They can bring great results to your business’ social media, but you must plan it accordingly to fit your audience’s interest.
+​Memes are one of the greatest symbols of social media – fun fact: some people use social networks mainly for that reason. They’re funny and they usually carry personality, either to a person or a brand. They’re easy to engage with, but sometimes besides bringing some popularity to your account, they can also be risky for your business depending on its content. They can bring great results to your business’ social media, but you must plan it accordingly to fit your audience’s interest.​
  
 ### Why do memes work?
 
@@ -27,7 +27,7 @@ Here are some points that make memes great for brands & businesses:
 
 While some companies have managed to successfully use memes to express their brands in a different way, not all businesses that have tried to implement the same strategy had positive results.
 
-### What can go wrong and how to avoid it?
+### What can go wrong and how to avoid it?​​
 
 
 A New York-based drugstore chain Duane Read     [got involved in a legal battle over licensing rights with Katherine Heigl](https://edition.cnn.com/2014/04/10/showbiz/katherine-heigl-duane-reade-lawsuit/) when they decided to share a photo of her shopping at their store across their social media to promote their business.
@@ -51,5 +51,5 @@ Be aware that some businesses and industries are too serious to create and post 
 
 Correlating it to     [DevOps Culture](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops-culture), as a marketer, you should have a growth mindset on this. After testing a meme and posting it, you’ll learn from your experiments and gather insights on what’s the best way to implement this to your social media strategy.
 
-![](doritos.jpg)Figure - Bad Example: Doritos usually creates their own memes blending humour with their brand, but in this one, the comments were clearly showing it was a bad idea 
+![](doritos.jpg)Figure - Bad Example: Doritos usually creates their own memes blending humour with their brand, but in this one, the comments were clearly showing it was a bad idea  ​ 
 ![](nswpolice.jpg)Figure - Good Example: By using a light-hearted tone, the <br>      [NSW Police](https://www.facebook.com/nswpoliceforce/) manages to get across their point on controversial topics

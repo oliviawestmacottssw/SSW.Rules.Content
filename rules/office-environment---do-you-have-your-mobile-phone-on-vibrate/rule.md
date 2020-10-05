@@ -9,7 +9,7 @@ authors:
 
 ---
 
-If you were talking to someone, when their phone rang; would you want them to answer it? If they were using a loud ringtone, the only way to continue your conversation would be to wait until they had finished or, at least, they would have to get their phone out to hang up. Why should the person who called get preferential treatment and be able to jump the queue? 
+​​If you were talking to someone, when their phone rang; would you want them to answer it? If they were using a loud ringtone, the only way to continue your conversation would be to wait until they had finished or, at least, they would have to get their phone out to hang up. Why should the person who called get preferential treatment and be able to jump the queue? 
 
 
 
@@ -23,7 +23,7 @@ If you have a wearable device like an Apple Watch/ Fitbit/ Microsoft Band that c
 
 ![ With a Fitbit, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call  ](fitbit-band-incoming-call.jpg) 
 
-![ With a Microsoft Band, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](microsoft-band-incoming-call.jpg) 
+![ With a Microsoft Band, you can keep your phone on vibrate​ 100% of the time and never have to worry about missing a call](microsoft-band-incoming-call.jpg) 
 
 This has the following advantages:
 
@@ -33,8 +33,10 @@ This has the following advantages:
 
 
 
+
+`youtube: https://www.youtube.com/embed/vwBzLLbE738?rel=0`
  
 
 
 
-Figure: Should the person you’re meeting get priority...or the person ringing in?
+Figure: Should the person you’re meeting get priority...or the person ringing in?​

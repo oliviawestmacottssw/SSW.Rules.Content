@@ -14,7 +14,7 @@ Scripts are an important component in the operation of any database. This is why
 - Don't encrypt your database objects if you can avoid it - otherwise, they can't be scripted.
 
 
-Use:
+​Use:
 
-    - Enterprise Manager Generate Scripts Wizard OR
-    - SQL DMO object model to script out the objects OR
+    - ​Enterprise Manager Generate Scripts Wizard OR​
+    - ​SQL DMO object model to script out the objects OR​

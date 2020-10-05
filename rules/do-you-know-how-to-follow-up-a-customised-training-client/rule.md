@@ -26,4 +26,4 @@ A few days after the training occurred, call the client and ask the following qu
 6. Do you need help with anything else?
 
 
-After you complete the interview send an “as per our conversation email” to the client and CC the trainer. The email should include the answers to the questions above and any recommendations for the trainer.
+After you complete the interview send an “as per our conversation email” to the client and CC the trainer. The email should include the answers to the questions above and any recommendations for the trainer.​

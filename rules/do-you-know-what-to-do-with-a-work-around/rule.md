@@ -22,7 +22,7 @@ If you have to use a workaround you should always comment your code and referenc
 Figure: Always add a URL to the suggestion that you are compensating for
 
 
-### Exercise: Understand commenting
+### ​Exercise: Understand commenting
 
 
 You have just added a grid that auto updates, but you need to disable all the timers when you click the edit button. You have found an article on Code Project (http://www.codeproject.com/Articles/39194/Disable-a-timer-at-every-level-of-your-ASP-NET-con.aspx) and you have added the work around.
@@ -34,3 +34,4 @@ Sub OnPagePreRender(ByVal sender As Object, ByVal e As EventArgs)
  Me.FindControls(Of System.Web.UI.Timer).ForEach(Sub (c) c.Enabled = False)
 End Sub
 Figure: Work around code in the Page Render
+​

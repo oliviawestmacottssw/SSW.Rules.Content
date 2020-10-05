@@ -8,7 +8,7 @@ authors: []
 ---
 
 When a user looks at a test result, they want to be quickly informed. Therefore, you must make it clear weather the test has passed or failed, or is there any warning.
- 
+   ​
 - For a pass, the message should be green in color, and a tick next to the message. 
 ![](../../assets/Success-lg.gif)
 - For a fail, the message should be red in color, and a cross next to the message. 

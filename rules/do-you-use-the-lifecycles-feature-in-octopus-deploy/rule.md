@@ -25,4 +25,4 @@ You should create a new Lifecycle for each project you've configured with Octopu
 In the Process tab of your project definition, there's a panel on the right-hand side that lets you configure the Lifecycle to use. You should also enable Automatic Release Creation. If you have a CI build which publishes a new package to the Octopus NuGet feed as part of your build using OctoPack, and your first Lifecycle phase is automatic, this will result in continuous deployment to your CI environment.
 
 [[goodExample]]
-| ![ Good Example - This combination results in Continuous Deployment to the Staging server when a new package is pushed](Lifecycle_CI.png)
+| ![ Good Example - This combination results in Continuous Deployment to the Staging server when a new package is pushed ​  ](Lifecycle_CI.png)

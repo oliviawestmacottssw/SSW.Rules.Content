@@ -79,4 +79,6 @@ Five enhancements that required a custom report:
 More Information:
 
 - [Custom Reporting in Microsoft Dynamics CRM - Fetch vs. Filtered Views](http://blogs.msdn.com/b/crminthefield/archive/2012/11/27/custom-reporting-in-microsoft-dynamics-crm-fetch-vs-filtered-views.aspx)
-- [Developing Fetch XML Based SSRS Reports](http://social.technet.microsoft.com/wiki/contents/articles/10234.microsoft-dynamics-crm-2011-develop-fetch-xml-based-ssrs-reports-in-visual-studio-2008.aspx)
+- [Developing Fetch XML Based SSRS Reports](http://social.technet.microsoft.com/wiki/contents/articles/10234.microsoft-dynamics-crm-2011-develop-fetch-xml-based-ssrs-reports-in-visual-studio-2008.aspx)​
+
+ ​

@@ -70,7 +70,9 @@ index:
 - do-you-know-which-emojis-to-use-in-scrum
 
 ---
-SSW's Rules to Better [Scrum](http://www.ssw.com.au/ssw/Consulting/Scrum.aspx) allows businesses to address their most important challenges first and respond quickly to change. Our rules advocate software consultants working on-site, or on the phone, so long as there is close consultation with business users, with the goal to become integrated members of the client's team.
+​​​​​​​​​​​
+
+SSW's Rules to Better [Scrum​](http://www.ssw.com.au/ssw/Consulting/Scrum.aspx)​ allows businesses to address their most important challenges first and respond quickly to change. Our rules advocate software consultants working on-site, or on the phone, so long as there is close consultation with business users, with the goal to become integrated members of the client's team.​​
 
 
 

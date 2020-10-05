@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Complex documentation can waste time. Many user requirements can be best encapsulated in screen mock-ups. Spend more time on mockups compared with time on documentation.
+​​​Complex documentation can waste time. Many user requirements can be best encapsulated in screen mock-ups. Spend more time on mockups compared with time on documentation.​
 
  
 Storyboarding is a technique taken from movie production.

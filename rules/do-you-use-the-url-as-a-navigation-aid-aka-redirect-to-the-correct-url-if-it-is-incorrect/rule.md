@@ -11,6 +11,7 @@ authors:
 
 ---
 
+`youtube: http://www.youtube.com/embed/1j3m4A9Tlhc`
 Figure: Watch the URL working as a navigation aid
 MVC gives us great URLs, but you need to help users navigate via the URL.  If the user changes a URL, and the route parameters no longer match, you should correct them with a redirect.
  

@@ -8,7 +8,7 @@ authors: []
 ---
 
 [[goodExample]]
-| ![ Good Example - Windows message boxes plays a sound... which cannot be captured in screenshot form. ](../../assets/Win7SoundError.png)
+| ![ Good Example - Windows message boxes plays a sound... which cannot be captured in screenshot form.   ​](../../assets/Win7SoundError.png)
 
 A message box automatically provides this functionality so there is no need to manually put a beep right before a message box pops up.
 

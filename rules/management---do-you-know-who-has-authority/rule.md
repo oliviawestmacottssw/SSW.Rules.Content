@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Ok, once a project gets going, you can end up dealing with many people on the client side. From the Boss to the Business Decision Maker (we call them the "Product Owner") through to Mary the receptionist (aka "users"), everyone has something to say about the software as it is being developed. However, when you are working on a Time & Materials basis in a rapid development environment with continually changing specs, you have to be certain that the work you are doing is authorised by the person who signs the cheques.
+​Ok, once a project gets going, you can end up dealing with many people on the client side. From the Boss to the Business Decision Maker (we call them the "Product Owner") through to Mary the receptionist (aka "users"), everyone has something to say about the software as it is being developed. However, when you are working on a Time & Materials basis in a rapid development environment with continually changing specs, you have to be certain that the work you are doing is authorised by the person who signs the cheques.
  
 **To:** Angelo;
 **Cc:** John, Sophie
@@ -22,7 +22,7 @@ Thanks,
 John
 [www.ssw.com.au](http&#58;//www.ssw.com.au/)
 
-Figure: Sample Change Request Confirmation email  So, say Alan from Accounts would like the Username and Password authentication to have a "remember me" checkbox for the Accounts module. This sounds reasonable, but it doesn't mean that you should charge right in and start coding.
+​Figure: Sample Change Request Confirmation email  So, say Alan from Accounts would like the Username and Password authentication to have a "remember me" checkbox for the Accounts module. This sounds reasonable, but it doesn't mean that you should charge right in and start coding.
 As an example, this is how we govern this process:
 
 - At the beginning of the project one of the client staff is assigned as Product Owner. This person has full authority from the Business Decision Maker of the client as to what work is IN or OUT. Every new item of work must be authorized by this Product Owner.

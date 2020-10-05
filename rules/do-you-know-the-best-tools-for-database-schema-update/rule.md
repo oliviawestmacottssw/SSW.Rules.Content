@@ -17,7 +17,7 @@ authors:
 
 ---
 
-It is important when deploying your database for the database to be updated automatically.
+It is important when deploying your database for the database to be updated automatically.​​​
 
 There are a number of tools that can be used to update the database as the application can be updated.
 
@@ -29,7 +29,7 @@ There are a number of tools that can be used to update the database as the appli
 Legacy full framework
 
 - [SQL Deploy](http://sqldeploy.com/)  (This is the suggested tool if you are not using Entity Framework Code First)
-- DBUp + <br>      [SQL verify](https://www.nuget.org/packages/SSW.SqlVerify.Core/)
+- DBUp + <br>      [SQL verify​](https://www.nuget.org/packages/SSW.SqlVerify.Core/)
 
 
 Bad options for updating database schema - No ability to validate that the database hasn't been tampered with
@@ -53,10 +53,10 @@ public partial class GenderToString : DbMigration
  Sql("UPDATE [dbo].[Customers] set Gender = 'F' where GenderTemp=0");
  DropColumn("dbo.Customers", "GenderTemp");
  }
-Good Example - Data motion with EF Migrations
+​Good Example - Data motion with EF Migrations
+​  
+### Related Rule​​
 
-### Related Rule
 
 
-
-- [Do you make sure that the database structure is handled automatically via 3 buttons "Create", "Upgrade" and "Reconcile"?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=422274e3-db29-4950-b4e7-05361b3a37e0)
+- ​[Do you make sure that the database structure is handled automatically via 3 buttons "Create", "Upgrade" and "Reconcile"?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=422274e3-db29-4950-b4e7-05361b3a37e0)

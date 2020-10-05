@@ -11,7 +11,7 @@ authors:
 
 Below are the best practices you should know:
 
-- Ensure time zone and currency are set up correctly!
+- ​​Ensure time zone and currency are set up correctly!
 - Define target location – choose a city, a region or a country according to your demographics
 - Set a budget for each campaign based on needs
 - Connect your account to Google Analytics. It’s important to check your customer activity (which is essential for remarketing actions!)
@@ -24,9 +24,9 @@ Below are the best practices you should know:
 - Focus on click and impressions with CPC bidding
 - Use high-quality optimised landing pages – make sure your website is mobile friendly. Test your URL with this Google tool!
 - Test your ads at least every fortnight, if possible one day a week. Use the tool Ad Preview and Diagnosis Tool and try different keywords and locations, depending on your business.
-- Review the Search Terms Report
+- Review the Search Terms Report​
 
- 
+ ​
 ![ Always check your Ad strength](ad-strength.png)
 
 ### Additional resources

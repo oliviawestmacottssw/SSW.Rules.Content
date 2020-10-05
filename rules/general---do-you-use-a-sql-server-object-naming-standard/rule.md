@@ -9,33 +9,33 @@ authors:
 
 ---
 
-This standard outlines the standard on naming objects within SQL Server. Use these standards when naming any object or if you find an older object that doesn't follow these standards within SSW.
+​​This standard outlines the standard on naming objects within SQL Server. Use these standards when naming any object or if you find an older object that doesn't follow these standards within SSW.
  
-All feedback is welcome. Thanks to all who gave feedback. A special thanks to Andy Baron.
+​​All feedback is welcome. Thanks to all who gave feedback. A special thanks to Andy Baron.​
 
 
 
-| **Object**<br> | **Prefix**<br> | **Example**<br> |
+| ​**​Object**<br> | ​**Prefix**<br> | ​**Example**<br> |
 | --- | --- | --- |
-| Table<br> | --<br> | Clients<br> |
-| Column (PK)<br> | --<br> | Id<br> |
-| Column (FK)<br> | --<br> | ClientId<br> |
-| Temporary Table<br> | \_zt<br> | \_ztClients<br> |
-| System Table<br> | \_zs<br> | \_zsDataVersion<br>\_zsVersionLatest<br> |
-| View<br> | vw, gy\_<br> | vwClientsWithNoPhoneW<br>gy\_ClientsWithNoPhoneW<br> |
-| Stored Procedure<br> | proc, gp\_<br> | procSelectClientsClientID<br>gp\_SelectClientsClientID<br> |
-| Trigger<br> | trg<br> | trgOrderIU<br> |
-| Default\*<br> | dft \*<br> | dftToday \*<br> |
-| Rule<br> | rul<br> | rulCheckZIP<br> |
-| User-Defined Datatype<br> | udt<br> | udtPhone<br> |
-| User-Defined Functions<br> | udf<br> | udfDueDates<br> |
+| ​Table<br> | --​<br> | ​​Clients<br> |
+| ​Column (PK)<br> | ​--<br> | ​Id<br> |
+| ​Column (FK)<br> | ​--<br> | ​ClientId<br> |
+| ​Temporary Table<br> | ​\_zt<br> | ​\_ztClients<br> |
+| ​System Table<br> | ​\_zs<br> | ​\_zsDataVersion<br>\_zsVersionLatest<br> |
+| ​View<br> | ​vw, gy\_<br> | vwClientsWithNoPhoneW<br>gy\_ClientsWithNoPhoneW​<br> |
+| ​Stored Procedure<br> | ​proc, gp\_<br> | ​procSelectClientsClientID<br>gp\_SelectClientsClientID<br> |
+| ​Trigger<br> | ​trg<br> | ​trgOrderIU<br> |
+| ​Default\*<br> | ​dft \*<br> | ​dftToday \*<br> |
+| ​Rule<br> | ​rul<br> | ​rulCheckZIP<br> |
+| ​User-Defined Datatype<br> | ​udt<br> | ​udtPhone<br> |
+| ​User-Defined Functions<br> | ​udf<br> | ​udfDueDates<br> |
 
 
 \* We never use defaults as objects, this is really an old thing that is just there for backwards compatibility. Much better to use a default constraint.
 
-
+​​​​
 
 Other Links
 
-[SQL Server Coding Standards - Part 1](https&#58;//www.ssw.com.au/ssw/Redirect/SQLServer/SQLServerCentralcodingstandardspart1.htm)
+[SQL Server Coding Standards - Part 1​](https&#58;//www.ssw.com.au/ssw/Redirect/SQLServer/SQLServerCentralcodingstandardspart1.htm)
 By Steve Jones on SQL Server Central

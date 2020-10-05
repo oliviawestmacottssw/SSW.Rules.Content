@@ -14,4 +14,4 @@ authors:
 Go to [CSS Validation Service](http&#58;//jigsaw.w3.org/css-validator/):
 
 1. Enter the URL or ppload file or by Direct Input to check
-2. Review the results and make changes to fix errors
+2. Review the results and make changes to fix ​errors

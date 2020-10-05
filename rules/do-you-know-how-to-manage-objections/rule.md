@@ -11,7 +11,7 @@ authors:
 
 ---
 
-When attempting to sell a solution to a potential client, you will invariably come                     up against some objections. It is essential that you are prepared to handle these                     objections so the client is confident in your skills and has no reservations about                     choosing you over someone else. The main reason clients raise objections is because                     they have concerns about your experience "fit" with their needs.
+​When attempting to sell a solution to a potential client, you will invariably come                     up against some objections. It is essential that you are prepared to handle these                     objections so the client is confident in your skills and has no reservations about                     choosing you over someone else. The main reason clients raise objections is because                     they have concerns about your experience "fit" with their needs.
  
 We recommend you use this objection handling model.
 
@@ -31,4 +31,4 @@ A typical objection we get is - "Why do you                     put 2 developers
     - "You get more expertise - One guy is more focussed on UI, the other guy is stronger<br>                            with databases"
     - "You get better quality code because the guys are able to "put their heads together"<br>                            to solve a problem - this saves maintenance costs down the track"
     - "We can continue working if 1 guy gets sick"
-- If they are still unsure, you can offer a small discount off the hourly rate, or<br>                        offer some free support - it's all about managing risk.
+- If they are still unsure, you can offer a small discount off the hourly rate, or<br>                        offer some free support - it's all about managing risk.​

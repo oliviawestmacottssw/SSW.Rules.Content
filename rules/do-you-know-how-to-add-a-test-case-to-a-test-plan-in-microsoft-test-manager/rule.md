@@ -11,7 +11,7 @@ authors:
 
 ---
 
-You organize your Test Cases by adding them to a Test Plan (also called a Test Suite).
+You organize your Test Cases by adding them to a Test Plan (also called a Test S​uite).
  
 We have one Test Plan per sprint.
 

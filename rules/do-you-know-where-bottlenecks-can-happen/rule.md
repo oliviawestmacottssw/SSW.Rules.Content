@@ -58,10 +58,10 @@ The issues can be in:
 
 ### Connection between Web and End users
 
-- Geographically too far (e.g. US servers, AU users)
+- Geographic​ally too far (e.g. US servers, AU users)
 
 
 ### Infrastructure
 
 - Misconfiguration
-- Resource contention
+- ​Resource contention

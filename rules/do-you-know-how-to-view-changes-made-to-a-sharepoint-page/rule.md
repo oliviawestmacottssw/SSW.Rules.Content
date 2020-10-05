@@ -17,8 +17,7 @@ Here is how you see the     **history** of the page:
 
 ![ Click on Page | Page History](Screen Shot 2018-09-28 at 3.34.38 PM-min.png)
 
-![ See the changes made, versions and the person who changed it](sharepoint-page-history.png)
-
+![](sharepoint-page-history.png)​Figure: See the changes made, versions and the​ person who changed it
 
 Here is how you see the **history** on Office 365 - SharePoint Online:
 
@@ -30,8 +29,9 @@ Here is how you see the **history** on Office 365 - SharePoint Online:
  
 Watch the video which explains how to view the version history for a page in SharePoint 2013 (Same as in SharePoint 2016). This allows you to see changes that were made to the page, as long as versioning is enabled in advance.
 
-
+​​
+`youtube: https://www.youtube.com/embed/ump_dgj6cq4`
 
 ### Related rules
 
-If you want to see how this is done in TFS, read [Do you know the benefits of using source control?](https://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl)
+If you want to see how this is done in TFS, read [Do you know the benefits of using source control?](https://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl)​

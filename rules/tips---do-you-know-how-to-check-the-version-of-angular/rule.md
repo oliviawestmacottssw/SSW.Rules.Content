@@ -9,4 +9,7 @@ authors:
 
 ---
 
-You can check the version of Angular by using the "Inspect" tool on your browser.
+​​You can check the version of Angular by using the "Inspect" tool on your browser.​
+ 
+
+`youtube: https://www.youtube.com/embed/jVpV4lwie50`

@@ -14,4 +14,4 @@ For database applications, it is best to keep application-level values (apart fr
  
 1. It can be updated easily with normal SQL e.g. Rolling over the current setting to a new value.
 2. It can be used in joins and in other queries easily without the need to pass in parameters.
-3. It can be used to update settings and affect the other applications based on the same database.
+3. It can be used to update settings and affect the other applications based on the same database.​​

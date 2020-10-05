@@ -9,11 +9,11 @@ authors:
 
 ---
 
-When using MediatR within an ASP.NET Controller it is typical to see actions such as the following:
+​​When using MediatR within an ASP.NET Controller it is typical to see actions such as the following:
  
 ![ A Typical ASP.NET Controller using Mediator](improve-mediatr-typical.png)
 
-In the above example, the API contains a Create action that includes a CreateProductCommand parameter. This command is a request to create a new product, and the request is associated with an underlying request handler. The request is sent using MediatR with the method call \_mediator.Send(command). MediatR will match the request to the associated request handler and return the response (if any). In a typical implementation, the request and request handler would be contained within separate files:
+In the above example, the API contains a Create action that includes a CreateProductCommand parameter. This command is a request to create a new product, and the request is associated with an underlying request handler. The request is sent using MediatR with the method call \_mediator.Send(command). ​​MediatR will match the request to the associated request handler and return the response (if any). In a typical implementation, the request and request handler would be contained within separate files:
 
 [[badExample]]
 | ![ Bad Example - The request is contained within CreateProductCommand.cs](improve-mediatr-bad.png)
@@ -28,3 +28,4 @@ In the above implementation, the request handler is cleanly separated from the r
 | ![ Good Example - Nesting the Request Handler within the Request Improves Discoverability of Command and Associated Command Logic](improve-mediatr-good.png)
 
 In the above example the request handler is nested within the request, there by improving the discoverability of the command and associated command logic.
+ ​

@@ -9,7 +9,8 @@ authors:
 
 ---
 
-Does your Account Manager get confused when you try to claim all of your expenses at once?
+​
+​​Does your Account Manager get confused when you try to claim all of your expenses at once?
 
 
 
@@ -17,14 +18,14 @@ Expensify lets you separate your expenses into different folders to avoid confus
 
 
  
-![](Expensify6.PNG)Bad example: Two unrelated expenses in the same folder, this can be confusing to Accounts Staff.
+![](Expensify6.PNG)Bad example: Two unrelated expenses in the same folder, this can be confusing to Accounts Staff.​​
 
 
 Expensify lets you create new reports so that you can separate your receipts and reports.
 
-![](Expensify9.PNG)Good example: Expenses separated into different folders - easier to claim and track what your receipts were for!
+![](Expensify9.PNG)​Good example: Expenses separated into different folders - easier to claim and track what your receipts were for!
 
-### To Create a new folder on an iPhone:
+### To Create a new folder on an iPhone​:
 
 
 1. Open Expensify app on your phone
@@ -36,12 +37,12 @@ Expensify lets you create new reports so that you can separate your receipts and
 
 ![](Expensify2.PNG)
 
-4. Click in the area of text that says "New Report" to re-name the report.
+4. ​Click in the area of text that says "New Report" to re-name the report.
 
 
 ![](Expensify3.PNG)
 
-5. Re-name your report and then save. You can also change the policy if required. To automatically email your receipts to New, select the SSW policy.
+​5. Re-name your report and then save. You can also change the policy if required. To automatically email your receipts to New, select the SSW policy.
 
 
 
@@ -52,16 +53,16 @@ Expensify lets you create new reports so that you can separate your receipts and
 
 ![](Expensify5.PNG)
 
-### To Edit a folder on the iPhone
+### ​To Edit a folder on the iPhone
 
 
-If you put a receipt in the wrong folder, you can edit its location, or upload a receipt directly into the new folder.
+​If you put a receipt in the wrong folder, you can edit its location, or upload a receipt directly into the new folder.
 
 
 
-1. On your Dashboard select Expenses | Select correct expense to edit | Report
+​1. On your Dashboard select Expenses | Select correct expense to edit | Report
 
 ![](Expensify8.PNG)
-2. Select the folder you want to move it to and save.
+2. Select the folder you want to move it to and save.​
 
 ![](Expensify7.PNG)

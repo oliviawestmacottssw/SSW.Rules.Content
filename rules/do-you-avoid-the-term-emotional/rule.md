@@ -9,9 +9,15 @@ authors:
 
 ---
 
-Bad example: to sound like you are emotional about this
+Bad example: to sound like you are emotional about this​
 
-Good example: to sound like you are passionate about this
+Good example: to sound like you are passionate about this​​​​
 
  
 Taken from the video "Chris Voss: "Never Split the Difference" | Talks at Google" at 23:50.
+
+
+`youtube: https://www.youtube.com/embed/guZa7mQV1l0`
+ 
+
+​

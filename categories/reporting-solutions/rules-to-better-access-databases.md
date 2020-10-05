@@ -23,9 +23,9 @@ index:
 - do-you-avoid-parameter-queries-with-exists-keyword-and-comparison-operators--or-upsizing-problem
 
 ---
-Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
+​Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
 
-If you still need help, visit [Enterprise Reporting and BI](http://www.ssw.com.au/ssw/Consulting/EnterpriseReporting.aspx) and book in a consultant.
+If you still need help, visit [Enterprise Reporting and BI​](http://www.ssw.com.au/ssw/Consulting/EnterpriseReporting.aspx) and book i​n a consultant.​​
 
 [
 ![](../../assets/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx)

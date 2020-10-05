@@ -9,13 +9,13 @@ authors:
 
 ---
 
-JavaScript alerts are evil. Not only are they ugly, they look unprofessional...
+​​​​​JavaScript alerts are evil. Not only are they ugly, they look unprofessional...
  
 
 
 
 ![](JS_Alert.png)
-Bad example: A JavaScript alert showing a message to the user
+B​​​ad example: A JavaScript alert showing a message to the user
 
 
 

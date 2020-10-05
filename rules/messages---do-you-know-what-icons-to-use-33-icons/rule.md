@@ -10,7 +10,7 @@ authors: []
 #### Icon
 
 Including an icon is important because not only does it give the user a visual indication of the type of message, but without it only the Default beep sound is used. The icon should reflect the type of information being presented:
- 
+   ​
 
 | Icon | Name | When to use |
 | --- | --- | --- |

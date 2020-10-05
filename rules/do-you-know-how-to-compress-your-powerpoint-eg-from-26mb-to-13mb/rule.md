@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-Unfortunately, when you “Send As Email” it doesn’t compress the file; this is how to compress a PowerPoint for emailing.
+​Unfortunately, when you “Send As Email” it doesn’t compress the file; this is how to compress a PowerPoint for emailing.
  
 
 ### Remove the video from the master slide.
@@ -17,7 +17,7 @@ This has been done in the 3.8 release of the template, but for old templates you
 
 ![ Go to the slide master](01.png)
 
-![ Find the slide layout "Presentation with Title and Video" and delete it. ](02.png)
+![ Find the slide layout "Presentation with Title and Video" and delete it. ​](02.png)
 
  
 
@@ -28,8 +28,7 @@ This has been done in the 3.8 release of the template, but for old templates you
 
 ![ Select Options](06.png)
 
-![ Apply settings. You may compress this further down to 96ppi if you must.](07.png)
-
+![](07.png)​<br>​Figure: Apply settings. You may compress this further down to 96ppi if you must.​ <br>   
 
 
 
@@ -51,16 +50,17 @@ This has been done in the 3.8 release of the template, but for old templates you
 
 
 ### Save as "YourFileName\_compressed.pptx."
- Do not override your original. You should always keep a high-res master of any media document.
+ ​Do not override your original. You should always keep a high-res master of any media document.
 
 
-If you find your files are still rather big after compression, you can export the PowerPoint to determine which particular slide is taking up all that space.        http://www.addictivetips.com/windows-tips/find-which-slide-in-your-powerpoint-presentation-is-the-largest-in-size/
+If you find your files are still rather big after compression, you can export the PowerPoint to determine which particular slide is taking up all that space.        [http://www.addictivetips.com/windows-tips/find-which-slide-in-your-powerpoint-presentation-is-the-largest-in-size/​](http://www.addictivetips.com/windows-tips/find-which-slide-in-your-powerpoint-presentation-is-the-largest-in-size/)
 
 
 ### The result
 
 
-Your own mileage may vary.
+​Your own mileage may vary.
 
 ![ We've compressed this particular file down by 50%](10.png)
 !
+​

@@ -73,7 +73,7 @@ body.stage
                     dir:rtl;
                 <%} %>
                 border-top:1px solid #6893cf;
-
+​​
             /* background-color: #d6e8ff; */
 
             background-color: #ffff00;

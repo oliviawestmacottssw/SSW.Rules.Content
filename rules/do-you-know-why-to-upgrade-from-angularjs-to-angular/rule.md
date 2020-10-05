@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Do you know why it is a good idea to upgrade your AngularJS application to the latest version of Angular (Angular 7, was Angular 6, was Angular 5, was Angular 4, was Angular 2+, and from here on will be known as Angular)?
+​​Do you know why it is a good idea to upgrade your AngularJS application to the latest version of Angular (Angular 7, was Angular 6, was Angular 5, was Angular 4, was Angular 2+, and from here on will be known as Angular)?​​
  
 There are a number of reasons why you should consider migrating your AngularJS application to the latest version,
 

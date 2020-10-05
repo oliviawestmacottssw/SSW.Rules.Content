@@ -11,7 +11,7 @@ authors:
 
 ---
 
-When working with SSRS reports, you need to have the right type of project otherwise it will be difficult for a developer, to create new reports or update existing ones.
+​When working with SSRS reports, you need to have the right type of project otherwise it will be difficult for a developer, to create new reports or update existing ones.
 
 If you have some reports and want to check them into source control, if you add them to project that is not a report project, your reports will not open in the design/preview view (allowing to see the DataSource and DataSets). They will open in the XML view (which is not pretty to work with).
  
@@ -25,7 +25,7 @@ To open the reports in the right view you will need to:
 ![ Checking Microsoft Reporting Services Projects is installed](report-server-project2.png)
 
     - In the micros Microsoft Download and install [SQL Server Data Tools (SSDT) for Visual Studio website](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017) you will find all the instructions to install the tool via Marketplace or SSDT standalone installer.
-2. Create the project selecting **Business Intelligence** | **Reporting Services** | **Report Server Project**
+2. Create the project selecting **Business Intelligence** | **Reporting Services **| **Report Server Project**
 
 ![](report-server-project3.png)
 3. Add existing reports and create your new DataSource (based in the information on your Report Portal)

@@ -15,9 +15,6 @@ The key thing to remember is that a mobile phone is a  different device and have
 
 True mobile interface design focuses that which is used on mobile and simplifies the process.
 
-[[badExample]]
-| ![ Bad Example - TimePro as it renders on mobile. It is near unusable](TimePro-NotMobile.png)
-!
+![](TimePro-NotMobile.png)​Figure: Bad Example - TimePro as it renders on mobile. It is near unusable!
 
-[[goodExample]]
-| ![ Good Example - TimePro designed for mobile.](TimePro-Mobile.png)
+![](TimePro-Mobile.png)​Figure: Good Example - TimePro designed for mobile.

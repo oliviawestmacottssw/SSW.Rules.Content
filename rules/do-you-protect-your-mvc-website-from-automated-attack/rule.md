@@ -9,17 +9,15 @@ authors:
 
 ---
 
-Protecting your site from automated attack is easy with reCAPTCHA.  
-Learn how to by clicking [this link](https://shigemimatsumoto.wordpress.com/2015/04/27/protecting-mvc-web-application-with-recaptcha-22/) and improve your site security.
+​​​Protecting your site from automated attack is easy with reCAPTCHA.  
+​Learn how to by clicking [this ​link​](https://shigemimatsumoto.wordpress.com/2015/04/27/protecting-mvc-web-application-with-recaptcha-22/) and improve your site security.​​​
 
 
-[[goodExample]]
-| ![ Good Example - reCAPTCHA is protecting a site from automated attack](Good reCAPTCHA.png)
-
-[[badExample]]
-| ![ Bad Example - Older v1 reCAPTCHA.](abd5fe_Untitled2.png)
-
+![](Good reCAPTCHA.png)
+​​​Figure: Good Example - reCAPTCHA is protecting a site from automated attack
+![](abd5fe_Untitled2.png)
+Figu​r​​​​​​​e: Bad Example - Older v1 reCAPTCHA.
 
 
-[[badExample]]
-| ![ Bad Example - No protection, a robot can register tens or thousands of users...](4141c3_Untitled.png)
+![](4141c3_Untitled.png)
+Figu​r​​​​​​​e: Bad Example - No protection, a robot can register tens or thousands of users...

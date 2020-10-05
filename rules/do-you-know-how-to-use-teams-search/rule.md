@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Teams search is designed to help you quickly find the files you are collaborating on.
+Teams search is designed to help you quickly find the files you are collaborating on.​
 
 From the main search box, you can search for:
 
@@ -19,7 +19,7 @@ From the main search box, you can search for:
 - Channels
 - Files
 - Messages
-- People
+- People​
 
  
 If you start typing in the search box, you will see all Teams and Channels that matches your query:
@@ -46,9 +46,9 @@ You can also use built in filters to refine your search, by clicking the "Filter
 (see #3)
 **Important:** Even though Teams search gives you quick access to all your messages and documents; the search is scoped to ONLY Teams, which means you cannot search for files hosted on SharePoint, OneDrive, other Office365 products (i.e. Delve/UserProfile) or external sources (i.e. Sugarlearning.com, Rules.SSW.com.au etc...). For this reason, it is advised to use the SharePoint Search instead.
 
-### Related Rule
+### Related Rule​
 
 
 
 
-- [Do you know how to use SharePoint Search?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=154cc595-9579-45c9-8e23-79948dd3e084)
+- ​[Do you know how to use SharePoint Search?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=154cc595-9579-45c9-8e23-79948dd3e084)​

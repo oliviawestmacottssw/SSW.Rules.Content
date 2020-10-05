@@ -9,4 +9,4 @@ authors:
 
 ---
 
-In addition don't forget to add your own alerts, such as sending an alert for the exception "is outstanding amount &gt; $15000". Many people are not aware of this functionality and write triggers or get 3rd party products to the same job.
+​In addition don't forget to add your own alerts, such as sending an alert for the exception "is outstanding amount &gt; $15000". Many people​ are not aware of this functionality and write triggers or get 3rd party products to the same job.​​

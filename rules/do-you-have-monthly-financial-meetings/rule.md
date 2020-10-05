@@ -9,12 +9,12 @@ authors:
 
 ---
 
-It is important to have monthly meetings to get an overview of where the company finances are throughout the year.
+​It is important to have monthly meetings​ to get an overview of where the company finances are throughout the year.
 
 
 
 Since different people need to report for different sections, it's a good idea to split this into 2 meetings.
-   In this meeting, key staff members should review the past month and look at forecasts for next month. 
+   In this meeting, key staff members should review the past month and look at forecasts for next month. ​
 
 
 
@@ -23,11 +23,11 @@ Here is a sample agenda:
 
 
 
-### Pre Meeting:
+### Pre Meeting:​
 
 
 
-1. Reconcile invoicing system with the Accounting system
+1. ​Reconcile invoicing system with the Accounting system
 2. Print Monthly Profit and Loss Report
 3. Print YTD Profit and Loss Report
 4. Print Monthly Profit with graph
@@ -43,21 +43,22 @@ Here is a sample agenda:
 
 **Note:** the pre-meeting section should be done the day before meeting #1, and a lot of it can be delegated to admin employees
 
-### During meeting #1:
+### During meeting #1:​​
 
 
 1. Review Sales reports
 2. Review billable leaderboard
 3. Review utilization report for the month
+​
 
 
-**Note:** It's a good idea to record a quick summary of this meeting so people in Meeting #2 know the executive overview.
+**Note:** It's a good idea to record a quick summary of​ this meeting so people in Meeting #2 know the executive overview.
 
 
 
 
 
-### During Meeting #2:
+### During Meeting #2:​
 
 
 
@@ -71,4 +72,4 @@ Here is a sample agenda:
 6. Review monthly profit and loss
 7. Review trends year on year
 8. Review trends profit contribution %
-9. Review profit and loss return %
+9. Review profit and loss return %​

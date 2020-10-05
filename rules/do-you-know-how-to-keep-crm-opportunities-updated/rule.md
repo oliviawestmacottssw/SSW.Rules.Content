@@ -17,4 +17,4 @@ This simple service allows users to be notified the next time they need to conta
 
 Because CRM does not have to be updated often, you may find the opportunities are not kept up to date and your data could get stale. To solve this problem you should require all sales people to update their opportunities before the weekly sales meeting so that they can be reviewed during this meeting in a group.
 
-During this meeting, you should review your hot prospects with your team. As a team you should provide advice to each sales person to help them close their difficult sales.
+During this meeting, you should review your hot prospects with your team. As a team you should provide advice to each sales person to help them close their difficult sales.​

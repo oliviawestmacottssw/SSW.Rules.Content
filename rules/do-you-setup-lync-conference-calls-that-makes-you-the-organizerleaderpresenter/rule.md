@@ -9,7 +9,7 @@ authors:
 
 ---
 
-The Lync meeting experience is designed to allow people to collaborate productively from different locations. In Microsoft Lync, conference call leaders are referred to as presenters. The meeting organizer is automatically a leader. 
+​The Lync meeting experience is designed to allow people to collaborate productively from different locations. In Microsoft Lync, conference call leaders are referred to as presenters. The meeting organizer is automatically a leader. 
 Lync presenter's best practices can be found     [here](http://office.microsoft.com/en-us/communicator-help/organizer-and-presenter-best-practices-HA102006921.aspx).
 
 ### Features
@@ -26,4 +26,5 @@ Application sharing allows presenters to share control of software on their desk
 
 Presenters can delegate control to meeting participants. Presenters can customize the colour depth and screen resolution to better engage with participants who have varying desktop capabilities.
 
-Read more about     [implementing Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).
+Read more about     [​implementing Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).
+​

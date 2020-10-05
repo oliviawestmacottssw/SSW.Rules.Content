@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Analyzing your results (click-throughs, engagement, and new followers, for example) lets you see what was successful and what people have engaged with the most. This helps you further streamline your content and provides an insight into trends and areas of growth.
+​​​Analyzing your results (click-throughs, engagement, and new followers, for example) lets you see what was successful and what people have engaged with the most. This helps you further streamline your content and provides an insight into trends and areas of growth.
  
 1. First, you have to identify all your marketing efforts - E.g. Website, social media, blog, newsletter, chat.
 2. When you think of each marketing effort, try to think of what you are trying to achieve with that activity. For example, if you share a newsletter every month, what are you trying to get from it? Inquiries? Sales? Set a goal for them and follow up. This will help you identify which channel is working the most, even further, what efforts are worth keeping. You will be able to identify if, for example, your audience is not on a specific social media you thought you would perform well.
@@ -27,4 +27,4 @@ During this meeting, you can discuss:    - Marketing activities you worked on
 
 
 ![](marketing overview old.png)Bad Example - Figure: tracking just a few information won't help you see the big picture
-![](Screen Shot 2020-05-01 at 4.17.26 pm.png)Good Example - Figure: tracking all your marketing efforts will help you see where you can improve and what you are already on the right track
+![](Screen Shot 2020-05-01 at 4.17.26 pm.png)Good Example - Figure: tracking all your marketing efforts will help you see where you can improve and what you are already on the right track​​

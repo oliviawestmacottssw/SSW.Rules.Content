@@ -18,4 +18,6 @@ Check "Always keep on this device" so you can access your files offline.
 ![ So check "Always keep on this device" ](onedrive-instructions.jpg) 
 
 [[goodExample]]
-| ![ Good example – you can now open offline ](onedrive-good.jpg)
+| ![ Good example – you can now open offline ](onedrive-good.jpg) 
+
+​

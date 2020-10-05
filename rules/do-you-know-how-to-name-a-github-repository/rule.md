@@ -20,5 +20,5 @@ Consistent naming is important so that users of your GitHub account can easily f
 | ![ OK example – Repositories are following the lower-cased hyphenated format that is common for open source projects](name-github-ok.png)
 
 [[goodExample]]
-| ![ Good example – Repository names are name-spaced in the format ](name-github-good.png)
-[CompanyName].[ProjectName]
+| ![ ​​​Good example – Repository names are name-spaced in the format ](name-github-good.png)
+[CompanyName].[ProjectName]​

@@ -13,7 +13,7 @@ authors:
 
 ---
 
-While working in a team, there are three ways of seeing others' or team calendars.
+​While working in a team, there are three ways of seeing others' or team calendars.​
  
 ### Option 1: Using Outlook Calendar - See a person's calendar
 
@@ -48,7 +48,7 @@ Here's how to share your calendar (in this example, with a group):
 ![ The invitees will receive a calendar sharing notification. Click "Open this Calendar" to open the calendar in Outlook](outlook365 sharing using right click - email.png) 
 
 
-Here's how to open someone's calendar in  Outlook (if they have shared it with you):
+Here's how to open someone's calendar in  Outlook (if they have shared it ​with you):
 
  
 ![ In Outlook, click "Open Calendar" | "From Address Book..." ](outlook365 open-shared-calendar.png) 
@@ -93,4 +93,6 @@ e.g. https://sswcom.sharepoint.com/sites/SSWSugarLearning391/Lists/Team%20Calend
 #### If you are still using SharePoint 2007...
 
  
-![ The old way on SharePoint 2007](Team_ShareCalendar_SharePoint.GIF)
+![ The old way on SharePoint 2007](Team_ShareCalendar_SharePoint.GIF) 
+
+​​​​

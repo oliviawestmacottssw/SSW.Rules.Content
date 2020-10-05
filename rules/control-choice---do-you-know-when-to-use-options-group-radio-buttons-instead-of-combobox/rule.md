@@ -8,7 +8,7 @@ authors: []
 ---
 
 When the options are static items (not database driven) and they can fit on the screen (about 2-5 items), they should be radio buttons.
- 
+   ​
 For a ComboBox, user needs 2 clicks to change the value
 
 1. Click the little "v" button to see the available options.

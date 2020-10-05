@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Depending on which components you decide to install on your SQL Server, you may need to configure the following services:
+Depending on which components you decide to install on your SQL Server, you may need to configure the following services​:
 
 - SQL Server
 - SQL Server Agent
@@ -21,10 +21,10 @@ Depending on which components you decide to install on your SQL Server, you may 
 
 In the service properties window for these services, ensure that the Service Startup Account is run as "This Account" and not as "Built-in Account". Otherwise, you won't get all the functionality by default such as the ability to use Replication, Linked Servers or connect to other machines.
 
-For security, you should not have this domain account in the Administrators group.
+For security, you should not have this domain account​ in the Administrators group.​
  
 [[badExample]]
-| ![ This service is using a built-in local service account](SQLDatabases_RunAsAccount_Bad.png)
+| ![ This service is using a built-in local service account​](SQLDatabases_RunAsAccount_Bad.png)
 
-[[goodExample]]
-| ![Run as Account should use a domain account rather than a built-in account](SQLDatabases_RunAsAccount.png)
+![](SQLDatabases_RunAsAccount.png)
+​Figure: Good example - Run as Account should use a domain account rather than a built-in account​

@@ -19,7 +19,7 @@ We know developers like writing code more than specs, but the rule is developers
 
 The second problem is that when people do write them, they try and spec the whole project, spending months detailing every Use Case, Business Rule, and Process Flow Diagram. The client spends lots of money and sees no real progress, and the requirements change and the process begins again.
 
-The most popular and most successful way to deliver projects is using a specific framework called Scrum. In Scrum, you fix the timeframe and the cost so the only variance is in the features that are delivered in that time. You should keep your time to between 2 and 4 weeks and all your team members should be full time, thus fixing the costs.
+The most popular and most successful way to deliver projects is using a specific framework called Scrum. In Scrum,​ you fix the timeframe and the cost so the only variance is in the features that are delivered in that time. You should keep your time to between 2 and 4 weeks and all your team members should be full time, thus fixing the costs.
 
 See [Rules to better Scrum.](http&#58;//sharepoint.ssw.com.au/Standards/Management/RulesToBetterScrumUsingTFS/Pages/default.aspx)
 

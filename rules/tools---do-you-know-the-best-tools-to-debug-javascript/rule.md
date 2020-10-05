@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Debugging JavaScript application can be difficult. Having to console.log results can make for a slow and cumbersome development experience. There are five ways you can debug a JavaScript application without leaning on console.log() as your main tool.
+​​Debugging JavaScript application can be difficult. Having to console.log results can make for a slow and cumbersome development experience. There are five ways you can debug a JavaScript application without leaning on console.log() as your main tool.​
  
 ### Options for Debugging JavaScript applications 
 

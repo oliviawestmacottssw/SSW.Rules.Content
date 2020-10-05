@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Do you know the best way to manage NuGet packages with Git? You can get into all sorts of trouble by including your packages in source control. 
+​​​​​​Do you know the best way to manage NuGet packages with Git? You can get into all sorts of trouble by including your packages in source control. 
 
 
 
@@ -43,7 +43,7 @@ Beginning with NuGet 2.7, the NuGet Visual Studio extension integrates into Visu
 2. NuGet responds to this event and checks for packages.config files included in the solution.
 3. For each packages.config file found, its packages are enumerated and checked for existence in the solution's packages folder.
 4. Any missing packages are downloaded from the user's configured (and enabled) package sources, respecting the order of the package sources.
-5. As packages are downloaded, they are unzipped into the solution's packages folder.
+5. As packages are downloaded, they are unzipped into the solution's packages folder.​
 
 
 

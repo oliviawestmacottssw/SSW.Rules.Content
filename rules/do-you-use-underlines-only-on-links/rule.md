@@ -17,4 +17,4 @@ Users expect underlined text to be a hyperlink. Never underline text that isn't 
  
 ![ Never underline the text when it isn't a link ](../../assets/Websites_UnderlineNoHyperlink.gif)
 (even <br>      [Scott Guthrie agrees](http://www.ssw.com.au/ssw/Redirect/Microsoft/ScottGu.htm)!)
-We have a program called  [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#BreadCrumbs) to check for this rule.
+We have a program called  [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#BreadCrumbs) to check for this rule. ​​​

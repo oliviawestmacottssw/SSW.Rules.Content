@@ -9,20 +9,16 @@ authors:
 
 ---
 
-Having     an electronic task board makes it easy for developers to keep track of tasks.
+Having     an electronic ​​​task board makes it easy for developers to keep track of tasks.
 
 These are the columns (aka swim lanes) you need:
- 
-[[goodExample]]
-| ![ Good Example - a virtual client task board in action ](TFS Preview Task Board.png)
-([TFS](http://tfspreview.com/))
-[[okExample]]
-| ![ OK Example - a physical client task board in operation](Taskboard.jpg)
-
+ ​
+![](TFS Preview Task Board.png)​​​Figure: Good Example - a virtual client task board in action ([TFS​](http://tfspreview.com/))​
+![](Taskboard.jpg)​​Figure: OK​ Example - a physical client task board in operation
 Near your task board, stick an SSW "Want to submit a User Story?"
 
 - Where to find their project portal
-- Who to contact with questions
+- Who to contact with questions​
 - How to add tasks to the task board
 
 

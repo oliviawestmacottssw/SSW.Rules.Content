@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Having a reward system in place can be a great way to make sure all employees get their timesheets in on time.
+​Having a reward system in place can be a great way to make sure all employees get their timesheets in on time.
 
 Get your employees to enter [their timesheets daily](/Pages/when-to-enter-your-timesheets.aspx) and have a system that entails:
 
@@ -27,7 +27,7 @@ Everyone gets a free lunch today except for the following people:
 
 - Person 1’s name
 - Person 2’s name
-- etc.
+- etc.​
 
 
 Can you please complete your timesheets ASAP and little ‘r’ me when you are done
@@ -38,7 +38,7 @@ Here’s what we check:
 2. SugarLearning - [https://www.sugarlearning.com/SSW/Leaderboard](https&#58;//www.sugarlearning.com/SSW/Leaderboard)
 3. Bookings - [http://reports.ssw.com.au/Reports/report/SSW2005Reports/SSW%20Booked%20In%20Days](http&#58;//reports.ssw.com.au/Reports/report/SSW2005Reports/SSW%20Booked%20In%20Days)
 
-
+​ <br>
 &lt;This email was sent as per the rule: [https://rules.ssw.com.au/do-you-reward-your-employees-for-doing-their-timesheets-on-time](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9bbec8d8-f552-46c1-a34e-fdaaa127662b) /&gt;
 
 

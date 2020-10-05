@@ -26,10 +26,10 @@ index:
 - practices---do-you-know-to-separate-your-angular-components-into-container-and-presentational-components
 
 ---
-Angular is everywhere.
+​​​​​​Angular is everywhere.
 
 
-Angular is up to version 9 - some people still call it Angular 2+, but since version 2.0, it's just been known as **Angular**. This page is a set of rules and guidelines to get you up and running with Angular with the least pain possible.
+Angular is up to version 9 - some people still call it Angular 2+, but since version 2.0, it's just been known as **Angular**. ​This page is a set of rules and guidelines to get you up and running with Angular with the least pain possible.
 
 Angular and React have been the 2 dominant front-end technologies for the last few years. We have been running our Angular Superpowers course that entire time, and I’m still amazed that every time we run the course, we sell out. 
 
@@ -37,7 +37,7 @@ Of course, we update the course with every version, but it's still amazing becau
 
 
 
-A lot of these rules have originated from the [Angular Superpowers Tour](https&#58;//www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx).
+A lot of these rules have originated from the [Angular Superpowers Tour​](https&#58;//www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx).
 
 
 Want to build an Angular application?

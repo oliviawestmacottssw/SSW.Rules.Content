@@ -18,3 +18,4 @@ Public Enum ProjectLanguage CSharp VisualBasic End Enum
 Good - Enum type is not suffixed with the word "Enum" 
 
 We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.
+ ​

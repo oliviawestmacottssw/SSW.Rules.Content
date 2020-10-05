@@ -13,8 +13,8 @@ When you show all of your content on a slide when it first loads many people wil
 
 The summary slide is very important. It's your chance to re-iterate what you have covered in the talk, and remind the audience of your key points.
  
-You want them listening to you, not reading ahead.
+​​You want them listening to you, not reading ahead.​​
 
 Animating the items on your Summary slide ensures they are listening to you, not reading ahead.
 
-![](summary-animation.gif)Good Example: Animate the points on your Summary slide
+![](summary-animation.gif)Good Example: Animate the points on your Summary slide​

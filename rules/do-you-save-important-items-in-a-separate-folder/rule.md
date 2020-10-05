@@ -23,3 +23,4 @@ So what's left in your 'Inbox' should only be 'To Do' items. Sure you might want
 Microsoft Outlook provides you with 4 main folders: 'Draft', 'Inbox', 'Outbox' and 'Send Items'. But we believe they are missing 2 additional folders: 'Saved Items' and 'Saved Personal Items'. You can use these two folders to keep your work-related or personal emails that you wanted to keep.
 
 You can create these two folders next to the Inbox and move the emails there.
+ ​

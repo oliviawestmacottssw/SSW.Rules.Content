@@ -11,7 +11,7 @@ authors:
 
 You've set up your Application Insights as per the rule 'Do you know how to set up Application Insights.
 
-Your daily failed requests are down to zero & You've tightened up any major performance problems.
+Your daily failed requests are down to zero & You've tightened up any major performance problems.​​
 
 Now you will discover that understanding your users' usage within your app is child's play.
  

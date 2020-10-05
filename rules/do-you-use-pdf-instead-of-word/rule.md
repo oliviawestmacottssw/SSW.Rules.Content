@@ -11,7 +11,7 @@ authors:
 
 ---
 
-When providing a proposal to a client it should be in PDF format. Reasons for this are:
+​​​When providing a proposal to a client it should be in PDF format. Reasons for this are:​
  
 - PDFs cannot be edited without leaving a digital footprint
 - PDF is a universal file format across different OS'

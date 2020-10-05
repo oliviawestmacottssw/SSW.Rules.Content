@@ -11,7 +11,7 @@ authors:
 
 Microsoft Dynamics Marketing organizes contacts and companies with four different categories, each with a different intended purpose: clients, vendors, staff, and marketing.
  
-**Clients**
+**​C​​lients**
 
 Clients are those contacts and companies you do marketing work for. A client can be an external organization or an internal contact in another department.
 

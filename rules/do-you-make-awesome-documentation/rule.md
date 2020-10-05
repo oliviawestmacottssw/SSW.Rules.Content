@@ -17,13 +17,13 @@ authors:
 
 ---
 
-There are a few styles of documentation:
+​There are a few styles of documentation:
  
 ### Level 1 - Old School
 
 
 
-| 
+| ​
 ![](iwS2.jpg) | This team style does a lot of upfront documentation and planning, is very comfortable with Waterfall, and has rarely even heard of Agile :) |
 | --- | --- |
 
@@ -45,7 +45,7 @@ This is a well-established way to do documentation but the issue with it is that
 
 
 
-| 
+| ​
 ![](68843503-mark-zuckerberg.jpg) | This team style are all under 30 and have never heard of FoxPro or Access<br> |
 | --- | --- |
 
@@ -53,10 +53,10 @@ This is a well-established way to do documentation but the issue with it is that
 6 small docs (a couple of pages max + in the order you would read them):
 
 - Documentation\Business.docx - Explaining the business purpose of the app
-- Documentation\Instructions-Compile.docx - Contains instructions on how to get the project to compile (aka the F5 experience)
+- Documentation\Instructions-Compile.docx - Contains instructions on how​​ to get the project to compile (aka the F5 experience)
 - Documentation\Instructions-Deployment.docx - Describes the deployment process
 - Documentation\Patterns-and-Technologies.docx - Explaining the technical overview e.g. Broad architecture decisions, 3rd party utilities, patterns followed etc. (ie. SSW Data Onion)
-- Documentation\Definition-of-Done.docx – Ensures that your team [maintains a high level of quality with a Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6449ae79-ba88-447e-aa48-36173029a2af)
+- Documentation\Definition-of-Done.docx – Ensures that your team [maintains a high level of quality with a Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6449ae79-ba88-447e-aa48-36173029a2af)​
 - Documentation\Definition-of-Ready.docx – Ensure that your PBIs are well defined before adding them to a sprint by specifying a [Definition of Ready](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=637c230e-b1e3-4f2e-b2e0-c1a5431c1758)
 - Unit Tests
 - Code and Work Items (Via the magic of Annotation)
@@ -108,8 +108,8 @@ Dear Northwind Developer
 
 Problems to check for:
   Windows 8 not supported
- Many things to build
- Lots of dependencies
+​ Many things to build
+​​ Lots of dependencies
 
 
 You are at Level 2 when you have some static Word documents with the steps to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile.
@@ -224,4 +224,4 @@ We can choose to continue paying the interest, or we can pay the debt in full by
 
 The same principle is true with documentation. Using the 'old school' method will leave you with a build-up of documentation that you will need to keep up to date as the project evolves.
 
-Warning: if you want to follow Scrum and have zero technical debt, then you must throw away all documentation at the end of each sprint. If you do want to keep it, make sure you add it to your [definition of done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6449ae79-ba88-447e-aa48-36173029a2af)to keep it updated.
+Warning: if you want to follow Scrum and have zero technical debt, then you must​ throw away all documentation at the end of each sprint. If you do want to keep it, make sure you add it to your [definition of done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6449ae79-ba88-447e-aa48-36173029a2af)to keep it updated.

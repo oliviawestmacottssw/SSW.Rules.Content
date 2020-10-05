@@ -15,17 +15,15 @@ The Product Owner is responsible for owning the Product backlog. See the video [
 
 There are three options for how to a add new PBI (Product Backlog item) to the backlog:
 
-1. Emails <br>      Bad Example - This is a poor way to add a PBI as you can’t order emails by business priority
+1. Emails​ <br>      Bad Example - This is a poor way to add a PBI as you can’t order emails by business prior​​ity​
 2. **Visual Studio Team Services** - E.g. https://ssw.visualstudio.com 
-
-[[goodExample]]
-| ![ Good Example - VSTS allows you to enter an item into the backlog, in any priority order](RulesScrumUpdateBacklogGood.jpg "image")
-
+ <br>​         
+![](RulesScrumUpdateBacklogGood.jpg "image")​​​​Figure: Good Example - VSTS allows you to enter an item into the backlog, in any priority order
 3. **Team Companion (Recommended)
 **
-![ Team Companion lets you convert an email to a PBI, giving you the best of both worlds](RulesScrumUpdateBacklogBest.jpg)
+![ Team Com​panion lets you convert an email to a PBI, giving you the best of both worlds](RulesScrumUpdateBacklogBest.jpg)
 
 
-
+​
 
 Note: You can also create a PBI using VSTS and attach and email directly if needed, without using Team Companion

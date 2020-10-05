@@ -11,7 +11,7 @@ authors:
 
 ---
 
-When you distribute important information by email all you can do is put "Do Not Forward this please". Important corporate information should be protected better than this.
+​When you distribute important information by email all you can do is put "Do Not Forward this please". Important corporate information should be protected better than this.
  
 ![ You can protect your email messages ](outlookIRM.jpg)
 

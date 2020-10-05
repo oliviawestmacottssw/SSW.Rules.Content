@@ -13,15 +13,15 @@ authors:
 
 ---
 
-The de facto approach of communicating via group emails and sharing files via a patchwork of different services is difficult, with the potential for missed messages and files.
+​​The de facto approach of communicating via group emails and sharing files via a patchwork of different services is difficult, with the potential for missed messages and files.
  
-At SSW, we use Microsoft Teams for our company meetings and for our internal communication. Microsoft Teams is designed to provide an easier way for small groups of people to communicate and collaborate.
+​At SSW, we use Microsoft Teams for our company meetings and for our internal communication. Microsoft Teams is designed to provide an easier way for small groups of people to communicate and collaborate.
 
 Microsoft Teams' winning feature is its tight integration with Office services and Groups, which allows users to seamlessly and securely switch between editing documents, shared dashboards and planners, and group chat, video and voice calls. The simplicity of just setting up a Team and having access to all these shared services — without the need to spend hours configuring them is part of what Microsoft sees as Teams' selling point. Teams integration with email also allows messages sent to a designated Team address to be copied to a conversation in Teams.
 
 ### What are the options?
 
-**[Zoom](https://zoom.us/) **– is the leader in modern enterprise video communication, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as executive offices and classrooms.
+**[Zoom](https://zoom.us/)​ **– is the leader in modern enterprise video communication​, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as executive offices and classrooms.
 
 **Microsoft Teams** – Microsoft Teams came along and boasted some of the features that Skype for Business offered – predominantly persistent chat, instant messaging, individual and group voice/video calls, and scheduled meetings.
 
@@ -32,5 +32,4 @@ Microsoft Teams' winning feature is its tight integration with Office services a
 [[badExample]]
 | ![ Numerous group chats with no group name and therefore no way of tracking previous chats/files](skype chat.jpg)
 
-[[goodExample]]
-| ![Figure showing all of the team members. This group chat can be used over and over for project discussions with all data in one place and integrated with SharePoint.](Teams chat.jpg)
+![](Teams chat.jpg)​​​Figure: Good example - Figure showing all of the team members. This group chat can be used over and over for project discussions with all data in one place and integrated with SharePoint.

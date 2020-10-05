@@ -9,5 +9,5 @@ authors:
 
 ---
 
-Do not use "sp\_rename" to rename objects like stored procedures, views and triggers.
-<br>Object name should be the same as the name used in the object's script (e.g. CREATE script for stored procedures, views and triggers). Inconsistency can happen when object is renamed with sp\_rename, but its script is not updated.
+​Do not use "sp\_rename" to rename objects like stored procedures, views and triggers.​
+<br>​​​Object name should be the same as the name used in the object's script (e.g. CREATE script for stored procedures, views and triggers). Inconsistency can happen when object is renamed with sp\_rename, but its script is not updated.

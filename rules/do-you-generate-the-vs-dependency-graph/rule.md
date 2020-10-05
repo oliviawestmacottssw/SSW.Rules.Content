@@ -13,10 +13,10 @@ authors:
 
 ---
 
-Dependency graphs are important because they give you an indication of the coupling between the different components within your application.
+​Dependency graphs are important because they give you an indication of the coupling between the different components within your application.
 
 A well architected application (ie. one that correctly follows the Onion Architecture) will be easy to maintain because it is loosely coupled.
-
+  ​​
 ![ Bad Example- The Visual Studio Dependency Graph is hard to read](TimePRODependence.png)
 
 [[goodExample]]
@@ -25,4 +25,4 @@ A well architected application (ie. one that correctly follows the Onion Archite
 #### Further Reading:
 
 - [Do you use a dependency injection centric architecture?](/do-you-use-a-dependency-injection-centric-architecture)
-- [Do you know the best dependency injection container?](/Pages/Do-You-Know-the-Best-Dependency-Injection-Container.aspx)
+- [Do you know the best dependency injection container?](/Pages/Do-You-Know-the-Best-Dependency-Injection-Container.aspx)​

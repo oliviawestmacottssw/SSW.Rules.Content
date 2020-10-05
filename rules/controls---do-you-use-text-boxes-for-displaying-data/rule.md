@@ -9,7 +9,7 @@ authors: []
 
 Use Label controls to display static text of the application. Eg. "Customer ID:"
 Use Text Box controls to display data (results of calculations, information, records from a database, etc.).
- 
+   ​
 The reasons are:
 
 - users know it is data, not a label of the application

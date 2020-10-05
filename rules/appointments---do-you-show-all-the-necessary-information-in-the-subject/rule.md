@@ -21,4 +21,4 @@ For example if the appointment is a meeting request you should include the names
 [[goodExample]]
 | ![ Good Example - Appointment subject with all of the relevant information shown](ApptSubjectGood_small.jpg)
 
-CRM users making bookings should [keep their naming standards consistent.](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=50a681ba-07b8-4566-923b-09ee25bbdd8e)
+CRM u​sers making bookings should [keep their naming standards consist​ent.](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=50a681ba-07b8-4566-923b-09ee25bbdd8e)​

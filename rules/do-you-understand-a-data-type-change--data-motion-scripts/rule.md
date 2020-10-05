@@ -42,13 +42,14 @@ note: In order to achieve this you MUST use the built in Refactor tools as it cr
 
 There are few options available to perform data type change correctly:
 
-        1. **Use manual scripts.** All data type changes including data migration can be performed by writing scripts manualy. This way you have full control over the change. It is recommended to use <br>            [SQLDeploy](http://sqldeploy.com/) or <br>            [DbUp](http://dbup.github.io/) to automate script deployment and keep track of all database changes.
-        2. **Use Database Project.** As mentioned above, Visual Studio does not support data type changes out of the box and should not be used to perform this kind of task.
-        3. **Use Entity Framework (EF) Code First Migrations.** If your application uses Entity Framework Code First, then it is strongly recommended to use Migrations feature.
-Using EF Code First Migrations is comparable to using one of the below combinations:
-- [DBUp](http://dbup.github.io/) + <br>            [SQL verify](https://www.nuget.org/packages/SSW.SqlVerify.EF/)
+        1. **​​​​​Use manua​l scripts.** All data type changes including data migration can be performed by writing scripts manualy. This way you have full control over the change. It is recommended to use <br>            [SQLDeploy](http://sqldeploy.com/) or <br>            [DbUp](http://dbup.github.io/) to automate script deployment and keep track of all database changes.​
+        2. **​Use Database Project.** As mentioned above​, Visual Studio does not support data type changes out of the bo​x and should not be used to perform this kind of task.
+        3. ​​​​​​​​​**Use Entity Framework (EF) Code First Migrations.** If your application uses Entity Framework Code First, then it is strongly recommended to use Migrations feature.
+​Using EF Code First Migrations is comparable to using one of the below combinations:
+- ​[DBUp](http://dbup.github.io/) + <br>            [SQL verify](https://www.nuget.org/packages/SSW.SqlVerify.EF/)
 - <br>            [DAC Support For SQL Server Objects and Versions](https://technet.microsoft.com/en-us/library/ee210549%28v=sql.110%29.aspx)  (.dacpac files)
-- <br>            [SQL Deploy](http://sqldeploy.com/)
+- <br>            [SQL Deploy ​​​](http://sqldeploy.com/)
+​
 
 
 public partial class GenderToString : DbMigration
@@ -78,4 +79,4 @@ public partial class GenderToString : DbMigration
  Sql("UPDATE [dbo].[Customers] set Gender = 'F' where GenderTemp=0");
  DropColumn("dbo.Customers", "GenderTemp");
  }
-Good Example - Data motion with EF Migrations
+​Good Example - Data motion with EF Migrations

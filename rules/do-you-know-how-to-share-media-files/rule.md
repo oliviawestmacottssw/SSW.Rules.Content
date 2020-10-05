@@ -13,7 +13,7 @@ authors:
 
 ---
 
-It is important to be able to easily share files between workers. It is also important that all content is backed up centrally in case an employee is unavailable.
+​​ It is important to be able to easily share files between workers. It is also important that all content is backed up centrally in case an employee is unavailable.
 
 Ideally SharePoint would be used for all content storage but occasionally it is not ideal.
   
@@ -28,7 +28,7 @@ Ideally SharePoint would be used for all content storage but occasionally it is 
 [[badExample]]
 | ![ Bad Example - Files shared via SkyDrive are hard to back up centrally. When you share folders through OneDrive ](share-media-files-3.jpg)  
 (was SkyDrive) they are only made available through the web interface
-**Suggestion to OneDrive (was SkyDrive) Team #2:**  When folders are shared with another OneDrive user, the shared folder should appear in the recipients OneDrive folder. This allows it to be backed up by a central user at HQ.
+**Suggestion to OneDrive (was SkyDrive) Team #2: ** When folders are shared with another OneDrive user, the shared folder should appear in the recipients OneDrive folder. This allows it to be backed up by a central user at HQ.
  
 [[goodExample]]
 | ![ Good Example -  DropBox allows offline access. When you share a DropBox folder with another Dropbox user, the shared folder appears in the DropBox folder on their machine with a different icon to indicate sharing](share-media-files-4.jpg)  

@@ -9,12 +9,12 @@ authors:
 
 ---
 
-Advantage: Simplifies ORM MappingWe prefer multiple lookup tables so they make more sense in ORM tools. If you have multiple lookups to the one table, you would need to do your mappings manually rather than using a tool. E.g. you could have either: LookupTable or OrderType
-
+Advantage: Simplifies ORM MappingWe prefer multiple lookup tables so they make more sense in ORM tools. If you have multiple lookups to the one table, you would need to do your mappings manually rather than using a tool. E.g. you could have either: LookupTable or OrderType​
+​
  
 When you are obtaining the OrderType for an order, you would have either:
 
-- Order.OrderType.OrderTypeID
+- ​Order.OrderType.OrderTypeID
 
 
 
@@ -32,9 +32,11 @@ When you are obtaining the OrderType for an order, you would have either:
 
 
 > Not great as it is not clear what the nature of the lookup table is.
+> 
+> ​
 
 Advantage: Maintains Complete Referential Integrity without the need for triggers
-The other advantage of having separate lookup tables rather than one large one is that referential integrity is maintained.
+​The other advantage of having separate lookup tables rather than one large one is that referential integrity is maintained.
 One issue with having one large table is that you can still enter invalid values in the Order.OrderTypeID column. E.g. if Order TypeIDs range from 1-3 and CustomerTypeIDs range from 4 to 10.
 
 If I put OrderTypeID = 10, then I will not get referential integrity errors (even though I should) because I have entered a value which exists in the lookup table (even though it is for the wrong type).
@@ -43,12 +45,19 @@ If I put OrderTypeID = 10, then I will not get referential integrity errors (eve
 If I want to enforce referential integrity so I can only enter the correct type for my lookup table, then I would need to resort to triggers or a (fallible) coded data tier.
 
 
+​
+​​Advantage: You can add new columns specific to each lookup table
 
-Advantage: You can add new columns specific to each lookup table
-
-For example, if a Lookup table (e.g. CustomerType) has an associated value (e.g. the field MaximumDebtAmount), we don't need to add a field that is irrelevant to all the other lookup tables. We can just add it to the individual lookup table.
+​​​For example, if a Lookup table (e.g. CustomerType) has an associated value (e.g. the field MaximumDebtAmount), we don't need to add a field that is irrelevant to all the other lookup tables. We can just add it to the individual lookup table.​
 
 
-Disadvantage: Multiple tables make maintenance slightly more difficult, especially when making changes directly via Management Studio
+​​Disadvantage: Multiple tables make maintenance slightly more difficult, especially when making changes directly via Management Studio
 
-It is simpler to Administer one table than multiple tables, but you can reduce this problem with a good Generic Administration Page UI.
+​It is simpler to Administer one table than multiple tables, but you can reduce this problem with a good Generic Administration Page UI.
+​
+​
+
+
+
+
+​

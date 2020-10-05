@@ -11,11 +11,9 @@ authors:
 
 ---
 
-Just as we should not 'judge a book by its cover' - we will not judge an email by its subject. But, we do! Because users get so many emails, getting your clients and suppliers to take notice of yours in their inbox can be quite a struggle. 
+​​Just as we should not 'judge a book by its cover' - we will not judge an email by its subject. But, we do! Because users get so many emails, getting your clients and suppliers to take notice of yours in their inbox can be quite a struggle. 
   
-[[goodExample]]
-| ![ Good Example - I'm definitely going to read this email](Outlook_ChooseAnInterestingSubject.gif) 
-
+![](Outlook_ChooseAnInterestingSubject.gif)​​​ Figure: Good Example - I'm definitely going to read this email
 Use the email Subject to grab your recipient's attention. Choosing the right subject can give an email a sense of urgency or importance that choosing the wrong subject won't!
 
 The best way of doing this is to ensure that your subject includes either an ACTION POINT (e.g. 6.30 TONIGHT! See you at The Oaks Hotel...) or a RESULT of a task you were asked to do (e.g. Here's the 5 mins. of FEEDBACK you requested from our meeting with Charles Merton). You'll note from this that including the date and time in the subject gives immediacy to the email.
@@ -49,7 +47,7 @@ Eg.: **WorleyParsons – IOP – Customer.aspx - Add email address validation**
 
 The advantage of this is that when you sort by the subject in Outlook, you get all of the emails grouped together, and it is easy to recognize the client/product, because the subject contains the relevant information.
 
-**Tip:** When referring to a website, it's a good idea to include the URL in the email subject.
+**Tip: **When referring to a website, it's a good idea to include the URL in the email subject.
 
 Additionally, you should be able to determine which emails are the most important. Using a meaningful subject with keywords makes it easy to identify and categorize emails without actually opening them (and it also makes it easy to find them in "Sent Items"). When emails are really important, write IMPORTANT in the subject. Other emails considered important or urgent should have the following in the subject field:
 
@@ -67,7 +65,7 @@ Other words to be used are:
 - FYI - information you want to keep around for a while, for yourself or for others (never for a task)
 - FUTURE - ideas for the future
 - IGNORE - for the rare occasion when something is requested and you really don't want to do it yet
-- Product name - Registered User Support
+- Product name - Registered User Support​​​
 - Product name - Pre-Sales Support
 - Project name
 - Client Name
@@ -84,4 +82,4 @@ For internal emails, the subject line should generally not be changed as it will
 
 ## Related Links
 
-- [Do you get your work done in order of importance (aka priorities)?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=dfaed2cc-e5c6-4844-98fc-aa1d89a690eb)
+- [Do you get your work done in order of i​mportance (aka priorities)?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=dfaed2cc-e5c6-4844-98fc-aa1d89a690eb)

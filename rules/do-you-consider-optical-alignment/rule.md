@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-![ In the first example, although the text is technically aligned, it does not 'look' it. In the second one, the "V" has been moved into the margin, but the optical alignment is now correct ](../../assets/opticalalignment.jpg)
+![ In the first example, although the text is technically aligned, it does not 'look' it. In the second one, the "V" has been moved into the margin, but the optical alignment is now correct   ​](../../assets/opticalalignment.jpg)
 
 Not only relevant in typography, optical alignment can also be used in forms and web.
 

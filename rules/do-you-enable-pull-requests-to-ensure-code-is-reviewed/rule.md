@@ -19,11 +19,11 @@ authors:
 [[badExample]]
 | ![ Use the out of the box pull requests to ensure all code is reviewed ](github-pullrequest-bad.png)
 
- 
+ ​<br>   ​​
 [[goodExample]]
-| ![Use the plugin "Reviewable". Reviewable improves pull requests and code reviews with a powerful UI and easy code commenting. See the Reviewable icon above ](github-pullrequest-1.png)
+| ![Use the plugin "Reviewable". Reviewable improves pull requests and code reviews with a powerful UI and easy code commenting. ​See the Reviewable icon above ​​](github-pullrequest-1.png)
 
-![ See how easy it is to see the code rejected](github-pullrequest-2.png)
+![ See how easy it is to see the code rejected​](github-pullrequest-2.png)
 
 
 
@@ -34,4 +34,5 @@ authors:
 
 https://www.visualstudio.com/learn/git-pull-requests/
 https://www.visualstudio.com/en-us/docs/git/pull-requests/
-https://yangsu.github.io/pull-request-tutorial/
+[https://yangsu.github.io/pull-request-tutorial/​](https://yangsu.github.io/pull-request-tutorial/)
+ ​

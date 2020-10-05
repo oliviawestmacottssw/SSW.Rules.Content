@@ -21,9 +21,9 @@ There's room for considerable variation here. The in-memory models may share the
 
 CQRS means clear separation between Commands  (Write operations) and Queries (Read operations).
 
-CQRS can be used with complex architectures such as Event Sourcing but the concepts can also be applied to simpler applications with a single database.
+CQRS can be used with complex architectures such as Event Sourcing but the concepts can also be applied to simpler applications with a single database.​
  
-MediatR is an open source .NET library by Jimmy Bogard that provides an elegant and powerful approach for writing CQRS, making it easier to write clean code.
+​MediatR is an open source .NET library by Jimmy Bogard that provides an elegant and powerful approach for writing CQRS, making it easier to write clean code.
 
 For every command or query, you create a specific request class that explicitly defines the “input” required to invoke the operation.
 

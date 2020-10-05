@@ -16,7 +16,7 @@ Mocking frameworks allow you to replace a section of the code you are about to t
  
 There are two types of mocking framework.
 
-### The Monster Mocker (e.g. Microsoft Fakes or TypeMock)
+### The Monster Mocker (e.g. Microsoft Fakes or TypeMock)​​
 
 
 This type of mocking framework is very powerful and allows replacing code that wasn’t designed to be replaced.
@@ -25,7 +25,7 @@ This type of mocking framework is very powerful and allows replacing code that w
 [[badExample]]
 | ![ Bad Example – Our class is tightly coupled to our authentication provider, and as we add each test we are adding \*more\* dependencies on this provider. This makes our codebase less and less maintainable. If we ever want to change our authentication provider “OAuthWebSecurity”, it will need to be changed in the controller, and every test that calls it](monster-mocker.jpg)
 
-### The Precision Mocker (e.g. Moq)
+### The Precision Mocker (e.g. Moq)​
 
 
 This mocking framework takes advantage of well written, loosely coupled code.

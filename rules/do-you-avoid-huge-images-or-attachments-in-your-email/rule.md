@@ -11,7 +11,7 @@ authors:
 
 ---
 
-When your attachment is too big, you should think twice.
+When your attachment is too big, you should think twice.​
  
 1. Avoid large attachments. So if you are sending an email that is >1MB you need to take one second to think:
     - Could a URL be better than this attachment? (see example on the right)

@@ -11,11 +11,11 @@ authors:
 
 ---
 
-With VS2013, you get the long awaited 64 bit edit and continue, and it is turned on by default. Edit and Continue is great when you need to make a quick change to executing code. However, it has its downsides too:
+With VS2013, you get the long awaited 64 bit edit and continue, and it is turned on by default. Edit and Continue is great when you need to make a quick change to executing code. However, it has its downsides too:​
 
 - Web Development - Kills IISExpress when you stop
 - Can lead to bad development practices (trying to debug instead of doing RED, GREEN, REFACTOR)
 
 
  
-This is why we recommend that it is turned OFF by default.
+​This is why we recommend that it is turned OFF by default.​​

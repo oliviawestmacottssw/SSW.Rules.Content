@@ -13,19 +13,19 @@ authors:
 
 ---
 
-Imagine you see one port of a hub not working, what do you do?
+​​Imagine you see one port of a hub not working, what do you do?
 
 When you see something not working like a phone or a PowerPoint, don't ignore it,                     stick a note to it and tell the appropriate person.
  
 Create a form that reminds you what is broken, who you have to call to fix it and any notes that may need to ensure that the item in question is fixed properly or replaced.
 
 [[goodExample]]
-| ![ Good Example - Label broken things If you want to have a more formal version of the sticky note, the SSW Design Team has created  ](LeaningTowerOfPisa.jpg)
-[this PDF](/Documents/SSW-label-broken-things.pdf) which can be printed and attached to stuff that needs fixing (however, normally just a yellow sticky note and an email does the job just fine) 
+| ![ Good Example - ​Label broken things​ If you want to have a more formal version of the sticky note, the SSW Design Team has created  ](LeaningTowerOfPisa.jpg)
+[this PDF​](/Documents/SSW-label-broken-things.pdf) which can be printed and attached to stuff that needs fixing (however, normally just a yellow sticky note and an email does the job just fine) 
 [[okExample]]
-| ![ OK Example - Print PDF, fill the form and attach to broken things in the office](broken-things.jpg)
+| ![ OK Example - Print PDF, fill the form and attach to broken things in the office​](broken-things.jpg)
 
-### Related Rule
+### ​Related Rule​​​
 
 
-- [Do you fix problems quickly?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=585661a4-07e0-4e52-be87-66aaa1d1eed7)
+- ​[​​Do you fix problems quickly?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=585661a4-07e0-4e52-be87-66aaa1d1eed7)

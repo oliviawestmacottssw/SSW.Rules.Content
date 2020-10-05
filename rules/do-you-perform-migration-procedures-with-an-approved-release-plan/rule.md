@@ -25,4 +25,4 @@ Approved release plans are mandatory for a migrations such as:
 1. Exchange Server 2003 to 2007<br>
 2. ISA Server to a hardware firewall<br>
 3. Phone system to VoIP<br>
-4. etc.
+4. etc.​

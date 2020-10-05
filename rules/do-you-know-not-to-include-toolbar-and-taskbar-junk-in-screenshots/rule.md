@@ -18,7 +18,7 @@ Screenshots are a very important part of websites these days. Be careful to avoi
 Tips:
 
 1. Use a region screen shot if appropriate (however the URL is generally helpful in most browser screen shots)
-2. Go full screen e.g. F11 in Internet Explorer, then +
+2. Go full screen e.g.​ F11 in Internet Explorer, then +
 3. Always have the 'Auto-hide the taskbar' option checked
 
 ![ Always have the 'Auto-hide the taskbar' option checked so you do be screen shots](Good_Auto-Hide-Taskbar.gif)

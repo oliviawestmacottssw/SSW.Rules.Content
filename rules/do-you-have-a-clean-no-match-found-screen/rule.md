@@ -11,10 +11,10 @@ authors:
 
 ---
 
-When a user looks at a search result, they expect to see a list of items to look into. If there are no results, don't give them noisy text because it can be taken as a search result. An icon also can be understood as a broken page. Your "no results" page should be clean.
+When a user looks at a search result, they expect to see a list of items to look into. If there are no results, don't give them noisy text because it can be taken as a search result. An icon also can be understood as a broken page. Your "no results" page should be clean.​
  
 [[badExample]]
-| ![ The list of "suggestions" is just noise and can confuse the user](search-result-bad-list.jpg)
+| ![ The list of "suggestions" is just noise and can confuse the user​](search-result-bad-list.jpg)
 
 [[badExample]]
 | ![ Having an icon implies that an error happened which is not the case](search-result-bad-icon.jpg)

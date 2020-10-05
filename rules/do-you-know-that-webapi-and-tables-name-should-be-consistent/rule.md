@@ -9,20 +9,20 @@ authors:
 
 ---
 
-When creating WebAPIs for your applications, it is useful to keep the naming consistent all the way from the back-end to the front-end. 
+​When creating WebAPIs for your applications, it is useful to keep the naming consistent all the way from the back-end to the front-end. 
 **Table name:** Employees
 **Endpoint:** /api/Users
-Bad Example: The endpoint is different to the table name
+​Bad Example: The endpoint is different to the table name
 
 
 
 
-**Table name:** Employees
+**​Table name:** Employees
 **Endpoint:** /api/Employees
 
-Good Example: Table name is the same as the WebAPI endpoint
+​Good Example: Table name is the same as the WebAPI endpoint
 
 
 By making the endpoint the same as the table name, you can simplify development and maintenance of the WebAPI layer.
 
-In some circumstances you may not have direct control over the database however. In these situations it may make sense to have different endpoint names if doing so will simplify development for consumers of your WebAPI endpoints.
+In some circumstances you may not have direct control over the database however. In these situations it may make sense to have different endpoint names if doing so will simplify development for consumers of your WebAPI endpoints.​

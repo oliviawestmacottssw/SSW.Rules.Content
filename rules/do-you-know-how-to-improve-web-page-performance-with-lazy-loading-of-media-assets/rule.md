@@ -11,7 +11,7 @@ authors:
 
 If you are dealing with Content Management System (CMS), you are likely to play with pages with large amount of images and embedded videos. To improve the performance of those pages, and save bandwidth for the readers, loading content asynchronously (also called “lazy loading”) is recommended.
 
-It means the browsers will only load images and embedded videos in the visible area by default, then load the rest images and videos while users are scrolling down to them.
+​It means the browsers will only load images and embedded videos in the visible area by default, then load the rest images and videos while users are scrolling down to them. ​
  
 On our rules web site, one of the pages’ initial loading size of images reduced from 4.8MB to 500KB after being applied “lazy loading” of images:
 
@@ -27,7 +27,7 @@ On our rules web site, one of the pages’ initial loading size of images reduce
 [[goodExample]]
 | ![ Good Example - Do not load all embedded YouTube videos by default, only load them when they are visible while scrolling down the browsers](load-images-4.jpg)
 
-To implement lazy loading for image:
+​To implement lazy loading for image:
 
 1.	Check if the browser supports IntersectionObserver, if the browser supports IntersectionObserver, we will only load images and videos in the areas are visible to users by default. If the browser doesn’t support it, we will have to load all images and embedded videos on the page immediately after the page is loaded.
 
@@ -76,7 +76,7 @@ if (target.getAttribute('data-src')) {
         } 
 }
 
-// Get images of class lazy
+​// Get images of class lazy
 
 const images = document.querySelectorAll('.sswRuleSummaryUCDiv img');
 const config = {
@@ -91,17 +91,13 @@ let observer = new IntersectionObserver(onIntersection, config);
     observer.observe(image);
   });
 
-4.	More details can be found at           https://www.hanselman.com/blog/UpdatingJQuerybasedLazyImageLoadingToIntersectionObserver.aspx
+4.	More details can be found at           [https://www.hanselman.com/blog/UpdatingJQuerybasedLazyImageLoadingToIntersectionObserver.aspx​](https://www.hanselman.com/blog/UpdatingJQuerybasedLazyImageLoadingToIntersectionObserver.aspx)
 
 To implement lazy loading for embedded YouTube videos:
 
 1.	Use the same code as lazy loading images above, to check if IntersectionObserver is supported by browsers.
-2.	In your page html code, convert “” to “
-” (width, height, src has been converted too):
-
-From
-
-
+2.	In your page html code, convert “
+`youtube: https://www.youtube.com/embed/OhVYTOKCsWI`
 
 To
 
@@ -145,4 +141,5 @@ var youtube = document.querySelectorAll( "div[data-iframesrc]" );
                 } );    
     };
 
-4.	More details can be found at           https://webdesign.tutsplus.com/tutorials/how-to-lazy-load-embedded-youtube-videos--cms-26743
+​
+4.	More details can be found at           [https://webdesign.tutsplus.com/tutorials/how-to-lazy-load-embedded-youtube-videos--cms-26743 ​](https://webdesign.tutsplus.com/tutorials/how-to-lazy-load-embedded-youtube-videos--cms-26743)

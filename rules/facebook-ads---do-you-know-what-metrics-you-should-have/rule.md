@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Facebook ads have a limited run. Often, ads will work for a certain period and then become ineffective. It is important to monitor ads regularly to see if they are still performing.
+​​Facebook ads have a limited run. Often, ads will work for a certain period and then become ineffective. It is important to monitor ads regularly to see if they are still performing.
  
 
 

@@ -9,8 +9,10 @@ authors:
 
 ---
 
-Pro users can quickly subscribe to emails of the report pages that matter most. Once subscribed, Power BI will regularly send screenshots of the report page directly to your inbox.
+Pro users can quickly subscribe to emails of the report pages that matter most. Once subscribed, Power BI will regularly send screenshots of the report page directly to your inbox.​
  
- 
 
-Figure: Many people love getting reports in their inbox monthly
+`youtube: https://www.youtube.com/embed/saQx7G0pxhc`
+ 
+​​
+Figure: Many people love getting reports in their inbox monthly​​

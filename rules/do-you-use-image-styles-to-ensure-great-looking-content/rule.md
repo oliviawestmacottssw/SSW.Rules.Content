@@ -32,4 +32,4 @@ Figure: Bad Example - Inserting images and captions inside
 Figure: Bad Example - The image has no styles
 ```
 
-Figure: Good Example - Using the ,  and  tags for images
+Figure: Good Example - Using the ,  and  tags for images​<br>

@@ -9,8 +9,8 @@ authors:
 
 ---
 
-It's common for business logic to be added directly to the presentation layer. When building ASP.NET MVC systems, this typically means that business logic is added to controllers as per the following example:
- 
+​​It's common for business logic to be added directly to the presentation layer. When building ASP.NET MVC systems, this typically means that business logic is added to controllers as per the following example:​
+ ​
 [[badExample]]
 | ![ Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse](business-logic-presentation-layer-bad.png)
 
@@ -19,14 +19,14 @@ The logic in the above controller cannot be reused, for example, by a new consol
 CQRS stands for Command Query Responsibility Segregation. It's a pattern that I first heard described by Greg Young. At its heart is the notion that you can use a different model to update information than the model you use to read information
 ...
 There's room for considerable variation here. The in-memory models may share the same database, in which case the database acts as the communication between the two models. However they may also use separate databases, effectively making the query-side's database into a real-time reporting database.
-**Martin Fowler** - https://martinfowler.com/bliki/CQRS.html
+**Martin Fowler** - [https://martinfowler.com/bliki/CQRS.html ​](https://martinfowler.com/bliki/CQRS.html)
 
 CQRS means clear separation between Commands (Write operations) and Queries (Read operations).
-CQRS can be used with complex architectures such as Event Sourcing but the concepts can also be applied to simpler applications with a single database.
+CQRS can be used with complex architectures such as Event Sourcing but the concepts can also be applied to simpler applications with a single database.​
 
-MediatR is an open source .NET library by Jimmy Bogard that provides an elegant and powerful approach for writing CQRS, making it easier to write clean code.
+​MediatR is an open source .NET library by Jimmy Bogard that provides an elegant and powerful approach for writing CQRS, making it easier to write clean code.
 
-For every command or query, you create a specific request class that explicitly defines the “input” required to invoke the operation.
+For every command or query, you create a specific request class that explicitly defines the “input” required to invoke the operation.​
 
 ![ ](business-logic-presentation-layer-simple.png)
 (from MediatR docs) A Simple Request class
@@ -48,4 +48,4 @@ This approach brings many benefits:
 
 
 [[goodExample]]
-| ![MediatR simplifies the dependencies injected into the controller. The incoming web request is simply mapped directly to a MediatR request that orchestrates all the logic for this operation. The implementation and dependencies needed to complete “GetItemForEdit” are free to change without needing to change the controller class](business-logic-presentation-layer-good.png)
+| ![MediatR simplifies the dependencies injected into the controller. The incoming web request is simply mapped directly to a MediatR request that orchestrates all the logic for this operation. The implementation and dependencies needed to complete “GetItemForEdit” are free to change without needing to change the controller class​](business-logic-presentation-layer-good.png)

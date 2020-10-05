@@ -19,7 +19,7 @@ When programming in form based environments one thing to remember is not to refe
 It's a correct method of programming.
 
  
-Private Sub Command0\_Click()
+​​Private Sub Command0\_Click()
  CreateSchedule
 End Sub
 Sub CreateSchedule()
@@ -29,7 +29,7 @@ Sub CreateSchedule()
  dteDateEnd = Format(Me.ctlDateEnd, "dd/mm/yyyy")
  .....processing code
 End Sub
-Bad Example
+Bad Example​​
 
 Private Sub Command0\_Click()
  CreateSchedule(ctlDateStart, ctlDateEnd)
@@ -41,4 +41,4 @@ Sub CreateSchedule(pdteDateStart As Date, pdteDateEnd As Date)
  dteDateEnd = Format(pdteDateEnd, "dd/mm/yyyy")
  &....processing code
 End Sub
-Good Example
+​Good Example​​

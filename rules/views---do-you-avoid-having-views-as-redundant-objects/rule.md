@@ -9,4 +9,4 @@ authors:
 
 ---
 
-Don't have views as redundant objects. e.g. vwCustomers as SELECT \* FROM Customers. This is unnecessary. Instead, Views should be generally used for security.
+​Don't have views as redundant objects. e.g. vwCustomers as SELECT \* FROM Customers. This is unnecessary. Instead, Views should be generally used for security.​​

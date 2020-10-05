@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Wireless networks are everywhere now. You can't drive down the street without finding a network which is insecure. However, in an office environment, there is a lot more to lose than a bit of bandwidth. It is vital that wireless is kept secure.
+Wireless networks are everywhere now. You can't drive down the street without finding a network which is insecure. However, in an office environment, there is a lot more to lose than a bit of bandwidth. It is vital that wireless is kept secure.​
  
 WEP, No SSID broadcast, allowed MAC addresses are all OK but these are more home security.
 Figure: Bad example - the above settings are not suitable for a company's wireless access point
@@ -72,7 +72,7 @@ This document assumes you have some knowledge of how to configure your wireless 
 
 ![ How to register NAP server with AD    You should now have a Connection Request Policy and a Network Policy. Remove the MS-CHAP v1 authentication method from the network policy ](NPS.png)
 (under the constraint's tab).
-5. **Configure Certificate Auto enrolment**
+5. ​ **Configure Certificate Auto enrolment**
     First open Group Policy Management.
     1. Create a new GPO policy and name it "Cert\_Enrollment\_Wireless" or whatever name you deem suitable and link it to the root of the domain or a specific OU depending on your needs and OU structure
     2. Under the security filtering scope for what the policy gets applied to remove "Authenticated Users" and add your AD created. This ensures that the policy, once configured, is applied only to members of those groups.

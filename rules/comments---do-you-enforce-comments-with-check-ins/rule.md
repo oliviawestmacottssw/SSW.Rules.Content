@@ -17,18 +17,18 @@ authors:
 
 ---
 
-Team Foundation Server is great, and one of its neat features is enforcing comments when checking in code. Without comments, some of the other built in features like History become redundant without comments.  
+​Team Foundation Server is great, and one of its neat features is enforcing comments when checking in code. Without comments, some of the other built in features like History become ​redundant without comments.  
 
 
 
-*You should have good comments… if you are struggling use [this](http://programmingexcuses.com/).*
+*You should have good comments… if you are struggling use [this​​](http://programmingexcuses.com/).*
 
 
 
 
 
 [[badExample]]
-| ![ Bad Example: No Comments against the check-ins we don’t know what changes were made in each revision ](15-07-2014 10-21-04 AM.png) 
+| ![ Bad Example: No Comments against the check-ins we don’t know what changes were made in each revision ​](15-07-2014 10-21-04 AM.png) 
 
 
 [[goodExample]]
@@ -55,4 +55,4 @@ In Visual Studio 2013, to enforce this behaviour, you will need to:
 
 ![ Now you have the Changeset Comments Policy applied to your Team Project](15-07-2014 10-42-56 AM.png)
 
-Now the next time someone checks-in some code, they are forced to enter a comment.
+​Now the next time someone checks-in some code, they are forced to enter a comment.

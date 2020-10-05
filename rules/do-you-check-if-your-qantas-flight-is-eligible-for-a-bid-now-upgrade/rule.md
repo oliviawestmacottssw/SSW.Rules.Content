@@ -9,13 +9,13 @@ authors:
 
 ---
 
-Qantas has introduced a flight upgrade initiative called ["Bid Now"](http&#58;//www.qantas.com/travel/airlines/upgrade/global/en) that allows members of their frequent flyer program to place a "bid" to get their Economy class bookings upgraded to Business class. 
+​​​Qantas has introduced a flight upgrade initiative called ["Bid Now"](http&#58;//www.qantas.com/travel/airlines/upgrade/global/en) that allows members of their frequent flyer program to place a "bid" to get their Economy class bookings upgraded to Business class. 
 
 
 
 To make a bid, follow these simple steps:
  
-- Within 7 days of flying, visit the "Bid Now" page (if you've booked more than 7 days in advance, [use FollowUp Then to set a reminder for yourself](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=aa8c8dd3-1cd7-414c-b13e-d1a225e05ef0))
+- ​​​Within 7 days of flying, visit the "Bid ​Now"​ page (if you've booked more than 7 days in advance, ​[use FollowUp Then to set a reminder for yourself](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=aa8c8dd3-1cd7-414c-b13e-d1a225e05ef0))
 - Enter your last name and booking reference into the field provided
 - You will be asked to nominate a "bid" (set amount frequent flyer points and/money) for the upgrade, as you would in a blind auction
 - Within 24 hours of the flight, you will be notified if your bid was successful

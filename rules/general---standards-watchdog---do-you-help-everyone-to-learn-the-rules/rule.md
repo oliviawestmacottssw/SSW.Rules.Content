@@ -11,7 +11,7 @@ authors:
 
 *"An ounce of prevention is worth a pound of cure"*goes the saying. Having a strict coding standard is prevention. To create good code you must have good standards, such as commenting standards, naming standards, versioning standards and [knowing the value of consistency](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f23d23e1-b60c-4c9c-b1e3-887a2906f3cf).
 
-**But this can really only happen if you’re going to [go the extra mile](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=36598961-2933-4a95-ba4b-9ed702e405ef) and stick your neck out and correct someone.**
+**But this can really only happen if you’re going to [go the extra mile](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=36598961-2933-4a95-ba4b-9ed702e405ef) and stick your neck out and correct someone. **
   
 [[badExample]]
 | ![ Bad Example - Correcting someone in a mean way ](watchdog-mean.jpg) 
@@ -81,7 +81,7 @@ When you receive a great 'done' email or document, make sure you mention how gre
 
 It can be tempting to offer your feedback as soon as you think of it, but it's better to hold off until the recipient is in a place where they can hear it. If a person is busy, distracted, or in a poor emotional state, chances are your feedback won’t hit the mark. Wait until the person is calm and relaxed before asking them if now is a good time to offer your feedback.
 
-For more, check out [Do you know to create a safe space instead of jumping into feedback?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2c548b17-a4cb-47b1-bc04-c3038c3ff52e)
+For more, check out [Do you know to create a safe space instead of jumping into feedback?​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2c548b17-a4cb-47b1-bc04-c3038c3ff52e)
 
 
  
@@ -104,14 +104,14 @@ It's important to ensure others are doing their best to maintain and follow the 
 
 **To:** Peter
 **CC:** Adam (Manager)
-
+​
 Dear Peter,
 
 While you were away, I came across this page you edited, called ApplicationForm.aspx which was giving an error: 
 *'The conversion of a char data type to a DateTime data type resulted in an out-of-range DateTime value.'*
 
 Please note that whilst inserting data from your Front End application, you should not use the format **dd/mm/****yyyy**. 
-Instead, you should use **yyyy****/mm/dd** as per Rules to Better Databases.
+Instead, you should use **yyyy****/mm/dd **as per Rules to Better Databases.
 
 Let's fix it together when we get to work tomorrow.
 

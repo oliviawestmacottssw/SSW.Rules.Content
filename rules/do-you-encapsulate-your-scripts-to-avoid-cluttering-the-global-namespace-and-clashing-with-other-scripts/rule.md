@@ -12,38 +12,38 @@ var buttonClicked = false;
 function click()
 {
      buttonClicked = true;
-}
-Bad example - create variables and methods in the global namespace 
+}​
+​​​​​Bad example - create variables and methods in the global namespace 
 In order to avoid your variables and methods to be overwritten, it's best practice to encapsulate them.
 
-(function(ssw){
+​​(function(ssw){
     var buttonClicked = false; //private variable 
-    ssw.click = function(){ //public method
+    ssw.click = function(){​ //public method
     {
         buttonClicked = true;
     }
 }(window.SSW = window.SSW || {}));
-Good example - the variable and method are now encapsulate and under a distinct namespace
+​Good example - the variable and method are now encapsulate and under a distinct namespace
 
-By encapsulating your script using this anonymous function, you can as well pass some parameter to be used within it and again not worrying about being overwritten somewhere else. A very used library is jQuery, simply referred as $ in the code, although it's not common, in some cases you'll see the $ conflicting with some existing library and to avoid that we can pass jQuery as a parameter for this anonymous function then use $ freely inside that context.
+​​By encapsulating your script using this anonymous function, you can as well pass some parameter to be used within it and again not worrying about being overwritten somewhere else.​ A very used library is jQuery, simply referred as $ in the code, although ​it's not common, in some cases you'll see the $ conflicting with some existing library and to avoid that we can pass jQuery as a parameter for this anonymous function then use $ freely inside that context.
 
-(function(ssw,**$**){
+​​​(function(ssw,**$**){
     var buttonClicked = false; //private variable 
-    ssw.click = function() //public method
+    ssw.click = function()​ //public method
     {
         buttonClicked = true;
         **$('#id').html('&lt;span&gt;Example&lt;/span&gt;');**
     }
 }(window.SSW = window.SSW || {}, **jQuery**));
-Good example - jQuery being passed as parameter of the anonymous function
-Since JavaScript is very forgiving language, you could even redefine the meaning of *undefined* to something like *true*, which would probably make a lot of noise inside your code, to avoid this let's make sure that *undefined* is really *undefined* by completing this pattern this way:
+​​​Good example - jQuery being passed as parameter of the anonymous function
+​​​Since JavaScript is very forgiving language, you could even redefine the meaning of *undefined* to something like *true*, which would probably make a lot of noise inside your code, to avoid this let's make sure that *undefined* is really *undefined* by completing this pattern this way:
 
 (function(ssw,$,**undefined**){
     var buttonClicked = false; //private variable 
-    ssw.click = function() //public method
+    ssw.click = function()​ //public method
     {
         buttonClicked = true;
         $('#id').html('&lt;span&gt;Example&lt;/span&gt;');
     }
-}(window.SSW = window.SSW || {}, jQuery)); **//nothing added as the third parameter**
-Good example - making sure undefined is really undefined
+}(window.SSW = window.SSW || {}, jQuery));​ **//nothing added as the third parameter**
+​​​Good example - making sure undefined is really undefined

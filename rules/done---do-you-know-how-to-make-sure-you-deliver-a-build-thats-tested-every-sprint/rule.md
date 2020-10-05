@@ -25,7 +25,7 @@ What happens when you leave all the testing to the end of the sprint? You find t
 | ![ OK example – Send the “test please” before the end of the sprint so you have time to finish everything](RuleBuildEverySprintOK.png)
 
 
-It is preferable to conduct a **Smoke Test** to make sure that you are comfortable demoing the unit of work you just finished to the customer. One way to do this is to create a Coded UI test for each of the Stories as part of your Definition of Done (DoD) that runs through the functionality you have built.
+It is preferable to conduct a **Smoke Test **to make sure that you are comfortable demoing the unit of work you just finished to the customer. One way to do this is to create a Coded UI test for each of the Stories as part of your Definition of Done (DoD) that runs through the functionality you have built.
 
 In this scenario the “**test please**” with the customer happens outside of the current Sprint. 
 

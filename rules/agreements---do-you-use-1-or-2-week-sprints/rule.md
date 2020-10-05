@@ -10,7 +10,7 @@ authors:
 ---
 
 Depending on how much visibility you need on ongoing costs, you will have to decide whether to use 1 or 2 week development iterations.5 
-A 1 week sprint is for small projects (of &lt; 2 months) or if constant visibility into costs is an important factor, as it gives better feedback to the Product Owner (you)
+​A 1 week sprint is for small projects (of &lt; 2 months) or if constant visibility into costs is an important factor, as it gives better feedback to the Product Owner (you)
 Note: This can be at the cost of increased overheads.
 
 A 2 week sprint is the most common and allows a reasonable amount of work to be done for each release, while minimising Project Management overheads.

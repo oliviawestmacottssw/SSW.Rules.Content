@@ -17,7 +17,7 @@ Modern websites can use 3rd party dependencies from many different sources. This
  
 Many of these services are completely blocked inside other countries. China, in particular, currently blocks all the below:
 
-- Facebook
+- Facebook​
 - Google
 - YouTube
 - Vimeo
@@ -26,12 +26,11 @@ Many of these services are completely blocked inside other countries. China, in 
 
 Although China is the most well-known country for blocking sites, other countries also block services - like Google (e.g. Iran, Syria) and YouTube (e.g. Pakistan, Syria).
 
-![ Blocked sites as per <br>      ](social-media-blocked.png)
-[freebrowsinglink.com/countries-banned-social-media](https://www.freebrowsinglink.com/countries-banned-social-media/)
+![](social-media-blocked.png)​Figure: Blocked sites as per <br>      [freebrowsinglink.com/countries-banned-social-media​](https://www.freebrowsinglink.com/countries-banned-social-media/)
 
 If the runtime operation of your site depends upon these services, your website will either fail or perform poorly for users in China. Start by reviewing how many of these services are essential, what they do and whether there are China-based equivalents. The fewer external dependencies in your site, the easier it will be to Chinafy.
 
-Every attempted request to a blocked service can add serious delays to your site's performance as each one can take over a minute to timeout. When loading a page, browsers have a limit on the number of simultaneous connections they will open. Google Chrome, for example, will support 6 connections to one domain and 10 connections overall. If all those connections get used attempting to connect to blocked resources, the entire page loading process can stall for minutes!
+Every attempted request to a blocked service can add serious delays to your site's performance as each one can take ​over a minute to timeout. When loading a page, browsers have a limit on the number of simultaneous connections they will open. Google Chrome, for example, will support 6 connections to one domain and 10 connections overall. If all those connections get used attempting to connect to blocked resources, the entire page loading process can stall for minutes!
 
 To measure the impact of this, you need to be able to browse the website from inside China. From there you can open the site and collect performance measurements from the network tab of your browser's dev tools.
 

@@ -10,7 +10,7 @@ authors:
 ---
 
 If you want to know your website is working or not, you need to add a ping check to the machine also an HTTP Content Scan to the website in WhatsUp. We use WhatsUp to do real-time monitoring.
-Follow these steps to check your website in WhatsUp: 
+​Follow these steps to check your website in WhatsUp: 
 1. Add your website as a new device.  
 ![ New device](running1.GIF) 
 

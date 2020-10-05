@@ -27,7 +27,7 @@ Here are some resources on the topic:
 Photo: courtesy of goleansixsigma.com ([source](https://goleansixsigma.com/apply-5s-home-office-desk/)).
 
 
-  
+​  
 ![](Apply-5S_Desk-04_GoLeanSixSigma.com_.jpg) Good example - A clean and productive workspace following the 5S methodology
 
 Photo: courtesy of goleansixsigma.com ([source](https://goleansixsigma.com/apply-5s-home-office-desk/)).

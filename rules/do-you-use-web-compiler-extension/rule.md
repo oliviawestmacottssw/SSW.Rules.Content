@@ -20,4 +20,4 @@ More information and download at [Visual Studio Marketplace](https://marketplace
 
 In addition, Gulp is wrongly successful too:
 
-![ Gulp couldn't find the curly braces error](gulp-didnt-find-error.png)
+![ Gulp couldn't find the curly braces error​](gulp-didnt-find-error.png)

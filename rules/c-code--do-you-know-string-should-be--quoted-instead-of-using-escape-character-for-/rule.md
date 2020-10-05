@@ -13,7 +13,7 @@ The @ symbol specifies that escape characters and line breaks should be ignored 
 
 As per:  [Strings](http&#58;//msdn.microsoft.com/en-us/library/c84eby0h%28v=vs.90%29.aspx)
  
-string p2 = "\\My Documents\\My Files\\";
+​string p2 = "\\My Documents\\My Files\\";
 Figure: Bad example - Using "\\"
 string p2 = @"\My Documents\My Files\";
-Figure: Good example - Using @
+Figure: Good example - Using @​​

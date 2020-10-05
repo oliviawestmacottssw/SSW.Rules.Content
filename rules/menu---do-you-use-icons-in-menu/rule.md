@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-Plain menu items make your application look normal and less expressive. 
+Plain menu items make your application look normal and less expressive.   ​
 [[badExample]]
 | ![ Bad Example - Plain menu](../../assets/BetterUI_PlainMenu.gif)
 

@@ -17,10 +17,10 @@ Here are some recommended solutions to eliminate Cold Starts:
  
 **Microsoft Azure Functions**
 
-- Add warm-up request
+- ​Add warm-up request
 
 
-Use a timer trigger function to keep the Azure Functions application warm. If you know that at a certain time of a day the Function App is likely to be cold and so you wake it up just before you expect users to send out requests.
+Use a timer trigger function to keep the Azure Functions application warm. If you know that at a certain time of a day the Function App is likely to be cold and so you wake it up just before you expect users to send out requests. ​​
 
 - Move to App Service Plan
 
@@ -35,7 +35,7 @@ Use a timer trigger function to keep the Azure Functions application warm. If yo
 **Firebase Functions on Google Cloud Platform**
 
 - In Node.js code, export all the functions your want to deploy to cloud functions. And import / require dependencies inside the function. So that each function call will only load the dependency it needs instead of loading all dependencies in the index.ts file.
-- Warm up request - Create a separate function that works on a timer. The function can run at some time interval that you know your app will not be cold.
+- ​Warm up request - Create a separate function that works on a timer. The function can run at some time interval that you know your app will not be cold.
 - If cold starts are unbearable, convert to other infrastructure such as App Engine .
 
  

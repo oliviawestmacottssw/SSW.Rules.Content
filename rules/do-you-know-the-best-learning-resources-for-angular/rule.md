@@ -13,21 +13,21 @@ authors:
 
 ---
 
-Here are the best collection of resources for Angular.
+​​Here are the best collection of resources for Angular.
 
-![ Download the ](The-Little-Book-of-Angular-v1-8.jpg)
+![ Download the​​ ](The-Little-Book-of-Angular-v1-8.jpg)
 [Little Book of Angular](/SiteCollectionDocuments/Little-Book-Angular.pdf)
  
-### Free Resources 
+### Free Resources ​​
 
 
-- **[The official documentation - Angular.io](https://angular.io/)**
-- **NDC Sydney****- Angular War Stories** - http://bit.ly/ndc-sydney-ng2-war-stories
-- **SSW TV** - http://tv.ssw.com/?s=angular
+- **[​​The official documentation - Angular.io​](https://angular.io/)**
+- **NDC Sydney ****- Angular War Stories** - http://bit.ly/ndc-sydney-ng2-war-stories
+- ​**SSW TV **- http://tv.ssw.com/?s=angular
 
 
 
-### Training Courses
+### Training Courses​​
 
 
 - **[FireBootCamp 1-day Course](https://firebootcamp.com/angular-superpower-tour/)**
@@ -44,8 +44,8 @@ Here are the best collection of resources for Angular.
 
 
 
-### Free Events
+### Free Events​​​​​
 
 
-- **[Angular Hack Day](https://angularhackday.com/)**
+- **[Angular Hack Day​](https://angularhackday.com/)**
 - **Your local JavaScript or Angular User Group**** **- https://www.meetup.com/

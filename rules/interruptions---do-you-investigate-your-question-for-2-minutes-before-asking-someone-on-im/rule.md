@@ -17,6 +17,5 @@ Always do a quick investigation before asking for help. When asking a question u
 
 IM can interrupt a person when they are busy, so make sure that you are well prepared and have tried to find the solution another way first.
 
- 
-![ Don't make someone else have to ](lmgtfy.jpg)
-[Google something for you](http://lmgtfy.com/)
+ ​
+![](lmgtfy.jpg)​Figure: Don't make someone else have to [Google something​ for you​​](http://lmgtfy.com/)

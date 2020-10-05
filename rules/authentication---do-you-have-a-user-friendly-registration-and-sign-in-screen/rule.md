@@ -10,7 +10,7 @@ authors:
 ---
 
 For a web site that expects a lot of first-time visitors, it is wise to put the                     user registration form on the same page as the sign in dialog. This saves having the                     user click on another link to enter their details.
- 
+​ 
 [[badExample]]
 | ![ non-friendly sign in screen](BadloginDialog.gif) 
 

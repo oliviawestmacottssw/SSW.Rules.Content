@@ -13,13 +13,13 @@ authors:
 
 ---
 
-A fixed price - fixed scope project sounds good but doesn't always end up with the result either the client or the developers expect and sometimes the key players can end up disappointed.
+​A fixed price - fixed scope project sounds good but doesn't always end up with the result either the client or the developers expect and sometimes the key players can end up disappointed.​
 
 There are 4 main reasons...
  
 1. You can’t predict the future
     - Waterfall project planning has been proven to not  deliver over 30 years of trying... The Gartner Group says 74% of failed software  projects in the last 2 years
-    - See the Cone of Uncertainty to see the range of cost  change at different stages through a project:
+    - See the Con​e of Uncertainty to see the range of cost  change at different stages through a project:
 
 
 ![ The cone of uncertainty in software cost and size estimation](cone-of-uncertainty.jpg)

@@ -11,7 +11,7 @@ authors:
 
 ---
 
-How often do you find files on your network file server that clearly shouldn't be there? Developers are notorious for creating temporary files and littering your file system with them. So how can you identify exactly who created or modified the file, and when?
+How often do you find files on your network file server that clearly shouldn't be there? Developers are notorious for creating temporary files and littering your file system with them. So how can you identify exactly who created or modified the file, and when?​
 
   
 ![ Who created this file? ](DuplicateFile.png) 
@@ -46,7 +46,7 @@ Now you need to configure the system event log.
 ![ Keep your log file to about 250MB - otherwise, your system performance may suffer](networkauditing_04.gif) 
 
 
-
+ ​       
 ### Checking who created the file
 
 Now test to see if auditing is working.
@@ -72,4 +72,4 @@ Done, now you need only double-click to start it.
 ![ Caught an action on remote server and logged it to database](EventLogger.gif) 
 
 
-This script is originally from [http://pubs.logicalexpressions.com/pub0009/LPMArticle.asp?ID=340](https://www.ssw.com.au/ssw/Redirect/logicalexpressions.htm).
+This script is originally from [http://pubs.logicalexpressions.com/pub0009/LPMArticle.asp?ID=340](https://www.ssw.com.au/ssw/Redirect/logicalexpressions.htm).​​

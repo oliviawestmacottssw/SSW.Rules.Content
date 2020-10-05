@@ -9,8 +9,8 @@ authors:
 
 ---
 
-It is common to have a Contact Detail table to store your contact information such as phone numbers. Below is an example of a Contact Detail table and its related tables. This is bad because the PartyPhone table is too specific for a phone number and you have to add a new table to save an email or other contact information if this is needed in the future.
- 
+It is common to have a Contact Detail table to store your contact information such as phone numbers. Below is an example of a Contact Detail table and its related tables. This is bad because the PartyPhone table is too specific for a phone number and you have to add a new table to save an email or other contact information if this is needed in the future.​
+ ​
 [[badExample]]
 | ![ Bad Example - A too specific Contact Detail table](ContactDetailTable_bad.png)
 
@@ -21,5 +21,5 @@ We normally have a general Contact Detail table that includes all the different 
 
 We use a Contact Detail Category table to store these categories.
 
-[[goodExample]]
-| ![ Good Example - Details of Contact Detail Category table](ContactDetailCategoryTable.png)
+![](ContactDetailCategoryTable.png)​
+Figure: Good Example - Details of Contact Detail Category table​

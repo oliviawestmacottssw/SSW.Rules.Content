@@ -11,7 +11,7 @@ authors:
 
 ---
 
-It's better to use links to a portal or document store instead of having attachments in your emails.
+​I​​t's better to use links to a portal or document store instead of having attachments in your emails.
 
 If you're sending to a fellow employee, use a link to a document store on your intranet (e.g. intranet.northwind.com/SharedDocuments)
 
@@ -33,14 +33,14 @@ Using the Document ID Feature in SharePoint will help minimise broken links unde
 1. Company Restructures / SharePoint restructures
 2. Records Management – when items are moved to the Record Centre
 
-
+​
 [[goodExample]]
 | ![ Good Example - The use of the SharePoint Document ID as part of the link ](insert_link_in_email_to_sharePoint_item_with_document_id-png.png)
 (URL) formation
 If you are using a shared DropBox, then put in a reference like so:
 
-I've moved the file to our DropBox at: 
-SSW\_Designers/Project – FireBootCamp/Admin/FireBootCamp-USA-Ultra-Advert.pptx
+​​I've moved the file to our DropBox at:​ 
+​SSW\_Designers/Project – FireBootCamp/Admin/FireBootCamp-USA-Ultra-Advert.pptx
 
 ### Related Rule
 

@@ -8,7 +8,7 @@ authors: []
 ---
 
 It is very important to use a clear information icon to show the current status. The icon should be consistent with the actual status.
- 
+   ​
 [[badExample]]
 | ![ Bad Example - The icon is not consistent with the actual status](../../assets/wrongIconStatus.gif)
 

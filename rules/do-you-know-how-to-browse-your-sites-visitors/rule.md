@@ -9,7 +9,7 @@ authors:
 
 ---
 
-in the Chat section, with the Visitors activity, you can see is a real-time list of all the visitors currently on your website. It helps summarize all visitor information at a glance, including information about their browser, operating system, location, pages visited, and referral page.
+in the Chat section, w​ith the Visitors activity, you can see is a real-time list of all the visitors currently on your website. It helps summarize all visitor information at a glance, including information about their browser, operating system, location, pages visited, and referral page.
  
 **Monitoring your website visitors **
 
@@ -23,7 +23,7 @@ The Visitors activity gives you a birds-eye view of all the visitors on your web
 - **Active Visitors: **Visitors who are moving around the website and clicking on links.  <br>
 
 
-Click the **List **tab** **to view visitors in a list, as shown above, or click **Visual** to see visitors in visual mode.
+Click the **List **tab** **to view visitors in a list, as shown above, or click **Visual** to see visitors in visual mode.​
 
 **Grouping visitors **
 
@@ -51,6 +51,6 @@ Unlike the standard Visitor List, the High Load Dashboard only shows Incoming an
 
 1. From the dashboard, go to **Settings **> **Account** > **Visitor List **tab.
 2. Select the **High Load Dashboard **check box.  <br>      
-![](zendesk-visitors-3.png)
+![](zendesk-visitors-3.png)​
 3. Click **Save Changes**.
 4. Return to the Dashboard and verify that only Incoming and Currently served chats appear.

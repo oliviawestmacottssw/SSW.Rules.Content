@@ -28,5 +28,5 @@ Outlook makes this easy:
 Reasons you might want to Reply All to an Appointment include:
 
 1. Continuing the conversation after a meeting
-2. Reminding someone about an upcoming meeting (especially if you know they have unwieldy calendars)
+2. Reminding someone about an upcoming meeting (especially if you know they have unwieldy calendars)​
 3. Getting more information before a meeting

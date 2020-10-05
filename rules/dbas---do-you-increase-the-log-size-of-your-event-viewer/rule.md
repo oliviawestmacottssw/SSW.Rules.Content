@@ -9,11 +9,11 @@ authors:
 
 ---
 
-Change the defaults from 20480KB to 64000KB and Overwrite as needed. This will allow the users to view Security audits and errors much further into the past with a minimal increase in space - and it will never bloat your server.
- 
+​Change the defaults from 20480KB to 64000KB and Overwrite as needed. This will allow the users to view Security audits and errors much further into the past with a minimal increase in space - and it will never bloat your server.​
+ ​
 [[badExample]]
 | ![ Bad Example - Using a small log size](EventViewer_BadSmallLogSize.png)
 
 
 [[goodExample]]
-| ![ Good Example - Using a reasonable log size](EventViewer_GoodReasonableLogSize.png)
+| ![ Good Example - Using a ​reasonable log size](EventViewer_GoodReasonableLogSize.png)

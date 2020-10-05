@@ -13,7 +13,7 @@ authors:
 
 Long hard-coded strings in a codebase can be a sign of poor architecture.
  
-To make hard-coded strings easier to find, [consider highlighting them in your IDE](/do-you-highlight-strings-in-your-code-editor).
+​To make hard-coded strings easier to find, [consider highlighting them in your IDE](/do-you-highlight-strings-in-your-code-editor).
 
 [[badExample]]
 | ![ Bad Example - The connection string is hard-coded and isn't easy to see in the IDE.](LongStringBadExample.png)

@@ -11,4 +11,4 @@ authors:
 
 [Angular](https&#58;//www.ssw.com.au/ssw/Consulting/Angular.aspx) is great  for building large enterprise applications but it is a full framework that works best as a full application.
 
-[React](https&#58;//www.ssw.com.au/ssw/Consulting/React.aspx), however, is easier to embed on another framework or application such as Office 365 or Sharepoint.
+[React](https&#58;//www.ssw.com.au/ssw/Consulting/React.aspx)​, however, is easier to embed on another framework or application such as Office 365 or Sharepoint.

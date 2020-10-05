@@ -26,4 +26,4 @@ The following instructions to create Microsoft CRM 2016 mail merge template requ
 9. Click Addins | CRM
 10. Follow on screen instructions on the right panel of the word document to create the template.
 
-![ Follow the instructions to create template content](mail-merge-3.jpg)
+![ Follow the instructions to create template content​](mail-merge-3.jpg)

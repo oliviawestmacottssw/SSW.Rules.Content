@@ -18,7 +18,7 @@ If you choose to not join the domain, the machine management is all yours, givin
 Below some pros and cons of joining the domain:
 
 
-|  | **Pros (+)**<br> | **Cons (-)**<br> |
+| ​ | **Pros (+)**<br> | **Cons (-)**<br> |
 | --- | --- | --- |
 | Machine Management<br> | Client management through GPOs (Group Policy Objects)<br> | Lack of autonomy<br> |
 | Resource Access<br> | Direct access to resources (e.g. fileserver)<br> | Needs to sign in first, or be attached to a VPN or the network to access resources<br> |

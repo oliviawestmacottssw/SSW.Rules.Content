@@ -9,6 +9,6 @@ authors:
 
 ---
 
-Columns ending with 'ID' should have FOREIGN KEY constraints.
- 
-![ Missing relationships](NorthwindRelationships.jpg)
+Columns ending with 'ID' should have FOREIGN KEY constraints​.
+ ​
+![ Missing relationships​](NorthwindRelationships.jpg)

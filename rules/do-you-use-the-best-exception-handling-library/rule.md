@@ -11,17 +11,17 @@ authors:
 
 ---
 
-When developing software, exceptions are a fact-of-life you will need to deal with. Don't reinvent the wheel, use an existing exception handling library or service.
+​​When developing software, exceptions are a fact-of-life you will need to deal with. Don't reinvent the wheel, use an existing exception handling library or service.
 
-The best exception handling service is [Application Insights for Visual Studio Online](/rules-to-better-application-insights-for-visual-studio-online), but if you can't use that, then use [ELMAH](https://www.nuget.org/packages/elmah/).
+​​​The best exception handling service is [Application Insights for ​Visual Studio Online​](/rules-to-better-application-insights-for-visual-studio-online), but if you can't use that, then use [ELMAH​](https://www.nuget.org/packages/elmah/).
 
-Your users should never see the “yellow screen of death” in ASP.NET, or the “unhandled exception” message in a Windows application. Errors should always be caught and logged – preferably in a SQL database.
+Your users should never see the “yellow screen of death” in ASP.NET, or the “unhandled exception” message in a Windows application. Errors should always be caught and logged – preferably in a SQL database.​
 
 
  
-At SSW we use Application Insights for Visual Studio Online.
+​At SSW we use Application Insights for Visual Studio Online.
 
-*Application Insights will tell you if your application goes down or runs slowly under load. If there are any uncaught exceptions, you’ll be able to drill into the code to pinpoint the problem. You can also find out what your users are doing with the application so that you can tune it to their needs in each development cycle.<br>*
+​     *Application Insights will tell you if your application goes down or runs slowly under load. If there are any uncaught exceptions, you’ll be able to drill into the code to pinpoint the problem. You can also find out what your users are doing with the application so that you can tune it to their needs in each development cycle.<br>*​
 
 If Application Insights for Visual Studio Online is not available we use ELMAH when developing web applications. From its <br>      [NuGet page](https://www.nuget.org/packages/ELMAH):
 

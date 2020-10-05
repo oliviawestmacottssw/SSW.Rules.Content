@@ -9,14 +9,14 @@ authors:
 
 ---
 
-管理严格的项目团队每天都在同一时间会进行Scrum会议。
+管理​严格的项目团队每天都在同一时间会进行Scrum会议。
 注意：它过去被称为‘站立会议’，但是那样似乎对坐轮椅的人有歧视 （我跟你开玩笑的），最好还是通过站立的方式完成，这样会议将简短、高效，要知道没有人愿意站在那里闲聊。
 
-与会者每人要回答三个关键问题：
+与会者每人要回答三个关键问题：​​​​​​
  
-1.  昨天做了什么？（你是否更新了TFS/其它任务跟踪系统的工作项？）
+​1.  昨天做了什么？（你是否更新了TFS/其它任务跟踪系统的工作项？）
 
-2. 你今天要做什么？（我当前的任务已经在白板上了）
+2. 你今天要做什么？（我​当前的任务已经在白板上了）
 
 3. 你是否碰到困难？
 
@@ -36,7 +36,7 @@ authors:
 
 
 
-****视频: 微软的每日Scrum会议(长)**
+<br>​​****视频: 微软的每日Scrum会议(长)**
 
 ** **
 
@@ -73,7 +73,7 @@ Hi ,
 
 
 谢谢,
- 
+**​  ** 
 
 示例：在Outlook中设置每日Scrum会议预约模板
 
@@ -90,7 +90,7 @@ Hi ,
 提前保证团队成员的任务状态被更新，这样会议会更有效率。
 SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meeting-do-you-update-your-tasks-before-the-daily-scrum)
 
-建议 5：不要涉及详细内容保证你的回答简洁明了，不要偏离那三个关键问题，记着使用“Parking Lot”记录下问题以便在会议后进行讨论。
+​建议 5：不要涉及详细内容​保证你的回答简洁明了，不要偏离那三个关键问题，记着使用“Parking Lot”记录下问题以便在会议后进行讨论。
 
 建议 6：不要打电话+不要检查邮件+不要分心科技可以使开会的人们失去了焦点，会议的焦点是使人们通过分享他们正在做什么来同步团队进度。在Scrum会议中通过禁止邮件，短信和电话以保证人们不会被分心。
 
@@ -100,7 +100,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 人们可以通过任务板看到当前正在讨论的问题。
 
 
-![](tfspreviewtaskboard.png)  
+![](tfspreviewtaskboard.png)​  
 **图：TFS ****Preview****中的任务板****(TFS 2012)**
 
 **
@@ -137,7 +137,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 > “将这条规则扩展到‘价值的流动’，而不仅仅是人。保持着一个持续化流动的理念在脑海中，Scrum会议将会更少的关注人....
 > 它是关注于价值的流动的。团队站在白板前，每个人浏览那些‘正在进行中’的工作项，试着找出推进它能进入到下一个阶段的方法...同时要考虑到工作项相互之间的约束。”
 > 
-> [Joel Semeniuk](http://joelfromcanada.com/)
+> [Joel Semeniuk​](http://joelfromcanada.com/)
 
 
 更多的信息：
@@ -151,7 +151,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 
 ![](NewStandUpImage.jpg)
 
-图：如果有重大事故发生，每日Scrum会议可以提醒每个人并且集中所有的资源到一个问题上。如果一把尖刀插进了你的眼睛，而你却给擦伤的膝盖贴创可贴是没有任何意义的。
+​图：如果有重大事故发生，每日Scrum会议可以提醒每个人并且集中所有的资源到一个问题上。如果一把尖刀插进了你的眼睛，而你却给擦伤的膝盖贴创可贴是没有任何意义的。​
 
-![](dailyscrumtweet.png)
-图：喜欢请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https://twitter.com/#%21/AdamCogan/status/168175594209681408)
+![](dailyscrumtweet.png)​
+图：喜欢请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https://twitter.com/#%21/AdamCogan/status/168175594209681408) ​

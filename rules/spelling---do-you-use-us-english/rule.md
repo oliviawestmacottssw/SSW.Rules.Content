@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Did you know that all pilots around the world must speak English? Back then, the decision of what language to use was English, since the US invented the first plane. Like the sky, in the web world, it is better to use one version of English. Since the US invented the web, let's go with that.
+​Did you know that all pilots around the world must speak English? Back then, the decision of what language to use was English, since the US invented the first plane. Like the sky, in the web world, it is better to use one version of English. Since the US invented the web, let's go with that.
  
 If you are an Australian or British this rule is controversial, but it is worth it for the following reasons:
 

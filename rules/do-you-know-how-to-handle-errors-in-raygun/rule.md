@@ -30,18 +30,18 @@ This is where RayGun or Application Insights comes into the picture. RayGun give
 [[badExample]]
 | ![ Bad Example - Elmah gives you a wall of exceptions and no way to flag exceptions as completed ](elmah.gif) 
 
-**Hi Adam,** 
+**Hi Adam, **
 Please find below the Raygun Health Check for TimePro:
 
 ![ Raygun health check for TimePro in the past 7 days ](Raygun-health-check-for-TimePro-in-the-past-7-days.jpg)
 
-
-![ Resolved issues in the past 7 days](2.png)
-
-
-
-![ The next issue to be worked on](3.jpg)
+​
+![ Resolved issues in the past 7 days​](2.png)
 
 
-[https://rules.ssw.com.au/how-to-handle-errors-in-raygun/](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6d5e516d-1f5e-4baa-929c-2c45b9bfa15e)>
-   Figure: Email with Raygun application health report
+
+![ The next issue to be worked on​](3.jpg)
+
+
+[https://rules.ssw.com.au/how-to-handle-errors-in-raygun/](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6d5e516d-1f5e-4baa-929c-2c45b9bfa15e)>​
+   Figure: Email with Raygun application health report​​​

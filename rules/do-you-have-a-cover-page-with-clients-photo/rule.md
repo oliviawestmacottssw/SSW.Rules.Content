@@ -9,12 +9,12 @@ authors:
 
 ---
 
-Add a photo of the client on your proposal cover to make your proposal memorable.
+Add a photo of the client on your proposal cover to make your proposal memorable.​
  
 Search for the client photo in Google Images or Facebook:
 
 - "Tom Northwind" Australia
-- "Tom Northwind" Facebook
+- "Tom Northwind" Facebook​
 
 
-![ Remember to add a photo of the client](Proposals_ClientPhoto.jpg)
+![ Remember to a​​dd a photo of the client](Proposals_ClientPhoto.jpg)

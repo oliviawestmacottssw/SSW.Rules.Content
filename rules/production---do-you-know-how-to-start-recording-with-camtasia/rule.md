@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Follow these steps to start recording using Camtasia:<br>
+Follow these steps to start recording using Camtasia:<br>​
  
 1. Set your screen resolution to as high as possible but do not exceed 1920 x 1080 for a 16:9 display, or 1920 x 1200 for a 16:10 display. If your screen resolution is too low then you will either have to expand the footage in post-production (which will result in a loss of quality) or release a low-resolution video (which will become poor quality when watched in full screen).
  
@@ -35,10 +35,10 @@ Follow these steps to start recording using Camtasia:<br>
 ![ Check the audio levels7. After you have done all these things, click on 'OK', and then hit the big red 'Rec' button to start recording](record-camtasia-3.jpg) 
 !
 
-
+ ​​  
 **Tip:** Alternatively, you can use [Loom](https://www.useloom.com/), which works as a Google Chrome extension.
 
 ### Related Rule
 
 
-- [Do you know how to record the screen on a Mac?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2934ebec-62ef-4dcf-a300-bd4f84f211c8)
+- [Do you know how to record the screen on a Mac?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2934ebec-62ef-4dcf-a300-bd4f84f211c8)​

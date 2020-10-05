@@ -13,7 +13,7 @@ authors:
 
 ---
 
-You must be careful when combining search and filtering functionality as this can lead to unexpected search results, which can easily confuse if not infuriate your users. Therefore you should always, give the option to widen the search when a filter is applied.
+​​You must be careful when combining search and filtering functionality as this can lead to unexpected search results, which can easily confuse if not infuriate your users. Therefore you should always, give the option to widen the search when a filter is applied.
  
 
 ![Find more (1).png](Find more (1).png)
@@ -24,6 +24,6 @@ You must be careful when combining search and filtering functionality as this ca
 
 
 
-![](SearchOption-Good.png)
+![](SearchOption-Good.png)​
 
   Good: Search reminds the user that the search criteria can be widen to show more result

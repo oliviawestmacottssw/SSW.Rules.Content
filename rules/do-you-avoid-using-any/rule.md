@@ -19,4 +19,4 @@ Aim to use any in the same way that you use the dynamic keyword in C# - that is,
 | ![ Bad example – I can pass anything into this method, so I get bad output at run time ](any-bad.png)
 (“undefined undefined”)
 [[goodExample]]
-| ![ Good example – using types means I get errors and intellisense support ](any-good.png)
+| ![ Good example – using types means I get errors and intellisense support  ​  ](any-good.png)

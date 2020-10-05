@@ -22,7 +22,7 @@ For supporting end users' workstation machines remotely, here is the order you s
 - [TeamViewer](http://www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaTeamViewer.aspx)
 - [Skype](http://www.skype.com/) - via screen share
 - [Skype for Business (previously Lync)](https://www.skype.com/en/business/skype-for-business/)
-- [Aeroadmin](https://www.aeroadmin.com/en/)
+- [Aeroadmin​](https://www.aeroadmin.com/en/)
 - [Mikogo](https://www.mikogo.com/) (Free)
 - [JoinMe](https://www.join.me/) (Free)
 - [UltraVNC](http://www.ssw.com.au/ssw/Standards/Support/RemoteSupportViaUltraVNC.aspx) (Free)
@@ -39,6 +39,6 @@ Remote Desktop works for workstations, but it's not recommended due to a securit
 
 If you can't use TeamViewer, Skype, or Remote Desktop, you can try VNC. There are a number of VNC servers and clients available. VNC-based sessions typically behave as if you're physically using the computer. This means that it shares the same login session with the user who is currently logged on the machine. VNC software allows you to configure a specific username and password for remote access, which means that you don't have to share Windows usernames and passwords or create a temporary Windows user account. Some clients may also prefer this as they can sit in and watch what is happening.
 
-The VNC tools we prefer: [TightVNC](http://www.ssw.com.au/ssw/Redirect/tightvnc.htm) and [Ultra VNC](http://www.ssw.com.au/ssw/Redirect/ultravnc.htm).
+The VNC tools we prefer: ​​[TightVNC](http://www.ssw.com.au/ssw/Redirect/tightvnc.htm) and​ [Ultra VNC](http://www.ssw.com.au/ssw/Redirect/ultravnc.htm).
 
 Read [SSW Remote Support Standard](http://www.ssw.com.au/ssw/Standards/Support/RemoteSupportSampleScript.aspx).

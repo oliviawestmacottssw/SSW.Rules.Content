@@ -11,13 +11,13 @@ authors:
 
 ---
 
-These are the steps you should take when request a "test please" :
+​These are the steps you should take when request a "test please" :
 
 1. Find two free testers to send the email below
 2. Stop working on the project until you receive either a "pass" or "fail" email
 3. Create your "test please" following this template: (refer to Windows Forms or Email templates below)
 
-**Subject: Test Please - Product Name v1.11**
+**Subject: Test Please - Product Name v1.11**​
 
 Dear [XXX],
 
@@ -71,14 +71,14 @@ Thanks, [XXX]
 **Subject: Product Name v1.11**
 
 Test please
-
+ ​ ​
 
 Dear [XXX],
 
 I am looking for bugs or approval to release this version.
 
 I have done what I could for my code's health. E.g.
-6. **Note to ** ** developer: **If current version is better than the last version you can release (even with a test fail) as long:
+6. ​ <br>      **Note to ** ** developer: **If current version is better than the last version you can release (even with a test fail) as long:
     - The bugs reported in the test fail existed in the old version
     - Two people have tested it
     - The changes in this version are fairly important to get out
@@ -87,4 +87,7 @@ I have done what I could for my code's health. E.g.
 8. Use TFS to email the work items to the project manager and client:  
 ![ TFS makes it easy to export work items  ](tfs-backlog-email.jpg) 
 
-![ How the email is generated](tfs-backlog-email-2.jpg)
+![ How the email is generated](tfs-backlog-email-2.jpg) 
+
+
+​

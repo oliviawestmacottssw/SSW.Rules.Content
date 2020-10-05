@@ -17,4 +17,4 @@ The best way to avoid this issue is to use Tests. These double check your core l
 
 This is a "Pay now -pay much less later" approach.
 
-More reasons for writing tests can be found on [Peter's blog](http&#58;//blog.gfader.com/2010/10/why-are-automated-tests-so-important.html).
+More reasons for writing tests can be found on [Peter's blog](http&#58;//blog.gfader.com/2010/10/why-are-automated-tests-so-important.html).​

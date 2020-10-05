@@ -26,7 +26,7 @@ With ASP.NET 4 it is easy to create this URLs. The ASP.NET team includes routing
 
 
 ```
-protected void Application_Start(object sender, EventArgs e){    //RouteTable and PageRouteHandler are in System.Web.Routing    RouteTable.Routes.Add("ProductRoute",        new Route("products/{productname}",        new PageRouteHandler("~/ssw/Products/ProdCategoryList.aspx")));}
+protected void Application_Start(object sender, EventArgs e){    //RouteTable and PageRouteHandler are in System.Web.Routing    RouteTable.Routes.Add("ProductRoute",        new Route("products/{productname}",        new PageRouteHandler("~/ssw/Products/ProdCategoryList.aspx")));}​
 ```
 
 Figure: Example on how to route www.ssw.com.au/products/{everything} to the www.ssw.com.au/ssw/Products/ProdCategoryList.aspx page 

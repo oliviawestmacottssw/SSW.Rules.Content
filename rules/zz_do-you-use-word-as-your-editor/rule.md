@@ -11,7 +11,7 @@ authors:
 
 ---
 
-In Microsoft Outlook you have the option to use Word as your Email editor. 
+​In Microsoft Outlook you have the option to use Word as your Email editor. 
  
 ## 
 

@@ -29,6 +29,9 @@ This could then be screen-shared for remote meeting attendees and is easily save
  
 ![ Samsung flipchart can be flipped from horizontal to vertical](samsung-flip.png) 
 
+
+
+`youtube: https://www.youtube.com/embed/koFmsg8TaUU?rel=0`
 - **Microsoft Surface Hub 2** (coming - about $5K)
 
 
@@ -52,10 +55,10 @@ I believe whiteboards are a sign of an old office… and they are ugly. They’r
 Sometimes they are useful and I know some people really like them (generally older people).
 I have seen the digital whiteboards (usually targeted at teachers) but I think they are horrible to use.
 The common scenario is for a spec review. I am always happy when I see devs using their device and casting to the TV. And the subsequent notes get saved to Microsoft Teams.
-
+ ​  
 ### #5 Writable wall -  Low tech (ugly)
 
 
 Low tech (ugly) – Paint a wall to be writable or put some writable film on an office glass wall
  
-![ Writable walls can be dirty even after cleaning up ](writable-walls.jpg)
+![ Writable walls can be dirty even after cleaning up​ ](writable-walls.jpg)

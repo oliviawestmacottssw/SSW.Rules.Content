@@ -8,7 +8,7 @@ authors: []
 ---
 
 'Less is more' is the idea that simplicity and clarity lead to good design. The interface design is an attempt to solve the problem of how to communicate clearly.
- 
+   ​
 How to make a user interface great:
 
 - Less is more - keep your design as simple and uncluttered as possible

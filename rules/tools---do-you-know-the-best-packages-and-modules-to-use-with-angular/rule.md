@@ -15,7 +15,7 @@ authors:
 
 ---
 
-You can improve your Angular  development experience by using some of these recommended packages and modules.
+​​You can improve your Angular  development experience by using some of these recommended packages and modules.
 
 
 We recommend you use NPM to include them. 
@@ -47,6 +47,6 @@ A library for loading spinner specifically for Angular 4/5/6.
 ### ngx-toastr
 
 A library for displaying toasts in Angular applications.
-[https://www.npmjs.com/package/ngx-toastr](https&#58;//www.npmjs.com/package/ngx-toastr)
+[https://www.npmjs.com/package/ngx-toastr​](https&#58;//www.npmjs.com/package/ngx-toastr)
 
 For more, please check out the most popular npm packages: [https://www.npmjs.com/search?q=ng&ranking=popularity](https&#58;//www.npmjs.com/search?q=ng&amp;ranking=popularity).

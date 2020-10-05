@@ -27,7 +27,7 @@ Always add "To myself" in the email body - not on the subject - so that other pe
 
 **To:** Jay Lin
 **Cc: **Adam Cogan, Lei Xu   
-**Subject:** Add bad example to Rules to Better UI -  Progress bar
+**Subject: **Add bad example to Rules to Better UI -  Progress bar
 
 -----------
 
@@ -36,7 +36,7 @@ As per my conversation with Lei, the rule on progress bar is missing a bad examp
 
 1. Add bad example to Rules to Better UI - progress bar - https://rules.ssw.com.au/long-process-do-you-show-the-status-of-progress-bar-on-winforms-title
 
-Figure: Good Example - Send yourself an email, and make it clear to everyone else
+Figure: Good Example - Send yourself an email, and make it clear to everyone else​​
 ### Tip: Include an estimate and priority too 
 
 When you write a "To Myself" email, it is even better when you include an estimate and the priority, so the expectations are set better.

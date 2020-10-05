@@ -17,5 +17,5 @@ index:
 ---
 So you’ve got a Marketing Plan, now what? Do you know how to get all of your ideas down on paper and make sure all of the time and effort doesn’t go to waste?
 
-One of the most common things to happen is for companies to write a Marketing Plan, use it once, and then forget about it! So how do you avoid this common scenario?
+​One of the most common things to happen is for companies to write a Marketing Plan, use it once, and then forget about it! So how do you avoid this common scenario? ​​​​
 

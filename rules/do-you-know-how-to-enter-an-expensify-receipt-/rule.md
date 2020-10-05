@@ -32,7 +32,7 @@ Required fields are then identified by an asterisk when you are uploading an exp
 
  
 [[goodExample]]
-| ![ Good Example - You can see the fields marked with an asterisk that they are required fields. To claim an expense from SSW, you need to give the "Name of Merchant", the "Date" of purchase, "Total", and a "Category". Most of this information is completed for you by the smart scan and there is still room to add a manual "Comment" for more complicated claims if required](Expensify1.png)  
+| ![ Good Example - You can see the fields marked with an asterisk that they are required fields. To claim an expense from SSW, you need to give the "Name of Merchant", the "Date" of purchase, "Total", and a "Category". Most of this information is completed for you by the smart scan and there is still room to add a manual "Comment" for more complicated claims if required​](Expensify1.png)  
 
 
 If you complete these fields, it will make your reports much nicer to read and easier to claim.

@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-After upgrading, some third-party tools will no longer work.  Check for updates for these tools.
+​After upgrading, some third-party tools will no longer work.  Check for updates for these tools.
  
 a.               [TeamCompanion](http&#58;//www.teamcompanion.com/download/)  
 TeamCompanion version 5.2 Update 1 officially supports up to Outlook 2013 and Team Explorer 2013.

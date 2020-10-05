@@ -25,9 +25,9 @@ VSTS is the best home to put it and share it across their organization because:
 Sharing source or binaries via File Shares or Version Control
 Bad example
 
-Sharing source or binaries via 3rd party tools like ProGet, MyGet
-
-OK example
+​Sharing source or binaries via 3rd party tools like ProGet, MyGet
+​
+OK example​​
 
 Sharing source or binaries via packages created using VSTS Team Build
 Good example
@@ -41,7 +41,9 @@ Good example: Sharing source or binaries via packages created using Sonatype Nex
 Already supports Component Governance
 ### Additional info <br>      
 
+ ​ <br>   
 
+`youtube: https://www.youtube.com/embed/r-nVWDq1QBg`
  
 
 - At 2:50 Mario Rodriguez talks about the bad ways customers share code

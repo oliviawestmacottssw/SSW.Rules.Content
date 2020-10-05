@@ -10,10 +10,10 @@ authors:
 ---
 
 Named parameters have always been there for VB developers and in C# 4.0, C# developers finally get this feature.
-
+​​​
  
-You should use named parameters under these scenarios:
+​You should use named parameters under these scenarios:
 
 - When there are 4 or more parameters
 - When you make use of optional parameters
-- If it makes more sense to order the parameters a certain way
+- If it makes more sense to order the parameters a certain way​​

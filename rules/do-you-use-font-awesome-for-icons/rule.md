@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Bootstrap comes with a good font-based icon library to use in your web application, but there is an even better one you should use whenever you are using Bootstrap.   When building a web application, it is common that you will need icons in the UI. Traditionally, this has been done with images (e.g. png, jpg) which leads to a lot of resource management.  
+​​​​​​​​​​Bootstrap comes with a good font-based icon library to use in your web application, but there is an even better one you should use whenever you are using Bootstrap.​   When building a web application, it is common that you will need icons in the UI. Traditionally, this has been done with images (e.g. png, jpg) which leads to a lot of resource management.  
 [[badExample]]
 | ![ using images for application icons](23-06-2014 11-20-02 AM.png) 
 
@@ -24,13 +24,13 @@ Using it on your project is easy, just add the following stylesheet to your app:
 
 ```
 href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" 
-   rel="stylesheet" />
+   rel="stylesheet" />​
 ```
 
 
 Then you have access to over 350 icons. Here are a few commonly used ones:
 
-
+​​​
 Figure: Examples of Font Awesome icons
 
 The HTML is easy, e.g.  to add the above trashbin icon.

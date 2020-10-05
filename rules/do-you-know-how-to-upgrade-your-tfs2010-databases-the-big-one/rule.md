@@ -13,7 +13,7 @@ We recommend doing a [move to a new environment](/Pages/MigrationChoices.aspx) b
 
 Note that these steps will also work for upgrading from TFS 2012 RC to RTM, or RTM to Update 1.
  
-These are the steps to migrate and upgrade to a new environment:
+​These are the steps to migrate and upgrade to a new environment:
 
 1. [Send an email](http://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterNetworks.aspx#rebootrestart) to let everyone know the TFS server will be offline.
 2. Take the TFS 2010 server offline

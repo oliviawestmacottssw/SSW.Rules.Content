@@ -11,9 +11,9 @@ authors:
 
 ---
 
-If you use a Team per client, it is likely that you want to have a link between your Teams instances and the associated CRM record.
+If you use a Team per client, it is likely that you want to have a link between your Teams instances and the associated CRM record.​​
  
-At SSW we have a custom property for each client that stores the Teams URL:
+​At SSW we have a custom property for each client that stores the Teams URL:​​​
 
 ![ Live CRM | Company/Account Form – added Teams URL field](live-crm.jpg)
 

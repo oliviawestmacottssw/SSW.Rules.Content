@@ -9,4 +9,4 @@ authors:
 
 ---
 
-Follow [Rules to Better Flights](/rules-to-better-flights).
+​Follow [Rules to Better Flights](/rules-to-better-flights).​

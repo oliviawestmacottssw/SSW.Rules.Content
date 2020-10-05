@@ -9,8 +9,8 @@ authors:
 
 ---
 
-This is how you free up more disk space on servers: 
+This is how you free up more disk space on servers:​ 
 1. Check sql backups
 2. Check sql logs
 3. Use TreeSizePRO to find disk spaces issues
-4. Use [CCleaner](http&#58;//www.piriform.com/ccleaner) to automatically clean any temporary or junk files on the server
+4. Use ​[CCleaner](http&#58;//www.piriform.com/ccleaner) to automatically clean any temporary or junk files on the server

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Data in Azure Storage accounts is protected by replication. Deciding how far to replicate it is a balance between safety and cost.
+Data in Azure Storage accounts is protected by replication. Deciding how far to replicate it is a balance between safety and cost.​
 
 ![ It is important to balance safety and pricing when choosing the right replication strategy for Azure Storage Accounts ](azure-graphic.jpg)
 
@@ -36,14 +36,14 @@ Data in Azure Storage accounts is protected by replication. Deciding how far to 
 - In the event of a failure at the primary region, Azure Storage will failover to the secondary region.
 - Ensures that your data is durable in two separate regions.
 - Use when:
-    - o Data cannot be recovered if lost
+    - o Data cannot be recovered if los​t
 
 **Read access geo-redundant storage (RA-GRS).** 
 - Replicates your data to a secondary geographic location (same as GRS)
 - Provides read access to your data in the secondary location
 - Allows you to access your data from either the primary or the secondary location, in the event that one location becomes unavailable.
-- Use when:
+- Use when:​
     - o Data is critical, and access is required to both the primary and the secondary regions
 
-More reading
-- [Azure Storage Redundancy Option](https://msdn.microsoft.com/en-us/library/azure/dn727290.aspx)
+​More reading
+- [Azure Storage Redundancy Option ​](https://msdn.microsoft.com/en-us/library/azure/dn727290.aspx)

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Is your code DRY? If a logic (a piece of code) will occur more than once, please make it a method and call it whenever it's used. This will reduce redundancy, decrease maintenance effort, improve efficiency and reusability, and make the code more clear to read.
+Is your code DRY? ​​If a logic (a piece of code) will occur more than once, please make it a method and call it whenever it's used. This will reduce redundancy, decrease maintenance effort, improve efficiency and reusability, and make the code more clear to read.​​​​
  
 public class WarningEmail
 {
@@ -84,4 +84,4 @@ sSmtpClient.Credentials = new NetworkCredential(pUser, pPwd, pDomain);
 sSmtpClient.Send(sMessage);
 } 
 }
-Good Example: Put the same logic in a method and make it reusable
+Good Example: Put the same logic in a method and make it reusable​

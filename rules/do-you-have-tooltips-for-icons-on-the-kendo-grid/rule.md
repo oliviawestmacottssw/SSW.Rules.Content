@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Icons make your user interface clean, but users sometimes need further information about the operation they are about to perform.
+Icons make your user interface clean, but users sometimes need further information about the operation they are about to perform.​
  
 [[goodExample]]
 | ![ Good Example - Tooltips](kendo-tooltips.jpg)

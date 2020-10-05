@@ -11,7 +11,7 @@ authors:
 
 ---
 
-State management is complex and time-consuming.
+​State management is complex and time-consuming.​​​​​
  
 The redux pattern helps resolve this issue.
 

@@ -22,14 +22,14 @@ They both have the same meaning, but the first one is immediately visible wherea
  
 
 
-If the ID column in your database is a string data type, it is useful to add a constraint to limit the types of characters that it can contain. Adding a constraint can make it simpler to build your front-end, as you won't need to worry about encoding or escaping to handle special characters.
+If the ID column in your database is a string data type, it ​is useful to add a constraint to limit the types of characters that it can contain. Adding a constraint can make it simpler to build your front-end, as you won't need to worry about encoding or escaping to handle special characters.
 
 
 
 In SQL Server, you can add a check constraint that limits your column to alphanumeric characters, a hyphen, or underscore using the following T-SQL:
 
-ALTER TABLE [TableName] ADD CONSTRAINT CK\_String\_Identifier
-    CHECK ([StringIdColumn] NOT LIKE'%[^a-zA-Z0-9\_\-]%')
+ALTER TABLE [TableName] ADD CONSTRAINT CK\_String\_Identifier​
+    CHECK ([StringIdColumn] NOT LIKE'%[^a-zA-Z0-9\_\-]%')​
 
 
 

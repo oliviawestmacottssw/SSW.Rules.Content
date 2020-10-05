@@ -15,7 +15,7 @@ authors:
 
 ---
 
-![ When you use Check-in policies you often will need to select a work item that you selected recently](SelectARecentWorkItem.jpg)
+![ When you use Check-in policies you often will need to select a work item that you selected recently​](SelectARecentWorkItem.jpg)
 
  
 

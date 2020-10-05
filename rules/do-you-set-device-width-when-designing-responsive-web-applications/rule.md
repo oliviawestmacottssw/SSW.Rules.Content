@@ -14,8 +14,8 @@ Since we want our website to render corectly for all screen sizes, we specify th
 
 
 ```html
-<meta name="viewport" content="width=device-width" />
+<meta name="viewport" content="width=device-width" />​
 ```
 
 
-This ensures the browser always renders at the correct resolution for the device.
+​This ensures the browser always renders at the correct resolution for the device.

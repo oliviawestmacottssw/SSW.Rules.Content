@@ -9,7 +9,7 @@ authors:
 
 ---
 
-### What is a postmaster account? 
+### ​What is a postmaster account? 
 
 It is an RFC mandated specification email address use to identify the administrator of a mail server. Any errors in email processing are directed to the postmaster address.
 
@@ -17,4 +17,4 @@ The email received at this address is sent to the mail server administrator, in 
  
 At SSW we have configured     postmaster@ssw.com.au as a distribution group, with mail server administrators as members of this distribution group.
 
-![ Group members of postmaster@ssw.com.au](postmaster.png)
+![ Group members of postmaster@ssw.com.au​](postmaster.png)

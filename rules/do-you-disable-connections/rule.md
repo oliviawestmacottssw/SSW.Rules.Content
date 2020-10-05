@@ -32,7 +32,7 @@ e.              For each Team Project Collection, select it, and click "Stop Col
 ![ All Team Project Collections are stopped](all team project.png)
 
 
-
+​
 
 f.               In Visual Studio, confirm you can no longer connect to TFS
 

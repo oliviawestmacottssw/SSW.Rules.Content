@@ -19,4 +19,4 @@ Project Server 2013 offers a solution that integrates with TFS work items.
 
 ![ Project Server 2013 pulls work items from TFS and updates the actual and remaining hours](tfs-timesheets.jpg)
 
-If you want a timesheeting solution built on top of Microsoft CRM and Azure DevOps, See [www.SSWTimepro.com](https://sswtimepro.com/) or call SSW on **+61 2 9953 3000**.
+If you want a timesheeting solution built on top of Microsoft CRM and Azure DevOps, See [www.SSWTimepro.com](https://sswtimepro.com/) or call SSW on **+61 2 9953 3000**.​

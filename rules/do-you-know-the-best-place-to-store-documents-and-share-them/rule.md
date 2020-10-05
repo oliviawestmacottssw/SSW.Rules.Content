@@ -13,7 +13,7 @@ authors:
 
 ---
 
-There is a myriad of options to choose from when storing and sharing documents, some examples include:
+​​​​​There is a myriad of options to choose from when storing and sharing documents, some examples include:
 
 - SharePoint
 - OneDrive or Dropbox or Google Drive
@@ -43,13 +43,13 @@ Behind the scenes, storage is provided by a SharePoint site; so that is there if
 | ![ Good Example - You can sync the files in SharePoint with your current machine through OneDrive. A toast notification should popup indicating that files will be synced.](teams - sync onedrive.png)
 
 **Note:** You can add other cloud storage providers for file storage e.g. Google Drive, Dropbox, etc     
-This is not recommended - as they aren't first-class citizens i.e. if you want to share files from them, you need to go to the provider's sharing settings outside of Teams
+This is not recommended - as they aren't first-class​ citizens i.e. if you want to share files from them, you need to go to the provider's sharing settings outside of Teams
 
 
 **Warning:** By using Teams instead of SharePoint, you are losing a number of key features:
 - No full fidelity support for Metadata in Document Libraries e.g. can’t add extra columns into the “Files” tab
 - No support for private channels e.g. you will need a team per subset of users with different permissions
 - No direct access to version history from Teams UI (still exists on SharePoint UI)
-- No access to the cross-office365 Search feature e.g. SharePoint search is better (see video: <br>         https://youtu.be/TiWzzdASVWE)
+- No access to the cross-office365 Search feature e.g. SharePoint search is better (see video: <br>         [https://youtu.be/TiWzzdASVWE​](https://youtu.be/TiWzzdASVWE))
 - No access to external content in the search feature e.g. can’t search rules.ssw.com.au
-- No access to SharePoint designer workflows (although the new way to do it is Microsoft Flow)
+- No access to SharePoint designer workflows (although the new way to do it is Microsoft Flow)​

@@ -9,15 +9,15 @@ authors:
 
 ---
 
-**1. Bit data type**
+**​​​​1. Bit data type**
 **
 **
 Bit data from 0 to 1 (2 values only). Storage size is 1 byte.
 
-Columns of type bit cannot have indexes on them.
+Columns of type bit cannot have indexes on them.​
 
 
-Columns of type bit should be prefixed with "Is" or a "Should" ie. IsInvoiceSent (y/n) or ShouldInvoiceBeSent (y/n) you can tell easily which way the boolean is directed. [[more information on naming conventions](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=4be22043-306c-4c6f-b9b6-ec2ff37be97e)]
+​​Columns of type bit should be prefixed with "Is" or a "Should" ie. IsInvoiceSent (y/n) or ShouldInvoiceBeSent (y/n) you can tell easily which way the boolean is directed. [[more information on naming conve​ntions​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=4be22043-306c-4c6f-b9b6-ec2ff37be97e)]
 This being said, fields of this type should generally be avoided because often a field like this can contain a date i.e. DateInvoiceSent (Date/Time) is prefered over InvoiceSent (y/n). If a date is inappropriate then we still recommend an int field over a bit field anyway, because bits are a pain in the butt :-)
 
 
@@ -25,7 +25,7 @@ This being said, fields of this type should generally be avoided because often a
 
 
  
-**2. Tinyint data type**
+**2. ​Tinyint data type**
 
 Integer data from 0 through 255. Storage size is 1 byte.
 
@@ -39,7 +39,7 @@ Integer (whole number) data from -2^31 (-2,147,483,648) through 2^31-1 (2,147,48
 
 **5. Bigint data type**
 
-Integer (whole number) data from -2^63 (-9223372036854775808) through 2^63-1 (9223372036854775807). Storage size is 8 bytes.
+Integer (whole number) data from -2^63 (-9223372036854775808) through 2^63-1 (9223372036854775807). Storage size is 8 bytes.​​
 
 **Recommended:**
 

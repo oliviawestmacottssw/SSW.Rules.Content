@@ -19,7 +19,7 @@ Following this rule will ensure the right NuGet packages and Visual Studio Ext
 
 
 - [Angular.UI.Boot](http&#58;//www.nuget.org/packages/Angular.UI.Bootstrap/)strap  
-Check out the whole suite of tools from the [Angular UI](http&#58;//angular-ui.github.io/) team.
+Check out the whole suite of tools from the [Angular UI](http&#58;//angular-ui.github.io/) team.​
 - 
 - [AngularJS.Core](http&#58;//www.nuget.org/packages/AngularJS.Core/)
 This core package only has the minimum Angular references to get started. Other Angular packages like [AngularJS.Route](https&#58;//www.nuget.org/packages/AngularJS.Route/) can be added as needed in addition to this.

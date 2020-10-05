@@ -16,9 +16,9 @@ If you don't then the client will ignore your email.
 These are the 5 things that you should include in your follow-up email:
 
  
-1. Record what was said in the conversation including:
+1. ​Record what was said in the conversation including:
     - the projects they are working on
-    - their priorities
+    - their priorities​
     - the technologies they are interested in
 2. When you will call them back
 3. Other relevant answers to questions in the script you are using.
@@ -28,7 +28,7 @@ These are the 5 things that you should include in your follow-up email:
 
 
 
-All this information is important as it gives the next salesperson who speaks to this person a good background on your interaction with them.
+​All this information is important as it gives the next salesperson who speaks to this person a good background on your interaction with them.
 
 **To Marlon,**
 

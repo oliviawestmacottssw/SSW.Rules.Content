@@ -27,4 +27,4 @@ Remove unsupported columns such as:
 - Get rid of MicroFeed
 
 
-![](avoid-errors-sp-migration3.png)Bad example: Sharegate migration report shows error if MicroFeed(s) have not been removed
+![](avoid-errors-sp-migration3.png)Bad example: Sharegate migration report shows error if MicroFeed(s) have not been removed​

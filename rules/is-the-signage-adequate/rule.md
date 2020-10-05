@@ -9,7 +9,7 @@ authors: []
 
 Make sure your event is well signposted, so your attendees can find not only the venue, but also important areas within it.
  
-Your signage could include the following
+​Your signage could include the following
 
 - Directions from nearby transport, such as train stations and bus stops
 - Registration area

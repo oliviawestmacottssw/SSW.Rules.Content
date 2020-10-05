@@ -13,7 +13,7 @@ If the option only contains 2 choices, and the answer is a Boolean type value wh
 | ![ Bad Example - Boolean options not using CheckBox](../../assets/NotUsingCheckBox.gif)
 
 [[goodExample]]
-| ![ Good Example - A CheckBox is used for Boolean type value ](../../assets/UsingCheckBox.gif)
+| ![ Good Example - A CheckBox is used for Boolean type value   ​](../../assets/UsingCheckBox.gif)
 
 Only 1 CheckBox is used as the opposite value is clear, such controls are often CheckBoxes in a ListView too. E.g.:
 

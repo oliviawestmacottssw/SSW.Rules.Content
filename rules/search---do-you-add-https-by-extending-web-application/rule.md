@@ -7,7 +7,8 @@ authors: []
 
 ---
 
-It is recommended to bind https by extending web applications in central admin site, rather than configuring in IIS
+​​It is recommended to bind https by extending web applications in central admin site, rather than configuring in IIS
  
 ![](configurationInIIS.jpg)Bad example: Add https binding in IIS
-![](extendwebapplication.jpg)Good example: Extend web application and assign https to the Internet zone
+![](extendwebapplication.jpg)​Good example: Extend web application and assign https to the Internet zone
+​​

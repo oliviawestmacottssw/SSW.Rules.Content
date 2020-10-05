@@ -12,7 +12,7 @@ The **last** thing a user wants is to be stuck waiting around for a long-running
 - They do not know how long the process will last (adds uncertainty to the user experience)
 - They cannot stop the process (creates lack of control in the user experience)
 
- 
+   ​
 Instead, keep users happy with your application by:
 
 - Showing status description information above the progress bar

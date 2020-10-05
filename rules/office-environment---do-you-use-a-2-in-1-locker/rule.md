@@ -9,7 +9,7 @@ authors:
 
 ---
 
-It's important to provide a physical space for each employee to receive packages and mails.
+​​It's important to provide a physical space for each employee to receive packages and mails.
  
 The locker should have a slot for mail, so you don't need 2 different locations.
  

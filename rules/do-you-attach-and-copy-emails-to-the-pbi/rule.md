@@ -17,17 +17,17 @@ authors:
 
 ---
 
-While working on a task or PBI, it is very important that you save any discussions or contextual information related to the work completed. This helps for future understanding of what happened as well as providing relevant documents that support your research claims.
+​​While working on a task or PBI, it is very important that you save any discussions or contextual information related to the work completed. This helps for future understanding of​ what happened as well as providing relevant documents that support your research claims.
  
-![](no-email-attached.png)Bad Example: An important research task that hasn't is missing records of communication
-![](email-in-the-description.png)Good Example: Email is copied to the description
+![](no-email-attached.png)​​​​Bad Example: An important research task that hasn't is missing records of communication
+![](email-in-the-description.png)​Good Example: Email is copied to the description
 
-![](email-attached-to-the-pbi.png)Good Example: Related emails are attached to the PBI
-When attaching an email to the PBI, consider whether or not a response to the email is required. The sender will usually expect a response when the issue is resolved. If a response is required, update the Acceptance Criteria with a note. E.g. 
-Send a done email in reply to the original email (attached).
+![](email-attached-to-the-pbi.png)​Good Example: Related emails are attached to the PBI
+When attaching an email to the PBI, consider whether or not a response to the email is required. The sender will usually expect a response when the issue is resolved. If a response is required, update the Acceptance Criteria with a note. E.g.​ 
+Send a done email in reply to the original email (attached).​
 
-### Related rules
+### Related rules​
 
 
 - [Do you know the 3 steps to a PBI?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2c4dfc14-8084-4277-ae5e-7f5f692e4065)
-- [Dones - Do you send yourself emails?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=5c16d531-007d-49ef-8acc-b26596e13e84)
+- [Dones - Do you send yourself emails?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=5c16d531-007d-49ef-8acc-b26596e13e84)

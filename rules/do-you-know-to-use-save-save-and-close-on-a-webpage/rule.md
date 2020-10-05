@@ -13,9 +13,9 @@ authors:
 
 ---
 
-When the user is creating or editing data on a webpage, there are 2 buttons and one link you need to provide.
+​​When the user is creating or editing data on a webpage, there are 2 buttons and one link you need to provide.
  
-These three options are:
+​These three options are:
 
 - Save (button) - Saves the data and allows the user to keep editing
 - Save and Close (button) - Saves the data and returns to the previous screen
@@ -51,4 +51,4 @@ These three options are:
 **Further Reading:**
 
 
-- **[SSW Rule - Do you make your cancel button less obvious?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e256302c-c486-4046-b202-a6b2020a5229)**
+- **[​​​SSW Rule - ​​Do you make your cancel button less obvious?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e256302c-c486-4046-b202-a6b2020a5229)​**

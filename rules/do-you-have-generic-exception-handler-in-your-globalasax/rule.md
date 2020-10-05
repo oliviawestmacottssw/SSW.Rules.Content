@@ -11,11 +11,11 @@ authors:
 
 Add your code to handle generic exception of your ASP.NET application in Application\_Error.
  
-private static readonly ILog log = LogManager.GetLogger(typeof(MvcApplication));
+​​private static readonly ILog log = LogManager.GetLogger(typeof(MvcApplication));
 
         protected void Application\_Error(object sender, EventArgs e)
         {
             Exception ex = Server.GetLastError().GetBaseException();
             log.Fatal("Unhandled Exception", ex);
         }
-Figure. Exception handler in Global.asax.cs
+​Figure. Exception handler in Global.asax.cs​

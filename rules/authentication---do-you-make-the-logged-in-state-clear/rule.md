@@ -8,7 +8,7 @@ authors: []
 ---
 
 Remember to make the "logged in" state clear enough to help the user know the current state.
- 
+   ​  
 ![ Bad Example on Web form - The user is logged in, but it isn't very clear](../../assets/weblogin_bad.gif)
 
 ![ Good Example on Web form - It's clear that the user is logged in](../../assets/weblogin_good.gif)

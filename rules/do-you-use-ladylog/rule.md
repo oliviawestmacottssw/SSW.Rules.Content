@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Your users should never see the "unhandled exception" message in Windows Forms, WPF and Silverlight. You should always log errors somewhere (preferably a SQL database).
+​Your users should never see the "unhandled exception" message in Windows Forms, WPF and Silverlight. You should always log errors somewhere (preferably a SQL database).
  
 [[badExample]]
 | ![ your users should never have unhandled exceptions in Windows Forms](ladylog-bad.jpg)

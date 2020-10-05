@@ -17,10 +17,10 @@ Additionally to the reasons found on rule [Do you always deploy Release builds 
 According to [MSDN web developer tips](https&#58;//blogs.msdn.microsoft.com/), you can choose one of the following to release build your web application
 
     - In web.config file, set &lt;compilation debug="false"/&gt;
-    - Disable the &lt;compilation debug="true"/&gt; switch for all ASP.NET applications on the server by setting the following in Machine.config
+    - Disable the &lt;compilation debug="true"/&gt; switch for all ASP.NET applications on the server by setting the following in Machine.config​
 
  
-&lt;system.web&gt; &lt;deployment retail="true"/&gt; &lt;/system.web&gt;
-The setting in machine.config will also turn off trace output in a page and detailed error messages remotely
+​&lt;system.web&gt; &lt;deployment retail="true"/&gt; &lt;/system.web&gt;
+​​​The setting in machine.config will also turn off trace output in a page and detailed error messages remotely
 
-Machine.config file is typically located at %SystemRoot%\Microsoft.NET\Framework\%VersionNumber%\CONFIG.
+​Machine.config file is typically located at %SystemRoot%\Microsoft.NET\Framework\%VersionNumber%\CONFIG.​​

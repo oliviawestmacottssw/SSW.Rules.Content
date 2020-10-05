@@ -11,7 +11,7 @@ authors:
 
 ---
 
-When it comes to the easiest and quickest<br>way to share files between designers, it should all be done in Dropbox.
+​When it comes to the easiest and quickest<br>way to share files between designers, it should all be done in Dropbox.
  
 [[badExample]]
 | ![ Bad example – TFS takes too long to set up and too slow to use](Designer-Source-Control-TFS.png) 

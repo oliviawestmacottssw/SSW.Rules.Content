@@ -8,6 +8,6 @@ authors: []
 ---
 
 If users want to make some information public, then make it easy for them.
- 
+   ​ 
 [[goodExample]]
 | ![ Good example – User can easily share information via 6 avenues, Google+, Twitter, Facebook, email, SMS, and copy to clipboard for pasting.](../../assets/social-networks.jpg)

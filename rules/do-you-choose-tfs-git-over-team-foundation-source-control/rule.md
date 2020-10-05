@@ -13,7 +13,7 @@ Only a madman would write software today without using source control.
 
 Apart from being the easiest way to back-up your code, and having the ability to go back to a previous state, source control provides a huge number of benefits, especially when integrated with Continuous Integration servers, and Continuous Deployment solutions.
  
-But which source control solution should I choose?
+But which source control solution should I choose?​​
 
 [[badExample]]
 | ![ Bad Example - Unless you have time-travelled back to 1999, you should not be using Visual Source Safe](git-1.jpg)
@@ -23,7 +23,7 @@ But which source control solution should I choose?
 
 [[badExample]]
 | ![ Bad Example - Team Foundation Source Control – Server Workspaces. This is the source control that we have been using in TFS for years. It’s great, even on large code bases, except for when you are not connected to the TFS server. ](git3.jpg)
-(Image from <br>      http://bit.ly/why-tfs-git)
+(Image from <br>      [http://bit.ly/why-tfs​-git​](http://bit.ly/why-tfs-git))
 [[badExample]]
 | ![ Bad Example – Team Foundation Source Control – Local Workspaces. It’s great for when you are not connected to the TFS Server, except for when your code-base is very large. ](git4.jpg)
 (Image from <br>      http://bit.ly/why-tfs-git)

@@ -11,7 +11,7 @@ authors:
 
 ---
 
-The start point of your branding is the logo. From there everything the company produces or owns should "feel" like it comes from your company. When you walk by a pile of documents on a desk, you should recognize that it's from your company. It's not just plonking the logo everywhere.
+The start point of your branding is the logo. From there everything the company produces or owns should "feel" like it comes from your company. When you walk by a pile of documents on a desk, you should recognize that it's from your company. It's not just plonking the logo everywhere.​
 
 These are things to keep in mind for good branding:
  
@@ -36,4 +36,4 @@ View [SSW Web References](https://www.ssw.com.au/ssw/company/Web-Reference.aspx)
 You should help designers to find stuff in your Intranet:
 
 [[goodExample]]
-| ![ Good Example - Keep things together in your Intranet](intranet.jpg)
+| ![ Good Example - Keep things together in your Intranet ​  ](intranet.jpg)

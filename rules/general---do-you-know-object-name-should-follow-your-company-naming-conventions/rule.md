@@ -9,9 +9,9 @@ authors:
 
 ---
 
-1. [SQL Server Object Naming Standard](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=93beacde-8efd-4084-8d48-66c87e91c221) SSW's Standard for naming SQL Server Objects.
+1. ​​[SQL Server Object Naming Standard](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=93beacde-8efd-4084-8d48-66c87e91c221) SSW's Standard for naming SQL Server Objects.
 2. [SQL Server Stored Procedure Naming Standard](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=c7421f43-0f83-4bd8-adba-6924b29c83cf) SSW's Standard for naming Stored Procedures.
-3. [SQL Server Indexes Naming Standard](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=356a81d0-09f5-42ba-b257-5657f85fd939) SSW's Standard for naming Indexes.
+3. [SQL Server Indexes Naming S​tandard](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=356a81d0-09f5-42ba-b257-5657f85fd939) SSW's Standard for naming Indexes.
 4. [SQL Server Relationship Naming Standard](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b2ebc7fb-471a-44b6-85ee-6c4a055341a0) SSW's Standard for naming Relationships
 5. Use decreasing generality for table names ie. Client and ClientInvoice, then ClientInvoiceDetail.
 6. Don't use underscores, instead use upper and lower case ie. ClientInvoice is preferred over Client\_Invoice.

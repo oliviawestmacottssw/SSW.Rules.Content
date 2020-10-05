@@ -15,4 +15,4 @@ It's recommended that you use a standard message like this:
 
 "Hi, you've reached Adam Cogan from SSW. If you can leave your name, number and a short message I'll get back to you as soon as I can, thanks!"
 
-Here's an [example of how it should sound](https&#58;//www.ssw.com.au/ssw/Standards/Rules/sounds/PhoneMessage.wav).
+Here's an [example of how it should sound](https&#58;//www.ssw.com.au/ssw/Standards/Rules/sounds/PhoneMessage.wav).​

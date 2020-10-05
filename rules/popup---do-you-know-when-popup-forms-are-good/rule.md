@@ -14,7 +14,7 @@ Popup modal forms are no good:
 - as you can't read or edit something else in a window behind
 - as they take a lot of time to load in a browser (ask any CRM 4 user)
 
- 
+   ​
 Popup forms are good:
 
 - as it is obvious you have an action step to perform before continuing

@@ -18,7 +18,7 @@ Also, see our     [rule on colour usage in windows forms](http://www.ssw.com.au/
 | ![ Good Example - It is clear to testers and to the product owner that this page is incomplete, but they can get more details from the product backlog](400e3f_good-incomplete-work.jpg)
 
 ![ Best Example - Use feature toggles to not show incomplete elements to testers or product owners. See <br>      ](5b99bb_best-incomplete-work.jpg)
-[FeatureToggle by Martin Fowler](http://martinfowler.com/bliki/FeatureToggle.html). Feature Toggling can require a large amount of extra work and so is often only implemented by teams with a need to ship features while others are still in development
+[FeatureToggle by Martin Fowler](http://martinfowler.com/bliki/FeatureToggle.html)​​. Feature Toggling can require a large amount of extra work and so is often only implemented by teams with a need to ship features while others are still in development​​
 #### Related Rule
 
-- [Do you use red and yellow colours to distinguish elements in the Designer?](http://www.ssw.com.au/ssw/Standards/rules/rulestobetterwindowsforms.aspx#RedYellowDesigner)
+- [Do you use red and yellow colours to distinguish elements in the D​esigner?](http://www.ssw.com.au/ssw/Standards/rules/rulestobetterwindowsforms.aspx#RedYellowDesigner)

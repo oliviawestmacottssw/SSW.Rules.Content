@@ -11,7 +11,7 @@ authors:
 
 ---
 
-These are the essential fields for your timesheets:
+​These are the essential fields for your timesheets:
 
 1. Client ID - or Client Name
 2. "On-Site" or "Off-Site"

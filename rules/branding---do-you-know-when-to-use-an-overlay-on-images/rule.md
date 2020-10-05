@@ -9,14 +9,14 @@ authors:
 
 ---
 
-Sometimes the photo you want to share is not ideal to include texts and/or your logo. Adding overlays on these images creates a professional look to any photo, helps to hide messy desks or floors if needed, and it gives it a consistent contrast and feel to the post. 
+​​​​​​​​Sometimes the photo you want to share is not ideal to include texts and/or your logo. Adding overlays on these images creates a professional look to any photo, helps to hide messy desks or floors if needed, and it gives it a consistent contrast and feel to the post. 
 
 
 
 It’s a good way of adding text to a photo as well following your branding guidelines at the same time.
 
  
-See some bad and good examples from SSW's social media below:
+​See some bad and good examples from SSW's social media below:
 
 [[badExample]]
 | ![ Bad Example – An overlay could have made this post look nicer ](badexampleandreas.png)

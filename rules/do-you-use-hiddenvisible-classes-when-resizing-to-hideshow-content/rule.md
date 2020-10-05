@@ -22,17 +22,17 @@ By default, bootstrap will wrap the columns and make them full width on phones. 
 As well as being able to hide content per view, you can also selectively show it. This is helpful to add an extra sidebar for very large screens.
 
 - .visible-xs
-- .visible-sm
+- ​.visible-sm
 - .visible-md
 - .visible-lg
 
 
-![](RulesBootstrap - hidden.png)Bad Example: The mobile view on the right has a large unneccessary title.
+![](RulesBootstrap - hidden.png)​Bad Example: The mobile view on the right has a large unneccessary title.
 Remove the title by adding the .hidden-xs class.
 
 
 
 # ASP.NET
+​
 
-
-![](RulesBootstrap - hidden2.png)Good Example: The mobile view is now leaner and cleaner thanks to our .hidden-xs class.
+![](RulesBootstrap - hidden2.png)G​ood Example: The mobile view is now leaner and cleaner thanks to our .hidden-xs class.​

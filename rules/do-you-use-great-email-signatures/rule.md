@@ -16,7 +16,7 @@ authors:
 ---
 
 Email signatures are a great way of adding some advertising and branding. You should always use a nice email signature for **external emails**.
-Internally, you shouldn't use any or just use a short one (just your name or initials).
+Internally, you shouldn't use any or just use a short one (just your​ name or initials).
 
 
 
@@ -28,7 +28,7 @@ Full email signatures are great when they have:
 - Your company **website link **(e.g. www.ssw.com.au/)
 - Your work-related **social media** and **blog** link
 - Your **position**
-- Your **location** (city/country) where you are based
+- Your​ **location** (city/country) where you are based
 
 
 Mobile signature are not easily customized so they can be simpler.
@@ -40,12 +40,12 @@ Mobile signature are not easily customized so they can be simpler.
 Use the "mobile signature" when sending emails from your phone.
 
 Get Outlook for Android
-Figure: Bad example - This default signature sucks
+Figure: Bad example - This default signature sucks​
 
 
 Thanks, Adam
-www.ssw.com.au  | +61 4 1985 1995
-Figure: Good example – Add your name, URL and your phone number
+www.ssw.com.au  |​ +61 4 1985 1995
+Figure: Good example – Add your name, URL and your phone number​
 
 ### PC Long Signature
 
@@ -99,4 +99,4 @@ Use a really short signature (your first name or initials) or no signature at al
 
 **Warning:** Unfortunately you need to setup up your signature in Outlook and OWA. There is no way to share this.
 
-**SSW Only:** You can automatically have your Outlook signature changed on sign-in via a script. See https://github.com/SSWConsulting/LoginScript.
+**SSW Only:** You can automatically have your Outlook signature changed on sign-in via a script. ​See https://github.com/SSWConsulting/LoginScript.​

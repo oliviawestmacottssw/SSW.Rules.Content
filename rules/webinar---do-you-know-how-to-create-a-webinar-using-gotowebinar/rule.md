@@ -9,4 +9,12 @@ authors:
 
 ---
 
-One of the best ways to attract and convert leads into clients is using webinars. This rule will show you how to setup a webinar using GoToWebinar.
+​One of the best ways to attract and convert leads into clients is using webinars. This rule will show you how to setup a webinar using GoToWebinar.
+ 
+
+
+
+`youtube: https://www.youtube.com/embed/PLyPjRYjNxQ?rel=0`
+ 
+
+​

@@ -10,7 +10,7 @@ authors: []
 #### Description
 
 The description should explain *what the error was*, followed by the *why it occurred*. Information that is useful for debugging should be included with errors where possible in a "Details" section. You should also avoid making the text unnecessarily wide. e.g.
- 
+   ​
 [[badExample]]
 | ![ Bad Example - A message box that does not intuitively alert the user](../../assets/BadMessageBox.gif)
 

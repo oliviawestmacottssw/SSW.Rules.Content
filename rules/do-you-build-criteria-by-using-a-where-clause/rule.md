@@ -20,7 +20,7 @@ This allows you to easily extract fields and values, but it only works for the f
 
 But this gives exact matches. E.g.:
  
-ClientID=ssw
+​ClientID=ssw
 
 What if you want to give the ability to allow the user to be able to use a like e.g.
 
@@ -52,3 +52,6 @@ The CONS:
 - It shows the database schema to the users - users maybe should not see the structure of the database.
 - Security - the where clause could show data we don't want users to see.
 - Got to add a little extra code to avoid [SQL injection](https&#58;//www.ssw.com.au/ssw/KB/KB.asp?KBID=Q995992).
+
+
+​

@@ -29,5 +29,5 @@ If you don't, then look out for these three potential tripping points:
 
 1. Specific damages (e.g. $1,000,000 per breach)
 2. Funny jurisdiction (at least it should be in the country you are in)
-3. If the agreement is not mutual you need to be extra careful. One sided agreements makes one of the parties lose out
+3. ​If the agreement is not mutual you need to be extra careful. One sided agreements makes one of the parties lose out
 4. Always request that any indemnity be deleted

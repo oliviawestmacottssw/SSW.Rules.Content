@@ -11,9 +11,9 @@ authors:
 
 ---
 
-If your styles are going to be different, then make it obvious that they are different. Don't be timid about it! This is a great time to be daring!
+​                     If your styles are going to be different, then make it obvious that they are different. Don't be timid about it! This is a great time to be daring!
 
-"Different" can mean many things: different font family, different style, different size, and different color. But the most important thing is to make it obvious that they are different.
+"Different" can mean many things: different font family, different style, different size, and​ different color. But the most important thing is to make it obvious that they are different.
 
 Partial differences make people get confused and start asking things like "this looks a bit strange, but I don't know why. Is that intentional?"
  

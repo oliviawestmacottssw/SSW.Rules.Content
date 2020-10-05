@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-This is a common item that trips people up: taskbar is one word, not two.  
-
+​​This is a common item that trips people up: taskbar is one word, not two.  
+​
 [[goodExample]]
-| ![ Good Example - You should use the "taskbar" over "task bar"](taskbar-not-task-bar.gif)
+| ![ Good Example - You should use the "taskbar" over "task bar"​](taskbar-not-task-bar.gif)

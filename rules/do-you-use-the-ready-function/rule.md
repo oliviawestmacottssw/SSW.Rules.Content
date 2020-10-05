@@ -10,7 +10,7 @@ authors:
 ---
 
 Putting your initialization JavaScript code inside the .ready function is not always required, but it's much safer to do so. 
-jQuery exposes a [.ready event](http&#58;//api.jquery.com/ready/) which fires when the Document Object Model (DOM) is fully loaded and ready to be manipulated.
+​jQuery exposes a [.ready event](http&#58;//api.jquery.com/ready/) which fires when the Document Object Model (DOM) is fully loaded and ready to be manipulated.
 
 You can attach a function to this event so you can be sure the page is ready for you to work on.
 

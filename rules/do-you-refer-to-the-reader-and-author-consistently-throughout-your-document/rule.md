@@ -13,9 +13,9 @@ When writing technical documentation, one of your primary objectives is to ensur
 
 For example:
  
-When one wants to scan for viruses, you can open the antivirus software.
+​When one wants to scan for viruses, you can open the antivirus software.
 
-Figure: Bad Example - The user is referred in two ways and flow is broken
+Figure: Bad Example - The user is referred in two ways and flow is broken​
 
 
 When you want to scan for viruses, you can open the antivirus software.
@@ -37,5 +37,5 @@ It is occasionally acceptable to use the first person, "we", "I", "us", "our" et
 
 We will now open a web browser and go to the home page.
 Figure: Bad Example - It is unclear who the "we" is.
-You can now open a web browser and go to the home page.
-Figure: Good Example - These instructions are clear and direct.
+​You can now open a web browser and go to the home page.​
+Figure: Good Example - These instructions are clear and direct.​

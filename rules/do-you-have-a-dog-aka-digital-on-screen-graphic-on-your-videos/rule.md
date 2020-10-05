@@ -11,9 +11,9 @@ authors:
 
 ---
 
-A digital on-screen graphic (or DOG) is a watermark logo image that broadcasters place in the corner of the screen area to create a brand identity for their program or broadcast.
+​A digital on-screen graphic (or DOG) is a watermark logo image that broadcasters place in the corner of the screen area to create a brand identity for their program or broadcast.
 
-Why is brand identity important during a video broadcast?
+Why is brand identity important during a video broadcast? ​
  
 Having a DOG is essential for a video to create instant professional brand recognition. It creates consistent branding that is visible no matter when or where the broadcast is played or replayed.
 
@@ -21,9 +21,9 @@ A video is often embedded in external pages and having the DOG asserts ownership
 
 You can also use a DOG to create interest and audience anticipation of future broadcasts.
 
-A Good DOG must:
+A Good DOG must:​
 
-1. Be instantly recognizable
+1. ​Be instantly recognizable
 2. Not obstruct the content
 3. Be in a semi-transparent format - usually  50 %  transparent white
 4. Remain consistently placed throughout the broadcast

@@ -13,11 +13,14 @@ authors:
 
 As part of induction, employees would have been asked to enter their phone number into their Active Directory profile. That means this will be available in Skype for Business.
 
-You can find SSW Employee phone numbers in two ways:
+You can find SSW Employee phone numbers in two ways:​​​
  
 1. **Using Skype for Business**
 ![ Right click on a user and click call and their mobile is there](../../assets/Image.jpg)
 
 2. **Using CRM**
 ![](../../assets/Image.jpg)
-![ Go to "Users" and search for the name you need](../../assets/Image.jpg)
+![ Go to "Users" and search for the name you need​](../../assets/Image.jpg)
+
+
+​

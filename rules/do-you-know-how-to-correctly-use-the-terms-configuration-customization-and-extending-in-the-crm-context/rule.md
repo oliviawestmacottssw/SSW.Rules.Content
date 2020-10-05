@@ -22,4 +22,4 @@ Customization would apply to: Fields, Entities, Relationships, Forms, Views, and
 
 
 
-See the [TFS](/do-you-know-how-to-correctly-use-the-terms-configuration-and-customization-in-the-tfs-context) rule for correct definitions.
+See the [TFS​](/do-you-know-how-to-correctly-use-the-terms-configuration-and-customization-in-the-tfs-context) rule for correct definitions.

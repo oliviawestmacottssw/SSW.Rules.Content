@@ -15,7 +15,7 @@ authors:
 
 ---
 
-Having a good folder structure in version control allows everyone to know where everything is without even having to look.
+Having a good folder structure in version control allows everyone to know where everything is without even having to look.​
  
 
 ```

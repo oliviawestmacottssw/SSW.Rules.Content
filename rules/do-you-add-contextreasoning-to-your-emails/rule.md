@@ -17,5 +17,5 @@ When sending an email it is very important to give context and reasoning. This w
 | ![ Bad Example - There is no context or reasoning](BadContextReasoning.GIF)
 
 [[goodExample]]
-| ![ Good Example - There is both context and reasoningVIDEO - ](GoodContextReasoning.jpg)
-[Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
+| ![ Good Example - There is both context and reasoning​VIDEO - ](GoodContextReasoning.jpg)
+[Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI) ​

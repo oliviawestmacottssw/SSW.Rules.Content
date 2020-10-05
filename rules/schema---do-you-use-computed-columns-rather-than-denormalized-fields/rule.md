@@ -9,23 +9,22 @@ authors:
 
 ---
 
-When you have a denormalized field, use a computed column.  In SQL Server they can be persisted.
+When you have a denormalized field, use a computed column.  In SQL Server ​they can be persisted.
 
 Use the suffix "Computed" to clearly distinguish that this field is a computed field.
 
 
 [[badExample]]
-| ![ Bad Example - This field was manually updated from code in the middle tier.](NormalizedFields_Bad.jpg)
+| ![ Bad Example - This field was manually​ updated from code in the middle tier.](NormalizedFields_Bad.jpg)
 
 
-[[goodExample]]
-| ![ Good Example - There was no code in the middle tier to calculate this ](NormalizedFields_Good.jpg)
+![ Good Example​ - There was no code in the middle tier to calculate this ](NormalizedFields_Good.jpg)
 (and it has the correct name)
 
  
 Computed columns have some limitations - they cannot access fields in other tables, or other computed fields in the current table.
 
-You can use user-defined functions (UDF) from code in a reusable function, this allows one computed column to use a function to call another function.  Here is an example:
+You can use user-defined functions (UDF) from code in a reusable function, this allows one computed column to use a function to call another function.  Here is an example:​
 
 ALTER FUNCTION [dbo].[udfEmpTime\_TimeTotalComputed]
 
@@ -37,9 +36,9 @@ RETURNS DECIMAL(8,6)
 AS
 BEGIN
 -- This function returns the time difference in hours - decimal(8,6)
-RETURN (round(isnull(CONVERT([decimal](8,6),@TimeEnd - @TimeStart,(0))\*(24),(0)),(2)))
+​RETURN (round(isnull(CONVERT([decimal](8,6),@TimeEnd - @TimeStart,(0))\*(24),(0)),(2)))
 
- END
+ END​
 Figure: This is the user defined function
 
-![ Setting up a computed column in the table designer](NormalizedFieldsDefine.jpg)
+![ Sett​ing up a computed column in the table designer​](NormalizedFieldsDefine.jpg)

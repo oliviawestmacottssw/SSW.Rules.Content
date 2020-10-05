@@ -9,20 +9,20 @@ authors:
 
 ---
 
-This one is going to be a controversial one. But the bottom line is every now and then you want to do something and then you curse and wish your database didn't have identities. So why use them? Let's look at the problems first:
- Cons:
+​​​​​This one is going to be a controversial one. But the bottom line is every now and then you want to do something and then you curse and wish your database didn't have identities. So why use them? Let's look at the problems first:​​​
+ ​Con​s:
 - You can't manually change a Primary Key and let the Cascade Update do its work, eg. an InvoiceID
 - Hassles when importing data into related tables where you want to control the Primary Key eg. Order and Order Details
 - Replication you will get conflicts
 
 
-In Microsoft Access you have autonumbers and there is no way around them so never use them.
+​In Microsoft Access you have autonumbers and there is no way around them so never use them.
 But in SQL Server you have identities and we have these procs:
 
 - DBCC CHECKIDENT - Checks the current identity value for the specified table and, if needed, corrects the identity value
 - SET IDENTITY\_INSERT { table } { ON | OFF } - Allows explicit values to be inserted into the identity column of a table
 
-Pros:
+Pros:​​
 
 - Less programming - letting the database take care of it
 - Replication (identities are supported by SQL Server with ranges so when you want replication, no coding)
@@ -31,7 +31,7 @@ Pros:
 
 So the only Con left is the importing of data but we can use one of the above procs to get around it. See grey box.
 
-### The best way to import data into SQL Server (with Identities)
+### The best way to import data into SQL Server (with Identities)​
 
 Using SQL Management Studio
 
@@ -42,28 +42,27 @@ Using SQL Management Studio
 
 
 
-![ SQL Import Wizard - Edit Mappings](IdentityImportEditMappings.png)
-
+![](IdentityImportEditMappings.png)​Figure: SQL Import Wizard - Edit Mappings
 
 
 4. Ensure the Enable identity insert is checked
 
 ![ SQL Import Wizard – Ensure Enable identity insert is checked.](EnableIdentityInsert.png)
 
-
+​
 
 Alternatively, you can also enable and disable the identity insert through SQL with the following commands
 
-SET IDENTITY\_INSERT Shippers ON --this will allow manual identity INSERTS on the requested table
+​SET IDENTITY\_INSERT Shippers ON --this will allow manual identity INSERTS on the requested table
  
 -- Modify the table here
  
-SET IDENTITY\_INSERT Shippers OFF --as it can only be on for one table at a time
+SET IDENTITY\_INSERT Shippers OFF --as it can only be on for one table at a time​
 
-More information on [IDENTITY\_INSERT](https://docs.microsoft.com/en-us/sql/t-sql/statements/set-identity-insert-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
+​​More information on ​[IDENTITY\_INSERT](https://docs.microsoft.com/en-us/sql/t-sql/statements/set-identity-insert-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
 
-### Automatic Identity Range Handling
+### Automatic Identity Range Handling​
 
 
-The simplest way of handling identity ranges across replicas is to allow SQL Server to manage identity range handling for you. To use automatic identity range handling, you must first enable the feature at the time the publication is created, assign a set of initial Publisher and Subscriber identity range values, and then assign a threshold value that determines when a new identity range is created.
-For example, assigning an identity range from 1000 through 2000 to a Publisher, and a range from 2001 through 3000 to an initial Subscriber a range from 3001 to 4000 to the next publisher etc.
+The simplest way of handling identity ranges across replicas is to allow SQL Server ​to manage identity range handling for you. To use automatic identity range handling, you must first enable the feature at the time the publication is created, assign a set of initial Publisher and Subscriber identity range values, and then assign a threshold value that determines when a new identity range is created.
+For example, assigning an identity range from 1000 through 2000 to a Publisher, and a range from 2001 through 3000 to an initial Subscriber a range from 3001 to 4000 to the next publisher etc.​

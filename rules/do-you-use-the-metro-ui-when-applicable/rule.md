@@ -11,7 +11,7 @@ authors:
 
 Metro is Microsoft’s UI design guideline.
  
-From           [Adam Cogan's blog](http://www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/) (http://www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/):
+From           [Adam Cogan's blog](http://www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/) (http://www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/):​
 
 "We now have devices from phones, tablets, work PCs and servers all with the same Metro (don't tell me to call it Modern UI please) tiled user interface.
  What that means for users is that they have the same \*one\* user experience.
@@ -20,5 +20,4 @@ From           [Adam Cogan's blog](http://www.adamcogan.com/2012/11/18/microsoft
 [[goodExample]]
 | ![ Good example – TFSPreview.com adopts the Metro style](../../assets/Metro-Good.jpg) 
 
-[[goodExample]]
-| ![ Good example – SSW TIMEPRO has been Metro influenced](../../assets/Metro-Good2.jpg)
+![](../../assets/Metro-Good2.jpg)​ Figure: Good example – SSW TIMEPRO has been Metro influenced

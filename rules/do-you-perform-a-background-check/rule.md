@@ -15,7 +15,7 @@ Not all clients are created equal, and sometimes it's a good idea to do a quick 
 
 If a new client calls up in a rush and you've never heard of them, what steps do you take before jumping straight in to billable work?
 
-The easiest method is to check they are a legitimate company via a quick Google search:
+The easiest method is to check they are a legitimate company via a quick Google search:​
  
 - Do they turn up in the results?
 - Do they have a webpage?
@@ -24,8 +24,8 @@ The easiest method is to check they are a legitimate company via a quick Google 
 
 
 
-![ Make sure you know who you're going into business with](Wanted-Poster.jpg)
-
+![](Wanted-Poster.jpg)
+​​​​​Figure: Make sure you know who you're going into business with​
 
 
 With this information you can then rank them from "Not a Risk" all the way up to "Huge Risk" (the kind with neon flashing lights and all) and decide whether or not to go ahead with the business deal.

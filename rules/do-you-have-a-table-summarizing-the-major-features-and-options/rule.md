@@ -9,17 +9,17 @@ authors:
 
 ---
 
-Use a table to summarize the major features of the project. Columns that are needed are:
+Use a table to summarize the major features of the project. Columns that are needed are:​
 
 - Required
 - Desired
 - **Option A** (Recommended)
-- **Option B**
+- **Option B​​**
 
- 
-![ Highlight the option recommended](Proposals_OptionAHighlighted.jpg)
+ ​
+![](Proposals_OptionAHighlighted.jpg)​
+Figure: Highlight the option recommended
 
+### ​Related Rule
 
-### Related Rule
-
-- [Teamwork - Do you manage up? (Give a recommendation)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ba07b0d2-ccce-4584-a636-f3a5d9bec2cf)
+- [Teamwork - Do you manage up? (Give a recommendation)​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ba07b0d2-ccce-4584-a636-f3a5d9bec2cf)

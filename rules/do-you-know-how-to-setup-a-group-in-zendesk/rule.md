@@ -9,9 +9,9 @@ authors:
 
 ---
 
-When setting up Zendesk you want to add users to groups. Groups allow you to allocate a group of people to a particular task or activity. One group may be responsible for many tasks or activities. 
+When setting up Zendesk you want to add users to groups. Groups allow you to allocate a group of people to a particular task or activity. One group may be responsible for many tasks or activities. ​
 
-
+​
 
  
-The benefits of using groups is when someone leaves the company or changes responsibilities. You can remove or add them to the corresponding group and they will automatically be added or removed from all the activities that group is responsible.
+​The benefits of using groups is when someone leaves the company or changes responsibilities. You can remove or add them to the corresponding group and they will automatically be added or removed from all the activities that group is responsible.

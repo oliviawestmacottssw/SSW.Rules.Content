@@ -7,10 +7,10 @@ authors: []
 
 ---
 
-There are different ways of sending newsletters using the Microsoft Dynamics CRM 2016:
+​​​​​​​​​​​​​​​​​​​​​​​​​​​​There are different ways of sending newsletters using the Microsoft Dynamics CRM 2016:
 
 
-- Campaigns
+- ​​​Campaigns
 - Quick Campaigns
 - Mail Merge on Marketing Lists
 
@@ -22,7 +22,7 @@ This rule will show you how to send a newsletter using the last method, the mail
 
 
 
-By default, Microsoft Dynamics CRM 2016 does not come with good functionality on inserting custom unsubscribe links to your newsletters - that's why we are going to look at how to add a custom unsubscribe link in each email. 
+By default, Microsoft Dynamics CRM 2016 does not come with good functionality on inserting custom unsubscribe links to your newsletters - that's why we are going to look at how to add a custom unsubscribe link in each email. ​​
 
 
 
@@ -53,8 +53,7 @@ Don't send the newsletter from your own PC. Use a VM or the SendGrid integration
 
 1.   Go to  **Main | Marketing | Marketing Lists**
 
-![ This is where you can find your Marketing Lists in Microsoft Dynamics CRM 2016](Go-To-Marketing-Lists.jpg)  
-
+![](Go-To-Marketing-Lists.jpg)  Figu​re: This is where you can find your Marketing Lists in Microsoft Dynamics CRM 2016
 2.   Open the Marketing List you want to send the newsletter to by clicking on it (you should be using a dynamic list)
 
 3.   Go to **... | Mail Merge on List Members**  (in the menu bar)
@@ -182,8 +181,8 @@ End Sub
 10.   Follow the steps in the mail merge sidebar on the right-hand side of Word
 
 
-> If you are using mail merge fields, like the contact names, you should preview your message for some contacts. 
-![](Verify-Changes.jpg)** Figure: The highlighted part will change for every recipient**
+> ​​If you are using mail merge fields, like the contact names, you should preview your message for some contacts. 
+![](Verify-Changes.jpg)​**​​ ​Figure: The highlighted part will change for every recipient**
 
  
 
@@ -197,5 +196,7 @@ End Sub
 
 You don't need any coding knowledge here - but this means you will have to generate your custom unsubscribe link manually and copy and paste it into the mail merge document. Make sure to [set it up it correctly](https://support.microsoft.com/en-us/kb/912679) before copying.
 
+
+`youtube: https://www.youtube.com/embed/0VVuIRelIDw?rel=0`
  
  Figure: Good example - send your newsletter like this

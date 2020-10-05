@@ -9,9 +9,9 @@ authors:
 
 ---
 
-There is a lot of information tucked away in your web server log files. Valuable, but often unused, information that can be retrieved from your web server log files include:
+There is a lot of information tucked away in your web server log files. Valuable, but often unused, information that can be retrieved from your web server log files include:​
  
-- Geographical origin of users
+- ​​Geographical origin of users
 - Referring pages (which external pages did the users come from e.g. search engines)
 - Number of users
 - Time spent on the website
@@ -21,4 +21,4 @@ There is a lot of information tucked away in your web server log files. Valuable
 
 View a [sample template of Google Analytics report](https&#58;//www.ssw.com.au/ssw/Standards/templates/sswgooglereporttemplate.aspx).
 
-Read [Rules to Better Google Rankings](https&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterGoogleRankings.aspxhttps&#58;//rules.ssw.com.au/rules-to-better-google-rankings).
+Read [Rules to Better Google Rankings](https&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterGoogleRankings.aspxhttps&#58;//rules.ssw.com.au/rules-to-better-google-rankings)​.​

@@ -22,5 +22,5 @@ index:
 - does-your-team-have-a-notifications-channel
 
 ---
-Teams offers a great solution to collaboration using the Office 365 platform. Get ready for a productivity boost, better focus on your work and increased transparency.
+​​​Teams offers a great solution to collaboration using the Office 365 platform. Get ready for a productivity boost, better focus on your work and increased transparency.
 

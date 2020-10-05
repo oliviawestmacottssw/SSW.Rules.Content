@@ -11,7 +11,7 @@ authors:
 
 ---
 
-The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug. <br> 
+​The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug. <br>​ 
 
 ![](bug-feature.png)
 
@@ -55,11 +55,11 @@ Using TFS allows you to create work items such as user stories, bugs, tasks, tes
 
 
 **Handling additional work for fixed-price contracts**
-Scrum wasn't designed for fixed price, fixed scope contracts, however, any new features or modifications (non-bug items) not in the original sprint or sprints are classed as additional work and are outside the scope of the contract. Any tasks which **are** bugs should be marked as additional items and be completed in the current sprint if possible. Most importantly, after the sprint plan has been sent, **a PBI should NOT be entered as an item (additional or otherwise) in ANY sprints if they are not a bug**. Instead, move all non-bug items to the product backlog for future review after the warranty period for the fixed price contract has passed.
+Scrum wasn't designed for fixed price, fixed scope contracts, however, a​ny new features or modifications (non-bug items) not in the original sprint or sprints are classed as additional work and are outside the scope of the contract. Any tasks which **are** bugs should be marked as additional items and be completed in the current sprint if possible. Most importantly, after the sprint plan has been sent, **a PBI should NOT be entered as an item (additional or otherwise) in ANY sprints if they are not a bug**. Instead, move all non-bug items to the product backlog for future review after the warranty period for the fixed price contract has passed.
 
 **Handling additional work in a Scrum project**
 
-Any new features or modifications (non-bug items) not in the original Product Backlog are classed as additional PBI's and placed on the Product Backlog. Any tasks which **are** bugs found during the current Sprint should be fixed within the current Sprint. Any tasks which **are** bugs found outside of the current Sprint should be added to the Product Backlog. See [Do you know when to create bugs?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a497565c-0fac-4fff-bec2-4cd3278c5654 "Do you know when to create bugs?") and [Do you know the 3 steps to a PBI?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2c4dfc14-8084-4277-ae5e-7f5f692e4065)
+Any new features or modifications (non-bug items) not in the original Product Backlog are classed as additional PBI's and placed on the Product Backlog. Any tasks which **are** bugs found during the current Sprint should be fixed within the current Sprint. Any tasks which **are** bugs found outside of the current Sprint should be added to the Product Backlog. See [Do you know when to create bugs?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a497565c-0fac-4fff-bec2-4cd3278c5654 "Do you know when to create bugs?") and [Do you know the 3 steps to a PBI?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2c4dfc14-8084-4277-ae5e-7f5f692e4065)​
 
 
 ![ Adding a bug to the Product Backlog in TFS](62034c_tfs_preview_add_bug.png)

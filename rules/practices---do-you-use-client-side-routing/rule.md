@@ -29,4 +29,4 @@ This is easily fixed with Angular ’s routing capabilities, and implementing it
 A better way is to set up routes, and use a router (the first-party component router is great for this) to manage your components:
  
 ![](client-side-good.png) 
-Good: Setting up declarative routes and outlets gives a good user experience, persistent URLs, and fewer moving parts
+Good: Setting up declarative routes and outlets gives a good user experience, persistent URLs, ​and fewer moving parts

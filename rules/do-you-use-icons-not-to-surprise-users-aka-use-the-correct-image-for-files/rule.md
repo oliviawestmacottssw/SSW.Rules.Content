@@ -11,7 +11,7 @@ authors:
 
 ---
 
-When a user clicks on a hyperlink they expect to open an HTML file. If you click on a hyperlink (but it is actually a .doc file) you wait and wait while it takes forever to instantiate an instance of Microsoft Word in the background.
+When a user clicks on a hyperlink they expect to open an HTML​ file. If you click on a hyperlink (but it is actually a .doc file) you wait and wait while it takes forever to instantiate an instance of Microsoft Word in the background.
  
 Don't surprise users! Use the following icons:
 
@@ -50,7 +50,7 @@ Don't surprise users! Use the following icons:
 ![](../../assets/IconOFT.gif) This is an Outlook Item Template |
 | Page | 
 ![](../../assets/ms_lock.gif) This is a link to password protected page |
-| YouTube | 
+| YouTube | ​
 ![](youtube-icon_png.jpg)This is a link to a YouTube Video |
 
  

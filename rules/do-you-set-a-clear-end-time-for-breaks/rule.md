@@ -20,3 +20,5 @@ When you set a break at a training course, you should make sure you first finish
 ![ iPhone alarm](iphone_timer.png)
 
 - If anyone comes back late, **explain the value of integrity**. Honoring your word in small things makes it easier to honor it for the larger things, such as doing your best in a sprint, and makes people believe in you more
+
+ ​

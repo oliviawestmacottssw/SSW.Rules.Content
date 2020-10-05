@@ -9,11 +9,11 @@ authors:
 
 ---
 
-Up until this point, .NET developers had to write a lot of boilerplate code in order to properly format strings or check for null. This boilerplate code required a lot of work to ensure code readability and maintainability.
+​Up until this point, .NET developers had to write a lot of boilerplate code in order to properly format strings or check for null. This boilerplate code required a lot of work to ensure code readability and maintainability.
 
 The new C# 6 that comes with Visual Studio 2015 is a game changer that empowers devs to do more with less.
 
-These 3 features will slash the amount of boilerplate code you have to write and improve code quality:
+These 3 features will slash the amount of boilerplate code you have to write and improve code quality:​​
 
  
 1. nameof expressions - allows us to get the name of the type of object    Now when we throw an exception, we can use the name of expressions feature to create robust code, which is more resistant to common mistakes when refactoring. This is achieved by reducing the amount of hard coding.
@@ -32,7 +32,7 @@ Figure: Bad example - Using the string format make the code difficult to read
     var s = "Profit is ${p.TotalEarnings - p.Totalcost} this year";
 Figure: Good example - Very human readable code 
     As can be seen above by making use of the new String Interpolation feature, the understandability of your code is greatly improved.
-3. Null-conditional operators - makes checking for null as easy as inserting a single question mark    This great new feature has had a raft of positive reactions from developers. The new Null-conditional operators feature boils down all of the previously laborious clunky code into a single question mark.
+3. ​Null-conditional operators - makes checking for null as easy as inserting a single question mark    This great new feature has had a raft of positive reactions from developers. The new Null-conditional operators feature boils down all of the previously laborious clunky code into a single question mark.
     For example, previously we would of had to write a chunk of code to achieve a simple task
     if(customers.Length != null) { int length = customers.Length; } else { int length = 0; }
 

@@ -11,7 +11,7 @@ authors:
 
 If you are using the .NET Framework, put validation and defaults in the middle tier. The backend should have the required fields (Allow Nulls = False), but no complicated constraints. The following are examples that work with the Products table (with an added timestamp field called Concurrency) from Northwind.
  
-### 1. Code: Select Procedure
+### ​1. Code: Select Procedure​​​
 
 
 ALTER PROCEDURE dbo.ProductSelect
@@ -22,7 +22,7 @@ UnitsOnOrder, ReorderLevel, Discontinued, Concurrency
 FROM Products
 WHERE (ProductID= @ProductID)
 
-### 2. Code: Insert Procedure
+### 2. ​​Code: Insert Procedure​
 
 ALTER PROCEDURE dbo.ProductInsert
 @ProductName nvarchar(40),
@@ -43,7 +43,7 @@ SELECT Scope\_Identity() AS [SCOPE\_IDENTITY] --If table has identity column
 --SELECT @@ROWCOUNT --If table doesn't have identity column
 -- Note: The middle tier must check the ROWCOUNT = 1
 
-### 3.Code: Update Procedure
+### 3.Code: Update Procedure​​
 
 
 ALTER PROCEDURE dbo.ProductUpdate 
@@ -72,7 +72,7 @@ WHERE (Concurrency = @Concurrency) AND (ProductID= @ProductID) --Note the double
 SELECT @@ROWCOUNT 
 -- Note: The middle tier must check the ROWCOUNT = 1
 
-### 4.Code: Delete Procedure
+### 4.Code: Delete Procedure​
 
 
 ALTER PROCEDURE dbo.ProductDelete 
@@ -83,4 +83,4 @@ DELETE FROM Products
 WHERE (ProductID= @ProductID) AND (Concurrency = @Concurrency)
 --Note the double criteria to ensure concurrency 
 SELECT @@ROWCOUNT 
---Note: The middle tier must check the ROWCOUNT = 1
+--Note: The middle tier must check the ROWCOUNT = 1​​

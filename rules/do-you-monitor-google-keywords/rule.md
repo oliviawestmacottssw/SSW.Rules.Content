@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Making sure that your site content to include specific keywords is just one part of the story. You need to constantly monitor how they perform. 
+Making sure that your site content to include specific keywords is just one part of the story. You need to constantly monitor how they perform. ​
  
 The two main tools for keywords (and most of SEO research) are:
 

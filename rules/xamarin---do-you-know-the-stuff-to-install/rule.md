@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Installing Visual Studio is not enough.... There is another 2 hours plus of downloading and installing to get to your first successful Xamarin hello world app.
+​Installing Visual Studio is not enough.... There is another 2 hours plus of downloading and installing to get to your first successful Xamarin hello world app.
  
 ### Step 1
 

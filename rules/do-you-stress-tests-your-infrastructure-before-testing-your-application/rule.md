@@ -20,4 +20,4 @@ This simple test will highlight:
 
 ![ Work out the maximum performance of the infrastructure before starting](infratests.jpg)
 
-**Note:** if you have other servers in the mix, then you can make another simple test to pull records from the database to check the DB server as well.
+**​Note:** if you have other servers in the mix, then you can make another simple test to pull records from the database to check the DB server as well.

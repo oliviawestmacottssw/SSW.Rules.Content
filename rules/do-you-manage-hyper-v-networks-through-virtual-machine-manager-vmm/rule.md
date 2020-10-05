@@ -11,7 +11,7 @@ authors:
 
 Virtual Machine Manager (VMM) lets you easily apply network settings to a Hyper-V host or cluster.
  
-Instead of managing each Virtual Machine network itself, using VMM to manage them all is much easier.
+​Instead of managing each Virtual Machine network itself, using VMM to manage them all is much easier.
 
 To do that, you need to complete a few steps:
 

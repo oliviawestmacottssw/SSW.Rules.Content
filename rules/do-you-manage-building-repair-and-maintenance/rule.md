@@ -11,7 +11,7 @@ authors:
 
 ---
 
-You should ensure that any building related issues are attended to, this can include:
+You should ensure that any building related issues are attended to, this can include:​​
  
 1. Any security or access issues
 2. Any tradespeople or maintenance staff visiting the building

@@ -8,7 +8,7 @@ authors: []
 ---
 
 Put in all information, even if some aren't selectable, provided there is context.
- 
+   ​
 This lets the users see what is available and what isn't, without being overbearing.
 
 [[goodExample]]

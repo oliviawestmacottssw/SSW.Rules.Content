@@ -73,7 +73,7 @@ To create a minimal master page
 5. Click Code to show the master page in code view.
 6. Copy the code into the master page 
 SharePoint 2007 - [https://msdn.microsoft.com/en-us/library/office/aa660698(v=office.12).aspx](https&#58;//msdn.microsoft.com/en-us/library/office/aa660698%28v=office.12%29.aspx) 
-SharePoint 2010 - [https://msdn.microsoft.com/en-us/library/office/dn205 273.aspx](https&#58;//msdn.microsoft.com/en-us/library/office/dn205273.aspx)
+SharePoint 2010 - [https://msdn.microsoft.com/en-us/library/office/dn205 ​273.aspx](https&#58;//msdn.microsoft.com/en-us/library/office/dn205273.aspx)
  &lt;%@ Master language="C#" %&gt;
 ...
 &lt;html&gt;

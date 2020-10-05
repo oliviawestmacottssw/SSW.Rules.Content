@@ -26,23 +26,23 @@ The deliverables for the Specification Review depend upon how large the applicat
 
 **Requirements Analysis**
 
-- An architectural roadmap recommending technical solutions
+- ​An architectural roadmap recommending technical solutions
 - A breakdown of the required software application into its core components, likely to include the approximate number of main features (e.g. forms, reports, etc.)
-- An integration plan
+- An integration plan​
 - A deployment strategy
-- An MVP (minimum viable product) will be identified, as well as a wish list - requiring the client to set the priorities for the project through defining what is in and out of scope for the MVP
+- An MVP (minimum viable product) will be identified, as well as a wish list - requiring the client to se​t the priorities for the project through defining what is in and out of scope for the MVP
 - A detailed list of 'issues' associated with the existing system which impact future development and maintenance
 - Hardware and licensed software recommendations
 - Mock-ups if required
 
 
-**Summary Product Bac****klog **
+**Summary Product Bac****klog ​**
 
-- A list of product backlog items (PBIs) will be broken down based on the Requirements Analysis and the Architectural Design
+- ​​A list of product backlog items (PBIs) will be broken down based on the Requirements Analysis and the Architectural Design
 - These PBIs will then be estimated
 
 
-**Ballpark Estimates**
+​**Ballpark Estimates**
 
 - The estimated number of sprints
 - Estimated cost of the project

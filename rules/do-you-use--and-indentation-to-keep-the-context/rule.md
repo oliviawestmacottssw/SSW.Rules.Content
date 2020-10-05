@@ -15,7 +15,7 @@ authors:
 
 ---
 
-Electronic communication can easily cause misunderstandings. Help the reader understand your message better by:
+​Electronic communication can easily cause misunderstandings. Help the reader understand your message better by:
 
 - Keeping the prior email in your reply
 - When quoting text from someone else (e.g. The original email you are replying to, a web page, etc.), use the “&gt;” and indentation. Your new text should be kept to the left. When quoting text on web pages, always include a link to the web page.
@@ -23,7 +23,7 @@ Electronic communication can easily cause misunderstandings. Help the reader und
 - Optionally, use a different text color in your reply
 
 
-This way you won't forget any questions in the original email.
+This way you won't forget any questions in the original email.​​
 
 Please change from X to Y
 The program flow logic worries me a bit 
@@ -33,13 +33,13 @@ Figure: Bad Example - there's too much information here
 &gt; 1. Please change from X to Y
 Done, I made the changes - &lt;add a link to the page or a screenshot&gt;
 
-     &gt; 2. The program flow logic worries me a bit 
+     &gt; 2. The program flow logic worries me a bit ​
 Sorry, this wasn't a final decision - I just put it there for testing purposes
-Figure: Good Example - You can clearly see the context of each part of the reply
+Figure: Good E​xample - You can clearly see the context of each part of the reply
 
-**Note:** For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually.
+**Note: **For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually​.
 
-### Related Rules
+### Related Rules​
 
 
 - [Do you use indentation for readability?](/Pages/IndentationForReadability.aspx)

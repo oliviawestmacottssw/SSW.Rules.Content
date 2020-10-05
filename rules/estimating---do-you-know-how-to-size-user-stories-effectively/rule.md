@@ -15,13 +15,13 @@ authors:
 
 ---
 
-A team knows how many stories they can commit to by measuring their velocity. The Team estimates the highest priority stories in the Product Backlog in Story Points. It is very important for teams to estimate tasks effectively. There are several methods for estimating:
+​​A team knows how many stories they can commit to by measuring their velocity. The Team estimates the highest priority stories in the Product Backlog in Story Points. ​It is very important for teams to estimate tasks effectively. There are several methods for estimating:
 
 - Shirt Sizes
 - Fibonacci Extended (1-100)
 - Fibonacci Original (1-21)
 - Doubling
-- Thrown
+- Thr​own
 
 
 Let's go through them:
@@ -37,9 +37,9 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 > 8 = L
 > 16 = XL
 > 32 = XXL
-> 64 = XXXL
+> 64 = XXXL​
 > 
-> **Please note: **In some teams which only use Small, Medium and Large the following numbering is applyed respectively 2, 4 and 8.
+> **​Please note: **In some teams which only use Small, Medium and Large the following numbering is applyed respectively​ 2, 4 and 8.​​
 
  
 [[badExample]]
@@ -74,7 +74,7 @@ It has one other advantage over the Fibonacci sequence, it is easier for non-tec
 8
 16
 32
-64
+64​
 Figure: Good example -Doubling simplifies relative sizing
 ### Thrown
 
@@ -104,7 +104,7 @@ Every team is different, but you can use the following guidelines for sizing Use
 > | 5 | A timeboxed task of 1 day x 2 guys |
 > | 8 | - |
 > | 13 | - |
-> | 21 | More than a month with a couple of guys.<br>**Tip:** Don't include these in a sprint because they are too risky - ask for them to be broken down. |
+> | 21 | More than a month with a couple of guys.<br>**Tip: **Don't include these in a sprint because they are too risky - ask for them to be broken down. |
 > 
 > Figure: Good example - Example User Story estimates
 

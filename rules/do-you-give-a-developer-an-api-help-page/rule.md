@@ -11,14 +11,14 @@ authors:
 
 www.northwind.com/swagger
 
-Bad example - default but now it is about help for your API)
+Bad example - default but now it is about help for your API)​​
 
-www.northwind.com/dev
-OR
+www.northwind.com/dev​
+OR​
 www.northwind.com/developer
 
 
-Bad examples
+Bad example​​s
 
 www.northwind.com/api
 
@@ -32,4 +32,4 @@ Bad example - too broad
 
  
 www.northwind.com/docs
-Good example - preferred URL
+Good example - preferred URL​

@@ -39,6 +39,7 @@ If you're the card holder and you're travelling alone, you should be fine with t
 
 **Option 1 – traditional insurance: ****Recommended.** - If you’re travelling with kids, you are better off going with traditional travel insurance to ensure all travellers are fully covered.
 
-**Option 2 – credit card insurance: ****Not recommended.** - Not all cards will cover the family for important categories like medical insurance, and for those that do, they are often greatly reduced. For example, if a family of 4 have their luggage stolen, the credit card holder might be covered for up to $10,000, with another $10,000 coverage to be split among the remaining family members – or as in the policy shown in the figure above, the 3 remaining family members will not be covered at all.
+**Option 2 – credit card insurance: ​****Not recommended.** - Not all cards will cover the family for important categories like medical insurance, and for those that do, they are often greatly reduced. For example, if a family of 4 have their luggage stolen, the credit card holder might be covered for up to $10,000, with another $10,000 coverage to be split among the remaining family members – or as in the policy shown in the figure above, the 3 remaining family members will not be covered at all.
 
 **Frequent traveller:** - A good option for those who fly regularly travel internationally is annual multi-trip cover, which can cost as little as $1 per day (depending on your needs and policy provider).
+ ​

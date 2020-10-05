@@ -9,11 +9,11 @@ authors:
 
 ---
 
-There are many options for personal and business backup solutions on the market:
+​There are many options for personal and business backup solutions on the market:
  
 ### OneDrive
 
-OneDrive from Microsoft is a simple and powerful application to do your cloud backups, for free. It comes default installed in Windows 10. See [Rules to Better OneDrive](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=977beedd-e3f1-44ad-b68e-262c0e34a265).
+OneDrive from Microsoft is a simple and powerful application to do your cloud backups, for free. It comes default installed in Windows 10. See [Rules to Better OneDrive](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=977beedd-e3f1-44ad-b68e-262c0e34a265).​
 
 **Size:** 5GB free
 

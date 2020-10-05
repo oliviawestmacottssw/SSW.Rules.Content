@@ -26,10 +26,10 @@ private void AssignRightToLeft()
        RefreshData();
     }
   }
-}
+}​
 Figure: Bad example - using nested if for validation
 
-
+​
 
 private void AssignRightToLeft()
 {
@@ -50,4 +50,4 @@ private void AssignRightToLeft()
   para.MoveRight(paraId);
   RefreshData();
 }
-Figure: Good example - using Return to exit early if invalid
+Figure: Good example - using Return to exit early if invalid ​

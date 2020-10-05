@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Update your Build to use the ExecuteBatchTemplate Build Process Template. A sample ExecuteBatchTemplate can be found [here](/Documents/ExecuteBatchTemplate2012APv002.xaml).
+​Update your Build to use the ExecuteBatchTemplate Build Process Template. A sample ExecuteBatchTemplate can be found [here](/Documents/ExecuteBatchTemplate2012APv002.xaml).
  
 ![ If the ExecuteBatchTemplate is available in the dropdownlist on the Process tab, select it and continue in the next section](execute-batch-1.jpg)
 

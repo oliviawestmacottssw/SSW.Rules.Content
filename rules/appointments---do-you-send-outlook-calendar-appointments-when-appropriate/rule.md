@@ -13,7 +13,7 @@ authors:
 
 ---
 
-If you wish to organize a meeting that involves some of your colleagues and a client, instead of sending an email, send an appointment. Sending appointments is convenient because all the user has to do is click 'accept' and it is in their calendar. 
+​​​If you wish to organize a meeting that involves some of your colleagues and a client, instead of sending an email, send an appointment. Sending appointments is convenient because all the user has to do is click 'accept' and it is in their calendar. 
  
 ![ Use Outlook appointments to easily synchronise your calendar with your client's](OutlookAppointment.gif)
 
@@ -27,4 +27,4 @@ If the appointment is for     **3 days or less**, send a separate appointment fo
 [[goodExample]]
 | ![ Good Example - Send a separate appointment for each day so you can clearly see it in your Outlook calendar](GoodSingleDayAppointments.gif)
 
-You should always have calendar on your phone, so we can quickly add a client booking into the calendar, then add a note what to do with CRM (e.g. Uly please set regarding flag).
+You should always have calendar on your phone, so we can quickly add a client booking into the calendar, then add a note what to do with CRM (e.g. Uly please set regarding flag)​.

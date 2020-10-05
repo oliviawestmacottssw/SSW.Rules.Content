@@ -23,4 +23,4 @@ The following grid shows where application files should be placed:
 - The Application class lives in the System.Windows.Form namespace, which indicates it should only be used for WinForm applications. Other types of applications such as Console and WebForm applications use their corresponding utility classes
 
 
-Microsoft's write-up on this subject can be found at [Microsoft API and reference catalog](https://www.ssw.com.au/ssw/Redirect/Microsoft/MSDNFileSystem.htm).
+Microsoft's write-up on this subject can be found at [Microsoft API and reference catalog](https://www.ssw.com.au/ssw/Redirect/Microsoft/MSDNFileSystem.htm).​

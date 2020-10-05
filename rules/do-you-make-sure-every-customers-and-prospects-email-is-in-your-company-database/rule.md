@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Most companies keep all their customers' (and prospects') contact information in a database (e.g. CRM, SQL Server, Access, Oracle). This allows all staff to easily locate contact details about a particular person. So when you get an email, make sure you check that email address and it is in the company database.<br> 
+Most companies keep all their customers' (and prospects') contact information in a database (e.g. CRM, ​SQL Server, Access, Oracle). This allows all staff to easily locate contact details about a particular person. So when you get an email, make sure you check that email address and it is in the company database.<br> 
 
 <br>We have a program called [SSW LookOut! for Outlook](http://www.ssw.com.au/ssw/LookOut/) to check for this rule. 
 ![ Stephen Koop needs to be put into the database](StephenKoopIsNotInTheDatabase.jpg) 

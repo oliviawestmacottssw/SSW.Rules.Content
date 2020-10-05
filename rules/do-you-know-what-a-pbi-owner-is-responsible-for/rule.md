@@ -13,7 +13,7 @@ There are five things that the story owner is responsible for:
 - Manage / Own the story and its sub tasks
 - Make sure a “[Test Please](/Pages/TestPleaseInScrum.aspx)” is conducted (or that their story is included in one)
 - Make every effort to show the story to the Product Owner before the Sprint Review (aka a [corridor conversation](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=70e9f0e5-38ea-4616-bb21-6ba5167beb6b))
-- Prepare for the Sprint Review. Make sure he ready for the review. Have a scribe, have a demo plan/script and get the story accepted quickly.
+- Prepare for the Sprint Review. Make sure h​e ready for the review. Have a scribe, have a demo plan/script and get the story accepted quickly.
 - Present the completed Story at the Sprint Review
 
 

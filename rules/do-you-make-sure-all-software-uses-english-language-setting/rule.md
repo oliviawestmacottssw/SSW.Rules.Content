@@ -13,7 +13,7 @@ authors:
 
 ---
 
-When dealing with western people, you want to avoid having screen captures etc. showing foreign characters.
+​​​​When dealing with western people, you want to avoid having screen captures etc. showing foreign characters.​​
 
 Let us look at some examples:
  
@@ -33,7 +33,7 @@ You want all screenshots you take to be showing English. Most of the time it is 
 In Chrome, you can follow these steps directly:
 
 1. Three dots bar at the top right of the Chrome window: <br>          
-
+ ​ <br>            
 ![ Blank Chrome page showing the 'Settings' button, 3 small dots](chroooome.jpg)
 
 2. Click on Settings: <br>      
@@ -125,25 +125,23 @@ You should also change your Google language to English as well. If it is not alr
 ### How to fix on Office 365 (https://outlook.office365.com)
 
 
-
+  ​  <br>   
 ![ If you have the Inbox, Sent Items etc in Chinese then you will need to follow these steps](screenshot.png) 
 
+​​
+​   1. Go to ​​https://outlook.office.com
+   2. Click on "My profile"​​ in the top right corner​
 
-   1. Go to https://outlook.office.com
-   2. Click on "My profile" in the top right corner
-
-![ Choose 'My profile'](screenshot-step1.png)
-
+![](screenshot-step1.png)
+​  **Figure: Choose 'My profile'****
 **   3. Click on "setting" button
 
-![ Choose 'Mail'](screenshot-step2.png)
-
+![](screenshot-step2.png)​​  **Figure: Choose 'Mail'****
 **    4. Click on Region and time zone
 
-![ Choose Region and Time. Then when you change the ‘Language’ with the checkbox enabled, the problem will be fixed.](screenshot-step3.png)  
+![](screenshot-step3.png)​  Figure: Choose Region and Time. Then when you change the ‘Language’ with the checkbox enabled, the problem will be fixed.
 
-
-    5.In Windows10, Go to Settings| Language| Windows display language, click Windows display language and search for English.
+    5.In Windows10, Go to Settings| Language| Windows display language, click Windows display language and search for English.​
     6. Done. You have changed your language to English. Congratulations!~
-
-![ After completing the fix.](screenshot-finished.png)
+​​​  
+![](screenshot-finished.png)​  ​**Figure: After completing the fix.**

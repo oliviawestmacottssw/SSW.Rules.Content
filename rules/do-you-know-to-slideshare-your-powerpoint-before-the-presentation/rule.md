@@ -13,15 +13,15 @@ authors:
 
 ---
 
-What is Slideshare? [Slideshare](http://www.slideshare.net/) is an online archive of presentations and other documents. It is the best way to store your training material for search engines and is easily accessible.
+​What is Slideshare? [Slideshare](http://www.slideshare.net/) is an online archive of presentations and other documents. It is the best way to store your training material for search engines and is easily accessible.
 
-
+​​
 ![](FodyAsyncErrorHandlerXamarinGoogleSearch.png)
-Slideshare ranks well in google searches
-
+​Slideshare ranks well in google searches
+​
 ![](FodyAsyncErrorHandlerGoogleImageSearch.png)
-Interestingly, keyword heavy slides from your PowerPoint will rank highly on Google Image Search
-Check out the slideshare shown above: '['Supercharging your Xamarin app! 3 must use libraries](http://www.slideshare.net/ChrisBriggsy/supercharging-your-xamarin-app-3-must-use-libraries)"
+​​​Interestingly, keyword heavy slides from your PowerPoint​​​ will rank highly on Google Image Search​
+​​​Check out the slideshare shown above: ​'['Supercharging your Xamarin app! 3 must use libraries](http://www.slideshare.net/ChrisBriggsy/supercharging-your-xamarin-app-3-must-use-libraries)"
 
 Follow these steps to ensure you get as much coverage as possible before and after your presentation.
 
@@ -41,11 +41,11 @@ Follow these steps to ensure you get as much coverage as possible before and aft
 7. Create a "\_OnSlideshare.txt" file with the Slideshare URL and add it to SharePoint on the same folder where the original PPT is
 8. Now you can present!
 
-![ the SSW example of a Slideshare link slide](slideshareend.jpg)
+![ the SSW example of a Slideshare link slide ​​​​](slideshareend.jpg)
 
 
 
-**
+**​​​
 ![](YoutubeEmbedSlideShare.png)
 **
-Figure: If you presentation is being recorded be sure to send yourself a reminder email to embedd the video in to the slideshare.
+Figure: If you presentation is being recorded be sure to send yourself a reminder email to embedd the video in to the slideshare.​​​​​​​

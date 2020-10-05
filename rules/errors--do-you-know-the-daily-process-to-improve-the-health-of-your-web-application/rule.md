@@ -11,11 +11,11 @@ authors:
 
 ---
 
-Application Insights can provide an overwhelming amount of errors in your web application, so use just-in-time bug processing to handle them.
+​​​​​​​Application Insights can provide an overwhelming amount of errors in your web application, so use just-in-time bug processing to handle them.
  
 The goal is to each morning check your web application's dashboard and find zero errors. However, what happens if there are multiple errors? Don't panic, follow this process to improve your application's health.
 
-![ Every morning developers check Application Insights for errors](App-Insights-Failures.png)
+![ Every morning developers check Application Insights for errors​](App-Insights-Failures.png)
 
 
 Once you have found an exception you can drill down into it to discover more context around what was happening. You can find out the user's browser details, what page they tried to access, as well as the stack trace (Tip: make sure you follow the rule on [How to set up Application Insights](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=68f64a3a-78ec-49f6-87ed-7ee92af1c809) to enhance the stack trace).
@@ -27,6 +27,5 @@ It's easy to be overwhelmed by all these issues, so don't create a bug for each 
 [[badExample]]
 | ![ creating all the bugs](20-08-2014-12-04-31-PM-compressor.png)
 
-[[goodExample]]
-| ![create the first bug ](20-08-2014-12-06-16-PM-compressor.png)
-(unfortunately bug has to be created manually)
+![](20-08-2014-12-06-16-PM-compressor.png)​
+Figure: Good example - create the first bug (unfortunately bug has to be created manually)

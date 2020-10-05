@@ -13,7 +13,7 @@ authors:
 
 ---
 
-**Warning:** there is very rarely a reason to use inline – avoid it.  You should copy the tasks and paste in your response area instead.
+**Warning:** there is very rarely a reason to use inline – avoid it.  You should copy the tasks and paste in your response area ​instead.
 
 
 
@@ -57,7 +57,7 @@ Sent: Tuesday, 28 May 2002 7:31 AM
 To: Adam Cogan www.ssw.com.au
 Subject: Daniel Hyles - Morning Goals
 
-My answers in blue
+My answers in blue​
 
 &gt; 1. TimePro Online pages
 Done
@@ -78,7 +78,7 @@ Not Done
 From: Adam Cogan www.ssw.com.au
 Sent: Monday, 27 May 2002 8:00 AM
 To: Daniel Hyles www.ssw.com.au 
-Subject: Daniel Hyles - Morning Goals
+Subject: Daniel Hyles - Morning Goals​
 
 - TimePro Online pages
 - Double check backups (get backup today on both drives, I configured the other drive last night)
@@ -88,4 +88,4 @@ Figure: Good Example - Replying in a different color + keeping history intact +
 
 
 
-See [Top 10 Rules to Better Email](https&#58;//tv.ssw.com/top-rules-to-better-email-by-ulysses-maclaren/) video for more details on how to reply to emails.
+See [Top 10 Rules to Bet​ter Email](https&#58;//tv.ssw.com/top-rules-to-better-email-by-ulysses-maclaren/) video for more details on how to reply to emails.

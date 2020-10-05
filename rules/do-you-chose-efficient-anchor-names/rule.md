@@ -24,4 +24,5 @@ This is a common mistake because the # is used on the "href".
  Good: &lt;a name="SomeAnchorName"&gt;
 
 
-We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/codeauditor/) to check for #3 and #4 on this rule.
+We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/codeauditor/) to check for #3 and #​4 on this rule.
+​

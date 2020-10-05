@@ -9,9 +9,9 @@ authors:
 
 ---
 
-Backing up your WordPress site is important and while most hosting providers will perform backups on your behalf, it doesn’t hurt to have another copy tucked away safely. For this purpose we use and recommend the     [BackWPup WordPress plugin](https://wordpress.org/plugins/backwpup).
+​Backing up your WordPress site is important and while most hosting providers will perform backups on your behalf, it doesn’t hurt to have another copy tucked away safely. For this purpose we use and recommend the     [BackWPup WordPress plugin](https://wordpress.org/plugins/backwpup)​.
  
-It simplifies WordPress backups and can be configured to back up your site to:
+It simplifies WordP​ress backups and can be configured to back up your site to:
 
 
 - FTP server
@@ -19,7 +19,7 @@ It simplifies WordPress backups and can be configured to back up your site to:
 - Amazon S3 services
 - **Microsoft Azure**
 - RackSpaceCloud
-- SugarSync
+- SugarSync​
 
 
 

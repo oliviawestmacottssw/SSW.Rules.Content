@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Tight project teams have a Daily 'Scrum' every day at the same time.
+​​Tight project teams have a Daily 'Scrum' every day at the same time.
 
 It was once called a 'stand-up meeting' but that discriminates people in wheelchairs.
 
@@ -25,7 +25,11 @@ Everybody knows the 3 essential questions:
 Asking these questions of every team member means no-one can hide and everyone remains connected. Further, you can notice what was promised and what was performed. This enables the team to discovers issues quickly and keep abreast of the progress.
 
 The team's successes and failures are shared, and anyone who knows the answer to someone else's problem can help with a solution, \*after\* the meeting.
-Figure: Watch a Daily Scrum at Microsoft (short) Figure: Watch a Daily Scrum at Microsoft (long)
+
+`youtube: https://www.youtube.com/embed/YR84qH6d7QE`
+Figure: Watch a Daily Scrum at Microsoft (short)
+`youtube: https://www.youtube.com/embed/-UUrLxNBK_g`
+ Figure: Watch a Daily Scrum at Microsoft (long)
 
 
 "Great video guys. Remember, it is ok to change Scrum, actually, it is necessary for success. Just adhere to the values of Scrum. "
@@ -49,7 +53,7 @@ At the end of the Scrum, the Scrum Master should     [review the current burn do
 ![ The burndown chart in tfs.visualstudio.com](burndowntfspreview.png)
 
 
-**Tip 3: Keep a schedule of the Daily Scrum times on a wall (+ have a recurring appointment in Outlook)**
+**Tip 3: Keep a schedule of the Daily Scrum times on a wall (+ have a recurring appointment in Outlook)​​​**
 
 
 Subject: 🙋Daily Scrum –              **[Project Name]
@@ -57,7 +61,7 @@ Subject: 🙋Daily Scrum –              **[Project Name]
 Hi** [Team name]**,
 As per our conversation, the Daily Scrum will be held each day.
 
-Project: **[Project Name]
+Project:** [Project Name]
 **Scrum Master:              **[Scrum Master Name]
 **
 Regards,
@@ -182,7 +186,7 @@ It is important that any major incidents are dealt with first. Start with any ma
 ![ Daily Scrums will alert everyone if there is a major problem and get all brains aligned in the right direction. There is no sense in putting a Band-Aid on a patient's scraped knee if there is a big knife in his eye](NewStandUpImage.jpg)
 !
 ![ If you like this, <br>      ](dailyscrumtweet.png)
-[retweet](https://twitter.com/AdamCogan/status/168175594209681408)  ;)
+[retweet](https://twitter.com/AdamCogan/status/168175594209681408)  ;)​
 ### Related rule
 
-- [Do you use the status message in Teams?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8deaea57-532b-4446-9eb2-f906830dd222)
+- [Do you use the status message in Teams?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8deaea57-532b-4446-9eb2-f906830dd222)​

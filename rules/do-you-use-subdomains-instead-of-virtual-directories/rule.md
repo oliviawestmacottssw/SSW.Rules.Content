@@ -15,14 +15,14 @@ Using subdomains over directories has 2 benefits:
 2. in different geographic locations
 
 
-http://www.myservice.com/**ssw**/
+​​​http://www.myservice.com/**ssw**/
 http://www.myservice.com/**northwind**/
 
-Figure: Bad Example - Virtual directories used to distinguish organizations
+​​Figure: Bad Example - Virtual directories used to distinguish organizations
 
 
 
-http://**ssw**.myservice.com/
+​​​​http://**ssw**.myservice.com/
 http://**northwind**.myservice.com/
 
-Figure: Good Example - Subdomains used to distinguish organizations
+Figure: ​Good Example - S​ubdomains used to distinguish ​organizations

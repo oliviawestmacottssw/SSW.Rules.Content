@@ -11,7 +11,7 @@ authors:
 
 ---
 
-As a consultancy, your developers expect to see a variety of projects in their time working for you, and if they get stuck on any one client for too long, they may decide to look elsewhere for that variety.
+​​​​As a consultancy, your developers expect to see a variety of projects in their time working for you, and if they get stuck on any one client for too long, they may decide to look elsewhere for that variety.
  
 In order to keep them interested, it’s a good idea to cycle them off and on to particularly long projects. This should be proactively offered to developers, as they may not realise it’s an option.
 

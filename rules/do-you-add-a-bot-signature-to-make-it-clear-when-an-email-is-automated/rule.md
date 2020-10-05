@@ -11,14 +11,14 @@ authors:
 
 ---
 
-With the advent of Microsoft Flow and Logic Apps, automated emails are becoming more common. And in fact any reminder or notification email you find yourself sending regularly should probably be automated.
+​With the advent of Microsoft Flow and Logic Apps, automated emails are becoming more common. And in fact any reminder or notification email you find yourself sending regularly should probably be automated.
 
-However, the end user should be able to tell that this was sent by a bot, and not a real person, both for transparency, and also to potentially trigger them to automate some of their own workflow.
+However, the end user should be able to tell that this was sent by a bot, and not a real person, both for transparency, and also to potentially trigger them to automate some of their own workflow.​
  
 **Hi All,
 **
 The maximum temperature for today is 32.
-Feel free to wear shorts if you like 🌞 (hope you haven't skipped leg day 😜)
+Feel free to wear shorts if you like 🌞 (hope you haven't skipped leg day 😜)​
 If you decide against it, then don't forget the SSW dress code applies as usual (e.g. dress up on Monday and Tuesday - no jeans).
 Today's forecast:
 Patchy fog early this morning, mostly in the south, then sunny. Light winds becoming northwesterly 15 to 25 km/h in the afternoon.
@@ -27,4 +27,4 @@ Uly
 --Powered by SSW.Shorts
 
 &lt;This email was sent as per: http://rules.ssw.com.au/do-you-have-a-dress-code &gt;
-Figure: Good Example – you can clearly see this was sent by a bot
+​​Figure: Good Example – you can clearly see this was sent by a bot

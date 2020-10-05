@@ -11,14 +11,14 @@ authors:
 
 Considering the memory management of .NET Framework String.Empty will get higher performance then using "".
  
-public string myString     
+​public string myString     
 {
  get
  {
  return ;
  }     
 }
-Figure: Bad code. Low performance
+Figure: Bad code. Low performance​​
 
 public string myString
 {     
@@ -26,7 +26,7 @@ public string myString
  {     
  return string.Empty;     
  }     
-}
+}​
    Figure: Good code. Higher performance
 
-We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#TimeSpan) to check for this rule.
+We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#TimeSpan) to check for this rule.​

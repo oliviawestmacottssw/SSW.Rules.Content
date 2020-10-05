@@ -11,7 +11,7 @@ authors:
 
 If you want users to take action on the web page content, add a "banana" - something that makes it obvious what the user is supposed to do.
 
-For example, if your page is selling software, make it easy for your users to make a purchase. People don't have a lot of time to read your entire page and find the right link, so it is important to grab their attention by using a "banana".
+For example, if your page is selling software, make it easy for your users to make a purchase. People don't have a lot of time to read your entire page and find the right link, so it is important to grab their attention by using a "banana".​​
  
 #### Why do we call it "banana rule"?
 
@@ -22,6 +22,6 @@ How would you get a monkey pay attention to something? You could lure him by tem
 This is how the "banana rule" should be applied:
 
 [[badExample]]
-| ![ Bad Example – "Points+Pay"button takes the attention over "Go" which should be the "banana"So, remember most pages need a "banana" to get them to where you want them. "Bananas" are big, simple and stand out from the rest of the page](BadBananaQantas.png)
+| ![ Bad Example – "Points+Pay"button takes the attention over "Go"​ which should be the "banana"So, remember most pages need a "banana" to get them to where you want them. "Bananas" are big, simple and stand out from the rest of the page](BadBananaQantas.png)
 
 ![ Great Example - Team Viewer also has a good banana](BananaTeamviewer.png)

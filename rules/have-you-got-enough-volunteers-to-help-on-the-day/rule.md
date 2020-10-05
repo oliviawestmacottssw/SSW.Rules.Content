@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-It is relatively easy to get volunteers for your event, but it is often something that is left until the last minute.
+It is relatively easy to get volunteers for your event, but it is often something that is left until the last minute.​​
  
 You need people to help you make everything happen. Unless you have attendees willing to pay lots of money for tickets, you won't have the luxury of paying staff to make the event happen.
 
@@ -18,4 +18,4 @@ Volunteers can come from many directions such as
 - Friends and colleagues
 
 
-You can almost not have enough volunteers and with a bit of notice you shouldn't have any problems finding them.
+You c​an almost not have enough volunteers and with a bit of notice you shouldn't have any problems finding them.

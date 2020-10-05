@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Just as barcodes allow machines to read data from items in stores, QR codes are a barcode-like vector between online and offline information. QR codes can be easily accessed by any phone in the world that has a camera. They enable everything from online to offline (O2O) marketplaces, which are huge in China.
+​Just as barcodes allow machines to read data from items in stores, QR codes are a barcode-like vector between online and offline information. QR codes can be easily accessed by any phone in the world that has a camera. They enable everything from online to offline (O2O) marketplaces, which are huge in China.
  
 ### #1 Use a QR code to follow a WeChat Business/Brand Account
 
@@ -27,7 +27,7 @@ Businesses - Followers of the WeChat Business/Brand accounts can be sent a limit
  
 ![](Follow official account.png) 
 **Figure****: The WeChat app can scan the QR code, then allow the customer to click the follow button. They will then receive regular updates.
-**
+​**
 
 ### #2 Use a QR code to share WeChat contact information
 
@@ -40,6 +40,7 @@ Note: QR codes can be scanned by tapping and hold on it on screen.
  
 ![ Tap and hold on a QR image to extract a QR code](extract a qr code.PNG) 
 
+​
 
 ### #3 Use a QR code to receive money in Alipay 
 
@@ -64,6 +65,7 @@ Once your total has been rung up, show your “Pay Vendor” QR code for the mer
  
 ![ How to show your “Pay Vendor” QR code on Alipay](pay vendor alipay.png) 
 
+​
 
 ### #5 Use a QR code to check product history and verification
 
@@ -94,7 +96,7 @@ Some social networks can also offer login by scanning a QR code using the networ
  
 ![ use Weibo App to scan a QR code to login their services on the web.](weibo login.png)  
 
-
+​
 
 
 
@@ -106,7 +108,7 @@ Wi-Fi via WeChat is a feature for businesses and public places offering free Wi-
  
 ![ how to connect to a public hotspot](hotspot qr code.jpg)  
 
-
+​
 
 
 
@@ -124,7 +126,7 @@ You have to apply for a virtual bus card and use the card when you are boarding 
  
 ![ Presenting your QR code to a bus scanner.](show qr code bus.jpg)  
 
-
+​
 
 
 

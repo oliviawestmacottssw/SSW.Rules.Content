@@ -9,12 +9,12 @@ authors:
 
 ---
 
-Knowing the context and use of certain strings will help translators choose the right translation from the beginning when you localize your web application to make it available in a variety of languages. Most translation tools will allow translators to see these comments as they translate the strings. To make your comments more friendly, it's better to list in the comment field where this text is used. e.g.
+​​Knowing the context and use of certain strings will help translators choose the right translation from the beginning when you localize your web application to make it available in a variety of languages. Most translation tools will allow translators to see these comments as they translate the strings. To make your comments more friendly, it's better to list in the comment field where this text is used. e.g.
 
-- Text
+- ​Text
 - Validation
 - Tooltip
-- Textbox Placeholder
+- Textbox Placeholder​​
 
  
-![ Use the comment field in the resx to tell you where it is used](Localization_Commonts.jpg)
+![ Use the comment field in the resx to tell you where it is used​](Localization_Commonts.jpg)

@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Comments can be useful for documenting code but should be used properly. Some developers like seeing lots of code comments and some don't.
+​Comments can be useful for documenting code but should be used properly. Some developers like seeing lots of code comments and some don't.
  
 Some tips for including comments in your code are:
 
@@ -25,7 +25,7 @@ public int GetResult(string lastname)
 {
     // get the first matching customer from the repository
     return repository.Customer.First(c =&gt; c.LastName.StartsWith(lastname));
-} Figure: Bad Example - The first comment is only valuable because the method is poorly named, while the second describes \*what\* is happening, not \*why\*public int GetFirstCustomerWithLastName(string lastname)
+} Figure: Bad Example - The first comment is only valuable because the method is poorly named, while the second describes \*what\* is happening, not \*why\*​public int GetFirstCustomerWithLastName(string lastname)
 {
     // we use StartsWith because the legacy system sometimes padded with spaces
     return repository.Customer.First(c =&gt; c.LastName.StartsWith(lastname));

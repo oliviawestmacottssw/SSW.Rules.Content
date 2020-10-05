@@ -34,4 +34,4 @@ Make sure CRM 2015 update rollup 1 has been applied before upgrading to CRM 2016
 | --- |
 8. Restore the file MetadataDiffs.xml to its original state using the backup taken at step 1.
 
- Source from: [Error updating Microsoft Dynamics CRM 2015 0.1](https://www.remotingcoders.com/Blogsite/Lists/Posts/Post.aspx?ID=83)
+ Source from:​ [Error updating Microsoft Dynamics CRM 2015 0.1](https://www.remotingcoders.com/Blogsite/Lists/Posts/Post.aspx?ID=83)

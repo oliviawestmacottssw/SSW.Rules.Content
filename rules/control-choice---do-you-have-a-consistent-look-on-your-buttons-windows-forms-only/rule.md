@@ -9,7 +9,7 @@ authors: []
 
 Question: What is wrong with this Picture?
 
-![ What is wrong? ](../../assets/InconsistentButtonStyles.jpg)
+![ What is wrong?   ​](../../assets/InconsistentButtonStyles.jpg)
 
 **Answer:** There are three different types of buttons in the Application:
 

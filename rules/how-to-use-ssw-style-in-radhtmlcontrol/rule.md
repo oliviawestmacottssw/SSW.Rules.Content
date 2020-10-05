@@ -36,7 +36,7 @@ We have a program called [http://rules.ssw.com.au/WebSites/RulesToBetterWebsites
 
 
 <br>            Figure: SSW LookOut! for Outlook warns you if you accidentally 'Reply All' when
-<br>            you have been BCC'ed **
+<br>            you have been BCC'ed  ** 
  1.  Not sure how user inputs the  content into this page. Anyway, here is the right way to add content via Telerik Editor. Please read below example of how I redo this part in Telerik Editor without changing the code manually
 
 ![Copy content in the notepad2. Delete the current content from Telerik for a new start;](SaveContentInNotePad.jpg)

@@ -11,7 +11,7 @@ authors:
 
 ---
 
-The current trend in web development is to use a large range of front-end libraries to give a great user experience.
+​The current trend in web development is to use a large range of front-end libraries to give a great user experience.
 
 
 
@@ -33,7 +33,7 @@ With NPM, we specify the name of the package and the version number we want to u
 
 
 
-
+​
 ![ Example of NPM in action](../../assets/J6Na8pCSdsCvnIzhWHXLpbjtZd6Jp54rITnBd47JVS_7fDCcThur_Mwb3XmbCucETMHzGO7IGJFU3cUZZYJ1xr3-A_Rj9mzZkgXMWHD0B3hAWKS9gUXveakUU52HFdH_c8a2y8I.jpg)
 
 
@@ -82,4 +82,4 @@ This key feature was removed, but with the addition of tasks runners to Visual s
 
 
 
-[Glup 101 in Visual Studio 2015](http://blog.chrisbriggsy.com/Gulp-101-CSS-all-the-LESS/ "Glup 101 in Visual Studio 2015!")
+[Glup 101 in Visual Studio 2015​ ​​](http://blog.chrisbriggsy.com/Gulp-101-CSS-all-the-LESS/ "Glup 101 in Visual Studio 2015!")​​

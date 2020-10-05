@@ -19,6 +19,6 @@ Resolve this by:
 
 ![ #1 Create an appsettings.Local.json file. Set this to be ignored by your source code control system](local-config-file-1.png)
 
-![ #2 Add code to apply this configuration file in Program.cs](local-config-file-2.jpg)
+![ #2 ​Add code to apply this configuration file in Program.cs](local-config-file-2.jpg)
 
 Now, any new developer that needs a custom connection string (or any other configuration setting) can create their own appsettings.Local.json file without affecting any other team member’s configuration.

@@ -21,9 +21,9 @@ index:
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
 
-If you still need help, visit [Application Lifecycle Management](http&#58;//www.ssw.com.au/ssw/Consulting/ALM.aspx) and book in a consultant.
+If you still need help, visit [Application Lifecycle Management](http&#58;//www.ssw.com.au/ssw/Consulting/ALM.aspx) and book in a consultant.​
 
-Migrating from TFS 2013 Update 4 to TFS 2015.
+​Migrating from TFS 2013 Update 4 to TFS 2015.
 
 Upgrading Team Foundation Server can be a daunting task. Be assured that things have become easier and if you follow this guide, it will minimize your downtime.
 

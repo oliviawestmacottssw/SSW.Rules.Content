@@ -11,9 +11,9 @@ authors:
 
 ---
 
-These are the other major CRM engines that compete with Microsoft Dynamics 365:
+​​These are the other major​ CRM engines that compete with Microsoft Dynamics 365:
 
-- Salesforce CRM
+- ​Salesforce CRM​
 - Base CRM
 - Insightly CRM
 - Zoho CRM
@@ -25,4 +25,4 @@ These are the other major CRM engines that compete with Microsoft Dynamics 365:
 - ProsperWorks CRM
 
  
-Know more on [Microsoft Dynamics 365 Consulting](https&#58;//www.ssw.com.au/ssw/Consulting/Dynamics365.aspx).
+Know more on [Microsoft Dynamics 365 Consulting](https&#58;//www.ssw.com.au/ssw/Consulting/Dynamics365.aspx).​

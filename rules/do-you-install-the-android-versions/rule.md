@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Installing MS Lync client on Andriod devices. Employees should be contactable no matter if they are in the office or not  (at a client). By installing the Lync client, everyone knows where they are and if they are available to take calls or answer questions that may arise. 
+​​Installing MS Lync client on Andriod devices. Employees should be contactable no matter if they are in the office or not  (at a client). By installing the Lync client, everyone knows where they are and if they are available to take calls or answer questions that may arise. 
 1. Search for “Lync” in the [Play store](https://play.google.com/store)
 ![ Search for Lync in Playstore](241b2b_android_playstore.png)
 
@@ -23,4 +23,4 @@ Installing MS Lync client on Andriod devices. Employees should be contactable no
     - Username is domain\username. For example SSW2000\davidberkes
 
 
-Read more about     [implementing Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).
+Read more about     [​implementing Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).

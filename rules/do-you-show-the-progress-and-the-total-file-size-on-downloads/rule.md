@@ -9,7 +9,7 @@ authors:
 
 ---
 
-When a user downloads a file from your site, they should see a progress bar along with                     the total size and estimated time, this way they will see the size of the download                     increasing and will knowing when it will finish.
+When a user downloads a file from your site, they should see a progress bar along with                     the total size and estimated time, this way they will see the size of the download                     increasing and will knowing when it will finish.​​
  
 [[badExample]]
 | ![ there is no indication of the total size of the download or<br>                        the percent complete, thus no estimate of how long left](bar-progress-bad.jpg)                        

@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Making reports on websites printable can be difficult. While there are CSS media and rules to help make pages printable, there are always issues with page breaks, browser quirks and tables.  
+Making reports on websites printable can be difficult. While there are CSS media and rules to help make pages printable, there are always issues with page breaks, browser quirks and tables.  ​
 
 ![ Beautiful HTML report ](print-reports-bad-1.png)
 

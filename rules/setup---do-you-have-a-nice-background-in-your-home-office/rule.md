@@ -13,11 +13,11 @@ authors:
 
 ---
 
-If you have constant video calls with clients or work colleagues, one of the first things you should think about should be how to have a nice background., for the calls.
+​If you have constant video calls with clients or work colleagues, one of the first things you should think about should be how to have a nice background.​, for the calls.​
 
-When possible, try to have a neutral wall or setup behind you or with minimal objects – that will cause less distraction for others when talking to you. Less is more.
+When possible, try to have a neutral wall or setup behind you or with minimal objects – that will cause less distraction for others when talking to you. Less is more.​
  
-In other words, you may be fond of family pictures hanging on the wall or band posters, but the person on the other side may find them distracting. Also watch out if you have a pile of clothes to fold, boxes, or any mess that may be behind your desk.
+​In other words, you may be fond of family pictures hanging on the wall or band posters, but the person on the other side may find them distracting. Also watch out if you have a pile of clothes to fold, boxes, or any mess that may be behind your desk.
 
 A nice test is to sit at your desk and to take a selfie to see what others will see in your background. Then organize your background accordingly.
 
@@ -26,5 +26,5 @@ If you want to go the extra mile, consider designating one wall as your company 
 [[badExample]]
 | ![ Bad Example – A messy background will not look professional](bad-background.png)
 
-[[goodExample]]
-| ![ Good Example – Branded monitor in the background showing off the company website](good-background.png)
+![](good-background.png)​
+Figure: Good Example – Branded monitor in the background showing off the company website

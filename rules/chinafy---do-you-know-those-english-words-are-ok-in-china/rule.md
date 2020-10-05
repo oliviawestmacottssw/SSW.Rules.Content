@@ -9,11 +9,11 @@ authors:
 
 ---
 
-If you are localizing your application to China, some of the English words are commonly used in China. Instead of translating a word to Chinese bluntly, you should keep them in English.
+​If you are localizing your application to China, some of the English words are commonly used in China. Instead of translating a word to Chinese bluntly, you should keep them in English.
  
 Here is a list of English words which are OK to use on your user interface:
 
-- OK
+- ​OK
 - APP
 - FAQ
 - VS
@@ -21,7 +21,7 @@ Here is a list of English words which are OK to use on your user interface:
 - ID
 - VR
 - AI
-- 3D
+- 3D​
 
 
 [[goodExample]]
@@ -33,10 +33,12 @@ Here is a list of English words which are OK to use on your user interface:
 [[goodExample]]
 | ![ Good Example - SugarLearning.cn site use "FAQ" on the main menu](sugarlearning cn site.jpg)
 
-
+​   
 [[goodExample]]
 | ![ Good Example - Apps keep "V" or "Version" in English](versionok.png)
 
-
+​   
 [[goodExample]]
 | ![ Good Example - iOS keep "ID" in English](FACE ID.png)
+
+​ ​​​

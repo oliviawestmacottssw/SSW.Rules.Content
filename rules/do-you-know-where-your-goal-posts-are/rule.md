@@ -11,14 +11,14 @@ authors:
 
 ---
 
-When starting on the path of improving application performance, it is always important to know when you can stop. The goal posts would depend on the type of application being written and the number of active users of the application and the budget. Some examples of performance goals are:
+When starting on the path of improving application performance, it is always important to know when you can stop. The goal posts would depend on the type of application being written and the number of active users of the application and the budget. Some examples of performance goals are:​​​
  
 ### Example 1: High performance website
 
 
-- Every page refresh is under 500ms
+- ​Every page refresh is under 500ms
 - Able to handle 1000 active concurrent users
-- Getting at least a score of 80 for Performance on Google Lighthouse - with throttling turned on
+- ​Getting at least a score of 80 for Performance on Google Lighthouse - with throttling turned on
 
 
 ### Example 2: Office Intranet Application
@@ -27,8 +27,8 @@ When starting on the path of improving application performance, it is always imp
 
 - Every page referesh is under 2 seconds
 - Able to handle 50 active concurrent users
-- Getting at least a score of 95 for Performance on Google Lighthouse - with throttling turned off.
+- ​Getting at least a score of 95 for Performance on Google Lighthouse - with throttling turned off.
 
 
 
-With the goal posts firmly in sight, the developers can begin performance tuning the application.
+With the goal posts firmly in sight, the developers can begin performance tuning the application.​

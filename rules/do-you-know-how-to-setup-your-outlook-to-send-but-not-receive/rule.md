@@ -17,7 +17,7 @@ Here is how you do it:
 1. Open Outlook and create a new Exchange account: <br>      
 
 ![](mail1.png)Figure - Tick manually configure server settings
-2. Enter your server name and user name, but un-tick <br>      **Use Cached Exchange Mode**:  <br>      
+2. ​Enter your server name and user name, but un-tick <br>      **Use Cached Exchange Mode**: ​ <br>      
 ![](Mail3.png)Figure - Un-tick Use Cached Exchange Mode
 3. Finish the setup and then open Outlook
 4. Configure your Send / Receive Groups: <br>      
@@ -37,5 +37,5 @@ Here is how you do it:
 
 **Suggestion to the Microsoft Outlook Team:**
 
-- Give us a "Sync last x weeks" for each folder
-- Give us a "Work in Minimal Mode" that does the above
+- ​Give us a "Sync last x weeks" for each folder
+- Give us a "Work in Minimal Mode"​ that does the above

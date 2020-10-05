@@ -11,7 +11,7 @@ authors:
 
 ---
 
-When you get your task done, you should carefully check each item in the email task and make sure it's qualified. For some tasks, you need someone to check it again for you before you send the "Done" email.  
+​​When you get your task done, you should carefully check each item in the email task and make sure it's qualified. For some tasks, you need someone to check it again for you before you send the "Done​" email.  
 
 
 
@@ -23,4 +23,4 @@ Reply to the "Done" email like below and CC the person who checked the email for
 When you action a task for adding web content (such as a rule or suggestion), firstly paste the content into a new Word file and run the "Grammar & Spelling Check" to check if there are any errors. After the "Grammar & Spelling Check", you can add it to your website. After that, run [Link Auditor](http://sswlinkauditor.com/) in order to keep 0 bad links on that page.
 
   
-![ Reply to the email with grammar & spelling check and CA check results](SpellAndLinkCheck.jpg)
+![ ​Reply to the email with grammar & spelling check and CA check results](SpellAndLinkCheck.jpg)

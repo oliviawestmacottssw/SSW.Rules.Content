@@ -8,7 +8,7 @@ authors: []
 ---
 
 Why do people always invent ways of getting the same old server name and a database name? Look at this image from [Speed Ferret](http://www.ssw.com.au/ssw/Standards/DeveloperGeneral/SQLservertools.aspx#SpeedFerret) - one of my favorite SQL Server utilities.
-  
+   ​ 
 [[badExample]]
 | ![ Bad Example - Custom database connection screen in Speed Ferret](../../assets/CustomDatabaseConnectionScreen.jpg) 
 

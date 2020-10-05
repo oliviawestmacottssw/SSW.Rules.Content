@@ -9,9 +9,9 @@ authors:
 
 ---
 
-The code within your solution should be consistent. (We all know that)
+The code within your solution should be consistent. (We all know that)​
 
-In an open source project the easy way to ensure that all developers share and are aware of the expectations is to include and ENGINEERING-GUIDELINES.md markdown file that includes important technical considerations like:
+In an open source project the easy way to ensure that all developers share and are aware of the expectations is to include and ENGINEERING-GUIDELINES.md markdown file that includes important technical considerations like​:
  
 
 
@@ -25,4 +25,4 @@ In an open source project the easy way to ensure that all developers share and a
 
 
 [[goodExample]]
-| ![ Good Example - Adding an ENGINEERING-GUIDELINES.md to your project clearly defines the engineering practices and guidelines that must be required for contributors pull requests to be accepted](guidelines-opensource.png)
+| ![ Good Example - Adding an ENGINEERING-GUIDELINES.md to your project clearly defines the engineering practices and guidelines that must be required for contributors pull requests to be accepted​  ](guidelines-opensource.png)

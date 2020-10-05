@@ -7,4 +7,4 @@ authors: []
 
 ---
 
-It's important that the remote attendees are included, and because they can't see the other attendees, and audio quality might not be ideal, text is much better for short comments and replies.
+​It's important that the remote attendees are included, and because they can't see the other attendees, and audio quality might not be ideal, text is much better for short comments and replies.​

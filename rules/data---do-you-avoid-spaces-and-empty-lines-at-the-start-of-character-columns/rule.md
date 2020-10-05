@@ -11,18 +11,18 @@ authors:
 
 ---
 
-Text in character columns (char, varchar, text, nchar, varchar, text) can start with spaces or empty lines which is usually data entry error.
+​​​​​​​Text in character columns (char, varchar, text, nchar, varchar, text) can start with spaces or empty lines which is usually data entry error.​
 
-The best way to avoid this issue is to handle whitespace in the middle-tier before it reaches the database.
+The best way to avoid this issue is to handle whitespace in the middle-tier before it reaches the database.​​
  
-Here’s an example of removing whitespace and carriage returns in the middle-tier using Regex:
+Here’s an example of removing whitespace and carriage returns in the middle-tier using Regex:​
 
 static string Trim(string inputText)
 {
   Match m = Regex.Match(inputText, @"[^\s]");
   return m.Success ? inputText.Substring(m.Index) : inputText;
 }
-Figure: C# Removing whitespace and carriage returns in middle-tier
+​​Figure: C# Removing whitespace and carriage returns in middle-tier
 
 The code above:
 
@@ -30,4 +30,4 @@ The code above:
 - Retrieves the index of the character
 - Returns the text from the character onwards, thus removing the whitespace at the start
 
-This code could be triggered in the middle-tier before inserting into the database.
+This code could be triggered in the middle-tier before inserting into the database.​

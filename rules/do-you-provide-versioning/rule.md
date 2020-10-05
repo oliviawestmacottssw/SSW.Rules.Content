@@ -16,7 +16,7 @@ There are typically three main ways people provide versioning.
 1. **Change the URL:** Append a version number in the path
 e.g. [https://developer.github.com/v3/](https&#58;//developer.github.com/v3/)
     1. Best choice for anonymous API access (callers may not be authenticated)
-    2. E.g. Github, Twitter
+    2. E.g. Github, Twitter​
 2. **Based upon caller:**The caller has been authenticated and you determine the version of the API based upon the customer's record.
     1. Your URL's never change
     2. Allows you to see the oldest version that customers are using and notifying customers to upgrade
@@ -25,7 +25,7 @@ e.g. [https://developer.github.com/v3/](https&#58;//developer.github.com/v3/)
     1. Your URL's never change
 
 
-All of these methods work well. The above list is in order of our recommendations.
+All of these methods work well. The above list is in order of our recommendations. ​
 
 **Option 2** is a viable solution as you only have a few authenticated users that will consume the web service. It also allows you to notify users if they are using an old version that will be decommissioned.
 

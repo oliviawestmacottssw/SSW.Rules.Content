@@ -26,7 +26,7 @@ Figure: Bad example - changing source PHP files is complicated and require devel
 
 ### Custom Read More Message
 
-To customize the message, simply add a space after **  
+To customize the message, simply add a space after **  ​
 **
 
 Figure: Custom "read more" link

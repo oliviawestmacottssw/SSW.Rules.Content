@@ -10,7 +10,7 @@ authors:
 ---
 
 Gated Checkins are great for verifying your project builds successfully before a checkin occurs, but the workflow and dialog messages can be difficult to follow.  Sometimes it’s not clear what you need to do next as a developer.<br><br> 
-The process for a project with a Gated Checkin build is:
+​​The process for a project with a Gated Checkin build is:
 
 1. The developer clicks <br>      **Check In**
 2. Changes are not checked in, but are shelved and a build is queued
@@ -18,7 +18,7 @@ The process for a project with a Gated Checkin build is:
 
 
 **Note:** This relies on the     **Build Notifications** tool running, which may not be the case.  If it’s not running, the developer has to manually reconcile their workspace before they can effectively continue working.
-
+ ​  
 ![ The developer is notified if a gated check-in resulted in a commit](gated-checkin-1.jpg)
 
 If you don't have the     **Build Notifications** tool running or you click     **Ignore**, you will have to manually reconcile. There are a few ways to do this.

@@ -11,11 +11,11 @@ authors:
 
 By default, the group header of a list shows bigger font size only on modern UI, this is fine for one level group. However, if you have two level groups, it could be better to show different header styles between level one and level two group headers.
  
-To implement this, you will need to inject a custom style to first level group header. e.g.
+​To implement this, you will need to inject a custom style to first level group header.​ e.g.
 
-.ms-GroupedList-group > .ms-GroupHeader .ms-GroupHeader-title {
+​​.ms-GroupedList-group > .ms-GroupHeader .ms-GroupHeader-title {
     font-weight:600;
-}
+}​
 
 
 

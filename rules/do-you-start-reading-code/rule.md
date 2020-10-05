@@ -16,7 +16,7 @@ authors:
 *“Aim for simplicity. I want to code to read like poetry”*
  - Terje Sandstrom
  
-### Good code
+### Good code​​
 
 
 - Is clear and easy to read
@@ -40,7 +40,7 @@ public IEnumerable&lt;Customer&gt; GetSupplierCustomersWithMoreThanZeroOrders(in
 }Figure: This code explains what it is doing as you read left to right, and why it is doing it when you read top to bottom.
 **Tip: **Read the book [Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA) by Robert. C. Martin.
 
-### Good code is declarative
+### Good code is declarative​​
 
 
 For example, I want to show all the products where the unit price less than 20, and also how many products are in each category.
@@ -82,7 +82,7 @@ result = products
 Figure: Good example - using LINQ
 **Tip: **For more information on why declarative programming (aka LINQ, SQL, HTML) is great, watch the TechDays 2010 Keynote by Anders Hejlsberg.Anders explains why it's better to have code "tell what, not how".
 
-### Clean front-end code - HTML (This one is questionable as HTML is generally a designer issue)
+### Clean front-end code - HTML (This one is questionable as HTML is generally a designer issue)​​
 
 
 Anyone who creates their own HTML pages today should aim to make their markup semantically correct. For more information on semantic markup, see [http://www.webdesignfromscratch.com/html-css/semantic-html/](http&#58;//www.webdesignfromscratch.com/html-css/semantic-html/).
@@ -93,7 +93,7 @@ For example:
 - &lt;b&gt; is for bolding, not for emphasizing (&lt;strong&gt; and &lt;em&gt;) do that.
 
 
-### Clean Front-End code
+### Clean Front-End code​
 
 
 

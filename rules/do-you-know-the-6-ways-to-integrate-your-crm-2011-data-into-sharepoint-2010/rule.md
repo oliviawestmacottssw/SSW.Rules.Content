@@ -40,7 +40,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 ![](wrong.gif "clip_image004[15]")Only recently released. |
 
  
-![](figure5.jpg "clip_image010") 
+![](figure5.jpg "clip_image010") ​
 
 **More information:**    
     Download from Microsoft
@@ -56,15 +56,15 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 
 | Pros | Cons |
 | --- | --- |
-| 
-![](correct.gif "clip_image002[2]")Best performance<br><br>
+| ​
+![](correct.gif "clip_image002[2]")Best performance<br><br>​
 ![](correct.gif "clip_image002[2]")Codeless | 
 ![](wrong.gif "clip_image004")Read-only<br><br>
 ![](wrong.gif "clip_image004[1]")Not available for hosted CRM<br><br>
 ![](wrong.gif "clip_image004[2]") Security issues as you are exposing the view. |
 
     Filtered Views in Microsoft CRM provide access to the data available that supports providing picklist name and id values (lookup tables).
-    **More information:**
+    **More information: **
     If you only want read-only for CRM on-premises data for SharePoint users, this solution is fine. You create the External Content Type directly against the Filtered Views in the CRM database.
     http://msdn.microsoft.com/en-us/library/gg328467.aspx
  
@@ -84,7 +84,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 ![](wrong.gif "clip_image004[5]")Less performance than SQL filter views directly #1 |
 
     #1 Note: Performance could be improved by making the reads from the views and the writes through the web service
-    **More information: **
+    **More information:  **
     1. Use BCS in VS 2010
     2. Write code that calls the CRM web services (that access the CRM data)
     3. Test
@@ -103,11 +103,11 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 ![](wrong.gif "clip_image004[8]")Read-Only<br><br>
 ![](wrong.gif "clip_image004[9]")No easy way to consume |
 
-    **
-** **Note:** You can really only call the OData endpoint from an application that already has an authentication cookie with the CRM server. 
+    ** 
+** **Note: **You can really only call the OData endpoint from an application that already has an authentication cookie with the CRM server. 
 i.e. you can't impersonate and call it like you can the standard WCF endpoints 
 So it is really only suited to calling from Silverlight and JavaScript web resources that are delivered inside CRM (because they have the cookie)
-    **More information:**
+    **More information: **
     The first step is to expose the data:
     1. Install [http://crm2011odatatool.codeplex.com](http://crm2011odatatool.codeplex.com/)
     2. Make a query
@@ -155,3 +155,5 @@ Summary: SharePoint RSS view web part -> OData- > CRM database
     - CRM 2011 exposes it data as OData, but cannot consume OData
     - SharePoint 2010 exposes it data as OData, but cannot consume OData
     ....and there are no 3rd party solutions to solve this...
+
+​

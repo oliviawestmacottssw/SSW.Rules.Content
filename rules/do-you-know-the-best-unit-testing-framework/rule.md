@@ -9,7 +9,7 @@ authors:
 
 ---
 
-When getting started with unit testing, it is important to use the right tools for the job.
+When getting started with unit testing, it is important to use the right tools for the job.​
  
 ![](bestunittest-bad1.png)
 ![](bestunittest-bad1.png)Bad Example: MS Test was the default testing library for previous versions of .NET and Visual Studio but lacked many features that were available in more complete tools like NUnit

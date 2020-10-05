@@ -17,14 +17,14 @@ Developers are better at coding then creating documentation. However project ins
  
 In the prior rule:      [Do you review the documentation? we learnt of the 6 documents](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=951ffbf9-4066-42f3-a9b7-e0d8603e728b)
 
-There are 4 levels of project documentation. Documentation can start simple but ends up having a lot of manual steps. The best projects have simple documentation but more done automatically (level 4).
+​There are 4 levels of project documentation. Documentation can start simple but ends up having a lot of manual steps. The best projects have simple documentation but more done automatically (level 4).​​​
 
-### Level 1 - Lots of documentation step by step
+### Level 1 - Lots of documentation step by step​​​​​
 
 
-Add a document as a solution item and name it '\_Instructions.docx'
+Add a document as a solution item and name it '\_Instru​​ctions.docx'
 
-Tip: Microsoft Word documents are preferred over .txt files because images and formatting are important
+​​Tip: Microsoft Word documents are preferred over .txt files because images and formatting are important
 
 You can also break up this document into 4 smaller documents
 
@@ -45,33 +45,33 @@ Here's a suggestion of what these documents could contain.
 
 
 ![](BadNetProject.JPG)Bad example - A project without an instruction. 
-![](ProjectDocumentation.jpg)Good example - A project with instructions
+![](ProjectDocumentation.jpg)Good example - A project with instructions​
 
-Add a readme.md to your solution (Use [this](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=vsts)  as a guidance for markdown)
+Add a readme.md to your solution (Use [this​](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=vsts)  as a guidance for markdown)​​
 
-### Level #2: Lots of documentation (and the \*exact\* steps to Get Latest and compile)
+### ​​​Level #2: Lots of documentation (and the \*exact\* steps to Get Latest and compile)
 
 
 When a new developer starts on a project you want them to get up and running as soon as possible.
 
 If you were at Level 2 you might have a document that says:
 Dear Northwind Developer
-     This documentation describes what is required to configure a developer PC.
+     This documentation describes what is required to configure a developer PC.​
 
 Problems to check for:
-Windows 8 not supported
-Many things to build
-Lots of dependencies
+​​Windows 8 not supported
+​​Many things to build
+​​​Lots of dependencies​​
 
 
-You are at Level 2 when you have some static Word documents with the steps to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile.
+You are at Level 2 when you have some static Word documents with the steps​ to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile.
 
 ### Level #3: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
 
 
 ![ Level 2 Documentation includes database build scripts. We use <br>      ](instructions-level2.jpg)
 [SSW SQL Deploy](http://sqldeploy.com/) to make keeping all databases on the same version simple. Check out <br>      [how to use SQL Deploy here](http://tv.ssw.com/969/adam-stephensen-sql-deploy-demo)
-### Level #4: Less documentation (and Get Latest and compile with a PowerShell script)
+### Level #4: Less documentation (and Get Latest and compile with a PowerShell script)​
 
 
 A perfect solution would need no static documentation. Perfect code would be so self-explanatory that it did not need comments. The same rule applies with instructions on how to get the solution compiling: the best answer would be for the solution to contain scripts that automate the setup.
@@ -104,7 +104,7 @@ Fixed: \_CSRUN\_STATE\_DIRECTORY user variable set
  
 Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
 
-WARNING: No automated fix availab le for 'Azure Storage Service is running'
+WARNING: No automated fix availab ​​le for 'Azure Storage Service is running'
  
 WARNING: Abandoning remainder of script due to critical failures.
 

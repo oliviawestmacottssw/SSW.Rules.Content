@@ -20,7 +20,7 @@ For large, expensive projects, the best option is to configure an on-premises bu
 
 To configure an on-premises build server for Visual Studio Online, check out Anthony Borton's great walkthrough:
 
-http://myalmblog.com/2014/04/13/configuring-on-premises-build-server-for-visual-studio-online/
+[http://myalmblog.com/2014/04/13/configuring-on-premises-build-server-for-visual-studio-online/​](http://myalmblog.com/2014/04/13/configuring-on-premises-build-server-for-visual-studio-online/)
 
 
 

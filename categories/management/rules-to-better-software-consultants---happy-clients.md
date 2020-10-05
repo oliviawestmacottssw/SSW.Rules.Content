@@ -17,5 +17,5 @@ Aiming for 'happy clients' can be an elusive game. Ultimately what makes one cli
 
 The following steps are the processes by which you can manage client expectations and, with luck, keep them happy...
   
-![ Making premature statements is not an effective way of managing expectations  ](SuccessfulProjects_ManagingExpectations.jpg)
+![](SuccessfulProjects_ManagingExpectations.jpg)   ​Figure: Making premature statements is not an effective way of managing expectations
 

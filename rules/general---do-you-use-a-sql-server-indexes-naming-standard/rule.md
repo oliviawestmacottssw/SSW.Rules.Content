@@ -7,12 +7,12 @@ authors: []
 
 ---
 
-This standard outlines the procedure on naming Indexes at SSW for SQL Server. Use this standard when creating new Indexes or if you find an older Index that doesn't follow that standard.
+​​​This standard outlines the procedure on naming Indexes at SSW for SQL Server. Use this standard when creating new Indexes or if you find an older Index that doesn't follow that standard.
 
 
 
  
-**Note:** There is not a lot of use naming Indexes - we only do it when we are printing out documentation or using the 'Index Tuning Wizard' - then it becomes really handy.
+**​Note:** There is not a lot of use naming Indexes - we only do it when we are printing out documentation or using the 'Index Tuning Wizard' - then it becomes really handy.
 Do you agree with them all? Are we missing some? Let us know what you think.
 
 Index names are to have this syntax:
@@ -21,24 +21,24 @@ Index names are to have this syntax:
 [1] All indexes must have a corresponding prefix.
 
 
-| **Prefix**<br> | **Type**<br> |
+| ​**Prefix**<br> | ​**Type**<br> |
 | --- | --- |
-| pkc\_<br> | Primary Key, Clustered<br> |
-| pknc\_<br> | Primary Key, Non Clustered<br> |
-| ncu\_<br> | Non Clustered, Unique<br> |
-| cu\_<br> | Clustered, Unique<br> |
-| nc\_<br> | Non Clustered (Most Common)<br> |
-| <br> | <br> |
+| ​pkc\_<br> | ​Primary Key, Clustered<br> |
+| ​pknc\_<br> | ​Primary Key, Non Clustered<br> |
+| ​ncu\_<br> | ​Non Clustered, Unique<br> |
+| ​cu\_<br> | Clustered, Unique<br> |
+| ​nc\_<br> | ​Non Clustered (Most Common)<br> |
+| ​<br> | ​<br> |
 
 
-Make unique index name if possible. Ie. ProductName
+​Make unique index name if possible. Ie. ProductName
 [2] The name of the table that the Index refers to.
 [3] The name of the column(s) that the Index refers to.
 
-Index 'BillingID'
+​​Index 'BillingID'
 Primary Key 'aaaaaClient\_PK'
-Figure: Bad Example
+​​Figure: Bad Example
 
-'nc\_ClientDiary\_BillingID'
+​​​​'nc\_ClientDiary\_BillingID'
 'pknc\_ClientDiary\_ClientID'
-Figure: Good Example
+​Figure: Good Example

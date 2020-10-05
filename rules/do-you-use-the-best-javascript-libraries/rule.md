@@ -14,3 +14,9 @@ authors:
 It's<br>important to keep on top of what the best JavaScript frameworks are.
 
 In<br>this explosive video Ben Cull, SSW Solution Architect, will bombard you with<br>what are the best JavaScript Frameworks to use in 2016.
+ 
+
+`youtube: https://www.youtube.com/embed/Mf3wEJHAMXw`
+ 
+
+​

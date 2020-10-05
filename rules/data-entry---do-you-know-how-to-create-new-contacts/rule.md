@@ -9,13 +9,11 @@ authors:
 
 ---
 
-**Tip #1:** Avoid duplicates - Search to see if the Contact already exists before creating it.
+**Tip #1:** Avoid duplicates - Search to see if the Contact ​already exists before creating it.
 
-**Tip #2: **Generally you should be [creating these from leads](/Pages/Leads-can-be-converted-to-Opportunities-Contacts-and-Accounts.aspx), as it speeds up the process.
+**Tip #2: **Generally you should be [creating these from leads](/Pages/Leads-can-be-converted-to-Opportunities-Contacts-and-Accounts.aspx), as it speeds up​ the process.​
 
  
-[[badExample]]
-| ![ Bad Example - Click New, enter relevant contact information, and click "Save and Close"](NewContact.jpg) 
-
+![](NewContact.jpg)​​​ ​Fig​ure: Bad Example​ - Click New, enter relevant contact information, and click "Save and Close"​​​
 [[goodExample]]
 | ![ Good Example - open the Account and create the contact from there](Sales-COntacts.jpg)

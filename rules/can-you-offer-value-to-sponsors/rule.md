@@ -7,11 +7,11 @@ authors: []
 
 ---
 
-Putting on events aren’t free.
+Putting on events aren’t free. ​​​
  
 You need to pay for some or all of these
 
-- Venue
+- ​Venue
 - Catering
 - Prizes
 - Speaker expenses

@@ -9,9 +9,9 @@ authors:
 
 ---
 
-With a clearly defined target audience, it is much easier to determine where and how to market your company. Here are some tips to help you define your target market.
+With a clearly defined target audience, it is much easier to determine where and how to market your company. Here are some tips to help you define your target market.​​
  
-### 1. Define your Personas, who are your current customers, and why do they buy from you? 
+### ​1. Define your Personas, who are your current customers, and why do they buy from you? 
 
 - Look for common characteristics and interests.
 - Which ones bring in the most business?
@@ -32,7 +32,7 @@ With a clearly defined target audience, it is much easier to determine where and
 - Once you have your benefits listed, make a list of people who have a need that your benefit fulfills.
 
 
-### 4. Choose who to target: Who needs for your product or service, and who is most likely to buy it, you need to consider: 
+### ​4. Choose who to target: Who needs for your product or service, and who is most likely to buy it, you need to consider: 
 
 
 
@@ -53,10 +53,10 @@ With a clearly defined target audience, it is much easier to determine where and
 - Values
 - Interests/hobbies
 - Lifestyles
-- Behavior Evaluate your decision
+- Behavior Evaluate your decision ​​​
 
 
-### 6. Evaluate your decision 
+### 6. Evaluate your decision ​​​
 
 
 
@@ -66,7 +66,7 @@ Once you've decided who your target market is, ask yourself:
 - Will my target really benefit from my product/service? Will they see a need for it?
 - Do I understand what drives my target to make decisions?
 - Can they afford my product/service?
-- Can I reach them with my message? Are they easily accessible?
+- Can I reach them with my message? Are they easily accessible? ​
 
 
 
@@ -75,7 +75,7 @@ Now you know your audience, you need to stand out to them.  You can do this by h
 Your Value Proposition is hands down one of the most important elements in your marketing message. It tells your potential clients **why they should choose you over any of your competitors** and it makes the benefits of your products or services crystal clear from the get-go.
 
 It can be the key to attracting new business, increasing sales, and making your business a success. The main objective is to target specific groups of consumers to make your campaigns more cost-effective and making the promotion, pricing, and distribution of your products and/or services easier.
-The key to this, is not burying your message in buzzwords or meaningless slogans. You need to highlight your message, and make it a focal point on your website, and marketing campaigns.  
+The key to this, is not burying your message in buzzwords or meaningless slogans. You need to highlight your message, and make it a focal point on your website, and marketing campaigns.  ​
 
 
 

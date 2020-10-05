@@ -11,7 +11,7 @@ authors:
 
 ---
 
-- Wherever possible, book direct flights, and try to minimize connection times.
+- ​​Wherever possible, book direct flights, and try to minimize connection times.
 - Wherever possible, try to get flexible flights in case they need to be changed.
 - Appointments - If accommodation is also required then enter the accommodation details into another appointment
 - When booking flights, know the preferred time (on weekdays, avoid evening flights before 8pm. Peak times incur a Uber surcharge)
@@ -21,5 +21,5 @@ authors:
 - Avoid Paper tickets - they are hard to change. Go for E-tickets
 - When booking, leave an option to upgrade to business class
 - Note: On Qantas this can only happen if you have avoided the evil fare types of N, O, or Q (aka ReadyDeal fare)
-- Before finalising the booking always get written confirmation by having your boss sign a print-out of the itinerary or via email or IM.
+- Before finalising the booking always get written confirmation by having your​ boss sign a print-out of the itinerary or via email or IM.
 - Depending on where you are traveling, you may need to take extra precautions when it comes to protecting your luggage. If you will be visiting an unsafe airport or location, it might be worth upgrading to a more secure suitcase such as the type suggested in this YouTube video, "[Defeat Dishonest Baggage Handlers](https&#58;//www.youtube.com/watch?v=tbpKhHwwtiY&amp;feature=share)"

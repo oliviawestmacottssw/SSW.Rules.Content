@@ -9,7 +9,7 @@ authors:
 
 ---
 
-When presenting to an audience using visual studio it is important to alter a few things for the best possible experience for the audience.
+​When presenting to an audience using visual studio it is important to alter a few things for the best possible experience for the audience.
 
  
 
@@ -34,7 +34,7 @@ Most importantly, you can have all these things done for you in the click of a b
 
  
 [[goodExample]]
-| ![ Good Example - Code is much more readable and Visual Studio UI is large enough to read](present_on.png) 
+| ![ Good Example - Code is much more readable and Visual Studio UI is large enough to read​](present_on.png) 
 
 
 **

@@ -10,11 +10,11 @@ authors:
 ---
 
 When a user is created in Active Directory (AD) a Global Unique Identifier (GUID) is also created. As the name suggests this is Unique for each user and is never duplicated in a Domain.
- 
+ ​
 ![ GUID for User Steven Andrews](guid.png)
 
 When adding a user to CRM they are assigned with an Employee ID, this is linked to the AD account’s GUID.
-
+​​
 ![ AD User StevenAndrews is tied to STA Employee ID through AD GUID](aduser.png)
 
 When a user leaves many companies go through the process of disabling the CRM account and then deleting the AD User.

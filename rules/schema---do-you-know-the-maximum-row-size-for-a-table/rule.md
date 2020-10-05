@@ -9,4 +9,4 @@ authors:
 
 ---
 
-A tables' maximum row size should be less than the size of a single SQL Server data page (8060 bytes). Otherwise, data entry forms can give errors is not validated correctly.
+​A​ tables' maximum row size should be less than the size of a single SQL Server data page (8060 bytes). Otherwise, data entry forms can give errors is not validated correctly.

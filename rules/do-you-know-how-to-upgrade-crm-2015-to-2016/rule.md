@@ -7,11 +7,11 @@ authors: []
 
 ---
 
-CRM 2016 has many improvements over it's predecessors, including Power BI integration, improved navigation, and the new Outlook extension.
+CRM 2016 has many improvements over it's predecessors, including Power BI integration, improved navigation, and the new Outlook extension​.
 
 
 
-The procedure for upgrading CRM 2015 to 2016 is: 
+​​The procedure for upgrading CRM 2015 to 2016 is: 
 
 
 1. Apply Windows Update on CRM and Database servers
@@ -33,7 +33,7 @@ The procedure for upgrading CRM 2015 to 2016 is:
 
 ![ Select the demo organization to be upgraded](upgrade_demoorg.png) 
 
-Note: It's better to have an empty demo organization to be upgraded first, so that you can test if the server upgrade has no issues.
+​​​​Note: It's better to have an empty demo organization to be upgraded first, so that you can test if the server upgrade has no issues.
 
 ![ Successfully upgraded CRM server](upgrade_successfully.png) 
 
@@ -51,7 +51,7 @@ Note: It's better to have an empty demo organization to be upgraded first, so th
 
 
 
-If using Email Router, do the following 2 steps to upgrade Email Router to 2016
+​If using Email Router, do the following 2 steps to upgrade Email Router to 2016
 
 7. Go to CRM server | Uninstall "Microsoft Dynamics CRM 2015 Email Router"
 
@@ -62,6 +62,6 @@ If using Email Router, do the following 2 steps to upgrade Email Router to 2016
 
 ![](install_emailRouter.png)** Figure: Install required components for Email Router 2016**
 ![](emailRouter_installtionFinish.png)** Figure: Successfully installed Email Router 2016****
-![ Configure Email Router ](configurate_emailrouter_2.png) 
+![ Configure​ Email Router ](configurate_emailrouter_2.png) 
 
 You're now ready to roll with Microsoft Dynamics CRM 2016. If you had any trouble with this guide, please let us know with a rating of this rule.

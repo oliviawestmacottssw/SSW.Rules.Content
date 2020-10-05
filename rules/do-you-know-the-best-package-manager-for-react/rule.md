@@ -11,9 +11,9 @@ authors:
 
 ---
 
-When working with JavaScript packages there are 2 common choices:
+​When working with JavaScript packages there are 2 common choices:
   
 ![ npm is the backbone of JavaScript development but after the ](npm-logo.jpg) 
 [left-pad](https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/) disaster of 2016 lots of developers wanted more power
-![ Yarn is fast and enables offline support - If you've installed a package before, you can install it again without any internet connection ](yarn-logo.jpg)
+![ Yarn is fast and enables offline support - ​If you've installed a package before, you can install it again without any internet connection ](yarn-logo.jpg)
 (no more left-pad disasters)

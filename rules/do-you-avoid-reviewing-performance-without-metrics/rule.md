@@ -11,7 +11,7 @@ authors:
 
 ---
 
-If a client says:
+​If a client says:
 
 *"This application is too slow, I don't really want to put up with such poor performance. Please fix."*
 
@@ -47,14 +47,14 @@ Do it incrementally, adding 1 processor each time, measuring the results, and th
 
 This gives you the most complete set of data to work from.
 
-This is because performance is an emotional thing, sometimes it just \*feels\* slower. Without numbers, a person cannot really know for sure whether something has become quicker. By making the changes incrementally, you can be assured that there aren’t bad changes canceling out the effect of good changes.
+This is because performance is an emotional thing, sometimes it just \*feels\* slower. Without numbers, a person cannot really know for sure whether something has become quicker. By making the changes incrementally, you can be assured that there aren’t bad changes canceling out the effect of good changes.​
 
-### Samples
+### Samples​
 
 
 For sample code on how to measure performance for Windows application form, please refer to rule [Do you have tests for Performance?](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterUnitTests.aspx#Performance) on [Rules To Better Unit Tests](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterUnitTests.aspx).
 
 ### Related Rule
 
-- [Do you keep your website loading time acceptable?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=cb28d27b-542f-4f02-bfa4-31b3672ed0d5)
+- [Do you keep your website loading ti​me acceptable?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=cb28d27b-542f-4f02-bfa4-31b3672ed0d5)​
 - [Do you know the steps required to implement a performance improvement?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=30c5fcee-c2e9-4705-9a87-a910edb57ae3)

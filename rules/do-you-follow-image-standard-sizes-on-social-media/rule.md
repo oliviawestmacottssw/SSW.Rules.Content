@@ -9,10 +9,10 @@ authors:
 
 ---
 
-For a better visual across all your social media accounts, ideally, you should follow the standards that each platform requests. They have variations of sizes according to the placement, for example, banner, profile icon or a post. If you are creating an image for an advertising campaign on Facebook, they will offer you a hand full of placement options, like news feed, Facebook marketplace, video feeds, right column and many others.
+For a better visual across all your social media accounts, ideally, you should follow the standards that each platform requests. They have variations of sizes according to the placement, for example, banner, profile icon or a post​. If you are creating an image for an advertising campaign on Facebook, they will offer you a hand full of placement options, like news feed, Facebook marketplace, video feeds, right column and many others.
 
  
-As all of them will have different specifications, so it’s best to check their support if you have any question regarding this. Hootsuite is a reliable source, for example: https://blog.hootsuite.com/social-media-image-sizes-guide/#
+As all of them will have different specifications, so it’s best to check their support if you have any question regarding this. Hootsuite is a reliable source, for example: [blog.hootsuite.com/social-media-image-sizes-guide/#​](https://blog.hootsuite.com/social-media-image-sizes-guide/#)
 
 ### Twitter
 
@@ -54,7 +54,7 @@ On [Facebook](https://www.facebook.com/), they have the following variations for
 ### Facebook Ads
 
 
-Besides following the size of the images on Facebook Ads, you should also have limited text on images as there’s a better chance of your design or video getting approved more easily. If you need more information about Ads placement, check [Facebook support](https://www.facebook.com/business/help/407108559393196?id=369787570424415) for clarification.
+Besides following the size of the images on Facebook Ads, you should also have limited text on images as there’s a better chance of your design or video getting approved more easily. If you need more information about Ads placement, check [Facebook support​](https://www.facebook.com/business/help/407108559393196?id=369787570424415) for clarification.
 
 - News Feed Ads, Marketplace Ads and Messenger Ads
 - Collection Ads
@@ -69,7 +69,7 @@ Besides following the size of the images on Facebook Ads, you should also have l
 
 [[goodExample]]
 | ![ Good Example – Our designer ](jason2.png) 
-[David Berkes](https://www.ssw.com.au/people/david-berkes) created a set of images for ads on Facebook and Instagram that were consistent with [SSW’s branding guidelines](https://www.ssw.com.au/ssw/logo/ssw/) and also with the SSW's [Clean Architecture Superpowers](https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Superpowers-Tour.aspx) training solution [sub-branding](https://www.ssw.com.au/ssw/logo/)
+[David Berkes](https://www.ssw.com.au/people/david-berkes) created a set of images for ads on Facebook and Instagram that were consistent with [SSW’s branding guidelines](https://www.ssw.com.au/ssw/logo/ssw/) and also with the SSW's [Clean Architecture Superpowers​](https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Superpowers-Tour.aspx) training solution [sub-branding](https://www.ssw.com.au/ssw/logo/)
  
 LinkedIn
 [LinkedIn](https://www.linkedin.com/) is like Twitter and Facebook:
@@ -84,7 +84,7 @@ LinkedIn
 ### YouTube
 
 
-On [YouTube](https://www.youtube.com/), you will find:
+On [YouTube​](https://www.youtube.com/), you will find:
 
 - Profile image
 - Cover Photo

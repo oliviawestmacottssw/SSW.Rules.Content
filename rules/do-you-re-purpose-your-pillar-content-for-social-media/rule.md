@@ -15,7 +15,7 @@ authors:
 
 ---
 
-You spend a lot of time and money creating great video content, so you need to make sure that you get the most out of your time and money. 
+​You spend a lot of time and money creating great video content, so you need to make sure that you get the most out of your time and money. 
 
 
 
@@ -36,12 +36,12 @@ You can find an explanation of the Gary V Content Model at:
 
 
 
-- https://www.garyvaynerchuk.com/the-garyvee-content-strategy-how-to-grow-and-distribute-your-brands-social-media-content
-- https://www.garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day
+- https://www.garyvaynerchuk.com/the-garyvee-content-strategy-how-to-grow-and-distribute-your-brands-social-media-content​
+- [https://www.garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day ​](https://www.garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day)
 
 
  
-### STEP 1: CREATE PILLAR CONTENT
+### ​STEP 1: CREATE PILLAR CONTENT
 
 This is the content that will be used to create all other types of content. They include:
 
@@ -53,60 +53,27 @@ This is the content that will be used to create all other types of content. They
 - Demo
 
 
- 
-**Video: A pillar video shot at NDC Sydney and published on SSW TV, you can cut this video into smaller sections and promote it through social media****
-**
-### STEP 2: CREATE REPURPOSED CONTENT
 
-
-
-The pillar content will be used to create repurposed content to be distributed across the internet. They include:
-
-- Blog Post - transcribe using Trint.com and then rewrite as a blog post
-- Podcast Episode - Export audio for podcast
-- Follow the process to convert the video into a blog post
-
-
-
-
-### STEP 3: CREATE MICRO-CONTENT
-
-
-Micro-content is smaller pieces of content created from the pillar content. Each piece of content will be created with the purpose of sending the consumer back to the pillar piece of content.
-
-Each type of micro-content should be created specifically for the platform you are sharing it on.
-
-These are the types of content:
-
-1. Create 2-3 shorter videos that contain the best sections of the pillar content:
-
-
-
-- create a version of the video for Facebook, Twitter, LinkedIn and Instagram, and Instagram Story
-
-- use Trint.com to transcribe the video and create subtitle files
-
-- write the copy for the update
-
+`youtube: https://www.youtube.com/embed/1fpIynISxnM`
  
 
 **Video: An example of a smaller video you can be used to drive traffic to your YouTube Channel**
 
-2. Create a Quotable Card with a great background image:
+2. Create a Quotable Card with a great background image:​
 
 - create a version of the video for Facebook, Twitter, LinkedIn and Instagram
        - write the copy for the update
-![ Good example, create a version of the video for Facebook, Twitter, LinkedIn, and Instagram](ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png)
+![ Go​od example, create​​ a version of the video for Facebook, Twitter, LinkedIn, and Instagram](ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png)
 
-
+​
 
 
 
    3. Create a Giphy with one of the main points and a moving background video from the pillar content
-       - write the copy for the update 4. Create a blog post from the audio
+       - write the copy for the update​​​​​​ 4. Create a blog post from the audio
 - use Trint.com.to transcribe the video file and re-write the transcript as a blog post
 
-- Post the blog post to Medium.com, LinkedIn Articles, and your blog
+- Post the blog post to Medium.com, LinkedIn Articles, and your blog​​​​
 
 
 
@@ -132,6 +99,6 @@ You need to wait 2 weeks before republishing the blog post to other platforms so
 
 The sites you will republish to are:
 
-- Medium - Using the WordPress publishing tool
+- Medium - Using the WordPress​ publishing tool
 - LinkedIn Articles
-- Quora
+- Quora​

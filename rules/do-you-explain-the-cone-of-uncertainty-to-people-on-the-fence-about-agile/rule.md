@@ -11,7 +11,7 @@ Giving fixed features and a fixed delivery date is very hard. Giving a fixed pri
 
 The basic reason is...
 
-Over time, our ability to accurately predict a project's remaining time estimates gets better.
+Over time, our ability to accurately predict a project's remaining time estimates gets better.​
 
 As a team, our understanding of the amount of work remaining on a project becomes more accurate as the project moves along.
 

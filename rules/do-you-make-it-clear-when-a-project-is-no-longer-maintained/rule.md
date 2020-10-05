@@ -9,7 +9,7 @@ authors:
 
 ---
 
-It is important that users of your open source contributions are aware if you are maintaining them and keeping them up to date.
+It is important that users of your open source contributions are aware if you are maintaining them and keeping them up to date.​
   
 [[goodExample]]
 | ![ Good Example - It is clear that the project is not going to be updated, and where to go for the most recent version. The description starts with "Retired" , and the readme very clearly indicates that the project has been replaced with a newer version and where to get it ](open-source-retired.png) 

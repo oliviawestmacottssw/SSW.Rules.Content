@@ -12,7 +12,7 @@ authors:
 Think of a sporting event and it's likely that you can think of a sponsor for the event. For example:
 
 - **Australian Iron Man Series** - Uncle Toby's
-- **Formula 1** - Valvoline, Ferrari
+- **Formula 1 **- ​Valvoline, Ferrari
 - **Wimbledon** - Rolex
 
 
@@ -26,4 +26,4 @@ What this highlights is a company's ability to successfully partner their brand 
 - Evaluation forms should have clear branding
 
 
-When it comes to branding events, you need to remember that it's often the little things that make the biggest difference. That evaluation form or gift bag that you gave out to someone at one of your events could land in the hands of one of your biggest clients in the future, so be diligent and consistent.
+When it comes to branding events, you need to remember that it's often the little things that make the biggest difference. That evaluation form or gift bag that you gave out to someone at one of your events could land in the hands of one of your biggest clients in the future, so be diligent and consistent.​

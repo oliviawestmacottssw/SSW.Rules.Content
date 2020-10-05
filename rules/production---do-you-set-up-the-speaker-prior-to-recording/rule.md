@@ -9,7 +9,7 @@ authors:
 
 ---
 
-It is vital to have the speaker ready and equipped prior to recording. There are a number of things that need to be done to make sure the speaker is ready for recording.
+​​​​​​It is vital to have the speaker ready and equipped prior to recording. There are a number of things that need to be done to make sure the speaker is ready for recording.​
  
 It is vital to have the speaker ready and equipped prior to recording. There are a number of things that need to be done to make sure the speaker is ready for recording.
 
@@ -18,6 +18,9 @@ Here are the steps to follow when preparing the speaker for recording:
 1. **Attach the mic to the speaker  **
 Assuming you are using a lapel microphone, make sure that it is attached to the speakers' shirt or jacket. For each speaker you need to adjust the sensitivity of the microphone. Do this according to the instructions provided by the manufacturer. As a general rule, test to see that the mic input level does not peak (the audio meter on the device will reach the top). Adjust the mic sensitivity using the device until the input meter does not go past the 2/3rds point. Doing so will create distortions which are difficult to repair in post and waste time.
     Look at this video to understand more in-depth the correct way to set up a lapel mic system:
+
+
+`youtube: https://www.youtube.com/embed/xLS0iEmopNI`
 2. **Tell the speaker that they need to paraphrase any questions**
 During the presentation a number of guests will ask the speaker questions regarding his or her talk. If you do not have a multi-camera setup with multiple mic inputs, you cannot always guarantee that the audio from the people asking questions will be audibly clear when picked up by the speakers mic.
  

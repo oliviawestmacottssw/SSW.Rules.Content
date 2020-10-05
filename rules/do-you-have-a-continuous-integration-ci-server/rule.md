@@ -13,7 +13,7 @@ authors:
 
 ---
 
-A continuous integration server monitors the Source Control repository and, when something changes, it will checkout, build and test the software. If something is wrong, notifications are sent out e.g. via email or Teams.
+​​​A continuous integration server monitors the Source Control repository and, when something changes, it will checkout, build and test the software. If something is wrong, notifications are sent out e.g. via email or Teams.​
 
 
 

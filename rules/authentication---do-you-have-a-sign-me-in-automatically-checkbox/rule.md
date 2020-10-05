@@ -11,6 +11,6 @@ authors:
 
 When you present visitors to your site with an opportunity to sign in, you should                     always include an option to have that person signed in automatically.
  
-![ 'Stay signed in' checkbox is available](signin.jpg) 
+![ 'S​tay signed in' checkbox is available](signin.jpg) 
 
-This should be implemented simply by using a checkbox. A cookie should be stored on the user's computer so that next time they visit your site the sign in process is automatic.
+This should be implemented simply by using a check​box. A cookie should be stored on the user's computer so that next time they visit your site the sign in process is automatic.

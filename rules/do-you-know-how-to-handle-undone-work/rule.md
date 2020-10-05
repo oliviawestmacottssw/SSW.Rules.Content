@@ -13,7 +13,7 @@ Often PBIs grow or change and it does not make sense to deliver what was origina
  
 So think of a way to deliver business value and get it in production, then have a hallway conversation with the Product Owner to see if he agrees with you.
 
-Assuming approval, then adjust some of the Acceptance Criteria, add "v1" to the PBI name and move some of the functionality to a new PBI with the same title and "v2".
+Assuming approval, then adjust some of the Acceptance Criteria, add "v1" to the PBI name and move some of the functionality to a new PBI with the same title and "v2".​
 
 Eg.
 

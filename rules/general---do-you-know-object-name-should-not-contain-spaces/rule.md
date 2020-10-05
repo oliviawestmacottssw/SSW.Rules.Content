@@ -13,4 +13,4 @@ Spaces should be avoided. If an object name contains a space, it can cause probl
 
 [Why avoid reserved words and spaces in object names?](https&#58;//www.ssw.com.au/ssw/KB/KB.asp?KBID=Q1620415)
  
-We aim to never have to use square brackets in any of our databases.
+​We aim to never have to use square brackets in any of our databases.​​​​

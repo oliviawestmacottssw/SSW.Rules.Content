@@ -21,7 +21,7 @@ A client will often ask for a proposal or ballpark for the project. It is very d
 
 
 The Spec Review is a process that will demonstrate to the client whether you have the commercial sense to understand their \*business\* and have the technical and management capacity to complete the project.
-
+​
 It is paid work conducted after the initial meeting to determine the overall scope, feasibility, and ballpark costs of the project (i.e. $50k or $500k).  E.g. Mr. Northwind learns that the idea he presented at the initial meeting will cost approximately $80K and he has to determine if that is feasible to his business or if he will trim the functionality to better manage the cost.
 
   
@@ -31,7 +31,7 @@ It is paid work conducted after the initial meeting to determine the overall sco
 From this initial meeting, the ballpark is 6 months and $200K+GST
 Figure: Bad example - big scary figure
 
-From this initial meeting, we will first need to conduct a specification review 
+From this initial meeting, we will first need to conduct a specification review​ 
 This first step is $6K - a 2-day Specification Review
 Figure: Good example - work in small chunks of work with details about what you will do
 

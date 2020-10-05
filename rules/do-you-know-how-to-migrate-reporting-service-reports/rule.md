@@ -9,11 +9,13 @@ authors:
 
 ---
 
-<br>   Figure: How to migrate SSRS reports from an old server to another
+`youtube: https://www.youtube.com/embed/1knwXRIbVNw`
+ 
+ <br>   ​​​​Figure: How to migrate SSRS reports from an old server to another
 
-Let's say you want to migrate SSRS reports from an old reporting service server (e.g., SQL Server 2008 R2) to a new one (e.g., SQL Server 2016). What involves?
+Let's say you want to migrate SSRS reports​ from an old reporting service server (e.g., SQL Server 2008 R2) to a new one (e.g., SQL Server 2016). What involves?
 
-There are three steps:
+There are three steps:​
  
 ###  Step 1: Find the reports that don't need to be migrated
 
@@ -29,13 +31,13 @@ There are three steps:
 ![ Email received with permission to delete from creator](receive.png)
 
 
-### 2. Migrate those in-use reports from old server to new server
+### 2. Migrate those in-use reports from old server to new server​
 
 
-> Tip: use the           [ReportSync](https://github.com/dapaxx/reportsync) tool to save time
+> Tip: use the           [ReportSync​](https://github.com/dapaxx/reportsync) tool to save time
 
 
 ### 3. Check audit results
     - Run SSW SQL Reporting Service Auditor on both sides
     - Compare audit results. Note that even error and warning messages also need to be the same
-    If audit results are exactly the same on old and new servers, it indicates that migration is successful.
+    If audit results are exactly the same on old and new servers, it indicates that migration is successful.​

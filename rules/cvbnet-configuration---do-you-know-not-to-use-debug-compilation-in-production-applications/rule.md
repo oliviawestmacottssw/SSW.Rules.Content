@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-Debug compilation considerably increases memory footprint since debug symbols are required to be loaded.
+​Debug compilation considerably increases memory footprint since debug symbols are required to be loaded.
 
 Additionally it will hit the performance because that will include the optional debug and trace statements in the output IL code.
 
@@ -26,4 +26,4 @@ As per:     [C# debug vs release performance](http://stackoverflow.com/questions
 
 ![ Good Example](debug-good.jpg)
 
-We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.
+We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.​​

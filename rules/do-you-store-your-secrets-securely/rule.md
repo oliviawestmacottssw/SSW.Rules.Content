@@ -42,7 +42,7 @@ Cons:
 
 
 Figure: Bad practice - Overall rating: 2/10
-    
+  ​  
 
 ### Use Windows Identity instead of username/ password.
 
@@ -83,7 +83,7 @@ Figure: Bad practice -  Overall rating: 1/10
 
 
 ### Good Practices
-
+ ​ <br>   
 
 ### Use Octopus/ VSTS RM secret management, with passwords sourced from KeePass
 
@@ -123,15 +123,15 @@ Cons:
 
 Figure: Good practice -  Overall rating: 8/10
 
+​<br>   
 
-
-### Use Azure KeyVault
+### ​​Use Azure KeyVault
 
 See the SSW Rewards mobile app repository for how SSW is using this in a production application:           [https://github.com/SSWConsulting/SSW.Rewards](https&#58;//github.com/SSWConsulting/SSW.Rewards)
 
 Pros:
 
-- Best solution for cloud (Azure) solutions
+- ​Best solution for cloud (Azure) solutions
 - Enterprise grade
 - Uses industry standard best encryption
 - Dynamically cycles secrets
@@ -143,9 +143,10 @@ Pros:
 
 Cons:
 
-- Price is per transaction - can become costly if used in high volume and not managed thoroughly (see SSW's William Liebenberg on Azure SpendOps: <br>            [https://azuregems.io/spendops-with-azure-cosmos-db/](https&#58;//azuregems.io/spendops-with-azure-cosmos-db/)
+- Price is per transaction - can become ​costly if used in high volume and not managed thoroughly (see SSW's William Liebenberg on Azure SpendOps: <br>            [https://azuregems.io/spendops-with-azure-cosmos-db/](https&#58;//azuregems.io/spendops-with-azure-cosmos-db/)​
 
 
 
 
-Figure: Good Practice - Overall rating 9/10
+​ <br>   ​​Figure: Good Practice - Overall rating 9/10
+​

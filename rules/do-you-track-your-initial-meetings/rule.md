@@ -18,7 +18,7 @@ Subject: Northwind project with SSW and Bob
 Subject: Initial meeting with SSW and Bob from Northwind
 Subject: Initial phone meeting with SSW and Bob from Northwind
 
-Figure: Good subjects - Make clear it is an initial meeting by having both words 
+Figure: Good subjects - Make clear it is an initial meeting by having both words​ 
 
 
  

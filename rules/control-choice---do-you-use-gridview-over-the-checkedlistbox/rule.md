@@ -22,7 +22,7 @@ In Windows Forms we have a CheckedListBox. With a CheckedListBox you cannot:
 - Contain much information - can only show one field
 - DataBind - always costs heaps of code
 
-  
+   ​​  
 [[badExample]]
 | ![ Bad Example - The CheckedListBox is limited ](../../assets/UsingCheckedListBox.gif) 
 
@@ -38,7 +38,7 @@ CheckedListBox1.DisplayMember = "ProductName"
 For i As Integer = 0 To CheckedListBox1.Items.Count - 1
 Dim checked As Boolean = CType(ProductsDataSet1.Tables(0).Rows(i)("Discontinued"), Boolean)
 CheckedListBox1.SetItemChecked(i,checked)
-Next
+Next ​
 Figure: 8 lines of code to fill a CheckedListBox
 ProductsService.Instance.GetAll(Me.ProductsDataSet1)
 Figure: One line of code to fill a DataGrid

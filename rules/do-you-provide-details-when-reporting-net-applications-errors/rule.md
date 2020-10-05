@@ -81,4 +81,4 @@ For example:
 
 When JIT debugging is enabled, any unhandled exception
 will be sent to the JIT debugger registered on the machine
-rather than being handled by this dialog.
+rather than being handled by this dialog.​

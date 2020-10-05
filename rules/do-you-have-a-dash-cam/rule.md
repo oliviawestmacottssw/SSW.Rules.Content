@@ -13,4 +13,10 @@ The dashboard camera has become more and more popular over the past few years. 
  
 The main reason for having a dashcam is because it's the most efficient evidence in the unfortunate case of a car crash.
 
-This is #4 on Adam's suggestions list to Tesla:
+​This is #4 on Adam's suggestions list to Tesla:
+
+
+`youtube: https://www.youtube.com/embed/7Vw5ClyeSrc?rel=0`
+ 
+
+​

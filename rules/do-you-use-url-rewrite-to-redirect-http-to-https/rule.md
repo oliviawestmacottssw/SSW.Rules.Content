@@ -9,12 +9,12 @@ authors:
 
 ---
 
-Using IIS URL Rewrite Module, Web administrators can easily set up rules to define URL rewriting behavior based on HTTP headers, HTTP response or request headers, IIS server variables, and programmatic rules. HTTP to HTTPS redirect helps boost your Google site ranking as well as adding enforcing SSL security.
+​Using IIS URL Rewrite Module, Web administrators can easily set up rules to define URL rewriting behavior based on HTTP headers, HTTP response or request headers, IIS server variables, and programmatic rules.​​​ HTTP to HTTPS redirect helps boost your Google site ranking as well as adding enforcing SSL security.
 
 
 
  
-First you must download the IIS URL Rewrite module from Web Platform Component Installer. Ensure that a valid SSL Certificate is installed in IIS Server. 
+​First you must download the IIS URL Rewrite module from Web Platform Component Installer. Ensure that a valid SSL Certificate is installed in IIS Server​. 
 
 
 
@@ -26,18 +26,18 @@ First you must download the IIS URL Rewrite module from Web Platform Component I
 2. Name the rule "HTTP to HTTPS redirect"
 
 
-3. Add Pattern **(.\*)**
+3. Add Pattern **​(.\*)**
 
 
-4. Add Conditions
+​4. Add Conditions
 
 
-> - Condition input: **{HTTPS}**
+> ​- Condition input: **​{HTTPS}**
 > 
 > 
 > **- **Pattern: **off**
 
-5. Add Action
+​5. Add Action
 
 
 > - Action type: Redirect
@@ -50,7 +50,7 @@ First you must download the IIS URL Rewrite module from Web Platform Component I
 
 > - Redirect type: Found (302)
 
-6. Apply | Back to Rules
+​6. Apply | Back to Rules
 
 
 
@@ -58,4 +58,6 @@ First you must download the IIS URL Rewrite module from Web Platform Component I
 
 
 
-![ HTTP to HTTPS redirect using IIS URL Rewrite module](IISURLRewrite.jpg)
+![ HTTP to HTTPS redirect using IIS URL Rewrite module](IISURLRewrite.jpg) 
+
+​

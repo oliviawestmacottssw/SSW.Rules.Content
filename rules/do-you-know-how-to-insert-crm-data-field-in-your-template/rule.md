@@ -9,9 +9,9 @@ authors:
 
 ---
 
-While editing your mail merge template in Microsoft Word, you can add CRM data field in the template. For example, you can add the contact's first name in my mail merge template.
+​​While editing your mail merge template in Microsoft Word, you can add CRM data field in the template. For example, you can add the contact's first name in my mail merge template.
  
-1. While you're editing your mail merge template in Microsoft Word, click the  ** Mailings** tab.
+1. While you're editing your mail merge template in Microsoft Word, click the **  Mailings** tab.
 
 ![ Click the Mailings tab2. Click Insert Merge Field on the Ribbon.](insert-mail-merge-1.jpg)
 

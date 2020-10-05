@@ -88,7 +88,7 @@ Create a     **GlobalSuppressions.cs** file in your project with the rules that 
 
 The gold standard is to use <br>   [SonarQube](https://www.sonarqube.org/), which gives you the code analysis that the previous levels give you as wells as the ability to analyze technical debt and to see which code changes had the most impact to technical debt
 
-![  SonarQube workflow with Visual Studio and Azure DevOps](2016-06-08_12-59-38.png) 
+![  SonarQube workflow with Visual Studio and Azure DevOps​](2016-06-08_12-59-38.png) 
 
 
 ![ SonarQube gives you the changes in code analysis results between each check-in](2016-06-08_12-59-53.png)

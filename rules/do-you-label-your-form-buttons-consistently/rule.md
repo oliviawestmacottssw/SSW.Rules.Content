@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-The buttons that a user will typically use to close a form should be named consistently across your applications.
+​The buttons that a user will typically use to close a form should be named consistently across your applications.
  
 [[badExample]]
 | ![ Bad Example - Unclear labels on the buttons](../../assets/ButtonLabels_Bad.gif)

@@ -19,3 +19,5 @@ You should use virtualized standalone servers because:
 However, you should scale out your servers if:
 
 - You want the best performance (e.g. A different server for SQL backend and Web frontend)
+
+​​

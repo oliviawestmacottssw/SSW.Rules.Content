@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Market is full of tools that can create Setup packages, but only a few are really good.
+​Market is full of tools that can create Setup packages, but only a few are really good.
  
 **WiX** is the ultimate tool which gives you complete freedom and control over Setup packages.
 
@@ -35,8 +35,7 @@ A few reasons why Advanced Installer could be your choice:
 
 - It has a very sophisticated and easy to use GUI
 - It gives you wide range of options (IIS, Dialog Editor, Custom Actions, Digital Signature, Auto Updater, App Virtualization, SCCM, etc)
-- Price vs performance ratio is great + it has a FREE version which is in many cases more than enough
+- ​​Price vs performance ratio is great + it has a FREE version which is in many cases more than enough​
 
 
-[[goodExample]]
-| ![ Good Example - Advanced Installer](advanced-installer.jpg)
+![](advanced-installer.jpg)​<br>   Figure: Good Example - Advanced Installer

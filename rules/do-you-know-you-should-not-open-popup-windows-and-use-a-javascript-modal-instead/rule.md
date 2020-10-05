@@ -11,12 +11,14 @@ authors:
 
 The popup blockers in several browsers prevent JavaScript from being used to open windows without user interaction (e.g. clicking a link). You should use an anchor tag instead.
  
-&lt;body onload="window.open('http://www.mydomain.com/document.html');return true;"&gt;
-Figure: Bad Example - using JavaScrip in OnLoad event
+​&lt;body onload="window.open('http://www.mydomain.com/document.html');return true;"&gt;
+Figure: Bad Example - using JavaScrip in OnLoad event​
 
-&lt;a href="http://www.mydomain.com/document.html" target="\_new"&gt;Document&lt;/a&gt;
-Figure: Good Example - Using HTML anchor tag. This will open in a new tab or window depending upon browser configuration
+​&lt;a href="http://www.mydomain.com/document.html" target="\_new"&gt;Document&lt;/a&gt;
+Figure: Good Example - Using HTML anchor tag. This will open in a new tab or window depending upon browser configuration​​
 
 &lt;a href="#" onclick="window.open('http://www.mydomain.com/document.html');return false;"&gt;Document&lt;/a&gt;
 Figure: Good Example - Using Javascript in an onclick event means you can force a popup window in preference to a new tab and also control the size and placement of the window
 We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.
+
+​

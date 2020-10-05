@@ -11,8 +11,8 @@ authors:
 
 ---
 
-Application Insights for Visual Studio Online gives you a great insight into how, when and where your website is used. 
-
+​​​​​​​​​​Application Insights for Visual Studio Online gives you a great insight into how, when and where your website is used. 
+​
 
 If you're not using an analytics package in your website, you're flying blind when it comes to understanding how, when and where your webiste is used.
 
@@ -43,7 +43,7 @@ To add Application Insights to your website, follow these steps.
 
 
 
-
+​
 ![ Now when you right-click on your web project there is a new option Open Application Insights Portal...](apin9-compressor.png)
 
 
@@ -51,7 +51,7 @@ To add Application Insights to your website, follow these steps.
 **
 
 
-![ Dashboard showing summary and application metrics](apin10-compressor.png)
+![ Dashboard showing summary and application metrics​](apin10-compressor.png)
 
 
 

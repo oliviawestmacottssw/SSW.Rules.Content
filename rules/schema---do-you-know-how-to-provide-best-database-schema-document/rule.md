@@ -11,11 +11,11 @@ authors:
 
 ---
 
-You should not provide a database schema via several screen captures - it has little information about the details. A well-formatted Word document may be providing more details information, but it is not easy to maintain the document to keep it up-to-date. The best way is to automatically generate your document with a tool.
+​​​​​​​​You should not provide a database schema via several screen captures - it has little information about the details. A well-formatted Word document may be providing more details information, but it is not easy to maintain the document to keep it up-to-date. The best way is to automatically generate your document with a tool.
  
 We recommend and use [Red-Gate SQL Doc](https://www.ssw.com.au/ssw/Standards/DeveloperGeneral/SQLservertools.aspx#SqlDoc) to produce chm help files or html pages of the database schema. SQL Doc also allows you to run via the command line so you can include the generation in your build process to be automatically created.
 
-We have also have used other available tools in the past, such as [Apex SQL Doc](https://www.ssw.com.au/ssw/Standards/DeveloperGeneral/SQLservertools.aspx#ApexSqlDoc).
+We have also have used other available tools in the past, such as [Apex SQL Doc](https://www.ssw.com.au/ssw/Standards/DeveloperGeneral/SQLservertools.aspx#ApexSqlDoc).​
 
 Alternatively, you can use SQL Management Studio to generate a Database diagram.
 1.	Connect to your database using SQL Server Management Studio
@@ -38,11 +38,11 @@ Alternatively, you can use SQL Management Studio to generate a Database diagram.
 6.	Right-Click one of the tables in the diagram and perform the following
 
 
-> a.	Select **Table View | Standard** from the menu
+> a.	​Select **Table View | Standard** from the menu
 > 
-> b.	Select **Autosize Selected Tables** from the menu
+> b.	​​Select **Autosize Selected Tables** from the menu
 > 
-![ Changing the database table diagram to Standard View and Autosize](SqlDiagramStandardAutoSize.png)
+![ Changing the database table diagram to Standard View and Autosize​](SqlDiagramStandardAutoSize.png)
 
 
 

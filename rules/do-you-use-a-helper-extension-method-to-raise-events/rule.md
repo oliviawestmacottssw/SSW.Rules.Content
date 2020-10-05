@@ -19,7 +19,7 @@ if (ExistingLotUpdated != null)
 {
 ExistingLotUpdated();
 }
-}
+}​
 
 ...use this event extension method:
 
@@ -49,4 +49,4 @@ RaiseExistingLotUpdated();
 
 ExistingLotUpdated.Raise();
 
-Less code = less code to maintain = less code to be blamed for ;)
+Less code = less code to maintain = less code to be blamed for ;)​

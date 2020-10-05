@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Every website out there has a page which displays the results of a search. I am                     amazed that no standard has been adopted throughout the Web as nearly every site                     seems to have a different way of displaying data.
+​​                     Every website out there has a page which displays the results of a search. I am                     amazed that no standard has been adopted throughout the Web as nearly every site                     seems to have a different way of displaying data.
  
 However, Google is a very good example for displaying search results. Their result                     pages are clear and efficient, especially for a large result set.
 

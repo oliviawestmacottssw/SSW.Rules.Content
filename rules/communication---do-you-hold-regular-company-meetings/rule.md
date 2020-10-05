@@ -36,4 +36,4 @@ If you’re at SSW Sydney on the day, come to the Chapel, otherwise, click the l
 Let me know if you want any topics raised.
  
 [https://rules.ssw.com.au/do-you-hold-regular-company-meetings](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2cb1995c-3735-4074-a3fc-68388a0c6836) >
-Figure: Good Example - Email template for the meeting
+Figure: Good Example - Email template for the meeting​

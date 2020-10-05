@@ -9,9 +9,9 @@ authors:
 
 ---
 
-Select the element "SSW Internal Block" to show content only internally.
+​Select the element "SSW Internal Block" to show content only internally.
 
-This is an example of "SSW Only" content.
+This is an example of "SSW Only" content.​
 
 
   
@@ -21,6 +21,6 @@ This is an example of "SSW Only" content.
 
 ![ When signed in, you can see "ssw only" content](ssw-only-signedin.jpg)
 
-![ When signed off, you cannot  see "ssw only" content](ssw-only-signedoff.jpg)
+![ When signed off, you cannot ​ see "ssw only" content](ssw-only-signedoff.jpg)
 
 **Note:** We have "SSW only content block" feature, however, Rules.SSW is a public website, which means technically the content is accessible through API, so please do not use it for confidential or sensitive info.

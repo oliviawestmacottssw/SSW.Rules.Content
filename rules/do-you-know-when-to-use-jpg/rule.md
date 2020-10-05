@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-In line with the statement above, all photographs should be stored in JPG format. JPG rationalizes the quality of the image by averaging out the colors in segments of the image that it defines. To see an example of this working, try lowering the quality of a JPG to minimum quality.
+​In line with the statement above, all photographs should be stored in JPG format. JPG rationalizes the quality of the image by averaging out the colors in segments of the image that it defines. To see an example of this working, try lowering the quality of a JPG to minimum quality.
  
 [[badExample]]
 | ![ Bad Example – Low quality JPG ](Screen-JPGQuality1.jpg)

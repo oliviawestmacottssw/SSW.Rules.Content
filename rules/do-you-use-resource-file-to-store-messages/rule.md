@@ -16,4 +16,6 @@ Bad example of a constant message
 ![ Saving constant message in Resource](BetterCode_ConstantMessages.gif)
 
 Module Startup Sub Main() Console.Write(My.Resources.Messages.Constant\_HelloWorld) Console.Read() End Sub End Module
-Good example of a constant message
+Good example of a constant message 
+
+​

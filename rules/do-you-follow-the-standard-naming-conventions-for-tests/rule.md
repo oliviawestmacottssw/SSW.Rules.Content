@@ -46,15 +46,15 @@ That means if any external resource is unavailable, the tests will fail.
 Tests.Functional.SilverlightUI: Tests the Silverlight UI from an end-user perspective by clicking around in the application
 
 [[goodExample]]
-| ![Naming for a Unit Test ProjectSamples Naming of test methods](UnitTestsProject.jpg)
+| ![Naming for a Unit Test ProjectSamples Naming of test methods​​​](UnitTestsProject.jpg)
 
 [TestMethod]
  public void Test\_Client()
-Bad example: There is no way to guess what this test does; you have to read the source
+Bad example: There is no way to guess what this test does; you have to read the source​​
 
 [TestMethod]
  public void PubSubServiceConnectTest\_AuctionOk\_AuctionInfoReturned()
-Good Example: We are testing PubSubService.Connect under the scenario that the "Auction status is OK" with an expected behaviour that data is returned
+Good Example: We are testing PubSubSe​rvice.Connect under the scenario that the "Auction status is OK" with an expected behaviour that data is returned
 Sample Code for Integration Tests:
 
 using System;
@@ -106,11 +106,11 @@ namespace SSW.NETToolkit.IntegrationTests
         }
     }
   }
-
+ ​ 
 ![ This rule is consistent with the Visual Studio defaultTip: You can create a test project using the Unit Test Wizard: Test > Add New Test](TestGenerationSettings.gif)
 
 
-
+​​
 ![ Unit Test Wizard 1](AddNewTest.gif)
 
 ![ Unit Test Wizard 2](CreateUnitTests.gif)

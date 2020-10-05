@@ -9,7 +9,7 @@ authors:
 
 ---
 
-The most common mistake that developers make when moving from jQuery to Angular is that they continue to think about updating the page.
+​The most common mistake that developers make when moving from jQuery to Angular is that they continue to think about updating the page.
   
 ![ In jQuery, you design a page and then use jQuery to perform interactions with the page e.g. reading and setting the values of input boxes, updating the content of divs or handling button events](understand-jquery.png)
 

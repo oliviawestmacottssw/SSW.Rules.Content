@@ -9,7 +9,7 @@ authors:
 
 ---
 
-There are a lot of different CRM solutions on the market. We would never suggest to develop a CRM solution from scratch. Instead pick an existing solution and customize it for your needs.
+​​There are a lot of different CRM solutions on the market. We would never suggest to develop a CRM solution from scratch. Instead pick an existing solution and customize it for your needs.
 
 The main choices for CRM solutions are:
 

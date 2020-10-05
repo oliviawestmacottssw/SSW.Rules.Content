@@ -40,4 +40,4 @@ public void ReferencedAssembliesTest()
  }
  }
 }
-Figure: This code is a unit test for checking that all referenced assemblies are able to load.
+​​​Figure: This code is a unit test for checking that all referenced assemblies are able to load.

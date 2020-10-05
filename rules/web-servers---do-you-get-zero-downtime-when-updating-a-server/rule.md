@@ -27,7 +27,7 @@ Follow the below steps on your test server first, get the application tested pas
 3. To view the current connections on the server, open a command prompt and enter netstat -an. You will be able to see the connections list dropping as users are sent to the other server 
 ![ Run "netstat -an" to view the current connections on the server](Server-netstat.jpg) 
 
-4. Allow the NLB to finish sending the connections to the remaining servers. The server you have drain stopped, will turn red when all the users have been moved to the other server
+4. Allow the NLB to finish sending the connections to the remaining servers. The server you have drain stopped, will turn red when all the users have been moved to the other server​
 
 ![ When the server turns red, the connections have been dropped and you're ready to update](Server-red.jpg) 
 

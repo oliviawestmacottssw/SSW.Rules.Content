@@ -11,7 +11,7 @@ authors:
 
 ---
 
-With CRM4, customizations cannot be undone and are cumulative, e.g. if you add an attribute on a form and deploy, there is no easy way to remove the attribute from the entity. We have a [suggestion to CRM on this issue](http&#58;//www.ssw.com.au/SSW/Standards/BetterSoftwareSuggestions/CRM.aspx#RemoveAttributeOnForm).
+With CRM4, customizations cannot be undone and are cumulative, e.g.​ if you add an attribute on a form and deploy, there is no easy way to remove the attribute from the entity. We have a [suggestion to CRM on this issue](http&#58;//www.ssw.com.au/SSW/Standards/BetterSoftwareSuggestions/CRM.aspx#RemoveAttributeOnForm).
  
 In order to remove the attribute, what you have to do:
 

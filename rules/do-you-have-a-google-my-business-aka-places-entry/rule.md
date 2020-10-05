@@ -9,6 +9,6 @@ authors:
 
 ---
 
-With Google's [increased emphasis on local search](http&#58;//googleblog.blogspot.com/2010/10/place-search-faster-easier-way-to-find.html) and [promoting local services](http&#58;//www.seobook.com/localization), it is important that companies have a Google My Business entry so that their businesses can be found easily in searches. Click here to  [add your business.](http&#58;//www.google.com/local/add/businessCenter)
+With Google's [increased emphasis on local search](http&#58;//googleblog.blogspot.com/2010/10/place-search-faster-easier-way-to-find.html) and [promoting local services](http&#58;//www.seobook.com/localization), it is important that companies have a Google My Business entry so that their businesses can be found easily in searches. Click here to  [add your business.](http&#58;//www.google.com/local/add/businessCenter)​​​
  
 Having a Google My Business entry will allow their entries to display when users search for services in a local area.

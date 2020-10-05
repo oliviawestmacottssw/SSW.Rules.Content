@@ -37,5 +37,6 @@ Figure: Bad example - wrong process
 14. Reconcile your workspace if it was successful
 15. Check that Continuous Integration (CI) build was successful(If GC was skipped)
 
-Figure: Good example - right process
+Figure: Good example - right​ process
 **Note:** You should have both a Gated-Check-in (GC) and a Continuous Integration (CI) build on every branch.
+​

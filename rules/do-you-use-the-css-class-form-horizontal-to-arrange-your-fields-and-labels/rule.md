@@ -28,7 +28,7 @@ Bootstrap makes this easy. Use the css class **form-horizontal **on your html fo
     &lt;/div&gt;
 &lt;/form&gt;
 Figure: Example html using Bootstrap to get the above behaviour
-See [http://getbootstrap.com/css/#forms-horizontal](http&#58;//getbootstrap.com/css/#forms-horizontal) for more information.
+​See [http://getbootstrap.com/css/#forms-horizontal](http&#58;//getbootstrap.com/css/#forms-horizontal) for more information.
 
 ### Related Rule
 

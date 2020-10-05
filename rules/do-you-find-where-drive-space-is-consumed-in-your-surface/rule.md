@@ -9,4 +9,4 @@ authors:
 
 ---
 
-To find where drive space is consumed in your Surface you should install TreeSize Touch.
+To find where drive space is consumed in your Surface​ you should install TreeSize Touch.

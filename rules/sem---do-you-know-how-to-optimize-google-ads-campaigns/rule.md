@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Google Ads can be a useful and successful marketing platform when actively monitored and optimized. This should be done daily, where possible, to ensure that ads are not running and spending money ineffectively, here are three important steps to achieve this:
+​​​Google Ads can be a useful and successful marketing platform when actively monitored and optimized. This should be done daily, where possible, to ensure that ads are not running and spending money ineffectively, here are three important steps to achieve this:
  
 ### Setting Maximum Cost per Click 
 

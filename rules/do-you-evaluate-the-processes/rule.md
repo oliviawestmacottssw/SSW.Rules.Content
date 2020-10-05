@@ -18,7 +18,7 @@ Often an incorrect process is the main source of problems. Developers should be 
 1. Are devs getting bogged down in the UI?
 2. Do you have continuous integration and deployment?
 3. [Do you have a Schema Master?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=31ff17e0-672b-4918-b455-b9a2df9d5766)
-4. [Do you have a DevOps Master?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=cc17fd00-1532-4a22-aeb6-65e23ca2a101)
+4. [Do you have a DevOps​ Master?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=cc17fd00-1532-4a22-aeb6-65e23ca2a101)
 5. [Do you have a Scrum Master?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=c7aaccf3-506d-46a2-8eb2-813d611ec008)
 
 

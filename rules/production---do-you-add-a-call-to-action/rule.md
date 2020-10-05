@@ -9,11 +9,11 @@ authors:
 
 ---
 
-Without a call to action prompting viewers to do something at the end of a video, the purpose of the video is lost. As such, make sure you include the call to action at the end.
+Without a call to action prompting viewers to do something at the end of a video, the purpose of the video is lost. As such, make sure you include the call to action at the end.​
 <br>Common objectives are to: 
 - Get them to the company's Facebook page
 - Obtain the viewer's email address
-- Get the viewer to provide info and request a service from the company
+- Get the viewer to provide info and request a service from the company​
 
  
 A good 'call to action' should:
@@ -37,14 +37,17 @@ Figure: Bad example - too many options breeds choice paralysis
 
 
 
+<br>​
 
 
 
 
 
-
-
+<br>​
 
 Figure: Fairly Good example (skip to the end) – a simple task to email hamids@axosoft.com, plus links to social media are present, however there is too much on screen and he has used a graphic instead of live action.    [
 ![](Call-to-Action-Screenshot.jpg)](http://www.youtube.com/watch?v=11ibqpnitfk)
 **Figure: Good Example – very clear call to action that asks for an email address. Only asks for one thing at a time and uses zooming effects. In addition, gives a twitter option to engage and uses live action.**
+ 
+
+ ​

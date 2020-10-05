@@ -11,14 +11,16 @@ authors:
 
 ---
 
-When filming a scene it is always important to remember production design aspects. Production design is basically all of the things (excluding the people) that we see on screen. This includes wardrobe, set design, location, lights and props.
+When filming a scene it is always important to remember production design aspects. Production design is basically all of the things (excluding the people) that we see on screen. This includes wardrobe, set design, location, lights and props.​
  
-Overall, one should try and use as little colours as possible when designing a production. That doesn't mean use mainly tones, it means try and limit your colour palette to as few colours as possible. If you are creating corporate work try and include your company's colours. So for example if you were creating a production for SSW, you would use black, white, red and bronze (the bronze refers to the colour of skin - this will almost always be involved in your colour palette). You might end up having to include another colour or two but you will find the less unnecessary colours you use the better. Try and apply this to every aspect of your production design.
+​Overall, one should try and use as little colours as possible when designing a production. That doesn't mean use mainly tones, it means try and limit your colour palette to as few colours as possible. If you are creating corporate work try and include your company's colours. So for example if you were creating a production for SSW, you would use black, white, red and bronze (the bronze refers to the colour of skin - this will almost always be involved in your colour palette). You might end up having to include another colour or two but you will find the less unnecessary colours you use the better. Try and apply this to every aspect of your production design.
 
 ###  <br>   Wardrobe
 
-Wardrobe refers to what people wear when they're on screen. Keep in mind the tone, genre, character and mood of your production when choosing clothing. Avoid distracting jewelry or accessories unless it adds to the character. Also avoid stripes; most cameras will produce an unnatural, unpleasant effect when filming them, so make sure your actor isn't wearing their favourite striped shirt! Text on clothing is also a bad idea, the viewer will try to read it instead of listening to what your actor's are saying.
+Wardrobe refers to what people wear when they're on screen. Keep in mind the tone, genre, character and mood of your production when choosing clothing. Avoid distracting jewelry or accessories unless it adds to the character. Also avoid stripes; most cameras will produce an unnatural, unpleasant effect when filming them, so make sure your actor isn't wearing their favourite striped shirt! Text on clothing is also a bad idea, the viewer will try to read it instead of listening to what your actor's are saying.​
 
+
+`youtube: https://www.youtube.com/embed/eZBPbshWSRU`
  
 
 ### Set Design
@@ -33,8 +35,10 @@ Creating a set for a production is a complex and tricky business but there are s
 
 ###  <br>Location
 
-Location is similar to set design, only in this instance the aspects are mostly out of your control. You can certainly dress the set (see below) but at the end of the day there are some things that will be there no matter what. As such, choose your location carefully. Things to consider are background, framing, sound and distractions. Is there a loud lecture theatre, highway or skate ramp next door? Is there a window on your set that's going to create a distracting reflection? Is there a boring, featureless wall in your background? Is there a line that appears to be passing straight through someone's head? Also avoid high contrast, such as a very dark wall next to the bright wall your subjects are in front of, or a large white spot on a black wall.
+Location is similar to set design, only in this instance the aspects are mostly out of your control. You can certainly dress the set (see below) but at the end of the day there are some things that will be there no matter what. As such, choose your location carefully. Things to consider are background, framing, sound and distractions. Is there a loud lecture theatre, highway or skate ramp next door? Is there a window on your set that's going to create a distracting reflection? Is there a boring, featureless wall in your background? Is there a line that appears to be passing straight through someone's head? Also avoid high contrast, such as a very dark wall next to the bright wall your subjects are in front of, or a large white spot on a black wall.​
 
+
+`youtube: https://www.youtube.com/embed/2wbykQVvfkc`
  
 
 Figure: Good and Bad examples of filming locations

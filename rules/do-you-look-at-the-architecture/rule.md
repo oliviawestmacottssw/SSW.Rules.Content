@@ -23,11 +23,10 @@ They show the dependencies between classes and assemblies in your projects. You 
 
 ![ Visual Studio lets you generate a dependency graph for your solution](ArchitectureToolsVS11.png)
 
-![ The dependency graph in Visual Studio shows you some interesting information about how projects relate to each other](DependencyDiagramInVS11.png) 
+![ The dependency graph in Visual Studio shows you some interesting information about how projects relate to each other​](DependencyDiagramInVS11.png) 
 
 
 nDepend has a similar diagram that is a little messier, but the latest version also includes a "Queries + Rules Explorer" which is another code analysis tool.
 
-![ nDepend Dependency Graph. Issues are highlighted in red for easy discovery](nDependDependencyGraph.png) 
-
+![](nDependDependencyGraph.png)​ Figure: nDepend Dependency Graph. Issues are highlighted in red for easy discovery
 Read more about nDepend: [ndepend.com](http://www.ndepend.com/).

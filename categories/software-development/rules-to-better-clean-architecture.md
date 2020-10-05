@@ -16,5 +16,5 @@ index:
 ---
 SSW implements strict standards on all code produced. Implementing strict coding standards means your code can be easily read, easily modified and easily tested. Our experts are experienced in Angular, React, Vue, C#, .NET Core Web API, Azure, Dynamics CRM, and SharePoint.
 
-Learn more on [our Software Auditing page](https&#58;//www.ssw.com.au/ssw/Consulting/Software-Audit.aspx).
+​Learn more on [our Software Auditing p​age](https&#58;//www.ssw.com.au/ssw/Consulting/Software-Audit.aspx).​​​
 

@@ -20,13 +20,13 @@ A class should have one, and only one reason to change.
 **LSP The Liskov Substitution Principle 
 **Derived classes must be substitutable for their base classes.
 
-**ISP The Interface Segregation Principle 
+**ISP The Interface Seg​regation Principle 
 **Make fine-grained interfaces that are client specific.
 
 **DIP	The Dependency Inversion Principle 
 **Depend on abstractions, not on concretions.
 
- Figure: Your code should be using <br>   [SOLID principles](https&#58;//en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
+ Figure: Your code should be using <br>   [SOLID principles​​](https&#58;//en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)​
  
 It is assumed knowledge that you know all 5 SOLID principles. If you don't, read about them on Uncle Bob's site above, or watch the [SOLID Pluralsight videos by Steve Smith.](http&#58;//www.pluralsight-training.net/microsoft/courses/TableOfContents?courseName=principles-oo-design&amp;highlight=)
 
@@ -37,6 +37,6 @@ It is assumed knowledge that you know all 5 SOLID principles. If you don't, read
 3. When teams first begin implementing Dependency Injection, it is common for them to generate bloated interfaces that violate the Interface Segregation Principle.
 
 
-After you have identified and corrected the most obvious broad principle violations, you can start drilling into the code and looking for localized code breaches. [ReSharper](http&#58;//www.jetbrains.com/resharper/) from JetBrains or [JustCode](http&#58;//www.telerik.com/products/justcode.aspx) from Telerik are invaluable tools once you get to this level.
+After you have identified and corrected the most obvious broad principle violations, you can start drilling into the code and looking for localized code breaches. [ReSharper](http&#58;//www.jetbrains.com/resharper/) from JetBrains o​r [JustCode](http&#58;//www.telerik.com/products/justcode.aspx) from Telerik are invaluable tools once you get to this level.
 
 Once you understand common design principles, look at [common design patterns](/Pages/DoYouKnowCommonDesignPatterns.aspx) to help you follow them in your projects.

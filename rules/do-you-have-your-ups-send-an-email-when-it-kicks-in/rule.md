@@ -19,4 +19,4 @@ All UPS's come with management software that can perform these actions. You just
 
 We use an MGE UPS so we use Personal Solution Pac which allows you to run script files on events. We just call a script file which will send us an email.
 
-![](MGEUPSSettings.gif)
+![](MGEUPSSettings.gif)​

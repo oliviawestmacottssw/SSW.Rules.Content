@@ -24,7 +24,7 @@ Fluent Validation is [available as a Nuget package](http://www.nuget.org/package
 
 If you create a new MVC web application in VisualStudio 2013, unobtrusive validation will be enabled by default. Otherwise, it's simple to [install from Nuget](http://www.nuget.org/packages/Microsoft.jQuery.Unobtrusive.Validation/). To use it simply:
 
-1. Bind your razor views to model objects
+1. ​Bind your razor views to model objects
 2. Use Html Helpers to render the form UI
 
  

@@ -18,4 +18,4 @@ A good mission statement can help in three main ways:
 - It provides an incentive to implement the marketing plan, and keep updating and improving it
 
 
-![ A clear business mission should include the purpose, value, standard behaviors, strategy, and scope of your business. Having these clearly defined allows your team to always be pushing your overall goals](mission-statement.png)
+![ A clear business mission should include the purpose, value, standard behaviors, strategy, and scope of your business. Having these clearly defined allows your team to always be pushing your overall goals​](mission-statement.png)

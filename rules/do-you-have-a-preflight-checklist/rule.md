@@ -16,22 +16,22 @@ Most developers check only this first item before starting their work:
 
 1. Check Unit Tests are Green
 
-
+​
 ![ Tests are green. I'm ready to start work... or am I?](unittests.png)
 
 
 
 
-More advanced teams check their application insights data as well. This includes:
+More advanced teams check their application insights data as well. This includes:​​
 
-2. Look for any new Unhandled Exceptions
-
-
-> See [Do you know the daily process to improve the health of your web application?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=87dd82da-1716-4112-97f9-9161398eee1c)
+2. Look for any new Unhandled Exceptions​
 
 
+> ​See [Do you know the daily process to improve the health of your web application?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=87dd82da-1716-4112-97f9-9161398eee1c)
 
-> 
+
+
+> ​​
 ![](App-Insights-Failures.png)
 > 
 > **Figure: Unhandled Exceptions - Is there anything you don't know about here?**

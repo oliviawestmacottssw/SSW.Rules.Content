@@ -10,7 +10,7 @@ authors: []
 If you do a search and no matches are found, display a message indicating zero results were returned rather than an error message.
 
 [[badExample]]
-| ![ Bad Example - No matches found on searching is not an "Error" ](../../assets/InappropriateError.gif)
+| ![ Bad Example - No matches found on searching is not an "Error"   ​](../../assets/InappropriateError.gif)
 
 However, a user thinks that either:
 

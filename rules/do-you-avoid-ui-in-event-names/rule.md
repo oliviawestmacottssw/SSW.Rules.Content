@@ -20,7 +20,7 @@ UIUpdateBidButtonsRed();
 }
 }
  Bad Code: Avoid "UI" in event names, an event is UI un-aware
-
+​​
 
 private void RaiseSelectedLotUpdated()
 {
@@ -30,3 +30,4 @@ SelectedLotUpdated();
 }
 }
  Good Code: We received an update on the currently selected item, change the UI correspondingly (or even better: use MVVM and data binding)
+​

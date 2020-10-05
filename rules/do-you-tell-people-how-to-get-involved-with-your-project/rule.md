@@ -11,9 +11,9 @@ authors:
 
 The key to building a great open source project is to build a great community around your project.
 
-To do this it is essential that potential contributors can find out how to get involved.
+To do this it is essential that potential contributors can find out how to get involved.​
  
-It is a common pattern for open source projects to contain a CONTRIBUTING.md markdown file that supplies information on how to get involved.
+​​It is a common pattern for open source projects to contain a CONTRIBUTING.md markdown file that supplies information on how to get involved.​​
 
 [[goodExample]]
 | ![ Good Example - The Microsoft ASP.NET and Azure teams both do a great job of providing documentation on how to start contributing](getinvolved1.png)

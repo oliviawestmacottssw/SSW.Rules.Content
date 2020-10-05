@@ -9,11 +9,11 @@ authors:
 
 ---
 
-Try to avoid problems in if-statements without curly brackets and just one statement which is written one line below the if-statement. Use just one line for such if-statements. If you want to add more statements later on and you could forget to add the curly brackets which may cause problems later on.
+Try to avoid problems in if-statements without curly brackets and just one statement which is written one line below the if-statement. Use just one line for such if-statements. If you want to add more statements later on and you could forget to add the curly brackets which may cause problems later on.​
  
-if (ProductName == null) ProductName = string.Empty; if (ProductVersion == null)
+​if (ProductName == null) ProductName = string.Empty; if (ProductVersion == null)
  ProductVersion = string.Empty; if (StackTrace == null) StackTrace = string.Empty;
-Figure: Bad Example
+​​​Figure: Ba​d Example
 
 if (ProductName == null) 
 { 
@@ -27,4 +27,5 @@ if (StackTrace == null)
 { 
  StackTrace = string.Empty;
 }
-Figure: Good Example
+​Figure: Good Example
+​

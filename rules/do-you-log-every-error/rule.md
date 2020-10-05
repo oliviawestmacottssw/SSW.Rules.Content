@@ -9,7 +9,7 @@ authors:
 
 ---
 
-When you walk into a clothes store to exchange a pair of jeans, you expect to be treated with respect. The sales person should talk to you at your level, deal with your issues, and in a polite and fair way handle your problem. Developers should not expect software users to be treated any differently.
+When you walk into a clothes store to exchange a pair of jeans, you expect to be treated with respect. The sales person should talk to you at your level, deal with your issues, and in a polite and fair way handle your problem. Developers should not expect software users to be treated any differently​.
 
 Every error message you put into your products is an opportunity for good service. Users don't want to see "Run-time error. Can't save record with zero length string", instead the User should receive a message that helps them through the situation.
 

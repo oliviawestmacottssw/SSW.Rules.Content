@@ -13,12 +13,12 @@ In an agile team, pre-planning all your tests is not always the most efficient u
 
 
 
-Exploratory testing provides the best way to create repeatable tests from the acceptance criteria - as you need them.
+Exploratory testing provides the best way to create repeatable tests from the acceptance criteria - as you need them.​
  
 There are two ways to run an exploratory test in Microsoft Test Manager.
 
 [[badExample]]
-| ![ Bad Example - go to the Test tab, choose Do Exploratory Testing, choose a PBI, then click Explore. Too many steps](exploratory_2.png)
+| ![ Bad Example - go to the Test tab, choose Do Exploratory Testing, choose a PBI, then click Explore. Too many steps​](exploratory_2.png)
 
 
 [[goodExample]]
@@ -52,4 +52,4 @@ Again, the steps are prepopulated from your bug steps.
 ### Related Links
 
 
-- [Do you do exploratory testing?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=14be0d02-79ad-4286-8b78-4f28b0ed4eea)
+- ​[Do you do exploratory testing?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=14be0d02-79ad-4286-8b78-4f28b0ed4eea)​
