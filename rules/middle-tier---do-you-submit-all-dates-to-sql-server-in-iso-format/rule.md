@@ -54,4 +54,4 @@ The help specifies that this format is unaffected by the SET DATEFORMAT command 
 
 "The SET DATEFORMAT session setting does not apply to all-numeric date entries (numeric entries without separators). Six- or eight-digit strings are always interpreted as ymd."
 
-[What is ISO format date? ](https&#58;//www.w3.org/QA/Tips/iso-date)
+[What is ISO format date?](https&#58;//www.w3.org/QA/Tips/iso-date)

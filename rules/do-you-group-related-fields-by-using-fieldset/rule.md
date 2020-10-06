@@ -28,9 +28,9 @@ Your Details
         Email Address:
 ```
 
-Figure: Example code of FieldSet <br>   
+Figure: Example code of FieldSet
 ![How that code will look on the browser](fieldset-browser.jpg)
- Things to remember:
+Things to remember:
 
 1. Wrap logical control groups in a .
 2. The first child of a  should be a , so the user knows what to expect in that section.

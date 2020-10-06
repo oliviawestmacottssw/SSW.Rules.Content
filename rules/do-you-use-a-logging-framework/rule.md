@@ -23,5 +23,5 @@ Trace.WriteLine("Service started");
  Figure: Better Example - Using Trace.WriteLine to write debug informatio
 The best approach is to use a logging framework like Serilog. You can direct output to different sinks (e.g. log file, database, table storage or Application Insights), include structured objects as well and filter output based off severity (Verbose/Debug/Info/Warning/Error).
 
-Log.Debug(“Service started”); 
+Log.Debug(“Service started”);
 Figure: Best Example – Using Serilog to write debug information

@@ -38,7 +38,7 @@ Here’s what we check:
 2. SugarLearning - [https://www.sugarlearning.com/SSW/Leaderboard](https&#58;//www.sugarlearning.com/SSW/Leaderboard)
 3. Bookings - [http://reports.ssw.com.au/Reports/report/SSW2005Reports/SSW%20Booked%20In%20Days](http&#58;//reports.ssw.com.au/Reports/report/SSW2005Reports/SSW%20Booked%20In%20Days)
 
- <br>
+
 &lt;This email was sent as per the rule: [https://rules.ssw.com.au/do-you-reward-your-employees-for-doing-their-timesheets-on-time](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9bbec8d8-f552-46c1-a34e-fdaaa127662b) /&gt;
 
 

@@ -30,19 +30,18 @@ Scrum is easier than it seems, we'll explain how in these 8 simple steps.
 5. ### Product Increment
 
     During the Sprint, the Development Team works on the PBIs in priority order, and then closes them once they meet the 'Definition of Done', which often includes sending 'Done' emails. Every day, they do a Daily Scrum, where they go through the Task Board and talk about what they did yesterday, what they’re planning to do today, and if they have any blockers.
-6. ###   <br>         [Product Feedback](/Pages/CreateBugs.aspx)
+6. ### [Product Feedback](/Pages/CreateBugs.aspx)
     Product Feedback will then come in. Some will be bugs, and some will be small changes that can be added to the current Sprint. Other suggestions should be approved by the Product Owner and then added to the Product Backlog.
 7. ### [Sprint Review](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=4f02d28d-5375-4530-abcb-0b541683bcbc)
 
     At the end of the Sprint, there is a Sprint Review, where the Development Team demos or plays done videos of the completed PBIs. The goal is for the Product Owner to understand the increment and to discuss feedback to make the product better. This is the real measure of the success of the Sprint.
-
 8. ### [Sprint Retrospective](/Pages/RetrospectiveMeeting.aspx)
     Lastly, there is the Sprint Retrospective, and this is the best part! The Scrum Team discusses what went well, what didn't and what to improve, always inspecting and adapting.
 
-        
+
 From here, another Sprint Planning session commences, and the wheel keeps turning, getting better and better with every revolution.
 
-![If you like this, retweet](8steps2013-tweet.jpg)[twitter.com/AdamCogan/status/375010501693960192](https://twitter.com/AdamCogan/status/375010501693960192)
+![If you like this, retweet https://twitter.com/AdamCogan/status/375010501693960192](8steps2013-tweet.jpg)
 
 > New PDF for War Room: 8 Steps to Scrum - Updated to Scrum Guide 2013        http://t.co/lIvYdcDoD7 CC        [@Scrumdotorg](https://twitter.com/Scrumdotorg)[@ScrumAlliance](https://twitter.com/ScrumAlliance)
 > — Adam Cogan [SSW] (@AdamCogan) <br>   [September 3, 2013](https://twitter.com/AdamCogan/statuses/375010501693960192)

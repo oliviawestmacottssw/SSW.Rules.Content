@@ -33,9 +33,9 @@ Examples of Progressive Web Apps can be seen at [**https://mofluid.com/blog/10-b
 | ![aliexpress get a mark of 6/12](pwa-bad-example.jpg)(see tooltip) and cannot be used as a PWA
 ![Accessing a PWA on your mobile will prompt adding it on your Home screen. E.g.](pwa-example.png)[https://blog.mikemjharris.com](https://blog.mikemjharris.com/)
 
-You can check the Progressive Web App score of your application using Chrome's Developer tools. 
+You can check the Progressive Web App score of your application using Chrome's Developer tools.
 
-**Note: **See how to generate a PWA report on           https://developers.google.com/web/tools/lighthouse/#devtools.
+**Note:** See how to generate a PWA report on           https://developers.google.com/web/tools/lighthouse/#devtools.
 
 
 

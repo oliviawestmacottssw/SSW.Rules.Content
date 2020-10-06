@@ -10,7 +10,7 @@ authors:
 ---
 
 One of the best ways to generate new opportunities for your business is to hold a webinar. It is very important that you follow up with each attendee after each webinar otherwise you will waste the opportunities you have created. After each webinar you should complete the following:
-     
+ 
 **1. For all new prospects**
 
 1. After each webinar someone must call each person who registers (based in your region), offer them the video and ask them the following questions:

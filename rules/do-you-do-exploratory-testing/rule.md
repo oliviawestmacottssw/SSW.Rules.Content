@@ -19,7 +19,7 @@ Use Microsoft's Exploratory Testing - **Test & Feedback extension** - to perform
 
  Capture screenshots, annotate them and submit bugs as you explore your web app - all directly from Chrome (or Firefox) browser. Test on any platform (Windows, Mac or Linux), on different devices. No need for predefined test cases or test steps. Track your bugs in the cloud with Visual Studio Team Services (VSTS).
  
-  <br>   
+
 
 `youtube: https://www.youtube.com/embed/J_fmWxl1zUQ?rel=0`
  
@@ -39,7 +39,7 @@ Use Microsoft's Exploratory Testing - **Test & Feedback extension** - to perform
 `youtube: https://www.youtube.com/embed/VSACs4QRnuI`
  
  Official video from Microsoft Visual Studio channel
-   
+
 **
 **
 

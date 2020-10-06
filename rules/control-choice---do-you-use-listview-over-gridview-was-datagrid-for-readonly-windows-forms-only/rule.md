@@ -15,7 +15,7 @@ Yes a ListView looks nicer than a DataGrid, but a Datagrid is better because it 
 - Sort data - always useful when there are more than about 20 rows
 - DataBind - always saves heaps of code
 
-    
+ 
 So our old rule was to always use the ugly DataGrid (although we were never happy about that).
  
 [[badExample]]

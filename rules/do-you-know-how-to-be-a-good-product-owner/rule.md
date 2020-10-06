@@ -16,7 +16,7 @@ The client is generally the Product Owner (PO). They should read the Scrum Guide
 
 `youtube: https://www.youtube.com/embed/3eljozEWpf8`
  
- 
+
 
 ### In order to be a good PO, they need to:
 
@@ -45,7 +45,7 @@ It’s hard to give guidance on who in the company would make a good PO. The usu
 It’s possible to outsource the role of PO to someone in the development consulting company, but this is not recommended. Don’t put the fox in charge of the chickens.
 
 
->  “Most dysfunction I see in Scrum teams is caused by a bad Product Owner”
+> “Most dysfunction I see in Scrum teams is caused by a bad Product Owner”
 
 
 

@@ -30,7 +30,7 @@ The email was sent by zombies
 
 
 Figure: Bad example - This sentence could be more engaging
-Zombies sent the email 
+Zombies sent the email
 
 Figure: Good example - Now that's a more engaging sentence
 

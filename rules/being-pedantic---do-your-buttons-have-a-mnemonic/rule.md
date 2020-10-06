@@ -10,7 +10,7 @@ authors:
 ---
 
 A mnemonic for a button is the letter which has an underscore, and the user can press the button using Alt-.
-    
+ 
 [[badExample]]
 | ![All buttons without Mnemonic](../../assets/BadMem.gif)
 [[goodExample]]

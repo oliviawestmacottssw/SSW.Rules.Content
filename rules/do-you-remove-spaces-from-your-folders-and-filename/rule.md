@@ -11,7 +11,7 @@ authors:
 
 It is not a good idea to have spaces in a folder or file name as they don't translate to URLs very well and can even cause technical problems.
 
-Instead of using spaces, you should have the first letter of each word in UPPERCASE and the rest of the word in lowercase. Alternatively, you can choose to use underscores. This alternative method to spacing makes file names more readable when published on the web. 
+Instead of using spaces, you should have the first letter of each word in UPPERCASE and the rest of the word in lowercase. Alternatively, you can choose to use underscores. This alternative method to spacing makes file names more readable when published on the web.
  
 Note that this rule should apply to any file or folder that is on the web. This includes TFS Team Project names and SharePoint Pages.
 

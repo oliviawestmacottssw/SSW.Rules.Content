@@ -13,7 +13,7 @@ authors:
 
 The first day of a new job can be daunting.  For the new starter, the workplace is unfamiliar, their colleagues are strangers, and there’s so much to learn they think their head might explode. All up, it’s a stressful time.
 
-There are few simple ways to help new hires feel more comfortable as they adjust to their new workspace: 
+There are few simple ways to help new hires feel more comfortable as they adjust to their new workspace:
  
 ** Before they start:**
 

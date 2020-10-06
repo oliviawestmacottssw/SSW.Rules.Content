@@ -8,7 +8,7 @@ authors: []
 ---
 
 When stopping processes, you should use 'Cancel'... Not 'Stop'. The meaning of 'Cancel' is clearer to users, as opposed to 'Stop' which might also mean 'Pause'.
-   
+ 
 [[badExample]]
 | ![Stop is an ambiguous term and can be momentarily confusing](../../assets/cancel-long-process-bad.jpg)
 [[goodExample]]

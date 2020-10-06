@@ -38,7 +38,6 @@ Note: QR codes can be scanned by tapping and hold on it on screen.
  
 ![Tap and hold on a QR image to extract a QR code](extract a qr code.PNG)
 
-
 ### #3 Use a QR code to receive money in Alipay 
 
 
@@ -59,7 +58,6 @@ Once your total has been rung up, show your “Pay Vendor” QR code for the mer
 **
  
 ![How to show your “Pay Vendor” QR code on Alipay](pay vendor alipay.png)
-
 
 ### #5 Use a QR code to check product history and verification
 

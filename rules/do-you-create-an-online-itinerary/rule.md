@@ -22,4 +22,4 @@ After joining tripit.com, forward a copy of each booking confirmation to plans@t
 ![A TripIt Itinerary example](tripitimage.png)
 
 
-For more information or to join, visit [tripit.com ](https://www.tripit.com/)
+For more information or to join, visit [tripit.com](https://www.tripit.com/)

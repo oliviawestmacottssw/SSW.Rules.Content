@@ -36,7 +36,7 @@ Choose**Internet Information Services | Web Management Tools | World Wide Web Se
 ![now enable dynamic content compression for your site.](5.png)
 
 
-    - ****Method 2:  Using “Gzipper” in your Angular website
+    - Method 2:  Using “Gzipper” in your Angular website
 Followhttps://www.npmjs.com/package/gzipper .(but it still need IIS Server enable static content compression.) 
 Using "npm i gzipper g" to install "gzipper" first. Add to scripts in your package.json
 
@@ -49,7 +49,6 @@ Using "npm i gzipper g" to install "gzipper" first. Add to scripts in your packa
 Refer tohttps://www.codeproject.com/Tips/1080065/Improve-the-Performance-of-ASP-NET-MVC-Web-Applica .  <br>             To implement this in ASP.NET MVC, we can utilize ActionFilterAttribute and override either OnActionExecuting or OnResultExecuting method. The below code snippet is being used to check whether the current request browser can accept GZIP/DEFLATE encoding by looking at Accept-Encoding request header. If it finds GZIP encoding in this header, then we would set gzip in Content-encoding in response header and if it supports DEFLATE, then this code would set deflate in Content-encoding.
 
 ```sh
-
 using System;
 using System.Collections.Generic;
 using System.IO.Compression;
@@ -96,8 +95,7 @@ namespace HTTPCompression.ActionFilters
  { 
     ViewBag.Message = "Your application description"; 
     return View(); 
- } 
-
+ }
 ```
 
  Figure: Bad Example, files with large size and slow load time.

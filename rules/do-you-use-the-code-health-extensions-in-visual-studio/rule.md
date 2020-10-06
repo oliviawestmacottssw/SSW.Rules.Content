@@ -37,7 +37,6 @@ Search & Install the NuGet packages:
 For Visual Studio development on web applications, download Web Essentials, it will provide intellisense for JS, CSS, HTML, Less, Scss, and CoffeeScript. ([Nuget page for Web Analysers](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials20153%E2%80%8B))
 
 
-
 ![Steps to install NuGet Packages](VS-InstallNuGetPackages.png)
 
 
@@ -45,7 +44,6 @@ For Visual Studio development on web applications, download Web Essentials, it w
 Issues from these will now be returned in the Visual Studio analyser error list.
 
 ![New Roslyn Rule issues raised in Visual Studio Analyser](VS-RoslynRules.png)
-
 Your goal should be to get the issues in a solution down to zero.
 If you believe the issues being raised are not important, please check the section below which outlines how to change the ruleset.
 

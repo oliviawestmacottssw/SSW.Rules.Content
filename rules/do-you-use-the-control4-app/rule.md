@@ -39,7 +39,6 @@ To use Control4 on your phone and remotely control all services, you will need t
 or Google Play: http://www.control4.com/software/control4-app-android/latest
 
 
-
 ![](control4iosappstore.jpg)
 
 > 2. Select "Add System" button.

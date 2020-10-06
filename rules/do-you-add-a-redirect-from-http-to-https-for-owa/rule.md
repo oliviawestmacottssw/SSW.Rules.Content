@@ -42,7 +42,6 @@ appcmd set config "Default Web Site/powershell" /section:httpredirect /enabled:f
 appcmd set config "Default Web Site/rpc" /section:httpredirect /enabled:false -commit:apphost
 appcmd set config "Default Web Site/rpcwithcert" /section:httpredirect /enabled:false -commit:apphost
 appcmd set config "Default Web Site/Microsoft-Server ActiveSync" /section:httpredirect /enabled:false -commit:apphost
-
 4. Finish by running the command:    `iisreset/noforce`.
 
 

@@ -8,7 +8,7 @@ authors: []
 ---
 
 In agile development; updates, changes and bug fixes happen all the time and an issue that a user encounters today might already is fixed or have a workaround. That is why each page or form should link to a wiki page with any common problems that a user might encounter (and workarounds for them) and planned changes.
-   
+ 
 This saves the end user from resorting to crawling the web for solutions.
 
 **From:** Tech Support

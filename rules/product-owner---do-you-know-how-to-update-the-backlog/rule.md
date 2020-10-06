@@ -17,7 +17,7 @@ There are three options for how to a add new PBI (Product Backlog item) to the b
 
 1. Emails <br>      Bad Example - This is a poor way to add a PBI as you can’t order emails by business priority
 2. **Visual Studio Team Services** - E.g. https://ssw.visualstudio.com 
- <br>         
+
 [[goodExample]]
 | ![VSTS allows you to enter an item into the backlog, in any priority order](RulesScrumUpdateBacklogGood.jpg "image")
 3. **Team Companion (Recommended)

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-The status message is often not used but can be quite helpful. People can instantly see what you are up to when they chat with you. 
+The status message is often not used but can be quite helpful. People can instantly see what you are up to when they chat with you.
 
 It tells people 3 things:
 
@@ -29,13 +29,13 @@ To update the status message, follow these steps:
 
 
 ![Edit the Teams status message each day](edit-teams-status.jpg)
-The status message is helpful when it contains: 
+The status message is helpful when it contains:
 
 - **Project:** xxx (the product/project you’re working on) | yyy (the tasks you’re working on)
-- **Need: **xxx (team members that you’re working with – use @mention to tag these members)
+- **Need:** xxx (team members that you’re working with – use @mention to tag these members)
 - **Location:** xxx (where you’re working from e.g. Home, SSW Melbourne, CBA, etc.)
 
-**Note: **the benefit of using the field names with the colon is that it allows you to programmatically extract the information e.g. on SSW SophieBot when you ask who is Patrick, you could also see this information and query why the location field is different from the Wifi he is connected to.
+**Note:** the benefit of using the field names with the colon is that it allows you to programmatically extract the information e.g. on SSW SophieBot when you ask who is Patrick, you could also see this information and query why the location field is different from the Wifi he is connected to.
 
 - Enable “Show when people message me”
 - For “Clear status message after”, select Never (to prevent Microsoft from deleting the status message)

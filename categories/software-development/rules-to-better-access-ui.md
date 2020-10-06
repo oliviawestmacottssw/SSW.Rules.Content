@@ -18,7 +18,7 @@ When designing their UI, Access developers often make these common mistakes:
 - Lots of different forms - having a separate form for every block of data that needs to be entered can become a confusing and tedious process.
 
 
- 
+
 With the new breed of icons, themes and form layouts, you will try and steer away from the old Access look. Aim for a cleaner, less cluttered, and quicker to navigate look. With just a little time you can fix up your Access forms. Try these tips and see how you can transform even an Access Application!
 
 Do you agree with them all? Are we missing some? Email us your tips, thoughts or arguments. Let us know what you think.

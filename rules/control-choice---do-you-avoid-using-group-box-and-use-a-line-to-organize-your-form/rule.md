@@ -8,7 +8,7 @@ authors: []
 ---
 
 Group box should only be used when you want to notify the user the controls within it are really related, such as radio buttons.
-   
+ 
 [[badExample]]
 | ![Inappropriate use of 'Group Box', there is nothing to be grouped](../../assets/RulesT8.jpg)
 [[goodExample]]

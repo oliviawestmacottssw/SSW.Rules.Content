@@ -13,7 +13,7 @@ authors:
 
 So now you have set your goals and you know how to track your performance, what’s next? For most businesses it’s important to identify your strengths and weaknesses, as well as your perfect customer. Most people do this by using Situational Analysis (SWOT) and Marketing Analysis.
 
-A SWOT analysis helps identify your companies’ Strengths, Weaknesses, Opportunities, and Threats. You can see some examples in the below diagram. 
+A SWOT analysis helps identify your companies’ Strengths, Weaknesses, Opportunities, and Threats. You can see some examples in the below diagram.
  
 ![SWOT analysis template to help you ask the big questions about your business](swot-analysis.png)
 Market analysis studies the attractiveness and the dynamics of a special market within a special industry. Through all these analyses, the strengths, weaknesses, opportunities, and threats of a company can also be identified.  

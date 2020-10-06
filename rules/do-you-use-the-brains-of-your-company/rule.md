@@ -18,7 +18,7 @@ Employees are a company's best resource, but often there is no light shone on th
 
 `youtube: https://www.youtube.com/embed/X1qJyKTbfXk`
 
-   
+ 
 Employees on the front line often have valuable insights into opportunities for improvement, what is painful, increased efficiency and even entirely new business ideas. Empowering these employees with an annual brainstorming day is a great way to transform their good ideas into valuable solutions, as well as giving them the opportunity to learn and grow from each other. Also, many employees enjoy the opportunity to flex their creative muscles in fun ways that their day-to-day jobs may not always afford them.
 
 Different companies have different approaches to this. For example:
@@ -59,7 +59,7 @@ e.g.:
 
 
 
-     Hi All,
+Hi All,
 
 I’m really excited about our brainstorming day! I hope you’re all thinking about what you would like to work on.
 

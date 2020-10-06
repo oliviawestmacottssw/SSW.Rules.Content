@@ -20,4 +20,4 @@ Also see: [Do you know to make what you can public?](/_layouts/15/FIXUPREDIRECT.
 ![This rule describes the choice that was made](RulesBloggingDocumentGood2.jpg)
  
 ![This blog post documents the task or thought process](RulesBloggingDocumentGood.jpg)
-** Hint:** If you are really good you will end up with one or more rules, a blog post and a link in your email
+**Hint:** If you are really good you will end up with one or more rules, a blog post and a link in your email

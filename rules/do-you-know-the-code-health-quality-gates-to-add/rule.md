@@ -34,8 +34,7 @@ Search & Install the NuGet packages:
 "StyleCop.Analysers" https://www.nuget.org/packages/StyleCop.Analyzers/1.0.0
 "tslint" https://www.nuget.org/packages/tslint/
 
-For Visual Studio development on web applications, download Web Essentials, it will provide intellisense for JS, CSS, HTML, Less, Scss, and CoffeeScript. ([https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials20153](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials20153) )
-
+For Visual Studio development on web applications, download Web Essentials, it will provide intellisense for JS, CSS, HTML, Less, Scss, and CoffeeScript. (https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials20153 )
 
 ![Steps to install NuGet Packages](VS-InstallNuGetPackages.png)
 
@@ -63,7 +62,6 @@ Any project specific rules should be documented in "\_Instructions-CodeHealth.do
 Please also copy the current version number of this rule into the "\_Instructions-CodeHealth.docx" in order to track what version your existing solution adheres to.
 
 
-
 The current standard for rules is just the default ones. Frequently check back here for updates to the ruleset definition.
 
 
@@ -85,7 +83,7 @@ Simply select the "Extensions" tab, search for "CSSLint" and "TSLint" and click 
 
 If you prefer not to use the Extensions (which are currently a bit out of date). You can install them using npm as normal.
 
-CssLint [https://www.npmjs.com/package/csslint](https://www.npmjs.com/package/csslint)
+CssLint https://www.npmjs.com/package/csslint
 TSLint https://www.npmjs.com/package/tslint
 
 ### Automatically Check your Build in VisualStudio.com

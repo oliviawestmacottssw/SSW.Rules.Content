@@ -40,7 +40,6 @@ Schedule the meeting and invite the Scrum Team and any interested stakeholders.
 
 
 
-
 Hi           **XXX**,
  
 This is a calendar appointment to hold the following three Scrum meetings:

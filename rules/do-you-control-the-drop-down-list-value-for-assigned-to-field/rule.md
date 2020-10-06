@@ -15,7 +15,7 @@ The default WIT doesn’t control the valid drop down<br>items in Assigned To fi
 | ![shown unnecessary values   You can add the following XML in the Assigned To filed definition to control the valid values:](UnnecessaryValue.png)
 
 <FIELD name="Assigned To" refname="System.AssignedTo" type="String" reportable="dimension" syncnamechanges="true">
-  <ALLOWEXISTINGVALUE />
+<ALLOWEXISTINGVALUE />
   <REQUIRED />
   <ALLOWEXISTINGVALUE />
   <VALIDUSER />

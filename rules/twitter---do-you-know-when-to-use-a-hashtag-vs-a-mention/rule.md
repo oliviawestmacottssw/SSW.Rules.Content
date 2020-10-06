@@ -23,8 +23,7 @@ On the other hand, **@Mentions** are used when talking to or about someone (the 
 
 
  
-The best tweets will use a combination of @mentions and #hashtags where appropriate to properly leverage the platform – that way readers can check out the people involved OR join the conversation about a topic. 
-
+The best tweets will use a combination of @mentions and #hashtags where appropriate to properly leverage the platform – that way readers can check out the people involved OR join the conversation about a topic.
 
 
  

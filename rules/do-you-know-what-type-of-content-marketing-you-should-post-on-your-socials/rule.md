@@ -56,5 +56,5 @@ So, here are a few examples taken from our social media of what you could post o
 
 
 To see best practices for sharing memes on your socials, check out our Rule: [Do you know why you should use memes as part of your business social media content?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a79d64e4-ed1b-441a-9db1-95e1777c7b12)
-      
+
 ![A meme once a week on weekends can help you boost your social media engagement](meme.png)

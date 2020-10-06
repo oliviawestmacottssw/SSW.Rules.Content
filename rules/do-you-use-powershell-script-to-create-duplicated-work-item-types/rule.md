@@ -15,7 +15,7 @@ You should create a WIT template and use a place<br>holder for the difference, e
 
   …<br>
 
-&lt;/WORKITEMTYPE&gt;Figure: WIT template with place holder <br> 
+&lt;/WORKITEMTYPE&gt;Figure: WIT template with place holder  
 Then use the following PowerShell script to automatically clone the work item and replace the placeholder with actual text.
 $original\_file = '..\WorkItem Tracking\TypeDefinitions\Task\_Template\_DONOTInstall.xml'
 
@@ -27,4 +27,4 @@ $destination\_file =  '..\WorkItem Tracking\TypeDefinitions\Task\_ PlatformDep
 $destination\_file =  '..\WorkItem Tracking\TypeDefinitions\Task\_SystemDep.xml'
 (Get-Content $original\_file) | Foreach-Object {
    $\_ -replace "xxxxDepNamexxxx", "SystemDep"
-   } | Set-Content $destination\_file -Encoding UTF8Figure: PowerShell script to create duplicate WITs and replace the place holder with actual dataNote: if you are using non-English characters in your<br>template, make sure you add **–Encoding UTF8 **otherwise you will have some<br>encoding problems.<br>
+   } | Set-Content $destination\_file -Encoding UTF8Figure: PowerShell script to create duplicate WITs and replace the place holder with actual dataNote: if you are using non-English characters in your<br>template, make sure you add **–Encoding UTF8 **otherwise you will have some<br>encoding problems.

@@ -37,13 +37,13 @@ Figure: Bad example - too many options breeds choice paralysis
 
 
 
-<br>
 
 
 
 
 
-<br>
+
+
 
 Figure: Fairly Good example (skip to the end) – a simple task to email hamids@axosoft.com, plus links to social media are present, however there is too much on screen and he has used a graphic instead of live action.    [
 ![](Call-to-Action-Screenshot.jpg)](http://www.youtube.com/watch?v=11ibqpnitfk)

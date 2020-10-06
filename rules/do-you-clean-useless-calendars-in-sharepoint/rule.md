@@ -31,7 +31,7 @@ foreach ($web in $site.AllWebs) {
             }
         }
     }
-}  
+}
 
 This script will put the calendars which do not have any events into **Site Settings** | **Recycle Bin**:
 

@@ -13,5 +13,5 @@ authors:
  
 Go to [Markup Validation Service](https&#58;//validator.w3.org/):
 
-1. Enter the URL or upload file to check 
+1. Enter the URL or upload file to check
 2. Review the results and make changes to fix errors

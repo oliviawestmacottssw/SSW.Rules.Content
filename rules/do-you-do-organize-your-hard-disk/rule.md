@@ -13,7 +13,7 @@ Using a standard file structure for storing user data on laptops makes locating 
 
 Remember, the expectation is for all the questions to be answered with "YES" by the end of this checklist.
 
-![](data-backup.jpg)<br>
+![](data-backup.jpg)
  
 
 ###  Domain-joined checklist:

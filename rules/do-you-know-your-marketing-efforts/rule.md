@@ -11,7 +11,7 @@ authors:
 
 Marketing efforts are the resources you dedicate to promoting your products and services. Through marketing activities, like posting on social media, or paying for advertising, a company can create demand and interest in its items and gain greater visibility with potential customers.
  
-Before deciding on your effort or resources, you need to ask yourself some important questions: 
+Before deciding on your effort or resources, you need to ask yourself some important questions:
 
 
 

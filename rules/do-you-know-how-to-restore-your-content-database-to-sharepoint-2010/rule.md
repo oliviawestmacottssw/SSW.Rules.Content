@@ -11,8 +11,8 @@ authors:
 
 This is the meat of the migration process. First we need to detach the current content database from the Web Application:
 
-1. On the SharePoint 2010 server, open **SharePoint Central Administration **| **Application Management **| **Manage Content Databases**
-2. Set the **Database Status** to **offline **| tick **Remove content database**
+1. On the SharePoint 2010 server, open **SharePoint Central Administration** | **Application Management** | **Manage Content Databases**
+2. Set the **Database Status** to **offline** | tick **Remove content database**
 3. Open **SQL Server Management Studio** and delete the database you just removed from the web application
 
 
@@ -31,5 +31,5 @@ Figure 6 - Select “Restore Database”
 Now we need to attach the content database to the web application:
 
 1. Open up the **SharePoint 2010 Management Shell** with administrative permissions.
-2. Run the following command to attach the database to the web application (replacing the red text to match your environment)<br>        **stsadm –o addcontentdb –url ****http://sp2010rc/**** –databaseserver  –databasename **
+2. Run the following command to attach the database to the web application (replacing the red text to match your environment)<br>        **stsadm –o addcontentdb –url** **http://sp2010rc/** **–databaseserver  –databasename **
 3. After the database has been restored you will get a status message telling you how the upgrade went, with the path to a log file. Send this file to the SharePoint developers to determine if any issues occurred during the migration

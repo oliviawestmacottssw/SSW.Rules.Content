@@ -13,7 +13,7 @@ Most fields required validation. There are three types of validations:
 - Formatting - the field must be in a correct format. e.g. currency or date.
 - Logical - the field needs to pass some validation tests in the business layer.
 
-   
+ 
 To show an error, display an error provider icon next to the field on the right. An example of this is shown in the figure below.
 
 

@@ -37,4 +37,5 @@ A few reasons why Advanced Installer could be your choice:
 - Price vs performance ratio is great + it has a FREE version which is in many cases more than enough
 
 
-![](advanced-installer.jpg)<br>   Figure: Good Example - Advanced Installer
+[[goodExample]]
+| ![Advanced Installer](advanced-installer.jpg)

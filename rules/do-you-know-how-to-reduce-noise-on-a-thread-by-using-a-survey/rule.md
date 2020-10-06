@@ -30,6 +30,6 @@ An easy alternative to this is to use Office365 in OneDrive to create a survey i
 
 [[goodExample]]
 | ![send an email with a link to a survey instead of asking for replies](Good-Example-Invite-to-Survey.png)
-For a quick introduction to how to use Office365 from OneDrive, watch this video:  
+For a quick introduction to how to use Office365 from OneDrive, watch this video:
 
 `youtube: https://www.youtube.com/embed/1D47IIIY87M`

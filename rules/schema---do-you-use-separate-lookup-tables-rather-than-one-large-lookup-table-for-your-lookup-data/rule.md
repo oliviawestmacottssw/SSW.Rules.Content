@@ -32,8 +32,6 @@ When you are obtaining the OrderType for an order, you would have either:
 
 
 > Not great as it is not clear what the nature of the lookup table is.
-> 
-> 
 
 Advantage: Maintains Complete Referential Integrity without the need for triggers
 The other advantage of having separate lookup tables rather than one large one is that referential integrity is maintained.

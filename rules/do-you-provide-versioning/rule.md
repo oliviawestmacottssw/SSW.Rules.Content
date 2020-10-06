@@ -25,7 +25,7 @@ e.g. [https://developer.github.com/v3/](https&#58;//developer.github.com/v3/)
     1. Your URL's never change
 
 
-All of these methods work well. The above list is in order of our recommendations. 
+All of these methods work well. The above list is in order of our recommendations.
 
 **Option 2** is a viable solution as you only have a few authenticated users that will consume the web service. It also allows you to notify users if they are using an old version that will be decommissioned.
 

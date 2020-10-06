@@ -11,7 +11,7 @@ authors:
 
 ---
 
-For maximum readability and SEO use kebab-case (dashes) in your URLs. 
+For maximum readability and SEO use kebab-case (dashes) in your URLs.
  
 http://northwind.com/pageonworddocumentation
  Figure: Bad example - No kebab-case in URL 

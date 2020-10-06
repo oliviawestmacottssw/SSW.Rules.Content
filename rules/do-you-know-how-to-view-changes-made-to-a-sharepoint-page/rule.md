@@ -26,7 +26,6 @@ Here is how you see the **history** on Office 365 - SharePoint Online:
  
 Watch the video which explains how to view the version history for a page in SharePoint 2013 (Same as in SharePoint 2016). This allows you to see changes that were made to the page, as long as versioning is enabled in advance.
 
-
 `youtube: https://www.youtube.com/embed/ump_dgj6cq4`
 
 ### Related rules

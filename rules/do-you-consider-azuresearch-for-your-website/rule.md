@@ -36,7 +36,7 @@ Keep in mind that 1) hosting of a full-text search service costs you labour to s
  
 
 
- 
+
 
 
 [[goodExample]]

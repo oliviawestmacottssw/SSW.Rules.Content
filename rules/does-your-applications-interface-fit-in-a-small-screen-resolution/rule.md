@@ -8,7 +8,7 @@ authors: []
 ---
 
 One side effect of having busy forms is that it doesn't scale down.
-   
+ 
 Each user prefers to have their own resolution. You must check if your controls will fit on the user's screen. Think about on which computers your application will run, and what devices will display it. To be on the safe side, it is advisable to fit your controls on a 1024 x 768px screen. Our projector has that resolution and it may well be used for presenting your application to the client.
 
 [[badExample]]
@@ -26,7 +26,7 @@ Similar to VS. Net's Tools -> Options.
 6. Hide unimportant controls and add the option to show them if necessary
 
 
-Read our rule on[Do you design your web pages to work on 1024x768px (not 800x600px)?](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesLayout.aspx#Responsive)  
+Read our rule on[Do you design your web pages to work on 1024x768px (not 800x600px)?](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesLayout.aspx#Responsive)
 
 
 From [Adam Cogan](http://www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/)  (http://www.adamcogan.com/2012/11/18/microsoft-is-onto-something-here/ ):

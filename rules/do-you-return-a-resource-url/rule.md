@@ -15,7 +15,7 @@ public Product PostProduct(Product item)
  {
  item = repository.Add(item);
  return item;
- } 
+ }
 Figure: Bad Example – The response does not contain a reference to the location of the new resource 
 public HttpResponseMessage PostProduct(Product item)
  {

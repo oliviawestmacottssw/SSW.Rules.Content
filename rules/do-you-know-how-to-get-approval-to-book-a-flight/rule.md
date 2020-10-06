@@ -11,7 +11,7 @@ authors:
 
 In order to book a flight, you will need to obtain your boss' approval.
  
-When you need to book flights or accommodation for training or client work, liaise with the administration staff.  
+When you need to book flights or accommodation for training or client work, liaise with the administration staff.
 
 1. Get your manager's approval to investigate bookings and confirm dates.
 2. Have a conversation with the receptionist/admin and provide some options for the bookings.

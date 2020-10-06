@@ -16,7 +16,7 @@ Tip: This should be consistent with your standard description on the product box
 4. Contact details (especially a phone number)
 5. Branding (logo)
 
-   
+ 
 [[badExample]]
 | ![This "About" dialog does not provide enough information about the product and/or company](../../assets/BadHelpAboutForm.jpg)
 ![This "Help | About" form contains all 5 elements, but has room for aesthetic improvements](../../assets/SSWHelpAbout.gif)(old SSW design)

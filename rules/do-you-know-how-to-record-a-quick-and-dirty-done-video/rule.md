@@ -59,7 +59,7 @@ Here's a quick video describing how to record and edit a quick done video. (Noti
 
 
 
-**Tip: **Some offices have a professional setup.
+**Tip:** Some offices have a professional setup.
 E.g. SSW have the                 **Marantz Turret** hardware and desktop recording kit. The Turret is an ideal device to record these videos as it has a professional podcasting microphone, built-in light and good quality High Definition video camera.
 
 !['Done' video in progress using a Marantz turret broadcasting kit Learn more about the Turret: <br>](turret-usage.jpg)[Product Review: The Marantz Turret — Wistia](https://wistia.com/learn/production/marantz-turret-review?wvideo=whmpjct7xj)

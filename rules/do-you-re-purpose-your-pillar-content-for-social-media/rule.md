@@ -37,7 +37,7 @@ You can find an explanation of the Gary V Content Model at:
 
 
 - https://www.garyvaynerchuk.com/the-garyvee-content-strategy-how-to-grow-and-distribute-your-brands-social-media-content
-- [https://www.garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day ](https://www.garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day)
+- https://www.garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day
 
 
  

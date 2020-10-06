@@ -38,7 +38,7 @@ Making sure everyone from your team is on the same page about how to approach th
 
 **Tip 1:** You can use social media monitoring tools to keep track of the comments you get on social media, like Zendesk or Hootsuite.
 
-**Tip 2: **Facebook allows you to hide comments, whereas other platforms require you to report the comment in order to hide it. On Facebook, if you hide a comment, the user who posted it (and the page manager) can still see it. User this feature if, for example, you want to hide a comment that didn't add value to the post, but wasn't offensive or didn't warrant deleting.
+**Tip 2:** Facebook allows you to hide comments, whereas other platforms require you to report the comment in order to hide it. On Facebook, if you hide a comment, the user who posted it (and the page manager) can still see it. User this feature if, for example, you want to hide a comment that didn't add value to the post, but wasn't offensive or didn't warrant deleting.
 
 ![Facebook allows you to hide or report a comment](Screen Shot 2020-06-02 at 8.37.31 am.png)
 ![A few options Facebook gives you when reporting a comment](Screen Shot 2020-06-02 at 8.38.01 am.png)

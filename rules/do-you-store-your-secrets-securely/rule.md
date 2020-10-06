@@ -83,7 +83,7 @@ Figure: Bad practice -  Overall rating: 1/10
 
 
 ### Good Practices
-  <br>   
+
 
 ### Use Octopus/ VSTS RM secret management, with passwords sourced from KeePass
 
@@ -123,7 +123,7 @@ Cons:
 
 Figure: Good practice -  Overall rating: 8/10
 
-<br>   
+
 
 ### Use Azure KeyVault
 
@@ -148,4 +148,4 @@ Cons:
 
 
 
- <br>   Figure: Good Practice - Overall rating 9/10
+Figure: Good Practice - Overall rating 9/10

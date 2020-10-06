@@ -69,7 +69,7 @@ This document assumes you have some knowledge of how to configure your wireless 
     6. You then need to register the server with Active Directory. So right click on NPS (local) and select Register Server in Active Directory
 
 ![How to register NAP server with AD    You should now have a Connection Request Policy and a Network Policy. Remove the MS-CHAP v1 authentication method from the network policy](NPS.png)(under the constraint's tab).
-5.  **Configure Certificate Auto enrolment**
+5. **Configure Certificate Auto enrolment**
     First open Group Policy Management.
     1. Create a new GPO policy and name it "Cert\_Enrollment\_Wireless" or whatever name you deem suitable and link it to the root of the domain or a specific OU depending on your needs and OU structure
     2. Under the security filtering scope for what the policy gets applied to remove "Authenticated Users" and add your AD created. This ensures that the policy, once configured, is applied only to members of those groups.

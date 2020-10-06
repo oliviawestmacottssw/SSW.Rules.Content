@@ -14,7 +14,6 @@ authors:
 When someone brings to your attention that they are not happy with something, do you address the problem and not ignore it? For example, if your boss tells you they are unhappy that you do not have a release plan for the development you are working on, you should create a release plan right away. Do not ignore the problem as it will only escalate, fix it now!
 
 This is especially important if someone has followed you up. Try to get back to them as soon as possible with a response as it shows you care about what they care about.
-
    This also applies to communicating with people internally about issues that relate to:
 
 - Account or payment issues

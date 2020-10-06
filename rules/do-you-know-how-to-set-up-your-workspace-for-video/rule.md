@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Many businesses have made the transition to working from home (WFH). It’s important to still be able to easily and clearly communicate with your colleagues and externals. 
+Many businesses have made the transition to working from home (WFH). It’s important to still be able to easily and clearly communicate with your colleagues and externals.
  
 Without a spare room, it can be difficult to create a workable setup, however as you will see in the following examples, it is easy to create a clean and workable setup with a few smart tricks.
 

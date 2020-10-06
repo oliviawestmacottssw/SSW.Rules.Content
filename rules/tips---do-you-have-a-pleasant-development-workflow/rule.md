@@ -11,7 +11,7 @@ authors:
 
 ---
 
-** UPDATE: **This has been properly fixed since Angular 4. So now, this rule is irrelevant because Angular CLI provides a pleasant development workflow. Using ng serve, TypeScript transpilation occurs automatically and quickly (almost instantly).
+** UPDATE:** This has been properly fixed since Angular 4. So now, this rule is irrelevant because Angular CLI provides a pleasant development workflow. Using ng serve, TypeScript transpilation occurs automatically and quickly (almost instantly).
 
 When dealing with client-side development – especially when transpiling TypeScript – it is common to have to wait for several seconds between writing code, and seeing the results.
 

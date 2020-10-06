@@ -16,6 +16,6 @@ It's great when you can target modern browsers for your web application, but wha
 Include Respond JS in your application, after Bootstrap. Respond JS enables responsive web designs in browsers which don't support CSS3 Media Queries.
 
 ![Include respond.js in your bootstrap bundle](18-06-2014 2-04-12 PM.png)
-**Note:** Respond JS will be included in a new MVC5 Web Application. If you are working on an existing application, you can get it from NuGet or [https://github.com/scottjehl/Respond](https://github.com/scottjehl/Respond).
+**Note:** Respond JS will be included in a new MVC5 Web Application. If you are working on an existing application, you can get it from NuGet or https://github.com/scottjehl/Respond.
 
 ![A new MVC5 Web Application running in IE8 with Bootstrap and Respond JS](18-06-2014 2-15-09 PM.png)

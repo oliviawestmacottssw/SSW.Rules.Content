@@ -18,7 +18,6 @@ At the beginning of each day you should:
 1. Review a staffing report – consider a report in PowerBI or a similar tool that shows which of your staff are booked for what activities on any given day
 
 ![Consider using a Booked in Days report in PowerBI to manage the number of days your team is booked and what clients they're working on](PowerBI Staffing Photo_1.jpg)
-
 2. Make updates to staff bookings as required in the source calendars so that the booked in days report is an accurate representation of what clients staff are assigned to.  Ensure that any other staffing or service calendars are also updated to accurately reflect the day's planned activities
 
 

@@ -11,8 +11,7 @@ authors:
 
 ---
 
-<br>
-When a new developer joins a project, there is often a sea of information that they need to learn right away to be productive. This includes things like: 
+When a new developer joins a project, there is often a sea of information that they need to learn right away to be productive. This includes things like:
 
 1. Who the <br>         [Product Owner](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a91de77d-a8dd-40be-b61a-bd6305e7183f) is and who the <br>         [Scrum Master](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=c38e68bd-763b-4e19-b3ab-6083115ac1f2) is
 2. Where the backlog is
@@ -23,7 +22,7 @@ When a new developer joins a project, there is often a sea of information that t
 
 Make it easy for the new developer by putting all this information in a central location like the Visual Studio dashboard.
 
-![](plaindashboard.png)  
+![](plaindashboard.png)
 [[badExample]]
 | ![Don't stick with the default dashboard, it's almost useless](2016-06-06_8-00-55.png)
 [[goodExample]]

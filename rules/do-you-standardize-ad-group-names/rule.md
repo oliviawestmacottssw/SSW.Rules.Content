@@ -27,7 +27,7 @@ SSWSugarLearning
  SSWCodeAuditorEvents
  SSWLinkAuditor
  SSWLinkAuditorEvents
-   Figure: Good Example – By standardizing the names of AD groups it saves confusion
+ Figure: Good Example – By standardizing the names of AD groups it saves confusion
 
 **
 Note: **For large organizations, a better way is to use a type of group (eg. Local or Global)… then the entity it is associated to… then the resource (or service).
@@ -48,7 +48,7 @@ G-GlobalGroupName-
 
 That becomes “G-SYD-SP-SSW-Users"
 
-**Note: **You would not use this naming convention for distribution groups – as they would display to users.
+**Note:** You would not use this naming convention for distribution groups – as they would display to users.
 
 It is recommended by default to have two AD groups per product. The following table should be used as a guide for naming them:
 

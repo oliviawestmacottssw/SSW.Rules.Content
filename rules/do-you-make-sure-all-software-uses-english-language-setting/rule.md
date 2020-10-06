@@ -31,7 +31,7 @@ You want all screenshots you take to be showing English. Most of the time it is 
 In Chrome, you can follow these steps directly:
 
 1. Three dots bar at the top right of the Chrome window: <br>          
-  <br>            
+
 ![Blank Chrome page showing the 'Settings' button, 3 small dots](chroooome.jpg)
 2. Click on Settings: <br>      
 ![Showing the 'Settings' page](ssw12.png)
@@ -103,7 +103,7 @@ You should also change your Google language to English as well. If it is not alr
 ### How to fix on Office 365 (https://outlook.office365.com)
 
 
-    <br>   
+
 ![If you have the Inbox, Sent Items etc in Chinese then you will need to follow these steps](screenshot.png)
 
    1. Go to https://outlook.office.com
@@ -119,5 +119,5 @@ You should also change your Google language to English as well. If it is not alr
 
     5.In Windows10, Go to Settings| Language| Windows display language, click Windows display language and search for English.
     6. Done. You have changed your language to English. Congratulations!~
-  
+
 ![After completing the fix.](screenshot-finished.png)

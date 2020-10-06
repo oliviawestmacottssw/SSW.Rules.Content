@@ -12,7 +12,7 @@ authors: []
 3. Buttons can be pressed
 4. Scrollbar moves the document in the window
 
-   
+ 
 [[badExample]]
 | ![The affordance of the checkbox makes this UI misleading](../../assets/Bad-Affordance2.jpg)
 [[badExample]]

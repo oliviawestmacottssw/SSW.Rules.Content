@@ -29,7 +29,7 @@ There are 2 ways to remind users of their "checked out files":
 Eg. SSW.Dory
 **
 
-     
+ 
 **Solution A. Manage Content and Structure Report (No Code)**
 
 1. Create CAML query in site content and structure
@@ -51,12 +51,12 @@ Run the checkout report from "Site Settings | Manage Content and Structure | Vie
 
 ![Checked Out Documents report link Make sure there are no files checked out, otherwise, go step 3](CheckedOutDocuments.png)
 3. Go chase after the users.
- <br>   
+
 **Solution B. Custom application report (Includes some coding work)
 **
 
 
-**TODO: **Move this tool to GitHub, find a better name than "SSW.SharePoint.CheckedOutFilesReport".  Also change from a farm solution to a solution that can be used on Office365 - now in SharePoint 2016 and SharePoint online called "Sharepoint Add-ins" 
+**TODO:** Move this tool to GitHub, find a better name than "SSW.SharePoint.CheckedOutFilesReport".  Also change from a farm solution to a solution that can be used on Office365 - now in SharePoint 2016 and SharePoint online called "Sharepoint Add-ins" 
 
 
 To make reminding users easier, this SharePoint Add-in has a custom page to show the "Checked out files". One button will send the notification email to all the naughty people. 

@@ -14,7 +14,7 @@ Make sure you created a consistent primary key column named **Id** on your table
 Employee.ID, Employee.EmployeeId, Employee.EmployeeID, Employee.Employee\_Code, Employee.Employee
 Figure: Bad Example
 
- Employee.Id
+Employee.Id
 Figure: Good Example
 
 ### Why?

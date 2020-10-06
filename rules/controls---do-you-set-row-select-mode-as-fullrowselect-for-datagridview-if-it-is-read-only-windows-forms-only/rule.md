@@ -8,7 +8,7 @@ authors: []
 ---
 
 If you use the DataGridView control which is read only, you had better set row select mode as "FullRowSelect". If the data cannot be modified we can let users select the whole row instead of one column.
-   
+ 
 [[badExample]]
 | ![Row select mode is not "FullRowSelect".](../../assets/NoneFullRowSelect.gif)
 [[goodExample]]

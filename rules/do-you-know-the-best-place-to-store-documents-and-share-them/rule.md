@@ -45,6 +45,6 @@ This is not recommended - as they aren't first-class citizens i.e. if you want t
 - No full fidelity support for Metadata in Document Libraries e.g. can’t add extra columns into the “Files” tab
 - No support for private channels e.g. you will need a team per subset of users with different permissions
 - No direct access to version history from Teams UI (still exists on SharePoint UI)
-- No access to the cross-office365 Search feature e.g. SharePoint search is better (see video: <br>         [https://youtu.be/TiWzzdASVWE](https://youtu.be/TiWzzdASVWE))
+- No access to the cross-office365 Search feature e.g. SharePoint search is better (see video: <br>         https://youtu.be/TiWzzdASVWE)
 - No access to external content in the search feature e.g. can’t search rules.ssw.com.au
 - No access to SharePoint designer workflows (although the new way to do it is Microsoft Flow)

@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-Securing the right speakers for the topic of your event ensures that you attract the right people wanting to hear what your speakers have to say. 
+Securing the right speakers for the topic of your event ensures that you attract the right people wanting to hear what your speakers have to say.
  
 Depending on your level of ambition, you will have to get out early to book in your speakers. If you are wanting to have speakers that are seen as authorities in their field, you will have to approach them many months in advance. It is not uncommon to book in speakers 6-12 months away from your event. In general
 

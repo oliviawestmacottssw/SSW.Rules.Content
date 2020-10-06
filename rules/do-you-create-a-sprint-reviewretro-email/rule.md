@@ -25,7 +25,6 @@ After any Sprint Review and Retrospective, an email should be sent to all the st
 
 
 
-
 Hi [Product Owner],
 
 
@@ -87,7 +86,6 @@ XXX
 
 **Did we do any experimental work?
 **
-
 
 
 

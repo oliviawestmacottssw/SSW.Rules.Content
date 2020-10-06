@@ -14,7 +14,7 @@ authors:
 Now that you’ve got the numbers, you can then make decisions on what needs improvement and go through the DevOps cycle again.
 
 Here are some examples:
-    
+ 
 - For exceptions, review your exception log (ELMAH, RayGun, HockeyApp)
     - Add the important ones onto your backlog for prioritization
     - Add an ignore to the exceptions you don't care about to reduce the noise (e.g. 404 errors)

@@ -14,7 +14,7 @@ authors:
 ---
 
 Angular 1.x directives are awesome and they help you reuse your code base by being able to drop directives (aka reuasable HTML elements) into several pages without having to duplicate your code base.
-   
+ 
 
 
 Writing your AngularJS 1.x directives in Typescript will help in the following ways:

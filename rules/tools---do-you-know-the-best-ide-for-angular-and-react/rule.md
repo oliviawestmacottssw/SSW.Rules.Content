@@ -22,7 +22,7 @@ The recommended extension for Visual Studio Code is `**Angular Essentials**` fro
 
 **Angular Essentials **is actually a meta-package that includes a list of great extensions for Angular Development – and this list may be updated in the future as more extensions become popular.
 
-See     [https://github.com/johnpapa/vscode-angular-essentials](https://github.com/johnpapa/vscode-angular-essentials).
+See     https://github.com/johnpapa/vscode-angular-essentials.
 
 [[goodExample]]
 | ![the Angular Essentials extension will install a great suite of extensions to support Angular development](angular-machine-setup-2.png)

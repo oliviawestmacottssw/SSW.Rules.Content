@@ -20,7 +20,7 @@ Here are some recommended solutions to eliminate Cold Starts:
 - Add warm-up request
 
 
-Use a timer trigger function to keep the Azure Functions application warm. If you know that at a certain time of a day the Function App is likely to be cold and so you wake it up just before you expect users to send out requests. 
+Use a timer trigger function to keep the Azure Functions application warm. If you know that at a certain time of a day the Function App is likely to be cold and so you wake it up just before you expect users to send out requests.
 
 - Move to App Service Plan
 

@@ -16,7 +16,7 @@ Once the coding is done by the developers, the functionality must then be steppe
 The 1st step in getting automated tests, is to setup Acceptance Tests:
  
 ![Run each 'test case' with a prescribed configuration](run-acceptance-tests-1.jpg)
-![As you progress through each step, 'Pass' or 'Fail' the expected results. Take screen captures or video as appropriate <br>](run-acceptance-tests-2.jpg)
+![As you progress through each step, 'Pass' or 'Fail' the expected results. Take screen captures or video as appropriate](run-acceptance-tests-2.jpg)
 [[badExample]]
 | ![After checking all the ‘Expected’ results in your MTM test, do not forget to 'Pass' or 'Fail' the Test Case](run-acceptance-tests-3.jpg)
 [[goodExample]]

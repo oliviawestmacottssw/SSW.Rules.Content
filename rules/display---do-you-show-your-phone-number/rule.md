@@ -10,7 +10,7 @@ authors:
 ---
 
 Using instant messengering applications is all about communication. If something is urgent and you are not answering IMs, it is likely the next thing the person will do is to start looking for your phone number. Make it easy for them by adding your phone number to your Skype profile.
- <br>
+ 
 [[badExample]]
 | ![To contact this person via the phone I will have to ask them for their number](Bad-Example-no-number.jpg)
 

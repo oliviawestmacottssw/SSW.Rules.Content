@@ -12,7 +12,7 @@ authors:
 For a better visual across all your social media accounts, ideally, you should follow the standards that each platform requests. They have variations of sizes according to the placement, for example, banner, profile icon or a post. If you are creating an image for an advertising campaign on Facebook, they will offer you a hand full of placement options, like news feed, Facebook marketplace, video feeds, right column and many others.
 
  
-As all of them will have different specifications, so it’s best to check their support if you have any question regarding this. Hootsuite is a reliable source, for example: [blog.hootsuite.com/social-media-image-sizes-guide/#](https://blog.hootsuite.com/social-media-image-sizes-guide/#)
+As all of them will have different specifications, so it’s best to check their support if you have any question regarding this. Hootsuite is a reliable source, for example: https://blog.hootsuite.com/social-media-image-sizes-guide/#
 
 ### Twitter
 

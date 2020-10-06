@@ -53,7 +53,7 @@ With a clearly defined target audience, it is much easier to determine where and
 - Values
 - Interests/hobbies
 - Lifestyles
-- Behavior Evaluate your decision 
+- Behavior Evaluate your decision
 
 
 ### 6. Evaluate your decision 
@@ -66,7 +66,7 @@ Once you've decided who your target market is, ask yourself:
 - Will my target really benefit from my product/service? Will they see a need for it?
 - Do I understand what drives my target to make decisions?
 - Can they afford my product/service?
-- Can I reach them with my message? Are they easily accessible? 
+- Can I reach them with my message? Are they easily accessible?
 
 
 

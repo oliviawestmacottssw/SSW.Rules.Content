@@ -37,5 +37,5 @@ Finally the last step is to     **Activate** the Business Rules. To activate cli
 Now the form will look like this:
 
 ![Great. Now ‘Customer Type Other’ is hidden](crm-automated-forms-4.png)
-![](crm-automated-forms-5.png) <br>   Figure: And on the other side ‘Customer Type Other’ is visible
+![And on the other side ‘Customer Type Other’ is visible](crm-automated-forms-5.png)
 **Note:** CRM 2015 further improves on this by introducing the if… else… construct, so instead of creating two business rules (one for show and one for hide), this rule can be reduced to just one.

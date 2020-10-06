@@ -16,7 +16,7 @@ Using your persons to target your audience will save you a lot of money in the l
  
 For example, your cost can depend on how wide your audience is if it’s local or international, and more. These details will make it possible to find the right number to align your budget with your marketing goals. Staying focused on your marketing objectives is also part of not overcoming your budget. As an example, new companies invest an average of 12 to 20% on the marketing of gross revenue, while established companies will spend between 6 to 12% of their gross revenue. 
 
-Here are some interesting demographics to consider: 
+Here are some interesting demographics to consider:
 
 ![For SSW we know that our target audience is mostly men aged between 25-45, so we know for Social Medica we should focus on Facebook, Twitter & LinkedIn. If we had products, Pinterest & Instagram would be our best target because they are more visual](target-audience-table.png)
 ![According to Marketing Insider Group, the most popular platform is now LinkedIn, followed by Facebook](social-platforms.png)

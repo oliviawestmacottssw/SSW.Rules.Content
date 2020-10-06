@@ -18,7 +18,7 @@ You can take screen captures to the next level by adding balloons that have the 
 The balloon is great because you can point to a specific part of the image. It is much easier than reading the old ‘Wall of Text’.
 
 Let's look at bad and good examples:
-   
+ 
 [[badExample]]
 | ![The email is using a screenshot so that is good, but you need to read the text and relate it to the image](BalloonBadExample.jpg)
 

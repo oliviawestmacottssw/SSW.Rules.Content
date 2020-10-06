@@ -29,9 +29,9 @@ With the second URL you will get reports like this:
 
 
 ![The page owner will find out how people are getting to their page.](UTM-codes-in-google-analytics.jpg)
-This enables the page owner to find out how visitors are finding the page. For example, if they're advertising ProductX on Google, and on Facebook, and in email blasts, all linking to the same page, they can customise the links from each of these pages with a unique tracking code. This code will identify the traffic that comes from that source, along with other useful information like which advertising campaign the traffic came from. 
+This enables the page owner to find out how visitors are finding the page. For example, if they're advertising ProductX on Google, and on Facebook, and in email blasts, all linking to the same page, they can customise the links from each of these pages with a unique tracking code. This code will identify the traffic that comes from that source, along with other useful information like which advertising campaign the traffic came from.
 
-With the long URL, there's a lot of additional information that can be taken from the link: 
+With the long URL, there's a lot of additional information that can be taken from the link:
 
 [https://www.thetrackr.com/bravo?utm\_expid=98763450-11.FrU2vkRZTECb\_wLuT78JGA.1&utm\_source=facebookads&utm\_medium=conversions&utm\_campaign=AU\_English\_BravoOrderSuccess4LAL\_AgeTargets&utm\_referrer=http%3A%2F%2Fm.facebook.com#ab\_test=b](https://www.thetrackr.com/bravo?utm_expid=98763450-11.FrU2vkRZTECb_wLuT78JGA.1&utm_source=facebookads&utm_medium=conversions&utm_campaign=AU_English_BravoOrderSuccess4LAL_AgeTargets&utm_referrer=http://m.facebook.com#ab_test=b)
 

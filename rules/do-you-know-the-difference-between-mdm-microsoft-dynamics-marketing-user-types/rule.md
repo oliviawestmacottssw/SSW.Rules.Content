@@ -12,12 +12,12 @@ authors:
 Microsoft Dynamics Marketing has four different user types. You can see a breakdown of the difference below:
 
 
-| User Type | Added to O365? | License Required? | Administrator capability? | Description  |
+| User Type | Added to O365? | License Required? | Administrator capability? | Description |
 | --- | --- | --- | --- | --- |
 | Regular User | Yes | Yes | Yes | Most commonly used type. Possible to grant all active role types, excluding media buying. |
 | Media Buyer | Yes | Yes | Yes | All active roles a regular user has plus expanded media buying and planning roles. |
 | Web Portal | Yes | No | No<br><br> | Restricted access. Intended largely to provide “View” access to specific functionalities contractors, vendors, and clients. Some edit capabilities. |
-| Public | No | No | No | Selected functions globally available publicly, such as Public Libraries and Landing Pages.  |
+| Public | No | No | No | Selected functions globally available publicly, such as Public Libraries and Landing Pages. |
 
 
 

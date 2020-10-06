@@ -14,7 +14,7 @@ authors:
 Why do so many interesting pages have no owner? There are countless articles on the web that have left the reader wondering: "Who wrote this? What is their background?
 
 Sometimes, the only available link is author’s email, which doesn't say anything about them. Sure, contact info is often a good part of the biography, but it should not be the primary or only piece of data about the author.
-   Different article layouts can be:
+ Different article layouts can be:
 - Articles with a column and no authors listed - **Very Bad**
 - Articles with authors but no link to their biographies - **Bad**
 - Articles with authors but only a "mailto:" link for direct email - **                        Average**

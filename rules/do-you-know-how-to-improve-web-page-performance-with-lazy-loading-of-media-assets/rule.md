@@ -11,7 +11,7 @@ authors:
 
 If you are dealing with Content Management System (CMS), you are likely to play with pages with large amount of images and embedded videos. To improve the performance of those pages, and save bandwidth for the readers, loading content asynchronously (also called “lazy loading”) is recommended.
 
-It means the browsers will only load images and embedded videos in the visible area by default, then load the rest images and videos while users are scrolling down to them. 
+It means the browsers will only load images and embedded videos in the visible area by default, then load the rest images and videos while users are scrolling down to them.
  
 On our rules web site, one of the pages’ initial loading size of images reduced from 4.8MB to 500KB after being applied “lazy loading” of images:
 
@@ -87,7 +87,7 @@ let observer = new IntersectionObserver(onIntersection, config);
     observer.observe(image);
   });
 
-4.	More details can be found at           [https://www.hanselman.com/blog/UpdatingJQuerybasedLazyImageLoadingToIntersectionObserver.aspx](https://www.hanselman.com/blog/UpdatingJQuerybasedLazyImageLoadingToIntersectionObserver.aspx)
+4.	More details can be found at           https://www.hanselman.com/blog/UpdatingJQuerybasedLazyImageLoadingToIntersectionObserver.aspx
 
 To implement lazy loading for embedded YouTube videos:
 
@@ -137,5 +137,4 @@ var youtube = document.querySelectorAll( "div[data-iframesrc]" );
                 } );    
     };
 
-
-4.	More details can be found at           [https://webdesign.tutsplus.com/tutorials/how-to-lazy-load-embedded-youtube-videos--cms-26743 ](https://webdesign.tutsplus.com/tutorials/how-to-lazy-load-embedded-youtube-videos--cms-26743)
+4.	More details can be found at           https://webdesign.tutsplus.com/tutorials/how-to-lazy-load-embedded-youtube-videos--cms-26743

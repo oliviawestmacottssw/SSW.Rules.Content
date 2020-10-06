@@ -39,7 +39,7 @@ Now you need to configure the system event log.
 10. Right-click the sure **Overwrite events as needed** is checked  
 ![Keep your log file to about 250MB - otherwise, your system performance may suffer](networkauditing_04.gif)
 
-        
+
 ### Checking who created the file
 
 Now test to see if auditing is working.

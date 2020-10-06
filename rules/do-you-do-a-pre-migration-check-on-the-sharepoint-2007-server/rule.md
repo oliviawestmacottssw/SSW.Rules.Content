@@ -19,7 +19,7 @@ It is a good idea to run a pre-migration check on the SharePoint 2007 before sta
 2. Open up **cmd** with Administrator privileges
 3. Run the following command: **stsadm –o preupgradecheck
 
-**
+** 
 ![](preupgradecheck.png) **
 Figure 3 - Check the pre-migration report. The only thing that is allowed to fail is “FeatureInfo”. This is because a custom feature won’t migrate and developers need to create a build targeted for SharePoint 2010**
 4. Save the HTML file that was generated and email it to your companies SharePoint Master. (Don’t print it as its very large)

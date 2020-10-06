@@ -75,7 +75,6 @@ If this is the case, just add a step to delete your config file after the scan i
 
 ![Command line step to remove the config file](VSO-RemoveConfig.png)(tslint.json) after the linter has run
 
-
 **Command Line** - Remove the tslint config file, as it will break future scan if the build is on premises if a config file already exists and an attempt to add another one is made.
 **Name: **Remove tslint config
 **Tool: **del

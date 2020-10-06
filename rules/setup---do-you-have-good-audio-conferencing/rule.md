@@ -20,6 +20,6 @@ It is always better to have complicated discussions over a call rather than just
 
 It is also good to **use your camera** so that people can see your body language to better aid in gauging your feelings on a particular topic.
 
-Other good practices are to **use headphones** and to **keep your microphone on mute when not speaking**. 
+Other good practices are to **use headphones** and to **keep your microphone on mute when not speaking**.
 
 Also don't forget this is also important for mental health, maintaining regular communication with your friends and colleagues.

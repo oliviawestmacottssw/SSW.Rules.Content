@@ -28,7 +28,7 @@ These are the best sites to check in order of preference:
 (both owned by same company)
 - 
 
- 
+
 These are the best sites for flights within the US
 
 - [www.expedia.com](http&#58;//www.ssw.com.au/SSW/Redirect/Expedia.htm) (10/10)

@@ -19,7 +19,6 @@ What if the Team runs a syndicate and all your numbers come up? The point is tha
 Add as much information to the task as you think is necessary for anyone to work on the task.
 
 If you need to add rich text and images you can do this by [attaching an email to the task](/Pages/EnsureRelevantEmails.aspx).
-
  
 ![Bad example, there is not enough information for a non team member to complete this task](TaskDetail-badExample.png "image")
 ![Julie provided a lot more information and another team should be able to pick this up](UserStoryOwner_Good.png)

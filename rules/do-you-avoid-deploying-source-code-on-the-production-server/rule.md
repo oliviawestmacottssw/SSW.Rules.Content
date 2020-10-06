@@ -22,4 +22,4 @@ Instead, please use 'Publish' utility to deploy your Web site or Web application
     To access this dialog box, open a Web application project that you want to publish and click **Publish** ApplicationName on the **Build** menu.
 
 ![How to open Publish Web dialog](PublishWebApp.jpg)('WebApp' is the name of this application)
-![Publish Web dialog box<br>          See more about](PublishWebAppDialog.JPG)[How to Publish Web Applications](https://msdn.microsoft.com/en-us/library/aa983453.aspx).
+![Publish Web dialog box    See more about](PublishWebAppDialog.JPG)[How to Publish Web Applications](https://msdn.microsoft.com/en-us/library/aa983453.aspx).

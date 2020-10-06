@@ -8,7 +8,7 @@ authors: []
 ---
 
 Why do people always invent ways of getting the same old server name and a database name? Look at this image from [Speed Ferret](http://www.ssw.com.au/ssw/Standards/DeveloperGeneral/SQLservertools.aspx#SpeedFerret) - one of my favorite SQL Server utilities.
-    
+  
 [[badExample]]
 | ![Custom database connection screen in Speed Ferret](../../assets/CustomDatabaseConnectionScreen.jpg)
 While a nice form, it would have taken quite some developer time to get it right. Not only that, it is a little bit different than what a user has seen before. Now look at this UDL from one of our utilities [SSW SQL Auditor](https://www.ssw.com.au/ssw/SQLAuditor/):

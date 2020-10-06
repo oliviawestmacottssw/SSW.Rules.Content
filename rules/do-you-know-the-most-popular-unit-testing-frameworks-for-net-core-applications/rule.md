@@ -34,4 +34,4 @@ xUnit.net is the default choice for .NET Core web applications and APIs at SSW.
 ### MSTest
 
 
-[MSTest ](https&#58;//docs.microsoft.com/en-us/visualstudio/test/getting-started-with-unit-testing)is Microsoft's testing framework. In the past this was a poor choice as although this was the easiest framework to run from Visual Studio, it was extremely difficult to automate these tests from CI/CD build servers. These problems have been completely solved with .NET Core but for most C# developers this is “too little, too late” and the other unit testing frameworks are now more popular.
+[MSTest](https&#58;//docs.microsoft.com/en-us/visualstudio/test/getting-started-with-unit-testing)is Microsoft's testing framework. In the past this was a poor choice as although this was the easiest framework to run from Visual Studio, it was extremely difficult to automate these tests from CI/CD build servers. These problems have been completely solved with .NET Core but for most C# developers this is “too little, too late” and the other unit testing frameworks are now more popular.

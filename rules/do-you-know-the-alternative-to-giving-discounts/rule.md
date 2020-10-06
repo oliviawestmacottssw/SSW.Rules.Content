@@ -15,7 +15,7 @@ authors:
 
 Some clients really want a discount. Most will be happy with a discount for pre-paying. Others won't go ahead until they feel they have got something more.
 
-If a client asks for a further discount, try to add value by offering something else. 
+If a client asks for a further discount, try to add value by offering something else.
 
 e.g.
  

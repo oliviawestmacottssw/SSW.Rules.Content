@@ -13,7 +13,7 @@ Use casts only if:
 a. You know 100% that you get that type back
 b. You want to perform a user-defined conversion 
  
- private void AMControlMouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+private void AMControlMouseLeftButtonUp(object sender, MouseButtonEventArgs e)
 {
  var auc = (AMUserControl)sender;     
  var aucSessionId = auc.myUserControl.Tag;

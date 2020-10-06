@@ -8,7 +8,7 @@ authors: []
 ---
 
 Whenever a long process is churning away (e.g. about 10 seconds) users will usually do something else, either make a coffee or switch to another window.
-   
+ 
 Your application should remind the user to go back and check on it by:
 
 - Playing a sound

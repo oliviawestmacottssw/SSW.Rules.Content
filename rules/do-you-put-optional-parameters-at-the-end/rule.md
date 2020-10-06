@@ -30,4 +30,4 @@ string lastName,
 Figure: Good Example - All the optional parameters are the end
 
 
-**Note: **When using optional parameters, please be sure to use [named para meters](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ba22dc4c-aec4-471d-8157-0a540ddf6310)
+**Note:** When using optional parameters, please be sure to use [named para meters](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ba22dc4c-aec4-471d-8157-0a540ddf6310)

@@ -8,7 +8,7 @@ authors: []
 ---
 
 If you are unable to show a progress bar, you should still indicate that it may take be a long process. For example, if installation takes more than 5 minutes, let your users know so they can get on with something else:
-   
+ 
 ![An unknown length of time ](../../assets/UnknownLengthTime.jpg)
 [[goodExample]]
 | ![The coffee cup tells the user that they will be here a while](../../assets/CoffeeCup.jpg)

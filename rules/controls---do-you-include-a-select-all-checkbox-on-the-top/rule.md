@@ -10,7 +10,7 @@ authors:
 ---
 
 Do you have checkbox (on the top) that let users select or unselect all checkboxes underneath it? If you have a list of checkboxes, you are going to frustrate users unless you provide an easy way to select all. The best way to achieve this is to have a checkbox at the top.
-      
+  
 [[goodExample]]
 | ![Hotmail does this](../../assets/HotmailSelectAll.gif)
 ![Google have done it a different way to provide multiple methods](../../assets/GmailSelectAll.gif)(All, All Read, All Unread, All Starred, and All Unstarred) 

@@ -53,7 +53,7 @@ For all these reasons, the use of DTOs or View Models is highly recommended:
 | ![Update an Entity from a submitted View Model](good-webapi-2.png)
 This approach requires a bit more boiler-plate code as the fields to be updated are applied manually, but there is far less risk of unintended side effects.
 As the complexity of the code increases, it will be much easier for developers to keep a clear distinction between ViewModel objects that were received from web requests, and persistent entities that came from Entity Framework.<br>   
-![](good-webapi-operation-1.png) <br>      
+![](good-webapi-operation-1.png)
 [[goodExample]]
 | ![A Read Operation that selects directly into a view model](good-webapi-operation-2.png)
 For the above read, Entity Framework will execute an SQL select statement containing only the fields that have been projected via .Select()  

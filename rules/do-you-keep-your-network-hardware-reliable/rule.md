@@ -13,7 +13,7 @@ authors:
 
 ---
 
-When purchasing new network hardware you should always choose the most reliable option. 
+When purchasing new network hardware you should always choose the most reliable option.
 
 At SSW, we have discovered that:
  

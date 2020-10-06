@@ -33,6 +33,6 @@ to:
                             &lt;RSWindowsNTLM /&gt;  
               &lt;/AuthenticationTypes&gt;
 
-Check out the different [Authentication Types in the Report Server documentation ](https&#58;//technet.microsoft.com/en-us/library/cc281310%28v=sql.105%29.aspx) and select the types that suit your needs.
+Check out the different [Authentication Types in the Report Server documentation](https&#58;//technet.microsoft.com/en-us/library/cc281310%28v=sql.105%29.aspx) and select the types that suit your needs.
 
 More details on configuring windows authentication on the report server can be found [here](https&#58;//docs.microsoft.com/en-us/sql/reporting-services/security/configure-windows-authentication-on-the-report-server).

@@ -11,14 +11,13 @@ authors:
 
 It's important that you have a consistent code comment standard throughout an application, regardless of language. Therefore, other developers can quickly determine the workings of a function/sub/class/stored procedure. Ideally, the code should be as simple and self-explanatory as possible.
  
-**UPDATE: **See Robert Martin Chapter 4: Comments  [Clean Code: A Handbook of Agile Software Craftsmanship](https&#58;//www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+**UPDATE:** See Robert Martin Chapter 4: Comments  [Clean Code: A Handbook of Agile Software Craftsmanship](https&#58;//www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 E.g. catch (InteropServices.COMException ex) //Catch all COM Exceptions from third-party COM component
 
 In JavaScript and HTML, you should put these comments between the 
 &lt;HEAD&gt; and &lt;/HEAD&gt;
 tags.
-
 
 To delimit the comments (ie top and bottom), you should use the standard block comment markers of 
 &lt;!-- and --&gt;. 

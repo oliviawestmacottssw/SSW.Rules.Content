@@ -14,7 +14,7 @@ SharePoint is a great platform for intranet, and the new version SharePoint 2016
 
 `youtube: https://www.youtube.com/embed/s12Jb5Z2xaE?rel=0`
  
-<br>
+
  
 - Powerful content discoverability via full-text search
 - Rich workflow capabilities (e.g. approval & distribution processes)

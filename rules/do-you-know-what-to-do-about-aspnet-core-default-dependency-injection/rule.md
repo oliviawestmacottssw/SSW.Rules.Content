@@ -35,5 +35,5 @@ Here is an example of rewiring the default code to AutoFac with the [SSW's Music
 ### Further Reading:
 
 - [Do you use a dependency injection centric architecture?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0a5029a1-dd4f-46d7-9f22-8ab328e7c102)
-- [Do you generate the VS dependency graph?](/Pages/DoYouGenerateTheVSDependencyGraph.aspx) 
+- [Do you generate the VS dependency graph?](/Pages/DoYouGenerateTheVSDependencyGraph.aspx)
 - [Do you know the best dependency injection container? (aka Do not waste days evaluating IOC containers)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0aa194e1-2de9-4ed1-b430-444109d65a50)

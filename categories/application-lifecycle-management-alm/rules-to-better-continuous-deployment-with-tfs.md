@@ -22,6 +22,6 @@ index:
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
 
-If you still need help, visit [Application Lifecycle Management](https&#58;//www.ssw.com.au/ssw/Consulting/ALM-TFS.aspx) [](http&#58;//www.ssw.com.au/ssw/Consulting/Default.aspx)and book in a consultant.
+If you still need help, visit [Application Lifecycle Management](https&#58;//www.ssw.com.au/ssw/Consulting/ALM-TFS.aspx) and book in a consultant.
  Rules to Better Continuous Deployment with TFS 2012, TFS 2013 and TFS 2015
 

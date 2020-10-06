@@ -12,7 +12,7 @@ authors:
 ![](expense-reimbursement.png)
 You should be reimbursed for all reasonable expenses incurred in carrying out your duties, which are above your normal costs, to and from the office.
 
-A common example is bus and train fares to client sites. In Australia, amounts under $100 could be reimbursed through Petty Cash but in China, it would be around ￥300. 
+A common example is bus and train fares to client sites. In Australia, amounts under $100 could be reimbursed through Petty Cash but in China, it would be around ￥300.
 
 
  

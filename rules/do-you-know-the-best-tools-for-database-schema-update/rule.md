@@ -53,7 +53,7 @@ public partial class GenderToString : DbMigration
  DropColumn("dbo.Customers", "GenderTemp");
  }
 Good Example - Data motion with EF Migrations
-  
+
 ### Related Rule
 
 

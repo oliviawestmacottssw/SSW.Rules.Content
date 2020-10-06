@@ -10,7 +10,7 @@ authors:
 ---
 
 In person conversations are much better than chats over the phone. Skype or Lync calls with video cams are great, but you won’t do that all the time for bandwidth and processing power reasons. The next best thing is to have a great professional picture of yourself. Avoid using a built-in image.
-   
+ 
 
 |  | **Good** | **Bad** |
 | --- | --- | --- |

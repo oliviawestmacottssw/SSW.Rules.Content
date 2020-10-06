@@ -17,7 +17,7 @@ Product Backlog Items (PBIs) can be described in the form of a "User Stories" wh
 
 As a 
 I want 
-so that 
+so that
 Figure: User Story - template for description
  
 ![User Story - Product Backlog Item form](TFS2012UserStory.gif)

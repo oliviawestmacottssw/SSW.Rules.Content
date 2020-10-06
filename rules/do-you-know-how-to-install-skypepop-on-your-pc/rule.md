@@ -35,8 +35,6 @@ Only receptionists should have SkypePOP installed.
 
 
 > Figure: Example contact popup on our CRM from incoming caller with the number +61420241201
-> 
-> 
 
 3.      Send Email
 
@@ -60,9 +58,9 @@ Only receptionists should have SkypePOP installed.
 
 `youtube: https://www.youtube.com/embed/5tapdkp1vDg`
  
- 
 
-  
+
+
 1.      Download and install SkypePOP from     [the official website](http://www.appvnet.com/)
 
 Install SkypePOP from our account on the official SkypePOP page: 
@@ -161,7 +159,7 @@ The following shows how to connect to SSW CRM:
 The SkypePOP demo license will stop working after 5 hours or 5 calls
 **Tip: Reduce the time used by quitting SkypePOP - you do that by right clicking | Exit on the tray icon**
 
- <br>         
+
 9.   Restart your PC.
 
 10. Test with SNOM phone to verify SkypePOP is working correctly

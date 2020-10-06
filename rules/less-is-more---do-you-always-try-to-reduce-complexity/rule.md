@@ -15,7 +15,7 @@ The human brain:
 4. Prefers a shorter option to a longer one
 5. Makes a compromise between speed and accuracy
 
-   
+ 
 It's important to keep these in mind when making design decisions or presenting data.
 
 Our visual short term memory has a capacity of 4 items. So options are easier for our brain to digest when presented in sets of 4.

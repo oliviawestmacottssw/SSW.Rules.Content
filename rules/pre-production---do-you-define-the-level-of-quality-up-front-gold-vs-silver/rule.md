@@ -32,7 +32,7 @@ Aligning expectations with stakeholders is key to success, especially for creati
 
 - Any high value videos that generate sales that will live on your website rather than just your social media
 - Consulting page videos
-- Testimonial videos 
+- Testimonial videos
 
 
 ### Silver

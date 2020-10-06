@@ -26,4 +26,4 @@ Subject: Rule files
 Hi, I saw two clients today that complained about Rule files being created even though one had already existed. They were all named x.SSWCodeAuditor where x was a number from 1 to 13 in one of the cases. Why do these keep being created? 
 
 Uly
- <br>    Figure: Good Example - using +1 to show you agree
+ Figure: Good Example - using +1 to show you agree

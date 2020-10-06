@@ -14,4 +14,4 @@ When a new programmer on your team needs to get up and running on the SharePoint
 Sit with John Liu and he will get you up on our SharePoint image 
 Bad Example: Explain how to run the SharePoint image
 Get the URL to the standard from our intranet, if the standard is unclear, check your changes with John Liu and then make them
-<br>Good Example: Refer to SharePoint rules
+Good Example: Refer to SharePoint rules

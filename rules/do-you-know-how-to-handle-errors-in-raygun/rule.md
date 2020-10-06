@@ -29,7 +29,7 @@ This is where RayGun or Application Insights comes into the picture. RayGun give
 
 [[badExample]]
 | ![Elmah gives you a wall of exceptions and no way to flag exceptions as completed](elmah.gif)
-**Hi Adam, **
+**Hi Adam,** 
 Please find below the Raygun Health Check for TimePro:
 
 ![Raygun health check for TimePro in the past 7 days](Raygun-health-check-for-TimePro-in-the-past-7-days.jpg)

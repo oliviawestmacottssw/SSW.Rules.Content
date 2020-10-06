@@ -36,7 +36,7 @@ Test projects can be located either:
 - In a separate tests location – which makes it easier to deploy the application without tests included.
 
 
-![In the above project, the tests are clearly placed in a separate location which makes it easy to deploy to production without them. It’s easy to tell which project is under test and what style of tests will be found in each test project. <br>](clean-architecture-naming.png)[https://github.com/jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+![In the above project, the tests are clearly placed in a separate location which makes it easy to deploy to production without them. It’s easy to tell which project is under test and what style of tests will be found in each test project. <br>      https://github.com/jasontaylordev/CleanArchitecture](clean-architecture-naming.png)
 ### Naming Conventions for Tests
 
 There are a few “schools of thought” when it comes to naming the tests themselves. 

@@ -12,7 +12,7 @@ authors:
 ---
 
 A “Too<br>slow” is not enough info.
-   Request<br>an image of the “Resource Monitor”
+ Request<br>an image of the “Resource Monitor”
 Then<br>after you decide there is justification:
 
 •           Do a typical action – take a new<br>image or baseline.

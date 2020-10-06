@@ -24,7 +24,7 @@ The bad way to call your API from a Kendo datasource with AngularJS. Notice the 
 
 
 ```
-read: {     url: "../content/dataviz/js/spain-electricity.json",     dataType: "json" } 
+read: {     url: "../content/dataviz/js/spain-electricity.json",     dataType: "json" }
 ```
 
 Bad Example - This hard codes your url endpoint throughout your application 

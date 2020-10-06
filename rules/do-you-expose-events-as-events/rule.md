@@ -11,7 +11,7 @@ authors:
 
 You should expose events as events.
  
- public Action
+public Action
 &lt; connectioninformation &gt; ConnectionProblem;
 Bad code
 

@@ -8,7 +8,7 @@ authors: []
 ---
 
 Every message box should contain a link to a wiki or KB with more details about the message. In the example of the below error message:
-   
+ 
 [[badExample]]
 | ![User now has to Google to find out how to fix this error](../../assets/NoDirectForError.jpg)
 [[goodExample]]

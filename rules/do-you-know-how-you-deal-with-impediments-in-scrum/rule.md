@@ -14,7 +14,7 @@ authors:
 Exercise – Click Click Scrum
 
 This exercise uses the VS2010 planning poker deck of cards & TFS
-<br> 
+
 # Separate out the cards
 
 Separate out these as Chance Cards

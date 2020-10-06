@@ -31,9 +31,9 @@ Here is a list of English words which are OK to use on your user interface:
 
 [[goodExample]]
 | ![SugarLearning.cn site use "FAQ" on the main menu](sugarlearning cn site.jpg)
-   
+
 [[goodExample]]
 | ![Apps keep "V" or "Version" in English](versionok.png)
-   
+
 [[goodExample]]
 | ![iOS keep "ID" in English](FACE ID.png)

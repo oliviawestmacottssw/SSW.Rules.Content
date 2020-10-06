@@ -28,7 +28,7 @@ For example:
 
 ![The Sitefinity Thunder dashboard](4-07-2014-1-08-52-PM-compressor.png)
 
-You can find out more at [http://www.sitefinity.com/resources/tools/sitefinity-thunder](http://www.sitefinity.com/resources/tools/sitefinity-thunder).
+You can find out more at http://www.sitefinity.com/resources/tools/sitefinity-thunder.
 
 ### Installing Sitefinity Thunder
 

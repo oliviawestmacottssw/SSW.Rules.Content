@@ -10,7 +10,7 @@ authors:
 ---
 
 By default, SharePoint diagnostic logging level was set to “Information” and “Medium”, which will log quite a big info, and it increased a log after configuring “hybrid search”:
- <br>
+ 
 ![default logging levels](sp-diagnostic-logging.jpg)
 
 ![lots of "Medium" level search logsThis made us had 60GB logs for only 14 days.](sp-diagnostic-logging-2.jpg)

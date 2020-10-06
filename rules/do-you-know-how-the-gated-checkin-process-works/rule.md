@@ -18,7 +18,7 @@ The process for a project with a Gated Checkin build is:
 
 
 **Note:** This relies on the     **Build Notifications** tool running, which may not be the case.  If it’s not running, the developer has to manually reconcile their workspace before they can effectively continue working.
-   
+
 ![The developer is notified if a gated check-in resulted in a commit](gated-checkin-1.jpg)
 If you don't have the     **Build Notifications** tool running or you click     **Ignore**, you will have to manually reconcile. There are a few ways to do this.
 

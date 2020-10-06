@@ -100,7 +100,7 @@ Every team is different, but you can use the following guidelines for sizing Use
 > | 5 | A timeboxed task of 1 day x 2 guys |
 > | 8 | - |
 > | 13 | - |
-> | 21 | More than a month with a couple of guys.<br>**Tip: **Don't include these in a sprint because they are too risky - ask for them to be broken down. |
+> | 21 | More than a month with a couple of guys.<br>**Tip:** Don't include these in a sprint because they are too risky - ask for them to be broken down. |
 > 
 > Figure: Good example - Example User Story estimates
 

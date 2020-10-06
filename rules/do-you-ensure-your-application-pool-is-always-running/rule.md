@@ -30,7 +30,7 @@ The feature is built-in to IIS 8
 5. Change Preload Enabled to True <br>      
 ![Preload setting](iis8-3.jpg)
 
-   
+
 ### Instructions below for IIS 7.5:
 
 1. On the application server install <br>      http://www.iis.net/downloads/microsoft/application-initialization or it can be installed using the Web Platform installer
@@ -56,7 +56,6 @@ The feature is built-in to IIS 8
 **
 
 1. There is a setting that has to be enabled in the applicationhost.config file which contains all of the top level configuration settings that IIS uses. This file is called appplocated at c:\windows\system32\inetsvr\config on a standard install of IIS. <br>          I recommend making a backup of this file before continuing. You can use any text editor to update this file. Search for and locate the section named . Within this section, you will see your application listed in this format:
-    
 2. add the Always Running mode by adding startMode="AlwaysRunning"
     
     startMode="AlwaysRunning"

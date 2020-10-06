@@ -105,7 +105,7 @@ namespace SSW.NETToolkit.IntegrationTests
         }
     }
   }
-  
+
 ![This rule is consistent with the Visual Studio defaultTip: You can create a test project using the Unit Test Wizard: Test > Add New Test](TestGenerationSettings.gif)
 
 

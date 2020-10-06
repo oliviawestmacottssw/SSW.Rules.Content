@@ -40,7 +40,7 @@ To add a [Microsoft Fx](http://www.ssw.com.au/ssw/Standards/DeveloperGeneral/net
 3. Create a **New Project**
 4. Right click the project and **Add Target**
 5. Select the Assembly (DLL/EXE) for the project
-6. Select **File > Save Project As **(into the solution's folder as "**fxc****op.FxCop**")
+6. Select **File > Save Project As** (into the solution's folder as "**fxc****op.FxCop**")
 7. Open your Solution in Visual Studio
 8. Right click and **add existing file**
 9. Select the **Microsoft FxCop project file**

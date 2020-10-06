@@ -11,7 +11,7 @@ authors:
 
 ---
 
-In order to make your next event even better, you need to be able to collect feedback on the day from the people that were there. 
+In order to make your next event even better, you need to be able to collect feedback on the day from the people that were there.
  
 There are a few options on how to collect the information.
 

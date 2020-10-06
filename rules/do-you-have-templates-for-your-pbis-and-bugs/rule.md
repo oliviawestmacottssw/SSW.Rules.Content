@@ -31,7 +31,7 @@ Setting this up is pretty easy.
 ![Set the default value for the Repro Steps field](templates for pbis and bugs - customise default value.png)(tip: use HTML)
 4. Save Template
 
-  
+
 Sample Template:
 
 

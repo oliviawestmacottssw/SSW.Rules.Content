@@ -88,4 +88,4 @@ If a problem occurs, restore the backup of the master folder and restart
 
   **Figure: Good Example - This handover has lots of URLs and is complete**
 
-If you need to handover only a single task there are more details here: [Do you know how to hand over tasks (aka Emails) to others? ](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2586b50a-21b6-40b0-8004-d90d1b029bec)
+If you need to handover only a single task there are more details here: [Do you know how to hand over tasks (aka Emails) to others?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2586b50a-21b6-40b0-8004-d90d1b029bec)

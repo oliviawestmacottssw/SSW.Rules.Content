@@ -13,7 +13,7 @@ Use a price comparison website to choose the hotel you'd like to book, but don't
 
 The best price comparison websites for accommodation are:
 
-- [lastminute.com.au ](http&#58;//www.lastminute.com.au/)
-- [stayz.com.au ](http&#58;//www.stayz.com.au/)
+- [lastminute.com.au](http&#58;//www.lastminute.com.au/)
+- [stayz.com.au](http&#58;//www.stayz.com.au/)
 
 As with flights, book the accommodation details as a separate appointment in your calendar (or if for the accommodation is for someone else, in the calendar for the person who is travelling).

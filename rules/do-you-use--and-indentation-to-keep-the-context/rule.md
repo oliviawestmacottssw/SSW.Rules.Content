@@ -37,7 +37,7 @@ Done, I made the changes - &lt;add a link to the page or a screenshot&gt;
 Sorry, this wasn't a final decision - I just put it there for testing purposes
 Figure: Good Example - You can clearly see the context of each part of the reply
 
-**Note: **For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually.
+**Note:** For those using mobile devices the indentation function is not available, try instead using 3 spaces to indent manually.
 
 ### Related Rules
 

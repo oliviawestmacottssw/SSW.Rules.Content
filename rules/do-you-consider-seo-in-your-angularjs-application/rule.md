@@ -20,7 +20,7 @@ The only way to be sure your Angular SPA will be crawled and indexed properly by
 
 
 It is not enough to just use hashes in your URLs (e.g., www.example.com/index.html#mystate, where #mystate is the hash fragment) or hope Google can crawl and Angular application correctly. You can read more here [Guide to AJAX crawlin g for webmasters and developers](https://developers.google.com/webmasters/ajax-crawling/docs/getting-started).  There are several libraries to help pre-render your code available on the internet. 
-  <br>      
+
 If you do not pre-render HTML you may still get good enough SEO as Google Bots are getting better at crawling JavaScript but you can not be certain it will work. You can use [Google Fetch](https://www.google.com/webmasters/tools/googlebot-fetch) to test how your web pages look to a Google bot.
  
 ![How to configure your site to pre-render HTML for Google bots.](seo_for_angular-diagram.png)
@@ -35,7 +35,6 @@ This step ensures your search results are represented in a meaningful and predic
 For more information and a demo see this  blog: [weluse.de](https://weluse.de/blog/angularjs-seo-finally-a-piece-of-cake.html)
 4. **You can inspect what HTML Google renders with Webmaster Tools**, it is also an excellent source of information.
 5. Here’s what you need to know to ensure your website is crawled correctly by Google in general regardless of if your application is a SPA: [Introduction to SEO and Google Tools – Craig Bailey \[FireBootCamp\]](https://tv.ssw.com/5162/introduction-seo-google-tools-craig-bailey-firebootcamp)
-
 
 
 **Note:** Since May 2014 Google announced that they're finally crawling javascript making SEO for a SPA simpler. Previously your SPA needed to distinguish between normal users and crawlers - and re-route (somehow) to the special crawler-only-endpoints if a bot is requesting the page.(source: http://googlewebmastercentral.blogspot.de/2014/05/understanding-web-pages-better.html)

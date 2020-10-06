@@ -15,7 +15,7 @@ Here is an image for your war room wall...
 ![](SCRUMImage-bad02.jpg)Bad Figure: This image doesn't include the review and the retro
 ![](SCRUMImage-good.jpg)OK Figure: This Scrum image is OK because it includes all the important steps including the Review and the Retro[
 ![](8Steps_preview.jpg)](/Documents/8StepstoScrum.pdf)Good Figure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this "[SSW 8 Steps to Scrum pdf](/Documents/8StepstoScrum.pdf)" and put it on your 'War Room' wall
-![If you like this, retweet  <br>](scrum-twitter.jpg)[twitter.com/AdamCogan/status/94109372908711936](https://twitter.com/AdamCogan/status/94109372908711936)
+![If you like this, retweet  <br>      https://twitter.com/AdamCogan/status/94109372908711936](scrum-twitter.jpg)
 ### Related Links
 
 - [Do you know the 3 steps to a PBI?](/Pages/Do-you-know-the-3-steps-to-a-PBI.aspx)

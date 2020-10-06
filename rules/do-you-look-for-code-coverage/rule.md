@@ -26,4 +26,4 @@ Code Coverage shows how much of your code is covered by tests and can be a usefu
 
 ![Code Coverage metrics in Visual Studio. This solution has a very high code coverage percentage](CodeCoverage2010.png)(around 80% on average)
 
-**Tip: ** [Do you use Live Unit Testing to see code coverage?](https://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterUnitTests.aspx#CodeCoverage)
+**Tip:**[Do you use Live Unit Testing to see code coverage?](https://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterUnitTests.aspx#CodeCoverage)

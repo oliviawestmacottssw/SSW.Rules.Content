@@ -19,4 +19,4 @@ To print your document:
 1.    Select File | Print. The Print dialog is shown.
 2.    Select the number of copies and click Print. The file will now print.
 Good example - Using present or future tense implies confidence
-This is \*not\* detected by [SSW Code Auditor ](https&#58;//www.ssw.com.au/ssw/CodeAuditor/)because it picks up false positives.
+This is \*not\* detected by [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/)because it picks up false positives.

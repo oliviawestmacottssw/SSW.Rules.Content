@@ -29,7 +29,6 @@ For example:
 3. Attendees arrive around 5:30. Meet-and-greet until 5:45, then start the user group.
 
 
-
 Brisbane .NET User Group Presenter Information
 
 

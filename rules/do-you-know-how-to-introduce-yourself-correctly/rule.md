@@ -15,7 +15,6 @@ Just remember that first impression last so you need to make sure you're kind 
 
 **Stephen:** SSW Stephen Bennett speaking
 
-
 Notice the use of your full name. When you pick up the phone from someone who was on hold you start with:
 
 **Stephen: **Stephen Bennett speaking

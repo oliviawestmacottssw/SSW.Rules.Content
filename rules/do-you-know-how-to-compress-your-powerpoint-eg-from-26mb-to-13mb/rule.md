@@ -24,7 +24,7 @@ This has been done in the 3.8 release of the template, but for old templates you
 
 ![Go to the File menu](05.png)
 ![Select Options](06.png)
-![](07.png)<br>Figure: Apply settings. You may compress this further down to 96ppi if you must. <br>   
+![Apply settings. You may compress this further down to 96ppi if you must.](07.png)
 
 
 
@@ -46,7 +46,7 @@ This has been done in the 3.8 release of the template, but for old templates you
  Do not override your original. You should always keep a high-res master of any media document.
 
 
-If you find your files are still rather big after compression, you can export the PowerPoint to determine which particular slide is taking up all that space.        [http://www.addictivetips.com/windows-tips/find-which-slide-in-your-powerpoint-presentation-is-the-largest-in-size/](http://www.addictivetips.com/windows-tips/find-which-slide-in-your-powerpoint-presentation-is-the-largest-in-size/)
+If you find your files are still rather big after compression, you can export the PowerPoint to determine which particular slide is taking up all that space.        http://www.addictivetips.com/windows-tips/find-which-slide-in-your-powerpoint-presentation-is-the-largest-in-size/
 
 
 ### The result

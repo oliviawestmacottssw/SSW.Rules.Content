@@ -48,7 +48,7 @@ Eg.: **WorleyParsons – IOP – Customer.aspx - Add email address validation**
 
 The advantage of this is that when you sort by the subject in Outlook, you get all of the emails grouped together, and it is easy to recognize the client/product, because the subject contains the relevant information.
 
-**Tip: **When referring to a website, it's a good idea to include the URL in the email subject.
+**Tip:** When referring to a website, it's a good idea to include the URL in the email subject.
 
 Additionally, you should be able to determine which emails are the most important. Using a meaningful subject with keywords makes it easy to identify and categorize emails without actually opening them (and it also makes it easy to find them in "Sent Items"). When emails are really important, write IMPORTANT in the subject. Other emails considered important or urgent should have the following in the subject field:
 

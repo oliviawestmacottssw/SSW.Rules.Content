@@ -19,5 +19,5 @@ Although you can create a Contact first, it's better to always create the Compan
 **Tip #2: **Generally you should be [creating these from leads](/Pages/Leads-can-be-converted-to-Opportunities-Contacts-and-Accounts.aspx), as it speeds up the process.
 
  
-![](Sales-Accounts.jpg)<br>                      Figure: In MS CRM 2013, click on Sales | Accounts
-![](NewAccount.jpg)<br>                      Figure: Click New, enter the required fields, and save and close
+![In MS CRM 2013, click on Sales | Accounts](Sales-Accounts.jpg)
+![Click New, enter the required fields, and save and close](NewAccount.jpg)

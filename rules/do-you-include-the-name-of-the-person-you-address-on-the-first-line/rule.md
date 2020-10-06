@@ -15,6 +15,6 @@ If you include more than one person in your email, include the name of the perso
  
 [[goodExample]]
 | ![When addressing multiple people, include each addressee's name as a separate heading](IncludeNameFirstLine.jpg)
-**TIP: **Use big headings by typing Control+Alt+3.
+**TIP:** Use big headings by typing Control+Alt+3.
 
 **VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)

@@ -12,7 +12,7 @@ authors:
 Events should end in "ing" or "ed".
 
  
- public event Action
+public event Action
 &lt; connectioninformation &gt; ConnectionProblem;
 Bad code
 

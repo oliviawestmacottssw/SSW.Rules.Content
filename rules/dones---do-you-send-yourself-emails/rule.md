@@ -26,7 +26,7 @@ Always add "To myself" in the email body - not on the subject - so that other pe
 
 **To:** Jay Lin
 **Cc: **Adam Cogan, Lei Xu   
-**Subject: **Add bad example to Rules to Better UI -  Progress bar
+**Subject:** Add bad example to Rules to Better UI -  Progress bar
 
 -----------
 

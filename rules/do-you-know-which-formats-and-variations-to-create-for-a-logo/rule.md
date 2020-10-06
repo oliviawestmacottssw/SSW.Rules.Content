@@ -24,7 +24,7 @@ SVG is a vector image format that can be used online. With higher resolution scr
 ### 3. PNG: Portable Network Graphics
 
 
-PNG format allows for transparency, so it can be placed over colored background or images. A PNG format with a transparent background and width of 1000px also should be generated for various usages (e.g. using on a powerpoint). 
+PNG format allows for transparency, so it can be placed over colored background or images. A PNG format with a transparent background and width of 1000px also should be generated for various usages (e.g. using on a powerpoint).
 
 ### 4. Favicon: Also known as a shortcut icon, website icon, tab icon, URL icon, or bookmark icon
 

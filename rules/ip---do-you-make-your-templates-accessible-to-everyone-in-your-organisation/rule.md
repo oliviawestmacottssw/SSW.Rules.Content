@@ -30,4 +30,4 @@ For details on creating your own internal Nuget repository, read this rule:[http
 
 ![If your library has potential outside of your current requirement, consider publishing to the world on Nuget.  Often the work involved to make a library more generic and re-usable results in better-quality code.](SSW_nuget.png)
 You can find a selection of Nuget packages published by SSW here:
-[https://www.nuget.org/profiles/SSW](https://www.nuget.org/profiles/SSW)
+https://www.nuget.org/profiles/SSW

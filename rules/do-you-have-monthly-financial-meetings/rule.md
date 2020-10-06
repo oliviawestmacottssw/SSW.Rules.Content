@@ -51,7 +51,6 @@ Here is a sample agenda:
 3. Review utilization report for the month
 
 
-
 **Note:** It's a good idea to record a quick summary of this meeting so people in Meeting #2 know the executive overview.
 
 

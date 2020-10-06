@@ -20,7 +20,7 @@ Source control works best when integrated with a task tracking system. SSW uses 
 Tip: If your systems are not integrated automatically, you can still integrate manually by convention. Just quoting the work item or bug ID in comments, whenever a source code change is committed.
  
 Whatever you use, your toolchain/process/IDE should fulfil the following user stories:
-    <br>
+
 1. **As a developer **working on a code file <br>      
 **I want to **easily view a file’s change history and navigate to the work items that were associated with the changes <br>      
 **So that I can **fix a recently introduced bug quickly

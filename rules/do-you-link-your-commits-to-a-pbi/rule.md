@@ -28,7 +28,7 @@ Note: If you create your branches through Azure DevOps then you can link them du
 ![Using Azure DevOps to link PBI during creation](link-pbi-during-creation.png)
 Here is a handy resource for linking work items:
 
-[https://devblogs.microsoft.com/devops/linking-work-items-to-git-branches-commits-and-pull-requests/](https://devblogs.microsoft.com/devops/linking-work-items-to-git-branches-commits-and-pull-requests/)
+https://devblogs.microsoft.com/devops/linking-work-items-to-git-branches-commits-and-pull-requests/
 
 Note: You can setup Branch Policies on your main branches to enforce this behaviour.
 

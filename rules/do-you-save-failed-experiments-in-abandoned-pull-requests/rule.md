@@ -28,7 +28,7 @@ This makes sure that we have a historical log of work completed, and still keeps
 
 
 
-   
+ 
 ![Setup pull request for feature branch so that we have a history of the commits](create-pr-for-failed-branch.png)
 
 

@@ -10,7 +10,7 @@ authors:
 ---
 
 When you can't see all the text for an item in a ListView you need to expose the full text via a ToolTip.
-    
+ 
 [[badExample]]
 | ![Users can't see all the text and the ListView doesn't use a Tooltip](../../assets/ListViewWithoutToolTip.gif)
 [[goodExample]]

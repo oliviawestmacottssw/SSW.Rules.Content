@@ -9,7 +9,7 @@ authors:
 
 ---
 
-When joining a new team, it's easy to be lost and not know when the important meetings are (like the Daily Scrum, or the next Sprint Review). If you <br>[run the meetings from Microsoft Teams](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=91a6a999-29d4-4903-8b7a-16fddd976d65) you can make them easy to find! <br><br>      
+When joining a new team, it's easy to be lost and not know when the important meetings are (like the Daily Scrum, or the next Sprint Review). If you <br>[run the meetings from Microsoft Teams](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=91a6a999-29d4-4903-8b7a-16fddd976d65) you can make them easy to find! <br>
 [[badExample]]
 | ![When I look at my calendar, I don't know when the meetings are](team meetings - bad example.jpg)
 [[goodExample]]

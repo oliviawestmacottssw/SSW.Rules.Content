@@ -45,4 +45,4 @@ Data in Azure Storage accounts is protected by replication. Deciding how far to 
     - o Data is critical, and access is required to both the primary and the secondary regions
 
 More reading
-- [Azure Storage Redundancy Option ](https://msdn.microsoft.com/en-us/library/azure/dn727290.aspx)
+- [Azure Storage Redundancy Option](https://msdn.microsoft.com/en-us/library/azure/dn727290.aspx)

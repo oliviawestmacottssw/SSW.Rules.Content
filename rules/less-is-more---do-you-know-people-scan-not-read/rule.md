@@ -8,7 +8,7 @@ authors: []
 ---
 
 People rarely read word by word; instead, they scan the page, picking out individual words and sentences that seems more relevant.
-   
+ 
 It is important to divide information, not show it all at once. The visual organization of information is vital to legibility. When displaying information or controls, designers need to visually convey:
 
 1. Information structure

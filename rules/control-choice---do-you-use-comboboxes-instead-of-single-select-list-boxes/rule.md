@@ -13,7 +13,7 @@ ComboBoxes are better than List Boxes **for data entry** because:
 - They are less trouble to scroll through, owing to the fact that you can afford to have more room for the list (as it's collapsed most of the time)
 - As you can see in the figures below, using a combo also makes the required field indicator (\*) easier to see.
 
-   
+ 
 [[badExample]]
 | ![Using list boxes](../../assets/ListBoxesAreEvil_SingleSelectBad.gif)
 [[goodExample]]
