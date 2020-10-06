@@ -12,11 +12,15 @@ authors:
 The &lt;font&gt; tag is supported in all major browsers, however it is deprecated since HTML 4. Read more at [w3schools.com](http&#58;//www.w3schools.com/tags/tag_font.asp).
  
 [[greyBox]]
-| &lt;font&gt;Some text&lt;/font&gt;
+| :::
+&lt;font&gt;Some text&lt;/font&gt;
+:::
 Figure: Bad Example - Using deprecated HTML tag
 [[greyBox]]
-| &lt;span&gt;Some text&lt;/span&gt;
+| :::
+&lt;span&gt;Some text&lt;/span&gt;
 &lt;p&gt;Some text&lt;/p&gt;
+:::
 Figure: Good Example - Using &lt;p&gt; or &lt;span&gt; for texts
 **Tip:**  Use CSS to define the font, size, and color of text.
 

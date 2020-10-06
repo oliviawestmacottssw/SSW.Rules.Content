@@ -22,7 +22,10 @@ How should developers work?
 Create a Deployment.bat like this
 
 [[greyBox]]
-| ```
+| :::
+
+
+```
 REM (deploy the callouts - Part 1)
 
             REM (restart IIS of CRM TEST Server - BASILISK)
@@ -43,6 +46,7 @@ REM (deploy the callouts - Part 1)
 ```
 
 
+:::
 
 Deploy to Test Server
 

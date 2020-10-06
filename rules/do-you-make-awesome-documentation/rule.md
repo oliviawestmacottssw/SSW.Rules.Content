@@ -186,7 +186,9 @@ Similar to Level 6 except no setup document but a business document that details
 ### Level 3+: The rest of the jigsaw
 
 [[greyBox]]
-| **Scrum Tip: Update your Acceptance Criteria**  - If you use a policy that requires commits to be linked to PBIs, then you understand that the PBI is now the documentation. If requirements change (based on a conversation with Product Owner of course) then the PBI should be updated.
+| :::
+
+**Scrum Tip: Update your Acceptance Criteria**  - If you use a policy that requires commits to be linked to PBIs, then you understand that the PBI is now the documentation. If requirements change (based on a conversation with Product Owner of course) then the PBI should be updated.
 
 When updating the Acceptance Criteria, strike through the altered Acceptance Criteria and add the new ones. Get the PO to confirm your understanding.
 
@@ -197,6 +199,7 @@ Enter search text and automatically see the results populate below.
 
 This should be added to the [Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6449ae79-ba88-447e-aa48-36173029a2af).
 
+:::
 
 
 ![](Debt.jpg)

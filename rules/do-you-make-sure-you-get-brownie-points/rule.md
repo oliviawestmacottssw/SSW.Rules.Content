@@ -12,7 +12,10 @@ authors:
 People are not mind-readers (unless they are telepathic!), so when you get good feedback from a client, make sure you get the recognition for it. There is nothing wrong with getting brownie points for the work you have done and making sure the boss at the client site and your manager know about it. 
  
 [[greyBox]]
-| | **To:** | John Smith - CEO Qwerty Organization  |
+| :::
+
+
+| **To:** | John Smith - CEO Qwerty Organization  |
 | --- | --- |
 | **CC:** | Adam Cogan - SSW Manager  |
 | **From:** | Sophie Belle - SSW Developer  |
@@ -24,5 +27,6 @@ People are not mind-readers (unless they are telepathic!), so when you get good 
 | Sophie,<br><br>Thanks for the latest release.<br> It is fantastic! Thank you for all your hard work and commitment to helping implement this solution.<br><br>Regards,                          <br> Amanda Panda                          <br> Qwerty Organization |
 
 
-
+<br>      
+:::
 Figure: Developers, when you get good feedback from anyone at the client's company, forward their comments onto the boss at the client's company and CC your manager

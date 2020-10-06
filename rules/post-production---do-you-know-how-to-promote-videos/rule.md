@@ -24,7 +24,8 @@ To ensure your videos gain maximum exposure, you need to promote them in various
     Example email:
 
 [[greyBox]]
-| <br>
+| :::
+<br>
 Hi All,
 
 A new interview is now live on SSW TV. You can see it at [urls of video]
@@ -39,6 +40,8 @@ I appreciate the efforts from everyone :)
 
 Cheers,
  Raj
+<br>
+:::
 3. ## Email the interviewee
     The person(s) featured or interviewed in the video should be encouraged to share and promote your video. If they have an audience that follows them on social media you should leverage it to your advantage.
     Ask them to:
@@ -50,7 +53,8 @@ Cheers,
     Email template:
 
 [[greyBox]]
-| <br>
+| :::
+<br>
 **Hi John,**
 
 Thank you for taking part in this video. You can find it here: [url of video]
@@ -72,6 +76,8 @@ Could you do the following:
 Thanks for taking the time to do this interview and promote it.
 
 Raj
+<br>
+:::
 4. ## Contact strategic partners
     The best way to extend your reach and promote a video is through strategic partners. These are people, companies or websites which don’t compete with you but service the same audience. Examples of these types of partners are:
 

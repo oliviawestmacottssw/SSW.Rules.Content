@@ -21,7 +21,8 @@ Remember, the expectation is for all the questions to be answered with "YES" by 
 
 
 [[greyBox]]
-| **1. Is your computer domain-joined? [ - ]** 
+| :::
+ **1. Is your computer domain-joined? [ - ]** 
 Note: To check, go to Start menu | This PC | Right-click | Properties | Check if "Workgroup" is Sydney.ssw.com.au.
 If yes, then your computer is domain-joined.
 
@@ -37,6 +38,7 @@ If your computer is domain-joined, the Login Script should have run already when
 Now go through the non-domain-joined checklist.   
 ** 
 
+:::
 
 ### Non-domain-joined checklist:
 

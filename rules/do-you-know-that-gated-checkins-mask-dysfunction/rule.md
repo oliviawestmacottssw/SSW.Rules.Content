@@ -14,7 +14,8 @@ Gated checkins are used to stop developers from checking in bad code and breakin
 This does not contribute to high functioning teams, and instead masks, or even creates dysfunction.
 
 [[greyBox]]
-| <br>
+| :::
+<br>
 In the retro the team decides to turn gated checkins on because Jonny and Sue keep breaking the build.
 
 The build doesn’t get broken any more, because Jonny and Sue now have to fix their code before they check it in.
@@ -28,10 +29,12 @@ The development ninjas on the team are proud of their code, and check in several
 They resent Jonny and Sue for having to work this way.
 
 Gated Checkins mask the dysfunction on the team, and introduce impediments to the high performers.
-
+<br>
+:::
 Bad Example – Gated Checkins mask dysfunction
 [[greyBox]]
-| <br>
+| :::
+<br>
 In the retro the team discusses the fact that the build is often broken.
  After a round table discussion about becoming better programmers and building better quality software, the team decides to the following guidelines:
 
@@ -44,7 +47,8 @@ In the retro the team discusses the fact that the build is often broken.
 <br>If you have checked in, the build is broken, and you cannot fix it before going home, you must email all devs on the team, and the product owner with an explanation.
 7. The status of the build is reviewed in every daily scrum.
 
-
+<br> 
+:::
 Good Example – The whole team should be constantly aware and invested in the status of the build, the quality of the software and in encouraging each other to better developers.
 \*\* I actually don’t follow this rule when working on small teams of awesome devs, who write code against tests and checkin frequently.
 

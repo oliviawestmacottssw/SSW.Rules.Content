@@ -22,7 +22,9 @@ The best solution is to send yourself an email CC'ing the person who asked you, 
 Always add "To myself" in the email body - not on the subject - so that other people CC'd know what is going on.
 
 [[greyBox]]
-| **From:**  Jay Lin
+| :::
+
+**From:**  Jay Lin
 
 **To:**  Jay Lin
  **Cc:** Adam Cogan, Lei Xu   
@@ -35,6 +37,7 @@ As per my conversation with Lei, the rule on progress bar is missing a bad examp
 
 1. Add bad example to Rules to Better UI - progress bar - https://rules.ssw.com.au/long-process-do-you-show-the-status-of-progress-bar-on-winforms-title
 
+:::
 Figure: Good Example - Send yourself an email, and make it clear to everyone else
 ### Tip: Include an estimate and priority too 
 

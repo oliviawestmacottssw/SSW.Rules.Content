@@ -16,5 +16,8 @@ Every now and then, a client will purchase training or event passes and be unabl
 
 
 [[greyBox]]
-| <br>
+| :::
+<br>
 As an example, this means that the Accountant can always issue a refund for an event immediately, without any further approval needed from the boss, so long as at least 1 alternative has been verbally offered to the client (normally by the Account Manager)
+<br>
+:::

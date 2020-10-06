@@ -17,7 +17,9 @@ Next step check that you have primary and secondary (and even better tertiary) M
 If success on both steps the error is most likely on the senders side. Send them the an email to check their mail settings.
 
 [[greyBox]]
-| Dear xxx
+| :::
+
+Dear xxx
 
 As per this rule on bounced emails http://rules.ssw.com.au/Communication/RulesToBetterEmail/Pages/Do-you-know-what-to-do-with-bounced-email.aspx
 
@@ -26,4 +28,5 @@ As per this rule on bounced emails http://rules.ssw.com.au/Communication/RulesTo
     The problem is likely your end
 
 
+:::
 Figure: What to send the person

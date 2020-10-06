@@ -10,7 +10,8 @@ authors:
 ---
 
 [[greyBox]]
-| <br>                    
+| :::
+<br>                    
 "A great man shows his greatness," said Carlyle, "by the way he treats little men". Bob Hoover, a famous test pilot and frequent performer at air shows, was returning to his home in Los Angeles from an air show in San Diego. As described in the magazine *Flight Operations*, at three hundred feet in the air, both engines suddenly stopped. By deft manoeuvring he managed to land the plane, but it was badly damaged although nobody was hurt.
 
 Hoover's first act after the emergency landing was to inspect the airplane's fuel. Just as he suspected, the World War II propeller plane he had been flying had been fuelled with jet fuel rather than gasoline.
@@ -19,6 +20,7 @@ Upon returning to the airport, he asked to see the mechanic who had serviced his
 
 You can imagine Hoover's anger. One could anticipate the tongue-lashing that this proud and precise pilot would unleash for the carelessness. But Hoover didn't scold the mechanic; he didn't even criticize him. Instead, he put his big arm around the man's shoulders and said. "To show you I'm sure that you'll never do this again, I want you to service my F-51 tomorrow."
 
+:::
 
 To err is human and it happens to the best of us. When a mistake happens, getting upset and lashing out doesn't resolve the situation. The best course of action is to examine what went wrong, and how it can be prevented from happening again.
 

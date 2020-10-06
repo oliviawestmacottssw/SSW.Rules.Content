@@ -17,7 +17,9 @@ These are the steps you should take when request a "test please" :
 2. Stop working on the project until you receive either a "pass" or "fail" email
 3. Create your "test please" following this template: (refer to Windows Forms or Email templates below)
 [[greyBox]]
-| **Subject: Test Please - Product Name v1.11**
+| :::
+
+**Subject: Test Please - Product Name v1.11**
 
 Dear [XXX],
 
@@ -51,6 +53,8 @@ Keep in mind that a "test please" is an urgent task and that it should start wit
 
 
 Thanks, [XXX]
+
+:::
 4. **What if you're doing a Windows Forms test?**    Then you should also include this to the email:
     - The latest version of [XXX] has been uploaded to \\frog\SSW\Download\[Application\_verX-XX\_beta.exe
     - Test on a fresh VPC image of Windows
@@ -68,7 +72,9 @@ Thanks, [XXX]
 
 
 [[greyBox]]
-| **Subject: Product Name v1.11**
+| :::
+
+**Subject: Product Name v1.11**
 
 Test please
 
@@ -78,6 +84,8 @@ Dear [XXX],
 I am looking for bugs or approval to release this version.
 
 I have done what I could for my code's health. E.g.
+
+:::
 6. **Note to****developer:**If current version is better than the last version you can release (even with a test fail) as long:
     - The bugs reported in the test fail existed in the old version
     - Two people have tested it

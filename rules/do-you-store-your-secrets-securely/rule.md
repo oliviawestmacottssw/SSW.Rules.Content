@@ -25,7 +25,9 @@ There are many options for managing secrets in a secure way:
 
 
 [[greyBox]]
-| ### Store production passwords in source control protected with the <br>      [ASP.NET IIS Registration Tool](https&#58;//msdn.microsoft.com/en-us/library/zhhddkxy.aspx)
+| :::
+
+### Store production passwords in source control protected with the <br>      [ASP.NET IIS Registration Tool](https&#58;//msdn.microsoft.com/en-us/library/zhhddkxy.aspx)
 
 Pros:
 
@@ -41,10 +43,13 @@ Cons:
 - Manual transmission of the password from the key store to the encrypted config file.
 
 
+:::
 Figure: Bad practice - Overall rating: 2/10
     
 [[greyBox]]
-| ### Use Windows Identity instead of username/ password.
+| :::
+
+### Use Windows Identity instead of username/ password.
 
 Pros:
 
@@ -61,9 +66,12 @@ Cons:
 - Has key-person reliance on network admin
 
 
+:::
 Figure: Bad practice - Overall rating: 4/10   
 [[greyBox]]
-| ### [Use External Configuration Files](https&#58;//docs.microsoft.com/en-us/aspnet/identity/overview/features-api/best-practices-for-deploying-passwords-and-other-sensitive-data-to-aspnet-and-azure)
+| :::
+
+### [Use External Configuration Files](https&#58;//docs.microsoft.com/en-us/aspnet/identity/overview/features-api/best-practices-for-deploying-passwords-and-other-sensitive-data-to-aspnet-and-azure)
 
 
 Pros:
@@ -79,13 +87,16 @@ Cons:
 - No clear way to manage the DevOps process for external config files.
 
 
+:::
 Figure: Bad practice -  Overall rating: 1/10
 
 
 ### Good Practices
 
 [[greyBox]]
-| ### Use Octopus/ VSTS RM secret management, with passwords sourced from KeePass
+| :::
+
+### Use Octopus/ VSTS RM secret management, with passwords sourced from KeePass
 
 
 Pros:
@@ -100,12 +111,15 @@ Cons:
 - DPAPI still needed.
 
 
+:::
 Figure: Good practice - Overall rating: 8/10
 
 
 
 [[greyBox]]
-| ### Use Enterprise Secret Management Tool – LastPass/ Hashicorp Vault/ etc..
+| :::
+
+### Use Enterprise Secret Management Tool – LastPass/ Hashicorp Vault/ etc..
 
 Pros:
 
@@ -121,11 +135,14 @@ Cons:
 - DPAPI still needed for config files at rest
 
 
+:::
 Figure: Good practice -  Overall rating: 8/10
 
 
 [[greyBox]]
-| ### Use Azure KeyVault
+| :::
+
+### Use Azure KeyVault
 
 See the SSW Rewards mobile app repository for how SSW is using this in a production application:           [https://github.com/SSWConsulting/SSW.Rewards](https&#58;//github.com/SSWConsulting/SSW.Rewards)
 
@@ -148,4 +165,5 @@ Cons:
 
 
 
+:::
 Figure: Good Practice - Overall rating 9/10

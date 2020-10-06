@@ -16,4 +16,8 @@ Additionally, Sitefinity will hard code the widths of the layout and there is no
  The hack work around is to manually remove the widths via JQuery:
 
 [[greyBox]]
-| $(".sf\_colsOut").css("width", "");
+| :::
+
+$(".sf\_colsOut").css("width", "");
+
+:::

@@ -38,4 +38,7 @@ Once the sprint review is complete, the Product Owner has half the sprint period
 **Note:**  There is no warranty on a time & materials contract.
 
 [[greyBox]]
-| <br>    **Important:** During the warranty period, all feedback from clients should be moved to backlog unless they fall into the [bug definition](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=117f6f22-8c72-4895-b419-1e2e0dc5fbf1).
+| :::
+ <br>    **Important:** During the warranty period, all feedback from clients should be moved to backlog unless they fall into the [bug definition](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=117f6f22-8c72-4895-b419-1e2e0dc5fbf1). 
+
+:::

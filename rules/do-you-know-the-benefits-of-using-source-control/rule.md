@@ -25,6 +25,9 @@ Source control is your backup of your code, as well as your change history to tr
 ![Use annotate to understand](Annotate.jpg)(or find the guy) to understand his thoughts before deleting/changing someone elses code 
 ![Annotation is great, but it gets even better when one click gives you the 'check in comment' and the 'work item'](AnnotationAndComment.jpg)
 [[greyBox]]
-| <br>
+| :::
+<br>
 Don't just fix the problem, see who caused the problem and correct them.
 - Adam Cogan
+<br>
+:::

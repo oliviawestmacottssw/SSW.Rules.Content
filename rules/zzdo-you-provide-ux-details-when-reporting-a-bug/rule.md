@@ -13,10 +13,14 @@ The better you describe the problem you had, the more effective will be the solu
 Make sure you always explain and give as much details as you can of how you got an error or a bad experience.
 
 [[greyBox]]
-| Where is TV.SSW on the navigation? 
+| :::
+Where is TV.SSW on the navigation? 
+:::
 Figure: Bad example - Lack of details
 [[greyBox]]
-| 1. Navigated to ssw.com.au
+| :::
+
+1. Navigated to ssw.com.au
 2. Scrolling down looking for a big graphic like "CHECK OUT SSW TV! CLICK HERE!"
 (Nothing)
 Me, thinking… "Hmm… let's try the menu at the top..."
@@ -37,6 +41,7 @@ Me, thinking… "Hmm… let's try the menu at the top..."
 13. Me, gives up… types tv.ssw.com.au to try and get lucky. Huzzah!
 
 
+:::
 Figure: Good example - We can easily identify more the one way to improve the UX
 Better than a good description of the bug is a screen recording. This should be followed for a more detailed report. Use [Snagit](http&#58;//www.techsmith.com/snagit.html) (preferred) or [Jing](http&#58;//www.techsmith.com/jing.html) to record your screen.
 
