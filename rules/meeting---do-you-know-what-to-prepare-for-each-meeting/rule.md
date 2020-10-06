@@ -10,7 +10,7 @@ authors: []
 In Scrum, meetings are time boxed. Team members should be well prepared in order to accomplish the meeting goals in time. 
 
  
-**Daily Scrum Meetings** - This is time boxed to 15 mins. All members of the team should be well prepared by:
+**Daily Scrum Meetings**  - This is time boxed to 15 mins. All members of the team should be well prepared by:
 
 - Being ready on time
 - Having their "Remaining hours" up-to-date – read <br>      [Do you update your tasks before the daily Scrum meeting?](/Pages/DailyScrumUpdateTasks.aspx)
@@ -37,9 +37,9 @@ In Scrum, meetings are time boxed. Team members should be well prepared in order
 
 
 
-**Review Meetings** - all members of the team must be well prepared by:
+**Review Meetings**  - all members of the team must be well prepared by:
 
-- Being available <br>      **30 minutes** before the meeting
+- Being available <br>       **30 minutes**  before the meeting
 - Setting up and testing the projector with a computer before the meeting starts
 - Making sure remote members are connected via Skype and/or TeamViewer before the meeting starts
 - Nominating in advance another member of the team to take notes from the presentation
@@ -51,7 +51,7 @@ In Scrum, meetings are time boxed. Team members should be well prepared in order
     - If the member needs to show something, show a couple of examples and ask if the Product Owner wants to see something else
 
 
-**Retrospective meetings** - all members of the team must be well prepared by:
+**Retrospective meetings**  - all members of the team must be well prepared by:
 
 - Having all your tasks from the last sprint closed
 - Having your sprint feedback ready in advance, so members don’t need to think about it during the meeting, saving time
@@ -59,7 +59,7 @@ In Scrum, meetings are time boxed. Team members should be well prepared in order
 
 
 **
-Planning meetings** - all members of the team must be well prepared by:
+Planning meetings**  - all members of the team must be well prepared by:
 
 - Having all bugs and PBIs up-to-date on the backlog
 - Having all PBIs on the backlog “groomed” in order of priority (according to the Product Owner)

@@ -111,7 +111,7 @@ This cannot be converted to UTC in the database because that would mean:
 
 Currently, there will be an issue if for example, someone from the US (Pacific time) has 19 hours difference between her local time and our servers.
 
-**Example:** Sally in the US enters a timesheet for the 21/04/05. (which will default to have a time of 12:00:00 AM since the time was not specified)
+**Example:**  Sally in the US enters a timesheet for the 21/04/05. (which will default to have a time of 12:00:00 AM since the time was not specified)
 Our servers will store it as 21/04/05 19:00:00 in other words 21/04/05 07:00:00 PM because the .NET Framework will automatically convert the time accordingly for our Web Service.
 Therefore our servers have to take the Date component of the DateTime and add the Time component as 12:00:00 AM to make it stored in our local time format.
 

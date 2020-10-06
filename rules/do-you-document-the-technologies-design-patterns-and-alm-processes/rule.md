@@ -16,23 +16,23 @@ A pattern allows using a few words to a dev and he knows exactly what coding pat
 ALM is about refining the work processes.
  We are doing this project using C#Bad example - you know nothing about how the project will be done
 
-**Technologies:** WebAPI. The DI container is Structure Map. Entity Framework. Typescript. Angular.
-**Patterns:** Repository and Unit of Work (tied to Entity Framework to remove additional abstraction), IOC
-**ALM:** Scrum with 2-week sprints and a Definition of Done including StyleCop to green
-**ALM:** Continuous deployment to stagingGood example - this tells you a lot about the architecture and processes in a few words
+**Technologies:**  WebAPI. The DI container is Structure Map. Entity Framework. Typescript. Angular.
+ **Patterns:**  Repository and Unit of Work (tied to Entity Framework to remove additional abstraction), IOC
+ **ALM:**  Scrum with 2-week sprints and a Definition of Done including StyleCop to green
+ **ALM:**  Continuous deployment to stagingGood example - this tells you a lot about the architecture and processes in a few words
 
 
 The important ones for most web projects:
 
 1. **Technologies: WebAPI**
-2. **Patterns: Single responsibly** - if it does more than one thing, then split it.
+2. **Patterns: Single responsibly**  - if it does more than one thing, then split it.
  Eg. If it checks the weather and gets data out of the database, then split it.
-3. **Patterns: Inversion of control / dependency injection**
+3. **Patterns: Inversion of control / dependency injection** 
  Eg. If your controller needs to get data, then you inject the component that gets the data.
-4. **Patterns: Repository/Unit of Work** - repository has standard methods for getting and saving data. The code calling the repository should not know where the data lives.
+4. **Patterns: Repository/Unit of Work**  - repository has standard methods for getting and saving data. The code calling the repository should not know where the data lives.
  Eg. A User Repository could be saving to Active Directory or CRM and it should not affect any other code
  You may or may not choose to have an additional abstraction away from entity framework.
-5. **ALM: Scrum** - kind of a pattern for your process.
+5. **ALM: Scrum**  - kind of a pattern for your process.
 Eg. Sprint Review every 2 weeks.
  Mostly a senior architect should be added for that 1 day each 2 weeks.
 

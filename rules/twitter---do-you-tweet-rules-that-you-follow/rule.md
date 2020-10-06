@@ -9,7 +9,7 @@ authors:
 
 ---
 
-If you follow a rule, then tweet it. Use **#ssw** and **#sswrules**
+If you follow a rule, then tweet it. Use  **#ssw**  and  **#sswrules**
 
 
 

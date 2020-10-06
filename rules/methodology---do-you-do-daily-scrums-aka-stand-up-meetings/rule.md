@@ -17,9 +17,9 @@ It is best to have it standing up, so it's short and to the point. No-one wants 
  
 Everybody knows the 3 essential questions:
 
-1. **What did you do yesterday?** (and did you update TFS/other bug tracking system)?
-2. **What are you going to do today?** (and my current task on the [physical task board](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=df1f9998-8fea-4912-ab3d-df4f5371beff) has my picture on it)
-3. **Do you have any roadblocks?** (aka issues/impediments)
+1. **What did you do yesterday?**  (and did you update TFS/other bug tracking system)?
+2. **What are you going to do today?**  (and my current task on the [physical task board](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=df1f9998-8fea-4912-ab3d-df4f5371beff) has my picture on it)
+3. **Do you have any roadblocks?**  (aka issues/impediments)
 
 
 Asking these questions of every team member means no-one can hide and everyone remains connected. Further, you can notice what was promised and what was performed. This enables the team to discovers issues quickly and keep abreast of the progress.
@@ -41,7 +41,7 @@ Stephen Forte (Board member ScrumAlliance.com)
 ### Follow these essential tips to improve your Daily Scrum meetings:
 
 
-**Tip 1: Be prepared for the meeting **
+**Tip 1: Be prepared for the meeting**
 
 Before you join the Daily Scrum,     [check the Teams group](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=df84e3d9-c64f-4419-98d6-cb50363450ef) to see what your colleagues have been discussing and working on, and check the portal to confirm the meeting time. If you’re joining a new project or re-joining a previous one after some time away, these steps are important to keep yourself up-to-date and abreast of progress.
 
@@ -56,17 +56,17 @@ At the end of the Scrum, the Scrum Master should     [review the current burn do
 **Tip 3: Keep a schedule of the Daily Scrum times on a wall (+ have a recurring appointment in Outlook)**
 
 
-Subject: 🙋Daily Scrum –              **[Project Name]
-**
-Hi** [Team name]**,
+Subject: 🙋Daily Scrum –               **[Project Name]
+** 
+Hi **[Team name]** ,
 As per our conversation, the Daily Scrum will be held each day.
 
 Project: **[Project Name]
-**Scrum Master:              **[Scrum Master Name]
-**
+** Scrum Master:               **[Scrum Master Name]
+** 
 Regards,
 
-**[Your name here]**
+ **[Your name here]**
 
 [Do you do Daily Scrums?](/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx)>
 
@@ -110,7 +110,7 @@ A whiteboard is also great for "Parking Lot" topics that arise, to be discussed 
 
 A "Parking Lot" is the place for any discussions that stop the Team from answering the 3 main questions. Only interested people stay for the "Parking Lot" to discuss issues after the Daily Scrum.
 
-**Tip 11: If you have raised impediments, consider contacting the Product Owner **
+**Tip 11: If you have raised impediments, consider contacting the Product Owner**
 
 ![Often the Product Owner won’t be at the Scrum. However, call the Product Owner if you have an Impediment](ProductOwnerTelephone.jpg)(aka Roadblock). Communication with the Product Owner is essential and if you haven't touched base with him in the few days, then do so. A disconnected or absent Product Owner is a sign of dysfunction.
 **Tip 12: What to do when you're working for a PO directly**

@@ -43,9 +43,9 @@ Here’s what we check:
 &lt;This email was sent as per the rule: [https://rules.ssw.com.au/do-you-reward-your-employees-for-doing-their-timesheets-on-time](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=9bbec8d8-f552-46c1-a34e-fdaaa127662b) /&gt;
 
 
-** Note: **The Free Lunch should not accumulate. It's an 'on the day' reward, so take it or leave it... If they're not in the office, give them 30 days to get the $10.00 Tax Invoice back to Accounts for reimbursement.
+**Note:** The Free Lunch should not accumulate. It's an 'on the day' reward, so take it or leave it... If they're not in the office, give them 30 days to get the $10.00 Tax Invoice back to Accounts for reimbursement.
 
 
-** Note:** Ideally, buy the free lunch in 1 go, to reduce the admin involved for the accounts department.
+**Note:**  Ideally, buy the free lunch in 1 go, to reduce the admin involved for the accounts department.
 
-**Note:** Since it's damaging to have senior people belittled by getting called out for relatively trivial things, you should always make sure you do your absolute best to help them comply.
+**Note:**  Since it's damaging to have senior people belittled by getting called out for relatively trivial things, you should always make sure you do your absolute best to help them comply.

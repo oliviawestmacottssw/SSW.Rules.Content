@@ -63,7 +63,7 @@ This document assumes you have some knowledge of how to configure your wireless 
     1. Select the top radio button “Secure Wireless Connections" click next
     2. On the Specify 802.1X Switches Page check the AP's you have configured under Radius Clients are in that list then click next
     3. Now the authentication method. From the Drop Down lists select Protected EAP (PEAP)
-**NOTE:** This method requires a Computer Certificate and the Radius Server and either a computer or user certificate on the client machine
+ **NOTE:**  This method requires a Computer Certificate and the Radius Server and either a computer or user certificate on the client machine
     4. Select the groups (eg. Domain\WirelessAccess) you would like to give wireless access to. You can do this by user or computer or both
     5. If you need to configure VLan's in the next step, wasn't required in my case I just used the defaults
     6. You then need to register the server with Active Directory. So right click on NPS (local) and select Register Server in Active Directory
@@ -96,7 +96,7 @@ This document assumes you have some knowledge of how to configure your wireless 
         Then under Trusted Root Certification Authority, tick your Root CA certificate. Then click OK.
  
 ![Connection security settings    6. Click OK twice.](Cert2.png)
-        **Optional: **Under Network Permission tab you can use the tick boxes to restrict clients to infrastructure networks or only GPO profiled allowed networks if you desire.
+        **Optional:** Under Network Permission tab you can use the tick boxes to restrict clients to infrastructure networks or only GPO profiled allowed networks if you desire.
     7. Click OK and you have completed your Vista Wireless Policy
  
 ![Wifi\_Settings settings](GPU.png)

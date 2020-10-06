@@ -18,7 +18,7 @@ Customers - WeChat allows users to follow a Business/Brand account upon scanning
 
 Businesses - Followers of the WeChat Business/Brand accounts can be sent a limited number of messages per month, usually product info and promotions.
  
-![ A QR on a Microsoft’s newsletter, it allows customers to scan and follow the business account.](Microsoft official account.GIF)
+![A QR on a Microsoft’s newsletter, it allows customers to scan and follow the business account.](Microsoft official account.GIF)
 **
 
 **
@@ -71,7 +71,7 @@ QR codes are used for linking information such as supply and manufacture dates o
 Companies are using QR codes to distribute Apps to download and install. It is easier than putting a link on ads or asking customers to search in App stores.
  
 ![A government-sponsored billboard in Hangzhou showcasing apps for tourists](install apps qr code.jpeg)
-** ** 
+ 
 
 ### #7 Use a QR code to sign-up and login websites
 
@@ -121,7 +121,7 @@ You can rent a Bike in China by scanning a QR code on a Share-Bike.
 
 For example, to rent a Hellobike:
  
-![how to rent a   Hellobike using the Alipay App](sharing bike qr code.png)
+![how to rent aHellobikeusing the Alipay App](sharing bike qr code.png)
 
 
 

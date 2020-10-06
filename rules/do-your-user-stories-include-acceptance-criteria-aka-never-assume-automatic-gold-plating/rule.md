@@ -25,7 +25,7 @@ They must be specified in the Acceptance Criteria if required.
 There are 2 parts to getting this right. The Acceptance Criteria, then the Acceptance Tests:
  
 ![You need a common language to communicate in](DevsAndUsers.jpg)
-**Acceptance Criteria **(from the Product Owner) define the exact requirements that must be met for the story to be completed. They answer the question, "How will I know when I' m done with the story?"
+**Acceptance Criteria** (from the Product Owner) define the exact requirements that must be met for the story to be completed. They answer the question, "How will I know when I' m done with the story?"
  
 ![A User Story with Acceptance Criteria](acceptance-criteria.jpg)(MSF Agile Template)
 

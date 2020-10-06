@@ -9,7 +9,7 @@ authors:
 
 ---
 
-**Acceptance Tests** (built by the developers) verify that the Acceptance Criteria are met.
+**Acceptance Tests**  (built by the developers) verify that the Acceptance Criteria are met.
  The goal is for teams to move beyond manual testing and implement automated testing 
  eg. CodedUI tests, Telerik Tests etc
   Test cases answer the question, "How do I test and what are the test steps?"

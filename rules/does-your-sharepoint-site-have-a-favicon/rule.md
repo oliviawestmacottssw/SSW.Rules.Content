@@ -27,4 +27,4 @@ Let's see how it's done for SharePoint:
             &lt;link rel="shortcut icon" href="~/Style Library/Images/SSW/Rules/ssw.ico" type="image/x-icon" /&gt;
  &lt;/head&gt;
 
-**Figure: One line of HTML lets you add your company's icon to  your web page**
+ **Figure: One line of HTML lets you add your company's icon to  your web page**

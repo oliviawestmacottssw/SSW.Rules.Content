@@ -16,7 +16,7 @@ Most devs don't send 'Done' emails. Do you really expect Product Owners to alway
  The better approach is:
      - If task/bug came from a client, when it is completed, send the 'Done' email to Product Owner.
      - If the task/bug is your breakdown of a PBI (that the developer did to break down a big user story), then only send the ‘Done’ once the entire user story is complete.
-**Note**: Send the ‘Done’ email to the [Owner of that PBI](/Pages/OwnerForEveryUserStory.aspx).
+**Note** : Send the ‘Done’ email to the [Owner of that PBI](/Pages/OwnerForEveryUserStory.aspx).
 
 ### Done tips:
 

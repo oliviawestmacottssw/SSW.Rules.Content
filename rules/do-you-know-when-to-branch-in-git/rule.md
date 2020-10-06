@@ -18,9 +18,9 @@ authors:
 ---
 
 ![](finishing-a-feature-with-world-class-flow.jpg)Note: This rule applies to git. For branching advice in TFVC, see [Do you know when to branch in TFVC?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=cd330379-4568-45fa-bd68-7229044697b7)
-The best way to handle continuous development and deployment is following [GitHub Flow](https://guides.github.com/introduction/flow/). The basic idea is to always deploy from ** master**, and to create a feature branch for every feature. When the feature is complete, it is merged back to master via a pull request, which provides a trigger for other developers to build.
+The best way to handle continuous development and deployment is following [GitHub Flow](https://guides.github.com/introduction/flow/). The basic idea is to always deploy from  **master** , and to create a feature branch for every feature. When the feature is complete, it is merged back to master via a pull request, which provides a trigger for other developers to build.
 
-Using this strategy, ** master **is always production-ready and deployable.
+Using this strategy,  **master** is always production-ready and deployable.
  
 
 `youtube: https://www.youtube.com/embed/9bP4-ly2qtQ?rel=0`
@@ -48,7 +48,7 @@ Since master is always being deployed, it must always be in a deployable state.
 
 **a) Create a "feature branch" for every PBI**
 
-When starting a PBI from the task board, create a branch from      **master** with a descriptive name for that feature.
+When starting a PBI from the task board, create a branch from      **master**  with a descriptive name for that feature.
 
 [[badExample]]
 | ![Branch name is not descriptive](BadBranchName.png)
@@ -62,7 +62,7 @@ The benefit of creating feature branches is to reduce the number of conflicts an
 
 **b) Code away and complete the PBI**
 
-**c) Create a commit - it will contain your changed files on your local PC **
+**c) Create a commit - it will contain your changed files on your local PC**
 
 While working, commit frequently to this branch with nice, descriptive messages. For example, "Added a field to hold the product category to our timesheet read model" and "added a column to the timesheet summary UI for the product category".
 
@@ -75,7 +75,7 @@ While working, commit frequently to this branch with nice, descriptive messages.
 ### 2) Open a pull request (to merge from your current branch to the master)
 
 
-When the change is complete, or when you want feedback on anything, open a pull request to merge the branch back to     ** master**. The pull request is more than just a request to merge, it is a request to have someone review the code and architecture, and to discuss any issues.  Resolve these issues with more commits in the branch before continuing.
+When the change is complete, or when you want feedback on anything, open a pull request to merge the branch back to      **master** . The pull request is more than just a request to merge, it is a request to have someone review the code and architecture, and to discuss any issues.  Resolve these issues with more commits in the branch before continuing.
 
 Tip: A best practice is to have another developer review your work and then approve.
 
@@ -84,14 +84,14 @@ It is easy to chalk this step up as busy-work, but it is one of the most valuabl
 ### #assumption
 
 
-Deploy the changes to a staging environment.  This allows the features to be tested before being merged to     **master**.
+Deploy the changes to a staging environment.  This allows the features to be tested before being merged to      **master** .
 
-Some prefer to move this step to after the merge, especially when using a release management tool like VSTS Release or Octopus Deploy (see     [Do you use the best deployment tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e2608875-5b0b-4215-bee8-8ffd966dc972)).  If you decide to go this route, remember that     **master** should remain deployable and production ready at all times and that all branches come from      **master**.  If skipping this step, ensure that you have CI on your feature branch to ensure that your branch compiles and passes all tests before merging.
+Some prefer to move this step to after the merge, especially when using a release management tool like VSTS Release or Octopus Deploy (see     [Do you use the best deployment tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e2608875-5b0b-4215-bee8-8ffd966dc972)).  If you decide to go this route, remember that      **master**  should remain deployable and production ready at all times and that all branches come from      **master** .  If skipping this step, ensure that you have CI on your feature branch to ensure that your branch compiles and passes all tests before merging.
 
 ### 3) Merge and Deploy (to master)
 
 
-Once everyone is happy and everything is tested, complete the pull request, which will merge back to     ** master**. Ensure you are not using the "Fast Forward" merge option (git), or details about the branch will be lost - it will appear as though all work was done in     **master**. Being able to see the feature branches in the git log is very useful.
+Once everyone is happy and everything is tested, complete the pull request, which will merge back to      **master** . Ensure you are not using the "Fast Forward" merge option (git), or details about the branch will be lost - it will appear as though all work was done in      **master** . Being able to see the feature branches in the git log is very useful.
 
 [[goodExample]]
 | ![Each change is well described, small and in its own feature branch.](GoodGitHistory.png)
@@ -108,4 +108,4 @@ Otherwise, you can do it before you complete the pull request by ticking     del
 [[goodExample]]
 | ![Set the whole project to auto-delete branch after<br>        merging in GitHub](github settings.png)
 
-Once merged,      **master** should immediately and automatically be deployed (in a perfect world, to production).
+Once merged,      **master**  should immediately and automatically be deployed (in a perfect world, to production).

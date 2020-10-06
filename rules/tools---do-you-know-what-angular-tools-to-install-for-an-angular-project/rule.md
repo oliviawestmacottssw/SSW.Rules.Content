@@ -24,8 +24,8 @@ Read [Do you know that the ASP.NET Core SPA Template for Angular uses the Angula
 
 The libraries that are required to get started are:
 
-1. **Node.js** (https://nodejs.org/) and **NPM** (https://www.npmjs.com/)
-2. **Git** (https://git-scm.com/), and
+1. **Node.js**  (https://nodejs.org/) and  **NPM**  (https://www.npmjs.com/)
+2. **Git**  (https://git-scm.com/), and
 3. **Angular CLI** (https://angular.io/cli)
 
  
@@ -91,5 +91,5 @@ If you get permission errors, follow instructions here: https://docs.npmjs.com/g
 
 ### Which IDE should I use for developing Angular applications?
 
-We recommend you use **VSCode** - [http://code.visualstudio.com](http://code.visualstudio.com/)
+We recommend you use  **VSCode**  - [http://code.visualstudio.com](http://code.visualstudio.com/)
 Read more on [Do you know the best IDE for Angular?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=481b8d76-c2aa-4452-954a-26bb11628ba0)

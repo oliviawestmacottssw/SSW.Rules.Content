@@ -35,11 +35,11 @@ Most importantly, you can have all these things done for you in the click of a b
 [[goodExample]]
 | ![Code is much more readable and Visual Studio UI is large enough to read](present_on.png)
 
-**
+ **
 ![](install.png)
-**
+** 
 
-**Figure: you can install Productivity Power Tools via Extensions and Updates. This includes the presentOn feature.**
+ **Figure: you can install Productivity Power Tools via Extensions and Updates. This includes the presentOn feature.** 
 
 
 

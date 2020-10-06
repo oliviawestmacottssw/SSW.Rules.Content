@@ -25,6 +25,6 @@ If you have a number of Team Projects open from the same TFS Project Collection,
 
 
 ![](good_workspace.png)
-**
+ **
 [[goodExample]]
 | ![Only the relevant workspace has been included in this build definition](good.gif)

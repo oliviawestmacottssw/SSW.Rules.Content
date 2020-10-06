@@ -21,9 +21,9 @@ You want users to easily edit content, so you put an "edit" button on the page. 
 
 !["Edit" button to encourage users updating the content](edit-button.jpg)
 
-**HTML** is frightening for most users, as one wrong tag or an inline styling can break the whole page view.
+**HTML**  is frightening for most users, as one wrong tag or an inline styling can break the whole page view.
 
-**Markdown** is simpler and encourages more editing without breaking the page.
+**Markdown**  is simpler and encourages more editing without breaking the page.
 
 The original spec for Markdown can be found at https://daringfireball.net/projects/markdown/syntax. Although, it does not specify the syntax unambiguously – so there are different flavours of the spec available. Some popular ones include:
 

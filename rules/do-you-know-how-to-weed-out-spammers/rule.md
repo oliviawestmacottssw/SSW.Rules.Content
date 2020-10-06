@@ -25,7 +25,7 @@ Before approving a membership request, consider:
 
 
 
-**Note:** These are only guidelines, not a hard and fast rule. Use your initiative when approving membership requests. 
+ **Note:**  These are only guidelines, not a hard and fast rule. Use your initiative when approving membership requests. 
 
 
 

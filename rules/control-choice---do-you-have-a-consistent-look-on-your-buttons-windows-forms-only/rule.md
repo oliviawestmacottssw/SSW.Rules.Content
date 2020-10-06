@@ -10,7 +10,7 @@ authors: []
 Question: What is wrong with this Picture?
 
 ![What is wrong?](../../assets/InconsistentButtonStyles.jpg)
-**Answer:** There are three different types of buttons in the Application:
+ **Answer:**  There are three different types of buttons in the Application:
 
 - *Next >* - Default Window Style
 - *Preview* - .NET Flat Style

@@ -25,24 +25,24 @@ When it comes to the easiest and quickest<br>way to share files between designer
 ### So why do we prefer Dropbox over OneDrive?
 
 
-1. **OneDrive (was SkyDrive) requires me to check out the file in SharePoint before I make changes. **    I have to open a web browser, log in to the intranet, check out the file, and then open the file on my computer before I can make edits to it. This is a shocking amount of busy work for something that is already on my computer. I am unable to work directly from the file on my computer and have it sync automatically. I have to check out a file that is ON my computer. Why can I not check out the file from my computer? Why does it not check out the file when I edit it?
+1. **OneDrive (was SkyDrive) requires me to check out the file in SharePoint before I make changes.**    I have to open a web browser, log in to the intranet, check out the file, and then open the file on my computer before I can make edits to it. This is a shocking amount of busy work for something that is already on my computer. I am unable to work directly from the file on my computer and have it sync automatically. I have to check out a file that is ON my computer. Why can I not check out the file from my computer? Why does it not check out the file when I edit it?
     Dropbox lets me work right away on the file on my computer
  
 ![OneDrive](Designer-Source-Control-SkyDriveCheckout.png)(was SkyDrive) has no option to "check out" here. I have to go to the browser and check out a file which is on my computer. Better yet, Dropbox doesn't even ask me to check out, it just does it
-2. **For me to check out the file and to upload the file to "SharePoint" I have to be on VPN. **    Our VPN speed is horrible for people outside of Sydney and it takes me the majority of the day to upload 1 Photoshop file. This is unacceptable, because the files designers work with are huge. I.E. those posters of Uly, Mehmet and William are  54MB… EACH.
+2. **For me to check out the file and to upload the file to "SharePoint" I have to be on VPN.**    Our VPN speed is horrible for people outside of Sydney and it takes me the majority of the day to upload 1 Photoshop file. This is unacceptable, because the files designers work with are huge. I.E. those posters of Uly, Mehmet and William are  54MB… EACH.
     I can use Dropbox and have it sync to Tiago, David, without needing to be on VPN. The files are sync'd as I work so they are never out of date, or "waiting to be uploaded"
-3. **When OneDrive (was SkyDrive) has an error, it just sits there and pauses my other files until the error is resolved. **    Even if the problem is something like "this file is too big for upload." Somehow one large file prevents my other normal files from being uploaded.
+3. **When OneDrive (was SkyDrive) has an error, it just sits there and pauses my other files until the error is resolved.**    Even if the problem is something like "this file is too big for upload." Somehow one large file prevents my other normal files from being uploaded.
     I have used Dropbox for 3 years and it has never given me an error.
  
 ![OneDrive](Designer-Source-Control-SkyDriveUploadPaused.png)(was SkyDrive) has my last two files just sitting as "upload paused" – these files are perfectly ok to be uploaded but it refuses to do so, even when I ask it to
-4. ** OneDrive (was SkyDrive) has strange errors that cannot be resolved. **    For example, in the screenshot below, I have been getting "Upload pending" when I have repeatedly tried to upload the file. I have no idea what OneDrive is doing. The file is checked out in SharePoint, it's a little big but typical of designer files. And yet, OneDrive sits there, doing nothing and throwing me popup messages about the status being updated.
+4. **OneDrive (was SkyDrive) has strange errors that cannot be resolved.**    For example, in the screenshot below, I have been getting "Upload pending" when I have repeatedly tried to upload the file. I have no idea what OneDrive is doing. The file is checked out in SharePoint, it's a little big but typical of designer files. And yet, OneDrive sits there, doing nothing and throwing me popup messages about the status being updated.
     Dropbox just works.
  
 ![In OneDrive](Designer-Source-Control-SkyDriveLoop.png)(was SkyDrive), my files are stuck in a "Upload pending" loop. I do not know why, as the files have been checked out and are not particularly large
-5. ** OneDrive (was SkyDrive) has problems uploading files. **    
+5. **OneDrive (was SkyDrive) has problems uploading files.**    
 
     - In the first box, it decided to upload my file as a new file instead of saving the old one as a version
-    - In the second box, it **overrode** my file with something that has no file size (probably a broken file.)
+    - In the second box, it  **overrode**  my file with something that has no file size (probably a broken file.)
 
     
     Thank god that second file is saved in my Dropbox. Dropbox has never broken my files and it knows how to save files with version tracking.

@@ -10,7 +10,7 @@ authors: []
 Member of the Scrum Team should understand their responsibilities and respect the implicit contract (promises) they have made.
 
 
-| **Role** | **Promises ** |
+| **Role** | **Promises** |
 | --- | --- |
 | The Organization | <ul>                <li>the team that there are stakeholders (including subject matter experts) who will help when needed </li><br>                <li>the team that there are stakeholders (including subject matter experts) who will help when needed </li><br>                <li>they will help the Scrum Master in the removal of impediments to the Scrum team’s progress </li><br>                <li>the team that they will not change priorities or constraints in the middle of a sprint without team’s consent </li><br>                <li>that being on a Scrum team will not hurt the members’ careers </li><br>                <li>not to divert team members to other work on a Scrum Day during a sprint </li><br>            </ul> |
 | Product Owner | <ul>                <li>to supply an initial product backlog </li><br>                <li>to prioritize the product backlog when needed </li><br>                <li>to be responsive to requests for feedback and clarification </li><br>                <li>empowered “voice of the customer” will be provided to answer business domain questions promptly (minutes or hours, not days) </li><br>                <li>to attend every Review, Retrospective </li><br>                <li>not to change priorities or scope during a sprint </li><br>                <li>not to direct team members to do work not agreed and planned at the beginning of the sprint </li><br>            </ul> |

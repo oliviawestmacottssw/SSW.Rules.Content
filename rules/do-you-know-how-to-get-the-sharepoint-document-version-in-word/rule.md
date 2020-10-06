@@ -15,9 +15,9 @@ We are always disappointed when adding version information to a Word document. W
 
 <br>It is possible to get the number into Word for the version of the document on the SharePoint document library.
 
-**Follow the guide here**:     http://www.bryansgeekspeak.com/2009/03/moss-2007-show-sharepoint-version.html
+**Follow the guide here** :     http://www.bryansgeekspeak.com/2009/03/moss-2007-show-sharepoint-version.html
 
-**Note:** This also works in SharePoint 2010 and Office 2010.
+**Note:**  This also works in SharePoint 2010 and Office 2010.
 
 ![Good example, you see the formatted SharePoint version number](VersionInWord.jpg)
 ![](BadVersioning.png)Bad Example

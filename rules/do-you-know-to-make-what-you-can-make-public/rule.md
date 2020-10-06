@@ -19,4 +19,4 @@ As long as there is nothing confidential or NDA in the content, any discussion p
 | ![writing a blog shows both how you deal with mistakes encourages the wider community to contribute with the discussion](RulesBloggingPublicGood.jpg)
 So keep jewels from being left in your inbox. Remember that you are inviting replies, and that the gold in this process.
 
-**Note:** If the discussion is not worth a blog post, then tweet it and link to the rule.
+**Note:**  If the discussion is not worth a blog post, then tweet it and link to the rule.

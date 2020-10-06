@@ -17,7 +17,7 @@ For everyone:
 
 - Less time stuck on a problem - you have someone familiar with the project to help you work through the problem
 - You can keep each other motivated  and you absorb knowledge from each other
-- Experience shows that <br>      **people** are more productive. As per <br>      Strengthening the Case for Pair-Programming
+- Experience shows that <br>       **people**  are more productive. As per <br>      Strengthening the Case for Pair-Programming
 
 
 Extra for developers:
@@ -29,7 +29,7 @@ Extra for developers:
 
 *"I have found developers work better in pairs. I am not a fan of the classical pair programming - which is 2 developers working on the 1 PC. There are times for that especially during brainstorming activities, however on a day-to-day basis, I advise that developers work in pairs, but they each have their own PC."*
 
-**- Adam Cogan**
+ **- Adam Cogan** 
 SSW Chief Architect + Microsoft Regional Director
 
 

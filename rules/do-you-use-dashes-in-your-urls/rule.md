@@ -38,7 +38,7 @@ http://northwind.com/page-on-word-documentation
 Figure: Good example - kebab-case is recommended by Google
 
 
-**Note: **this is only for the pages and documents within a website - not for the domain. Domains are bad when they have "-" in them!
+**Note:** this is only for the pages and documents within a website - not for the domain. Domains are bad when they have "-" in them!
 
 Read more on [SEO 101: Hyphens vs. Underscores in URLs](https://www.seomechanic.com/seo-101-hyphens-underscores-_-urls/)
 
@@ -50,4 +50,4 @@ You can install the IIS [URL Rewrite Module](http://learn.iis.net/page.aspx/460/
 ![Rewrite both the HTML in the page and the incoming URL's to be friendly](friendly-url-rule.jpg)
 The caveat here is that it will only work if the URL is in the clear on the page.
 
-**Note: **This could only be done with certain links as others are postbacks as well.
+**Note:** This could only be done with certain links as others are postbacks as well.

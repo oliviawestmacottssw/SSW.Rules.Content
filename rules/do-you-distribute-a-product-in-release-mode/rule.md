@@ -11,7 +11,7 @@ authors:
 
 ---
 
-We like to have debugging information in our application, so that we can view the line number information in the stack trace. However, we won't release our product in Debug mode, for example if we use "#if Debug" statement in our code we don't want them to be compiled in the release version. If we want line numbers, we simply need **Debugging Information**. You can change an option in the project settings so these will be generated in when using Release build. <br> 
+We like to have debugging information in our application, so that we can view the line number information in the stack trace. However, we won't release our product in Debug mode, for example if we use "#if Debug" statement in our code we don't want them to be compiled in the release version. If we want line numbers, we simply need  **Debugging Information** . You can change an option in the project settings so these will be generated in when using Release build. <br> 
 
 ```
 #if DEBUG MessageBox.Show("Application started"); #endif

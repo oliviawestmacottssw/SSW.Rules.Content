@@ -17,7 +17,7 @@ Figure: Bad example - likely to require later clarification.
 "I want to record my clients' firstname, surname, mobile phone, email address & Instant Messenger address." 
 Figure: Good Example - You'll get exactly what you want. Even better, use screen shots or mock-ups.
 
-**One Email per Item**
+ **One Email per Item** 
 
 
 The best way for this to work is to break tasks into the smallest possible [bite size pieces](/management-do-you-spec-in-bite-sized-pieces) and ensure that those pieces are in the project plan explicitly.

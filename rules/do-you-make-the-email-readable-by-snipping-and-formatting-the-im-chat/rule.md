@@ -18,8 +18,8 @@ Snip the relevant information only. You can do this by:
 3. Adding a line break between people and highlighting the person's name in **BOLD**
 
 
-**
-**
+ **
+** 
 
 
 [[badExample]]

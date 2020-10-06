@@ -57,7 +57,7 @@ Application Insights tracks a lot of metrics in your website but one of the most
 
 ![Breakdown of which browsers are used to access your website](apin4-compressor.png)
 
-**Note: ** Make sure Server Performance Monitoring is set up (currently not available for Azure Websites)
+**Note:**  Make sure Server Performance Monitoring is set up (currently not available for Azure Websites)
 
 
 ![Ensure you complete this process to add Server Monitoring](AnyConnect 1.png)

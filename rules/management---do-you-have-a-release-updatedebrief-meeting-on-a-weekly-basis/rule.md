@@ -39,7 +39,7 @@ There are tools to help you do this:
 ![The actual output of the Release Update Report](ProgressReport_small.jpg)
 Here is a PDF format [SSW Release Update Report.](http://www.ssw.com.au/ssw/AgileTemplate/Sample/Reports.zip)
 
-**If you are at the end of a main section of work, promote your success **
+**If you are at the end of a main section of work, promote your success**
 
 - [Ask for a testimonial for the work you have done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=c14a312e-5c0d-489f-80e1-8722fd99d607)
 - Create a case study and get it approved - This should be a win-win for the client. E.g. [WorleyParsons](https://www.ssw.com.au/ssw/Consulting/Case-Study/WorleyParsons.aspx)

@@ -27,7 +27,7 @@ The main 5 types used are:
 Here’s a quick overview:
 
 
-> | **Technology name:** | **Capitalisation Convention** |
+> | **Technology name:**  | **Capitalisation Convention**  |
 > | --- | --- |
 > | .NET<br><br> | All uppercase<br><br> |
 > | DevOps<br><br> | Pascal case<br><br> |

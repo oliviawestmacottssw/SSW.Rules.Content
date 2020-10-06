@@ -18,22 +18,22 @@ The best way to take this is to reply to the person and tell them the following 
 ### The three A’s:  Acknowledge, Apologize, Act  
 
 
-**A -** The first part of good customer service is **acknowledging** that something happened. If you don't acknowledge the pain, then other person won't know if you agree or not that something is wrong.
+**A -** The first part of good customer service is  **acknowledging**  that something happened. If you don't acknowledge the pain, then other person won't know if you agree or not that something is wrong.
 
-**A-****Apologize** if you messed up… or even if you didn’t. Just be clear you are sorry for their situation. E.g. "I am sorry for the downtime you have been experiencing today"
+**A-****Apologize** if you messed up… or even if you didn’t.   Just be clear you are sorry for their situation. E.g. "I am sorry for the downtime you have been experiencing today"
 
-**A -** Lastly, explain how you will take **action** now, and in the future.
+**A -** Lastly, explain how you will take  **action**  now, and in the future.
 
 Even if you've been wrongly accused of something, you should still show you understand the other person's frustration and demonstrate initiative. Always have a view of the future and the big picture.
 
-**Warning:** When wrongly accused of something, most people get stuck on defending themselves, where customers would prefer to hear you care, will take any ownership of the problem and tell them your plan to fix it. 
+**Warning:**  When wrongly accused of something, most people get stuck on defending themselves, where customers would prefer to hear you care, will take any ownership of the problem and tell them your plan to fix it. 
 Next is to fix it for the future – you could explain the new steps in the process you’ll add or simply say "I'll be more diligent testing in the future".
 
-More: **The 3 A’s of Business** (a great article from American Express)
+More:  **The 3 A’s of Business**  (a great article from American Express)
 https://www.americanexpress.com/en-us/business/trends-and-insights/articles/the-three-as-of-business/
  
-![Make sure you know how to take criticism well ](dilbert-criticism-1.gif)
-![](Defensive behaviour.png)** Figure: Active listening can help with communication issues **
+![Make sure you know how to take criticism well](dilbert-criticism-1.gif)
+![Active listening can help with communication issues](Defensive behaviour.png)
 
 
 

@@ -21,7 +21,7 @@ Ideally SharePoint would be used for all content storage but occasionally it is 
 | ![SharePoint Explorer View requires waiting every time you save a file while it syncs back to the server](share-media-files-1.jpg)
 [[badExample]]
 | ![OneDrive](share-media-files-2.jpg)(was SkyDrive) Pro enables offline access and saves locally and then syncs back to the SharePoint server asynchronously, but requires the whole document library to be brought to the local computer, even if you only need one folder in the document library
-**Suggestion for OneDrive (was SkyDrive) Team #1 : **Enable OneDrive to have selective sync on folders within a document library.
+**Suggestion for OneDrive (was SkyDrive) Team #1 :** Enable OneDrive to have selective sync on folders within a document library.
  
 [[badExample]]
 | ![Files shared via SkyDrive are hard to back up centrally. When you share folders through OneDrive](share-media-files-3.jpg)(was SkyDrive) they are only made available through the web interface
@@ -33,5 +33,5 @@ Having the folder on the remote machine allows remote backup. All folders used f
 The SSW sys-admin is responsible for backing up the SSW Dropbox account daily.
  
 ![To allow you to use Dropbox for work, first create a folder called SSW\_](share-media-files-5.jpg)[YourName] (e.g. SSW\_AdamStephensen), right click on the folder and choose Share this folder... 
-![Add the email address of the company Dropbox account and click Send Invites. Once the Administrator accepts the share, your important work files will be available in the case that you leave or get hit by a bus](share-media-files-6.jpg)
+![Add the email address of the company Dropbox account and click  Send Invites . Once the Administrator accepts the share, your important work files will be available in the case that you leave or get hit by a bus](share-media-files-6.jpg)
 ![The Administrator account must now accept the sharing invitation, and the folder will be added to the Administrators Dropbox folder. The Admin should configure a machine to pull the files locally and back them up](share-media-files-7.jpg)

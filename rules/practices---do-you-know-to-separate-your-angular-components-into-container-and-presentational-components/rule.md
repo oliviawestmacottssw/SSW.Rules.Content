@@ -15,7 +15,7 @@ There are two types of components 'dumb' and 'smart' components. Dumb components
  
 Aiming to keep the components that display data 'dumb' makes them much easy to reuse in your application and less buggy, but many people do not like the terms smart and dumb components as a dumb component may just have less logic versus none. Many people and SSW included are preferring the terms container and presentational components for these reasons.
 
-**company-list-table.component.ts**
+**company-list-table.component.ts** 
 @Component({
     selector: 'fbc-company-list-table',
     template: `

@@ -83,7 +83,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 ![](wrong.gif "clip_image004[5]")Less performance than SQL filter views directly #1 |
 
     #1 Note: Performance could be improved by making the reads from the views and the writes through the web service
-    **More information: **
+    **More information:**
     1. Use BCS in VS 2010
     2. Write code that calls the CRM web services (that access the CRM data)
     3. Test
@@ -103,7 +103,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 ![](wrong.gif "clip_image004[9]")No easy way to consume |
 
     **
-** **Note:** You can really only call the OData endpoint from an application that already has an authentication cookie with the CRM server. 
+****Note:** You can really only call the OData endpoint from an application that already has an authentication cookie with the CRM server. 
 i.e. you can't impersonate and call it like you can the standard WCF endpoints 
 So it is really only suited to calling from Silverlight and JavaScript web resources that are delivered inside CRM (because they have the cookie)
     **More information:**

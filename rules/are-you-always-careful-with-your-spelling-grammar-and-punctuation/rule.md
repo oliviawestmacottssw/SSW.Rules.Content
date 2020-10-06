@@ -23,15 +23,15 @@ When on a web page, [install Grammarly Addon for Chrome](https://chrome.google.c
 ### Documents
 
 
-When on Word, press **F7 **(or on the ribbon go to **Review > Spelling & Grammar**) to check your .docx text.
+When on Word, press  **F7** (or on the ribbon go to  **Review > Spelling & Grammar** ) to check your .docx text.
  
 ![Click on "Spelling & Grammar" button to check your web content](Microsoft-Word-has-a-spelling-and-grammar-checker.jpg)
 ### Presentation
 
-When on PowerPoint , press **F7 **(or on the ribbon go to **Review | Spelling & Grammar**) to check your .pptx text.
+When on PowerPoint , press  **F7** (or on the ribbon go to  **Review | Spelling & Grammar** ) to check your .pptx text.
  
 ![Click on "Spelling" button to check your web content](ppt-review-f7.png)
-You should also keep "Check grammar with spelling" checked in your PowerPoint **Options | Proofing**:
+You should also keep "Check grammar with spelling" checked in your PowerPoint  **Options | Proofing** :
  
 ![Make sure "Check grammar with spelling" is enabled](ppt-check-spelling.png)
 

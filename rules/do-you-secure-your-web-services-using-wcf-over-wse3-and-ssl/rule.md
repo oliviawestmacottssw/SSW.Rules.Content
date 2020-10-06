@@ -15,7 +15,7 @@ authors:
 <br>WCF demonstrated interoperability with using the Web Services Security (WSS) including UsernameToken over SSL, UsernameToken for X509 Certificate and X509 Mutual Certificate profiles. <br> 
 WSE has been outdated and replaced by WCF and has provided its own set of attributes that can be plugged into any Web Service application.
 
-1. **Security** 
+1. **Security**
 Implementation of security at the message layer security has several policies that can suite any environment including:
     1. Windows Token
     2. UserName Token
@@ -25,7 +25,7 @@ Implementation of security at the message layer security has several policies th
 <br>    At SSW we implement UserName Token using the standard login screen that prompts for a Username and a Password, which then gets passed into the SOAP header (at message level) for authorization.
 <br>    This requires SSL which provides a secure tunnel from client to server.
 <br>    However, message layer securtiy does not provide authentication security, so it does not stop the ability for a determined hacker to try user name / password attempts forever. Custom Policies setup at Application Level can to prevent brute force.
-2. **Performance** 
+2. **Performance**
 <br>    Indigo has got the smarts to negotiate to the most performant serialization and transport protocol that either side of the WS conversation can accommodate, so it will have the best performance having "all-things-being-equal". You can configure the web services SSL session simply in the web.config file.
 <br>    After having Configure an SSL certificate (in the LocalMachine store of the server), the following lines are required in the web.config:
 

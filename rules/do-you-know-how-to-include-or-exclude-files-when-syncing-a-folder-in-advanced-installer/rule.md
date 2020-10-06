@@ -15,10 +15,10 @@ If you are syncing your Application Folder (or any other) with a local folder on
 
 Here is how you do it:
  
-1. Right click the <br>      **Application Folder** and choose <br>      **Properties**
-2. Click on Filters button to open the <br>      **Edit Filters** dialog
-3. Click on <br>      **New** button to create Include pattern. Alternatively you can switch to <br>      **Exclude Filters** tab
-4. Enter the Pattern and press <br>      **OK** on each screen
+1. Right click the <br>       **Application Folder**  and choose <br>       **Properties**
+2. Click on Filters button to open the <br>       **Edit Filters**  dialog
+3. Click on <br>       **New**  button to create Include pattern. Alternatively you can switch to <br>       **Exclude Filters**  tab
+4. Enter the Pattern and press <br>       **OK**  on each screen
 
 
 ![Edit Filters dialog](installers-include-exclude-1.jpg)

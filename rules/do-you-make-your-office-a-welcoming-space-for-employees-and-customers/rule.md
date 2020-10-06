@@ -17,7 +17,7 @@ Here is a sample DailyOps Checklist. It is all about the experience.
  
 
 
-1. **IMPORTANT:** Ensure your office is open and closed on time as per your advertised business hours.  The start time of the first and last time should be in sync with your Google Maps account at https://maps.google.com
+1. **IMPORTANT:**  Ensure your office is open and closed on time as per your advertised business hours.  The start time of the first and last time should be in sync with your Google Maps account at https://maps.google.com
 2. Ensure your office is clean and tidy. The first person in should do a walk through to check on the evening cleaner
 3. Perform a client ready walk through each day. It is all about the experience.
     1. Pretend you are a client walking through the office

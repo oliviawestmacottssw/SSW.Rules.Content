@@ -41,7 +41,7 @@ ECHO Templates Copied
 Figure: This is a snippet of our login script
  
 
-**Note:** We don't want people using .RTF emails so we include this message in SSW.rtf. Be aware that we don't want to use RTF because of [Remove RTF as an option or explain when it is a good choice](https://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/Outlook.aspx#RemoveRTF).
+**Note:**  We don't want people using .RTF emails so we include this message in SSW.rtf. Be aware that we don't want to use RTF because of [Remove RTF as an option or explain when it is a good choice](https://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/Outlook.aspx#RemoveRTF).
 
 For more information on why we need to modify the Normal.dotm, you can access the website [http://office.microsoft.com/en-us/word/HA100307561033.aspx](https://www.ssw.com.au/ssw/Redirect/Microsoft/MSOfficeNormalTemplate.htm).
 
@@ -51,7 +51,7 @@ For more information on why we need to modify the Normal.dotm, you can access th
 
 
 
-**Tip:** You can automatically have your SSW Word doc template on sign-in via a script. See https://github.com/SSWConsulting/LoginScript.
+**Tip:**  You can automatically have your SSW Word doc template on sign-in via a script. See https://github.com/SSWConsulting/LoginScript.
 
 ### Related Rule 
 

@@ -44,10 +44,10 @@ The purpose is to understand the whole project but, if the project is greater th
 ### Talk about business requirements
 
 
-- **Conduct Workshops: **Conduct workshops with different groups of users (e.g. management, back office, customer service) to build the "Product Backlog" which the business wants. This ensures that all users get their say. Some "nice-to-haves" might actually be quite easy to implement. Product Backlog Items can then be prioritized and fleshed out.
-- **Review Documentation: **Reviewing any documentation the client may already have. Remember clients are mostly looking to software consultants to assist them in solving business problems.
-- **Keep Technology discussions short: **Unless they have a specific business purpose, detailed discussions about technology with the client are unlikely to be useful. For example, most clients won't be interested in a discussion about whether to use MVC or Angular at this stage.
-- **Identify an MVP: **Most client can't afford everything they want, so make sure you're keeping track of the minimum we can do to deliver value.
+- **Conduct Workshops:** Conduct workshops with different groups of users (e.g. management, back office, customer service) to build the "Product Backlog" which the business wants. This ensures that all users get their say. Some "nice-to-haves" might actually be quite easy to implement. Product Backlog Items can then be prioritized and fleshed out.
+- **Review Documentation:** Reviewing any documentation the client may already have. Remember clients are mostly looking to software consultants to assist them in solving business problems.
+- **Keep Technology discussions short:** Unless they have a specific business purpose, detailed discussions about technology with the client are unlikely to be useful. For example, most clients won't be interested in a discussion about whether to use MVC or Angular at this stage.
+- **Identify an MVP:** Most client can't afford everything they want, so make sure you're keeping track of the minimum we can do to deliver value.
 
 
 ### Do something valuable 
@@ -90,10 +90,10 @@ The Consultant must run a [test please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3d
 
 You want to have all the required work for a spec review done within the allocated time, so it’s important you leave time to implement the required changes after you present and before you email the final version.
 
-**9 am:   **   Meet with the client and discuss requirements
-**11 am:  **  Start work on the backlog and the PPT or Word Doc
-**3 pm:   **   Present to the client and gather feedback for changes
-**5 pm: **     Implement changes
-**6 pm:  **    Send “As per our conversation” with Word or PPT attachment
+**9 am:**    Meet with the client and discuss requirements
+ **11 am:**   Start work on the backlog and the PPT or Word Doc
+ **3 pm:**    Present to the client and gather feedback for changes
+ **5 pm:**      Implement changes
+ **6 pm:**     Send “As per our conversation” with Word or PPT attachment
 
 In a 2 or 3-day spec review, you should assume you’ll need more time to implement changes, so push the presentation time forward to 2 pm.

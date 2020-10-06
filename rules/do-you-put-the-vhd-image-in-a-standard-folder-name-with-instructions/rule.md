@@ -12,10 +12,10 @@ authors:
 When you do a lot of presenting on your laptop it is good to have a standard location to keep your VHD and instructions.
 
 - Give the VHD the name of what the demo is for and a version number for the image.
-**Example: **SharePoint2010\_v2.vhd
+**Example: ** SharePoint2010\_v2.vhd
 - Use “RC” or “Beta” on the filename if your software is an RC or Beta Version
-**Example: **SharePoint2010RC\_v1.vhd
+**Example:** SharePoint2010RC\_v1.vhd
 - Store the VHD Image in a folder called DataVMs\VHDName\VHDName.vhd
-**Example: **D:\DataVMs\SharePoint2010\_v2 \SharePoint2010\_v2.vhd
+**Example:** D:\DataVMs\SharePoint2010\_v2 \SharePoint2010\_v2.vhd
 - Keep an instructions.txt in the same folder as the VHD with any instructions for the VHD and the username and password to log into the VHD.
-**Example: **D:\DataVMs\SharePoint2010\_v2 \instructions.txt
+**Example:** D:\DataVMs\SharePoint2010\_v2 \instructions.txt

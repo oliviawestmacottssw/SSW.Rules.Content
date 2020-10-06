@@ -16,7 +16,7 @@ authors:
 [[goodExample]]
 | ![using the Date Format with 'ddd'](GoodDateFormat.gif)
 
-**How do you do this ?**
+**How do you do this ?** 
   By default, the date type column only have two format options:
 
 

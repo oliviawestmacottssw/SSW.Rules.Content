@@ -13,7 +13,7 @@ authors:
 
 The use of standardized AD Group names is a simple yet crucial step towards building more manageable software. Raining in on the number of AD Groups used by an application will make it simpler to manage and allow new developers to pick up an existing project faster.
  
-** You can save yourself countless confused conversations by standardizing AD Group Names. **
+**You can save yourself countless confused conversations by standardizing AD Group Names.**
 
 For example: This is a list of AD groups associated with products.
 
@@ -30,9 +30,9 @@ SSWSugarLearning
  Figure: Good Example – By standardizing the names of AD groups it saves confusion
 
 **
-Note: **For large organizations, a better way is to use a type of group (eg. Local or Global)… then the entity it is associated to… then the resource (or service).
+Note: ** For large organizations, a better way is   to use a type of group (eg. Local or Global)… then the entity it is associated to… then the resource (or service).
 
-**E****xample**** #1:**
+**E****xample****#1:**
 
 L-LocalGroupName-
    SYD-EntityName-
@@ -40,7 +40,7 @@ L-LocalGroupName-
 
 That becomes “L-SYD-SP-SSW-Users"
 
-**E****xample**** #2:**
+**E****xample****#2:**
 
 G-GlobalGroupName-
    SYD-EntityName-

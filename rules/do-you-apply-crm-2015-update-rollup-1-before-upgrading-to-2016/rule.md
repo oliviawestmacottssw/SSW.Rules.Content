@@ -11,12 +11,12 @@ authors:
 
 Make sure CRM 2015 update rollup 1 has been applied before upgrading to CRM 2016.
   
-![version after applying CRM 2015 update rollup 1  Note: You might come accross the error below while applying CRM 2015 update rollup 1](updaterollup1.png)
+![version after applying CRM 2015 update rollup 1Note:  You might come accross the error below while applying CRM 2015 update rollup 1](updaterollup1.png)
 
 | Database update install failed for orgId = 011d5962-3475-4df9-a123-c3ecaf88b048.  Continuing with other orgs.  Exception: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Data.SqlClient.SqlException: The current transaction cannot be committed and cannot support operations that write to the log file. Roll back the transaction.<br><br>Uncommittable transaction is detected at the end of the batch. The transaction is rolled back. |
 | --- |
 
- **Solution:** 
+**Solution:**
 1. Make a backup of the file MetadataDiffs.xml from “C:\Program Files\Microsoft Dynamics               CRM\Setup\Serviceability\Latest\Actions\_Org\Install”
 2. Open the file MetadataDiffs.xml from “C:\Program Files\Microsoft Dynamics CRM\Setup\Serviceability\Latest\Actions\_Org\Install”
 3. Remove the entry about the index “cndx\_BusinessDataLocalizedLabel”. This is found at the very end of the file:

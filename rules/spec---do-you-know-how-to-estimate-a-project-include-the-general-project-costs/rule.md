@@ -20,7 +20,7 @@ Estimates contain two main classes of work: Work relating to the particular pr
 PBIs may only make up about 60% of the total project time. Project Managers and developers should not think that the only work being charged on a project are coding tasks.
  
 **General Project Costs 
-**Management costs can change depending on how much management the client requires. You should recommend a suitable level of management. 'Management, accountability and transparency' has a cost.
+** Management costs can change depending on how much management the client requires. You should recommend a suitable level of management. 'Management, accountability and transparency' has a cost.
 
 You should add general project costs as a % of the work items generally in line with the following (note that these numbers are just best guesses):
 
@@ -33,7 +33,7 @@ You should add general project costs as a % of the work items generally in line 
 - Unknowns (for risky projects): 10%. While this is arbitrary it raises awareness for everybody that 'there are things we still don't know!'
 
 
-**Project Specific Costs **
+**Project Specific Costs**
 
 Estimates for a project should be done by a developer, checked by another developer, and finally triple checked by an Account Manager. While every project is different in some way, there are common elements.
 

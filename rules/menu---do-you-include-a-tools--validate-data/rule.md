@@ -11,8 +11,8 @@ A common oversight is applications don't check for invalid data. You should add 
  
 So when you add business rules to the middle tier, consider scenarios such as importing data and any other areas that side step business rules. Therefore we always make validate queries that if they return records, they must be fixed. Examples are:
 
-- For SQL Server we use **vwValidateClient\_MustHaveACategoryID**, or **procValidateClient\_MustHaveACategoryID**
-- For Access we use **qryValidateClient\_MustHaveACategoryID**
+- For SQL Server we use  **vwValidateClient\_MustHaveACategoryID** , or  **procValidateClient\_MustHaveACategoryID**
+- For Access we use  **qryValidateClient\_MustHaveACategoryID**
 
 
 [[goodExample]]

@@ -17,7 +17,7 @@ The best approach of setting up Application Insights in SharePoint is a bit dif
 
 With a web application you are developing you have full control of web.config and have access to it in your Visual Studio project, and can follow "[How to set up Application Insights](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=68f64a3a-78ec-49f6-87ed-7ee92af1c809)" to set up Application Insights. This way Visual Studio will do all the modifications for you automatically.
 
-But when you develop on SharePoint, you **do not** have a full copy of web.config in your Visual Studio project, the web.config will be initialized on the SharePoint server when a new SharePoint site is created. This means Visual Studio cannot be used to update the web.config for you. Although you can modify SharePoint web.config via coding, that involves lots of development and testing work against your SharePoint server.
+But when you develop on SharePoint, you  **do not**  have a full copy of web.config in your Visual Studio project, the web.config will be initialized on the SharePoint server when a new SharePoint site is created. This means Visual Studio cannot be used to update the web.config for you. Although you can modify SharePoint web.config via coding, that involves lots of development and testing work against your SharePoint server.
 
 The best process to implement Applications Insights in SharePoint can be split into two parts:
 

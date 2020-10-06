@@ -16,8 +16,8 @@ Installing MS Lync client on Andriod devices. Employees should be contactable no
 3. Set up Lync to sign into your account as follows:<br>
 ![Lync sign in process    You just need to enter 3 fields:](lync-signin.png)
 
-    - Sign in address is** your email address**
-    - Password is <br>      **your AD password**
+    - Sign in address is **your email address**
+    - Password is <br>       **your AD password**
     - Username is domain\username. For example SSW2000\davidberkes
 
 

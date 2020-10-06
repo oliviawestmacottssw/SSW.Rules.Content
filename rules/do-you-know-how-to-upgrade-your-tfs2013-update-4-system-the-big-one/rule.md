@@ -34,7 +34,7 @@ d.              Make sure you have access to coffee while it's upgrading your Pr
 
 ![Wait for the Project Collection upgrade to complete](coffee2.png)
 
-** **
+
 
 **
 ![](success.png)
@@ -42,7 +42,7 @@ d.              Make sure you have access to coffee while it's upgrading your Pr
 
 **Figure: TFS Upgrade wizard success!**
 
-** **
+
 
 Now you're almost done! That covers the core upgrade of your TFS server, your TFS configuration database, and Project Collections.
 

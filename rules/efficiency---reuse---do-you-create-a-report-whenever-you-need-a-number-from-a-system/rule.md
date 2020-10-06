@@ -15,7 +15,7 @@ If you found yourself doing ad-hoc reports, or random SQL queries, a few years a
 
 Since 2015, the best practice is instead to jump into Power BI and build the report yourself.
 
-**Subject: Report needed**
+**Subject: Report needed** 
 
 Dear boss,
 

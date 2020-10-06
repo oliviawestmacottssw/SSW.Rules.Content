@@ -51,12 +51,12 @@ Don't send the newsletter from your own PC. Use a VM or the SendGrid integration
 
 
 
-1.   Go to  **Main | Marketing | Marketing Lists**
+1.   Go to   **Main | Marketing | Marketing Lists**
 
 ![This is where you can find your Marketing Lists in Microsoft Dynamics CRM 2016](Go-To-Marketing-Lists.jpg)
 2.   Open the Marketing List you want to send the newsletter to by clicking on it (you should be using a dynamic list)
 
-3.   Go to **... | Mail Merge on List Members**  (in the menu bar)
+3.   Go to  **... | Mail Merge on List Members**   (in the menu bar)
 
 ![Click the ellipsis button to reveal the Mail Merge option](Go-To-Mail-Merge-On-List-Members.jpg)
 4.   Select Email as the mail merge type, choose your starting document, (optional) select data fields to use, and download the .docx
@@ -68,14 +68,14 @@ Don't send the newsletter from your own PC. Use a VM or the SendGrid integration
 
 
 ![Follow these steps to start working on the mail merge](Set-Up-Word-Document.jpg)
-6.   Exclude contacts and press **OK**
+6.   Exclude contacts and press  **OK**
 
 ![Choose the recipients for your mail merge and proceed](Select-Contacts.jpg)
 7.   Copy and paste your newsletter from Internet Explorer to Word (IE because it seems to not break the style)
 
-For a nicer editing experience (especially with HTML newsletter), switch to the Web Layout view by clicking **View | (Views) | Web Layout **in the ribbon bar.
+For a nicer editing experience (especially with HTML newsletter), switch to the Web Layout view by clicking  **View | (Views) | Web Layout** in the ribbon bar.
 
-8.   If necessary, go to **File | (Info) | Convert**  to update the Word document to the newest version - this will solve styling issues while not breaking the mail merge
+8.   If necessary, go to  **File | (Info) | Convert**   to update the Word document to the newest version - this will solve styling issues while not breaking the mail merge
 
 ![Convert the mail merge document to the newest version](Convert-Document.jpg)
 9.   Modify and run the following macro to replace the word "UNSUBSCRIBE" in the newsletter with a custom hyperlink.
@@ -177,7 +177,7 @@ End Sub
 
 
 > If you are using mail merge fields, like the contact names, you should preview your message for some contacts. 
-![](Verify-Changes.jpg)** Figure: The highlighted part will change for every recipient**
+![The highlighted part will change for every recipient](Verify-Changes.jpg)
 
  
 

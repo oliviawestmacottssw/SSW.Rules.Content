@@ -22,4 +22,4 @@ E.g. SugarLearning – Sugar  &gt; Xue Ge  &gt;  雪鸽（Snow Pigeon ）
 
 E.g. Microsoft, Micro & Soft  ›  Wei & Ruan  ›  Weiruan  ›  微软
 
-**Warning:** Be careful with meanings. **Mercedes Benz** originally could be "Bensi" ("rush to die" in Chinese); so they changed to "Benchi" ("run quickly", like flying)
+**Warning:**  Be careful with meanings.  **Mercedes Benz**  originally could be "Bensi" ("rush to die" in Chinese); so they changed to "Benchi" ("run quickly", like flying)

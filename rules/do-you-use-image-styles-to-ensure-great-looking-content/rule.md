@@ -15,7 +15,7 @@ A good technique is to set a CSS style to images. This style will be consistent 
 | ![The image has no styles](imageWithoutStyles.jpg)
 [[goodExample]]
 | ![The image has CSS driven margin, padding, borders](imageWithStyles.jpg)
-It's also important to choose the correct semantic formatting for images. Different HTML codes might give the same look and feel, but the best way to add images to your page is using     ,      and      tags.
+It's also important to choose the correct semantic formatting for images. Different HTML codes might give the same look and feel, but the best way to add images to your page is using       ,        and        tags.
 
 
 ```

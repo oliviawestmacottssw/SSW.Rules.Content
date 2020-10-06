@@ -7,13 +7,13 @@ authors: []
 
 ---
 
-> **Line graph**
+> **Line graph** 
 > Line graphs are used to track changes over short  and long periods of time. When smaller changes exist, line graphs are  better to use than bar graphs. Line graphs can also be used to compare  changes over the same period of time for more than one group.
 > 
-> **Pie Chart**
+> **Pie Chart** 
 > Pie charts are best to use when you are trying to compare parts of a whole. They do not show changes over time.
 > 
-> **Bar Graph**
+> **Bar Graph** 
 > Bar graphs are used to compare things between  different groups or to track changes over time. However, when trying to  measure change over time, bar graphs are best when the changes are  larger.
 > [https://nces.ed.gov/nceskids/help/user\_guide/graph/whentouse.asp](https://nces.ed.gov/nceskids/help/user_guide/graph/whentouse.asp)
 

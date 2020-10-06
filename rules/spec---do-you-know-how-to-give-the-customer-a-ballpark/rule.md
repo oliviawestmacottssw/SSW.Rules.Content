@@ -28,7 +28,7 @@ Here are the 8 steps:
 2. Open Excel and connect to the above Backlog
 3. In Excel, add a column called "Hours"
 Note: Once we move to estimating in time, this is no longer Scrum.
-4. In Excel, copy this list and paste into another spreadsheet called the [Estimates Calculator](/Documents/4.%20Estimates%20Calculator.xlsx?d=w6f09d6a75d074fbda81e5e5dd3e18c76), in order to add all of the extra items (testing, DevOps, Project management, etc.). **See below for how to use this.**
+4. In Excel, copy this list and paste into another spreadsheet called the [Estimates Calculator](/Documents/4.%20Estimates%20Calculator.xlsx?d=w6f09d6a75d074fbda81e5e5dd3e18c76), in order to add all of the extra items (testing, DevOps, Project management, etc.).  **See below for how to use this.** 
 Note: It would be great if TFS (or visualstudio.com) had functionality to add [standard items to a Sprint](http://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/TeamFoundationServer.aspx#StandardItems)
 5. Run a [Test Please](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28) on the numbers
 6. Add this spreadsheet to your specification review document

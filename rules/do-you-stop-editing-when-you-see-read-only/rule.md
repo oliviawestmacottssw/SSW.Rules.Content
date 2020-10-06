@@ -18,7 +18,7 @@ When editing a .doc file in a SharePoint document library, you need to always �
 ![Click “Check Out” to edit the document in TFS](SharepointWord1.jpg)
 
 
-![When you click “yes”, expect a 2nd dialog](SharepointWord2.jpg)(for SharePoint controlled docs)** 
+![When you click “yes”, expect a 2nd dialog](SharepointWord2.jpg)(for SharePoint controlled docs)**
 
 
 ![Good – the dialog you should always get on saving](SharepointWord3.jpg)

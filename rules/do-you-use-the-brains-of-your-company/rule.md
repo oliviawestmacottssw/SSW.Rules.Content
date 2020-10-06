@@ -69,18 +69,18 @@ I’m really excited about our brainstorming day! I hope you’re all thinking a
 See video on:     [https://rules.ssw.com.au/do-you-use-the-brains-of-your-company](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0ce40380-0daa-4f75-b289-de8f7de6683e)
  
 
-**Agenda**
+**Agenda** 
 
-**Friday 29th of November **
+ **Friday 29th of November** 
 
-**9:00am** – Meet upstairs in Suite 15        
-**9:30am** – Discuss items to work on & vote        
-**10am** – Start work on your fave tech project (in groups)        
-**10.30am** – Coffee order        
-**1pm** – Lunch        
-**2pm** – Continue work        
-**4pm** - Presentations        
-**6pm** – The pub
+ **9:00am**  – Meet upstairs in Suite 15        
+**9:30am**  – Discuss items to work on & vote        
+**10am**  – Start work on your fave tech project (in groups)        
+ **10.30am**  – Coffee order        
+**1pm**  – Lunch        
+**2pm**  – Continue work        
+**4pm**  - Presentations        
+**6pm**  – The pub
 [Good Example: Email template for brainstorming attendees
 **2. Setup Trello**](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0ce40380-0daa-4f75-b289-de8f7de6683e)
 [Use Trello to manage and vote on the suggestions, using the](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0ce40380-0daa-4f75-b289-de8f7de6683e)[voting Power-Up](https://trello.com/power-ups/55a5d917446f517774210013/voting). First add the voting Power-Up, then set up your board for the day:
@@ -99,7 +99,7 @@ During the session, you will populate these lists with the input from the attend
 
 
 
-**3. Pre-cooked suggestions**
+**3. Pre-cooked suggestions** 
 
 
 
@@ -121,13 +121,13 @@ On the day, follow the agenda set out in your attendee email:
 - Vote: invite attendees to vote via Trello for the suggestion they would most like to see implemented at your company. Depending on the size of your team, you may choose to allow each attendee 3 votes.
 Eg. "Guys, you've got 5 minutes to get your 3 votes in"
 - Vote Results: after the votes are in, you can reveal the top voted suggestions. The attendees then break into smaller groups and set to work building a prototype or proof of concept. 
-**TIP:** The moderator can decide which suggestions are viable and invite attendees to self-organise
+ **TIP:**  The moderator can decide which suggestions are viable and invite attendees to self-organise
 - 1pm: Give the attendees a break for lunch.
 - 4pm: Attendees come back in, and each group takes turns presenting their work to the rest of the attendees.
 
 
 
-**NOTE**: The top voted suggestion may not be technical, and the prototype or proof of concept doesn't have to be a technical solution. It coud very well be a protoype applciation or website, but equally could be a new business process or a video.
+**NOTE** : The top voted suggestion may not be technical, and the prototype or proof of concept doesn't have to be a technical solution. It coud very well be a protoype applciation or website, but equally could be a new business process or a video.
 
 
 

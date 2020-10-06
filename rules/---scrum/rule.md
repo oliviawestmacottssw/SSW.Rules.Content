@@ -27,20 +27,20 @@ authors:
 
 
 
-**视频：微软的每日Scrum会议(短)** 
+ **视频：微软的每日Scrum会议(短)**  
 
 
-**
+ **
 
 
 
 
 
-****视频: 微软的每日Scrum会议(长)**
+**  **视频: 微软的每日Scrum会议(长)** 
 
-** **
+  
 
-**牢记：**
+ **牢记：**
       “只要能遵循Scrum价值，改变Scrum是可以的，实际上为了成功，这也是有必要的。”
 
 -Stephen Forte
@@ -61,9 +61,9 @@ authors:
 建议 2：在墙上贴一张每日Scrum会议的日程表(+ 在OutLook中设置一个预约)
 
 
-Hi ,
+Hi   ,
 
-根据我们的讨论，>的每日Scrum会议在每个工作日的11:00AM(悉尼时间)在<**地点>**举行。
+根据我们的讨论，  >的每日Scrum会议在每个工作日的11:00AM(悉尼时间)在< **地点>** 举行。
 
 根据以下规则，它持续时间最长为15分钟
 
@@ -73,7 +73,7 @@ Hi ,
 
 
 谢谢,
- 
+  
 
 示例：在Outlook中设置每日Scrum会议预约模板
 
@@ -101,7 +101,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 
 
 ![](tfspreviewtaskboard.png)  
-**图：TFS ****Preview****中的任务板****(TFS 2012)**
+**图：TFS **       **Preview** **中的任务板**        **(TFS 2012)**
 
 **
 建议**** 8：****带上纸和笔**
@@ -117,11 +117,11 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 
 ![](ProductOwnerTelephone.jpg)
 
-**图：****通常****Product**** ****Owner****不会在****Scrum****会议中，但是如果你遇到一个障碍，给****Product**** ****Owner****打一个电话。如果你在上一周没有与他接触，那么与****Product**** ****Owner****交流就变的非常重要。与****Product**** ****Owner****失去联系是项目垮掉的一个信号****。
+**图：** **通常** **Product**       ** **       **Owner** **不会在** **Scrum** **会议中，但是如果你遇到一个障碍，给** **Product**       ** **       **Owner** **打一个电话。如果你在上一周没有与他接触，那么与** **Product**       ** **       **Owner** **交流就变的非常重要。与** **Product**       ** **       **Owner** **失去联系是项目垮掉的一个信号**       **。
 
 **
 
-**建议 11：如何将Scrum会议填入你的工时表中？**
+**建议 11： 如何将 Scrum 会议填入你的工时表中？ **
 
 一旦你完成了Scrum会议，在你的工时表中添加'S'（ [SSW建议:更好的填写工时表](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTimesheets.aspx)）
 

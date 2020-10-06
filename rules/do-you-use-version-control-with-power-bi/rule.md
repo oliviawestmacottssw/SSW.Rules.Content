@@ -33,9 +33,9 @@ If the pbix file size is not too large, you may choose to store it directly in s
 Here’s the pros and cons we’ve found for each file type:
 
  
-**Template pbit files** are small, but when you open a template in Power BI Desktop, the dataset needs to reload.  If the changes you need to make to a report are small, waiting for a dataset reload can be frustrating (e.g. waiting 10 minutes for the reload to do a one-minute change). The Power BI pbix file will still be required to publish to Power BI Online.
+**Template pbit files**  are small, but when you open a template in Power BI Desktop, the dataset needs to reload.  If the changes you need to make to a report are small, waiting for a dataset reload can be frustrating (e.g. waiting 10 minutes for the reload to do a one-minute change). The Power BI pbix file will still be required to publish to Power BI Online.
 
-**Power BI pbix files** can get very large, but when you open them, the data is there and you can immediately make changes to the report. However, if your workplace is geographically dispersed, then upload and download times to/from source control will be a consideration.
+**Power BI pbix files**  can get very large, but when you open them, the data is there and you can immediately make changes to the report. However, if your workplace is geographically dispersed, then upload and download times to/from source control will be a consideration.
 
 Having a mixed set of rules for storing different file types based on their size will quickly get messy if you have a number of reports, so make a decision to go one way or the other based on your environment.
 

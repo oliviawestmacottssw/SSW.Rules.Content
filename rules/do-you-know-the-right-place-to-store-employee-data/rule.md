@@ -34,7 +34,7 @@ Companies want bots to answer more than just simple questions. If you have rich 
 Then other external systems such as the public employee pages, Power BI reports and bots can query Dynamics 365 directly.
 
 
-**Note:** you cannot use https://www.hyperfish.com (as it would be overwritten)
+**Note:**  you cannot use https://www.hyperfish.com (as it would be overwritten)
 
 **Note:** Delve profile pages can only read from user profiles. Delve is a nice UI over User Profiles, but it should not be mandated to use. You will find it will not be heavily used.
 

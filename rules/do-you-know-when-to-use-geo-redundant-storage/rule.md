@@ -16,7 +16,7 @@ Data in Azure Storage accounts is protected by replication. Deciding how far to 
 
 **Locally redundant storage (LRS)**
 
-- Maintains three copies of your data.
+- Ma  intains three copies of your data.
 - Is replicated three times within a single facility in a single region.
 - Protects your data from normal hardware failures, but not from the failure of a single facility.
 - Less expensive than GRS
@@ -31,15 +31,15 @@ Data in Azure Storage accounts is protected by replication. Deciding how far to 
 
 - The default when you create it storage accounts.
 - Maintains six copies of your data.
-- Data is replicated three times within the primary region, and is also replicated three times in a secondary region hundreds of miles away from the primary region
+- D  ata is replicated three times within the primary region, and is also replicated three times in a secondary region hundreds of miles away from the primary region
 - In the event of a failure at the primary region, Azure Storage will failover to the secondary region.
 - Ensures that your data is durable in two separate regions.
 - Use when:
     - o Data cannot be recovered if lost
 
-**Read access geo-redundant storage (RA-GRS).** 
+**Read access geo-redundant storage (RA-GRS).**  
 - Replicates your data to a secondary geographic location (same as GRS)
-- Provides read access to your data in the secondary location
+- P  rovides read access to your data in the secondary location
 - Allows you to access your data from either the primary or the secondary location, in the event that one location becomes unavailable.
 - Use when:
     - o Data is critical, and access is required to both the primary and the secondary regions

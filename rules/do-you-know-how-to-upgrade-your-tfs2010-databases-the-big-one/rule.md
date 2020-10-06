@@ -56,7 +56,7 @@ These are the steps to migrate and upgrade to a new environment:
 23. Confirm the details on the Summary page and click Verify
 
 ![](tfs_summary.png)
-**Note:** At this point, you may be asked to reboot and start the wizard again.  Don't despair - it's quicker the second time!
+ **Note:**  At this point, you may be asked to reboot and start the wizard again.  Don't despair - it's quicker the second time!
 24. Once you have all green ticks, click Configure
 
 ![](tfs_final_configure.png)
@@ -70,4 +70,4 @@ These are the steps to migrate and upgrade to a new environment:
 28. Change the DNS entries for your TFS server to point to the new TFS 2012 server
 
 ![](tfs_dns.png)
-**Note:** It's a good idea to get the SysAdmins involved at this stage
+ **Note:**  It's a good idea to get the SysAdmins involved at this stage

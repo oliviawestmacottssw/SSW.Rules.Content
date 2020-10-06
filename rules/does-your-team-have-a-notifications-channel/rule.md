@@ -47,11 +47,11 @@ A majority of these notifications can be created using the connectors that are b
 
 
 
-![](Connector-Settings.png)**
-**
+![](Connector-Settings.png) **
+** 
 
 
-**Figure: The configuration page for the RSS Connector that notifies of a new video being uploaded to the SSW TV Youtube channel with a name that describes what it does.**
+ **Figure: The configuration page for the RSS Connector that notifies of a new video being uploaded to the SSW TV Youtube channel with a name that describes what it does.** 
 
 
 
@@ -64,7 +64,7 @@ Sometimes you may have to choose between multiple connectors that can serve the 
 
 
 [[badExample]]
-| ![There is no thumbnail and no link to the video.](Notification-Bad-Example.png)(It is nice that you can add custom text – inside the 2 emoijs)**
+| ![There is no thumbnail and no link to the video.](Notification-Bad-Example.png)(It is nice that you can add custom text – inside the 2 emoijs)** 
 
 
 

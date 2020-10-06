@@ -23,8 +23,8 @@ You should use Device Mode & Mobile Emulation in the Chrome browser to make a vi
 
 [[goodExample]]
 | ![Using Device Mode & Mobile Emulation in Chrome makes it clear the video is a mobile phone demo.](Mobilephone-emulator-chrome.jpg)
-**Steps to make a good mobile phone video demo:
-**
+ **Steps to make a good mobile phone video demo:
+** 
 
 1. Use Device Mode & Mobile Emulation in Chromes Dev tools. You can watch or read a great intro to this tool on the [Chrome Developer Website](https://developer.chrome.com/devtools/docs/device-mode)
 2. Choose the mobile phone size you want to emulate.
@@ -35,13 +35,13 @@ You should use Device Mode & Mobile Emulation in the Chrome browser to make a vi
 5. You can directly upload your video to YouTube from Camtasia by clicking on share in the main menu and entering your credentials.
 
 
-**Example video**
+ **Example video** 
 
-You can watch an example of a video shot of an emulated mobile view using these toolsdescribed in this article [here.](https://www.youtube.com/watch?v=eyiqryb5y1Y) **
-****
-**
+  You can watch an example of a video shot of an emulated mobile view using these toolsdescribed in this article [here.](https://www.youtube.com/watch?v=eyiqryb5y1Y)  **
+**  **
+** 
 
-**Additional resources**
+ **Additional resources** 
 
 
 - [Camtasia video tools](http://www.techsmith.com/camtasia.html)

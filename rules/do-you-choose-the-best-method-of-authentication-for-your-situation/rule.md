@@ -42,18 +42,18 @@ Without the answers to these questions, it will be difficult to choose the right
 
 **Example Template to Customer:**
 
-**Scenario:**
+**Scenario:** 
 Scope - You are building a consumer facing service that will have multiple clients, including a [SPA](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/november/asp-net-single-page-applications-build-modern-responsive-web-apps-with-asp-net) and a mobile app.     
 Social - You want to allow your users to sign up with their social identities (Google, Facebook, Twitter, etc.) but want to allow them to create an account with you if they don't have a social login or don't want to use it.     
 All users will have the same level of access once logged in.     
 Volume - You anticipate 20,000 active users.     
 MFA - You would like to allow users to enable MFA.     
 
-**Your choices:**
-**Option A **(Recommended) - Azure AD B2C - B2C provides all of the functionality you need and is free for up to 50,000 monthly users.
-**Option B** - Auth0 - Auth0 will meet most of these requirements, however your volume of users will exceed the free tier and you don't need the additional functionality of the paid tier.     
-**Option C** - Identity Server     - This would work but as it doesn't include MFA this would need to be provided via an additional service. Also due to your expected volume of users you would need to manage scaling for this yourself.
-**Good Example: The chosen solution meets the requirements and is highlighted as per [Do you manage up?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ba07b0d2-ccce-4584-a636-f3a5d9bec2cf)**
+ **Your choices:** 
+ **Option A** (Recommended) - Azure AD B2C   - B2C provides all of the functionality you need and is free for up to 50,000 monthly users.  
+ **Option B**  - Auth0   - Auth0 will meet most of these requirements, however your volume of users will exceed the free tier and you don't need the additional functionality of the paid tier.     
+**Option C**  - Identity Server       - This would work but as it doesn't include MFA this would need to be provided via an additional service. Also due to your expected volume of users you would need to manage scaling for this yourself.
+**Good Example: The chosen solution meets the requirements and is highlighted as per [Do you manage up?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ba07b0d2-ccce-4584-a636-f3a5d9bec2cf)  ** 
 
 ###  Internal Applications
 
@@ -63,26 +63,26 @@ MFA - You would like to allow users to enable MFA.
 
 **Example Template to Customer:**
 
-**Scenario:**
+**Scenario:** 
 Scope - You have an internal enterprise application, which will support approximately 1,000 users.     
 You already have Active Directory in place, and are syncing with an Azure AD tenant.     
 Your users will need to access this application from anywhere.     
 MFA - As per your company security policy, you must enforce MFA.     
 
-**Your choices:**
-**Option A** (Recommended) - Azure Active Directory - most of the infrastructure for this is already in place for you, and it already meets all your requirements. We would just need to wire up your application to it.
-**Option B** - Active Directory - while your users are already in AD, it doesn't give you MFA or access outside your network.
-**Option C** - Okta - this is an expensive option which, for this scenario, doesn't provide any advantages over Azure AD.
-**Good Example: The chosen solution meets the requirements without adding unnecessary additional costs**
+ **Your choices:** 
+**Option A**(Recommended) - Azure Active Directory - most of the infrastructure for this is already in place for you, and it already meets all your requirements. We would just need to wire up your application to it.
+ **Option B**  - Active Directory - while your users are already in AD, it doesn't give you MFA or access outside your network.
+ **Option C**  - Okta - this is an expensive option which, for this scenario, doesn't provide any advantages over Azure AD.
+**Good Example: The chosen solution meets the requirements without adding unnecessary additional costs  ** 
 
 
 
 
 
 
-**Note #1**: All of the following options assume you are building an ASP.NET Core application, although the commercial options listed here provide libraries for most development languages, frameworks and platforms.
+ **Note #1** : All of the following options assume you are building an ASP.NET Core application, although the commercial options listed here provide libraries for most development languages, frameworks and platforms.
 
-**Note #2**: The information here is relevant as provided, but consider other factors that may impact your decision too. For example, cost may be a factor and saving money may be more important than the added benefits of higher cost options. Additionally, your situation may not fit neatly into one of the scenarios we have listed and may span multiple scenarios, in which case you may need to pick the option which caters to the broadest set of requirements (avoid 'mix and match').
+ **Note #2** : The information here is relevant as provided, but consider other factors that may impact your decision too. For example, cost may be a factor and saving money may be more important than the added benefits of higher cost options. Additionally, your situation may not fit neatly into one of the scenarios we have listed and may span multiple scenarios, in which case you may need to pick the option which caters to the broadest set of requirements (avoid 'mix and match').
 
 
 
@@ -180,7 +180,7 @@ Disadvantages
 - No MFA included
 
 
-**Use this option if...**
+**Use this option if...** 
 
 
 
@@ -209,14 +209,14 @@ Disadvantages
 
 - Not suited for external or consumer facing uses
 
-**Use this option if...**
-
+**Use this option if...** 
+ 
 
 
 - You want to support internal/enterprise users, and:
 - You already have Azure AD set up, and/or:
 - Your users require access from off-site, and/or:
-- You <br>      **need **to enforce MFA
+- You <br>       **need** to enforce MFA
 
 
 ### Azure B2C (simple Auth as a Service)
@@ -237,7 +237,7 @@ Disadvantages
 - Can support roles and other extended functionality, but requires significant development
 
 
-**Use this option if...**
+**Use this option if...** 
 
 - You want to support MFA, and/or:
 - Your users are external/consumers, and:
@@ -267,8 +267,8 @@ Disadvantages
 - Free tier only supports 2 social identity providers
 
 
-**Use this option if...**
-
+**Use this option if...** 
+ 
 - You want to enforce MFA, and/or:
 - Your users are external/consumers, and/or:
 - You require authorisation or complex authentication
@@ -294,7 +294,7 @@ Disadvantages
 - Not suited to consumer facing scenarios
 
 
-**Use this option if...**
+**Use this option if...** 
 
 - Your application is for internal/enterprise users, and:
 - You already have Okta in place, and/or:
@@ -332,6 +332,6 @@ You have to reinvent the wheel:
 
 
 
-**Use this option if...**
+ **Use this option if...** 
 
 - You want a side project to learn more about how you might roll your own, but of course you know never intend to put it into production :-)

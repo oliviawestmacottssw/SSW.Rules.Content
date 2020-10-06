@@ -37,7 +37,7 @@ You should also add the following NPM  packages:
 - Gulp
 
 
-**Note**: Prior to 2016, SSW recommend developers choose bower over NPM as their front end package manager. That recomendation has changed due to the industry trend away from bower.
+**Note** : Prior to 2016, SSW recommend developers choose bower over NPM as their front end package manager. That recomendation has changed due to the industry trend away from bower.
 
 
 ![NPM Popularity has been increasing](Bower_v_NPM.png)

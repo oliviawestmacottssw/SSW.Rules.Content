@@ -29,7 +29,7 @@ If you start typing in the search box, you will see all Teams and Channels that 
 Teams only show up with their title, while channels show with the name of the associated Team underneath
 ![Teams result](teams-search-2.png)
 ![Channel associated to a Team result](teams-search-3.png)
-**Warning:** If you hit enter, you will be redirected to the Messages, Files & People results. To see the Teams/Channels matching your query, simply click the search box again
+**Warning:**  If you hit enter, you will be redirected to the Messages, Files & People results. To see the Teams/Channels matching your query, simply click the search box again
 
 
 
@@ -39,7 +39,7 @@ Once you've hit "Enter", you can search through the different tabs to find messa
 You can also use built in filters to refine your search, by clicking the "Filter" icon in Messages or Files tabs:
 
 ![Built in filters for Messages](teams-search-5.png)(see #3)
-**Important:** Even though Teams search gives you quick access to all your messages and documents; the search is scoped to ONLY Teams, which means you cannot search for files hosted on SharePoint, OneDrive, other Office365 products (i.e. Delve/UserProfile) or external sources (i.e. Sugarlearning.com, Rules.SSW.com.au etc...). For this reason, it is advised to use the SharePoint Search instead.
+**Important:**  Even though Teams search gives you quick access to all your messages and documents; the search is scoped to ONLY Teams, which means you cannot search for files hosted on SharePoint, OneDrive, other Office365 products (i.e. Delve/UserProfile) or external sources (i.e. Sugarlearning.com, Rules.SSW.com.au etc...). For this reason, it is advised to use the SharePoint Search instead.
 
 ### Related Rule
 

@@ -27,10 +27,10 @@ A good UI is:
 - Gamification e.g. badges
 
 
-**
-**
+ **
+** 
 
-**Suggested reading:**
+**Suggested reading:** 
 
 - [The Design of Everyday Things: Revised and Expanded Edition (Nov 2013)](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 - [Don’t Make Me Think, Revisited (3rd Edition)](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)

@@ -14,20 +14,20 @@ authors:
 Over the course of work on a project, there will likely be many little disagreements, and most can be captured in ‘as per our conversation’ emails. Sometimes the differences of opinion relate to architectural issues or things that will be hard to change later. A lot of developers are on the quiet, introverted side, but vocal developers make their stance clear. Even that can be hard with some clients who have super strong voices and some clients are \*not\* great listeners. Regardless it is important to document disagreements so the client is crystal clear and a stronger version of ‘as per our conversation’ is to include the words ‘for the record’. Too often developers say they disagree but months later, the client may say:
 “No I don’t recall you disagreed, I thought I gave counter arguments and then I assumed you had agreed with me.”
  
-**
+ **
 ![](past-decision-1500x500.jpg)
-**
+** 
 
-**Figure: It's common for people to say "I don't remember you disagreeing with that decision", sending a "for the record" email makes it clear.**
+ **Figure: It's common for people to say "I don't remember you disagreeing with that decision", sending a "for the record" email makes it clear.** 
 
 
 
-**One war story**
+**One war story** 
  
 One day we had an incident where one of our clients had found out that a developer had hard-coded the CSS (the default Angular way). When the client discovered it, they were wild and wanted 24 days written off as a consequence. To be clear, the reaction and the request were disproportionate. However, clients have memories that are fallible and they can be entitled to be upset when they come to a company (like SSW) that prides themselves on following best-practices.
  
 I spoke to the developer about it, and he knew 100% that he had agreed with the Product Owner to leave it that way because it was super quick and they had bigger fish to fry at the time. The developer recalled explaining to the Product Owner that he wasn't comfortable taking that shortcut. The step that the developer failed to do was to cover his ass with an "As per our conversation" email... or when the disagreement is related to architectural issues (or issues that will require a lot of rework later) I suggest a more clear "For the record" email.
-**Note**: Even better the developer could have included a URL in the email with a link to a PBI to remove this technical debt later.
+ **Note** : Even better the developer could have included a URL in the email with a link to a PBI to remove this technical debt later.
  
 Adam Cogan
 SSW Chief Architect
@@ -39,11 +39,11 @@ When you have a disagreement with someone who has decision making power, and you
 
 
 1. Later down the track it will provide a learning experience for someone (depending on who was right 😉)
-**Tip**: Use a <br>      [follow up then](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=aa8c8dd3-1cd7-414c-b13e-d1a225e05ef0) set for e.g. 6 months in the future to remind you to revisit your email, then take the opportunity to follow up on it with a retrospective analysing the decision that was made and what the outcome was (no matter who was right, it shows you were invested enough in the issue to keep track of it)
+ **Tip** : Use a <br>      [follow up then](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=aa8c8dd3-1cd7-414c-b13e-d1a225e05ef0) set for e.g. 6 months in the future to remind you to revisit your email, then take the opportunity to follow up on it with a retrospective analysing the decision that was made and what the outcome was (no matter who was right, it shows you were invested enough in the issue to keep track of it)
 2. After cooling down from the meeting, people might read it later and see it as useful input
 
 
-**Note**: A "For the record" email should be reserved for a significant architectural decision, etc. that will be difficult or costly to change later.  You should consider it a level above an ["As per our conversation" email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f98fc6fe-0e5d-43fe-b560-0f5603ec7069), which is better suited for more minor decisions.
+**Note** : A "For the record" email should be reserved for a significant architectural decision, etc. that will be difficult or costly to change later.  You should consider it a level above an ["As per our conversation" email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f98fc6fe-0e5d-43fe-b560-0f5603ec7069), which is better suited for more minor decisions.
 (6 months later)
 "I knew it, we should never have used React for the Northwind project."Bad example(On the day)
 "Thanks for the chat today. As per our conversation, you'd like us to build this feature using a quick workaround. Just for the record, the best practice would have been to XXX, but since you are the Product Owner, and I understand we're under time pressure, I of course will go with your decision."

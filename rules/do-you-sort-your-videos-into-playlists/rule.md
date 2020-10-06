@@ -25,4 +25,4 @@ Creating and promoting optimized playlists is a plus, increasing session time (a
 
 
 ![make sure that every video is in at least one playlist.](playlist_good_sswtv.png)
-**Images**: courtesy of Brian Dean ([source](https://backlinko.com/grow-youtube-channel)).
+ **Images** : courtesy of Brian Dean ([source](https://backlinko.com/grow-youtube-channel)).

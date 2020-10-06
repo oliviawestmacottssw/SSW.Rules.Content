@@ -20,7 +20,7 @@ Make it easier for everyone to track the status of tasks by sending tasks one em
 
 Obviously, if you are requesting many small changes to the same page, use one email as they're related to the same topic. In this case number each task that you wish to be completed, as per "[Do you number small tasks related to 1 topic](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=072d00e3-9704-4c03-acc5-81b449d27a1c)". If all the tasks are very simple and everything was done as specified, the person who completed the tasks replies with a single "Done" to the whole email.
 
-**Warning:** Don't group unrelated topics
+**Warning:**  Don't group unrelated topics
 
 
 [[goodExample]]

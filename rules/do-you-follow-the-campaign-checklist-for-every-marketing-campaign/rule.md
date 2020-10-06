@@ -27,7 +27,7 @@ One of the most effective ways of launching an effective marketing campaign is t
 
 ### Content Promotion
 
-**Content promotion strategy **
+**Content promotion strategy**
 
 1. Define type of campaign
 2. Define Go live Date

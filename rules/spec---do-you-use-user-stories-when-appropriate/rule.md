@@ -30,4 +30,4 @@ Figure: Good Example - Clear user story following the INVEST principle
 
 
 
-**Note:** In the TFS Scrum template (since we now have a title, description, and acceptance criteria), we no longer generally need to use User Story formatting.
+**Note:**  In the TFS Scrum template (since we now have a title, description, and acceptance criteria), we no longer generally need to use User Story formatting.

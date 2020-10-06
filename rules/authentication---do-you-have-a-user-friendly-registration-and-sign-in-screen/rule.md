@@ -27,4 +27,4 @@ For a web site that expects few first-time visitors, this is a good sign in scre
 
 [[goodExample]]
 | ![friendly sign in screen for few new visitors](GoodloginScreen-few.gif)
-**Note: **Generally, the action buttons should be aligned to the right.
+**Note:** Generally, the action buttons should be aligned to the right.

@@ -24,7 +24,7 @@ The most useful reports:
 - Which keywords are bringing users to your site
 - If you have downloads, which are the most popular
 
-To add Google Analytics to your website, [log into your Google account](https://www.google.com/analytics), then go to **Admin**, ensure both **Account** and **Property** specify your website, then find your **Tracking Code**. 
+To add Google Analytics to your website, [log into your Google account](https://www.google.com/analytics), then go to **Admin** , ensure both **Account**  and **Property**  specify your website, then find your **Tracking Code** . 
 ![20-08-2014-3-25-06-PM-compressor (1).png](20-08-2014-3-25-06-PM-compressor (1).png) Figure: Navigate to the Tracking Code property
 From this page, you will be able to get a JavaScript snippet to include in your application.
 

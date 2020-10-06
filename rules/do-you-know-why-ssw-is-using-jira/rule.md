@@ -22,6 +22,6 @@ To help track and prioritise Sys Admin tasks - It has the following key features
 
 
 
-> > > ***Of all the features above the Dashboard is the one with greatest value.  We are able to configure dashbaords for individuals to know exactly what work they should be doing by when.  We can configure dashboards to summarise a projects status.  Consequently, non-power users of Jira can quicklty see what is going providing the visibility that we all need.***
+> > > ***Of all the features above the Dashboard is the one with greatest value.  We are able to configure dashbaords for individuals to know exactly what work they should be doing by when.  We can configure dashboards to summarise a projects status.  Consequently, non-power users of Jira can quicklty see what is going providing the visibility that we all need.*** 
 > > > 
 > > >  Clearly other products (like TFS) have similar features and we will be using TFS for other projects

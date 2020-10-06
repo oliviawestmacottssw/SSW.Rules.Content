@@ -16,7 +16,7 @@ A standard computer keyboard can produce dozens of different symbols. Some of th
 
 
 
-| Symbol<br> | **Explanation**<br> |
+| Symbol<br> |  **Explanation** <br> |
 | --- | --- |
 | `<br> | Accent grave |
 | --- | --- |

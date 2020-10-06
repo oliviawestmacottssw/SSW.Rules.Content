@@ -11,14 +11,14 @@ authors:
 
 ---
 
-You should **review your current open opportunities** in CRM:
+You should  **review your current open opportunities**  in CRM:
  
 1. Update open opportunities as necessary, ensuring the status (warm, cold, hot) is accurate, as well as the deal value, and the contact information
 2. Close any opportunities that need to be closed either won or lost
 3. Follow up with any open opportunities that were not part of your followupthen email block
 
 
-You should **add new opportunities**:
+You should  **add new opportunities** :
 
 After initial phone calls with new opportunities, put them into CRM making sure that:
 

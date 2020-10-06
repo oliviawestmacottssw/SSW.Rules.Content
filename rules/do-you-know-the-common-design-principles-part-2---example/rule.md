@@ -67,7 +67,7 @@ public class PrinterManager {
 ```
 
 Figure: Good Example - Each class has a single responsibility
-Additionally, code that has high coupling violates the Dependency Inversion principle. This makes code difficult to change but can be resolved by implementing the Inversion of Control **\*and\*** Dependency Injection patterns.
+Additionally, code that has high coupling violates the Dependency Inversion principle. This makes code difficult to change but can be resolved by implementing the Inversion of Control  **\*and\***  Dependency Injection patterns.
 
 TODO: Replace example with TailSpin
 

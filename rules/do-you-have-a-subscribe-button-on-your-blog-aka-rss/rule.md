@@ -16,6 +16,6 @@ Blogs that have a visible 'subscribe' button will certainly receive more returni
 
 [[greyBox]]
 | <br>
-**Tip:** For Wordpress, there are plugins that make it easy to insert the 'subscribe' button in your WP blog. We recommend:
+**Tip:**  For Wordpress, there are plugins that make it easy to insert the 'subscribe' button in your WP blog. We recommend:
 
 - [Subscribe2](http&#58;//subscribe2.wordpress.com/)

@@ -17,7 +17,7 @@ authors:
 | ![Correcting someone in a mean way](watchdog-mean.jpg)
 [[goodExample]]
 | ![People make mistakes but correct them as though they’re a soft cute puppy 🐶](watchdog-watchdog.jpg)
-Every member of a team plays an important role in maintaining standards. Whether it's your work or someone else's, always keep an eye out for **things that can be improved**.
+Every member of a team plays an important role in maintaining standards. Whether it's your   work or someone else's, always   keep an eye out for  **things that can be improved** .
 
 This rule applies to all company standards. Standards are important because they ensure your experience at work is consistent and enjoyable. For example, if there was no standard to stack the dishes in the dishwasher when you were finished using them, dishes would build up and create a big mess in the kitchen!
 
@@ -32,14 +32,14 @@ When the 'mistake' the person made is not an actual mistake, but something that 
 
 
 
-**Tiny Tip: **I’d use international format on your phone number so people outside Australia can just click to dial - as per https://rules.ssw.com.au/great-email-signatures
+**Tiny Tip:** I’d use international format on your phone number so people outside Australia can just click to dial - as per https://rules.ssw.com.au/great-email-signatures
 Figure: Good example - nicely informing of a small standard oversight 
 
 ### Important things = Tip 
 
 When there is a proven better way to do something different from what the person has done. You should try to include the reasons.
 
-**Tip:** I noticed your email has a very generic subject: "website". Please resend with a descriptive email subject as per Rules to Better Email. This way it is easier to identify, categorize and find this email later, without having to open it :)
+**Tip:**  I noticed your email has a very generic subject: "website". Please resend with a descriptive email subject as per Rules to Better Email. This way it is easier to identify, categorize and find this email later, without having to open it :)
 Figure: Good example - nicely informing of a better way to do something 
 
 
@@ -49,7 +49,7 @@ Figure: Good example - nicely informing of a better way to do something
 
 When the error the person committed can lead to a misunderstanding or a security breach. You should include a task with action when necessary.
 
-**Critical: **When sending a proposal never use the word "quote", but use "estimates" instead. As per Rules to Better Project Management we don't work with a fixed price, which is opposite to what the word "quote" implies. This might create different expectation and consequently frustration and legal problems with the client. 
+**Critical:** When sending a proposal never use the word "quote", but use "estimates" instead. As per Rules to Better Project Management we don't work with a fixed price, which is opposite to what the word "quote" implies. This might create different expectation and consequently frustration and legal problems with the client. 
 
 1. Please fix asap
 Figure: Good example - nicely informing of a critical mistake
@@ -60,7 +60,7 @@ When you come across an error, don't just fix it, as the developer who made it i
 
 No one likes being corrected but hopefully, with everyone doing this in the office, it's not a matter of finger-pointing, it is working together to write better code or developing better solutions.
 
-**Tip:** In code, if you don't know who made the mistake, [use the annotate tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=1167746b-aca0-4a4f-9dd0-bf6b87953dae).
+**Tip:**  In code, if you don't know who made the mistake, [use the annotate tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=1167746b-aca0-4a4f-9dd0-bf6b87953dae).
 
 ### What if it's recurring?
 
@@ -73,7 +73,7 @@ When you notice someone doing the wrong thing:
 
 ### Focus on the meat first
 
-When you receive a great 'done' email or document, make sure you mention how great it is **before** correcting any potential error.
+When you receive a great 'done' email or document, make sure you mention how great it is  **before**  correcting any potential error.
 
 ### Timing is everything - Don't bottle it up
 
@@ -98,16 +98,16 @@ When something is really personal, you can’t really correct someone unless you
 
 It's important to ensure others are doing their best to maintain and follow the standards. Remember, it can be just as important for someone's professional development to give feedback as it is to receive it. Being able to communicate feedback in an effective and professional manner can benefit you in any career.
 
-**To:** Peter
-**CC:** Adam (Manager)
+**To:**  Peter
+ **CC:**  Adam (Manager)
 
 Dear Peter,
 
 While you were away, I came across this page you edited, called ApplicationForm.aspx which was giving an error: 
 *'The conversion of a char data type to a DateTime data type resulted in an out-of-range DateTime value.'*
 
-Please note that whilst inserting data from your Front End application, you should not use the format **dd/mm/****yyyy**. 
-Instead, you should use **yyyy****/mm/dd** as per Rules to Better Databases.
+Please note that whilst inserting data from your Front End application, you should not use the format  **dd/mm/****yyyy** . 
+Instead, you should use  **yyyy****/mm/dd** as per Rules to Better Databases.
 
 Let's fix it together when we get to work tomorrow.
 

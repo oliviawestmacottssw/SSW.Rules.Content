@@ -14,7 +14,7 @@ All team members must update their tasks with  status,  remaining hours,  comple
 ![Update the following screen to keep your burndown rate accurate.](Updatetasks.jpg)
 The reason we did this on TFS 2010 was is because the cube took some time to rebuild the Burndown and it’s very important to have the work status during the meeting. This is not an issue with TFS 2012 as the Burndown will update in real-time, but the rule still applies, as the Daily Scrum flows more smoothly if each developer has already updated the remaining hours on their tasks.
 
-**Related Links**
+**Related Links** 
 
 
 - [Reports - Do you know which reports are the most important ones to track your progress?](/Pages/TrackProgress.aspx)
@@ -41,4 +41,4 @@ In Scrum, there are 4 meetings in total that you need to know about:
 `youtube: https://www.youtube.com/embed/-UUrLxNBK_g?rel=0`
 
  
-**Note:** If you are updating the details of a PBI then follow the rule [Do you know when you use @ mentions in a PBI?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=efd6c91e-7cc5-4473-a299-9104c8fd6e0d)
+**Note:**  If you are updating the details of a PBI then follow the rule [Do you know when you use @ mentions in a PBI?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=efd6c91e-7cc5-4473-a299-9104c8fd6e0d)

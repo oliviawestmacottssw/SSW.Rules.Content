@@ -59,7 +59,7 @@ Install Glimpse on production so that only internal developers can enable it.Thi
 
 ipAddresses>
 glimpse>
-**Figure: Glimpse is now limited to localhost and the 192.168.1.x network**
+ **Figure: Glimpse is now limited to localhost and the 192.168.1.x network**
 - Using role-based authentication.
 If your site has role-based authentication, you can secure Glimpse usage by editing web.config to control access to the Glimpse.axd location.
 
@@ -78,7 +78,7 @@ authorization>
 system.web>
 
 location> 
-**Figure: Glimpse is restricted to the Developers group**
+ **Figure: Glimpse is restricted to the Developers group**
 
 
 
@@ -105,7 +105,7 @@ authorization>
 system.web>
 
 location> 
-**Figure: Glimpse.axd is now restricted to Developers  and PublicGlimpseUsers 
+ **Figure: Glimpse.axd is now restricted to Developers  and PublicGlimpseUsers 
 **
 - Disable the “config” section of Glimpse so that site connection strings are not published. 
 

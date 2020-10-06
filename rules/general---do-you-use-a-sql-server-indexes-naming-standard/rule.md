@@ -12,7 +12,7 @@ This standard outlines the procedure on naming Indexes at SSW for SQL Server. Us
 
 
  
-**Note:** There is not a lot of use naming Indexes - we only do it when we are printing out documentation or using the 'Index Tuning Wizard' - then it becomes really handy.
+**Note:**  There is not a lot of use naming Indexes - we only do it when we are printing out documentation or using the 'Index Tuning Wizard' - then it becomes really handy.
 Do you agree with them all? Are we missing some? Let us know what you think.
 
 Index names are to have this syntax:
@@ -21,7 +21,7 @@ Index names are to have this syntax:
 [1] All indexes must have a corresponding prefix.
 
 
-| **Prefix**<br> | **Type**<br> |
+|  **Prefix** <br> |  **Type** <br> |
 | --- | --- |
 | pkc\_<br> | Primary Key, Clustered<br> |
 | pknc\_<br> | Primary Key, Non Clustered<br> |

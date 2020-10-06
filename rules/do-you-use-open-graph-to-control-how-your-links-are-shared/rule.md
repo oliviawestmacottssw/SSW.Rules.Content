@@ -22,7 +22,7 @@ It should be placed on the  section of your page. The most used properties are:
 [[goodExample]]
 | ![Shared link has a nice image and title, both defined via Open Graph tags](opengraph-good.jpg)
 
-**Note: **For LinkedIn you might need to add the prefix as following:
+**Note:** For LinkedIn you might need to add the prefix as following:
 
 prefix="og: http://ogp.me/ns#" property='og:title' content="Microsoft Azure | SSW Consulting - Sydney, Brisbane, Melbourne"/>
 

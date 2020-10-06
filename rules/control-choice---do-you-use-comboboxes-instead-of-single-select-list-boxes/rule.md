@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-ComboBoxes are better than List Boxes **for data entry** because:
+ComboBoxes are better than List Boxes  **for data entry**  because:
 
 - They occupy less screen space
 - They are less trouble to scroll through, owing to the fact that you can afford to have more room for the list (as it's collapsed most of the time)
@@ -18,7 +18,7 @@ ComboBoxes are better than List Boxes **for data entry** because:
 | ![Using list boxes](../../assets/ListBoxesAreEvil_SingleSelectBad.gif)
 [[goodExample]]
 | ![Using ComboBoxes - takes up less screen space and the required field indication is easy to see](../../assets/ListBoxesAreEvil_SingleSelectGood.gif)
-**Note: When are single-select list boxes OK?**
+ **Note: When are single-select list boxes OK?** 
 
 As mentioned before, there are exceptions to this rule. It would be hard to imagine the Include/Exclude boxes in the SQL Server Enterprise Manager's Server Registration Wizard being handled with ComboBoxes, for example.
 

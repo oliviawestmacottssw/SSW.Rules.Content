@@ -17,4 +17,4 @@ When you set a break at a training course, you should make sure you first finish
 - Set an alarm on your phone or PC
 
 ![iPhone alarm](iphone_timer.png)
-- If anyone comes back late, **explain the value of integrity**. Honoring your word in small things makes it easier to honor it for the larger things, such as doing your best in a sprint, and makes people believe in you more
+- If anyone comes back late,  **explain the value of integrity** . Honoring your word in small things makes it easier to honor it for the larger things, such as doing your best in a sprint, and makes people believe in you more

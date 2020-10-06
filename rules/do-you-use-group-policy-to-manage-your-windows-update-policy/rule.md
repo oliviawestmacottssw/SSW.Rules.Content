@@ -13,7 +13,7 @@ authors:
 
 We all know it’s important to keep our servers updated. Unfortunately though, by default, Windows will automatically download and install all new Windows Updates on your servers. This will mean the servers will occasionally restart to install updates when you don’t want them too. You will also get annoying popups trying to get you to restart the computer. 
  
-**Note:** This rule applied to both client PCs and servers.
+**Note:**  This rule applied to both client PCs and servers.
 
 
 
@@ -34,11 +34,11 @@ The best ensure you are still downloading updates but not installing them automa
 2. Create a new Group Policy object and link it to the Production Server OU
 
 ![](updates-gpo.jpg)Create a new Group Policy for your Production Servers
-3. Edit the new Group Policy object and drill down to <br>      **Computer Configuration** | <br>      **Policies **| <br>      **Windows Components** | <br>      **Windows Update**
-4. Edit the <br>      **Configure Automatic Update Properties** item and <br>      **enable **it
-5. Set the <br>      **Configure Automatic Updating** option to <br>      **3 – Auto download and notify for install
+3. Edit the new Group Policy object and drill down to <br>       **Computer Configuration**  | <br>       **Policies** | <br>       **Windows Components**  | <br>       **Windows Update**
+4. Edit the <br>       **Configure Automatic Update Properties**  item and <br>       **enable** it
+5. Set the <br>       **Configure Automatic Updating**  option to <br>       **3 – Auto download and notify for install
 
-![](updates-editgp.jpg)Edit Configure Automatic Updates Properties and enable 'Auto download and notify for install **
+![](updates-editgp.jpg)Edit Configure Automatic Updates Properties and enable 'Auto download and notify for install**
 
 
 After the new Group Policy propagates, you will notice the update setting is now locked on the servers in the Production Server OU.

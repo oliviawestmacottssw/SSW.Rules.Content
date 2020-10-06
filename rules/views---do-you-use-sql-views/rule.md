@@ -23,13 +23,13 @@ A view is a virtual table produced from executing a stored query on the database
 - Duplication can be reduced in procedures and queries by using a common view.
 
  
-**2. Security**
+ **2. Security** 
 
 - Views can be used to provide a specific data set to a user while protecting the underlying tables.
 - Permission management of tables cannot be limited to a row or a column, but it can be implemented simply through views.
 
  
-**3. Flexibility**
+ **3. Flexibility** 
 
 - Once the view structure is determined, you can shield the impact of changes in the table structure on users.
 - Modifying the column name of the source table can be solved by modifying the view, without impacting end users.
@@ -41,23 +41,23 @@ A view is a virtual table produced from executing a stored query on the database
 
 
 Disadvantages:
-**1. Performance**
+ **1. Performance** 
 
 - Views can take longer to query than tables as they may contain complex functions or multi-table queries.
 
+  
 
+  
 
-
-
-**2. Dependencies**
+ **2. Dependencies** 
 
 - Views depend on the underlying tables for its data, so if the structure of the tables change it may break the view.
 
-**3. Update Restrictions**
+ **3. Update Restrictions** 
 
 - Depending on the complexity of the view, you may not be able to modify the data through the view to the underlying base tables.
 
-
+  
 
 
 

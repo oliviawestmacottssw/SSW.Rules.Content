@@ -15,7 +15,7 @@ It is also important that team members do not allow themselves to get distract
 
 Here is a good saying to remember: "It is very important I complete my sprint. Can this wait 1 week until the next sprint?".
 
-Any requests for work or distractions outside the scope of the project that take more than 15 minutes must be declined politely and the distraction notified to the Scrum Master, or, if the request comes from the Product Owner, it can be added as a new PBI as described in [https://rules.ssw.com.au/are-you-flexible-with-the-order-you-do-the-work-(i-e-cancelling-a-sprint)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=5fb817d5-dbe5-41e0-a9f9-c4f3f833f65e)
+Any requests for work or distractions outside the scope of the project that take more than 15 minutes must be declined politely and the distraction notified to the Scrum Master, or, if the request comes from the Product Owner, it can be added as a new PBI as described in   [https://rules.ssw.com.au/are-you-flexible-with-the-order-you-do-the-work-(i-e-cancelling-a-sprint)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=5fb817d5-dbe5-41e0-a9f9-c4f3f833f65e)
 
 The only exceptions, where a Team Member can start the work before notifying the Scrum Master are:
 

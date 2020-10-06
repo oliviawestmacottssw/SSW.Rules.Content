@@ -31,14 +31,14 @@ Every time a change is made to your product's SQL Server Database, script out th
 
 
 ![A list of change SQL scripts, each file name is in the correct format](ChangeScripts.jpg)
-**Is there a file naming convention to follow?**
+**Is there a file naming convention to follow?** 
  The script file naming convention should be XXXXX\_ObjectType\_ObjectName\_ColumnName\_Description\_SchemaMasterInitials.sql  
 
  eg.  00089\_Table\_Employee\_Gender\_ChangeFromBitToChar\_AC.sql 
 
 
 
-**What are the rules for Entity Framework Code First?**
+**What are the rules for Entity Framework Code First?** 
 
 
 Similar principles apply when using Entity Framework Code First. Every change you do to the schema must be either saved in code or scripted out as per above. We recommend using Migrations feature of Entity Framework 6. It allows you to keep track of all the changes in the similar fashion as SQL Deploy. Watch [this video](http://tv.ssw.com/4902/use-code-first-entity-framework-brendan-richards) to learn more. We also recommend using SSW SQL Validate tool to make sure your schema hasn't been manually modified.

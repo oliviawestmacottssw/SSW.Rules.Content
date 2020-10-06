@@ -40,7 +40,7 @@ Easy. A typical implementation of a custom membership or role provider is a simp
 
 Potentially a glorified ValidateUser/GetRoles method.
 
-Little messy if you **don’t** want full blown user management. Then you must leave a number of NotImplementedException methods (because you are not going to administer the store through the provider). In that case implement a base class, leave 28 methods not implemented, implement ValidateUser that takes two strings and returns a bool ;)
+Little messy if you  **don’t**  want full blown user management. Then you must leave a number of NotImplementedException methods (because you are not going to administer the store through the provider). In that case implement a base class, leave 28 methods not implemented, implement ValidateUser that takes two strings and returns a bool ;)
 
 Most clients have more concerns about them making mistakes in the custom security code, that would compromise the security of the application, then about using a bloated existing platform security mechanism correctly (when there are thousands of samples and documentation out there about how to do so correctly).
 
@@ -70,7 +70,7 @@ The default for VS 2012 MVC 4 templates.
 
 Yes to OAuth eg. Facebook (out of the box)
 
-**Note:** If you need to use for Web Forms see [Adding the SimpleMembership provider to an ASP.NET Web Forms app](http&#58;//blogs.msmvps.com/luisabreu/blog/2012/09/24/adding-the-simplemembership-provider-to-an-asp-net-web-forms-app/).
+**Note:**  If you need to use for Web Forms see [Adding the SimpleMembership provider to an ASP.NET Web Forms app](http&#58;//blogs.msmvps.com/luisabreu/blog/2012/09/24/adding-the-simplemembership-provider-to-an-asp-net-web-forms-app/).
 
 ### Option 5: Use “Membership Reboot” on GitHub (a Gurus one) (RECOMMENDED)
 
@@ -78,9 +78,9 @@ A solid, more flexible and open source alternative to the ASP.NET membership pro
 
 Typically if you want to use your own database tables (even non SQL)
 
-**Description:** [Think twice about using MembershipProvider (and SimpleMembership)](http&#58;//brockallen.com/2012/09/02/think-twice-about-using-membershipprovider-and-simplemembership/)
+**Description:**[Think twice about using MembershipProvider (and SimpleMembership)](http&#58;//brockallen.com/2012/09/02/think-twice-about-using-membershipprovider-and-simplemembership/)
 
-**Source:** [https://github.com/brockallen/BrockAllen.MembershipReboot](https&#58;//github.com/brockallen/BrockAllen.MembershipReboot)
+**Source:**[https://github.com/brockallen/BrockAllen.MembershipReboot](https&#58;//github.com/brockallen/BrockAllen.MembershipReboot)
 
 This OSS account management library manages these sorts of things for you:
 
@@ -110,4 +110,4 @@ The ASP.NET membership provider is wired in at a deep level in the ASP.NET pipel
 
 An example of completely removing ASP.NET Membership Providers: [Kicking ASP.NET Providers to the Curb](http&#58;//www.devproconnections.com/article/aspnet2/Kicking-ASP-NET-Providers-to-the-Curb-129584) - And that actually works fine, but with one big, ugly, drawback. The site is able to authenticate and authorize as needed, but you drop in a few .ashx or other things like Elmah, CacheManagement, etc, and then tried to restrict access to them... it obviously is not able to.
 
-**Note:** Gurus use Windows Identity Foundation (and IdentityModel).
+**Note:**  Gurus use Windows Identity Foundation (and IdentityModel).

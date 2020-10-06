@@ -13,7 +13,7 @@ authors:
 
 When naming documents, use kebab-case to separate words to make your files more easily discoverable.
  
-A file name without spaces means that the search engine doesn't know where one word ends and the other one begins. This means that searching for 'monthly' or 'report' might **not** find this document.
+A file name without spaces means that the search engine doesn't know where one word ends and the other one begins. This means that searching for 'monthly' or 'report' might  **not**  find this document.
 
 MonthlyReport.docx
 Bad Example: File name doesn't contain any separators between words

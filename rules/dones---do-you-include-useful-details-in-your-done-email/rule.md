@@ -36,10 +36,10 @@ Let's look at some examples and tips:
 [[goodExample]]
 | ![the client can see the image + the code changes highlighted in yellow](NotifyCodeChanges.gif)
 **Tip #1: Include the URL
-**If you are using TFS, you can also include a URL to the work item in TSWA
+** If you are using TFS, you can also include a URL to the work item in TSWA
 
-**Tip #2: Include a .diff file
-**You can include the code as an attached text file.
+ **Tip #2: Include a .diff file
+** You can include the code as an attached text file.
  
 [[goodExample]]
 | ![this is a Text file with a .diff extension that includes the code change from TFS. If opened using NotePad2, the client can view the code changes with green and red color](NotePad2DiffFiles.gif)(added and deleted code). 
@@ -48,5 +48,5 @@ Let's look at some examples and tips:
 For those developers lucky enough to be using Microsoft Team Foundation Server (TFS 2005, 2008 or 2010) you can associate your code changes with a work item. This means that future developers can work out not just \*what\* changed, but \*why\*. 
 For those using TFS, enable the Checkin policy and force all developers to associate every check-in with a work item.
  
-![](SourceControl_AssociateWorkItems1.gif) ** **Figure: Make developers associate all check-ins to a work items    
-![](SourceControl_AssociateWorkItems2.gif) ** **Figure: Enabling the Checkin Policy (via Project | Team Project Settings | Source Control | Add)
+![Make developers associate all check-ins to a work items](SourceControl_AssociateWorkItems1.gif)
+![Enabling the Checkin Policy](SourceControl_AssociateWorkItems2.gif)(via Project | Team Project Settings | Source Control | Add)

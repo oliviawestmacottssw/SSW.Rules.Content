@@ -24,7 +24,7 @@ Making a responsive website work well on a mobile is not easy but with the right
 
 [[goodExample]]
 | ![Using Device Mode & Mobile Emulation in Chrome.](2015-02-16_17-44-01.jpg)
-**How to test a responsive website with Chrome DevTools Device Mode **
+ **How to test a responsive website with Chrome DevTools Device Mode** 
 
 1. Watch this video below
 2. Read the documentation on the [Chrome Developer Website.](https://developer.chrome.com/devtools/docs/device-mode)
@@ -35,7 +35,7 @@ Making a responsive website work well on a mobile is not easy but with the right
  
 
 
-**Additional resources**
+ **Additional resources** 
 
 - [Chrome Device Mode & Mobile Emulation](https://developer.chrome.com/devtools/docs/device-mode)
 - [CHRISPEDERICK.COM](http://chrispederick.com/work/web-developer/)

@@ -16,19 +16,19 @@ authors:
 Email marketing is very important for your company and you need to use the best suitable tool for that. The best option is dictated by your contact number, the number of emails sent per year and your requirements.
 
  
-**Step #1:** Get you CRM contact number.
+**Step #1:**  Get you CRM contact number.
 
 
 > (e.g. at SSW we have 40,000 contacts records)
 
 
-**Step #2:** Get the number of emails sent per year.
+**Step #2:**  Get the number of emails sent per year.
 
 
 > (e.g. at SSW we have 500,000 sent emails per year
 
 
-**Step #3: **Get your requirements in order.
+**Step #3: ** Get your requirements in order.
 
 
 > (e.g. for SSW it is:

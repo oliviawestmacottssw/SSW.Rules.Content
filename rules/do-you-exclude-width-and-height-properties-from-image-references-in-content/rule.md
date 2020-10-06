@@ -9,7 +9,7 @@ authors: []
 
 In the case of content (unlike a site's framework files), specifying the width and height 		properties for images on your web pages can sometimes turn out to be more trouble than it's worth, particularly if the image is likely to 		be changed a few times. Adding fixed widths to your images also destroys your content on any responsive websites.
 
-As a result, we have made a rule that content pages **should not** have the image dimensions specified in HTML.
+As a result, we have made a rule that content pages  **should not**  have the image dimensions specified in HTML.
 
 We do have one exception to this rule: any HTML content that is to be sent out via email, as Outlook blocks images by default and 		renders them as placeholders with very lengthy alternate text. The page is invariably stretched to widths that make the 		contents of the message somewhat unreadable.
  

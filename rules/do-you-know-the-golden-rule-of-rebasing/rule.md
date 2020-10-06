@@ -11,7 +11,7 @@ authors:
 
 Rebasing is great for ensuring a clean project history... but it can be dangerous in inexperienced hands.
  
-**The golden rule of git rebase is to never use it on public branches. **(ie. never rebase master).
+**The golden rule of git rebase is to never use it on public branches.** (ie. never rebase master).
 
 You should never rebase master onto a feature branch. This would move all of the commits in master onto the tip of  the feature branch (not the other way around).
 

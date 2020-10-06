@@ -27,7 +27,7 @@ Now with that out of the way which one do I use?
 
 1. If you’re using CRM Online then you have no choice, you will use Fetch as CRM Online does not allow access to the underlying CRM SQL Database.
 2. **If you are using On-Premise CRM and are \*unlikely\* to ever migrate to CRM Online then Filtered Views is the right choice.**
-3. If you are using On-Premise CRM and there is \***any\*** chance of moving the CRM Online then use Fetch (otherwise your custom reports will need to be re-written to use Fetch).
+3. If you are using On-Premise CRM and there is \* **any\***  chance of moving the CRM Online then use Fetch (otherwise your custom reports will need to be re-written to use Fetch).
 
 
 Fetch Restrictions:

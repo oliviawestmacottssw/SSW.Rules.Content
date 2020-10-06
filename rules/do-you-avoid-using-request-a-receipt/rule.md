@@ -17,4 +17,4 @@ Turning this option on all the time effectively throws the option away, not just
  
 ![Selectively request read receipts so as not to annoy your recipient.](OutlookReceiptRequest.gif)
 
-**Warning:** If you are using this more than once a year then alarms should be ringing!
+**Warning:**  If you are using this more than once a year then alarms should be ringing!

@@ -40,13 +40,13 @@ Sample Template:
 2. Then I did this
 
 
-**Expected Result**
+ **Expected Result** 
 
 I expected it to save properly
 
-**
-**
+ **
+** 
 
-**Actual Result**
+ **Actual Result** 
 
 I got an exception (tip: you can copy/paste screenshots)

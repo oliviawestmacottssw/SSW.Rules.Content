@@ -13,7 +13,7 @@ It is the responsibility of Account Managers to book developers for known client
 
 To book a developer:
 
-**Prerequisite: **[Install the 2 CRM Addins](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10).
+**Prerequisite:** [Install the 2 CRM Addins](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10).
 
 ![Using the Service Calendar, you can see who is and is not available at a given time](ServiceCalendar2013.jpg)
 There are a few different ways of booking developers for project work, either via Outlook or the browser.
@@ -66,7 +66,7 @@ To create a Tentative Booking:
 2. Instead of choosing a client account for 'Set Regarding', choose the company (E.g. "ssw.pencilledin").
 
 
-**Tip:** Create a "Booked In Days" Report and make the Tentative Bookings display obviously (E.g. A grey color), so Account Managers can easily see it if they need to use that time.
+**Tip:**  Create a "Booked In Days" Report and make the Tentative Bookings display obviously (E.g. A grey color), so Account Managers can easily see it if they need to use that time.
 
 ### (for options 1 and 2) Adding Internal Bookings
 

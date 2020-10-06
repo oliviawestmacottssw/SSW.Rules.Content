@@ -14,18 +14,18 @@ authors:
 By default, WordPress shows the whole article content on a post list. Knowing that some posts are quite long - taking a lot of real estate on the page - it's a good idea to summarize it and add a "read more" link. 
  
 You can split your blog entries so that only the first part of certain posts is displayed on the home and archive pages. When you do this, a link will be placed after the intro, pointing the reader to the full post.
-To do so, you can either edit the source index.php (or similar) file; or just click the "Read More" tag button in the first row of the visual editor toolbar (or press **Alt+Shift+T**):
+To do so, you can either edit the source index.php (or similar) file; or just click the "Read More" tag button in the first row of the visual editor toolbar (or press  **Alt+Shift+T** ):
 
 
 replace  with
 Figure: Bad example - changing source PHP files is complicated and require developer skills  
 [[goodExample]]
 | ![click on the "Read More" tag on the post visual editor](readmore-tag.png)
-**Note:** This is out-of-the-box with WordPress. You won't need a plugin.
+**Note:**  This is out-of-the-box with WordPress. You won't need a plugin.
 
 ### Custom Read More Message
 
-To customize the message, simply add a space after **  
+To customize the message, simply add a space after  ** 
 **
 
 Figure: Custom "read more" link

@@ -58,11 +58,11 @@ Remember that descriptive names are useful – but the choice of name is not the
 Figure: The "should" naming convention is effective – it encourages developers to clearly define the expected result upfront without requiring too much verbosity. 
 The following test names use the "should" naming convention:
 
-**Withdraw\_Should\_ThrowException\_When\_InvalidAccountInfo**
+**Withdraw\_Should\_ThrowException\_When\_InvalidAccountInfo** 
 
-**Checkout\_Should\_Add10Precent\_When\_CountryIsAustralia**
+ **Checkout\_Should\_Add10Precent\_When\_CountryIsAustralia** 
 
-**Purchase\_Should\_Suceed\_When\_BalanceIsWithinCreditLimit**
+ **Purchase\_Should\_Suceed\_When\_BalanceIsWithinCreditLimit**
 Figure: Good Examples - Without looking at code, I know what the unit tests are trying to do
 
 A list of other suggested conventions can be found here: [7 Popular Unit Test Naming Conventions](https://dzone.com/articles/7-popular-unit-test-naming).

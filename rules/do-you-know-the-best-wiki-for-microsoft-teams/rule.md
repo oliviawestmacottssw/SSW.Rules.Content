@@ -18,4 +18,4 @@ You should use OneNote instead of the default Wiki. This way you can use it offl
 ![Use OneNote. Now you can use the normal OneNote Desktop and Mobile app for iOS and Android](teams-best-wiki-2.jpg)(including offline support)
 
 
-**Note:** Rename the tab to show that it is a OneNote Tab. E.g.: "**OneNote - SSW Reno Sydney**"
+**Note:**  Rename the tab to show that it is a OneNote Tab. E.g.: " **OneNote - SSW Reno Sydney** "

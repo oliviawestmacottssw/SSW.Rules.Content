@@ -16,7 +16,7 @@ To enable Hibernate option in Group Policy open up Group Policy Management.
 
 2. Right click on "EnableHibernate" and click on Edit to bring up Group Policy Management Editor
 
-3. Select '*Show hibernate in the power options menu*' from **Computer Configuration | Policies | Administrator Templates | Windows Component | File Explorer **and set to Enabled
+3. Select '*Show hibernate in the power options menu*' from  **Computer Configuration | Policies | Administrator Templates | Windows Component | File Explorer** and set to Enabled
 
 ![](HibernateGPO.jpg)
 

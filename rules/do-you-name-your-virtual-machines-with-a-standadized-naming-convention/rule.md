@@ -12,15 +12,15 @@ authors:
 When your Hyper-V environment is spread across multiple hosts and contains many Virtual Servers, it can get very confusing to find the one you are looking for amongst them all. This is why you should use a standard naming convention for all your Virtual machines.<br> 
 ![Bad](naming-badexample.jpg)
 
-**    NetBIOSName-ServiceName
+**NetBIOSName-ServiceName
 
-**For example: **Falcon-SCVMM
-**
+** For example:  **Falcon-SCVMM
+** 
  The standard we use for Development Virtual Machine naming is as follows:
 
 **DEV-NetBIOSName-ServiceName-DeveloperInitials
-**
-     For example: **DEV-demo2010a-SP2010MSInfoWorker-JL**
+** 
+     For example:  **DEV-demo2010a-SP2010MSInfoWorker-JL** 
 
 
 ![Good](naming-goodexample.jpg)

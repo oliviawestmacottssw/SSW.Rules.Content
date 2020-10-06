@@ -17,9 +17,9 @@ To generate entities from a swagger rest definition a tool can automate this.
 
 There are 3 ways:
  
-1. **AutoR est** - [https://github.com/Azure/aut orest](https://github.com/Azure/autorest)
-2. **NSwagStudio** - https://github.com/NSwag/NSwag/wiki/NSwagStudio
-3. **Swagger Codegen** - http://swagger.io/swagger-codegen
+1. **AutoR est**  - [https://github.com/Azure/aut orest](https://github.com/Azure/autorest)
+2. **NSwagStudio**  - https://github.com/NSwag/NSwag/wiki/NSwagStudio
+3. **Swagger Codegen**  - http://swagger.io/swagger-codegen
 
  
 [[badExample]]

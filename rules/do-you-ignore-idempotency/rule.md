@@ -18,7 +18,7 @@ This usually involves a check at the start to see if the object exists or not.
 
 Database scripts should be run in order (into separate sequential files), as per the rule [Do you script out all changes?](http://www.ssw.com.au/ssw/standards/rules/rulestobettersqlserverdatabases.aspx#ScriptOutChanges)
 
- Therefore developers should not worry about idempotency, as the script will run in the order it was created. Actually, if they are doing this, then **\*they want to see the errors\***. It means that the database is not in the state that they expect.
+ Therefore developers should not worry about idempotency, as the script will run in the order it was created. Actually, if they are doing this, then  **\*they want to see the errors\*** . It means that the database is not in the state that they expect.
 
 
 ```

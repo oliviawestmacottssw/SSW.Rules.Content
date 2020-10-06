@@ -9,23 +9,23 @@ authors:
 
 ---
 
-Do you configure redirection from HTTP to https for Outlook Web App (OWA)? To simplify OWA access for your users, you want to configure the Outlook Web App page to automatically redirect users to https. The HTTP redirect procedure in IIS Manager simplifies OWA URL and forces to SSL connection from **http://mail.domain.com** to h**ttps://mail.domain.com/owa**.
+Do you configure redirection from HTTP to https for Outlook Web App (OWA)? To simplify OWA access for your users, you want to configure the Outlook Web App page to automatically redirect users to https. The HTTP redirect procedure in IIS Manager simplifies OWA URL and forces to SSL connection from  **http://mail.domain.com**  to h **ttps://mail.domain.com/owa** .
  
 ### Step 1: Use IIS Manager to simplify OWA URL and force redirection to SSL
 
 1. Start IIS Manager.
-2. Expand the local computer, expand **Sites**, and then click **Default Web Site**.
-3. At the bottom of the Default Web Site Home pane, click **Features View** if this option isn't already selected.
-4. In the **IIS** section, double-click **HTTP Redirect**
-5. Select the **Redirect requests to this destination** check box.
-6. Type the absolute path of the /owa virtual directory. For example, type **https://mail.domain.com/owa.**
-7. Under **Redirect Behavior**, select the **Only redirect requests to content in this directory (not subdirectories)** check box.
-8. In the **Status code** list, click **Found (302)**.
-9. In the Actions pane, click **Apply**.  
+2. Expand the local computer, expand  **Sites** , and then click  **Default Web Site** .
+3. At the bottom of the Default Web Site Home pane, click  **Features View**  if this option isn't already selected.
+4. In the  **IIS**  section, double-click  **HTTP Redirect**
+5. Select the  **Redirect requests to this destination**  check box.
+6. Type the absolute path of the /owa virtual directory. For example, type  **https://mail.domain.com/owa.**
+7. Under  **Redirect Behavior** , select the  **Only redirect requests to content in this directory (not subdirectories)**  check box.
+8. In the  **Status code**  list, click  **Found (302)** .
+9. In the Actions pane, click  **Apply** .  
 ![](OWARedirect.jpg)
-10. Click **Default Web Site**.
-11. In the Default Web Site Home pane, double-click **SSL Settings**.
-12. In **SSL Settings**, clear **Require SSL**.  
+10. Click  **Default Web Site** .
+11. In the Default Web Site Home pane, double-click  **SSL Settings** .
+12. In  **SSL Settings** , clear  **Require SSL** .  
 ![](OWARedirect2.jpg)
 
 
@@ -47,8 +47,8 @@ appcmd set config "Default Web Site/Microsoft-Server ActiveSync" /section:httpre
 
 ### Step 3: Test that HTTP to HTTPS redirect is working
 
-1. Open Internet Explorer and type in **http://mail.domain.com**
-2. DONE - You are then redirected to **https://mail.domain.com/owa**
+1. Open Internet Explorer and type in  **http://mail.domain.com**
+2. DONE - You are then redirected to  **https://mail.domain.com/owa**
 
  
 ![Bad Example, no redirect in place for OWA](iisnoredirect.jpg)

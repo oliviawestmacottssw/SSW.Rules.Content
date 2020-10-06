@@ -18,9 +18,9 @@ When developing Angular or React, there are lots of choices for code editors. Th
 
 Many experienced teams are using Visual Studio for their C# backend and loving using Visual Studio Code for their Angular or React projects.
 
-The recommended extension for Visual Studio Code is `**Angular Essentials**` from John Papa
+The recommended extension for Visual Studio Code is ` **Angular Essentials** ` from John Papa
 
-**Angular Essentials **is actually a meta-package that includes a list of great extensions for Angular Development – and this list may be updated in the future as more extensions become popular.
+**Angular Essentials** is actually a meta-package that includes a list of great extensions for Angular Development – and this list may be updated in the future as more extensions become popular.
 
 See     https://github.com/johnpapa/vscode-angular-essentials.
 
@@ -30,8 +30,8 @@ You can find more extensions at [Visual Studio | Marketplace](https://marketplac
 
 ### Open in Visual Studio Code
 
-This extension is for those times where you have a project open in     **Visual Studio** and you want to be able to quickly open it in     **Visual Studio Code**.
+This extension is for those times where you have a project open in      **Visual Studio**  and you want to be able to quickly open it in      **Visual Studio Code** .
 
 ![Get to Visual Studio Code quickly from within Visual Studio - <br>](open-in-vscode.png)[Open in Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
 
-**More: **[Why do others love VS Code?](https://stackshare.io/posts/why-developers-love-visual-studio-code)
+**More:** [Why do others love VS Code?](https://stackshare.io/posts/why-developers-love-visual-studio-code)

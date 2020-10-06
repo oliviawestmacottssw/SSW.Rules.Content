@@ -37,7 +37,7 @@ This is a well-established way to do documentation but the issue with it is that
  
 ![Documentation can take the form of Sequence Diagrams](enterprisearchitect1.jpg)
 ![...or Use Case Diagrams](EnterpriseArchitectUseCases.jpg)
-**Exception:** Keep this limited to just enough documentation to cover a couple of sprints, and be committed to keeping it updated. The tool of choice if you're going down this road is Enterprise Architect (an excellent application built by Australians).
+**Exception:**  Keep this limited to just enough documentation to cover a couple of sprints, and be committed to keeping it updated. The tool of choice if you're going down this road is Enterprise Architect (an excellent application built by Australians).
 
 ### Level 2 - Lots of documentation (and the 6 important documents)
 
@@ -123,11 +123,11 @@ A perfect solution would need no static documentation. Perfect code would be so 
 Example of Level  6: PowerShell Documentation
 
 
-**Recommendation:** All manual workstation setup steps should be scripted with PowerShell (as per the below example)
+**Recommendation:**  All manual workstation setup steps should be scripted with PowerShell (as per the below example)
 
-**Recommendation:** You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
+**Recommendation:**  You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
 
-PS C:\Code\Northwind>** .\Setup-Environment.ps1**
+PS C:\Code\Northwind> **.\Setup-Environment.ps1** 
 
 Problem: Azure environment variable run state directory is not configured (\_CSRUN\_STATE\_DIRECTORY).
  
@@ -189,7 +189,7 @@ Similar to Level 6 except no setup document but a business document that details
 
 [[greyBox]]
 | 
-**Scrum Tip: Update your Acceptance Criteria** - If you use a policy that requires commits to be linked to PBIs, then you understand that the PBI is now the documentation. If requirements change (based on a conversation with Product Owner of course) then the PBI should be updated.
+**Scrum Tip: Update your Acceptance Criteria**  - If you use a policy that requires commits to be linked to PBIs, then you understand that the PBI is now the documentation. If requirements change (based on a conversation with Product Owner of course) then the PBI should be updated.
 
 When updating the Acceptance Criteria, strike through the altered Acceptance Criteria and add the new ones. Get the PO to confirm your understanding.
 

@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-We use **SSWPackage.exe**
+We use  **SSWPackage.exe**
 
 The long answer:
 
@@ -26,15 +26,15 @@ Our answer to the deployment problem is a combination of tools and processes �
 - **Multiple development virtual machine environments
 **
     - Test repeated deployment to staging before you actually deploy to the production server
-- **SSW SharePoint Deployment Auditor** – compares development, staging and production servers to identify missing files that needs to be deployed
+- **SSW SharePoint Deployment Auditor**  – compares development, staging and production servers to identify missing files that needs to be deployed
     - Specify ignore lists
     - Spits out XML code that would be easy to add to your package xml
-- **SSW Package Updater** – updates the solution package based on the XML definitions
+- **SSW Package Updater**  – updates the solution package based on the XML definitions
     - Ensure you always have the latest version of the files from development SharePoint included in your package.
-- **Microsoft Visual Studio **extensions for Windows SharePoint Services
+- **Microsoft Visual Studio** extensions for Windows SharePoint Services
     - Using the latest VSeWSS 1.3 CTP
     - Generates the package and batch files
-- **SharePoint STSADM** tool for deployment
+- **SharePoint STSADM**  tool for deployment
 
 
 Into the future of SSWPackage.exe

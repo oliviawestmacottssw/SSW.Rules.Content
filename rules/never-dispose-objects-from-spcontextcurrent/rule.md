@@ -16,7 +16,7 @@ Disposing objects in SharePoint is important, but never do it with objects from 
 
 
 
-**using **(SPWeb web = **SPContext.Current.Site.RootWeb**)
+**using** (SPWeb web =  **SPContext.Current.Site.RootWeb** )
 {
  //do something here
 }
@@ -26,6 +26,6 @@ Figure: Using statement is trying to dispose current site object - it will cause
 
 Just simplely use "Current" object directly.
 
-SPWeb web = **SPContext.Current.Site.RootWeb**;
+SPWeb web =  **SPContext.Current.Site.RootWeb** ;
 //do something here
 Figure: Use Current objects directly - don't need to dispose them

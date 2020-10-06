@@ -22,7 +22,7 @@ However, if the subject is unclear, send a response as per the rules [Do you kno
 
 If the request from the client is too large for one Work Item, then it will need to be turned into multiple Work Items as per the rule  [Do you keep your PBIs smaller than 2 days' effort?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=c0d01e55-619e-4f99-a480-6c9f0bfe9855) In this case, you will need to let the client know this and include URLs to each Work Item.
 
-**Note:** Once you've moved the email into TFS as a work item, you should delete the original email from your inbox or move it to an Outlook folder called "Moved to TFS" to avoid duplication.
+**Note:**  Once you've moved the email into TFS as a work item, you should delete the original email from your inbox or move it to an Outlook folder called "Moved to TFS" to avoid duplication.
 
 ![Now the new Product Backlog Item is in the Product Backlog](2014-11-10_13-17-43-compressor.png)
 

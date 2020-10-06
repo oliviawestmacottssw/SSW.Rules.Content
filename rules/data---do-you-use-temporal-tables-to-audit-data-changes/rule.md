@@ -50,15 +50,15 @@ CREATE TABLE dbo.Shippers
                [ShipperID] int IDENTITY(1, 1) NOT NULL,
                [CompanyName] nvarchar(40) NOT NULL,
                [Phone] nvarchar(24) NULL,
-**  [SysStartTime] datetime2 GENERATED ALWAYS AS ROW START,**
-**               [SysEndTime]  datetime2 GENERATED ALWAYS AS ROW END,**
-**               PERIOD FOR SYSTEM\_TIME (SysStartTime, SysEndTime),**
+**[SysStartTime] datetime2 GENERATED ALWAYS AS ROW START,** 
+ **[SysEndTime]  datetime2 GENERATED ALWAYS AS ROW END,** 
+ **PERIOD FOR SYSTEM\_TIME (SysStartTime, SysEndTime),** 
                CONSTRAINT PK\_Shippers PRIMARY KEY CLUSTERED
                (             
                               [ShipperID]
                )
 )
-**WITH (SYSTEM\_VERSIONING = ON (HISTORY\_TABLE = dbo.ShippersHistory));**
+ **WITH (SYSTEM\_VERSIONING = ON (HISTORY\_TABLE = dbo.ShippersHistory));**
 Figure: Shippers table from the Northwind schema converted to a temporal table.
 
 

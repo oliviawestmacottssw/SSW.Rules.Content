@@ -12,7 +12,7 @@ authors:
 It is important to use consistent language when talking about changes made to a TFS environment. The term configuration and customization are sometimes used interchangeably. It is clearer to use the following to differentiate them:
 
  
-**Configuration** applies to any changes made to application settings that help to make your TFS installation work correctly for a particular environment
+ **Configuration**  applies to any changes made to application settings that help to make your TFS installation work correctly for a particular environment
 
 
 
@@ -22,7 +22,7 @@ Configuration would apply to objects like: TFS Administration Console (SharePoin
 
 
 
-**Customization **is when TFS is changed to fit into a customized process. 
+ **Customization** is when TFS is changed to fit into a customized process. 
 
 
 
@@ -32,7 +32,7 @@ Customization would apply to: Changing Work Item Templates, Custom Reports, Wor
 
 
 
-**Extending **is a term used with CRM that includes developing Plug-in's. With TFS this is covered under Customization.
+ **Extending** is a term used with CRM that includes developing Plug-in's. With TFS this is covered under Customization.
 
 
 See the [CRM](/do-you-know-how-to-correctly-use-the-terms-configuration-customization-and-extending-in-the-crm-context) rule for correct definitions.

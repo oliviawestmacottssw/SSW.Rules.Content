@@ -16,7 +16,7 @@ Make sure your Visual Studio encoding is consistent with Sydney to avoid encodin
 ![Use "Open With...&](OpenFileWithOption.png)
 ![Set "... Editor with Encoding" as the Default Editor](OpenFileDialog.png)
 ![Make sure your encoding is consistent with Sydney](OpenFileEncoding.png)
-**Save file with Encoding:** (Optional - it will be saved w (Optional - it will be saved with opened encoding automatically.)
+**Save file with Encoding:**  (Optional - it will be saved w (Optional - it will be saved with opened encoding automatically.)
   
 ![Open "Advance Save Options..." in Visual Studio before checking in](AdvancedSaveOptions.png)
 ![Make sure your setting is consistent with Sydney](AdvancedSaveOptionsEncoding.png)

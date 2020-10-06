@@ -13,7 +13,7 @@ Your standard help menu should include an option to run your Unit Tests. Everybo
 
 And yes, there are many tests that can be written that will pass on the developers PC - but not on the users PC. e.g. Ability to write to a directory, missing dlls, missing tables in the schema etc.
  
-**Note:** Adding this option requires you to include NUnit in your setup.exe (See [Include all the files needed](https://www.ssw.com.au/ssw/Standards/WiseSetup/WiseStandards.aspx#IncludeAllFiles) in our Wise Standard).
+**Note:**  Adding this option requires you to include NUnit in your setup.exe (See [Include all the files needed](https://www.ssw.com.au/ssw/Standards/WiseSetup/WiseStandards.aspx#IncludeAllFiles) in our Wise Standard).
 
 ![Standard Help menu should give you an option to Run Unit Tests to check the users' environment](HelpRunUnitTests.gif)(Good)
 ![Obviously the red indicates that there is a problem with a Unit Test](NUnitGui.gif)(Good)

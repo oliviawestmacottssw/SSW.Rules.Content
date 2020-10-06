@@ -9,9 +9,9 @@ authors:
 
 ---
 
-When creating an appointment email for an initial meeting, make sure you include the words "**initial**" and "**meeting**" on the subject. 
+When creating an appointment email for an initial meeting, make sure you include the words " **initial** " and " **meeting** " on the subject. 
 
-Subject: Northwind project with SSW and Bob
+Subject:   Northwind project with SSW and Bob
 
  Figure: Bad subject - not clear it is an initial meeting
 

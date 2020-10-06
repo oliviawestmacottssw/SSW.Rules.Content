@@ -28,4 +28,4 @@ Figure: Bad Example - Using the &lt;br /&gt; tag to create a space at the bottom
 ul {margin-bottom:15px;}
 <br>ul li {padding-left:10px;}
 Figure: Good Example - Using CSS to add a margin at the bottom of the list a the padding on the left side of each list item
-**Tip:** You might be not familiar with editing a CSS file. In this case, contact a designer. He/She will be more than happy to help you.
+**Tip:**  You might be not familiar with editing a CSS file. In this case, contact a designer. He/She will be more than happy to help you.

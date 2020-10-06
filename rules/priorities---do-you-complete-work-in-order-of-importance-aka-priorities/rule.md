@@ -18,12 +18,12 @@ The word "Urgent" is more important than the word "Important"
 ![Remove roadblocks](challenges-ahead-sign.jpg)
 This is the order which you should work:
 
-1. **Urgent emails** - emails with "URGENT" in the subject e.g. URGENT - the website is down
+1. **Urgent emails**  - emails with "URGENT" in the subject e.g. URGENT - the website is down
 2. Emails about  [Timesheets](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ffae6faf-35b2-48d6-8999-37a02ad3b9af)or invoicing issues
 3. Your calendar - [keep your calendar up-to-date,](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0786a7f7-bd71-418c-908e-3e12fca21264)so people know where you are
-4. **Your existing clients** - e.g. Normal planned client work and client administration (preferably working on a sprint [backlog](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f0198a96-7a71-4797-b738-d66aa38a98df) and Daily Scrums)
-5. **Other client work** - Ask others if you can help with their client work
-6. **Prospective clients** - project management, answering questions and setting up meetings
+4. **Your existing clients**  - e.g. Normal planned client work and client administration (preferably working on a sprint [backlog](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f0198a96-7a71-4797-b738-d66aa38a98df) and Daily Scrums)
+5. **Other client work**  - Ask others if you can help with their client work
+6. **Prospective clients**  - project management, answering questions and setting up meetings
 7. Internal - all of the following might have their priorities ordered by the Daily Scrum
     1. Quick Important emails to 0 (emails with an important flag < 1 hour and not something that can go into a release plan)
     2. Incomplete [Sprints](http://sharepoint.ssw.com.au/Standards/Management/RulesToBetterScrumUsingTFS/Pages/SprintPlanning%28WHAT%29Meeting.aspx) (was "[release plans](http://sharepoint.ssw.com.au/Standards/Management/RulesToBetterProjectManagement/Pages/DetailedReleasePlan.aspx)") e.g. Normal planned internal work

@@ -9,9 +9,9 @@ authors:
 
 ---
 
-**1. Bit data type**
-**
-**
+**1. Bit data type** 
+ **
+** 
 Bit data from 0 to 1 (2 values only). Storage size is 1 byte.
 
 Columns of type bit cannot have indexes on them.

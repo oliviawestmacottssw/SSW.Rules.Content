@@ -13,7 +13,7 @@ authors:
 
 You need     [process monitor](http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx) to track down permissions problems.
 
-E.g.     **Problem**
+E.g.      **Problem**
 
 To hunt down a problem where say the IIS server couldn’t write to a directory, even after you have given permissions to the app pool account.
 

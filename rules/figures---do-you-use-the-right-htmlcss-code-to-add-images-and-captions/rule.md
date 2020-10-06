@@ -33,7 +33,7 @@ Instead, you should use &lt;DL&gt;, &lt;DT&gt; (which is the item in the list �
 ```
 
   Figure: Good Example 
-**Note:** &lt;dl&gt; stands for "**definition list**"; &lt;dt&gt; for "**definition term**"; and &lt;dd&gt; for "**definition description**".
+**Note:**  &lt;dl&gt; stands for " **definition list** "; &lt;dt&gt; for " **definition term** "; and &lt;dd&gt; for " **definition description** ".
 
 ### Relate Rule
 

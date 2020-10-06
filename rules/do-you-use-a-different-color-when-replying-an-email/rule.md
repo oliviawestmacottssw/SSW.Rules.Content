@@ -13,7 +13,7 @@ authors:
 
 ---
 
-**Warning:** there is very rarely a reason to use inline – avoid it.  You should copy the tasks and paste in your response area instead.
+**Warning:**  there is very rarely a reason to use inline – avoid it.  You should copy the tasks and paste in your response area instead.
 
 
 

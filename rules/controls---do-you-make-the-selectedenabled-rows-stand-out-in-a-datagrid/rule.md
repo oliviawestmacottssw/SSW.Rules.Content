@@ -15,7 +15,7 @@ Many times you allow a multiple selection in a grid by using a checkbox. When yo
 | ![Selected rows are not separate from others.](../../assets/Interface_Selected_Rows_Bad.JPG)
 [[goodExample]]
 | ![Selected rows are separate from others.](../../assets/Interface_Selected_Rows_Good.JPG)
-To make this effect in datagrid, you may need to edit the **cellcontentclick** event handler code. 
+To make this effect in datagrid, you may need to edit the  **cellcontentclick**  event handler code. 
 Example:
 
 private void DatagridviewRules\_CellContentClick(object sender, DataGridViewCellEventArgs e)

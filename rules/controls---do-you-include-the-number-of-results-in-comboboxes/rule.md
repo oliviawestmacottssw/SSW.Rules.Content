@@ -14,7 +14,7 @@ When designing your form, you should try to help your user whenever it's possibl
 [[goodExample]]
 | ![combo-box with multiple columns Feel free to use our sample:](combo-box-multiple-col.jpg)
 1. Download and install Kendo UI Controls from [Kendo UI](http://www.kendoui.com/)
-2. **HTML (Razor)**
+2. **HTML (Razor)** 
 Create a combo-box that has a custom template. Use a code bellow as an example:
 
 @(Html.Kendo().ComboBoxFor(x => x.EmpTime.ProjectID)
@@ -45,13 +45,13 @@ Create a combo-box that has a custom template. Use a code bellow as an example:
 .IgnoreCase(true)
 .Events(e => e.Change("projectChanged").Open("onProjectOpened"))
 )
-3. **CSS**
+3. **CSS** 
 Customize the look & feel to suit your needs.
 
 ```
 #projectsTableBorder { border-bottom: 1px solid rgb(217, 217, 217); margin: 0 -2px; } .comboBox-Projects#projectsHeader { color: black; font-weight: bold; margin: 4px 16px 4px 4px; } .comboBox-Projects td.projectName { width: 400px; text-align: left; } .comboBox-Projects td.projectTotalCount { width: 70px; text-align: right; padding-right: 16px; } .comboBox-Projects td.projectLastUsed { text-align: left; } #projectNameHeader:hover, #projectTotalCountHeader:hover, #projectLastUsedHeader:hover { cursor: pointer; text-decoration: underline; }
 ```
-4. **JavaScript**
+4. **JavaScript** 
 Use JavaScript to change the combo-box's behaviour.
 
 ```

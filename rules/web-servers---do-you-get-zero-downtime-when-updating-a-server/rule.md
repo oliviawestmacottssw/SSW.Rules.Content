@@ -19,8 +19,8 @@ Then, use a Network Load Balancer (we recommend Microsoft’s build in NLB) whic
 
 Follow the below steps on your test server first, get the application tested passed, then move on to production.
 
-1. Open the **Network Load Balancing Manager**
-2. Right click on the machine you want to update | Select **Control Host** | Click **Drain Stop** 
+1. Open the  **Network Load Balancing Manager**
+2. Right click on the machine you want to update | Select  **Control Host**  | Click  **Drain Stop**
 ![The 2 green icons indicate both servers are live with users - Do a drain stop on the server you want to make changes too](Server-drainstop.jpg)
 3. To view the current connections on the server, open a command prompt and enter netstat -an. You will be able to see the connections list dropping as users are sent to the other server 
 ![Run "netstat -an" to view the current connections on the server](Server-netstat.jpg)
@@ -32,7 +32,7 @@ Follow the below steps on your test server first, get the application tested pas
 
 ![Now that the server isn't being hit with users, perform your updates. Click "Restart Now"7. Optional – Do a smoke test](Server-restart.jpg)(open the site and check its working)
 8. Optional – Run any automated tests (for example Telerik Tests)
-9. When the server ready, add it back into the load balancer. Right click on the machine | Select **Control Host** | Click **Start**
+9. When the server ready, add it back into the load balancer. Right click on the machine | Select  **Control Host**  | Click  **Start**
 10. The server icon will return to green, and users will start being sent to the server again
 
 ![The server will now accept connections again11. Follow the same process for the other server](Server-green.jpg)(or multiple)

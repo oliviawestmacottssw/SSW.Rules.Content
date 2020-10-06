@@ -14,7 +14,7 @@ authors:
 As long as you have work items created and your developers keep them up to date, you can use MS Project to calculate project budget usage in real-time; this helps the project manager to determine the progress in term of $ which is what client really care about. 
 <br>Note: To have this working properly, you need VSTS 2010 because it has better MS Project integration. 
 **Calculate the total cost for your release:
-**Follow the steps below to save a baseline and track your project budget usage:
+** Follow the steps below to save a baseline and track your project budget usage:
 
 1. Open MS Project and connect to your Team Project 
 ![Click “Choose Team Project” and choose the project you want to track](ChooseTeamProject_Small.jpg)
@@ -45,7 +45,7 @@ As long as you have work items created and your developers keep them up to date,
 ![Total cost is calculated](TotalCost_Small.jpg)
 
 
-**Baseline management:**
+**Baseline management:** 
  Baseline management is very important for every project manager as it helps you to determine the budget usage; once the client approves your initial estimate for the project it will become your baseline. So before you set a baseline in your MS Project, make sure the client approves it.
 
 To set a baseline, choose “Tools, Tracking, Set Baseline” from the menu: 
@@ -56,7 +56,7 @@ A handy feature of MS Project is its ability to handle multiple baselines. Use a
  Once your baseline is set, you will be able to see the “Baseline Cost” column is showing $,
 ![Baseline Cost is showing $](BaselineCost_Small.jpg)
 
-**Track your project on the go**
+**Track your project on the go** 
  When your project is running, your developers will update the “Remaining Work” and “Completed Work” columns from TFS, they may not use MS Project so you will need to refresh your MS Project file to get these changes, and the $ will be calculated on the fly to give you up-to-date status.
  To refresh your project file, simply click on the “Refresh” button in the toolbar. 
 ![Click the “Refresh” button to update your project file.](RefreshProject.jpg)

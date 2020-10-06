@@ -22,9 +22,9 @@ PWAs also account for higher user engagements and conversions which is probably 
  
 In order to be a PWA, your app should:
 
-- **Use a responsive design**, so it works on desktop or mobile.
-- **Be fast**, using a service worker to precache the app resources (HTML, CSS, JavaScript, images) needed to run, and cache the data at runtime to improve performance.
-- **Be installable**, using a web app manifest and the beforeinstallprompt event to notify the user that it is installable.
+- **Use a responsive design** , so it works on desktop or mobile.
+- **Be fast** , using a service worker to precache the app resources (HTML, CSS, JavaScript, images) needed to run, and cache the data at runtime to improve performance.
+- **Be installable** , using a web app manifest and the beforeinstallprompt event to notify the user that it is installable.
 
 
 Examples of Progressive Web Apps can be seen at [**https://mofluid.com/blog/10-best-progressive-web-apps**](https://mofluid.com/blog/10-best-progressive-web-apps/).

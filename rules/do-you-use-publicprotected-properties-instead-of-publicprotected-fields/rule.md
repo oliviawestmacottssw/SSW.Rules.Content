@@ -11,13 +11,13 @@ authors:
 
 Public/Protected properties have a number of advantages over public/protected fields:
 
-- **Data validation**
+- **Data validation** 
 Data validation can be performed in the get/set accessors of a public property. This is especially important when working with the Visual Studio .NET Designer.
-- **Increased flexibility**
+- **Increased flexibility** 
 Properties conceal the data storage mechanism from the user, resulting in less broken code when the class is upgraded. Properties are a recommended object-oriented practice for this reason.
-- **Compatibility with data binding**
+- **Compatibility with data binding** 
 You can only bind to a public property, not a field.
-- **Minimal performance overhead**
+- **Minimal performance overhead** 
 The performance overhead for public properties is trivial. In some situations, public fields can actually have inferior performance to public properties.
 
  

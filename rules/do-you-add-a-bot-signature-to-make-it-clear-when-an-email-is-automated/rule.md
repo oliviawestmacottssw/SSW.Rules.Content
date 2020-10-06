@@ -16,7 +16,7 @@ With the advent of Microsoft Flow and Logic Apps, automated emails are becoming 
 However, the end user should be able to tell that this was sent by a bot, and not a real person, both for transparency, and also to potentially trigger them to automate some of their own workflow.
  
 **Hi All,
-**
+** 
 The maximum temperature for today is 32.
 Feel free to wear shorts if you like 🌞 (hope you haven't skipped leg day 😜)
 If you decide against it, then don't forget the SSW dress code applies as usual (e.g. dress up on Monday and Tuesday - no jeans).

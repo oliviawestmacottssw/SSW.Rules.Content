@@ -27,35 +27,35 @@ Mid week meeting are recommended so that the liklihood of it occurring on a publ
 - Since these meetings will occur every Sprint - set a recurrence on the calendar appointment (every 1, 2, 3, or 4 weeks) so that people have the time blocked out well in advance.
 
 
-**Tip: **It can be helpful to finish the Sprint Review with the first Daily Scrum
+**Tip:** It can be helpful to finish the Sprint Review with the first Daily Scrum
 
 Schedule the meeting and invite the Scrum Team and any interested stakeholders.
 
 
 
-**Required Attendees: **[Scrum Team]           
-**Optional Attendees:** [Interested Stakeholders]
-**Subject: 🏃‍♂️ **[Project Name] – Sprint Review, Retro and Planning
-**Recurrence**: Every **[Number of weeks in the Sprint]** weeks
+**Required Attendees:** [Scrum Team]           
+**Optional Attendees:**  [Interested Stakeholders]
+**Subject: 🏃‍♂️** [Project Name] – Sprint Review, Retro and Planning
+ **Recurrence** : Every  **[Number of weeks in the Sprint]**  weeks
 
 
 
-Hi           **XXX**,
+Hi            **XXX** ,
  
 This is a calendar appointment to hold the following three Scrum meetings:
-Scrum Master: **XXX**
-Task Board:           **XXX**
+Scrum Master:  **XXX** 
+Task Board:            **XXX** 
  
-**Sprint Review Meeting**
+ **Sprint Review Meeting** 
 We will go through the user stories that have been completed and demonstrate them.
 See rule [What happens at a Sprint Review Meeting](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ce7cba56-e7a2-42c9-bdca-2445cf8f820b)? 
  
-**Sprint Retrospective Meeting**
+ **Sprint Retrospective Meeting** 
 Sprint closed and new sprint starts.
 We ask for feedback of the previous sprint so that we can ‘Inspect and Adapt’.
 See rule [What happens at a Sprint Retrospective Meeting](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=4f02d28d-5375-4530-abcb-0b541683bcbc)? 
  
-**Sprint Planning Meeting**
+ **Sprint Planning Meeting** 
 We go through the backlog (aka to-do list), get more information, estimate and then prioritize. 
 We then breakdown to tasks and commit to what we believe we can deliver for the next sprint.
 See the rule [What happens at a Sprint Planning Meeting](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ba8d0048-f440-42a6-90c0-8f79f0973d10)?

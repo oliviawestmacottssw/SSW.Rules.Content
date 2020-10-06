@@ -45,11 +45,11 @@ More Information:
 1. Fill in the fields for the new client site 
 eg. Title, Description, and URL
 2. Select the template 
-e.g “**ClientCollaboration\_V1**” in the Custom tab.
-Note: Your selection is confirmed in the picture. In this example, the template’s description looks like “**Site for Collaboration with SSW Clients**”.
-3. Select “**Use Unique permissions**” as you need to give the client an account to visit.
-4. In the “**Navigation Inheritance**” choose “**No**” as you don’t need to let client visit the other client sites via the navigation.
-5. Click “**Create**”
+e.g “ **ClientCollaboration\_V1** ” in the Custom tab.
+Note: Your selection is confirmed in the picture. In this example, the template’s description looks like “ **Site for Collaboration with SSW Clients** ”.
+3. Select “ **Use Unique permissions** ” as you need to give the client an account to visit.
+4. In the “ **Navigation Inheritance** ” choose “ **No** ” as you don’t need to let client visit the other client sites via the navigation.
+5. Click “ **Create** ”
 
 
 
@@ -62,7 +62,7 @@ More Information:
 - Permissions: After you created the website for the client project, you need to configure the permission to make sure the developers and the clients can visit the site with the current authority. By default:
 
 
-1. **Visitors to the site - Read: **
+1. **Visitors to the site - Read:**
     - Visitors need to read most of the site.
     - They can't read team discussions (not used)
     - They can download from 'release files' document library.

@@ -24,7 +24,7 @@ These are the best sites to check in order of preference:
 - [www.edreams.com](http&#58;//www.ssw.com.au/SSW/Redirect/Edreams.htm) (8/10)
 - [www.webjet.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Webjet.htm) (7/10)
 - [www.qantas.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Qantas.htm)(7/10)
-- [www.flightcentre.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Flightcentre.htm) **OR** [www.escapetravel.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Escapetravel.htm) (6/10) 
+- [www.flightcentre.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Flightcentre.htm)  **OR**  [www.escapetravel.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Escapetravel.htm) (6/10) 
 (both owned by same company)
 - 
 

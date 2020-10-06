@@ -21,4 +21,4 @@ So for the case above, the text would be:
 
 btnAbout.Text = "&About"
 
-**Tip:** In Windows XP the mnemonic display effects can be hidden by Default and then shown every time the user presses the Alt key.
+ **Tip:**  In Windows XP the mnemonic display effects can be hidden by Default and then shown every time the user presses the Alt key.

@@ -16,4 +16,4 @@ Using instant messengering applications is all about communication. If something
 
 [[goodExample]]
 | ![People are showing their phone numbers to allow urgent issues to be resolved](Good-Example-numbers-listed.jpg)
-**Note**: Before you make phone calls, see our [Do you prepare, then confirm conversations/decisions?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2b86d144-7041-41f3-92aa-d7d59b88149a)
+**Note** : Before you make phone calls, see our [Do you prepare, then confirm conversations/decisions?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2b86d144-7041-41f3-92aa-d7d59b88149a)

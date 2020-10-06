@@ -21,4 +21,4 @@ When a user looks at a search result, they expect to see a list of items to look
 | ![Plain and clean screen](search-result-good-web.jpg)
 [[goodExample]]
 | ![Plain and clean screen on mobile](search-result-good-iphone.jpg)
-**Note:** In case the message you're showing is a "pass" or "fail, it is recommended to use an icon as per [Do you use icons to enforce the text meaning?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f91fb66f-5a63-4404-a01d-06222a172e03)
+**Note:**  In case the message you're showing is a "pass" or "fail, it is recommended to use an icon as per [Do you use icons to enforce the text meaning?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f91fb66f-5a63-4404-a01d-06222a172e03)

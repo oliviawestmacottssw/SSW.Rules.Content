@@ -18,7 +18,7 @@ All SSW staff are allocated a physical inbox. You must check it daily to ensure 
     - Throw the paper away.
 2. **Paper has no use:**
     - Throw the paper away! Examples of this would include your own notes that are no longer relevant.
-3. **Paper is not a task but needs to be kept anyway:**
+3. **Paper is not a task but needs to be kept anyway:** 
 
     - The SSW filing system is split into 3 categories: current clients, past clients and SSW internal. It is your responsibility to make a new folder if one doesn't exist for your client (filing supplies and the label maker are in the machine room). Write the ClientID and your initials and date in the top right hand corner of the paper. e.g. HOED - CA - 11/11/2000.<br>
     - Hopefully any papers you may have will be related to current clients. Paper in this category include Non Disclosure Agreements, and Terms and Conditions. File the paper in the clients folder.

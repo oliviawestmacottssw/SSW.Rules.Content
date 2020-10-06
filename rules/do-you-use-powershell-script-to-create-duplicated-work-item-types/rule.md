@@ -27,4 +27,4 @@ $destination\_file =  '..\WorkItem Tracking\TypeDefinitions\Task\_ PlatformDep
 $destination\_file =  '..\WorkItem Tracking\TypeDefinitions\Task\_SystemDep.xml'
 (Get-Content $original\_file) | Foreach-Object {
    $\_ -replace "xxxxDepNamexxxx", "SystemDep"
-   } | Set-Content $destination\_file -Encoding UTF8Figure: PowerShell script to create duplicate WITs and replace the place holder with actual dataNote: if you are using non-English characters in your<br>template, make sure you add **–Encoding UTF8 **otherwise you will have some<br>encoding problems.
+   } | Set-Content $destination\_file -Encoding UTF8Figure: PowerShell script to create duplicate WITs and replace the place holder with actual dataNote: if you are using non-English characters in your<br>template, make sure you add **–Encoding UTF8 ** otherwise you will have some<br>encoding problems.

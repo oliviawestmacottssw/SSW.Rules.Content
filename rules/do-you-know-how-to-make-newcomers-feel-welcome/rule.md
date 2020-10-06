@@ -15,7 +15,7 @@ The first day of a new job can be daunting.  For the new starter, the workplace 
 
 There are few simple ways to help new hires feel more comfortable as they adjust to their new workspace:
  
-** Before they start:**
+**Before they start:**
 
 Prior to the newcomer’s arrival, make sure their desk and work area are clean by giving the desktop, monitor, mouse and keyboard a wipe with a damp cloth. Then test that the equipment on their desk, such as the computer, phone and any other electronics, is in good working condition.
 

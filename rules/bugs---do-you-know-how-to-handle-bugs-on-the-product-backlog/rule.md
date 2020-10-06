@@ -44,14 +44,14 @@ In the Visual Studio Scrum template, bugs are just another PBI and you can assig
 
 As bugs from previous sprints are just PBI’s, the PO agrees to a list of bugs that will be fixed in the current Sprint.
 
-The team just fixes any **new** bugs they introduced in the current sprint.
+The team just fixes any  **new**  bugs they introduced in the current sprint.
 
 If the team finds bugs due to functionality accepted in a previous sprint they log it as a PBI and will complete the fix in a future sprint, unless it is a critical bug, in which case they raise it as an impediment to the current sprint to the PO.
 
 Examples:
 
-- **Small bug** – Text on a label is spelled incorrectly
-- **Big bug** - There is an error thrown when transitioning from page 1 to page 2 when you hold down the Ctrl key
+- **Small bug**  – Text on a label is spelled incorrectly
+- **Big bug**  - There is an error thrown when transitioning from page 1 to page 2 when you hold down the Ctrl key
 
 
 

@@ -14,7 +14,7 @@ One of the most controversial issues developers discuss is when to create branch
 Keep things simple:
 
 1. Have the team develop on the one branch. It is fantastic as there are no more merging hell.
-2. Have that branch called "**master**" if using **Git** and "**main**" or "**trunk**" when using **TFS** or **SVN**
+2. Have that branch called " **master** " if using  **Git**  and " **main** " or " **trunk** " when using  **TFS**  or  **SVN**
 
 
 Beware of smart bloggers giving the wrong advice :-) as many smart people like creating branches e.g. http://blog.hinshelwood.com/archive/2010/04/14/guidance-a-branching-strategy-for-scrum-teams.aspx. Even Martin Fowler says there are a number of issues related to merging that lead us to try and minimise the number of branches that we work with in his article on [Feature Branches](http://martinfowler.com/bliki/FeatureBranch.html).
@@ -38,7 +38,7 @@ The better way is to use OctopusDeploy which relives developers from having mult
 4. The more you need to create a branch, the harder it is going to be to merge it back into the trunk!
 5. Branching impedes refactoring.
  If a am working on a branch and perform sweeping renaming, and a developer working on another branch does the same – merging is nearly impossible.
- This is <br>      **very** likely to happen on code bases that require tidying when you have developers who believe in improving code as they go (see the <br>      [Boy Scout Rule](http://www.ssw.com.au/ssw/standards/Rules/RulestoBetterCode.aspx#BoyscoutRule))
+ This is <br>       **very**  likely to happen on code bases that require tidying when you have developers who believe in improving code as they go (see the <br>      [Boy Scout Rule](http://www.ssw.com.au/ssw/standards/Rules/RulestoBetterCode.aspx#BoyscoutRule))
 
 
 ### When it's OK to branch

@@ -38,7 +38,7 @@ public IEnumerable&lt;Customer&gt; GetSupplierCustomersWithMoreThanZeroOrders(in
 
     return customers;
 }Figure: This code explains what it is doing as you read left to right, and why it is doing it when you read top to bottom.
-**Tip: **Read the book [Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA) by Robert. C. Martin.
+**Tip:** Read the book [Clean Code: A Handbook of Agile Software Craftsmanship](http&#58;//www.google.com.hk/url?sa=t&amp;rct=j&amp;q=clean+code+download&amp;source=web&amp;cd=2&amp;ved=0CDgQFjAB&amp;url=http&#58;//www.e-reading.org.ua/bookreader.php/134601/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.html&amp;ei=2jRoT8yfM_LSiAKK9piWBw&amp;usg=AFQjCNEGQx__eAf7t0yM_dYGtaaxJ6TqJA) by Robert. C. Martin.
 
 ### Good code is declarative
 
@@ -68,7 +68,7 @@ result.Sort(delegate(ProductGroup groupX, ProductGroup groupY)
         0;
 });
 Figure: Bad example - Not using LINQ. The yellow gives it away.
-**Tip:** Resharper can automatically convert this code.
+**Tip:**  Resharper can automatically convert this code.
 
 
 ```
@@ -80,7 +80,7 @@ result = products
 ```
 
 Figure: Good example - using LINQ
-**Tip: **For more information on why declarative programming (aka LINQ, SQL, HTML) is great, watch the TechDays 2010 Keynote by Anders Hejlsberg.Anders explains why it's better to have code "tell what, not how".
+**Tip:** For more information on why declarative programming (aka LINQ, SQL, HTML) is great, watch the TechDays 2010 Keynote by Anders Hejlsberg.Anders explains why it's better to have code "tell what, not how".
 
 ### Clean front-end code - HTML (This one is questionable as HTML is generally a designer issue)
 

@@ -16,16 +16,16 @@ The Open Web Application Security Project (OWASP) is a non-profit charity organi
 
 The current OWASP Top 10 states the following are the top risks for web applications today. Knowing and securing against these will give the biggest bang-for-buck in securing your website.
 
-- **Injection**: Being able to execute arbitrary SQL, LDAP or other code via your application
-- **Broken authentication and session management**: Exploiting weak login and session management.  See our other [rules to better security](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=755d4b67-3a96-4455-9193-1f93102f4042)
-- **Sensitive data exposure: **Storing sensitive data in a way that can easily be retrieved and abused
-- **XML External Entities (XXE):** Exposing internal files or sensistive information through poorly configured external entity references in XML documents
-- **Broken Access Control: **Exploiting poorly enforced authentication rules to access unauthorised data
-- **Security Misconfiguration: **Insecure default configurations, misconfigured HTTP headers and verbose error messages containing sensitive information
-- **Cross-site scripting (XSS)**: Executing arbitrary JavaScript on a web page, often by reflecting unescaped user input
-- **Insecure Deserialization:** Not securing or sanitisng deserialisation can lead to remote code execution or other payload attacks
-- **Using components with known vulnerabilities: **Applications and APIs using components with known vulnerabilities may undermine application defenses and enable various attacks
-- **Insufficient Logging & Monitoring:** Most breach studies show time to detect a breach is over 200 days, typically detected by external parties rather than internal processes or monitoring
+- **Injection** : Being able to execute arbitrary SQL, LDAP or other code via your application
+- **Broken authentication and session management** : Exploiting weak login and session management.  See our other [rules to better security](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=755d4b67-3a96-4455-9193-1f93102f4042)
+- **Sensitive data exposure: ** Storing sensitive data in a way that can easily be retrieved and abused
+- **XML External Entities (XXE):**  Exposing internal files or sensistive information through poorly configured external entity references in XML documents
+- **Broken Access Control:** Exploiting poorly enforced authentication rules to access unauthorised data
+- **Security Misconfiguration: ** Insecure default configurations, misconfigured HTTP headers and verbose error messages containing sensitive information
+- **Cross-site scripting (XSS)** : Executing arbitrary JavaScript on a web page, often by reflecting unescaped user input
+- **Insecure Deserialization:**  Not securing or sanitisng deserialisation can lead to remote code execution or other payload attacks
+- **Using components with known vulnerabilities: ** Applications and APIs using components with known vulnerabilities may undermine application defenses and enable various attacks
+- **Insufficient Logging & Monitoring:**  Most breach studies show time to detect a breach is over 200 days, typically detected by external parties rather than internal processes or monitoring
 
 
 **Other Resources **

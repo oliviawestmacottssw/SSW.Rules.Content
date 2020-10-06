@@ -33,7 +33,7 @@ if (!('IntersectionObserver' in window)) {
                console.log("Support intersection");
 }
 
-**Note:** You can use a polyfill library to add **IntersectionObserver** support to older browsers.
+**Note:**  You can use a polyfill library to add  **IntersectionObserver**  support to older browsers.
 
 2.	If the browser supports IntersectionObserver, in your page html, change the “src” of “
 ![]()” to “data-src”
@@ -107,7 +107,7 @@ To
 
 
 
-3. Use the below code to convert “
+3.   Use the below code to convert “
 
 ” to “” to load the embedded videos when they are visible while scrolling down:
 var youtube = document.querySelectorAll( "div[data-iframesrc]" );
@@ -137,4 +137,4 @@ var youtube = document.querySelectorAll( "div[data-iframesrc]" );
                 } );    
     };
 
-4.	More details can be found at           https://webdesign.tutsplus.com/tutorials/how-to-lazy-load-embedded-youtube-videos--cms-26743
+4.	  More details can be found at           https://webdesign.tutsplus.com/tutorials/how-to-lazy-load-embedded-youtube-videos--cms-26743

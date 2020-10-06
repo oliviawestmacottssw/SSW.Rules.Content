@@ -17,4 +17,4 @@ First a little understanding of how Azure permissions work. For each subscriptio
 | ![too many people have Owner permission on the subscription level](azure-permissions-bad.jpg)
 [[goodExample]]
 | ![only Administrators that will be managing overall permissions and content have been given Owner/Co-administrator](azure-permissions-good.png)
-From the above image, only the main Administrators have been given Owner/Co-administrator access, all other users within the SSWDesigners and  **SSWDevelopers** Security Groups have been given Reader access. The **SSWSysAdmins** Security group has also been included as an owner which will assist in case permissions are accidentally stripped from the current Owners.
+From the above image, only the main Administrators have been given Owner/Co-administrator access, all other users within the SSWDesigners and  **SSWDevelopers**  Security Groups have been given Reader access. The  **SSWSysAdmins**  Security group has also been included as an owner which will assist in case permissions are accidentally stripped from the current Owners.

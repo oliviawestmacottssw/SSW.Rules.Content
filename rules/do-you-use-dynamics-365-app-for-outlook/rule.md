@@ -11,4 +11,4 @@ We used to use the [CRM Outlook Client Plugin](https://www.microsoft.com/en-US/d
  
 ![Track an Email in Outlook with Dynamics 365 App](track-email-in-outlook.png)
 
-![Track an Emails in OWA with Dynamics 365 App ](track-email-in-owa.png)
+![Track an Emails in OWA with Dynamics 365 App](track-email-in-owa.png)

@@ -20,13 +20,13 @@ These are some of the fields in the CQWP that are often configured:
 
 These two controls the main and item XSL file paths.  Set these to your new XSL file under /Style Library/XSL Style Sheets/SSW/SSWMainContent.xsl and SSWItem.xsl files
 
-**ItemLimit **
+**ItemLimit**
 
 The default number of items that are displayed on a Content Query web part is 15.  With unlimited pages.  Sometimes you want this number to be a lot higher (or -1 for no limit).
 
 Note: If you do make this unlimited - make sure your page is designed to grow infinitely or the layout may look strange.
 
-**CommonViewFields **
+**CommonViewFields**
 
 The Content Query web part automatically selects a few of the common fields for any query.  But sometimes you want a particular field that isn't selected by default.  This is when you should use CommonViewFields.
 
@@ -34,7 +34,7 @@ The syntax is "fieldname,fieldtype;"
 
 E.g. PublishingContent,PublishingHTML;
 
-**Query and QueryOverride **
+**Query and QueryOverride**
 
 The Content Query web part gives the user a lot of flexibility to design the query in the UI toolpart.  However if your needs are perculiar you can use the QueryOverride to skip over defining the query and use your supplied CAML directly.
 

@@ -19,6 +19,6 @@ RowGuids in general slow things down. Some people may consider using a RowGuid a
  
 Another little annoyance with RowGuids is when you are searching for one. You can't use &gt; or &lt; on a RowGuid column.
 
-**Note: **There are not many cases where a RowGuid should have an index on it.
+**Note: ** There are not many cases where a RowGuid should have an index on it.
 
 Be aware that SQL server adds this column when you perform merge replication. There are not many cases where this should have an index on it.

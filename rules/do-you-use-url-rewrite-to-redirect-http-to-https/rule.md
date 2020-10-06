@@ -26,16 +26,16 @@ First you must download the IIS URL Rewrite module from Web Platform Component I
 2. Name the rule "HTTP to HTTPS redirect"
 
 
-3. Add Pattern **(.\*)**
+3. Add Pattern  **(.\*)** 
 
 
 4. Add Conditions
 
 
-> - Condition input: **{HTTPS}**
+> - Condition input:  **{HTTPS}** 
 > 
 > 
-> **- **Pattern: **off**
+>  **-** Pattern:  **off**
 
 5. Add Action
 
@@ -43,7 +43,7 @@ First you must download the IIS URL Rewrite module from Web Platform Component I
 > - Action type: Redirect
 > 
 > 
-> - Action Properties: **https://{HTTP\_HOST}/{R:1}**
+> - Action Properties:  **https://{HTTP\_HOST}/{R:1}**
 
 
 

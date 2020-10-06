@@ -15,7 +15,7 @@ Summary:  Login  to Jira and clear the issues from the top left of your dashboar
  In the SSW Jira implementation, there are six situations where action is required by you swiftly and these appear on your dashboard in one or more of six filters:
 
 
-| **Dashboard Filter:** | ** Status Now** | **You need to:** | **(As you are Performing the Role of:) ** | ** Which will change the Status to:** |
+|  **Dashboard Filter:**  |  **Status Now**  |  **You need to:**  |  **(As you are Performing the Role of:)**  |  **Which will change the Status to:**  |
 | --- | --- | --- | --- | --- |
 | My Issues to Approve | Awaiting Approval | Approve or Reject | Adam | New |
 |  My Reported Issues to Answer | Questioned |  Answer or Close |  Reporter |  New |
@@ -28,8 +28,8 @@ Summary:  Login  to Jira and clear the issues from the top left of your dashboar
  NOTE: Most people will only have Reporter actions to perform. [Understand more about Reporters and Assignees](/Pages/ReportesAndAssignees.aspx) 
 
 
-![Your dashboard is your Home Page when you ](Urgent.png)[login like this](/Pages/HowdoIsignintoJira.aspx)****and clearly shows the issues that need your immediate attention 
-**
+![Your dashboard is your Home Page when you](Urgent.png)[login like this](/Pages/HowdoIsignintoJira.aspx)****and clearly shows the issues that need your immediate attention 
+** 
  For guidance on dealing with issues check out our other rules:
 
 [Answering](/Pages/HowdoIansweraquestioninJira.aspx)[SSW Dashboard](/Pages/SystemDashboard.aspx)

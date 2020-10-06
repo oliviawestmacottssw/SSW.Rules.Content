@@ -15,7 +15,7 @@ When you notice that someone has done something that could have been done bette
 
 For example, if someone sends you an email like that:
  
-**Subject: Meeting**
+**Subject: Meeting** 
 
 Hi Guys,
  
@@ -26,7 +26,7 @@ Let's meet on Thursday at 3 PM
 
 You could reply in different ways:
 
-**Subject: RE: Meeting**
+**Subject: RE: Meeting** 
 
 Hi Mary,
  
@@ -35,7 +35,7 @@ FYI - an appointment would have been better. See rule #48 in [Rules to better Em
 
 
 
-**Subject RE: Meeting**
+**Subject RE: Meeting** 
 
 Hi Mary,
 

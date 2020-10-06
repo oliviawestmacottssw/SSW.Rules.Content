@@ -15,6 +15,6 @@ All well and good but when you are trying to speed up an existing query that is 
 
 You really need to clear SQL's cache (or buffer) every time you test the speed of a query. This prevents the data and/or execution plans from being cached, thus corrupting the next test.
 
-To clear SQL Server's cache, run **DBCC DROPCLEANBUFFERS**, which clears all data from the cache. Then run **DBCC FREEPROCCACHE**, which clears the stored procedure cache.
+To clear SQL Server's cache, run  **DBCC DROPCLEANBUFFERS** , which clears all data from the cache. Then run  **DBCC FREEPROCCACHE** , which clears the stored procedure cache.
  
 ![First call is after clearing the cache. The second one is without clearing the cache.](ClearSQLServerCache_BenchmarkTests.jpeg)(26 seconds vs 2 seconds)

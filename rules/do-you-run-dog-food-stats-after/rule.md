@@ -15,7 +15,7 @@ Running the [DogFoodStats queries](http&#58;//blogs.msdn.com/b/granth/archive/2
 a.               On your TFS 2015 databases, run the DogFoodStats queries and save the results.
 
 b.              Check that the numbers are the same or very close.  Note any big differences.
- **Note:** The numbers may not be identical due to schema changes.
+**Note:**  The numbers may not be identical due to schema changes.
 
 Recent Users
 

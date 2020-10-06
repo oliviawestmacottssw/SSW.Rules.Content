@@ -41,8 +41,8 @@ Before you email a task to someone, think about how important it is to you.  The
 [[goodExample]]
 | ![The best workflow for sending an email](Email Diagram.jpg)
 
-**Q:** What if you need to write an email to multiple recipients?
-**A: **Assign each person a Business Value. In the case of "To Myself" emails, you can also add the amount of 'Effort' required too.
+**Q:**  What if you need to write an email to multiple recipients?
+ **A:** Assign each person a Business Value. In the case of "To Myself" emails, you can also add the amount of 'Effort' required too.
 
 [[goodExample]]
 | ![The best workflow for sending an email](Email screenshot.jpg)(with multiple recipients)

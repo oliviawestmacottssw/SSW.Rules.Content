@@ -16,7 +16,7 @@ As outlined on the Twitter website:
 ### Request to verify an account
 The blue verified badge on Twitter lets people know that an account of public interest is authentic. 
 
-We approve account types maintained by users in **music, acting, fashion, government, politics, religion, journalism, media, sports, business, and other key interest areas**. If you believe your account is of public interest and should be verified, this article outlines information about submitting a request.
+We approve account types maintained by users in  **music, acting, fashion, government, politics, religion, journalism, media, sports, business, and other key interest areas** . If you believe your account is of public interest and should be verified, this article outlines information about submitting a request.
 
 
 ### Submitting a request

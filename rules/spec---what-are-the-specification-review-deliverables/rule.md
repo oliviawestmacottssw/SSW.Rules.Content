@@ -23,7 +23,7 @@ The deliverables for the Specification Review depend upon how large the applicat
 
 
 
-**Requirements Analysis**
+ **Requirements Analysis** 
 
 - An architectural roadmap recommending technical solutions
 - A breakdown of the required software application into its core components, likely to include the approximate number of main features (e.g. forms, reports, etc.)
@@ -35,7 +35,7 @@ The deliverables for the Specification Review depend upon how large the applicat
 - Mock-ups if required
 
 
-**Summary Product Bac****klog **
+**Summary Product Bac****klog**
 
 - A list of product backlog items (PBIs) will be broken down based on the Requirements Analysis and the Architectural Design
 - These PBIs will then be estimated

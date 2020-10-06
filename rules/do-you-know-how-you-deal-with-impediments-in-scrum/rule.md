@@ -25,13 +25,13 @@ Separate out these as Point Cards
 ![Point cards](point-cards.jpg)
 # Set Timeboxes
 
-**Sprint Planning (What): ** 20 minutes
-**Sprint Planning (How):** 20 minutes
-**Each Day: ** 10 minutes ( x 9 days = 90 minutes)
-**Review: ** 20 minutes
-**Retro:** 20 minutes
+**Sprint Planning (What):**  20 minutes
+**Sprint Planning (How):**  20 minutes
+**Each Day:**  10 minutes ( x 9 days = 90 minutes)
+**Review:**  20 minutes
+**Retro:**  20 minutes
 
-**Total for 1 complete Sprint:** 170 minutes (~3 hours)
+**Total for 1 complete Sprint:**  170 minutes (~3 hours)
 
 # Sprint Planning Meeting (What)
 
@@ -66,7 +66,7 @@ Students and PO do a standard Scrum retro for the exercise.
 # Meaning of the Chance Cards
 
 
-| **∞**** ** | Impediment |
+| **∞** | Impediment |
 | --- | --- |
 | <br><ul>                <li>Draw a point card </li><br>                <li>Add the value to the remaining hours of a task</li><br>                <li>Record the impediment</li><br>            </ul><br>e.g.  DBA will not give access to the database. |
 | **?** | Clarification |
@@ -81,11 +81,11 @@ Students and PO do a standard Scrum retro for the exercise.
 | <br><ul>                <li>Double the remaining hours on a task </li><br>            </ul><br>e.g. Multiple field data validation was supported in the application but when it was implemented for this work it failed all validations calls and it took ages to find the    settings in web.config were wrong. |
 | **Cancelled Sprint** | The PO cancels the sprint |
 | <br><ul>                <li>Cancel all tasks</li><br>                <li>Recycle the PBIs to the Product Backlog </li><br>            </ul> |
-| **Team Member <br><br>            Leaves**** ** | The Team is missing a Team Member |
+| **Team Member <br><br>            Leaves** | The Team is missing a Team Member |
 | <br><ul>                <li>Reduce the hours the team works by 8 hours </li><br>            </ul> |
-| **Scrum Master <br><br>            Leaves**** ** | The Team is missing the  Scrum Master |
+| **Scrum Master <br><br>            Leaves** | The Team is missing the  Scrum Master |
 | <br><ul>                <li>The team handles the missing SM</li><br>            </ul> |
-| **Product Owner <br><br>            Leaves**** ** | The Product Owner is missing |
+| **Product Owner <br><br>            Leaves** | The Product Owner is missing |
 | <br><ul>                <li>The team handles the missing PO</li><br>            </ul> |
-| **Stakeholder Interferes**** ** | Stakeholders are contacting the Team to change priorities and requirements |
+| **Stakeholder Interferes** | Stakeholders are contacting the Team to change priorities and requirements |
 | <br><ul>                <li>The team handles the Stakeholders </li><br>            </ul> |

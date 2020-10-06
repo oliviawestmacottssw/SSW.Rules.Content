@@ -9,7 +9,7 @@ authors:
 
 ---
 
-**TODO Matt. W**.: Flesh out rule content
+**TODO Matt. W** .: Flesh out rule content
  
 
 ![Jekyll - Great but too simple](Jekyll.jpg)

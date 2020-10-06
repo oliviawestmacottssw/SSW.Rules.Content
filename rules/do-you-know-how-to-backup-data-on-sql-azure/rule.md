@@ -9,7 +9,7 @@ authors:
 
 ---
 
-**Built-in Automatic Backup in Azure SQL Database**
+**Built-in Automatic Backup in Azure SQL Database **
 
 Microsoft Azure SQL Database has built-in backups to support self-service Point in Time Restore and Geo-Restore for Basic, Standard, and Premium service tiers.
  

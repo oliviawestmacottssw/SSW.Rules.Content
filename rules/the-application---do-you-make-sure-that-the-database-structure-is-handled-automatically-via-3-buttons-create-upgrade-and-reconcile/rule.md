@@ -32,7 +32,7 @@ You try and reproduce it on your version in the office and everything works perf
 6. Select Databases
 7. Open that tree
 8. Select the database called Northwind
-9. Right click it and choose All Tasks, then **Generate SQL Script**
+9. Right click it and choose All Tasks, then  **Generate SQL Script**
 10. Then select the options
 11. etc
 12. Then when I get this I will compare and I will make a script file for you to run and fix the problem

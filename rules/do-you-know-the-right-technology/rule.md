@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Use **.NET MVC** over **ASP.NET Web Forms**.
+Use  **.NET MVC**  over  **ASP.NET Web Forms** .
 
 &lt;asp:HyperLink     ID="HyperLink1"     runat="Server"     NavigateUrl="http://www.example.com" CssClass="example"     Text="Hello World"/&gt;
 Figure: Bad example - Using Web Forms
@@ -19,11 +19,11 @@ Figure: Bad example - Using Web Forms
 Figure: Good example - Using MVC 5
 Read the Top 5 reasons why you should never use Web Forms again:
  
-1. **Testability** - MVC provides true separation of concerns, and makes it easy to test the whole application from Unit Tests to Coded UI Tests
-2. **Instant Pages** - Get your admin pages up and running faster than ever with improved scaffolding. Don't get bogged down doing Create, Edit, Update, Delete
-3. **Better HTML Markup Control** - Every layer of obstruction creates new problems down the track. When so much development now involves jQuery or other javascript libraries, MVC simplifies development by putting the developer back in charge of the HTML that is actually rendered
-4. **Simpler Debugging** - This means that instead of complicated Webform lifecycles, your code either goes into the Route, Controller or View, so you can jump right into coding without an intimate knowledge of the page lifecycle
-5. **Mobile Support** - With Adaptive Rendering, MVC allows the same User Interface to Render on Different Devices, so users can check it out on their PC, their Tablet or even their Smart Phone
+1. **Testability**  - MVC provides true separation of concerns, and makes it easy to test the whole application from Unit Tests to Coded UI Tests
+2. **Instant Pages**  - Get your admin pages up and running faster than ever with improved scaffolding. Don't get bogged down doing Create, Edit, Update, Delete
+3. **Better HTML Markup Control**  - Every layer of obstruction creates new problems down the track. When so much development now involves jQuery or other javascript libraries, MVC simplifies development by putting the developer back in charge of the HTML that is actually rendered
+4. **Simpler Debugging**  - This means that instead of complicated Webform lifecycles, your code either goes into the Route, Controller or View, so you can jump right into coding without an intimate knowledge of the page lifecycle
+5. **Mobile Support**  - With Adaptive Rendering, MVC allows the same User Interface to Render on Different Devices, so users can check it out on their PC, their Tablet or even their Smart Phone
 
 
 Or watch the video:

@@ -13,7 +13,7 @@ The first problem with specs is that nobody writes them. Joel Spolsky says:
 
 "Writing specs is like flossing: everyone agrees that it's a good thing, but nobody does it".
 
-- **Joel Spolsky,** [The Joel Test: 12 Steps to Better Code](https&#58;//www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+-  **Joel Spolsky,**  [The Joel Test: 12 Steps to Better Code](https&#58;//www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
 We know developers like writing code more than specs, but the rule is developers don't code without a spec (including a release plan).
 

@@ -18,12 +18,12 @@ authors:
 If you use the default Azure staging web site Url, it can be difficult to remember and a waste of time trying to lookup the name every time you access it. Follow this rule to increase your productivity and make it easier for everyone to access your staging site.
  
 
-| Default Azure Url:<br><ul><li><strong style="line-height:20px;background-color:initial;"><strong>sugarlearning<span style="color:#ff0066;">-staging</span>.azurewebsites.net</strong></strong><br></li></ul> |
+| Default Azure Url:<br><ul><li><strong style="line-height:20px;background-color:initial;"> <strong>sugarlearning<span style="color:#ff0066;">-staging</span>.azurewebsites.net</strong> </strong> <br></li></ul> |
 | --- |
 
 Figure: Bad example - Site using the default Url (hard to remember!!)
 
-| Customized Url:<br><ul><li><strong style="line-height:20px;background-color:initial;"><font color="#ff0066">staging</font></strong><span style="line-height:20px;background-color:initial;">.</span><strong style="line-height:20px;background-color:initial;">sugarlearning.com</strong><br></li></ul> |
+| Customized Url:<br><ul><li><strong style="line-height:20px;background-color:initial;"><font color="#ff0066">staging</font></strong> <span style="line-height:20px;background-color:initial;">.</span><strong style="line-height:20px;background-color:initial;">sugarlearning.com</strong> <br></li></ul> |
 | --- |
 
 Figure: Good example - Staging Url having production Url with "staging." prefix

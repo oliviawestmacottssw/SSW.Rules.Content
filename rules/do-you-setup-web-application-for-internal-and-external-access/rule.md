@@ -21,8 +21,8 @@ SharePoint also needs to support https for internal traffic, if I click on a lin
 
 For this scenario to work, web application needs to be extended 2 to 3 different zone
 
-**Default** (http for internal and search)
+**Default**  (http for internal and search)
 
-**Internet** (http for reverse proxy)
+**Internet**  (http for reverse proxy)
 
-**Intranet** (https for internal https link)
+**Intranet**  (https for internal https link)

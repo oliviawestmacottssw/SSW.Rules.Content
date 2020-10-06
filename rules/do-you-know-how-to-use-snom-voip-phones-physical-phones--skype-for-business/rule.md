@@ -18,7 +18,7 @@ Using SNOM phones, transferring a call, creating a conference call, or making an
 - Press <br>         
 ![](Directory.png)*(Directory)*. Then choose a person from the list, press <br>         
 ![](Tick.png)*(Tick)*
-**OR**
+**OR** 
  Dial the external number, press <br>         
 ![](Tick.png)*(Tick)*
 - Tell the staff member "Mr Northwind for you"
@@ -36,7 +36,7 @@ Using SNOM phones, transferring a call, creating a conference call, or making an
 - Press <br>         
 ![](Directory.png)*(Directory)*. Then choose a person from the list, press <br>         
 ![](Tick.png)*(Tick)*
-**OR**
+**OR** 
  Dial the external number, press <br>         
 ![](Tick.png)*(Tick)*
 - Tell the staff member "Adding you to a conference call"

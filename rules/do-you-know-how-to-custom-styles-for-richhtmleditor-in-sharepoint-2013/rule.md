@@ -28,11 +28,11 @@ In SharePoint, we can use the below way to apply custom styles:
  
 To do this:
 
-1. You can use "**PrefixStyleSheet**" property to apply the custom styles to a build-in **RichHtmlField **in page layout or master page. In my case, I applied them to a custom control "**ParsedRichHtmlField**" which inherited from the system build-in one.
+1. You can use " **PrefixStyleSheet** " property to apply the custom styles to a build-in  **RichHtmlField** in page layout or master page. In my case, I applied them to a custom control " **ParsedRichHtmlField** " which inherited from the system build-in one.
 
 
 
-**PrefixStyleSheet="ssw15-rte"** CssClass="ssw-inputeditorfield" id="Content" FieldName="PublishingPageContent" InputFieldLabel="Rule Summary Info" runat="server"/>
+**PrefixStyleSheet="ssw15-rte"**  CssClass="ssw-inputeditorfield" id="Content" FieldName="PublishingPageContent" InputFieldLabel="Rule Summary Info" runat="server"/>
 
 
 
@@ -44,7 +44,7 @@ To do this:
 
 
 
-3. Refer the additional css file again in "**edit mode**" in the page layout or master page (apply to edit mode editor).
+3. Refer the additional css file again in " **edit mode** " in the page layout or master page (apply to edit mode editor).
 
 
 
@@ -56,17 +56,17 @@ After="<% $SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/pa
 
 
 
-**After**="<%$SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/<strong>editmode15.css</strong>  %>" />
+**After** ="<%$SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/ <strong>editmode15.css</strong>   %>" />
 
 
 
-Use "**After**" property to ensure that it will be loaded after the "**editmode15.css**", which is SharePoint default edit mode style. The custom style css file will be applied to the ribbon after users change to edit mode.
+Use " **After** " property to ensure that it will be loaded after the " **editmode15.css** ", which is SharePoint default edit mode style. The custom style css file will be applied to the ribbon after users change to edit mode.
 
 
 
-4. Add your custom styles definitions into the additional css file, all styles' names should start with the value you set for **PrefixStyleSheet**, in our case, it's "**ssw15-rte**". The custom styles can be applied to different areas (cases) in the ribbon.
+4. Add your custom styles definitions into the additional css file, all styles' names should start with the value you set for  **PrefixStyleSheet** , in our case, it's " **ssw15-rte** ". The custom styles can be applied to different areas (cases) in the ribbon.
 
-1) .ssw15-rte**Language - **As SharePoint support multiple language, this definition will tell SharePoint which language will use those custom styles.
+1) .ssw15-rte **Language -** As SharePoint support multiple language, this definition will tell SharePoint which language will use those custom styles.
 
 e.g.
 
@@ -76,7 +76,7 @@ e.g.
 
 }
 
-2) .ssw15-rte**Element - **tell SharePoint which element will be applied with this style. When you press "Enter" in SharePoint editor, it will automatically start a new paragraph with "
+2) .ssw15-rte **Element -** tell SharePoint which element will be applied with this style. When you press "Enter" in SharePoint editor, it will automatically start a new paragraph with "
 
 
 ", so it's a brilliant choice to make some custom "paragraph" elements.
@@ -108,7 +108,7 @@ font-size:12px;
 
 }
 
-This **Code Area** style will come up in "Page Elements" section:
+This  **Code Area**  style will come up in "Page Elements" section:
 
 ![Code Area style come up in "Page Elements" seciton](CodeArea.png)
 
@@ -126,11 +126,11 @@ For example, we change the style
 
 from
 
-**P**.ssw15-rteElement-CodeArea
+**P** .ssw15-rteElement-CodeArea
 
 to
 
-**dd**.ssw15-rteElement-FigureGood
+**dd** .ssw15-rteElement-FigureGood
 
 
 
@@ -153,7 +153,7 @@ to
 
 
 
-3).ssw15-rte**Style - **this style could be applied to **Text Styles**:
+3).ssw15-rte **Style -** this style could be applied to  **Text Styles** :
 
 
 
@@ -169,7 +169,7 @@ background-color: #FFFF00;
 
 }
 
-This **Highlight** style will come up in "Text Styles" section:
+This  **Highlight**  style will come up in "Text Styles" section:
 
 ![Highlight style will come up in "Text Styles" section](HighLight.png)
 
@@ -188,15 +188,15 @@ That means all "Text Styles" will apply to  tag, and you cannot apply two "Text 
 
 
 
-4) .ssw15-rte**Table -** Tell SharePoint the definition of custom table styles. After inserting a table, you can see the styles under "Design" tab:
+4) .ssw15-rte **Table -**  Tell SharePoint the definition of custom table styles. After inserting a table, you can see the styles under "Design" tab:
 
 
 
 
 
-e.g. The below is a "**SSW Table**" style definition:
+e.g. The below is a " **SSW Table** " style definition:
 
-.ssw15-rte**Table-**default
+.ssw15-rte **Table-** default
 
 {
 

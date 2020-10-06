@@ -20,7 +20,7 @@ If you are looking to get the most out of your Twitter experience, you will need
 
 ![Bad](twitter-webpage.png)
 
-<br>The best way to use Twitter is to use the TweetDeck client. This allows alerts you when your are mentioned or direct messaged, and allows you to keep an eye on certain things you are interested in, like **#hyperv** or **#ssw**.
+<br>The best way to use Twitter is to use the TweetDeck client. This allows alerts you when your are mentioned or direct messaged, and allows you to keep an eye on certain things you are interested in, like  **#hyperv**  or  **#ssw** .
 
 
 

@@ -18,4 +18,4 @@ More and more projects are being created as Open Source. However just because yo
 [[goodExample]]
 | ![MIT License - for projects where you are happy for people to do anything with your code. Use for .Net core, jQuery and Node.js - <br>](license-good-2.png)[MIT License on Wikipedia](http://en.wikipedia.org/wiki/MIT_License)
 [[goodExample]]
-| ![Apache License - for projects where you require attribution. Microsoft use the Apache license for MVC, EntityFramework, SignalR and Roslyn - <br>](license-good-3.png)[Apache License on Wikipedia](http://en.wikipedia.org/wiki/Apache_License) - <br>      **Used for all SSW Open Source Projects. **
+| ![Apache License - for projects where you require attribution. Microsoft use the Apache license for MVC, EntityFramework, SignalR and Roslyn - <br>](license-good-3.png)[Apache License on Wikipedia](http://en.wikipedia.org/wiki/Apache_License) - <br>       **Used for all SSW Open Source Projects.**

@@ -29,7 +29,7 @@ index:
 Angular is everywhere.
 
 
-Angular is up to version 9 - some people still call it Angular 2+, but since version 2.0, it's just been known as **Angular**. This page is a set of rules and guidelines to get you up and running with Angular with the least pain possible.
+Angular is up to version 9 - some people still call it Angular 2+, but since version 2.0, it's just been known as  **Angular** . This page is a set of rules and guidelines to get you up and running with Angular with the least pain possible.
 
 Angular and React have been the 2 dominant front-end technologies for the last few years. We have been running our Angular Superpowers course that entire time, and I’m still amazed that every time we run the course, we sell out. 
 

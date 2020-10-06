@@ -31,4 +31,4 @@ Also, if the sender requests a     ['little r'](http://www.ssw.com.au/ssw/Redire
 - The opinions of the rest of the recipients do not matter as they are unlikely to disagree
 
 
-**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
+**VIDEO**  - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)

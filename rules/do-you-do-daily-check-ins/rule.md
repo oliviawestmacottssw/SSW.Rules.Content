@@ -19,7 +19,7 @@ Even if your boss is not at the office, you should be in contact with them at le
 
 If your boss is away, you can still check-in via phone or on Microsoft Teams. Try sending them an instant message via Teams first and let them know that you are trying to get hold of them. 
  
-**Tip:**
+ **Tip:** 
 Say "I'm calling you in 10 minutes if you don't answer!"
 
 During the morning check in:

@@ -10,12 +10,12 @@ authors:
 ---
 
 When designing your Bot, you will very likely leverage some Bot Frameworks or AI Services to take care of the Natural Language Processing (NLP) so that you can focus on implementing your business logic.
-To host your business logic, it is common to use serverless applications such as [Azure Function](https&#58;//azure.microsoft.com/en-au/services/functions/), [Google Firebase](https&#58;//firebase.google.com/) or [Amazon Web Service Lambda Functions](https&#58;//aws.amazon.com/lambda/). Serverless applications come with amazing scaling abilities and simplified programming models, but they also suffer from at least one well-known side-effect that is commonly referred to as **Cold Starts**.  
+To host your business logic, it is common to use serverless applications such as [Azure Function](https&#58;//azure.microsoft.com/en-au/services/functions/), [Google Firebase](https&#58;//firebase.google.com/) or [Amazon Web Service Lambda Functions](https&#58;//aws.amazon.com/lambda/). Serverless applications come with amazing scaling abilities and simplified programming models, but they also suffer from at least one well-known side-effect that is commonly referred to as  **Cold Starts** .  
  
 
 Here are some recommended solutions to eliminate Cold Starts:
  
-**Microsoft Azure Functions**
+**Microsoft Azure Functions** 
 
 - Add warm-up request
 
@@ -32,14 +32,14 @@ Use a timer trigger function to keep the Azure Functions application warm. If yo
        If you want a dedicated instance that is always available and ready, and you also require the ability to automatically scale out under high try the Azure Functions Premium Plan (preview). The premium plan always has at least 1 core ready to process requests and your application will not suffer from cold starts. The premium plan does come at a price, so plan ahead.
  
 
-**Firebase Functions on Google Cloud Platform**
+ **Firebase Functions on Google Cloud Platform** 
 
 - In Node.js code, export all the functions your want to deploy to cloud functions. And import / require dependencies inside the function. So that each function call will only load the dependency it needs instead of loading all dependencies in the index.ts file.
 - Warm up request - Create a separate function that works on a timer. The function can run at some time interval that you know your app will not be cold.
 - If cold starts are unbearable, convert to other infrastructure such as App Engine .
 
  
-**Amazon Web Service**
+ **Amazon Web Service** 
 
 - Instead of using statically typed programming languages like Java and C#, you may prefer dynamically typed languages like Python, Node.js etc.
 - Avoid deploying Lambdas in Amazon Virtual Private Cloud (VPC).

@@ -44,7 +44,7 @@ Of course, we also use a structured approach for emails - especially when sendin
 We use the following format for the subject internally and encourage clients and external contacts to use this format as well.
 
 [Client Name/Product Name] - [Project Name] – [Object Name/Description]
-Eg.: **WorleyParsons – IOP – Customer.aspx - Add email address validation**
+Eg.:  **WorleyParsons – IOP – Customer.aspx - Add email address validation**
 
 The advantage of this is that when you sort by the subject in Outlook, you get all of the emails grouped together, and it is easy to recognize the client/product, because the subject contains the relevant information.
 

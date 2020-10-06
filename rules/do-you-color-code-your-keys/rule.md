@@ -20,4 +20,4 @@ If you allocate each individual lock a color and then tag or colour your keys to
 
 [[goodExample]]
 | ![color-coded keys with labels, perfect order.](keys 1.JPG)
-**Tip: **While you can buy colored keys, they are not as strong as their silver counterparts, and can break in the locks of heavier doors. Using nail polish to mark your keys, or using a key cover is a better way to go!
+**Tip:** While you can buy colored keys, they are not as strong as their silver counterparts, and can break in the locks of heavier doors. Using nail polish to mark your keys, or using a key cover is a better way to go!

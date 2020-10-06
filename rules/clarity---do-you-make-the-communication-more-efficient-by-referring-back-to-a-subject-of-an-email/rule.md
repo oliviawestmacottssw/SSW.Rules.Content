@@ -13,7 +13,7 @@ Use IM to chase up that important email. You can make it easy for everyone (or a
 
 I sent you an email just now, please approve
 
- **Figure: Bad example - client need to filter his emails manually**
+**Figure: Bad example - client need to filter his emails manually** 
 
 I need you to reply to my email... Subject: CBA Software Audit
  Figure: Good example - client can search your email based on the subject

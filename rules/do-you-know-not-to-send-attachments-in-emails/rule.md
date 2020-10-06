@@ -21,7 +21,7 @@ If you're sending to a client, it would be a link to a document store on their [
 | ![Don't send attachments by mail](Email_Attachment_1_small.jpg)
 [[badExample]]
 | ![Don't use location / filename in the link](PortalLinks.jpg)(URL)
-**Tip:** If you're using SharePoint, then an even better way to do this is to use a tool like OnePlaceMail to insert a link from SharePoint
+**Tip:**  If you're using SharePoint, then an even better way to do this is to use a tool like OnePlaceMail to insert a link from SharePoint
 
 [[goodExample]]
 | ![Use OnePlaceMail to send a link to a document in SharePoint](insert_link_in_email_to_sharePoint_item-png.png)

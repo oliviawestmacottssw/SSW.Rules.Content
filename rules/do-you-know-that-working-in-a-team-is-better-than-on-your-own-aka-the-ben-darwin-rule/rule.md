@@ -16,7 +16,7 @@ Is working as a team all it is cracked up to be?
 <br>The best sum up of this was by famous Wallaby player, Ben Darwin, who said: <br> 
 
 
-> I found the hardest issue of all was that I missed my friends, basically, and that's what I told them when I gave them the jersey for the final. I just missed the 14 guys. There's a feeling that comes in sport, particularly in team sport, where we say we feel jealous of the wages of individual sportspeople but never jealous of the lack of team. When you finish a game of football and you've played together and you walk off with the other 14 men, the guys on the bench, and you've overcome an opposition, you don't have to say anything to each other. You can simply look your fellow man or other player in the eye, and he knows **you helped him**, and you know how **he helped you**. That's enormously satisfying, and I haven't found that anywhere else in life.
+> I found the hardest issue of all was that I missed my friends, basically, and that's what I told them when I gave them the jersey for the final. I just missed the 14 guys. There's a feeling that comes in sport, particularly in team sport, where we say we feel jealous of the wages of individual sportspeople but never jealous of the lack of team. When you finish a game of football and you've played together and you walk off with the other 14 men, the guys on the bench, and you've overcome an opposition, you don't have to say anything to each other. You can simply look your fellow man or other player in the eye, and he knows  **you helped him** , and you know how  **he helped you** . That's enormously satisfying, and I haven't found that anywhere else in life.
 
 
 ![](Darwin.jpg)
@@ -28,12 +28,12 @@ We can see examples of this in nature as well. For the Antarctic Emperor Penguin
 
 It is essential that in order to be a contributing member of a successful team, you are willing to put the good of the team over your own interests so that everyone can benefit in the long term.
 
-**See **http://www.youtube.com/watch?v=cgGL6SbMfKc
+**See** http://www.youtube.com/watch?v=cgGL6SbMfKc
 
 Note: If this beautiful story is not up your alley you will prefer a similar example of working as a team by the IT Crowd http://www.youtube.com/watch?v=pGFGD5pj03M
 
 **Tip: Leverage Existing Organizational Experience and Learn From the Best.
-**Does your company have a ‘super star’ team? If so, why not ask to sit in on one of their meetings, or take a few of their team members to lunch and ask them for advice on increasing your own team’s performance.
+** Does your company have a ‘super star’ team? If so, why not ask to sit in on one of their meetings, or take a few of their team members to lunch and ask them for advice on increasing your own team’s performance.
 
  Suggested questions to ask the experts:
 

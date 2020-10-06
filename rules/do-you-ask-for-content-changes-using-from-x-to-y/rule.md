@@ -51,4 +51,4 @@ Sometimes you have a lot of content and too many changes, making the process "fr
 
 ![A Word document with 'Track Changes' ON is recommended if you have too many changes](word-track-changes.jpg)
 
-**Video: **[Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
+**Video:** [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)

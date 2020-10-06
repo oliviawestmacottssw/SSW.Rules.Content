@@ -19,7 +19,7 @@ You can use this new URL to point users to that specific section of your page.
 
 To create a link to your anchor named section inside the same page, simply add a new "href" anchor tag - now with a hash mark followed by the name you chose:
  &lt;a href="#get-started"&gt;Go to Get Started section&lt;/a&gt; Figure: This is how you add a \*link\* to that anchor name you created inside the same page. Remember to add the hash mark
-**Tip #1:** Use the hash mark        **only** to go to the top of a page. 
+**Tip #1:**  Use the hash mark         **only**  to go to the top of a page. 
 E.g. &lt;a href="#"&gt;&Go to top&lt;/a&gt;
 
-**Tip #2:** Some browsers consider capitalization for anchor names (E.g. Firefox). Always check your links and anchor names are identical, matching the capitalization.
+**Tip #2:**  Some browsers consider capitalization for anchor names (E.g. Firefox). Always check your links and anchor names are identical, matching the capitalization.

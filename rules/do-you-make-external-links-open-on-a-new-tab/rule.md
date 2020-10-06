@@ -11,7 +11,7 @@ authors:
 
 ---
 
-External links should **open in a new tab** (a.k.a. use target="\_blank") - since browsers implemented tabs (replacing new window), it's considered a good practice to open external links in a different tab.
+External links should  **open in a new tab**  (a.k.a. use target="\_blank") - since browsers implemented tabs (replacing new window), it's considered a good practice to open external links in a different tab.
 
 Main reasons are:
 

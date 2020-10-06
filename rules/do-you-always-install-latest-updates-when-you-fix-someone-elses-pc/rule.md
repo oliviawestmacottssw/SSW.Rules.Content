@@ -13,7 +13,7 @@ authors:
 
 When you fix someone else's PC (locally or remotely), one of the best practices is always make sure it has the latest updates. <br>
  
-To achieve this, we run [Microsoft Updates](http://www.ssw.com.au/ssw/Redirect/MicrosoftUpdate.htm) (**not** to confuse with Windows Updates) and install all latest updates for all the known Microsoft products.
+To achieve this, we run [Microsoft Updates](http://www.ssw.com.au/ssw/Redirect/MicrosoftUpdate.htm) ( **not**  to confuse with Windows Updates) and install all latest updates for all the known Microsoft products.
 
 Note: "Windows Update" only updates the operating system, where "Microsoft Update" updates other products as well, such as Microsoft Office, SQL Server, etc.
 

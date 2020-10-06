@@ -15,7 +15,7 @@ Do you know the best way to manage NuGet packages with Git? You can get into all
 
 
 
-**Do not check packages into Git**
+** Do not check packages into Git **
 
 The following are a few issues that are related to having your NuGet packages in source control:
 
@@ -27,7 +27,7 @@ The following are a few issues that are related to having your NuGet packages in
 
 
 
-**Nuget will automatically restore packages with out checking them in to source control**
+ **Nuget will automatically restore packages with out checking them in to source control** 
 
 Beginning with NuGet 2.7, the NuGet Visual Studio extension integrates into Visual Studio's build events and restores missing packages when a build begins. This feature is enabled by default and packages.config will be automatically included in souce control.
 

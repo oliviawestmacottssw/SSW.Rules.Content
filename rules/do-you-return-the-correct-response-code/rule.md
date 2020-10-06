@@ -13,7 +13,7 @@ authors:
 
 The use of correct response codes is a simple yet crucial step, towards building a better WebAPI. By default, the WebAPI framework sets the response status code to 200 (OK), regardless if the task succeed or an error occurred.
 
-You can **save yourself countless hours of painful debugging**, by specifying the correct response code.
+You can  **save yourself countless hours of painful debugging** , by specifying the correct response code.
  
 For example: According to the HTTP/1.1 protocol, when a POST request results in the creation of a resource, the server should reply with status 201 (Created).
 

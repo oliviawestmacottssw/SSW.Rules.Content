@@ -11,7 +11,7 @@ authors:
 
 In old versions of ASP.NET AJAX the UI control couldn't get notification if the source had been changed. Developers had to write the extra code to refresh the value.
 
-<br>In ASP.NET AJAX version 4.0, there is a new feature called "Live Data Binding", which means when there's any change in the data source, the changes are reflected to the data bound interface instantly and vice versa.  <br> **Binding Modes:** 
+<br>In ASP.NET AJAX version 4.0, there is a new feature called "Live Data Binding", which means when there's any change in the data source, the changes are reflected to the data bound interface instantly and vice versa.  <br> **Binding Modes:**
 
 - Sys.BindingMode.auto
 <br>    This is the default binding mode. Two-way binding on an input control, and one-way binding on a context-type elements such as spans.<br>    

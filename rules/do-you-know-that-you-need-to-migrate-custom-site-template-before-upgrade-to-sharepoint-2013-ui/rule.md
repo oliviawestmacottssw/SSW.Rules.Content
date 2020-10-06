@@ -18,8 +18,8 @@ If you have “custom site template” for  your site, you can’t upgrade your 
  
 To fix this issue
 
-1. Upgrade your site template’s **content **files and **definition **XML file to SharePoint 2013 (refer to SharePoint 2013 default site template for details).
-2. Package the site template’s **content **files to map location “**{SharePointRoot}\Template\SiteTemplate**”.
+1. Upgrade your site template’s  **content** files and  **definition** XML file to SharePoint 2013 (refer to SharePoint 2013 default site template for details).
+2. Package the site template’s  **content** files to map location “ **{SharePointRoot}\Template\SiteTemplate** ”.
 
 
 
@@ -27,7 +27,7 @@ To fix this issue
 > 
 ![](siteTemplateStructure.jpg) 
 > 
-> 3.Package the site template’s **definition **XML file to map location “**{SharePointRoot}\TEMPLATE\1033\XML**”.
+> 3.Package the site template’s  **definition** XML file to map location “ **{SharePointRoot}\TEMPLATE\1033\XML** ”.
 
 
 

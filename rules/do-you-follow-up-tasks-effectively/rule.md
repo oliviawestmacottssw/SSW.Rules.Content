@@ -31,7 +31,7 @@ To ensure you follow up any task like these, there are two ways to set yourself 
 
 
 Write yourself an email in Outlook. 
-Before pressing send, click **Options** | **Delay Delivery**, and then specify when you want to be reminded.
+Before pressing send, click  **Options**  |  **Delay Delivery** , and then specify when you want to be reminded.
 
 The email will sit in your outbox until the required time, when it will be sent to whoever you specified (you in this case)
 When you receive it in your inbox, action the task.
@@ -44,7 +44,7 @@ When you receive it in your inbox, action the task.
 
 There is a brilliant service called FollowUpThen which can do all the administrative work for you.
 
-Simply BCC or email **@followupthen.com** and it will send you an email when that time expires, reminding you to follow up with another email.
+Simply BCC or email  **@followupthen.com**  and it will send you an email when that time expires, reminding you to follow up with another email.
  
 [[goodExample]]
 | ![Use 1week@followupthen.com to be reminded of this email in one week](FollowUpThen.jpg)

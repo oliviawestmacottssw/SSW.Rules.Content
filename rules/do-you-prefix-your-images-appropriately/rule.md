@@ -12,7 +12,7 @@ It is important to sensibly name your images. We don't use "img" (in the same wa
 However, for special types of images we do include a prefix.
  
 
-| **Image Type** | **Prefix** | **Example** |
+| **Image Type**  | **Prefix**  | **Example**  |
 | --- | --- | --- |
 | Banner | ban | banSSW.gif |
 | Icon | ico | icoSSW.ico |

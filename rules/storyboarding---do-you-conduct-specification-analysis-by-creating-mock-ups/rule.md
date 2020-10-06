@@ -23,7 +23,7 @@ There are five primary types of mockups:
 2. **Wireframe Mockups**
 3. **Developer HTML Mockups**
 4. **Designer HTML + CSS Mockup**
-5. **Designer Photoshop Mockups **(recommended)
+5. **Designer Photoshop Mockups** (recommended)
 
 
 Often it's best to start with some hand-drawn ones to get started. Then if you have access to designers, complete a couple of full 'Designer Photoshop Mockups' for "look and feel" approval, then complete the balance as wireframes.
@@ -39,12 +39,12 @@ Often it's best to start with some hand-drawn ones to get started. Then if you h
 
 A layout of how the controls will look is usually all that is needed initially, without worrying about images. [An example of Wireframe Mockup](http://www.ssw.com.au/projects/ml_elaw/scenarios/index.html)
 
-**Tip:** The tools to develop a wireframe depend on your skillset and the front end technology chosen. For example use:
+**Tip:**  The tools to develop a wireframe depend on your skillset and the front end technology chosen. For example use:
 
 - Microsoft PowerPoint (ubiquitous)
 - [Balsamiq](http://www.balsamiq.com/) 
 ![Wireframe storyboard mockup on Balsamiq](c24602_WireframeMockup.jpg)
-- [Adobe XD](http://www.adobe.com/au/products/experience-design.html) - preloaded with the most popular UI design blocks **(recommended for web & mobile app design) **
+- [Adobe XD](http://www.adobe.com/au/products/experience-design.html) - preloaded with the most popular UI design blocks  **(recommended for web & mobile app design)**
 
  
 ![Adobe XD prototyping](AdobeXD.jpg)
@@ -77,7 +77,7 @@ These are also mockups in a Web/Windows Forms with full CSS Styling and graphic 
 
 These are concept mockups produced by designers in Photoshop providing a guidance of the final look with full styling.
 
-**Warning:** Don't go down the track of giving a customer a few concepts (on some projects we gave 2 or 3 completely different concepts by different designers). There becomes too much mixing and matching when they see them. Once the images are approved, then the designers slice them up and turn them into HTML (slicing is the exporting of each image).
+**Warning:**  Don't go down the track of giving a customer a few concepts (on some projects we gave 2 or 3 completely different concepts by different designers). There becomes too much mixing and matching when they see them. Once the images are approved, then the designers slice them up and turn them into HTML (slicing is the exporting of each image).
  
 ![Designer Photoshop Mockup example - recommended as quick to change, when changes happen](1d6c03_PSMockup.jpg)
 **More information – Add notes at the bottom**

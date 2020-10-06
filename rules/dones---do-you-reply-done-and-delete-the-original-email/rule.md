@@ -23,7 +23,7 @@ Read "[Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4
 - If there are multiple tasks that are Done and Not Done then, reply with "Partially done - the reason is XXX" at the top of the email.
 
 
-**Note 1**: Only say done when the work is done. If you have added the email to your backlog or to-do list then instead of "Done", say "Added to backlog – URL is XXX".
+**Note 1** : Only say done when the work is done. If you have added the email to your backlog or to-do list then instead of "Done", say "Added to backlog – URL is XXX".
 
 **Note 2:** For tasks that will take time to be completely done (E.g. Producing a video), you may send a "work in progress" email. This way you avoid giving the perception that no action was in relation to the task.
  
@@ -76,8 +76,8 @@ Damian
  
 Hi Bob,
 
-1. **Done** (see [www.ssw.com.au](http://www.ssw.com.au/))
-2. **Not Done** - We don't have a camera
+1. **Done**  (see [www.ssw.com.au](http://www.ssw.com.au/))
+2. **Not Done**  - We don't have a camera
 
 
 Damian
@@ -123,9 +123,9 @@ Damian
 
 Ideally, all tasks should be less than 4 hours. If you are given a task that is going to take days, then split it following the [4 hours rule](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=c0d01e55-619e-4f99-a480-6c9f0bfe9855).
 
-**Q: **What if you can do 8 out of 9 items? Can I reply "Done"?
+**Q:** What if you can do 8 out of 9 items? Can I reply "Done"?
 
-**A: **Yes. If there are multiple items of work in an email and you can't do them all at once (in say 4 hours), reply "Done" to each item individually, and put yourself in the TO: so you can go back and do the remaining items. [(See rule "To Myself")](/Pages/EmailToMyself.aspx)
+**A:** Yes. If there are multiple items of work in an email and you can't do them all at once (in say 4 hours), reply "Done" to each item individually, and put yourself in the TO: so you can go back and do the remaining items. [(See rule "To Myself")](/Pages/EmailToMyself.aspx)
 
 Done - 8 out of 9 tasks.
 
@@ -139,8 +139,8 @@ There is no point keeping emails that just clutter your Inbox. You don't need to
 
 ### Tip 6: Include URLs in screen captures
 Screen captures should always include the:
-**\* URL ** 
-**\* Top left - so you can see what browser it is eg. Internet Explorer or FireFox **
+ **\* URL**
+ **\* Top left - so you can see what browser it is eg. Internet Explorer or FireFox** 
 ### Tip 7: When appropriate use text instead of an image
 
 To: Ross
@@ -185,7 +185,7 @@ In a development team environment, it is better to move emails to bug tracking s
 
 Record a quick and dirty "[Done Video](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=215be2dd-4a90-4f0f-a5fa-dbed2edca461)"
 
-**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
+**VIDEO**  - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
 
 ### Tip 12: Remember to thank people - don't be too brief and icy
 

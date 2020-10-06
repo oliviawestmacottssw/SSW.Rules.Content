@@ -22,7 +22,7 @@ In this example it’s set to when ‘Est Value’ field changes
  If ‘Est Value’ is greater than $100,000 then stop and cancel
 
 ![Stop and cancel if ‘Est Value’ greater than $100,000](realtime-workflow-2.png)
-Once the Real-Time workflow is **Activated** the ‘Est Value’ field will no longer accept values above $100,000. This is a simple example but in versions prior to CRM2013 this would have been implemented in Javascript or Plugin Code.
+Once the Real-Time workflow is  **Activated**  the ‘Est Value’ field will no longer accept values above $100,000. This is a simple example but in versions prior to CRM2013 this would have been implemented in Javascript or Plugin Code.
 
 Using the Real-Time Workflow saves a lot of time and effort.
 

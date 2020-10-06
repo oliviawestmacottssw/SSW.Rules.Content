@@ -37,7 +37,7 @@ Here's a quick video describing how to record and edit a quick done video. (Noti
 **
 **
 **
-
+ 
 
 **For a great 'Done Video' here are the key things to remember:
 **
@@ -53,14 +53,14 @@ Here's a quick video describing how to record and edit a quick done video. (Noti
 - You want it readable on a mobile phone so record at 1920x1080 (aka 1080p). This gives the best balance of detail to size, for smaller screens.
 - Use zoom.us as the screen capture software.
 - Don't edit the video, Don't edit the video, just include your face at the beginning and end, using the fading functionality.
-**Tip:** If you are using Zoom you do not need to edit the video. Zoom includes your face automatically in the screen capture. Awesome!
-- **Remember**: smile at the beginning and end of the video!
+**Tip:**  If you are using Zoom you do not need to edit the video. Zoom includes your face automatically in the screen capture. Awesome!
+- **Remember** : smile at the beginning and end of the video!
 
 
 
 
 **Tip:** Some offices have a professional setup.
-E.g. SSW have the                 **Marantz Turret** hardware and desktop recording kit. The Turret is an ideal device to record these videos as it has a professional podcasting microphone, built-in light and good quality High Definition video camera.
+E.g. SSW have the                  **Marantz Turret**  hardware and desktop recording kit. The Turret is an ideal device to record these videos as it has a professional podcasting microphone, built-in light and good quality High Definition video camera.
 
 !['Done' video in progress using a Marantz turret broadcasting kit Learn more about the Turret: <br>](turret-usage.jpg)[Product Review: The Marantz Turret — Wistia](https://wistia.com/learn/production/marantz-turret-review?wvideo=whmpjct7xj)
 
@@ -73,7 +73,7 @@ E.g. SSW TimePRO - Power BI Ad-Hoc Reporting:
 `youtube: https://www.youtube.com/embed/nG4IAxdEWQg`
 
 
-**Figure: A real example of a 'Done Video' with Fades**
+**Figure: A real example of a 'Done Video' with Fades** 
 
 
 
@@ -94,11 +94,11 @@ After recording your video, you need to do some basic sound processing to make t
 ### Tip: Camtasia 9 - How to fade-out and fade-in the video track of your face in Camtasia 9
 
 
-1. With the video track of your face selected, click on **Animations (1)**. Track 3 in the image below.
-2. Select the **No Opacity (2)  **animation effect for the fade-out.
-3. **Drag and drop the No Opacity effect (3)** to the point in the track where you want to fade-out. Adjust the start and end point of the fade using the handles on the animation arrow.
-4. Select the **Full Opacity (4) **animation effect for fade-in.
-5. **Drag and drop the Full Opacity effect (5) ** to the point in the track where you want to fade-in. Adjust the start  and end point of the fade using the handles on the animation arrow.
+1. With the video track of your face selected, click on  **Animations (1)** . Track 3 in the image below.
+2. Select the  **No Opacity (2)** animation effect for the fade-out.
+3. **Drag and drop the No Opacity effect (3)**  to the point in the track where you want to fade-out. Adjust the start and end point of the fade using the handles on the animation arrow.
+4. Select the  **Full Opacity (4)** animation effect for fade-in.
+5. **Drag and drop the Full Opacity effect (5)**  to the point in the track where you want to fade-in. Adjust the start  and end point of the fade using the handles on the animation arrow.
 
 
 ![Camtasia - Steps for adding fade-out/fade-in animation to video track of your face in 'Done' video](fade in and out.png)

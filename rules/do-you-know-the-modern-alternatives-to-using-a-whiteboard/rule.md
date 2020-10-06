@@ -25,13 +25,13 @@ This could then be screen-shared for remote meeting attendees and is easily save
 
 ### #2 Tech Whiteboard replacement
 
-- **Samsung Flip** ($3k)
+- **Samsung Flip**  ($3k)
  
 ![Samsung flipchart can be flipped from horizontal to vertical](samsung-flip.png)
 
 
 `youtube: https://www.youtube.com/embed/koFmsg8TaUU?rel=0`
-- **Microsoft Surface Hub 2** (coming - about $5K)
+- **Microsoft Surface Hub 2**  (coming - about $5K)
 
 
 ### #3 Paper Whiteboard (Low tech – a large piece of paper)

@@ -26,15 +26,15 @@ If you do not pre-render HTML you may still get good enough SEO as Google Bots a
 ![How to configure your site to pre-render HTML for Google bots.](seo_for_angular-diagram.png)
 Besides pre-rendering HTML to get your AngularJS Single Page Application (SPA) SEO friendly you can apply the following practices:
 
-1. **Enable html5Mode for AngularJS outing**
+1. **Enable html5Mode for AngularJS outing** 
 This will remove the hashtagged-URLs by default for pretty URLS, using the pushState feature that newer browsers have, which still falls back to the hashbang method if pushState isn't available. To enable html5Mode in AngularJs read more [scotch.io](http://scotch.io/quick-tips/js/angular/pretty-urls-in-angularjs-removing-the-hashtag)
-2. **Creating a sitemap**
+2. **Creating a sitemap** 
 Web crawlers usually discover pages from links within the site and from other sites. Sitemaps supplement this data to allow crawlers that support Sitemaps to pick up all URLs in the Sitemap and learn about those URLs using the associated metadata. Using the Sitemap protocol does not guarantee that web pages are included in search engines, but provides hints for web crawlers to do a better job of crawling your site.  More information at  [sitemap.org](http://www.sitemaps.org/protocol.html)
-3. **Enriching your app with meta information**
+3. **Enriching your app with meta information** 
 This step ensures your search results are represented in a meaningful and predictable way. Dynamically changing the meta tags content in the head section of the page can also help google find and represent you in their search results.  
 For more information and a demo see this  blog: [weluse.de](https://weluse.de/blog/angularjs-seo-finally-a-piece-of-cake.html)
-4. **You can inspect what HTML Google renders with Webmaster Tools**, it is also an excellent source of information.
+4. **You can inspect what HTML Google renders with Webmaster Tools** , it is also an excellent source of information.
 5. Here’s what you need to know to ensure your website is crawled correctly by Google in general regardless of if your application is a SPA: [Introduction to SEO and Google Tools – Craig Bailey \[FireBootCamp\]](https://tv.ssw.com/5162/introduction-seo-google-tools-craig-bailey-firebootcamp)
 
 
-**Note:** Since May 2014 Google announced that they're finally crawling javascript making SEO for a SPA simpler. Previously your SPA needed to distinguish between normal users and crawlers - and re-route (somehow) to the special crawler-only-endpoints if a bot is requesting the page.(source: http://googlewebmastercentral.blogspot.de/2014/05/understanding-web-pages-better.html)
+**Note:**  Since May 2014 Google announced that they're finally crawling javascript making SEO for a SPA simpler. Previously your SPA needed to distinguish between normal users and crawlers - and re-route (somehow) to the special crawler-only-endpoints if a bot is requesting the page.(source: http://googlewebmastercentral.blogspot.de/2014/05/understanding-web-pages-better.html)

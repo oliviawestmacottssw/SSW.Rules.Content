@@ -11,7 +11,7 @@ authors:
 
 When defining a domain, entities are created and consist of properties and methods. The properties represent the internal state of the entity and the methods are the actions that can be performed. The properties typically use primitive types such as strings, numbers, dates, and so on.
  
-As an example, consider an AD account. An AD Account consists of a domain name and user name, e.g. SSW\Jason. It is a string so using the     **string** type makes sense. Or does it?
+As an example, consider an AD account. An AD Account consists of a domain name and user name, e.g. SSW\Jason. It is a string so using the      **string**  type makes sense. Or does it?
 
 [[badExample]]
 | ![Storing an AD Account as a String](when-use-value-bad.png)(AD Account is a complex type)
@@ -19,18 +19,18 @@ An AD Account is a complex type. Only certain strings are valid AD accounts. Som
 
 [[goodExample]]
 | ![Storing an AD Account as a Value Object to Support Logic and Validation](when-use-value-good.png)
-The underlying implementation for the     **AdAccount** class is as follows:
+The underlying implementation for the      **AdAccount**  class is as follows:
 
 [[goodExample]]
 | ![Implementation of the AdAccount Value Object Supports Logic and Validation](when-use-value-good-2.png)
-The     **AdAccount** type is based on the     **ValueObject** type, which you can view here;     https://github.com/SSWConsulting/NorthwindTraders/blob/master/Northwind.Domain/Infrastructure/ValueObject.cs.
+The      **AdAccount**  type is based on the      **ValueObject**  type, which you can view here;     https://github.com/SSWConsulting/NorthwindTraders/blob/master/Northwind.Domain/Infrastructure/ValueObject.cs.
 
-Working with the AD accounts will now be easy. You can construct a new     **AdAccount** with the factory method     **For **as follows:
+Working with the AD accounts will now be easy. You can construct a new      **AdAccount**  with the factory method      **For** as follows:
 
 ![](when-use-value-eg-1.png)
-The factory method     **For** ensures only valid AD accounts can be constructed and for invalid AD account strings, exceptions are meaningful, i.e.     **AdAccountInvalidException** rather than     **IndexOutOfRangeException**.
+The factory method      **For**  ensures only valid AD accounts can be constructed and for invalid AD account strings, exceptions are meaningful, i.e.      **AdAccountInvalidException**  rather than      **IndexOutOfRangeException** .
 
-Given an     **AdAccount** named account, you can access:
+Given an      **AdAccount**  named account, you can access:
 
 1. The domain name using; account.Domain
 2. The user name using; account.Name
@@ -39,13 +39,13 @@ Given an     **AdAccount** named account, you can access:
 
 The value object also supports implicit and explicit conversion operators. You can:
 
-1. Implicitly convert from <br>      **AdAccount** to <br>      **string** using; (string)account
-2. Explicitly convert from <br>      **string **to <br>      **AdAccount** using; (AdAccount)"SSW\\Jason"
+1. Implicitly convert from <br>       **AdAccount**  to <br>       **string**  using; (string)account
+2. Explicitly convert from <br>       **string** to <br>       **AdAccount**  using; (AdAccount)"SSW\\Jason"
 
 
 If you're using Entity Framework Core, you should also configure the type as follows:
 
 ![Using Entity Framework Core to Configure Value Objects as Owned Entity Types](when-use-value-eg-2.png)
-With the above configuration in place, EF Core will name the database columns for the properties of the owned entity type as     **AdAccount\_Domain** and     **AdAccount\_Name**. You can learn more about     [Owned Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities) by reviewing the EF Core documentation.
+With the above configuration in place, EF Core will name the database columns for the properties of the owned entity type as      **AdAccount\_Domain**  and      **AdAccount\_Name** . You can learn more about     [Owned Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities) by reviewing the EF Core documentation.
 
 Next time you are building an entity, consider carefully if the type you are defining is a primitive type or a complex type. Primitive types work well for storing simple state such as first name or order count, complex types work best when defining types that include complex logic or validation such as postal or email addresses. Using a value object to encapsulate logic and validation will simplify your overall design.

@@ -11,7 +11,7 @@ authors:
 
 ---
 
-You should never use any copyrighted work without permission. When it comes to videos, if you have licensed music or songs on your YouTube video, it might be entirely removed from the site. To avoid this, use **royalty free** music.  
+You should never use any copyrighted work without permission. When it comes to videos, if you have licensed music or songs on your YouTube video, it might be entirely removed from the site. To avoid this, use  **royalty free**  music.  
 ![Ripping someone's song - your video will get taken down by YouTube](audio-video-bad.jpg)
 
 ### Royalty Free Music 

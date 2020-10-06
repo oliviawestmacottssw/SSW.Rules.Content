@@ -27,4 +27,4 @@ Figure: Bad example - using an external URL as image source. The image can be ed
 &lt;/dl&gt;
 Figure: Good example - Image is hosted internally. You have control over the image
 
-**Note:** For copyrighted images, it is important to always mention the source.
+**Note:**  For copyrighted images, it is important to always mention the source.

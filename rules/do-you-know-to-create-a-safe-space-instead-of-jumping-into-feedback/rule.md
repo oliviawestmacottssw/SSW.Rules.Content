@@ -20,7 +20,7 @@ Consider starting with the following:
 
 "Hey, have you got time now for a retro?"
 
-Then start with the good… **before the bad**.
+Then start with the good…  **before the bad** .
 
  
 

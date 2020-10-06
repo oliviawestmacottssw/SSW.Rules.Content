@@ -12,7 +12,7 @@ authors:
 `youtube: https://www.youtube.com/embed/2biKJboCoE4`
  
 
-**Figure: See how Slack can be setup to improve your Devops**
+**Figure: See how Slack can be setup to improve your Devops** 
 
 
 

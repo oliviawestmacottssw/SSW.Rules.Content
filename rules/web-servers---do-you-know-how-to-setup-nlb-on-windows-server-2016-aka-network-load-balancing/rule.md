@@ -13,8 +13,8 @@ authors:
 
 Downtime occurs when you have a single server setup.
 
-**TODO: This is 2008 R2 – update to 2016**
-**Note: **2008 R2 was not as reliable as later versions. So it would be better to use failover cluster in Server 2012 R2 or 2016 for a more reliable infrastructure configuration.
+**TODO: This is 2008 R2 – update to 2016** 
+ **Note:** 2008 R2 was not as reliable as later versions. So it would be better to use failover cluster in Server 2012 R2 or 2016 for a more reliable infrastructure configuration.
 
 Use NLB to allow load balancing and failover. On each of your Windows Servers, you will host your website.
 

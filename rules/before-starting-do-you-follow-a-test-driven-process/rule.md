@@ -37,4 +37,4 @@ Figure: Bad example - wrong process
 15. Check that Continuous Integration (CI) build was successful(If GC was skipped)
 
 Figure: Good example - right process
-**Note:** You should have both a Gated-Check-in (GC) and a Continuous Integration (CI) build on every branch.
+**Note:**  You should have both a Gated-Check-in (GC) and a Continuous Integration (CI) build on every branch.

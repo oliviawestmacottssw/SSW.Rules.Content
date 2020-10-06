@@ -47,4 +47,4 @@ There are few considerations when using Virtual Machines:
 
 
 If you are after a clean, pre-configured SharePoint server image to test SharePoint, the easiest way is to download a trial VM from Microsoft
-**Tip:** [More info on setting up SharePoint VM](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperSharePoint/VMDevelopment.aspx)
+**Tip:**  [More info on setting up SharePoint VM](http&#58;//www.ssw.com.au/ssw/Standards/DeveloperSharePoint/VMDevelopment.aspx)

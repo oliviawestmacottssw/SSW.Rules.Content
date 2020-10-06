@@ -11,9 +11,9 @@ authors:
 
 Think of a sporting event and it's likely that you can think of a sponsor for the event. For example:
 
-- **Australian Iron Man Series** - Uncle Toby's
+- **Australian Iron Man Series**  - Uncle Toby's
 - **Formula 1** - Valvoline, Ferrari
-- **Wimbledon** - Rolex
+- **Wimbledon**  - Rolex
 
 
 The list goes on...

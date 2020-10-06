@@ -37,7 +37,7 @@ ReactJS applications are super easy to test. React views can be treated as funct
 
 ### Great Developer Tools
 
-Developer toolset is another important factor when you are choosing a development platform. There are 2 great tools you should be aware of: **React Developer Tools** and **Redux Developer Tools.** Both can be installed as Chrome extensions.
+Developer toolset is another important factor when you are choosing a development platform. There are 2 great tools you should be aware of:  **React Developer Tools**  and  **Redux Developer Tools.**  Both can be installed as Chrome extensions.
 
 ### References
 

@@ -22,7 +22,7 @@ On the day of your event, chat to the speaker and give them the Speaker Checklis
 - We recommend the following breaks:
 
 
-![A schedule to give to your speakers to help with time keeping ](Schedule.jpg)
+![A schedule to give to your speakers to help with time keeping](Schedule.jpg)
 
 ### 2. Breaks
 

@@ -34,7 +34,7 @@ These three options are:
 
 
 [[goodExample]]
-| ![CRM 2013 provides a *Save *button and a *Save and Close* button](2014-11-27_13-58-48-compressor.png)
+| ![CRM 2013 provides a *Save* button and a *Save and Close* button](2014-11-27_13-58-48-compressor.png)
 
 
 
@@ -45,7 +45,7 @@ These three options are:
 
 
 
-**Further Reading:**
+ **Further Reading:** 
 
 
 - **[SSW Rule - Do you make your cancel button less obvious?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e256302c-c486-4046-b202-a6b2020a5229)**

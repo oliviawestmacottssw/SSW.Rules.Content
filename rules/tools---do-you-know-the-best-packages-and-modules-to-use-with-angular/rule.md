@@ -37,7 +37,7 @@ Best way to quickly integrate Bootstrap 3 or Bootstrap 4 Components with An
 Handles management of OpenID authentication and tokens.
 [https://github.com/IdentityModel/oidc-token-manager](https&#58;//github.com/IdentityModel/oidc-token-manager)
 
-** **
+
 
 ### NgxSpinner
 

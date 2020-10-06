@@ -15,7 +15,7 @@ If in the office:
 - Option 2 is the Web Browser - connect to the demo organization (you will need to deploy a demo org first).
 
 
-**Note:** If not in the office (say at a client site) with an Internet connection, only demo with a strong Internet connection. eg. at least 1MB on speedtest.net
+**Note:**  If not in the office (say at a client site) with an Internet connection, only demo with a strong Internet connection. eg. at least 1MB on speedtest.net
 
 Away from the office options:
 

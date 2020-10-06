@@ -19,7 +19,7 @@ Software teams often come with a Project Manager. You can do better than that by
  
 It's generally best for the Scrum Master \*not\* to be a member of the development team. This way they can stay objective and it creates more of a ceremony when they turn up.
 
-**Tip:** If they are trying to be a member of the development team and a Scrum Master, call them a 'Semi Scrum Master" as they often don't do as good a job.
+**Tip:**  If they are trying to be a member of the development team and a Scrum Master, call them a 'Semi Scrum Master" as they often don't do as good a job.
 
 Here is a common way a project goes with a Scrum Master involved:
 

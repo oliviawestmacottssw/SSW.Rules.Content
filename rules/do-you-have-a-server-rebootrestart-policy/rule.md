@@ -19,7 +19,7 @@ For short outages (under 15 minutes) that only affect only a few people (under 5
 
 **Note:** If they are not online on Teams or Skype, then they can't complain that they were not warned.
 
-For extended or planned outages, or if you have a larger number of users (50+),     **email** is the suggested method.
+For extended or planned outages, or if you have a larger number of users (50+),      **email**  is the suggested method.
  
 ### Email
 
@@ -29,33 +29,33 @@ Include a "[To myself](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-
 it easier to remember to send the 'done' email. E.g. "done - CRM is alive again".
 
 Example:
-**To: **SSWALL
+**To:** SSWALL
 Hi All, <br>      
 
 Here is the summary of the outage plan:
 
 
 
-| **Planned/Unplanned:** | Planned |
+| **Planned/Unplanned:**  | Planned |
 | --- | --- |
-| **Change Description:** | Install Windows Updates and Restart Server<br> |
-| **Risk (see table below):** | LOW RISK (LOW Probability and MEDIUM Impact) |
-| **Reason For Change:** | Windows 2016 Windows Updates<br> |
-| **Uptime over last month:** | 91.361% |
+| **Change Description:**  | Install Windows Updates and Restart Server<br> |
+| **Risk (see table below):**  | LOW RISK (LOW Probability and MEDIUM Impact) |
+| **Reason For Change:**  | Windows 2016 Windows Updates<br> |
+| **Uptime over last month:**  | 91.361% |
 |  | <br> |
-| **Planned Outage (mins):** | 150 |
-| **Planned Start Time:** | 26 October 9:00 PM |
-| **Planned Finish Time:** | 26 October 11:30 PM<br> |
+| **Planned Outage (mins):**  | 150 |
+| **Planned Start Time:**  | 26 October 9:00 PM |
+| **Planned Finish Time:**  | 26 October 11:30 PM<br> |
 |  |  |
-| **Affected Services:** | \\Windows Server 2016<br> |
+| **Affected Services:**  | \\Windows Server 2016<br> |
 |  | http://sharepoint.ssw.com.au<br>http://intranet.ssw.com.au<br>http://projects.ssw.com.au |
 |  | <br> |
 
 
-**Risk Lookup Table by Probability and Impact:**
+**Risk Lookup Table by Probability and Impact:** 
 
 
-| **Risk** |
+| **Risk**  |
 | --- |
 |  | **Probability** |
 | **Low** | **Medium** | **High** | **Unknown** |
@@ -66,7 +66,7 @@ Here is the summary of the outage plan:
 
 **Figure: Clearly showing the potential risks
 
-**
+** 
 **Note:** The following servers will be affected
 
 ![](rule-outage-1.jpg)
@@ -75,9 +75,9 @@ http://wug.ssw.com.au/
 
 ![](rule-outage-2.jpg)
 
-**To myself,****
-**To show others who are interested in what needs to be done to fix the problem:
-**Detailed Change Plan:	**
+**To myself,** **
+** To show others who are interested in what needs to be done to fix the problem:
+ **Detailed Change Plan:** 
 1)	Lockout users via IIS
 2)	Backup server
 3) Install Windows Updates 
@@ -85,15 +85,15 @@ http://wug.ssw.com.au/
 5) Follow test plan
 6) Based on result of test plan, follow backout plan if procedure failed
 7) Procedure completed
-**Test Plan:	**
+**Test Plan:** 
 1)	Check Event log for errors
 2)	Check each affected service is running
 3)	Call test users to start “Test Please” on the affect services 
 4)	Get result of user “Test Please” by email by 11:15 PM
-**Backout Plan:	**
+**Backout Plan:** 
 1)	Restore server from backup
 
-**Note:	**[What is your server reboot/restart policy?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e3a456b4-3513-4dbe-a958-0176c1dfa85d) >
+**Note:** [What is your server reboot/restart policy?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e3a456b4-3513-4dbe-a958-0176c1dfa85d) >
 
 
 Immediately before the scheduled downtime, check for logged in users, file access, and database connections.
@@ -124,4 +124,4 @@ Once these have been checked for active users, and users have logged off, mainte
 
 If a scheduled shutdown is required, use the PsShutdown utility from [Microsoft's Sys Internals](https://www.ssw.com.au/ssw/Redirect/Microsoft/Technet.htm) page.
 
-**Always reply 'Done' when you finish the task. **
+**Always reply 'Done' when you finish the task.**

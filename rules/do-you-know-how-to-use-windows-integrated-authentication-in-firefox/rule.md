@@ -32,6 +32,6 @@ In Firefox, if you sign-in to an internal server like SharePoint or CRM, you wil
 ![Showed how to find "network.automatic-ntlm-auth.trusted-uris" by using filter: "network.automatic"](ff-auth2.JPG)
 More info on this blog: [Firefox and Sharepoint](http://www.cauldwell.net/patrick/blog/PermaLink%2cguid%2cc7f1e799-c4ae-4758-9de7-5c3e7a16f3da.aspx).
 
-**Tip:** To test this without the Integrated Authentication enabled, you need to clear your session. You do this via: **Tools** | **Clear private data** | **Authenticated Sessions**.
+**Tip:**To test this without the Integrated Authentication enabled, you need to clear your session. You do this via:  **Tools**  |  **Clear private data**  |  **Authenticated Sessions** .
 
 ![To test you will need to clear your "Authenticated Sessions" to completely logout from a site](ff-auth3.JPG)(SharePoint, CRM)

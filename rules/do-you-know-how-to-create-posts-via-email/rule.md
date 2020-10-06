@@ -9,7 +9,7 @@ authors:
 
 ---
 
-If you ever need to create a new post to your blog without access to WordPress admin area** **(**/wp-admin**)** **you can do it via email, thanks to the Jetpack plugin. Watch how you do it on Ben Cull's video:
+If you ever need to create a new post to your blog without access to WordPress admin area ** ** ( **/wp-admin** ) ** ** y  ou can do it via email, t  hanks to the Jetpack plugin. Watch how you do it on Ben Cull's video:
  
 
 `youtube: https://www.youtube.com/embed/n9PlO826StQ`

@@ -109,11 +109,11 @@ You should also change your Google language to English as well. If it is not alr
    1. Go to https://outlook.office.com
    2. Click on "My profile" in the top right corner
 
-![Choose 'My profile'](screenshot-step1.png)
-**   3. Click on "setting" button
+![Choose 'My profile' ](screenshot-step1.png)
+**    3. Click on "setting" button
 
-![Choose 'Mail'](screenshot-step2.png)
-**    4. Click on Region and time zone
+![Choose 'Mail' ](screenshot-step2.png)
+**     4. Click on Region and time zone
 
 ![Choose Region and Time. Then when you change the ‘Language’ with the checkbox enabled, the problem will be fixed.](screenshot-step3.png)
 

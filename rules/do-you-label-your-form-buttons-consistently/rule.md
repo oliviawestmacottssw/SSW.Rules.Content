@@ -11,15 +11,15 @@ The buttons that a user will typically use to close a form should be named consi
  
 [[badExample]]
 | ![Unclear labels on the buttons](../../assets/ButtonLabels_Bad.gif)
-- **Save** button could possibly update the fields but keep the form open.
-- **Close** could save the fields, then close the form, when the <br>      ** Cancel** button may be more appropriate.
+- **Save**  button could possibly update the fields but keep the form open.
+- **Close**  could save the fields, then close the form, when the <br>       **Cancel**  button may be more appropriate.
 
 
 We recommend the age-old standards of:
 
-- **OK**. Close the form and save any changed data. This should be referenced by the form's AcceptButton property.
-- **Cancel**. Close the form without saving. This should be referenced by the form's CancelButton property.
-- **Apply**. Save data without closing the form.
+- **OK** . Close the form and save any changed data. This should be referenced by the form's AcceptButton property.
+- **Cancel** . Close the form without saving. This should be referenced by the form's CancelButton property.
+- **Apply** . Save data without closing the form.
 
 
 [[goodExample]]

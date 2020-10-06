@@ -36,8 +36,8 @@ So the only Con left is the importing of data but we can use one of the above pr
 Using SQL Management Studio
 
 1. Right-Click your database to open the menu
-2. Navigate to **Tasks | Import Data…**  to open the wizard
-3. When selecting Source Tables and Views click on **Edit Mappings…**
+2. Navigate to  **Tasks | Import Data…**   to open the wizard
+3. When selecting Source Tables and Views click on  **Edit Mappings…**
 
 
 

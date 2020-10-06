@@ -18,7 +18,7 @@ In v1.0 and v1.1 of .NET framework when serializing DateTime values with the Xml
 DataSet returnedResult = webserviceObj.GetByDateCreatedAndEmpID(DateTime.Now,'JZ');
 ```
 
-**Figure: front end code in .NET v1.1 (front end time zone: GTM+8)**
+**Figure: front end code in .NET v1.1 (front end time zone: GTM+8)** 
 
 
 ```

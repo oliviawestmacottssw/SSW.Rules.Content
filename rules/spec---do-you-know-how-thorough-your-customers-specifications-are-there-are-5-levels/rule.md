@@ -43,12 +43,12 @@ This will include detailed mock-ups for the UI, use cases/user stories and might
 - We need a login page for [www.northwind.com](http://www.northwind.com/)
 - Must match existing site look and feel
 - Users table must be defined and added to the ABC database (SQL Server 2008)
-- **User Name consists of user first initial and first 7 characters of the last name**
-- **For example Joe Jones -> jjones**
+- **User Name consists of user first initial and first 7 characters of the last name** 
+-  **For example Joe Jones -> jjones**
 - Password should be at least 8 characters
 - Site uses .NET 4 and this interface must be added to existing project
 - This is the layout for the login interface
-- **A red asterisk (\*) should be displayed if a value is left blank and Submit is pressed**
+- **A red asterisk (\*) should be displayed if a value is left blank and Submit is pressed** 
 
 ![Functional Specifications go into more detail about the user interface and interactions in the system](LoginInterface.jpg)
 ### 5. Technical Specification

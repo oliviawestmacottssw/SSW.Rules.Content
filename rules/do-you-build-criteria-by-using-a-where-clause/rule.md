@@ -14,7 +14,7 @@ As an example, you could do it like this.
 
 ClientSearch.aspx?Client.ClientID='ssw'&Client.CoName='S'
 
-**Figure: Filtering Data **
+**Figure: Filtering Data**
 
 This allows you to easily extract fields and values, but it only works for the fields you hard code. You could get around it by writing complex code to build a SQL query or ignore the ones that don't match.
 

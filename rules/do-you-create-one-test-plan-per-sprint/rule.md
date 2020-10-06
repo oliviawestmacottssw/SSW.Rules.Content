@@ -17,6 +17,6 @@ When you use Microsoft Test Manager to create test plans and test suites for you
 By creating test plans for each sprint, you can see when a sprint is complete, based on your testing goals. You can also prepare the test plan for the next sprint while you complete your testing for the current sprint.
  By using this approach, you can track your testing progress for each of your test plans and see that the quality of your application is improving.
 
-**Tip:**If you add both manual and automated tests to your test suites, you can view the overall quality based on both of these types of tests for your test suites and test plans.
+**Tip:** If you add both manual and automated tests to your test suites, you can view the overall quality based on both of these types of tests for your test suites and test plans.
 
-**Reference:**[Guidance for Creating Test Plans and Test Suites](http://msdn.microsoft.com/en-us/library/ff972304.aspx)
+**Reference:** [Guidance for Creating Test Plans and Test Suites](http://msdn.microsoft.com/en-us/library/ff972304.aspx)

@@ -37,12 +37,12 @@ If a software release has caused the performance problems, it is important to wo
 
 Application Insights can help determine which tier of an application is performing poorly, and if it is determined that the performance issue is occurring in the database, SQL Server makes finding these performance issues much easier.
 
-**Tip:** Azure SQL can provide performance recommendations based off your application usage and even automatically apply them for you.
+**Tip:**  Azure SQL can provide performance recommendations based off your application usage and even automatically apply them for you.
 
 Query Store is like having a light-weight version of SQL Profiler running all the time, and is enabled at a database level using the Database Properties dialog:
 
 ![Read Write indicates that the Query Store is setup to help us a few days later](QueryStore1.png)
-Once Query Store has been enabled for a particular database, it needs to run for a number of days to collect performance data.  It is generally a good idea to enable Query Store for important production databases     **before** performance problems occur.  Detailed information on regressed queries, overall resource consumption, the worst performing queries, and detailed information such as query plans for a specific SQL statement can then be retrieved using SQL Server Management Studio (SSMS).
+Once Query Store has been enabled for a particular database, it needs to run for a number of days to collect performance data.  It is generally a good idea to enable Query Store for important production databases      **before**  performance problems occur.  Detailed information on regressed queries, overall resource consumption, the worst performing queries, and detailed information such as query plans for a specific SQL statement can then be retrieved using SQL Server Management Studio (SSMS).
 
 ![A couple of days later… Query Store can now be queried to determine which queries are now performing poorly](QueryStore3.png)
 Once Query Store has been collecting performance information on a database for an extended period, a rich collection of information is available.  It is possible to show regressed queries by comparing a Recent time interval (2 weeks in the diagram below) compared to a baseline History period (the Last Year in the diagram below) to see queries that have begun to perform poorly.

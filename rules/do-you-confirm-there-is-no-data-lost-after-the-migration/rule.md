@@ -9,7 +9,7 @@ authors:
 
 ---
 
-After you have finished migrating the database, it is extremely important to verify that no data has been lost in the move. The quickest way to do this is to compare the SharePoint 2007 and the SharePoint 2010 server **All Site Content** pages and confirm that the item numbers match:
+After you have finished migrating the database, it is extremely important to verify that no data has been lost in the move. The quickest way to do this is to compare the SharePoint 2007 and the SharePoint 2010 server  **All Site Content**  pages and confirm that the item numbers match:
 
 
 ![](AllSiteContentCount.png)
@@ -18,8 +18,8 @@ After you have finished migrating the database, it is extremely important to ver
 
 1. Look at your report from the SharePoint 2007 server
 2. On the SharePoint 2010 server, open the site collection you just migrated to
-3. Select **Site Actions | Site Settings**
-4. Select **All Site Content**
+3. Select  **Site Actions | Site Settings**
+4. Select  **All Site Content**
 5. Compare item numbers with 2007
 
 

@@ -26,7 +26,7 @@ A.  Create a shortcut in windows, then upload the shortcut file (.url) to the do
  
 Details on how you to create a link to a document in a SharePoint library.
 
-**A. Create a shortcut in windows, then upload the shortcut file (.url) to the document library. **
+**A. Create a shortcut in windows, then upload the shortcut file (.url) to the document library.**
 
 To do this, you need to remove .url file type from your blocked file types in your web application. This will bring some security risk, which is not recommended, and I won't show the step details here.
 

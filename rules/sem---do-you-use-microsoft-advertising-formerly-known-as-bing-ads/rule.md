@@ -46,15 +46,15 @@ Follow these steps to import:
 1. In Microsoft Advertising, click Import Campaigns, and then click Import from Google Ads.
 2. If you have imported from Google Ads in the past 90 days, you will see a table that shows you the Date/Time and Google Ads account that was imported along with.
 3. Click Sign in to Google.
-4. Enter your Google Ads sign-in information, click **Sign in**.
-5. Select the Google Ads campaigns you want to import, then click **Continue**.
-6. Under **Choose Import Options**, do the following:
-            - Choose the appropriate options for **What to import, Bids and budgets, Landing page URLs, Tracking templates, Ad extensions, and Microsoft Merchant Centre.**
-            - Choose if you want to delete ad groups and campaigns from Microsoft Advertising that you have already deleted from Google Ads under **Clean-up,** once you remove these campaigns or ad groups, any associated ads or keywords will also be deleted.
-7. Optional: Under **Schedule Imports**, click **When** and then set the schedule you want, which can be Once, Daily, Weekly, or Monthly.
-8. Click Import or if you want to set a schedule, click **Schedule**.
-9. Review the** Import summary **to see what entities were newly added or updated, or couldn't be imported (skipped).
-10. If you want to review the details of the campaigns and make changes, click **View imported campaigns.**
+4. Enter your Google Ads sign-in information, click  **Sign in** .
+5. Select the Google Ads campaigns you want to import, then click  **Continue** .
+6. Under  **Choose Import Options** , do the following:
+            - Choose the appropriate options for  **What to import, Bids and budgets, Landing page URLs, Tracking templates, Ad extensions, and Microsoft Merchant Centre.**
+            - Choose if you want to delete ad groups and campaigns from Microsoft Advertising that you have already deleted from Google Ads under  **Clean-up,**  once you remove these campaigns or ad groups, any associated ads or keywords will also be deleted.
+7. Optional: Under  **Schedule Imports** , click  **When**  and then set the schedule you want, which can be Once, Daily, Weekly, or Monthly.
+8. Click Import or if you want to set a schedule, click  **Schedule** .
+9. Review the ** Import summary ** to see what entities were newly added or updated, or couldn't be imported (skipped).
+10. If you want to review the details of the campaigns and make changes, click  **View imported campaigns.**
 11. If you want to sync multiple Google Ads accounts into the same Microsoft Advertising, treat each Ad Words account as a separate import. It is recommended that you wait at least a 2-hour time difference between each import to insure their completion.
 
 

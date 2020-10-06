@@ -24,7 +24,7 @@ You have to manually edit SQL definition in Microsoft Access (remove or replace 
 ```
 SELECT Orders.OrderID,
     "Order Subtotals".Subtotal, 
-    FORMAT(ShippedDate,'yyyy') AS Year 
+     FORMAT (ShippedDate,'yyyy') AS Year 
 FROM Orders 
 INNER JOIN "Order Subtotals" 
     ON (Orders.OrderID="Order Subtotals".OrderID);
@@ -35,7 +35,7 @@ Figure: Bad example of Access query with FORMAT keyword
 ```
 SELECT Orders.OrderID,
     "Order Subtotals".Subtotal, 
-    YEAR(ShippedDate) AS [Year] 
+     YEAR (ShippedDate) AS [Year] 
 FROM Orders 
 INNER JOIN "Order Subtotals" 
     ON (Orders.OrderID="Order Subtotals".OrderID)

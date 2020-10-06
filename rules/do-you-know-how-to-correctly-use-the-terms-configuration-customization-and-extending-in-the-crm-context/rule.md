@@ -12,13 +12,13 @@ authors:
 It is important to use consistent language when talking about changes made to a CRM environment. The terms configuration and customization are sometimes used interchangeably.  It is clearer to use the following to differentiate them: Configuration, Customization and Extending.
 
 
- **Configuration **applies to any changes made to existing options available within the default installation of CRM, examples might include changing the default currency from USD to AUD or the way emails are sent; using the Email Router instead of Outlook etc.
+ **Configuration** applies to any changes made to existing options available within the default installation of CRM, examples might include changing the default currency from USD to AUD or the way emails are sent; using the Email Router instead of Outlook etc.
 Configuration applies to objects like: Business Units, Security Roles, Users, Teams, Field Security, Auditing, and Solutions
 
-**Customization** is anything that can be done within CRM without resorting to the SDK or external code. Adding new fields to an existing entity, creating new entities, option sets, reports etc.
+ **Customization**  is anything that can be done within CRM without resorting to the SDK or external code. Adding new fields to an existing entity, creating new entities, option sets, reports etc.
 Customization would apply to: Fields, Entities, Relationships, Forms, Views, and Charts, Workflows, Imports etc.
 
-**Extending** is anything that involves writing custom code. This could be a plug-in (SDK) or JavaScript code (external code).
+ **Extending**  is anything that involves writing custom code. This could be a plug-in (SDK) or JavaScript code (external code).
 
 
 

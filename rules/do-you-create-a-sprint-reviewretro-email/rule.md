@@ -48,7 +48,7 @@ Attendees:        *(Optional as they may be in the to and CC)*
 
 
 
-| **ID** | **Title** | **State** | **Effort**<br> |
+| **ID**  | **Title**  | **State**  |  **Effort** <br> |
 | --- | --- | --- | --- |
 | 24124 <br> | UI Improvements<br> | Done<br> | 4<br> |
 | 24112 <br> | Integrate Business Logic to MVC app  <br> | Done | 8<br> |
@@ -102,11 +102,11 @@ As part of our commitment to inspect and adapt as a team we conduct a Sprint Ret
 
 **What improvements will be made for the next Sprint?**
 
-**Definition of Ready *****- Optional***
+**Definition of Ready*****- Optional***
 
 
 
-**Definition of Done *****- Optional***
+**Definition of Done*****- Optional***
 
 
 

@@ -18,7 +18,7 @@ Screen captures at https://weblogs.asp.net/nunitaddin/testdriven-net-3-0-all-sys
 - Jamie Cansdale
  
 
-| **Test Object** | **Recommended Style** | **Example** |
+| **Test Object**  | **Recommended Style**  | **Example**  |
 | --- | --- | --- |
 | Project Name | Tests.[Testtypes].Projectname | Tests.Unit.Common,Tests.Unit.WebFrontend,Test.Integration.MainWCFService<br>Tests.Functional.SilverlightUI, Tests.Functional.WebUI \* |
 | Test Fixture Name | [Type]Tests | OrdersTests, CustomerTests, DeveloperTests |
@@ -38,7 +38,7 @@ The main reason why we are categorizing tests is so that we can run different te
 - All tests including the functional tests in the nightly build
 
 
-**Samples for Naming of test projects**
+**Samples for Naming of test projects** 
 Test.Unit.WebUI: This test project, tests the WebUI project, and is independent of external resources.
 That means all tests must pass.
 Test.Integration.WebUI: This test project tests the WebUI and depends on other external resources (Eg. probably needs a database, web services, etc.).

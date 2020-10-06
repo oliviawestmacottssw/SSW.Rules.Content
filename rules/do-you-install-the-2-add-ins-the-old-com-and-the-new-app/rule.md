@@ -11,7 +11,7 @@ authors:
 
 You should install the Outlook COM add-in, and optionally the new Dynamics 365 App for Outlook.
  
-**Note:** At the moment, installing the app is optional (it is only useful for sales people). This will change in the future - this is a temporary issue because the app is more stable but it does not allow you to track appointments. E.g. At SSW developers still need the "full app" (aka the old Outlook COM-Add In) for booking clients and booking leave.
+**Note:**  At the moment, installing the app is optional (it is only useful for sales people). This will change in the future - this is a temporary issue because the app is more stable but it does not allow you to track appointments. E.g. At SSW developers still need the "full app" (aka the old Outlook COM-Add In) for booking clients and booking leave.
 
 ### Install the "full" and "lightweight" Dynamics 365 app for Outlook
 

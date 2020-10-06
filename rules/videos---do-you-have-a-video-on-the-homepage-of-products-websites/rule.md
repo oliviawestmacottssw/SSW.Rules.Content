@@ -11,7 +11,7 @@ authors:
 
 The best way to show the features of a product is creating a video. The information you are able to communicate in seconds of a video would take hundreds of words of text to explain.
 
-Videos are also important for services, but for products, it should be **on the homepage**.
+Videos are also important for services, but for products, it should be **on the homepage** .
  
 ![](dropbox-homepage.jpg)[Good Example - Dropbox homepage](https://www.dropbox.com/) has no text but a video that shows nicely how it works
 

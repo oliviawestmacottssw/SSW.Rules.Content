@@ -26,7 +26,7 @@ The levels of protection are:
 
 Get ReSharper to green on each file you touch. You want the files you work on to be left better than when you started. See     [Do you follow the boyscout rule?](http://www.ssw.com.au/ssw/standards/rules/RulestoBetterCode.aspx#BoyscoutRule)
 
-**Tip:** You can run through a file and tidy it very quickly if you know two great keyboard shortcuts:
+**Tip:**  You can run through a file and tidy it very quickly if you know two great keyboard shortcuts:
 
 - Alt + [Page Down/Page Up] : Next/Previous Resharper Error / Warning
 - Alt + Enter: Smart refactoring suggestions
@@ -39,13 +39,13 @@ Get ReSharper to green on each file you touch. You want the files you work on to
 Is to use     [Code Auditor.](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx)
 
 ![Code Auditor shows a lot of warnings in this test project](CodeAuditor.png)
-**Note:** Document any rules you've turned off.
+**Note:**  Document any rules you've turned off.
 
 ### Level 3
 
 Is to use     [Link Auditor](http://www.ssw.com.au/ssw/LinkAuditor/).
 
-**Note:** Document any rules you've turned off.
+**Note:**  Document any rules you've turned off.
 
 ### Level 4
 
@@ -70,10 +70,10 @@ Is to document any rules you've turned off.
 
 All of these rules allow you to disable rules that you're not concerned about.  There's nothing wrong with disabling rules you don't want checked, but you should make it clear to developers why those rules were removed.
 
-Create a     **GlobalSuppressions.cs** file in your project with the rules that have been turned off and why.
+Create a      **GlobalSuppressions.cs**  file in your project with the rules that have been turned off and why.
 
 ![The suppressions file tells Code Analysis which rules it should disable for specific code blocks](suppressions-file.png)
-**More Information:** [Do you make instructions at the beginning of a project and improve them gradually?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d6d34c31-ac6a-49a4-876a-f9d30e1ab78a) and     https://docs.microsoft.com/en-us/visualstudio/code-quality/in-source-suppression-overview
+**More Information:**[Do you make instructions at the beginning of a project and improve them gradually?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d6d34c31-ac6a-49a4-876a-f9d30e1ab78a) and     https://docs.microsoft.com/en-us/visualstudio/code-quality/in-source-suppression-overview
 
 ### Level 8
 

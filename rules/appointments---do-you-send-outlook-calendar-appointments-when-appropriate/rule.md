@@ -18,7 +18,7 @@ If you wish to organize a meeting that involves some of your colleagues and a cl
 ![Use Outlook appointments to easily synchronise your calendar with your client's](OutlookAppointment.gif)
 This way Outlook will remind your colleagues about the appointment and you can update them if any changes are made.
 
-If the appointment is for     **3 days or less**, send a separate appointment for each day. This is because multiple-day appointments appear at the top in your Outlook Calendar, so you risk missing the appointment (see below).
+If the appointment is for      **3 days or less** , send a separate appointment for each day. This is because multiple-day appointments appear at the top in your Outlook Calendar, so you risk missing the appointment (see below).
 
 [[badExample]]
 | ![Multiple-day appointments appear hidden at the top of your Outlook calendar, so you might miss it, thinking that the time is free](BadMultipleDayAppointment.gif)

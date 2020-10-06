@@ -23,5 +23,5 @@ The code generators to generate maintenance pages automatically, come from MS an
 DEAD - now replaced by ASP.NET Dynamic Data.
 4. ASP.NET Dynamic Data provides the Web application scaffolding that enables you to build rich data-driven Web applications. This scaffolding is a mechanism that enhances the functionality of the existing ASP.NET framework by adding the ability to dynamically display pages based on the data model of the underlying database, without having to create pages manually. 
 
-**WARNING: ASP.NET Dynamic Data is in Beta and not installed on SEAL and SEALUS.** 
+ **WARNING: ASP.NET Dynamic Data is in Beta and not installed on SEAL and SEALUS.**  
 ASP.NET Dynamic Data has been released in VS.NET 2008 SP1.

@@ -36,4 +36,4 @@ Here are the best collection of resources for Angular.:
 
 ### Free Events 
 
-- **Your local JavaScript or React User Group**- [https://www.meetup.com/](https&#58;//www.meetup.com/)
+- **Your local JavaScript or React User Group** - [https://www.meetup.com/](https&#58;//www.meetup.com/)

@@ -11,7 +11,7 @@ authors:
 
 Empty Visual C# .NET method consumes program resources unnecessarily. Put a comment in code block if its stub for future application.
 
-**Exception:** If a Class implements an Inherited Interface method, you should add a comment within the Code block
+**Exception:**  If a Class implements an Inherited Interface method, you should add a comment within the Code block
 
  
 public class Example

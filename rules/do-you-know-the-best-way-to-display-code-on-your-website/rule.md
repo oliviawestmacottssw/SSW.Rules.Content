@@ -15,7 +15,7 @@ The complex method requires formatting each line with HTML tags (such as &lt;br&
 
 The simpler method uses &lt;pre&gt; tags. Pre (standing for "preformatted") means that the code is formatted exactly as it is written in the HTML window. This means the page designer can format code in a very simple fashion, without worrying about tags.
  
-**Note:** &lt;code&gt; tags should not be used because they only provide the font Courier - you still have to manually indent all of your code as in the bad code display example below.
+**Note:**  &lt;code&gt; tags should not be used because they only provide the font Courier - you still have to manually indent all of your code as in the bad code display example below.
 
 &lt;font face="Courier, Times, Arial, Verdana" size="3"&gt;
 public class Configuration&lt;br&gt;
@@ -45,4 +45,4 @@ get
 &lt;/pre&gt;
  Figure: Good code display example - using &lt;pre&gt;
 
-**Tip:** Do not use auto-format (Ctrl-K, Ctrl-F) in Visual Studio when updating page with &lt;pre&gt; tags, or it will destroy all the code formatting. We have made a suggestion to Microsoft to fix this.
+**Tip:**  Do not use auto-format (Ctrl-K, Ctrl-F) in Visual Studio when updating page with &lt;pre&gt; tags, or it will destroy all the code formatting. We have made a suggestion to Microsoft to fix this.

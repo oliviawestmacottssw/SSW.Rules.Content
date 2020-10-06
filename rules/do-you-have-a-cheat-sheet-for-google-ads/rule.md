@@ -11,10 +11,10 @@ authors:
 
 Here’s a little thing to keep in mind, as Google Ads has a limitation in characters. The Ads character limits are as follows:
  
-- **Headline 1** – 30 Character Maximum
-- **Headline 2** – 30 Character Maximum
-- **Description Line** – 90 Character Maximum
-- **Display URL** – 35 Character Maximum
+- **Headline 1**  – 30 Character Maximum
+- **Headline 2**  – 30 Character Maximum
+- **Description Line**  – 90 Character Maximum
+- **Display URL**  – 35 Character Maximum
 - **Final URL** – 1024 Character Maximum
 
 

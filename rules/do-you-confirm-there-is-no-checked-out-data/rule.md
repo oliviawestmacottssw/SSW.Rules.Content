@@ -20,17 +20,17 @@ Suggestion to Microsoft: send an email to the user to remind them they have outs
 ![Here Greg Harris has not checked in a file](sp-docs.jpg)
 
 
-**Upgrade warning:** The pages that are not checked-in, will not be migrated on a SharePoint upgrade. There is \*no\* warning either.
+**Upgrade warning:**  The pages that are not checked-in, will not be migrated on a SharePoint upgrade. There is \*no\* warning either.
 
 There are 2 ways to remind users of their "checked out files":
 
 - **Solution A: Manage Content and Structure Report (No Code)**
-- **Solution B: Custom application report (Includes some coding work)
+- ** Solution B: Custom application report (Includes some coding work)
 Eg. SSW.Dory
-**
+ **
 
  
-**Solution A. Manage Content and Structure Report (No Code)**
+**Solution A. Manage Content and Structure Report (No Code)** 
 
 1. Create CAML query in site content and structure
 
@@ -53,7 +53,7 @@ Run the checkout report from "Site Settings | Manage Content and Structure | Vie
 3. Go chase after the users.
 
 **Solution B. Custom application report (Includes some coding work)
-**
+** 
 
 
 **TODO:** Move this tool to GitHub, find a better name than "SSW.SharePoint.CheckedOutFilesReport".  Also change from a farm solution to a solution that can be used on Office365 - now in SharePoint 2016 and SharePoint online called "Sharepoint Add-ins" 
@@ -71,9 +71,9 @@ Even better, we have also improved the application with a scheduled task using S
 
 
 
-**Hi Sophie, **
+**Hi Sophie,** 
 
- 
+
 
 You have some pages checked out in SharePoint.
 

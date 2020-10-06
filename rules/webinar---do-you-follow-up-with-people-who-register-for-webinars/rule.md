@@ -39,7 +39,7 @@ One of the best ways to generate new opportunities for your business is to hold 
         1. Video of the webinar
         2. Any related resource that they might need
         3. Action step for the next contact
-    **3. Add all people who register to the monthly newsletter list **
+    **3. Add all people who register to the monthly newsletter list**
 
 
 You can use [

@@ -29,10 +29,10 @@ The first example is bad because it confuses the reader as to whom the author is
 
 
 
-It is occasionally acceptable to use the first person, "we", "I", "us", "our" etc. An example of an acceptable use of first person is, "We recommend that you backup your database first." **However, you must never use the first person to refer to the reader.**
+It is occasionally acceptable to use the first person, "we", "I", "us", "our" etc. An example of an acceptable use of first person is, "We recommend that you backup your database first."  **However, you must never use the first person to refer to the reader.** 
 
-**
-**
+ **
+** 
 
 
 We will now open a web browser and go to the home page.

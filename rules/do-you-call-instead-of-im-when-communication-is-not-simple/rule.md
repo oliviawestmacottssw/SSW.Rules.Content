@@ -15,9 +15,9 @@ Communication using voice is much faster than typing a message and it can clear 
  
 Example:
 
-**- Adam Cogan:** Did you say to me, you would contact Tiago on Skype to do it collaboratively... rather than email?
-**- Danijel Malik:** I agreed I'll contact them over Skype as suggested by Drew
-**- Adam Cogan:** Isn't that what I just said? (and you said you were sending emails)
-**- Danijel Malik:** Hold on...I don't understand you anymore, can we switch to voice?
+**- Adam Cogan:**  Did you say to me, you would contact Tiago on Skype to do it collaboratively... rather than email?
+ **- Danijel Malik:**  I agreed I'll contact them over Skype as suggested by Drew
+ **- Adam Cogan:**  Isn't that what I just said? (and you said you were sending emails)
+ **- Danijel Malik:**  Hold on...I don't understand you anymore, can we switch to voice?
 
 Then follow [Do you send "As Per Our Conversation" emails?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f98fc6fe-0e5d-43fe-b560-0f5603ec7069)

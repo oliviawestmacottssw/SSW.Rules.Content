@@ -18,6 +18,6 @@ Figure: Bad Example - Using deprecated HTML tag
 | &lt;span&gt;Some text&lt;/span&gt;
 &lt;p&gt;Some text&lt;/p&gt;
 Figure: Good Example - Using &lt;p&gt; or &lt;span&gt; for texts
-**Tip:** Use CSS to define the font, size, and color of text.
+**Tip:**  Use CSS to define the font, size, and color of text.
 
 We have the programs [SSW Code Auditor](http&#58;//www.ssw.com.au/ssw/CodeAuditor/Default.aspx) and [SSW Link Auditor](http&#58;//www.ssw.com.au/ssw/linkauditor/) to check for this rule.

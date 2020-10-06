@@ -23,7 +23,7 @@ This question is a show stopper! It's too easy for prospects to give a one-word
 
 Then your knockout is going to be something like:
 
-**Question:** So where do you see yourself fitting in with the move towards .NET for the next few years?
+**Question:**  So where do you see yourself fitting in with the move towards .NET for the next few years?
 Figure: Good example
 
 This question is great because of the following reasons:

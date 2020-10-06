@@ -21,7 +21,7 @@ You may have heard about a tracking pixel too. [ClickMeter explains the differen
 
 
 
-- The **Tracking Pixel** (not to be confused with Conversion Pixel) is an image of one pixel that you place on a webpage or in an email and let you track how many times the webpage has been viewed or the email opened. Check this [SocialMediaExaminer blog](https&#58;//www.socialmediaexaminer.com/tracking-pixels-google-tag-manager/) post to find out how to install it with Google Tag Manager. If you need more help setting this up, check [hotmart's blog](https&#58;//blog.hotmart.com/en/conversion-pixel/ "hotmart's") for furthers instructions, including Facebook pixel.
+- The  **Tracking Pixel**  (not to be confused with Conversion Pixel) is an image of one pixel that you place on a webpage or in an email and let you track how many times the webpage has been viewed or the email opened. Check this [SocialMediaExaminer blog](https&#58;//www.socialmediaexaminer.com/tracking-pixels-google-tag-manager/) post to find out how to install it with Google Tag Manager. If you need more help setting this up, check [hotmart's blog](https&#58;//blog.hotmart.com/en/conversion-pixel/ "hotmart's") for furthers instructions, including Facebook pixel.
 
 
-- The **Conversion code** is a piece (snippet) of code you place in the thank you page to track conversions. The Conversion Code can ALSO be a Conversion Pixel.
+- The  **Conversion code**  is a piece (snippet) of code you place in the thank you page to track conversions. The Conversion Code can ALSO be a Conversion Pixel.

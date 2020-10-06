@@ -21,7 +21,7 @@ Basically, creating a rule category contains two parts of work.
 > 1) Open browser, log in to [http://rules.ssw.com.au/admin/](/admin)
 
 
-**1. Create a "rule category" in Term Store (e.g. "Rules to Better xxx")**** **
+ **1. Create a "rule category" in Term Store (e.g. "Rules to Better xxx")**  
 
 
 
@@ -31,7 +31,7 @@ Basically, creating a rule category contains two parts of work.
 > 3) Type the rule category name, e.g. "Rules to Better xxx":
 ![](rulecategor2.jpg)
 
-**2. ****Create a "rule summary" page to show rule pages belong to this rule category**
+**2.****Create a "rule summary" page to show rule pages belong to this rule category**
 
 > 4) Go to "Site Setting" | "Add a page" to create a new page:
 > 

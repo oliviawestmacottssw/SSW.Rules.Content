@@ -33,7 +33,7 @@ Jane: I feel like you never reply to my emails, but I see on emails I am cc'ed o
 Bob: Really? Can you give an example?
 (pause)
 Jane: The one about XXX
-Bob: I didn't reply because I saw Tiago reply... however, **I do take your point in general.** I will try to do better for the next week. Let me know if I've improved.
+Bob: I didn't reply because I saw Tiago reply... however,  **I do take your point in general.**  I will try to do better for the next week. Let me know if I've improved.
 Figure: Good example - Jane feels heard 
 
 

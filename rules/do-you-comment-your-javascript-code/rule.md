@@ -17,8 +17,8 @@ In other words, let your code speak for itself.
 
 ## How to comment in JavaScript?
 
-- **Single-line comments** - begin with a double forward slash (//)
-- **Multiline comments** - start with slash-asterisk (/\*) and end with asterisk-slash (\*/) pair.
+- **Single-line comments**  - begin with a double forward slash (//)
+- **Multiline comments**  - start with slash-asterisk (/\*) and end with asterisk-slash (\*/) pair.
 
 
 Generally use line comments. Use multiline comments for formal documentation and for commenting out.

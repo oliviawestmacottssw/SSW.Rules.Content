@@ -11,7 +11,7 @@ Making your presentation over-complicated is a very easy trap to fall into. Many
 
 In reality, giving a presentation is an entirely different genre from writing a technical report.
 
-**KISS** - In its polite form, this stands for **K**eep **I**t **S**hort and **S**imple.
+**KISS**  - In its polite form, this stands for  **K** eep  **I** t  **S** hort and  **S** imple.
 
 - In 20 minutes, you only have time for two major points
 - In 30 minutes you might make three major points

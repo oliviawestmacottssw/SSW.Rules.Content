@@ -20,17 +20,17 @@ Some project graphs available:
 
 
 ![Pulse graph shows a summary of the project activity](view-project-2.png)
-Read more about **Pulse Graph**:     https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-summary-of-repository-activity
+Read more about  **Pulse Graph** :     https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-summary-of-repository-activity
 
 ### Contributors Graph
 
 
 ![Contributors graphs show the top 100 contributors to the project](view-project-3.png)
-Read more about **Contributors Graph**:     https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-projects-contributors
+Read more about  **Contributors Graph** :     https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-projects-contributors
 
 ### Traffic Graph
 
 
 ![Traffic graphs show the project’s traffic, including clones, visitors in the past 14 days, referring sites and popular content to anyone with push access to the project](view-project-1.png)
 
-Read more about **Traffic Graph**:     https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-traffic-to-a-repository
+Read more about  **Traffic Graph** :     https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-traffic-to-a-repository

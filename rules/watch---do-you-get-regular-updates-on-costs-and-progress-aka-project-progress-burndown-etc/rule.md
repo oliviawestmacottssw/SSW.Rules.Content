@@ -28,7 +28,7 @@ This allows you to see the actual costs of the project on a weekly basis.
 # 2. Current hours remaining and hours completed for the current sprint
 
 ![](../../assets/burndown.JPG) Figure 2: Burndown report - Shows the progress of the team in the current sprint – ETA is March 29 and Ana has no work to do 
-**Questions that the Burndown and Burn Rate report help answer: **
+**Questions that the Burndown and Burn Rate report help answer:**
 
 1. Is the team likely to finish the iteration on time?
 2. Will the team complete the required work, based on the current Burn Rate?
@@ -42,7 +42,7 @@ This allows you to see the actual costs of the project on a weekly basis.
 # Story Overview - See how each task is tracking
 
 ![](../../assets/storiesOverview.JPG) Figure 3: Stories Overview report - Shows the progress of the User Stories in the current sprint and nothing has been tested and no active bugs 
-**Questions that the Stories Overview report help answer: **
+**Questions that the Stories Overview report help answer:**
 
 1. How much work does each story require?
 2. How much work has the team completed for each story?

@@ -27,5 +27,5 @@ Maybe your followers will want to chip in with a better answer.
 
 This is done by finding your "activity" feed on the forum.
 
-**Example of activity feed from StackOverflow**
+**Example of activity feed from StackOverflow** 
 [http://stackoverflow.com/feeds/user/11799](http&#58;//stackoverflow.com/feeds/user/11799)

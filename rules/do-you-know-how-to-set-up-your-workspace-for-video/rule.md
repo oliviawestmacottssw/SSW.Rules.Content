@@ -55,7 +55,7 @@ Benefits
 
 
 
-**Podcast style microphone**
+**Podcast style microphone** 
 
 ![<br>](rode-podcaster.jpg)[Rode USB Podcaster microphone](http://www.rode.com/microphones/podcaster)
 Benefits

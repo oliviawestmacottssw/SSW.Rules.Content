@@ -13,10 +13,10 @@ Most importantly when a first time a user tries your program, they should be abl
  
 To ensure a consistent user experience, make sure to include these visual elements:
 
-1. **Page name.** It is important for the user to know which page they<br>                        are currently on.
-2. **Page description.** You should provide a short description of the<br>                        task to be performed on the page.
-3. **Instructions.** Not required for every page, this is a short description<br>                        requesting the user to perform a task, for example, entering some values into a<br>                        text field.
-4. **Company logo.** This helps promote branding, however it should be<br>                        inconspicuous and should not move visual focus away from the body of your application.<br>
+1. **Page name.**  It is important for the user to know which page they<br>                        are currently on.
+2. **Page description.**  You should provide a short description of the<br>                        task to be performed on the page.
+3. **Instructions.**  Not required for every page, this is a short description<br>                        requesting the user to perform a task, for example, entering some values into a<br>                        text field.
+4. **Company logo.**  This helps promote branding, however it should be<br>                        inconspicuous and should not move visual focus away from the body of your application.<br>
 
 
 
@@ -24,7 +24,7 @@ To ensure a consistent user experience, make sure to include these visual elemen
 | ![SSW Link Auditor Wizard's<br>                                better flow of information](../../assets/GoodInformationFlow.gif)
 Technical Note: To ensure visual consistency across applications, create a base                     form then set the properties in that form (application icon, menu structure, button                     names etc.) Add any logic in for switching pages with the "Next" and "Back"                     buttons. Then for all projects, add a reference to that one and inherit the customized                     form.
 
-In the forms in your application, instead of inheriting from **System.Windows.Forms.Form**                     (the Default), inherit from your new base form class.
+In the forms in your application, instead of inheriting from  **System.Windows.Forms.Form**                      (the Default), inherit from your new base form class.
 
 
 ```

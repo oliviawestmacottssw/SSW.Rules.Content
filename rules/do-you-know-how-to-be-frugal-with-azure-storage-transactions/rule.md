@@ -14,7 +14,7 @@ Every call to Windows Azure Blobs, Tables and Queues count as 1 transaction. Win
 
 If you are unaware of this, it can quickly add up and either burn through your free trial account, or even create a large unexpected bill.
 
-**Note:** Azure Storage Transactions do not count calls to SQL Azure.
+**Note:**  Azure Storage Transactions do not count calls to SQL Azure.
 
 ## Ensure that Diagnostics are Disabled for your web and worker roles
 

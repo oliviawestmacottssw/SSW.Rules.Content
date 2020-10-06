@@ -22,4 +22,4 @@ Microsoft Dynamics Marketing has four different user types. You can see a breakd
 
 
  
-**Note:** Since there is a Web Portal type, allowing viewing of the majority of the app, only 1 or 2 Regular or Media Buyer licences need to be bought for any small to medium business, as only kep people will actually be using the majority of the functionality.
+**Note:**  Since there is a Web Portal type, allowing viewing of the majority of the app, only 1 or 2 Regular or Media Buyer licences need to be bought for any small to medium business, as only kep people will actually be using the majority of the functionality.

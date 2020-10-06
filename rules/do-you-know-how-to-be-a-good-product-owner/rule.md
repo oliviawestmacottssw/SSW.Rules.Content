@@ -49,5 +49,5 @@ It’s possible to outsource the role of PO to someone in the development consul
 
 
 
-> **Adam Cogan** during Teched session.
+> **Adam Cogan**  during Teched session.
 > Professional Scrum Trainer, Scrum.org

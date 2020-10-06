@@ -15,7 +15,7 @@ authors:
 
 
 
-The actual Page Rank algorithm looks like this: **PR(A) = (1-d) + d (PR(T1)/C(T1) + … + PR(Tn)/C(Tn)).** Here PR = Page Rank, 'A' is defined as the number of links going out of page A, d is a constant damping factor and V is a page that links to our page.
+The actual Page Rank algorithm looks like this:  **PR(A) = (1-d) + d (PR(T1)/C(T1) + … + PR(Tn)/C(Tn)).**  Here PR = Page Rank, 'A' is defined as the number of links going out of page A, d is a constant damping factor and V is a page that links to our page.
 The basic premise that comes from this algorithm is:
 
 

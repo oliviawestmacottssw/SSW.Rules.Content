@@ -27,19 +27,19 @@ There are two ways to determine service availability, these are:
 
 You can use geolocation based on client IP to determine what services are available but this has a number of disadvantages.:
 
-- **Unpredictability** Geolocation based on IP is never perfect
+- **Unpredictability**  Geolocation based on IP is never perfect
  Geo-location lookup services are not perfect. here's an example: if you use the guest internet in the Microsoft offices, the internet thinks you are outside Australia (Singapore).  
  This approach won't detect services that have been blocked by a company firewall.
-- **Maintenance overhead** You need to maintain lists of locations and what services are available there - which may be subject to change (however not very often)
+- **Maintenance overhead**  You need to maintain lists of locations and what services are available there - which may be subject to change (however not very often)
  The list of services allowed/blocked by the "great firewall of china" is a moving target. things get blocked and unblocked all the time with little warning. we would have to keep coming back to the site to test. So there would be an overhead maintaining lists of countries and the services they allow.
-- **Extra dependency** - using IP address requires taking a dependency on an extra third-party service to perform the geo-location lookups.
+- **Extra dependency**  - using IP address requires taking a dependency on an extra third-party service to perform the geo-location lookups.
 
 
 For these reasons, dynamic service detection is recommended in preference to solutions based on geo-location.
 
 ### Option 2: Check Connectivity  
 
-**Universality** - China is not the only place that blocks stuff. there are other countries to consider. Also many corporate firewalls block stuff. actively detecting access to a service from the client handles all these scenarios at runtime with no prior configuration.
+**Universality**  - China is not the only place that blocks stuff. there are other countries to consider. Also many corporate firewalls block stuff. actively detecting access to a service from the client handles all these scenarios at runtime with no prior configuration.
 
 
 

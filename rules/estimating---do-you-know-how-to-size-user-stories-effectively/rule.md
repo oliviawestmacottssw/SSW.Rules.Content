@@ -39,7 +39,7 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 > 32 = XXL
 > 64 = XXXL
 > 
-> **Please note: **In some teams which only use Small, Medium and Large the following numbering is applyed respectively 2, 4 and 8.
+> **Please note:** In some teams which only use Small, Medium and Large the following numbering is applyed respectively 2, 4 and 8.
 
  
 [[badExample]]
@@ -64,7 +64,7 @@ Estimating using doubling numbers makes relative sizing simple. An 8 point PBI s
 
 It has one other advantage over the Fibonacci sequence, it is easier for non-techies because the numbers aren't whacky and the name isn't bizarre.
 
-**Estimate**
+**Estimate** 
 1
 2
 4
@@ -85,14 +85,14 @@ The action is done in the same method as the game 'Rock, Paper, Scissors'. The o
 ### Other Tips
 
 
-**#1 Don't Shout Out**
+**#1 Don't Shout Out** 
 It will just influence other people's votes.
 
-**#2 Guidelines for Estimating User Stories (aka Anchoring)**
+**#2 Guidelines for Estimating User Stories (aka Anchoring)** 
 Every team is different, but you can use the following guidelines for sizing User Stories.
 
 
-> | **Estimate Value** | **Example User Story** |
+> | **Estimate Value**  | **Example User Story**  |
 > | --- | --- |
 > | 1 | A change to a message box<br> |
 > | 2 | - |
@@ -100,7 +100,7 @@ Every team is different, but you can use the following guidelines for sizing Use
 > | 5 | A timeboxed task of 1 day x 2 guys |
 > | 8 | - |
 > | 13 | - |
-> | 21 | More than a month with a couple of guys.<br>**Tip:** Don't include these in a sprint because they are too risky - ask for them to be broken down. |
+> | 21 | More than a month with a couple of guys.<br> **Tip:** Don't include these in a sprint because they are too risky - ask for them to be broken down. |
 > 
 > Figure: Good example - Example User Story estimates
 
@@ -108,13 +108,13 @@ Every team is different, but you can use the following guidelines for sizing Use
 
 
 
-**#3 Using a Chat Program**
+**#3 Using a Chat Program** 
 If you are working on a project with a remote team, use Skype chat to size stories using Planning Poker.  Everyone should give their points for stories at the same time to avoid influencing each other.
 
-**#4 Big Stories Smell**
+**#4 Big Stories Smell** 
 PBIs of greater than 1 day are a smell and PBIs greater than 2 days are a stench. If User Stories are estimated at more than 1 or 2 days of work, consider splitting them into smaller pieces to keep them under 1 or 2 days.  See Do You Break Large Tasks into Smaller Tasks?
 
-**#5 Use Spikes**
+**#5 Use Spikes** 
 If you do find a very large User Story, consider using a Spike (aka. an investigation task) to help work out how much work will be involved.
 
 **#6 Small stories**

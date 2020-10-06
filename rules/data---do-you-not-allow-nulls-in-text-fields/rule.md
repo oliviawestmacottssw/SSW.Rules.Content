@@ -26,7 +26,7 @@ What about only allowing empty strings? Well, we choose to block Nulls because i
 ![Don't allow Nulls](SqlTableWithNullValue.PNG)
 However, you should always be aware that Nulls and empty strings are totally different, so if you absolutely have to have them, they should be used consistently. In the ANSI SQL-92 standard, an empty string ('') is never equated to Null, because empty string can be significant in certain applications.
 
-**Not allowing Nulls will give you the following benefits: **
+**Not allowing Nulls will give you the following benefits:**
 
 - Don't have to enforce every text field with a CHECK constraint such as ([ContactName]<>'').
 - Make your query simpler, avoid extra checking in stored procedures. So you don't have to check for NULLs and empty strings in your WHERE clause.

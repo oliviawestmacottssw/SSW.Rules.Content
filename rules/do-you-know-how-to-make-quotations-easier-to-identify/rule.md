@@ -27,7 +27,7 @@ You should always indent any quotes that you use on a new line.
 | ![It is obvious that this is a quote and it is laid out nicely.](good-example-adding-quotations.jpg)
 
 **
-Tip: **In Windows Live Writer there is a button for this:
+Tip:** In Windows Live Writer there is a button for this:
 
 
 ![Use the Quote button in Windows Live Writer](how-to-add-quote.jpg)

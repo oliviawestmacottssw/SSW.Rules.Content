@@ -26,8 +26,8 @@ In the course of business, you may occasionally provide some services or product
  A better approach is for the concreter to offer the discount AND book you in as a normal customer. He can give dedicated time and professional service and you get the job done with minimal delay. You can also provide excellent feedback and suggestions on the service he delivers, being both a friend and a customer. It is a much better outcome.
 2. **Feedback on service**    Often the people you choose to provide a freebie are the best people to provide feedback on your product or services. When you waive all your standard processes, they have no opportunity to review how you conduct your business. So if you're offering a freebie (or any discount), you should ensure every normal standard of business is followed (including sending $0 invoices!) and make sure you get valuable feedback to help you run your company better.
 
-**Sample email: **
-    **Hi Bob, **
+ **Sample email:**
+    **Hi Bob,** 
 
 Sure we would love to have you at our event for no charge. You may register just like a real client.           
 
@@ -38,6 +38,6 @@ It would be great if you could give us feedback on anything that could improve t
 Regards,
 Adam
     **
-Zero Invoices:** When entering timesheets for free work, set your rate to $0.
+Zero Invoices:**  When entering timesheets for free work, set your rate to $0.
 
 ![It is a good idea to set your rate to $0 and show it on the invoice](zero-timesheet.png)

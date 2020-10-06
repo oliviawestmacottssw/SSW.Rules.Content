@@ -18,4 +18,4 @@ System stored procedures are created and stored in the master database and have 
  
 Therefore, although the user-created stored procedure prefixed with sp\_ may exist in the current database, the master database is always checked first, even if the stored procedure is qualified with the database name.
 
-**Important:** If any user-created stored procedure has the same name as a system stored procedure, the user-created stored procedure will never be executed.
+**Important:**  If any user-created stored procedure has the same name as a system stored procedure, the user-created stored procedure will never be executed.

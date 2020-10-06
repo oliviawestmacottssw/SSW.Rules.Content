@@ -17,7 +17,7 @@ When you go to meetings to attract business, you always walk in knowing what the
 
 We use an inbound calls script. Having an inbound script does a couple of great things for you. It allows you to control the flow of the conversation, it also makes sure that you're asking them the right questions, and most importantly, you know when to listen and take notes. When someone calls always have an email open to jot down notes as well as a solid set of probing questions ready to ask the prospect.
  
-If the call is regarding **consulting** these are the kinds of questions we ask: 
+If the call is regarding  **consulting**  these are the kinds of questions we ask: 
 
 
 
@@ -42,7 +42,7 @@ If the call is regarding **consulting** these are the kinds of questions we as
 
 
 
-If the call is regarding **events** these are the kinds of questions we ask:
+If the call is regarding  **events**  these are the kinds of questions we ask:
 
 1. Which event are you interested in? The User Group, Tech Breakfast or Conference?
 2. Would you like me to register your attendance for the event?

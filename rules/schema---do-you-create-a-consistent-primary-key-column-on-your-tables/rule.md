@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Make sure you created a consistent primary key column named **Id** on your tables.
+Make sure you created a consistent primary key column named  **Id**  on your tables.
  
 Employee.ID, Employee.EmployeeId, Employee.EmployeeID, Employee.Employee\_Code, Employee.Employee
 Figure: Bad Example

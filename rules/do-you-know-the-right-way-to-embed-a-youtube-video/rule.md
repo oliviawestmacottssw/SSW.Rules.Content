@@ -27,7 +27,7 @@ All you have to do is, whenever you need to embed a video to a page, add the bel
 
 Figure: Good example – The good HTML code
 
-**Note: **This script needs to be added at the end of the document:
+**Note:** This script needs to be added at the end of the document:
 
 <br>/\* Light YouTube Embeds by @labnol \*/<br>/\* Web: http://labnol.org/?p=27941 \*/<br>document.addEventListener("DOMContentLoaded",<br>function() {<br>var div, n,<br>v = document.getElementsByClassName("youtube-player");<br>for (n = 0; n < v.length; n++) {<br>div = document.createElement("div");<br>div.setAttribute("data-id", v[n].dataset.id);<br>div.innerHTML = labnolThumb(v[n].dataset.id);<br>div.onclick = labnolIframe;<br>v[n].appendChild(div);<br>}<br>});<br>function labnolThumb(id) {<br>var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',<br>play = '<div class="play"></div>';<br>return thumb.replace("ID", id) + play;<br>}<br>function labnolIframe() {<br>var iframe = document.createElement("iframe");<br>var embed = "https://www.youtube.com/embed/ID?autoplay=1";<br>iframe.setAttribute("src", embed.replace("ID", this.dataset.id));<br>iframe.setAttribute("frameborder", "0");<br>iframe.setAttribute("allowfullscreen", "1");<br>this.parentNode.replaceChild(iframe, this);<br>}<br>
 

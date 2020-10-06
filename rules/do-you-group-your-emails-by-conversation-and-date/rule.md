@@ -24,4 +24,4 @@ Follow these steps to group by conversation:
 ![Steps to group by conversation field](GroupByConversationAndDate3.gif)
 4. Select the "Conversation" field from the list.  (Leave empty the remaining groups)
 
-**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
+ **VIDEO**  - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)

@@ -16,7 +16,7 @@ Installing Visual Studio is not enough.... There is another 2 hours plus of down
 Install VS 2015 + the Xamarin extension:  https://msdn.microsoft.com/en-us/library/mt613162.aspx
  
 ![You need "C#/.NET](xamarin-1.png)(Xamarin v4.1.0)
-**Note:** Xamarin Studio doesn't exist on the PC anymore.
+**Note:**  Xamarin Studio doesn't exist on the PC anymore.
 
 ### Step 2 - Android SDK Manager (about 2 hours)
 

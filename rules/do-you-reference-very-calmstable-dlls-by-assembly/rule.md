@@ -12,7 +12,7 @@ authors:
 ---
 
 <br>If we lived in a happy world with no bugs, I would be recommending this approach of using shared components from source safe. As per the prior rule, you can see we like to reference "most" .dlls by project. 
-<br>However if you do choose to reference a .dll without the source, then the important thing is that if the .dll gets updated by another developer, then there is **\*nothing\*** to do for all other developers ?they get the last version when they do your next build. Therefore you need to follow this: <br> 
+<br>However if you do choose to reference a .dll without the source, then the important thing is that if the .dll gets updated by another developer, then there is  **\*nothing\***  to do for all other developers ?they get the last version when they do your next build. Therefore you need to follow this: <br> 
 As the component user, there are six steps, but you only need to do them once:
 
 1. First, we need to get the folder and add it to our project, so in SourceSafe, right click your project and create a subfolder using the Create Project (yes, it is very silly name) menu. 

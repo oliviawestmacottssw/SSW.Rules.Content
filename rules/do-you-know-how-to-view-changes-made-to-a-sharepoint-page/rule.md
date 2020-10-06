@@ -13,12 +13,12 @@ authors:
 
 If you find a     mistake or typo you should look and see who is the culprit before fixing it. This way you can inform the person what was done.
 
-Here is how you see the     **history** of the page:
+Here is how you see the      **history**  of the page:
 
 ![Click on Page | Page History](Screen Shot 2018-09-28 at 3.34.38 PM-min.png)
 ![See the changes made, versions and the person who changed it](sharepoint-page-history.png)
 
-Here is how you see the **history** on Office 365 - SharePoint Online:
+Here is how you see the  **history**  on Office 365 - SharePoint Online:
 
 ![Click on Show actions | Version History](Snipaste_2018-10-08_13-21-05.jpg)
 

@@ -15,7 +15,7 @@ When you delete a snapshot you can no longer restore the virtual machine to the 
 
 Set yourself a calendar reminder 3 weeks after you make a snapshot so you remember to apply the snapshot to the Virtual Machine (assuming you are happy with the virtual machine after the snapshot).
 
-1. In the **Hyper-V Manager**, click on the virtual machine you want to apply the snapshot to
-2. In the **Snapshots **window, right click on the snapshot you wish to apply and click **Delete Snapshot…**
+1. In the  **Hyper-V Manager** , click on the virtual machine you want to apply the snapshot to
+2. In the  **Snapshots** window, right click on the snapshot you wish to apply and click  **Delete Snapshot…**
 3. Confirm the snapshot deletion.
 4. Wait for the merge process to complete (this may take a while if you have had the snapshot running for a long time and it has grown large in size).
