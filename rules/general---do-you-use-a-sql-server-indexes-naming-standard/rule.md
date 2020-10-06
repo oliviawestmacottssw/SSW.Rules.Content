@@ -21,7 +21,7 @@ Index names are to have this syntax:
 [1] All indexes must have a corresponding prefix.
 
 
-|  **Prefix** <br> |  **Type** <br> |
+| **Prefix** <br> |  **Type** <br> |
 | --- | --- |
 | pkc\_<br> | Primary Key, Clustered<br> |
 | pknc\_<br> | Primary Key, Non Clustered<br> |

@@ -15,7 +15,7 @@ All feedback is welcome. Thanks to all who gave feedback. A special thanks to An
 
 
 
-|  **Object** <br> |  **Prefix** <br> |  **Example** <br> |
+| **Object** <br> |  **Prefix** <br> |  **Example** <br> |
 | --- | --- | --- |
 | Table<br> | --<br> | Clients<br> |
 | Column (PK)<br> | --<br> | Id<br> |

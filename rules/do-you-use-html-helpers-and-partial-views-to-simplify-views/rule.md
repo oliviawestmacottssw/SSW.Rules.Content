@@ -12,9 +12,7 @@ authors:
 Repeated sections of User Interface should be encapsulated in either Html Helpers or Partial Views to avoid repetition.
  
 [[greyBox]]
-| 
-
-```
+| ```
 <div class="featured">
     @if (ViewData.ContainsKey("FeaturedProduct"))
     {
@@ -27,9 +25,7 @@ Repeated sections of User Interface should be encapsulated in either Html Helper
 
 Figure: Bad Example – The above code could be encapsulated into a Partial View for reuse
 [[greyBox]]
-| 
-
-```
+| ```
 public static class DateExtensions
 {
     public static MvcHtmlString GetTodayDate(this System.Web.Mvc.HtmlHelper helper)
@@ -43,9 +39,7 @@ public static class DateExtensions
 
 Figure: Good Example – Using an HTML Helper extension method for reusable code
 [[greyBox]]
-| 
-
-```
+| ```
 @Html.Partial("_FeaturedProduct")
 ```
 

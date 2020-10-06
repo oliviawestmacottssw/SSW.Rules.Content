@@ -42,14 +42,14 @@ Here is the summary of the outage plan:
 | **Risk (see table below):**  | LOW RISK (LOW Probability and MEDIUM Impact) |
 | **Reason For Change:**  | Windows 2016 Windows Updates<br> |
 | **Uptime over last month:**  | 91.361% |
-|  | <br> |
+| | <br> |
 | **Planned Outage (mins):**  | 150 |
 | **Planned Start Time:**  | 26 October 9:00 PM |
 | **Planned Finish Time:**  | 26 October 11:30 PM<br> |
-|  |  |
+| |  |
 | **Affected Services:**  | \\Windows Server 2016<br> |
-|  | http://sharepoint.ssw.com.au<br>http://intranet.ssw.com.au<br>http://projects.ssw.com.au |
-|  | <br> |
+| | http://sharepoint.ssw.com.au<br>http://intranet.ssw.com.au<br>http://projects.ssw.com.au |
+| | <br> |
 
 
 **Risk Lookup Table by Probability and Impact:** 
@@ -57,7 +57,7 @@ Here is the summary of the outage plan:
 
 | **Risk**  |
 | --- |
-|  | **Probability** |
+| | **Probability** |
 | **Low** | **Medium** | **High** | **Unknown** |
 | **Impact** | **Low** | Low risk | Low Risk | Low Risk | Medium Risk |
 | **Medium** | Low Risk | Medium Risk | Medium Risk | High Risk |

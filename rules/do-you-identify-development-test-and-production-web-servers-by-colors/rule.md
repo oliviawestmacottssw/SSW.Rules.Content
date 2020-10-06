@@ -61,9 +61,7 @@ background-color : #bbffaa;
 Edit, **\****\_common\styles\global.css.aspx**
 
 [[greyBox]]
-| 
-
-```
+| ```
 body.stage
             {
                 <% if (CrmStyles.IsRightToLeft) { %>

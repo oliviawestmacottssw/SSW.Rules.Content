@@ -29,12 +29,12 @@ authors: []
     - You can deploy your app without going through the appstore/market place. E.g. my<br>                    SSW business app
 
 
-|                             Appstore:<br>                         |                             No<br>                         |
+| Appstore:<br>                         |                             No<br>                         |
 | --- | --- |
-|                             Market place:<br>                         |                             Yes<br>                         |
+| Market place:<br>                         |                             Yes<br>                         |
     - Turn around through the appstore is quicker:<br>                
 
-|                             Appstore:<br>                         |                             1-3 weeks<br>                         |
+| Appstore:<br>                         |                             1-3 weeks<br>                         |
 | --- | --- |
-|                             Market place:<br>                         |                             2 days (Quicker since it is managed code. Unmanaged code is easy to spot)<br>                         |
+| Market place:<br>                         |                             2 days (Quicker since it is managed code. Unmanaged code is easy to spot)<br>                         |
     - App store is blocking applications MS won't.<br>

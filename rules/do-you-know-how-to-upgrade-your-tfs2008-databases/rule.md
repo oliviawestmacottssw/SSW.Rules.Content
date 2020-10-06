@@ -87,6 +87,5 @@ BTW: A good user interface should have a coffee image
 
 
 
-| 
-![](redbull.jpg) | Since you have to deal with your system admins, this job will take the longest. Speed it up by buying a Red Bull for your system admin |
+| ![](redbull.jpg) | Since you have to deal with your system admins, this job will take the longest. Speed it up by buying a Red Bull for your system admin |
 | --- | --- |

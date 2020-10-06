@@ -24,7 +24,7 @@ If there's anything to be learned from spammers, they know how to get your atten
 Never leave the subject blank! It's like writing a book and failing to give it a name!
 
 
-|  Bad Subject Examples<br> |  Good Subject Examples<br> |
+| Bad Subject Examples<br> |  Good Subject Examples<br> |
 | --- | --- |
 | Database | Northwind - Future - Meeting to get your software solution rolling, next Monday 2PM<br> |
 | Dinner | Dinner Tonight, 6.30PM at The Oaks |

@@ -31,8 +31,7 @@ Also, make sure your descriptions are detailed and useful as that can make findi
 Make sure you always explain and give as many details as you can of how you got an error or a bad experience.
 
 [[greyBox]]
-| 
-Hi, Rebecca, 
+| Hi, Rebecca, 
 
 Where is SSW TV on the navigation?
 
@@ -40,8 +39,7 @@ Where is SSW TV on the navigation?
 
 Figure: Bad example - Lack of details
 [[greyBox]]
-| 
-Hi, Rebecca,
+| Hi, Rebecca,
 
 1. Navigated to ssw.com.au
 2. Scrolling down looking for a big graphic like "CHECK OUT SSW TV! CLICK HERE!"

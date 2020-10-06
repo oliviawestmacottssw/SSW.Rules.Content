@@ -18,8 +18,8 @@ Do you like apples? Yes No Cannot say
 
 | Do you like apples? |  | Yes |
 | --- | --- | --- |
-|  |   | No |
-|  |  | Cannot say |
+| |   | No |
+| |  | Cannot say |
 3. **Text on the Right**    The Option Group or Check Box should always be on the left, with the text following on the right. Once again, this makes it easy for the User to work out what is going on.
 
 [[goodExample]]

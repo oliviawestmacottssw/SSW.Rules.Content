@@ -30,8 +30,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 
 | Pros | Cons |
 | --- | --- |
-| 
-![](correct.gif "clip_image002[8]")Read/Write<br><br>
+| ![](correct.gif "clip_image002[8]")Read/Write<br><br>
 ![](correct.gif "clip_image002[9]")Minimal coding<br><br>
 ![](correct.gif "clip_image002[10]")Easiest to implement<br><br>
 ![](correct.gif "clip_image002[11]")The likely way forward (Best Practice as Microsoft) | 
@@ -56,8 +55,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 
 | Pros | Cons |
 | --- | --- |
-| 
-![](correct.gif "clip_image002[2]")Best performance<br><br>
+| ![](correct.gif "clip_image002[2]")Best performance<br><br>
 ![](correct.gif "clip_image002[2]")Codeless | 
 ![](wrong.gif "clip_image004")Read-only<br><br>
 ![](wrong.gif "clip_image004[1]")Not available for hosted CRM<br><br>
@@ -76,8 +74,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 
 | Pros | Cons |
 | --- | --- |
-| 
-![](correct.gif "clip_image002[3]")Read/Write | 
+| ![](correct.gif "clip_image002[3]")Read/Write | 
 ![](wrong.gif "clip_image004[3]")Needs lots of code and test work.<br><br>
 ![](wrong.gif "clip_image004[4]")Needs to be deployed and published to the web server.<br><br>
 ![](wrong.gif "clip_image004[5]")Less performance than SQL filter views directly #1 |
@@ -95,8 +92,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 
 | Pros | Cons |
 | --- | --- |
-| 
-![](correct.gif "clip_image002[4]")Easy configuration | 
+| ![](correct.gif "clip_image002[4]")Easy configuration | 
 ![](wrong.gif "clip_image004[6]")50 records limit. Need to page through the results.<br><br>
 ![](wrong.gif "clip_image004[7]")Possible issues with firewalls and proxies because it uses Integrated Security for authentication.<br><br>
 ![](wrong.gif "clip_image004[8]")Read-Only<br><br>
@@ -135,8 +131,7 @@ Summary: SharePoint RSS view web part -> OData- > CRM database
 
 | Pros | Cons |
 | --- | --- |
-| 
-![](correct.gif "clip_image002[5]")Read/Write<br><br>
+| ![](correct.gif "clip_image002[5]")Read/Write<br><br>
 ![](correct.gif "clip_image002[6]")The BizTalk data centre can also provide data for any system.<br><br>
 ![](correct.gif "clip_image002[7]")Requires little code if users already have BizTalk | 
 ![](wrong.gif "clip_image004[10]")BizTalk :-)<br><br>

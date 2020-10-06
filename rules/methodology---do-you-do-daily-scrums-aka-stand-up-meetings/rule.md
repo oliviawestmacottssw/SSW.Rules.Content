@@ -32,8 +32,7 @@ Figure: Watch a Daily Scrum at Microsoft (short)
  Figure: Watch a Daily Scrum at Microsoft (long)
 
 [[greyBox]]
-| 
-"Great video guys. Remember, it is ok to change Scrum, actually, it is necessary for success. Just adhere to the values of Scrum. "
+| "Great video guys. Remember, it is ok to change Scrum, actually, it is necessary for success. Just adhere to the values of Scrum. "
 
 Stephen Forte (Board member ScrumAlliance.com)
 
@@ -127,8 +126,7 @@ Once you have completed your stand up, add “S” to your timesheet as per     
 Use Teams or Skype to bridge gaps in geography.
 
 [[greyBox]]
-| 
-Focus on the Flow
+| Focus on the Flow
 
 "Extend this rule to focus on 'flow of value', not just people. In a continuous flow mindset, the daily standup is less about the people..... it's about flow. The team faces the scrum board and goes ticket by ticket for all the items in the 'work in progress', finding out what is needed to get it to the next stage.. respecting work in progress constraints."
 

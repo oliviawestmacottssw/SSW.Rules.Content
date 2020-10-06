@@ -16,9 +16,7 @@ If web.config contains a &lt;httpHandlers&gt; or &lt;httpModules&gt; section, th
 This basically forces developers to explicitly enable inheritance in nested virtual directories. In 99% of cases this developers won't use inheritance on these two sections, however it causes issues when somebody wants to add a module or handler to the parent virtual directory.
  
 [[greyBox]]
-| 
-
-```
+| ```
 <configuration>
    <system.web>
       <httpHandlers>
@@ -36,9 +34,7 @@ This basically forces developers to explicitly enable inheritance in nested virt
 
 Figure: Bad example
 [[greyBox]]
-| 
-
-```
+| ```
 <configuration>
    <system.web>
       <httpHandlers>

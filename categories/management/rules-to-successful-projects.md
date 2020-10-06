@@ -82,8 +82,7 @@ index:
 ![](../../assets/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx) 
 
 
-| 
-![](../../assets/Testimonials_LeftQuote.gif) | I've been putting together Development Guidelines for my employer and in the process have reviewed many published standards (in the .NET arena) from around the world. In each category, the suggestions at SSW are always among the best. | 
+| ![](../../assets/Testimonials_LeftQuote.gif) | I've been putting together Development Guidelines for my employer and in the process have reviewed many published standards (in the .NET arena) from around the world. In each category, the suggestions at SSW are always among the best. | 
 ![](../../assets/Testimonials_RightQuote.gif) |
 | --- | --- | --- |
 

@@ -47,9 +47,9 @@ The Team will do its best to deliver this set of features (Scope), to a defined 
 
 | **ID** | **Title** | **State** | **Effort** |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  | < generate this table as per the instruction on the rule below > |  |  |
-|  |  |  |  |
+| |  |  |  |
+| | < generate this table as per the instruction on the rule below > |  |  |
+| |  |  |  |
 
 
 **Figure: The sprint backlog**

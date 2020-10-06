@@ -12,7 +12,7 @@ When asking for an opinion do you give people the option of having no opinion at
 
 | Do you like apples? |   | Yes |
 | --- | --- | --- |
-|   |   | No |
+| |   | No |
 
 
 Maybe they only like cooked apples not raw ones. When asking any question in which "Don't know." or "Don't care." is a valid response, always include an option to opt out of answering.
@@ -22,5 +22,5 @@ Additionally, when the user don't answer the question at all, the response you w
 
 | Do you like apples? |   | Yes |
 | --- | --- | --- |
-|  |   | No |
-|  |   | Cannot say |
+| |   | No |
+| |   | Cannot say |

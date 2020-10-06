@@ -32,8 +32,7 @@ Create a combo-box that has a custom template. Use a code bellow as an example:
 
 
 
-|
- ${data.DisplayText} |
+| ${data.DisplayText} |
  ${data.UsedCount} |
  ${data.LastUsedText} |
 | --- | --- | --- |

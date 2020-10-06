@@ -17,8 +17,7 @@ These are the steps you should take when request a "test please" :
 2. Stop working on the project until you receive either a "pass" or "fail" email
 3. Create your "test please" following this template: (refer to Windows Forms or Email templates below)
 [[greyBox]]
-| 
-**Subject: Test Please - Product Name v1.11**
+| **Subject: Test Please - Product Name v1.11**
 
 Dear [XXX],
 
@@ -69,8 +68,7 @@ Thanks, [XXX]
 
 
 [[greyBox]]
-| 
-**Subject: Product Name v1.11**
+| **Subject: Product Name v1.11**
 
 Test please
 

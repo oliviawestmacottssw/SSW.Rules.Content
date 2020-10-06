@@ -15,7 +15,7 @@ We do this by including deployment batch files in the solution, and specifying t
 [[goodExample]]
 | ![Include deployment scripts in the solution, and execute them from the Build Process Template](deployment-scripts.jpg)
 
-|  | Bad Example - Using Builds to Deploy | Good Example - Using Batch File |
+| | Bad Example - Using Builds to Deploy | Good Example - Using Batch File |
 | --- | --- | --- |
 | Deployment Overview | <ol><li>A separate build is created per target environment</li><li>The MS Deploy parameters are put into the MSBuild parameters setting on the process template</li><li>The build for the shared development server is set to be a CI build so it is executed on every check-in</li></ol> | <ol><li>One batch file per target environment is created and checked into source control alongside the web project</li><li>Each batch file is accompanied by a corresponding Web Deploy Parameterisation XML file with environment specific settings</li><li>The build process template is modified to call the batch file to continuously deploy to the shared development server</li></ol> |
 | --- | --- | --- |

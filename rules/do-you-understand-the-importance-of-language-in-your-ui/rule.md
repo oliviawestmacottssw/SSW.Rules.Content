@@ -9,7 +9,7 @@ authors: []
 
 The tone of your application speaks volumes about how users view it. Read this [Google documentation on the voice of Android](http&#58;//developer.android.com/design/patterns/help.html). 
 
-|  | Bad Example | Good Example |
+| | Bad Example | Good Example |
 | --- | --- | --- |
 | Keep text as short as possible. Avoid wordy, stilted text. | Consult the documentation that came with your phone for further instructions. | Read the instructions that came with your phone |
 | Describe only what the user needs to know and don't provide unnecessary information. | Your phone needs to communicate with Google servers to sign in to your account. This may take up to five minutes. | Your phone is contacting Google. This can take up to 5 minutes. |

@@ -70,8 +70,7 @@ Please cc the client in all your "Test Please" emails including internal ones.
 
 
 [[greyBox]]
-| 
-**Subject:**  RE: Test Please - \\Public Folders\All Public Folders\SSWeXtremeEmailsDatabase\SSWCodeAuditor\Release09
+| **Subject:**  RE: Test Please - \\Public Folders\All Public Folders\SSWeXtremeEmailsDatabase\SSWCodeAuditor\Release09
 
 Gary,
 

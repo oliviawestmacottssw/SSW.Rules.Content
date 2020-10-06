@@ -13,7 +13,7 @@ authors:
 
 
 
-|  **Field**  |  **SQL Server Field Properties**  |
+| **Field**  |  **SQL Server Field Properties**  |
 | --- | --- |
 | CreatedUtc | datetime2 Allow Nulls=False Default=GETUTCDATE() |
 | CreatedUserId | Foreign Key to Users table, Allow Nulls=False |

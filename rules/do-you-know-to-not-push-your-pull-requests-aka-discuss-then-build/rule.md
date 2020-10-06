@@ -28,8 +28,7 @@ A contributor has a great idea for a feature, or identifies an area where they c
 Their contribution might solve their problem, but after it has been accepted it will most likely be left for the core contributors to maintain.
 
 [[greyBox]]
-| 
-**# Poor Communication Contribution**
+| **# Poor Communication Contribution**
 
 - developer has good idea for project
 - bashes away and writes 600 lines of code
@@ -42,8 +41,7 @@ she makes a push back comment
 
 Figure: Bad Example - Poor early communication can lead to mis-directed work and pull requests not being accepted
 [[greyBox]]
-| 
-**# Good Communication Contribution**
+| **# Good Communication Contribution**
 
 - developer (PR Author) has good idea for project
 - reviews the list of outstanding issues for the project and confirms that someone hasn't already had the same idea and started a discussion on it

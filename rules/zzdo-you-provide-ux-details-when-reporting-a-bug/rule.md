@@ -16,8 +16,7 @@ Make sure you always explain and give as much details as you can of how you got 
 | Where is TV.SSW on the navigation? 
 Figure: Bad example - Lack of details
 [[greyBox]]
-| 
-1. Navigated to ssw.com.au
+| 1. Navigated to ssw.com.au
 2. Scrolling down looking for a big graphic like "CHECK OUT SSW TV! CLICK HERE!"
 (Nothing)
 Me, thinking… "Hmm… let's try the menu at the top..."
