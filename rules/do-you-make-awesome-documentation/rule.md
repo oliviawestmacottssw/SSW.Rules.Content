@@ -187,7 +187,8 @@ Similar to Level 6 except no setup document but a business document that details
 
 ### Level 3+: The rest of the jigsaw
 
-
+[[greyBox]]
+| 
 **Scrum Tip: Update your Acceptance Criteria** - If you use a policy that requires commits to be linked to PBIs, then you understand that the PBI is now the documentation. If requirements change (based on a conversation with Product Owner of course) then the PBI should be updated.
 
 When updating the Acceptance Criteria, strike through the altered Acceptance Criteria and add the new ones. Get the PO to confirm your understanding.

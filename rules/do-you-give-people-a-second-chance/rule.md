@@ -9,6 +9,8 @@ authors:
 
 ---
 
+[[greyBox]]
+| <br>                    
 "A great man shows his greatness," said Carlyle, "by the way he treats little men". Bob Hoover, a famous test pilot and frequent performer at air shows, was returning to his home in Los Angeles from an air show in San Diego. As described in the magazine *Flight Operations*, at three hundred feet in the air, both engines suddenly stopped. By deft manoeuvring he managed to land the plane, but it was badly damaged although nobody was hurt.
 
 Hoover's first act after the emergency landing was to inspect the airplane's fuel. Just as he suspected, the World War II propeller plane he had been flying had been fuelled with jet fuel rather than gasoline.

@@ -15,6 +15,8 @@ authors:
 Figure: Watch the URL working as a navigation aid
 MVC gives us great URLs, but you need to help users navigate via the URL.  If the user changes a URL, and the route parameters no longer match, you should correct them with a redirect.
  
+[[greyBox]]
+| 
 
 ```
 public ActionResult Edit(string employeename, int id)
@@ -31,6 +33,7 @@ public ActionResult Edit(string employeename, int id)
     return View(model);
 }
 ```
+
 
 Figure: Good example - the comment says it all  Wordpress and Stack Overflow have URL formats that do this very well:
 

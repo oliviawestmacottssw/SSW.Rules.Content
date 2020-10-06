@@ -11,6 +11,8 @@ authors:
 
 Adding code to the Application\_Start method in the Global.asax file is the easiest and most straight-forward approach for executing startup logic, however, this code should be encapsulated in static methods outside the Global.asax file. Doing this helps provide cleaner code and encourages proper adherence to the Single Responsibility principle.
  
+[[greyBox]]
+| 
 
 ```
 public class MvcApplication : System.Web.HttpApplication
@@ -29,7 +31,10 @@ public class MvcApplication : System.Web.HttpApplication
 }
 ```
 
+
 Figure: Bad Example – Logic is implemented in the Application\_Start method which breaks the Single Responsibility Principle
+[[greyBox]]
+| 
 
 ```
 public class MvcApplication : System.Web.HttpApplication
@@ -46,6 +51,7 @@ public class MvcApplication : System.Web.HttpApplication
     }
 }
 ```
+
 
 
 

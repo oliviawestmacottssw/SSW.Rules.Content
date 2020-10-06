@@ -46,7 +46,8 @@ SqlConnection sqlConn = new SqlConnection(Common.Properties.Settings.Default.Nor
 ```
 
 Good example - access our connection string by strongly typed generated settings class. 
-
+[[greyBox]]
+| <br>
 Please note these steps does not work for web site model in Visual Studio 2005. However, they work for other projects such as Windows Form, Console application, Class Library and Web Application Project.
 
 This is not an issue in a well designed website, since it's connection string will be defined in the **data layer** and you can overwrite this connection string in your web.config.

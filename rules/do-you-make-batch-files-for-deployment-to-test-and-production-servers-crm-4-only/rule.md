@@ -21,6 +21,8 @@ How should developers work?
 
 Create a Deployment.bat like this
 
+[[greyBox]]
+| 
 
 ```
 REM (deploy the callouts - Part 1)
@@ -41,6 +43,7 @@ REM (deploy the callouts - Part 1)
             REM (avoid server side validation logic in v3)
             REM  Deploy a 1.1 web service
 ```
+
 
 
 Deploy to Test Server

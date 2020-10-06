@@ -17,7 +17,8 @@ A Favicon is a small image file included on nearly all professional developed si
  
 Let's see how it's done for SharePoint:
 
-
+[[greyBox]]
+| <br>   
 &lt;head runat="server"&gt;        
      &lt;meta name="GENERATOR" content="Microsoft SharePoint"&gt;        
      &lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8"&gt;         

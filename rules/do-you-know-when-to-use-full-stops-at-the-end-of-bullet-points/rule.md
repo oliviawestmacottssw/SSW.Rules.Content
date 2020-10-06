@@ -9,7 +9,8 @@ authors: []
 
 There are two types of bullet list. The first type of bullet list is the  most common, where each bullet point is a sentence fragment that will  form a complete sentence if read together with the introductory line.  For this type, place full stop at the end of the last point. For  example:
  
-
+[[greyBox]]
+| 
 UI may refer to:
 
 - User interface
@@ -19,7 +20,8 @@ UI may refer to:
 
 The second type is when each bullet point is a full sentence. It features a capital letter at the start and a full stop at the end of each bullet point. For example:
 
-
+[[greyBox]]
+| 
 User Interface Fundamentals:
 
 - Your design should make simple, common tasks simple to do, communicating clearly and simply in the user's own language, and providing good shortcuts that are meaningfully related to longer procedures.

@@ -26,13 +26,15 @@ ROI (Return on Investment) is an unbelievably simply calculation.
 
 ![Product Owners should be estimating the Business Value](business-value-field.jpg)
 
- ROI = Business Value / Effort 
+[[greyBox]]
+|  ROI = Business Value / Effort 
 
 ...of course there are other factors to consider.
 
 E.g. Risk, Dependencies etc and you could make the formula more complicated....
 
- Priority = (Positive Value - Negative Value) + Risk + Dependencies / Effort 
+[[greyBox]]
+|  Priority = (Positive Value - Negative Value) + Risk + Dependencies / Effort 
 
 ...but don't bother.
 

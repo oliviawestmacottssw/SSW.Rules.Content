@@ -69,7 +69,8 @@ Please cc the client in all your "Test Please" emails including internal ones.
 10. When finished reply to the 'test please' email with "Test Please Succeeded (as no Critical bugs)" or "Test please failed (as per critical bugs reported)".
 
 
-
+[[greyBox]]
+| 
 **Subject:** RE: Test Please - \\Public Folders\All Public Folders\SSWeXtremeEmailsDatabase\SSWCodeAuditor\Release09
 
 Gary,

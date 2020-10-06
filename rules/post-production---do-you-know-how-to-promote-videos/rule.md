@@ -23,7 +23,8 @@ To ensure your videos gain maximum exposure, you need to promote them in various
     The second step is to email all the staff with the links to the posts you have made. You want to make it as easy as possible for them to be able to re-post the original messages. Use a tool like [http://clicktotweet.com/](http&#58;//clicktotweet.com/).
     Example email:
 
-
+[[greyBox]]
+| <br>
 Hi All,
 
 A new interview is now live on SSW TV. You can see it at [urls of video]
@@ -48,7 +49,8 @@ Cheers,
 
     Email template:
 
-
+[[greyBox]]
+| <br>
 **Hi John,**
 
 Thank you for taking part in this video. You can find it here: [url of video]

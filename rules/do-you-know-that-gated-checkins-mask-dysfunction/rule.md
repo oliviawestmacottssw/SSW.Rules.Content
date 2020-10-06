@@ -13,7 +13,8 @@ Gated checkins are used to stop developers from checking in bad code and breakin
 
 This does not contribute to high functioning teams, and instead masks, or even creates dysfunction.
 
-
+[[greyBox]]
+| <br>
 In the retro the team decides to turn gated checkins on because Jonny and Sue keep breaking the build.
 
 The build doesn’t get broken any more, because Jonny and Sue now have to fix their code before they check it in.
@@ -29,7 +30,8 @@ They resent Jonny and Sue for having to work this way.
 Gated Checkins mask the dysfunction on the team, and introduce impediments to the high performers.
 
 Bad Example – Gated Checkins mask dysfunction
-
+[[greyBox]]
+| <br>
 In the retro the team discusses the fact that the build is often broken.
  After a round table discussion about becoming better programmers and building better quality software, the team decides to the following guidelines:
 

@@ -27,7 +27,8 @@ A contributor has a great idea for a feature, or identifies an area where they c
 
 Their contribution might solve their problem, but after it has been accepted it will most likely be left for the core contributors to maintain.
 
-
+[[greyBox]]
+| 
 **# Poor Communication Contribution**
 
 - developer has good idea for project
@@ -40,7 +41,8 @@ she makes a push back comment
 
 
 Figure: Bad Example - Poor early communication can lead to mis-directed work and pull requests not being accepted
-
+[[greyBox]]
+| 
 **# Good Communication Contribution**
 
 - developer (PR Author) has good idea for project
@@ -51,7 +53,8 @@ Figure: Bad Example - Poor early communication can lead to mis-directed work and
 
 
 Figure; Good  Example - Good communication leads to collaboration and better outcomes for the author and the project 
-
+[[greyBox]]
+| <br>   
 **# Projects with Internal Teams**
 
 - Internal SSW team members should only work on features during work hours that have been assigned to a release by the core contributors for a project

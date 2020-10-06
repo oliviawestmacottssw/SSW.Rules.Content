@@ -20,7 +20,8 @@ Get your employees to enter [their timesheets daily](/Pages/when-to-enter-your-t
 
 A deadline for submitting timesheets (Friday 12pm). The entire company is rewarded with a free lunch, and only people who missed the deadline will miss out on it.
 
-
+[[greyBox]]
+| 
 Hi All,
 
 Everyone gets a free lunch today except for the following people:

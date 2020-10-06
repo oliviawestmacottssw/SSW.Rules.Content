@@ -21,7 +21,8 @@ You try and reproduce it on your version in the office and everything works perf
 
  You suspect that the customer probably has changed the schema. So you start drafting an email to the user like:
 
-Mary, I need you to send me your database schema as it might be different from what it should be. Can you:
+[[greyBox]]
+| Mary, I need you to send me your database schema as it might be different from what it should be. Can you:
 
 1. Open up Enterprise Manager in you are on SQL 2000 (or open SQL Management Studio if you are on SQL 2005, 2008 or 2010)
 2. Open the first tree
@@ -54,7 +55,8 @@ For more information see [Best Tools for SQL Server](http://www.ssw.com.au/ssw/S
 
 ![When weird errors are happening at a client, you need a "Reconcile" button in your application. This compares the current scripts, to the client's database and tells you if things are not right](Reconcile.jpg)
 ![First time your client opens the application, they will need to Creating a database. It should be as easy as clicking "Create"](NewDatabaseDialog.jpg)
-As a developer, I promise to do these 3 things:
+[[greyBox]]
+| As a developer, I promise to do these 3 things:
 1. Save every SQL change I do as a script
 2. Make sure the application I develop, has 3 buttons, "Create", "Update" and "Reconcile"
 3. Never ask a client to run a script

@@ -24,7 +24,8 @@ There are many options for managing secrets in a secure way:
 ### Bad Practices
 
 
-
+[[greyBox]]
+| 
 ### Store production passwords in source control protected with the <br>      [ASP.NET IIS Registration Tool](https&#58;//msdn.microsoft.com/en-us/library/zhhddkxy.aspx)
 
 Pros:
@@ -43,7 +44,8 @@ Cons:
 
 Figure: Bad practice - Overall rating: 2/10
     
-
+[[greyBox]]
+| 
 ### Use Windows Identity instead of username/ password.
 
 Pros:
@@ -62,7 +64,8 @@ Cons:
 
 
 Figure: Bad practice - Overall rating: 4/10   
-
+[[greyBox]]
+| 
 ### [Use External Configuration Files](https&#58;//docs.microsoft.com/en-us/aspnet/identity/overview/features-api/best-practices-for-deploying-passwords-and-other-sensitive-data-to-aspnet-and-azure)
 
 
@@ -84,7 +87,8 @@ Figure: Bad practice -  Overall rating: 1/10
 
 ### Good Practices
 
-
+[[greyBox]]
+| 
 ### Use Octopus/ VSTS RM secret management, with passwords sourced from KeePass
 
 
@@ -104,7 +108,8 @@ Figure: Good practice - Overall rating: 8/10
 
 
 
-
+[[greyBox]]
+| 
 ### Use Enterprise Secret Management Tool – LastPass/ Hashicorp Vault/ etc..
 
 Pros:
@@ -124,7 +129,8 @@ Cons:
 Figure: Good practice -  Overall rating: 8/10
 
 
-
+[[greyBox]]
+| 
 ### Use Azure KeyVault
 
 See the SSW Rewards mobile app repository for how SSW is using this in a production application:           [https://github.com/SSWConsulting/SSW.Rewards](https&#58;//github.com/SSWConsulting/SSW.Rewards)
