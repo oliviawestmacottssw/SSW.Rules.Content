@@ -28,12 +28,12 @@ The following story illustrates these values:
 
 [[greyBox]]
 | >**The Barber** (excerpt from "The E Myth" page 105)
->
->I went to a barber who, in our first meeting, gave me one of the best haircuts I had ever had. He was a master with the scissors and used them exclusively, never resorting to electric shears as so many others do. Before cutting my hair, he insisted on washing it, explaining that the washing made cutting easier. During the haircut, one of his assistants kept my cup of coffee fresh. In all, the experience was delightful, so I made an appointment to return.
->
->When I returned, however, everything had changed. Instead of using the scissors exclusively, he used the shears about 50 percent of the time. He not only didn't wash my hair but never even mentioned it. The assistant did bring me a cup of coffee, but only once, never to return. Nonetheless, the haircut was again excellent.
->
->Several weeks later, I returned for a third appointment. This time, the barber did wash my hair, but after cutting it, preliminary to a final trim. This time he again used the scissors exclusively, but, unlike the first two times, no coffee was served, although he did ask if I would like a glass of wine. At first, I thought it might be the assistant's day off, but she soon appeared, busily working with the inventory near the front of the shop.
+  >
+  >I went to a barber who, in our first meeting, gave me one of the best haircuts I had ever had. He was a master with the scissors and used them exclusively, never resorting to electric shears as so many others do. Before cutting my hair, he insisted on washing it, explaining that the washing made cutting easier. During the haircut, one of his assistants kept my cup of coffee fresh. In all, the experience was delightful, so I made an appointment to return.
+  >
+  >When I returned, however, everything had changed. Instead of using the scissors exclusively, he used the shears about 50 percent of the time. He not only didn't wash my hair but never even mentioned it. The assistant did bring me a cup of coffee, but only once, never to return. Nonetheless, the haircut was again excellent.
+  >
+  >Several weeks later, I returned for a third appointment. This time, the barber did wash my hair, but after cutting it, preliminary to a final trim. This time he again used the scissors exclusively, but, unlike the first two times, no coffee was served, although he did ask if I would like a glass of wine. At first, I thought it might be the assistant's day off, but she soon appeared, busily working with the inventory near the front of the shop.
 
 As I left, something in me decided not to go back. It certainly wasn't the haircut-he did an excellent job. It wasn't the barber. He was pleasant, affable, seemed to know his business. It was something more essential than that.
 
