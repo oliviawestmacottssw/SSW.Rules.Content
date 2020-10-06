@@ -27,15 +27,13 @@ At SSW we create standards for all manner of processes: from coding practices to
 The following story illustrates these values:
 
 [[greyBox]]
-| :::
-
-**The Barber** (excerpt from "The E Myth" page 105)
-
-I went to a barber who, in our first meeting, gave me one of the best haircuts I had ever had. He was a master with the scissors and used them exclusively, never resorting to electric shears as so many others do. Before cutting my hair, he insisted on washing it, explaining that the washing made cutting easier. During the haircut, one of his assistants kept my cup of coffee fresh. In all, the experience was delightful, so I made an appointment to return.
-
-When I returned, however, everything had changed. Instead of using the scissors exclusively, he used the shears about 50 percent of the time. He not only didn't wash my hair but never even mentioned it. The assistant did bring me a cup of coffee, but only once, never to return. Nonetheless, the haircut was again excellent.
-
-Several weeks later, I returned for a third appointment. This time, the barber did wash my hair, but after cutting it, preliminary to a final trim. This time he again used the scissors exclusively, but, unlike the first two times, no coffee was served, although he did ask if I would like a glass of wine. At first, I thought it might be the assistant's day off, but she soon appeared, busily working with the inventory near the front of the shop.
+| >**The Barber** (excerpt from "The E Myth" page 105)
+>
+>I went to a barber who, in our first meeting, gave me one of the best haircuts I had ever had. He was a master with the scissors and used them exclusively, never resorting to electric shears as so many others do. Before cutting my hair, he insisted on washing it, explaining that the washing made cutting easier. During the haircut, one of his assistants kept my cup of coffee fresh. In all, the experience was delightful, so I made an appointment to return.
+>
+>When I returned, however, everything had changed. Instead of using the scissors exclusively, he used the shears about 50 percent of the time. He not only didn't wash my hair but never even mentioned it. The assistant did bring me a cup of coffee, but only once, never to return. Nonetheless, the haircut was again excellent.
+>
+>Several weeks later, I returned for a third appointment. This time, the barber did wash my hair, but after cutting it, preliminary to a final trim. This time he again used the scissors exclusively, but, unlike the first two times, no coffee was served, although he did ask if I would like a glass of wine. At first, I thought it might be the assistant's day off, but she soon appeared, busily working with the inventory near the front of the shop.
 
 As I left, something in me decided not to go back. It certainly wasn't the haircut-he did an excellent job. It wasn't the barber. He was pleasant, affable, seemed to know his business. It was something more essential than that.
 
@@ -59,7 +57,6 @@ What the barber did was to give me a delightful experience and then take it away
 
 What you do in your model is not nearly as important as doing what you do the same way, each and every time.
 
-:::
  Figure: The Barber gave an inconsistent experience. Excerpt from "The E Myth" page 10 
 
 Standards don't need to come at the expense of creativity. Following standards means less time doing the administrative stuff and more time for the creative. Of course, standards are works in progress, and so we are always on the lookout for improvements. That's why standards should be shared with everyone.
