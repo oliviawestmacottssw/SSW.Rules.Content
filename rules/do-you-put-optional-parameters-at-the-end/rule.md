@@ -19,7 +19,7 @@ string firstName,
 string lastName, 
 [Optional] DateTime? birthDate)
 Figure: Bad Example - Username and Password are optional and first - they are less important than firstName and lastName and should be put at the end
-​
+
 
 public void SaveUserProfile(
 string firstName,

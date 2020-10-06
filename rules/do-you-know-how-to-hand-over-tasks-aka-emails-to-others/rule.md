@@ -14,7 +14,7 @@ authors:
 This rule is a variation of the popular rule [Do you send "As Per Our Conversation" emails?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f98fc6fe-0e5d-43fe-b560-0f5603ec7069)
 
 The most dangerous time in a task's life cycle is in a handover. This is the most likely time for a misunderstanding to occur leading to a task getting lost and not being completed.
-   Always make sure you clearly reallocate a task with an email to the person who will complete the task​ like the good example below: 
+   Always make sure you clearly reallocate a task with an email to the person who will complete the task like the good example below: 
  
 
 ```

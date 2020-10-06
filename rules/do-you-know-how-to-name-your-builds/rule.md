@@ -10,7 +10,7 @@ authors:
 ---
 
 You should always follow a naming standard when naming your builds. This helps you identify their purpose at a glance. 
-​
+
 
 The build name should have the following suffixes, depending on their purpose:
 
@@ -19,6 +19,4 @@ The build name should have the following suffixes, depending on their purpose:
 
 
 
-![](buildnames.png)
-
-Good Example: We have two continuous delivery​ builds to our staging environment.
+![We have two continuous delivery builds to our staging environment.](buildnames.png)

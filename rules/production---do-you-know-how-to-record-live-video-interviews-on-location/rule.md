@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-​​​​​​Recording live video interviews on location can be difficult. The key to success is to make the process as simple as possible, so you continue to record and release interviews.
+Recording live video interviews on location can be difficult. The key to success is to make the process as simple as possible, so you continue to record and release interviews.
  
 A good example of an effective but easy to record interview is:
 
@@ -24,7 +24,7 @@ Here are a few tips to simplify the process:
 1. The interviewer should hold the camera and interview the subject at the same time
 2. Keep a tight frame. Don’t have lots of empty space around the subject
 3. Use the rule of thirds. See:
-​
+
 
 `youtube: https://www.youtube.com/embed/iH3Z-3SeWiM`
  

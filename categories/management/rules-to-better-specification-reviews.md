@@ -14,9 +14,7 @@ index:
 - spec---do-you-use-user-stories-when-appropriate
 
 ---
-​​
+Specification reviews are the 1st step to properly engaging with a client and need to be done well.
 
-​​​Specification reviews are the 1st step to properly engaging with a client and need to be done well.
-
-The following are rules that will make sure you know how much to spec out up front, and how to do it.​​
+The following are rules that will make sure you know how much to spec out up front, and how to do it.
 

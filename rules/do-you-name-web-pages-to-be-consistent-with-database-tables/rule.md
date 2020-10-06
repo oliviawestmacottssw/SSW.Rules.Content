@@ -9,7 +9,7 @@ authors:
 
 ---
 
-In a database-driven page, it is important that the name of the page is based on the data that the page contains. For example, if a page shows client details and is based on the Client table, then the page should be called Client.aspx.​
+In a database-driven page, it is important that the name of the page is based on the data that the page contains. For example, if a page shows client details and is based on the Client table, then the page should be called Client.aspx.
 Other examples are: 
 
  

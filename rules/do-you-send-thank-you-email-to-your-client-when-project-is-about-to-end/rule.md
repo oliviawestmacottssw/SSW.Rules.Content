@@ -30,7 +30,7 @@ There are a number of reasons why this is important:
 - Show him that you will be supporting him after the project ends (not disappearing forever)
 
 
-Below is a template email you can use:​
+Below is a template email you can use:
 
 Hi &lt;ClientName&gt;, 
 

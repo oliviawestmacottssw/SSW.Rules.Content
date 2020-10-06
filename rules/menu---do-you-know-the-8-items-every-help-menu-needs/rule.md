@@ -19,9 +19,8 @@ A good help menu should have these 8 items in it:
 7. Run Unit Tests...
 8. About [Product Name]...
 
-   ​
+   
 [[badExample]]
-| ![ Bad Example - Example of a Help menu with only "About"](../../assets/BadExampleForHelpMenu.gif)
-
+| ![Example of a Help menu with only "About"](../../assets/BadExampleForHelpMenu.gif)
 [[goodExample]]
-| ![ Good Example - Example of a Help menu with all 8 items](../../assets/GoodExampleOfHelpMenu.gif)
+| ![Example of a Help menu with all 8 items](../../assets/GoodExampleOfHelpMenu.gif)

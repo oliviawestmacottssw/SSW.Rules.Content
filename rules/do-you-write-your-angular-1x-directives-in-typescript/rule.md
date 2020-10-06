@@ -13,13 +13,13 @@ authors:
 
 ---
 
-​​​​​​​​​​​​​​Angular 1.x directives are awesome and they help you reuse your code base by being able to drop directives (aka reuasable HTML elements) into several pages without having to duplicate your code base.​
-   ​
+Angular 1.x directives are awesome and they help you reuse your code base by being able to drop directives (aka reuasable HTML elements) into several pages without having to duplicate your code base.
+   
 
 
 Writing your AngularJS 1.x directives in Typescript will help in the following ways:
 
-1. ​You will more easily migrate to Angular2 which is written in TypeScript
+1. You will more easily migrate to Angular2 which is written in TypeScript
 2. Your code will be more robust with compile time checking avoiding errors you might miss or not see till you run the application in the browser.
 3. You can more easily manage your code by reusing directives and not duplicating code.
 4. If you keep your DDO (Directive Definition Object) seperate to your directive controller logic you can avoid using $scope and further be ready to migrate to Angular2. You can also reuse the directive controller with other parts of your application.
@@ -30,11 +30,11 @@ Writing your AngularJS 1.x directives in Typescript will help in the following
 
 Writing Angular 1.x directives in Typescript can be a challenge with only a few examples available online. Most examples of Angular 1.x directives are in JavaScript and converting them to TypeScript versions means you need to have a good understanding of how it all works. Many examples that are available online do it a little differently from each other. 
 
-### ​​HTML
+### HTML
 
-​​​&lt;current-value&gt;&lt;/current-value​&gt;
+&lt;current-value&gt;&lt;/current-value&gt;
 
-### ​Typescript
+### Typescript
 
 
 
@@ -56,7 +56,7 @@ module app.widgets {
                     this.currentValue = response.Data.TotalMarket;
                 });
         }
-    }​
+    }
 
     function CurrentValueDirective(): ng.IDirective {
         return {
@@ -74,8 +74,5 @@ module app.widgets {
     angular
         .module('app.widgets')
         .directive('currentValue', CurrentValueDirective);
-}​
+}
 ```
-
-
-​​

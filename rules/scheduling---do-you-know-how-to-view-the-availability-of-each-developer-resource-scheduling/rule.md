@@ -12,8 +12,8 @@ authors:
 As an Account Manager, you'll frequently be required to find a free resource to put onto a project.
 
 
-![](yelling-whos-free.jpg)​
- Figure: Bad Example - Constantly yelling out "who's free?" 
+[[badExample]]
+| ![Constantly yelling out "who's free?"](yelling-whos-free.jpg)
 
 Instead of going around and asking everyone “Who’s free next week?”, you should use the CRM Service Calendar.
 
@@ -30,6 +30,5 @@ All of the Appointments in the Service Calendar will also sync to the developers
 
 You have multiple options for ways to fill this data, which you can see in [Scheduling - Do you know how to book developers for a project?](/Pages/How-to-book-developers-for-a-project.aspx)
 
-![ The Service Calendar in CRM is showing that Drew is available but Mehmet is busy next week ](CRMServiceCalendar.jpg)  
-
+![The Service Calendar in CRM is showing that Drew is available but Mehmet is busy next week](CRMServiceCalendar.jpg)
 Suggestion to Microsoft: One limitation of CRM is that you cannot send a URL to this page to someone, so they will have to navigate to it themselves

@@ -22,4 +22,4 @@ Use one of these websites:
 5. [Glyphicons a.k.a Bootstrap icons](http&#58;//glyphicons.com/)
 
  
-Note: If you're on SSW network, you can find our collections here: ​[\\fileserver\DataSSW\Design\Cursors\_and\_Icons\Icons](file&#58;///DataSSW/Design/Cursors_and_Icons/Icons/)
+Note: If you're on SSW network, you can find our collections here: [\\fileserver\DataSSW\Design\Cursors\_and\_Icons\Icons](file&#58;///DataSSW/Design/Cursors_and_Icons/Icons/)

@@ -24,7 +24,6 @@ Some of SVG format advantages are:
 
  
 [[badExample]]
-| ![ Bad Example - this graphic is line art, but has mistakenly been saved as a JPEG. It loses resolution.](jpg_vs_svg_bad.jpg)
-
+| ![this graphic is line art, but has mistakenly been saved as a JPEG. It loses resolution.](jpg_vs_svg_bad.jpg)
 [[goodExample]]
-| ![ Good Example - the same graphic, saved as an SVG, no pixelation.](svg.jpg)
+| ![the same graphic, saved as an SVG, no pixelation.](svg.jpg)

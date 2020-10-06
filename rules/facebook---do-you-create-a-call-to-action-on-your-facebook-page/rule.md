@@ -28,7 +28,7 @@ Page admins can select from a group of call-to-action buttons:
 
 
  
-​​For services or apps, you should use the "Watch Video" one. Video is flooding the online marketplace and is quickly becoming a marketing standard to convey your message.​ ​If you don't have a video yet, visit <br>      [SSW's Video Services pages](http://www.ssw.com.au/ssw/Consulting/Video-Production/) to make a creative and engaging ​video for your company.
+For services or apps, you should use the "Watch Video" one. Video is flooding the online marketplace and is quickly becoming a marketing standard to convey your message. If you don't have a video yet, visit <br>      [SSW's Video Services pages](http://www.ssw.com.au/ssw/Consulting/Video-Production/) to make a creative and engaging video for your company.
 
 [[goodExample]]
-| ![ Good Example - Take the Facebook visitor to watch your video​](watch-video-facebook.png)
+| ![Take the Facebook visitor to watch your video](watch-video-facebook.png)

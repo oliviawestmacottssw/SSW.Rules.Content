@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​​Whenever you need a number from a system you should think of how you can create a report, so next time you can press a button to get the result.
+Whenever you need a number from a system you should think of how you can create a report, so next time you can press a button to get the result.
  
 If you found yourself doing ad-hoc reports, or random SQL queries, a few years ago, the best thing to do was to make sure the boss knows you could not find the data you needed, so he could commission a new report to be built.
 
@@ -27,5 +27,5 @@ Jonny
 
 Figure - Bad Example: If you can't build it yourself, send an email to your boss for a number
  
-![](Power BI.png)  Figure - Good Example: Sate your own curiosity with Power BI ​See Ulysses' video on how Power BI is the best tool for this: https://tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren​
-​
+[[goodExample]]
+| ![Sate your own curiosity with Power BI See Ulysses' video on how Power BI is the best tool for this: https://tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren](Power BI.png)

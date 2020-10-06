@@ -10,7 +10,6 @@ authors: []
 The active menu item should stand out from the others. This way you make it easy for users to know where they are at in the website.
  
 [[badExample]]
-| ![ Bad Example – you can't tell where you are in the site](../../assets/active-state-bad.jpg)
-
+| ![you can't tell where you are in the site](../../assets/active-state-bad.jpg)
 [[goodExample]]
-| ![ Good Example – it’s easy to see where you are at ](../../assets/active-state-good.jpg)
+| ![it’s easy to see where you are at](../../assets/active-state-good.jpg)

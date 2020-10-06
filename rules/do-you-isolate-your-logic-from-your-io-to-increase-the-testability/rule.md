@@ -87,4 +87,4 @@ public void TestVS2005CSProj()
  Assert.AreEqual(true, result.Contains(Path.Combine(baseFolder, "OptionsUI.cs")));
  Assert.AreEqual(true, result.Contains(Path.Combine(baseFolder, "VSAddInMain.cs")));
 }
-Good - Different test cases and assertions are created to test the logic​
+Good - Different test cases and assertions are created to test the logic

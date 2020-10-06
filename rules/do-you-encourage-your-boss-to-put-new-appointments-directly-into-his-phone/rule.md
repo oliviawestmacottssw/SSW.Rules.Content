@@ -18,4 +18,3 @@ When your boss takes a call from someone wanting to book an appointment there ar
 
 
 It used to be that if the appointment was for the same day, your boss would have to take option 2 to keep the PA informed but now with mobile devices you should generally use option 1.
-             ​

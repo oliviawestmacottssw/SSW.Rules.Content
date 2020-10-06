@@ -14,4 +14,4 @@ Always introduce yourself \*after\* you have asked the audience who they are. Do
 - What makes you qualified to speak on this topic?
 
 
-![ Talk about yourself after you know the audience a little. It is not great to bring up the 'About' slide too early](aboutAdam.gif)
+![Talk about yourself after you know the audience a little. It is not great to bring up the 'About' slide too early](aboutAdam.gif)

@@ -11,6 +11,5 @@ By placing a little visual cue on your slide, you can remind yourself to show a 
 The icon allows you to skip it when running short on time, without upsetting the audience.
 
 [[badExample]]
-| ![ demo text shown. The problem is if you run out of time you need to say "Sorry, let's skip that demo since I am short of time". Then the audience feels cheated](DemoBad.gif) 
-
-![ Use an icon to indicate a "demo time"](demo.gif)
+| ![demo text shown. The problem is if you run out of time you need to say "Sorry, let's skip that demo since I am short of time". Then the audience feels cheated](DemoBad.gif)
+![Use an icon to indicate a "demo time"](demo.gif)

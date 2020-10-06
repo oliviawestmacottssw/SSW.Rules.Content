@@ -34,7 +34,7 @@ index:
 - do-you-use-mvc-unobtrusive-validation
 
 ---
-​Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
+Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
 
-If you still need help, visit [ASP.NET MVC Web Application Development](http&#58;//www.ssw.com.au/ssw/Consulting/WebsiteDevelopment.aspx) and book in a consultant.​
+If you still need help, visit [ASP.NET MVC Web Application Development](http&#58;//www.ssw.com.au/ssw/Consulting/WebsiteDevelopment.aspx) and book in a consultant.
 

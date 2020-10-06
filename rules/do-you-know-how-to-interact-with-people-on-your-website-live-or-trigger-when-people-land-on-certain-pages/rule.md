@@ -9,7 +9,7 @@ authors:
 
 ---
 
-In some cases, you might want to reach out to your customer via chat before they have to reach out to you. You can set up Zendesk Chat triggers that initiate a proactive chat with a customer based on specified conditions that you define. Your customer can choose whether or not to respond.​
+In some cases, you might want to reach out to your customer via chat before they have to reach out to you. You can set up Zendesk Chat triggers that initiate a proactive chat with a customer based on specified conditions that you define. Your customer can choose whether or not to respond.
  
 Note that Basic plans are limited to two proactive chat triggers.
 

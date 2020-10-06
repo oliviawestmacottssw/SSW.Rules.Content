@@ -11,7 +11,7 @@ authors:
 
 ---
 
-​​​Google Ads can be a useful and successful marketing platform when actively monitored and optimized. This should be done daily, where possible, to ensure that ads are not running and spending money ineffectively, here are three important steps to achieve this:
+Google Ads can be a useful and successful marketing platform when actively monitored and optimized. This should be done daily, where possible, to ensure that ads are not running and spending money ineffectively, here are three important steps to achieve this:
  
 ### Setting Maximum Cost per Click 
 
@@ -20,16 +20,14 @@ Ad s can be a costly method of advertising when used incorrectly. To prevent unk
 
 If your Max CPC is too low compared to competitor ads you may be missing out on reaching the first page of the google search. Ads should be adjusted to ensure that they are able to be seen by the market, this can be accomplished by setting your Max CPC at a level that will ensure it is on the first page.
 
-![ Maximum Cost per Click can be set at the campaign, ad group or ad level](2016-02-25_8-16-05.jpg)
-
+![Maximum Cost per Click can be set at the campaign, ad group or ad level](2016-02-25_8-16-05.jpg)
 **Negative Keywords**
 
 When searching using Google there are often phrases and keywords that appear that are not related to what you are after. These keywords can cause your costs to rise if people are clicking on them and your ad does not provide the information they intended. Google Ads has a solution to prevent this in the form of 'Negative Keywords'.
 
 Negative Keywords are able to be added to your campaign or ad group and tell Google Ads that you don't want your ad to be shown in any search containing these terms. This will help to minimize both cost and bounce rate for your ads.
 
-![ Negative Keywords ensure your ad is not shown in unrelated searches](2016-02-25_8-18-14.jpg)
-
+![Negative Keywords ensure your ad is not shown in unrelated searches](2016-02-25_8-18-14.jpg)
 ### Split Testing Ads 
 
 

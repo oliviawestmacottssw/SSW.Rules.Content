@@ -11,9 +11,9 @@ authors:
 
 ---
 
-**​​​Standards should \*not\* be followed blindly. Aim for continual improvement.**
+**Standards should \*not\* be followed blindly. Aim for continual improvement.**
 
-Whenever you're doing something more than once there should be a clear procedure. We call them “standards” or “rules”. That means that there should be lots of standards.​
+Whenever you're doing something more than once there should be a clear procedure. We call them “standards” or “rules”. That means that there should be lots of standards.
 
 But there are pros and cons to having standards.
 
@@ -26,19 +26,19 @@ The pros:
 The cons:
 
 - They take time to write in a generic fashion
-- Technological rules rust easily. Technologies and techniques change often, so you must be on the lookout for the new and better approaches and continually update these.​
+- Technological rules rust easily. Technologies and techniques change often, so you must be on the lookout for the new and better approaches and continually update these.
 - They have errors as they are written by imperfect people.
 - People will sometimes follow an inappropriate rule. A set of rules can never predict every path, so  cases can and will appear that the standards fail to cater for.
 
 
 **So standards should always help the critical thinking process, never replace it**
 
-If you think something can be done better or the standard is simply out of date, you should improve the standard. This is best done as a team effort​ with everyone making little changes often. Whenever you come across a standard which needs updating or improving you have four options:
+If you think something can be done better or the standard is simply out of date, you should improve the standard. This is best done as a team effort with everyone making little changes often. Whenever you come across a standard which needs updating or improving you have four options:
 
 1. Ignore it and hope someone fixes it (this is punishable by being sat on by a wild hippo);
 2. Fix it yourself straight away (preferred);
 3. Fix it yourself later ([send yourself an email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=5c16d531-007d-49ef-8acc-b26596e13e84));
 4. Ask someone else to fix it (following the   [change "x" to "y"](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=172019d0-82fc-4d7b-9d91-ded321714309) rule)
 
- ​  
+   
 For any page on our sites, you can click the 'Feedback to SSW' link at the footer.

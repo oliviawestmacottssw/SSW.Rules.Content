@@ -11,7 +11,7 @@ authors:
 
 ---
 
-​​​​​​​​​In any job, you will most likely at some point face some criticism. Someone may be telling you that you’ve done something wrong or just expressing displeasure because you didn’t do something they wanted.
+In any job, you will most likely at some point face some criticism. Someone may be telling you that you’ve done something wrong or just expressing displeasure because you didn’t do something they wanted.
  
 The best way to take this is to reply to the person and tell them the following the 3 A's.
 
@@ -23,7 +23,7 @@ The best way to take this is to reply to the person and tell them the following 
 **A- ** **Apologize **if you messed up… or even if you didn’t. Just be clear you are sorry for their situation. E.g. "I am sorry for the downtime you have been experiencing today"
 
 ** A - **Lastly, explain how you will take **action** now, and in the future.
-​
+
 
 Even if you've been wrongly accused of something, you should still show you understand the other person's frustration and demonstrate initiative. Always have a view of the future and the big picture.
 
@@ -33,8 +33,7 @@ Next is to fix it for the future – you could explain the new steps in the proc
 More: **The 3 A’s of Business** (a great article from American Express)
 https://www.americanexpress.com/en-us/business/trends-and-insights/articles/the-three-as-of-business/
  
-![ Make sure you know how to take criticism well ](dilbert-criticism-1.gif) 
-
+![Make sure you know how to take criticism well ](dilbert-criticism-1.gif)
 ![](Defensive behaviour.png)** Figure: Active listening can help with communication issues **
 
 
@@ -49,7 +48,7 @@ https://www.americanexpress.com/en-us/business/trends-and-insights/articles/the-
 
 
 
-### Re​lated Rule 
+### Related Rule 
 
 
 - [Communication - Do you know how to take feedback/criticism (The 3 A’s)?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=b5fd502e-4e23-458f-97f6-f5c5136eb3c5)

@@ -14,9 +14,8 @@ The best way to emphasize your point is to "build" the pain first and then show 
 To do this, we give a bad example and raise users' expectation first.
 
 [[badExample]]
-| ![ Bad Example - kid not in his seat](ImageBadExample.gif)
-
+| ![kid not in his seat](ImageBadExample.gif)
 Now we can show the solution and give a good example as the result, make them feel released.
 
 [[goodExample]]
-| ![ Good Example - kid in his seat](kid-in-airplane-seat.jpg)
+| ![kid in his seat](kid-in-airplane-seat.jpg)

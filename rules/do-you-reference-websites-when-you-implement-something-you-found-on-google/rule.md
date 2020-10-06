@@ -10,9 +10,9 @@ authors:
 ---
 
 If you end up using someone else's code, or even idea, that you found online, make sure you add a reference to this in your source code. There is a good chance that you or your team will revisit the website. And of course, it never hurts to tip your hat off to other coders.
-​​
+
  
-​private void HideToSystemTray()
+private void HideToSystemTray()
 {
  // Hide the windows form in the system tray
  if (FormWindowState.Minimized == WindowState)
@@ -20,7 +20,7 @@ If you end up using someone else's code, or even idea, that you found online, ma
  Hide();
  } 
 }
-​​​Bad Example: The website where the solution was found IS NOT referenced in the comments
+Bad Example: The website where the solution was found IS NOT referenced in the comments
 
 
 private void HideToSystemTray()
@@ -32,6 +32,4 @@ private void HideToSystemTray()
  Hide();
  } 
 }
-Good Example: The website where the solution was found is referenced in the comments​​
-
-​
+Good Example: The website where the solution was found is referenced in the comments

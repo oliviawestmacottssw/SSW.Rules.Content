@@ -13,11 +13,9 @@ It is difficult for users to find their required records in a huge amount of dat
 The standard DataGrid of ASP.NET doesn't include this functionality, developers need to implement it by themselves.
 
 [[badExample]]
-| ![ Bad Example - implement data filter manually](FilterDataInDataGrid.jpg) 
-
+| ![implement data filter manually](FilterDataInDataGrid.jpg)
 Fortunately, RadGrid supplies this perfect feature.
 
 [[goodExample]]
-| ![ Good Example - add an attribute to filter data](FilterDataInRadGrid.jpg) 
-
+| ![add an attribute to filter data](FilterDataInRadGrid.jpg)
 Developer can turn this feature on by setting the AllowFilteringByColumn="True".

@@ -12,16 +12,13 @@ authors:
 When editing a .doc file in a SharePoint document library, you need to always “check Out” when you see “Read Only”. You need to “Check In” the document after editing to TFS.
 
 
-![ Warning - If you see “Read-Only” in the title bar, then you need to “Check Out”](SharepointWord.jpg)
+![Warning - If you see “Read-Only” in the title bar, then you need to “Check Out”](SharepointWord.jpg)
 
 
-
-![ Click “Check Out” to edit the document in TFS ](SharepointWord1.jpg) 
-
+![Click “Check Out” to edit the document in TFS](SharepointWord1.jpg)
 
 
-![ When you click “yes”, expect a 2nd dialog ](SharepointWord2.jpg) 
-(for SharePoint controlled docs)** 
+![When you click “yes”, expect a 2nd dialog](SharepointWord2.jpg)(for SharePoint controlled docs)** 
 
 
-![ Good – the dialog you should always get on saving](SharepointWord3.jpg)
+![Good – the dialog you should always get on saving](SharepointWord3.jpg)

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​Here are the best collection of resources for Angular.:
+Here are the best collection of resources for Angular.:
  
 ### Free Resources
 
@@ -20,20 +20,20 @@ authors:
 - [**https://github.com/markerikson/react-redux-links**](https&#58;//github.com/markerikson/react-redux-links)
 
 
-### Training Courses​ 
+### Training Courses 
 
 - [**Codecademy: React 101**](https&#58;//www.codecademy.com/learn/react-101) - Codecademy's introductory course for React.
 - [**Egghead.io: Start Learning React**](https&#58;//egghead.io/courses/start-learning-react) - This series will explore the basic fundamentals of React to get you started.
 - [**React Crash Course 2018**](https&#58;//www.youtube.com/watch?v=Ke90Tje7VS0) - A beginner-friendly crash course through the most important React topics.
 
 
-### Book​​​s
+### Books
 
 - [**The Road to learn React**](https&#58;//www.amazon.com/gp/product/172004399X) - Beautifully written and approachable guide to learning React and ES6.
 - [**Pure React**](https&#58;//daveceddia.com/pure-react/) - Well-written introduction for true beginners.
 - [**Learning React: Functional Web Development with React and Redux**](https&#58;//www.amazon.com/gp/product/1491954620) - Covers React and Redux. For developers already comfortable with JavaScript.
 
 
-### Free Events​ 
+### Free Events 
 
-- **Your local JavaScript or React User Group**- [https://www.meetup.com/](https&#58;//www.meetup.com/)​
+- **Your local JavaScript or React User Group**- [https://www.meetup.com/](https&#58;//www.meetup.com/)

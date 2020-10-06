@@ -11,8 +11,7 @@ authors:
 
 ---
 
-​
-Many applications end up working perfectly on the developer's machine. However once the application is deployed into a setup package and ready for the public, the application could suddenly give the user the most horrible experience of his life. There are plenty of issues that developers don't take into consideration. Amongst the many issues, three can stand above the rest if the application isn't tested thoroughly:​
+Many applications end up working perfectly on the developer's machine. However once the application is deployed into a setup package and ready for the public, the application could suddenly give the user the most horrible experience of his life. There are plenty of issues that developers don't take into consideration. Amongst the many issues, three can stand above the rest if the application isn't tested thoroughly:
  
 1. The SQL Server Database or the Server machine cannot be accessed by the user, and so developer settings are completely useless to the user.
 2. The user doesn't install the application in the default location. (i.e. instead of C:\Program Files\ApplicationName, the user could install it on D:\Temp\ApplicationName)
@@ -24,14 +23,13 @@ To prevent issues from arising and having to re-deploy continuously which would 
 1. Have scripts that can get the pathname of the .exe that the user has installed the application on
 
 Wise has a Dialog that prompts the user for the installation directory:  
-![ Wise Prompts the user for the installation directory and sets the path to a property in wise called "INSTALLDIR"    An embedded script must be used if the pathname is necessary in the application ](INSTALLDIR.jpg) 
-(i.e. like .reg files that set registry keys in registry)
+![Wise Prompts the user for the installation directory and sets the path to a property in wise called "INSTALLDIR"    An embedded script must be used if the pathname is necessary in the application](INSTALLDIR.jpg)(i.e. like .reg files that set registry keys in registry)
 
 
 ```
 'The .reg file includes the following hardcoded lines:
 
- '[HKEY_CLASSES_ROOT\SSWNetToolkit\shell\open\command]​
+ '[HKEY_CLASSES_ROOT\SSWNetToolkit\shell\open\command]
   
                '@="\"C:\\Program Files\\SSW NetToolKit\\WindowsUI\\bin\\SSW.NetToolkit.exe\" /select \"%1\""
 

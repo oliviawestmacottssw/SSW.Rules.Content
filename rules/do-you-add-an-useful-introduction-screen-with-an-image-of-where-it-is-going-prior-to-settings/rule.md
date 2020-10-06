@@ -14,7 +14,6 @@ A brief introduction will give some idea about what will happen on this  process
 
 
 [[badExample]]
-| ![ Bad Example - This screen has no product introduction... The user is thinking ‘What is this going to do?’](../../assets/IntroScreenBad.gif)
-
+| ![This screen has no product introduction... The user is thinking ‘What is this going to do?’](../../assets/IntroScreenBad.gif)
 [[goodExample]]
-| ![ Good Example - This screen has product information before the settings... With a screen capture of where it ends up](../../assets/IntroScreenGood.gif)
+| ![This screen has product information before the settings... With a screen capture of where it ends up](../../assets/IntroScreenGood.gif)

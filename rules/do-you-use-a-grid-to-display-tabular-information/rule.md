@@ -11,7 +11,7 @@ authors:
 
 Do you use a standardized grid to display tabular information? Do you sort, paginate, filter data in your grid?
  
-​Here is a sample Kendo grid with filtering, pagination and sorting data.
+Here is a sample Kendo grid with filtering, pagination and sorting data.
 
 [http://ssw.sswtimepro.com/b/sample/kendo-grid](http&#58;//ssw.sswtimepro.com/b/sample/kendo-grid)
 

@@ -52,7 +52,7 @@ The main benefits of this strategy are:
 - It also improves workers’ mental health and quality of life which, in the long term, will reduce the number of casualties in the company
 
 
-   ​
+   
 
 
 ![](bunny.jpg) 

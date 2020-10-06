@@ -14,13 +14,11 @@ In Outlook, the Calendar control has a number of important features:
 - The current day is highlighted with a box
 
  
-​
+
 
 Users are familiar with the Outlook calendar control. When the calendar control                      is used it should incorporate all of these features of the Outlook calendar                      control.
 
 [[badExample]]
-| ![ Bad Example - Calendar Control - Sunday is at the front, today's date is <br>                        not highlighted, and items with data are not bolded](../../assets/CalendarControlBad.gif)                        
-
+| ![Calendar Control - Sunday is at the front, today's date is <br>                        not highlighted, and items with data are not bolded](../../assets/CalendarControlBad.gif)
 [[goodExample]]
-| ![ Good Example - Calendar Control - Monday is at the front, today's date <br>                        is highlighted, and items with data are bolded                                                                                            We have a program called ](../../assets/CalendarControlGood.gif)                        
-[SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/) to                              check for this rule.
+| ![Calendar Control - Monday is at the front, today's date <br>                        is highlighted, and items with data are bolded                                                                                            We have a program called](../../assets/CalendarControlGood.gif)[SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/) to                              check for this rule.

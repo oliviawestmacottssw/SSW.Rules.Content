@@ -13,9 +13,7 @@ Cards on YouTube are an effective way to keep people watching your videos by sug
  
 You could also promote an external website [(just like with ed screens)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=bad882c6-59d2-4a8f-97be-a15c6dc19296) but remember you want people to stay on YouTube and keep watching your videos.
 
-![](card example.png)
-
-Good example: A card is discreet and adds an easy way for the viewer to get to the relevant content.
+![A card is discreet and adds an easy way for the viewer to get to the relevant content.](card example.png)
 
 
 
@@ -28,14 +26,12 @@ Cards are like dynamic notifications in the top right corner of your video and y
 - Link to an approved website
 
 
-![ To add a card, go to VIDEO MANAGER | Videos | ](card.png)
-(select your video) | Cards | Add card
+![ To add a card, go to VIDEO MANAGER | Videos |](card.png)(select your video) | Cards | Add card
 
 The process is then intuitive, simply add your text, your link and when should the card pop up and you’re set! Indeed make sure the card is relevant to the moment it appears. For example, if in the video someone is referring to an external source or a previous videos, it could be wise to suggest this source or video when the person mentions it.
 
 Cards work on desktop and mobile devices too!
 
-![ Although they look different, cards do work on mobile devices. This a screenshot of our video ](youtube-card-mobile-device.png)
-[Going Hardcore on your Business Intelligence with Power BI - Adam Cogan](https://www.youtube.com/watch?v=0gSgpzmbrBM).
+![ Although they look different, cards do work on mobile devices. This a screenshot of our video](youtube-card-mobile-device.png)[Going Hardcore on your Business Intelligence with Power BI - Adam Cogan](https://www.youtube.com/watch?v=0gSgpzmbrBM).
 
 You can see a demo at 0:58 in our video [Workplace Happiness: How to be happy at work with Kylie Hunt (2017 NDC Sydney)](https://www.youtube.com/watch?v=gEps81rL1-Y).

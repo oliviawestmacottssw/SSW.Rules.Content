@@ -11,7 +11,7 @@ authors:
 
 ---
 
-When a user clicks on a hyperlink they expect to open an HTML​ file. If you click on a hyperlink (but it is actually a .doc file) you wait and wait while it takes forever to instantiate an instance of Microsoft Word in the background.
+When a user clicks on a hyperlink they expect to open an HTML file. If you click on a hyperlink (but it is actually a .doc file) you wait and wait while it takes forever to instantiate an instance of Microsoft Word in the background.
  
 Don't surprise users! Use the following icons:
 
@@ -50,20 +50,17 @@ Don't surprise users! Use the following icons:
 ![](../../assets/IconOFT.gif) This is an Outlook Item Template |
 | Page | 
 ![](../../assets/ms_lock.gif) This is a link to password protected page |
-| YouTube | ​
+| YouTube | 
 ![](youtube-icon_png.jpg)This is a link to a YouTube Video |
 
  
-![ FYI there are the same images used by Google at ](../../assets/GoogleIcons.gif) 
-[GoogleDesktopSideBar.htm](http://desktop.google.com/features.html)
+![FYI there are the same images used by Google at](../../assets/GoogleIcons.gif)[GoogleDesktopSideBar.htm](http://desktop.google.com/features.html)
   
 [[badExample]]
-| ![ Bad Example - The user would expect all these hyperlinks to work the same way](../../assets/IconImageBad.gif) 
-
+| ![The user would expect all these hyperlinks to work the same way](../../assets/IconImageBad.gif)
   
 [[goodExample]]
-| ![ Good Example - The pdf icon ](../../assets/IconImageGood.gif) 
-(before a hyperlink) indicates it is not a web page
+| ![The pdf icon](../../assets/IconImageGood.gif)(before a hyperlink) indicates it is not a web page
 
 ### How to add an icon before a link with CSS
 

@@ -9,9 +9,9 @@ authors:
 
 ---
 
-​To get the most o​ut of your communications, your writing should be compelling and direct. The best way to ensure this is to use active voice.
+To get the most out of your communications, your writing should be compelling and direct. The best way to ensure this is to use active voice.
 
-​​​For example:
+For example:
  
 
 When the CD is inserted, a Windows dialog will be shown.
@@ -30,7 +30,7 @@ The email was sent by zombies
 
 
 Figure: Bad example - This sentence could be more engaging
-​​​​Zombies sent the email ​
+Zombies sent the email 
 
 Figure: Good example - Now that's a more engaging sentence
 
@@ -40,12 +40,6 @@ Figure: Good example - Now that's a more engaging sentence
 
 ### 3 reasons you should avoid passive voice:
 
-1. ​Passive voice uses more words​ - in the figures above, the "Bad Example" uses 6 words whereas the "Good example" uses only 4
+1. Passive voice uses more words - in the figures above, the "Bad Example" uses 6 words whereas the "Good example" uses only 4
 2. It's less logical - instead of having the subject do something to the object, the object does something to the subject
 3. It's less clear - In the bad example above, you don't know who was acting until the end of the sentence, whereas in the good example, you know immediately.
-
-
-
-
-
-​

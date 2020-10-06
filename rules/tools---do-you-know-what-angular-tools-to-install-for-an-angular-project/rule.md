@@ -15,7 +15,7 @@ authors:
 
 ---
 
-​​​This rule explains what to install in order to get started creating an Angular project.
+This rule explains what to install in order to get started creating an Angular project.
 
 The best practice for creating an Angular project and components is to use the [Angular CLI](https://angular.io/cli) (command-line interface).
 
@@ -26,7 +26,7 @@ The libraries that are required to get started are:
 
 1. **Node.js** (https://nodejs.org/) and **NPM** (https://www.npmjs.com/)
 2. **Git** (https://git-scm.com/), and
-3. **Angular CLI **(https://angular.io/cli)​
+3. **Angular CLI **(https://angular.io/cli)
 
  
 ### 1. Node.js and NPM
@@ -37,7 +37,7 @@ Check that you have a version of Node.js installed that is compatible with the [
 
 To check you have the correct version of Node.js run the following from a terminal/command window.
 
-If you have older versions of Node.js or don't have it installed, please install the latest LTS version from here:​ [https://nodejs.org/en](https://nodejs.org/en/)
+If you have older versions of Node.js or don't have it installed, please install the latest LTS version from here: [https://nodejs.org/en](https://nodejs.org/en/)
 
 As of Angular 9, you need to be on Node 11+.
 
@@ -65,7 +65,7 @@ git --version
 Check you have the latest version of the Angular CLI installed globally by running the following command in the terminal/command window.  Check the result against the latest version shown on GitHub here: https://github.com/angular/angular-cli.
 ng -v
 
-​If you don’t have Angular CLI installed, then run the command below in a terminal/command window to install it.
+If you don’t have Angular CLI installed, then run the command below in a terminal/command window to install it.
 
 npm install -g @angular/cli
 
@@ -77,8 +77,7 @@ Upgrading the global Angular CLI version will not affect the version of the Angu
 
 Instructions for upgrading the Angular CLI of an existing project can be found here: [https://update.angular.io](https://update.angular.io/)
  
-![ Running “ng v” ](angular-cli-8.3.2x.png) 
-(or any other ng command) in the command-line of an older Angular CLI project will give you a warning that the global version is greater than the local version (see yellow text in the screenshot)
+![Running “ng v”](angular-cli-8.3.2x.png)(or any other ng command) in the command-line of an older Angular CLI project will give you a warning that the global version is greater than the local version (see yellow text in the screenshot)
 
 ### Getting errors?
 

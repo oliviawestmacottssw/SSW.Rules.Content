@@ -17,6 +17,6 @@ Data Connection Library provides a central location for defining all the connect
 
 - It allows you to change the data source definition in one place, without having to worry about changing the same definition in 50 forms and excel spreadsheets.
 - A centralized data connection library also helps your users to locate data easily.
-- Your users don't want to know the intricate details on how to get a particular data - they just want the data and have the form working!  So if you as the administrator provides it for them, they will love you, they will use it, and you will have an easier time managing your SharePoint site!​
+- Your users don't want to know the intricate details on how to get a particular data - they just want the data and have the form working!  So if you as the administrator provides it for them, they will love you, they will use it, and you will have an easier time managing your SharePoint site!
 
 Everyone wins!

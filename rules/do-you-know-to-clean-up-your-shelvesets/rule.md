@@ -19,7 +19,6 @@ Shelveset’s are useful for keeping your code on the server when you are not re
 Well, if you don’t delete your Shelves once you are done with them they hang around forever…
  
 
-![ Yup, Mark wins again](TheOldestShelveset.jpg)
-! He has the oldest Shelveset from 2006. But he is not the only one!**
+![Yup, Mark wins again](TheOldestShelveset.jpg)! He has the oldest Shelveset from 2006. But he is not the only one!**
 
 Use the Shelveset Sidekick in [Team Foundation Sidekicks](http://www.attrice.info/cm/tfs/index.htm)at the end of every month to make sure you have not forgotten anything.

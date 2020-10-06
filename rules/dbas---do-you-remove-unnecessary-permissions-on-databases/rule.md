@@ -9,4 +9,4 @@ authors:
 
 ---
 
-What goes for permissions to Windows objects also goes for SQL Server objects. Remove all permissions but the bare minimum required to operate your application.​​
+What goes for permissions to Windows objects also goes for SQL Server objects. Remove all permissions but the bare minimum required to operate your application.

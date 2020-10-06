@@ -21,13 +21,12 @@ Using software like Camtasia or Screenflow, you can't guarantee you'll capture t
 Another issue is how long it will take you to process the screen recording for editing later; you will need to convert the screen recording from its native format to something like h.264 mp4, which can take a while.
 
 [[badExample]]
-| ![ Bad Example - Presenters View in PowerPoint auto changes the screen mode to 'Extended' ](using-capture-hardware-bad.png)
-
-### ​Good example
+| ![Presenters View in PowerPoint auto changes the screen mode to 'Extended'](using-capture-hardware-bad.png)
+### Good example
 
 Using a hardware solution, you are able to capture whatever the output of the laptop is, so it doesn’t matter if the presenter changes from extended to duplicated, you will always capture the image being sent to the projector.
 
 Another benefit of using hardware capture is a direct recording of an editable format, for example, a h.264 MP4 file that can be used in your video editor of choice.
 
 [[goodExample]]
-| ![ Good Example - Hardware capture lets you record exactly what you want, and is ready for editing](using-capture-hardware-good.png)
+| ![Hardware capture lets you record exactly what you want, and is ready for editing](using-capture-hardware-good.png)

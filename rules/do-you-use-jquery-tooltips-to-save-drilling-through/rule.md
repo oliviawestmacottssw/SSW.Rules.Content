@@ -13,7 +13,6 @@ It is common when we browse a list page, we have to click the "More..." or "Deta
 
 <br>To improve the performance, we can use jQuery plus CSS to show tooltips in the list page that can let users determine which item detail they want to see. <br> 
 [[badExample]]
-| ![ Bad Example - redirect to a new page to view the detail ](ViewDetailGrid.jpg) 
-
+| ![redirect to a new page to view the detail](ViewDetailGrid.jpg)
 [[goodExample]]
-| ![ Good Example - show tooltip when mouse is over in the list ](ViewTooltipGrid.jpg)
+| ![show tooltip when mouse is over in the list](ViewTooltipGrid.jpg)

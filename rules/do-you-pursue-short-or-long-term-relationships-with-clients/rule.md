@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​Treat clients the same way you would treat a prospective partner - that is, with lots of TLC. Think about your first conversation with a nice girl/guy. You have two approaches you could try. <br>
+Treat clients the same way you would treat a prospective partner - that is, with lots of TLC. Think about your first conversation with a nice girl/guy. You have two approaches you could try. <br>
  
 The first kind of approach is where you try and seal the whole deal in one go:
 
@@ -21,7 +21,7 @@ The likely response would be:
 
 The second and more appropriate approach would be to ask something like:
 
-​"Would you like to have coffee together?"
+"Would you like to have coffee together?"
 
 You have a greater chance that your prospective partner will say:
 

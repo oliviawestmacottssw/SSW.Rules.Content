@@ -13,10 +13,10 @@ When using [Snagit](http://www.techsmith.com/snagit.html) to show actions on a s
 
 1. To enter data – Use the yellow highlighting
 2. To click on a button – Put a square box around it
-3. To point out something  – Use the arrow​​
+3. To point out something  – Use the arrow
 
 
 [[badExample]]
-| ![ Bad example – There is no visual difference between different actions](snagit-actions-bad.jpg)
-
-![](snagit-actions-good.jpg)​Figure: Good example – This screenshot tells that the user should be on the "Message" tab, click on "Attach File" and edit the subject to be "Button types"​​
+| ![There is no visual difference between different actions](snagit-actions-bad.jpg)
+[[goodExample]]
+| ![This screenshot tells that the user should be on the "Message" tab, click on "Attach File" and edit the subject to be "Button types"](snagit-actions-good.jpg)

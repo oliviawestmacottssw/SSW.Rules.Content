@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​The ending of your video should contain a [call to action](/Pages/Adding-a-call-to-action.aspx), the logo of your company and a sign off from the speaker(s).
+The ending of your video should contain a [call to action](/Pages/Adding-a-call-to-action.aspx), the logo of your company and a sign off from the speaker(s).
  
 In an interview situation the best way to sign off is to try and lead from the subject matter to the end of the video smoothly.
 
@@ -22,6 +22,6 @@ Interviewer (Adam):
 "Well that’s all great stuff Joe and we're looking forward to seeing your new software soon"
 
 Interviewee (Joe):        
-"Thanks Adam"​​
+"Thanks Adam"
 
-Figure: Good example – personal, the speakers relate to each other well, refers to subject matter in the video​
+Figure: Good example – personal, the speakers relate to each other well, refers to subject matter in the video

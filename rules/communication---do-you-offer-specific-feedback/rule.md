@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​Every day you will probably come across something that could be improved. If you're not making improvements, you're going backwards. But don't make suggestions or criticisms without being specific.
+Every day you will probably come across something that could be improved. If you're not making improvements, you're going backwards. But don't make suggestions or criticisms without being specific.
   
 "Do you know our sales process is pretty bad, what are you going to do about it?"
  Figure: Bad Example - Nonspecific criticism 
@@ -25,6 +25,6 @@ When you find a problem, pinpoint it directly (and recommend a solution):
 "Not done, you missed the second requirement"
  The specific missed requirement lets them quickly fix the mistake
 
-Of course, there are times that you can 'feel' that a problem exists, but you may not even be sure how are unable to pinpoint it or can't think of a good solution. In this instance you should speak to someone who you think may be able to identify a solution, come to an agreement, and then request that action be taken.​
+Of course, there are times that you can 'feel' that a problem exists, but you may not even be sure how are unable to pinpoint it or can't think of a good solution. In this instance you should speak to someone who you think may be able to identify a solution, come to an agreement, and then request that action be taken.
 
 When criticism is generic, it is impossible to know what to fix.

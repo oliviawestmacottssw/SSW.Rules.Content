@@ -13,11 +13,11 @@ It seems nearly all web developers are confused whether they should use hyperlin
 
 This is because hyperlinks indicate navigation - "If I click this link, I'll be taken somewhere else".
 
-Whereas a button indicates that something is being processed - "When I click this, I'm agreeing that something is being submitted"​​
+Whereas a button indicates that something is being processed - "When I click this, I'm agreeing that something is being submitted"
  
 #### Note: If you are using an automated link checker
 
-It is important you use buttons for updating or deleting data on your website. The main reason is problems will occur when you run a link checker (we run [SSW Li​nk Auditor](http://www.ssw.com.au/ssw/LinkAuditor/)), and you have data driven pages with "Update" or "Delete" hyperlinks. The link checker will try to go to all associated links and potentially delete a lot of data from your website database.
+It is important you use buttons for updating or deleting data on your website. The main reason is problems will occur when you run a link checker (we run [SSW Link Auditor](http://www.ssw.com.au/ssw/LinkAuditor/)), and you have data driven pages with "Update" or "Delete" hyperlinks. The link checker will try to go to all associated links and potentially delete a lot of data from your website database.
 
 But you say "My Delete links have JavaScript protection e.g. Are you sure you want to delete?". It is still no good because link checkers ignore all JavaScript validation.
 
@@ -33,10 +33,8 @@ That being said, there are a couple of exceptions to this rule.
 2. If you want a consistent design feel (and there is no confusion that the link is accepting data)
 
 
-![ An exception to the rule - an "Update" button inside the datagrid would look inconsistent](LinksExample.gif)
-
+![An exception to the rule - an "Update" button inside the datagrid would look inconsistent](LinksExample.gif)
 [[badExample]]
-| ![ Bad Example - The "sign in" hyperlink should be a button](LinkVsButton.gif)
-
+| ![The "sign in" hyperlink should be a button](LinkVsButton.gif)
 [[goodExample]]
-| ![ Good Example - This is a perfect example of how a good sign in screen should look](Logon.gif)
+| ![This is a perfect example of how a good sign in screen should look](Logon.gif)

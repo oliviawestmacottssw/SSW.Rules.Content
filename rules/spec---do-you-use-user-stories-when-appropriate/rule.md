@@ -13,15 +13,14 @@ authors:
 
 ---
 
-Product Backlog Items (PBIs) can be described in the form of a "User Stories" when appropriate. It ensures the developers will know the context for a PBI.​
+Product Backlog Items (PBIs) can be described in the form of a "User Stories" when appropriate. It ensures the developers will know the context for a PBI.
 
 As a 
 I want 
-so that ​​​​
+so that 
 Figure: User Story - template for description
  
-![ User Story - Product Backlog Item form](TFS2012UserStory.gif)
-
+![User Story - Product Backlog Item form](TFS2012UserStory.gif)
 I want to be able to search for customers.
 Figure: Bad Example - the user story is too vague and broad in scope
 As a Marketing Manager...
@@ -31,4 +30,4 @@ Figure: Good Example - Clear user story following the INVEST principle
 
 
 
-**​​​​Note:** In the TFS Scrum template (since we now have a title, description, and acceptance criteria), we no longer generally need to use User Story formatting.​
+**Note:** In the TFS Scrum template (since we now have a title, description, and acceptance criteria), we no longer generally need to use User Story formatting.

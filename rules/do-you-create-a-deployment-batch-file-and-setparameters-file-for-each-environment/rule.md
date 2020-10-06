@@ -12,9 +12,7 @@ authors:
 You should create a Deployment Batch file and SetParameters file for each Environment.
  
 [[goodExample]]
-| ![ Good Example - The batch file specifies the target Server, the ProjectName name to deploy, and the configuration file to use. You can also optionally supply additional parameters. <br>      ](setparameters.jpg)
-[Download a sample \_Deploy.bat file here as a .txt file](/Documents/DeployBat.txt). 
+| ![The batch file specifies the target Server, the ProjectName name to deploy, and the configuration file to use. You can also optionally supply additional parameters. <br>](setparameters.jpg)[Download a sample \_Deploy.bat file here as a .txt file](/Documents/DeployBat.txt). 
 [[goodExample]]
-| ![ Good Example - The SetParameters file specifies MS Deploy parameterisation values.  Most important is the target “IIS Web Application Name” on the target server](batfile.jpg)
-
+| ![The SetParameters file specifies MS Deploy parameterisation values.  Most important is the target “IIS Web Application Name” on the target server](batfile.jpg)
 See <br>      [Vishal’s blog](http://vishaljoshi.blogspot.com.au/2010/07/web-deploy-parameterization-in-action.html) for more details.

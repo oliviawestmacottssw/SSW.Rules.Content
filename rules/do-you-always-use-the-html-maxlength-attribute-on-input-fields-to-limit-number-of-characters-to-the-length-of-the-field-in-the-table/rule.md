@@ -11,9 +11,9 @@ authors:
 
 **Rule 1: **Whenever you have a data entry page you should always use the html maxlength attribute to limit number of characters to the length of the field in the table (except for numbers).
 
-**Rule 2:** Whenever you have a situation where you are using the HTML textarea (does not have the maxlength property) ​
+**Rule 2:** Whenever you have a situation where you are using the HTML textarea (does not have the maxlength property) 
  
-Then you need to:​
+Then you need to:
 
 - add the JavaScript function eg. ValidateLength(control)
 - add 2 properties to every data control  eg. dataType="char" onkeyup="validateLength(this)"

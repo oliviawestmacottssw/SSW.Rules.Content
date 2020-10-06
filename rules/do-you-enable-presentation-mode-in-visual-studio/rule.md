@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​When presenting to an audience using visual studio it is important to alter a few things for the best possible experience for the audience.
+When presenting to an audience using visual studio it is important to alter a few things for the best possible experience for the audience.
 
  
 
@@ -30,12 +30,10 @@ Most importantly, you can have all these things done for you in the click of a b
 ### Visual Studio
  
 [[badExample]]
-| ![ Bad Example - Code is small and most of the Visual Studio UI is too small to read](present_off.png) 
-
+| ![Code is small and most of the Visual Studio UI is too small to read](present_off.png)
  
 [[goodExample]]
-| ![ Good Example - Code is much more readable and Visual Studio UI is large enough to read​](present_on.png) 
-
+| ![Code is much more readable and Visual Studio UI is large enough to read](present_on.png)
 
 **
 ![](install.png)
@@ -46,8 +44,7 @@ Most importantly, you can have all these things done for you in the click of a b
 
 
  
-![ Use quick launch for toggling between presentOn and presentOff. ](quick_launch.png) 
-
+![Use quick launch for toggling between presentOn and presentOff.](quick_launch.png)
 Thanks to [Nathan Totten](https://ntotten.com/2012/12/12/visual-studio-2012-presentation-mode/) for showing us this tip back in 2012.
 
 
@@ -57,17 +54,14 @@ Thanks to [Nathan Totten](https://ntotten.com/2012/12/12/visual-studio-2012-pres
 
 Change font size in your text editor.
  
-![ Small font size](notepad_bad.png) 
-
+![Small font size](notepad_bad.png)
  
-![ Good font size](notepad_good2.png) 
-
+![Good font size](notepad_good2.png)
 
 ### Command Prompt
 
 And don't forget to change your command prompt as well.
  
-![ Command prompts are hard to read](cmd_bad_2.png)  
-
+![Command prompts are hard to read](cmd_bad_2.png)
  
-![ Font size for command prompt should be about twice as much as by default ](cmd_good_2.png)
+![Font size for command prompt should be about twice as much as by default](cmd_good_2.png)

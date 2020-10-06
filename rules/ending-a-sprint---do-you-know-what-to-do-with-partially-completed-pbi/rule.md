@@ -15,5 +15,5 @@ authors:
 
 <br>  At the end of a sprint, if a PBI has not been completed and therefore cannot be marked as done: 
  
-1. ​​​Update the Effort to be just what is remaining
+1. Update the Effort to be just what is remaining
 2. If there has been scope creep, but the original Acceptance Criteria has been met, it might be a good opportunity to mark it as done and move any scope creep tasks into a V2 of the PBI, which can then be prioritised in the backlog by the Product Owner

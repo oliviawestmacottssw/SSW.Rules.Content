@@ -11,8 +11,7 @@ authors:
 
 Make sure CRM 2015 update rollup 1 has been applied before upgrading to CRM 2016.
   
-![   version after applying CRM 2015 update rollup 1  Note: You might come accross the error below while applying CRM 2015 update rollup 1](updaterollup1.png) 
-
+![version after applying CRM 2015 update rollup 1  Note: You might come accross the error below while applying CRM 2015 update rollup 1](updaterollup1.png)
 
 | Database update install failed for orgId = 011d5962-3475-4df9-a123-c3ecaf88b048.  Continuing with other orgs.  Exception: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Data.SqlClient.SqlException: The current transaction cannot be committed and cannot support operations that write to the log file. Roll back the transaction.<br><br>Uncommittable transaction is detected at the end of the batch. The transaction is rolled back. |
 | --- |
@@ -34,4 +33,4 @@ Make sure CRM 2015 update rollup 1 has been applied before upgrading to CRM 2016
 | --- |
 8. Restore the file MetadataDiffs.xml to its original state using the backup taken at step 1.
 
- Source from:​ [Error updating Microsoft Dynamics CRM 2015 0.1](https://www.remotingcoders.com/Blogsite/Lists/Posts/Post.aspx?ID=83)
+ Source from: [Error updating Microsoft Dynamics CRM 2015 0.1](https://www.remotingcoders.com/Blogsite/Lists/Posts/Post.aspx?ID=83)

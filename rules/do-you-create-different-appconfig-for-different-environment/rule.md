@@ -14,9 +14,7 @@ Every application has different settings depending on the environment it is runn
 
 
 [[badExample]]
-| ![ Bad Example - Only 1 App.config provided](AppConfigBad.jpg)
+| ![Only 1 App.config provided](AppConfigBad.jpg)
 
-
-![](App.config.jpg)
-
-Figure : Good Example - Several App.config are provided
+[[goodExample]]
+| ![Several App.config are provided](App.config.jpg)

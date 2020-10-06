@@ -16,15 +16,15 @@ When want to show an image from the web on your website, the easiest way is to j
 The right way to do this is to copy the image locally and upload to your own server, so you have total control over the image.
 
 &lt;dl class="image"&gt;
-&lt;dt&gt;&lt;img src="https://some-external-​url.com/images/open-extension.png" alt="Open extension" /&gt;&lt;/dt&gt; 
+&lt;dt&gt;&lt;img src="https://some-external-url.com/images/open-extension.png" alt="Open extension" /&gt;&lt;/dt&gt; 
 &lt;dd&gt;Figure: Open extension&lt;/dd&gt;
 &lt;/dl&gt;
-​Figure: Bad example - using an external URL as image source. The image can be edited or deleted and there is nothing you can do about it
+Figure: Bad example - using an external URL as image source. The image can be edited or deleted and there is nothing you can do about it
 
-​&lt;dl class="image"&gt;
-&lt;dt&gt;&lt;img src="https://ssw.com.au​/images/open-extension.png" alt="Open extension" /&gt;&lt;/dt&gt; 
+&lt;dl class="image"&gt;
+&lt;dt&gt;&lt;img src="https://ssw.com.au/images/open-extension.png" alt="Open extension" /&gt;&lt;/dt&gt; 
 &lt;dd&gt;Figure: Open extension&lt;/dd&gt;
-&lt;/dl&gt;​
-​Figure: Good example - Image is hosted internally. You have control over the image
+&lt;/dl&gt;
+Figure: Good example - Image is hosted internally. You have control over the image
 
-**Note:** For copyrighted images, it is important to always ​​mention the source.​​
+**Note:** For copyrighted images, it is important to always mention the source.

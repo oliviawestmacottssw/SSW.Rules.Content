@@ -16,10 +16,8 @@ Have you ever needed to send your calendar schedule to someone to figure out the
 To insert a nice looking calendar and .ics file attachment in to your email in Outlook, do the following:
 
 1. New email in Outlook, go to the ribbon and select Insert / Calendar:    
-![ Ribbon Insert / Calendar](2015-06-05_9-57-12.png)
-
+![Ribbon Insert / Calendar](2015-06-05_9-57-12.png)
 2. Select your options to insert the fancy HTML calendar and .ICS file in to the email:    
-![ Pick your calendar, date range, and amount of detail](2015-06-05_9-57-27.png)
-
+![Pick your calendar, date range, and amount of detail](2015-06-05_9-57-27.png)
 3. You now have a nice looking calendar showing your availability, ready to send:    
-![ Pretty calendar ready to send via email](2015-06-05_10-11-03.png)
+![Pretty calendar ready to send via email](2015-06-05_10-11-03.png)

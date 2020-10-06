@@ -15,7 +15,6 @@ In this case the editor (Ulysses) clicked on edit just to see what it looked lik
 
 The edits that were not significant should show their records as dimmed.
 
-![ Version History ](VersionHistory_CroppedSmall.jpg) 
-
+![Version History](VersionHistory_CroppedSmall.jpg)
 P.S. the URL should be nicer than this: 
 http://sharepoint.ssw.com.au/Standards/Communication/RulesToBetterEmail/\_layouts/Versions.aspx?list=1badd854%2D7165%2D46cb%2D920e%2D44e2355cd6e7&ID=2&FileName=%2FStandards%2FCommunication%2FRulesToBetterEmail%2FPages%2FDefault%2Easpx&Source=%2FStandards%2FCommunication%2FRulesToBetterEmail%2FPages%2Fdefault%2Easpx

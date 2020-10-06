@@ -31,7 +31,7 @@ This is where a tool like Slack comes in handy. It can help your team aggregate 
 
  
  
-​​At SSW we integrate Slack with:
+At SSW we integrate Slack with:
 
 - Octopus Deploy
 - RayGun.io
@@ -41,4 +41,4 @@ This is where a tool like Slack comes in handy. It can help your team aggregate 
 
 Even better, you can create bots in slack to manage things like deployments and updating release notes.
 
-![](2016-06-06_11-22-03.png)Good example - One centralized location for team chat, deployment issues, exceptions and TFS changes
+![example](2016-06-06_11-22-03.png)Good

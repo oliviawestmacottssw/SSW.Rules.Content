@@ -9,7 +9,7 @@ authors:
 
 ---
 
-The following structure allows you to keep your website clean of clutter:​
+The following structure allows you to keep your website clean of clutter:
  
 - **/Images** - for all static images
 - **/Images/Dynamic** - for all images used in dynamically generated pages 
@@ -27,4 +27,4 @@ The root directory should be clean, having only:
 
 - **default (.aspx, .asp, .htm)**
 - **global.asa**
-- **application.sln ​**
+- **application.sln **

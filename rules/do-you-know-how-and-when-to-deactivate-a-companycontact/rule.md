@@ -17,5 +17,4 @@ There comes a time when some contacts in your CRM database might just be taking 
 **Hint:** When you deactivate a client - put a note in the notes field to say           why first.
 
 
-![](CRM-DeactivateContact.jpg)
-​​​​​Figure: Once a contact moves on or their details are no longer relevant, deactivate them
+![Once a contact moves on or their details are no longer relevant, deactivate them](CRM-DeactivateContact.jpg)

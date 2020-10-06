@@ -9,10 +9,9 @@ authors:
 
 ---
 
-Any time you come to some verbal arrangement with an employee, client or contractor, which creates or varies a contract (for example changes to rates, deliverables etc.​), it's crucial you draft the agreement yourself. <br>
+Any time you come to some verbal arrangement with an employee, client or contractor, which creates or varies a contract (for example changes to rates, deliverables etc.), it's crucial you draft the agreement yourself. <br>
  
-![ Can you really trust the other side to draft the agreement correctly?](SuccessfulProjects_DraftAgreementYourself.jpg) 
-
+![Can you really trust the other side to draft the agreement correctly?](SuccessfulProjects_DraftAgreementYourself.jpg)
 Sometimes, especially if you are an efficient manager and enjoy delegating, it's tempting to ask the other party to write up the change. This is a major risk:
 
 1. The other party may not even get around to drafting the agreement leaving you without a paper trail

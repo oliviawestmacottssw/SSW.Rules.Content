@@ -32,7 +32,7 @@ Figure: Bad Example – By default a 200 status code is returned.
  return response;
  }
 Figure: Good Example – When creating objects the “Created” status code is returned. 
-​public void PutProduct(int id, Product product)
+public void PutProduct(int id, Product product)
  {
      product.Id = id;
      if (!repository.Update(product))
@@ -40,4 +40,4 @@ Figure: Good Example – When creating objects the “Created” status code is 
 return Request.CreateResponse(HttpStatusCode.NotFound, ex.Message);
      }
  }
-Figure: Good Example – When updating or deleting objects, if the object to be modified cannot be found throw exception with HttpStatusCode.NotFound ​
+Figure: Good Example – When updating or deleting objects, if the object to be modified cannot be found throw exception with HttpStatusCode.NotFound

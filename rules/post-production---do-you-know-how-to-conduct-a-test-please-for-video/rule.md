@@ -7,9 +7,9 @@ authors: []
 
 ---
 
-​​It's best to conduct an internal and external test procedure for videos. This ensures that you meet your internal standards and follow the necessary rules that relate to video content creation.
+It's best to conduct an internal and external test procedure for videos. This ensures that you meet your internal standards and follow the necessary rules that relate to video content creation.
 
-You can also identify errors and inconsistencies that can be addressed for a second edit, before going live.​
+You can also identify errors and inconsistencies that can be addressed for a second edit, before going live.
  
 
 1. Complete the video editing (Version 1)
@@ -29,6 +29,6 @@ You can also identify errors and inconsistencies that can be addressed for a sec
     4. If response isn’t submitted within designated time, the process moves to the next step
 7. Make changes to video from feedback
 8. Respond to each email with Done’s and reasons for Not Done’s
-9. Make post on tv.ssw.com for video – embed the YouTube ​upload
+9. Make post on tv.ssw.com for video – embed the YouTube upload
 10. Send final test please – not for major changes (spelling mistakes, glaring faults etc.)
     1. If there is no response within 48 hours, we go live

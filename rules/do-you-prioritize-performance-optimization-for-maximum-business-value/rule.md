@@ -11,9 +11,9 @@ authors:
 
 ---
 
-Like any development, performance optimization requires development time and should therefore be prioritized for business value.​​
+Like any development, performance optimization requires development time and should therefore be prioritized for business value.
 
-​Include the following considerations:
+Include the following considerations:
 
 - What is the preferred performance for this feature?
 - What represents an acceptable performance metric?
@@ -22,15 +22,15 @@ Like any development, performance optimization requires development time and sho
 - Are we planning to significantly change this feature in the near future?
 
  
-​Hi Adam,
+Hi Adam,
 
 As per our conversation, we have identified 2 slow queries:
-​
+
 Query 1: On the “Edit Item” screen (admin only) we have identified 4 separate SQL queries that can be rewritten as one. We estimate that this will reduce the response time by 1.5 seconds. Only a few admin users will be affected
 Query 2: On the Home page is a query that currently takes 1 second that we can reduce to ½ a second. This affects all users.
 
 We optimized the "Edit Item" page because that had the biggest measurable improvement.
-​Bad example: although the admin page has a bigger potential saving, the home page affects all users and therefore probably has a higher business value. Business value should be determined by the Product Owner, not the developer
+Bad example: although the admin page has a bigger potential saving, the home page affects all users and therefore probably has a higher business value. Business value should be determined by the Product Owner, not the developer
 
 
 Hi Adam,
@@ -44,10 +44,10 @@ Recommended actions:
 - Ensure that performance metrics are included in the acceptance criteria of the migration PBI
 
 1.	Please “reply all” with changes or your acceptance.
-​​Good example: there is little business value in optimizing code that will soon be replaced – but the final decision on business value is left to the Product Owner​
+Good example: there is little business value in optimizing code that will soon be replaced – but the final decision on business value is left to the Product Owner
 
-### Related Rules​​
+### Related Rules
 
 
 - [Do you know where your goal posts are?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=53e62d25-42c1-4938-8555-1d858826b9cd)
-- [Do you avoid reviewing performance without metrics?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ce49995e-7a6e-47fb-9463-2cdf1ac3395e)​
+- [Do you avoid reviewing performance without metrics?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ce49995e-7a6e-47fb-9463-2cdf1ac3395e)

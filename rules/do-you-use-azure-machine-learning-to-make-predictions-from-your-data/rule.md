@@ -9,8 +9,7 @@ authors:
 
 ---
 
-Azure Machine Learning provides an easy to use yet feature rich platform for conducting machine learning experiments.  This introduction provides an overview of ML Studio functionality, and how it can be used to model and predict interesting rule world problems.​
+Azure Machine Learning provides an easy to use yet feature rich platform for conducting machine learning experiments.  This introduction provides an overview of ML Studio functionality, and how it can be used to model and predict interesting rule world problems.
 
  
 `youtube: https://www.youtube.com/embed/sUN5eIfbVM0?start=4120`
-​

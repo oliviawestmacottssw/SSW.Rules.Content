@@ -16,6 +16,5 @@ Bitly helps you easily save & share links over the web. You can:
 - Check on your stats to see how your bitmarks fared on the interwebs
 
  
-![ bit.ly provides a detailed stats page for all your links](bitly-stats-general.jpg)
-
-![ bit.ly provides a detailed stats page for a single link](bitly-stats.jpg)
+![bit.ly provides a detailed stats page for all your links](bitly-stats-general.jpg)
+![bit.ly provides a detailed stats page for a single link](bitly-stats.jpg)

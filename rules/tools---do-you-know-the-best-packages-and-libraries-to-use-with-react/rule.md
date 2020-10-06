@@ -9,7 +9,7 @@ authors: []
 
 The whole React ecosystem improves every month. Tons of additional tools, libraries and components are released to simplify the developer’s job and minimize the required effort. 
  
-### ​Starter kits
+### Starter kits
 
 Developers still struggle on making a decision on how to setup their React project when joining the React community. There are thousands of boilerplate projects to choose from and every boilerplate project attempts to fulfil different needs. They vary in a range of minimalistic to almost bloated projects. Here are 2 great Starter kits for React developers.
 

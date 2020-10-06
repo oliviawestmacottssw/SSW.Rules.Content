@@ -9,7 +9,7 @@ authors:
 
 ---
 
-It is quite common for a company to do a specification​ review, and then take the resulting estimates back to the business, and spend a long time getting other quotes or weighing up their options.
+It is quite common for a company to do a specification review, and then take the resulting estimates back to the business, and spend a long time getting other quotes or weighing up their options.
  
 This often means it's hard to get information out of the client as they tend to go dark, and also makes it hard for you to adjust the offer to ensure they get what they really need.
 

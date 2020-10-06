@@ -17,4 +17,4 @@ To prevent spelling or grammatical errors in the text content of a rule, you sho
 4. Check in the page and repeat steps 2-3 until Link Auditor has all green ticks (alternatively, you can use "Check my links" app of Google Chrome to find the broken links)
 
 We also have a rule: [Adding a rule in as px](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesDevelopment.aspx#StepsAfterAddRuleOnAspxPage)  
-![ SharePoint as a content management system  ](SPedit.jpg)
+![SharePoint as a content management system](SPedit.jpg)

@@ -81,8 +81,6 @@ index:
 - do-you-use-great-email-signatures
 
 ---
-​​​​​​​​​​​​
-
 [
 ![](Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx) 
 
@@ -114,5 +112,4 @@ Email can be a vital tool to your company and your software development project,
  
 
 Do you agree with them all? Are we missing some? Email us your tips, thoughts or arguments. [Let us know](javascript:sendEmail%28'6D61696C746F3A496E666F407373772E636F6D2E61753F5375626A6563743D52756C6573253230746F253230426574746572253230456D61696C'%29) what you think.
- ​​
 

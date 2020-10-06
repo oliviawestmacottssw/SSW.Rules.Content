@@ -14,11 +14,9 @@ authors:
 A Favicon is a small image file included on professionally developed sites. The favicon reflects the look and feel of the website or the organizations' visual identity.
  
 [[badExample]]
-| ![ Bad Example - When you don't add a favicon the user sees a generic icon](favicon-bad.jpg)
-
+| ![When you don't add a favicon the user sees a generic icon](favicon-bad.jpg)
 [[goodExample]]
-| ![ Good Example - Using the favicon gives your website professional look and feel](favicon-good.jpg) 
-
+| ![Using the favicon gives your website professional look and feel](favicon-good.jpg)
 ### Which formats and sizes to use?
 
 The format of the image must be one of PNG (a W3C standard), GIF, or ICO. You can export your favicon in all necessary sizes on [Favicon Generator website](https://realfavicongenerator.net/).
@@ -35,4 +33,4 @@ Page Title
 **
 This works for most websites, including ASPX WebForms, MVC and WordPress.
 
-We have        [SSW CodeAuditor](https://www.ssw.com.au/ssw/CodeAuditor/) and        [SSW LinkAuditor](https://www.ssw.com.au/ssw/LinkAuditor/) to check for this rule.​​
+We have        [SSW CodeAuditor](https://www.ssw.com.au/ssw/CodeAuditor/) and        [SSW LinkAuditor](https://www.ssw.com.au/ssw/LinkAuditor/) to check for this rule.

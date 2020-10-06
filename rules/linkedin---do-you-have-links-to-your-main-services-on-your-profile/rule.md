@@ -11,12 +11,10 @@ authors:
 
 ---
 
-​​LinkedIn is the main business and employment-oriented social networking service available. It's important to keep it up-to-date and link it to your company's services.
+LinkedIn is the main business and employment-oriented social networking service available. It's important to keep it up-to-date and link it to your company's services.
   
-![ Use the "Link" button in your profile "edit mode" to include the URLs for the main services your provide​](linkedin-links.jpg) 
-
+![Use the "Link" button in your profile "edit mode" to include the URLs for the main services your provide](linkedin-links.jpg)
 [[badExample]]
-| ![ Profile with no links](linkedin-url-bad.jpg)
-
+| ![Profile with no links](linkedin-url-bad.jpg)
 [[goodExample]]
-| ![Profile with links to main services provided ](linkedin-url-good.jpg)
+| ![Profile with links to main services provided](linkedin-url-good.jpg)

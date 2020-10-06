@@ -11,7 +11,7 @@ authors:
 
 ---
 
-​TODO TIAGO: ADD IMAGE OF WINDOWS EXPLORER (4 files in it) AND ANOTHER WITH SHAREPOINT DOCUMENTS LIBRARY​
+TODO TIAGO: ADD IMAGE OF WINDOWS EXPLORER (4 files in it) AND ANOTHER WITH SHAREPOINT DOCUMENTS LIBRARY
 
 
 
@@ -34,22 +34,17 @@ To do this, you need to remove .url file type from your blocked file types in yo
 
 1) Enable "Content Type management" in your document library.
 
-![ Enable Content Type management in library setting](EnableContentTypeDocument.png)
-
+![Enable Content Type management in library setting](EnableContentTypeDocument.png)
 2) Add "Link to a Document" content type into the library.
 
-![ Add from existing site content type](AddExistContentType.png)
-
-![ Select "Link to a Document" content type](SelectLinkToADocumentType.png)
-
+![Add from existing site content type](AddExistContentType.png)
+![Select "Link to a Document" content type](SelectLinkToADocumentType.png)
 3) Create a "Link to a document" instance
 
-![ select "File | New Document ](CreateLinkToADocumentInstance.png)
-(dropdown) | Link to a document"
-![ Input "Name" and "URL"](InputLinkUrlAndName.png)
-
+![select "File | New Document](CreateLinkToADocumentInstance.png)(dropdown) | Link to a document"
+![Input "Name" and "URL"](InputLinkUrlAndName.png)
 4) Done
 
 You should be able to see the link type document in your library:
 
-![ Link type documents with the lovely shortcut icon](LinksTypeDocumentsWithShortcutIcon.png)
+![Link type documents with the lovely shortcut icon](LinksTypeDocumentsWithShortcutIcon.png)

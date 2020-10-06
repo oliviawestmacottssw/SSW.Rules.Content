@@ -11,7 +11,7 @@ authors:
 
 ---
 
-​Don't lose your Google juice when you rename a file. Do not use META refresh to redirect pages - "301" code is the most efficient and Search Engine Friendly method for webpage redirection. There are different ways to implement and it should preserve your search engine rankings for that particular page. If you have to change file names or move pages around, always use the code "301", which is interpreted as "moved permanently".​
+Don't lose your Google juice when you rename a file. Do not use META refresh to redirect pages - "301" code is the most efficient and Search Engine Friendly method for webpage redirection. There are different ways to implement and it should preserve your search engine rankings for that particular page. If you have to change file names or move pages around, always use the code "301", which is interpreted as "moved permanently".
  
 ### How to do a "301" redirect in .aspx
 

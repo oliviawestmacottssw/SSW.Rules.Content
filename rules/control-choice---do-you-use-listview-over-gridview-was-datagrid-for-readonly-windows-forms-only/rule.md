@@ -15,20 +15,17 @@ Yes a ListView looks nicer than a DataGrid, but a Datagrid is better because it 
 - Sort data - always useful when there are more than about 20 rows
 - DataBind - always saves heaps of code
 
-   ​ 
+    
 So our old rule was to always use the ugly DataGrid (although we were never happy about that).
  
 [[badExample]]
-| ![ Bad Example - The DataGrid is ugly ](../../assets/UsingDataGridWhenNotNeeded.gif) 
-
+| ![The DataGrid is ugly](../../assets/UsingDataGridWhenNotNeeded.gif)
 [[goodExample]]
-| ![ Good Example - A beautiful ListView - a nicer look over the datagrid](../../assets/SortableListView.gif) 
-
+| ![A beautiful ListView - a nicer look over the datagrid](../../assets/SortableListView.gif)
 So the listview looks nicer? If you are not convinced here is another one:
  
 [[goodExample]]
-| ![ Good Example - The appearance of DataGrid and ListView](../../assets/DatagridVSListview.gif) 
-
+| ![The appearance of DataGrid and ListView](../../assets/DatagridVSListview.gif)
 But another issue is how much code to write... For ListView you will need to write a bit of code to fill the list view...
 
 this.listView1.Items.Clear(); // stops drawing to speed up the process, draw right at the end. this.listView1.BeginUpdate(); foreach(DataRow dr in this.dataSet11.Tables[0].Rows) { ListViewItem lvi = new ListViewItem(new string[] {dr[0].ToString(),dr[1].ToString(),dr[2].ToString()}); lvi.Tag = dr; this.listView1.Items.Add(lvi); } this.listView1.EndUpdate();
@@ -55,8 +52,7 @@ Exception: Use the DataGrid when:
 
 - When not read only - i.e. users will be editing data directly from the cells.
 - You need more than 1 column with checkboxes, or the column with checkboxes can't be the first column. E.g.:  
-![ One place when you choose a DataGrid over a ListView is when you have 2 checkbox fields](../../assets/DataGrid2CheckBoxes.gif) 
-
+![One place when you choose a DataGrid over a ListView is when you have 2 checkbox fields](../../assets/DataGrid2CheckBoxes.gif)
 
 
 So in summary, if you don't want users to edit the data directly from the cell, and only the first column need checkboxes, then the ListView is always the better choice.

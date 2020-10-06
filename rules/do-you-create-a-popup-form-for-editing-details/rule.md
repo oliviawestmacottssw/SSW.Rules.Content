@@ -10,7 +10,6 @@ authors: []
 If you want to edit a single item in your form we suggest you use a  popup form. This gives each form a definite function and neat UI design.
  
 [[badExample]]
-| ![ Bad Example - Edit controls and main UI are messed up.](../../assets/NonePopupEditForm.gif)
-
+| ![Edit controls and main UI are messed up.](../../assets/NonePopupEditForm.gif)
 [[goodExample]]
-| ![ Good Example - Use a popup form to do edit.](../../assets/PopupEditForm.gif)
+| ![Use a popup form to do edit.](../../assets/PopupEditForm.gif)

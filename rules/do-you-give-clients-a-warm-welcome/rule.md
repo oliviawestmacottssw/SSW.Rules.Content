@@ -11,7 +11,7 @@ authors:
 
 ---
 
-​​When a client arrives, your job is to make them feel comfortable and impress them with your professionalism. It is important that clients have a consistent experience in their contact with your company.
+When a client arrives, your job is to make them feel comfortable and impress them with your professionalism. It is important that clients have a consistent experience in their contact with your company.
  
 
 - Leaving the client standing at the reception while finishing what you were doing
@@ -33,8 +33,8 @@ authors:
 - Use their names a few times early on to help you remember their name
 
 
- Figure: Good Example - You are starting off the meeting well​
+ Figure: Good Example - You are starting off the meeting well
 
-​​​
 
-​​​​​​You should do a role-play with your manager being the client. Then get feedback on how he/she found the experience.
+
+You should do a role-play with your manager being the client. Then get feedback on how he/she found the experience.

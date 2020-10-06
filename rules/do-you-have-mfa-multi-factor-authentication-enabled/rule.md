@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Do you protect your users and administrator accounts with more than one authentication method?​
+Do you protect your users and administrator accounts with more than one authentication method?
  
 What is Multi-Factor Authentication (MFA)?
 

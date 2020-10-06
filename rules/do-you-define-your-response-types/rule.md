@@ -11,10 +11,9 @@ authors:
 
 It is important to define your response types.
 
-![](bad-no-response-types.jpg)<br>dd>​Figure: Bad example – no response types
+![](bad-no-response-types.jpg)<br>dd>Figure: Bad example – no response types
 [[goodExample]]
-| ![ Good example – Response types ](good-response-types.png)
-(in .NET) 
+| ![Response types](good-response-types.png)(in .NET) 
 
 
 /// 
@@ -42,7 +41,7 @@ catch (ArgumentOutOfRangeException)
 return new BadRequestResult();
 }
 }
-Figure: Good example for swashbuckle - Even b​etter if you have .NET Core 2.1 use the strong typed ActionResult – see yellow​​
+Figure: Good example for swashbuckle - Even better if you have .NET Core 2.1 use the strong typed ActionResult – see yellow
 
 
 [HttpGet]
@@ -64,4 +63,4 @@ Figure: Good example for swashbuckle - Even b​etter if you have .NET Core 2.1 
                 return new BadRequestResult();
             }
         }
-Figure: Good example for nswag - Even better if you have .NET Core 2.1 use the strong typed ActionResult – see yellow​​
+Figure: Good example for nswag - Even better if you have .NET Core 2.1 use the strong typed ActionResult – see yellow

@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-​Nothing is worse than having your site down being unaware for a long period of time.
+Nothing is worse than having your site down being unaware for a long period of time.
  
 Application Insights can help you minimize the downtime by sending you an Email alert when your site becomes unavailable. You should create an availability test and enable the alert option as soon as your site goes live.
 
@@ -15,18 +15,13 @@ Application Insights can help you minimize the downtime by sending you an Email 
 ![](error 503.png)
 
 
-![](site down2.png)
-Bad example: Site was down over the weekend unnoticed
-​​
+![Site was down over the weekend unnoticed](site down2.png)
 
 
-![](test.png)
- Good example: Availability tests are created for multiple locations
 
-​​​
+![Availability tests are created for multiple locations](test.png)
 
 
-![](alert 2.png)
- Good example: Email alert is enabled to minimize the downtime
 
-​​
+
+![Email alert is enabled to minimize the downtime](alert 2.png)

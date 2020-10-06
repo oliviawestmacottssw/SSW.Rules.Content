@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​Tight project teams have a Daily 'Scrum' every day at the same time.
+Tight project teams have a Daily 'Scrum' every day at the same time.
 
 It was once called a 'stand-up meeting' but that discriminates people in wheelchairs.
 
@@ -50,10 +50,9 @@ Then you’ll be able to say to your Scrum Master, “I’ve had a look at the T
 
 At the end of the Scrum, the Scrum Master should     [review the current burn down](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=845e0bac-8c39-4acb-a62d-68b886f5ea2a) to check on the progress of the team.
 
-![ The burndown chart in tfs.visualstudio.com](burndowntfspreview.png)
+![The burndown chart in tfs.visualstudio.com](burndowntfspreview.png)
 
-
-**Tip 3: Keep a schedule of the Daily Scrum times on a wall (+ have a recurring appointment in Outlook)​​​**
+**Tip 3: Keep a schedule of the Daily Scrum times on a wall (+ have a recurring appointment in Outlook)**
 
 
 Subject: 🙋Daily Scrum –              **[Project Name]
@@ -72,8 +71,7 @@ Regards,
 
 Figure: Schedule a recurring Daily Scrum meeting in Outlook using this template
 
-![ Or you can use Microsoft Teams](teams-meeting-daily-scrum.jpg)
-
+![Or you can use Microsoft Teams](teams-meeting-daily-scrum.jpg)
 **Tip 4: Keep to the schedule. Same place, same time (and start even if people are missing)**
 
 Get started on time. Especially in the beginning, people will be late, but the meeting should be held with the remaining people. Don't worry. People learn.
@@ -101,8 +99,7 @@ Technology in the Daily Scrum causes people to lose focus on the goal. The goal 
 
 A task board allows people to visualize what the team is talking about.
 
-![ The Task Board from tfs.visualstudio.com ](tfspreviewtaskboard.png)
-(TFS 2012)
+![The Task Board from tfs.visualstudio.com](tfspreviewtaskboard.png)(TFS 2012)
 **Tip 9: Carry a pen and paper**
 
 Use a pen and paper to jot things down.
@@ -114,8 +111,7 @@ A "Parking Lot" is the place for any discussions that stop the Team from answeri
 
 **Tip 11: If you have raised impediments, consider contacting the Product Owner **
 
-![ Often the Product Owner won’t be at the Scrum. However, call the Product Owner if you have an Impediment ](ProductOwnerTelephone.jpg)
-(aka Roadblock). Communication with the Product Owner is essential and if you haven't touched base with him in the few days, then do so. A disconnected or absent Product Owner is a sign of dysfunction.
+![Often the Product Owner won’t be at the Scrum. However, call the Product Owner if you have an Impediment](ProductOwnerTelephone.jpg)(aka Roadblock). Communication with the Product Owner is essential and if you haven't touched base with him in the few days, then do so. A disconnected or absent Product Owner is a sign of dysfunction.
 **Tip 12: What to do when you're working for a PO directly**
 
 If you don't have a team, and you're doing ad hoc work for a PO directly, it's best to contact him for the Daily Scrum every day if possible, and follow up with an email. This will keep the 2 of you synchronized.
@@ -183,10 +179,8 @@ The goal is to be productive for 8 hours of the day, so communicate with the res
 
 It is important that any major incidents are dealt with first. Start with any major incidents that occurred in the last 24 hours.
 
-![ Daily Scrums will alert everyone if there is a major problem and get all brains aligned in the right direction. There is no sense in putting a Band-Aid on a patient's scraped knee if there is a big knife in his eye](NewStandUpImage.jpg)
-!
-![ If you like this, <br>      ](dailyscrumtweet.png)
-[retweet](https://twitter.com/AdamCogan/status/168175594209681408)  ;)​
+![Daily Scrums will alert everyone if there is a major problem and get all brains aligned in the right direction. There is no sense in putting a Band-Aid on a patient's scraped knee if there is a big knife in his eye](NewStandUpImage.jpg)!
+![If you like this, <br>](dailyscrumtweet.png)[retweet](https://twitter.com/AdamCogan/status/168175594209681408)  ;)
 ### Related rule
 
-- [Do you use the status message in Teams?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8deaea57-532b-4446-9eb2-f906830dd222)​
+- [Do you use the status message in Teams?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=8deaea57-532b-4446-9eb2-f906830dd222)

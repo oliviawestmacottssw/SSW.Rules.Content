@@ -9,8 +9,7 @@ authors: []
 
 Question: What is wrong with this Picture?
 
-![ What is wrong?   ​](../../assets/InconsistentButtonStyles.jpg)
-
+![What is wrong?](../../assets/InconsistentButtonStyles.jpg)
 **Answer:** There are three different types of buttons in the Application:
 
 - *Next >* - Default Window Style
@@ -18,8 +17,7 @@ Question: What is wrong with this Picture?
 - *Cancel* - Window XP Style
 
 
-![ Even labels need to use FlatStyle.System. Can you spot the wrong label?](../../assets/BadDivider.gif)
-
+![Even labels need to use FlatStyle.System. Can you spot the wrong label?](../../assets/BadDivider.gif)
 See our [Rules to Better Windows Forms](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#XPThemes) to implement XP Themes in .NET.
 
 

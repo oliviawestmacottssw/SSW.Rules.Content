@@ -11,8 +11,7 @@ authors:
 
 When running code analysis you may need to ignore some rules that aren't relevant to your application. Visual Studio has a handy way of doing thing. 
 [[goodExample]]
-| ![ Good Example - The Solution and Projects are named consistently](code-analysis-bad-example.jpg)
-
+| ![The Solution and Projects are named consistently](code-analysis-bad-example.jpg)
 ![](code-analysis-good-example.jpg)
 
 ```

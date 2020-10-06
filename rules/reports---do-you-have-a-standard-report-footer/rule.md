@@ -11,27 +11,24 @@ When designing custom applications you want to include branding on reports.     
  
 Include:
 
-1. ​​Date and Time Printed and User who printed it - see warning below (e.g. Printed by SSW2000\JatinValabjee on 3/1/2006 3:16:30 PM)
+1. Date and Time Printed and User who printed it - see warning below (e.g. Printed by SSW2000\JatinValabjee on 3/1/2006 3:16:30 PM)
 2. Execution Time (e.g. Execution time: 1 minute, 10 seconds)
 3. Page x of y (e.g. Page 3 of 10)
 4. Link to company website + slogan  (e.g. www.ssw.com.au - Writing software people understand)
 
 
 
-![](RSRulesBadFooter.gif)
- 
-Bad Example - This footer doesn't provide any useful information 
+![Bad](RSRulesBadFooter.gif)
 
 
 
-![](RSRulesGoodFooter.gif)
-Good Example - Useful and informative information should be displayed in your report footer
+![Good](RSRulesGoodFooter.gif)
 
  
 
 Use these handy report expressions to show the above information.
 
-**NOTE:** Do not use System.DateTime.Now​ for your Execution Time because if you do it will return the result at time of printing the document/PDF.  Instead store the value in a variable (for example GroupExecutionTime) and then call that.
+**NOTE:** Do not use System.DateTime.Now for your Execution Time because if you do it will return the result at time of printing the document/PDF.  Instead store the value in a variable (for example GroupExecutionTime) and then call that.
 
 
 | Footer Item | Expression | Sample Output |
@@ -40,13 +37,12 @@ Use these handy report expressions to show the above information.
 | Execution Time |                             ="Execution Time: " +<br><br>                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).TotalSeconds < 1, "0 <br>                            seconds",<br>                            <br><br>                            (<br><br>                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Hours > 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Hours & " hour(s), ", "") +<br><br>                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Minutes > 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Minutes & " minute(s), ", <br>                            "") +<br><br>                            IIf((Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Seconds > 0, (Variables!GroupExecutionTime.Value.Subtract(Globals!ExecutionTime).Seconds & " second(s)", ""))<br><br>                            )<br>                         | Execution time: 1 minute, 10 seconds |
 |                             Page x of y<br>                         |                             ="Page " + Globals!PageNumber.ToString() + " of " + <br>                            Globals!TotalPages.ToString() |                             Page 3 of 10 |
 
-​​​ 
+ 
 
 
 
 
-![](footerInDesigner.gif)
-Good Example - Footer in visual studio designer
+![Good](footerInDesigner.gif)
 
  
 

@@ -17,8 +17,7 @@ Before a day starts it is not only important to have a list of what you plan on 
 You can use eXtreme Emails to communicate your "Morning Goals" using the following method:
  
 
-![ Sample Morning Goals Email ](MorningGoals.jpg)
-
+![Sample Morning Goals Email](MorningGoals.jpg)
 
 - Forward the previous morning goal from yesterday, striking out completed items
 - Comment (in a different colour) and give the reason whether any items were not completed
@@ -27,7 +26,6 @@ You can use eXtreme Emails to communicate your "Morning Goals" using the followi
 - If something more important arises during the day, we note it down on the next days morning goals.
 - If a task is huge (e.g. clean up my email inbox) and we only aim to do a portion of it, we say so in the morning goals as well.
     
-![ Morning Goal Item with a mini goal ](MorningGoalAims.gif)
-(140 emails)
+![Morning Goal Item with a mini goal](MorningGoalAims.gif)(140 emails)
 
 <br>CC the people you are working with on the email.

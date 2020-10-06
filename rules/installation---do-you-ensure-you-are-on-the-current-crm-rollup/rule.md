@@ -13,7 +13,7 @@ authors:
 
 Dynamics regularly receives updates, known as Rollups. Rollups are a set of cumulative updates and patches. It is important to ensure you are up to date as there many great enhancements (and the odd bug fix) that are included over time. 
  
-Past Rollups have included great improvements such as:​​
+Past Rollups have included great improvements such as:
 
 - Cross-browser support (finally support for Chrome, Safari (not iOS) and Firefox)
 - Windows Server OS support
@@ -24,4 +24,4 @@ Past Rollups have included great improvements such as:​​
 
 Dynamics Cumulative updates are available from [https://support.microsoft.com/en-au/help/3142345/microsoft-dynamics-365-onpremise-cumulative-updates](https&#58;//support.microsoft.com/en-au/help/3142345/microsoft-dynamics-365-onpremise-cumulative-updates)
 
-It is important to ensure you test each update before deploying it to a live environment and have a suitable rollback strategy.​
+It is important to ensure you test each update before deploying it to a live environment and have a suitable rollback strategy.

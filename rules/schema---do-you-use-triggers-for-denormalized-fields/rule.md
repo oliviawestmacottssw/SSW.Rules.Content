@@ -9,13 +9,13 @@ authors:
 
 ---
 
-Ideally you should be using computed columns as per https://rules.ssw.com.au/use-computed-columns-rather-than-denormalized-fields​
+Ideally you should be using computed columns as per https://rules.ssw.com.au/use-computed-columns-rather-than-denormalized-fields
 
-​​You can also have a denormalized field that is manually updated.  This should be the exception and not the rule.  When used properly and sparingly, they can actually improve your application's performance. As an example:
+You can also have a denormalized field that is manually updated.  This should be the exception and not the rule.  When used properly and sparingly, they can actually improve your application's performance. As an example:
 
 - You have an Orders table containing one record per order
 - You also have an OrderItems table which contains line items linked to the main OrderID, as well as subtotals for each line item
-- In your front end,​ you have a report showing the total for each order​
+- In your front end, you have a report showing the total for each order
 
  
 To generate this report, you can either:
@@ -24,9 +24,9 @@ To generate this report, you can either:
 2. Store the Order subtotal as a de-normalised field in the Orders table which gets updated using trigger.
 
 
-The second option will save me an expensive JOIN query each time because you​ can just tack the denormalised field onto the end of my SELECT query.
+The second option will save me an expensive JOIN query each time because you can just tack the denormalised field onto the end of my SELECT query.
 
-​1. Code: Alter Orders table​
+1. Code: Alter Orders table
 
 ALTER TABLE Orders
 ADD SumOfOrderItems money NULL

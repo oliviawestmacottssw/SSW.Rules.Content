@@ -21,18 +21,16 @@ There's room for considerable variation here. The in-memory models may share the
 
 CQRS means clear separation between Commands  (Write operations) and Queries (Read operations).
 
-CQRS can be used with complex architectures such as Event Sourcing but the concepts can also be applied to simpler applications with a single database.​
+CQRS can be used with complex architectures such as Event Sourcing but the concepts can also be applied to simpler applications with a single database.
  
-​MediatR is an open source .NET library by Jimmy Bogard that provides an elegant and powerful approach for writing CQRS, making it easier to write clean code.
+MediatR is an open source .NET library by Jimmy Bogard that provides an elegant and powerful approach for writing CQRS, making it easier to write clean code.
 
 For every command or query, you create a specific request class that explicitly defines the “input” required to invoke the operation.
 
-![ ](mediator-cqrs-1.png)
-(from mediatr MediatR docs) A Simple Request class
+![](mediator-cqrs-1.png)(from mediatr MediatR docs) A Simple Request class
 Then the implementation of that command or query is implemented in a handler class. The handler class is instantiated by a Dependency Injection container – so can use any of the configured dependencies (Repoistories, Entity Framework, services etc)
 
-![ A handler class](mediator-cqrs-2.png)
-
+![A handler class](mediator-cqrs-2.png)
 This approach brings many benefits:
 
 - Each command or query represents an atomic, well-defined operation such as "Get My Order Details" (Query) or "Add Product X to My Order" (Command)
@@ -48,7 +46,6 @@ This approach brings many benefits:
 
 
 [[badExample]]
-| ![ Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse](clean-architecture-bad.jpg)
-
+| ![Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse](clean-architecture-bad.jpg)
 [[goodExample]]
 | ![MediatR simplifies the dependencies injected into the controller. The incoming web request is simply mapped directly to a MediatR request that orchestrates all the logic for this operation. The implementation and dependencies needed to complete “GetItemForEdit” are free to change without needing to change the controller class](clean-architecture-good.jpg)

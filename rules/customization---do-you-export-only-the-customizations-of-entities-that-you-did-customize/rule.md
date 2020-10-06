@@ -19,4 +19,4 @@ This way, if an entity is changed or broken on the Live environment, you can re-
 
 Instead of exporting each single entity, you can also export only your customized           entities in 1 step, and afterwards select what entities to import
 
-![ You can select the single customization to import<br>          ](CRM_CUS_01.JPG)
+![You can select the single customization to import<br>](CRM_CUS_01.JPG)

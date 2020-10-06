@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​ There are five interrelated issues that undermine the performance of a team:
+There are five interrelated issues that undermine the performance of a team:
 
 1. **Absence of trust **
 If the members of the team do not trust each other then they cannot be totally honest with each other.
@@ -23,4 +23,4 @@ If they are not committed to the course of action, then they are less likely to 
 Consequently, they are less likely to care about the group results (and instead focus on achieving their own goals).
 
  
-​These are from the excellent book,     [The Five Dysfunctions of a Team](http&#58;//www.amazon.com/The-Five-Dysfunctions-Team-Leadership/dp/0787960756) by Patrick Lencioni.​
+These are from the excellent book,     [The Five Dysfunctions of a Team](http&#58;//www.amazon.com/The-Five-Dysfunctions-Team-Leadership/dp/0787960756) by Patrick Lencioni.

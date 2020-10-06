@@ -9,7 +9,7 @@ authors:
 
 ---
 
-People aim for 100% Unit Test Coverage but in the real world, this is 100% impractical. Actually it seems that the most popular metric in TDD (Test Driven Development) is to aim for 100% of methods to be unit tested. However, in the real world, this goal is rarely, if ever, achieved. Unit tests are created to validate and assert that public and protected methods of a class meet an expected outcome based on varying input. This includes both good and bad data being tested, to ensure the method behaves as expected and returns the correct result or traps any errors.​​
+People aim for 100% Unit Test Coverage but in the real world, this is 100% impractical. Actually it seems that the most popular metric in TDD (Test Driven Development) is to aim for 100% of methods to be unit tested. However, in the real world, this goal is rarely, if ever, achieved. Unit tests are created to validate and assert that public and protected methods of a class meet an expected outcome based on varying input. This includes both good and bad data being tested, to ensure the method behaves as expected and returns the correct result or traps any errors.
  
 Generally, private methods should not have unit tests written for them as they are not exposed to other objects outside the original class. These private methods are likely to be refactored (eg. changed, renamed) over time and will require the unit tests to be updated and this becomes a maintenance nightmare. So how do private methods get tested? Private methods should be tested by the unit tests on the public and protected methods calling them and this will indirectly test the private method behaves as intended.
 

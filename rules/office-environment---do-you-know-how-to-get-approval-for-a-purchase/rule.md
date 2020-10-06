@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​​When you need to spend money, don't assume you will get authorization – make sure you have approval before spending the money.
+When you need to spend money, don't assume you will get authorization – make sure you have approval before spending the money.
  
 Let's have a look at the best way to get authorization:
 
@@ -27,14 +27,12 @@ Let's have a look at the best way to get authorization:
 
  
 [[badExample]]
-| ![ Bad Example - this expense will not be reimbursed  ](purchase-please-bad-example.jpg)  
-
+| ![this expense will not be reimbursed](purchase-please-bad-example.jpg)
 [[goodExample]]
-| ![ Good Example - this expense will be reimbursed, if David gets a reply from Adam](purchase-please-good-example.jpg)  
-
+| ![this expense will be reimbursed, if David gets a reply from Adam](purchase-please-good-example.jpg)
 ### Related Rule 
 
 
 
 
-- [​Do you manage up? (give a recommendation)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ba07b0d2-ccce-4584-a636-f3a5d9bec2cf)
+- [Do you manage up? (give a recommendation)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ba07b0d2-ccce-4584-a636-f3a5d9bec2cf)

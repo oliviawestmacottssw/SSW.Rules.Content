@@ -15,8 +15,7 @@ authors:
 
 **My Site** and **My Profile** are great but if you are not using them, it makes sense to remove them:
 
-![ Links need to be hidden](LinksNeedToBeRemove.png) 
-
+![Links need to be hidden](LinksNeedToBeRemove.png)
 
 You can follow below steps to hide “My Site” and “My Profile”,
 <br>There are a few options, based on what you need to do:
@@ -27,8 +26,7 @@ You can follow below steps to hide “My Site” and “My Profile”,
 > a. Go to **Central Admin**     | **Application Management** | **Service Applications**     | **Configure service application associations**, 
 >      Choose “default” link:     
 > 
-![ Choose “default” link](RemoveAssociation.png)
-
+![Choose “default” link](RemoveAssociation.png)
 > 
 > b.Uncheck the “**User Profile Service Application**”  in the     opened page, then click “**OK**”:
 ![](RemoveAssociation2.png)

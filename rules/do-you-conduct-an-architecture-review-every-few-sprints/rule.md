@@ -52,7 +52,7 @@ The following are items that are addressed in an architecture/code review:
     - SharePoint
 - Usage Telemetry
 - Performance Monitoring
-- ​Data migrations
+- Data migrations
 - Data reporting
 - User experience
 - Network

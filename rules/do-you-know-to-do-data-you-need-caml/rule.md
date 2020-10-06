@@ -49,9 +49,7 @@ name="Status" />             Completed                                        Na
 
      Figure: Example of CAML query
 2. SharePoint is not good at telling you if you made a mistake with your CAML query. 
-![ Debug error message](CAMLError.png)      
-
+![Debug error message](CAMLError.png)
 3. Hard to debug.
 Tips: Use 3rd Party tools - U2U CAML Query Builder<br>    
-![ U2U CAML Query BuilderNote: U2U CAML Builder is the best tool that we have. There are some occasional UI and interface issues, but for creating CAML and testing it against live SharePoint lists it gets the job done. And it’s FREE](U2U.png)      
-!
+![U2U CAML Query BuilderNote: U2U CAML Builder is the best tool that we have. There are some occasional UI and interface issues, but for creating CAML and testing it against live SharePoint lists it gets the job done. And it’s FREE](U2U.png)!

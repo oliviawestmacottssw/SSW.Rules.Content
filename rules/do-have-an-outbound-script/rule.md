@@ -9,7 +9,7 @@ authors:
 
 ---
 
-An outbound script forms the foundation of all sales. It is important before you start calling your prospects to have an outbound script memorized. Whilst you will know your script verbatim you should find an equal need to be flexible throughout the conversation and adapt the call to suit each person you call.​​​​
+An outbound script forms the foundation of all sales. It is important before you start calling your prospects to have an outbound script memorized. Whilst you will know your script verbatim you should find an equal need to be flexible throughout the conversation and adapt the call to suit each person you call.
  
 As a guide, your outbound script should have at least these things:
 
@@ -26,4 +26,4 @@ An important point to remember is that you are speaking with another human and p
 
 Assume for a minute you're a professional athlete and are preparing for an event at some time in the immediate future. You spend the majority of your time practicing and trying to perfect your shot, jump or speed. Only a fraction of your time is actually spent competing. So why should it be any different in business? This same concept should always be adapted to your outbound script as you're only going to be spending a fraction of the time on the phone and you want to get it right on the day.
 
-Practice on your script should always be with someone else in your company that has more knowledge of the topic than you. This will give you far greater experience by having to answer questions and deal with stronger objections than what you will more than likely get from your actual call. Remember a professional tennis player does not become number 1 in the world by practicing against mere amateurs; he practices against the best to be the best! DO THE SAME!​
+Practice on your script should always be with someone else in your company that has more knowledge of the topic than you. This will give you far greater experience by having to answer questions and deal with stronger objections than what you will more than likely get from your actual call. Remember a professional tennis player does not become number 1 in the world by practicing against mere amateurs; he practices against the best to be the best! DO THE SAME!

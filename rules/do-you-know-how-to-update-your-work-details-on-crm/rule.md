@@ -9,7 +9,4 @@ authors: []
 
 Not only that you can add or update clients' detail, but you can also update your work details on CRM, given that you have credentials to do so.
 
-Here are the steps to modify your work details:​
-
- 
-​​
+Here are the steps to modify your work details:

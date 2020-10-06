@@ -11,10 +11,10 @@ authors:
 
 ---
 
-​​​​​Words like “verses” and “versus” are homophones, meaning they are pronounced the same, but have different spellings and different meanings.
+Words like “verses” and “versus” are homophones, meaning they are pronounced the same, but have different spellings and different meanings.
 
 When using a homophone in a sentence, it is important to ensure you are using the correct word, as if you are not, it won’t be picked up by your spell check and you'll look less intelligent.
-   ​In this case, “verses” refers to lines of poetry or bible passages. “Versus” refers to 2 or more parties in opposition to one another, especially in sports or legal situations.
+   In this case, “verses” refers to lines of poetry or bible passages. “Versus” refers to 2 or more parties in opposition to one another, especially in sports or legal situations.
 
 
 
@@ -36,7 +36,5 @@ Figure: Bad example: Floyd did not poetry<br>Mayweather
 Figure: Good example: in a legal context, “versus”<br>is abbreviated to “v.”
 
 
-"Adam penned many verses about his lo​ve for .NET development"
-Figure: Good example​
-
-​
+"Adam penned many verses about his love for .NET development"
+Figure: Good example

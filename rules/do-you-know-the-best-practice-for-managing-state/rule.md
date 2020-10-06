@@ -11,14 +11,12 @@ authors:
 
 ---
 
-​State management is complex and time-consuming.​​​​​
+State management is complex and time-consuming.
  
 The redux pattern helps resolve this issue.
 
-![](maintaining-state.png)
-Bad example: maintaining state on individual components
-![](redux-logo.png) 
- Good example: use the redux pattern
+![maintaining state on individual components](maintaining-state.png)
+![use the redux pattern](redux-logo.png)
 The 4 principles of the redux pattern:
 
 1. The entire state of the application is represented in a single JavaScript object called a store [https://redux.js.org/docs/basics/Store.html].

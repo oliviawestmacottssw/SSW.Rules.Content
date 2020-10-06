@@ -16,5 +16,4 @@ After the database has finished being attached to the web application you will g
 
 
 
-![](FixEventLogs.png)
-figure: the event log should show 0 errors after fixing the errors
+![the event log should show 0 errors after fixing the errors](FixEventLogs.png)

@@ -22,7 +22,7 @@ Before starting a software project and evaluating a new technology, it is import
 ### SQL Server 2017 and Azure SQL Database
 
 
-- ​​​**WideWorldImporters Sample Database** - [https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers](https&#58;//github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
+- **WideWorldImporters Sample Database** - [https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers](https&#58;//github.com/Microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
 
 
 

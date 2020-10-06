@@ -15,7 +15,7 @@ Developers love doing things in their own time, investigating interesting things
 <br>    Note: If you can't have a meeting, a phone call must make do.
 2. Have a Sprint Plan
 3. A Sprint Review and Retro when the release is done.
-4. A mark /10 - from the client.  ​
+4. A mark /10 - from the client.  
 <br>
 
 

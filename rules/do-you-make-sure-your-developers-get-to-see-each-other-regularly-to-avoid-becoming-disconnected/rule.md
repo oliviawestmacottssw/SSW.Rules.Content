@@ -9,10 +9,10 @@ authors:
 
 ---
 
-Working onsite has a number of benefits such as increased communication with the client and increased perception of value. However, if a developer is onsite for an extended period, they can start to feel disconnected from your company and their co-workers​.
-​
+Working onsite has a number of benefits such as increased communication with the client and increased perception of value. However, if a developer is onsite for an extended period, they can start to feel disconnected from your company and their co-workers.
+
 
  
-​The solution is to bring them back to the office 1-2 days a week to reconnect with everyone and still feel like they're part of a larger organization.
+The solution is to bring them back to the office 1-2 days a week to reconnect with everyone and still feel like they're part of a larger organization.
 
-This should be organized​ up front with the client when making the booking.​
+This should be organized up front with the client when making the booking.

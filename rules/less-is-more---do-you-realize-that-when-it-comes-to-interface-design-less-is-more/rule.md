@@ -8,7 +8,7 @@ authors: []
 ---
 
 'Less is more' is the idea that simplicity and clarity lead to good design. The interface design is an attempt to solve the problem of how to communicate clearly.
-   ​
+   
 How to make a user interface great:
 
 - Less is more - keep your design as simple and uncluttered as possible
@@ -23,14 +23,10 @@ It might be fantastic under the covers, but if the user interface is not intuiti
 Do yourself a favor, take some time to think about UI first.
 
 [[badExample]]
-| ![ Bad Example - An example of a poor UI](../../assets/badui2.jpg)
-
+| ![An example of a poor UI](../../assets/badui2.jpg)
 [[badExample]]
-| ![ Bad Example - Functional overload ](../../assets/bad-functionaloverload1.jpg)
-(a programmer probably designed this one)
+| ![Functional overload](../../assets/bad-functionaloverload1.jpg)(a programmer probably designed this one)
 [[badExample]]
-| ![ Bad Example - Another example of Functional overload](../../assets/bad-functionaloverload2.jpg)
-
+| ![Another example of Functional overload](../../assets/bad-functionaloverload2.jpg)
 [[goodExample]]
-| ![ Good Example - Outlook.com ](OutlookCom.png)
-(the replacement to Hotmail), streamlined functionality and minimal
+| ![Outlook.com](OutlookCom.png)(the replacement to Hotmail), streamlined functionality and minimal

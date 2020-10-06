@@ -15,4 +15,4 @@ It's good to catch any mistakes early, so that you know the requirements early o
 
 Do whatever you have to do e.g. drive to your boss' house to get this done! It can save you days of work down the track.
 
-![ Weekly ledger](General Ledger.jpg)
+![Weekly ledger](General Ledger.jpg)

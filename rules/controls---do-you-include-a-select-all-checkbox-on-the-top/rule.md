@@ -9,25 +9,18 @@ authors:
 
 ---
 
-​​Do you have checkbox (on the top) that let users select or unselect all checkboxes underneath it? If you have a list of checkboxes, you are going to frustrate users unless you provide an easy way to select all. The best way to achieve this is to have a checkbox at the top.
-   ​   
+Do you have checkbox (on the top) that let users select or unselect all checkboxes underneath it? If you have a list of checkboxes, you are going to frustrate users unless you provide an easy way to select all. The best way to achieve this is to have a checkbox at the top.
+      
 [[goodExample]]
-| ![ Good Example - Hotmail does this ](../../assets/HotmailSelectAll.gif) 
-
-![ Google have done it a different way to provide multiple methods ](../../assets/GmailSelectAll.gif) 
-(All, All Read, All Unread, All Starred, and All Unstarred) 
+| ![Hotmail does this](../../assets/HotmailSelectAll.gif)
+![Google have done it a different way to provide multiple methods](../../assets/GmailSelectAll.gif)(All, All Read, All Unread, All Starred, and All Unstarred) 
 [[badExample]]
-| ![ Bad Example - SQL Auditor - No CheckBox for users to perform a "select all" ](../../assets/SQLAuditorSelectAll_Bad.jpg) 
-
+| ![SQL Auditor - No CheckBox for users to perform a "select all"](../../assets/SQLAuditorSelectAll_Bad.jpg)
 [[goodExample]]
-| ![ Good Example - SQL Auditor - CheckBox at the top of the column  ](../../assets/SQLAuditorSelectAll_good.jpg) 
-
-![ Selecting all does this - selects all ](../../assets/SQLAuditorSelectAll_All.jpg)
-
-![ Deselecting all does this - selects none ](../../assets/SQLAuditorSelectAll_None.jpg) 
-
-![ Selecting some should show the Indeterminate check state - aka customized selection](../../assets/SQLAuditorSelectAll_Customize.jpg) 
-
+| ![SQL Auditor - CheckBox at the top of the column](../../assets/SQLAuditorSelectAll_good.jpg)
+![Selecting all does this - selects all](../../assets/SQLAuditorSelectAll_All.jpg)
+![Deselecting all does this - selects none](../../assets/SQLAuditorSelectAll_None.jpg)
+![Selecting some should show the Indeterminate check state - aka customized selection](../../assets/SQLAuditorSelectAll_Customize.jpg)
 Private Sub CheckBoxSelectAll\_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) \_
 Handles CheckBoxSelectAll.CheckedChanged
 'Select checkbox in each row
@@ -36,8 +29,7 @@ sDataGridViewRow.Cells(0).Value = Me.CheckBoxSelectAll.Checked
 Next
 End Sub
 Code: Code for selecting all checkboxes in a windows form 
-![ Select all checkboxes in a web form](../../assets/SelectAllCheckBox_Web.jpg) 
-
-<br>function SeleteCheckBox()<br>{ <br>for (var n=0; n < document.form1.elements.length; n++) <br>{<br>if (document.form1.elements[n].type == "checkbox" && document.form1.elements[n].name == "gridview")<br>{<br>document.form1.elements[n].checked = document.getElementById("CheckBoxAll").checked; <br>}<br>}<br>} <br>​
+![Select all checkboxes in a web form](../../assets/SelectAllCheckBox_Web.jpg)
+<br>function SeleteCheckBox()<br>{ <br>for (var n=0; n < document.form1.elements.length; n++) <br>{<br>if (document.form1.elements[n].type == "checkbox" && document.form1.elements[n].name == "gridview")<br>{<br>document.form1.elements[n].checked = document.getElementById("CheckBoxAll").checked; <br>}<br>}<br>} <br>
  Code: Code for selecting all checkboxes in a web form
 We have suggestions for Visual Studio .NET about this at [A top CheckBox to "select all" in windows forms](http://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/MSForm.aspx#SelectAllCheckWindows) and [A top CheckBox to "select all" in web forms.](http://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/MSAjax.aspx#SelectAllCheckWeb)

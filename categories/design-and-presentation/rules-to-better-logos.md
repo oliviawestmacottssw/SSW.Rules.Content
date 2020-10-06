@@ -7,5 +7,5 @@ index:
 - do-you-know-which-formats-and-variations-to-create-for-a-logo
 
 ---
-​​​
+
 

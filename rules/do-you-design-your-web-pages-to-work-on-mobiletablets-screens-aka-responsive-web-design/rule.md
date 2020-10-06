@@ -16,8 +16,7 @@ You may be nicely equipped with a 21" monitor running at a resolution of 1920x14
 Your website should work nicely on screens that vary from a mobile/tablet to a large PC monitor.
   
 [[goodExample]]
-| ![A modern website adapts to different screens](Responsive-Design.jpg) 
-
+| ![A modern website adapts to different screens](Responsive-Design.jpg)
 Google has a web tool to  [test how mobile-friendly your site is.](https://testmysite.thinkwithgoogle.com/)
 
 Know more at [Responsive Web Design: What It Is and How To Use It](http://www.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/).
@@ -31,4 +30,4 @@ When building websites targeting mobile devices it is only part of the solution,
 
 `youtube: https://www.youtube.com/embed/IUE6Ut0GXi4?rel=0`
  
-​Figure: Watch the [clip with Dino Esposito](http://tv.ssw.com/4681/writing-mobile-sites-lessons-learned-top-tips-web-developers) to find out why​
+Figure: Watch the [clip with Dino Esposito](http://tv.ssw.com/4681/writing-mobile-sites-lessons-learned-top-tips-web-developers) to find out why

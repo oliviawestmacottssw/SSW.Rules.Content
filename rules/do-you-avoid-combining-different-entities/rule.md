@@ -11,7 +11,6 @@ If the form controls are different entities, they usually have different  data a
                     Having the controls separated also make the form easier to read.
  
 [[badExample]]
-| ![ Bad Example - Different entities are combined](../../assets/AvoidCombiningBad.gif)
-
+| ![Different entities are combined](../../assets/AvoidCombiningBad.gif)
 [[goodExample]]
-| ![ Good Example - Different entities are separated](../../assets/AvoidCombiningGood.gif)
+| ![Different entities are separated](../../assets/AvoidCombiningGood.gif)

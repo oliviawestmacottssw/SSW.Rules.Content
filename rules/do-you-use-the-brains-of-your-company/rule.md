@@ -13,13 +13,13 @@ authors:
 
 ---
 
-​Employees are a company's best resource, but often there is no light shone on their knowledge. A great way of making this happen is to conduct a brainstorming day. Check out this video!
+Employees are a company's best resource, but often there is no light shone on their knowledge. A great way of making this happen is to conduct a brainstorming day. Check out this video!
  
 
 `youtube: https://www.youtube.com/embed/X1qJyKTbfXk`
 
- ​  
-​​Employees on the front line often have valuable insights into opportunities for improvement, what is painful, increased efficiency and even entirely new business ideas.​​ Empowering these employees with an annual brainstorming day is a great way to transform their good ideas into valuable solutions, as well as giving them the opportunity to learn and grow from each other. Also, many employees enjoy the opportunity to flex their creative muscles in fun ways that their day-to-day jobs may not always afford them.
+   
+Employees on the front line often have valuable insights into opportunities for improvement, what is painful, increased efficiency and even entirely new business ideas. Empowering these employees with an annual brainstorming day is a great way to transform their good ideas into valuable solutions, as well as giving them the opportunity to learn and grow from each other. Also, many employees enjoy the opportunity to flex their creative muscles in fun ways that their day-to-day jobs may not always afford them.
 
 Different companies have different approaches to this. For example:
 
@@ -48,7 +48,7 @@ The process is broken down into 2 key stages: preparation and participation.
 
 
 
-### ​ Preparation​​​​​ 
+###  Preparation 
 
 **1. Email Attendees**
 
@@ -59,15 +59,15 @@ e.g.:
 
 
 
-​     Hi All,
+     Hi All,
 
 I’m really excited about our brainstorming day! I hope you’re all thinking about what you would like to work on.
 
  To prepare for our Brainstorming day, send Adam and Matt W. something that you would like work on as a group.
- Eg. Our awesome SophieBot project came out of the Melbourne Brainstorming Session last year. ​  
+ Eg. Our awesome SophieBot project came out of the Melbourne Brainstorming Session last year.   
 
 See video on:     [https://rules.ssw.com.au/do-you-use-the-brains-of-your-company](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0ce40380-0daa-4f75-b289-de8f7de6683e)
-​ 
+ 
 
 **Agenda**
 
@@ -79,17 +79,17 @@ See video on:     [https://rules.ssw.com.au/do-you-use-the-brains-of-your-compan
 **10.30am** – Coffee order        
 **1pm** – Lunch        
 **2pm** – Continue work        
-**​4pm** - Presentations        
+**4pm** - Presentations        
 **6pm** – The pub
-[​Good Example: Email template for brainstorming attendees
+[Good Example: Email template for brainstorming attendees
 **2. Setup Trello**](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0ce40380-0daa-4f75-b289-de8f7de6683e)
-[Use Trello to manage and vote on the suggestions, using the](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0ce40380-0daa-4f75-b289-de8f7de6683e)[voting Power-Up](https://trello.com/power-ups/55a5d917446f517774210013/voting). First add the voting Power-Up, then​ set up your board for the day:
+[Use Trello to manage and vote on the suggestions, using the](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0ce40380-0daa-4f75-b289-de8f7de6683e)[voting Power-Up](https://trello.com/power-ups/55a5d917446f517774210013/voting). First add the voting Power-Up, then set up your board for the day:
 
-- ​Create a list called 'Retro - Highlights'
+- Create a list called 'Retro - Highlights'
 Add a template card ('[your name] - [your highlight]')
-- ​Create a list called 'Retro - Suggestions'
+- Create a list called 'Retro - Suggestions'
 Add a template card ('[your name] - [one thing to fix]')
-- ​Create a list called 'Todo - Vote'
+- Create a list called 'Todo - Vote'
 - Create a list called 'Chosen'
 
 
@@ -105,7 +105,7 @@ During the session, you will populate these lists with the input from the attend
 
 
 
-​By the time you get to the session, everyone should have emailed you through their suggestions. But it can still be intimidating for some people to be the first person to get up and share their idea with the group. To get the ball rolling, you should have some suggestions prepared in advance, preferrably provided by some of your team. Have them record a short video that 'sells' their idea, ready to show the attendees at the start of the session.​​​ -cover emailed suggestions, ask for new ones, talk about pre-cooked ones
+By the time you get to the session, everyone should have emailed you through their suggestions. But it can still be intimidating for some people to be the first person to get up and share their idea with the group. To get the ball rolling, you should have some suggestions prepared in advance, preferrably provided by some of your team. Have them record a short video that 'sells' their idea, ready to show the attendees at the start of the session. -cover emailed suggestions, ask for new ones, talk about pre-cooked ones
 
 ### Participation
 
@@ -133,8 +133,7 @@ Eg. "Guys, you've got 5 minutes to get your 3 votes in"
 
 
 
-​
-![](MicrosoftTeams-image.png)
-Good​ Example: A brainstorming session is like an office party but more productive​
-![](2019-12-07_16-06-18.png)​​​​Good Example: A Trello board with the voting power-up allows people to suggest and vote on ideas they would like to work on in the brainstorming session​​
-![](2019-12-07_16-26-04.png)​​Good Example: The selected ideas are moved from the Vote column to the Chosen column and the real fun begins!​
+
+![A brainstorming session is like an office party but more productive](MicrosoftTeams-image.png)
+![A Trello board with the voting power-up allows people to suggest and vote on ideas they would like to work on in the brainstorming session](2019-12-07_16-06-18.png)
+![The selected ideas are moved from the Vote column to the Chosen column and the real fun begins](2019-12-07_16-26-04.png)!

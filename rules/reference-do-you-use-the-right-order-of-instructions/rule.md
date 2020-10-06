@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​When writing the instructions for a series of operations, be sure you keep the operations in the right order. With a clear order, users will be less likely to be confused.
+When writing the instructions for a series of operations, be sure you keep the operations in the right order. With a clear order, users will be less likely to be confused.
  
 Select Options from the Tools Menu.
 

@@ -9,9 +9,8 @@ authors: []
 
 After upgrading TFS, you should do a quick [smoke test](http://en.wikipedia.org/wiki/Smoke_testing)   to ensure TFS is running as expected.
  
-​
-![ New TFS Title using our existing url](tfs title.png)
 
+![New TFS Title using our existing url](tfs title.png)
 
 a.      Navigate to the web access URL for your new TFS server.
 

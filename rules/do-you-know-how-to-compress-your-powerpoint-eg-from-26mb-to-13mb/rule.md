@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-​Unfortunately, when you “Send As Email” it doesn’t compress the file; this is how to compress a PowerPoint for emailing.
+Unfortunately, when you “Send As Email” it doesn’t compress the file; this is how to compress a PowerPoint for emailing.
  
 
 ### Remove the video from the master slide.
@@ -15,52 +15,43 @@ authors: []
 
 This has been done in the 3.8 release of the template, but for old templates you may have to do this manually.
 
-![ Go to the slide master](01.png)
-
-![ Find the slide layout "Presentation with Title and Video" and delete it. ​](02.png)
-
+![Go to the slide master](01.png)
+![Find the slide layout "Presentation with Title and Video" and delete it.](02.png)
  
 
 
 ### Compress ALL your images
 
-![ Go to the File menu](05.png)
-
-![ Select Options](06.png)
-
-![](07.png)​<br>​Figure: Apply settings. You may compress this further down to 96ppi if you must.​ <br>   
+![Go to the File menu](05.png)
+![Select Options](06.png)
+![](07.png)<br>Figure: Apply settings. You may compress this further down to 96ppi if you must. <br>   
 
 
 
 ### Compress individual images (not recommended)
 
-![ Find the Image Compression option](03.png) 
-
-![ Apply these settings and go for a coffee break. This may take a long time, depending on how many slides you have.](04.png)
-
+![Find the Image Compression option](03.png)
+![Apply these settings and go for a coffee break. This may take a long time, depending on how many slides you have.](04.png)
 
 
 
 ### Compress font - ONLY DO THIS WHEN YOU ARE FINISHED EDITING
 
 
-![ Apply these settings. Once you remove the font, you’re more likely to get missing font bugs when editing the file, so only do this step when you are done.](08.png)
-
+![Apply these settings. Once you remove the font, you’re more likely to get missing font bugs when editing the file, so only do this step when you are done.](08.png)
 
 
 
 ### Save as "YourFileName\_compressed.pptx."
- ​Do not override your original. You should always keep a high-res master of any media document.
+ Do not override your original. You should always keep a high-res master of any media document.
 
 
-If you find your files are still rather big after compression, you can export the PowerPoint to determine which particular slide is taking up all that space.        [http://www.addictivetips.com/windows-tips/find-which-slide-in-your-powerpoint-presentation-is-the-largest-in-size/​](http://www.addictivetips.com/windows-tips/find-which-slide-in-your-powerpoint-presentation-is-the-largest-in-size/)
+If you find your files are still rather big after compression, you can export the PowerPoint to determine which particular slide is taking up all that space.        [http://www.addictivetips.com/windows-tips/find-which-slide-in-your-powerpoint-presentation-is-the-largest-in-size/](http://www.addictivetips.com/windows-tips/find-which-slide-in-your-powerpoint-presentation-is-the-largest-in-size/)
 
 
 ### The result
 
 
-​Your own mileage may vary.
+Your own mileage may vary.
 
-![ We've compressed this particular file down by 50%](10.png)
-!
-​
+![We've compressed this particular file down by 50%](10.png)!

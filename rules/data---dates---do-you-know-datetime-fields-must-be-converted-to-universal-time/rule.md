@@ -11,12 +11,12 @@ authors:
 
 ---
 
-​​​​Any DateTime fields must be converted to universal time from the application to the stored procedures when storing data into the database.
+Any DateTime fields must be converted to universal time from the application to the stored procedures when storing data into the database.
 
 We can simplify dealing with datetime conversions by using a date and time API such as [Noda TIme](https&#58;//nodatime.org/).
  
-Noda Time uses the concept of an Instant representing a global point in time, which is first converted to UTC time and then to the users local time when required for display.​
-An Instant is the number of nanoseconds since January 1st 1970. Using an Instant gives more granularity than datetime because it uses nanoseconds rather than ticks (100 nanoseconds).​​
+Noda Time uses the concept of an Instant representing a global point in time, which is first converted to UTC time and then to the users local time when required for display.
+An Instant is the number of nanoseconds since January 1st 1970. Using an Instant gives more granularity than datetime because it uses nanoseconds rather than ticks (100 nanoseconds).
 
 //------ .NET DateTime Examples
 int year, month, day;
@@ -52,7 +52,7 @@ DateTime lastFriday = date.AddDays(-(startDate - target));         //    
 
 TimeSpan t1 = TimeSpan.FromDays(1.0);
 TimeSpan t2 = TimeSpan.FromHours(1.0);
-​
+
 int timespanCheck = TimeSpan.Compare(t1, t2);
 TimeSpan longestSpan;
 TimeSpan shortestSpan;
@@ -66,7 +66,7 @@ else if(timespanCheck &lt; 0)
     shortestSpan = t1;
     longestSpan = t2;
 }
-Figure: Bad Example - ​​Using .Net DateTime to manipulate dates and times.
+Figure: Bad Example - Using .Net DateTime to manipulate dates and times.
 
 //------    Noda Time Examples
 int year, month, day;
@@ -109,7 +109,7 @@ This cannot be converted to UTC in the database because that would mean:
 
 
 
-Currently, there will be an issue if for example, someone from the US (Pacific time) has 19 hours difference between her local time and our servers.​​​​​
+Currently, there will be an issue if for example, someone from the US (Pacific time) has 19 hours difference between her local time and our servers.
 
 **Example:** Sally in the US enters a timesheet for the 21/04/05. (which will default to have a time of 12:00:00 AM since the time was not specified)
 Our servers will store it as 21/04/05 19:00:00 in other words 21/04/05 07:00:00 PM because the .NET Framework will automatically convert the time accordingly for our Web Service.
@@ -119,8 +119,8 @@ Therefore our servers have to take the Date component of the DateTime and add th
 public double GetDateDifference(DateTime dateRemote) 
 { 
 DateTime dateLocal = dateRemote.Date; 
-​​return (dateRemote.TimeOfDay.TotalHours - ​​dateLocal.TimeOfDay.TotalHours); 
-​}
+return (dateRemote.TimeOfDay.TotalHours - dateLocal.TimeOfDay.TotalHours); 
+}
 
 **Figure: When dateRemote is passed in from the remote machine, .Net Framework will have already converted it to the UTC equivalent for the local server (i.e. the necessary hours would have been added to cater for the local server time).**
 

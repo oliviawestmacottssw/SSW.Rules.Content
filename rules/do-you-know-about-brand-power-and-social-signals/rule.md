@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​Social signals are human interaction metrics on social platforms like Facebook, Twitter, LinkedIn, Reddit, Medium, etc. Some examples of social signals are: likes, dislikes, shares, votes, pins, views, etc. which commonly help to showcase popularity and affinity for a specific piece of content.
+Social signals are human interaction metrics on social platforms like Facebook, Twitter, LinkedIn, Reddit, Medium, etc. Some examples of social signals are: likes, dislikes, shares, votes, pins, views, etc. which commonly help to showcase popularity and affinity for a specific piece of content.
 
 
 While social media doesn’t directly affect your Google ranking, social sharing does directly increase the visibility of your page. That increased visibility means it may get noticed by a creator of content, such as a blogger, journalist, or an author. That creator may mention it in a subsequent piece of content and if they linked to it, that page is then more likely to rank well.
@@ -22,4 +22,4 @@ Always include your social media signals, on your website so that people can eas
 
 
  
-![ How Social sharing indirectly affects your Google Ranking](sharing.png)
+![How Social sharing indirectly affects your Google Ranking](sharing.png)

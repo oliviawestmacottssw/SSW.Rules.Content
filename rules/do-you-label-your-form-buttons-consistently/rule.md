@@ -7,11 +7,10 @@ authors: []
 
 ---
 
-​The buttons that a user will typically use to close a form should be named consistently across your applications.
+The buttons that a user will typically use to close a form should be named consistently across your applications.
  
 [[badExample]]
-| ![ Bad Example - Unclear labels on the buttons](../../assets/ButtonLabels_Bad.gif)
-
+| ![Unclear labels on the buttons](../../assets/ButtonLabels_Bad.gif)
 - **Save** button could possibly update the fields but keep the form open.
 - **Close** could save the fields, then close the form, when the <br>      ** Cancel** button may be more appropriate.
 
@@ -24,6 +23,5 @@ We recommend the age-old standards of:
 
 
 [[goodExample]]
-| ![ Good Example - This form uses the standard button naming standards ](../../assets/OKCancelExampleDialog.jpg)
-(and has the Default buttons set!)
+| ![This form uses the standard button naming standards](../../assets/OKCancelExampleDialog.jpg)(and has the Default buttons set!)
 We have a program called     [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.

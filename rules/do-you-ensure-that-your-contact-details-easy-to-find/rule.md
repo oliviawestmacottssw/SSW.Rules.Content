@@ -11,4 +11,4 @@ It's crucial that contact details are placed exactly where the user expects to f
 
 SSW has its contact details in the top navigation, which is found on all pages across       the site.
  
-![ SSW's contact details on the web site](../../assets/MarketingContactBar.gif)
+![SSW's contact details on the web site](../../assets/MarketingContactBar.gif)

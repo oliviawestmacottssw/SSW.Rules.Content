@@ -10,9 +10,9 @@ authors:
 ---
 
 When building a simple API based on Entity Framework, It can be tempting to keep it simple and bind persistent entities directly to WebAPI output.
- ​
-![ Bad Example -​ A naive WebAPI implementation](bad-webapi.png)
-
+ 
+[[badExample]]
+| ![A naive WebAPI implementation](bad-webapi.png)
 Although this code is very simple to write, there can be a number of potential problems:
 
 - All fields in the entity will be sent to the client. Often there can be for-internal-use-only fields in a domain entity / database table that you do not want sent to the client. Or the particular client use-case does not require the full set of fields
@@ -24,14 +24,13 @@ Although this code is very simple to write, there can be a number of potential p
 Update operations can be even more problematic:
 
 [[badExample]]
-| ![ Bad Example - A naive update operation](bad-webapi-operation.png)
-
+| ![A naive update operation](bad-webapi-operation.png)
 Consider the Product object that is received as a [FromBody] parameter by the action.
 
 At the start of the action this is not a persistent entity that has been loaded from the database and attached to a DBContext. Instead it is an entirely new object that has been created by the MVC databinding system.
 
 
-​The next call to the DbContext will take that object – exactly as received and de-serialized from the network – and attach it as-is to the DBContext in the “Modified” state, to be later saved by the call to SaveChangesAsync()
+The next call to the DbContext will take that object – exactly as received and de-serialized from the network – and attach it as-is to the DBContext in the “Modified” state, to be later saved by the call to SaveChangesAsync()
 
 Any fields that did not survive the "round-trip" from the server -> client-> server will be overwritten / lost. The mapping from "Object received from the web" to "Object saved into the database" is entirely implicit here.
 
@@ -51,14 +50,12 @@ For all these reasons, the use of DTOs or View Models is highly recommended:
 
 ![](good-webapi-1.png)
 [[goodExample]]
-| ![ Good Example - Update an Entity from a submitted View Model](good-webapi-2.png)
-
+| ![Update an Entity from a submitted View Model](good-webapi-2.png)
 This approach requires a bit more boiler-plate code as the fields to be updated are applied manually, but there is far less risk of unintended side effects.
 As the complexity of the code increases, it will be much easier for developers to keep a clear distinction between ViewModel objects that were received from web requests, and persistent entities that came from Entity Framework.<br>   
-![](good-webapi-operation-1.png)​ <br>      
+![](good-webapi-operation-1.png) <br>      
 [[goodExample]]
-| ![ Good Example - A Read Operation that selects directly into a view model](good-webapi-operation-2.png)
-
+| ![A Read Operation that selects directly into a view model](good-webapi-operation-2.png)
 For the above read, Entity Framework will execute an SQL select statement containing only the fields that have been projected via .Select()  
 This will also prevent change tracking on the source entity.
 

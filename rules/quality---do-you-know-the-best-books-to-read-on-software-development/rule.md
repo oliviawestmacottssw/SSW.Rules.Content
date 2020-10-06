@@ -25,5 +25,5 @@ Although everyone learns differently, and some prefer video sites like [www.plur
 - [Design Patterns](http&#58;//www.amazon.com/Design-Patterns-Object-Oriented-Professional-Computing/dp/0201634988)(by the Gang of Four)
 - [The Pragmatic Programmer](http&#58;//www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X) (by Andrew Hunt)
 - [The Mythical Man Month](http&#58;//www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) (by Frederick P. Brooks)
-- [Test Driven Development: By Example](http&#58;//www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530) (by Kent Beck)​
-- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win​](http&#58;//www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=asap_bc?ie=UTF8) (by Gene Kim, Kevin Behr & George Spafford)
+- [Test Driven Development: By Example](http&#58;//www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530) (by Kent Beck)
+- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http&#58;//www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=asap_bc?ie=UTF8) (by Gene Kim, Kevin Behr & George Spafford)

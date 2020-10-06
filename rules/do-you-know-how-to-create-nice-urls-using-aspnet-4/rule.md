@@ -16,17 +16,15 @@ There are a lot of reasons to have nice URLs for your website:<br>
 
 
 [[badExample]]
-| ![ Bad example – This URL is impossible to remember for your users, and even search don’t like these URLs ](BadURL.jpg) 
-
+| ![This URL is impossible to remember for your users, and even search don’t like these URLs](BadURL.jpg)
 [[goodExample]]
-| ![ Good example – Nice clean URL, easy to remember, easy to guess where I am and good for search engines ](GoodURL.jpg) 
-
+| ![Nice clean URL, easy to remember, easy to guess where I am and good for search engines](GoodURL.jpg)
 With ASP.NET 4 it is easy to create this URLs. The ASP.NET team includes routing features, known from the MVC web framework.
  Add a route in Global.asax
 
 
 ```
-protected void Application_Start(object sender, EventArgs e){    //RouteTable and PageRouteHandler are in System.Web.Routing    RouteTable.Routes.Add("ProductRoute",        new Route("products/{productname}",        new PageRouteHandler("~/ssw/Products/ProdCategoryList.aspx")));}​
+protected void Application_Start(object sender, EventArgs e){    //RouteTable and PageRouteHandler are in System.Web.Routing    RouteTable.Routes.Add("ProductRoute",        new Route("products/{productname}",        new PageRouteHandler("~/ssw/Products/ProdCategoryList.aspx")));}
 ```
 
 Figure: Example on how to route www.ssw.com.au/products/{everything} to the www.ssw.com.au/ssw/Products/ProdCategoryList.aspx page 

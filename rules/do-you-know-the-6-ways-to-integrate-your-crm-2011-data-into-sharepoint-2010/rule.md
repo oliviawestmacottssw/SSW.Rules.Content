@@ -40,7 +40,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 ![](wrong.gif "clip_image004[15]")Only recently released. |
 
  
-![](figure5.jpg "clip_image010") ​
+![](figure5.jpg "clip_image010") 
 
 **More information:**    
     Download from Microsoft
@@ -56,8 +56,8 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 
 | Pros | Cons |
 | --- | --- |
-| ​
-![](correct.gif "clip_image002[2]")Best performance<br><br>​
+| 
+![](correct.gif "clip_image002[2]")Best performance<br><br>
 ![](correct.gif "clip_image002[2]")Codeless | 
 ![](wrong.gif "clip_image004")Read-only<br><br>
 ![](wrong.gif "clip_image004[1]")Not available for hosted CRM<br><br>
@@ -68,8 +68,7 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
     If you only want read-only for CRM on-premises data for SharePoint users, this solution is fine. You create the External Content Type directly against the Filtered Views in the CRM database.
     http://msdn.microsoft.com/en-us/library/gg328467.aspx
  
-![ The result of "SELECT \* FROM FilteredCtx\_Project". Use Office SharePoint Designer to hook this up](figure1.jpg "clip_image005") 
-
+![The result of "SELECT \* FROM FilteredCtx\_Project". Use Office SharePoint Designer to hook this up](figure1.jpg "clip_image005")
 ### Option 3: Web Services
     CRM provides web services.
     Summary: SharePoint BCS -> Code calling CRM web services - > CRM database
@@ -112,14 +111,11 @@ So it is really only suited to calling from Silverlight and JavaScript web resou
     1. Install [http://crm2011odatatool.codeplex.com](http://crm2011odatatool.codeplex.com/)
     2. Make a query
  
-![ Designing a query    3. See the data](figure2.jpg "clip_image006") 
-
+![Designing a query    3. See the data](figure2.jpg "clip_image006")
  
-![ See the data - RSS source for xtc\_countrySet    The second step ](figure3.jpg "clip_image007") 
-(and the problem) is consuming the data
+![See the data - RSS source for xtc\_countrySet    The second step](figure3.jpg "clip_image007")(and the problem) is consuming the data
  
-![ BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData    In summary, CRM 2011 can expose OData, but SharePoint 2010 BCS doesn't consume OData.](figure4.jpg "clip_image009") 
-
+![BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData    In summary, CRM 2011 can expose OData, but SharePoint 2010 BCS doesn't consume OData.](figure4.jpg "clip_image009")
     The 3 options to consume the OData/RSS data:
     Consume the OData by SQL Server, via TSQL ???    Then use BCS to call SQL Server. 
 Summary: SharePoint BCS -> DataSourceType: SQL Server -> OData- > CRM database
@@ -155,5 +151,3 @@ Summary: SharePoint RSS view web part -> OData- > CRM database
     - CRM 2011 exposes it data as OData, but cannot consume OData
     - SharePoint 2010 exposes it data as OData, but cannot consume OData
     ....and there are no 3rd party solutions to solve this...
-
-​

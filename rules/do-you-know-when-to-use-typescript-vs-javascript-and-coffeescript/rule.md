@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​TypeScript is the new flagship language from Microsoft that compiles into JavasScript.
+TypeScript is the new flagship language from Microsoft that compiles into JavasScript.
 
 - Use JavaScript if you’re writing page specific script
 - Use jQuery to improve cross-browser support
@@ -18,6 +18,5 @@ authors:
 
 Don't use CoffeeScript (language is too different from JavaSript)
  
-![ Good - TypeScript is very similar to JavaScript so it’s easy to learn, and also helps developers learn proper JavaScript coding practices​    ](typescript-good.jpg)
-
-![ Bad – CoffeeScript syntax is very different from JavaScript so it takes longer to learn ​](typescript-bad.jpg)
+![Good - TypeScript is very similar to JavaScript so it’s easy to learn, and also helps developers learn proper JavaScript coding practices](typescript-good.jpg)
+![Bad – CoffeeScript syntax is very different from JavaScript so it takes longer to learn](typescript-bad.jpg)

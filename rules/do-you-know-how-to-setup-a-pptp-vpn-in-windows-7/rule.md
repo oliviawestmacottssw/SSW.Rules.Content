@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​On the computer that you want to setup the VPN:<br>
+On the computer that you want to setup the VPN:<br>
  
 1. Go to Start | Control Panel 
 

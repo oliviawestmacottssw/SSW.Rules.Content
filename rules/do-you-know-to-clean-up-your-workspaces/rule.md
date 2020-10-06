@@ -17,9 +17,8 @@ authors:
 
 ---
 
-​Every Workspace that exists on the server is another set of code that TFS has to check for checkouts. Worse you may have files checked out in that workspace that you will never see. 
+Every Workspace that exists on the server is another set of code that TFS has to check for checkouts. Worse you may have files checked out in that workspace that you will never see. 
 
-![ John has not accessed many of these workspaces in years](WorkspaceStatus.jpg)
-! Are they still current? 
+![The current workspace status ](WorkspaceStatus.jpg)! Are they still current? 
 Use the Workspace Sidekick in [Team Foundation Sidekicks](http://www.attrice.info/cm/tfs/index.htm) 
 ![](../../assets/external.gif "You are now leaving SSW") at the end of every month to make sure you have not forgotten anything.

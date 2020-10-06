@@ -9,9 +9,9 @@ authors:
 
 ---
 
-​​If you use Google Ads to advertise on Google, and you would like to expand your advertising range, you might like to split your marketing budget to include other search engines like Microsoft Advertising (also known as Bing Ads). Fortunately, you don’t need to create new campaigns, they give you the option to import all of the campaigns from Google Ads into Microsoft Advertising so that you can run the same ads on both accounts. It’s an easy solution if you are looking for a wider reach.
+If you use Google Ads to advertise on Google, and you would like to expand your advertising range, you might like to split your marketing budget to include other search engines like Microsoft Advertising (also known as Bing Ads). Fortunately, you don’t need to create new campaigns, they give you the option to import all of the campaigns from Google Ads into Microsoft Advertising so that you can run the same ads on both accounts. It’s an easy solution if you are looking for a wider reach.
  
-​
+
 
 Most items from Google Ads can be imported to Microsoft Ads the same way, although they recommend you check it a few items before you import your campaigns to make sure they are running as you expected.
  
@@ -19,7 +19,7 @@ If you are sure your campaigns are ready to go, you can also schedule Microsoft 
 
 Tip: Remember to untick the boxes that automatically import the budget. This is particularly important if you have a different budget for each platform, and will stop you accidentally overspending your budget.
 
-​​​​​
+
 
 Some important points to remember before using Microsoft Ads:
 
@@ -31,4 +31,4 @@ If you need further instructions, you can find more at Microsoft Ads support: ht
 
 
 
-![ Import Campaigns default selection will match your budget from Google](Msads.png)
+![Import Campaigns default selection will match your budget from Google](Msads.png)

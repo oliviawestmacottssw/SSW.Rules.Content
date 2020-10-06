@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Engaging and interacting with your audience is great a way to get more "activities"​ around your videos and channel as well as building a faithful audience.​​
+Engaging and interacting with your audience is great a way to get more "activities" around your videos and channel as well as building a faithful audience.
  
 Make sure you:
 

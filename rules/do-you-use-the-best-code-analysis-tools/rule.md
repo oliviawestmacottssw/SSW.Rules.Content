@@ -21,8 +21,7 @@ Visual Studio has a great Code Analysis tool to help you look for problems in yo
 
 The levels of protection are:
  
-![ You wouldn't play cricket without protective gear and you shouldn't code without protective tools ](CricketHelmet.jpg)
-
+![You wouldn't play cricket without protective gear and you shouldn't code without protective tools](CricketHelmet.jpg)
 ### Level 1
 
 Get ReSharper to green on each file you touch. You want the files you work on to be left better than when you started. See     [Do you follow the boyscout rule?](http://www.ssw.com.au/ssw/standards/rules/RulestoBetterCode.aspx#BoyscoutRule)
@@ -33,16 +32,13 @@ Get ReSharper to green on each file you touch. You want the files you work on to
 - Alt + Enter: Smart refactoring suggestions
 
 
-![ ReSharper will show Orange when it detects that there is code that could be improved](48bc81_image001.png) 
-
-![ ReSharper will show green when all code is tidy](image002.png) 
-
+![ReSharper will show Orange when it detects that there is code that could be improved](48bc81_image001.png)
+![ReSharper will show green when all code is tidy](image002.png)
 ### Level 2
 
 Is to use     [Code Auditor.](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx)
 
-![ Code Auditor shows a lot of warnings in this test project](CodeAuditor.png)
-
+![Code Auditor shows a lot of warnings in this test project](CodeAuditor.png)
 **Note:** Document any rules you've turned off.
 
 ### Level 3
@@ -55,23 +51,19 @@ Is to use     [Link Auditor](http://www.ssw.com.au/ssw/LinkAuditor/).
 
 Is to use StyleCop to check that your code has consistent style and formatting.
 
-![ StyleCop shows a lot of warnings in this test project](StyleCopInVS2010.png)
-
+![StyleCop shows a lot of warnings in this test project](StyleCopInVS2010.png)
 ### Level 5
 
 Run Code Analysis (was FxCop) with the default settings or ReSharper with Code Analysis turned on
 
-![ Run Code Analysis in Visual Studio](CodeAnalysisVS11.png)
+![Run Code Analysis in Visual Studio](CodeAnalysisVS11.png)
 
-
-![ The Code Analysis results indicate there are 17 items that need fixing](codeanalysis.png)
-
+![The Code Analysis results indicate there are 17 items that need fixing](codeanalysis.png)
 ### Level 6
 
 Ratchet up your Code Analysis Rules until you get to 'Microsoft All Rules'
 
-![ Start with the Minimum Recommended Rules, and then ratched up.](image003.png)
-
+![Start with the Minimum Recommended Rules, and then ratched up.](image003.png)
 ### Level 7
 
 Is to document any rules you've turned off.
@@ -80,15 +72,13 @@ All of these rules allow you to disable rules that you're not concerned about.  
 
 Create a     **GlobalSuppressions.cs** file in your project with the rules that have been turned off and why.
 
-![ The suppressions file tells Code Analysis which rules it should disable for specific code blocks](suppressions-file.png)
-
+![The suppressions file tells Code Analysis which rules it should disable for specific code blocks](suppressions-file.png)
 **More Information:** [Do you make instructions at the beginning of a project and improve them gradually?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d6d34c31-ac6a-49a4-876a-f9d30e1ab78a) and     https://docs.microsoft.com/en-us/visualstudio/code-quality/in-source-suppression-overview
 
 ### Level 8
 
 The gold standard is to use <br>   [SonarQube](https://www.sonarqube.org/), which gives you the code analysis that the previous levels give you as wells as the ability to analyze technical debt and to see which code changes had the most impact to technical debt
 
-![  SonarQube workflow with Visual Studio and Azure DevOps​](2016-06-08_12-59-38.png) 
+![SonarQube workflow with Visual Studio and Azure DevOps](2016-06-08_12-59-38.png)
 
-
-![ SonarQube gives you the changes in code analysis results between each check-in](2016-06-08_12-59-53.png)
+![SonarQube gives you the changes in code analysis results between each check-in](2016-06-08_12-59-53.png)

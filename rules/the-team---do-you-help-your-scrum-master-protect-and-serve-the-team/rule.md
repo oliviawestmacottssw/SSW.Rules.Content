@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Part of the Scrum Master's (not ScrumMaster's) role is to protect the team from distractions so they can deliver on their commitments, to ensure agreed process is followed and to help all roles keep their promises.  ​​
+Part of the Scrum Master's (not ScrumMaster's) role is to protect the team from distractions so they can deliver on their commitments, to ensure agreed process is followed and to help all roles keep their promises.  
 
 It is also important that team members do not allow themselves to get distracted and must work based on priority.
 
@@ -24,9 +24,9 @@ The only exceptions, where a Team Member can start the work before notifying t
 - Test please requests, if the total time taken from the Sprint for all Test Please requests is less than 8 hours
 
 
-In these 3 exceptional cases only, even if the Team Member doesn't get a response from the Scrum Master, the requestor can insist that the member starts the other work immediately.​
+In these 3 exceptional cases only, even if the Team Member doesn't get a response from the Scrum Master, the requestor can insist that the member starts the other work immediately.
 
-​​​
+
 `youtube: https://www.youtube.com/embed/QbPkcfzi2HI?rel=0`
 
 

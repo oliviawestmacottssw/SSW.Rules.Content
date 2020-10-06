@@ -11,7 +11,7 @@ authors:
 
 To share a draft of a post with others you need to install a plugin.
 
-The plugin is called 'Simple Preview' and can be located     [here](http://gabriel.nagmay.com/2009/10/simple-preview/)​.
+The plugin is called 'Simple Preview' and can be located     [here](http://gabriel.nagmay.com/2009/10/simple-preview/).
  
 Once you have plugin installed, all you need to do is enable it and then follow the steps below:
 
@@ -21,10 +21,8 @@ Once you have plugin installed, all you need to do is enable it and then follow 
 2. Click on 'Save Draft', then 'Preview'. The post will open in your browser, with the URL that you can share.
 
 
-![ How to enable ‘Allow Anonymous Preview’ so you can share your URL before going live](wp-allow-anonymous-preview.jpg)
-
-![ The URL suffix will be similar to this: ‘…?p=1418&preview=true’](wp-preview-url.jpg)
-
+![How to enable ‘Allow Anonymous Preview’ so you can share your URL before going live](wp-allow-anonymous-preview.jpg)
+![The URL suffix will be similar to this: ‘…?p=1418&preview=true’](wp-preview-url.jpg)
 #### More Information:
 
 Note #1: needing a plugin to share a URL privately, is a little bit crazy.
@@ -33,4 +31,4 @@ Note #2: Another solution is ‘Share a Draft’, however it has more options an
 
 It has a time limit function for the post, which allows you to set and extend. The URL it generates is a bit messy.
 
-![ The URL is pretty messy and it is not as simple as just ticking a box. This is a whole other page](wp-share-draft-screenshot.jpg)
+![The URL is pretty messy and it is not as simple as just ticking a box. This is a whole other page](wp-share-draft-screenshot.jpg)

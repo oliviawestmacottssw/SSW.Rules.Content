@@ -13,4 +13,4 @@ The [Microsoft CRM Implementation Guide](http://www.microsoft.com/en-us/download
 
 Using the CHM (Compiled HTML Help) makes searching easier than using a word or pdf document.
 
-![ Searching the CHM version of the implementation guide is much nicer than the Word document](crm-implementation-guide.jpg)
+![Searching the CHM version of the implementation guide is much nicer than the Word document](crm-implementation-guide.jpg)

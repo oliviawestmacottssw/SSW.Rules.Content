@@ -13,9 +13,9 @@ authors:
 
 `youtube: https://www.youtube.com/embed/-FvYcZ70VHY`
  
-​​<br>
+<br>
 
-​
+
  
 China is a booming market and now is the time to take advantage of this growing user base. If you have a successful application you should bring it to the Chinese market.
 
@@ -24,11 +24,11 @@ China is a booming market and now is the time to take advantage of this growing 
 Most Chinese consumers will not make a purchase or use your application if information is not easily available in Chinese.
 
 
-### ​Benefits
+### Benefits
 
 
 
-​You can grow and target your audience better using the local social media networks
+You can grow and target your audience better using the local social media networks
 
 
 
@@ -43,4 +43,4 @@ You should integrate with local services (such as video streaming)
 
 
 
-Localizing for the market is not just translation​
+Localizing for the market is not just translation

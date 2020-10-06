@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​There is almost always a better alternative to adding comments to your code.
+There is almost always a better alternative to adding comments to your code.
 
 
 What are the downsides of comments? What are the alternatives? What are bad and good types of comments? 
@@ -70,10 +70,6 @@ Note that a lot of punch can be delivered in 140 characters! Twitter previously?
 
 
 
-Last but not the least, [some parting words](http&#58;//butunclebob.com/ArticleS.TimOttinger.ApologizeIncode) from [@UncleBob](https&#58;//twitter.com/unclebobmartin) himself:​
+Last but not the least, [some parting words](http&#58;//butunclebob.com/ArticleS.TimOttinger.ApologizeIncode) from [@UncleBob](https&#58;//twitter.com/unclebobmartin) himself:
 *"A comment is an apology for not choosing a more clear name, or a more reasonable set of parameters, or for the failure to use explanatory variables and explanatory functions. Apologies for making the code unmaintainable, apologies for not using well-known algorithms, apologies for writing 'clever' code, apologies for not having a good version control system, apologies for not having finished the job of writing the code, or for leaving vulnerabilities or flaws in the code, apologies for hand-optimizing C code in ugly ways."*
 - Uncle Bob (Robert Martin of 'Clean Code' fame)
-
-
-
-​

@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-​​They are similar but "Retry" is a more like computer jargon, whereas "Try again" sounds friendlier and more human. 
+They are similar but "Retry" is a more like computer jargon, whereas "Try again" sounds friendlier and more human. 
  
-​​​
-![ Internet Explorer uses "Try Again" instead of "Retry"​](try-again-not-retry.gif)
+
+![Internet Explorer uses "Try Again" instead of "Retry"](try-again-not-retry.gif)

@@ -22,8 +22,7 @@ There are two main reasons you should separate your deployment from your build p
 The best tool for deployments is [Octopus Deploy](https://octopus.com/).
  
 [[goodExample]]
-| ![ Good Example - SSW uses Octopus Deploy to deploy Sugar Learning](SugarLearningOctopus.png)  
-
+| ![SSW uses Octopus Deploy to deploy Sugar Learning](SugarLearningOctopus.png)
 Octopus Deploy allows you to package your projects in Nuget packages, publish them to the Octopus server, and deploy the package to your configured environments. Advanced users can also perform other tasks as part of a deployment like running integration and smoke tests, or notifying third-party services of a successful deployment.
 
 [Version 2.6 of Octopus Deploy](https://octopus.com/blog/2.6) introduced the ability to create a new release and trigger a deployment when a new package is pushed to the Octopus server. Combined with Octopack, this makes continuous integration very easy from Team Foundation Server.

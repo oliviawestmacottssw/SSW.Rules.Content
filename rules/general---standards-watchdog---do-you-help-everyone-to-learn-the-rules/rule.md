@@ -14,11 +14,9 @@ authors:
 **But this can really only happen if you’re going to [go the extra mile](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=36598961-2933-4a95-ba4b-9ed702e405ef) and stick your neck out and correct someone. **
   
 [[badExample]]
-| ![ Bad Example - Correcting someone in a mean way ](watchdog-mean.jpg) 
-
+| ![Correcting someone in a mean way](watchdog-mean.jpg)
 [[goodExample]]
-| ![People make mistakes but correct them as though they’re a soft cute puppy 🐶](watchdog-watchdog.jpg) 
-
+| ![People make mistakes but correct them as though they’re a soft cute puppy 🐶](watchdog-watchdog.jpg)
 Every member of a team plays an important role in maintaining standards. Whether it's your work or someone else's, always keep an eye out for **things that can be improved**.
 
 This rule applies to all company standards. Standards are important because they ensure your experience at work is consistent and enjoyable. For example, if there was no standard to stack the dishes in the dishwasher when you were finished using them, dishes would build up and create a big mess in the kitchen!
@@ -81,13 +79,12 @@ When you receive a great 'done' email or document, make sure you mention how gre
 
 It can be tempting to offer your feedback as soon as you think of it, but it's better to hold off until the recipient is in a place where they can hear it. If a person is busy, distracted, or in a poor emotional state, chances are your feedback won’t hit the mark. Wait until the person is calm and relaxed before asking them if now is a good time to offer your feedback.
 
-For more, check out [Do you know to create a safe space instead of jumping into feedback?​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2c548b17-a4cb-47b1-bc04-c3038c3ff52e)
+For more, check out [Do you know to create a safe space instead of jumping into feedback?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2c548b17-a4cb-47b1-bc04-c3038c3ff52e)
 
 
  
 [[badExample]]
-| ![ seeing a mistake and not pointing it out doesn't improve a person. Allow them to benefit from your experience](watchdog-ghost.jpg) 
-!
+| ![seeing a mistake and not pointing it out doesn't improve a person. Allow them to benefit from your experience](watchdog-ghost.jpg)!
 
 ### Going Anonymous
 
@@ -96,15 +93,14 @@ When something is really personal, you can’t really correct someone unless you
 ### Taking Feedback
  
 [[goodExample]]
-| ![say 'thank you' to a person's corrections to show you don't have thin skin and encourage further positive and negative feedback. It all helps you to improve](watchdog-thankyou.jpg) 
-
+| ![say 'thank you' to a person's corrections to show you don't have thin skin and encourage further positive and negative feedback. It all helps you to improve](watchdog-thankyou.jpg)
 ### In Summary
 
 It's important to ensure others are doing their best to maintain and follow the standards. Remember, it can be just as important for someone's professional development to give feedback as it is to receive it. Being able to communicate feedback in an effective and professional manner can benefit you in any career.
 
 **To:** Peter
 **CC:** Adam (Manager)
-​
+
 Dear Peter,
 
 While you were away, I came across this page you edited, called ApplicationForm.aspx which was giving an error: 

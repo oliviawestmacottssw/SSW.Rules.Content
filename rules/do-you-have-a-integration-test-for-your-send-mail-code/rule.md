@@ -9,9 +9,9 @@ authors:
 
 ---
 
-The code below shows how you could use TestSmtpServer to test your send mail code:​
+The code below shows how you could use TestSmtpServer to test your send mail code:
  
-​DotNetOpenMailProvider provider = new DotNetOpenMailProvider();
+DotNetOpenMailProvider provider = new DotNetOpenMailProvider();
 NameValueCollection configValue = new NameValueCollection();
 configValue["smtpServer"] = "127.0.0.1";
 configValue["port"] = "8081";
@@ -33,4 +33,4 @@ finally
 Assert.AreEqual(1, receivingServer.Inbox.Count);
 ReceivedEmailMessage received = receivingServer.Inbox[0];
 Assert.AreEqual("phil@example.com", received.ToAddress.Email);
-Figure: This code could help you validate the send mail code​​
+Figure: This code could help you validate the send mail code

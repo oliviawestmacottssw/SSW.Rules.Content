@@ -9,8 +9,8 @@ authors:
 
 ---
 
-​There are two types of approval processes. One is quick and the other takes longer.
-   ​ 
+There are two types of approval processes. One is quick and the other takes longer.
+    
 **Scenario 1 - Editing in Post**
 
  

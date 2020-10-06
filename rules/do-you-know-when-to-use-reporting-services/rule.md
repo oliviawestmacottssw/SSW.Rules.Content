@@ -30,4 +30,4 @@ For a more detailed comparison between reporting solutions, take a look at our [
 
 
 
-![ Reporting Services has built-in support for PDF/XLS export and can be embedded in your ASP.NET pages](RSRulesUseRS1.gif)
+![Reporting Services has built-in support for PDF/XLS export and can be embedded in your ASP.NET pages](RSRulesUseRS1.gif)

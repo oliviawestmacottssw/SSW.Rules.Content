@@ -24,8 +24,7 @@ A majority of these notifications can be created using the connectors that are b
 
 
 
-![ This is how you begin the process of adding a connector.](Add-a-Connector.png)
-
+![This is how you begin the process of adding a connector.](Add-a-Connector.png)
 
 
 
@@ -36,8 +35,7 @@ A majority of these notifications can be created using the connectors that are b
 
 
 
-![ This is the pop-up that allows you to select which connector to add.](Select-a-Connector.png)
-
+![This is the pop-up that allows you to select which connector to add.](Select-a-Connector.png)
 
 
 
@@ -66,12 +64,10 @@ Sometimes you may have to choose between multiple connectors that can serve the 
 
 
 [[badExample]]
-| ![ Bad example – There is no thumbnail and no link to the video. ](Notification-Bad-Example.png)
-(It is nice that you can add custom text – inside the 2 emoijs)**
+| ![There is no thumbnail and no link to the video.](Notification-Bad-Example.png)(It is nice that you can add custom text – inside the 2 emoijs)**
 
 
 
 
 [[goodExample]]
-| ![ Good example – There is a thumbnail and a link to the video. ](Notification-Good-Example.png)
-(Although there is no custom text)**
+| ![There is a thumbnail and a link to the video.](Notification-Good-Example.png)(Although there is no custom text)**

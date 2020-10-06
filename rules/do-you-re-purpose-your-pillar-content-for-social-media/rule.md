@@ -15,7 +15,7 @@ authors:
 
 ---
 
-​You spend a lot of time and money creating great video content, so you need to make sure that you get the most out of your time and money. 
+You spend a lot of time and money creating great video content, so you need to make sure that you get the most out of your time and money. 
 
 
 
@@ -36,12 +36,12 @@ You can find an explanation of the Gary V Content Model at:
 
 
 
-- https://www.garyvaynerchuk.com/the-garyvee-content-strategy-how-to-grow-and-distribute-your-brands-social-media-content​
-- [https://www.garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day ​](https://www.garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day)
+- https://www.garyvaynerchuk.com/the-garyvee-content-strategy-how-to-grow-and-distribute-your-brands-social-media-content
+- [https://www.garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day ](https://www.garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day)
 
 
  
-### ​STEP 1: CREATE PILLAR CONTENT
+### STEP 1: CREATE PILLAR CONTENT
 
 This is the content that will be used to create all other types of content. They include:
 
@@ -59,21 +59,20 @@ This is the content that will be used to create all other types of content. They
 
 **Video: An example of a smaller video you can be used to drive traffic to your YouTube Channel**
 
-2. Create a Quotable Card with a great background image:​
+2. Create a Quotable Card with a great background image:
 
 - create a version of the video for Facebook, Twitter, LinkedIn and Instagram
        - write the copy for the update
-![ Go​od example, create​​ a version of the video for Facebook, Twitter, LinkedIn, and Instagram](ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png)
+![Good example, create a version of the video for Facebook, Twitter, LinkedIn, and Instagram](ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png)
 
-​
 
 
 
    3. Create a Giphy with one of the main points and a moving background video from the pillar content
-       - write the copy for the update​​​​​​ 4. Create a blog post from the audio
+       - write the copy for the update 4. Create a blog post from the audio
 - use Trint.com.to transcribe the video file and re-write the transcript as a blog post
 
-- Post the blog post to Medium.com, LinkedIn Articles, and your blog​​​​
+- Post the blog post to Medium.com, LinkedIn Articles, and your blog
 
 
 
@@ -99,6 +98,6 @@ You need to wait 2 weeks before republishing the blog post to other platforms so
 
 The sites you will republish to are:
 
-- Medium - Using the WordPress​ publishing tool
+- Medium - Using the WordPress publishing tool
 - LinkedIn Articles
-- Quora​
+- Quora

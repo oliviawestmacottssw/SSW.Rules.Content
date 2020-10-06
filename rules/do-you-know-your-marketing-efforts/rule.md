@@ -9,9 +9,9 @@ authors:
 
 ---
 
-Marketing efforts are the resources you dedicate to promoting your products and services. Through marketing activities, like posting on social media, or paying for advertising, a company can create demand and interest in its items and gain greater visibility with potential customers.​​​​
+Marketing efforts are the resources you dedicate to promoting your products and services. Through marketing activities, like posting on social media, or paying for advertising, a company can create demand and interest in its items and gain greater visibility with potential customers.
  
-​Before deciding on your effort or resources, you need to ask yourself some important questions: ​
+Before deciding on your effort or resources, you need to ask yourself some important questions: 
 
 
 
@@ -35,4 +35,4 @@ The ‘effort’ is the daily tasks you will complete to achieve your goals, for
 
 It's in this phase that you’ll basically decide on what activities you will use to help achieve your goals.
 
-![ Examples of resources that you can use on your marketing strategy](marketing-stragtegy-resources.png)
+![Examples of resources that you can use on your marketing strategy](marketing-stragtegy-resources.png)

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​After the [Sprint Planning](/Pages/SprintPlanningMeeting.aspx)[Meeting](/Pages/SprintPlanningMeeting.aspx), it is useful for the Development Team to send the Product Owner (PO) a Sprint Forecast for the next Sprint. Doing this helps to improve common understanding in, and sometimes to enforce, the relationship between the PO and the Team.​
+After the [Sprint Planning](/Pages/SprintPlanningMeeting.aspx)[Meeting](/Pages/SprintPlanningMeeting.aspx), it is useful for the Development Team to send the Product Owner (PO) a Sprint Forecast for the next Sprint. Doing this helps to improve common understanding in, and sometimes to enforce, the relationship between the PO and the Team.
 
 
 
@@ -35,7 +35,7 @@ Each of the Sprints in a Scrum project can be considered a mini-project that has
 | Project: | [Project Name] |
 | Project Portal: | [Link to project Portal] |
 | Product Owner: | [Product Owner Name] |
-| ​Sprint Review Meeting: | [Date and Time] |
+| Sprint Review Meeting: | [Date and Time] |
 
 
 Attendees: [Names of Attendees]
@@ -62,7 +62,7 @@ Tip: Use this     [Outlook email template](/Documents/SprintContract.oft "Email 
 
 More instructions are as below:
 
-1. Go to Azure DevOps and navig​ate to the current sprint's backlog view. E.g. https://dev.azure.com/Northwind/ProjectName/\_sprints/backlog/Northwind/ProjectName/Sprint%201
+1. Go to Azure DevOps and navigate to the current sprint's backlog view. E.g. https://dev.azure.com/Northwind/ProjectName/\_sprints/backlog/Northwind/ProjectName/Sprint%201
 2. Paste to the Forecast email, and format the table:
     - Remove any useless columns
-![ Good Example of a Table](Sprint forecast example table.jpg)
+![Good Example of a Table](Sprint forecast example table.jpg)

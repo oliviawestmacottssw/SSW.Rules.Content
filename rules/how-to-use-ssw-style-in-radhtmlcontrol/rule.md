@@ -41,30 +41,22 @@ We have a program called [http://rules.ssw.com.au/WebSites/RulesToBetterWebsites
 
 ![Copy content in the notepad2. Delete the current content from Telerik for a new start;](SaveContentInNotePad.jpg)
 
-
  3. Copy the first sentence from notepad and paste into Telerik Editor in the page; (please avoid copying straightly from web page and pasting them here, it will copy the all tags as well. it might affect the styles which can’t apply correctly )
 
-![ Start copying content over4. Insert the image](CopyFromNotePad.jpg)
+![Start copying content over4. Insert the image](CopyFromNotePad.jpg)
 
+![Add a link to text5. Add an image](InsertImage.jpg)
 
-![ Add a link to text5. Add an image](InsertImage.jpg)
+![Inser an image6. Press “enter” key to start a new row, then copy the figure from notepad to the Telerik editor area](ApplyStyleInsertImage.jpg)
 
+![Add figure7. Apply image style to the image by click on the image, then choose a style from “Apply CSS Class” dropdown list](ApplyStyleAddFigure.jpg)
 
-![ Inser an image6. Press “enter” key to start a new row, then copy the figure from notepad to the Telerik editor area](ApplyStyleInsertImage.jpg)
-
-
-![ Add figure7. Apply image style to the image by click on the image, then choose a style from “Apply CSS Class” dropdown list](ApplyStyleAddFigure.jpg)
-
-
-![ Apply style to the image](ApplyStyleImageArea.jpg)
-
+![Apply style to the image](ApplyStyleImageArea.jpg)
 
  8. Apply style to the figure
 
-![ Apply style to the figure9.Apply the yellow box](ApplyStyleImageArea.jpg)
+![Apply style to the figure9.Apply the yellow box](ApplyStyleImageArea.jpg)
 
+![Apply yellow border box to the content10. Check in the changes, then you will have - "dada.."](ApplyStyleFigure.jpg)
 
-![ Apply yellow border box to the content10. Check in the changes, then you will have - "dada.."](ApplyStyleFigure.jpg)
-
-
-![ Right style in use](ApplyStyleResult.jpg)
+![Right style in use](ApplyStyleResult.jpg)

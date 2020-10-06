@@ -8,7 +8,7 @@ authors: []
 ---
 
 It is important to use terminology that your users will understand. Do not to use technical terms that may confuse your users. Use consistent words and phrasing for similar situations. For example, the following phrases have the same meaning which is the best one?
-   ​
+   
 - Not enough memory.
 - There is not enough memory.
 - There is not enough free memory.
@@ -21,13 +21,11 @@ It is important to use terminology that your users will understand. Do not to us
 
 
 [[badExample]]
-| ![ Bad Example - Is it OK to Cancel?](../../assets/Bad-MessageBoxZango.jpg)
-
+| ![Is it OK to Cancel?](../../assets/Bad-MessageBoxZango.jpg)
 Microsoft uses this one:
 
 [[goodExample]]
-| ![ Good Example - Microsoft error message is concise](../../assets/NotEnoughMemory.gif)
-
+| ![Microsoft error message is concise](../../assets/NotEnoughMemory.gif)
 Some other message types that Microsoft uses are:
 
 

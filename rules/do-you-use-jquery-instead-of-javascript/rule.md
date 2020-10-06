@@ -16,12 +16,12 @@ jQuery is the MUST HAVE tool for web developers. There are 3 good reasons why yo
     - Same selectos as CSS
     - Designer can learn it fast
     - More readable JavaScript code
-3. Plug-ins - Tons of useful plug-ins and functionalities​
+3. Plug-ins - Tons of useful plug-ins and functionalities
 
 
  
-​window.onload = function() { alert("Welcome"); }
+window.onload = function() { alert("Welcome"); }
 Figure: Bad Example - Using JavaScript 'onload' event
 
 $(document).ready(function() { alert("Welcome!"); });
-Figure: Good Example - using jQuery document 'ready' event​
+Figure: Good Example - using jQuery document 'ready' event

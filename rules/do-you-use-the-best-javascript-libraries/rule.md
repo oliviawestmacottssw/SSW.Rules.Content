@@ -17,6 +17,3 @@ In<br>this explosive video Ben Cull, SSW Solution Architect, will bombard you wi
  
 
 `youtube: https://www.youtube.com/embed/Mf3wEJHAMXw`
- 
-
-​

@@ -23,4 +23,4 @@ Sub MySub
 End sub
 
 
-Figure: Good example​
+Figure: Good example

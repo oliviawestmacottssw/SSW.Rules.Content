@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​​​​​​[YouTube ​Center](https&#58;//github.com/YePpHa/YouTubeCenter/wiki) ​​​​ contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
+[YouTube Center](https&#58;//github.com/YePpHa/YouTubeCenter/wiki)  contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
  
 Major features for us:
 

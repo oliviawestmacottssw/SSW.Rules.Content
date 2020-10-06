@@ -9,6 +9,6 @@ authors:
 
 ---
 
-You should spend the extra dollars to ensure that you get nice cards and your employees are proud of them. That way they will give them away at every handshake, which is fantastic free advertising for your company.​
+You should spend the extra dollars to ensure that you get nice cards and your employees are proud of them. That way they will give them away at every handshake, which is fantastic free advertising for your company.
 
-![](ssw-businesscards.png)​​Figure: SSW Cube Business Cards
+![SSW Cube Business Cards](ssw-businesscards.png)

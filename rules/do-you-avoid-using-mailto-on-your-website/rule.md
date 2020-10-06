@@ -13,7 +13,7 @@ Don't ever display valid individual email addresses or mailto:'s on a website. N
 
 The best way to avoid it is not to display valid individual email addresses in text format (especially in the form of "mailto:") on your website.
  
-​​
+
 
 e.g. FirstnameSurname@ssw.com.au
  Figure: Bad way - normal email address in text format
@@ -27,9 +27,7 @@ e.g. FirstnameSurname@ssw.com.au
 2. Encode them on the server using the BitConverter class
     Dim email As String = ConfigurationSettings.AppSettings("SampleEncodedEmailAddress") Application("SampleEncodedEmailAddress") = BitConverter.ToString( \_ ASCIIEncoding.ASCII.GetBytes(email)).Replace("-", "")
 3. Decode on the client with a JavaScript function in the JavaScript
-    &lt;a id="linkContact" href="javascript:sendEmail('44617669644073616D706C652E636F6D2E6175')"&gt;CONTACT David&lt;/a&gt;​
+    &lt;a id="linkContact" href="javascript:sendEmail('44617669644073616D706C652E636F6D2E6175')"&gt;CONTACT David&lt;/a&gt;
 
 
 We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.
-
-​

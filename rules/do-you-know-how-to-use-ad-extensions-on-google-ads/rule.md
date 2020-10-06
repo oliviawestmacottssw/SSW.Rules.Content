@@ -23,8 +23,7 @@ Ad extensions are additional pieces of information about your business, like a p
 
 
 [[badExample]]
-| ![ Bad Example – Ad doesn't have a clear message about either product or service, there’s no call extension even though it mentions "Call Now"​](google-ad-no-ad-extension.jpg)
+| ![Ad doesn't have a clear message about either product or service, there’s no call extension even though it mentions "Call Now"](google-ad-no-ad-extension.jpg)
 
-
-![](google-ad-extension.jpg)​
-Figure: Good Example - Sitelinks and Call extensions on one of our mobile ads​​
+[[goodExample]]
+| ![Sitelinks and Call extensions on one of our mobile ads](google-ad-extension.jpg)

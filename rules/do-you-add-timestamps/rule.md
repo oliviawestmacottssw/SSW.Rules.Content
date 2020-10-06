@@ -9,4 +9,4 @@ authors: []
 
 Passing date times is good. Just as a note that it is vital that you send any date/times with time zone information and at UTC.
  
-![ Include date and time information](timestamps.jpg)
+![Include date and time information](timestamps.jpg)

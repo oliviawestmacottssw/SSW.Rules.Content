@@ -15,13 +15,13 @@ A test verifies expectations. Traditionally it has the form of 3 major steps:
 3. Assert
 
  
-​In the "Arrange" step we get everything ready and make sure we have all things handy for the "Act" step.
+In the "Arrange" step we get everything ready and make sure we have all things handy for the "Act" step.
 
-The "Act" step executes the relevant code piece that we want to test.​
+The "Act" step executes the relevant code piece that we want to test.
 
-The "Assert" step verifies our expectations by stating what we were expecting from the system under test.​​
+The "Assert" step verifies our expectations by stating what we were expecting from the system under test.
 
-Developers call this the "AAA" syntax.​​
+Developers call this the "AAA" syntax.
 
 [TestMethod]
 public void TestRegisterPost\_ValidUser\_ReturnsRedirect()
@@ -42,4 +42,4 @@ public void TestRegisterPost\_ValidUser\_ReturnsRedirect()
    Assert.AreEqual("Home", redirectResult.RouteValues["controller"]);
    Assert.AreEqual("Index", redirectResult.RouteValues["action"]);
 }
-Figure: A good structure for a unit test​​
+Figure: A good structure for a unit test

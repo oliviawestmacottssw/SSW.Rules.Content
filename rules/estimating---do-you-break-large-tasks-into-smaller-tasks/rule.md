@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-A task should never have an estimate of more than half a day (4​ hours).
+A task should never have an estimate of more than half a day (4 hours).
 
 If you have a big task with an estimate of more the 4 hours, you should consider breaking it in sub-tasks. In case the estimate has changed during the sprint, the “Remaining Hours” field must be updated in order to have an accurate Burndown chart.
 

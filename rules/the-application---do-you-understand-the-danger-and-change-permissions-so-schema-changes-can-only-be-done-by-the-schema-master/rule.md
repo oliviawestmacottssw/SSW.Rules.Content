@@ -12,6 +12,5 @@ authors:
 Having many people in a company that are able to make schema changes, can only lead to big problems. This gets worse if the application is powerful (eg. enabled with [SSW SQL Deploy](http://www.ssw.com.au/SSW/SQLDeploy/) that can make schema changes itself) can make schema changes. 
 
 <br>Let's see how to fix the issue: <br>   To avoid this problem, only one person (the "Schema Master") should have permissions to upgrade the database. 
-![ The db\_owner role is granted for one person only – the "Schema Master" ](FullPermission.jpg) 
-
-![ And here is the "Schema Master" at SSW ](Adam.jpg)
+![The db\_owner role is granted for one person only – the "Schema Master"](FullPermission.jpg)
+![And here is the "Schema Master" at SSW](Adam.jpg)

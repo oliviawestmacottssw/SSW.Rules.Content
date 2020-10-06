@@ -18,10 +18,10 @@ The 7 options are:
 by Martin Hinshelwood (ex-SSW)
     - **Option 5:** OpsHub
     - **Option 6:** Timely Migration
-    - **Option 7:** TfsMigrator - Microsoft​​
+    - **Option 7:** TfsMigrator - Microsoft
 
 
-Watch the video:​
+Watch the video:
 
 
 `youtube: https://www.youtube.com/embed/a6A1wl9_4Jg`

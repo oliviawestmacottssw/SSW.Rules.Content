@@ -14,7 +14,6 @@ The quality of your images is a subconscious message to your audience. If you us
 For this reason, we encourage you to choose only high quality photos and to avoid cartoons and word art.
 
 [[badExample]]
-| ![ Bad Example - What is this monstrosity](low_d.gif) 
-! 
+| ![What is this monstrosity](low_d.gif)! 
 [[goodExample]]
-| ![ Good Example - Looks classy, that. ](high_d.jpg)
+| ![Looks classy, that.](high_d.jpg)

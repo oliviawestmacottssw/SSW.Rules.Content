@@ -15,16 +15,13 @@ authors:
 
 Rather than randomly browsing for dodgy code, use Visual Studio's Code Metrics feature to identify "Hot Spots" that require investigation.
 
-![](lotto-balls.jpeg)​Figure: The bad was is to browse the code
+![The bad was is to browse the code](lotto-balls.jpeg)
  
-![ Run Code Metrics in Visual Studio](VS 11 Code Metrics.png)
-
-![ Red dots indicate the code that is hard to maintain. E.g. Save](CodeMetrics_3.png)
-() and LoadCustomer()
+![Run Code Metrics in Visual Studio](VS 11 Code Metrics.png)
+![Red dots indicate the code that is hard to maintain. E.g. Save](CodeMetrics_3.png)() and LoadCustomer()
 Identifying the problem areas is only the start of the process. From here, you should speak to the developers responsible for this dodgy code. There might be good reasons why they haven't invested time on this.
 
-![ Find out who the devs are by using CodeLens and start a conversation​​Tip: To learn how to use Annotate, see  ](codelens-start-conversation.png)
-[Do you know the benefits of Source Control?](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl)
+![Find out who the devs are by using CodeLens and start a conversationTip: To learn how to use Annotate, see](codelens-start-conversation.png)[Do you know the benefits of Source Control?](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx#UsingSourceControl)
 
 
-**​Suggestion to Microsoft:** allow us to visualize the developers responsible for the bad code (currently and historically) using CodeLens.
+**Suggestion to Microsoft:** allow us to visualize the developers responsible for the bad code (currently and historically) using CodeLens.

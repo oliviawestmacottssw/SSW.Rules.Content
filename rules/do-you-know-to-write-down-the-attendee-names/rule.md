@@ -17,6 +17,5 @@ The fix is to have a piece of paper, (already divided up) so you can write down 
 
 This ends up being a great reference you can use to address questions directly to participants using their name. This ensures that attendees keep focused as they may directly have questions referencing them.
 
-![ For a classroom like this...](classroom.jpg)
-
-![ ...use a sheet like this](names-list.jpg)
+![For a classroom like this...](classroom.jpg)
+![...use a sheet like this](names-list.jpg)

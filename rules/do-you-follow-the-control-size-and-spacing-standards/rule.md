@@ -12,8 +12,7 @@ authors: []
 Despite seeming trivial, the most subtle elements of your form can have the greatest impact on your users.
  
 [[badExample]]
-| ![ Bad Example - What's wrong with this form?](../../assets/ScreenBadControls.gif)
-
+| ![What's wrong with this form?](../../assets/ScreenBadControls.gif)
 The form shown in this screenshot is an example of bad control placement:
 
 1. The fonts used are non-standard (see: <br>      [Do you use Microsoft's Recommended Font in your Application?](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Controls.aspx#Font))
@@ -33,8 +32,7 @@ The good news is that** you don't need to**: Microsoft have gone to a great deal
 These examples assume that you are using the standard system font as defined in the rule mentioned above. Please note that although Dialog Units (DLUs) are better suited for generic (font independent) use, they are not available in the Visual Studio designer.
 
 [[goodExample]]
-| ![ Good Example - The form follows Standards of good form design discussed below](../../assets/GoodStandardForm.jpg)
-
+| ![The form follows Standards of good form design discussed below](../../assets/GoodStandardForm.jpg)
 ### The Rules
 
 1. **Buttons must be...**
@@ -63,8 +61,7 @@ Here's a good example for you to take inspiration from. This dialog is from Micr
 
 
 [[goodExample]]
-| ![ Good Example - Microsoft have defined to exacting measures what spacing should be used in their Microsoft Outlook wizards](../../assets/ScreenGoodControls.gif)
-
+| ![Microsoft have defined to exacting measures what spacing should be used in their Microsoft Outlook wizards](../../assets/ScreenGoodControls.gif)
 Read more about control size on the     [Rules to Better Windows Forms](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#CommonControl) page
 
 We have a program called     [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#SizeSpacing) to check for this rule.

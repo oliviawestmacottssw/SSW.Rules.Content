@@ -11,16 +11,15 @@ authors:
 
 ---
 
-​When defining a build, you should always check the Workspace tab. Only the workspace relevant to your build should be included.
-   ​ 
+When defining a build, you should always check the Workspace tab. Only the workspace relevant to your build should be included.
+    
 If you have a number of Team Projects open from the same TFS Project Collection, all of their workspaces will be included by default.  You should remove those workspaces that aren’t being used otherwise the build server will get the source for every workspace in this list before starting a build.
 
  
 ![](bad_workspace.png)
 
 [[badExample]]
-| ![ Bad example – Several workspaces from other team projects are included by default](bad.gif)
-
+| ![Several workspaces from other team projects are included by default](bad.gif)
 
  
 
@@ -28,4 +27,4 @@ If you have a number of Team Projects open from the same TFS Project Collection,
 ![](good_workspace.png)
 **
 [[goodExample]]
-| ![ Good example – Only the relevant workspace has been included in this build definition](good.gif)
+| ![Only the relevant workspace has been included in this build definition](good.gif)

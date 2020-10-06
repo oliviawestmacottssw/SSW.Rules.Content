@@ -15,7 +15,7 @@ authors:
 
 ---
 
-​Note: If you did not finish working:
+Note: If you did not finish working:
 
 - TFS put changes into shelveset
 - SVN put changes into sandbox / branches

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​Your attendees have all gone home with a mental boat load of information and great insights. Now is the time to follow them up and remind them of other events, how to keep in touch with you and where to find more information. ​​
+Your attendees have all gone home with a mental boat load of information and great insights. Now is the time to follow them up and remind them of other events, how to keep in touch with you and where to find more information. 
  
 This does not need to be big sales pitch, but you do want to capitalize on your event being fresh in their mind.
 
@@ -35,6 +35,6 @@ Create a follow up strategy which could include:
 
 *4.*    [*https://twitter.com/SSW\_TV*](https&#58;//twitter.com/SSW_TV)
 
-*5.*    [*http://rules.ssw.com.au*](/)​
+*5.*    [*http://rules.ssw.com.au*](/)
 
 *Looking forward to hearing from you soon.*

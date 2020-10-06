@@ -11,4 +11,4 @@ You might have plenty of ideas when you are preparing your presentation. Add the
 
 Note: We suggest you keep them consistent with VS.NET e.g. “TODO: xxx”
 
-![ Put your working "TODO:" notes in red](Todo.jpg)
+![Put your working "TODO:" notes in red](Todo.jpg)

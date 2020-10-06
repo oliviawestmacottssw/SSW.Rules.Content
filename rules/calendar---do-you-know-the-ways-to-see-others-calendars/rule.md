@@ -13,7 +13,7 @@ authors:
 
 ---
 
-​While working in a team, there are three ways of seeing others' or team calendars.​
+While working in a team, there are three ways of seeing others' or team calendars.
  
 ### Option 1: Using Outlook Calendar - See a person's calendar
 
@@ -22,13 +22,11 @@ You can share your Outlook calendar with another person or a group in Outlook. T
 
 In the example below, Chris is going to share his personal calendar with the "SSWAll" group, so they can see what's he's doing from Outlook calendar.
  
-![ In Outlook, after connecting to Chris's calendar, now people can see his events on this week ](outlook365 shared calendar - result.png) 
-
+![In Outlook, after connecting to Chris's calendar, now people can see his events on this week](outlook365 shared calendar - result.png)
 
 Here's how to share your calendar (in this example, with a group):
  
-![ In Outlook, locate the calendar you want to share, right-click on it, and click "Properties..."](outlook365 sharing using right click.png) 
-
+![In Outlook, locate the calendar you want to share, right-click on it, and click "Properties..."](outlook365 sharing using right click.png)
 
 
  
@@ -41,21 +39,17 @@ Here's how to share your calendar (in this example, with a group):
 #### If you are still using Outlook 2016...
 
  
-![ The old way ](option1-outlook-calendar.png) 
-(Outlook 2016 v1812 and older)
+![The old way](option1-outlook-calendar.png)(Outlook 2016 v1812 and older)
  Then the other person will receive a sharing notification email:
  
-![ The invitees will receive a calendar sharing notification. Click "Open this Calendar" to open the calendar in Outlook](outlook365 sharing using right click - email.png) 
+![The invitees will receive a calendar sharing notification. Click "Open this Calendar" to open the calendar in Outlook](outlook365 sharing using right click - email.png)
 
-
-Here's how to open someone's calendar in  Outlook (if they have shared it ​with you):
+Here's how to open someone's calendar in  Outlook (if they have shared it with you):
 
  
-![ In Outlook, click "Open Calendar" | "From Address Book..." ](outlook365 open-shared-calendar.png) 
-(this opens the Global Address List)
+![In Outlook, click "Open Calendar" | "From Address Book..."](outlook365 open-shared-calendar.png)(this opens the Global Address List)
  
-![ Find their name, ensure their name is on the list, and click OK](outlook365 open-shared-calendar - address book.png) 
-
+![Find their name, ensure their name is on the list, and click OK](outlook365 open-shared-calendar - address book.png)
 
 
 ### Option 2: Using the CRM Service Calendar - See everyone's calendar
@@ -65,8 +59,7 @@ When you want to see what's your colleague's is doing, you can use the CRM Servi
 
 This can keep track of important things like client work and leave. See [Scheduling - Do you know how to book developers for a project?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d51b4fd0-dc73-4e51-a6fd-e2354b6add89) on how to add a booking to CRM Service Calendar.
  
-![ The CRM Service Calendar shows everyone's booked in client work and leave](ServiceCalendar.png) 
-
+![The CRM Service Calendar shows everyone's booked in client work and leave](ServiceCalendar.png)
 
 
 
@@ -87,12 +80,9 @@ e.g. https://sswcom.sharepoint.com/sites/SSWSugarLearning391/Lists/Team%20Calend
 
 **Tip: **You can also connect the SharePoint calendar to your Outlook. Here's how to do that:
  
-![ In SharePoint 2016: On the "Calendar" tab, click "Connect to Outlook" to show the calendar in your Outlook account](sharepoint-sharing-calendar - using outlook.png) 
-
+![In SharePoint 2016: On the "Calendar" tab, click "Connect to Outlook" to show the calendar in your Outlook account](sharepoint-sharing-calendar - using outlook.png)
 
 #### If you are still using SharePoint 2007...
 
  
-![ The old way on SharePoint 2007](Team_ShareCalendar_SharePoint.GIF) 
-
-​​​​
+![The old way on SharePoint 2007](Team_ShareCalendar_SharePoint.GIF)

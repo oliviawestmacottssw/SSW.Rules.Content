@@ -11,7 +11,7 @@ Though all software should be intuitive there are still times when users need ex
 
 Most importantly when a first time a user tries your program, they should be able                     to step through the setting up process. A wizard helps to show how your application                     flows from beginning to end.
  
-​To ensure a consistent user experience, make sure to include these visual elements:
+To ensure a consistent user experience, make sure to include these visual elements:
 
 1. **Page name.** It is important for the user to know which page they<br>                        are currently on.
 2. **Page description.** You should provide a short description of the<br>                        task to be performed on the page.
@@ -21,8 +21,7 @@ Most importantly when a first time a user tries your program, they should be abl
 
 
 [[goodExample]]
-| ![ Good Example - SSW Link Auditor Wizard's<br>                                better flow of information](../../assets/GoodInformationFlow.gif)
-
+| ![SSW Link Auditor Wizard's<br>                                better flow of information](../../assets/GoodInformationFlow.gif)
 Technical Note: To ensure visual consistency across applications, create a base                     form then set the properties in that form (application icon, menu structure, button                     names etc.) Add any logic in for switching pages with the "Next" and "Back"                     buttons. Then for all projects, add a reference to that one and inherit the customized                     form.
 
 In the forms in your application, instead of inheriting from **System.Windows.Forms.Form**                     (the Default), inherit from your new base form class.
@@ -44,6 +43,5 @@ The "finish" button denotes the end of the Wizard; by clicking on it,           
 For longer processes, the Wizard should implement "Start" and "Skip"                     features to guide the user through from start to finish.
 
 [[goodExample]]
-| ![ Good Example - SSW Code Auditor Wizard featuring<br>                                "Start" and "Skip" options](../../assets/StartProcess.gif)
-
+| ![SSW Code Auditor Wizard featuring<br>                                "Start" and "Skip" options](../../assets/StartProcess.gif)
 Here's some more information on the [Microsoft Standard for Wizard Welcome and Completion Page art](http://www.ssw.com.au/ssw/Redirect/Microsoft/wizard.htm) and [Interior Page art](http://www.ssw.com.au/ssw/Redirect/Microsoft/wizard2.htm).

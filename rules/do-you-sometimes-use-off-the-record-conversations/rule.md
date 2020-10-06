@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Usually, when you notice some undesirable behaviour, you would generally give feedback directly, but sometimes there is a better way that can train both the person and also their direct manager:​
+Usually, when you notice some undesirable behaviour, you would generally give feedback directly, but sometimes there is a better way that can train both the person and also their direct manager:
  
 You can ask a manager for an "off the record" conversation where you can tell them something you have observed about the person they're managing and suggest that, if they agree, can they say something to the person?
 

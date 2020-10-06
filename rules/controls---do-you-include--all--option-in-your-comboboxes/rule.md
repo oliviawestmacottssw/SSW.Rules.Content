@@ -22,14 +22,14 @@ They both have the same meaning, but the first one is immediately visible wherea
  
 
 
-If the ID column in your database is a string data type, it ​is useful to add a constraint to limit the types of characters that it can contain. Adding a constraint can make it simpler to build your front-end, as you won't need to worry about encoding or escaping to handle special characters.
+If the ID column in your database is a string data type, it is useful to add a constraint to limit the types of characters that it can contain. Adding a constraint can make it simpler to build your front-end, as you won't need to worry about encoding or escaping to handle special characters.
 
 
 
 In SQL Server, you can add a check constraint that limits your column to alphanumeric characters, a hyphen, or underscore using the following T-SQL:
 
-ALTER TABLE [TableName] ADD CONSTRAINT CK\_String\_Identifier​
-    CHECK ([StringIdColumn] NOT LIKE'%[^a-zA-Z0-9\_\-]%')​
+ALTER TABLE [TableName] ADD CONSTRAINT CK\_String\_Identifier
+    CHECK ([StringIdColumn] NOT LIKE'%[^a-zA-Z0-9\_\-]%')
 
 
 
@@ -38,20 +38,15 @@ ALTER TABLE [TableName] ADD CONSTRAINT CK\_String\_Identifier​
 
 
 [[badExample]]
-| ![ Bad Example - No '-All-' option so the user cannot select all data](../../assets/Combo-ALL-1.jpg)
-
+| ![No '-All-' option so the user cannot select all data](../../assets/Combo-ALL-1.jpg)
 [[goodExample]]
-| ![ Good Example - Having an '-All-' option gives a user a chance to select all data](../../assets/Combo-ALL-2.jpg)
-
+| ![Having an '-All-' option gives a user a chance to select all data](../../assets/Combo-ALL-2.jpg)
 Also, keep it simple!
 
 [[badExample]]
-| ![ Bad Example - '-All Stores-' isn't needed](../../assets/SelectAllBad.jpg)
-
+| !['-All Stores-' isn't needed](../../assets/SelectAllBad.jpg)
 [[goodExample]]
-| ![ Good Example - Keep it as a simple '-All-'](../../assets/SelectAllGood.jpg)
-
+| ![Keep it as a simple '-All-'](../../assets/SelectAllGood.jpg)
 [[goodExample]]
-| ![ Good Example - Keeping it simple makes it easy to spot ](../../assets/SelectAllVGood.gif)
-(that there is no filter) when you have multiple fields.
+| ![Keeping it simple makes it easy to spot](../../assets/SelectAllVGood.gif)(that there is no filter) when you have multiple fields.
 Read our rule on [Always make sure the dimensions All Captions = All](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterBusinessIntelligence.aspx#AllDimensionsTag).

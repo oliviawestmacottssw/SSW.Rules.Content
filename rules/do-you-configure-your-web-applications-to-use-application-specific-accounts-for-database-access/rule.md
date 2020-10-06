@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​Do you configure your web applications to use application specific accounts for database access?
+Do you configure your web applications to use application specific accounts for database access?
 
 An application's database access profile should be as restricted as possible, so that in the case that it is compromised, the damage will be limited.
 
@@ -76,4 +76,4 @@ If you are running a web application on Azure as you should configure you applic
 
 Data Source=tcp:xyzsqlserver.database.windows.net,1433; Initial Catalog=myapp-staging-db; User ID=myappstaging@xyzsqlserver; Password='\*\*\*\*\*\*\*\*\*\*\*\*\*'
 
-​**Figure: Example connection string**
+**Figure: Example connection string**

@@ -26,8 +26,7 @@ Free certificates can be obtained from Certificate Authorities like Let's Encryp
 
 
 
-![](letsenc.png) 
-Good Example: Let's Encrypt Free Certificate Authority
+![Let's Encrypt Free Certificate Authority](letsenc.png)
 
 
 Why would anyone use paid certificates, then?
@@ -44,7 +43,7 @@ If you are operating a big business, paid certificates give you some more assura
 
 
 
-![](comodo.png)Good Example: Comodo Paid Certificate Authority
+![Comodo Paid Certificate Authority](comodo.png)
 
 
 

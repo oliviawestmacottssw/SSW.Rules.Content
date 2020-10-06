@@ -11,22 +11,22 @@ authors:
 
 $(#id) is a selector of jQuery. It gets the single element with the given id.
 
-[jQuery](http&#58;//jquery.com/) ​is a fast and concise JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.​
+[jQuery](http&#58;//jquery.com/) is a fast and concise JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.
  
-​With jQuery, you can write less code but do more work.
+With jQuery, you can write less code but do more work.
 
 &lt;h1 id="Head1"&gt;Hello&lt;/h1&gt; 
 &lt;script type="text/javascript" language="javascript"&gt;
     document.all("Head1").style.color="red"; 
 &lt;/script&gt;
-Figure - Bad Code​​​
+Figure - Bad Code
 &lt;h1 id="Head1"&gt;Hello&lt;/h1&gt; 
-&lt;script type="text/javascript" language="javascript"&gt;​​
+&lt;script type="text/javascript" language="javascript"&gt;
     document.getElementById("Head1").style.color="red"; 
 &lt;/script&gt;
-Figure: Bad Code​
+Figure: Bad Code
 &lt;h1 id="Head1"&gt;Hello&lt;/h1&gt; 
 &lt;script type="text/javascript" language="javascript"&gt;
     $("#Head1").css("color","red"); 
-​&lt;/script&gt;
-Figure: Good Code - Using $("#Head1")​​​
+&lt;/script&gt;
+Figure: Good Code - Using $("#Head1")

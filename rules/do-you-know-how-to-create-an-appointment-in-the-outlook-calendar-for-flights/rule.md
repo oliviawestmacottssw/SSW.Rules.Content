@@ -20,4 +20,4 @@ As per our conversation, you are flying via Melbourne, because xxx...
 - **Do not forget to categorize the appointment as CONFIRMED RED so it cannot be overlooked.**
 - When possible, always include the terminal number in the Location feild and if a non standard terminal eg. Jetstar flights highlight it with a warning 
 Eg. WARNING: Different terminal. Allow more time
-- Include the duration of the flight in the message of the appointment.​
+- Include the duration of the flight in the message of the appointment.

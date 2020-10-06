@@ -9,26 +9,22 @@ authors:
 
 ---
 
-​​​​​JavaScript alerts are evil. Not only are they ugly, they look unprofessional...
+JavaScript alerts are evil. Not only are they ugly, they look unprofessional...
  
 
 
 
-![](JS_Alert.png)
-B​​​ad example: A JavaScript alert showing a message to the user
+![A JavaScript alert showing a message to the user](JS_Alert.png)
 
 
 
-![](JSAlert_Code.png)
-Bad example: The alert(".....") is the evil code
+![The alert](JSAlert_Code.png)(".....") is the evil code
 
 
 
 
-![](Toastr_Alert.png)
-Good example: The message in green is rendered as Html
+![The message in green is rendered as Html](Toastr_Alert.png)
 
 
 
-![](JS_Alert_2.png)
-Good example: In this example, [Toaster](https://github.com/CodeSeven/toastr)is used
+![In this example,](JS_Alert_2.png)[Toaster](https://github.com/CodeSeven/toastr)is used

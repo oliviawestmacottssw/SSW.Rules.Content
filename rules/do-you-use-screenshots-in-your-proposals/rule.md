@@ -9,6 +9,6 @@ authors:
 
 ---
 
-A Picture tells a thousand words. Using screen shots can sell your designs and add confidence to your proposals by giving visual examples of similar projects you have done.​
+A Picture tells a thousand words. Using screen shots can sell your designs and add confidence to your proposals by giving visual examples of similar projects you have done.
  
-![](Proposals_Screeshot.jpg)​​Figure: Add a screenshot of a related project​
+![Add a screenshot of a related project](Proposals_Screeshot.jpg)

@@ -11,7 +11,7 @@ authors:
 
 ---
 
-#### ​What makes Google so successful? The answer to that is Google's Page Rank Algorithm. You can read about the early days of the page rank algorithm here: [The Anatomy of a Large-Scale Hypertextual Web Search Engine.](http&#58;//infolab.stanford.edu/~backrub/google.html)
+#### What makes Google so successful? The answer to that is Google's Page Rank Algorithm. You can read about the early days of the page rank algorithm here: [The Anatomy of a Large-Scale Hypertextual Web Search Engine.](http&#58;//infolab.stanford.edu/~backrub/google.html)
 
 
 
@@ -21,7 +21,7 @@ The basic premise that comes from this algorithm is:
 
 When I link to your page, I'm casting a vote that your page is good and the more links (votes) that are received the better the page is.
  
-​​This statement alone sent shockwaves through the webmaster community and sent many webmasters on an endless quest for links. All pages begin with an equal page rank, which is then moved around based on the internal and external links to and from that page.
+This statement alone sent shockwaves through the webmaster community and sent many webmasters on an endless quest for links. All pages begin with an equal page rank, which is then moved around based on the internal and external links to and from that page.
 It's important not to forget that Page Rank is not the only factor involved in a search. Essentially Google completes the following steps when you perform a search:
 
 1. Finds all pages matching the keywords of the search

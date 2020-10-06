@@ -10,8 +10,7 @@ authors:
 ---
 
 When SharePoint encounters a new person, it takes people's display name and account name from Active Directory, but sometimes<br> 
-![ Mixed up names - some are good Display Name, some are essentially just the Account Name ](MixUpNames.jpg) 
-(More here) 
+![Mixed up names - some are good Display Name, some are essentially just the Account Name](MixUpNames.jpg)(More here) 
 
 The easiest way to fix this requires someone with central administration access:1. Go to: SharePoint Central Administration | Application Management | Service Applications | Manage Service applications 
 

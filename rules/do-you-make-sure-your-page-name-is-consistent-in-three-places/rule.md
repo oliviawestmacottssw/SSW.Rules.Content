@@ -15,7 +15,6 @@ It's a good idea to make sure your page names are consistent       between:
 
  
 [[badExample]]
-| ![ Inconsistency everywhere](../../assets/BadPageName.jpg)
-!
+| ![Inconsistency everywhere](../../assets/BadPageName.jpg)!
 [[goodExample]]
 | ![Title, Header and Navigation Menu item have the same text.](../../assets/GoodPageName.jpg)

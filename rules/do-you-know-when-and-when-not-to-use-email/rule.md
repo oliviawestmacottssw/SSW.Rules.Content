@@ -39,4 +39,4 @@ Similarly, never bring up a tricky topic with someone by email. It's very easy t
 
  This way you can review issues together, and, importantly, decisions are confirmed in writing. 
 
-![ Are you in the right frame of mind?](pic38-KeepDrasticThingsForImportantThings.gif)
+![Are you in the right frame of mind?](pic38-KeepDrasticThingsForImportantThings.gif)

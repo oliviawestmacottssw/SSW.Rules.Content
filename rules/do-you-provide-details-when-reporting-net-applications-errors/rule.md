@@ -11,8 +11,7 @@ authors: []
  
 The text within the 'Details' button is more useful for debugging and locating the problem.
 
-![ Bug details window](../../assets/DotNetDebug2.GIF)
-
+![Bug details window](../../assets/DotNetDebug2.GIF)
 See the end of this message for details on invoking 
 just-in-time (JIT) debugging instead of this dialog box.
 
@@ -81,4 +80,4 @@ For example:
 
 When JIT debugging is enabled, any unhandled exception
 will be sent to the JIT debugger registered on the machine
-rather than being handled by this dialog.​
+rather than being handled by this dialog.

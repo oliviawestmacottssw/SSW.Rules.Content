@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Here's a cool site that tests the latency of  Azure Data Centres from your machine. It can be used to work out which Azure Data Centre is best for your project based on the target user audience: [http://www.azurespeed.com](http://www.azurespeed.com/)​
+Here's a cool site that tests the latency of  Azure Data Centres from your machine. It can be used to work out which Azure Data Centre is best for your project based on the target user audience: [http://www.azurespeed.com](http://www.azurespeed.com/)
  
 As well as testing latency it has additional tests that come in handy like:
 
@@ -19,4 +19,4 @@ As well as testing latency it has additional tests that come in handy like:
 - Download Test <br>
 
 
-![ AzureSpeed.com example​](azure-speed.jpg)
+![AzureSpeed.com example](azure-speed.jpg)

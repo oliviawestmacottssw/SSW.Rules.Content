@@ -13,11 +13,9 @@ authors:
 
 The simplest way is to add a procValidate (Stored Procedure) to check that all the lookup data is still there.
 
-![ procValidates are just like a nagging wife ](NaggingWife.gif) 
-
+![procValidates are just like a nagging wife](NaggingWife.gif)
 <br>Let's look at an example, of a combo that is populated with Controlled Lookup data (just 4 records)  <br> 
-![ How do I make sure these 4 records never go missing? ](TimeProDropDown.png) 
-
+![How do I make sure these 4 records never go missing?](TimeProDropDown.png)
 
 ```
 CREATE PROCEDURE procValidate_Region 

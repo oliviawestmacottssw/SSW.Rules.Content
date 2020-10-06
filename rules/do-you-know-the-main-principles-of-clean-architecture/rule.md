@@ -11,8 +11,7 @@ authors:
 
 With Clean Architecture the Domain and the Application layers are at the centre of the design. This is known as the Core of the application. The Domain layer contains the enterprise logic and types and the Application layer contains the business logic and types. The difference being that enterprise logic could be shared with other systems whereas business logic would typically be specific to this system.
 
-![ Onion View of Clean Architecture​](ca-diagram.png)
-
+![Onion View of Clean Architecture](ca-diagram.png)
  
 Instead of having Core depend on data access and other infrastructure concerns, we invert these dependencies, therefore Infrastructure and Presentation depend on Core. This is achieved by adding abstractions, such as interfaces or abstract base classes, to the Application layer. Layers outside of Core, such as Infrastructure and Persistence, then implement these abstractions.
 
@@ -31,9 +30,9 @@ This results in an architecture and design that is:
 
 
 
-While the design in the above​ figure only includes three circles, you may need more - just think of this as a starting point.
+While the design in the above figure only includes three circles, you may need more - just think of this as a starting point.
 
-### ​References
+### References
 
 - [The Clean Architecture](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Clean architecture](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures#clean-architecture)

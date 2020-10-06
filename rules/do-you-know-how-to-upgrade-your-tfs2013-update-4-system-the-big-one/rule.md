@@ -27,14 +27,12 @@ d.              Make sure you have access to coffee while it's upgrading your Pr
 
 
 
-![ Depending on the size of your collections, the Project Collection upgrade process takes the longest out of all steps](depending size.png)
+![Depending on the size of your collections, the Project Collection upgrade process takes the longest out of all steps](depending size.png)
 
 
 
 
-
-![ Wait for the Project Collection upgrade to complete](coffee2.png)
-
+![Wait for the Project Collection upgrade to complete](coffee2.png)
 
 ** **
 

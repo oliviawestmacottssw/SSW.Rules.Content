@@ -13,5 +13,5 @@ We all know the feeling after a long day... Exhausted, we wander the internet, l
  
 One simple way to do this is to make sure that the first word of your blog post is "**VIDEO – **".
 
-![](Stevo-Bad-blog.png)Bad example: Great content, but from the title you would be unable to tell that this is a video    
-![](Chris-Good-blog.png)  Good example: Easy to see from the title that this includes a video
+![Great content, but from the title you would be unable to tell that this is a video](Stevo-Bad-blog.png)
+![Easy to see from the title that this includes a video](Chris-Good-blog.png)

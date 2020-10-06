@@ -23,8 +23,7 @@ There are two ways to do this:1. If you haven’t checked in any files since you
     - To use this you will need to install [Team Foundation Server Power Tools v1.2](http://www.ssw.com.au/ssw/Redirect/TFSPowerToolsDownload.htm) 
 ![](../../assets/external.gif "You are now leaving SSW")
     - Find the revision before you started checking code in using the **History command**
-![ The last revision before Tristan made changes was 5367](rollback2.gif)
-
+![The last revision before Tristan made changes was 5367](rollback2.gif)
     - Open the Command Prompt in your current working directory and type **“c:\Program Files\Microsoft Team Foundation Server Power Tools\tfpt.exe” rollback /changeset:5367**
 ![](rollback3.gif)
     - Click **Yes** and the rollback will proceed

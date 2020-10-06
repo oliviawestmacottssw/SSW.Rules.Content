@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-​When writing for an audience, you want to make sure you're consistent in your way of addressing them. For standards and rules, it's best to explain what they should do from an objective standpoint.
+When writing for an audience, you want to make sure you're consistent in your way of addressing them. For standards and rules, it's best to explain what they should do from an objective standpoint.
 <br>If you want to use an example from your company to explain how something is done, you should avoid speaking from the 1st person (i.e. I or we) or 2nd person (i.e. you or your). Use 3rd person, like Wikipedia.
- ​​​​​​​Bad Example: I often see pages have 2 or 3 links to the same page
-​Good Example: Pages sometimes have 2 or 3 links to the same pag​eBad Example: At SSW, we use CRM to track sales activities Good Example: SSW uses CRM to track sales activities
+ Bad Example: I often see pages have 2 or 3 links to the same page
+Good Example: Pages sometimes have 2 or 3 links to the same pageBad Example: At SSW, we use CRM to track sales activities Good Example: SSW uses CRM to track sales activities

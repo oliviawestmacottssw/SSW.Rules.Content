@@ -11,10 +11,10 @@ authors:
 
 ---
 
-​ <br>
-​When a new developer joins a project, there is often a sea of information that they need to learn right away to be productive. This includes things like: ​
+<br>
+When a new developer joins a project, there is often a sea of information that they need to learn right away to be productive. This includes things like: 
 
-1. ​​Who the <br>         [Product Owner​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a91de77d-a8dd-40be-b61a-bd6305e7183f) is and who the <br>         [Scrum Master​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=c38e68bd-763b-4e19-b3ab-6083115ac1f2) is
+1. Who the <br>         [Product Owner](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a91de77d-a8dd-40be-b61a-bd6305e7183f) is and who the <br>         [Scrum Master](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=c38e68bd-763b-4e19-b3ab-6083115ac1f2) is
 2. Where the backlog is
 3. Where the automated builds are
 4. Where the staging and production environments are
@@ -23,19 +23,18 @@ authors:
 
 Make it easy for the new developer by putting all this information in a central location like the Visual Studio dashboard.
 
-![](plaindashboard.png) ​ 
-![](2016-06-06_8-00-55.png)
-​​​Figure: Bad Example - Don't stick with the default dashboard, it's almost useless​​​​
+![](plaindashboard.png)  
+[[badExample]]
+| ![Don't stick with the default dashboard, it's almost useless](2016-06-06_8-00-55.png)
 [[goodExample]]
-| ![ ​Good Example - This dashboard contains all the information a new team member would need to get started](2016-06-06_9-15-14.png)
-
- ​
+| ![This dashboard contains all the information a new team member would need to get started](2016-06-06_9-15-14.png)
+ 
  
 The dashboard should contain:
 
 1. Who the [Product Owner](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a91de77d-a8dd-40be-b61a-bd6305e7183f) is and who the [Scrum Master](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=c38e68bd-763b-4e19-b3ab-6083115ac1f2) is
 2. The [Definition of Ready](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e01abde1-9a3e-4e4c-84a8-50e98e9c44d0) and the [Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6449ae79-ba88-447e-aa48-36173029a2af)
-3. When the [daily standups​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=731a3f5d-a266-4944-876c-a45afa82832f) occur and when the next sprint review is scheduled
+3. When the [daily standups](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=731a3f5d-a266-4944-876c-a45afa82832f) occur and when the next sprint review is scheduled
 4. The current sprint backlog
 5. Show the current build status
 6. Show links to:

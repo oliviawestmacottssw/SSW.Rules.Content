@@ -23,8 +23,7 @@ MaterialUI is a set of React Components that Implement the [Google’s Material 
 
 
 
-![ MaterialUI is a set of React components that implement Google's Material Design.](Snipaste_2019-05-14_18-04-27.jpg)
-
+![MaterialUI is a set of React components that implement Google's Material Design.](Snipaste_2019-05-14_18-04-27.jpg)
 
 
 Get started:        [**react-material-ui-official-docs-example**](https://stackblitz.com/edit/react-material-ui-official-docs-example)
@@ -39,6 +38,6 @@ Get started:        [**react-bootstrap-ui-official-docs-example**](https://stack
 ### Ant Design
 
 
-Ant Design React is dedicated to providing a good development experience for programmers. An enterprise-class UI design language and React-based implementation. Ant design is set of high-quality React components out of the box which are written in        **TypeScript**. It supports browser, server-side rendering and Electron environments, has many components and [even a tutorial with        **Create-react-app**]https://ant.design/docs/react/use-with-create-react-app​​
+Ant Design React is dedicated to providing a good development experience for programmers. An enterprise-class UI design language and React-based implementation. Ant design is set of high-quality React components out of the box which are written in        **TypeScript**. It supports browser, server-side rendering and Electron environments, has many components and [even a tutorial with        **Create-react-app**]https://ant.design/docs/react/use-with-create-react-app
 
 Get started:        [**ant-design-example**](https://codesandbox.io/s/wk04r016q8?from-embed)

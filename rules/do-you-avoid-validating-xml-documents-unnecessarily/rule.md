@@ -17,9 +17,9 @@ Validating an XML document against a schema is expensive, and should not be done
 - Parse using XmlDocument with XmlValidatingReader: length 1619608 - 1862 ms
 
 
-You can disable validation when using the XmlDocument object by passing an XmlTextReader instead of the XmlValidatingTextReader:​
+You can disable validation when using the XmlDocument object by passing an XmlTextReader instead of the XmlValidatingTextReader:
  
-​XmlDocument report = new XmlDocument();
+XmlDocument report = new XmlDocument();
  XmlTextReader tr = new XmlTextReader(Configuration.LastReportPath);
  report.Load(tr);
 
@@ -33,4 +33,4 @@ XmlDocument report = new XmlDocument();
 The XSD should be distributed in the same directory as the XML file and a relative path should be used:
 
 &lt;Report&gt; &lt;Report xmlns="LinkAuditorReport.xsd"&gt;
- ... &lt;/Report&gt;​​
+ ... &lt;/Report&gt;

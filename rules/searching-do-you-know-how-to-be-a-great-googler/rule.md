@@ -15,7 +15,7 @@ I am pretty good at Googling but when I can't find something, I ask my friend Sc
 **Tips:**
 1. Think of a piece of the code that will be in the answer
 2. Include the company name if possible
-3. Use the advanced searching functionality​
+3. Use the advanced searching functionality
 4. Use quotation marks when you're searching for an exact string
 5. Include the technology used if appropriate
 

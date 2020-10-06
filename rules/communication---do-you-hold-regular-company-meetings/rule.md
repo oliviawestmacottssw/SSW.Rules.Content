@@ -22,8 +22,7 @@ So that it doesn't impact client work too much, it's generally best if this meet
 After each meeting, the organizer should set the date for the next one and send out an appointment with a "Skype Meeting" request, so available people can simply click the "Join Meeting" link to join, as this saves time and makes the beginning of the meeting run smoothly.
  
 [[goodExample]]
-| ![ Good Example - Use the inbuilt Skype Meeting functionality to make sure no one gets left out](SkypeForBusinessMeeting.png)  
-
+| ![Use the inbuilt Skype Meeting functionality to make sure no one gets left out](SkypeForBusinessMeeting.png)
 
 ** Hi All,** 
 
@@ -36,4 +35,4 @@ If you’re at SSW Sydney on the day, come to the Chapel, otherwise, click the l
 Let me know if you want any topics raised.
  
 [https://rules.ssw.com.au/do-you-hold-regular-company-meetings](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=2cb1995c-3735-4074-a3fc-68388a0c6836) >
-Figure: Good Example - Email template for the meeting​
+Figure: Good Example - Email template for the meeting

@@ -22,12 +22,12 @@ Here are some resources on the topic:
 
 
  
-![](Apply-5S_Desk-01_GoLeanSixSigma.com_.jpg) Bad example - A messy desk is a messy head
+![Bad](Apply-5S_Desk-01_GoLeanSixSigma.com_.jpg)
 
 Photo: courtesy of goleansixsigma.com ([source](https://goleansixsigma.com/apply-5s-home-office-desk/)).
 
 
-​  
-![](Apply-5S_Desk-04_GoLeanSixSigma.com_.jpg) Good example - A clean and productive workspace following the 5S methodology
+  
+![Good](Apply-5S_Desk-04_GoLeanSixSigma.com_.jpg)
 
 Photo: courtesy of goleansixsigma.com ([source](https://goleansixsigma.com/apply-5s-home-office-desk/)).

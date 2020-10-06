@@ -23,22 +23,17 @@ Remember:
 - If the UI is a Windows Service, be aware that they don't open up the UI very often. Therefore you can't rely on this method. In a coming release Diagnostics will ask for your email and let you know when updates are available for you PC.
 
 
-![ BAD UI - a nagging message box that forces the User to click OK ](MSN.gif)
+![BAD UI - a nagging message box that forces the User to click OK](MSN.gif)
 
+![Show a Tick when the application is up to date](GoodUI.gif)
 
-![ Show a Tick when the application is up to date ](GoodUI.gif) 
-
-
-![ Show a Cross when the application is out of date ](BadUI.gif) 
-
+![Show a Cross when the application is out of date](BadUI.gif)
 
 To keep the consistent look and consistent code, we have implemented our version checker as a user control.
 
-![ SSW.Framework.WindowsUI.VersionStatus ](VersionStatusControl.gif) 
-
+![SSW.Framework.WindowsUI.VersionStatus](VersionStatusControl.gif)
 As it is a user control, we can easily implement this in all our applications. We just need to place the user control on the winform, and have the ProductDownloadID and ProductLatestVersionURL entered with the correct values.
 
-![ Enter the ProductDownloadID and ProductLatestVersionURL   ](VersionStatusProperties.gif) 
+![Enter the ProductDownloadID and ProductLatestVersionURL](VersionStatusProperties.gif)
 
-
-![ Include 'Check for Updates' in your applications ](CheckForUpdate.gif)
+![Include 'Check for Updates' in your applications](CheckForUpdate.gif)

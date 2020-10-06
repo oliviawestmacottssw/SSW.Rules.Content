@@ -9,11 +9,11 @@ authors:
 
 ---
 
-​Before any document goes to a client a test please for the document is to be completed. The first test is the technical test please. When that is passed the Design test please is to be completed.
+Before any document goes to a client a test please for the document is to be completed. The first test is the technical test please. When that is passed the Design test please is to be completed.
 
-The necessary amo​unt of time should be allocated. If there is a time limitation, the manager will inform which parts should be checked in prior.​
+The necessary amount of time should be allocated. If there is a time limitation, the manager will inform which parts should be checked in prior.
  
-### ​Technical Test
+### Technical Test
 
 
 - Document Body
@@ -42,7 +42,7 @@ The necessary amo​unt of time should be allocated. If there is a time limitati
 ### Headers
 The header of every page should contain a field from the document properties section which is the name of the document. Selecting all and pressing F9 won’t update this. It has to be done manually.
 
-### ​Document Body
+### Document Body
 
 - Make the correct company name is being used
 - Check all spelling mistakes
@@ -59,4 +59,4 @@ The header of every page should contain a field from the document properties sec
 - Spacing
 - Tables
 - Last thing to complete 
-- Update all fields before final save​
+- Update all fields before final save

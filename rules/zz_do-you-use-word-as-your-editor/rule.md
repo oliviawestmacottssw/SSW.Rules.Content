@@ -11,12 +11,11 @@ authors:
 
 ---
 
-​In Microsoft Outlook you have the option to use Word as your Email editor. 
+In Microsoft Outlook you have the option to use Word as your Email editor. 
  
 ## 
 
-![ Make sure you have this check box on ](OutlookWordAsEditor.gif) 
-
+![Make sure you have this check box on](OutlookWordAsEditor.gif)
 This has a few advantages:
 
 1. It automatically compresses images which you paste into your email (meaning a much smaller size email)
@@ -24,4 +23,4 @@ This has a few advantages:
 3. With the emergence of some great 3rd Party Smart Tags you can integrate your database in your email program. Companies often forget that improving their users' ability to handle email efficiently can be one of the biggest productivity gains you can achieve.
 
 
-![ See the difference in size](OutlookUsingWordAsMyEditor.gif)
+![See the difference in size](OutlookUsingWordAsMyEditor.gif)

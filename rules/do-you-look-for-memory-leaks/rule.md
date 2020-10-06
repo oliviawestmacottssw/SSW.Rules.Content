@@ -14,7 +14,7 @@ b. There<br>are common patterns for memory leak, e.g. proxy to WCF [code]
 e.g RIA service [code]
 
 e.g. Load +=     (9 out of 10 people will forget to remove their statement)
-   ​Google: Common Memory Leak  
+   Google: Common Memory Leak  
 [bad<br>code]
 
 [good<br>code]

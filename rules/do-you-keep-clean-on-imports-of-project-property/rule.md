@@ -16,8 +16,7 @@ This is because IntelliSense lists will be harder to use and navigate with too m
 
 To remove all the default imports, load Project Property page and select Common properties - Imports.
 
-![ Using aliases with the Imports Statement](ImportsVB.jpg) 
-
+![Using aliases with the Imports Statement](ImportsVB.jpg)
 The Import statement makes it easier to access methods of classes by eliminating the need to explicitly type the fully qualified reference names. Aliases let you assign a friendlier name to just one part of a namespace.
 
 For example, the carriage return-line feed sequence that causes a single piece of text to be displayed on multiple lines is part of the ControlChars class in the Microsoft.VisualBasic namespace. To use this constant in a program without an alias, you would need to type the following code:

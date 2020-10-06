@@ -30,8 +30,8 @@ The Marketing Automation inside Microsoft Dynamics Marketing is very powerful an
 
 **Response**
 
-- ​Scheduler (e.g. to delay x days before doing the next step
+- Scheduler (e.g. to delay x days before doing the next step
 - Trigger (e.g. if someone goes to an event)
 
 
-![ Simple drag and drop interface for creating automated marketing workflows](mdm-options.png)
+![Simple drag and drop interface for creating automated marketing workflows](mdm-options.png)

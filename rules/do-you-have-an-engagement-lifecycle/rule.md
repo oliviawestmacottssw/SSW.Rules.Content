@@ -10,14 +10,13 @@ authors:
 ---
 
 Having a documented process for managing engagements provides clients with a consistent experience. It also helps to get new employees up to speed quickly, and provides a reference to existing employees to ensure no steps are accidentally missed. 
-​
+
 
 Our engagement lifecycle overlaps with our     [sales pipeline](/do-you-know-the-6-stages-in-the-sales-pipeline), and maps to the     [8 Steps to Scrum](/do-you-know-the-8-steps-to-scrum).
 
 
 [[goodExample]]
-| ![ Good Example - Engagement Lifecycle](Engagement Lifecycle.png)
-
+| ![Engagement Lifecycle](Engagement Lifecycle.png)
 
 
 1. Initial Phone Call

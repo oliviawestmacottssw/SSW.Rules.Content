@@ -19,6 +19,5 @@ Mock-ups are very powerful tools to communicate requirements with clients, howev
 - Use them in development process directly (as they are real Sliverlight and WPF solution files)
 
 
-![](sketchflow.jpg) ​
-Figure: Expression + SketchFlow
+![Expression + SketchFlow](sketchflow.jpg)
 Read [Do you conduct specification analysis by creating mock-ups?](/Pages/SpecificationByMockUp.aspx) to learn more about other mock-up types.

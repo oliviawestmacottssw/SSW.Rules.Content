@@ -13,7 +13,7 @@ authors:
 
 ### Option 1  
 
-Custom - see Ulysses' Power BI session - [https://tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren​](https&#58;//tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren)
+Custom - see Ulysses' Power BI session - [https://tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren](https&#58;//tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren)
 
 
  

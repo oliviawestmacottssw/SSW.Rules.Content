@@ -17,4 +17,4 @@ At the end of the spec review encourage the project to go ahead with the current
 
 If you decide today or tomorrow, then we can use the same resources....
 
-​Regardless,​ it is always better to move ahead while the project is fresh in the developers' heads."
+Regardless, it is always better to move ahead while the project is fresh in the developers' heads."

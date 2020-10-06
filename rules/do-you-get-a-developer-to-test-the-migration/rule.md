@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-It is important to get another developer to check the migration f​or issues.
+It is important to get another developer to check the migration for issues.
  They should follow these steps:
 a.      Start Visual Studio 2013
 

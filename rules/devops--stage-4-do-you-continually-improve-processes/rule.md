@@ -11,16 +11,16 @@ authors:
 
 ---
 
-​​​​Now that you’ve got the numbers, you can then make decisions on what needs improvement and go through the DevOps cycle again.​
+Now that you’ve got the numbers, you can then make decisions on what needs improvement and go through the DevOps cycle again.
 
-Here are some examples:​
-   ​ 
+Here are some examples:
+    
 - For exceptions, review your exception log (ELMAH, RayGun, HockeyApp)
-    - Add the important ones onto your backlog for prioritization​
+    - Add the important ones onto your backlog for prioritization
     - Add an ignore to the exceptions you don't care about to reduce the noise (e.g. 404 errors)
     - You can do this as the exceptions appear, or prior to doing your Sprint Review as part of the backlog grooming
-    - ​You don't have to get the exception log down to 0, just action the important ones and aim to reduce the noise so that the log is still useful​
-- ​For code quality, add getting Code Auditor and ReSharper to 0 on files you’ve changed to your Definition of Done
+    - You don't have to get the exception log down to 0, just action the important ones and aim to reduce the noise so that the log is still useful
+- For code quality, add getting Code Auditor and ReSharper to 0 on files you’ve changed to your Definition of Done
 - - See [https://rules.ssw.com.au/done-do-you-go-beyond-done-and-follow-a-definition-of-done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6449ae79-ba88-447e-aa48-36173029a2af)
 - For code quality, add SonarQube and identify your technical debt and track it
 ![](improve-processes.png)

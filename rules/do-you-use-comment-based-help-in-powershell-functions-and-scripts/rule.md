@@ -19,7 +19,7 @@ If you do this, the Get-Help cmdlet will show the information contained in the c
 You can use it like this (beginning of the Function body):
 
  
-​function Get-Function
+function Get-Function
 {
 &lt;#
 .&lt;help keyword&gt;
@@ -28,7 +28,7 @@ You can use it like this (beginning of the Function body):
 
   # function logic
 }
-Figure: Good Example - Using Comment-Based Help for Functions​​
+Figure: Good Example - Using Comment-Based Help for Functions
 
 Or like this (before the function keyword):
 
@@ -37,7 +37,7 @@ Or like this (before the function keyword):
 &lt;help content&gt;
 #&gt;
 function Get-Function { }
-​​​Figure: Good Example - Using Comment-Based Help for Function
+Figure: Good Example - Using Comment-Based Help for Function
 You can do the same with scripts, with a little difference - you need to place the snippet at the beginning or end of the script file:
 
 #Accept input parameters
@@ -54,7 +54,7 @@ param(
 )
 Figure: Bad Example - Script not using any Comment-Based Help snippet
 
-​&lt;#
+&lt;#
 .SYNOPSIS
 Gets THE IP addresses in a file and checks if they are on blacklists across the web.
 
@@ -63,7 +63,7 @@ Gets THE IP addresses in a file and checks if they are on blacklists across the 
 
 .EXAMPLE
 PS C:\&gt; Check-Blacklist -File "FileWithNewIPs" -BaseFile "BaseBlacklistFile" -Logfile "LogfileLocation"
-​Checks the newly-generated blacklist file to see if any IPs are blacklisted, if yes, adds them to the final blacklist file.
+Checks the newly-generated blacklist file to see if any IPs are blacklisted, if yes, adds them to the final blacklist file.
 
 .NOTES
 Created by Kiki Biancatti for SSW.
@@ -77,10 +77,10 @@ Param(
 [Parameter(Position = 2, Mandatory = $true)]
 [string] $LogFile
 ) ...
-Figure: Good Example - Using Comment-Based Help at the beginning of a script file​
+Figure: Good Example - Using Comment-Based Help at the beginning of a script file
 
 You can check some good PowerShell examples in     [SSW's GitHub](https&#58;//github.com/SSWConsulting):
 
 - [https://github.com/SSWConsulting/SSWSysAdmins.ITPurchaseRequestForm](https&#58;//github.com/SSWConsulting/SSWSysAdmins.ITPurchaseRequestForm)
 - [https://github.com/SSWConsulting/SSWSysAdmins.BlacklistChecker](https&#58;//github.com/SSWConsulting/SSWSysAdmins.BlacklistChecker)
-- https://github.com/SSWConsulting/SSWSysAdmins.LeavingStandard​​
+- https://github.com/SSWConsulting/SSWSysAdmins.LeavingStandard

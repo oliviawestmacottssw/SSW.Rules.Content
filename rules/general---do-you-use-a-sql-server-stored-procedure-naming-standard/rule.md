@@ -9,9 +9,9 @@ authors:
 
 ---
 
-​This standard outlines the standard on naming Stored Procedures within SQL Server. Use these standards when creating new Stored Procedures or if you find an older Stored Procedure that doesn't follow these standards within SSW.​
+This standard outlines the standard on naming Stored Procedures within SQL Server. Use these standards when creating new Stored Procedures or if you find an older Stored Procedure that doesn't follow these standards within SSW.
  
-​**Note:** Stored Procedures will run fractionally slower if they start with a prefix of sp\_   This is because SQL Server will look for a system stored proc first. Therefore we never recommend starting stored procs with a prefix of sp\_
+**Note:** Stored Procedures will run fractionally slower if they start with a prefix of sp\_   This is because SQL Server will look for a system stored proc first. Therefore we never recommend starting stored procs with a prefix of sp\_
 Do you agree with them all? Are we missing some? Let us know what you think.
 
 ### Syntax
@@ -32,7 +32,7 @@ If Stored Procedure deletes data then suffix is 'Delete'.
 If Stored Procedure refreshes data (ie. drop and create) a table then suffix is 'Create'.
 If Stored Procedure returns an output parameter and nothing else then make the suffix is 'Output'.
 
-​ALTER PROCEDURE procClientRateOutput
+ALTER PROCEDURE procClientRateOutput
 
          @pstrClientID VARCHAR(6) = 'CABLE',
          @pstrCategoryID VARCHAR(6) = '&lt;All&gt;',
@@ -69,14 +69,14 @@ IF @curRate IS NULL
                )
 
 RETURN
-​Figure: Good Example - stored proc that returns only an output parameter
+Figure: Good Example - stored proc that returns only an output parameter
 
-​​
 
-​​​Select 'procGetRate' or 'sp\_GetRate'
+
+Select 'procGetRate' or 'sp\_GetRate'
 Insert 'procEmailMergeAdd'
-​​​Figure: Bad Example
+Figure: Bad Example
 
 'procClientRateSelect'
 'procEmailMergeInsert'
-​​​​​Figure: Good Example
+Figure: Good Example

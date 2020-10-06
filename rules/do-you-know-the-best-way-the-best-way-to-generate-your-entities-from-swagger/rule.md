@@ -19,25 +19,20 @@ There are 3 ways:
  
 1. **AutoR est** - [https://github.com/Azure/aut orest](https://github.com/Azure/autorest)
 2. **NSwagStudio** - https://github.com/NSwag/NSwag/wiki/NSwagStudio
-3. **Swagger Codegen** - http://swagger.io/swagger-codegen​
+3. **Swagger Codegen** - http://swagger.io/swagger-codegen
 
  
 [[badExample]]
-| ![ only around 1, 000 results ](nswagstudio-search.jpg) 
-
+| ![only around 1, 000 results](nswagstudio-search.jpg)
  
 [[badExample]]
-| ![ NSwag has not many "Watch" and "Star"](github-nswag.jpg) 
-
+| ![NSwag has not many "Watch" and "Star"](github-nswag.jpg)
  
 [[okExample]]
 | ![Around 40,000 results](swagger-codegen-search.jpg)
-
  
-![ Swagger-Codegen and Autorest are quite popular. Swagger-Codegen has more “Star” ](github-swagger-codegen.jpg)
-
+![Swagger-Codegen and Autorest are quite popular. Swagger-Codegen has more “Star”](github-swagger-codegen.jpg)
  
 [[goodExample]]
-| ![130,000+ results](autorest-search.jpg) 
-
-![ Swagger-Codegen and Autorest are quite popular. Autorest has more “Watch”](github-autorest.jpg)
+| ![130,000+ results](autorest-search.jpg)
+![Swagger-Codegen and Autorest are quite popular. Autorest has more “Watch”](github-autorest.jpg)

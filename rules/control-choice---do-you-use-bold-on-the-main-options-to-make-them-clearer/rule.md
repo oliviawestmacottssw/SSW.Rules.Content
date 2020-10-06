@@ -8,9 +8,8 @@ authors: []
 ---
 
 Make the options clearer by using bold.
-   ​
+   
 [[badExample]]
-| ![ Bad Example - Main options text not in bold](../../assets/OptionsTextNotInBold.gif)
-
+| ![Main options text not in bold](../../assets/OptionsTextNotInBold.gif)
 [[goodExample]]
-| ![ Good Example - Main options text in bold](../../assets/OptionsTextInBold.gif)
+| ![Main options text in bold](../../assets/OptionsTextInBold.gif)

@@ -10,9 +10,6 @@ authors:
 ---
 
 Finding a file with a BAK extension is a "call sign" that your folders need a tidy up. 
-![ Bad example](bak-bad.jpg)
-
-![ Good example​](bak-good.jpg)
-
-We have a program called     [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.​
-​
+![Bad example](bak-bad.jpg)
+![Good example](bak-good.jpg)
+We have a program called     [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.

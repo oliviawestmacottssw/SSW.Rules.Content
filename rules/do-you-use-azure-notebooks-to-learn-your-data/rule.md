@@ -9,7 +9,6 @@ authors:
 
 ---
 
-​​​​​Azure Notebooks offer a simple, transparent and complete technology for analysing data and presenting the results.  They are quickly become the default way to conduct data analysis in the scientific and academic community.
+Azure Notebooks offer a simple, transparent and complete technology for analysing data and presenting the results.  They are quickly become the default way to conduct data analysis in the scientific and academic community.
  
 `youtube: https://www.youtube.com/embed/sUN5eIfbVM0?end=4107`
-​​​

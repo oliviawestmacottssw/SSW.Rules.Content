@@ -52,11 +52,9 @@ index:
 - do-you-avoid-logging-out-and-logging-in
 
 ---
-​​​
+Being a software consultant involves more than just coding. How you manage and communicate with your clients is vital to your success.
 
-​​​​​Being a software consultant involves more than just coding. How you manage and communicate with your clients is vital to your success.
+The other half of being the best consultant possible can be found at     [Rules to Better Software Consultants - Working in a Team](/rules-to-better-software-consultants-working-in-a-team).
 
-The other half of being the best consultant possible can be found at     [Rules to Better​ Software Consultants - Working in a Team](/rules-to-better-software-consultants-working-in-a-team).
-
-Do you agree with them all? Are we missing some? Comment on individual rules, or     ema​il us.​
+Do you agree with them all? Are we missing some? Comment on individual rules, or     email us.
 

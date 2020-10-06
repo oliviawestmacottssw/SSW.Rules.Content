@@ -19,8 +19,7 @@ authors:
 2. When you install this, make sure you do a 'Custom Install', and select the 'Shell Integration' option (this is off by default)
 
 
-![ Using Windows Explorer for your source control is a dream ](TFS_WE_01.jpg)
-(great for designers too - who don't want to use VS.NET) 
+![Using Windows Explorer for your source control is a dream](TFS_WE_01.jpg)(great for designers too - who don't want to use VS.NET) 
 Suggestion to the TFS Team: I didn't see blame annotate in the drop down - which is a bit odd.
 
 More reading from the prolific Brian Harry: 

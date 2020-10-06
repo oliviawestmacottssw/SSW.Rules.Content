@@ -11,48 +11,43 @@ authors:
 
 ---
 
-​​​​​​​​You should not provide a database schema via several screen captures - it has little information about the details. A well-formatted Word document may be providing more details information, but it is not easy to maintain the document to keep it up-to-date. The best way is to automatically generate your document with a tool.
+You should not provide a database schema via several screen captures - it has little information about the details. A well-formatted Word document may be providing more details information, but it is not easy to maintain the document to keep it up-to-date. The best way is to automatically generate your document with a tool.
  
 We recommend and use [Red-Gate SQL Doc](https://www.ssw.com.au/ssw/Standards/DeveloperGeneral/SQLservertools.aspx#SqlDoc) to produce chm help files or html pages of the database schema. SQL Doc also allows you to run via the command line so you can include the generation in your build process to be automatically created.
 
-We have also have used other available tools in the past, such as [Apex SQL Doc](https://www.ssw.com.au/ssw/Standards/DeveloperGeneral/SQLservertools.aspx#ApexSqlDoc).​
+We have also have used other available tools in the past, such as [Apex SQL Doc](https://www.ssw.com.au/ssw/Standards/DeveloperGeneral/SQLservertools.aspx#ApexSqlDoc).
 
 Alternatively, you can use SQL Management Studio to generate a Database diagram.
 1.	Connect to your database using SQL Server Management Studio
 2.	Create a new Database Diagram, by right-clicking **Database Diagrams**
 
-![ New Database Diagram](SqlDiagramNew.png)
-
+![New Database Diagram](SqlDiagramNew.png)
 
 3.	A popup will appear. Shift-Click to select all the tables then click **Add**
 
-![ Selecting tables for diagram](SqlDiagramSelectingTables.png)
-
+![Selecting tables for diagram](SqlDiagramSelectingTables.png)
 
 4.	You will see tables populate behind the dialogue box, once complete click **Close**
 
-![ Tables populated](SqlDiagramTablesPopulated.png)
-
+![Tables populated](SqlDiagramTablesPopulated.png)
 
 5.	Click off the tables in the diagram and **Ctrl+A** to Select all
 6.	Right-Click one of the tables in the diagram and perform the following
 
 
-> a.	​Select **Table View | Standard** from the menu
+> a.	Select **Table View | Standard** from the menu
 > 
-> b.	​​Select **Autosize Selected Tables** from the menu
+> b.	Select **Autosize Selected Tables** from the menu
 > 
-![ Changing the database table diagram to Standard View and Autosize​](SqlDiagramStandardAutoSize.png)
-
+![Changing the database table diagram to Standard View and Autosize](SqlDiagramStandardAutoSize.png)
 
 
 7.	Right-click the diagram background and select **Show Relationship Labels**
 
-![ Show Relationship Labels](SqlDiagramShowRelationshipLabels.png)
-
+![Show Relationship Labels](SqlDiagramShowRelationshipLabels.png)
 
 8.	Move the tables around so that the Relationship Labels are clearly visible.
 
 **Note: **You will need to screenshot the diagram as using the copy to clipboard function removes the “Allow Nulls” checkmarks.
 
-![ Northwind Database Schema](SqlDiagramNorthwindSchema.png)
+![Northwind Database Schema](SqlDiagramNorthwindSchema.png)

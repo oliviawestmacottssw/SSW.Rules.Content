@@ -11,7 +11,7 @@ authors:
 
 ---
 
-​We are always disappointed when adding version information to a Word document. When you use the Word version you get a number that indicates the number of times the document has been saved and not a proper version number.<br>
+We are always disappointed when adding version information to a Word document. When you use the Word version you get a number that indicates the number of times the document has been saved and not a proper version number.<br>
 
 <br>It is possible to get the number into Word for the version of the document on the SharePoint document library.
 
@@ -19,7 +19,6 @@ authors:
 
 **Note:** This also works in SharePoint 2010 and Office 2010.
 
-![ Good example, you see the formatted SharePoint version number ](VersionInWord.jpg)
-
+![Good example, you see the formatted SharePoint version number](VersionInWord.jpg)
 ![](BadVersioning.png)Bad Example
 ![](GoodVersioning.png)Good Example

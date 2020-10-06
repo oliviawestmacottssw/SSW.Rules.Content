@@ -15,14 +15,14 @@ Creating and promoting optimized playlists is a plus, increasing session time (a
 
 
 
-![](playlist_bad.png) Bad example: people living YouTube after (or even while) watching one of your videos will rank you (and your content) down.
+![people living YouTube after](playlist_bad.png)(or even while) watching one of your videos will rank you (and your content) down.
 
 
-![](playlist_ok.png) OK example: people watching another video after yours will give you a little boost.
+![people watching another video after yours will give you a little boost.](playlist_ok.png)
 
 
-![](playlist_good.png) Good example: people watching a video from your playlist are more likely to keep watching more of your videos, giving you a big boost!
+![people watching a video from your playlist are more likely to keep watching more of your videos, giving you a big boost](playlist_good.png)!
 
 
-![](playlist_good_sswtv.png) Good example: make sure that every video is in at least one playlist.
+![make sure that every video is in at least one playlist.](playlist_good_sswtv.png)
 **Images**: courtesy of Brian Dean ([source](https://backlinko.com/grow-youtube-channel)).

@@ -19,8 +19,7 @@ authors:
 It's also a nice way to save space and achieve a neat visual appearance. Using this method users can easily to tell which field has been filled in and which data has been entered.
 
 [[badExample]]
-| ![ Bad Example - Having both label and placeholders can be repetitive and dull​​​](placeholder-bad.png)
-
+| ![Having both label and placeholders can be repetitive and dull](placeholder-bad.png)
 
 [[goodExample]]
-| ![ Good Example - Using placeholders](placeholder-good.gif)
+| ![Using placeholders](placeholder-good.gif)

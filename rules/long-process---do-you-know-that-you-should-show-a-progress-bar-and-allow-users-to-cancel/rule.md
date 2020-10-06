@@ -12,7 +12,7 @@ The **last** thing a user wants is to be stuck waiting around for a long-running
 - They do not know how long the process will last (adds uncertainty to the user experience)
 - They cannot stop the process (creates lack of control in the user experience)
 
-   ​
+   
 Instead, keep users happy with your application by:
 
 - Showing status description information above the progress bar
@@ -20,9 +20,7 @@ Instead, keep users happy with your application by:
 
 
 [[goodExample]]
-| ![ Good Example - Progress Bar with description and Cancel Button](../../assets/AllowCancelAndShowProgressForLongRunningProcesses.gif)
-
+| ![Progress Bar with description and Cancel Button](../../assets/AllowCancelAndShowProgressForLongRunningProcesses.gif)
 [[goodExample]]
-| ![ Good Example - Progress Bar with description and status, and Cancel Button](../../assets/AllowCancelAndShowProgressForLongRunningProcesses2.jpg)
-
+| ![Progress Bar with description and status, and Cancel Button](../../assets/AllowCancelAndShowProgressForLongRunningProcesses2.jpg)
 We have a product called [SSW .NET Toolkit](http://www.ssw.com.au/ssw/NETToolKit/) which includes these controls. [SSW .NET Toolkit - Using Progress bars/Status forms.](http://www.ssw.com.au/ssw/NETToolKit/08ProgressbarsStatusforms.aspx)

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​​The reason is that you avoid ownership chain problems. Where Mary owns an object, Fred can read the object and then he creates a proc and he gives permission to Tom to execute. But Tom cannot because there is a product chain of ownership.​​​​
+The reason is that you avoid ownership chain problems. Where Mary owns an object, Fred can read the object and then he creates a proc and he gives permission to Tom to execute. But Tom cannot because there is a product chain of ownership.
  
 CREATE PROCEDURE [Adam Cogan].[Sales by Year]
 
@@ -32,7 +32,7 @@ INNER JOIN "vwOrderSubTotals"
 ON Orders.OrderID = "vwOrderSubTotals".OrderID
 
 WHERE Orders.ShippedDate Between @Beginning\_Date And @Ending\_Date
-Figure: Bad Example​
+Figure: Bad Example
 
 CREATE PROCEDURE [dbo].[Sales by Year]
 
@@ -55,4 +55,4 @@ CREATE PROCEDURE [dbo].[Sales by Year]
  ON Orders.OrderID = "vwOrderSubTotals".OrderID
 
  WHERE Orders.ShippedDate Between @Beginning\_Date And @Ending\_Date
-Figure: Good E​​​xample​​​
+Figure: Good Example

@@ -11,23 +11,22 @@ authors:
 
 ---
 
-​​​​​​As a CMS system, it's obviously necessary to apply standard styles to all content, so the whole site looks consistent.
+As a CMS system, it's obviously necessary to apply standard styles to all content, so the whole site looks consistent.
 
 
 
-This rule outlines how to use custom styles in the SharePoint  RichHTMLEditor​.
+This rule outlines how to use custom styles in the SharePoint  RichHTMLEditor.
 
 
 
 In SharePoint, we can use the below way to apply custom styles:
 
-![ custom RichHtmlEditor styles give your content editors a visual preview of your custom styles​](CustomStylesInSharePoint.png)
-
+![custom RichHtmlEditor styles give your content editors a visual preview of your custom styles](CustomStylesInSharePoint.png)
 
 
 
  
-​To do this:
+To do this:
 
 1. You can use "**PrefixStyleSheet**" property to apply the custom styles to a build-in **RichHtmlField **in page layout or master page. In my case, I applied them to a custom control "**ParsedRichHtmlField**" which inherited from the system build-in one.
 
@@ -109,10 +108,9 @@ font-size:12px;
 
 }
 
-This **Code Area** style will come up in "Page Elements" section:​
+This **Code Area** style will come up in "Page Elements" section:
 
-![ Code Area style come up in "Page Elements" seciton](CodeArea.png)
-
+![Code Area style come up in "Page Elements" seciton](CodeArea.png)
 
 
 While applying a "Page Elements" style, it will
@@ -141,16 +139,14 @@ Its html code will change
 
 from
 
-![ "Code Area style" with parent element ](page_element_p.png)
-
+!["Code Area style" with parent element](page_element_p.png)
 
 
 
 
 to
 
-![ "Good Figure style" changed the parent element from ](page_element_dd.png)
-
+!["Good Figure style" changed the parent element from](page_element_dd.png)
 to
 
 
@@ -173,10 +169,9 @@ background-color: #FFFF00;
 
 }
 
-This **Highlight** style will come up in "Text Styles" section:​
+This **Highlight** style will come up in "Text Styles" section:
 
-![ Highlight style will come up in "Text Styles" section​](HighLight.png)
-
+![Highlight style will come up in "Text Styles" section](HighLight.png)
 
 
 While applying a "Text Styles" style, it will
@@ -193,9 +188,9 @@ That means all "Text Styles" will apply to  tag, and you cannot apply two "Text 
 
 
 
-4) .ssw15-rte**Table -** Tell SharePoint the definition of custom table styles. After inserting a table, you can see the styles under "Design" tab:​
+4) .ssw15-rte**Table -** Tell SharePoint the definition of custom table styles. After inserting a table, you can see the styles under "Design" tab:
 
-​
+
 
 
 

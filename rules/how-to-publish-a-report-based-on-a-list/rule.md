@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​When you want a Grid with filters, group by, totals and sorting, how do you do this (if all the data is in a list) ? <br> 
+When you want a Grid with filters, group by, totals and sorting, how do you do this (if all the data is in a list) ? <br> 
 There are 6 options:
 
 - Option 1 - use data view web part + AJAX (on test server, then export web part, and import to production)

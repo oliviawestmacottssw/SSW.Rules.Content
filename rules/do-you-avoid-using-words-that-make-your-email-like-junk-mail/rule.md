@@ -17,5 +17,4 @@ You should avoid any swear words or be using an angry tone as well.
 
 We have a program called [SSW LookOut! for Outlook](http://www.ssw.com.au/ssw/LookOut/) to check for this rule. 
 
-![ SSW LookOut](ContactorBadWord.GIF)  
-! for Outlook checks that you don't use bad words.​​
+![SSW LookOut](ContactorBadWord.GIF)! for Outlook checks that you don't use bad words.

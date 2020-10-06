@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-​There are many example projects created by the React community.  
+There are many example projects created by the React community.  
 
  
 Below is a list of sample applications from [https://reactjs.org/community/examples.html](https&#58;//reactjs.org/community/examples.html)
@@ -24,5 +24,3 @@ Below is a list of sample applications from [https://reactjs.org/community/examp
 - **[Bitcoin Price Index](https&#58;//github.com/mrkjlchvz/bitcoin-price-index)** Simple bitcoin price index data from CoinDesk API.
 - **[Builder Book](https&#58;//github.com/builderbook/builderbook)** Open source web app to write and host documentation or sell books. Built with React, Material-UI, Next, Express, Mongoose, MongoDB.
 - **[GFonts Space](https&#58;//github.com/pankajladhar/GFontsSpace)** A space which allows user to play with Google fonts. Built with React, Redux and React-Router.
-
-​

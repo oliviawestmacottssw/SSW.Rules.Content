@@ -15,7 +15,7 @@ authors:
 
 ---
 
-Having a good folder structure in version control allows everyone to know where everything is without even having to look.​
+Having a good folder structure in version control allows everyone to know where everything is without even having to look.
  
 
 ```
@@ -30,8 +30,6 @@ Having a good folder structure in version control allows everyone to know where 
 Figure: Bad example, SVN conventions are a dated and ignore releases, hotfixes and Service Packs 
 Trunk is the old way, Main is the new way as per the branching guidance, and it is the way that Microsoft does things.
 
-![ Good example, this makes a lot more sense More Information: ](BranchGuidance.jpg)
-
-![ A good format for all your Products/Projects makes it easy to know where things are and what they are for ](GoodFormatForInfo.jpg)
-
+![Main branch guidance ](BranchGuidance.jpg)
+![A good format for all your Products/Projects makes it easy to know where things are and what they are for](GoodFormatForInfo.jpg)
 Read the TFS 2010 Branching Guidance - [http://tfsbranchingguideiii.codeplex.com](http://tfsbranchingguideiii.codeplex.com/)

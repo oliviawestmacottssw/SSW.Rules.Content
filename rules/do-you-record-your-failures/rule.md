@@ -33,16 +33,11 @@ Once they are done the developer commits all the changes they made and push it t
 
 
 
-![](single-commit-not-showing-experimentation-2.png)
-
-​​Bad Example: Only the final solution is committed. Experimentation history is not recorded​
+![Only the final solution is committed. Experimentation history is not recorded](single-commit-not-showing-experimentation-2.png)
 
 
 
-In this example for the same scenario the developer makes sure to commit every separate​ attempt to reduce load times for their web application. This way, everybody knows what kinds of experimentation was done to solve this problem.
+In this example for the same scenario the developer makes sure to commit every separate attempt to reduce load times for their web application. This way, everybody knows what kinds of experimentation was done to solve this problem.
 
 
-![](commit-failed-experiments.png)​
-
-
-Good Example: Each attempt has a new commit and is not lost when retrieving history​​
+![Each attempt has a new commit and is not lost when retrieving history](commit-failed-experiments.png)

@@ -14,8 +14,7 @@ Occasionally when you estimate the size of a VHD that you will be using in a ser
 2. Shutdown the virtual machine
 3. Click **Edit Disk...** in the **Actions **pane of the **Hyper-V Manager
 
-![ You expand a VHD from the Actions Menu | Edit Disk](actions-expand.jpg)
-
+![You expand a VHD from the Actions Menu | Edit Disk](actions-expand.jpg)
 4. In the **Edit Virtual Hard Disk Wizard** window, choose the VHD you want to edit and choose **Next.**
 5. Select **Expand** and click **Next**
 6. Enter the new size of the VHD and click **Next**
@@ -27,8 +26,7 @@ You will now have a resized VHD. Next step is to boot up into the virtual machin
 2. Open **Computer Management** and choose **Disk Management**
 3. Right click on the partition sitting at the front of the newly resized disk and click on **Extend Volume...
 
-![ The first partition on the disk needs to be expanded to use up the unallocated space created when expanding the VHD](expand-freespace.jpg)
-
+![The first partition on the disk needs to be expanded to use up the unallocated space created when expanding the VHD](expand-freespace.jpg)
 4. You will have to use all the available space when you extend the volume as it is a Simple Volume. (See Rule: [Do you use Basic Volumes inside VHD’s?](/Pages/Do-you-use-Basic-Volumes-inside-VHDs.aspx)) When you are asked to select your disks just click **Next**
 5. Click **Finish
 

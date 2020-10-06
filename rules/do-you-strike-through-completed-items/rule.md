@@ -8,11 +8,9 @@ authors: []
 ---
 
 When you're giving an update on progress on a task list or a schedule, STRIKE OUT the items that have been completed. Not only does it visually explain where you are, it also gives you a great sense of satisfaction...
-   ​
+   
 [[goodExample]]
-| ![ Good Example - Completed items are struck-through](../../assets/StrikeThrough.gif)
-
+| ![Completed items are struck-through](../../assets/StrikeThrough.gif)
 [[goodExample]]
-| ![ Good Example - Completed tasks are struck-through](../../assets/OutlookTaskList.JPG)
-
+| ![Completed tasks are struck-through](../../assets/OutlookTaskList.JPG)
 #### Learn how to [add "Strike-Through"](http://www.ssw.com.au/ssw/KB/KB.asp?KBID=Q803334) to your toolbar.

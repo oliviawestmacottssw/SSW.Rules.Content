@@ -18,8 +18,7 @@ Wrong. It is much better to [use Microsoft Test Manager (MTM) and step through t
 Once you are doing that, this is how you check the status of the current Sprint:
  
 [[goodExample]]
-| ![This Sprint currently has 2 'Failed' tests ](check-sprint-status.jpg)
-(red), and 1 'Active' test (blue). (This 'Results' view is new in MTM 2012) 
+| ![This Sprint currently has 2 'Failed' tests](check-sprint-status.jpg)(red), and 1 'Active' test (blue). (This 'Results' view is new in MTM 2012) 
 Key:
 
 - The red is work remaining for the developers, and

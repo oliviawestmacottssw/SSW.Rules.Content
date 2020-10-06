@@ -22,20 +22,16 @@ Having Diagnostics enabled can contribute 25 transactions per minute, this is 36
 
 Question for Microsoft: Is this per Web Role?
 
-![ Check the properties of your web and worker role configuration files](azure-check-properties.jpg)
-
-![ Disable diagnostics](azure-disable-diagnostics.jpg)
-
+![Check the properties of your web and worker role configuration files](azure-check-properties.jpg)
+![Disable diagnostics](azure-disable-diagnostics.jpg)
 ## Disable IntelliTrace and Profiling
 
-![ When publishing, ensure that IntelliTrace and Profiling are both disabled](azure-publishing-settings.jpg)
-
+![When publishing, ensure that IntelliTrace and Profiling are both disabled](azure-publishing-settings.jpg)
 ## Robots.txt 
 
 Search bots crawling your site to index it will lead to a lot of transactions. Especially for web "applications" that do not need to be searchable, use Robot.txt to save transactions.
 
-![ Place robots.txt in the root of your site to control search engine indexing](azure-robots.jpg)
-
+![Place robots.txt in the root of your site to control search engine indexing](azure-robots.jpg)
 ## Continuous Deployment
 
 When deploying to Azure, the deployment package is loaded into the Storage Account. This will also contribute to the transaction count.

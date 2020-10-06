@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​​​​Every rule page has two URLs:
+Every rule page has two URLs:
 
 - Physical URL - e.g. https://rules.ssw.com.au/Pages/tweet-rules-you-follow.aspx
 - Friendly URL - e.g. https://rules.ssw.com.au/tweet-rules-you-follow
@@ -58,5 +58,3 @@ When you change a 'friendly URL',  you should follow the below steps to make the
 5. On the "Page URLs" page, you should be able to see multiple friendly URLs associated to current page.
 
 ![](redirection05.png)
-
-​​

@@ -9,16 +9,18 @@ authors:
 
 ---
 
-Having     an electronic ​​​task board makes it easy for developers to keep track of tasks.
+Having     an electronic task board makes it easy for developers to keep track of tasks.
 
 These are the columns (aka swim lanes) you need:
- ​
-![](TFS Preview Task Board.png)​​​Figure: Good Example - a virtual client task board in action ([TFS​](http://tfspreview.com/))​
-![](Taskboard.jpg)​​Figure: OK​ Example - a physical client task board in operation
+ 
+[[goodExample]]
+| ![a virtual client task board in action](TFS Preview Task Board.png)([TFS](http://tfspreview.com/))
+[[okExample]]
+| ![a physical client task board in operation](Taskboard.jpg)
 Near your task board, stick an SSW "Want to submit a User Story?"
 
 - Where to find their project portal
-- Who to contact with questions​
+- Who to contact with questions
 - How to add tasks to the task board
 
 
@@ -27,5 +29,4 @@ Print out this PDF and fill in the 2 fields and stick it on own task board.
 [
 ![](preview-taskboard.jpg)Download the "SSW Submit a PBI" PDF.](/Documents/SSWSubmitaPBI.pdf) 
 
-![ Create an avatar for each person and stick them on the current task. You can find our <br>      ](Avatar.jpg)
-[User Story Cards here](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard). You can write the TFS work item ID on each card.
+![Create an avatar for each person and stick them on the current task. You can find our <br>](Avatar.jpg)[User Story Cards here](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard). You can write the TFS work item ID on each card.

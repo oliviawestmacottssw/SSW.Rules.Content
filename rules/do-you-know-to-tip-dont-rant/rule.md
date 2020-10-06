@@ -16,9 +16,8 @@ Turn a rant into a tip…
 
 
 [[badExample]]
-| ![ Bad example – It is too easy to rant](RulesBloggingTipBad.jpg "SNAGHTML1b864a4")
-
+| ![It is too easy to rant](RulesBloggingTipBad.jpg "SNAGHTML1b864a4")
 
 
 [[goodExample]]
-| ![ Good example – What started out as a rant about Plaxo became a tip on how to get round it](RulesBloggingTipGood.jpg "SNAGHTML1b94284")
+| ![What started out as a rant about Plaxo became a tip on how to get round it](RulesBloggingTipGood.jpg "SNAGHTML1b94284")

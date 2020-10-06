@@ -7,15 +7,14 @@ authors: []
 
 ---
 
-​​​​Everyone who will be involved in Scrum (pigs and chickens alike) should have read and understood the Scrum guide. 
+Everyone who will be involved in Scrum (pigs and chickens alike) should have read and understood the Scrum guide. 
  
 
 
-​Understanding the concepts of Scrum is easy; implementing it is hard!
+Understanding the concepts of Scrum is easy; implementing it is hard!
 
 
-![ It's handy to know who the pigs and chickens are. The word "commit" and this silly chicken and pig story, were removed from the Scrum Guide 2011.](ScrumChickenPig.jpg)
-
+![It's handy to know who the pigs and chickens are. The word "commit" and this silly chicken and pig story, were removed from the Scrum Guide 2011.](ScrumChickenPig.jpg)
 
 
 Everyone should:

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​1. All tables should have the following fields:
+1. All tables should have the following fields:
 
 
 
@@ -24,10 +24,9 @@ authors:
 
 
  
-​The first three are examples of bad table records. The last one is an example of how this table structure should be entered.
+The first three are examples of bad table records. The last one is an example of how this table structure should be entered.
 
-![ 3 bad examples and 1 good example of Row auditing​ ](imgGoodBadPracticesExampleSQLFields.png)
-
+![3 bad examples and 1 good example of Row auditing](imgGoodBadPracticesExampleSQLFields.png)
 **Note #1:** Never set the CreatedUtc field - instead use a default GETUTCDATE()
 **Note #2:** These fields offer basic row auditing that will cover the majority of applications. When an application has specific auditing requirements, they should be analysed to see if this approach is sufficient.
 
@@ -36,7 +35,7 @@ If the settings are not application-wide, but just for that user then an XML (do
 
 .NET programs have an Application.Configuration which exports to XML file (app.config) automatically. It works very well, and deployment is very simple. It's integrated right into the Visual Studio.NET designer as well.
 
-3. All databases should have a version table to record structural changes to tables. See [SSW Rules to Better Code​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=dec3b0f2-a632-4842-ba6c-e8c7fb2ccf16)
+3. All databases should have a version table to record structural changes to tables. See [SSW Rules to Better Code](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=dec3b0f2-a632-4842-ba6c-e8c7fb2ccf16)
  
 4. Lookup tables that have just two columns should be consistent and follow this convention: CategoryId (int) and CategoryName (varchar(100)).
 

@@ -17,4 +17,4 @@ First of all, you've got to ask because if you don't ask, you don't get. For exa
 
 If a client is reluctant to answer simple questions, a good way of eliciting a response is to provide options for them to choose. For example "if everything in the proposal was ok, would you kick this project off next week, or next month, or later in the year?", or "ok, so you don't have a set budget but what kind of ballpark were you thinking of, $25k, $150k or $300k?"
 
-If you ask a prospect a question, you should patiently wait for the answer. If you jump in with an answer before they do you've saved them from having to answer the question themselves.  ​
+If you ask a prospect a question, you should patiently wait for the answer. If you jump in with an answer before they do you've saved them from having to answer the question themselves.

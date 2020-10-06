@@ -17,26 +17,23 @@ authors:
 
 ---
 
-​​​​Assume you are creating a cool new feature. First you will create a new branch, create some commits, check it works, and submit a pull request. However, if you are not happy with the feature then don’t just delete the branch as normal. Instead, create a pull request anyway and set the status to Abandoned. Now, you can continue to delete your branch as normal.
+Assume you are creating a cool new feature. First you will create a new branch, create some commits, check it works, and submit a pull request. However, if you are not happy with the feature then don’t just delete the branch as normal. Instead, create a pull request anyway and set the status to Abandoned. Now, you can continue to delete your branch as normal.
 
 
 
 
 
-This makes sure that we have a historical log of work​ completed, and still keeps a clean repository.
+This makes sure that we have a historical log of work completed, and still keeps a clean repository.
 
 
 
 
-   ​
-![](create-pr-for-failed-branch.png)
-Good Example: Setup pull request for feature branch so that we have a history of the commits
+   
+![Setup pull request for feature branch so that we have a history of the commits](create-pr-for-failed-branch.png)
 
 
 
 
 
 
-![](abandoned-pr-for-branch.png)
-
-​Good Example: PR is abandoned with a deleted branch​
+![PR is abandoned with a deleted branch](abandoned-pr-for-branch.png)

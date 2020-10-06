@@ -15,7 +15,5 @@ authors:
  
 Timesheets should be right near the top of your priorities: #2 on [Do you get your work done in order of importance (aka priorities)?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=422fc16f-bc94-413a-b14f-4172791f92a0)
 
-![ You should be filling out a timesheet for every day you work](enter-your-timesheets.jpg)
-
-![ Timesheets come first, always](Bucket-list.jpg)
-!
+![You should be filling out a timesheet for every day you work](enter-your-timesheets.jpg)
+![Timesheets come first, always](Bucket-list.jpg)!

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​Rebasing is great for ensuring a clean project history... but it can be dangerous in inexperienced hands.
+Rebasing is great for ensuring a clean project history... but it can be dangerous in inexperienced hands.
  
 **The golden rule of git rebase is to never use it on public branches. **(ie. never rebase master).
 
@@ -18,9 +18,7 @@ You should never rebase master onto a feature branch. This would move all of the
 Since rebasing results in brand new commits, Git will think that your master branch’s history has diverged from everybody else’s. If you were to Push this to the server... [expect lots of pain to fix it up](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/the-golden-rule-of-rebasing)!
  
 [[badExample]]
-| ![ Bad Example: Rebasing master onto a feature branch can cause project history to become confused.     ​](rebase3.png) 
-
-![ To get it wrong in Visual Studio you would need to change the current branch to master and then choose rebase. While this is possible, the VS team have done a good job making it hard to do the wrong thing ](rebase4.png) 
-
+| ![Rebasing master onto a feature branch can cause project history to become confused.](rebase3.png)
+![To get it wrong in Visual Studio you would need to change the current branch to master and then choose rebase. While this is possible, the VS team have done a good job making it hard to do the wrong thing](rebase4.png)
 [[goodExample]]
-| ![ Good Example - Rebase your Feature branch onto Master](rebase5.png)
+| ![Rebase your Feature branch onto Master](rebase5.png)

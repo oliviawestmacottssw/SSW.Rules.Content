@@ -9,9 +9,9 @@ authors:
 
 ---
 
-There are different bid strategies available depending on your business advertising goals. You have 3 options to consider:​
+There are different bid strategies available depending on your business advertising goals. You have 3 options to consider:
  
-### ​1 – Focusing on conversions with Smart Bidding
+### 1 – Focusing on conversions with Smart Bidding
 
 
 If you want to call your client to complete an action on your website this is the strategy for you. But first, you'll have to set up your conversions properly, otherwise you won't be able to analyse your data.
@@ -31,7 +31,7 @@ When using this, make sure your Campaign is NOT part of a shared budget. Max con
 Would you like to get more traffic on your website? So here are the two cost-per-click bid strategies you should think about:
 
 - **Manual CPC Bidding** – Under this strategy, you are setting the actual price on the cost of a click on your ads. You will have 100% of control of your ad spend per keyword if you choose this option.
-- **Maximize for Clicks** – If you want to increase clicks/traffic to your website, you should really consider using this automated bidding strategy. You'll need to specify a budget to each campaign, so this is good to keep the control of how much you want to spend on your Advertising. This can also help with finding best keywords for SEO strategy.​​
+- **Maximize for Clicks** – If you want to increase clicks/traffic to your website, you should really consider using this automated bidding strategy. You'll need to specify a budget to each campaign, so this is good to keep the control of how much you want to spend on your Advertising. This can also help with finding best keywords for SEO strategy.
 
 
 ### 3 – Focusing on impressions with CPC Bidding
@@ -39,6 +39,6 @@ Would you like to get more traffic on your website? So here are the two cost-per
 Want to increase the visibility of your website? Choose one from above and follow up to it:
 
 - **Target Search Page Location** – This is an automated bidding strategy that automatically sets your bids to help increase the chances of your ad appearing at the top of the search page or at least on the first-page search results. If you are focusing on your branding, this is perfect for your business.
-- **Target Outranking Share** – Another good bidding strategy for branding, this is also an automated bid strategy that lets you choose a domain you want to outrank.​
+- **Target Outranking Share** – Another good bidding strategy for branding, this is also an automated bid strategy that lets you choose a domain you want to outrank.
 - **Cost-per-thousand-impression (CPM)** – Using this strategy is perfect for YouTube or Google Display Network. You only pay based on the number of impressions your ad is shown in between the videos.
 - **Cost-per-thousand viewable impression (vCPM)** – This is a manual bidding strategy where you set the highest amount you want to pay for each 1,000 viewable ad impressions take place.

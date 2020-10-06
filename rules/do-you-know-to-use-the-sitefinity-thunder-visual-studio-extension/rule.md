@@ -9,47 +9,43 @@ authors:
 
 ---
 
-​​​​If you are working with Sitefinity, then use Sitefin​ity Thunder. 
-​
+If you are working with Sitefinity, then use Sitefinity Thunder. 
 
-​Sitefi​nity Thunder integrates with Visual Studio and provides rich functionality to develop and deploy custom Sitefinity changes.
+
+Sitefinity Thunder integrates with Visual Studio and provides rich functionality to develop and deploy custom Sitefinity changes.
 
 For example:
 
-- allows developers to automatically deploy custom code to multiple Sitefinity projects​
+- allows developers to automatically deploy custom code to multiple Sitefinity projects
 - accelerates custom development by connecting to Sitefinity instances inside Visual Studio. Once connected, Sitefinity Thunder supports a wide range of activities, including: modifying templates, deploying widgets, updating themes and much more
-- provides easy deployment to Azure through the Deploy to Azure wizard​
-
-
-​
+- provides easy deployment to Azure through the Deploy to Azure wizard
 
 
 
 
-![​ The Sitefinity Thunder dashboard](4-07-2014-1-08-52-PM-compressor.png)
 
 
-You can find out more at [http://www.sitefinity.com/resources/tools/sitefinity-thunder​](http://www.sitefinity.com/resources/tools/sitefinity-thunder).
 
-### Installing Sitefinity Thunder​
+![The Sitefinity Thunder dashboard](4-07-2014-1-08-52-PM-compressor.png)
+
+You can find out more at [http://www.sitefinity.com/resources/tools/sitefinity-thunder](http://www.sitefinity.com/resources/tools/sitefinity-thunder).
+
+### Installing Sitefinity Thunder
 
 
 It can be installed from Visual Studio | Tools | Extensions and Updates...
 
 
-![ Add an extension to Visual Studio](4-07-2014-12-35-25-PM-compressor.png)
+![Add an extension to Visual Studio](4-07-2014-12-35-25-PM-compressor.png)
 
 
 
 
-
-![ Search for 'Sitefinity Thunder' in Extensions and Updates | Online](4-07-2014-12-52-20-PM-compressor.png)
-
+![Search for 'Sitefinity Thunder' in Extensions and Updates | Online](4-07-2014-12-52-20-PM-compressor.png)
 
 
 
 
-![ Once installation is completed, you'll be prompted to restart Visual Studio to use Sitefinity​ Thunder](4-07-2014-12-58-32-PM-compressor.png)
-
+![Once installation is completed, you'll be prompted to restart Visual Studio to use Sitefinity Thunder](4-07-2014-12-58-32-PM-compressor.png)
 
 Once Visual Studio is restarted, you'll be presented with the dashboard from top of this article.

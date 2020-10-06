@@ -13,11 +13,11 @@ If there are complex logic evaluations in your code, we recommend you isoloate t
 Take this for example:
 
  
-​while ((ActiveThreads &gt; 0 || AssociationsQueued &gt; 0) && (IsRegistered || report.TotalTargets &lt;= 1000 )
+while ((ActiveThreads &gt; 0 || AssociationsQueued &gt; 0) && (IsRegistered || report.TotalTargets &lt;= 1000 )
  && (maxNumPagesToScan == -1 || report.TotalTargets &lt; maxNumPagesToScan) && (!CancelScan))
 
 
-Figure: This complex logic evaluation can't be unit tested​
+Figure: This complex logic evaluation can't be unit tested
 
 Writing a unit test for this piece of logic is virtually impossible - the only time it is executed is during a scan, and there are lots of other things happening at the same time meaning the unit test will often fail and you won't be able to identify the cause anyway.
 
@@ -66,7 +66,7 @@ private static bool HasFinishedInitializing(int ActiveThreads, int Associations
  { return true; }
  return false;
 }
-​Figure: Simplify the complex logic evaluation
+Figure: Simplify the complex logic evaluation
 
 The big advantage now is that we can unit test this code easily in a whole range of different scenarios!
 
@@ -99,4 +99,4 @@ public void HasFinishedInitializingLogicTest()
  }
 
 
-Figure: Write a unit test for complex logic evaluation​
+Figure: Write a unit test for complex logic evaluation

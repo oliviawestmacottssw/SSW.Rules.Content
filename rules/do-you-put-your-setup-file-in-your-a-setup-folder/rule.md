@@ -12,7 +12,7 @@ authors:
 ---
 
 All setup files should stored under setup folder of your project root directory. <br> 
-![](SetupFileGood.gif) Good example - All the wise setup file in the \setup folder. 
+![Good](SetupFileGood.gif)
 
 
 

@@ -13,7 +13,7 @@ Most fields required validation. There are three types of validations:
 - Formatting - the field must be in a correct format. e.g. currency or date.
 - Logical - the field needs to pass some validation tests in the business layer.
 
-   ​
+   
 To show an error, display an error provider icon next to the field on the right. An example of this is shown in the figure below.
 
 
@@ -31,9 +31,8 @@ The reason for the above validation placement is that these events run in the fo
 
 
 [[goodExample]]
-| ![ Good Example - Error Provider Icon next to a required field](../../assets/ErrorProviderIconExample.jpg)
-
+| ![Error Provider Icon next to a required field](../../assets/ErrorProviderIconExample.jpg)
 Do **not** show a message box after every error in validation. You may show a message box as an error summary when an OK or Apply is clicked. Make sure you warn the user that there is an error on the form when they attempt to save.
 
 [[goodExample]]
-| ![ Good Example - Balloon tooltips to indicate validation errors](../../assets/ValidationBalloon.png)
+| ![Balloon tooltips to indicate validation errors](../../assets/ValidationBalloon.png)

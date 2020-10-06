@@ -21,16 +21,14 @@ During a sprint it can be useful for:
 
 In order to achieve this, one of the Team can choose to be the primary contact for the PBI.
 
-Beware, this is intended for convenience and should not conflict with the following Scrum principal​s from page 6 of the [Scrum Guide](/Pages/Scrumguide.aspx)
+Beware, this is intended for convenience and should not conflict with the following Scrum principals from page 6 of the [Scrum Guide](/Pages/Scrumguide.aspx)
 
 - The Development team is self-organizing.
-- Accountability belongs to the development team as a whole ​
+- Accountability belongs to the development team as a whole 
 
 
 [[badExample]]
-| ![ The Product Owner is not sure who to speak to​<br>   ](UserStoryOwner_Bad.png)
-
+| ![The Product Owner is not sure who to speak to<br>](UserStoryOwner_Bad.png)
 [[goodExample]]
 | ![The Product Owner can now see who he should speak to and developers know where to send done emails](UserStoryOwner_Good.png)
-
-![ Use the 'Assigned To' column to identify who will be presenting the task​](TFS_Screenshot4.png)
+![Use the 'Assigned To' column to identify who will be presenting the task](TFS_Screenshot4.png)

@@ -11,10 +11,10 @@ authors:
 
 Often there are two email threads that have separate tasks in them, but that both relate to a very similar topic. In this case, it can be useful to give them the same subject, with a number afterwards to differentiate them.
  
-​​Example:
+Example:
 
 SSW Rules - Add 'please update this rule' button #1
 
 SSW Rules - Add 'please update this rule' button #2
 
-Read [Do you realize the importance of a good email Subject?](/Pages/ImportanceOfAGoodSubject.aspx) for more on good email subjects.​
+Read [Do you realize the importance of a good email Subject?](/Pages/ImportanceOfAGoodSubject.aspx) for more on good email subjects.

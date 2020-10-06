@@ -36,4 +36,4 @@ I created Lo-Dash to provide more consistent cross-environment iteration support
 Further reading:
 
 1. [https://lodash.com](https&#58;//lodash.com/)
-2. [http://underscorejs.org](http&#58;//underscorejs.org/) ​​
+2. [http://underscorejs.org](http&#58;//underscorejs.org/)

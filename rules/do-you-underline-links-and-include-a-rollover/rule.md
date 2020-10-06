@@ -13,7 +13,7 @@ authors:
 
 ---
 
-​Always make links perfectly clear.
+Always make links perfectly clear.
  
 It's very important that your links stand out from the background as well as the surrounding text. A solid underline and a contrasting color is the usually the best choice, but the exact method is not important as long as the end result stands out. A link should not only be discoverable upon accidental hovering.
 
@@ -26,11 +26,8 @@ For more information on this, please [go to SSW website](https://www.ssw.com.au/
 Good Example: This link is obvious
 
 
-​        
-![](link-hover.jpg)
-
-
- Good Example: Obvious rollover. You can test it by hovering the links on ​the example above
+        
+![Obvious rollover. You can test it by hovering the links on the example above](link-hover.jpg)
 
 Example CSS for rollover:
 

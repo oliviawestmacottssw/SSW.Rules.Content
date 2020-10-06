@@ -8,7 +8,7 @@ authors: []
 ---
 
 Whenever a long process is churning away (e.g. about 10 seconds) users will usually do something else, either make a coffee or switch to another window.
-   ​
+   
 Your application should remind the user to go back and check on it by:
 
 - Playing a sound
@@ -25,8 +25,7 @@ Figure: Bad example – No detailed information
 This is just like standing at a set of traffic lights listening for the beep to know when to walk, rather than constantly looking at the red and green lights.
 
 [[okExample]]
-| ![ OK Example - A completed progress form](../../assets/ProgressBarComplete.gif)
-
+| ![A completed progress form](../../assets/ProgressBarComplete.gif)
 Manual extraction process completed.
 
 Mailboxes scanned: 8

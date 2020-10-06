@@ -6,5 +6,5 @@ index:
 - xamarin---do-you-know-the-stuff-to-install
 
 ---
-​​​
+
 

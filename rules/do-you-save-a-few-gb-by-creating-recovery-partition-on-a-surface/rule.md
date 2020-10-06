@@ -9,6 +9,6 @@ authors:
 
 ---
 
-​Follow <br>      [Windows 8: How to free up disk space on Microsoft Surface tablets​](http&#58;//www.networkworld.com/article/2164909/windows/windows-8--how-to-free-up-disk-space-on-microsoft-surface-tablets.html) (takes 10 mins)​​
+Follow <br>      [Windows 8: How to free up disk space on Microsoft Surface tablets](http&#58;//www.networkworld.com/article/2164909/windows/windows-8--how-to-free-up-disk-space-on-microsoft-surface-tablets.html) (takes 10 mins)
  
-​Recovery partitions hog up to 7GB of user-available storage.​
+Recovery partitions hog up to 7GB of user-available storage.

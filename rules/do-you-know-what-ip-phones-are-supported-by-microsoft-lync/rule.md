@@ -33,11 +33,11 @@ Our review:
 
 While the differences between the different vendors were not hugely significant, SSW decided to go with SNOM as our base IP phone.
 
-We also wanted standalone phones that did not require a computer.​
+We also wanted standalone phones that did not require a computer.
 
-Read more about     [​implementing Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).
+Read more about     [implementing Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).
 
-### ​Set up phone
+### Set up phone
 
 
 1. Log on to SNOM Phone, press a key to continue

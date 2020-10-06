@@ -15,7 +15,7 @@ authors:
 
 ---
 
-​Appropriate use of design patterns can ensure your code is maintainable.
+Appropriate use of design patterns can ensure your code is maintainable.
  
 Always code against an interface rather than a concrete implementation. Use dependency injection to control which implementation the interface uses.
 
@@ -25,7 +25,7 @@ In this code, our controller is tightly coupled to the ExampleService and as a r
 
 [This example is from the blog: http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container]
 
-`public class HomeController{    private readonly IExampleService _service;    public HomeController()    {      _service = new ExampleService();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`
+`public class HomeController{    private readonly IExampleService _service;    public HomeController()    {      _service = new ExampleService();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`
 
 Figure: Bad example - Controller coupled with ExampleService
 
@@ -35,18 +35,16 @@ Figure: Bad example - 2nd attempt using an Inversion of Control container but \*
 
 This is bad code because we removed one coupling but added another one (the container).
 
-`public class HomeController{    private readonly IExampleService _service;         public HomeController(IExampleService service)    {      _service = service;    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}​`
+`public class HomeController{    private readonly IExampleService _service;         public HomeController(IExampleService service)    {      _service = service;    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`
 Figure: Good example - code showing using dependency injection. No static dependencies. 
 Even better, use Annotate so you can enlighten the developer.
 
 
 [[badExample]]
-| ![ Bad Example - Referencing the concrete EF context](Code against interfaces - bad.png)
-
+| ![Referencing the concrete EF context](Code against interfaces - bad.png)
 
 
 [[goodExample]]
-| ![ Good Example - Programming against the interface](Code against interfaces - good.png)
-
+| ![Programming against the interface](Code against interfaces - good.png)
 
 It is important to know when the use of a pattern is appropriate.  Patterns can be useful, but they can also be harmful if used incorrectly.

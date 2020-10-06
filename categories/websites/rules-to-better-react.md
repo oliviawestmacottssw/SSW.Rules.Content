@@ -18,5 +18,5 @@ index:
 - options---do-you-use-typescript-for-your-angular-and-react-applications
 
 ---
-​​​
+
 

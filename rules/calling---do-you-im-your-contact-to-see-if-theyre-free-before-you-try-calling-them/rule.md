@@ -9,6 +9,6 @@ authors:
 
 ---
 
-​Always try to ping someone on IM first with "can I call you now?", because they might be with a client, or in a session.​
+Always try to ping someone on IM first with "can I call you now?", because they might be with a client, or in a session.
 
 The exception to this rule is when you're blocked and cannot proceed with a task without speaking to them.

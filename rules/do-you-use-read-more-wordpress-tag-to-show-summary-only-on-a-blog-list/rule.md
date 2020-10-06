@@ -20,13 +20,12 @@ To do so, you can either edit the source index.php (or similar) file; or just cl
 replace  with
 Figure: Bad example - changing source PHP files is complicated and require developer skills  
 [[goodExample]]
-| ![click on the "Read More" tag on the post visual editor](readmore-tag.png) 
-
+| ![click on the "Read More" tag on the post visual editor](readmore-tag.png)
 **Note:** This is out-of-the-box with WordPress. You won't need a plugin.
 
 ### Custom Read More Message
 
-To customize the message, simply add a space after **  ​
+To customize the message, simply add a space after **  
 **
 
 Figure: Custom "read more" link
@@ -35,8 +34,7 @@ Figure: Custom "read more" link
 
 Many WordPress themes will have an option to not show the full blog content on the homepage. E.g. in Avada (one of the most popular themes) it has this:
  
-![ Many WordPress themes make it easier for you](excerpt.png) 
-
+![Many WordPress themes make it easier for you](excerpt.png)
 
 
 Always check theme options before going back through posts to add in the Read More tags manually.

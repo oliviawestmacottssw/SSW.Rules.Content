@@ -11,7 +11,7 @@ authors:
 
 ---
 
-​​It is hard to keep track of your PPC spending in your head when you are constantly adjusting spends for multiple campaigns. At SSW we have multiple campaigns running on a weekly basis. Sometimes we adjust the spend on a campaign for a week to test out a new lead generation tactic to see if we can get a lower cost per conversion.
+It is hard to keep track of your PPC spending in your head when you are constantly adjusting spends for multiple campaigns. At SSW we have multiple campaigns running on a weekly basis. Sometimes we adjust the spend on a campaign for a week to test out a new lead generation tactic to see if we can get a lower cost per conversion.
  
 SSW has a daily budget to spend on Twitter, Facebook, LinkedIn, Google Ads and Bing. At times we swap the budget from one platform to another to increase our conversions if the campaign is doing exceptionally well.
 

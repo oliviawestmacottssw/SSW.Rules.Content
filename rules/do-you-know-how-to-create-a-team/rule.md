@@ -13,25 +13,25 @@ authors:
 
 ---
 
-​​​​​​Microsoft Teams is a great tool for a group of people to collaborate, communicate and share their files. 
+Microsoft Teams is a great tool for a group of people to collaborate, communicate and share their files. 
 
 
 
 Teams makes it easy to:
 
 
-- ​​Centralize communication
+- Centralize communication
 - Send emails to Team members easily and quickly by providing a global email address for the Team
 - Move away from email attachments and centralize documents
 
 
  
-Take charge of communication in your Team and get started with Microsoft Teams. This video will guide you through your first few steps with Teams using the simple example of a building at 81 Military Road​:
+Take charge of communication in your Team and get started with Microsoft Teams. This video will guide you through your first few steps with Teams using the simple example of a building at 81 Military Road:
 
 
 `youtube: https://www.youtube.com/embed/blSJnmJcwnI`
  
- ​
+ 
 
 
 
@@ -39,15 +39,14 @@ Take charge of communication in your Team and get started with Microsoft Teams. 
 Once invited to a Team, follow these steps:
 
 
-1. ​Go to your inbox and find the invitation email
+1. Go to your inbox and find the invitation email
 2. Click on "Open Microsoft Teams"
 3. Sign-in
 Note: you can use the Desktop, Web or Mobile apps to access Teams
-4. Navigate your Teams & Channels ! ​👌✔
+4. Navigate your Teams & Channels ! 👌✔
 
 
 
 
 
 Microsoft Teams also integrates with hundreds of Microsoft & third party products, such as Trello, OneNote, Planner...
-​

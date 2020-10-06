@@ -36,4 +36,4 @@ string paraText = Business.GetParaText();
 rtbParaText.Clear();
 rtbParaText.Add(paraText);
 }
-Good Example : Putting business logics into the business project, just call the relevant method when needed​​
+Good Example : Putting business logics into the business project, just call the relevant method when needed

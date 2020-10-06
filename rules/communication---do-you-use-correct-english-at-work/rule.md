@@ -9,9 +9,9 @@ authors:
 
 ---
 
-​​                     Communication and how you express yourself to your co-workers and clients is reflective                     of the company you work for. You should practice correct English,                     as it displays your professionalism and courtesy.
+Communication and how you express yourself to your co-workers and clients is reflective                     of the company you work for. You should practice correct English,                     as it displays your professionalism and courtesy.
 
-​For example:
+For example:
  "It's going good"  Bad Example - using incorrect English "It's going well"
 Good Example - using correct English
 
@@ -20,7 +20,7 @@ Check out this video which highlights 5 common mistakes made by native english s
 
 `youtube: https://www.youtube.com/embed/75CP1xyoNFo`
 
-​
+
 
 
 If you feel very strongly about this, you could enforce 10 pushups per infraction, similar to the penalty for swearing

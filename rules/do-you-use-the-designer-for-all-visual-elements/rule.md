@@ -27,5 +27,5 @@ Things that do not belong in the designer:
 
 However, and **DataAdapter** objects should not be dragged onto forms, as they belong in the business tier. Strongly typed **DataSet** objects should be in the designer as they are simply passed to the business layer. Avoid writing code for properties that can be set in the designer.
 
-![](BadDesigner.gif) Bad example - Connection and Command objects in the Designer 
-![](GoodDesigner.gif) Good example - Only visual elements in the designer
+![Bad](BadDesigner.gif)
+![Good](GoodDesigner.gif)

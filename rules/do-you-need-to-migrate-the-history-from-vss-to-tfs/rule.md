@@ -16,7 +16,7 @@ authors:
 ---
 
 - Normally, you don't need to check the history very often. If you do need sometimes, then get it from VSS.
-- Save much space for TFS. For example, we have a about 7G VSS history database, and we may only need a small bit of them every 3 months, so what's the point of coping about 7G file when we only need one line of code?​
+- Save much space for TFS. For example, we have a about 7G VSS history database, and we may only need a small bit of them every 3 months, so what's the point of coping about 7G file when we only need one line of code?
 
  
 

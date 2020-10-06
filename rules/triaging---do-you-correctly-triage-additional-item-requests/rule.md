@@ -15,12 +15,11 @@ authors:
 
 ---
 
-​"Triage" is a term originally used to describe the assessment of injured persons into a priority order based on the severity and urgency of their injuries. While developers don't often deal with real life and death situations, the ability to prioritise and action issues that arise can keep the heartbeat of a project steady and strong.​​
+"Triage" is a term originally used to describe the assessment of injured persons into a priority order based on the severity and urgency of their injuries. While developers don't often deal with real life and death situations, the ability to prioritise and action issues that arise can keep the heartbeat of a project steady and strong.
  
 Managing additional work requests can reduce the adverse impact on estimates and deadlines.
 
-![ Only if it's life and death does it get added "in this sprint" ](SuccessfulProjects_Triage.jpg) 
-
+![Only if it's life and death does it get added "in this sprint"](SuccessfulProjects_Triage.jpg)
 The first step is to analyse the priority of the additional item.
 
 

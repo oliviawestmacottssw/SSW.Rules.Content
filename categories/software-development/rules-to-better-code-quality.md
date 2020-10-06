@@ -6,7 +6,5 @@ index:
 - do-you-know-the-code-health-quality-gates-to-add
 
 ---
-​​​​
 
-​​
 

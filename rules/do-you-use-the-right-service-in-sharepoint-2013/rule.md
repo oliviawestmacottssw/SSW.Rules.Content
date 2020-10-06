@@ -11,12 +11,12 @@ authors:
 
 ---
 
-​​​In SharePoint 2010, you can use SharePoint service **/\_vti\_bin/listdata.svc** to access data in SharePoint list, but in SharePoint 2013, **/\_vti\_bin/listdata.svc** has been officially deprecated.
+In SharePoint 2010, you can use SharePoint service **/\_vti\_bin/listdata.svc** to access data in SharePoint list, but in SharePoint 2013, **/\_vti\_bin/listdata.svc** has been officially deprecated.
 
 
-   The new service in SharePoint 2013 is **http://server/site/\_api/web/lists/getbytitle('listname')​**
+   The new service in SharePoint 2013 is **http://server/site/\_api/web/lists/getbytitle('listname')**
 **
 **
 Read more about it: 
 
-[http://msdn.microsoft.com/en-us/library/office/dn292556.aspx​​](http&#58;//msdn.microsoft.com/en-us/library/office/dn292556.aspx)
+[http://msdn.microsoft.com/en-us/library/office/dn292556.aspx](http&#58;//msdn.microsoft.com/en-us/library/office/dn292556.aspx)

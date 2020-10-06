@@ -9,18 +9,18 @@ authors:
 
 ---
 
-​Make sure you created a consistent primary key column named **Id** on your tables.
+Make sure you created a consistent primary key column named **Id** on your tables.
  
 Employee.ID, Employee.EmployeeId, Employee.EmployeeID, Employee.Employee\_Code, Employee.Employee
-Figure: Bad Example​​​
+Figure: Bad Example
 
-​ Employee.Id
+ Employee.Id
 Figure: Good Example
 
-### ​​​Why?
+### Why?
 
 
 
 
-- ​We shouldn’t capitalise ID (identifier) as it is an abbreviation not an acronym.
-- ​Using the a​pproach [TableName]Id, e.g. EmployeeId, is redundant as we already know the context of the Id.​
+- We shouldn’t capitalise ID (identifier) as it is an abbreviation not an acronym.
+- Using the approach [TableName]Id, e.g. EmployeeId, is redundant as we already know the context of the Id.

@@ -18,9 +18,7 @@ Emails that came into your mailbox should not be left in your Inbox. The aim is 
 So what's left in your 'Inbox' should only be 'To Do' items. Sure you might want to add subfolders to group related projects etc. but these subfolders should also contain items 'To Do'. Some people leave emails in their Inbox, for later reference only. We believe this is not a good idea, and you should create 2 folders outside your Inbox called 'Saved Items' and 'Saved Personal Items' for such emails.
 
 [[goodExample]]
-| ![ Good Example - Save important reference items in a separate folder](SavedMail.gif) 
-
+| ![Save important reference items in a separate folder](SavedMail.gif)
 Microsoft Outlook provides you with 4 main folders: 'Draft', 'Inbox', 'Outbox' and 'Send Items'. But we believe they are missing 2 additional folders: 'Saved Items' and 'Saved Personal Items'. You can use these two folders to keep your work-related or personal emails that you wanted to keep.
 
 You can create these two folders next to the Inbox and move the emails there.
- ​

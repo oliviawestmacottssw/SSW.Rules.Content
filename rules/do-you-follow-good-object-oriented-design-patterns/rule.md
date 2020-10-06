@@ -9,6 +9,6 @@ authors:
 
 ---
 
-​TypeScript gives us a reasonably full-featured object-oriented system, and we should use it as such. Following the [SOLID](https&#58;//en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) and [DRY](https&#58;//en.wikipedia.org/wiki/Don%27t_repeat_yourself)​ principles are encouraged.​​​​​​​​
+TypeScript gives us a reasonably full-featured object-oriented system, and we should use it as such. Following the [SOLID](https&#58;//en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) and [DRY](https&#58;//en.wikipedia.org/wiki/Don%27t_repeat_yourself) principles are encouraged.
  
-​Write code that you’d be proud to see in C#, because there are no longer any excuses.
+Write code that you’d be proud to see in C#, because there are no longer any excuses.

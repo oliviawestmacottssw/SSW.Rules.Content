@@ -11,7 +11,7 @@ When you look at the Service Calendar, you want to be able to see, at a glance, 
 
 
 
-​To do this, the subject field of the appointments should be as follows:
+To do this, the subject field of the appointments should be as follows:
 
    Client [Project] - Name[s]
 
@@ -20,16 +20,16 @@ When you look at the Service Calendar, you want to be able to see, at a glance, 
 
 The project name (in parentheses) is optional and only used if there is more than one project happening simultaneously.
 
-You can have 1 or many names, dep​ending on the booking
+You can have 1 or many names, depending on the booking
 
 
 
 
-Go to ACME Corp​​
+Go to ACME Corp
 Work onsite for ACME Corp
 Mehmet working at ACME Corp
 
-Figure: Bad example - all inconsistent​ and hard to read​​​
+Figure: Bad example - all inconsistent and hard to read
 ACME Corp - Mehmet
  ACME Corp - Mehmet, Dan
 ACME Corp (SharePoint) - Dan
@@ -37,7 +37,7 @@ ACME Corp (SharePoint) - Dan
 Figure: Good Examples
 
 
-The same format should also be used for leave requests ([the same for nor​mal calendar appointments/invitations](/appointments-do-you-show-all-the-necessary-information-in-the-subject)).
+The same format should also be used for leave requests ([the same for normal calendar appointments/invitations](/appointments-do-you-show-all-the-necessary-information-in-the-subject)).
 
 
 

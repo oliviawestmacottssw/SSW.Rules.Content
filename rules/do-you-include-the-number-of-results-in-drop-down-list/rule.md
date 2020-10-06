@@ -12,7 +12,6 @@ authors:
 When designing your web site, it's a good idea to help your users where possible.                     When you use a combo box, it's very helpful to be able to see at a glance how many                     results can be expected.
  
 [[badExample]]
-| ![ Bad Example - You can't tell the number of results](drop-list-bad.jpg)                        
-
+| ![You can't tell the number of results](drop-list-bad.jpg)
 [[goodExample]]
-| ![ Good Example - The number of results is clearly displayed](drop-list-good.jpg)
+| ![The number of results is clearly displayed](drop-list-good.jpg)

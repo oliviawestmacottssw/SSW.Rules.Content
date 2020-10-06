@@ -13,5 +13,5 @@ authors:
 
 Client Teams should be prefixed with “Client –“ so it is easier to identify them.
  
-![](client-naming-bad.png)​Bad Example: Client team without the "Client –" prefix
-![](client-naming-good.jpg)Good Example: Well prefixed Teams make Client-related teams easier to identify
+![Client team without the "Client –" prefix](client-naming-bad.png)
+![Well prefixed Teams make Client-related teams easier to identify](client-naming-good.jpg)

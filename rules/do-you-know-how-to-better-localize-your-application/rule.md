@@ -9,11 +9,10 @@ authors:
 
 ---
 
-​​​​​Localization makes your web application ready to work more than one language — and it’s much easier if you do it from the beginning. Just follow these tips to better localize your application for a specific country or region.​
+Localization makes your web application ready to work more than one language — and it’s much easier if you do it from the beginning. Just follow these tips to better localize your application for a specific country or region.
 
-![ SSW LinkAuditor application is available in Chine​​se.  ](SSW-Link-Auditor-Chinafy.jpg)
-
-- ​Set your application default language to automatically change to local language. For more information see "[Set your application default language](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=5aad1f7a-4872-439a-b248-6a151ba096f8)".
+![SSW LinkAuditor application is available in Chinese.](SSW-Link-Auditor-Chinafy.jpg)
+- Set your application default language to automatically change to local language. For more information see "[Set your application default language](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=5aad1f7a-4872-439a-b248-6a151ba096f8)".
 - Always give the user an option to change the locale and remember this choice for the future visits. For more information see "[Always give the user an option to change the locale](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=cdfaa8e8-772c-4ebe-a079-a15ee854357c)".
 - Use client-side tools for localization as much as possible so that for the most part, the back end of your service remains unchanged. For more information see "[Use client-side tools for localization as much as possible](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a4ba1bf2-9315-4611-9027-67d763702652)".
 - Leave plenty of space for text expansion in other languages.

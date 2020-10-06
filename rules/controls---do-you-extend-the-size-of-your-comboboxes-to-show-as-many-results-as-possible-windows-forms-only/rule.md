@@ -9,19 +9,17 @@ authors:
 
 ---
 
-​​When designing your form, it's a good idea to help your user whenever it's possible. So it's a good idea to extend your ComboBoxes to show as many results as possible to save your user from scrolling. Also, you should extend the width of the dropdown in order to show the longest items.
-   ​ 
+When designing your form, it's a good idea to help your user whenever it's possible. So it's a good idea to extend your ComboBoxes to show as many results as possible to save your user from scrolling. Also, you should extend the width of the dropdown in order to show the longest items.
+    
 However, you should not extend your ComboBox without limit, normally the maximum number of items should be under 10 and the maximum width of the drop-down should be smaller than your hosting form.
 
 [[badExample]]
-| ![ Bad Example - You have to scroll to see all the result, and the long results are cut off](../../assets/ComboBox-Size-1.jpg)
-
+| ![You have to scroll to see all the result, and the long results are cut off](../../assets/ComboBox-Size-1.jpg)
 [[goodExample]]
-| ![ Good Example - The size of the drop down has been extended to allow user to see as much as possible](../../assets/ComboBox-Size-2.jpg)
-
+| ![The size of the drop down has been extended to allow user to see as much as possible](../../assets/ComboBox-Size-2.jpg)
 Changing the maximum items is easy, just include the following code in your form:
 
-cbxOUList.MaxDropDownItems = cbxOUList.Items.Count;​
+cbxOUList.MaxDropDownItems = cbxOUList.Items.Count;
 
 Changing the drop down size is a bit of tricky
 
@@ -33,4 +31,4 @@ Graphics g = Graphics.FromHwnd(this.Handle);
  {
  adjustedSize = (int)stringSize.Width;
  }
- cbx.DropDownWidth = adjustedSize;​
+ cbx.DropDownWidth = adjustedSize;

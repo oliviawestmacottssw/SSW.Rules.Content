@@ -22,15 +22,13 @@ The most useful reports:
 - Which are your most popular pages of your website
 - Which sites are referring the most hits to you
 - Which keywords are bringing users to your site
-- If you have downloads, which are the most popular​
+- If you have downloads, which are the most popular
 
 To add Google Analytics to your website, [log into your Google account](https://www.google.com/analytics), then go to **Admin**, ensure both **Account** and **Property** specify your website, then find your **Tracking Code**. 
 ![20-08-2014-3-25-06-PM-compressor (1).png](20-08-2014-3-25-06-PM-compressor (1).png) Figure: Navigate to the Tracking Code property
 From this page, you will be able to get a JavaScript snippet to include in your application.
 
-![ Include this JavaScript in your web application](20-08-2014-3-30-55-PM-compressor.png) 
-
-![ The JavaScript code in HTML](20-08-2014-10-53-15-AM-compressor.png) 
-
+![Include this JavaScript in your web application](20-08-2014-3-30-55-PM-compressor.png)
+![The JavaScript code in HTML](20-08-2014-10-53-15-AM-compressor.png)
  
 Once deployed, this script will start tracking metrics and interacting with Google Analytics. You are good to go!

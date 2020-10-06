@@ -11,9 +11,9 @@ authors:
 
 ---
 
-Aligning expectations with stakeholders is key to success, especially for creative content where the outcome is very variable. Make sure you define what kinds of videos need what quality level.​​
+Aligning expectations with stakeholders is key to success, especially for creative content where the outcome is very variable. Make sure you define what kinds of videos need what quality level.
  
-### ​​​Gold​
+### Gold
 
 
 **Definition **
@@ -32,10 +32,10 @@ Aligning expectations with stakeholders is key to success, especially for creati
 
 - Any high value videos that generate sales that will live on your website rather than just your social media
 - Consulting page videos
-- Testimonial videos ​
+- Testimonial videos 
 
 
-### Silver​
+### Silver
 
 
 **Definition**

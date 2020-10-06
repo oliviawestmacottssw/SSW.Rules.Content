@@ -9,9 +9,9 @@ authors:
 
 ---
 
-A regex is the best way to verify an email address.​​
+A regex is the best way to verify an email address.
  
-​public bool IsValidEmail(string email)
+public bool IsValidEmail(string email)
 {
  // Return true if it is in valid email format.
  if (email.IndexOf("@") &lt;= 0) return false; 
@@ -19,7 +19,7 @@ A regex is the best way to verify an email address.​​
  if (email.IndexOf(".") &lt;= 0) return false; 
  if ( ... 
 }
-Figure: Bad example of verify email address​​
+Figure: Bad example of verify email address
 
 public bool IsValidEmail(string email) 
 { 
@@ -27,4 +27,4 @@ public bool IsValidEmail(string email)
  return System.Text.RegularExpressions.Regex.IsMatch( email, 
  @"^([\w-\.]+)@(([[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$";
 }
-Figure: Good example of verify email address​​​
+Figure: Good example of verify email address

@@ -14,12 +14,11 @@ It’s not uncommon for critical workflows in projects to become flaky and britt
 These are workflows that, if errors occur, the product becomes rather useless, and thus needs to be strongly tested.
    The best way to test this workflow is by performing the workflow against a real environment, using a real browser – of course, in a repeatable, consistent way.
  
-A nice option is to use [Seleno](http://seleno.teststack.net/)​ with an appropriate web driver for the desired browser – see the Seleno documentation.  This library lets you write code to drive a user’s action in a browser, including  for example logging in, searching for a product, adding it to the cart, proceeding to checkout, entering test credit card information and ensuring the success message.
+A nice option is to use [Seleno](http://seleno.teststack.net/) with an appropriate web driver for the desired browser – see the Seleno documentation.  This library lets you write code to drive a user’s action in a browser, including  for example logging in, searching for a product, adding it to the cart, proceeding to checkout, entering test credit card information and ensuring the success message.
  
 This isn’t free though.  The nature of these tests mean that without proper care and maintenance, tests will fail intermittently.  There are difficult-to-predict timings, DOM changes and browser compatibility issues and ongoing maintainability - so it is beneficial to limit these kinds of tests to critical happy-paths.
 
 [[badExample]]
-| ![ No end-to-end tests, no automatic feedback when things go catastrophically wrong ](test-bad.png)
-
+| ![No end-to-end tests, no automatic feedback when things go catastrophically wrong](test-bad.png)
 [[goodExample]]
-| ![End-to-end Seleno tests run in Continuous-Integration, giving us very rapid feedback when the deployment breaks ](test-good.png)
+| ![End-to-end Seleno tests run in Continuous-Integration, giving us very rapid feedback when the deployment breaks](test-good.png)

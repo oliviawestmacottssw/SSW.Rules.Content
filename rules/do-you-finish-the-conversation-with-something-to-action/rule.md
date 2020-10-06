@@ -14,4 +14,4 @@ Having a nice chat with clients is great but you should always finish the conver
 - Add contact details to the company database
 - Pass the call to someone else
 - Start work
-- Remind yourself to follow up with another phone call​
+- Remind yourself to follow up with another phone call

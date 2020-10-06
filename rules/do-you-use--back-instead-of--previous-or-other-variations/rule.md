@@ -25,12 +25,9 @@ There are a few reasons for this:
 
 Below is an example of a Good "< Back" link versus some Bad variations.
 
-![ A Good example of a "< Back" link ](textboxeswithshowbutton.gif) 
-
-![ This is Bad because it says "Previous" instead of "Back" ](badpreviouslink.gif) 
-
-![ This is bad because it has too many "<"s or it has no space between the "<" and the "Back" ](badbacklink.gif) 
-
+![A Good example of a "< Back" link](textboxeswithshowbutton.gif)
+![This is Bad because it says "Previous" instead of "Back"](badpreviouslink.gif)
+![This is bad because it has too many "<"s or it has no space between the "<" and the "Back"](badbacklink.gif)
 We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.
 
 

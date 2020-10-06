@@ -78,8 +78,6 @@ index:
 - do-you-use-the-brains-of-your-company
 
 ---
-​​​​
-
 [
 ![](../../assets/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx) 
 
@@ -95,7 +93,7 @@ index:
 
 `youtube: https://www.youtube.com/embed/atVkEY8v1CU`
 
-​
+
 
 
 ### What is a successful project?

@@ -9,11 +9,11 @@ authors:
 
 ---
 
-​Using a standard file structure for storing user data on laptops makes locating the important information fast and performing automated backup operations easy - Use this checklist.
+Using a standard file structure for storing user data on laptops makes locating the important information fast and performing automated backup operations easy - Use this checklist.
 
 Remember, the expectation is for all the questions to be answered with "YES" by the end of this checklist.
 
-![](data-backup.jpg)​<br>​
+![](data-backup.jpg)<br>
  
 
 ###  Domain-joined checklist:
@@ -63,12 +63,11 @@ When you choose a location in OneDrive, it will always create the main root fold
 E.g. Create a folder in C: with Data and your username, for example, "C:\DataKaiqueBiancatti", and choose that folder to be your main OneDrive folder. It will automatically create a new folder inside it:
  
 [[goodExample]]
-| ![ Good Example - Location of Data with OneDrive - ](onedrive.png) 
-(YourOrganization) folder in it **
+| ![Location of Data with OneDrive -](onedrive.png)(YourOrganization) folder in it **
 
 
 
-> ​​
+> 
 ![](OneDrive.jpg)
 > **Figure: Good Example - Backup is being done automatically
 > 

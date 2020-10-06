@@ -9,14 +9,14 @@ authors:
 
 ---
 
-​A common approach is to submit your app to Testflight, wait for user feedback, then submit for App Store release. The problem with this approach is that your release cycle can be significantly impacted by Apple's review schedule. App Store and Testflight reviews can be very quick, but can also take up to 3 weeks!
+A common approach is to submit your app to Testflight, wait for user feedback, then submit for App Store release. The problem with this approach is that your release cycle can be significantly impacted by Apple's review schedule. App Store and Testflight reviews can be very quick, but can also take up to 3 weeks!
 
 
 
  
 A better process is to submit your build for Testflight and Release simultaneously.
 
-### ​​Steps:
+### Steps:
 
 
 1. Upload your build to App Store Connect.
@@ -24,20 +24,19 @@ A better process is to submit your build for Testflight and Release simultaneous
 3. Immediately, prepare your app for submission to the App Store (by completing the appropriate metadata, e.g. new features or fixes in this version).
 **    Important**: Set to Manual Release so that your app does not get automatically released untested.
 4. If you are using external or public users, your build must be approved by Apple for testing.
-**    Note:** If you are using internal testers only (App Store Connect users), they can begin testing immediately.​
-5. Once both your App Store and Testflight builds have been approved, get a Test Pass via the Test Please process - see [Rules to Successful Projects: Do you conduct a "test please" internally and then with the client?​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=b9ec5dbc-7379-47ea-9cc2-59bd3769cd18)
-​
+**    Note:** If you are using internal testers only (App Store Connect users), they can begin testing immediately.
+5. Once both your App Store and Testflight builds have been approved, get a Test Pass via the Test Please process - see [Rules to Successful Projects: Do you conduct a "test please" internally and then with the client?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=b9ec5dbc-7379-47ea-9cc2-59bd3769cd18)
+
 **    Tip for Mid-Sprint Releases**: If its an internal app, you can accelarate the Test Please process by asking someone with an iPhone to test straight away via Testflight.
 **    Tip for End of Sprint Releases: **Get the Testflight and Release submissions approved in preparation for your Sprint Review. You can then demo your release to the Product Owner and be ready to release your Product Increment after the Sprint Review.
 6. You can now release your app as soon as you are ready. In App Store Connect click Release to make your latest build publicly available in the App Store.
 
 
-![](bad-example-new.png)
-
-​​Figure: Bad Example - v1.7 is "Waiting for Review" in Testflight but only v1.6 is submitted to the App Store. This can introduce delays of 3 weeks.
-
-​​​​
+[[badExample]]
+| ![v1.7 is "Waiting for Review" in Testflight but only v1.6 is submitted to the App Store. This can introduce delays of 3 weeks.](bad-example-new.png)
 
 
-![](good-example-new.png)
-​​Figure: Good Example - v1.7 has been submitted to Testflight and App Store at the same time - also "Waiting for Review", but your build will be ready to release as soon as testing has passed
+
+
+[[goodExample]]
+| ![v1.7 has been submitted to Testflight and App Store at the same time - also "Waiting for Review", but your build will be ready to release as soon as testing has passed](good-example-new.png)

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Sending an unnecessary Instant Message is a distraction to the person you sent it to. Follow [the 5 word rule​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=739c2fd2-1d09-41da-8e98-e87312f40fcd); if your message is less than 5 words, e.g. "Great work!" or "Thanks!", it's probably not required.
+Sending an unnecessary Instant Message is a distraction to the person you sent it to. Follow [the 5 word rule](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=739c2fd2-1d09-41da-8e98-e87312f40fcd); if your message is less than 5 words, e.g. "Great work!" or "Thanks!", it's probably not required.
 
 
 

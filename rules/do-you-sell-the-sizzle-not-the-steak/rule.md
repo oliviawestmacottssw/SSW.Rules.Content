@@ -20,7 +20,7 @@ authors:
  
 A good example of a benefit is shown in this Colgate toothpaste slogan; "Your teeth will be whiter so you can smile with confidence."
 
-Of course, features do need to be described. That's one way of convincing prospects that you can deliver the benefits that prospective customers want. However, if you concentrate only on the features, the prospect may well yawn and say "So what?" Is your business guilty as charged? Here are​ 3 ways to check:
+Of course, features do need to be described. That's one way of convincing prospects that you can deliver the benefits that prospective customers want. However, if you concentrate only on the features, the prospect may well yawn and say "So what?" Is your business guilty as charged? Here are 3 ways to check:
 
 - Look closely at your sales literature - including sales letters that you write. How many times are features described without stating the benefits of that feature?
 - Check your sales peoples' reports (verbal as well as written). How many times do they state what features the prospect wants rather than the real needs of the prospect, the benefits that s/he is looking for?

@@ -18,4 +18,4 @@ To reply to a bug effectively and efficiently in your emails, you need to includ
 - Solution - how you fixed the bug (code snippet if necessary)
 
 [[goodExample]]
-| ![ Good Example - Reply to a bug showing all steps​](better_emails_reply_bug_small.jpg)
+| ![Reply to a bug showing all steps](better_emails_reply_bug_small.jpg)

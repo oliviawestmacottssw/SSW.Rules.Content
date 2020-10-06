@@ -18,10 +18,10 @@ Properties conceal the data storage mechanism from the user, resulting in less b
 - **Compatibility with data binding**
 You can only bind to a public property, not a field.
 - **Minimal performance overhead**
-The performance overhead for public properties is trivial. In some situations, public fields can actually have inferior performance to public properties.​
+The performance overhead for public properties is trivial. In some situations, public fields can actually have inferior performance to public properties.
 
  
-​public int Count;
+public int Count;
 Figure: Bad code. Variable declared as a Field
 
 public int Count
@@ -35,6 +35,6 @@ public int Count
  \_count = value; 
  }
 }
-Figure: Good code. Variable declared as a Property​​
+Figure: Good code. Variable declared as a Property
 
-We agree that the syntax is tedious and think [Microsoft should improve this.](https&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/VisualStudio.aspx#PropertyShortcut)​
+We agree that the syntax is tedious and think [Microsoft should improve this.](https&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/VisualStudio.aspx#PropertyShortcut)

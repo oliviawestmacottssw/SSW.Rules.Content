@@ -9,16 +9,14 @@ authors:
 
 ---
 
-​​It's important to provide a physical space for each employee to receive packages and mails.
+It's important to provide a physical space for each employee to receive packages and mails.
  
 The locker should have a slot for mail, so you don't need 2 different locations.
  
 [[badExample]]
-| ![ Having a drawer and a mailbox takes too much space ](drawer-bad.jpg) 
-(2 different locations) and larger packages won't fit
+| ![Having a drawer and a mailbox takes too much space](drawer-bad.jpg)(2 different locations) and larger packages won't fit
 [[okExample]]
-| ![Stepped lockers are great as they allow jackets ](Lockers.jpg)
-(however missing the mail hole)
+| ![Stepped lockers are great as they allow jackets](Lockers.jpg)(however missing the mail hole)
  
 [[goodExample]]
-| ![A locker with mail slot is ideal for both mail and packages ](locker-good.jpg)
+| ![A locker with mail slot is ideal for both mail and packages](locker-good.jpg)

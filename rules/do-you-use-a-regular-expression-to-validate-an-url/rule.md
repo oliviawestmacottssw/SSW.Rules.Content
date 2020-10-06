@@ -24,7 +24,7 @@ catch (UriFormatException ex)
 return false; 
 } 
 }
-Figure: Bad example of verifying URI​​​
+Figure: Bad example of verifying URI
 
 public bool IsValidUri(string uri) 
 { 
@@ -33,4 +33,4 @@ return System.Text.RegularExpressions.Regex.IsMatch( uri,@"^(http|ftp|https)://(
 }
  Figure: Good example of verifying URI 
 
-You should have unit tests for it, see our [Rules to Better Unit Tests](https&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterUnitTests.aspx) for more information.​
+You should have unit tests for it, see our [Rules to Better Unit Tests](https&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterUnitTests.aspx) for more information.

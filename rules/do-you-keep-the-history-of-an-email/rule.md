@@ -16,7 +16,7 @@ Often we receive a reply to an email and it has one word - "Yes."
 If the sender can't remember what was asked and the respondent has deleted the history, it's hard to tell what's going on. It's not possible to check whether all questions were answered, or what URL was in the original email. Also, we can't CC someone else on the new reply because the email is missing half the information.
 
 So the only way is to go back into 'sent items', find what was asked for and copy and paste it into my reply, which can be very frustrating.
-   Crazy. Just **don't delete the history**! Geezzzzeeeee, surely we aren't that hard up for disk space ;)​
+   Crazy. Just **don't delete the history**! Geezzzzeeeee, surely we aren't that hard up for disk space ;)
 ### Related Rule 
 
 

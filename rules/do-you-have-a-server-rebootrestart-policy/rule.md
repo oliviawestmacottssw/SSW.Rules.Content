@@ -19,7 +19,7 @@ For short outages (under 15 minutes) that only affect only a few people (under 5
 
 **Note: **If they are not online on Teams or Skype, then they can't complain that they were not warned.
 
-For extended or planned outages, or if you have a larger number of users (50+),     **email** is the suggested method.​​
+For extended or planned outages, or if you have a larger number of users (50+),     **email** is the suggested method.
  
 ### Email
 
@@ -102,20 +102,17 @@ Immediately before the scheduled downtime, check for logged in users, file acces
 
 Open 'Windows Task Manager' (Run > taskmgr) and select the 'Users' tab. Check with users if they have active connections, then have them log off.
 
-![ Connected users can be viewed in Task Manager](rule-outage-3.png)
-
+![Connected users can be viewed in Task Manager](rule-outage-3.png)
 ### Files
 
 Open 'Computer Management' (Run > compmgmt.msc), then 'System Tools > Shared Folders'. Check 'Session' and 'Open Files' for user connections.
 
-![ Computer Management 'Open Files' View](rule-outage-4.png)
-
+![Computer Management 'Open Files' View](rule-outage-4.png)
 ### Database
 
 Open SQL Server Management Studio on the server. Connect to the local SQL Server. Expand 'Management' and double-click 'Activity Manager'.
 
-![ SQL Management Studio 'Active Connections' View](rule-outage-5.gif)
-
+![SQL Management Studio 'Active Connections' View](rule-outage-5.gif)
 Once these have been checked for active users, and users have logged off, maintenance can be carried out.
 
 **Restarts should only be performed during the following time periods**
@@ -127,4 +124,4 @@ Once these have been checked for active users, and users have logged off, mainte
 
 If a scheduled shutdown is required, use the PsShutdown utility from [Microsoft's Sys Internals](https://www.ssw.com.au/ssw/Redirect/Microsoft/Technet.htm) page.
 
-**Always reply 'Done' when you finish the task. **​
+**Always reply 'Done' when you finish the task. **

@@ -15,7 +15,7 @@ Rather than creating a new script specific to 2005, we found that by removing th
 
 The moral of the story is - keep it simple.
  
-​When using a create script to create a new database, let SQL Server determine the filename and path from its default settings. This will help make the script simpler, more flexible, and ready to use with utilities such as MS OSQL and SSW SQL Deploy.
+When using a create script to create a new database, let SQL Server determine the filename and path from its default settings. This will help make the script simpler, more flexible, and ready to use with utilities such as MS OSQL and SSW SQL Deploy.
 
 DECLARE @device\_directory NVARCHAR(520)
 SELECT @device\_directory = SUBSTRING(phyname, 1,
@@ -40,7 +40,7 @@ CREATE DATABASE [DatabaseName]
 Go
 Figure: Bad Example - FILENAME Parameter used to specify database path
 
-​CREATE DATABASE [DatabaseName]
+CREATE DATABASE [DatabaseName]
 COLLATE SQL\_Latin1\_General\_CP1\_CI\_AS
 Go
-Figure: Good Example - Generic CREATE DATABASE used​​
+Figure: Good Example - Generic CREATE DATABASE used

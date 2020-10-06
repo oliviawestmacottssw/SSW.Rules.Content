@@ -9,13 +9,11 @@ authors:
 
 ---
 
-​It's a good idea to brand your company's cars when they're on the road. These cars are essentially moving billboards for the company.​
+It's a good idea to brand your company's cars when they're on the road. These cars are essentially moving billboards for the company.
  
-​​​To get more cars, you can reward employees to brand their personal cars.​​
-​​
-![](car-branding.jpg)​​​      Figure: ​​​​Bad Example​​ as the car looks bad
+To get more cars, you can reward employees to brand their personal cars.
 
-![ Good Example​​​​​ - cool car](car-branding-tesla.png)      
+![Bad Example as the car looks bad](car-branding.jpg)
 
-
-​​​​​​​​
+[[goodExample]]
+| ![cool car](car-branding-tesla.png)

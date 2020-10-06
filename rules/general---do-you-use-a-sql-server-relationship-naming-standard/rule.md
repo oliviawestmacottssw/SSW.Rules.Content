@@ -9,9 +9,9 @@ authors:
 
 ---
 
-​This standard outlines the procedure on naming Relationships at SSW for SQL Server. Use this standard when creating new Relationships or if you find an older Relationship that doesn't follow that standard.
+This standard outlines the procedure on naming Relationships at SSW for SQL Server. Use this standard when creating new Relationships or if you find an older Relationship that doesn't follow that standard.
  
-​​Do you agree with them all? Are we missing some? Let us know what you think.
+Do you agree with them all? Are we missing some? Let us know what you think.
 
 ### Syntax
 
@@ -23,20 +23,17 @@ Relationship names are to have this syntax:
 Rather than accepting the default value i.e. ClientAccount\_FK01 that is given from upsizing.
 
 [[badExample]]
-| ![ Bad Example - using the default relationship name](imgRelationshipPic1.gif)
+| ![using the default relationship name](imgRelationshipPic1.gif)
 
-
-​We recommend using Prod-ClientAccount.
+We recommend using Prod-ClientAccount.
 
 [[goodExample]]
-| ![ Good Example - using a more descriptive relationship name](imgRelationshipPic2.gif)
+| ![using a more descriptive relationship name](imgRelationshipPic2.gif)
 
 
 
+The good thing is when you look at the relationship from the other side it is there as well.
 
-​The good thing is when you look at the relationship from the other side it is there as well.
-
-![ Relationship name shown on the other table](imgRelationshipPic3.gif)
-
+![Relationship name shown on the other table](imgRelationshipPic3.gif)
 
 We also believe in using Cascade Updates - but never cascade deletes.

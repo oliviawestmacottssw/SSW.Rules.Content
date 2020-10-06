@@ -11,5 +11,4 @@ Open a word doc at the start of your presentation. It is a good idea to have som
 
 By opening a word document on the screen or projector, everyone in the room will be clear about the questions being asked and the answers being given. This will also help you address any open issues after the presentation.
 
-![ A nice presenting technique is to write any questions and answers from your audience ](RecordQA.jpg) 
-(live on stage)
+![A nice presenting technique is to write any questions and answers from your audience](RecordQA.jpg)(live on stage)

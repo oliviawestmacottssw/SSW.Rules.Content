@@ -12,5 +12,5 @@ index:
 - do-you-use-version-control-with-power-bi
 
 ---
-​​
+
 

@@ -19,4 +19,4 @@ Another fact confirming this is that PageRank indicator was never available in 
 
 The visible page rank is now updated very infrequently. The last known update was in November 2013. In October 2014, [Matt Cutts](https&#58;//www.mattcutts.com/blog/) announced that another visible PageRank update would not be coming.
  
-​**Note:** Even though "Toolbar" PageRank is less important for SEO purposes, the existence of back-links from more popular websites continues to push a web page higher up in search rankings.​
+**Note:** Even though "Toolbar" PageRank is less important for SEO purposes, the existence of back-links from more popular websites continues to push a web page higher up in search rankings.

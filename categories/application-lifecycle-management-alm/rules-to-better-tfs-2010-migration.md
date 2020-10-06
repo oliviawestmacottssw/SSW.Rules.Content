@@ -18,9 +18,9 @@ index:
 - do-you-know-what-will-break-and-how-to-be-ready-for-them
 
 ---
-​Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
+Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
 
-If you still need help, visit [Application Lifecycle Management](http&#58;//www.ssw.com.au/ssw/Consulting/ALM.aspx) [​](http&#58;//www.ssw.com.au/ssw/Consulting/Default.aspx)and book in a consultant.
+If you still need help, visit [Application Lifecycle Management](http&#58;//www.ssw.com.au/ssw/Consulting/ALM.aspx) [](http&#58;//www.ssw.com.au/ssw/Consulting/Default.aspx)and book in a consultant.
 
 **Update: TFS 2010 has been replaced by TFS 2012 - if you're moving to TFS 2012, see our [Rules to Better TFS 2012 Migration](/ALM/RulesToBetterTFS2012Migration).**
 

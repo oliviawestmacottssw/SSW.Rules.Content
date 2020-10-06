@@ -13,35 +13,34 @@ authors:
 
 GRASP stands for General Responsibility Assignment Software Patterns and describes guidelines for working out what objects are responsible for what areas of the application.
  
-​The fundamentals of GRASP are the building blocks of Object-​Oriented design.  It is important that responsibilities in your application are assigned predictably and sensibly to achieve maximum extensibility and maintainability.
+The fundamentals of GRASP are the building blocks of Object-Oriented design.  It is important that responsibilities in your application are assigned predictably and sensibly to achieve maximum extensibility and maintainability.
 
 GRASP consists of a set of patterns and principles that describe different ways of constructing relationships between classes and objects.
 
 
 | Creator | A specific class is responsible for creating instances of specific other classes (e.g. a Factory Pattern) |
 | --- | --- |
-| ​Information Expert | Responsibilities are delegated to the class that holds the information required to handle that responsibility​ |
+| Information Expert | Responsibilities are delegated to the class that holds the information required to handle that responsibility |
 | --- | --- |
-| ​Controller | ​System events are handled by a single "controller" class that delegates to other objects the work that needs to be done |
+| Controller | System events are handled by a single "controller" class that delegates to other objects the work that needs to be done |
 | --- | --- |
-| ​Low Coupling  | Classes should have a low dependency on each other, have low impact if changed, and ​have high potential for reuse |
+| Low Coupling  | Classes should have a low dependency on each other, have low impact if changed, and have high potential for reuse |
 | --- | --- |
-| ​High Cohesion | ​Objects should be created for a single set of focused responsibilities |
+| High Cohesion | Objects should be created for a single set of focused responsibilities |
 | --- | --- |
-| ​Polymorphism | ​The variation in behaviour of a type of object is the responsibility of that type's implementation |
+| Polymorphism | The variation in behaviour of a type of object is the responsibility of that type's implementation |
 | --- | --- |
-| ​Pure Fabrication | ​Any class that does not represent a concept in the problem domain |
+| Pure Fabrication | Any class that does not represent a concept in the problem domain |
 | --- | --- |
-| ​Indirection | ​The responsibility of mediation between two classes is handled by an intermediate object (e.g. a Controller in the MVC pattern) |
+| Indirection | The responsibility of mediation between two classes is handled by an intermediate object (e.g. a Controller in the MVC pattern) |
 | --- | --- |
-| ​Protected Variations | ​Variations in the behaviour of other objects is abstracted away from the dependent object by means of an interface and polymorphism |
+| Protected Variations | Variations in the behaviour of other objects is abstracted away from the dependent object by means of an interface and polymorphism |
 | --- | --- |
 
 
 Tip: Visual Studio's Architecture tools can help you visualise your dependencies.  A good structure will show calls flowing in one direction.
 
 [[badExample]]
-| ![ Bad Example - Calls are going in both directions which hints at a poor architecture](architecture_responsibility_bad.png)
-
+| ![Calls are going in both directions which hints at a poor architecture](architecture_responsibility_bad.png)
 [[goodExample]]
-| ![ Good Example - Calls are flowing in one direction hinting at a more sensible arrangement of responsibilities](architecture_responsibility_good.png)
+| ![Calls are flowing in one direction hinting at a more sensible arrangement of responsibilities](architecture_responsibility_good.png)

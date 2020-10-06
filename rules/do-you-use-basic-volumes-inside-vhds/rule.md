@@ -17,8 +17,7 @@ When formatting a new virtual disk you have attached to a Hyper-V Virtual Machin
 
 
 [[badExample]]
-| ![ Bad Example - DPM cannot backup this Virtual Machine's child state as it has a Dynamic Disk](basicvolumes-badexample.jpg)
-
+| ![DPM cannot backup this Virtual Machine's child state as it has a Dynamic Disk](basicvolumes-badexample.jpg)
 
 
 ![](basicvolumes-goodexample.jpg)

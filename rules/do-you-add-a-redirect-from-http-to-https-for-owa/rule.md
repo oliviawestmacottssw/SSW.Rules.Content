@@ -18,7 +18,7 @@ Do you configure redirection from HTTP to https for Outlook Web App (OWA)? To si
 3. At the bottom of the Default Web Site Home pane, click **Features View** if this option isn't already selected.
 4. In the **IIS** section, double-click **HTTP Redirect**
 5. Select the **Redirect requests to this destination** check box.
-6. Type the absolute path of the /owa virtual directory. For example, type **https://mail.domain.com/owa​.**
+6. Type the absolute path of the /owa virtual directory. For example, type **https://mail.domain.com/owa.**
 7. Under **Redirect Behavior**, select the **Only redirect requests to content in this directory (not subdirectories)** check box.
 8. In the **Status code** list, click **Found (302)**.
 9. In the Actions pane, click **Apply**.  
@@ -42,8 +42,8 @@ appcmd set config "Default Web Site/powershell" /section:httpredirect /enabled:f
 appcmd set config "Default Web Site/rpc" /section:httpredirect /enabled:false -commit:apphost
 appcmd set config "Default Web Site/rpcwithcert" /section:httpredirect /enabled:false -commit:apphost
 appcmd set config "Default Web Site/Microsoft-Server ActiveSync" /section:httpredirect /enabled:false -commit:apphost
-​
-4. Finish by running the command:    `​​iisreset/noforce`.
+
+4. Finish by running the command:    `iisreset/noforce`.
 
 
 ### Step 3: Test that HTTP to HTTPS redirect is working
@@ -52,7 +52,6 @@ appcmd set config "Default Web Site/Microsoft-Server ActiveSync" /section:httpre
 2. DONE - You are then redirected to **https://mail.domain.com/owa**
 
  
-![ Bad Example, no redirect in place for OWA](iisnoredirect.jpg)  
-
+![Bad Example, no redirect in place for OWA](iisnoredirect.jpg)
  
-![ Good Example, redirect from HTTP to https for OWA ](iisredirect.jpg)
+![Good Example, redirect from HTTP to https for OWA](iisredirect.jpg)

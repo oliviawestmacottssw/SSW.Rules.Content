@@ -46,7 +46,7 @@ REM (deploy the callouts - Part 1)
 Deploy to Test Server
 
 - Import the customizations.xml
-- Run .bat file​
+- Run .bat file
 
 
 Deploy to Production Server

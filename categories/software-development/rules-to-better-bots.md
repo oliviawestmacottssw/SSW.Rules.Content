@@ -12,7 +12,5 @@ Bots promote an effective and productive work place. Many companies are already 
 
 ### Want to build a Bot? 
 
-Check [SSW's Bots Consulting page​](https&#58;//www.ssw.com.au/ssw/Consulting/Bots.aspx).
-
-​
+Check [SSW's Bots Consulting page](https&#58;//www.ssw.com.au/ssw/Consulting/Bots.aspx).
 

@@ -12,8 +12,8 @@ authors:
 ---
 
 We want to keep clear and simple file structure in our solution. Never put any files other than images file in \images folder.<br> 
-![](OnlyImageBad.gif) Bad example - HTML file in \Images Folder.
-![](OnlyImageGood.gif) Good example - Images only, clean \Images folder.
+![Bad](OnlyImageBad.gif)
+![Good](OnlyImageGood.gif)
 
 
 

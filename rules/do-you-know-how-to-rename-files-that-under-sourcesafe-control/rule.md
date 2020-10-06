@@ -19,10 +19,8 @@ The step by step to rename a file that under SourceSafe control:
 2. Open Visual SourceSafe Explorer and rename the file.
 3. Rename it in Visual Studio .NET, click "Continue with change" to the 2 pop-up messages:
 
-![ Warning message of renaming files under source control.](RenameVSS1_small.jpg) 
-
-![ You are seeing this as the new file name already exists in SourceSafe, just click "Continue with change".](RenameVSS2_small.jpg) 
-
+![Warning message of renaming files under source control.](RenameVSS1_small.jpg)
+![You are seeing this as the new file name already exists in SourceSafe, just click "Continue with change".](RenameVSS2_small.jpg)
 
 
 

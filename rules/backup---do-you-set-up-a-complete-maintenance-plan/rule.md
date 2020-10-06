@@ -21,8 +21,7 @@ It is surprising how many IT staff create backup plans and then leave it at that
 8. Backing up System databases
 9. Last but not least - you should regularly check that the maintenance plans have been running successfully. Otherwise, all your backup and maintenance efforts are pointless
 
- This can be found under **Management | Maintenance Plans**​ within the database tee in SQL Server.
-​
+ This can be found under **Management | Maintenance Plans** within the database tee in SQL Server.
 
-![](SqlMaintenancePlan.png)​​
-Figure​: SQL Server - ​A Complete Weekly Maintenance Plan
+
+![SQL Server - A Complete Weekly Maintenance Plan](SqlMaintenancePlan.png)

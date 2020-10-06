@@ -11,9 +11,9 @@ authors:
 
 ---
 
-When you need to create a new line in your string, make sure you use Environment.NewLine, and then literally begin typing your code on a new line for readability purposes.​
+When you need to create a new line in your string, make sure you use Environment.NewLine, and then literally begin typing your code on a new line for readability purposes.
  
-​string strExample = "This is a very long string that is \r\n not properly implementing a new line.";
+string strExample = "This is a very long string that is \r\n not properly implementing a new line.";
  Bad Example: The string has implemented a manual carriage return line feed pair (\r\n)
 
 
@@ -23,7 +23,7 @@ string strExample = "This is a very long string that is " + Environment.NewLine 
 
 OK Example: The new line is created with Enviroment.NewLine (but strings are immutable)
 
-​var example = new StringBuilder();
+var example = new StringBuilder();
  example.AppendLine("This is a very long string that is ");
  example.Append(" properly implementing a new line.");
 

@@ -13,18 +13,16 @@ authors:
 
 ---
 
-​​​​When dealing with western people, you want to avoid having screen captures etc. showing foreign characters.​​
+When dealing with western people, you want to avoid having screen captures etc. showing foreign characters.
 
 Let us look at some examples:
  
 ### Google Chrome
 
 [[badExample]]
-| ![ Chrome using Chinese as its language setting](2016-3-22 10-43-12.png)
-
+| ![Chrome using Chinese as its language setting](2016-3-22 10-43-12.png)
 [[goodExample]]
 | ![Chrome using English as its language setting](2016-3-22 14-59-07.png)
-
 ### How to fix on a PC?
 
 
@@ -33,28 +31,22 @@ You want all screenshots you take to be showing English. Most of the time it is 
 In Chrome, you can follow these steps directly:
 
 1. Three dots bar at the top right of the Chrome window: <br>          
- ​ <br>            
-![ Blank Chrome page showing the 'Settings' button, 3 small dots](chroooome.jpg)
-
+  <br>            
+![Blank Chrome page showing the 'Settings' button, 3 small dots](chroooome.jpg)
 2. Click on Settings: <br>      
-![ Showing the 'Settings' page](ssw12.png)
-
+![Showing the 'Settings' page](ssw12.png)
 3. Click on Advanced: <br>      
-![ Advanced tab in Settings](ssw13.png)
-
+![Advanced tab in Settings](ssw13.png)
 4. Click on 'Add Languages': <br>      
-![ Add Languages to your current Chrome](ssw14.png)
-
+![Add Languages to your current Chrome](ssw14.png)
 5. Move English to the top <br>      
-![ Move English to top](ChromeEnOnTop.png)
-
+![Move English to top](ChromeEnOnTop.png)
 
 
 ### How to fix on a Mac?
 
 1. Change the language in System Preferences. Go to Apple menu | System Preferences | Language & Region. <br>      
-![ In macOS it’s simple to change to English](WX20180906-111514@2x.png) 
-
+![In macOS it’s simple to change to English](WX20180906-111514@2x.png)
 2. In Preferred languages, add English and select it as primary language: <br>       Figure: In Language & Region, add English
 3. Reboot the system and verify that English is now the primary language for all desktop applications.
 
@@ -65,30 +57,23 @@ You should also change your Google language to English as well. If it is not alr
 
 1. Go to www.google.com
 2. Click on `Sign-In` or `My Account` if you are already signed in <br>      
-![ Google page without an account](ssw1.png) 
-
-![ Google page with an account](ssw2.png)
-
+![Google page without an account](ssw1.png)
+![Google page with an account](ssw2.png)
 3. Search for 'Language': <br>      
-![ Search for 'language'](GoogleAccountSearch.png)
-
+![Search for 'language'](GoogleAccountSearch.png)
 4. Now click `Language` and search for English <br>      
-![ Language picker](GoogleAccountAdd.png)
-
+![Language picker](GoogleAccountAdd.png)
 5. Move English up to Default language by clicking on the arrow<br>
-![ Move up English](GoogleAccountMoveUp.png)
-
+![Move up English](GoogleAccountMoveUp.png)
 6. Done! You changed your language to English.
 
 
 ### How to fix your Gmail account?
 
 1. Click on the cog then Settings <br>      
-![ Access to Settings on Gmail](Gmail1.png)
-
+![Access to Settings on Gmail](Gmail1.png)
 2. Set language to English(US) <br>      
-![ Change language setting](Gmail2.png)
-
+![Change language setting](Gmail2.png)
 3. Scroll down and click on 'Save Changes'. Done!
 
 
@@ -96,52 +81,43 @@ You should also change your Google language to English as well. If it is not alr
 
 
 1. Go to Options <br>      
-![ Access to Firefox options](Firefox1.png)
-
+![Access to Firefox options](Firefox1.png)
 2. Set Display language to English(United States), you may have to restart Firefox to apply the change <br>      
-![ Language settings](Firefox2.png)
-
+![Language settings](Firefox2.png)
 3. Choose your preferred language for displaying pages. Add English(UnitedStates) and move it to the top. <br>      
-![ Click Choose to change your preferred language](Firefox3a.png)
+![Click Choose to change your preferred language](Firefox3a.png)
 
-
-![ Add English](Firefox3.png)
-(United States) to your preferred language for displaying pages
+![Add English](Firefox3.png)(United States) to your preferred language for displaying pages
 4. Done!
 
 
 ### How to fix on MS Azure?
 
-![ In Azure https://portal.azure.com it is as simple as clicking on the Cog icon](Azure.png) 
-
+![In Azure https://portal.azure.com it is as simple as clicking on the Cog icon](Azure.png)
 ### How to fix on MS Office 365 (rich client)
 
 
 
-![ The Office 365 cog does not show the language. Some cheap versions of Microsoft Office 365 only allow Chinese, so you need to uninstall and install the English version. It requires you to download a language pack which is a bit more of a hassle...](office365.png)
-
-![ If you do not have the English version. In Microsoft Office open the rich client application such as Outlook or Word, then install and configure as per the image above ](3.png)
-
+![The Office 365 cog does not show the language. Some cheap versions of Microsoft Office 365 only allow Chinese, so you need to uninstall and install the English version. It requires you to download a language pack which is a bit more of a hassle...](office365.png)
+![If you do not have the English version. In Microsoft Office open the rich client application such as Outlook or Word, then install and configure as per the image above](3.png)
 ### How to fix on Office 365 (https://outlook.office365.com)
 
 
-  ​  <br>   
-![ If you have the Inbox, Sent Items etc in Chinese then you will need to follow these steps](screenshot.png) 
+    <br>   
+![If you have the Inbox, Sent Items etc in Chinese then you will need to follow these steps](screenshot.png)
 
-​​
-​   1. Go to ​​https://outlook.office.com
-   2. Click on "My profile"​​ in the top right corner​
+   1. Go to https://outlook.office.com
+   2. Click on "My profile" in the top right corner
 
-![](screenshot-step1.png)
-​  **Figure: Choose 'My profile'****
+![Choose 'My profile'](screenshot-step1.png)
 **   3. Click on "setting" button
 
-![](screenshot-step2.png)​​  **Figure: Choose 'Mail'****
+![Choose 'Mail'](screenshot-step2.png)
 **    4. Click on Region and time zone
 
-![](screenshot-step3.png)​  Figure: Choose Region and Time. Then when you change the ‘Language’ with the checkbox enabled, the problem will be fixed.
+![Choose Region and Time. Then when you change the ‘Language’ with the checkbox enabled, the problem will be fixed.](screenshot-step3.png)
 
-    5.In Windows10, Go to Settings| Language| Windows display language, click Windows display language and search for English.​
+    5.In Windows10, Go to Settings| Language| Windows display language, click Windows display language and search for English.
     6. Done. You have changed your language to English. Congratulations!~
-​​​  
-![](screenshot-finished.png)​  ​**Figure: After completing the fix.**
+  
+![After completing the fix.](screenshot-finished.png)

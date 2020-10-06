@@ -11,30 +11,25 @@ authors:
 
 ---
 
-​The five user experiences of Reporting Services are:
+The five user experiences of Reporting Services are:
 
 - Vanilla (Report Manager)
 - Website
 - Email
 - Windows
-- SharePoint​
+- SharePoint
 
 
  
-​
-![ Vanilla user experience](ReportingServicesVanillaExample.jpg)
+
+![Vanilla user experience](ReportingServicesVanillaExample.jpg)
 
 
-
-![](ReportingServicesWebsiteUExample.jpg)
-
-​​Figure: Website user experience
-![ Email user experience](ReportingServicesEmailUExample.jpg)
+![Website user experience](ReportingServicesWebsiteUExample.jpg)
+![Email user experience](ReportingServicesEmailUExample.jpg)
 
 
-
-![ Windows user experience](ReportingServicesWindowsUExample.jpg)
-
+![Windows user experience](ReportingServicesWindowsUExample.jpg)
 
 
-![ SharePoint user experience](ReportingServicesSharePointReportingUI.jpg)
+![SharePoint user experience](ReportingServicesSharePointReportingUI.jpg)

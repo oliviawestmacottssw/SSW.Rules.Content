@@ -9,16 +9,16 @@ authors:
 
 ---
 
-1. ​​​Visit the sites below
+1. Visit the sites below
 2. Enter the destinations with corresponding dates to receive a quote from each site
 3. Use the quotes to locate the best price or deal.
 
  
-​
 
-​These are the best sites to check in order of preference:
 
-- [www.zuji.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Zuji.htm) (10/10)​​​
+These are the best sites to check in order of preference:
+
+- [www.zuji.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Zuji.htm) (10/10)
 - [www.jetabroad.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Jetbroad.htm) (9/10)
 - [www.travel.com.au](http&#58;//www.ssw.com.au/SSW/Redirect/Travel.htm) (8/10)
 - [www.edreams.com](http&#58;//www.ssw.com.au/SSW/Redirect/Edreams.htm) (8/10)
@@ -28,7 +28,7 @@ authors:
 (both owned by same company)
 - 
 
-​ 
+ 
 These are the best sites for flights within the US
 
 - [www.expedia.com](http&#58;//www.ssw.com.au/SSW/Redirect/Expedia.htm) (10/10)
@@ -43,12 +43,12 @@ These are the best sites for flights within the US
 
 
 
-​These are the best sites for flights within China
+These are the best sites for flights within China
 
 - [www.ctrip.com](http&#58;//www.ctrip.com/) (10/10)
-- [www.fliggy.com​](http&#58;//www.fliggy.com/) (9/10)
+- [www.fliggy.com](http&#58;//www.fliggy.com/) (9/10)
 - [www.qunar.com](http&#58;//www.qunar.com/) (7/10)
-- [www.lvmama.com​](http&#58;//www.lvmama.com/) (6/10)
+- [www.lvmama.com](http&#58;//www.lvmama.com/) (6/10)
 
 
 
@@ -58,7 +58,7 @@ Compare all alternatives researched and select 3 of the best options to choose f
 ### NOTE:
 
 
-- Some travel companies, such as Flight Centre, are able to match or beat the prices quoted by t​heir​ competitors so be sure to ask them for a competitive​ fare. See [Booking Online Versus Using a Travel Agent](http&#58;//aussietraveladvice.com/travel-advice-travel-tips/booking-a-holiday-online-versus-travel-agent/)
+- Some travel companies, such as Flight Centre, are able to match or beat the prices quoted by their competitors so be sure to ask them for a competitive fare. See [Booking Online Versus Using a Travel Agent](http&#58;//aussietraveladvice.com/travel-advice-travel-tips/booking-a-holiday-online-versus-travel-agent/)
 - Make sure that before comparing the prices the quotes include all the taxes/ surcharges/fees
 - Booking sites often charge a fee for the service, for instance
 - Ensure that the quotes you receive are 'flexible' ( i.e. they provide an option to alter the travelling dates once the tickets are purchased)

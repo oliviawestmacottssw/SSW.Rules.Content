@@ -9,8 +9,8 @@ authors:
 
 ---
 
-You should format "Environment.NewLine" at the end of a line.​​
-​
+You should format "Environment.NewLine" at the end of a line.
+
  
 string message = "The database is not valid." + Environment.NewLine + "Do you want to upgrade it? ";
 Bad Example: "Environment.NewLine" isn't at the end of the line 
@@ -18,11 +18,10 @@ Bad Example: "Environment.NewLine" isn't at the end of the line
 
 
 string message = "The database is not valid." + Environment.NewLine;
-message += "Do you want to upgrade it? ";​
+message += "Do you want to upgrade it? ";
 Good Example:  "Environment.NewLine" is at the end of the line 
 
-​​
+
 
 return string.Join(Environment.NewLine, paragraphs);
-Good Example: ​"Environment.NewLine" is an exception for String.Join  
-​
+Good Example: "Environment.NewLine" is an exception for String.Join

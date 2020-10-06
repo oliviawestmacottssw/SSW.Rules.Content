@@ -11,12 +11,10 @@ authors:
 
 ---
 
-​Before you begin your journey into DevOps, you should assess yourself and see where your project is at and where you can improve.​​​​​​
+Before you begin your journey into DevOps, you should assess yourself and see where your project is at and where you can improve.
  
-Take this survey to find out your DevOps index:​ [http://goo.gl/forms/NrJhwHeGu1​​](http://goo.gl/forms/NrJhwHeGu1)
+Take this survey to find out your DevOps index: [http://goo.gl/forms/NrJhwHeGu1](http://goo.gl/forms/NrJhwHeGu1)
 
-![ DevOps Survey​](DevOps Survey.png)
-
-![ If you prefer, you can download and print ](quiz-devops.jpg)
-[
-![](icpdf.png)this survey in PDF​](/Documents/DevOps-Quiz.pdf)​
+![DevOps Survey](DevOps Survey.png)
+![If you prefer, you can download and print](quiz-devops.jpg)[
+![](icpdf.png)this survey in PDF](/Documents/DevOps-Quiz.pdf)

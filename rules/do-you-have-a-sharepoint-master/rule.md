@@ -21,4 +21,4 @@ The SharePoint master should be your companies SharePoint expert. All major chan
 
 
 
-![ Do you have a SharePoint master](../../assets/JohnLiu.jpg)
+![Do you have a SharePoint master](../../assets/JohnLiu.jpg)

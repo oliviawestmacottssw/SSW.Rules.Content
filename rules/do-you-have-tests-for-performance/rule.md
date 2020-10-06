@@ -9,9 +9,9 @@ authors:
 
 ---
 
-​Typically there are User Acceptance Tests that need to be written to measure the performance of your application. As a general rule of thumb, Forms should not load in more than 4 seconds. This can be automated with your unit testing framework.
+Typically there are User Acceptance Tests that need to be written to measure the performance of your application. As a general rule of thumb, Forms should not load in more than 4 seconds. This can be automated with your unit testing framework.
  
-**​Sample Code:**
+**Sample Code:**
 
 public abstract class FormTestBase&lt;F&gt;
  where F : Form, new()
@@ -42,4 +42,4 @@ public abstract class FormTestBase&lt;F&gt;
  public class MainFormTests : FormTestBase&lt;MainForm&gt;
  {
  }
-​Figure: This code tests that the LoginForm and MainForm load in under 4 seconds​
+Figure: This code tests that the LoginForm and MainForm load in under 4 seconds

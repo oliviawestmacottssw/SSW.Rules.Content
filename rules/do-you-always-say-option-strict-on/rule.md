@@ -21,11 +21,9 @@ To configure each template to default Option Strict to On rather than Off, load 
 Technically, you do not have to add the Option Explicit directive, because this is the default for VB; but I like to do it for consistency. Next, you must save the file and close Notepad. Now, if you load a new Windows Application project in the VS environment and examine Project Properties, you will see that Option Strict has been turned on by default.
 
 [[badExample]]
-| ![Bad Example – Option Strict is Off](OptionStrictOff_Newsmall.gif) 
-
+| ![Option Strict is Off](OptionStrictOff_Newsmall.gif)
 [[goodExample]]
-| ![Good Example – Option Strict is On ](OptionStrictOn_Newsmall.gif) 
-
+| ![Option Strict is On](OptionStrictOn_Newsmall.gif)
 In order for this setting to take effect for all project types, you must update each of the corresponding .vbproj templates. After making the changes on your system, you will need to deploy the new templates to each of your developers' machines in order for their new projects to derive from the updated templates.
 
 However, sometimes we don't do this because of too much work. In some scenarios, such as Wrappers around the COM code, and Outlook stuff with object model, there is going to be lots of work to fix all the type-checking errors. Actually it is necessary to use Object type as parameters or variables when you deal with COM components.

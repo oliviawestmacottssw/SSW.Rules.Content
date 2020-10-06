@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-A healthy team is more energized​, happy, and productive, and a culture to encourage this should come from the top.
+A healthy team is more energized, happy, and productive, and a culture to encourage this should come from the top.
  
 Every company should allocate 15-20 minutes per day to getting their employees up and moving. It could be planking, pushups, or even just a fast walk, but the benefits will be worth it.
 

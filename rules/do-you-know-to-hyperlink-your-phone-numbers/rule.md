@@ -15,7 +15,7 @@ These days more than 50% of people use mobile devices to browse websites.
 
 Therefore, it is very important to hyperlink your phone number to increase the rate of conversion and improve the mobile user experience. This enables click and call, and eliminates the need to copy and paste phone numbers. 
 
-​Devices an​d computers that don’t have phone functionality will either open a phone app or add the number to a contact list. 
+Devices and computers that don’t have phone functionality will either open a phone app or add the number to a contact list. 
 
 
 &lt;a href="tel:+61299533000"&gt;+61 2 9953 3000&lt;/a&gt;

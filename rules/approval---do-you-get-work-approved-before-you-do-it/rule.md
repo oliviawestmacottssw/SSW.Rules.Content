@@ -21,9 +21,8 @@ The trouble is that the above is predicated on the notion that you're doing some
  
 Let's see how to live without stomach ulcers...
  
-![ Get work approved and spend less time putting out fires ](SuccessfulProjects_PuttingOutFires.jpg)
-
-Get permission for the work you do     **\*before\*** you do it. Usually get permission verbally,     [confirmed with an email](/dones-do-you-send-yourself-emails) (or with a     [signature](/do-you-ask-clients-to-initial-your-work), ​although that's sometimes a whole lot harder).
+![Get work approved and spend less time putting out fires](SuccessfulProjects_PuttingOutFires.jpg)
+Get permission for the work you do     **\*before\*** you do it. Usually get permission verbally,     [confirmed with an email](/dones-do-you-send-yourself-emails) (or with a     [signature](/do-you-ask-clients-to-initial-your-work), although that's sometimes a whole lot harder).
 
 The natural time for this conversation to occur is in the     [Daily Scrum](/methodology-do-you-do-daily-scrums-%28aka-stand-up-meetings%29)
 

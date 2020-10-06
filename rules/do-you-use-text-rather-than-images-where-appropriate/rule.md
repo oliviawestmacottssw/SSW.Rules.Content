@@ -16,4 +16,4 @@ Using text rather than images has multiple advantages:
 - Readable on an iPhone - Images will either be resized or require scrolling, which would create difficulties for readability.
 
 
- &lt;img src​="Images/Heading\_Welcome.gif"&gt;Figure: Bad Example - using image for text header&lt;h1&gt;Welcome to My Page&lt;/h1&gt;Figure: Good Example - this text can be easily rendered  by the browser and recognized by search engine
+ &lt;img src="Images/Heading\_Welcome.gif"&gt;Figure: Bad Example - using image for text header&lt;h1&gt;Welcome to My Page&lt;/h1&gt;Figure: Good Example - this text can be easily rendered  by the browser and recognized by search engine

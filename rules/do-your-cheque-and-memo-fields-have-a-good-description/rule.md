@@ -13,6 +13,5 @@ If your descriptions have good comments then you don't need to go back to paperw
 
 e.g.  The period the invoice relates to.
  
-![ Bad Example](memo-field-bad.jpg)
-
-![ Good Example](memo-field-good.jpg)
+![Bad Example](memo-field-bad.jpg)
+![Good Example](memo-field-good.jpg)

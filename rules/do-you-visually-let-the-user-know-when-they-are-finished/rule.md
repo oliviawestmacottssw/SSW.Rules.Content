@@ -10,7 +10,6 @@ authors: []
 When a user reaches the last page of a wizard, a visual indication should be provided                     so that they know that the process has finished. We use a finish flag to do this.
  
 [[badExample]]
-| ![ Bad Example - This is the last page of the wizard but it is not obvious because the finish flag is small and the "Next" button still enabled](../../assets/BadFinishedPage.gif)
-
+| ![This is the last page of the wizard but it is not obvious because the finish flag is small and the "Next" button still enabled](../../assets/BadFinishedPage.gif)
 [[goodExample]]
-| ![ Good Example - Good quality Finish flag on the last page of a wizard.](../../assets/GoodFlagImage.png)
+| ![Good quality Finish flag on the last page of a wizard.](../../assets/GoodFlagImage.png)

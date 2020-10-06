@@ -16,13 +16,13 @@ authors:
 Here are some of the common techniques used for testing software.
  
 
-### ​​​​Smoke test
+### Smoke test
 
 - You fire up your application and click around prior to giving it to a tester. Most developers do this.
 
 
 
-### Unit Tests​​​
+### Unit Tests
 
 - They are coded by a developer
 - Quick
@@ -32,7 +32,7 @@ Here are some of the common techniques used for testing software.
 
 
 
-### Integrations Tests​
+### Integrations Tests
 
 - They are coded by a developer
 - Slower
@@ -40,10 +40,10 @@ Here are some of the common techniques used for testing software.
 
 
 
-### Functional Tests​​
+### Functional Tests
 
 - Verifies the functionality of a system, typically from an end-user perspective
-- Can be performed manually or executed using an automated framework see [https://rules.ssw.com.au/microsoft-recommended-frameworks-for-automated-ui-driven-functional-testing​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=5f869f9c-b03d-4194-bd65-142dd0dfc0eb)
+- Can be performed manually or executed using an automated framework see [https://rules.ssw.com.au/microsoft-recommended-frameworks-for-automated-ui-driven-functional-testing](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=5f869f9c-b03d-4194-bd65-142dd0dfc0eb)
 
 
 ### Subcutaneous Tests
@@ -62,7 +62,7 @@ Subcutaneous (as in just benath the skin) are a type of integration/functional t
 
 
 
-### Load Tests​​
+### Load Tests
 
 - Setup by developers
 - Simulate expected load on your application
@@ -74,7 +74,7 @@ Subcutaneous (as in just benath the skin) are a type of integration/functional t
 ### Stress Tests
 
 - Setup by developers
-- Hit your application very hard, and try to see where your limits are (CPU, Network, Memory)​
+- Hit your application very hard, and try to see where your limits are (CPU, Network, Memory)
 
 
 
@@ -84,14 +84,13 @@ Subcutaneous (as in just benath the skin) are a type of integration/functional t
 
 
 
-![ the testing pyramid](TestPyramid.png)
+![the testing pyramid](TestPyramid.png)
 
 
 
 
 
-
-The concept of a testing pyramid was introduced by ​Mike Cohn.
+The concept of a testing pyramid was introduced by Mike Cohn.
 
 
 It's a metaphor that gives a guideline on how many tests we should write in each area.
@@ -100,6 +99,3 @@ It's a metaphor that gives a guideline on how many tests we should write in each
 
 
 At the bottom of the pyramid are small, isolated unit tests. These should be simple, easy to write and fast to execute. Our projects should aim to have many of these tests. As you move up the pyramid, complexity (such as the number of involved services) increases. So these tests become progressively harder to wite and slower to run. You should aim to write fewer tests as you move up the pyramid.
-
-
-​

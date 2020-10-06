@@ -11,11 +11,11 @@ authors:
 
 Some bugs have a whole histroy related to them and when we fix them we don't want to lose the rationale for the test. By adding a comment to the test, referencing the bug ID - future developers can see why a test is testing a particular behaviour.
  
-​[Test]
+[Test]
 public void TestProj11()
 {
 }
-Figure: Bad example - The test name is the bug ID and I don't know what it is meant to test​​​
+Figure: Bad example - The test name is the bug ID and I don't know what it is meant to test
 
 ///
  Test case where a user can cause an application exception on the
@@ -30,4 +30,4 @@ Figure: Bad example - The test name is the bug ID and I don't know what it is m
 public void TestResavingAfterPressingBackShouldntBreak()
 {
 }
-Figure: Good example - The test name is clearer, good comments for the unit test​​​ give a little context, and there is a link to original bug
+Figure: Good example - The test name is clearer, good comments for the unit test give a little context, and there is a link to original bug

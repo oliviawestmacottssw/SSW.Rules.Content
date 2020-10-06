@@ -13,49 +13,48 @@ It is important to parameterize all input to your database and it’s easy to im
 Doing so will also reduce a lot of headaches down the track.
 
  
-![ What can happen if you don’t parameterize your inputs](ParameterizeSqlInputsXKCD.png)
-
-Source: [xkcd.com​](https://xkcd.com/327/)
+![What can happen if you don’t parameterize your inputs](ParameterizeSqlInputsXKCD.png)
+Source: [xkcd.com](https://xkcd.com/327/)
 
  
-​​
-​Advantages
 
-- ​Prevents SQL injection attacks
+Advantages
+
+- Prevents SQL injection attacks
 - Preserves types being sent to the database
 - Increased performance by reducing the number of query plans
 - Makes your code more readable
 
 
-​SELECT Id, CompanyName, ContactName, ContactTitle
+SELECT Id, CompanyName, ContactName, ContactTitle
 FROM dbo.Customers
 WHERE CompanyName = 'NorthWind';
-​Figure: Bad Example - Using a dynamic SQL query
+Figure: Bad Example - Using a dynamic SQL query
 
 SELECT Id, CompanyName, ContactName, ContactTitle
 FROM dbo.Customers
 WHERE CompanyName = @companyName;
-​Figure: Good Example - Using a parameterized query​
+Figure: Good Example - Using a parameterized query
 
-### ​​Should I use Parameters.AddWithValue()?
+### Should I use Parameters.AddWithValue()?
 
 
 Using Parameters.AddWithValue() can be a bit of a shortcut as you don’t need to specify a type. However shortcuts often have their dangers and this one certainly does.
 
-For most cases [Parameters.AddWithValue()](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlparametercollection.addwithvalue?view=netframework-4.8) will guess correctly, but sometimes it doesn’t which can lead to the value being misinterpreted when sent to the database. This can be avoided using [Parameters.Add()](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlparametercollection.add?view=netframework-4.8) and specifying the [SqlDbType](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqldbtype?view=netframework-4.8), this will ensure the data will reach the database in the correct form.​
+For most cases [Parameters.AddWithValue()](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlparametercollection.addwithvalue?view=netframework-4.8) will guess correctly, but sometimes it doesn’t which can lead to the value being misinterpreted when sent to the database. This can be avoided using [Parameters.Add()](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlparametercollection.add?view=netframework-4.8) and specifying the [SqlDbType](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqldbtype?view=netframework-4.8), this will ensure the data will reach the database in the correct form.
 
 When using dates, strings, varchar and nvarchar it is strongly recommended to use **Parameters.Add()** as there is a possibility of **Parameters.AddWithValue()** to incorrectly guess the type.
 
-​​​​Implementing parameterized queries using Parameters.Add()
+Implementing parameterized queries using Parameters.Add()
 
 cmd.Parameters.Add("@varcharValue", System.Data.SqlDbType.Varchar, 20).Value = “Text”;
-​​Figure: Good Example – Using VarChar SqlDbType and specifying a max of 20 characters (-1 for MAX)
+Figure: Good Example – Using VarChar SqlDbType and specifying a max of 20 characters (-1 for MAX)
 
 cmd.Parameters.Add("@decimalValue", System.Data.SqlDbType.Decimal, 11, 4).Value = decimalValue;
-​Figure: Good Example – Using decimal(11,4) SQL Parameter
+Figure: Good Example – Using decimal(11,4) SQL Parameter
 
-​​cmd.Parameters.Add("@dateTimeValue", System.Data.SqlDbType.DateTime2).Value = DateTime.UtcNow;
-​Figure: Good Example - C#, VB .NET SQL DateTime Parameter
+cmd.Parameters.Add("@dateTimeValue", System.Data.SqlDbType.DateTime2).Value = DateTime.UtcNow;
+Figure: Good Example - C#, VB .NET SQL DateTime Parameter
 
-​$SqlCmd.Parameters.Add("@dateTimeValue", [System.Data.SqlDbType]::DateTime2).Value = $dateTime2Value
-​Figure: Good Example - PowerShell SQL DateTime Parameter
+$SqlCmd.Parameters.Add("@dateTimeValue", [System.Data.SqlDbType]::DateTime2).Value = $dateTime2Value
+Figure: Good Example - PowerShell SQL DateTime Parameter

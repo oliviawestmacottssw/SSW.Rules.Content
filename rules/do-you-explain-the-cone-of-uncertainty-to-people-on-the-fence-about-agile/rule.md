@@ -11,14 +11,13 @@ Giving fixed features and a fixed delivery date is very hard. Giving a fixed pri
 
 The basic reason is...
 
-Over time, our ability to accurately predict a project's remaining time estimates gets better.​
+Over time, our ability to accurately predict a project's remaining time estimates gets better.
 
 As a team, our understanding of the amount of work remaining on a project becomes more accurate as the project moves along.
 
 At the project’s initial conception, there is a lot to be learnt and consequently the estimates are likely to be inaccurate by a large margin. Half way through, however, the team has a much better idea of what will and will not be in scope, the technical issues are starting to get ironed out, and the estimates of the work now remaining become far more accurate.
 
-![ The further away an event is ](396294_Cone-of-Uncertainty.jpg)
-(task, user story, job), the harder it is to know how big (effort, time) it is
+![The further away an event is](396294_Cone-of-Uncertainty.jpg)(task, user story, job), the harder it is to know how big (effort, time) it is
 
 
 **Bad example: Waterfall project.**

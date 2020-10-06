@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​One of the most controversial issues developers discuss is when to create branches and how many you should have.
+One of the most controversial issues developers discuss is when to create branches and how many you should have.
 
 Keep things simple:
 
@@ -26,8 +26,7 @@ In that case you need to potentially update all of your branches and perform dep
 The better way is to use OctopusDeploy which relives developers from having multiple branches because you only have to worry about building on one branch and deployment can be done automatically to multiple environments. Octopus provides more secure, feature-rich environment which makes it very easy to deploy and promote builds between environments.
  
 [[goodExample]]
-| ![ Good Example: Manage deployments to multiple environments, view deployed versions.​](2014-10-11_18-54-00.png) 
-
+| ![Manage deployments to multiple environments, view deployed versions.](2014-10-11_18-54-00.png)
 
  
 ### Why you should avoid branching
@@ -49,19 +48,16 @@ The better way is to use OctopusDeploy which relives developers from having mult
 
 
 [[badExample]]
-| ![ Bad Example – Creating a branch per feature leads to lots of merging ](branch-bad.jpg)
-(Image from[http://paulhammant.com/blog/branch\_by\_abstraction.html](http://paulhammant.com/blog/branch_by_abstraction.html) 
+| ![Creating a branch per feature leads to lots of merging](branch-bad.jpg)(Image from[http://paulhammant.com/blog/branch\_by\_abstraction.html](http://paulhammant.com/blog/branch_by_abstraction.html) 
  
  
  
 )
 [[badExample]]
-| ![ Bad Example – Creating a branch per sprint has everyone working on the same code but requires at least one merge every sprint](branch-bad-2.jpg)
-
+| ![Creating a branch per sprint has everyone working on the same code but requires at least one merge every sprint](branch-bad-2.jpg)
 [[goodExample]]
-| ![ Good Example: Release Branching - always develop on the trunk, but create a new branch each time you release. ](branch-good.jpg)
-
-This means th​at all developers are continually integrating all their code, branching is rare, but you always have access to your released version in case bug fixes or small mods are required.
+| ![Release Branching - always develop on the trunk, but create a new branch each time you release.](branch-good.jpg)
+This means that all developers are continually integrating all their code, branching is rare, but you always have access to your released version in case bug fixes or small mods are required.
 (Image from [http://paulhammant.com/blog/branch\_by\_abstraction.html](http://paulhammant.com/blog/branch_by_abstraction.html) 
  
  

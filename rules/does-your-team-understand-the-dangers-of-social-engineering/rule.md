@@ -17,12 +17,11 @@ Social engineering is a technique which mixes art and science to exploit common 
 `youtube: https://www.youtube.com/embed/DB6ywr9fngU?rel=0`
  
 
-​
+
  
 There are numerous examples of social engineering ranging from phone calls, attackers posing as friends on social media, all the way to sophisticated attempts at phishing users with near-perfect clones of popular websites.
 
-![ ](social-eng.png)
-[‘Do you think the average consumer could spot the phishing site?’](https://www.troyhunt.com/its-time-that-you-vulnerable-human/) Source: Troy Hunt
+![](social-eng.png)[‘Do you think the average consumer could spot the phishing site?’](https://www.troyhunt.com/its-time-that-you-vulnerable-human/) Source: Troy Hunt
 The only solution to social engineering is to train properly and prepare users about the dangers presented by and common techniques used by malicious individuals. For useful information on the topic reference the document ‘[Avoiding Social Engineering and Phishing Attacks’ by the United States Computer Emergency Readiness Team](https://www.us-cert.gov/ncas/tips/ST04-014) or the Pluralsight course [Ethical Hacking: Social Engineering by Troy Hunt](http://app.pluralsight.com/courses/ethical-hacking-social-engineering).
 
 With the above in mind, it is important to review regularly the information availed via search engines and standard operating procedures. Furthermore, it can be useful to test the readiness and alertness of staff by performing mock social engineering attacks.

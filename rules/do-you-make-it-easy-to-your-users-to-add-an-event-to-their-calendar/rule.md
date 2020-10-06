@@ -15,12 +15,12 @@ Next User Group Meeting:
  Wednesday, 15 February 2006 5:45 PM
  Figure: Bad Example - User cannot add reminder
 Next User Group Meeting:
-Wednesday, 15 February 2006 5:45 PM ​
+Wednesday, 15 February 2006 5:45 PM 
 
-![](../../assets/IconVCS.gif)​ ​       [Add Outlook reminder](http://www.ssw.com.au/ssw/NETUG/SydneyDotNETUsersGroup.ics)​​​
-​​ <br>   Figure: Good Example - Showing use of Calendar icon
+![](../../assets/IconVCS.gif)        [Add Outlook reminder](http://www.ssw.com.au/ssw/NETUG/SydneyDotNETUsersGroup.ics)
+ <br>   Figure: Good Example - Showing use of Calendar icon
 By clicking the calendar icon you can easily add reminder to remind you about particular event out of your busy schedule.
 
-You have 2 options - VCS and ICS. Both let you add appointments to your calendar. We use ICS because it allows     collaborating ​information between personal information management programs like Microsoft Outlook, Mozilla Calendar, Mac     OS etc. over the Internet, independently of differences between program vendors or operating systems, which is not allowed with VCS.
+You have 2 options - VCS and ICS. Both let you add appointments to your calendar. We use ICS because it allows     collaborating information between personal information management programs like Microsoft Outlook, Mozilla Calendar, Mac     OS etc. over the Internet, independently of differences between program vendors or operating systems, which is not allowed with VCS.
 
-It is always preferred to use     [standard icons](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesNavigation.aspx#TheIcons) to give user a proper idea about the file. User can quickly get the idea by just looking at the icon.​
+It is always preferred to use     [standard icons](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesNavigation.aspx#TheIcons) to give user a proper idea about the file. User can quickly get the idea by just looking at the icon.

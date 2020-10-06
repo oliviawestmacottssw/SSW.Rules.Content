@@ -9,8 +9,6 @@ authors:
 
 ---
 
-​​
-
 `youtube: https://www.youtube.com/embed/z45_IMwslYw?rel=0`
  
 
@@ -27,9 +25,9 @@ Plus even more:
 - Presence Icon
 - IM functionality
 - Federation Abilities (so you have more people on your IM)
-- ​Meetings
+- Meetings
 - Remote Desktop
 - Whiteboard
 
 
-Read more about     [​implementing Microsoft Lync](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx).
+Read more about     [implementing Microsoft Lync](http&#58;//www.ssw.com.au/ssw/Consulting/Lync.aspx).

@@ -12,9 +12,7 @@ authors:
 ---
 
 <br>How often have you clicked "Send" and then wished you hadn't? It's a common problem. It can be easily solved by un-checking the "Send Immediately When Connected" option in Tools/ Options/ Mail Setup. I guarantee this will save you, one day!<br> 
-![ Don't send emails immediately - you will often remember something you needed to add](OutlookSendImmediately.gif) 
-
+![Don't send emails immediately - you will often remember something you needed to add](OutlookSendImmediately.gif)
 
 We have a program called [SSW LookOut! for Outlook](http://www.ssw.com.au/ssw/LookOut/) to check for this rule. It checks your Outlook settings and tell you if it's not set properly.
-![ SSW LookOut](ContactorSendImmediately.GIF) 
-! for Outlook warns you if Outlook is set to send emails immediately
+![SSW LookOut](ContactorSendImmediately.GIF)! for Outlook warns you if Outlook is set to send emails immediately

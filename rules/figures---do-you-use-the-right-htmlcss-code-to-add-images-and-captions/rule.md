@@ -11,7 +11,7 @@ authors:
 
 ---
 
-​​Most developers put the image and the caption in a DIV tag. The figure is just a paragraph.​
+Most developers put the image and the caption in a DIV tag. The figure is just a paragraph.
   
 
 ```
@@ -35,7 +35,7 @@ Instead, you should use &lt;DL&gt;, &lt;DT&gt; (which is the item in the list �
   Figure: Good Example 
 **Note:** &lt;dl&gt; stands for "**definition list**"; &lt;dt&gt; for "**definition term**"; and &lt;dd&gt; for "**definition description**".
 
-### ​Relate Rule
+### Relate Rule
 
 
-- [Figures - Do you add useful and concise figure text?​​​](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=810b7dab-f94c-4495-bf88-bb80c3bc9776)
+- [Figures - Do you add useful and concise figure text?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=810b7dab-f94c-4495-bf88-bb80c3bc9776)

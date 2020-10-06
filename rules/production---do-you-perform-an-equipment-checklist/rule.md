@@ -13,12 +13,11 @@ Nothing is worse or more embarrassing than forgetting a vital piece of equipment
 
 Remember, it is key to make sure that the speaker is kept happy and willing, so do not keep them waiting for unnecessary periods of time. Running back to the office for the tripod plate will make you look unprofessional, and it affects your company's image.
 
-As part of the checklist, it is also important to test the equipment beforehand. So anything electronic such as the wireless mic needs a quick check to see if everything is working as it should. Also make sure to check if the camera has enough free space for what you are abou​t to record.
+As part of the checklist, it is also important to test the equipment beforehand. So anything electronic such as the wireless mic needs a quick check to see if everything is working as it should. Also make sure to check if the camera has enough free space for what you are about to record.
 
 
 [[badExample]]
-| ![ Bad Example - Be specific about what equipment you need as generic lists make it easy to forget things.](SSWTV_EquipmentChecklist_BAD.png)
+| ![Be specific about what equipment you need as generic lists make it easy to forget things.](SSWTV_EquipmentChecklist_BAD.png)
 
 
-
-![ Good example. It's ideal to have two columns so you can check off items when leaving multiple locations, also extra rows might come in useful if there's extra equipment.](SSWTV_EquipmentChecklist.png)
+![Good example. It's ideal to have two columns so you can check off items when leaving multiple locations, also extra rows might come in useful if there's extra equipment.](SSWTV_EquipmentChecklist.png)

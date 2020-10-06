@@ -14,7 +14,7 @@ Popup modal forms are no good:
 - as you can't read or edit something else in a window behind
 - as they take a lot of time to load in a browser (ask any CRM 4 user)
 
-   ​
+   
 Popup forms are good:
 
 - as it is obvious you have an action step to perform before continuing
@@ -24,9 +24,7 @@ Popup forms are good:
 
 
 [[badExample]]
-| ![ if this was a popup form it would be easier to focus on where to look ](../../assets/Popup01.jpg)
-(as a minimum you would be looking at half the screen)
+| ![if this was a popup form it would be easier to focus on where to look](../../assets/Popup01.jpg)(as a minimum you would be looking at half the screen)
 [[goodExample]]
 | ![the popup with the dimmed background is much more intuitive](../../assets/Popup02.jpg)
-
 For example, adding a webpart in SharePoint 2010 should use a popup form. [See our suggestion to Microsoft](http://www.ssw.com.au/ssw/standards/BetterSoftwareSuggestions/sharepoint.aspx#PopupForm).

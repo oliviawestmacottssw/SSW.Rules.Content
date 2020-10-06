@@ -17,6 +17,5 @@ Likewise in a contacts database where you have entries from all around the world
 
 A good example on that the checkbox on the search screen of TimePRO.NET.
 
-![ Default search tick box in TimePRO.NET](../../assets/DefaultSearch.gif)
-
+![Default search tick box in TimePRO.NET](../../assets/DefaultSearch.gif)
 Read our rule on     [Validation - Do you avoid capturing incorrect data?](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Controls.aspx#AvoidIncorrectData)

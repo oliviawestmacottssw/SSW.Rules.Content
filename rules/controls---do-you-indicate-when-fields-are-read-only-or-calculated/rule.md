@@ -8,13 +8,11 @@ authors: []
 ---
 
 When you are not able to edit a field the field should be greyed out. This visually indicates to the user that the field cannot be changed.
-   ​
+   
 If you are using Word or Excel, actually locking cells or tables may not be what you require, but you still want to prevent people from directly editing calculations. So make the cells grey and the visual indication should prompt the users what to do.
 
 [[goodExample]]
-| ![ Good Example - Read only fields should be greyed out](../../assets/GreyField.gif)
-
+| ![Read only fields should be greyed out](../../assets/GreyField.gif)
 [[goodExample]]
-| ![ Good Example - Calculated Fields in Excel should be in Grey](../../assets/GreyField-Excel.gif)
-
+| ![Calculated Fields in Excel should be in Grey](../../assets/GreyField-Excel.gif)
 Of course you should follow the converse, which requires making all editable fields white.

@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-Although we use Windows Domain authentication over LDAP, the domain domain is not required and the username must be in all lowercase. The url for SSW is [http://jira.ssw.com.au/](/Pages/HowdoIsignintoJira.aspx) <br>​​ 
+Although we use Windows Domain authentication over LDAP, the domain domain is not required and the username must be in all lowercase. The url for SSW is [http://jira.ssw.com.au/](/Pages/HowdoIsignintoJira.aspx) <br> 
 If you're outside the network you will need the VPN at the moment. We have a task to make it visible externally but we need more external IP addresses first.
 
 You can track progress on this at: [NET-48](/Pages/HowdoIsignintoJira.aspx)

@@ -11,9 +11,9 @@ authors:
 
 ---
 
-Given most companies sink a lot of money into marketing, it’s important to know if your strategy as outlined in your Marketing Plan is working for you.​
+Given most companies sink a lot of money into marketing, it’s important to know if your strategy as outlined in your Marketing Plan is working for you.
  
-​Firstly, you need to set realistic performance standards. What metrics are you going to use to measure your performance? You need to have these clearly documented in your marketing plan so that it is clear to the whole team how it will be measured and analyzed. This will dictate the way a campaign is created, its budget, and metrics.
+Firstly, you need to set realistic performance standards. What metrics are you going to use to measure your performance? You need to have these clearly documented in your marketing plan so that it is clear to the whole team how it will be measured and analyzed. This will dictate the way a campaign is created, its budget, and metrics.
 
 One simple way of tracking this, is to collate the performance data and analyze the results. For example, a goal might be to increase the engagement on your social media pages by 6% in 6 months, to ensure you’re on track you would need to see your audience growing by 1% every month.
 
@@ -30,5 +30,4 @@ A simple way of tracking this, is to have a spreadsheet that holds all of your d
 Unless you can answer “yes” to the questions above, you likely don’t need to be collecting the data — at least at first.   
 
 
-![ An example of a results tracking system for marketing data, it tracks the growth and what it cost to get it](results-tracking-system.png)
-!​
+![An example of a results tracking system for marketing data, it tracks the growth and what it cost to get it](results-tracking-system.png)!

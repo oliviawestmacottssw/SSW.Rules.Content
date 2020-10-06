@@ -40,7 +40,7 @@ else
 // do something #6
 }
 Figure: Bad example of coding practice
-​
+
 
 int DepartmentId = GetDepartmentId()
 switch(DepartmentId)
@@ -69,4 +69,4 @@ break;
 }
 Figure: Good example of coding practice which will result better performance 
 
-Further Reading: [Speed Test: Switch vs If-Else-If](http&#58;//www.blackwasp.co.uk/SpeedTestIfElseSwitch.aspx)​
+Further Reading: [Speed Test: Switch vs If-Else-If](http&#58;//www.blackwasp.co.uk/SpeedTestIfElseSwitch.aspx)

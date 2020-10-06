@@ -23,11 +23,9 @@ Basic rules to follow include:
 
 
 [[badExample]]
-| ![ Bad example – too much dead space, the characters are unevenly placed, there is an uninteresting background, it's side on and the framing is too far out ](video-fram-bad-example.jpg) 
-
+| ![too much dead space, the characters are unevenly placed, there is an uninteresting background, it's side on and the framing is too far out](video-fram-bad-example.jpg)
 [[goodExample]]
-| ![ Good example – rule of thirds followed, mid-shot, interesting background, no dead space, fairly face on, subject placed on right side because he's looking from right to left ](video-fram-good-example.jpg) 
-(leading room).When positioning your subjects it is important to remember several factors:
+| ![rule of thirds followed, mid-shot, interesting background, no dead space, fairly face on, subject placed on right side because he's looking from right to left](video-fram-good-example.jpg)(leading room).When positioning your subjects it is important to remember several factors:
 1. It is a good idea (if you want to have one of your subjects more face on) to have the interviewee more face on than the interviewer.
 2. The interviewer should be on the right side of the frame - you'll notice talk show hosts will always look right to left.
 3. The interviewer should avoid leaning in to the interviewee too much as it might make them feel uncomfortable and seem a little weird in the frame.
@@ -35,13 +33,10 @@ Basic rules to follow include:
 
 
 [[badExample]]
-| ![ Interviewee ](bad-interview-positions.jpg) 
-(left) is facing toward the interviewer (right) too much and the interviewer is faced towards the camera too much. 
+| ![Interviewee](bad-interview-positions.jpg)(left) is facing toward the interviewer (right) too much and the interviewer is faced towards the camera too much. 
 [[goodExample]]
-| ![position your subjects properly to create an unbiased interview. When doing an over the shoulder shot ](interview positions.jpg) 
-(OTS) for a corporate video, it is generally best to stay at a level height with the subject. Looking up or down at them can create unnecessary meaning in the shot. It is also a good idea to avoid using the wide angle setting on your camera as it makes the subject seem distant and small in comparison to the person whose shoulder we can see. 
+| ![position your subjects properly to create an unbiased interview. When doing an over the shoulder shot](interview positions.jpg)(OTS) for a corporate video, it is generally best to stay at a level height with the subject. Looking up or down at them can create unnecessary meaning in the shot. It is also a good idea to avoid using the wide angle setting on your camera as it makes the subject seem distant and small in comparison to the person whose shoulder we can see. 
 [[badExample]]
-| ![ Bad example – looking down at the subject with a wide angle lens setting. ](bad OTS example.jpg) 
-
+| ![looking down at the subject with a wide angle lens setting.](bad OTS example.jpg)
 [[goodExample]]
-| ![ Good example – level height, zoom level not set to wide angle.](Good OTS example.jpg)
+| ![level height, zoom level not set to wide angle.](Good OTS example.jpg)

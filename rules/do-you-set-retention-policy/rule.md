@@ -19,7 +19,7 @@ You should set up both.
 
 
 
-### Package Policy​
+### Package Policy
 
 
 
@@ -27,22 +27,22 @@ You should set up both.
 
 ![](2016-05-30_15-00-04.png)
 
-​Bad<br>Example - Retention policy is set to Keep forever​​
-​​
+Bad<br>Example - Retention policy is set to Keep forever
 
-​​
+
+
 ![](2016-05-30_15-00-29.png)
-​Good<br>Example - Retention policy is set to a number of days​
-​
+Good<br>Example - Retention policy is set to a number of days
+
 
 ### Lifecycle Policy
 
 
 
 ![](2016-05-30_15-01-55.png)
-Bad<br>Example - Lifecycle's retention policy is set to Keep all​
-​​
+Bad<br>Example - Lifecycle's retention policy is set to Keep all
+
 
 
 ![](2016-05-30_15-49-37.png)
-​Good<br>Example - Lifecycle's retention policy is set to 3 Releases
+Good<br>Example - Lifecycle's retention policy is set to 3 Releases

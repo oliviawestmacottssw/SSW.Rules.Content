@@ -16,4 +16,4 @@ How can you work out where your site is going wrong and why? One key way to trac
  
 At SSW we use HotJar to perform our heatmapping. This information then allows us to determine which areas of our site are performing efficiently, and areas we need to adjust for better performance.
 
-![](Picture3.png)​​​Figure: Heatmap from the SSW Consulting page​
+![Heatmap from the SSW Consulting page](Picture3.png)

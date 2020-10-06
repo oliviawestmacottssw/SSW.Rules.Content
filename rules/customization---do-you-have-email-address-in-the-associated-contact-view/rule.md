@@ -11,8 +11,6 @@ authors:
 
 In default view for Associated Contact you cannot see the email address, it would           be better to customize it as an extra column.
  
-![ Associated Contact View without the email address](ContactView_NoEmail.jpg)            
-
-![ Associated Contact View with the email address](ContactView_Email.jpg)            
-
+![Associated Contact View without the email address](ContactView_NoEmail.jpg)
+![Associated Contact View with the email address](ContactView_Email.jpg)
 It is easy to do this by import the [customisations xml files](http://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/CRM.aspx#Customizations).

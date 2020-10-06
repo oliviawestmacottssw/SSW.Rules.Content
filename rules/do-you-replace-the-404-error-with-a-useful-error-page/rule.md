@@ -11,14 +11,13 @@ authors:
 
 ---
 
-​​​​
 Error page, you say? You worked hard to make sure my site has no errors!! Well, surfers don't always type URLs accurately. No website is immune to such errors.
 
-A well-designed custom error page encourages surfers to remain in your site and help them to the right page. Although it's possible to redirect error codes straight to your homepage, that doesn't tell visitors what's going on. It's more user-friendly to explain that there was a problem and provide some alternatives. Supply a link to your home page or other links, or offer your site's search function if you have one. ​
-<br>​
+A well-designed custom error page encourages surfers to remain in your site and help them to the right page. Although it's possible to redirect error codes straight to your homepage, that doesn't tell visitors what's going on. It's more user-friendly to explain that there was a problem and provide some alternatives. Supply a link to your home page or other links, or offer your site's search function if you have one. 
+<br>
  
 
- Figure: This is the default code on​ web.config 
+ Figure: This is the default code on web.config 
 
 
 Figure: this is the current code in the web.config of the SSW Site  
@@ -29,11 +28,9 @@ This error information is useful for the developer to do debugging. However, it 
 
  Figure: Turning on "customErrors" protects sensitive information against Hacker   
 [[badExample]]
-| ![ Unhandled error ](404-bad.jpg) 
-
+| ![Unhandled error](404-bad.jpg)
 [[goodExample]]
-| ![Custom error page ](404-good.jpg) 
-
+| ![Custom error page](404-good.jpg)
 ### Related rule
 
 - [Do you avoid changing the URL on a 404 error?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0c5ba2ba-eb40-4b9e-afdc-c2bccd589b54)

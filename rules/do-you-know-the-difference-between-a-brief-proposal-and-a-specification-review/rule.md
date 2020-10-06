@@ -12,7 +12,7 @@ There is often a bit of confusion about what constitutes a brief proposal and wh
 
 [Brief proposal](/Pages/BriefProposalOrSpecificationReview.aspx) - free:
 
-- Information about your company​
+- Information about your company
 - A basic overview of what you'll do for them
 - The next steps
 

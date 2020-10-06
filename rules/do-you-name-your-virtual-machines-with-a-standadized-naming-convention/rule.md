@@ -10,8 +10,7 @@ authors:
 ---
 
 When your Hyper-V environment is spread across multiple hosts and contains many Virtual Servers, it can get very confusing to find the one you are looking for amongst them all. This is why you should use a standard naming convention for all your Virtual machines.<br> 
-![](naming-badexample.jpg)
-**Bad Example - How do you know what machine is what?**The standard we use for Production Virtual Machine naming is as follows:
+![Bad](naming-badexample.jpg)
 
 **    NetBIOSName-ServiceName
 
@@ -24,5 +23,4 @@ When your Hyper-V environment is spread across multiple hosts and contains many 
      For example: **DEV-demo2010a-SP2010MSInfoWorker-JL**
 
 
-![](naming-goodexample.jpg)
-Good Example - It is easy to tell which VM is which when they are named to a standard
+![Good](naming-goodexample.jpg)

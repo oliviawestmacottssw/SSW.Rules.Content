@@ -13,7 +13,7 @@ authors:
 
 ---
 
-​You can waste days evaluating IOC containers. The top ones are quite similar. There is not much in this, but the best ones are StructureMap and AutoFac. At SSW we use Autofac on most projects.
+You can waste days evaluating IOC containers. The top ones are quite similar. There is not much in this, but the best ones are StructureMap and AutoFac. At SSW we use Autofac on most projects.
 
 Other excellent DI containers are Ninject and Castle Winsdor. They have weaknesses, some are listed below.
  
@@ -32,24 +32,21 @@ The top tools all contain comparable functionality. In practice which one you us
 **Important:** Unless a specific shortfall is discovered with the container your team uses, you should continue to use the same container across all of your projects, become an expert with it and invest time on building features rather than learning new container implementations.
 
 [[badExample]]
-| ![ Bad Example - Ninject was a top container but is no longer developed as actively as Autofac and Structuremap. Both Autofac and Structuremap have active communities and contributors that ensure they stay up to date with the latest changes in .Net](dic-bad.png) 
-
+| ![Ninject was a top container but is no longer developed as actively as Autofac and Structuremap. Both Autofac and Structuremap have active communities and contributors that ensure they stay up to date with the latest changes in .Net](dic-bad.png)
  
 [[goodExample]]
-| ![ Good Example - Autofac has a great combination of performance and features and is actively developed ](dic-good.png) 
-
+| ![Autofac has a great combination of performance and features and is actively developed](dic-good.png)
 **Note:** Autofac's support for child lifetime containers may be  significant for some: 
 [http://nblumhardt.com/2011/01/an-autofac-lifetime-primer](http://nblumhardt.com/2011/01/an-autofac-lifetime-primer/)
 
 StructureMap does also support a kind of child container:
 http://codebetter.com/jeremymiller/2010/02/10/nested-containers-in-structuremap-2-6-1/
 
-​
+
 [[goodExample]]
-| ![ Good Example - the web / mvc integration package layer for Autofac is developed by the same core Autofac team. Some containers ](Autofac_web.png)
-(such as Structure Map) require third-party integration layers   
-​
-### Further Reading:​​
+| ![the web / mvc integration package layer for Autofac is developed by the same core Autofac team. Some containers](Autofac_web.png)(such as Structure Map) require third-party integration layers   
+
+### Further Reading:
 
 
 - [Do you use a dependency injection centric architecture?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0a5029a1-dd4f-46d7-9f22-8ab328e7c102)

@@ -9,9 +9,9 @@ authors:
 
 ---
 
-One of the best features of RayGun is the ability to track crash reports against deployments. This feature allows you to tell if a particular deployment has introduced a lot of new bugs or caused a regression of exceptions. ​
+One of the best features of RayGun is the ability to track crash reports against deployments. This feature allows you to tell if a particular deployment has introduced a lot of new bugs or caused a regression of exceptions. 
 
-To set it up:​
+To set it up:
  
 1. Under Deployments
 2. Select Octopus Deploy (Set up)
@@ -28,4 +28,4 @@ To set it up:​
 
  
 [[goodExample]]
-| ![ Good Example – Now you can measure the quality of your deployments](raygun-octopus-3.jpg)
+| ![Now you can measure the quality of your deployments](raygun-octopus-3.jpg)

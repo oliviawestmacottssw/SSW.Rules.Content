@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​Often you will receive rich information from your Product Owner (Customer) about tasks. That information can be in the form of Word documents, HTML Emails and Pictures, but you generally receive them in the context of an Email. This should be done by one person called the scribe.​
+Often you will receive rich information from your Product Owner (Customer) about tasks. That information can be in the form of Word documents, HTML Emails and Pictures, but you generally receive them in the context of an Email. This should be done by one person called the scribe.
 
 
 ### The Scribe will:
@@ -40,7 +40,7 @@ You should follow the existing     [<br>      Rules to Better Project Management
 When replying to an email with “done” you should follow:
 
 - [<br>         Do you update Team Companion template, so the email "subject" doesn't change?](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#KeepConsistentName)
-- [<br>         ​Do you update Team Companion template, so you can generate a proper "done" mail?](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#EmailTemplate)
+- [<br>         Do you update Team Companion template, so you can generate a proper "done" mail?](http&#58;//www.ssw.com.au/ssw/standards/rules/RulesToBetterProjectManagementWithTFS.aspx#EmailTemplate)
 
 
 Following these simple rules will help your Product Owner understand you better, and allow your team to more effectively collaborate with each other.

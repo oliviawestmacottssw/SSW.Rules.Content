@@ -9,9 +9,10 @@ authors:
 
 ---
 
-Generally, every client should have a dev and a test database, so the dev database needs to have the postfix "Dev" and the test database need to have the postfix "Test"(E.g. SSWCRMDev, SSWCRMTest). However, you don't need any postfix for the production database.​​​
+Generally, every client should have a dev and a test database, so the dev database needs to have the postfix "Dev" and the test database need to have the postfix "Test"(E.g. SSWCRMDev, SSWCRMTest). However, you don't need any postfix for the production database.
  
-![](BadDBName.gif)​Figure: Bad Example - Database with bad names
+[[badExample]]
+| ![Database with bad names](BadDBName.gif)
 
 [[goodExample]]
-| ![ Good Example - ​Database with standard names​](GoodDBName.gif)
+| ![Database with standard names](GoodDBName.gif)

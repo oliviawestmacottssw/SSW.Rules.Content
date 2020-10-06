@@ -9,7 +9,7 @@ authors:
 
 ---
 
-​​​The better you describe the problem you had, the more effective will be the solution. 
+The better you describe the problem you had, the more effective will be the solution. 
 Make sure you always explain and give as much details as you can of how you got an error or a bad experience.
 
 Where is TV.SSW on the navigation? 

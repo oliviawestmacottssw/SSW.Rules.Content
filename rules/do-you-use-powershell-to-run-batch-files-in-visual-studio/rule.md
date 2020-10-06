@@ -12,5 +12,5 @@ authors:
 ---
 
 Windows Command Processor (cmd.exe) cannot run batch files (.bat) in Visual Studio because it does not take the files as arguments. One way to run batch files in Visual Studio is to use PowerShell. <br> 
-![](BadBatch_small.jpg) Bad example - Using Windows Command Processor (cmd.exe) for running batch files. 
-![](goodbatch_small.jpg) Good example - Using PowerShell for running batch files
+![Bad](BadBatch_small.jpg)(cmd.exe) for running batch files. 
+![Good](goodbatch_small.jpg)

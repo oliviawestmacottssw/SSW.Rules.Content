@@ -12,8 +12,7 @@ If you have already done some test migrations on the new server there is no need
 1. Open the Team Foundation Server Admin Console
 2. Click Application Tier | Team Project Collections | Detach Team Project Collection
 
-![ Remove the old Team Project Collection from the server.](Detach Team Project Collection.png) 
-
+![Remove the old Team Project Collection from the server.](Detach Team Project Collection.png)
 3. Delete the Tfs\_\* databases except Tfs\_Configuration from SQL Server Management Studio
 4. Delete the Tfs\_Analysis database from SQL Server Analysis Server.
 5. Copy the TFS2010 backups to TFS2010 server (e.g. C:\TfsBackups)

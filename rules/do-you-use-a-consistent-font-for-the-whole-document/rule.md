@@ -11,4 +11,4 @@ authors:
 
 The use of many different fonts in the same document is unprofessional. At SSW, we use **Open Sans** as the standard font.
  
-​Also ensure that titles, subtitles and content are consistent. You can create this by using document styles.​​
+Also ensure that titles, subtitles and content are consistent. You can create this by using document styles.

@@ -20,4 +20,4 @@ public bool Enabled { get; set; }
 public bool IsInvoiceSent { get; set; }
 Good Example - Naming Convention for Boolean Property
 
-We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.​
+We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.

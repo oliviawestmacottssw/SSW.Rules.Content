@@ -18,10 +18,8 @@ We like to have debugging information in our application, so that we can view th
 ```
 
 **Figure: Code that should only run in Debug mode, we certainly don't want this in the release version.**
-![ Set "Generate Debugging Information" to True on the project properties page ](DebugConfiguration.gif) 
-(VS 2003).**
-![ Set "Debug Info" to "pdb-only" on the Advanced Build Settings page ](VS2005AdvancedBuildSettings.gif) 
-(VS 2005).**
+![Set "Generate Debugging Information" to True on the project properties page](DebugConfiguration.gif)(VS 2003).**
+![Set "Debug Info" to "pdb-only" on the Advanced Build Settings page](VS2005AdvancedBuildSettings.gif)(VS 2005).**
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) to check for this rule. |
 | --- |

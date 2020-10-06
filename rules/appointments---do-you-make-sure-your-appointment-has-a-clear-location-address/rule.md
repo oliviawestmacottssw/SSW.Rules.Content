@@ -15,16 +15,14 @@ authors:
 
 ---
 
-​​​​Make sure appointments have address details unless it's obvious for all attendees.
+Make sure appointments have address details unless it's obvious for all attendees.
  
 [[badExample]]
-| ![ Bad Example - Appointment field should have addresses in location when appropriate](appointment-location-bad-example.jpg) 
-
+| ![Appointment field should have addresses in location when appropriate](appointment-location-bad-example.jpg)
 
 [[goodExample]]
-| ![Address is clearly identified in the location field, meaning it can be mapped using applications on smartphones ](map example.png)
-
-If you are meeting at SSW Sydney, it is important to book the Chapel ​or another meeting room. You can do this by adding the room name to the Location field. If it is the SSW Chapel, it will then appear in the Chapel Bookings calendar and alert all necessary parties that you will be using the space.
+| ![Address is clearly identified in the location field, meaning it can be mapped using applications on smartphones](map example.png)
+If you are meeting at SSW Sydney, it is important to book the Chapel or another meeting room. You can do this by adding the room name to the Location field. If it is the SSW Chapel, it will then appear in the Chapel Bookings calendar and alert all necessary parties that you will be using the space.
 
 It's important to always add the address information in appointments when a third party is included. i.e.:
 
@@ -32,6 +30,6 @@ It's important to always add the address information in appointments when a thir
 - A meeting at the client location
 
 
-The exception is for internal meeting appointments:​
+The exception is for internal meeting appointments:
 
 I would invite Zune to work Saturday @ SSW (but not include the address)

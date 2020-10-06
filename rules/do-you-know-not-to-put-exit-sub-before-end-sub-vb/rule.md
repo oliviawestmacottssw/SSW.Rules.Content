@@ -9,18 +9,17 @@ authors:
 
 ---
 
-​Do not put "Exit Sub" statements before the "End Sub". The function will end on "End Sub". "Exit Sub" is serving no real purpose here.
+Do not put "Exit Sub" statements before the "End Sub". The function will end on "End Sub". "Exit Sub" is serving no real purpose here.
  
 Private Sub SomeSubroutine()
 'Your code here....
 Exit Sub ' Bad code - Writing Exit Sub before End Sub.
 End Sub
-Bad example​
+Bad example
 
 Private Sub SomeOtherSubroutine()
 'Your code here....
 End Sub
- Good example​
+ Good example
 
 We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#ExitSub) to check for this rule.
- ​

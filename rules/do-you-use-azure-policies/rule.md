@@ -27,4 +27,4 @@ Azure Policy allow for making of initiatives (group full of policies) that try t
 You can delve deep on it here: https://docs.microsoft.com/en-us/azure/governance/policy/overview
 
 [[goodExample]]
-| ![ Good Example - A fully compliant initiative in Azure Policy"](compliant-initiative-azure-policy.png)
+| ![A fully compliant initiative in Azure Policy"](compliant-initiative-azure-policy.png)

@@ -10,9 +10,9 @@ authors:
 ---
 
 If you store your URL references in the application settings, you can create integration tests to validate them.
- ​
-![](testURLSettings.gif)​Figure: URL for link stored in application settings
-**​Sample Code: How to test the URL**
+ 
+![URL for link stored in application settings](testURLSettings.gif)
+**Sample Code: How to test the URL**
 
 [Test]
  public void urlRulesToBetterInterfaces()
@@ -61,5 +61,3 @@ public class WebAccessTester
  return resp.StatusCode;
  }
  }
-
-​

@@ -20,9 +20,9 @@ index:
 - do-you-confirm-there-is-no-checked-out-data
 
 ---
-​Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see. ​
+Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see. 
 
-If you still need help, visit [SharePoint Server ​Consulting​](http&#58;//www.ssw.com.au/ssw/Consulting/SharePoint.aspx) and book in a consultant.
+If you still need help, visit [SharePoint Server Consulting](http&#58;//www.ssw.com.au/ssw/Consulting/SharePoint.aspx) and book in a consultant.
 
 Migrating from SharePoint 2007 to SharePoint 2010 can be a daunting task, but if you follow this guide you will be able to migrate with minimum problems.
 

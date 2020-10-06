@@ -16,12 +16,12 @@ Here is how you do it:
 
 1. Open Outlook and create a new Exchange account: <br>      
 
-![](mail1.png)Figure - Tick manually configure server settings
-2. ​Enter your server name and user name, but un-tick <br>      **Use Cached Exchange Mode**: ​ <br>      
-![](Mail3.png)Figure - Un-tick Use Cached Exchange Mode
+![Tick manually configure server settings](mail1.png)
+2. Enter your server name and user name, but un-tick <br>      **Use Cached Exchange Mode**:  <br>      
+![Un-tick Use Cached Exchange Mode](Mail3.png)
 3. Finish the setup and then open Outlook
 4. Configure your Send / Receive Groups: <br>      
-![](Email2.png)Figure - Click Send / Receive | Click Send / Receive Groups | Click Define Send / Receive Groups
+![Click Send / Receive | Click Send / Receive Groups | Click Define Send / Receive Groups](Email2.png)
 5. Now we can choose the parts of our mailbox we want to synced to our PC. The following options are recommended:
     - Untick <br>            **Receive Mail Items**
     - Tick <br>            **Download offline address book**
@@ -31,11 +31,11 @@ Here is how you do it:
     - and select <br>            **Download headers only**
 
 
-![](Email.png)Figure - Untick "Receive mail items" | Tick "Sent Items", "Contacts" and "Outbox" | Download only headers for "Sent Items"
+![Untick "Receive mail items" | Tick "Sent Items", "Contacts" and "Outbox" | Download only headers for "Sent Items"](Email.png)
 6. When back in the main Outlook window click <br>      **Send / Receive ****All****Folders **and this will sync your sent items and contacts which will now be available offline
 
 
 **Suggestion to the Microsoft Outlook Team:**
 
-- ​Give us a "Sync last x weeks" for each folder
-- Give us a "Work in Minimal Mode"​ that does the above
+- Give us a "Sync last x weeks" for each folder
+- Give us a "Work in Minimal Mode" that does the above

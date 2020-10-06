@@ -12,8 +12,8 @@ authors:
 ---
 
 Instead of images sitting all around the solution, we put all the images in the same folder. <br> 
-![](../../assets/ImageLinkBad.gif) Bad example - Images under Product root folder. 
-![](../../assets/ImageLinkGood.gif) Good example - Images under \Images folder. 
+![Bad](../../assets/ImageLinkBad.gif)
+![Good](../../assets/ImageLinkGood.gif)
 
 
 

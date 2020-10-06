@@ -9,18 +9,18 @@ authors:
 
 ---
 
-​​​​There are many good reasons why it's better to work in pairs. <br>
+There are many good reasons why it's better to work in pairs. <br>
  
-![](ProjectManagement_PairProgramming_Luge.jpg)​Figure: Do you always try to work in pairs?
+![Do you always try to work in pairs?](ProjectManagement_PairProgramming_Luge.jpg)
 
 For everyone:
 
 - Less time stuck on a problem - you have someone familiar with the project to help you work through the problem
 - You can keep each other motivated  and you absorb knowledge from each other
-- Experience shows that <br>      **people** are more productive. As per​ <br>      Strengthening the Case for Pair-Programming
+- Experience shows that <br>      **people** are more productive. As per <br>      Strengthening the Case for Pair-Programming
 
 
-Extra for d​evelopers:
+Extra for developers:
 
 - Your code will have less strange workarounds - because if something doesn't add up to a developer, he has someone to ask
 - Cleaner code - because you know someone else is going to be looking at your code
@@ -29,7 +29,7 @@ Extra for d​evelopers:
 
 *"I have found developers work better in pairs. I am not a fan of the classical pair programming - which is 2 developers working on the 1 PC. There are times for that especially during brainstorming activities, however on a day-to-day basis, I advise that developers work in pairs, but they each have their own PC."*
 
-**- Adam Cogan​**
+**- Adam Cogan**
 SSW Chief Architect + Microsoft Regional Director
 
 
@@ -37,11 +37,9 @@ SSW Chief Architect + Microsoft Regional Director
 If you are not sitting next to a person working on the same project, then fix it. If you cannot then at least mention it to your manager.
 
 [[badExample]]
-| ![ This is normal ‘pair programming’, two people working at one PC](PairProgramming01.jpg)
-
+| ![This is normal ‘pair programming’, two people working at one PC](PairProgramming01.jpg)
 [[goodExample]]
 | ![This is ‘working in pairs’, two guys working on the same project, with their own laptops, but sitting very close to each other](PairProgramming02_Small.jpg)
-
 ###  Is there an overhead?
 
 Some projects are done quicker with two people - especially when they are complex. But on most projects there is an overhead, because of the extra communication between the developers - you now have to please someone else - not just yourself.
@@ -66,7 +64,7 @@ If you are working with someone remote, you will be using an application like   
 
 - VS Code - [Install extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - Visual Studio 2019 Beta - Built-in
-- Visual Studio 2017 - <br>            [Install extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)​
+- Visual Studio 2017 - <br>            [Install extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)
 
 
-Please complete this survey [on Working in Pairs](https://forms.office.com/Pages/ResponsePage.aspx?id=NHwvrDW56Uir3BHl1PyysCa8TOGbvXxGkJLSg13sAKhUMjdMN0g2MEZHNjZJU1NVNVBOTzY1TjJXRyQlQCN0PWcu).​
+Please complete this survey [on Working in Pairs](https://forms.office.com/Pages/ResponsePage.aspx?id=NHwvrDW56Uir3BHl1PyysCa8TOGbvXxGkJLSg13sAKhUMjdMN0g2MEZHNjZJU1NVNVBOTzY1TjJXRyQlQCN0PWcu).

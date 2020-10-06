@@ -9,15 +9,15 @@ authors:
 
 ---
 
-​​​You don't want this error:
+You don't want this error:
 
 "120\_ClientInvoice\_ClientIDRequired.sql...Column 'dbo.Client.ClientID' is not of same collation as referencing column 'ClientInvoice.ClientID' in foreig..."
-When you write a stored proc - it must work regardless of the users collation. When you are joining to a temp table - meaning you are joining 2 different databases (eg. Northwind and TempDB) they won't​ always have the same collation.​
+When you write a stored proc - it must work regardless of the users collation. When you are joining to a temp table - meaning you are joining 2 different databases (eg. Northwind and TempDB) they won't always have the same collation.
 
 
-The reality is that you can't tell a user what collation to run their TempDB - we can only specify the collation Northwind should be (we don't even want to specify that - we want that to be their default (as per their server))​​.
+The reality is that you can't tell a user what collation to run their TempDB - we can only specify the collation Northwind should be (we don't even want to specify that - we want that to be their default (as per their server)).
  
-​Here is what you need to do:​​​
+Here is what you need to do:
 
 SELECT
  #ClientSummary.ClientID,

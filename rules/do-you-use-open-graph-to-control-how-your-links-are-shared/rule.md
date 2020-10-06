@@ -18,11 +18,9 @@ It should be placed on the  section of your page. The most used properties are:
 
  
 [[badExample]]
-| ![ Shared link has no image and the title was "guessed" by LinkedIn ](open-graph-bad.jpg) 
-
+| ![Shared link has no image and the title was "guessed" by LinkedIn](open-graph-bad.jpg)
 [[goodExample]]
-| ![Shared link has a nice image and title, both defined via​ Open Graph tags ](opengraph-good.jpg) 
-
+| ![Shared link has a nice image and title, both defined via Open Graph tags](opengraph-good.jpg)
 
 **Note: **For LinkedIn you might need to add the prefix as following:
 

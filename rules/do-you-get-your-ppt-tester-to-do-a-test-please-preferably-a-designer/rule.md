@@ -12,4 +12,4 @@ Image is everything. Improve the way you market, educate and promote yourself wi
 
 [Do you conduct a "test please" internally and then with the client?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d66a9404-2ca9-4d19-ad6c-df1618b4fc28)
 
-![ Before and after... Designers can make anything look good ](before_after.jpg)
+![Before and after... Designers can make anything look good](before_after.jpg)

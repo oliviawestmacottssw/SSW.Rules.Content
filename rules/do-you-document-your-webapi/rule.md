@@ -9,10 +9,10 @@ authors:
 
 ---
 
-Documenting your WebAPI is important but you don't want to spend a massive amount of time trying to keep documentation up to date. The solution ​is to use [Swagger](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md)and [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle)​
+Documenting your WebAPI is important but you don't want to spend a massive amount of time trying to keep documentation up to date. The solution is to use [Swagger](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md)and [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle)
  
-​​​​​Implementing Swashbuckle with give you an automatic UI to explore and test your WebAPI methods.
+Implementing Swashbuckle with give you an automatic UI to explore and test your WebAPI methods.
 
 
 ![](swagger.png)
-​Swagger gives you a nice UI automatically generated on top of your WebAPI methods
+Swagger gives you a nice UI automatically generated on top of your WebAPI methods
