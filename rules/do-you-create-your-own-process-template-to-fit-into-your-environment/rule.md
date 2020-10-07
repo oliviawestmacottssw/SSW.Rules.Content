@@ -18,5 +18,5 @@ The built-in Process Templates in TFS will not always fit into your environment,
 ![Good - "Additional Task" was added to track scope creep](SSWAgile-Additional.jpg)
 ![Good - The "URL" field has been added to allow reverse view from the web page](SSWAgile-URL.jpg)
 ![Good - Rich text has been enabled in the "Description" field to allow users to enter better text for the requirement](SSWAgile-RichText.jpg)
- Note: the URL field is used in the  <br>[SSW Smashing Barrier](http://sharepoint.ssw.com.au/Products/TFSSmashingBarrier/Default.aspx)product
+ Note: the URL field is used in the  [SSW Smashing Barrier](http://sharepoint.ssw.com.au/Products/TFSSmashingBarrier/Default.aspx)product
 If you want help customizing your own Process Template, call a TFS guru at SSW on +61 2 9953 3000.

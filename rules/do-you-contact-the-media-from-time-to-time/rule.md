@@ -15,9 +15,7 @@ When you find a media contact you think is appropriate to contact, add them to C
 
 Then send an email like this:
 
-[[greyBox]]
-| :::
-<br>   
+[greyBox] <br>   
 Hi XXX,
 
 My name is Adam Cogan and I just checked out your site www.theirsite.com
@@ -28,5 +26,4 @@ More than happy to give you a free copy and more information. Please reply to th
 
 Thanks, Adam Cogan
  http://www.ssw.com.au
-
-:::
+ [/greyBox]

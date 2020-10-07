@@ -52,7 +52,7 @@ A standard computer keyboard can produce dozens of different symbols. Some of th
 | --- | --- |
 | [<br> | Left bracket<br> |
 | --- | --- |
-| ]<br> | Right bracket <br> |
+| ] | Right bracket <br> |
 | --- | --- |
 | { (Shift + [)<br> | Left brace |
 | --- | --- |

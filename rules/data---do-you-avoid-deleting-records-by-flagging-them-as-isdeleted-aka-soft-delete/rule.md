@@ -25,13 +25,10 @@ Disadvantages
 
 Also see [Using Audit Tools](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ef105dbd-7c49-4c2b-8e96-b78ac507d5e6) for alternatives to this approach using 3rd party auditing tools.
 
-[[greyBox]]
-| :::
-
+[greyBox] 
 Watch William Liebenberg's SpendOps talk for more details about why soft deletes are advantageous in Azure:
 
 - SSW TV video: <br>         [Real-life SpendOps with Azure Cosmos DB](https&#58;//www.youtube.com/watch?v=qfPQR8XlwFo)
 - NDC video: <br>         [Azure SpendOps – The Art of Effectively Managing Azure Costs](https&#58;//www.youtube.com/watch?v=zxSlKiWOOzw)
 
-
-:::
+ [/greyBox]

@@ -30,20 +30,15 @@ Also, make sure your descriptions are detailed and useful as that can make findi
 
 Make sure you always explain and give as many details as you can of how you got an error or a bad experience.
 
-[[greyBox]]
-| :::
-
+[greyBox] 
 Hi, Rebecca, 
 
 Where is SSW TV on the navigation?
 
 - Adam
-
-:::
+ [/greyBox]
 Figure: Bad example - Lack of details
-[[greyBox]]
-| :::
-
+[greyBox] 
 Hi, Rebecca,
 
 1. Navigated to ssw.com.au
@@ -68,8 +63,7 @@ Me, thinking... "Ctrl+F for TV? Nope."
 
 
 - Adam
-
-:::
+ [/greyBox]
 Figure: Good example - We can easily identify more the one way to improve the UX
 Better than a good description of the bug is a screen recording. This should be followed for a more detailed report. Use [Snagit](http://www.techsmith.com/snagit.html) or [Camtasia](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=84dca81b-9cc2-4b6a-a237-948304131b54) to record your screen.
 

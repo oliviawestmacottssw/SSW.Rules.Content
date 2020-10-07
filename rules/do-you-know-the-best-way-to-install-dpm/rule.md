@@ -22,9 +22,7 @@ It might make sense in your environment to install a DPM Server inside a Virtual
 
 Further to this, it is also recommend that you use iSCSI or Pass-Through disks if you are going to be using DPM inside a Virtual Machine. Using VHD’s in the storage pool is going to give you poor performance.
 
-[[greyBox]]
-| :::
-<br>   
+[greyBox] <br>   
 **WARNING:** Although Microsoft recommend running the latest OS (being Windows Server 2019 and DPM 2019). SSW recommends Windows Server 2012 R2 with DPM 2019.
 
 The reason for this is currently there are some known issues with the use of ReFS files structure in current versions of DPM (2016/2019). When installed on Windows Server 2016 and 2019 ReFS is used as default and there is no option given to use another file structure. The issues are causing backups to take exceptionally long times and in a lot of cases failing. E.g:
@@ -36,5 +34,4 @@ The reason for this is currently there are some known issues with the use of ReF
 Microsoft have released many updates to fix ReFS but people are still seeing issues, so it is recommended until this is resolved to continue operating DPM on Windows Server 2012 R2 as it allows you to continue using NTFS which is working without issues.
 
 Related link: [https://social.technet.microsoft.com/Forums/en-US/7e4e4da4-1168-46cd-900f-9ca2bc364d5a/dpm-2016-mbs-performance-downward-spiral](https&#58;//social.technet.microsoft.com/Forums/en-US/7e4e4da4-1168-46cd-900f-9ca2bc364d5a/dpm-2016-mbs-performance-downward-spiral)
-
-:::
+ [/greyBox]
