@@ -26,8 +26,7 @@ At SSW we create standards for all manner of processes: from coding practices to
 
 The following story illustrates these values:
 
-[[greyBox]]
-| ```
+<greybox>
 **The Barber** (excerpt from "The E Myth" page 105)
 
 I went to a barber who, in our first meeting, gave me one of the best haircuts I had ever had. He was a master with the scissors and used them exclusively, never resorting to electric shears as so many others do. Before cutting my hair, he insisted on washing it, explaining that the washing made cutting easier. During the haircut, one of his assistants kept my cup of coffee fresh. In all, the experience was delightful, so I made an appointment to return.
@@ -57,7 +56,7 @@ I would have been embarrassed to ask for these things, let alone to give my reas
 What the barber did was to give me a delightful experience and then take it away.
 
 What you do in your model is not nearly as important as doing what you do the same way, each and every time.
-```
+</greybox>
 
  Figure: The Barber gave an inconsistent experience. Excerpt from "The E Myth" page 10 
 
