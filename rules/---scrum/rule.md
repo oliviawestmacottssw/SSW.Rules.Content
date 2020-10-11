@@ -40,11 +40,13 @@ authors:
 
   
 
+[greyBox] 
  **牢记：**
       “只要能遵循Scrum价值，改变Scrum是可以的，实际上为了成功，这也是有必要的。”
 
 -Stephen Forte
 
+ [/greyBox]
 
 
 

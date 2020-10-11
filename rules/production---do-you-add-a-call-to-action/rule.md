@@ -26,10 +26,10 @@ A good 'call to action' should:
 6. If you are using YouTube or another service that provides the option to have annotations, use annotations that prompt the viewer to comment or subscribe. A 'subscribe' link in the annotation gets more subscribers
 
 
-Thanks Guys, have a good one!
+[greyBox] Thanks Guys, have a good one! [/greyBox]
 Figure: Bad example – no call to action
 
-Please leave a comment, and go to our website, Facebook, YouTube, Twitter and LinkedIn. Also please sign up for our newsletter. 
+[greyBox] Please leave a comment, and go to our website, Facebook, YouTube, Twitter and LinkedIn. Also please sign up for our newsletter.  [/greyBox]
 Figure: Bad example - too many options breeds choice paralysis
 
 

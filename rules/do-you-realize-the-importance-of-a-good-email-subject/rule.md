@@ -72,13 +72,13 @@ Other words to be used are:
 - Client Name
 
 
-
+[greyBox] 
 **Remember:**
 
 For external emails, it is acceptable to [change the email subject](/Pages/WhenToChangeEmailSubject.aspx "When to Change an Email Subject") in certain circumstances.
 
 For internal emails, the subject line should generally not be changed as it will break the threading of emails.
-
+ [/greyBox]
 
 
 ## Related Links

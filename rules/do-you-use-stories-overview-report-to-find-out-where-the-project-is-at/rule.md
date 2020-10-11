@@ -24,7 +24,7 @@ Suggestion for Microsoft #1: Add a Summary Number in large font at the top, eg. 
 
 Suggestion for Microsoft #2: Add this great report to the Microsoft Scrum TFS Process Template.
 
-
+[greyBox] <br>
 ## Where are we at?
 
 TFS’s Stories Overview Report is the best tool to solve the common question project managers ask the developers “Where are we at?”
@@ -32,6 +32,6 @@ TFS’s Stories Overview Report is the best tool to solve the common question pr
 The problem with the answer is that developers almost always say 90%
 
 [@AdamCogan](http://twitter.com/adamcogan)
-
+<br> [/greyBox]
 
 Need to know $$$, read [Do you get regular updates on costs and progress (aka Project Progress, Burndown, Story Overview)?](/watch-do-you-get-regular-updates-on-costs-and-progress-%28aka-project-progress-burndown-etc-%29) to see which reports you need to get a complete project progress overview.

@@ -82,7 +82,7 @@ Example of Level 6: PowerShell Documentation
 
 **Recommendation:**  You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
 
-PS C:\Code\Northwind> **.\Setup-Environment.ps1** 
+[greyBox] PS C:\Code\Northwind> **.\Setup-Environment.ps1** 
 
 Problem: Azure environment variable run state directory is not configured (\_CSRUN\_STATE\_DIRECTORY).
  
@@ -91,10 +91,10 @@ Problem: Azure Storage Service is not running. Launch the development fabric by 
 WARNING: Abandoning remainder of script due to critical failures.
  
 To try and automatically resolve the problems found, re-run the script with a -Fix flag.
-
+ [/greyBox]
 Figure: Good example - you see the problems in the devs environment
 
-
+[greyBox] <br>      
 PS C:\Code\Northwind> .\Setup-Environment.ps1 -fix
 
 Problem: Azure environment variable run state directory is not configured (\_CSRUN\_STATE\_DIRECTORY).
@@ -106,10 +106,10 @@ Problem: Azure Storage Service is not running. Launch the development fabric by 
 WARNING: No automated fix availab le for 'Azure Storage Service is running'
  
 WARNING: Abandoning remainder of script due to critical failures.
-
+ [/greyBox]
 Figure: Good example - when running with -fix this script tries to automatically fix the problem <br>      
 
-
+[greyBox] <br>      
 
 PS C:\Code\Northwind> .\Setup-Environment.ps1 -fix
 
@@ -119,7 +119,7 @@ WARNING: No automated fix available for 'Azure Storage Service is running'
 WARNING: Abandoning remainder of script due to critical failures.
 
 
-
+ [/greyBox]
 Figure: Good example -  Note that on the 2nd run, issues resolved by the 1st run are not re-reported <br>      
 
 

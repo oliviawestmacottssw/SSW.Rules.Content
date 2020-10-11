@@ -22,13 +22,13 @@ The reason we did this on TFS 2010 was is because the cube took some time to reb
 
 
 
-In Scrum, there are 4 meetings in total that you need to know about:
+[greyBox] In Scrum, there are 4 meetings in total that you need to know about:
 - [Sprint Planning Meeting](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
 - Scrum Meeting (Daily standup - described on this page)
 - [Sprint Review Meeting](/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
 - [Sprint Retrospective Meeting](/Pages/RetrospectiveMeeting.aspx "Sprint Retrospective Meeting")
 
-
+ [/greyBox]
 
 ### Related Videos
 

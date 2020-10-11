@@ -32,7 +32,7 @@ Doing this will ensure:
 - The receiver knows who else agrees with the content
 
 
-
+[greyBox] 
 Dear Adam,
 
 (Checked by Peter)
@@ -40,7 +40,7 @@ Dear Adam,
 [email content]
 
 Regards, Phil
-
+ [/greyBox]
 Figure: Use 'Checked by xxx' when sending a complicated email to a group of people
 
 ![Consider this the '4 eye check'](four-eyes.jpg)([four eye principle](https://www.collinsdictionary.com/dictionary/english/four-eyes-principle))
