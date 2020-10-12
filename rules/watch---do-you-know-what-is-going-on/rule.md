@@ -20,4 +20,4 @@ So you should insist that your software consultants [maintain verbal contact](/m
 
 They should then use “as per our conversation” follow up emails.
 
-**Tip:**  A nice way to know what is going on is going on is to turn up to the daily scrum.
+**Tip:** A nice way to know what is going on is going on is to turn up to the daily scrum.

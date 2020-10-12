@@ -26,7 +26,7 @@ There are two ways to do this:1. If you haven’t checked in any files since you
 ![The last revision before Tristan made changes was 5367](rollback2.gif)
     - Open the Command Prompt in your current working directory and type  **“c:\Program Files\Microsoft Team Foundation Server Power Tools\tfpt.exe” rollback /changeset:5367** 
 ![](rollback3.gif)
-    - Click  **Yes**  and the rollback will proceed
+    - Click  **Yes** and the rollback will proceed
 
 
 It would be nice if there was a GUI for this tool so that I can just right click and select rollback. See [Better Software Suggestion – TFS](http://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/TeamFoundationServer.aspx#RollbackGUI)

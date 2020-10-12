@@ -42,7 +42,7 @@ If the call is regarding  **consulting**  these are the kinds of questions we 
 
 
 
-If the call is regarding  **events**  these are the kinds of questions we ask:
+If the call is regarding  **events** these are the kinds of questions we ask:
 
 1. Which event are you interested in? The User Group, Tech Breakfast or Conference?
 2. Would you like me to register your attendance for the event?

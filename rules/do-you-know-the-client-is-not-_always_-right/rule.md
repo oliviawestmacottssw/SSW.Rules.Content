@@ -15,7 +15,7 @@ Clients come to us because of our experience and expertise as software consultan
 2. Knowing how to persuade the client that your way is the best way (and knowing when you have failed)
 
 
-**Knowing when you know best**
+**Knowing when you know best** 
 
  The expertise of a software consultant is likely to be in the technology underlying your clients business, not in their business model. If they're willing to pay for external consultants its highly likely their business model has been successful to date and it's wise that you leave that to them.
 

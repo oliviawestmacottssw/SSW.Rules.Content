@@ -21,7 +21,7 @@ Here are the best collection of resources for Angular.
 
 
 - **[The official documentation - Angular.io](https://angular.io/)**
-- **NDC Sydney****- Angular War Stories**  - http://bit.ly/ndc-sydney-ng2-war-stories
+- **NDC Sydney** **- Angular War Stories** - http://bit.ly/ndc-sydney-ng2-war-stories
 - **SSW TV** - http://tv.ssw.com/?s=angular
 
 
@@ -47,4 +47,4 @@ Here are the best collection of resources for Angular.
 
 
 - **[Angular Hack Day](https://angularhackday.com/)**
-- **Your local JavaScript or Angular User Group** -   https://www.meetup.com/
+- **Your local JavaScript or Angular User Group**  -   https://www.meetup.com/

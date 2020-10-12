@@ -41,6 +41,6 @@ Although Visual Studio can be used to create the project, we still recommend Vis
 ![A simple example WebAPI](simple-example-webapi.jpg)
 ![An Angular UI with Twitter Bootstrap styling](angular-ui-with-bootstrap.jpg)
 ![Server-side configuration in Startup.cs allowing the Angular UI to be hosted from under the single ASP.NET Core website](angular-server-side-config.png)
-This Angular app uses the Angular CLI and is fully compatible with any other Angular CLI app. If you want to create a new app from scratch, simply delete the contents of the  **ClientApp**  folder and run  **ng new.**
+This Angular app uses the Angular CLI and is fully compatible with any other Angular CLI app. If you want to create a new app from scratch, simply delete the contents of the  **ClientApp** folder and run  **ng new.**
 
 So you get the benefits of easy client-server integration without having to compromise any Angular client-side features or Angular CLI tooling.

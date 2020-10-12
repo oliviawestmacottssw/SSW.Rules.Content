@@ -50,35 +50,35 @@ Under advanced for the Command Line tasks, the Working Directory can be specifie
 
 TsLint
  **Npm** - Install tslint and typescript
- **Name:**  npm install tslint
- **Working Folder:**
- **Npm Command:**  install
+ **Name:** npm install tslint
+ **Working Folder:** 
+ **Npm Command:** install
  **Arguments:** -g tslint typescript
 
- **Command Line**  - Check the version (Useful to determine rule discrepancies across builds)
+ **Command Line** - Check the version (Useful to determine rule discrepancies across builds)
  **Name:** Check tslint version
  **Tool:** tslint
- **Arguments:**  -v
+ **Arguments:** -v
 
- **Command Line**  - Builds a default configuration file for the build (Without it issues can differ between build and development environment
+ **Command Line** - Builds a default configuration file for the build (Without it issues can differ between build and development environment
  **Name:** Create tslint config file
  **Tool:** tslint
- **Arguments:**  --init
+ **Arguments:** --init
 
  **Command Line** - Run tslint, force is required to stop the build from crashing (TSLint will return and exit code of 1 regardless of if issues exist)
- **Name:**  Run tslint
+ **Name:** Run tslint
  **Tool:** TSLint
- **Arguments:**  --force /\*\*/\*.ts{,x}
+ **Arguments:** --force /\*\*/\*.ts{,x}
 
 If your build is being hosted, then the config file must be reloaded every time. If your build is running on premises, the config file will attempt to load over the existing one and break the build.
 If this is the case, just add a step to delete your config file after the scan is complete.
 
 ![Command line step to remove the config file](VSO-RemoveConfig.png)(tslint.json) after the linter has run
 
-**Command Line**  - Remove the tslint config file, as it will break future scan if the build is on premises if a config file already exists and an attempt to add another one is made.
+**Command Line** - Remove the tslint config file, as it will break future scan if the build is on premises if a config file already exists and an attempt to add another one is made.
  **Name:** Remove tslint config
  **Tool:** del
- **Arguments:**  tslint.json
+ **Arguments:** tslint.json
 
 Once complete, save the build definition and run the build.
 Then check the build is successful.

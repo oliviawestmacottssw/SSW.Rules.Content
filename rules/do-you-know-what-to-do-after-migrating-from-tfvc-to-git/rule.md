@@ -47,7 +47,7 @@ In the TFVC repository, click Security
 
 ![Configure the security of the TFVC repository](2017-04-05_10-43-51.png)
 
-Then deny check-ins to  **Contributors** , P **roject Administrators**  and  **Project Collection Administrators** . This should stop anyone from committing new code to the repository.
+Then deny check-ins to  **Contributors** , P **roject Administrators** and  **Project Collection Administrators** . This should stop anyone from committing new code to the repository.
 
 ### Update the Dashboard
 

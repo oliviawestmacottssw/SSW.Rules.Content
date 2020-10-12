@@ -9,7 +9,7 @@ authors:
 
 ---
 
-CRM provides the  **Audit History**  page to show the changes made to a CRM entity, You can use this page for auditing purposes. 
+CRM provides the  **Audit History** page to show the changes made to a CRM entity, You can use this page for auditing purposes. 
  
 When you are browsing an entity, from the menu you will see an Audit History option when you have the permission.
 

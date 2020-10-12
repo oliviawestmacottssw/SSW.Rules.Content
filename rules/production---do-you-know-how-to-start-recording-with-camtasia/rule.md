@@ -31,7 +31,7 @@ Follow these steps to start recording using Camtasia:<br>
 
 
 [greyBox]
-      **Tip:**  Alternatively, you can use [Loom](https://www.useloom.com/), which works as a Google Chrome extension. 
+      **Tip:** Alternatively, you can use [Loom](https://www.useloom.com/), which works as a Google Chrome extension. 
  
 [/greyBox]
 

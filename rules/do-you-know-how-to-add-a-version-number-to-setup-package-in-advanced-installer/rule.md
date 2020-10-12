@@ -16,7 +16,7 @@ Developers should add a version number at the end of the out package. E.g. SSWCo
 Here is how you do it in Advanced Installer:
  
 1. In the navigation pane look for <br>       **Media**
-2. Choose <br>       **Configuration**  tab and click in <br>       **MSI name**  text box which is located under <br>       **Output**  section
+2. Choose <br>       **Configuration** tab and click in <br>       **MSI name** text box which is located under <br>       **Output** section
 3. Next to the text add <br>      [|ProductVersion]. If the text-box is empty you may want to start it with <br>      [|ProductName]
 
 

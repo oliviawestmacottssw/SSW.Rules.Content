@@ -17,7 +17,7 @@ For everyone:
 
 - Less time stuck on a problem - you have someone familiar with the project to help you work through the problem
 - You can keep each other motivated  and you absorb knowledge from each other
-- Experience shows that <br>       **people**  are more productive. As per <br>      Strengthening the Case for Pair-Programming
+- Experience shows that <br>       **people** are more productive. As per <br>      Strengthening the Case for Pair-Programming
 
 
 Extra for developers:

@@ -36,7 +36,7 @@ We will go through the process of using Sony Content Management Utility software
 ![](Step 6.png)
 7. After the import is complete, navigate to the folder using Explorer. Check each of your videos to make sure they play. You want to check for any corrupted videos or videos containing artefacts. Skip through the video so you can thoroughly check its content for issues. Tip: Use VLC media player as your default player for .mts and .mt2s files. (http://www.videolan.org/vlc/index.html)
 8. After you have checked all the videos, delete the clips from the camera directly (you cannot delete them via the software).
- **Tip:**  Only do this if you are sure the transferred videos contain no issues.
+ **Tip:** Only do this if you are sure the transferred videos contain no issues.
 9. Move the footage from the Capture\_Dump folder to their relevant project folders located on your hard drive.
 
 

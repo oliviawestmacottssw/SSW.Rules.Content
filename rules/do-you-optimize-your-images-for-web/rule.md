@@ -18,8 +18,8 @@ The first thing is to [save your graphics in the right format](/_layouts/15/FIXU
 Some tips and techniques to keep in mind as you work on optimizing your images:
 
 - **Don't be afraid to dial down the "quality" settings**  if the results are very good and byte savings are significant
-- **Remove unnecessary image metadata**  like geo information, camera information, and so on.
-- **Use****automated tools**  to ensure that all of your images are always optimized. E.g.: [http://optimizilla.com](http://optimizilla.com/)
+- **Remove unnecessary image metadata** like geo information, camera information, and so on.
+- **Use** **automated tools** to ensure that all of your images are always optimized. E.g.: [http://optimizilla.com](http://optimizilla.com/)
 
  
 ![Optimizilla reduced the image below in 31%](optimizeexample.png)

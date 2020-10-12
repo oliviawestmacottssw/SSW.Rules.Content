@@ -11,7 +11,7 @@ authors:
 
 This standard outlines the standard on naming Stored Procedures within SQL Server. Use these standards when creating new Stored Procedures or if you find an older Stored Procedure that doesn't follow these standards within SSW.
  
-**Note:**  Stored Procedures will run fractionally slower if they start with a prefix of sp\_   This is because SQL Server will look for a system stored proc first. Therefore we never recommend starting stored procs with a prefix of sp\_
+**Note:** Stored Procedures will run fractionally slower if they start with a prefix of sp\_   This is because SQL Server will look for a system stored proc first. Therefore we never recommend starting stored procs with a prefix of sp\_
 Do you agree with them all? Are we missing some? Let us know what you think.
 
 ### Syntax

@@ -15,7 +15,7 @@ In numbers of more than 3 digits, always use commas. This makes reading much eas
 [[badExample]]
 | ![No commas make it harder to read](numbers-bad-example.png)
 [[goodExample]]
-| ![Commas make it easier to read Note:  Numbers which normally do not take commas are:](numbers-good-example.png)
+| ![Commas make it easier to read Note: Numbers which normally do not take commas are:](numbers-good-example.png)
 
 
 - ZIP codes
@@ -25,5 +25,5 @@ In numbers of more than 3 digits, always use commas. This makes reading much eas
 - Dates of years
 
 
-**Note 2:**  Different countries use a periods in place of comma and vice-versa. 
+**Note 2:** Different countries use a periods in place of comma and vice-versa. 
 E.g. In United States and Australia: **2,367.48 francs**  / In France: **2.367,48 francs** .

@@ -15,11 +15,11 @@ It is very important to have your Word, PowerPoint, PDFs and other documents up-
 
 Please read to understand how you increase the version number:
  
-Major  **1.0**  - rarely change - only with major upgrades (e.g. complete redesign)
+Major  **1.0** - rarely change - only with major upgrades (e.g. complete redesign)
 
-Minor  **1.1**  - new features / release (customer facing) - (e.g. add/remove a heading or a section)
+Minor  **1.1** - new features / release (customer facing) - (e.g. add/remove a heading or a section)
 
-Revision  **1.11**  - emergency maintenance, spelling fixes
+Revision  **1.11** - emergency maintenance, spelling fixes
 
 
 

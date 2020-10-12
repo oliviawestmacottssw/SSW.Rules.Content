@@ -19,4 +19,4 @@ If you don't have licenses for images, you should replace them with [Creative 
 - [www.pixabay.com](http&#58;//www.pixabay.com/)
 
 
-**SSW Only**  - See [Designers Intranet](https&#58;//intranet.ssw.com.au/designers/Pages/default.aspx) for Stock Photos details.
+**SSW Only** - See [Designers Intranet](https&#58;//intranet.ssw.com.au/designers/Pages/default.aspx) for Stock Photos details.

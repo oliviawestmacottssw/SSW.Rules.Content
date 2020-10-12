@@ -28,9 +28,9 @@ The format of the image must be one of PNG (a W3C standard), GIF, or ICO. You ca
 
 
 Page Title
-**Figure: One line of HTML lets you add your company's icon to your web page**
+**Figure: One line of HTML lets you add your company's icon to your web page** 
 **
-**
+**  
 This works for most websites, including ASPX WebForms, MVC and WordPress.
 
 We have        [SSW CodeAuditor](https://www.ssw.com.au/ssw/CodeAuditor/) and        [SSW LinkAuditor](https://www.ssw.com.au/ssw/LinkAuditor/) to check for this rule.

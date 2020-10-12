@@ -25,9 +25,9 @@ Fortunately, if you are following our recommendations and combining CQRS with Me
 
 [[goodExample]]
 | ![Automatically Validate All Requests By Using a MediatR Pipeline Behaviour](validate-client-requests-good.png)
-This      **RequestValidationBehavior**  class will automatically validate all incoming requests and throw a      **ValidationException**  should the request be invalid. This is the best and easiest approach since existing requests, and new requests added later, will be automatically validated. This is possible through the power of MediatR pipeline behaviours. The documentation for MediatR includes a section on Behaviours;     https://github.com/jbogard/MediatR/wiki/Behaviors. Review this documentation to understand how you can enhance your request handlers with behaviours and how to register pipeline behaviours.
+This      **RequestValidationBehavior** class will automatically validate all incoming requests and throw a      **ValidationException** should the request be invalid. This is the best and easiest approach since existing requests, and new requests added later, will be automatically validated. This is possible through the power of MediatR pipeline behaviours. The documentation for MediatR includes a section on Behaviours;     https://github.com/jbogard/MediatR/wiki/Behaviors. Review this documentation to understand how you can enhance your request handlers with behaviours and how to register pipeline behaviours.
 
-The only step that remains is handle any validation exceptions. Within the console app, a try catch block will suffice. The action taken within the catch block will of course depend on requirements. Within the Web API, use an      **ExceptionFilterAttribute**  to catch these exceptions and convert them into a      **BadRequest** result as follows:
+The only step that remains is handle any validation exceptions. Within the console app, a try catch block will suffice. The action taken within the catch block will of course depend on requirements. Within the Web API, use an      **ExceptionFilterAttribute** to catch these exceptions and convert them into a      **BadRequest** result as follows:
 
 [[goodExample]]
 | ![Use an ExceptionFilterAttribute to Catch and Handle Exceptions within the Web API](validate-client-requests-good-2.png)

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-**Zendesk**  and      **Service Now**  are the leading ticketing engines.
+**Zendesk** and      **Service Now** are the leading ticketing engines.
 
 Zendesk has a larger market share, lower cost and better 'overall rating' as per     [getapp.com](https://www.getapp.com/it-management-software/a/service-now-com/compare/zendesk/).
  

@@ -74,14 +74,14 @@ See video on:     [https://rules.ssw.com.au/do-you-use-the-brains-of-your-compan
 
  **Friday 29th of November** 
 
- **9:00am**  – Meet upstairs in Suite 15        
-**9:30am**  – Discuss items to work on & vote        
-**10am**  – Start work on your fave tech project (in groups)        
- **10.30am**  – Coffee order        
-**1pm**  – Lunch        
-**2pm**  – Continue work        
-**4pm**  - Presentations        
-**6pm**  – The pub        
+ **9:00am** – Meet upstairs in Suite 15        
+**9:30am** – Discuss items to work on & vote        
+**10am** – Start work on your fave tech project (in groups)        
+ **10.30am** – Coffee order        
+**1pm** – Lunch        
+**2pm** – Continue work        
+**4pm** - Presentations        
+**6pm** – The pub        
   
 [/greyBox]
 [Good Example: Email template for brainstorming attendees
@@ -124,7 +124,7 @@ On the day, follow the agenda set out in your attendee email:
 - Vote: invite attendees to vote via Trello for the suggestion they would most like to see implemented at your company. Depending on the size of your team, you may choose to allow each attendee 3 votes.
 Eg. "Guys, you've got 5 minutes to get your 3 votes in"
 - Vote Results: after the votes are in, you can reveal the top voted suggestions. The attendees then break into smaller groups and set to work building a prototype or proof of concept. 
- **TIP:**  The moderator can decide which suggestions are viable and invite attendees to self-organise
+ **TIP:** The moderator can decide which suggestions are viable and invite attendees to self-organise
 - 1pm: Give the attendees a break for lunch.
 - 4pm: Attendees come back in, and each group takes turns presenting their work to the rest of the attendees.
 

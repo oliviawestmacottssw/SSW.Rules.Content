@@ -19,23 +19,23 @@ It doesn't have to take millions of dollars and 15 marketing consultancies to co
 
 The characteristics you should be after:
 
-- **Simple**  - Follow solid basic design principles, such as proportion and symmetry, coherent fonts and matching colors
-- **Versatile**  - Your logo will eventually end up on different mediums, and it must work well in all kinds of situations
-- **Relevant**  - Represent the company
-- **Memorable**  - Be unique
+- **Simple** - Follow solid basic design principles, such as proportion and symmetry, coherent fonts and matching colors
+- **Versatile** - Your logo will eventually end up on different mediums, and it must work well in all kinds of situations
+- **Relevant** - Represent the company
+- **Memorable** - Be unique
 
 
 If you follow these principles, people should be able to look at your logo from a distance and know which company it's from. The best trademarks end up cemented into the minds of individuals worldwide.
 
 Some examples of great logos:
 
-- **Twitter**  - the small flying blue bird makes an instinctive correlation to tweeting
+- **Twitter** - the small flying blue bird makes an instinctive correlation to tweeting
 
 ![](twitterlogo.jpg)
-- **Mini**  - the mini "wings" logo is simple and easily recognizable 
+- **Mini** - the mini "wings" logo is simple and easily recognizable 
 
 ![](mini-logo.jpg)
-- **Canon**  - the font of the logo simple and is tweaked with only a slight tilt
+- **Canon** - the font of the logo simple and is tweaked with only a slight tilt
 
 ![](canon-logo.jpg)
 

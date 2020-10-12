@@ -11,7 +11,7 @@ authors:
 
 ---
 
-You should  **review your current open opportunities**  in CRM:
+You should  **review your current open opportunities** in CRM:
  
 1. Update open opportunities as necessary, ensuring the status (warm, cold, hot) is accurate, as well as the deal value, and the contact information
 2. Close any opportunities that need to be closed either won or lost

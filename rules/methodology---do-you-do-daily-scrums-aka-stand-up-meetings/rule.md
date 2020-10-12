@@ -17,9 +17,9 @@ It is best to have it standing up, so it's short and to the point. No-one wants 
  
 Everybody knows the 3 essential questions:
 
-1. **What did you do yesterday?**  (and did you update TFS/other bug tracking system)?
-2. **What are you going to do today?**  (and my current task on the [physical task board](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=df1f9998-8fea-4912-ab3d-df4f5371beff) has my picture on it)
-3. **Do you have any roadblocks?**  (aka issues/impediments)
+1. **What did you do yesterday?** (and did you update TFS/other bug tracking system)?
+2. **What are you going to do today?** (and my current task on the [physical task board](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=df1f9998-8fea-4912-ab3d-df4f5371beff) has my picture on it)
+3. **Do you have any roadblocks?** (aka issues/impediments)
 
 
 Asking these questions of every team member means no-one can hide and everyone remains connected. Further, you can notice what was promised and what was performed. This enables the team to discovers issues quickly and keep abreast of the progress.

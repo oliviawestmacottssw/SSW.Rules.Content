@@ -14,8 +14,8 @@ There is a place for Silverlight, but it can only be the 'richer' experience. In
 
 
 ![](SilverlightInIPad.png)
-<br>    Figure: Silverlight does not work on an iPad, It can't be only experience.****
-**Further Reading: [PCWorld](http://www.pcworld.com/article/193540/ipad_proves_that_apple_wants_to_kill_flash.html)  .
+<br>    Figure: Silverlight does not work on an iPad, It can't be only experience.** **
+** Further Reading: [PCWorld](http://www.pcworld.com/article/193540/ipad_proves_that_apple_wants_to_kill_flash.html)  .
 
  **Data Entry Forms** 
 
@@ -37,7 +37,7 @@ Useful links: [Learning Video](http://www.silverlight.net/learn/videos/silverlig
 
 YES. System.Net.Sockets.Socket Class provides a set of methods and properties for network communications. The Socket class allows you to perform asynchronous data transfer using any of the communication protocols listed in the ProtocolType enumeration. Currently, the only supported ProtocolType is the TCP protocol. Supported Version Silverlight 4 & 3 . [MSDN – Socket Class](http://msdn.microsoft.com/en-us/library/system.net.sockets.socket%28v=vs.95%29.aspx)
 
- 
+  
 
 
  **For interactive charts in a BI (** ***Business Intelligence*** **) solution** 

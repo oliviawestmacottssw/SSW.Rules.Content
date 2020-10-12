@@ -11,10 +11,10 @@ In agile development; updates, changes and bug fixes happen all the time and an 
  
 This saves the end user from resorting to crawling the web for solutions.
 
- **From:**  Tech Support
- **Sent:**  Wednesday, 27 January 2010 4:31 PM
- **To:**  Mr Northwind
- **Subject:**  RE: Issue with lab management hosts
+ **From:** Tech Support
+ **Sent:** Wednesday, 27 January 2010 4:31 PM
+ **To:** Mr Northwind
+ **Subject:** RE: Issue with lab management hosts
 
 Hi Mr Northwind
 
@@ -33,10 +33,10 @@ Tech Support
 
 * * *
 
- **From:**  Mr Northwind
- **Sent:**  27 January 2010 10:07
- **To:**  Tech Support
- **Subject:**  Issue with lab management hosts
+ **From:** Mr Northwind
+ **Sent:** 27 January 2010 10:07
+ **To:** Tech Support
+ **Subject:** Issue with lab management hosts
 
 I accidentally (on scvmm) created a folder called "Testing" under by All Hosts group. In TFSAC I added the AllHosts\Testing host. This led me to other problems so I tried to remove this host from TFS. Guess what? I can't remove any hosts from TFS at all! Even after I deleted it from SCVMM. The error I get is: 
 

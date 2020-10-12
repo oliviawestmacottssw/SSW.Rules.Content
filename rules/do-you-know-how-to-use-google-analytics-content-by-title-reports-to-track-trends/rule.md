@@ -24,7 +24,7 @@ Keeping on top of your web site analytics can be daunting given the vast number 
 5. ## View Segments
 
 ![Add Segments to compare your traffic sources including Search, Direct and Referral traffic. You can also compare with paid search traffic](analytics-segments.jpg)(if you are using AdWords to drive traffic). 
-![The main segments to keep an eye on are the  Search Traffic  and  Referral Traffic  numbers – ideally both should be increasing.](analytics-content-search-traffic.jpg)
+![The main segments to keep an eye on are the  Search Traffic and  Referral Traffic numbers – ideally both should be increasing.](analytics-content-search-traffic.jpg)
 ![You can export the report to PDF and Excel, or email it to your boss. Or, print the report and stick on your company noticeboard in a prominent position.](analytics-export.jpg)
 
 ![You can also view the sources of the traffic to see which sites are sending you traffic by clicking on the Pivot View.](analytics-content-sources.jpg)

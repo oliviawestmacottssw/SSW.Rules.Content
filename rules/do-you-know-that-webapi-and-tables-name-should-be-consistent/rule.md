@@ -11,8 +11,8 @@ authors:
 
 When creating WebAPIs for your applications, it is useful to keep the naming consistent all the way from the back-end to the front-end. 
 [greyBox]
-  **Table name:**  Employees
- **Endpoint:**  /api/Users
+  **Table name:** Employees
+ **Endpoint:** /api/Users
  
 [/greyBox]
 Bad Example: The endpoint is different to the table name
@@ -21,8 +21,8 @@ Bad Example: The endpoint is different to the table name
 
 
 [greyBox]
-  **Table name:**  Employees
- **Endpoint:**  /api/Employees
+  **Table name:** Employees
+ **Endpoint:** /api/Employees
  
 [/greyBox]
 

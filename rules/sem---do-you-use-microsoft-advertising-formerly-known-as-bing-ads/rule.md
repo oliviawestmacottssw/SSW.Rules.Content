@@ -50,7 +50,7 @@ Follow these steps to import:
 5. Select the Google Ads campaigns you want to import, then click  **Continue** .
 6. Under  **Choose Import Options** , do the following:
             - Choose the appropriate options for  **What to import, Bids and budgets, Landing page URLs, Tracking templates, Ad extensions, and Microsoft Merchant Centre.**
-            - Choose if you want to delete ad groups and campaigns from Microsoft Advertising that you have already deleted from Google Ads under  **Clean-up,**  once you remove these campaigns or ad groups, any associated ads or keywords will also be deleted.
+            - Choose if you want to delete ad groups and campaigns from Microsoft Advertising that you have already deleted from Google Ads under  **Clean-up,** once you remove these campaigns or ad groups, any associated ads or keywords will also be deleted.
 7. Optional: Under  **Schedule Imports** , click  **When**  and then set the schedule you want, which can be Once, Daily, Weekly, or Monthly.
 8. Click Import or if you want to set a schedule, click  **Schedule** .
 9. Review the ** Import summary ** to see what entities were newly added or updated, or couldn't be imported (skipped).

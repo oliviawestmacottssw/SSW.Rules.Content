@@ -24,7 +24,7 @@ Here is how to find your MAC address:
  
 iPhone
 
-1. Open the  **Settings**  app
+1. Open the  **Settings** app
 2. Navigate to  **General | About**
 3. Look for  **WiFi Address
 
@@ -34,10 +34,10 @@ iPhone
 ### Android Phone
 
 
-1. On the Home screen, tap the Menu button and go to **Settings**
-2. Tap  **About Phone**
-3. Tap  **Status/Hardware information**
-4. Scroll down to see your **WiFi/MAC address
+1. On the Home screen, tap the Menu button and go to  **Settings**
+2. Tap   **About Phone**
+3. Tap   **Status/Hardware information**
+4. Scroll down to see your  **WiFi/MAC address
 
 ![](android-mac-address.jpg)
 **
@@ -45,6 +45,6 @@ iPhone
 
 ### Windows Phone
 
-1. From the Windows Phone home screen, swipe left to reveal more icons. Then, scroll down and tap **Settings**
-2. Scroll down and tap  **About**
-3. In the  **About** screen, tap **M****ore info**
+1. From the Windows Phone home screen, swipe left to reveal more icons. Then, scroll down and tap  **Settings**
+2. Scroll down and tap   **About**
+3. In the   **About**  screen, tap **M** **ore info**

@@ -26,7 +26,7 @@ Here they are:
 
 
 
-- **Framing:**  Being eye level with the subject and using the rule of thirds, which involves mentally dividing up your framing using 2 horizontal lines and 2 vertical lines, as a professional camera would do – if you are not using one. Also make sure there isn’t too much empty space and that you are not missing anyone important, if you have a big group, for example.
+- **Framing:** Being eye level with the subject and using the rule of thirds, which involves mentally dividing up your framing using 2 horizontal lines and 2 vertical lines, as a professional camera would do – if you are not using one. Also make sure there isn’t too much empty space and that you are not missing anyone important, if you have a big group, for example.
 
 
 ![Rule of thirds visualisation](RuleOfThirds.png)
@@ -38,7 +38,7 @@ Here they are:
         - Are there things that shouldn’t be in the photograph? E.g. confidential information
         - Lighting: Get the most out of lighting, especially if you are taking indoor photos. Try to avoid taking photos behind bright windows.
         - Make sure your lenses are clean before taking photos.
-- **Perspective choice:**  If possible, use portrait mode on your camera for taking photos of developers, as there’s a better chance of making use of the whole frame and photo composition. Also depending on what you are trying to capture, choose from landscape or portrait (camera position) when taking the photo.
+- **Perspective choice:** If possible, use portrait mode on your camera for taking photos of developers, as there’s a better chance of making use of the whole frame and photo composition. Also depending on what you are trying to capture, choose from landscape or portrait (camera position) when taking the photo.
 
 
 

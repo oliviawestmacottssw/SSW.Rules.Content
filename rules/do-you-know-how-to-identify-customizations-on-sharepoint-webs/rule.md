@@ -21,6 +21,6 @@ To do a successful migration, you must find all the customizations in your curre
 - Go to Central Admin site to check which custom WSP package has been deployed
 
 
-1. Go to  **Central Admin site**  |  **System Settings**  |  **Manage farm solutions** , to look for deployed custom solution package.
+1. Go to  **Central Admin site** |  **System Settings** |  **Manage farm solutions** , to look for deployed custom solution package.
 ![](CustomSolutionPackages.jpg)
 2. Compare web.config files between Production and Test environment as well to identify custom controls.

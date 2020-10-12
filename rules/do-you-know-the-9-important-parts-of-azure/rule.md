@@ -34,4 +34,4 @@ To help you out, here is a list of the top 9 Azure services you should be using:
 
 
 
-More details on [**Adam's Blog**  - The 9 knights of Azure: services to get you started](https&#58;//adamcogan.com/2018/06/07/9-knights-azure-services-get-started/)
+More details on [**Adam's Blog** - The 9 knights of Azure: services to get you started](https&#58;//adamcogan.com/2018/06/07/9-knights-azure-services-get-started/)

@@ -28,7 +28,7 @@ Include:
 
 Use these handy report expressions to show the above information.
 
-**NOTE:**  Do not use System.DateTime.Now for your Execution Time because if you do it will return the result at time of printing the document/PDF.  Instead store the value in a variable (for example GroupExecutionTime) and then call that.
+**NOTE:** Do not use System.DateTime.Now for your Execution Time because if you do it will return the result at time of printing the document/PDF.  Instead store the value in a variable (for example GroupExecutionTime) and then call that.
 
 
 | Footer Item | Expression | Sample Output |
@@ -46,7 +46,7 @@ Use these handy report expressions to show the above information.
 
  
 
-**Warning:**  Adding the User who printed it stops all data-driven subscriptions     
+**Warning:** Adding the User who printed it stops all data-driven subscriptions     
 When you try to add the User your data-driven subscriptions will fail with the following error:
 'The '/GroupHealth' report has user profile dependencies and cannot be run unattended. (rsHasUserProfileDependencies)'.     
 A quick workaround is to add a user function to fallback the error to a nice message, like: "SYSTEM",

@@ -34,6 +34,6 @@ It's the most popular available framework today, which means more people involve
 
 Now that you saved a lot of UI development time by using Bootstrap, you can play around with other useful frameworks.
 
-- **[KendoUI](http://www.kendoui.com/)**  for enhanced HTML and jQuery controls
+- **[KendoUI](http://www.kendoui.com/)** for enhanced HTML and jQuery controls
 - 
 - **[SignalR](http://signalr.net/)** for real-time web functionality

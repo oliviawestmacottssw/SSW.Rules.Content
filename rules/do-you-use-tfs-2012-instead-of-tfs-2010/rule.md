@@ -19,5 +19,5 @@ Local workspaces allow many operations to be done offline (add, edit, rename, de
 **Async checkout for Server Workspaces
 ** There is a new TFS 2012 feature so that VS 2012 will do checkouts in the background for server workspaces.  That eliminates the pause when you start typing and VS checks out the file.  Turning it on turns off checkout locks, but you can still use checkin locks.
 
-**Merge on Unshelve**
+**Merge on Unshelve** 
 Shelvesets can now be unshelved into a workspace even if there are local changes on files in the shelveset.  Conflicts will be created for any items modified both locally and in the shelveset, and you will resolve them as you would any other conflict.

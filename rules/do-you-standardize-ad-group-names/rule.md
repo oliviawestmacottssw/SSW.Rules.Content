@@ -34,9 +34,9 @@ For example: This is a list of AD groups associated with products.
  Figure: Good Example – By standardizing the names of AD groups it saves confusion
 
 **
-Note: ** For large organizations, a better way is   to use a type of group (eg. Local or Global)… then the entity it is associated to… then the resource (or service).
+Note: ** For large organizations, a better way is  to use a type of group (eg. Local or Global)… then the entity it is associated to… then the resource (or service).
 
-**E****xample****#1:**
+**E** **xample** **#1:**
 
 L-LocalGroupName-
    SYD-EntityName-
@@ -44,7 +44,7 @@ L-LocalGroupName-
 
 That becomes “L-SYD-SP-SSW-Users"
 
-**E****xample****#2:**
+**E** **xample** **#2:**
 
 G-GlobalGroupName-
    SYD-EntityName-

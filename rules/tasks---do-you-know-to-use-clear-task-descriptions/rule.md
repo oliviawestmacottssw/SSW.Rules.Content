@@ -23,6 +23,6 @@ If you need to add rich text and images you can do this by [attaching an email t
 ![Bad example, there is not enough information for a non team member to complete this task](TaskDetail-badExample.png "image")
 ![Julie provided a lot more information and another team should be able to pick this up](UserStoryOwner_Good.png)
 [greyBox]
-   **Note:**  If you are updating the details of a PBI then follow the rule “[Do you know when you use @ mentions in a PBI?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=efd6c91e-7cc5-4473-a299-9104c8fd6e0d)” 
+   **Note:** If you are updating the details of a PBI then follow the rule “[Do you know when you use @ mentions in a PBI?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=efd6c91e-7cc5-4473-a299-9104c8fd6e0d)” 
  
 [/greyBox]

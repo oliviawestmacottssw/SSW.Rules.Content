@@ -26,15 +26,15 @@ To delete the unwanted Team Project Collection:
 ![Use the TFSConfig tool to delete a Team Project CollectionIf you created a SharePoint Portal for your Team Project Collection, you should clean it up as well.](tfs-admin-delete-collection.png)
 
 1. Open the URL of your Team Project Collections SharePoint portal (eg. http://northwind.com.au/tfs/TestProjectCollection)
-2. Select  **Site Actions**  |  **Site Settings**  on the right
-3. Under the  **Site Administration**  subheading, click on  **Delete this site**
+2. Select  **Site Actions** |  **Site Settings** on the right
+3. Under the  **Site Administration** subheading, click on  **Delete this site**
 4. Confirm the deletion
 
 
 If you created a Reports site for your Team Project Collection, you should clean it up as well.
 
 1. Open the URL of your Reporting Services page (eg. http://tfs.ssw.com.au/Reports/)
-2. Click on the  **TfsReports**  folder
+2. Click on the  **TfsReports** folder
 3. Click on the name of the Team Project Collections folder
 4. Click  **Properties** in the top navigation
 5. Click on  **Delete**

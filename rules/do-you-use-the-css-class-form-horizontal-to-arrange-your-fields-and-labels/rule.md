@@ -9,7 +9,7 @@ authors:
 
 ---
 
-You should align labels  **next**  to the inputs on medium and large displays and  **above**  inputs on small and extra-small displays.
+You should align labels  **next** to the inputs on medium and large displays and  **above** inputs on small and extra-small displays.
  
 Bootstrap makes this easy. Use the css class  **form-horizontal** on your html form for it to use this behaviour by default.
  

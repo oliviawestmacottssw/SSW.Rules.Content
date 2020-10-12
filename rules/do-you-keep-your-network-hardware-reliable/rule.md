@@ -19,7 +19,7 @@ At SSW, we have discovered that:
  
 ### Firewalls
 
-**1****. Cisco ASA is the best.**  Cisco has built a lot of trust and a large community of backers over the years by providing an extremely solid product. Finding support and assistance with Cisco devices is much easier than most vendors due to the sheer size of the community. Also pushing it to the lead are advanced features like:
+**1** **. Cisco ASA is the best.** Cisco has built a lot of trust and a large community of backers over the years by providing an extremely solid product. Finding support and assistance with Cisco devices is much easier than most vendors due to the sheer size of the community. Also pushing it to the lead are advanced features like:
 
 - MalWare Protection
 - Application Control
@@ -33,7 +33,7 @@ At SSW, we have discovered that:
 ![](ASA.jpg)
 **
 
-**2. pfSense is the second best.**  One of the most used firewalls and for good reason. This Open Source firewall offers similar features to the leading providers of firewalls but comes in at a fraction of the price since the software is free and only requires you to purchase the hardware to run it. This gives you the ability to have an extremely good firewall at a fraction of the price.
+**2. pfSense is the second best.** One of the most used firewalls and for good reason. This Open Source firewall offers similar features to the leading providers of firewalls but comes in at a fraction of the price since the software is free and only requires you to purchase the hardware to run it. This gives you the ability to have an extremely good firewall at a fraction of the price.
 
 
 ![](Netgate.jpg)
@@ -47,7 +47,7 @@ At SSW, we have discovered that:
 
 ![](HP Switch.jpg)
 
-**2. Cisco is the second best.**  A leading product for many years however comes at a much larger cost than HPE/Aruba and usually contains ongoing license fees for support. But is a very reliable and feature rich product.
+**2. Cisco is the second best.** A leading product for many years however comes at a much larger cost than HPE/Aruba and usually contains ongoing license fees for support. But is a very reliable and feature rich product.
 
 
 ![](Cisco Switch.jpg)
@@ -60,7 +60,7 @@ At SSW, we have discovered that:
 
 ![](UAP-AC-LITE.jpg)
 
-**2.****Cisco/Aruba is the second best.**  Offering many features and used on many large projects such as the University of Wollongong for Cisco and KFC for Aruba they offer truly tried and tested hardware. These products do come at a higher cost and requires a lot more skill and time to manage and really only come into the spotlight on large scale projects.
+**2.** **Cisco/Aruba is the second best.** Offering many features and used on many large projects such as the University of Wollongong for Cisco and KFC for Aruba they offer truly tried and tested hardware. These products do come at a higher cost and requires a lot more skill and time to manage and really only come into the spotlight on large scale projects.
 
 
 ![](Cisco AP.jpg)

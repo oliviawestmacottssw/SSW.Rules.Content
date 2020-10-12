@@ -36,7 +36,7 @@ If you got a new comment that is not from a client or a potential client, rememb
 
 Making sure everyone from your team is on the same page about how to approach these situations is the best way to go. If you feel like you need to expand on this topic due to having a lot of inquiries and comments, we suggest you create a social media policy to cover all possible situations and how to handle each one of them.
 
-**Tip 1:**  You can use social media monitoring tools to keep track of the comments you get on social media, like Zendesk or Hootsuite.
+**Tip 1:** You can use social media monitoring tools to keep track of the comments you get on social media, like Zendesk or Hootsuite.
 
 **Tip 2:** Facebook allows you to hide comments, whereas other platforms require you to report the comment in order to hide it. On Facebook, if you hide a comment, the user who posted it (and the page manager) can still see it. User this feature if, for example, you want to hide a comment that didn't add value to the post, but wasn't offensive or didn't warrant deleting.
 

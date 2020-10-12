@@ -22,7 +22,7 @@ From QuickTime Player, you can start a new Screen Recording from the File menu:
 In the Screen Recording window, you an select which microphone to use if you want to record audio:
 
 ![Select your audio device](QuickTime Recorder.png)
-**Tip:**  Alternatively, you can use [Loom](https://www.useloom.com/) 
+**Tip:** Alternatively, you can use [Loom](https://www.useloom.com/) 
 , which works as a Google Chrome extension.
 
 ### Related Rule 

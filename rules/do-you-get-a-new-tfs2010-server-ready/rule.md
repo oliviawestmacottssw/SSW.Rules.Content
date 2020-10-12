@@ -18,6 +18,6 @@ authors:
 2. Add the roles
     1. Application Server
     2. IIS
-3. Install  **SQL Server 2008 x64**  default configuration
+3. Install  **SQL Server 2008 x64** default configuration
 4. Install  **SQL Server 2008 SP1**
 5. Run [www.ssw.com.au/ssw/Diagnostics/](http&#58;//www.ssw.com.au/ssw/Diagnostics/) and get all green ticks

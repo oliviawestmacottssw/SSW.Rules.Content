@@ -18,7 +18,7 @@ There are two options to lock the content database.
 
 Option 1 ( **Recommended** ):
 
-1.  Open  **SharePoint Central Administration**  site, navigate to "**Application Management** " | "**Site Collections** " | " **Configure quotas and locks** ".
+1.  Open  **SharePoint Central Administration** site, navigate to "**Application Management** " | "**Site Collections** " | " **Configure quotas and locks** ".
 
 ![](quotas-and-locks.jpg)
 2. Select the "site collection" which you would like to lock.
@@ -34,9 +34,9 @@ Option 2 ( **not recommended** ):
 
 3.    Choose      **Options** | Scroll to the bottom of the options list
 
-4.    For the      **Database Read-Only**  choose True
+4.    For the      **Database Read-Only** choose True
 
 ![Database Properties | Options | Database-Read Only](LocLSQLDB.jpg)
 5.    Now it’s safe to take a backup of your content database
 
-**NOTE:**  When some SharePoint timer services are run it may cause the site to display errors when the database is in read-only mode
+**NOTE:** When some SharePoint timer services are run it may cause the site to display errors when the database is in read-only mode

@@ -21,7 +21,7 @@ In SharePoint 2007, it is a good idea to add the path to stsadm.exe into the env
 
 ![Using SharePoint 2010 Management Shell](SP2010PowerShell.png)
 
-**More Information**  for SharePoint 2007
+**More Information** for SharePoint 2007
 
 1. In the start menu type  **Edit the system environment variables** and run the tool
 ![](EnvVariables.png) 

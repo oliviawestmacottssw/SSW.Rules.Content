@@ -19,7 +19,7 @@ End screens help to avoid viewers to go away by suggesting to them the next cont
 - A link to an approved website
 
 
-![  To add an end screen, go to VIDEO MANAGER | Videos |](end screen.png)(select your video) | End screens and Annotations | Add element
+![ To add an end screen, go to VIDEO MANAGER | Videos |](end screen.png)(select your video) | End screens and Annotations | Add element
 
 
 

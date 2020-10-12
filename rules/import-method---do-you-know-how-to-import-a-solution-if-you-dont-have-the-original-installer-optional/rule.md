@@ -13,9 +13,9 @@ You should have at this point, either:
 <br>2. WSP packages from 3rd party, or built from your own source code, or extracted using the Export Method (not recommended)
 
 <br>You can add the WSP package solutions to the new server by:<br>
-1. Open up  **cmd**  with Administrator privileges
+1. Open up  **cmd** with Administrator privileges
 2. Enter your  **C:\SharePointCustomizations** folder
 cd C:\SharePointCustomizations
-3. Use  **stsadm**  to import the solution to your new server
+3. Use  **stsadm** to import the solution to your new server
 Stsadm –o AddSolution –filename NameOfSolution.wsp
 4. Make sure there are no errors when the command runs

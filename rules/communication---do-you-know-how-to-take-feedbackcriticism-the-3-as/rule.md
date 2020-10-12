@@ -40,7 +40,7 @@ Figure: Bad example - Jane runs out of arguments and walks away deflated
 Bob: Really? Can you give an example?
 (pause)
 Jane: The one about XXX
-Bob: I didn't reply because I saw Tiago reply... however,  **I do take your point in general.**  I will try to do better for the next week. Let me know if I've improved.
+Bob: I didn't reply because I saw Tiago reply... however,  **I do take your point in general.** I will try to do better for the next week. Let me know if I've improved.
  
 [/greyBox]
 Figure: Good example - Jane feels heard 

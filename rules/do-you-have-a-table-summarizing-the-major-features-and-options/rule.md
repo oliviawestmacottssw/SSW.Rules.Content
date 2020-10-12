@@ -13,7 +13,7 @@ Use a table to summarize the major features of the project. Columns that are nee
 
 - Required
 - Desired
-- **Option A**(Recommended)
+- **Option A** (Recommended)
 - **Option B**
 
  

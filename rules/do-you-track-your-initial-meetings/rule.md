@@ -12,7 +12,7 @@ authors:
 When creating an appointment email for an initial meeting, make sure you include the words " **initial** " and " **meeting** " on the subject. 
 
 [greyBox]
- Subject:   Northwind project with SSW and Bob
+ Subject:  Northwind project with SSW and Bob
  
 [/greyBox]
 

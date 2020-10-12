@@ -39,4 +39,4 @@ For more information and a demo see this  blog: [weluse.de](https://weluse.de/bl
 5. Here’s what you need to know to ensure your website is crawled correctly by Google in general regardless of if your application is a SPA: [Introduction to SEO and Google Tools – Craig Bailey \[FireBootCamp\]](https://tv.ssw.com/5162/introduction-seo-google-tools-craig-bailey-firebootcamp)
 
 
-**Note:**  Since May 2014 Google announced that they're finally crawling javascript making SEO for a SPA simpler. Previously your SPA needed to distinguish between normal users and crawlers - and re-route (somehow) to the special crawler-only-endpoints if a bot is requesting the page.(source: http://googlewebmastercentral.blogspot.de/2014/05/understanding-web-pages-better.html)
+**Note:** Since May 2014 Google announced that they're finally crawling javascript making SEO for a SPA simpler. Previously your SPA needed to distinguish between normal users and crawlers - and re-route (somehow) to the special crawler-only-endpoints if a bot is requesting the page.(source: http://googlewebmastercentral.blogspot.de/2014/05/understanding-web-pages-better.html)

@@ -25,14 +25,14 @@ Here is how you do it:
 5. Now we can choose the parts of our mailbox we want to synced to our PC. The following options are recommended:
     - Untick <br>             **Receive Mail Items**
     - Tick <br>             **Download offline address book**
-    - Tick the <br>             **Outbox**  folder
-    - Tick the <br>             **Contacts**  folder
+    - Tick the <br>             **Outbox** folder
+    - Tick the <br>             **Contacts** folder
     - Tick the <br>             **Sent Items** folder,
     - and select <br>             **Download headers only**
 
 
 ![Untick "Receive mail items" | Tick "Sent Items", "Contacts" and "Outbox" | Download only headers for "Sent Items"](Email.png)
-6. When back in the main Outlook window click <br>       **Send / Receive****All****Folders** and this will sync your sent items and contacts which will now be available offline
+6. When back in the main Outlook window click <br>       **Send / Receive** **All** **Folders** and this will sync your sent items and contacts which will now be available offline
 
 
 **Suggestion to the Microsoft Outlook Team:**

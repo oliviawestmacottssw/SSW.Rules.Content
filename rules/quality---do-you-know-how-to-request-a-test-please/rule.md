@@ -54,7 +54,7 @@ Keep in mind that a "test please" is an urgent task and that it should start wit
 Thanks, [XXX]
  
 [/greyBox]
-4. **What if you're doing a Windows Forms test?**    Then you should also include this to the email:
+4. **What if you're doing a Windows Forms test?**     Then you should also include this to the email:
     - The latest version of [XXX] has been uploaded to \\frog\SSW\Download\[Application\_verX-XX\_beta.exe
     - Test on a fresh VPC image of Windows
     - Install into a non-default directory
@@ -84,7 +84,7 @@ I am looking for bugs or approval to release this version.
 I have done what I could for my code's health. E.g.
  
 [/greyBox]
-6. **Note to****developer:**If current version is better than the last version you can release (even with a test fail) as long:
+6. **Note to** **developer:**If current version is better than the last version you can release (even with a test fail) as long:
     - The bugs reported in the test fail existed in the old version
     - Two people have tested it
     - The changes in this version are fairly important to get out

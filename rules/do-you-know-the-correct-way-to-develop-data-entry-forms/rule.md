@@ -74,7 +74,7 @@ Data Entrees should be able to use your data entry form with ease. It should fol
 
 
 [[goodExample]]
-| ![Error Provider Icon next to a required field    Do not  show a message box after every error in validation. You may show a message box as an error summary when an OK or Apply is clicked. Make sure you warn the user that there is an error on the form when they attempt to save.](../../assets/ErrorProviderIconExample.jpg)
+| ![Error Provider Icon next to a required field    Do not show a message box after every error in validation. You may show a message box as an error summary when an OK or Apply is clicked. Make sure you warn the user that there is an error on the form when they attempt to save.](../../assets/ErrorProviderIconExample.jpg)
 6. ### Relevant Menus
     Make sure that the menu items are relevant to the current form. The main idea is that we don't want to show the user any dummy menu items. However, this may become complex when a base form (containing the menu) is inherited. Access to menus in the base form must be granted (maybe through properties), so that each menu can be customized according to each child form.
 
@@ -85,7 +85,7 @@ Data Entrees should be able to use your data entry form with ease. It should fol
 7. ### Field Formatting
     Ensure that the data is displayed in correct format. For example, when presenting a percentage data in a field, make sure it is displayed as '% xx.xx'.
  To accompany formatting, you must also create a parse function for putting the correct value back in the database.
-    **Note:**  This can be difficult for data bound fields, and in that case you will have to handle the parse and format event of the Field's Binding object. An example of handling these events is shown below.
+    **Note:** This can be difficult for data bound fields, and in that case you will have to handle the parse and format event of the Field's Binding object. An example of handling these events is shown below.
 
 
 ```

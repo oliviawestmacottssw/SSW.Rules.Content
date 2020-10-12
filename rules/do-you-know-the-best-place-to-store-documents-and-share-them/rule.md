@@ -37,11 +37,11 @@ Behind the scenes, storage is provided by a SharePoint site; so that is there if
 | ![You can open the files in SharePoint](teams - open sharepoint.png)
 [[goodExample]]
 | ![You can sync the files in SharePoint with your current machine through OneDrive. A toast notification should popup indicating that files will be synced.](teams - sync onedrive.png)
-**Note:**  You can add other cloud storage providers for file storage e.g. Google Drive, Dropbox, etc     
+**Note:** You can add other cloud storage providers for file storage e.g. Google Drive, Dropbox, etc     
 This is not recommended - as they aren't first-class citizens i.e. if you want to share files from them, you need to go to the provider's sharing settings outside of Teams
 
 
-**Warning:**  By using Teams instead of SharePoint, you are losing a number of key features:
+**Warning:** By using Teams instead of SharePoint, you are losing a number of key features:
 - No full fidelity support for Metadata in Document Libraries e.g. can’t add extra columns into the “Files” tab
 - No support for private channels e.g. you will need a team per subset of users with different permissions
 - No direct access to version history from Teams UI (still exists on SharePoint UI)

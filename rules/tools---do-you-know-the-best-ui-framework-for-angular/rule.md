@@ -15,8 +15,8 @@ authors:
 
 The main contenders for the best UI framework for Angular are:
 
-- **Angular Material**  - https://material.angular.io/
-- **Bootstrap**  - [https://getbootstrap.com](https://getbootstrap.com/)
+- **Angular Material** - https://material.angular.io/
+- **Bootstrap** - [https://getbootstrap.com](https://getbootstrap.com/)
 
 
 Making the choice of which to use will depend on several factors related to your project:

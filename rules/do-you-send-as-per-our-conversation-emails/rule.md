@@ -15,7 +15,7 @@ authors:
 
 ---
 
-Implement a policy of following up      **important**  telephone conversations with an email that begins with the words "As per our conversation". The intent is to document what was said and agreed upon.
+Implement a policy of following up      **important** telephone conversations with an email that begins with the words "As per our conversation". The intent is to document what was said and agreed upon.
 
 Watch the video below and see how a single email can make your job easier.
 
@@ -56,8 +56,8 @@ Sometimes you might not reach the client or Product owner via phone, and have 
 Figure: Good Example - for when you can't reach the person by phone 
 
 
-**Note:**  This is most likely to happen after a conversation started      **by the client** .
-If      **you**  are the one making the first contact, also follow:     [Do you prepare, then confirm conversations/decisions?](/Pages/PrepareAndConfirm.aspx)
+**Note:** This is most likely to happen after a conversation started      **by the client** .
+If      **you** are the one making the first contact, also follow:     [Do you prepare, then confirm conversations/decisions?](/Pages/PrepareAndConfirm.aspx)
 
 **
 **

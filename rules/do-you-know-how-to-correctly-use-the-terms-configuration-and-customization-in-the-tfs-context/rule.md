@@ -12,7 +12,7 @@ authors:
 It is important to use consistent language when talking about changes made to a TFS environment. The term configuration and customization are sometimes used interchangeably. It is clearer to use the following to differentiate them:
 
  
- **Configuration**  applies to any changes made to application settings that help to make your TFS installation work correctly for a particular environment
+ **Configuration** applies to any changes made to application settings that help to make your TFS installation work correctly for a particular environment
 
 
 

@@ -29,14 +29,14 @@ When selecting a Dependency Injection container it is worth considering a number
 
 The top tools all contain comparable functionality. In practice which one you use makes little difference, especially when you consider that your container choice should not leak into your domain model.
 
-**Important:**  Unless a specific shortfall is discovered with the container your team uses, you should continue to use the same container across all of your projects, become an expert with it and invest time on building features rather than learning new container implementations.
+**Important:** Unless a specific shortfall is discovered with the container your team uses, you should continue to use the same container across all of your projects, become an expert with it and invest time on building features rather than learning new container implementations.
 
 [[badExample]]
 | ![Ninject was a top container but is no longer developed as actively as Autofac and Structuremap. Both Autofac and Structuremap have active communities and contributors that ensure they stay up to date with the latest changes in .Net](dic-bad.png)
  
 [[goodExample]]
 | ![Autofac has a great combination of performance and features and is actively developed](dic-good.png)
-**Note:**  Autofac's support for child lifetime containers may be  significant for some: 
+**Note:** Autofac's support for child lifetime containers may be  significant for some: 
 [http://nblumhardt.com/2011/01/an-autofac-lifetime-primer](http://nblumhardt.com/2011/01/an-autofac-lifetime-primer/)
 
 StructureMap does also support a kind of child container:

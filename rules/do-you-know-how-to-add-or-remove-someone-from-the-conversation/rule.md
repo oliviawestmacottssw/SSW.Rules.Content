@@ -43,4 +43,4 @@ To fix all these issues, instead of deleting people from the email, you:
 
 [[goodExample]]
 | ![Moving someone to BCC](move-bcc.jpg)
-**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
+**VIDEO**  - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)

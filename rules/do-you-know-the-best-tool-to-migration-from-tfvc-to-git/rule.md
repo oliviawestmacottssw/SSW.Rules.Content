@@ -53,7 +53,7 @@ To see how to use this to migrate see ["Migrate an existing project from TFS to 
 
 
 [greyBox]
-  **TIP -**  Use Git-Tf if you don't have a Windows environment
+  **TIP -** Use Git-Tf if you don't have a Windows environment
  
 [/greyBox]
 

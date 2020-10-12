@@ -35,7 +35,7 @@ The deliverables for the Specification Review depend upon how large the applicat
 - Mock-ups if required
 
 
-**Summary Product Bac****klog**
+**Summary Product Bac** **klog**
 
 - A list of product backlog items (PBIs) will be broken down based on the Requirements Analysis and the Architectural Design
 - These PBIs will then be estimated

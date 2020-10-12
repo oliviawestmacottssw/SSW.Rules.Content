@@ -11,7 +11,7 @@ authors: []
  
 
 Using SNOM phones, transferring a call, creating a conference call, or making an internal call, is very easy.
- **Transferring a call**
+ **Transferring a call** 
 
 - While speaking to Mr Northwind, press <br>         
 ![](Hold.png)*(Hold)*
@@ -29,7 +29,7 @@ Using SNOM phones, transferring a call, creating a conference call, or making an
 
 
 
-**Making a Conference Call (up to 5 people)**
+**Making a Conference Call (up to 5 people)** 
 
 - While speaking to Mr Northwind, press <br>         
 ![](Hold.png)*(Hold)*
@@ -46,7 +46,7 @@ Using SNOM phones, transferring a call, creating a conference call, or making an
 
 
 
-**Making an Internal Call**
+**Making an Internal Call** 
 
 - Lift handset (or press speaker)
 - Press <br>         

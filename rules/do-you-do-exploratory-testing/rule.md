@@ -15,7 +15,7 @@ authors:
 
 ---
 
-Use Microsoft's Exploratory Testing -  **Test & Feedback extension**  - to perform exploratory tests on web apps directly from the browser.
+Use Microsoft's Exploratory Testing -  **Test & Feedback extension** - to perform exploratory tests on web apps directly from the browser.
 
  Capture screenshots, annotate them and submit bugs as you explore your web app - all directly from Chrome (or Firefox) browser. Test on any platform (Windows, Mac or Linux), on different devices. No need for predefined test cases or test steps. Track your bugs in the cloud with Visual Studio Team Services (VSTS).
  

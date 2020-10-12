@@ -66,7 +66,7 @@ To create a Tentative Booking:
 2. Instead of choosing a client account for 'Set Regarding', choose the company (E.g. "ssw.pencilledin").
 
 
-**Tip:**  Create a "Booked In Days" Report and make the Tentative Bookings display obviously (E.g. A grey color), so Account Managers can easily see it if they need to use that time.
+**Tip:** Create a "Booked In Days" Report and make the Tentative Bookings display obviously (E.g. A grey color), so Account Managers can easily see it if they need to use that time.
 
 ### (for options 1 and 2) Adding Internal Bookings
 

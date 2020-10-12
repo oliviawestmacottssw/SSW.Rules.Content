@@ -18,7 +18,7 @@ As a general rule of thumb, don't use NULL if you cannot distinguish it from ano
  **Q:**  What is the difference between NULL and 0 in the field "Discount"?
  **A:**  No difference, so don't allow NULL.
 
- **Q:**  What is the difference between NULL and 0 in the field "DailySugarIntake"?
- **A:**  NULL means unknown and 0 means no daily sugar intake, so allow NULL.
+ **Q:** What is the difference between NULL and 0 in the field "DailySugarIntake"?
+ **A:** NULL means unknown and 0 means no daily sugar intake, so allow NULL.
 
  **Note:**  Nulls are evil, but don't go crazy removing nulls. Never invent your own constant eg. -999 to represent a Null.

@@ -30,7 +30,7 @@ To add Application Insights to your website, follow these steps.
 (Add Application Insights Telemetry to Project... not displaying? See instructions at the end of this rule)
 
 
-![Sign in with your VSO account if required. Then click Add Application Insights To Project](apin6-compressor.png)
+![ Sign in with your VSO account if required. Then click Add Application Insights To Project](apin6-compressor.png)
 
 
 
@@ -57,7 +57,7 @@ Application Insights tracks a lot of metrics in your website but one of the most
 
 ![Breakdown of which browsers are used to access your website](apin4-compressor.png)
 
-**Note:**  Make sure Server Performance Monitoring is set up (currently not available for Azure Websites)
+**Note:** Make sure Server Performance Monitoring is set up (currently not available for Azure Websites)
 
 
 ![Ensure you complete this process to add Server Monitoring](AnyConnect 1.png)

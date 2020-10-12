@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Newsletters should always use  **absolute**  references to all links and images within the HTML. Relative paths don't contain the server information so users see a broken link/image - the outside email application won't find the where the file is.
+Newsletters should always use  **absolute** references to all links and images within the HTML. Relative paths don't contain the server information so users see a broken link/image - the outside email application won't find the where the file is.
  
 &lt;a href="/ssw/Company/ContactUs.aspx "&gt;&lt;img src="/SSW/images/SSWLogo.png"&gt;&lt;/a&gt;
  Figure: Bad example - using relative paths for both link and image on a newsletter

@@ -70,7 +70,7 @@ result.Sort(delegate(ProductGroup groupX, ProductGroup groupY)
         0;
 });
 Figure: Bad example - Not using LINQ. The yellow gives it away.
-**Tip:**  Resharper can automatically convert this code.
+**Tip:** Resharper can automatically convert this code.
 
 
 ```

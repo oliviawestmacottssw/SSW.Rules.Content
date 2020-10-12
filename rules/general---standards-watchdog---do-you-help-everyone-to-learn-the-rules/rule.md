@@ -17,7 +17,7 @@ authors:
 | ![Correcting someone in a mean way](watchdog-mean.jpg)
 [[goodExample]]
 | ![People make mistakes but correct them as though they’re a soft cute puppy 🐶](watchdog-watchdog.jpg)
-Every member of a team plays an important role in maintaining standards. Whether it's your   work or someone else's, always   keep an eye out for  **things that can be improved** .
+Every member of a team plays an important role in maintaining standards. Whether it's your  work or someone else's, always  keep an eye out for  **things that can be improved** .
 
 This rule applies to all company standards. Standards are important because they ensure your experience at work is consistent and enjoyable. For example, if there was no standard to stack the dishes in the dishwasher when you were finished using them, dishes would build up and create a big mess in the kitchen!
 
@@ -42,7 +42,7 @@ Figure: Good example - nicely informing of a small standard oversight
 When there is a proven better way to do something different from what the person has done. You should try to include the reasons.
 
 [greyBox]
-      **Tip:**  I noticed your email has a very generic subject: "website". Please resend with a descriptive email subject as per Rules to Better Email. This way it is easier to identify, categorize and find this email later, without having to open it :)
+      **Tip:** I noticed your email has a very generic subject: "website". Please resend with a descriptive email subject as per Rules to Better Email. This way it is easier to identify, categorize and find this email later, without having to open it :)
  
 [/greyBox]
 Figure: Good example - nicely informing of a better way to do something 
@@ -68,7 +68,7 @@ When you come across an error, don't just fix it, as the developer who made it i
 
 No one likes being corrected but hopefully, with everyone doing this in the office, it's not a matter of finger-pointing, it is working together to write better code or developing better solutions.
 
-**Tip:**  In code, if you don't know who made the mistake, [use the annotate tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=1167746b-aca0-4a4f-9dd0-bf6b87953dae).
+**Tip:** In code, if you don't know who made the mistake, [use the annotate tool](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=1167746b-aca0-4a4f-9dd0-bf6b87953dae).
 
 ### What if it's recurring?
 
@@ -81,7 +81,7 @@ When you notice someone doing the wrong thing:
 
 ### Focus on the meat first
 
-When you receive a great 'done' email or document, make sure you mention how great it is  **before**  correcting any potential error.
+When you receive a great 'done' email or document, make sure you mention how great it is  **before** correcting any potential error.
 
 ### Timing is everything - Don't bottle it up
 
@@ -107,16 +107,16 @@ When something is really personal, you can’t really correct someone unless you
 It's important to ensure others are doing their best to maintain and follow the standards. Remember, it can be just as important for someone's professional development to give feedback as it is to receive it. Being able to communicate feedback in an effective and professional manner can benefit you in any career.
 
 [greyBox]
-       **To:**  Peter
- **CC:**  Adam (Manager)
+       **To:** Peter
+ **CC:** Adam (Manager)
 
 Dear Peter,
 
 While you were away, I came across this page you edited, called ApplicationForm.aspx which was giving an error: 
 *'The conversion of a char data type to a DateTime data type resulted in an out-of-range DateTime value.'*
 
-Please note that whilst inserting data from your Front End application, you should not use the format  **dd/mm/****yyyy** . 
-Instead, you should use  **yyyy****/mm/dd** as per Rules to Better Databases.
+Please note that whilst inserting data from your Front End application, you should not use the format  **dd/mm/** **yyyy** . 
+Instead, you should use  **yyyy** **/mm/dd** as per Rules to Better Databases.
 
 Let's fix it together when we get to work tomorrow.
 

@@ -16,5 +16,5 @@ This should rarely happen, as new features should be pushed back to the backlog,
 Understanding the impact of slotting in a new request into the sprint is important because you can tell the Product Owner:
 
 "If we do X now that means we can’t do Y and Z in this sprint and they will be push back to the backlog".
- **Tip:**  If you're using Project Server, you can see the impact on the timeline visually in the "Tracking Gantt". 
+ **Tip:** If you're using Project Server, you can see the impact on the timeline visually in the "Tracking Gantt". 
 ![Project Server Tracking Gantt tells us the deviations from the baseline estimates](gantt-chart.jpg)

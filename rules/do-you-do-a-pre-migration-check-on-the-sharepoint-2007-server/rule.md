@@ -16,7 +16,7 @@ authors:
 It is a good idea to run a pre-migration check on the SharePoint 2007 before starting the migration process.
 
 1. Check you have followed [Do you add stsadm to the environmental variables?](/Pages/Do-you-add-stsadm-to-environmental-variables.aspx)
-2. Open up  **cmd**  with Administrator privileges
+2. Open up  **cmd** with Administrator privileges
 3. Run the following command:  **stsadm –o preupgradecheck
 
 ** 

@@ -26,7 +26,7 @@ Sending appointments from Teams feels less natural than from Outlook but there a
 
 
 
-**Important:**  Although the meeting app works great to organize Teamwork such as Scrum meetings or other client meetings, it is not very suitable for more global events such as a retreat or a conference. At SSW we use Microsoft Outlook appointments in those instances.
+**Important:** Although the meeting app works great to organize Teamwork such as Scrum meetings or other client meetings, it is not very suitable for more global events such as a retreat or a conference. At SSW we use Microsoft Outlook appointments in those instances.
 
 
 

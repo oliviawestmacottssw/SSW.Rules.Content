@@ -11,7 +11,7 @@ authors:
 
 ---
 
-**Problem:**
+**Problem:** 
 Spam. It wastes time and resources. In most cases, the amount of spam received by an organization far exceeds the amount of legitimate email.
 
 e.g. Average volume of spam received daily at SSW

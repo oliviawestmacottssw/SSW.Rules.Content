@@ -24,7 +24,7 @@ After each meeting, the organizer should set the date for the next one and send 
 [[goodExample]]
 | ![Use the inbuilt Skype Meeting functionality to make sure no one gets left out](SkypeForBusinessMeeting.png)
 
-**Hi All,**
+**Hi All,** 
 
 (Emailed SSWChapel@ to book it in its calendar)
 

@@ -15,9 +15,9 @@ Good error design is as important to the sucess of an API as the API design itse
 
 The HTTP/1.1 RFC lists over 70 different HTTP Status Codes. Very few developers will be able to remember all of them, so it pays to keep it simple and use the most common Status Codes. The basic rule is to use the following three:
 
-- **200 OK**  - Everything worked. Success
-- **400 Bad Request**  - The consuming application did something wrong.
-- **500 Internal Server Error**  - The API Application did something wrong.
+- **200 OK** - Everything worked. Success
+- **400 Bad Request** - The consuming application did something wrong.
+- **500 Internal Server Error** - The API Application did something wrong.
 
 
 ### Make your error messages as verbose as possible.

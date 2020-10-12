@@ -33,6 +33,6 @@ foreach ($web in $site.AllWebs) {
     }
 }
 
-This script will put the calendars which do not have any events into  **Site Settings**  |  **Recycle Bin** :
+This script will put the calendars which do not have any events into  **Site Settings** |  **Recycle Bin** :
 
 ![Empty Calendars in Recycle Bin folder](EmptyCalendarsInRecyckeBin.png)

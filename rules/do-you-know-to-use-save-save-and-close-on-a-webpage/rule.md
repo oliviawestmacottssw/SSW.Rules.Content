@@ -34,7 +34,7 @@ These three options are:
 
 
 [[goodExample]]
-| ![CRM 2013 provides a *Save* button and a *Save and Close* button](2014-11-27_13-58-48-compressor.png)
+| ![CRM 2013 provides a *Save* button a nd a *Save and Close* button](2014-11-27_13-58-48-compressor.png)
 
 
 

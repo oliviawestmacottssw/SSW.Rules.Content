@@ -23,10 +23,10 @@ Always add "To myself" in the email body - not on the subject - so that other pe
 
 [greyBox]
  
-**From:**  Jay Lin
+**From:** Jay Lin
 
-**To:**  Jay Lin
- **Cc:** Adam Cogan, Lei Xu   
+**To:** Jay Lin
+ **Cc:** Adam Cogan, Lei Xu    
  **Subject:** Add bad example to Rules to Better UI -  Progress bar
 
 -----------

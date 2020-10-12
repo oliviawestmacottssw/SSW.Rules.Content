@@ -79,4 +79,4 @@ this.pictureReportSample.Image = Image.FromFile(appPath + @"\Reports\Images\Blan
 Good code - GetExecutingAssembly().Location will get the pathname of the actual executable and no exception will be thrown.    This exception would never have been found if the developer didn't bother to test the actual installation package on his own machine.
 3. Having tested on the developer's machine, the application must be tested on a virtual machine in a pure environment without dependencies installed in GAC, registry or anywhere else in the virtual machine.
     Users may have MS Access 2000 installed and, the developer's application may behave differently on an older version of MS Access even though it works perfectly on MS Access 2003. The most appropriate way of handling this is to use programs like VM Ware or MS Virtual PC.
-This will help the developer test the application on all possible environments to ensure that it caters for  **all**  users, minimizing the amount of assumptions as possible.
+This will help the developer test the application on all possible environments to ensure that it caters for  **all** users, minimizing the amount of assumptions as possible.

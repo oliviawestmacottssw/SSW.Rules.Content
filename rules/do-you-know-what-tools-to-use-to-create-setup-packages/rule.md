@@ -13,7 +13,7 @@ authors:
 
 Market is full of tools that can create Setup packages, but only a few are really good.
  
-**WiX**  is the ultimate tool which gives you complete freedom and control over Setup packages.
+**WiX** is the ultimate tool which gives you complete freedom and control over Setup packages.
 
 Here are reasons why WiX is the way to go:
 
@@ -28,7 +28,7 @@ Here are reasons why WiX is the way to go:
 | ![WiX Installer for Code Auditor](setup-packages-tool.jpg)
 But WiX has one bad side as well – learning curve is high. Not everyone can afford learning it. The alternative is Advanced Installer.
 
-**Advanced Installer**  makes it easy for you to create Setup packages using a very sophisticated GUI.
+**Advanced Installer** makes it easy for you to create Setup packages using a very sophisticated GUI.
 
 A few reasons why Advanced Installer could be your choice:
 

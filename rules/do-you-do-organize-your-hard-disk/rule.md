@@ -84,7 +84,7 @@ You should always aim to have a clean desktop, without temporary files or unnece
 Delete anything that is not necessary from there and do not save things there by default. Having a messy desktop just makes everything confusing.
 
 
- **4****. Do you keep your Outlook PST/OST separated from your cloud backups? [ - ] 
+ **4** **. Do you keep your Outlook PST/OST separated from your cloud backups? [ - ] 
 **
 
 Tip: You can check where your PST/OST is via Outlook | File | Account Settings | Data Files.
@@ -96,7 +96,7 @@ Outlook mailboxes tend to get huge in size pretty quickly, and your emails are a
 
 Create a temporary folder for temporary files, like "C:\temp". It makes it easier to see.
 
-**6. (** Optional **) Phone - Can you see the files that are on****your PC on your mobile too? [ - ]**
+**6. (** Optional **) Phone - Can you see the files that are on** **your PC on your mobile too? [ - ]**
 
 Install the OneDrive (or your other selected backup application) app on your phone and log in with the same account you used on your PC.
 

@@ -21,4 +21,4 @@ To remove these orphaned users, as a SharePoint Administrator, you can open the 
 On this page you will find a list of all the users that are members of your site collection, including the orphaned users.
 
 ![We have found our orphaned user](PeoplePicker-found.jpg)!
-To remove the user simply click on the  **Username**  | Click  **Delete User from Site Collection** . This will instantly remove the user from the People Picker.
+To remove the user simply click on the  **Username** | Click  **Delete User from Site Collection** . This will instantly remove the user from the People Picker.

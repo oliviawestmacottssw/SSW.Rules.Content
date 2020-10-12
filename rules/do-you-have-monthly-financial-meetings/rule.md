@@ -41,7 +41,7 @@ Here is a sample agenda:
 12. Print Profit and Loss Return % Report
 
 
-**Note:**  the pre-meeting section should be done the day before meeting #1, and a lot of it can be delegated to admin employees
+**Note:** the pre-meeting section should be done the day before meeting #1, and a lot of it can be delegated to admin employees
 
 ### During meeting #1:
 
@@ -51,7 +51,7 @@ Here is a sample agenda:
 3. Review utilization report for the month
 
 
- **Note:**  It's a good idea to record a quick summary of this meeting so people in Meeting #2 know the executive overview.
+ **Note:** It's a good idea to record a quick summary of this meeting so people in Meeting #2 know the executive overview.
 
 
 

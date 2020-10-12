@@ -24,7 +24,7 @@ The following steps will help to guide efforts to implement a performance improv
 7. Repeat steps 4 to 6 until the performance target has been met
 
 
-For  **bonus points**  when you're ready to deploy to production:
+For  **bonus points** when you're ready to deploy to production:
 
 1. Run the performance test against production to establish a production baseline
 2. Deploy the changes to production

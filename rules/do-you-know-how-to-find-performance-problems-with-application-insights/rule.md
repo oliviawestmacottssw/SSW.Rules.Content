@@ -27,7 +27,7 @@ Developers can see the following insights:
 - When your key usage peaks occur
 
 
-Always investigate the spikes first, notice how the two blue ones line up? That should be investigated, however, notice that the green peak is actually at  **4 hours.**  This is definitely the first thing we'll look at.
+Always investigate the spikes first, notice how the two blue ones line up? That should be investigated, however, notice that the green peak is actually at  **4 hours.** This is definitely the first thing we'll look at.
 
 ![The 'Average of Browser page load time by URL base' graph will highlight the slowest page.](performance 2.png)
 As we can see that a single request took four hours in the 'Average of Browser page load time by URL base' graph, it is important to examine this request.

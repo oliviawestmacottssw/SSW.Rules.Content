@@ -76,8 +76,8 @@ Damian
  
 Hi Bob,
 
-1. **Done**  (see [www.ssw.com.au](http://www.ssw.com.au/))
-2. **Not Done**  - We don't have a camera
+1. **Done** (see [www.ssw.com.au](http://www.ssw.com.au/))
+2. **Not Done** - We don't have a camera
 
 
 Damian
@@ -139,7 +139,7 @@ There is no point keeping emails that just clutter your Inbox. You don't need to
 
 ### Tip 6: Include URLs in screen captures
 Screen captures should always include the:
- **\* URL**
+ **\* URL** 
  **\* Top left - so you can see what browser it is eg. Internet Explorer or FireFox** 
 ### Tip 7: When appropriate use text instead of an image
 
@@ -188,7 +188,7 @@ In a development team environment, it is better to move emails to bug tracking s
 
 Record a quick and dirty "[Done Video](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=215be2dd-4a90-4f0f-a5fa-dbed2edca461)"
 
-**VIDEO**  - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
+**VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
 
 ### Tip 12: Remember to thank people - don't be too brief and icy
 

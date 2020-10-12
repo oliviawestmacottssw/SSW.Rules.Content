@@ -14,11 +14,11 @@ A good way to avoid the nasty dial tone midway through your introduction is to a
 So after you've done your introduction here's an example how your conversation should develop. Let's say we're trying to sell some developer training:
 
 [greyBox]
-  **Question 1:**  Jane, have you considered any extra IT training since starting your job? (those that answer no, you're not likely to be targeting)
+  **Question 1:** Jane, have you considered any extra IT training since starting your job? (those that answer no, you're not likely to be targeting)
  **Prospect:** Yes
 
- **Question 2:**  So you'd be interested in increasing your technical programming skills then?
- **Prospect:**  Yes
+ **Question 2:** So you'd be interested in increasing your technical programming skills then?
+ **Prospect:** Yes
 
  **Question 3:**  Great! We're holding unique hands-on developer training sessions which may benefit you greatly. Is this of interest?
  **Prospect:**  OOH YES! 

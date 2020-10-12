@@ -29,7 +29,7 @@ Using theme feature to change the environment color.
 
 ### CRM 2013
 
-Edit:  **\\_controls\navbar\navbar.css**
+Edit:   **\\_controls\navbar\navbar.css**
 
 .navigationControl
 {
@@ -58,7 +58,7 @@ background-color : #bbffaa;
 
 ### CRM 4
 
-Edit, **\****\_common\styles\global.css.aspx**
+Edit, **\** **\_common\styles\global.css.aspx**
 
 [greyBox]
  

@@ -39,7 +39,7 @@ Often it's best to start with some hand-drawn ones to get started. Then if you h
 
 A layout of how the controls will look is usually all that is needed initially, without worrying about images. [An example of Wireframe Mockup](http://www.ssw.com.au/projects/ml_elaw/scenarios/index.html)
 
-**Tip:**  The tools to develop a wireframe depend on your skillset and the front end technology chosen. For example use:
+**Tip:** The tools to develop a wireframe depend on your skillset and the front end technology chosen. For example use:
 
 - Microsoft PowerPoint (ubiquitous)
 - [Balsamiq](http://www.balsamiq.com/) 
@@ -79,7 +79,7 @@ These are concept mockups produced by designers in Photoshop providing a guidanc
 
 [greyBox]
  
-**Warning:**  Don't go down the track of giving a customer a few concepts (on some projects we gave 2 or 3 completely different concepts by different designers). There becomes too much mixing and matching when they see them. Once the images are approved, then the designers slice them up and turn them into HTML (slicing is the exporting of each image).
+**Warning:** Don't go down the track of giving a customer a few concepts (on some projects we gave 2 or 3 completely different concepts by different designers). There becomes too much mixing and matching when they see them. Once the images are approved, then the designers slice them up and turn them into HTML (slicing is the exporting of each image).
  
 [/greyBox]
  

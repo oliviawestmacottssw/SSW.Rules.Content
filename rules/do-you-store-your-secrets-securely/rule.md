@@ -17,7 +17,7 @@ authors:
 
 Most systems will have variables that need to be stored securely; OpenId shared secret keys, connection strings, and API tokens to name a few.
 
-These secrets  **must not**  be stored in source control in plain text – it is insecure by nature, and basically means that it is sitting.
+These secrets  **must not** be stored in source control in plain text – it is insecure by nature, and basically means that it is sitting.
  
 There are many options for managing secrets in a secure way:
 

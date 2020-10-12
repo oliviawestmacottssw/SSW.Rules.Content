@@ -13,8 +13,8 @@ The whole React ecosystem improves every month. Tons of additional tools, librar
 
 Developers still struggle on making a decision on how to setup their React project when joining the React community. There are thousands of boilerplate projects to choose from and every boilerplate project attempts to fulfil different needs. They vary in a range of minimalistic to almost bloated projects. Here are 2 great Starter kits for React developers.
 
-- **[Create React App](https&#58;//github.com/facebook/create-react-app)**  - An officially supported way to start a client-side React project with no configuration
-- **[Next.js](https&#58;//nextjs.org/)**  - Framework for server-rendered or statically-exported React apps
+- **[Create React App](https&#58;//github.com/facebook/create-react-app)** - An officially supported way to start a client-side React project with no configuration
+- **[Next.js](https&#58;//nextjs.org/)** - Framework for server-rendered or statically-exported React apps
 
 
 See more at     [https://reactjs.org/community/starter-kits.html](https&#58;//reactjs.org/community/starter-kits.html)
@@ -29,7 +29,7 @@ JavaScript ES6 and beyond gives you plenty of built-in functionalities dealing w
 
 ### Asynchronous Requests in React
 
-- [native fetch API](https&#58;//developer.mozilla.org/en/docs/Web/API/Fetch_API) . Nowadays, recent browsers implement the <br>       **fetch API**  to conduct asynchronous requests. It uses promises under the hood.
+- [native fetch API](https&#58;//developer.mozilla.org/en/docs/Web/API/Fetch_API) . Nowadays, recent browsers implement the <br>       **fetch API** to conduct asynchronous requests. It uses promises under the hood.
 
 
 - [axios](https&#58;//github.com/mzabriskie/axios). It can be used instead of the native fetch API when your application grows in size. Another alternative is called <br>      [superagent](https&#58;//github.com/visionmedia/superagent).
@@ -44,7 +44,7 @@ Creates a selector where the first functions passed in compute props for a final
 
 ### Global Serverless Deployments
 
-**Now**  makes serverless application deployment easy.
+**Now** makes serverless application deployment easy.
 [https://zeit.co/now](https&#58;//zeit.co/now)
 
 ### Testing

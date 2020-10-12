@@ -24,7 +24,7 @@ The best tweets will use a combination of @mentions and #hashtags where appropri
 ### Tips for companies
 
 
-**Tip #1:**Encourage people to use the correct hashtag by adding the hashtag to your sidebar or footer.
+**Tip #1:** Encourage people to use the correct hashtag by adding the hashtag to your sidebar or footer.
  
 ![On https://www.ssw.com.au/ssw/netug you can see the sidebar shows a feed with the hashtag used](hashtag-stream.jpg)
 **Tip #2:** When creating your own hashtag to promote a service, product or event, check if it isn't already in use for anything else.
@@ -32,17 +32,17 @@ The best tweets will use a combination of @mentions and #hashtags where appropri
 ### Tips for everyone
 
 
-**Tip #3:**  Don't use too many hashtags – 2 or 3 maximum per post, or you may appear to be "spammy" and turn people off.
+**Tip #3:** Don't use too many hashtags – 2 or 3 maximum per post, or you may appear to be "spammy" and turn people off.
 
-**Tip #4:**  Keep your hashtags on topic – again, you might seem "spammy" if you use hashtags that are unrelated to your post.
+**Tip #4:** Keep your hashtags on topic – again, you might seem "spammy" if you use hashtags that are unrelated to your post.
 
 **Tip #5** : For more readability, capitalise the first letter of each word, for example, #SocialMedia.
 
 ### Examples of hashtags we use
 
 
-- **#SSW**  - For our company-related posts
-- **#SSWRules**  - For our public standards
-- **#SSWTV**  - For our video channel
+- **#SSW** - For our company-related posts
+- **#SSWRules** - For our public standards
+- **#SSWTV** - For our video channel
 - **#SSWTraining** - For our training programs
 - **#AngularHackDay** - For one of our "Hack Day" training events

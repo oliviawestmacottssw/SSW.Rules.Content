@@ -24,7 +24,7 @@ Whatever you use, your toolchain/process/IDE should fulfil the following user st
 1. **As a developer** working on a code file <br>      
 **I want to** easily view a file’s change history and navigate to the work items that were associated with the changes <br>      
 **So that I can** fix a recently introduced bug quickly
-2. **As a senior software developer**
+2. **As a senior software developer** 
 **I want to** browse work items of junior developers, and have it linking/showing the code <br>      
 **So that I can** easily review their recent code
 

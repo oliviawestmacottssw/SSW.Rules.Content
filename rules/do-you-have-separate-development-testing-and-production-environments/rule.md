@@ -18,9 +18,9 @@ Read more about setup packages at [SSW's Wise Standard for Products.](http://www
 
 Whenever an application has a database, have a visual indicator. I recommend a different background color for each environment
 
-- Red for the  **Development**  database
-- Yellow for the  **Test**  database
-- Grey (no colour) for the  **Production**  database
+- Red for the  **Development** database
+- Yellow for the  **Test** database
+- Grey (no colour) for the  **Production** database
 
 
 Note: The Yellow might have been Orange (kind of like traffic lights) but the color palette in Word doesn't give Orange.
@@ -28,8 +28,8 @@ Note: The Yellow might have been Orange (kind of like traffic lights) but the co
 ![colors in Word color palette](WordColorPallete.GIF)
 This prevents testers from accidentally entering test data into the production version.
 
-**Windows Forms Tip:**  Implement in the base form in the header 
-**ASP.NET (at least version 2.0) Tip:**  Implement in the master form in the header
+**Windows Forms Tip:** Implement in the base form in the header 
+**ASP.NET (at least version 2.0) Tip:** Implement in the master form in the header
 
 ![Spice up your environments with different colors](dev_test_prod_servers.gif)
 An application of this rule is how we identify our CRM servers - see rule [Do you identify Development, Test and Production CRM Web Servers by colors?](/do-you-identify-development-test-and-production-crm-web-servers-by-colors)

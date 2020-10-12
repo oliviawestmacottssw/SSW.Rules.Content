@@ -13,7 +13,7 @@ As an API provider, one of your most important tasks is to make sure that breaki
  
 There are typically three main ways people provide versioning.
 
-1. **Change the URL:**  Append a version number in the path
+1. **Change the URL:** Append a version number in the path
 e.g. [https://developer.github.com/v3/](https&#58;//developer.github.com/v3/)
     1. Best choice for anonymous API access (callers may not be authenticated)
     2. E.g. Github, Twitter
@@ -27,6 +27,6 @@ e.g. [https://developer.github.com/v3/](https&#58;//developer.github.com/v3/)
 
 All of these methods work well. The above list is in order of our recommendations.
 
-**Option 2**  is a viable solution as you only have a few authenticated users that will consume the web service. It also allows you to notify users if they are using an old version that will be decommissioned.
+**Option 2** is a viable solution as you only have a few authenticated users that will consume the web service. It also allows you to notify users if they are using an old version that will be decommissioned.
 
 If you are working with objects, keep the object id in the URL and leave everything else to the query string.

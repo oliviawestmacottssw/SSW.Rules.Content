@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Inevitably, our well-engineered Angular application will need to send and receive data from a service of some sort – usually a Web API. A common mistake people make when doing this is using typescript’s built in  **any**  type for these services, which offers no type safety whatsoever.
+Inevitably, our well-engineered Angular application will need to send and receive data from a service of some sort – usually a Web API. A common mistake people make when doing this is using typescript’s built in  **any** type for these services, which offers no type safety whatsoever.
  
 [[badExample]]
 | ![The "any" type is used as the DTO for this service. There is no type safety.](dtogs-bad.png)

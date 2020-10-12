@@ -33,7 +33,7 @@ if (!('IntersectionObserver' in window)) {
                console.log("Support intersection");
 }
 
-**Note:**  You can use a polyfill library to add  **IntersectionObserver**  support to older browsers.
+**Note:** You can use a polyfill library to add  **IntersectionObserver** support to older browsers.
 
 2.	If the browser supports IntersectionObserver, in your page html, change the “src” of “
 ![]()” to “data-src”

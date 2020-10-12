@@ -63,7 +63,7 @@ This can keep track of important things like client work and leave. See [Schedul
 
 
 
-**Note:**  This will only show appointments that have been tracked in CRM.
+**Note:** This will only show appointments that have been tracked in CRM.
 
 ### Option 3: Using SharePoint's calendars - See a team's calendar
 

@@ -22,7 +22,7 @@ For a   **fixed price** project, exact figures should be used. This makes sure t
 
 A round figure gives the impression that it was just plucked out of thin air and you can go lower.
 
-**Note****: ** Whether round or exact, [make sure your dollar amount is excluding GST, and has "+GST" after it](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b1426257-e3df-404a-a6a8-4d257f5439a2).
+**Note** **: ** Whether round or exact, [make sure your dollar amount is excluding GST, and has "+GST" after it](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b1426257-e3df-404a-a6a8-4d257f5439a2).
 The project will take about 6 months to complete and cost $200,000+GST
 Bad Example - You've just made that number up, you can go lower
 An exact figure gives the impression that you've done your research and there isn't as much room to move.

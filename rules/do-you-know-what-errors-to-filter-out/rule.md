@@ -18,7 +18,7 @@ Luckily RayGun has built-in filtering to hide these frequent exceptions.
 ![](raygun-filter.png) 
 To enable filtering:
 
-1. Under  **Crash Reporting**  > select  **Filtering**
+1. Under  **Crash Reporting** > select  **Filtering**
 2. SSW recommends you turn on the following rules
     1. Discard any requesters where the user-agent is a known crawler bot
     2. Discard any request for non-existent resources (404)

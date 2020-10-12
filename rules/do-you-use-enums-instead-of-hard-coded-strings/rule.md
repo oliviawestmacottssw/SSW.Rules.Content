@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Use Enums instead of hard-coded strings, it makes your code lot  **cleaner**  and is  **really easy to manage** .
+Use Enums instead of hard-coded strings, it makes your code lot  **cleaner** and is  **really easy to manage** .
   
 [[badExample]]
 | !["Hard- coded string" works, but is a bad idea](EnumBadExample.jpg)

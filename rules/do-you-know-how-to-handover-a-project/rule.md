@@ -45,8 +45,8 @@ Subject: SSW - Northwind handover**
 
 Done
 
-- **Confirm outstanding tasks**    Nothing.
-- **Confirm planned tasks**    Get release 43 out.
+- **Confirm outstanding tasks**     Nothing.
+- **Confirm planned tasks**     Get release 43 out.
 - **Confirm location**
     - Source control        Nothing
     - Data storage        file://server/DataSSW/SSWProducts/Northwind
@@ -55,9 +55,9 @@ Test: seadragon
 Production: squirrel
     - Failure & Recovery        Do not work on the Master folder, work on local machine. If it has some issue, grab the file from master folder.
 Always backup master folder’s file before uploading the changes to the master folder
-- **Update the Employee Responsibilities in SSW intranet**    **TODO**
+- **Update the Employee Responsibilities in SSW intranet**     **TODO**
 
-  **Figure Bad Example - This handover is incomplete and light on details**
+  **Figure Bad Example - This handover is incomplete and light on details** 
  
 **From: Andy
 To: Gracia
@@ -65,8 +65,8 @@ Subject: SSW - Northwind Handover**
 
 Done - As per our meeting the handover has been completed to my satisfaction
 
-- **Confirm outstanding tasks**    Nothing.
-- **Confirm planned tasks**    Next release is Release 43.
+- **Confirm outstanding tasks**     Nothing.
+- **Confirm planned tasks**     Next release is Release 43.
 The aim of this release is to improve the reporting available from the management module with chart reports
 Query = tfs\Northwind\Work Items\Team Queries\All Work Items - R43 - Management Module Reporting
     Backlog is in TFS.
@@ -83,7 +83,7 @@ database: SSWNorthwind
     - Failure & Recovery        Do not work on the Master folder, work on a local machine. If it has some issue, grab the file from the master folder.
 Always backup master folder’s file before uploading the changes to the master folder.
 If a problem occurs, restore the backup of the master folder and restart
-- **Update the Employee Responsibilities in SSW intranet**    DONE
+- **Update the Employee Responsibilities in SSW intranet**     DONE
 - **Complete Handover**
 
   **Figure: Good Example - This handover has lots of URLs and is complete** 

@@ -18,8 +18,8 @@ Putting all the field binding code AND the business rule in the
 control
 
 - **Bad:** Business logic is in the presentation layer (.aspx file)
-- **Bad:**  No intellisense
-- **Bad:**  Compile errors are not picked up
+- **Bad:** No intellisense
+- **Bad:** Compile errors are not picked up
 
  
 
@@ -28,10 +28,10 @@ control
  Bad code 
 Putting the code on the ItemDataBound Event.
 
-- **Good:**  Business logic is in the code behind (.vb or .cs file)
-- **Good****:**  intellisense
-- **Bad:**  Code Bloat
-- **Bad:**  Have to use server control for all controls (viewstate bloat)
+- **Good:** Business logic is in the code behind (.vb or .cs file)
+- **Good** **:** intellisense
+- **Bad:** Code Bloat
+- **Bad:** Have to use server control for all controls (viewstate bloat)
 
 
 **In server page:**

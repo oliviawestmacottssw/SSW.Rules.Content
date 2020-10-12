@@ -24,7 +24,7 @@ SQL Reporting Services appears happy in the Advanced Configuration Wizard. Anyon
 MikeFigure: Good example – this reads better
 Your new text should be kept to the left. When quoting text on web pages, other people or quoting past email history, indent it.
 
-**Note:**  This is almost as important as the     [Do you use balloons instead of a 'Wall of Text'?](/Pages/HowToUseBalloons.aspx) rule.
+**Note:** This is almost as important as the     [Do you use balloons instead of a 'Wall of Text'?](/Pages/HowToUseBalloons.aspx) rule.
 
 ### Related Rule 
 

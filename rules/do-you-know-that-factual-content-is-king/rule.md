@@ -11,7 +11,7 @@ authors:
 
 ---
 
-It is easy to think that    "Content is King"; it is a well-known        [quote from an article by Bill Gates in 1996](http&#58;//www.craigbailey.net/content-is-king-by-bill-gates/).  But    incorrect content is not  very useful, so we think that " **factual**  content is king".
+It is easy to think that    "Content is King"; it is a well-known        [quote from an article by Bill Gates in 1996](http&#58;//www.craigbailey.net/content-is-king-by-bill-gates/).  But    incorrect content is not  very useful, so we think that " **factual** content is king".
  
 You should always:
 

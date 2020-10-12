@@ -31,13 +31,13 @@ Alternatively, you can use SQL Management Studio to generate a Database diagram.
 
 ![Tables populated](SqlDiagramTablesPopulated.png)
 
-5.	Click off the tables in the diagram and  **Ctrl+A**  to Select all
+5.	Click off the tables in the diagram and  **Ctrl+A** to Select all
 6.	Right-Click one of the tables in the diagram and perform the following
 
 
-> a.	Select  **Table View | Standard**  from the menu
+> a.	Select  **Table View | Standard** from the menu
 > 
-> b.	Select  **Autosize Selected Tables**  from the menu
+> b.	Select  **Autosize Selected Tables** from the menu
 > 
 ![Changing the database table diagram to Standard View and Autosize](SqlDiagramStandardAutoSize.png)
 

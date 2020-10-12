@@ -26,9 +26,9 @@ In the above example you can clearly see:
 - The References solution folder: to hold any 3rd party assemblies that are not available via NuGet
 
 
-Common Library projects are named      **[Company].[AssemblyName]** . E.g.      **BCE.Logging**  is a shared project between all solutions at company BCE.
+Common Library projects are named      **[Company].[AssemblyName]** . E.g.      **BCE.Logging** is a shared project between all solutions at company BCE.
 
-Other projects are named      **[Company].[Solution Name].[AssemblyName]** . E.g.      **BCE.Sparrow.Business**  is the Business layer assembly for company ‘BCE’, solution ‘Sparrow’.
+Other projects are named      **[Company].[Solution Name].[AssemblyName]** . E.g.      **BCE.Sparrow.Business** is the Business layer assembly for company ‘BCE’, solution ‘Sparrow’.
 
 We have separated the unit tests, one for each project, for several reasons:
 

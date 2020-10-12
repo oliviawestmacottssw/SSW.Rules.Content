@@ -26,10 +26,10 @@ The first step is to analyse the priority of the additional item.
 
 Let's look at the rules to how to prioritize:
 
-1. **By Default, move Tasks into the Next Sprint.**
+1. **By Default, move Tasks into the Next Sprint.** 
 Priority is dependent upon the severity of the request. Only if it is a 'critical bug', then it will be done "in this sprint", most tasks however go "in a later sprint". They can include new feature requests, non-critical bug fixes, modifications and undiscovered work (i.e. work you didn't initially anticipate).  
 [greyBox]
-  **Note:**  On a fixed price contract the rules change. Bugs should be fixed in the current sprint if time allows, otherwise first thing in the next sprint as they are stopping you from being paid.  
+  **Note:** On a fixed price contract the rules change. Bugs should be fixed in the current sprint if time allows, otherwise first thing in the next sprint as they are stopping you from being paid.  
 [/greyBox]
 2. **Exception #1 - Critical Bugs go into this Sprint** 
 If you have a crash-to-code bug, most of the time it will go into this sprint. If it prevents one or more users accessing the system, it will  go into this sprint. Only high-priority bugs are fixed "in this sprint".
@@ -55,6 +55,6 @@ Please use the text Ascending instead of "smallest to Largest" and Descending fo
 
 Thanks Alan
 
- **Figure: The above is a sample from a customer will by default, go into a later sprint, not the current sprint.**<br>What tools can you use to get tasks from your inbox into a task tracking system?
+ **Figure: The above is a sample from a customer will by default, go into a later sprint, not the current sprint.** <br>What tools can you use to get tasks from your inbox into a task tracking system?
 5. **Use a Good 3rd party Tool to Manage Additional Requests
 **     Since most feedback comes into your Outlook inbox, find a tool that converts an email into a task. The best one is [TeamCompanion for TFS](http://www.ssw.com.au/ssw/Standards/DeveloperGeneral/TFS.aspx)

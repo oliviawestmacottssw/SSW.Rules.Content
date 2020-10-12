@@ -18,7 +18,7 @@ The procedure for upgrading CRM 2015 to 2016 is:
 
 2. Go to CRM server | Deployment Manager | Disable CRM organization
 
-![Disable organization](disable_org.png)
+![Disable organization ](disable_org.png)
  ** 
 3. Back up CRM organization database and configuration database
 
@@ -33,7 +33,7 @@ The procedure for upgrading CRM 2015 to 2016 is:
 Note: It's better to have an empty demo organization to be upgraded first, so that you can test if the server upgrade has no issues.
 
 ![Successfully upgraded CRM server](upgrade_successfully.png)
-![Quick test on the demo organization](test_demo_org.png)
+![Quick test on the demo organization ](test_demo_org.png)
 ![Upgrade business organization](upgrade_businessOrg.png)
 ![Successfully upgrade organization](upgrade_org_successfully.png)
    ** 
@@ -47,11 +47,11 @@ If using Email Router, do the following 2 steps to upgrade Email Router to 2016
 
 7. Go to CRM server | Uninstall "Microsoft Dynamics CRM 2015 Email Router"
 
-![Uninstall Email Router 2015](uninstall_emailRouter.png)
+![Uninstall Email Router 2015 ](uninstall_emailRouter.png)
  ** 
 8. Download [CRM 2016 Email Router](https://www.microsoft.com/en-us/download/details.aspx?id=50373) and install
 
 ![Install required components for Email Router 2016](install_emailRouter.png)
-![Successfully installed Email Router 2016](emailRouter_installtionFinish.png)
+![Successfully installed Email Router 2016 ](emailRouter_installtionFinish.png)
 ![Configure Email Router ](configurate_emailrouter_2.png)
 You're now ready to roll with Microsoft Dynamics CRM 2016. If you had any trouble with this guide, please let us know with a rating of this rule.

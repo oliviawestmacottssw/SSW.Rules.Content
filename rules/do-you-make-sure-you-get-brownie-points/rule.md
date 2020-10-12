@@ -14,15 +14,15 @@ People are not mind-readers (unless they are telepathic!), so when you get good 
 [greyBox]
  
 
-| **To:** | John Smith - CEO Qwerty Organization  |
+| **To:**  | John Smith - CEO Qwerty Organization  |
 | --- | --- |
-| **CC:** | Adam Cogan - SSW Manager  |
-| **From:** | Sophie Belle - SSW Developer  |
-| **Subject:** | FW: .NET Development Work for Qwerty Organization by SSW <br>                     <br> |
+| **CC:**  | Adam Cogan - SSW Manager  |
+| **From:**  | Sophie Belle - SSW Developer  |
+| **Subject:**  | FW: .NET Development Work for Qwerty Organization by SSW <br>                     <br> |
 | John,<br><br>FYI - see next email. As you can see, I am loved :)<br><br>Regards,                          <br> Sophie Belle                          <br>www.ssw.com.au<br><br>----- |
-| **To:** | Sophie Belle - SSW Developer  |
-| **From:** | Amanda Panda - Qwerty Organization  |
-| **Subject:** | .NET Development Work for Qwerty Organization by SSW  |
+| **To:**  | Sophie Belle - SSW Developer  |
+| **From:**  | Amanda Panda - Qwerty Organization  |
+| **Subject:**  | .NET Development Work for Qwerty Organization by SSW  |
 | Sophie,<br><br>Thanks for the latest release.<br> It is fantastic! Thank you for all your hard work and commitment to helping implement this solution.<br><br>Regards,                          <br> Amanda Panda                          <br> Qwerty Organization |
 
 

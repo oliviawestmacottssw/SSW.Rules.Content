@@ -32,7 +32,7 @@ To do this:
 
 
 
-**PrefixStyleSheet="ssw15-rte"**  CssClass="ssw-inputeditorfield" id="Content" FieldName="PublishingPageContent" InputFieldLabel="Rule Summary Info" runat="server"/>
+**PrefixStyleSheet="ssw15-rte"** CssClass="ssw-inputeditorfield" id="Content" FieldName="PublishingPageContent" InputFieldLabel="Rule Summary Info" runat="server"/>
 
 
 
@@ -56,7 +56,7 @@ After="<% $SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/pa
 
 
 
-**After** ="<%$SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/ <strong>editmode15.css</strong>   %>" />
+**After** ="<%$SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/ <strong>editmode15.css</strong> %>" />
 
 
 
@@ -108,7 +108,7 @@ font-size:12px;
 
 }
 
-This  **Code Area**  style will come up in "Page Elements" section:
+This  **Code Area** style will come up in "Page Elements" section:
 
 ![Code Area style come up in "Page Elements" seciton](CodeArea.png)
 
@@ -169,7 +169,7 @@ background-color: #FFFF00;
 
 }
 
-This  **Highlight**  style will come up in "Text Styles" section:
+This  **Highlight** style will come up in "Text Styles" section:
 
 ![Highlight style will come up in "Text Styles" section](HighLight.png)
 
@@ -188,7 +188,7 @@ That means all "Text Styles" will apply to  tag, and you cannot apply two "Text 
 
 
 
-4) .ssw15-rte **Table -**  Tell SharePoint the definition of custom table styles. After inserting a table, you can see the styles under "Design" tab:
+4) .ssw15-rte **Table -** Tell SharePoint the definition of custom table styles. After inserting a table, you can see the styles under "Design" tab:
 
 
 

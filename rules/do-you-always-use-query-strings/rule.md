@@ -21,4 +21,4 @@ You may hear that query strings are bad and they leave you wide open to SQL Inje
 
 The bottom line is that if you are not giving appropriate parameters in the query string then you are reducing functionality.
 
-**Note:**  We all agree bookmarks are useful - it's the same for query strings.
+**Note:** We all agree bookmarks are useful - it's the same for query strings.

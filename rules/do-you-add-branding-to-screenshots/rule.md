@@ -35,4 +35,4 @@ Find SSW Snagit theme here: [\\fileserver\DataSSW\DataSSWEmployees\Templates\SSW
 
 Instructions to create and use Snagit themes can be found at     [Quick Style Themes Tutorial](https://www.techsmith.com/tutorial-snagit-13-quick-style-themes.html?utm_source=product&utm_medium=snagit&utm_campaign=sw13).
 
-**Tip:**  You can automatically have your SSW Snagit presets on sign-in via a script. See https://github.com/SSWConsulting/LoginScript.
+**Tip:** You can automatically have your SSW Snagit presets on sign-in via a script. See https://github.com/SSWConsulting/LoginScript.

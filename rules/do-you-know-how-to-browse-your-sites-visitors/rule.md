@@ -23,21 +23,21 @@ The Visitors activity gives you a birds-eye view of all the visitors on your web
 - **Active Visitors:** Visitors who are moving around the website and clicking on links.  <br>
 
 
-Click the  **List** tab  to view visitors in a list, as shown above, or click  **Visual**  to see visitors in visual mode.
+Click the  **List** tab  to view visitors in a list, as shown above, or click  **Visual** to see visitors in visual mode.
 
 **Grouping visitors**
 
 This is the primary view of the Visitor List, but you can also monitor them in a number of different ways:
 
 ![](zendesk-visitors-2.png)
-- **Activity:**  This is the default page and breaks down visitors based on the actions they have taken on your website.
-- **Page Title:**  Groups visitors based on the page they are on.
-- **Page URL:**  Groups visitors based on the URL/link they are on. This is normally different from the Page Title.
-- **Country:**  Groups visitors based on the country they are from. The visitor's IP address tells us which country they are from.
-- **Serving Agent:**  Groups visitors based on the agent who is serving them.
+- **Activity:** This is the default page and breaks down visitors based on the actions they have taken on your website.
+- **Page Title:** Groups visitors based on the page they are on.
+- **Page URL:** Groups visitors based on the URL/link they are on. This is normally different from the Page Title.
+- **Country:** Groups visitors based on the country they are from. The visitor's IP address tells us which country they are from.
+- **Serving Agent:** Groups visitors based on the agent who is serving them.
 - **Department:** Groups visitors based on department.
-- **Browser:**  Groups visitors based on the browser they are using to access your website.
-- **Search Engine:**  If the visitors arrived at your website through a search engine (e.g. Google), they will be grouped under this category.
+- **Browser:** Groups visitors based on the browser they are using to access your website.
+- **Search Engine:** If the visitors arrived at your website through a search engine (e.g. Google), they will be grouped under this category.
 - **Search Term:** If the visitors typed in a search term to get to your website, they will be grouped in this section based on the term they used. <br>
 
 
@@ -49,7 +49,7 @@ Unlike the standard Visitor List, the High Load Dashboard only shows Incoming an
 
 **To enable the High Load Dashboard**
 
-1. From the dashboard, go to  **Settings** >  **Account**  >  **Visitor List** tab.
+1. From the dashboard, go to  **Settings** >  **Account** >  **Visitor List** tab.
 2. Select the  **High Load Dashboard** check box.  <br>      
 ![](zendesk-visitors-3.png)
 3. Click  **Save Changes** .

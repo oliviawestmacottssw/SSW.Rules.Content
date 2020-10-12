@@ -15,7 +15,7 @@ authors:
 
 It is good practice to be clear on what you want. One way you can make things clearer is to number tasks or questions.
 
-**Note:**  Receiving an email with just numbered items is cold - An email with a paragraph of context, then numbers is much nicer
+**Note:** Receiving an email with just numbered items is cold - An email with a paragraph of context, then numbers is much nicer
  
 [greyBox]
  

@@ -7,7 +7,7 @@ authors: []
 
 ---
 
-ComboBoxes are better than List Boxes  **for data entry**  because:
+ComboBoxes are better than List Boxes  **for data entry** because:
 
 - They occupy less screen space
 - They are less trouble to scroll through, owing to the fact that you can afford to have more room for the list (as it's collapsed most of the time)

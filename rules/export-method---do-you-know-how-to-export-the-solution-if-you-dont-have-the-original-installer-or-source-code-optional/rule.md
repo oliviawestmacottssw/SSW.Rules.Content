@@ -18,4 +18,4 @@ authors:
 
 1. Download  **Solution Exporter** from [Mark Wagner's Cogitation Blog](http&#58;//blog.crsw.com/2007/11/01/how-to-create-a-sharepoint-solution-for-an-infopath-form/) and run it on the SharePoint 2007 server. This allows you to export the installed solutions from the source SharePoint server.
 2. Export all of the solutions out of the SharePoint farm.
-3. Copy the  **C:\SharePointCustomizations**  folder to the destination SharePoint 2010 server.
+3. Copy the  **C:\SharePointCustomizations** folder to the destination SharePoint 2010 server.

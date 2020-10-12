@@ -24,13 +24,13 @@ You should always have two builds on your team project. These should be setup an
 ![Two builds named in the format](Builds.jpg)[TeamProject].[AreaPath]\_[Branch].|CI|Nightly] for every branch. These builds should use the same XAML build workflow; however you may set them up to run a different set of tests depending on the time it takes to run a full build.  
 
 - 
-- **CI**  - This should run all Unit Tests and all of the automated UI tests. It is run after a successful developer check-in.
- **Note:**  This build should take no more than 10 minutes to run.
-- **Nightly**  - The Nightly build should run all of the Unit Tests, all of the Automated UI tests and all of the Load and Performance tests. The nightly build is time consuming and will run but once a night. Packaging of your Product for testing the next day may be done at this stage as well.
- **Note:**  This build can take as long as it needs to - of course more than 24 hours is too long.
+- **CI** - This should run all Unit Tests and all of the automated UI tests. It is run after a successful developer check-in.
+ **Note:** This build should take no more than 10 minutes to run.
+- **Nightly** - The Nightly build should run all of the Unit Tests, all of the Automated UI tests and all of the Load and Performance tests. The nightly build is time consuming and will run but once a night. Packaging of your Product for testing the next day may be done at this stage as well.
+ **Note:** This build can take as long as it needs to - of course more than 24 hours is too long.
 
 
- **Reminder:**The same build rules apply to 'release' branches as the 'trunk' branch. Review our rule [Do You Know When To Branch?](/do-you-know-when-to-branch) for more information on the best branching strategy.  
+ **Reminder:** The same build rules apply to 'release' branches as the 'trunk' branch. Review our rule [Do You Know When To Branch?](/do-you-know-when-to-branch) for more information on the best branching strategy.  
 
 
 

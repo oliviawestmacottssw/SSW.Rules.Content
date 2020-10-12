@@ -22,4 +22,4 @@ Using NSwag you should generate your API client eg. Angular Client.
 
 Now this is automated this is no longer a concern we need to deal with.
 
-**More info:**http://www.codingflow.net/building-single-page-applications-on-asp-net-core-2-1-with-angular-6-part-3-implementing-open-api/
+**More info:** http://www.codingflow.net/building-single-page-applications-on-asp-net-core-2-1-with-angular-6-part-3-implementing-open-api/

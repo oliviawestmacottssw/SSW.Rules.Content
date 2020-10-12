@@ -15,7 +15,7 @@ As all these rules indicate, email can either be a blessing or a curse. One of t
 ![](MetaGroupPhoneOverEmail.gif) 
 ![](MetaGroupEmailOverPhone.gif)
  **Figures: a 
-![](../../assets/IconPdf.gif) [Meta Group survey](http://www.ssw.com.au/ssw/Redirect/SSWUpdate/0304MetagroupUsersPreferEmailPDFReport.htm) found that 81% of respondents preferred the phone above email to build relationships, but 80% preferred email generally**
+![](../../assets/IconPdf.gif) [Meta Group survey](http://www.ssw.com.au/ssw/Redirect/SSWUpdate/0304MetagroupUsersPreferEmailPDFReport.htm) found that 81% of respondents preferred the phone above email to build relationships, but 80% preferred email generally** 
 1. When you want to discuss an issue and make a decision
 2. When you are dealing with a 'delicate' problem
 

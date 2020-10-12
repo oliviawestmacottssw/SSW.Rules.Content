@@ -17,7 +17,7 @@ What you need to do is to set a rule to delay sending your emails in 15 minutes 
  
 Here is how you do it in Outlook :
 
-1. Click the  **File**  tab.
+1. Click the  **File** tab.
 2. Click  **Manage Rules & Alerts** .
 3. Click  **New Rule** .
 4. In the Step 1: Select a template box, under Start from a Blank Rule, click  **Apply rule on messages I send** , and then click  **Next** .

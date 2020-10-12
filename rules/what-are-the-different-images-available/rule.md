@@ -10,7 +10,7 @@ authors: []
 We have three types of VM images around the office.
 
 1. The master.vhd is for upgrading future VMs and sysprep VM's are built from the master.vhd
-The  **master.vhd is versioned (e.g. master\_v8.vhd)**  to track which version it is, and to assist us in upgrading the master image.
+The  **master.vhd is versioned (e.g. master\_v8.vhd)** to track which version it is, and to assist us in upgrading the master image.
 2. The sysprep.vhd is the one that we use to create a new SharePoint server 
 When you run the sysprep.vhd it will create a new SharePoint server. Always make a copy of this to your own machine. The  **sysprep.vhd is versioned (e.g. sysprep\_v8.vhd)**
 3. You may find various other VM's created from sysprep.vhd and used for various projects or experiments

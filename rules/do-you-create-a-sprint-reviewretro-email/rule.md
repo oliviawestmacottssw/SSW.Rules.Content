@@ -102,11 +102,11 @@ As part of our commitment to inspect and adapt as a team we conduct a Sprint Ret
 
 **What improvements will be made for the next Sprint?**
 
-**Definition of Ready*****- Optional***
+**Definition of Ready** ***- Optional***
 
 
 
-**Definition of Done*****- Optional***
+**Definition of Done** ***- Optional***
 
 
 

@@ -11,7 +11,7 @@ authors:
 
 ---
 
-What brings customers back to your website time and time again? ** It's fresh content.**  Keep your website up to date by creating and updating pages, which will drive customer interest. 
+What brings customers back to your website time and time again? ** It's fresh content.** Keep your website up to date by creating and updating pages, which will drive customer interest. 
  
 The quickest and easiest way to post fresh content to your existing site is to implement a CMS. These are a few that we can recommend using:
 

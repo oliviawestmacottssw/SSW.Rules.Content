@@ -72,7 +72,7 @@ Once you've decided who your target market is, ask yourself:
 
 Now you know your audience, you need to stand out to them.  You can do this by having a great Value Proposition featured on your website and throughout your campaigns.
 
-Your Value Proposition is hands down one of the most important elements in your marketing message. It tells your potential clients  **why they should choose you over any of your competitors**  and it makes the benefits of your products or services crystal clear from the get-go.
+Your Value Proposition is hands down one of the most important elements in your marketing message. It tells your potential clients  **why they should choose you over any of your competitors** and it makes the benefits of your products or services crystal clear from the get-go.
 
 It can be the key to attracting new business, increasing sales, and making your business a success. The main objective is to target specific groups of consumers to make your campaigns more cost-effective and making the promotion, pricing, and distribution of your products and/or services easier.
 The key to this, is not burying your message in buzzwords or meaningless slogans. You need to highlight your message, and make it a focal point on your website, and marketing campaigns.  

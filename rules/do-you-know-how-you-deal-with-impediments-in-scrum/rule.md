@@ -25,13 +25,13 @@ Separate out these as Point Cards
 ![Point cards](point-cards.jpg)
 # Set Timeboxes
 
-**Sprint Planning (What):**  20 minutes
-**Sprint Planning (How):**  20 minutes
-**Each Day:**  10 minutes ( x 9 days = 90 minutes)
-**Review:**  20 minutes
-**Retro:**  20 minutes
+**Sprint Planning (What):** 20 minutes
+**Sprint Planning (How):** 20 minutes
+**Each Day:** 10 minutes ( x 9 days = 90 minutes)
+**Review:** 20 minutes
+**Retro:** 20 minutes
 
-**Total for 1 complete Sprint:**  170 minutes (~3 hours)
+**Total for 1 complete Sprint:** 170 minutes (~3 hours)
 
 # Sprint Planning Meeting (What)
 

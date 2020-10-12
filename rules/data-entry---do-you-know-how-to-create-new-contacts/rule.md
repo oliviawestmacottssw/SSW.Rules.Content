@@ -9,7 +9,7 @@ authors:
 
 ---
 
-**Tip #1:**  Avoid duplicates - Search to see if the Contact already exists before creating it.
+**Tip #1:** Avoid duplicates - Search to see if the Contact already exists before creating it.
 
  **Tip #2:** Generally you should be [creating these from leads](/Pages/Leads-can-be-converted-to-Opportunities-Contacts-and-Accounts.aspx), as it speeds up the process.
 

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Labels provide an easy way to show text in a form. It is recommended to consistently keep labels as clean as possible, without having them ending a colon [  **:**  ], which is a common thing to do in Windows Forms.
+Labels provide an easy way to show text in a form. It is recommended to consistently keep labels as clean as possible, without having them ending a colon [  **:** ], which is a common thing to do in Windows Forms.
  
 [[badExample]]
 | ![Labels with ":" at the end](LabelBad.gif)

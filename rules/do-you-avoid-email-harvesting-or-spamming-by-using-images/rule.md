@@ -9,5 +9,5 @@ authors: []
 
 Do you want to avoid email harvesting or spamming? This will avoid such spamming problems:
 
-1. **Email Address display.**  Simply use email images e.g. <br>
-2. **Email Address link for mailto.**  Use JavaScript function for generating mailto from encrypted text. e.g.<br>
+1. **Email Address display.** Simply use email images e.g. <br>
+2. **Email Address link for mailto.** Use JavaScript function for generating mailto from encrypted text. e.g.<br>

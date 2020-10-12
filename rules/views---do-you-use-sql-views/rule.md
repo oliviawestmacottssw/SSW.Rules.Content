@@ -53,7 +53,7 @@ Disadvantages:
 
 - Views depend on the underlying tables for its data, so if the structure of the tables change it may break the view.
 
- **3. Update Restrictions** 
+  **3. Update Restrictions** 
 
 - Depending on the complexity of the view, you may not be able to modify the data through the view to the underlying base tables.
 

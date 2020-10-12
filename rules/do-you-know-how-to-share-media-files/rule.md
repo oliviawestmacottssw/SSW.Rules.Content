@@ -28,7 +28,7 @@ Ideally SharePoint would be used for all content storage but occasionally it is 
 [[badExample]]
 | ![Files shared via SkyDrive are hard to back up centrally. When you share folders through OneDrive](share-media-files-3.jpg)(was SkyDrive) they are only made available through the web interface
 [greyBox]
-  **Suggestion to OneDrive (was SkyDrive) Team #2:**  When folders are shared with another OneDrive user, the shared folder should appear in the recipients OneDrive folder. This allows it to be backed up by a central user at HQ. 
+  **Suggestion to OneDrive (was SkyDrive) Team #2:** When folders are shared with another OneDrive user, the shared folder should appear in the recipients OneDrive folder. This allows it to be backed up by a central user at HQ. 
 [/greyBox]
  
 [[goodExample]]

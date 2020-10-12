@@ -21,7 +21,7 @@ replace  with
 Figure: Bad example - changing source PHP files is complicated and require developer skills  
 [[goodExample]]
 | ![click on the "Read More" tag on the post visual editor](readmore-tag.png)
-**Note:**  This is out-of-the-box with WordPress. You won't need a plugin.
+**Note:** This is out-of-the-box with WordPress. You won't need a plugin.
 
 ### Custom Read More Message
 

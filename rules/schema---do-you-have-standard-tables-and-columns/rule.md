@@ -27,8 +27,8 @@ authors:
 The first three are examples of bad table records. The last one is an example of how this table structure should be entered.
 
 ![3 bad examples and 1 good example of Row auditing](imgGoodBadPracticesExampleSQLFields.png)
-**Note #1:**  Never set the CreatedUtc field - instead use a default GETUTCDATE()
- **Note #2:**  These fields offer basic row auditing that will cover the majority of applications. When an application has specific auditing requirements, they should be analysed to see if this approach is sufficient.
+**Note #1:** Never set the CreatedUtc field - instead use a default GETUTCDATE()
+ **Note #2:** These fields offer basic row auditing that will cover the majority of applications. When an application has specific auditing requirements, they should be analysed to see if this approach is sufficient.
 
 2. All databases should have a table with one record to store application Defaults. This table should be called 'Control'.
 If the settings are not application-wide, but just for that user then an XML (do not use an INI file) for simple stuff might be better. Examples are saving the 'User' for logon, 'Select Date Range' for a report, form positions, etc.
@@ -41,5 +41,5 @@ If the settings are not application-wide, but just for that user then an XML (do
 
 The benefit is that a generic lookup form can be used. You will just need the generic lookup form pass in the TableName and Column1 and Column2.
 
-**Note #3:**  The problem with the naming is the primary keys don't match
- **Note #4:**  The benefit with the character primary key columns is that queries and query strings have meaning Eg. http://www.ssw.com.au/ssw/Download/Download.aspx?GroupCategoryID=5BUS from this URL I can guess that it is in the business category.
+**Note #3:** The problem with the naming is the primary keys don't match
+ **Note #4:** The benefit with the character primary key columns is that queries and query strings have meaning Eg. http://www.ssw.com.au/ssw/Download/Download.aspx?GroupCategoryID=5BUS from this URL I can guess that it is in the business category.

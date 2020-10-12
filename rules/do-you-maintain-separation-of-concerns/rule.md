@@ -9,7 +9,7 @@ authors:
 
 ---
 
-One of the major issues people had back in the day with ASP (before ASP.NET) was the prevalence of "Spaghetti Code". This mixed  **Reponse.Write()**  with actual code.
+One of the major issues people had back in the day with ASP (before ASP.NET) was the prevalence of "Spaghetti Code". This mixed  **Reponse.Write()** with actual code.
  
 Ideally, you should keep design and code separate - otherwise, it will be difficult to maintain your application. Try to move all data access and business logic code into separate modules.
 

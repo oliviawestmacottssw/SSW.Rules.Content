@@ -25,4 +25,4 @@ Google is smart enough to work it out – it would just be an extra step for Goo
 `youtube: https://www.youtube.com/embed/uJGDyAN9g-g`
 
 
-**Figure: Video -****Subdomain or subfolder, which is better for SEO?**
+**Figure: Video -** **Subdomain or subfolder, which is better for SEO?**

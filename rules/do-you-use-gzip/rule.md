@@ -19,7 +19,7 @@ Use PageSpeed Insights extension in Chrome to determine if your site will benefi
 For more information about how to use PageSpeed to find which files on your site would benefit from being compressed with Gzip see [Do-you-use-PageSpeed](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=82583a25-2994-48ec-b061-bea6b6ed48fe).
 
 **
-****Three ways to add Gzip compression to your site:**
+** **Three ways to add Gzip compression to your site:**
 
 Use one of the methods described below to add Gzip compression to your site ASP.Net/Angular website
 

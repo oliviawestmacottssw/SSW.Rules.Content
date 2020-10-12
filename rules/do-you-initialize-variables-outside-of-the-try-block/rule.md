@@ -10,7 +10,7 @@ authors:
 ---
 
 You should initialize variables outside of the try block.
- 
+  
 Cursor cur;
 try
 {

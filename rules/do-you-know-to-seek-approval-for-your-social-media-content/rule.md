@@ -28,4 +28,4 @@ Here are some tips that you can use to improve your content approval process:
 8. Always think of your personas when creating content - who are you trying to target?
 
  ** 
-![Example of a template you can use to get approval for your social media content, note it shows what platforms it will be posted on, when, the test and how it will look. It will also help give you an idea of what your feed will look like to ensure it has a nice balance of images.](contentapproval2.png)
+![](contentapproval2.png) ** **Figure: Example of a template you can use to get approval for your social media content, note it shows what platforms it will be posted on, when, the test and how it will look. It will also help give you an idea of what your feed will look like to ensure it has a nice balance of images.**

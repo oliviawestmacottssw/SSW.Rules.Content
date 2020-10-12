@@ -13,7 +13,7 @@ authors:
 
 We are now ready to make a new web application and site collection which we will need to match closely to the original SharePoint 2007 server. In the SharePoint 2010 server:
 
-1. Open  **SharePoint Central Administration**  |  **Manage web applications**
+1. Open  **SharePoint Central Administration** |  **Manage web applications**
 2. Click on  **New**
 3. Enter in the details for the web application using the document from the rule Do you document the details of your SharePoint 2007 web application?
 4. Go back to  **SharePoint Central Administration** | **Create site collections**

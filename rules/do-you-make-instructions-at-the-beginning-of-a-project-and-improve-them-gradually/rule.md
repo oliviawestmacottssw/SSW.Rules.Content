@@ -81,9 +81,9 @@ A perfect solution would need no static documentation. Perfect code would be so 
 Example of Level 6: PowerShell Documentation
 
 
-**Recommendation:**  All manual workstation setup steps should be scripted with powerShell (as per the below example)
+**Recommendation:** All manual workstation setup steps should be scripted with powerShell (as per the below example)
 
-**Recommendation:**  You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
+**Recommendation:** You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
 
 [greyBox]
  PS C:\Code\Northwind> **.\Setup-Environment.ps1** 

@@ -24,7 +24,7 @@ The form shown in this screenshot is an example of bad control placement:
     5. The space surrounding the logo in the top right corner is uneven
 
 
-This detracts from the visual appeal of the user interface, and results in an uneven user experience. After looking at all of this you may be thinking " **do I really need to work out exactly what spacing and dimensions I want to use for  every  detail of a form I make?** "
+This detracts from the visual appeal of the user interface, and results in an uneven user experience. After looking at all of this you may be thinking " **do I really need to work out exactly what spacing and dimensions I want to use for  every detail of a form I make?** "
 
 The good news is that **you don't need to** : Microsoft have gone to a great deal of effort to     [define standards](http://www.ssw.com.au/ssw/Redirect/Microsoft/MSDNVisualDesign.htm)
 ![](../../assets/external.gif "You are now leaving SSW") for exactly how your form controls should be laid out, and these standards are worth taking into consideration. By all means, if you have disagreements with anything listed here then please discuss it with us and we'll consider changing our own standards (Microsoft have changed theirs over the years, after all), but we recommend using the following as a guide.
@@ -36,7 +36,7 @@ These examples assume that you are using the standard system font as defined in 
 ### The Rules
 
 1. **Buttons must be...**
-    - Spaced apart by 6 pixels from other buttons <br>             **except**  in the case of wizards where the <br>            *< Back* and <br>            *Next >* buttons may be closer together
+    - Spaced apart by 6 pixels from other buttons <br>             **except** in the case of wizards where the <br>            *< Back* and <br>            *Next >* buttons may be closer together
     - Spaced 6 pixels from the inside border of a form on the sides closest to it
     - usually 75 pixels wide
     - 23 pixels high

@@ -69,7 +69,7 @@ Install SkypePOP from our account on the official SkypePOP page:
 Login details are in Keepass (standard generic email + standard convention password)
 
 
-**Step 1.5:**
+**Step 1.5:** 
 
 Register your version of SkypePOP by pressing         **Preferences** and entering the following data:
 Key: [skypepop.com | My Account | API Keys]
@@ -77,7 +77,7 @@ Email: standard generic email
 
 
 
-2.       Open the         **Connections**  settings
+2.  Open the         **Connections** settings
 
 
 > 
@@ -125,7 +125,7 @@ The following shows how to connect to SSW CRM:
 
 
 
-5.      Configure the <br>       **Dynamics CRM**  settings to something similar to this: <br>      
+5.      Configure the <br>       **Dynamics CRM** settings to something similar to this: <br>      
 
 > 
 ![](50.jpg)
@@ -139,7 +139,7 @@ The following shows how to connect to SSW CRM:
 6.      Open Skype for Business
 
 
-7.      Review the            **SkypePOP - Skype for Business**  settings
+7.      Review the            **SkypePOP - Skype for Business** settings
 
 
 > 

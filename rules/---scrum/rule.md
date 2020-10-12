@@ -42,7 +42,7 @@ authors:
 
 [greyBox]
  
- **牢记：**
+ **牢记：** 
       “只要能遵循Scrum价值，改变Scrum是可以的，实际上为了成功，这也是有必要的。”
 
 -Stephen Forte
@@ -89,7 +89,7 @@ Hi   ,
 注意 #1: Product Owner（通常是客户）是没必要参加Scrum会议的，如果他想要参加，让他保证不要说话。
 注意 #2: 如果你正在一个未经批准的迭代中，或者是正在做临时特别任务，那么Product Owner参加是最好的了。([临时特别任务](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#AdHocManagedWork))
 
-**建议**** 4：****在Scrum会议开始前你是否更新了任务状态****?**
+**建议** ** 4：** **在Scrum会议开始前你是否更新了任务状态** **?**
 
 提前保证团队成员的任务状态被更新，这样会议会更有效率。
 SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meeting-do-you-update-your-tasks-before-the-daily-scrum)
@@ -99,7 +99,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 建议 6：不要打电话+不要检查邮件+不要分心科技可以使开会的人们失去了焦点，会议的焦点是使人们通过分享他们正在做什么来同步团队进度。在Scrum会议中通过禁止邮件，短信和电话以保证人们不会被分心。
 
 **
-建议**** 7：****使用一个任务板（使用电子版的更好****)**
+建议** ** 7：** **使用一个任务板（使用电子版的更好** **)**
 
 人们可以通过任务板看到当前正在讨论的问题。
 
@@ -108,7 +108,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 **图：TFS **       **Preview** **中的任务板**        **(TFS 2012)**
 
 **
-建议**** 8：****带上纸和笔**
+建议** ** 8：** **带上纸和笔**
 
 带上纸和笔将事情的摘要记录下来，使用一个白板记录讨论中出现的问题也很有用。
 

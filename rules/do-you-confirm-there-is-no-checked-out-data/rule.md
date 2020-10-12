@@ -20,7 +20,7 @@ Suggestion to Microsoft: send an email to the user to remind them they have outs
 ![Here Greg Harris has not checked in a file](sp-docs.jpg)
 
 
-**Upgrade warning:**  The pages that are not checked-in, will not be migrated on a SharePoint upgrade. There is \*no\* warning either.
+**Upgrade warning:** The pages that are not checked-in, will not be migrated on a SharePoint upgrade. There is \*no\* warning either.
 
 There are 2 ways to remind users of their "checked out files":
 
@@ -73,7 +73,7 @@ Even better, we have also improved the application with a scheduled task using S
 
 **Hi Sophie,** 
 
-
+ 
 
 You have some pages checked out in SharePoint.
 

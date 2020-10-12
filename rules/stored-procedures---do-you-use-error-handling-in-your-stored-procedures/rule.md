@@ -20,11 +20,11 @@ Figure: Example of the THROW syntax
 
 There are 3 main arguments:
 
-- **error\_number (int)**  - Must be greater than or equal to 50000 and less than or equal to 2147483647.
-- **message (nvarchar)**  - Maximum of 2048 characters.
-- **state (tinyint)**  - Must be between 0 and 255
+- **error\_number (int)** - Must be greater than or equal to 50000 and less than or equal to 2147483647.
+- **message (nvarchar)** - Maximum of 2048 characters.
+- **state (tinyint)** - Must be between 0 and 255
 
-The  **state** argument can be used to help pinpoint where the error occurred by using a different value without changing the  **error\_number**  or  **message** . This is useful if you have multiple steps in a process that may throw identical error descriptions.
+The  **state** argument can be used to help pinpoint where the error occurred by using a different value without changing the  **error\_number** or  **message** . This is useful if you have multiple steps in a process that may throw identical error descriptions.
 
 -- Example
 THROW 51000, 'The record does not exist.', 1;

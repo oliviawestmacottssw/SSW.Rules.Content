@@ -9,7 +9,7 @@ authors: []
 
 There are two main ways to move from TFS 2013 Update 4 to TFS 2015:
  
-**Option 1:****In-place migration (Recommended)**
+**Option 1:** **In-place migration (Recommended)**
 
 With an in-place migration, you essentially install TFS 2015 over the top of an existing TFS 2013 Update 4 installation. The benefits of this approach are that you don't need additional hardware, and don't need to change network settings like DNS addresses to change between environments.
 

@@ -24,6 +24,6 @@ The reasons for this are:
 - The client will receive back this 10% GST from the Australian Tax Office when they do their quarterly BAS/GST Return.
 
 The total fixed price total is $AUD 66,000 - please find quote attached. Bad Example The total fixed price total is $AUD 60,000 + GST (10%). Please find quote attached. Good Example 
-**Note**  : SSW and other Australian companies do not charge GST to external clients outside of Australia.
+**Note** : SSW and other Australian companies do not charge GST to external clients outside of Australia.
 
 While you are writing out a quote, make sure [you know when to use a round or exact figure](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b2c96952-bfc1-440f-af5f-ec26fcc36002).

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-**Test, test, test!**  Testing is the most critical part of any project. Before the delivery of any release the application must pass an internal "test please". Clients quickly become disillusioned if you have delivered a bug-riddled application.
+**Test, test, test!** Testing is the most critical part of any project. Before the delivery of any release the application must pass an internal "test please". Clients quickly become disillusioned if you have delivered a bug-riddled application.
   
 ![Do you want users to have good first impressions?](pic16-TestingDoYouWantThemT.gif)
 There are a number of different types of tests that you can perform:
@@ -73,7 +73,7 @@ Please cc the client in all your "Test Please" emails including internal ones.
 
 [greyBox]
  
-**Subject:**  RE: Test Please - \\Public Folders\All Public Folders\SSWeXtremeEmailsDatabase\SSWCodeAuditor\Release09
+**Subject:** RE: Test Please - \\Public Folders\All Public Folders\SSWeXtremeEmailsDatabase\SSWCodeAuditor\Release09
 
 Gary,
 

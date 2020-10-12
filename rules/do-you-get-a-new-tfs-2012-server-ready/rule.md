@@ -20,4 +20,4 @@ authors:
     1. Install (but don't configure)  **SQL Server 2012 Reporting Services**
     2. Install (but don't configure)  **SQL Server 2012 Analysis Services**
 4. You'll also need a SQL Server instance for the TFS databases if you don't already have one
-    1. Install  **SQL Server 2012 x64**  default configuration
+    1. Install  **SQL Server 2012 x64** default configuration

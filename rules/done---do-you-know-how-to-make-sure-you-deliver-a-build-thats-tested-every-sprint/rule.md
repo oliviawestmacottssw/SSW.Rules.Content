@@ -13,11 +13,11 @@ authors:
 
 ---
 
-What happens when you leave all the testing to the end of the sprint? You find things that are not  ***done***  and you have no time before the  **Sprint Review**  to fix them.
+What happens when you leave all the testing to the end of the sprint? You find things that are not  ***done*** and you have no time before the  **Sprint Review** to fix them.
 
 
 [[badExample]]
-| ![if you don’t complete all the tasks the customer will not receive a build in the sprintOne way to mitigate this is to aim for a “ *test please* ” to occur a few days before the end of the  Sprint  but you still run the risk of not having enough time to make sure everything is  *done.*](RuleBuildEverySprintBad.png)
+| ![if you don’t complete all the tasks the customer will not receive a build in the sprint One way to mitigate this is to aim for a “ *test please* ” to occur a few days before the end of the  Sprint but you still run the risk of not having enough time to make sure everything is  *done.*](RuleBuildEverySprintBad.png)
 
 
 [[okExample]]
@@ -31,9 +31,9 @@ In this scenario the “ **test please** ” with the customer happens outside o
 [[goodExample]]
 | ![Create a coded UI test for each story to prove that it is complete](RuleBuildEverySprintGOOD.png)
 
-If you are doing  **Scrum**  then you should have a  **User Story**  fleshed out with a set of  **Acceptance Criteria** . These  **Acceptance Criteria**  are agreed with the  **Product Owner**  before  **The Team**  committed to the story, and define what the  **Product Owner**  will accept as complete. This makes it relatively easy to create some automated tests that test for these  **Acceptance Criteria**  and help your  **Sprint Review**  go as smoothly as possible.
+If you are doing  **Scrum** then you should have a  **User Story** fleshed out with a set of  **Acceptance Criteria** . These  **Acceptance Criteria** are agreed with the  **Product Owner** before  **The Team** committed to the story, and define what the  **Product Owner** will accept as complete. This makes it relatively easy to create some automated tests that test for these  **Acceptance Criteria** and help your  **Sprint Review** go as smoothly as possible.
 
-Any changes found during  **the Sprint Review**  get added to the  **Product Backlog**  to be prioritised by the  **Product Owner** . 
+Any changes found during  **the Sprint Review** get added to the  **Product Backlog** to be prioritised by the  **Product Owner** . 
 
 
 ![Ultimate example – Create a Test](RuleBuildEverySprintUltimate.png)(could be Coded UI) for each of the Acceptance Criteria agreed with the Product Owner**

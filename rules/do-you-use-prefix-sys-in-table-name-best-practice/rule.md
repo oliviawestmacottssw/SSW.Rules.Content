@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Don't use sys as a prefix for Access tables. Some developers use this for system tables etc. SQL Server uses tables with this prefix and it becomes confusing. We recommend system tables start with  **zs **  eg. zsUsers
+Don't use sys as a prefix for Access tables. Some developers use this for system tables etc. SQL Server uses tables with this prefix and it becomes confusing. We recommend system tables start with  **zs ** eg. zsUsers
 
 
 

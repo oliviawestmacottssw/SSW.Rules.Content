@@ -20,7 +20,7 @@ Failing to follow this rule encourages developers and creators to focus on new '
 You must be strong in the face of pressures from project plan scheduling!
 
 [greyBox]
-  **Note:**  The principle of this bug rule can apply to more than just developers.
+  **Note:** The principle of this bug rule can apply to more than just developers.
 
 Let's suppose you work in Marketing and have a problem with a hypothetical report. You should fix that issue first, before adding new information to the report.
  

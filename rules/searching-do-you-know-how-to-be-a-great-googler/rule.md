@@ -12,7 +12,7 @@ authors:
 The best developers are also extremely good at finding a solution to a problem they don't know. <br>
  
 I am pretty good at Googling but when I can't find something, I ask my friend Scott on IM. Scott Hanselman is the best Googler I know. He can find anything in 2 minutes...
-**Tips:**
+**Tips:** 
 1. Think of a piece of the code that will be in the answer
 2. Include the company name if possible
 3. Use the advanced searching functionality

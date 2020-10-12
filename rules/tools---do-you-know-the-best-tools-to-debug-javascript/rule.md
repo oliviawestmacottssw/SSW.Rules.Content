@@ -26,7 +26,7 @@ Debugging JavaScript application can be difficult. Having to console.log results
 It is often more effort than it is worth to debug JavaScript in your IDE and it is still not very popular. If your app is a server-s ide NodeJS JavaScript app then it is very different since this type of JavaScript app does not run in the browser and this is what the IDE is designed for. 
 
     - [Visual Studio Code Chrome Debugger](https://github.com/Microsoft/vscode-chrome-debug) - Painful to set up source maps for advanced JavaScript applications that run in memory dev servers like WebPack Dev Server.
-    - Visual Studio 2015   - Only works with TypeScript in Internet Explorer
+    - Visual Studio 2015  - Only works with TypeScript in Internet Explorer
 
  
 ![Visual Studio Chrome Debugger with breakpoint set](debug-js-3.png)

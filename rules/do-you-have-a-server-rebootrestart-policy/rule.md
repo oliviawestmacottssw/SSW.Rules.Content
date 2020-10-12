@@ -19,7 +19,7 @@ For short outages (under 15 minutes) that only affect only a few people (under 5
 
 **Note:** If they are not online on Teams or Skype, then they can't complain that they were not warned.
 
-For extended or planned outages, or if you have a larger number of users (50+),      **email**  is the suggested method.
+For extended or planned outages, or if you have a larger number of users (50+),      **email** is the suggested method.
  
 ### Email
 

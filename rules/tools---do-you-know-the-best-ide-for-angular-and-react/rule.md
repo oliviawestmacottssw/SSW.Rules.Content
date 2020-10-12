@@ -30,7 +30,7 @@ You can find more extensions at [Visual Studio | Marketplace](https://marketplac
 
 ### Open in Visual Studio Code
 
-This extension is for those times where you have a project open in      **Visual Studio**  and you want to be able to quickly open it in      **Visual Studio Code** .
+This extension is for those times where you have a project open in      **Visual Studio** and you want to be able to quickly open it in      **Visual Studio Code** .
 
 ![Get to Visual Studio Code quickly from within Visual Studio - <br>](open-in-vscode.png)[Open in Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
 

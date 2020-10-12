@@ -55,4 +55,4 @@ A more ideal workflow is:
 - Use module loaders (eg. SystemJS) to manage dependencies and their associated bundlers/builders for releases
 - Load 3rd party modules (eg. Angular2 and Rx) as a bundle, not as their individual files – speed up development first-page load
 - Think about your routing – a refresh should almost always return the page to the exact same state or at the very least, the same screen
-- Most importantly,  **be unsatisfied**  - if things are slow, fix it. If you constantly have to manually close IISExpress to run your app, *find out why* and fix it! You will save everyone time in the long run
+- Most importantly,  **be unsatisfied** - if things are slow, fix it. If you constantly have to manually close IISExpress to run your app, *find out why* and fix it! You will save everyone time in the long run

@@ -13,7 +13,7 @@ authors:
 
 If you decide to get insurance for your trip, the type of insurance you choose will depend on your needs. 
 
-For example, if you're travelling  **within your home country**  you might decide to only get insurance for a hire car – but this can be a trap: hire car insurance is expensive, and you might find that it is cheaper to buy travel insurance to cover the whole trip, which includes car hire insurance, than it is to purchase insurance just for the car. 
+For example, if you're travelling  **within your home country** you might decide to only get insurance for a hire car – but this can be a trap: hire car insurance is expensive, and you might find that it is cheaper to buy travel insurance to cover the whole trip, which includes car hire insurance, than it is to purchase insurance just for the car. 
 
  
 [[badExample]]
@@ -32,10 +32,10 @@ If you're the card holder and you're travelling alone, you should be fine with t
 
 [[goodExample]]
 | ![but only if you're travelling by yourself](ccb9e6_credit-card-insurance-coverage-table.jpg)
-**"Supplementary" card members (spouse and dependent children) aren't nearly as well covered as the primary card holder – C is the big one!**  (Source: American Express Ultimate credit card travel insurance policy)
+**"Supplementary" card members (spouse and dependent children) aren't nearly as well covered as the primary card holder – C is the big one!** (Source: American Express Ultimate credit card travel insurance policy)
 
 **Option 1 – traditional insurance:** **Recommended.**  - If you’re travelling with kids, you are better off going with traditional travel insurance to ensure all travellers are fully covered.
 
 **Option 2 – credit card insurance:** **Not recommended.**  - Not all cards will cover the family for important categories like medical insurance, and for those that do, they are often greatly reduced. For example, if a family of 4 have their luggage stolen, the credit card holder might be covered for up to $10,000, with another $10,000 coverage to be split among the remaining family members – or as in the policy shown in the figure above, the 3 remaining family members will not be covered at all.
 
-**Frequent traveller:**  - A good option for those who fly regularly travel internationally is annual multi-trip cover, which can cost as little as $1 per day (depending on your needs and policy provider).
+**Frequent traveller:** - A good option for those who fly regularly travel internationally is annual multi-trip cover, which can cost as little as $1 per day (depending on your needs and policy provider).
