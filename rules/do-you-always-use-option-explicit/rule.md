@@ -11,9 +11,8 @@ authors:
 
 ---
 
-[greyBox]
- Option Explict should always only be used in VB.NET.  
-[/greyBox]
+[[greyBox]]
+|  Option Explict should always only be used in VB.NET.  
 
 This will turn many of your potential runtime errors into compile time errors, thus saving you from potential time bombs!
 

@@ -71,12 +71,11 @@ Regards,
 ![](Screen Shot 2020-04-06 at 4.15.50 PM.png)
 It's a great idea to run your Scrum meetings through Microsoft Teams so that the whole team is invited and new developers can easily find the meetings see [https://rules.ssw.com.au/run-your-meetings-through-teams](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=91a6a999-29d4-4903-8b7a-16fddd976d65) for more info.
 
-[greyBox]
- In Scrum, there are 4 meetings in total that you need to know about:
-- [Sprint Planning Meeting](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
-- [Daily Scrum Meeting](/Pages/DailyScrumUpdateTasks.aspx "Daily Scrum Meeting") (Stand-up)
-- [Sprint Review Meeting](/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
-- [Sprint Retrospective Meeting](/Pages/RetrospectiveMeeting.aspx "Sprint Retrospective Meeting")
-
- 
-[/greyBox]
+[[greyBox]]
+|  In Scrum, there are 4 meetings in total that you need to know about:
+| - [Sprint Planning Meeting](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
+| - [Daily Scrum Meeting](/Pages/DailyScrumUpdateTasks.aspx "Daily Scrum Meeting") (Stand-up)
+| - [Sprint Review Meeting](/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
+| - [Sprint Retrospective Meeting](/Pages/RetrospectiveMeeting.aspx "Sprint Retrospective Meeting")
+| 
+|

@@ -17,21 +17,17 @@ The use of standardized AD Group names is a simple yet crucial step towards buil
 
 For example: This is a list of AD groups associated with products.
 
-[greyBox]
- SSWSugarLearningEvents
- SSWCodeAuditorAlerts
- SSWLinkAuditorDevs 
-[/greyBox]
- Figure: Bad Example – It is difficult to know the correct name for an AD group 
-[greyBox]
-  SSWSugarLearning
- SSWSugarLearningEvents
- SSWCodeAuditor
- SSWCodeAuditorEvents
- SSWLinkAuditor
- SSWLinkAuditorEvents 
-[/greyBox]
- Figure: Good Example – By standardizing the names of AD groups it saves confusion
+[[greyBox | Bad Example – It is difficult to know the correct name for an AD group]]
+|  SSWSugarLearningEvents
+|  SSWCodeAuditorAlerts
+|  SSWLinkAuditorDevs
+[[greyBox | Good Example – By standardizing the names of AD groups it saves confusion]]
+|   SSWSugarLearning
+|  SSWSugarLearningEvents
+|  SSWCodeAuditor
+|  SSWCodeAuditorEvents
+|  SSWLinkAuditor
+|  SSWLinkAuditorEvents
 
 **
 Note: ** For large organizations, a better way is  to use a type of group (eg. Local or Global)… then the entity it is associated to… then the resource (or service).

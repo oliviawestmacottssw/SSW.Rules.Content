@@ -17,17 +17,11 @@ Is it for space or readability? If it is for readability or you expect anyone to
  
 I want to be able to type this URL in, but it is VERY long:
 
-[greyBox]
- [http://blogs.msdn.com/b/briankel/archive/2010/06/25/now-available-visual-studio-2010-rtm-virtual-machine-with-sample-data-and-hands-on-labs.aspx](http&#58;//blogs.msdn.com/b/briankel/archive/2010/06/25/now-available-visual-studio-2010-rtm-virtual-machine-with-sample-data-and-hands-on-labs.aspx)
- 
-[/greyBox]
-Bad example - People can’t easily type this URL in…. it is too long
-[greyBox]
- Thanks Rob, that is great.
-<br>Made a bit.ly at [http://bit.ly/aC5Lb2](http&#58;//bit.ly/aC5Lb2) 
-[/greyBox]
-Bad example - How will I remember that?
-[greyBox]
- [http://bit.ly/VS2010VM](http&#58;//bit.ly/VS2010VM) 
-[/greyBox]
-Good example - Easier to remember
+[[badExample | People can’t easily type this URL in…. it is too long]]
+|  [http://blogs.msdn.com/b/briankel/archive/2010/06/25/now-available-visual-studio-2010-rtm-virtual-machine-with-sample-data-and-hands-on-labs.aspx](http&#58;//blogs.msdn.com/b/briankel/archive/2010/06/25/now-available-visual-studio-2010-rtm-virtual-machine-with-sample-data-and-hands-on-labs.aspx)
+|
+[[badExample | How will I remember that?]]
+|  Thanks Rob, that is great.
+| <br>Made a bit.ly at [http://bit.ly/aC5Lb2](http&#58;//bit.ly/aC5Lb2)
+[[goodExample | Easier to remember]]
+|  [http://bit.ly/VS2010VM](http&#58;//bit.ly/VS2010VM)

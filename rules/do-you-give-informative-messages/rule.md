@@ -20,14 +20,13 @@ Giving your fellow employees informative messages is important. Follow these ste
 - Ask for the number
 
  
-[greyBox]
-  **Subject:** Phone message from John Smith
-
-Adam,
-
-John Smith called today at 11:20 am 
-RE: Database consultation
-Contact Number: 03 9922 1100
-
-Rebecca 
-[/greyBox]
+[[greyBox]]
+|   **Subject:** Phone message from John Smith
+| 
+| Adam,
+| 
+| John Smith called today at 11:20 am 
+| RE: Database consultation
+| Contact Number: 03 9922 1100
+| 
+| Rebecca

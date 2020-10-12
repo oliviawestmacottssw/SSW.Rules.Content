@@ -17,12 +17,11 @@ authors:
 
 Including images is a good idea, in addition when appropriate include code snippets,  and ideally have the code that changed highlighted in yellow.
 
-[greyBox]
- An email with just the word "done" can often be enhanced with a screen capture or code snippet...
-...it provides evidence
-...it educates
- 
-[/greyBox]
+[[greyBox]]
+|  An email with just the word "done" can often be enhanced with a screen capture or code snippet...
+| ...it provides evidence
+| ...it educates
+|  
  
 This has several benefits:
 

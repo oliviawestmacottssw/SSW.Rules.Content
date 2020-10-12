@@ -11,25 +11,23 @@ authors:
 
 ---
 
-[greyBox]
- 
-**SRP The Single Responsibility Principle** 
-A class should have one, and only one reason to change.
-
-**OCP	The Open Closed Principle 
-** You should be able to extend a class's behavior without modifying it.
-
-**LSP The Liskov Substitution Principle 
-** Derived classes must be substitutable for their base classes.
-
-**ISP The Interface Segregation Principle 
-** Make fine-grained interfaces that are client specific.
-
-**DIP	The Dependency Inversion Principle 
-** Depend on abstractions, not on concretions.
- 
-[/greyBox]
- Figure: Your code should be using <br>   [SOLID principles](https&#58;//en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
+[[greyBox | Your code should be using <br>   [SOLID principles]]]
+|  
+| **SRP The Single Responsibility Principle** 
+| A class should have one, and only one reason to change.
+| 
+| **OCP	The Open Closed Principle 
+| ** You should be able to extend a class's behavior without modifying it.
+| 
+| **LSP The Liskov Substitution Principle 
+| ** Derived classes must be substitutable for their base classes.
+| 
+| **ISP The Interface Segregation Principle 
+| ** Make fine-grained interfaces that are client specific.
+| 
+| **DIP	The Dependency Inversion Principle 
+| ** Depend on abstractions, not on concretions.
+|(https&#58;//en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
  
 It is assumed knowledge that you know all 5 SOLID principles. If you don't, read about them on Uncle Bob's site above, or watch the [SOLID Pluralsight videos by Steve Smith.](http&#58;//www.pluralsight-training.net/microsoft/courses/TableOfContents?courseName=principles-oo-design&amp;highlight=)
 

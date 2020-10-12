@@ -32,26 +32,25 @@ There are a number of reasons why this is important:
 
 Below is a template email you can use:
 
-[greyBox]
- Hi &lt;ClientName&gt;, 
-
-Thank you very much for your time for the last xxx weeks. I think you must be the best product owner I have worked with at SSW (always available for me when needed). I really enjoyed this little project.
-
-I hope I have completed most (if not all) of your most important requirements. I had good look at the source code and while it's fresh in my mind, I thought I might send you the following suggestions that would make it easier for myself and other developers in future:
-
-Improvement Area 1:
-1. Do this: because of this
-2. Do this: because of this
-
-Improvement Area 2:
-1. Do this: because of this
-2. Do this: because of this
-...
-...
-
-Please feel free to contact us if you have any questions.
-
-Regards,
-&lt;yourExternalSignature&gt;
- 
-[/greyBox]
+[[greyBox]]
+|  Hi &lt;ClientName&gt;, 
+| 
+| Thank you very much for your time for the last xxx weeks. I think you must be the best product owner I have worked with at SSW (always available for me when needed). I really enjoyed this little project.
+| 
+| I hope I have completed most (if not all) of your most important requirements. I had good look at the source code and while it's fresh in my mind, I thought I might send you the following suggestions that would make it easier for myself and other developers in future:
+| 
+| Improvement Area 1:
+| 1. Do this: because of this
+| 2. Do this: because of this
+| 
+| Improvement Area 2:
+| 1. Do this: because of this
+| 2. Do this: because of this
+| ...
+| ...
+| 
+| Please feel free to contact us if you have any questions.
+| 
+| Regards,
+| &lt;yourExternalSignature&gt;
+|

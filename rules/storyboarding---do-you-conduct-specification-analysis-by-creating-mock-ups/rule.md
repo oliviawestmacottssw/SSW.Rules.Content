@@ -77,11 +77,10 @@ These are also mockups in a Web/Windows Forms with full CSS Styling and graphic 
 
 These are concept mockups produced by designers in Photoshop providing a guidance of the final look with full styling.
 
-[greyBox]
- 
-**Warning:** Don't go down the track of giving a customer a few concepts (on some projects we gave 2 or 3 completely different concepts by different designers). There becomes too much mixing and matching when they see them. Once the images are approved, then the designers slice them up and turn them into HTML (slicing is the exporting of each image).
- 
-[/greyBox]
+[[greyBox]]
+|  
+| **Warning:** Don't go down the track of giving a customer a few concepts (on some projects we gave 2 or 3 completely different concepts by different designers). There becomes too much mixing and matching when they see them. Once the images are approved, then the designers slice them up and turn them into HTML (slicing is the exporting of each image).
+|  
  
 ![Designer Photoshop Mockup example - recommended as quick to change, when changes happen](1d6c03_PSMockup.jpg)
 **More information – Add notes at the bottom**
@@ -111,20 +110,19 @@ For example, to communicate that “a customer has many phone numbers”, a stor
 
 The clear communication of the message is more important than the medium used to convey that message.
 
-[greyBox]
- 
-Here are some more hot tips on mock-ups:
-
-- Avoid the thought of a "throw-away" prototype. An example of a throwaway prototype is when you design screens in Access, but the application will be HTML. So design the screens you and the customer are happy with the technology you will be using, and then use them in the app.
-- It is best to have a designer and developer and customer working together.
-- Get the mock-ups [physically initialed](/Pages/AskClientsToInitialYourWork.aspx), especially if you are performing a fixed-price contract. Yes, paperless is great - but not in this case.
-- If you can't get mock-ups initialed, then page by page approval over email is the 2nd best option.
-- A tip I picked up from Tom Howe was to always add a client's branding into the mockup - it makes a big impression
-- Mock-ups should follow [standard interface rules](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterInterfaces.aspx)
-- Write the related business rules at the bottom of each screen - and turn into unit tests.
-
- 
-[/greyBox]
+[[greyBox]]
+|  
+| Here are some more hot tips on mock-ups:
+| 
+| - Avoid the thought of a "throw-away" prototype. An example of a throwaway prototype is when you design screens in Access, but the application will be HTML. So design the screens you and the customer are happy with the technology you will be using, and then use them in the app.
+| - It is best to have a designer and developer and customer working together.
+| - Get the mock-ups [physically initialed](/Pages/AskClientsToInitialYourWork.aspx), especially if you are performing a fixed-price contract. Yes, paperless is great - but not in this case.
+| - If you can't get mock-ups initialed, then page by page approval over email is the 2nd best option.
+| - A tip I picked up from Tom Howe was to always add a client's branding into the mockup - it makes a big impression
+| - Mock-ups should follow [standard interface rules](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterInterfaces.aspx)
+| - Write the related business rules at the bottom of each screen - and turn into unit tests.
+| 
+|  
 
 ### Related Rules
 

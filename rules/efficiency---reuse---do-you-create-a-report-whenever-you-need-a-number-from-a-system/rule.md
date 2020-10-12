@@ -15,20 +15,17 @@ If you found yourself doing ad-hoc reports, or random SQL queries, a few years a
 
 Since 2015, the best practice is instead to jump into Power BI and build the report yourself.
 
-[greyBox]
-  **Subject: Report needed** 
-
-Dear boss,
-
-Today I needed to find xxx and so I had to write a query to find it. You can find it at \\server\Reports\_Adhoc\SalesByRegion.xlsx
-
-I suggest adding this into our Performance Point Cube so I could find it at a URL.  
-
-Jonny
- 
-[/greyBox]
-
-Figure - Bad Example: If you can't build it yourself, send an email to your boss for a number
+[[greyBox | Bad Example: If you can't build it yourself, send an email to your boss for a number]]
+|   **Subject: Report needed** 
+| 
+| Dear boss,
+| 
+| Today I needed to find xxx and so I had to write a query to find it. You can find it at \\server\Reports\_Adhoc\SalesByRegion.xlsx
+| 
+| I suggest adding this into our Performance Point Cube so I could find it at a URL.  
+| 
+| Jonny
+|
  
 [[goodExample]]
 | ![Sate your own curiosity with Power BI See Ulysses' video on how Power BI is the best tool for this: https://tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren](Power BI.png)

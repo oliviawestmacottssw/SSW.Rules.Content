@@ -27,18 +27,16 @@ It is especially important that images and captions serve a purpose, as opposed 
 ### Tip #1 - Bold your captions
 
 
-[greyBox]
- [greyBox]
- [image] 
-[/greyBox]
+[[greyBox]]
+|  [[greyBox]]
+|  [image] 
  
 [/greyBox]
 
 Figure: [Description…] (not bolded)
-[greyBox]
- [greyBox]
- [image] 
-[/greyBox]
+[[greyBox]]
+|  [[greyBox]]
+|  [image] 
  
 [/greyBox]
 
@@ -51,21 +49,16 @@ Figure: [Description…] (bolded is best)
 Especially for screenshots, it is a good idea to have your figure describe the action the user would take:
 
 <br>   <
-[greyBox]
- [greyBox]
- [image] 
-[/greyBox]
+[[greyBox]]
+|  [[greyBox]]
+|  [image] 
  
 [/greyBox]
 
 
  Figure: This is the screen
-[greyBox]
- [image] 
-[/greyBox]
-
-
- Figure: On the screen, choose the execution method
+[[greyBox | On the screen, choose the execution method]]
+|  [image]
 
 
 
@@ -78,19 +71,15 @@ Bear in mind to always show the bad example first, then good example, like below
 
 
 
-[greyBox]
- To print your document:
-1. Select File | Print. The Print dialog should now show.
-2. Select the number of copies and click Print. The file should now print. 
-[/greyBox]
-Figure: Bad Example - Using 'should' implies uncertainty
-[greyBox]
- To print your document: 
-1. Select File | Print. The Print dialog is shown.
-2. Select the number of copies and click Print. The file will now print.
- 
-[/greyBox]
-Figure: Good example - Using present or future tense implies confidence <br>            
+[[greyBox | Bad Example - Using 'should' implies uncertainty]]
+|  To print your document:
+| 1. Select File | Print. The Print dialog should now show.
+| 2. Select the number of copies and click Print. The file should now print.
+[[greyBox | Good example - Using present or future tense implies confidence <br>]]
+|  To print your document: 
+| 1. Select File | Print. The Print dialog is shown.
+| 2. Select the number of copies and click Print. The file will now print.
+|
 
 
 ### Related Rules

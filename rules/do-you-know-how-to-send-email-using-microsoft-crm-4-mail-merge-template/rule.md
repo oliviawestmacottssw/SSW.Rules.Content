@@ -23,18 +23,17 @@ You can use mail merge template, to send email to account, contact... Each mail 
 ![Fill in the mail merge details8. A Microsoft Word document is open, and the <br>       Mail Merge Recipients window is pop-up with the list of contacts that you're sending email to.](send-mail-merge-2.jpg)
 
 ![Mail Merge Recipients](send-mail-merge-3.jpg)
-[greyBox]
- 
-# Attention
-
-If you don't see a contact in the recipient list, that means your contact either:
-
-    - **Do Not Emails** or
-    - **Do Not Bulk Emails** field set to be
-    - **Do Not Allow**
-
- 
-[/greyBox]
+[[greyBox]]
+|  
+| # Attention
+| 
+| If you don't see a contact in the recipient list, that means your contact either:
+| 
+|     - **Do Not Emails** or
+|     - **Do Not Bulk Emails** field set to be
+|     - **Do Not Allow**
+| 
+|  
 9. Follow the on screen instructions in Microsoft Word and edit the content of the email that you want to send.
 
 

@@ -13,16 +13,13 @@ authors:
 
 Managing up is providing your manager with an option to approve, rather than asking a general question.
  
-[greyBox]
- What do you want to charge for Cameron's rate?
- 
-[/greyBox]
- Figure: Bad Example - Nothing to approve
+[[greyBox | Bad Example - Nothing to approve]]
+|  What do you want to charge for Cameron's rate?
+|
 
-[greyBox]
- What do you want to charge for Cameron's rate?
- 
-[/greyBox]
+[[greyBox]]
+|  What do you want to charge for Cameron's rate?
+|  
 I would advise the standard $165 + GST until he has more experience.
 Please approve.
 
@@ -36,19 +33,17 @@ When you are giving someone multiple options you should:
 
 For example:
 
-[greyBox]
- We want to integrate our database with our website so that customers can purchase online.
-
-The choices:
-
- **Option A** (Recommended) -  Customize a ready-made solution - We are able to get rid of redundant features and change it to meet our requirements. It is cheaper than building a new solution from scratch.  
- **Option B** - Buy a ready-made solution - The ready-made solution is cheap but it does not have everything that we need and has unnecessary features.        
- **Option C** - Build a new solution using a third party company - It will be expensive and it will take a long time.
-
-Please let me know if you're happy to proceed with our recommendation, otherwise let me know if you have any questions.
- 
-[/greyBox]
-Figure: Good Example - Multiple options to approve with reasons for each <br>      
+[[greyBox | Good Example - Multiple options to approve with reasons for each <br>]]
+|  We want to integrate our database with our website so that customers can purchase online.
+| 
+| The choices:
+| 
+|  **Option A** (Recommended) -  Customize a ready-made solution - We are able to get rid of redundant features and change it to meet our requirements. It is cheaper than building a new solution from scratch.  
+|  **Option B** - Buy a ready-made solution - The ready-made solution is cheap but it does not have everything that we need and has unnecessary features.        
+|  **Option C** - Build a new solution using a third party company - It will be expensive and it will take a long time.
+| 
+| Please let me know if you're happy to proceed with our recommendation, otherwise let me know if you have any questions.
+|
 
 ![Hard decision - this guy needs to state why he recommends this option](complexity-and-false-hope.jpg)
 

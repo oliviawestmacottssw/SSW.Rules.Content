@@ -20,24 +20,23 @@ Remember, the expectation is for all the questions to be answered with "YES" by 
 
 
 
-[greyBox]
-  **1. Is your computer domain-joined? [ - ]** 
-Note: To check, go to Start menu | This PC | Right-click | Properties | Check if "Workgroup" is Sydney.ssw.com.au.
-If yes, then your computer is domain-joined.
-
-
- **2. The Backup Script - Date Last Run: [ \_\_/\_\_/\_\_\_\_ ]** 
-If your computer is domain-joined, then your backup script should already be working daily at 11 am. 
-Go to \\fileserver.sydney.ssw.com.au\UserBackups\ztBackupScripts\UserLogs.log to see the last time your backup was done.  
-
-  
- **3. The Login Script - Date Last Run: [ \_\_/\_\_/\_\_\_\_ ]** 
-If your computer is domain-joined, the Login Script should have run already when you logged in. Go to your C:\ drive and look for SSWLoginScript.log. Open it and see the last time it was run.
- **
-Now go through the non-domain-joined checklist.   
-** 
- 
-[/greyBox]
+[[greyBox]]
+|   **1. Is your computer domain-joined? [ - ]** 
+| Note: To check, go to Start menu | This PC | Right-click | Properties | Check if "Workgroup" is Sydney.ssw.com.au.
+| If yes, then your computer is domain-joined.
+| 
+| 
+|  **2. The Backup Script - Date Last Run: [ \_\_/\_\_/\_\_\_\_ ]** 
+| If your computer is domain-joined, then your backup script should already be working daily at 11 am. 
+| Go to \\fileserver.sydney.ssw.com.au\UserBackups\ztBackupScripts\UserLogs.log to see the last time your backup was done.  
+| 
+|   
+|  **3. The Login Script - Date Last Run: [ \_\_/\_\_/\_\_\_\_ ]** 
+| If your computer is domain-joined, the Login Script should have run already when you logged in. Go to your C:\ drive and look for SSWLoginScript.log. Open it and see the last time it was run.
+|  **
+| Now go through the non-domain-joined checklist.   
+| ** 
+|  
 
 ### Non-domain-joined checklist:
 

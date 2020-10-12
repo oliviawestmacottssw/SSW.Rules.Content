@@ -13,30 +13,26 @@ Don’t start thinking that some conspiracy is behind someone's actions.
 
 American writer William James (born 1842) said:
 
-[greyBox]
- "Never attribute to malice that which is adequately explained by stupidity" 
-[/greyBox]
+[[greyBox]]
+|  "Never attribute to malice that which is adequately explained by stupidity" 
 
 Brian Harry (in 2018) said something similar in Giving feedback:
 
-[greyBox]
- "I’ve observed that humans have an inherent tendency to want to ascribe motive – to determine why someone did something."
- 
-[/greyBox]
+[[greyBox]]
+|  "I’ve observed that humans have an inherent tendency to want to ascribe motive – to determine why someone did something."
+|  
 
 
  
-[greyBox]
- “Joe left me out of that important conversation because he was trying to undermine me.”
- 
-[/greyBox]
+[[greyBox]]
+|  “Joe left me out of that important conversation because he was trying to undermine me.”
+|  
  Bad example 
 Any time you find yourself filling in the because clause, stop. You don't know why someone does anything. That is locked up securely in their head. When filling in that blank people insert some negative reason that's worse than reality. So, when giving feedback, stick to what you can see.
 
-[greyBox]
- “Joe, you left me out of that important conversion.  I felt undermined by that.  Why did you do it?”
- 
-[/greyBox]
+[[greyBox]]
+|  “Joe, you left me out of that important conversion.  I felt undermined by that.  Why did you do it?”
+|  
 Good example
 
 In this example, I articulate exactly what I saw happen, how it made me feel and ask Joe to explain to me why. Joe may dispute that he left me out – that's fairly factual and we can discuss evidence and Joe can't dispute how I felt, at least not credibly. Try as hard as you can to stick to things you personally observed and stay away from asserting motive. Have a genuine conversation designed to help you better understand each other’s perspective and what each of you can do better in the future.

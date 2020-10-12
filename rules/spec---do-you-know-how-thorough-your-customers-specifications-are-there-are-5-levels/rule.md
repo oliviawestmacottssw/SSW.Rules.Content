@@ -25,10 +25,8 @@ verify they have a really hefty bank account!
 
 ### 2. High-Level Requirements Document
 
-[greyBox]
- This will read like a wish list with no details and many unanswered questions 
-[/greyBox]
-Figure: High-Level Requirements are very vague and open to many interpretations
+[[greyBox | High-Level Requirements are very vague and open to many interpretations]]
+|  This will read like a wish list with no details and many unanswered questions
 ### 3. Detailed Requirements Document
 
 The details have been fleshed out and allow developers to write Functional and Technical Specifications

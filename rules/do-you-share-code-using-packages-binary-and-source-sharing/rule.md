@@ -22,20 +22,17 @@ VSTS is the best home to put it and share it across their organization because:
 - it's constantly evolving (some really cool features are coming...check the video below)
 
 
-[greyBox]
- Sharing source or binaries via File Shares or Version Control 
-[/greyBox]
+[[greyBox]]
+|  Sharing source or binaries via File Shares or Version Control 
 Bad example
 
-[greyBox]
- Sharing source or binaries via 3rd party tools like ProGet, MyGet 
-[/greyBox]
+[[greyBox]]
+|  Sharing source or binaries via 3rd party tools like ProGet, MyGet 
 
 OK example
 
-[greyBox]
- Sharing source or binaries via packages created using VSTS Team Build 
-[/greyBox]
+[[greyBox]]
+|  Sharing source or binaries via packages created using VSTS Team Build 
 Good example
 ![Start from <br>      https://marketplace.visualstudio.com/items?itemName=ms.feed](package-management-site.png)
 

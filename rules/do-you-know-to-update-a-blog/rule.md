@@ -17,10 +17,9 @@ Use the word "UPDATED" clearly (in capitals and in red for example). The date sh
  
 Example:
 
-[greyBox]
-     UPDATED: 1 August 2010 [what you changed]
- 
-[/greyBox]
+[[greyBox]]
+|      UPDATED: 1 August 2010 [what you changed]
+|  
 
 [[okExample]]
 | ![Although Peter has the right idea, he needs to think more of a global audience - <br>](RulesBloggingUpdate_OKPeter.jpg)[See live](http://blog.gfader.com/2010/06/avoid-boolean-parameters-in-method.html)

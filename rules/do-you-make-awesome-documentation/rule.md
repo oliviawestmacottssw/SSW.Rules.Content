@@ -97,17 +97,16 @@ Add a readme.md to your solution (Use [this](https://docs.microsoft.com/en-us/az
 
 When a new developer starts on a project you want them to get up and running as soon as possible.
 
-[greyBox]
- If you were at Level 2 you might have a document that says:
-Dear Northwind Developer
-     This documentation describes what is required to configure a developer PC. 
-
-Problems to check for:
-  Windows 8 not supported
- Many things to build
- Lots of dependencies 
- 
-[/greyBox]
+[[greyBox]]
+|  If you were at Level 2 you might have a document that says:
+| Dear Northwind Developer
+|      This documentation describes what is required to configure a developer PC. 
+| 
+| Problems to check for:
+|   Windows 8 not supported
+|  Many things to build
+|  Lots of dependencies 
+|  
 
 
 You are at Level 2 when you have some static Word documents with the steps to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile.
@@ -128,49 +127,43 @@ Example of Level  6: PowerShell Documentation
 
 **Recommendation:** You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
 
-[greyBox]
- PS C:\Code\Northwind> **.\Setup-Environment.ps1** 
+[[greyBox | Good example - you see the problems in the devs environment]]
+|  PS C:\Code\Northwind> **.\Setup-Environment.ps1** 
+| 
+| Problem: Azure environment variable run state directory is not configured (\_CSRUN\_STATE\_DIRECTORY).
+|  
+| Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
+|  
+| WARNING: Abandoning remainder of script due to critical failures.
+|  
+| To try and automatically resolve the problems found, re-run the script with a -Fix flag.
+|
 
-Problem: Azure environment variable run state directory is not configured (\_CSRUN\_STATE\_DIRECTORY).
- 
-Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
- 
-WARNING: Abandoning remainder of script due to critical failures.
- 
-To try and automatically resolve the problems found, re-run the script with a -Fix flag.
- 
-[/greyBox]
-Figure: Good example - you see the problems in the devs environment
+[[greyBox | Good example - when running with - fix this script tries to automatically fix the problem]]
+|   <br>      
+| PS C:\Code\Northwind> .\Setup-Environment.ps1 -fix
+| 
+| Problem: Azure environment variable run state directory is not configured (\_CSRUN\_STATE\_DIRECTORY).
+| 
+| Fixed: \_CSRUN\_STATE\_DIRECTORY user variable set
+|  
+| Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
+| 
+| WARNING: No automated fix available for 'Azure Storage Service is running'
+|  
+| WARNING: Abandoning remainder of script due to critical failures.
+|
 
-[greyBox]
-  <br>      
-PS C:\Code\Northwind> .\Setup-Environment.ps1 -fix
-
-Problem: Azure environment variable run state directory is not configured (\_CSRUN\_STATE\_DIRECTORY).
-
-Fixed: \_CSRUN\_STATE\_DIRECTORY user variable set
- 
-Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
-
-WARNING: No automated fix available for 'Azure Storage Service is running'
- 
-WARNING: Abandoning remainder of script due to critical failures.
- 
-[/greyBox]
-Figure: Good example - when running with - fix this script tries to automatically fix the problem 
-
-[greyBox]
-  <br>      
-PS C:\Code\Northwind> .\Setup-Environment.ps1 -fix
-
-Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
-WARNING: No automated fix available for 'Azure Storage Service is running'
-
-WARNING: Abandoning remainder of script due to critical failures.
-
- 
-[/greyBox]
-Figure: Good example - Note that on the 2nd run, issues resolved by the 1st run are not re-reported 
+[[greyBox | Good example - Note that on the 2nd run, issues resolved by the 1st run are not re-reported]]
+|   <br>      
+| PS C:\Code\Northwind> .\Setup-Environment.ps1 -fix
+| 
+| Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
+| WARNING: No automated fix available for 'Azure Storage Service is running'
+| 
+| WARNING: Abandoning remainder of script due to critical failures.
+| 
+|
 
 
 ### Level 7: Less documentation (and Get Latest and compile with starting the application)
@@ -194,20 +187,19 @@ Similar to Level 6 except no setup document but a business document that details
 
 ### Level 3+: The rest of the jigsaw
 
-[greyBox]
- 
-**Scrum Tip: Update your Acceptance Criteria** - If you use a policy that requires commits to be linked to PBIs, then you understand that the PBI is now the documentation. If requirements change (based on a conversation with Product Owner of course) then the PBI should be updated.
-
-When updating the Acceptance Criteria, strike through the altered Acceptance Criteria and add the new ones. Get the PO to confirm your understanding.
-
-E.g.
-Enter search text, click ‘Google’, and see the results populate below.
-[Updated]
-Enter search text and automatically see the results populate below.
-
-This should be added to the [Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6449ae79-ba88-447e-aa48-36173029a2af).
- 
-[/greyBox]
+[[greyBox]]
+|  
+| **Scrum Tip: Update your Acceptance Criteria** - If you use a policy that requires commits to be linked to PBIs, then you understand that the PBI is now the documentation. If requirements change (based on a conversation with Product Owner of course) then the PBI should be updated.
+| 
+| When updating the Acceptance Criteria, strike through the altered Acceptance Criteria and add the new ones. Get the PO to confirm your understanding.
+| 
+| E.g.
+| Enter search text, click ‘Google’, and see the results populate below.
+| [Updated]
+| Enter search text and automatically see the results populate below.
+| 
+| This should be added to the [Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6449ae79-ba88-447e-aa48-36173029a2af).
+|  
 
 
 ![](Debt.jpg)

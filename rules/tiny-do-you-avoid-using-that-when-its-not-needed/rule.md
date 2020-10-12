@@ -9,12 +9,7 @@ authors: []
 
 'That' is occasionally an unnecessary addition to a sentence, especially if it's a title that would benefit from being short and punchy. As such, avoid using "that" in a title wherever possible.
 
-[greyBox]
- "Building Software that People Understand" 
-[/greyBox]
-Figure: Bad Example - unnecessary "that"
-[greyBox]
- "Building Software People Understand" 
-[/greyBox]
-
-Figure: Good Example - without the "that", the setence is concise and has more punch
+[[greyBox | Bad Example - unnecessary "that"]]
+|  "Building Software that People Understand"
+[[greyBox | Good Example - without the "that", the setence is concise and has more punch]]
+|  "Building Software People Understand"

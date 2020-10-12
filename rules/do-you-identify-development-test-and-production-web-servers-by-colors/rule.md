@@ -60,33 +60,31 @@ background-color : #bbffaa;
 
 Edit, **\** **\_common\styles\global.css.aspx**
 
-[greyBox]
- 
-
-```
-body.stage
-            {
-                <% if (CrmStyles.IsRightToLeft) { %>
-                    dir:rtl;
-                <%} %>
-                border-top:1px solid #6893cf;
-
-            /* background-color: #d6e8ff; */
-
-            background-color: #ffff00;
-
-            padding: 4px;
-            
-            /* background-repeat: repeat-x;
-            
-            background-image: url(/_imgs/app_back.gif);
-                  */
-            }
-```
-
- 
-[/greyBox]
- Figure: In C:\Inetpub\wwwroot\\_common\styles\global.css.aspx comment out and change the reference in yellow so the users know what server they are on
+[[greyBox | In C:\Inetpub\wwwroot\\_common\styles\global.css.aspx comment out and change the reference in yellow so the users know what server they are on]]
+|  
+| 
+| ```
+| body.stage
+|             {
+|                 <% if (CrmStyles.IsRightToLeft) { %>
+|                     dir:rtl;
+|                 <%} %>
+|                 border-top:1px solid #6893cf;
+| 
+|             /* background-color: #d6e8ff; */
+| 
+|             background-color: #ffff00;
+| 
+|             padding: 4px;
+|             
+|             /* background-repeat: repeat-x;
+|             
+|             background-image: url(/_imgs/app_back.gif);
+|                   */
+|             }
+| ```
+| 
+|
 ![Color of CRM Development Server - Red](CRM_DevelopmentColor.jpg)
 ![Color of CRM Test Server - Yellow](CRM_TestColor.jpg)
 ![Color of CRM Production Server - Default](CRM_ProductionColor.jpg)

@@ -25,21 +25,15 @@ You can have 1 or many names, depending on the booking
 
 
 
-[greyBox]
- Go to ACME Corp
-Work onsite for ACME Corp
-Mehmet working at ACME Corp
- 
-[/greyBox]
-
-Figure: Bad example - all inconsistent and hard to read
-[greyBox]
- ACME Corp - Mehmet
- ACME Corp - Mehmet, Dan
-ACME Corp (SharePoint) - Dan 
-[/greyBox]
-
-Figure: Good Examples
+[[greyBox | Bad example - all inconsistent and hard to read]]
+|  Go to ACME Corp
+| Work onsite for ACME Corp
+| Mehmet working at ACME Corp
+|
+[[greyBox | Good Examples]]
+|  ACME Corp - Mehmet
+|  ACME Corp - Mehmet, Dan
+| ACME Corp (SharePoint) - Dan
 
 
 The same format should also be used for leave requests ([the same for normal calendar appointments/invitations](/appointments-do-you-show-all-the-necessary-information-in-the-subject)).
@@ -47,8 +41,6 @@ The same format should also be used for leave requests ([the same for normal cal
 
 
 
-[greyBox]
- Leave - Mehmet
- 
-[/greyBox]
-Figure: Good Example:
+[[greyBox | Good Example:]]
+|  Leave - Mehmet
+|

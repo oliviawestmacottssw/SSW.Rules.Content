@@ -32,20 +32,16 @@ When the 'mistake' the person made is not an actual mistake, but something that 
 
 
 
-[greyBox]
-      **Tiny Tip:** I’d use international format on your phone number so people outside Australia can just click to dial - as per https://rules.ssw.com.au/great-email-signatures 
-[/greyBox]
-Figure: Good example - nicely informing of a small standard oversight 
+[[greyBox | Good example - nicely informing of a small standard oversight]]
+|       **Tiny Tip:** I’d use international format on your phone number so people outside Australia can just click to dial - as per https://rules.ssw.com.au/great-email-signatures
 
 ### Important things = Tip 
 
 When there is a proven better way to do something different from what the person has done. You should try to include the reasons.
 
-[greyBox]
-      **Tip:** I noticed your email has a very generic subject: "website". Please resend with a descriptive email subject as per Rules to Better Email. This way it is easier to identify, categorize and find this email later, without having to open it :)
- 
-[/greyBox]
-Figure: Good example - nicely informing of a better way to do something 
+[[greyBox | Good example - nicely informing of a better way to do something]]
+|       **Tip:** I noticed your email has a very generic subject: "website". Please resend with a descriptive email subject as per Rules to Better Email. This way it is easier to identify, categorize and find this email later, without having to open it :)
+|
 
 
 
@@ -54,13 +50,11 @@ Figure: Good example - nicely informing of a better way to do something
 
 When the error the person committed can lead to a misunderstanding or a security breach. You should include a task with action when necessary.
 
-[greyBox]
-       **Critical:** When sending a proposal never use the word "quote", but use "estimates" instead. As per Rules to Better Project Management we don't work with a fixed price, which is opposite to what the word "quote" implies. This might create different expectation and consequently frustration and legal problems with the client. 
-
-1. Please fix asap
- 
-[/greyBox]
-Figure: Good example - nicely informing of a critical mistake
+[[greyBox | Good example - nicely informing of a critical mistake]]
+|        **Critical:** When sending a proposal never use the word "quote", but use "estimates" instead. As per Rules to Better Project Management we don't work with a fixed price, which is opposite to what the word "quote" implies. This might create different expectation and consequently frustration and legal problems with the client. 
+| 
+| 1. Please fix asap
+|
 
 ### Coding - For Developers
 
@@ -106,22 +100,20 @@ When something is really personal, you can’t really correct someone unless you
 
 It's important to ensure others are doing their best to maintain and follow the standards. Remember, it can be just as important for someone's professional development to give feedback as it is to receive it. Being able to communicate feedback in an effective and professional manner can benefit you in any career.
 
-[greyBox]
-       **To:** Peter
- **CC:** Adam (Manager)
-
-Dear Peter,
-
-While you were away, I came across this page you edited, called ApplicationForm.aspx which was giving an error: 
-*'The conversion of a char data type to a DateTime data type resulted in an out-of-range DateTime value.'*
-
-Please note that whilst inserting data from your Front End application, you should not use the format  **dd/mm/** **yyyy** . 
-Instead, you should use  **yyyy** **/mm/dd** as per Rules to Better Databases.
-
-Let's fix it together when we get to work tomorrow.
-
-Cheers, 
-John
- 
-[/greyBox]
- Figure: Good example - nicely informing of a standards violation
+[[greyBox | Good example - nicely informing of a standards violation]]
+|        **To:** Peter
+|  **CC:** Adam (Manager)
+| 
+| Dear Peter,
+| 
+| While you were away, I came across this page you edited, called ApplicationForm.aspx which was giving an error: 
+| *'The conversion of a char data type to a DateTime data type resulted in an out-of-range DateTime value.'*
+| 
+| Please note that whilst inserting data from your Front End application, you should not use the format  **dd/mm/** **yyyy** . 
+| Instead, you should use  **yyyy** **/mm/dd** as per Rules to Better Databases.
+| 
+| Let's fix it together when we get to work tomorrow.
+| 
+| Cheers, 
+| John
+|

@@ -11,10 +11,9 @@ authors:
 
 ---
 
-[greyBox]
- Give your employees a flexibility for small leave periods (say 1-3 days) and let it be 'auto-approved'. That means that employees will often take small periods of leave with little notice. However, this has big benefits for both employees and employers, as it removes the incentive for employees to lie and say they are 'sick' when they need time off with short notice.
- 
-[/greyBox]
+[[greyBox]]
+|  Give your employees a flexibility for small leave periods (say 1-3 days) and let it be 'auto-approved'. That means that employees will often take small periods of leave with little notice. However, this has big benefits for both employees and employers, as it removes the incentive for employees to lie and say they are 'sick' when they need time off with short notice.
+|  
 
 ### For Employees:
 
@@ -36,26 +35,22 @@ Generally, people who need to know include:
 
 
 
-[greyBox]
- [Appointment to: @SSWAbsence]
-
-Hi SSW Absence,
-I'm going to Brazil for 2 weeks on Monday... wish me luck :)
-
-Thanks, Patricia
- 
-[/greyBox]
- Figure: Bad Example - not enough notice for substantial leave
-[greyBox]
- [Appointment to: @SSWAbsence]
-
-Hi SSW Absence,
-I want to book a ticket to go to Brazil for 2 weeks.
-I'd like to leave in about 4 weeks. I will, of course, check with my client before I purchase my tickets.
-
-Thanks, Patricia
- 
-[/greyBox]
-Figure: Good Example - appropriate notice given
+[[greyBox | Bad Example - not enough notice for substantial leave]]
+|  [Appointment to: @SSWAbsence]
+| 
+| Hi SSW Absence,
+| I'm going to Brazil for 2 weeks on Monday... wish me luck :)
+| 
+| Thanks, Patricia
+|
+[[greyBox | Good Example - appropriate notice given]]
+|  [Appointment to: @SSWAbsence]
+| 
+| Hi SSW Absence,
+| I want to book a ticket to go to Brazil for 2 weeks.
+| I'd like to leave in about 4 weeks. I will, of course, check with my client before I purchase my tickets.
+| 
+| Thanks, Patricia
+|
  
 ![Did you give enough notice, or do we need to track you down?](BeachEnforcers.jpg)

@@ -31,16 +31,15 @@ Let's go through them:
 This method is popular with Microsoft teams, but it has the problem of not easily mapping to the common 7 numbers when you enter it into a Task tracking Bug database. eg.
 
 
-> [greyBox]
- 1 = XS
-> 2 = S
-> 4 = M
-> 8 = L
-> 16 = XL
-> 32 = XXL
-> 64 = XXXL
->  
-[/greyBox]
+> [[greyBox]]
+|  1 = XS
+| > 2 = S
+| > 4 = M
+| > 8 = L
+| > 16 = XL
+| > 32 = XXL
+| > 64 = XXXL
+| >  
 > 
 > **Please note:** In some teams which only use Small, Medium and Large the following numbering is applyed respectively 2, 4 and 8.
 
@@ -67,18 +66,16 @@ Estimating using doubling numbers makes relative sizing simple. An 8 point PBI s
 
 It has one other advantage over the Fibonacci sequence, it is easier for non-techies because the numbers aren't whacky and the name isn't bizarre.
 
-[greyBox]
-  **Estimate** 
-1
-2
-4
-8
-16
-32
-64
- 
-[/greyBox]
-Figure: Good example -Doubling simplifies relative sizing
+[[greyBox | Good example -Doubling simplifies relative sizing]]
+|   **Estimate** 
+| 1
+| 2
+| 4
+| 8
+| 16
+| 32
+| 64
+|
 ### Thrown
 
 Another method of estimating is the "Thrown method" as described Martin Fowler. http://martinfowler.com/bliki/ThrownEstimate.html

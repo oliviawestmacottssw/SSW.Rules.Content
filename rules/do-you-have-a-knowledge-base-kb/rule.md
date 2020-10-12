@@ -16,22 +16,20 @@ So, if you answer questions on your products to customers, you are wasting time 
 
 Now of course there are many customers who don't look for a KB, but instead you fire off the same old email that you already know is an MDAC related error, and your current solution is to tell them to run SSW Diagnostics and get all the green ticks.
 
-[greyBox]
- 
-Dear Harry,
-
-Thank you for taking the time to report the issue for SSW Code Auditor. I'm happy to let you know that this is a known issue and has been addressed in our knowledge base. 
-
-Please see [http://www.ssw.com.au/ssw/KB/KB.asp?KBID=Q260000](http&#58;//www.ssw.com.au/ssw/KB/KB.asp?KBID=Q260000)
-
- 
-
-Thanks,
-John Prince
-[http://www.ssw.com.au](http&#58;//www.ssw.com.au/ssw/)
- 
-[/greyBox]
-Figure: Responding to a known issue with a KB article 
+[[greyBox | Responding to a known issue with a KB article]]
+|  
+| Dear Harry,
+| 
+| Thank you for taking the time to report the issue for SSW Code Auditor. I'm happy to let you know that this is a known issue and has been addressed in our knowledge base. 
+| 
+| Please see [http://www.ssw.com.au/ssw/KB/KB.asp?KBID=Q260000](http&#58;//www.ssw.com.au/ssw/KB/KB.asp?KBID=Q260000)
+| 
+|  
+| 
+| Thanks,
+| John Prince
+| [http://www.ssw.com.au](http&#58;//www.ssw.com.au/ssw/)
+|
 The basic rule is: don't send back the answer in your email - instead send back the link. More specifically:
 
 1. If you can answer a support email then reply to the support email (using one of the 4 templates on the right)
@@ -44,53 +42,47 @@ The basic rule is: don't send back the answer in your email - instead send back 
     - Ask the developer to “Please action?"
 
 
-[greyBox]
- 
-Dear Harry,
-
-Thank you for taking the time to report the issue for SSW Code Auditor.
-
-I am sorry to let you know that I cannot reproduce this. Could you please provide me with more details or, even better, would I be able to connect to your PC? It is simple and you can see everything I do. To do so, you can send me an appointment for an appropriate time or add me to your Skype
-
-P.S. Don't forget to run [SSW Diagnostics](http&#58;//www.ssw.com.au/diagnostics), ensuring that you only get green ticks.
-
-Kind Regards, 
-Bob
- 
-[/greyBox]
-Figure: Responding when you cannot reproduce the issue 
-[greyBox]
- 
-Dear Harry,
-
-Done. The code changed from
-
-xxx
-to
-     yyy
-
-Thank you for reporting this bug - our software only gets better with help from our customers. This fix will be available in the next version shortly. In the meanwhile, [download an interim build.](http&#58;//www.ssw.com.au/)
-
-Kind Regards,
-Bob
- 
-[/greyBox]
-Figure: Informing of a Fix (Email 1 of 2) Note: In this email, you can offer them an interim build
-[greyBox]
- 
-Dear Harry,
-
-Thank you for taking the time to report the issue for SSW Code Auditor. I'm happy to let you know that this problem is fixed in this release.
-
-Please download the new version at [http://www.ssw.com.au/ssw/Download/download.aspx](http&#58;//www.ssw.com.au/ssw/Download/download.aspx)
-
-P.S. Don't forget to run SSW Diagnostics and gets all green ticks [www.ssw.co m.au/diagnostics](http&#58;//www.ssw.com.au/SSW/Diagnostics/default.aspx)
-
-Kind Regards, 
-Bob
- 
-[/greyBox]
-Figure: Informing of a New Version (Email 2 of 2)
+[[greyBox | Responding when you cannot reproduce the issue]]
+|  
+| Dear Harry,
+| 
+| Thank you for taking the time to report the issue for SSW Code Auditor.
+| 
+| I am sorry to let you know that I cannot reproduce this. Could you please provide me with more details or, even better, would I be able to connect to your PC? It is simple and you can see everything I do. To do so, you can send me an appointment for an appropriate time or add me to your Skype
+| 
+| P.S. Don't forget to run [SSW Diagnostics](http&#58;//www.ssw.com.au/diagnostics), ensuring that you only get green ticks.
+| 
+| Kind Regards, 
+| Bob
+|
+[[greyBox | Informing of a Fix]]
+|  
+| Dear Harry,
+| 
+| Done. The code changed from
+| 
+| xxx
+| to
+|      yyy
+| 
+| Thank you for reporting this bug - our software only gets better with help from our customers. This fix will be available in the next version shortly. In the meanwhile, [download an interim build.](http&#58;//www.ssw.com.au/)
+| 
+| Kind Regards,
+| Bob
+|(Email 1 of 2) Note: In this email, you can offer them an interim build
+[[greyBox | Informing of a New Version]]
+|  
+| Dear Harry,
+| 
+| Thank you for taking the time to report the issue for SSW Code Auditor. I'm happy to let you know that this problem is fixed in this release.
+| 
+| Please download the new version at [http://www.ssw.com.au/ssw/Download/download.aspx](http&#58;//www.ssw.com.au/ssw/Download/download.aspx)
+| 
+| P.S. Don't forget to run SSW Diagnostics and gets all green ticks [www.ssw.co m.au/diagnostics](http&#58;//www.ssw.com.au/SSW/Diagnostics/default.aspx)
+| 
+| Kind Regards, 
+| Bob
+|(Email 2 of 2)
 Notice how by just giving them the URL, this email does the job of encouraging them to use your knowledge base in the future. You need to make sure the support staff know that there are really only 4 types of emails customers should be receiving (see the 4 grey boxes).
 
 Things are running well when you have support staff adding new KB for:
@@ -106,18 +98,16 @@ You don't need to be Microsoft to build a KB. A Knowledge Base does not need to 
 
 Suggestions for features should be added to the backlog and voted on at uservoice.com:
 
-[greyBox]
- 
-Dear Harry,
-
-Thanks for the suggestion for SSW Code Auditor!
-
-I have added it to the list of future developments (which we call our backlog). Future features can be voted on at [uservoice. com](https&#58;//www.uservoice.com/) .
-
-Thanks,
-John Prince
-
-www.ssw.com.au
- 
-[/greyBox]
-Figure: Responding to a Feature Suggestion
+[[greyBox | Responding to a Feature Suggestion]]
+|  
+| Dear Harry,
+| 
+| Thanks for the suggestion for SSW Code Auditor!
+| 
+| I have added it to the list of future developments (which we call our backlog). Future features can be voted on at [uservoice. com](https&#58;//www.uservoice.com/) .
+| 
+| Thanks,
+| John Prince
+| 
+| www.ssw.com.au
+|

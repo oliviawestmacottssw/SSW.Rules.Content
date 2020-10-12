@@ -20,9 +20,6 @@ Check  http://&lt;AnySiteCollection&gt;/\_vti\_pvt/service.cnf
 See [http://www.jeremythake.com/2013/08/get-sharepoint-version-number-of-your-platform-quickly/](http&#58;//www.jeremythake.com/2013/08/get-sharepoint-version-number-of-your-platform-quickly/) for details.
 
  
-[greyBox]
- vti\_encoding:SR|utf8-nl 
-vti\_extenderversion:SR|16.0.0.4327 
-[/greyBox]
-
-Figure: On SharePoint 2016, this is what you get for https://intranet.ssw.com.au for example
+[[greyBox | On SharePoint 2016, this is what you get for https://intranet.ssw.com.au for example]]
+|  vti\_encoding:SR|utf8-nl 
+| vti\_extenderversion:SR|16.0.0.4327

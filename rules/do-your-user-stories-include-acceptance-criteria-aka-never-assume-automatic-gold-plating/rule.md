@@ -29,22 +29,17 @@ There are 2 parts to getting this right. The Acceptance Criteria, then the Accep
  
 ![A User Story with Acceptance Criteria](acceptance-criteria.jpg)(MSF Agile Template)
 
-[greyBox]
- When I enter ‘Adam’ in the search box and click 'Search' I will see all entries starting with 'Adam' in the grid. 
-[/greyBox]
-Figure: Bad Example of Acceptance Criteria - Incomplete 
+[[greyBox | Bad Example of Acceptance Criteria - Incomplete]]
+|  When I enter ‘Adam’ in the search box and click 'Search' I will see all entries starting with 'Adam' in the grid.
 
-[greyBox]
- Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ I will see all entries starting with Adam in the Grid
-Negative Test - When I enter ‘zzz’ in the Search box and click ‘Search’ I will see \*no\* entries in the Grid
- 
-[/greyBox]
- Figure: OK Example of Acceptance Criteria
-[greyBox]
- Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ I will see all entries starting with Adam in the Grid
-Negative Test - When I enter ‘zzz’ in the Search box and click ‘Search’ I will see \*no\* entries in the Grid
- 
-[/greyBox]Gold Plating - If no results are retuned show a message box ‘No results found’
+[[greyBox | OK Example of Acceptance Criteria]]
+|  Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ I will see all entries starting with Adam in the Grid
+| Negative Test - When I enter ‘zzz’ in the Search box and click ‘Search’ I will see \*no\* entries in the Grid
+|
+[[greyBox]]
+|  Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ I will see all entries starting with Adam in the Grid
+| Negative Test - When I enter ‘zzz’ in the Search box and click ‘Search’ I will see \*no\* entries in the Grid
+|  Gold Plating - If no results are retuned show a message box ‘No results found’
 Gold Plating – Validation: If no search text is entered, the ‘Search’ button should be disabled
 Gold Plating – Right-clicking on a column header should provide ‘Sort’ functionality
 Gold Plating – if a large set of results is returned, display pagination with page numbers and ‘Prev’, ‘Next’ links
@@ -52,9 +47,7 @@ Figure: Good Example of Acceptance Criteria – Including Gold Plating
 
 For tiny stories, you can omit acceptance criteria. Sometimes you just need a screenshot, or even better a video.
 
-[greyBox]
- See screenshot and video.
-Screenshot – [see PDF](/Documents/13_Anvil_1408_Customer.pdf)
-Video - [http://ww w.youtube.com/watch?v=M3FH4D9QuzU](http://www.youtube.com/watch?v=M3FH4D9QuzU "http://www.youtube.com/watch?v=M3FH4D9QuzU") 
-[/greyBox]
-Figure: Good Example for a simple change – just include a screen capture and/or video
+[[greyBox | Good Example for a simple change – just include a screen capture and/or video]]
+|  See screenshot and video.
+| Screenshot – [see PDF](/Documents/13_Anvil_1408_Customer.pdf)
+| Video - [http://ww w.youtube.com/watch?v=M3FH4D9QuzU](http://www.youtube.com/watch?v=M3FH4D9QuzU "http://www.youtube.com/watch?v=M3FH4D9QuzU")

@@ -28,12 +28,11 @@ The last question is key as it could lead to substantially more work, but you sh
 
 It's also a good idea to mention that this will happen at the end of the course so that the call doesn't come out of the blue. The speaker could say something like:
 
-[greyBox]
- <br>                    
-*"Thanks for attending today. You can email either of us after this.
-<br>                    Also in the next few weeks 5 of you will be picked at random for a 'Retro Coffee'
-<br>                    It is about 20 mins. Bring your problems. We will chat about the course and what you still need to know."*
-<br>                 
-[/greyBox]
+[[greyBox]]
+|  <br>                    
+| *"Thanks for attending today. You can email either of us after this.
+| <br>                    Also in the next few weeks 5 of you will be picked at random for a 'Retro Coffee'
+| <br>                    It is about 20 mins. Bring your problems. We will chat about the course and what you still need to know."*
+| <br>                 
 
 Read how this rule is also useful for presenters on [Do you do a Retro Coffee after presentations?](/do-you-do-a-retro-coffee-after-presentations)

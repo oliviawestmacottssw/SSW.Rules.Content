@@ -17,14 +17,10 @@ So make it easier to add English speakers into the loop at a moments notice.
 
 The most polite way of doing this is to mention in the email why you are using English.
 
-[greyBox]
-      Hi Joe, hope all is well. I wanted to confirm our conversation... 
-[/greyBox]
-Figure: Bad example 
+[[greyBox | Bad example]]
+|       Hi Joe, hope all is well. I wanted to confirm our conversation...
 
-[greyBox]
- (This is in English since I have included a Sydney colleague... let me know if you need it in Chinese).
-
-Hi Joe, hope all is well. I wanted to confirm our conversation... 
-[/greyBox]
-Figure: Good example
+[[greyBox | Good example]]
+|  (This is in English since I have included a Sydney colleague... let me know if you need it in Chinese).
+| 
+| Hi Joe, hope all is well. I wanted to confirm our conversation...

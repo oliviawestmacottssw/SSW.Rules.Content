@@ -143,31 +143,28 @@ Screen captures should always include the:
  **\* Top left - so you can see what browser it is eg. Internet Explorer or FireFox** 
 ### Tip 7: When appropriate use text instead of an image
 
-[greyBox]
- To: Ross
-From: J Liu
-Subject: RE: BUG on Product.aspx 
-[/greyBox]
+[[greyBox]]
+|  To: Ross
+| From: J Liu
+| Subject: RE: BUG on Product.aspx 
 
-[greyBox]
- 
-DONE - There was a problem with the SQL. I added the line highlighted in Yellow:
-
-
-```
-SELECTProdName = CASE WHEN Download.ProdCategoryID <> ''
-
-THEN ProdCategory.CategoryNameELSE Download.ProdName END,Downloads = (SELECT Count(*) FROM ClientDiaryWHERE ClientDiary.DownloadID = Download.DownloadID 
-
-AND ClientDiary.CategoryID = 'DOWN'AND ClientDiary.DateCreated > '01/01/2000'AND ClientDiary.DateCreated < '01/01/2003')FROMDownloadLEFT JOIN ProdCategory 
-ON Download.ProdCategoryID = ProdCategory.CategoryID    
-
-ORDER By Downloads DESC
-```
-
- 
-[/greyBox]
- Figure: Good example - Most of the time screens need images. However, this "DONE" uses text instead of an image. It is easier to search and easy to reply with a modification 
+[[greyBox | Good example - Most of the time screens need images. However, this "DONE" uses text instead of an image. It is easier to search and easy to reply with a modification]]
+|  
+| DONE - There was a problem with the SQL. I added the line highlighted in Yellow:
+| 
+| 
+| ```
+| SELECTProdName = CASE WHEN Download.ProdCategoryID <> ''
+| 
+| THEN ProdCategory.CategoryNameELSE Download.ProdName END,Downloads = (SELECT Count(*) FROM ClientDiaryWHERE ClientDiary.DownloadID = Download.DownloadID 
+| 
+| AND ClientDiary.CategoryID = 'DOWN'AND ClientDiary.DateCreated > '01/01/2000'AND ClientDiary.DateCreated < '01/01/2003')FROMDownloadLEFT JOIN ProdCategory 
+| ON Download.ProdCategoryID = ProdCategory.CategoryID    
+| 
+| ORDER By Downloads DESC
+| ```
+| 
+|
 ### Tip 8: Handle an email once
 
 Follow a tip I got from my accounting days... "A sign of an efficient person is they handle a piece of paper once". When you get an email - don't just open it, have a quick look and close it with the idea that you will go back to it later. Read it, make a decision and do the action. Delete as many emails as you can on the first go.

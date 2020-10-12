@@ -11,39 +11,34 @@ authors:
 
 Brian Harry said in [his blog](https://blogs.msdn.microsoft.com/bharry/2017/08/18/taking-feedback/):
  
-[greyBox]
- "Examples – When giving feedback, it’s often useful to use examples. Examples help make the feedback concrete. But, don’t allow the conversation to turn into a refutation of every example. I've been in conversations where the person I'm talking with wants to go through every example I have and explain why my interpretation is wrong. Be open to being wrong but don’t let it turn into point/counterpoint. Examples are only examples to support your feedback."
- 
-[/greyBox]
+[[greyBox]]
+|  "Examples – When giving feedback, it’s often useful to use examples. Examples help make the feedback concrete. But, don’t allow the conversation to turn into a refutation of every example. I've been in conversations where the person I'm talking with wants to go through every example I have and explain why my interpretation is wrong. Be open to being wrong but don’t let it turn into point/counterpoint. Examples are only examples to support your feedback."
+|  
 
 When receiving a generic criticism, it's natural to sometimes ask for examples to help you understand what type of behaviour is being alluded to, but be careful to not then become defensive or fixated on justifying that instance.
 
 If you feel you have some vital context to explain about that one example, make sure, as a minimum you end by saying "...but I do take your point in general."
 
-[greyBox]
- Jane: I feel like you never reply to my emails, but I see on emails I am cc'ed on your reply to emails from others.
-Bob: Really? Can you give an example?
-(pause)
-Jane: The one about XXX
-Bob: I didn't reply because I saw Tiago reply. 
-(pause)
-Jane: And that other one about YYY.
-Bob: I didn't reply because I thought you're upset and I felt it was a sensitive topic.
-(pause)
-Jane: I can't think of any other but it does happen
- 
-[/greyBox]
-Figure: Bad example - Jane runs out of arguments and walks away deflated
+[[greyBox | Bad example - Jane runs out of arguments and walks away deflated]]
+|  Jane: I feel like you never reply to my emails, but I see on emails I am cc'ed on your reply to emails from others.
+| Bob: Really? Can you give an example?
+| (pause)
+| Jane: The one about XXX
+| Bob: I didn't reply because I saw Tiago reply. 
+| (pause)
+| Jane: And that other one about YYY.
+| Bob: I didn't reply because I thought you're upset and I felt it was a sensitive topic.
+| (pause)
+| Jane: I can't think of any other but it does happen
+|
 
-[greyBox]
- Jane: I feel like you never reply to my emails, but I see on emails I am cc'ed on your reply to emails from others.
-Bob: Really? Can you give an example?
-(pause)
-Jane: The one about XXX
-Bob: I didn't reply because I saw Tiago reply... however,  **I do take your point in general.** I will try to do better for the next week. Let me know if I've improved.
- 
-[/greyBox]
-Figure: Good example - Jane feels heard 
+[[greyBox | Good example - Jane feels heard]]
+|  Jane: I feel like you never reply to my emails, but I see on emails I am cc'ed on your reply to emails from others.
+| Bob: Really? Can you give an example?
+| (pause)
+| Jane: The one about XXX
+| Bob: I didn't reply because I saw Tiago reply... however,  **I do take your point in general.** I will try to do better for the next week. Let me know if I've improved.
+|
 
 
 

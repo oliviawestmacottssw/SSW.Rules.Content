@@ -13,17 +13,12 @@ authors:
 
 Ugly URL's don't only make it difficult for users to browse your site, they can also impact your Google rankings.
 
-[greyBox]
- http://www.northwind.com/MyInternalDB/UserDatabase/ProductList.aspx?productname=Access 
-[/greyBox]
-Figure: If you have a nasty URL like this...
+[[greyBox | If you have a nasty URL like this...]]
+|  http://www.northwind.com/MyInternalDB/UserDatabase/ProductList.aspx?productname=Access
 You should fix it up to look more like this:
 
-[greyBox]
- http://www.northwind.com/products/access 
-[/greyBox]
-
-Figure: Users could even guess the URL
+[[greyBox | Users could even guess the URL]]
+|  http://www.northwind.com/products/access
 
  
 1. Add in Global.asax a route

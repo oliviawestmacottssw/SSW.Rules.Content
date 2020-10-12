@@ -54,19 +54,17 @@ More: https://docs.microsoft.com/en-us/office365/securitycompliance/keyword-quer
 ![Example of using Filetype: filter3. Use Boolean OR and AND operators](filter-sharepoint-example.png)
 Similar to Google and Bing, you can use OR and AND Boolean operators. E.g. "sharepoint AND search".
 
-[greyBox]
- Note: OR and AND must be capitalized, however case is irrelevant for actual search terms.
- 
-[/greyBox]
+[[greyBox]]
+|  Note: OR and AND must be capitalized, however case is irrelevant for actual search terms.
+|  
 
 ### 4. Use an <br>   [asterisk (\*)](http://en.wikipedia.org/wiki/Asterisk) wildcard for partial matches
 
 This can be useful if you know that certain words are used together, e.g. Fire\* will return results for FireBootCamp.
 
-[greyBox]
- Note: Because of word stemming which is enabled by default in SharePoint 2019, 2016 and 2013, you do not need to use wildcards to find variations on words. For example, searching for "computer" will return results that contain "computers", so you do not need to search for "computer\*". 
- 
-[/greyBox]
+[[greyBox]]
+|  Note: Because of word stemming which is enabled by default in SharePoint 2019, 2016 and 2013, you do not need to use wildcards to find variations on words. For example, searching for "computer" will return results that contain "computers", so you do not need to search for "computer\*". 
+|  
 
 ### 5. Use double quotes to find specific phrases
 

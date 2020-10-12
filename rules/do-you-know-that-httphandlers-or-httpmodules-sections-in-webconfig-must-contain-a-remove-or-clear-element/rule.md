@@ -15,46 +15,42 @@ If web.config contains a &lt;httpHandlers&gt; or &lt;httpModules&gt; section, th
 
 This basically forces developers to explicitly enable inheritance in nested virtual directories. In 99% of cases this developers won't use inheritance on these two sections, however it causes issues when somebody wants to add a module or handler to the parent virtual directory.
  
-[greyBox]
- 
-
-```
-<configuration>
-   <system.web>
-      <httpHandlers>
-         <add verb="*" 
-              path="*.New" 
-              type="MyHandler.New,MyHandler"/>
-         <add verb="GET,HEAD" 
-              path="*.MyNewFileExtension" 
-              type="MyHandler.MNFEHandler,MyHandler.dll"/>
-     </httpHandlers>
-   <system.web>
-</configuration>
-```
-
- 
-[/greyBox]
-Figure: Bad example
-[greyBox]
- 
-
-```
-<configuration>
-   <system.web>
-      <httpHandlers>
-         <clear/>
-         <add verb="*" 
-              path="*.New" 
-              type="MyHandler.New,MyHandler"/>
-         <add verb="GET,HEAD" 
-              path="*.MyNewFileExtension" 
-              type="MyHandler.MNFEHandler,MyHandler.dll"/>
-     </httpHandlers>
-   <system.web>
-<configuration>
-```
-
- 
-[/greyBox]
-Figure: Good example
+[[greyBox | Bad example]]
+|  
+| 
+| ```
+| <configuration>
+|    <system.web>
+|       <httpHandlers>
+|          <add verb="*" 
+|               path="*.New" 
+|               type="MyHandler.New,MyHandler"/>
+|          <add verb="GET,HEAD" 
+|               path="*.MyNewFileExtension" 
+|               type="MyHandler.MNFEHandler,MyHandler.dll"/>
+|      </httpHandlers>
+|    <system.web>
+| </configuration>
+| ```
+| 
+|
+[[greyBox | Good example]]
+|  
+| 
+| ```
+| <configuration>
+|    <system.web>
+|       <httpHandlers>
+|          <clear/>
+|          <add verb="*" 
+|               path="*.New" 
+|               type="MyHandler.New,MyHandler"/>
+|          <add verb="GET,HEAD" 
+|               path="*.MyNewFileExtension" 
+|               type="MyHandler.MNFEHandler,MyHandler.dll"/>
+|      </httpHandlers>
+|    <system.web>
+| <configuration>
+| ```
+| 
+|

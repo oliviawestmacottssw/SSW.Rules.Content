@@ -20,11 +20,11 @@ Make a new class that inherits from Telerik.Sitefinity.Modules.Libraries.BlobSto
 Once you have made your class then you need to register it in Sitefinity.
  Open the config file “App\_Data\Sitefinity\Configuration\LibrariesConfig.config” in notepad and register your Class
 
-[greyBox]
- 
-
-```
-<?xml version="1.0" encoding="utf-8"?>
+[[greyBox]]
+|  
+| 
+| ```
+| <?xml version="1.0" encoding="utf-8"?>
     <librariesConfig xmlns:config="urn:telerik:sitefinity:configuration" xmlns:type="urn:telerik:sitefinity:configuration:type" config:version="5.1.3270.0">
         <blobStorage defaultProvider="CDN">
      <providers>
@@ -33,7 +33,6 @@ Once you have made your class then you need to register it in Sitefinity.
      </providers>
  </blobStorage>
     </librariesConfig>
-```
-
- 
-[/greyBox]
+| ```
+| 
+|

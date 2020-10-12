@@ -16,22 +16,20 @@ authors:
  
 ![Test Cases in a User Story](acceptance-criteria-test-cases.jpg)(MSF For Agile Template)
 
-[greyBox]
- Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ I will see all entries starting with Adam in the Grid
- Negative Test - When I enter ‘zzz’ in the Search box and click ‘Search’ I will see \*no\* entries in the Grid
- Gold Plating - If no results are retuned show a message box ‘No results found’
- Gold Plating – Validation: If no search text is entered, the ‘Search’ button should be disabled
- Gold Plating – Validation: If the button is disable and search text is entered, the ‘Search’ button becomes enabled
- Gold Plating – Right clicking on a column header and using the ‘Sort’ functionality, sorts the data by that column
- Gold Plating – if a large set of results is returned, clicking the pagination page numbers shows the correct data
- Gold Plating – if a large set of results is returned and we are on page > 1, clicking the ‘Prev’ button goes to the previous page
- Gold Plating – if a large set of results is returned and we are on page 1, ‘Prev’ button does not error
- Gold Plating – if a large set of results is returned and we are on page < MaxPage, clicking the ‘Next’ button goes to the next page
- Gold Plating – if a large set of results is returned and we are on page = MaxPage, clicking the ‘Next’ button does not error
-
-  
-[/greyBox]
- Figure: Good example - Acceptance Tests
+[[greyBox | Good example - Acceptance Tests]]
+|  Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ I will see all entries starting with Adam in the Grid
+|  Negative Test - When I enter ‘zzz’ in the Search box and click ‘Search’ I will see \*no\* entries in the Grid
+|  Gold Plating - If no results are retuned show a message box ‘No results found’
+|  Gold Plating – Validation: If no search text is entered, the ‘Search’ button should be disabled
+|  Gold Plating – Validation: If the button is disable and search text is entered, the ‘Search’ button becomes enabled
+|  Gold Plating – Right clicking on a column header and using the ‘Sort’ functionality, sorts the data by that column
+|  Gold Plating – if a large set of results is returned, clicking the pagination page numbers shows the correct data
+|  Gold Plating – if a large set of results is returned and we are on page > 1, clicking the ‘Prev’ button goes to the previous page
+|  Gold Plating – if a large set of results is returned and we are on page 1, ‘Prev’ button does not error
+|  Gold Plating – if a large set of results is returned and we are on page < MaxPage, clicking the ‘Next’ button goes to the next page
+|  Gold Plating – if a large set of results is returned and we are on page = MaxPage, clicking the ‘Next’ button does not error
+| 
+|
 ![The tester sees the Test Cases in Test Manager](test-cases.jpg)
 ![The tester follows each instruction](test-steps.jpg)(aka the Test Steps), and gives it a tick or cross
 ## Related Resources

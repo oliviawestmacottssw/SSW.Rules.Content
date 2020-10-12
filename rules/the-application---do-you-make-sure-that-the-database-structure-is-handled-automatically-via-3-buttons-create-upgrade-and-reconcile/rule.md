@@ -21,24 +21,23 @@ You try and reproduce it on your version in the office and everything works perf
 
  You suspect that the customer probably has changed the schema. So you start drafting an email to the user like:
 
-[greyBox]
- Mary, I need you to send me your database schema as it might be different from what it should be. Can you:
-
-1. Open up Enterprise Manager in you are on SQL 2000 (or open SQL Management Studio if you are on SQL 2005, 2008 or 2010)
-2. Open the first tree
-3. Open the second tree
-4. Select your server
-5. Open that tree
-6. Select Databases
-7. Open that tree
-8. Select the database called Northwind
-9. Right click it and choose All Tasks, then  **Generate SQL Script**
-10. Then select the options
-11. etc
-12. Then when I get this I will compare and I will make a script file for you to run and fix the problem
-
-<br> 
-[/greyBox]
+[[greyBox]]
+|  Mary, I need you to send me your database schema as it might be different from what it should be. Can you:
+| 
+| 1. Open up Enterprise Manager in you are on SQL 2000 (or open SQL Management Studio if you are on SQL 2005, 2008 or 2010)
+| 2. Open the first tree
+| 3. Open the second tree
+| 4. Select your server
+| 5. Open that tree
+| 6. Select Databases
+| 7. Open that tree
+| 8. Select the database called Northwind
+| 9. Right click it and choose All Tasks, then  **Generate SQL Script**
+| 10. Then select the options
+| 11. etc
+| 12. Then when I get this I will compare and I will make a script file for you to run and fix the problem
+| 
+| <br> 
 
 STOP! STOP! STOP!
  It would be much better to just say:
@@ -56,13 +55,12 @@ For more information see [Best Tools for SQL Server](http://www.ssw.com.au/ssw/S
 
 ![When weird errors are happening at a client, you need a "Reconcile" button in your application. This compares the current scripts, to the client's database and tells you if things are not right](Reconcile.jpg)
 ![First time your client opens the application, they will need to Creating a database. It should be as easy as clicking "Create"](NewDatabaseDialog.jpg)
-[greyBox]
- As a developer, I promise to do these 3 things:
-1. Save every SQL change I do as a script
-2. Make sure the application I develop, has 3 buttons, "Create", "Update" and "Reconcile"
-3. Never ask a client to run a script
-
-<br> 
-[/greyBox]
+[[greyBox]]
+|  As a developer, I promise to do these 3 things:
+| 1. Save every SQL change I do as a script
+| 2. Make sure the application I develop, has 3 buttons, "Create", "Update" and "Reconcile"
+| 3. Never ask a client to run a script
+| 
+| <br> 
 
 ![Adam makes all his new developers swear in and repeat this](ObamSwearing.jpg)

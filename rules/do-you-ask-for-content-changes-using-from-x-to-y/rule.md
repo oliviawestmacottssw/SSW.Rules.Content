@@ -17,36 +17,32 @@ When asking for changes to be made to any file like a web page, Word document, P
 
 Make the changes even easier to see and understand by highlighting in red what you want to delete (only do this on the "From" section) and in yellow what you want to be added/updated (only do this on the "To" section).  All text we do not write ourselves should be indented, so this includes paragraphs we are copying and pasting (see [Do you use indentation for readability?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=4d9255a5-7b57-4f98-9e86-3bbb8a64ce75))
  
-[greyBox]
- 
-**Hi Eric,**
-
-1. For the Code Auditor web page, please make the list read:
-
-- Scan all your projects for coding errors
-- Guarantee Industry best practices
-- Friendly licensing model, bloggers even pay 0$ for the full version!
- 
-[/greyBox]
-Figure: Bad example - original version of content has not been included in the email, 
-[greyBox]
- 
-**Hi Eric,**
-
-1. On the Code Auditor web page, please change              http://www.ssw.com.au/ssw/codeauditor:
-
-Change from:
-     - Scan all your projects for coding              bugs and errors
-     - Enforce industry best practices              
-     - Friendly licensing model pay nothing for the full version!
-
-To:
-    - Scan all your projects for coding errors
-    - Guarantee industry best practices
-    - Friendly licensing model, bloggers even pay  0$ for the full version!
- 
-[/greyBox]
-Figure: Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed
+[[greyBox | Bad example - original version of content has not been included in the email,]]
+|  
+| **Hi Eric,**
+| 
+| 1. For the Code Auditor web page, please make the list read:
+| 
+| - Scan all your projects for coding errors
+| - Guarantee Industry best practices
+| - Friendly licensing model, bloggers even pay 0$ for the full version!
+|
+[[greyBox | Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed]]
+|  
+| **Hi Eric,**
+| 
+| 1. On the Code Auditor web page, please change              http://www.ssw.com.au/ssw/codeauditor:
+| 
+| Change from:
+|      - Scan all your projects for coding              bugs and errors
+|      - Enforce industry best practices              
+|      - Friendly licensing model pay nothing for the full version!
+| 
+| To:
+|     - Scan all your projects for coding errors
+|     - Guarantee industry best practices
+|     - Friendly licensing model, bloggers even pay  0$ for the full version!
+|
 
 ### If there are too many changes
 

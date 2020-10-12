@@ -11,20 +11,14 @@ authors:
 
 When creating an appointment email for an initial meeting, make sure you include the words " **initial** " and " **meeting** " on the subject. 
 
-[greyBox]
- Subject:  Northwind project with SSW and Bob
- 
-[/greyBox]
+[[greyBox | Bad subject - not clear it is an initial meeting]]
+|  Subject:  Northwind project with SSW and Bob
+|
 
- Figure: Bad subject - not clear it is an initial meeting
-
-[greyBox]
- Subject: Initial meeting with SSW and Bob from Northwind
-Subject: Initial phone meeting with SSW and Bob from Northwind
- 
-[/greyBox]
-
-Figure: Good subjects - Make clear it is an initial meeting by having both words 
+[[greyBox | Good subjects - Make clear it is an initial meeting by having both words]]
+|  Subject: Initial meeting with SSW and Bob from Northwind
+| Subject: Initial phone meeting with SSW and Bob from Northwind
+|
 
 
  

@@ -19,10 +19,9 @@ The actual Page Rank algorithm looks like this:  **PR(A) = (1-d) + d (PR(T1)/C(
 The basic premise that comes from this algorithm is:
 
 
-[greyBox]
- When I link to your page, I'm casting a vote that your page is good and the more links (votes) that are received the better the page is. 
- 
-[/greyBox]
+[[greyBox]]
+|  When I link to your page, I'm casting a vote that your page is good and the more links (votes) that are received the better the page is. 
+|  
  
 This statement alone sent shockwaves through the webmaster community and sent many webmasters on an endless quest for links. All pages begin with an equal page rank, which is then moved around based on the internal and external links to and from that page.
 It's important not to forget that Page Rank is not the only factor involved in a search. Essentially Google completes the following steps when you perform a search:

@@ -20,7 +20,5 @@ Let's look at 3 examples:
 [[okExample]]
 | ![this image is great because it gives context by including the surrounding area, but you still need the text for SEO benefits](OKExampleForErrorMSG.jpg)
 ![](OKExampleForErrorMSG.jpg)
-[greyBox]
-     Microsoft SharePoint Designer  User-defined workflows have been disabled by the SharePoint Administrator. User-defined workflows will be unable to run.  
-[/greyBox]
-Figure: Good example - if you add the image and this text above, you get full marks
+[[greyBox | Good example - if you add the image and this text above, you get full marks]]
+|      Microsoft SharePoint Designer  User-defined workflows have been disabled by the SharePoint Administrator. User-defined workflows will be unable to run.

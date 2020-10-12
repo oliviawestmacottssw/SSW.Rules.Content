@@ -19,16 +19,8 @@ There is one correct way to spell 'email' and many incorrect ones. The common in
 
 Lower Case with dash:
 
-[greyBox]
- &lt;p&gt;Your e-mail address must match your confirm e-mail address&lt;/p&gt; 
- 
-[/greyBox]
-Bad example: Using 'e-mail' in your text
-[greyBox]
- &lt;p&gt;Your email address must match your confirm email address&lt;/p&gt; 
- 
-[/greyBox]
-Good example: Using 'email' instead
+[[greyBox | |]]
+[[greyBox | |]]
 
 
 

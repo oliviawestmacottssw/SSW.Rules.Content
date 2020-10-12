@@ -9,39 +9,25 @@ authors:
 
 ---
 
-[greyBox]
- www.northwind.com/swagger 
- 
-[/greyBox]
+[[badExample | default but now it is about help for your API]]
+|  www.northwind.com/swagger 
+|)
 
-Bad example - default but now it is about help for your API)
-
-[greyBox]
- www.northwind.com/dev
-OR
-www.northwind.com/developer
- 
-[/greyBox]
+[[greyBox]]
+|  www.northwind.com/dev
+| OR
+| www.northwind.com/developer
+|  
 
 
 Bad examples
 
-[greyBox]
- www.northwind.com/api   
-[/greyBox]
+[[badExample | already taken]]
+|  www.northwind.com/api
 
-
-Bad example - already taken
-
-[greyBox]
- www.northwind.com/help  
-[/greyBox]
-
-
-Bad example - too broad
+[[badExample | too broad]]
+|  www.northwind.com/help
 
  
-[greyBox]
- www.northwind.com/docs  
-[/greyBox]
-Good example - preferred URL
+[[goodExample | preferred URL]]
+|  www.northwind.com/docs

@@ -15,27 +15,26 @@ In cases where data is posted, if you don't do a redirect and the user hits the 
 
 Redirecting after posted data has been processed is called the     [Post-Redirect-Get (or PRG) pattern](http&#58;//en.wikipedia.org/wiki/Post/Redirect/Get).
 
-[greyBox]
- 
-
-```
-[HttpPost]
+[[greyBox]]
+|  
+| 
+| ```
+| [HttpPost]
 public ActionResult Create(CreateModel model)
 {
     // ... save to DB, then:
     ViewBag.Message = "Successfully created " + model.Name;
     return View("Success");
 }
-```
-
- 
-[/greyBox]
+| ```
+| 
+|  
 Figure: Bad Example – Returning a different view is misleading and potentially dangerous
-[greyBox]
- 
-
-```
-[HttpPost]
+[[greyBox]]
+|  
+| 
+| ```
+| [HttpPost]
 public ActionResult Create(CreateModel model)
 {
     // ... save to DB, then:
@@ -47,8 +46,7 @@ public ActionResult Success(string message)
     ViewBag.Message = message;
     return View();
 }
-```
-
- 
-[/greyBox]
+| ```
+| 
+|  
 Figure: Good Example – Using the PRG pattern to avoid duplicate data being posted

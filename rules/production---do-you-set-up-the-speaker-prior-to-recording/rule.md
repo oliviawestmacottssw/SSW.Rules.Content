@@ -26,16 +26,12 @@ During the presentation a number of guests will ask the speaker questions regard
  
 The people who watch your video need to know what the questions were in order to understand the context of the answers. The best way to do this is to ask the speaker to paraphrase the question in his or her answer. A simple example would be:
 
-[greyBox]
- Audience member: "Why should we do things your way? 
-Speaker: "Because..." 
-[/greyBox]
-Figure: Wrong way to respond (viewer will not understand what the context of the answer without knowing the question.)
-[greyBox]
- Audience member: "Why should we do things your way?"
-Speaker: "The reason you should do things this is way is because..." 
-[/greyBox]
-Figure: Correct way to respond    The speaker arrives to the venue with a mindset that they are speaking to a room of about 25 - 30 people. It is important to us and the audience at home who watch this online, that the speakers' mindset changes from presenting to a room of people to an audience of thousands
+[[greyBox | Wrong way to respond]]
+|  Audience member: "Why should we do things your way? 
+| Speaker: "Because..."(viewer will not understand what the context of the answer without knowing the question.)
+[[greyBox | Correct way to respond    The speaker arrives to the venue with a mindset that they are speaking to a room of about 25 - 30 people. It is important to us and the audience at home who watch this online, that the speakers' mindset changes from presenting to a room of people to an audience of thousands]]
+|  Audience member: "Why should we do things your way?"
+| Speaker: "The reason you should do things this is way is because..."
 3. [Do you enable presentation mode in Visual Studio](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=54bab111-3d18-4190-9452-d7009dc18833).
 4. Tell the speaker to read  [Rules to Better PowerPoint Presentations](https&#58;//www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=8&amp;cad=rja&amp;ved=0CHMQFjAH&amp;url=http&#58;//www.ssw.com.au/ssw/standards/Rules/RulesToBetterPowerpointPresentations.aspx&amp;ei=ue-GUdiyNueWiQedlICQBg&amp;usg=AFQjCNGvMOBZ3W-Ri29auNajyEjSPzX9oA&amp;sig2=9Is7_Z_fo0VGQt9r5SZpOg&amp;bvm=bv.45960087%2cd.aGc).
 5. Assume the speaker will need to play sound through the speakers, even if they say they won't, and set up to allow for it.

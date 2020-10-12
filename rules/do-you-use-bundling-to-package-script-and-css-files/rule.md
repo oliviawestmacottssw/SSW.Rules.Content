@@ -13,11 +13,11 @@ ASP.NET provides a great way to compress and package multiple script files or mu
  
 Rather than link to each script or css file individually, use bundling to group many together and get the advantages of minification and versioning out of the box.
 
-[greyBox]
- 
-
-```
-<link rel="stylesheet" href="~/Content/themes/base/jquery.ui.core.css" />
+[[greyBox]]
+|  
+| 
+| ```
+| <link rel="stylesheet" href="~/Content/themes/base/jquery.ui.core.css" />
 <link rel="stylesheet" href="~/Content/themes/base/jquery.ui.resizable.css" />
 <link rel="stylesheet" href="~/Content/themes/base/jquery.ui.selectable.css" />
 <link rel="stylesheet" href="~/Content/themes/base/jquery.ui.accordion.css" />
@@ -29,16 +29,15 @@ Rather than link to each script or css file individually, use bundling to group 
 <link rel="stylesheet" href="~/Content/themes/base/jquery.ui.datepicker.css" />
 <link rel="stylesheet" href="~/Content/themes/base/jquery.ui.progressbar.css" />
 <link rel="stylesheet" href="~/Content/themes/base/jquery.ui.theme.css" />
-```
-
- 
-[/greyBox]
+| ```
+| 
+|  
 Figure: Bad Example – each reference will be downloaded separately and won’t be compressed
-[greyBox]
- 
-
-```
-Configuration:
+[[greyBox]]
+|  
+| 
+| ```
+| Configuration:
 public static void RegisterBundles(BundleCollection bundles)
 {
         bundles.Add(new StyleBundle("~/Content/themes/base/css").Include(
@@ -58,8 +57,7 @@ public static void RegisterBundles(BundleCollection bundles)
 
 View:
 @Styles.Render("~/Content/themes/base/css")
-```
-
- 
-[/greyBox]
+| ```
+| 
+|  
 Figure: Good Example – Define a bundle and render it in the view for maximum performance

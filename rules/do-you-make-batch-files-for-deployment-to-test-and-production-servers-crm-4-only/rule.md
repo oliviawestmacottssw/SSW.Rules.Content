@@ -21,31 +21,30 @@ How should developers work?
 
 Create a Deployment.bat like this
 
-[greyBox]
- 
-
-```
-REM (deploy the callouts - Part 1)
-
-            REM (restart IIS of CRM TEST Server - BASILISK)
-            iisreset BASILISK
-
-            REM (copy callouts dlls onto CRM TEST Server - BASILISK)
-            copy Microsoft.Crm.Platform.Callout.Base.dll "\\BASILISK\C$\Program Files\Microsoft CRM\Server\bin\assembly"            
-            copy SSW.TimeProIntegrationCallouts.dll "\\BASILISK\C$\Program Files\Microsoft CRM\Server\bin\assembly"            
-            copy callout.config.xml "\\BASILISK\C$\Program Files\Microsoft CRM\Server\bin\assembly" 
-            
-            REM (deploy the callouts - part 2)
-            REM Stop the WorkFlow Service (as we need to remove the lock on the .dlls)
-            REM Start it 
-            REM (avoid workflow in v3 - see comment above C but if you do you need to)
-            REM Manual - use Import wizard
-            REM (avoid server side validation logic in v3)
-            REM  Deploy a 1.1 web service
-```
-
- 
-[/greyBox]
+[[greyBox]]
+|  
+| 
+| ```
+| REM (deploy the callouts - Part 1)
+| 
+|             REM (restart IIS of CRM TEST Server - BASILISK)
+|             iisreset BASILISK
+| 
+|             REM (copy callouts dlls onto CRM TEST Server - BASILISK)
+|             copy Microsoft.Crm.Platform.Callout.Base.dll "\\BASILISK\C$\Program Files\Microsoft CRM\Server\bin\assembly"            
+|             copy SSW.TimeProIntegrationCallouts.dll "\\BASILISK\C$\Program Files\Microsoft CRM\Server\bin\assembly"            
+|             copy callout.config.xml "\\BASILISK\C$\Program Files\Microsoft CRM\Server\bin\assembly" 
+|             
+|             REM (deploy the callouts - part 2)
+|             REM Stop the WorkFlow Service (as we need to remove the lock on the .dlls)
+|             REM Start it 
+|             REM (avoid workflow in v3 - see comment above C but if you do you need to)
+|             REM Manual - use Import wizard
+|             REM (avoid server side validation logic in v3)
+|             REM  Deploy a 1.1 web service
+| ```
+| 
+|  
 
 Deploy to Test Server
 

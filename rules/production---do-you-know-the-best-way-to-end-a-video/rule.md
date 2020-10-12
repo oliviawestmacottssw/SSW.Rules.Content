@@ -15,17 +15,13 @@ In an interview situation the best way to sign off is to try and lead from the s
 
 In a lecture the best way is to finish is the same way the speaker would end a normal lecture. Something along the lines of "Well that's it guys, if you want to get a copy of the slides you can download them at [] and be sure to subscribe to my posts on Twitter". Then proceed with the standard call to action and the company logo.
 
-[greyBox]
- "This is Adam Cogan signing off until next time" (grins at camera with a thumbs up) 
-[/greyBox]
-Figure: Bad example – impersonal, cheesy and uninformative sign off
-[greyBox]
- 
-Interviewer (Adam):        
-"Well that’s all great stuff Joe and we're looking forward to seeing your new software soon"
-
-Interviewee (Joe):        
-"Thanks Adam"
- 
-[/greyBox]
-Figure: Good example – personal, the speakers relate to each other well, refers to subject matter in the video
+[[greyBox | Bad example – impersonal, cheesy and uninformative sign off]]
+|  "This is Adam Cogan signing off until next time" (grins at camera with a thumbs up)
+[[greyBox | Good example – personal, the speakers relate to each other well, refers to subject matter in the video]]
+|  
+| Interviewer (Adam):        
+| "Well that’s all great stuff Joe and we're looking forward to seeing your new software soon"
+| 
+| Interviewee (Joe):        
+| "Thanks Adam"
+|

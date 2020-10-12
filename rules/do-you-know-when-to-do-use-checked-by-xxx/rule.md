@@ -32,17 +32,15 @@ Doing this will ensure:
 - The receiver knows who else agrees with the content
 
 
-[greyBox]
- 
-Dear Adam,
-
-(Checked by Peter)
-
-[email content]
-
-Regards, Phil
- 
-[/greyBox]
-Figure: Use 'Checked by xxx' when sending a complicated email to a group of people
+[[greyBox | Use 'Checked by xxx' when sending a complicated email to a group of people]]
+|  
+| Dear Adam,
+| 
+| (Checked by Peter)
+| 
+| [email content]
+| 
+| Regards, Phil
+|
 
 ![Consider this the '4 eye check'](four-eyes.jpg)([four eye principle](https://www.collinsdictionary.com/dictionary/english/four-eyes-principle))

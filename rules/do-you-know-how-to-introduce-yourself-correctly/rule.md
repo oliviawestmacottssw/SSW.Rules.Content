@@ -13,13 +13,11 @@ Ever wondered why 007 always introduced himself as "Bond, James Bond"? Well, If 
  
 Just remember that first impression last so you need to make sure you're kind and courteous when you answer the phone and introduce yourself. An example of a good and positive welcome could be:
 
-[greyBox]
-  **Stephen:**  SSW Stephen Bennett speaking 
-[/greyBox]
+[[greyBox]]
+|   **Stephen:**  SSW Stephen Bennett speaking 
 
 Notice the use of your full name. When you pick up the phone from someone who was on hold you start with:
 
-[greyBox]
-  **Stephen: ** Stephen Bennett speaking
- 
-[/greyBox]
+[[greyBox]]
+|   **Stephen: ** Stephen Bennett speaking
+|
