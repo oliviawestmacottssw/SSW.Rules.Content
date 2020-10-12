@@ -66,7 +66,7 @@ Estimating using doubling numbers makes relative sizing simple. An 8 point PBI s
 
 It has one other advantage over the Fibonacci sequence, it is easier for non-techies because the numbers aren't whacky and the name isn't bizarre.
 
-[[greyBox | Good example -Doubling simplifies relative sizing]]
+[[goodExample | Doubling simplifies relative sizing]]
 |   **Estimate** 
 | 1
 | 2

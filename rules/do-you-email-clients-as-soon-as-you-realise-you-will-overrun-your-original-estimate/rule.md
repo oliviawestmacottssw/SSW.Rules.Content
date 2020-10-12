@@ -18,7 +18,7 @@ authors:
 Do \*not\* wait until you have started to exceed your estimate before you notify the client that the release is running late.
  
 Keep them informed and avoid conflict by sending an email like this:  
-[[greyBox | Good Example - A sample of an email that informs the client that the estimate will be exceeded]]
+[[goodExample | A sample of an email that informs the client that the estimate will be exceeded]]
 |   **To** : Mr Northwind
 |  **Cc** : David (Project Manager)
 | 

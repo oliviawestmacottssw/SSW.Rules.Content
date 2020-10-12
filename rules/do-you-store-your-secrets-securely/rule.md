@@ -24,6 +24,7 @@ There are many options for managing secrets in a secure way:
 ### Bad Practices
 
 
+
 [[greyBox | Bad practice - Overall rating: 2/10]]
 |  
 | ### Store production passwords in source control protected with the <br>      [ASP.NET IIS Registration Tool](https&#58;//msdn.microsoft.com/en-us/library/zhhddkxy.aspx)
@@ -43,6 +44,7 @@ There are many options for managing secrets in a secure way:
 | 
 |
     
+
 [[greyBox | Bad practice - Overall rating: 4/10]]
 |  
 | ### Use Windows Identity instead of username/ password.
@@ -62,6 +64,7 @@ There are many options for managing secrets in a secure way:
 | - Has key-person reliance on network admin
 | 
 |
+
 [[greyBox | Bad practice -  Overall rating: 1/10]]
 |  
 | ### [Use External Configuration Files](https&#58;//docs.microsoft.com/en-us/aspnet/identity/overview/features-api/best-practices-for-deploying-passwords-and-other-sensitive-data-to-aspnet-and-azure)
@@ -84,6 +87,7 @@ There are many options for managing secrets in a secure way:
 
 ### Good Practices
 
+
 [[greyBox | Good practice - Overall rating: 8/10]]
 |  
 | ### Use Octopus/ VSTS RM secret management, with passwords sourced from KeePass
@@ -101,6 +105,7 @@ There are many options for managing secrets in a secure way:
 | - DPAPI still needed.
 | 
 |
+
 
 
 
@@ -122,6 +127,7 @@ There are many options for managing secrets in a secure way:
 | - DPAPI still needed for config files at rest
 | 
 |
+
 
 
 [[greyBox | Good Practice - Overall rating 9/10]]

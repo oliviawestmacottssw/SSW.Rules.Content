@@ -38,54 +38,58 @@ Here are the 8 steps you should follow for a good handover.
 7. Test that the users, passwords, URLs and server details provided in the handover are correct by logging in with each
 8. Complete the Handover by sending an email with: As per our meeting the handover has been completed to my satisfaction
 
- 
-**From: Andy
-To: Gracia
-Subject: SSW - Northwind handover**
 
-Done
+[[greyBox]]
+|   
+| **From: Andy
+| To: Gracia
+| Subject: SSW - Northwind handover**
+| 
+| Done
+| 
+| - **Confirm outstanding tasks**     Nothing.
+| - **Confirm planned tasks**     Get release 43 out.
+| - **Confirm location**
+|     - Source control        Nothing
+|     - Data storage        file://server/DataSSW/SSWProducts/Northwind
+|     - Deployment        Make a build by using WISE
+| Test: seadragon
+| Production: squirrel
+|     - Failure & Recovery        Do not work on the Master folder, work on local machine. If it has some issue, grab the file from master folder.
+| Always backup master folder’s file before uploading the changes to the master folder
+| - **Update the Employee Responsibilities in SSW intranet**     **TODO**
+| 
+|    **Figure Bad Example - This handover is incomplete and light on details** 
 
-- **Confirm outstanding tasks**     Nothing.
-- **Confirm planned tasks**     Get release 43 out.
-- **Confirm location**
-    - Source control        Nothing
-    - Data storage        file://server/DataSSW/SSWProducts/Northwind
-    - Deployment        Make a build by using WISE
-Test: seadragon
-Production: squirrel
-    - Failure & Recovery        Do not work on the Master folder, work on local machine. If it has some issue, grab the file from master folder.
-Always backup master folder’s file before uploading the changes to the master folder
-- **Update the Employee Responsibilities in SSW intranet**     **TODO**
-
-  **Figure Bad Example - This handover is incomplete and light on details** 
- 
-**From: Andy
-To: Gracia
-Subject: SSW - Northwind Handover**
-
-Done - As per our meeting the handover has been completed to my satisfaction
-
-- **Confirm outstanding tasks**     Nothing.
-- **Confirm planned tasks**     Next release is Release 43.
-The aim of this release is to improve the reporting available from the management module with chart reports
-Query = tfs\Northwind\Work Items\Team Queries\All Work Items - R43 - Management Module Reporting
-    Backlog is in TFS.
-Query = tfs\Northwind\Work Items\Team Queries\All Work Items - Backlog
-- **Confirm location**
-    - Source control        file://tfs.ssw.com.au/tfs/Northwind
-    - Data storage        file://server/DataSSW/SSWProducts/North wind
-    - Deployment
-        - Make a build by using WISE
-        - Test db to connect to:            server: seadragon
-database: SSWNorthwind\_test
-        - Production db to connect to:            server: squirrel
-database: SSWNorthwind
-    - Failure & Recovery        Do not work on the Master folder, work on a local machine. If it has some issue, grab the file from the master folder.
-Always backup master folder’s file before uploading the changes to the master folder.
-If a problem occurs, restore the backup of the master folder and restart
-- **Update the Employee Responsibilities in SSW intranet**     DONE
-- **Complete Handover**
-
-  **Figure: Good Example - This handover has lots of URLs and is complete** 
+[[greyBox]]
+|   
+| **From: Andy
+| To: Gracia
+| Subject: SSW - Northwind Handover**
+| 
+| Done - As per our meeting the handover has been completed to my satisfaction
+| 
+| - **Confirm outstanding tasks**     Nothing.
+| - **Confirm planned tasks**     Next release is Release 43.
+| The aim of this release is to improve the reporting available from the management module with chart reports
+| Query = tfs\Northwind\Work Items\Team Queries\All Work Items - R43 - Management Module Reporting
+|     Backlog is in TFS.
+| Query = tfs\Northwind\Work Items\Team Queries\All Work Items - Backlog
+| - **Confirm location**
+|     - Source control        file://tfs.ssw.com.au/tfs/Northwind
+|     - Data storage        file://server/DataSSW/SSWProducts/North wind
+|     - Deployment
+|         - Make a build by using WISE
+|         - Test db to connect to:            server: seadragon
+| database: SSWNorthwind\_test
+|         - Production db to connect to:            server: squirrel
+| database: SSWNorthwind
+|     - Failure & Recovery        Do not work on the Master folder, work on a local machine. If it has some issue, grab the file from the master folder.
+| Always backup master folder’s file before uploading the changes to the master folder.
+| If a problem occurs, restore the backup of the master folder and restart
+| - **Update the Employee Responsibilities in SSW intranet**     DONE
+| - **Complete Handover**
+| 
+|    **Figure: Good Example - This handover has lots of URLs and is complete** 
 
 If you need to handover only a single task there are more details here: [Do you know how to hand over tasks (aka Emails) to others?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=2586b50a-21b6-40b0-8004-d90d1b029bec)

@@ -35,12 +35,14 @@ Make unique index name if possible. Ie. ProductName
 [2] The name of the table that the Index refers to.
 [3] The name of the column(s) that the Index refers to.
 
-[[greyBox | Bad Example]]
+[[badExample]]
 |  Index 'BillingID'
 | Primary Key 'aaaaaClient\_PK'
-|
+|  
+Figure: Bad Example
 
-[[greyBox | Good Example]]
+[[goodExample]]
 |  'nc\_ClientDiary\_BillingID'
 | 'pknc\_ClientDiary\_ClientID'
-|
+|  
+Figure: Good Example

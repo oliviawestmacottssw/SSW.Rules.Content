@@ -8,6 +8,7 @@ authors: []
 ---
 
 If you have an existing client, who is already impressed with your work, you don't need to go to the trouble of meeting then to show them an estimate. However, you should at least call them. When you're competing for someone's business, what could be worse than losing the work simply because the client either didn't receive your email, or was too busy to read it? For this reason, always call the client before you send a quote. This way, they know you are about to send them something so will look out for it.<br> 
+
 [[greyBox | Always call the client to let them know that you are about to send a quote across, then send an "[As per our conversation]]]
 |  <br>
 | Hi Ed,

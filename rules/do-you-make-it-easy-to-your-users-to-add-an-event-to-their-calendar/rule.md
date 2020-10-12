@@ -11,7 +11,7 @@ authors:
 
 If you have a date for any event appearing on your site, you should make it as easy                     as possible for the user to add it to their Outlook calendar. This is why we use                     ICS links for all dates on our site
  
-[[greyBox | Bad Example - User cannot add reminder]]
+[[badExample | User cannot add reminder]]
 |   Next User Group Meeting:
 |  Wednesday, 15 February 2006 5:45 PM
 Next User Group Meeting:

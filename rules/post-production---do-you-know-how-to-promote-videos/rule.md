@@ -23,6 +23,7 @@ To ensure your videos gain maximum exposure, you need to promote them in various
     The second step is to email all the staff with the links to the posts you have made. You want to make it as easy as possible for them to be able to re-post the original messages. Use a tool like [http://clicktotweet.com/](http&#58;//clicktotweet.com/).
     Example email:
 
+
 [[greyBox]]
 |  <br>
 | Hi All,
@@ -49,6 +50,7 @@ To ensure your videos gain maximum exposure, you need to promote them in various
     - Update their social media accounts with a link and description of the video
 
     Email template:
+
 
 [[greyBox]]
 |  <br>

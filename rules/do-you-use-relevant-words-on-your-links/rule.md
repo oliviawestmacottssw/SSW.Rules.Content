@@ -22,17 +22,22 @@ Having these relevant words on links also gives a more friendly experience to 
 So what does this mean? All those that are pointing to pages on your website that are displayed as 'More', 'Link', 'This' or 'Click Here' aren't doing you any favors when it comes to increasing your Google rankings.
 
 
-[[greyBox | Bad Example #1 - Link does not increase your rankings]]
-|  "For tips and tricks to increase your Google Ranking        Click here"
-[[greyBox | Bad Example #2 - Link does not increase your rankings]]
-|  "Linkfor tips and tricks to increase your Google Ranking"
-[[greyBox | Bad Example #3 - Link does not increase your rankings]]
-|  "For tips and tricks to increase your Google Ranking        read this"
-[[greyBox | Bad Example #4 - <br>      Link title does not increase your rankings]]
-|  "For tips and tricks to increase your Google Ranking Click Here"(scroll and hold over link to see it)
-[[greyBox | Bad Example #5 - <br>      Link is the whole URL]]
-|  "For tips and tricks to increase your Google Ranking go to https://rules.ssw.com.au/rules-to-better-google-rankings"
-[[greyBox | Good Example - Descriptive link]]
+[[badExample]]
+|  "For tips and tricks to increase your Google Ranking        Click here" 
+Figure: Bad Example #1 - Link does not increase your rankings
+[[badExample]]
+|  "Linkfor tips and tricks to increase your Google Ranking" 
+ Figure: Bad Example #2 - Link does not increase your rankings
+[[badExample]]
+|  "For tips and tricks to increase your Google Ranking        read this" 
+Figure: Bad Example #3 - Link does not increase your rankings
+[[badExample]]
+|  "For tips and tricks to increase your Google Ranking Click Here" 
+Figure: Bad Example #4 - <br>      Link title does not increase your rankings(scroll and hold over link to see it)
+[[badExample]]
+|  "For tips and tricks to increase your Google Ranking go to https://rules.ssw.com.au/rules-to-better-google-rankings" 
+Figure: Bad Example #5 - <br>      Link is the whole URL
+[[goodExample | Descriptive link]]
 |  "For tips and tricks to increase your Google Rankings go to our Rules to Better Google Rankings"
 
 This rule also has relevance for [easier website navigation](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=313838ef-4179-493e-8b76-34acc6a20615).

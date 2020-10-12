@@ -13,11 +13,11 @@ When writing technical documentation, one of your primary objectives is to ensur
 
 For example:
  
-[[greyBox | Bad Example - The user is referred in two ways and flow is broken]]
+[[badExample | The user is referred in two ways and flow is broken]]
 |  When one wants to scan for viruses, you can open the antivirus software.
 
 
-[[greyBox | Good Example - There is no noticeable break in the reading flow]]
+[[goodExample | There is no noticeable break in the reading flow]]
 |  When you want to scan for viruses, you can open the antivirus software.
 
 
@@ -33,7 +33,7 @@ It is occasionally acceptable to use the first person, "we", "I", "us", "our" et
 ** 
 
 
-[[greyBox | Bad Example - It is unclear who the "we" is.]]
+[[badExample | It is unclear who the "we" is.]]
 |  We will now open a web browser and go to the home page.
-[[greyBox | Good Example - These instructions are clear and direct.]]
+[[goodExample | These instructions are clear and direct.]]
 |  You can now open a web browser and go to the home page.

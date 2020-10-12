@@ -16,6 +16,7 @@ These are the steps you should take when request a "test please" :
 1. Find two free testers to send the email below
 2. Stop working on the project until you receive either a "pass" or "fail" email
 3. Create your "test please" following this template: (refer to Windows Forms or Email templates below)
+
 [[greyBox]]
 |  
 | **Subject: Test Please - Product Name v1.11**
@@ -67,6 +68,7 @@ These are the steps you should take when request a "test please" :
 5. **What if you are doing an email test?**
     - DO NOT add Test Please to the subject. (it is too easy to forget later!)
     - Instead, add "Test please" with a yellow highlight to the top of the email body.
+
 
 
 [[greyBox]]

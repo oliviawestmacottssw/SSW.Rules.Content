@@ -20,9 +20,10 @@ A good communication strategy when receiving instructions is to repeat back what
 |  
 
 Possible answers:<br>      
-[[greyBox | Bad Example]]
+[[badExample]]
 |  "OK" or "Roger That"
-|
-[[greyBox | Good Example - repeat back the task]]
+|  
+Figure: Bad Example
+[[goodExample | repeat back the task]]
 |  Ok, I will add a red checkbox on the right
 |

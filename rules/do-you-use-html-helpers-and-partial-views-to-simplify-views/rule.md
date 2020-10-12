@@ -11,6 +11,7 @@ authors:
 
 Repeated sections of User Interface should be encapsulated in either Html Helpers or Partial Views to avoid repetition.
  
+
 [[greyBox]]
 |  
 | 
@@ -26,6 +27,7 @@ Repeated sections of User Interface should be encapsulated in either Html Helper
 | 
 |  
 Figure: Bad Example – The above code could be encapsulated into a Partial View for reuse
+
 [[greyBox]]
 |  
 | 
@@ -42,11 +44,13 @@ Figure: Bad Example – The above code could be encapsulated into a Partial View
 | 
 |  
 Figure: Good Example – Using an HTML Helper extension method for reusable code
-[[greyBox | Good Example – Using a Partial View for reusable sections of UI]]
+
+[[goodExample]]
 |  
 | 
 | ```
 | @Html.Partial("_FeaturedProduct")
 | ```
 | 
-|
+|  
+Figure: Good Example – Using a Partial View for reusable sections of UI

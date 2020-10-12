@@ -25,12 +25,12 @@ Electronic communication can easily cause misunderstandings. Help the reader und
 
 This way you won't forget any questions in the original email.
 
-[[greyBox | Bad Example - there's too much information here]]
+[[badExample | there's too much information here]]
 |  Please change from X to Y
 | The program flow logic worries me a bit 
 | Done. Sorry, this wasn't a final decision - I just put it there for testing purposes
 
-[[greyBox | Good Example - You can clearly see the context of each part of the reply]]
+[[goodExample | You can clearly see the context of each part of the reply]]
 |       &gt; 1. Please change from X to Y
 | Done, I made the changes - &lt;add a link to the page or a screenshot&gt;
 | 

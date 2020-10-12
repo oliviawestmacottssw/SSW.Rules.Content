@@ -26,9 +26,11 @@ During the presentation a number of guests will ask the speaker questions regard
  
 The people who watch your video need to know what the questions were in order to understand the context of the answers. The best way to do this is to ask the speaker to paraphrase the question in his or her answer. A simple example would be:
 
+
 [[greyBox | Wrong way to respond]]
 |  Audience member: "Why should we do things your way? 
 | Speaker: "Because..."(viewer will not understand what the context of the answer without knowing the question.)
+
 [[greyBox | Correct way to respond    The speaker arrives to the venue with a mindset that they are speaking to a room of about 25 - 30 people. It is important to us and the audience at home who watch this online, that the speakers' mindset changes from presenting to a room of people to an audience of thousands]]
 |  Audience member: "Why should we do things your way?"
 | Speaker: "The reason you should do things this is way is because..."

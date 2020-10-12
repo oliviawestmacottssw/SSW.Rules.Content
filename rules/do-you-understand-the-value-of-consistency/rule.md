@@ -26,6 +26,7 @@ At SSW we create standards for all manner of processes: from coding practices to
 
 The following story illustrates these values:
 
+
 [[greyBox | The Barber gave an inconsistent experience. Excerpt from "The E Myth" page 10]]
 |  
 | **The Barber** (excerpt from "The E Myth" page 105)

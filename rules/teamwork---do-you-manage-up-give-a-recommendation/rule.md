@@ -13,7 +13,7 @@ authors:
 
 Managing up is providing your manager with an option to approve, rather than asking a general question.
  
-[[greyBox | Bad Example - Nothing to approve]]
+[[badExample | Nothing to approve]]
 |  What do you want to charge for Cameron's rate?
 |
 
@@ -33,7 +33,7 @@ When you are giving someone multiple options you should:
 
 For example:
 
-[[greyBox | Good Example - Multiple options to approve with reasons for each <br>]]
+[[goodExample | Multiple options to approve with reasons for each <br>]]
 |  We want to integrate our database with our website so that customers can purchase online.
 | 
 | The choices:

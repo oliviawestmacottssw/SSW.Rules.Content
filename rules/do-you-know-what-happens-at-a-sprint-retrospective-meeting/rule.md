@@ -51,8 +51,12 @@ Once all issues have been discussed to the satisfaction of The Scrum Team, the m
 
  The time-box for this meeting is usually as many hours as weeks in the Sprint.
 
-In Scrum, there are 4 meetings in total that you need to know about:
-- [Sprint Planning Meeting](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
-- [Scrum Meeting (Daily standup)](/Pages/DailyScrumUpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
-- [Sprint Review Meeting](/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
-- Sprint Retrospective Meeting (Described on this page)
+
+[[greyBox]]
+|  In Scrum, there are 4 meetings in total that you need to know about:
+| - [Sprint Planning Meeting](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
+| - [Scrum Meeting (Daily standup)](/Pages/DailyScrumUpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
+| - [Sprint Review Meeting](/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
+| - Sprint Retrospective Meeting (Described on this page)
+| 
+| <br>

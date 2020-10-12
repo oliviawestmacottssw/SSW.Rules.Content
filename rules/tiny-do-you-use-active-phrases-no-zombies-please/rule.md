@@ -14,9 +14,9 @@ To get the most out of your communications, your writing should be compelling an
 For example:
  
 
-[[greyBox | Bad Example - This example is using a passive voice, and does not address the reader or from the point of the subject]]
+[[badExample | This example is using a passive voice, and does not address the reader or from the point of the subject]]
 |  When the CD is inserted, a Windows dialog will be shown.(the software in this case).
-[[greyBox | Good Example - This example uses the active voice to address the reader, and is more direct and engaging.]]
+[[goodExample | This example uses the active voice to address the reader, and is more direct and engaging.]]
 |  When you insert a CD, Windows shows a dialog.
 
 
@@ -25,9 +25,9 @@ An easy way to tell if you're using the passive voice is to add "by zombies" aft
 
 
 
-[[greyBox | Bad example - This sentence could be more engaging]]
+[[badExample | This sentence could be more engaging]]
 |  The email was sent by zombies
-[[greyBox | Good example - Now that's a more engaging sentence]]
+[[goodExample | Now that's a more engaging sentence]]
 |  Zombies sent the email
 
 

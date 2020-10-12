@@ -10,12 +10,18 @@ authors:
 ---
 
 When creating WebAPIs for your applications, it is useful to keep the naming consistent all the way from the back-end to the front-end. 
-[[greyBox | |]]
+[[badExample | The endpoint is different to the table name]]
+|   **Table name:** Employees
+|  **Endpoint:** /api/Users
+|
 
 
 
 
-[[greyBox | |]]
+[[goodExample | Table name is the same as the WebAPI endpoint]]
+|   **Table name:** Employees
+|  **Endpoint:** /api/Employees
+|
 
 
 By making the endpoint the same as the table name, you can simplify development and maintenance of the WebAPI layer.

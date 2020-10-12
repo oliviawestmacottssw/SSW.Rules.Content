@@ -17,6 +17,6 @@ Use IM to chase up that important email. You can make it easy for everyone (or a
 
 **Figure: Bad example - client need to filter his emails manually** 
 
-[[greyBox | Good example - client can search your email based on the subject]]
+[[goodExample | client can search your email based on the subject]]
 |  I need you to reply to my email... Subject: CBA Software Audit 
 |

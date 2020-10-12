@@ -30,7 +30,8 @@ Also, make sure your descriptions are detailed and useful as that can make findi
 
 Make sure you always explain and give as many details as you can of how you got an error or a bad experience.
 
-[[greyBox | Bad example - Lack of details]]
+
+[[badExample | Lack of details]]
 |  
 | Hi, Rebecca, 
 | 
@@ -38,7 +39,8 @@ Make sure you always explain and give as many details as you can of how you got 
 | 
 | - Adam
 |
-[[greyBox | Good example - We can easily identify more the one way to improve the UX]]
+
+[[goodExample | We can easily identify more the one way to improve the UX]]
 |  
 | Hi, Rebecca,
 | 

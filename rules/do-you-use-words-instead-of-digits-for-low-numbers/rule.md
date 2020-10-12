@@ -9,15 +9,15 @@ authors: []
 
 Whenever writing numbers for a web<br>audience, it's generally a good idea to use numerals, especially for<br>complicated numbers. Numerals are more easily noticed when a page is scanned by<br>a user's eye.
 For example: 
-[[greyBox | Bad Example - The number is spelled out.]]
+[[badExample | The number is spelled out.]]
 |  There are seventy three good reasons to do this.
-[[greyBox | Good Example - This is easy to read and more noticeable]]
+[[goodExample | This is easy to read and more noticeable]]
 |  There are 73 good reasons to do this.
 
 
 The exception is generally very small numbers (one and two) which are normally spelled out.
 
-[[greyBox | Bad Example - Numerals used]]
+[[badExample | Numerals used]]
 |  2 heads are better than 1.
-[[greyBox | Good Example - Numbers are spelled out]]
+[[goodExample | Numbers are spelled out]]
 |  Two heads are better than one

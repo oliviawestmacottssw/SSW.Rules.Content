@@ -24,7 +24,7 @@ Watch the video below and see how a single email can make your job easier.
  
 
 
-[[greyBox | Good Example - using "As per our conversation" email]]
+[[goodExample | using "As per our conversation" email]]
 |      As per our conversation, I am going to offer the client a Spec Review for $XXX 
 |
 
@@ -48,7 +48,7 @@ Use this approach internally and with clients. As a result, expect to see "as pe
 
 Sometimes you might not reach the client or Product owner via phone, and have to make a decision by yourself. In this case, it's still important to record everything in an email, starting with "I tried calling you but didn't get through":
 
-[[greyBox | Good Example - for when you can't reach the person by phone]]
+[[goodExample | for when you can't reach the person by phone]]
 |         I tried calling you but didn't get through. I am going to offer the client a Spec Review for $XXX
 
 

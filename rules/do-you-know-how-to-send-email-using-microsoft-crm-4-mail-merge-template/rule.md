@@ -23,6 +23,7 @@ You can use mail merge template, to send email to account, contact... Each mail 
 ![Fill in the mail merge details8. A Microsoft Word document is open, and the <br>       Mail Merge Recipients window is pop-up with the list of contacts that you're sending email to.](send-mail-merge-2.jpg)
 
 ![Mail Merge Recipients](send-mail-merge-3.jpg)
+
 [[greyBox]]
 |  
 | # Attention

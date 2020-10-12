@@ -19,9 +19,13 @@ It's very important that your links stand out from the background as well as the
 
 Rollovers are important as they offer visual feedback to a user that this link that will take them somewhere. While there is a myriad of ways to do this; you can't go wrong with an underline or border-bottom.
 
-[[greyBox | |]]
+[[badExample | The link is hard to recognize]]
+|  For more information on this, please [go to SSW website](https://www.ssw.com.au/).
+|
 
-[[greyBox | |]]
+[[goodExample | This link is obvious]]
+|  For more information on this, please [go to SSW website](https://www.ssw.com.au/). 
+|
 
 
 

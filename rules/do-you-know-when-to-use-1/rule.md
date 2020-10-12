@@ -13,7 +13,7 @@ authors:
 
 When someone makes a suggestion or a complaint. Usually, you only hear from the ones who disagree. It helps to let others on the thread know you agree, by replying with "+1" and a quick sentence.
 
-[[greyBox | Good Example - using +1 to show you agree]]
+[[goodExample | using +1 to show you agree]]
 |  From: Adam Cogan 
 | To: Code Auditor Team 
 | Subject: RE: Rule files 

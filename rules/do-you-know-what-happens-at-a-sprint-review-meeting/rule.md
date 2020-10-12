@@ -22,8 +22,12 @@ The Scrum Master keeps the meeting on track and to the Timebox by disallowing d
 
 This meeting is normally time boxed to as many hours as there are weeks in the Sprint.
 
-In Scrum, there are 4 meetings in total that you need to know about: <br>   
-- [Sprint Planning Meeting](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
-- [Scrum Meeting (Daily standup)](/Pages/DailyScrumUpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
-- Sprint Review Meeting (Described on this page)
-- [Sprint Retrospective Meeting](/Pages/RetrospectiveMeeting.aspx "Sprint Retrospective Meeting")
+
+[[greyBox]]
+|  In Scrum, there are 4 meetings in total that you need to know about: <br>   
+| - [Sprint Planning Meeting](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")
+| - [Scrum Meeting (Daily standup)](/Pages/DailyScrumUpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
+| - Sprint Review Meeting (Described on this page)
+| - [Sprint Retrospective Meeting](/Pages/RetrospectiveMeeting.aspx "Sprint Retrospective Meeting")
+| 
+|

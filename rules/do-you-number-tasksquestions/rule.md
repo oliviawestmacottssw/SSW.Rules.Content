@@ -17,6 +17,7 @@ It is good practice to be clear on what you want. One way you can make things cl
 
 **Note:** Receiving an email with just numbered items is cold - An email with a paragraph of context, then numbers is much nicer
  
+
 [[greyBox]]
 |  
 | [[greyBox]]
@@ -30,6 +31,7 @@ It is good practice to be clear on what you want. One way you can make things cl
  
 [/greyBox]
  Bad example - the different tasks/questions may be skipped if the reader does not read carefully
+
 
 [[greyBox]]
 |  

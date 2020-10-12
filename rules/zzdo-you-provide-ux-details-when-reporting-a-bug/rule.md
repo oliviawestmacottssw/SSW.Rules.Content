@@ -12,9 +12,11 @@ authors:
 The better you describe the problem you had, the more effective will be the solution. 
 Make sure you always explain and give as much details as you can of how you got an error or a bad experience.
 
-[[greyBox | Bad example - Lack of details]]
+
+[[badExample | Lack of details]]
 |  Where is TV.SSW on the navigation?
-[[greyBox | Good example - We can easily identify more the one way to improve the UX]]
+
+[[goodExample | We can easily identify more the one way to improve the UX]]
 |  
 | 1. Navigated to ssw.com.au
 | 2. Scrolling down looking for a big graphic like "CHECK OUT SSW TV! CLICK HERE!"

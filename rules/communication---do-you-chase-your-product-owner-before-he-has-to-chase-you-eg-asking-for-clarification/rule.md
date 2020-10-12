@@ -21,13 +21,13 @@ As a guideline, you should not go more than 2 weeks without talking to your Prod
 |   [No email]
 |
 
-[[greyBox | Bad example - you shouldn't have to ask that!]]
+[[badExample | you shouldn't have to ask that!]]
 |  Did I have a project or something due soon?
 | 
 | Uly
 |
 
-[[greyBox | Good example - Actively reaching out to your Product Owner]]
+[[goodExample | Actively reaching out to your Product Owner]]
 |  Hey Adam,
 | 
 | We've got the Northwind presentation coming up next week. I've finished a v1. 

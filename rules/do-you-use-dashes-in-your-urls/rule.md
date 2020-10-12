@@ -13,16 +13,16 @@ authors:
 
 For maximum readability and SEO use kebab-case (dashes) in your URLs.
  
-[[greyBox | Bad example - No kebab-case in URL]]
+[[badExample | No kebab-case in URL]]
 |  http://northwind.com/pageonworddocumentation
 
 
-[[greyBox | Bad example - PascalCase]]
+[[badExample | PascalCase]]
 |  http://northwind.com/PageOnWordDocumentation(better readability and still works in small caps, but other people might share it without the MixedCase) 
 
 
 
-[[greyBox | Bad example - spaces it will show up in your URL structure as 20%, which is bad for readability and SEO]]
+[[badExample | spaces it will show up in your URL structure as 20%, which is bad for readability and SEO]]
 |  http://northwind.com/page on word documentation
 | 
 | ...will become
@@ -30,11 +30,11 @@ For maximum readability and SEO use kebab-case (dashes) in your URLs.
 |  http://northwind.com/page20%on20%word20%documentation
 
 
-[[greyBox | OK example - underscored]]
+[[okExample | underscored]]
 |  http://northwind.com/page\_on\_word\_documentation(snake\_case) URLs have good readability but are not recommended by Google
 
 
-[[greyBox | Good example - kebab-case is recommended by Google]]
+[[goodExample | kebab-case is recommended by Google]]
 |  http://northwind.com/page-on-word-documentation
 
 

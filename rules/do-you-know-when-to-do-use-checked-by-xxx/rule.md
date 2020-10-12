@@ -32,6 +32,7 @@ Doing this will ensure:
 - The receiver knows who else agrees with the content
 
 
+
 [[greyBox | Use 'Checked by xxx' when sending a complicated email to a group of people]]
 |  
 | Dear Adam,

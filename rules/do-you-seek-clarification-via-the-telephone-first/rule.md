@@ -16,7 +16,8 @@ We've all received a cryptic email at some point. Don't just reply saying "I don
 Having clarified the issue by phone, reply but update the original email with the new details arising from the conversation (Remember to start with an "As per our conversation" line).
 However, sometimes you cannot immediately reach the task owner. In this case, you need to keep trying to contact the person for 24 hours. If you are still not able to contact the person, you need to reply to the email and put the following in red in the first line: 
 
-[[greyBox | Good Example - Send this email and now move on to other tasks and leave this task to next release.]]
+
+[[goodExample | Send this email and now move on to other tasks and leave this task to next release.]]
 |  
 | Hi John
 | 

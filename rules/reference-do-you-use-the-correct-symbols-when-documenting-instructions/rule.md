@@ -15,11 +15,12 @@ In Ken Getz's words, you MUST ALWAYS list the items in the order the user select
 
 
 
-[[greyBox | Bad Example - No visual cue is given for separate steps]]
+[[badExample | No visual cue is given for separate steps]]
 |  Click Start, then All Programs, then Accessories, then Calculator.
-[[greyBox | Bad Example - Dashes are easy to glance over]]
+[[badExample | Dashes are easy to glance over]]
 |  Start - All Programs - Accessories - Calculator
-[[greyBox | Bad Example - This is better but looks unprofessional]]
+[[badExample | This is better but looks unprofessional]]
 |  Start --&gt; All Programs --&gt; Accessories --&gt; Calculator
-[[greyBox | Good Example]]
-|  Start | All Programs | Accessories | Calculator
+[[goodExample]]
+|  Start | All Programs | Accessories | Calculator 
+Figure: Good Example

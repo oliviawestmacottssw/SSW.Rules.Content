@@ -31,6 +31,7 @@ Figure: Watch a Daily Scrum at Microsoft (short)
 `youtube: https://www.youtube.com/embed/-UUrLxNBK_g`
  Figure: Watch a Daily Scrum at Microsoft (long)
 
+
 [[greyBox]]
 |  
 | "Great video guys. Remember, it is ok to change Scrum, actually, it is necessary for success. Just adhere to the values of Scrum. "
@@ -125,6 +126,7 @@ Once you have completed your stand up, add “S” to your timesheet as per     
 **
 
 Use Teams or Skype to bridge gaps in geography.
+
 
 [[greyBox]]
 |  

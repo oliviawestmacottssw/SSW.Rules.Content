@@ -37,11 +37,11 @@ Unless you are a great salesperson, who has constant exposure to new clients, th
 For example:
 
 
-[[greyBox | Bad Example - asking a client to get married after the first date. This is likely to be too big a figure for them to risk on for their first taste of your work]]
+[[badExample | asking a client to get married after the first date. This is likely to be too big a figure for them to risk on for their first taste of your work]]
 |  Thanks for this initial meeting. I will now go and prepare a proposal for you. 
 | (You then do the proposal for free, and include a series of release plans costing $100K)
 
-[[greyBox | Good Example - a client is more likely to appreciate this approach, they get a choice + they are given an option of proceeding with a small project. There are prospects of continuing the relationship based on how well the previous project goes]]
+[[goodExample | a client is more likely to appreciate this approach, they get a choice + they are given an option of proceeding with a small project. There are prospects of continuing the relationship based on how well the previous project goes]]
 |  Thanks for this initial meeting. There are two options to consider for the next step:
 | 1) We could do detailed Specification Review, which is a commitment of 5 days with 2 developers, or
 | 2) We could do brief Specification Review, which is a smaller commitment of 2 days with 2 developers 

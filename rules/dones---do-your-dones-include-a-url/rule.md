@@ -15,7 +15,12 @@ authors:
 
 If you are using a task tracking system like TFS or Jira, always include the relevant URL. Also valid for emails. This way people can check the work that was done.
  
-[[greyBox | Bad Example   Done - http://jira.ssw.com.au/browse/NET-443]]
+[[badExample]]
 |  Done 
-|(sorry TFS URLs are a little uglier)
+|  
+ Figure: Bad Example
+[[greyBox]]
+|  Done - http://jira.ssw.com.au/browse/NET-443 Figure: Good example 
+[[greyBox]]
+|  Done - tfs.ssw.com.au/tfs/DefaultCollection/... /\_workitems#12075    Figure: Good Example (sorry TFS URLs are a little uglier)
 **Video:**  [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI)

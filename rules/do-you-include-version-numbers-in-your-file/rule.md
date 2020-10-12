@@ -34,14 +34,14 @@ For example:
 
 
 
-[[greyBox | Bad Example - These files do not show any version information.]]
+[[badExample | These files do not show any version information.]]
 |  extreme\_email\_file
 | extreme\_email\_new\_file
 | extreme\_email\_latest
 
 
 
-[[greyBox | Good Example - These files show the version information.]]
+[[goodExample | These files show the version information.]]
 |  Extreme\_Emails\_v1
 | Extreme\_Emails\_v2
 | CodeAuditor\_Ver1

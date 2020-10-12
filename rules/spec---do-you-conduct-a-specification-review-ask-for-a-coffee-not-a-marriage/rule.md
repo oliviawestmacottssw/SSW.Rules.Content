@@ -27,11 +27,11 @@ It is paid work conducted after the initial meeting to determine the overall sco
   
 ![A ballpark or proposal should start small and not be a big commitment](proposal.jpg)
 
-[[greyBox | Bad example - big scary figure]]
+[[badExample | big scary figure]]
 |  From this initial meeting, the ballpark is 6 months and $200K+GST 
 |
 
-[[greyBox | Good example - work in small chunks of work with details about what you will do]]
+[[goodExample | work in small chunks of work with details about what you will do]]
 |  From this initial meeting, we will first need to conduct a specification review 
 | This first step is $6K - a 2-day Specification Review
 |

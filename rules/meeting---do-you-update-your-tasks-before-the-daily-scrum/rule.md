@@ -22,6 +22,7 @@ The reason we did this on TFS 2010 was is because the cube took some time to reb
 
 
 
+
 [[greyBox]]
 |  In Scrum, there are 4 meetings in total that you need to know about:
 | - [Sprint Planning Meeting](/Pages/SprintPlanningMeeting.aspx "Sprint Planning Meeting")

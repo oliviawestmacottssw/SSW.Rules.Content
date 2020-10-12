@@ -11,6 +11,7 @@ authors:
 
 People are not mind-readers (unless they are telepathic!), so when you get good feedback from a client, make sure you get the recognition for it. There is nothing wrong with getting brownie points for the work you have done and making sure the boss at the client site and your manager know about it. 
  
+
 [[greyBox | Developers, when you get good feedback from anyone at the client's company, forward their comments onto the boss at the client's company and CC your manager]]
 |  
 | 

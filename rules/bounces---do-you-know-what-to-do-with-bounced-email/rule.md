@@ -16,6 +16,7 @@ Next step check that you have primary and secondary (and even better tertiary) M
 ![Seeing at least 2 MX records is good... Run an SMTP Test to test mail servers. So Step 2 is good](MXToolbox-4.jpg)
 If success on both steps the error is most likely on the senders side. Send them the an email to check their mail settings.
 
+
 [[greyBox | What to send the person]]
 |  
 | Dear xxx

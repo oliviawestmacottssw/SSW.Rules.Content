@@ -12,6 +12,7 @@ authors:
 With the convenience and cost-effectiveness of e-mail, it is tempting to resort to emails for too much client contact. Don't forget that clients are people too, and they need human interaction to ensure everything is OK. So it is essential that you maintain verbal contact before, during and after a project. What are examples of ongoing project contact? 
  
 1. Set the expectations early. Let the client know what to expect in terms of communication. For example: <br>      
+
 [[greyBox]]
 |  
 | "Hi Bill,
@@ -25,6 +26,7 @@ With the convenience and cost-effectiveness of e-mail, it is tempting to resort 
 |  <br>       
     Avoid going more than 3 days without a phone call to your client.
 2. New Resources - If you are put onto an existing project, it is good practice to call the client and introduce yourself. For example: <br>      
+
 [[greyBox]]
 |  
 | "Hi, I'm Andrew. I'll be taking over from Mark on your project. Mark has filled me in on the specifics and I'm keen to get involved."

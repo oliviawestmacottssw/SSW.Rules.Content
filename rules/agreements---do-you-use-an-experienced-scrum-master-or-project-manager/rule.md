@@ -40,6 +40,7 @@ This is much better than the old waterfall method which goes like this:
 
 Insist that your Scrum Master (aka Project Manager) [maintains a strict project schedule](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ba60e584-b904-4028-a5be-e2b8900b4c97).
 
+
 [[greyBox]]
 |  
 | **#1 For Scrum Projects:**

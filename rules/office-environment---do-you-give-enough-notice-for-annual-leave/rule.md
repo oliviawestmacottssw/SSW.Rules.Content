@@ -35,7 +35,7 @@ Generally, people who need to know include:
 
 
 
-[[greyBox | Bad Example - not enough notice for substantial leave]]
+[[badExample | not enough notice for substantial leave]]
 |  [Appointment to: @SSWAbsence]
 | 
 | Hi SSW Absence,
@@ -43,7 +43,7 @@ Generally, people who need to know include:
 | 
 | Thanks, Patricia
 |
-[[greyBox | Good Example - appropriate notice given]]
+[[goodExample | appropriate notice given]]
 |  [Appointment to: @SSWAbsence]
 | 
 | Hi SSW Absence,

@@ -15,12 +15,12 @@ Convert cold calls into warm calls by sending prospects an email out. This is 
  
 Always assume that they have got it and read it and are interested. Try to resist questions like :
 
-[[greyBox | Bad example - You never want them to say no to you. See the [YES ladder]]]
+[[badExample | You never want them to say no to you. See the [YES ladder]]]
 |  "Did you get my email?"
 |(/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=ff214e08-7bf1-4604-9047-1c1f40d2339a) for more details
 
 Make sure you've already sent them some form of direct marketing, then your introduction should sound like:
 
-[[greyBox | Good example - a warm call]]
+[[goodExample | a warm call]]
 |  "I sent you a fax the other day regarding our training you are interested in"
 |

@@ -11,9 +11,11 @@ Grammatically, all of them are acceptable spellings, but in these specific cases
 
 Note: When there are two ways of doing something, we make a rule on it one way with the goal of having complete consistency.
  
-[[greyBox | Bad example – two separated words]]
-|  You can not change the world.
-[[greyBox | Good example - using these terms in one word]]
+[[badExample]]
+|  You can not change the world. 
+
+Figure: Bad example – two separated words
+[[goodExample | using these terms in one word]]
 |  You cannot change the world.
 
 

@@ -60,6 +60,7 @@ background-color : #bbffaa;
 
 Edit, **\** **\_common\styles\global.css.aspx**
 
+
 [[greyBox | In C:\Inetpub\wwwroot\\_common\styles\global.css.aspx comment out and change the reference in yellow so the users know what server they are on]]
 |  
 | 

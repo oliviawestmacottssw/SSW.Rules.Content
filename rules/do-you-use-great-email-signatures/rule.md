@@ -39,13 +39,14 @@ Mobile signature are not easily customized so they can be simpler.
 
 Use the "mobile signature" when sending emails from your phone.
 
-[[greyBox | Bad example - This default signature sucks]]
+[[badExample | This default signature sucks]]
 |  Get Outlook for Android
 
 
-[[greyBox | Good example – Add your name, URL and your phone number]]
+[[goodExample]]
 |  Thanks, Adam
-| www.ssw.com.au  | +61 4 1985 1995
+| www.ssw.com.au  | +61 4 1985 1995  
+Figure: Good example – Add your name, URL and your phone number
 
 ### PC Long Signature
 

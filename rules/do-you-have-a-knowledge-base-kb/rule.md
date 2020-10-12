@@ -16,6 +16,7 @@ So, if you answer questions on your products to customers, you are wasting time 
 
 Now of course there are many customers who don't look for a KB, but instead you fire off the same old email that you already know is an MDAC related error, and your current solution is to tell them to run SSW Diagnostics and get all the green ticks.
 
+
 [[greyBox | Responding to a known issue with a KB article]]
 |  
 | Dear Harry,
@@ -42,6 +43,7 @@ The basic rule is: don't send back the answer in your email - instead send back 
     - Ask the developer to “Please action?"
 
 
+
 [[greyBox | Responding when you cannot reproduce the issue]]
 |  
 | Dear Harry,
@@ -55,6 +57,7 @@ The basic rule is: don't send back the answer in your email - instead send back 
 | Kind Regards, 
 | Bob
 |
+
 [[greyBox | Informing of a Fix]]
 |  
 | Dear Harry,
@@ -70,6 +73,7 @@ The basic rule is: don't send back the answer in your email - instead send back 
 | Kind Regards,
 | Bob
 |(Email 1 of 2) Note: In this email, you can offer them an interim build
+
 [[greyBox | Informing of a New Version]]
 |  
 | Dear Harry,
@@ -97,6 +101,7 @@ However \* **don't** \* write a KB article if fixing the bug and making a new v
 You don't need to be Microsoft to build a KB. A Knowledge Base does not need to be complicated. We use a simple knowledge base which is located at [http://www.ssw.com.au/ssw/KB](http&#58;//www.ssw.com.au/ssw/KB).
 
 Suggestions for features should be added to the backlog and voted on at uservoice.com:
+
 
 [[greyBox | Responding to a Feature Suggestion]]
 |  

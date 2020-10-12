@@ -28,14 +28,16 @@ It is especially important that images and captions serve a purpose, as opposed 
 
 
 [[greyBox]]
-|  [[greyBox]]
+|  
+| [[greyBox]]
 |  [image] 
  
 [/greyBox]
 
 Figure: [Description…] (not bolded)
 [[greyBox]]
-|  [[greyBox]]
+|  
+| [[greyBox]]
 |  [image] 
  
 [/greyBox]
@@ -50,7 +52,8 @@ Especially for screenshots, it is a good idea to have your figure describe the a
 
 <br>   <
 [[greyBox]]
-|  [[greyBox]]
+|  
+| [[greyBox]]
 |  [image] 
  
 [/greyBox]
@@ -71,11 +74,11 @@ Bear in mind to always show the bad example first, then good example, like below
 
 
 
-[[greyBox | Bad Example - Using 'should' implies uncertainty]]
+[[badExample | Using 'should' implies uncertainty]]
 |  To print your document:
 | 1. Select File | Print. The Print dialog should now show.
 | 2. Select the number of copies and click Print. The file should now print.
-[[greyBox | Good example - Using present or future tense implies confidence <br>]]
+[[goodExample | Using present or future tense implies confidence <br>]]
 |  To print your document: 
 | 1. Select File | Print. The Print dialog is shown.
 | 2. Select the number of copies and click Print. The file will now print.

@@ -27,7 +27,8 @@ A contributor has a great idea for a feature, or identifies an area where they c
 
 Their contribution might solve their problem, but after it has been accepted it will most likely be left for the core contributors to maintain.
 
-[[greyBox | Bad Example - Poor early communication can lead to mis-directed work and pull requests not being accepted]]
+
+[[badExample | Poor early communication can lead to mis-directed work and pull requests not being accepted]]
 |  
 | **# Poor Communication Contribution**
 | 
@@ -40,6 +41,7 @@ Their contribution might solve their problem, but after it has been accepted it 
 | she makes a push back comment
 | 
 |
+
 [[greyBox]]
 |  
 | **# Good Communication Contribution**
@@ -52,6 +54,7 @@ Their contribution might solve their problem, but after it has been accepted it 
 | 
 |  
 Figure; Good  Example - Good communication leads to collaboration and better outcomes for the author and the project 
+
 [[greyBox]]
 |  <br>   
 | **# Projects with Internal Teams**

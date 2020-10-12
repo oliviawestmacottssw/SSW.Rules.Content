@@ -19,7 +19,7 @@ When receiving a generic criticism, it's natural to sometimes ask for examples t
 
 If you feel you have some vital context to explain about that one example, make sure, as a minimum you end by saying "...but I do take your point in general."
 
-[[greyBox | Bad example - Jane runs out of arguments and walks away deflated]]
+[[badExample | Jane runs out of arguments and walks away deflated]]
 |  Jane: I feel like you never reply to my emails, but I see on emails I am cc'ed on your reply to emails from others.
 | Bob: Really? Can you give an example?
 | (pause)
@@ -32,7 +32,7 @@ If you feel you have some vital context to explain about that one example, make 
 | Jane: I can't think of any other but it does happen
 |
 
-[[greyBox | Good example - Jane feels heard]]
+[[goodExample | Jane feels heard]]
 |  Jane: I feel like you never reply to my emails, but I see on emails I am cc'ed on your reply to emails from others.
 | Bob: Really? Can you give an example?
 | (pause)

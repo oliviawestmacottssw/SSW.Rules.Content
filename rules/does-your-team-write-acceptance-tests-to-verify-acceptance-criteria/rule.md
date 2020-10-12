@@ -16,7 +16,7 @@ authors:
  
 ![Test Cases in a User Story](acceptance-criteria-test-cases.jpg)(MSF For Agile Template)
 
-[[greyBox | Good example - Acceptance Tests]]
+[[goodExample | Acceptance Tests]]
 |  Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ I will see all entries starting with Adam in the Grid
 |  Negative Test - When I enter ‘zzz’ in the Search box and click ‘Search’ I will see \*no\* entries in the Grid
 |  Gold Plating - If no results are retuned show a message box ‘No results found’

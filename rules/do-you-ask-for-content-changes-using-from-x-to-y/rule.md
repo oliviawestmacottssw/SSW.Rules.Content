@@ -17,7 +17,8 @@ When asking for changes to be made to any file like a web page, Word document, P
 
 Make the changes even easier to see and understand by highlighting in red what you want to delete (only do this on the "From" section) and in yellow what you want to be added/updated (only do this on the "To" section).  All text we do not write ourselves should be indented, so this includes paragraphs we are copying and pasting (see [Do you use indentation for readability?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=4d9255a5-7b57-4f98-9e86-3bbb8a64ce75))
  
-[[greyBox | Bad example - original version of content has not been included in the email,]]
+
+[[badExample | original version of content has not been included in the email,]]
 |  
 | **Hi Eric,**
 | 
@@ -27,7 +28,8 @@ Make the changes even easier to see and understand by highlighting in red what y
 | - Guarantee Industry best practices
 | - Friendly licensing model, bloggers even pay 0$ for the full version!
 |
-[[greyBox | Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed]]
+
+[[goodExample | it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed]]
 |  
 | **Hi Eric,**
 | 

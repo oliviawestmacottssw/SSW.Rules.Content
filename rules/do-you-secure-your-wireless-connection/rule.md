@@ -11,7 +11,7 @@ authors:
 
 Wireless networks are everywhere now. You can't drive down the street without finding a network which is insecure. However, in an office environment, there is a lot more to lose than a bit of bandwidth. It is vital that wireless is kept secure.
  
-[[greyBox | Bad example - the above settings are not suitable for a company's wireless access point]]
+[[badExample | the above settings are not suitable for a company's wireless access point]]
 |  WEP, No SSID broadcast, allowed MAC addresses are all OK but these are more home security.
 
 
@@ -19,7 +19,7 @@ Wireless networks are everywhere now. You can't drive down the street without fi
 
 For the office, you need something a bit more robust and not requiring much management overhead.
 
-[[greyBox | Good example - configure your wireless access point to authenticate against AD]]
+[[goodExample | configure your wireless access point to authenticate against AD]]
 |  It is recommended to use Radius authentication to integrate with your Active Directory.
 |
 This article explains how to setup your wireless AP to use WPA2-enterprise. WPA2-Enterprise verifies network users (AD a/c's) through a server (Domain Controller).

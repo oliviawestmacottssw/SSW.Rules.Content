@@ -9,7 +9,7 @@ authors: []
 
 Quotation marks can help user distinguish controls from the normal words. This is especially important in technical documentation, as the control names can be normal words.
  
-[[greyBox | Bad Example - It's not clear that Upgrade is a control]]
+[[badExample | It's not clear that Upgrade is a control]]
 |  Click the Upgrade link
-[[greyBox | Good Example - This is much clearer to the user what to search for.]]
+[[goodExample | This is much clearer to the user what to search for.]]
 |  Click the "Upgrade" link

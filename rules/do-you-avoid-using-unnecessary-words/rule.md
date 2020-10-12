@@ -11,7 +11,7 @@ authors:
 
 When writing any documentation it is vital that you avoid using unnecessary words to keep the reader interested and focussed on the content. This is especially true in technical documentation, as most of the content is factual.
  
-[[greyBox | Bad Example - There are too many unnecessary words]]
+[[badExample | There are too many unnecessary words]]
 |  Click the "Select" button
 
 [[goodExample | This is short and to the point.]]

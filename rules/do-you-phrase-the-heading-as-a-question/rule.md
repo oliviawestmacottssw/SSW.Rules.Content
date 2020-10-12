@@ -8,9 +8,13 @@ authors: []
 ---
 
 By forming the heading as a question you are encouraging the reader to answer with a simple yes or no. When the answer is no, it is clear that the rule has been broken and will need to be corrected.
-Phrase the heading as a question. 
 
+[[greyBox]]
+|  Phrase the heading as a question. 
+| <br> 
 Bad example – the heading isn’t a question.
- Do you consider phrasing the heading as a question?
-
+ 
+[[greyBox]]
+|  Do you consider phrasing the heading as a question?
+| <br> 
 Good example – the heading is phrased as a question.

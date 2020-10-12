@@ -15,7 +15,7 @@ An image is worth a thousand words, it's true. So if you can remove text and rep
 
 So we need a better way to present an image on our website and it should be easy enough to create a decent look.
  
-[[greyBox | Bad example - Here we have text describing a flower]]
+[[badExample | Here we have text describing a flower]]
 |  You then have this pretty white flower with a green stem standing on a water pond. It is beautiful.
 [[goodExample]]
 | ![Here we have a picture](flower.jpg)(could be a screen capture) which avoids a thousand words

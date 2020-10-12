@@ -11,6 +11,7 @@ authors:
 
 MVC provides a ViewData collection in which you can store miscellaneous pieces of information to pass to the View.  It’s also accessible it as a Dynamic object by using the ViewBag.  However, you should avoid using ViewData or ViewBag because it isn’t type-safe and relies on [Magic Strings](http&#58;//en.wikipedia.org/wiki/Magic_string).
  
+
 [[greyBox]]
 |  
 | 
@@ -25,6 +26,7 @@ MVC provides a ViewData collection in which you can store miscellaneous pieces o
 | 
 |  
 Figure: Bad Example – ViewData being used to pass information to the View isn’t type-safe
+
 [[greyBox]]
 |  
 | 

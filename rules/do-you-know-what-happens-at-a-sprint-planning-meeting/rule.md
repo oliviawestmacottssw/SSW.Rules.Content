@@ -49,8 +49,12 @@ To answer the second question the team create tasks, with sub-tasks where necess
 Once this meeting is finished, the Scrum Master should email the Product Owner with a [forecast](/Pages/Do-you-create-a-Sprint-Forecast-email.aspx).
 
 
-In Scrum, there are 4 meetings in total that you need to know about:
-- Sprint Planning Meeting (Described on this page)
-- [Scrum Meeting (Daily standup)](/Pages/DailyScrumUpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
-- [Sprint Review Meeting](/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
-- [Sprint Retrospective Meeting](/Pages/RetrospectiveMeeting.aspx "Retrospective Meeting")
+
+[[greyBox]]
+|  In Scrum, there are 4 meetings in total that you need to know about:
+| - Sprint Planning Meeting (Described on this page)
+| - [Scrum Meeting (Daily standup)](/Pages/DailyScrumUpdateTasks.aspx "Update tasks before Daily Scrum Meeting")
+| - [Sprint Review Meeting](/Pages/SprintReviewMeeting.aspx "Sprint Review Meeting")
+| - [Sprint Retrospective Meeting](/Pages/RetrospectiveMeeting.aspx "Retrospective Meeting")
+| 
+|

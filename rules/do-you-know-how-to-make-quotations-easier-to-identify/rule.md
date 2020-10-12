@@ -9,11 +9,11 @@ authors: []
 
 When you add a quotation, put them in a new line with an indent.
  
-[[greyBox | Bad Example - The quotation without a new line or indent]]
+[[badExample | The quotation without a new line or indent]]
 |  Software development can be painful and costly. Hang on, that should say "Software development IS painful and costly."
 
 
-[[greyBox | Good example - The quotation on a new line and indenting]]
+[[goodExample | The quotation on a new line and indenting]]
 |  Software development can be painful and costly. Hang on, that should say:
 |   "Software development IS painful and costly."
 You should always indent any quotes that you use on a new line.

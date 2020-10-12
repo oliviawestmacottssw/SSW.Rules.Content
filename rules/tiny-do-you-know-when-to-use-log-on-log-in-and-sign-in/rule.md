@@ -17,21 +17,22 @@ In order to connect (with a username and password) to:
 
 
  
-[[greyBox | Bad examples]]
+[[badExample]]
 |  Would you like to logon to your new account?
 | Would you like to log-on to your new account?
 | Would you like to login to your new account?
 | Would you like to log-in to your new account?
 | Would you like to signin to your new account?
-| Would you like to sign-in to your new account?
+| Would you like to sign-in to your new account? 
+Figure: Bad examples
 
-[[greyBox | Good example - Winform]]
+[[goodExample | Winform]]
 |  Would you like to log in to your timesheeting application?
 
-[[greyBox | Good example - Webform]]
+[[goodExample | Webform]]
 |  Would you like to sign in to your email account?
 
-[[greyBox | Good example - PC, Server or Domain]]
+[[goodExample | PC, Server or Domain]]
 |  Would you like to log on to your computer?
 
 See the [Login From Wikipedia](https&#58;//en.wikipedia.org/wiki/Login#History_and_etymology).

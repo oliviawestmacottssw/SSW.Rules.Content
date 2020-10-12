@@ -11,7 +11,8 @@ authors:
 
 ASP.NET MVC provides the [AuthorizeAttribute](https&#58;//msdn.microsoft.com/en-us/library/system.web.mvc.authorizeattribute.aspx) which ensures there is a logged in user before it will execute an action. You can also provide parameters to restrict actions or controllers to only be accessible to certain roles or users. This is a better solution than checking whether a logged-in user exists in code as the authorisation itself doesn’t need to be repeated.
  
-[[greyBox | Bad Example – Checking for an appropriate role in code leads to repetition]]
+
+[[badExample]]
 |  
 | 
 | ```
@@ -26,8 +27,10 @@ ASP.NET MVC provides the [AuthorizeAttribute](https&#58;//msdn.microsoft.com/en-
 | }
 | ```
 | 
-|
-[[greyBox | Good Example – Using the Authorize attribute to check for appropriate roles]]
+|  
+Figure: Bad Example – Checking for an appropriate role in code leads to repetition
+
+[[goodExample]]
 |  
 | 
 | ```
@@ -39,4 +42,5 @@ ASP.NET MVC provides the [AuthorizeAttribute](https&#58;//msdn.microsoft.com/en-
 | }
 | ```
 | 
-|
+|  
+Figure: Good Example – Using the Authorize attribute to check for appropriate roles

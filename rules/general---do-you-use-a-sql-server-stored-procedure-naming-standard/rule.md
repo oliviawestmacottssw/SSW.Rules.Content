@@ -73,11 +73,13 @@ Figure: Good Example - stored proc that returns only an output parameter
 
 
 
-[[greyBox | Bad Example]]
+[[badExample]]
 |  Select 'procGetRate' or 'sp\_GetRate'
-| Insert 'procEmailMergeAdd'
+| Insert 'procEmailMergeAdd' 
+Figure: Bad Example
 
-[[greyBox | Good Example]]
+[[goodExample]]
 |  'procClientRateSelect'
 | 'procEmailMergeInsert'
-|
+|  
+Figure: Good Example
