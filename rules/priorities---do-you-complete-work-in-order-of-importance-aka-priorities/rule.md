@@ -13,8 +13,10 @@ authors:
 
 With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others. 
  
-[greyBox]   The word "Urgent" is more important than the word "Important"
-  [/greyBox]
+[greyBox]
+  The word "Urgent" is more important than the word "Important"
+ 
+[/greyBox]
  
 ![Remove roadblocks](challenges-ahead-sign.jpg)
 This is the order which you should work:
@@ -35,8 +37,10 @@ This is the order which you should work:
 8. Phew... Done...
 
 
-[greyBox]  Tip #1: Don't move an important task out of your inbox unless:
-  [/greyBox]
+[greyBox]
+ Tip #1: Don't move an important task out of your inbox unless:
+ 
+[/greyBox]
 
 - Someone else is going to do it right away; or
 - It is going into a Sprint
@@ -44,15 +48,19 @@ This is the order which you should work:
 
 
 
-[greyBox]  Tip #2: Use inbox subfolders to group and prioritize tasks 
-   [/greyBox]
+[greyBox]
+ Tip #2: Use inbox subfolders to group and prioritize tasks 
+  
+[/greyBox]
  
 ![Group by subfolders under your inbox](subfolders.png)
 ![Efficient people keep a priority list](tasks-illustration.jpg)(often written)
 Also, it's common that priority orders change, but clients don't always mean to, so double check that the client means this.
 
-[greyBox]  When someone is asking you to do a new task, and you are still working on some other task, you should ask:
+[greyBox]
+ When someone is asking you to do a new task, and you are still working on some other task, you should ask:
 
-"Are you changing the priority order? Do you want this new task done before the current task I'm working on, which is xxx."  [/greyBox]
+"Are you changing the priority order? Do you want this new task done before the current task I'm working on, which is xxx." 
+[/greyBox]
 Figure: Confirm with the client "Are you changing the prior order?" 
 ![Prioritization - The most recent task assigned is not necessarily the most important. Mentally do this](prioritization.jpg)(e.g. an air traffic controller does not deal with the newest plane that has popped up on his radar when he has 4 lined up to land

@@ -25,7 +25,9 @@ verify they have a really hefty bank account!
 
 ### 2. High-Level Requirements Document
 
-[greyBox]  This will read like a wish list with no details and many unanswered questions  [/greyBox]
+[greyBox]
+ This will read like a wish list with no details and many unanswered questions 
+[/greyBox]
 Figure: High-Level Requirements are very vague and open to many interpretations
 ### 3. Detailed Requirements Document
 

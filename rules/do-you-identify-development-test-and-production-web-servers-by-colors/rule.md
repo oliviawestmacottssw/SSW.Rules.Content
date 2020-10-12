@@ -60,7 +60,8 @@ background-color : #bbffaa;
 
 Edit, **\****\_common\styles\global.css.aspx**
 
-[greyBox] 
+[greyBox]
+ 
 
 ```
 body.stage
@@ -83,7 +84,8 @@ body.stage
             }
 ```
 
- [/greyBox]
+ 
+[/greyBox]
  Figure: In C:\Inetpub\wwwroot\\_common\styles\global.css.aspx comment out and change the reference in yellow so the users know what server they are on
 ![Color of CRM Development Server - Red](CRM_DevelopmentColor.jpg)
 ![Color of CRM Test Server - Yellow](CRM_TestColor.jpg)

@@ -13,17 +13,22 @@ The prefix is used to give context to your blog posts (or other type of cont
  
 Example 1: Use " **CODE:"** when your blog post is about coding   or " **VIDEO:"**  when it has a video.
 
-[greyBox]  Northwind Traders with Entity Framework Core
-  [/greyBox]
+[greyBox]
+ Northwind Traders with Entity Framework Core
+ 
+[/greyBox]
  Figure: Bad example - Post title with no prefix
 
-CODE: [greyBox]  Northwind Traders with Entity Framework Core
-  [/greyBox]
+CODE: [greyBox]
+ Northwind Traders with Entity Framework Core
+ 
+[/greyBox]
 Figure: Good example - Using a prefix in the post title
 
 Example 2: Use prefixes (based on the content) for grouping and a better scanning:
 
-[greyBox]  Configure your SSW Email on your mobile (for Android users) 
+[greyBox]
+ Configure your SSW Email on your mobile (for Android users) 
 Configure your SSW Email on your mobile (for iPhone users) 
 Mobile Phone Answering Message 
 Install the Control4 App on your phone (Sydney Only) 
@@ -36,10 +41,12 @@ Setup and Create a timesheet in TimePRO
 Setup your HR Records (Not for Work Experience) 
 Your details on payroll system CRM - Add your details to CRM 
 How to find an employee’s phone number? 
-Make a small code change on SugarLearning.com (Developers only)   [/greyBox]
+Make a small code change on SugarLearning.com (Developers only)  
+[/greyBox]
  Figure: Bad example - Data list with no prefixes
 
-[greyBox]  Phone - Configure your SSW Email on your mobile (for Android users) 
+[greyBox]
+ Phone - Configure your SSW Email on your mobile (for Android users) 
 Phone - Configure your SSW Email on your mobile (for iPhone users) 
 Phone - Mobile Phone Answering Message 
 Phone - Install the Control4 App on your phone (Sydney Only) 
@@ -53,5 +60,6 @@ CRM - Setup your HR Records (Not for Work Experience) 
 CRM - Your details on payroll system CRM - Add your details to CRM 
 CRM - How to find an employee’s phone number? 
 Exercise - Make a small code change on SugarLearning.com (Developers only)
-  [/greyBox]
+ 
+[/greyBox]
 Figure: Good example - Using a prefix in data

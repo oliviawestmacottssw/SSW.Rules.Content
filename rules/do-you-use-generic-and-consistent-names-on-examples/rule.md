@@ -15,16 +15,20 @@ It is a good idea to create a dummy company to represent all clients on interna
  
 Most of documentation starts from a real world situation and we don't want to expose our real clients names.
 
-[greyBox]   **Hi****Mark Zuckerberg** ,
+[greyBox]
+  **Hi****Mark Zuckerberg** ,
 We need to make sure our project with  **Facebook**  will be approved before summer.
 
 Regards
-  [/greyBox]
+ 
+[/greyBox]
 Bad example - Using real people and real companies as examples
 
-[greyBox]   **Hi Bob,** 
+[greyBox]
+  **Hi Bob,** 
 We need to make sure our project with  **Northwind**  will be approved before summer.
 
 Regards
-  [/greyBox]
+ 
+[/greyBox]
 Bad example - Using dummy consistent names on examples

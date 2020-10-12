@@ -13,11 +13,15 @@ The HTML list tags &lt;ul&gt; and &lt;ol&gt; should be used for unordered and or
  
 **Tip:** If your list tag (&lt;ul&gt; or &lt;ol&gt;) doesn't have a list item (&lt;li&gt;) inside it, then it's not a list. Consider using another HTML tag (E.g. &lt;p&gt;).
 
-[greyBox] <br>&lt;ul&gt;<br>A normal text<br>&lt;/ul&gt;<br> [/greyBox]
+[greyBox]
+ <br>&lt;ul&gt;<br>A normal text<br>&lt;/ul&gt;<br> 
+[/greyBox]
 Figure: Bad Example - Using the &lt;ul&gt; for a text
-[greyBox] <br>
+[greyBox]
+ <br>
 &lt;ul&gt;&lt;li&gt;A list item&lt;/li&gt;&lt;/ul&gt;
 
 &lt;ol&gt;&lt;li&gt;A list item&lt;/li&gt;&lt;/ol&gt;
-<br> [/greyBox]
+<br> 
+[/greyBox]
 Figure: Good Example - Using the &lt;ul&gt; and &lt;ol&gt; for lists

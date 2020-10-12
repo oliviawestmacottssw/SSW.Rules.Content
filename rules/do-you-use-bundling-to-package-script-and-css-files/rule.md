@@ -13,7 +13,8 @@ ASP.NET provides a great way to compress and package multiple script files or mu
  
 Rather than link to each script or css file individually, use bundling to group many together and get the advantages of minification and versioning out of the box.
 
-[greyBox] 
+[greyBox]
+ 
 
 ```
 <link rel="stylesheet" href="~/Content/themes/base/jquery.ui.core.css" />
@@ -30,9 +31,11 @@ Rather than link to each script or css file individually, use bundling to group 
 <link rel="stylesheet" href="~/Content/themes/base/jquery.ui.theme.css" />
 ```
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Bad Example – each reference will be downloaded separately and won’t be compressed
-[greyBox] 
+[greyBox]
+ 
 
 ```
 Configuration:
@@ -57,5 +60,6 @@ View:
 @Styles.Render("~/Content/themes/base/css")
 ```
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Good Example – Define a bundle and render it in the view for maximum performance

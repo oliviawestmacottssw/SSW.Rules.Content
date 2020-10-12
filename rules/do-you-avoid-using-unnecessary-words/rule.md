@@ -11,10 +11,14 @@ authors:
 
 When writing any documentation it is vital that you avoid using unnecessary words to keep the reader interested and focussed on the content. This is especially true in technical documentation, as most of the content is factual.
  
-[greyBox]  Click the "Select" button  [/greyBox]
+[greyBox]
+ Click the "Select" button 
+[/greyBox]
 Figure: Bad Example - There are too many unnecessary words
 
-[greyBox]  Click "Select"  [/greyBox]
+[greyBox]
+ Click "Select" 
+[/greyBox]
 Good Example - This is short and to the point.
 
 It is less wordy, and still gets the message across. Look through your document now - where else can you get rid of words that don't add any value to the sentence?

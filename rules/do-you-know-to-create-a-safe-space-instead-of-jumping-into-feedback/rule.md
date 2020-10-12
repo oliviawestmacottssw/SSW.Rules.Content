@@ -15,12 +15,16 @@ Giving feedback should be done in a safe space, so as not to seem like you are d
 
 Consider starting with the following:
 
-[greyBox]  "Hey, can I share something with you?"
-  [/greyBox]
+[greyBox]
+ "Hey, can I share something with you?"
+ 
+[/greyBox]
 
 
-[greyBox]  "Hey, have you got time now for a retro?"
-  [/greyBox]
+[greyBox]
+ "Hey, have you got time now for a retro?"
+ 
+[/greyBox]
 
 Then start with the good…  **before the bad** .
 
@@ -28,5 +32,7 @@ Then start with the good…  **before the bad** .
 
 Brian Harry said in [his blog](https&#58;//blogs.msdn.microsoft.com/bharry/2017/08/18/taking-feedback/):
 
-[greyBox]  "Don’t try to give feedback when you are angry or frustrated. Take the time to digest what you need to say – to separate your frustration from an objective assessment of what happened. Have a calm conversation about what you observed and what could be done differently."
-  [/greyBox]
+[greyBox]
+ "Don’t try to give feedback when you are angry or frustrated. Take the time to digest what you need to say – to separate your frustration from an objective assessment of what happened. Have a calm conversation about what you observed and what could be done differently."
+ 
+[/greyBox]

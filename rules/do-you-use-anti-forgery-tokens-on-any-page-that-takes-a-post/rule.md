@@ -11,7 +11,8 @@ authors:
 
 To prevent cross-site request forgery (XSRF), you should use Html.AntiForgeryToken. On the action which takes the post request, place the ValidateAntiForgeryToken attribute to enable the request to validate.  Doing this ensures that the post is a direct response to the page that was given to this user so only verified posts will be processed.
  
-[greyBox] 
+[greyBox]
+ 
 
 ```
 @using (Html.BeginForm()) {
@@ -31,9 +32,11 @@ To prevent cross-site request forgery (XSRF), you should use Html.AntiForgeryTok
  }
 ```
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Bad Example – The page is potentially vulnerable to XSRF attacks. Any post will be accepted by the server
-[greyBox] 
+[greyBox]
+ 
 
 ```
 View:
@@ -65,5 +68,6 @@ public ActionResult Create(CreateModel model)
 }
 ```
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Good Example – The page is no longer vulnerable to XSRF attacks

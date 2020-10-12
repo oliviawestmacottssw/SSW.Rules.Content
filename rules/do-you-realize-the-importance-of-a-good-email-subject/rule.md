@@ -43,8 +43,10 @@ Of course, we also use a structured approach for emails - especially when sendin
 
 We use the following format for the subject internally and encourage clients and external contacts to use this format as well.
 
-[greyBox]  [Client Name/Product Name] - [Project Name] – [Object Name/Description]
-Eg.:  **WorleyParsons – IOP – Customer.aspx - Add email address validation**   [/greyBox]
+[greyBox]
+ [Client Name/Product Name] - [Project Name] – [Object Name/Description]
+Eg.:  **WorleyParsons – IOP – Customer.aspx - Add email address validation**  
+[/greyBox]
 
 The advantage of this is that when you sort by the subject in Outlook, you get all of the emails grouped together, and it is easy to recognize the client/product, because the subject contains the relevant information.
 
@@ -72,13 +74,15 @@ Other words to be used are:
 - Client Name
 
 
-[greyBox] 
+[greyBox]
+ 
 **Remember:**
 
 For external emails, it is acceptable to [change the email subject](/Pages/WhenToChangeEmailSubject.aspx "When to Change an Email Subject") in certain circumstances.
 
 For internal emails, the subject line should generally not be changed as it will break the threading of emails.
- [/greyBox]
+ 
+[/greyBox]
 
 
 ## Related Links

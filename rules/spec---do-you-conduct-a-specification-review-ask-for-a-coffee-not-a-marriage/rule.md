@@ -27,13 +27,17 @@ It is paid work conducted after the initial meeting to determine the overall sco
   
 ![A ballpark or proposal should start small and not be a big commitment](proposal.jpg)
 
-[greyBox]  From this initial meeting, the ballpark is 6 months and $200K+GST 
-  [/greyBox]
+[greyBox]
+ From this initial meeting, the ballpark is 6 months and $200K+GST 
+ 
+[/greyBox]
 Figure: Bad example - big scary figure
 
-[greyBox]  From this initial meeting, we will first need to conduct a specification review 
+[greyBox]
+ From this initial meeting, we will first need to conduct a specification review 
 This first step is $6K - a 2-day Specification Review
-  [/greyBox]
+ 
+[/greyBox]
 Figure: Good example - work in small chunks of work with details about what you will do
 
 ### Spec Review length
@@ -68,10 +72,14 @@ While the information collected and the conclusions of the Spec Review are prese
 
 Each month for senior software consultants is generally tens of thousands of dollars. Squabbling over $500 here or there in the ballpark phase is a level of detail neither side can be confident of. Clients need to be realistic about what they get for their money.
 
-[greyBox]  "Now that we've spent a few days speccing this out, we believe the solution will take approximately 6 months which is $204,000+GST"  [/greyBox]
+[greyBox]
+ "Now that we've spent a few days speccing this out, we believe the solution will take approximately 6 months which is $204,000+GST" 
+[/greyBox]
 Bad Example - Far too firm a price when you don't know any of the detail 
-[greyBox]  "Now that we've spent a few days speccing this out, our projection is the project will take a minimum of 6 man-months (around $200,000+GST) to complete but this may change depending on what is finally agreed in the Specification. The price will vary depending on resources used and the time that elapses over testing. 
-  [/greyBox]
+[greyBox]
+ "Now that we've spent a few days speccing this out, our projection is the project will take a minimum of 6 man-months (around $200,000+GST) to complete but this may change depending on what is finally agreed in the Specification. The price will vary depending on resources used and the time that elapses over testing. 
+ 
+[/greyBox]
 Good Example - leaves some wriggle room at these initial phases 
 Read [When do you use approximate values for project costs?](http://www.ssw.com.au/ssw/standardsinternal/inductiontraining/inductionsalespeople.aspx#Use-approximate-values)
 

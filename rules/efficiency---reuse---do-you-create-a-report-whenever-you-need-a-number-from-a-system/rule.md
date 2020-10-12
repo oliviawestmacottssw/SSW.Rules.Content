@@ -15,7 +15,8 @@ If you found yourself doing ad-hoc reports, or random SQL queries, a few years a
 
 Since 2015, the best practice is instead to jump into Power BI and build the report yourself.
 
-[greyBox]   **Subject: Report needed** 
+[greyBox]
+  **Subject: Report needed** 
 
 Dear boss,
 
@@ -24,7 +25,8 @@ Today I needed to find xxx and so I had to write a query to find it. You can fin
 I suggest adding this into our Performance Point Cube so I could find it at a URL.  
 
 Jonny
-  [/greyBox]
+ 
+[/greyBox]
 
 Figure - Bad Example: If you can't build it yourself, send an email to your boss for a number
  

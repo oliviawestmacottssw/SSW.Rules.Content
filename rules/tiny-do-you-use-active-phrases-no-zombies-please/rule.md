@@ -14,9 +14,13 @@ To get the most out of your communications, your writing should be compelling an
 For example:
  
 
-[greyBox]  When the CD is inserted, a Windows dialog will be shown.  [/greyBox]
+[greyBox]
+ When the CD is inserted, a Windows dialog will be shown. 
+[/greyBox]
 Figure: Bad Example - This example is using a passive voice, and does not address the reader or from the point of the subject (the software in this case).
-[greyBox]  When you insert a CD, Windows shows a dialog.  [/greyBox]
+[greyBox]
+ When you insert a CD, Windows shows a dialog. 
+[/greyBox]
 Figure: Good Example - This example uses the active voice to address the reader, and is more direct and engaging.
 
 
@@ -25,12 +29,16 @@ An easy way to tell if you're using the passive voice is to add "by zombies" aft
 
 
 
-[greyBox]  The email was sent by zombies  [/greyBox]
+[greyBox]
+ The email was sent by zombies 
+[/greyBox]
 
 
 
 Figure: Bad example - This sentence could be more engaging
-[greyBox]  Zombies sent the email   [/greyBox]
+[greyBox]
+ Zombies sent the email  
+[/greyBox]
 
 Figure: Good example - Now that's a more engaging sentence
 

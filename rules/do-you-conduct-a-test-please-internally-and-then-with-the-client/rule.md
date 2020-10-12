@@ -24,7 +24,8 @@ There are a number of different types of tests that you can perform:
 - **Smoke testing:**     Smoke testing is done to ensure the system doesn't have any critical bugs that would make other types of testing unnecessary. This type of testing is generally performed on a new or fixed software. A Smoke test should cover essential parts of the application so it is said to be shallow and broad.
 
 
-[greyBox] 
+[greyBox]
+ 
 **Does the "Test Please" principle apply to more than code?**
 Yes! A "Test Please", aka peer review highlights unseen errors, proposes new ideas for consideration or confirms the existing work as the best solution. A peer review can also effect cultural change amongst your development team as developers become more open to critiques of their work and comfortable with a 'continuous learning' environment. A "Test Please" will also be applied to:
 - Brief proposals
@@ -36,7 +37,8 @@ Yes! A "Test Please", aka peer review highlights unseen errors, proposes new ide
 
 
 Always put "test please" in the email body so readers know they are expected to react quickly.
- [/greyBox]
+ 
+[/greyBox]
 
 ###  <br>   Lead Developer responsibilities
 
@@ -69,7 +71,8 @@ Please cc the client in all your "Test Please" emails including internal ones.
 10. When finished reply to the 'test please' email with "Test Please Succeeded (as no Critical bugs)" or "Test please failed (as per critical bugs reported)".
 
 
-[greyBox] 
+[greyBox]
+ 
 **Subject:**  RE: Test Please - \\Public Folders\All Public Folders\SSWeXtremeEmailsDatabase\SSWCodeAuditor\Release09
 
 Gary,
@@ -77,7 +80,8 @@ Gary,
 **Test please failed**
 
 (as per critical bugs reported in other emails)
- [/greyBox]
+ 
+[/greyBox]
 Figure: This is how to reply failed to a "test please" email 
 
 **Note:** If the test to be performed is quick and the tester is available on the spot, consider using a "[checked by](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=b44ce620-2be6-4c95-ba62-cb6b36bfbb4a)" style instead to save some time.

@@ -21,12 +21,16 @@ so that
 Figure: User Story - template for description
  
 ![User Story - Product Backlog Item form](TFS2012UserStory.gif)
-[greyBox]  I want to be able to search for customers.
-  [/greyBox]
+[greyBox]
+ I want to be able to search for customers.
+ 
+[/greyBox]
 Figure: Bad Example - the user story is too vague and broad in scope
-[greyBox]  As a Marketing Manager...
+[greyBox]
+ As a Marketing Manager...
     I want to be able to search for customers by country and last name.
-    So that I can find their numbers and call customers close to me.   [/greyBox]
+    So that I can find their numbers and call customers close to me.  
+[/greyBox]
 Figure: Good Example - Clear user story following the INVEST principle
 
 

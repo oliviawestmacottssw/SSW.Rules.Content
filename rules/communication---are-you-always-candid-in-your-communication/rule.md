@@ -21,5 +21,7 @@ Bad example: No.
 
 Good Example: I don't think so but I'd need investigate further to be sure.
 
-[greyBox]  Being candid is being vulnerable, which is one of the[5 Pillars of Teamwork.](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=589b01d2-6611-4f22-aa99-4ace7a2f7a75)
-  [/greyBox]
+[greyBox]
+ Being candid is being vulnerable, which is one of the[5 Pillars of Teamwork.](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=589b01d2-6611-4f22-aa99-4ace7a2f7a75)
+ 
+[/greyBox]

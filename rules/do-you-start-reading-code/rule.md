@@ -13,8 +13,10 @@ authors:
 
 ---
 
-[greyBox]  *“Aim for simplicity. I want to code to read like poetry”*
- - Terje Sandstrom  [/greyBox]
+[greyBox]
+ *“Aim for simplicity. I want to code to read like poetry”*
+ - Terje Sandstrom 
+[/greyBox]
  
 ### Good code
 

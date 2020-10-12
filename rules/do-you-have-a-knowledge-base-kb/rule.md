@@ -16,7 +16,8 @@ So, if you answer questions on your products to customers, you are wasting time 
 
 Now of course there are many customers who don't look for a KB, but instead you fire off the same old email that you already know is an MDAC related error, and your current solution is to tell them to run SSW Diagnostics and get all the green ticks.
 
-[greyBox] 
+[greyBox]
+ 
 Dear Harry,
 
 Thank you for taking the time to report the issue for SSW Code Auditor. I'm happy to let you know that this is a known issue and has been addressed in our knowledge base. 
@@ -28,7 +29,8 @@ Please see [http://www.ssw.com.au/ssw/KB/KB.asp?KBID=Q260000](http&#58;//www.ssw
 Thanks,
 John Prince
 [http://www.ssw.com.au](http&#58;//www.ssw.com.au/ssw/)
- [/greyBox]
+ 
+[/greyBox]
 Figure: Responding to a known issue with a KB article 
 The basic rule is: don't send back the answer in your email - instead send back the link. More specifically:
 
@@ -42,7 +44,8 @@ The basic rule is: don't send back the answer in your email - instead send back 
     - Ask the developer to “Please action?"
 
 
-[greyBox] 
+[greyBox]
+ 
 Dear Harry,
 
 Thank you for taking the time to report the issue for SSW Code Auditor.
@@ -53,9 +56,11 @@ P.S. Don't forget to run [SSW Diagnostics](http&#58;//www.ssw.com.au/diagnostics
 
 Kind Regards, 
 Bob
- [/greyBox]
+ 
+[/greyBox]
 Figure: Responding when you cannot reproduce the issue 
-[greyBox] 
+[greyBox]
+ 
 Dear Harry,
 
 Done. The code changed from
@@ -68,9 +73,11 @@ Thank you for reporting this bug - our software only gets better with help from 
 
 Kind Regards,
 Bob
- [/greyBox]
+ 
+[/greyBox]
 Figure: Informing of a Fix (Email 1 of 2) Note: In this email, you can offer them an interim build
-[greyBox] 
+[greyBox]
+ 
 Dear Harry,
 
 Thank you for taking the time to report the issue for SSW Code Auditor. I'm happy to let you know that this problem is fixed in this release.
@@ -81,7 +88,8 @@ P.S. Don't forget to run SSW Diagnostics and gets all green ticks [www.ssw.co m.
 
 Kind Regards, 
 Bob
- [/greyBox]
+ 
+[/greyBox]
 Figure: Informing of a New Version (Email 2 of 2)
 Notice how by just giving them the URL, this email does the job of encouraging them to use your knowledge base in the future. You need to make sure the support staff know that there are really only 4 types of emails customers should be receiving (see the 4 grey boxes).
 
@@ -98,7 +106,8 @@ You don't need to be Microsoft to build a KB. A Knowledge Base does not need to 
 
 Suggestions for features should be added to the backlog and voted on at uservoice.com:
 
-[greyBox] 
+[greyBox]
+ 
 Dear Harry,
 
 Thanks for the suggestion for SSW Code Auditor!
@@ -109,5 +118,6 @@ Thanks,
 John Prince
 
 www.ssw.com.au
- [/greyBox]
+ 
+[/greyBox]
 Figure: Responding to a Feature Suggestion

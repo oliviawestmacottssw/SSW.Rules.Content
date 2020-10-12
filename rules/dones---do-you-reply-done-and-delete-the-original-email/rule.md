@@ -143,11 +143,14 @@ Screen captures should always include the:
  **\* Top left - so you can see what browser it is eg. Internet Explorer or FireFox** 
 ### Tip 7: When appropriate use text instead of an image
 
-[greyBox]  To: Ross
+[greyBox]
+ To: Ross
 From: J Liu
-Subject: RE: BUG on Product.aspx  [/greyBox]
+Subject: RE: BUG on Product.aspx 
+[/greyBox]
 
-[greyBox] 
+[greyBox]
+ 
 DONE - There was a problem with the SQL. I added the line highlighted in Yellow:
 
 
@@ -162,7 +165,8 @@ ON Download.ProdCategoryID = ProdCategory.CategoryID
 ORDER By Downloads DESC
 ```
 
- [/greyBox]
+ 
+[/greyBox]
  Figure: Good example - Most of the time screens need images. However, this "DONE" uses text instead of an image. It is easier to search and easy to reply with a modification 
 ### Tip 8: Handle an email once
 

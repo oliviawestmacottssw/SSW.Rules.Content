@@ -18,14 +18,16 @@ When your attachment is too big, you should think twice.
     - Could I send this as a UNC to an internal share?
     - Could I .zip this?
     - Could I put this picture on Flickr or Picasa?
-[greyBox] Dear Mike,
+[greyBox]
+ Dear Mike,
 
 Thank you for spending time with us to come to a better understanding of your business requirements. Please review the new version of the specification at [http://www.ssw.com.au/ssw/SQLAuditor/](http://www.ssw.com.au/ssw/SQLAuditor/Default.aspx)FileName.docx 
 
 PS: The .docx was 4MB so I didn't attach a copy. 
 
 Regards, 
-Adam Cogan [www.ssw.com.au](http://www.ssw.com.au/ssw)  [/greyBox]
+Adam Cogan [www.ssw.com.au](http://www.ssw.com.au/ssw)  
+[/greyBox]
 
 PS: An added advantage is that the document stays alive. If the URL has been updated and a user takes a week to get around to this email, they will view the latest version.
 2. If you have to attach the document, always use WinZip - it is common courtesy - I'll assume you already know that.

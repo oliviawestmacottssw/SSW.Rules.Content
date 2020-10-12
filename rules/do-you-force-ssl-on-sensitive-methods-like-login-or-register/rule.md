@@ -11,7 +11,8 @@ authors:
 
 Any sensitive data that is sent over the wire must be protected using a secure transport such as HTTPS.  MVC (version 2, Preview 2 or higher) allows you to specify that HTTPS is required for an action.  It’s important that the GET method is secure as well as the POST method to avoid people sending sensitive form data over the wire.
  
-[greyBox] 
+[greyBox]
+ 
 
 ```
 public ActionResult Register()
@@ -20,9 +21,11 @@ public ActionResult Register()
 }
 ```
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Bad Example – The Register method isn’t secure
-[greyBox] 
+[greyBox]
+ 
 
 ```
 [RequireHttps]
@@ -32,5 +35,6 @@ public ActionResult Login()
 }
 ```
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Good Example – The Login method is protected by HTTPS

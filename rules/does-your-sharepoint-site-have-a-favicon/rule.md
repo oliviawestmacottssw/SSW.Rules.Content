@@ -17,7 +17,8 @@ A Favicon is a small image file included on nearly all professional developed si
  
 Let's see how it's done for SharePoint:
 
-[greyBox] <br>   
+[greyBox]
+ <br>   
 &lt;head runat="server"&gt;        
      &lt;meta name="GENERATOR" content="Microsoft SharePoint"&gt;        
      &lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8"&gt;         
@@ -25,5 +26,6 @@ Let's see how it's done for SharePoint:
      &lt;asp:ContentPlaceHolder ID="PlaceHolderAdditionalPageHead" runat="server" /&gt;        
             &lt;link rel="shortcut icon" href="~/Style Library/Images/SSW/Rules/ssw.ico" type="image/x-icon" /&gt;
  &lt;/head&gt;
- [/greyBox]
+ 
+[/greyBox]
  **Figure: One line of HTML lets you add your company's icon to  your web page**

@@ -20,12 +20,14 @@ A "team" is a great way for teams to communicate and have a persistent forum to 
 
 You can also add Bots to communicate on your channel, or, even better, Apps! You can add Apps that let you, for example, be notified of any # uses in Twitter that you want to monitor, or Facebook Pages that you want to follow. This is great for the Marketing team!
 
-[greyBox]        **To:**  All Developers
+[greyBox]
+       **To:**  All Developers
  **Subject:** What’s been happening on SSWTimePro in the last couple of weeks
 
 Hi Devs,
 I’ve been away for a couple of weeks. Can you tell me what’s the latest?
-  [/greyBox]
+ 
+[/greyBox]
 Figure: Bad example - Broad email asking what’s been happening 
 
 

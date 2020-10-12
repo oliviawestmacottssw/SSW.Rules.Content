@@ -30,15 +30,18 @@ Also, make sure your descriptions are detailed and useful as that can make findi
 
 Make sure you always explain and give as many details as you can of how you got an error or a bad experience.
 
-[greyBox] 
+[greyBox]
+ 
 Hi, Rebecca, 
 
 Where is SSW TV on the navigation?
 
 - Adam
- [/greyBox]
+ 
+[/greyBox]
 Figure: Bad example - Lack of details
-[greyBox] 
+[greyBox]
+ 
 Hi, Rebecca,
 
 1. Navigated to ssw.com.au
@@ -63,7 +66,8 @@ Me, thinking... "Ctrl+F for TV? Nope."
 
 
 - Adam
- [/greyBox]
+ 
+[/greyBox]
 Figure: Good example - We can easily identify more the one way to improve the UX
 Better than a good description of the bug is a screen recording. This should be followed for a more detailed report. Use [Snagit](http://www.techsmith.com/snagit.html) or [Camtasia](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=84dca81b-9cc2-4b6a-a237-948304131b54) to record your screen.
 
@@ -81,7 +85,8 @@ Figure: Good example - Giving feature requests via video
 
 
 
-[greyBox]   **Who should you email, the Product Owner or the Tech Lead?
+[greyBox]
+  **Who should you email, the Product Owner or the Tech Lead?
 ** 
 It depends on the team, but often the Product Owner is busy. If you know the Tech Lead and your suggestion is obviously a good one and not too much work, then you should email the Tech Leader and CC the Product Owner.
 The Product Owner can always respond if he doesn’t like the suggestion.
@@ -89,7 +94,8 @@ e.g.
 For a bug email:   TO: TechLead@  CC: ProductOwner  Subject:BUG xxx   (or use PBI @mention)
 For a new feature email:  TO: TechLead@  CC: ProductOwner  Subject:SUGGESTION xxx  (or use PBI @mention)
 Note: There is no use for: sswtimepro@ssw.com.au
-  [/greyBox]
+ 
+[/greyBox]
 
 
 

@@ -11,12 +11,16 @@ authors:
 
 When explaining steps in a process, e.g. Printing a file, make sure to say something "will" happen or is happening. This is especially important when describing your own software, because saying something "should" happen implies that it may or may not happen, i.e. there could be bugs!
  
-[greyBox]  To print your document:
+[greyBox]
+ To print your document:
 1.    Select File | Print. The Print dialog should now show.
-2.    Select the number of copies and click Print. The file should now print.  [/greyBox]
+2.    Select the number of copies and click Print. The file should now print. 
+[/greyBox]
 Figure: Bad Example - Using "should" implies uncertainty
-[greyBox]  To print your document:
+[greyBox]
+ To print your document:
 1.    Select File | Print. The Print dialog is shown.
-2.    Select the number of copies and click Print. The file will now print.  [/greyBox]
+2.    Select the number of copies and click Print. The file will now print. 
+[/greyBox]
 Good example - Using present or future tense implies confidence
 This is \*not\* detected by [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/)because it picks up false positives.

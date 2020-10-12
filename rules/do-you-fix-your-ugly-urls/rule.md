@@ -13,11 +13,15 @@ authors:
 
 Ugly URL's don't only make it difficult for users to browse your site, they can also impact your Google rankings.
 
-[greyBox]  http://www.northwind.com/MyInternalDB/UserDatabase/ProductList.aspx?productname=Access  [/greyBox]
+[greyBox]
+ http://www.northwind.com/MyInternalDB/UserDatabase/ProductList.aspx?productname=Access 
+[/greyBox]
 Figure: If you have a nasty URL like this...
 You should fix it up to look more like this:
 
-[greyBox]  http://www.northwind.com/products/access  [/greyBox]
+[greyBox]
+ http://www.northwind.com/products/access 
+[/greyBox]
 
 Figure: Users could even guess the URL
 

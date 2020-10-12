@@ -22,17 +22,29 @@ Having these relevant words on links also gives a more friendly experience to 
 So what does this mean? All those that are pointing to pages on your website that are displayed as 'More', 'Link', 'This' or 'Click Here' aren't doing you any favors when it comes to increasing your Google rankings.
 
 
-[greyBox]  "For tips and tricks to increase your Google Ranking        Click here"  [/greyBox]
+[greyBox]
+ "For tips and tricks to increase your Google Ranking        Click here" 
+[/greyBox]
 Figure: Bad Example #1 - Link does not increase your rankings 
-[greyBox]  "Linkfor tips and tricks to increase your Google Ranking"  [/greyBox]
+[greyBox]
+ "Linkfor tips and tricks to increase your Google Ranking" 
+[/greyBox]
  Figure: Bad Example #2 - Link does not increase your rankings
-[greyBox]  "For tips and tricks to increase your Google Ranking        read this"  [/greyBox]
+[greyBox]
+ "For tips and tricks to increase your Google Ranking        read this" 
+[/greyBox]
 Figure: Bad Example #3 - Link does not increase your rankings
-[greyBox]  "For tips and tricks to increase your Google Ranking Click Here"  [/greyBox]
+[greyBox]
+ "For tips and tricks to increase your Google Ranking Click Here" 
+[/greyBox]
 Figure: Bad Example #4 - <br>      Link title does not increase your rankings (scroll and hold over link to see it)
-[greyBox]  "For tips and tricks to increase your Google Ranking go to https://rules.ssw.com.au/rules-to-better-google-rankings"  [/greyBox]
+[greyBox]
+ "For tips and tricks to increase your Google Ranking go to https://rules.ssw.com.au/rules-to-better-google-rankings" 
+[/greyBox]
 Figure: Bad Example #5 - <br>      Link is the whole URL
-[greyBox]  "For tips and tricks to increase your Google Rankings go to our Rules to Better Google Rankings"  [/greyBox]
+[greyBox]
+ "For tips and tricks to increase your Google Rankings go to our Rules to Better Google Rankings" 
+[/greyBox]
 Figure: Good Example - Descriptive link
 
 This rule also has relevance for [easier website navigation](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=313838ef-4179-493e-8b76-34acc6a20615).

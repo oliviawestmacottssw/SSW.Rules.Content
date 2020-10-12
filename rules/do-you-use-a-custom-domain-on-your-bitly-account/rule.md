@@ -11,7 +11,11 @@ authors:
 
 You should use a custom domain adds to your company brand.
 
-[greyBox]  bit.ly.com/MyShortenedLink  [/greyBox]
+[greyBox]
+ bit.ly.com/MyShortenedLink 
+[/greyBox]
 Figure: Bad example
-[greyBox]  r.ssw.com/MyShortenedLink  [/greyBox]
+[greyBox]
+ r.ssw.com/MyShortenedLink 
+[/greyBox]
 Figure: Good example (for SSW)

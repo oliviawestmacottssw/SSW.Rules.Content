@@ -15,13 +15,19 @@ Misunderstanding due to miscommunication can cause major disasters at work or in
 A good communication strategy when receiving instructions is to repeat back what's being said to avoid misunderstanding.
    Question:   
 
-[greyBox]  1. Please add a checkbox on the right, and make it red.
-  [/greyBox]
+[greyBox]
+ 1. Please add a checkbox on the right, and make it red.
+ 
+[/greyBox]
 
 Possible answers:<br>      
-[greyBox]  "OK" or "Roger That"
-  [/greyBox]
+[greyBox]
+ "OK" or "Roger That"
+ 
+[/greyBox]
 Figure: Bad Example
-[greyBox]  Ok, I will add a red checkbox on the right
-  [/greyBox]
+[greyBox]
+ Ok, I will add a red checkbox on the right
+ 
+[/greyBox]
 Figure: Good Example - repeat back the task

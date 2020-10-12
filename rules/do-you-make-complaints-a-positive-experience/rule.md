@@ -15,15 +15,23 @@ When a client complains I have a choice: solve the problem or ignore it. I prefe
  
 1. Stay relaxed, listen carefully and acknowledge the concerns
 2. Isolate the issues.
-    [greyBox]  E.g. invoicing ("I don't want to pay this bill") or development quality ("my application is down")  [/greyBox]
+    [greyBox]
+ E.g. invoicing ("I don't want to pay this bill") or development quality ("my application is down") 
+[/greyBox]
 3. Conference in the appropriate resources.
-    [greyBox]  E.g. the account manager or project manager
-  [/greyBox]
+    [greyBox]
+ E.g. the account manager or project manager
+ 
+[/greyBox]
 
 ![Conference in another person to solve the problem - it's a lot easier than it used to be](old-phone-connection.jpg)
 4. Follow up the proposed solution in writing
-    [greyBox]  E.g. "John, as per our conversation, David K will be on-site 9 am tomorrow morning"  [/greyBox]
-5. When the problem is finally solved, confirm so in writing, including the cause of the problem and what was done to fix it<br>       [greyBox]  E.g. "John, I'm glad David K was able to restore your application last night after the cleaners accidentally bumped the power cord on the server. David K just plugged the power cable back in and fixed the error log. As discussed it would be a good idea to lock the server room"  [/greyBox]
+    [greyBox]
+ E.g. "John, as per our conversation, David K will be on-site 9 am tomorrow morning" 
+[/greyBox]
+5. When the problem is finally solved, confirm so in writing, including the cause of the problem and what was done to fix it<br>       [greyBox]
+ E.g. "John, I'm glad David K was able to restore your application last night after the cleaners accidentally bumped the power cord on the server. David K just plugged the power cable back in and fixed the error log. As discussed it would be a good idea to lock the server room" 
+[/greyBox]
 
 
 Remember, someone will complain about what you do no matter how 'perfect' you are. That doesn't matter. It's how you deal with the complaint that matters. Everyone should leave the experience of your business with a great taste in their mouth.

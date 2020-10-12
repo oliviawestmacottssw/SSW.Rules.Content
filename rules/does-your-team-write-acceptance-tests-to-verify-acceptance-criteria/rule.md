@@ -16,7 +16,8 @@ authors:
  
 ![Test Cases in a User Story](acceptance-criteria-test-cases.jpg)(MSF For Agile Template)
 
-[greyBox]  Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ I will see all entries starting with Adam in the Grid
+[greyBox]
+ Positive Test -When I enter ‘Adam’ in the Search box and click ‘Search’ I will see all entries starting with Adam in the Grid
  Negative Test - When I enter ‘zzz’ in the Search box and click ‘Search’ I will see \*no\* entries in the Grid
  Gold Plating - If no results are retuned show a message box ‘No results found’
  Gold Plating – Validation: If no search text is entered, the ‘Search’ button should be disabled
@@ -28,7 +29,8 @@ authors:
  Gold Plating – if a large set of results is returned and we are on page < MaxPage, clicking the ‘Next’ button goes to the next page
  Gold Plating – if a large set of results is returned and we are on page = MaxPage, clicking the ‘Next’ button does not error
 
-   [/greyBox]
+  
+[/greyBox]
  Figure: Good example - Acceptance Tests
 ![The tester sees the Test Cases in Test Manager](test-cases.jpg)
 ![The tester follows each instruction](test-steps.jpg)(aka the Test Steps), and gives it a tick or cross

@@ -16,7 +16,8 @@ Next step check that you have primary and secondary (and even better tertiary) M
 ![Seeing at least 2 MX records is good... Run an SMTP Test to test mail servers. So Step 2 is good](MXToolbox-4.jpg)
 If success on both steps the error is most likely on the senders side. Send them the an email to check their mail settings.
 
-[greyBox] 
+[greyBox]
+ 
 Dear xxx
 
 As per this rule on bounced emails http://rules.ssw.com.au/Communication/RulesToBetterEmail/Pages/Do-you-know-what-to-do-with-bounced-email.aspx
@@ -25,5 +26,6 @@ As per this rule on bounced emails http://rules.ssw.com.au/Communication/RulesTo
 - I have checked Step 2 – it is good
     The problem is likely your end
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: What to send the person

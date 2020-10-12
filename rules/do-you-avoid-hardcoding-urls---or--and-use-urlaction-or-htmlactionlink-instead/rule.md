@@ -11,19 +11,23 @@ authors:
 
 Hardcoding URLs in your View can cause problems if your routes or page names need to change.  Instead, you should always use the Url and Html helpers to refer to different pages in your MVC application.
  
-[greyBox] 
+[greyBox]
+ 
 
 ```
 <a href="/Rule/Create">Create a Rule</a>
 ```
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Bad Example – Hard-coded URLs may lead to broken links if routes change
-[greyBox] 
+[greyBox]
+ 
 
 ```
 @Html.ActionLink("Create a Rule", "Create", "Rule")
 ```
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Good Example – Use the Url or Html helpers to provide links

@@ -17,21 +17,29 @@ In order to connect (with a username and password) to:
 
 
  
-[greyBox]  Would you like to logon to your new account?
+[greyBox]
+ Would you like to logon to your new account?
 Would you like to log-on to your new account?
 Would you like to login to your new account?
 Would you like to log-in to your new account?
 Would you like to signin to your new account?
-Would you like to sign-in to your new account?  [/greyBox]
+Would you like to sign-in to your new account? 
+[/greyBox]
 Figure: Bad examples
 
-[greyBox]  Would you like to log in to your timesheeting application?  [/greyBox]
+[greyBox]
+ Would you like to log in to your timesheeting application? 
+[/greyBox]
 Figure: Good example - Winform
 
-[greyBox]  Would you like to sign in to your email account?  [/greyBox]
+[greyBox]
+ Would you like to sign in to your email account? 
+[/greyBox]
 Figure: Good example - Webform
 
-[greyBox]  Would you like to log on to your computer?  [/greyBox]
+[greyBox]
+ Would you like to log on to your computer? 
+[/greyBox]
 Figure: Good example - PC, Server or Domain
 
 See the [Login From Wikipedia](https&#58;//en.wikipedia.org/wiki/Login#History_and_etymology).

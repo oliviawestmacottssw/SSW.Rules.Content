@@ -24,21 +24,29 @@ When using a homophone in a sentence, it is important to ensure you are using th
 
 
 
-[greyBox]  "Matthew 5:41 is one of my favourite bible versus."
-  [/greyBox]
+[greyBox]
+ "Matthew 5:41 is one of my favourite bible versus."
+ 
+[/greyBox]
 Figure: Bad example: the wrong “versus” is used
 
 
 
-[greyBox]  "Floyd verses Mayweather."
-  [/greyBox]
+[greyBox]
+ "Floyd verses Mayweather."
+ 
+[/greyBox]
 Figure: Bad example: Floyd did not poetry<br>Mayweather 
 
-[greyBox]  "Brown v. The Board of Education."
-  [/greyBox]
+[greyBox]
+ "Brown v. The Board of Education."
+ 
+[/greyBox]
 Figure: Good example: in a legal context, “versus”<br>is abbreviated to “v.”
 
 
-[greyBox]  "Adam penned many verses about his love for .NET development"
-  [/greyBox]
+[greyBox]
+ "Adam penned many verses about his love for .NET development"
+ 
+[/greyBox]
 Figure: Good example

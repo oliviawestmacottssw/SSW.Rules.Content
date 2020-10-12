@@ -14,12 +14,16 @@ authors:
 If you are active in a forum, like the MSDN or StackOverflow forums, then you should set up the RSS for your activity to automatically tweet.
 
 
-> [greyBox]  Replied to the question Error when trying to 'add assembly from project output' in the package manager. in the Sha... http://bit.ly/bwREtu        
+> [greyBox]
+ Replied to the question Error when trying to 'add assembly from project output' in the package manager. in the Sha... http://bit.ly/bwREtu        
 > 
-> 6:02 PM Mar 12th via twitterfeed  [/greyBox]
+> 6:02 PM Mar 12th via twitterfeed 
+[/greyBox]
 > Figure: Good example - MSDN and ardvark tweets are automatic using twitterfeed
 > 
-> [greyBox]  Just helped someone from Rexburg, US with a question about \*diligence\* ...on Aardvark!  [/greyBox]
+> [greyBox]
+ Just helped someone from Rexburg, US with a question about \*diligence\* ...on Aardvark! 
+[/greyBox]
 > Figure: Good example - Aardvark tweets are built in
 
  

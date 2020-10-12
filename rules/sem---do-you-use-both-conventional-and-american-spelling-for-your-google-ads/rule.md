@@ -17,7 +17,9 @@ If you are an Australian or British this rule is controversial, but it is worth 
 - On the practical side, more web searches are going to be returned for US spelling of words.
 
  
-[greyBox]  Don't forget [after making edits to check your pages for spelling errors](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTechnicalDocumentation.aspx#WordSpellingAndGrammarChecker).  [/greyBox]
+[greyBox]
+ Don't forget [after making edits to check your pages for spelling errors](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterTechnicalDocumentation.aspx#WordSpellingAndGrammarChecker). 
+[/greyBox]
 
 At SSW we have a Google Ads account that allows us to reach a targeted audience based on the keywords they use to search the Internet. While testing the effectiveness of the keywords in our Ads account, we realised that if we use Australian spelling a lot of our US customers won't find us, and vice versa.
 

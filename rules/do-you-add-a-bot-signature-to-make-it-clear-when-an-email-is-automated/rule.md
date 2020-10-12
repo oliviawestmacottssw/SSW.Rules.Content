@@ -15,7 +15,8 @@ With the advent of Microsoft Flow and Logic Apps, automated emails are becoming 
 
 However, the end user should be able to tell that this was sent by a bot, and not a real person, both for transparency, and also to potentially trigger them to automate some of their own workflow.
  
-[greyBox]   **Hi All,
+[greyBox]
+  **Hi All,
 ** 
 The maximum temperature for today is 32.
 Feel free to wear shorts if you like 🌞 (hope you haven't skipped leg day 😜)
@@ -27,5 +28,6 @@ Uly
 --Powered by SSW.Shorts
 
 &lt;This email was sent as per: http://rules.ssw.com.au/do-you-have-a-dress-code &gt;
-  [/greyBox]
+ 
+[/greyBox]
 Figure: Good Example – you can clearly see this was sent by a bot

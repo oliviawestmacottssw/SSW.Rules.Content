@@ -24,7 +24,8 @@ There are many options for managing secrets in a secure way:
 ### Bad Practices
 
 
-[greyBox] 
+[greyBox]
+ 
 ### Store production passwords in source control protected with the <br>      [ASP.NET IIS Registration Tool](https&#58;//msdn.microsoft.com/en-us/library/zhhddkxy.aspx)
 
 Pros:
@@ -40,10 +41,12 @@ Cons:
 - Developers can easily decrypt and access the production password.
 - Manual transmission of the password from the key store to the encrypted config file.
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Bad practice - Overall rating: 2/10
     
-[greyBox] 
+[greyBox]
+ 
 ### Use Windows Identity instead of username/ password.
 
 Pros:
@@ -60,9 +63,11 @@ Cons:
 - Vulnerable to DOS attacks related to password lockout policies
 - Has key-person reliance on network admin
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Bad practice - Overall rating: 4/10   
-[greyBox] 
+[greyBox]
+ 
 ### [Use External Configuration Files](https&#58;//docs.microsoft.com/en-us/aspnet/identity/overview/features-api/best-practices-for-deploying-passwords-and-other-sensitive-data-to-aspnet-and-azure)
 
 
@@ -78,13 +83,15 @@ Cons:
 - Still need DPAPI to protect the external config file.
 - No clear way to manage the DevOps process for external config files.
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Bad practice -  Overall rating: 1/10
 
 
 ### Good Practices
 
-[greyBox] 
+[greyBox]
+ 
 ### Use Octopus/ VSTS RM secret management, with passwords sourced from KeePass
 
 
@@ -99,12 +106,14 @@ Cons:
 - Password reset process is still manual
 - DPAPI still needed.
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Good practice - Overall rating: 8/10
 
 
 
-[greyBox] 
+[greyBox]
+ 
 ### Use Enterprise Secret Management Tool – LastPass/ Hashicorp Vault/ etc..
 
 Pros:
@@ -120,11 +129,13 @@ Cons:
 - More complex to install and administer
 - DPAPI still needed for config files at rest
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Good practice -  Overall rating: 8/10
 
 
-[greyBox] 
+[greyBox]
+ 
 ### Use Azure KeyVault
 
 See the SSW Rewards mobile app repository for how SSW is using this in a production application:           [https://github.com/SSWConsulting/SSW.Rewards](https&#58;//github.com/SSWConsulting/SSW.Rewards)
@@ -147,5 +158,6 @@ Cons:
 
 
 
- [/greyBox]
+ 
+[/greyBox]
 Figure: Good Practice - Overall rating 9/10

@@ -13,12 +13,16 @@ When writing technical documentation, one of your primary objectives is to ensur
 
 For example:
  
-[greyBox]  When one wants to scan for viruses, you can open the antivirus software.  [/greyBox]
+[greyBox]
+ When one wants to scan for viruses, you can open the antivirus software. 
+[/greyBox]
 
 Figure: Bad Example - The user is referred in two ways and flow is broken
 
 
-[greyBox]  When you want to scan for viruses, you can open the antivirus software.  [/greyBox]
+[greyBox]
+ When you want to scan for viruses, you can open the antivirus software. 
+[/greyBox]
 
 Figure: Good Example - There is no noticeable break in the reading flow
 
@@ -35,7 +39,11 @@ It is occasionally acceptable to use the first person, "we", "I", "us", "our" et
 ** 
 
 
-[greyBox]  We will now open a web browser and go to the home page.  [/greyBox]
+[greyBox]
+ We will now open a web browser and go to the home page. 
+[/greyBox]
 Figure: Bad Example - It is unclear who the "we" is.
-[greyBox]  You can now open a web browser and go to the home page.  [/greyBox]
+[greyBox]
+ You can now open a web browser and go to the home page. 
+[/greyBox]
 Figure: Good Example - These instructions are clear and direct.

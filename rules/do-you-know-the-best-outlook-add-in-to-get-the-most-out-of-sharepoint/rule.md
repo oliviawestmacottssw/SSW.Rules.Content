@@ -9,11 +9,17 @@ authors:
 
 ---
 
-[greyBox]  Using no Outlook add-in  [/greyBox]
+[greyBox]
+ Using no Outlook add-in 
+[/greyBox]
 Bad Example 
-[greyBox]  Colligo , Harmon.ie and Macroview   [/greyBox]
+[greyBox]
+ Colligo , Harmon.ie and Macroview  
+[/greyBox]
 
 
 OK Example 
-[greyBox]  OnePlaceMail  [/greyBox]
+[greyBox]
+ OnePlaceMail 
+[/greyBox]
 Good Example

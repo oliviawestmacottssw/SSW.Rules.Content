@@ -15,13 +15,17 @@ authors:
 
 Sometimes you're not able to complete a task right away or anytime soon. In this case, people usually just say:
 
-[greyBox]  "I can't do this week, but I should have it done by the end of next week"
-  [/greyBox]
+[greyBox]
+ "I can't do this week, but I should have it done by the end of next week"
+ 
+[/greyBox]
 
 Another scenario is when the task should be done or will expire after a period of time. For example:
 
-[greyBox]  "Send Google Analytics data after a month" or "Remove course banner after the course is completed"
-  [/greyBox]
+[greyBox]
+ "Send Google Analytics data after a month" or "Remove course banner after the course is completed"
+ 
+[/greyBox]
 
 Efficient people don't rely on their memory and instead, use some way to make sure they don't forget to do that task. The most common ways are to either make a note in a paper diary, stick a post-it note to his screen. But there are better ways.
  

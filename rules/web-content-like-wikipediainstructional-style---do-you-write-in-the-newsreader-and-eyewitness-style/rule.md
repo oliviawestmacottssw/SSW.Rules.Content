@@ -12,13 +12,21 @@ authors:
 ---
 
 General web content should always be written as if read by a newsreader. It is objective and describes its content professionally. A good example of this is Wikipedia. 
-[greyBox]                               I don't like JavaScript. I prefer jQuery because...  [/greyBox]
+[greyBox]
+                              I don't like JavaScript. I prefer jQuery because... 
+[/greyBox]
 Figure: Bad Example - using 1st person writing makes it sound like opinion
-[greyBox]                               jQuery is superior to JavaScript for this because...  [/greyBox]
+[greyBox]
+                              jQuery is superior to JavaScript for this because... 
+[/greyBox]
 Figure: Good Example - using 3rd person writing makes it sound like fact
 However, when quoting a testimonial, you should use 1st person writing as if a newsreader had crossed over to an eyewitness for a personal view of the topic.
 
-[greyBox]                               Don Bradman thought that SSW's work was fantastic!  [/greyBox]
+[greyBox]
+                              Don Bradman thought that SSW's work was fantastic! 
+[/greyBox]
 Figure: Bad Example - impersonal
-[greyBox]                               Don Bradman says: "I thought that SSW's work was fantastic!"  [/greyBox]
+[greyBox]
+                              Don Bradman says: "I thought that SSW's work was fantastic!" 
+[/greyBox]
 Figure: Good Example - 1st person in this context is appropriate

@@ -13,28 +13,38 @@ authors:
 
 For maximum readability and SEO use kebab-case (dashes) in your URLs.
  
-[greyBox]  http://northwind.com/pageonworddocumentation  [/greyBox]
+[greyBox]
+ http://northwind.com/pageonworddocumentation 
+[/greyBox]
  Figure: Bad example - No kebab-case in URL 
 
 
-[greyBox]  http://northwind.com/PageOnWordDocumentation  [/greyBox]
+[greyBox]
+ http://northwind.com/PageOnWordDocumentation 
+[/greyBox]
  Figure: Bad example - PascalCase (better readability and still works in small caps, but other people might share it without the MixedCase) 
 
 
 
-[greyBox]  http://northwind.com/page on word documentation
+[greyBox]
+ http://northwind.com/page on word documentation
 
 ...will become
 
- http://northwind.com/page20%on20%word20%documentation  [/greyBox]
+ http://northwind.com/page20%on20%word20%documentation 
+[/greyBox]
  Figure: Bad example - spaces it will show up in your URL structure as 20%, which is bad for readability and SEO
 
 
-[greyBox]  http://northwind.com/page\_on\_word\_documentation  [/greyBox]
+[greyBox]
+ http://northwind.com/page\_on\_word\_documentation 
+[/greyBox]
  Figure: OK example - underscored (snake\_case) URLs have good readability but are not recommended by Google
 
 
-[greyBox]  http://northwind.com/page-on-word-documentation  [/greyBox]
+[greyBox]
+ http://northwind.com/page-on-word-documentation 
+[/greyBox]
 Figure: Good example - kebab-case is recommended by Google
 
 

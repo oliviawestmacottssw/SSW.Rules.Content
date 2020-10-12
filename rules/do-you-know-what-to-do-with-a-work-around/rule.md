@@ -17,8 +17,10 @@ If you have to use a workaround you should always comment your code and referenc
  
 
 
-[greyBox]  "This is a workaround as per the suggestion 
-"[URL]  [/greyBox]
+[greyBox]
+ "This is a workaround as per the suggestion 
+"[URL] 
+[/greyBox]
 Figure: Always add a URL to the suggestion that you are compensating for
 
 

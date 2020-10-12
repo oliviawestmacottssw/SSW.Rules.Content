@@ -24,19 +24,23 @@ To avoid the approver feeling hard done by, make sure you do the following:
 
 
 
-[greyBox]  Hi Adam,
+[greyBox]
+ Hi Adam,
 
 I know you haven't had time so far to test this for me, but if you could please do so, i can go live... I've been waiting for quite a while now
-  [/greyBox]
+ 
+[/greyBox]
 Figure: Bad Example - chasing an approver with no set timeframe is frustrating and disempowering
 
 
 
 
-[greyBox]  Hi Adam,
+[greyBox]
+ Hi Adam,
 
 As per our conversation, you haven't got time to sit with me to approve this today, and you're very busy at the moment, so we've agreed that you have 2 weeks to approve this video before it goes live. 
 
-&lt;This is as per the rule, [https://rules.ssw.com.au/do-you-timebox-approval-requests](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=83885199-22a4-4079-baeb-5eb24077b0bc) /&gt;  [/greyBox]
+&lt;This is as per the rule, [https://rules.ssw.com.au/do-you-timebox-approval-requests](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=83885199-22a4-4079-baeb-5eb24077b0bc) /&gt; 
+[/greyBox]
 
 Figure: Good Example - an agreed timeframe is communicated so there are no surprises

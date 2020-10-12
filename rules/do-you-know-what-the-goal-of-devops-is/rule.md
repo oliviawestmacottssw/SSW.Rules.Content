@@ -19,10 +19,14 @@ authors:
 
 The goal should be:
 
-[greyBox]  A client calls and says: "I'm having problems with your software."
-  [/greyBox]
+[greyBox]
+ A client calls and says: "I'm having problems with your software."
+ 
+[/greyBox]
 
-[greyBox]  Your answer: "Yes I know. Each morning we check the health of the app and we already saw a new exception. So I already have an engineer working on it."
-  [/greyBox]
+[greyBox]
+ Your answer: "Yes I know. Each morning we check the health of the app and we already saw a new exception. So I already have an engineer working on it."
+ 
+[/greyBox]
 
 Take this survey to find out your DevOps index: <br>

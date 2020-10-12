@@ -32,8 +32,10 @@ Writing Angular 1.x directives in Typescript can be a challenge with only a few 
 
 ### HTML
 
-[greyBox]  &lt;current-value&gt;&lt;/current-value&gt;
-  [/greyBox]
+[greyBox]
+ &lt;current-value&gt;&lt;/current-value&gt;
+ 
+[/greyBox]
 
 ### Typescript
 
