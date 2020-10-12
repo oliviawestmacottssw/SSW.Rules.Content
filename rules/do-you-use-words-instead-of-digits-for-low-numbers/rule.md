@@ -9,16 +9,16 @@ authors: []
 
 Whenever writing numbers for a web<br>audience, it's generally a good idea to use numerals, especially for<br>complicated numbers. Numerals are more easily noticed when a page is scanned by<br>a user's eye.
 For example: 
-There are seventy three good reasons to do this.
+[greyBox]  There are seventy three good reasons to do this.  [/greyBox]
 Figure: Bad Example - The number is spelled out.
-There are 73 good reasons to do this.
+[greyBox]  There are 73 good reasons to do this.  [/greyBox]
 
 Figure: Good Example - This is easy to read and more noticeable
 
 
 The exception is generally very small numbers (one and two) which are normally spelled out.
 
-2 heads are better than 1.
+[greyBox]  2 heads are better than 1.  [/greyBox]
 Figure: Bad Example - Numerals used
-Two heads are better than one
+[greyBox]  Two heads are better than one  [/greyBox]
 Figure: Good Example - Numbers are spelled out

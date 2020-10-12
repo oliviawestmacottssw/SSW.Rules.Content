@@ -54,7 +54,7 @@ Add a readme.md to your solution (Use [this](https://docs.microsoft.com/en-us/az
 
 When a new developer starts on a project you want them to get up and running as soon as possible.
 
-If you were at Level 2 you might have a document that says:
+[greyBox]  If you were at Level 2 you might have a document that says:
 Dear Northwind Developer
      This documentation describes what is required to configure a developer PC.
 
@@ -62,6 +62,7 @@ Problems to check for:
 Windows 8 not supported
 Many things to build
 Lots of dependencies
+  [/greyBox]
 
 
 You are at Level 2 when you have some static Word documents with the steps to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile.

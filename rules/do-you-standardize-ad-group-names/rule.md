@@ -17,16 +17,16 @@ The use of standardized AD Group names is a simple yet crucial step towards buil
 
 For example: This is a list of AD groups associated with products.
 
-SSWSugarLearningEvents
+[greyBox]  SSWSugarLearningEvents
  SSWCodeAuditorAlerts
- SSWLinkAuditorDevs
+ SSWLinkAuditorDevs  [/greyBox]
  Figure: Bad Example – It is difficult to know the correct name for an AD group 
-SSWSugarLearning
+[greyBox]   SSWSugarLearning
  SSWSugarLearningEvents
  SSWCodeAuditor
  SSWCodeAuditorEvents
  SSWLinkAuditor
- SSWLinkAuditorEvents
+ SSWLinkAuditorEvents  [/greyBox]
  Figure: Good Example – By standardizing the names of AD groups it saves confusion
 
 **

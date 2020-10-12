@@ -91,4 +91,4 @@ Congratulations, you’ve just added a rule!
 
 To increase traction in the community you should now tweet and Facebook it.
 
-E.g. “I just added a rule on http://rules.ssw.com.au/Communication/RulesToBetterSomething/Pages/How-to-do-something-right.aspx@SSW\_TV #SSWRules”
+[greyBox]  E.g. “I just added a rule on http://rules.ssw.com.au/Communication/RulesToBetterSomething/Pages/How-to-do-something-right.aspx@SSW\_TV #SSWRules”  [/greyBox]

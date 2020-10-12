@@ -37,4 +37,5 @@ When a client arrives, your job is to make them feel comfortable and impress the
 
 
 
-You should do a role-play with your manager being the client. Then get feedback on how he/she found the experience.
+[greyBox]  You should do a role-play with your manager being the client. Then get feedback on how he/she found the experience. 
+  [/greyBox]

@@ -16,9 +16,9 @@ For example:
 
 
  
-Looking for your sent emails through a searching tool is simple.By using Windows Desktop search,you can search your relevant emails by recipient and/or by subject.
+[greyBox]  Looking for your sent emails through a searching tool is simple.By using Windows Desktop search,you can search your relevant emails by recipient and/or by subject.  [/greyBox]
 Figure: Bad Example - No space after comma and full stop
-Looking for your sent emails through a searching tool is simple.  By using Windows Desktop search,  you can search your relevant emails by recipient and/or by subject.
+[greyBox]  Looking for your sent emails through a searching tool is simple.  By using Windows Desktop search,  you can search your relevant emails by recipient and/or by subject.    [/greyBox]
 Figure: Bad Example - Two spaces after comma and full stop
-Looking for your sent emails through a searching tool is simple. By using Windows Desktop search, you can search your relevant emails by recipient and/or by subject.
+[greyBox]  Looking for your sent emails through a searching tool is simple. By using Windows Desktop search, you can search your relevant emails by recipient and/or by subject.  [/greyBox]
 Figure: Good Example - One space after full stop and comma

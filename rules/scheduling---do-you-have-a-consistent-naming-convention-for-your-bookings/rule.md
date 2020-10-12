@@ -25,14 +25,15 @@ You can have 1 or many names, depending on the booking
 
 
 
-Go to ACME Corp
+[greyBox]  Go to ACME Corp
 Work onsite for ACME Corp
 Mehmet working at ACME Corp
+  [/greyBox]
 
 Figure: Bad example - all inconsistent and hard to read
-ACME Corp - Mehmet
+[greyBox]  ACME Corp - Mehmet
  ACME Corp - Mehmet, Dan
-ACME Corp (SharePoint) - Dan
+ACME Corp (SharePoint) - Dan  [/greyBox]
 
 Figure: Good Examples
 
@@ -42,5 +43,6 @@ The same format should also be used for leave requests ([the same for normal cal
 
 
 
-Leave - Mehmet
+[greyBox]  Leave - Mehmet
+  [/greyBox]
 Figure: Good Example:

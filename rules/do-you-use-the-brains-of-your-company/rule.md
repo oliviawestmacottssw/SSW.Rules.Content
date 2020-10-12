@@ -59,7 +59,7 @@ e.g.:
 
 
 
-Hi All,
+[greyBox]       Hi All,
 
 I’m really excited about our brainstorming day! I hope you’re all thinking about what you would like to work on.
 
@@ -80,7 +80,8 @@ See video on:     [https://rules.ssw.com.au/do-you-use-the-brains-of-your-compan
 **1pm**  – Lunch        
 **2pm**  – Continue work        
 **4pm**  - Presentations        
-**6pm**  – The pub
+**6pm**  – The pub        
+   [/greyBox]
 [Good Example: Email template for brainstorming attendees
 **2. Setup Trello**](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0ce40380-0daa-4f75-b289-de8f7de6683e)
 [Use Trello to manage and vote on the suggestions, using the](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0ce40380-0daa-4f75-b289-de8f7de6683e)[voting Power-Up](https://trello.com/power-ups/55a5d917446f517774210013/voting). First add the voting Power-Up, then set up your board for the day:

@@ -21,7 +21,7 @@ During the course of an IM chat with a client or manager, an action or a piece o
 
 For example:
 
-"As per our IM conversation, I will XXX."
+[greyBox]   "As per our IM conversation, I will XXX."   [/greyBox]
 
 When you copy and paste a Skype conversation into an email remember the following:
 
@@ -41,6 +41,7 @@ Make it readable by snipping out just the important information and CC relevant 
 If you get an internal IM that should be an email, don't simply convert it into in an email as above - [be a standard](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=46b0e15e-d7b6-48da-8de4-999589145e6e)[watchdog](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=46b0e15e-d7b6-48da-8de4-999589145e6e) and let the other person know that they should send emails instead of instant messages:
 
 
-"Hi xxx, next time an email would have been less distracting.
+[greyBox]  "Hi xxx, next time an email would have been less distracting.
 
-For things like this - that are clearly tasks, and require a 'done' - please send an email straight away as per https://rules.ssw.com.au/important-chats-should-be-in-an-email"
+For things like this - that are clearly tasks, and require a 'done' - please send an email straight away as per https://rules.ssw.com.au/important-chats-should-be-in-an-email" 
+  [/greyBox]

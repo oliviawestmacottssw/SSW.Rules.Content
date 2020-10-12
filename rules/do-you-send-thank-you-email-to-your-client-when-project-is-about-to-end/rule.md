@@ -32,7 +32,7 @@ There are a number of reasons why this is important:
 
 Below is a template email you can use:
 
-Hi &lt;ClientName&gt;, 
+[greyBox]  Hi &lt;ClientName&gt;, 
 
 Thank you very much for your time for the last xxx weeks. I think you must be the best product owner I have worked with at SSW (always available for me when needed). I really enjoyed this little project.
 
@@ -52,3 +52,4 @@ Please feel free to contact us if you have any questions.
 
 Regards,
 &lt;yourExternalSignature&gt;
+  [/greyBox]

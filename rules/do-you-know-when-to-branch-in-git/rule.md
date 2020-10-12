@@ -79,7 +79,8 @@ When the change is complete, or when you want feedback on anything, open a pull 
 
 Tip: A best practice is to have another developer review your work and then approve.
 
-It is easy to chalk this step up as busy-work, but it is one of the most valuable parts of the strategy
+[greyBox]  It is easy to chalk this step up as busy-work, but it is one of the most valuable parts of the strategy
+  [/greyBox]
 
 ### #assumption
 
@@ -108,4 +109,4 @@ Otherwise, you can do it before you complete the pull request by ticking     del
 [[goodExample]]
 | ![Set the whole project to auto-delete branch after<br>        merging in GitHub](github settings.png)
 
-Once merged,      **master**  should immediately and automatically be deployed (in a perfect world, to production).
+[greyBox]  Once merged,      **master**  should immediately and automatically be deployed (in a perfect world, to production).  [/greyBox]

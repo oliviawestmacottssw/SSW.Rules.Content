@@ -22,13 +22,14 @@ The word “integrity” can be loaded with ethical connotations, but in this co
     1. If the deadline passes and you didn't do the above, recognize the fault and propose a plan for how to do better next time
 
 
-Hi Keith, 
+[greyBox]  Hi Keith, 
 
 As per our conversation, I'm sorry I missed the full requirements for this PBI. 
 
 Next time I will add the details of your requirements into the Acceptance Criteria of the PBI and pay more attention to them. 
 
 Cheers, Lars
+  [/greyBox]
 
 Figure: Good example: Acknowledging an improvement for next time
 

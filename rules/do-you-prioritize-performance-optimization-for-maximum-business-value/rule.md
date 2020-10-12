@@ -22,18 +22,18 @@ Include the following considerations:
 - Are we planning to significantly change this feature in the near future?
 
  
-Hi Adam,
+[greyBox]  Hi Adam,
 
 As per our conversation, we have identified 2 slow queries:
 
 Query 1: On the “Edit Item” screen (admin only) we have identified 4 separate SQL queries that can be rewritten as one. We estimate that this will reduce the response time by 1.5 seconds. Only a few admin users will be affected
 Query 2: On the Home page is a query that currently takes 1 second that we can reduce to ½ a second. This affects all users.
 
-We optimized the "Edit Item" page because that had the biggest measurable improvement.
+We optimized the "Edit Item" page because that had the biggest measurable improvement.  [/greyBox]
 Bad example: although the admin page has a bigger potential saving, the home page affects all users and therefore probably has a higher business value. Business value should be determined by the Product Owner, not the developer
 
 
-Hi Adam,
+[greyBox]  Hi Adam,
 
 As per our conversation, we have identified a query in the "Save Timesheet" endpoint that often takes more than 2 seconds to complete – well beyond the project’s 800ms target.
 However, this entire feature is scheduled to be migrated from MVC to Angular in the next sprint.
@@ -43,7 +43,7 @@ Recommended actions:
 - Raise the priority of the Angular migration PBI
 - Ensure that performance metrics are included in the acceptance criteria of the migration PBI
 
-1.	Please “reply all” with changes or your acceptance.
+1.	Please “reply all” with changes or your acceptance.   [/greyBox]
 Good example: there is little business value in optimizing code that will soon be replaced – but the final decision on business value is left to the Product Owner
 
 ### Related Rules

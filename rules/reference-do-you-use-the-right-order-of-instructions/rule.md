@@ -11,10 +11,10 @@ authors:
 
 When writing the instructions for a series of operations, be sure you keep the operations in the right order. With a clear order, users will be less likely to be confused.
  
-Select Options from the Tools Menu.
+[greyBox]  Select Options from the Tools Menu.  [/greyBox]
 
 Figure: Bad Example - These instructions are in reverse and needs to be processed by the user.
 
 
-Select Tools | Options
+[greyBox]  Select Tools | Options  [/greyBox]
 Figure: Good Example - These instructions are in order and do not require any effort from the user.

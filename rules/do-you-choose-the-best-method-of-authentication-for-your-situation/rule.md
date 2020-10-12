@@ -42,7 +42,7 @@ Without the answers to these questions, it will be difficult to choose the right
 
 **Example Template to Customer:**
 
-**Scenario:** 
+[greyBox]        **Scenario:** 
 Scope - You are building a consumer facing service that will have multiple clients, including a [SPA](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/november/asp-net-single-page-applications-build-modern-responsive-web-apps-with-asp-net) and a mobile app.     
 Social - You want to allow your users to sign up with their social identities (Google, Facebook, Twitter, etc.) but want to allow them to create an account with you if they don't have a social login or don't want to use it.     
 All users will have the same level of access once logged in.     
@@ -53,6 +53,7 @@ MFA - You would like to allow users to enable MFA.
  **Option A** (Recommended) - Azure AD B2C   - B2C provides all of the functionality you need and is free for up to 50,000 monthly users.  
  **Option B**  - Auth0   - Auth0 will meet most of these requirements, however your volume of users will exceed the free tier and you don't need the additional functionality of the paid tier.     
 **Option C**  - Identity Server       - This would work but as it doesn't include MFA this would need to be provided via an additional service. Also due to your expected volume of users you would need to manage scaling for this yourself.
+    [/greyBox]
 **Good Example: The chosen solution meets the requirements and is highlighted as per [Do you manage up?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ba07b0d2-ccce-4584-a636-f3a5d9bec2cf)  ** 
 
 ###  Internal Applications
@@ -63,7 +64,7 @@ MFA - You would like to allow users to enable MFA.
 
 **Example Template to Customer:**
 
-**Scenario:** 
+[greyBox]        **Scenario:** 
 Scope - You have an internal enterprise application, which will support approximately 1,000 users.     
 You already have Active Directory in place, and are syncing with an Azure AD tenant.     
 Your users will need to access this application from anywhere.     
@@ -73,6 +74,7 @@ MFA - As per your company security policy, you must enforce MFA.
 **Option A**(Recommended) - Azure Active Directory - most of the infrastructure for this is already in place for you, and it already meets all your requirements. We would just need to wire up your application to it.
  **Option B**  - Active Directory - while your users are already in AD, it doesn't give you MFA or access outside your network.
  **Option C**  - Okta - this is an expensive option which, for this scenario, doesn't provide any advantages over Azure AD.
+    [/greyBox]
 **Good Example: The chosen solution meets the requirements without adding unnecessary additional costs  ** 
 
 

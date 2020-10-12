@@ -18,7 +18,7 @@ Often clients will see a multi-page T&C document with a box at the end that says
 4. Email that entire document to the client
 
 
-Dear Client. 
-Because you only sent me the last page I printed the other pages and scanned all the pages as one document for convenience. If there any problems, please let me know
+[greyBox]       Dear Client. 
+Because you only sent me the last page I printed the other pages and scanned all the pages as one document for convenience. If there any problems, please let me know  [/greyBox]
 
 Figure - Good example: An elegant and helpful solution

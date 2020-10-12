@@ -11,10 +11,10 @@ Grammatically, all of them are acceptable spellings, but in these specific cases
 
 Note: When there are two ways of doing something, we make a rule on it one way with the goal of having complete consistency.
  
-You can not change the world.
+[greyBox]  You can not change the world.  [/greyBox]
 
 Figure: Bad example – two separated words
-You cannot change the world.
+[greyBox]  You cannot change the world.  [/greyBox]
 
 
 Figure: Good example - using these terms in one word

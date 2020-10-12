@@ -30,7 +30,8 @@ Follow these steps to start recording using Camtasia:<br>
 ![Check the audio levels7. After you have done all these things, click on 'OK', and then hit the big red 'Rec' button to start recording](record-camtasia-3.jpg)!
 
 
-**Tip:**  Alternatively, you can use [Loom](https://www.useloom.com/), which works as a Google Chrome extension.
+[greyBox]       **Tip:**  Alternatively, you can use [Loom](https://www.useloom.com/), which works as a Google Chrome extension. 
+  [/greyBox]
 
 ### Related Rule
 

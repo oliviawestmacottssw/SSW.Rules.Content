@@ -17,21 +17,23 @@ If you know you've got issues to discuss (such as looming deadlines), don't wait
 
 As a guideline, you should not go more than 2 weeks without talking to your Product Owner (or boss/manager). And don't forget all the things you've got to say - have a sub-folder in your Inbox such as "Ask the Boss". Next time when they ask, "Does anyone want to speak to me?", look in that folder.
 
-[No email]
+[greyBox]   [No email]
+  [/greyBox]
 Figure: The worst example - not reaching out to your Product Owner or manager at all. You should be in regular contact with them 
 
-Did I have a project or something due soon?
+[greyBox]  Did I have a project or something due soon?
 
 Uly
+  [/greyBox]
 Figure: Bad example - you shouldn't have to ask that!  
 
-Hey Adam,
+[greyBox]  Hey Adam,
 
 We've got the Northwind presentation coming up next week. I've finished a v1. 
 
 Would you have some time on Thursday afternoon to go over it with me? 
 
-Uly
+Uly  [/greyBox]
 Figure: Good example - Actively reaching out to your Product Owner 
 
 You can see more information on this at [Do you use email for tasks only - not communication?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=143e6e25-62a3-48c8-bf9c-3c0b0a4682c6) and [Do you seek clarification via the telephone first?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=f4e3e0eb-a3b1-468f-8faa-a12909113d3e)

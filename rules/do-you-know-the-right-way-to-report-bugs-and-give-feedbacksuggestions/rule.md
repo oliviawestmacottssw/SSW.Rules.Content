@@ -81,7 +81,7 @@ Figure: Good example - Giving feature requests via video
 
 
 
-**Who should you email, the Product Owner or the Tech Lead?
+[greyBox]   **Who should you email, the Product Owner or the Tech Lead?
 ** 
 It depends on the team, but often the Product Owner is busy. If you know the Tech Lead and your suggestion is obviously a good one and not too much work, then you should email the Tech Leader and CC the Product Owner.
 The Product Owner can always respond if he doesn’t like the suggestion.
@@ -89,6 +89,7 @@ e.g.
 For a bug email:   TO: TechLead@  CC: ProductOwner  Subject:BUG xxx   (or use PBI @mention)
 For a new feature email:  TO: TechLead@  CC: ProductOwner  Subject:SUGGESTION xxx  (or use PBI @mention)
 Note: There is no use for: sswtimepro@ssw.com.au
+  [/greyBox]
 
 
 

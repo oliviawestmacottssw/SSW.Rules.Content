@@ -24,4 +24,5 @@ Now you can see which RayGun create reports have already been added to the backl
 
 ![Link RayGun with TFS/VisualStudio.com](raygun-integration-tfs-3.png)
 
-RayGun is a useful tool to use for your DevOps. Check out our rule “[Do you know how DevOps fits in with Scrum?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=16b925f9-05fd-4758-a370-14e16e281f84)”
+[greyBox]    RayGun is a useful tool to use for your DevOps. Check out our rule “[Do you know how DevOps fits in with Scrum?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=16b925f9-05fd-4758-a370-14e16e281f84)”
+  [/greyBox]

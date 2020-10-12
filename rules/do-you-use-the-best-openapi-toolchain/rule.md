@@ -11,11 +11,11 @@ authors:
 
 Know the best OpenAPI toolchain:
 
-swashbuckle
+[greyBox]  swashbuckle  [/greyBox]
 
 Bad Example 
 
-nswag
+[greyBox]  nswag  [/greyBox]
 
 
 Good Example (more comprehensive)

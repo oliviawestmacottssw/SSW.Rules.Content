@@ -22,7 +22,7 @@ Over the course of work on a project, there will likely be many little disagreem
 
 
 
-**One war story** 
+[greyBox]   **One war story** 
  
 One day we had an incident where one of our clients had found out that a developer had hard-coded the CSS (the default Angular way). When the client discovered it, they were wild and wanted 24 days written off as a consequence. To be clear, the reaction and the request were disproportionate. However, clients have memories that are fallible and they can be entitled to be upset when they come to a company (like SSW) that prides themselves on following best-practices.
  
@@ -31,6 +31,7 @@ I spoke to the developer about it, and he knew 100% that he had agreed with the 
  
 Adam Cogan
 SSW Chief Architect
+  [/greyBox]
 
 
 

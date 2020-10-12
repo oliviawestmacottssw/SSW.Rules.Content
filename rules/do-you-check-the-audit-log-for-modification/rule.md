@@ -26,7 +26,7 @@ So to ensure the migration process did not miss any items, ensure nobody modifie
     
 
     - Redo their modification in your new Cloud intranet (likely)
-    - Confirm that the modification is not important and does not require manual migration (less likely)        Hey xxx,
+    - Confirm that the modification is not important and does not require manual migration (less likely)        [greyBox]  Hey xxx,
 
 I have noticed that you changed the file “yyy” (link to the file: https://zzz.sharepoint.com/yyy.pdf).
 Could you please:
@@ -36,7 +36,7 @@ Could you please:
 Please note that these changes will be lost as part of the old SharePoint server decommission. If the changes are important, please redo the modifications on the new Online Intranet.
 Regards,
 
--SharePoint Admin Team
+-SharePoint Admin Team  [/greyBox]
 
     After you export to Excel, follow this example:
  

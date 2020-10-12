@@ -38,12 +38,13 @@ Just to be friendly, we would send an email for the first month, and then anothe
 
 We all wish we never need to support old code, but sometimes the world doesn't go that way, if your answer to question 3 scares you, then you might need to provide some form of backward compatibility or warning.
 
-**From: ** John Liu www.ssw.com.au
+[greyBox]   **From: ** John Liu www.ssw.com.au
  **To:**  SSWALL
  **Subject: ** Changing LookOut settings
 
 The stored procedure procSSWLookOutClientIDSelect (currently used only by LookOut any version prior to 10) is being renamed to procSSWLookOutClientIDSelect. The old stored procedure will be removed within 1 month.
-You can change your settings either by:
+You can change your settings either by: 
+  [/greyBox]
 
 - Going to LookOut Options -&gt; Database tab and select the new stored procedure
 - Upgrading to SSW LookOut version 10.0 which will be released later today

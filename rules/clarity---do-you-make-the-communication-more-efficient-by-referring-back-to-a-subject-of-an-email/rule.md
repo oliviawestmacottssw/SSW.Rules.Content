@@ -11,9 +11,11 @@ authors:
 
 Use IM to chase up that important email. You can make it easy for everyone (or at least give them the context of your questions) by pasting the email subject. 
 
-I sent you an email just now, please approve
+[greyBox]  I sent you an email just now, please approve
+  [/greyBox]
 
 **Figure: Bad example - client need to filter his emails manually** 
 
-I need you to reply to my email... Subject: CBA Software Audit
+[greyBox]  I need you to reply to my email... Subject: CBA Software Audit 
+  [/greyBox]
  Figure: Good example - client can search your email based on the subject

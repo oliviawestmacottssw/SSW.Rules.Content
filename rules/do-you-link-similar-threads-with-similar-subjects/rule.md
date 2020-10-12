@@ -13,8 +13,8 @@ Often there are two email threads that have separate tasks in them, but that bot
  
 Example:
 
-SSW Rules - Add 'please update this rule' button #1
+[greyBox]  SSW Rules - Add 'please update this rule' button #1  [/greyBox]
 
-SSW Rules - Add 'please update this rule' button #2
+[greyBox]  SSW Rules - Add 'please update this rule' button #2  [/greyBox]
 
 Read [Do you realize the importance of a good email Subject?](/Pages/ImportanceOfAGoodSubject.aspx) for more on good email subjects.

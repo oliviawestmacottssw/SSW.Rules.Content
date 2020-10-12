@@ -16,7 +16,7 @@ Search Engine Optimisation (SEO) with a Single Page Application (SPA) needs cons
 If you ignore your SEO in an Angular SPA you may not have your pages indexed by Google and lose your ranking with SEO. If your pages are not being rendered to Googles bots when they crawl your site, Google can not see your pages and it is like they do not exist.
 
 
-The only way to be sure your Angular SPA will be crawled and indexed properly by Google Bots is to intercept all their requests and serve them HTML you pre-render on the server.
+[greyBox]  The only way to be sure your Angular SPA will be crawled and indexed properly by Google Bots is to intercept all their requests and serve them HTML you pre-render on the server.   [/greyBox]
 
 
 It is not enough to just use hashes in your URLs (e.g., www.example.com/index.html#mystate, where #mystate is the hash fragment) or hope Google can crawl and Angular application correctly. You can read more here [Guide to AJAX crawlin g for webmasters and developers](https://developers.google.com/webmasters/ajax-crawling/docs/getting-started).  There are several libraries to help pre-render your code available on the internet. 

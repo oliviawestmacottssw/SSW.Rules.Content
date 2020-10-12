@@ -37,7 +37,8 @@ If you don't care about source control history, then this inbuilt tool is the ea
 - No branches
 
 
-**TIP -** Use this if you don't care about source control history
+[greyBox]   **TIP -** Use this if you don't care about source control history
+  [/greyBox]
  
 
 ### Git -Tf 
@@ -49,7 +50,8 @@ If you don't care about source control history, then this inbuilt tool is the ea
 To see how to use this to migrate see ["Migrate an existing project from TFS to Git with changeset history intact" from Chris Kirby](https://chriskirby.net/blog/migrate-an-existing-project-from-tfs-to-github-with-changeset-history-intact)
 
 
-**TIP -**  Use Git-Tf if you don't have a Windows environment
+[greyBox]   **TIP -**  Use Git-Tf if you don't have a Windows environment
+  [/greyBox]
 
 
 ### Git-Tfs ( Recommended)

@@ -143,9 +143,9 @@ Screen captures should always include the:
  **\* Top left - so you can see what browser it is eg. Internet Explorer or FireFox** 
 ### Tip 7: When appropriate use text instead of an image
 
-To: Ross
+[greyBox]  To: Ross
 From: J Liu
-Subject: RE: BUG on Product.aspx
+Subject: RE: BUG on Product.aspx  [/greyBox]
 
 [greyBox] 
 DONE - There was a problem with the SQL. I added the line highlighted in Yellow:

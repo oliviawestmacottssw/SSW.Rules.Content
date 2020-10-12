@@ -15,9 +15,9 @@ authors:
 
 When you create a page URL remove all the filler words and just keep the main keywords. This way your URL's are more friendly. Also, make sure your main keywords are relevant for searches.
  
-http://northwind.com/how-do-i-find-the-version-of-the-word-document.html
+[greyBox]  http://northwind.com/how-do-i-find-the-version-of-the-word-document.html  [/greyBox]
 
 Figure: Bad example - The filler words remain
-http://northwind.com/find-word-document-version.html
+[greyBox]  http://northwind.com/find-word-document-version.html  [/greyBox]
 
 Figure: Good example - The filler words removed and only Juicy words remain

@@ -74,6 +74,6 @@ If you are running a web application on Azure as you should configure you applic
 > GRANT EXECUTE TO myappstaging
 
 
-Data Source=tcp:xyzsqlserver.database.windows.net,1433; Initial Catalog=myapp-staging-db; User ID=myappstaging@xyzsqlserver; Password='\*\*\*\*\*\*\*\*\*\*\*\*\*'
+[greyBox]  Data Source=tcp:xyzsqlserver.database.windows.net,1433; Initial Catalog=myapp-staging-db; User ID=myappstaging@xyzsqlserver; Password='\*\*\*\*\*\*\*\*\*\*\*\*\*'   [/greyBox]
 
 **Figure: Example connection string**

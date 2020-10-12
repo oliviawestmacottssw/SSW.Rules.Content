@@ -22,12 +22,12 @@ In the course of business, you may occasionally provide some services or product
     - [release debriefs](/Pages/ReleaseDebrief.aspx)
     - issue a Discount Code for a free ticket to our regular events
 
-**Consider the follow scenario:**    You have a concreter buddy who offers to do your driveway for mate's rates. He won't accept full price (because you're friends) and he thinks he's doing you a favour. The problem is, he won't commit to a timeframe because he has customers that ARE paying full price. You're quite happy to pay full price, because you know he does great work and you want to support his business. In the end, no one is happy. You have an extended wait to get the job done for a discount you don't want and he feels pressured to do extra work in his spare time.  
- A better approach is for the concreter to offer the discount AND book you in as a normal customer. He can give dedicated time and professional service and you get the job done with minimal delay. You can also provide excellent feedback and suggestions on the service he delivers, being both a friend and a customer. It is a much better outcome.
+**Consider the follow scenario:**    [greyBox]  You have a concreter buddy who offers to do your driveway for mate's rates. He won't accept full price (because you're friends) and he thinks he's doing you a favour. The problem is, he won't commit to a timeframe because he has customers that ARE paying full price. You're quite happy to pay full price, because you know he does great work and you want to support his business. In the end, no one is happy. You have an extended wait to get the job done for a discount you don't want and he feels pressured to do extra work in his spare time.  
+ A better approach is for the concreter to offer the discount AND book you in as a normal customer. He can give dedicated time and professional service and you get the job done with minimal delay. You can also provide excellent feedback and suggestions on the service he delivers, being both a friend and a customer. It is a much better outcome.          [/greyBox]
 2. **Feedback on service**    Often the people you choose to provide a freebie are the best people to provide feedback on your product or services. When you waive all your standard processes, they have no opportunity to review how you conduct your business. So if you're offering a freebie (or any discount), you should ensure every normal standard of business is followed (including sending $0 invoices!) and make sure you get valuable feedback to help you run your company better.
 
  **Sample email:**
-    **Hi Bob,** 
+    [greyBox]              **Hi Bob,** 
 
 Sure we would love to have you at our event for no charge. You may register just like a real client.           
 
@@ -37,6 +37,7 @@ It would be great if you could give us feedback on anything that could improve t
 
 Regards,
 Adam
+  [/greyBox]
     **
 Zero Invoices:**  When entering timesheets for free work, set your rate to $0.
 

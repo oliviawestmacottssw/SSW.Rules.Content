@@ -11,12 +11,12 @@ authors:
 
 Often when writing technical documents, you will instruct the reader to 'set up' his PC or run a 'setup' file. Remember that 'set up' is a verb, and 'setup' is a noun.
  
-Verify that your network setup is correct before attempting to connect to the Internet.
+[greyBox]  Verify that your network setup is correct before attempting to connect to the Internet.  [/greyBox]
 Figure: Good Example - This is the correct use of "setup"
 
 
 
-Click Go to set up your database.
+[greyBox]  Click Go to set up your database.  [/greyBox]
 Figure: Good Example - This is the correct use of "set up"
 
 

@@ -34,15 +34,15 @@ For example:
 
 
 
-extreme\_email\_file
+[greyBox]  extreme\_email\_file
 extreme\_email\_new\_file
-extreme\_email\_latest
+extreme\_email\_latest  [/greyBox]
 Figure: Bad Example - These files do not show any version information.
 
 
 
-Extreme\_Emails\_v1
+[greyBox]  Extreme\_Emails\_v1
 Extreme\_Emails\_v2
 CodeAuditor\_Ver1
-CodeAuditor\_Ver2
+CodeAuditor\_Ver2  [/greyBox]
 Figure: Good Example - These files show the version information.

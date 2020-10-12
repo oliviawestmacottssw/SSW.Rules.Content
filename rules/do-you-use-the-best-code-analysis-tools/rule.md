@@ -73,7 +73,8 @@ All of these rules allow you to disable rules that you're not concerned about.  
 Create a      **GlobalSuppressions.cs**  file in your project with the rules that have been turned off and why.
 
 ![The suppressions file tells Code Analysis which rules it should disable for specific code blocks](suppressions-file.png)
-**More Information:**[Do you make instructions at the beginning of a project and improve them gradually?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d6d34c31-ac6a-49a4-876a-f9d30e1ab78a) and     https://docs.microsoft.com/en-us/visualstudio/code-quality/in-source-suppression-overview
+[greyBox]       **More Information:**[Do you make instructions at the beginning of a project and improve them gradually?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d6d34c31-ac6a-49a4-876a-f9d30e1ab78a) and     https://docs.microsoft.com/en-us/visualstudio/code-quality/in-source-suppression-overview
+  [/greyBox]
 
 ### Level 8
 

@@ -23,9 +23,10 @@ To err is human and it happens to the best of us. When a mistake happens, getti
 
 This story from Adam Cogan is a good example of this:
 
-One of my staff, I won't tell you Edward's last name 😉, offered to help clean up my laptop by backing up my files, reformatting and starting from scratch. For some reason or another, all of my emails and client work were destroyed. Naturally, I was upset, but instead of coming down on him like a ton of bricks, I:
+[greyBox]  One of my staff, I won't tell you Edward's last name 😉, offered to help clean up my laptop by backing up my files, reformatting and starting from scratch. For some reason or another, all of my emails and client work were destroyed. Naturally, I was upset, but instead of coming down on him like a ton of bricks, I:
 1. Went through the steps he took;
 2. Identified where he did not do what he was supposed to; and
 3. Showed him the company standard for backups.
 
 By giving him a second chance, I ensured that he and others would not make the same mistake again, without making him feel any worse than he already did.
+  [/greyBox]

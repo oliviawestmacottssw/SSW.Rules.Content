@@ -9,27 +9,29 @@ authors:
 
 ---
 
-www.northwind.com/swagger
+[greyBox]  www.northwind.com/swagger 
+  [/greyBox]
 
 Bad example - default but now it is about help for your API)
 
-www.northwind.com/dev
+[greyBox]  www.northwind.com/dev
 OR
 www.northwind.com/developer
+  [/greyBox]
 
 
 Bad examples
 
-www.northwind.com/api
+[greyBox]  www.northwind.com/api    [/greyBox]
 
 
 Bad example - already taken
 
-www.northwind.com/help
+[greyBox]  www.northwind.com/help   [/greyBox]
 
 
 Bad example - too broad
 
  
-www.northwind.com/docs
+[greyBox]  www.northwind.com/docs   [/greyBox]
 Good example - preferred URL
