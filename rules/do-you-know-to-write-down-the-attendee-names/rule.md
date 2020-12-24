@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -21,6 +22,6 @@ The problem is you will forget their names after they introduce themselves.
 The fix is to have a piece of paper, (already divided up) so you can write down the names on it in the order that people are sitting.
 
 This ends up being a great reference you can use to address questions directly to participants using their name. This ensures that attendees keep focused as they may directly have questions referencing them.
-<dl class="image">&lt;dt&gt;<img src="classroom.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: For a classroom like this...</dd></dl><dl class="image">&lt;dt&gt;<img src="names-list.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: ...use a sheet like this</dd></dl>
+
+![For a classroom like this...](classroom.jpg)
+![...use a sheet like this](names-list.jpg)

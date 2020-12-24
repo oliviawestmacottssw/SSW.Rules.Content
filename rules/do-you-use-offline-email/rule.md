@@ -11,6 +11,7 @@ authors:
 - id: 2
   title: Cameron Shaw
 related: []
+redirects: []
 
 ---
 
@@ -18,4 +19,5 @@ And remember to periodically select "Check All Subfolders" to make sure all fold
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="offline.JPG" alt="offline">&lt;/dt&gt;<dd>Figure: Periodically check that all your mail folders are being synced in your offline.ost file </dd> </dl>
+
+![Periodically check that all your mail folders are being synced in your offline.ost file](offline.JPG)

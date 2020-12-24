@@ -11,14 +11,15 @@ authors:
 - id: 17
   title: Ryan Tee
 related: []
+redirects: []
 
 ---
 
 We want to keep clear and simple file structure in our solution. Never put any files other than images file in \images folder.  
 <!--endintro-->
-<dl class="badImage">    &lt;dt&gt;<img style="border-bottom:0px solid;border-left:0px solid;border-top:0px solid;border-right:0px solid;" border="0" alt="Image bad link" src="OnlyImageBad.gif"> &lt;/dt&gt;
-    <dd>Bad example - HTML file in \Images Folder.</dd></dl><dl class="goodImage">    &lt;dt&gt;<img style="border-bottom:0px solid;border-left:0px solid;border-top:0px solid;border-right:0px solid;" border="0" alt="Image good link" src="OnlyImageGood.gif"> &lt;/dt&gt;
-    <dd>Good example - Images only, clean \Images folder.</dd></dl>
+
+![example](OnlyImageBad.gif)Bad
+![example](OnlyImageGood.gif)Good
 
 
 

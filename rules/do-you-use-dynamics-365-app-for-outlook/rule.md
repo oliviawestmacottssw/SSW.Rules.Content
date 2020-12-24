@@ -10,10 +10,13 @@ related:
 - do-you-know-the-best-crm-solutions-for-your-company
 - do-you-know-how-to-keep-crm-opportunities-updated
 - do-you-know-what-is-the-best-tool-for-your-email-marketing
+redirects: []
 
 ---
 
 We used to use the [CRM Outlook Client Plugin](https://www.microsoft.com/en-US/download/details.aspx?id=50370) for tracking emails and appointments in Outlook. With the latest Dynamics update, now we have another choice, the [Dynamics 365 Outlook App](https://www.microsoft.com/en-US/dynamics/crm-customer-center/dynamics-365-app-for-outlook-user-s-guide.aspx), which is much lighter than the plugin.
 
 <!--endintro-->
-<dl class="ssw15-rteElement-ImageArea"><img src="track-email-in-outlook.png" alt="track-email-in-outlook.png" style="margin:5px;"> <strong>Figure: Track an Email in Outlook with Dynamics 365 App</strong> <dl class="ssw15-rteElement-ImageArea"><dl class="ssw15-rteElement-ImageArea"><br><img src="track-email-in-owa.png" alt="track-email-in-owa.png" style="margin:5px;width:668px;height:468px;"> <strong>Figure: Track an Emails in OWA with Dynamics 365 App</strong> <br></dl></dl><br></dl>
+
+![Track an Emails in OWA with Dynamics 365 App](track-email-in-outlook.png)
+![Track an Email in Outlook with Dynamics 365 App](track-email-in-owa.png)

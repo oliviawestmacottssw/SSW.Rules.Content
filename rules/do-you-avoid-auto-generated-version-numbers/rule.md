@@ -7,6 +7,7 @@ uri: do-you-avoid-auto-generated-version-numbers
 created: 2016-05-30T23:16:46.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

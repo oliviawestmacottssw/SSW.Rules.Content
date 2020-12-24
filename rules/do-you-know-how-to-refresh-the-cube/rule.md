@@ -15,6 +15,7 @@ authors:
 - id: 6
   title: Tristan Kurniawan
 related: []
+redirects: []
 
 ---
 
@@ -23,7 +24,7 @@ The cube is by default refreshed every two hours, but what is you are about to g
 You can refresh the cube manually using the web services, but only from the TFS server:
 
 <!--endintro-->
-<dl>&lt;dt&gt;<img alt="Warehouse WebControl Service " src="WarehouseWebControlService.jpg">&lt;/dt&gt;
-<dd></dd></dl>
+
+![](WarehouseWebControlService.jpg)
 Read [Refresh the TFS Warehouse manually](http://www.ewaldhofman.nl/post/2009/11/25/Refresh-the-TFS-Warehouse-manually.aspx) 
  for more detail.

@@ -9,6 +9,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -19,4 +20,5 @@ In your first month as an Accountant for a new company, you should print out the
 It's good to catch any mistakes early, so that you know the requirements early on and don't have to go back and fix up large amounts of data later.
 
 Do whatever you have to do e.g. drive to your boss' house to get this done! It can save you days of work down the track.
-<dl class="image">&lt;dt&gt;<img alt="General Ledger.jpg" src="General Ledger.jpg" style="margin:5px;width:650px;">&lt;/dt&gt;<dd>Figure: Weekly ledger</dd></dl>
+
+![Weekly ledger](General Ledger.jpg)

@@ -11,6 +11,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -26,8 +27,19 @@ If you want an easy way to access data in remote or legacy systems, provide one 
 
 
 ![](BCSBadExample.jpg) 
-<font class="ms-rteCustom-FigureBad">Use BCS with multiple systems(not working)<br></font>
+
+
+::: bad
+Use BCS with multiple systems(not working)
+
+:::
+
+
 
 
 ![](BCSGoodExample.jpg)
-<font class="ms-rteCustom-FigureGood">Use BCS with one system at time</font>
+
+
+::: good
+Use BCS with one system at time
+:::

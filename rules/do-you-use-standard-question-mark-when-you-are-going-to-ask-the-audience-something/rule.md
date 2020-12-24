@@ -7,10 +7,11 @@ uri: do-you-use-standard-question-mark-when-you-are-going-to-ask-the-audience-so
 created: 2010-06-08T09:51:56.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
 In a similar fashion to the [Do you remind yourself to do a demo?](/Pages/DemoSlide.aspx) rule, you can also add a visual cue for any audience participation you would like, such as questions or voting.  
 <!--endintro-->
-<dl>    &lt;dt&gt;<img class="ms-rteCustom-ImageArea" src="SSWQuestionMark.gif" alt=""> &lt;/dt&gt;
-     <strong>Figure: Use an "?" image to tell the presenter to ask a question (if you don't have an image - just use the "?" text)</strong> </dl>
+
+![Use an "?" image to tell the presenter to ask a question](SSWQuestionMark.gif)(if you don't have an image - just use the "?" text)**

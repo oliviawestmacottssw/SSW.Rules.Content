@@ -13,6 +13,7 @@ authors:
 - id: 41
   title: Joanna Feely
 related: []
+redirects: []
 
 ---
 
@@ -55,10 +56,11 @@ Follow these steps to ensure you get as much coverage as possible before and aft
 ![Adding the version number to the title](version-number-slideshare.jpg)(after uploading) won’t affect the URL**
 7. Create a "\_OnSlideshare.txt" file with the Slideshare URL and add it to SharePoint on the same folder where the original PPT is
 8. Now you can present!
-<dd class="ssw15-rteElement-FigureGood"><img class="ms-rteCustom-ImageArea" src="slideshareend.jpg" alt="" style="color:#555555;font-size:11px;font-weight:bold;line-height:20px;"></dd>
+
+![](slideshareend.jpg)
 
 ::: good
-Figure: the SSW example of a Slideshare link slide 
+Figure: the SSW example of a Slideshare link slide
 :::
 
 

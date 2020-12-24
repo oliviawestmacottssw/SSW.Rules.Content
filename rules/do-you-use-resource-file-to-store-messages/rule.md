@@ -9,10 +9,11 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
-All messages are stored in one central place so it's easy to reuse. Furthermore, it is strongly typed - easy to type with IntelliSense in Visual Studio.
+All message is stored in one central place so it's easy to reuse. Furthermore, it is strongly typed - easy to type with IntelliSense in Visual Studio.
 
 <!--endintro-->
 
@@ -23,7 +24,8 @@ Module Startup Dim HelloWorld As String = "Hello World!" Sub Main() Console.Writ
 Bad example of a constant message
 :::
 
-<dl class="goodImage">&lt;dt&gt; <img src="BetterCode_ConstantMessages.gif" alt="BetterCode_ConstantMessages.gif">&lt;/dt&gt;<dd>Figure: Saving constant message in Resource</dd></dl>
+
+![Saving constant message in Resource](BetterCode_ConstantMessages.gif)
 Module Startup Sub Main() Console.Write(My.Resources.Messages.Constant\_HelloWorld) Console.Read() End Sub End Module
 
 

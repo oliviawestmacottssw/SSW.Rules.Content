@@ -9,6 +9,7 @@ authors:
 - id: 83
   title: Camilla Rosa Silva
 related: []
+redirects: []
 
 ---
 
@@ -34,5 +35,6 @@ Some important points to remember before using Microsoft Ads:
 If you need further instructions, you can find more at Microsoft Ads support: https://help.ads.microsoft.com/apex/index/3/en-us/51050/
 
 
-<dl class="ssw15-rteElement-ImageArea"><br><img src="Msads.png" alt="Msads.png" style="margin:5px;width:808px;"></dl>
- **Figure: Import Campaigns default selection will match your budget from Google**
+
+
+![Import Campaigns default selection will match your budget from Google](Msads.png)

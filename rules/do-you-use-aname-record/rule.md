@@ -9,6 +9,7 @@ authors:
 - id: 47
   title: Stanley Sidik
 related: []
+redirects: []
 
 ---
 
@@ -17,5 +18,4 @@ What is ANAME record? ANAME record (also known as A record) is an alias record t
 <!--endintro-->
 
 Configuring ANAME is as easy as configuring CNAME. Let's have a look at DNS records for adamcogan.com.au, DNS records contains apex record for adamcogan.com.au and a  **www.adamcogan.com.au** . The apex record uses ANAME, while CNAME for  **www.adamcogan.** **au** - now we will never have to worry about updating these records, they will follow the DNS records of  **adamcogan.com** . 
-![](2018-08-01_14-41-32.jpg)
-<dl class="image"><dd>Figure: Example DNS entry from Azure DNS<br><br><br></dd></dl>
+![Example DNS entry from Azure DNS](2018-08-01_14-41-32.jpg)

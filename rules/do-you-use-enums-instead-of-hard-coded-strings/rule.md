@@ -9,10 +9,15 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 Use Enums instead of hard-coded strings, it makes your code lot  **cleaner** and is  **really easy to manage** .
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt; <img src="EnumBadExample.jpg" alt="EnumBadExample.jpg">&lt;/dt&gt;<dd>Figure: Bad example - "Hard- coded string" works, but is a bad idea</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="EnumGoodExample.jpg" alt="EnumGoodExample.jpg">&lt;/dt&gt;<dd>Figure: Good example - Used Enums, looks good and is easy to manage<br></dd></dl>
+
+[[badExample]]
+| !["Hard- coded string" works, but is a bad idea](EnumBadExample.jpg)
+[[goodExample]]
+| ![Used Enums, looks good and is easy to manage](EnumGoodExample.jpg)

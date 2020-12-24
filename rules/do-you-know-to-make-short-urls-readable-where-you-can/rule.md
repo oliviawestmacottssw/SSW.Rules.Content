@@ -11,6 +11,7 @@ authors:
 - id: 14
   title: Martin Hinshelwood
 related: []
+redirects: []
 
 ---
 
@@ -26,7 +27,9 @@ http://twb.ly/1uJtUG
 :::
 
 
-<font class="ms-rteCustom-FigureBad">Figure: Bad example - You don't know where this is going</font>
+::: bad
+Figure: Bad example - You don't know where this is going
+:::
 
 When you can, take the more readable option:
 
@@ -36,9 +39,13 @@ http://twibbon.com/join/Scotland
 :::
 
 
-<font class="ms-rteCustom-FigureGood">Figure: Better example - this link is sent in the clear as it is short enough</font>
+::: good
+Figure: Better example - this link is sent in the clear as it is short enough
+:::
 
 So you should only 'Auto Shorten URLs' when it is too long and you need the space.
 
 However, it is becoming more prevalent for the software to support showing the full URL on rollover.
-<dl class="goodImage">&lt;dt&gt;<img title="image" alt="image" src="RulesSocialTwitterReadableURL.jpg" border="0" style="width:750px;">&lt;/dt&gt;<dd>Figure: Good example – the application does the heavy lifting for you<br></dd></dl>
+
+[[goodExample]]
+| ![the application does the heavy lifting for you](RulesSocialTwitterReadableURL.jpg "image")

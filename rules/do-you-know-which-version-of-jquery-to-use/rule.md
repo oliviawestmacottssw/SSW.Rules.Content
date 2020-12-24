@@ -13,6 +13,7 @@ related:
 - do-you-use-bundling-and/or-amd
 - do-you-treat-javascript-like-a-real-language
 - do-you-use-hyperlinks-instead-of-javascript-to-open-pages
+redirects: []
 
 ---
 

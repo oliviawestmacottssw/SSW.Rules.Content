@@ -9,6 +9,7 @@ authors:
 - id: 3
   title: Eric Phan
 related: []
+redirects: []
 
 ---
 
@@ -27,4 +28,5 @@ Most commercial tools will support up to 50 virtual users in the load test but o
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="testingtools9.jpg" alt="testingtools.jpg">&lt;/dt&gt;<dd>Figure: Load Storm results<br></dd></dl>
+
+![Load Storm results](testingtools9.jpg)

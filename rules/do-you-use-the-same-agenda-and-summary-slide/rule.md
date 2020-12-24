@@ -7,6 +7,7 @@ uri: do-you-use-the-same-agenda-and-summary-slide
 created: 2010-06-08T09:55:27.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -14,6 +15,6 @@ A PowerPoint presentation is a verbal essay and it follows a structure. Shown at
 <!--endintro-->
 
 At the end the Summary slide should be identical, and summarize what you just spoke about.
-<dl>    &lt;dt&gt;<img class="ms-rteCustom-ImageArea" src="agenda.gif" alt=""> &lt;/dt&gt;
-     <strong>Figure: Slide for agenda</strong> </dl><dl>    &lt;dt&gt;<img class="ms-rteCustom-ImageArea" src="summary.gif" alt=""> &lt;/dt&gt;
-     <strong>Figure: Slide for summary (is the same as agenda)</strong> </dl>
+
+![Slide for agenda](agenda.gif)
+![Slide for summary](summary.gif)(is the same as agenda)**

@@ -11,6 +11,7 @@ authors:
 - id: 32
   title: Mehmet Ozdemir
 related: []
+redirects: []
 
 ---
 
@@ -28,4 +29,6 @@ Increment the version \*every time\* a change is made and add a new line at the 
 This gives you a quick and easy reference for the changes that have happened in the solution. Following this standard means comparing solutions across environments is a painless process.
 
 
-<dl class="badImage">&lt;dt&gt;<img src="change-log-bad.png" alt="change-log-bad.png" style="width:750px;">&lt;/dt&gt;<dd>Bad Example: Version 1.0.0.0, No changelog</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="change-log-good.png" alt="change-log-good.png" style="width:750px;">&lt;/dt&gt;<dd>Good Example: Solution has up to date versioning with detailed changelog<br></dd></dl>
+
+![Version 1.0.0.0, No changelog](change-log-bad.png)
+![Solution has up to date versioning with detailed changelog](change-log-good.png)

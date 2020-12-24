@@ -14,6 +14,7 @@ related:
 - do-you-create-an-online-itinerary
 - do-you-check-your-boarding-pass
 - do-you-take-advantage-of-business-rewards-programs
+redirects: []
 
 ---
 

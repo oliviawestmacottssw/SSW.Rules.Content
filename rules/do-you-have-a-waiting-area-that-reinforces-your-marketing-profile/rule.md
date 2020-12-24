@@ -14,6 +14,7 @@ related:
 - do-you-have-an-endomarketing-strategy-in-your-company
 - branding---do-you-know-when-to-use-an-overlay-on-images
 - do-you-use-lead-magnets-as-part-of-your-marketing-strategy
+redirects: []
 
 ---
 
@@ -26,7 +27,9 @@ We believe in reinforcing your company profile at every appropriate opportunity.
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="MicrosoftTeams-image (1).png" alt="MicrosoftTeams-image (1).png" style="margin:5px;width:808px;"><br></dl>
+
+![MicrosoftTeams-image (1).png](MicrosoftTeams-image (1).png)
+
 
 ::: good
 Good Example - Figure: use your waiting area as an extension of your Marketing strategy

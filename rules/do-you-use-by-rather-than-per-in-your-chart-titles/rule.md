@@ -11,6 +11,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -19,4 +20,8 @@ When making reports, charts, and visualizations, it’s important to be consiste
 <!--endintro-->
 
 Power BI shows "XXX by YYY" (e.g. total earnings by month) rather than "XXX per YYY" and so it’s best to stay with the default and use this throughout your charts.
-<dl class="badImage">&lt;dt&gt;<img src="by-per-bad.jpg" alt="by-per-bad.jpg">&lt;/dt&gt;<dd>Figure: Bad example - Using "per"</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="by-per-good.jpg" alt="by-per-good.jpg">&lt;/dt&gt;<dd>Figure: Good example - Using "by" <br></dd></dl>
+
+[[badExample]]
+| ![Using "per"](by-per-bad.jpg)
+[[goodExample]]
+| ![Using "by"](by-per-good.jpg)

@@ -10,9 +10,15 @@ authors:
   title: Adam Cogan
 related:
 - do-you-have-fields-with-multiple-key-indexes-upsizing-problem
+redirects: []
 
 ---
 
-![](MultipleForeignKeyRelationshipsDifferentNames.jpg) 
-<font class="ms-rteCustom-FigureNormal">Figure: Multiple Foreign Key Relationships Different Names </font><font class="ms-rteCustom-YellowBorderBox"><a href="http://www.ssw.com.au/ssw/UpsizingPRO">Upsizing PRO</a> will check this rule </font>
+![Multiple Foreign Key Relationships Different Names](MultipleForeignKeyRelationshipsDifferentNames.jpg)
+
+::: yellowBox
+[Upsizing PRO](http://www.ssw.com.au/ssw/UpsizingPRO) will check this rule
+:::
+
+
 <!--endintro-->

@@ -12,6 +12,7 @@ related:
 - do-you-have-a-waiting-area-that-reinforces-your-marketing-profile
 - sem---do-you-use-microsoft-advertising-formerly-known-as-bing-ads
 - branding---do-you-know-when-to-use-an-overlay-on-images
+redirects: []
 
 ---
 
@@ -25,5 +26,6 @@ In today’s overcrowded marketplace there are dozens of businesses offering the
 One way to gain a consumer's trust is to offer them something related to your service for free prior to them making a purchase. For example, you could use a marketing technique called a Lead Magnet. A Lead Magnet refers to any content piece; webinar, eBook, infographic, or initial consultation, you offer to your potential customers.
  
 Lead Magnets not only provide a starting place for consumers to solve their initial problem, but also build trust between the consumer and your brand, increasing the likelihood of a return customer, and increasing your potential revenue.
-<dl class="ssw15-rteElement-ImageArea"><img alt="Picture2.png" src="Picture2.png" style="margin:5px;width:808px;"></dl> **Figure: Lead Magnet on the SSW site
+
+![Lead Magnet on the SSW site](Picture2.png)
 **

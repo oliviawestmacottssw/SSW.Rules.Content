@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -16,7 +17,40 @@ The better you describe the problem you had, the more effective will be the solu
 <!--endintro-->
 
 Make sure you always explain and give as much details as you can of how you got an error or a bad experience.
-<dl class="badImage">&lt;dt&gt;<br><br>::: greybox<br>Where is TV.SSW on the navigation?<br>:::<br><br>&lt;/dt&gt;<dd>Figure&#58; Bad example - Lack of details</dd></dl><dl class="goodImage">&lt;dt&gt;<br><br>::: greybox<br><ol><li>Navigated to ssw.com.au</li><li>Scrolling down looking for a big graphic like &quot;CHECK OUT SSW TV! CLICK HERE!&quot;<br>(Nothing)<br>Me, thinking… &quot;Hmm… let's try the menu at the top...&quot;</li><li>About Us? Nope.</li><li>Services? Nope.</li><li>Products and Support? Nope.</li><li>Training? Nope.</li><li>User Group? Nope.</li><li>Rules? Nope.<br> Me, thinking... &quot;OK. Now where? Most likely, the SSW company description will list it...&quot;</li><li>Navigates to About Us.</li><li>Me, scrolls down… nothing.<br> Me, thinking... &quot;OK. Weird. Let's go back.&quot;</li><li>Me, goes back to homepage.<br> Me, thinking… &quot;Is there a site map?&quot;</li><li>Scrolls to bottom of page. Clicks sitemap link.<br> Me, thinking... &quot;Ctrl+F for TV? Nope.&quot;</li><li>Me, gives up… types tv.ssw.com.au to try and get lucky. Huzzah!</li></ol><br>:::<br><br>&lt;/dt&gt;<dd>Figure&#58; Good example - We can easily identify more the one way to improve the UX</dd></dl>
+
+
+
+:::
+Where is TV.SSW on the navigation?
+::: greybox
+Figure: Bad example - Lack of details
+
+
+:::
+
+1. Navigated to ssw.com.au
+2. Scrolling down looking for a big graphic like "CHECK OUT SSW TV! CLICK HERE!"
+(Nothing)
+Me, thinking… "Hmm… let's try the menu at the top..."
+3. About Us? Nope.
+4. Services? Nope.
+5. Products and Support? Nope.
+6. Training? Nope.
+7. User Group? Nope.
+8. Rules? Nope.
+ Me, thinking... "OK. Now where? Most likely, the SSW company description will list it..."
+9. Navigates to About Us.
+10. Me, scrolls down… nothing.
+ Me, thinking... "OK. Weird. Let's go back."
+11. Me, goes back to homepage.
+ Me, thinking… "Is there a site map?"
+12. Scrolls to bottom of page. Clicks sitemap link.
+ Me, thinking... "Ctrl+F for TV? Nope."
+13. Me, gives up… types tv.ssw.com.au to try and get lucky. Huzzah!
+
+
+::: greybox
+Figure: Good example - We can easily identify more the one way to improve the UX  
 Better than a good description of the bug is a screen recording. This should be followed for a more detailed report. Use [Snagit](http&#58;//www.techsmith.com/snagit.html) (preferred) or [Jing](http&#58;//www.techsmith.com/jing.html) to record your screen.
 
 ### Related rules

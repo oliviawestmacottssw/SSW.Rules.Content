@@ -9,10 +9,17 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 You should use PowerApps for your forms.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="nintex.jpg" alt="nintex.jpg">&lt;/dt&gt;<dd>Figure: Bad example - Using Nintext</dd></dl><dl class="badImage">&lt;dt&gt;<img src="infopath.jpg" alt="infopath.jpg">&lt;/dt&gt;<dd>Figure: Bad example - Using Infopath</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="powerapps.jpg" alt="powerapps.jpg">&lt;/dt&gt;<dd>Figure: Good example - Using PowerApps</dd></dl>
+
+[[badExample]]
+| ![Using Nintext](nintex.jpg)
+[[badExample]]
+| ![Using Infopath](infopath.jpg)
+[[goodExample]]
+| ![Using PowerApps](powerapps.jpg)

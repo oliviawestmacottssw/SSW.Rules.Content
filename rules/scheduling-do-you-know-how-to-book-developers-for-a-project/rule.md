@@ -1,0 +1,117 @@
+---
+type: rule
+archivedreason: 
+title: Scheduling - Do you know how to book developers for a project?
+guid: 30fa45f9-d065-4f87-ba96-4ad52ae4468b
+uri: scheduling-do-you-know-how-to-book-developers-for-a-project
+created: 2012-12-06T13:32:15.0000000Z
+authors:
+- id: 1
+  title: Adam Cogan
+- id: 4
+  title: Ulysses Maclaren
+related: []
+redirects: []
+
+---
+
+It is the responsibility of Account Managers to book developers for known client work, however anyone can book a developer, including the developer themselves. Also if a developer notices they should be booked, but there's nothing in their calendar, and they can't figure out the below, as a minimum they should ask the Account Manager to book them.
+
+To book a developer:
+
+![Using the Service Calendar, you can see who is and is not available at a given time](ServiceCalendar2013.jpg)
+There are a few different ways of booking developers for project work, either via Outlook or the browser.
+
+<!--endintro-->
+
+### Option 1: Use the Outlook Calendar and "Set Regarding" (recommended)
+
+Prerequisite: [https://rules.ssw.com.au/dynamics-crm-install-the-dynamics-365-app-for-outlook](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=31d6b133-8ed2-4ef4-b0b8-33bfebd85d10)
+
+This is generally the easiest way for developers to book themselves in as they don't need to leave outlook and 90% of the steps will already be familiar to them.
+
+1. Create a new Outlook (in the Desktop or Web client) appointment and give it a relevant subject
+2. Select required resources if there are other people working with you or if you're booking for someone else
+    1. Note: if you're booking for someone else, just have them in the To box of the appointment. If you're booking yourself AND someone else, have both of you in the To box.
+3. Set the time and location for your appointment
+4. Set the recurrence if it’s more than 1 day of work
+5. Click "Dynamics 365" on the ribbon which will open a side panel and click on "Set Regarding" then search select the company that you want to book the developers to work on (this is the step that syncs it with CRM)
+
+
+![](Dynamics1.jpg)
+OptiM Activity Appointments Ron 2: C
+Figure: A complete appointment booking Brendan to work for SSW for 5 days
+This is a backup option for anyone who doesn't have access to Outlook with the CRM add-in.
+
+1. Create new appointment in Dynamics 365 Online
+
+
+![](Dynamics-Calendar-App.jpg)
+gure: Click Appointment to create a new appointment in CRMiF
+1. Set the Subject
+2. Select the resources that you want to book
+3. Select the client that you want to book the developers to work on
+4. Set the location
+5. Set the Start and End times
+6. If the booking is for more than 1 day, click “Recurrence” and set the frequency
+
+
+Tip: If you do not want the to block your calendar, you can change the orgainzer and owner to the developer you are booking. It will still track to the Service Calendar, but wont add it to your personal calendar, only the developers.
+
+![A complete CRM Appointment for a 1-day booking](Dynamics-Appointment.jpg)
+
+### Adding Tentative Bookings
+
+
+Sometimes you may want to reserve a consultant for an appointment but are not able to confirm with the client immediately. In this case, create a Tentative Booking which reserves the consultant for the period of the booking without assigning them to the client account. The purpose of a Tentative Booking is to reserve a consultant and trigger a conversation between Account Managers if the consultant is required on confirmed client work over the same period.
+
+To create a Tentative Booking:
+
+1. Follow the same steps above to create the Appointment
+2. Instead of choosing a client account for 'Set Regarding', choose the company (E.g. "ssw.pencilledin").
+
+
+**Tip:** Create a "Booked In Days" Report and make the Tentative Bookings display obviously (E.g. A grey color), so Account Managers can easily see it if they need to use that time.
+
+### Adding Internal Bookings
+
+
+If a developer is needed for non-billable work (E.g. Urgent internal work), or travelling to teach public training events, their time should be blocked out so it shows as unavailable for client work.
+
+To book someone for internal work:
+
+1. Follow the same steps as above to create the Appointment
+2. Instead of choosing a client account for "Set Regarding", choose your own company (E.g. "SSW").
+
+
+
+![Internally Booked days show as black and Pencilled In days show as grey](2020-03-20_10-49-19.png)
+
+
+ **
+** 
+
+### Using a separate Oulook calendar to book appointments
+
+
+If you have a lot of staff, it can be useful to use a separate calendar to make your bookings to stop them from covering your every day calendar making it hard to read.
+
+Unfortunately, you cannot use a sub-folder to track appointments in Outlook. You need to create a whole new email account and then add it to your Outlook folder.
+
+For example at SSW we use the account crmtimeprosync@ssw.com.au to add appointments to our Service Calendar, and add them through the SSWBookings calendar in Outlook:
+
+![Appointments tracked from with Outlook desktop](Appointments tracked from Outlook desktop.png)
+**How to set it up**
+ **For OWA** 
+Open browser’s incognito mode | go to https://outlook.office.com | logon with the crmtimeprosync@ssw.com.au account
+ 
+ **For Outlook Desktop** 
+     Go to Files | Add an account | Restart Outlook once it completes 
+
+![Add crmtimeprosync@ssw.com.au to your Outlook](Add account.jpg)
+
+ **
+** 
+
+
+please note you will need to get the password from your friendly SysAdmins.

@@ -12,6 +12,7 @@ authors:
   title: Chris Briggs
 related:
 - do-you-know-how-to-set-up-application-insights
+redirects: []
 
 ---
 

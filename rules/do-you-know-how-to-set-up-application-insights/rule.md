@@ -12,6 +12,7 @@ related:
 - do-you-know-how-to-set-up-application-insights-in-sharepoint
 - do-you-use-an-analytics-framework-to-help-manage-exceptions
 - do-you-know-why-you-want-to-use-application-insights
+redirects: []
 
 ---
 
@@ -23,9 +24,11 @@ Lets take a look at the overview and our tips to help you get the most out of Ap
 
 **An overview of the setup steps** Application Insights requires that you make 2 general modifications to your application:
 
-1. On the client side, manually[add a Javascript tracker to your web page header](https://azure.microsoft.com/en-us/documentation/articles/app-insights-javascript/) (i.e. by placing directly on each page or through a "master page" or "layout template"), this modification enables the "browser page loading time" monitor and can track client-side exceptions: <dl class="image">&lt;dt&gt;<img alt="app-insights-browser-loading-time.jpg" src="app-insights-browser-loading-time.jpg" style="width:370px;">&lt;/dt&gt;<dd> Browser side stats have been enabled with the JavaScript tracker</dd></dl>
+1. On the client side, manually[add a Javascript tracker to your web page header](https://azure.microsoft.com/en-us/documentation/articles/app-insights-javascript/) (i.e. by placing directly on each page or through a "master page" or "layout template"), this modification enables the "browser page loading time" monitor and can track client-side exceptions: 
+![](app-insights-browser-loading-time.jpg)Browser side stats have been enabled with the JavaScript tracker
 2. On the server side, [add the Application Insights DLL references and update web.config](https://azure.microsoft.com/en-us/documentation/articles/app-insights-start-monitoring-app-health-usage/), these modifications enable the "server response time", "server request" and "failed requests" monitors. This step can either be done within Visual Studio when right-clicking on a project in Solution Explorer, but it can also be done with the server monitoring tool on ASP.NET applications you don't have control over (e.g. SharePoint).
-3. <dl class="image">&lt;dt&gt;<img alt="server-response-requests-failed-requests.jpg" src="server-response-requests-failed-requests.jpg" style="width:382px;">&lt;/dt&gt;<dd>Server side stats have been enabled now that it has been added to the ASP.NET pipeline </dd></dl>
+3. 
+![](server-response-requests-failed-requests.jpg)Server side stats have been enabled now that it has been added to the ASP.NET pipeline
 
 
 **Tip #1 – Add enhanced Exception tracking to your application** 

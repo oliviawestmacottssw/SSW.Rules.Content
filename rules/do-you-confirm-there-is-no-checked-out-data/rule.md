@@ -13,15 +13,15 @@ authors:
 - id: 9
   title: William Yin
 related: []
+redirects: []
 
 ---
 
 One of the annoying things with SharePoint document libraries is that users often accidentally leave checked out files, that preventing others from modifying them.
 
 Suggestion to Microsoft: send an email to the user to remind them they have outstanding checkouts potentially blocking other users.
-<dl class="image">&lt;dt&gt; 
-      <img src="sp-docs.jpg" alt="sp-docs.jpg" style="margin:0px;width:780px;height:120px;"> 
-   &lt;/dt&gt;<dd>Figure: Here Greg Harris has not checked in a file </dd></dl>
+
+![Here Greg Harris has not checked in a file](sp-docs.jpg)
 
 
 **Upgrade warning:** The pages that are not checked-in, will not be migrated on a SharePoint upgrade. There is \*no\* warning either.
@@ -41,24 +41,21 @@ Eg. SSW.Dory
 1. Create CAML query in site content and structure
 
 Go to "Site Settings | Manage Content and Structure | Content and Structure Reports", click "New":
-<dl class="image">&lt;dt&gt; 
-      <img class="ssw-rteStyle-ImageArea" alt="ContentAndStructureReportsNew.png" src="ContentAndStructureReportsNew.png"> 
-   &lt;/dt&gt;<dd class="ssw-rteStyle-FigureNormal">Figure: Create a new report</dd></dl>
+
+![Create a new report](ContentAndStructureReportsNew.png)
 Fill the "CAML Query":
 <where><isnotnull><fieldref name="CheckoutUser" lookupid="TRUE"></fieldref></isnotnull></where>
 
 Fill the other fields like below:
-<dl class="image">&lt;dt&gt; 
-         <img class="ssw-rteStyle-ImageArea" alt="NewReportForm.png" src="NewReportForm.png"> 
-      &lt;/dt&gt;<dd>Figure: Fill in form</dd></dl>
+
+![Fill in form](NewReportForm.png)
 2. Run Checked Out report
 
  
 
 Run the checkout report from "Site Settings | Manage Content and Structure | View: Checked out documents":
-<dl class="image">&lt;dt&gt; 
-         <img class="ssw-rteStyle-ImageArea" alt="CheckedOutDocuments.png" src="CheckedOutDocuments.png"> 
-      &lt;/dt&gt;<dd>Figure: Checked Out Documents report link Make sure there are no files checked out, otherwise, go step 3</dd></dl>
+
+![Checked Out Documents report link Make sure there are no files checked out, otherwise, go step 3](CheckedOutDocuments.png)
 3. Go chase after the users.
 
 **Solution B. Custom application report (Includes some coding work)
@@ -75,9 +72,10 @@ Run the checkout report from "Site Settings | Manage Content and Structure | Vie
 Even better, we have also improved the application with a scheduled task using SharePoint CSOM API to find checked out files and send these notification emails automatically every night.
 
 
-<dl>&lt;dt&gt;
-         <img class="ssw-rteStyle-ImageArea" alt="CheckedOutFilesApplicationReport.png" src="CheckedOutFilesApplicationReport.png">
-      &lt;/dt&gt;<dd>Figure: One button reminds all users of their "Checked out Files"<br><br></dd></dl>
+
+![One button reminds all users of their "Checked out Files"](CheckedOutFilesApplicationReport.png)
+
+
 
 **Hi Sophie,** 
 

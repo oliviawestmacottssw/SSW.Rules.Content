@@ -10,6 +10,7 @@ authors:
   title: Damian Brady
 related:
 - do-you-know-which-version-of-jquery-to-use
+redirects: []
 
 ---
 

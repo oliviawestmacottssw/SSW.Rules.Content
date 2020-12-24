@@ -13,6 +13,7 @@ authors:
 - id: 23
   title: Damian Brady
 related: []
+redirects: []
 
 ---
 
@@ -84,7 +85,7 @@ result = products
     .Where(product => product.UnitPrice >= 20)
     .GroupBy(product => product.CategoryName)
     .OrderByDescending(group => group.Count())
-    .Select(group => new { CategoryName = group.Key, ProductCount = group.Count() });
+    .Select(group => <span>n</span><span>ew</span><span> </span>{ CategoryName = group.Key, ProductCount = group.Count() });
 ```
 
 Figure: Good example - using LINQ

@@ -9,6 +9,7 @@ authors:
 - id: 21
   title: Matthew Hodgkins
 related: []
+redirects: []
 
 ---
 
@@ -24,12 +25,12 @@ DPM is great for backing up SharePoint data, but when you select to back up the 
 
 
 ![](dpm-spcorrectorder-1.png)
-<font class="ms-rteCustom-FigureNormal">Notice that SharePoint protection only selects the SharePoint_Config and Content databases.</font>
+**Notice that SharePoint protection only selects the SharePoint\_Config and Content databases.**
 3. Now browse to the SQL Server and add the entire SharePoint SQL Instance to the  **SharePoint Protection** group. You will notice that you are unable to select some of the databases, as they are already being protected by SharePoint role protection.
 
 
 ![](dpm-spcorrectorder-2.png)
-<font class="ms-rteCustom-FigureNormal">Ensure you back up the remaining databases in the SharePoint SQL Instance</font>
+**Ensure you back up the remaining databases in the SharePoint SQL Instance**
 
 
 <br>After following these steps you will have full protection of your SharePoint databases.

@@ -7,6 +7,7 @@ uri: do-you-avoid-using-inherit-value-of-styledisplay
 created: 2010-12-02T10:35:22.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -14,10 +15,16 @@ The property value “inherit” of style.display is not recognized by IE7 and I
              "Message: Could not get the display property. Invalid argument." 
  So to make your Javascript and CSS style more compatible and avoid using "inherit" value of style.display:  
 <!--endintro-->
-<dl class="badCode">    <dt style="width&#58;50%;">
-    <pre>divLoading.style.display = &quot;inherit&quot;; </pre>
-    &lt;/dt&gt;
-    <dd>Bad code - inherit property </dd></dl><dl class="goodCode">    <dt style="width&#58;50%;">
-    <pre>divLoading.style.display = &quot;block&quot;; </pre>
-    &lt;/dt&gt;
-    <dd>Good code - block property </dd></dl>
+
+
+```
+divLoading.style.display = "inherit";
+```
+
+Bad code - inherit property 
+
+```
+divLoading.style.display = "block";
+```
+
+Good code - block property

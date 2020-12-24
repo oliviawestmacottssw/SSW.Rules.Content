@@ -9,6 +9,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -19,7 +20,8 @@ in the Chat section, with the Visitors activity, you can see is a real-time list
 **Monitoring your website visitors**
 
 The Visitors activity gives you a birds-eye view of all the visitors on your website by putting them into different categories:
-<dl class="image">&lt;dt&gt;<img src="zendesk-visitors-1.png" alt="zendesk-visitors-1.png">&lt;/dt&gt;</dl>
+
+![](zendesk-visitors-1.png)
 * **Incoming Chats:** Visitors who have clicked the chat button and asked a question.
 * **Chat Button Clicked:** Visitors who have clicked the chat button but have yet to start a chat.
 * **Trigger Activated:** Visitors who have activated a trigger.
@@ -32,8 +34,8 @@ Click the  **List** tab  to view visitors in a list, as shown above, or click  *
 **Grouping visitors**
 
 This is the primary view of the Visitor List, but you can also monitor them in a number of different ways:
-<dl class="image">&lt;dt&gt;<img src="zendesk-visitors-2.png" alt="zendesk-visitors-2.png">
-   &lt;/dt&gt;</dl>
+
+![](zendesk-visitors-2.png)
 * **Activity:** This is the default page and breaks down visitors based on the actions they have taken on your website.
 * **Page Title:** Groups visitors based on the page they are on.
 * **Page URL:** Groups visitors based on the URL/link they are on. This is normally different from the Page Title.
@@ -54,6 +56,7 @@ Unlike the standard Visitor List, the High Load Dashboard only shows Incoming an
 **To enable the High Load Dashboard**
 
 1. From the dashboard, go to  **Settings** >  **Account** >  **Visitor List** tab.
-2. Select the  **High Load Dashboard** check box.  <br>      <dl class="image">&lt;dt&gt;<img src="zendesk-visitors-3.png" alt="zendesk-visitors-3.png" data-pin-nopin="true"><br>&lt;/dt&gt;</dl>
+2. Select the  **High Load Dashboard** check box.  <br>      
+![](zendesk-visitors-3.png)
 3. Click  **Save Changes** .
 4. Return to the Dashboard and verify that only Incoming and Currently served chats appear.

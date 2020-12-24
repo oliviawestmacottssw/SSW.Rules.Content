@@ -11,6 +11,7 @@ authors:
 - id: 8
   title: John Liu
 related: []
+redirects: []
 
 ---
 
@@ -22,4 +23,8 @@ An application can now be easily found on the user’s desktop or start menu, an
 
 <font class="ms-rteCustom-ImageArea"><img width="587" height="445" alt="" src="OOB.jpg"></font>
 
-<font class="ms-rteCustom-FigureGood">Figure: OOB demo from <span style="font-family:'calibri','sans-serif';font-size:11pt;"><span> <b></b> </span><span style="font-family:'calibri','sans-serif';font-size:11pt;"><a href="http://www.microsoft.com/silverlight/out-of-browser/demo/">http://www.microsoft.com/silverlight/out-of-browser/demo/</a></span></span></font>
+
+
+::: good
+Figure: OOB demo from   http://www.microsoft.com/silverlight/out-of-browser/demo/
+:::

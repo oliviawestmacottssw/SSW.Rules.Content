@@ -11,6 +11,7 @@ authors:
 - id: 71
   title: Steven Andrews
 related: []
+redirects: []
 
 ---
 
@@ -23,8 +24,8 @@ Using a tool called "IIS Crypto 2.0" by     [Nartac](https://www.nartac.com/Prod
 
 1. Download IIS Crypto 2.0 (https://www.nartac.com/Products/IISCrypto/Download)
 2. Run this on the server you wish to lock down
-3. Select the best practices button <br>      <dl class="goodImage">&lt;dt&gt;
-            <img src="IIS Crypto 2.0.png" alt="IIS Crypto 2.0.png" style="width:750px;">
-         &lt;/dt&gt;<dd> Figure: Good example – TLS should be enabled and SSL should be disabled </dd></dl>
+3. Select the best practices button <br>      
+[[goodExample]]
+| ![TLS should be enabled and SSL should be disabled](IIS Crypto 2.0.png)
 4. Ensure that TLS 1.0 is also disabled and hit apply <br>
 5. The server will need to be rebooted before the settings take effect

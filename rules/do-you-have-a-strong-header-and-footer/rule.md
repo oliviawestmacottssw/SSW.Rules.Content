@@ -9,10 +9,12 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 A strong header and footer will make the client sure that document is from your company in any page he is looking at.
 
 <!--endintro-->
-<dl class="goodImage">&lt;dt&gt;<img src="proposal-header-and-footer.jpg" alt="proposal-header-and-footer.jpg"><br>&lt;/dt&gt;<dd>Good Example - The header and footer are consistent, using the company colours and all the necessary information</dd></dl>
+
+![Good](proposal-header-and-footer.jpg)

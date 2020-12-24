@@ -9,6 +9,7 @@ authors:
 - id: 21
   title: Matthew Hodgkins
 related: []
+redirects: []
 
 ---
 
@@ -18,6 +19,8 @@ SharePoint designer is a handy program to be able to show off when presenting Sh
 Bad Example: Installing SharePoint Designer 2007 on a SharePoint 2010 VHD.
 :::
 
-<font class="ms-rteCustom-FigureGood">Good Example&#58; Installing SharePoint Designer 2010 on a SharePoint 2010 VHD.</font>
+::: good
+Good Example: Installing SharePoint Designer 2010 on a SharePoint 2010 VHD.
+:::
 
 <!--endintro-->

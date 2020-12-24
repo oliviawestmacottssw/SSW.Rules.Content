@@ -11,10 +11,13 @@ authors:
 - id: 15
   title: Mark Liu
 related: []
+redirects: []
 
 ---
 
 Make it clear when a record is inactive by reducing it opacity, for example.
 
 <!--endintro-->
-<dl class="goodImage">&lt;dt&gt;<img src="inactive-record.png" alt="inactive-record.png"><br>&lt;/dt&gt;<dd>Figure: Good Example - Microsoft Teams clearly shows inactive users<br></dd></dl>
+
+[[goodExample]]
+| ![Microsoft Teams clearly shows inactive users](inactive-record.png)

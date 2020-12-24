@@ -9,6 +9,7 @@ authors:
 - id: 73
   title: Kaique Biancatti
 related: []
+redirects: []
 
 ---
 
@@ -28,9 +29,9 @@ To get to this setting, you need to:
 3. Choose the setting that applies to you e.g. Object Access
 4. Edit the subcategory | Check "Success" and "Failure" as best practices
 
-<dl class="goodImage">&lt;dt&gt; 
-      <img src="auditing-success-and-fail.png" alt="auditing-success-and-fail.png" style="width:750px;"> 
-   &lt;/dt&gt;<dd>Figure: Good Example - Auditing Successes and Failures in your file shares</dd></dl>
+
+[[goodExample]]
+| ![Auditing Successes and Failures in your file shares](auditing-success-and-fail.png)
 After that, your server will start logging audit events in the Event Viewer. To filter relevant events, do the following:
 
 1. Open Window's Event Viewer | Windows Logs | Security
@@ -39,9 +40,9 @@ After that, your server will start logging audit events in the Event Viewer. To 
     2. 4660 (An object was deleted) - Event ID when a user deletes a file system file
     3. 5145 (A network share object was checked to see whether the client can be granted desired access.) - Event ID when a network user accesses a file share file
 3. The relevant logs will start popping up:
-<dl class="goodImage">&lt;dt&gt; 
-            <img src="filtered-logs.png" alt="filtered-logs.png"> 
-         &lt;/dt&gt;<dd>Figure: Good example - Filtered logs with file access information<br></dd></dl>
+
+[[goodExample]]
+| ![Filtered logs with file access information](filtered-logs.png)
 4. Click on each entry for a detailed explanation on which file was opened, which IP address was used and which user initiated the action
 
 

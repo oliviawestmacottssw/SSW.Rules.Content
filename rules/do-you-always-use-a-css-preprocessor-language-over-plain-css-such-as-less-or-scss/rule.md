@@ -13,6 +13,7 @@ authors:
 - id: 20
   title: Rebecca Liu
 related: []
+redirects: []
 
 ---
 
@@ -21,7 +22,10 @@ Writing CSS is easy. Writing a lot of CSS can become unwieldy and unmanageable. 
 <!--endintro-->
 
 The key advantage of using CSS pre-processors is nested selectors. Instead line after line of specific CSS selectors you can nest them and they will compile down for you. Check out this example:
-<dl class="badImage">&lt;dt&gt;<img src="RulesLESS - css.png" alt="RulesLESS - css.png">&lt;/dt&gt;<dd>Bad Example: Using regular CSS, you repeat yourself a lot</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="RulesLESS - less.png" alt="RulesLESS - less.png">&lt;/dt&gt;<dd>Good Example: Using LESS, we can structure our CSS better<br></dd></dl>
+
+![Using regular CSS, you repeat yourself a lot](RulesLESS - css.png)
+![Using LESS, we can structure our CSS better](RulesLESS - less.png)
+
 The pre-processed CSS then compiles to the regular CSS shown above.
 
 We recommend using SCSS for its slightly more robust language scripting, however, the [differences between LESS and SCSS are minor](https://css-tricks.com/sass-vs-less/).

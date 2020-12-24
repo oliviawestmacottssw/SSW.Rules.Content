@@ -13,6 +13,7 @@ authors:
 related:
 - do-you-use-icons-to-enforce-the-text-meaning
 - do-you-use-an-icon-so-a-password-prompt-should-never-be-a-surprise
+redirects: []
 
 ---
 
@@ -60,7 +61,15 @@ Don't surprise users! Use the following icons:
 | YouTube | 
 ![](youtube-icon_png.jpg)This is a link to a YouTube Video |
 
-<dl class="image">&lt;dt&gt; <img alt="Image good link" src="../../assets/GoogleIcons.gif"> &lt;/dt&gt;<dd>Figure: FYI there are the same images used by Google at <a href="http://desktop.google.com/features.html">GoogleDesktopSideBar.htm</a>  <br> </dd></dl><dl class="badImage">&lt;dt&gt; <img alt="Image bad link" src="../../assets/IconImageBad.gif"> &lt;/dt&gt;<dd>Figure: Bad Example - The user would expect all these hyperlinks to work the same way<br> </dd></dl><dl class="goodImage">&lt;dt&gt; <img alt="Image good link" src="../../assets/IconImageGood.gif"> &lt;/dt&gt;<dd>Figure: Good Example - The pdf icon (before a hyperlink) indicates it is not a web page<br></dd></dl>
+
+![FYI there are the same images used by Google at](../../assets/GoogleIcons.gif)
+[GoogleDesktopSideBar.htm](http://desktop.google.com/features.html)
+[[badExample]]
+| ![The user would expect all these hyperlinks to work the same way](../../assets/IconImageBad.gif)
+
+[[goodExample]]
+| ![The pdf icon](../../assets/IconImageGood.gif)(before a hyperlink) indicates it is not a web page
+
 ### How to add an icon before a link with CSS
 
 Add the icon image to your server. Then use $= to make the match the extension of the >a< tag on your CSS. The padding is to give it some space before the text (where the icon will be).

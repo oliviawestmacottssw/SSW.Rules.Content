@@ -11,6 +11,7 @@ authors:
 - id: 17
   title: Ryan Tee
 related: []
+redirects: []
 
 ---
 
@@ -19,9 +20,8 @@ Imagine that you have just had a User Acceptance Test (UAT), and your app has be
 
 We recommend that you should always use a code profiling tool to measure performance gains whilst optimising your application. Otherwise, you are just flying blind and making subjective, unmeasured decisions. Instead, use a tool such as [JetBrains dotTrace profiler](http://www.ssw.com.au/ssw/Redirect/JetbrainsNETProfiler.htm). These will guide you as to how to best optimise any code that is lagging behind the pack. You can run this on both ASP.NET and Windows Forms Applications. The optimisation process is as follows:
 
-1. Profile the application with Jetbrains dotTrace using the "Hot Spot" tab to identify the slowest areas of your application<br>    <dl class="image">        &lt;dt&gt;<img alt="" style="border-bottom:0px solid;border-left:0px solid;border-top:0px solid;border-right:0px solid;" border="0" src="JetBrainsProfilerHotSpots.jpg"> &lt;/dt&gt;
-        <dd>Figure: Identify which parts of your code take the longest (Hot Spots)</dd>
-    </dl>
+1. Profile the application with Jetbrains dotTrace using the "Hot Spot" tab to identify the slowest areas of your application<br>    
+![Identify which parts of your code take the longest](JetBrainsProfilerHotSpots.jpg)(Hot Spots)<br>
 2. Some parts of the application will be out of your control e.g. .NET System Classes. Identify the slowest parts of code that you can actually modify from the Hot Spot listing
 3. Determine the cause of the poor performance and optimise (e.g. improve the WHERE clause or the number of columns returned, reduce the number of loops or use a StringBuilder instead of string concatenation)
 4. Re-run the profile to confirm that performance has improved

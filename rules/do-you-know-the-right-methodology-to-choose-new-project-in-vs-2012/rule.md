@@ -11,6 +11,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -19,7 +20,8 @@ When you decide to use TFS 2012, you have the option to choose from different me
 Choosing the right template to fit into your environment is very important.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img class="ms-rteCustom-ImageArea" src="VSTS2010ProcessTemplates.jpg" alt="">&lt;/dt&gt;<dd>Figure: Built-in Process Templates in Visual Studio 2012 with TFS 2012</dd></dl>
+
+![Built-in Process Templates in Visual Studio 2012 with TFS 2012](VSTS2010ProcessTemplates.jpg)
 It is recommended to use the top option, the Scrum one. If you think the built-in template is not going to fulfil your needs, customize it and create your own.
 
 

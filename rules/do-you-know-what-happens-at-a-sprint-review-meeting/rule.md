@@ -7,6 +7,7 @@ uri: do-you-know-what-happens-at-a-sprint-review-meeting
 created: 2010-05-06T02:07:33.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

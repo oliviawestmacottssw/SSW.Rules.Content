@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -20,8 +21,6 @@ Bitly helps you easily save & share links over the web. You can:
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;
-      <img src="bitly-stats-general.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: bit.ly provides a detailed stats page for all your links</dd></dl><dl class="image">&lt;dt&gt;
-      <img src="bitly-stats.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: bit.ly provides a detailed stats page for a single link</dd></dl>
+
+![bit.ly provides a detailed stats page for all your links](bitly-stats-general.jpg)
+![bit.ly provides a detailed stats page for a single link](bitly-stats.jpg)

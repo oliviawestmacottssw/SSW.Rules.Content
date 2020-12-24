@@ -9,6 +9,7 @@ authors:
 - id: 3
   title: Eric Phan
 related: []
+redirects: []
 
 ---
 
@@ -17,13 +18,17 @@ When running code analysis you may need to ignore some rules that aren't relevan
 
 [[goodExample]]
 | ![The Solution and Projects are named consistently](code-analysis-bad-example.jpg)
-![](code-analysis-good-example.jpg)<dl class="goodCode">    &lt;dt&gt;
-    <pre>public partial class Account
+![](code-analysis-good-example.jpg)
+
+```
+public partial class Account
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors", Justification="Gold Plating")]
         public Account()
         {
             this.Centres = new HashSet();
             this.AccountUsers = new HashSet();
-            this.Campaigns = new HashSet();</pre>
-    &lt;/dt&gt;</dl>Figure: Good Example - The Solution and Projects are named consistently
+            this.Campaigns = new HashSet();
+```
+
+Figure: Good Example - The Solution and Projects are named consistently

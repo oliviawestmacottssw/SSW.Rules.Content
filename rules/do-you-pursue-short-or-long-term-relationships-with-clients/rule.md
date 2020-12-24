@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -61,7 +62,13 @@ Thanks for this initial meeting. I will now go and prepare a proposal for you.
 :::
 
 
-<dl> <br><br>::: bad<br>Figure&#58; Bad Example - asking a client to get married after the first date. This is likely to be too big a figure for them to risk on for their first taste of your work<br>:::<br><br> </dl>
+
+
+
+:::
+Figure: Bad Example - asking a client to get married after the first date. This is likely to be too big a figure for them to risk on for their first taste of your work
+::: bad
+
 
 
 ::: greybox
@@ -72,4 +79,9 @@ Thanks for this initial meeting. There are two options to consider for the next 
 :::
 
 
-<dl> <br><br>::: good<br>Figure&#58; Good Example - a client is more likely to appreciate this approach, they get a choice + they are given an option of proceeding with a small project. There are prospects of continuing the relationship based on how well the previous project goes<br>:::<br><br> </dl>
+
+
+
+:::
+Figure: Good Example - a client is more likely to appreciate this approach, they get a choice + they are given an option of proceeding with a small project. There are prospects of continuing the relationship based on how well the previous project goes
+::: good

@@ -15,6 +15,7 @@ authors:
 - id: 24
   title: Adam Stephensen
 related: []
+redirects: []
 
 ---
 
@@ -48,24 +49,17 @@ Use Microsoft's Exploratory Testing -  **Test & Feedback extension** - to perfor
 **
 ** 
 
-1. Go to [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms.vss-exploratorytesting-web) and click install. <br>      <dl class="image">&lt;dt&gt; 
-            <img src="exploratory-test-extension-install.png" alt="exploratory-test-extension-install.png"> 
-            <br> 
-         &lt;/dt&gt;<dd>Figure: Microsoft Test & Feedback (was Exploratory Testing) extension </dd></dl>
-2. Click "Add to Chrome" to add the extension to the browser on your computer. <br>      <dl class="image">&lt;dt&gt; 
-            <img src="exploratory-test-extension-add.png" alt="exploratory-test-extension-add.png"> 
-         &lt;/dt&gt;<dd> Figure: Chrome Web Store page for Test & Feedback extension</dd></dl>
+1. Go to [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms.vss-exploratorytesting-web) and click install. <br>      
+![Microsoft Test & Feedback](exploratory-test-extension-install.png)(was Exploratory Testing) extension
+2. Click "Add to Chrome" to add the extension to the browser on your computer. <br>      
+![Chrome Web Store page for Test & Feedback extension](exploratory-test-extension-add.png)
 3. Go to Chrome.
-4. Start a session by clicking on the Chrome extension and then click start a session. <br>      <dl class="image">&lt;dt&gt; 
-            <img src="exploratory-test-extension-icon.png" alt="exploratory-test-extension-icon.png" style="margin:0px;"> 
-         &lt;/dt&gt;<dd>Figure: Chrome extension icon</dd></dl><dl class="image">&lt;dt&gt; 
-            <img src="exploratory-test-extension-start.png" alt="exploratory-test-extension-start.png" style="margin:5px;">
-            <br>
-         &lt;/dt&gt;<dd>Figure: Test & Feedback start session button</dd></dl>
+4. Start a session by clicking on the Chrome extension and then click start a session. <br>      
+![Chrome extension icon](exploratory-test-extension-icon.png)
+![Test & Feedback start session button](exploratory-test-extension-start.png)
 5. Upload the screenshot to a PBI. <br>          
-<dl class="image">&lt;dt&gt; 
-            <img src="pbi-screenshot.jpg" alt="pbi-screenshot.jpg" style="width:750px;"> 
-         &lt;/dt&gt;<dd>Figure: PBI in Visual Studio Team Services (VSTS) showing the screenshot<br></dd></dl>
+
+![PBI in Visual Studio Team Services](pbi-screenshot.jpg)(VSTS) showing the screenshot
 
 
 ### Related Links

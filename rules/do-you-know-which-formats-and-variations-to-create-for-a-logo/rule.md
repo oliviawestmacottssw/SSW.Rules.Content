@@ -9,6 +9,7 @@ authors:
 - id: 90
   title: Ken Shi
 related: []
+redirects: []
 
 ---
 
@@ -58,8 +59,8 @@ We should have the following color variation when we creating a logo:
 2. All Black
 3. All White (in a dark background)
 
-<dl class="ssw15-rteElement-ImageArea">      <img src="ssw logo sample.png" alt="" style="width:770px;">
-   </dl>
+
+![](ssw logo sample.png)
 
 ::: good
 Figure: Good Example - SSW logo design has three different color set

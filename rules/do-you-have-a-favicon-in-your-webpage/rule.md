@@ -12,17 +12,18 @@ authors:
   title: Tiago Araujo
 related:
 - does-your-sharepoint-site-have-a-favicon
+redirects: []
 
 ---
 
 A Favicon is a small image file included on professionally developed sites. The favicon reflects the look and feel of the website or the organizations' visual identity.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt; 
-      <img src="favicon-bad.jpg" alt=""> 
-   &lt;/dt&gt;<dd>Figure: Bad Example - When you don't add a favicon the user sees a generic icon</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img src="favicon-good.jpg" alt=""> 
-   &lt;/dt&gt;<dd> Figure: Good Example - Using the favicon gives your website professional look and feel</dd></dl>
+
+[[badExample]]
+| ![When you don't add a favicon the user sees a generic icon](favicon-bad.jpg)
+[[goodExample]]
+| ![Using the favicon gives your website professional look and feel](favicon-good.jpg)
 ### Which formats and sizes to use?
 
 The format of the image must be one of PNG (a W3C standard), GIF, or ICO. You can export your favicon in all necessary sizes on [Favicon Generator website](https://realfavicongenerator.net/).

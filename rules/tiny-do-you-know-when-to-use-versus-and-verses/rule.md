@@ -11,6 +11,7 @@ authors:
 - id: 41
   title: Joanna Feely
 related: []
+redirects: []
 
 ---
 
@@ -54,10 +55,11 @@ Figure: Bad example: the wrong “versus” is used
 
 
 ::: bad
-<br>Figure: Bad example: Floyd did not poetry<br>Mayweather
+Figure: Bad example: Floyd did not poetry<br>Mayweather
 :::
 
-<dd><br></dd>
+
+
 
 ::: greybox
 "Brown v. The Board of Education."
@@ -67,11 +69,12 @@ Figure: Bad example: the wrong “versus” is used
 
 
 ::: good
-<br>Figure: Good example: in a legal context, “versus”<br>is abbreviated to “v.”
+Figure: Good example: in a legal context, “versus”<br>is abbreviated to “v.”
 
 :::
 
-<dd><br></dd>
+
+
 
 ::: greybox
 "Adam penned many verses about his love for .NET development"
@@ -81,6 +84,6 @@ Figure: Bad example: the wrong “versus” is used
 
 
 ::: good
-<br>Figure: Good example
+Figure: Good example
 
 :::

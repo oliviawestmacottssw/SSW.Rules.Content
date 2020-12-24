@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -61,8 +62,14 @@ The Team will do its best to deliver this set of features (Scope), to a defined 
 
 <this is="" as="" per="" rule:=""></this>[https://rules.ssw.com.au/do-you-create-a-sprint-forecast-(aka-the-functionality-that-will-be-developed-during-the-sprint)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=9119c922-1478-49e3-9d7a-903e9bc4be6e) />
 
-<font class="ms-rteCustom-FigureGood"> 
-    <strong>Figure: Good Example - copy this as email template and send to Product Owner. <br></strong> <strong>Subject: <client name="">: Sprint xxx Forecast</client></strong> </font>
+
+
+::: good
+ **Figure: Good Example - copy this as email template and send to Product Owner. 
+** **Subject: <client name="">: Sprint xxx Forecast</client>** 
+:::
+
+
 Tip: Use this     [Outlook email template](/Documents/SprintContract.oft "Email Template")
 
 More instructions are as below:
@@ -72,4 +79,7 @@ More instructions are as below:
     * Remove any useless columns
 ![](Sprint forecast example table.jpg)
 
-    <font class="ms-rteCustom-FigureGood">Figure: Good Example of a Table<br></font>
+    ::: good
+Figure: Good Example of a Table
+
+:::

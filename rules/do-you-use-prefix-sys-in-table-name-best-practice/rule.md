@@ -10,6 +10,7 @@ authors:
   title: Adam Cogan
 related:
 - schema---do-you-always-have-version-tracking-tables
+redirects: []
 
 ---
 

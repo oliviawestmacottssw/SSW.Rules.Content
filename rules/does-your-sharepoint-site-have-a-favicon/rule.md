@@ -12,6 +12,7 @@ authors:
   title: Adam Cogan
 related:
 - do-you-have-a-favicon-in-your-webpage
+redirects: []
 
 ---
 

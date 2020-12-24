@@ -7,6 +7,7 @@ uri: do-you-know-the-difference-between-calculated-columns-and-measures-in-power
 created: 2016-10-24T06:02:07.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

@@ -9,6 +9,7 @@ authors:
 - id: 78
   title: Matt Wicks
 related: []
+redirects: []
 
 ---
 
@@ -42,8 +43,8 @@ Setting this up is pretty easy.
 1. First you need to customise the template for a work item type 
 ![Customising a bug work item](templates for pbis and bugs - customise.png)
 2. Choose the form control to edit
-<dd class="ssw15-rteElement-FigureNormal">         <img src="templates for pbis and bugs - customise form.png" alt="templates for pbis and bugs - customise form.png" style="margin:5px;width:808px;">
-         <br>Figure: Customising a bug work item form</dd>
+
+![Customising a bug work item form](templates for pbis and bugs - customise form.png)
 3. Choose the form control to edit 
 ![Set the default value for the Repro Steps field](templates for pbis and bugs - customise default value.png)(tip: use HTML)**
 4. Save Template

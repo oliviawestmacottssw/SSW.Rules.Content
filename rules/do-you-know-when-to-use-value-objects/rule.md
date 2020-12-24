@@ -9,6 +9,7 @@ authors:
 - id: 81
   title: Jason Taylor
 related: []
+redirects: []
 
 ---
 
@@ -17,21 +18,22 @@ When defining a domain, entities are created and consist of properties and metho
 <!--endintro-->
 
 As an example, consider an AD account. An AD Account consists of a domain name and user name, e.g. SSW\Jason. It is a string so using the      **string** type makes sense. Or does it?
-<dl class="badImage">&lt;dt&gt;
-      <img src="when-use-value-bad.png" alt="when-use-value-bad.png" style="margin:5px;">
-   &lt;/dt&gt;<dd>Figure: Bad Example - Storing an AD Account as a String (AD Account is a complex type)</dd></dl>
+
+[[badExample]]
+| ![Storing an AD Account as a String](when-use-value-bad.png)(AD Account is a complex type)
 An AD Account is a complex type. Only certain strings are valid AD accounts. Sometimes you will want the string representation (SSW\Jason), sometimes you will need the domain name (SSW), and sometimes just the user name (Jason). All of this requires logic and validation, and the logic and validation cannot be provided by the string primitive type. Clearly, what is required is a more complex type such as a value object.
-<dl class="goodImage">&lt;dt&gt;<img src="when-use-value-good.png" alt="when-use-value-good.png"><br>&lt;/dt&gt;<dd>Figure: Good Example - Storing an AD Account as a Value Object to Support Logic and Validation</dd></dl>
+
+[[goodExample]]
+| ![Storing an AD Account as a Value Object to Support Logic and Validation](when-use-value-good.png)
 The underlying implementation for the      **AdAccount** class is as follows:
-<dl class="goodImage">&lt;dt&gt;
-      <img src="when-use-value-good-2.png" alt="when-use-value-good-2.png">
-   &lt;/dt&gt;<dd>Figure: Good Example - Implementation of the AdAccount Value Object Supports Logic and Validation</dd></dl>
+
+[[goodExample]]
+| ![Implementation of the AdAccount Value Object Supports Logic and Validation](when-use-value-good-2.png)
 The      **AdAccount** type is based on the      **ValueObject** type, which you can view here;     https://github.com/SSWConsulting/NorthwindTraders/blob/master/Northwind.Domain/Infrastructure/ValueObject.cs.
 
 Working with the AD accounts will now be easy. You can construct a new      **AdAccount** with the factory method      **For** as follows:
-<dl class="image">&lt;dt&gt;
-      <img src="when-use-value-eg-1.png" alt="when-use-value-eg-1.png">
-   &lt;/dt&gt;</dl>
+
+![](when-use-value-eg-1.png)
 The factory method      **For** ensures only valid AD accounts can be constructed and for invalid AD account strings, exceptions are meaningful, i.e.      **AdAccountInvalidException** rather than      **IndexOutOfRangeException** .
 
 Given an      **AdAccount** named account, you can access:
@@ -48,9 +50,8 @@ The value object also supports implicit and explicit conversion operators. You c
 
 
 If you're using Entity Framework Core, you should also configure the type as follows:
-<dl class="image">&lt;dt&gt;
-      <img src="when-use-value-eg-2.png" alt="when-use-value-eg-2.png">
-   &lt;/dt&gt;<dd>Figure: Using Entity Framework Core to Configure Value Objects as Owned Entity Types</dd></dl>
+
+![Using Entity Framework Core to Configure Value Objects as Owned Entity Types](when-use-value-eg-2.png)
 With the above configuration in place, EF Core will name the database columns for the properties of the owned entity type as      **AdAccount\_Domain** and      **AdAccount\_Name** . You can learn more about     [Owned Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities) by reviewing the EF Core documentation.
 
 Next time you are building an entity, consider carefully if the type you are defining is a primitive type or a complex type. Primitive types work well for storing simple state such as first name or order count, complex types work best when defining types that include complex logic or validation such as postal or email addresses. Using a value object to encapsulate logic and validation will simplify your overall design.

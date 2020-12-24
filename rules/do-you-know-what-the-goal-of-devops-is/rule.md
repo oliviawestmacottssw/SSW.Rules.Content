@@ -11,6 +11,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -38,14 +39,4 @@ Your answer: "Yes I know. Each morning we check the health of the app and we alr
 :::
 
 
-Take this survey to find out your DevOps index: <br>      
-
-
- 
-
-
-
-
-
-
-<dl>&lt;dt&gt;<br>&lt;/dt&gt;</dl>
+Take this survey to find out your DevOps index: <br>

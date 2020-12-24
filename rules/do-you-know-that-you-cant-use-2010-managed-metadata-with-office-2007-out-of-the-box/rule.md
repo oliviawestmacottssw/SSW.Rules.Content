@@ -11,6 +11,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -40,5 +41,4 @@ Best Solution:
  Use a 3rd party solution - the best one being OnePlaceMail which provides a UI for managed metadata via the "Save to SharePoint". Works with all three versions of Office so users get a consistent UI.     
 
 
-![](OnePlaceMail.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: The optional save dialog that pops up when saving document to SharePoint - allowing use of Managed Metadata from Office 2003, 2007 and File Explorer</font>
+![The optional save dialog that pops up when saving document to SharePoint - allowing use of Managed Metadata from Office 2003, 2007 and File Explorer](OnePlaceMail.jpg)

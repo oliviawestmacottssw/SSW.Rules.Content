@@ -11,6 +11,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -21,6 +22,6 @@ Every rule must have a person (or more) responsible for its content - The rule o
 ### How to add the rule owner
 
 When editing a rule, choose who is the rule owner on the "Acknowledgements" field. It is OK to have more than one person there.
-<dl class="image">&lt;dt&gt; 
-      <img src="acknowledgements.jpg" alt="acknowledgements.jpg">&lt;/dt&gt;<dd>Figure: This is where you add or remove "Acknowledgements"</dd></dl><dl class="image">&lt;dt&gt; 
-      <img src="add-new-value.png" alt="acknowledgements.jpg">&lt;/dt&gt;<dd>Figure: You can add a new person in SharePoint, if the owner is not on the list yet</dd></dl>
+
+![This is where you add or remove "Acknowledgements"](acknowledgements.jpg)
+![You can add a new person in SharePoint, if the owner is not on the list yet](add-new-value.png)

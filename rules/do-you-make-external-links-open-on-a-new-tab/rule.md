@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -22,7 +23,13 @@ Main reasons are:
 * Keep 'User Flow';
 * and keep a good track of Analytics
 
-<dl class="badImage" style="line-height&#58;21px;"><p class="ssw15-rteElement-CodeArea">&lt;a href=&quot;http&#58;//support.microsoft.com/support&quot;&gt;Support&lt;/a&gt;&#160;<br></p><dd>Figure&#58; Bad example - External link opening on the same tab<br></dd></dl><dl class="goodImage" style="line-height&#58;21px;"><p class="ssw15-rteElement-CodeArea">&lt;a href=&quot;http&#58;//support.microsoft.com/support&quot;&#160;<mark>target=&quot;_blank&quot;</mark>&gt;Support&lt;/a&gt;<br></p><dd>Figure&#58; Good example - External link opening in a new tab&#160;<br></dd></dl>
+
+&lt;a href="http://support.microsoft.com/support"&gt;Support&lt;/a&gt;
+Figure: Bad example - External link opening on the same tab
+
+&lt;a href="http://support.microsoft.com/support" <mark>target=&quot;_blank&quot;</mark>&gt;Support&lt;/a&gt;
+Figure: Good example - External link opening in a new tab 
+
 <!--endintro-->
 
 ### Related Rule

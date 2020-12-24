@@ -9,6 +9,7 @@ authors:
 - id: 73
   title: Kaique Biancatti
 related: []
+redirects: []
 
 ---
 
@@ -30,8 +31,11 @@ This implementation gives you security over which users are acessing which appli
 Figure: Good Example - Using one account on many systems
 :::
 
-&lt;dt&gt;
-&lt;/dt&gt;&lt;dt&gt;ADFS also gives you a solution in other corner cases:&lt;/dt&gt;<dd><br></dd><dd>  1. When you want to use Office 365 and not store your password on the cloud;</dd>&lt;dt&gt;  2. When you want the authentication to take place on-premises;&lt;/dt&gt;<dd>  3. When you want to create a trust between SharePoint on-premises and Azure AD;</dd>&lt;dt&gt;  4. Amongst many others.&lt;/dt&gt;<dd><br></dd><dd><img src="adfs.jpg" alt="adfs.jpg" style="margin:5px;width:808px;"></dd>
+
+ADFS also gives you a solution in other corner cases:
+1. When you want to use Office 365 and not store your password on the cloud;2. When you want the authentication to take place on-premises;3. When you want to create a trust between SharePoint on-premises and Azure AD;4. Amongst many others.
+
+![](adfs.jpg)
 
 ::: good
 Figure: Good Example - Using SSO to log into CRM with your on-premises account

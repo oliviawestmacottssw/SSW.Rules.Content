@@ -9,6 +9,7 @@ authors:
 - id: 71
   title: Steven Andrews
 related: []
+redirects: []
 
 ---
 
@@ -22,4 +23,8 @@ With Certify the Web and Let's Encrypt, we remove this human error and manual ha
 You should use [Certify the Web](https://certifytheweb.com/). 
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="manage-certificates-bad.png" alt="manage-certificates-bad.png" style="width:750px;height:386px;">&lt;/dt&gt;<dd>Figure: Bad example - Keeping a database is unnecessary</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="manage-certificates-good.png" alt="manage-certificates-good.png" style="width:750px;height:335px;">&lt;/dt&gt;<dd>Figure: Good example - Using Certify The Web<br></dd></dl>
+
+[[badExample]]
+| ![Keeping a database is unnecessary](manage-certificates-bad.png)
+[[goodExample]]
+| ![Using Certify The Web](manage-certificates-good.png)

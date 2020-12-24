@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -32,9 +33,8 @@ iPhone
 1. Open the  **Settings** app
 2. Navigate to  **General | About**
 3. Look for  **WiFi Address
-<dl class="image">&lt;dt&gt;
-               <img src="iphone-mac.png" alt="iphone-mac.png" style="margin:5px;">
-            &lt;/dt&gt;</dl>**
+
+![](iphone-mac.png)**
 
 
 ### Android Phone
@@ -44,8 +44,9 @@ iPhone
 2. Tap   **About Phone**
 3. Tap   **Status/Hardware information**
 4. Scroll down to see your  **WiFi/MAC address
-<dl class="image">&lt;dt&gt;
-               <img src="android-mac-address.jpg" alt="android-mac-address.jpg" style="margin:5px;"><br>&lt;/dt&gt;</dl>**
+
+![](android-mac-address.jpg)
+**
 
 
 ### Windows Phone

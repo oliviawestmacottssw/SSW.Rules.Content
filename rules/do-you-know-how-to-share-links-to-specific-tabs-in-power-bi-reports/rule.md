@@ -9,6 +9,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -19,4 +20,7 @@ The problem with the standard File | Publish to Web options, is it always goes t
 Do the above as usual, and then go to that published public report, and navigate to the tab you want to send people to.
 
 At the bottom right hand corner of the screen, there is a share icon. Click this for a sharable URL for that tab (people can still navigate to other tabs as needed, but will start on the one you've chosen.
-<dl class="ssw15-rteElement-ImageArea"><br><img src="Power BI - Share Tab.png" alt="" style="margin:5px;width:808px;"><br></dl>
+
+
+
+![](Power BI - Share Tab.png)

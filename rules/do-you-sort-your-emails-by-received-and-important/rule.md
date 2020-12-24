@@ -11,6 +11,7 @@ authors:
 - id: 2
   title: Cameron Shaw
 related: []
+redirects: []
 
 ---
 
@@ -21,7 +22,13 @@ OK - so now you've got your important emails identified, don't let them get lost
 
 
 ![](OutlookSortbyReceivedThenImportant.gif)
-<font class="ms-rteCustom-FigureGood">Figure: Good Example - Sorted by Important and Received Date</font>
+
+
+::: good
+Figure: Good Example - Sorted by Important and Received Date
+:::
+
+
 The Red Exclamation Mark is a good start, but the Blue Arrow keeps getting my attention.
 
 Use sort by importance to sort the items with the blue arrow to the bottom.

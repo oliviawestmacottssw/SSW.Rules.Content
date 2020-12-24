@@ -9,10 +9,12 @@ authors:
 - id: 9
   title: William Yin
 related: []
+redirects: []
 
 ---
 
 You might need to recover a delete file in SharePoint. You will find it at the Recycle bin. This is where you can find it:
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="sp-recycle-bin.png" alt="sp-recycle-bin.png"><br>&lt;/dt&gt;<dd>Figure: To find deleted files go to "Site Contents" > "Recycle Bin"</dd></dl>
+
+![To find deleted files go to "Site Contents" > "Recycle Bin"](sp-recycle-bin.png)

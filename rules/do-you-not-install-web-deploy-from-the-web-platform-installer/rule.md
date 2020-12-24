@@ -9,6 +9,7 @@ authors:
 - id: 24
   title: Adam Stephensen
 related: []
+redirects: []
 
 ---
 
@@ -19,9 +20,8 @@ The reason for this is that the Web Platform Installer does not install all of t
 <!--endintro-->
 
 More information on this issue here: [Don't Install Web Deployment Tool using the Web Platform Installer](http://nicksnettravels.builttoroam.com/post/2010/04/22/Done28099t-Install-Web-Deployment-Tool-using-the-Web-Platform-Installer.aspx)
-<dl class="badImage">&lt;dt&gt;
-      <img src="web-platform-installer.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Bad Example - Installing Web Deploy from the Web Platform Installer does not install all the components required for continuous deployment</dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="web-deploy-installer.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Good Example - Install Web Deploy 3.0 by downloading the package from 
-      <a target="_blank" href="http://www.iis.net/downloads/microsoft/web-deploy">http://www.iis.net/downloads/microsoft/web-deploy</a></dd></dl>
+
+[[badExample]]
+| ![Installing Web Deploy from the Web Platform Installer does not install all the components required for continuous deployment](web-platform-installer.jpg)
+[[goodExample]]
+| ![Install Web Deploy 3.0 by downloading the package fromhttp://www.iis.net/downloads/microsoft/web-deploy](web-deploy-installer.jpg)

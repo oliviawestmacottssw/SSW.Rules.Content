@@ -9,16 +9,15 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 When a user downloads a file from your site, they should see a progress bar along with                     the total size and estimated time, this way they will see the size of the download                     increasing and will knowing when it will finish.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;
-                        <img src="bar-progress-bad.jpg" alt="image showing download with no progress">&lt;/dt&gt;<dd>
-                        Figure: Bad example - there is no indication of the total size of the download or
-                        the percent complete, thus no estimate of how long left</dd></dl><dl class="goodImage">&lt;dt&gt;
-                        <img src="bar-progress-good.jpg" alt="image showing download with progress, size, percent complete, etc">&lt;/dt&gt;<dd>
-                        Figure: Good example - percent complete, time left, total size and a progress bar
-                        are all shown</dd></dl>
+
+[[badExample]]
+| ![there is no indication of the total size of the download or                         the percent complete, thus no estimate of how long left](bar-progress-bad.jpg)
+[[goodExample]]
+| ![percent complete, time left, total size and a progress bar                         are all shown](bar-progress-good.jpg)

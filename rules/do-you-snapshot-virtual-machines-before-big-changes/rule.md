@@ -9,6 +9,7 @@ authors:
 - id: 21
   title: Matthew Hodgkins
 related: []
+redirects: []
 
 ---
 
@@ -22,4 +23,8 @@ Snapshots are a very easy way to back up a system before a big change is made. T
 
 
 ![](snapshot-while-off.jpg)**
-<font class="ms-rteCustom-FigureGood"> <strong>You will see the snapshots associated with a Virtual Machine when you click on them</strong> </font>
+
+
+::: good
+**You will see the snapshots associated with a Virtual Machine when you click on them**
+:::

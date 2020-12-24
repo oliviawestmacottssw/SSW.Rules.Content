@@ -10,15 +10,15 @@ authors:
   title: Joanna Feely
 related:
 - do-you-know-how-to-capitalize-headings-and-titles
+redirects: []
 
 ---
 
 With so many different capitalization conventions used in technology names, it can be confusing to know which convention to use for which technology.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;
-      <img src="john-bristow-tweet.jpg" alt="John Bristowe tweeted corrections for some commonly mis-capitalised tech names">
-   &lt;/dt&gt;<dd>Figure: John Bristowe tackled some of the most commonly confused tech names in this tweet</dd></dl>
+
+![John Bristowe tackled some of the most commonly confused tech names in this tweet](john-bristow-tweet.jpg)
 The main 5 types used are:
 
 1. All uppercase – ALL UPPERCASE
@@ -50,8 +50,8 @@ Here’s a quick overview:
 > | Agile<br><br> | Only first letter capitalized<br><br> |
 > | Scrum<br><br> | Only first letter capitalized<br><br>(Note: it is not an acronym, so it should never be spelled "SCRUM") |
 
-<dl class="badImage">&lt;dt&gt;
-      <img src="bad-example-incorrect-capitalization.jpg" alt="Bad example: This banner uses the wrong capitalization convention"> 
-   &lt;/dt&gt;<dd>Figure: Bad example - If you want to be taken seriously as an expert in the subject, you should properly and consistently spell, punctuate, and capitalize the technology you are working with</dd></dl><dl class="goodImage">&lt;dt&gt;
-         <img src="good-example-correctly-capitalized.jpg" alt="Good example: This banner shows the correct capitalization for .NET">
-      &lt;/dt&gt;<dd>Figure: Good example – the technology is consistently capitalized correctly across the page<br></dd></dl>
+
+[[badExample]]
+| ![If you want to be taken seriously as an expert in the subject, you should properly and consistently spell, punctuate, and capitalize the technology you are working with](bad-example-incorrect-capitalization.jpg)
+[[goodExample]]
+| ![the technology is consistently capitalized correctly across the page](good-example-correctly-capitalized.jpg)

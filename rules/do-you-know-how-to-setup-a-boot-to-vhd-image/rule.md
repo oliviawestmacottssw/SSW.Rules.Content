@@ -9,6 +9,7 @@ authors:
 - id: 21
   title: Matthew Hodgkins
 related: []
+redirects: []
 
 ---
 
@@ -25,16 +26,14 @@ Using Boot to VHD is very similar to dual-booting your machine, except that you 
 2. Open an Administrative command prompt.
 3. Type:
 <font class="ms-rteCustom-CodeArea">bcdedit /copy {default} /d “Demo-NameOfDemo”</font>
-![](fig1-creatingentry.png)
-<font class="ms-rteCustom-FigureNormal">Figure - Creating the entry using BCDEdit shows your GUID</font>
+![Creating the entry using BCDEdit shows your GUID](fig1-creatingentry.png)
 4. Type:
 <font class="ms-rteCustom-CodeArea">bcdedit /set <guid>  <strong>device</strong> vhd=[D:]\VM-DEV-SharePoint_2010_Public_Beta.vhd</guid></font>
-**D:\** is the drive the VHD is located and  **VM-DEV-SharePoint\_2010\_Public\_Beta.vhd** is the location of your VHD file. Make sure you replace   with the GUID you got in the previous step.
+**D:\** is the drive the VHD is located and  **VM-DEV-SharePoint\_2010\_Public\_Beta.vhd** is the location of your VHD file. Make sure you replace  **<guid> </guid>** with the GUID you got in the previous step.
 5. Type:
 <font class="ms-rteCustom-CodeArea">bcdedit /set <guid>  <strong>osdevice</strong> vhd=[D:]\VM-DEV-SharePoint_2010_Public_Beta.vhd</guid></font>
-**D:\** is the drive the VHD is located and  **VM-DEV-SharePoint\_2010\_Public\_Beta.vhd** is the location of your VHD file. Make sure you replace   with the GUID you got in the previous step.
+**D:\** is the drive the VHD is located and  **VM-DEV-SharePoint\_2010\_Public\_Beta.vhd** is the location of your VHD file. Make sure you replace  **<guid> </guid>** with the GUID you got in the previous step.
 6. Type:
 <font class="ms-rteCustom-CodeArea">bcdedit /set <guid> detecthal on</guid></font>
-![](fig2-addguids.png)
-<font class="ms-rteCustom-FigureNormal">Figure - Each time you run a BCDEdit command it should return "The operation completed successfully"</font>
+![Each time you run a BCDEdit command it should return "The operation completed successfully"](fig2-addguids.png)
 7. Reboot the computer and now you will have the option to choose between Windows 7 and the new Boot to VHD image.

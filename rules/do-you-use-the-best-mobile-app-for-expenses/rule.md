@@ -13,6 +13,7 @@ authors:
 - id: 105
   title: Nick Viet
 related: []
+redirects: []
 
 ---
 
@@ -92,9 +93,10 @@ As a user, all you have to do is take a photo of the receipt from your mobile ap
 
 
 **Without Xero:**
-<dl><p class="ssw15-rteElement-P"><img src="google-trends-without-xero.jpg" alt="google-trends-without-xero.jpg" style="width:750px;"></p><p class="ssw15-rteElement-P"> <strong>Figure: Google Trends (September 2020) show 
-   Expensify and 
-   Receipt Bank as the most popular. More at</strong> <a href="https://trends.google.com/trends/explore?geo=US&q=Xero%20Expenses%2cexpensify%2chubdoc%2c%22Receipt%20Bank%22"> <strong>Google Trends</strong> </a></p></dl>
+
+
+![Google Trends](google-trends-without-xero.jpg)(September 2020) show <br>   Expensify and <br>   Receipt Bank as the most popular. More at** [**Google Trends**](https://trends.google.com/trends/explore?geo=US&q=Xero%20Expenses%2cexpensify%2chubdoc%2c%22Receipt%20Bank%22)
+
 ### Related Rules
 
 

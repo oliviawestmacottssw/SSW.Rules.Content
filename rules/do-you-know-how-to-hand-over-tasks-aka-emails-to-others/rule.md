@@ -11,6 +11,7 @@ authors:
 - id: 2
   title: Cameron Shaw
 related: []
+redirects: []
 
 ---
 
@@ -23,9 +24,9 @@ The most dangerous time in a task's life cycle is in a handover. This is the mos
  
 
 ```
-New,
+<mark>New,
 
-I already talked with Sergei, he will handle it.
+I already talked with Sergei, he will handle it.</mark>
 ________________________________________
 From: Adam 
 To: Andy
@@ -42,9 +43,9 @@ keeps crashing when I do a search under 'Company', please fix
  
 
 ```
-Sergei
+<mark>Sergei
 
-As per our conversation - please action
+As per our conversation - please action</mark>
 ________________________________________
 From: Adam
 To: Andy

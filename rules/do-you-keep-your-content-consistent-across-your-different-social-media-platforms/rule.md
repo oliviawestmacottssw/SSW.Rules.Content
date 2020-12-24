@@ -20,6 +20,7 @@ related:
 - do-you-know-how-to-take-great-photos-for-your-socials
 - do-you-follow-image-standard-sizes-on-social-media
 - do-you-know-what-type-of-content-marketing-you-should-post-on-your-socials
+redirects: []
 
 ---
 

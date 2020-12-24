@@ -9,6 +9,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -25,15 +26,25 @@ Remember that some colours have a shared understanding of their meaning.
 * Traffic lights can be used for showing 3 levels.
 * Cold, Warm, Hot should have appropriate colours that make sense without having to look at the legend
 
-<dl class="badImage">&lt;dt&gt;<img src="colours-powerbi-bad.jpg" alt="colours-powerbi-bad.jpg" style="width:746px;height:352px;">&lt;/dt&gt;<dd>Figure: Bad example – non-semantic colours cause confusion</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="colours-powerbi-good.jpg" alt="colours-powerbi-good.jpg" style="width:750px;height:342px;">&lt;/dt&gt;<dd>Figure: good example – obvious colours used for Cold, Warm, and Hot</dd></dl>
+
+[[badExample]]
+| ![non-semantic colours cause confusion](colours-powerbi-bad.jpg)
+[[goodExample]]
+| ![obvious colours used for Cold, Warm, and Hot](colours-powerbi-good.jpg)
 ### Tufte minimalism
 
 Edward Tufte is often quoted as saying that, on a report where you want to draw the eye to exceptions or out of bounds data, colour should only be used to highlight what you want the user to see.
-<dl class="goodImage">&lt;dt&gt;<img src="tufte-good.png" alt="tufte-good.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: Good Example – the black stands out as everything else looks translucent</dd></dl>
+
+[[goodExample]]
+| ![the black stands out as everything else looks translucent](tufte-good.png)
 ### Consistent Palette
 
 Make sure you stick with one colour palette, so if you use one pastel colour, make them all pastel. If you have one bold colour, make them all bold
-<dl class="badImage">&lt;dt&gt;<img src="pallete-bad.jpg" alt="pallete-bad.jpg">&lt;/dt&gt;<dd>Figure: Bad Example – inconsistent palette feel like the colours clash</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="pallete-good.jpg" alt="pallete-good.jpg">&lt;/dt&gt;<dd>Figure: Good Example – consistent colour palette</dd></dl>
+
+[[badExample]]
+| ![inconsistent palette feel like the colours clash](pallete-bad.jpg)
+[[goodExample]]
+| ![consistent colour palette](pallete-good.jpg)
 ### Colour Blind palette
 
 Just to be difficult, it is worth noting that red/green colour blindness is the most common type, which may make standard semantic colours sometimes less desirable. In this case, use blues and oranges for contrast instead.

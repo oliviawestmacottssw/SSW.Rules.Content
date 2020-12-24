@@ -9,12 +9,15 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 It is important to define your response types.
-<dl class="badImage">&lt;dt&gt;<img src="bad-no-response-types.jpg" alt="bad-no-response-types.jpg">&lt;/dt&gt;
-dd>Figure: Bad example – no response types</dl><dl class="goodImage">&lt;dt&gt;<img src="good-response-types.png" alt="good-response-types.png">&lt;/dt&gt;<dd>Figure: Good example – Response types (in .NET)</dd></dl>
+
+![](bad-no-response-types.jpg)dd>Figure: Bad example – no response types
+[[goodExample]]
+| ![Response types](good-response-types.png)(in .NET) 
 <!--endintro-->
 
 
@@ -28,7 +31,7 @@ dd>Figure: Bad example – no response types</dl><dl class="goodImage">&lt;dt&g
 [ProducesResponseType(400)]
 [ResponseCache(CacheProfileName = DefaultCacheProfile.Name)]
 [Produces("application/json", "text/json")]
-public ActionResult Get(long n)
+public ActionResult<long></long> Get(long n)
 {
 \_logger.LogInformation($"Fibonacci number {n} requested");
 if(!\_fibonacciSolver.CanSolve(n))
@@ -54,7 +57,7 @@ Figure: Good example for swashbuckle - Even better if you have .NET Core 2.1 use
 [HttpGet]
         [SwaggerResponse(HttpStatusCode.OK, typeof(long))]
         [SwaggerResponse(HttpStatusCode.BadRequest, typeof(void))]
-        public ActionResult Get(long n)
+        public ActionResult<long></long> Get(long n)
         {
             \_logger.LogInformation($"Fibonacci number {n} requested");
 

@@ -11,6 +11,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -19,12 +20,11 @@ Make sure that anyone tasked in emails is explicitly added to the "To:" line. Th
 A fair percentage of people open an email and don’t read who is on the "To:" or "Cc:" lines.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;
-      <img src="SearchTask.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Bad example, Mark can’t search for tasks that have been assigned to him<br></dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="FilterEmail.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Good example, Mark can filter his emails based on whether his name is on the "To:" field<br></dd> 
-   </dl>
+
+![Bad example, Mark can’t search for tasks that have been assigned to him](SearchTask.jpg)
+
+![Good example, Mark can filter his emails based on whether his name is on the "To:" field](FilterEmail.jpg)
+
 ### Related rule
 
 

@@ -13,6 +13,7 @@ authors:
 - id: 97
   title: Matt Goldman
 related: []
+redirects: []
 
 ---
 
@@ -144,6 +145,7 @@ Eg. "Guys, you've got 5 minutes to get your 3 votes in"
 
 
 
-<dl class="goodImage">&lt;dt&gt;<img src="MicrosoftTeams-image.png" alt="office-christmas-party.jpg" style="width:650px;height:500px;"><br>&lt;/dt&gt;<dd>Good Example: A brainstorming session is like an office party but more productive</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img src="2019-12-07_16-06-18.png" alt="2019-12-07_16-06-18.png" style="width:750px;"> 
-   &lt;/dt&gt;<dd>Good Example: A Trello board with the voting power-up allows people to suggest and vote on ideas they would like to work on in the brainstorming session</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="2019-12-07_16-26-04.png" alt="2019-12-07_16-26-04.png" style="width:750px;">&lt;/dt&gt;<dd>Good Example: The selected ideas are moved from the Vote column to the Chosen column and the real fun begins!<br></dd></dl>
+
+![A brainstorming session is like an office party but more productive](MicrosoftTeams-image.png)
+![A Trello board with the voting power-up allows people to suggest and vote on ideas they would like to work on in the brainstorming session](2019-12-07_16-06-18.png)
+![The selected ideas are moved from the Vote column to the Chosen column and the real fun begins](2019-12-07_16-26-04.png)!

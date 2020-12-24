@@ -7,6 +7,7 @@ uri: do-you-have-a-few-slides-to-find-out-a-little-bit-about-who-is-in-your-audi
 created: 2010-06-08T09:53:47.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -19,6 +20,6 @@ It is best to confirm who you are speaking to via a few slides. Then you can mak
 * Interesting to them
 * Relevant to them
 
-<dl>    &lt;dt&gt;<img class="ms-rteCustom-ImageArea" src="developer.gif" alt=""> &lt;/dt&gt;
-     <strong>Figure: Ask "How many are developers here?"</strong> </dl><dl>    &lt;dt&gt;<img class="ms-rteCustom-ImageArea" src="manager.gif" alt=""> &lt;/dt&gt;
-     <strong>Figure: Ask "How many are managers here?"</strong> </dl>
+
+![Ask "How many are developers here?"](developer.gif)
+![Ask "How many are managers here?"](manager.gif)

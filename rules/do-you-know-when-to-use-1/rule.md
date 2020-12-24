@@ -11,13 +11,35 @@ authors:
 - id: 2
   title: Cameron Shaw
 related: []
+redirects: []
 
 ---
 
 When someone makes a suggestion or a complaint. Usually, you only hear from the ones who disagree. It helps to let others on the thread know you agree, by replying with "+1" and a quick sentence.
 
 <!--endintro-->
-<dl><br><br>::: greybox<br>From&#58; Adam Cogan <br>To&#58; Code Auditor Team <br>Subject&#58; RE&#58; Rule files <br>
-      <br><mark>+1</mark> on this. It can be quite frustrating<br>________________________________________ <br>From&#58; Uly <br>To&#58; Code Auditor Team <br>Subject&#58; Rule files <br>
-      <br>Hi, I saw two clients today that complained about Rule files being created even though one had already existed. They were all named x.SSWCodeAuditor where x was a number from 1 to 13 in one of the cases. Why do these keep being created? <br><br>Uly<br>:::<br><br> 
-   <br><br>::: good<br>Figure&#58; Good Example - using +1 to show you agree  <br><br>:::<br><br></dl>
+
+
+
+:::
+
+Figure: Good Example - using +1 to show you agree
+::: good
+
+
+
+:::
+Uly
+
+Hi, I saw two clients today that complained about Rule files being created even though one had already existed. They were all named x.SSWCodeAuditor where x was a number from 1 to 13 in one of the cases. Why do these keep being created?
+
+Subject: Rule files
+To: Code Auditor Team
+From: Uly
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+on this. It can be quite frustrating<mark>+1</mark>
+
+Subject: RE: Rule files
+To: Code Auditor Team
+From: Adam Cogan
+::: greybox

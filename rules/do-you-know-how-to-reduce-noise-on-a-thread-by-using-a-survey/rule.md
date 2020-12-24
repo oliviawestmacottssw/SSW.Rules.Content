@@ -11,6 +11,7 @@ authors:
 - id: 41
   title: Joanna Feely
 related: []
+redirects: []
 
 ---
 
@@ -45,7 +46,7 @@ Figure: Bad example – a simple “X or Y?” question thread generated dozens 
 
 
 ::: good
-Figure: Good example – send an email with a link to a survey instead of asking for replies 
+Figure: Good example – send an email with a link to a survey instead of asking for replies
 :::
 
 

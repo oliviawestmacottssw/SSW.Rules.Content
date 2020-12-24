@@ -9,11 +9,14 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 You should never start a long process (>30 seconds) without first giving a warning message to warn the user approximately how long it will take.
-<dl class="goodImage">&lt;dt&gt;<img src="lengthyoperation.jpg" alt="lengthyoperation.jpg"><br>&lt;/dt&gt;<dd>Figure: Good example - Code Auditor message warning this is a long process</dd></dl>
+
+[[goodExample]]
+| ![Code Auditor message warning this is a long process](lengthyoperation.jpg)
 You will need to have 2 things:
 
 1. A table to record processes containing the following fields:

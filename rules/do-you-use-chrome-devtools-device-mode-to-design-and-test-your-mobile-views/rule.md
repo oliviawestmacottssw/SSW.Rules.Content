@@ -9,6 +9,7 @@ authors:
 - id: 44
   title: Duncan Hunter
 related: []
+redirects: []
 
 ---
 
@@ -24,9 +25,17 @@ Making a responsive website work well on a mobile is not easy but with the right
 
 
 > 
-![](bad-rules-testing-responsivewebsites.jpg)
+[[badExample]]
+| ![Using your browser to test a responsive website layout.](bad-rules-testing-responsivewebsites.jpg)
 
-<dl class="bad" style="margin:0px;line-height:17px;padding-top:10px;padding-bottom:10px;padding-left:20px;font-family:arial, helvetica, sans-serif;"><dd style="padding-bottom:7px;padding-left:1.7em;margin-top:-2px;margin-left:0px;">Figure: Bad example - Using your browser to test a responsive website layout.<br><img alt="2015-02-16_17-44-01.jpg" src="2015-02-16_17-44-01.jpg" style="margin:5px;width:500px;height:510px;"><br></dd></dl><dl class="good" style="margin:0px;padding-top:10px;padding-bottom:10px;padding-left:20px;"><dd style="line-height:17px;padding-bottom:7px;padding-left:1.7em;font-family:arial, helvetica, sans-serif;margin-top:-2px;margin-left:0px;">Figure: Good example - Using Device Mode & Mobile Emulation in Chrome.</dd><ul><font color="#555555" face="arial, helvetica, sans-serif"> <strong>How to test a responsive website with Chrome DevTools Device Mode</strong> </font></ul><span style="line-height:21px;font-family:arial, helvetica, sans-serif;"><ol><li style="color:#555555;">Watch this video below</li><li style="color:#555555;">Read the documentation on the <a href="https://developer.chrome.com/devtools/docs/device-mode">Chrome Developer Website.</a></li></ol></span></dl>
+[[goodExample]]
+| ![Using Device Mode & Mobile Emulation in Chrome.](2015-02-16_17-44-01.jpg)
+1. Watch this video below
+2. Read the documentation on the [Chrome Developer Website.](https://developer.chrome.com/devtools/docs/device-mode)
+
+
+<font color="#555555" face="arial, helvetica, sans-serif"> <strong>How to test a responsive website with Chrome DevTools Device Mode</strong> </font>
+
 
 `youtube: https://www.youtube.com/embed/FrAZWiMWRa4`
  

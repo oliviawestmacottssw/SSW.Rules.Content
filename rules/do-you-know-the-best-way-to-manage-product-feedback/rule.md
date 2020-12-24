@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -21,11 +22,16 @@ There are a number of web applications that do a great job on this:
 * [GetSatisfication](https://getsatisfaction.com/corp/)
 * [UserEcho](https://userecho.com/)
 
-<dl class="image">&lt;dt&gt; <img src="codeauditoruservoice.jpg" alt="codeauditoruservoice.jpg" style="width:650px;"> &lt;/dt&gt;<dd>Figure: The UserVoice website allows user to enter suggestions (used here by SSW Code Auditor)</dd></dl><dl class="image">&lt;dt&gt;<img src="admin.jpg" alt="admin.jpg" style="width:650px;"> &lt;/dt&gt;<dd>Figure: UserVoice has an Administrator console to track feedback</dd> </dl>
+
+![The UserVoice website allows user to enter suggestions](codeauditoruservoice.jpg)(used here by SSW Code Auditor)
+![UserVoice has an Administrator console to track feedback](admin.jpg)
 [UserVoice](https://www.uservoice.com/) is the most popular platform to collect, manage, and prioritize user feedback. It has a voting and tickets system out of the box.
 
 Many software houses use this for their products Eg. SSW Code Auditor, SSW Link Auditor
 
 
 Here are the google results as at 2014
-<dl class="image">&lt;dt&gt;<img src="uservoice.jp.jpg" alt="uservoice.jp.jpg" style="width:650px;"> &lt;/dt&gt;<dd>Figure: Google result of UserVoice</dd></dl><dl class="image">&lt;dt&gt;<img src="getsatisfaction.jpg" alt="getsatisfaction.jpg" style="width:650px;"> &lt;/dt&gt;<dd>Figure: Google result of GetSatisfaction </dd></dl><dl class="image">&lt;dt&gt;<img src="googleresultuserecho.jpg" alt="googleresultuserecho.jpg" style="width:650px;"> &lt;/dt&gt;<dd>Figure: Google result of UserEcho <br></dd></dl>
+
+![Google result of UserVoice](uservoice.jp.jpg)
+![Google result of GetSatisfaction](getsatisfaction.jpg)
+![Google result of UserEcho](googleresultuserecho.jpg)

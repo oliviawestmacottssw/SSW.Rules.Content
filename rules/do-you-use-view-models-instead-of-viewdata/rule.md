@@ -9,25 +9,46 @@ authors:
 - id: 23
   title: Damian Brady
 related: []
+redirects: []
 
 ---
 
 MVC provides a ViewData collection in which you can store miscellaneous pieces of information to pass to the View.  It’s also accessible it as a Dynamic object by using the ViewBag.  However, you should avoid using ViewData or ViewBag because it isn’t type-safe and relies on [Magic Strings](http&#58;//en.wikipedia.org/wiki/Magic_string).
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<br><br>::: greybox<br><pre>public ActionResult Index() &#123;
-  ViewData[&quot;Message&quot;] = &quot;Some Message&quot;;
-  return View();
-&#125;
- 
-&lt;h1&gt;&lt;%&#58; ViewData[&quot;Message&quot;] &amp;&gt;&lt;/h1&gt;
 
-</pre><br>:::<br><br>&lt;/dt&gt;<dd>Figure&#58; Bad Example – ViewData being used to pass information to the View isn’t type-safe</dd></dl><dl class="goodImage">&lt;dt&gt;<br><br>::: greybox<br><pre>public ActionResult Index() &#123;
+
+
+:::
+
+
+```
+public ActionResult Index() {
+  ViewData["Message"] = "Some Message";
+  return View();
+}
+ 
+<h1><%: ViewData["Message"] &></h1>
+```
+
+
+::: greybox
+Figure: Bad Example – ViewData being used to pass information to the View isn’t type-safe
+
+
+:::
+
+
+```
+public ActionResult Index() {
   var model = new IndexViewModel();
-  model.Message = &quot;Some Message&quot;;
+  model.Message = "Some Message";
   return View();
-&#125;
+}
  
-&lt;h1&gt;&lt;%&#58; Model.Message %&gt;&lt;/h1&gt;
+<h1><%: Model.Message %></h1>
+```
 
-</pre><br>:::<br><br>&lt;/dt&gt;<dd>Figure&#58; Good Example – Using a ViewModel is a safer way to pass data</dd></dl>
+
+::: greybox
+Figure: Good Example – Using a ViewModel is a safer way to pass data

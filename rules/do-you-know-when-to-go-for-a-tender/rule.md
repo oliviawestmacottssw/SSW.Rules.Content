@@ -7,6 +7,7 @@ uri: do-you-know-when-to-go-for-a-tender
 created: 2020-09-04T04:41:38.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

@@ -11,6 +11,7 @@ related:
 - do-you-know-when-to-use-svg
 - do-you-know-how-to-save-your-graphics-in-the-right-format
 - do-you-avoid-bmps-for-the-internet-at-all-times
+redirects: []
 
 ---
 

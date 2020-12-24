@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -23,9 +24,14 @@ It should be placed on the <head> section of your page. The most used properties
 <meta property="og:title" content="Your Custom Title">
 <meta property="og:description" content="Your custom description of the page.">
 <meta property="og:image" content="https://www.YourCustomImage.jpg">
-<dl class="badImage">&lt;dt&gt; <img src="open-graph-bad.jpg" alt="open-graph-bad.jpg"> &lt;/dt&gt;<dd>Figure: Bad example - Shared link has no image and the title was "guessed" by LinkedIn</dd></dl><dl class="goodImage">&lt;dt&gt; <img src="opengraph-good.jpg" alt="opengraph-good.jpg"> &lt;/dt&gt;<dd>Figure: Good example - Shared link has a nice image and title, both defined via Open Graph tags <br></dd></dl>
+
+[[badExample]]
+| ![Shared link has no image and the title was "guessed" by LinkedIn](open-graph-bad.jpg)
+[[goodExample]]
+| ![Shared link has a nice image and title, both defined via Open Graph tags](opengraph-good.jpg)
+
 **Note:** For LinkedIn you might need to add the prefix as following:
 
-<meta<mark>prefix="og: http://ogp.me/ns#"</mark> property='og:title' content="Microsoft Azure | SSW Consulting - Sydney, Brisbane, Melbourne"/>
+<><mark>prefix="og: http://ogp.me/ns#"</mark> property='og:title' content="Microsoft Azure | SSW Consulting - Sydney, Brisbane, Melbourne"/>
 
 More information and other properties can be found at [http://ogp.me](http://ogp.me/)

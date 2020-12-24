@@ -13,6 +13,7 @@ authors:
 - id: 9
   title: William Yin
 related: []
+redirects: []
 
 ---
 
@@ -43,7 +44,9 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
 ![](wrong.gif "clip_image004[14]")Less performance than SQL filter views directly<br><br>
 ![](wrong.gif "clip_image004[15]")Only recently released. |
 
-<dl class="image">&lt;dt&gt; <img border="0" title="clip_image010" alt="clip_image010" src="figure5.jpg" style="width:582px;"> <br>&lt;/dt&gt;</dl>
+
+![](figure5.jpg "clip_image010")
+
 **More information:**    
     Download from Microsoft
     Read "*Connecting to CRM Online 2011 with SharePoint 2010 Business Connectivity Services*"
@@ -68,7 +71,8 @@ Summary: SharePoint BCS -> Pre-built Adapter (.NET Assembly) -> CRM web services
     **More information:**
     If you only want read-only for CRM on-premises data for SharePoint users, this solution is fine. You create the External Content Type directly against the Filtered Views in the CRM database.
     http://msdn.microsoft.com/en-us/library/gg328467.aspx
-<dl class="image">&lt;dt&gt; <img width="644" height="266" border="0" title="clip_image005" alt="clip_image005" src="figure1.jpg"> &lt;/dt&gt;<dd>Figure: The result of "SELECT * FROM FilteredCtx_Project". Use Office SharePoint Designer to hook this up</dd></dl>
+
+![The result of "SELECT \* FROM FilteredCtx\_Project". Use Office SharePoint Designer to hook this up](figure1.jpg "clip_image005")
 ### Option 3: Web Services
     CRM provides web services.
     Summary: SharePoint BCS -> Code calling CRM web services - > CRM database
@@ -108,9 +112,12 @@ So it is really only suited to calling from Silverlight and JavaScript web resou
     The first step is to expose the data:
     1. Install [http://crm2011odatatool.codeplex.com](http://crm2011odatatool.codeplex.com/)
     2. Make a query
-<dl class="image">&lt;dt&gt; <img width="539" height="391" border="0" title="clip_image006" alt="clip_image006" src="figure2.jpg"> &lt;/dt&gt;<dd>Figure: Designing a query</dd></dl>    3. See the data
-<dl class="image">&lt;dt&gt; <img width="547" height="347" border="0" title="clip_image007" alt="/SoftwareDevelopment/rulestobettercrmfigure3.jpg" src="figure3.jpg"> &lt;/dt&gt;<dd>Figure: See the data - RSS source for xtc_countrySet</dd></dl>    The second step (and the problem) is consuming the data
-<dl class="image">&lt;dt&gt; <img width="244" height="87" border="0" title="clip_image009" alt="clip_image009" src="figure4.jpg"> &lt;/dt&gt;<dd>Figure: BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData</dd></dl>    In summary, CRM 2011 can expose OData, but SharePoint 2010 BCS doesn't consume OData.
+
+![Designing a query    3. See the data](figure2.jpg "clip_image006")
+
+![See the data - RSS source for xtc\_countrySet    The second step](figure3.jpg "clip_image007")(and the problem) is consuming the data
+
+![BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData    In summary, CRM 2011 can expose OData, but SharePoint 2010 BCS doesn't consume OData.](figure4.jpg "clip_image009")
     The 3 options to consume the OData/RSS data:
     Consume the OData by SQL Server, via TSQL ???    Then use BCS to call SQL Server. 
 Summary: SharePoint BCS -> DataSourceType: SQL Server -> OData- > CRM database

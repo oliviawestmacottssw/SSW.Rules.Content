@@ -11,6 +11,7 @@ authors:
 - id: 46
   title: Danijel Malik
 related: []
+redirects: []
 
 ---
 
@@ -24,4 +25,5 @@ Here is how you do it in Advanced Installer:
 2. Choose <br>       **Configuration** tab and click in <br>       **MSI name** text box which is located under <br>       **Output** section
 3. Next to the text add <br>      [|ProductVersion]. If the text-box is empty you may want to start it with <br>      [|ProductName]
 
-<dl class="image">&lt;dt&gt;<img src="installer-add-version-number.jpg" alt="">&lt;/dt&gt;<dd>Figure: Advanced Installer - Add version to output package</dd></dl>
+
+![Advanced Installer - Add version to output package](installer-add-version-number.jpg)

@@ -14,6 +14,7 @@ authors:
   title: Danijel Malik
 related:
 - do-you-use-version-control-with-power-bi
+redirects: []
 
 ---
 

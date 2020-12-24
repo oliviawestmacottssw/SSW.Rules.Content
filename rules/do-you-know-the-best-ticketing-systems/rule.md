@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -17,6 +18,5 @@ related: []
 Zendesk has a larger market share, lower cost and better 'overall rating' as per     [getapp.com](https://www.getapp.com/it-management-software/a/service-now-com/compare/zendesk/).
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;
-      <img src="comparison.png" alt="comparison.png">
-   &lt;/dt&gt;<dd>Figure: Zendesk vs Service Now<br></dd></dl>
+
+![Zendesk vs Service Now](comparison.png)

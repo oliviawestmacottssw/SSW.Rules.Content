@@ -9,11 +9,13 @@ authors:
 - id: 50
   title: Martin Li
 related: []
+redirects: []
 
 ---
 
 Localization makes your web application ready to work more than one language — and it’s much easier if you do it from the beginning. Just follow these tips to better localize your application for a specific country or region.
-<dl class="ssw15-rteElement-ImageArea"><img src="SSW-Link-Auditor-Chinafy.jpg" alt="SSW-Link-Auditor-Chinafy.jpg" style="margin:5px;"></dl> **Figure: SSW LinkAuditor application is available in Chinese.** 
+
+![SSW LinkAuditor application is available in Chinese.](SSW-Link-Auditor-Chinafy.jpg)
 <!--endintro-->
 
 * Set your application default language to automatically change to local language. For more information see "[Set your application default language](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=5aad1f7a-4872-439a-b248-6a151ba096f8)".

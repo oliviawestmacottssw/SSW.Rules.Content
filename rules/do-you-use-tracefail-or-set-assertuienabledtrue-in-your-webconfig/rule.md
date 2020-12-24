@@ -11,6 +11,7 @@ authors:
 - id: 17
   title: Ryan Tee
 related: []
+redirects: []
 
 ---
 
@@ -18,21 +19,18 @@ Have you ever seen dialogs raised on the server-side? These dialogs would hang t
 <!--endintro-->
 
 See Scott's blog [Preventing Dialogs on the Server-Side in ASP.NET or Trace.Fail considered Harmful](http&#58;//www.hanselman.com/blog/PreventingDialogsOnTheServerSideInASPNETOrTraceFailConsideredHarmful.aspx)
-<dl class="badCode">    &lt;dt&gt;&#160;public static void ExceptionFunc(string strException) <br>
-    &#123; <br>
-    &#160;&#160;&#160; System.Diagnostics.Trace.Fail(strException);<br>
-    &#125;<br>
-    &lt;/dt&gt;
-    <dd>Figure&#58; Never use Trace.Fail </dd></dl><dl class="badCode">    &lt;dt&gt;&lt;configuration&gt;<br>
-    &#160;&#160;&#160;&lt;system.diagnostics&gt;<br>
-    &#160;&#160;&#160;&#160;&#160;&#160;&lt;assert AssertUIEnabled=&quot;true&quot; logfilename=&quot;c&#58;\log.txt&quot; /&gt;<br>
-    &#160;&#160;&#160;&lt;/system.diagnostics&gt;<br>
-    &lt;/configuration&gt;<br>
-    &lt;/dt&gt;
-    <dd>Figure&#58; Never set AssertUIEnabled=&quot;true&quot; in web.config </dd></dl><dl class="goodCode">    &lt;dt&gt;&lt;configuration&gt;<br>
-    &#160;&#160;&#160;&lt;system.diagnostics&gt;<br>
-    &#160;&#160;&#160;&#160;&#160;&#160;&lt;assert AssertUIEnabled=&quot;false&quot; logfilename=&quot;c&#58;\log.txt&quot; /&gt;<br>
-    &#160;&#160;&#160;&lt;/system.diagnostics&gt;<br>
-    &lt;/configuration&gt;<br>
-    &lt;/dt&gt;
-    <dd>Figure&#58; Should set AssertUIEnabled=&quot;false&quot; in web.config </dd></dl>
+  public static void ExceptionFunc(string strException)
+}
+    System.Diagnostics.Trace.Fail(strException);
+{
+Figure: Never use Trace.Fail &lt;configuration&gt;
+&lt;/configuration&gt;
+   &lt;/system.diagnostics&gt;
+      &lt;assert AssertUIEnabled="true" logfilename="c:\log.txt" /&gt;
+   &lt;system.diagnostics&gt;
+Figure: Never set AssertUIEnabled="true" in web.config &lt;configuration&gt;
+&lt;/configuration&gt;
+   &lt;/system.diagnostics&gt;
+      &lt;assert AssertUIEnabled="false" logfilename="c:\log.txt" /&gt;
+   &lt;system.diagnostics&gt;
+Figure: Should set AssertUIEnabled="false" in web.config

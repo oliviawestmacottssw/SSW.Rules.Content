@@ -11,6 +11,7 @@ authors:
 - id: 20
   title: Rebecca Liu
 related: []
+redirects: []
 
 ---
 
@@ -19,7 +20,8 @@ There are different ways to align your form labels and each has its own pros and
 <!--endintro-->
 
 ### Top aligned
-<dl class="image">&lt;dt&gt;<img src="label-top-aligned.png" alt="label-top-aligned.png">&lt;/dt&gt;</dl>
+
+![](label-top-aligned.png)
 
 ::: good
 Pros:
@@ -47,7 +49,8 @@ Cons:
 
 ### Left aligned
 
-<dl class="image">&lt;dt&gt;<img src="label-left-aligned.png" alt="label-left-aligned.png">&lt;/dt&gt;</dl>
+
+![](label-left-aligned.png)
 
 ::: good
 Pros
@@ -73,7 +76,8 @@ Cons
 
 
 ### Right aligned
-<dl class="image">&lt;dt&gt;<img src="label-right-aligned.png" alt="label-right-aligned.png">&lt;/dt&gt;</dl>
+
+![](label-right-aligned.png)
 
 ::: good
 Pros
@@ -101,7 +105,8 @@ Cons
 
 Alternatively, we can use Material labeling which places them inside the form and slides up on focus.
 
-<dl class="image">&lt;dt&gt;<img src="label-material-labeling.png" alt="label-material-labeling.png">&lt;/dt&gt;</dl>
+
+![](label-material-labeling.png)
 
 ::: good
 Pros

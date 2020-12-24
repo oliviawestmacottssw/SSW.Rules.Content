@@ -9,10 +9,15 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 A relevant featured image is a great way to add a splash of color to your blog and make your content visually appealing.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="blog-no-feat-image.jpg" alt="blog-no-feat-image.jpg">&lt;/dt&gt;<dd>Figure: Bad Example – the content might be interesting but it is not very appealing</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="blog-with-feat-image.jpg" alt="blog-with-feat-image.jpg">&lt;/dt&gt;<dd>Figure: Good Example – the content is more appealing</dd></dl>
+
+[[badExample]]
+| ![the content might be interesting but it is not very appealing](blog-no-feat-image.jpg)
+[[goodExample]]
+| ![the content is more appealing](blog-with-feat-image.jpg)

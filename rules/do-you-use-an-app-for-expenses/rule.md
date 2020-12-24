@@ -11,6 +11,7 @@ authors:
 - id: 62
   title: Penny Walker
 related: []
+redirects: []
 
 ---
 
@@ -101,4 +102,5 @@ Figure: Good Example – Hubdoc is free with Xero
 
 :::
 
-<dl class="goodImage"><p class="ssw15-rteElement-P">For better results claiming your receipts, please read <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=48a3a405-7156-4a01-8a4f-a4cd6c82717c">Do you know how to enter a Hubdoc receipt?</a><br></p><p class="ssw15-rteElement-P"><br><br></p></dl>
+
+For better results claiming your receipts, please read [Do you know how to enter a Hubdoc receipt?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=48a3a405-7156-4a01-8a4f-a4cd6c82717c)

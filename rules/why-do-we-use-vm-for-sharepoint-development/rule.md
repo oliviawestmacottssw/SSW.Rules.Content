@@ -12,6 +12,7 @@ authors:
   title: John Liu
 related:
 - do-you-know-how-to-use-sharepoint-search
+redirects: []
 
 ---
 

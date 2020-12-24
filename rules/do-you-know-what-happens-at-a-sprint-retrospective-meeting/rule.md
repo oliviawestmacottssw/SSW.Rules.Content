@@ -7,6 +7,7 @@ uri: do-you-know-what-happens-at-a-sprint-retrospective-meeting
 created: 2010-05-06T03:18:17.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -45,11 +46,11 @@ To help aid discussion it can be useful for the Scrum Master to prepare items fo
 
 
 For example the Scrum Master can find PBIs (Product Backlog Items) in the Sprint that were successful / not successful and then facilitate the discussion as to why.
-<dl class="image">&lt;dt&gt;<img src="retrospective-meeting-1.jpg" alt=""> &lt;/dt&gt;
-<dd>Figure: The Scrum Master can inspect the Sprint Backlog for items which are Not Done at the end of a Sprint</dd></dl><dl class="image">&lt;dt&gt;<img src="retrospective-meeting-2.jpg" alt=""> &lt;/dt&gt;
-<dd>Figure: The Scrum Master can inspect the team’s velocity over multiple Sprints</dd></dl><dl class="image">&lt;dt&gt;<img src="retrospective-meeting-3.jpg" alt=""> &lt;/dt&gt;
-<dd>Figure: The Scrum Master can inspect the team’s Sprint Burndown for insight into how work progressed through the Sprint</dd></dl><dl class="image">&lt;dt&gt;<img src="retrospective-meeting-4.jpg" alt=""> &lt;/dt&gt;
-<dd>Figure: The Scrum Master can inspect the team’s Code Coverage to for an insight into code quality</dd></dl>
+
+![The Scrum Master can inspect the Sprint Backlog for items which are Not Done at the end of a Sprint](retrospective-meeting-1.jpg)
+![The Scrum Master can inspect the team’s velocity over multiple Sprints](retrospective-meeting-2.jpg)
+![The Scrum Master can inspect the team’s Sprint Burndown for insight into how work progressed through the Sprint](retrospective-meeting-3.jpg)
+![The Scrum Master can inspect the team’s Code Coverage to for an insight into code quality](retrospective-meeting-4.jpg)
 Once all issues have been discussed to the satisfaction of The Scrum Team, the meeting concludes.
 
  If the timebox limit is reached, the remaining issues should be recorded and dealt with by the Scrum Master.  Any outstanding issues must be raised at the next Retrospective if they are still relevant.

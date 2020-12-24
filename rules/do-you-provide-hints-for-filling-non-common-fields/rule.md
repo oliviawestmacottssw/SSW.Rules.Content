@@ -11,12 +11,13 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
 If you have form fields that require some further information, you can provide a hints column next to the fields so users know what the purpose of the data is.
 
 <!--endintro-->
-<dl class="goodImage">&lt;dt&gt; 
-      <img src="field-hints.jpg" alt="field hints">
-   &lt;/dt&gt;<dd> Figure: Good example - Field hints can make the user more comfortable</dd></dl>
+
+[[goodExample]]
+| ![Field hints can make the user more comfortable](field-hints.jpg)

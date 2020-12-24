@@ -15,6 +15,7 @@ authors:
 - id: 6
   title: Tristan Kurniawan
 related: []
+redirects: []
 
 ---
 
@@ -31,6 +32,5 @@ Tip: You can solve this with TFS Extranet Support:
 
 Yes Port 8080 will work in most cases but not on the strictest networks, where only Port 80 is allowed.     
 Then you have to use port forwarding via a firewall/router rule (recommended) to forward port 80 to the TFS port, while in this way, you would lose the TFS SharePoint Portal and Reporting Services.
-<dl>&lt;dt&gt;
-      <img alt="Rule to forward port 80 to the TFS port" src="tfs-firewall-rule-80.gif" width="681" height="339">
-   &lt;/dt&gt;<dd>Figure: Rule to forward port 80 to the TFS port </dd></dl>
+
+![Rule to forward port 80 to the TFS port](tfs-firewall-rule-80.gif)

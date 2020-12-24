@@ -11,6 +11,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -33,9 +34,8 @@ E.g. the account manager or project manager
 
 :::
 
-<dl class="image">&lt;dt&gt;
-            <img src="old-phone-connection.jpg" alt="old-phone-connection.jpg">
-         &lt;/dt&gt;<dd>Figure: Conference in another person to solve the problem - it's a lot easier than it used to be<br></dd></dl>
+
+![Conference in another person to solve the problem - it's a lot easier than it used to be](old-phone-connection.jpg)
 4. Follow up the proposed solution in writing
 
 

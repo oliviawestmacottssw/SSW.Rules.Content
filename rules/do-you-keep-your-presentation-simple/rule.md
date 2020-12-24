@@ -7,6 +7,7 @@ uri: do-you-keep-your-presentation-simple
 created: 2010-06-08T10:02:40.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

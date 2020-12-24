@@ -9,6 +9,7 @@ authors:
 - id: 73
   title: Kaique Biancatti
 related: []
+redirects: []
 
 ---
 
@@ -22,5 +23,7 @@ AAD PHS synchronizes the password in on-premises AD with AAD so you can use your
 AAD PHS also allows you to have an absolute lean infrastructure on-premises, as the only needed moving part is Azure AD Connect Sync to be installed in a server or Domain Controller. No agents or internet-facing machines necessary.
 
 The web requests don't even come to your server, they are server by Microsoft's big pool of servers around the globe!
-<dl class="goodImage">&lt;dt&gt;<img src="aad-phs.png" alt="aad-phs.png">&lt;/dt&gt;<dd>Figure: Good Example – AAD PHS infrastructure workflow</dd></dl>
+
+[[goodExample]]
+| ![AAD PHS infrastructure workflow](aad-phs.png)
 You can check out a deep dive of AAD PHS in official Microsoft documentation at [What is password hash synchronization with Azure AD?](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-phs)

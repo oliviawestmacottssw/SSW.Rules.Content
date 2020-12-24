@@ -9,13 +9,15 @@ authors:
 - id: 46
   title: Danijel Malik
 related: []
+redirects: []
 
 ---
 
 When migrating from TFS to the cloud you will find that a list of historical users may be quite long.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="old-employees-to-the-cloud.jpg" alt="old-employees-to-the-cloud.jpg"><span style="color:#555555;font-size:0.9rem;font-weight:bold;">Figure: TFS Identity Mapping</span>&lt;/dt&gt;</dl>
+
+![TFS Identity Mapping](old-employees-to-the-cloud.jpg)
 Many of these users are likely to be gone but they are preserved in TFS for historical purposes. What are you going to do with them? 
 **A)** All account stays active (total 700 in AD) – this is a hard one because you need to bring all accounts in Azure AD and generally you don’t need those users
 **B)** Old employees are carried over as phantom  (so only 40 are migrated) – Recommended because you will still see the history but not those accounts are not active anymore

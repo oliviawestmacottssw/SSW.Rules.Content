@@ -7,14 +7,15 @@ uri: do-you-visually-indicate-the-page-you-are-at-on-the-menu-aka-active-state
 created: 2015-02-16T01:43:42.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
 The active menu item should stand out from the others. This way you make it easy for users to know where they are at in the website.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt; 
-      <img src="../../assets/active-state-bad.jpg" alt="" style="margin:5px;">
-   &lt;/dt&gt;<dd>Figure: Bad Example – you can't tell where you are in the site</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img src="../../assets/active-state-good.jpg" alt="" style="margin:5px;">
-   &lt;/dt&gt;<dd>Figure: Good Example – it’s easy to see where you are at </dd></dl>
+
+[[badExample]]
+| ![you can't tell where you are in the site](../../assets/active-state-bad.jpg)
+[[goodExample]]
+| ![it’s easy to see where you are at](../../assets/active-state-good.jpg)

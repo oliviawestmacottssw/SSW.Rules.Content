@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -23,5 +24,6 @@ Most software is deployed without any mechanism to insert a message in older sof
 Messages might range from helpful tips that are undiscovered that would help a user do their job better?
 Or helpful to remind old customers to get off their old version. 
 Eg. Sometimes customers are just not aware that their TFS or CRM installation is years old?
-<dl class="badImage">&lt;dt&gt;
-      <img src="uptodate-message-bad.jpg" alt="uptodate-message-bad.jpg"><br>&lt;/dt&gt;<dd>Figure: Bad example</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="uptodate-message-good.jpg" alt="uptodate-message-good.jpg">&lt;/dt&gt;<dd>Figure: Good example</dd></dl>
+
+![Bad example](uptodate-message-bad.jpg)
+![Good example](uptodate-message-good.jpg)

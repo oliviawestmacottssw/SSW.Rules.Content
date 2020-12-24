@@ -9,6 +9,7 @@ authors:
 - id: 62
   title: Penny Walker
 related: []
+redirects: []
 
 ---
 
@@ -22,4 +23,5 @@ A good mission statement can help in three main ways:
 * It provides a means of evaluating and screening your marketing plan; e.g. are your daily marketing decisions consistent with the overall mission
 * It provides an incentive to implement the marketing plan, and keep updating and improving it
 
-<dl class="image">&lt;dt&gt;<img src="mission-statement.png" alt="mission-statement.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: A clear business mission should include the purpose, value, standard behaviors, strategy, and scope of your business. Having these clearly defined allows your team to always be pushing your overall goals<br></dd></dl>
+
+![A clear business mission should include the purpose, value, standard behaviors, strategy, and scope of your business. Having these clearly defined allows your team to always be pushing your overall goals](mission-statement.png)

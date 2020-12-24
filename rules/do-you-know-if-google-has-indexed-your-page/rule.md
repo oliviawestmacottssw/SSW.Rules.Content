@@ -11,6 +11,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -19,14 +20,13 @@ First things first. Check if your web page has been indexed by Google. Don't be 
 <!--endintro-->
 
 If you can't find it, go to [Google's Search Console](https://www.google.com/webmasters/tools/submit-url) and submit your URL.
-<dl class="image">&lt;dt&gt;
-   <img src="sending-url-to-google.jpg" alt="sending-url-to-google.jpg">&lt;/dt&gt;<dd>Figure: Sending a website to Google</dd></dl>
+
+![Sending a website to Google](sending-url-to-google.jpg)
 **Note:** Internal pages should be crawled automatically, so you only need to inform the root of the site.
 
 ### WordPress <br>   
 
 
 If your website is built on WordPress, make sure you have unselected the "Discourage search engines from indexing this site" option. This can be found under      **Reading Settings** :
-<dl class="image">&lt;dt&gt;
-      <img src="wordpress-search-engines.jpg" alt="wordpress-search-engines">
-   &lt;/dt&gt;<dd>Figure: WordPress has an out-of-the-box functionality to discourage search engines to show the site</dd></dl>
+
+![WordPress has an out-of-the-box functionality to discourage search engines to show the site](wordpress-search-engines.jpg)

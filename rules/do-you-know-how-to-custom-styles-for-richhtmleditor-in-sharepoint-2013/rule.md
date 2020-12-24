@@ -11,6 +11,7 @@ authors:
 - id: 34
   title: Brendan Richards
 related: []
+redirects: []
 
 ---
 
@@ -23,7 +24,8 @@ This rule outlines how to use custom styles in the SharePoint  RichHTMLEditor.
 
 
 In SharePoint, we can use the below way to apply custom styles:
-<dl class="ssw15-rteElement-ImageArea"><img src="CustomStylesInSharePoint.png" alt="CustomStylesInSharePoint.png" style="margin:5px;"></dl> **Figure: custom RichHtmlEditor styles give your content editors a visual preview of your custom styles
+
+![custom RichHtmlEditor styles give your content editors a visual preview of your custom styles](CustomStylesInSharePoint.png)
 ** 
 
 
@@ -36,13 +38,13 @@ To do this:
 
 
 
-<SSW:ParsedRichHtmlField  **PrefixStyleSheet="ssw15-rte"** CssClass="ssw-inputeditorfield" id="Content" FieldName="PublishingPageContent" InputFieldLabel="Rule Summary Info" runat="server"/>
+<> **PrefixStyleSheet="ssw15-rte"** CssClass="ssw-inputeditorfield" id="Content" FieldName="PublishingPageContent" InputFieldLabel="Rule Summary Info" runat="server"/>
 
 
 
 2. Refer an additional css file in the page layout or master page (apply to display mode content).
 
-<sharepointwebcontrols:cssregistration id="CssRegistration3" name=" <strong>Themable/ssw.core.styles.v15.css</strong> " runat="server" enablecsstheming="True"></sharepointwebcontrols:cssregistration>
+<sharepointwebcontrols:cssregistration id="CssRegistration3" =""="" name=" <strong>Themable/ssw.core.styles.v15.css</strong> " runat="server" enablecsstheming="True"></sharepointwebcontrols:cssregistration>
 
 />
 
@@ -58,7 +60,7 @@ To do this:
 
 <font class="Apple-tab-span" style="white-space:pre;">   </font> After="<% $SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/pagelayouts15.css %>" runat="server"/>
 
-<sharepointwebcontrols:cssregistration id="CssRegistration3" name=" <strong>Themable/ssw.core.styles.v15.css</strong> " runat="server" enablecsstheming="True"></sharepointwebcontrols:cssregistration>
+<sharepointwebcontrols:cssregistration id="CssRegistration3" =""="" name=" <strong>Themable/ssw.core.styles.v15.css</strong> " runat="server" enablecsstheming="True"></sharepointwebcontrols:cssregistration>
 
 **After** ="<%$SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/ <strong>editmode15.css</strong> %>" />
 
@@ -113,7 +115,8 @@ P.ssw15-rteElement-CodeArea
 }
 
 This  **Code Area** style will come up in "Page Elements" section:
-<dl class="ssw15-rteElement-ImageArea"><img src="CodeArea.png" alt="CodeArea.png" style="margin:5px;"></dl> **Figure: Code Area style come up in "Page Elements" seciton** 
+
+![Code Area style come up in "Page Elements" seciton](CodeArea.png)
 
 
 While applying a "Page Elements" style, it will
@@ -141,13 +144,19 @@ Its html code will change
 
 
 from
-<dl class="ssw15-rteElement-ImageArea"><img src="page_element_p.png" alt="page_element_p.png" style="margin:5px;width:650px;"></dl>
 
-<dd class="ssw15-rteElement-FigureNormal">Figure: "Code Area style" with parent element <p></p></dd>
+!["Code Area style" with parent element](page_element_p.png)
+
+
 
 
 to
-<dl class="ssw15-rteElement-ImageArea"><img src="page_element_dd.png" alt="page_element_dd.png" style="margin:5px;width:650px;"></dl><dl class="ssw15-rteElement-ImageArea"><span style="color:#555555;font-size:11px;font-weight:bold;">Figure: "Good Figure style" changed the parent element from <p> to <dd></dd></p></span><br></dl><dl class="ssw15-rteElement-ImageArea"><br></dl>
+
+!["Good Figure style" changed the parent element from](page_element_dd.png)
+to
+
+
+
 
 
 3).ssw15-rte **Style -** this style could be applied to  **Text Styles** :
@@ -167,8 +176,10 @@ e.g.
 }
 
 This  **Highlight** style will come up in "Text Styles" section:
-<dl class="ssw15-rteElement-ImageArea"><img src="HighLight.png" alt="HighLight.png" style="margin:5px;"></dl> **Figure: Highlight style will come up in "Text Styles" section
-** <dl class="ssw15-rteElement-ImageArea"><br></dl>
+
+![Highlight style will come up in "Text Styles" section](HighLight.png)
+** 
+
 While applying a "Text Styles" style, it will
 
 

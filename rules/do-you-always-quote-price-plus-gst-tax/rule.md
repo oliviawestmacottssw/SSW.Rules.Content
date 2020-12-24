@@ -7,6 +7,7 @@ uri: do-you-always-quote-price-plus-gst-tax
 created: 2010-07-16T04:38:32.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -28,9 +29,7 @@ The reasons for this are:
 * The 10% GST charged to the client is not income for your company. In Australia, we collect this 10% on behalf of the Australian Taxation Office.
 * The client will receive back this 10% GST from the Australian Tax Office when they do their quarterly BAS/GST Return.
 
-<dl class="bad">    &lt;dt&gt;The total fixed price total is $AUD 66,000 - please find quote attached. &lt;/dt&gt;
-    <dd>Bad Example </dd></dl><dl class="good">    &lt;dt&gt;The total fixed price total is $AUD 60,000 + GST (10%). Please find quote attached. &lt;/dt&gt;
-    <dd>Good Example </dd></dl>
+ The total fixed price total is $AUD 66,000 - please find quote attached.Bad Example The total fixed price total is $AUD 60,000 + GST (10%). Please find quote attached.Good Example 
 **Note** : SSW and other Australian companies do not charge GST to external clients outside of Australia.
 
 While you are writing out a quote, make sure [you know when to use a round or exact figure](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&amp;TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&amp;TermId=b2c96952-bfc1-440f-af5f-ec26fcc36002).

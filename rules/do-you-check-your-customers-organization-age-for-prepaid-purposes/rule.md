@@ -7,6 +7,7 @@ uri: do-you-check-your-customers-organization-age-for-prepaid-purposes
 created: 2020-08-07T01:17:27.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -22,7 +23,10 @@ It is also highly recommended to invoice customers, who have been in existence f
 To do so, follow these steps:
 
 1. Navigate to ASIC Company search page above and change the filters to 'Organisation & Business Names'. Enter the customer's name or ABN number    
-<dl class="image">&lt;dt&gt;<img src="2020-08-07_11-42-16.png" alt="2020-08-07_11-42-16.png" style="width:750px;margin:5px;">&lt;/dt&gt;</dl>
-2. Select the appropriate company<dl class="image">&lt;dt&gt;<img src="2020-08-07_11-48-14.png" alt="2020-08-07_11-48-14.png" style="width:750px;margin:5px;">&lt;/dt&gt;</dl>
-3. Review the registration date or alternatively, purchase a $9 company extract which provides the same details on the free page with some additional information (however irrelevant for prepaid purposes)<dl class="image">&lt;dt&gt;<img src="2020-08-07_11-56-41 655.png" alt="2020-08-07_11-56-41 655.png" style="width:750px;margin:5px;"><br>&lt;/dt&gt;</dl>
+
+![](2020-08-07_11-42-16.png)
+2. Select the appropriate company
+![](2020-08-07_11-48-14.png)
+3. Review the registration date or alternatively, purchase a $9 company extract which provides the same details on the free page with some additional information (however irrelevant for prepaid purposes)
+![](2020-08-07_11-56-41 655.png)
 4. Should the registration date be less than 2 years old, ensure that the message is pushed across to the state managers so they can push towards invoicing on a prepaid basis wherever possible.

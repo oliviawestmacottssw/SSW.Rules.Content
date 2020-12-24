@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -67,7 +68,7 @@ End Sub
 
 
 ::: good
- Good code 
+Good code
 :::
 
 

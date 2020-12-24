@@ -7,6 +7,7 @@ uri: do-you-organize-your-product-information-on-your-website-appropriately
 created: 2015-02-13T02:37:24.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -37,7 +38,8 @@ The way you present information to prospective clients determines its effectiven
 
 
 
-<dl class="ssw15-rteElement-ImageArea">   <img border="1" alt="Organize your product information" src="../../assets/ScreenCodeAuditor.jpg" style="margin:5px;"> </dl>
+
+![](../../assets/ScreenCodeAuditor.jpg)
 
 ::: good
 Figure: How to organize your product information.

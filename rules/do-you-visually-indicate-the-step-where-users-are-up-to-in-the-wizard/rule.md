@@ -7,6 +7,7 @@ uri: do-you-visually-indicate-the-step-where-users-are-up-to-in-the-wizard
 created: 2014-12-01T03:53:49.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -15,8 +16,8 @@ In a wizard, a visual indication about the progress should be  provided so users
 A good way to do this is use a left navigation bar with  **bold** on the step they are currently at.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt; 
-      <img alt="Microsoft FrontPage - Corporate Presence Web Wizard" src="../../assets/FrontPageWizard.gif" style="margin:5px;"> 
-   &lt;/dt&gt;<dd>Figure: Bad Example - The progress bar does not indicate completed nor next steps</dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img alt="Good Wizard example" src="../../assets/Wizard_1.jpg" style="margin:5px;">
-   &lt;/dt&gt;<dd>Figure: Good Example - This wizard form shows all steps and indicates where the user is up to</dd></dl>
+
+[[badExample]]
+| ![The progress bar does not indicate completed nor next steps](../../assets/FrontPageWizard.gif)
+[[goodExample]]
+| ![This wizard form shows all steps and indicates where the user is up to](../../assets/Wizard_1.jpg)

@@ -18,6 +18,7 @@ related:
 - do-you-add-end-screen-to-your-youtube-videos
 - do-you-add-time-links-on-your-youtube-videos
 - do-you-follow-image-standard-sizes-on-social-media
+redirects: []
 
 ---
 

@@ -7,6 +7,7 @@ uri: do-you-have-a-way-of-selling-tickets
 created: 2014-12-31T00:16:25.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

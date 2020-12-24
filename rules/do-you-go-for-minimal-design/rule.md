@@ -7,6 +7,7 @@ uri: do-you-go-for-minimal-design
 created: 2015-02-13T01:31:56.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -15,7 +16,8 @@ Not only do we try to keep our designs clean and simple without too many images,
 <!--endintro-->
 
 
-<dl class="image">&lt;dt&gt;<img src="../../assets/MinimalDesignImage.jpg" alt="" style="margin:5px;">&lt;/dt&gt;<dd>Figure: Testimonials as displayed on SSW's About Us page</dd></dl>
+
+![Testimonials as displayed on SSW's About Us page](../../assets/MinimalDesignImage.jpg)
 Web minimalism and simplicity means emphasizing what is essential and important           to your readers. Remove every non-essential or unimportant element. Readers only           have so much attention to give, if you present them with less they will have more           attention to give to each element.
 
 ### Benefits of Simple Design

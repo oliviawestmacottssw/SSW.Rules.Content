@@ -9,6 +9,7 @@ authors:
 - id: 21
   title: Matthew Hodgkins
 related: []
+redirects: []
 
 ---
 
@@ -20,8 +21,21 @@ When formatting a new virtual disk you have attached to a Hyper-V Virtual Machin
 
 
 ![](basicvolumes-badexample.jpg)
-<font class="ms-rteCustom-FigureBad">Figure: Bad Example - DPM cannot backup this Virtual Machine's child state as it has a Dynamic Disk<br></font>
+
+
+::: bad
+Figure: Bad Example - DPM cannot backup this Virtual Machine's child state as it has a Dynamic Disk
+
+:::
+
+
 
 ![](basicvolumes-goodexample.jpg)
-<font class="ms-rteCustom-FigureGood">Good example – Using Basic Volumes allows DPM to backup the Virtual Machine’s child state</font>
+
+
+::: good
+Good example – Using Basic Volumes allows DPM to backup the Virtual Machine’s child state
+:::
+
+
 <!--endintro-->

@@ -7,6 +7,7 @@ uri: do-you-keep-your-finance-manager-in-the-loop
 created: 2015-04-28T05:13:51.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

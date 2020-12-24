@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -16,6 +17,6 @@ Text files created on DOS/Windows machines have different line endings than file
 
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="carriage-bad.jpg" alt="carriage-bad.jpg">&lt;/dt&gt;<dd>Figure: Bad example</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img src="carriage-good.jpg" alt="carriage-good.jpg"> 
-   &lt;/dt&gt;<dd>Figure: Good example<span style="color:#444444;"></span></dd></dl>
+
+![Bad example](carriage-bad.jpg)
+![Good example](carriage-good.jpg)

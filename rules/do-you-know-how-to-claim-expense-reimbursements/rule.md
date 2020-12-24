@@ -9,6 +9,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -33,7 +34,7 @@ All expense claims must:
 
 
 ::: greybox
-**Tip:** If necessary, you can use the Google Translate app to translate your receipts by taking a photo!  
+ **Tip:** If necessary, you can use the Google Translate app to translate your receipts by taking a photo!  
 
 :::
 

@@ -9,6 +9,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -17,6 +18,6 @@ If your descriptions have good comments then you don't need to go back to paperw
 e.g.  The period the invoice relates to.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img alt="memo field bad example" src="memo-field-bad.jpg">
-&lt;/dt&gt;<dd>Figure: Bad Example</dd></dl><dl class="goodImage">&lt;dt&gt;<img alt="memo field good example" src="memo-field-good.jpg">
-&lt;/dt&gt;<dd>Figure: Good Example</dd></dl>
+
+![Bad Example](memo-field-bad.jpg)
+![Good Example](memo-field-good.jpg)

@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -21,10 +22,11 @@ The  **&lt;title&gt;** ,  **
 ** tags need to be descriptive. They should briefly describe the purpose or content of the page. Have a look at the following two images. The first image is a bad example as the title bar and page heading are not very descriptive. The second image is a better example as title bar and page heading are more informative.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;
-   <img src="bad-title-headings.png" alt="bad-title-headings.png">&lt;/dt&gt;<dd>Figure: Bad Example - non-descriptive title/headings</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img src="good-title-headings.png" alt="good-title-headings.png"> 
-   &lt;/dt&gt;<dd>Figure: Good Example - descriptive title/headings</dd></dl>
+
+[[badExample]]
+| ![non-descriptive title/headings](bad-title-headings.png)
+[[goodExample]]
+| ![descriptive title/headings](good-title-headings.png)
 We have a program called     [SSW Code Auditor](http://codeauditor.com/) to check for this rule.
 
 We have a program called     [SSW Link Auditor](https://sswlinkauditor.com/) to check for this rule.

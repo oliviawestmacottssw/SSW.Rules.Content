@@ -9,6 +9,7 @@ authors:
 - id: 11
   title: Andy Taslim
 related: []
+redirects: []
 
 ---
 
@@ -18,9 +19,21 @@ Every application has different settings depending on the environment it is runn
 
 ![](AppConfigBad.jpg)
 
-<font class="ms-rteCustom-FigureBad">Figure: Bad Example - Only 1 App.config provided</font>
+
+
+::: bad
+Figure: Bad Example - Only 1 App.config provided
+:::
+
+
 
 ![](App.config.jpg)
 
-<font class="ms-rteCustom-FigureGood">Figure : Good Example - Several App.config are provided</font>
+
+
+::: good
+Figure : Good Example - Several App.config are provided
+:::
+
+
 <!--endintro-->

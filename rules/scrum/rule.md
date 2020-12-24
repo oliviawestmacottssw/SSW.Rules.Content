@@ -3,12 +3,13 @@ type: rule
 archivedreason: 
 title: 方法论 - 你是否每日进行Scrum会议（站立会议）
 guid: a259e78a-7ff3-4688-abac-382283d08285
-uri: 'scrum'
+uri: scrum
 created: 2012-03-05T07:14:24.0000000Z
 authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -22,7 +23,7 @@ related: []
 1.  昨天做了什么？（你是否更新了TFS/其它任务跟踪系统的工作项？）
 
 2. 你今天要做什么？（我当前的任务已经在白板上了）
- 
+
 3. 你是否碰到困难？
 
 向团队中的每个成员问这些问题意思是没有人可以逃避，每个人都互相关联。更重要的是，你可以了解到哪些任务是完成的，哪些任务是正在进行的。这样可以让团队尽快发现问题并且赶上进度。团队的成功或失败是大家共享的，知道如何解决他人问题的成员都可以提出解决方案。
@@ -55,7 +56,7 @@ related: []
 <div><span><font color="#3a66cc"><a href="/Pages/DailyStandUpScrum.aspx">http://rules.ssw.com.au/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx</a></font></span></div>
 <div><span><br></span></div>
 <div>谢谢,</div>
- <strong><scrum master=""></scrum></strong> </font> 
+ <strong><scrum master="">  </scrum></strong> </font> 
 
 示例：在Outlook中设置每日Scrum会议预约模板
 
@@ -113,14 +114,28 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 使用Skype或者Lync解决地域隔离问题
 
 
-<font class="ms-rteCustom-FigureNormal"><blockquote class="ms-rteCustom-GreyBox"><p><span style="font-weight:normal;"> <strong>关注流动</strong> </span></p>
-<p>“将这条规则扩展到‘价值的流动’，而不仅仅是人。保持着一个持续化流动的理念在脑海中，Scrum会议将会更少的关注人....<br>它是关注于价值的流动的。团队站在白板前，每个人浏览那些‘正在进行中’的工作项，试着找出推进它能进入到下一个阶段的方法...同时要考虑到工作项相互之间的约束。”</p>
-<p class="ms-rteCustom-FigureNormal"><span style="font-weight:normal;"></span><span style="font-weight:normal;"><a href="http://joelfromcanada.com/">Joel Semeniuk</a></span></p>
-<p> </p>
-</blockquote>
-<p class="ms-rteCustom-FigureNormal"><span style="line-height:15pt;font-size:small;"></span><span style="line-height:15pt;font-size:small;"></span><span style="line-height:15pt;font-size:small;">更</span><span style="line-height:15pt;font-size:small;">多</span><span style="line-height:15pt;font-size:small;">的信息：</span><span style="line-height:15pt;font-size:small;"></span></p>
-<span></span><p><span lang="ZH-CN">1. 如果你的任务都做完了怎么办？<br></span><span lang="ZH-CN">为了提高一天</span><span>8</span><span lang="ZH-CN">个小时的效率，要</span><span lang="ZH-CN">与其它开发人员沟通，与他们一起完成其他任务。如果没有任何任务了，就从</span><span>“迭代任务表”</span><span lang="ZH-CN">中取出优先级最高的的一条任务</span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN">。</span></p>
-<span></span><span></span><p><span lang="ZH-CN">2. 如果发生了重大事故怎么办？<br></span><span lang="ZH-CN">优先处理重大事故是很重要的，处理所有在</span><span>24</span><span lang="ZH-CN">小时内发生的重大事件。</span><span></span> <b><span style="font-family:verdana, sans-serif;font-size:9pt;"></span></b> </p>
-<p class="MsoNormal" style="line-height:15pt;font-size:small;"><span lang="ZH-CN"><img class="ms-rteCustom-ImageArea" src="NewStandUpImage.jpg" alt="" style="line-height:18px;font-size:12px;font-weight:bold;"></span> </p>
-<p class="ssw-rteStyle-FigureNormal"><span lang="ZH-CN"></span><span>图：</span><span lang="ZH-CN">如果有重大事故发生，每日Scrum会议可以提醒每个人并且集中所有的资源到一个问题上。如果一把尖刀插进了你的眼睛，而你却给擦伤的膝盖贴创可贴是没有任何意义的。</span></p>
-<span class="ssw-rteStyle-FigureNormal"><img class="ms-rteCustom-ImageArea" alt="dailyscrumtweet.png" src="dailyscrumtweet.png" style="line-height:20px;margin-left:5px;margin-right:5px;"><span style="line-height:20px;"></span><br style="line-height:20px;"><span style="line-height:20px;">图：喜欢请转发  </span><a href="https://twitter.com/#%21/AdamCogan/status/168175594209681408" style="line-height:20px;">https://twitter.com/#!/AdamCogan/status/168175594209681408</a><span style="line-height:20px;"> </span></span></font>
+**
+
+> 关注流动
+> 
+> “将这条规则扩展到‘价值的流动’，而不仅仅是人。保持着一个持续化流动的理念在脑海中，Scrum会议将会更少的关注人....
+> 它是关注于价值的流动的。团队站在白板前，每个人浏览那些‘正在进行中’的工作项，试着找出推进它能进入到下一个阶段的方法...同时要考虑到工作项相互之间的约束。”
+> 
+> [Joel Semeniuk](http://joelfromcanada.com/)
+
+
+更多的信息：
+
+1. 如果你的任务都做完了怎么办？
+为了提高一天8个小时的效率，要与其它开发人员沟通，与他们一起完成其他任务。如果没有任何任务了，就从“迭代任务表”中取出优先级最高的的一条任务。
+
+2. 如果发生了重大事故怎么办？
+优先处理重大事故是很重要的，处理所有在24小时内发生的重大事件。
+
+
+![](NewStandUpImage.jpg)
+
+图：如果有重大事故发生，每日Scrum会议可以提醒每个人并且集中所有的资源到一个问题上。如果一把尖刀插进了你的眼睛，而你却给擦伤的膝盖贴创可贴是没有任何意义的。
+
+![](dailyscrumtweet.png)
+图：喜欢请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https://twitter.com/#%21/AdamCogan/status/168175594209681408) **

@@ -13,6 +13,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -33,12 +34,17 @@ Once you have the template, follow these steps to create a customer portal with 
 1. Go to the root where you want to create a site. E.g. sharepoint.ssw.com.au
 2. <font size="2">Click "Site Actions" on right-hand top, select "Manage Content and Structure</font>
 
-<dl class="goodImage">&lt;dt&gt;<p> <img border="0" src="ManageContentAndStructure.jpg" alt="Manage Content and Structure" style="border-width:0px;border-style:solid;"></p>&lt;/dt&gt;&lt;dt&gt;&lt;/dt&gt;<dd>Figure: The first step to creating a 'Customer Portal' is to select 'Manage Content and Structure' to view site collection </dd></dl>
+
+
+![The first step to creating a 'Customer Portal' is to select 'Manage Content and Structure' to view site collection](ManageContentAndStructure.jpg)
 <font size="2">Once the new window opens, on the left-hand side, click on the 'Clients' dropdown select New -> Site. <br> </font> <font size="2"> <font color="#400040">Note: If you </font>don’t see this option, that means you don’t have permission to create the site.</font>
-<dl class="goodImage">&lt;dt&gt;<p> <img border="0" src="CreateNewSiteStep1.jpg" alt="Create New Site" style="border-width:0px;border-style:solid;"><br></p>&lt;/dt&gt;&lt;dt&gt;&lt;/dt&gt;<dd>Figure: Create new site </dd></dl>
+
+
+![Create new site](CreateNewSiteStep1.jpg)
 Now follow these steps when the new window opens fill in the fields below.
-<dl class="goodImage">&lt;dt&gt;<p>
-         <img border="0" src="CreateNewSiteStep2.jpg" alt="Info to create site" style="border-width:0px;border-style:solid;"> </p>&lt;/dt&gt;&lt;dt&gt;&lt;/dt&gt;<dd>Figure: Fill in the appropriate info then click "Create" </dd></dl>
+
+
+![Fill in the appropriate info then click "Create"](CreateNewSiteStep2.jpg)
 More Information:
 
 1. Fill in the fields for the new client site 
@@ -83,6 +89,8 @@ In this case, we are using 'create a new group' option because we want this grou
 Note: you can also access this through the "People and Group" option on "Site Action" link on right-hand top of the page if you need to manage permission in future.
 
 Click "OK", and the portal is created.
-<dl class="goodImage">&lt;dt&gt;<p>
-         <img border="0" src="Northwind Portal.jpg" alt="Northwind Portal" style="border-width:0px;border-style:solid;"><br></p>&lt;/dt&gt;&lt;dt&gt;&lt;/dt&gt;<dd>Figure: Northwind portal<br></dd></dl>
+
+
+![Northwind portal](Northwind Portal.jpg)
+
 Note: SharePoint will send "welcome email" to all the members of the groups you created for the site with basic information, but you still need to send an email to your customer with the login details like URL, username, and password.

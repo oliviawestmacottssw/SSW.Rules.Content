@@ -11,6 +11,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -26,40 +27,41 @@ We all know it’s important to keep our servers updated. Unfortunately though, 
 It is also one more reason developers don’t like to join a company domain on their personal laptops!
 
 
-<dl class="badImage">&lt;dt&gt; 
-      <img alt="Windows-Update-notification.png" src="Windows-Update-notification.png" style="width:750px;"> 
-   &lt;/dt&gt;<dd>Bad Example - Windows 10 shows a ‘Restart now’ – do not accidentally press it! Your production server and your users won't be happy!</dd></dl><dl class="badImage">&lt;dt&gt;<img src="updates-restart.jpg" alt="Accidently press Restart Now on a Production server and your users won't be happy!"> &lt;/dt&gt;<dd>Bad example – Remember this nasty one from Vista days?</dd></dl>
+
+![Example](Windows-Update-notification.png)Bad! Your production server and your users won't be happy!
+![](updates-restart.jpg)Bad example – Remember this nasty one from Vista days?
 **Note:** Server patching is also achievable via SCCM and you get more control over restarting windows like this. WSUS can also be used in conjunction with group policies to handle restart times better.
 
 The best ensure you are still downloading updates but not installing them automatically is to use Group Policy.
 
 1. Create an Organization Unit (OU) in Active Directory, and put all your Production Servers in the OU
-<dl class="image">&lt;dt&gt; 
-            <img src="updates-adou.jpg" alt="Add all your Production Servers to the Production Server OU"> 
-         &lt;/dt&gt;<dd>Add all your Production Servers to the Production Server OU</dd></dl>
+
+![](updates-adou.jpg)Add all your Production Servers to the Production Server OU
 2. Create a new Group Policy object and link it to the Production Server OU
-<dl class="image">&lt;dt&gt; 
-            <img src="updates-gpo.jpg" alt="Create a new Group Policy for your Production Servers"> 
-         &lt;/dt&gt;<dd>Create a new Group Policy for your Production Servers</dd></dl>
+
+![](updates-gpo.jpg)Create a new Group Policy for your Production Servers
 3. Edit the new Group Policy object and drill down to <br>       **Computer Configuration** | <br>       **Policies** | <br>       **Windows Components** | <br>       **Windows Update**
 4. Edit the <br>       **Configure Automatic Update Properties** item and <br>       **enable** it
 5. Set the <br>       **Configure Automatic Updating** option to <br>       **3 – Auto download and notify for install
-<dl class="image">&lt;dt&gt; 
-               <img src="updates-editgp.jpg" alt="Edit Configure Automatic Updates Properties and enable Auto download and notify for install"> 
-            &lt;/dt&gt;<dd>Edit Configure Automatic Updates Properties and enable 'Auto download and notify for install</dd></dl>**
+
+![](updates-editgp.jpg)Edit Configure Automatic Updates Properties and enable 'Auto download and notify for install**
 
 
 After the new Group Policy propagates, you will notice the update setting is now locked on the servers in the Production Server OU.
-<dl class="goodImage">&lt;dt&gt; 
-      <img src="updates-updatesforced.jpg" alt="The Group Policy locks the Windows Update setting"> 
-   &lt;/dt&gt;<dd>The Group Policy locks the Windows Update setting</dd></dl>
+
+![](updates-updatesforced.jpg)The Group Policy locks the Windows Update setting
 
 
 From now on your servers will be updated without unplanned reboots!
-<dl class="image">&lt;dt&gt; 
-      <img src="Default domain policy1.png" alt="Default domain policy1.png">
-   &lt;/dt&gt;<br><br>::: good<br>     Figure: Good example - AD shows the Group Policy setting “3 – Auto download and notify for install”. This policy is applied to the specified OU eg. Production Servers joined to this domain 
-      <br><br>:::<br><br></dl>
+
+![](Default domain policy1.png)
+
+:::
+
+Figure: Good example - AD shows the Group Policy setting “3 – Auto download and notify for install”. This policy is applied to the specified OU eg. Production Servers joined to this domain
+::: good
+
+
 
 
 ###  Related Rules

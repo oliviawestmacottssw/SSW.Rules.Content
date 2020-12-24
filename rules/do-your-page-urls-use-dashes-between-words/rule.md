@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -29,8 +30,8 @@ There are a few options for how you format the text of a URL. The following sugg
 ### More info
 
 You can install the IIS [URL Rewrite Module](http://learn.iis.net/page.aspx/460/using-the-url-rewrite-module/) for IIS7 you can make ugly URL's much more friendly.
-<dl class="image">&lt;dt&gt;
-                        <img src="friendly-url-rule.jpg" alt="Rewrite the HTML">&lt;/dt&gt;<dd>Figure: Rewrite both the HTML in the page and the incoming URL's to be friendly </dd></dl>
+
+![Rewrite both the HTML in the page and the incoming URL's to be friendly](friendly-url-rule.jpg)
 The caveat here is that it will only work if the URL is in the clear on the page.
 
 **Note:** This could only be done with certain links as others are postbacks as well.

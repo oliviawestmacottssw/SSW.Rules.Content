@@ -7,6 +7,7 @@ uri: do-you-know-the-difference-between-a-brief-proposal-and-a-specification-rev
 created: 2010-07-16T02:42:14.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

@@ -13,6 +13,7 @@ authors:
 - id: 70
   title: Greg Harris
 related: []
+redirects: []
 
 ---
 
@@ -146,7 +147,7 @@ $ - The base version is free for everyone else
 
 
 ::: good
-$ - The full version is free for open-source communities. 
+$ - The full version is free for open-source communities.
 :::
 
 

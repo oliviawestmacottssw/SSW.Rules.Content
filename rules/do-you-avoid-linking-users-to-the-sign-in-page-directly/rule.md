@@ -7,6 +7,7 @@ uri: do-you-avoid-linking-users-to-the-sign-in-page-directly
 created: 2015-02-16T02:57:35.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -15,8 +16,8 @@ When you are adding a hyperlink which links to a web       application that requ
 Thus, if a user is already logged in, he will go to the       default page. If not, the                                          page will redirect him to the login page. But if you use the       sign in page, the user has to sign in again though he's       already logged in.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;
-      <img alt="Bad" src="../../assets/BadNoUseLogin.GIF" style="margin:5px;">
-   &lt;/dt&gt;<dd>Figure: Bad Example - Linked to the login page.</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img alt="Good" src="../../assets/GoodNoUseLogin.GIF" style="margin:5px;">
-   &lt;/dt&gt;<dd>Figure: Good Example - Linked to the default page.</dd></dl>
+
+[[badExample]]
+| ![Linked to the login page.](../../assets/BadNoUseLogin.GIF)
+[[goodExample]]
+| ![Linked to the default page.](../../assets/GoodNoUseLogin.GIF)

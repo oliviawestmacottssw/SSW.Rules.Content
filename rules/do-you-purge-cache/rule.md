@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -26,5 +27,7 @@ WPEngine - After you make a change on any WordPress site:
 * Click on the WP Engine plugin tab
 * Scroll down, click Purge All Caches
 
-<dl class="image">&lt;dt&gt;<img src="purge-cache-wpengine-wordpress.png" alt="purge-cache-wpengine-wordpress.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: Make sure you "Purge All Caches" after making changes - This will allow others to see the changes immediately<br></dd></dl>
+
+![Make sure you "Purge All Caches" after making changes - This will allow others to see the changes immediately](purge-cache-wpengine-wordpress.png)
+
 More information: [https://wpengine.com/support/cache/#Purge\_Server\_Caches](https://wpengine.com/support/cache/#Purge_Server_Caches)

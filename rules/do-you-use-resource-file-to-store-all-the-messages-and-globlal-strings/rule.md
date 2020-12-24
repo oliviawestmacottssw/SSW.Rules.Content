@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -16,7 +17,8 @@ Storing all the messages and global strings in one place will make it easy to ma
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="Code_StoreMessage.jpg" alt="Code_StoreMessage.jpg">&lt;/dt&gt;<dd> Store messages in the Message.resx</dd></dl>
+
+![](Code_StoreMessage.jpg)Store messages in the Message.resx
 Catch(SqlNullValueException sqlex)
 {
 Response.Write("The value cannot be null.");

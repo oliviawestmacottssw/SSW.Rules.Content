@@ -13,6 +13,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -23,7 +24,39 @@ Always make links perfectly clear.
 It's very important that your links stand out from the background as well as the surrounding text. A solid underline and a contrasting color is the usually the best choice, but the exact method is not important as long as the end result stands out. A link should not only be discoverable upon accidental hovering.
 
 Rollovers are important as they offer visual feedback to a user that this link that will take them somewhere. While there is a myriad of ways to do this; you can't go wrong with an underline or border-bottom.
-<dl class="badImage"><br><br>::: greybox<br>For more information on this, please <a href="https://www.ssw.com.au/" style="border-bottom:none;color:inherit;">go to SSW website</a>.<br><br>:::<br><br><dd>Bad Example: The link is hard to recognize<br></dd></dl><dl class="goodImage"><br><br>::: greybox<br>For more information on this, please <a href="https://www.ssw.com.au/">go to SSW website</a>. <br><br>:::<br><br><dd>Good Example: This link is obvious<br><br></dd><p class="ssw15-rteElement-GreyBox"> 
-      <img src="link-hover.jpg" alt="link-hover.jpg" data-pin-nopin="true"> <br></p><p class="ssw15-rteElement-P"></p><br><br>::: good<br>Good Example: Obvious rollover. You can test it by hovering the links on the example above<br><br>:::<br><br></dl>
+
+Bad Example: The link is hard to recognize
+
+
+:::
+
+.[go to SSW website](https://www.ssw.com.au/)For more information on this, please
+::: greybox
+
+
+
+:::
+
+Good Example: Obvious rollover. You can test it by hovering the links on the example above
+::: good
+
+
+
+
+
+![This link is obvious](link-hover.jpg)
+
+
+
+:::
+
+.[go to SSW website](https://www.ssw.com.au/)For more information on this, please
+::: greybox
+
 Example CSS for rollover:
-<dl class="image">&lt;dt&gt;<p class="ssw15-rteElement-CodeArea">a:hover { <br>    color: #cc4141;<br>    cursor: pointer;<br>} <br></p>&lt;/dt&gt;<dd>Figure: Example CSS for rollover effect <br></dd></dl>
+
+a:hover { 
+    color: #cc4141;
+    cursor: pointer;
+}
+Figure: Example CSS for rollover effect

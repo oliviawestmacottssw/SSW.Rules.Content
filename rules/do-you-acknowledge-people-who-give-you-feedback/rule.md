@@ -11,11 +11,14 @@ authors:
 - id: 14
   title: Martin Hinshelwood
 related: []
+redirects: []
 
 ---
 
 If someone gives you feedback and you think it is worth incorporating into the content, you should always name them at the top of your blog post. This makes them feel good and gives your post more credibility.  
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img alt="SNAGHTML1d4b746" src="RulesBloggingAcknowledgeBad.jpg" style="width:800px;">&lt;/dt&gt;<dd>Figure: Bad example, a static blog post. Does not look like it has been updated.</dd></dl><dl class="goodImage">&lt;dt&gt;<img alt="SNAGHTML1d398ce" src="RulesBloggingAcknowledgeGood.jpg" border="0" style="width:800px;"> &lt;/dt&gt;<dd>Figure: Good example, dated and attributed updates give your posts credibility and make them seam alive.</dd></dl>
+
+![Bad example, a static blog post. Does not look like it has been updated.](RulesBloggingAcknowledgeBad.jpg)
+![Good example, dated and attributed updates give your posts credibility and make them seam alive.](RulesBloggingAcknowledgeGood.jpg)
 Make sure that the follow-up and aggregate Twitter and Facebook users as well. Make all your readers feel included and you will create loyalty within your readership.

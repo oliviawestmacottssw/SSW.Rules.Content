@@ -9,13 +9,15 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 If you store your URL references in the application settings, you can create integration tests to validate them.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="testURLSettings.gif" alt="testURLSettings.gif" style="width:750px;">&lt;/dt&gt;<dd>Figure: URL for link stored in application settings</dd></dl>
+
+![URL for link stored in application settings](testURLSettings.gif)
 **Sample Code: How to test the URL**
 
 [Test]

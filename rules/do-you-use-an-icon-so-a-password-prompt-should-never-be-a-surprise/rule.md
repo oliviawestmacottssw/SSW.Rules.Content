@@ -9,12 +9,13 @@ authors: []
 related:
 - do-you-use-icons-to-enforce-the-text-meaning
 - do-you-use-icons-not-to-surprise-users-aka-use-the-correct-image-for-files
+redirects: []
 
 ---
 
 Don't surprise users! Put a lock icon                                          to indicate the link is a password protected page and login       required.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt; 
-      <img alt="Password prompt as a surprise" src="../../assets/PasswordProtectedPagesNeedKey.gif" style="margin:5px;width:406px;">
-   &lt;/dt&gt;<dd>Figure: Bad Example - because when you click "Building 100" you get a password prompt as a surprise</dd></dl>
+
+[[badExample]]
+| ![because when you click "Building 100" you get a password prompt as a surprise](../../assets/PasswordProtectedPagesNeedKey.gif)

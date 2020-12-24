@@ -11,6 +11,7 @@ authors:
 - id: 38
   title: Drew Robson
 related: []
+redirects: []
 
 ---
 
@@ -18,15 +19,15 @@ Bootstrap provides a powerful, responsive layout with its rows and columns.
 <!--endintro-->
 
 The common way to use Bootstrap's layout system is to create a basic grid which will appear as horizontal columns on the desktop but then stack on a smaller screen such as mobiles. This is done with a single set of .col-md-\* classes.
-<dl class="badImage">&lt;dt&gt;
-      <img src="23-06-2014 12-47-33 PM.png" alt="" style="width:400px;"> 
-   &lt;/dt&gt;<dd>Figure: Bad example - create the default stacking layout with Bootstrap</dd></dl><dl class="badImage">&lt;dt&gt;
-      <img src="23-06-2014 1-04-08 PM.png" alt="23-06-2014 1-04-08 PM.png" style="margin:5px;">
-   &lt;/dt&gt;<dd>Figure: Bad example - the default stacking behavior on small devices</dd></dl>
+
+[[badExample]]
+| ![create the default stacking layout with Bootstrap](23-06-2014 12-47-33 PM.png)
+[[badExample]]
+| ![the default stacking behavior on small devices](23-06-2014 1-04-08 PM.png)
 Did you know you can have more control over the responsive layout by including multiple column classes? The ability to control the layout across multiple screen sizes is a powerful tool within Bootstrap. For example, if you don't want your columns to stack on smaller devices, use the smaller grid classes by adding additional column classes (e.g. .col-xs-\* .col-sm-\*) to the respective
 
-s. <dl class="goodImage">&lt;dt&gt;
-      <img src="23-06-2014 12-45-30 PM.png" alt="23-06-2014 12-45-30 PM.png" style="width:400px;">
-   &lt;/dt&gt;<dd>Figure: Good example - add additional column classes to your columns</dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="23-06-2014 1-14-39 PM.png" alt="23-06-2014 1-14-39 PM.png" style="margin:5px;">
-   &lt;/dt&gt;<dd>Figure: Good example - On a smaller device, these columns now arrange horizontally as desired</dd></dl>
+s. 
+[[goodExample]]
+| ![add additional column classes to your columns](23-06-2014 12-45-30 PM.png)
+[[goodExample]]
+| ![On a smaller device, these columns now arrange horizontally as desired<br>](23-06-2014 1-14-39 PM.png)

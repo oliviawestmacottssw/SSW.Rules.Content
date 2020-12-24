@@ -11,13 +11,16 @@ authors:
 - id: 2
   title: Cameron Shaw
 related: []
+redirects: []
 
 ---
 
 Just as we should not 'judge a book by its cover' - we will not judge an email by its subject. But, we do! Because users get so many emails, getting your clients and suppliers to take notice of yours in their inbox can be quite a struggle. 
 
 <!--endintro-->
-<dl class="goodImage">&lt;dt&gt; <img alt="Outlook Choose an interesting subject" src="Outlook_ChooseAnInterestingSubject.gif"> &lt;/dt&gt;<dd>Figure: Good Example - I'm definitely going to read this email</dd></dl>
+
+[[goodExample]]
+| ![I'm definitely going to read this email](Outlook_ChooseAnInterestingSubject.gif)
 Use the email Subject to grab your recipient's attention. Choosing the right subject can give an email a sense of urgency or importance that choosing the wrong subject won't!
 
 The best way of doing this is to ensure that your subject includes either an ACTION POINT (e.g. 6.30 TONIGHT! See you at The Oaks Hotel...) or a RESULT of a task you were asked to do (e.g. Here's the 5 mins. of FEEDBACK you requested from our meeting with Charles Merton). You'll note from this that including the date and time in the subject gives immediacy to the email.

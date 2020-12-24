@@ -7,6 +7,7 @@ uri: do-you-use-legacy-check-tool-before-migrating
 created: 2015-06-18T04:29:44.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

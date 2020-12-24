@@ -9,6 +9,7 @@ authors:
 - id: 34
   title: Brendan Richards
 related: []
+redirects: []
 
 ---
 
@@ -21,4 +22,5 @@ Updating often can help mitigate this risk by ensuring that each individual upda
 Recommended practice is to apply package updates at the start of a sprint so that there is time to find and resolve issues introduced by the update.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="update-nuget.png" alt="update-nuget.png" style="margin:5px;width:600px;">&lt;/dt&gt;<dd>Figure: Nuget package updates</dd></dl>
+
+![Nuget package updates](update-nuget.png)

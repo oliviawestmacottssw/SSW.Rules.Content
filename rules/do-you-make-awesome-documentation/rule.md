@@ -26,6 +26,7 @@ related:
 - do-you-include-version-numbers-in-your-file
 - do-you-refer-to-the-reader-and-author-consistently-throughout-your-document
 - tiny-do-you-use-active-phrases-no-zombies-please
+redirects: []
 
 ---
 
@@ -34,9 +35,10 @@ There are a few styles of documentation:
 <!--endintro-->
 
 ### Bad Example – Old School
-<dl class="badImage">&lt;dt&gt; 
-      <img src="old-documentation.png" alt="old-documentation.png"> 
-   &lt;/dt&gt;<dd>Figure: Bad example - The dinosaur’s method of documentation<br></dd></dl>
+
+[[badExample]]
+| ![The dinosaur’s method of documentation](old-documentation.png)
+
 The old school way is document first – lots of planning, and lots of heavy documentation created upfront before even a single line of code is written.
 
 This is the method most familiar to teams who are comfortable with Waterfall and have possibly never heard of Agile. Documentation can normally be characterized by:
@@ -51,17 +53,17 @@ This is a well-established way to do documentation, but it has several problems:
 * High maintenance overhead
 * Needs a business analyst
 
-<dl class="badImage">&lt;dt&gt;
-      <img alt="enterprisearchitect1" src="enterprisearchitect1.jpg">
-   &lt;/dt&gt;<dd>Figure: Bad example - Documentation can take the form of Sequence Diagrams</dd></dl><dl class="badImage">&lt;dt&gt;
-      <img alt="enterprisearchitectusecases.png" src="EnterpriseArchitectUseCases.jpg">
-   &lt;/dt&gt;<dd>Figure: Bad example - Use Case Diagrams are even worse!</dd></dl>
+
+[[badExample]]
+| ![Documentation can take the form of Sequence Diagrams](enterprisearchitect1.jpg)
+[[badExample]]
+| ![Use Case Diagrams are even worse](EnterpriseArchitectUseCases.jpg)!
 There may be exceptions – some situations benefit from this kind of documentation; for example, it may be necessary to support a business case – although a well-defined spec is a better document to support a business case.
 
 
 
 ::: greybox
-**More info:** https://rules.ssw.com.au/rules-to-better-specification-reviews
+ **More info:** https://rules.ssw.com.au/rules-to-better-specification-reviews
 
 :::
 
@@ -97,7 +99,7 @@ It also means that when a developer makes a change to the code that needs an upd
 
 
 ::: greybox
-**Note:** When using a GitHub Wiki, it’s a separate repository. When using an Azure DevOps Wiki, it’s in the same repository.
+ **Note:** When using a GitHub Wiki, it’s a separate repository. When using an Azure DevOps Wiki, it’s in the same repository.
 :::
 
 
@@ -119,32 +121,34 @@ Documents to be read or edited by the Product Owner (or other members of the Scr
 
 
 ::: greybox
-**Tip** : All of your documents (in your Wiki and your repository) should be written in Markdown (see: <br>   [https://rules.ssw.com.au/using-markdown-to-store-your-content](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a7b84edd-3378-423c-b8b7-a8590b454f85))
+ **Tip** : All of your documents (in your Wiki and your repository) should be written in Markdown (see: <br>   [https://rules.ssw.com.au/using-markdown-to-store-your-content](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a7b84edd-3378-423c-b8b7-a8590b454f85))
 :::
 
 
 
-<dl class="badImage">&lt;dt&gt; 
-         <img src="documentation__level2__bad-example-gh.png" alt="documentation__level2__bad-example-gh.png" style="width:750px;"> 
-         <br> 
-      &lt;/dt&gt;<dd>Figure: Bad example - Github project without any documentation or instruction<br></dd></dl><dl class="badImage">&lt;dt&gt;
-         <img src="azuredevops-bad.png" alt="azuredevops-bad.png" style="width:750px;">
-      &lt;/dt&gt;<dd>Figure: Bad example - Azure DevOps project without any documentation or instruction<span style="color:#444444;"></span></dd></dl><dl class="image">&lt;dt&gt;
-         <img src="documentation__level2__good-example-1-gh.png" alt="documentation__level2__good-example-1-gh.png" style="width:750px;">
-      &lt;/dt&gt;<dd>Figure: OK example - Github project with README instructions on how to compile and run the project (but still has a TODO)</dd></dl><dl class="goodImage">&lt;dt&gt; 
-         <img src="azuredevops-good.png" alt="azuredevops-good.png" style="width:750px;"> 
-      &lt;/dt&gt;<dd>Figure: Good example - Azure DevOps project with README instructions on how to compile and run the project<span style="color:#444444;"></span></dd></dl><dl class="goodImage">&lt;dt&gt; 
-         <img src="documentation__level2__good-example-2-gh.png" alt="documentation__level2__good-example-2-gh.png" style="width:750px;">
-      &lt;/dt&gt;<dd>Figure: Good example - Github project with Wiki instructions for product owners, stakeholders, or public consumption <span style="color:#444444;">(Source: </span><span style="color:#444444;"><a href="https://github.com/christoment/Northwind/wiki">https://github.com/christoment/Northwind/wiki</a></span><span style="color:#444444;">)</span></dd></dl><dl class="goodImage">&lt;dt&gt;
-         <img src="azuredevops-wiki-good.png" alt="azuredevops-wiki-good.png" style="width:750px;">
-      &lt;/dt&gt;<dd>Figure: Good example - Azure DevOps project with Wiki instructions for product owners, stakeholders, or public consumption<br></dd></dl>
+
+[[badExample]]
+| ![Github project without any documentation or instruction](documentation__level2__bad-example-gh.png)
+
+[[badExample]]
+| ![Azure DevOps project without any documentation or instruction](azuredevops-bad.png)
+[[okExample]]
+| ![Github project with README instructions on how to compile and run the project](documentation__level2__good-example-1-gh.png)(but still has a TODO)
+[[goodExample]]
+| ![Azure DevOps project with README instructions on how to compile and run the project](azuredevops-good.png)
+[[goodExample]]
+| ![Github project with Wiki instructions for product owners, stakeholders, or public consumption](documentation__level2__good-example-2-gh.png))https://github.com/christoment/Northwind/wiki(Source: 
+[[goodExample]]
+| ![Azure DevOps project with Wiki instructions for product owners, stakeholders, or public consumption](azuredevops-wiki-good.png)
+
 **Tip:** Use your documentation for onboarding developers
 
-<dl class="badImage">&lt;dt&gt; 
-      <img src="sit-dev-bad.png" alt="sit-dev-bad.png" style="width:750px;"> 
-   &lt;/dt&gt;<dd>Figure: Bad Example - No documentation, go and sit with another developer<br></dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img src="documentation__level2__onboarding-pbi-3.png" alt="documentation__level2__onboarding-pbi-3.png" style="width:750px;"> 
-   &lt;/dt&gt;<dd>Figure: Good example - Developer onboarding can be self-guided by good documentation, and offers a structure for feedback and improvement if the developer hits any issues</dd></dl>
+
+[[badExample]]
+| ![No documentation, go and sit with another developer](sit-dev-bad.png)
+
+[[goodExample]]
+| ![Developer onboarding can be self-guided by good documentation, and offers a structure for feedback and improvement if the developer hits any issues](documentation__level2__onboarding-pbi-3.png)
 **Tip:** Keep your documentation as minimal as possible - automate the F5 experience and deployment process (documents 2 and 3) using PowerShell scripts. Then your documents can just say "run these scripts"
 
 ### The rest of the jigsaw

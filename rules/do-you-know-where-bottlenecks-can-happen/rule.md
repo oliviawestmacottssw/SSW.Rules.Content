@@ -11,13 +11,16 @@ authors:
 - id: 78
   title: Matt Wicks
 related: []
+redirects: []
 
 ---
 
 For modern applications, there are many layers and moving parts that need to seamlessly work together to deliver our application to the end user.
 
 <!--endintro-->
-<dl class="image"> &lt;dt&gt; <img src="bottleneck.png" alt="bottleneck.png"> &lt;/dt&gt;<dd>Figure: Bottlenecks can happen anywhere! Call out diagrammatically where you think the bottlenecks are happenning<br></dd></dl>
+
+![Bottlenecks can happen anywhere](bottleneck.png)! Call out diagrammatically where you think the bottlenecks are happenning
+
 The issues can be in:
 
 ### SQL Server

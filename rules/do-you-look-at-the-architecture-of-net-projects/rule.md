@@ -14,6 +14,7 @@ authors:
   title: Eric Phan
 related:
 - do-you-look-for-grasp-patterns
+redirects: []
 
 ---
 
@@ -26,9 +27,13 @@ They show the dependencies between classes and assemblies in your projects. You 
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="ArchitectureToolsVS11.png" alt="architecturetools_vs11.png">&lt;/dt&gt;<dd>Figure: Visual Studio lets you generate a dependency graph for your solution</dd></dl><dl class="image">&lt;dt&gt;<img src="DependencyDiagramInVS11.png" alt="sqldeploy_dependencies.png" style="width:600px;"> &lt;/dt&gt;<dd>Figure: The dependency graph in Visual Studio shows you some interesting information about how projects relate to each other<br></dd></dl>
+
+![Visual Studio lets you generate a dependency graph for your solution](ArchitectureToolsVS11.png)
+![The dependency graph in Visual Studio shows you some interesting information about how projects relate to each other](DependencyDiagramInVS11.png)
+
 nDepend has a similar diagram that is a little messier, but the latest version also includes a "Queries + Rules Explorer" which is another code analysis tool.
-<dl class="image">&lt;dt&gt;<img class="ms-rteCustom-ImageArea" src="nDependDependencyGraph.png" alt="nDepend.png" style="width:600px;"> &lt;/dt&gt;<dd>Figure: nDepend Dependency Graph. Issues are highlighted in red for easy discovery</dd></dl>
+
+![nDepend Dependency Graph. Issues are highlighted in red for easy discovery](nDependDependencyGraph.png)
 Read more about nDepend: [ndepend.com](http://www.ndepend.com/).
 
 ### Related Rule

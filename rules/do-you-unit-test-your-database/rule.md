@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -26,4 +27,6 @@ These tests can also be added to the same library as your unit, web and load tes
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="AddNewTest.jpg" alt="AddNewTest.jpg">&lt;/dt&gt;<dd>Figure 1 - Database Unit Test</dd></dl><dl class="image">&lt;dt&gt;<img src="WriteUnitTest.jpg" alt="WriteUnitTest.jpg">&lt;/dt&gt;<dd>Figure 2 - Writing the unit test against a stored proc<br></dd></dl>
+
+![](AddNewTest.jpg)Figure 1 - Database Unit Test
+![](WriteUnitTest.jpg)Figure 2 - Writing the unit test against a stored proc

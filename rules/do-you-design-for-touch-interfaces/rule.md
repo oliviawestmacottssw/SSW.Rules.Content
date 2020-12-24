@@ -7,6 +7,7 @@ uri: do-you-design-for-touch-interfaces
 created: 2014-11-25T23:54:48.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -19,8 +20,9 @@ Although mobile browsers are capable of rendering your normal  website, some fun
 The key thing to remember is that a mobile phone is a  different device and have completely different use cases. EBay on a  desktop can be used for a large variety of cases, including the creation  of new bids, while EBay Mobile is primarily for checking activity while  on the move. The focus of a mobile design for EBay centers on browsing,  bidding and status updates for products - it doesn't need to cover all  cases, just the right ones.
 
 True mobile interface design focuses that which is used on mobile and simplifies the process.
-<dl class="badImage">&lt;dt&gt;
-                      <img src="TimePro-NotMobile.png" alt="" style="margin:5px;">
-                   &lt;/dt&gt;<dd>Figure: Bad Example - TimePro as it renders on mobile. It is near unusable!<br></dd></dl><dl class="goodImage">&lt;dt&gt;
-                      <img width="286" src="TimePro-Mobile.png" alt="" style="margin:5px;">
-                   &lt;/dt&gt;<dd>Figure: Good Example - TimePro designed for mobile.</dd></dl>
+
+[[badExample]]
+| ![TimePro as it renders on mobile. It is near unusable](TimePro-NotMobile.png)!
+
+[[goodExample]]
+| ![TimePro designed for mobile.](TimePro-Mobile.png)

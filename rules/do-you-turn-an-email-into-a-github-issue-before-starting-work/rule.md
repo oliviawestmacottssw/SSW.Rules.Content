@@ -13,6 +13,7 @@ authors:
 - id: 99
   title: Christian Morford-Waite
 related: []
+redirects: []
 
 ---
 
@@ -30,24 +31,24 @@ However, at the moment there is a limitation that it doesn't read inline attachm
 
 <!--endintro-->
 
-<dl class="image">&lt;dt&gt;
-         <img src="email-to-github-issue2.png" alt="In Power Automate choose Github" style="width:800px;">
-      &lt;/dt&gt;<dd>Figure: Power Automate | Connectors | Github<br></dd></dl><dl class="image">&lt;dt&gt;
-         <img src="email-to-github-issue1.png" alt="Use Flow connectors in Power Automate to create a new Github Issue from Outlook">
-      &lt;/dt&gt;<dd>Figure: Configure Flow connectors to create a new Github Issue from Outlook<br></dd></dl>
+
+![Power Automate | Connectors | Github](email-to-github-issue2.png)
+
+![Configure Flow connectors to create a new Github Issue from Outlook](email-to-github-issue1.png)
+
 🔥Warning: This Flow connector does not suport inline images.
 
 
-<dl class="goodImage">&lt;dt&gt;
-         <img src="email-to-github-issue3.png" alt="Good Example - Github issue created automatically from Outlook">
-      &lt;/dt&gt;  
-      <dd>Figure: Good Example - Github issue created from Outlook using Flow connectors <br></dd></dl>
+
+[[goodExample]]
+| ![Github issue created from Outlook using Flow connectors](email-to-github-issue3.png)
+
 
  
-<dl class="badImage">&lt;dt&gt;
-         <img src="email-to-github-issue.png" alt="Bad Example - inline attachment shows up as junk characters">
-      &lt;/dt&gt;  
-      <dd>Figure: Bad Example - Github issue created using Flow - inline attachment shows up as junk characters<br></dd></dl>
+
+[[badExample]]
+| ![Github issue created using Flow - inline attachment shows up as junk characters](email-to-github-issue.png)
+
 
 
 ### Related rules

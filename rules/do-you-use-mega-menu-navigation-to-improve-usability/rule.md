@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -21,4 +22,10 @@ Mega menu allows you to present your links in groups  and make use of typography
 By dividing site navigation into groups users will have better view of your site's structure at a glance and thus presenting them with meaningful choices. You can also group key pages together and give them emphasis.
 
 Of course, don't use a mega dropdown menu just because you can. Turning your normal navigation into mega-menu whilst keeping it as one continuous level is generally a no-no. in the same manner, just because mega-menus have room, doesn't mean you should overload them.
-<dl class="badImage">&lt;dt&gt; <img alt="long dropdown menu" src="../../assets/longmenu.jpg" style="margin:5px;width:167px;"> &lt;/dt&gt;<dd>Figure: Bad Example - Long drop down menu requires scrolling and difficult to see at a glance.<br></dd></dl><dl class="goodImage">&lt;dt&gt; <img alt="mega menu" src="megamenu.jpg"> &lt;/dt&gt;<dd>Figure: Good Example - Links are grouped into distinct category</dd></dl> <dl class="image"> &lt;dt&gt; <img src="mobilemenu.jpg" alt="mobilemenu.jpg" style="margin:0px;width:500px;height:391px;"> &lt;/dt&gt;<dd>Figure: Bear in mind that mobile menus are limited</dd></dl>
+
+[[badExample]]
+| ![Long drop down menu requires scrolling and difficult to see at a glance.](../../assets/longmenu.jpg)
+
+[[goodExample]]
+| ![Links are grouped into distinct category](megamenu.jpg)
+![Bear in mind that mobile menus are limited](mobilemenu.jpg)

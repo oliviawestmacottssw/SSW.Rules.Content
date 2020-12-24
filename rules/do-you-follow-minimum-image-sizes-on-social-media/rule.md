@@ -26,6 +26,7 @@ related:
 - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
 - do-you-know-how-to-test-which-pain-points-are-relevant-to-your-prospect
 - do-you-know-how-to-use-a-perfect-prospectâ€™s-pain-points-in-your-online-marketing
+redirects: []
 
 ---
 
@@ -38,4 +39,6 @@ It's very important that the images you share look great for every user, so alwa
 For example, what should be your image size for Instagram? Since 2015, Instagram's default image size is  **1080px by 1080px** to keep up with Retina and other high-resolution displays available on smartphones, tablets, and laptops.
 
 By the way, if you're shooting straight from your smartphone camera don't bother, the image should be already good enough. :)
-<dl class="ssw15-rteElement-ImageArea"><img src="social-media-image-sizes-infographic.png" alt="social-media-image-sizes-infographic.png" style="margin:5px;width:808px;"></dl><dl class="ssw15-rteElement-ImageArea"> <strong>Figure:</strong> <strong><a href="https://www.vieodesign.com/blog/social-media-image-sizes-dimensions/">2019 Social Media image sizes </a><br></strong> </dl>
+
+![ ](social-media-image-sizes-infographic.png)[2019 Social Media image sizes](https://www.vieodesign.com/blog/social-media-image-sizes-dimensions/)
+**

@@ -13,6 +13,7 @@ authors:
 - id: 32
   title: Mehmet Ozdemir
 related: []
+redirects: []
 
 ---
 
@@ -27,15 +28,15 @@ The User Profile is simply a layer of information on top of Active Directory pro
 **A:** Simple - If you are happy with just names and address and simple pick lists then User Profiles work great.
 
 Office 365 User Profile Service is a good tool at managing fields related to users, but it does not offer any functionality to maintain related data such as responsibilities and projects. Therefore it cannot be used as a single source of truth if you have complex profile data. Think of all the stuff you see on LinkedIn. Maybe this will change in the future now that Microsoft owns LinkedIn.
-<dl class="image">&lt;dt&gt; 
-      <img src="onpremisesad1.png" alt="onpremisesad1.png"> 
-   &lt;/dt&gt;<dd>Figure: AD, UserProfile and O365 Services interactions </dd></dl>
+
+![AD, UserProfile and O365 Services interactions](onpremisesad1.png)
 **Tip:** Keep User Profiles up-to-date with     [hyperfish.com](https://www.hyperfish.com/)
 
 **B:** Rich - If you want richer relationships eg. Many skills, many languages, past projects and roles on them etc. then you want to add an external 'Source of truth' Eg. Dynamics 365, Salesforce etc. that supports that kind of relationships.
 
 Companies want bots to answer more than just simple questions. If you have rich data then your bot can answer questions like "Who worked in Education and knows French". This is unfortunately not possible with AD/UserProfile custom fields and properties. In those instances, the alternative is to use Dynamics 365 (or SalesForce) as a single source of truth; and then sync back the data to simple fields in User Profile.
-<dl class="image">&lt;dt&gt;<img src="onpremisesad2.png" alt="onpremisesad2.png">&lt;/dt&gt;<dd>Figure: CRM (Dynamics 365) used a source of truth</dd></dl> In this scenario, a custom sync mechanism (i.e. SSIS pipeline) will have to be implemented. Both Dynamics 365 and User Profile Service exposes APIs that can read and write properties/fields for such a system.
+
+![CRM](onpremisesad2.png)(Dynamics 365) used a source of truth In this scenario, a custom sync mechanism (i.e. SSIS pipeline) will have to be implemented. Both Dynamics 365 and User Profile Service exposes APIs that can read and write properties/fields for such a system.
 Then other external systems such as the public employee pages, Power BI reports and bots can query Dynamics 365 directly.
 
 

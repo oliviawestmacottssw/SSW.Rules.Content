@@ -9,6 +9,7 @@ authors:
 - id: 73
   title: Kaique Biancatti
 related: []
+redirects: []
 
 ---
 
@@ -29,6 +30,3 @@ When setting up Azure AD Connect, you need to set the "Password Writeback" optio
 ::: good
 Good Example: Setting up Password Writeback in Azure AD Connect
 :::
-
-&lt;dt&gt;
-&lt;/dt&gt;

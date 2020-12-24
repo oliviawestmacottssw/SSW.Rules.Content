@@ -7,6 +7,7 @@ uri: have-you-got-an-adequate-budget
 created: 2014-12-31T00:13:48.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

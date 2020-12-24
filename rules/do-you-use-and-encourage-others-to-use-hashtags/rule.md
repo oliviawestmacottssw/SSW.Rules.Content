@@ -31,6 +31,7 @@ related:
 - do-you-know-how-to-take-great-photos-for-your-socials
 - do-you-know-what-type-of-content-marketing-you-should-post-on-your-socials
 - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
+redirects: []
 
 ---
 
@@ -39,12 +40,13 @@ Hashtags identify the keyword or topic of interest that the post is about. They 
 <!--endintro-->
 
 The best tweets will use a combination of @mentions and #hashtags where appropriate to properly leverage the platform – that way readers can check out the people involved OR join the conversation about a topic. See our rule [Do you know when to use a hashtag vs. a @mention?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6a8d0728-51f6-4f74-8f07-2e08fd0702f7) to see how to best leverage them in combination.
-<dl class="image">&lt;dt&gt;&lt;/dt&gt;</dl>
+
 ### Tips for companies
 
 
 **Tip #1:** Encourage people to use the correct hashtag by adding the hashtag to your sidebar or footer.
-<dl class="image">&lt;dt&gt; <img src="hashtag-stream.jpg" alt="hashtag-stream.jpg" style="width:650px;">&lt;/dt&gt;<dd>Figure: On <a href="https://www.ssw.com.au/ssw/netug"> www.ssw.com.au/ssw/netug</a> you can see the sidebar shows a feed with the hashtag used</dd></dl>
+
+![Onyou can see the sidebar shows a feed with the hashtag usedhttps://www.ssw.com.au/ssw/netug](hashtag-stream.jpg)
 **Tip #2:** When creating your own hashtag to promote a service, product or event, check if it isn't already in use for anything else.
 
 ### Tips for everyone

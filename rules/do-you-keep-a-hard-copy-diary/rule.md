@@ -7,6 +7,7 @@ uri: do-you-keep-a-hard-copy-diary
 created: 2013-05-14T00:03:23.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

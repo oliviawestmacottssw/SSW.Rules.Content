@@ -13,6 +13,7 @@ authors:
 - id: 30
   title: Marlon Marescia
 related: []
+redirects: []
 
 ---
 
@@ -20,4 +21,6 @@ Your inbox should be a [task list](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e0
 
 
 <!--endintro-->
-<dl class="goodImage">&lt;dt&gt;<img src="clean-inbox-by-topic-outlook-search.png" alt="clean-inbox-by-topic-outlook-search.png">&lt;/dt&gt;<dd>Figure: Good example - Search for "SugarLearning", reply 'done' to all emails and delete them</dd></dl>
+
+[[goodExample]]
+| ![Search for "SugarLearning", reply 'done' to all emails and delete them](clean-inbox-by-topic-outlook-search.png)

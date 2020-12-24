@@ -9,25 +9,22 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
-Empty Visual C# .NET methods consume program resources unnecessarily. Put a comment in code block if its stub for future application.
-Don’t add empty C# methods to your code. If you are adding one as a placeholder for future development, add a comment with a TODO.
+Empty Visual C# .NET method consumes program resources unnecessarily. Put a comment in code block if its stub for future application.
 
-Also, to avoid unnecessary resource consumption, you should keep the entire method commented until it has been implemented.
-
-
-If the class implements an inherited interface method, ensure the method throws NotImplementedException.
+**Exception:**  If a Class implements an Inherited Interface method, you should add a comment within the Code block
 
 
 <!--endintro-->
 
 public class Example
  {
-       public double salary()
-       {     
-       }
+ public double salary()
+ {     
+ }
  }
 
 
@@ -39,10 +36,10 @@ Figure: Bad Example - Method is empty
 
 public class Sample
  {
-       public double salary()
-       {
-               return 2500.00;
-        }
+ public double salary()
+ {
+ return 2500.00;
+ }
  }
 
 
@@ -54,20 +51,20 @@ Figure: Good Example - Method implements some code
 
 public interface IDemo
  {
-       void DoSomethingUseful();
-       void SomethingThatCanBeIgnored();
+ void DoSomethingUseful();
+ void SomethingThatCanBeIgnored();
  }
 public class Demo : IDemo
  {
-       public void DoSomethingUseful()
-       {
-              // no audit issues
-             Console.WriteLine("Useful");
-       }
-       // audit issues 
-      public void SomethingThatCanBeIgnored()
-      { 
-      } 
+ public void DoSomethingUseful()
+ {
+ // no audit issues
+ Console.WriteLine("Useful");
+ }
+ // audit issues 
+ public void SomethingThatCanBeIgnored()
+ { 
+ } 
  }
 
 
@@ -78,21 +75,21 @@ Figure: Bad Example - No Comment within empty code block
 
 public interface IDemo
  {
-       void DoSomethingUseful();
-       void SomethingThatCanBeIgnored();
+ void DoSomethingUseful();
+ void SomethingThatCanBeIgnored();
  }
 public class Demo : IDemo
  {
-       public void DoSomethingUseful()
-       {
-              // no audit issues
-              Console.WriteLine("Useful");
-       }
-       // No audit issues 
-       public void SomethingThatCanBeIgnored() 
-       {
-              // stub for IDemo interface
-       } 
+ public void DoSomethingUseful()
+ {
+ // no audit issues
+ Console.WriteLine("Useful");
+ }
+ // No audit issues 
+ public void SomethingThatCanBeIgnored() 
+ {
+ // stub for IDemo interface
+ } 
  }
 
 

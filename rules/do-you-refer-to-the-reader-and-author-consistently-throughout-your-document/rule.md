@@ -16,6 +16,7 @@ related:
 - do-you-include-version-numbers-in-your-file
 - tiny-do-you-use-active-phrases-no-zombies-please
 - do-you-make-awesome-documentation
+redirects: []
 
 ---
 

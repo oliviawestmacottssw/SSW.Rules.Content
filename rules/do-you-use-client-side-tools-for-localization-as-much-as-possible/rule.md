@@ -9,6 +9,7 @@ authors:
 - id: 50
   title: Martin Li
 related: []
+redirects: []
 
 ---
 
@@ -16,5 +17,4 @@ With the increasing use of JavaScript on the client and HTML5, client-side local
 
 <!--endintro-->
 
-![](Angular_Localization.jpg)
-<dd>Figure: Using Angular Translate plugin for localization. </dd>
+![Using Angular Translate plugin for localization.](Angular_Localization.jpg)

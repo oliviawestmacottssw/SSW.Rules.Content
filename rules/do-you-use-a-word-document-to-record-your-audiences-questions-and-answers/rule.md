@@ -7,6 +7,7 @@ uri: do-you-use-a-word-document-to-record-your-audiences-questions-and-answers
 created: 2010-06-09T00:01:49.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -15,5 +16,5 @@ Open a word doc at the start of your presentation. It is a good idea to have som
 By opening a word document on the screen or projector, everyone in the room will be clear about the questions being asked and the answers being given. This will also help you address any open issues after the presentation.
 
 <!--endintro-->
-<dl>    &lt;dt&gt;<img class="ms-rteCustom-ImageArea" src="RecordQA.jpg" alt=""> &lt;/dt&gt;
-     <strong>Figure: A nice presenting technique is to write any questions and answers from your audience (live on stage)</strong> </dl>
+
+![A nice presenting technique is to write any questions and answers from your audience](RecordQA.jpg)(live on stage)**

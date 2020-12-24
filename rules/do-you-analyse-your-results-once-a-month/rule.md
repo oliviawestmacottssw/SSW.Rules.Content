@@ -11,6 +11,7 @@ authors:
 - id: 83
   title: Camilla Rosa Silva
 related: []
+redirects: []
 
 ---
 
@@ -30,8 +31,6 @@ During this meeting, you can discuss:    * Marketing activities you worked on
 6. After the meeting, send an email with what was discussed, what you worked on, and what results you have achieved. Of course, don’t forget to include the approved budget.
 7. Keep this information in a report-style document stored in your Intranet that hopefully, you can look back to compare results.
 
-<dl class="badImage">&lt;dt&gt;
-      <img src="marketing overview old.png" alt="marketing overview old.png" style="width:800px;">
-   &lt;/dt&gt;<dd>Bad Example - Figure: tracking just a few information won't help you see the big picture</dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="Screen Shot 2020-05-01 at 4.17.26 pm.png" alt="Screen Shot 2020-05-01 at 4.17.26 pm.png" style="width:800px;">
-   &lt;/dt&gt;<dd>Good Example - Figure: tracking all your marketing efforts will help you see where you can improve and what you are already on the right track<br></dd></dl>
+
+![tracking just a few information won't help you see the big picture](marketing overview old.png)Bad Example -
+![tracking all your marketing efforts will help you see where you can improve and what you are already on the right track](Screen Shot 2020-05-01 at 4.17.26 pm.png)Good Example -

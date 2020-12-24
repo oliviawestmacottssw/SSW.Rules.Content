@@ -11,11 +11,12 @@ authors:
 - id: 2
   title: Cameron Shaw
 related: []
+redirects: []
 
 ---
 
-We've all received a cryptic email at some point. Don't just reply saying "I don't understand". Chances are if the sender of the task couldn't explain the task well enough the first time then it's likely conversation is needed to clarify the issue. Pick up the phone or Skype the person who sent the email.  <dl class="image">&lt;dt&gt;<img src="putin-phone.jpg" alt="putin-phone.jpg">
-&lt;/dt&gt;<dd>Figure: If an email isn't clear, a phone call generally sorts problems out quickly</dd></dl>
+We've all received a cryptic email at some point. Don't just reply saying "I don't understand". Chances are if the sender of the task couldn't explain the task well enough the first time then it's likely conversation is needed to clarify the issue. Pick up the phone or Skype the person who sent the email.  
+![If an email isn't clear, a phone call generally sorts problems out quickly](putin-phone.jpg)
 <!--endintro-->
 
 Having clarified the issue by phone, reply but update the original email with the new details arising from the conversation (Remember to start with an "As per our conversation" line).

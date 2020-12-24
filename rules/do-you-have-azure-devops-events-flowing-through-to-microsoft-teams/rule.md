@@ -11,6 +11,7 @@ authors:
 - id: 58
   title: Jernej Kavka
 related: []
+redirects: []
 
 ---
 
@@ -29,4 +30,7 @@ For more info, follow this link: https://docs.microsoft.com/en-us/azure/devops/s
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="tfs-teams-1.jpg" alt="tfs-teams-1.jpg" style="width:750px;">&lt;/dt&gt;<dd>Figure: How to setup Azure DevOps Events on Microsoft Teams<br></dd></dl><dl class="image">&lt;dt&gt;<img src="tfs-teams-2.jpg" alt="tfs-teams-2.jpg" style="width:750px;height:407px;">&lt;/dt&gt;<dd>Figure: It's nice to be able to converse about the project and see notifications such as PR coming through<span style="color:#444444;"></span></dd></dl>
+
+![How to setup Azure DevOps Events on Microsoft Teams](tfs-teams-1.jpg)
+
+![It's nice to be able to converse about the project and see notifications such as PR coming through](tfs-teams-2.jpg)

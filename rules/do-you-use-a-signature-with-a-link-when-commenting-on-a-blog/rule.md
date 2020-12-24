@@ -9,6 +9,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -23,7 +24,7 @@ Ulysses Maclaren        [www.ssw.com.au](https&#58;//ssw.com.au/) 
 
 
 ::: good
- Figure: Good example - adding a signature with URL in your blog comment
+Figure: Good example - adding a signature with URL in your blog comment
 :::
 
 

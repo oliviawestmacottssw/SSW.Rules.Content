@@ -15,11 +15,18 @@ related:
 - do-you-use-the-required-property-on-a-field
 - do-you-use-a-unique-index-and-the-required-property-on-a-field
 - do-you-have-valid-validationtext-propertyupsizing-problem
+redirects: []
 
 ---
 
 * The value that you select for the AllowZeroLength property determines whether zero length strings ("") may be inserted into a field. Currently, the Upsizing Wizard does not create a constraint or trigger against an upsized table to enforce this rule. Instead, you must manually create a Check Constraint on the columns once the upsizing process is complete.
 * Still an issue in Access 2000 -2003
 
-<font class="ms-rteCustom-YellowBorderBox"><a href="http&#58;//www.ssw.com.au/ssw/UpsizingPRO">Upsizing PRO</a> will check this rule </font>
+
+
+::: yellowBox
+[Upsizing PRO](http&#58;//www.ssw.com.au/ssw/UpsizingPRO) will check this rule
+:::
+
+
 <!--endintro-->

@@ -9,6 +9,7 @@ authors:
 - id: 3
   title: Eric Phan
 related: []
+redirects: []
 
 ---
 
@@ -20,6 +21,5 @@ related: []
 .NET Core is fast, and you get that performance out of the box.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;
-   <img src="dotnet-core-performance.jpg" alt="dotnet-core-performance.jpg">
-&lt;/dt&gt;<dd>Figure: ASP.NET Core easily trounces ASP.NET 4 in number of requests per second (<a href="https://www.ageofascent.com/2016/02/18/asp-net-core-exeeds-1-15-million-requests-12-6-gbps/" target="_blank">view source</a>)</dd></dl>
+
+![ASP.NET Core easily trounces ASP.NET 4 in number of requests per second](dotnet-core-performance.jpg)()[view source](https://www.ageofascent.com/2016/02/18/asp-net-core-exeeds-1-15-million-requests-12-6-gbps/)

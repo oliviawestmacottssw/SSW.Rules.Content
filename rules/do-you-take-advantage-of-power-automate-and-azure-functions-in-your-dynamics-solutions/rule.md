@@ -11,6 +11,7 @@ authors:
 - id: 32
   title: Mehmet Ozdemir
 related: []
+redirects: []
 
 ---
 
@@ -55,5 +56,6 @@ The case against Azure Function instead of regular Dynamics Plugins:
 * Plugins can register against many Pre and Post events whereas an Azure Function is a WebAPI endpoint
 * Azure Functions are a <br>      [paid](https://azure.microsoft.com/en-au/pricing/calculator/%22%20%5co%20%22https://azure.microsoft.com/en-au/pricing/calculator/) Azure service, while extremely cost-effective, it is still an additional cost
 
-<dl class="image">&lt;dt&gt;
-      <img src="dynamics-workflow-editor.png" alt="dynamics-workflow-editor.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: Dynamics Workflow Editor</dd></dl><dl class="image">&lt;dt&gt;<img src="flow-editor.png" alt="flow-editor.png">&lt;/dt&gt;<dd>Figure: Flow Editor</dd></dl>
+
+![Dynamics Workflow Editor](dynamics-workflow-editor.png)
+![Flow Editor](flow-editor.png)

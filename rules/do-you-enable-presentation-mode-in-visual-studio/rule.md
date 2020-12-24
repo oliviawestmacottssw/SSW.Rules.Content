@@ -13,6 +13,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -37,7 +38,13 @@ Secondly, you need to remove any distracting panes or other windows. These usual
 Most importantly, you can have all these things done for you in the click of a button by using the presenter mode extension. It automatically sets the correct font and removes distracting windows.
 
 ### Visual Studio
-<dl class="badImage">&lt;dt&gt; <img src="present_off.png" alt="present_off.png" style="margin:5px;width:808px;"> <br>&lt;/dt&gt;<dd>Figure: Bad Example - Code is small and most of the Visual Studio UI is too small to read<br></dd></dl><dl class="goodImage">&lt;dt&gt; <img src="present_on.png" alt="present_on.png" style="margin:5px;width:808px;"> <br>&lt;/dt&gt;<dd>Figure: Good Example - Code is much more readable and Visual Studio UI is large enough to read<br></dd></dl>
+
+[[badExample]]
+| ![Code is small and most of the Visual Studio UI is too small to read](present_off.png)
+
+[[goodExample]]
+| ![Code is much more readable and Visual Studio UI is large enough to read](present_on.png)
+
  **
 ![](install.png)
 ** 
@@ -46,7 +53,8 @@ Most importantly, you can have all these things done for you in the click of a b
 
 
 
-<dl class="image">&lt;dt&gt; <img src="quick_launch.png" alt="quick_launch.png" style="margin:5px;"> <br>&lt;/dt&gt;<dd>Figure: Use quick launch for toggling between presentOn and presentOff. </dd></dl>
+
+![Use quick launch for toggling between presentOn and presentOff.](quick_launch.png)
 Thanks to [Nathan Totten](https://ntotten.com/2012/12/12/visual-studio-2012-presentation-mode/) for showing us this tip back in 2012.
 
 
@@ -55,8 +63,15 @@ Thanks to [Nathan Totten](https://ntotten.com/2012/12/12/visual-studio-2012-pres
 ### Text Editor
 
 Change font size in your text editor.
-<dl class="badImage">&lt;dt&gt; <img src="notepad_bad.png" alt="notepad_bad.png"> &lt;/dt&gt;<dd>Figure: Small font size<br></dd></dl><dl class="goodImage">&lt;dt&gt; <img src="notepad_good2.png" alt="notepad_good2.png"> &lt;/dt&gt;<dd>Figure: Good font size<br></dd></dl>
+
+![Small font size](notepad_bad.png)
+
+![Good font size](notepad_good2.png)
+
 ### Command Prompt
 
 And don't forget to change your command prompt as well.
-<dl class="badImage">&lt;dt&gt; <img src="cmd_bad_2.png" alt="cmd_bad_2.png"> &lt;/dt&gt;<dd> Figure: Command prompts are hard to read<br></dd></dl><dl class="goodImage">&lt;dt&gt; <img src="cmd_good_2.png" alt="cmd_good_2.png"> &lt;/dt&gt;<dd>Figure: Font size for command prompt should be about twice as much as by default</dd></dl>
+
+![Command prompts are hard to read](cmd_bad_2.png)
+
+![Font size for command prompt should be about twice as much as by default](cmd_good_2.png)

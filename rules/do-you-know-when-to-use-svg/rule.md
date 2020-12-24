@@ -11,6 +11,7 @@ related:
 - do-you-know-when-to-use-png
 - do-you-know-how-to-save-your-graphics-in-the-right-format
 - do-you-avoid-bmps-for-the-internet-at-all-times
+redirects: []
 
 ---
 
@@ -31,8 +32,8 @@ Some of SVG format advantages are:
 
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt; 
-      <img src="jpg_vs_svg_bad.jpg" alt="Bad Example - Using JPG for line art" style="width:150px;"> 
-   &lt;/dt&gt;<dd>Figure: Bad Example - this graphic is line art, but has mistakenly been saved as a JPEG. It loses resolution.</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img src="svg.jpg" alt="Good Example - Using SVG for line art" style="width:150px;height:147px;margin-left:0px;margin-right:0px;"> 
-   &lt;/dt&gt;<dd>Figure: Good Example - the same graphic, saved as an SVG, no pixelation.</dd></dl>
+
+[[badExample]]
+| ![this graphic is line art, but has mistakenly been saved as a JPEG. It loses resolution.](jpg_vs_svg_bad.jpg)
+[[goodExample]]
+| ![the same graphic, saved as an SVG, no pixelation.](svg.jpg)

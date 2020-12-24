@@ -11,6 +11,7 @@ authors:
 - id: 47
   title: Stanley Sidik
 related: []
+redirects: []
 
 ---
 
@@ -46,21 +47,17 @@ Read more about     [implementing Microsoft Lync](http://www.ssw.com.au/ssw/Cons
 
 
 1. Log on to SNOM Phone, press a key to continue
-<dl class="image">&lt;dt&gt;
-                  <img src="step-1.png" alt="step-1.png" style="width:240px;">
-               &lt;/dt&gt;</dl>
+
+![](step-1.png)
 2. Enter in your SIP-URI, that is emailaddress@ssw.com.au and press the green tick
-<dl class="image">&lt;dt&gt;
-                  <img src="step-2.jpg" alt="step-2">
-               &lt;/dt&gt;</dl>
+
+![](step-2.jpg)
 3. Enter in your Domain\Username, that is ssw2000\username and press the green tick
-<dl class="image">&lt;dt&gt;
-                  <img src="step-3.jpg" alt="step-3">
-               &lt;/dt&gt;</dl>
+
+![](step-3.jpg)
 4. Enter in your AD password and press the green tick
-<dl class="image">&lt;dt&gt;
-                  <img src="step-4.jpg" alt="step-4">
-               &lt;/dt&gt;</dl>
+
+![](step-4.jpg)
 
 
 Congratulations, you are now able to make and receive phone calls.

@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -41,7 +42,7 @@ Bad example: paid with currency
 
 
 ::: good
-Good example: paid with abstract currency 
+Good example: paid with abstract currency
 :::
 
 
@@ -75,10 +76,11 @@ Good example: capture data eg. What device and do data mining to set different p
 
 
 
-<dl class="image">&lt;dt&gt;<div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify"> 
-   <br>`youtube: https://www.youtube.com/embed/fKK9nVLvhGM`<br> </div>&lt;/dt&gt;</dl><dl class="image">&lt;dt&gt;
-      <img src="how-to-monetize.png" alt="how-to-monetize.png"> 
-   &lt;/dt&gt;<dd>Figure: some apps charge more based on the device you are using<br></dd></dl><dl class="image"> 
-   &lt;dt&gt; 
-      <img src="how-to-monetize-2.png" alt="how-to-monetize-2.png"> 
-   &lt;/dt&gt;<dd>Figure: know app developers make most of their in-app purchases from the whales 🐳</dd></dl>
+
+
+`youtube: https://www.youtube.com/embed/fKK9nVLvhGM`
+ 
+
+![some apps charge more based on the device you are using](how-to-monetize.png)
+
+![know app developers make most of their in-app purchases from the whales 🐳](how-to-monetize-2.png)

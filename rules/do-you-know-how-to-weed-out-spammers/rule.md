@@ -22,6 +22,7 @@ related:
 - do-you-know-how-to-take-great-photos-for-your-socials
 - do-you-know-what-type-of-content-marketing-you-should-post-on-your-socials
 - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
+redirects: []
 
 ---
 
@@ -53,5 +54,8 @@ For groups on Facebook, there is now a tool that allows admin to ask up to 3 pre
 
 
 
-<dl class="image">&lt;dt&gt;<img src="facebook screening questions.jpg" alt="" style="width:800px;">&lt;/dt&gt;<dd>Figure: Asking a screening question is a good way to separate real people with a genuine interest from those who just want to spam the group<br></dd></dl><dl class="image">&lt;dt&gt;<img src="suspicious-profile.png" alt="Example of a suspicious profile" style="width:800px;">&lt;/dt&gt;<dd> Figure: an example of a suspicious profile</dd></dl>
+
+![Asking a screening question is a good way to separate real people with a genuine interest from those who just want to spam the group](facebook screening questions.jpg)
+
+![an example of a suspicious profile](suspicious-profile.png)
 Some sites will allow you moderate comments so that only approved posts are displayed. If you're experiencing ongoing problems with spammers, this might be a good option to use as it keeps your site friendly and professional and gives you the final word on what content is shared with your members or followers.

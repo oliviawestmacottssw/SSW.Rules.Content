@@ -12,6 +12,7 @@ related:
 - do-you-use-bundling-and/or-amd
 - do-you-know-which-version-of-jquery-to-use
 - do-you-use-hyperlinks-instead-of-javascript-to-open-pages
+redirects: []
 
 ---
 

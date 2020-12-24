@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -21,4 +22,5 @@ Search for the client photo in Google Images or Facebook:
 * "Tom Northwind" Australia
 * "Tom Northwind" Facebook
 
-<dl class="image">&lt;dt&gt;<img src="Proposals_ClientPhoto.jpg" alt="Proposals_ClientPhoto.jpg">&lt;/dt&gt;<dd>Figure: Remember to add a photo of the client</dd></dl>
+
+![Remember to add a photo of the client](Proposals_ClientPhoto.jpg)

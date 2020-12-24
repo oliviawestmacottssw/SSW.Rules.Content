@@ -7,6 +7,7 @@ uri: do-you-check-the-calendar-when-planning-an-event
 created: 2014-10-20T00:50:45.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

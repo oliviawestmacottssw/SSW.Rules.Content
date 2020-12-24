@@ -15,16 +15,18 @@ authors:
 - id: 6
   title: Tristan Kurniawan
 related: []
+redirects: []
 
 ---
 
-&lt;dt&gt;
-![](SelectARecentWorkItem.jpg)&lt;/dt&gt;<dd>Figure: When you use Check-in policies you often will need to select a work item that you selected recently</dd><dd><br></dd>
+![When you use Check-in policies you often will need to select a work item that you selected recently](SelectARecentWorkItem.jpg)
+
 <!--endintro-->
-<dl>&lt;dt&gt;<br>&lt;/dt&gt;</dl>
-Make this easy on yourself by adding a query 'Recent'1. Create a work item query that returns you the last changed work item <dl>&lt;dt&gt;<img alt="Add a query" src="AddQuery.jpg">&lt;/dt&gt;
-<dd>Figure: Add a query just for your associated check ins </dd></dl>
+
+
+Make this easy on yourself by adding a query 'Recent'1. Create a work item query that returns you the last changed work item 
+![Add a query just for your associated check ins](AddQuery.jpg)
 2. Just copy the 'Tasks - My' query
-3. Add the sort date of 'Changed Date' sorted by descending <dl>&lt;dt&gt;<img alt="Sorted the query by 'Changed Date' " src="SortedByChangedDate.jpg">&lt;/dt&gt;
-<dd>Figure: The query should be sorted by 'Changed Date' </dd></dl>
+3. Add the sort date of 'Changed Date' sorted by descending 
+![Sorted the query by 'Changed Date' ](SortedByChangedDate.jpg)
 4. Use that query on your check ins and you find the relevant work item easily

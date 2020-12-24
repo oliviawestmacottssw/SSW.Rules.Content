@@ -7,6 +7,7 @@ uri: do-you-avoid-under-construction
 created: 2015-02-13T02:39:13.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -15,6 +16,5 @@ If all you have time to ftp up is a couple of simple html pages with few contact
 <!--endintro-->
 
 
-<dl class="image">&lt;dt&gt;
-     <img src="../../assets/Websites_UnderConstruction.jpg" alt="Websites Under Construction" style="margin:5px;width:99px;">&lt;/dt&gt;<dd>
-     Figure: "We just can't get our act together on our website"</dd></dl>
+
+!["We just can't get our act together on our website"](../../assets/Websites_UnderConstruction.jpg)

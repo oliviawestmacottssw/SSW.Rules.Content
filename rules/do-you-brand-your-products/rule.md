@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -28,4 +29,6 @@ Here are some of the basics of our software:
 The setup and software icon for your applications should also be branded.
 
 If you have many products, keep them consistent.
-<dl class="goodImage">&lt;dt&gt;<img src="ssw-products.jpg" alt="ssw-products.jpg">&lt;/dt&gt;<dd>Figure: Good Example - Consistent product logos</dd></dl>
+
+[[goodExample]]
+| ![Consistent product logos](ssw-products.jpg)

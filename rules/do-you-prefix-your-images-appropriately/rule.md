@@ -7,6 +7,7 @@ uri: do-you-prefix-your-images-appropriately
 created: 2015-10-13T00:37:27.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -23,6 +24,5 @@ However, for special types of images we do include a prefix.
 | Icon | ico | icoSSW.ico |
 | Screenshot | Screen | ScreenCodeAuditorMainWindow.gif |
 
-<dl class="goodImage">&lt;dt&gt;
-      <img src="ScreenFilesWithScreenPrefix.gif" alt="">
-   &lt;/dt&gt;<dd>Figure: Correctly named images</dd></dl>
+
+![Correctly named images](ScreenFilesWithScreenPrefix.gif)

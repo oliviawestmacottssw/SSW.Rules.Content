@@ -13,6 +13,7 @@ related:
 - do-you-know-how-to-use-a-perfect-prospectâ€™s-pain-points-in-your-online-marketing
 - do-you-follow-minimum-image-sizes-on-social-media
 - do-you-know-how-to-discover-your-perfect-prospectâ€™s-pain-points
+redirects: []
 
 ---
 

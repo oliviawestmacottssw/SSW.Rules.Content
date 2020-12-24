@@ -9,6 +9,7 @@ authors:
 - id: 83
   title: Camilla Rosa Silva
 related: []
+redirects: []
 
 ---
 
@@ -26,6 +27,9 @@ Ad extensions are additional pieces of information about your business, like a p
 * **Call out** – Additional detail/an invitation to a call-to-action
 * **Sitelinks** – Promoting links from your website you want to advertise
 
-<dl class="badImage">&lt;dt&gt;
-      <img src="google-ad-no-ad-extension.jpg" alt="google-ad-no-ad-extension.jpg">
-   &lt;/dt&gt;<dd>Figure: Bad Example – Ad doesn't have a clear message about either product or service, there’s no call extension even though it mentions "Call Now"<br></dd></dl><dl class="goodImage">&lt;dt&gt;<img src="google-ad-extension.jpg" alt="google-ad-extension.jpg"><br>&lt;/dt&gt;<dd>Figure: Good Example - Sitelinks and Call extensions on one of our mobile ads</dd></dl>
+
+[[badExample]]
+| ![Ad doesn't have a clear message about either product or service, there’s no call extension even though it mentions "Call Now"](google-ad-no-ad-extension.jpg)
+
+[[goodExample]]
+| ![Sitelinks and Call extensions on one of our mobile ads](google-ad-extension.jpg)

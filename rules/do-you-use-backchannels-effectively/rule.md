@@ -15,6 +15,7 @@ authors:
 - id: 108
   title: William Liebenberg
 related: []
+redirects: []
 
 ---
 
@@ -32,7 +33,7 @@ In general, use Teams for private information, or SMS as a last resort. Treat s
 
 
 ::: greybox
-**Client:** "I told them we’d need blah"
+ **Client:** "I told them we’d need blah"
  **Manager:** "Oh that does sound reasonable. Devs, why was that missed?"
 :::
 
@@ -47,7 +48,7 @@ Figure: Bad Example: Manager looks uninformed and is always on the back foot, an
 
 
 ::: greybox
-**Client:** "I told them we’d need blah."
+ **Client:** "I told them we’d need blah."
  **Dev (on a private channel with Manager):** "That’s true, but it only came up after the 1st sprint was already done."
  **Manager:** "My understanding was that was only asked for after the 1st sprint."
 
@@ -64,7 +65,7 @@ Figure: Good Example: Manager is armed with relevant information as needed
 
 
 ::: greybox
-**Dev:** "Heads up, they might be sensitive about this part as they have been very clear with us about it from the start and I missed it. This part was really my fault."
+ **Dev:** "Heads up, they might be sensitive about this part as they have been very clear with us about it from the start and I missed it. This part was really my fault."
 
 :::
 

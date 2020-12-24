@@ -15,6 +15,7 @@ authors:
 - id: 6
   title: Tristan Kurniawan
 related: []
+redirects: []
 
 ---
 
@@ -37,5 +38,5 @@ To enable these policies:
 2. Select the check-in policies above
 3. Click  **OK**
 
-<dl>&lt;dt&gt;<img alt="Chose check in policy" src="SC_TFSCI.jpg">&lt;/dt&gt;
-<dd>Figure: Chose check-in policies in TFS </dd></dl>
+
+![Chose check-in policies in TFS](SC_TFSCI.jpg)

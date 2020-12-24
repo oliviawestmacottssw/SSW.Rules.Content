@@ -9,6 +9,7 @@ authors:
 - id: 8
   title: John Liu
 related: []
+redirects: []
 
 ---
 
@@ -21,4 +22,4 @@ When you move to SharePoint 2010, nothing is to unexpectedly disappear. So prior
 4. Get the SharePoint master to sign off on the solution list
 
 
-![](MigrateSolutionsList.png)<font class="ms-rteCustom-FigureNormal">Figure: Have your SharePoint Master confirm if all these solutions are to be migrated</font>
+![Have your SharePoint Master confirm if all these solutions are to be migrated](MigrateSolutionsList.png)

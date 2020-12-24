@@ -9,10 +9,23 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 You should use a custom domain adds to your company brand.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<br><br>::: greybox<br>bit.ly.com/MyShortenedLink<br>:::<br><br>&lt;/dt&gt;<dd>Figure&#58; Bad example</dd></dl><dl class="goodImage">   &lt;dt&gt;<br><br>::: greybox<br>r.ssw.com/MyShortenedLink<br>:::<br><br>&lt;/dt&gt;<dd>Figure&#58; Good example (for SSW)</dd></dl>
+
+
+
+:::
+bit.ly.com/MyShortenedLink
+::: greybox
+Figure: Bad example 
+
+
+:::
+r.ssw.com/MyShortenedLink
+::: greybox
+Figure: Good example (for SSW)

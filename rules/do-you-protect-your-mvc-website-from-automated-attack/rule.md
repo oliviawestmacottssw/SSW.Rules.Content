@@ -9,6 +9,7 @@ authors:
 - id: 42
   title: Shigemi Matsumoto
 related: []
+redirects: []
 
 ---
 
@@ -25,9 +26,9 @@ Learn how to by clicking [this link](https://shigemimatsumoto.wordpress.com/2015
 Figure: Good Example - reCAPTCHA is protecting a site from automated attack
 :::
 
-&lt;dt&gt;    
+
 ![](abd5fe_Untitled2.png)
-&lt;/dt&gt;
+
 
 ::: bad
 Figure: Bad Example - Older v1 reCAPTCHA.

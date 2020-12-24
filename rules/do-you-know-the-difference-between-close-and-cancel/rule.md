@@ -7,6 +7,7 @@ uri: do-you-know-the-difference-between-close-and-cancel
 created: 2014-12-01T04:16:17.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

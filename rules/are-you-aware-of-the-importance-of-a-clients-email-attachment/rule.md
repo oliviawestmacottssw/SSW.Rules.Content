@@ -11,6 +11,7 @@ authors:
 - id: 2
   title: Cameron Shaw
 related: []
+redirects: []
 
 ---
 
@@ -19,8 +20,18 @@ Sometimes clients will add attachment files into emails. Those files could be do
 <!--endintro-->
 
 ![](EmailAttachImage_1_small.jpg)
-<font class="ms-rteCustom-FigureBad">Figure: Bad Example - The image is in attachment. </font>
+::: bad
+Figure: Bad Example - The image is in attachment.
+:::
+
+
 
 ![](EmailAttachImage_2.JPG)
-<font class="ms-rteCustom-FigureGood">Figure: Good Example - The image is included in the context.</font>
+
+
+::: good
+Figure: Good Example - The image is included in the context.
+:::
+
+
  PS: Clients make attachments because they are using OWA and you can't paste an image in - see suggestion for OWA

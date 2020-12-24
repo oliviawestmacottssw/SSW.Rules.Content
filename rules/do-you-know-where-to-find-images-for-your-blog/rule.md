@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -19,7 +20,8 @@ You will need to ensure that you have the rights to use these featured images. A
 1. Purchasing a subscription to a stock image site
 2. Using a royalty-free stock image site. E.g. [unsplash.com](https://unsplash.com/) or [pxhere.com](https://pxhere.com/)
 3. Using Google Images that are labeled for reuse: 
-<dl class="image">&lt;dt&gt;<img src="google-image-labeled-reuse.jpg" alt="google-image-labeled-reuse.jpg">&lt;/dt&gt;<dd>Figure: Finding Images Labelled for Reuse within Google Images <br></dd></dl>
+
+![Finding Images Labelled for Reuse within Google Images](google-image-labeled-reuse.jpg)
 4. Taking your own photos
 
 

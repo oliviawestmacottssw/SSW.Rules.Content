@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -22,6 +23,5 @@ This is a simple rule - if someone goes beyond the call of duty, you thank them.
 **Bonus:** If you want to go further, you can tweet the link where you've found help from.
 
 **Tip:** Elaborate your text and avoid adding URLs as it may look like spam.
-<dl class="image">&lt;dt&gt;
-      <img src="GoodJob.jpg" alt="GoodJob.jpg">
-   &lt;/dt&gt;<dd>Figure: Show appreciation when you've got help<br></dd></dl>
+
+![Show appreciation when you've got help](GoodJob.jpg)

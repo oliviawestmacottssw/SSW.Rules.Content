@@ -12,6 +12,7 @@ authors:
   title: Joanna Feely
 related:
 - do-you-use-a-finger-scanner-to-monitor-access-to-secure-areas
+redirects: []
 
 ---
 
@@ -20,5 +21,15 @@ Keys, we all have them. A key for the front door, a key for the garage, a key to
 <!--endintro-->
 
 If you allocate each individual lock a color and then tag or colour your keys to match, you can save a lot of time and effort identifying the correct key.
-<dl class="badImage">&lt;dt&gt;<img src="keys 2.JPG" alt="keys 2.JPG">&lt;/dt&gt;<dd>Figure: Bad example - Figure: Bad Example - a key bunch with no color-coding, total anarchy! <br></dd></dl><dl class="goodImage">&lt;dt&gt;<img src="keys 1.JPG" alt="keys 1.JPG">&lt;/dt&gt;<br><br>::: good<br>Figure: Good example - color-coded keys with labels, perfect order.<br>:::<br><br></dl>
+
+[[badExample]]
+| ![](keys 2.JPG)!
+
+![](keys 1.JPG)
+
+:::
+Figure: Good example - color-coded keys with labels, perfect order.
+::: good
+
+
 **Tip:** While you can buy colored keys, they are not as strong as their silver counterparts, and can break in the locks of heavier doors. Using nail polish to mark your keys, or using a key cover is a better way to go!

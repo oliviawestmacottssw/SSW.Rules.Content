@@ -7,12 +7,13 @@ uri: do-you-give-the-6-options-to-share
 created: 2012-11-27T02:16:07.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
 If users want to make some information public, then make it easy for them.
 
 <!--endintro-->
-<dl class="goodImage">&lt;dt&gt;
-      <img src="../../assets/social-networks.jpg" alt="social networks links">
-   &lt;/dt&gt;<dd>Figure: Good example – User can easily share information via 6 avenues, Google+, Twitter, Facebook, email, SMS, and copy to clipboard for pasting.</dd></dl>
+
+[[goodExample]]
+| ![User can easily share information via 6 avenues, Google+, Twitter, Facebook, email, SMS, and copy to clipboard for pasting.](../../assets/social-networks.jpg)

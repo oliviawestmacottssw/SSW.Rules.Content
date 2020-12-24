@@ -13,6 +13,7 @@ related:
 - do-you-control-the-drop-down-list-value-for-assigned-to-field
 - do-you-have-a-witadmin-script-to-import-work-item-definitions
 - do-you-use-global-list
+redirects: []
 
 ---
 

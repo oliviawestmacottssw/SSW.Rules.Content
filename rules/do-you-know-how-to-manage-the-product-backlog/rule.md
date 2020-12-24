@@ -11,13 +11,12 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
-The Product Owner (PO) is responsible for managing the Product Backlog. This includes the following:  <dl class="image">&lt;dt&gt; 
-      <img src="po-tasks.jpg" alt="PO Tasks"> 
-   &lt;/dt&gt;<dd>Figure: PO responsibilities regarding the Backlog from the 
-      <a href="http://www.youtube.com/watch?v=3eljozEWpf8" target="_blank">“What is a Product Owner” video</a></dd></dl>
+The Product Owner (PO) is responsible for managing the Product Backlog. This includes the following:  
+![PO responsibilities regarding the Backlog from the](po-tasks.jpg)[“What is a Product Owner” video](http://www.youtube.com/watch?v=3eljozEWpf8)
 <!--endintro-->
 
 1. Create clear PBIs

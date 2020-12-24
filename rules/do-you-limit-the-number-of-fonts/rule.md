@@ -7,6 +7,7 @@ uri: do-you-limit-the-number-of-fonts
 created: 2010-06-08T08:13:50.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -20,6 +21,12 @@ The rules are:
 
 
 <!--endintro-->
-<dl>    &lt;dt&gt;<img class="ms-rteCustom-ImageArea" alt="too many fonts used for headers" src="BadLimitFont.jpg"> &lt;/dt&gt;
-    <br><br>::: bad<br>Figure: Bad Example - 2 fonts are used, 2 styles are used, and flourished type face used. This all makes your slide hard to read for the audience<br>:::<br><br></dl><dl>    &lt;dt&gt;<img class="ms-rteCustom-ImageArea" src="GoodLimitFont.jpg" alt=""> &lt;/dt&gt;
-    <dd class="ms-rteCustom-FigureGood">Figure: Better Example - Even though there are a lot of words, the main ones are clear because there is only one font used, with color to emphasize</dd></dl>
+
+![](BadLimitFont.jpg)
+
+:::
+Figure: Bad Example - 2 fonts are used, 2 styles are used, and flourished type face used. This all makes your slide hard to read for the audience
+::: bad
+
+
+![Better Example - Even though there are a lot of words, the main ones are clear because there is only one font used, with color to emphasize](GoodLimitFont.jpg)

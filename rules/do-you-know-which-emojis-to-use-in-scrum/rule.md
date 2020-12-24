@@ -7,6 +7,7 @@ uri: do-you-know-which-emojis-to-use-in-scrum
 created: 2020-04-06T07:26:07.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

@@ -7,6 +7,7 @@ uri: do-you-make-todo-items-in-red
 created: 2010-06-08T10:06:05.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -15,5 +16,5 @@ You might have plenty of ideas when you are preparing your presentation. Add the
 Note: We suggest you keep them consistent with VS.NET e.g. “TODO: xxx”
 
 <!--endintro-->
-<dl>    &lt;dt&gt;<img class="ms-rteCustom-ImageArea" src="Todo.jpg" alt=""> &lt;/dt&gt;
-     <strong>Figure: Put your working "TODO:" notes in red</strong> </dl>
+
+![Put your working "TODO:" notes in red](Todo.jpg)

@@ -7,6 +7,7 @@ uri: do-you-use-image-styles-to-ensure-great-looking-content
 created: 2015-10-13T00:27:47.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -15,20 +16,30 @@ Many people will simply "plonk" an image onto a web page in between or next to a
 A good technique is to set a CSS style to images. This style will be consistent and easy to be used by any person who might edit the website content.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;
-      <img src="imageWithoutStyles.jpg" alt="Image without styles">
-   &lt;/dt&gt;<dd>Figure: Bad Example - The image has no styles</dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="imageWithStyles.jpg" alt="Image with styles">
-   &lt;/dt&gt;<dd>Figure: Good Example - The image has CSS driven margin, padding, borders</dd></dl>
-It's also important to choose the correct semantic formatting for images. Different HTML codes might give the same look and feel, but the best way to add images to your page is using       ,      **&lt;dt&gt;** and       tags.
-<dl class="badCode">&lt;dt&gt;<pre>    <div class="badImage">
+
+[[badExample]]
+| ![The image has no styles](imageWithoutStyles.jpg)
+[[goodExample]]
+| ![The image has CSS driven margin, padding, borders](imageWithStyles.jpg)
+It's also important to choose the correct semantic formatting for images. Different HTML codes might give the same look and feel, but the best way to add images to your page is using      **<dl></dl>** ,       and       tags.
+
+
+```
+<div class="badImage">
         <img src="Images/imageWithoutStyles.jpg" alt="Image without styles">
         <span>Figure: Bad Example - The image has no styles</span>
-    </div>   
-                    </pre>&lt;/dt&gt;<dd>Figure: Bad Example - Inserting images and captions inside <div> tags</div></dd></dl><dl class="goodCode">&lt;dt&gt;<pre>    <dl class="badImage">
-        &lt;dt&gt;<img src="Images/imageWithoutStyles.jpg" alt="Image without styles">&lt;/dt&gt;
-        <dd>Figure: Bad Example - The image has no styles</dd>
-    </dl>   
-                    </pre>&lt;/dt&gt;<dd>Figure: Good Example - Using the <dl>, &lt;dt&gt; and <dd> tags for images</dd></dl>
+    </div>
+```
 
-</dd></dl>
+Figure: Bad Example - Inserting images and captions inside
+ tags
+
+
+```
+<dl class="badImage">
+        <dt><img src="Images/imageWithoutStyles.jpg" alt="Image without styles"></dt>
+        <dd>Figure: Bad Example - The image has no styles</dd>
+    </dl>
+```
+
+Figure: Good Example - Using the ,tags for imagesand

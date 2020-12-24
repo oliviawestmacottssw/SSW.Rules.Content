@@ -11,17 +11,18 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
 Text boxes are often limited in size. When the user have a large ammount of text, the field should grow bigger to show the whole query.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;
-      <img src="textarea-small-bad.png" alt="text area bad example" style="width:600px;">
-   &lt;/dt&gt;<dd>Figure: Bad example - Can't see the whole query</dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="textarea-big-good.png" alt="text area good example">
-   &lt;/dt&gt;<dd>Figure: Good example - Text area expands showing the entire message as it is typed</dd></dl>
+
+[[badExample]]
+| ![Can't see the whole query](textarea-small-bad.png)
+[[goodExample]]
+| ![Text area expands showing the entire message as it is typed](textarea-big-good.png)
 More info:
 
 * http://blogs.sitepointstatic.com/examples/tech/textarea-expander/demo.html

@@ -11,6 +11,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -35,8 +36,8 @@ There are 4 ways developers can keep track of what they have been working on whe
 ### Why have we moved away from Physical Diaries?
 
 Back in the day, people used to keep physical diaries to keep track of what work they did, and then they'd get the client to sign it each day they were on site to ensure they were communicating. This is now all covered by TFS check ins, CRM bookings, Outlook emails, and     [Daily Scrums](/methodology-do-you-do-daily-scrums-%28aka-stand-up-meetings%29) to ensure communication.
-<dl class="badImage">&lt;dt&gt;
-      <img alt="Keep your Diary or timesheet with you" src="diary.jpg">
-   &lt;/dt&gt;<dd>Figure: Bad Example – Physical Diaries are no longer needed</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img alt="Keep your Diary or timesheet with you" src="TFS-comments.png"> 
-   &lt;/dt&gt;<dd>Figure: Good Example – TFS Check in comments are a very accurate recording of what work was done</dd></dl>
+
+[[badExample]]
+| ![Physical Diaries are no longer needed](diary.jpg)
+[[goodExample]]
+| ![TFS Check in comments are a very accurate recording of what work was done](TFS-comments.png)

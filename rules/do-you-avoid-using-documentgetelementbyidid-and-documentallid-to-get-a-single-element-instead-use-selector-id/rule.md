@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -27,7 +28,7 @@ With jQuery, you can write less code but do more work.
 
 
 ::: bad
- Figure - Bad Code 
+Figure - Bad Code
 :::
 
 
@@ -38,7 +39,7 @@ With jQuery, you can write less code but do more work.
 
 
 ::: bad
- Figure: Bad Code 
+Figure: Bad Code
 :::
 
 
@@ -49,6 +50,6 @@ With jQuery, you can write less code but do more work.
 
 
 ::: good
- Figure: Good Code - Using $("#Head1")
+Figure: Good Code - Using $("#Head1")
 
 :::

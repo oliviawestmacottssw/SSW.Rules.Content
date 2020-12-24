@@ -9,6 +9,7 @@ authors:
 - id: 83
   title: Camilla Rosa Silva
 related: []
+redirects: []
 
 ---
 
@@ -32,4 +33,6 @@ Here are some tips that you can use to improve your content approval process:
 7. Reduce the rounds of approval - In this process, you should only include only people that have the skills and capacity to analyze your content goal, and consequently the content itself
 8. Always think of your personas when creating content - who are you trying to target?
 
-<dl class="ssw15-rteElement-ImageArea"> <strong><dl class="ssw15-rteElement-ImageArea"> <strong><img src="contentapproval2.png" alt="contentapproval2.png" style="margin:5px;width:808px;"></strong> </dl></strong> <strong>Figure: Example of a template you can use to get approval for your social media content, note it shows what platforms it will be posted on, when, the test and how it will look. It will also help give you an idea of what your feed will look like to ensure it has a nice balance of images.</strong> <br></dl>
+ ** 
+![](contentapproval2.png) ** 
+ **Figure: Example of a template you can use to get approval for your social media content, note it shows what platforms it will be posted on, when, the test and how it will look. It will also help give you an idea of what your feed will look like to ensure it has a nice balance of images.**

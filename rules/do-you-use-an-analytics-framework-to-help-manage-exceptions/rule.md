@@ -13,6 +13,7 @@ authors:
 related:
 - do-you-know-how-to-set-up-application-insights
 - do-you-know-why-you-want-to-use-application-insights
+redirects: []
 
 ---
 

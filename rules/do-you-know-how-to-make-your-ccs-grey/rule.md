@@ -9,10 +9,13 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 Cut down the noise in your inbox by visually filtering emails not sent directly to you.
 
 <!--endintro-->
-<dl class="goodImage">&lt;dt&gt;<img alt="make cc grey" src="MakeCCGrey.jpg" style="width:590px;"> &lt;/dt&gt;<dd>Figure: Good Example - Cut down the noise in your inbox by visually filtering emails not sent directly to you</dd></dl>
+
+[[goodExample]]
+| ![Cut down the noise in your inbox by visually filtering emails not sent directly to you](MakeCCGrey.jpg)

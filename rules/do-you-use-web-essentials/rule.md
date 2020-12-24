@@ -9,6 +9,7 @@ authors:
 - id: 37
   title: Ben Cull
 related: []
+redirects: []
 
 ---
 
@@ -16,7 +17,8 @@ Web Essentials is a Visual Studio extension that greatly improves the productivi
 <!--endintro-->
 
 You can install Web Essentials from the  **Tools** |  **Extensions and Updates** menu.
-<dl class="goodImage">&lt;dt&gt;<img src="SSW - Rules - Web Essentials.png" alt="SSW - Rules - Web Essentials.png" style="width:600px;">&lt;/dt&gt;<dd>Good Example: Web Essentials is in the Installed list.</dd></dl>
+
+![Web Essentials is in the Installed list.](SSW - Rules - Web Essentials.png)
 Be sure to make sure your visual studio version and your web essentials version are the same.
 
 You can find more information at the extensions website found here: http://vswebessentials.com/

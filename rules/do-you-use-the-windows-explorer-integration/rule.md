@@ -15,14 +15,15 @@ authors:
 - id: 6
   title: Tristan Kurniawan
 related: []
+redirects: []
 
 ---
 
 1. Install the TFS Power Tools
 2. When you install this, make sure you do a 'Custom Install', and select the 'Shell Integration' option (this is off by default)
 
-<dl>&lt;dt&gt;<img alt="Use Windows Explorer" src="TFS_WE_01.jpg">&lt;/dt&gt;
-<dd>Figure: Using Windows Explorer for your source control is a dream (great for designers too - who don't want to use VS.NET) </dd></dl>
+
+![Using Windows Explorer for your source control is a dream](TFS_WE_01.jpg)(great for designers too - who don't want to use VS.NET) 
 Suggestion to the TFS Team: I didn't see blame annotate in the drop down - which is a bit odd.
 
 More reading from the prolific Brian Harry: 

@@ -9,20 +9,21 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
-Try to avoid Double-Negative Conditionals in if-statements. Double negative conditionals are difficult to read because developers have to evaluate which is the positive state of two negatives. So always try to make a single positive when you write if-statement.
+Try to avoid Double-Negative Conditionals in if-statements. Double negative conditionals are difficult to read because developers have to evaluate what is positive state of two negatives. So always try to make a single positive when you write if-statement.
 
 <!--endintro-->
 
 if (!IsValid)
 {
-        // handle no error
+ // handle no error
 }
 else
 {
-       // handle error
+ // handle error
 }
 
 
@@ -36,11 +37,11 @@ Figure: Bad example
 
 if (IsValid)
 {
-       // handle error
+ // handle error
 }
 else
 {
-       // handle no error
+ // handle no error
 }
 
 
@@ -54,7 +55,7 @@ Figure: Good example
 
 if (!IsValid)
 {
-       // handle error
+ // handle error
 }
 
 

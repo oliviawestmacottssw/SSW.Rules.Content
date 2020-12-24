@@ -17,6 +17,7 @@ authors:
 - id: 23
   title: Damian Brady
 related: []
+redirects: []
 
 ---
 
@@ -26,7 +27,7 @@ You should always have two builds on your team project. These should be setup an
 
 <!--endintro-->
 
-![](Builds.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Two builds named in the format [TeamProject].[AreaPath]_[Branch].|CI|Nightly] for every branch.</font> These builds should use the same XAML build workflow; however you may set them up to run a different set of tests depending on the time it takes to run a full build.  
+![Two builds named in the format](Builds.jpg)[TeamProject].[AreaPath]\_[Branch].|CI|Nightly] for every branch.** These builds should use the same XAML build workflow; however you may set them up to run a different set of tests depending on the time it takes to run a full build.  
 
 * 
 * **CI** - This should run all Unit Tests and all of the automated UI tests. It is run after a successful developer check-in.
@@ -42,8 +43,18 @@ You should always have two builds on your team project. These should be setup an
 
 **Important:** Gate Builds are bad! Some people believe in having a build that stops developers checking in code unless the build succeeds. See our rule on [Do You Know That Gated Checkins Mask Dysfunction?](/do-you-know-that-gated-checkins-mask-dysfunction)
 
-![](ControlTestAndData.jpg)<font class="ms-rteCustom-FigureNormal">Figure: You can control what tests are run and what data is collected while they are running.</font> Note: We do not run all the tests every time because of the time consuming nature of running some tests, but ALL tests should be run overnight.  
+![You can control what tests are run and what data is collected while they are running. Note: We do not run all the tests every time because of the time consuming nature of running some tests, but ALL tests should be run overnight.](ControlTestAndData.jpg)
 Note: If you had a really large project with thousands of tests including long running Load tests you may need to add a Weekly build to the mix.  
 
-![](BuildStatus01.jpg) <font class="ms-rteCustom-FigureBad">Figure: Bad example, you can't tell what these builds do if they are in a larger list </font>
-![](BuildStatus02.jpg)<font class="ms-rteCustom-FigureGood">Figure: Good example, you know exactly what project, branch and type of build these are for. </font>
+![](BuildStatus01.jpg) 
+
+::: bad
+Figure: Bad example, you can't tell what these builds do if they are in a larger list
+:::
+
+
+![](BuildStatus02.jpg)
+
+::: good
+Figure: Good example, you know exactly what project, branch and type of build these are for.
+:::

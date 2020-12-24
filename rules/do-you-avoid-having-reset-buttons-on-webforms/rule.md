@@ -13,6 +13,7 @@ authors:
 - id: 7
   title: Jade Mitchell
 related: []
+redirects: []
 
 ---
 
@@ -21,9 +22,8 @@ Why do web pages have "Reset" buttons? I have been entering forms on the web for
 <!--endintro-->
 
 More detailed information about this rule can be found in this article http://www.nngroup.com/articles/reset-and-cancel-buttons/
-<dl class="image">&lt;dt&gt; 
-         <img src="ResetButton.gif" alt=""> 
-      &lt;/dt&gt;<dd>Figure: The "Reset" button isn't useful at all </dd></dl>
+
+![The "Reset" button isn't useful at all](ResetButton.gif)
 We have a program called        [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.
 
 We have a program called        [SSW Link Auditor](http://www.ssw.com.au/ssw/LinkAuditor) to check for this rule.

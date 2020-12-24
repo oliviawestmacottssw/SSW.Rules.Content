@@ -9,6 +9,7 @@ authors:
 - id: 83
   title: Camilla Rosa Silva
 related: []
+redirects: []
 
 ---
 
@@ -44,15 +45,14 @@ Making sure everyone from your team is on the same page about how to approach th
 4. Use a social media management tool
 
 You can use social media monitoring tools to keep track of the comments you get on social media, like Zendesk or Hootsuite.
-<dl class="ssw15-rteElement-ImageArea"><img src="commentsonzendesk.png" alt="commentsonzendesk.png" style="margin:5px;width:808px;"> <strong>Figure: This is Zendesk UI to help you reply to comments on social media - You can reply, mark as solved, open or pending through the platform</strong> <br></dl><dl class="ssw15-rteElement-ImageArea"><img src="engagement-new-streams.png" alt="engagement-new-streams.png" style="margin:5px;"><strong style="background-color:initial;">Figure: This is Hootsuite UI to manage comments (more expensive)</strong> <strong style="background-color:initial;"><dl class="ssw15-rteElement-ImageArea"><strong style="background-color:initial;"><br></strong> </dl></strong> </dl>
+
+![This is Zendesk UI to help you reply to comments on social media - You can reply, mark as solved, open or pending through the platform](commentsonzendesk.png)
+![](engagement-new-streams.png)**
+ ** **Figure: This is Hootsuite UI to manage comments (more expensive)** 
 ### 5. Use the hide functionality (Facebook only)
 
 
 Facebook has a nice functionality where if you hide a comment, the user who posted it (and the page manager) can still see it. This hide functionality is useful as it doesn’t inflame the situation. On other platforms, you have to either publicly comment to indicate that the message is against your company’s values or report the comment to hide it.
-<dl class="image">&lt;dt&gt;
-      <img src="Screen Shot 2020-06-02 at 8.37.31 am.png" alt="Screen Shot 2020-06-02 at 8.37.31 am.png" style="width:750px;">
-      <br>
-   &lt;/dt&gt;<dd>Figure: Facebook allows you to hide or report a comment</dd></dl><dl class="image">&lt;dt&gt;
-      <img src="Screen Shot 2020-06-02 at 8.38.01 am.png" alt="Screen Shot 2020-06-02 at 8.38.01 am.png" style="width:750px;">
-      <br>
-   &lt;/dt&gt;<dd>Figure: A few options Facebook gives you when reporting a comment<br><br></dd></dl>
+
+![Facebook allows you to hide or report a comment](Screen Shot 2020-06-02 at 8.37.31 am.png)
+![A few options Facebook gives you when reporting a comment](Screen Shot 2020-06-02 at 8.38.01 am.png)

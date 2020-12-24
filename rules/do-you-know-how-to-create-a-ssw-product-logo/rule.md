@@ -9,13 +9,15 @@ authors:
 - id: 90
   title: Ken Shi
 related: []
+redirects: []
 
 ---
 
 Product logo design is an important tool when it comes to promoting SSW’s products or services. An SSW product logo must have a unique design that incorporates with SSW corporate visual concept and colors, makes a lasting positive impression on our customers.
 
 <!--endintro-->
-<dl class="ssw15-rteElement-ImageArea"><img src="SSW products logos.png" alt="" style="width:770px;"> </dl>
+
+![](SSW products logos.png)
 
 ::: good
 Figure: Good Example - Some of the current SSW Product Logos
@@ -30,9 +32,9 @@ Figure: Good Example - Some of the current SSW Product Logos
 
 A well designed SSW product logo has three parts: a pair of angle brackets, an icon, and the product name.  
 
-<dl class="ssw15-rteElement-ImageArea"> 
-         <img src="logoparts.png" alt="" style="width:770px;">
-         <span style="font-weight:bold;">Figure: Main parts of an SSW product logo</span></dl><dl class="ssw15-rteElement-ImageArea">         <span style="font-weight:bold;"><br></span></dl>
+
+![Main parts of an SSW product logo](logoparts.png)
+
 ###  2. The color of an SSW product logo
 
 
@@ -48,8 +50,8 @@ A well designed SSW product logo has three parts: a pair of angle brackets, an i
 
 An SSW product logo can be shown in these color variations: Two-Colored, SSW charcoal, true black, or all white.
 
-<dl class="ssw15-rteElement-ImageArea">      <img src="4 color logo.png" alt="" style="width:770px;">
-   </dl>
+
+![](4 color logo.png)
 
 ::: good
 Figure: Good Example - TimePro logo in 4 different colors
@@ -75,7 +77,8 @@ The font used on SSW product logo is Helvetica Neue LT Pro, the font weight for 
 
 A vertical layout version should also take consideration when creating an SSW product logo. Place the icon set and product name vertically, make the product name 80% of the original size (e.g. 30pt for original, 24pt for vertical).
 
-<dl class="ssw15-rteElement-ImageArea">   <img src="vertical logo.png" alt="" style="width:770px;"></dl>
+
+![](vertical logo.png)
 
 ::: good
 Figure: Good Example -Vertical version of TimePro logo

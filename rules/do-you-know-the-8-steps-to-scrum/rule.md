@@ -11,15 +11,16 @@ authors:
 - id: 33
   title: Gerard Beckerleg
 related: []
+redirects: []
 
 ---
 
 Scrum is easier than it seems, we'll explain how in these 8 simple steps.
 
 <!--endintro-->
-<dl class="goodImage">&lt;dt&gt;<img src="8Steps_preview.jpg" alt=""><br>&lt;/dt&gt;<dd>Figure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this 
-      <a href="/Documents/8StepstoScrum.pdf">SSW 8 Steps to Scrum PDF</a> and put it on your " 
-      <a href="/Pages/ScrumVisualImage.aspx">War Room</a>" wall<br></dd></dl>
+
+![This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this](8Steps_preview.jpg)
+" wall[War Room](/Pages/ScrumVisualImage.aspx)and put it on your "[SSW 8 Steps to Scrum PDF](/Documents/8StepstoScrum.pdf)
 ### 1. [Initial Meeting](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=459927ab-429c-4882-8822-ccfda6be4be6)
 
 In the Initial Meeting, the Product Owner explains the product vision. The Develoeprs think about the Architecture needed and how long they will need to come up with an estimate.

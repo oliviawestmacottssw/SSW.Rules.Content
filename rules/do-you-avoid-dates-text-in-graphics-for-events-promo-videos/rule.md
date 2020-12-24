@@ -9,11 +9,16 @@ authors:
 - id: 91
   title: Andrew Forsyth
 related: []
+redirects: []
 
 ---
 
 To maximize reusability and minimize costs, it’s best to avoid including dates as text in graphics for promotional videos.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="events-dates-bad.png" alt="events-dates-bad.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: Bad example - dates shown as text in graphics (creates extra work to change every time)</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="events-dates-good.png" alt="events-dates-good.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: Good example - no dates shown as text in graphics (can be re-used without editing)</dd></dl>
+
+[[badExample]]
+| ![dates shown as text in graphics](events-dates-bad.png)(creates extra work to change every time)
+[[goodExample]]
+| ![no dates shown as text in graphics](events-dates-good.png)(can be re-used without editing) 
 If there is some particular value/purpose in including dates there may be exceptions to this rule.

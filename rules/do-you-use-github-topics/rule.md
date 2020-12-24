@@ -11,6 +11,7 @@ authors:
 - id: 97
   title: Matt Goldman
 related: []
+redirects: []
 
 ---
 
@@ -23,6 +24,10 @@ Topics are free text tags that help identify the technologies, purpose, and inte
 Adding topics can increase the discoverability of your repos for both bots and human searchers.
 
 GitHub introduced topics in 2017, and you can use topics to search for repositories. For example, if you are looking for Blazor examples or libraries, you can enter Blazor as a search term, and then refine the search to repositories that have been tagged with the ‘Blazor’ topic.
-<dl class="image">&lt;dt&gt;<img src="github-repositories-topics-search.jpg" alt="github-repositories-topics-search.jpg" style="width:750px;">&lt;/dt&gt;<dd>Figure: Searching for repositories by topic</dd></dl>
+
+![Searching for repositories by topic](github-repositories-topics-search.jpg)
 Topics also help others to find your repository and increase the visibility and discoverability of your work.
-<dl class="badImage">&lt;dt&gt;<img src="github-repositories-topics-bad.jpg" alt="github-repositories-topics-bad.jpg" style="width:750px;">&lt;/dt&gt;<dd>Figure: Bad Example – no repositories tagged with topics on the first page</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="github-repositories-topics-good.jpg" alt="github-repositories-topics-good.jpg" style="width:750px;">&lt;/dt&gt;<dd>Figure: Great example – every repository is meticulously tagged with topics</dd></dl>
+
+[[badExample]]
+| ![no repositories tagged with topics on the first page](github-repositories-topics-bad.jpg)
+![Great example – every repository is meticulously tagged with topics](github-repositories-topics-good.jpg)

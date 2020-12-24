@@ -9,6 +9,7 @@ authors:
 - id: 48
   title: Jeremy Cade
 related: []
+redirects: []
 
 ---
 
@@ -37,7 +38,3 @@ Actions or Tasks follow a basic format of: Action / Task Name |  Where the task 
 ::: good
 Figure: Good Example of a Basic Action Table format
 :::
-
-&lt;dt&gt;
-&lt;/dt&gt;&lt;dt&gt;
-&lt;/dt&gt;

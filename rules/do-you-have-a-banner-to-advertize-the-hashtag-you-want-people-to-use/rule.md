@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -28,4 +29,7 @@ See examples of pages that advertise their hashtags:
 * [Sydney .NET User Group](http://www.ssw.com.au/ssw/NETUG/Sydney.aspx)  #NETUG
 * [SSW Rules](/) #SSWRules
 
-<dl class="image">&lt;dt&gt; <img alt="Twitter hashtag example" src="hashtag-twitter.jpg"> &lt;/dt&gt;<dd>Figure: This Twitter widget shows the hashtags working</dd></dl><dl class="goodImage">&lt;dt&gt; <img alt="SharePoint conference hashtag" src="sharepoint-conference-hashtag.jpg">&lt;/dt&gt;<dd>Figure: Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use</dd></dl>
+
+![This Twitter widget shows the hashtags working](hashtag-twitter.jpg)
+[[goodExample]]
+| ![SharePoint Conference 2014 banner to advertise the hashtag people should use](sharepoint-conference-hashtag.jpg)

@@ -9,10 +9,11 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
-You should always add the application name to the connection string so that SQL Server will know which application is connecting, and which database is used by that application. This will also allow SQL Profiler to trace individual applications which helps you monitor performance or resolve conflicts.
+You should always add the application name to the connection string so that SQL Server will know which application is connecting, and which database is used by that application. This will also allow SQL Profiler to trace individual application which helps you monitor performance or resolve conflicts.
 
 
 <!--endintro-->

@@ -9,6 +9,7 @@ authors:
 - id: 83
   title: Camilla Rosa Silva
 related: []
+redirects: []
 
 ---
 
@@ -34,5 +35,5 @@ It should definitely include:
 * Goals
 * Metrics that will be followed
 
-<dl class="image">&lt;dt&gt;<img src="contentmkt.png" alt="contentmkt.png">&lt;/dt&gt;<dd>Figure: Marketing Content is valuable with the right approach! - Image source: 
-      <a class="ignore" href="https://medium.com/%40joelesina/content-marketing-a-simple-guide-on-how-i-do-it-1b1791ca1898">Joe Lesina</a></dd></dl>
+
+![Marketing Content is valuable with the right approach](contentmkt.png)! - Image source:[Joe Lesina](https://medium.com/%40joelesina/content-marketing-a-simple-guide-on-how-i-do-it-1b1791ca1898)

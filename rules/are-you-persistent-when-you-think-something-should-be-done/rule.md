@@ -7,6 +7,7 @@ uri: are-you-persistent-when-you-think-something-should-be-done
 created: 2010-07-16T04:37:16.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

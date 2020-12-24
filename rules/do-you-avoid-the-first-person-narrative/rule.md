@@ -7,6 +7,7 @@ uri: do-you-avoid-the-first-person-narrative
 created: 2010-03-18T23:58:34.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

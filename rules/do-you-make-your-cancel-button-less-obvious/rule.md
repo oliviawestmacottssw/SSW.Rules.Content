@@ -11,13 +11,15 @@ authors:
 - id: 44
   title: Duncan Hunter
 related: []
+redirects: []
 
 ---
 
 To avoid users accidentally cancelling an operation when they thought they where clicking the save button you should always make your cancel button less obvious.  
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="bad-cancel-button-example.jpg" alt="bad-cancel-button-example.jpg">&lt;/dt&gt;<dd>Bad example: Cancel button looks like a save button</dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="good-example-cancel-button.jpg" alt="good-example-cancel-button.jpg">&lt;/dt&gt;<dd>Good example: Cancel button is less obvious</dd></dl>
+
+![Cancel button looks like a save button](bad-cancel-button-example.jpg)
+![Cancel button is less obvious](good-example-cancel-button.jpg)
 **Which side should the cancel button be on?**
 
 It depends which operating platform your program runs on:

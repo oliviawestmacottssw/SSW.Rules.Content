@@ -11,6 +11,7 @@ authors:
 - id: 46
   title: Danijel Malik
 related: []
+redirects: []
 
 ---
 
@@ -19,30 +20,51 @@ If web.config contains a &lt;httpHandlers&gt; or &lt;httpModules&gt; section, th
 This basically forces developers to explicitly enable inheritance in nested virtual directories. In 99% of cases this developers won't use inheritance on these two sections, however it causes issues when somebody wants to add a module or handler to the parent virtual directory.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<br><br>::: greybox<br><pre>&lt;configuration&gt;
-   &lt;system.web&gt;
-      &lt;httpHandlers&gt;
-         &lt;add verb=&quot;*&quot; 
-              path=&quot;*.New&quot; 
-              type=&quot;MyHandler.New,MyHandler&quot;/&gt;
-         &lt;add verb=&quot;GET,HEAD&quot; 
-              path=&quot;*.MyNewFileExtension&quot; 
-              type=&quot;MyHandler.MNFEHandler,MyHandler.dll&quot;/&gt;
-     &lt;/httpHandlers&gt;
-   &lt;system.web&gt;
-&lt;/configuration&gt;
-</pre><br>:::<br><br>&lt;/dt&gt;<dd>Figure&#58; Bad example</dd></dl><dl class="goodImage">&lt;dt&gt;<br><br>::: greybox<br><pre>&lt;configuration&gt;
-   &lt;system.web&gt;
-      &lt;httpHandlers&gt;
-         &lt;clear/&gt;
-         &lt;add verb=&quot;*&quot; 
-              path=&quot;*.New&quot; 
-              type=&quot;MyHandler.New,MyHandler&quot;/&gt;
-         &lt;add verb=&quot;GET,HEAD&quot; 
-              path=&quot;*.MyNewFileExtension&quot; 
-              type=&quot;MyHandler.MNFEHandler,MyHandler.dll&quot;/&gt;
-     &lt;/httpHandlers&gt;
-   &lt;system.web&gt;
-&lt;configuration&gt;
-</pre><br>:::<br><br>
-   &lt;/dt&gt;<dd>Figure&#58; Good example</dd></dl>
+
+
+
+:::
+
+
+```
+<configuration>
+   <system.web>
+      <httpHandlers>
+         <add verb="*" 
+              path="*.New" 
+              type="MyHandler.New,MyHandler"/>
+         <add verb="GET,HEAD" 
+              path="*.MyNewFileExtension" 
+              type="MyHandler.MNFEHandler,MyHandler.dll"/>
+     </httpHandlers>
+   <system.web>
+</configuration>
+```
+
+
+::: greybox
+Figure: Bad example
+
+
+:::
+
+
+```
+<configuration>
+   <system.web>
+      <httpHandlers>
+         <clear/>
+         <add verb="*" 
+              path="*.New" 
+              type="MyHandler.New,MyHandler"/>
+         <add verb="GET,HEAD" 
+              path="*.MyNewFileExtension" 
+              type="MyHandler.MNFEHandler,MyHandler.dll"/>
+     </httpHandlers>
+   <system.web>
+<configuration>
+```
+
+
+::: greybox
+Figure: Good example

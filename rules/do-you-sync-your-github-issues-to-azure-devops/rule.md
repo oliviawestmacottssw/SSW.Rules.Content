@@ -9,6 +9,7 @@ authors:
 - id: 99
   title: Christian Morford-Waite
 related: []
+redirects: []
 
 ---
 
@@ -68,7 +69,17 @@ Figure: Good Example - GitHub Action to Sync Issues to Azure DevOps
 
 :::
 
-<dl class="ssw15-rteElement-ImageArea"><br><img src="GitHub-Issues-Syncing-to-AzDevOps.png" alt="" style="margin:5px;"><br><br>::: good<br>Figure: Good Example - GitHub Issues Syncing to Azure DevOps<br><br><br>:::<br><br></dl>
+
+
+
+:::
+
+
+Figure: Good Example - GitHub Issues Syncing to Azure DevOps
+::: good
+
+
+![](GitHub-Issues-Syncing-to-AzDevOps.png)
 Pros
 
 * Easily manage sprints and calculate burndown and cycle time

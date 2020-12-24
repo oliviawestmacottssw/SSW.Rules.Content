@@ -11,6 +11,7 @@ authors:
 - id: 46
   title: Danijel Malik
 related: []
+redirects: []
 
 ---
 
@@ -21,4 +22,6 @@ Notes you take during meetings, presentations, user group, etc., can serve you w
 <!--endintro-->
 
 It is very important you write this down and discuss it with people in the room or with the presenter (if it was a presentation or user group). This will help everyone to understand what was good and what needs to improve.
-<dl class="goodImage">&lt;dt&gt;<img src="activity-feedback.jpg" alt="">&lt;/dt&gt;<dd>Figure: Good Example - Danijel took notes during the FireBootCamp Gala Day presentation and sent them to Adam</dd></dl>
+
+[[goodExample]]
+| ![Danijel took notes during the FireBootCamp Gala Day presentation and sent them to Adam](activity-feedback.jpg)

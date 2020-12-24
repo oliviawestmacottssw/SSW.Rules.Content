@@ -7,6 +7,7 @@ uri: do-you-plan-the-night-before-what-you-are-doing-the-next-day
 created: 2010-07-16T06:38:46.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

@@ -9,6 +9,7 @@ authors:
 - id: 3
   title: Eric Phan
 related: []
+redirects: []
 
 ---
 
@@ -45,4 +46,5 @@ At SSW we integrate Slack with:
 
 
 Even better, you can create bots in slack to manage things like deployments and updating release notes.
-<dl class="goodImage">&lt;dt&gt;<img src="2016-06-06_11-22-03.png" alt="2016-06-06_11-22-03.png" style="width:808px;">&lt;/dt&gt;<dd>Good example - One centralized location for team chat, deployment issues, exceptions and TFS changes</dd></dl>
+
+![example](2016-06-06_11-22-03.png)Good

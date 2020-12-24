@@ -9,6 +9,7 @@ authors:
 - id: 9
   title: William Yin
 related: []
+redirects: []
 
 ---
 
@@ -19,15 +20,15 @@ It means the browsers will only load images and embedded videos in the visible a
 <!--endintro-->
 
 On our rules web site, one of the pages’ initial loading size of images reduced from 4.8MB to 500KB after being applied “lazy loading” of images:
-<dl class="badImage">&lt;dt&gt;
-      <img src="load-images-1.jpg" alt="load-images-1.jpg" style="width:750px;height:231px;">
-   &lt;/dt&gt;<dd>Figure: Bad Example - load all images by default</dd></dl><dl class="goodImage">&lt;dt&gt;
-         <img src="load-images-2.jpg" alt="load-images-2.jpg" style="width:750px;height:224px;">
-      &lt;/dt&gt;<dd>Figure: Good Example - Do not load all images by default, only load them when they are visible while scrolling down the browsers</dd></dl>The page's initial loading size of JS scripts reduced from 2.3MB to 518KB after being applied “lazy loading” of embedded YouTube videos:<dl class="badImage">&lt;dt&gt;
-            <img src="load-images-3.jpg" alt="load-images-3.jpg" style="width:750px;height:374px;">
-         &lt;/dt&gt;<dd>Figure: Bad Example – load all embedded YouTube videos by default</dd></dl><dl class="goodImage">&lt;dt&gt;
-            <img src="load-images-4.jpg" alt="load-images-4.jpg" style="width:750px;height:437px;">
-         &lt;/dt&gt;<dd>Figure: Good Example - Do not load all embedded YouTube videos by default, only load them when they are visible while scrolling down the browsers</dd></dl>
+
+[[badExample]]
+| ![load all images by default](load-images-1.jpg)
+[[goodExample]]
+| ![Do not load all images by default, only load them when they are visible while scrolling down the browsersThe page's initial loading size of JS scripts reduced from 2.3MB to 518KB after being applied “lazy loading” of embedded YouTube videos:](load-images-2.jpg)
+[[badExample]]
+| ![load all embedded YouTube videos by default](load-images-3.jpg)
+[[goodExample]]
+| ![Do not load all embedded YouTube videos by default, only load them when they are visible while scrolling down the browsers](load-images-4.jpg)
 To implement lazy loading for image:
 
 1.	Check if the browser supports IntersectionObserver, if the browser supports IntersectionObserver, we will only load images and videos in the areas are visible to users by default. If the browser doesn’t support it, we will have to load all images and embedded videos on the page immediately after the page is loaded.

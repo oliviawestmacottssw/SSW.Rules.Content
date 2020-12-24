@@ -13,6 +13,7 @@ authors:
 - id: 14
   title: Martin Hinshelwood
 related: []
+redirects: []
 
 ---
 
@@ -20,7 +21,7 @@ Developing in ASP.NET is easy, you just press F5, Visual Studio spins up instanc
 
 In SharePoint 2007 there are three options, in SharePoint 2010 they have added one more.
 
-![](SetupSPEnviroment.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Setting up the development environment in SharePoint can give you a headache</font>
+![Setting up the development environment in SharePoint can give you a headache](SetupSPEnviroment.jpg)
 <!--endintro-->
  Your development choices in SharePoint 2007 are: 
 * Remote to a shared SharePoint development server 
@@ -59,7 +60,7 @@ One of the biggest problem is that SharePoint 2007 can only be installed on Wind
 <br>    Tip: You could minimise your exposure to the object model by using a Repository pattern, which would allow you to debug and test your application without SharePoint, but ultimately you will need to debug and test in SharePoint.
 
 
-![](UltimateSolution.jpg) <font class="ms-rteCustom-FigureNormal">Figure: The Ultimate solution for SharePoint development environments is to have another machine under your desk.</font> The Ultimate Solution 
+![The Ultimate solution for SharePoint development environments is to have another machine under your desk. The Ultimate Solution](UltimateSolution.jpg)
 
 * Get yourself a second machine (same as remote)
 * But don’t share it with anyone else!

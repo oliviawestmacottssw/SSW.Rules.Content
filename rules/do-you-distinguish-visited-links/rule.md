@@ -7,15 +7,16 @@ uri: do-you-distinguish-visited-links
 created: 2015-02-16T01:41:33.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
 Distinguishing visited links is very helpful to show where       users have been before. Visited links should still stand out       but not as obvious as unvisited ones. Give visited links a       less saturated colour to give that "used" look and be careful       not to overuse css techniques on visited links.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;
-      <img alt="Visited Links" src="../../assets/VisitedLinks.gif" style="margin:5px;width:161px;"> 
-   &lt;/dt&gt;<dd>Figure: Visited links are marked different from unvisited.<br></dd></dl>
+
+![Visited links are marked different from unvisited.](../../assets/VisitedLinks.gif)
+
 Specifying style for visited links is very simple. Just add this to your CSS file:
 
 A:visited { color: purple; }

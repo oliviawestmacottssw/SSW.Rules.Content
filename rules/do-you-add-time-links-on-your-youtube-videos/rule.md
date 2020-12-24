@@ -20,6 +20,7 @@ related:
 - do-you-add-cards-to-your-youtube-videos
 - do-you-add-end-screen-to-your-youtube-videos
 - do-you-follow-image-standard-sizes-on-social-media
+redirects: []
 
 ---
 
@@ -40,9 +41,7 @@ Steps to do this:
 4. Type in the timestamp (E.g. 04:41) on the video description. This also works on comments
 5. Save and YouTube will automatically add a link to that exact time of the video
 
-<dl class="goodImage">&lt;dt&gt;
-      <img src="youtube-video-time-link.jpg" alt="youtube-video-time-link.jpg" style="width:750px;">
-   &lt;/dt&gt;<dd>Figure: Timestamps are interactive - Users can easily go to each section of the video by clicking on these links or using the slider</dd></dl><dl class="goodImage">   &lt;dt&gt;
-      <img src="table-contents-in-video-screen.png" alt="table-contents-in-video-screen.png" style="width:750px;"> 
-   &lt;/dt&gt;<dd>Figure: Chapter Markers are rendered over the video and not interactive - A visual table of content inside the video screen - If you watch from 
-      <a href="https://youtu.be/GNdFj-abNNo?t=158">2:38</a> you will see a new section highlighted with a dip to black, <a href="/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e9fe9bb3-a078-413b-8527-8dcc508637d9">subtle sound effect</a>, and strikethrough on the section that just finished<br></dd></dl>
+
+![Timestamps are interactive - Users can easily go to each section of the video by clicking on these links or using the slider](youtube-video-time-link.jpg)
+![Chapter Markers are rendered over the video and not interactive - A visual table of content inside the video screen - If you watch from](table-contents-in-video-screen.png)
+, and strikethrough on the section that just finished[subtle sound effect](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=e9fe9bb3-a078-413b-8527-8dcc508637d9)you will see a new section highlighted with a dip to black,[2:38](https://youtu.be/GNdFj-abNNo?t=158)

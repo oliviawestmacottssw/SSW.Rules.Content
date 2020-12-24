@@ -9,6 +9,7 @@ authors:
 - id: 32
   title: Mehmet Ozdemir
 related: []
+redirects: []
 
 ---
 
@@ -17,5 +18,6 @@ If you are creating and using Components, you’re already doing a great job. Th
 **Apps | Component libraries | Create Component library**
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="create-component-library.png" alt="create-component-library.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: Create a new component library<span style="color:#444444;"></span></dd></dl>
+
+![Create a new component library](create-component-library.png)
 For more information on Component libraries see documentation here:     https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/component-library

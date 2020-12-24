@@ -7,6 +7,7 @@ uri: do-you-check-for-errors-after-the-migration-process
 created: 2010-12-23T07:11:10.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -20,6 +21,10 @@ After the database has finished being attached to the web application you will g
 
 
 ![](FixEventLogs.png)
-<font class="ms-rteCustom-FigureBad">figure: the event log should show 0 errors after fixing the errors</font>
+
+
+::: bad
+figure: the event log should show 0 errors after fixing the errors
+:::
 
 <!--endintro-->

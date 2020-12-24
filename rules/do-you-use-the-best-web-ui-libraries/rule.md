@@ -13,6 +13,7 @@ authors:
 - id: 36
   title: Daniel Šmon
 related: []
+redirects: []
 
 ---
 
@@ -21,9 +22,8 @@ Don't waste time evaluating which Web UI libraries to use. Most of the commonly 
 <!--endintro-->
 
 It's the most popular available framework today, which means more people involved in the project, more tutorials and articles from the community, more real-world examples/websites, more third-party extensions, and better integration with other web development products
-<dl class="image">&lt;dt&gt;
-      <img src="bootstrap.png" alt="bootstrap.png">
-   &lt;/dt&gt;<dd>Figure: Leader among frameworks today, Bootstrap toolkit is recommended to build successful websites</dd></dl>
+
+![Leader among frameworks today, Bootstrap toolkit is recommended to build successful websites](bootstrap.png)
 ### The 3 things a developer need to know to get up and running quickly with ASP.NET MVC
 
 

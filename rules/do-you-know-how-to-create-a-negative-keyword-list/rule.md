@@ -9,6 +9,7 @@ authors:
 - id: 83
   title: Camilla Rosa Silva
 related: []
+redirects: []
 
 ---
 
@@ -19,4 +20,5 @@ To do that, click on: “Tools" on top right |on “Shared Library", click on Ne
 <!--endintro-->
 
 Then create the title and add the keywords you think that might help you either save some money from non-targeted clicks or improve your results to get your right audience.
-<dl class="image">&lt;dt&gt;<img src="google-ads-organize-negative-keywords.jpg" alt="google-ads-organize-negative-keywords.jpg">&lt;/dt&gt;<dd>Figure: organize your negative keywords lists<br></dd></dl>
+
+![organize your negative keywords lists](google-ads-organize-negative-keywords.jpg)

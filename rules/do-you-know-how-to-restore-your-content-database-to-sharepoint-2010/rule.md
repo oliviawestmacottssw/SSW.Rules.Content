@@ -9,6 +9,7 @@ authors:
 - id: 21
   title: Matthew Hodgkins
 related: []
+redirects: []
 
 ---
 
@@ -27,8 +28,8 @@ Now we need to attach the database backup we took of our SharePoint 2007 server:
 
 
 ![](RestoreDatabase.png)
-<font class="ms-rteCustom-FigureNormal"> <b>Figure 6 - Select “Restore Database”</b> <br>
-    </font> * Follow the prompts to restore your database
+ Figure 6 - Select “Restore Database” 
+  * Follow the prompts to restore your database
 **
 2. Take the database out of read only mode (it will be in read only mode because we backed it up in read only mode)
 

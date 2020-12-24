@@ -11,6 +11,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -34,8 +35,9 @@ So recommendations for managing updates are as follows:
 4. Windows Updates may be critical and should be kept relatively up to date.
 5. Do all of this on a schedule - have an email sent to your SysAdmins to remind them to review and reboot needed machines:
 
-<dl class="goodImage">&lt;dt&gt;<img src="WSUSReport.png" alt="WSUSReport.png" style="width:750px;">
-   &lt;/dt&gt;<dd>Good Example: Scheduled email showing clear action points and WSUS stats<br></dd></dl>
+
+![Scheduled email showing clear action points and WSUS stats](WSUSReport.png)
+
 ###  Related Rules
 
 

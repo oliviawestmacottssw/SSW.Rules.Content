@@ -9,6 +9,7 @@ authors:
 - id: 24
   title: Adam Stephensen
 related: []
+redirects: []
 
 ---
 
@@ -22,4 +23,8 @@ Getting attendees at a course or presentation involved has many benefits:
 <!--endintro-->
 
 The easiest way to get attendees involved is to promote a social media hashtag at the beginning of every presentation or course.
-<dl class="badImage">&lt;dt&gt;<img src="presentation-promote-bad.jpg" alt="">&lt;/dt&gt;<dd>Figure: Bad Example – Presentation title slide does not promote attendee involvement</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="presentation-promote-good.jpg" alt="">&lt;/dt&gt;<dd>Figure: Good Example – Promoting a Twitter backchannel promotes online discussion and feedback</dd></dl>
+
+[[badExample]]
+| ![Presentation title slide does not promote attendee involvement](presentation-promote-bad.jpg)
+[[goodExample]]
+| ![Promoting a Twitter backchannel promotes online discussion and feedback](presentation-promote-good.jpg)

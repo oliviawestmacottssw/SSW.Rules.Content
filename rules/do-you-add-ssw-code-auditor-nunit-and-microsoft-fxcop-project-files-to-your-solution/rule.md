@@ -11,6 +11,7 @@ authors:
 - id: 17
   title: Ryan Tee
 related: []
+redirects: []
 
 ---
 
@@ -18,7 +19,8 @@ related: []
 <!--endintro-->
 
 
-<dl class="goodImage"> &lt;dt&gt;<img alt="Code Auditor Project File" src="CodeAuditorProjectFile.gif" border="0" style="border:0px solid currentcolor;"> &lt;/dt&gt; </dl>
+
+![](CodeAuditorProjectFile.gif)
 To add a [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) file to your solution:
 
 1. Start up SSW Code Auditor
@@ -31,7 +33,8 @@ To add a [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) 
 8. Right click and  **add existing file**
 9. Select the  **SSW Code Auditor project file**
 10. Right click the newly added file and select " **Open With** "
-<dl class="goodImage"> &lt;dt&gt;<img alt="Open With" src="OpenWith.gif" border="0" style="border:0px solid currentcolor;"> &lt;/dt&gt; </dl>
+
+![](OpenWith.gif)
 11. Point it to the SSW Code Auditor executable
 
 

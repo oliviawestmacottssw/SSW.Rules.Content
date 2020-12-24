@@ -14,6 +14,7 @@ related:
 - do-you-check-if-your-qantas-flight-is-eligible-for-a-"bid-now"-upgrade
 - do-you-know-how-to-get-the-most-out-of-your-credit-card
 - do-you-take-advantage-of-business-rewards-programs
+redirects: []
 
 ---
 

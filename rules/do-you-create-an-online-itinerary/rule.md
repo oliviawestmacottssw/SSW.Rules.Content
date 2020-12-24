@@ -16,6 +16,7 @@ related:
 - do-you-know-how-to-get-the-most-out-of-your-credit-card
 - do-you-check-your-boarding-pass
 - do-you-take-advantage-of-business-rewards-programs
+redirects: []
 
 ---
 

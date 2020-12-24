@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -49,9 +50,9 @@ That means all tests must pass.
 Test.Integration.WebUI: This test project tests the WebUI and depends on other external resources (Eg. probably needs a database, web services, etc.).
 That means if any external resource is unavailable, the tests will fail.
 Tests.Functional.SilverlightUI: Tests the Silverlight UI from an end-user perspective by clicking around in the application
-<dl class="goodImage">&lt;dt&gt;
-      <img src="UnitTestsProject.jpg" alt="UnitTestsProject.jpg">
-   &lt;/dt&gt;<dd>Figure: Good example - Naming for a Unit Test Project</dd></dl>Samples Naming of test methods
+
+[[goodExample]]
+| ![Naming for a Unit Test Project  Samples Naming of test methods](UnitTestsProject.jpg)
 [TestMethod]
  public void Test\_Client()
 
@@ -122,6 +123,9 @@ namespace SSW.NETToolkit.IntegrationTests
         }
     }
   }
-<dl class="image">&lt;dt&gt;<img src="TestGenerationSettings.gif" alt="TestGenerationSettings.gif">&lt;/dt&gt;<dd>Figure: This rule is consistent with the Visual Studio default</dd></dl>**Tip:** You can create a test project using the Unit Test Wizard: Test > Add New Test
 
-<dl class="image">&lt;dt&gt;<img src="AddNewTest.gif" alt="AddNewTest.gif">&lt;/dt&gt;<dd>Figure: Unit Test Wizard 1</dd></dl><dl class="image">&lt;dt&gt;<img src="CreateUnitTests.gif" alt="CreateUnitTests.gif">&lt;/dt&gt;<dd>Figure: Unit Test Wizard 2</dd></dl>
+![This rule is consistent with the Visual Studio default      Tip: You can create a test project using the Unit Test Wizard: Test > Add New Test](TestGenerationSettings.gif)
+
+
+![Unit Test Wizard 1](AddNewTest.gif)
+![Unit Test Wizard 2](CreateUnitTests.gif)

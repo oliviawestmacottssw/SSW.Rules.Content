@@ -7,6 +7,7 @@ uri: do-you-encapsulate-your-scripts-to-avoid-cluttering-the-global-namespace-an
 created: 2015-05-28T05:30:10.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

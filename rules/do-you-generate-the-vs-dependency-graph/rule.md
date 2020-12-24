@@ -13,6 +13,7 @@ authors:
 - id: 40
   title: Igor Goldobin
 related: []
+redirects: []
 
 ---
 
@@ -21,12 +22,11 @@ Dependency graphs are important because they give you an indication of the coupl
 A well architected application (ie. one that correctly follows the Onion Architecture) will be easy to maintain because it is loosely coupled.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt; 
-      <img src="TimePRODependence.png" class="ssw-rteStyle-ImageArea" alt="" style="height:119px;width:620px;"> 
-   &lt;/dt&gt;<dd>Figure: Bad Example- The Visual Studio Dependency Graph is hard to read</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img src="TimePRODependence-good.png" class="ssw-rteStyle-ImageArea" alt="TimePRODependence-good.png"> 
-   &lt;/dt&gt;<dd>Figure: Good Example – The ReSharper Dependency graph groups dependencies based on Solution Folders. By having a 
-      <a href="/do-you-have-a-consistent-net-solution-structure">Consistent Solution Structure</a> it is easy to see from your Dependency Graph if there is coupling between your UI and your Dependencies</dd></dl>
+
+[[badExample]]
+| ![The Visual Studio Dependency Graph is hard to read](TimePRODependence.png)
+[[goodExample]]
+| ![The ReSharper Dependency graph groups dependencies based on Solution Folders. By having ait is easy to see from your Dependency Graph if there is coupling between your UI and your Dependencies](TimePRODependence-good.png)[Consistent Solution Structure](/do-you-have-a-consistent-net-solution-structure)
 #### Further Reading:
 
 * [Do you use a dependency injection centric architecture?](/do-you-use-a-dependency-injection-centric-architecture)

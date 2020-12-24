@@ -9,6 +9,7 @@ authors:
 - id: 47
   title: Stanley Sidik
 related: []
+redirects: []
 
 ---
 
@@ -21,4 +22,5 @@ The email received at this address is sent to the mail server administrator, in 
 <!--endintro-->
 
 At SSW we have configured     postmaster@ssw.com.au as a distribution group, with mail server administrators as members of this distribution group.
-<dl class="image">&lt;dt&gt;<img src="postmaster.png" alt="postmaster.png">&lt;/dt&gt;<dd>Figure: Group members of postmaster@ssw.com.au</dd></dl>
+
+![Group members of postmaster@ssw.com.au](postmaster.png)

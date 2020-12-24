@@ -11,6 +11,7 @@ authors:
 - id: 9
   title: William Yin
 related: []
+redirects: []
 
 ---
 
@@ -24,7 +25,7 @@ The most polite way of doing this is to mention in the email why you are using E
 
 
 ::: greybox
-     Hi Joe, hope all is well. I wanted to confirm our conversation...
+Hi Joe, hope all is well. I wanted to confirm our conversation...
 :::
 
 

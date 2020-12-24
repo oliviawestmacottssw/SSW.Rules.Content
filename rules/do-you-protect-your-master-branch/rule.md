@@ -11,10 +11,15 @@ authors:
 - id: 58
   title: Jernej Kavka
 related: []
+redirects: []
 
 ---
 
 Use the VSTS Branch Policies feature. This is a super sexy feature.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="protect-branch-bad.jpg" alt="protect-branch-bad.jpg">&lt;/dt&gt;<dd>Figure: Bad example – no protection – anyone can make unreviewed changes</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="protect-branch-good.jpg" alt="protect-branch-good.jpg">&lt;/dt&gt;<dd>Figure: Good example – the branch protected</dd></dl>
+
+[[badExample]]
+| ![no protection – anyone can make unreviewed changes](protect-branch-bad.jpg)
+[[goodExample]]
+| ![the branch protected](protect-branch-good.jpg)

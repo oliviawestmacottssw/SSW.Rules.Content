@@ -11,6 +11,7 @@ authors:
 - id: 2
   title: Cameron Shaw
 related: []
+redirects: []
 
 ---
 
@@ -24,7 +25,9 @@ When emailing external parties, it is a good idea to CC the other colleagues wit
 <!--endintro-->
 
 In addition, I often see people replying only to the sender of the email, ignoring the fact that there were other persons included in the original email. Obviously the original sender intended to keep everyone in the loop, so it would be polite to CC everyone included on the original communication. The converse is true also - don't cc people unnecessarily - you're just adding to the email problem!
-<dl class="goodImage">&lt;dt&gt;<img src="good-emails-reply-to-all.jpg" alt="good-emails-reply-to-all.jpg">&lt;/dt&gt;<dd>Figure: Good Example - Reply All so that everyone is kept in the loop</dd></dl>
+
+[[goodExample]]
+| ![Reply All so that everyone is kept in the loop](good-emails-reply-to-all.jpg)
 If the original email was to an alias with many subscribers, in general you should not Reply All.     
 Also, if the sender requests a     ['little r'](http://www.ssw.com.au/ssw/Redirect/Netlingo.htm) reply, then you should not 'Reply All'.
 

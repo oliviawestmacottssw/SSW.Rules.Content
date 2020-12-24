@@ -11,6 +11,7 @@ authors:
 - id: 73
   title: Kaique Biancatti
 related: []
+redirects: []
 
 ---
 
@@ -18,13 +19,10 @@ In Bing, if you are logged in to your work account, you can easily see your rece
 The same works for your work colleagues.
 
 <!--endintro-->
-<dl class="goodImage">&lt;dt&gt; 
-      <img src="bing-recent-files.png" alt="bing-recent-files.png"> 
-   &lt;/dt&gt;<dd>Good Example: Bing - Find your files faster by just searching on Bing</dd></dl>
+
+![Bing - Find your files faster by just searching on Bing](bing-recent-files.png)
 **Suggestion to Microsoft:** Put a checkbox "Show thumbnails" like Delve.
 
 In a slower way, you can go to Delve to see this information with a different UI with big images.
-<dl class="badImage">&lt;dt&gt;
-      <img src="delve-recent-files.png" alt="delve-recent-files.png" style="width:750px;height:425px;">
-      <br>
-   &lt;/dt&gt;<dd>Bad Example: Delve - Is harder to get to and the UI doesn't offer a summary view like Bing<span style="color:#444444;"></span></dd></dl>
+
+![Delve - Is harder to get to and the UI doesn't offer a summary view like Bing](delve-recent-files.png)

@@ -11,10 +11,13 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 When working with JavaScript packages there are 2 common choices:
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt; <img src="npm-logo.jpg" alt="npm-logo.jpg"> &lt;/dt&gt;<dd>Figure: npm is the backbone of JavaScript development but after the <a href="https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/">left-pad</a> disaster of 2016 lots of developers wanted more power</dd></dl><dl class="image">&lt;dt&gt;<img src="yarn-logo.jpg" alt="yarn-logo.jpg">&lt;/dt&gt;<dd>Figure: Yarn is fast and enables offline support - If you've installed a package before, you can install it again without any internet connection (no more left-pad disasters)</dd></dl>
+
+![npm is the backbone of JavaScript development but after thedisaster of 2016 lots of developers wanted more power](npm-logo.jpg)[left-pad](https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/)
+![Yarn is fast and enables offline support - If you've installed a package before, you can install it again without any internet connection](yarn-logo.jpg)(no more left-pad disasters)

@@ -9,14 +9,16 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 If we want to refresh and data bind the same page from client side, we can use the javascript function calls "\_\_doPostBack". We shouldn't fire this post back in LinkButton. Otherwise, there will be an error.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="RightClickLink.gif" alt="RightClickLink.gif">&lt;/dt&gt;<dd>Figure: Right click the link with __doPostBack event  
-</dd></dl><dl class="image">&lt;dt&gt;<img src="PostBack.gif" alt="PostBack.gif">&lt;/dt&gt;<dd>Figure: New window with incorrect URL</dd></dl>
+
+![Right click the link with \_\_doPostBack event](RightClickLink.gif)
+![New window with incorrect URL](PostBack.gif)
 ASPX:
 <asp:panel runat="server" id="mUpdatePanel" onload="mUpdatePanel_Load"><br> <asp:label runat="server" id="lblTime"></asp:label><br> <br><br> <asp:gridview id="gvList" runat="server" autogeneratecolumns="false"><br> <columns><br> <asp:boundfield datafield="ID" headertext="ID"></asp:boundfield><br> </columns><br> <columns><br> <asp:boundfield datafield="Name" headertext="Name"></asp:boundfield><br> </columns><br> </asp:gridview><br> <br><br> ID:<asp:textbox id="txtID" runat="server"></asp:textbox><br> Name:<asp:textbox id="txtName" runat="server"></asp:textbox><br></asp:panel>
 C#:

@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -25,9 +26,9 @@ This way you help your users to access the information they need and help themse
 **Step 2:** Use a ticket system that supports deflected tickets. Zendesk is the leading solution with deflected tickets. ServiceNow is another good one.
 
 More info: https://support.zendesk.com/hc/en-us/community/posts/203459886-Fine-Tuning-Best-Practices-for-Ticket-Deflection
-<dl class="image">&lt;dt&gt; 
-      <img src="azure-logic-deflected-tickets.jpg" alt="azure-logic-deflected-tickets.jpg"> 
-   &lt;/dt&gt;<dd>Figure: You can use Azure Logic Apps with Cognitive Services to implement deflected tickets<br></dd></dl>
+
+![You can use Azure Logic Apps with Cognitive Services to implement deflected tickets](azure-logic-deflected-tickets.jpg)
+
 **Note:** SSW uses     [Zendesk](https://www.ssw.com.au/ssw/Consulting/Zendesk.aspx).
 
 

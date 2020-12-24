@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -23,7 +24,13 @@ Mike
 :::
 
 
-<font class="ms-rteCustom-FigureBad">Figure&#58; Bad Example - hard to read </font>
+
+
+::: bad
+Figure: Bad Example - hard to read
+:::
+
+
 
 ::: greybox
 
@@ -38,7 +45,13 @@ SQL Reporting Services appears happy in the Advanced Configuration Wizard. Anyon
 Mike
 :::
 
-<font class="ms-rteCustom-FigureGood">Figure&#58; Good example – this reads&#160;better</font>
+
+
+::: good
+Figure: Good example – this reads better
+:::
+
+
 Your new text should be kept to the left. When quoting text on web pages, other people or quoting past email history, indent it.
 
 **Note:** This is almost as important as the     [Do you use balloons instead of a 'Wall of Text'?](/Pages/HowToUseBalloons.aspx) rule.

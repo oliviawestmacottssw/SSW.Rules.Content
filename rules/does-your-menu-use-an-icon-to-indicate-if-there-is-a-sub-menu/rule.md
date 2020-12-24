@@ -7,13 +7,14 @@ uri: does-your-menu-use-an-icon-to-indicate-if-there-is-a-sub-menu
 created: 2015-02-16T03:00:07.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
 Too many sites expect the user to hover and wait to       'discover' if there are sub menus. Use an icon and avoid the       surprises.
 
 <!--endintro-->
-<dl class="goodImage">&lt;dt&gt; 
-      <img alt="Good" src="../../assets/SubmenusHaveIcons_Good.gif" style="margin:5px;"> 
-   &lt;/dt&gt;<dd>Figure: Good Example - This menu clearly shows which items have submenus</dd></dl>
+
+[[goodExample]]
+| ![This menu clearly shows which items have submenus](../../assets/SubmenusHaveIcons_Good.gif)
 [WorleyParson](http://www.worleyparsons.com/csg/infrastructureandenvironment/resource_infrastructure/Pages/default.aspx) submenus were also designed with this in mind.

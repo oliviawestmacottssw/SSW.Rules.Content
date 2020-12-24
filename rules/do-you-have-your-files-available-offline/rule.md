@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -16,4 +17,9 @@ Check "Always keep on this device" so you can access your files offline.
 
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt; <img src="onedrive-bad.jpg" alt="onedrive-bad.jpg"> &lt;/dt&gt;<dd>Figure: Bad example - By default you cannot open your files when you have no internet</dd></dl> <dl class="image"> &lt;dt&gt; <img src="onedrive-instructions.jpg" alt="onedrive-instructions.jpg"> &lt;/dt&gt;<dd>Figure: So check "Always keep on this device"</dd></dl><dl class="goodImage">&lt;dt&gt; <img src="onedrive-good.jpg" alt="onedrive-good.jpg"> &lt;/dt&gt;<dd>Figure: Good example – you can now open offline <br><br><br></dd></dl>
+
+[[badExample]]
+| ![By default you cannot open your files when you have no internet](onedrive-bad.jpg)
+![So check "Always keep on this device"](onedrive-instructions.jpg)
+[[goodExample]]
+| ![you can now open offline](onedrive-good.jpg)

@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -19,40 +20,27 @@ As we know, [an image is worth a thousand words](/_layouts/15/FIXUPREDIRECT.ASPX
 ###  Bad Example
 
 A fairly standard Access 97 application that needs some love (Before a makeover)
-<dl class="badImage">&lt;dt&gt; 
-      <img src="accessui_candidateedit1_before.gif" alt="Before a makeover" style="margin:5px;"> 
-   &lt;/dt&gt;<dd>Figure: Avoid using background colors for your form controls - they can be confusing</dd></dl><dl class="badImage">&lt;dt&gt; 
-      <img src="accessui_candidateedit2_before.gif" alt="Before a makeover" data-pin-nopin="true" style="margin:5px;"> 
-   &lt;/dt&gt;<dd>Figure: Avoid using non-standard fonts on your forms - keep them as close to Windows XP forms as possible</dd></dl><dl class="badImage">&lt;dt&gt; 
-      <img src="accessui_candidateedit3_before.gif" alt="Before a makeover" style="margin:5px;"> 
-   &lt;/dt&gt;<dd>Figure: All these forms will be grouped into a tabbed form</dd></dl><dl class="badImage">&lt;dt&gt; 
-      <img src="accessui_candidateedit4_before.gif" alt="Before a makeover" data-pin-nopin="true" style="margin:5px;"> 
-   &lt;/dt&gt;</dl><dl class="badImage">&lt;dt&gt; 
-      <img src="accessui_candidatesearch_before.gif" alt="Before a makeover" data-pin-nopin="true" style="margin:5px;"> 
-   &lt;/dt&gt;<dd>Figure: The colors on this form are very distracting and add no value to the user - keep it clean</dd></dl>
+
+![Avoid using background colors for your form controls - they can be confusing](accessui_candidateedit1_before.gif)
+![Avoid using non-standard fonts on your forms - keep them as close to Windows XP forms as possible](accessui_candidateedit2_before.gif)
+![All these forms will be grouped into a tabbed form](accessui_candidateedit3_before.gif)
+![](accessui_candidateedit4_before.gif)
+![The colors on this form are very distracting and add no value to the user - keep it clean](accessui_candidatesearch_before.gif)
 ###  Good Example 
 
 Screenshots of the existing Application in Access 97 after an SSW makeover (Good)
-<dl class="image">&lt;dt&gt; 
-      <img src="accessui_candidateedit1_after.gif" alt="After a makeover" data-pin-nopin="true" style="margin:5px;width:750px;height:476px;"> 
-   &lt;/dt&gt;<dd>Figure: This is the same application above - can you believe it? We grouped the forms into tabs</dd></dl><dl class="image">&lt;dt&gt; 
-      <img src="accessui_candidateedit2_after.gif" alt="After a makeover" data-pin-nopin="true" style="margin:5px;width:750px;"> 
-   &lt;/dt&gt;<dd>Figure: The icons give the form visual appeal and help to break up the plain colors</dd></dl><dl class="image">&lt;dt&gt; 
-      <img src="accessui_candidateedit3_after.gif" alt="After a makeover" data-pin-nopin="true" style="margin:5px;width:750px;height:475px;"> 
-   &lt;/dt&gt;<dd>Figure: It's easy to present your form more cleanly and with a Windows XP feel</dd></dl><dl class="image">&lt;dt&gt; 
-      <img src="accessui_candidatesearch_after.gif" alt="After a makeover" data-pin-nopin="true" style="margin:5px;"> 
-   &lt;/dt&gt;<dd>Figure: Even tricky forms with lots of logic can be tidied up. We used XP-styled controls and careful alignment to make this form more usable</dd></dl>
+
+![This is the same application above - can you believe it? We grouped the forms into tabs](accessui_candidateedit1_after.gif)
+![The icons give the form visual appeal and help to break up the plain colors](accessui_candidateedit2_after.gif)
+![It's easy to present your form more cleanly and with a Windows XP feel](accessui_candidateedit3_after.gif)
+![Even tricky forms with lots of logic can be tidied up. We used XP-styled controls and careful alignment to make this form more usable](accessui_candidatesearch_after.gif)
 ###  Better Example
 
 Access 2007 is an Easy Way to Give Your Old Access Application a new look (Best)
 
 These samples are from a Property Purchase and Negotiation Tracking application created for Queensland Water Infrastructure.
-<dl class="goodImage">&lt;dt&gt; 
-      <img src="Aqua_MainMenu.jpg" alt="Aqua_MainMenu.jpg" style="margin:5px;"> 
-   &lt;/dt&gt;<dd>Figure: The main menu of one of our first Access 2007 UIs. It looks even better than the revamped Access 97 application</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img src="Aqua_Valuation.jpg" alt="Aqua_Valuation.jpg" style="margin:5px;width:750px;"> 
-   &lt;/dt&gt;<dd>Figure: Note the Action buttons in the top right hand corner - they are based on the Access 2007 templates</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img src="Aqua_PickerForm.jpg" alt="Aqua_PickerForm.jpg" style="margin:5px;"> 
-   &lt;/dt&gt;<dd>Figure: This picker form is based on a web-style picker UI such as Hotmail so users have a familiar UI</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img src="Aqua_Agreement.jpg" alt="Aqua_Agreement.jpg" style="margin:5px;width:750px;height:648px;"> 
-   &lt;/dt&gt;<dd>Figure: With the use of frames with background colours, we have visually grouped controls</dd></dl>
+
+![The main menu of one of our first Access 2007 UIs. It looks even better than the revamped Access 97 application](Aqua_MainMenu.jpg)
+![Note the Action buttons in the top right hand corner - they are based on the Access 2007 templates](Aqua_Valuation.jpg)
+![This picker form is based on a web-style picker UI such as Hotmail so users have a familiar UI](Aqua_PickerForm.jpg)
+![With the use of frames with background colours, we have visually grouped controls](Aqua_Agreement.jpg)

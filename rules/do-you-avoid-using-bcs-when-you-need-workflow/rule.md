@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -19,8 +20,19 @@ If you are planning to use Workflow, use Workflow with SharePoint List instead o
 
 
 ![](BCSDoesNotSupportWF.jpg)
-<font class="ms-rteCustom-FigureBad">BCS doesn't have WorkFlow support<br></font>
+
+
+::: bad
+BCS doesn't have WorkFlow support
+
+:::
+
+
 
 
 ![](WFSupportList.jpg)
-<font class="ms-rteCustom-FigureGood">Use WorkFlow with SharePoint List</font>
+
+
+::: good
+Use WorkFlow with SharePoint List
+:::

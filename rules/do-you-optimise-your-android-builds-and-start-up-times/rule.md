@@ -11,6 +11,7 @@ authors:
 - id: 97
   title: Matt Goldman
 related: []
+redirects: []
 
 ---
 
@@ -19,5 +20,6 @@ Whereas iOS enforces AOT (ahead of time) compilation, Android supports (and uses
 <!--endintro-->
 
 Xamarin also provides several other options for optimizing Android builds and improving performance. Additionally, you can use Android's new bundle format (rather than apk) so that smaller builds can be targeted to individual hardware specifications.
-<dl class="image">&lt;dt&gt;<img src="android-startup.png" alt="android-startup.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: Using the d8 compiler and r8 code shrinker can improve your Android app performance, and enabling startup tracing can help you identify performance issues</dd></dl>
+
+![Using the d8 compiler and r8 code shrinker can improve your Android app performance, and enabling startup tracing can help you identify performance issues](android-startup.png)
 For more information, see: https://devblogs.microsoft.com/xamarin/optimize-xamarin-android-builds/

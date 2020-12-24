@@ -10,6 +10,7 @@ authors:
   title: Penny Walker
 related:
 - do-you-know-how-to-enter-an-expensify-receipt-
+redirects: []
 
 ---
 
@@ -22,7 +23,8 @@ Expensify lets you separate your expenses into different folders to avoid confus
 
 
 <!--endintro-->
-<dl class="ssw15-rteElement-ImageArea"><img src="Expensify6.PNG" alt="Expensify6.PNG" style="margin:5px;width:360px;height:640px;"></dl>
+
+![](Expensify6.PNG)
 
 ::: bad
 Bad example: Two unrelated expenses in the same folder, this can be confusing to Accounts Staff.
@@ -32,7 +34,8 @@ Bad example: Two unrelated expenses in the same folder, this can be confusing to
 
 
 Expensify lets you create new reports so that you can separate your receipts and reports.
-<dl class="ssw15-rteElement-ImageArea"><img src="Expensify9.PNG" alt="Expensify9.PNG" style="margin:5px;width:360px;height:640px;"></dl>
+
+![](Expensify9.PNG)
 
 ::: good
 Good example: Expenses separated into different folders - easier to claim and track what your receipts were for!
@@ -46,19 +49,28 @@ Good example: Expenses separated into different folders - easier to claim and tr
 1. Open Expensify app on your phone
 
 2. From the Dashboard select "Reports"
-<dl class="ssw15-rteElement-ImageArea"><img src="Expensify1.PNG" alt="Expensify1.PNG" style="margin:5px;"><br></dl><dl class="ssw15-rteElement-ImageArea">3. Add a new report by clicking on the + symbol. <br></dl><dl class="ssw15-rteElement-ImageArea"><img src="Expensify2.PNG" alt="Expensify2.PNG" style="margin:5px;width:360px;height:640px;"><br></dl>
+
+![](Expensify1.PNG)
+3. Add a new report by clicking on the + symbol.
+
+![](Expensify2.PNG)
+
 4. Click in the area of text that says "New Report" to re-name the report.
 
-<dl class="ssw15-rteElement-ImageArea"><img src="Expensify3.PNG" alt="Expensify3.PNG" style="margin:5px;width:360px;height:640px;"></dl>
+
+![](Expensify3.PNG)
 
 5. Re-name your report and then save. You can also change the policy if required. To automatically email your receipts to New, select the SSW policy.
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="Expensify4.PNG" alt="Expensify4.PNG" style="margin:5px;width:360px;height:640px;"></dl>
+
+![](Expensify4.PNG)
 
 
 6. You can then add expenses directly into the folder.
-<dl class="ssw15-rteElement-ImageArea"><img src="Expensify5.PNG" alt="Expensify5.PNG" style="margin:5px;width:360px;height:640px;"><br></dl>
+
+![](Expensify5.PNG)
+
 ### To Edit a folder on the iPhone
 
 
@@ -67,4 +79,8 @@ If you put a receipt in the wrong folder, you can edit its location, or upload a
 
 
 1. On your Dashboard select Expenses | Select correct expense to edit | Report
-<dl class="ssw15-rteElement-ImageArea"><img src="Expensify8.PNG" alt="Expensify8.PNG" style="margin:5px;width:360px;height:640px;"><br></dl><dl class="ssw15-rteElement-ImageArea">2. Select the folder you want to move it to and save.<br></dl><dl class="ssw15-rteElement-ImageArea"><img src="Expensify7.PNG" alt="Expensify7.PNG" style="margin:5px;width:360px;height:640px;"><br></dl>
+
+![](Expensify8.PNG)
+2. Select the folder you want to move it to and save.
+
+![](Expensify7.PNG)

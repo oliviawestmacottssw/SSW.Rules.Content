@@ -11,11 +11,15 @@ authors:
 - id: 14
   title: Martin Hinshelwood
 related: []
+redirects: []
 
 ---
 
 Whether you are converting an email to a blog post or writing it from scratch, always invite and instruct discussion.  
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img title="SNAGHTMLf1a9ab" alt="SNAGHTMLf1a9ab" src="RulesBloggingFeedbackBad.jpg" border="0" style="width:800px;">&lt;/dt&gt;<dd>Figure: Bad example, there are no instructions here</dd></dl><dl class="goodImage">&lt;dt&gt;<img title="SNAGHTMLef6f69" alt="SNAGHTMLef6f69" src="RulesBloggingFeedbackGood.jpg" border="0" style="width:800px;">&lt;/dt&gt;<dd>Figure: Good example – Asking some questions at the end will solicit more feedback</dd></dl>
+
+![Bad example, there are no instructions here](RulesBloggingFeedbackBad.jpg "SNAGHTMLf1a9ab")
+[[goodExample]]
+| ![Asking some questions at the end will solicit more feedback](RulesBloggingFeedbackGood.jpg "SNAGHTMLef6f69")
 Although people may not comply, it helps them adjust from the world of email only.

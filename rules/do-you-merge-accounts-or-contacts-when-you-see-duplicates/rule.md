@@ -9,6 +9,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -17,4 +18,8 @@ It’s easy for any CRM system to fill up with duplicate records since people of
 Luckily, it’s very easy in Dynamics 365 to merge duplicates. All you have to do is select the 2 records, and hit the merge button. You can then choose which fields to keep from each record and the subordinate record is deleted.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="crm-duplicate-bad.jpg" alt="crm-duplicate-bad.jpg">&lt;/dt&gt;<dd>Figure: Bad Example – a developer would not know which record to use to track timesheets against</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="crm-duplicate-good.jpg" alt="crm-duplicate-good.jpg">&lt;/dt&gt;<dd>Figure: Good Example – records merged to remove duplicates</dd></dl>
+
+[[badExample]]
+| ![a developer would not know which record to use to track timesheets against](crm-duplicate-bad.jpg)
+[[goodExample]]
+| ![records merged to remove duplicates](crm-duplicate-good.jpg)

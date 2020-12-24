@@ -11,6 +11,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -19,11 +20,14 @@ If you don't have Camtasia or ScreenFlow, you can use the built-in QuickTime Pla
 <!--endintro-->
 
 Open the QuickTime Player through the Applications folder, or by using search (Ctrl + Space) and typing QuickTime:
-<dl class="image">&lt;dt&gt;<img alt="QuickTime Player.png" src="QuickTime Player.png" style="width:650px;">&lt;/dt&gt;<dd> Figure: Search for QuickTime Player</dd></dl>
+
+![Search for QuickTime Player](QuickTime Player.png)
 From QuickTime Player, you can start a new Screen Recording from the File menu:
-<dl class="image">&lt;dt&gt;<img alt="QuickTime new screen recording.png" src="QuickTime new screen recording.png">&lt;/dt&gt;<dd>Figure: QuickTime Player New Screen Recording </dd></dl>
+
+![QuickTime Player New Screen Recording](QuickTime new screen recording.png)
 In the Screen Recording window, you an select which microphone to use if you want to record audio:
-<dl class="image">&lt;dt&gt;<img alt="QuickTime Recorder.png" src="QuickTime Recorder.png">&lt;/dt&gt;<dd> Figure: Select your audio device</dd></dl>
+
+![Select your audio device](QuickTime Recorder.png)
 **Tip:** Alternatively, you can use [Loom](https://www.useloom.com/) 
 , which works as a Google Chrome extension.
 

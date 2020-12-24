@@ -9,6 +9,7 @@ authors:
 - id: 47
   title: Stanley Sidik
 related: []
+redirects: []
 
 ---
 
@@ -28,15 +29,12 @@ The feature is built-in to IIS 8
 
 1. Open Internet Information Services (IIS)
 2. Browse to the website in question
-3. Open Advanced settings <br>      <dl class="image">&lt;dt&gt; 
-            <img src="iis8-1.jpg" alt=""> 
-         &lt;/dt&gt;<dd>Figure: IIS</dd></dl>
-4. Change the “start mode” to “Always running” <br>      <dl class="image">&lt;dt&gt; 
-            <img src="iis8-2.jpg" alt=""> 
-         &lt;/dt&gt;<dd>Figure: Start mode</dd></dl>
-5. Change Preload Enabled to True <br>      <dl class="image">&lt;dt&gt; 
-            <img src="iis8-3.jpg" alt=""> 
-         &lt;/dt&gt;<dd>Figure: Preload setting</dd></dl>
+3. Open Advanced settings <br>      
+![IIS](iis8-1.jpg)
+4. Change the “start mode” to “Always running” <br>      
+![Start mode](iis8-2.jpg)
+5. Change Preload Enabled to True <br>      
+![Preload setting](iis8-3.jpg)
 
 
 ### Instructions below for IIS 7.5:
@@ -44,17 +42,14 @@ The feature is built-in to IIS 8
 1. On the application server install <br>      http://www.iis.net/downloads/microsoft/application-initialization or it can be installed using the Web Platform installer
 2. Open <br>       **Internet Information Services (IIS)**
 3. Select the server
-4. Scroll down and select <br>       **Configuration Editor** <dl class="image">&lt;dt&gt; 
-            <img src="iis7-1.jpg" alt=""> 
-         &lt;/dt&gt;<dd>Figure: IIS</dd></dl>
-5. From the <br>       **Section** menu select <br>       **system.applicationHost / applicationPools** <dl class="image">&lt;dt&gt; 
-            <img src="iis7-2.jpg" alt=""> 
-         &lt;/dt&gt;<dd>Figure: Configuration editor</dd></dl>
+4. Scroll down and select <br>       **Configuration Editor** 
+![IIS](iis7-1.jpg)
+5. From the <br>       **Section** menu select <br>       **system.applicationHost / applicationPools** 
+![Configuration editor](iis7-2.jpg)
 6. Double click the <br>       **“…”** to the right of <br>       **(Collection)**
 7. Find the Application Pool CFT is running on (it could be ComplyFirstTime or DefaultAppPool)
-8. In the <br>       **Properties** window, scroll down and select <br>       **startMode** , choose <br>       **AlwaysRunning** <dl class="image">&lt;dt&gt; 
-            <img src="iis7-3.jpg" alt=""> 
-         &lt;/dt&gt;<dd>Figure: Set "start Mode"</dd></dl>
+8. In the <br>       **Properties** window, scroll down and select <br>       **startMode** , choose <br>       **AlwaysRunning** 
+![Set "start Mode"](iis7-3.jpg)
 9. On the top right select <br>       **Apply**
 
 
@@ -70,6 +65,6 @@ The feature is built-in to IIS 8
     <add name="”Application" pool="" name”="" managedruntimeversion="”v4.0″"></add>
 2. add the Always Running mode by adding startMode="AlwaysRunning"
     
-    <add name="”Application" pool="" name”="" managedruntimeversion="”v4.0″"></add>startMode="AlwaysRunning"
+    <add name="”Application" pool="" name”="" managedruntimeversion=""></add>startMode="AlwaysRunning"
  />
 3. Save this file and perform an IISReset so that the change is read into the running memory of the IIS server.

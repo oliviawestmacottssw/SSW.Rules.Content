@@ -7,10 +7,12 @@ uri: do-you-add-timestamps
 created: 2014-07-17T21:42:47.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
 Passing date times is good. Just as a note that it is vital that you send any date/times with time zone information and at UTC.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="timestamps.jpg" alt="">&lt;/dt&gt;<dd>Figure: Include date and time information</dd></dl>
+
+![Include date and time information](timestamps.jpg)

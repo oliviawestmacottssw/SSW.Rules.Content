@@ -9,11 +9,18 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 Visual Studio 2017 introduces a new feature called Live Unit Testing. This gives the developer insight into code coverage of the file that they are working on, so they can quickly and easily see if there’s a unit test that covers the code they are working on.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="lut-codecoverage1.jpg" alt="lut-codecoverage1.jpg">&lt;/dt&gt;<dd>Figure: Enable it by selecting Test | Live Unit Testing | Start</dd></dl><dl class="badImage">&lt;dt&gt;<img src="lut-codecoverage2.jpg" alt="lut-codecoverage2.jpg">&lt;/dt&gt;<dd>Figure: Bad Example – This method isn't covered by any unit tests, so the developer should consider writing a unit test for it</dd></dl><dl class="image">&lt;dt&gt;<img src="lut-codecoverage3.jpg" alt="lut-codecoverage3.jpg">&lt;/dt&gt;<dd>Figure: The developer can right click and create a test immediately</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="lut-codecoverage4.jpg" alt="lut-codecoverage4.jpg">&lt;/dt&gt;<dd>Figure: Good Example – Developer can see that the code is covered by 2 passing tests and one failing test</dd></dl>
+
+![Enable it by selecting Test | Live Unit Testing | Start](lut-codecoverage1.jpg)
+[[badExample]]
+| ![This method isn't covered by any unit tests, so the developer should consider writing a unit test for it](lut-codecoverage2.jpg)
+![The developer can right click and create a test immediately](lut-codecoverage3.jpg)
+[[goodExample]]
+| ![Developer can see that the code is covered by 2 passing tests and one failing test](lut-codecoverage4.jpg)
 For more details see Joe Morris’s video on .NET Tooling Improvements Overview – Live Unit Testing:

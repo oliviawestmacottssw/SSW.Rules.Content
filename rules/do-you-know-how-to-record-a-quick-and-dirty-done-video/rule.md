@@ -13,6 +13,7 @@ authors:
 - id: 82
   title: Barry Sanders
 related: []
+redirects: []
 
 ---
 
@@ -71,9 +72,8 @@ See Rule: [Do you always zoom in when using a projector?](/_layouts/15/FIXUPREDI
     
     **Tip:** Some offices have a professional setup.
 E.g. SSW have the                  **Marantz Turret** hardware and desktop recording kit. The Turret is an ideal device to record these videos as it has a professional podcasting microphone, built-in light and good quality High Definition video camera.
-<dl class="image">&lt;dt&gt;
-                  <img src="turret-usage.jpg" alt="turret-usage.jpg">
-               &lt;/dt&gt;<dd>Figure: 'Done' video in progress using a Marantz turret broadcasting kit</dd></dl>Learn more about the Turret:[Product Review: The Marantz Turret — Wistia](https://wistia.com/learn/production/marantz-turret-review?wvideo=whmpjct7xj)    
+
+!['Done' video in progress using a Marantz turret broadcasting kit Learn more about the Turret:](turret-usage.jpg)[Product Review: The Marantz Turret — Wistia](https://wistia.com/learn/production/marantz-turret-review?wvideo=whmpjct7xj)    
 
 ### Camtasia - Let's look at an example by Ben Cull
 
@@ -93,9 +93,9 @@ E.g. SSW have the                  **Marantz Turret** hardware and desktop recor
     * On the top left panel, click ‘Audio Effects’ and drag the ‘Levelling’ effect onto your clip
     * On the timeline, move the new audio meter up just until the audio waveform is about to hit the top
     * Listen and adjust as necessary
-<dl class="image">&lt;dt&gt;
-                  <img src="audio-effects-panel.png" alt="audio-effects-panel.png">
-               &lt;/dt&gt;<dd>Figure: audio effects panel with the compressor<br></dd></dl>
+
+![audio effects panel with the compressor](audio-effects-panel.png)
+
 ### Tip: Camtasia 9 - How to fade-out and fade-in the video track of your face in Camtasia 9
 
     1. With the video track of your face selected, click on  **Animations (1)** . Track 3 in the image below.
@@ -103,33 +103,29 @@ E.g. SSW have the                  **Marantz Turret** hardware and desktop recor
     3. **Drag and drop the No Opacity effect (3)** to the point in the track where you want to fade-out. Adjust the start and end point of the fade using the handles on the animation arrow.
     4. Select the  **Full Opacity (4)** animation effect for fade-in.
     5. **Drag and drop the Full Opacity effect (5)** to the point in the track where you want to fade-in. Adjust the start  and end point of the fade using the handles on the animation arrow.
-<dl class="image">&lt;dt&gt; 
-                  <img src="fade in and out.png" alt="fade in and out.png" style="width:750px;"> 
-               &lt;/dt&gt;<dd>Figure: Camtasia - Steps for adding fade-out/fade-in animation to video track of your face in 'Done' video<br></dd></dl>
+
+![Camtasia - Steps for adding fade-out/fade-in animation to video track of your face in 'Done' video](fade in and out.png)
+
 ###  Final Step – Export your video  
 
 
 Follow the steps to export your video:
 
     1. Click the Share button on the top right of the window
-<dl class="image">&lt;dt&gt; 
-                           <img src="export-video1.png" alt="export-video1.png"> 
-                        &lt;/dt&gt;</dl>
-    2. In the new dialog, select custom production settings <br>                     <dl class="image">&lt;dt&gt; 
-                           <img src="export-video2.png" alt="export-video2.png"> 
-                        &lt;/dt&gt;</dl>
-    3. In the next window, uncheck the ‘Produce with controller’ option <br>                     <dl class="image">&lt;dt&gt; 
-                           <img src="export-video3.png" alt="export-video3.png"> 
-                        &lt;/dt&gt;</dl>
+
+![](export-video1.png)
+    2. In the new dialog, select custom production settings <br>                     
+![](export-video2.png)
+    3. In the next window, uncheck the ‘Produce with controller’ option <br>                     
+![](export-video3.png)
     4. In the ‘Video settings’ tab, copy these settings:
 -	Frame Rate: 30
 -	H.264 Profile: High
 -	Encoding mode: Quality
-    o	Increase the quality to 100% <br>                     <dl class="image">&lt;dt&gt; 
-                           <img src="export-video4.png" alt="export-video4.png"> 
-                        &lt;/dt&gt;<dd>Figure: Copy these settings</dd></dl>
-    5. In the ‘Audio settings’ tab, make sure the Bit rate is set to 320 kbps <br>                     <dl class="image">&lt;dt&gt; 
-                           <img src="export-video5.png" alt="export-video5.png"><br>&lt;/dt&gt;</dl>
+    o	Increase the quality to 100% <br>                     
+![Copy these settings](export-video4.png)
+    5. In the ‘Audio settings’ tab, make sure the Bit rate is set to 320 kbps <br>                     
+![](export-video5.png)
     6. Click Next and save your file!
 
 

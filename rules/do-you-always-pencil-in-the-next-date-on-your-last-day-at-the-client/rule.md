@@ -7,6 +7,7 @@ uri: do-you-always-pencil-in-the-next-date-on-your-last-day-at-the-client
 created: 2010-07-16T06:38:09.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -21,10 +22,8 @@ On your last day of consulting with a client, you should always book on the next
 
 
 So try something like "My calendar fills up really quick, how about I pencil you in... How about we say 2 weeks' time? Don't forget you can cancel it anytime."
-<dl class="goodImage">&lt;dt&gt;
-      <img alt="pencil in" src="mobile-calendar.jpg"> 
-   &lt;/dt&gt;<dd>Figure: Plan ahead at the end of your day eg. "How about we pencil in my next visit, say 2 weeks' time?" </dd></dl>
+
+![Plan ahead at the end of your day eg. "How about we pencil in my next visit, say 2 weeks' time?"](mobile-calendar.jpg)
 **Note:** If, at the end of the day, work hasn't been fully tested or is incomplete and you haven't been booked in for the next day, tell the Product Owner (PO) that issues may arise and further work is likely to be required. After the conversation, email the PO and CC your manager to confirm that further work is required.
 
 E.g. "As per our conversation, this work has not yet been tested and may still include bugs. At this stage, you would prefer if we did not continue to work tomorrow, but I do recommend that we come in and finish soon."
-<dl class="goodImage"></dl>

@@ -9,6 +9,7 @@ authors:
 - id: 38
   title: Drew Robson
 related: []
+redirects: []
 
 ---
 
@@ -17,7 +18,22 @@ You should align labels  **next** to the inputs on medium and large displays and
 <!--endintro-->
 
 Bootstrap makes this easy. Use the css class  **form-horizontal** on your html form for it to use this behaviour by default.
-<dl class="code">&lt;dt&gt; <p>&lt;form class=&quot;form-horizontal&quot;&gt;<br>&#160;&#160;&#160; &lt;div class=&quot;form-group&quot;&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;label for=&quot;inputEmail3&quot; class=&quot;col-sm-2 control-label&quot;&gt;Email&lt;/label&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;div class=&quot;col-sm-10&quot;&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;input type=&quot;email&quot; class=&quot;form-control&quot; id=&quot;inputEmail3&quot; placeholder=&quot;Email&quot;&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/div&gt;<br>&#160;&#160;&#160; &lt;/div&gt;<br>&#160;&#160;&#160; &lt;div class=&quot;form-group&quot;&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;label for=&quot;inputPassword3&quot; class=&quot;col-sm-2 control-label&quot;&gt;Password&lt;/label&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;div class=&quot;col-sm-10&quot;&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;input type=&quot;password&quot; class=&quot;form-control&quot; id=&quot;inputPassword3&quot; placeholder=&quot;Password&quot;&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/div&gt;<br>&#160;&#160;&#160; &lt;/div&gt;<br>&lt;/form&gt;</p>&lt;/dt&gt;<dd>Figure&#58; Example html using Bootstrap to get the above behaviour</dd></dl>
+
+&lt;form class="form-horizontal"&gt;
+    &lt;div class="form-group"&gt;
+        &lt;label for="inputEmail3" class="col-sm-2 control-label"&gt;Email&lt;/label&gt;
+        &lt;div class="col-sm-10"&gt;
+            &lt;input type="email" class="form-control" id="inputEmail3" placeholder="Email"&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="form-group"&gt;
+        &lt;label for="inputPassword3" class="col-sm-2 control-label"&gt;Password&lt;/label&gt;
+        &lt;div class="col-sm-10"&gt;
+            &lt;input type="password" class="form-control" id="inputPassword3" placeholder="Password"&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/form&gt;
+Figure: Example html using Bootstrap to get the above behaviour
 See [http://getbootstrap.com/css/#forms-horizontal](http&#58;//getbootstrap.com/css/#forms-horizontal) for more information.
 
 ### Related Rule

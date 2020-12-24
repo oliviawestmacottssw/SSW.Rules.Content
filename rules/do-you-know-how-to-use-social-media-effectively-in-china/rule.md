@@ -11,6 +11,7 @@ authors:
 - id: 106
   title: Yang Shen
 related: []
+redirects: []
 
 ---
 
@@ -23,8 +24,8 @@ China is different. There are different rules, platforms and of course, they hav
 <!--endintro-->
 
 China has a huge amount of social media users, there are over 911 million active users - which is huge! In comparison, the U.S.A only have 207 million users, a small fraction compared to China. It is a huge opportunity for market growth, particularly for app owners who would like to expand their product to millions of users.
-<dl class="ssw15-rteElement-ImageArea"><img src="DigitalInChina-1024x576.png" alt="DigitalInChina-1024x576.png" style="margin:5px;width:750px;height:421px;"></dl>
-**Figure: According to Social Media experts Hootsuite, there are 911 million active social media users (yellow), 65% of the overall population (red).**
+
+![According to Social Media experts Hootsuite, there are 911 million active social media users](DigitalInChina-1024x576.png)(yellow), 65% of the overall population (red).**
 
 
 
@@ -37,7 +38,8 @@ Do you know the best platforms to use in China? Here is a list of our top 5.
 ### 1. WeChat (The Chinese Super App)
 
 WeChat started as an instant messaging app similar to WhatsApp but has morphed into a ‘super app’ that now allows you to do just about anything! Users can perform a wide variety of activities such as making transactions, ordering food, booking movie tickets, calling a taxi, even playing games. It now has more than 1 billion active users.
-<dl class="ssw15-rteElement-ImageArea"><img src="We chat.png" alt="We chat.png" style="margin:5px;"> <strong>Figure: Taken from Statistica.com - the Graph shows how much WeChat is growing every year. WeChat is now one of the most popular, well rounded apps available in China, growing in popularity every year.</strong> <br></dl>
+
+![Taken from Statistica.com - the Graph shows how much WeChat is growing every year. WeChat is now one of the most popular, well rounded apps available in China, growing in popularity every year.](We chat.png)
 Why you should consider using it:
 
 * 68M videos are uploaded every day
@@ -49,7 +51,8 @@ Why you should consider using it:
 
 
 There are 4 types of Official  WeChat Accounts; “Subscription Accounts”, “Service Accounts", “Enterprise Accounts" and the “Mini Program”. Each of them has unique functions and uses, which are outlined in more detail in our Rule: [https://rules.ssw.com.au/how-to-create-wechat-official-account](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=9ac9ad73-0dcf-4081-a30f-0872dbde0e19).
-<dl class="ssw15-rteElement-ImageArea"><dl class="ssw15-rteElement-ImageArea"><dl class="ssw15-rteElement-ImageArea"><img src="WeChat-Mini-Program.png" alt="WeChat-MiniProgram.png" style="margin:5px;width:700px;height:744px;"> <strong>Figure: SSW's SugarLearning WeChat Mini Program Log-in page & Mini Program</strong> </dl></dl></dl>
+
+![SSW's SugarLearning WeChat Mini Program Log-in page & Mini Program](WeChat-Mini-Program.png)
 ### 2. Weibo (The Facebook of China)
 
 
@@ -84,7 +87,8 @@ Why you should consider using it:
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="Youku.png" alt="Youku.png" style="margin:5px;width:700px;height:437px;"> <strong>Figure: Youku would have a very familiar feel for our Western audience as seen from this video feed.</strong> <br></dl>
+
+![Youku would have a very familiar feel for our Western audience as seen from this video feed.](Youku.png)
 
 
 ### 4. Baidu (The Google Search of China)
@@ -104,8 +108,8 @@ Why you should use it:
 
 
 \*The Cost per click is lower but be warned - Baidu does have some strict payment terms, requiring an initial deposit of at least RMB 20,000 (USD $2,952) if you are a foreign company. But the overall cost of your campaign should be comparatively lower.)
-<dl class="ssw15-rteElement-ImageArea"><img src="Baidu.png" alt="Baidu.png" style="margin:5px;width:700px;"></dl>
-**Figure: A search for 'SSW' using Baidu, we are organically No 1 on this page.**
+
+![A search for 'SSW' using Baidu, we are organically No 1 on this page.](Baidu.png)
 
 ### 5. Bilibili (Up & coming alternate to Youku)
 
@@ -115,4 +119,28 @@ We all know that the best marketers are using video to sell their products and d
 What started as a China's largest Anime streaming platform, it has grown to be one of the most popular video sharing platforms for China’s Millennials and Generation Z with over 100 million monthly active users, where users can view, submit, and add commentary to videos.
 
 Bilibili also recently launched a premium membership enabling access to special shows, e-commerce deals, and HQ video streaming. If you want to increase your long-term success in China, it is important to penetrate Gen-Z consumers who have an expanding purchasing power. Bilibili, uses mini programs (multi-page application containing a complete application feature), livestreaming, and e-commerce to benefit brands looking to market to younger consumers.
-<dl class="ssw15-rteElement-ImageArea"><img src="bilibili_user-growth.png" alt="bilibili_user-growth.png" style="margin:5px;width:700px;height:484px;"> <strong>Figure: Bilibili is continuously growing it's audience becoming a great place to host videos and advertise.<br></strong> <dl class="ssw15-rteElement-ImageArea"><br></dl>According to Bilibili's annual report to investors, their top 5 most watched video categories are:<br></dl><dl><ol><li>Entertainment<br></li><li>Lifestyle<br></li><li>Gaming</li><li>Anime</li><li>Technology<br></li></ol><div><font color="#333333"> <br>Technology videos are now in the top 5 most watched category on Bilbili, and SSW China have discovered that Bilibili is a great platform to live stream and record our Fire User Group, with over 300 viewers joining us online to share our technology talks.<br></font></div><div><font color="#333333"><br></font></div><ul><div><font color="#333333">Why you should use it:</font></div><li><span style="color:#333333;">Young, active audience with a keen interest in technology</span></li><li><span style="color:#333333;"></span>Over 130 million active users<br></li><li>101 million monthly users</li><li>Continuous viewer growth</li><li>Video streaming & mini programs for e-commerce </li></ul><dl class="ssw15-rteElement-ImageArea"><img src="FireUg-Bilbili.png" alt="FireUg-Bilbili.png" style="margin:5px;width:700px;height:371px;"> <strong>Figure: A recent recording from FireUG, “Intermediaries design patterns and MediatR” by Victor Yu, SSW China: https://www.bilibili.com/video/BV1tK411P7He?p=2</strong> <span style="color:#333333;"></span><span style="color:#333333;"></span></dl></dl>
+
+![](bilibili_user-growth.png)
+According to Bilibili's annual report to investors, their top 5 most watched video categories are:
+ **Figure: Bilibili is continuously growing it's audience becoming a great place to host videos and advertise.
+**
+1. Entertainment
+2. Lifestyle
+3. Gaming
+4. Anime
+5. Technology
+
+
+![A recent recording from FireUG, “Intermediaries design patterns and MediatR” by Victor Yu, SSW China: https://www.bilibili.com/video/BV1tK411P7He?p=2](FireUg-Bilbili.png)
+
+<font color="#333333">Why you should use it:</font>
+* Young, active audience with a keen interest in technology
+* Over 130 million active users
+* 101 million monthly users
+* Continuous viewer growth
+* Video streaming & mini programs for e-commerce
+
+
+<font color="#333333"><br></font>
+
+<font color="#333333"> <br>Technology videos are now in the top 5 most watched category on Bilbili, and SSW China have discovered that Bilibili is a great platform to live stream and record our Fire User Group, with over 300 viewers joining us online to share our technology talks.<br></font>

@@ -11,6 +11,7 @@ authors:
 - id: 83
   title: Camilla Rosa Silva
 related: []
+redirects: []
 
 ---
 
@@ -19,11 +20,13 @@ So now you have set your goals and you know how to track your performance, what�
 A SWOT analysis helps identify your companies’ Strengths, Weaknesses, Opportunities, and Threats. You can see some examples in the below diagram.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="swot-analysis.png" alt="swot-analysis.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: SWOT analysis template to help you ask the big questions about your business </dd></dl>
+
+![SWOT analysis template to help you ask the big questions about your business](swot-analysis.png)
 Market analysis studies the attractiveness and the dynamics of a special market within a special industry. Through all these analyses, the strengths, weaknesses, opportunities, and threats of a company can also be identified.  
 
 Market analysis should cover: all trends happening in the market, your market share, a competitor analysis, your potential customers, strategy and ROI plan, last but not least, intellectual property monetization opportunities (for example patents or copyrighted materials, such as written materials like books, computer codes, designs, and more).
-<dl class="image">&lt;dt&gt;<img src="How to conduct marketing analysis image.jpg" alt="conduct-mkt-analysis.png" style="width:736px;">&lt;/dt&gt;<dd>Figure: You should follow these steps in order to conduct your market analysis </dd></dl>
+
+![You should follow these steps in order to conduct your market analysis](How to conduct marketing analysis image.jpg)
 The benefits of this kind of analysis mean you will have a thorough picture of your customers, competition, and yours/their strengths and weaknesses.  
  
 Some of the benefits include:

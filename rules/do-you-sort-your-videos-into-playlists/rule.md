@@ -18,6 +18,7 @@ related:
 - do-you-add-end-screen-to-your-youtube-videos
 - do-you-add-time-links-on-your-youtube-videos
 - do-you-follow-image-standard-sizes-on-social-media
+redirects: []
 
 ---
 
@@ -28,7 +29,8 @@ All your videos should be inserted into playlists and these playlists should be 
 Creating and promoting optimized playlists is a plus, increasing session time (amount of time spent by a person on YouTube after watching your video). YouTube wants people to spend more time on their website (to increase their revenue with ads) so if a channel makes people spend more time on YouTube, this channel gets a boost. YouTube will automatically launch another video from a playlist once the first video is over, increasing session time. This snowball effect will give your channel and videos a great boost!
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="playlist_bad.png" alt="" style="margin:5px;width:808px;"> </dl>
+
+![](playlist_bad.png)
 
 ::: bad
 Bad example: people living YouTube after (or even while) watching one of your videos will rank you (and your content) down.
@@ -36,7 +38,8 @@ Bad example: people living YouTube after (or even while) watching one of your vi
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="playlist_ok.png" alt="" style="margin:5px;width:808px;"> </dl>
+
+![](playlist_ok.png)
 
 ::: good
 OK example: people watching another video after yours will give you a little boost.
@@ -44,7 +47,8 @@ OK example: people watching another video after yours will give you a little boo
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="playlist_good.png" alt="" style="margin:5px;width:808px;"> </dl>
+
+![](playlist_good.png)
 
 ::: good
 Good example: people watching a video from your playlist are more likely to keep watching more of your videos, giving you a big boost!
@@ -52,12 +56,13 @@ Good example: people watching a video from your playlist are more likely to keep
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="playlist_good_sswtv.png" alt="" style="margin:5px;width:808px;"> </dl>
+
+![](playlist_good_sswtv.png)
 
 ::: good
 Good example: make sure that every video is in at least one playlist.
 :::
 
-&lt;dt&gt;
-&lt;/dt&gt;&lt;dt&gt; **Images** : courtesy of Brian Dean ([source](https://backlinko.com/grow-youtube-channel)).
-&lt;/dt&gt;
+
+ **Images** 
+).[source](https://backlinko.com/grow-youtube-channel): courtesy of Brian Dean (

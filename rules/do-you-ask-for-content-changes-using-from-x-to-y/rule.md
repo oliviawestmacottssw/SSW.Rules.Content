@@ -13,6 +13,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -21,18 +22,53 @@ When asking for changes to be made to any file like a web page, Word document, P
 Make the changes even easier to see and understand by highlighting in <font style="background-color:#ff0000;">red</font> what you want to delete (only do this on the "From" section) and in <font style="background-color:#ffff00;">yellow</font> what you want to be added/updated (only do this on the "To" section).  All text we do not write ourselves should be indented, so this includes paragraphs we are copying and pasting (see [Do you use indentation for readability?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=4d9255a5-7b57-4f98-9e86-3bbb8a64ce75))
 
 <!--endintro-->
-<dl>&lt;dt&gt;<br><br>::: greybox<br><p>
-             <b>Hi Eric,</b> <br></p><p>1. For the Code Auditor web page, please make the list read:<br><span style="background-color:initial;"><br>- Scan all your projects for coding errors<br></span><span style="background-color:initial;">- Guarantee Industry best practices<br></span><span style="background-color:initial;"></span><span style="background-color:initial;">- Friendly licensing model, bloggers even pay 0$ for the full version! </span></p><br>:::<br><br>&lt;/dt&gt;<br><br>::: bad<br>Figure: Bad example - original version of content has not been included in the email,<br>:::<br><br></dl><dl>&lt;dt&gt;<br><br>::: greybox<br><p>
-             <b>Hi Eric,</b> </p><p>1. On the Code Auditor web page, please change 
-            <a href="http://www.ssw.com.au/ssw/codeauditor" shape="rect">http://www.ssw.com.au/ssw/codeauditor</a>:<br></p><p>Change from:<br>     - Scan all your projects for coding 
-            <span style="background-color:#ff0000;">bugs and</span> errors<br>     - Enforce industry best practices 
-            <br>     - Friendly licensing model pay nothing for the full version!</p><p>To:<br>    - Scan all your projects for coding errors<span style="background-color:#f5f5f5;"><br></span><span style="background-color:#ffff00;">    - Guarantee</span> industry best practices<br>    - Friendly licensing model<span style="background-color:#ffff00;">, </span><span style="background-color:#ffff00;">bloggers even pay </span> 
-            <span style="background-color:#ffff00;"> 0$</span> for the full version!<br></p><br>:::<br><br>&lt;/dt&gt;<dd class="ms-rteCustom-FigureGood">Figure: Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed<br></dd></dl>
+
+
+
+:::
+
+1. For the Code Auditor web page, please make the list read:
+
+- Scan all your projects for coding errors
+- Guarantee Industry best practices
+- Friendly licensing model, bloggers even pay 0$ for the full version!
+
+**Hi Eric,**
+
+::: greybox
+
+
+:::
+Figure: Bad example - original version of content has not been included in the email,
+::: bad
+
+
+
+
+:::
+
+To:
+    - Scan all your projects for coding errors
+    - Guarantee industry best practices
+    - Friendly licensing model, bloggers even pay  0$ for the full version!
+
+Change from:
+     - Scan all your projects for coding              bugs and errors
+     - Enforce industry best practices              
+     - Friendly licensing model pay nothing for the full version!
+
+1. On the Code Auditor web page, please change              http://www.ssw.com.au/ssw/codeauditor:
+
+**Hi Eric,**
+
+::: greybox
+Figure: Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed
+
 ### If there are too many changes
 
 
 Sometimes you have a lot of content and too many changes, making the process "from X to Y" too arduous. In this case is recommended to use     [Word 'Track Changes'](https://support.office.com/en-gb/article/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) functionality.
-<dl class="image">&lt;dt&gt;
-      <img src="word-track-changes.jpg" alt="word-track-changes.jpg">
-   &lt;/dt&gt;<dd>Figure: A Word document with 'Track Changes' ON is recommended if you have too many changes<br></dd></dl>
+
+![A Word document with 'Track Changes' ON is recommended if you have too many changes](word-track-changes.jpg)
+
 **Video:** [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)

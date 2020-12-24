@@ -11,6 +11,7 @@ authors:
 - id: 18
   title: Jay Lin
 related: []
+redirects: []
 
 ---
 
@@ -43,10 +44,6 @@ These kind of workflows are designed generic to fit any business’ needs – an
 We think these SharePoint workflows need to be far more customizable.
 
 SharePoint does not provide support for complex reusable workflows easily - most companies go for a 3rd party solution:
-<dl class="image">    &lt;dt&gt;<img src="Blackpearl.png" alt=""> &lt;/dt&gt;
-    <dd>Figure: 3rd party tool - Blackpearl
-    <dl class="image">
-        &lt;dt&gt;<img src="Ninetex.png" alt=""> &lt;/dt&gt;
-        <dd>Figure: 3rd party tool - Nintex </dd>
-    </dl>
-    </dd></dl>
+
+![3rd party tool - Blackpearl](Blackpearl.png)
+![3rd party tool - Nintex](Ninetex.png)

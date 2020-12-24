@@ -9,6 +9,7 @@ authors:
 - id: 21
   title: Matthew Hodgkins
 related: []
+redirects: []
 
 ---
 
@@ -29,4 +30,9 @@ When your Hyper-V environment is spread across multiple hosts and contains many 
 
 
 ![](naming-goodexample.jpg)
-<font class="ms-rteCustom-FigureGood">Good Example - It is easy to tell which VM is which when they are named to a standard<br></font>
+
+
+::: good
+Good Example - It is easy to tell which VM is which when they are named to a standard
+
+:::

@@ -7,6 +7,7 @@ uri: how-do-you-deploy-sharepoint
 created: 2009-03-30T00:44:00.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

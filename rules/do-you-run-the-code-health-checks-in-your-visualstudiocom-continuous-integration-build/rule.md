@@ -11,6 +11,7 @@ authors:
 - id: 46
   title: Danijel Malik
 related: []
+redirects: []
 
 ---
 
@@ -38,21 +39,26 @@ Summary:
 
 
 The resulting build should look like this.
-<dl class="ssw15-rteElement-ImageArea"><img src="VSO-Build-Good-1.png" alt="VSO-Build-Good-1.png" style="margin:5px;width:808px;"></dl>
+
+![](VSO-Build-Good-1.png)
 
 ::: good
 Figure: Good Example - Build Passing with no summary issues
 
 :::
 
-<dl class="ssw15-rteElement-ImageArea"><br><mark>Ensure utilisation of TeamBuild2015 or higher. (No support for XAML builds)</mark><br>Edit the build definition on <companyname>.visualstudio.com, and add the following build tasks.<br>If your project does not contain TypeScript files, then you do not need to include the TSLint build tasks.<br></companyname></dl><dl class="ssw15-rteElement-ImageArea"><img src="VSO-BuildDefinition-V3.png" alt="VSO-BuildDefinition-V3.png" style="margin:5px;width:808px;"></dl>
+
+<companyname>.visualstudio.com, and add the following build tasks.<br>If your project does not contain TypeScript files, then you do not need to include the TSLint build tasks.<br></companyname>Edit the build definition on
+<mark>Ensure utilisation of TeamBuild2015 or higher. (No support for XAML builds)</mark>
+![](VSO-BuildDefinition-V3.png)
 
 ::: good
 Figure: Good Example - Steps added to build definition.
 
 :::
 
-<dl class="ssw15-rteElement-ImageArea"><img src="VSO-DirectoryExampleV2.png" alt="VSO-DirectoryExampleV2.png" style="margin:5px;width:808px;"></dl> **Figure: Example directory for TSLint run commands
+
+![Example directory for TSLint run commands](VSO-DirectoryExampleV2.png)
 ** 
 Under advanced for the Command Line tasks, the Working Directory can be specified if necessary.
 
@@ -80,7 +86,8 @@ TsLint
 
 If your build is being hosted, then the config file must be reloaded every time. <mark>If your build is running on premises</mark>, the config file will attempt to load over the existing one and break the build.
 If this is the case, just add a step to delete your config file after the scan is complete.
-<dl class="ssw15-rteElement-ImageArea"><img src="VSO-RemoveConfig.png" alt="VSO-RemoveConfig.png" style="margin:5px;width:808px;"><span style="color:#555555;font-size:0.9rem;font-weight:bold;">Figure: Command line step to remove the config file (tslint.json) after the linter has run</span><br></dl>
+
+![Command line step to remove the config file](VSO-RemoveConfig.png)(tslint.json) after the linter has run
 **Command Line** - Remove the tslint config file, as it will break future scan if the build is on premises if a config file already exists and an attempt to add another one is made.
  **Name:** Remove tslint config
  **Tool:** del
@@ -95,24 +102,28 @@ If the build fails (due to errors), these should be corrected in the development
 
 For the purposes of reporting, a unique tag must be added to the build definition which the Code Health steps have been applied to. 
 This is done with the <mark>addition of a variable (Name = PrimaryBuild, Value = true)</mark>
-<dl class="ssw15-rteElement-ImageArea"><img src="VSO-AddVariableTag.png" alt="VSO-AddVariableTag.png" style="margin:5px;width:808px;"></dl> **Figure: Steps to add PrimaryBuild variable to build definition
+
+![Steps to add PrimaryBuild variable to build definition](VSO-AddVariableTag.png)
 ** 
 ### Check the build is running without issues
 
-<dl class="ssw15-rteElement-ImageArea"><img src="VSO-Build-Bad-1.png" alt="VSO-Build-Bad-1.png" style="margin:5px;width:808px;"></dl>
+
+![](VSO-Build-Bad-1.png)
 
 ::: bad
 Figure: Bad Code with a Good Code Health Implementation - Build broke due to compile errors. Must fix to proceed.
 :::
 
-<dl class="ssw15-rteElement-ImageArea"><img src="VSO-Build-Ok-1.png" alt="VSO-Build-Ok-1.png" style="margin:5px;"></dl>
+
+![](VSO-Build-Ok-1.png)
 
 ::: bad
 Figure: Bad Code with a Good Code Health Implementation - Successful build with warnings. These should be reprioritised as errors, or removed
 
 :::
 
-<dl class="ssw15-rteElement-ImageArea"><img src="VSO-Build-Good-1.png" alt="VSO-Build-Good-1.png" style="margin:5px;width:808px;"></dl>
+
+![](VSO-Build-Good-1.png)
 
 ::: good
 Figure:  Good Code with a Good Code Health Implementation - Successful build with no warnings.

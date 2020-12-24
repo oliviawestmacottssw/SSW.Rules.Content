@@ -11,6 +11,7 @@ authors:
 - id: 14
   title: Martin Hinshelwood
 related: []
+redirects: []
 
 ---
 
@@ -18,10 +19,20 @@ Technical people need a little bit of a free leash in order to be creative. This
 <!--endintro-->
 
 
-![](RulesBloggingCorporateBad.jpg) <font class="ms-rteCustom-FigureBad">Figure: Bad example, employees must post to the corporate blog.</font>
+![](RulesBloggingCorporateBad.jpg) 
+
+::: bad
+Figure: Bad example, employees must post to the corporate blog.
+:::
 
 
-![](RulesBloggingCorporateGood.jpg)<font class="ms-rteCustom-FigureGood">Figure: Good example, Allowing employees to post to their personal blog is a win, win situation. But they should do the Gold Plating after hours</font>
+![](RulesBloggingCorporateGood.jpg)
+
+::: good
+Figure: Good example, Allowing employees to post to their personal blog is a win, win situation. But they should do the Gold Plating after hours
+:::
+
+
  See: [<font color="#000080">Do you know to do the gold plating after hours?</font>](/Pages/GoldPlate.aspx "http://sharepoint.ssw.com.au/Standards/Communication/RulesToBetterBlogging/Pages/GoldPlate.aspx")
 
 Tip: Get your employees to add an “SSW” category to their blog so you can aggregate their posts onto the corporate site.

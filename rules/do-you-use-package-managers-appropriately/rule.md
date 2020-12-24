@@ -9,15 +9,19 @@ authors:
 - id: 55
   title: Steve Leigh
 related: []
+redirects: []
 
 ---
 
 Advice like this can be a minefield, and is constantly in flux, but there are some rules-of-thumb that can make life simpler.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="package1.jpg" alt="package1.jpg">&lt;/dt&gt;<dd>Figure: Default ASP.NET Core project is package management done wrong</dd></dl><dl class="image">&lt;dt&gt;<img src="package2.jpg" alt="package2.jpg">&lt;/dt&gt;<dd>Figure: Project using good package management</dd></dl>
+
+![Default ASP.NET Core project is package management done wrong](package1.jpg)
+![Project using good package management](package2.jpg)
 ### Bower is dead
-<dl class="image">&lt;dt&gt;<img src="package3.jpg" alt="package3.jpg">&lt;/dt&gt;<dd>Figure: Bower is dead </dd></dl>
+
+![Bower is dead](package3.jpg)
 File-New Project in Visual Studio comes with bower packages, and there are a lot of old blog posts that  recommend bower for client side libraries, but bower is dead. Angular2 is discouraging its use, and npm has all the same packages, and more. Prefer npm over bower, even for client-side dependencies.
 
 ### Use a single package manager

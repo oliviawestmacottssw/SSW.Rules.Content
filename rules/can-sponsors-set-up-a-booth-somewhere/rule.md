@@ -7,6 +7,7 @@ uri: can-sponsors-set-up-a-booth-somewhere
 created: 2014-12-31T00:39:06.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

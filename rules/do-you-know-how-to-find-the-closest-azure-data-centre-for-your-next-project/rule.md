@@ -9,6 +9,7 @@ authors:
 - id: 32
   title: Mehmet Ozdemir
 related: []
+redirects: []
 
 ---
 
@@ -23,6 +24,5 @@ As well as testing latency it has additional tests that come in handy like:
 * Large File Upload Test
 * Download Test <br>
 
-<dl class="image">&lt;dt&gt;
-      <img src="azure-speed.jpg" alt="azure-speed.jpg">
-   &lt;/dt&gt;<dd>Figure: AzureSpeed.com example<br></dd></dl>
+
+![AzureSpeed.com example](azure-speed.jpg)

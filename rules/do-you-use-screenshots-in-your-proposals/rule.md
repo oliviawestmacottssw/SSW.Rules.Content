@@ -9,10 +9,12 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 A Picture tells a thousand words. Using screen shots can sell your designs and add confidence to your proposals by giving visual examples of similar projects you have done.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="Proposals_Screeshot.jpg" alt="Proposals_Screeshot.jpg">&lt;/dt&gt;<dd>Figure: Add a screenshot of a related project<br></dd></dl>
+
+![Add a screenshot of a related project](Proposals_Screeshot.jpg)

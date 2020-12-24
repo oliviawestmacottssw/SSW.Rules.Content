@@ -17,6 +17,7 @@ authors:
 - id: 23
   title: Damian Brady
 related: []
+redirects: []
 
 ---
 
@@ -24,7 +25,6 @@ Every Workspace that exists on the server is another set of code that TFS has to
 <!--endintro-->
 
 
-![](WorkspaceStatus.jpg)
-<dl><dd>Figure: John has not accessed many of these workspaces in years! Are they still current? </dd></dl>
+![John has not accessed many of these workspaces in years](WorkspaceStatus.jpg)! Are they still current? 
 Use the Workspace Sidekick in [Team Foundation Sidekicks](http://www.attrice.info/cm/tfs/index.htm) 
  at the end of every month to make sure you have not forgotten anything.

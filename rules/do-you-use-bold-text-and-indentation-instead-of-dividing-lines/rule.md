@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -28,12 +29,12 @@ We recommend using bold instead of dividing lines because:
     * The dividing lines create additional visual clutter (ever so slight)
     * Each line creates additional performance implications (ever so slight)
 
-<dl class="badImage">&lt;dt&gt; 
-      <img border="0" alt="Internet options form of IE" src="../../assets/ToolsOptionforIE.gif" style="margin:5px;width:416px;">
-   &lt;/dt&gt;<dd> Figure: Bad Example - This is the Tools - Options from Internet Explorer and it groups each section in a groupbox - busy UI. </dd></dl><dl class="badImage">&lt;dt&gt; 
-      <img border="0" alt="Options form of Outlook" src="../../assets/ToolsOptionforOutlook.gif" style="margin:5px;width:449px;">
-   &lt;/dt&gt;<dd> Figure: Bad Example - This is the Tools - Options from Outlook and it uses dividing lines for each section.</dd></dl><dl class="badImage">&lt;dt&gt; 
-      <img border="0" alt="SSW Code AUditor - Email and Schedule" src="../../assets/BadDivider.gif" style="margin:5px;width:550px;">
-   &lt;/dt&gt;<dd> Figure: Bad Example - This is an old screen from Code Auditor - the dividing lines are not required. </dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img border="0" alt="SSW Code Auditor - Email and Schedule" src="../../assets/GoodDivider.jpg" style="margin:5px;width:550px;">
-   &lt;/dt&gt;<dd> Figure: Good Example - This is the new screen from Code Auditor - the bold title and indenting are the best way to show the sections.</dd></dl>
+
+[[badExample]]
+| ![This is the Tools - Options from Internet Explorer and it groups each section in a groupbox - busy UI.](../../assets/ToolsOptionforIE.gif)
+[[badExample]]
+| ![This is the Tools - Options from Outlook and it uses dividing lines for each section.](../../assets/ToolsOptionforOutlook.gif)
+[[badExample]]
+| ![This is an old screen from Code Auditor - the dividing lines are not required.](../../assets/BadDivider.gif)
+[[goodExample]]
+| ![This is the new screen from Code Auditor - the bold title and indenting are the best way to show the sections.](../../assets/GoodDivider.jpg)

@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -17,8 +18,8 @@ One of the most annoying things when you're surfing a site is to have to use a h
 <!--endintro-->
 
 Therefore it is bad web design to use a horizontal scroll bar. When designing your                     site, the page text should respect the user's desire to resize the browser window                     and have text wrap correctly. Also, you should take into consideration the effect                     that different screen resolutions will have on how much can fit onto the screen.
-<dl class="badImage">&lt;dt&gt;
-                        <img src="BadHorizontalScrollBar.jpg" alt="Bad Horizontal Scroll Bar">&lt;/dt&gt;<dd>
-                        Figure: Bad Example - Using pre code tags and having lines exceed screen size</dd></dl><dl class="goodImage">&lt;dt&gt;
-                        <img src="GoodHorizontalScrollBar.jpg" alt="Good Horizontal Scroll Bar">&lt;/dt&gt;<dd>
-                        Figure: Good Example - Using pre code tags and having lines not exceed screen size</dd></dl>
+
+[[badExample]]
+| ![Using pre code tags and having lines exceed screen size](BadHorizontalScrollBar.jpg)
+[[goodExample]]
+| ![Using pre code tags and having lines not exceed screen size](GoodHorizontalScrollBar.jpg)

@@ -9,6 +9,7 @@ authors:
 - id: 9
   title: William Yin
 related: []
+redirects: []
 
 ---
 
@@ -21,5 +22,6 @@ When adding a friendly URL, please avoid using specific characters like “+, :,
 
 
 Some characters are reserved characters, which may not be supported by some features, based on our experience, “+" is not supported in “canonical" to redirect from      **http**  to      **https** .
-<dl class="image">&lt;dt&gt;<img src="sharepoint-characters-not-allowed.jpg" alt="sharepoint-characters-not-allowed.jpg">&lt;/dt&gt;</dl>
+
+![](sharepoint-characters-not-allowed.jpg)
 In the above source code, the URL     [http://rules.ssw.com.au:80/do-you-know-when-to-use-+1](/do-you-know-when-to-use-+1)*[note: don't include as a hyperlink as it's a broken URL]* will throw a 404 error rather than redirecting to      **https://rules.ssw.com.au:80/do-you-know-when-to-use-+1** ,but it works fine if the URL doesn't include “+", e.g.     [https://rules.ssw.com.au/do-you-know-when-to-use-plus-one](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=d1f2a285-1ca6-45d6-8142-30bccb09c528).

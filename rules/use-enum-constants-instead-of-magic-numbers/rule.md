@@ -9,10 +9,15 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 Using "Magic numbers" in your code makes it confusing and really hard to maintain.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="MagicNumberBad.jpg" alt="MagicNumberBad.jpg">&lt;/dt&gt;<dd>Figure: Bad example - "Magic Number" works, but is a bad idea</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="MagicNumberGood.jpg" alt="MagicNumberGood.jpg">&lt;/dt&gt;<dd>Figure: Good example - No Magic Number, looks good and is easy to manage<br></dd></dl>
+
+[[badExample]]
+| !["Magic Number" works, but is a bad idea](MagicNumberBad.jpg)
+[[goodExample]]
+| ![No Magic Number, looks good and is easy to manage](MagicNumberGood.jpg)

@@ -11,10 +11,17 @@ related:
 - do-you-know-when-to-use-svg
 - do-you-know-how-to-save-your-graphics-in-the-right-format
 - do-you-avoid-bmps-for-the-internet-at-all-times
+redirects: []
 
 ---
 
 In line with the statement above, all photographs should be stored in JPG format. JPG rationalizes the quality of the image by averaging out the colors in segments of the image that it defines. To see an example of this working, try lowering the quality of a JPG to minimum quality.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="Screen-JPGQuality1.jpg" alt="100% Compression">&lt;/dt&gt;<dd>Figure: Bad Example – Low quality JPG (11.87k)</dd></dl><dl class="badImage">&lt;dt&gt;<img src="Screen-JPGQuality2.jpg" alt="Uncompressed">&lt;/dt&gt;<dd>Figure: Bad Example – Uncompressed JPG (159.6k)</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="Screen-JPGQuality3.jpg" alt="100% Compression">&lt;/dt&gt;<dd>Figure: Good Example – Compressed JPG (59.6k)</dd></dl>
+
+[[badExample]]
+| ![Low quality JPG](Screen-JPGQuality1.jpg)(11.87k)
+[[badExample]]
+| ![Uncompressed JPG](Screen-JPGQuality2.jpg)(159.6k)
+[[goodExample]]
+| ![Compressed JPG](Screen-JPGQuality3.jpg)(59.6k)

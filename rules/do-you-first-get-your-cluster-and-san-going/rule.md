@@ -7,6 +7,7 @@ uri: do-you-first-get-your-cluster-and-san-going
 created: 2012-03-02T18:07:04.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

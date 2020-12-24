@@ -10,6 +10,7 @@ authors:
   title: Greg Harris
 related:
 - do-you-use-a-finger-scanner-to-monitor-access-to-secure-areas
+redirects: []
 
 ---
 

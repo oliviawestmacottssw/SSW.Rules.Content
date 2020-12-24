@@ -15,6 +15,7 @@ authors:
 - id: 80
   title: Shane Ye
 related: []
+redirects: []
 
 ---
 
@@ -51,18 +52,20 @@ For these reasons, dynamic service detection is recommended in preference to sol
 SSW has created a simple Service Detection library for exactly this purpose called SSW Service Detector. This is open source and available from GitHub:[SSW Service Detector](https://github.com/SSWConsulting/SSW.ServiceDetector).
 
 This Service Detector works by attempting to download the Favicon.ico file from the website for each service you want to use. These favicon files are small, so if a service is available, the file will download very quickly. If a service is blocked, the connection could take a long time to timeout on its own. In this situation, the service detector uses a 1.5-second timer to attempt the download and will cancel the request after this time so that these connection attempts fail quickly and don't block the entire page.
-<dl class="badImage">&lt;dt&gt;
-      <img src="BlockedDependencies.png" alt="" style="width:800px;">
-   &lt;/dt&gt;<dd>Figure Bad Example: Attempted requests to Facebook, Google, and Youtube from China took a long time to timeout, adding significant delays to the rendering of this page<br></dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="SSW.ServiceDetector.png" alt="SSW.ServiceDetector.png" style="width:800px;">
-      <br> 
-   &lt;/dt&gt;<dd>Figure: Good Example - Only 4 errors on F12 in China. Using SSW.ServiceDetector, there were only short, canceled requests raised to blocked services. The site was then able to fall-back gracefully for some services and load YouKu for videos<br></dd></dl>
+
+![](BlockedDependencies.png)Figure Bad Example: Attempted requests to Facebook, Google, and Youtube from China took a long time to timeout, adding significant delays to the rendering of this page
+
+[[goodExample]]
+| ![Only 4 errors on F12 in China. Using SSW.ServiceDetector, there were only short, canceled requests raised to blocked services. The site was then able to fall-back gracefully for some services and load YouKu for videos](SSW.ServiceDetector.png)
+
 ### Solutions
 
 If, for example, your site displays videos, you can detect that YouTube is not available in China and embed YouKu videos instead. 
 Both these options require service detection to operate properly. Remember that attempting to connect to a blocked service from China could take a long time to timeout, potentially adding significant loading times to your site.
 
 **Solution 1: Remove the content**
-<dl class="image">&lt;dt&gt;<img src="youtuberemove.png" alt="youtuberemove.png" style="width:750px;">&lt;/dt&gt;</dl>
+
+![](youtuberemove.png)
 **Solution 2: Provide an alternative to the blocked service**
-<dl class="image">&lt;dt&gt;<img src="youku.png" alt="youku.png" style="width:750px;">&lt;/dt&gt;</dl>
+
+![](youku.png)

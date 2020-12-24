@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -30,7 +31,7 @@ ts = TimeSpan.Parse(FormatTimeSpanString(cboMyComboBox.Text))
 
 
 ::: good
-    Figure: Good code because we are using a wrapper method to pre-parse the string containing the 
+Figure: Good code because we are using a wrapper method to pre-parse the string containing the 
 TimeSpan value. [(Look it up in CodeBase)](https&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterCode.aspx#)
 
 :::

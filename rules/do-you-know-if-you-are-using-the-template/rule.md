@@ -14,12 +14,13 @@ authors:
   title: Rebecca Liu
 related:
 - logon---do-you-have-a-company-wide-word-template
+redirects: []
 
 ---
 
 PowerPoint templates are designed to engage your audience visually and save you time. When you start creating a new presentation file, always make sure you use a template.   
 <!--endintro-->
-<dl>    </dl>
+
 Pros of using a template are:
 
 
@@ -29,9 +30,16 @@ Pros of using a template are:
 4. Consistency of general styling
 5. It helps with the process of getting a ‘Designer Test Pass’
 
-<dl>&lt;dt&gt;<img class="ms-rteCustom-ImageArea" alt="not follow SSW brand" src="bad_cover.gif"> &lt;/dt&gt;
-    <br><br>::: bad<br>Figure: Bad Example - Not using the corporate template (in this case not SSW)<br>:::<br><br></dl><dl>    &lt;dt&gt;<img class="ms-rteCustom-ImageArea" alt="SSW PowerPoint Template" src="goodcoverv2.png" style="width:477px;height:268px;"> &lt;/dt&gt;
-    <dd class="ms-rteCustom-FigureGood">Figure: Good Example - That's a mighty fine looking template you got there </dd>&lt;dt&gt;<br>&lt;/dt&gt;</dl>
+
+![](bad_cover.gif)
+
+:::
+Figure: Bad Example - Not using the corporate template (in this case not SSW)
+::: bad
+
+
+[[goodExample]]
+| ![That's a mighty fine looking template you got there](goodcoverv2.png)
 **How to pick the template:** 
 In newer versions of PowerPoint, it is necessary to add your custom template to:
 C:\Users\<username>\Documents\Custom Office Templates\</username>
@@ -45,6 +53,5 @@ They will then appear in the PowerPoint list when creating a new presentation. Y
 Figure: Good Example - Your custom template appears in PowerPoint
 :::
 
-&lt;dt&gt;
-&lt;/dt&gt;&lt;dt&gt; **How to check if the template is being used?** &lt;/dt&gt;&lt;dt&gt;There is no way to tell which template your presentation is using. The workaround is to add a hidden slide at the end with a list of the version changes e.g. version number, date, description.
-&lt;/dt&gt; <dl></dl>
+
+ **How to check if the template is being used?** There is no way to tell which template your presentation is using. The workaround is to add a hidden slide at the end with a list of the version changes e.g. version number, date, description.

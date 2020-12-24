@@ -7,6 +7,7 @@ uri: do-you-remember-the-users-last-settings
 created: 2014-12-01T04:05:27.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -14,11 +15,11 @@ The user's last settings should be saved and should be selected as the Default t
 
 <!--endintro-->
 
-* Login forms - the last login name should be the Default selected and the cursor should be in the password box. <br>      <dl class="badImage">&lt;dt&gt; 
-            <img border="0" alt="SSW Time PRO .NET - Login" src="../../assets/BadFormLogin.jpg" style="margin:5px;width:342px;">
-         &lt;/dt&gt;<dd> Figure: Bad Example - Last Username is not saved</dd></dl><dl class="goodImage">&lt;dt&gt; 
-            <img border="0" alt="SSW Time PRO .NET - Login" src="../../assets/GoodFormLogin.jpg" style="margin:5px;width:342px;">
-         &lt;/dt&gt;<dd> Figure: Good Example - Last Username is saved</dd></dl>
+* Login forms - the last login name should be the Default selected and the cursor should be in the password box. <br>      
+[[badExample]]
+| ![Last Username is not saved](../../assets/BadFormLogin.jpg)
+[[goodExample]]
+| ![Last Username is saved](../../assets/GoodFormLogin.jpg)
 * Report criteria forms - e.g. date start and date end fields should be automatically populated
 
 

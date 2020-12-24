@@ -13,6 +13,7 @@ authors:
 - id: 24
   title: Adam Stephensen
 related: []
+redirects: []
 
 ---
 
@@ -48,11 +49,10 @@ Here's a suggestion of what these documents could contain.
 5. Deployment information and procedures <br>
 6. Other things to take care of
 
-<dl class="badImage">&lt;dt&gt;
-      <img src="BadNetProject.JPG" alt="A project with an instructions">
-   &lt;/dt&gt;<dd>Bad example - A project without an instruction. </dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img alt="Good Solutions Have Instructions" src="ProjectDocumentation.jpg">
-   &lt;/dt&gt;<dd>Good example - A project with instructions<br></dd></dl>
+
+![example](BadNetProject.JPG)Bad
+![example](ProjectDocumentation.jpg)Good
+
 Add a readme.md to your solution (Use [this](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=vsts)  as a guidance for markdown)
 
 ### Level #2: Lots of documentation (and the \*exact\* steps to Get Latest and compile)
@@ -75,14 +75,12 @@ Lots of dependencies
 
 
 
-<dl class="image"><dd>You are at Level 2 when you have some static Word documents with the steps to compile. The _instructions_compile.docx contains the steps required to be able to get latest and compile.<br></dd></dl>
+You are at Level 2 when you have some static Word documents with the steps to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile.
+
 ### Level #3: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
 
-<dl class="image">&lt;dt&gt;
-      <img alt="Good Solutions Have Instructions - level 2" src="instructions-level2.jpg">
-   &lt;/dt&gt;<dd>Figure: Level 2 Documentation includes database build scripts. We use 
-      <a target="_blank" href="http://sqldeploy.com/">SSW SQL Deploy</a> to make keeping all databases on the same version simple. Check out 
-      <a target="_blank" href="http://tv.ssw.com/969/adam-stephensen-sql-deploy-demo">how to use SQL Deploy here </a></dd></dl>
+
+![Level 2 Documentation includes database build scripts. We use](instructions-level2.jpg)[how to use SQL Deploy here](http://tv.ssw.com/969/adam-stephensen-sql-deploy-demo)to make keeping all databases on the same version simple. Check out[SSW SQL Deploy](http://sqldeploy.com/)
 ### Level #4: Less documentation (and Get Latest and compile with a PowerShell script)
 
 

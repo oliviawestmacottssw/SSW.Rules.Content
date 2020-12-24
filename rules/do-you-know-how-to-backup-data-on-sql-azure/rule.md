@@ -9,6 +9,7 @@ authors:
 - id: 44
   title: Duncan Hunter
 related: []
+redirects: []
 
 ---
 
@@ -21,10 +22,11 @@ Microsoft Azure SQL Database has built-in backups to support self-service Point 
 You should use the built in automatic backup in Azure SQL Database versus using T-SQL.
 
 
-> <dt style="border:1px solid #cccccc;width:595px;font-family:arial, helvetica, sans-serif;line-height:17px;background:#f5f5f5;"><p class="ssw15-rteElement-P" style="text-align:center;padding-top:5px;border-bottom-width:5px;padding-bottom:5px;width:612px;">      <span style="font-size:12px;">T-SQL: CREATE DATABASE destination_database_nameAS COPY OF[source_server_name].source_database_name</span></p>&lt;/dt&gt;</dt>
+> T-SQL: CREATE DATABASE destination\_database\_nameAS COPY OF[source\_server\_name].source\_database\_name
 
-<dl class="bad" style="margin:0px;padding-top:10px;padding-bottom:10px;padding-left:20px;font-family:arial, helvetica, sans-serif;line-height:17px;"><dd style="margin-top:-2px;margin-left:0px;padding-bottom:7px;padding-left:1.7em;">Figure: Bad example - Using T-SQL to restore your database</dd>
-   <span style="color:#555555;font-size:11px;font-weight:bold;line-height:21px;background-color:transparent;"><img src="Azure-restore.jpg" alt="Azure-restore.jpg" style="margin:5px;"></span></dl><dl class="good" style="margin:0px;padding-top:10px;padding-bottom:10px;padding-left:20px;font-family:arial, helvetica, sans-serif;line-height:17px;"><dd style="margin-top:-2px;margin-left:0px;padding-bottom:7px;padding-left:1.7em;">Figure: Good example - Using the built in SQL Azure Database automatic backup system to restore your database</dd></dl>
+Figure: Bad example - Using T-SQL to restore your database
+[[goodExample]]
+| ![Using the built in SQL Azure Database automatic backup system to restore your database](Azure-restore.jpg)
 
 
 Azure SQL Database automatically creates backups of every active database using the following schedule: Full database backup once a week, differential database backups once a day, and transaction log backups every 5 minutes. The full and differential backups are replicated across regions to ensure availability of the backups in the event of a disaster.

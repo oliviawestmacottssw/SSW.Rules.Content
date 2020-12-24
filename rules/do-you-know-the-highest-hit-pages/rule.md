@@ -11,6 +11,7 @@ authors:
 - id: 34
   title: Brendan Richards
 related: []
+redirects: []
 
 ---
 
@@ -22,5 +23,6 @@ Measuring which pages receive the most hits will help a great deal when looking 
 A number of great tools exist to find the highest hit pages.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;
-      <img src="App-Insights-return-request.png" alt="App-Insights-return-request.png">&lt;/dt&gt;<dd>Figure: Application Insights can return request counts under the performance screen</dd></dl><dl class="image">&lt;dt&gt;<img src="GoogleAnalytics-Stats.png" alt="GoogleAnalytics-Stats.png"> &lt;/dt&gt;<dd>Figure: Google Analytics provides powerful usage statistics</dd></dl>
+
+![Application Insights can return request counts under the performance screen](App-Insights-return-request.png)
+![Google Analytics provides powerful usage statistics](GoogleAnalytics-Stats.png)

@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -26,10 +27,12 @@ Some tips and techniques to keep in mind as you work on optimizing your images:
 * **Remove unnecessary image metadata** like geo information, camera information, and so on.
 * **Use** **automated tools** to ensure that all of your images are always optimized. E.g.: [http://optimizilla.com](http://optimizilla.com/)
 
-<dl class="image">&lt;dt&gt; <img src="optimizeexample.png" alt="optimizeexample.png"> &lt;/dt&gt;<dd>Figure: Optimizilla reduced the image below in 31%<br></dd></dl>
+
+![Optimizilla reduced the image below in 31%](optimizeexample.png)
+
 ### WordPress 
 
 
 If your website is running on WordPress you should install and activate the plugin [WP Smush](https://wordpress.org/plugins/wp-smushit/). It scans every image you upload – or have already added to your site – cuts all the unnecessary data and scales it for you before adding it to your media library.
-<dl class="image">&lt;dt&gt; <img src="wp-smush.jpg" alt="wp-smush.jpg"> <br>
-   &lt;/dt&gt;<dd>Figure: WP Smush plugin saved 9.4MB from one web site</dd></dl>
+
+![WP Smush plugin saved 9.4MB from one web site](wp-smush.jpg)

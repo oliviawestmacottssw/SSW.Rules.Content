@@ -11,6 +11,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -19,27 +20,16 @@ Sometimes the prospect is not ready at the end of the initial meeting to engage 
 <!--endintro-->
 
 So, at the end, ask the prospect:
-<dl class="bad">                    &lt;dt&gt;
-                     &quot;When would be a good time to meet next?&quot;<br>
-                      Next Friday<br>
-                     &quot;Cool, speak then&quot;<br>
-                    &lt;/dt&gt;
-                    <dd>
-                        Figure&#58; Bad example&#58; The client really won't remember this
-                    </dd>
-                </dl><dl class="good">                    &lt;dt&gt;
-                     &quot;When would be a good time to meet next?&quot;<br>
-                      Next Friday<br>
-                      &quot;Do you have your calendar?&quot;<br>
-                       Sure, hold on<br>
-                      &quot;What time suits best?&quot;<br>
-                      Let's say 3pm<br>
-                      &quot;Cool, Do you want to send the appointment or should I?&quot;
-                    &lt;/dt&gt;
-                    <dd>
-                       Figure&#58; Good example&#58; Asking them lots of questions and setting a specific time and date for the next meeting (or phone call)
-                    </dd>
-                </dl>
+                 "When would be a good time to meet next?"
+"Cool, speak then"
+Next Friday
+Figure: Bad example: The client really won't remember this                    "When would be a good time to meet next?""Cool, Do you want to send the appointment or should I?"
+Let's say 3pm
+"What time suits best?"
+Sure, hold on
+"Do you have your calendar?"
+Next Friday
+Figure: Good example: Asking them lots of questions and setting a specific time and date for the next meeting (or phone call)                    
 This will ensure that the follow up meeting or phone call gets a much better chance of                      happening... Basically the prospect sets this up and will feel a certain indirect obligation.
 
 The other way to schedule a follow up is using [Followupthen](/do-you-follow-up-emails-effectively).

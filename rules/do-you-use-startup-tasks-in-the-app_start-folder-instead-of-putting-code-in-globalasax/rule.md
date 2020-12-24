@@ -9,13 +9,21 @@ authors:
 - id: 23
   title: Damian Brady
 related: []
+redirects: []
 
 ---
 
 Adding code to the Application\_Start method in the Global.asax file is the easiest and most straight-forward approach for executing startup logic, however, this code should be encapsulated in static methods outside the Global.asax file. Doing this helps provide cleaner code and encourages proper adherence to the Single Responsibility principle.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<br><br>::: greybox<br><pre>public class MvcApplication : System.Web.HttpApplication
+
+
+
+:::
+
+
+```
+public class MvcApplication : System.Web.HttpApplication
 {
     protected void Application_Start()
     {
@@ -29,8 +37,20 @@ Adding code to the Application\_Start method in the Global.asax file is the easi
             defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
         );        }
 }
+```
 
-</pre><br>:::<br><br>&lt;/dt&gt;<dd>Figure: Bad Example – Logic is implemented in the Application_Start method which breaks the Single Responsibility Principle</dd></dl><dl class="goodImage">&lt;dt&gt;<br><br>::: greybox<br><pre>public class MvcApplication : System.Web.HttpApplication
+
+::: greybox
+Figure: Bad Example – Logic is implemented in the Application\_Start method which breaks the Single Responsibility Principle
+
+![](startup-task.jpg)
+
+
+:::
+
+
+```
+public class MvcApplication : System.Web.HttpApplication
 {
     protected void Application_Start()
     {
@@ -43,5 +63,8 @@ Adding code to the Application\_Start method in the Global.asax file is the easi
         AuthConfig.RegisterAuth();
     }
 }
-</pre><br>:::<br><br><br>
-      <img src="startup-task.jpg" alt=""> &lt;/dt&gt;<dd>Figure: Good Example – Startup tasks are called from the Application_Start method but are located in the App_Start folder<br><br></dd></dl>
+```
+
+
+::: greybox
+Figure: Good Example – Startup tasks are called from the Application\_Start method but are located in the App\_Start folder

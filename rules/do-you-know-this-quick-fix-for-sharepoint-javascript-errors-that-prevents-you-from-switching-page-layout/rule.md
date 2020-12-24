@@ -9,6 +9,7 @@ authors:
 - id: 8
   title: John Liu
 related: []
+redirects: []
 
 ---
 
@@ -17,7 +18,7 @@ Follow the step to fix SharePoint JavaScript errors:
 
 1. Your content editor is trying to change page layout via the Ribbon in SharePoint 2010 
 
-![](PagelayoutInRibbon.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Click Page Layout in the Ribbon</font>
+![Click Page Layout in the Ribbon](PagelayoutInRibbon.jpg)
 2. But they get a JavaScript error
     Webpage error details
 
@@ -35,8 +36,8 @@ This error is likely caused by SharePoint trying to render available page layout
 
 1. Site Settings | Look and Feel | Page layouts and site templates
 2. Restrict the valid number of page layouts that can be used, instead of allowing "Pages in this site can use any layout"
-![](RestrictedPageLayout.jpg)<font class="ms-rteCustom-FigureNormal">Figure: Restrict valid page layouts </font>
+![Restrict valid page layouts](RestrictedPageLayout.jpg)
 3. This fixes the Ribbon menu
 
-![](RibbonMenu01.jpg)<font class="ms-rteCustom-FigureNormal">Figure: Ribbon menu fixed!</font>
+![Ribbon menu fixed](RibbonMenu01.jpg)!**
 4. Tell your sys admin that there are broken packages in SharePoint and must be fixed ASAP

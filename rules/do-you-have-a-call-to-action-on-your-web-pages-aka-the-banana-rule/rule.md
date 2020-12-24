@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -21,6 +22,10 @@ For example, if your page is selling software, make it easy for your users to ma
 #### Why do we call it "banana rule"?
 
 How would you get a monkey pay attention to something? You could lure him by tempting                     him with a banana. Once we have the monkeys attention focused on the banana, he                     will try to get his hands on it regardless of the barriers on his way.
-<dl class="image">&lt;dt&gt;<img src="banana.jpg" alt="Getting attention of monkey with banana">&lt;/dt&gt;<dd>Figure: If the monkey can see the banana, he will do whatever it takes to get it</dd></dl>
+
+![If the monkey can see the banana, he will do whatever it takes to get it](banana.jpg)
 This is how the "banana rule" should be applied:
-<dl class="badImage">&lt;dt&gt;<img src="BadBananaQantas.png" alt="Bad use of banana in Qantas.com.au">&lt;/dt&gt;<dd>Figure: Bad Example – "Points+Pay"button takes the attention over "Go" which should be the "banana"</dd></dl>So, remember most pages need a "banana" to get them to where you want them. "Bananas" are big, simple and stand out from the rest of the page<dl class="goodImage">&lt;dt&gt;<img src="BananaTeamviewer.png" alt="Good use of banana in Teamviewer.com">&lt;/dt&gt;<dd>Figure: Great Example - Team Viewer also has a good banana</dd></dl>
+
+[[badExample]]
+| !["Points+Pay"button takes the attention over "Go" which should be the "banana"So, remember most pages need a "banana" to get them to where you want them. "Bananas" are big, simple and stand out from the rest of the page](BadBananaQantas.png)
+![Great Example - Team Viewer also has a good banana](BananaTeamviewer.png)

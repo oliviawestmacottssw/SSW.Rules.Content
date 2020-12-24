@@ -9,18 +9,29 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 When adding input boxes to collect data, please always have a &lt;label&gt; tag                     associated with your &lt;input&gt; tag to link the labels with their respective                     edit controls. This improves accessibility and gives nice focusing stuff (when you                     click the label).
 
 <!--endintro-->
-<dl class="code">&lt;dt&gt;<pre>&lt;p&gt;
-    &lt;label for=&quot;EmailAddress&quot;&gt;Email&#160;Address&lt;/label&gt;
-    &lt;input id=&quot;EmailAddress&quot;&#160;type=&quot;text&quot;/&gt;
-&lt;/p&gt;</pre>&lt;/dt&gt;</dl>
+
+
+```
+<p>
+    <label for="EmailAddress">Email Address</label>
+    <input id="EmailAddress" type="text"/>
+</p>
+```
+
+
 **Tip:** To do this in ASP.NET use the AssociatedControlID parameter on your &lt;asp:Label /&gt;                     controls.
-<dl class="code">&lt;dt&gt;<pre>&lt;p&gt;
-    &lt;asp&#58;Label ID=&quot;EmailLabel&quot; runat=&quot;server&quot; Text=&quot;Email&#160;Address&quot; AssociatedControlID=&quot;EmailAddress&quot;/&gt;
-    &lt;asp&#58;TextBox ID=&quot;EmailAddress&quot; runat=&quot;server&quot;/&gt;
-&lt;/p&gt;</pre>&lt;/dt&gt;</dl>
+
+
+```
+<p>
+    <asp:Label ID="EmailLabel" runat="server" Text="Email Address" AssociatedControlID="EmailAddress"/>
+    <asp:TextBox ID="EmailAddress" runat="server"/>
+</p>
+```

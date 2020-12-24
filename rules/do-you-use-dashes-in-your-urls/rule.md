@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -93,7 +94,8 @@ Read more on [SEO 101: Hyphens vs. Underscores in URLs](https://www.seomechanic.
 ### More info
 
 You can install the IIS [URL Rewrite Module](http://learn.iis.net/page.aspx/460/using-the-url-rewrite-module/) for IIS7 you can make ugly URL's much more friendly.
-<dl class="image">&lt;dt&gt;<img src="friendly-url-rule.jpg" alt="Rewrite the HTML" style="margin:5px;">&lt;/dt&gt;<dd>Figure: Rewrite both the HTML in the page and the incoming URL's to be friendly</dd></dl>
+
+![Rewrite both the HTML in the page and the incoming URL's to be friendly](friendly-url-rule.jpg)
 The caveat here is that it will only work if the URL is in the clear on the page.
 
 **Note:** This could only be done with certain links as others are postbacks as well.

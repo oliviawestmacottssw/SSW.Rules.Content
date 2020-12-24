@@ -9,6 +9,7 @@ authors:
 - id: 50
   title: Martin Li
 related: []
+redirects: []
 
 ---
 
@@ -21,4 +22,5 @@ Knowing the context and use of certain strings will help translators choose the 
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img alt="CommentsInResources.jpg" src="Localization_Commonts.jpg" style="width:750px;">&lt;/dt&gt;<dd>Figure: Use the comment field in the resx to tell you where it is used<br></dd></dl>
+
+![Use the comment field in the resx to tell you where it is used](Localization_Commonts.jpg)

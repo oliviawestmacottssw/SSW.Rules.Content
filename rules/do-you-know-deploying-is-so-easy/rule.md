@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -21,20 +22,16 @@ You have worked hard on the coding, got a pass from the testers. Great! Now you 
     * Right click "Publish" (recommended if you can directly connect) 
 <br>        or
     * Right click "Create Package"
-<dl class="image">            &lt;dt&gt;<img alt="" src="PublishWeb.jpg"> &lt;/dt&gt;
-            <dd>Figure: For a web app it is just one click </dd>
-        </dl>
+
+![For a web app it is just one click<br>](PublishWeb.jpg)
 * Rich Clients
     * Right click "Publish" (recommended if you can use ClickOnce) 
 <br>        or
     * Right click "Create Setup" (Suggestion to Microsoft as menu doesn't exist)
 
-<dl class="image">        &lt;dt&gt;<img alt="" src="PublishRichClient.jpg"> &lt;/dt&gt;
-        <dd>Figure: For a Windows clients it is also just one click </dd>
-    </dl>
-* The Database<br>    <dl class="image">        &lt;dt&gt;<img alt="" src="PublishDatabase.jpg"> &lt;/dt&gt;
-        <dd>Figure: For the Database it is ..... well one click is what you need to aim for </dd>
-        <dd></dd>
-    </dl>
+
+![For a Windows clients it is also just one click<br>](PublishRichClient.jpg)
+* The Database<br>    
+![For the Database it is ..... well one click is what you need to aim for<br>](PublishDatabase.jpg)
 
  Now all this works beautifully first time, when there is no existing database... and no existing data to worry about. Now you have a reason to read the rest of the rules :-)

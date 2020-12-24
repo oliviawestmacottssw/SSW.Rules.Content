@@ -11,6 +11,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -26,9 +27,7 @@ To hunt down a problem where say the IIS server couldn’t write to a directory,
 2. Apply filter
 3. Rejoice
 
-<dl class="image">&lt;dt&gt;
-      <img src="process-monitor-filter.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Apply filter to only show "ACCESS DENIED" results</dd></dl><dl class="image">&lt;dt&gt;
-         <img src="event-properties.jpg" alt="">
-      &lt;/dt&gt;<dd>Figure: And here we have the offending account</dd></dl>
+
+![Apply filter to only show "ACCESS DENIED" results](process-monitor-filter.jpg)
+![And here we have the offending account](event-properties.jpg)
 <!--endintro-->

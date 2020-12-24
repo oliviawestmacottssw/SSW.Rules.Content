@@ -10,6 +10,7 @@ authors:
   title: John Liu
 related:
 - do-you-always-set-infopath-compatibility-mode-to-design-for-both-rich-and-web-client-forms
+redirects: []
 
 ---
 

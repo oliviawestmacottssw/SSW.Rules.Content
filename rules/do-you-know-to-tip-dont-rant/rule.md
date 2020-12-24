@@ -11,6 +11,7 @@ authors:
 - id: 14
   title: Martin Hinshelwood
 related: []
+redirects: []
 
 ---
 
@@ -21,7 +22,16 @@ Turn a rant into a tip…
 
 
 ![](RulesBloggingTipBad.jpg "SNAGHTML1b864a4")
-<font class="ms-rteCustom-FigureBad">Figure: Bad example – It is too easy to rant </font>
 
 
-![](RulesBloggingTipGood.jpg "SNAGHTML1b94284")<font class="ms-rteCustom-FigureGood">Figure: Good example – What started out as a rant about Plaxo became a tip on how to get round it<br></font>
+::: bad
+Figure: Bad example – It is too easy to rant
+:::
+
+
+![](RulesBloggingTipGood.jpg "SNAGHTML1b94284")
+
+::: good
+Figure: Good example – What started out as a rant about Plaxo became a tip on how to get round it
+
+:::

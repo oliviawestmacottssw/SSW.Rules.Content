@@ -11,6 +11,7 @@ authors:
 - id: 29
   title: Raj Dhatt
 related: []
+redirects: []
 
 ---
 
@@ -22,9 +23,8 @@ Without a spare room, it can be difficult to create a workable setup, however as
 
 ### Tip 1: Use a room divider
 
-<dl class="image">&lt;dt&gt; 
-      <img src="room-divider.jpg" alt="room-divider.jpg"> 
-   &lt;/dt&gt;<dd>Figure: Christian uses this divider to hide his background</dd></dl>
+
+![Christian uses this divider to hide his background](room-divider.jpg)
 Christian has used a folding room divider to hide his background and create something visually nice to look at.
 
 It has the added effect of softening any background light, e.g. windows, lamps etc.
@@ -33,9 +33,8 @@ It has the added effect of softening any background light, e.g. windows, lamps e
 
 
 Jason’s setup is another good example:
-<dl class="image">&lt;dt&gt; 
-      <img src="jason-angle-bed.jpg" alt="jason-angle-bed.jpg"> 
-   &lt;/dt&gt;<dd>Figure: Jason is in a bedroom, however, the angle shows little of the bed</dd></dl>
+
+![Jason is in a bedroom, however, the angle shows little of the bed](jason-angle-bed.jpg)
 In this setup, Jason is using a more ‘pro’ setup with a USB powered podcasting mic and an articulating arm. He is also using a high-quality webcam with a ring light.
 
 Originally the shot was more head-on, which meant you could see the bed in full view, however by moving the webcam off to the side and using the blinds, we can get a more pleasant looking shot.
@@ -50,10 +49,9 @@ One of the most frustrating aspects of remote calls is participants’ mixed aud
 
 
 **USB webcam with built-in mic array**
-<dl class="image">&lt;dt&gt; 
-      <img src="logitech-brio.png" alt="logitech-brio.png"> 
-   &lt;/dt&gt;<dd>Figure: 
-      <a href="https://www.logitech.com/en-au/product/brio#specification-tabular">Logitech Brio 4k webcam</a><br></dd></dl>
+
+![logitech-brio.png](logitech-brio.png)
+[Logitech Brio 4k webcam](https://www.logitech.com/en-au/product/brio#specification-tabular)
 
 
 ::: good
@@ -70,10 +68,8 @@ Benefits
 
 
 **Podcast style microphone** 
-<dl class="image">&lt;dt&gt; 
-            <img src="rode-podcaster.jpg" alt="rode-podcaster.jpg"> 
-         &lt;/dt&gt;<dd>Figure: 
-            <a href="http://www.rode.com/microphones/podcaster">Rode USB Podcaster microphone</a><span style="color:#444444;"></span></dd></dl>
+
+![rode-podcaster.jpg](rode-podcaster.jpg)[Rode USB Podcaster microphone](http://www.rode.com/microphones/podcaster)
 
 
 ::: good
@@ -90,7 +86,9 @@ Benefits
 
 
 The best way to improve your video is not to buy a new fancy camera, but to improve your existing setup with great lighting.
-<dl class="image">&lt;dt&gt;<img src="ring-light.jpg" alt="ring-light.jpg">&lt;/dt&gt;<dd>Figure: Ring light for webcam/camera/smartphone<br></dd></dl>
+
+![Ring light for webcam/camera/smartphone](ring-light.jpg)
+
 
 
 ::: good

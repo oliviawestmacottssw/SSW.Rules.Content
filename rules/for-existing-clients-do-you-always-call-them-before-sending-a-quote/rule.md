@@ -7,6 +7,7 @@ uri: for-existing-clients-do-you-always-call-them-before-sending-a-quote
 created: 2010-07-16T04:23:52.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -22,4 +23,4 @@ Hi Ed,
 
 :::
 
-<dl class="code">    <dd>Figure&#58; Always call the client to let them know that you are about to send a quote across, then send an &quot;<a href="/do-you-send-＂as-per-our-conversation＂-emails"> As per our conversation</a>&quot; email.</dd></dl>
+ Figure: Always call the client to let them know that you are about to send a quote across, then send an "" email.[As per our conversation](/do-you-send-＂as-per-our-conversation＂-emails)

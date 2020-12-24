@@ -11,6 +11,7 @@ authors:
 - id: 62
   title: Penny Walker
 related: []
+redirects: []
 
 ---
 
@@ -26,7 +27,12 @@ The evolution of website development can be divided by:
 <!--endintro-->
 
 It's important that your website is focused on CX (Customer Experience) which means you need modern contact options.
-<dl class="badImage">&lt;dt&gt; <img src="moderncontact-bad.png" alt="moderncontact-bad.png" style="width:650px;height:494px;"> &lt;/dt&gt;<dd>Figure: Bad example: the only way to contact the company is via email</dd></dl> <dl class="goodImage"> &lt;dt&gt; <img src="moderncontact-good.png" alt="moderncontact-good.png" style="width:650px;height:1158px;"> &lt;/dt&gt;<dd>Figure: Good example - Chat is available along with other ways of contact, such as voip, IM, KB etc<br></dd></dl> 
+
+[[badExample]]
+| ![the only way to contact the company is via email](moderncontact-bad.png)
+[[goodExample]]
+| ![Chat is available along with other ways of contact, such as voip, IM, KB etc](moderncontact-good.png)
+ 
 
 `youtube: https://www.youtube.com/embed/K1HlAsW1RiA`
  

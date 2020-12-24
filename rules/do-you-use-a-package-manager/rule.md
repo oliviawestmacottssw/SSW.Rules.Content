@@ -9,14 +9,16 @@ authors:
 - id: 47
   title: Stanley Sidik
 related: []
+redirects: []
 
 ---
 
 A package manager is a collection of software tools that automate the process of installing, upgrading, configuring, and uninstalling computer programs in a consistent manner. [Chocolatey](https://chocolatey.org/) is a great package manager, easy to use way to manage software on Windows. 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt; <img alt="chocolatey.png" src="chocolatey.png"> <br>
-   &lt;/dt&gt;</dl>
+
+![](chocolatey.png)
+
 To get started with Chocolatey open up Command Prompt in Administrative mode, type in:
 
 

@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -18,11 +19,11 @@ Every phone number should include the country code (with the + sign) so people 
 
 
 ::: bad
-Bad example: (503) 629-4000 
+Bad example: (503) 629-4000
 :::
 
 
 
 ::: good
-Good example: +1 (503) 629-4000     
+Good example: +1 (503) 629-4000
 :::

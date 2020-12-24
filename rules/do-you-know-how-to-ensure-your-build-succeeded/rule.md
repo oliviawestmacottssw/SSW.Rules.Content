@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -19,6 +20,9 @@ You should not just trigger a build and walk away however – make sure that bui
 <!--endintro-->
 
 The first way is from within Visual Studio.
-<dl class="goodImage">&lt;dt&gt;<img src="builds-success-good.jpg" alt="">&lt;/dt&gt;<dd>Figure: Good Example – Check your build has passed from Team Explorer | Builds</dd></dl>
+
+[[goodExample]]
+| ![Check your build has passed from Team Explorer | Builds](builds-success-good.jpg)
 The second is by always having the TFS Build Notification tool always running. Through it you can subscribe to any builds you are interested in, when they start, end and their status.
-<dl class="goodImage">&lt;dt&gt;<img src="builds-success-better.jpg" alt="">&lt;/dt&gt;<dd>Figure: Better Example – Check your build(s) are continually passing by having the TFS Build Notification tool always running - Start | All Programs | Visual Studio 2012 | Team Foundation Server Tools | Build Notifications</dd></dl>
+
+![Better Example – Check your build](builds-success-better.jpg)(s) are continually passing by having the TFS Build Notification tool always running - Start | All Programs | Visual Studio 2012 | Team Foundation Server Tools | Build Notifications

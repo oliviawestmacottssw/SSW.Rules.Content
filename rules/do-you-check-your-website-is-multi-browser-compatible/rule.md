@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -31,7 +32,9 @@ You must test your website on the major browsers, though, because that there wil
 
 
 You should be able to fix all formatting and layout bugs by editing the CSS file.
-<dl class="image">&lt;dt&gt;<img src="BrowserUsageStats2020.png" alt="BrowserUsageStats2020.png" style="margin:5px;"><br>&lt;/dt&gt;<dd>Figure: Browsers statistics in 2020 – Know more in <a href="http://www.w3schools.com/browsers/browsers_stats.asp" target="_blank">W3C Browser Stats</a><br></dd></dl>
+
+![Browsers statistics in 2020 – Know more in](BrowserUsageStats2020.png)
+[W3C Browser Stats](http://www.w3schools.com/browsers/browsers_stats.asp)
 
 
 ::: greybox

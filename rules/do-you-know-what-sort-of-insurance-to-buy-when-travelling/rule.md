@@ -11,6 +11,7 @@ authors:
 - id: 41
   title: Joanna Feely
 related: []
+redirects: []
 
 ---
 
@@ -20,7 +21,11 @@ For example, if you're travelling  **within your home country** you might decide
 
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="53a2eb_hire-car-provided-insurance.jpg" alt="hire-car-provided-insurance.jpg" data-pin-nopin="true"> &lt;/dt&gt;<dd> Figure: Bad example - Getting insurance through the car hire provider, with AUD$6,000 excess, is $23.25/day</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="575bdf_private-travel-insurance.jpg" alt="private-travel-insurance.jpg" style="width:650px;">&lt;/dt&gt;&lt;dt&gt;&lt;/dt&gt;<dd> Figure: Good example: Allianz travel insurance for within Australia covers up to AUD$6,000 excess on a rental vehicle – this works out to be about $5.15 a day for a 9-day trip</dd></dl>
+
+[[badExample]]
+| ![Getting insurance through the car hire provider, with AUD$6,000 excess, is $23.25/day](53a2eb_hire-car-provided-insurance.jpg)
+[[goodExample]]
+| ![Allianz travel insurance for within Australia covers up to AUD$6,000 excess on a rental vehicle – this works out to be about $5.15 a day for a 9-day trip](575bdf_private-travel-insurance.jpg)
 ### International travel:
 
 If you're  **travelling outside of the country** , you should definitely take out travel insurance. If you book and pay using a credit card, you might be eligible for free travel insurance through your credit card institution, but don't assume this cover will be right for your needs, or will necessarily cover the whole travel party.
@@ -30,7 +35,9 @@ If you're  **travelling outside of the country** , you should definitely take ou
 If you're the card holder and you're travelling alone, you should be fine with the insurance provided by your credit card institution.
 
 **Note:** if you're travelling for business and would like to be covered under credit card insurance, you will have to pay for the trip on your own credit card to get the coverage, and then be reimbursed for the costs by your company.
-<dl class="goodImage">&lt;dt&gt;<img src="ccb9e6_credit-card-insurance-coverage-table.jpg" alt="credit-card-insurance-coverage-table.jpg">&lt;/dt&gt;<dd>Figure: Good example – but only if you're travelling by yourself</dd></dl>
+
+[[goodExample]]
+| ![but only if you're travelling by yourself](ccb9e6_credit-card-insurance-coverage-table.jpg)
 **"Supplementary" card members (spouse and dependent children) aren't nearly as well covered as the primary card holder – C is the big one!** (Source: American Express Ultimate credit card travel insurance policy)
 
 **Option 1 – traditional insurance:** **Recommended.**  - If you’re travelling with kids, you are better off going with traditional travel insurance to ensure all travellers are fully covered.

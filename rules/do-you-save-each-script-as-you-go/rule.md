@@ -11,6 +11,7 @@ authors:
 - id: 40
   title: Igor Goldobin
 related: []
+redirects: []
 
 ---
 
@@ -34,8 +35,8 @@ Every time a change is made to your product's SQL Server Database, script out th
 7. The application can have a "Reconcile" feature that compares the current schema to what it should be
 
 
-<dl class="image">&lt;dt&gt; 
-      <img src="ChangeScripts.jpg" alt=""> &lt;/dt&gt;<dd>Figure: A list of change SQL scripts, each file name is in the correct format </dd></dl>
+
+![A list of change SQL scripts, each file name is in the correct format](ChangeScripts.jpg)
 **Is there a file naming convention to follow?** 
  The script file naming convention should be XXXXX\_ObjectType\_ObjectName\_ColumnName\_Description\_SchemaMasterInitials.sql  
 

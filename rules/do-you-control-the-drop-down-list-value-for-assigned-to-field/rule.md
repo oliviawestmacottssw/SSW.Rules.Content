@@ -13,6 +13,7 @@ related:
 - do-you-have-a-witadmin-script-to-import-work-item-definitions
 - do-you-start-from-a-built-in-process-template
 - do-you-use-global-list
+redirects: []
 
 ---
 

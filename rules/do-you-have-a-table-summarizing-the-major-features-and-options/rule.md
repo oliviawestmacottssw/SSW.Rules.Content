@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -21,7 +22,9 @@ Use a table to summarize the major features of the project. Columns that are nee
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="Proposals_OptionAHighlighted.jpg" alt="Proposals_OptionAHighlighted.jpg"><br>&lt;/dt&gt;<dd>Figure: Highlight the option recommended<br></dd></dl>
+
+![Highlight the option recommended](Proposals_OptionAHighlighted.jpg)
+
 ### Related Rule
 
 * [Teamwork - Do you manage up? (Give a recommendation)](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=ba07b0d2-ccce-4584-a636-f3a5d9bec2cf)

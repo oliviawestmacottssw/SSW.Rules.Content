@@ -22,6 +22,7 @@ related:
 - do-you-follow-image-standard-sizes-on-social-media
 - do-you-know-what-type-of-content-marketing-you-should-post-on-your-socials
 - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
+redirects: []
 
 ---
 
@@ -66,7 +67,8 @@ Your brand values and personality hold great insights into the type of people wh
 Be aware that some businesses and industries are too serious to create and post that type of content. We also have to mention that some social media don’t quite have the right audience for a meme, for example: LinkedIn. We suggest a bit of research: check what your competitors are posting and if they use memes too, how do they approach it? It’s a great exercise to do market research if you want to add some personality to your socials.
 
 Correlating it to     [DevOps Culture](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops-culture), as a marketer, you should have a growth mindset on this. After testing a meme and posting it, you’ll learn from your experiments and gather insights on what’s the best way to implement this to your social media strategy.
-<dl class="badImage">&lt;dt&gt;<img src="doritos.jpg" alt="doritos.jpg">&lt;/dt&gt;<dd>Figure - Bad Example: Doritos usually creates their own memes blending humour with their brand, but in this one, the comments were clearly showing it was a bad idea </dd>  </dl><dl class="goodImage">   &lt;dt&gt;
-      <img src="nswpolice.jpg" alt="nswpolice.jpg" style="width:750px;">
-   &lt;/dt&gt;<dd>Figure - Good Example: By using a light-hearted tone, the 
-      <a href="https://www.facebook.com/nswpoliceforce/">NSW Police</a> manages to get across their point on controversial topics</dd></dl>
+
+[[badExample]]
+| ![Doritos usually creates their own memes blending humour with their brand, but in this one, the comments were clearly showing it was a bad idea](doritos.jpg)
+[[goodExample]]
+| ![By using a light-hearted tone, themanages to get across their point on controversial topics](nswpolice.jpg)[NSW Police](https://www.facebook.com/nswpoliceforce/)

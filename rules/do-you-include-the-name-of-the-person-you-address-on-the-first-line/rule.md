@@ -13,13 +13,16 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
 If you include more than one person in your email, include the name of the person/s you are addressing on the first line. Generally don't put more than one name in the "To" box, so that people won't have to be unsure to whom the email is addressed. If you have to address multiple people in an email (including yourself - i.e. notes to self), include each person's name as a heading as shown below. This helps them quickly locate the part of the email that applies to them.
 
 <!--endintro-->
-<dl class="goodImage">&lt;dt&gt;<img src="IncludeNameFirstLine.jpg" alt="Include each addressee's name as a heading in the email body" class="ms-rteCustom-ImageArea" style="width:750px;height:532px;"> &lt;/dt&gt;<dd>Figure: Good Example - When addressing multiple people, include each addressee's name as a separate heading</dd></dl>
+
+[[goodExample]]
+| ![When addressing multiple people, include each addressee's name as a separate heading](IncludeNameFirstLine.jpg)
 **Tip:** Use big headings by typing Control+Alt+3.
 
 **Video:** [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI).

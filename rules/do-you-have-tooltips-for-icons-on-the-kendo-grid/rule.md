@@ -11,16 +11,15 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 Icons make your user interface clean, but users sometimes need further information about the operation they are about to perform.
 
 <!--endintro-->
-<dl class="goodImage">&lt;dt&gt; 
-      <img src="kendo-tooltips.jpg" alt=""> 
-   &lt;/dt&gt;<dd>Figure: Good Example - Tooltips</dd></dl><dl class="image">&lt;dt&gt; 
-      <img src="kendo-adding-tooltips.jpg" alt=""> 
-   &lt;/dt&gt;<dd>Figure: When adding Kendo Tooltips to Icons in the Kendo Grid, the Tooltip JavaScript needs to be executed as the page is bound or else the tooltips will not exist after a new page of data is selected</dd></dl><dl class="image">&lt;dt&gt; 
-      <img src="kendo-commonJS.jpg" alt=""> 
-   &lt;/dt&gt;<dd>Figure: Common JavaScript library: add the EnableEditLinks() method/dd> </dd></dl>
+
+[[goodExample]]
+| ![Tooltips](kendo-tooltips.jpg)
+![When adding Kendo Tooltips to Icons in the Kendo Grid, the Tooltip JavaScript needs to be executed as the page is bound or else the tooltips will not exist after a new page of data is selected](kendo-adding-tooltips.jpg)
+![Common JavaScript library: add the EnableEditLinks](kendo-commonJS.jpg)() method/dd>

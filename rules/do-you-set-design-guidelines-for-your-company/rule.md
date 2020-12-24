@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -39,4 +40,6 @@ View [SSW Web References](https://www.ssw.com.au/ssw/company/Web-Reference.aspx)
 
 
 You should help designers to find stuff in your Intranet:
-<dl class="goodImage">&lt;dt&gt;<img src="intranet.jpg" alt="intranet.jpg">&lt;/dt&gt;<dd>Figure: Good Example - Keep things together in your Intranet</dd></dl>
+
+[[goodExample]]
+| ![Keep things together in your Intranet](intranet.jpg)

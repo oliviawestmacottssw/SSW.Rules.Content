@@ -9,6 +9,7 @@ authors:
 - id: 62
   title: Penny Walker
 related: []
+redirects: []
 
 ---
 
@@ -39,4 +40,5 @@ The ‘effort’ is the daily tasks you will complete to achieve your goals, for
 
 
 It's in this phase that you’ll basically decide on what activities you will use to help achieve your goals.
-<dl class="image">&lt;dt&gt;<img src="marketing-stragtegy-resources.png" alt="marketing-stragtegy-resources.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: Examples of resources that you can use on your marketing strategy<br></dd></dl>
+
+![Examples of resources that you can use on your marketing strategy](marketing-stragtegy-resources.png)

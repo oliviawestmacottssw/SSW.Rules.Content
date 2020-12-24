@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -41,32 +42,24 @@ Let's take the "AvoidReplyToAllWhenBcc" page as example.
 <br>            you have been BCC'ed** 
  1.  Not sure how user inputs the  content into this page. Anyway, here is the right way to add content via Telerik Editor. Please read below example of how I redo this part in Telerik Editor without changing the code manually
 
-![](SaveContentInNotePad.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure:Copy content in the notepad</font>2. Delete the current content from Telerik for a new start;
+![Copy content in the notepad 2. Delete the current content from Telerik for a new start;](SaveContentInNotePad.jpg)
 
  3. Copy the first sentence from notepad and paste into Telerik Editor in the page; (please avoid copying straightly from web page and pasting them here, it will copy the all tags as well. it might affect the styles which can’t apply correctly )
 
-![](CopyFromNotePad.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Start copying content over</font>4. Insert the image
+![Start copying content over 4. Insert the image](CopyFromNotePad.jpg)
 
-![](InsertImage.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Add a link to text</font>5. Add an image
+![Add a link to text 5. Add an image](InsertImage.jpg)
 
-![](ApplyStyleInsertImage.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Inser an image</font>6. Press “enter” key to start a new row, then copy the figure from notepad to the Telerik editor area
+![Inser an image 6. Press “enter” key to start a new row, then copy the figure from notepad to the Telerik editor area](ApplyStyleInsertImage.jpg)
 
-![](ApplyStyleAddFigure.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Add figure</font>7. Apply image style to the image by click on the image, then choose a style from “Apply CSS Class” dropdown list
+![Add figure 7. Apply image style to the image by click on the image, then choose a style from “Apply CSS Class” dropdown list](ApplyStyleAddFigure.jpg)
 
-![](ApplyStyleImageArea.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Apply style to the image<br></font>
+![Apply style to the image](ApplyStyleImageArea.jpg)
+** 
  8. Apply style to the figure
 
-![](ApplyStyleImageArea.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Apply style to the figure</font>9.Apply the yellow box
+![Apply style to the figure 9.Apply the yellow box](ApplyStyleImageArea.jpg)
 
-![](ApplyStyleFigure.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Apply yellow border box to the content</font>10. Check in the changes, then you will have - "dada.."
+![Apply yellow border box to the content 10. Check in the changes, then you will have - "dada.."](ApplyStyleFigure.jpg)
 
-![](ApplyStyleResult.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Right style in use</font>
+![Right style in use](ApplyStyleResult.jpg)

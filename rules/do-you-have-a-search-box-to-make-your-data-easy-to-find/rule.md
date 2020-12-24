@@ -7,12 +7,15 @@ uri: do-you-have-a-search-box-to-make-your-data-easy-to-find
 created: 2012-11-27T01:48:43.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
-<dl class="goodImage">&lt;dt&gt;<img width="600" border="0" alt="Easy to search" src="../../assets/EasySearch.png">&lt;/dt&gt;
-<dd>Figure: Good example - a "search box" makes it easy to find data</dd></dl><dl class="goodImage">&lt;dt&gt;<img width="600" border="0" alt="Easy to search" src="win8search.jpg">&lt;/dt&gt;
-<dd>Figure: Good example - the search bar in Windows 8 is now always in the same position, no matter what program or where you are searching for. You can activate Charms in Windows 8 by mousing to the top right corner.</dd></dl><dl class="ssw15-rteElement-ImageArea"><img src="searchbox.png" alt="searchbox.png" style="margin:5px;width:650px;"></dl>
+[[goodExample]]
+| ![a "search box" makes it easy to find data](../../assets/EasySearch.png)
+[[goodExample]]
+| ![the search bar in Windows 8 is now always in the same position, no matter what program or where you are searching for. You can activate Charms in Windows 8 by mousing to the top right corner.](win8search.jpg)
+![](searchbox.png)
 
 ::: good
 Figure: Good Example - TFS Preview has an easy to find search box.

@@ -11,6 +11,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -48,7 +49,18 @@ SSW Chief Architect
 
 
 **Note** : A "For the record" email should be reserved for a significant architectural decision, etc. that will be difficult or costly to change later.  You should consider it a level above an ["As per our conversation" email](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=f98fc6fe-0e5d-43fe-b560-0f5603ec7069), which is better suited for more minor decisions.
-<dl class="badCode">&lt;dt&gt;(6 months later)<br>"I knew it, we should never have used React for the Northwind project."&lt;/dt&gt;<dd>Bad example</dd></dl><dl class="goodCode">&lt;dt&gt;(On the day)<br>"Thanks for the chat today. As per our conversation, you'd like us to build this feature using a quick workaround. Just for the record, the best practice would have been to XXX, but since you are the Product Owner, and I understand we're under time pressure, I of course will go with your decision."<br>&lt;/dt&gt;<dd>Good example - they asked you to do a shortcut<br></dd></dl><dl class="goodCode">&lt;dt&gt;(On the day)<br>"Thanks for the chat today. For the record, I disagree with doing the Northwind Project in React and instead I recommend doing it in Angular, because...XXX.<br>That said, you are the Product Owner and have final say in the matter, so I will proceed with React as per your decision."<br>&lt;/dt&gt;<dd>Good example - they are making a poor technology choice.  Note it's also a good email to have in your back pocket in case the client complains about slow progress in a few months time<br></dd></dl><dl class="goodCode">&lt;dt&gt;(6 months later - the curious retrospective)<br>"I just got reminded about this email from 6 months ago, in the spirit of doing retrospectives to learn, thanks for taking my call about it.  <br>As per our conversation, we are both happy that the React solution has panned out and there has been some benefits that we didn't think of at the time such as hiring a couple of cool React developers.   We agreed that we could have saved some money with Angular, but we don't regret the decision."<br>&lt;/dt&gt;<dd>Good example – 6 month retrospective to analyse the pros and cons of a past decision.  <span style="color:#333333;">Tread carefully with a follow up email - use your discretion to avoid souring a relationship by unnecessarily rubbing their face in it.</span></dd></dl>
+ (6 months later)"I knew it, we should never have used React for the Northwind project."
+Bad example(On the day)
+"Thanks for the chat today. As per our conversation, you'd like us to build this feature using a quick workaround. Just for the record, the best practice would have been to XXX, but since you are the Product Owner, and I understand we're under time pressure, I of course will go with your decision."
+Good example - they asked you to do a shortcut
+(On the day)
+That said, you are the Product Owner and have final say in the matter, so I will proceed with React as per your decision."
+"Thanks for the chat today. For the record, I disagree with doing the Northwind Project in React and instead I recommend doing it in Angular, because...XXX.
+Good example - they are making a poor technology choice.  Note it's also a good email to have in your back pocket in case the client complains about slow progress in a few months time
+(6 months later - the curious retrospective)
+As per our conversation, we are both happy that the React solution has panned out and there has been some benefits that we didn't think of at the time such as hiring a couple of cool React developers.   We agreed that we could have saved some money with Angular, but we don't regret the decision."
+"I just got reminded about this email from 6 months ago, in the spirit of doing retrospectives to learn, thanks for taking my call about it.
+Good example – 6 month retrospective to analyse the pros and cons of a past decision.Tread carefully with a follow up email - use your discretion to avoid souring a relationship by unnecessarily rubbing their face in it.
 Mention the words "For the record," so that you can find it more easily in the future with a search, but avoid starting with it because it can sound a bit harsh.
 
 Make sure you CC your account manager and any other relevant parties so that they can keep informed of the situation.

@@ -11,6 +11,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -19,4 +20,8 @@ It’s usually easier for users to remember where a given information is when it
 <!--endintro-->
 
 An easy and fun way to alleviate this issue and boost user adoption to Microsoft Teams is to use emojis in your channel names.     [See how to get emojis](https://www.howtogeek.com/208890/how-to-use-emoji-on-your-smartphone-or-pc/v).
-<dl class="badImage">&lt;dt&gt;<img src="bad-no-emojis.png" alt="bad-no-emojis.png">&lt;/dt&gt;<dd>Figure: Bad Example - Channel names without emojis</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="good-use-emojis.png" alt="good-use-emojis.png">&lt;/dt&gt;<dd>Figure: Good Example - Channel names have emojis<span style="color:#444444;"></span></dd></dl>
+
+[[badExample]]
+| ![Channel names without emojis](bad-no-emojis.png)
+[[goodExample]]
+| ![Channel names have emojis](good-use-emojis.png)

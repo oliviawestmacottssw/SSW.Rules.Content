@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -31,4 +32,6 @@ In specific cases, like on breadcrumbs and logo, you don't want these URL's, so 
 <mark>.breadcrumb</mark>a[href]:after {
 content: <mark>none</mark>;
 }
-<dl class="goodImage">&lt;dt&gt;<img src="print-url.jpg" alt="print-url.jpg"> &lt;/dt&gt;<dd>Figure: Good example - printing links on the content but avoiding it on obvious places, like the logo and bradcrumbs</dd></dl>
+
+[[goodExample]]
+| ![printing links on the content but avoiding it on obvious places, like the logo and bradcrumbs](print-url.jpg)

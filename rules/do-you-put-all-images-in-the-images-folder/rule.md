@@ -11,14 +11,15 @@ authors:
 - id: 17
   title: Ryan Tee
 related: []
+redirects: []
 
 ---
 
 Instead of images sitting all around the solution, we put all the images in the same folder.   
 <!--endintro-->
-<dl class="badImage">    &lt;dt&gt;<img width="427" height="126" border="0" alt="Image bad link" src="../../assets/ImageLinkBad.gif"> &lt;/dt&gt;
-    <dd>Bad example - Images under Product root folder. </dd></dl><dl class="goodImage">    &lt;dt&gt;<img width="427" height="126" border="0" alt="Image good link" src="../../assets/ImageLinkGood.gif"> &lt;/dt&gt;
-    <dd>Good example - Images under \Images folder. </dd></dl>
+
+![example](../../assets/ImageLinkBad.gif)Bad
+![example](../../assets/ImageLinkGood.gif)Good
 
 
 

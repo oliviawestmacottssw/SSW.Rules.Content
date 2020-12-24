@@ -9,6 +9,7 @@ authors:
 - id: 50
   title: Martin Li
 related: []
+redirects: []
 
 ---
 
@@ -16,4 +17,4 @@ Localization because absolutely needed when  your application has to be shown to
 
 <!--endintro-->
 
-![](LinkAuditor.jpg)<dd>Figure: Give the user an option to change the locale. </dd>
+![Give the user an option to change the locale.](LinkAuditor.jpg)

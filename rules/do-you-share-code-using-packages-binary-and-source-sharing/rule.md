@@ -11,6 +11,7 @@ authors:
 - id: 46
   title: Danijel Malik
 related: []
+redirects: []
 
 ---
 
@@ -59,11 +60,9 @@ Sharing source or binaries via packages created using VSTS Team Build
 Good example
 :::
 
-<dl class="image">&lt;dt&gt;
-      <img src="package-management-site.png" alt="package-management-site.png">
-   &lt;/dt&gt;<dd>Figure: Start from 
-      <a href="https://marketplace.visualstudio.com/items?itemName=ms.feed" target="_blank">https://marketplace.visualstudio.com/items?itemName=ms.feed </a>
-      <br></dd></dl>
+
+![Start from](package-management-site.png)
+https://marketplace.visualstudio.com/items?itemName=ms.feed
 VSTS is about to add benefits like Component Governance, which allows policies to be set over who can and cannot use the source or binaries E.g. Licensing (MIT might be ok and GPL not ok), security - in development
 
 

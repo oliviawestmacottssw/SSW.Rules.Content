@@ -13,6 +13,7 @@ related:
 - notifications---do-you-know-how-to-see-whatâ€™s-going-on-in-your-project
 - sem---do-you-use-microsoft-advertising-formerly-known-as-bing-ads
 - branding---do-you-know-when-to-use-an-overlay-on-images
+redirects: []
 
 ---
 
@@ -63,8 +64,8 @@ The main benefits of this strategy are:
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="bunny.jpg" alt="bunny.jpg" style="margin:5px;width:808px;">
-   </dl> 
+
+![](bunny.jpg) 
 
 
 ::: good

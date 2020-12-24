@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -19,6 +20,8 @@ In Visual Studio, there is inbuilt support for Cyclomatic Complexity analysis.
 <!--endintro-->
 
 1. Go to Developer > Code Metrics > Generate for Solution
-<dl class="image">&lt;dt&gt;<img src="CodeMetrics.gif" alt="CodeMetrics.gif">&lt;/dt&gt;<dd>Figure: Cyclomatic Complexity analysis tool</dd></dl>
+
+![Cyclomatic Complexity analysis tool](CodeMetrics.gif)
 2. Look at the largest Cyclomatic Complexity number and refactor.
-<dl class="image">&lt;dt&gt;<img src="CyclomaticAnalysis.gif" alt="CyclomaticAnalysis.gif">&lt;/dt&gt;<dd>Figure: Results from Cyclomatic analysis these metrics give an indication on how complicated functions are</dd></dl>Tip: Maintainability index > 85 is good and < 65 is hard to maintain
+
+![Results from Cyclomatic analysis these metrics give an indication on how complicated functions areTip: Maintainability index > 85 is good and < 65 is hard to maintain](CyclomaticAnalysis.gif)

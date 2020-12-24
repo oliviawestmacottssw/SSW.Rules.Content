@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -19,6 +20,6 @@ People don't go to your Twitter profile as often as they visit your website. It'
 <!--endintro-->
 
 Visit     https://dev.twitter.com/web/embedded-timelines to view instructions on creating your embedded Twitter timeline.
-<dl class="image">&lt;dt&gt;<img src="sswtv-twitterbox.jpg" alt="sswtv-twitterbox.jpg">&lt;/dt&gt;<dd>Figure: SSW TV Twitter timeline on 
-      <a href="http://tv.ssw.com/" target="_blank">SSW TV website</a> sidebar</dd></dl>
+
+![SSW TV Twitter timeline onsidebar](sswtv-twitterbox.jpg)[SSW TV website](http://tv.ssw.com/)
 **Note:** Visit [Facebook's Page Plugin](https://developers.facebook.com/docs/plugins/page-plugin) to also integrate a Facebook Like Box to your website

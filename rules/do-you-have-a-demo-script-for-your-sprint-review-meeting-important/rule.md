@@ -9,6 +9,7 @@ authors:
 - id: 12
   title: Peter Gfader
 related: []
+redirects: []
 
 ---
 
@@ -24,4 +25,4 @@ During the Sprint Review Meeting you should demo all features (Sprint goals expr
 3. Give an overview of upcoming PBIs, so that everyone has an idea before you go into the Sprint Planning Meeting
 
 
-![](StoreDemoScriptInTFS.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Store the demo scripts on TFS</font>
+![Store the demo scripts on TFS](StoreDemoScriptInTFS.jpg)

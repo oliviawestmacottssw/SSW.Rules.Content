@@ -12,9 +12,16 @@ related:
 - do-you-have-hidden-tables-or-queries-upsizing-problem
 - do-you-use-underscores-preference-only
 - do-use-spaces-in-table-names
+redirects: []
 
 ---
 
 If Access linked table does not have an index to uniquely identify rows, the whole table will be read-only
-<font class="ms-rteCustom-YellowBorderBox"><a href="http&#58;//www.ssw.com.au/ssw/UpsizingPRO">Upsizing PRO</a> will check this rule </font>
+
+
+::: yellowBox
+[Upsizing PRO](http&#58;//www.ssw.com.au/ssw/UpsizingPRO) will check this rule
+:::
+
+
 <!--endintro-->

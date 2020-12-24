@@ -13,6 +13,7 @@ authors:
 - id: 73
   title: Kaique Biancatti
 related: []
+redirects: []
 
 ---
 
@@ -39,15 +40,12 @@ Assuming that Windows 10 is already installed, then get your SOE installed fast 
 4. Install and run a Chocolatey script to get most of the software
 5. Install all rest of the standard Software that does not support Chocolatey [SSW Only]   <br>
 6. In case you lose your laptop, it is a good idea to stick a business card to the bottom
-7. For branding reasons, stick your company sticker to the laptop <br>      <dl class="image">&lt;dt&gt;
-            <img alt="LoginScript.jpg" src="LoginScript.jpg" style="width:750px;height:381px;"> 
-         &lt;/dt&gt;<dd>Figure: SSWLoginScript.bat<br></dd></dl><dl class="image">&lt;dt&gt;
-            <img alt="ChocolateyScript.jpg" src="ChocolateyScript.jpg" style="width:750px;height:397px;">
-         &lt;/dt&gt;<dd>Figure: SSWPackages.ps1 which runs Chocolatey command to install SOE software</dd></dl><dl class="image">&lt;dt&gt;
-            <img alt="NonChocolateySoftware.jpg" src="NonChocolateyApp.jpg" style="width:750px;height:198px;">
-         &lt;/dt&gt;<dd>Figure: SOE Software that is not supported by Chocolatey</dd></dl><dl class="image">&lt;dt&gt;
-            <img alt="SSWLaptopBranding.jpg" src="SSWLaptopBranding.jpg">
-         &lt;/dt&gt;<dd>Figure: Company branding on laptop<br></dd></dl>
+7. For branding reasons, stick your company sticker to the laptop <br>      
+![SSWLoginScript.bat](LoginScript.jpg)
+
+![SSWPackages.ps1 which runs Chocolatey command to install SOE software](ChocolateyScript.jpg)
+![SOE Software that is not supported by Chocolatey](NonChocolateyApp.jpg)
+![Company branding on laptop](SSWLaptopBranding.jpg)
 8. If you are preparing the machine for someone else or migrating an old PC, you could send an email based on the template below. Don't forget to change the names where necessary:<br>      
 
 ::: greybox

@@ -9,6 +9,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -16,4 +17,6 @@ Events such as training courses, user groups, tech breakfasts and boot camps can
 <!--endintro-->
 
 You should make sure you have some upcoming events in each main area that you hope to get work from, preferably that showcase your core competencies well.
-<dl class="goodImage">&lt;dt&gt;<img src="upcoming-events.png" alt="">&lt;/dt&gt;<dd>Figure: Good Example – Upcoming events in the main areas you want to get consulting work</dd></dl>
+
+[[goodExample]]
+| ![Upcoming events in the main areas you want to get consulting work](upcoming-events.png)

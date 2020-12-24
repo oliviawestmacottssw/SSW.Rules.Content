@@ -15,6 +15,7 @@ authors:
 - id: 6
   title: Tristan Kurniawan
 related: []
+redirects: []
 
 ---
 
@@ -38,10 +39,12 @@ Developer checklist:* Check workspaces often to see what you don't need
 TFS Master Checklist:* Delete all workspaces that have not been edited in 6 months
 * Warn developers for workspaces that have not been accessed in 3 months
 
-<dl>&lt;dt&gt;<img alt="Longtime Workspaces" src="LongtimeWorkspaces.jpg">&lt;/dt&gt;
-<dd>Figure: Bad example - Rebecca has a workspace that has not been accessed in a while </dd></dl><dl>&lt;dt&gt;<img alt="Current Workspaces" src="CurrentWorkspaces.jpg">&lt;/dt&gt;
-<dd>Figure: Good example - All of Julian's workspaces are current </dd></dl>
-1. Open VS 2010, File | Source Control | WorkSpaces, click the "Show remote workspaces": <dl>&lt;dt&gt;<img alt="Manage Workspaces " src="ManageWorkspaces.jpg">&lt;/dt&gt;
-<dd>Figure: Manage Workspaces </dd></dl>
+
+[[badExample]]
+| ![Rebecca has a workspace that has not been accessed in a while](LongtimeWorkspaces.jpg)
+[[goodExample]]
+| ![All of Julian's workspaces are current](CurrentWorkspaces.jpg)
+1. Open VS 2010, File | Source Control | WorkSpaces, click the "Show remote workspaces": 
+![Manage Workspaces ](ManageWorkspaces.jpg)
 2. Keep press "Ctrl", select the workspaces which haven't been used for a long time.
 3. Click "Remove" button.

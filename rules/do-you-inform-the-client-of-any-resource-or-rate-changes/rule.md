@@ -11,6 +11,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -21,27 +22,18 @@ An important source of comfort for any client is a feeling that they are in cont
 Therefore, if you change the developers on a project or if one or more of their rates change, it is                      very important to inform the client, before sending them the next invoice, where they will find out                      and could think that you're being shifty.
 
 We have standard templates for these situations in our intranet shared documents. You can see an example here:
-<dl class="good">                &lt;dt&gt;
-                    <p>
-                        Hi Marlon, 
-                    </p>
-                    <p>As per our conversation, I wanted&#160;to let you know that Eric was promoted to Solution Architect earlier this year. We held back his rate change until the end of this phase of the project, but we will be implementing his new rate as of 9/1/2019. 
-                    </p>
-                    <p>
-                        His new standard rate is $285/hour+GST. Don't forget SSW offers a competitive rate to those clients pre-paying time in blocks of 40 hours per Project Team Member.&#160;<br></p>
-                    <p>
-                        I trust you've been happy with Eric's contribution to your project so far. We look forward to working with you soon. 
-                    </p>
-                    <p>
-                        Let me know if you have any questions; always happy to talk. 
-                    </p>
-                    <p>
-                        Regards, <br>
-                        Ulysses Maclaren <br>
-                        www.ssw.com.au
-                    </p>
-                    &lt;/dt&gt;
-                    <dd>
-                        Figure&#58; Good example of an email informing the client about a rate change
-                    </dd>
-                </dl>
+
+Hi Marlon,
+
+Regards, 
+                         Ulysses Maclaren 
+                         www.ssw.com.au
+
+Let me know if you have any questions; always happy to talk.
+
+I trust you've been happy with Eric's contribution to your project so far. We look forward to working with you soon.
+
+His new standard rate is $285/hour+GST. Don't forget SSW offers a competitive rate to those clients pre-paying time in blocks of 40 hours per Project Team Member.
+
+As per our conversation, I wanted to let you know that Eric was promoted to Solution Architect earlier this year. We held back his rate change until the end of this phase of the project, but we will be implementing his new rate as of 9/1/2019.
+Figure: Good example of an email informing the client about a rate change

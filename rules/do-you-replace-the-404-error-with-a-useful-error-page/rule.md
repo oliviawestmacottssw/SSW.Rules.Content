@@ -11,6 +11,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -34,7 +35,7 @@ Figure: This is the default code on web.config
 
 
 ::: good
-Figure: this is the current code in the web.config of the SSW Site 
+Figure: this is the current code in the web.config of the SSW Site
 :::
 
 
@@ -46,10 +47,14 @@ This error information is useful for the developer to do debugging. However, it 
 
 
 ::: good
-Figure: Turning on "customErrors" protects sensitive information against Hacker 
+Figure: Turning on "customErrors" protects sensitive information against Hacker
 :::
 
-<dl class="badImage">&lt;dt&gt; <img src="404-bad.jpg" alt="404-bad.jpg"> &lt;/dt&gt;<dd>Figure: Bad example - Unhandled error</dd></dl><dl class="goodImage">&lt;dt&gt; <img src="404-good.jpg" alt="404-good.jpg"> &lt;/dt&gt;<dd>Figure: Good example - Custom error page </dd></dl>
+
+[[badExample]]
+| ![Unhandled error](404-bad.jpg)
+[[goodExample]]
+| ![Custom error page](404-good.jpg)
 ### Related rule
 
 * [Do you avoid changing the URL on a 404 error?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=0c5ba2ba-eb40-4b9e-afdc-c2bccd589b54)

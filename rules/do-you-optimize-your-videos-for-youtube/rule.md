@@ -18,6 +18,7 @@ related:
 - do-you-add-end-screen-to-your-youtube-videos
 - do-you-add-time-links-on-your-youtube-videos
 - do-you-follow-image-standard-sizes-on-social-media
+redirects: []
 
 ---
 
@@ -32,14 +33,17 @@ It is not very difficult, but you should still follow some rules:
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="description_bad.png" alt="" style="margin:5px;width:808px;"></dl>
+
+![](description_bad.png)
 
 ::: bad
 Bad example: Short descriptions are not SEO-optimized.
 :::
 
-&lt;dt&gt;
-&lt;/dt&gt;<dl class="ssw15-rteElement-ImageArea"><img src="description_good.png" alt="" style="margin:5px;width:808px;"><br></dl>
+
+
+![](description_good.png)
+
 
 ::: good
 Good example: treat your video description as a blog post and give info but keep the details for your video! 

@@ -12,6 +12,7 @@ related:
 - do-you-know-how-to-test-which-pain-points-are-relevant-to-your-prospect
 - do-you-know-how-to-use-a-perfect-prospectâ€™s-pain-points-in-your-online-marketing
 - do-you-know-why-you-need-to-understand-your-perfect-prospects-pain-points
+redirects: []
 
 ---
 
@@ -23,7 +24,9 @@ Use the template below to brainstorm with your team or your client:
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="Pain Point Pinpointer.png" alt="Pain Point Pinpointer.png" style="margin:5px;width:808px;"><br></dl>
+
+![](Pain Point Pinpointer.png)
+
 You have a few some ways of doing this, you can: 
 
 

@@ -11,22 +11,28 @@ authors:
 - id: 9
   title: William Yin
 related: []
+redirects: []
 
 ---
 
 Instead of displaying a direct " **Access Denied** " warning info, you can allow end users to send an " **Access Request** ".
-<dl class="ssw15-rteElement-ImageArea"><img alt="PermissionRequest.jpg" src="PermissionRequest.jpg" style="margin:5px;width:650px;"></dl> **Figure: Joanna is requesting access to SharePoint site** 
+
+![Joanna is requesting access to SharePoint site](PermissionRequest.jpg)
 
 <!--endintro-->
 
 The "request manager" will receive an email:
-<dl class="ssw15-rteElement-ImageArea"><img alt="RequestNotificationEmail.png" src="637cf8_RequestNotificationEmail.png" style="margin:5px;"></dl> **Figure: Request Notification Email Sample** <dl class="ssw15-rteElement-ImageArea">The link in the email will navigate administrator to the  <strong>Pending Requests</strong> list:</dl><dl class="ssw15-rteElement-ImageArea"><img alt="LinkToPendingRequestsList.png" src="LinkToPendingRequestsList.png" style="margin:5px;width:650px;"></dl> **Figure: Pending Requests List** 
+
+![Request Notification Email Sample The link in the email will navigate administrator to thelist: Pending Requests](637cf8_RequestNotificationEmail.png)
+![Pending Requests List](LinkToPendingRequestsList.png)
 After reading the request infomation, the administrator can "Approve" or "Decline" the request, or he can start a conversation with the request user on the  **Pending Requests** list directly to inquire more information:
-<dl class="ssw15-rteElement-ImageArea"><img alt="StartAConversatioinOnPendingList.png" src="StartAConversatioinOnPendingList.png" style="margin:5px;width:650px;"></dl> **Figure: possible actions for requests (Approve, Decline or start a conversation with the request user)** 
+
+![possible actions for requests](StartAConversatioinOnPendingList.png)(Approve, Decline or start a conversation with the request user)** 
 
 
 To setup permission request for a SharePoint site collection, go to " **Site Settings (Gear Wheel icon)** |  **Site Permissions** ":
-<dl class="ssw15-rteElement-ImageArea"><img alt="SetupPermissionRequest.png" src="SetupPermissionRequest.png" style="margin:5px;width:650px;"></dl> **Figure: Open "Access Request" setting** 
+
+![Open "Access Request" setting](SetupPermissionRequest.png)
 
 
 **Limition:** 

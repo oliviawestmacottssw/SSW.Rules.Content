@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -31,12 +32,16 @@ In Visual Studio:
 
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="NUnitInVStudio.jpg" alt="NUnitInVStudio.jpg">&lt;/dt&gt;<dd>Figure: Bad Example - NUnit In Visual Studio</dd></dl>
+
+[[badExample]]
+| ![NUnit In Visual Studio](NUnitInVStudio.jpg)
 ### Option 2: Test Driven .net
 
 
 TestDriven.net has better NUnit integration – from both code and Solution Explorer windows.
-<dl class="image">&lt;dt&gt;<img src="UseTestDriven.jpg" alt="UseTestDriven.jpg">&lt;/dt&gt;<dd>Figure: Better way - Use TestDriven.Net - it has a 'Run Test(s)' command for a single test (above) or...</dd></dl><dl class="image">&lt;dt&gt;<img src="GUIBringUpAction.jpg" alt="GUIBringUpAction.jpg">&lt;/dt&gt;<dd>Figure: ...you can right-click on a project and select 'Test With > NUnit' to bring up the GUI. It is certainly more convenient</dd></dl>
+
+![Better way - Use TestDriven.Net - it has a 'Run Test](UseTestDriven.jpg)(s)' command for a single test (above) or...
+![...you can right-click on a project and select 'Test With > NUnit' to bring up the GUI. It is certainly more convenient](GUIBringUpAction.jpg)
 To run unit testing: Tools > NUnit GUI to launch NUnit and run the tests.
 
 ### Option 3: Other Tools

@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -39,7 +40,8 @@ Say you are talking to a customer having problems with a product e.g. Upsizing P
 Customers normally appreciate this sentiment. You need to remember that prospects don't always know exactly what they want or need and that's exactly why they've gone to the experts - YOU.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="fries-mcdonalds-whitebg.gif" alt="fries-mcdonalds-whitebg.gif">&lt;/dt&gt;</dl> #2 Consultants should always be visible when they spot an upsell/cross-sell opportunity
+
+![](fries-mcdonalds-whitebg.gif) #2 Consultants should always be visible when they spot an upsell/cross-sell opportunity
 When an Account Manager sells a solution to a customer, they are generally not trusted and have a bunch of competition.
 
 When a      **developer sells** the same solution to a customer they are generally trusted and have no competition - It is easier for a dev to upsell/cross-sell.
@@ -68,7 +70,7 @@ Some developers see lots of opportunities for upselling, and once they get a pos
 
 
 ::: greybox
-**Scenario:** You overhear the client talking about implementing Azure AD. You do nothing and continue with your work.
+ **Scenario:** You overhear the client talking about implementing Azure AD. You do nothing and continue with your work.
 :::
 
 
@@ -82,7 +84,7 @@ Figure: Bad example - of upselling
 
 
 ::: greybox
-**Scenario:** You are having an initial meeting with a client about developing a new in-house application. During this meeting, they mention a few additional projects to be completed. These include implementing syncing between their on-premises AD with Azure AD. You advise them that you have some SysAdmins that could assist in this work, and ask if it is ok for your account manager to call them.
+ **Scenario:** You are having an initial meeting with a client about developing a new in-house application. During this meeting, they mention a few additional projects to be completed. These include implementing syncing between their on-premises AD with Azure AD. You advise them that you have some SysAdmins that could assist in this work, and ask if it is ok for your account manager to call them.
 :::
 
 

@@ -7,6 +7,7 @@ uri: do-you-use-the-concept-of-drafts
 created: 2014-12-01T01:08:48.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

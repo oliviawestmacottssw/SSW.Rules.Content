@@ -11,6 +11,7 @@ authors:
 - id: 60
   title: Anthony Nguyen
 related: []
+redirects: []
 
 ---
 
@@ -18,7 +19,10 @@ When you embed a YouTube video it will increase your page size from 500kbs to 1.
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt; <img src="video-embed-load-time.png" alt="video-embed-load-time.png"> &lt;/dt&gt;<dd>Figure: A side by side comparison – everyone wants less requests and a smaller page size</dd></dl><dl class="badImage">&lt;dt&gt;<img src="video-embed-bad.png" alt="video-embed-bad.png"> &lt;/dt&gt; <dd>Figure: Bad example - Don’t add embed code directly from YouTube. For more details <a href="https://www.labnol.org/internet/light-youtube-embeds/27941/">read "A Better Method for Embedding YouTube Videos on your Website" </a></dd></dl>
+
+![A side by side comparison – everyone wants less requests and a smaller page size](video-embed-load-time.png)
+[[badExample]]
+| ![Don’t add embed code directly from YouTube. For more details](video-embed-bad.png)[read "A Better Method for Embedding YouTube Videos on your Website"](https://www.labnol.org/internet/light-youtube-embeds/27941/)
 `youtube: https://www.youtube.com/embed/eu0qhzevEXQ`
 
 

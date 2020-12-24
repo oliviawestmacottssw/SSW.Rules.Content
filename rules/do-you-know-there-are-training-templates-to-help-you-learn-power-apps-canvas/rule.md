@@ -9,6 +9,7 @@ authors:
 - id: 32
   title: Mehmet Ozdemir
 related: []
+redirects: []
 
 ---
 
@@ -17,4 +18,5 @@ If you're new to Power Apps and would like to get up and running quickly there t
 For Office specific integration there is also the  **Power Apps Training for Office** . Both these templates are an excellent starting point for anyone wanting to get into Canvas apps; strongly recommended for citizen and pro makers alike.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="power-apps-training.png" alt="power-apps-training.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: Power Apps Training and Power Apps Training for Office <br></dd></dl>
+
+![Power Apps Training and Power Apps Training for Office](power-apps-training.png)

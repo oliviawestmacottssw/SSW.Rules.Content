@@ -15,6 +15,7 @@ authors:
 - id: 69
   title: Jean Thirion
 related: []
+redirects: []
 
 ---
 
@@ -38,4 +39,6 @@ There are also several well-used templates that incorporate Angular and server-s
 While these starters often include advanced functionality, we prefer to implement pure Angular CLI projects where possible because Angular updates frequently.. and when you are using someone else's template that incorporates Angular you are left with the options of waiting for them to update their template to the latest version of Angular, or working out how to do it yourself. This can often leave you with large amounts of work or be being several months behind the latest versions.
 
 To learn how to build  **enterprise Angular applications** check out [FireBootCamp](http://firebootcamp.com/angular2)
-<dl class="goodImage">&lt;dt&gt; <img alt="create-angular-good.png" src="create-angular-good.png"> &lt;/dt&gt;<dd>Figure: Good Example: The Angular CLI will create you a new Angular project with a single command, and that project will be set up with production build, unit testing, and end-to-end testing all configured. If you have very specific build requirements, the CLI also supports custom web pack builds. <br></dd></dl>
+
+[[goodExample]]
+| ![The Angular CLI will create you a new Angular project with a single command, and that project will be set up with production build, unit testing, and end-to-end testing all configured. If you have very specific build requirements, the CLI also supports custom web pack builds.](create-angular-good.png)

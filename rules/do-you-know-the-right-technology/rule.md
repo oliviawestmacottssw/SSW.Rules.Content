@@ -11,15 +11,16 @@ authors:
 - id: 3
   title: Eric Phan
 related: []
+redirects: []
 
 ---
 
 Use  **.NET MVC** over  **ASP.NET Web Forms** .
-<dl class="bad"><p class="ssw15-rteElement-CodeArea">&lt;asp&#58;HyperLink
-    ID=&quot;HyperLink1&quot;
-    runat=&quot;Server&quot;
-    NavigateUrl=&quot;http&#58;//www.example.com&quot; CssClass=&quot;example&quot;
-    Text=&quot;Hello World&quot;/&gt;</p><dd>Figure&#58; Bad example - Using Web Forms</dd></dl><dl class="good"><p class="ssw15-rteElement-CodeArea">&lt;a href=&quot;http&#58;//www.example.com&quot; class=&quot;example&quot; id=&quot;Example1_HyperLink1&quot;&gt;Hello World&lt;/a&gt;</p><dd>Figure&#58; Good example - Using MVC 5</dd></dl>
+
+&lt;asp:HyperLink     ID="HyperLink1"     runat="Server"     NavigateUrl="http://www.example.com" CssClass="example"     Text="Hello World"/&gt;
+Figure: Bad example - Using Web Forms
+&lt;a href="http://www.example.com" class="example" id="Example1\_HyperLink1"&gt;Hello World&lt;/a&gt;
+Figure: Good example - Using MVC 5
 Read the Top 5 reasons why you should never use Web Forms again:
 
 <!--endintro-->

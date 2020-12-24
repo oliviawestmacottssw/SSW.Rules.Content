@@ -11,17 +11,17 @@ authors:
 - id: 24
   title: Adam Stephensen
 related: []
+redirects: []
 
 ---
 
 When developing software, we implement a [dependency injection centric architecture](/do-you-use-a-dependency-injection-centric-architecture).
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt; 
-      <img class="ms-rteCustom-ImageArea" alt="Dependency Injection based architecture" src="dependency-injection-structure.png"> 
-   &lt;/dt&gt;<dd>Figure: A Dependency Injection based architecture gives us great maintainability</dd></dl><dl class="goodImage">&lt;dt&gt; 
-      <img class="ms-rteCustom-ImageArea" alt="solutionlayout.png" src="solution-structure.png"> 
-   &lt;/dt&gt;<dd>Figure: Good Example - The Solution and Projects are named consistently and the Solution Folders organize the projects so that they follow the Onion Architecture</dd></dl>
+
+![A Dependency Injection based architecture gives us great maintainability](dependency-injection-structure.png)
+[[goodExample]]
+| ![The Solution and Projects are named consistently and the Solution Folders organize the projects so that they follow the Onion Architecture](solution-structure.png)
 Dependencies and the application core are clearly separated as per the     [Onion Architecture](/do-you-use-a-dependency-injection-centric-architecture).
 
 In the above example you can clearly see:

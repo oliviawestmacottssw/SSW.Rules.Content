@@ -9,6 +9,7 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects: []
 
 ---
 
@@ -20,7 +21,7 @@ The HTML list tags &lt;ul&gt; and &lt;ol&gt; should be used for unordered and or
 
 
 ::: greybox
- &lt;ul&gt; A normal text &lt;/ul&gt; 
+&lt;ul&gt; A normal text &lt;/ul&gt;
 :::
 
 Figure: Bad Example - Using the &lt;ul&gt; for a text

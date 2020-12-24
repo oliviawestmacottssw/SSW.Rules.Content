@@ -9,10 +9,15 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 Developers should \*never\* use the "General" Project.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="using-general-timesheets-bad.png" alt="using-general-timesheets-bad.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: Bad Example - "General" category</dd></dl><dl class="goodImage">   &lt;dt&gt;<img src="using-general-timesheets-bad.png" alt="do-not-use-general-timesheets-good.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: Good Example - Specific category </dd></dl>
+
+[[badExample]]
+| !["General" category](using-general-timesheets-bad.png)
+[[goodExample]]
+| ![Specific category](using-general-timesheets-bad.png)

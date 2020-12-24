@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -19,6 +20,5 @@ Car manufacturers should get rid of the cigarette lighter, smokers use the usual
 
 
 Note: Don't get the old 400mA adaptors (which supply enough power for the majority of USB devices) instead, get a more powerful one for items such as iPads
-<dl class="image">                    &lt;dt&gt;<img alt="Car USB Adaptor" src="USBCar.jpg" style="width:265px;height:265px;">&lt;/dt&gt;
-                    <dd>Figure: Have a USB adaptor in your car</dd>
-                </dl>
+
+![Have a USB adaptor in your car](USBCar.jpg)

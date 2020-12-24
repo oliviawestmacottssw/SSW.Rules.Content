@@ -12,6 +12,7 @@ authors:
   title: Damian Brady
 related:
 - do-you-look-at-the-architecture-of-net-projects
+redirects: []
 
 ---
 

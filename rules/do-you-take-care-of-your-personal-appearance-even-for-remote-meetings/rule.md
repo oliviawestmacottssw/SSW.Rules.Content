@@ -13,6 +13,7 @@ authors:
 - id: 71
   title: Steven Andrews
 related: []
+redirects: []
 
 ---
 
@@ -22,8 +23,6 @@ Also, you will show professionalism by not wearing pyjamas and attending meeting
 <!--endintro-->
 
 Try to start your day afresh, as you would usually do to go to your workplace. Follow your usual morning routine: shower, dress, eat breakfast, and then start your work routine.
-<dl class="badImage">&lt;dt&gt;
-      <img src="dressing-meeting-bad.jpg" alt="dressing-meeting-bad.jpg">
-   &lt;/dt&gt;<dd>Bad example - Figure: Not dressing accordingly or not having a work station from home can drastically reduce your concentration</dd></dl><dl class="goodImage">&lt;dt&gt;
-         <img src="dressing-meeting-good.jpg" alt="dressing-meeting-good.jpg">
-      &lt;/dt&gt;<dd>Good example - Figure: Nice work station and good personal presentation whilst working from home<span style="color:#444444;"></span><span style="color:#444444;"></span></dd></dl>
+
+![Not dressing accordingly or not having a work station from home can drastically reduce your concentration](dressing-meeting-bad.jpg)Bad example -
+![Nice work station and good personal presentation whilst working from home](dressing-meeting-good.jpg)Good example -

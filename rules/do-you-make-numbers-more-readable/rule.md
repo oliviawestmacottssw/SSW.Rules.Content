@@ -17,6 +17,7 @@ related:
 - tiny-do-you-use-active-phrases-no-zombies-please
 - do-you-make-awesome-documentation
 - do-you-use-words-instead-of-digits-for-low-numbers
+redirects: []
 
 ---
 

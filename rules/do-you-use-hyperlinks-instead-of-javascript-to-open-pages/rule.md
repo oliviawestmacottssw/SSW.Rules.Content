@@ -12,6 +12,7 @@ related:
 - do-you-use-bundling-and/or-amd
 - do-you-treat-javascript-like-a-real-language
 - do-you-know-which-version-of-jquery-to-use
+redirects: []
 
 ---
 

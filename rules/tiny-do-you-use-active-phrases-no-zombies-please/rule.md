@@ -16,6 +16,7 @@ related:
 - do-you-include-version-numbers-in-your-file
 - do-you-refer-to-the-reader-and-author-consistently-throughout-your-document
 - do-you-make-awesome-documentation
+redirects: []
 
 ---
 

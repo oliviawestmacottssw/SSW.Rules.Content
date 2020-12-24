@@ -11,6 +11,7 @@ authors:
 - id: 2
   title: Cameron Shaw
 related: []
+redirects: []
 
 ---
 
@@ -21,7 +22,9 @@ You should always try and reply to emails within a timely period, but this is no
 Sometimes people see an email 6 months old and just delete it because it's "too old" or refuse to reply because "the customer will think we're a joke taking this long to do something!" This is a great way to lose business, no matter how long it takes to do some tasks, it's always better to get it done. Of course, there are tasks that appear to be irrelevant with the passage of time, so reply and state that you don’t believe it is needed now.
 
 Example: A product suggestion might take 12 months to get around to, but when it's done the customer should be informed and get a link to the new version - it's possible that their need still exists, and they'll know that their ideas and suggestions are not ignored.
-<dl class="badImage">&lt;dt&gt;<img src="delete-outlook-message-button.png" alt="delete-outlook-message-button.png">&lt;/dt&gt;<dd>Figure: Bad example - Hitting the “Delete” button without replying</dd></dl>
+
+[[badExample]]
+| ![Hitting the “Delete” button without replying](delete-outlook-message-button.png)
 
 ::: greybox
 Hi Bob,

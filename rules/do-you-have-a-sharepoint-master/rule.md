@@ -11,6 +11,7 @@ authors:
 - id: 15
   title: Mark Liu
 related: []
+redirects: []
 
 ---
 
@@ -24,7 +25,6 @@ The SharePoint master should be your companies SharePoint expert. All major chan
 
 
 
-![](../../assets/JohnLiu.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Do you have a SharePoint master</font>
+![Do you have a SharePoint master](../../assets/JohnLiu.jpg)
 
 <!--endintro-->

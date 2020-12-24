@@ -9,6 +9,7 @@ authors:
 - id: 24
   title: Adam Stephensen
 related: []
+redirects: []
 
 ---
 
@@ -17,10 +18,9 @@ Publishing from Visual Studio is a convenient way to deploy a web application, b
 <!--endintro-->
 
 A better way to deploy is by using a defined Build in TFS.
-<dl class="badImage">&lt;dt&gt;
-      <img src="test-publish.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Bad Example – Using Publish to deploy </dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="queuing-new-build.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Good Example – Queuing a new build to deploy your application</dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="continuous-integration.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Best example – Use continuous integration to trigger your Continuous Deployment build</dd></dl>
+
+[[badExample]]
+| ![Using Publish to deploy](test-publish.jpg)
+[[goodExample]]
+| ![Queuing a new build to deploy your application](queuing-new-build.jpg)
+![Best example – Use continuous integration to trigger your Continuous Deployment build](continuous-integration.jpg)

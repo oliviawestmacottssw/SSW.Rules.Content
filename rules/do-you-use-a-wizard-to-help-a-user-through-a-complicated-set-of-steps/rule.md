@@ -7,6 +7,7 @@ uri: do-you-use-a-wizard-to-help-a-user-through-a-complicated-set-of-steps
 created: 2014-12-01T03:43:47.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -24,19 +25,29 @@ To ensure a consistent user experience, make sure to include these visual elemen
 4. **Company logo.** This helps promote branding, however it should be<br>                        inconspicuous and should not move visual focus away from the body of your application.<br>
 
 
-<dl class="goodImage">&lt;dt&gt;
-                        <img border="0" src="../../assets/GoodInformationFlow.gif" alt="SSW Link Auditor - Scan Target" style="margin:5px;width:600px;">&lt;/dt&gt;<dd>Figure: Good Example - SSW Link Auditor Wizard's
-                                better flow of information</dd></dl>
+
+[[goodExample]]
+| ![SSW Link Auditor Wizard's                                 better flow of information](../../assets/GoodInformationFlow.gif)
 Technical Note: To ensure visual consistency across applications, create a base                     form then set the properties in that form (application icon, menu structure, button                     names etc.) Add any logic in for switching pages with the "Next" and "Back"                     buttons. Then for all projects, add a reference to that one and inherit the customized                     form.
 
 In the forms in your application, instead of inheriting from  **System.Windows.Forms.Form** (the Default), inherit from your new base form class.
-<dl class="code">&lt;dt&gt;<pre>public class MyForm : System.Windows.Form.Form</pre>&lt;/dt&gt;<dd>
-                        Figure: Default code in a Windows Form</dd></dl><dl class="code">&lt;dt&gt;<pre>public class MyForm : Company.Framework.BaseCustomForm</pre>&lt;/dt&gt;<dd>
-                        Figure: Change the form so that it inherits from your new base form class</dd></dl>
+
+
+```
+public class MyForm : System.Windows.Form.Form
+```
+
+Figure: Default code in a Windows Form
+
+```
+public class MyForm : Company.Framework.BaseCustomForm
+```
+
+Figure: Change the form so that it inherits from your new base form class
 The "finish" button denotes the end of the Wizard; by clicking on it,                     the user closes the Wizard.
 
 For longer processes, the Wizard should implement "Start" and "Skip"                     features to guide the user through from start to finish.
-<dl class="goodImage">&lt;dt&gt;
-                        <img border="0" src="../../assets/StartProcess.gif" alt="SSW Code Auditor - Start Process" style="margin:5px;width:550px;">&lt;/dt&gt;<dd>Figure: Good Example - SSW Code Auditor Wizard featuring
-                                "Start" and "Skip" options</dd></dl>
+
+[[goodExample]]
+| ![SSW Code Auditor Wizard featuring                                 "Start" and "Skip" options](../../assets/StartProcess.gif)
 Here's some more information on the [Microsoft Standard for Wizard Welcome and Completion Page art](http://www.ssw.com.au/ssw/Redirect/Microsoft/wizard.htm) and [Interior Page art](http://www.ssw.com.au/ssw/Redirect/Microsoft/wizard2.htm).

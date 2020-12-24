@@ -11,6 +11,7 @@ authors:
 - id: 14
   title: Martin Hinshelwood
 related: []
+redirects: []
 
 ---
 
@@ -23,10 +24,7 @@ We are always disappointed when adding version information to a Word document. W
 **Follow the guide here** :     http://www.bryansgeekspeak.com/2009/03/moss-2007-show-sharepoint-version.html
 
 **Note:** This also works in SharePoint 2010 and Office 2010.
-<dl class="goodImage">   &lt;dt&gt;
-      <img src="VersionInWord.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Good example, you see the formatted SharePoint version number </dd></dl><dl class="badImage">&lt;dt&gt;
-      <img src="BadVersioning.png" alt="" style="width:90%;">
-   &lt;/dt&gt;<dd>Bad Example</dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="GoodVersioning.png" alt="" style="width:90%;">
-   &lt;/dt&gt;<dd>Good Example</dd></dl>
+
+![Good example, you see the formatted SharePoint version number](VersionInWord.jpg)
+![](BadVersioning.png)Bad Example
+![](GoodVersioning.png)Good Example

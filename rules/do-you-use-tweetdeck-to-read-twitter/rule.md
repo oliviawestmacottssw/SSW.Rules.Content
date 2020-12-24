@@ -13,6 +13,7 @@ authors:
 - id: 12
   title: Peter Gfader
 related: []
+redirects: []
 
 ---
 
@@ -32,5 +33,12 @@ If you are looking to get the most out of your Twitter experience, you will need
 
 
 ![](twitter-tweetdeck.png)
-<font class="ms-rteCustom-FigureGood">Good Example : Using TweetDeck gives you a dashboard to follow topics you are interested in<br></font>
+
+
+::: good
+Good Example : Using TweetDeck gives you a dashboard to follow topics you are interested in
+
+:::
+
+
 You can download TweetDeck here: http://www.tweetdeck.com/

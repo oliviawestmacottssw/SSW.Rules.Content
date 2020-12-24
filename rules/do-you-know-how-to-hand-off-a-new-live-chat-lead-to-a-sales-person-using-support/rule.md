@@ -9,11 +9,14 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
 If you’re chatting with a client on Zendesk chat, and you realize you’re going to need to involve someone else, such as a salesperson, you can create a support ticket and assign it either to a sales group, or else a specific person.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="zendesk-handoff-1-min.jpg" alt="zendesk-handoff-1-min.jpg">&lt;/dt&gt;<dd>Figure: Chatter can create a ticket directly from the chat window</dd></dl><dl class="image">&lt;dt&gt;<img src="zendesk-handoff-2-min.jpg" alt="zendesk-handoff-2-min.jpg">&lt;/dt&gt;<dd>Figure: ticket is then created with chat history appended</dd></dl>
+
+![Chatter can create a ticket directly from the chat window](zendesk-handoff-1-min.jpg)
+![ticket is then created with chat history appended](zendesk-handoff-2-min.jpg)
 **Note:** You can also integrate with Dynamics 365 (AKA CRM) to pass over lead details from Zendesk straight to a Dynamics 365 lead.

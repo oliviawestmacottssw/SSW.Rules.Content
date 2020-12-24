@@ -9,6 +9,7 @@ authors:
 - id: 83
   title: Camilla Rosa Silva
 related: []
+redirects: []
 
 ---
 
@@ -31,7 +32,8 @@ Below are the best practices you should know:
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="ad-strength.png" alt="ad-strength.png">&lt;/dt&gt;<dd>Figure: Always check your Ad strength</dd></dl>
+
+![Always check your Ad strength](ad-strength.png)
 ### Additional resources
 
 Whilst this overview of Google Ads will provide you with enough detail to get a campaign started, there may be additional questions you need answered or information, and that's where these resources come in:

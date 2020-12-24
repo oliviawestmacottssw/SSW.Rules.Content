@@ -9,10 +9,16 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 If your page requires permission to be accessed it should provide a button for the user to request it.
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="no-request-permission.png" alt="no-request-permission.png">&lt;/dt&gt;<dd>Figure: Bad example -  You just don't have access<br></dd></dl><dl class="goodImage">&lt;dt&gt;<img src="request-permission.png" alt="request-permission.png">&lt;/dt&gt;<dd>Figure: Good example – Office 365 has a "Request Access" button</dd> <br></dl>
+
+[[badExample]]
+| ![You just don't have access](no-request-permission.png)
+
+[[goodExample]]
+| ![Office 365 has a "Request Access" button](request-permission.png)

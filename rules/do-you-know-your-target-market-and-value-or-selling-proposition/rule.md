@@ -11,6 +11,7 @@ authors:
 - id: 83
   title: Camilla Rosa Silva
 related: []
+redirects: []
 
 ---
 
@@ -88,6 +89,9 @@ The key to this, is not burying your message in buzzwords or meaningless slogans
 
 
 
-<dl class="badImage">&lt;dt&gt;<img src="nike.png" alt="nike.png" style="width:500px;">&lt;/dt&gt;<dd>Figure: Bad example: A Value Proposition is not a slogan! It must reflect the value of your business</dd></dl>
+
+[[badExample]]
+| ![A Value Proposition is not a slogan](nike.png)! It must reflect the value of your business
 Here is an example of a great Value Proposition advertised by Stripe on their website. Their target audience was developers. Stripe makes it clear that its web and mobile payment products are specifically made for developers and tech-savvy businesses. Its APIs and tools are comprehensive, state-of-the-art, and trustworthy for businesses that demand nothing less. This statement is also aided cleverly by the image of two cell phones, each highlighting a different, well-known Stripe customer.
-<dl class="goodImage">&lt;dt&gt;<img src="stripe.png" alt="stripe.png" style="width:500px;">&lt;/dt&gt;<dd>Figure: Good example of a great Value Proposition by Stripe, their Target Audience here is developers. They immediately know this is the service for them! <br></dd></dl>
+
+![Good example of a great Value Proposition by Stripe, their Target Audience here is developers. They immediately know this is the service for them](stripe.png)!

@@ -7,6 +7,7 @@ uri: do-you-always-get-your-rules-proof-read
 created: 2010-03-19T01:00:47.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

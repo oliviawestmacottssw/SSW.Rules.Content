@@ -11,6 +11,7 @@ authors:
 related:
 - do-you-avoid-parameter-queries-with-exists-keyword-and-comparison-operators-<>-or-=upsizing-problem
 - do-you-have-complex-queries-upsizing-problem
+redirects: []
 
 ---
 
@@ -31,21 +32,39 @@ You have to manually edit SQL definition in Microsoft Access (remove or replace 
 ```
 SELECT Orders.OrderID,
     "Order Subtotals".Subtotal, 
-     FORMAT (ShippedDate,'yyyy') AS Year 
+    <b>FORMAT</b>(ShippedDate,'yyyy') AS Year 
 FROM Orders 
 INNER JOIN "Order Subtotals" 
     ON (Orders.OrderID="Order Subtotals".OrderID);
 ```
 
-<font class="ms-rteCustom-FigureBad">Figure&#58; Bad example of Access query with FORMAT keyword</font>
+
+
+::: bad
+Figure: Bad example of Access query with FORMAT keyword
+:::
+
+
 
 ```
 SELECT Orders.OrderID,
     "Order Subtotals".Subtotal, 
-     YEAR (ShippedDate) AS [Year] 
+    <b>YEAR</b>(ShippedDate) AS [Year] 
 FROM Orders 
 INNER JOIN "Order Subtotals" 
     ON (Orders.OrderID="Order Subtotals".OrderID)
 ```
 
-<font class="ms-rteCustom-FigureGood">Figure&#58; Good example of SQL Server view with YEAR keyword <br></font><font class="ms-rteCustom-YellowBorderBox"><a href="http&#58;//www.ssw.com.au/ssw/UpsizingPRO">Upsizing PRO</a> will check this rule<br></font>
+
+
+::: good
+Figure: Good example of SQL Server view with YEAR keyword 
+
+:::
+
+
+
+::: yellowBox
+[Upsizing PRO](http&#58;//www.ssw.com.au/ssw/UpsizingPRO) will check this rule
+
+:::

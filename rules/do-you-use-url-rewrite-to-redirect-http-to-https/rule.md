@@ -9,6 +9,7 @@ authors:
 - id: 47
   title: Stanley Sidik
 related: []
+redirects: []
 
 ---
 
@@ -62,4 +63,5 @@ First you must download the IIS URL Rewrite module from Web Platform Component I
 
 
 
-<dt style="border:none;"><img alt="Designing border protection." src="IISURLRewrite.jpg" class="ms-rte-paste-setimagesize" style="margin:5px;padding:15px;border:1px solid #cccccc;width:750px;background:#eeeeee;"> <br>&lt;/dt&gt;<dd style="padding-left:20px;border:none;line-height:16px;background-attachment:initial;background-size:initial;background-origin:initial;background-clip:initial;background-position:initial;background-repeat:no-repeat;">Figure: HTTP to HTTPS redirect using IIS URL Rewrite module<br><br></dd>
+
+![HTTP to HTTPS redirect using IIS URL Rewrite module](IISURLRewrite.jpg)

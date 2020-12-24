@@ -9,22 +9,20 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
 Facebook recommendations are a great way to publicize your pages without blatant advertising.  
 <!--endintro-->
 
-![](Facebook_Recommend01.jpg) 
-<font class="ms-rteCustom-FigureNormal">Figure: A user clicks recommend. <br></font>
+![A user clicks recommend.](Facebook_Recommend01.jpg)
+** 
 
-![](Facebook_Recommend02.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: His friends can see this activity on the homepage (provided that the plugin is installed.) </font>
-
-
-![](Facebook_Recommend03.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: It appears on your Facebook page.</font>
+![His friends can see this activity on the homepage](Facebook_Recommend02.jpg)(provided that the plugin is installed.)** 
 
 
-![](Facebook_Recommend04.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Your friends also see it on your Facebook page.</font>
+![It appears on your Facebook page.](Facebook_Recommend03.jpg)
+
+
+![Your friends also see it on your Facebook page.](Facebook_Recommend04.jpg)

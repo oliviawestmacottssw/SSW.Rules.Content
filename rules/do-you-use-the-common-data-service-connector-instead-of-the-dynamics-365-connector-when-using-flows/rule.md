@@ -9,6 +9,7 @@ authors:
 - id: 32
   title: Mehmet Ozdemir
 related: []
+redirects: []
 
 ---
 
@@ -21,4 +22,6 @@ When creating a Flow that connects to CRM, Flow gives you the choice of:
 <!--endintro-->
 
 While it may seem like the obvious choice to pick Dynamics 365, but this would be a bad choice. The Dynamics 365 is deprecated as of April 2019. Use the Common Data Service connector, it supports more datatypes and broader trigger scenarios.
-<dl class="badImage">&lt;dt&gt;<img src="bad-connector-use.png" alt="bad-connector-use.png">&lt;/dt&gt;<dd>Bad Example: Using the deprecated Dynamics 365 connector</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="good-connector-use.png" alt="good-connector-use.png">&lt;/dt&gt;<dd>Good Example: Using the Common Data Service connector</dd></dl>
+
+![Using the deprecated Dynamics 365 connector](bad-connector-use.png)
+![Using the Common Data Service connector](good-connector-use.png)

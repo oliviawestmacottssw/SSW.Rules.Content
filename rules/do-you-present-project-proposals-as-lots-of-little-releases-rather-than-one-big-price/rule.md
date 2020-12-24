@@ -11,6 +11,7 @@ authors:
 - id: 4
   title: Ulysses Maclaren
 related: []
+redirects: []
 
 ---
 
@@ -19,6 +20,5 @@ When a prospective client gets a quote for a huge price it's like giving them a 
 <!--endintro-->
 
 This approach also allows you to side-step common delaying tactics of prospective clients by making it easier to get the project moving.
-<dl class="image">&lt;dt&gt;
-      <img alt="One big price is like a slap in the face" src="AccountManagement-FaceSlap.jpg"> 
-   &lt;/dt&gt;<dd> Figure: One big price is like a slap in the face </dd></dl>
+
+![One big price is like a slap in the face](AccountManagement-FaceSlap.jpg)

@@ -16,6 +16,7 @@ related:
 - twitter---do-you-know-the-best-practices-for-your-twitter-ads
 - do-you-follow-image-standard-sizes-on-social-media
 - do-you-know-how-to-weed-out-spammers
+redirects: []
 
 ---
 
@@ -24,4 +25,6 @@ When you do a major (or minor) upgrade to an application, you should let people 
 <!--endintro-->
 
 Whether your upgrade is to take advantage of a new feature, to fix a bug, or even just to keep yourself on the latest and greatest version, your followers might want to know why you upgraded. You should put a short announcement on Twitter, Facebook, and/or LinkedIn. Your followers may not know about the changes and the ones who are grateful are likely to retweet or like your post.
-<dl class="goodImage">&lt;dt&gt;<img src="octopus_upgrade.png" alt="octopus_upgrade.png">&lt;/dt&gt;<dd>Figure: Good Example - announcing the upgrade with a short note of the new feature<br></dd></dl>
+
+[[goodExample]]
+| ![announcing the upgrade with a short note of the new feature](octopus_upgrade.png)

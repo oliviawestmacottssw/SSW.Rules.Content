@@ -12,6 +12,7 @@ related:
 - do-you-have-hidden-tables-or-queries-upsizing-problem
 - do-you-always-have-a-unique-index-on-a-table
 - do-use-spaces-in-table-names
+redirects: []
 
 ---
 

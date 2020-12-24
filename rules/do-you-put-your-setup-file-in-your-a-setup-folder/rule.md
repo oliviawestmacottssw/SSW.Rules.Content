@@ -11,13 +11,14 @@ authors:
 - id: 17
   title: Ryan Tee
 related: []
+redirects: []
 
 ---
 
 All setup files should stored under setup folder of your project root directory.   
 <!--endintro-->
-<dl class="goodImage">    &lt;dt&gt;<img style="border-bottom:0px solid;border-left:0px solid;border-top:0px solid;border-right:0px solid;" border="0" alt="Store all setup files under one folder in root" src="SetupFileGood.gif"> &lt;/dt&gt;
-    <dd>Good example - All the wise setup file in the \setup folder. </dd></dl>
+
+![example](SetupFileGood.gif)Good
 
 
 

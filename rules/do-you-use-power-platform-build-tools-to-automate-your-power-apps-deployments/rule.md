@@ -9,6 +9,7 @@ authors:
 - id: 32
   title: Mehmet Ozdemir
 related: []
+redirects: []
 
 ---
 
@@ -17,7 +18,9 @@ You’ve built your Power App using all the best practices, have multiple soluti
 <!--endintro-->
 
 The solution, Power Platform Build Tools:
-<dl class="image">&lt;dt&gt;<img src="almpowered.png" alt="almpowered.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: ALM for your Power Platform projects<br></dd></dl>
+
+![ALM for your Power Platform projects](almpowered.png)
+
 ### What do I get with the Microsoft Power Platform Build Tools? 
 
 

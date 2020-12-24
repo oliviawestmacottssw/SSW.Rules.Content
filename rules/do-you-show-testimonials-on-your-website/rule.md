@@ -9,6 +9,7 @@ authors:
 - id: 20
   title: Rebecca Liu
 related: []
+redirects: []
 
 ---
 
@@ -17,10 +18,8 @@ Testimonials are a great way of making people comfortable with dealing with your
 SSW have a random testimonials box up the top of many pages. One example is the       [About Us](http://www.ssw.com.au/ssw/Company/AboutUs.aspx) page.
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;
-      <img border="1" src="../../assets/MarketingTestimonials.gif" alt="" style="width:600px;">
-      <br>
-   &lt;/dt&gt;<dd>Figure: Testimonials as displayed on SSW's About Us page</dd></dl>
+
+![Testimonials as displayed on SSW's About Us page](../../assets/MarketingTestimonials.gif)
 Another alternative is having the testimonials listed down the right hand side of the screen. An example of this can be seen at:     [http://www.ericjsmith.net/codesmith/](http://www.ssw.com.au/ssw/Redirect/Codesmith.htm).
 
 An interesting spin on the previous link is a website that still has the testimonials down the right hand side of the page, however it displays exerts of these testimonials in comic book style speech bubbles. An example of this can be seen at:     [http://www.richtextbox.com/richtextbox/](http://www.ssw.com.au/ssw/Redirect/RichTextBox/RichTextBox.htm).

@@ -15,10 +15,11 @@ authors:
 - id: 6
   title: Tristan Kurniawan
 related: []
+redirects: []
 
 ---
 
 This field should not be null (Remove me when you edit this field). 
 <!--endintro-->
-<dl>&lt;dt&gt;<img alt="Test case " src="TestCase.jpg">&lt;/dt&gt;
-<dd>Figure: You can easily fix this by associating tests with a Test Case which in turn "Tests" a bug </dd></dl>
+
+![Test case ](TestCase.jpg)

@@ -11,6 +11,7 @@ authors:
 - id: 32
   title: Mehmet Ozdemir
 related: []
+redirects: []
 
 ---
 
@@ -22,11 +23,14 @@ Some examples below:
 
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="bad-primary-field.png" alt="bad-primary-field.png" style="width:750px;">&lt;/dt&gt;<dd>Bad Example: A lookup field is the first column</dd></dl>
+
+![A lookup field is the first column](bad-primary-field.png)
 In this example Account is the first column in the view, the natural tendency is the click the first column, and seeing that it's a hyperlink further confirms to the user that this is something they can click on. Clicking the first column ("Northwind Traders") would navigate to the Northwind Traders Account form and not the Opportunity form for Northwind Traders.
-<dl class="badImage">&lt;dt&gt;<img src="bad-primary-field-2.png" alt="bad-primary-field-2.png" style="width:750px;">&lt;/dt&gt;<dd>Bad Example: A regular field is the first column</dd></dl>
+
+![A regular field is the first column](bad-primary-field-2.png)
 In this example Probability is the first column in the view, again users tend to click the first column in the view. In this example, a single click would select the entire row (with tick box selected to the left of the grid), and a double click on the first column would navigate to the Opportunity record.
-<dl class="goodImage">&lt;dt&gt;<img src="good-primary-field.png" alt="good-primary-field.png" style="width:750px;">&lt;/dt&gt;<dd>Good Example: Primary Field is the first column</dd></dl>
+
+![Primary Field is the first column](good-primary-field.png)
 In this example, the Primary Field is the first column of the view, and single-clicking the first column view navigates to the opportunity record as expected.
 
 ### Summary

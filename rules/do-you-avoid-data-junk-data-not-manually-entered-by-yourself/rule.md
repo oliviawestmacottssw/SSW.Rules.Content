@@ -7,6 +7,7 @@ uri: do-you-avoid-data-junk-data-not-manually-entered-by-yourself
 created: 2014-12-01T00:51:13.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -16,7 +17,7 @@ When there are too many choices always Default to the most common ones.  Then ad
 
 
 ::: greybox
- [x] Only include common choices 
+[x] Only include common choices
 :::
 
 
@@ -29,7 +30,6 @@ Likewise in a contacts database where you have entries from all around the world
 
 
 A good example on that the checkbox on the search screen of TimePRO.NET.
-<dl class="goodImage">&lt;dt&gt; 
-      <img alt="Options Form - ComboBox without Result Count" src="../../assets/DefaultSearch.gif" style="margin:5px;"> 
-   &lt;/dt&gt;<dd>Figure: Default search tick box in TimePRO.NET</dd></dl>
+
+![Default search tick box in TimePRO.NET](../../assets/DefaultSearch.gif)
 Read our rule on     [Validation - Do you avoid capturing incorrect data?](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Controls.aspx#AvoidIncorrectData)

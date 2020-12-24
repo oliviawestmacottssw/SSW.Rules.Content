@@ -11,6 +11,7 @@ authors:
 related:
 - do-you-use-the-best-deployment-tool
 - do-you-know-when-to-use-an-on-premises-build-server-with-visual-studio-online
+redirects: []
 
 ---
 

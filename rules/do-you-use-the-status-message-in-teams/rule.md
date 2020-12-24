@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -22,8 +23,8 @@ It tells people 3 things:
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;
-      <img src="teams-status-message.jpg" alt="teams-status-message.jpg" style="width:800px;">&lt;/dt&gt;<dd>Figure: When people chat with you, they can see what you’re up to</dd></dl>
+
+![When people chat with you, they can see what you’re up to](teams-status-message.jpg)
 ### More information
 
 
@@ -32,9 +33,8 @@ To update the status message, follow these steps:
 * On the top right, click on your photo
 * Click on the pencil icon to edit the status message
 
-<dl class="image">&lt;dt&gt;
-      <img src="edit-teams-status.jpg" alt="edit-teams-status.jpg" style="width:800px;height:597px;">
-   &lt;/dt&gt;<dd>Figure: Edit the Teams status message each day</dd></dl>
+
+![Edit the Teams status message each day](edit-teams-status.jpg)
 The status message is helpful when it contains:
 
 * **Project:** xxx (the product/project you’re working on) | yyy (the tasks you’re working on)
@@ -47,9 +47,8 @@ The status message is helpful when it contains:
 * For “Clear status message after”, select Never (to prevent Microsoft from deleting the status message)
 * Click Done once complete
 
-<dl class="image">&lt;dt&gt;
-      <img src="edit-teams-status-2.jpg" alt="edit-teams-status-2.jpg" style="width:800px;height:598px;">
-   &lt;/dt&gt;<dd>Figure: Edit the status message<span style="color:#444444;"></span></dd></dl>
+
+![Edit the status message](edit-teams-status-2.jpg)
 ### Related rule
 
 * [Do you do Daily Scrums (aka stand-up meetings)?](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=731a3f5d-a266-4944-876c-a45afa82832f)

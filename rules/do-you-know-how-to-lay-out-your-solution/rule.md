@@ -13,17 +13,16 @@ authors:
 - id: 24
   title: Adam Stephensen
 related: []
+redirects: []
 
 ---
 
 Whenever we setup a new Team Project we implement a basic version control structure. We put "readme.txt" files in the folder structure explaining the different levels, and a solution file called [Client].[Product].sln?located at ?/[Client]/[Product]/DEV/ within version control.
-<dl class="image">&lt;dt&gt;
-      <img alt="Messy solution " src="MessySolution.jpg" style="margin:5px;">
-   &lt;/dt&gt;<dd>Figure: Bad Example, how would anyone know how to sort this mess out?</dd></dl>
+
+![Messy solution ](MessySolution.jpg)
 <!--endintro-->
-<dl class="image">&lt;dt&gt; 
-      <img alt="Ideal solution " src="IdealSolution.jpg"> 
-   &lt;/dt&gt;<dd>Figure: Good Example, The ideal solution. </dd></dl>
+
+![Ideal solution ](IdealSolution.jpg)
 For more implementation details see:     
 [http://blog.hinshelwood.com/archive/2010/05/17/guidance-how-to-layout-you-files-for-an-ideal-solution.aspx](http://www.ssw.com.au/ssw/redirect/LayoutSolution.htm)
 

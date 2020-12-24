@@ -12,6 +12,7 @@ authors:
   title: Adam Cogan
 related:
 - why-do-we-use-vm-for-sharepoint-development-
+redirects: []
 
 ---
 
@@ -55,7 +56,8 @@ Example of properties you can use (common ones);
 
 
 **More:** https://docs.microsoft.com/en-us/office365/securitycompliance/keyword-queries-and-search-conditions
-<dl class="image">&lt;dt&gt;<img src="filter-sharepoint-example.png" alt="filter-sharepoint-example.png" style="width:750px;">&lt;/dt&gt;<dd>Figure: Example of using Filetype: filter</dd></dl>Use Boolean OR and AND operators
+
+![Example of using Filetype: filter Use Boolean OR and AND operators](filter-sharepoint-example.png)
 Similar to Google and Bing, you can use OR and AND Boolean operators. E.g. "sharepoint AND search".
 
 

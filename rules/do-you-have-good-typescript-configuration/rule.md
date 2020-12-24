@@ -9,6 +9,7 @@ authors:
 - id: 24
   title: Adam Stephensen
 related: []
+redirects: []
 
 ---
 
@@ -19,7 +20,8 @@ TypeScript is a powerful language that transpiles to JavaScript, and provides mu
 ### Use tsconfig.json
 
 Putting a “tsconfig.json” file in your project tells the typescript compiler where the root of your project is, and provides a centralized place to configure the compiler.  This config is read by IDEs and the compiler and can be utilised by the build scripts to ensure configuration is consistent.
-<dl class="image">&lt;dt&gt; <img src="goodtypescriptconfig1.png" alt="goodtypescriptconfig1.png"> &lt;/dt&gt;<dd>Figure: A tsconfig.json file with great configuration</dd></dl>
+
+![A tsconfig.json file with great configuration](goodtypescriptconfig1.png)
 ### Disable implicit “any”
 
 The primary benefit of TypeScript is type-safety, and attempting to escape from the type-safety should be a conscientious decision by the developer.  So ensure that noImplicitAny is true, and keep your code type-aware and able to be refactored.
@@ -36,4 +38,5 @@ TypeScript should compile in-place, and a single file input should produce a sin
 
 Files generated from typescript get in the way – you don’t want to scroll through .d.ts, .js and .js.map files all the time.  So hide them in the IDE.
 In VSCode this can be done via the “files.exclude” key in the settings.json file.  For a shared experience across the team, check this file into source control.
-<dl class="image">&lt;dt&gt; <img src="goodtypescriptconfig2.png" alt="goodtypescriptconfig2.png"> &lt;/dt&gt;<dd>Figure: VSCode settings.json file that hides generated files </dd></dl>
+
+![VSCode settings.json file that hides generated files](goodtypescriptconfig2.png)

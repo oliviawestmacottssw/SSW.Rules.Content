@@ -11,14 +11,19 @@ authors:
 - id: 17
   title: Ryan Tee
 related: []
+redirects: []
 
 ---
 
 Assembly names should reflect the the functionality that it provides. For example,  
 <!--endintro-->
-<dl class="goodCode">    &lt;dt&gt;
-    <pre>System.IO</pre>
-    &lt;/dt&gt;</dl>
+
+
+```
+System.IO
+```
+
+
 contains all the classes that deal with inputs and outputs. As a general rule of thumb your assemblies should be named as follows:
 
 &lt;CompanyName&gt;.&lt;ComponentName&gt; (e.g. SSW.Framework)

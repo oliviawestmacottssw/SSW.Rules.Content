@@ -11,13 +11,15 @@ authors:
 - id: 29
   title: Raj Dhatt
 related: []
+redirects: []
 
 ---
 
 When recording a Microsoft Teams or a Zoom call (e.g. an interview) the software will automatically compress the sound, reducing the quality. To give the host the best sound quality, record the audio locally with a good microphone connected to an audio recorder (e.g. A Zoom recorder).
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="h6-pro-zoom-audio-recorder.jpg" alt="h6-pro-zoom-audio-recorder.jpg">&lt;/dt&gt;<dd>Figure: The H6 Pro Zoom Audio Recorder</dd></dl>
+
+![The H6 Pro Zoom Audio Recorder](h6-pro-zoom-audio-recorder.jpg)
 This higher quality audio should be used in post-production eg. When editing in Adobe Premiere Pro.
 
 

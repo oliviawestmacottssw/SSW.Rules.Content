@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -16,12 +17,20 @@ If you want to know your website is working or not, you need to add a ping check
 Follow these steps to check your website in WhatsUp:
 <!--endintro-->
 
-1. Add your website as a new device. <dl class="image">&lt;dt&gt; <img src="running1.GIF" alt="running1.GIF"> &lt;/dt&gt;<dd>Figure: New device</dd></dl>
-2. Ping monitor is added automatically. <dl class="image">&lt;dt&gt; <img src="running2.GIF" alt="running2.GIF"> &lt;/dt&gt;<dd>Figure: Ping monitor</dd></dl>
-3. Add an HTTP Content Scan monitor. <dl class="image">&lt;dt&gt; <img src="running3.GIF" alt="running3.GIF"> &lt;/dt&gt;<dd>Figure: HTTP Content Scan</dd></dl>
+1. Add your website as a new device. 
+![New device](running1.GIF)
+2. Ping monitor is added automatically. 
+![Ping monitor](running2.GIF)
+3. Add an HTTP Content Scan monitor. 
+![HTTP Content Scan](running3.GIF)
 4. Edit the scan script. In the script, you can see 2 keywords "Send" and "Expect".
 "Send" expression is an  HTTP request to your website.
 "Expect" expression is a regular expression to check the key word in response from your website.
- <dl class="image">&lt;dt&gt; <img src="running4.GIF" alt="running4.GIF"> &lt;/dt&gt;<dd>Figure: Edit scan script</dd></dl>
-5. Add the monitor to your device. <dl class="image">&lt;dt&gt; <img src="running5.GIF" alt="running5.GIF"> &lt;/dt&gt;<dd>Figure: Add monitor</dd></dl> Once a device is down or up, a WhatsUp action will tell SQL Reporting Services to send out a notification report. 
-Our report looks like this: <dl class="image">&lt;dt&gt; <img src="running6.GIF" alt="running6.GIF"> &lt;/dt&gt;<dd>Figure: Website doesn't work<br></dd></dl><dl class="image">&lt;dt&gt; <img src="running7.GIF" alt="running7.GIF"> &lt;/dt&gt;<dd>Figure: Website works</dd></dl>
+ 
+![Edit scan script](running4.GIF)
+5. Add the monitor to your device. 
+![Add monitor Once a device is down or up, a WhatsUp action will tell SQL Reporting Services to send out a notification report.](running5.GIF)
+Our report looks like this: 
+![Website doesn't work](running6.GIF)
+
+![Website works](running7.GIF)

@@ -11,6 +11,7 @@ authors:
 - id: 46
   title: Danijel Malik
 related: []
+redirects: []
 
 ---
 
@@ -28,9 +29,9 @@ Here are reasons why WiX is the way to go:
 * It is a recommended choice by Microsoft
 * It is FREE
 
-<dl class="goodImage">&lt;dt&gt;
-      <img src="setup-packages-tool.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Good Example - WiX Installer for Code Auditor</dd></dl>
+
+[[goodExample]]
+| ![WiX Installer for Code Auditor](setup-packages-tool.jpg)
 But WiX has one bad side as well – learning curve is high. Not everyone can afford learning it. The alternative is Advanced Installer.
 
 **Advanced Installer** makes it easy for you to create Setup packages using a very sophisticated GUI.
@@ -41,6 +42,6 @@ A few reasons why Advanced Installer could be your choice:
 * It gives you wide range of options (IIS, Dialog Editor, Custom Actions, Digital Signature, Auto Updater, App Virtualization, SCCM, etc)
 * Price vs performance ratio is great + it has a FREE version which is in many cases more than enough
 
-<dl class="goodImage">&lt;dt&gt;
-      <img src="advanced-installer.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Good Example - Advanced Installer</dd></dl>
+
+[[goodExample]]
+| ![Advanced Installer](advanced-installer.jpg)

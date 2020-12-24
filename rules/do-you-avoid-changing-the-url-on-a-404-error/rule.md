@@ -7,6 +7,7 @@ uri: do-you-avoid-changing-the-url-on-a-404-error
 created: 2016-08-11T18:08:44.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -20,12 +21,17 @@ In .NET you are allowed to define a custom error page. When a user tries to acce
 The advantage of this solution is, that the page looks nice and you can customize it according to the design and layout of your whole site.
 
 The disadvantage is, that .NET changes the URL. So if the user wants to correct the URL he entered, for example, because he just mixed up a letter, then this means quite a lot of work for him. He has to retype the whole URL or at least copy and paste the parameter out of the new URL. This is very uncomfortable for the user.
-<dl class="badImage">&lt;dt&gt; <img src="url_asp.gif" alt="url_asp.gif">&lt;/dt&gt;<dd>Figure: Bad example - URL changes <br></dd></dl>
+
+[[badExample]]
+| ![URL changes](url_asp.gif)
+
 Our solution is to show the customized error page while not change the original URL. So if the user wants to do any corrections, e.g. a mixed up letter, he can do that by just editing the URL in the address bar.
 The advantages of this solution are, that the site looks nice and matches the design of the whole site and that the user can easily change the original URL he typed.
 
 You can try any page name that doesn't exist like xxx.asp on the URL and it will open our 404 error page. The original URL is not changed in the address bar. It should look like this:
-<dl class="goodImage">&lt;dt&gt; <img src="404-good.jpg" alt="404-good.jpg"> &lt;/dt&gt;<dd>Figure: Good example - Customized 404 error page without change the URL </dd></dl>
+
+[[goodExample]]
+| ![Customized 404 error page without change the URL](404-good.jpg)
 In order to show the customized error page while not change the original URL, you can use Server.Transfer() to keep the original URL.
 
 Server.Transfer("/ssw/ErrorPage.aspx")

@@ -11,6 +11,7 @@ authors:
 - id: 44
   title: Duncan Hunter
 related: []
+redirects: []
 
 ---
 
@@ -19,6 +20,9 @@ When you make a pull request or need to communicate the next actions someone nee
 Read more about @mention: https://help.github.com/articles/basic-writing-and-formatting-syntax/#mentioning-users-and-teams
 
 <!--endintro-->
-<dl class="badImage">&lt;dt&gt;<img src="github-mention-bad.png" alt="github-mention-bad.png" style="width:760px;">&lt;/dt&gt;<dd>Figure: Bad example - Not using a @mention when addressing Duncan or Igor<br></dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="github-mention-good.png" alt="github-mention-good.png" style="width:760px;">
-   &lt;/dt&gt;<dd>Figure: Good example - Using a @mention</dd></dl>
+
+[[badExample]]
+| ![Not using a @mention when addressing Duncan or Igor](github-mention-bad.png)
+
+[[goodExample]]
+| ![Using a @mention](github-mention-good.png)

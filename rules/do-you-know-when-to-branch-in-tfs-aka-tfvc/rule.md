@@ -9,6 +9,7 @@ authors:
 - id: 24
   title: Adam Stephensen
 related: []
+redirects: []
 
 ---
 
@@ -27,7 +28,11 @@ The quintessential scenario you need to support is that emergency "Hey we have a
 In that case you need to potentially update all of your branches and perform deployment, which can be quite tiresome.
 
 The better way is to use OctopusDeploy which relives developers from having multiple branches because you only have to worry about building on one branch and deployment can be done automatically to multiple environments. Octopus provides more secure, feature-rich environment which makes it very easy to deploy and promote builds between environments.
-<dl class="goodImage">&lt;dt&gt; <img src="2014-10-11_18-54-00.png" alt="" style="margin:5px;width:520px;"> &lt;/dt&gt;<dd>Figure: Good Example: Manage deployments to multiple environments, view deployed versions.<br><br></dd></dl>
+
+[[goodExample]]
+| ![Manage deployments to multiple environments, view deployed versions.](2014-10-11_18-54-00.png)
+
+
 <!--endintro-->
 
 ### Why you should avoid branching
@@ -47,13 +52,23 @@ The better way is to use OctopusDeploy which relives developers from having mult
 * For a disposable, investigatory spike
 * To perform hotfixes to production environment
 
-<dl class="badImage">&lt;dt&gt;
-      <img src="branch-bad.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Bad Example – Creating a branch per feature leads to lots of merging (Image from<a href="http://paulhammant.com/blog/branch_by_abstraction.html"><span class="s2">http://paulhammant.com/blog/branch_by_abstraction.html</span></a> <img title="You are now leaving SSW" src="external.gif" alt=""> <img title="You are now leaving SSW" src="external.gif" alt=""> <img title="You are now leaving SSW" src="external.gif" alt=""> <img title="You are now leaving SSW" src="external.gif" alt="">)</dd></dl><dl class="badImage">&lt;dt&gt;
-      <img src="branch-bad-2.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Bad Example – Creating a branch per sprint has everyone working on the same code but requires at least one merge every sprint</dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img src="branch-good.jpg" alt="">
-   &lt;/dt&gt;<dd>Figure: Good Example: Release Branching - always develop on the trunk, but create a new branch each time you release. <br>This means that all developers are continually integrating all their code, branching is rare, but you always have access to your released version in case bug fixes or small mods are required.<br>(Image from <a href="http://paulhammant.com/blog/branch_by_abstraction.html"><span class="s2">http://paulhammant.com/blog/branch_by_abstraction.html</span></a> <img title="You are now leaving SSW" src="external.gif" alt=""> <img title="You are now leaving SSW" src="external.gif" alt=""> <img title="You are now leaving SSW" src="external.gif" alt=""> <img title="You are now leaving SSW" src="external.gif" alt="">)</dd></dl>
+
+[[badExample]]
+| ![Creating a branch per feature leads to lots of merging](branch-bad.jpg)(Image from)
+
+
+
+[http://paulhammant.com/blog/branch\_by\_abstraction.html](http://paulhammant.com/blog/branch_by_abstraction.html)
+[[badExample]]
+| ![Creating a branch per sprint has everyone working on the same code but requires at least one merge every sprint](branch-bad-2.jpg)
+[[goodExample]]
+| ![Release Branching - always develop on the trunk, but create a new branch each time you release.](branch-good.jpg))
+
+
+
+[http://paulhammant.com/blog/branch\_by\_abstraction.html](http://paulhammant.com/blog/branch_by_abstraction.html)(Image from
+This means that all developers are continually integrating all their code, branching is rare, but you always have access to your released version in case bug fixes or small mods are required.
+
 Further reading:
 
 * http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/ 

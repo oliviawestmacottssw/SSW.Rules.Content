@@ -7,6 +7,7 @@ uri: do-you-know-how-to-answer-a-question-in-jira
 created: 2009-08-13T05:44:46.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

@@ -7,6 +7,7 @@ uri: do-you-know-what-a-pbi-owner-is-responsible-for
 created: 2010-05-12T22:30:32.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -27,5 +28,4 @@ Note: Make sure you are ready for the review. Have a scribe and how you are demo
 The objective of the Review meeting is to have the story accepted quickly.
 
 
-![](NewProductBacklog.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Out of the box the Microsoft Scrum Template supports a ‘Story Owner’ via the ‘Owned By’ field</font>
+![Out of the box the Microsoft Scrum Template supports a ‘Story Owner’ via the ‘Owned By’ field](NewProductBacklog.jpg)

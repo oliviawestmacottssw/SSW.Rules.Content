@@ -9,6 +9,7 @@ authors:
 - id: 55
   title: Steve Leigh
 related: []
+redirects: []
 
 ---
 
@@ -40,4 +41,8 @@ Zoom in to 125% by holding Ctrl and scrolling up on the mouse wheel
 
 
 
-<dl class="badImage">&lt;dt&gt;<img src="screen-recording-bad.png" alt="screen-recording-bad.png">&lt;/dt&gt;<dd>Figure: Bad example - This video will be cluttered and unprofessional</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="screen-recording-good.png" alt="screen-recording-good.png">&lt;/dt&gt;<dd>Figure: Good example - This is easy to read, and doesn’t look cluttered</dd></dl>
+
+[[badExample]]
+| ![This video will be cluttered and unprofessional](screen-recording-bad.png)
+[[goodExample]]
+| ![This is easy to read, and doesn’t look cluttered](screen-recording-good.png)

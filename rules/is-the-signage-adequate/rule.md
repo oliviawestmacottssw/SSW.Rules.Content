@@ -7,6 +7,7 @@ uri: is-the-signage-adequate
 created: 2014-12-31T00:36:40.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

@@ -7,6 +7,7 @@ uri: does-your-user-account-have-sql-server-system-administrator-privileges-in-s
 created: 2015-08-12T15:57:43.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

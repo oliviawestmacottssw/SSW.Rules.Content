@@ -11,6 +11,7 @@ authors:
 - id: 3
   title: Eric Phan
 related: []
+redirects: []
 
 ---
 
@@ -31,7 +32,9 @@ This is where RayGun or Application Insights comes into the picture. RayGun give
 * Tracking the exceptions to a deployment
 * See which errors are occurring the most often
 
-<dl class="badImage">&lt;dt&gt;<img src="elmah.gif" alt="elmah.gif">&lt;/dt&gt;<dd> Figure: Bad Example - Elmah gives you a wall of exceptions and no way to flag exceptions as completed</dd> </dl>
+
+[[badExample]]
+| ![Elmah gives you a wall of exceptions and no way to flag exceptions as completed](elmah.gif)
 **Hi Adam,** 
 Please find below the Raygun Health Check for TimePro:
 
@@ -39,7 +42,7 @@ Please find below the Raygun Health Check for TimePro:
 
 
 ::: good
-Figure: Raygun health check for TimePro in the past 7 days 
+Figure: Raygun health check for TimePro in the past 7 days
 :::
 
 
@@ -63,7 +66,7 @@ Figure: The next issue to be worked on
 :::
 
 
-<this email="" is="" from=""></this>[https://rules.ssw.com.au/how-to-handle-errors-in-raygun/](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6d5e516d-1f5e-4baa-929c-2c45b9bfa15e)>
+<this email="" is=""></this>[https://rules.ssw.com.au/how-to-handle-errors-in-raygun/](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=6d5e516d-1f5e-4baa-929c-2c45b9bfa15e)>
  **Figure: Email with Raygun application health report 
 
 **

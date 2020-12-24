@@ -11,6 +11,7 @@ authors:
 - id: 46
   title: Danijel Malik
 related: []
+redirects: []
 
 ---
 
@@ -40,14 +41,16 @@ Search & Install the NuGet packages:
 "tslint" https://www.nuget.org/packages/tslint/
 
 For Visual Studio development on web applications, download Web Essentials, it will provide intellisense for JS, CSS, HTML, Less, Scss, and CoffeeScript. (https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials20153 )
-<dl class="ssw15-rteElement-ImageArea"><img src="VS-InstallNuGetPackages.png" alt="VS-InstallNuGetPackages.png" style="margin:5px;width:808px;"></dl> **Figure: Steps to install NuGet Packages
+
+![Steps to install NuGet Packages](VS-InstallNuGetPackages.png)
 ** 
 Here is a quick guide to the steps to install NuGet Packages to the entire solution:
  1) Right click solution
  2) Select "Manage NuGet packages for solution"
  3) Select "Browse"
  4) Search <package name=""><br> 5) Select <package name=""><br> 6) Check all projects<br> 7) Click "Install"<br><br>Issues from these will now be returned in the Visual Studio analyser error list.<br></package></package>
-<dl class="ssw15-rteElement-ImageArea"><img src="VS-RoslynRules.png" alt="VS-RoslynRules.png" style="margin:5px;"><span style="color:#555555;font-size:0.9rem;font-weight:bold;"></span><span style="color:#555555;font-size:0.9rem;font-weight:bold;">Figure: New Roslyn Rule issues raised in Visual Studio Analyser</span></dl>
+
+![New Roslyn Rule issues raised in Visual Studio Analyser](VS-RoslynRules.png)
 Run Code Analysis on the project. Check over all of the warnings, if they are unnecessary or inappropriate, disable them, otherwise modify their severity level to "Error". 
 When the build is run, "Errors" will break the build, while "Warnings" will be reported, but not break the build.
 Rules which have been flagged should also be checked once the build is completed
@@ -59,7 +62,13 @@ The goal is to develop a shared ruleset across projects. (Currently this is just
 Any project specific rules should be documented in "\_Instructions-CodeHealth.docx" kept in the solution.
 <mark>Please also copy the current version number of this rule into the "_Instructions-CodeHealth.docx" in order to track what version your existing solution adheres to.</mark>
 
-<dl class="ssw15-rteElement-ImageArea"><dl class="ssw15-rteElement-ImageArea"><img src="VS-ModifyRules.png" alt="VS-ModifyRules.png" style="margin:5px;width:808px;"></dl> <strong>Figure: Steps to open Visual Studio Analyser rules customisation page<br></strong> <p class="ssw15-rteElement-P">Right Click project | Properties | Code Analysis | Open<br></p></dl><dl class="ssw15-rteElement-ImageArea"><dl class="ssw15-rteElement-ImageArea"><img src="VS-ModifyRules2.png" alt="VS-ModifyRules2.png" style="margin:5px;width:808px;"> <strong>Figure: How to customize rules. By either enabling / disabling rules or packages. Or by modifying the rule severity level.<br></strong> </dl></dl>
+
+![](VS-ModifyRules.png)
+Right Click project | Properties | Code Analysis | Open
+ **Figure: Steps to open Visual Studio Analyser rules customisation page
+** 
+![How to customize rules. By either enabling / disabling rules or packages. Or by modifying the rule severity level.](VS-ModifyRules2.png)
+** 
 ### Visual Studio Code
 
 
@@ -67,7 +76,8 @@ For web projects, we advocate the use of CSSLint for css files and TSLint for ty
 
 Linters for these can be easily added to VS Code via extensions.
 Simply select the "Extensions" tab, search for "CSSLint" and "TSLint" and click "Install" on each respectively.
-<dl class="ssw15-rteElement-ImageArea"><img src="VSCode-Extensions.png" alt="VSCode-Extensions.png" style="margin:5px;width:808px;"></dl> **Figure: Addition of CssLint and TSLint to VS Code Project
+
+![Addition of CssLint and TSLint to VS Code Project](VSCode-Extensions.png)
 ** 
 If you prefer not to use the Extensions (which are currently a bit out of date). You can install them using npm as normal.
 
@@ -79,9 +89,12 @@ TSLint https://www.npmjs.com/package/tslint
 
 <mark>Ensure utilisation of TeamBuild2015 or higher. (No support for XAML builds)</mark>
 Edit the build definition
-<dl class="ssw15-rteElement-ImageArea"><img src="VSO-EditBuild.png" alt="VSO-EditBuild.png" style="margin:5px;width:808px;"></dl> **Figure: Steps to edit an existing build definition on VisualStudio.com** 
+
+![Steps to edit an existing build definition on VisualStudio.com](VSO-EditBuild.png)
 Select "Build & Release" > Select "Builds" > Click on your existing build > Click "Edit"
-<dl><dl class="ssw15-rteElement-ImageArea"><dl class="ssw15-rteElement-ImageArea"><img src="VSO-BuildDefinition-V3.png" alt="VSO-BuildDefinition-V3.png" style="margin:5px;width:808px;"></dl><span style="color:#555555;font-size:0.9rem;font-weight:bold;background-color:initial;">Figure: Example completed build definition.</span></dl></dl><dl><dl class="ssw15-rteElement-ImageArea"><dl class="ssw15-rteElement-ImageArea"><img src="VSO-DirectoryExampleV2.png" alt="VSO-DirectoryExampleV2.png" style="margin:5px;width:808px;"></dl></dl></dl> **Figure: Example directory for TSLint run commands
+
+![Example completed build definition.](VSO-BuildDefinition-V3.png)
+![Example directory for TSLint run commands](VSO-DirectoryExampleV2.png)
 ** 
 Under advanced for the Command Line tasks, the Working Directory can be specified if necessary.
 
@@ -108,7 +121,9 @@ TsLint
 
 If your build is being hosted, then the config file must be reloaded every time. If your build is running on premises, the config file will attempt to load over the existing one and break the build.
 If this is the case, just add a step to delete your config file after the scan is complete.
-<dl class="ssw15-rteElement-ImageArea"><img src="VSO-RemoveConfig.png" alt="VSO-RemoveConfig.png" style="margin:5px;width:808px;"> <strong>Figure: Command line step to remove the config file (tslint.json) after the linter has run<br></strong> </dl>
+
+![Command line step to remove the config file](VSO-RemoveConfig.png)(tslint.json) after the linter has run
+** 
 **Command Line** - Remove the tslint config file, as it will break future scan if the build is on premises if a config file already exists and an attempt to add another one is made.
  **Name:** Remove tslint config
  **Tool:** del
@@ -122,11 +137,35 @@ If warnings exist, the rule should be disabled or set as an error. (If it is wor
 
 
 If your project does not contain TypeScript files, then you do not need to include the TSLint build tasks.
-<dl><dd class="ssw15-rteElement-FigureNormal"><img src="VSO-EnsureTSLintRuns.png" alt="VSO-EnsureTSLintRuns.png" style="margin:5px;width:808px;">Figure: Ensure TSLint actually finds files to scan (if the project includes TSLint files) otherwise it will pass without you noticing<br></dd><p class="ssw15-rteElement-P"><br></p><p class="ssw15-rteElement-P">For the purposes of reporting, a unique tag must be added to the build definition which the Code Health steps have been applied to. <br>This is done with the addition of a variable (Name = PrimaryBuild, Value = true)<span style="background-color:initial;"></span></p><dl class="ssw15-rteElement-ImageArea"><dd class="ssw15-rteElement-FigureNormal"><img src="VSO-AddVariableTag.png" alt="VSO-AddVariableTag.png" style="margin:5px;width:650px;">Figure: Steps to add PrimaryBuild variable to build definition<span style="background-color:initial;color:#333333;font-size:13px;"></span></dd></dl></dl><dl class="ssw15-rteElement-ImageArea"><dl class="ssw15-rteElement-ImageArea"><img src="VSO-BuildResult-BadV3.png" alt="VSO-BuildResult-BadV3.png" style="margin:5px;width:808px;"></dl></dl>
+
+![Ensure TSLint actually finds files to scan](VSO-EnsureTSLintRuns.png)(if the project includes TSLint files) otherwise it will pass without you noticing
+![Steps to add PrimaryBuild variable to build definition](VSO-AddVariableTag.png)
+For the purposes of reporting, a unique tag must be added to the build definition which the Code Health steps have been applied to. 
+This is done with the addition of a variable (Name = PrimaryBuild, Value = true)
+
+
+
+![](VSO-BuildResult-BadV3.png)
 
 ::: bad
 Figure: Bad Example - Build broke due to compile errors. Must fix to proceed.
 
 :::
 
-<dl><dl><dl class="ssw15-rteElement-ImageArea"><img src="VSO-BuildResultV3.png" alt="VSO-BuildResultV3.png" style="margin:5px;width:808px;"></dl><br><br>::: bad<br>Figure: Bad Example - Successful build with warnings. Should be disabled or set as errors.<br><br>:::<br><br></dl><dl class="ssw15-rteElement-ImageArea"><dl class="ssw15-rteElement-ImageArea"><img src="VSO-BuildResult-GoodV3.png" alt="VSO-BuildResult-GoodV3.png" style="margin:5px;width:808px;"></dl></dl><br><br>::: good<br>Figure: Good Example - Successful build with no warnings.<br><br>:::<br><br></dl>
+
+![](VSO-BuildResultV3.png)
+
+:::
+
+Figure: Bad Example - Successful build with warnings. Should be disabled or set as errors.
+::: bad
+
+
+
+:::
+
+Figure: Good Example - Successful build with no warnings.
+::: good
+
+
+![](VSO-BuildResult-GoodV3.png)

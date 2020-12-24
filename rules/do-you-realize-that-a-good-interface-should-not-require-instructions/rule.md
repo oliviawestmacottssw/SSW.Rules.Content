@@ -7,6 +7,7 @@ uri: do-you-realize-that-a-good-interface-should-not-require-instructions
 created: 2012-11-27T01:23:48.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 
@@ -18,9 +19,8 @@ The corner stone of good user interface design is that if your users need instru
 * There is no need to use help
 * No excuse for RTFM (read the freaking manual)
 
-<dl class="image">&lt;dt&gt;
-      <img border="1" src="../../assets/SelfEvident.gif" alt="">
-   &lt;/dt&gt;<dd>Figure: A good interface does not need instructions!</dd></dl>
+
+![A good interface does not need instructions](../../assets/SelfEvident.gif)!
 A good UI is:
 
 * Intuitive
@@ -45,8 +45,8 @@ A good UI is:
 
 
 
-<dl class="goodImage">&lt;dt&gt;
-      <img alt="Team Viewer Interface" src="../../assets/GoodUITeamViewer.png">
-   &lt;/dt&gt;<dd>Figure: Good example - Teamviewer's interface requires very little explanation</dd></dl><dl class="goodImage">&lt;dt&gt;
-      <img alt="Fly in a Urinal" src="../../assets/FlyInUrinal.jpg">
-   &lt;/dt&gt;<dd>Figure: Good Example - See the fly? (an example of excellent usability) Dutch manufacturers realized that a fly painted on the urinal became a "target" for men using the facility. And the fly is positioned in precisely the right place for minimal spillage or splash back. Clever people those Dutch!</dd></dl>
+
+[[goodExample]]
+| ![Teamviewer's interface requires very little explanation](../../assets/GoodUITeamViewer.png)
+[[goodExample]]
+| ![See the fly?](../../assets/FlyInUrinal.jpg)(an example of excellent usability) Dutch manufacturers realized that a fly painted on the urinal became a "target" for men using the facility. And the fly is positioned in precisely the right place for minimal spillage or splash back. Clever people those Dutch!

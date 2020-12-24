@@ -7,6 +7,7 @@ uri: are-you-alerted-when-your-site-goes-down
 created: 2016-07-15T00:34:17.0000000Z
 authors: []
 related: []
+redirects: []
 
 ---
 

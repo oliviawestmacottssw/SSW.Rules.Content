@@ -9,6 +9,7 @@ authors:
 - id: 1
   title: Adam Cogan
 related: []
+redirects: []
 
 ---
 
@@ -20,4 +21,5 @@ At SSW, our proposals are to be divided into 3 parts:
 
 
 <!--endintro-->
-<dl class="image">&lt;dt&gt;<img src="Proposals_ClientPagesFirst.jpg" alt="Proposals_ClientPagesFirst.jpg">&lt;/dt&gt;<dd>Figure: Relevant information comes first on our proposals<br></dd></dl>
+
+![Relevant information comes first on our proposals](Proposals_ClientPagesFirst.jpg)

@@ -9,6 +9,7 @@ authors:
 - id: 24
   title: Adam Stephensen
 related: []
+redirects: []
 
 ---
 
@@ -26,11 +27,19 @@ There are two types of mocking framework.
 
 This type of mocking framework is very powerful and allows replacing code that wasn’t designed to be replaced.
  This is great for testing legacy code, tightly coupled code with lots of static dependencies (like DateTime.Now) and SharePoint.
-<dl class="badImage">&lt;dt&gt;<img src="monster-mocker.jpg" alt="">&lt;/dt&gt;<dd>Figure: Bad Example – Our class is tightly coupled to our authentication provider, and as we add each test we are adding *more* dependencies on this provider. This makes our codebase less and less maintainable. If we ever want to change our authentication provider “OAuthWebSecurity”, it will need to be changed in the controller, and every test that calls it</dd></dl>
+
+[[badExample]]
+| ![Our class is tightly coupled to our authentication provider, and as we add each test we are adding \*more\* dependencies on this provider. This makes our codebase less and less maintainable. If we ever want to change our authentication provider “OAuthWebSecurity”, it will need to be changed in the controller, and every test that calls it](monster-mocker.jpg)
 ### The Precision Mocker (e.g. Moq)
 
 
 This mocking framework takes advantage of well written, loosely coupled code.
 
 The mocking framework creates substitute items to inject into the code under test.
-<dl class="goodImage">&lt;dt&gt;<img src="precision-mocker-1.jpg" alt="">&lt;/dt&gt;<dd>Figure: Good Example - An interface describes the methods available on the provider</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="precision-mocker-2.jpg" alt="">&lt;/dt&gt;<dd>Figure: Good Example - The authentication provider is injected into the class under test (preferably via the constructor)</dd></dl><dl class="goodImage">&lt;dt&gt;<img src="precision-mocker-3.jpg" alt="">&lt;/dt&gt;<dd>Figure: Good Example - The code is loosely coupled. The controller is dependent on an interface, which is injected into the controller via its constructor. The unit test can easily create a mock object and substitute it for the dependency. Examples of this type of framework are Moq and NSubstitute</dd></dl>
+
+[[goodExample]]
+| ![An interface describes the methods available on the provider](precision-mocker-1.jpg)
+[[goodExample]]
+| ![The authentication provider is injected into the class under test](precision-mocker-2.jpg)(preferably via the constructor)
+[[goodExample]]
+| ![The code is loosely coupled. The controller is dependent on an interface, which is injected into the controller via its constructor. The unit test can easily create a mock object and substitute it for the dependency. Examples of this type of framework are Moq and NSubstitute](precision-mocker-3.jpg)

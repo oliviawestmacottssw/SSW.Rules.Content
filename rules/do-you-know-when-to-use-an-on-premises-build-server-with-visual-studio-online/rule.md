@@ -11,6 +11,7 @@ authors:
 related:
 - do-you-use-the-best-deployment-tool
 - do-you-estimate-all-tasks-at-the-start-of-the-sprint
+redirects: []
 
 ---
 

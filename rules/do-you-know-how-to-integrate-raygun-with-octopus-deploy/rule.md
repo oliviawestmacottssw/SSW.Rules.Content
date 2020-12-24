@@ -9,6 +9,7 @@ authors:
 - id: 3
   title: Eric Phan
 related: []
+redirects: []
 
 ---
 
@@ -20,13 +21,17 @@ To set it up:
 
 1. Under Deployments
 2. Select Octopus Deploy (Set up)
-<dl class="image">&lt;dt&gt; <img src="raygun-octopus-1.jpg" alt="raygun-octopus-1.jpg"> &lt;/dt&gt;</dl>    Raygun will product you with a [PowerShell script](https://raygun.com/docs/deployments/octopus-deploy) to add into your octopus deployment steps that will call the RayGun API and log a new deployment
+
+![](raygun-octopus-1.jpg)    Raygun will product you with a [PowerShell script](https://raygun.com/docs/deployments/octopus-deploy) to add into your octopus deployment steps that will call the RayGun API and log a new deployment
 3. Trigger a new deployment
 4. Then you’ll see the deployment in RayGun
-<dl class="image">&lt;dt&gt;<img src="raygun-octopus-2.png" alt="raygun-octopus-2.png">&lt;/dt&gt;</dl>    Drilling into a deployment you’ll see:
+
+![](raygun-octopus-2.png)    Drilling into a deployment you’ll see:
 
     * New errors
     * Regressions
     * Recurring errors
 
-<dl class="goodImage">&lt;dt&gt; <img src="raygun-octopus-3.jpg" alt="raygun-octopus-3.jpg"> &lt;/dt&gt;<dd>Figure: Good Example – Now you can measure the quality of your deployments <br></dd> </dl>
+
+[[goodExample]]
+| ![Now you can measure the quality of your deployments](raygun-octopus-3.jpg)
