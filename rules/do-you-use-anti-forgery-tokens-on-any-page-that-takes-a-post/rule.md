@@ -13,10 +13,10 @@ redirects: []
 
 ---
 
+To prevent cross-site request forgery (XSRF), you should use Html.AntiForgeryToken. On the action which takes the post request, place the ValidateAntiForgeryToken attribute to enable the request to validate.  Doing this ensures that the post is a direct response to the page that was given to this user so only verified posts will be processed.
 
-<p>To prevent cross-site request forgery (XSRF), you should use Html.AntiForgeryToken. On the action which takes the post request, place the ValidateAntiForgeryToken attribute to enable the request to validate.  Doing this ensures that the post is a direct response to the page that was given to this user so only verified posts will be processed.</p>
-<br><excerpt class='endintro'></excerpt><br>
-<dl class="badImage"><dt><div class="greyBox"><pre>@using (Html.BeginForm()) &#123;
+<!--endintro-->
+<dl class="badImage">&lt;dt&gt;<br><br>::: greybox<br><pre>@using (Html.BeginForm()) &#123;
     @Html.ValidationSummary(true)
 
     &lt;div class=&quot;editor-label&quot;&gt;
@@ -31,7 +31,7 @@ redirects: []
         &lt;input type=&quot;submit&quot; value=&quot;Create&quot; /&gt;
     &lt;/p&gt;
  &#125;
-      </pre></div></dt><dd>Figure&#58; Bad Example – The page is potentially vulnerable to XSRF attacks. Any post will be accepted by the server</dd></dl><dl class="goodImage"><dt><div class="greyBox"><pre>            <em>View&#58;</em>
+      </pre><br>:::<br><br>&lt;/dt&gt;<dd>Figure&#58; Bad Example – The page is potentially vulnerable to XSRF attacks. Any post will be accepted by the server</dd></dl><dl class="goodImage">&lt;dt&gt;<br><br>::: greybox<br><pre>            <em>View&#58;</em>
 
 @using (Html.BeginForm()) &#123;
     @Html.AntiForgeryToken()
@@ -59,6 +59,4 @@ public ActionResult Create(CreateModel model)
     // save data
 &#125;
 
-      </pre></div></dt><dd>Figure&#58; Good Example – The page is no longer vulnerable to XSRF attacks</dd></dl>
-
-
+      </pre><br>:::<br><br>&lt;/dt&gt;<dd>Figure&#58; Good Example – The page is no longer vulnerable to XSRF attacks</dd></dl>
