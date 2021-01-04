@@ -4,7 +4,7 @@ title: Rules to Better Outbound Calls
 guid: 7b785973-edcd-44ec-b098-0a978f49d052
 uid: rules-to-better-outbound-calls
 index:
-- calling-do-you-have-a-good-introduction
+- calling---do-you-have-a-good-introduction
 - do-have-an-outbound-script
 - do-you-ask-open-ended-questions
 - do-you-build-a-yes-ladder-to-your-outbound-script

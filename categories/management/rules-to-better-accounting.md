@@ -12,10 +12,10 @@ index:
 - do-you-have-monthly-financial-meetings
 - do-you-pay-invoices-completely
 - do-you-use-the-best-mobile-app-for-expenses
-- do-you-know-how-to-enter-an-expensify-receipt
+- do-you-know-how-to-enter-an-expensify-receipt-
 - do-you-separate-your-expenses-by-creating-separate-reports-in-expensify
 - do-you-check-your-customers-organization-age-for-prepaid-purposes
-- do-you-know-how-to-enter-and-file-a-hubdoc-receipt
+- do-you-know-how-to-enter-and-file-a-hubdoc-receipt-
 - do-you-treat-freebies-as-real-customers
 - do-you-know-how-to-claim-expense-reimbursements-with-xero-expense-app
 - do-you-use-a-xero-mobile-app-to-check-your-personal-payroll

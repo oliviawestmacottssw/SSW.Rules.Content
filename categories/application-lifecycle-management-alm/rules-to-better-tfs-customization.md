@@ -11,7 +11,7 @@ index:
 - do-you-use-powershell-script-to-create-duplicated-work-item-types
 - do-you-control-the-drop-down-list-value-for-assigned-to-field
 - do-you-have-azure-devops-events-flowing-through-to-microsoft-teams
-- do-you-remove-the-need-to-type-tfs
+- do-you-remove-the-need-to-type-tfs-
 
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.

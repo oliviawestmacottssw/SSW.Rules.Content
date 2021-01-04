@@ -21,9 +21,9 @@ index:
 - rules-to-better-sql-server-schema-deployment
 - rules-to-better-web-api
 - rules-to-better-web-api
-- rules-to-better-web-api-rest
-- rules-to-better-web-api-graphql
-- rules-to-better-web-api-grpc
+- rules-to-better-web-api---rest
+- rules-to-better-web-api---graphql
+- rules-to-better-web-api---grpc
 - rules-to-better-github
 - rules-to-better-open-source-software
 - rules-to-better-typescript
@@ -47,8 +47,8 @@ index:
 - rules-to-better-openapi-specification
 - rules-to-better-power-apps
 - rules-to-better-powershell
-- rules-to-better-sql-databases-admin
-- rules-to-better-sql-databases-developers
+- rules-to-better-sql-databases---admin
+- rules-to-better-sql-databases---developers
 - rules-to-better-unit-tests
 
 ---

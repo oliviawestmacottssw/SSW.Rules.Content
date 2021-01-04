@@ -4,11 +4,11 @@ title: Rules to Better Event Management
 guid: 30628d5f-cd60-4421-a993-8b13e4817342
 uid: rules-to-better-event-management
 index:
-- venue-do-you-use-an-ideal-venue
+- venue---do-you-use-an-ideal-venue
 - do-you-check-the-calendar-when-planning-an-event
 - have-you-got-the-right-speakers
 - do-you-have-a-minimum-number-for-live-events
-- promotion-do-you-help-people-to-know-about-your-events
+- promotion---do-you-help-people-to-know-about-your-events
 - can-you-offer-value-to-sponsors
 - have-you-got-an-adequate-budget
 - do-you-have-a-way-of-selling-tickets

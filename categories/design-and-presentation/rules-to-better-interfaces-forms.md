@@ -4,8 +4,8 @@ title: Rules to Better Interfaces (Forms)
 guid: f46457d7-6684-440e-9a68-b18202963dc4
 uid: rules-to-better-interfaces-forms
 index:
-- being-pedantic-do-you-avoid-ending-labels-text-with-a-colon
-- do-you-align-your-add-edit-delete-buttons-horizontal-and-bottom-right
+- being-pedantic---do-you-avoid-ending-labels-text-with-a-colon
+- do-you-align-your-addeditdelete-buttons-horizontal-and-bottom-right
 - do-you-avoid-data-junk-data-not-manually-entered-by-yourself
 - do-you-avoid-combining-different-entities
 - do-you-avoid-doing-an-embedded-add

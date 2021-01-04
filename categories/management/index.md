@@ -7,9 +7,9 @@ index:
 - rules-to-successful-sales-and-account-management
 - rules-to-better-specification-reviews
 - rules-to-better-product-owners
-- rules-to-better-software-consultants-dealing-with-clients
-- rules-to-better-software-consultants-working-in-a-team
-- rules-to-better-software-consultants-happy-clients
+- rules-to-better-software-consultants---dealing-with-clients
+- rules-to-better-software-consultants---working-in-a-team
+- rules-to-better-software-consultants---happy-clients
 - rules-to-better-designers
 - rules-to-better-crm
 - rules-to-managing-dead-time

@@ -6,7 +6,7 @@ uid: rules-to-better-inbox-management
 index:
 - do-you-clean-your-inbox-per-topics
 - do-you-know-how-to-hand-over-tasks-aka-emails-to-others
-- do-you-know-the-right-way-to-report-bugs-and-give-feedback-suggestions
+- do-you-know-the-right-way-to-report-bugs-and-give-feedbacksuggestions
 - do-you-sort-your-emails-by-received-and-important
 - do-you-always-keep-your-sent-items
 - do-you-group-your-emails-by-conversation-and-date

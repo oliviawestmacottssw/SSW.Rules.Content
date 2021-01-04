@@ -7,7 +7,7 @@ index:
 - do-you-always-use-a-css-preprocessor-language-over-plain-css-such-as-less-or-scss
 - do-you-provide-alternate-sizings-for-bootstrap-columns
 - do-you-set-device-width-when-designing-responsive-web-applications
-- do-you-use-hidden-visible-classes-when-resizing-to-hide-show-content
+- do-you-use-hiddenvisible-classes-when-resizing-to-hideshow-content
 - do-you-use-respond-js-to-target-ie8-with-bootstrap
 - do-you-use-the-best-libraries-for-icons
 - do-you-use-the-css-class-form-horizontal-to-arrange-your-fields-and-labels

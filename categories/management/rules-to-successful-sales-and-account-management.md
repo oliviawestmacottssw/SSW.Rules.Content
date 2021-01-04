@@ -10,9 +10,9 @@ index:
 - do-you-perform-a-background-check
 - do-you-have-clear-engagement-models
 - do-you-know-how-to-justify-your-rates
-- meetings-are-you-prepared-for-the-initial-meeting
-- meetings-do-you-know-the-agenda-for-the-initial-meeting
-- meetings-do-you-have-a-debrief-after-an-initial-meeting
+- meetings---are-you-prepared-for-the-initial-meeting
+- meetings---do-you-know-the-agenda-for-the-initial-meeting
+- meetings---do-you-have-a-debrief-after-an-initial-meeting
 - do-you-incentivize-a-quick-spec-review-sale
 - do-you-schedule-a-follow-up-meeting-after-a-spec-review
 - do-you-explain-the-cone-of-uncertainty-to-people-on-the-fence-about-agile
@@ -43,16 +43,16 @@ index:
 - do-you-always-propose-all-available-options
 - do-you-ensure-your-client-projects-who-dont-use-full-scrum-at-least-have-a-mini-review
 - do-your-sales-people-work-together-and-keep-each-other-accountable
-- bored-developers-do-you-set-maximum-periods-for-a-developer-to-work-at-any-particular-client
+- bored-developers---do-you-set-maximum-periods-for-a-developer-to-work-at-any-particular-client
 - do-you-upsell-your-products-or-services
 - do-you-have-a-cloud-architect-in-your-projects
 - do-you-know-when-to-go-for-a-tender
 - do-you-treat-freebies-as-real-customers
-- fixed-price-do-you-clearly-deliver-the-project-and-start-the-warranty-period
-- fixed-price-do-you-transition-back-to-tm-at-the-end-of-the-warranty-period
-- meetings-do-you-know-the-outcomes-from-your-initial-meeting-spec-review-or-ad-hoc-work
-- scheduling-do-you-know-how-to-book-developers-for-a-project
-- meetings-do-you-know-the-outcomes-from-your-initial-meeting-spec-review-or-ad-hoc-work
+- fixed-price--do-you-clearly-deliver-the-project-and-start-the-warranty-period
+- fixed-price--do-you-transition-back-to-tm-at-the-end-of-the-warranty-period
+- meetings---do-you-know-the-outcomes-from-your-initial-meeting-spec-review-or-ad-hoc-work
+- scheduling---do-you-know-how-to-book-developers-for-a-project
+- meetings---do-you-know-the-outcomes-from-your-initial-meeting-spec-review-or-ad-hoc-work
 
 ---
 You can have the best developers in the world, but if you haven't got a good sales process, no-one will ever use them. It's up to the Sales Manager to get this right.

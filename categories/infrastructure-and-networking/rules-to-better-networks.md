@@ -4,7 +4,7 @@ title: Rules to Better Networks
 guid: 9343671b-9ca9-4085-b307-f7aa2f26d66c
 uid: rules-to-better-networks
 index:
-- do-you-have-a-server-reboot-restart-policy
+- do-you-have-a-server-rebootrestart-policy
 - do-you-have-a-strict-password-security-policy
 - do-you-have-mfa-multi-factor-authentication-enabled
 - do-you-have-password-writeback-enabled
@@ -18,7 +18,7 @@ index:
 - do-you-use-free-or-paid-ssl-certificates
 - do-you-use-service-accounts
 - do-you-use-the-distributed-file-system-for-your-file-shares
-- logon-do-you-have-a-company-wide-word-template
+- logon---do-you-have-a-company-wide-word-template
 
 ---
 Networks are the lifeblood of any business. This is why we have developed these standards for better Networks.

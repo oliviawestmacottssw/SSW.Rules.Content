@@ -16,12 +16,12 @@ index:
 - do-you-use-the-required-property-on-a-field
 - do-you-use-a-unique-index-and-the-required-property-on-a-field
 - do-you-use-prefix-sys-in-table-name-best-practice
-- schema-do-you-always-have-version-tracking-tables
+- schema---do-you-always-have-version-tracking-tables
 - do-you-have-multiple-key-foreign-key-relationships-on-tables-that-map-to-fields-of-a-different-name-upsizing-problem
 - do-you-have-fields-with-multiple-key-indexes-upsizing-problem
 - do-you-have-complex-queries-upsizing-problem
 - do-you-remove-vba-function-names-in-queries-before-upsizing-queries-upsizing-problem
-- do-you-avoid-parameter-queries-with-exists-keyword-and-comparison-operators-or-upsizing-problem
+- do-you-avoid-parameter-queries-with-exists-keyword-and-comparison-operators--or-upsizing-problem
 
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.

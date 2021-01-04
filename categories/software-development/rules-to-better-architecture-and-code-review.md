@@ -16,11 +16,11 @@ index:
 - do-you-generate-the-vs-dependency-graph
 - do-you-know-how-to-laser-in-on-the-smelliest-code
 - do-you-know-the-common-design-principles-part-1
-- do-you-know-the-common-design-principles-part-2-example
+- do-you-know-the-common-design-principles-part-2---example
 - do-you-know-the-common-design-patterns-part-1
-- do-you-know-the-common-design-patterns-part-2-example
+- do-you-know-the-common-design-patterns-part-2---example
 - do-you-look-for-grasp-patterns
-- code-can-you-read-code-down-across
+- code---can-you-read-code-down-across
 - do-you-start-reading-code
 - do-you-use-a-precision-mocker-like-moq-instead-of-a-monster-mocker-like-microsoft-fakes
 - do-you-have-opportunities-to-convert-use-linq-to-entities
@@ -38,7 +38,7 @@ index:
 - do-you-use-subdomains-instead-of-virtual-directories
 - do-you-use-the-best-middle-tier-net-libraries
 - do-you-use-the-best-web-ui-libraries
-- do-you-use-your-ioc-container-to-inject-dependencies-and-not-as-a-singleton-container
+- do-you-use-your-ioc-container-to-inject-dependencies--and-not-as-a-singleton-container
 - do-you-know-the-importance-of-paying-back-technical-debt
 - do-you-know-to-replace-reflection-with-mef
 - mef-do-you-know-not-to-go-overboard-with-dynamic-dependencies

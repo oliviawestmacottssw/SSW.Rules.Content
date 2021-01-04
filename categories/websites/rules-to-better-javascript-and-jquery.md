@@ -22,13 +22,13 @@ index:
 - do-you-streamline-your-development-process-with-npm-and-task-runners
 - do-you-treat-javascript-like-a-real-language
 - do-you-understand-that-with-angular-you-read-and-write-to-the-model-never-to-the-page-aka-forget-about-jquery
-- do-you-use-bundling-and-or-amd
+- do-you-use-bundling-andor-amd
 - do-you-use-jquery-instead-of-javascript
 - do-you-use-lodash-to-perform-your-daily-_foreach
 - do-you-use-the-ready-function
 - do-you-use-the-best-javascript-libraries
 - do-you-use-the-best-web-ui-libraries
-- tools-do-you-know-the-best-tools-to-debug-javascript
+- tools---do-you-know-the-best-tools-to-debug-javascript
 
 ---
 

@@ -9,8 +9,8 @@ index:
 - do-you-do-a-pre-migration-check-on-the-sharepoint-2007-server
 - do-you-confirm-your-list-of-installed-sharepoint-2007-solutions
 - do-you-document-the-details-of-your-sharepoint-2007-web-application
-- export-method-do-you-know-how-to-export-the-solution-if-you-dont-have-the-original-installer-or-source-code-optional
-- import-method-do-you-know-how-to-import-a-solution-if-you-dont-have-the-original-installer-optional
+- export-method---do-you-know-how-to-export-the-solution-if-you-dont-have-the-original-installer-or-source-code-optional
+- import-method---do-you-know-how-to-import-a-solution-if-you-dont-have-the-original-installer-optional
 - do-you-know-how-to-create-a-new-web-application-and-site-collection-in-sharepoint-2010
 - do-you-know-how-to-deploy-the-imported-solutions-to-the-new-site-collection
 - do-you-advise-staff-members-you-are-about-to-perform-a-migration

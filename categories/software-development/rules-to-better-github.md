@@ -16,7 +16,7 @@ index:
 - do-you-know-where-to-discuss-the-backlog
 - do-you-sync-your-github-issues-to-azure-devops
 - do-you-write-nice-commit-messages
-- product-owner-do-you-know-how-to-update-the-backlog
+- product-owner---do-you-know-how-to-update-the-backlog
 - do-you-know-to-mention-someone-with-a-mention-when-you-make-a-pull-request-or-comment-on-github
 
 ---

@@ -38,7 +38,7 @@ index:
 - do-you-add-ssw-code-auditor-nunit-and-microsoft-fxcop-project-files-to-your-solution
 - do-you-know-what-files-not-to-put-into-vss
 - do-you-use-resource-file-for-storing-your-static-script
-- do-you-know-changes-on-datetime-in-net-20-and-net-11-10
+- do-you-know-changes-on-datetime-in-net-20-and-net-1110
 - do-you-know-how-to-use-connection-string-in-net-20
 - do-you-avoid-using-duplicate-connection-string-in-webconfig
 - do-you-use-windows-integrated-authentication-connection-string-in-webconfig
@@ -46,13 +46,13 @@ index:
 - do-you-use-powershell-to-run-batch-files-in-visual-studio
 - do-you-make-instructions-at-the-beginning-of-a-project-and-improve-them-gradually
 - do-you-always-prefix-sql-stored-procedure-names-with-the-owner-in-adonet-code
-- do-you-always-make-file-paths-quoted
+- do-you-always-make-file-paths--quoted
 - do-you-always-use-option-explicit
 - do-you-use-asynchronous-method-and-callback-when-invoke-web-method
 - do-you-create-different-appconfig-for-different-environment
 - do-you-make-your-projects-regenerated-easily
 - do-you-use-comments-not-exclusion-files-when-you-ignore-a-code-analysis-rule
-- c-vbnet-configuration-do-you-know-not-to-use-debug-compilation-in-production-applications
+- cvbnet-configuration---do-you-know-not-to-use-debug-compilation-in-production-applications
 - do-you-know-bak-files-must-not-exist
 - do-you-know-zz-ed-files-must-not-exist-in-source-control
 - do-you-create-your-own-process-template-to-fit-into-your-environment
@@ -64,7 +64,7 @@ index:
 - do-you-know-the-best-criteria-for-evaluating-3rd-party-software
 - do-you-know-the-best-sample-applications
 - do-you-reference-most-dlls-by-project
-- do-you-reference-very-calm-stable-dlls-by-assembly
+- do-you-reference-very-calmstable-dlls-by-assembly
 - do-you-turn-edit-and-continue-off
 - do-you-use-a-project-portal-for-your-team-and-client
 - do-you-use-slack-as-part-of-your-devops

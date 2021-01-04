@@ -13,7 +13,7 @@ index:
 - are-you-always-careful-with-your-spelling-grammar-and-punctuation
 - do-you-organize-the-audience-when-numbers-are-low
 - do-you-tell-the-hashtag-of-your-you-topic-to-your-audience
-- meetings-do-you-always-zoom-in-when-using-a-projector
+- meetings---do-you-always-zoom-in-when-using-a-projector
 - do-you-know-the-basic-dos-and-donts-of-presentingdo-you-know-the-basic-dos-and-donts-of-presenting
 - do-you-know-the-best-boardroom-av-solution
 - do-you-know-to-keep-your-urls-clean

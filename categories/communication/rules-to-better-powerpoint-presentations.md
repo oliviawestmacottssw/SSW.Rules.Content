@@ -9,9 +9,9 @@ index:
 - do-you-know-how-to-change-the-layout-for-your-slides
 - do-you-limit-the-number-of-fonts
 - do-you-limit-the-amount-of-text-on-your-slides
-- slide-master-do-you-have-your-logo-and-tag-line-at-the-bottom
-- prior-is-your-first-slide-pre-setup
-- prior-do-you-setup-a-twitter-backchannel-beforehand
+- slide-master---do-you-have-your-logo-and-tag-line-at-the-bottom
+- prior---is-your-first-slide-pre-setup
+- prior---do-you-setup-a-twitter-backchannel-beforehand
 - do-you-have-a-few-slides-to-find-out-a-little-bit-about-who-is-in-your-audience
 - do-you-have-an-about-the-presenter-slide
 - do-you-use-the-same-agenda-and-summary-slide

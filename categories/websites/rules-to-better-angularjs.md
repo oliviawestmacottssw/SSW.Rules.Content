@@ -10,7 +10,7 @@ index:
 - do-you-consider-seo-in-your-angularjs-application
 - do-you-call-angularjs-services-from-your-kendo-datasource
 - do-you-know-the-best-free-resources-for-angularjs
-- tools-do-you-know-what-angular-tools-to-install-for-an-angular-project
+- tools---do-you-know-what-angular-tools-to-install-for-an-angular-project
 
 ---
 ### \*Depreciated\*

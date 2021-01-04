@@ -14,8 +14,8 @@ index:
 - do-you-name-your-azure-resources-correctly
 - do-you-know-how-to-arrange-your-azure-resources
 - do-you-apply-tags-to-your-azure-resource-groups
-- visualizing-do-you-have-an-azure-resources-diagram
-- do-you-have-an-azure-spend-master
+- visualizing---do-you-have-an-azure-resources-diagram
+- do-you-have-an-azure-spend--master
 - do-you-know-how-to-backup-data-on-sql-azure
 - do-you-configure-your-web-applications-to-use-application-specific-accounts-for-database-access
 - do-you-know-how-to-find-the-closest-azure-data-centre-for-your-next-project

@@ -4,7 +4,7 @@ title: Rules to Better YouTube
 guid: 9ba86c33-8a44-424c-b31d-0273b0cd7633
 uid: rules-to-better-youtube
 index:
-- browsing-do-you-add-the-youtube-center-extension
+- browsing---do-you-add-the-youtube-center-extension
 - do-you-know-the-important-youtube-vocabulary
 - do-you-make-your-videos-youtube-friendly
 - do-you-use-untapped-keywords

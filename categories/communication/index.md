@@ -13,7 +13,7 @@ index:
 - rules-to-better-microsoft-teams
 - rules-to-better-slack
 - rules-to-better-crm-for-users
-- rules-to-better-crm-mail-merge
+- rules-to-better-crm--mail-merge
 - rules-to-better-technical-documentation
 - rules-to-better-presentations
 - rules-to-better-powerpoint-presentations

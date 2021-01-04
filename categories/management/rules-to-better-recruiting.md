@@ -11,8 +11,8 @@ index:
 - does-your-ats-allow-you-to-import-your-candidates-from-any-source
 - do-you-know-the-main-features-of-linkedin-talent-hub
 - do-you-analyse-your-recruitment-data-to-improve-your-process
-- starting-do-you-know-how-to-make-newcomers-feel-welcome
-- leaving-do-you-know-to-prepare-a-special-goodbye-to-a-co-worker-leaving-the-company
+- starting---do-you-know-how-to-make-newcomers-feel-welcome
+- leaving---do-you-know-to-prepare-a-special-goodbye-to-a-co-worker-leaving-the-company
 - do-you-thoroughly-test-employment-candidates
 
 ---

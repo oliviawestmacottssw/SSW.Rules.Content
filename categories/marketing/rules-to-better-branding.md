@@ -19,7 +19,7 @@ index:
 - do-you-brand-your-assets
 - do-you-brand-your-takeaway-coffee-cups
 - do-you-use-identifying-company-logo-motifs
-- linkedin-do-you-have-links-to-your-main-services-on-your-profile
+- linkedin---do-you-have-links-to-your-main-services-on-your-profile
 
 ---
 Branding is the key to success. In the cluttered global market, your company's brand is the way the outside world perceives your product or service. Many business problems revolve around poor branding: your clients might think you're too small for a job, or not technically capable, or charge too much. Common customer grievances could be alleviated by a positive brand image.

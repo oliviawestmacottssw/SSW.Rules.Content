@@ -11,8 +11,8 @@ index:
 - after-work-do-you-only-check-in-code-when-it-has-compiled-and-passed-the-unit-tests
 - before-starting-do-you-follow-a-test-driven-process
 - are-you-very-clear-your-source-control-is-not-a-backup-repository
-- comment-do-you-know-the-comment-convention-you-should-use
-- comments-do-you-enforce-comments-with-check-ins
+- comment---do-you-know-the-comment-convention-you-should-use
+- comments---do-you-enforce-comments-with-check-ins
 - do-you-avoid-limiting-source-control-to-just-code
 - do-you-configure-your-team-system-web-access-to-be-accessible-from-outside-the-network
 - do-you-configure-your-tfs-to-be-accessible-from-outside-the-network
@@ -22,7 +22,7 @@ index:
 - do-you-know-how-to-lay-out-your-solution
 - do-you-know-how-to-refresh-the-cube
 - do-you-know-how-to-rollback-changes-in-tfs
-- do-you-know-the-best-project-version-conventions
+- do-you-know-the-best-projectversion-conventions
 - do-you-know-the-best-tool-to-migration-from-tfvc-to-git
 - do-you-know-the-right-source-control-to-use
 - do-you-know-to-always-create-a-test-if-you-are-fixing-a-bug
@@ -37,8 +37,8 @@ index:
 - do-you-need-to-migrate-the-history-from-vss-to-tfs
 - do-you-use-shared-check-outs
 - do-you-use-the-windows-explorer-integration
-- tfs-master-do-you-have-a-report-to-see-who-has-not-checked-in
-- check-in-before-lunch-and-dinner-do-you-work-in-small-chunks-check-in-after-completing-each-one
+- tfs-master---do-you-have-a-report-to-see-who-has-not-checked-in
+- check-in-before-lunch-and-dinner-do-you-work-in-small-chunks--check-in-after-completing-each-one
 - do-you-know-which-check-in-policies-to-enable
 
 ---

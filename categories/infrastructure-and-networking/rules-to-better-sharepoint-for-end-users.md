@@ -4,7 +4,7 @@ title: Rules to Better SharePoint for End Users
 guid: 0743c4c3-f36c-4fe0-a36b-02ec0d8d5fcf
 uid: rules-to-better-sharepoint-for-end-users
 index:
-- after-adding-a-rule-on-sharepoint-what-steps-should-you-take
+- after-adding-a-rule-on-sharepoint---what-steps-should-you-take
 - do-you-avoid-using-specific-characters-in-friendly-url
 - do-you-know-how-to-name-documents
 - do-you-know-how-to-use-sharepoint-search

@@ -8,15 +8,15 @@ index:
 - do-you-know-when-to-use-react
 - do-you-know-the-best-learning-resources-for-react
 - do-you-know-how-to-easily-start-a-react-project
-- tools-do-you-know-the-best-ide-for-react
-- tools-do-you-know-the-best-build-tool-for-react
+- tools---do-you-know-the-best-ide-for-react
+- tools---do-you-know-the-best-build-tool-for-react
 - do-you-know-the-best-package-manager-for-react
 - do-you-know-the-best-practice-for-managing-state
-- do-you-know-the-best-example-projects-react
-- tools-do-you-know-the-best-ide-for-angular-and-react
-- tools-do-you-know-the-best-packages-and-libraries-to-use-with-react
-- tools-do-you-know-the-best-ui-framework-for-react
-- options-do-you-use-typescript-for-your-angular-and-react-applications
+- do-you-know-the-best-example-projects--react
+- tools---do-you-know-the-best-ide-for-angular-and-react
+- tools---do-you-know-the-best-packages-and-libraries-to-use-with-react
+- tools---do-you-know-the-best-ui-framework-for-react
+- options---do-you-use-typescript-for-your-angular-and-react-applications
 
 ---
 If you still need help, [visit our React consulting page](https&#58;//www.ssw.com.au/ssw/Consulting/React.aspx) and book in a consultant.

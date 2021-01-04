@@ -5,9 +5,9 @@ guid: 17781785-2c7f-4e46-be7e-4fb07f9b4553
 uid: rules-to-better-sharepoint-virtualisation
 index:
 - what-does-a-sharepoint-image-need
-- how-does-the-sysprep-process-work-what-does-the-scripts-do-why-is-this-process-so-complicated
+- how-does-the-sysprep-process-work-what-does-the-scripts-do-why-is-this-process-so-complicated-
 - how-do-i-create-my-own-sharepoint-vm-to-play-with
-- how-do-i-update-and-create-a-new-version-of-the-sysprep-vm
+- how-do-i-update-and-create-a-new-version-of-the-sysprep-vm-
 - what-are-the-different-images-available
 - why-do-we-use-vm-for-sharepoint-development
 

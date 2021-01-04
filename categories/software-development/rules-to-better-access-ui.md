@@ -8,7 +8,7 @@ index:
 - do-you-target-the-correct-resolution-when-designing-forms
 - do-you-use-appropriate-and-user-friendly-icons
 - do-you-use-clean-designs-when-creating-forms
-- do-you-use-ok-cancel-buttons
+- do-you-use-okcancel-buttons
 
 ---
 When designing their UI, Access developers often make these common mistakes:

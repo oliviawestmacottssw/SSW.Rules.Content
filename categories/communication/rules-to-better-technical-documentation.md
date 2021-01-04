@@ -4,7 +4,7 @@ title: Rules to Better Technical Documentation
 guid: 961f2035-1540-4425-9b29-0d6273ac0726
 uid: rules-to-better-technical-documentation
 index:
-- web-content-like-wikipedia-instructional-style-do-you-write-in-the-newsreader-and-eyewitness-style
+- web-content-like-wikipediainstructional-style---do-you-write-in-the-newsreader-and-eyewitness-style
 - do-you-know-to-capitalize-tech-terms-correctly
 - do-you-know-how-to-capitalize-headings-and-titles
 - do-you-highlight-actions-correctly-in-your-document
@@ -34,11 +34,11 @@ index:
 - do-you-add-a-prefix-on-blog-posts-titles
 - do-you-know-all-the-symbols-on-the-keyboard
 - do-you-avoid-using-gendered-pronouns
-- do-you-know-to-use-lowercase-after
+- do-you-know-to-use-lowercase-after--
 - do-you-produce-the-best-end-user-documentation
 - do-you-use-generic-and-consistent-names-on-examples
 - do-you-use-relevant-words-on-your-links
-- spelling-do-you-write-the-word-email-in-the-correct-format
+- spelling---do-you-write-the-word-email-in-the-correct-format
 - tiny-do-you-know-scrum-should-be-capitalized
 
 ---

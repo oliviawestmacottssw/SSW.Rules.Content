@@ -34,7 +34,7 @@ index:
 - do-you-use-your-robotstxt-file-effectively
 - do-you-keep-your-files-under-the-google-file-size-limit
 - do-you-register-your-domain-for-a-long-time
-- spelling-do-you-use-us-english
+- spelling---do-you-use-us-english
 - do-you-know-the-iis-things-to-do
 - do-you-fix-your-ugly-urls
 - do-you-use-meta-description-and-meta-keywords-tags

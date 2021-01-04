@@ -18,7 +18,7 @@ index:
 - do-you-stress-tests-your-infrastructure-before-testing-your-application
 - do-you-know-the-highest-hit-pages
 - do-you-prioritize-performance-optimization-for-maximum-business-value
-- do-you-use-async-await-for-all-io-bound-operations
+- do-you-use-asyncawait-for-all-io-bound-operations
 - do-you-establish-a-baseline
 
 ---

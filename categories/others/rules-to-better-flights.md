@@ -15,7 +15,7 @@ index:
 - do-you-know-what-sort-of-insurance-to-buy-when-travelling
 - do-you-keep-your-finance-manager-in-the-loop
 - do-you-check-if-your-qantas-flight-is-eligible-for-a-bid-now-upgrade
-- accommodation-do-you-know-the-best-online-accommodation-websites
+- accommodation---do-you-know-the-best-online-accommodation-websites
 - do-you-know-how-to-get-the-most-out-of-your-credit-card
 - do-you-take-advantage-of-business-rewards-programs
 
