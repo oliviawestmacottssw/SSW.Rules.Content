@@ -20,6 +20,5 @@ index:
 - do-you-know-to-mention-someone-with-a-mention-when-you-make-a-pull-request-or-comment-on-github
 
 ---
-
 Rules to Better GitHub
 
