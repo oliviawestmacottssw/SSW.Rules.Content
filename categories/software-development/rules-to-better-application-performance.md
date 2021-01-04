@@ -22,6 +22,5 @@ index:
 - do-you-establish-a-baseline
 
 ---
-<p>​​</p>
 
 
