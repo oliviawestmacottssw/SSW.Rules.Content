@@ -16,7 +16,7 @@ redirects: []
 
 <p>
           Export each single entity customization and keep each entity customization in a
-          separate file, like&#58;
+          separate file, like:
         </p>
         <ul>
           <li>Account_11022009.xml </li>
@@ -34,10 +34,10 @@ redirects: []
         </p>
         <dl class="image">
           <dt>
-            <img src="/PublishingImages/CRM_CUS_01.JPG" alt="Import single customization" />
+            <img src="CRM_CUS_01.JPG" alt="Import single customization" />
           </dt>
           <dd>
-            Figure&#58; You can select the single customization to import
+            Figure: You can select the single customization to import
           </dd>
         </dl>
 
