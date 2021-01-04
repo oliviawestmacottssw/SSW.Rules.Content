@@ -37,6 +37,5 @@ index:
 - do-you-write-integration-test-for-dependencies-eg-dlls
 
 ---
-<p>​​<br></p>
 
 
