@@ -11,9 +11,7 @@ redirects: []
 
 ---
 
+Passing date times is good. Just as a note that it is vital that you send any date/times with time zone information and at UTC.
 
-<p>Passing date times is good. Just as a note that it is vital that you send any date/times with time zone information and at UTC.</p>
-<br><excerpt class='endintro'></excerpt><br>
-<dl class="image"><dt><img src="timestamps.jpg" alt="" /></dt><dd>Figure: Include date and time information</dd></dl>
-
-
+<!--endintro-->
+<dl class="image">&lt;dt&gt;<img src="timestamps.jpg" alt="">&lt;/dt&gt;<dd>Figure: Include date and time information</dd></dl>
