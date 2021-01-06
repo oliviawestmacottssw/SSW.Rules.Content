@@ -1,0 +1,35 @@
+---
+type: rule
+archivedreason: 
+title: Do you turn an email into an Azure DevOps Work Item before starting work?
+guid: 98d88bcd-85a4-4b7a-8612-2affd49021d5
+uri: do-you-turn-an-email-into-an-azure-devops-work-item-before-starting-work
+created: 2013-06-27T18:28:23.0000000Z
+authors:
+- title: Adam Cogan
+  url: https://ssw.com.au/people/adam-cogan
+- title: Damian Brady
+  url: https://ssw.com.au/people/damian-brady
+- title: Drew Robson
+  url: https://ssw.com.au/people/drew-robson
+related: []
+redirects: []
+
+---
+
+If a product owner sends an email to the development team with a request, that email should be turned into an Azure DevOps Work Item before any work is started or the work is prioritized on the backlog.
+
+<!--endintro-->
+<dl><p class="ssw15-rteElement-P">If the email's contents or subject do not need changing, then no response email is required. This would create another unnecessary email in the world.<br></p></dl>
+However, if the subject is unclear, send a response as per the rules [Do you know when you should change a subject?](/WhenToChangeEmailSubject) and [Do you realize the importance of a good email Subject?](/ImportanceOfAGoodSubject)
+
+If the request from the client is too large for one Work Item, then it will need to be turned into multiple Work Items as per the rule  [Do you keep your PBIs smaller than 2 days' effort?](/TaskUnderFourHours) In this case, you will need to let the client know this and include URLs to each Work Item.
+
+**Note:** Once you've moved the email into Azure DevOps as a work item, you should delete the original email from your inbox or move it to an Outlook folder called "Moved to Azure DevOps" to avoid duplication.
+<dl class="image"><dt> 
+      <img src="2014-11-10_13-17-43-compressor.png" alt="2014-11-10_13-17-43-compressor.png" style="width:650px;"> 
+   </dt><dd>Figure: Now the new Product Backlog Item is in the Product Backlog<br></dd></dl>
+### Related rules
+
+* [Do you know the 3 steps to a PBI?](/Do-you-know-the-3-steps-to-a-PBI)
+* [Do you know when you use @ mentions in a PBI?](/when-you-use-@-mentions-in-a-PBI)
