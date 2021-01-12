@@ -30,4 +30,7 @@ In an open source project the easy way to ensure that all developers share and a
 * Solution and project folder structure and naming
 * Unit testing requirements
 
-<dl class="image"><dt><img src="guidelines-opensource.png" alt="guidelines-opensource.png" style="width:600px;height:660px;"></dt><dd>Figure: Good Example - Adding an ENGINEERING-GUIDELINES.md to your project clearly defines the engineering practices and guidelines that must be required for contributors pull requests to be accepted</dd></dl>
+
+::: good  
+![Figure: Good Example - Adding an ENGINEERING-GUIDELINES.md to your project clearly defines the engineering practices and guidelines that must be required for contributors pull requests to be accepted](guidelines-opensource.png)  
+:::

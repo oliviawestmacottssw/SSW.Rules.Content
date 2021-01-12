@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- quality---do-you-implement-an-error-logger-that-has-notifications
+redirects: []
 
 ---
 

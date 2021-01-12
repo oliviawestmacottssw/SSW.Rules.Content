@@ -17,12 +17,19 @@ related:
 - do-you-use-great-email-signatures
 redirects:
 - have-a-companywide-word-template
-- logon---do-you-have-a-company-wide-word-template
 
 ---
 
 A company-wide template will be implemented, so users have automatic footers to save time and give better branding.
-<dl class="badImage"><dt><img src="word-template-bad.jpg" alt="word-template-bad.jpg"></dt><dd>Figure: Bad Example - creating an email/document does not have the company templates</dd></dl><dl class="goodImage"><dt> <img src="word-template-good.jpg" alt="word-template-good.jpg"></dt><dd>Figure: Good Example - creating an email/document with the company templates<br></dd></dl>
+
+::: bad  
+![Figure: Bad Example - creating an email/document does not have the company templates](word-template-bad.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - creating an email/document with the company templates](word-template-good.jpg)  
+:::  
+
 <!--endintro-->
 
 How to have a company-wide Word template:
@@ -35,15 +42,15 @@ e.g. a PowerShell login script like https://github.com/SSWConsulting/SSWSysAdmin
 
 
 
-ECHO Copy Office Templates To Workstation >> %LogonLogFile%
+ECHO Copy Office Templates To Workstation &gt;&gt; %LogonLogFile%
 call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\Normal.dot" "%APPDATA%\Microsoft\Templates\Normal.dot" %LogonLogFile%
 call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\Normal.dotm" "%APPDATA%\Microsoft\Templates\Normal.dotm" %LogonLogFile%
 call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\ProposalNormalTemplate.dotx" "%APPDATA%\Microsoft\Templates\ProposalNormalTemplate.dotx" %LogonLogFile%
 call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dot" "%APPDATA%\Microsoft\Templates\NormalEmail.dot" %LogonLogFile%
 call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\Microsoft\_Normal.dotx" "%APPDATA%\Microsoft\Templates\Microsoft\_Normal.dotx" %LogonLogFile%
 call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\Blank.potx" "%APPDATA%\Microsoft\Templates\Blank.potx" %LogonLogFile%
-xcopy /Y "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dotm" "%APPDATA%\Microsoft\Templates\" >> %LogonLogFile%
-xcopy /Y "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dotx" "%APPDATA%\Microsoft\QuickStyles\" >> %LogonLogFile%
+xcopy /Y "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dotm" "%APPDATA%\Microsoft\Templates\" &gt;&gt; %LogonLogFile%
+xcopy /Y "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dotx" "%APPDATA%\Microsoft\QuickStyles\" &gt;&gt; %LogonLogFile%
 ECHO Templates Copied
 
 
@@ -60,7 +67,8 @@ You can automatically have your SSW Word doc template on sign-in via a script. S
 Good Example - New Login script on Github
 :::
 
-<dt><br></dt>
+
+
 
 **Note #1:** We don't want people using .RTF emails so we include this message in SSW.rtf. Be aware that we don't want to use RTF because of [Remove RTF as an option or explain when it is a good choice](https://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/Outlook.aspx#RemoveRTF).
 

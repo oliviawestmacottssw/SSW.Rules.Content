@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - lockers-for-employees
-- office-environment---do-you-supply-your-employees-with-a-locker
 
 ---
 
@@ -28,13 +27,27 @@ It's important to provide a physical space for each employee to store their stuf
 * Encourage the chucking of paper - it should not be a place to keep all of your scraps of papers. Paper tends to get lost and should be transferred to tasks as 'To Myself' emails and then chuck. See[Rules to better Email](/rules-to-better-email) for more information.
 
 
-
-![](drawer-bad.jpg)
-<dl class="badImage"><dd>Figure: Bad example - Having a drawer and a mailbox takes too much space (2 different locations) and larger packages won't fit<br></dd></dl><dl class="ssw15-rteElement-ImageArea"><img src="Lockers.jpg" alt="Lockers.jpg" style="margin:0px 5px;width:650px;height:488px;"></dl>
+![drawer-bad.jpg](drawer-bad.jpg)
+Figure: Bad example - Having a drawer and a mailbox takes too much space (2 different locations) and larger packages won't fit
+![Lockers.jpg](Lockers.jpg)
 
 ::: good
 Figure: OK example - Stepped lockers are great as they allow jackets (however missing the mail hole)
 
 :::
 
-<dl><dl class="ssw15-rteElement-ImageArea"> <img src="locker-good.jpg" alt="locker-good.jpg" style="width:650px;"> </dl><br><br>::: good<br>Figure: Good example - A locker with mail slot is ideal for both mail and packages<span style="color:#333333;background-color:initial;"></span><br>:::<br><br><p class="ssw15-rteElement-P"></p><dl class="ssw15-rteElement-ImageArea"><img src="clean desk.jpg" alt="clean desk.jpg" style="font-weight:bold;color:#444444;margin:5px;width:650px;height:488px;"></dl><dd><dl class="ssw15-rteElement-ImageArea"><br><br>::: good<br><dl class="ssw15-rteElement-ImageArea">Figure: This is how your desk should look when you leave everyday.</dl><br>:::<br><br></dl><p class="ssw15-rteElement-InfoBox">Note: At Microsoft Canberra and other offices, they call this "Keep your office in your bag". See the <a href="/do-you-use-the-5s-desk-space-organization-system-invented-by-the-japanese">5S methodology</a> Rule for more details. <br></p></dd></dl>
+![locker-good.jpg](locker-good.jpg)
+
+Note: At Microsoft Canberra and other offices, they call this "Keep your office in your bag". See the [5S methodology](/do-you-use-the-5s-desk-space-organization-system-invented-by-the-japanese) Rule for more details.
+
+::: good
+Figure: This is how your desk should look when you leave everyday.
+:::
+
+![clean desk.jpg](clean desk.jpg)
+
+
+
+:::
+Figure: Good example - A locker with mail slot is ideal for both mail and packages
+::: good

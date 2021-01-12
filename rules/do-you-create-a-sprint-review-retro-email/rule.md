@@ -13,8 +13,7 @@ authors:
 - title: Chris Briggs
   url: https://ssw.com.au/people/chris-briggs
 related: []
-redirects:
-- do-you-create-a-sprint-reviewretro-email
+redirects: []
 
 ---
 
@@ -22,7 +21,7 @@ After any Sprint Review and Retrospective, an email should be sent to all the st
 
 <!--endintro-->
 
-* Subject: <client name=""> Sprint XX Review/Retro </client>
+* Subject: &lt;Client Name&gt; Sprint XX Review/Retro
 * This is a reply to the <br>      [Sprint Forecast email](/Pages/Do-you-create-a-Sprint-Forecast-email.aspx)
 * Screenshot of Burndown from Azure DevOps
 * Breakdown of work completed (including current code coverage value)
@@ -67,9 +66,11 @@ Attendees:        *(Optional as they may be in the to and CC)*
 As per [https://rules.ssw.com.au/do-you-know-what-happens-at-a-sprint-retrospective-meeting](/do-you-know-what-happens-at-a-sprint-retrospective-meeting), we review:
 
 1. Sprint Burndown (a quick overview of the sprint)
-<dl class="image"><dt>
-         <img src="burndown.JPG" alt="">
-      </dt><dd>Figure: Sprint Burndown</dd></dl>
+
+::: ok  
+![Figure: Sprint Burndown](burndown.JPG)  
+:::  
+
 2. Code Coverage (hopefully tests are increasing each sprint)
 XXX
 
@@ -77,17 +78,20 @@ XXX
 XXX
 
 4. Burnup (for the release - the whole project, how are we tracking for the big picture?)
-<dl class="image"><dt>
-         <img alt="Release Burnup.jpg" src="Release Burnup.jpg" style="width:600px;">
-      </dt><dd>Figure: Release Burnup</dd></dl>
+
+::: ok  
+![Figure: Release Burnup](Release Burnup.jpg)  
+:::  
+
 5. Production Deployments (How many times did we deploy to Production?)
-<dl class="image"><dt>
-         <img alt="production-deploy.jpg" src="production-deploy.png" style="width:600px;">
-      </dt><dd>Figure: Deployments from Octopus Deploy</dd></dl>
+
+::: ok  
+![Figure: Deployments from Octopus Deploy](production-deploy.png)  
+:::  
+
 6. Application Health Overview Timeline (For the entire Sprint)
 
-
-![](Application Insights.jpg)
+![Application Health Overview Timeline.png](Application Insights.jpg)
 
 ### R&D 
 
@@ -97,9 +101,9 @@ XXX
 **Did we do any experimental work?
 **
 
-<insert details="" of="" any="" trial/error="" processes,="" and="" ensure="" all="" detail="" is="" captured="" as="" per="" https://rules.ssw.com.au/do-you-record-your-failures=""><br></insert>
+&lt;insert details of any trial/error processes, and ensure all detail is captured as per https://rules.ssw.com.au/do-you-record-your-failures&gt;
 
-<insert details="" of="" any="" problems="" for="" which="" no="" solutions="" existed,="" and="" ensure="" detail="" is="" captured="" as="" per="" https://rules.ssw.com.au/do-you-record-your-research-under-the-pbi=""><br><br></insert>
+&lt;insert details of any problems for which no solutions existed, and ensure detail is captured as per https://rules.ssw.com.au/do-you-record-your-research-under-the-pbi&gt;
 
 ### Sprint Retrospective
 
@@ -107,22 +111,22 @@ XXX
 As part of our commitment to inspect and adapt as a team we conduct a Sprint Retrospective at the end of every Sprint. Here are the results of our Sprint Retrospective:
 
 **What went well?** 
-<insert what="" went="" well="" from="" retro=""><br></insert>
+&lt;insert what went well from retro&gt;
 
 **What didn’t go so well?** 
-<insert what="" did="" not="" went="" well="" from="" retro=""></insert>
+&lt;insert what did not went well from retro&gt;
 
 **What improvements will be made for the next Sprint?** 
-<insert what="" improvements="" will="" be="" made="" for="" the="" next="" sprint=""></insert>
+&lt;insert what improvements will be made for the next Sprint&gt;
 
 **Definition of Ready** ***- Optional***
 
-<insert the="" definition="" of="" ready.="" normally="" that="" the="" pbis="" are="" sized="" with="" acceptance="" criteria="" added=""></insert>
+&lt;insert the definition of Ready. Normally that the PBIs are Sized with Acceptance criteria added&gt;
 
 **Definition of Done** ***- Optional***
 
-<insert definition="" of="" done.="" normally="" that="" it="" compiles,="" meets="" the="" acceptance="" criteria,="" and="" a="" test="" please="" has="" been="" sent="" if="" relevant=""></insert>
+&lt;insert Definition of Done. Normally that it compiles, meets the acceptance criteria, and a test please has been sent if relevant&gt;
 
-<this is="" as="" per="" the="" rule:=""></this>[https://rules.ssw.com.au/do-you-create-a-sprint-review-retro-email](/do-you-create-a-sprint-review-retro-email) />
+&lt;This is as per the rule:        [https://rules.ssw.com.au/do-you-create-a-sprint-review-retro-email](/do-you-create-a-sprint-review-retro-email) /&gt;
 
 **Figure: Good Example - Template for Sprint Review/Retro Email. Subject: Sprint xxx Review/Retro**

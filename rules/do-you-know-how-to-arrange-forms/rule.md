@@ -20,7 +20,15 @@ There are two ways of arranging labels and inputs on an html form, but each shou
 <!--endintro-->
 
 When arranging labels and inputs on your html form, align labels next to the inputs on medium and large displays.
-<dl class="image"><dt> <img src="forms-desktop.jpg" alt=""> </dt><dd>Figure: Labels besides their respective inputs on regular displays</dd></dl>
+
+::: ok  
+![Figure: Labels besides their respective inputs on regular displays](forms-desktop.jpg)  
+:::  
+
 When arranging labels and inputs on your html form, align labels above inputs on small and extra-small displays.
-<dl class="image"><dt> <img src="forms-mobile.jpg" alt=""> </dt><dd>Figure: Labels above their respective input on smaller displays</dd></dl>
+
+::: ok  
+![Figure: Labels above their respective input on smaller displays](forms-mobile.jpg)  
+:::  
+
 Bootstrap makes this easy. Read [Do you use the css class "form horizontal" to arrange your fields and labels?](/do-you-use-the-css-class-form-horizontal-to-arrange-your-fields-and-labels) to know more.

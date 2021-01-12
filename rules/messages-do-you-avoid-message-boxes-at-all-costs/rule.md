@@ -7,8 +7,7 @@ uri: messages-do-you-avoid-message-boxes-at-all-costs
 created: 2012-11-27T04:24:26.0000000Z
 authors: []
 related: []
-redirects:
-- messages---do-you-avoid-message-boxes-at-all-costs
+redirects: []
 
 ---
 
@@ -25,6 +24,11 @@ Exception: Only use them in the following scenarios:
 * Confirming the deletion of a record
 * Kicking off a long running process that cannot be cancelled
 
-<dl class="badImage"><dt><img alt="Move Error MSG to the right " src="../../assets/MoveErrorMSG.jpg"></dt>
-<dd>Figure: Bad example - could the information in this message box be moved into the panel on the right</dd></dl><dl class="goodImage"><dt><img alt="Embedded message box" src="../../assets/oneplacemailerror.png"></dt>
-<dd>Figure: Good example - An error message that does not pop up and block your user</dd></dl>
+
+::: bad  
+![Figure: Bad example - could the information in this message box be moved into the panel on the right](../../assets/MoveErrorMSG.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - An error message that does not pop up and block your user](../../assets/oneplacemailerror.png)  
+:::

@@ -20,9 +20,11 @@ It  is important when working in multiple projects to ensure consistent practice
 Structuring your repositories consistently makes your project feel professional, and makes it easier to work with as it is predictable.
 
 <!--endintro-->
-<dl class="badImage"><dt> 
-      <img src="structure-github-bad.jpg" alt=""> 
-   </dt><dd>Figure: Bad Example – The folder containing the source code is called ‘trunk’ rather than ‘src’. There is no docs folder containing the important documents as per 
-      <a href="/do-you-review-the-documentation">Do you review the documentation?</a></dd></dl><dl class="goodImage"><dt> 
-      <img src="structure-github-good.jpg" alt="" style="width:560px;"> 
-   </dt><dd>Figure: Good example - All documentation Is in the ‘docs’ folder, samples are in the ‘samples’ folder and all the source code is in the ‘src’ folder </dd></dl>
+
+::: bad  
+![Figure: Bad Example – The folder containing the source code is called ‘trunk’ rather than ‘src’. There is no docs folder containing the important documents as per        Do you review the documentation?](structure-github-bad.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - All documentation Is in the ‘docs’ folder, samples are in the ‘samples’ folder and all the source code is in the ‘src’ folder](structure-github-good.jpg)  
+:::

@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- forms---do-you-know-when-to-use-links-and-when-to-use-buttons
+redirects: []
 
 ---
 
@@ -39,4 +38,15 @@ That being said, there are a couple of exceptions to this rule.
 1. If you want the user to be able to right click and "Open in New Window"
 2. If you want a consistent design feel (and there is no confusion that the link is accepting data)
 
-<dl class="image"><dt><img src="LinksExample.gif" alt="Links Example"></dt><dd>Figure: An exception to the rule - an "Update" button inside the datagrid would look inconsistent</dd></dl><dl class="badImage"><dt><img src="LinkVsButton.gif" alt="Links Vs Button"></dt><dd>Figure: Bad Example - The "sign in" hyperlink should be a button</dd></dl><dl class="goodImage"><dt><img src="Logon.gif" alt="Correct sign in"></dt><dd>Figure: Good Example - This is a perfect example of how a good sign in screen should look</dd></dl>
+
+::: ok  
+![Figure: An exception to the rule - an "Update" button inside the datagrid would look inconsistent](LinksExample.gif)  
+:::  
+
+::: bad  
+![Figure: Bad Example - The "sign in" hyperlink should be a button](LinkVsButton.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - This is a perfect example of how a good sign in screen should look](Logon.gif)  
+:::

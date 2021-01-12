@@ -15,8 +15,7 @@ redirects:
 This is a common item that trips people up: taskbar is one word, not two.  
 <!--endintro-->
 
-
-![](taskbar-not-task-bar.gif)
+![Taskbar is one word, not two ](taskbar-not-task-bar.gif)
 
 
 ::: good

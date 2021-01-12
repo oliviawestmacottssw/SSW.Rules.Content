@@ -23,7 +23,7 @@ class CreateShoppingListHandler : SPItemEventReceiver
 
 <br>            if(float.TryParse(properties.ListItem.Fields["Price"].ToString(), out price) && float.TryParse(properties.ListItem.Fields["Cost"].ToString(), out cost))
 <br>            {
-<br>                if(price < cost)
+<br>                if(price &lt; cost)
 <br>                {
 <br>                    properties.ErrorMessage = "The cost must not be less than the price";
 <br>                    properties.Cancel = true;
@@ -31,8 +31,8 @@ class CreateShoppingListHandler : SPItemEventReceiver
 <br>            }            
 <br>        }
 <br>    }Bad example: using custom code – creating a<br>custom event receiver on the item (the item adding event or item updating<br>event)
-
-![using no code – just using the<br>field validation on a list](ListValidation.jpg)
+![](ListValidation.jpg)
+Good example: using no code – just using the<br>field validation on a list
  A demo of this from Andrew Connell on
 http://channel9.msdn.com/learn/courses/SharePoint2010Developer/ListsAndSchemas/FieldandListItemValidation/
 <!--endintro-->

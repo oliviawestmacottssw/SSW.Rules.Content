@@ -23,4 +23,4 @@ Hi Ed,
 
 :::
 
-<dl class="code">    <dd>Figure&#58; Always call the client to let them know that you are about to send a quote across, then send an &quot;<a href="/do-you-send-＂as-per-our-conversation＂-emails"> As per our conversation</a>&quot; email.</dd></dl>
+ Figure: Always call the client to let them know that you are about to send a quote across, then send an "" email.[As per our conversation](/do-you-send-＂as-per-our-conversation＂-emails)

@@ -16,7 +16,8 @@ redirects: []
 You should never use concatenated words in the subject or body of an email, no matter how much better you think it is. You are misguided, always use a “space”, “&” or “and” as your spell checker will then catch mistakes.  
 <!--endintro-->
 
+![clip_image001](RuleNeverConcatenateWordsBad.png "clip_image001")
 
-![Bad Example, “CatagoryBrand” will not be spell checked and the mistake overlooked](RuleNeverConcatenateWordsBad.png "clip_image001")
-
-![Good example, spellchecker can check all words for correctness.](RuleNeverConcatenateWordsGood.png "clip_image003")
+Figure: Bad Example, “CatagoryBrand” will not be spell checked and the mistake overlooked 
+![clip_image003](RuleNeverConcatenateWordsGood.png "clip_image003") 
+Figure: Good example, spellchecker can check all words for correctness.

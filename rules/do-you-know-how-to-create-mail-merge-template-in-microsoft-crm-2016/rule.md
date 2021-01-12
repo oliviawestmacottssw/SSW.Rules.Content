@@ -23,15 +23,20 @@ The following instructions to create Microsoft CRM 2016 mail merge template requ
 3. Click <br>       **Mail Merge Templates** on right content panel.
 4. Click button <br>       **New** to create the new mail merge template.
 5. Fill in the mail merge template details and leave the <br>       **File Attachment** fields empty.
-<dl class="image"><dt>
-         <img src="mail-merge-1.jpg" alt="" style="margin:5px;">
-      <br></dt><dd>Figure: Fill in mail merge template details</dd></dl>6. Click the <br>       **Save** button to save your template.
+
+::: ok
+![Figure: Fill in mail merge template details](mail-merge-1.jpg)
+:::
+6. Click the <br>       **Save** button to save your template.
 7. After you save the template, click the button <br>       **Create Template in Word** to start creating the template content.
-<dl class="image"><dt>
-         <img src="mail-merge-2.jpg" alt="" style="margin:5px;">
-      <br></dt><dd>Figure: Create Mail Merge Template</dd></dl>8. A Microsoft Word document will be open on your machine.
+
+::: ok
+![Figure: Create Mail Merge Template](mail-merge-2.jpg)
+:::
+8. A Microsoft Word document will be open on your machine.
 9. Click Addins | CRM
 10. Follow on screen instructions on the right panel of the word document to create the template.
-<dl class="image"><dt>
-         <img src="mail-merge-3.jpg" alt="mail-merge-3.jpg" style="margin:5px;">
-      <br></dt><dd>Figure: Follow the instructions to create template content<br><br></dd></dl>
+
+::: ok
+![Figure: Follow the instructions to create template content](mail-merge-3.jpg)
+:::

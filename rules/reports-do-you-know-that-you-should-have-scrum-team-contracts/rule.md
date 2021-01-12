@@ -7,8 +7,7 @@ uri: reports-do-you-know-that-you-should-have-scrum-team-contracts
 created: 2010-04-09T16:29:04.0000000Z
 authors: []
 related: []
-redirects:
-- reports---do-you-know-that-you-should-have-scrum-team-contracts
+redirects: []
 
 ---
 

@@ -7,8 +7,7 @@ uri: messages-do-you-clearly-show-a-pass-fail-or-warning
 created: 2012-11-27T04:38:51.0000000Z
 authors: []
 related: []
-redirects:
-- messages---do-you-clearly-show-a-pass-fail-or-warning
+redirects: []
 
 ---
 
@@ -16,15 +15,23 @@ When a user looks at a test result, they want to be quickly informed. Therefore,
 
 <!--endintro-->
 
-* For a pass, the message should be green in color, and a tick next to the message. 
-![](../../assets/Success-lg.gif)
-* For a fail, the message should be red in color, and a cross next to the message. 
-![](../../assets/Fail-lg.gif)
-* For a warning, the message should be yellow/orange in color, and an exclamation mark next to the message. 
-![](../../assets/Warning-lg.gif)
+* For a pass, the message should be green in color, and a tick next to the message. ![](../../assets/Success-lg.gif)
+* For a fail, the message should be red in color, and a cross next to the message. ![](../../assets/Fail-lg.gif)
+* For a warning, the message should be yellow/orange in color, and an exclamation mark next to the message. ![](../../assets/Warning-lg.gif)
 
-<dl class="badImage"><dt><img alt="Pass and fail are not clear" src="../../assets/RulesT1.gif" width="476" height="123"></dt>
-<dd>Figure: Bad Example - Pass and fail are not clear</dd></dl><dl class="image"><dt><img alt="Green text and tick for pass, red text and cross for fail (Better)" src="../../assets/RulesT2.gif" width="477" height="147"></dt>
-<dd>Figure: Green text and tick for pass, red text and cross for fail (Better)</dd></dl><dl class="goodImage"><dt><img alt="Status on windows forms" src="../../assets/RulesT4.gif" width="426" height="99"></dt>
-<dd>Figure: Good Example - Status on windows forms</dd></dl><dl class="goodImage"><dt><img alt="Microsoft Update uses 3 icons to indicate different status, and good quality of Images too" src="../../assets/MicrosoftUpdate.gif" width="526" height="341"></dt>
-<dd>Figure: Good Example - Microsoft Update uses 3 icons to indicate different status, and good quality of Images too</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Pass and fail are not clear](../../assets/Success-lg.gif)  
+:::  
+
+::: ok  
+![Figure: Green text and tick for pass, red text and cross for fail (Better)](../../assets/Success-lg.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - Status on windows forms](../../assets/Success-lg.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - Microsoft Update uses 3 icons to indicate different status, and good quality of Images too](../../assets/Success-lg.gif)  
+:::

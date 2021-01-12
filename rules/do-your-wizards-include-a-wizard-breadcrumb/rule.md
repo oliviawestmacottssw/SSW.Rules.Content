@@ -29,9 +29,11 @@ Headings that direct the user around your web page are       important as it giv
 * Payment Details - Select how you pay and enter details
 * Confirmation of Purchase - Display information about their purchase
 
-<dl class="image"><dt> 
-      <img alt="Example Header" src="../../assets/ExamleHeadingforShoppingBasket.gif" style="margin:5px;width:505px;">
-   </dt><dd>Figure: Simple Header that tells the user where they have come from</dd></dl>
+
+::: ok  
+![Figure: Simple Header that tells the user where they have come from](../../assets/ExamleHeadingforShoppingBasket.gif)  
+:::  
+
 **Amazon Example:**
 
 * Welcome Icon - Ordering from Amazon.com is quick and easy
@@ -41,8 +43,11 @@ Headings that direct the user around your web page are       important as it giv
 
 
 The following heading from Amazon shows the user at what stage of the ordering process they are at and what they can expect next. This covers the whole billing process.
-<dl class="image"><dt> 
-      <img alt="Amazon Shopping" src="../../assets/amazonshopping.jpg" style="margin:5px;width:383px;">
-   </dt><dd>Figure: This is how headings should look</dd></dl><dl class="image"><dt> 
-      <img width="600" alt="Virgin Flight Booking" src="../../assets/virgin-flight-navigation.png" style="margin:5px;">
-   </dt><dd>Figure: Virgin Australia uses a more subtle approach<br><br></dd></dl>
+
+::: ok  
+![Figure: This is how headings should look](../../assets/amazonshopping.jpg)  
+:::  
+
+::: ok  
+![Figure: Virgin Australia uses a more subtle approach](../../assets/virgin-flight-navigation.png)  
+:::

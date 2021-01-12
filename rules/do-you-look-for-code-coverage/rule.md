@@ -29,5 +29,9 @@ Code Coverage shows how much of your code is covered by tests and can be a usefu
 * If you're modifying code, write the test first, then change the code, then run the test to make sure it passes (AKA red-green-refactor).
 * You should run your tests regularly (see [Do you follow a Test Driven Process](/before-starting-do-you-follow-a-test-driven-process)). Ideally, they'll be part of your build (see [Do you know the minimum builds to create on any branch](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterVersionControlwithTFS%28AKASourceControl%29.aspx#MinimumBuilds))
 
-<dl class="image"><dt><img alt="CodeCoverage_blurred.png" src="CodeCoverage2010.png" style="width:600px;height:318px;"></dt><dd>Figure: Code Coverage metrics in Visual Studio. This solution has a very high code coverage percentage (around 80% on average)<br></dd></dl>
+
+::: ok  
+![Figure: Code Coverage metrics in Visual Studio. This solution has a very high code coverage percentage (around 80% on average)](CodeCoverage2010.png)  
+:::  
+
 **Tip:** [Do you use Live Unit Testing to see code coverage?](https://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterUnitTests.aspx#CodeCoverage)

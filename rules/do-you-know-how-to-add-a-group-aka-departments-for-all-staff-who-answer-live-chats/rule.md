@@ -26,9 +26,16 @@ Specify how incoming chat requests are sent to agents with Chat Routing settings
 Incoming chats are assigned to the agent currently serving the lowest number of chats. If multiple agents are tied for the lowest number, the chat is randomly assigned to any one of those agents.
 
 Assigned chats appear in animated tabs at the bottom of the dashboard.
-<dl class="image"><dt><img src="zendesk-departments-1.png" alt="zendesk-departments-1.png" data-pin-nopin="true"><br></dt></dl>
+
+::: ok  
+![](zendesk-departments-1.png)  
+:::  
+
 **To change the chat routing method for your account**
 
-1. From the dashboard, select  **Settings** >  **Account** >  **Chat Routing** tab.
-2. Select a routing method.<dl class="image"><dt><img src="zendesk-departments-2.png" alt="zendesk-departments-2.png"></dt></dl>
+1. From the dashboard, select  **Settings** &gt;  **Account** &gt;  **Chat Routing** tab.
+2. Select a routing method.
+::: ok  
+![](zendesk-departments-2.png)  
+:::
 3. Click  **Save Changes** .

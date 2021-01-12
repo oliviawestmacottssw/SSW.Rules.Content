@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - link-your-customers-in-crm-to-their-respective-teams
-- dynamics-and-teams---do-you-link-your-customers-in-crm-to-their-respective-teams
 
 ---
 
@@ -22,7 +21,15 @@ If you use a Team per client, it is likely that you want to have a link between 
 <!--endintro-->
 
 At SSW we have a custom property for each client that stores the Teams URL:
-<dl class="image"><dt><img src="live-crm.jpg" alt="live-crm.jpg"></dt><dd>Figure: Live CRM | Company/Account Form – added Teams URL field</dd></dl>
+
+::: ok  
+![Figure: Live CRM | Company/Account Form – added Teams URL field](live-crm.jpg)  
+:::  
+
 To get that URL, simply click the ellipsis next to your Team name and click "Get link to Team"
-<dl class="image"><dt><img src="get-teams-url.jpg" alt="get-teams-url.jpg"></dt><dd>Figure: get the Teams URL</dd></dl>
+
+::: ok  
+![Figure: get the Teams URL](get-teams-url.jpg)  
+:::  
+
 This process can even be automated using Azure functions and Graph API to provision a new Team every time a new client is created in CRM.

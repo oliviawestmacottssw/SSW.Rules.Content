@@ -49,11 +49,15 @@ Here's a suggestion of what these documents could contain.
 5. Deployment information and procedures <br>
 6. Other things to take care of
 
-<dl class="badImage"><dt>
-      <img src="BadNetProject.JPG" alt="A project with an instructions">
-   </dt><dd>Bad example - A project without an instruction. </dd></dl><dl class="goodImage"><dt>
-      <img alt="Good Solutions Have Instructions" src="ProjectDocumentation.jpg">
-   </dt><dd>Good example - A project with instructions<br></dd></dl>
+
+::: bad  
+![Bad example - A project without an instruction.](BadNetProject.JPG)  
+:::  
+
+::: good  
+![Good example - A project with instructions](ProjectDocumentation.jpg)  
+:::  
+
 Add a readme.md to your solution (Use [this](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=vsts)  as a guidance for markdown)
 
 ### Level #2: Lots of documentation (and the \*exact\* steps to Get Latest and compile)
@@ -76,14 +80,18 @@ Lots of dependencies
 
 
 
-<dl class="image"><dd>You are at Level 2 when you have some static Word documents with the steps to compile. The _instructions_compile.docx contains the steps required to be able to get latest and compile.<br></dd></dl>
+
+::: ok  
+![You are at Level 2 when you have some static Word documents with the steps to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile.](instructions-level2.jpg)  
+:::  
+
 ### Level #3: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
 
-<dl class="image"><dt>
-      <img alt="Good Solutions Have Instructions - level 2" src="instructions-level2.jpg">
-   </dt><dd>Figure: Level 2 Documentation includes database build scripts. We use 
-      <a target="_blank" href="http://sqldeploy.com/">SSW SQL Deploy</a> to make keeping all databases on the same version simple. Check out 
-      <a target="_blank" href="http://tv.ssw.com/969/adam-stephensen-sql-deploy-demo">how to use SQL Deploy here </a></dd></dl>
+
+::: ok  
+![Figure: Level 2 Documentation includes database build scripts. We use        SSW SQL Deploy to make keeping all databases on the same version simple. Check out        how to use SQL Deploy here](instructions-level2.jpg)  
+:::  
+
 ### Level #4: Less documentation (and Get Latest and compile with a PowerShell script)
 
 
@@ -98,7 +106,7 @@ Example of Level 6: PowerShell Documentation
 
 
 ::: greybox
-PS C:\Code\Northwind> **.\Setup-Environment.ps1** 
+PS C:\Code\Northwind&gt; **.\Setup-Environment.ps1** 
 
 Problem: Azure environment variable run state directory is not configured (\_CSRUN\_STATE\_DIRECTORY).
  
@@ -121,7 +129,7 @@ Figure: Good example - you see the problems in the devs environment
 
 ::: greybox
 
-PS C:\Code\Northwind> .\Setup-Environment.ps1 -fix
+PS C:\Code\Northwind&gt; .\Setup-Environment.ps1 -fix
 
 Problem: Azure environment variable run state directory is not configured (\_CSRUN\_STATE\_DIRECTORY).
 
@@ -147,7 +155,7 @@ Figure: Good example - when running with -fix this script tries to automatically
 ::: greybox
 
 
-PS C:\Code\Northwind> .\Setup-Environment.ps1 -fix
+PS C:\Code\Northwind&gt; .\Setup-Environment.ps1 -fix
 
 Problem: Azure Storage Service is not running. Launch the development fabric by starting the solution.
 WARNING: No automated fix available for 'Azure Storage Service is running'

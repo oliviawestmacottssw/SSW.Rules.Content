@@ -21,7 +21,11 @@ To help maintain order and control in your Azure environment, applying tags to r
 Azure has the Tag feature, which allows you to apply different Tag Names and values to Resources and Resource Groups:
 
 <!--endintro-->
-<dl class="image"><dt><img src="tags-in-resources-group.png" alt="tags-in-resources-group.png" style="width:750px;"></dt><dd>Figure: Little example of Tags in Resource Groups</dd></dl>
+
+::: ok  
+![Figure: Little example of Tags in Resource Groups](tags-in-resources-group.png)  
+:::  
+
 You can leverage this feature to organize your resources in a logical way, not relying in the names only. E.g.
 
 * **Owner tag:** You can specify who owns that resource

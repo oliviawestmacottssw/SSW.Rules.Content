@@ -7,8 +7,7 @@ uri: sample-do-you-supply-a-sample-database
 created: 2012-11-27T03:08:03.0000000Z
 authors: []
 related: []
-redirects:
-- sample---do-you-supply-a-sample-database
+redirects: []
 
 ---
 

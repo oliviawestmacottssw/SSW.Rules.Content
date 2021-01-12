@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- data-entry---do-you-know-how-to-create-new-contacts
+redirects: []
 
 ---
 
@@ -20,7 +19,11 @@ redirects:
 
 
 <!--endintro-->
-<dl class="badImage"><dt> 
-      <img src="NewContact.jpg" alt="Create New Contact Information" style="width:550px;"> </dt><dd>Figure: Bad Example - Click New, enter relevant contact information, and click "Save and Close"</dd></dl><dl class="goodImage"><dt>
-      <img src="Sales-COntacts.jpg" alt="Create New Contact Logo" style="width:550px;">
-   </dt><dd>Figure: Good Example - open the Account and create the contact from there</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Click New, enter relevant contact information, and click "Save and Close"](NewContact.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - open the Account and create the contact from there](Sales-COntacts.jpg)  
+:::

@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - how-to-provide-best-database-schema-document
-- schema---do-you-know-how-to-provide-best-database-schema-document
 
 ---
 
@@ -28,12 +27,13 @@ We have also have used other available tools in the past, such as [Apex SQL Doc]
 Alternatively, you can use SQL Management Studio to generate a Database diagram.
 1.	Connect to your database using SQL Server Management Studio
 2.	Create a new Database Diagram, by right-clicking  **Database Diagrams**
-<dd class="ssw15-rteElement-FigureNormal"><dl class="ssw15-rteElement-ImageArea"><img src="SqlDiagramNew.png" alt="" style="margin:5px;"></dl>Figure: New Database Diagram<br></dd>
+ **![](SqlDiagramNew.png)Figure: New Database Diagram
+** 
 3.	A popup will appear. Shift-Click to select all the tables then click  **Add**
-<dl class="ssw15-rteElement-ImageArea"><img src="SqlDiagramSelectingTables.png" alt="" style="margin:5px;width:391px;"></dl> **Figure: Selecting tables for diagram
+![](SqlDiagramSelectingTables.png) **Figure: Selecting tables for diagram
 ** 
 4.	You will see tables populate behind the dialogue box, once complete click  **Close**
-<dl class="ssw15-rteElement-ImageArea"><img src="SqlDiagramTablesPopulated.png" alt="" style="margin:5px;width:428px;"></dl> **Figure: Tables populated
+![](SqlDiagramTablesPopulated.png) **Figure: Tables populated
 ** 
 5.	Click off the tables in the diagram and  **Ctrl+A** to Select all
 6.	Right-Click one of the tables in the diagram and perform the following
@@ -42,15 +42,15 @@ Alternatively, you can use SQL Management Studio to generate a Database diagram.
 > a.	Select  **Table View | Standard** from the menu
 > 
 > b.	Select  **Autosize Selected Tables** from the menu
-> <dl class="ssw15-rteElement-ImageArea"><img src="SqlDiagramStandardAutoSize.png" alt="" style="margin:5px;width:532px;"></dl> **Figure: Changing the database table diagram to Standard View and Autosize
+> ![](SqlDiagramStandardAutoSize.png) **Figure: Changing the database table diagram to Standard View and Autosize
 > **
 
 
 7.	Right-click the diagram background and select  **Show Relationship Labels**
-<dl class="ssw15-rteElement-ImageArea"><img src="SqlDiagramShowRelationshipLabels.png" alt="" style="margin:5px;width:298px;"></dl> **Figure: Show Relationship Labels
+![](SqlDiagramShowRelationshipLabels.png) **Figure: Show Relationship Labels
 ** 
 8.	Move the tables around so that the Relationship Labels are clearly visible.
 
 **Note:** You will need to screenshot the diagram as using the copy to clipboard function removes the “Allow Nulls” checkmarks.
-<dl class="ssw15-rteElement-ImageArea"><img src="SqlDiagramNorthwindSchema.png" alt="" style="margin:5px;width:688px;"></dl> **Figure: Northwind Database Schema
+![](SqlDiagramNorthwindSchema.png) **Figure: Northwind Database Schema
 **

@@ -21,19 +21,17 @@ Application database access should be also be restricted to only the application
 
 <!--endintro-->
 
-
-![](administratorlogininitsconnectionstring.png)
+![administratorlogininitsconnectionstring.png](administratorlogininitsconnectionstring.png)
 
 
 ::: bad
-Bad Example – Contract Manager Web Application using the administrator login in its connection string 
+Bad Example – Contract Manager Web Application using the administrator login in its connection string
 :::
 
 
 **<font color="#555555"></font>**
 
-
-![](databaseuserconfiguredintheconnectionstring.png)
+![databaseuserconfiguredintheconnectionstring.png](databaseuserconfiguredintheconnectionstring.png)
 
 
 ::: good
@@ -132,7 +130,7 @@ If you are running a web application on Azure as you should configure you applic
 
 
 ::: greybox
-Data Source=tcp:xyzsqlserver.database.windows.net,1433; Initial Catalog=myapp-staging-db; User ID=myappstaging@xyzsqlserver; Password='\*\*\*\*\*\*\*\*\*\*\*\*\*' 
+Data Source=tcp:xyzsqlserver.database.windows.net,1433; Initial Catalog=myapp-staging-db; User ID=myappstaging@xyzsqlserver; Password='\*\*\*\*\*\*\*\*\*\*\*\*\*'
 :::
 
 

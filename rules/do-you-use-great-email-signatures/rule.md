@@ -64,7 +64,7 @@ Figure: Bad example - This default signature sucks
 
 ::: greybox
 Thanks, Adam
-www.ssw.com.au  | +61 4 1985 1995 
+www.ssw.com.au  | +61 4 1985 1995
 :::
 
 
@@ -80,10 +80,11 @@ Figure: Good example – Add your name, URL and your phone number
 **Use the complete "long signature" when sending a new email or appointment to a client.**
 
 This is created in HTML and goes well on emails with Word used as the email editor. Include some product advertising, like what's new on your monthly newsletter. It should have the company colors.
-<dl class="image"><dt> 
-      <img src="outlook-signature.png" alt="outlook-signature.png" style="max-width:100%;"> 
-      <br> 
-   </dt><dd>Figure: A great long signature for PC<br></dd></dl>However, you shouldn't use your long signature on <br>    **every** sent email. It's recommended to have a simpler version for internal emails and appointments:
+
+::: ok  
+![Figure: A great long signature for PC](outlook-signature.png)  
+:::  
+However, you shouldn't use your long signature on <br>    **every** sent email. It's recommended to have a simpler version for internal emails and appointments:
 ### PC Short Signature
 
 
@@ -101,23 +102,30 @@ Use a really short signature (your first name or initials) or no signature at al
 2. Click the "Mail" tab as seen below
 3. Click on "Signatures..." and add in your signatures
 
-<dl class="image"><dt> 
-      <img src="../../assets/Outlook2013_signature.jpg" alt=""> 
-   </dt><dd>Figure: How to add a signature in Outlook</dd></dl>
+
+::: ok  
+![Figure: How to add a signature in Outlook](../../assets/Outlook2013\_signature.jpg)  
+:::  
+
 **How to set it up in OWA**
 
 1. Open OWA (e.g. http://mail.northwind.com/owa)
 2. Click "Options" on the top right side. <br>
 3. Go Settings | Mail and make following changes: <br>
 
-<dl class="image"><dt> 
-      <img src="owa-signatures.png" alt="owa-signatures.png" style="max-width:100%;width:750px;height:574px;"> 
-   </dt><dd>Figure: Add your 'Email Signature' and save<br></dd></dl>
+
+::: ok  
+![Figure: Add your 'Email Signature' and save](owa-signatures.png)  
+:::  
+
 **How to set it up in Office 365**
 
 1. Open Outlook in Office 365 ([http://outlook.office.com/mail/inbox](https://outlook.office.com/mail/inbox))
 2. Click the "Settings" cog on the top right corner of the Window
-3. Click on “View all Outlook settings” at the bottom of the Settings panel <br>      <dl class="image"><dt><img src="outlook-settings-signature.png" alt="outlook-settings-signature.png" style="width:750px;"></dt><dd>Figure: Where to find "View all Outlook settings"<br></dd></dl>
+3. Click on “View all Outlook settings” at the bottom of the Settings panel <br>      
+::: ok  
+![Figure: Where to find "View all Outlook settings"](outlook-settings-signature.png)  
+:::
 4. In the "Settings" window that pops up, go to: Mail | Compose and reply.
 5. Add your email signature and click "Save"
 

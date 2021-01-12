@@ -15,11 +15,14 @@ The user's last settings should be saved and should be selected as the Default t
 
 <!--endintro-->
 
-* Login forms - the last login name should be the Default selected and the cursor should be in the password box. <br>      <dl class="badImage"><dt> 
-            <img border="0" alt="SSW Time PRO .NET - Login" src="../../assets/BadFormLogin.jpg" style="margin:5px;width:342px;">
-         </dt><dd> Figure: Bad Example - Last Username is not saved</dd></dl><dl class="goodImage"><dt> 
-            <img border="0" alt="SSW Time PRO .NET - Login" src="../../assets/GoodFormLogin.jpg" style="margin:5px;width:342px;">
-         </dt><dd> Figure: Good Example - Last Username is saved</dd></dl>
+* Login forms - the last login name should be the Default selected and the cursor should be in the password box. <br>      
+::: bad  
+![Figure: Bad Example - Last Username is not saved](../../assets/BadFormLogin.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - Last Username is saved](../../assets/GoodFormLogin.jpg)  
+:::
 * Report criteria forms - e.g. date start and date end fields should be automatically populated
 
 

@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - do-you-have-a-dress-code
-- office-environment---do-you-follow-the-companys-dress-code
 
 ---
 
@@ -35,16 +34,20 @@ One aspect of this is the dress code. Dress code is important for two reasons:
 Of course, when in a public event such as a User Group, conference or seeing clients you should "Dress Up".
 
 It should go without saying, but of course, things such as shaving off your weekend facial growth, using deodorant and having clean teeth and nice breath is assumed.
-<dl class="image"><dt> 
-      <img src="sean-connery_dressed-up.jpg" alt="sean-connery_dressed-up.jpg"> 
-   </dt></dl>
+
+::: ok  
+![](sean-connery\_dressed-up.jpg)  
+:::  
+
 "There is nothing wrong with being the best-dressed man in the room."
 -  **Sean Connery** 
 ### On a business flight
 
-It's a good idea to "Dress Up" in flights as you never know who you will be seated next to.  <dl class="image"><dt> 
-      <img src="dresscode-linkedin.PNG" alt="dresscode-linkedin.PNG"> 
-   </dt><dd>Figure: Why dress up in a flight<br></dd></dl>
+It's a good idea to "Dress Up" in flights as you never know who you will be seated next to.  
+::: ok  
+![Figure: Why dress up in a flight](dresscode-linkedin.PNG)  
+:::  
+
 ### Dressing Down (aka Casual Fridays)
 
 Many companies find it a good idea to have Casual Fridays. It is free and easy to do and gives the team something to look forward to.
@@ -58,7 +61,11 @@ Then they  **"Dress Down"** later in the week... so they have      **"Casual Thu
 
 
 Thursday are casual clothes. On Fridays, they encourage sport clothes, such as shorts. It allows the end of the week to be fun.
-<dl class="image"><dt><img alt="SSW_Dresscode_Poster.png" src="SSW_Dresscode_Poster.png" style="width:750px;"></dt><dd>Figure: <a href="https://sswcom.sharepoint.com/:b:/s/SSWDESIGN/EfVEIVvnUK5EoEE22SnqtskBlSE3nryQTkLDTjsfGrTV-Q?e=XijWyg">SSW Dress Code can be downloaded here (internal only)</a><br></dd></dl>
+
+::: ok  
+![Figure: SSW Dress Code can be downloaded here (internal only)](SSW\_Dresscode\_Poster.png)  
+:::  
+
 ### Shorts Days - the cool exception
 
 
@@ -75,7 +82,7 @@ Feel free to wear shorts if you like 🌞 (hope you haven't skipped leg day 😜
 If you decide against it, then don't forget the SSW dress code 👔 applies as usual (e.g. dress up on Monday and Tuesday - no jeans).
 
 Today's forecast:
-   > Sunny. Winds north to northwesterly 15 to 20 km/h turning west to southwesterly 20 to 30 km/h in the late morning and afternoon.
+   &gt; Sunny. Winds north to northwesterly 15 to 20 km/h turning west to southwesterly 20 to 30 km/h in the late morning and afternoon.
 Note:
 - At SSW, shorts day is on \*only\* if this email comes.
 - Why? We don’t want people looking at different weather apps and having different rules apply... so if it’s over 30 but the email doesn’t come (e.g. there is a bug 🐞), then there’s no shorts that day.
@@ -86,4 +93,4 @@ Sophie
 See the code: https://github.com/SSWConsulting/SSW.Shorts
 SSW Roles and Responsibilities - SSW.Shorts Master
 
-<this email="" was="" sent="" as="" per:=""></this>[https://rules.ssw.com.au/do-you-have-a-dress-code](/do-you-have-a-dress-code)>
+&lt;This email was sent as per: [https://rules.ssw.com.au/do-you-have-a-dress-code](/do-you-have-a-dress-code)&gt;

@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - answer-im-questions-in-order
-- clarity---do-you-answer-im-questions-in-order
 
 ---
 
@@ -23,7 +22,7 @@ Sometimes people fire a few questions at you and the tendency is to answer the l
 
 
 ::: greybox
-**- Adam Cogan:** Welcome back from your holiday.  How many items in your inbox? Can you give me the link for better IM rules? When is your next client work? 
+ **- Adam Cogan:** Welcome back from your holiday.  How many items in your inbox? Can you give me the link for better IM rules? When is your next client work? 
 **- Tiago Araujo:**  Next Monday on Northwind
 I have 85 items in my inbox and the link is https://rules.ssw.com.au/rules-to-better-im
 
@@ -39,7 +38,7 @@ Figure: Bad example - We have to find the answer one by one
 
 
 ::: greybox
-**- Adam Cogan:** Welcome back from your holiday.  How many items in your inbox? Can you give me the link for better IM rules? When is your next client work? 
+ **- Adam Cogan:** Welcome back from your holiday.  How many items in your inbox? Can you give me the link for better IM rules? When is your next client work? 
 **- Tiago Araujo:** I have 85 items in my inbox
  **- Tiago Araujo:** Here is the link: https://rules.ssw.com.au/rules-to-better-im 
 **- Tiago Araujo:** I start working for Northwind next Monday

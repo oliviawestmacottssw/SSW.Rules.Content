@@ -7,8 +7,7 @@ uri: do-you-contact-your-clients-using-lync-skype
 created: 2010-07-16T06:46:49.0000000Z
 authors: []
 related: []
-redirects:
-- do-you-contact-your-clients-using-lyncskype
+redirects: []
 
 ---
 
@@ -16,4 +15,11 @@ Having your clients as Instant Messenger contacts can improve your efficiency in
 <!--endintro-->
 
 Of course any important chats should be     [confirmed via email](http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInstantMessenger.aspx#ImportantChatsEmail).
-<dl class="good"><dt><p>Hey Simon,</p><p>I find having my clients available on&#160;Skype is extremely useful. Are you on Skype? If so, can I please add you as a contact? I'll add the above email address, let me know if you use a different one. </p><p>Cheers<br>Ulysses Maclaren</p></dt><dd>Figure&#58; It's easy to get your clients on Skype, you only have to ask! </dd></dl>
+
+Hey Simon,
+
+Cheers
+Ulysses Maclaren
+
+I find having my clients available on Skype is extremely useful. Are you on Skype? If so, can I please add you as a contact? I'll add the above email address, let me know if you use a different one.
+Figure: It's easy to get your clients on Skype, you only have to ask!

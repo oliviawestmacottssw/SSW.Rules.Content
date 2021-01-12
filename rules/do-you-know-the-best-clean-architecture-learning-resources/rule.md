@@ -40,8 +40,15 @@ To read further, start with Robert C Martin’s blog post:        [The Clean Arc
 Then, check out these books:
 
 This book by Robert C. Martin (aka ‘Uncle Bob’) should be anyone’s starting point for reading further.
-<dl class="image"><dt><img src="clean-architecture-book-1.jpg" alt="clean-architecture-book-1.jpg"></dt><dd>Figure: Clean Architecture: A Craftsman's Guide to Software Structure and Design</dd></dl>
+
+::: ok  
+![Figure: Clean Architecture: A Craftsman's Guide to Software Structure and Design](clean-architecture-book-1.jpg)  
+:::  
+
 This resource by Steve Smith is available as an online e-book and contains up-to-date specific examples for ASP.NET Core and Azure.
 
 
-<dl class="image"><dt><img src="clean-architecture-book-2.png" alt="clean-architecture-book-2.png"></dt><dd>Figure: Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure<br></dd></dl>
+
+::: ok  
+![Figure: Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](clean-architecture-book-2.png)  
+:::

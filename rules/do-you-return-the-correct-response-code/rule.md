@@ -22,13 +22,28 @@ You can  **save yourself countless hours of painful debugging** , by specifying 
 <!--endintro-->
 
 For example: According to the HTTP/1.1 protocol, when a POST request results in the creation of a resource, the server should reply with status 201 (Created).
-<dl class="badImage"><dt><p class="ssw15-rteElement-CodeArea">public Product PostProduct(Product item)<br> &#123;<br> item = repository.Add(item);<br> return item;<br> &#125;<br> </p></dt><dd>Figure&#58; Bad Example – By default a 200 status code is returned.</dd></dl><dl class="goodImage"><dt><p class="ssw15-rteElement-CodeArea">[ResponseType(typeof(CreditSnapshot))] public HttpResponseMessage PostProduct(Product item)<br> &#123;<br> item = repository.Add(item);<br> var response = Request.CreateResponse(HttpStatusCode.Created, item);<br> 
-         <br> return response;<br> &#125; </p></dt><dd>Figure&#58; Good Example – When creating objects the “Created” status code is returned.&#160;</dd></dl><dl class="goodImage"><dt><p class="ssw15-rteElement-CodeArea">public void PutProduct(int id, Product product)<br>
-&#123;<br>
-    product.Id = id;<br>
-    if (!repository.Update(product))<br>
-    &#123;<br>
-        <mark>return Request.CreateResponse(HttpStatusCode.NotFound, ex.Message);</mark><br>
-    &#125;<br>
-&#125;
-</p></dt><dd>Figure&#58; Good Example – When updating or deleting objects, if the object to be modified cannot be found throw exception with HttpStatusCode.NotFound</dd></dl>
+
+public Product PostProduct(Product item)
+ {
+ item = repository.Add(item);
+ return item;
+ }
+Figure: Bad Example – By default a 200 status code is returned.
+[ResponseType(typeof(CreditSnapshot))]
+ public HttpResponseMessage PostProduct(Product item)
+ {
+ item = repository.Add(item);
+ var response = Request.CreateResponse(HttpStatusCode.Created, item);
+
+ return response;
+ }
+Figure: Good Example – When creating objects the “Created” status code is returned. 
+public void PutProduct(int id, Product product)
+ {
+     product.Id = id;
+     if (!repository.Update(product))
+     {
+<mark>return Request.CreateResponse(HttpStatusCode.NotFound, ex.Message);</mark>
+     }
+ }
+Figure: Good Example – When updating or deleting objects, if the object to be modified cannot be found throw exception with HttpStatusCode.NotFound

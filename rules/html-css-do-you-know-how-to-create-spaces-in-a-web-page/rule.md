@@ -9,8 +9,7 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects:
-- htmlcss---do-you-know-how-to-create-spaces-in-a-web-page
+redirects: []
 
 ---
 
@@ -22,7 +21,7 @@ Sometimes the first thing that comes to the developer mind is to use the "break 
 
 
 ::: greybox
- &lt;ul&gt;
+&lt;ul&gt;
  &lt;li&gt;&#160;&#160;&#160;List item&lt;/li&gt;
  &lt;/ul&gt;
 
@@ -31,19 +30,19 @@ Sometimes the first thing that comes to the developer mind is to use the "break 
 Figure: Bad Example - Using the "space" ASCII character to create a padding on that list
 
 ::: greybox
- &lt;ul&gt;
+&lt;ul&gt;
  &lt;li&gt;List item&lt;/li&gt;
  &lt;/ul&gt;
  &lt;br /&gt;
  &lt;br /&gt;
- &lt;br /&gt; 
+ &lt;br /&gt;
 :::
 
 Figure: Bad Example - Using the &lt;br /&gt; tag to create a space at the bottom of that list
 
 ::: greybox
- ul {margin-bottom:15px;}
- ul li {padding-left:10px;} 
+ul {margin-bottom:15px;}
+ ul li {padding-left:10px;}
 :::
 
 Figure: Good Example - Using CSS to add a margin at the bottom of the list a the padding on the left side of each list item

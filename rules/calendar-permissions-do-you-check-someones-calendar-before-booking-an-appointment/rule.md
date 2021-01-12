@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - calendar-do-you-check-someones-calendar-before-booking-an-appointment
-- calendar-permissions---do-you-check-someones-calendar-before-booking-an-appointment
 
 ---
 
@@ -21,6 +20,7 @@ If someone has [shared their calendar permissions](/_layouts/15/FIXUPREDIRECT.AS
 Imagine someone wants to book some time with you. Offer to look up the calendar and book in time straightaway.
 
 <!--endintro-->
-<dl class="bad">                    <dd>Bad Example - "Try calling him."<br><br></dd></dl><dl class="good">                    <dt><img src="adams-calendar.jpg" alt="adams-calendar.jpg" style="margin:5px;width:550px;"><br></dt>
-                    <dd>
-                        Good Example - "Sure, I'll just look up Adam's calendar and see when he's free. Obviously, it's not a good idea to call Adam now as he is on a plane."<br><br></dd></dl>
+ Bad Example - "Try calling him."
+
+![adams-calendar.jpg](adams-calendar.jpg)
+Good Example - "Sure, I'll just look up Adam's calendar and see when he's free. Obviously, it's not a good idea to call Adam now as he is on a plane."

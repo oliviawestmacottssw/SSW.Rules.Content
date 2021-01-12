@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- meetings---do-you-have-a-debrief-after-an-initial-meeting
+redirects: []
 
 ---
 

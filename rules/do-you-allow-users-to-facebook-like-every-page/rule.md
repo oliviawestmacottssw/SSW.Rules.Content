@@ -15,17 +15,14 @@ redirects: []
 
 Facebook recommendations are a great way to publicize your pages without blatant advertising.  
 <!--endintro-->
-
 ![](Facebook_Recommend01.jpg) 
-<font class="ms-rteCustom-FigureNormal">Figure: A user clicks recommend. <br></font>
-
+ **Figure: A user clicks recommend. 
+** 
 ![](Facebook_Recommend02.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: His friends can see this activity on the homepage (provided that the plugin is installed.) </font>
-
+ **Figure: His friends can see this activity on the homepage (provided that the plugin is installed.)** 
 
 ![](Facebook_Recommend03.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: It appears on your Facebook page.</font>
-
+ **Figure: It appears on your Facebook page.** 
 
 ![](Facebook_Recommend04.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Your friends also see it on your Facebook page.</font>
+ **Figure: Your friends also see it on your Facebook page.**

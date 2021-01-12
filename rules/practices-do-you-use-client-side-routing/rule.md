@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - use-client-side-routing
-- practices---do-you-use-client-side-routing
 
 ---
 
@@ -30,7 +29,13 @@ This is easily fixed with Angular ’s routing capabilities, and implementing it
 * Less prone to errors
 * Better separation of concerns (navigation vs page state)
 
-<dl class="badImage"><dt> <img src="client-side-bad.png" alt="client-side-bad.png"> </dt><dd>Figure: Bad example - The blog post component is choosing components based on the state of the component</dd></dl>
+
+::: bad  
+![Figure: Bad example - The blog post component is choosing components based on the state of the component](client-side-bad.png)  
+:::  
+
 A better way is to set up routes, and use a router (the first-party component router is great for this) to manage your components:
-<dl class="goodImage"><dt> <img src="client-side-good.png" alt="client-side-good.png"> <br>
-   </dt><dd>Good: Setting up declarative routes and outlets gives a good user experience, persistent URLs, and fewer moving parts </dd></dl>
+
+::: good  
+![Good: Setting up declarative routes and outlets gives a good user experience, persistent URLs, and fewer moving parts](client-side-good.png)  
+:::

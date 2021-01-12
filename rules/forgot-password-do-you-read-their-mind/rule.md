@@ -7,8 +7,7 @@ uri: forgot-password-do-you-read-their-mind
 created: 2015-02-16T03:06:23.0000000Z
 authors: []
 related: []
-redirects:
-- forgot-password---do-you-read-their-mind
+redirects: []
 
 ---
 

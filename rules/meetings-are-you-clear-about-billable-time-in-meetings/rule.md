@@ -7,8 +7,7 @@ uri: meetings-are-you-clear-about-billable-time-in-meetings
 created: 2010-07-16T06:25:10.0000000Z
 authors: []
 related: []
-redirects:
-- meetings---are-you-clear-about-billable-time-in-meetings
+redirects: []
 
 ---
 

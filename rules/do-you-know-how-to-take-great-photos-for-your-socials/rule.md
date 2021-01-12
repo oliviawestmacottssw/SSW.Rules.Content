@@ -46,7 +46,7 @@ Here they are:
 
 * **Framing:** Being eye level with the subject and using the rule of thirds, which involves mentally dividing up your framing using 2 horizontal lines and 2 vertical lines, as a professional camera would do – if you are not using one. Also make sure there isn’t too much empty space and that you are not missing anyone important, if you have a big group, for example.
 
-<dl class="ssw15-rteElement-ImageArea"><img src="RuleOfThirds.png" alt="RuleOfThirds.png" style="margin:5px;width:808px;"><span style="font-weight:bold;">Figure: </span><span style="font-weight:bold;">Rule of thirds visualisation</span></dl>
+![RuleOfThirds.png](RuleOfThirds.png)Rule of thirds visualisationFigure: 
 
 
 * **Composition Checklist:**
@@ -64,14 +64,14 @@ Here they are:
 
 * **Photo Style:** Regarding the photo style, it’s better to smile in photos, so try and get your models (aka employees) to naturally smile in their photos. This makes the business seem more inviting to clients, besides giving the photo a warmer tone. It’s always good to take natural photos as well, like a shot of our team working together. When possible, it’s great to show a bit of diversity, as the techie community is pretty much consisted by the male sex.
 
-<dl class="ssw15-rteElement-ImageArea"><img src="sebprofile.png" alt="sebprofile.png" style="margin:5px;"></dl>
+![sebprofile.png](sebprofile.png)
 
 
 ::: bad
 Figure: Bad Example – Bad framing and background
 :::
 
-<dl class="ssw15-rteElement-ImageArea"> <img src="mattgprofile.png" alt="mattgprofile.png" style="margin:5px;"></dl>
+![mattgprofile.png](mattgprofile.png)
 
 ::: good
 Figure: Good Example – Good framing for a profile photo

@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - avoid-collation-errors
-- dbas---do-you-avoid-collation-errors
 
 ---
 

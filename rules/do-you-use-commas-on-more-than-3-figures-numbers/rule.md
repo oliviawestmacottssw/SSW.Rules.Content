@@ -17,11 +17,15 @@ redirects: []
 
 In numbers of more than 3 digits, always use commas. This makes reading much easier. 
 <!--endintro-->
-<dl class="badImage"><dt> 
-      <img src="numbers-bad-example.png" alt="numbers-bad-example.png"> 
-   </dt><dd>Figure: Bad example: No commas make it harder to read </dd></dl><dl class="goodImage">   <dt> 
-      <img src="numbers-good-example.png" alt="numbers-good-example.png"> 
-   </dt><dd>Figure: Good example: Commas make it easier to read </dd></dl>**Note:** Numbers which normally do not take commas are:
+
+::: bad  
+![Figure: Bad example: No commas make it harder to read](numbers-bad-example.png)  
+:::  
+
+::: good  
+![Figure: Good example: Commas make it easier to read](numbers-good-example.png)  
+:::  
+**Note:** Numbers which normally do not take commas are:
 
 
 * ZIP codes

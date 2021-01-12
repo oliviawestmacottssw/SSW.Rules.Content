@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - customization-do-you-only-export-the-customizations-and-related-ones-that-you-have-made-(only-for-crm-4-0)
-- customization---do-you-only-export-the-customizations-and-related-ones-that-you-have-made
 
 ---
 

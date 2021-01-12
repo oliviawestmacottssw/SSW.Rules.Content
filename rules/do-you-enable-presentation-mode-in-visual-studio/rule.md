@@ -44,25 +44,35 @@ Most importantly, you can have all these things done for you at the click of a b
 
 
 ### Visual Studio
-<dl class="badImage"><dt> 
-      <img src="present_off.png" alt="present_off.png" style="width:750px;"> 
-   </dt><dd>Figure: Bad Example - Code is small and most of the Visual Studio UI is too small to read</dd></dl><dl class="goodImage"><dt> 
-      <img src="present_on.png" alt="present_on.png" style="width:750px;"> 
-      <br>
-   </dt><dd>Figure: Good Example - Good Example – Presentation mode creates a full alternative profile so you can cant adjust font sizes across the whole UI<br></dd></dl>
+
+::: bad  
+![Figure: Bad Example - Code is small and most of the Visual Studio UI is too small to read](present\_off.png)  
+:::  
+
+::: good  
+![Figure: Good Example - Good Example – Presentation mode creates a full alternative profile so you can cant adjust font sizes across the whole UI](present\_on.png)  
+:::  
+
 ### Text Editor
 
 Change font size in your text editor.
-<dl class="badImage"><dt> 
-      <img src="notepad_bad.png" alt="notepad_bad.png"> 
-   </dt><dd>Figure: Small font size<br></dd></dl><dl class="goodImage"><dt> 
-      <img src="notepad_good2.png" alt="notepad_good2.png"> 
-   </dt><dd>Figure: Good font size<br></dd></dl>
+
+::: bad  
+![Figure: Small font size](notepad\_bad.png)  
+:::  
+
+::: good  
+![Figure: Good font size](notepad\_good2.png)  
+:::  
+
 ### Command Prompt
 
 And don't forget to change your command prompt as well.
-<dl class="badImage"><dt> 
-      <img src="cmd_bad_2.png" alt="cmd_bad_2.png"> 
-   </dt><dd> Figure: Command prompts are hard to read<br></dd></dl><dl class="goodImage"><dt> 
-      <img src="cmd_good_2.png" alt="cmd_good_2.png"> 
-   </dt><dd>Figure: Font size for command prompt should be about twice as much as by default</dd></dl>
+
+::: bad  
+![Figure: Command prompts are hard to read](cmd\_bad\_2.png)  
+:::  
+
+::: good  
+![Figure: Font size for command prompt should be about twice as much as by default](cmd\_good\_2.png)  
+:::

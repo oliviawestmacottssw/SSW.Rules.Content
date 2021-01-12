@@ -17,6 +17,7 @@ If all you have time to ftp up is a couple of simple html pages with few contact
 <!--endintro-->
 
 
-<dl class="image"><dt>
-     <img src="../../assets/Websites_UnderConstruction.jpg" alt="Websites Under Construction" style="margin:5px;width:99px;"></dt><dd>
-     Figure: "We just can't get our act together on our website"</dd></dl>
+
+::: ok  
+![Figure: "We just can't get our act together on our website"](../../assets/Websites\_UnderConstruction.jpg)  
+:::

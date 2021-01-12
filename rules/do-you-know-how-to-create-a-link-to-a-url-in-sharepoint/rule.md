@@ -51,12 +51,12 @@ To do this, you need to remove .url file type from your blocked file types in yo
 **B. Use "Link to a document" content type in SharePoint.**
 
 1) Enable "Content Type management" in your document library.
-<dl class="ssw15-rteElement-ImageArea"><img alt="EnableContentTypeDocument.png" src="EnableContentTypeDocument.png" style="margin:5px;"></dl> **Figure: Enable Content Type management in library setting** 
+![EnableContentTypeDocument.png](EnableContentTypeDocument.png) **Figure: Enable Content Type management in library setting** 
 2) Add "Link to a Document" content type into the library.
-<dl class="ssw15-rteElement-ImageArea"><img alt="AddExistContentType.png" src="AddExistContentType.png" style="margin:5px;width:650px;"></dl> **Figure: Add from existing site content type** <dl class="ssw15-rteElement-ImageArea"><img alt="SelectLinkToADocumentType.png" src="SelectLinkToADocumentType.png" style="margin:5px;width:650px;"></dl> **Figure: Select "Link to a Document" content type** 
+![AddExistContentType.png](AddExistContentType.png) **Figure: Add from existing site content type** ![SelectLinkToADocumentType.png](SelectLinkToADocumentType.png) **Figure: Select "Link to a Document" content type** 
 3) Create a "Link to a document" instance
-<dl class="ssw15-rteElement-ImageArea"><img alt="CreateLinkToADocumentInstance.png" src="CreateLinkToADocumentInstance.png" style="margin:5px;"></dl> **Figure: select "File | New Document (dropdown) | Link to a document"** <dl class="ssw15-rteElement-ImageArea"><img alt="InputLinkUrlAndName.png" src="InputLinkUrlAndName.png" style="margin:5px;"></dl> **Figure: Input "Name" and "URL"** 
+![CreateLinkToADocumentInstance.png](CreateLinkToADocumentInstance.png) **Figure: select "File | New Document (dropdown) | Link to a document"** ![InputLinkUrlAndName.png](InputLinkUrlAndName.png) **Figure: Input "Name" and "URL"** 
 4) Done
 
 You should be able to see the link type document in your library:
-<dl class="ssw15-rteElement-ImageArea"><img alt="LinksTypeDocumentsWithShortcutIcon.png" src="LinksTypeDocumentsWithShortcutIcon.png" data-pin-nopin="true" style="margin:5px;"></dl> **Figure: Link type documents with the lovely shortcut icon**
+![LinksTypeDocumentsWithShortcutIcon.png](LinksTypeDocumentsWithShortcutIcon.png) **Figure: Link type documents with the lovely shortcut icon**

@@ -15,7 +15,6 @@ authors:
 related: []
 redirects:
 - ending-a-sprint-do-you-know-when-to-remove-stories-from-the-sprint
-- ending-a-sprint---do-you-know-when-to-remove-pbis-from-the-sprint
 
 ---
 

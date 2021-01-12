@@ -14,7 +14,6 @@ related: []
 redirects:
 - add-quality-control-to-dones
 - dones-do-you-add-(or-show)-your-quality-control
-- dones---do-you-show-quality-control-with-checked-by-xxx
 
 ---
 
@@ -26,7 +25,14 @@ When you get your task done, you should carefully check each item in the email t
 <!--endintro-->
  Simply ask for that person to come over and check it on your computer or IM him/her if the person is not close by (e.g. in a different room). This way you are guaranteed instant feedback and you won't clog up someone else's inbox with unnecessary emails. 
 
-Reply to the "Done" email like below and CC the person who checked the email for you. In this way, you show it was double checked. <dl class="goodImage"><dt> <img alt="ruleDoneCheckedBy.png" src="ruleDoneCheckedBy.png"> </dt><dd>Figure: Reply Email with "Checked by XXX"  </dd></dl>
+Reply to the "Done" email like below and CC the person who checked the email for you. In this way, you show it was double checked. 
+::: good  
+![Figure: Reply Email with "Checked by XXX"](ruleDoneCheckedBy.png)  
+:::  
+
 When you action a task for adding web content (such as a rule or suggestion), firstly paste the content into a new Word file and run the "Grammar & Spelling Check" to check if there are any errors. After the "Grammar & Spelling Check", you can add it to your website. After that, run [Link Auditor](http://sswlinkauditor.com/) in order to keep 0 bad links on that page.
 
-<dl class="goodImage"> <dt> <img src="SpellAndLinkCheck.jpg" alt=""> </dt><dd>Figure: Reply to the email with grammar & spelling check and CA check results<br></dd></dl>
+
+::: good  
+![Figure: Reply to the email with grammar & spelling check and CA check results](SpellAndLinkCheck.jpg)  
+:::

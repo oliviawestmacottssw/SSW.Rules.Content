@@ -7,8 +7,7 @@ uri: control-choice-do-you-use-comboboxes-instead-of-single-select-list-boxes
 created: 2012-11-27T08:52:24.0000000Z
 authors: []
 related: []
-redirects:
-- control-choice---do-you-use-comboboxes-instead-of-single-select-list-boxes
+redirects: []
 
 ---
 
@@ -20,14 +19,23 @@ ComboBoxes are better than List Boxes  **for data entry** because:
 
 
 <!--endintro-->
-<dl class="badImage"><dt><img alt="Web Page with ListBoxes" src="../../assets/ListBoxesAreEvil_SingleSelectBad.gif"></dt>
-<dd>Figure: Bad Example - Using list boxes</dd></dl><dl class="goodImage"><dt><img alt="Web Page with ComboBox" src="../../assets/ListBoxesAreEvil_SingleSelectGood.gif"></dt>
-<dd>Figure: Good Example - Using ComboBoxes - takes up less screen space and the required field indication is easy to see</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Using list boxes](../../assets/ListBoxesAreEvil\_SingleSelectBad.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - Using ComboBoxes - takes up less screen space and the required field indication is easy to see](../../assets/ListBoxesAreEvil\_SingleSelectGood.gif)  
+:::  
+
  **Note: When are single-select list boxes OK?** 
 
 As mentioned before, there are exceptions to this rule. It would be hard to imagine the Include/Exclude boxes in the SQL Server Enterprise Manager's Server Registration Wizard being handled with ComboBoxes, for example.
-<dl class="image"><dt><img alt="Register SQL Server Wizard" src="../../assets/ListBoxesAreEvil_ExceptForThisOne.gif"></dt>
-<dd>Figure: Include/Exclude Listboxes are an example of a valid use for List Boxes</dd></dl>
+
+::: ok  
+![Figure: Include/Exclude Listboxes are an example of a valid use for List Boxes](../../assets/ListBoxesAreEvil\_ExceptForThisOne.gif)  
+:::  
+
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/) to check for this rule. |
 | --- |

@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - return-a-value-indicating-the-status
-- stored-procedures---do-you-return-a-value-indicating-the-status
 
 ---
 

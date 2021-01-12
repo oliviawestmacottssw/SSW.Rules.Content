@@ -20,6 +20,4 @@ It is best to confirm who you are speaking to via a few slides. Then you can mak
 * Interesting to them
 * Relevant to them
 
-<dl>    <dt><img class="ms-rteCustom-ImageArea" src="developer.gif" alt=""> </dt>
-     <strong>Figure: Ask "How many are developers here?"</strong> </dl><dl>    <dt><img class="ms-rteCustom-ImageArea" src="manager.gif" alt=""> </dt>
-     <strong>Figure: Ask "How many are managers here?"</strong> </dl>
+![](developer.gif) **Figure: Ask "How many are developers here?"** ![](manager.gif) **Figure: Ask "How many are managers here?"**

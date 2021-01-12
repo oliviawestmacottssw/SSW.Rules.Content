@@ -15,15 +15,13 @@ redirects: []
 
 When editing a .doc file in a SharePoint document library, you need to always “check Out” when you see “Read Only”. You need to “Check In” the document after editing to TFS.
 
-
-![](SharepointWord.jpg)
+![Check-Out when you see ReadOnly](SharepointWord.jpg)
 
 **<font size="2">Figure: Warning - If you see “Read-Only” in the title bar, then you need to “Check Out”</font>**
 
 <!--endintro-->
 
-
-![](SharepointWord1.jpg) 
+![Click Check-Out to edit](SharepointWord1.jpg) 
 
 <font face="Calibri"><font size="2"><font face="Times New Roman"> <strong>Figure: Click “Check Out” to edit the document in TFS</strong> </font><br>
 <br>

@@ -11,12 +11,13 @@ authors:
 related: []
 redirects:
 - use-your-company-name-as-part-of-your-display-name
-- display---do-you-use-your-company-name-and-location-as-part-of-your-display-name
 
 ---
 
-<dl class="goodImage"> 
-   <dt><img src="display-your-company-name.jpg" alt="Display your company name"></dt><dd> Figure: Display your company name and location<br></dd></dl>
+::: good  
+![Figure: Display your company name and location](display-your-company-name.jpg)  
+:::  
+
 Using your company name as part of your Display Name has the double advantage of firstly branding, and secondly, indicating to other parties that your IM account is for work purposes.
 
 <!--endintro-->

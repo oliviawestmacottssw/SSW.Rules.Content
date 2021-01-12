@@ -19,4 +19,7 @@ Selecting the right keywords can be hard when you're completing your campaigns. 
 The Keyword Planner allows you to get keyword ideas that can help you reach people interested in your product or service. You can also see roughly how much keywords will cost you per click, as well as the frequency each keyword is searched. Simply enter words, phrases or the URL related to your campaign and the planner will come back with additional keyword suggestions and data on each keyword.
 
 <!--endintro-->
-<dl class="image"><dt><img src="keyword-planning.jpg" alt="keyword-planning.jpg"></dt><dd>Figure: Keyword planner in action!</dd></dl>
+
+::: ok  
+![Figure: Keyword planner in action!](keyword-planning.jpg)  
+:::

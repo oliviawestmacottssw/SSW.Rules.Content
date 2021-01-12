@@ -19,4 +19,7 @@ Include photos of the project manager and others involved in running the project
 It is also valid and important when talking about a case study to visually show which employee was responsible for that piece of work.
 
 <!--endintro-->
-<dl class="image"><dt><img src="Proposals_EmployeesPhotos.jpg" alt="Proposals_EmployeesPhotos.jpg"></dt><dd>Figure: Use photos of your employees to make the document more personal<br></dd></dl>
+
+::: ok  
+![Figure: Use photos of your employees to make the document more personal](Proposals\_EmployeesPhotos.jpg)  
+:::

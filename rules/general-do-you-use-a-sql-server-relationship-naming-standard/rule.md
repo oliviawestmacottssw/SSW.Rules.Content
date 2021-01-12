@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-a-sql-server-relationship-naming-standard
-- general---do-you-use-a-sql-server-relationship-naming-standard
 
 ---
 
@@ -29,7 +28,7 @@ Relationship names are to have this syntax:
 
 [1] The table whose columns are referenced by other tables in a one-to-one or one-to-many relationship.
 Rather than accepting the default value i.e. ClientAccount\_FK01 that is given from upsizing.
-<dl class="ssw15-rteElement-ImageArea"><img src="imgRelationshipPic1.gif" alt="" style="margin:5px;"></dl>
+![](imgRelationshipPic1.gif)
 
 ::: bad
 Figure: Bad Example - using the default relationship name
@@ -38,7 +37,7 @@ Figure: Bad Example - using the default relationship name
 
 
 We recommend using Prod-ClientAccount.
-<dl class="ssw15-rteElement-ImageArea"><img src="imgRelationshipPic2.gif" alt="" style="margin:5px;"></dl>
+![](imgRelationshipPic2.gif)
 
 ::: good
 Figure: Good Example - using a more descriptive relationship name
@@ -49,6 +48,6 @@ Figure: Good Example - using a more descriptive relationship name
 
 
 The good thing is when you look at the relationship from the other side it is there as well.
-<dl class="ssw15-rteElement-ImageArea"><img src="imgRelationshipPic3.gif" alt="" style="margin:5px;"></dl> **Figure: Relationship name shown on the other table
+![](imgRelationshipPic3.gif) **Figure: Relationship name shown on the other table
 ** 
 We also believe in using Cascade Updates - but never cascade deletes.

@@ -19,7 +19,5 @@ redirects:
 To ensure privacy, and not allow parties to get hold of each others' email addresses, emails to multiple parties should be entered in the 'Bcc' field (not the 'To' field).
 
 <!--endintro-->
-
-![Send bulk email via 'To' field](better_emails_bulk_to.jpg)
-
-![Send bulk email via 'Bcc' field](better_emails_bulk_bcc.JPG)
+![Bad](better_emails_bulk_to.jpg) Bad Example: Send bulk email via 'To' field 
+![Good](better_emails_bulk_bcc.JPG) Good Example: Send bulk email via 'Bcc' field

@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/damian-brady
 related: []
 redirects:
-- do-you-know-the-common-design-principles-part-2---example
 - do-you-know-the-common-design-principles-(part-2-example)
 
 ---
@@ -22,8 +21,7 @@ redirects:
 The hot spots identified in your solution often indicate violations of common design principles.
 
 <!--endintro-->
-
-![Check Address.Save](CodeMetrics_3.png)() and Customer.LoadCustomer() looking for SOLID refactor opportunities
+![Check Address](CodeMetrics_3.png)Figure: Check Address.Save() and Customer.LoadCustomer() looking for SOLID refactor opportunities
 The most common problem encountered will be code that violates the Single Responsibility Principle (SRP). Addressing SRP issues will see a reduction in the following 3 metrics:
 
 1. "Cyclomatic Complexity" which indicates that your methods are complex, then

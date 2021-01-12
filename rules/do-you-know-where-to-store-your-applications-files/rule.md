@@ -17,7 +17,11 @@ redirects:
 Although many have differing opinions on this matter, Windows applications have standard storage locations for their files, whether they're settings or user data. Some will disagree with those standards, but it's safe to say that following it regardless will give users a more consistent and straightforward computing experience.
 
 The following grid shows where application files should be placed:
-<dl class="image"><dt><img src="store-files.jpg" alt="store-files.jpg"></dt> </dl>
+
+::: ok  
+![](store-files.jpg)  
+:::  
+
 <!--endintro-->
 
 

@@ -9,8 +9,7 @@ authors:
 - title: Ben Cull
   url: https://ssw.com.au/people/ben-cull
 related: []
-redirects:
-- do-you-use-hiddenvisible-classes-when-resizing-to-hideshow-content
+redirects: []
 
 ---
 
@@ -33,15 +32,15 @@ As well as being able to hide content per view, you can also selectively show it
 * .visible-md
 * .visible-lg
 
-<dl class="badImage"><dt> 
-      <img src="RulesBootstrap - hidden.png" alt="RulesBootstrap - hidden.png" style="margin:5px;width:550px;"> 
-   </dt><dd>Bad Example: The mobile view on the right has a large unneccessary title.</dd></dl>
+
+::: bad  
+![Bad Example: The mobile view on the right has a large unneccessary title.](RulesBootstrap - hidden.png)  
+:::  
+
 Remove the title by adding the .hidden-xs class.
 
+&lt;h1 class="hidden-xs"&gt;ASP.NET&lt;/h1&gt;
 
-
-# ASP.NET
-
-<dl class="goodImage">   <dt> 
-      <img src="RulesBootstrap - hidden2.png" alt="RulesBootstrap - hidden2.png" style="margin:5px;width:550px;"> 
-   </dt><dd>Good Example: The mobile view is now leaner and cleaner thanks to our .hidden-xs class.</dd></dl>
+::: good  
+![Good Example: The mobile view is now leaner and cleaner thanks to our .hidden-xs class.](RulesBootstrap - hidden2.png)  
+:::

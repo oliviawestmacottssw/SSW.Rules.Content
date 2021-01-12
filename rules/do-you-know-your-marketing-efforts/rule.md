@@ -41,4 +41,7 @@ The ‘effort’ is the daily tasks you will complete to achieve your goals, for
 
 
 It's in this phase that you’ll basically decide on what activities you will use to help achieve your goals.
-<dl class="image"><dt><img src="marketing-stragtegy-resources.png" alt="marketing-stragtegy-resources.png" style="width:750px;"></dt><dd>Figure: Examples of resources that you can use on your marketing strategy<br></dd></dl>
+
+::: ok  
+![Figure: Examples of resources that you can use on your marketing strategy](marketing-stragtegy-resources.png)  
+:::

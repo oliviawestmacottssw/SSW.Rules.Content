@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- management---do-you-spec-in-bite-sized-pieces
+redirects: []
 
 ---
 

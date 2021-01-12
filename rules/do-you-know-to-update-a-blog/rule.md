@@ -29,17 +29,21 @@ UPDATED: 1 August 2010 [what you changed]
 
 :::
 
-<dl class="image"><dt> 
-      <img src="RulesBloggingUpdate_OKPeter.jpg" alt=""> 
-   </dt><dd>Figure: OK example – Although Peter has the right idea, he needs to think more of a global audience - 
-      <a href="http://blog.gfader.com/2010/06/avoid-boolean-parameters-in-method.html">See live</a></dd></dl><dl class="goodImage"><dt> 
-      <img title="image" alt="image" src="RulesBloggingUpdate_UltimateMike.jpg"> 
-   </dt><dd>Figure: Ultimate example – Mike has gotten into the swing of things - 
-      <a href="http://mikefourie.wordpress.com/2010/07/02/windows-live-essentials-wave-4-betalive-sync/">See live</a></dd></dl>
+
+::: ok  
+![Figure: OK example – Although Peter has the right idea, he needs to think more of a global audience -        See live](RulesBloggingUpdate\_OKPeter.jpg)  
+:::  
+
+::: good  
+![Figure: Ultimate example – Mike has gotten into the swing of things -        See live](RulesBloggingUpdate\_UltimateMike.jpg)  
+:::  
+
 You should also apply this technique to youtube videos you record.
-<dl class="goodImage"><dt> 
-      <img src="UpdatedYoutubeTitle.png" alt="UpdatedYoutubeTitle.png"> 
-   </dt><dd>Figure: Good Example - Following up on bug video makes it clear that the bug was fixed quickly<br></dd></dl>
+
+::: good  
+![Figure: Good Example - Following up on bug video makes it clear that the bug was fixed quickly](UpdatedYoutubeTitle.png)  
+:::  
+
 ### Related Rule
 
 * [Do you explain why you've deleted or modified an appointment?](/appointments-do-you-explain-why-youve-deleted-or-modified-an-appointment)

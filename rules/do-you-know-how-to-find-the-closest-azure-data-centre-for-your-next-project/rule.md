@@ -24,6 +24,7 @@ As well as testing latency it has additional tests that come in handy like:
 * Large File Upload Test
 * Download Test <br>
 
-<dl class="image"><dt>
-      <img src="azure-speed.jpg" alt="azure-speed.jpg">
-   </dt><dd>Figure: AzureSpeed.com example<br></dd></dl>
+
+::: ok  
+![Figure: AzureSpeed.com example](azure-speed.jpg)  
+:::

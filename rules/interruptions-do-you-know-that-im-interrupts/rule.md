@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - know-that-im-interrupts
-- interruptions---do-you-know-that-im-interrupts
 
 ---
 

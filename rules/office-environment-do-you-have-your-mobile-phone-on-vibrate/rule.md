@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-have-your-mobile-phone-on-vibrate
-- office-environment---do-you-have-your-mobile-phone-on-vibrate
 
 ---
 
@@ -26,7 +25,19 @@ If you have a wearable device like an Apple Watch/ Fitbit/ Microsoft Band that c
 
 
 <!--endintro-->
-<dl class="image"><dt> <img src="apple-iwatch-incoming-call.jpg" alt="Apple iWatch Incoming call"> </dt><dd>Figure: With an Apple Watch, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call</dd></dl><dl class="image"><dt> <img src="fitbit-band-incoming-call.jpg" alt="Fitbit Incoming call"> </dt><dd>Figure: With a Fitbit, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call </dd></dl><dl class="image"><dt> <img src="microsoft-band-incoming-call.jpg" alt="Microsoft Band Incoming call"> </dt><dd>Figure: With a Microsoft Band, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call</dd></dl>
+
+::: ok  
+![Figure: With an Apple Watch, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](apple-iwatch-incoming-call.jpg)  
+:::  
+
+::: ok  
+![Figure: With a Fitbit, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](fitbit-band-incoming-call.jpg)  
+:::  
+
+::: ok  
+![Figure: With a Microsoft Band, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](microsoft-band-incoming-call.jpg)  
+:::  
+
 This has the following advantages:
 
 * You get to only answer the phone when it is convenient for you

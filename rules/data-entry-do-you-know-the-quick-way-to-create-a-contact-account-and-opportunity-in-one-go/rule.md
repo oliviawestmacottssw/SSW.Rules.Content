@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - data-entry-do-you-know-the-quick-way-to-create-a-contact-account-and-opportunity-in-1-go
-- data-entry---do-you-know-the-quick-way-to-create-a-contact-account-and-opportunity-in-one-go
 
 ---
 
@@ -26,13 +25,17 @@ The process is:
 1. In CRM, create a Lead.
 2. Convert it into an Opportunity, Contact and Account using the Qualify button.
 
-<dl class="image"><dt>
-         <img alt="Become familiar with the 'Convert Lead' button" src="CRM_ConvertLead.jpg">
-      </dt><dd>Figure: Create a Lead, then become familiar with the time saving "Qualify" button<br></dd></dl>
+
+::: ok  
+![Figure: Create a Lead, then become familiar with the time saving "Qualify" button](CRM\_ConvertLead.jpg)  
+:::  
+
 Clicking on the "Qualify" button allows the automatic generation of Accounts, Contacts and Opportunities, and also allows you to check for potential duplicates being created.
-<dl class="image"><dt>
-         <img alt="Convert Lead Web Page Dialog" src="CRM_ConvertLeadDialg.jpg">
-      </dt><dd>Figure: CRM 2013 also checks for existing records before creating new ones</dd></dl>
+
+::: ok  
+![Figure: CRM 2013 also checks for existing records before creating new ones](CRM\_ConvertLeadDialg.jpg)  
+:::  
+
 This will:
 
 1. Deactivate the Lead

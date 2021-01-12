@@ -46,7 +46,7 @@ Here are some tips for performing searches:
 ### Search a specific property 
 
 
-if you are familiar with the structure of the metadata in the content you're searching, you can restrict your searches to a property with the syntax <property>:<search term="">. E.g. to search the filename field for the term "report", you would use "filename:report".<br></search></property>
+if you are familiar with the structure of the metadata in the content you're searching, you can restrict your searches to a property with the syntax &lt;property&gt;:&lt;search term&gt;. E.g. to search the filename field for the term "report", you would use "filename:report".
 
 Example of properties you can use (common ones);
 
@@ -57,7 +57,11 @@ Example of properties you can use (common ones);
 
 
 **More:** https://docs.microsoft.com/en-us/office365/securitycompliance/keyword-queries-and-search-conditions
-<dl class="image"><dt><img src="filter-sharepoint-example.png" alt="filter-sharepoint-example.png" style="width:750px;"></dt><dd>Figure: Example of using Filetype: filter</dd></dl>Use Boolean OR and AND operators
+
+::: ok  
+![Figure: Example of using Filetype: filter](filter-sharepoint-example.png)  
+:::  
+Use Boolean OR and AND operators
 Similar to Google and Bing, you can use OR and AND Boolean operators. E.g. "sharepoint AND search".
 
 

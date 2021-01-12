@@ -18,4 +18,15 @@ Check "Always keep on this device" so you can access your files offline.
 
 
 <!--endintro-->
-<dl class="badImage"><dt> <img src="onedrive-bad.jpg" alt="onedrive-bad.jpg"> </dt><dd>Figure: Bad example - By default you cannot open your files when you have no internet</dd></dl> <dl class="image"> <dt> <img src="onedrive-instructions.jpg" alt="onedrive-instructions.jpg"> </dt><dd>Figure: So check "Always keep on this device"</dd></dl><dl class="goodImage"><dt> <img src="onedrive-good.jpg" alt="onedrive-good.jpg"> </dt><dd>Figure: Good example – you can now open offline <br><br><br></dd></dl>
+
+::: bad  
+![Figure: Bad example - By default you cannot open your files when you have no internet](onedrive-bad.jpg)  
+:::  
+ 
+::: ok  
+![Figure: So check "Always keep on this device"](onedrive-instructions.jpg)  
+:::  
+
+::: good  
+![Figure: Good example – you can now open offline](onedrive-good.jpg)  
+:::

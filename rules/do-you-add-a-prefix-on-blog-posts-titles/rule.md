@@ -65,7 +65,7 @@ Setup and Create a timesheet in TimePRO
 Setup your HR Records (Not for Work Experience) 
 Your details on payroll system CRM - Add your details to CRM 
 How to find an employee’s phone number? 
-Make a small code change on SugarLearning.com (Developers only) 
+Make a small code change on SugarLearning.com (Developers only)
 :::
 
 

@@ -17,6 +17,17 @@ redirects:
 By default, SharePoint diagnostic logging level was set to “Information” and “Medium”, which will log quite a big info, and it increased a log after configuring “hybrid search”:
 
 <!--endintro-->
-<dl class="image"><dt><img src="sp-diagnostic-logging.jpg" alt="sp-diagnostic-logging.jpg"></dt><dd>Figure: default logging levels<br></dd></dl><dl class="image"><dt><img src="sp-diagnostic-logging-2.jpg" alt="sp-diagnostic-logging-2.jpg"></dt><dd>Figure: lots of "Medium" level search logs</dd></dl>This made us had 60GB logs for only 14 days.
+
+::: ok  
+![Figure: default logging levels](sp-diagnostic-logging.jpg)  
+:::  
+
+::: ok  
+![Figure: lots of "Medium" level search logs](sp-diagnostic-logging-2.jpg)  
+:::  
+This made us had 60GB logs for only 14 days.
 So the solution is to change to "diagnostic logging level" as below to reduce the log size:
-<dl class="image"><dt><img src="sp-diagnostic-logging-3.jpg" alt="sp-diagnostic-logging-3.jpg"></dt></dl>
+
+::: ok  
+![](sp-diagnostic-logging-3.jpg)  
+:::

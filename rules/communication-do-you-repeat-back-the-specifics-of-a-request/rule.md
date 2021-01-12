@@ -11,14 +11,15 @@ authors:
 related: []
 redirects:
 - do-you-repeat-back-the-specifics-of-a-request
-- communication---do-you-repeat-back-the-specifics-of-a-request
 
 ---
 
 Misunderstanding due to miscommunication can cause major disasters at work or in life (see: [Tenerife airport disaster](https://en.wikipedia.org/wiki/Tenerife_airport_disaster)).
-<dl class="badImage"><dt>
-      <img src="flight-accident-1977.jpg" alt="flight-accident-1977.jpg">
-   </dt><dd>Figure: KLM Flight 4805 collides with Pan Am Flight 1736 at Tenerife Los Rodeos Airport</dd></dl>
+
+::: bad  
+![Figure: KLM Flight 4805 collides with Pan Am Flight 1736 at Tenerife Los Rodeos Airport](flight-accident-1977.jpg)  
+:::  
+
 A good communication strategy when receiving instructions is to repeat back what's being said to avoid misunderstanding.
 
 <!--endintro-->
@@ -31,4 +32,18 @@ A good communication strategy when receiving instructions is to repeat back what
 :::
 
 
-Possible answers:<br>      <dl class="bad"><br><br>::: greybox<br>"OK" or "Roger That"<br><br>:::<br><br><dd>Figure: Bad Example</dd></dl><dl class="good">         <br><br>::: greybox<br>Ok, I will add a red checkbox on the right<br><br>:::<br><br><dd>Figure: Good Example - repeat back the task<br></dd></dl>
+Possible answers:<br>      
+Figure: Bad Example
+
+:::
+
+"OK" or "Roger That"
+::: greybox
+
+Figure: Good Example - repeat back the task
+
+
+:::
+
+Ok, I will add a red checkbox on the right
+::: greybox

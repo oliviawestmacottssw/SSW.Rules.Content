@@ -18,6 +18,11 @@ If your descriptions have good comments then you don't need to go back to paperw
 e.g.  The period the invoice relates to.
 
 <!--endintro-->
-<dl class="badImage"><dt><img alt="memo field bad example" src="memo-field-bad.jpg">
-</dt><dd>Figure: Bad Example</dd></dl><dl class="goodImage"><dt><img alt="memo field good example" src="memo-field-good.jpg">
-</dt><dd>Figure: Good Example</dd></dl>
+
+::: bad  
+![Figure: Bad Example](memo-field-bad.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example](memo-field-good.jpg)  
+:::

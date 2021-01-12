@@ -12,8 +12,7 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related:
 - do-you-know-how-to-use-balloons-in-screenshots-for-instructions
-redirects:
-- screenshots---do-you-use-balloons-instead-of-a-wall-of-text
+redirects: []
 
 ---
 
@@ -26,24 +25,14 @@ The balloon is great because you can point to a specific part of the image. It i
 Let's look at bad and good examples:
 
 <!--endintro-->
-
-[[badExample]]
-| ![The email is using a screenshot so that is good, but you need to read the text and relate it to the image](BalloonBadExample.jpg)
-
-[[goodExample]]
-| ![The balloon with text on the screenshot, makes it quicker to understand](BalloonGoodExample.jpg)
+![Baloon Bad Example](BalloonBadExample.jpg)Figure: Bad Example – The email is using a screenshot so that is good, but you need to read the text and relate it to the image
+![Check the shadow properties](BalloonGoodExample.jpg)Figure: Good Example – The balloon with text on the screenshot, makes it quicker to understand
 See more details on     [how to configure balloons branding in Fullshot and Snagit](/Pages/HowToConfigureBalloonBranding.aspx).
 
 Now be aware not to go crazy with this balloon rule.
-
-[[badExample]]
-| ![Balloon overload](balloon-overload.jpg)
-
-[[goodExample]]
-| ![See 3 balloons were not needed](balloon-not-needed.JPG)
-
-[[goodExample]]
-| ![Sometimes an arrow is all that is needed](arrow_example.png)
+![Balloon Bad Example](balloon-overload.jpg)Figure: Bad Example – Balloon overload
+![Balloon good example](balloon-not-needed.JPG)Figure: Good Example – See 3 balloons were not needed 
+![Arrow good example](arrow_example.png)Figure: Good Example - Sometimes an arrow is all that is needed
 
 `youtube: https://www.youtube.com/embed/5TB61bqQKtE`
 Figure: Good Example – Betsy Weber Techsmith - Part 1 - Creator of Snagit. See <br>   [full series here](http://tv.ssw.com/204/betsy-weber-teched-interview)

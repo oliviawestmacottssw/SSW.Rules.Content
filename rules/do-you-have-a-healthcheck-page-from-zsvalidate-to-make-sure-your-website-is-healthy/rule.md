@@ -47,23 +47,35 @@ Best of all they have a [Release Gate available on the DevOps market place](http
 
 
 <!--endintro-->
-<dl class="image"><dt><img src="ui-branding.png" alt="ui-branding.png" style="width:750px;"></dt><dd>Figure: Sample Health Page<br></dd></dl><dl class="image"><dt><img src="timeline.png" alt="timeline.png"></dt><dd>Figure: Sample Health of an endpoint being viewed in a timeline i.e. so I can see when was a resource last healthy</dd>
-<br></dl>
+
+::: ok  
+![Figure: Sample Health Page](ui-branding.png)  
+:::  
+
+::: ok  
+![Figure: Sample Health of an endpoint being viewed in a timeline i.e. so I can see when was a resource last healthy](timeline.png)  
+:::  
+
 #### Other products using validation status
-<dl class="image"><dt>
-      <img src="status-microsoft.jpg" alt="Microsoft summary">
-   </dt><dd>Figure: Microsoft Live status - 
-      <a href="http://status.mailchimp.com/" target="_blank">www.apple.com/au/support/systemstatus/</a></dd></dl><dl class="image"><dt>
-      <img src="status-google.jpg" alt="Google Apps summary">
-   </dt><dd>Figure: Google Apps status - 
-      <a href="http://www.google.com/appsstatus" target="_blank">www.google.com/appsstatus</a></dd></dl><dl class="image"><dt>
-      <img src="status-apple.jpg" alt="Apple summary">
-   </dt><dd>Figure: Apple status - 
-      <a href="https://www.apple.com/au/support/systemstatus/" target="_blank">status.mailchimp.com</a></dd></dl><dl class="image"><dt>
-      <img src="status-mailchimp.jpg" alt="Mailchimp summary">
-   </dt><dd>Figure: MailChimp status - 
-      <a href="http://status.mailchimp.com/" target="_blank">status.mailchimp.com</a></dd></dl>
+
+::: ok  
+![Figure: Microsoft Live status -        www.apple.com/au/support/systemstatus/](status-microsoft.jpg)  
+:::  
+
+::: ok  
+![Figure: Google Apps status -        www.google.com/appsstatus](status-google.jpg)  
+:::  
+
+::: ok  
+![Figure: Apple status -        status.mailchimp.com](status-apple.jpg)  
+:::  
+
+::: ok  
+![Figure: MailChimp status -        status.mailchimp.com](status-mailchimp.jpg)  
+:::  
+
 See     [SSW Rules - Do you have a HealthCheck page to test your website dependencies?](https://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterUnitTests.aspx#HealthCheck)
-<dl class="image"><dt>
-      <img src="check-everything.JPG" alt="check-everything.JPG">
-   </dt><dd>Figure: Check everything with care</dd></dl>
+
+::: ok  
+![Figure: Check everything with care](check-everything.JPG)  
+:::

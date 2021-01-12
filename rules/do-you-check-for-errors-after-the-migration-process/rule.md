@@ -19,8 +19,11 @@ After the database has finished being attached to the web application you will g
 2. Check your Application Event log after migration for errors related to your SharePoint Web Application, and fix these accordingly.
 
 
-
 ![](FixEventLogs.png)
-<font class="ms-rteCustom-FigureBad">figure: the event log should show 0 errors after fixing the errors</font>
+
+
+::: bad
+figure: the event log should show 0 errors after fixing the errors
+:::
 
 <!--endintro-->

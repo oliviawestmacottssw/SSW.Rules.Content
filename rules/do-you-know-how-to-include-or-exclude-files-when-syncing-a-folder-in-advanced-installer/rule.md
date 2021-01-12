@@ -26,4 +26,15 @@ Here is how you do it:
 3. Click on <br>       **New** button to create Include pattern. Alternatively you can switch to <br>       **Exclude Filters** tab
 4. Enter the Pattern and press <br>       **OK** on each screen
 
-<dl class="image"><dt><img src="installers-include-exclude-1.jpg" alt=""></dt><dd>Figure: Edit Filters dialog</dd></dl><dl class="badImage"><dt><img src="installers-include-exclude-2.jpg" alt=""></dt><dd>Figure: Bad Example - Synced folder contains files that are not supposed to be deployed</dd></dl><dl class="goodImage"><dt><img src="installers-include-exclude-3.jpg" alt=""></dt><dd>Figure: Good Example - Synced folder is filtered so that it includes only files we want to deploy</dd></dl>
+
+::: ok  
+![Figure: Edit Filters dialog](installers-include-exclude-1.jpg)  
+:::  
+
+::: bad  
+![Figure: Bad Example - Synced folder contains files that are not supposed to be deployed](installers-include-exclude-2.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - Synced folder is filtered so that it includes only files we want to deploy](installers-include-exclude-3.jpg)  
+:::

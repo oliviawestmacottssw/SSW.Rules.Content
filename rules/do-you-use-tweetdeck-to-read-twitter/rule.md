@@ -23,15 +23,23 @@ If you are looking to get the most out of your Twitter experience, you will need
 
 
 
+![Bad Example : Using the Twitter webpage is not the best way to use Twitter.](twitter-webpage.png)
 
-![Bad](twitter-webpage.png)
+
+Bad Example : Using the Twitter webpage is not the best way to use Twitter
 
 <br>The best way to use Twitter is to use the TweetDeck client. This allows alerts you when your are mentioned or direct messaged, and allows you to keep an eye on certain things you are interested in, like  **#hyperv** or  **#ssw** .
 
 
 
 
-
 ![](twitter-tweetdeck.png)
-<font class="ms-rteCustom-FigureGood">Good Example : Using TweetDeck gives you a dashboard to follow topics you are interested in<br></font>
+
+
+::: good
+Good Example : Using TweetDeck gives you a dashboard to follow topics you are interested in
+
+:::
+
+
 You can download TweetDeck here: http://www.tweetdeck.com/

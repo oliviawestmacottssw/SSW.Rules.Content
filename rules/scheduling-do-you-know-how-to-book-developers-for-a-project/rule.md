@@ -11,17 +11,18 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects:
-- scheduling---do-you-know-how-to-book-developers-for-a-project
+redirects: []
 
 ---
 
 It is the responsibility of Account Managers to book developers for known client work, however anyone can book a developer, including the developer themselves. Also if a developer notices they should be booked, but there's nothing in their calendar, and they can't figure out the below, as a minimum they should ask the Account Manager to book them.
 
 To book a developer:
-<dl class="image"><dt>
-      <img alt="Create new appointment in CRM" src="ServiceCalendar2013.jpg" style="width:95%;">
-   </dt><dd>Figure: Using the Service Calendar, you can see who is and is not available at a given time</dd></dl>
+
+::: ok  
+![Figure: Using the Service Calendar, you can see who is and is not available at a given time](ServiceCalendar2013.jpg)  
+:::  
+
 There are a few different ways of booking developers for project work, either via Outlook or the browser.
 
 <!--endintro-->
@@ -40,12 +41,20 @@ This is generally the easiest way for developers to book themselves in as they d
 5. Set the recurrence if it’s more than 1 day of work
 6. Click "Dynamics 365" on the ribbon which will open a side panel and click on "Set Regarding" then search select the company that you want to book the developers to work on (this is the step that syncs it with CRM)
 
-<dl class="image"><dt> <img src="Dynamics1.jpg" alt="Dynamics1.jpg" style="margin:5px;width:750px;height:299px;"> <br></dt><dd>Figure: A complete appointment booking Brendan to work for SSW for 5 days</dd><dd><span style="color:#cc4141;font-family:" segoe="" ui",="" "trebuchet="" ms",="" tahoma,="" arial,="" verdana,="" sans-serif;font-size:18px;font-weight:normal;"=""><br></span></dd><dd><span style="color:#cc4141;font-family:" segoe="" ui",="" "trebuchet="" ms",="" tahoma,="" arial,="" verdana,="" sans-serif;font-size:18px;font-weight:normal;"="">Opti</span><span style="color:#cc4141;font-family:" segoe="" ui",="" "trebuchet="" ms",="" tahoma,="" arial,="" verdana,="" sans-serif;font-size:18px;font-weight:normal;"="">on 2: C</span><span style="color:#cc4141;font-family:" segoe="" ui",="" "trebuchet="" ms",="" tahoma,="" arial,="" verdana,="" sans-serif;font-size:18px;font-weight:normal;"="">R</span><span style="color:#cc4141;font-family:" segoe="" ui",="" "trebuchet="" ms",="" tahoma,="" arial,="" verdana,="" sans-serif;font-size:18px;font-weight:normal;"="">M Activity Appointments </span></dd></dl>
+
+::: ok  
+![Figure: A complete appointment booking Brendan to work for SSW for 5 daysOption 2: CRM Activity Appointments](Dynamics1.jpg)  
+:::  
+
 This is a backup option for anyone who doesn't have access to Outlook with the CRM add-in.
 
 1. Create new appointment in Dynamics 365 Online
 
-<dl class="ssw15-rteElement-ImageArea"><img src="Dynamics-Calendar-App.jpg" alt="Dynamics-Calendar-App.jpg" style="color:#333333;margin:5px;width:750px;height:348px;"><span style="color:#555555;font-weight:bold;">F</span><span style="color:#555555;font-weight:bold;">i</span><span style="color:#555555;font-weight:bold;">gure: Click Appointment to create a new appointment in CRM</span><span style="color:#555555;font-weight:bold;"><dl class="ssw15-rteElement-ImageArea"><span style="color:#555555;font-weight:bold;"><br></span></dl></span></dl>
+
+::: ok  
+![Figure: Click Appointment to create a new appointment in CRM](Dynamics-Calendar-App.jpg)  
+:::  
+
 1. Set the Subject
 2. Select the resources that you want to book
 3. Select the client that you want to book the developers to work on
@@ -55,7 +64,11 @@ This is a backup option for anyone who doesn't have access to Outlook with the C
 
 
 Tip: If you do not want the to block your calendar, you can change the orgainzer and owner to the developer you are booking. It will still track to the Service Calendar, but wont add it to your personal calendar, only the developers.
-<dl class="image"><dt> <img src="Dynamics-Appointment.jpg" alt="Dynamics-Appointment.jpg" style="margin:5px;width:750px;height:367px;"> <br></dt><dd>Figure: A complete CRM Appointment for a 1-day booking<br></dd></dl>
+
+::: ok  
+![Figure: A complete CRM Appointment for a 1-day booking](Dynamics-Appointment.jpg)  
+:::  
+
 ### Adding Tentative Bookings
 
 
@@ -80,8 +93,8 @@ To book someone for internal work:
 2. Instead of choosing a client account for "Set Regarding", choose your own company (E.g. "SSW").
 
 
-
-![Internally Booked days show as black and Pencilled In days show as grey](2020-03-20_10-49-19.png)
+![2020-03-20_10-49-19.png](2020-03-20_10-49-19.png)
+ **Figure: Internally Booked days show as black and Pencilled In days show as grey** 
 
 
  **
@@ -95,14 +108,16 @@ If you have a lot of staff, it can be useful to use a separate calendar to make 
 Unfortunately, you cannot use a sub-folder to track appointments in Outlook. You need to create a whole new email account and then add it to your Outlook folder.
 
 For example at SSW we use the account crmtimeprosync@ssw.com.au to add appointments to our Service Calendar, and add them through the SSWBookings calendar in Outlook:
-<dl class="ssw15-rteElement-ImageArea"><img src="Appointments tracked from Outlook desktop.png" alt="Appointments tracked from Outlook desktop.png" style="margin:5px;width:700px;height:250px;"> <strong>Figure: Appointments tracked from with Outlook desktop</strong> <br><br></dl>
+![Appointments tracked from Outlook desktop.png](Appointments tracked from Outlook desktop.png)
+
+ **Figure: Appointments tracked from with Outlook desktop** 
 **How to set it up**
  **For OWA** 
 Open browser’s incognito mode | go to https://outlook.office.com | logon with the crmtimeprosync@ssw.com.au account
  
  **For Outlook Desktop** 
      Go to Files | Add an account | Restart Outlook once it completes 
-<dl class="ssw15-rteElement-ImageArea"><img src="Add account.jpg" alt="Add account.jpg" style="margin:5px;width:700px;height:204px;"></dl>
+![Add account.jpg](Add account.jpg)
 **Figure: Add crmtimeprosync@ssw.com.au to your Outlook** 
 
  **

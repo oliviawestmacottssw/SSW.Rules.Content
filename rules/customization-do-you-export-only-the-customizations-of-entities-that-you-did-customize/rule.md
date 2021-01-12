@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- customization---do-you-export-only-the-customizations-of-entities-that-you-did-customize
+redirects: []
 
 ---
 
@@ -25,10 +24,7 @@ Export each single entity customization and keep each entity customization in a 
 This way, if an entity is changed or broken on the Live environment, you can re-import           the customization for this entity again, without breaking other entities on live           environment.
 
 Instead of exporting each single entity, you can also export only your customized           entities in 1 step, and afterwards select what entities to import
-<dl class="image">          <dt>
-            <img src="CRM_CUS_01.JPG" alt="Import single customization">
-          </dt>
-          <dd>
-            Figure: You can select the single customization to import
-          </dd>
-        </dl>
+
+::: ok  
+![Figure: You can select the single customization to import](CRM\_CUS\_01.JPG)  
+:::

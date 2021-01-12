@@ -24,10 +24,15 @@ We are always disappointed when adding version information to a Word document. W
 **Follow the guide here** :     http://www.bryansgeekspeak.com/2009/03/moss-2007-show-sharepoint-version.html
 
 **Note:** This also works in SharePoint 2010 and Office 2010.
-<dl class="goodImage">   <dt>
-      <img src="VersionInWord.jpg" alt="">
-   </dt><dd>Figure: Good example, you see the formatted SharePoint version number </dd></dl><dl class="badImage"><dt>
-      <img src="BadVersioning.png" alt="" style="width:90%;">
-   </dt><dd>Bad Example</dd></dl><dl class="goodImage"><dt>
-      <img src="GoodVersioning.png" alt="" style="width:90%;">
-   </dt><dd>Good Example</dd></dl>
+
+::: good  
+![Figure: Good example, you see the formatted SharePoint version number](VersionInWord.jpg)  
+:::  
+
+::: bad  
+![Bad Example](BadVersioning.png)  
+:::  
+
+::: good  
+![Good Example](GoodVersioning.png)  
+:::

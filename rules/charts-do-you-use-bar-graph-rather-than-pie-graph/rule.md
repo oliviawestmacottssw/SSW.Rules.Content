@@ -7,8 +7,7 @@ uri: charts-do-you-use-bar-graph-rather-than-pie-graph
 created: 2014-12-01T05:54:53.0000000Z
 authors: []
 related: []
-redirects:
-- charts---do-you-use-bar-graph-rather-than-pie-graph
+redirects: []
 
 ---
 
@@ -28,10 +27,15 @@ This is a fancy way of saying use the right graph for  the right purpose. Pie gr
 <!--endintro-->
 
 Pie graphs are used to show the general composition of an element. It's good for seeing at a glance what section is dominating, but it doesn't handle details very well.
-<dl class="badImage"><dt> 
-      <img src="../../assets/PieGraph.gif" alt="Bad Label" style="margin:5px;"> 
-   </dt><dd> Figure: Bad Example - This Pie Graph is too complicated and difficult to understand.</dd></dl><dl class="goodImage"><dt> 
-      <img src="../../assets/PieGraph-Good.jpg" alt="Good Label" style="margin:5px;"> 
-   </dt><dd> Figure: Good Example - This Pie Graph has been simplified and it is easy to see at a glance that Nike sold the most sneakers this month compared to others.</dd></dl><dl class="goodImage"><dt> 
-      <img src="../../assets/BarGraph.gif" alt="Good Label" style="margin:5px;width:650px;"> 
-   </dt><dd> Figure: Good Example - This Bar Graph data hasn't even been processed but it's still readable.</dd></dl>
+
+::: bad  
+![Figure: Bad Example - This Pie Graph is too complicated and difficult to understand.](../../assets/PieGraph.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - This Pie Graph has been simplified and it is easy to see at a glance that Nike sold the most sneakers this month compared to others.](../../assets/PieGraph-Good.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - This Bar Graph data hasn't even been processed but it's still readable.](../../assets/BarGraph.gif)  
+:::

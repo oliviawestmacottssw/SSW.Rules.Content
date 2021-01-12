@@ -19,7 +19,7 @@ When there are too many choices always Default to the most common ones.  Then ad
 
 
 ::: greybox
- [x] Only include common choices 
+[x] Only include common choices
 :::
 
 
@@ -32,7 +32,9 @@ Likewise in a contacts database where you have entries from all around the world
 
 
 A good example on that the checkbox on the search screen of TimePRO.NET.
-<dl class="goodImage"><dt> 
-      <img alt="Options Form - ComboBox without Result Count" src="../../assets/DefaultSearch.gif" style="margin:5px;"> 
-   </dt><dd>Figure: Default search tick box in TimePRO.NET</dd></dl>
+
+::: good  
+![Figure: Default search tick box in TimePRO.NET](../../assets/DefaultSearch.gif)  
+:::  
+
 Read our rule on     [Validation - Do you avoid capturing incorrect data?](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Controls.aspx#AvoidIncorrectData)

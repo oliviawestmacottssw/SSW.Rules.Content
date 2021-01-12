@@ -11,11 +11,18 @@ authors:
 related: []
 redirects:
 - show-your-phone-number
-- display---do-you-show-your-phone-number
 
 ---
 
 Using instant messengering applications is all about communication. If something is urgent and you are not answering IMs, it is likely the next thing the person will do is to start looking for your phone number. Make it easy for them by adding your phone number to your Skype profile.
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="Bad-Example-no-number.jpg" alt="Bad example - no number shown"></dt><dd>Figure: Bad example - To contact this person via the phone I will have to ask them for their number<br></dd></dl><dl class="goodImage"><dt><img src="Good-Example-numbers-listed.jpg" alt="Good example - This person is showing their phone numbers to allow urgent issues to be resolved"></dt><dd>Figure: Good example - People are showing their phone numbers to allow urgent issues to be resolved<br></dd></dl>**Note** : Before you make phone calls, see our [Do you prepare, then confirm conversations/decisions?](/do-you-prepare-then-confirm-conversations-decisions)
+
+::: bad  
+![Figure: Bad example - To contact this person via the phone I will have to ask them for their number](Bad-Example-no-number.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - People are showing their phone numbers to allow urgent issues to be resolved](Good-Example-numbers-listed.jpg)  
+:::  
+**Note** : Before you make phone calls, see our [Do you prepare, then confirm conversations/decisions?](/do-you-prepare-then-confirm-conversations-decisions)

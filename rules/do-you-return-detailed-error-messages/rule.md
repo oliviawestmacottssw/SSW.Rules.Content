@@ -156,5 +156,3 @@ Providing a URI to an additional help resources as part of your request will all
 Figure: Good Example - A help link is provided as part of the response.
 
 :::
-
-<dt><br></dt>

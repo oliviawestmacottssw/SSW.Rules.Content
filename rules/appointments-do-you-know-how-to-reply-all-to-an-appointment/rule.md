@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - how-to-reply-all-to-an-appointment
-- appointments---do-you-know-how-to-reply-all-to-an-appointment
 
 ---
 
@@ -29,7 +28,19 @@ Outlook makes this easy:
 * Option 2: Left click on the appointment in your calendar and type "Ctrl + Shift + R"
 * Option 3: Use the ribbon as below
 
-<dl class="image"><dt><img class="ms-rteCustom-ImageArea" alt="Calendar window" src="Outlook 1.png" style="width:750px;"></dt><dd>Figure: Open the appointment in your Calendar (You should already have Invited all the required people to attend)</dd></dl><dl class="image"><dt><img src="Outlook 2.png" alt="" style="width:750px;"></dt><dd>Figure: Click on "Contact Attendees" | "Reply to All with Email" if you created the appointment, or "Respond" | "Reply All" if you were invited</dd></dl><dl class="image"><dt><img alt="Type the messages" src="Outlook 3.png" style="width:750px;"></dt><dd>Figure: Good example – This friendly reminder has the right history (the appointment)</dd></dl>
+
+::: ok  
+![Figure: Open the appointment in your Calendar (You should already have Invited all the required people to attend)](Outlook 1.png)  
+:::  
+
+::: ok  
+![Figure: Click on "Contact Attendees" | "Reply to All with Email" if you created the appointment, or "Respond" | "Reply All" if you were invited](Outlook 2.png)  
+:::  
+
+::: good  
+![Figure: Good example – This friendly reminder has the right history (the appointment)](Outlook 3.png)  
+:::  
+
 Reasons you might want to "Reply All" to an Appointment include:
 
 1. Continuing the conversation after a meeting

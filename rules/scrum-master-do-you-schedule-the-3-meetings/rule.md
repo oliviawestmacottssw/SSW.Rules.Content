@@ -13,8 +13,7 @@ authors:
 - title: Matt Wicks
   url: https://ssw.com.au/people/matt-wicks
 related: []
-redirects:
-- scrum-master---do-you-schedule-the-3-meetings
+redirects: []
 
 ---
 
@@ -72,7 +71,7 @@ Regards,
 
 **XXX**
 
-<this email="" is="" as="" per="" the="" rule=""></this>[https://rules.ssw.com.au/scrum-master-do-you-schedule-the-3-meetings](/scrum-master-do-you-schedule-the-3-meetings) />
+&lt;This email is as per the rule [https://rules.ssw.com.au/scrum-master-do-you-schedule-the-3-meetings](/scrum-master-do-you-schedule-the-3-meetings) /&gt;
 
 
 
@@ -81,8 +80,11 @@ Figure: Good Example - copy this appointment template and send to the Scrum Team
 
 :::
 
-<dl class="goodImage"><dt>
-         <img src="Screen Shot 2020-04-06 at 4.15.50 PM.png" alt="New meeting on Teams" style="width:750px;height:225px;"><br></dt><dd>It's a great idea to run your Scrum meetings through Microsoft Teams so that the whole team is invited and new developers can easily find the meetings see <a href="/run-your-meetings-through-teams">https://rules.ssw.com.au/run-your-meetings-through-teams</a> for more info.</dd></dl>
+
+::: good  
+![It's a great idea to run your Scrum meetings through Microsoft Teams so that the whole team is invited and new developers can easily find the meetings see https://rules.ssw.com.au/run-your-meetings-through-teams for more info.](Screen Shot 2020-04-06 at 4.15.50 PM.png)  
+:::  
+
 
 
 ::: greybox

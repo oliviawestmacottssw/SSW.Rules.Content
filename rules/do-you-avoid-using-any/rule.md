@@ -21,4 +21,11 @@ However, it’s easy to use it as a crutch, and as a result, miss out on handy i
 <!--endintro-->
 
 Aim to use any in the same way that you use the dynamic keyword in C# - that is, sparingly, and with careful consideration.
-<dl class="badImage"><dt><img src="any-bad.png" alt="any-bad.png" data-pin-nopin="true"></dt><dd>Figure: Bad example – I can pass anything into this method, so I get bad output at run time (“undefined undefined”)</dd></dl><dl class="goodImage"><dt><img src="any-good.png" alt="any-good.png"></dt><dd>Figure: Good example – using types means I get errors and intellisense support </dd></dl>
+
+::: bad  
+![Figure: Bad example – I can pass anything into this method, so I get bad output at run time (“undefined undefined”)](any-bad.png)  
+:::  
+
+::: good  
+![Figure: Good example – using types means I get errors and intellisense support](any-good.png)  
+:::

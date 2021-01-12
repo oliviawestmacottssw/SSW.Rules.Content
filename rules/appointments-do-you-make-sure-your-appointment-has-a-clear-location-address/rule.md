@@ -15,15 +15,22 @@ authors:
 - title: Penny Walker
   url: https://ssw.com.au/people/penny-walker
 related: []
-redirects:
-- appointments---do-you-make-sure-your-appointment-has-a-clear-location-address
+redirects: []
 
 ---
 
 Make sure appointments have address details unless it's obvious for all attendees.
 
 <!--endintro-->
-<dl class="badImage"><dt><img alt="Bad location" src="appointment-location-bad-example.jpg"></dt><dd> Figure: Bad Example - Appointment field should have addresses in location when appropriate<br></dd></dl><dl class="goodImage"><dt><img src="map example.png" alt="map example.png" style="width:800px;height:1067px;"></dt><dd>Figure: Good example - Address is clearly identified in the location field, meaning it can be mapped using applications on smartphones</dd></dl> 
+
+::: bad  
+![Figure: Bad Example - Appointment field should have addresses in location when appropriate](appointment-location-bad-example.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - Address is clearly identified in the location field, meaning it can be mapped using applications on smartphones](map example.png)  
+:::  
+ 
 
 It's important to always add the address information in appointments when a third party is included. i.e.:
 

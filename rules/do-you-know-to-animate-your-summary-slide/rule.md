@@ -23,4 +23,7 @@ The summary slide is very important. It's your chance to re-iterate what you hav
 You want them listening to you, not reading ahead.
 
 Animating the items on your Summary slide ensures they are listening to you, not reading ahead.
-<dl class="goodImage"><dt><img src="summary-animation.gif" alt="summary-animation.gif"></dt><dd>Good Example: Animate the points on your Summary slide<br></dd></dl>
+
+::: good  
+![Good Example: Animate the points on your Summary slide](summary-animation.gif)  
+:::

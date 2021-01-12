@@ -20,8 +20,7 @@ In this case the editor (Ulysses) clicked on edit just to see what it looked lik
 The edits that were not significant should show their records as dimmed.
 
 <!--endintro-->
-
-![Version History](VersionHistory_CroppedSmall.jpg)
+![](VersionHistory_CroppedSmall.jpg)**Figure: Version History** 
 P.S. the URL should be nicer than this: 
 
 

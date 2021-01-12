@@ -17,5 +17,9 @@ redirects:
 Pro users can quickly subscribe to emails of the report pages that matter most. Once subscribed, Power BI will regularly send screenshots of the report page directly to your inbox.
 
 <!--endintro-->
-<dl class="image"><dt><div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify"> 
-         <br>`youtube: https&#58;//www.youtube.com/embed/saQx7G0pxhc`<br>&#160;</div><br></dt><dd>Figure&#58; Many people love getting reports in their inbox monthly<br></dd></dl>
+
+
+`youtube: https://www.youtube.com/embed/saQx7G0pxhc`
+ 
+
+Figure: Many people love getting reports in their inbox monthly

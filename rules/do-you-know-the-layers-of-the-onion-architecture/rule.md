@@ -17,7 +17,10 @@ redirects: []
 
 ---
 
-<dl class="image"><dt><a target="_blank" href="/Documents/Onion-Architecture.pdf"><img alt="Onion Architecture" src="Onion-Architecture.jpg"></a></dt><dd>Figure: The layers of the onion architecture</dd></dl>
+::: ok  
+![Figure: The layers of the onion architecture](Onion-Architecture.jpg)  
+:::  
+
 <!--endintro-->
 
 ### Application Core (the grey stuff)

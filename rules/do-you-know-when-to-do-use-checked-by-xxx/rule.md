@@ -58,13 +58,18 @@ Regards, Phil
 **Figure: Use 'Checked by xxx' when sending a complicated email to a group of people
 ** 
 
-Reply to the "Done" email like below and CC the person who checked the email for you. In this way, you show it was double checked. <br>   <dl class="goodImage"><dt> 
-         <img alt="ruleDoneCheckedBy.png" src="ruleDoneCheckedBy.png"> 
-      </dt><dd>Figure: Reply Email with "Checked by XXX"  </dd></dl>
+Reply to the "Done" email like below and CC the person who checked the email for you. In this way, you show it was double checked. <br>   
+::: good  
+![Figure: Reply Email with "Checked by XXX"](ruleDoneCheckedBy.png)  
+:::  
+
 When you action a task for adding web content (such as a rule or suggestion), firstly paste the content into a new Word file and run the "Grammar & Spelling Check" to check if there are any errors. After the "Grammar & Spelling Check", you can add it to your website. After that, run        [Link Auditor](http://sswlinkauditor.com/) in order to keep 0 bad links on that page.
 
-<dl class="goodImage"><dt> 
-      <img src="SpellAndLinkCheck.jpg" alt=""> 
-   </dt><dd>Figure: Reply to the email with grammar & spelling check and CA check results<br></dd></dl><dl class="image"><dt>
-      <img src="four-eyes.jpg" alt="four-eyes.jpg">
-   </dt><dd>Figure: Consider this the '4 eye check' (<a href="https://www.collinsdictionary.com/dictionary/english/four-eyes-principle" target="_blank">four eye principle</a>)<br></dd></dl>
+
+::: good  
+![Figure: Reply to the email with grammar & spelling check and CA check results](SpellAndLinkCheck.jpg)  
+:::  
+
+::: ok  
+![Figure: Consider this the '4 eye check' (four eye principle)](four-eyes.jpg)  
+:::

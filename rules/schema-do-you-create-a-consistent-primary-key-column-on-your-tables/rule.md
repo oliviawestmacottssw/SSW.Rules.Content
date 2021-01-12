@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - create-a-consistent-primary-key-column-on-your-tables
-- schema---do-you-create-a-consistent-primary-key-column-on-your-tables
 
 ---
 

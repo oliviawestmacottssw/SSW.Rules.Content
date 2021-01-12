@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - do-you-go-two-miles-when-youre-only-asked-to-go-one
-- quality---do-you-go-two-miles-when-youre-only-asked-to-go-one
 
 ---
 
@@ -36,5 +35,5 @@ While not everyone chooses                     to agree with everything He said,
 * The sense of work-place isolation disappears
 * Productivity lifts as tasks can be achieved quicker
 
-<dl class="ssw15-rteElement-ImageArea"><img src="CowsBum.JPG" alt="CowsBum.JPG" style="margin:5px;"></dl> **Figure: Going the extra mile** 
+![CowsBum.JPG](CowsBum.JPG) **Figure: Going the extra mile** 
 This rule particularly applies when a person is [blocked](/Pages/Ask-questions-where-you-are-stuck.aspx)– as identified in their Daily Scrum.

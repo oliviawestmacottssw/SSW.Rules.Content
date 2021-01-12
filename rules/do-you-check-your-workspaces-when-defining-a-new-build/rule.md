@@ -25,6 +25,5 @@ redirects: []
 
 <font face="Calibri"> </font>
 
-
 ![](good_workspace.png)
  **<font face="Calibri">  <img src="good.gif" alt="" style="margin:5px;">Figure: Good example – Only the relevant workspace has been included in this build definition</font>**

@@ -19,8 +19,11 @@ It's a good idea to make sure your page names are consistent       between:
 
 
 <!--endintro-->
-<dl class="badImage"><dt> 
-      <img src="../../assets/BadPageName.jpg" alt="" style="margin:5px;">
-   </dt><dd>Figure: Bad example - Inconsistency everywhere!</dd></dl><dl class="goodImage"><dt> 
-      <img src="../../assets/GoodPageName.jpg" alt="" style="margin:5px;">
-   </dt><dd>Figure: Good example - Title, Header and Navigation Menu item have the same text.</dd></dl>
+
+::: bad  
+![Figure: Bad example - Inconsistency everywhere!](../../assets/BadPageName.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - Title, Header and Navigation Menu item have the same text.](../../assets/GoodPageName.jpg)  
+:::

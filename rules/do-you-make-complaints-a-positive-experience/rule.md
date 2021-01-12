@@ -35,9 +35,10 @@ E.g. the account manager or project manager
 
 :::
 
-<dl class="image"><dt>
-            <img src="old-phone-connection.jpg" alt="old-phone-connection.jpg">
-         </dt><dd>Figure: Conference in another person to solve the problem - it's a lot easier than it used to be<br></dd></dl>
+
+::: ok  
+![Figure: Conference in another person to solve the problem - it's a lot easier than it used to be](old-phone-connection.jpg)  
+:::
 4. Follow up the proposed solution in writing
 
 

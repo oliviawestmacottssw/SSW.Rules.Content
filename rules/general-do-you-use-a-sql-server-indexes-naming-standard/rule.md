@@ -9,7 +9,6 @@ authors: []
 related: []
 redirects:
 - use-a-sql-server-indexes-naming-standard
-- general---do-you-use-a-sql-server-indexes-naming-standard
 
 ---
 

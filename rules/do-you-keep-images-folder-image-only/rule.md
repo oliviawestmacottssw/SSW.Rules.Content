@@ -17,9 +17,15 @@ redirects: []
 
 We want to keep clear and simple file structure in our solution. Never put any files other than images file in \images folder.  
 <!--endintro-->
-<dl class="badImage">    <dt><img style="border-bottom:0px solid;border-left:0px solid;border-top:0px solid;border-right:0px solid;" border="0" alt="Image bad link" src="OnlyImageBad.gif"> </dt>
-    <dd>Bad example - HTML file in \Images Folder.</dd></dl><dl class="goodImage">    <dt><img style="border-bottom:0px solid;border-left:0px solid;border-top:0px solid;border-right:0px solid;" border="0" alt="Image good link" src="OnlyImageGood.gif"> </dt>
-    <dd>Good example - Images only, clean \Images folder.</dd></dl>
+
+::: bad  
+![Bad example - HTML file in \Images Folder.](OnlyImageBad.gif)  
+:::  
+
+::: good  
+![Good example - Images only, clean \Images folder.](OnlyImageGood.gif)  
+:::  
+
 
 
 

@@ -15,7 +15,6 @@ authors:
 related: []
 redirects:
 - calendar-do-you-know-the-ways-to-share-and-see-others-calendars
-- calendar---do-you-know-the-ways-to-see-others-calendars
 
 ---
 
@@ -39,9 +38,12 @@ This can keep track of important things like client work and leave. See [Schedul
 
 **Note:** The CRM Service Calendar is deprecated; Microsoft are now moving to Dynamics Universal Resource Scheduling 
 
+![ServiceCalendar.png](ServiceCalendar.png)
 
-![](ServiceCalendar.png)
-<dl class="image"><dd>Figure: The CRM Service Calendar shows everyone's booked in client work and leave</dd></dl>
+::: ok  
+![Figure: The CRM Service Calendar shows everyone's booked in client work and leave](ServiceCalendar.png)  
+:::  
+
 
 
 
@@ -58,6 +60,7 @@ To share a team calendar, you just need to give the calendar URL to the person i
 E.g. https://sswcom.sharepoint.com/sites/SSWSugarLearning391/Lists/Team%20Calendar/calendar.aspx
 
 **Tip:** You can also connect the SharePoint calendar to your Outlook. Here's how to do that:
-<dl class="image"><dt> 
-      <img src="sharepoint-sharing-calendar - using outlook.png" alt="sharepoint-sharing-calendar - using outlook.png" style="width:750px;height:518px;"> 
-   </dt><dd>Figure: In SharePoint 2016: On the "Calendar" tab, click "Connect to Outlook" to show the calendar in your Outlook account<br></dd></dl>
+
+::: ok  
+![Figure: In SharePoint 2016: On the "Calendar" tab, click "Connect to Outlook" to show the calendar in your Outlook account](ServiceCalendar.png)  
+:::

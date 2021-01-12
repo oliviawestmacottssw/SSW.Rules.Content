@@ -8,7 +8,7 @@ index:
 - tools-do-you-know-what-angular-tools-to-install-for-an-angular-project
 - tools-do-you-know-the-best-ide-for-angular-and-react
 - do-you-know-the-right-way-to-create-your-angular-project
-- options-do-you-know-that-the-aspnet-core-spa-template-for-angular-uses-the-angular-cli
+- options-do-you-know-that-the-asp-net-core-spa-template-for-angular-uses-the-angular-cli
 - options-do-you-use-typescript-for-your-angular-and-react-applications
 - do-you-know-the-best-sample-applications
 - do-you-know-the-best-learning-resources-for-angular

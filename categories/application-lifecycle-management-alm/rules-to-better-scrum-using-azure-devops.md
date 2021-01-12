@@ -36,7 +36,7 @@ index:
 - ending-a-sprint-do-you-know-when-to-remove-pbis-from-the-sprint
 - ending-a-sprint-do-you-know-what-to-do-with-partially-completed-pbi
 - ending-a-sprint-do-you-know-what-to-do-when-your-sprint-fails
-- are-you-flexible-with-the-order-you-do-the-work-ie-cancelling-a-sprint
+- are-you-flexible-with-the-order-you-do-the-work-i-e-cancelling-a-sprint
 - do-you-always-know-what-are-you-working-on
 - do-you-have-a-demo-script-for-your-sprint-review-meeting-important
 - do-you-know-how-you-deal-with-impediments-in-scrum
@@ -87,9 +87,8 @@ SSW's Rules to Better [Scrum](http://www.ssw.com.au/ssw/Consulting/Scrum.aspx) a
 
 Adam Cogan, SSW Chief Architect
  
-<dl class="image"> 
-   <dt> 
-      <img src="ProjectManagementSummary_Small.jpg" border="0" alt="" style="margin: 5px; width: 600px; height: 461px;">
-   </dt> 
-   <dd>Figure: Classic stories of Project Management </dd> </dl>
+
+::: ok  
+![Figure: Classic stories of Project Management](ProjectManagementSummary\_Small.jpg)  
+:::
 

@@ -42,9 +42,11 @@ Steps to do this:
 4. Type in the timestamp (E.g. 04:41) on the video description. This also works on comments
 5. Save and YouTube will automatically add a link to that exact time of the video
 
-<dl class="goodImage"><dt>
-      <img src="youtube-video-time-link.jpg" alt="youtube-video-time-link.jpg" style="width:750px;">
-   </dt><dd>Figure: Timestamps are interactive - Users can easily go to each section of the video by clicking on these links or using the slider</dd></dl><dl class="goodImage">   <dt>
-      <img src="table-contents-in-video-screen.png" alt="table-contents-in-video-screen.png" style="width:750px;"> 
-   </dt><dd>Figure: Chapter Markers are rendered over the video and not interactive - A visual table of content inside the video screen - If you watch from 
-      <a href="https://youtu.be/GNdFj-abNNo?t=158">2:38</a> you will see a new section highlighted with a dip to black, <a href="/add-a-sweet-audio-indication-when-text-arrives-on-the-screen">subtle sound effect</a>, and strikethrough on the section that just finished<br></dd></dl>
+
+::: good  
+![Figure: Timestamps are interactive - Users can easily go to each section of the video by clicking on these links or using the slider](youtube-video-time-link.jpg)  
+:::  
+
+::: good  
+![Figure: Chapter Markers are rendered over the video and not interactive - A visual table of content inside the video screen - If you watch from        2:38 you will see a new section highlighted with a dip to black, subtle sound effect, and strikethrough on the section that just finished](table-contents-in-video-screen.png)  
+:::

@@ -24,8 +24,7 @@ The build name should have the following suffixes, depending on their purpose:
 * **.CD.[Environment]** - For continuous delivery builds. These are triggered automatically and deploy to an environment. You should specify which environment it deploys to as well.
 
 
-
-![](buildnames.png)
+![buildnames.png](buildnames.png)
 
 
 

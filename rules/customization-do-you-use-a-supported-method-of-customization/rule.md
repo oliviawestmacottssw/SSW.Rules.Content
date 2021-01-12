@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- customization---do-you-use-a-supported-method-of-customization
+redirects: []
 
 ---
 
@@ -28,12 +27,11 @@ The common ways to customize are:
 
 
 The diagram below briefly outlines what are possible supported methods of customization.
-<dl class="image">            <dt>
-              <img alt=" Microsoft CRM Customization Architecture " src="CRM_Customization_Architecture.JPG" style="width:623px;"></dt>
-            <dd>
-              Figure: Microsoft CRM Customization Architecture
-            </dd>
-          </dl>
+
+::: ok  
+![Figure: Microsoft CRM Customization Architecture](CRM\_Customization\_Architecture.JPG)  
+:::  
+
 Refer to P19 of the CRM Customization Manual Course 8525A for a more in depth discussion.
 
 PS: For CRM 3.0 you can't find everything on the web - you will need the CRM Customization Manual Course 8525A - you have to buy it from Microsoft :-(

@@ -11,8 +11,7 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects:
-- post-production---do-you-know-how-to-promote-videos
+redirects: []
 
 ---
 

@@ -28,8 +28,11 @@ Once you have qualified the lead, your aim for the remainder of the call should 
 2. Send this email [Pre Initial Meeting](/Documents/BriefProposal-PreInitialMeeting.docx).
 
 3. Send an appointment to the client and everyone attending the meeting (copy the email above.).
-<dl class="image"><dt><img alt="Meeting request" src="meeting-request.jpg" style="width:618px;"></dt>
-<dd>Figure: Send an appointment for your initial meeting</dd></dl>
+
+::: ok  
+![Figure: Send an appointment for your initial meeting](meeting-request.jpg)  
+:::  
+
 If the client wants to commence ad-hoc work (e.g. Consulting) without a meeting, you should immediately:
 
 <font color="#3a66cc">1. <a href="/Pages/Enter-into-a-binding-written-contract-with-a-client-before-doing-any-billable-work.aspx">Enter a contract</a></font> with the client.

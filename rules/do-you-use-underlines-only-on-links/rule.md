@@ -20,8 +20,9 @@ redirects: []
 Users expect underlined text to be a hyperlink. Never underline text that isn't a link.
 
 <!--endintro-->
-<dl class="image"><dt> 
-      <img alt="Websites - Underline no hyperlink" src="../../assets/Websites_UnderlineNoHyperlink.gif" data-pin-nopin="true" style="margin:5px;width:377px;">
-   </dt><dd>Figure: Never underline the text when it isn't a link (even 
-      <a target="_blank" href="http://www.ssw.com.au/ssw/Redirect/Microsoft/ScottGu.htm">Scott Guthrie agrees</a>!)</dd></dl>
+
+::: ok  
+![Figure: Never underline the text when it isn't a link (even        Scott Guthrie agrees!)](../../assets/Websites\_UnderlineNoHyperlink.gif)  
+:::  
+
 We have a program called  [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#BreadCrumbs) to check for this rule.

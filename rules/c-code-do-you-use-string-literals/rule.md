@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - how-string-should-be-quoted
-- c-code---do-you-use-string-literals
 
 ---
 

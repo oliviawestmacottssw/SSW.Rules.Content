@@ -48,8 +48,7 @@ Figure: Good example - The quotation on a new line and indenting
 
 You should always indent any quotes that you use on a new line.
 
-
-![](bad-example-adding-quotations.jpg)
+![Bad Example - adding quotations](bad-example-adding-quotations.jpg)
 
 
 ::: bad
@@ -58,8 +57,7 @@ Figure: Bad example - It is hard to tell where the quote is
 :::
 
 
-
-![](good-example-adding-quotations.jpg)
+![Good example of added quotation](good-example-adding-quotations.jpg)
 
 
 ::: good
@@ -71,10 +69,11 @@ Figure: Good example - It is obvious that this is a quote and it is laid out nic
 **
 Tip:** In Windows Live Writer there is a button for this:
 
+![How to add a quote in Windows Live Writer](how-to-add-quote.jpg)
 
-![Use the Quote button in Windows Live Writer](how-to-add-quote.jpg)
 
 
-This wraps your text in a 
+ **Figure: Use the Quote button in Windows Live Writer** 
 
-> HTML element. This lets you display it any way you like on a web page.
+
+This wraps your text in a &lt;blockquote&gt; HTML element. This lets you display it any way you like on a web page.

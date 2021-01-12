@@ -13,11 +13,12 @@ authors:
 related: []
 redirects:
 - use-default-zone-url-in-search-content-source
-- search---do-you-use-default-zone-url-in-search-content-source
 
 ---
 
-<dl class="ssw15-rteElement-ImageArea">Using default zone URL in search content source, it will be automatically convert to the relative URL on the search result.</dl><dl class="ssw15-rteElement-ImageArea">e.g. if a user access  search center via http://projects.ssw.com.au/search, the result will be like http://projects.ssw.com.au/search/xxx. While another user access search center via http<mark>s</mark>://projects.ssw.com.au/search, the result will be http<mark>s</mark>://projects.ssw.com.au/search/xxx.<br><br><img src="https-data-source.jpg" alt="https-data-source.jpg" style="margin:5px;width:808px;"></dl>
+Using default zone URL in search content source, it will be automatically convert to the relative URL on the search result.e.g. if a user access  search center via http://projects.ssw.com.au/search, the result will be like http://projects.ssw.com.au/search/xxx. While another user access search center via http![https-data-source.jpg](https-data-source.jpg)
+
+://projects.ssw.com.au/search/xxx.<mark>s</mark>://projects.ssw.com.au/search, the result will be http<mark>s</mark>
 
 ::: bad
 Bad example: use https://projects.ssw.com.au
@@ -25,7 +26,7 @@ Bad example: use https://projects.ssw.com.au
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="http-data-source.jpg" alt="http-data-source.jpg" style="margin:5px;width:808px;"></dl>
+![http-data-source.jpg](http-data-source.jpg)
 
 ::: good
 Good example: use http://project.ssw.com.au

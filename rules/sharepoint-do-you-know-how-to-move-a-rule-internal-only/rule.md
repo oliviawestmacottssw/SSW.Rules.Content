@@ -14,7 +14,6 @@ related: []
 redirects:
 - how-to-move-a-rule
 - do-you-know-how-to-move-a-rule-(internal-only)
-- sharepoint---do-you-know-how-to-move-a-rule-internal-only
 - sharepoint-do-you-know-how-to-move-a-rule-(internal-only)
 
 ---
@@ -31,14 +30,19 @@ Sometimes you might need to move a rule from a category to another. You can do t
 
 <!--endintro-->
 
-1. Click on "Site Settings": <br>      <dl class="image" style="text-decoration:line-through;"><dt>
-            <img src="site-settings.png" alt="site-settings.png" style="width:259px;"> </dt><dd>Figure: Make sure you are logged in and click on "Site Settings"</dd></dl>
-2. Under "Site Administration", click on "Content and structure": <br>      <dl class="image" style="text-decoration:line-through;"><dt>
-            <img src="content-structure.png" alt="content-structure.png" style="width:259px;">
-         </dt><dd>Figure: Go to "Content and structure"</dd></dl>
-3. Navigate on the categories and pages to find the rule you want to move: <br>      <dl class="image" style="text-decoration:line-through;"><dt>
-            <img src="move-rule.png" alt="move-rule.png" style="width:550px;">
-         </dt><dd>Figure: Find the rule to be moved and click on the small arrow beside it, then click on "Move..."</dd></dl>
-4. Select the new location where the rule should be: <br>      <dl class="image" style="text-decoration:line-through;"><dt>
-            <img src="select-new-place.png" alt="select-new-place.png" style="width:459px;">
-         </dt><dd>Figure: Navigate through categories and click on the place the rule should be moved to and click "OK"</dd></dl>
+1. Click on "Site Settings": <br>      
+::: ok  
+![Figure: Make sure you are logged in and click on "Site Settings"](site-settings.png)  
+:::
+2. Under "Site Administration", click on "Content and structure": <br>      
+::: ok  
+![Figure: Go to "Content and structure"](content-structure.png)  
+:::
+3. Navigate on the categories and pages to find the rule you want to move: <br>      
+::: ok  
+![Figure: Find the rule to be moved and click on the small arrow beside it, then click on "Move..."](move-rule.png)  
+:::
+4. Select the new location where the rule should be: <br>      
+::: ok  
+![Figure: Navigate through categories and click on the place the rule should be moved to and click "OK"](select-new-place.png)  
+:::

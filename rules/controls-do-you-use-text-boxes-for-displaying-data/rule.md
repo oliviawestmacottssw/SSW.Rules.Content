@@ -7,8 +7,7 @@ uri: controls-do-you-use-text-boxes-for-displaying-data
 created: 2012-11-27T09:21:17.0000000Z
 authors: []
 related: []
-redirects:
-- controls---do-you-use-text-boxes-for-displaying-data
+redirects: []
 
 ---
 
@@ -24,14 +23,25 @@ The reasons are:
 
 
 PS: One reason web UI's are nice, is that the information is always selectable/copyable.
-<dl class="badImage"><dt><img alt="Long string cut off when you are using label" src="../../assets/BetterInterface_LabelCutOff.jpg"></dt>
-<dd>Figure: Bad Example - Not only is the data cut off when you are using label, but you can't copy and paste the value</dd></dl><dl class="goodImage"><dt><img alt="Using Textbox is better practice" src="../../assets/GoodTextbox.gif"></dt>
-<dd>Figure: Good Example - Using Textbox controls makes the data obvious to users</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Not only is the data cut off when you are using label, but you can't copy and paste the value](../../assets/BetterInterface\_LabelCutOff.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - Using Textbox controls makes the data obvious to users](../../assets/GoodTextbox.gif)  
+:::  
+
 As you can see you'll barely know the difference, so start using Textboxes for displaying data, that's good practice.
 
 #### More Information
 
 When using TextBox controls in Windows Forms, set them up like this:
-<dl class="image"><dt><img alt="Using Textbox is better practice" src="../../assets/BorderStyle_1.gif"></dt>
-<dd>Figure: Having the 'BorderStyle' Property set to Fixed3D is the best choice visually</dd></dl><dl class="image"><dt><img alt="Using Textbox is better practice" src="../../assets/ReadOnly_1.gif"></dt>
-<dd>Figure: Make the text box Read-Only (users copying data is OK, changing is silly)</dd></dl>
+
+::: ok  
+![Figure: Having the 'BorderStyle' Property set to Fixed3D is the best choice visually](../../assets/BorderStyle\_1.gif)  
+:::  
+
+::: ok  
+![Figure: Make the text box Read-Only (users copying data is OK, changing is silly)](../../assets/ReadOnly\_1.gif)  
+:::

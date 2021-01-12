@@ -20,42 +20,47 @@ In old versions of ASP.NET AJAX the UI control couldn't get notification if t
 **Binding Modes:** 
 
 * Sys.BindingMode.auto
-<br>    This is the default binding mode. Two-way binding on an input control, and one-way binding on a context-type elements such as spans.<br>    <dl class="goodCode">        <dt>
-        <pre>&lt;b&gt;Name&#58; &lt;/b&gt;&lt;input id=&quot;name&quot; type=&quot;text&quot; value=&quot;&#123;binding name, mode=auto&#125;&quot; /&gt;
-&lt;b&gt;Echo&#58; &lt;/b&gt;&lt;span id=&quot;nameDisplay&quot;&gt;&#123;binding name, mode=auto&#125;&lt;/span&gt;
-        </pre>
-        </dt>
-        <dd>Figure&#58; When you update either textbox, the other one will be updated with the same value. </dd>
-    </dl>
+<br>    This is the default binding mode. Two-way binding on an input control, and one-way binding on a context-type elements such as spans.<br>    
+
+```
+<b>Name: </b><input id="name" type="text" value="{binding name, mode=auto}" />
+<b>Echo: </b><span id="nameDisplay">{binding name, mode=auto}</span>
+```
+
+Figure: When you update either textbox, the other one will be updated with the same value.<br>
 * Sys.BindingMode.twoWay
-<br>    This is the default binding mode for input controls.<br>    <dl class="goodCode">        <dt>
-        <pre>&lt;b&gt;Name&#58; &lt;/b&gt;&lt;input id=&quot;name&quot; type=&quot;text&quot; value=&quot;&#123;binding name, mode=twoWay&#125;&quot; /&gt;
-&lt;b&gt;Echo&#58; &lt;/b&gt;&lt;span id=&quot;nameDisplay&quot;&gt;&#123;binding name, mode=twoWay&#125;&lt;/span&gt;
-        </pre>
-        </dt>
-        <dd>Figure&#58; When you update either textbox, the other one will be updated with the same value. </dd>
-    </dl>
-* Sys.BindingMode.oneWay <br>    <dl class="goodCode">        <dt>
-        <pre>&lt;b&gt;Name&#58; &lt;/b&gt;&lt;input id=&quot;name&quot; type=&quot;text&quot; value=&quot;&#123;binding name, mode=oneWay&#125;&quot; /&gt;
-&lt;b&gt;Echo&#58; &lt;/b&gt;&lt;span id=&quot;nameDisplay&quot;&gt;&#123;binding name, mode=twoWay&#125;&lt;/span&gt;
-        </pre>
-        </dt>
-        <dd>Figure&#58; When you update the Name, it won't affect the Echo. </dd>
-    </dl>
+<br>    This is the default binding mode for input controls.<br>    
+
+```
+<b>Name: </b><input id="name" type="text" value="{binding name, mode=twoWay}" />
+<b>Echo: </b><span id="nameDisplay">{binding name, mode=twoWay}</span>
+```
+
+Figure: When you update either textbox, the other one will be updated with the same value.<br>
+* Sys.BindingMode.oneWay <br>    
+
+```
+<b>Name: </b><input id="name" type="text" value="{binding name, mode=oneWay}" />
+<b>Echo: </b><span id="nameDisplay">{binding name, mode=twoWay}</span>
+```
+
+Figure: When you update the Name, it won't affect the Echo.<br>
 * Sys.BindingMode.oneWayToSource
-<dl class="goodCode">        <dt>
-        <pre>&lt;b&gt;Name&#58; &lt;/b&gt;&lt;input id=&quot;name&quot; type=&quot;text&quot; value=&quot;&#123;binding name&#125;&quot; /&gt;
-&lt;b&gt;Echo&#58; &lt;/b&gt;&lt;span id=&quot;nameDisplay&quot;&gt;&#123;binding name, mode=oneWayToSource&#125;&lt;/span&gt;
-        </pre>
-        </dt>
-        <dd>Figure&#58; When you update the Name, it won't affect the Echo. But if you update Echo, it will affect the Name. </dd>
-    </dl>
-* Sys.BindingMode.oneTime<br>    <dl class="goodCode">        <dt>
-        <pre>&lt;b&gt;Name&#58; &lt;/b&gt;&lt;input id=&quot;name&quot; type=&quot;text&quot; value=&quot;&#123;binding name, mode=twoWay&#125;&quot; /&gt;
-&lt;b&gt;Echo&#58; &lt;/b&gt;&lt;span id=&quot;nameDisplay&quot;&gt;&#123;binding name, mode=oneTime&#125;&lt;/span&gt;
-        </pre>
-        </dt>
-        <dd>Figure&#58; When you update the Name in the first time, it will affect the Echo. After the first time, it won't affect the Echo. </dd>
-    </dl>
+
+
+```
+<b>Name: </b><input id="name" type="text" value="{binding name}" />
+<b>Echo: </b><span id="nameDisplay">{binding name, mode=oneWayToSource}</span>
+```
+
+Figure: When you update the Name, it won't affect the Echo. But if you update Echo, it will affect the Name.<br>
+* Sys.BindingMode.oneTime<br>    
+
+```
+<b>Name: </b><input id="name" type="text" value="{binding name, mode=twoWay}" />
+<b>Echo: </b><span id="nameDisplay">{binding name, mode=oneTime}</span>
+```
+
+Figure: When you update the Name in the first time, it will affect the Echo. After the first time, it won't affect the Echo.<br>
 
  The live-binding syntax is similar to binding syntax in WPF (XAML).

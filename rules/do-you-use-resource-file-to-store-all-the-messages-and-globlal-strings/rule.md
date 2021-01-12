@@ -18,7 +18,11 @@ Storing all the messages and global strings in one place will make it easy to ma
 
 
 <!--endintro-->
-<dl class="image"><dt><img src="Code_StoreMessage.jpg" alt="Code_StoreMessage.jpg"></dt><dd> Store messages in the Message.resx</dd></dl>
+
+::: ok  
+![Store messages in the Message.resx](Code\_StoreMessage.jpg)  
+:::  
+
 Catch(SqlNullValueException sqlex)
 {
 Response.Write("The value cannot be null.");

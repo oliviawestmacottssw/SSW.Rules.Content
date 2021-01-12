@@ -9,7 +9,6 @@ authors: []
 related: []
 redirects:
 - do-you-know-the-best-sample-applications
-- do-you-know-the-best-example-projects--react
 - do-you-know-the-best-example-projects-–-react
 
 ---

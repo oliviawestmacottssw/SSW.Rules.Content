@@ -19,4 +19,7 @@ It is important that the network administrator can easily find out how reliable 
 Here is a report that we use to monitor our servers on a daily basis:
 
 <!--endintro-->
-<dl class="goodImage"><dt><img src="WuGReport.png" alt="WuGReport.png" style="margin:5px;width:808px;"><br></dt><dd>Figure: Good example - We can easily see the uptime of all our servers</dd></dl>
+
+::: good  
+![Figure: Good example - We can easily see the uptime of all our servers](WuGReport.png)  
+:::

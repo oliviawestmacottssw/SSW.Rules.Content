@@ -12,7 +12,6 @@ related:
 - relationships---do-you-turn-on-referential-integrity-in-relationships
 redirects:
 - use-update-cascade-when-creating-a-relationship
-- relationships---do-you-use-update-cascade-when-creating-a-relationship
 
 ---
 

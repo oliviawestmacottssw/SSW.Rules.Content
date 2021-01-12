@@ -17,7 +17,6 @@ related:
 - conduct-a-test-please-internally-and-then-with-the-client
 redirects:
 - request-a-test-please
-- quality---do-you-know-how-to-request-a-test-please
 
 ---
 
@@ -95,4 +94,11 @@ Thanks, [XXX]
     * The changes in this version are fairly important to get out
     * You get to work on the failures ASAP
 7. For clients on fixed price contracts, this email marks the start of the 30 day warranty period.
-8. Use TFS to email the work items to the project manager and client: <dl class="image"><dt> <img src="tfs-backlog-email.jpg" alt="tfs-backlog-email.jpg" style="width:550px;"> </dt><dd>Figure: TFS makes it easy to export work items </dd></dl><dl class="image"><dt> <img src="tfs-backlog-email-2.jpg" alt="tfs-backlog-email-2.jpg" style="width:550px;"> </dt><dd>Figure: How the email is generated</dd></dl>
+8. Use TFS to email the work items to the project manager and client: 
+::: ok  
+![Figure: TFS makes it easy to export work items](tfs-backlog-email.jpg)  
+:::  
+
+::: ok  
+![Figure: How the email is generated](tfs-backlog-email-2.jpg)  
+:::

@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - object-name-should-follow-your-company-naming-conventions
-- general---do-you-know-object-name-should-follow-your-company-naming-conventions
 
 ---
 

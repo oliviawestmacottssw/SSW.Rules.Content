@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-use-voice-recordings-when-appropriate
-- communication---do-you-use-videos-or-voice-recordings-instead-of-sending-long-emails
 
 ---
 

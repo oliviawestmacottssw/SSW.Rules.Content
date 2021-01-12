@@ -27,9 +27,13 @@ To hunt down a problem where say the IIS server couldn’t write to a directory,
 2. Apply filter
 3. Rejoice
 
-<dl class="image"><dt>
-      <img src="process-monitor-filter.jpg" alt="">
-   </dt><dd>Figure: Apply filter to only show "ACCESS DENIED" results</dd></dl><dl class="image"><dt>
-         <img src="event-properties.jpg" alt="">
-      </dt><dd>Figure: And here we have the offending account</dd></dl>
+
+::: ok  
+![Figure: Apply filter to only show "ACCESS DENIED" results](process-monitor-filter.jpg)  
+:::  
+
+::: ok  
+![Figure: And here we have the offending account](event-properties.jpg)  
+:::  
+
 <!--endintro-->

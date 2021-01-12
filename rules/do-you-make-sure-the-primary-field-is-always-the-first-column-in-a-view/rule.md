@@ -24,11 +24,23 @@ Some examples below:
 
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="bad-primary-field.png" alt="bad-primary-field.png" style="width:750px;"></dt><dd>Bad Example: A lookup field is the first column</dd></dl>
+
+::: bad  
+![Bad Example: A lookup field is the first column](bad-primary-field.png)  
+:::  
+
 In this example Account is the first column in the view, the natural tendency is the click the first column, and seeing that it's a hyperlink further confirms to the user that this is something they can click on. Clicking the first column ("Northwind Traders") would navigate to the Northwind Traders Account form and not the Opportunity form for Northwind Traders.
-<dl class="badImage"><dt><img src="bad-primary-field-2.png" alt="bad-primary-field-2.png" style="width:750px;"></dt><dd>Bad Example: A regular field is the first column</dd></dl>
+
+::: bad  
+![Bad Example: A regular field is the first column](bad-primary-field-2.png)  
+:::  
+
 In this example Probability is the first column in the view, again users tend to click the first column in the view. In this example, a single click would select the entire row (with tick box selected to the left of the grid), and a double click on the first column would navigate to the Opportunity record.
-<dl class="goodImage"><dt><img src="good-primary-field.png" alt="good-primary-field.png" style="width:750px;"></dt><dd>Good Example: Primary Field is the first column</dd></dl>
+
+::: good  
+![Good Example: Primary Field is the first column](good-primary-field.png)  
+:::  
+
 In this example, the Primary Field is the first column of the view, and single-clicking the first column view navigates to the opportunity record as expected.
 
 ### Summary

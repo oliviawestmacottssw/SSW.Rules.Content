@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - how-to-check-the-version-of-angular
-- tips---do-you-know-how-to-check-the-version-of-angular
 
 ---
 

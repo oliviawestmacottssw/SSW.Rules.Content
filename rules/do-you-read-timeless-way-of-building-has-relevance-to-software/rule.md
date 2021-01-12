@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-read-timeless-way-of-building--has-relevance-to-software
 - do-you-read-timeless-way-of-building-(-has-relevance-to-software)
 
 ---

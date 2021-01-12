@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-database-mail-not-sql-mail
-- dbas---do-you-use-database-mail-not-sql-mail
 - dbas-do-you-use-database-mail-(not-sql-mail)
 
 ---
@@ -28,7 +27,11 @@ SQL Server includes Database Mail (it was a new feature released back in 2005 as
 
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="SQLDatabases_SQLMail.png" alt="SQLDatabases_SQLMail.png" style="width:750px;height:509px;"></dt><dd>Figure: Bad example - Using SQL Mail</dd></dl>
+
+::: bad  
+![Figure: Bad example - Using SQL Mail](SQLDatabases\_SQLMail.png)  
+:::  
+
 EXEC master.dbo.xp\_smtp\_sendmail
 @FROM = N'your@email.com',
 @FROM\_NAME = N'Sophie Belle',
@@ -44,7 +47,11 @@ Figure: Bad example - Avoid using SQL Mail -  you need to have Outlook on the se
 
 :::
 
-<dl class="goodImage"><dt><img src="SqlDatabaseMail01.png" alt="SQLDatabases_DBMail.png" style="width:683px;"><br></dt><dd>Figure: Good example -  Use Database Mail</dd></dl>
+
+::: good  
+![Figure: Good example -  Use Database Mail](SqlDatabaseMail01.png)  
+:::  
+
 USE msdb
 Execute dbo.sp\_send\_dbmail
 @profile\_name = 'UTS',

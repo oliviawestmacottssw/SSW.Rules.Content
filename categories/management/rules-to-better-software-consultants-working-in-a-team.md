@@ -10,7 +10,7 @@ index:
 - teamwork-do-you-manage-up-give-a-recommendation
 - teamwork-do-you-know-the-5-dysfunctions-of-a-team
 - teamwork-do-you-know-the-5-pillars-of-teamwork
-- communication-do-you-chase-your-product-owner-before-he-has-to-chase-you-eg-asking-for-clarification
+- communication-do-you-chase-your-product-owner-before-he-has-to-chase-you-e-g-asking-for-clarification
 - priorities-do-you-complete-work-in-order-of-importance-aka-priorities
 - do-you-know-how-important-timesheets-are
 - calendar-does-your-calendar-always-accurately-show-where-you-are

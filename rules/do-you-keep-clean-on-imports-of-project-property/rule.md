@@ -21,8 +21,7 @@ When programming in a Dot Net environment it is a good practice to remove the de
 This is because IntelliSense lists will be harder to use and navigate with too many imports. For example if in VB.NET, Microsoft.VisualBasic would be a good item to have in the imports list, because it will be used in most areas of your application.
 
 To remove all the default imports, load Project Property page and select Common properties - Imports.
-
-![Using aliases with the Imports Statement](ImportsVB.jpg)
+![Imports VB](ImportsVB.jpg)**Figure: Using aliases with the Imports Statement** 
 The Import statement makes it easier to access methods of classes by eliminating the need to explicitly type the fully qualified reference names. Aliases let you assign a friendlier name to just one part of a namespace.
 
 For example, the carriage return-line feed sequence that causes a single piece of text to be displayed on multiple lines is part of the ControlChars class in the Microsoft.VisualBasic namespace. To use this constant in a program without an alias, you would need to type the following code:

@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- post-production---do-you-use-a-version-number-on-your-videos
+redirects: []
 
 ---
 
@@ -18,13 +17,12 @@ When updating a version of a video (especially in a corporate environment),  it'
 
 <!--endintro-->
 
+![bad-version-example.jpg](bad-version-example.jpg)
 
-[[badExample]]
-| ![the version number is too large, too dark and too obvious](bad-version-example.jpg)
+Figure: Bad example - the version number is too large, too dark and too obvious
 
-
-[[goodExample]]
-| ![the text is small, barely visible and would only be noticeable if you're looking for it.](Version Example.png)
+![Version Example.png](Version Example.png)
+Figure: Good example - the text is small, barely visible and would only be noticeable if you're looking for it.
 
 The best way to label the version is as follows:
 

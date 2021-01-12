@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - use-ngrx-on-complex-applications
-- practices---do-you-know-to-use-ngrx-on-complex-applications
 
 ---
 
@@ -28,7 +27,11 @@ NgRx is the redux pattern implemented for Angular.        [View on GitHub](https
 
 
 <!--endintro-->
-<dl class="image"><dt> <img src="ngrx.png" alt="ngrx.png" data-pin-nopin="true"> </dt><dd>Figure: NgRx supercharges the redux pattern with RxJS <br></dd><dd></dd></dl>
+
+::: ok  
+![Figure: NgRx supercharges the redux pattern with RxJS](ngrx.png)  
+:::  
+
 Benefits:
 
 * Easy state management
@@ -37,7 +40,15 @@ Benefits:
 * Increased performance
 * Code that is easy to test
 
-<dl class="image"><dt> <img src="img1.png" alt="img1.png"> </dt><dd>Figure: NgRx supercharges the redux pattern with RxJS <br></dd></dl><dl class="image"><dt><img src="img2.png" alt="img2.png"></dt><dd>Figure: The redux pattern is a way to implement a predictable state container</dd></dl>
+
+::: ok  
+![Figure: NgRx supercharges the redux pattern with RxJS](img1.png)  
+:::  
+
+::: ok  
+![Figure: The redux pattern is a way to implement a predictable state container](img2.png)  
+:::  
+
 The three principles of the redux pattern:
 
 1. The entire state of the application is represented in a single JavaScript object called a store.

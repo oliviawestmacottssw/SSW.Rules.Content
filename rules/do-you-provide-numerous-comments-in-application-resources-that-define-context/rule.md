@@ -22,4 +22,7 @@ Knowing the context and use of certain strings will help translators choose the 
 
 
 <!--endintro-->
-<dl class="image"><dt><img alt="CommentsInResources.jpg" src="Localization_Commonts.jpg" style="width:750px;"></dt><dd>Figure: Use the comment field in the resx to tell you where it is used<br></dd></dl>
+
+::: ok  
+![Figure: Use the comment field in the resx to tell you where it is used](Localization\_Commonts.jpg)  
+:::

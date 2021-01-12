@@ -12,7 +12,6 @@ related: []
 redirects:
 - tweet-rules-you-follow
 - exercise-if-you-use-a-rule-then-tweet-it
-- twitter---do-you-tweet-rules-that-you-follow
 
 ---
 
@@ -23,6 +22,6 @@ If you follow a rule, then tweet it. Use  **#ssw**  and  **#sswrules**
 
 
 
-<dl class="goodImage"><dd>Figure&#58; Good Example - Tweeting about a rule you use using the right hashtags</dd></dl>
+Figure: Good Example - Tweeting about a rule you use using the right hashtags 
 <!--endintro-->
  You have just tweeted your first rule…

@@ -7,8 +7,7 @@ uri: messages-do-you-use-messages-that-are-concise
 created: 2012-11-27T04:41:51.0000000Z
 authors: []
 related: []
-redirects:
-- messages---do-you-use-messages-that-are-concise
+redirects: []
 
 ---
 
@@ -26,11 +25,17 @@ It is important to use terminology that your users will understand. Do not to us
 * Ran out of memory.
 * You may be out of memory.
 
-<dl class="badImage"><dt><img src="../../assets/Bad-MessageBoxZango.jpg" alt=""></dt>
-<dd>Figure: Bad Example - Is it OK to Cancel?</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Is it OK to Cancel?](../../assets/Bad-MessageBoxZango.jpg)  
+:::  
+
 Microsoft uses this one:
-<dl class="goodImage"><dt><img src="../../assets/NotEnoughMemory.gif" alt="Not Enough Memory"></dt>
-<dd>Figure: Good Example - Microsoft error message is concise</dd></dl>
+
+::: good  
+![Figure: Good Example - Microsoft error message is concise](../../assets/NotEnoughMemory.gif)  
+:::  
+
 Some other message types that Microsoft uses are:
 
 

@@ -15,7 +15,15 @@ redirects:
 Many sites have screenshot galleries that offer a list of all the screens within an application, and an option to enlarge them. There's just one problem: you can't see what they contain!
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="ScreenGalleryBad.gif" alt="Bad Screen Gallery"></dt><dd>Figure: Bad Example - The contents of the screenshots are difficult to make out</dd></dl>
+
+::: bad  
+![Figure: Bad Example - The contents of the screenshots are difficult to make out](ScreenGalleryBad.gif)  
+:::  
+
 What we suggest as an alternative is to have one large image - full size - (and possibly a list of descriptions) to allow users to have a large screenshot to view right from the get go. This might look something like:
-<dl class="goodImage"><dt><img src="ScreenGalleryGood.jpg" alt=""></dt><dd>Figure: Good Example - This is a viable alternative to a typical image gallery.</dd></dl>
+
+::: good  
+![Figure: Good Example - This is a viable alternative to a typical image gallery.](ScreenGalleryGood.jpg)  
+:::  
+
 Our [Code Auditor User Guide](https://www.ssw.com.au/ssw/CodeAuditor/UserGuide.aspx) provides a good example for this rule.

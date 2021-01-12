@@ -23,7 +23,7 @@ A well-designed custom error page encourages surfers to remain in your site and 
 
 <!--endintro-->
 
-<customerrors mode="Off"></customerrors>
+&lt;customErrors mode="Off"&gt;&lt;/customErrors&gt;
 
 
 ::: bad
@@ -32,26 +32,36 @@ Figure: This is the default code on web.config
 :::
 
 
-<customerrors mode="RemoteOnly" defaultredirect="/ssw/ErrorPage.aspx"><br><error statuscode="404" redirect="/ssw/SSWCustomError404.aspx"><br></error></customerrors>
+&lt;customErrors mode="RemoteOnly" defaultRedirect="/ssw/ErrorPage.aspx"&gt;
+&lt;error statusCode="404" redirect="/ssw/SSWCustomError404.aspx"&gt;
+&lt;/customErrors&gt;
 
 
 ::: good
-Figure: this is the current code in the web.config of the SSW Site 
+Figure: this is the current code in the web.config of the SSW Site
 :::
 
 
 For ASP.NET website, the detailed information would be presented to the remote machines when an unhandled error occurs if the customErrors mode is off.
 
-This error information is useful for the developer to do debugging. However, it would leak out some confidential information which could be used to get into your system by the hackers. We can assume that if a SQL exception occurs by accident, which may expose database sensitive information (e.g. connection string; SQL script). So, to prevent these leaks, you should set the "mode" attribute of the tag <customerrors> to "RemoteOnly" or "On" in the web.config file and create a user-friendly customized error page to replace the detailed error information.<br></customerrors>
+This error information is useful for the developer to do debugging. However, it would leak out some confidential information which could be used to get into your system by the hackers. We can assume that if a SQL exception occurs by accident, which may expose database sensitive information (e.g. connection string; SQL script). So, to prevent these leaks, you should set the "mode" attribute of the tag &lt;customerrors&gt; to "RemoteOnly" or "On" in the web.config file and create a user-friendly customized error page to replace the detailed error information.
 
-<customerrors mode="RemoteOnly" defaultredirect="GenericErrorPage.htm"></customerrors>
+&lt;customErrors mode="RemoteOnly" defaultRedirect="GenericErrorPage.htm"&gt;&lt;/customErrors&gt;
 
 
 ::: good
-Figure: Turning on "customErrors" protects sensitive information against Hacker 
+Figure: Turning on "customErrors" protects sensitive information against Hacker
 :::
 
-<dl class="badImage"><dt> <img src="404-bad.jpg" alt="404-bad.jpg"> </dt><dd>Figure: Bad example - Unhandled error</dd></dl><dl class="goodImage"><dt> <img src="404-good.jpg" alt="404-good.jpg"> </dt><dd>Figure: Good example - Custom error page </dd></dl>
+
+::: bad  
+![Figure: Bad example - Unhandled error](404-bad.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - Custom error page](404-good.jpg)  
+:::  
+
 ### Related rule
 
 * [Do you avoid changing the URL on a 404 error?](/404-error-avoid-changing-the-url)

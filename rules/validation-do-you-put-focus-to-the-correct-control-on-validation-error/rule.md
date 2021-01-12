@@ -7,8 +7,7 @@ uri: validation-do-you-put-focus-to-the-correct-control-on-validation-error
 created: 2012-11-27T09:05:50.0000000Z
 authors: []
 related: []
-redirects:
-- validation---do-you-put-focus-to-the-correct-control-on-validation-error
+redirects: []
 
 ---
 
@@ -36,8 +35,13 @@ The reason for the above validation placement is that these events run in the fo
 * Parse/Format
 * Validated
 
-<dl class="goodImage"><dt><img alt="Centrix - Error Provider" src="../../assets/ErrorProviderIconExample.jpg"></dt>
-<dd>Figure: Good Example - Error Provider Icon next to a required field</dd></dl>
+
+::: good  
+![Figure: Good Example - Error Provider Icon next to a required field](../../assets/ErrorProviderIconExample.jpg)  
+:::  
+
 Do  **not** show a message box after every error in validation. You may show a message box as an error summary when an OK or Apply is clicked. Make sure you warn the user that there is an error on the form when they attempt to save.
-<dl class="goodImage"><dt><img alt="Centrix - Error Provider" src="../../assets/ValidationBalloon.png"></dt>
-<dd>Figure: Good Example - Balloon tooltips to indicate validation errors</dd></dl>
+
+::: good  
+![Figure: Good Example - Balloon tooltips to indicate validation errors](../../assets/ValidationBalloon.png)  
+:::

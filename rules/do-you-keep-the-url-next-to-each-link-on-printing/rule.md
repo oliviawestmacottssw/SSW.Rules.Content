@@ -33,4 +33,7 @@ In specific cases, like on breadcrumbs and logo, you don't want these URL's, so 
 <mark>.breadcrumb</mark>a[href]:after {
 content: <mark>none</mark>;
 }
-<dl class="goodImage"><dt><img src="print-url.jpg" alt="print-url.jpg"> </dt><dd>Figure: Good example - printing links on the content but avoiding it on obvious places, like the logo and bradcrumbs</dd></dl>
+
+::: good  
+![Figure: Good example - printing links on the content but avoiding it on obvious places, like the logo and bradcrumbs](print-url.jpg)  
+:::

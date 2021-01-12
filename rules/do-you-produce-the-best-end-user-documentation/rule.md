@@ -148,7 +148,7 @@ $ - The base version is free for everyone else
 
 
 ::: good
-$ - The full version is free for open-source communities. 
+$ - The full version is free for open-source communities.
 :::
 
 
@@ -179,5 +179,4 @@ Integrated with Google Analytics
 :::
 
 
-
-![](gitbook.png)
+![gitbook.png](gitbook.png)

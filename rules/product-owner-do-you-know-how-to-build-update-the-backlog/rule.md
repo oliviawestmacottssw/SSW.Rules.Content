@@ -15,7 +15,6 @@ authors:
 related: []
 redirects:
 - product-owner-do-you-know-how-to-update-the-backlog
-- product-owner---do-you-know-how-to-buildupdate-the-backlog
 
 ---
 
@@ -32,8 +31,7 @@ Bad Example - This is a poor way to add a PBI as you can’t order emails by the
 
 :::
 2. **Azure DevOps** - E.g. https://ssw.visualstudio.com
- 
-![](AzureDevOpsBacklog.png)
+ ![AzureDevOpsBacklog.png](AzureDevOpsBacklog.png)
 
 
 ::: good

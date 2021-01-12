@@ -11,8 +11,7 @@ authors:
 - title: Cameron Shaw
   url: https://ssw.com.au/people/cameron-shaw
 related: []
-redirects:
-- dones---do-you-include-relevant-info-from-attachments-in-the-body-of-the-email
+redirects: []
 
 ---
 

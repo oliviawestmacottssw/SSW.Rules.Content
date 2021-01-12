@@ -14,7 +14,6 @@ related: []
 redirects:
 - design-web-pages-to-work-on-mobile-and-tablets-screens-aka-responsive-web-design
 - do-you-design-your-web-pages-to-work-on-mobile-tablets-screens-28aka-responsive-web-design29
-- do-you-design-your-web-pages-to-work-on-mobiletablets-screens-aka-responsive-web-design
 - do-you-design-your-web-pages-to-work-on-mobile-tablets-screens-(aka-responsive-web-design)
 
 ---
@@ -24,7 +23,11 @@ You may be nicely equipped with a 21" monitor running at a resolution of 1920x14
 Your website should work nicely on screens that vary from a mobile/tablet to a large PC monitor.
 
 <!--endintro-->
-<dl class="goodImage"><dt> <img src="Responsive-Design.jpg" alt="Responsive Design"> </dt><dd>Figure: Good example - A modern website adapts to different screens</dd></dl>
+
+::: good  
+![Figure: Good example - A modern website adapts to different screens](Responsive-Design.jpg)  
+:::  
+
 Google has a web tool to  [test how mobile-friendly your site is.](https://testmysite.thinkwithgoogle.com/)
 
 Know more at [Responsive Web Design: What It Is and How To Use It](http://www.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/).
@@ -38,4 +41,4 @@ When building websites targeting mobile devices it is only part of the solution,
 
 `youtube: https://www.youtube.com/embed/IUE6Ut0GXi4?rel=0`
  
-<dl class="image">  <dd>Figure: Watch the <a href="http://tv.ssw.com/4681/writing-mobile-sites-lessons-learned-top-tips-web-developers" target="_blank">clip with Dino Esposito</a> to find out why</dd></dl>
+Figure: Watch theto find out why[clip with Dino Esposito](http://tv.ssw.com/4681/writing-mobile-sites-lessons-learned-top-tips-web-developers)

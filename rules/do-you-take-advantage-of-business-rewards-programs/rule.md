@@ -32,6 +32,7 @@ Not all travellers will have a frequent flyer membership, but for those that do,
 
 
 <!--endintro-->
-<dd class="ssw15-rteElement-FigureNormal"><img src="qantas-business-rewards-points-activity.jpg" alt="Qantas Business Rewards Points Activity screen" style="margin:5px;"><br></dd> **Figure: Always remember to include the company ABN alongside that traveller’s frequent flyer number for rewards that benefit both the company and the individual
+![Qantas Business Rewards Points Activity screen](qantas-business-rewards-points-activity.jpg)
+ **Figure: Always remember to include the company ABN alongside that traveller’s frequent flyer number for rewards that benefit both the company and the individual
 ** **
 **

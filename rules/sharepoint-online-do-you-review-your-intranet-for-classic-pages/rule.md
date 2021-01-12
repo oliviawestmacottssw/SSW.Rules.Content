@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - review-your-intranet-for-classic-pages
-- sharepoint-online---do-you-review-your-intranet-for-classic-pages
 
 ---
 

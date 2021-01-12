@@ -11,15 +11,17 @@ authors:
 related: []
 redirects:
 - efficiency-do-you-always-try-to-work-in-pairs-1
-- efficiency---do-you-always-try-to-work-in-pairs
 
 ---
 
 There are many good reasons why it's better to work in pairs.  
 
 <!--endintro-->
-<dl class="image"><dt>
-      <img class="ms-rteCustom-ImageArea" alt="Do you always try to work in pairs?" src="ProjectManagement_PairProgramming_Luge.jpg"></dt><dd>Figure: Do you always try to work in pairs?<br></dd></dl>
+
+::: ok  
+![Figure: Do you always try to work in pairs?](ProjectManagement\_PairProgramming\_Luge.jpg)  
+:::  
+
 For everyone:
 
 * Less time stuck on a problem - you have someone familiar with the project to help you work through the problem
@@ -42,11 +44,15 @@ SSW Chief Architect + Microsoft Regional Director
 
 
 If you are not sitting next to a person working on the same project, then fix it. If you cannot then at least mention it to your manager.
-<dl class="badImage"><dt>
-      <img src="PairProgramming01.jpg" alt="">
-   </dt><dd>Figure: Bad example - This is normal ‘pair programming’, two people working at one PC</dd></dl><dl class="goodImage"><dt>
-      <img src="PairProgramming02_Small.jpg" alt="">
-   </dt><dd>Figure: Good example - This is ‘working in pairs’, two guys working on the same project, with their own laptops, but sitting very close to each other</dd></dl>
+
+::: bad  
+![Figure: Bad example - This is normal ‘pair programming’, two people working at one PC](PairProgramming01.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - This is ‘working in pairs’, two guys working on the same project, with their own laptops, but sitting very close to each other](PairProgramming02\_Small.jpg)  
+:::  
+
 ###  Is there an overhead?
 
 Some projects are done quicker with two people - especially when they are complex. But on most projects there is an overhead, because of the extra communication between the developers - you now have to please someone else - not just yourself.

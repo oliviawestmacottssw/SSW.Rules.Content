@@ -22,9 +22,11 @@ Over time, our ability to accurately predict a project's remaining time estimate
 As a team, our understanding of the amount of work remaining on a project becomes more accurate as the project moves along.
 
 At the project’s initial conception, there is a lot to be learnt and consequently the estimates are likely to be inaccurate by a large margin. Half way through, however, the team has a much better idea of what will and will not be in scope, the technical issues are starting to get ironed out, and the estimates of the work now remaining become far more accurate.
-<dl class="image"><dt>
-      <img src="396294_Cone-of-Uncertainty.jpg" border="0" alt="">
-   </dt><dd>Figure: The further away an event is (task, user story, job), the harder it is to know how big (effort, time) it is</dd></dl>
+
+::: ok  
+![Figure: The further away an event is (task, user story, job), the harder it is to know how big (effort, time) it is](396294\_Cone-of-Uncertainty.jpg)  
+:::  
+
 
 
 **Bad example: Waterfall project.**

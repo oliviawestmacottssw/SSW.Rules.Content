@@ -38,7 +38,11 @@ A thumbnail can draw attention by:
 
 
 YouTube offers [resources to create better custom thumbnails](https://support.google.com/youtube/answer/72431?hl=en) including image size and resolution, policies, etc.
-<dl class="ssw15-rteElement-ImageArea"><br><img src="thumbnail_bad.png" alt="" style="margin:5px;width:808px;"></dl>
+
+::: ok  
+![](thumbnail\_bad.png)  
+:::  
+
 
 ::: bad
 Bad example: despite looking "trustworthy", a thumbnail automatically generated from the video is not engaging enough.
@@ -47,10 +51,16 @@ Bad example: despite looking "trustworthy", a thumbnail automatically generated 
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="thumbnail_good.png" alt="" style="margin:5px;width:808px;"> </dl>
+
+::: ok  
+![](thumbnail\_good.png)  
+:::  
+
 
 ::: good
 Good example: a custom thumbnail looks professional and already gives important information about the content of the video.
 :::
 
-<dt><br></dt><dt> <strong>Images</strong> : courtesy of Brian Dean (<a href="https://backlinko.com/grow-youtube-channel">source</a>).<br></dt>
+
+ **Images** 
+).[source](https://backlinko.com/grow-youtube-channel): courtesy of Brian Dean (

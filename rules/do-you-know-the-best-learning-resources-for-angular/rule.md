@@ -19,12 +19,16 @@ redirects:
 ---
 
 Here are the best collection of resources for Angular.
-<dl class="image"><dt> 
-      <img alt="The-Little-Book-of-Angular-v1-8.jpg" src="The-Little-Book-of-Angular-v1-8.jpg" style="width:750px;"> 
-      <br> 
-   </dt><dd>Figure: Download the <a href="/SiteCollectionDocuments/Little-Book-Angular.pdf" target="_blank">Little Book of Angular</a><br></dd></dl>
+
+::: ok  
+![Figure: Download the Little Book of Angular](The-Little-Book-of-Angular-v1-8.jpg)  
+:::  
+
 <!--endintro-->
-<dl class="ssw15-rteElement-ImageArea"><h3 class="ssw15-rteElement-H3">Free Resources <br></h3></dl>
+
+### Free Resources 
+
+
 * **[The official documentation - Angular.io](https://angular.io/)**
 * **NDC Sydney** **- Angular War Stories** - http://bit.ly/ndc-sydney-ng2-war-stories
 * **SSW TV** - http://tv.ssw.com/?s=angular

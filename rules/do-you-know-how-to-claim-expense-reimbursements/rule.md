@@ -34,7 +34,7 @@ All expense claims must:
 
 
 ::: greybox
-**Tip:** If necessary, you can use the Google Translate app to translate your receipts by taking a photo!  
+ **Tip:** If necessary, you can use the Google Translate app to translate your receipts by taking a photo!  
 
 :::
 

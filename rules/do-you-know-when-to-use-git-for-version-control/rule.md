@@ -20,7 +20,11 @@ redirects: []
 Team Foundation Server Update 2 and Team Foundation Server 2013 comes with built in support for Git as a version control system.
 
 <!--endintro-->
-<dl class="image"><dt><img src="git-screen.jpg" alt=""></dt><dd>Figure: How you start using Git on TFS</dd></dl>
+
+::: ok  
+![Figure: How you start using Git on TFS](git-screen.jpg)  
+:::  
+
 You should use Git if you:
 
 * Are running an open source project

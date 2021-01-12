@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - keep-your-stored-procedures-simple
-- stored-procedures---do-you-keep-your-stored-procedures-simple
 
 ---
 

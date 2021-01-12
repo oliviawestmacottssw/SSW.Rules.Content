@@ -17,4 +17,15 @@ redirects:
 You should use PowerApps for your forms.
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="nintex.jpg" alt="nintex.jpg"></dt><dd>Figure: Bad example - Using Nintext</dd></dl><dl class="badImage"><dt><img src="infopath.jpg" alt="infopath.jpg"></dt><dd>Figure: Bad example - Using Infopath</dd></dl><dl class="goodImage"><dt><img src="powerapps.jpg" alt="powerapps.jpg"></dt><dd>Figure: Good example - Using PowerApps</dd></dl>
+
+::: bad  
+![Figure: Bad example - Using Nintext](nintex.jpg)  
+:::  
+
+::: bad  
+![Figure: Bad example - Using Infopath](infopath.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - Using PowerApps](powerapps.jpg)  
+:::

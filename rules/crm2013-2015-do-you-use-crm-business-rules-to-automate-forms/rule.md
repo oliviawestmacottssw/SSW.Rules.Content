@@ -9,8 +9,7 @@ authors:
 - title: Mehmet Ozdemir
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
-redirects:
-- crm20132015---do-you-use-crm-business-rules-to-automate-forms
+redirects: []
 
 ---
 
@@ -30,23 +29,33 @@ Starting with CRM 2013 (and much improved in CRM 2015), users can now use Busine
 <!--endintro-->
 
 Take the following Example:
-<dl class="image"><dt> 
-      <img src="crm-automated-forms-1.png" alt=""> 
-   </dt><dd>Figure: ‘Customer Type Other’ should be hidden and only displayed when Other is selected</dd></dl>
+
+::: ok  
+![Figure: ‘Customer Type Other’ should be hidden and only displayed when Other is selected](crm-automated-forms-1.png)  
+:::  
+
 To make this work use the following Business Rules:
-<dl class="image"><dt> 
-      <img src="crm-automated-forms-2.png" alt=""> 
-   </dt><dd>Figure: Show the ‘Customer Type Other’ field when Customer Type equals Other</dd></dl>
+
+::: ok  
+![Figure: Show the ‘Customer Type Other’ field when Customer Type equals Other](crm-automated-forms-2.png)  
+:::  
+
 The flip side of the expression also needs to be set where Customer Type doesn’t equal Other to hide the ‘Customer Type Other’ field (you could also optionally clear this field too)
-<dl class="image"><dt> 
-      <img src="crm-automated-forms-3.png" alt=""> 
-   </dt><dd>Figure: Hide the ‘Customer Type Other’ field when Customer Type doesn’t equal Other<br></dd></dl>
+
+::: ok  
+![Figure: Hide the ‘Customer Type Other’ field when Customer Type doesn’t equal Other](crm-automated-forms-3.png)  
+:::  
+
 Finally the last step is to      **Activate** the Business Rules. To activate click the activate button on the top right of the tool bar.
 
 Now the form will look like this:
-<dl class="image"><dt> 
-      <img src="crm-automated-forms-4.png" alt=""> 
-   </dt><dd>Figure: Great. Now ‘Customer Type Other’ is hidden</dd></dl><dl class="image"><dt> 
-      <img src="crm-automated-forms-5.png" alt=""> 
-   </dt><dd>Figure: And on the other side ‘Customer Type Other’ is visible</dd></dl>
+
+::: ok  
+![Figure: Great. Now ‘Customer Type Other’ is hidden](crm-automated-forms-4.png)  
+:::  
+
+::: ok  
+![Figure: And on the other side ‘Customer Type Other’ is visible](crm-automated-forms-5.png)  
+:::  
+
 **Note:** CRM 2015 further improves on this by introducing the if… else… construct, so instead of creating two business rules (one for show and one for hide), this rule can be reduced to just one.

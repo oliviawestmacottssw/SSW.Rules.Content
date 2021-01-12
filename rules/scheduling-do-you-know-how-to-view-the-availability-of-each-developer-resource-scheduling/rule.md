@@ -10,15 +10,13 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- scheduling---do-you-know-how-to-view-the-availability-of-each-developer-resource-scheduling
 - scheduling-do-you-know-how-to-view-the-availability-of-each-developer-(resource-scheduling)
 
 ---
 
 As an Account Manager, you'll frequently be required to find a free resource to put onto a project.
 
-
-![](yelling-whos-free.jpg)
+![yelling-whos-free.jpg](yelling-whos-free.jpg)
 
 
 ::: bad
@@ -43,6 +41,9 @@ The calendar provides a one page view of everyone’s availability for a given t
 All of the Appointments in the Service Calendar will also sync to the developers' Outlook calendars, keeping them up to date with where they need to be, when.
 
 You have multiple options for ways to fill this data, which you can see in [<font color="#333333">Scheduling - Do you know how to book developers for a project? </font>](/Pages/How-to-book-developers-for-a-project.aspx)
-<dl class="image"><dt><img alt="Toolbar CRM section in Inbox" src="CRMServiceCalendar.jpg" style="width:600px;height:280px;"></dt> <dd> Figure: The Service Calendar in CRM is showing that Drew is available but Mehmet is busy next week </dd></dl>
+
+::: ok  
+![Figure: The Service Calendar in CRM is showing that Drew is available but Mehmet is busy next week](yelling-whos-free.jpg)  
+:::  
+
 <font color="#555555">Suggestion to Microsoft: One limitation of CRM is that you cannot send a URL to this page to someone, so they will have to navigate to it themselves</font>
-<dl class="image"> </dl>

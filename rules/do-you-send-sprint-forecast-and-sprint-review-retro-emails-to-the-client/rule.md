@@ -14,7 +14,6 @@ related: []
 redirects:
 - send-sprint-forecast-and-sprint-review-retro-emails-to-the-client
 - do-you-send-＂sprint-forecast＂-and-＂sprint-review-retro＂-emails-to-the-client
-- do-you-send-sprint-forecast-and-sprint-reviewretro-emails-to-the-client
 
 ---
 

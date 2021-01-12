@@ -23,7 +23,11 @@ Use a table to summarize the major features of the project. Columns that are nee
 
 
 <!--endintro-->
-<dl class="image"><dt><img src="Proposals_OptionAHighlighted.jpg" alt="Proposals_OptionAHighlighted.jpg"><br></dt><dd>Figure: Highlight the option recommended<br></dd></dl>
+
+::: ok  
+![Figure: Highlight the option recommended](Proposals\_OptionAHighlighted.jpg)  
+:::  
+
 ### Related Rule
 
 * [Teamwork - Do you manage up? (Give a recommendation)](/do-you-manage-up)

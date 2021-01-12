@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - ok-words-in-china
-- chinafy---do-you-know-those-english-words-are-ok-in-china
 
 ---
 
@@ -31,7 +30,7 @@ Here is a list of English words which are OK to use on your user interface:
 * AI
 * 3D
 
-<dl class="ssw15-rteElement-ImageArea">   <img src="microsoft download site.jpg" alt="" style="width:660px;"></dl>
+![](microsoft download site.jpg)
 
 ::: good
 Figure: Good Example - Microsoft's Chinese software downloading site use "FAQ" on the main menu
@@ -40,21 +39,21 @@ Figure: Good Example - Microsoft's Chinese software downloading site use "FAQ" o
 
 
 
-<dl class="ssw15-rteElement-ImageArea">   <img src="sugarlearning cn site.jpg" alt="" style="width:660px;"></dl>
+![](sugarlearning cn site.jpg)
 
 ::: good
 Figure: Good Example - SugarLearning.cn site use "FAQ" on the main menu
 
 :::
 
-<dl class="ssw15-rteElement-ImageArea">   <img src="versionok.png" alt="" style="width:660px;"></dl>
+![](versionok.png)
 
 ::: good
 Figure: Good Example - Apps keep "V" or "Version" in English
 
 :::
 
-<dl class="ssw15-rteElement-ImageArea">   <img src="FACE ID.png" alt="" style="width:660px;"></dl>
+![](FACE ID.png)
 
 ::: good
 Figure: Good Example - iOS keep "ID" in English

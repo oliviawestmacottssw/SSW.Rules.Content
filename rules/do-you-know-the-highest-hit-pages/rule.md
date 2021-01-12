@@ -24,5 +24,11 @@ Measuring which pages receive the most hits will help a great deal when looking 
 A number of great tools exist to find the highest hit pages.
 
 <!--endintro-->
-<dl class="image"><dt>
-      <img src="App-Insights-return-request.png" alt="App-Insights-return-request.png"></dt><dd>Figure: Application Insights can return request counts under the performance screen</dd></dl><dl class="image"><dt><img src="GoogleAnalytics-Stats.png" alt="GoogleAnalytics-Stats.png"> </dt><dd>Figure: Google Analytics provides powerful usage statistics</dd></dl>
+
+::: ok  
+![Figure: Application Insights can return request counts under the performance screen](App-Insights-return-request.png)  
+:::  
+
+::: ok  
+![Figure: Google Analytics provides powerful usage statistics](GoogleAnalytics-Stats.png)  
+:::

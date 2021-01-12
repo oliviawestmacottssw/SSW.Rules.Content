@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - have-a-restoration-standard
-- backup---do-you-have-a-restoration-standard
 
 ---
 

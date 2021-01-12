@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/titus-maclaren
 related: []
 redirects:
-- post-production--do-you-know-how-to-create-the-swing-in-text-effect
 - post-production-–-do-you-know-how-to-create-the-swing-in-text-effect
 
 ---
@@ -22,8 +21,11 @@ The text swing in can be a great way to make a title gain attention, but if the 
 
 
 <!--endintro-->
-<dl class="image"><dt><img src="TextExpression-AfterEffects-TheSwingIn_BadExample.jpg" alt="TextExpression-AfterEffects-TheSwingIn_BadExample.jpg" style="margin:5px;"><br></dt><dt><span class="ssw-rteStyle-FigureBad">Figure: Bad Example - this does not simulate gravity and will be jarring to the viewer</span></dt><dt><br></dt><dt><img src="TextExpression-AfterEffects-TheSwingIn.jpg" alt="TextExpression-AfterEffects-TheSwingIn.jpg" style="margin:5px;"><br></dt><dd><span class="ssw-rteStyle-FigureGood">Figure: Good Example - Angle/time graphic for "Swing In" effect</span></dd></dl><dl class="goodImage"><dt> 
-      <a href="http://youtu.be/0ugMkda9IBw?t=7s"><img alt="Swing-In.jpg" src="Swing-In.jpg"> </a>
-   </dt>
-   <dd>Figure: Good example – A well designed 'swing-in' effect can bring your titles to life - See 0:07 in this 
-      <a href="http://youtu.be/0ugMkda9IBw?t=7s">video example</a></dd></dl>
+
+::: good  
+![Figure: Bad Example - this does not simulate gravity and will be jarring to the viewerFigure: Good Example - Angle/time graphic for "Swing In" effect](TextExpression-AfterEffects-TheSwingIn\_BadExample.jpg)  
+:::  
+
+::: good  
+![Figure: Good example – A well designed 'swing-in' effect can bring your titles to life - See 0:07 in this        video example](Swing-In.jpg)  
+:::

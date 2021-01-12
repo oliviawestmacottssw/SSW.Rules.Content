@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - make-newcomers-feel-welcome
-- starting---do-you-know-how-to-make-newcomers-feel-welcome
 
 ---
 
@@ -27,8 +26,7 @@ There are few simple ways to help new hires feel more comfortable as they adjust
 
 Prior to the newcomer’s arrival, make sure their desk and work area are clean by giving the desktop, monitor, mouse and keyboard a wipe with a damp cloth. Then test that the equipment on their desk, such as the computer, phone and any other electronics, is in good working condition.
 
-
-![](Welcome-Shot.jpg)
+![Welcome-Shot.jpg](Welcome-Shot.jpg)
 
 **The day before they start:**
 
@@ -47,7 +45,7 @@ Other nice day 1 gifts could include:
 * Use a blank notebook to write a welcome note and put handy hints inside, then they can continue to use the notepad during induction!
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="Penny Welcome Pic.jpg" alt="Penny Welcome Pic.jpg" style="margin:5px;width:500px;height:1007px;"></dl>
+![Penny Welcome Pic.jpg](Penny Welcome Pic.jpg)
 
 ::: good
 Good example: Personal, fun welcome to SSW Sydney with all of the good food and coffee tips!

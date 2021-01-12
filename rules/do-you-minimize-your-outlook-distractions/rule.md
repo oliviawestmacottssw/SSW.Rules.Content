@@ -18,11 +18,15 @@ redirects: []
 Getting in the zone is pretty challenging in any work environment. Outlook in particular likes to offer as many distractions as possible to ensure you can never forget you've got it open. Set your options so that Outlook:  
 
 <!--endintro-->
-<dl class="goodImage"><dt>
-      <img alt="OutlookDistractions.png" src="OutlookDistractions.png" style="width:750px;">
-   </dt><dd>Figure: Good Example - Turn off Outlook distractions on Windows<br></dd></dl><dl class="goodImage"><dt>
-      <img src="minimize-outlook-distractions-mac.jpg" alt="minimize-outlook-distractions-mac.jpg" style="width:750px;">
-   </dt><dd>Figure: Good Example - Turn off Outlook distractions on a Mac<br></dd></dl>
+
+::: good  
+![Figure: Good Example - Turn off Outlook distractions on Windows](OutlookDistractions.png)  
+:::  
+
+::: good  
+![Figure: Good Example - Turn off Outlook distractions on a Mac](minimize-outlook-distractions-mac.jpg)  
+:::  
+
 * Doesn't play a sound
 * Doesn't briefly change the mouse cursor
 * Doesn't show an envelope

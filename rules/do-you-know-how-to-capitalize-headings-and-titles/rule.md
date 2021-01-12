@@ -44,8 +44,7 @@ Figure: Good Example – Only conjunctions and prepositions (both having similar
 
 It's best to only do this on main titles (which are important), and leave subtitles in normal sentence form. Basically it saves hassles... English is a confusing language and there are too many variations that cause too many arguments.
 
-
-![](good-example-of-capitalizing-titles.jpg)
+![Good Example - the main title has capitalization and the sub-titles don't](good-example-of-capitalizing-titles.jpg)
 
 
 ::: good

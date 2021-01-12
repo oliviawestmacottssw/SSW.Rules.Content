@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - create-clustered-index-on-your-tables
-- schema---do-you-create-clustered-index-on-your-tables
 
 ---
 

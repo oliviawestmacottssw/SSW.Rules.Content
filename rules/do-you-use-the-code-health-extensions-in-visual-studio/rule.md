@@ -40,13 +40,14 @@ Search & Install the NuGet packages:
 
 
 
-
-![Steps to install NuGet Packages](VS-InstallNuGetPackages.png)
+![VS-InstallNuGetPackages.png](VS-InstallNuGetPackages.png)
+Figure: Steps to install NuGet Packages
 
 
 
 Issues from these will now be returned in the Visual Studio analyser error list.
-<dd class="ssw15-rteElement-FigureNormal"><img src="VS-RoslynRules.png" alt="VS-RoslynRules.png" style="margin:5px;"><br>Figure: New Roslyn Rule issues raised in Visual Studio Analyser</dd>
+ **![VS-RoslynRules.png](VS-RoslynRules.png)
+Figure: New Roslyn Rule issues raised in Visual Studio Analyser** 
 Your goal should be to get the issues in a solution down to zero.
 If you believe the issues being raised are not important, please check the section below which outlines how to change the ruleset.
 
@@ -58,8 +59,11 @@ Any project specific rules should be documented in "\_Instructions-CodeHealth.do
 Please also copy the current version number of this rule into the "\_Instructions-CodeHealth.docx" in order to track what version your existing solution adheres to.
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="VS-ModifyRules.png" alt="VS-ModifyRules.png" style="margin:5px;width:650px;"><span style="color:#555555;font-size:0.9rem;font-weight:bold;">Figure: Steps to open Visual Studio Analyser rules customisation page</span><br><br></dl>
+![VS-ModifyRules.png](VS-ModifyRules.png)
+
+Figure: Steps to open Visual Studio Analyser rules customisation page
 Steps to open Analyser customisation page:
-Right Click project > Properties > Code Analysis > Open
-<dl class="ssw15-rteElement-ImageArea"><img src="VS-ModifyRules2.png" alt="VS-ModifyRules2.png" style="margin:5px;width:650px;"><span style="color:#555555;font-size:0.9rem;font-weight:bold;">Figure: How to customize rules. By either enabling / disabling rules or packages. Or by modifying the rule severity level.</span><br></dl><dl class="ssw15-rteElement-ImageArea"><img src="VS-ModifyRules3.png" alt="VS-ModifyRules3.png" style="margin:5px;width:650px;"></dl> **Figure: How to apply custom ruleset to all projects in a solution
+Right Click project &gt; Properties &gt; Code Analysis &gt; Open
+![VS-ModifyRules2.png](VS-ModifyRules2.png)
+Figure: How to customize rules. By either enabling / disabling rules or packages. Or by modifying the rule severity level.![VS-ModifyRules3.png](VS-ModifyRules3.png) **Figure: How to apply custom ruleset to all projects in a solution
 **

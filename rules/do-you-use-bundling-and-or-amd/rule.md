@@ -14,8 +14,7 @@ related:
 - do-you-treat-javascript-like-a-real-language
 - do-you-know-which-version-of-jquery-to-use
 - do-you-use-hyperlinks-instead-of-javascript-to-open-pages
-redirects:
-- do-you-use-bundling-andor-amd
+redirects: []
 
 ---
 

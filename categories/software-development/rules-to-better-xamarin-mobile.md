@@ -4,7 +4,7 @@ title: Rules to Better Xamarin (mobile)
 guid: f00bdf61-a2f5-4c52-ab38-b1e2120e77b6
 uri: rules-to-better-xamarin-mobile
 index:
-- do-you-use-xamarinforms
+- do-you-use-xamarin-forms
 - do-you-know-how-to-build-for-the-right-platforms
 - do-you-use-the-mvvm-pattern
 - do-you-use-design-time-data

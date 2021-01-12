@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-not-allow-nulls-in-number-fields-if-it-has-the-same-meaning-as-zero
-- data---do-you-not-allow-nulls-in-number-fields-if-it-has-the-same-meaning-as-zero
 
 ---
 

@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-identities-in-sql-server
-- data---do-you-use-identities-in-sql-server
 
 ---
 
@@ -61,11 +60,13 @@ Using SQL Management Studio
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="IdentityImportEditMappings.png" alt="" style="margin:5px;width:622px;height:487px;"></dl> **Figure: SQL Import Wizard - Edit Mappings
+![](IdentityImportEditMappings.png) **Figure: SQL Import Wizard - Edit Mappings
 ** **
 ** 
 4. Ensure the Enable identity insert is checked
-<dl class="ssw15-rteElement-ImageArea"><img src="EnableIdentityInsert.png" alt="" style="margin:5px;width:624px;height:470px;"></dl><dl class="ssw15-rteElement-ImageArea"> <strong>Figure: SQL Import Wizard – Ensure Enable identity insert is checked.<br></strong> <br></dl>
+![](EnableIdentityInsert.png) **Figure: SQL Import Wizard – Ensure Enable identity insert is checked.
+** 
+
 Alternatively, you can also enable and disable the identity insert through SQL with the following commands
 
 SET IDENTITY\_INSERT Shippers ON --this will allow manual identity INSERTS on the requested table

@@ -23,7 +23,14 @@ Phrase the heading as a question. 
 :::
 
 
-<font class="ms-rteCustom-FigureBad">Bad example – the heading isn’t a question.<br></font> 
+
+
+::: bad
+Bad example – the heading isn’t a question.
+
+:::
+
+ 
 
 ::: greybox
 Do you consider phrasing the heading as a question?
@@ -31,4 +38,8 @@ Do you consider phrasing the heading as a question?
 :::
 
 
-<font class="ms-rteCustom-FigureGood">Good example – the heading is phrased as a question.</font>
+
+
+::: good
+Good example – the heading is phrased as a question.
+:::

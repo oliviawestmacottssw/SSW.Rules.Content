@@ -17,8 +17,11 @@ redirects:
 Using a standard file structure for storing user data on laptops makes locating the important information fast and performing automated backup operations easy - Use this checklist.
 
 Remember, the expectation is for all the questions to be answered with "YES" by the end of this checklist.
-<dl class="image"><dt><img src="data-backup.jpg" alt="data-backup.jpg"></dt>
-<br></dl>
+
+::: ok  
+![](data-backup.jpg)  
+:::  
+
 <!--endintro-->
 
 
@@ -71,12 +74,15 @@ Warning: If you are using OneDrive, it is not possible to change the root direct
 
 When you choose a location in OneDrive, it will always create the main root folder called "OneDrive - (YourOrganization)". Use this folder to store your files.
 E.g. Create a folder in C: with Data and your username, for example, "C:\DataKaiqueBiancatti", and choose that folder to be your main OneDrive folder. It will automatically create a new folder inside it:
-<dl class="image"><dt> <img src="onedrive.png" alt="onedrive.png" style="margin:5px;"><br> </dt><dd>Figure: Good Example - Location of <strong style="color:#444444;">Data<yourusername> with OneDrive - (YourOrganization) folder in it</yourusername></strong> </dd></dl>
+
+::: good  
+![Figure: Good Example - Location of Data&lt;YourUserName&gt; with OneDrive - (YourOrganization) folder in it](onedrive.png)  
+:::  
 
 
 
-> 
-![](OneDrive.jpg)
+
+> ![OneDrive.jpg](OneDrive.jpg)
 >  **Figure: Good Example - Backup is being done automatically
 > 
 > **

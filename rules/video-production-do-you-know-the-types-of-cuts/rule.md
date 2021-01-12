@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - video-cuts
-- video-production---do-you-know-the-types-of-cuts
 
 ---
 

@@ -14,7 +14,7 @@ index:
 - do-you-have-a-continuous-integration-ci-server
 - do-you-follow-naming-conventions-for-tests-and-test-projects
 - do-you-know-how-to-structure-a-unit-test-aka-the-3-as
-- do-you-have-tests-for-difficult-to-spot-errors-eg-arithmetic-rounding-regular-expressions
+- do-you-have-tests-for-difficult-to-spot-errors-e-g-arithmetic-rounding-regular-expressions
 - do-you-know-when-functions-are-too-complicated
 - do-you-run-unit-tests-in-visual-studio
 - do-you-isolate-your-logic-and-remove-dependencies-on-instances-of-objects
@@ -34,7 +34,7 @@ index:
 - do-you-have-a-standard-help-menu-that-includes-a-way-to-run-your-unit-tests
 - do-you-know-how-to-run-nunit-tests-from-within-visual-studio
 - do-you-know-the-right-version-and-config-for-nunit
-- do-you-write-integration-test-for-dependencies-eg-dlls
+- do-you-write-integration-test-for-dependencies-e-g-dlls
 
 ---
 

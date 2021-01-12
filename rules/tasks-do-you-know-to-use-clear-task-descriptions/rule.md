@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- tasks---do-you-know-to-use-clear-task-descriptions
+redirects: []
 
 ---
 
@@ -19,11 +18,23 @@ When you create tasks in Scrum you are doing this within a time box and you tend
 <!--endintro-->
 
 Once you have accepted a task you should then add as much information as possible so that anyone can pick up that task; what if your numbers come up? Will you be into work the next day?
-<dl class="image"><dt> <img title="lottery" alt="lottery" src="lottery.jpg"> </dt><dd>Figure: What if your numbers come up in the lottery?</dd></dl>
+
+::: ok  
+![Figure: What if your numbers come up in the lottery?](lottery.jpg)  
+:::  
+
 What if the Team runs a syndicate and all your numbers come up? The point is that anything can happen and you need to protect the integrity of the project, the company, and the Customer.
 
 Add as much information to the task as you think is necessary for anyone to work on the task.
 
 If you need to add rich text and images you can do this by [attaching an email to the task](/Pages/EnsureRelevantEmails.aspx).
-<dl class="badImage"><dt> <img title="image" alt="image" src="TaskDetail-badExample.png" style="width:750px;"> </dt><dd>Figure: Bad example, there is not enough information for a non team member to complete this task</dd></dl><dl class="image"><dt> <img alt="image" src="UserStoryOwner_Good.png"> </dt><dd>Figure: Julie provided a lot more information and another team should be able to pick this up</dd></dl>
+
+::: bad  
+![Figure: Bad example, there is not enough information for a non team member to complete this task](TaskDetail-badExample.png)  
+:::  
+
+::: ok  
+![Figure: Julie provided a lot more information and another team should be able to pick this up](UserStoryOwner\_Good.png)  
+:::  
+
 **Note:** If you are updating the details of a PBI then follow the rule “[Do you know when you use @ mentions in a PBI?](/when-you-use-mentions-in-a-pbi)”

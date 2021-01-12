@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - create-task-list-comments-for-your-code
-- comments---do-you-create-task-list-comments-for-your-code
 
 ---
 
@@ -29,8 +28,7 @@ Task List comments can be used to indicate a variety of work to be done at the l
 
 As with other Task List entries, you can double-click any comment entry to display the file indicated in the Code Editor and jump to the line of code marked. More details for [Task List comments](https://www.ssw.com.au/SSW/Redirect/MSDN2/TaskListcomments.htm).
 
-
-![](pic1.png)
+![pic1.png](pic1.png)
 
 
 ::: bad
@@ -40,8 +38,7 @@ Figure: Bad example - the comment doesn't show in Task List window
 
 
 
-
-![](pic2.png)
+![pic2.png](pic2.png)
 
 
 ::: good
@@ -51,8 +48,7 @@ Figure: Good example - Marked TODO in the comment, so you can see it in Task Lis
 
 
 
-
-![](pic3.png)
+![pic3.png](pic3.png)
 
 
 ::: good
@@ -61,4 +57,7 @@ Figure: Good example - Marked HACK in the comment, so you can see it in Task Lis
 
 
 
-<dl class="goodImage"><dt><br></dt></dl>
+
+::: good  
+![](pic1.png)  
+:::

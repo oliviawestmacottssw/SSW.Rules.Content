@@ -15,8 +15,7 @@ authors:
 - title: Justin King
   url: https://ssw.com.au/people/justin-king
 related: []
-redirects:
-- triaging---do-you-correctly-triage-additional-item-requests
+redirects: []
 
 ---
 
@@ -25,8 +24,11 @@ redirects:
 <!--endintro-->
 
 Managing additional work requests can reduce the adverse impact on estimates and deadlines.
-<dl class="image" style="float:right;clear:right;"><dt><img border="0" src="SuccessfulProjects_Triage.jpg" alt="" style="border:0px solid;"> </dt>
-<dd>Figure: Only if it's life and death does it get added "in this sprint" </dd></dl>
+
+::: ok  
+![Figure: Only if it's life and death does it get added "in this sprint"](SuccessfulProjects\_Triage.jpg)  
+:::  
+
 The first step is to analyse the priority of the additional item.
 
 
@@ -51,7 +53,18 @@ For example:
 4. **Exception #3 - A Developer can Override
 ** A client may request a small feature (e.g. changing the sort order of a combo-box). This work can go in this sprint as long as the task is small (less than 1/2 hour) and the sprint is under budget. 
 If the work is over budget then you need to obtain approval for any 'additional item', from both the project manager and the client, before adding the request into the Release Plan. See more about how to [Obtain Approval Additional Items Exceed Estimates](/do-you-email-clients-as-soon-as-you-realise-you-will-overrun-your-original-estimate). 
-<dl class="good"><dt>To: Evan Lin - SSW<br>From: Alan Ha - FinaMetrica <br>Subject: Client List for Administrators<br><br>Hi Evan,<br><br>Please add a sort function (like the one in office 2007) next to the fields: Last Name, First Name, Advisers and Organization. Apply to other relevant pages which have these fields in a list <br>i.e. adviser list for administrators, client list for advisers etc. <br>Please use the text Ascending instead of "smallest to Largest" and Descending for "Largest to Smallest".<br><br>Thanks Alan<br><br></dt>
-<dd> <strong>Figure: The above is a sample from a customer will by default, go into a later sprint, not the current sprint.</strong> </dd></dl><br>What tools can you use to get tasks from your inbox into a task tracking system?
+To: Evan Lin - SSW
+
+Thanks Alan
+
+Please use the text Ascending instead of "smallest to Largest" and Descending for "Largest to Smallest".
+i.e. adviser list for administrators, client list for advisers etc.
+Please add a sort function (like the one in office 2007) next to the fields: Last Name, First Name, Advisers and Organization. Apply to other relevant pages which have these fields in a list
+
+Hi Evan,
+
+Subject: Client List for Administrators
+From: Alan Ha - FinaMetrica
+ **Figure: The above is a sample from a customer will by default, go into a later sprint, not the current sprint.** What tools can you use to get tasks from your inbox into a task tracking system?
 5. **Use a Good 3rd party Tool to Manage Additional Requests
 **     Since most feedback comes into your Outlook inbox, find a tool that converts an email into a task. The best one is [TeamCompanion for TFS](http://www.ssw.com.au/ssw/Standards/DeveloperGeneral/TFS.aspx)

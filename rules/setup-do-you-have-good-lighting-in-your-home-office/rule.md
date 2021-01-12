@@ -15,7 +15,6 @@ authors:
 related: []
 redirects:
 - have-good-lighting-on-your-home-office
-- setup---do-you-have-good-lighting-in-your-home-office
 
 ---
 
@@ -31,4 +30,7 @@ Here are some tips:
 <!--endintro-->
 
 A good tip from     [The Spruce blog](https://www.thespruce.com/tips-for-better-home-office-lighting-1812436) is to position your home office station facing north or south so that the sunlight doesn't throw a shadow at any point during the day, making you move your setup frequently.
-<dl class="image"><dt><img src="lightning-impacts.png" alt="lightning-impacts.png"></dt><dd>Figure: see how the light can impact your presentation on remote meetings<br></dd></dl>
+
+::: ok  
+![Figure: see how the light can impact your presentation on remote meetings](lightning-impacts.png)  
+:::

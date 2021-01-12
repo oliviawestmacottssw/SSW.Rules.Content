@@ -22,7 +22,7 @@ The standard way to inject your dependencies looks a little like the following. 
 
 
 ```
-phonecatApp.controller('PhoneListCtrl', function ($scope, $http) {...}
+<code style="box-sizing:border-box;font-family:menlo, monaco, consolas, 'courier new', monospace;font-size:inherit;color:inherit;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;background-color:transparent;"><span class="pln" style="box-sizing:border-box;"></span><span class="pln" style="box-sizing:border-box;">phonecatApp</span><span class="pun" style="box-sizing:border-box;">.</span><span class="pln" style="box-sizing:border-box;">controller</span><span class="pun" style="box-sizing:border-box;">(</span><span class="str" style="box-sizing:border-box;color:#dd1144;">'PhoneListCtrl'</span><span class="pun" style="box-sizing:border-box;">,</span><span class="pln" style="box-sizing:border-box;"> </span><span class="kwd" style="box-sizing:border-box;">function</span><span class="pln" style="box-sizing:border-box;"> </span><span class="pun" style="box-sizing:border-box;">(</span><span class="pln" style="box-sizing:border-box;">$scope</span><span class="pun" style="box-sizing:border-box;">,</span><span class="pln" style="box-sizing:border-box;"> $http</span><span class="pun" style="box-sizing:border-box;">)</span><span class="pln" style="box-sizing:border-box;"> </span><span class="pun" style="box-sizing:border-box;">{...}</span></code>
 ```
 
 
@@ -46,9 +46,9 @@ You can fix this in two ways. The first one uses the $inject property to identif
 
 
 ```
-function PhoneListCtrl($scope, $http) {...}
-PhoneListCtrl.$inject = ['$scope', '$http'];
-phonecatApp.controller('PhoneListCtrl', PhoneListCtrl);
+<code class="lang-js" style="box-sizing:border-box;font-family:menlo, monaco, consolas, 'courier new', monospace;font-size:inherit;color:inherit;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;background-color:transparent;"><span class="kwd" style="box-sizing:border-box;">function</span><span class="pln" style="box-sizing:border-box;"> </span><span class="typ" style="box-sizing:border-box;color:#445588;">PhoneListCtrl</span><span class="pun" style="box-sizing:border-box;">(</span><span class="pln" style="box-sizing:border-box;">$scope</span><span class="pun" style="box-sizing:border-box;">,</span><span class="pln" style="box-sizing:border-box;"> $http</span><span class="pun" style="box-sizing:border-box;">)</span><span class="pln" style="box-sizing:border-box;"> </span><span class="pun" style="box-sizing:border-box;">{...}</span><span class="pln" style="box-sizing:border-box;">
+</span><span class="typ" style="box-sizing:border-box;color:#445588;">PhoneListCtrl</span><span class="pun" style="box-sizing:border-box;">.</span><span class="pln" style="box-sizing:border-box;">$inject </span><span class="pun" style="box-sizing:border-box;">=</span><span class="pln" style="box-sizing:border-box;"> </span><span class="pun" style="box-sizing:border-box;">[</span><span class="str" style="box-sizing:border-box;color:#dd1144;">'$scope'</span><span class="pun" style="box-sizing:border-box;">,</span><span class="pln" style="box-sizing:border-box;"> </span><span class="str" style="box-sizing:border-box;color:#dd1144;">'$http'</span><span class="pun" style="box-sizing:border-box;">];</span><span class="pln" style="box-sizing:border-box;">
+phonecatApp</span><span class="pun" style="box-sizing:border-box;">.</span><span class="pln" style="box-sizing:border-box;">controller</span><span class="pun" style="box-sizing:border-box;">(</span><span class="str" style="box-sizing:border-box;color:#dd1144;">'PhoneListCtrl'</span><span class="pun" style="box-sizing:border-box;">,</span><span class="pln" style="box-sizing:border-box;"> </span><span class="typ" style="box-sizing:border-box;color:#445588;">PhoneListCtrl</span><span class="pun" style="box-sizing:border-box;">);</span></code>
 ```
 
 
@@ -67,7 +67,7 @@ The second and preferred option is to pass an array containing the names, follow
 
 
 ```
-phonecatApp.controller('PhoneListCtrl', ['$scope', '$http', function($scope, $http) {...}]);
+<code class="lang-js" style="box-sizing:border-box;font-family:menlo, monaco, consolas, 'courier new', monospace;font-size:inherit;color:inherit;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;background-color:transparent;"><span class="pln" style="box-sizing:border-box;">phonecatApp</span><span class="pun" style="box-sizing:border-box;">.</span><span class="pln" style="box-sizing:border-box;">controller</span><span class="pun" style="box-sizing:border-box;">(</span><span class="str" style="box-sizing:border-box;color:#dd1144;">'PhoneListCtrl'</span><span class="pun" style="box-sizing:border-box;">,</span><span class="pln" style="box-sizing:border-box;"> </span><span class="pun" style="box-sizing:border-box;">[</span><span class="str" style="box-sizing:border-box;color:#dd1144;">'$scope'</span><span class="pun" style="box-sizing:border-box;">,</span><span class="pln" style="box-sizing:border-box;"> </span><span class="str" style="box-sizing:border-box;color:#dd1144;">'$http'</span><span class="pun" style="box-sizing:border-box;">,</span><span class="pln" style="box-sizing:border-box;"> </span><span class="kwd" style="box-sizing:border-box;">function</span><span class="pun" style="box-sizing:border-box;">(</span><span class="pln" style="box-sizing:border-box;">$scope</span><span class="pun" style="box-sizing:border-box;">,</span><span class="pln" style="box-sizing:border-box;"> $http</span><span class="pun" style="box-sizing:border-box;">)</span><span class="pln" style="box-sizing:border-box;"> </span><span class="pun" style="box-sizing:border-box;">{...}]);</span></code>
 ```
 
 

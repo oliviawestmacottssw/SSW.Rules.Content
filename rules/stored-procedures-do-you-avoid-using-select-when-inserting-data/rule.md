@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - avoid-using-select-when-inserting-data
-- stored-procedures---do-you-avoid-using-select--when-inserting-data
 
 ---
 

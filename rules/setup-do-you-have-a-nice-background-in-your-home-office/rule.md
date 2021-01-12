@@ -15,7 +15,6 @@ authors:
 related: []
 redirects:
 - have-a-nice-background-in-your-home-office
-- setup---do-you-have-a-nice-background-in-your-home-office
 
 ---
 
@@ -30,7 +29,11 @@ In other words, you may be fond of family pictures hanging on the wall or band p
 A nice test is to sit at your desk and to take a selfie to see what others will see in your background. Then organize your background accordingly.
 
 If you want to go the extra mile, consider designating one wall as your company wall and keep it consistent with the company branding.
-<dl class="badImage"><dt> 
-      <img src="bad-background.png" alt="bad-background.png"> 
-   </dt><dd>Figure: Bad Example – A messy background will not look professional</dd></dl><dl class="goodImage"><dt>
-      <img src="good-background.png" alt="good-background.png"><br></dt><dd>Figure: Good Example – Branded monitor in the background showing off the company website</dd> </dl>
+
+::: bad  
+![Figure: Bad Example – A messy background will not look professional](bad-background.png)  
+:::  
+
+::: good  
+![Figure: Good Example – Branded monitor in the background showing off the company website](good-background.png)  
+:::

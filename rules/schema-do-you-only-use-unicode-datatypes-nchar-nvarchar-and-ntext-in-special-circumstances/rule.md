@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - only-use-unicode-datatypes-in-special-circumstances
-- schema---do-you-only-use-unicode-datatypes-nchar-nvarchar-and-ntext-in-special-circumstances
 - schema-do-you-only-use-unicode-datatypes-(nchar-nvarchar-and-ntext)-in-special-circumstances
 
 ---

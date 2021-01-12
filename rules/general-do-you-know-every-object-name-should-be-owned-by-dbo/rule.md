@@ -12,7 +12,6 @@ related:
 - stored-procedures---do-you-know-sql-stored-procedure-names-should-be-prefixed-with-the-owner
 redirects:
 - every-object-name-should-be-owned-by-dbo
-- general---do-you-know-every-object-name-should-be-owned-by-dbo
 
 ---
 

@@ -32,7 +32,11 @@ You must test your website on the major browsers, though, because that there wil
 
 
 You should be able to fix all formatting and layout bugs by editing the CSS file.
-<dl class="image"><dt><img src="BrowserUsageStats2020.png" alt="BrowserUsageStats2020.png" style="margin:5px;"><br></dt><dd>Figure: Browsers statistics in 2020 – Know more in <a href="http://www.w3schools.com/browsers/browsers_stats.asp" target="_blank">W3C Browser Stats</a><br></dd></dl>
+
+::: ok  
+![Figure: Browsers statistics in 2020 – Know more in W3C Browser Stats](BrowserUsageStats2020.png)  
+:::  
+
 
 
 ::: greybox

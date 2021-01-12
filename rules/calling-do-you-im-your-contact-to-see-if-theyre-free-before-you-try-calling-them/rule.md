@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - im-your-contact-to-see-if-they’re-free-before-you-try-calling-them
-- calling---do-you-im-your-contact-to-see-if-theyre-free-before-you-try-calling-them
 - calling-do-you-im-your-contact-to-see-if-they’re-free-before-you-try-calling-them
 
 ---

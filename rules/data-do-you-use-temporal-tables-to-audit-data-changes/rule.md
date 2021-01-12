@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - use-temporal-tables-to-audit-data-changes
-- data---do-you-use-temporal-tables-to-audit-data-changes
 
 ---
 
@@ -78,7 +77,8 @@ CREATE TABLE dbo.Shippers
 )
  **WITH (SYSTEM\_VERSIONING = ON (HISTORY\_TABLE = dbo.ShippersHistory));**
  **Figure: Shippers table from the Northwind schema converted to a temporal table.
-** <dl class="ssw15-rteElement-ImageArea"><br><img src="Shippers_TemporalTable.PNG" alt="" style="margin:5px;"></dl> **Figure: New temporal table shown in SQL Management Studio.
+** 
+![](Shippers_TemporalTable.PNG) **Figure: New temporal table shown in SQL Management Studio.
 ** 
 <font color="#333333"><br></font>
 

@@ -45,8 +45,7 @@ You should also add the following NPM  packages:
 
 **Note** : Prior to 2016, SSW recommend developers choose bower over NPM as their front end package manager. That recomendation has changed due to the industry trend away from bower.
 
-
-![](Bower_v_NPM.png)
+![Bower_v_NPM.png](Bower_v_NPM.png)
 
 
 ::: good

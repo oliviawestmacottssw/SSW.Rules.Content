@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-triggers-for-denormalized-fields
-- schema---do-you-use-triggers-for-denormalized-fields
 
 ---
 

@@ -14,7 +14,6 @@ related: []
 redirects:
 - the-right-way-to-report-bugs-and-give-feedback-suggestions
 - do-you-know-the-right-way-to-report-bugs
-- do-you-know-the-right-way-to-report-bugs-and-give-feedbacksuggestions
 
 ---
 
@@ -30,9 +29,15 @@ Try to be as efficient as possible:
 Try to have one issue/PBI/email per bug/suggestion, but if the bugs/suggestions are related or very small (e.g. they are all on the same page) then you should group them together in a single email.
 
 <!--endintro-->
-<dl class="badImage"><dt> <img src="do-you-know-the-right-way-to-report-bugs-bad-example.png" alt="do-you-know-the-right-way-to-report-bugs-bad-example.png"> <br>
-   </dt><dd>Figure: Bad Example - This email isn't going to help the developer much - it is vague and has no screen capture, and gives no alternate way for the developer to contact the user regarding the issue</dd></dl><dl class="goodImage"><dt> <img src="do-you-know-the-right-way-to-report-bugs-good-example.png" alt="do-you-know-the-right-way-to-report-bugs-good-example.png"> <br>
-   </dt><dd>Figure: Good Example - This email includes the product name and version, the category of the issue (BUG), a screen capture and contact number, and shows that the user's system is up to date<br></dd></dl>
+
+::: bad  
+![Figure: Bad Example - This email isn't going to help the developer much - it is vague and has no screen capture, and gives no alternate way for the developer to contact the user regarding the issue](do-you-know-the-right-way-to-report-bugs-bad-example.png)  
+:::  
+
+::: good  
+![Figure: Good Example - This email includes the product name and version, the category of the issue (BUG), a screen capture and contact number, and shows that the user's system is up to date](do-you-know-the-right-way-to-report-bugs-good-example.png)  
+:::  
+
 
 A great template to follow is the [Functional Bug template](https://github.com/aspnet/Home/wiki/Functional-bug-template) from the ASP.NET open-source project. Spending time to provide as much detail as possible, by ensuring you have the three critical components of: Steps to reproduce, Expected outcome, and Actual outcome, will save the both you and the developer time and frustration in the long run. 
 
@@ -43,8 +48,50 @@ Also, make sure your descriptions are detailed and useful as that can make findi
 
 
 Make sure you always explain and give as many details as you can of how you got an error or a bad experience.
-<dl class="badImage"><dt><br><br>::: greybox<br><p>Hi, Rebecca, <br>
-               <br>Where is SSW TV on the navigation?<br><br>- Adam  <br></p><br>:::<br><br></dt><dd>Figure: Bad example - Lack of details</dd></dl><dl class="goodImage"><dt><br><br>::: greybox<br><p>Hi, Rebecca,<br></p><ol><li>Navigated to ssw.com.au</li><li>Scrolling down looking for a big graphic like "CHECK OUT SSW TV! CLICK HERE!"<br>(Nothing)<br>Me, thinking… "Hmm… let's try the menu at the top..."</li><li>About Us? Nope.</li><li>Services? Nope.<br></li><li>Products and Support? Nope.</li><li>Training? Nope.</li><li>User Group? Nope.</li><li>Rules? Nope.<br>Me, thinking... "OK. Now where? Most likely, the SSW company description will list it..."</li><li>Navigates to About Us.</li><li>Me, scrolls down… nothing.<br>Me, thinking... "OK. Weird. Let's go back."</li><li>Me, goes back to homepage.<br>Me, thinking… "Is there a site map?"</li><li>Scrolls to bottom of page. Clicks sitemap link.<br>Me, thinking... "Ctrl+F for TV? Nope."</li><li>Me, gives up… types tv.ssw.com.au to try and get lucky. Huzzah!</li></ol><p>- Adam <br></p><br>:::<br><br></dt><dd>Figure: Good example - We can easily identify more the one way to improve the UX</dd></dl>
+
+
+
+:::
+
+Hi, Rebecca, 
+
+Where is SSW TV on the navigation?
+
+- Adam
+
+::: greybox
+Figure: Bad example - Lack of details
+
+
+:::
+
+- Adam
+
+1. Navigated to ssw.com.au
+2. Scrolling down looking for a big graphic like "CHECK OUT SSW TV! CLICK HERE!"
+(Nothing)
+Me, thinking… "Hmm… let's try the menu at the top..."
+3. About Us? Nope.
+4. Services? Nope.
+5. Products and Support? Nope.
+6. Training? Nope.
+7. User Group? Nope.
+8. Rules? Nope.
+Me, thinking... "OK. Now where? Most likely, the SSW company description will list it..."
+9. Navigates to About Us.
+10. Me, scrolls down… nothing.
+Me, thinking... "OK. Weird. Let's go back."
+11. Me, goes back to homepage.
+Me, thinking… "Is there a site map?"
+12. Scrolls to bottom of page. Clicks sitemap link.
+Me, thinking... "Ctrl+F for TV? Nope."
+13. Me, gives up… types tv.ssw.com.au to try and get lucky. Huzzah!
+
+
+Hi, Rebecca,
+
+::: greybox
+Figure: Good example - We can easily identify more the one way to improve the UX
 Better than a good description of the bug is a screen recording. This should be followed for a more detailed report. Use [Snagit](http://www.techsmith.com/snagit.html) or [Camtasia](/production-do-you-know-how-to-start-recording-with-camtasia) to record your screen.
 
 

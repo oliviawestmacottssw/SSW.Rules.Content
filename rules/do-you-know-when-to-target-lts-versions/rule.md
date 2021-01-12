@@ -29,10 +29,11 @@ In many cases, the expected lifetime of a project is longer than this LTS lifeti
 The ongoing resources planned to work on this product must also be evaluated.
 
 To help in these decisions,  the .NET Core team has released a roadmap for upcoming releases over the next few years. All even-numbered releases will be LTS.
-<dl class="image"><dt>
-      <img src="net-schedule.jpg" alt="net-schedule.jpg" style="width:750px;height:415px;">
-   </dt><dd>Figure: The .NET Schedule – from 
-      <a href="https://devblogs.microsoft.com/dotnet/introducing-net-5/">https://devblogs.microsoft.com/dotnet/introducing-net-5/</a></dd></dl>
+
+::: ok  
+![Figure: The .NET Schedule – from        https://devblogs.microsoft.com/dotnet/introducing-net-5/](net-schedule.jpg)  
+:::  
+
 Important questions to consider include:
 
 * What is the planned lifecycle of the project?
@@ -51,7 +52,7 @@ A few invented scenarios are presented below:
 
 
 ::: greybox
- "It’s November 2020 and we are planning to launch the final version of our ASP.NET Core 3.1 API next week. There is no further planned development work in the next 12 months. If we upgrade to .NET 5 in the final sprint, we would get a performance boost."
+"It’s November 2020 and we are planning to launch the final version of our ASP.NET Core 3.1 API next week. There is no further planned development work in the next 12 months. If we upgrade to .NET 5 in the final sprint, we would get a performance boost."
 
 :::
 
@@ -63,7 +64,7 @@ Although moving to .NET 5 could introduce a performance improvement, .NET 5 is n
 
 
 ::: greybox
- "It’s November 2020 and Build 4463 of our ASP.NET Core API has just been deployed to Azure via GitHub Actions. We plan to continually develop new feature requests over the next 15 months, Finishing in January 2022”
+"It’s November 2020 and Build 4463 of our ASP.NET Core API has just been deployed to Azure via GitHub Actions. We plan to continually develop new feature requests over the next 15 months, Finishing in January 2022”
 
 :::
 
@@ -74,7 +75,7 @@ When “continual development” is planned, it’s much easier to recommend wor
 
 
 ::: greybox
- "Once finished, we have no plans for further features for the next 2 years. Our planned launch date is October 2021"
+"Once finished, we have no plans for further features for the next 2 years. Our planned launch date is October 2021"
 
 :::
 

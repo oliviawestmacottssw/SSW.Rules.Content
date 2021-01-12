@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - have-a-pleasant-development-workflow
-- tips---do-you-have-a-pleasant-development-workflow
 
 ---
 
@@ -26,9 +25,44 @@ This adds up quickly – if you have to wait for 5 seconds every 3 minutes, you'
 <!--endintro-->
 
 A naïve development experience is as follows:
-<dl class="badImage"><br><br>::: greybox<br><ol><li>Make a code change using a misconfigured IDE<ul><li>See errors everywhere as you type (even though the code is perfectly fine)</li><li>Inaccurate IntelliSense information</li></ul></li><li>Compile the code<ul><li>Since the TypeScript compilation task is often part of the project build, this is a common way to recompile to JavaScript</li></ul></li><li>Run a gulp task to copy files around appropriately<ul><li>This often takes a few seconds to run, especially if it “cleans” the folder beforehand<br></li></ul></li><li>Refresh the page<ul><li>Depending on the setup, this may take anywhere from&#160;milliseconds to seconds</li></ul></li><li>Click around until the app is in the right state to test the functionality<ul><li>If there is too much built-up state, and no routes set up, this chews up time</li></ul></li></ol><br>:::<br><br><dd> Bad example - Many hours each week are wasted just waiting for the code you wrote to run<br></dd></dl>
+
+Bad example - Many hours each week are wasted just waiting for the code you wrote to run
+
+
+:::
+
+1. Make a code change using a misconfigured IDE
+    * See errors everywhere as you type (even though the code is perfectly fine)
+    * Inaccurate IntelliSense information
+2. Compile the code
+    * Since the TypeScript compilation task is often part of the project build, this is a common way to recompile to JavaScript
+3. Run a gulp task to copy files around appropriately
+    * This often takes a few seconds to run, especially if it “cleans” the folder beforehand
+4. Refresh the page
+    * Depending on the setup, this may take anywhere from milliseconds to seconds
+5. Click around until the app is in the right state to test the functionality
+    * If there is too much built-up state, and no routes set up, this chews up time
+
+
+::: greybox
+
 A more ideal workflow is:
-<dl class="goodImage"> <br><br>::: greybox<br><ol><li>Make the change using a properly configured IDE<ul><li>One that only shows errors when they’re appropriate<br></li><li>Intellisense shows everything available, and nothing more</li></ul></li><li>Refresh the page (maybe)<ul><li>With well set up watches for compilation&#160;and appropriate use of BrowserLink or LiveReload, this is very fast</li><li>With proper bundling, the initial page load is also fast in development environments.</li></ul></li><li>Already be at the component required, ready to check it works</li></ol><br>:::<br><br><dd> Good example - No time is wasted doing repetitive and slow tasks </dd></dl>
+
+Good example - No time is wasted doing repetitive and slow tasks
+
+:::
+
+1. Make the change using a properly configured IDE
+    * One that only shows errors when they’re appropriate
+    * Intellisense shows everything available, and nothing more
+2. Refresh the page (maybe)
+    * With well set up watches for compilation and appropriate use of BrowserLink or LiveReload, this is very fast
+    * With proper bundling, the initial page load is also fast in development environments.
+3. Already be at the component required, ready to check it works
+
+
+::: greybox
+
 **Remember** : Spending 4 hours setting up a good dev experience will pay for itself within the week, and make your work like much happier.
 
 ### Guidelines to follow

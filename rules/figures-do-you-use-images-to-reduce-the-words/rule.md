@@ -11,8 +11,7 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects:
-- figures---do-you-use-images-to-reduce-the-words
+redirects: []
 
 ---
 
@@ -21,9 +20,15 @@ An image is worth a thousand words, it's true. So if you can remove text and rep
 So we need a better way to present an image on our website and it should be easy enough to create a decent look.
 
 <!--endintro-->
-<dl class="badImage"><dt><br><br>::: greybox<br>You then have this pretty white flower with a green stem standing on a water pond. It is beautiful.<br>:::<br><br></dt><dd>Figure: Bad example - Here we have text describing a flower</dd></dl><dl class="goodImage"><dt> 
-      <img src="flower.jpg" alt="flower"> 
-   </dt><dd>Figure: Good example - Here we have a picture (could be a screen capture) which avoids a thousand words</dd></dl>
+
+::: bad  
+![::: greyboxYou then have this pretty white flower with a green stem standing on a water pond. It is beautiful.:::Figure: Bad example - Here we have text describing a flower](flower.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - Here we have a picture (could be a screen capture) which avoids a thousand words](flower.jpg)  
+:::  
+
 What else can you do?
 
 * Use good captions - See <br>      [Do you add useful and bold figure text (aka a caption) to avoid a lot of text over images?](/Pages/add-useful-caption.aspx)

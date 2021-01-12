@@ -25,7 +25,8 @@ Use the template below to brainstorm with your team or your client:
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="Pain Point Pinpointer.png" alt="Pain Point Pinpointer.png" style="margin:5px;width:808px;"><br></dl>
+![Pain Point Pinpointer.png](Pain Point Pinpointer.png)
+
 You have a few some ways of doing this, you can: 
 
 

@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - have-brand-at-the-top-of-each-file
-- comments---do-you-have-brand-at-the-top-of-each-file
 
 ---
 

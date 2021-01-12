@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - have-a-daily-catch-up
-- communication---do-you-have-a-daily-catch-up
 
 ---
 

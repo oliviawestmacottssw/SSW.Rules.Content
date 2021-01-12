@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-computed-columns-rather-than-denormalized-fields
-- schema---do-you-use-computed-columns-rather-than-denormalized-fields
 
 ---
 
@@ -19,11 +18,16 @@ When you have a denormalized field, use a computed column.  In SQL Server they c
 
 Use the suffix "Computed" to clearly distinguish that this field is a computed field.
 
+![NormalizedFields_Bad.jpg style=](NormalizedFields_Bad.jpg)
 
-![](NormalizedFields_Bad.jpg)
-<dl class="badImage"><dd>Figure: Bad Example - This field was manually updated from code in the middle tier.<br></dd></dl><dl class="goodImage"><dt>
-      <img src="NormalizedFields_Good.jpg" alt="NormalizedFields_Good.jpg" style="width:750px;">
-   </dt><dd>Figure: Good Example - There was no code in the middle tier to calculate this (and it has the correct name)<br><br></dd></dl>
+::: bad  
+![Figure: Bad Example - This field was manually updated from code in the middle tier.](NormalizedFields\_Bad.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - There was no code in the middle tier to calculate this (and it has the correct name)](NormalizedFields\_Bad.jpg)  
+:::  
+
 <!--endintro-->
 
 Computed columns have some limitations - they cannot access fields in other tables, or other computed fields in the current table.
@@ -44,4 +48,7 @@ RETURN (round(isnull(CONVERT([decimal](8,6),@TimeEnd - @TimeStart,(0))\*(24),(0)
 
  END
  **Figure: This is the user defined function
-** <dl class="image"><dt><img src="NormalizedFieldsDefine.jpg" alt="NormalizedFieldsDefine.jpg"></dt><dd>Figure: Setting up a computed column in the table designer<br><br><br></dd></dl>
+** 
+::: ok  
+![Figure: Setting up a computed column in the table designer](NormalizedFields\_Bad.jpg)  
+:::

@@ -14,7 +14,6 @@ related: []
 redirects:
 - what-type-of-microphone-to-use
 - production-do-you-know-that-shotgun-mics-can-only-do-so-much
-- production---do-you-know-what-type-of-microphone-to-use
 
 ---
 
@@ -37,13 +36,17 @@ Headsets are handy because they offer combined audio feedback and microphone in 
 A headset mic offers the advantage of being very close to the source of the audio (your mouth), which is important to consider when recording video.
 
 Some headsets are better than others, we recommend the     [Audio Technica BPHS1’s](https://www.audio-technica.com/en-us/bphs1) like the ‘go-to’ option for really great broadcast-quality audio recordings.
-<dl class="image"><dt> 
-      <img src="mic-1-audiotechnica.png" alt="mic-1-audiotechnica.png" style="width:750px;"> 
-   </dt><dd>Figure: Audio Technica BPHS1 ‘aviation-style’ headset</dd></dl>
+
+::: ok  
+![Figure: Audio Technica BPHS1 ‘aviation-style’ headset](mic-1-audiotechnica.png)  
+:::  
+
 On the lower end, the     [Logitech H340](https://www.logitech.com/en-au/product/usb-headset-h340) USB headset is a good option.
-<dl class="image"><dt>
-      <img src="mic-2-logitech.png" alt="mic-2-logitech.png" style="width:750px;height:644px;">
-   </dt><dd>Figure: Logitech H340 headset</dd></dl>
+
+::: ok  
+![Figure: Logitech H340 headset](mic-2-logitech.png)  
+:::  
+
 **Warning:** These look poor on video.
 
 ### Desktop microphone – portable
@@ -51,29 +54,41 @@ On the lower end, the     [Logitech H340](https://www.logitech.com/en-au/product
 Desktop mics can offer better audio quality than headsets mics overall.
 
 There are many models to pick with different characteristics. Our choice is the [Blue Yeti X](https://www.bluemic.com/en-us/products/yeti-x/). It connects via USB to your laptop and works without additional drivers.
-<dl class="image"><dt><img src="blue-yeti-x.jpg" alt="blue-yeti-x.jpg" style="margin:0px;width:750px;height:500px;"><br></dt><dd>Figure: Desktop microphone – plugs into USB and sits in front of you on the desk. Preferred for done videos and is portable</dd></dl>
+
+::: ok  
+![Figure: Desktop microphone – plugs into USB and sits in front of you on the desk. Preferred for done videos and is portable](blue-yeti-x.jpg)  
+:::  
+
 ### Desktop microphone – non-portable
 
 You can go beyond a portable desktop mic and get something like the Rode Procaster mic on an arm. These are typically used by professional podcasters.
-<dl class="image"><dt>
-      <img src="micpro-1.jpg" alt="micpro-1.jpg" style="width:750px;">
-   </dt><dd>Figure: Professional podcasting mic</dd></dl>
+
+::: ok  
+![Figure: Professional podcasting mic](micpro-1.jpg)  
+:::  
+
 ### Lapel microphone
 
 Lapel mics are a great option for both mobile and PC devices.
 
 The Rode smartLav+ is a lapel that works on devices that support TRRS connectors (phones, tablets and modern laptops).
 The benefit of this type of mic is that it is placed on your shirt and close to your mouth, which provides cleaner audio and more ambient noise rejection.
-<dl class="image"><dt>
-      <img src="micpro-2-lapel.jpg" alt="micpro-2-lapel.jpg">
-   </dt><dd>Figure: Rode smartLav+ Lapel Microphone for Smart Phones</dd></dl>
+
+::: ok  
+![Figure: Rode smartLav+ Lapel Microphone for Smart Phones](micpro-2-lapel.jpg)  
+:::  
+
 **Warning:** [The cable can look poor on video](https://www.youtube.com/watch?v=3YbAGcB2LgQ&feature=emb_title).
 
 Shotgun microphone
 
 Shotgun Microphones are, by definition, built to capture the audio from the source they are directly pointed at. They are designed to cut out audio from other directions. This means that if someone behind the microphone says something, it will likely not be picked up clearly.
 These are traditionally used on film and TV sets and offer among the highest quality recordings.
-<dl class="image"><dt><img src="mic-shotgun.jpg" alt="mic-shotgun.jpg" style="width:750px;"></dt><dd>Figure: Shotgun mic</dd></dl>
+
+::: ok  
+![Figure: Shotgun mic](mic-shotgun.jpg)  
+:::  
+
 ### Related Rule
 
 

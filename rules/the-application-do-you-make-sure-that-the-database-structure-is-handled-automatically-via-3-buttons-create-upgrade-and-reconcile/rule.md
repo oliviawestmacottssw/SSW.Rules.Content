@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - the-application-do-you-make-sure-that-the-database-structure-is-handled-automatically-via-3-buttons-＂create＂-＂upgrade＂-and-＂reconcile＂
-- the-application---do-you-make-sure-that-the-database-structure-is-handled-automatically-via-3-buttons-create-upgrade-and-reconcile
 
 ---
 
@@ -20,9 +19,15 @@ You get an error message reported from a user like:
 
 > *When I click the Save button on the product form it gives an error message about a missing field.*
 
-<dl class="image">    <dt><img alt="" src="ObamaThinking.jpg"> </dt>
-    <dd>Figure: The developer thinks "what could be wrong" </dd></dl><dl class="image">    <dt><img alt="" src="WorksOnMyMachine.png"> </dt>
-    <dd>Figure: The developer tests then replies "Works on my machine" </dd></dl>
+
+::: ok  
+![Figure: The developer thinks "what could be wrong"](ObamaThinking.jpg)  
+:::  
+
+::: ok  
+![Figure: The developer tests then replies "Works on my machine"](WorksOnMyMachine.png)  
+:::  
+
 You try and reproduce it on your version in the office and everything works perfectly.
 
  You suspect that the customer probably has changed the schema. So you start drafting an email to the user like:
@@ -63,9 +68,7 @@ Therefore, you should deliver an application with the buttons "Create", Upgrade"
 
 For more information see [Best Tools for SQL Server](http://www.ssw.com.au/ssw/Standards/DeveloperGeneral/SQLservertools.aspx#SQLDeploy)
  It looks like this
-
-![When weird errors are happening at a client, you need a "Reconcile" button in your application. This compares the current scripts, to the client's database and tells you if things are not right](Reconcile.jpg)
-![First time your client opens the application, they will need to Creating a database. It should be as easy as clicking "Create"](NewDatabaseDialog.jpg)
+![Reconcile](Reconcile.jpg) Figure: When weird errors are happening at a client, you need a "Reconcile" button in your application. This compares the current scripts, to the client's database and tells you if things are not right ![New database dialog](NewDatabaseDialog.jpg) Figure: First time your client opens the application, they will need to Creating a database. It should be as easy as clicking "Create"
 
 ::: greybox
 As a developer, I promise to do these 3 things:
@@ -76,5 +79,7 @@ As a developer, I promise to do these 3 things:
 
 :::
 
-<dl class="image">    <dt><img alt="" src="ObamSwearing.jpg"> </dt>
-    <dd>Figure: Adam makes all his new developers swear in and repeat this </dd></dl>
+
+::: ok  
+![Figure: Adam makes all his new developers swear in and repeat this](Reconcile.jpg)  
+:::

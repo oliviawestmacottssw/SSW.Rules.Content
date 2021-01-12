@@ -30,10 +30,15 @@ Check your PBI against your <br>      [Definition of Ready](/have-a-definition-o
 5. Break down your PBI into tasks.
 6. Don't forget to make a task for testing! (So that it is visible in the task board). Note: You can also <br>      [customize the kanban board](https://www.visualstudio.com/en-us/get-started/work/work-from-the-kanban-board-vs) by adding a new column for testing, but we recommend adding a testing task to the PBI instead.
 
-<dl class="badImage"><dt>
-      <img src="KB-customize-board-columns.png" alt="KB-customize-board-columns.png" style="width:750px;"></dt><dd>Figure: Adding a new "Test" state. This is only visible in the Product Backlog and not the Sprint Backlog</dd></dl><dl class="goodImage"><dt> 
-      <img src="Testing-task.png" alt="Testing task.png" style="width:750px;">
-   </dt><dd>Figure: Testing Task added to PBI. This is the board the team will use for 90% of the Sprint, so testing should be clearly visible here<br></dd></dl>
+
+::: bad  
+![Figure: Adding a new "Test" state. This is only visible in the Product Backlog and not the Sprint Backlog](KB-customize-board-columns.png)  
+:::  
+
+::: good  
+![Figure: Testing Task added to PBI. This is the board the team will use for 90% of the Sprint, so testing should be clearly visible here](Testing-task.png)  
+:::  
+
 ### 2. Code
 
 1. From the PBI, create a new branch (so that your work is automatically tagged to the PBI)
@@ -56,5 +61,7 @@ Is the PBI "Done"? Check your Definition of Done, and then:
 6. Email notification to the Product Owner – send a <br>      [Done Email (reply to the original)](/dones-do-you-reply-done-and-delete-the-original-email). Big items should have a <br>      [Done Video](/do-you-send-done-videos)
 7. Check the Acceptance Criteria for notes about email attachments (as per <br>      [Do you attach emails to the PBI?](/do-you-attach-emails-to-the-pbi)).
 
-Congrats. Your PBI is now ready to be demonstrated during your Sprint Review! (Note: This is also the same process you follow for a Bug work item)<dl class="goodImage"><dt>
-      <a href="/PublishingImages/livecycle.jpg"></a><img src="3StepsToAPBI.jpg" alt="3StepsToAPBI.jpg" style="width:750px;"> </dt><dd>Good Figure: This image includes all the important steps in a PBI lifecycle. Print this "<a href="/Documents/3StepsToAPBI.pdf">SSW 3 Steps to a PBI pdf</a>" and put it on your 'War Room' wall<br></dd></dl>
+Congrats. Your PBI is now ready to be demonstrated during your Sprint Review! (Note: This is also the same process you follow for a Bug work item)
+::: good  
+![Good Figure: This image includes all the important steps in a PBI lifecycle. Print this "SSW 3 Steps to a PBI pdf" and put it on your 'War Room' wall](3StepsToAPBI.jpg)  
+:::

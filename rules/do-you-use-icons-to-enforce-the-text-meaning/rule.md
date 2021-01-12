@@ -21,11 +21,19 @@ redirects:
 People may not pay attention to some important words in your pages. While adding a simple and clear icon beside the words will make the difference. Add a green tick for successful messages and a red cross for error messages.
 
 <!--endintro-->
-<dl class="image"><dt></dt></dl><dl class="badImage"><dt> 
-      <img src="validation-bad.jpg" alt="no icons to indicate the status" style="margin:5px;"> 
-   </dt><dd>Figure: Bad example - no icons to indicate the status</dd></dl><dl class="goodImage"><dt> 
-      <img src="validation-good.jpg" alt="green tick and red cross helps the user to know what's going on" style="margin:5px;"> 
-   </dt><dd>Figure: Good example - green tick and red cross help the user to know what's going on</dd></dl>
+
+::: ok  
+![](validation-bad.jpg)  
+:::  
+
+::: bad  
+![Figure: Bad example - no icons to indicate the status](validation-bad.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - green tick and red cross help the user to know what's going on](validation-good.jpg)  
+:::  
+
 ### Related Rules
 
 * If you need to find some icons - [Do you know where you can find some nice icons?](/where-to-find-nice-icons)

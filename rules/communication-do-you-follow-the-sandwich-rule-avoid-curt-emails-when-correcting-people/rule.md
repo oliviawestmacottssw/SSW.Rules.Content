@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-follow-the-sandwich-rule
-- communication---do-you-follow-the-sandwich-rule-avoid-curt-emails-when-correcting-people
 - communication-do-you-follow-the-sandwich-rule-(avoid-curt-emails-when-correcting-people)
 
 ---
@@ -27,6 +26,6 @@ The sandwich rule approach is an effective way to provide feedback to other team
 
 This optimistic approach allows you to maintain a healthy relationship with your team members and clients.
 
-
-![What not to do](criticize-behavior-not-person.gif)
+![criticize-behavior-not-person.gif](criticize-behavior-not-person.gif)
+**Figure: What not to do
 **

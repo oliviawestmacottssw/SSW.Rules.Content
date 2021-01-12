@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- customization---do-you-have-your-customizations-documented
+redirects: []
 
 ---
 

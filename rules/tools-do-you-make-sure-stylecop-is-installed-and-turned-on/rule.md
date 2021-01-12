@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - make-sure-stylecop-is-installed-and-turned-on
-- tools--do-you-make-sure-stylecop-is-installed-and-turned-on
 - tools-–-do-you-make-sure-stylecop-is-installed-and-turned-on
 
 ---

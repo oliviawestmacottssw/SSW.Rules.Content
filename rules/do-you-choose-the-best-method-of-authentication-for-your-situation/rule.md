@@ -19,7 +19,11 @@ redirects:
 ---
 
 Authentication and authorisation are complicated, and it is risky to try and implement it yourself.  Use this rule for a guide on choosing the right service or framework for your situation.
-<dl class="image"><dt><img src="security-icon-ssw.jpg" alt="security-icon-ssw.jpg" style="width:80px;height:80px;"><br></dt></dl>
+
+::: ok  
+![](security-icon-ssw.jpg)  
+:::  
+
 <!--endintro-->
 
 Choosing the right     [authentication and authorisation](https://www.youtube.com/watch?v=i0d9iTmWIOw) approach for your situation can be tricky. It is a multi-facted problem with many variables, and what seems like the right choice in one situation may not be in the other.
@@ -42,14 +46,16 @@ Without the answers to these questions, it will be difficult to choose the right
 
 ###  External Applications
 
-<dl class="image"><dt> 
-      <img src="Flow Chart - External.png" alt="Flow Chart - External.png"> 
-   </dt><dd>Figure: WebAPI (Public facing/consumer Application) - Authentication selection flow chart<br></dd></dl>
+
+::: ok  
+![Figure: WebAPI (Public facing/consumer Application) - Authentication selection flow chart](Flow Chart - External.png)  
+:::  
+
 **Example Template to Customer:**
 
 
 ::: greybox
-**Scenario:** 
+ **Scenario:** 
 Scope - You are building a consumer facing service that will have multiple clients, including a [SPA](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/november/asp-net-single-page-applications-build-modern-responsive-web-apps-with-asp-net) and a mobile app.     
 Social - You want to allow your users to sign up with their social identities (Google, Facebook, Twitter, etc.) but want to allow them to create an account with you if they don't have a social login or don't want to use it.     
 All users will have the same level of access once logged in.     
@@ -63,21 +69,28 @@ MFA - You would like to allow users to enable MFA.
 
 :::
 
-<dd class="ssw15-rteElement-FigureGood"> 
-    <strong>Good Example: The chosen solution meets the requirements and is highlighted as per <a href="/do-you-manage-up">Do you manage up?</a> <strong></strong> </strong> </dd>
+
+
+::: good
+ **Good Example: The chosen solution meets the requirements and is highlighted as per [Do you manage up?](/do-you-manage-up)  ** 
+:::
+
+
 
 ###  Internal Applications
 
-<dl class="image"><dt>
-      <img src="Flow Chart - Internal.png" alt="Flow Chart - Internal.png">
-   </dt><dd>Figure: WebAPI (Internal Enterprise Application) - Authentication selection flow chart</dd></dl>
+
+::: ok  
+![Figure: WebAPI (Internal Enterprise Application) - Authentication selection flow chart](Flow Chart - Internal.png)  
+:::  
+
 
 
 **Example Template to Customer:**
 
 
 ::: greybox
-**Scenario:** 
+ **Scenario:** 
 Scope - You have an internal enterprise application, which will support approximately 1,000 users.     
 You already have Active Directory in place, and are syncing with an Azure AD tenant.     
 Your users will need to access this application from anywhere.     
@@ -93,7 +106,7 @@ MFA - As per your company security policy, you must enforce MFA.
 
 
 ::: good
-**Good Example: The chosen solution meets the requirements without adding unnecessary additional costs  ** 
+ **Good Example: The chosen solution meets the requirements without adding unnecessary additional costs  ** 
 :::
 
 

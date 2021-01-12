@@ -19,5 +19,8 @@ Aiming for 'happy clients' can be an elusive game. Ultimately what makes one cli
 However
  the first step to keeping anyone happy is to [manage expectations](/do-you-manage-clients-expectations) from the beginning to the end of a project.
 The following steps are the processes by which you can manage client expectations and, with luck, keep them happy...
-<dl class="image"> <dt> <img src="SuccessfulProjects_ManagingExpectations.jpg" border="0" alt=""> </dt> <dd> Figure: Making premature statements is not an effective way of managing expectations </dd> </dl>
+
+::: ok  
+![Figure: Making premature statements is not an effective way of managing expectations](SuccessfulProjects\_ManagingExpectations.jpg)  
+:::
 

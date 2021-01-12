@@ -39,8 +39,7 @@ Once you have a build server configured, you'll be able to see the build control
 
 
 
-
-![](vso_build.png)
+![vso_build.png](vso_build.png)
 
 
 

@@ -34,8 +34,7 @@ Trying to keep all your commitments in your head is difficult and stressful, but
 Generally used for small tasks that you can't complete right now. These are very quick to set, and so won’t interrupt your flow.
 
 Make sure you never dismiss these when they come up unless you can complete the task on the spot. If you can’t complete the task immediately when it appears on your lock screen, press and hold to kick the can down the road to when you will have time to do the task.
-<dl class="ssw15-rteElement-ImageArea"> 
-   <img src="iphone reminder.png" alt="iphone reminder.png" style="margin:5px;"> </dl>
+![iphone reminder.png](iphone reminder.png)
 
 ::: good
 Figure: Good Example - Create and manage reminders all from your lock screen (no typing needed)
@@ -47,8 +46,7 @@ Figure: Good Example - Create and manage reminders all from your lock screen (no
 
 
 If you want to set aside time for something, especially with 1 or more other people, use a calendar appointment. Remember, that action in itself is a promise that you will be on time (and not excessively multitasking), so keep on track of your upcoming appointments in Outlook, or use reminders to make sure you don't forget.
-<dl class="ssw15-rteElement-ImageArea"> 
-   <img src="Calendar-in-Outlook.png" alt="Calendar-in-Outlook.png" style="margin:5px;"> </dl>
+![Calendar-in-Outlook.png](Calendar-in-Outlook.png)
 
 ::: good
 Figure: At your desk, use the Outlook sidebar to know what time your next meeting is

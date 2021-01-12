@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - follow-version-conventions
-- comments---do-you-follow-the-general-commenting-rules
 
 ---
 

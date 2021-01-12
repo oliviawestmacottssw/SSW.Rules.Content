@@ -20,7 +20,11 @@ redirects: []
 ---
 
 Just like a car, applications need servicing and tuning every now and then to stay in top condition. They might need alterations to deal with new business problems, or just tuning to increase efficiency.
-<dl class="image"><dt><img src="sucessful-project-and-now.jpeg" alt="sucessful-project-and-now.jpeg"></dt><dd>Figure: What happens after the software has been delivered and the development team moves on. The next phase is maintenance<br></dd></dl>
+
+::: ok  
+![Figure: What happens after the software has been delivered and the development team moves on. The next phase is maintenance](sucessful-project-and-now.jpeg)  
+:::  
+
 <!--endintro-->
 
 So you’ve done 10 good sprints and the [software has been delivered (ready)](/have-a-definition-of-ready) and the team is winding down. It will need maintenance.

@@ -18,6 +18,21 @@ When getting users to choose data from a medium-long list, or to enter data that
 <!--endintro-->
 
 Also, predictive textboxes can be used with validation, or without. In instances where you don't mind if users add data to your collection you can turn validation off; however, to keep your collection clean, it is recommended to use validation.
-<dl class="badImage"><dt> <img src="PredTextBad.gif" alt="Incorrect use of data entry tools"> </dt><dd> Figure: Bad Example - Using a Textbox and Combo to enter list data</dd></dl><dl class="goodImage"><dt> <img src="TypeAhead.gif" alt="Good Example of predictive textboxes" data-pin-nopin="true"> </dt><dd> Figure: Good Example - Predictive-Text combo with Type Ahead</dd></dl><dl class="goodImage"><dt> <img src="PredTextValidation.gif" alt="Good Example of predictive textboxes"> </dt><dd> Figure: Good Example - Predictive-Text combo with and without validation</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Using a Textbox and Combo to enter list data](PredTextBad.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - Predictive-Text combo with Type Ahead](TypeAhead.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - Predictive-Text combo with and without validation](PredTextValidation.gif)  
+:::  
+
 To see this in action [try our Predictive-Text Combos demo](https://www.ssw.com.au/Demos/PredictiveTextCombo/).
-<dl class="goodImage"><dt> <img src="google-predictive-search.png" alt="google-predictive-search.png"></dt><dd> Figure: Best Example - Google search <br></dd></dl>
+
+::: good  
+![Figure: Best Example - Google search](google-predictive-search.png)  
+:::

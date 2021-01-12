@@ -43,13 +43,25 @@ A better way is:
 * Reply to the customer:
 "It was 22 seconds, you asked for around 10 seconds. It is now 8 seconds."
 
-<dl class="image"><dt><img src="Code-Auditor-performance.jpg" alt=" " class="ms-rteCustom-ImageArea"></dt><dd>Figure: Good example – Add some code to check the timing, before fixing any performance issues (An example from SSW Code Auditor)</dd></dl>
+
+::: good  
+![Figure: Good example – Add some code to check the timing, before fixing any performance issues (An example from SSW Code Auditor)](Code-Auditor-performance.jpg)  
+:::  
+
 Also, never forget to do incremental changes in your tests!
 
 For example, if you are trying to measure the optimal number of processors for a server, do not go from 1 processor to 4 processors at once:
-<dl class="badImage"><dt><img src="1to4.png" alt="1to4.png"></dt><dd>Figure: Bad Example - Going from 1 to 4 all at once gives you incomplete measurements and data</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Going from 1 to 4 all at once gives you incomplete measurements and data](1to4.png)  
+:::  
+
 Do it incrementally, adding 1 processor each time, measuring the results, and then adding more:
-<dl class="goodImage"><dt><img src="1234.png" alt="1234.png"></dt><dd>Figure: Good Example - Going from 1 to 2, then measuring, then incrementally adding one more, measuring...</dd></dl>
+
+::: good  
+![Figure: Good Example - Going from 1 to 2, then measuring, then incrementally adding one more, measuring...](1234.png)  
+:::  
+
 This gives you the most complete set of data to work from.
 
 This is because performance is an emotional thing, sometimes it just \*feels\* slower. Without numbers, a person cannot really know for sure whether something has become quicker. By making the changes incrementally, you can be assured that there aren’t bad changes canceling out the effect of good changes.

@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- done---do-you-know-when-to-do-a-test-please-in-scrum
+redirects: []
 
 ---
 

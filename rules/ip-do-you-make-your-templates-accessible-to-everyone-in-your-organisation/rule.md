@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - quality-do-you-make-your-templates-accessible-to-everyone-in-your-organisation
-- ip---do-you-make-your-templates-accessible-to-everyone-in-your-organisation
 
 ---
 
@@ -29,8 +28,7 @@ Make sure your company has a common code base and email template store and endea
 
 The best approach to reuse code across multiple projects is to create Nuget Packages. When you need to update that library, it is then trivial to apply that update to your client projects.
 
-
-![](BCE_Nuget_Server.png)
+![BCE_Nuget_Server.png](BCE_Nuget_Server.png)
 
 
 ::: good
@@ -42,8 +40,7 @@ For details on creating your own internal Nuget repository, read this rule:[http
 
 
 
-
-![](SSW_nuget.png)
+![SSW_nuget.png](SSW_nuget.png)
 
 
 ::: good

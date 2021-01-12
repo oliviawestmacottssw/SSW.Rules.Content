@@ -19,7 +19,7 @@ By default, the group header of a list shows bigger font size only on modern UI,
 
 To implement this, you will need to inject a custom style to first level group header. e.g.
 
-.ms-GroupedList-group > .ms-GroupHeader .ms-GroupHeader-title {
+.ms-GroupedList-group &gt; .ms-GroupHeader .ms-GroupHeader-title {
     font-weight:600;
 }
 
@@ -28,5 +28,5 @@ To implement this, you will need to inject a custom style to first level group h
 If you want to make this style available in a "site collection" scope (aka apply to all lists and libraries in a site collection), use a "SharePoint Extension" is not a bad option. Read more details at https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/serving-your-extension-from-sharepoint
 
 Once deployed, you should be able to see a header style like the below:
-<dl class="ssw15-rteElement-ImageArea"><img src="level one gorup header bold.png" alt="level one gorup header bold.png" style="margin:5px;"></dl> **Figure: Level one group header is bold
+![level one gorup header bold.png](level one gorup header bold.png) **Figure: Level one group header is bold
 **

@@ -29,9 +29,9 @@ index:
 - do-you-know-not-to-use-linkbutton
 - do-you-know-why-you-choose-net-core
 - do-you-name-web-pages-to-be-consistent-with-database-tables
-- do-you-precompile-your-aspnet-11-and-20-sites
+- do-you-precompile-your-asp-net-1-1-and-2-0-sites
 - do-you-provide-modern-contact-options
-- do-you-remove-the-debug-attribute-in-webconfig-compilation-element
+- do-you-remove-the-debug-attribute-in-web-config-compilation-element
 - do-you-run-load-tests-on-your-website
 - do-you-use-css-validation-service-to-check-your-css-file
 - do-you-use-jquery-instead-of-javascript

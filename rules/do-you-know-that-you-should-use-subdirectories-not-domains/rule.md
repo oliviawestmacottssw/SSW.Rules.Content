@@ -24,7 +24,8 @@ If you’re building a website today, and your business needs to create addresse
 There’s a lot of debate about this topic on the internet, so the question to ask yourself is: “Should I use subdirectories or subdomains?”
 
 <!--endintro-->
-<dl class="ssw15-rteElement-ImageArea"><img src="rulesubdomains.png" alt="rulesubdomains.png" style="margin:5px;"> <strong>Figure: Difference between subdirectories and subdomains</strong> <br></dl>
+![rulesubdomains.png](rulesubdomains.png)
+ **Figure: Difference between subdirectories and subdomains** 
 
 
 The general consensus is that if you are starting from scratch, it’s better to use subdirectories as they’re easier to maintain and less time-consuming in the long-term. However, if you already have a domain and a lot of legacy structures in place, using subdirectories could be a big change and might not be worth it. You would need to update your properties in Google Analytics, your Google Search Console settings, a lot of redirects, and much more.

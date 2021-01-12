@@ -25,7 +25,11 @@ Module Startup Dim HelloWorld As String = "Hello World!" Sub Main() Console.Writ
 Bad example of a constant message
 :::
 
-<dl class="goodImage"><dt> <img src="BetterCode_ConstantMessages.gif" alt="BetterCode_ConstantMessages.gif"></dt><dd>Figure: Saving constant message in Resource</dd></dl>
+
+::: good  
+![Figure: Saving constant message in Resource](BetterCode\_ConstantMessages.gif)  
+:::  
+
 Module Startup Sub Main() Console.Write(My.Resources.Messages.Constant\_HelloWorld) Console.Read() End Sub End Module
 
 

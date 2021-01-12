@@ -20,14 +20,22 @@ You have a web site master right? This is the central point of contact if the si
 
  Who is "Schema Master"? What does he do?   
 <!--endintro-->
-<dl class="image">    <dt><img src="Nick.png" alt=""> </dt>
-    <dd>Figure: One person should be the 'Schema Master', on an average sized project (of 5-10 devs) </dd></dl>
+
+::: ok  
+![Figure: One person should be the 'Schema Master', on an average sized project (of 5-10 devs)](Nick.png)  
+:::  
+
 If your project has a database, you need to select a "Schema Master". This is the one person who should review all modifications to the database. These include:
 
 * Creating, Modifying and Deleting tables and columns
 * Relationships
 * Modify [Controlled Lookup Data](/Pages/DoYouDeployLookupData.aspx)
 
- The "Schema Master" in a development shop is often the lead programmer on the team. They are in charge of all database changes and scripts. Team members should still feel free to make changes, just get them double checked by the Schema Master.<dl class="image">    <dt><img src="zsVersionTable.png" alt=""> </dt>
-    <dd>Figure: The Applications Database stores version info in a table called _zsVersion </dd></dl><dl class="image">    <dt><img src="SQLScriptInTFS.png" alt=""> </dt>
-    <dd>Figure: Only a "Schema Master" checks in the .sql files </dd></dl>
+ The "Schema Master" in a development shop is often the lead programmer on the team. They are in charge of all database changes and scripts. Team members should still feel free to make changes, just get them double checked by the Schema Master.
+::: ok  
+![Figure: The Applications Database stores version info in a table called \_zsVersion](zsVersionTable.png)  
+:::  
+
+::: ok  
+![Figure: Only a "Schema Master" checks in the .sql files](SQLScriptInTFS.png)  
+:::

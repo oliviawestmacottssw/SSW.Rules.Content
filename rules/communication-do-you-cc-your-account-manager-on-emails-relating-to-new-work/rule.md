@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - do-you-cc-your-account-manager-on-emails-relating-to-new-work
-- communication---do-you-cc-your-account-manager-on-emails-relating-to-new-work
 
 ---
 
@@ -24,10 +23,7 @@ Once a project gets underway, it is not uncommon for the development team to t
 When this is the case, the "As per our conversation" email should CC the Account Manager                     so he is always aware of all work being done, and can create a [new CRM opportunity](/data-entry-do-you-know-how-to-create-new-opportunities) if required.
 
 If an initial meeting is required for the new work, the Account Manager should be in attendance                     where possible to help continue the relationship.
-<dl class="good">                    
-                    <dt>
-                        <p>Hi Bill,<br>
-                           As per our conversation, you want to book me&#160;for another 2 weeks on this additional work.</p>
-                    </dt>
-                    <dd>Figure&#58; Good Example - the account manager should be CCed on an email like this.</dd>
-                </dl>
+
+Hi Bill,
+                            As per our conversation, you want to book me for another 2 weeks on this additional work.
+Figure: Good Example - the account manager should be CCed on an email like this.

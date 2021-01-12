@@ -28,7 +28,15 @@ The evolution of website development can be divided by:
 <!--endintro-->
 
 It's important that your website is focused on CX (Customer Experience) which means you need modern contact options.
-<dl class="badImage"><dt> <img src="moderncontact-bad.png" alt="moderncontact-bad.png" style="width:650px;height:494px;"> </dt><dd>Figure: Bad example: the only way to contact the company is via email</dd></dl> <dl class="goodImage"> <dt> <img src="moderncontact-good.png" alt="moderncontact-good.png" style="width:650px;height:1158px;"> </dt><dd>Figure: Good example - Chat is available along with other ways of contact, such as voip, IM, KB etc<br></dd></dl> 
+
+::: bad  
+![Figure: Bad example: the only way to contact the company is via email](moderncontact-bad.png)  
+:::  
+ 
+::: good  
+![Figure: Good example - Chat is available along with other ways of contact, such as voip, IM, KB etc](moderncontact-good.png)  
+:::  
+ 
 
 `youtube: https://www.youtube.com/embed/K1HlAsW1RiA`
  

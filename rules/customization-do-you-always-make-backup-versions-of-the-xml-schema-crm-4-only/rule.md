@@ -10,16 +10,18 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- customization---do-you-always-make-backup-versions-of-the-xml-schema-crm-4-only
 - customization-do-you-always-make-backup-versions-of-the-xml-schema-(crm-4-only)
 
 ---
 
-When the XML schema is published it re-generates the underlying SQL and .aspx code. If trouble hits, a "refresh" or "rollback" to an uncorrupted schema is always a backup plan. A versioning scheme is also required to keep track of different versions of the XML schema at different points in time. To make a backup of the schema from within Microsoft CRM navigate to Settings -> Customization -> Export Customizations. Browse to the location on your personal hard drive where the .XML file is to be stored.
+When the XML schema is published it re-generates the underlying SQL and .aspx code. If trouble hits, a "refresh" or "rollback" to an uncorrupted schema is always a backup plan. A versioning scheme is also required to keep track of different versions of the XML schema at different points in time. To make a backup of the schema from within Microsoft CRM navigate to Settings -&gt; Customization -&gt; Export Customizations. Browse to the location on your personal hard drive where the .XML file is to be stored.
 
 <!--endintro-->
-<dl class="image"><dt><img alt="Microsoft CRM Customization Pane" src="CRM_CustomizationPane.jpg"></dt>
-<dd>Figure: Export customizations as backup </dd></dl>
+
+::: ok  
+![Figure: Export customizations as backup](CRM\_CustomizationPane.jpg)  
+:::  
+
 **Tip #1:** Export only the customizations of entities that you customize and keep each entity customizations in a separate file, see the rule:[Customization](/Pages/Only-export-the-customizations-and-related-ones-that-you-have-made.aspx) - Do you export only the customizations of entities that you did customize?
 
 **Tip #2:** Put the date on the file names and while you are working you will be doing this multiple times a day.

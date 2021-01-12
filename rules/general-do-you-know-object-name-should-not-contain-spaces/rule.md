@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - object-name-should-not-contain-spaces
-- general---do-you-know-object-name-should-not-contain-spaces
 
 ---
 

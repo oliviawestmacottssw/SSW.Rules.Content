@@ -20,7 +20,5 @@ Most companies keep all their customers' (and prospects') contact information in
 <!--endintro-->
 
 
-<br>We have a program called [SSW LookOut! for Outlook](http://www.ssw.com.au/ssw/LookOut/) to check for this rule. 
-![Stephen Koop needs to be put into the database](StephenKoopIsNotInTheDatabase.jpg)
-
-![SSW Lookout](NotInDatabase.gif)! Can also check the emails that you are sending and tell you if the email address is not in your database.**
+<br>We have a program called [SSW LookOut! for Outlook](http://www.ssw.com.au/ssw/LookOut/) to check for this rule. ![Stephen Koop not in database](StephenKoopIsNotInTheDatabase.jpg)**Figure: Stephen Koop needs to be put into the database** 
+![Not in database](NotInDatabase.gif)**Figure: SSW Lookout! Can also check the emails that you are sending and tell you if the email address is not in your database.**

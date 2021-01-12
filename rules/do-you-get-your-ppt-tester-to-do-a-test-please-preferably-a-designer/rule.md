@@ -19,5 +19,4 @@ Image is everything. Improve the way you market, educate and promote yourself wi
 ## Related links
 
 [Do you conduct a "test please" internally and then with the client?](/conduct-a-test-please-internally-and-then-with-the-client)
-<dl>    <dt><img class="ms-rteCustom-ImageArea" src="before_after.jpg" alt=""> </dt>
-     <strong>Figure: Before and after... Designers can make anything look good</strong> <dd></dd></dl>
+![](before_after.jpg) **Figure: Before and after... Designers can make anything look good**

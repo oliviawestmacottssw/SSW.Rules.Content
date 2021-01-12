@@ -24,7 +24,17 @@ How can you know that all components are working correctly on your site? It is v
 
 
 <!--endintro-->
-<dl class="image"><dt><img src="../../assets/la-footer.jpg" alt="Link Auditor footer" data-pin-nopin="true" style="width:700px;"></dt><dd>Figure: <a href="https://sswlinkauditor.com/">Link Auditor</a> server info</dd></dl>
+
+::: ok  
+![Figure: Link Auditor server info](../../assets/la-footer.jpg)  
+:::  
+
 You would be surprised how many dependencies a large web page can have.The advantage of this page is if you ever need to redeploy your application on another server or you have some pages that are just not working as planned you can load up this page and get a quick diagnostics of your website.
-<dl class="image"><dt><img src="../../assets/ValidateSetup.jpg" alt="Validate Setup" style="width:640px;"></dt><dd>Figure: One of the components on this web site is down</dd></dl><dl class="image"><dt><img src="../../assets/ValidationTests.jpg" alt="Validation Tests" style="width:750px;"></dt><dd>Figure: Automatically validating our website</dd><p>See <a href="https://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterUnitTests.aspx#zsValidatePage">SSW Rules - Do you have a zsValidate page to test your website dependencies?</a></p>
-<br></dl>
+
+::: ok  
+![Figure: One of the components on this web site is down](../../assets/ValidateSetup.jpg)  
+:::  
+
+::: ok  
+![Figure: Automatically validating our websiteSee SSW Rules - Do you have a zsValidate page to test your website dependencies?](../../assets/ValidationTests.jpg)  
+:::

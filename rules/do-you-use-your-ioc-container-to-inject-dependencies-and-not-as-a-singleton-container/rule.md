@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- do-you-use-your-ioc-container-to-inject-dependencies--and-not-as-a-singleton-container
 - do-you-use-your-ioc-container-to-inject-dependencies-–-and-not-as-a-singleton-container
 
 ---
@@ -21,8 +20,7 @@ A common practice we see when developers start to use IOC containers is that the
 Using an IOC container in this manner can bring advantages such as centralised configuration and dependency lifecycle and scope managment. If implemented correctly, however, your classes can benefit from the above without any direct dependency on the IOC container itself.
 
 
-
-![](IOC_badexample.png)
+![IOC_badexample.png](IOC_badexample.png)
 
 
 
@@ -34,12 +32,11 @@ Figure: Bad Example - the dependency is manually fetched from the IOC container,
 
 
 
-
-![](IOC_GoodExample.png)
+![IOC_GoodExample.png](IOC_GoodExample.png)
 
 
 ::: good
-Figure: Good example -  The dependency is enforced via a constuctor parameter. The class does not need to know anything about the IOC container being used and can potentially be reused in different contexts and with different IOC containers. 
+Figure: Good example -  The dependency is enforced via a constuctor parameter. The class does not need to know anything about the IOC container being used and can potentially be reused in different contexts and with different IOC containers.
 :::
 
 

@@ -9,13 +9,17 @@ authors:
 - title: Marlon Marescia
   url: https://ssw.com.au/people/marlon-marescia
 related: []
-redirects:
-- post-production---do-make-sure-your-video-thumbnail-encourages-people-to-watch-the-video
+redirects: []
 
 ---
 
 Video thumbnails should entice a visitor to watch the video. We find that images are better than text. If text is used make sure that it is not obstructed by the play button. 
 <!--endintro-->
-<dl class="badImage"><dt><img alt="Text is obstructed by the play button" src="video-thumb-bad.jpg"></dt>
-<dd>Figure: Bad example – Text is obstructed by the play button</dd></dl><dl class="goodImage"><dt><img alt="This image lets a visitor know that the video is an interview" src="video-thumb-good.jpg"></dt>
-<dd>Figure: Good Example – This image lets a visitor know that the video is an interview</dd></dl>
+
+::: bad  
+![Figure: Bad example – Text is obstructed by the play button](video-thumb-bad.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example – This image lets a visitor know that the video is an interview](video-thumb-good.jpg)  
+:::

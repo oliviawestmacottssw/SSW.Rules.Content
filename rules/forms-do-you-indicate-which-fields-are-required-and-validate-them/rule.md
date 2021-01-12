@@ -9,22 +9,34 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- forms---do-you-indicate-which-fields-are-required-and-validate-them
+redirects: []
 
 ---
 
 Always indicate which fields are required. Users get frustrated when they experience a wasted trip to the server, just because they did not get an obvious indication of what was required first time around.
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="Required-field_Bad-example.jpg" alt="Bad example of Web Sites Required Fields"></dt><dd>Figure: Bad example - No visual indication for required fields when a user first sees the form</dd></dl>
+
+::: bad  
+![Figure: Bad example - No visual indication for required fields when a user first sees the form](Required-field\_Bad-example.jpg)  
+:::  
+
 A designer will know the best way to indicate required field depending on the layout. However if you are in doubt and don’t have a designer around, a red asterisk is definitely the best option.
-<dl class="goodImage"><dt><img src="Redstar_Good-example.jpg" alt="Use a simple asterisk character"></dt><dd>Figure: Good Example - A visual indication of what fields are required (use a red asterisk if you are not a designer)</dd></dl>
+
+::: good  
+![Figure: Good Example - A visual indication of what fields are required (use a red asterisk if you are not a designer)](Redstar\_Good-example.jpg)  
+:::  
+
 #### More Information
 
 You should combine these visual indicators with appropriate client and server side validators to make sure that your data conforms to business requirements. Adding a RequiredFieldValidator to the above textboxes gives you data validity check with minimal coding.
-<dl class="badImage"><dt><p class="ssw15-rteElement-CodeArea"><asp:textbox runat="Server" id="email"></asp:textbox></p></dt><dd>Figure: Bad Example - No validator used, so the user won't know the email is required</dd></dl><dl class="goodImage"><dt><p class="ssw15-rteElement-CodeArea"><asp:textbox runat="Server" id="email"></asp:textbox>
-    <br><asp:requiredfieldvalidator runat="Server" controltovalidate="email" errormessage="Please enter an email address"></asp:requiredfieldvalidator><br>ID="emailReqValidator" /></p></dt><dd>Figure: Good Example - an ASP.NET validator in use, to indicate the fields required</dd></dl>
+
+&lt;asp:Textbox runat="Server" ID="email" /&gt;
+Figure: Bad Example - No validator used, so the user won't know the email is required
+&lt;asp:Textbox runat="Server" ID="email"/&gt;     
+&lt;asp:RequiredFieldValidator runat="Server" ControlToValidate="email" ErrorMessage="Please enter an email address"     
+ID="emailReqValidator" /&gt;
+Figure: Good Example - an ASP.NET validator in use, to indicate the fields required
 
 ::: greybox
 

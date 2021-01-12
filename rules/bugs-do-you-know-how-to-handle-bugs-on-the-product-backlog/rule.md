@@ -13,8 +13,7 @@ authors:
 - title: Eric Phan
   url: https://ssw.com.au/people/eric-phan
 related: []
-redirects:
-- bugs---do-you-know-how-to-handle-bugs-on-the-product-backlog
+redirects: []
 
 ---
 
@@ -63,8 +62,10 @@ Examples:
 
 
 
+![2016-02-08_12-02-29.png](2016-02-08_12-02-29.png)
 
-![Bugs can be added "out of sprint" directly into the product backlog in TFS](2016-02-08_12-02-29.png)
+
+ **Figure: Bugs can be added "out of sprint" directly into the product backlog in TFS** 
 The Visual Studio team provides good guidance on [managing bugs in VSTS](https://www.visualstudio.com/en-us/docs/work/backlogs/manage-bugs)
  **
 **

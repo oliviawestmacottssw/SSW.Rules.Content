@@ -14,7 +14,6 @@ related: []
 redirects:
 - post-production-high-quality
 - post-production-do-you-use-sd-or-hd-quality
-- post-production---do-you-use-hd-or-4k-quality
 
 ---
 
@@ -38,12 +37,17 @@ After your videos recorded and edited using your editor of choice, you need to c
     * For 4k we recommend 20-30Mbps
 * In the Audio tab| Bitrate Settings | Bitrate [kbps] | 320kbps
 
-<dl class="image"><dt>
-      <img src="export-premiere1.png" alt="export-premiere1.png" style="width:750px;">
-   </dt><dd>Figure: Figure: Video Export settings in Premiere Pro</dd></dl><dl class="image"><dt>
-      <img src="export-premiere2.png" alt="export-premiere2.png" style="width:750px;">
-   </dt><dd>Figure: Audio Export settings in Premiere Pro</dd></dl>
+
+::: ok  
+![Figure: Figure: Video Export settings in Premiere Pro](export-premiere1.png)  
+:::  
+
+::: ok  
+![Figure: Audio Export settings in Premiere Pro](export-premiere2.png)  
+:::  
+
 ### Export Settings for Camtasia
-<dl class="image"><dt>
-      <img src="export-camtasia.png" alt="export-camtasia.png" style="width:750px;">
-   </dt><dd>Figure: Camtasia export settings</dd></dl>
+
+::: ok  
+![Figure: Camtasia export settings](export-camtasia.png)  
+:::

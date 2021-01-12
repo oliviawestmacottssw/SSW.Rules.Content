@@ -24,4 +24,7 @@ Understanding the impact of slotting in a new request into the sprint is importa
 "If we do X now that means we can’t do Y and Z in this sprint and they will be push back to the backlog".
 
 <!--endintro-->
-**Tip:** If you're using Project Server, you can see the impact on the timeline visually in the "Tracking Gantt". <dl class="image"><dt><img class="ms-rteCustom-ImageArea" alt="Project Server 2010 Tracking Gantt tells us the deviations from the baseline estimates" src="gantt-chart.jpg"></dt><dd>Figure: Project Server Tracking Gantt tells us the deviations from the baseline estimates</dd></dl>
+**Tip:** If you're using Project Server, you can see the impact on the timeline visually in the "Tracking Gantt". 
+::: ok  
+![Figure: Project Server Tracking Gantt tells us the deviations from the baseline estimates](gantt-chart.jpg)  
+:::

@@ -13,8 +13,7 @@ authors:
 - title: Martin Hinshelwood
   url: https://ssw.com.au/people/martin-hinshelwood
 related: []
-redirects:
-- reports---do-you-know-which-reports-are-the-most-important-ones-to-track-your-progress
+redirects: []
 
 ---
 
@@ -22,8 +21,8 @@ In Scrum there is only one report that the team needs to track their progress.
 
 <!--endintro-->
 
-
-![The burndown has all of the information you need to know if you are going to hit your mark](burndown_good_example.png)
+![](burndown_good_example.png)
+**Figure: The burndown has all of the information you need to know if you are going to hit your mark**
 
 There are however other reports that matter for management and putting together the bigger picture.
 

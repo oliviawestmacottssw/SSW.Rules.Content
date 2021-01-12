@@ -9,7 +9,6 @@ authors: []
 related: []
 redirects:
 - venue-is-everything
-- venue---do-you-use-an-ideal-venue
 
 ---
 

@@ -13,8 +13,7 @@ authors:
 - title: William Yin
   url: https://ssw.com.au/people/william-yin
 related: []
-redirects:
-- sharepoint-rules-categories---do-you-know-how-to-make-the-title-consistent
+redirects: []
 
 ---
 
@@ -28,5 +27,4 @@ When you want to update the Rule Title, please DO NOT update them in the list di
 
 <!--endintro-->
  Like this (thanks for Adam's snapshot) : 
-
 ![](SPTitle.jpg)

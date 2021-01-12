@@ -64,8 +64,7 @@ The main benefits of this strategy are:
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="bunny.jpg" alt="bunny.jpg" style="margin:5px;width:808px;">
-   </dl> 
+![bunny.jpg](bunny.jpg) 
 
 
 ::: good

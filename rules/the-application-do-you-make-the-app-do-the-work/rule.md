@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-application--do-you-make-the-app-do-the-work
 - the-application-–-do-you-make-the-app-do-the-work
 
 ---
@@ -19,49 +18,21 @@ Application upgrade might not only include the .exe and .dll but the database ch
 
  Let's see the bad and good examples:   
 <!--endintro-->
-<dl class="image">    <dt><font class="ms-rteCustom-CodeArea">
-    <pre>Dear Mr Northwind, 
 
-Before installing your application, you need to 
-run this script by 
-first opening up SQL Management Studio. 
-Open the attached script, point it to Northwind and 
-execute the script. 
+::: bad  
+![Dear Mr Northwind,   Before installing your application, you need to  run this script by  first opening up SQL Management Studio.  Open the attached script, point it to Northwind and  execute the script.   Let me know if you have any issues...  We worked very hard on this release.   I hope you’re happy with it.   Regards,  Eric Phan            Figure: Bad example - run SQL scripts manually](UsingSQLDeployControl.png)  
+:::  
 
-Let me know if you have any issues... 
-We worked very hard on this release. 
+::: ok  
+![Hi Mr. Northwind,   Please run the attached Northwind\_v5.exe.   Click Run when the prompt appears.   Regards, Eric Phan            Figure: Better example - run SQL scripts using another package](UsingSQLDeployControl.png)  
+:::  
 
-I hope you’re happy with it. 
+::: ok  
+![Dear Mr Northwind,   When you run the Northwind v1.0 (Rich Client) it will  automatically upgrade the database for you.   Just make sure you have dbo permissions:  Let me know if you run into any issues,  otherwise have a great day.   Regards,  Eric Phan           Figure: Best example - run SQL scripts in the application](UsingSQLDeployControl.png)  
+:::  
 
-Regards, 
-Eric Phan 
-</pre>
-    </font></dt>
-    <dd>Figure: Bad example - run SQL scripts manually </dd></dl><dl class="image">    <dt><font class="ms-rteCustom-CodeArea">
-    <pre>Hi Mr. Northwind, 
+::: ok  
+![Figure: Deploy SQL scripts by the application itself](UsingSQLDeployControl.png)  
+:::  
 
-Please run the attached Northwind_v5.exe. 
-
-Click Run when the prompt appears. 
-
-Regards,
-Eric Phan 
-</pre>
-    </font></dt>
-    <dd>Figure: Better example - run SQL scripts using another package </dd></dl><dl class="image">    <dt><font class="ms-rteCustom-CodeArea">
-    <pre>Dear Mr Northwind, 
-
-When you run the Northwind v1.0 (Rich Client) it will 
-automatically upgrade the database for you. 
-
-Just make sure you have dbo permissions: 
-Let me know if you run into any issues, 
-otherwise have a great day. 
-
-Regards, 
-Eric Phan
-</pre>
-    </font></dt>
-    <dd>Figure: Best example - run SQL scripts in the application </dd></dl><dl class="image">    <dt><img alt="" src="UsingSQLDeployControl.png"> </dt>
-    <dd>Figure: Deploy SQL scripts by the application itself </dd></dl>
  We have a tool called [SQL Deploy](http://www.ssw.com.au/ssw/SQLDeploy) can do this.

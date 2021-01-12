@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - configure-all-your-sql-server-services-to-use-a-domain-account
-- dbas---do-you-configure-all-your-sql-server-services-to-use-a-domain-account-rather-than-a-local-service-account
 
 ---
 
@@ -30,9 +29,11 @@ In the service properties window for these services, ensure that the Service Sta
 For security, you should not have this domain account in the Administrators group.
 
 <!--endintro-->
-<dl class="badImage"><dt>
-      <img src="SQLDatabases_RunAsAccount_Bad.png" alt="SQLDatabases_RunAsAccount_Bad.png">
-   </dt><dd>Figure: Bad example - This service is using a built-in local service account</dd></dl><dl class="goodImage"><dt>
-         <img src="SQLDatabases_RunAsAccount.png" alt="SQLDatabases_RunAsAccount.png">
-         <br>
-      </dt><dd>Figure: Good example - Run as Account should use a domain account rather than a built-in account</dd></dl>
+
+::: bad  
+![Figure: Bad example - This service is using a built-in local service account](SQLDatabases\_RunAsAccount\_Bad.png)  
+:::  
+
+::: good  
+![Figure: Good example - Run as Account should use a domain account rather than a built-in account](SQLDatabases\_RunAsAccount.png)  
+:::

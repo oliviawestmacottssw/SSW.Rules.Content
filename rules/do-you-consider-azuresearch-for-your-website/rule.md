@@ -44,8 +44,7 @@ Keep in mind that 1) hosting of a full-text search service costs you labour to s
 
 
 
-
-![](9c0754_Untitled2.png)
+![Untitled2.png](9c0754_Untitled2.png)
 
 
 ::: good
@@ -55,8 +54,7 @@ Figure: Good Example - Azure website using AzureSearch for what it can deliver t
 
 
 
-
-![](Untitled.png)
+![Untitled.png](Untitled.png)
 
 
 ::: bad

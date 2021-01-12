@@ -15,6 +15,10 @@ By placing a little visual cue on your slide, you can remind yourself to show a 
 <!--endintro-->
 
 The icon allows you to skip it when running short on time, without upsetting the audience.
-<dl>    <dt><img class="ms-rteCustom-ImageArea" src="DemoBad.gif" alt=""> </dt>
-    <br><br>::: bad<br>Figure: Bad example - demo text shown. The problem is if you run out of time you need to say "Sorry, let's skip that demo since I am short of time". Then the audience feels cheated<br>:::<br><br></dl><dl>    <dt><img class="ms-rteCustom-ImageArea" src="demo.gif" alt=""> </dt>
-    <dd class="ms-rteCustom-FigureGood">Figure: Use an icon to indicate a "demo time"</dd></dl>
+![](DemoBad.gif)
+
+:::
+Figure: Bad example - demo text shown. The problem is if you run out of time you need to say "Sorry, let's skip that demo since I am short of time". Then the audience feels cheated
+::: bad
+
+![](demo.gif)Figure: Use an icon to indicate a "demo time"

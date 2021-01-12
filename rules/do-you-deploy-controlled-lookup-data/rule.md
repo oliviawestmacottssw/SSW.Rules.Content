@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-deploy-＂controlled-lookup-data＂
-- do-you-deploy-controlled-lookup-data-
 
 ---
 
@@ -27,17 +26,22 @@ Lookup data is data that you usually see in combo boxes. It may be a Customer Ca
  3) You then need to add a check for it so that it does not disappear.
 
 Let's look at an example:
-<dl class="image">    <dt><img alt="" src="TimeProDropDown.png"> </dt>
-    <dd>Figure: This combo looks innocent. However if it is "Billable" then the calendar goes yellow </dd></dl><dl class="image">    <dt><img alt="" src="TimeProCalendar.png"> </dt>
-    <dd>Figure: Billable days are shown in yellow </dd></dl><dl class="image">    <dt><font class="ms-rteCustom-CodeArea">
-    <pre>if (drDay.NotBillableCount == 0 && 
-    drDay.BillableCount > 0)
+
+::: ok  
+![Figure: This combo looks innocent. However if it is "Billable" then the calendar goes yellow](TimeProDropDown.png)  
+:::  
+
+::: ok  
+![Figure: Billable days are shown in yellow](TimeProCalendar.png)  
+:::  
+<font class="ms-rteCustom-CodeArea">    <pre>if (drDay.NotBillableCount == 0 && 
+    drDay.BillableCount &gt; 0)
 {
     //Yellow Background
     cell.BackColor = Color.FromArgb(255, 255, 140);
     cell.BackColor2 = Color.FromArgb(255, 255, 140);
 }
-else if (drDay.BillableCount > 0)
+else if (drDay.BillableCount &gt; 0)
 {
     cell.BackColor = Color.FromArgb(255, 255, 140);
     cell.BackColor2 = Color.LightGray;
@@ -48,9 +52,7 @@ else
     cell.BackColor2 = Color.LightGray;
 }
 </pre>
-    </font></dt>
-    <dd>Figure: I think we have "Controlled Lookup Data" here, because if the "BillableCount" is greater than 0, the color shown will be yellow </dd></dl><dl class="image">    <dt><font class="ms-rteCustom-CodeArea">
-    <pre>INSERT INTO dbo.[EmpTimeBillable] 
+    </font>Figure: I think we have "Controlled Lookup Data" here, because if the "BillableCount" is greater than 0, the color shown will be yellow <font class="ms-rteCustom-CodeArea">    <pre>INSERT INTO dbo.[EmpTimeBillable] 
     ([CategoryID], [CategoryName], [DateCreated], 
     [DateUpdated], [EmpUpdated], [Note], [rowguid], 
     [Colour]) 
@@ -112,5 +114,4 @@ VALUES
     'LavenderBlue')
 GO
 </pre>
-    </font></dt>
-    <dd>Figure: This data must be deployed, just like we deploy schema </dd></dl> Now you need to add a procValidate, see [Do you check your "Controlled Lookup Data" (aka Reference Data) is still there with procValidate?](/Pages/DoYouCheckYourLookupDataAkaReferenceDataIsStillThereWithProcValidate.aspx)
+    </font>Figure: This data must be deployed, just like we deploy schema Now you need to add a procValidate, see [Do you check your "Controlled Lookup Data" (aka Reference Data) is still there with procValidate?](/Pages/DoYouCheckYourLookupDataAkaReferenceDataIsStillThereWithProcValidate.aspx)

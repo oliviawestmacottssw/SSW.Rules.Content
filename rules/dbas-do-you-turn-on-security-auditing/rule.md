@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - turn-on-security-auditing
-- dbas---do-you-turn-on-security-auditing
 
 ---
 
@@ -24,4 +23,8 @@ Configure login security auditing:
 
 
 <!--endintro-->
-<dl class="image"><dt><img src="TurnOnSqlSecurityAuditing.png" alt="SQLDatabases_EnableAuditing.png" style="width:682px;height:571px;"></dt><dd>Figure: Enable Auditing for SQL Server logins</dd></dl>**Note:**  You can turn on a trace for SQL DDL operations statements.
+
+::: ok  
+![Figure: Enable Auditing for SQL Server logins](TurnOnSqlSecurityAuditing.png)  
+:::  
+**Note:**  You can turn on a trace for SQL DDL operations statements.

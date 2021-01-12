@@ -14,7 +14,6 @@ related: []
 redirects:
 - give-enough-notice-for-annual-leave
 - do-you-give-enough-notice-for-annual-leave-(aka-flexibility-vs-substantial-notice)
-- office-environment---do-you-give-enough-notice-for-annual-leave
 
 ---
 
@@ -45,4 +44,15 @@ Generally, people who need to know include:
 * Add a brief description of why you're away (holiday, doctor, etc.)
 
 
-<dl class="badImage"><br><br>::: greybox[Appointment to: @SSWAbsence]<br>Hi SSW Absence,<br>I'm going to Brazil for 2 weeks on Monday... wish me luck :)<br><br>Thanks, Patricia<br><br>:::<br><br><dd> Figure: Bad Example - not enough notice for substantial leave</dd></dl><dl class="goodImage"><br><br>::: greybox[Appointment to: @SSWAbsence]<br>Hi SSW Absence,<br>I want to book a ticket to go to Brazil for 2 weeks.<br>I'd like to leave in about 4 weeks. I will, of course, check with my client before I purchase my tickets.<br><br>Thanks, Patricia<br><br>:::<br><br><dd>Figure: Good Example - appropriate notice given<br></dd></dl><dl class="image"><dt> <img src="BeachEnforcers.jpg" alt="BeachEnforcers.jpg" style="width:650px;"> </dt><dd>Figure: Did you give enough notice, or do we need to track you down?<br></dd></dl>
+
+::: bad  
+![::: greybox[Appointment to: @SSWAbsence]Hi SSW Absence,I'm going to Brazil for 2 weeks on Monday... wish me luck :)Thanks, Patricia::: Figure: Bad Example - not enough notice for substantial leave](BeachEnforcers.jpg)  
+:::  
+
+::: good  
+![::: greybox[Appointment to: @SSWAbsence]Hi SSW Absence,I want to book a ticket to go to Brazil for 2 weeks.I'd like to leave in about 4 weeks. I will, of course, check with my client before I purchase my tickets.Thanks, Patricia:::Figure: Good Example - appropriate notice given](BeachEnforcers.jpg)  
+:::  
+
+::: ok  
+![Figure: Did you give enough notice, or do we need to track you down?](BeachEnforcers.jpg)  
+:::

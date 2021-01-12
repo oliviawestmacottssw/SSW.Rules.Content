@@ -17,7 +17,6 @@ redirects:
 - track-project-documents
 - the-best-place-to-store-documents-and-share-them
 - rules-to-better-microsoft-teams-the-best-place-to-store-documents-and-share-them
-- files---do-you-store-project-documents-in-teams
 
 ---
 
@@ -39,21 +38,31 @@ The best choice is Microsoft Teams because it brings together the best of ShareP
 
 
 <!--endintro-->
-<dl class="badImage"><dt> 
-      <img src="teams - network share.png" alt="teams - network share.png" style="width:750px;">
-   </dt><dd>Figure: Bad Example - You shouldn't look for files on network shares</dd></dl><dl class="goodImage"><dt>
-      <img src="teams - file tab.png" alt="teams - file tab.png" style="width:750px;height:389px;">
-   </dt><dd> Figure: Good Example - You can use the files tab in Teams (without leaving the app)</dd></dl>
+
+::: bad  
+![Figure: Bad Example - You shouldn't look for files on network shares](teams - network share.png)  
+:::  
+
+::: good  
+![Figure: Good Example - You can use the files tab in Teams (without leaving the app)](teams - file tab.png)  
+:::  
+
 The great thing about having conversations next to the file is that it is always in context. Also, future users can view the conversation when they open the file in teams.
-<dl class="goodImage"><dt>
-      <img src="teams - document conversation.png" alt="teams - document conversation.png" style="width:750px;">
-   </dt><dd> Figure: Good Example - You can have a conversation about a file</dd></dl>
+
+::: good  
+![Figure: Good Example - You can have a conversation about a file](teams - document conversation.png)  
+:::  
+
 Behind the scenes, storage is provided by a SharePoint site; so that is there if you want to use it. As an added bonus thanks to this; you can take the files offline by syncing with OneDrive for Business and by default each channel gets its own folder.
-<dl class="goodImage"><dt>
-      <img src="teams - open sharepoint.png" alt="teams - open sharepoint.png" style="width:750px;">
-   </dt><dd>Figure: Good Example - You can open the files in SharePoint</dd></dl><dl class="goodImage"><dt>
-      <img src="teams - sync onedrive.png" alt="teams - sync onedrive.png" style="width:750px;height:360px;">
-   </dt><dd>Figure: Good Example - You can sync the files in SharePoint with your current machine through OneDrive. A toast notification should popup indicating that files will be synced.</dd></dl>
+
+::: good  
+![Figure: Good Example - You can open the files in SharePoint](teams - open sharepoint.png)  
+:::  
+
+::: good  
+![Figure: Good Example - You can sync the files in SharePoint with your current machine through OneDrive. A toast notification should popup indicating that files will be synced.](teams - sync onedrive.png)  
+:::  
+
 **Note:** You can add other cloud storage providers for file storage e.g. Google Drive, Dropbox, etc     
 This is not recommended - as they aren't first-class citizens i.e. if you want to share files from them, you need to go to the provider's sharing settings outside of Teams
 

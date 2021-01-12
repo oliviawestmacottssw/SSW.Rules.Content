@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- printers---do-you-make-your-printers-easy-to-find
+redirects: []
 
 ---
 
@@ -19,7 +18,11 @@ For PCs that are not in the domain, the printers won’t be automatically instal
 So you should add a DNS alias which maps \\printer to your print server.
 
 <!--endintro-->
-<dl class="image"><dt><img class="ms-rteCustom-ImageArea" alt="Add the printer via Connect" src="add-printer-via-connect.jpg"></dt><dd>Figure: \\printer takes to this window, were you can "Add" the printer via Connect</dd></dl>
+
+::: ok  
+![Figure: \\printer takes to this window, were you can "Add" the printer via Connect](add-printer-via-connect.jpg)  
+:::  
+
 
 ::: greybox
 Note: It is better to automate mappings via GPO preferences. As a backup, you can allow users to manually map as above.

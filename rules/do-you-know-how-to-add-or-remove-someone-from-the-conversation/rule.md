@@ -27,9 +27,17 @@ Be aware that it is easy to over CC people. Try not to CC people without thinkin
 
 
 <!--endintro-->
-<dl class="goodImage"><dt><img alt="Adding A Person To CC Good Example" src="AddingPersonToCcGoodExample.png"></dt><dd>Figure: Good Example - Adding someone to an email thread</dd></dl>
+
+::: good  
+![Figure: Good Example - Adding someone to an email thread](AddingPersonToCcGoodExample.png)  
+:::  
+
 If you need to remove someone from the loop, for example to have an internal conversation about an email to a client, put (Removing xxx from the loop) at the top of the email.
-<dl class="goodImage"><dt><img alt="Add Recipient" src="RemoveRecipient.jpg"> </dt><dd>Figure: Good Example – Removing someone from an email thread so you can talk about the them in private</dd></dl>
+
+::: good  
+![Figure: Good Example – Removing someone from an email thread so you can talk about the them in private](RemoveRecipient.jpg)  
+:::  
+
 You can delete people from an email thread, but what often happens is:
 
 * The people being dropped won’t know and won’t be able to say "I don't want to be dropped from this thread"
@@ -42,5 +50,9 @@ To fix all these issues, instead of deleting people from the email, you:
 * Move them to the BCC
 * On the top line of the body say "(moving George and Bob to BCC)"
 
-<dl class="goodImage"><dt><img alt="Add Recipient" src="move-bcc.jpg"> </dt><dd>Figure: Good Example – Moving someone to BCC</dd></dl>
+
+::: good  
+![Figure: Good Example – Moving someone to BCC](move-bcc.jpg)  
+:::  
+
 **VIDEO**  - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)

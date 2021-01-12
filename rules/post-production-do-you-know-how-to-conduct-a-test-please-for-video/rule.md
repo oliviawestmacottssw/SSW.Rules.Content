@@ -7,8 +7,7 @@ uri: post-production-do-you-know-how-to-conduct-a-test-please-for-video
 created: 2011-12-19T03:37:10.0000000Z
 authors: []
 related: []
-redirects:
-- post-production---do-you-know-how-to-conduct-a-test-please-for-video
+redirects: []
 
 ---
 

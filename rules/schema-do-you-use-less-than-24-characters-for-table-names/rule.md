@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-not-use-table-names-longer-than-24-characters
-- schema---do-you-use-less-than-24-characters-for-table-names
 
 ---
 

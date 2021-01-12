@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-respond-to-blogs-and-forums-with-the-standard-footer
-- communication---do-you-respond-to-blogs-and-forums-with-the-standard-footer
 
 ---
 

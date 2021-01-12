@@ -30,6 +30,9 @@ It simplifies WordPress backups and can be configured to back up your site to:
 
 
 We setup our WordPress sites to backup daily to Dropbox:
-<dl class="goodImage"><dt><img src="wp-dropbox.png" alt="wp-dropbox.png"></dt><dd>Figure: <a href="http://adamcogan.com/">AdamCogan.com blog</a> backs up daily to Dropbox
- </dd></dl>
+
+::: good  
+![Figure: AdamCogan.com blog backs up daily to Dropbox](wp-dropbox.png)  
+:::  
+
 For more information head over to: https://wordpress.org/plugins/backwpup

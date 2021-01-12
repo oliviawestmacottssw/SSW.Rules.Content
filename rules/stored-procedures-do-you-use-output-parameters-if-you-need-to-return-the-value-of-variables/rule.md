@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-output-parameters-if-you-need-to-return-the-value-of-variables
-- stored-procedures---do-you-use-output-parameters-if-you-need-to-return-the-value-of-variables
 
 ---
 

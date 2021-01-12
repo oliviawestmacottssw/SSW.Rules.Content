@@ -16,5 +16,4 @@ You might have plenty of ideas when you are preparing your presentation. Add the
 Note: We suggest you keep them consistent with VS.NET e.g. “TODO: xxx”
 
 <!--endintro-->
-<dl>    <dt><img class="ms-rteCustom-ImageArea" src="Todo.jpg" alt=""> </dt>
-     <strong>Figure: Put your working "TODO:" notes in red</strong> </dl>
+![](Todo.jpg) **Figure: Put your working "TODO:" notes in red**

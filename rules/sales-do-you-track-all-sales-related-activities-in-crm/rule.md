@@ -15,7 +15,6 @@ authors:
 related: []
 redirects:
 - track-sales-emails
-- sales---do-you-track-all-sales-related-activities-in-crm
 
 ---
 
@@ -39,7 +38,12 @@ Microsoft Dynamics 365 allows users to track activities such as appointments, ph
 
 
 All sales activities should be tracked via CRM as an opportunity, company or contact.
-<dl class="ssw15-rteElement-ImageArea"><img src="Track-an-appointment.jpg" alt="Track-an-appointment.jpg" style="margin:5px;width:750px;height:292px;"></dl><dl> <strong>Figure: This email should be tracked in CRM using the Add-in "Track without regarding"<br></strong> </dl>
+
+::: ok  
+![](Track-an-appointment.jpg)  
+:::  
+ **Figure: This email should be tracked in CRM using the Add-in "Track without regarding"
+** 
 By recording these activities, reports can be created to view:
 
 * The guys doing the most sales activities.
@@ -47,7 +51,11 @@ By recording these activities, reports can be created to view:
 * The history for all sales activities relating to an opportunity. This is useful to review before making a call (but is not necessary if you CC each other).
 * Which opportunities have been neglected. This is a custom report and could be useful in a large company where opportunities could slip through the cracks.
 
-<dl class="image"><dt> <img src="TrackingGraph.jpg" alt="Work tracking gragh"> </dt><dd> Figure: Activities Report - Ulysses was the hardest worker for this month. Print this and put it on the wall and it will encourage everyone to log their calls </dd></dl>
+
+::: ok  
+![Figure: Activities Report - Ulysses was the hardest worker for this month. Print this and put it on the wall and it will encourage everyone to log their calls](TrackingGraph.jpg)  
+:::  
+
 **Note:** You can see more details on what emails to track in [Do you know to hit 'Track' when you receive an important email?](/Pages/Hit-Track-in-CRM-when-you-receive-an-important-email.aspx)
 
 **Prerequisite:** [Install the CRM Add-in](/install-the-2-add-ins)

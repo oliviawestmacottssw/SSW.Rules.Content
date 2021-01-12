@@ -23,7 +23,7 @@ Previously you have had to pay for this service, but there is now a free CA call
 
 
 <!--endintro-->
-<dl class="ssw15-rteElement-ImageArea"><img src="tomato.jpg" alt="tomato.jpg" style="margin:5px;width:808px;"></dl>
+![tomato.jpg](tomato.jpg)
 
 ::: bad
 Figure: Bad example – As you can see, your web-browser will let you know if the website you’re accessing is not secure
@@ -31,9 +31,9 @@ Figure: Bad example – As you can see, your web-browser will let you know if th
 :::
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="ssw.jpg" alt="ssw.jpg" style="margin:5px;width:808px;"></dl>
+![ssw.jpg](ssw.jpg)
 
 ::: good
- Figure: Good example – SSW’s website is secure and does not share your information
+Figure: Good example – SSW’s website is secure and does not share your information
 
 :::

@@ -15,7 +15,6 @@ authors:
 related: []
 redirects:
 - have-a-server-reboot-restart-policy
-- do-you-have-a-server-rebootrestart-policy
 
 ---
 
@@ -39,82 +38,97 @@ Include a "[To myself](/dones-do-you-send-yourself-emails)". It gives visibility
 it easier to remember to send the 'done' email. E.g. "done - CRM is alive again".
 
 Example:
-<dl class="greyBox"><dt style="padding-right:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:10px;font-size:1em;">
-       <strong>To:</strong> SSWALL</dt><dt style="padding-right:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:10px;font-size:1em;">
-      <br>
-   </dt><dt style="padding-right:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:10px;font-size:1em;">Hi All, 
-      <br> 
-      <br>Here is the summary of the outage plan:<br style="font-size:1em;"><br style="font-size:1em;"> 
-      <table style="margin-top:0px;margin-bottom:0px;font-size:1em;"><tbody><tr><td> 
-                   <strong>Planned/Unplanned:</strong> </td><td>Planned</td></tr><tr><td> 
-                   <strong>Change Description:</strong> </td><td>Install Windows Updates and Restart Server<br></td></tr><tr><td> 
-                   <strong>Risk (see table below):</strong> </td><td>LOW RISK (LOW Probability and MEDIUM Impact)</td></tr><tr><td> 
-                   <strong>Reason For Change:</strong> </td><td>Windows 2016 Windows Updates<br></td></tr><tr><td> 
-                   <strong>Uptime over last month:</strong> </td><td>91.361%</td></tr><tr><td></td><td>
-                  <br>
-               </td></tr><tr><td> 
-                   <strong>Planned Outage (mins):</strong> </td><td>150</td></tr><tr><td> 
-                   <strong>Planned Start Time:</strong> </td><td>26 October 9:00 PM</td></tr><tr><td> 
-                   <strong>Planned Finish Time:</strong> </td><td>26 October 11:30 PM<br></td></tr><tr><td></td><td></td></tr><tr><td> 
-                   <strong>Affected Services:</strong> </td><td>\\Windows Server 2016<br></td></tr><tr><td></td><td>http://sharepoint.ssw.com.au<br style="font-size:1em;">http://intranet.ssw.com.au<br style="font-size:1em;">http://projects.ssw.com.au</td></tr><tr><td></td><td> 
-                  <br> 
-               </td></tr></tbody></table> 
-      <br> 
-       <strong>Risk Lookup Table by Probability and Impact:</strong> <br style="font-size:1em;"> 
-      <table border="0" cellspacing="0" cellpadding="0" style="margin-top:0px;margin-bottom:0px;font-size:1em;"><tbody><tr><td width="554" colspan="6" valign="top" style="padding:0cm 5.4pt;width:415.35pt;border:1pt solid black;background:#eeece1;">
-                  <strong style="font-size:1em;">Risk</strong> </td></tr><tr style="font-size:1em;"><td width="182" colspan="2" rowspan="2" valign="top" style="padding:0cm 5.4pt;width:136.2pt;border-right:1pt solid black;border-bottom:1pt solid black;border-left:1pt solid black;border-top:none;"><p align="center" style="margin-top:7px;margin-bottom:7px;text-align:center;"> 
-                      <strong></strong> </p></td><td width="372" colspan="4" style="padding:0cm 5.4pt;width:279.15pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p align="center" style="margin-top:7px;margin-bottom:7px;text-align:center;"> 
-                      <strong>Probability</strong> </p></td></tr><tr style="font-size:1em;"><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;"> 
-                      <strong>Low</strong> </p></td><td width="99" valign="top" style="padding:0cm 5.4pt;width:74.2pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;"> 
-                      <strong>Medium</strong> </p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;"> 
-                      <strong>High</strong> </p></td><td width="92" valign="top" style="padding:0cm 5.4pt;width:68.75pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;"> 
-                      <strong>Unknown</strong> </p></td></tr><tr style="font-size:1em;"><td width="91" rowspan="4" style="padding:0cm 5.4pt;width:68.1pt;border-right:1pt solid black;border-bottom:1pt solid black;border-left:1pt solid black;border-top:none;"><p align="center" style="margin-top:7px;margin-bottom:7px;text-align:center;"> 
-                      <strong>Impact</strong> </p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;"> 
-                      <strong>Low</strong> </p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;">Low risk<br></p></td><td width="99" valign="top" style="padding:0cm 5.4pt;width:74.2pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;">Low Risk<br></p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;">Low Risk</p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.75pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;">Medium Risk<br></p></td></tr><tr style="font-size:1em;"><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;"> 
-                      <strong>Medium</strong> </p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;background:yellow;"><p style="margin-top:7px;margin-bottom:7px;">Low Risk 
-                     <br></p></td><td width="99" valign="top" style="padding:0cm 5.4pt;width:74.2pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;">Medium Risk<br></p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;">Medium Risk</p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.75pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;">High Risk</p></td></tr><tr style="font-size:1em;"><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;"> 
-                      <strong>High</strong> </p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;">Medium Risk</td><td width="99" valign="top" style="padding:0cm 5.4pt;width:74.2pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;">High Risk</p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;">High Risk</p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.75pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;"><p style="margin-top:7px;margin-bottom:7px;">High Risk</p></td></tr><tr style="font-size:1em;height:24.75pt;"><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;height:24.75pt;"><p style="margin-top:7px;margin-bottom:7px;"> 
-                      <strong>Unknown</strong> </p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;height:24.75pt;">Medium Risk 
-                  <p style="margin-top:7px;margin-bottom:7px;"> 
-                     <span style="font-size:1em;color:#1f497d;"></span></p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:74.2pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;height:24.75pt;"><p style="margin-top:7px;margin-bottom:7px;">High Risk<br></p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.1pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;height:24.75pt;"><p style="margin-top:7px;margin-bottom:7px;">High Risk<br></p></td><td width="91" valign="top" style="padding:0cm 5.4pt;width:68.75pt;border-top:none;border-left:none;border-bottom:1pt solid black;border-right:1pt solid black;height:24.75pt;"><p style="margin-top:7px;margin-bottom:7px;">High Risk 
-                     <br></p></td></tr></tbody></table></dt><dt style="padding-right:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:10px;">
-       <b>Figure: Clearly showing the potential risks<br><br></b> </dt><dt style="padding-right:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:10px;"><p class="ssw15-rteElement-P"> 
-          <b>Note:</b> The following servers will be affected<br></p> 
-      <img src="rule-outage-1.jpg" alt="rule-outage-1.jpg" style="margin:0px;width:100%;height:auto;">  
-      <br> 
-      <a href="http://wug.ssw.com.au/"> http://wug.ssw.com.au/</a><br><br><img src="rule-outage-2.jpg" alt="rule-outage-2.jpg" style="width:100%;height:auto;"><br></dt><dt style="padding-right:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:10px;">
-      <br> 
-   </dt><dt style="padding-right:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:10px;">
-       <b>To myself,</b> </dt><dt style="padding-right:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:10px;">
-       <b><br></b> To show others who are interested in what needs to be done to fix the problem:<br> <b>Detailed Change Plan:</b> <br>1)	Lockout users via IIS<br>2)	Backup server<br>3) Install Windows Updates <br>4) Reboot server<br>5) Follow test plan<br>6) Based on result of test plan, follow backout plan if procedure failed<br>7) Procedure completed</dt><dt style="padding-right:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:10px;">
-      <br> 
-       <b>Test Plan:</b> <br>1)	Check Event log for errors<br>2)	Check each affected service is running<br>3)	Call test users to start “Test Please” on the affect services <br>4)	Get result of user “Test Please” by email by 11:15 PM</dt><dt style="padding-right:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:10px;">
-      <br> 
-       <b>Backout Plan:</b> <br>1)	Restore server from backup<br></dt><dt style="padding-right:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:10px;">
-      <br> 
-       <b>Note:</b> <this is="" as="" per="" rule=""></this><a href="/have-a-server-reboot-restart-policy">What is your server reboot/restart policy?</a> ><br></dt><dt style="padding-right:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:10px;">
-      <br> 
-   </dt></dl>
+ **To:** SSWALL
+
+
+&gt;[What is your server reboot/restart policy?](/have-a-server-reboot-restart-policy)&lt;This is as per rule **Note:** 
+
+1)	Restore server from backup
+ **Backout Plan:** 
+4)	Get result of user “Test Please” by email by 11:15 PM
+3)	Call test users to start “Test Please” on the affect services
+2)	Check each affected service is running
+1)	Check Event log for errors
+ **Test Plan:** **
+** 7) Procedure completed
+6) Based on result of test plan, follow backout plan if procedure failed
+5) Follow test plan
+4) Reboot server
+3) Install Windows Updates
+2)	Backup server
+1)	Lockout users via IIS
+ **Detailed Change Plan:** 
+To show others who are interested in what needs to be done to fix the problem: **To myself,** 
+
+**Note:** The following servers will be affected
+
+![rule-outage-2.jpg](rule-outage-2.jpg)
+
+http://wug.ssw.com.au/
+![rule-outage-1.jpg](rule-outage-1.jpg) **Figure: Clearly showing the potential risks
+
+** Hi All,
+
+| **Risk**  |
+| --- |
+| | **Probability** |
+| **Low** | **Medium** | **High** | **Unknown** |
+| **Impact** | **Low** | Low risk | Low Risk | Low Risk | Medium Risk |
+| **Medium** | Low Risk | Medium Risk | Medium Risk | High Risk |
+| **High** | Medium Risk | High Risk | High Risk | High Risk |
+| **Unknown** | Medium Risk <br>                  <br> | High Risk | High Risk | High Risk |
+
+
+ **Risk Lookup Table by Probability and Impact:** 
+
+
+| **Planned/Unplanned:**  | Planned |
+| --- | --- |
+| **Change Description:**  | Install Windows Updates and Restart Server<br> |
+| **Risk (see table below):**  | LOW RISK (LOW Probability and MEDIUM Impact) |
+| **Reason For Change:**  | Windows 2016 Windows Updates<br> |
+| **Uptime over last month:**  | 91.361% |
+| | <br> |
+| **Planned Outage (mins):**  | 150 |
+| **Planned Start Time:**  | 26 October 9:00 PM |
+| **Planned Finish Time:**  | 26 October 11:30 PM<br> |
+| |  |
+| **Affected Services:**  | \\Windows Server 2016<br> |
+| | http://sharepoint.ssw.com.au<br>http://intranet.ssw.com.au<br>http://projects.ssw.com.au |
+| | <br> |
+
+
+
+Here is the summary of the outage plan:
+
+
+
 Immediately before the scheduled downtime, check for logged in users, file access, and database connections.
 
 ### Users
 
-Open 'Windows Task Manager' (Run > taskmgr) and select the 'Users' tab. Check with users if they have active connections, then have them log off.
-<dl class="image"><dt>
-      <img src="rule-outage-3.png" alt="rule-outage-3.png" style="width:100%;height:auto;">
-   </dt><dd>Figure: Connected users can be viewed in Task Manager</dd></dl>
+Open 'Windows Task Manager' (Run &gt; taskmgr) and select the 'Users' tab. Check with users if they have active connections, then have them log off.
+
+::: ok  
+![Figure: Connected users can be viewed in Task Manager](rule-outage-1.jpg)  
+:::  
+
 ### Files
 
-Open 'Computer Management' (Run > compmgmt.msc), then 'System Tools > Shared Folders'. Check 'Session' and 'Open Files' for user connections.
-<dl class="image"><dt>
-      <img src="rule-outage-4.png" alt="rule-outage-4.png" style="width:100%;height:auto;">
-   </dt><dd>Figure: Computer Management 'Open Files' View</dd></dl>
+Open 'Computer Management' (Run &gt; compmgmt.msc), then 'System Tools &gt; Shared Folders'. Check 'Session' and 'Open Files' for user connections.
+
+::: ok  
+![Figure: Computer Management 'Open Files' View](rule-outage-1.jpg)  
+:::  
+
 ### Database
 
 Open SQL Server Management Studio on the server. Connect to the local SQL Server. Expand 'Management' and double-click 'Activity Manager'.
-<dl class="image"><dt>
-      <img src="rule-outage-5.gif" alt="rule-outage-5.gif" style="width:100%;height:auto;">
-   </dt><dd>Figure: SQL Management Studio 'Active Connections' View</dd></dl>
+
+::: ok  
+![Figure: SQL Management Studio 'Active Connections' View](rule-outage-1.jpg)  
+:::  
+
 Once these have been checked for active users, and users have logged off, maintenance can be carried out.
 
 **Restarts should only be performed during the following time periods**

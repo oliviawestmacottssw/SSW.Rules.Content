@@ -41,12 +41,20 @@ Hashtags identify the keyword or topic of interest that the post is about. They 
 <!--endintro-->
 
 The best tweets will use a combination of @mentions and #hashtags where appropriate to properly leverage the platform – that way readers can check out the people involved OR join the conversation about a topic. See our rule [Do you know when to use a hashtag vs. a @mention?](/do-you-know-when-to-use-a-hashtag-vs-a-mention) to see how to best leverage them in combination.
-<dl class="image"><dt></dt></dl>
+
+::: ok  
+![](hashtag-stream.jpg)  
+:::  
+
 ### Tips for companies
 
 
 **Tip #1:** Encourage people to use the correct hashtag by adding the hashtag to your sidebar or footer.
-<dl class="image"><dt> <img src="hashtag-stream.jpg" alt="hashtag-stream.jpg" style="width:650px;"></dt><dd>Figure: On <a href="https://www.ssw.com.au/ssw/netug"> www.ssw.com.au/ssw/netug</a> you can see the sidebar shows a feed with the hashtag used</dd></dl>
+
+::: ok  
+![Figure: On  www.ssw.com.au/ssw/netug you can see the sidebar shows a feed with the hashtag used](hashtag-stream.jpg)  
+:::  
+
 **Tip #2:** When creating your own hashtag to promote a service, product or event, check if it isn't already in use for anything else.
 
 ### Tips for everyone

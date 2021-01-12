@@ -19,8 +19,11 @@ A brief introduction will give some idea about what will happen on this  process
 * Add screen shot with red circle at the top of the screen
 * Put a description next to it
 
-<dl class="badImage"><dt> 
-      <img alt="ssw Exchange Manager - Report Publication" src="../../assets/IntroScreenBad.gif" style="margin:5px;">
-   </dt><dd>Figure: Bad Example - This screen has no product introduction... The user is thinking ‘What is this going to do?’</dd></dl><dl class="goodImage"><dt> 
-      <img alt="ssw Exchange Manager - Report Publication" src="../../assets/IntroScreenGood.gif" style="margin:5px;">
-   </dt><dd>Figure: Good Example - This screen has product information before the settings... With a screen capture of where it ends up</dd></dl>
+
+::: bad  
+![Figure: Bad Example - This screen has no product introduction... The user is thinking ‘What is this going to do?’](../../assets/IntroScreenBad.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - This screen has product information before the settings... With a screen capture of where it ends up](../../assets/IntroScreenGood.gif)  
+:::

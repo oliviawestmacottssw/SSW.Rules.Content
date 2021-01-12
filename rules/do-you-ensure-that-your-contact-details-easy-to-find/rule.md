@@ -16,4 +16,7 @@ It's crucial that contact details are placed exactly where the user expects to f
 SSW has its contact details in the top navigation, which is found on all pages across       the site.
 
 <!--endintro-->
-<dl class="image"><dt><img border="1" src="../../assets/MarketingContactBar.gif" alt=""></dt><dd>Figure: SSW's contact details on the web site</dd></dl>
+
+::: ok  
+![Figure: SSW's contact details on the web site](../../assets/MarketingContactBar.gif)  
+:::

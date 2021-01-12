@@ -7,12 +7,12 @@ index:
 - rules-to-better-angular
 - rules-to-better-angularjs
 - rules-to-better-react
-- rules-to-better-website-development-aspnet
+- rules-to-better-website-development-asp-net
 - rules-to-better-net-core
 - rules-to-better-websites-deployment
 - rules-to-better-ui-bootstrap
 - rules-to-better-javascript-and-jquery
-- rules-to-better-bitly
+- rules-to-better-bit-ly
 - rules-to-better-sitefinity
 - rules-to-better-wordpress
 - rules-to-better-websites-layout-and-formatting

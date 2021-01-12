@@ -27,11 +27,12 @@ Here are some tips that you can use to improve your content approval process:
 
 1. Use a template that you can easily fill in and that is also easy for people to understand what you want to post and when
 2. Block a day to work on the content to create a routine
-3. Define a process that you can follow: Create content > Get images approved by designers > Get content approved by Management OR improve content based on feedback. If your process is not efficient and adds a lot of blockers to your work routine, then it is not effective
+3. Define a process that you can follow: Create content &gt; Get images approved by designers &gt; Get content approved by Management OR improve content based on feedback. If your process is not efficient and adds a lot of blockers to your work routine, then it is not effective
 4. Commit to a deadline - Try to work out what the timeline will be, from creation to review
 5. Use a branding guide to be consistent with the brand's look and feel
 6. Encourage specific feedback (Eg. feedback like "I don't like this design" won't help you improve it)
 7. Reduce the rounds of approval - In this process, you should only include only people that have the skills and capacity to analyze your content goal, and consequently the content itself
 8. Always think of your personas when creating content - who are you trying to target?
 
-<dl class="ssw15-rteElement-ImageArea"> <strong><dl class="ssw15-rteElement-ImageArea"> <strong><img src="contentapproval2.png" alt="contentapproval2.png" style="margin:5px;width:808px;"></strong> </dl></strong> <strong>Figure: Example of a template you can use to get approval for your social media content, note it shows what platforms it will be posted on, when, the test and how it will look. It will also help give you an idea of what your feed will look like to ensure it has a nice balance of images.</strong> <br></dl>
+ ** ![contentapproval2.png](contentapproval2.png) ** 
+ **Figure: Example of a template you can use to get approval for your social media content, note it shows what platforms it will be posted on, when, the test and how it will look. It will also help give you an idea of what your feed will look like to ensure it has a nice balance of images.**

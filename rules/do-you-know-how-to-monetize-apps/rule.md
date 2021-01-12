@@ -43,7 +43,7 @@ Bad example: paid with currency
 
 
 ::: good
-Good example: paid with abstract currency 
+Good example: paid with abstract currency
 :::
 
 
@@ -77,10 +77,15 @@ Good example: capture data eg. What device and do data mining to set different p
 
 
 
-<dl class="image"><dt><div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify"> 
-   <br>`youtube: https://www.youtube.com/embed/fKK9nVLvhGM`<br> </div></dt></dl><dl class="image"><dt>
-      <img src="how-to-monetize.png" alt="how-to-monetize.png"> 
-   </dt><dd>Figure: some apps charge more based on the device you are using<br></dd></dl><dl class="image"> 
-   <dt> 
-      <img src="how-to-monetize-2.png" alt="how-to-monetize-2.png"> 
-   </dt><dd>Figure: know app developers make most of their in-app purchases from the whales 🐳</dd></dl>
+
+::: ok  
+![`youtube: https://www.youtube.com/embed/fKK9nVLvhGM`](how-to-monetize.png)  
+:::  
+
+::: ok  
+![Figure: some apps charge more based on the device you are using](how-to-monetize.png)  
+:::  
+
+::: ok  
+![Figure: know app developers make most of their in-app purchases from the whales 🐳](how-to-monetize-2.png)  
+:::

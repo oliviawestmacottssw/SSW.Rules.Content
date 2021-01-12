@@ -29,4 +29,11 @@ See examples of pages that advertise their hashtags:
 * [Sydney .NET User Group](http://www.ssw.com.au/ssw/NETUG/Sydney.aspx)  #NETUG
 * [SSW Rules](/) #SSWRules
 
-<dl class="image"><dt> <img alt="Twitter hashtag example" src="hashtag-twitter.jpg"> </dt><dd>Figure: This Twitter widget shows the hashtags working</dd></dl><dl class="goodImage"><dt> <img alt="SharePoint conference hashtag" src="sharepoint-conference-hashtag.jpg"></dt><dd>Figure: Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use</dd></dl>
+
+::: ok  
+![Figure: This Twitter widget shows the hashtags working](hashtag-twitter.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use](sharepoint-conference-hashtag.jpg)  
+:::

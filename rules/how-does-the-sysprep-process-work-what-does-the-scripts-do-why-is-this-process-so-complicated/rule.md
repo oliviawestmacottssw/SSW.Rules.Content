@@ -7,8 +7,7 @@ uri: how-does-the-sysprep-process-work-what-does-the-scripts-do-why-is-this-proc
 created: 2009-02-26T02:03:41.0000000Z
 authors: []
 related: []
-redirects:
-- how-does-the-sysprep-process-work-what-does-the-scripts-do-why-is-this-process-so-complicated-
+redirects: []
 
 ---
 

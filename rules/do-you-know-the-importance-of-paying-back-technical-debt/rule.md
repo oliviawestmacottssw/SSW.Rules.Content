@@ -43,7 +43,11 @@ As new features are added to the system, often more Technical Debt will be intro
 * $20 - feature with shortcuts (no tests, dirty code, whatever it takes)
 * $80 - IOU via PBI in the backlog e.g. [FeatureName] – Tech Debt - Planned
 
-<dl class="goodImage"><dt><img src="tech-debt-good-example.png" alt="tech-debt-good-example.png" style="width:750px;"></dt><dd>Figure: Good example - Tech Debt is very visible to the Product Owner</dd></dl>
+
+::: good  
+![Figure: Good example - Tech Debt is very visible to the Product Owner](tech-debt-good-example.png)  
+:::  
+
 ### What are the consequences of Technical Debt?
 
 
@@ -94,7 +98,19 @@ At the Sprint Planning:
 
 ### Screenshots
 
-<dl class="image"><dt><img src="techdebt-github.png" alt="techdebt-github.png" style="width:750px;"></dt><dd>Figure: Screenshot of code with tech debt comment and link to GitHub issue</dd><dd></dd></dl><dl class="image"><dt><img src="techdebt-backlog.png" alt="techdebt-backlog.png" style="width:750px;"></dt><dd>Figure: Screenshot of tech debt on backlog</dd><dd></dd></dl><dl class="image"><dt><img src="techdebt-architecture.png" alt="techdebt-architecture.png" style="width:750px;"></dt><dd>Figure: SugarLearning architecture diagram</dd><dd></dd></dl>
+
+::: ok  
+![Figure: Screenshot of code with tech debt comment and link to GitHub issue](techdebt-github.png)  
+:::  
+
+::: ok  
+![Figure: Screenshot of tech debt on backlog](techdebt-backlog.png)  
+:::  
+
+::: ok  
+![Figure: SugarLearning architecture diagram](techdebt-architecture.png)  
+:::  
+
 ### Related Rule
 
 

@@ -17,7 +17,6 @@ authors:
 related:
 - do-you-name-your-dependencies-to-avoid-problems-with-minification
 redirects:
-- do-you-know-the-common-design-patterns-part-2---example
 - do-you-know-the-common-design-patterns-(part-2-example)
 
 ---
@@ -38,7 +37,7 @@ In this code, our controller is tightly coupled to the ExampleService and as a r
 
 Figure: Bad example - Controller coupled with ExampleService
 
-`public class HomeController{    private readonly IExampleService _service;         public HomeController()    {      _service = Container.Instance.Resolve();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`
+`public class HomeController{    private readonly IExampleService _service;         public HomeController()    {      _service = Container.Instance.Resolve<IExampleService>();    }         public ActionResult Index()    {        return View(_service.GetSomething());    }}`
 
 Figure: Bad example - 2nd attempt using an Inversion of Control container but \*not\* using dependency injection. A dependency now exists on the Container.
 
@@ -48,12 +47,10 @@ This is bad code because we removed one coupling but added another one (the cont
 Figure: Good example - code showing using dependency injection. No static dependencies. 
 Even better, use Annotate so you can enlighten the developer.
 
+![bad.png](Code against interfaces - bad.png)
+**Figure: Bad Example - Referencing the concrete EF context**
 
-[[badExample]]
-| ![Referencing the concrete EF context](Code against interfaces - bad.png)
-
-
-[[goodExample]]
-| ![Programming against the interface](Code against interfaces - good.png)
+![](Code against interfaces - good.png)
+**Figure: Good Example - Programming against the interface**
 
 It is important to know when the use of a pattern is appropriate.  Patterns can be useful, but they can also be harmful if used incorrectly.

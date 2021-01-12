@@ -27,7 +27,6 @@ related:
 - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
 redirects:
 - branding-do-you-know-you-should-use-overlay-on-photos-shared-on-your-social-media
-- branding---do-you-know-when-to-use-an-overlay-on-images
 
 ---
 
@@ -41,21 +40,21 @@ It’s a good way of adding text to a photo as well following your branding guid
 <!--endintro-->
 
 See some bad and good examples from SSW's social media below:
-<dl class="ssw15-rteElement-ImageArea"><img src="badexampleandreas.png" alt="badexampleandreas.png" style="font-weight:bold;margin:5px;"></dl>
+![badexampleandreas.png](badexampleandreas.png)
 
 ::: bad
 Figure: Bad Example – An overlay could have made this post look nicer
 :::
 
-<dl class="ssw15-rteElement-ImageArea"> <img src="goode5videos.png" alt="goode5videos.png" style="margin:5px;"></dl>
+![goode5videos.png](goode5videos.png)
 
 ::: good
- Figure: Good Example – Overlay on a social media post used to have some text on it
+Figure: Good Example – Overlay on a social media post used to have some text on it
 :::
 
-<dl class="ssw15-rteElement-ImageArea"> <img src="goodeteamphoto.png" alt="goodeteamphoto.png" style="margin:5px;"></dl>
+![goodeteamphoto.png](goodeteamphoto.png)
 
 ::: good
- Figure: Good Example – Overlay on a social media post to fill in the 4 square gaps that a wide photo can have
+Figure: Good Example – Overlay on a social media post to fill in the 4 square gaps that a wide photo can have
 
 :::

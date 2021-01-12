@@ -15,6 +15,4 @@ A PowerPoint presentation is a verbal essay and it follows a structure. Shown at
 <!--endintro-->
 
 At the end the Summary slide should be identical, and summarize what you just spoke about.
-<dl>    <dt><img class="ms-rteCustom-ImageArea" src="agenda.gif" alt=""> </dt>
-     <strong>Figure: Slide for agenda</strong> </dl><dl>    <dt><img class="ms-rteCustom-ImageArea" src="summary.gif" alt=""> </dt>
-     <strong>Figure: Slide for summary (is the same as agenda)</strong> </dl>
+![](agenda.gif) **Figure: Slide for agenda** ![](summary.gif) **Figure: Slide for summary (is the same as agenda)**

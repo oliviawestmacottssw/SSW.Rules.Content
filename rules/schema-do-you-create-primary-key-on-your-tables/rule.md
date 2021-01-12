@@ -11,27 +11,27 @@ authors:
 related: []
 redirects:
 - create-primary-key-on-your-tables
-- schema---do-you-create-primary-key-on-your-tables
 
 ---
 
 When you specify a PRIMARY KEY constraint for a table, SQL Server enforces data uniqueness by creating a unique index for the primary key columns. This index also permits fast access to data when the primary key is used in queries.
 Although, strictly speaking, the primary key is not essential - we recommend all tables have a primary key (except tables that have a high volume of continuous transactions).
-<dl class="ssw15-rteElement-ImageArea"><img src="SqlTableWithoutPrimaryKey.PNG" alt="" style="margin:5px;"></dl>
+![](SqlTableWithoutPrimaryKey.PNG)
 
 ::: bad
 Figure: Bad Example - Table missing primarykey
 
 :::
 
-<dl class="ssw15-rteElement-ImageArea"><img src="SqlTableWithPrimaryKey.PNG" alt="" style="margin:5px;"></dl>
+![](SqlTableWithPrimaryKey.PNG)
 
 ::: good
 Figure: Good Example - Table with primary key
 
 :::
 
-<dl class="ssw15-rteElement-ImageArea"><br></dl>
+
+
 **Legacy:**
 
 Especially, when you have a client like Access, it would help you to avoid the problems.

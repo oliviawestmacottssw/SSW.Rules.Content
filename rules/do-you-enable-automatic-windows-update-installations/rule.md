@@ -25,16 +25,21 @@ It is important to keep your machine up-to-date, but Windows Update Automatic in
 **Note:** This is only for client machines, Windows Update for Servers should be handled differently see: [Do you use Group Policy to manage your Windows Update Policy?](/do-you-use-group-policy-to-manage-your-windows-update-policy)
 
 Go to      **Start** **| Windows Update Settings | Advanced Options** and set  **Restart this device as soon as possible...** to  **Off** and  **Update Notifications** to  **On.**
-<dl class="badImage"><dt>
-      <br>
-      <img src="WindowsUpdateBadExample.jpg" alt="WindowsUpdateBadExample.jpg" style="margin:5px;width:623px;height:510px;">
-      <br>
-   </dt><dd>Figure: Bad example – Install updates automatically<br></dd></dl><dl class="goodImage"><dt><img src="Windows Update Good Example.jpg" alt="Windows Update Good Example.jpg" style="margin:5px;width:623px;height:510px;"><br></dt><dd>Figure: Good example – Download updates but let user choose whether to install them</dd></dl>
+
+::: bad  
+![Figure: Bad example – Install updates automatically](WindowsUpdateBadExample.jpg)  
+:::  
+
+::: good  
+![Figure: Good example – Download updates but let user choose whether to install them](Windows Update Good Example.jpg)  
+:::  
+
 If you have a system administrator who manages your organization’s infrastructure, it is recommended to get you system administrator to push this setting via group policy.
-<dl class="goodImage"><dt>
-      <img src="win-update-3.jpg" alt="">
-      <br>
-   </dt><dd>Figure: Better example – Windows Updates setting is pushed to *ALL* users via group policy<br></dd></dl>
+
+::: good  
+![Figure: Better example – Windows Updates setting is pushed to \*ALL\* users via group policy](win-update-3.jpg)  
+:::  
+
 ###  Related Rules
 
 

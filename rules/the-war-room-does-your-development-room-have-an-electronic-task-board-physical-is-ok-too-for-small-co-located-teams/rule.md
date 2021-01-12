@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-war-room---does-your-development-room-have-an-electronic-task-board-physical-is-ok-too-for-small-co-located-teams
 - the-war-room-does-your-development-room-have-an-electronic-task-board-(physical-is-ok-too-for-small-co-located-teams)
 
 ---
@@ -20,9 +19,15 @@ Having     an electronic task board makes it easy for developers to keep track o
 These are the columns (aka swim lanes) you need:
 
 <!--endintro-->
-<dl class="goodImage"><dt><img src="TFS Preview Task Board.png" alt="TFS Preview Task Board.png" style="width:550px;"></dt><dd>Figure: Good Example - a virtual client task board in action (<a href="http://tfspreview.com/">TFS</a>)</dd></dl><dl class="goodImage"><dt>
-      <img src="Taskboard.jpg" alt="TaskBoard" style="width:550px;">
-   </dt><dd>Figure: OK Example - a physical client task board in operation</dd></dl>
+
+::: good  
+![Figure: Good Example - a virtual client task board in action (TFS)](TFS Preview Task Board.png)  
+:::  
+
+::: good  
+![Figure: OK Example - a physical client task board in operation](Taskboard.jpg)  
+:::  
+
 Near your task board, stick an SSW "Want to submit a User Story?"
 
 * Where to find their project portal
@@ -32,9 +37,8 @@ Near your task board, stick an SSW "Want to submit a User Story?"
 
 Print out this PDF and fill in the 2 fields and stick it on own task board.
 
-[
-![](preview-taskboard.jpg)Download the "SSW Submit a PBI" PDF.](/Documents/SSWSubmitaPBI.pdf) 
-<dl class="image"><dt> 
-      <img src="Avatar.jpg" alt="">
-   </dt><dd>Figure: Create an avatar for each person and stick them on the current task. You can find our 
-      <a shape="rect" href="http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterProjectManagementWithTFS.aspx#PrintedStoryCard">User Story Cards here</a>. You can write the TFS work item ID on each card.</dd></dl>
+[!\[\](preview-taskboard.jpg)Download the "SSW Submit a PBI" PDF.](/Documents/SSWSubmitaPBI.pdf) 
+
+::: ok  
+![Figure: Create an avatar for each person and stick them on the current task. You can find our        User Story Cards here. You can write the TFS work item ID on each card.](preview-taskboard.jpg)  
+:::

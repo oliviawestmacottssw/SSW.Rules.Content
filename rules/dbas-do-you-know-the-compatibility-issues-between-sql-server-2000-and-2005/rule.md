@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - compatibility-issues-between-sql-server-2000-and-2005
-- dbas---do-you-know-the-compatibility-issues-between-sql-server-2000-and-2005
 
 ---
 

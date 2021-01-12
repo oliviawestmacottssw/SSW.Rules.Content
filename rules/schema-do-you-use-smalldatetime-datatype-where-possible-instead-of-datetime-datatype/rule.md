@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-smalldatetime-datatype-where-possible
-- schema---do-you-use-smalldatetime-datatype-where-possible-instead-of-datetime-datatype
 
 ---
 

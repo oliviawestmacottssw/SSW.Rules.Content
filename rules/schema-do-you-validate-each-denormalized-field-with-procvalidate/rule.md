@@ -12,7 +12,6 @@ related: []
 redirects:
 - validate-each-denormalized-field-with-procvalidate
 - do-you-validate-each-denormalized-field-with-procvalidate
-- schema---do-you-validate-each-denormalized-field-with-procvalidate
 
 ---
 
@@ -34,7 +33,7 @@ With this example in mind, the main reasons we use denormalized fields are:
 
 
 A denormalized field can mean that all SELECT queries in the database are simpler. Power users find it easier to use for reporting purposes - without the need for a cube. In our example, we would not need a large view to retrieve the data (as below).
-<dl class="image"><dt><font class="ms-rteCustom-CodeArea"><pre>SELECT <br>    Customer.CustomerID, 
+<font class="ms-rteCustom-CodeArea"><pre>SELECT &lt;br>    Customer.CustomerID, 
     SUM (SalesOrderDetail.OrderQty * 
              (SalesOrderDetail.UnitPrice - 
               SalesOrderDetail.UnitPriceDiscount)
@@ -43,7 +42,7 @@ A denormalized field can mean that all SELECT queries in the database are simple
     Customer.AccountNumber, 
     Customer.CustomerType, 
     Customer.ModifiedDate, Customer.rowguid
-FROM Customer <br>INNER JOIN SalesOrderHeader 
+FROM Customer &lt;br>INNER JOIN SalesOrderHeader 
     ON Customer.CustomerID = SalesOrderHeader.CustomerID
 INNER JOIN SalesOrderDetail 
     ON SalesOrderHeader.SalesOrderID = 
@@ -52,11 +51,9 @@ GROUP BY Customer.CustomerID, Customer.SalesPersonID,
     Customer.TerritoryID, Customer.AccountNumber,
     Customer.CustomerType, 
     Customer.ModifiedDate,Customer.rowguid 
-ORDER BY Customer.CustomerID</pre></font></dt>
-<dd>Figure&#58; A view to get customer totals when no denormalized fields are used </dd></dl> If we had a denormalized field, the user or developer would simply have run the following query: <dl class="image"><dt><font class="ms-rteCustom-CodeArea"><pre>SELECT <br>    Customer.CustomerID, <br>    Customer.OrderTotal AS DetailTotal 
+ORDER BY Customer.CustomerID</pre></font>Figure: A view to get customer totals when no denormalized fields are used If we had a denormalized field, the user or developer would simply have run the following query: <font class="ms-rteCustom-CodeArea"><pre>SELECT &lt;br>    Customer.CustomerID, &lt;br>    Customer.OrderTotal AS DetailTotal 
 FROM Customer 
-ORDER BY Customer.CustomerID</pre></font></dt>
-<dd>Figure&#58; Queries are much simpler with denormalized fields </dd></dl>
+ORDER BY Customer.CustomerID</pre></font>Figure: Queries are much simpler with denormalized fields 
 Note that this is not a particularly complicated example. However, you can see why it can simplify development greatly when working with a large number of tables
 
 ::: good
@@ -99,7 +96,7 @@ All in all, we choose to still use denormalized fields because they can save dev
 Here is how we ensure that this data is validated:
 
 1. Change the description on any denormalized fields to include "Denormalized" in the description - "Denormalized: Sum(OrderTotal) FROM Orders" in description in SQL Server Management Studio.
-2. Create a view that lists all the denormalized fields in the database - based on the description field. <dl class="image"><dt><font class="ms-rteCustom-CodeArea"><pre>CREATE VIEW dbo.vwValidateDenormalizedFields
+2. Create a view that lists all the denormalized fields in the database - based on the description field. <font class="ms-rteCustom-CodeArea"><pre>CREATE VIEW dbo.vwValidateDenormalizedFields
 AS
     SELECT OBJECT_NAME(id) AS TableName, 
         COL_NAME(id, smallid) AS ColumnName,
@@ -111,9 +108,8 @@ AS
     WHERE (name = 'MS_Description') AND 
                  (CAST([value] AS VARCHAR(8000))
                   LIKE '%Denormalized&#58;%')
-</pre></font></dt>
-<dd>Figure&#58; Standard view for validation of a denormalized field </dd></dl>
-3. Create a stored procedure (based on the above view) that validates whether all denormalized fields have a stored procedure that validates the data within them <dl class="image"><dt><font class="ms-rteCustom-CodeArea"><pre>CREATE PROCEDURE procValidateDenormalizedFieldValidators
+</pre></font>Figure: Standard view for validation of a denormalized field
+3. Create a stored procedure (based on the above view) that validates whether all denormalized fields have a stored procedure that validates the data within them <font class="ms-rteCustom-CodeArea"><pre>CREATE PROCEDURE procValidateDenormalizedFieldValidators
 AS
     SELECT 
         ValidationProcedureName AS
@@ -129,7 +125,6 @@ AS
             OBJECT_NAME(sysobjects.id)
         WHERE id IS NOT NULL
     )
-</pre></font></dt>
-<dd>Figure&#58; Standard stored procedure for validation of a&#160;denormalized field </dd></dl>
+</pre></font>Figure: Standard stored procedure for validation of a denormalized field
 
  If you want to know how to implement denormalized fields, see our rules [Do you use triggers for denormalized fields?](http&#58;//www.ssw.com.au/ssw/standards/rules/rulestobettersqlserverdatabases.aspx#triggersdenormalized)

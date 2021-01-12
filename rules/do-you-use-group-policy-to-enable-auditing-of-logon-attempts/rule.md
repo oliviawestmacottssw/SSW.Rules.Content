@@ -22,12 +22,18 @@ It is important as a Network Administrator to know when and where failed login a
 2. Right click on 'Logon Auditing Policy' and click on Edit to bring up Group Policy Management Editor
 3. Select 'Audit account logon events' from Computer Configuration | Policies | Windows Settings | Local Policies | Audit Policy and set to Success, Failure
 4. Select 'Audit logon events' from Computer Configuration | Policies | Windows Settings | Local Policies | Audit Policy and set to Success, Failure
-<dl class="image"><dt>
-            <img src="failed-login-1.png" alt="failed-login-1.png">
-         </dt><dd>Figure: Select 'Audit logon events'<br></dd></dl>
-5. Select 'Audit: Force audit policy...' from Computer Configuration | Policies | Windows Settings | Local Policies | Security Options and set to Enabled
-<dl class="image"><dt>
-            <img src="failed-login-2.png" alt="failed-login-2.png">
-         </dt><dd>Figure: Select 'Audit: Force audit policy...'<br></dd></dl>
 
-<dl class="image"><dt><img src="failed-login-3.png" alt="failed-login-3.png"></dt><dd>Figure: Successful and Failed login attempts will now appear in Event Viewer | Security</dd></dl>Now when you will have access to seeing success/failed login attempts on user accounts, these can then be captured and audited with your own internal process or a third party application such as Whats Up Gold, see: [Do you monitor failed login attempts?](/monitor-failed-login-attempts)
+::: ok  
+![Figure: Select 'Audit logon events'](failed-login-1.png)  
+:::
+5. Select 'Audit: Force audit policy...' from Computer Configuration | Policies | Windows Settings | Local Policies | Security Options and set to Enabled
+
+::: ok  
+![Figure: Select 'Audit: Force audit policy...'](failed-login-2.png)  
+:::
+
+
+::: ok  
+![Figure: Successful and Failed login attempts will now appear in Event Viewer | Security](failed-login-3.png)  
+:::  
+Now when you will have access to seeing success/failed login attempts on user accounts, these can then be captured and audited with your own internal process or a third party application such as Whats Up Gold, see: [Do you monitor failed login attempts?](/monitor-failed-login-attempts)

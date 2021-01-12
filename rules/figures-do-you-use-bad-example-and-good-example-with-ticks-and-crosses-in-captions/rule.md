@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- figures---do-you-use-bad-example-and-good-example-with-ticks-and-crosses-in-captions
+redirects: []
 
 ---
 
@@ -19,6 +18,13 @@ The best way to emphasize your point is to "build" the pain first and then show 
 <!--endintro-->
 
 To do this, we give a bad example and raise users' expectation first.
-<dl class="badImage"><dt><img alt="bad example" src="ImageBadExample.gif"></dt><dd>Figure: Bad Example - kid not in his seat</dd></dl>
+
+::: bad  
+![Figure: Bad Example - kid not in his seat](ImageBadExample.gif)  
+:::  
+
 Now we can show the solution and give a good example as the result, make them feel released.
-<dl class="goodImage"><dt><img alt="good example" src="kid-in-airplane-seat.jpg"></dt><dd>Figure: Good Example - kid in his seat</dd></dl>
+
+::: good  
+![Figure: Good Example - kid in his seat](kid-in-airplane-seat.jpg)  
+:::

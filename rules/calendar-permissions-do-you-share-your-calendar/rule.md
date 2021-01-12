@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - calendar-do-you-allow-full-access-to-calendar-admins
-- calendar-permissions---do-you-share-your-calendar
 
 ---
 
@@ -22,19 +21,24 @@ Within a company, there are occasions that you are not able to access your compu
 <!--endintro-->
 
 So always make sure the admin people are able to access your calendar with full permission in order to add/edit/delete appointments for you.
-<dl class="image"><dt> 
-      <img src="Share-Calendar.jpg" alt="Click on Calendar Permissions" style="width:800px;height:503px;"> 
-      <br> 
-   </dt><dd>Figure: Click on "Calendar Permissions"<br></dd></dl><dl class="image"><dt>
-      <img src="Permissions.jpg" alt="Permissions.jpg" style="margin:5px;">
-   <br></dt><dd>Figure: Give admins full access to your calendar</dd></dl>
+
+::: ok  
+![Figure: Click on "Calendar Permissions"](Share-Calendar.jpg)  
+:::  
+
+::: ok  
+![Figure: Give admins full access to your calendar](Permissions.jpg)  
+:::  
+
 Once the permission is given, open other people's calendar is as easy as 2 steps:
 
 1. Go to the Calendar tab in outlook and click "open a Shared Calendar"
-<dd class="ssw15-rteElement-FigureNormal"><img src="Shared-Calendar.jpg" alt="Shared-Calendar.jpg" style="color:#333333;margin:5px;width:800px;height:503px;">Figure: Opening a shared calendar<br></dd>
+ **![Shared-Calendar.jpg](Shared-Calendar.jpg)Figure: Opening a shared calendar
+** 
 
 
-<dl class="ssw15-rteElement-ImageArea">2. Choose the calendar you want to open in the pop-up form:<br><img src="SSWAbsence.jpg" alt="SSWAbsence.jpg" style="color:#333333;margin:5px;"></dl>
+2. Choose the calendar you want to open in the pop-up form:![SSWAbsence.jpg](SSWAbsence.jpg)
+
 Figure: Find the calendar you want
 
 

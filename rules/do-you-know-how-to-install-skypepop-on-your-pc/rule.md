@@ -36,9 +36,7 @@ Only receptionists should have SkypePOP installed.
 2.      The CRM contact pops up (or a "new contact" form if the number is not already in your CRM):
 
 
-> <dl class="ssw15-rteElement-ImageArea"> 
->       <img src="1.png" alt="1.png" style="margin:5px;width:714px;height:433px;"> 
->    </dl>
+> ![1.png](1.png)
 
 
 
@@ -48,9 +46,7 @@ Only receptionists should have SkypePOP installed.
 3.      Send Email
 
 
-> <dl class="ssw15-rteElement-ImageArea"> 
->       <img src="2.png" alt="2.png" style="margin:5px;width:669px;height:483px;"> 
->    </dl>
+> ![2.png](2.png)
 
 
 
@@ -80,33 +76,34 @@ Only receptionists should have SkypePOP installed.
 2.  Open the         **Connections** settings
 
 
-> <dl class="ssw15-rteElement-ImageArea"> 
->          <img src="2016-11-18_16-35-15.jpg" alt="3.jpg" style="margin:5px;width:310px;"> 
->          <span style="color:#555555;font-size:0.9rem;font-weight:bold;">Figure: Right click on the SkypePOP icon in the taskbar</span><br></dl>
+> ![3.jpg](2016-11-18_16-35-15.jpg)
+> Figure: Right click on the SkypePOP icon in the taskbar
 
 
 
 
 3.      Add your CRM connection details
-<dl class="ssw15-rteElement-ImageArea">Tip: Go to Main | Settings | Customizations | Developer Resources in order to find the address for your CRM 
-      <dl class="ssw15-rteElement-ImageArea"> 
-         <img src="CRM_Endpoint_Address_SkypePOP.jpg" alt="CRM_Endpoint_Address_SkypePOP.jpg" style="margin:5px;width:724px;"> 
-      </dl></dl>
+Tip: Go to Main | Settings | Customizations | Developer Resources in order to find the address for your CRM![CRM_Endpoint_Address_SkypePOP.jpg](CRM_Endpoint_Address_SkypePOP.jpg)
 
 
-> <dl><p class="ssw15-rteElement-P">  <strong>Figure: Copy the Endpoint Address for your Organization Service</strong> <br></p><p class="ssw15-rteElement-P"> 
->              <strong><br></strong> </p><p class="ssw15-rteElement-P"> 
->              <strong><img src="2016-12-02_15-14-23.jpg" alt="" style="margin:5px;"><br></strong> </p><p class="ssw15-rteElement-P"> 
->              <strong>Figure: Enter your CRM Connection Details<br><br></strong> </p></dl>
+> **Figure: Copy the Endpoint Address for your Organization Service**
+> 
+> **Figure: Enter your CRM Connection Details
+> 
+> **
+> 
+> **![](2016-12-02_15-14-23.jpg)
+> **
+> 
+> **
+> **
 
 
 
 4.      Change the SkypePOP  **Preferences**
 
 
-> <dl class="ssw15-rteElement-ImageArea"> 
->             <img src="2016-12-22_9-13-03.jpg" alt="2016-12-22_9-13-03.jpg" style="margin:5px;"> 
->          </dl> Figure: Right click on the icon in the taskbar and select “Preferences”
+> ![2016-12-22_9-13-03.jpg](2016-12-22_9-13-03.jpg) Figure: Right click on the icon in the taskbar and select “Preferences”
 
 
 
@@ -114,9 +111,7 @@ Only receptionists should have SkypePOP installed.
 
 5.      Configure the <br>       **Dynamics CRM** settings to something similar to this: <br>      
 
-> <dl class="ssw15-rteElement-ImageArea"> 
->             <img src="50.jpg" alt="50.jpg" style="margin:5px;"> 
->          </dl>
+> ![50.jpg](50.jpg)
 
 
 
@@ -131,9 +126,7 @@ Only receptionists should have SkypePOP installed.
 7.      Review the            **SkypePOP - Skype for Business** settings
 
 
-> <dl class="ssw15-rteElement-ImageArea"> 
->             <img src="2016-11-18_16-44-59.jpg" alt="6.jpg" style="margin:5px;width:499px;"> 
->          </dl> **Figure: These are the default Skype for Business settings
+> ![6.jpg](2016-11-18_16-44-59.jpg) **Figure: These are the default Skype for Business settings
 > **
 
 
@@ -142,10 +135,8 @@ Only receptionists should have SkypePOP installed.
 
 
 
-> <dl class="ssw15-rteElement-ImageArea"> 
->             <img src="2016-11-18_16-47-00.jpg" alt="7.jpg" style="margin:5px;width:322px;height:333px;"> 
->             <br> 
->          </dl> **Figure: Check that you are properly connected - blue is success 
+> ![7.jpg](2016-11-18_16-47-00.jpg)
+>  **Figure: Check that you are properly connected - blue is success 
 > ** **
 > **
 

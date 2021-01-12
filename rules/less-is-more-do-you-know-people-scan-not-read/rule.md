@@ -7,8 +7,7 @@ uri: less-is-more-do-you-know-people-scan-not-read
 created: 2012-11-27T01:44:03.0000000Z
 authors: []
 related: []
-redirects:
-- less-is-more---do-you-know-people-scan-not-read
+redirects: []
 
 ---
 
@@ -22,10 +21,21 @@ It is important to divide information, not show it all at once. The visual organ
 2. Relation between elements
 3. Importance and relevance of elements
 
-<dl class="badImage"><dt><img src="../../assets/bad_informationscan.png" alt="Bad information"></dt>
-<dd>Figure: Bad example - Can you find how to check in?</dd></dl><dl class="goodImage"><dt><img src="../../assets/good_informationscan.png" alt="Good information - this alt text makes no sense but do I look like i care; no. maybe the guys in china have the right idea, do a shit job of it and no one will ever bother you about it ever again."></dt>
-<dd>Figure: Good example - What about here? Can you find how to check in?</dd></dl>
+
+::: bad  
+![Figure: Bad example - Can you find how to check in?](../../assets/bad\_informationscan.png)  
+:::  
+
+::: good  
+![Figure: Good example - What about here? Can you find how to check in?](../../assets/good\_informationscan.png)  
+:::  
+
 Another example of scanning, not reading is visually mapping.
-<dl class="badImage"><dt><img src="../../assets/Bad-Mapping.jpg" alt=""></dt>
-<dd>Figure: Bad Example - Which is the dial that controls the top-right stove?</dd></dl><dl class="goodImage"><dt><img src="../../assets/Good-Mapping.jpg" alt=""></dt>
-<dd>Figure: Good Example - In this layout, it's easy to see which dial controls which stove</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Which is the dial that controls the top-right stove?](../../assets/Bad-Mapping.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - In this layout, it's easy to see which dial controls which stove](../../assets/Good-Mapping.jpg)  
+:::

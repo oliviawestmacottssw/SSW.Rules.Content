@@ -7,8 +7,7 @@ uri: prior-is-your-first-slide-pre-setup
 created: 2010-06-08T08:19:23.0000000Z
 authors: []
 related: []
-redirects:
-- prior---is-your-first-slide-pre-setup
+redirects: []
 
 ---
 
@@ -16,5 +15,4 @@ You may be a natural born public speaker, but you will not be able 'wing' a pres
 <!--endintro-->
 
 So document the steps to undertake prior to starting and you will present in a snappier fashion and not need to say the lame statement "hope the demo gods are kind to me today".
-<dl>    <dt><img class="ms-rteCustom-ImageArea" src="preslide.gif" alt=""> </dt>
-     <strong>Figure: Use a Pre-setup slide prior to the presentation and your pace will be snappier</strong> </dl>
+![](preslide.gif) **Figure: Use a Pre-setup slide prior to the presentation and your pace will be snappier**

@@ -13,20 +13,23 @@ authors:
 related: []
 redirects:
 - generate-interfaces-for-your-dtos
-- practices---do-you-generate-strongly-typed-interfaces-for-your-dtos
 
 ---
 
 Inevitably, our well-engineered Angular application will need to send and receive data from a service of some sort – usually a Web API. A common mistake people make when doing this is using typescript’s built in  **any** type for these services, which offers no type safety whatsoever.
 
 <!--endintro-->
-<dl class="badImage"><dt> 
-      <img alt="dtogs-bad.png" src="dtogs-bad.png"> 
-   </dt><dd>Figure: Bad example - The "any" type is used as the DTO for this service. There is no type safety.</dd></dl>
+
+::: bad  
+![Figure: Bad example - The "any" type is used as the DTO for this service. There is no type safety.](dtogs-bad.png)  
+:::  
+
 One step better is to manually create interfaces for the DTOs. This gives type safety, but still means a lot of manual, tedious work to generate the interfaces.
-<dl class="image"><dt> 
-      <img alt="dtogs-ok.png" src="dtogs-ok.png"> 
-   </dt><dd>Figure: OK example - Manually coded interface ensures any object passed to the service is in the correct format </dd></dl>
+
+::: ok  
+![Figure: OK example - Manually coded interface ensures any object passed to the service is in the correct format](dtogs-ok.png)  
+:::  
+
 But this still doesn’t give safety over-the-wire – if the server side model changes, a developer has to remember to update it here, and hope that there are no typos.  This is also extra effort to perform something mindlessly repetitive – something a machine is much better at doing.  And we are programmers, right?
 If your WebAPI has an OpenAPI (a.k.a. Swagger) specification, then the NSwag tools can build a complete Typescript client configured as an Angular injectable service - complete with: 
 
@@ -34,11 +37,12 @@ If your WebAPI has an OpenAPI (a.k.a. Swagger) specification, then the NSwag too
 * All defined endpoints implemented as methods in the service
 * All DTOs included as Typescript interfaces
 
-<dl class="goodImage"><dt> 
-         <img src="nswag.png" alt="" style="margin:5px;width:808px;"> 
-      </dt><dd>Figure: Good example - NSwag generates the boring work so that you don't have to.<br></dd><p class="ssw15-rteElement-P"><br></p></dl>
 
-![](northwind-client.png)
+::: good  
+![Figure: Good example - NSwag generates the boring work so that you don't have to.](nswag.png)  
+:::  
+
+![northwind-client.png](northwind-client.png)
 
 
 ::: good

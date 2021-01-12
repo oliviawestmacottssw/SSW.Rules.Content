@@ -22,6 +22,11 @@ When you make a pull request or need to communicate the next actions someone nee
 Read more about @mention: https://help.github.com/articles/basic-writing-and-formatting-syntax/#mentioning-users-and-teams
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="github-mention-bad.png" alt="github-mention-bad.png" style="width:760px;"></dt><dd>Figure: Bad example - Not using a @mention when addressing Duncan or Igor<br></dd></dl><dl class="goodImage"><dt>
-      <img src="github-mention-good.png" alt="github-mention-good.png" style="width:760px;">
-   </dt><dd>Figure: Good example - Using a @mention</dd></dl>
+
+::: bad  
+![Figure: Bad example - Not using a @mention when addressing Duncan or Igor](github-mention-bad.png)  
+:::  
+
+::: good  
+![Figure: Good example - Using a @mention](github-mention-good.png)  
+:::

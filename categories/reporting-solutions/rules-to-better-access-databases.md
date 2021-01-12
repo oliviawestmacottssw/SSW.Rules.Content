@@ -28,12 +28,10 @@ Since 1990, SSW has supported the developer community by publishing all our best
 
 If you still need help, [visit our Access Database Upsizing consulting page](https://www.ssw.com.au/ssw/Consulting/Access-Database-Upsizing.aspx) and book in a consultant.
 
-[
-![](../../assets/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx)
+[![What others have to say about us](../../assets/Testimonials_Heading.gif)](http://www.ssw.com.au/ssw/Testimonials/ViewAll.aspx)
 
 
-| ![](../../assets/Testimonials_LeftQuote.gif) | I've been putting together Development Guidelines for my employer and in the process have reviewed many published standards (in the .Net arena) from around the world. In each category, the suggestions at SSW are always among the best. | 
-![](../../assets/Testimonials_RightQuote.gif) |
+| ![See what people think about this product](../../assets/Testimonials_LeftQuote.gif) | I've been putting together Development Guidelines for my employer and in the process have reviewed many published standards (in the .Net arena) from around the world. In each category, the suggestions at SSW are always among the best. | ![See what people think about this product](../../assets/Testimonials_RightQuote.gif) |
 | --- | --- | --- |
 
 
@@ -43,5 +41,9 @@ If you still need help, [visit our Access Database Upsizing consulting page](htt
 What is it that makes a good software development consultancy? What sets one company completely above another? What makes a project completely successful?
 
 Do you agree with them all? Are we missing some? Email us your tips, thoughts or arguments. [Let us know](javascript:var%20e1='s%73%77.%63%6f%6d%2e%61%75',e2='mailto:%20',%20e3='info',%20e4='?Subject=Rules%20to%20Better%20Access%20Databases';var%20e0=e2+e3+'@'+e1+e4;%28window.location?window.location.replace%28e0%29:document.write%28e0%29%29; "info@ssw.com.au") what you think.
-<font class="ms-rteCustom-YellowBorderBox"> <b>*** Update ***</b> Instead of manually implementing these rules, use <a href="http://www.ssw.com.au/ssw/UpsizingPRO">SSW Upsizing PRO</a> to automatically implement many of them for you. <a href="http://www.ssw.com.au/ssw/Download/Download.aspx?GroupCategoryID=2ACCESS">Download</a> it and give it a go. </font>
+
+
+::: yellowBox
+ **\*\*\* Update \*\*\*** Instead of manually implementing these rules, use [SSW Upsizing PRO](http://www.ssw.com.au/ssw/UpsizingPRO) to automatically implement many of them for you. [Download](http://www.ssw.com.au/ssw/Download/Download.aspx?GroupCategoryID=2ACCESS) it and give it a go.
+:::
 

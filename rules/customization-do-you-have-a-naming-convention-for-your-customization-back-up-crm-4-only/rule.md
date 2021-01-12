@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- customization---do-you-have-a-naming-convention-for-your-customization-back-up-crm-4-only
 - customization-do-you-have-a-naming-convention-for-your-customization-back-up-(crm-4-only)
 
 ---

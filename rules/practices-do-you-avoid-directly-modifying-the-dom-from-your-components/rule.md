@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - avoid-the-dom-in-your-components
-- practices---do-you-avoid-directly-modifying-the-dom-from-your-components
 
 ---
 
@@ -27,4 +26,11 @@ Using DOM is fine, but manipulating DOM directly in your component is not. With 
 
 
 This means that the component's state must expose things that are useful to the template as public properties or fields, and the Angular should read these fields to draw itself.
-<dl class="badImage"><dt><img src="dom1.png" alt="dom1.png"> </dt><dd>This component manipulates the DOM directly to show and hide the menu</dd></dl><dl class="goodImage"><dt><img src="dom2.png" alt="dom2.png"></dt><dd>This component sets component state, which the template can use.  It is simpler, more descriptive and easier to test</dd></dl>
+
+::: bad  
+![This component manipulates the DOM directly to show and hide the menu](dom1.png)  
+:::  
+
+::: good  
+![This component sets component state, which the template can use.  It is simpler, more descriptive and easier to test](dom2.png)  
+:::

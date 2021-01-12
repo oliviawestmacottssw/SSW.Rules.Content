@@ -7,8 +7,7 @@ uri: do-you-label-your-example-with-a-tick-cross-followed-by-the-word-figure
 created: 2010-03-19T00:46:30.0000000Z
 authors: []
 related: []
-redirects:
-- do-you-label-your-example-with-a-tickcross-followed-by-the-word-figure
+redirects: []
 
 ---
 
@@ -23,8 +22,25 @@ Bad example - background colour is manually added to &lt;tablegt; tag
 :::
 
 
-<font class="ms-rteCustom-FigureBad">Bad example – example isn’t labelled with the X symbol followed by ‘Figure&#58;’</font> 
-<font class="ms-rteCustom-GreyBox"><font class="ms-rteCustom-FigureBad">Figure&#58; Bad example - background colour is manually added to &lt;tablegt; tag</font></font>
-<font class="ms-rteCustom-FigureGood">Figure&#58; Good example – It is clear that this example is incorrect.<br></font> 
-<font class="ms-rteCustom-GreyBox"><font class="ms-rteCustom-FigureGood">Figure&#58; Good example - background colour is automatically added to &lt;tablegt; tag</font></font>
-<font class="ms-rteCustom-FigureGood">Figure&#58; Good example – It is clear that this example is correct.</font>
+
+
+::: bad
+Bad example – example isn’t labelled with the X symbol followed by ‘Figure:’
+:::
+
+ 
+<font class="ms-rteCustom-GreyBox"><br><br>::: bad<br>Figure&#58; Bad example - background colour is manually added to &lt;tablegt; tag<br>:::<br><br></font>
+
+
+::: good
+Figure: Good example – It is clear that this example is incorrect.
+
+:::
+
+ 
+<font class="ms-rteCustom-GreyBox"><br><br>::: good<br>Figure&#58; Good example - background colour is automatically added to &lt;tablegt; tag<br>:::<br><br></font>
+
+
+::: good
+Figure: Good example – It is clear that this example is correct.
+:::

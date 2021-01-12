@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-know-the-best-cms-solutions-for-your-internetintranet
+redirects: []
 
 ---
 

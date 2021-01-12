@@ -12,7 +12,6 @@ related:
 - relationships---do-you-turn-on-referential-integrity-in-relationships
 redirects:
 - avoid-using-cascade-delete
-- relationships---do-you-avoid-using-cascade-delete
 
 ---
 

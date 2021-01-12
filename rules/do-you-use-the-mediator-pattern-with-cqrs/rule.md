@@ -33,13 +33,17 @@ CQRS can be used with complex architectures such as Event Sourcing but the conce
 MediatR is an open source .NET library by Jimmy Bogard that provides an elegant and powerful approach for writing CQRS, making it easier to write clean code.
 
 For every command or query, you create a specific request class that explicitly defines the “input” required to invoke the operation.
-<dl class="image"><dt>
-      <img src="mediator-cqrs-1.png" alt="mediator-cqrs-1.png">
-   </dt><dd>Figure: (from mediatr MediatR docs) A Simple Request class</dd></dl>
+
+::: ok  
+![Figure: (from mediatr MediatR docs) A Simple Request class](mediator-cqrs-1.png)  
+:::  
+
 Then the implementation of that command or query is implemented in a handler class. The handler class is instantiated by a Dependency Injection container – so can use any of the configured dependencies (Repoistories, Entity Framework, services etc)
-<dl class="image"><dt>
-         <img src="mediator-cqrs-2.png" alt="mediator-cqrs-2.png">
-      </dt><dd>Figure: A handler class</dd></dl>
+
+::: ok  
+![Figure: A handler class](mediator-cqrs-2.png)  
+:::  
+
 This approach brings many benefits:
 
 * Each command or query represents an atomic, well-defined operation such as "Get My Order Details" (Query) or "Add Product X to My Order" (Command)
@@ -53,8 +57,11 @@ This approach brings many benefits:
 * MediatR introduces a pipeline behaviour system allowing custom to be injected around handler invocation. This is useful for implementing cross-cutting concerns such as logging, validation or caching
 * For complex operations, it’s possible to compose from multiple smaller commands and queries. Each command or query is an atomic, potentially reusable operation. Such complexity should be adopted very carefully. The developer should be aware of two sometimes conflicting principles: DRY or Don't Repeat Yourself and SRP or the Single Responsibility Principle. In practice, any branching logic inside a handler to support use inside multiple contexts should be considered a violation of the Single Responsibility Principle and should be aggressively avoided
 
-<dl class="badImage"><dt>
-         <img src="clean-architecture-bad.jpg" alt="clean-architecture-bad.jpg">
-      </dt><dd>Figure: Bad example - Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse</dd></dl><dl class="goodImage"><dt>
-         <img src="clean-architecture-good.jpg" alt="clean-architecture-good.jpg">
-      </dt><dd>Figure: Good example - MediatR simplifies the dependencies injected into the controller. The incoming web request is simply mapped directly to a MediatR request that orchestrates all the logic for this operation. The implementation and dependencies needed to complete “GetItemForEdit” are free to change without needing to change the controller class<br></dd></dl>
+
+::: bad  
+![Figure: Bad example - Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse](clean-architecture-bad.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - MediatR simplifies the dependencies injected into the controller. The incoming web request is simply mapped directly to a MediatR request that orchestrates all the logic for this operation. The implementation and dependencies needed to complete “GetItemForEdit” are free to change without needing to change the controller class](clean-architecture-good.jpg)  
+:::

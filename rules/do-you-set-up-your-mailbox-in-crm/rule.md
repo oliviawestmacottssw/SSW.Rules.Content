@@ -20,11 +20,14 @@ Do the following:
 
 <!--endintro-->
 
-1. Browse to your Dynamics 365 Online URL | Advanced Settings | Settings | Email Configuration | Mailboxes | Browse for your mailbox:<br>   <dl class="image"><dt><img src="crm-open-meilbox-settings.png" alt="crm-open-meilbox-settings.png" style="width:750px;"></dt><dd>Figure: You should see your mailbox. Click the link on Name and it will open up your mailbox settings<br></dd></dl>
+1. Browse to your Dynamics 365 Online URL | Advanced Settings | Settings | Email Configuration | Mailboxes | Browse for your mailbox:<br>   
+::: ok  
+![Figure: You should see your mailbox. Click the link on Name and it will open up your mailbox settings](crm-open-meilbox-settings.png)  
+:::
 2. Make sure the following options are set (they might differ a bit depending on your CRM configuration):
     * **Allow to Use Credentials for Email Processing:** checked
-    * **User Name:**
-    * **Password:**
+    * **User Name:** &lt;YourUserName@yourcompany.com&gt;
+    * **Password:** &lt;YourPassword&gt;
     * **cServer Profile:** Exchange Online Hybrid
     * **Incoming Mail:** Server-Side Synchronization or Email Router
     * **Outgoing Mail:** Server-Side Synchronization or Email Router
@@ -33,9 +36,11 @@ Do the following:
 If successful, you will receive an email, if not, contact your nearest SysAdmin
 4. Click Save & Close!
 
-<dl class="image"><dt>
-      <img src="setup-mailbox-crm.png" alt="setup-mailbox-crm.png" style="width:750px;">
-   </dt><dd>Figure: Setting up your mailbox in CRM<br></dd></dl>
+
+::: ok  
+![Figure: Setting up your mailbox in CRM](setup-mailbox-crm.png)  
+:::  
+
 If you need more guidance on setting it up, you can find more on Microsoft documentation: [Set incoming and outgoing email synchronization](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/admin/set-incoming-outgoing-email-synchronization).
 
 After this is done, you should install the Dynamics 365 App for Outlook: [https://rules.ssw.com.au/dynamics-crm-install-the-dynamics-365-app-for-outlook](/install-the-2-add-ins)

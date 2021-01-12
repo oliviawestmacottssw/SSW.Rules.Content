@@ -25,8 +25,7 @@ For example, Zendesk is set up with the email SysAdmins@ssw.zendesk.com and ther
 
 It is best practice to only use the Zendesk group to manage tasks and not both groups in the same email thread.
 
-
-![](zenddddd.png)
+![zenddddd.png](zenddddd.png)
 
 
 ::: bad
@@ -37,8 +36,7 @@ Bad Example: Adding groups with the same people twice. They will receive it twic
 
 
 
-
-![](zendndnd.png)
+![zendndnd.png](zendndnd.png)
 
 
 ::: good

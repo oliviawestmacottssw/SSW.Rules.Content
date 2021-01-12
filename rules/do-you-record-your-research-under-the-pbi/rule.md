@@ -29,8 +29,7 @@ Create a new task under the PBI and place these resources in the description wit
 
 
 
-
-![](research-task-under-pbi.png)
+![research-task-under-pbi.png](research-task-under-pbi.png)
 
 
 
@@ -47,7 +46,6 @@ Good Example: Task for research created under the PBI
 
 Each source you have used should be referenced here with the publish date and a short description of what you got from the content. If you take screen shots of the relevant sections then that is even better.
 
-
 ![](sample-email-research.png)
 
 
@@ -55,7 +53,6 @@ Each source you have used should be referenced here with the publish date and a 
 Good Example: Example research task on using caching to improve load times with SugarLearning
 
 :::
-
 
 
 

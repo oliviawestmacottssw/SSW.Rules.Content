@@ -14,11 +14,15 @@ redirects: []
 In Outlook the Street Address is stored as 1 Multi-Line field (with an  intelligent Address Checker - nice but not essential), yet in Microsoft  CRM the Street Address is split out across 3 separate single line text  fields, they should be consistent.
 
 <!--endintro-->
-<dl class="goodImage"><dt> 
-      <img alt="Street Address in Outlook" src="../../assets/GoodExample.jpg" style="margin:5px;width:600px;"> 
-   </dt><dd>Figure: Street Address in Outlook.</dd></dl><dl class="badImage"><dt> 
-      <img alt="Street Address in CRM" src="../../assets/BadExample.jpg" style="margin:5px;"> 
-   </dt><dd>Figure: Street Address in CRM.</dd></dl>
+
+::: good  
+![Figure: Street Address in Outlook.](../../assets/GoodExample.jpg)  
+:::  
+
+::: bad  
+![Figure: Street Address in CRM.](../../assets/BadExample.jpg)  
+:::  
+
 We consider Outlook is friendlier, because:
 
 1. The wrong data is entered often when you have Street 1, Street 2, Street 3.

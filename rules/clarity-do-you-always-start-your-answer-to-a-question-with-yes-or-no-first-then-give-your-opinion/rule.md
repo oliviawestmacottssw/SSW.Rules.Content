@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - start-your-answer-with-yes-or-no-then-say-your-opinion
-- clarity---do-you-always-start-your-answer-to-a-question-with-yes-or-no-first-then-give-your-opinion
 - clarity-do-you-always-start-your-answer-to-a-question-with-yes’-or-no’-first-then-give-your-opinion
 
 ---

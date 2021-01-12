@@ -17,7 +17,13 @@ redirects:
 <!--endintro-->
 
 The text within the 'Details' button is more useful for debugging and locating the problem.
-<dl class="image" style="margin-top:0px;margin-bottom:20px;box-sizing:border-box;font-family:arial, sans-serif;font-size:14px;line-height:20.02px;"><dt style="box-sizing:border-box;line-height:1.42857;"><img src="../../assets/DotNetDebug2.GIF" alt="the bug happened" width="440" height="321" style="margin:5px;padding:10px;box-sizing:border-box;vertical-align:middle;max-width:100%;width:auto;background-image:none;background-attachment:scroll;background-position:0px 0px;background-repeat:repeat;"></dt><dd style="line-height:1.42857;box-sizing:border-box;">Figure: Bug details window</dd></dl>
+
+::: ok  
+![Figure: Bug details window](../../assets/DotNetDebug2.GIF)  
+:::  
+
+
+::: greybox
 See the end of this message for details on invoking 
 just-in-time (JIT) debugging instead of this dialog box.
 
@@ -80,8 +86,11 @@ enabled.
 
 For example:
 
-<configuration><br style="box-sizing:border-box;"><system.windows.forms jitdebugging="true"></system.windows.forms><br style="box-sizing:border-box;"></configuration>
+&lt;configuration&gt;
+&lt;system.windows.forms jitDebugging="true" /&gt;
+&lt;/configuration&gt;
 
 When JIT debugging is enabled, any unhandled exception
 will be sent to the JIT debugger registered on the machine
 rather than being handled by this dialog.
+:::

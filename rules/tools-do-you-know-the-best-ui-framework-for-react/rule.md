@@ -7,8 +7,7 @@ uri: tools-do-you-know-the-best-ui-framework-for-react
 created: 2019-05-16T06:19:43.0000000Z
 authors: []
 related: []
-redirects:
-- tools---do-you-know-the-best-ui-framework-for-react
+redirects: []
 
 ---
 
@@ -29,9 +28,11 @@ MaterialUI is a set of React Components that Implement the [Google’s Material 
 
 
 
-<dl class="image"><dt>
-      <img src="Snipaste_2019-05-14_18-04-27.jpg" alt="MaterialUI-logo.jpg">
-   </dt><dd>Figure: MaterialUI is a set of React components that implement Google's Material Design.<br></dd></dl>
+
+::: ok  
+![Figure: MaterialUI is a set of React components that implement Google's Material Design.](Snipaste\_2019-05-14\_18-04-27.jpg)  
+:::  
+
 
 Get started:        [**react-material-ui-official-docs-example**](https://stackblitz.com/edit/react-material-ui-official-docs-example)
 

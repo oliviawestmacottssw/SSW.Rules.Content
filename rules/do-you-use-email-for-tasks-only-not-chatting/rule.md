@@ -16,7 +16,6 @@ related:
 - tiny-do-you-know-"email"-does-not-have-a-hyphen
 redirects:
 - dones-do-you-use-email-for-tasks-only-not-communication
-- do-you-use-email-for-tasks-only---not-chatting
 
 ---
 
@@ -31,11 +30,7 @@ Email is a very powerful business tool. The main problem, however, is that for m
 
 
 Using your mailbox as a task list also saves you from having to use inefficient paper-based cards to track your tasks.
-
-[[badExample]]
-| ![A bad email is one that gives no clear action items and will probably lead to a back and forth thread](EmailBad.gif)(potentially with people misunderstanding each other) 
-[[goodExample]]
-| ![A good email has a clear next step action point](EmailGood.gif)
+![Bad email](EmailBad.gif)  Figure: Bad Example - A bad email is one that gives no clear action items and will probably lead to a back and forth thread (potentially with people misunderstanding each other) ![Good email](EmailGood.gif) Figure: Good Example - A good email has a clear next step action point 
 **Tip 1:** It is better when email is not used as communication. Of course, if the person is unavailable, follow the ‘[as per our conversation](/Pages/DoYouAlwaysSendAnAsPerOurConversationEmail.aspx)’ rule which tells you what to do.
 
 E.g. "As per the message I left on your phone…" and detail the questions you would like answered.

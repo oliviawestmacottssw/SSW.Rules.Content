@@ -23,19 +23,33 @@ By default, WordPress shows the whole article content on a post list. Knowing th
 You can split your blog entries so that only the first part of certain posts is displayed on the home and archive pages. When you do this, a link will be placed after the intro, pointing the reader to the full post.
 To do so, you can either edit the source index.php (or similar) file; or just click the "Read More" tag button in the first row of the visual editor toolbar (or press  **Alt+Shift+T** ):
 
-<dl class="badImage"><p class="ssw15-rteElement-CodeArea">replace <?php the_content(); ?> with <?php the_excerpt(); ?></p><dd>Figure: Bad example - changing source PHP files is complicated and require developer skills </dd></dl><dl class="goodImage"><dt> <img src="readmore-tag.png" alt=""> </dt><dd>Figure: Good example - click on the "Read More" tag on the post visual editor</dd></dl>
+
+::: bad  
+![replace &lt;?php the\_content(); ?&gt; with &lt;?php the\_excerpt(); ?&gt;Figure: Bad example - changing source PHP files is complicated and require developer skills](readmore-tag.png)  
+:::  
+
+::: good  
+![Figure: Good example - click on the "Read More" tag on the post visual editor](readmore-tag.png)  
+:::  
+
 **Note:** This is out-of-the-box with WordPress. You won't need a plugin.
 
 ### Custom Read More Message
 
-To customize the message, simply add a space after  **<!--more</strong> and insert the text you want to show:</p><dl class="image"><dt><p class="ssw15-rteElement-CodeArea"><!--more Read the full post --> 
-**
+To customize the message, simply add a space after  **&lt;!--more** and insert the text you want to show:
 
-<dd>Figure: Custom "read more" link<br></dd>
+::: ok  
+![&lt;!--more Read the full post --&gt; Figure: Custom "read more" link](excerpt.png)  
+:::  
+
 ### Some WordPress themes do this automatically
 
 Many WordPress themes will have an option to not show the full blog content on the homepage. E.g. in Avada (one of the most popular themes) it has this:
-<dl class="goodImage"><dt> <img src="excerpt.png" alt="excerpt.png"> </dt><dd>Figure: Many WordPress themes make it easier for you</dd></dl>
+
+::: good  
+![Figure: Many WordPress themes make it easier for you](excerpt.png)  
+:::  
+
 
 
 Always check theme options before going back through posts to add in the Read More tags manually.

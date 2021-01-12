@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-scope_identity-to-get-the-most-recent-row-identity
-- stored-procedures---do-you-use-scope_identity-to-get-the-most-recent-row-identity
 - stored-procedures-do-you-use-scope_identity()-to-get-the-most-recent-row-identity
 
 ---

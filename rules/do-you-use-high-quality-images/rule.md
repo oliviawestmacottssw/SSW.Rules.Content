@@ -22,4 +22,11 @@ The quality of your images is a subconscious message to your audience. If you us
 For this reason, we encourage you to choose only high quality photos and to avoid cartoons and word art.
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="low-quality.jpg" alt="low-quality.jpg"></dt><dd>Figure: Bad Example - What is this monstrosity!</dd></dl><dl class="goodImage"><dt><img src="high-quality.jpg" alt="high-quality.jpg"></dt><dd>Figure: Figure: Good Example - Looks classy, that</dd></dl>
+
+::: bad  
+![Figure: Bad Example - What is this monstrosity!](low-quality.jpg)  
+:::  
+
+::: good  
+![Figure: Figure: Good Example - Looks classy, that](high-quality.jpg)  
+:::

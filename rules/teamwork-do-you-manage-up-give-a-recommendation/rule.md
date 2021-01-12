@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - do-you-manage-up
-- teamwork---do-you-manage-up-give-a-recommendation
 - teamwork-do-you-manage-up-(give-a-recommendation)
 
 ---
@@ -83,10 +82,11 @@ Figure: Good Example - Multiple options to approve with reasons for each <br>
 
 :::
 
-<dl class="image"><dt> 
-         <img alt="complexity and false hope" src="complexity-and-false-hope.jpg" style="width:600px;"> 
-         <br> 
-      </dt><dd> Figure: Hard decision - this guy needs to state why he recommends this option<br></dd></dl>
+
+::: ok  
+![Figure: Hard decision - this guy needs to state why he recommends this option](complexity-and-false-hope.jpg)  
+:::  
+
 ### Related Rules  <br>      
 
 

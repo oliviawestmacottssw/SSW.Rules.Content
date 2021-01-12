@@ -7,8 +7,7 @@ uri: validation-do-you-avoid-capturing-incorrect-data
 created: 2012-11-27T09:03:27.0000000Z
 authors: []
 related: []
-redirects:
-- validation---do-you-avoid-capturing-incorrect-data
+redirects: []
 
 ---
 

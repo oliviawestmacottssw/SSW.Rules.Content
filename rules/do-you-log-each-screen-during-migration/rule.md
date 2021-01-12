@@ -18,4 +18,4 @@ As per rule [Installation - Do you log each screen which is different to the def
 <!--endintro-->
 
 
-<dt style="border:currentcolor;color:#000000;line-height:17px;font-family:verdana, sans-serif;font-size:12px;"><img alt="Log Screen For Required Components" src="../../assets/CRM_LogScreenForRequiredComponent.gif" style="margin:5px;padding:15px;border:1px solid #cccccc;color:#cccccc;font-size:1em;background-color:#eeeeee;"></dt><dd style="border:currentcolor;color:#000000;line-height:17px;font-family:verdana, sans-serif;">Figure: Log Screen For Required Components</dd>
+![Log Screen For Required Components](../../assets/CRM_LogScreenForRequiredComponent.gif)Figure: Log Screen For Required Components

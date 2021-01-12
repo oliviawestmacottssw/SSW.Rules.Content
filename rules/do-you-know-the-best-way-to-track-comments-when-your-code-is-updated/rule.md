@@ -27,7 +27,7 @@ Commands such as git blame or Visual Studio's annotate are great ways of seeing 
 private void iStopwatchOptionsForm\_Resizing(object sender, System.EventArgs e) {
     // Don't close this form except closing this application - using hide instead; 
     if (!this.m\_isForceClose) {
- // <added by="" fw,="" 11/10/2006=""></added>
+ // &lt;added by FW, 11/10/2006&gt;
         // Remind saving the changes if the options were modified.
         if (this.IsOptionsModified) {
             if (MessageBox.Show("Do
@@ -36,7 +36,7 @@ MessageBoxIcon.Warning) = DialogResult.Yes) {
                 this.SaveOptions()
             }
         }
-        // 
+        // &lt;/added&gt;
     }
 }
 
@@ -47,8 +47,7 @@ Figure: Bad example - timestamped comments add noise to the code
 :::
 
 
-
-![](comment annotations.png)
+![comment annotations.png](comment annotations.png)
 
 
 ::: good

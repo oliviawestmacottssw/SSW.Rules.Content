@@ -14,7 +14,6 @@ related: []
 redirects:
 - how-to-create-a-rule-category
 - do-you-know-how-to-create-a-rule-category-(internal-only)
-- sharepoint---do-you-know-how-to-create-a-rule-category-internal-only
 - sharepoint-do-you-know-how-to-create-a-rule-category-(internal-only)
 
 ---
@@ -40,26 +39,14 @@ Basically, creating a rule category contains two parts of work.
 > 
 > 
 > 2) Open [https://rules.ssw.com.au/\_layouts/15/termstoremanager.aspx?tsid=eacc332d045a40e1bcc10498d65b767f](/_layouts/15/termstoremanager.aspx?tsid=eacc332d045a40e1bcc10498d65b767f) , under "ImportTaxonomy" | "RuleCategories", find the right "parent category" (e.g. "Communication"), click "Create Term":
-> <dl class="ssw15-rteElement-ImageArea"> 
->       <img src="rulecategor1.jpg" alt="rulecategor1.jpg" style="margin:5px;width:713px;height:500px;"> 
->       <br> 
->    </dl><dl class="ssw15-rteElement-ImageArea">3) Type the rule category name, e.g. "Rules to Better xxx":</dl><dl class="ssw15-rteElement-ImageArea"> 
->       <img src="rulecategor2.jpg" alt="rulecategor2.jpg" style="margin:5px;"> 
->       <br> 
->    </dl>
+> ![rulecategor1.jpg](rulecategor1.jpg)
+> 3) Type the rule category name, e.g. "Rules to Better xxx":![rulecategor2.jpg](rulecategor2.jpg)
 
 **2.** **Create a "rule summary" page to show rule pages belong to this rule category** 
 
 > 1) Go to "Site Setting" | "Add a page" to create a new page:
-> <dl class="ssw15-rteElement-ImageArea">      <img src="rulecategor3.jpg" alt="rulecategor3.jpg" style="margin:5px;">
->       <br>
->    </dl>
+> ![rulecategor3.jpg](rulecategor3.jpg)
+> 
 > 2) Type the rule category name in the popup dialog (same as the rule category name created in term store, e.g. "Rules to Better xxx"), then click "Create" button:
-> <dl class="ssw15-rteElement-ImageArea">      <img src="rulecategor4.jpg" alt="rulecategor4.jpg" style="margin:5px;">
->    </dl> **Figure: a friendly url will be automatically generated** <dl class="ssw15-rteElement-ImageArea">3) On the new created page, go to "Ribbon" | "Page" | "Page Layout" to change the new created page layout to be "SSW - Rule Summary Page":</dl><dl class="ssw15-rteElement-ImageArea"> 
->       <img src="rulecategor5.jpg" alt="rulecategor5.jpg" style="margin:5px;width:808px;"> 
->       <br> 
->    </dl><dl class="ssw15-rteElement-ImageArea">4) "Check in" and "Publish" this "Rule Summary" page, then you should have a page like below,</dl><dl class="ssw15-rteElement-ImageArea"> 
->       <img src="rulecategor6.jpg" alt="rulecategor6.jpg" style="margin:5px;width:808px;"> <span style="color:#555555;font-size:11px;font-weight:bold;">Figure: Any futher created "rule pages" belong to this "rule category" will be listed on this page</span><span style="color:#555555;font-size:11px;font-weight:bold;">
->          <dl class="ssw15-rteElement-ImageArea">
->             <span style="color:#555555;font-size:11px;font-weight:bold;"></span></dl></span></dl>
+> ![rulecategor4.jpg](rulecategor4.jpg) **Figure: a friendly url will be automatically generated** 3) On the new created page, go to "Ribbon" | "Page" | "Page Layout" to change the new created page layout to be "SSW - Rule Summary Page":![rulecategor5.jpg](rulecategor5.jpg)
+> 4) "Check in" and "Publish" this "Rule Summary" page, then you should have a page like below,![rulecategor6.jpg](rulecategor6.jpg)Figure: Any futher created "rule pages" belong to this "rule category" will be listed on this page

@@ -21,5 +21,13 @@ And yes, there are many tests that can be written that will pass on the develope
 <!--endintro-->
 
 **Note:** Adding this option requires you to include NUnit in your setup.exe (See [Include all the files needed](https://www.ssw.com.au/ssw/Standards/WiseSetup/WiseStandards.aspx#IncludeAllFiles) in our Wise Standard).
-<dl class="image"><dt><img src="HelpRunUnitTests.gif" alt="HelpRunUnitTests.gif"></dt><dd>Figure: Standard Help menu should give you an option to Run Unit Tests to check the users' environment (Good)</dd></dl><dl class="image"><dt><img src="NUnitGui.gif" alt="NUnitGui.gif"></dt><dd>Figure: Obviously the red indicates that there is a problem with a Unit Test (Good)<br></dd></dl>
+
+::: ok  
+![Figure: Standard Help menu should give you an option to Run Unit Tests to check the users' environment (Good)](HelpRunUnitTests.gif)  
+:::  
+
+::: ok  
+![Figure: Obviously the red indicates that there is a problem with a Unit Test (Good)](NUnitGui.gif)  
+:::  
+
 We have a rule [Do you know the Seven items every Help menu needs?](/menu-do-you-know-the-8-items-every-help-menu-needs)

@@ -7,8 +7,7 @@ uri: meetings-do-you-know-the-way-meetings-should-work
 created: 2010-07-16T06:08:10.0000000Z
 authors: []
 related: []
-redirects:
-- meetings---do-you-know-the-way-meetings-should-work
+redirects: []
 
 ---
 
@@ -30,9 +29,17 @@ To ensure your meetings are productive and successful, you should:
 * If you are going to be late, contact the organizer or the person in charge of the meeting to let them know that you are running late and what time you will be arriving.
 * To improve future meetings, at the end of the meeting, do a quick debrief to see how long the meeting took, if anything was covered that didn't need to be, etc.
 
-<dl class="badImage">    <dt><img alt="Meeting without agenda" src="../../assets/MeetingNoAgenda.JPG"> </dt>
-    <dd>Figure: Bad example - meeting with No Agenda </dd></dl>
-![](MeetingWithAgenda_1.jpg)<font class="ms-rteCustom-FigureGood">Figure: Good example - meeting with Agenda </font>
+
+::: bad  
+![Figure: Bad example - meeting with No Agenda](../../assets/MeetingNoAgenda.JPG)  
+:::  
+![](MeetingWithAgenda_1.jpg)
+
+::: good
+Figure: Good example - meeting with Agenda
+:::
+
+
 Every Outlook appointment must have:
 
 1. A good subject, to let attendees know the purpose of the meeting, see our rule [Do you realize the importance of a good email Subject?](/do-you-realize-the-importance-of-a-good-email-subject)
@@ -44,10 +51,9 @@ Every Outlook appointment must have:
     4. Your standard footer in message (same footer as in mail messages)
     5. A URL mentioning [Tips for better meetings](http://www.ssw.com.au/ssw/Redirect/TipsForMeeting.htm)
 
-<dl class="good">    <dt>Hi Bill Northwind<ul>
-        <li>Print map <a href="http://www.ssw.com.au/ssw/company/directions">www.ssw.com.au/ssw/company/directions</a> </li>
-        <li>FYI the account manager is not billable, the developers are billable </li>
-        <li>For meetings tips see <a href="/Pages/Rules-to-Better-Software-Consultants---Dealing-with-Clients.aspx">Rules to being Software Consultants - Dealing with Clients</a> </li>
-    </ul>
-    </dt>
-    <dd>Figure - Message example<br><br></dd></dl>
+Hi Bill Northwind
+* Print map http://www.ssw.com.au/ssw/company/directions
+* FYI the account manager is not billable, the developers are billable
+* For meetings tips see [Rules to being Software Consultants - Dealing with Clients](/Pages/Rules-to-Better-Software-Consultants---Dealing-with-Clients.aspx)
+
+Figure - Message example

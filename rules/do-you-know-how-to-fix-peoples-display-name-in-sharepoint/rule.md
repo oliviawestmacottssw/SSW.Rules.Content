@@ -9,30 +9,23 @@ authors:
 - title: John Liu
   url: https://ssw.com.au/people/john-liu
 related: []
-redirects:
-- do-you-know-how-to-fix-peoples-display-name-in-sharepoint-
+redirects: []
 
 ---
 
 When SharePoint encounters a new person, it takes people's display name and account name from Active Directory, but sometimes  
 <!--endintro-->
-
-![](MixUpNames.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Mixed up names - some are good Display Name, some are essentially just the Account Name</font> (More here) 
+![](MixUpNames.jpg)**Figure: Mixed up names - some are good Display Name, some are essentially just the Account Name** (More here) 
 
 The easiest way to fix this requires someone with central administration access:1. Go to: SharePoint Central Administration | Application Management | Service Applications | Manage Service applications 
-
 ![](ServiceApplication.jpg)
 2. Go to User Profile Service Application
-
 ![](UserProfileServiceApplication.jpg)
 3. Go to Manage User Profiles 
-
 ![](ManageUserProfiles.jpg)
 4. Find the user profile that you want to update 
-
 ![](FindUserProfile.jpg)
 5. Fix the Name field (Display name)
-
 ![](FixNameField.jpg)
 6. Save
 

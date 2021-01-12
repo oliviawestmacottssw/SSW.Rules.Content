@@ -22,8 +22,9 @@ Most developers check only this first item before starting their work:
 
 1. Check Unit Tests are Green
 
+![unittests.png](unittests.png)
 
-![Tests are green. I'm ready to start work... or am I?](unittests.png)
+**Figure: Tests are green. I'm ready to start work... or am I?**
 
 
 
@@ -36,8 +37,7 @@ More advanced teams check their application insights data as well. This includes
 
 
 
-> 
-![](App-Insights-Failures.png)
+> ![App-Insights-Failures.png](App-Insights-Failures.png)
 > 
 > **Figure: Unhandled Exceptions - Is there anything you don't know about here?**
 
@@ -53,7 +53,6 @@ More advanced teams check their application insights data as well. This includes
 
 
 
-> 
-![](performance-4.jpg)
+> ![performance-4.jpg](performance-4.jpg)
 > 
 > **Figure: Performance - The Server Responses tab shows the slowest running pages.**

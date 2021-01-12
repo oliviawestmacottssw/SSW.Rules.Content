@@ -21,5 +21,4 @@ When you refer to an attachment in your email, don't forget to include the attac
 
 
 We have a program called [SSW LookOut! for Outlook](http://www.ssw.com.au/ssw/LookOut/) to check for this rule. 
-
-![SSW LookOut](../../assets/ContactorAttached.gif)! for Outlook automatically warns you if you have forgotten to include your attachments.**
+![Contact or attached](../../assets/ContactorAttached.gif)**Figure: SSW LookOut! for Outlook automatically warns you if you have forgotten to include your attachments.**

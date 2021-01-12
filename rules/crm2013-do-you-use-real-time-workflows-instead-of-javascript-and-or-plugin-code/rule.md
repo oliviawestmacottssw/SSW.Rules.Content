@@ -9,8 +9,7 @@ authors:
 - title: Mehmet Ozdemir
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
-redirects:
-- crm2013---do-you-use-real-time-workflows-instead-of-javascript-andor-plugin-code
+redirects: []
 
 ---
 
@@ -21,13 +20,24 @@ CRM 2013 adds real-time (synchronous) workflows. These workflows run in sync wit
 <!--endintro-->
 
 First Create the Workflow (don’t forget to uncheck the Run this workflow in the background):
-<dl class="image"><dt><img src="realtime-workflow.png" alt=""></dt><dd>Figure: Create the Workflow </dd></dl>
+
+::: ok  
+![Figure: Create the Workflow](realtime-workflow.png)  
+:::  
+
 Second, set the properties of the workflow:
 
 In this example it’s set to when ‘Est Value’ field changes
  If ‘Est Value’ is greater than $100,000 then stop and cancel
-<dl class="image"><dt><img src="realtime-workflow-2.png" alt=""></dt><dd>Figure: Stop and cancel if ‘Est Value’ greater than $100,000</dd></dl>
+
+::: ok  
+![Figure: Stop and cancel if ‘Est Value’ greater than $100,000](realtime-workflow-2.png)  
+:::  
+
 Once the Real-Time workflow is  **Activated** the ‘Est Value’ field will no longer accept values above $100,000. This is a simple example but in versions prior to CRM2013 this would have been implemented in Javascript or Plugin Code.
 
 Using the Real-Time Workflow saves a lot of time and effort.
-<dl class="image"><dt><img src="realtime-workflow-3.png" alt=""></dt><dd>Figure: Lead cannot be saved if Est value is greater than $100,000</dd></dl>
+
+::: ok  
+![Figure: Lead cannot be saved if Est value is greater than $100,000](realtime-workflow-3.png)  
+:::

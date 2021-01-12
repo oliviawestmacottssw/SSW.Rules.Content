@@ -21,4 +21,7 @@ To do that, click on: “Tools" on top right |on “Shared Library", click on Ne
 <!--endintro-->
 
 Then create the title and add the keywords you think that might help you either save some money from non-targeted clicks or improve your results to get your right audience.
-<dl class="image"><dt><img src="google-ads-organize-negative-keywords.jpg" alt="google-ads-organize-negative-keywords.jpg"></dt><dd>Figure: organize your negative keywords lists<br></dd></dl>
+
+::: ok  
+![Figure: organize your negative keywords lists](google-ads-organize-negative-keywords.jpg)  
+:::

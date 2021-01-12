@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-transactions-for-complicated-stored-procedures
-- stored-procedures---do-you-use-transactions-for-complicated-stored-procedures
 
 ---
 

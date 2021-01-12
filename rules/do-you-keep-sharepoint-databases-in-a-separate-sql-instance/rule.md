@@ -19,4 +19,11 @@ redirects:
 Because SharePoint server will create quite a few databases, it’s easier to manage them in a separate SQL instance rather than mixing it with other system’s databases:
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="sharepoint-database-bad.png" alt="sharepoint-database-bad.png"></dt><dd>Bad example - mixed with other systems' database</dd></dl><dl class="goodImage"><dt><img src="sharepoint-database-good.png" alt="sharepoint-database-good.png"></dt><dd>Good example - SharePoint related databases are in a separate SQL instance from other systems' databases<br></dd></dl>
+
+::: bad  
+![Bad example - mixed with other systems' database](sharepoint-database-bad.png)  
+:::  
+
+::: good  
+![Good example - SharePoint related databases are in a separate SQL instance from other systems' databases](sharepoint-database-good.png)  
+:::

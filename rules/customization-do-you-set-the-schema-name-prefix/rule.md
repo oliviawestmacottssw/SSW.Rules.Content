@@ -9,20 +9,18 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- customization---do-you-set-the-schema-name-prefix
+redirects: []
 
 ---
 
 Note when you do a customization it gives it a prefix with the schema name - in           our case SSW. With this prefix you can easily distinguish customized attributes           from default attributes.
 
 <!--endintro-->
-<dl class="image">          <dt>
-            <img alt="Set your schema-name prefix to use for custom entities and attributes" src="CRM_PrefixSetting.jpg"></dt>
-          <dd>
-            Figure: Set your schema-name prefix to use for custom entities and attributes</dd>
-        </dl><dl class="image">          <dt>
-            <img alt="customized attributes with the prefix" src="CRM_Prefix.jpg"></dt>
-          <dd>
-            Figure: customized attributes with the prefix</dd>
-        </dl>
+
+::: ok  
+![Figure: Set your schema-name prefix to use for custom entities and attributes](CRM\_PrefixSetting.jpg)  
+:::  
+
+::: ok  
+![Figure: customized attributes with the prefix](CRM\_Prefix.jpg)  
+:::

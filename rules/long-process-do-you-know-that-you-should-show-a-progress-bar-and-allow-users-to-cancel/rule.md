@@ -7,8 +7,7 @@ uri: long-process-do-you-know-that-you-should-show-a-progress-bar-and-allow-user
 created: 2012-11-27T03:05:05.0000000Z
 authors: []
 related: []
-redirects:
-- long-process---do-you-know-that-you-should-show-a-progress-bar-and-allow-users-to-cancel
+redirects: []
 
 ---
 
@@ -25,7 +24,13 @@ Instead, keep users happy with your application by:
 * Showing status description information above the progress bar
 * Allowing the user to stop the process at any time by clicking "Cancel" (or as a minimum, prompt for confirmation before the long running process starts)
 
-<dl class="goodImage"><dt><img alt="Progress form with Description & Cancel Button" src="../../assets/AllowCancelAndShowProgressForLongRunningProcesses.gif" width="420" height="222"></dt>
-<dd>Figure: Good Example - Progress Bar with description and Cancel Button</dd></dl><dl class="goodImage"><dt><img alt="Progress form with description and status& Cancel Button" src="../../assets/AllowCancelAndShowProgressForLongRunningProcesses2.jpg" width="608" height="376"></dt>
-<dd>Figure: Good Example - Progress Bar with description and status, and Cancel Button</dd></dl>
+
+::: good  
+![Figure: Good Example - Progress Bar with description and Cancel Button](../../assets/AllowCancelAndShowProgressForLongRunningProcesses.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - Progress Bar with description and status, and Cancel Button](../../assets/AllowCancelAndShowProgressForLongRunningProcesses2.jpg)  
+:::  
+
 We have a product called [SSW .NET Toolkit](http://www.ssw.com.au/ssw/NETToolKit/) which includes these controls. [SSW .NET Toolkit - Using Progress bars/Status forms.](http://www.ssw.com.au/ssw/NETToolKit/08ProgressbarsStatusforms.aspx)

@@ -18,11 +18,15 @@ redirects: []
 Text boxes are often limited in size. When the user have a large ammount of text, the field should grow bigger to show the whole query.
 
 <!--endintro-->
-<dl class="badImage"><dt>
-      <img src="textarea-small-bad.png" alt="text area bad example" style="width:600px;">
-   </dt><dd>Figure: Bad example - Can't see the whole query</dd></dl><dl class="goodImage"><dt>
-      <img src="textarea-big-good.png" alt="text area good example">
-   </dt><dd>Figure: Good example - Text area expands showing the entire message as it is typed</dd></dl>
+
+::: bad  
+![Figure: Bad example - Can't see the whole query](textarea-small-bad.png)  
+:::  
+
+::: good  
+![Figure: Good example - Text area expands showing the entire message as it is typed](textarea-big-good.png)  
+:::  
+
 More info:
 
 * http://blogs.sitepointstatic.com/examples/tech/textarea-expander/demo.html

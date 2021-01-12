@@ -22,8 +22,15 @@ If you migrate using the Sharegate migration tool, you want to have zero errors 
 
 * Get rid of SharePoint Designer customizations on List form
 
-<dl class="badImage"><dt><img src="avoid-errors-sp-migration1.png" alt="avoid-errors-sp-migration1.png" style="width:750px;"></dt><dd>Bad example: Page customized using SharePoint Designer</dd></dl><dl class="goodImage"><dt><img src="avoid-errors-sp-migration2.png" alt="avoid-errors-sp-migration2.png" style="width:750px;">
- </dt><dd>Good example: Out of the box list view page</dd></dl>
+
+::: bad  
+![Bad example: Page customized using SharePoint Designer](avoid-errors-sp-migration1.png)  
+:::  
+
+::: good  
+![Good example: Out of the box list view page](avoid-errors-sp-migration2.png)  
+:::  
+
 Remove unsupported columns such as:
 
 * Publishing HTML
@@ -32,5 +39,7 @@ Remove unsupported columns such as:
 * Managed Metadata columns on folders
 * Get rid of MicroFeed
 
-<dl class="badImage"><dt><img src="avoid-errors-sp-migration3.png" alt="avoid-errors-sp-migration3.png" style="width:750px;">
-   </dt><dd>Bad example: Sharegate migration report shows error if MicroFeed(s) have not been removed<br></dd></dl>
+
+::: bad  
+![Bad example: Sharegate migration report shows error if MicroFeed(s) have not been removed](avoid-errors-sp-migration3.png)  
+:::

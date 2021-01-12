@@ -15,6 +15,4 @@ You won’t know if your interface is any good until it’s actually tested! Tes
 
 <!--endintro-->
 
-
-![]()
-![](UsabilityTesting.jpg)
+![]()![](UsabilityTesting.jpg)

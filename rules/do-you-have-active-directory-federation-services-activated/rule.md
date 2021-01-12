@@ -24,15 +24,17 @@ With ADFS, you can use only one account (generally created on your on-premises A
 
 This implementation gives you security over which users are acessing which application with which accounts, and also reduces the surface for attacks on having many accounts with many different passwords:
 
-
-![](sso.png)
+![sso.png](sso.png)
 
 
 ::: good
 Figure: Good Example - Using one account on many systems
 :::
 
-<dt><br></dt><dt>ADFS also gives you a solution in other corner cases:</dt><dd><br></dd><dd>  1. When you want to use Office 365 and not store your password on the cloud;</dd><dt>  2. When you want the authentication to take place on-premises;</dt><dd>  3. When you want to create a trust between SharePoint on-premises and Azure AD;</dd><dt>  4. Amongst many others.</dt><dd><br></dd><dd><img src="adfs.jpg" alt="adfs.jpg" style="margin:5px;width:808px;"></dd>
+
+ADFS also gives you a solution in other corner cases:
+1. When you want to use Office 365 and not store your password on the cloud;2. When you want the authentication to take place on-premises;3. When you want to create a trust between SharePoint on-premises and Azure AD;4. Amongst many others.
+![adfs.jpg](adfs.jpg)
 
 ::: good
 Figure: Good Example - Using SSO to log into CRM with your on-premises account

@@ -11,14 +11,12 @@ authors:
 - title: Eric Phan
   url: https://ssw.com.au/people/eric-phan
 related: []
-redirects:
-- management---is-your-client-clear-on-the-definition-of-a-bug
+redirects: []
 
 ---
 
 The answer to this question can make or break contracts. We think that it's such a fundamental issue it has to be captured clearly. This is how we strictly define a bug.   
 <!--endintro-->
-
 
 ![](bug-feature.png)
 
@@ -33,11 +31,11 @@ A software issue can be classed as a bug where:
 **and** the developers can reproduce the above on the test server  **and** the application is not yet "live"  **and** the issue has been reported in time (generally 30 days).
 **Examples of what \*could\* constistute a bug:**
 1. The application crashes to code because it doesn't check that a connection is valid before running a stored procedure  **(this is likely covered because it crashes to code)
-
-![Yellow screen of death  ](YellowScreenofDeath.jpg)
+![](YellowScreenofDeath.jpg)
+  Figure: Yellow screen of death  **
 2. A sum total is negative instead of positive because the wrong operator (plus instead of minus) has been used to calculate the running balance  **(this is likely covered because data is inconsistent with the specified business rules)
-
-![An incorrect sum is likely to be a bug  ](IncorrectSum.jpg)
+![](IncorrectSum.jpg)
+  Figure: An incorrect sum is likely to be a bug  **
 3. The application is missing the Monthly Sales report  **(this is likely covered because the application is missing functionality specified in the specification)**
 4. The output HTML in the application is formatted way out of line and does not display in the specified browser (e.g. Internet Explorer 9)  **(this is likely covered because it substantially inconsistent with the agreed mockup)
 **
@@ -54,8 +52,7 @@ A software issue can be classed as a bug where:
 Using TFS allows you to create work items such as user stories, bugs, tasks, test cases etc. Only create bugs in TFS for defects, faults, flaws, or imperfections that fulfill your definition of a bug. For everything else use other work item types.
 
 
-> ** 
-![](2016-02-08_12-20-59.png)
+> ** ![2016-02-08_12-20-59.png](2016-02-08_12-20-59.png)
 > Figure: Do I create this as a bug, or a task?  **
 
 
@@ -66,14 +63,13 @@ Scrum wasn't designed for fixed price, fixed scope contracts, however, any new f
 
 Any new features or modifications (non-bug items) not in the original Product Backlog are classed as additional PBI's and placed on the Product Backlog. Any tasks which  **are** bugs found during the current Sprint should be fixed within the current Sprint. Any tasks which  **are** bugs found outside of the current Sprint should be added to the Product Backlog. See [Do you know when to create bugs?](/during-a-sprint-do-you-know-when-to-create-bugs "Do you know when to create bugs?") and [Do you know the 3 steps to a PBI?](/do-you-know-the-3-steps-to-a-pbi)
 
-
-![Adding a bug to the Product Backlog in TFS](62034c_tfs_preview_add_bug.png)
+![tfs_preview_add_bug.png](62034c_tfs_preview_add_bug.png)
+ **Figure: Adding a bug to the Product Backlog in TFS**
 
 If you see a bug in any software product, e.g. SSW Code Auditor, it is best to report the issue following the steps outlined the [SSW Bug or Enhancement Reporting Standard](http://www.ssw.com.au/ssw/Standards/Support/BugReportOrEnhancement.aspx).
 
 Note: The above is our definition. Others have different definitions that we do  **not**subscribe to:
 * http://www.ssw.com.au/ssw/Redirect/KB/KBQ720494JoelOnSoftware.htm 
-
 
 
 

@@ -9,8 +9,7 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects:
-- watch---do-you-get-sprint-forecasts
+redirects: []
 
 ---
 

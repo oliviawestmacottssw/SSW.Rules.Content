@@ -34,13 +34,22 @@ It is not very difficult, but you should still follow some rules:
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="description_bad.png" alt="" style="margin:5px;width:808px;"></dl>
+
+::: ok  
+![](description\_bad.png)  
+:::  
+
 
 ::: bad
 Bad example: Short descriptions are not SEO-optimized.
 :::
 
-<dt><br></dt><dl class="ssw15-rteElement-ImageArea"><img src="description_good.png" alt="" style="margin:5px;width:808px;"><br></dl>
+
+
+::: ok  
+![](description\_good.png)  
+:::  
+
 
 ::: good
 Good example: treat your video description as a blog post and give info but keep the details for your video! 

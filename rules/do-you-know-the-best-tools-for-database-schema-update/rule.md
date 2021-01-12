@@ -48,15 +48,19 @@ Bad options for updating database schema - No ability to validate that the datab
 * Visual Studio + [SQL Server Data Tools](https://visualstudio.microsoft.com/vs/features/ssdt/) (Formerly Data Dude) + Deploy (post-development model)
 * Red Gate SQL Compare + Red Gate SQL Packager (post-development model)
 
-<dl class="badImage"><dt><img src="DataDude-BadExample.jpg" alt=""></dt><dd>Figure: Don't use Data Dude</dd></dl>
+
+::: bad  
+![Figure: Don't use Data Dude](DataDude-BadExample.jpg)  
+:::  
+
 public partial class GenderToString : DbMigration
  {
  public override void Up()
  {
- AddColumn("dbo.Customers", "GenderTemp", c => c.Boolean(nullable: false));
+ AddColumn("dbo.Customers", "GenderTemp", c =&gt; c.Boolean(nullable: false));
  Sql("UPDATE [dbo].[Customers] set GenderTemp = Gender");
  DropColumn("dbo.Customers", "Gender");
- AddColumn("dbo.Customers", "Gender", c => c.String(maxLength: 2));
+ AddColumn("dbo.Customers", "Gender", c =&gt; c.String(maxLength: 2));
  Sql("UPDATE [dbo].[Customers] set Gender = 'M' where GenderTemp=1");
  Sql("UPDATE [dbo].[Customers] set Gender = 'F' where GenderTemp=0");
  DropColumn("dbo.Customers", "GenderTemp");

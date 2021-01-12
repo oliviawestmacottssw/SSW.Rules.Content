@@ -9,20 +9,19 @@ authors: []
 related: []
 redirects:
 - extend-web-application-for-https
-- search---do-you-add-https-by-extending-web-application
 
 ---
 
 It is recommended to bind https by extending web applications in central admin site, rather than configuring in IIS
 
 <!--endintro-->
-<dl class="ssw15-rteElement-ImageArea"><img src="configurationInIIS.jpg" alt="configurationInIIS.jpg" style="margin:5px;width:653px;"></dl>
+![configurationInIIS.jpg](configurationInIIS.jpg)
 
 ::: bad
 Bad example: Add https binding in IIS
 :::
 
-<dl class="ssw15-rteElement-ImageArea"><img src="extendwebapplication.jpg" alt="extendwebapplication.jpg" style="margin:5px;width:808px;"></dl>
+![extendwebapplication.jpg](extendwebapplication.jpg)
 
 ::: good
 Good example: Extend web application and assign https to the Internet zone

@@ -15,7 +15,6 @@ authors:
 related: []
 redirects:
 - spec-do-you-create-an-initial-release-plan-and-ballpark
-- spec---what-are-the-specification-review-deliverables
 
 ---
 
@@ -24,10 +23,11 @@ Usually, a specification process is done with the client before beginning work o
 As you might appreciate, it is not realistic to understand the complexity of your system and give you a realistic estimate after a brief meeting. Our experience tells us we will need to spend a few days to obtain and document the requirements from your project’s stakeholders. This will help you turn your ideas into a more detailed roadmap. 
 
 <!--endintro-->
-<dl class="image" style="width:249px;clear:both;float:right;"><dt>
-      <img class="ms-rteCustom-ImageArea" alt="Remember, a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early" src="ProjectManagement_BallPark_Catch.jpg" border="0"> 
-   </dt><dd>
-       <strong>Figure: Remember, a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early by estimating too small</strong> </dd></dl>
+
+::: ok  
+![Figure: Remember, a batter aims to hit the ball way out of the ballpark. Don't set an indefensible boundary too early by estimating too small](ProjectManagement\_BallPark\_Catch.jpg)  
+:::  
+
 
 The deliverables for the Specification Review depend upon how large the application is and the time we have spent on the review.  You will receive the following:
 

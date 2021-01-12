@@ -13,8 +13,7 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects:
-- dones---do-you-reply-done-and-delete-the-original-email
+redirects: []
 
 ---
 
@@ -33,9 +32,11 @@ Read "[Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4
 **Note 1** : Only say done when the work is done. If you have added the email to your backlog or to-do list then instead of "Done", say "Added to backlog – URL is XXX".
 
 **Note 2:** For tasks that will take time to be completely done (E.g. Producing a video), you may send a "work in progress" email. This way you avoid giving the perception that no action was in relation to the task.
-<dl class="image"><dt> 
-      <img class="ms-rteCustom-ImageArea" alt="NOT Done Email" src="NotDone.jpg"> 
-   </dt><dd>Figure: Not Done Email </dd></dl>
+
+::: ok  
+![Figure: Not Done Email](NotDone.jpg)  
+:::  
+
 ### Tip 1: Say "Done" first
 
 
@@ -46,11 +47,15 @@ For clarity, "Done", "Not done", or "Partially Done" should be the first word(s)
 In any reply, include relevant information, such as the URL and the code or text that has been updated, which allows the person requesting the work to check what was done and allows for offline reading.
 
 [Use SnagIt with Balloons in screenshots](/Pages/HowToUseBalloons.aspx).
-<dl class="badImage"><dt> 
-      <img class="ms-rteCustom-ImageArea" alt="Bad Done Email" src="email_done_bad.JPG"> 
-   </dt><dd>Figure: Bad Example of a "Done" email.</dd></dl><dl class="goodImage"><dt> 
-      <img class="ms-rteCustom-ImageArea" alt="Good Done Email" src="email_done_good.JPG"> 
-   </dt><dd>Figure: Good Example of a "Done" email as it has both the link and the changed text.</dd></dl>
+
+::: bad  
+![Figure: Bad Example of a "Done" email.](email\_done\_bad.JPG)  
+:::  
+
+::: good  
+![Figure: Good Example of a "Done" email as it has both the link and the changed text.](email\_done\_good.JPG)  
+:::  
+
 If you find that you have already sent a "Done", and then the client asks you to undo the change, reply "Undone".
 
 ### Tip 3: Reply "Done" to multiple tasks
@@ -80,9 +85,9 @@ Damian
 
 Hi Bob,
 
->Change the logo on the SSW website to our new logo
+&gt;Change the logo on the SSW website to our new logo
 Done. See           [www.ssw.com.au](http://www.ssw.com.au/)
->Take a photo of you standing on your head
+&gt;Take a photo of you standing on your head
 Not Done. I couldn’t find a camera.
 
 Damian
@@ -134,7 +139,7 @@ All Done - See           [www.ssw.com.au](http://www.ssw.com.au/) for the new lo
 Damian
  Figure: Good example – If multiple tasks are 'done' with no need for extra explanation, you can combine them. It’s clear that all tasks have been done 
 
-### Tip 4: Reply "Done" if you have a task that is > 4 hours
+### Tip 4: Reply "Done" if you have a task that is &gt; 4 hours
 
 Ideally, all tasks should be less than 4 hours. If you are given a task that is going to take days, then split it following the     [4 hours rule](/spec-do-you-create-tasks-under-4-hours).
 
@@ -170,14 +175,14 @@ Done - There was a problem with the SQL. I added the line highlighted in        
 
 
 ```
-SELECTProdName = CASE WHEN Download.ProdCategoryID <> ''
+SELECT<br>ProdName = CASE WHEN Download.ProdCategoryID <> ''
 
-THEN ProdCategory.CategoryNameELSE Download.ProdName END,Downloads = (SELECT Count(*) FROM ClientDiaryWHERE ClientDiary.DownloadID = Download.DownloadID 
+THEN ProdCategory.CategoryName<br>ELSE Download.ProdName END,<br>Downloads = (SELECT Count(*) FROM ClientDiary<br>WHERE ClientDiary.DownloadID = Download.DownloadID 
 
-AND ClientDiary.CategoryID = 'DOWN'AND ClientDiary.DateCreated > '01/01/2000'AND ClientDiary.DateCreated < '01/01/2003')FROMDownloadLEFT JOIN ProdCategory 
+AND ClientDiary.CategoryID = 'DOWN'<br>AND ClientDiary.DateCreated > '01/01/2000'<br>AND ClientDiary.DateCreated < '01/01/2003')<br>FROM<br>Download<br>LEFT JOIN ProdCategory 
 ON Download.ProdCategoryID = ProdCategory.CategoryID    
 
-ORDER By Downloads DESC
+<span style="background-color:#ffff00;">ORDER By Downloads DESC</span>
 ```
 
 

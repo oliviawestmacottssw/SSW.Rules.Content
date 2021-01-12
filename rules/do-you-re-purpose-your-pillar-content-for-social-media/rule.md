@@ -67,7 +67,7 @@ This is the content that will be used to create all other types of content. They
 2. Create a Quotable Card with a great background image:
 
 - create a version of the video for Facebook, Twitter, LinkedIn and Instagram
-<dl class="ssw15-rteElement-ImageArea">       - write the copy for the update<img src="ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png" alt="ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png" style="font-weight:bold;margin:5px;width:500px;height:500px;"></dl>
+- write the copy for the update![ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png](ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png)
 
 ::: good
 Figure: Good example, create a version of the video for Facebook, Twitter, LinkedIn, and Instagram
@@ -79,7 +79,7 @@ Figure: Good example, create a version of the video for Facebook, Twitter, Linke
 
 
    3. Create a Giphy with one of the main points and a moving background video from the pillar content
-<dl class="ssw15-rteElement-ImageArea">       - write the copy for the update</dl><dl class="ssw15-rteElement-ImageArea"><span style="background-color:initial;"></span><span style="background-color:initial;"></span><span style="background-color:initial;"> 4. Create a blog post from the audio</span></dl>
+- write the copy for the update 4. Create a blog post from the audio
 - use Trint.com.to transcribe the video file and re-write the transcript as a blog post
 
 - Post the blog post to Medium.com, LinkedIn Articles, and your blog

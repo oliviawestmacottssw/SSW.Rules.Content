@@ -21,9 +21,11 @@ What do you do when you want images to link to your site? In the case of images,
 <!--endintro-->
 
 Hold the cursor over the image below and see what happens.
-<dl class="badImage"><dt>
-      <img src="../../assets/SSWLogo.png" data-pin-nopin="true" alt="">
-      <p class="ssw15-rteElement-CodeArea"><a href="/ssw/Default.aspx"><br>      <img src="logo.png"><br></a></p></dt><dd>Figure: Bad example - No attributes to the image</dd></dl><dl class="goodImage"><dt>
-      <img src="../../assets/SSWLogo.png" data-pin-nopin="true" alt="SSW Logo" title="SSW Logo">
-      <p class="ssw15-rteElement-CodeArea"><a href="/ssw/Default.aspx"><br>      <img src="logo.png"><mark>alt="SSW Logo"</mark><mark> title="SSW Logo"</mark> /><br></a></p></dt>
-   <dd>Figure: Good example - Search engines will index this text. Scroll over</dd></dl>
+
+::: bad  
+![&lt;a href="/ssw/Default.aspx"&gt;      &lt;img src="logo.png" /&gt;&lt;/a&gt;Figure: Bad example - No attributes to the image](../../assets/SSWLogo.png)  
+:::  
+
+::: good  
+![&lt;a href="/ssw/Default.aspx"&gt;      &lt;img src="logo.png"           alt="SSW Logo" title="SSW Logo" /&gt;&lt;/a&gt;    Figure: Good example - Search engines will index this text. Scroll over](../../assets/SSWLogo.png)  
+:::

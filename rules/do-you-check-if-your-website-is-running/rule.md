@@ -18,12 +18,35 @@ If you want to know your website is working or not, you need to add a ping check
 Follow these steps to check your website in WhatsUp:
 <!--endintro-->
 
-1. Add your website as a new device. <dl class="image"><dt> <img src="running1.GIF" alt="running1.GIF"> </dt><dd>Figure: New device</dd></dl>
-2. Ping monitor is added automatically. <dl class="image"><dt> <img src="running2.GIF" alt="running2.GIF"> </dt><dd>Figure: Ping monitor</dd></dl>
-3. Add an HTTP Content Scan monitor. <dl class="image"><dt> <img src="running3.GIF" alt="running3.GIF"> </dt><dd>Figure: HTTP Content Scan</dd></dl>
+1. Add your website as a new device. 
+::: ok  
+![Figure: New device](running1.GIF)  
+:::
+2. Ping monitor is added automatically. 
+::: ok  
+![Figure: Ping monitor](running2.GIF)  
+:::
+3. Add an HTTP Content Scan monitor. 
+::: ok  
+![Figure: HTTP Content Scan](running3.GIF)  
+:::
 4. Edit the scan script. In the script, you can see 2 keywords "Send" and "Expect".
 "Send" expression is an  HTTP request to your website.
 "Expect" expression is a regular expression to check the key word in response from your website.
- <dl class="image"><dt> <img src="running4.GIF" alt="running4.GIF"> </dt><dd>Figure: Edit scan script</dd></dl>
-5. Add the monitor to your device. <dl class="image"><dt> <img src="running5.GIF" alt="running5.GIF"> </dt><dd>Figure: Add monitor</dd></dl> Once a device is down or up, a WhatsUp action will tell SQL Reporting Services to send out a notification report. 
-Our report looks like this: <dl class="image"><dt> <img src="running6.GIF" alt="running6.GIF"> </dt><dd>Figure: Website doesn't work<br></dd></dl><dl class="image"><dt> <img src="running7.GIF" alt="running7.GIF"> </dt><dd>Figure: Website works</dd></dl>
+ 
+::: ok  
+![Figure: Edit scan script](running4.GIF)  
+:::
+5. Add the monitor to your device. 
+::: ok  
+![Figure: Add monitor](running5.GIF)  
+:::  
+ Once a device is down or up, a WhatsUp action will tell SQL Reporting Services to send out a notification report. 
+Our report looks like this: 
+::: ok  
+![Figure: Website doesn't work](running6.GIF)  
+:::  
+
+::: ok  
+![Figure: Website works](running7.GIF)  
+:::

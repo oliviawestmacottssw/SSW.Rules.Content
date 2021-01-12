@@ -28,7 +28,8 @@ Always assume that they have got it and read it and are interested. Try to resis
 
 :::
 
-<dd class="ssw15-rteElement-FigureBad">Figure&#58; Bad example - You never want them to say no to you. See the&#160;<a href="/build-a-yes-ladder-to-your-outbound-script">YES ladder</a>&#160;for more details<br></dd>
+Figure: Bad example - You never want them to say no to you. See the 
+ for more details[YES ladder](/build-a-yes-ladder-to-your-outbound-script)
 Make sure you've already sent them some form of direct marketing, then your introduction should sound like:
 
 

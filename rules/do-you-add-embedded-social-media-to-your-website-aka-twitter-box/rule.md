@@ -22,6 +22,9 @@ People don't go to your Twitter profile as often as they visit your website. It'
 <!--endintro-->
 
 Visit     https://dev.twitter.com/web/embedded-timelines to view instructions on creating your embedded Twitter timeline.
-<dl class="image"><dt><img src="sswtv-twitterbox.jpg" alt="sswtv-twitterbox.jpg"></dt><dd>Figure: SSW TV Twitter timeline on 
-      <a href="http://tv.ssw.com/" target="_blank">SSW TV website</a> sidebar</dd></dl>
+
+::: ok  
+![Figure: SSW TV Twitter timeline on        SSW TV website sidebar](sswtv-twitterbox.jpg)  
+:::  
+
 **Note:** Visit [Facebook's Page Plugin](https://developers.facebook.com/docs/plugins/page-plugin) to also integrate a Facebook Like Box to your website

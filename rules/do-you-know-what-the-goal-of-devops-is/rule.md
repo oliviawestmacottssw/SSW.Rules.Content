@@ -40,14 +40,4 @@ Your answer: "Yes I know. Each morning we check the health of the app and we alr
 :::
 
 
-Take this survey to find out your DevOps index: <br>      
-
-
- 
-
-
-
-
-
-
-<dl><dt><br></dt></dl>
+Take this survey to find out your DevOps index: <br>

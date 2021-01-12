@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- authentication---do-you-use-email-address-instead-of-user-name
+redirects: []
 
 ---
 
@@ -21,8 +20,11 @@ It is easier for users to remember their frequently accessed email address more 
 "I do recommend letting users enter their email address instead of a user ID: It's guaranteed to be unique and it is easy to remember."
 
 **Jakob Nielsen** ,  Ph.D. and Principal at Nielsen Norman Group
-<dl class="badImage"><dt> 
-      <img src="bad-username.jpg" alt="">
-   </dt><dd> Figure: Bad example - users have to remember which username applies to this particular website</dd></dl><dl class="goodImage"><dt> 
-      <img src="good-email.jpg" alt="">
-   </dt><dd> Figure: Good example - users will always remember their primary email address</dd></dl>
+
+::: bad  
+![Figure: Bad example - users have to remember which username applies to this particular website](bad-username.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - users will always remember their primary email address](good-email.jpg)  
+:::

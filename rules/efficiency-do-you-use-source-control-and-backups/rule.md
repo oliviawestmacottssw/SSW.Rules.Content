@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-use-source-control-and-backups
-- efficiency---do-you-use-source-control-and-backups
 
 ---
 
@@ -27,8 +26,7 @@ If you are working onsite, you can still use TFS remotely and it's important to 
 
 
 
-
-![](Backup.gif)
+![Backup.gif](Backup.gif)
 
 
 ::: good

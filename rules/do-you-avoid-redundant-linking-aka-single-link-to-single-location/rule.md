@@ -20,8 +20,17 @@ Often pages have 2 or 3 links pointing to the same page -       all fairly close
 
 
 <!--endintro-->
-<dl class="bad"><br><br>::: greybox<br>
-       <strong><a href="http&#58;//www.ssw.com.au/ssw/Hosting/Default.aspx">SSW Web Hosting</a></strong> <br> SSW offers competitive, high performance 
-      <a href="http&#58;//www.ssw.com.au/ssw/Hosting/Default.aspx">Windows hosting plans</a>. We use Windows 2003 Servers with the latest security patches and SQL Server 2005 SP1. Our Data center has multiple redundant connections to major backbones, and our support staff are Microsoft Certified. 
-      <a href="http&#58;//www.ssw.com.au/ssw/Hosting/Default.aspx">View more about our hosting plans</a><br>:::<br><br><dd>Figure&#58; Bad example - Redundant links nearby that point to the same page</dd></dl><dl class="good"><br><br>::: greybox<br>
-       <strong><a href="http&#58;//www.ssw.com.au/ssw/Hosting/Default.aspx">SSW Web Hosting</a></strong> <br> SSW offers competitive, high performance Windows hosting plans. We use Windows 2003 Servers with the latest security patches and SQL Server 2005 SP1. Our Data center has multiple redundant connections to major backbones, and our support staff are Microsoft Certified.<br>:::<br><br><dd>Figure&#58; Good example - One link results in clear and readable text </dd></dl>
+
+Figure: Bad example - Redundant links nearby that point to the same page
+
+:::
+[View more about our hosting plans](http&#58;//www.ssw.com.au/ssw/Hosting/Default.aspx). We use Windows 2003 Servers with the latest security patches and SQL Server 2005 SP1. Our Data center has multiple redundant connections to major backbones, and our support staff are Microsoft Certified.[Windows hosting plans](http&#58;//www.ssw.com.au/ssw/Hosting/Default.aspx)SSW offers competitive, high performance
+ **[SSW Web Hosting](http&#58;//www.ssw.com.au/ssw/Hosting/Default.aspx)** 
+::: greybox
+
+Figure: Good example - One link results in clear and readable text
+
+:::
+SSW offers competitive, high performance Windows hosting plans. We use Windows 2003 Servers with the latest security patches and SQL Server 2005 SP1. Our Data center has multiple redundant connections to major backbones, and our support staff are Microsoft Certified.
+ **[SSW Web Hosting](http&#58;//www.ssw.com.au/ssw/Hosting/Default.aspx)** 
+::: greybox

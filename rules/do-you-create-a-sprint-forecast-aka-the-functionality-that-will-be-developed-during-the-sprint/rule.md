@@ -55,23 +55,31 @@ The Team will do its best to deliver this set of features (Scope), to a defined 
 | **<font face="Calibri">ID</font>** | **<font face="Calibri">Title</font>** | <font face="Calibri"> <b>State</b> </font> | **<font face="Calibri">Effort</font>** |
 | --- | --- | --- | --- |
 | <font face="Calibri"> </font> | <font face="Calibri"> </font> | <font face="Calibri"> </font> | <font face="Calibri"> </font> |
-| <font face="Calibri"> </font> | <font face="Calibri">< generate this table as per the instruction on the rule below ></font> | <font face="Calibri"> </font> | <font face="Calibri"> </font> |
+| <font face="Calibri"> </font> | <font face="Calibri">&lt; generate this table as per the instruction on the rule below &gt;</font> | <font face="Calibri"> </font> | <font face="Calibri"> </font> |
 | <font face="Calibri"> </font> | <font face="Calibri"> </font> | <font face="Calibri"> </font> |  |
 
 
 **Figure: The sprint backlog**
 
-<this is="" as="" per="" rule:=""></this>[https://rules.ssw.com.au/do-you-create-a-sprint-forecast-(aka-the-functionality-that-will-be-developed-during-the-sprint)](/do-you-create-a-sprint-forecast-aka-the-functionality-that-will-be-developed-during-the-sprint) />
+&lt;This is as per rule:        [https://rules.ssw.com.au/do-you-create-a-sprint-forecast-(aka-the-functionality-that-will-be-developed-during-the-sprint)](/do-you-create-a-sprint-forecast-aka-the-functionality-that-will-be-developed-during-the-sprint) /&gt;
 
-<font class="ms-rteCustom-FigureGood"> 
-    <strong>Figure: Good Example - copy this as email template and send to Product Owner. <br></strong> <strong>Subject: <client name="">: Sprint xxx Forecast</client></strong> </font>
+
+
+::: good
+ **Figure: Good Example - copy this as email template and send to Product Owner. 
+** **Subject: &lt;Client Name&gt;: Sprint xxx Forecast** 
+:::
+
+
 Tip: Use this     [Outlook email template](/Documents/SprintContract.oft "Email Template")
 
 More instructions are as below:
 
 1. Go to Azure DevOps and navigate to the current sprint's backlog view. E.g. https://dev.azure.com/Northwind/ProjectName/\_sprints/backlog/Northwind/ProjectName/Sprint%201
 2. Paste to the Forecast email, and format the table:
-    * Remove any useless columns
-![](Sprint forecast example table.jpg)
+    * Remove any useless columns![Good Example of a Table](Sprint forecast example table.jpg)
 
-    <font class="ms-rteCustom-FigureGood">Figure: Good Example of a Table<br></font>
+    ::: good
+Figure: Good Example of a Table
+
+:::

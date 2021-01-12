@@ -7,8 +7,7 @@ uri: column-data-do-you-know-when-to-use-columns-or-text
 created: 2012-11-27T01:59:48.0000000Z
 authors: []
 related: []
-redirects:
-- column-data---do-you-know-when-to-use-columns-or-text
+redirects: []
 
 ---
 
@@ -20,5 +19,7 @@ It's OK to use text because it's more natural, but use columns if you need:
 
 
 <!--endintro-->
-<dl class="Image"><dt><img alt="Bad alignment" src="../../assets/ColumnsText.jpg"></dt>
-<dd>Figure: While text looks friendlier, in terms of presenting data it's not the easiest to read</dd></dl>
+
+::: ok  
+![Figure: While text looks friendlier, in terms of presenting data it's not the easiest to read](../../assets/ColumnsText.jpg)  
+:::

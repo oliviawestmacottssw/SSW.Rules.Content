@@ -14,6 +14,4 @@ redirects:
 
 To improve performance, it's a good idea to disable NetBIOS over TCP/IP on your cluster NIC and iSCSI NIC. NetBIOS isn't used in Server 2008 R2 clusters. 
 <!--endintro-->
-
-[[goodExample]]
-| ![the NetBIOS is disabled on the dedicated NIC's](disable-netbios.jpg)(iSCSI & Cluster Communications)
+![Disable netBIOS](disable-netbios.jpg)Figure: Good example – the NetBIOS is disabled on the dedicated NIC's (iSCSI & Cluster Communications)

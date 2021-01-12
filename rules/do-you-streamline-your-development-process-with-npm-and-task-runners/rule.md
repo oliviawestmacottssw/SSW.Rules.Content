@@ -39,8 +39,9 @@ With NPM, we specify the name of the package and the version number we want to u
 
 
 
+![bower json.png](../../assets/J6Na8pCSdsCvnIzhWHXLpbjtZd6Jp54rITnBd47JVS_7fDCcThur_Mwb3XmbCucETMHzGO7IGJFU3cUZZYJ1xr3-A_Rj9mzZkgXMWHD0B3hAWKS9gUXveakUU52HFdH_c8a2y8I.jpg)
 
-![Example of NPM in action](../../assets/J6Na8pCSdsCvnIzhWHXLpbjtZd6Jp54rITnBd47JVS_7fDCcThur_Mwb3XmbCucETMHzGO7IGJFU3cUZZYJ1xr3-A_Rj9mzZkgXMWHD0B3hAWKS9gUXveakUU52HFdH_c8a2y8I.jpg)
+Figure: Example of NPM in action
 
 
 
@@ -52,15 +53,17 @@ There are a heap of different task runners out there, the two best known are Gul
 
 
 
+![gulp vs grunt.png](../../assets/sJslIcCSh-m6MaqGaIfMaECtlFQKmQa8Nb5LyLH9HhUxFE-64TlBlmdmq551WXY1wJa9pcGwQd8aXG4fFM2fWy-0R3kqPmCZO09Y0HJ3HfRxp0VHOkpX7q-MkZ2sc3h91nFG5tw.jpg)
 
-![In short they both perform the same job but Gulp is faster and requires less configuration](../../assets/sJslIcCSh-m6MaqGaIfMaECtlFQKmQa8Nb5LyLH9HhUxFE-64TlBlmdmq551WXY1wJa9pcGwQd8aXG4fFM2fWy-0R3kqPmCZO09Y0HJ3HfRxp0VHOkpX7q-MkZ2sc3h91nFG5tw.jpg)
+Figure: In short they both perform the same job but Gulp is faster and requires less configuration
 
 
 
 For example, we could previously use web essentials to do a lot of the necessary bundling and automation, but this was killed off at the start of 2015.
 
+![removed features.png](../../assets/yby2R29SDq_lu7nIv10InLfsVF4PNx4ISPoNm5RHCgVgC2ES5cwPm0oEj-nPPUIzWW47WHnsY4r4n_FVT69vKNAO34JV_ZhNyQX6rYd8-QlidccZ1tqwedf5ZuaST-cpW5yF3w8.jpg)
 
-![The updated feature list for Web Essentials 2015](../../assets/yby2R29SDq_lu7nIv10InLfsVF4PNx4ISPoNm5RHCgVgC2ES5cwPm0oEj-nPPUIzWW47WHnsY4r4n_FVT69vKNAO34JV_ZhNyQX6rYd8-QlidccZ1tqwedf5ZuaST-cpW5yF3w8.jpg)
+Figure: The updated feature list for Web Essentials 2015
 
 
 

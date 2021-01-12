@@ -17,7 +17,6 @@ authors:
 related: []
 redirects:
 - angular-the-stuff-to-install
-- tools---do-you-know-what-angular-tools-to-install-for-an-angular-project
 
 ---
 
@@ -56,7 +55,7 @@ Check that you are running NPM 6+ by running the following from a terminal/conso
 
 npm -v
 
-If you have a version of NPM < 6, install the latest version running the following command from a terminal/console window. If you don’t have NPM installed, use the Node.js installer to install NPM.
+If you have a version of NPM &lt; 6, install the latest version running the following command from a terminal/console window. If you don’t have NPM installed, use the Node.js installer to install NPM.
 
 npm install -g npm@latest
 
@@ -84,7 +83,11 @@ npm install -g @angular/cli@latest
 Upgrading the global Angular CLI version will not affect the version of the Angular CLI being used by existing local project.  Multiple versions of the Angular CLI can run on the same machine, and the project specific version of Angular CLI will continue to be used by the project until you manually upgrade the project’s local version.
 
 Instructions for upgrading the Angular CLI of an existing project can be found here: [https://update.angular.io](https://update.angular.io/)
-<dl class="image"><dt> <img src="angular-cli-8.3.2x.png" alt="angular-cli-8.3.2x.png" style="margin:5px;"> <br></dt><dd>Figure: Running “ng v” (or any other ng command) in the command-line of an older Angular CLI project will give you a warning that the global version is greater than the local version (see yellow text in the screenshot)<br></dd></dl>
+
+::: ok  
+![Figure: Running “ng v” (or any other ng command) in the command-line of an older Angular CLI project will give you a warning that the global version is greater than the local version (see yellow text in the screenshot)](angular-cli-8.3.2x.png)  
+:::  
+
 ### Getting errors?
 
 

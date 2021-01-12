@@ -21,13 +21,19 @@ A great way of collaborating with a team or presenting a new solution to a clien
 Using a whiteboard is a great way of collaborating and brainstorming which works quite well. But a physical whiteboard is a large ugly object that takes up a fair amount of room, often isn’t kept clean, and doesn’t allow for people to collaborate remotely. There are modern alternatives that work even better, let's have a look at them.
 
 Software consultants often use architecture diagrams to present a solution to the client. These graphical representations are used to help all of the stakeholders, the developers, the designers, and the clients visualize the high-level structure of the system or application to ensure it covers all of the client requirements.
-<dl class="badImage"><dt> 
-      <img src="hand-drawing.png" alt="hand_drawn_diagram.png" style="width:750px;"> 
-   </dt><dd>Figure: Bad example - When working with people online, drawing on some paper, taking a photo, and emailing it… is the *least* collaborative way to work<br></dd></dl><dl class="image"><dt>
-      <img src="team_whiteboard.jpg" alt="" style="width:750px;"> 
-   </dt><dd>Figure: OK example - Teams Whiteboard is a good collaborating tool while working online. (Using a mouse is not pleasant, and a computer pen is not really natural for complex diagrams 🔥)<br></dd></dl><dl class="goodImage"><dt> 
-      <img src="architecture_diagram.png" alt="architecture_diagram.png" style="width:750px;"> 
-   </dt><dd>Figure: Good example - An architecture diagram exists on established projects after many discussions<br></dd></dl>
+
+::: bad  
+![Figure: Bad example - When working with people online, drawing on some paper, taking a photo, and emailing it… is the \*least\* collaborative way to work](hand-drawing.png)  
+:::  
+
+::: ok  
+![Figure: OK example - Teams Whiteboard is a good collaborating tool while working online. (Using a mouse is not pleasant, and a computer pen is not really natural for complex diagrams 🔥)](team\_whiteboard.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - An architecture diagram exists on established projects after many discussions](architecture\_diagram.png)  
+:::  
+
 <!--endintro-->
 
 ### #1 Laptop and cast to a monitor (recommended) ⭐️ 
@@ -47,23 +53,34 @@ Using your laptop or Ipad and then sharing your screen in a remote meeting and i
  **Note:** these work fine with a mouse, they work even better with touch screens, or pens/styluses
 
 
-<dl class="image">      <dt> 
-        <img src="surface-pen.jpg" alt="surface-pen.jpg" style="width:750px;height:563px;">
-      </dt><dd>Figure: Pens/Styluses help to draw better sketches<br></dd></dl>
-<dl class="image"><dt><div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify s4-wpActive" unselectable="on"> 
-         <br>`youtube: https://www.youtube.com/embed/qDqtWRu0rTA`<br>
-         <br unselectable="on"> </div></dt><dd> Figure: Using Whiteboard in Microsoft Teams </dd></dl><dl class="image"><dt><div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify" unselectable="on"> 
-         <br>`youtube: https://www.youtube.com/embed/JsaqPiqBxPY`<br>
-         <br unselectable="on"> </div></dt><dd> Figure: Using Microsoft Whiteboard App </dd></dl> #2 Tech Whiteboard replacement
+
+::: ok  
+![Figure: Pens/Styluses help to draw better sketches](surface-pen.jpg)  
+:::  
+
+
+::: ok  
+![`youtube: https://www.youtube.com/embed/qDqtWRu0rTA`            Figure: Using Whiteboard in Microsoft Teams](samsung\_flip.jpg)  
+:::  
+
+::: ok  
+![`youtube: https://www.youtube.com/embed/JsaqPiqBxPY`            Figure: Using Microsoft Whiteboard App](samsung\_flip.jpg)  
+:::  
+ #2 Tech Whiteboard replacement
 * **Samsung Flip** ($3k AUD)
-<dl class="image"><dt><div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify" unselectable="on"> 
-               <br>`youtube: https://www.youtube.com/embed/lZgVAbdwYNI`<br>
-               <br unselectable="on"> </div></dt><dd> Figure: Using Samsung Flip </dd></dl><dl class="image"><dt> 
-            <img src="samsung_flip.jpg" alt="samsung_flip.jpg" style="width:730px;height:487px;"> 
-         </dt><dd>Figure: Samsung Flip can be flipped from horizontal to vertical<br></dd></dl>
+
+::: ok  
+![`youtube: https://www.youtube.com/embed/lZgVAbdwYNI`<br>                 Figure: Using Samsung Flip](samsung\_flip.jpg)  
+:::  
+
+::: ok  
+![Figure: Samsung Flip can be flipped from horizontal to vertical](samsung\_flip.jpg)  
+:::
 * **Microsoft Surface Hub 2** (about $12K AUD)
-<dl class="image"><dt><div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify"> 
-               <br>`youtube: https://www.youtube.com/embed/GSUHgrjwBb4`<br> </div></dt><dd>Figure: Using Microsoft Surface Hub<br></dd></dl>
+
+::: ok  
+![`youtube: https://www.youtube.com/embed/GSUHgrjwBb4` Figure: Using Microsoft Surface Hub](paperboard.jpg)  
+:::
 
 
 ### #3 Paper Whiteboard (Low tech – a large piece of paper)
@@ -72,10 +89,11 @@ Using your laptop or Ipad and then sharing your screen in a remote meeting and i
 Old school but it is great to have a pen in hand, you can always just grab a big piece of paper and draw on it together.
 
 Bear in mind that paper is not ideal because you can’t wipe it out... you have to start again #ouch
-<dl class="image"><dt> 
-      <img src="paperboard.jpg" alt="paperboard.jpg"> 
-      <br> 
-   </dt><dd>Figure: Paper whiteboards don't work when someone is in Sydney and the other attendee is in Melbourne</dd></dl>
+
+::: ok  
+![Figure: Paper whiteboards don't work when someone is in Sydney and the other attendee is in Melbourne](paperboard.jpg)  
+:::  
+
 
 
 ### #4 Whiteboard and marker - Low tech (ugly) 
@@ -89,14 +107,16 @@ I believe whiteboards are a sign of an old office… and they are ugly. They’r
 Sometimes they are useful and I know some people really like them (generally older people).
 I have seen the digital whiteboards (usually targeted at teachers) but I think they are horrible to use.
 The common scenario is for a spec review. I am always happy when I see devs using their device and casting to the TV. And the subsequent notes get saved to Microsoft Teams.
-<dl class="image"><dt> 
-      <img src="whiteboard_marker.png" alt="whiteboard_marker.png" style="width:750px;height:480px;"> 
-      <br> 
-   </dt><dd>Figure: Whiteboards are not a sign of a modern office.<br></dd></dl>
+
+::: ok  
+![Figure: Whiteboards are not a sign of a modern office.](whiteboard\_marker.png)  
+:::  
+
 ### #5 Writable wall -  Low tech (ugly)
 
 
 Low tech (ugly) – Paint a wall to be writable or put some writable film on an office glass wall
-<dl class="image"><dt>
-      <img src="glass_wall.jpg" alt="writable-walls.jpg" style="width:750px;height:480px;">
-   </dt><dd>Figure: Writable walls can be dirty even after cleaning up<span style="color:#444444;"> </span></dd></dl>
+
+::: ok  
+![Figure: Writable walls can be dirty even after cleaning up](glass\_wall.jpg)  
+:::

@@ -37,22 +37,28 @@ This is the most common and the worst. This is bad because it requires manual ef
 
 
 
-<dl class="badImage"><dt> 
-      <img src="azure resources.gif" alt="create-azure-bad1.png" style="width:609px;"> 
-   </dt><dd>Figure: Bad Example – creating resources manually </dd></dl>
+
+::: bad  
+![Figure: Bad Example – creating resources manually](azure resources.gif)  
+:::  
+
 ### Manually creating and saving the script
 
 
 
 
 Some people half solve the problem by manually creating and saving the script. This is also bad because it’s like eating ice cream and brushing your teeth – it doesn’t solve the      **health** problem.
-<dl class="badImage"><dt> 
-      <img src="create-azure-bad2.png" alt="create-azure-bad2.png" style="width:750px;"> 
-   </dt><dd>Figure: Bad Example – Exporting your Resource Group as an ARM template defined in JSON<br><br></dd></dl>
 
-<dl class="badImage"><dt> 
-      <img src="create-azure-bad3.png" alt="create-azure-bad3.png" style="width:750px;"> 
-   </dt><dd>Figure: Warning - often templates don't work and need to be manually tweaked<br></dd></dl>
+::: bad  
+![Figure: Bad Example – Exporting your Resource Group as an ARM template defined in JSON](create-azure-bad2.png)  
+:::  
+
+
+
+::: bad  
+![Figure: Warning - often templates don't work and need to be manually tweaked](create-azure-bad3.png)  
+:::  
+
 * **Warning:** The templates are crazy verbose
 
 
@@ -60,14 +66,16 @@ Some people half solve the problem by manually creating and saving the script. T
 
 
 ::: greybox
-**Tip:** Save scripts in a folder called Azure
+ **Tip:** Save scripts in a folder called Azure
 :::
 
 
 
-<dl class="goodImage"><dt> 
-      <img src="azure folder1.png" alt="create-azure-timepro.png" style="width:750px;height:410px;"> 
-   </dt><dd>Figure: Good example - However you generate your ARM template, save it in an Azure folder like this example (SSW TimePro)<br></dd></dl>
+
+::: good  
+![Figure: Good example - However you generate your ARM template, save it in an Azure folder like this example (SSW TimePro)](azure folder1.png)  
+:::  
+
 
 
 So if you aren't manually creating your Azure resources, what options do you have?
@@ -114,9 +122,11 @@ https://github.com/Azure/bicep
 
 
 
-<dl class="goodImage"><dt> 
-      <img src="goldie rules.png" alt="create-azure-good1.png" style="width:750px;height:1050px;"> 
-   </dt><dd>Figure: Good Example – using Farmer to define your ARM template in F# code<br></dd></dl>
+
+::: good  
+![Figure: Good Example – using Farmer to define your ARM template in F# code](goldie rules.png)  
+:::  
+
 ### Option E: Pulumi (Recommended)
 
 
@@ -125,9 +135,13 @@ https://github.com/Azure/bicep
 * It's a great tool that uses real code (C#, TypeScript, Go, and Python) as infrastructure rather than JSON/YAML
 * Abstracts the entire Azure REST API to the language of your choice (see above)
 * Includes a tool for converting your existing JSON ARM templates into code: [Arm2Pulumi](https://www.pulumi.com/arm2pulumi/)
-* Free for individual developers (even for commercial use), but is a paid product for teams > 1
+* Free for individual developers (even for commercial use), but is a paid product for teams &gt; 1
 
-<dl class="ssw15-rteElement-ImageArea">   <img src="pulumi3.png" alt="pulimi1.png" style="margin:5px;width:750px;height:924px;"></dl>
+
+::: ok  
+![](pulumi3.png)  
+:::  
+
 
 ::: good
 Figure: Good Example - Code from the Pulumi Azure NextGen provider demo with Azure resources defined in C#
@@ -136,7 +150,11 @@ Figure: Good Example - Code from the Pulumi Azure NextGen provider demo with Azu
 
 
 
-<dl class="ssw15-rteElement-ImageArea">   <img src="pulumi2.png" alt="pulumi2.png" style="margin:5px;width:750px;height:601px;"></dl>
+
+::: ok  
+![](pulumi2.png)  
+:::  
+
 
 ::: good
 Figure: Good Example - From the console simply run 'pulumi up' to deploy your resources to Azure
@@ -149,10 +167,11 @@ Figure: Good Example - From the console simply run 'pulumi up' to deploy your re
 ###  What’s Mainstream?
 
 It’s early days so     [not much help (from Google trends)](https://trends.google.com/trends/explore?q=azure%20pulumi%2cazure%20teraform%2cazure%20ansible%2cazure%20farmer%E2%80%8B) yet.
-<dl class="image"><dt>
-      <img src="google trends.png" alt="Screen Shot 2020-10-06 at 1.00.12 PM.png" style="width:750px;height:447px;">
-      <br>
-   </dt> <strong>Figure: Google Trends shows that Terraform is the most searched for as it’s been around the longest and is well established<br></strong> </dl>
+
+::: ok  
+![Figure: Google Trends shows that Terraform is the most searched for as it’s been around the longest and is well established](google trends.png)  
+:::  
+
 ### General Tips
 
 

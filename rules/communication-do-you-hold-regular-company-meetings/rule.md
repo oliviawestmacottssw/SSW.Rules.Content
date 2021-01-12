@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - do-you-hold-regular-company-meetings
-- communication---do-you-hold-regular-company-meetings
 
 ---
 
@@ -28,7 +27,7 @@ There may also be time for a couple of other people to address everyone if there
 So that it doesn't impact client work too much, it's generally best if this meeting can be timeboxed to about 1 hour and be held over lunch.
 
 After each meeting, the organizer should set the date for the next one and send out an appointment with a "Skype Meeting" request, so available people can simply click the "Join Meeting" link to join, as this saves time and makes the beginning of the meeting run smoothly.
-<dl class="ssw15-rteElement-ImageArea"> <img src="SkypeForBusinessMeeting.png" alt="SkypeForBusinessMeeting.png" style="width:750px;height:258px;"> </dl>
+![SkypeForBusinessMeeting.png](SkypeForBusinessMeeting.png)
 
 ::: good
 Figure: Good Example - Use the inbuilt Skype Meeting functionality to make sure no one gets left out
@@ -46,7 +45,7 @@ If you’re at SSW Sydney on the day, come to the Chapel, otherwise, click the l
  
 Let me know if you want any topics raised.
  
-< This is as per the rule [https://rules.ssw.com.au/do-you-hold-regular-company-meetings](/do-you-hold-regular-company-meetings) >
+&lt;This is as per the rule [https://rules.ssw.com.au/do-you-hold-regular-company-meetings](/do-you-hold-regular-company-meetings) &gt;
 
 
 ::: good

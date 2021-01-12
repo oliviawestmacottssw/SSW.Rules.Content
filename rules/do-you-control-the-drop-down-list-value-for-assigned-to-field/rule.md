@@ -18,25 +18,23 @@ redirects: []
 ---
 
 The default WIT doesn’t control the valid drop down items in Assigned To filed, this will introduce unnecessary items to be shown in the list which will make your users confused, e.g. TFSBUILD, tfsBuildService should never be used to assign a job.
-
-[[badExample]]
-| ![shown unnecessary values](UnnecessaryValue.png)
+![UnnecessaryValue.png](UnnecessaryValue.png)
+Figure: Bad Example – shown unnecessary values
 <!--endintro-->
  You can add the following XML in the Assigned To filed definition to control the valid values:
 
-<FIELD name="Assigned To" refname="System.AssignedTo" type="String" reportable="dimension" syncnamechanges="true">
-<ALLOWEXISTINGVALUE />
-  <REQUIRED />
-  <ALLOWEXISTINGVALUE />
-  <VALIDUSER />
-  <ALLOWEDVALUES expanditems="true" filteritems="excludegroups">
-        <LISTITEM value="Active" />
-        <LISTITEM value="[project]\xxxxDepNamexxxxGroup" />
-ALLOWEDVALUES>
-FIELD> 
+&lt;FIELD name="Assigned To" refname="System.AssignedTo" type="String" reportable="dimension" syncnamechanges="true"&gt;
+&lt;ALLOWEXISTINGVALUE /&gt;
+  &lt;REQUIRED /&gt;
+  &lt;ALLOWEXISTINGVALUE /&gt;
+  &lt;VALIDUSER /&gt;
+  &lt;ALLOWEDVALUES expanditems="true" filteritems="excludegroups"&gt;
+        &lt;LISTITEM value="Active" /&gt;
+        &lt;LISTITEM value="[project]\xxxxDepNamexxxxGroup" /&gt;
+  &lt;/ALLOWEDVALUES&gt;
+&lt;/FIELD&gt; 
 
 Figure: Use ALLOWEDVALUES to control the values in Assigned to field
 
-
-[[goodExample]]
-| ![shown necessary values](ShowNecessaryUser.png)
+![ShowNecessaryUser.png](ShowNecessaryUser.png)
+Figure: Good Example – shown necessary values

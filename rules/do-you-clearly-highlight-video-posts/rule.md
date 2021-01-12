@@ -18,4 +18,11 @@ We all know the feeling after a long day... Exhausted, we wander the internet, l
 <!--endintro-->
 
 One simple way to do this is to make sure that the first word of your blog post is " **VIDEO –** ".
-<dl class="badImage"><dt><img src="Stevo-Bad-blog.png" alt="Stevo-Bad-blog.png"></dt><dd>Bad example: Great content, but from the title you would be unable to tell that this is a video  </dd></dl> <dl class="goodImage"> <dt><img src="Chris-Good-blog.png" alt="Chris-Good-blog.png"> </dt><dd> Good example: Easy to see from the title that this includes a video</dd></dl>
+
+::: bad  
+![Bad example: Great content, but from the title you would be unable to tell that this is a video](Stevo-Bad-blog.png)  
+:::  
+ 
+::: good  
+![Good example: Easy to see from the title that this includes a video](Chris-Good-blog.png)  
+:::

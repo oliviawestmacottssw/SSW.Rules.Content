@@ -45,14 +45,14 @@ Be aware that just sharing random or any images will not set your social media a
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="Screen Shot 2020-04-23 at 3.42.25 pm.png" alt="Screen Shot 2020-04-23 at 3.42.25 pm.png" style="margin:5px;"></dl>
+![Screen Shot 2020-04-23 at 3.42.25 pm.png](Screen Shot 2020-04-23 at 3.42.25 pm.png)
 
 ::: bad
 Bad Example: Social media post without an image - Less engagement
 
 :::
 
-<dl class="ssw15-rteElement-ImageArea"><img src="Screen Shot 2020-04-23 at 3.45.49 pm.png" alt="Screen Shot 2020-04-23 at 3.45.49 pm.png" style="margin:5px;"></dl>
+![Screen Shot 2020-04-23 at 3.45.49 pm.png](Screen Shot 2020-04-23 at 3.45.49 pm.png)
 
 ::: good
 Good Example: Social media post with a video - Better engagement

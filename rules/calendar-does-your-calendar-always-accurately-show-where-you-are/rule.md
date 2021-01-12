@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- calendar---does-your-calendar-always-accurately-show-where-you-are
+redirects: []
 
 ---
 
@@ -29,4 +28,7 @@ Read rule:     [Do you allow full access to Calendar Admins?](/Pages/Allow-full-
 
 **Step 4:** Send your leave appointments to a centralized leave calendar
 Read rule:     [Do you use a centralized leave calendar?](/Pages/Inform-when-you-are-out-of-the-office-during-work-hours.aspx)
-<dl class="image"><dt><img src="calendar-accurately-show-where-you-are.jpg" alt="" style="width:800px;"></dt><dd>Figure:  Keep your calendar up-to-date and set to share, so people can always find where you are<br></dd></dl>
+
+::: ok  
+![Figure:  Keep your calendar up-to-date and set to share, so people can always find where you are](calendar-accurately-show-where-you-are.jpg)  
+:::

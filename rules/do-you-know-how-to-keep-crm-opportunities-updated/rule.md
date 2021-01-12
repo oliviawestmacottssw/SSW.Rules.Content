@@ -29,7 +29,6 @@ This simple service allows users to be notified the next time they need to conta
 
 If you do miss any opportunities by accidentally forgetting to set a followupthen, you should have a Power BI report to help you catch any that fall through the cracks.
 
-
 ![](Neglected Opportunities.jpg)
 
 

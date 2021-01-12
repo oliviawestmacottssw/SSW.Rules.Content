@@ -11,12 +11,14 @@ authors:
 - title: Mehmet Ozdemir
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
-redirects:
-- project-planning---do-you-download-a-copy-of-the-microsoft-crm-implementation-guide
+redirects: []
 
 ---
 
 The [Microsoft Dynamics 365 Implementation Guide](https://www.microsoft.com/en-us/download/details.aspx?id=50039%22%20%5co%20%22https://www.microsoft.com/en-us/download/details.aspx?id=50039) contains essential information on installation pre-requisites and planning, implementation tools and troubleshooting.
 
 <!--endintro-->
-<dl class="image"><dt><img src="microsoft-dynamics-365-implementation-guide-screenshot-contents.png" alt="microsoft-dynamics-365-implementation-guide-screenshot-contents.png" style="width:750px;"></dt><dd>Figure: Searching the PDF version of the implementation guide is much nicer than the Word document</dd></dl>
+
+::: ok  
+![Figure: Searching the PDF version of the implementation guide is much nicer than the Word document](microsoft-dynamics-365-implementation-guide-screenshot-contents.png)  
+:::

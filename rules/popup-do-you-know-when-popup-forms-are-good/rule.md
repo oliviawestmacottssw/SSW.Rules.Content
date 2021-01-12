@@ -7,8 +7,7 @@ uri: popup-do-you-know-when-popup-forms-are-good
 created: 2012-11-27T04:19:40.0000000Z
 authors: []
 related: []
-redirects:
-- popup---do-you-know-when-popup-forms-are-good
+redirects: []
 
 ---
 
@@ -29,7 +28,13 @@ Popup forms are good:
 * if they can't get lost behind another window
 * if you make them clear by dimming the background (see below)
 
-<dl class="badImage"><dt><img alt="Adobe Illustrator" src="../../assets/Popup01.jpg" style="width:600px;"></dt>
-<dd>Figure: Bad example - if this was a popup form it would be easier to focus on where to look (as a minimum you would be looking at half the screen)</dd></dl><dl class="goodImage"><dt><img alt="Adobe Illustrator" src="../../assets/Popup02.jpg"></dt>
-<dd>Figure: Good example - the popup with the dimmed background is much more intuitive</dd></dl>
+
+::: bad  
+![Figure: Bad example - if this was a popup form it would be easier to focus on where to look (as a minimum you would be looking at half the screen)](../../assets/Popup01.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - the popup with the dimmed background is much more intuitive](../../assets/Popup02.jpg)  
+:::  
+
 For example, adding a webpart in SharePoint 2010 should use a popup form. [See our suggestion to Microsoft](http://www.ssw.com.au/ssw/standards/BetterSoftwareSuggestions/sharepoint.aspx#PopupForm).

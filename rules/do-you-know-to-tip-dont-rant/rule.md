@@ -21,9 +21,16 @@ Probably the best reason to blog is when you have made a mistake, especially if 
 
 Turn a rant into a tip…
 
-
-![](RulesBloggingTipBad.jpg "SNAGHTML1b864a4")
-<font class="ms-rteCustom-FigureBad">Figure: Bad example – It is too easy to rant </font>
+![SNAGHTML1b864a4](RulesBloggingTipBad.jpg "SNAGHTML1b864a4")
 
 
-![](RulesBloggingTipGood.jpg "SNAGHTML1b94284")<font class="ms-rteCustom-FigureGood">Figure: Good example – What started out as a rant about Plaxo became a tip on how to get round it<br></font>
+::: bad
+Figure: Bad example – It is too easy to rant
+:::
+
+![SNAGHTML1b94284](RulesBloggingTipGood.jpg "SNAGHTML1b94284")
+
+::: good
+Figure: Good example – What started out as a rant about Plaxo became a tip on how to get round it
+
+:::

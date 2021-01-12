@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - use-sql-views
-- views---do-you-use-sql-views
 
 ---
 
@@ -93,7 +92,9 @@ UPDATE vwProductsNorthwind SET Cost = @ItemCost WHERE Id = @ItemId;
 
 DELETE vwProductsNorthwind WHERE Id = @ItemId;
  **Figure: Example of an updatable view using a single base table
-** <dd><p class="ssw15-rteElement-P">More complex views, such as a multi-table view can be used after the where clause in another update statement.</p></dd>
+** 
+More complex views, such as a multi-table view can be used after the where clause in another update statement.
+
 -- Create the products by category view
 CREATE VIEW vwProductsByCategory
 AS
@@ -111,10 +112,11 @@ WHERE Id IN ( SELECT Id FROM  vwProductsByCategory WHERE CategoryName = @Categor
 
 
 So your business has an employees table as shown below that has detailed information about their name, birthdate, home phone, address and photo. This information is suitable for the payroll department but what you want to display employees names and photos on the website for public viewing. Or what If you want contact information such as extension number and country to be available on the company intranet?
-<dl class="ssw15-rteElement-ImageArea"><img src="ViewsSqlEmployeesTable.png" alt="ViewsSqlEmployeesTable.png" style="margin:5px;width:491px;height:481px;"><br></dl> **Figure: Northwind traders employees table** 
+![ViewsSqlEmployeesTable.png](ViewsSqlEmployeesTable.png)
+ **Figure: Northwind traders employees table** 
 You could create separate tables for each department, only supplying the required fields for each. 
 This would also need an additional system to sync between the tables to ensure the information was kept up to date.
-<dl class="ssw15-rteElement-ImageArea"><img src="ViewsSqlTables.png" alt="ViewsSqlTables.png" style="margin:5px;"></dl>
+![ViewsSqlTables.png](ViewsSqlTables.png)
 
 ::: bad
 Figure: Bad Example – Using tables and duplicating data
@@ -128,5 +130,11 @@ FROM Employees;
 CREATE VIEW  vwWebsiteProfiles AS  
 SELECT EmployeeID, LastName, FirstName, Title, TitleOfCourtesy, Photo, PhotoPath
 FROM Employees;
-<dd class="ssw15-rteElement-FigureGood">Figure: Good Example – Using views from the base table containing the source data<span style="color:#cc4141;font-family:" segoe="" ui",="" "trebuchet="" ms",="" tahoma,="" arial,="" verdana,="" sans-serif;font-size:18px;font-weight:normal;"=""></span></dd>
+
+
+::: good
+Figure: Good Example – Using views from the base table containing the source data
+:::
+
+
 Creating views of the employee table allows you to update the data in one source location such as payroll and all other departments will see the changes. It prevents the problem of stale data and allows more control over access to the data.

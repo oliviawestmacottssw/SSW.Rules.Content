@@ -21,5 +21,4 @@ redirects: []
 
 This field should not be null (Remove me when you edit this field). 
 <!--endintro-->
-<dl><dt><img alt="Test case " src="TestCase.jpg"></dt>
-<dd>Figure: You can easily fix this by associating tests with a Test Case which in turn "Tests" a bug </dd></dl>
+![Test case ](TestCase.jpg)Figure: You can easily fix this by associating tests with a Test Case which in turn "Tests" a bug

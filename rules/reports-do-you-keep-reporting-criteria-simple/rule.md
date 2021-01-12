@@ -7,8 +7,7 @@ uri: reports-do-you-keep-reporting-criteria-simple
 created: 2014-12-01T05:47:39.0000000Z
 authors: []
 related: []
-redirects:
-- reports---do-you-keep-reporting-criteria-simple
+redirects: []
 
 ---
 
@@ -20,7 +19,9 @@ redirects:
 
 
 <!--endintro-->
-<dl class="image"><dt> 
-      <img border="1" alt="Reporting Criteria" src="../../assets/GraphInterface.gif" style="margin:5px;width:600px;">
-   </dt></dl>
+
+::: ok  
+![](../../assets/GraphInterface.gif)  
+:::  
+
 More     [Options for Reporting](http://www.ssw.com.au/ssw/Standards/DeveloperDotNet/GuidelinesForReporting.aspx)

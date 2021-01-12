@@ -17,9 +17,15 @@ redirects: []
 
 Instead of images sitting all around the solution, we put all the images in the same folder.   
 <!--endintro-->
-<dl class="badImage">    <dt><img width="427" height="126" border="0" alt="Image bad link" src="../../assets/ImageLinkBad.gif"> </dt>
-    <dd>Bad example - Images under Product root folder. </dd></dl><dl class="goodImage">    <dt><img width="427" height="126" border="0" alt="Image good link" src="../../assets/ImageLinkGood.gif"> </dt>
-    <dd>Good example - Images under \Images folder. </dd></dl>
+
+::: bad  
+![Bad example - Images under Product root folder.](../../assets/ImageLinkBad.gif)  
+:::  
+
+::: good  
+![Good example - Images under \Images folder.](../../assets/ImageLinkGood.gif)  
+:::  
+
 
 
 

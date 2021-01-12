@@ -20,6 +20,13 @@ TFS and Windows Azure work wonderfully together. It only takes a minute to confi
 This is by far the most simple method to achieve continuous deployment of your websites to Azure.
 But, if your application is more complicated, or you need to run UI tests as part of your deployment, you should be using Octopus Deploy instead according to the [Do you use the best deployment tool](/Pages/The-best-deployment-tool.aspx) rule.
 <!--endintro-->
-<dl class="image"><dt> <img src="integrate-source-control.jpg" alt=""> <br>
-   </dt><dd>Figure: Setting up deployment from source control is simple from within the Azure portal</dd></dl><dl class="image"><dt> <img src="TFS_Deployment.png" alt="TFS_Deployment.png"> </dt><dd>Figure: Deployment is available from a number of different source control repositories</dd></dl>
+
+::: ok  
+![Figure: Setting up deployment from source control is simple from within the Azure portal](integrate-source-control.jpg)  
+:::  
+
+::: ok  
+![Figure: Deployment is available from a number of different source control repositories](TFS\_Deployment.png)  
+:::  
+
 Suggestion to Microsoft: We hope this functionality comes to on-premise TFS and IIS configurations in the next version.

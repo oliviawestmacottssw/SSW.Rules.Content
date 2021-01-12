@@ -9,7 +9,6 @@ authors: []
 related: []
 redirects:
 - do-you-ensure-speakers-use-a-microphone
-- setup---do-you-ensure-speakers-use-a-microphone
 
 ---
 

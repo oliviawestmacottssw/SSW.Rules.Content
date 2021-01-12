@@ -24,7 +24,7 @@ This rule outlines how to use custom styles in the SharePoint  RichHTMLEditor.
 
 
 In SharePoint, we can use the below way to apply custom styles:
-<dl class="ssw15-rteElement-ImageArea"><img src="CustomStylesInSharePoint.png" alt="CustomStylesInSharePoint.png" style="margin:5px;"></dl> **Figure: custom RichHtmlEditor styles give your content editors a visual preview of your custom styles
+![CustomStylesInSharePoint.png](CustomStylesInSharePoint.png) **Figure: custom RichHtmlEditor styles give your content editors a visual preview of your custom styles
 ** 
 
 
@@ -37,33 +37,33 @@ To do this:
 
 
 
-<SSW:ParsedRichHtmlField  **PrefixStyleSheet="ssw15-rte"** CssClass="ssw-inputeditorfield" id="Content" FieldName="PublishingPageContent" InputFieldLabel="Rule Summary Info" runat="server"/>
+&lt;SSW:ParsedRichHtmlField  **PrefixStyleSheet="ssw15-rte"** CssClass="ssw-inputeditorfield" id="Content" FieldName="PublishingPageContent" InputFieldLabel="Rule Summary Info" runat="server"/&gt;
 
 
 
 2. Refer an additional css file in the page layout or master page (apply to display mode content).
 
-<sharepointwebcontrols:cssregistration id="CssRegistration3" name=" <strong>Themable/ssw.core.styles.v15.css</strong> " runat="server" enablecsstheming="True"></sharepointwebcontrols:cssregistration>
+&lt;SharePointWebControls:CssRegistration ID="CssRegistration3"   Name=" **Themable/ssw.core.styles.v15.css** " runat="server"  EnableCssTheming="True"
 
-/>
+/&gt;
 
 
 
 3. Refer the additional css file again in " **edit mode** " in the page layout or master page (apply to edit mode editor).
 
-<font class="Apple-tab-span" style="white-space:pre;"> </font><publishingwebcontrols:editmodepanel id="EditModePanel1" runat="server"></publishingwebcontrols:editmodepanel>
+<font class="Apple-tab-span" style="white-space:pre;"> </font>&lt;PublishingWebControls:EditModePanel ID="EditModePanel1" runat="server"&gt;
 
-<font class="Apple-tab-span" style="white-space:pre;">  </font><!-- Styles for edit mode only-->
+<font class="Apple-tab-span" style="white-space:pre;">  </font>&lt;!-- Styles for edit mode only--&gt;
 
-<font class="Apple-tab-span" style="white-space:pre;">  </font><sharepointwebcontrols:cssregistration id="CssRegistration2" name="<% $SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/editmode15.css %>"></sharepointwebcontrols:cssregistration>
+<font class="Apple-tab-span" style="white-space:pre;">  </font>&lt;SharePointWebControls:CssRegistration ID="CssRegistration2" name="&lt;% $SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/editmode15.css %&gt;"
 
-<font class="Apple-tab-span" style="white-space:pre;">   </font> After="<% $SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/pagelayouts15.css %>" runat="server"/>
+<font class="Apple-tab-span" style="white-space:pre;">   </font> After="&lt;% $SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/pagelayouts15.css %&gt;" runat="server"/&gt;
 
-<sharepointwebcontrols:cssregistration id="CssRegistration3" name=" <strong>Themable/ssw.core.styles.v15.css</strong> " runat="server" enablecsstheming="True"></sharepointwebcontrols:cssregistration>
+&lt;SharePointWebControls:CssRegistration ID="CssRegistration3"   Name=" **Themable/ssw.core.styles.v15.css** " runat="server"  EnableCssTheming="True"
 
-**After** ="<%$SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/ <strong>editmode15.css</strong> %>" />
+**After** ="&lt;%$SPUrl:~sitecollection/Style Library/~language/Themable/Core Styles/ **editmode15.css** %&gt;" /&gt;
 
-<font class="Apple-tab-span" style="white-space:pre;"> </font>
+<font class="Apple-tab-span" style="white-space:pre;"> </font>&lt;/PublishingWebControls:EditModePanel&gt;
 
 Use " **After** " property to ensure that it will be loaded after the " **editmode15.css** ", which is SharePoint default edit mode style. The custom style css file will be applied to the ribbon after users change to edit mode.
 
@@ -81,10 +81,8 @@ e.g.
 
 }
 
-2) .ssw15-rte **Element -** tell SharePoint which element will be applied with this style. When you press "Enter" in SharePoint editor, it will automatically start a new paragraph with "
+2) .ssw15-rte **Element -** tell SharePoint which element will be applied with this style. When you press "Enter" in SharePoint editor, it will automatically start a new paragraph with "&lt;P&gt;&lt;/P&gt;", so it's a brilliant choice to make some custom "paragraph" elements.
 
-
-", so it's a brilliant choice to make some custom "paragraph" elements.
 e.g.
 
 P.ssw15-rteElement-CodeArea
@@ -114,7 +112,7 @@ P.ssw15-rteElement-CodeArea
 }
 
 This  **Code Area** style will come up in "Page Elements" section:
-<dl class="ssw15-rteElement-ImageArea"><img src="CodeArea.png" alt="CodeArea.png" style="margin:5px;"></dl> **Figure: Code Area style come up in "Page Elements" seciton** 
+![CodeArea.png](CodeArea.png) **Figure: Code Area style come up in "Page Elements" seciton** 
 
 
 While applying a "Page Elements" style, it will
@@ -142,13 +140,15 @@ Its html code will change
 
 
 from
-<dl class="ssw15-rteElement-ImageArea"><img src="page_element_p.png" alt="page_element_p.png" style="margin:5px;width:650px;"></dl>
+![page_element_p.png](page_element_p.png)
 
-<dd class="ssw15-rteElement-FigureNormal">Figure: "Code Area style" with parent element <p></p></dd>
+ **Figure: "Code Area style" with parent element &lt;p&gt;** 
 
 
 to
-<dl class="ssw15-rteElement-ImageArea"><img src="page_element_dd.png" alt="page_element_dd.png" style="margin:5px;width:650px;"></dl><dl class="ssw15-rteElement-ImageArea"><span style="color:#555555;font-size:11px;font-weight:bold;">Figure: "Good Figure style" changed the parent element from <p> to <dd></dd></p></span><br></dl><dl class="ssw15-rteElement-ImageArea"><br></dl>
+![page_element_dd.png](page_element_dd.png)Figure: "Good Figure style" changed the parent element from &lt;p&gt; to &lt;dd&gt;
+
+
 
 
 3).ssw15-rte **Style -** this style could be applied to  **Text Styles** :
@@ -168,19 +168,20 @@ e.g.
 }
 
 This  **Highlight** style will come up in "Text Styles" section:
-<dl class="ssw15-rteElement-ImageArea"><img src="HighLight.png" alt="HighLight.png" style="margin:5px;"></dl> **Figure: Highlight style will come up in "Text Styles" section
-** <dl class="ssw15-rteElement-ImageArea"><br></dl>
+![HighLight.png](HighLight.png) **Figure: Highlight style will come up in "Text Styles" section
+** 
+
 While applying a "Text Styles" style, it will
 
 
 
-* nest the text in a  tag with the style class if the text is not already inside an HTML tag
-* replace the class of the HTML tag if this tag is a  tag
+* nest the text in a &lt;span&gt; tag with the style class if the text is not already inside an HTML tag
+* replace the class of the HTML tag if this tag is a &lt;span&gt; tag
 
 
 
 
-That means all "Text Styles" will apply to  tag, and you cannot apply two "Text Styles" to one  (e.g. apply both Strike and Hightlight), you may have to do that via changing html source code manually, or creating a "combined" "Text Styles".
+That means all "Text Styles" will apply to &lt;span&gt; tag, and you cannot apply two "Text Styles" to one &lt;span&gt; (e.g. apply both Strike and Hightlight), you may have to do that via changing html source code manually, or creating a "combined" "Text Styles".
 
 
 

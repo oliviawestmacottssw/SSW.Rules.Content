@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-know-the-components-of-a-google-ads-campaign
-- sem---do-you-know-the-components-of-a-google-ads-campaign
 
 ---
 

@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-error-handling-in-your-stored-procedures
-- stored-procedures---do-you-use-error-handling-in-your-stored-procedures
 
 ---
 
@@ -25,7 +24,9 @@ Here’s an example of the syntax used when implementing THROW.
 -- Syntax
 THROW error\_number, message, state;
  **Figure: Example of the THROW syntax
-** <dd><p class="ssw15-rteElement-P">There are 3 main arguments&#58;<br></p></dd>
+** 
+There are 3 main arguments:
+
 * **error\_number (int)** - Must be greater than or equal to 50000 and less than or equal to 2147483647.
 * **message (nvarchar)** - Maximum of 2048 characters.
 * **state (tinyint)** - Must be between 0 and 255

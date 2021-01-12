@@ -7,8 +7,7 @@ uri: messages-do-you-avoid-ok-button-when-the-action-is-clear
 created: 2012-11-27T04:31:59.0000000Z
 authors: []
 related: []
-redirects:
-- messages---do-you-avoid-ok-button-when-the-action-is-clear
+redirects: []
 
 ---
 
@@ -26,6 +25,9 @@ Don't use "OK" if the button does one clear action. The button name must reflect
 
 
 <!--endintro-->
-<dl class="image"><dt><img alt="Save button" src="../../assets/DontUseOpen.jpg" width="609" height="525"></dt>
-<dd>Figure: Save button in action</dd></dl>
+
+::: ok  
+![Figure: Save button in action](../../assets/DontUseOpen.jpg)  
+:::  
+
 However, there is an exception when there are multiple settings being changed. Typical examples are Properties and the Tools - Options dialog. There are often many tabs with many options. It would make no sense to have "Save Settings" or "Save". This is where the "OK" "Apply" "Cancel" convention really applies.

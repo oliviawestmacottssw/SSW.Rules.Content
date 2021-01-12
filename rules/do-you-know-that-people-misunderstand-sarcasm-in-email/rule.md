@@ -23,7 +23,7 @@ Because there is no "tone of voice" in an email, sarcasm can easily be misinterp
 
 
 ::: greybox
-    "John, make sure your office is clean when clients come in - you might scare them away with all that mess."
+"John, make sure your office is clean when clients come in - you might scare them away with all that mess."
 
 :::
 

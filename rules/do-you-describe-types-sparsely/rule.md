@@ -25,4 +25,7 @@ Of course, there are also times when you may want to be more explicit – you ma
 <!--endintro-->
 
 The rest of the time, rely on TypeScript to infer the type for you.
-<dl class="image"><dt><img src="describe.png" alt="describe.png"></dt><dd>Figure: Except for the input parameter, TypeScript can infer all the types for this function</dd></dl>
+
+::: ok  
+![Figure: Except for the input parameter, TypeScript can infer all the types for this function](describe.png)  
+:::

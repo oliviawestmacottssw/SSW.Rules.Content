@@ -19,9 +19,11 @@ When creating workflows in Dynamics developers take for granted when a solution 
 <!--endintro-->
 
 **Tip:** When searching for Common Data Services (Current Environment) it’s very easy to pick the wrong one:
-<dl class="image"><dt> 
-      <img src="common-data-services.png" alt="common-data-services.png">       
-   </dt></dl>
+
+::: ok  
+![](common-data-services.png)  
+:::  
+
 ### Related Rule
 
 * [Do you bundle all your customizations in a Solution (Model-Driven)?](/bundle-all-your-customizations-in-a-solution)

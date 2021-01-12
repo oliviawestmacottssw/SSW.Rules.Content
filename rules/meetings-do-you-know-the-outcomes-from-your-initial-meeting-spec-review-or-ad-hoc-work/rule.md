@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - the-outcomes-from-your-initial-meeting
-- meetings---do-you-know-the-outcomes-from-your-initial-meeting-spec-review-or-ad-hoc-work
 - meetings-do-you-know-the-outcomes-from-your-initial-meeting-(spec-review-or-ad-hoc-work)
 
 ---
@@ -36,11 +35,19 @@ It may be necessary to conduct a second initial meeting with a technical special
 You may also find that some clients are unable to progress to a Spec Review until they have a vague ballpark. In these cases, the salesperson is to make the decision whether an extra 4 hours will be spent investigating the solution before the ballpark is given. This should then be sent as part of that "Post initial meeting" email mentioned above, with Spec review info swapped out for ballpark estimate info as required.
 
 A salesperson has 16 hours per month of developer time they can invest in this pre-sales investigation, so this time has to be used wisely.
-<dl class="image"><dt><img src="adam-cogan-ceo-in-a-business-meeting.jpg" alt="adam-cogan-ceo-in-a-business-meeting.jpg" style="width:750px;margin:5px;"></dt><dd>Figure: Pre-sale meeting - use time wisely<br></dd></dl>
+
+::: ok  
+![Figure: Pre-sale meeting - use time wisely](adam-cogan-ceo-in-a-business-meeting.jpg)  
+:::  
+
 Never offer a fixed price at the conclusion of an Initial Meeting, and this engagement model must be chosen before the Specification Review is done.
 
 More on the [Specification Review rules](/rules-to-better-specification-reviews).
-<dl class="image"><dt><img alt="Send a brief proposal" src="Brief-Proposal-MrNorthwind.jpg" style="width:750px;margin:5px;"></dt><dd>Figure: Send a <a href="http://www.ssw.com.au/ssw/Standards/templates/BriefProposal.docx">brief proposal</a></dd></dl>
+
+::: ok  
+![Figure: Send a brief proposal](Brief-Proposal-MrNorthwind.jpg)  
+:::  
+
 ### Ad-Hoc work/Consulting
 
 In case the work is thought to be less than 3 developer days and the scope is well understood, it may be worthwhile for the developers to commence work straight away without a Specification Review. Normal standards for work should be followed, such as [daily scrums](/methodology-do-you-do-daily-scrums-aka-stand-up-meetings). This type of work is called 'ad-hoc' work.

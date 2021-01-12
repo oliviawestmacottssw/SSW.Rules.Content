@@ -17,7 +17,7 @@ redirects:
 Branded Plastic Bags should be used for giveaways, and people within the office who want an extra bag to carry things to client site or home. This provides free marketing especially when the employee catches public transport home. It is a win-win as the person gets free carry bag, and we get free marketing.
 
 <!--endintro-->
-<dl class="image"> 
-   <dt>
-      <img src="ssw-bag.png" alt="ssw-bag.png">
-   </dt><dd>Figure: SSW plastic bag </dd></dl>
+
+::: ok  
+![Figure: SSW plastic bag](ssw-bag.png)  
+:::

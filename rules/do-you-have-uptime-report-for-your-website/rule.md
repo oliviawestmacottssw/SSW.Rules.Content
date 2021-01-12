@@ -19,8 +19,7 @@ Websites should have an uptime report to provide real-time and historical perfor
 <!--endintro-->
 
 Plus, with history information, you can get exact downtime of your website or services in the past.
-<dl class="goodImage">   <dt>
-      <img src="google-uptime-report.jpg" alt="google-uptime-report.jpg">
-      <br>
-   </dt><dd>Figure: Google's uptime reports - with history information. 
-      <a href="http://www.google.com.br/appsstatus" target="_blank">See it now</a><br></dd></dl>
+
+::: good  
+![Figure: Google's uptime reports - with history information.        See it now](google-uptime-report.jpg)  
+:::

@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - speaking-do-you-use-correct-english-at-work
-- communication---do-you-use-correct-english-at-work
 
 ---
 
@@ -20,7 +19,8 @@ Communication and how you express yourself to your co-workers and clients is ref
 For example:
 
 <!--endintro-->
-<dl class="bad"><dt>&quot;It's going good&quot; </dt><dd> Bad Example - using incorrect English&#160;</dd></dl><dl class="good"><dt>&quot;It's going well&quot;<br></dt><dd>Good Example - using correct English</dd></dl>
+ "It's going good"Bad Example - using incorrect English "It's going well"
+Good Example - using correct English
 
 
 Check out this video which highlights 5 common mistakes made by native english speakers:

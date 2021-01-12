@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-know-how-and-when-to-deactivate-a-companycontact
+redirects: []
 
 ---
 
@@ -23,6 +22,6 @@ There comes a time when some contacts in your CRM database might just be taking 
 
 **Hint:** When you deactivate a client - put a note in the notes field to say           why first.
 
-
-![Once a contact moves on or their details are no longer relevant, deactivate them](CRM-DeactivateContact.jpg)
+![CRM-DeactivateContact.jpg](CRM-DeactivateContact.jpg)
+ **Figure: Once a contact moves on or their details are no longer relevant, deactivate them
 **

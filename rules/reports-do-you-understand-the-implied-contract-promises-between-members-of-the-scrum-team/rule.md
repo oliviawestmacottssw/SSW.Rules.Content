@@ -8,7 +8,6 @@ created: 2010-04-14T06:50:19.0000000Z
 authors: []
 related: []
 redirects:
-- reports---do-you-understand-the-implied-contract-promises-between-members-of-the-scrum-team
 - reports-do-you-understand-the-implied-contract-(promises)-between-members-of-the-scrum-team
 
 ---

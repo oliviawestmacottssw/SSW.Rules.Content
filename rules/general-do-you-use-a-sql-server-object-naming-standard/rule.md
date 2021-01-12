@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-a-sql-server-object-naming-standard
-- general---do-you-use-a-sql-server-object-naming-standard
 
 ---
 

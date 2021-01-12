@@ -36,7 +36,10 @@ callable wrappers for handling all interaction between the .NET client code (man
 To add references to COM objects:
 
 * On the Project menu, select Add Reference and then click the COM tab.
-* Select the component you want to use from the list of COM objects.<dl class="image"><dt><img src="UserCOM.gif" alt="UserCOM.gif"><br></dt></dl>
+* Select the component you want to use from the list of COM objects.
+::: ok  
+![](UserCOM.gif)  
+:::
 * To access to the interoperability assembly in your application, add an Imports statement to the top of the class or module in which you will
 use the COM object.
 

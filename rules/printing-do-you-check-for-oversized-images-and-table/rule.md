@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- printing---do-you-check-for-oversized-images-and-table
+redirects: []
 
 ---
 

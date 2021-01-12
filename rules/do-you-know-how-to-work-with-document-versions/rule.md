@@ -20,14 +20,17 @@ This is how you should work with Document Versions:
 
 1. Make sure your document library is configured to use versioning.
  TIP: You can configure this in Settings | Versioning Settings
-2. Make sure you are showing the version column in your document view. <br>      <dl class="image"><dt>
-            <img border="0" src="VersionColumn_Small.jpg" alt="Add a version column" style="border-width:0px;border-style:solid;">
-         </dt></dl>    TIP: You can add the column by selecting Modify View
+2. Make sure you are showing the version column in your document view. <br>      
+::: ok  
+![](VersionColumn\_Small.jpg)  
+:::  
+    TIP: You can add the column by selecting Modify View
 3. Whenever you edit the document and check it in, SharePoint will automatically increase the version number.
     If you need to send this document to a client then it is important to:
-    1. Save the file locally by selecting Send To | Download a Copy <br>         <dl class="image"><dt>
-               <img border="0" src="SaveFileLocally_Small.jpg" alt="Save a file locally">
-            </dt></dl>
+    1. Save the file locally by selecting Send To | Download a Copy <br>         
+::: ok  
+![](SaveFileLocally\_Small.jpg)  
+:::
     2. Add the version to the end of the filename e.g. Specifications\_v2.0.docx
     3. Then email it to the client.
     4. We do this so that we can track what version of the document was sent to the client.

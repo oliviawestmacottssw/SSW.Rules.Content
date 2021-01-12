@@ -25,5 +25,13 @@ Rebasing might take a bit to get your head around, but you get a much cleaner pr
 
 
 This makes it easier to navigate your project with commands like git log, git bisect, and gitk.
-<dl class="image"><dt><img src="rebase1.png" alt="rebase1.png"></dt><dd>Figure: When merging: a messy merge commit is created any time you need to incorporate upstream changes from the master branch</dd></dl> <dl class="image"><dt><img src="rebase2.png" alt="rebase2.png"></dt><dd>Figure: Git Rebase moves your new commits to the end of the master branch. This ensure that you don't end up with messy merge commits and you have a clean linear project history</dd></dl>
+
+::: ok  
+![Figure: When merging: a messy merge commit is created any time you need to incorporate upstream changes from the master branch](rebase1.png)  
+:::  
+ 
+::: ok  
+![Figure: Git Rebase moves your new commits to the end of the master branch. This ensure that you don't end up with messy merge commits and you have a clean linear project history](rebase2.png)  
+:::  
+
 **Warning:** If you don’t follow [the Golden Rule of Rebasing](/the-golden-rule-of-rebasing), you could end up in a world of pain.

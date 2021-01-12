@@ -17,5 +17,11 @@ redirects: []
 ---
 
 Having spaces in table names necessitates the use of square brackets in all your code. e.g. [Order Details].[Order ID] instead of OrderDetail.OrderID. Spaces will also cause problems when you upsize to SQL Server later on... there is just no benefit.
-<font class="ms-rteCustom-YellowBorderBox"><a href="http&#58;//www.ssw.com.au/ssw/UpsizingPRO">Upsizing PRO</a> will check this rule </font>
+
+
+::: yellowBox
+[Upsizing PRO](http&#58;//www.ssw.com.au/ssw/UpsizingPRO) will check this rule
+:::
+
+
 <!--endintro-->

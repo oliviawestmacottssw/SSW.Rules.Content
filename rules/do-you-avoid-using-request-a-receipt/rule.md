@@ -22,6 +22,9 @@ Do you always demand a receipt for every email you send? This is the equivalent 
 Turning this option on all the time effectively throws the option away, not just for yourself, but everyone else as well.
 
 <!--endintro-->
-<dl class="image"><dt> 
-      <img src="OutlookReceiptRequest.gif" alt="Outlook Receipt Request" class="ms-rteCustom-ImageArea"> </dt><dd>Figure: Selectively request read receipts so as not to annoy your recipient.<br></dd></dl>
+
+::: ok  
+![Figure: Selectively request read receipts so as not to annoy your recipient.](OutlookReceiptRequest.gif)  
+:::  
+
 **Warning:** If you are using this more than once a year then alarms should be ringing!

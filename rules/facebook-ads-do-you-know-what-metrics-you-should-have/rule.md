@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - do-you-know-what-metrics-you-should-have-around-your-facebook-ads
-- facebook-ads---do-you-know-what-metrics-you-should-have
 
 ---
 
@@ -28,6 +27,13 @@ Underperforming ads should be paused and tweaked before resuming use. The smalle
 Reporting is vital to determining the success of any campaign, as it allows us to clearly see and compare each campaign and decide which should be altered as they are ineffective and which are performing well.
 
 Facebook allows you to customize your reports, allowing you to measure the success of your campaign based on your goal. If your goal was post engagement you may want to customize your report to show Post Shares, Post Comments Post Engagement, Post Likes, Frequency, Cost Per Post Share, cost per Comment, Cost per Engagement and Cost Per Like. All of these factors are important to be looked at to provide a full overview of the campaign.
-<dl class="image"><dt><img src="Enagagement Report.png" alt="Engagement Report.png" style="width:800px;"></dt><dd>Figure: Post Engagement Report</dd></dl>
+
+::: ok  
+![Figure: Post Engagement Report](Enagagement Report.png)  
+:::  
+
 Other goals for Facebook Ads may be Page Likes, Conversions, and Website Clicks. An overview provides you with a basic report of your campaign, featuring; Results, Amount Spent, Frequency, Page Likes, Website Clicks, Post Shares, Post Comments, Post Engagement, and Post Likes.
-<dl class="image"><dt><img src="Overview report.png" alt="Overview report.png" style="width:800px;"></dt><dd>Figure: Overview Report</dd></dl>
+
+::: ok  
+![Figure: Overview Report](Overview report.png)  
+:::

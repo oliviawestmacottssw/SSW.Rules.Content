@@ -17,4 +17,11 @@ redirects:
 Developers should \*never\* use the "General" Project.
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="using-general-timesheets-bad.png" alt="using-general-timesheets-bad.png" style="width:750px;"></dt><dd>Figure: Bad Example - "General" category</dd></dl><dl class="goodImage">   <dt><img src="using-general-timesheets-bad.png" alt="do-not-use-general-timesheets-good.png" style="width:750px;"></dt><dd>Figure: Good Example - Specific category </dd></dl>
+
+::: bad  
+![Figure: Bad Example - "General" category](using-general-timesheets-bad.png)  
+:::  
+
+::: good  
+![Figure: Good Example - Specific category](using-general-timesheets-bad.png)  
+:::

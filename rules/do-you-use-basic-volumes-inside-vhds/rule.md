@@ -19,10 +19,21 @@ When formatting a new virtual disk you have attached to a Hyper-V Virtual Machin
 
  For this reason, never use  **Dynamic disks** inside Hyper-V Virtual Machines.
 
+![Bad Example - DPM cannot backup this Virtual Machine's child state as it has a Dynamic Disk](basicvolumes-badexample.jpg)
 
-![](basicvolumes-badexample.jpg)
-<font class="ms-rteCustom-FigureBad">Figure: Bad Example - DPM cannot backup this Virtual Machine's child state as it has a Dynamic Disk<br></font>
 
-![](basicvolumes-goodexample.jpg)
-<font class="ms-rteCustom-FigureGood">Good example – Using Basic Volumes allows DPM to backup the Virtual Machine’s child state</font>
+::: bad
+Figure: Bad Example - DPM cannot backup this Virtual Machine's child state as it has a Dynamic Disk
+
+:::
+
+
+![Good example – Using Basic Volumes allows DPM to backup the Virtual Machine’s child state](basicvolumes-goodexample.jpg)
+
+
+::: good
+Good example – Using Basic Volumes allows DPM to backup the Virtual Machine’s child state
+:::
+
+
 <!--endintro-->

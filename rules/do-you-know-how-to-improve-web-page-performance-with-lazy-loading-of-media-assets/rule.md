@@ -21,15 +21,23 @@ It means the browsers will only load images and embedded videos in the visible a
 <!--endintro-->
 
 On our rules web site, one of the pages’ initial loading size of images reduced from 4.8MB to 500KB after being applied “lazy loading” of images:
-<dl class="badImage"><dt>
-      <img src="load-images-1.jpg" alt="load-images-1.jpg" style="width:750px;height:231px;">
-   </dt><dd>Figure: Bad Example - load all images by default</dd></dl><dl class="goodImage"><dt>
-         <img src="load-images-2.jpg" alt="load-images-2.jpg" style="width:750px;height:224px;">
-      </dt><dd>Figure: Good Example - Do not load all images by default, only load them when they are visible while scrolling down the browsers</dd></dl>The page's initial loading size of JS scripts reduced from 2.3MB to 518KB after being applied “lazy loading” of embedded YouTube videos:<dl class="badImage"><dt>
-            <img src="load-images-3.jpg" alt="load-images-3.jpg" style="width:750px;height:374px;">
-         </dt><dd>Figure: Bad Example – load all embedded YouTube videos by default</dd></dl><dl class="goodImage"><dt>
-            <img src="load-images-4.jpg" alt="load-images-4.jpg" style="width:750px;height:437px;">
-         </dt><dd>Figure: Good Example - Do not load all embedded YouTube videos by default, only load them when they are visible while scrolling down the browsers</dd></dl>
+
+::: bad  
+![Figure: Bad Example - load all images by default](load-images-1.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - Do not load all images by default, only load them when they are visible while scrolling down the browsers](load-images-2.jpg)  
+:::  
+The page's initial loading size of JS scripts reduced from 2.3MB to 518KB after being applied “lazy loading” of embedded YouTube videos:
+::: bad  
+![Figure: Bad Example – load all embedded YouTube videos by default](load-images-3.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - Do not load all embedded YouTube videos by default, only load them when they are visible while scrolling down the browsers](load-images-4.jpg)  
+:::  
+
 To implement lazy loading for image:
 
 1.	Check if the browser supports IntersectionObserver, if the browser supports IntersectionObserver, we will only load images and videos in the areas are visible to users by default. If the browser doesn’t support it, we will have to load all images and embedded videos on the page immediately after the page is loaded.
@@ -42,26 +50,22 @@ if (!('IntersectionObserver' in window)) {
 
 **Note:** You can use a polyfill library to add  **IntersectionObserver** support to older browsers.
 
-2.	If the browser supports IntersectionObserver, in your page html, change the “src” of “
-![]()” to “data-src”
+2.	If the browser supports IntersectionObserver, in your page html, change the “src” of “&lt;img&gt;” to “data-src”
 From
 
-
-![]()<mark>src</mark>="https://rules.ssw.com.au/PublishingImages/flight.jpg">
+&lt;img alt="flight.jpg"           <mark>src</mark>="https://rules.ssw.com.au/PublishingImages/flight.jpg"&gt;
 
 to
 
+&lt;img alt="flight.jpg"           <mark>data-src</mark>="https://rules.ssw.com.au/PublishingImages/flight.jpg"&gt;
 
-![]()<mark>data-src</mark>="https://rules.ssw.com.au/PublishingImages/flight.jpg">
-
-3.	Use the below Javascript to change “data-src” back to “src” for the 
-![]() html objects, which become visible, so that those images will be loaded
+3.	Use the below Javascript to change “data-src” back to “src” for the &lt;img&gt; html objects, which become visible, so that those images will be loaded
 
 function onIntersection(entries) {
   // Loop through the entries
-  entries.forEach(entry => {
+  entries.forEach(entry =&gt; {
     // Are we in viewport?
-    if (entry.intersectionRatio > 0) {
+    if (entry.intersectionRatio &gt; 0) {
 
 
       // Stop watching and load the image
@@ -90,7 +94,7 @@ const config = {
 
 let observer = new IntersectionObserver(onIntersection, config);
  
-  images.forEach(image => {
+  images.forEach(image =&gt; {
     observer.observe(image);
   });
 
@@ -99,24 +103,47 @@ let observer = new IntersectionObserver(onIntersection, config);
 To implement lazy loading for embedded YouTube videos:
 
 1.	Use the same code as lazy loading images above, to check if IntersectionObserver is supported by browsers.
-2.	In your page html code, convert “
-`youtube: https://www.youtube.com/embed/OhVYTOKCsWI`
+2.	In your page html code, convert “&lt;iframe&gt;” to “&lt;div&gt;” (width, height, src has been converted too):
+
+From
+
+&lt;iframe width="853" height="480" src="https://www.youtube.com/embed/OhVYTOKCsWI" frameborder="0"&gt;&lt;/iframe&gt;
 
 To
 
-<!-- (1) video wrapper in div instead of iframe -->
+&lt;!-- (1) video wrapper in div instead of iframe --&gt;
+&lt;div data-iframewidth="853" data-iframeheight="480" data-iframecode="OhVYTOKCsWI" data-iframesrc="https://www.youtube.com/embed/OhVYTOKCsWI" frameborder="0"&gt;
+    &lt;!-- (2) the "play" button --&gt;
+    &lt;div class="play-button"&gt;&lt;/div&gt;      
+&lt;/div&gt;
+
+3.   Use the below code to convert “&lt;div&gt;” to “&lt;iframe&gt;” to load the embedded videos when they are visible while scrolling down:
+
+var youtube = document.querySelectorAll( "div[data-iframesrc]" );
+          for (var i = 0; i &lt; youtube.length; i++) {
+
+        var source = "https://img.youtube.com/vi/"+ youtube[i].dataset.<mark>iframecode</mark> +"/sddefault.jpg";
+
+        var image = new Image();
+                image.src = source;
+                image.addEventListener( "load", function() {
+                    youtube[ i ].appendChild( image );
+                }( i ) );
+
+                youtube[i].addEventListener( "click", function() {
 
 
-<!-- (2) the "play" button -->
+                    var iframe = document.createElement( "iframe" );
 
 
+                            iframe.setAttribute( "frameborder", "0" );
+                            iframe.setAttribute( "allowfullscreen", "" );
+                            iframe.setAttribute( "width", this.dataset.<mark>iframewidth</mark> );
+                            iframe.setAttribute( "height", this.dataset.<mark>iframeheight</mark> );
+                            iframe.setAttribute( "src", this.dataset.<mark>iframesrc</mark> +"?rel=0&showinfo=0&autoplay=1" );
+                            this.innerHTML = "";
+                            this.appendChild( iframe );
+                } );    
+    };
 
-
-
-
-3.   Use the below code to convert “
-
-” to “<iframe>” to load the embedded videos when they are visible while scrolling down:<p class="ssw15-rteElement-CodeArea">var youtube = document.querySelectorAll( "div[data-iframesrc]" );<br>          for (var i = 0; i < youtube.length; i++) {<br>        <br>        var source = "https://img.youtube.com/vi/"+ youtube[i].dataset.<mark>iframecode</mark> +"/sddefault.jpg";<br>        <br>        var image = new Image();<br>                image.src = source;<br>                image.addEventListener( "load", function() {<br>                    youtube[ i ].appendChild( image );<br>                }( i ) );<br>        <br>                youtube[i].addEventListener( "click", function() {<br><br><br>                    var iframe = document.createElement( "iframe" );<br><br><br>                            iframe.setAttribute( "frameborder", "0" );<br>                            iframe.setAttribute( "allowfullscreen", "" );<br>                            iframe.setAttribute( "width", this.dataset.<mark>iframewidth</mark> );<br>                            iframe.setAttribute( "height", this.dataset.<mark>iframeheight</mark> );<br>                            iframe.setAttribute( "src", this.dataset.<mark>iframesrc</mark> +"?rel=0&showinfo=0&autoplay=1" );<br>                            this.innerHTML = "";<br>                            this.appendChild( iframe );<br>                } );    <br>    };<br><br></p><p> 
-         <br>4.	 <b></b> More details can be found at 
-         <a href="https://webdesign.tutsplus.com/tutorials/how-to-lazy-load-embedded-youtube-videos--cms-26743">https://webdesign.tutsplus.com/tutorials/how-to-lazy-load-embedded-youtube-videos--cms-26743 </a><br></p>
-</iframe>
+4.	  More details can be found at           https://webdesign.tutsplus.com/tutorials/how-to-lazy-load-embedded-youtube-videos--cms-26743

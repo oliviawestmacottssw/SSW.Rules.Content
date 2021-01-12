@@ -7,8 +7,7 @@ uri: controls-do-you-make-option-groups-and-check-boxes-simple-to-understand
 created: 2012-11-27T09:11:19.0000000Z
 authors: []
 related: []
-redirects:
-- controls---do-you-make-option-groups-and-check-boxes-simple-to-understand
+redirects: []
 
 ---
 
@@ -28,5 +27,7 @@ Do you like apples? <input type="radio">Yes <input type="radio">No <input type="
 | | <input type="radio">  | No |
 | | <input type="radio"> | Cannot say |
 3. **Text on the Right**     The Option Group or Check Box should always be on the left, with the text following on the right. Once again, this makes it easy for the User to work out what is going on.
-<dl class="goodImage"><dt><img alt="Interfaces Action Then Text" src="../../assets/Interfaces_ActionThenText.gif"></dt>
-<dd>Figure: Good Example - Action on the left, text on the right</dd></dl>
+
+::: good  
+![Figure: Good Example - Action on the left, text on the right](../../assets/Interfaces\_ActionThenText.gif)  
+:::

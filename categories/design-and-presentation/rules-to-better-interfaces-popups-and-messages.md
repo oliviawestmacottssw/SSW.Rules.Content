@@ -7,7 +7,7 @@ index:
 - popup-do-you-know-pop-ups-are-evil
 - popup-do-you-know-javascript-alerts-are-evil
 - popup-do-you-know-when-popup-forms-are-good
-- do-you-know-that-popup-modal-forms-should-never-have-showintaskbartrue
+- do-you-know-that-popup-modal-forms-should-never-have-showintaskbar-true
 - messages-do-you-avoid-message-boxes-at-all-costs
 - messages-do-you-avoid-giving-an-error-message-for-validation-purposes
 - messages-do-you-avoid-ok-button-when-the-action-is-clear

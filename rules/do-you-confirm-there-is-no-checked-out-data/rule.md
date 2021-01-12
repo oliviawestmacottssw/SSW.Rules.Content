@@ -20,9 +20,11 @@ redirects: []
 One of the annoying things with SharePoint document libraries is that users often accidentally leave checked out files, that preventing others from modifying them.
 
 Suggestion to Microsoft: send an email to the user to remind them they have outstanding checkouts potentially blocking other users.
-<dl class="image"><dt> 
-      <img src="sp-docs.jpg" alt="sp-docs.jpg" style="margin:0px;width:780px;height:120px;"> 
-   </dt><dd>Figure: Here Greg Harris has not checked in a file </dd></dl>
+
+::: ok  
+![Figure: Here Greg Harris has not checked in a file](sp-docs.jpg)  
+:::  
+
 
 
 **Upgrade warning:** The pages that are not checked-in, will not be migrated on a SharePoint upgrade. There is \*no\* warning either.
@@ -42,24 +44,30 @@ Eg. SSW.Dory
 1. Create CAML query in site content and structure
 
 Go to "Site Settings | Manage Content and Structure | Content and Structure Reports", click "New":
-<dl class="image"><dt> 
-      <img class="ssw-rteStyle-ImageArea" alt="ContentAndStructureReportsNew.png" src="ContentAndStructureReportsNew.png"> 
-   </dt><dd class="ssw-rteStyle-FigureNormal">Figure: Create a new report</dd></dl>
+
+::: ok  
+![Figure: Create a new report](ContentAndStructureReportsNew.png)  
+:::  
+
 Fill the "CAML Query":
-<where><isnotnull><fieldref name="CheckoutUser" lookupid="TRUE"></fieldref></isnotnull></where>
+&lt;Where&gt;&lt;IsNotNull&gt;&lt;FieldRef Name="CheckoutUser" LookupId="TRUE"/&gt;&lt;/IsNotNull&gt;&lt;/Where&gt;
 
 Fill the other fields like below:
-<dl class="image"><dt> 
-         <img class="ssw-rteStyle-ImageArea" alt="NewReportForm.png" src="NewReportForm.png"> 
-      </dt><dd>Figure: Fill in form</dd></dl>
+
+::: ok  
+![Figure: Fill in form](NewReportForm.png)  
+:::  
+
 2. Run Checked Out report
 
  
 
 Run the checkout report from "Site Settings | Manage Content and Structure | View: Checked out documents":
-<dl class="image"><dt> 
-         <img class="ssw-rteStyle-ImageArea" alt="CheckedOutDocuments.png" src="CheckedOutDocuments.png"> 
-      </dt><dd>Figure: Checked Out Documents report link Make sure there are no files checked out, otherwise, go step 3</dd></dl>
+
+::: ok  
+![Figure: Checked Out Documents report link Make sure there are no files checked out, otherwise, go step 3](CheckedOutDocuments.png)  
+:::  
+
 3. Go chase after the users.
 
 **Solution B. Custom application report (Includes some coding work)
@@ -76,9 +84,11 @@ Run the checkout report from "Site Settings | Manage Content and Structure | Vie
 Even better, we have also improved the application with a scheduled task using SharePoint CSOM API to find checked out files and send these notification emails automatically every night.
 
 
-<dl><dt>
-         <img class="ssw-rteStyle-ImageArea" alt="CheckedOutFilesApplicationReport.png" src="CheckedOutFilesApplicationReport.png">
-      </dt><dd>Figure: One button reminds all users of their "Checked out Files"<br><br></dd></dl>
+![CheckedOutFilesApplicationReport.png](CheckedOutFilesApplicationReport.png)Figure: One button reminds all users of their "Checked out Files"
+
+
+
+::: greybox
 
 **Hi Sophie,** 
 
@@ -100,20 +110,22 @@ You have some pages checked out in SharePoint.
 
 
 
-> • <br>            <font color="#3a66cc"><a href="/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx">http://<siteurl>/DesignandPresentation/RulesToBetterVideoRecording/Pages/Default.aspx</siteurl></a>  (parent folder)</font>
-> • <br>            <font color="#3a66cc"><a href="/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx">http://<siteurl>/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx</siteurl></a>  (parent folder)</font>
+> • <br>            <font color="#3a66cc"><a href="/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx">http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/Default.aspx</a>  (parent folder)</font>
+> • <br>            <font color="#3a66cc"><a href="/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx">http://&lt;siteurl&gt;/DesignandPresentation/RulesToBetterVideoRecording/Pages/testing-rule.aspx</a>  (parent folder)</font>
 
 
 
-Tip: See all files you have checked out at [<font color="#3a66cc">http://<siteurl>/_layouts/<span>SSWReports/CheckedOutReport.aspx</span></siteurl></font>](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
+Tip: See all files you have checked out at [<font color="#3a66cc">http://&lt;siteurl&gt;/_layouts/<span>SSWReports/CheckedOutReport.aspx</span></font>](/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx)
 
-<as per="" rule="" http://rules.ssw.com.au/itandnetworking/sharepoint/pages/doyouconfirmthereisnocheckedoutdata.aspx=""></as>
+&lt;As per rule http://rules.ssw.com.au/ITAndNetworking/SharePoint/Pages/DoYouConfirmThereIsNoCheckedOutData.aspx&gt;
 
 
 -- Powered by SSW.Dory
 -- v16.1.7122.24300 Server: DESKTOP-C7SF4A3
 
 
+
+:::
 
  **Figure: An example of the reminder email that all users receive** **
 

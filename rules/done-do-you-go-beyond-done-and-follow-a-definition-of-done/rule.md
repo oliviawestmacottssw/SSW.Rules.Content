@@ -15,8 +15,7 @@ authors:
 - title: Damian Brady
   url: https://ssw.com.au/people/damian-brady
 related: []
-redirects:
-- done---do-you-go-beyond-done-and-follow-a-definition-of-done
+redirects: []
 
 ---
 
@@ -51,11 +50,10 @@ Every team is different, but all need to agree on which items are in their "Defi
 
 Subject: RE: Manad - Coded UI Tests #2
 
-> Create a new CodedUI test on your feedback form – search only to test the Telerik
+&gt; Create a new CodedUI test on your feedback form – search only to test the Telerik
 
 Done
-
-![](level-3-done.jpg)**Figure – Coded UI Test passes in Visual Studio** 
+![Coded UI Test passes in Visual Studio](level-3-done.jpg)**Figure – Coded UI Test passes in Visual Studio** 
 Jing Video of the test running: http://screencast.com/t/ps17fqsV
 
 Figure: Good example - The "done" shows a full scenario
@@ -88,7 +86,11 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 * Code reviewed by one other team member (e.g. Checked by Bill)
 * Sending a Done email with screenshots
 
-<dl class="goodImage"><dt> <img class="ms-rteCustom-ImageArea" alt="Check in policy" src="CheckinPolicy.jpg"> </dt><dd>Figure: Good example - Add check in policies to enforce your Definition of Done</dd></dl>
+
+::: good  
+![Figure: Good example - Add check in policies to enforce your Definition of Done](level-3-done.jpg)  
+:::  
+
 ## Team - Level 4
 
 * *All of the above, plus*
@@ -97,11 +99,29 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 * Tip: Use Microsoft | [Test Manager](https://marketplace.visualstudio.com/items?itemName=ms.vss-testmanager-web)
 * Sending a Done email (with video recording using SnagIt)
 
-<dl class="goodImage"><dt> <img src="TestPlanning-1.png" alt="TestPlanning-1.png" style="margin:0px;width:750px;height:532px;"> </dt><dd>Figure: Organize tests in suites with built-in E2E traceability across requirements, test artifacts and defects</dd></dl><dl class="goodImage"><dt> <img src="MTR-2.png" alt="MTR-2.png" style="margin:0px;width:750px;"> </dt><dd>Figure: Use the client, Microsoft Test Manager, to run tests and not just capture the pass/fail of steps, comments/attachments and bugs, but also capture diagnostic data during execution, such as screen recording, system info, image action log etc</dd></dl><dl class="goodImage"><dt> <img src="XT-3.png" alt="XT-3.png" style="margin:0px;width:750px;height:566px;"> </dt><dd>Figure: Explore your web applications, find and submit bugs directly from your Chrome browser – no need for predefined test cases or test steps <br></dd></dl>
+
+::: good  
+![Figure: Organize tests in suites with built-in E2E traceability across requirements, test artifacts and defects](level-3-done.jpg)  
+:::  
+
+::: good  
+![Figure: Use the client, Microsoft Test Manager, to run tests and not just capture the pass/fail of steps, comments/attachments and bugs, but also capture diagnostic data during execution, such as screen recording, system info, image action log etc](level-3-done.jpg)  
+:::  
+
+::: good  
+![Figure: Explore your web applications, find and submit bugs directly from your Chrome browser – no need for predefined test cases or test steps](level-3-done.jpg)  
+:::  
+
 
 `youtube: https://www.youtube.com/embed/JJCgP7XcpNA`
  
-<font class="ms-rteCustom-FigureGood">Figure: Good example - Done video showing the features worked on</font>
+
+
+::: good
+Figure: Good example - Done video showing the features worked on
+:::
+
+
 ## Team - Level 5
 
 * *All of the above, plus*
@@ -115,14 +135,22 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 * *All of the above, plus*
 * Multiple environments automatically tested using Lab Management
 
-<dl class="goodImage"><dt> <img class="ms-rteCustom-ImageArea" alt="Lab management" src="LabManagement.jpg"> </dt><dd>Figure: Good example - A tester Lab Management to create VMs for testing the application, then defines a test plan for that application with Test Case Management</dd></dl>
+
+::: good  
+![Figure: Good example - A tester Lab Management to create VMs for testing the application, then defines a test plan for that application with Test Case Management](level-3-done.jpg)  
+:::  
+
 ## Team - Level 7
 
 * *All of the above, plus*
 * Automated Load Testing
 * Continuous Deployment
 
-<dl class="goodImage"><dt> <img class="ms-rteCustom-ImageArea" alt="Acceptance Tests in MTM" src="LoadTesting.jpg"> </dt><dd>Figure: Good example - Load testing involves multiple test agents running Web Performance Tests and pounding the application (simulating the behavior of many simultaneous users)</dd></dl>
+
+::: good  
+![Figure: Good example - Load testing involves multiple test agents running Web Performance Tests and pounding the application (simulating the behavior of many simultaneous users)](level-3-done.jpg)  
+:::  
+
 ## Team - Level 8 (Gold)
 
 * *All of the above, plus*

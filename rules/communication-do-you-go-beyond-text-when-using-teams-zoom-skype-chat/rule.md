@@ -19,7 +19,6 @@ related:
 redirects:
 - go-beyond-just-using-chat
 - do-you-go-beyond-just-using-skype-chat
-- communication---do-you-go-beyond-text-when-using-teamszoomskype-chat
 
 ---
 
@@ -38,8 +37,11 @@ Start: Asking ‘Can I call you?’ (Especially for complicated conversations)
 
 :::
 
-<dl class="image"><dt> <img src="skype-conference.jpg" alt="skype-conference.jpg"> <br>
-   </dt><dd>Figure: A group call should look like this <br></dd></dl>
+
+::: ok  
+![Figure: A group call should look like this](skype-conference.jpg)  
+:::  
+
 Here are some tips to have a better call:
 
 <!--endintro-->
@@ -56,9 +58,11 @@ Get your video background right. Check <br>      [Rules to Better Branding](/rul
 
 
 **Tip:** Help the other person with following this rule by taking a screenshot and giving them a mark /10 with good and bad feedback on the call quality and background.
-<dl class="badImage"><dt>
-      <img src="Bad-Video-Background-orgn.png" alt=""> 
-   </dt><dd>Figure: Bad Example - Ugly background showing an air conditioner<br></dd></dl><dl class="goodImage"><dt>
-      <img src="Good-Video-Background-orgn.png" alt=""> 
-      <br>
-   </dt><dd>Figure: Good Example - Nice background<br></dd></dl>
+
+::: bad  
+![Figure: Bad Example - Ugly background showing an air conditioner](Bad-Video-Background-orgn.png)  
+:::  
+
+::: good  
+![Figure: Good Example - Nice background](Good-Video-Background-orgn.png)  
+:::

@@ -31,7 +31,7 @@ According to [MSDN web developer tips](https&#58;//blogs.msdn.microsoft.com/), 
 
 
 ::: good
- The setting in machine.config will also turn off trace output in a page and detailed error messages remotely
+The setting in machine.config will also turn off trace output in a page and detailed error messages remotely
 
 :::
 

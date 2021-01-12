@@ -15,7 +15,6 @@ related:
 - do-you-follow-image-standard-sizes-on-social-media
 redirects:
 - do-you-know-the-best-practices-for-your-twitter-ads
-- twitter---do-you-know-the-best-practices-for-your-twitter-ads
 
 ---
 

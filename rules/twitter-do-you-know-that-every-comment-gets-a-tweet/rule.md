@@ -13,11 +13,18 @@ authors:
 related: []
 redirects:
 - do-you-know-that-every-comment-gets-a-tweet
-- twitter---do-you-know-that-every-comment-gets-a-tweet
 
 ---
 
 If someone's blog post is interesting or inflammatory enough that you want to comment on it, then it is probably worth a tweet.
-<dl class="image"><dt><br><br>::: greybox<br>
-          <strong>@MrHinsh</strong> I missed this...John Liu, making sense, something to see https&#58;//bit.ly/9wzSVT&#160;<br> less than 20 seconds ago&#160;<span>via bit.ly</span><br><br>:::<br><br></dt><dd>Figure&#58; When you comment, tweet the other person's blog. It's only polite<br></dd></dl>
+
+
+
+:::
+
+via bit.lyless than 20 seconds ago 
+I missed this...John Liu, making sense, something to see https://bit.ly/9wzSVT  **@MrHinsh** 
+::: greybox
+Figure: When you comment, tweet the other person's blog. It's only polite
+
 <!--endintro-->

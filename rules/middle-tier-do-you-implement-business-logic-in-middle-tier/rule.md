@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - implement-business-logic-in-middle-tier
-- middle-tier---do-you-implement-business-logic-in-middle-tier
 
 ---
 

@@ -18,24 +18,28 @@ If you have database driven pages on your website, you need a way of updating th
   The exception to this is if you are using open-source data. [SSW.People](https://ssw.com.au/people/) is a good example of this.
 
 <!--endintro-->
-<dl class="ssw15-rteElement-ImageArea"><dt> 
-      <img src="MaintenanceDemo.gif" alt="MaintenanceDemo.gif"> 
-   </dt><dd> 
-       <strong>Figure: "New" and "Edit" links allow SSW Employees to maintain testimonial entries easily</strong> </dd></dl>
-<dl class="ssw15-rteElement-ImageArea"><dt> 
-      <img src="wordpress-edit.png" alt="wp-edit-btn.jpg" style="width:90%;"> 
-   </dt><dd> 
-       <strong>Figure: "Edit" button on WordPress admin bar</strong> </dd></dl>
-<dl class="ssw15-rteElement-ImageArea"><dt> 
-      <img src="github-edit.png" alt="SSW.People.Jean2.png" style="width:90%;"> 
-   </dt><br><br>::: good<br>Figure: Good Example - "Edit" button on an Open Source page<br><br>:::<br><br></dl>
+
+::: ok  
+![Figure: "New" and "Edit" links allow SSW Employees to maintain testimonial entries easily](MaintenanceDemo.gif)  
+:::  
+
+
+::: ok  
+![Figure: "Edit" button on WordPress admin bar](wordpress-edit.png)  
+:::  
+
+
+::: good  
+![Figure: Good Example - "Edit" button on an Open Source page](github-edit.png)  
+:::  
+
 From Github, you can edit and submit a pull request. See     https://github.com/SSWConsulting/SSW.People.Profiles/wiki for more details.
 
 This is better than sending a 'Change from X to Y' email ([http://rules.ssw.com.au/do-you-ask-for-content-changes-using-from-x-to-y](/do-you-ask-for-content-changes-using-from-x-to-y)) as the work can be done immediately with less work and management requirements.
 
 ### Related Rule
 
-<dl class="ssw15-rteElement-ImageArea"><dt> 
-      <img src="markdown.jpg" alt="Markdown logo"> 
-   </dt><dd> 
-       <strong><a href="/using-github-and-markdown-to-store-you-content">Do you use Markdown to store your content?</a></strong> <br></dd></dl>
+
+::: ok  
+![Do you use Markdown to store your content?](markdown.jpg)  
+:::

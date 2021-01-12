@@ -24,12 +24,4 @@ Injecting your dependency gives you:
 
 
 <!--endintro-->
-
-[[badExample]]
-| ![A solution where each layer depends on static classes is not maintainable or testable](inject-bad-1.jpg)
-[[goodExample]]
-| ![Dependencies in each layer should only be interfaces. This allows dependencies to be easily interchanged and unit tests to be written against mock/fake objects](inject-good-1.jpg)
-[[badExample]]
-| ![Classes should not include dependencies on database classes or business objects. Both of these classes may contain dependencies on external services like web services or databases](inject-bad-2.jpg)
-[[goodExample]]
-| ![The dependencies are injected into the class. This enables alternative classes to be injected. For example, a DHLShippingCalculator should be easily substituted for a FedexShippingCalculator. A MockShippingCalculator and MockProductRepository could be injected if we wanted to run unit tests](inject-good-2.jpg)
+![inject](inject-bad-1.jpg) Figure: Bad Example – A solution where each layer depends on static classes is not maintainable or testable ![inject](inject-good-1.jpg) Figure: Good Example – Dependencies in each layer should only be interfaces. This allows dependencies to be easily interchanged and unit tests to be written against mock/fake objects ![inject](inject-bad-2.jpg) Figure: Bad Example – Classes should not include dependencies on database classes or business objects. Both of these classes may contain dependencies on external services like web services or databases ![inject](inject-good-2.jpg) Figure: Good Example – The dependencies are injected into the class. This enables alternative classes to be injected. For example, a DHLShippingCalculator should be easily substituted for a FedexShippingCalculator. A MockShippingCalculator and MockProductRepository could be injected if we wanted to run unit tests

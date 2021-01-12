@@ -24,8 +24,11 @@ TypeScript is the new flagship language from Microsoft that compiles into JavasS
 Don't use CoffeeScript (language is too different from JavaSript)
 
 <!--endintro-->
-<dl class="goodImage"><dt> 
-      <img src="typescript-good.jpg" alt=""> 
-   </dt><dd>Figure: Good - TypeScript is very similar to JavaScript so it’s easy to learn, and also helps developers learn proper JavaScript coding practices</dd></dl><dl class="badImage"><dt> 
-         <img src="typescript-bad.jpg" alt=""> 
-      </dt><dd>Figure: Bad – CoffeeScript syntax is very different from JavaScript so it takes longer to learn</dd> </dl>
+
+::: good  
+![Figure: Good - TypeScript is very similar to JavaScript so it’s easy to learn, and also helps developers learn proper JavaScript coding practices](typescript-good.jpg)  
+:::  
+
+::: bad  
+![Figure: Bad – CoffeeScript syntax is very different from JavaScript so it takes longer to learn](typescript-bad.jpg)  
+:::

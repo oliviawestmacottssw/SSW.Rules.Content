@@ -22,6 +22,7 @@ redirects:
 .NET Core is fast, and you get that performance out of the box.
 
 <!--endintro-->
-<dl class="image"><dt>
-   <img src="dotnet-core-performance.jpg" alt="dotnet-core-performance.jpg">
-</dt><dd>Figure: ASP.NET Core easily trounces ASP.NET 4 in number of requests per second (<a href="https://www.ageofascent.com/2016/02/18/asp-net-core-exeeds-1-15-million-requests-12-6-gbps/" target="_blank">view source</a>)</dd></dl>
+
+::: ok  
+![Figure: ASP.NET Core easily trounces ASP.NET 4 in number of requests per second (view source)](dotnet-core-performance.jpg)  
+:::

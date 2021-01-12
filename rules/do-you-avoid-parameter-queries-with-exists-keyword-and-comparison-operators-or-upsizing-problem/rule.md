@@ -12,7 +12,6 @@ related:
 - do-you-have-complex-queries-upsizing-problem
 - do-you-remove-vba-function-names-in-queries-before-upsizing-queries-upsizing-problem
 redirects:
-- do-you-avoid-parameter-queries-with-exists-keyword-and-comparison-operators--or-upsizing-problem
 - do-you-avoid-parameter-queries-with-exists-keyword-and-comparison-operators-(-or-)(upsizing-problem)
 
 ---
@@ -40,18 +39,30 @@ WHERE EXISTS (SELECT EmployeeID
  AND Employees.EmployeeID=Orders.EmployeeID) <> FALSE
 ```
 
-<font class="ms-rteCustom-FigureBad">Figure&#58; Bad example of Access query with EXISTS keyword and comparison operator </font>
+
+
+::: bad
+Figure: Bad example of Access query with EXISTS keyword and comparison operator
+:::
+
+
 
 ```
 PARAMETERS [@Employee Last Name] Text ( 20 ); 
 SELECT Orders.OrderID
 , Orders.CustomerID
 , Orders.EmployeeID
-FROM Orders
-WHERE EXISTS (SELECT EmployeeID 
+<br>FROM Orders
+<br>WHERE EXISTS (SELECT EmployeeID 
  FROM Employees
- WHERE LastName= [@Employee Last Name] 
+<br> WHERE LastName= [@Employee Last Name] 
  AND Employees.EmployeeID=Orders.EmployeeID)
 ```
 
-<font class="ms-rteCustom-FigureGood">Figure&#58; Good example of Access query with EXISTS keyword and without comparison operator</font>In order to get the good example syntax you must switch from Design View window to SQL View in query designer window and save query definition.
+
+
+::: good
+Figure: Good example of Access query with EXISTS keyword and without comparison operator
+:::
+
+In order to get the good example syntax you must switch from Design View window to SQL View in query designer window and save query definition.

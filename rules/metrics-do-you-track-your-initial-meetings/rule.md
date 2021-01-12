@@ -15,7 +15,6 @@ authors:
 related: []
 redirects:
 - track-your-initial-meetings
-- metrics---do-you-track-your-initial-meetings
 
 ---
 
@@ -41,7 +40,7 @@ Figure: Bad subject - not clear it is an initial meeting
 
 
 ::: greybox
-**Subject:** <mark>Initial meeting</mark> with SSW and Bob from Northwind
+ **Subject:** <mark>Initial meeting</mark> with SSW and Bob from Northwind
 **Subject:** <mark>Initial</mark> phone <br>         <mark>meeting</mark> with SSW and Bob from Northwind
 :::
 
@@ -60,8 +59,13 @@ Figure: Good subjects - Make clear it is an initial meeting by having both words
 <!--endintro-->
 
 The Appointment should also be tracked (without regarding) in Dynamics 365 so that this information is readily available and reportable.
-<dl class="image"><dt><img src="initial-meeting-dynamics.png" alt="initial-meeting-dynamics.png" style="width:750px;"></dt><dd>Figure: Initial Meeting created in Outlook and tracked to Dynamics 365</dd></dl>
+
+::: ok  
+![Figure: Initial Meeting created in Outlook and tracked to Dynamics 365](initial-meeting-dynamics.png)  
+:::  
+
 The idea behind it is that Power BI can then track and show this.
-<dl class="image"><dt>
-      <img src="initial-meeting-graph.jpg" alt="initial-meeting-graph.jpg" style="width:750px;">
-   </dt><dd>Figure: It's clear to see that there is no yellow in the past couple of months, which may indicate work drying up for Stephen's area<br></dd></dl>
+
+::: ok  
+![Figure: It's clear to see that there is no yellow in the past couple of months, which may indicate work drying up for Stephen's area](initial-meeting-graph.jpg)  
+:::

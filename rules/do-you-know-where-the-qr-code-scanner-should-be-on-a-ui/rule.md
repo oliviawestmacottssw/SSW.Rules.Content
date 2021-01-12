@@ -17,10 +17,10 @@ redirects:
 The best place for a QR code scanner is to put it on top of the home page with a “Scanner” icon and labeled “Scan”?
 
 <!--endintro-->
-<dl class="ssw15-rteElement-ImageArea"><img src="qr scanner on UI.png" alt="" style="width:770px;"> </dl>
+![](qr scanner on UI.png)
 
 ::: good
-    Figure: Good example - Apps put the QR code scanner on top of  homepage
+Figure: Good example - Apps put the QR code scanner on top of  homepage
 
 :::
 

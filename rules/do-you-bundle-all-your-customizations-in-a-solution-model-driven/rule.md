@@ -29,9 +29,11 @@ Differences between Managed and Unmanaged solutions:
 * Unmanaged solutions will install the changes but deleting the solution will leave the changes intact, so think of it as an additive change
 * To completely remove all customizations in an Unmanaged solution every customized item needs to be manually deleted
 
-<dl class="image"><dt>
-      <img src="solutions-custom.png" alt="solutions-custom.png" style="width:750px;">
-   </dt><dd>Figure: Solution show all customizations, make it very easy to move changes between environments<br></dd></dl>
+
+::: ok  
+![Figure: Solution show all customizations, make it very easy to move changes between environments](solutions-custom.png)  
+:::  
+
 ### Related Rule
 
 

@@ -13,8 +13,5 @@ redirects: []
 
 ---
 
-[[badExample]]
-| ![The sample applications  do not include the concept of a business](request-process-bad.jpg)
-[[goodExample]]
-| ![An enterprise solution should include a business layer and a data layer abstraction](request-process-good.jpg)
+![inject](request-process-bad.jpg)Figure: Bad Example – The sample applications  do not include the concept of a business ![inject](request-process-good.jpg)Figure: Good Example – An enterprise solution should include a business layer and a data layer abstraction
 <!--endintro-->

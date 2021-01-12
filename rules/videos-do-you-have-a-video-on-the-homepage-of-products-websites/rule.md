@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- videos---do-you-have-a-video-on-the-homepage-of-products-websites
+redirects: []
 
 ---
 
@@ -19,7 +18,11 @@ The best way to show the features of a product is creating a video. The informat
 Videos are also important for services, but for products, it should be **on the homepage** .
 
 <!--endintro-->
-<dl class="goodImage"><dt><img src="dropbox-homepage.jpg" alt="Dropbox homepage"></dt><dd><a href="https://www.dropbox.com/" target="_blank">Good Example - Dropbox homepage</a> has no text but a video that shows nicely how it works<br></dd></dl>
+
+::: good  
+![Good Example - Dropbox homepage has no text but a video that shows nicely how it works](dropbox-homepage.jpg)  
+:::  
+
 ### Videos are also good for SEO
 
 By embedding videos onto your website it will help get the videos more views, which is a determinant for Google nowadays.

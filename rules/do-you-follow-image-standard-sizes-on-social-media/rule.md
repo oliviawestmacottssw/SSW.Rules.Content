@@ -96,10 +96,10 @@ Besides following the size of the images on Facebook Ads, you should also have l
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="jason2.png" alt="jason2.png" style="margin:5px;"></dl>
+![jason2.png](jason2.png)
 
 ::: good
- Figure: Good Example – Our designer [David Berkes](https://www.ssw.com.au/people/david-berkes) created a set of images for ads on Facebook and Instagram that were consistent with [SSW’s branding guidelines](https://www.ssw.com.au/ssw/logo/ssw/) and also with the SSW's [Clean Architecture Superpowers](https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Superpowers-Tour.aspx) training solution [sub-branding](https://www.ssw.com.au/ssw/logo/)
+Figure: Good Example – Our designer [David Berkes](https://www.ssw.com.au/people/david-berkes) created a set of images for ads on Facebook and Instagram that were consistent with [SSW’s branding guidelines](https://www.ssw.com.au/ssw/logo/ssw/) and also with the SSW's [Clean Architecture Superpowers](https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Superpowers-Tour.aspx) training solution [sub-branding](https://www.ssw.com.au/ssw/logo/)
 
 :::
 

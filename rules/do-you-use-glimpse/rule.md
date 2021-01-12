@@ -29,14 +29,14 @@ Glimpse lets you find useful information like:
 
 The new version of Glimpse now also gives you a Heads Up Display (HUD) showing you important information all the time.  While developing, it's a good idea to keep Glimpse open so you can see any issues as soon they come up.
 
+![GlimpseHeadsUpDisplay.png](GlimpseHeadsUpDisplay.png)
 
-![The new Glimpse Heads Up Display](GlimpseHeadsUpDisplay.png)
+Figure: The new Glimpse Heads Up Display
 
 For more information on what the HUD provides, see [Damian Brady's blog post](http://blog.damianbrady.com.au/2013/06/12/glimpse-heads-up-display-released/).
 
 Glimpse is available on NuGet, so it’s a simple matter to get it up and running on your application. You can find out more from [their website](http://getglimpse.com/).
-
-![Glimpse in action - We can see which routes were chosen for this page, and the parameters used by the controller](glimpse.png)
+![glimpse.png](glimpse.png)**Figure: Glimpse in action - We can see which routes were chosen for this page, and the parameters used by the controller**  
 ## Securing Glimpse for production use
 
 Glimpse is very powerful but there are some considerations to be addressed before using it on Production.
@@ -53,37 +53,37 @@ Install Glimpse on production so that only internal developers can enable it.Thi
 
 * Limiting access to an ip address range. 
 
-<glimpse enabled="true">
+&lt;glimpse enabled="true"&gt;
 
-    <ipAddresses>
+    &lt;ipAddresses&gt;
 
-      <add address="127.0.0.1" />
+      &lt;add address="127.0.0.1" /&gt;
 
-      <add addressRange="192.168.1.1/24" />
+      &lt;add addressRange="192.168.1.1/24" /&gt;
 
-      <add address="::1" />
+      &lt;add address="::1" /&gt;
 
-ipAddresses>
-glimpse>
+    &lt;/ipAddresses&gt;
+  &lt;/glimpse&gt;
  **Figure: Glimpse is now limited to localhost and the 192.168.1.x network**
 * Using role-based authentication.
 If your site has role-based authentication, you can secure Glimpse usage by editing web.config to control access to the Glimpse.axd location.
 
-<location path="glimpse.axd">
+&lt;location path="glimpse.axd"&gt;
 
-<system.web>
+&lt;system.web&gt;
 
-         <authorization>
+         &lt;authorization&gt;
 
-              <allow roles="Developers" />
+              &lt;allow roles="Developers" /&gt;
 
-              <deny users="\*" />
+              &lt;deny users="\*" /&gt;
 
-authorization>
+         &lt;/authorization&gt;
 
-system.web>
+&lt;/system.web&gt;
 
-location> 
+&lt;/location&gt; 
  **<font face="Calibri">Figure: Glimpse is restricted to the Developers group</font>**
 
 
@@ -96,27 +96,27 @@ If an end-user reports a problem on your website it can be useful to temporarily
 * Create a new authentication role such as "PublicGlimpseUsers"
 * Edit web.config to control access to Glimpse.axd
 
-<location path="glimpse.axd">
+&lt;location path="glimpse.axd"&gt;
 
-<system.web>
+&lt;system.web&gt;
 
-         <authorization>
+         &lt;authorization&gt;
 
-              <allow roles="Developers, PublicGlimpseUsers" />
+              &lt;allow roles="Developers, PublicGlimpseUsers" /&gt;
 
-              <deny users="\*" />
+              &lt;deny users="\*" /&gt;
 
-authorization>
+         &lt;/authorization&gt;
 
-system.web>
+&lt;/system.web&gt;
 
-location> 
+&lt;/location&gt; 
  **<font face="Calibri"><span style="color:#000000;">Figure: Glimpse.axd is now restricted to Developers  and PublicGlimpseUsers </span><br></font>**
 * Disable the “config” section of Glimpse so that site connection strings are not published. 
 
-<pluginBlacklist>
+&lt;pluginBlacklist&gt;
 
-      <add plugin="Glimpse.Core.Plugin.Config" />
+      &lt;add plugin="Glimpse.Core.Plugin.Config" /&gt;
 
-pluginBlacklist>
+&lt;/pluginBlacklist&gt;
 **<font face="Calibri">Figure: How to disable the Config tab </font>**

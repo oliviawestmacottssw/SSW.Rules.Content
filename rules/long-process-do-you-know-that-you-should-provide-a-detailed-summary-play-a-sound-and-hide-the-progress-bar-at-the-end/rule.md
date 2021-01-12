@@ -7,8 +7,7 @@ uri: long-process-do-you-know-that-you-should-provide-a-detailed-summary-play-a-
 created: 2012-11-27T03:07:01.0000000Z
 authors: []
 related: []
-redirects:
-- long-process---do-you-know-that-you-should-provide-a-detailed-summary-play-a-sound-and-hide-the-progress-bar-at-the-end
+redirects: []
 
 ---
 
@@ -26,9 +25,21 @@ Your application should remind the user to go back and check on it by:
 See rule on [Do you know how to make long-running processes user-friendly?](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Windows-Applications.aspx#LongProcessFriendly)
 
 When using Message Box to indicate user a process is done, always includes detailed summary of the process. Don't just say "Process completed."
-<dl class="badImage"><dt><div style="width:40%;">Process completed. </div></dt>
-<dd>Figure: Bad example – No detailed information</dd></dl>
+
+::: bad  
+![Process completed.  Figure: Bad example – No detailed information](../../assets/ProgressBarComplete.gif)  
+:::  
+
 This is just like standing at a set of traffic lights listening for the beep to know when to walk, rather than constantly looking at the red and green lights.
-<dl class="goodImage"><dt><img alt="Completed Progress Form" src="../../assets/ProgressBarComplete.gif"></dt>
-<dd>Figure: OK Example - A completed progress form</dd></dl><dl class="goodImage"><dt><div style="width:40%;">Manual extraction process completed.<br><br>Mailboxes scanned: 8<br>Mailboxes skipped: 2<br>Total mailboxes: 10<br>Time Taken: 10 minutes, 15 seconds </div></dt>
-<dd>Figure: Good example – The user can see what has been processed</dd></dl>
+
+::: good  
+![Figure: OK Example - A completed progress form](../../assets/ProgressBarComplete.gif)  
+:::  
+
+Manual extraction process completed.
+
+Mailboxes scanned: 8
+Mailboxes skipped: 2
+Total mailboxes: 10
+Time Taken: 10 minutes, 15 seconds 
+Figure: Good example – The user can see what has been processed

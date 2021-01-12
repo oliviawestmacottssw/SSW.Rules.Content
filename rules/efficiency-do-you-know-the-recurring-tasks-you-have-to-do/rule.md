@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-know-the-recurring-tasks-you-have-to-do
-- efficiency---do-you-know-the-recurring-tasks-you-have-to-do
 
 ---
 

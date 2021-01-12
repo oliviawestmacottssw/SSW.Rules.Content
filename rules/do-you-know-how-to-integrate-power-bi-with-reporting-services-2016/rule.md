@@ -14,14 +14,14 @@ redirects: []
 There are 2 ways to integrate Power BI with SSRS (SQL Reporting Services) that will allow you to be able to find all of your relevant reports from wherever you look for them
 
 <!--endintro-->
-<dl class="ssw15-rteElement-ImageArea"><img src="SSRS.png" alt="SSRS.png" style="margin:5px;width:808px;"></dl>
+![SSRS.png](SSRS.png)
 
 ::: good
 In SSRS 2016, you can list Power BI reports as if they were SSRS ones.
 :::
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="Power BI Dashboard.png" alt="Power BI Dashboard.png" style="margin:5px;width:808px;"></dl>
+![Power BI Dashboard.png](Power BI Dashboard.png)
 
 ::: good
 Figure - Good Example: Power BI dashboards can show charts from SSRS reports, and link through to them when clicked.

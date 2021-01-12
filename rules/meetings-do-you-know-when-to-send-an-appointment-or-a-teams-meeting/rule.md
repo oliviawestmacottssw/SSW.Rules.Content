@@ -14,7 +14,6 @@ related: []
 redirects:
 - send-appointment-or-teams-meeting
 - run-your-meetings-through-teams
-- meetings---do-you-know-when-to-send-an-appointment-or-a-teams-meeting
 
 ---
 
@@ -36,25 +35,33 @@ Sending appointments from Teams feels less natural than from Outlook but there a
 **Important:** Although the meeting app works great to organize Teamwork such as Scrum meetings or other client meetings, it is not very suitable for more global events such as a retreat or a conference. At SSW we use Microsoft Outlook appointments in those instances.
 
 
-<dl class="badImage"><dt>
-            <img src="team meeting - bad example.jpg" alt="teams meeting - invitation link.jpg" style="width:750px;"> 
-            <br>
-         </dt><dd>Figure: Bad Example - This appointment was created using Outlook using Zoom - the team members needed to be added to the appointment individually and there are too many options on how to join the meeting.<br></dd></dl>
 
-<dl class="goodImage"><dt>
-      <img src="team meetings - appointment from teams.jpg" alt="teams meeting - invitation link.jpg" style="width:750px;">
-   </dt><dd>Figure: Good Example - I know this appointment was created in Microsoft Teams since it was created on behalf of the team (see sender) and at the bottom it has a link so that people can click and join the correct meeting (even without Teams installed)<br></dd></dl>
+::: bad  
+![Figure: Bad Example - This appointment was created using Outlook using Zoom - the team members needed to be added to the appointment individually and there are too many options on how to join the meeting.](team meeting - bad example.jpg)  
+:::  
+
+
+
+::: good  
+![Figure: Good Example - I know this appointment was created in Microsoft Teams since it was created on behalf of the team (see sender) and at the bottom it has a link so that people can click and join the correct meeting (even without Teams installed)](team meetings - appointment from teams.jpg)  
+:::  
+
 <!--endintro-->
-<dl class="image"><h3 class="ssw15-rteElement-H3">How to make a Teams Meeting<br></h3><dt> 
-      <br> 
-   </dt><dt>To setup a Teams meeting, simply navigate to "Calendar" and then either "Meet Now" or "New Meeting".<br></dt><dt> 
-      <img src="creating-new-meeting.jpg" alt="creating-new-meeting.jpg">
-   </dt><dd>Figure: Creating a new meeting </dd></dl><dl class="image"><dt>
-      <img src="meetings-options.jpg" alt="meetings-options.jpg">
-   </dt><dd>Figure: Meeting options</dd></dl>
+
+::: ok  
+![How to make a Teams Meeting             To setup a Teams meeting, simply navigate to "Calendar" and then either "Meet Now" or "New Meeting".            Figure: Creating a new meeting](creating-new-meeting.jpg)  
+:::  
+
+::: ok  
+![Figure: Meeting options](meetings-options.jpg)  
+:::  
+
 You can select a Channel to meet in and by doing so, members of the Team in which this channel lives will see a Channel activity that you can click to directly jump in the meeting.
-<dl class="image"><dt>
-      <img src="meeting-channel-activity.jpg" alt="meeting-channel-activity.jpg"> </dt><dd>Figure: meeting channel activity</dd></dl>
+
+::: ok  
+![Figure: meeting channel activity](meeting-channel-activity.jpg)  
+:::  
+
 Microsoft Teams will also send out an email invitation email for the meeting - this is especially useful when inviting people outside your organization.
 
 ### Related rule

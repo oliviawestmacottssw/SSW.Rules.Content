@@ -15,7 +15,6 @@ authors:
 related: []
 redirects:
 - spec-do-you-create-tasks-under-4-hours
-- spec---do-you-keep-your-pbis-smaller-than-2-days-effort
 
 ---
 

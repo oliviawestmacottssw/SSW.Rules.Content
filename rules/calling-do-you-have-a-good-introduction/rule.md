@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - make-a-good-call-introduction
-- calling---do-you-have-a-good-introduction
 
 ---
 

@@ -7,8 +7,7 @@ uri: getting-started-have-you-read-the-scrum-guide
 created: 2010-08-02T06:42:01.0000000Z
 authors: []
 related: []
-redirects:
-- getting-started---have-you-read-the-scrum-guide
+redirects: []
 
 ---
 
@@ -20,9 +19,7 @@ Everyone who will be involved in Scrum (pigs and chickens alike) should have rea
 
 Understanding the concepts of Scrum is easy; implementing it is hard!
 
-<dl><dt>
-      <img class="ms-rteCustom-ImageArea" src="ScrumChickenPig.jpg" alt=""> 
-   </dt> <strong>Figure: It's handy to know who the pigs and chickens are. The word "commit" and this silly chicken and pig story, were removed from the Scrum Guide 2011.</strong> </dl>
+![](ScrumChickenPig.jpg) **Figure: It's handy to know who the pigs and chickens are. The word "commit" and this silly chicken and pig story, were removed from the Scrum Guide 2011.** 
 
 
 Everyone should:

@@ -7,8 +7,7 @@ uri: reports-do-you-always-make-sure-the-dimensions-all-captions-all
 created: 2014-12-01T06:06:37.0000000Z
 authors: []
 related: []
-redirects:
-- reports---do-you-always-make-sure-the-dimensions-all-captions--all
+redirects: []
 
 ---
 

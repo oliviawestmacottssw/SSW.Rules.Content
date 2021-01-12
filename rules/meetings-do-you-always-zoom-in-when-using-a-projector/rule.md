@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- meetings---do-you-always-zoom-in-when-using-a-projector
+redirects: []
 
 ---
 
@@ -19,10 +18,7 @@ It is a common problem that people will tend to use the default screen resolutio
 <!--endintro-->
 
 It is always better to zoom in by holding down the CTRL button and scrolling up on the mouse.
-<dl class="image">                 <dt>
-                    <img src="ZoomInEmail.jpg" alt="Zoom in email " style="width:550px;">
-                  </dt>
-                  <dd>
-                    Figure: Zoom in email             
-                   </dd>
-                </dl>
+
+::: ok  
+![Figure: Zoom in email](ZoomInEmail.jpg)  
+:::

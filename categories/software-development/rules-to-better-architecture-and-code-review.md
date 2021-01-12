@@ -27,14 +27,14 @@ index:
 - do-you-look-for-opportunities-to-use-linq
 - do-you-use-the-repository-pattern-for-data-access
 - do-you-look-for-large-strings-in-code
-- do-you-decide-on-the-level-of-the-verboseness-eg-ternary-operators
+- do-you-decide-on-the-level-of-the-verboseness-e-g-ternary-operators
 - do-you-review-the-code-comments
 - do-you-use-the-best-code-analysis-tools
 - do-you-use-a-logging-framework
 - do-you-look-for-code-coverage
 - do-you-use-the-kent-beck-philosophy
 - do-you-know-the-best-dependency-injection-container-aka-do-not-waste-days-evaluating-ioc-containers
-- do-you-know-what-to-do-about-aspnet-core-default-dependency-injection
+- do-you-know-what-to-do-about-asp-net-core-default-dependency-injection
 - do-you-use-subdomains-instead-of-virtual-directories
 - do-you-use-the-best-middle-tier-net-libraries
 - do-you-use-the-best-web-ui-libraries

@@ -11,8 +11,7 @@ authors:
 - title: Raj Dhatt
   url: https://ssw.com.au/people/raj-dhatt
 related: []
-redirects:
-- production---do-you-know-to-subtitle-your-videos
+redirects: []
 
 ---
 
@@ -23,4 +22,7 @@ Sometimes, the audio recording is too low, and adding gain to the audio will int
 <!--endintro-->
 
 Use the following:
-<dl class="goodImage"><dt><img src="subtitle.jpg" alt="Have a subtitle"></dt><dd>Figure: Good example – the text helps people to understand what's happening on the video</dd></dl>
+
+::: good  
+![Figure: Good example – the text helps people to understand what's happening on the video](subtitle.jpg)  
+:::

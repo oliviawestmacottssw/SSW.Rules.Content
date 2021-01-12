@@ -13,13 +13,17 @@ authors:
 related: []
 redirects:
 - appointments-do-you-avoid-putting-the-time-and-date-into-the-text-field-of-a-meeting
-- appointments---do-you-avoid-putting-the-time-and-date-into-the-subject-or-body-of-a-meeting
 
 ---
 
 Avoid putting the date and time into the text field of a meeting since these are often overlooked when changing the meeting time/date metadata.
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="Bad calendar appointment.jpg" alt="Bad calendar appointment.jpg" style="width:750px;"></dt><dd>Figure: Bad Example - The appointment with the date in the text</dd></dl><dl class="goodImage"><dt> 
-      <img src="Good calendar appointment.jpg" alt="Good calendar appointment.jpg" style="width:750px;"> 
-   </dt><dd> Figure: Good Example - The appointment without time and date in the text</dd></dl>
+
+::: bad  
+![Figure: Bad Example - The appointment with the date in the text](Bad calendar appointment.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - The appointment without time and date in the text](Good calendar appointment.jpg)  
+:::

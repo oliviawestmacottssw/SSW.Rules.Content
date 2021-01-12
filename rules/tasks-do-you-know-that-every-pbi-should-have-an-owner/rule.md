@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - tasks-do-you-know-that-every-user-story-should-have-an-owner
-- tasks---do-you-know-that-every-pbi-should-have-an-owner
 
 ---
 
@@ -34,10 +33,15 @@ Beware, this is intended for convenience and should not conflict with the follow
 * The Development team is self-organizing.
 * Accountability belongs to the development team as a whole
 
-<dl class="badImage"><dt> 
-      <img alt="image" src="UserStoryOwner_Bad.png">
-   </dt><dd>Figure: Bad example - The Product Owner is not sure who to speak to</dd></dl><dl class="goodImage">   <dt> 
-      <img alt="image" src="UserStoryOwner_Good.png">
-   </dt><dd>Figure: Good example - The Product Owner can now see who he should speak to and developers know where to send done emails</dd></dl><dl class="image"><dt> 
-      <img alt="TFS_Screenshot4.png" src="TFS_Screenshot4.png" style="width:750px;height:437px;"> 
-   </dt><dd>Figure: Use the 'Assigned To' column to identify who will be presenting the task<br><br><br></dd></dl>
+
+::: bad  
+![Figure: Bad example - The Product Owner is not sure who to speak to](UserStoryOwner\_Bad.png)  
+:::  
+
+::: good  
+![Figure: Good example - The Product Owner can now see who he should speak to and developers know where to send done emails](UserStoryOwner\_Good.png)  
+:::  
+
+::: ok  
+![Figure: Use the 'Assigned To' column to identify who will be presenting the task](TFS\_Screenshot4.png)  
+:::

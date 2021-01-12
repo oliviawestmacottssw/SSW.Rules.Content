@@ -11,11 +11,13 @@ authors:
 related: []
 redirects:
 - update-or-delete-mistakes
-- clarity---do-you-update-or-delete-message-mistakes
 
 ---
 
 If the message you type has a mistake, update it (or delete it) so the recipient doesn't see the mistake.
 
 <!--endintro-->
-<dl class="image"><dt><img src="Screen Shot 2018-12-11 at 1.52.42 PM.png" alt="Screen Shot 2018-12-11 at 1.52.42 PM.png"></dt><dd>Figure: "Edit" and "Delete" are options after you type a message<br></dd></dl>
+
+::: ok  
+![Figure: "Edit" and "Delete" are options after you type a message](Screen Shot 2018-12-11 at 1.52.42 PM.png)  
+:::

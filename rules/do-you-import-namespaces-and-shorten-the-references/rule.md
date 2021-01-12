@@ -42,8 +42,11 @@ Figure: Good code - Import the namespace and remove the repeated System.Text ref
 
 
 If you have ReSharper installed, you can let ReSharper take care of this for you:
-<dl class="image"><dt>
-      <img src="ReSharperReformatCode.gif" alt="ReSharperReformatCode.gif">
-   </dt><dd>Figure: Right click and select "Reformat Code..."<br></dd></dl><dl class="image"><dt>
-         <img src="ReSharperShortenReferences.gif" alt="ReSharperShortenReferences.gif">
-      </dt><dd>Figure: Make sure "Shorten references" is checked and click "Reformat"<br></dd></dl>
+
+::: ok  
+![Figure: Right click and select "Reformat Code..."](ReSharperReformatCode.gif)  
+:::  
+
+::: ok  
+![Figure: Make sure "Shorten references" is checked and click "Reformat"](ReSharperShortenReferences.gif)  
+:::

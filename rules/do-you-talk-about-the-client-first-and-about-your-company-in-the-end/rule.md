@@ -22,4 +22,7 @@ At SSW, our proposals are to be divided into 3 parts:
 
 
 <!--endintro-->
-<dl class="image"><dt><img src="Proposals_ClientPagesFirst.jpg" alt="Proposals_ClientPagesFirst.jpg"></dt><dd>Figure: Relevant information comes first on our proposals<br></dd></dl>
+
+::: ok  
+![Figure: Relevant information comes first on our proposals](Proposals\_ClientPagesFirst.jpg)  
+:::

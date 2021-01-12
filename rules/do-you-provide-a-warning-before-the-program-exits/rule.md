@@ -14,8 +14,14 @@ redirects: []
 A product should not close without providing a warning. We use the following message box to warn the user before closing a program:
 
 <!--endintro-->
-<dl class="goodImage"><dt><img alt="SSW Exchange Reporter - Are you sure you want to exit?" src="../../assets/CloseWarning.gif"></dt>
-<dd>Figure: Good Example - Standard warning before a program exits</dd></dl><dl class="code"><dt><pre>        private void OnExit(object sender) 
+
+::: good  
+![Figure: Good Example - Standard warning before a program exits](../../assets/CloseWarning.gif)  
+:::  
+
+
+```
+private void OnExit(object sender) 
              { 
                 EventHandler handler = ExitRequest; 
                 if (handler!= null ) 
@@ -31,5 +37,7 @@ A product should not close without providing a warning. We use the following mes
                    Application.Exit();
                 } 
              }
-                        </pre></dt></dl>
+```
+
+
 We have an example of this in the [SSW .NET Toolkit](http://www.ssw.com.au/ssw/NETToolkit/).

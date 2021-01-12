@@ -16,5 +16,4 @@ Always end your presentation with a 'Thank You' slide. More than being polite, i
 Even better; if you did a good job, you might get a clap (or in Adam's case, a cough).
 
 <!--endintro-->
-<dl>    <dt><img class="ms-rteCustom-ImageArea" alt="SSW Thank You slide" src="ThankSlide.jpg"> </dt>
-     <strong>Figure: Always finish with a ‘Thank You’ slide</strong> </dl>
+![SSW Thank You slide](ThankSlide.jpg) **Figure: Always finish with a ‘Thank You’ slide**

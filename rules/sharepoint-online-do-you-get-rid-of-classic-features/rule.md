@@ -9,8 +9,7 @@ authors:
 - title: Jean Thirion
   url: https://ssw.com.au/people/jean-thirion
 related: []
-redirects:
-- sharepoint-online---do-you-get-rid-of-classic-features
+redirects: []
 
 ---
 
@@ -24,32 +23,60 @@ Get rid of classic features in SharePoint Online.
 Microfeed list is used to support the MicroFeed Classic web part. If you’re using Modern SharePoint Sites and Pages (and you should !) everywhere, you don’t need that list anymore.
 
 To delete the Microfeed List, simply de-activate the Site Feed feature at the Web level:
-<dl class="image"><dt><img src="microfeed-sharepoint.png" alt="microfeed-sharepoint.png" style="width:750px;"></dt><dt><img src="site-feed-sharepoint.png" alt="site-feed-sharepoint.png" style="width:750px;"></dt></dl>
+
+::: ok  
+![](microfeed-sharepoint.png)  
+:::  
+
 ### Company Announcements
 
 "Announcements" is a default List that used to be created with classic Team Sites. If you’re not using it, chances are you will never do, and modern News should be your replacement for it.
-<dl class="image"><dt><img src="company-announcements-sharepoint.png" alt="company-announcements-sharepoint.png" style="width:750px;"></dt></dl>
+
+::: ok  
+![](company-announcements-sharepoint.png)  
+:::  
+
 To remove company News, click “Settings” | “Remove” from Site Contents:
-<dl class="image"><dt><img src="site-feed-sharepoint2.png" alt="site-feed-sharepoint2.png"></dt></dl>
+
+::: ok  
+![](site-feed-sharepoint2.png)  
+:::  
+
 ### Drop Off Library
 
 Drop Off Libraries (Content Organizer feature) were a way to automate moving documents around based on Metadata. This is no longer the optimal solution and you should use Power Automate instead. To remove Drop Off Library from your site, you need to disable the “Content Organizer” Web level feature:
-<dl class="image"><dt><img src="content-organizer-sharepoint.png" alt="content-organizer-sharepoint.png" style="width:750px;"></dt></dl>
+
+::: ok  
+![](content-organizer-sharepoint.png)  
+:::  
+
 ### Deleting leftovers from Migrations
 
 
 After migrating content from older versions of SharePoint, you may end up in a hybrid state where the abovementioned features are disabled, but associated libraries/lists are still present on your site. If that happens, you ideally want to clean it up.
 The first thing you can try is enabling/disabling the feature again. In some cases, that will fix the issue and remove the unwanted list/library.
 If that doesn’t work, however, there is a more radical approach: removing the list/library using Powershell:
-<dl class="image"><dt><img src="jean-migration-1.jpg" alt="jean-migration-1.jpg"></dt></dl>
+
+::: ok  
+![](jean-migration-1.jpg)  
+:::  
+
 (In case you prefer using code straight away instead of the screenshot)
 
 Remove-PnPList -Identity "Workflow Tasks" -Force
 
 However, on system Lists, you may get an error:
-<dl class="image"><dt><img src="jean-migration-2.jpg" alt="jean-migration-2.jpg"></dt></dl>
+
+::: ok  
+![](jean-migration-2.jpg)  
+:::  
+
 The workaround is to set the “AllowDeletion” flag to true before calling delete:
-<dl class="image"><dt><img src="jean-migration-3.png" alt="jean-migration-3.png"></dt></dl>
+
+::: ok  
+![](jean-migration-3.png)  
+:::  
+
 (In case you prefer using code straight away instead of the screenshot)
 
 $list = Get-PnPList -Identity "Workflow Tasks"

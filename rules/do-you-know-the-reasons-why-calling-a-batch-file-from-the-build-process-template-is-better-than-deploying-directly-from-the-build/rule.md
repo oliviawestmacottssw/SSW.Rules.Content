@@ -18,7 +18,11 @@ Ideally, Builds are created once, and can then be deployed to any environment, a
 We do this by including deployment batch files in the solution, and specifying them to be called in the Build Process Template.
 
 <!--endintro-->
-<dl class="badImage"><dt><img alt="Deployment scripts" src="deployment-scripts.jpg"><br></dt></dl><dl class="goodImage"><dd>Figure: Good Example - Include deployment scripts in the solution, and execute them from the Build Process Template</dd></dl>
+
+::: bad  
+![](deployment-scripts.jpg)  
+:::  
+Figure: Good Example - Include deployment scripts in the solution, and execute them from the Build Process Template
 
 | | Bad Example - Using Builds to Deploy | Good Example - Using Batch File |
 | --- | --- | --- |

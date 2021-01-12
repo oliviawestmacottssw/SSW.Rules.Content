@@ -28,16 +28,22 @@ Do you configure redirection from HTTP to https for Outlook Web App (OWA)? To si
 6. Type the absolute path of the /owa virtual directory. For example, type  **https://mail.domain.com/owa.**
 7. Under  **Redirect Behavior** , select the  **Only redirect requests to content in this directory (not subdirectories)** check box.
 8. In the  **Status code** list, click  **Found (302)** .
-9. In the Actions pane, click  **Apply** . <dl class="image"><dt> <img alt="OWARedirect.jpg" src="OWARedirect.jpg" style="width:800px;"> </dt></dl>
+9. In the Actions pane, click  **Apply** . 
+::: ok  
+![](OWARedirect.jpg)  
+:::
 10. Click  **Default Web Site** .
 11. In the Default Web Site Home pane, double-click  **SSL Settings** .
-12. In  **SSL Settings** , clear  **Require SSL** . <dl class="image"><dt> <img alt="OWARedirect2.jpg" src="OWARedirect2.jpg"> </dt></dl>
+12. In  **SSL Settings** , clear  **Require SSL** . 
+::: ok  
+![](OWARedirect2.jpg)  
+:::
 
 
 ### Step 2: Remove redirection from virtual directories
 
 1. Open a Command Prompt window.
-2. Navigate to:    <window directory="">\System32\Inetsrv.<br></window>
+2. Navigate to:    &lt;Window directory&gt;\System32\Inetsrv.
 3. Run the following commands:    appcmd set config "Default Web Site/autodiscover" /section:httpredirect /enabled:false -commit:apphost 
 appcmd set config "Default Web Site/ecp" /section:httpredirect /enabled:false -commit:apphost
 appcmd set config "Default Web Site/ews" /section:httpredirect /enabled:false -commit:apphost
@@ -55,4 +61,11 @@ appcmd set config "Default Web Site/Microsoft-Server ActiveSync" /section:httpre
 1. Open Internet Explorer and type in  **http://mail.domain.com**
 2. DONE - You are then redirected to  **https://mail.domain.com/owa**
 
-<dl class="image"><dt> <img src="iisnoredirect.jpg" alt="iisnoredirect.jpg" style="width:808px;"> </dt><dd> Figure: Bad Example, no redirect in place for OWA<br></dd></dl><dl class="image"><dt> <img src="iisredirect.jpg" alt="iisredirect.jpg" style="width:808px;"> </dt><dd>Figure: Good Example, redirect from HTTP to https for OWA </dd></dl>
+
+::: bad  
+![Figure: Bad Example, no redirect in place for OWA](iisnoredirect.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example, redirect from HTTP to https for OWA](iisredirect.jpg)  
+:::

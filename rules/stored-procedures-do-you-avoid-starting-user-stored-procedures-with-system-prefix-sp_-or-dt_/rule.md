@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - avoid-starting-user-stored-procedures-with-system-prefix-sp_-or-dt_
-- stored-procedures---do-you-avoid-starting-user-stored-procedures-with-system-prefix-sp_-or-dt_
 
 ---
 

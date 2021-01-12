@@ -29,9 +29,17 @@ It is a simple 4 step process:
     * This is a 1-5 day exercise for 1-2 people. The general rule is 1 man day per expected 2 week sprint.
     * This process is timeboxed, and so appears to the client as a fixed price.
 2. Make sure you get [Terms and Conditions](http://www.ssw.com.au/ssw/standards/forms/ConsultingOrderTermsConditions.aspx) signed before you start work on this.
-3. [Specification Review](/rules) - You will create a backlog of tasks, and some form of document (word or ppt) to present to the client explaining your proposed approach.<br><dl class="image"><dt><img src="ms-ppt-word-logos.jpg" alt=""></dt></dl>
+3. [Specification Review](/rules) - You will create a backlog of tasks, and some form of document (word or ppt) to present to the client explaining your proposed approach.<br>
+::: ok  
+![](ms-ppt-word-logos.jpg)  
+:::
 4. Present the Spec Review results to the client (in a meeting with all stakeholders) on site if possible, or over the phone if not, but never just by email.
 
-<dl class="goodImage"><dt><img alt="Project Portal" src="ProductBacklog.jpg" style="width:600px;"> </dt>
-<dd>Figure: Good Example - The backlog is constructed during the Spec Review</dd></dl><dl class="goodImage"><dt><img alt="CRM Opportunity" src="CRMOpportunitySalesStage.jpg" style="width:600px;"> </dt>
-<dd>Figure: Good Example - CRM Record showing the <a href="/Pages/The-6-stages-in-the-Sales-Pipeline.aspx">sales stage</a> of the Opportunity after the Spec Review has been booked</dd></dl>
+
+::: good  
+![Figure: Good Example - The backlog is constructed during the Spec Review](ProductBacklog.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - CRM Record showing the sales stage of the Opportunity after the Spec Review has been booked](CRMOpportunitySalesStage.jpg)  
+:::

@@ -32,7 +32,11 @@ For lightweight web projects such as Angular, often VS Code is more appropriate 
 For web projects, we advocate the use of CSSLint for css files and TSLint for typescript files. ([Why you should be using TypeScript instead of JavaScript](/do-you-know-when-to-use-typescript-vs-javascript-and-coffeescript))
 Linters for these can be easily added to VS Code via extensions.
 Simply select the "Extensions" tab, search for "CSSLint" and "TSLint" and click "Install" on each respectively.
-<dl class="image"><dt><img src="VSCode-Extensions.png" alt="VSCode-Extensions.png" style="width:650px;">  </dt><dd>Figure: Addition of CssLi nt and TSLint to VS Code Project</dd></dl>
+
+::: ok  
+![Figure: Addition of CssLi nt and TSLint to VS Code Project](VSCode-Extensions.png)  
+:::  
+
 If you prefer not to use the Extensions (which are currently a bit out of date). You can install them using npm as normal. 
 CssLint ([Csslint npm guide](https://www.npmjs.com/package/csslint))
 TSLint ([TSlint npm guide](https://www.npmjs.com/package/tslint))

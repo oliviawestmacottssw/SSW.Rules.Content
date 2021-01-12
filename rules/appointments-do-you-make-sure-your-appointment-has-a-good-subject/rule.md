@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - appointments-do-you-show-all-the-necessary-information-in-the-subject
-- appointments---do-you-make-sure-your-appointment-has-a-good-subject
 
 ---
 
@@ -22,7 +21,15 @@ When sending an appointment, it's a good idea to choose your subject/title intel
 For example, if the appointment is a meeting request you should include the names of the persons attending that appointment. Another example is flight bookings or hotel bookings. Including the flight number and/or Hotel name in the Appointment Subject so that you can see the information without having to open the item. Think about what the recipient sees in their calendar and try to make it as clear as possible.
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="ApptSubjectBad_small.jpg" alt="Bad Appointment Subject" class="ms-rteCustom-ImageArea" style="width:750px;height:288px;"></dt><dd>Figure: Bad Example - appointment subject with very little information</dd></dl><dl class="goodImage"><dt><img src="ApptSubjectGood_small.jpg" alt="Good Appointment Subject" class="ms-rteCustom-ImageArea" style="width:750px;height:288px;"></dt><dd>Figure: Good Example - Appointment subject with all of the relevant information shown</dd></dl>
+
+::: bad  
+![Figure: Bad Example - appointment subject with very little information](ApptSubjectBad\_small.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - Appointment subject with all of the relevant information shown](ApptSubjectGood\_small.jpg)  
+:::  
+
 CRM users making bookings should [keep their naming standards consistent.](/scheduling-do-you-have-a-consistent-naming-convention-for-your-bookings)
 
 Related rules

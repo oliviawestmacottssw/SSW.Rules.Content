@@ -9,8 +9,7 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects:
-- triaging---do-you-understand-that-all-feedback-will-be-worked-on-in-the-next-sprint
+redirects: []
 
 ---
 

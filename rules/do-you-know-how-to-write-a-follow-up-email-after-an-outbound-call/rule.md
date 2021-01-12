@@ -39,7 +39,7 @@ All this information is important as it gives the next salesperson who speaks to
 
 
 ::: greybox
-**To Marlon,** 
+ **To Marlon,** 
 
 As per our conversation, I look forward to seeing you at the SharePoint 101 workshop.
 
@@ -59,7 +59,7 @@ Figure: Bad Example - The next time you call you will NOT 'remember' any details
 
 
 ::: greybox
-**To Marlon,** 
+ **To Marlon,** 
 
 As per our conversation, you are currently using Team Foundation Server 2008 to manage small development projects and source control.
 

@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- management---do-you-know-who-has-authority
+redirects: []
 
 ---
 
@@ -20,7 +19,7 @@ Ok, once a project gets going, you can end up dealing with many people on the cl
 
 
 ::: greybox
-**To:** Angelo;
+ **To:** Angelo;
 **Cc:** John, Sophie
 **Subject:** Changes Requested by Sophie
 As per our conversation, Sophie has requested the following changes to your application: modifying rptContractRenewal to include the "MaidenName" field from the ClientContact Table, and positioning right next to the Surname field.

@@ -15,8 +15,7 @@ authors:
 - title: Justin King
   url: https://ssw.com.au/people/justin-king
 related: []
-redirects:
-- estimating---do-you-know-what-tasks-are-involved-in-addition-to-just-development-work-items
+redirects: []
 
 ---
 

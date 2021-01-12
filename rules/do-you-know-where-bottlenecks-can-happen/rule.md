@@ -19,7 +19,11 @@ redirects:
 For modern applications, there are many layers and moving parts that need to seamlessly work together to deliver our application to the end user.
 
 <!--endintro-->
-<dl class="image"> <dt> <img src="bottleneck.png" alt="bottleneck.png"> </dt><dd>Figure: Bottlenecks can happen anywhere! Call out diagrammatically where you think the bottlenecks are happenning<br></dd></dl>
+
+::: ok  
+![Figure: Bottlenecks can happen anywhere! Call out diagrammatically where you think the bottlenecks are happenning](bottleneck.png)  
+:::  
+
 The issues can be in:
 
 ### SQL Server

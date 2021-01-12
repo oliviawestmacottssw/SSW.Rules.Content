@@ -19,7 +19,6 @@ related:
 - branding---do-you-know-when-to-use-an-overlay-on-images
 redirects:
 - how-to-see-what-is-going-on-in-your-project
-- notifications---do-you-know-how-to-see-whats-going-on-in-your-project
 - notifications-do-you-know-how-to-see-what’s-going-on-in-your-project
 
 ---
@@ -35,7 +34,7 @@ You can also add Bots to communicate on your channel, or, even better, Apps! You
 
 
 ::: greybox
-**To:** All Developers
+ **To:** All Developers
  **Subject:** What’s been happening on SSWTimePro in the last couple of weeks
 
 Hi Devs,
@@ -54,4 +53,7 @@ Figure: Bad example - Broad email asking what’s been happening
 
 
 Teams can keep you abreast of all the events happening on your project.
-<dl class="goodImage"><dt> <img src="Teams Notifications.png" alt="Teams Notifications.png" style="margin:5px;width:808px;"><br><br></dt><dd>Good example: See that a record of team conversations, builds, and deployments </dd></dl>
+
+::: good  
+![Good example: See that a record of team conversations, builds, and deployments](Teams Notifications.png)  
+:::

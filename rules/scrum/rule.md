@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- '---scrum'
+redirects: []
 
 ---
 
@@ -51,13 +50,17 @@ redirects:
 建议 2：在墙上贴一张每日Scrum会议的日程表(+ 在OutLook中设置一个预约)
 
 
-<font size="2"><span>Hi  <strong><团队名称></团队名称></strong> ,</span></font>
-<font size="2"><div><span>根据我们的讨论， <strong><></strong> >的每日Scrum会议在每个工作日的11:00AM(悉尼时间)在< <strong>地点></strong> 举行。</span></div>
+::: greybox
+
+<font size="2"><span>Hi  <strong>&lt;团队名称&gt;</strong> ,</span></font>
+<font size="2"><div><span>根据我们的讨论， <strong>&lt;项目名称</strong> &gt;的每日Scrum会议在每个工作日的11:00AM(悉尼时间)在&lt; <strong>地点&gt;</strong> 举行。</span></div>
 <div>根据以下规则，它持续时间最长为15分钟</div>
 <div><span><font color="#3a66cc"><a href="/Pages/DailyStandUpScrum.aspx">http://rules.ssw.com.au/Management/RulesToSuccessfulProjects/Pages/DailyStandUpScrum.aspx</a></font></span></div>
 <div><span><br></span></div>
 <div>谢谢,</div>
- <strong><scrum master=""></scrum></strong> </font> 
+ <strong>&lt;Scrum Master&gt;</strong> </font> 
+:::
+
 
 示例：在Outlook中设置每日Scrum会议预约模板
 
@@ -83,8 +86,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 
 <font size="2" face="宋体">人们可以通过</font>任务板<font face="宋体">看到</font>当前正在讨论的问题。
 
-
-![](tfspreviewtaskboard.png)  
+![tfspreviewtaskboard.png](tfspreviewtaskboard.png)  
 **图：TFS **       **Preview** **中的任务板**        **(TFS 2012)**
 
 **
@@ -98,8 +100,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 
 建议 10：如果你发现了障碍，考虑联系你的Product Owner
 
-
-![](ProductOwnerTelephone.jpg)
+![Description: Get the Product Owner on the phone](ProductOwnerTelephone.jpg)
 
 **图：** **通常** **Product**       ** **       **Owner** **不会在** **Scrum** **会议中，但是如果你遇到一个障碍，给** **Product**       ** **       **Owner** **打一个电话。如果你在上一周没有与他接触，那么与** **Product**       ** **       **Owner** **交流就变的非常重要。与** **Product**       ** **       **Owner** **失去联系是项目垮掉的一个信号**       **。
 
@@ -115,14 +116,26 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 使用Skype或者Lync解决地域隔离问题
 
 
-<font class="ms-rteCustom-FigureNormal"><blockquote class="ms-rteCustom-GreyBox"><p><span style="font-weight:normal;"> <strong>关注流动</strong> </span></p>
-<p>“将这条规则扩展到‘价值的流动’，而不仅仅是人。保持着一个持续化流动的理念在脑海中，Scrum会议将会更少的关注人....<br>它是关注于价值的流动的。团队站在白板前，每个人浏览那些‘正在进行中’的工作项，试着找出推进它能进入到下一个阶段的方法...同时要考虑到工作项相互之间的约束。”</p>
-<p class="ms-rteCustom-FigureNormal"><span style="font-weight:normal;"></span><span style="font-weight:normal;"><a href="http://joelfromcanada.com/">Joel Semeniuk</a></span></p>
-<p> </p>
-</blockquote>
-<p class="ms-rteCustom-FigureNormal"><span style="line-height:15pt;font-size:small;"></span><span style="line-height:15pt;font-size:small;"></span><span style="line-height:15pt;font-size:small;">更</span><span style="line-height:15pt;font-size:small;">多</span><span style="line-height:15pt;font-size:small;">的信息：</span><span style="line-height:15pt;font-size:small;"></span></p>
-<span></span><p><span lang="ZH-CN">1. 如果你的任务都做完了怎么办？<br></span><span lang="ZH-CN">为了提高一天</span><span>8</span><span lang="ZH-CN">个小时的效率，要</span><span lang="ZH-CN">与其它开发人员沟通，与他们一起完成其他任务。如果没有任何任务了，就从</span><span>“迭代任务表”</span><span lang="ZH-CN">中取出优先级最高的的一条任务</span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN"></span><span lang="ZH-CN">。</span></p>
-<span></span><span></span><p><span lang="ZH-CN">2. 如果发生了重大事故怎么办？<br></span><span lang="ZH-CN">优先处理重大事故是很重要的，处理所有在</span><span>24</span><span lang="ZH-CN">小时内发生的重大事件。</span><span></span> <b><span style="font-family:verdana, sans-serif;font-size:9pt;"></span></b> </p>
-<p class="MsoNormal" style="line-height:15pt;font-size:small;"><span lang="ZH-CN"><img class="ms-rteCustom-ImageArea" src="NewStandUpImage.jpg" alt="" style="line-height:18px;font-size:12px;font-weight:bold;"></span> </p>
-<p class="ssw-rteStyle-FigureNormal"><span lang="ZH-CN"></span><span>图：</span><span lang="ZH-CN">如果有重大事故发生，每日Scrum会议可以提醒每个人并且集中所有的资源到一个问题上。如果一把尖刀插进了你的眼睛，而你却给擦伤的膝盖贴创可贴是没有任何意义的。</span></p>
-<span class="ssw-rteStyle-FigureNormal"><img class="ms-rteCustom-ImageArea" alt="dailyscrumtweet.png" src="dailyscrumtweet.png" style="line-height:20px;margin-left:5px;margin-right:5px;"><span style="line-height:20px;"></span><br style="line-height:20px;"><span style="line-height:20px;">图：喜欢请转发  </span><a href="https://twitter.com/#%21/AdamCogan/status/168175594209681408" style="line-height:20px;">https://twitter.com/#!/AdamCogan/status/168175594209681408</a><span style="line-height:20px;"> </span></span></font>
+**
+
+> 关注流动
+> 
+> “将这条规则扩展到‘价值的流动’，而不仅仅是人。保持着一个持续化流动的理念在脑海中，Scrum会议将会更少的关注人....
+> 它是关注于价值的流动的。团队站在白板前，每个人浏览那些‘正在进行中’的工作项，试着找出推进它能进入到下一个阶段的方法...同时要考虑到工作项相互之间的约束。”
+> 
+> [Joel Semeniuk](http://joelfromcanada.com/)
+
+
+更多的信息：
+
+1. 如果你的任务都做完了怎么办？
+为了提高一天8个小时的效率，要与其它开发人员沟通，与他们一起完成其他任务。如果没有任何任务了，就从“迭代任务表”中取出优先级最高的的一条任务。
+
+2. 如果发生了重大事故怎么办？
+优先处理重大事故是很重要的，处理所有在24小时内发生的重大事件。
+
+![](NewStandUpImage.jpg)
+
+图：如果有重大事故发生，每日Scrum会议可以提醒每个人并且集中所有的资源到一个问题上。如果一把尖刀插进了你的眼睛，而你却给擦伤的膝盖贴创可贴是没有任何意义的。
+![dailyscrumtweet.png](dailyscrumtweet.png)
+图：喜欢请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https://twitter.com/#%21/AdamCogan/status/168175594209681408) **

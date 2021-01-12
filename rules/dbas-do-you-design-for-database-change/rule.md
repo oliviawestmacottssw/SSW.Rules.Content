@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - design-for-database-change
-- dbas---do-you-design-for-database-change
 
 ---
 
@@ -21,6 +20,12 @@ Many developers are frightened of making a change to the existing database becau
 
 1. You could run around the office and find some one and hope they know (unbelievably this seems this the most common method!)
 2. Trawl through source control, all network locations and all the source code around to check what connection strings are being used
-3. You can have a zsApplication table and manually populate with application it uses (Recommended). This can be populated with a run of a SQL profiler over a period of a week so all usage is captured. <br>      <dl class="image"><dt><img src="SQLDatabases_zsApplication.png" alt="SQLDatabases_zsApplication.png" style="width:750px;height:295px;"></dt><dd>Figure: Add a zsApplication table to make applications that use it visible to all developers</dd></dl>
+3. You can have a zsApplication table and manually populate with application it uses (Recommended). This can be populated with a run of a SQL profiler over a period of a week so all usage is captured. <br>      
+::: ok  
+![Figure: Add a zsApplication table to make applications that use it visible to all developers](SQLDatabases\_zsApplication.png)  
+:::
 4. Keep a constantly running login Audit with a SQL Server Profiler Trace that saves to a table and make sure all applications have an application name in their connection string. This method is the most comprehensive option but is not recommended because you get a constant performance hit from SQL Profiler running.
-<dl class="image"><dt><span style="color:#555555;font-weight:bold;"><img src="2020-01-09_18-55-46.png" alt="2020-01-09_18-55-46.png" style="margin:5px;width:808px;"><br></span></dt><dt><span style="color:#555555;font-weight:bold;">Figure: SQL Profiler can help you design for change with auditing of Login events by giving you a guide on what applications are connecting to your database</span><br></dt></dl>
+
+::: ok  
+![Figure: SQL Profiler can help you design for change with auditing of Login events by giving you a guide on what applications are connecting to your database](2020-01-09\_18-55-46.png)  
+:::

@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-lowercase-after-a-dash
-- do-you-know-to-use-lowercase-after--
 
 ---
 

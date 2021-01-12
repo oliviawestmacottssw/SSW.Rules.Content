@@ -90,8 +90,10 @@ Subcutaneous (as in just benath the skin) are a type of integration/functional t
 ### The Testing Pyramid
 
 
+![TestPyramid.png](TestPyramid.png)
 
-![the testing pyramid](TestPyramid.png)
+
+ **Figure: the testing pyramid** 
 
 
 

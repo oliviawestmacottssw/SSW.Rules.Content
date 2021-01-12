@@ -18,6 +18,13 @@ redirects: []
 By default, we do not accommodate IE8 or lower, but should it arise as a specific requirement, then you can include Respond JS in your application, after Bootstrap. Respond JS enables responsive web designs in browsers that don't support CSS3 Media Queries.
 
 <!--endintro-->
-<dl class="image"><dt><img src="18-06-2014 2-04-12 PM.png" alt="18-06-2014 2-04-12 PM.png"><br></dt><dd>Figure: Include respond.js in your bootstrap bundle</dd></dl>
+
+::: ok  
+![Figure: Include respond.js in your bootstrap bundle](18-06-2014 2-04-12 PM.png)  
+:::  
+
 **Note:** Respond JS will be included in a new MVC5 Web Application. If you are working on an existing application, you can get it from NuGet or https://github.com/scottjehl/Respond.
-<dl class="image"><dt><img src="18-06-2014 2-15-09 PM.png" alt="18-06-2014 2-15-09 PM.png" style="margin:5px;width:550px;"></dt><dd>Figure: A new MVC5 Web Application running in IE8 with Bootstrap and Respond JS</dd></dl>
+
+::: ok  
+![Figure: A new MVC5 Web Application running in IE8 with Bootstrap and Respond JS](18-06-2014 2-15-09 PM.png)  
+:::

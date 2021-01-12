@@ -22,9 +22,11 @@ You won the job with a great [1st Date (aka Spec Review)](/Pages/Ensure-an-excel
 <!--endintro-->
 
 Left to their own devices, most developers will slowly make more and more unmaintainable code, that is only comprehendable by themselves.                 This isn't a big problem for them as they are in it every day and know how it all fits together, but if they're not coding to a set of industry                  standards, you'll find this code very hard for anyone else to maintain.
-<dl class="badImage"><dt><img alt="Unmaintainable software" src="BadCode.png"></dt>
-                <dd>Figure: Bad Example - Would you want to maintain this code?</dd>
-                </dl>
+
+::: bad  
+![Figure: Bad Example - Would you want to maintain this code?](BadCode.png)  
+:::  
+
 This can be fixed by having regular software audits with a Solution Architect to keep the developers accountable.
 
 Each month, the Account Managers call all their current clients that have had a substantial amount of work done and offer                      them a [Software Review](/do-you-conduct-an-architecture-review-after-every-sprint).
@@ -38,9 +40,10 @@ This makes more maintainable software with better architecture using industry st
 2. Look at a report to show your main current clients (best seen by who was invoiced in the past month)
     * Tip: This is also a good thing to have up on the wall as a reminder of who your main customers are at the moment.
 
-<dl class="image"><dt><img alt="Top Clients" src="TotalInvoicedReport.jpg" style="width:600px;"></dt>
-                        <dd>Figure: A sample report to see your top clients</dd>
-                        </dl>
+
+::: ok  
+![Figure: A sample report to see your top clients](TotalInvoicedReport.jpg)  
+:::
 3. Choose your top clients based on who's had a substantial amount of work done (e.g. Say 10k in the last month)<br>
 4. Call them. Ask them how their project is going and if they have any concerns or anything they’d like changed
     * Prepare by making sure you've read the latest [Review/Retro email](/do-you-create-a-sprint-review-retro-email)

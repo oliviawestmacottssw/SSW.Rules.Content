@@ -24,4 +24,11 @@ With Certify the Web and Let's Encrypt, we remove this human error and manual ha
 You should use [Certify the Web](https://certifytheweb.com/). 
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="manage-certificates-bad.png" alt="manage-certificates-bad.png" style="width:750px;height:386px;"></dt><dd>Figure: Bad example - Keeping a database is unnecessary</dd></dl><dl class="goodImage"><dt><img src="manage-certificates-good.png" alt="manage-certificates-good.png" style="width:750px;height:335px;"></dt><dd>Figure: Good example - Using Certify The Web<br></dd></dl>
+
+::: bad  
+![Figure: Bad example - Keeping a database is unnecessary](manage-certificates-bad.png)  
+:::  
+
+::: good  
+![Figure: Good example - Using Certify The Web](manage-certificates-good.png)  
+:::

@@ -19,11 +19,15 @@ redirects: []
 A Favicon is a small image file included on professionally developed sites. The favicon reflects the look and feel of the website or the organizations' visual identity.
 
 <!--endintro-->
-<dl class="badImage"><dt> 
-      <img src="favicon-bad.jpg" alt=""> 
-   </dt><dd>Figure: Bad Example - When you don't add a favicon the user sees a generic icon</dd></dl><dl class="goodImage"><dt> 
-      <img src="favicon-good.jpg" alt=""> 
-   </dt><dd> Figure: Good Example - Using the favicon gives your website professional look and feel</dd></dl>
+
+::: bad  
+![Figure: Bad Example - When you don't add a favicon the user sees a generic icon](favicon-bad.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - Using the favicon gives your website professional look and feel](favicon-good.jpg)  
+:::  
+
 ### Which formats and sizes to use?
 
 The format of the image must be one of PNG (a W3C standard), GIF, or ICO. You can export your favicon in all necessary sizes on [Favicon Generator website](https://realfavicongenerator.net/).
@@ -31,11 +35,17 @@ The format of the image must be one of PNG (a W3C standard), GIF, or ICO. You ca
 ### How to implement the favicon?
 
 1. Copy your company's favicon to the root of the site
-2. Add the highlighted code below inside the <head> tags in your HTML</head>
+2. Add the highlighted code below inside the &lt;HEAD&gt; tags in your HTML
 
 
-<head><br>			 &lt;title&gt;Page Title<br>			 
-   <span class="ssw15-rteStyle-Highlight"><link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"></span><br>			 </head>
+
+::: greybox
+&lt;head&gt;
+			 &lt;title&gt;Page Title&lt;/title&gt;
+<mark>&lt;link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" /&gt;</mark>
+			 &lt;/head&gt;
+:::
+
 **Figure: One line of HTML lets you add your company's icon to your web page** 
 **
 **  

@@ -13,7 +13,6 @@ related:
 - relationships---do-you-use-update-cascade-when-creating-a-relationship
 redirects:
 - turn-on-referential-integrity-in-relationships
-- relationships---do-you-turn-on-referential-integrity-in-relationships
 
 ---
 
@@ -28,4 +27,7 @@ NO ACTION is the default if ON DELETE or ON UPDATE is not specified.
 <!--endintro-->
 
 Relationships should always have referential integrity turned on. If you turned it on after data has been added, you may have data in your database that violates your referential integrity rules.
-<dl class="image"><dt><img src="ReferentialIntegrityCheck.jpg" alt="ReferentialIntegrityCheck.jpg"></dt><dd>Figure: Recommended referential integrity constraints</dd></dl>
+
+::: ok  
+![Figure: Recommended referential integrity constraints](ReferentialIntegrityCheck.jpg)  
+:::

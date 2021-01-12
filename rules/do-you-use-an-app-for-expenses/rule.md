@@ -62,8 +62,7 @@ To improve on the function of these apps, it is recommended to set-up default re
  **
 ** 
 
- **
-![](pic.png)
+ **![pic.png](pic.png)
 ** 
 
 
@@ -78,8 +77,7 @@ We can also do the vis versa, so all invoices going to a hubdoc default email ca
 
 
 
- **
-![](pic1.png)** 
+ **![pic1.png](pic1.png)** 
 
 
 
@@ -95,8 +93,7 @@ Figure: Good Example - Hubdoc email can forward to another email (forwarding and
 Expense apps are a timesaver, both for the day to day user, as well as the accountant receiving the expenses.
 
 As a user, all you have to do is take a photo of the receipt from your mobile app and add a comment (all other data is pulled in via OCR “Smart-scan”), then all of these expenses get batched together and sent on a weekly basis to the accountant, who can then manage them in bulk. 
-Best of all… for light users… it’s free! 
-![](2020-06-12_12-10-17.png)
+Best of all… for light users… it’s free! ![2020-06-12_12-10-17.png](2020-06-12_12-10-17.png)
 
 
 ::: good
@@ -104,4 +101,5 @@ Figure: Good Example – Hubdoc is free with Xero
 
 :::
 
-<dl class="goodImage"><p class="ssw15-rteElement-P">For better results claiming your receipts, please read <a href="/do-you-know-how-to-enter-a-hubdoc-receipt">Do you know how to enter a Hubdoc receipt?</a><br></p><p class="ssw15-rteElement-P"><br><br></p></dl>
+
+For better results claiming your receipts, please read [Do you know how to enter a Hubdoc receipt?](/do-you-know-how-to-enter-a-hubdoc-receipt)

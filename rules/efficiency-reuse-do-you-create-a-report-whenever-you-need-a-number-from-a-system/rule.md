@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-create-a-report-whenever-you-need-a-number-from-a-system
-- efficiency---reuse---do-you-create-a-report-whenever-you-need-a-number-from-a-system
 
 ---
 
@@ -40,4 +39,17 @@ Jonny
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><br><br>::: bad<br>Figure - Bad Example: If you can't build it yourself, send an email to your boss for a number<br><br>:::<br><br></dl><dl class="ssw15-rteElement-ImageArea"> <img src="Power BI.png" alt="Power BI.png" style="margin:5px;width:808px;"> <br><br>::: good<br>Figure - Good Example: Sate your own curiosity with Power BI<br>:::<br><br> </dl>See Ulysses' video on how Power BI is the best tool for this: https://tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren
+
+
+
+:::
+
+Figure - Bad Example: If you can't build it yourself, send an email to your boss for a number
+::: bad
+![Power BI.png](Power BI.png)
+
+:::
+Figure - Good Example: Sate your own curiosity with Power BI
+::: good
+
+See Ulysses' video on how Power BI is the best tool for this: https://tv.ssw.com/6839/power-bi-finally-can-make-decisions-based-facts-ulysses-maclaren

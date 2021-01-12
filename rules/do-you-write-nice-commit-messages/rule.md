@@ -20,7 +20,11 @@ redirects:
 ---
 
 Reading ugly commits is not very pleasant and makes it very confusing when you have to check the commit history.
-<dl class="badImage"><dt><img src="2020-09-17_17-19-04.png" alt="2020-09-17_17-19-04.png"></dt><dd>Bad Example: The commits have no meaning<span style="color:#444444;"></span></dd></dl>
+
+::: bad  
+![Bad Example: The commits have no meaning](2020-09-17\_17-19-04.png)  
+:::  
+
 <!--endintro-->
 
 
@@ -77,7 +81,11 @@ There are a bunch more options to choose from - [carloscuesta/gitmoji: An emoji 
 h [Gitmoji - Visual Studio Marketplace (visualstudio.com)](https://marketplace.visualstudio.com/items?itemName=Vtrois.gitmoji-vscode).
 
 You can even go 🤘 hardcore and use the  **gitmoji cli -** [carloscuesta/gitmoji-cli: A gitmoji interactive command line tool for using emojis on commits. 💻 (github.com)](https://github.com/carloscuesta/gitmoji-cli)
-<dl class="goodImage"><dt> 
-      <img src="commits-with-emojis.jpg" alt="commits-with-emojis.jpg" style="max-width:750px;"> 
-</dt><dt>   </dt><dd>Good Example: Great use of emoji and concise message<span style="color:#444444;"></span></dd></dl><dl class="image"><dt><img src="emojis-list.jpg" alt="emojis-list.jpg" style="width:728px;"></dt><dd>Figure: see what emojis work best with each topic here: 
-<a href="https://gitmoji.carloscuesta.me/">gitmoji.carloscuesta.me/</a></dd></dl>
+
+::: good  
+![Good Example: Great use of emoji and concise message](commits-with-emojis.jpg)  
+:::  
+
+::: ok  
+![Figure: see what emojis work best with each topic here: <br>gitmoji.carloscuesta.me/](emojis-list.jpg)  
+:::

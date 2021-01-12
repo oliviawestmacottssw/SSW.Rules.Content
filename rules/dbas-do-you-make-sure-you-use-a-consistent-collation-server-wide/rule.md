@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - make-sure-you-use-a-consistent-collation-server-wide
-- dbas---do-you-make-sure-you-use-a-consistent-collation-server-wide
 
 ---
 
@@ -38,4 +37,7 @@ See these Knowledge Base articles for more information about the issues you will
 * [**Q711843** - How do I change the collation order in my SQL Server 2000 or 7.0 database?](https://www.ssw.com.au/ssw/KB/KB.aspx?KBID=Q711843)
     There is no 'recommended' collation as different collations will be used in different countries but as a guideline, installations in the United States and installations that require compatibility with SQL Server 7 databases should use the SQL\_Latin1\_General\_Cp1\_CI\_AS collation. Non-United States installations in English speaking countries should use the Latin1\_General\_CI\_AS collation
 
-<dl class="image"><dt><img src="Sql2019_CollationSettingsAtSetup.png" alt="" style="margin:5px;width:653px;height:455px;"><br></dt><dd>Figure: Setting the collation in SQL 2019 Setup - Choose Case Insensitive(CI), Accent Sensitive (AS)<br></dd></dl>
+
+::: ok  
+![Figure: Setting the collation in SQL 2019 Setup - Choose Case Insensitive(CI), Accent Sensitive (AS)](Sql2019\_CollationSettingsAtSetup.png)  
+:::

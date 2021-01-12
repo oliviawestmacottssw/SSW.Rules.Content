@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-use-expression-blend-sketchflow-to-create-mock-ups
-- do-you-use-expression-blend--sketchflow-to-create-mock-ups
 - do-you-use-expression-blend-+-sketchflow-to-create-mock-ups
 
 ---
@@ -27,7 +26,12 @@ Mock-ups are very powerful tools to communicate requirements with clients, howev
 
 
 <!--endintro-->
-
 ![](sketchflow.jpg) 
-<font class="ms-rteCustom-FigureGood">Figure: Expression + SketchFlow</font>
+
+
+::: good
+Figure: Expression + SketchFlow
+:::
+
+
 Read [Do you conduct specification analysis by creating mock-ups?](/Pages/SpecificationByMockUp.aspx) to learn more about other mock-up types.

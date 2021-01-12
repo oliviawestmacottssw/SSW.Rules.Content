@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - how-to-share-a-file-folder-in-sharepoint
-- do-you-know-how-to-share-a-filefolder-in-sharepoint
 
 ---
 
@@ -22,18 +21,23 @@ You often need to share links to a file or folder in SharePoint.
 <!--endintro-->
 
 You can select the folder (or file) and click on "Copy link" at the top bar to get the link:
-<dl class="image"><dt>
-      <img src="sharepoint-cloud-copy-folder.jpg" alt="sharepoint-cloud-copy-folder.jpg">
-   </dt><dd>Figure: Getting URL from SharePoint top bar </dd></dl>
+
+::: ok  
+![Figure: Getting URL from SharePoint top bar](sharepoint-cloud-copy-folder.jpg)  
+:::  
+
 You can also right-click the folder/file to copy the link:
-<dl class="image"><dt>
-      <img src="sharepoint-right-click-link.jpg" alt="sharepoint-right-click-link.jpg">
-   </dt><dd>Figure: Getting URL by right-clicking a file in SharePoint 
-      <br></dd></dl>
+
+::: ok  
+![Figure: Getting URL by right-clicking a file in SharePoint](sharepoint-right-click-link.jpg)  
+:::  
+
 On previous versions, you can open the menu on ellipsis link and get it from there:
-<dl class="image"><dt>
-      <img src="sharepoint-link.jpg" alt="sharepoint-link.jpg" style="width:800px;">
-   </dt><dd>Figure: Getting URL from SharePoint ellipsis menu<br></dd></dl>
+
+::: ok  
+![Figure: Getting URL from SharePoint ellipsis menu](sharepoint-link.jpg)  
+:::  
+
 ###  Related Rule
 
 

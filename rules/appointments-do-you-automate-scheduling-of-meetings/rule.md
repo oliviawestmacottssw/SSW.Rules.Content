@@ -15,7 +15,6 @@ authors:
 related: []
 redirects:
 - automate-schedule-meetings
-- appointments---do-you-automate-scheduling-of-meetings
 
 ---
 
@@ -34,8 +33,11 @@ Note that both of the following solutions work best when you're dealing with peo
 
 ### Microsoft Cortana Scheduler (formerly known as Calendar.help)
 
-<dl class="ssw15-rteElement-ImageArea"> 
-   <img src="Sexy-face.jpg" alt="Sexy-face.jpg" style="margin:5px;"> </dl>
+
+::: ok  
+![](Sexy-face.jpg)  
+:::  
+
 This option is best if you're ok to meet any time that your calendar says is free.
 
 
@@ -62,18 +64,27 @@ Cortana then handles all the back-and-forth emails to find a time when everyone 
 **More help for Cortana:** 
 1. More on     https://calendar.help/ and see the FAQ
 2. Watch the video here     https://www.microsoft.com/en-us/scheduler
-<dl class="goodImage"><dt>
-      <img src="Cortana.jpg" alt="Cortana.jpg" style="width:750px;">
-   </dt><dd>Figure: Speak to Cortana as you would a PA</dd></dl><dl class="goodImage"><dt>
-      <img src="confirmation.jpg" alt="confirmation.jpg" style="width:750px;">
-   </dt><dd>Figure: Cortana will find a time that suits everyone and send the appointment<span style="color:#444444;"></span></dd></dl>
+
+::: good  
+![Figure: Speak to Cortana as you would a PA](Cortana.jpg)  
+:::  
+
+::: good  
+![Figure: Cortana will find a time that suits everyone and send the appointment](confirmation.jpg)  
+:::  
+
 **Step 3:** To make it easier to add Cortana to your emails, create a Contact.
-<dl class="image"><dt> 
-      <img src="CortanaContact.jpg" alt="CortanaContact.jpg" style="width:750px;"></dt><dd>Figure: Cortana added as a contact<br></dd></dl>
+
+::: ok  
+![Figure: Cortana added as a contact](CortanaContact.jpg)  
+:::  
+
 **Mobile – works great ✔**
-<dl class="image"><dt> 
-      <img src="cortana-scheduler-mobile.jpg" alt="cortana-scheduler-mobile.jpg" style="width:750px;"> 
-   </dt><dd>Figure: Microsoft Scheduler – Fully works on mobile phone<br></dd></dl>
+
+::: ok  
+![Figure: Microsoft Scheduler – Fully works on mobile phone](cortana-scheduler-mobile.jpg)  
+:::  
+
 ### FindTime
 
 
@@ -84,9 +95,11 @@ FindTime shows what days and times work the best for you and the attendees when 
 Propose your selected times to all attendees and allow everyone to vote and quickly come to a consensus... and you’re done!
 
 FindTime sends out the meeting invite on your behalf. More on [https://findtime.microsoft.com](https://findtime.microsoft.com/)
-<dl class="image"><dt> 
-      <img src="findtime-scheduler.jpg" alt="findtime-scheduler.jpg" style="width:750px;"> 
-   </dt><dd>Figure: FindTime gives a nice UI for people working in the same org, as you can see times that might be available for all attendees easily (e.g. 8 am above)<br></dd></dl>
+
+::: ok  
+![Figure: FindTime gives a nice UI for people working in the same org, as you can see times that might be available for all attendees easily (e.g. 8 am above)](findtime-scheduler.jpg)  
+:::  
+
 **Mobile – does not work ❌**
 
 As of Dec 2020, FindTime does not work on iOS.
@@ -94,4 +107,7 @@ As of Dec 2020, FindTime does not work on iOS.
 Vote at     [What features would you like to see in FindTime?](https://findtime.uservoice.com/forums/316122-ideas-tell-us-your-great-ideas/suggestions/13358103-findtime-for-iphone-in-outlook-for-ios)
 
 **Note:** Findtime’s competitor is https://calendly.com
-<dl class="image"><dt><img src="findtime-mobile.jpg" alt="findtime-mobile.jpg" style="width:750px;"></dt><dd>Figure: FindTime - No mobile support for iOS</dd></dl>
+
+::: ok  
+![Figure: FindTime - No mobile support for iOS](findtime-mobile.jpg)  
+:::

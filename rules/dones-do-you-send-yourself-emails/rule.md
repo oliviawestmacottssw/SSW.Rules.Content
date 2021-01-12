@@ -13,8 +13,7 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects:
-- dones---do-you-send-yourself-emails
+redirects: []
 
 ---
 
@@ -23,7 +22,11 @@ When a colleague or a client asks you to do a task verbally, or you have discove
 The best solution is to send yourself an email CC'ing the person who asked you, including "[As per our conversation](/Pages/DoYouAlwaysSendAnAsPerOurConversationEmail.aspx)..." This way both of you know that the job needs to be done. This is really important especially when you are working for clients so there is a record of the requests for work.
 
 <!--endintro-->
-<dl class="badImage"><dt> <img src="postit-screen.jpg" alt="postit-screen.jpg"> </dt><dd>Figure: Writing yourself a "Post-It Note" is not the best method<br></dd></dl>
+
+::: bad  
+![Figure: Writing yourself a "Post-It Note" is not the best method](postit-screen.jpg)  
+:::  
+
 Always add "To myself" in the email body - not on the subject - so that other people CC'd know what is going on.
 
 
@@ -50,5 +53,11 @@ Figure: Good Example - Send yourself an email, and make it clear to everyone els
 When you write a "To Myself" email, it is even better when you include an estimate and the priority, so the expectations are set better.
 
 With this estimate, the Product Owner can stop you if they think the amount of time doesn't provide good ROI.
-<dl class="badImage"><dt> <img src="EmailWithoutEstimation.JPG" alt="Send a task to self without an estimation" class="ms-rteCustom-ImageArea" style="width:485px;"> </dt><dd>Figure: Bad Example - Send a task to self without an estimate</dd></dl> <dl class="goodImage"> <dt> <img src="EmailWithEstimation.jpg" alt="Send a task to self with an estimation" class="ms-rteCustom-ImageArea"> <br>
-   </dt><dd>Figure: Good Example - Send a task to self with an estimate</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Send a task to self without an estimate](EmailWithoutEstimation.JPG)  
+:::  
+ 
+::: good  
+![Figure: Good Example - Send a task to self with an estimate](EmailWithEstimation.jpg)  
+:::

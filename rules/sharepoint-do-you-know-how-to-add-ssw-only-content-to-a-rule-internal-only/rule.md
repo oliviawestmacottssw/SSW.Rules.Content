@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - add-ssw-only-content
-- sharepoint---do-you-know-how-to-add-ssw-only-content-to-a-rule-internal-only
 - sharepoint-do-you-know-how-to-add-ssw-only-content-to-a-rule-(internal-only)
 
 ---
@@ -22,6 +21,17 @@ Select the element "SSW Internal Block" to show content only internally.
 
 
 <!--endintro-->
-<dl class="image"><dt> <img src="internal-only.jpg" alt="internal-only.jpg"> </dt><dd>Figure: Use this "SSW Internal Block" style to insert a section for "SSW Only" content <br>
-      <br></dd></dl><dl class="image"><dt><img src="ssw-only-signedin.jpg" alt="ssw-only-signedin.jpg"></dt><dd>Figure: When signed in, you can see "ssw only" content</dd></dl><dl class="image"><dt><img src="ssw-only-signedoff.jpg" alt="ssw-only-signedoff.jpg"></dt><dd>Figure: When signed off, you cannot  see "ssw only" content</dd></dl>
+
+::: ok  
+![Figure: Use this "SSW Internal Block" style to insert a section for "SSW Only" content](internal-only.jpg)  
+:::  
+
+::: ok  
+![Figure: When signed in, you can see "ssw only" content](ssw-only-signedin.jpg)  
+:::  
+
+::: ok  
+![Figure: When signed off, you cannot  see "ssw only" content](ssw-only-signedoff.jpg)  
+:::  
+
 **Note:** We have "SSW only content block" feature, however, Rules.SSW is a public website, which means technically the content is accessible through API, so please do not use it for confidential or sensitive info.

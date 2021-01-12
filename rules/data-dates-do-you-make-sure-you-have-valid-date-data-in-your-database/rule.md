@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - make-sure-you-have-valid-date-data-in-your-database
-- data---dates---do-you-make-sure-you-have-valid-date-data-in-your-database
 
 ---
 

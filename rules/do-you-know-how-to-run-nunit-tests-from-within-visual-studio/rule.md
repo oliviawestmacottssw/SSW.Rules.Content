@@ -21,7 +21,7 @@ Using NUnit with Visual Studio: To make it easy to use, you need to add it as an
 
 In Visual Studio:
 
-1. Go to Tools > External Tools
+1. Go to Tools &gt; External Tools
 2. Click "Add" button
 3. Type in:
 
@@ -33,13 +33,25 @@ In Visual Studio:
 
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="NUnitInVStudio.jpg" alt="NUnitInVStudio.jpg"></dt><dd>Figure: Bad Example - NUnit In Visual Studio</dd></dl>
+
+::: bad  
+![Figure: Bad Example - NUnit In Visual Studio](NUnitInVStudio.jpg)  
+:::  
+
 ### Option 2: Test Driven .net
 
 
 TestDriven.net has better NUnit integration – from both code and Solution Explorer windows.
-<dl class="image"><dt><img src="UseTestDriven.jpg" alt="UseTestDriven.jpg"></dt><dd>Figure: Better way - Use TestDriven.Net - it has a 'Run Test(s)' command for a single test (above) or...</dd></dl><dl class="image"><dt><img src="GUIBringUpAction.jpg" alt="GUIBringUpAction.jpg"></dt><dd>Figure: ...you can right-click on a project and select 'Test With > NUnit' to bring up the GUI. It is certainly more convenient</dd></dl>
-To run unit testing: Tools > NUnit GUI to launch NUnit and run the tests.
+
+::: ok  
+![Figure: Better way - Use TestDriven.Net - it has a 'Run Test(s)' command for a single test (above) or...](UseTestDriven.jpg)  
+:::  
+
+::: ok  
+![Figure: ...you can right-click on a project and select 'Test With &gt; NUnit' to bring up the GUI. It is certainly more convenient](GUIBringUpAction.jpg)  
+:::  
+
+To run unit testing: Tools &gt; NUnit GUI to launch NUnit and run the tests.
 
 ### Option 3: Other Tools
 

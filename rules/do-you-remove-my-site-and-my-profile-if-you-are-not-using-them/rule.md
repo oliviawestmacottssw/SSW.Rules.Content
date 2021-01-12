@@ -19,8 +19,7 @@ redirects:
 ---
 
 <font> <strong>My Site</strong> and  <strong>My Profile</strong> are great but if you are not using them, it makes sense to remove them:<font><br>
-</font></font>
-![Links need to be hidden](LinksNeedToBeRemove.png)
+</font></font>![](LinksNeedToBeRemove.png)**Figure: Links need to be hidden** 
 
 <!--endintro-->
 

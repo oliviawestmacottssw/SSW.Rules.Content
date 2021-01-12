@@ -30,4 +30,7 @@ Here are some of the basics of our software:
 The setup and software icon for your applications should also be branded.
 
 If you have many products, keep them consistent.
-<dl class="goodImage"><dt><img src="ssw-products.jpg" alt="ssw-products.jpg"></dt><dd>Figure: Good Example - Consistent product logos</dd></dl>
+
+::: good  
+![Figure: Good Example - Consistent product logos](ssw-products.jpg)  
+:::

@@ -23,4 +23,7 @@ Although Sharegate migration tool works very well to help you with your SharePoi
 * Ask users to change their mapped folders
 * Communicate about the changes
 
-<dl class="image"><dt><img src="set-custom-refinements.png" alt="set-custom-refinements.png" style="width:750px;"></dt><dd>Figure: After migration set your custom refinements so users can filter down into a specific area</dd></dl>
+
+::: ok  
+![Figure: After migration set your custom refinements so users can filter down into a specific area](set-custom-refinements.png)  
+:::

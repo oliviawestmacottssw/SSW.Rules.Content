@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - measure-up-time
-- dbas---do-you-measure-up-time
 
 ---
 
@@ -26,7 +25,7 @@ SCOM allows you to monitor and generate reports on the total uptime of your SQL 
 
 
 <!--endintro-->
-<dl class="image"><dt><span style="color&#58;#cc4141;font-family&#58;&quot;segoe ui&quot;, &quot;trebuchet ms&quot;, tahoma, arial, verdana, sans-serif;font-size&#58;18px;">Option 2&#58; Low Tech So</span><span style="color&#58;#cc4141;font-family&#58;&quot;segoe ui&quot;, &quot;trebuchet ms&quot;, tahoma, arial, verdana, sans-serif;font-size&#58;18px;">lution - using a recurring select as a heartbeat</span></dt></dl>
+Option 2: Low Tech Solution - using a recurring select as a heartbeat
 1. Run a query as a ping once every 5 minutes something that takes about 2 seconds
 2. SELECT \* FROM Orders Five times
 3. Log it with the time

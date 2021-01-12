@@ -11,8 +11,7 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects:
-- meetings---do-you-know-the-agenda-for-the-initial-meeting
+redirects: []
 
 ---
 
@@ -45,8 +44,7 @@ The purpose of the initial meeting is to:
 * Ask for the sale: "This project is right up our alley and we'd love to be involved,<br>                        is there anything stopping you from scheduling a [Specification Review](/Pages/Ensure-an-excellent-1st-date.aspx)?" This will focus the mind of the client on the next step
 * Leave a bit of marketing collateral behind. Branded Notepads or USB sticks are ideal.
 
-<dl class="image">                    <dt>
-                        <img alt="Do you listen" src="WomanListening.jpg">
-                    </dt>
-                    <dd>
-                        Figure: Do you listen?</dd></dl>
+
+::: ok  
+![Figure: Do you listen?](WomanListening.jpg)  
+:::

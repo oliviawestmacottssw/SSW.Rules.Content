@@ -29,7 +29,6 @@ An easy alternative to this is to use Office365 in OneDrive to create a survey i
 
 
 
-
 ![](Bad-Example-too-many-emails.png)
 
 
@@ -40,13 +39,12 @@ Figure: Bad example – a simple “X or Y?” question thread generated dozens 
 :::
 
 
-
 ![](Good-Example-Invite-to-Survey.png)
 
 
 
 ::: good
-Figure: Good example – send an email with a link to a survey instead of asking for replies 
+Figure: Good example – send an email with a link to a survey instead of asking for replies
 :::
 
 

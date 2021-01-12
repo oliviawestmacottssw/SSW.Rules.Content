@@ -36,23 +36,31 @@ In SharePoint development, you will also need to know CAML, in particular, how t
 <!--endintro-->
 
 
-<dl class="goodCode">    <dt>
-    <pre><query><br>    <orderby><br>        <fieldref name="Modified" ascending="FALSE"></fieldref><br>    </orderby><br>    <where><br>        <and><br>            <neq><br>                <fieldref name="Status"></fieldref><br>                <value type="Text">Completed</value><br>            </neq><br>            <isnull><br>                <fieldref name="Sent"></fieldref><br>            </isnull><br>        </and><br>    </where><br></query></pre>
-    </dt>
-    <dd>Figure: Example of CAML query </dd></dl>
+
+
+```
+<Query><br>    <OrderBy><br>        <FieldRef Name="Modified" Ascending="FALSE"></FieldRef><br>    </OrderBy><br>    <Where><br>        <And><br>            <Neq><br>                <FieldRef Name="Status"></FieldRef><br>                <Value Type="Text">Completed</Value><br>            </Neq><br>            <IsNull><br>                <FieldRef Name="Sent"></FieldRef><br>            </IsNull><br>        </And><br>    </Where><br></Query>
+```
+
+Figure: Example of CAML query 
 You can see - CAML is essentially the same as SQL WHERE syntax, but wrapped in an XML format.
 
 Problems with CAML:
 
-1. CAML is XML and is case sensitive – including attributes names. <dl class="badCode">        <dt>
-        <pre><query><br>    <where><br>        <or><br>            <eq><br>              <fieldref></fieldref><font color="#400040" style="background-color:rgb(255, 255, 0);">name</font>="Status" /> <br>            <value type="Text">Completed</value><br>            </eq><br>            <isnull><br>                <fieldref></fieldref><font style="background-color:rgb(255, 255, 0);">Name</font>="Status" /><br>            </isnull><br>        </or><br>    </where><br></query></pre>
-        </dt>
-        <dd>     Figure: Example of CAML query </dd>
-    </dl>
-2. SharePoint is not good at telling you if you made a mistake with your CAML query. <dl class="badImage">        <dt><img src="CAMLError.png" alt=""> </dt>
-        <dd>     Figure: Debug error message</dd>
-    </dl>
+1. CAML is XML and is case sensitive – including attributes names. 
+
+```
+<Query><br>    <Where><br>        <Or><br>            <Eq><br>              <FieldRef <font color="#400040" style="background-color:rgb(255, 255, 0);">name</font>="Status" /> <br>            <Value Type="Text">Completed</Value><br>            </Eq><br>            <IsNull><br>                <FieldRef <font style="background-color:rgb(255, 255, 0);">Name</font>="Status" /><br>            </IsNull><br>        </Or><br>    </Where><br></Query>
+```
+
+Figure: Example of CAML query<br>
+2. SharePoint is not good at telling you if you made a mistake with your CAML query. 
+::: bad  
+![Figure: Debug error message](CAMLError.png)  
+:::
 3. Hard to debug.
-<font color="#ff0000">Tips:</font> Use 3rd Party tools - U2U CAML Query Builder<br>    <dl class="goodImage">        <dt><img src="U2U.png" alt=""> </dt>
-        <dd>     Figure: U2U CAML Query Builder</dd>
-    </dl><font color="#ff0000">Note:</font> U2U CAML Builder is the best tool that we have. There are some occasional UI and interface issues, but for creating CAML and testing it against live SharePoint lists it gets the job done. And it’s FREE!
+<font color="#ff0000">Tips:</font> Use 3rd Party tools - U2U CAML Query Builder<br>    
+::: good  
+![Figure: U2U CAML Query Builder](U2U.png)  
+:::  
+<font color="#ff0000">Note:</font> U2U CAML Builder is the best tool that we have. There are some occasional UI and interface issues, but for creating CAML and testing it against live SharePoint lists it gets the job done. And it’s FREE!

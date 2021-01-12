@@ -32,6 +32,7 @@ Azure Policies is a strong tool to help in governing your Azure subscription. Wi
 Azure Policy allow for making of initiatives (group full of policies) that try to achieve an objective e.g. a initiative to audit all tags within a subscription, to allow creation of only some types of VMs, etc...
 
 You can delve deep on it here: https://docs.microsoft.com/en-us/azure/governance/policy/overview
-<dl class="goodImage">   <dt>
-      <img src="compliant-initiative-azure-policy.png" alt="compliant-initiative-azure-policy.png" style="width:750px;">
-   </dt><dd>Figure: Good Example - A fully compliant initiative in Azure Policy"</dd></dl>
+
+::: good  
+![Figure: Good Example - A fully compliant initiative in Azure Policy"](compliant-initiative-azure-policy.png)  
+:::

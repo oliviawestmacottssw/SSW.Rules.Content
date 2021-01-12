@@ -22,7 +22,22 @@ Most SharePoint site templates contain a calendar list, this will bring lots of 
 
 Use the below PowerShell script to clean them:
 
-$site = Get-SPSite("http://<site collection="" url="">/"); # Specify url here<br>foreach ($web in $site.AllWebs) {    <br>    $lists = $web.Lists<br>    for ($i=($lists.Count-1);$i -gt 0; $i--) {  <br>        $list = $lists[$i]        #Write-host $i  $list.Title $list.BaseTemplate.ToString()<br>        if ($list.BaseTemplate.ToString().ToLower().contains('events')) {      <br>            if ($list.Items.Count -eq 0)<br>            {<br>                Write-Host $list.Items.Count "items in the list" $list.Title '('$list.BaseTemplate') at '$web.Url "- cleaning it!"<br>                $list.Recycle()<br>                #$list.Delete()<br>            }<br>        }<br>    }<br>}  <br></site>
+$site = Get-SPSite("http://&lt;site collection URL&gt;/"); # Specify url here
+foreach ($web in $site.AllWebs) {    
+    $lists = $web.Lists
+    for ($i=($lists.Count-1);$i -gt 0; $i--) {  
+        $list = $lists[$i]
+        #Write-host $i  $list.Title $list.BaseTemplate.ToString()
+        if ($list.BaseTemplate.ToString().ToLower().contains('events')) {      
+            if ($list.Items.Count -eq 0)
+            {
+                Write-Host $list.Items.Count "items in the list" $list.Title '('$list.BaseTemplate') at '$web.Url "- cleaning it!"
+                $list.Recycle()
+                #$list.Delete()
+            }
+        }
+    }
+}
 
 This script will put the calendars which do not have any events into  **Site Settings** |  **Recycle Bin** :
-<dl class="ssw15-rteElement-ImageArea"><img src="EmptyCalendarsInRecyckeBin.png" alt="EmptyCalendarsInRecyckeBin.png" style="margin:5px;width:650px;height:236px;"></dl> **Figure: Empty Calendars in Recycle Bin folder**
+![EmptyCalendarsInRecyckeBin.png](EmptyCalendarsInRecyckeBin.png) **Figure: Empty Calendars in Recycle Bin folder**

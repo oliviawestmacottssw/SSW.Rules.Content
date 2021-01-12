@@ -13,8 +13,7 @@ redirects:
 ---
 
 When a user enters your website for the first time, they should be encouraged to give you their email address via a nice popup.
-
-![](goodExampleEmailCollection.jpg)
+![goodExampleEmailCollection.jpg](goodExampleEmailCollection.jpg)
 
 
 ::: good

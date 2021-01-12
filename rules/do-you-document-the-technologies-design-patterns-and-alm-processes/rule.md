@@ -20,8 +20,14 @@ A pattern allows using a few words to a dev and he knows exactly what coding pat
 ALM is about refining the work processes.
 
 <!--endintro-->
-<dl class="bad"><dt>We are doing this project using C#</dt><dd>Bad example - you know nothing about how the project will be done<br><br></dd></dl><dl class="good"><dt>
-       <strong>Technologies&#58;</strong> WebAPI. The DI container is Structure Map. Entity Framework. Typescript. Angular.<br> <strong>Patterns&#58;</strong> Repository and Unit of Work (tied to Entity Framework to remove additional abstraction), IOC<br> <strong>ALM&#58;</strong> Scrum with 2-week sprints and a Definition of Done including StyleCop to green<br> <strong>ALM&#58;</strong> Continuous deployment to staging</dt><dd>Good example - this tells you a lot about the architecture and processes in a few words<br><br></dd></dl>
+ We are doing this project using C#Bad example - you know nothing about how the project will be done
+
+ **Technologies:** Continuous deployment to staging **ALM:** 
+Scrum with 2-week sprints and a Definition of Done including StyleCop to green **ALM:** 
+Repository and Unit of Work (tied to Entity Framework to remove additional abstraction), IOC **Patterns:** 
+WebAPI. The DI container is Structure Map. Entity Framework. Typescript. Angular.Good example - this tells you a lot about the architecture and processes in a few words
+
+
 The important ones for most web projects:
 
 1. **Technologies: WebAPI**

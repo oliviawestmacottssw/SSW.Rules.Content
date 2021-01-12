@@ -9,7 +9,6 @@ authors: []
 related: []
 redirects:
 - do-you-timebox-approval-requests
-- efficiency---do-you-timebox-approval-requests
 
 ---
 

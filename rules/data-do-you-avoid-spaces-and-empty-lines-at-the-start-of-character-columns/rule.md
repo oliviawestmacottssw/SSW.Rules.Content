@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - avoid-spaces-and-empty-lines-at-the-start-of-character-columns
-- data---do-you-avoid-spaces-and-empty-lines-at-the-start-of-character-columns
 
 ---
 

@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- the-war-room---does-your-scrum-room-have-the-best-scrum-image
+redirects: []
 
 ---
 
@@ -18,15 +17,23 @@ We all know that a visual image can make a complex process easy to understand. H
 
 Here is an image for your war room wall...  
 <!--endintro-->
-<dl class="badImage"><dt>
-      <img src="SCRUMImage-bad02.jpg" alt="bad scrum"> 
-   </dt><dd>Bad Figure: This image doesn't include the review and the retro</dd></dl><dl class="badImage"><dt>
-      <img src="SCRUMImage-good.jpg" alt="scrum process"> 
-   </dt><dd>OK Figure: This Scrum image is OK because it includes all the important steps including the Review and the Retro</dd></dl><dl class="goodImage"><dl class="ssw15-rteElement-ImageArea">
-      <a href="/Documents/8StepstoScrum.pdf"><img src="8Steps_preview.jpg" alt="8 steps to scrum"></a></dl><dd>Good Figure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this "<a href="/Documents/8StepstoScrum.pdf">SSW 8 Steps to Scrum pdf</a>" and put it on your 'War Room' wall</dd></dl><dl class="image"><dt>
-      <img src="scrum-twitter.jpg" alt="retweet">
-   </dt><dd>Figure: If you like this, retweet  
-      <a href="https://twitter.com/AdamCogan/status/94109372908711936" target="_blank">twitter.com/AdamCogan/status/94109372908711936</a></dd></dl>
+
+::: bad  
+![Bad Figure: This image doesn't include the review and the retro](SCRUMImage-bad02.jpg)  
+:::  
+
+::: bad  
+![OK Figure: This Scrum image is OK because it includes all the important steps including the Review and the Retro](SCRUMImage-good.jpg)  
+:::  
+
+::: good  
+![Good Figure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this "SSW 8 Steps to Scrum pdf" and put it on your 'War Room' wall](8Steps\_preview.jpg)  
+:::  
+
+::: ok  
+![Figure: If you like this, retweet         twitter.com/AdamCogan/status/94109372908711936](scrum-twitter.jpg)  
+:::  
+
 ### Related Links
 
 * [Do you know the 3 steps to a PBI?](/Pages/Do-you-know-the-3-steps-to-a-PBI.aspx)

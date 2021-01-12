@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - do-you-know-to-thank-others-for-each-reference-to-you
-- twitter---do-you-know-to-thank-others-for-each-reference-to-you
 
 ---
 

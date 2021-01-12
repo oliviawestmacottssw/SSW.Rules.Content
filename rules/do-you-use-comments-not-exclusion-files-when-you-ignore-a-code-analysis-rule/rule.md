@@ -15,16 +15,17 @@ redirects: []
 
 When running code analysis you may need to ignore some rules that aren't relevant to your application. Visual Studio has a handy way of doing thing. 
 <!--endintro-->
+![code-analysis-bad-example](code-analysis-bad-example.jpg)Figure: Good Example - The Solution and Projects are named consistently![code-analysis-good-example](code-analysis-good-example.jpg)
 
-[[goodExample]]
-| ![The Solution and Projects are named consistently](code-analysis-bad-example.jpg)
-![](code-analysis-good-example.jpg)<dl class="goodCode">    <dt>
-    <pre>public partial class Account
+```
+public partial class Account
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors", Justification="Gold Plating")]
         public Account()
         {
             this.Centres = new HashSet();
             this.AccountUsers = new HashSet();
-            this.Campaigns = new HashSet();</pre>
-    </dt></dl>Figure: Good Example - The Solution and Projects are named consistently
+            this.Campaigns = new HashSet();
+```
+
+Figure: Good Example - The Solution and Projects are named consistently

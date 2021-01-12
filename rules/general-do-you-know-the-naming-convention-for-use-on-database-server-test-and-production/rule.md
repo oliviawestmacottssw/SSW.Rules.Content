@@ -11,11 +11,17 @@ authors:
 related: []
 redirects:
 - naming-convention-for-use-on-database-server-test-and-production
-- general---do-you-know-the-naming-convention-for-use-on-database-server-test-and-production
 
 ---
 
 Generally, every client should have a dev and a test database, so the dev database needs to have the postfix "Dev" and the test database need to have the postfix "Test"(E.g. SSWCRMDev, SSWCRMTest). However, you don't need any postfix for the production database.
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="BadDBName.gif" alt="BadDBName.gif"></dt><dd>Figure: Bad Example - Database with bad names<br></dd></dl><dl class="goodImage"><dt><img src="GoodDBName.gif" alt="GoodDBName.gif"></dt><dd>Figure: Good Example - Database with standard names</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Database with bad names](BadDBName.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - Database with standard names](GoodDBName.gif)  
+:::

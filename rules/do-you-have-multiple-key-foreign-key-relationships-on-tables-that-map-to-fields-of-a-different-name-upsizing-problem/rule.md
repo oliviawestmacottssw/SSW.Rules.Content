@@ -16,5 +16,11 @@ redirects:
 ---
 
 ![](MultipleForeignKeyRelationshipsDifferentNames.jpg) 
-<font class="ms-rteCustom-FigureNormal">Figure: Multiple Foreign Key Relationships Different Names </font><font class="ms-rteCustom-YellowBorderBox"><a href="http://www.ssw.com.au/ssw/UpsizingPRO">Upsizing PRO</a> will check this rule </font>
+**Figure: Multiple Foreign Key Relationships Different Names** 
+
+::: yellowBox
+[Upsizing PRO](http://www.ssw.com.au/ssw/UpsizingPRO) will check this rule
+:::
+
+
 <!--endintro-->

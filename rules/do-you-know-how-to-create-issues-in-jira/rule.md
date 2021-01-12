@@ -15,9 +15,7 @@ If the task is for SysAdmins you can send an email to jira@ssw.com.au with the s
 
 A better way, and the way it must be done for all other projects, is to [create an issue](/Pages/CreateTask.aspx) in Jira ......  
 <!--endintro-->
-
 ![](Create Issue1.png) 
-
 
 
 ![](CreateIssue2.png)

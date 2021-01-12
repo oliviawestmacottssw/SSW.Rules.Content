@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- tasks---do-you-know-to-ensure-that-relevant-emails-are-attached-to-tasks
+redirects: []
 
 ---
 

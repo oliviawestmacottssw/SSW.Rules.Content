@@ -17,8 +17,7 @@ Npm packages often get new releases (adding new functionalities, fixing bugs or 
 
 
 
-> 
-![](npm_outdated.png) 
+> ![npm_outdated.png](npm_outdated.png) 
 > 
 >  **Figure: Use 'npm outdated'
 > ** 
@@ -34,8 +33,9 @@ Npm packages often get new releases (adding new functionalities, fixing bugs or 
 
 
 
-> 
-![Use 'npm audit' to discover vulnerabilities in your application](npm_audit.png)
+> ![npm_audit.png](npm_audit.png)
+
+ **Figure: Use 'npm audit' to discover vulnerabilities in your application
 ** **
 ** 
 

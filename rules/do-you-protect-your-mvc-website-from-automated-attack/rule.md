@@ -18,15 +18,15 @@ Protecting your site from automated attack is easy with reCAPTCHA.
 
 Learn how to by clicking [this link](https://shigemimatsumoto.wordpress.com/2015/04/27/protecting-mvc-web-application-with-recaptcha-22/) and improve your site security.
 
-
-![](Good reCAPTCHA.png)
+![Untitled2.png](Good reCAPTCHA.png)
 
 
 ::: good
 Figure: Good Example - reCAPTCHA is protecting a site from automated attack
 :::
 
-<dt>   <span><img src="abd5fe_Untitled2.png" alt="Untitled.png" style="margin:5px;"></span><br></dt>
+![Untitled.png](abd5fe_Untitled2.png)
+
 
 ::: bad
 Figure: Bad Example - Older v1 reCAPTCHA.
@@ -34,8 +34,7 @@ Figure: Bad Example - Older v1 reCAPTCHA.
 :::
 
 
-
-![](4141c3_Untitled.png)
+![Untitled.png](4141c3_Untitled.png)
 
 
 ::: bad

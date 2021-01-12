@@ -11,10 +11,10 @@ index:
 - do-you-force-ssl-on-sensitive-methods-like-login-or-register
 - do-you-use-view-models-instead-of-viewdata
 - do-you-use-redirecttoaction-instead-of-returning-a-view-thats-not-named-the-same-as-the-action
-- do-you-use-startup-tasks-in-the-app_start-folder-instead-of-putting-code-in-globalasax
+- do-you-use-startup-tasks-in-the-app_start-folder-instead-of-putting-code-in-global-asax
 - do-you-use-the-authorize-attribute-to-secure-actions-or-controllers
 - do-you-use-html-helpers-and-partial-views-to-simplify-views
-- do-you-avoid-hardcoding-urls-or-and-use-urlaction-or-htmlactionlink-instead
+- do-you-avoid-hardcoding-urls-or-and-use-url-action-or-html-actionlink-instead
 - do-you-use-bundling-to-package-script-and-css-files
 - do-you-use-anti-forgery-tokens-on-any-page-that-takes-a-post
 - do-you-use-the-url-as-a-navigation-aid-aka-redirect-to-the-correct-url-if-it-is-incorrect

@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - set-maximum-periods-for-a-developer-to-work-at-a-particular-client
-- bored-developers---do-you-set-maximum-periods-for-a-developer-to-work-at-any-particular-client
 
 ---
 

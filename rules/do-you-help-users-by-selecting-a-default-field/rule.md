@@ -28,26 +28,26 @@ Here is a way to do this with MVC 3 and Razor:
 
 
 > ```
-> <div class="focus">
+> <span style="color:rgb(128, 128, 48);"><</span>div <span style="color:rgb(128, 0, 0);font-weight:bold;">class</span><span style="color:rgb(128, 128, 48);">=</span><span style="color:rgb(128, 0, 0);">"</span><span style="color:rgb(0, 0, 230);">focus</span><span style="color:rgb(128, 0, 0);">"</span><span style="color:rgb(128, 128, 48);">></span>
 > ```
 > 
 > 
 > 
 > ```
-> @Html.EditorFor(model => model.FirstName)
->     @Html
+> @Html<span style="color:rgb(128, 128, 48);">.</span><font color="#000000">EditorFor</font><font color="#000000"></font><span style="color:rgb(128, 128, 48);">(</span><font color="#000000">model </font><span style="color:rgb(128, 128, 48);">=</span><span style="color:rgb(128, 128, 48);">></span><font color="#000000"> </font><font color="#000000">model</font><span style="color:rgb(128, 128, 48);">.</span><font color="#000000">FirstName</font><font color="#000000"></font><span style="color:rgb(128, 128, 48);">)</span><font color="#000000">
+>     @Html</font>
 > ```
 > 
 > 
 > 
 > ```
-> @Html.ValidationMessageFor(model => model.FirstName)
+> <font color="#000000">    @</font><font color="#000000">Html</font><span style="color:rgb(128, 128, 48);">.</span><font color="#000000">ValidationMessageFor</font><font color="#000000"></font><span style="color:rgb(128, 128, 48);">(</span><font color="#000000">model </font><span style="color:rgb(128, 128, 48);">=</span><span style="color:rgb(128, 128, 48);">></span><font color="#000000"> </font><font color="#000000">model</font><span style="color:rgb(128, 128, 48);">.</span><font color="#000000">FirstName</font><font color="#000000"></font><span style="color:rgb(128, 128, 48);">)</span>
 > ```
 > 
 > 
 > 
 > ```
-> </div>
+> <span style="color:rgb(128, 128, 48);"><</span><span style="color:rgb(128, 128, 48);">/</span><font color="#000000">div</font><span style="color:rgb(128, 128, 48);">></span>
 > ```
 
 
@@ -63,17 +63,17 @@ Here is a way to do this with MVC 3 and Razor:
 
 
 > ```
-> $(function() {
+> $<span style="color:rgb(128, 128, 48);">(</span><span style="color:rgb(128, 0, 0);font-weight:bold;">function</span><span style="color:rgb(128, 128, 48);">(</span><span style="color:rgb(128, 128, 48);">)</span> <span style="color:rgb(128, 0, 128);">{</span>
 > ```
 > 
 > 
 > 
 > ```
-> $('.focus :input').focus();
+> $<span style="color:rgb(128, 128, 48);">(</span><span style="color:rgb(0, 0, 230);">'.focus :input'</span><span style="color:rgb(128, 128, 48);">)</span><span style="color:rgb(128, 128, 48);">.</span>focus<span style="color:rgb(128, 128, 48);">(</span><span style="color:rgb(128, 128, 48);">)</span><span style="color:rgb(128, 0, 128);">;</span>
 > ```
 > 
 > 
 > 
 > ```
-> });
+> <span style="color:rgb(128, 0, 128);">}</span><span style="color:rgb(128, 128, 48);">)</span><span style="color:rgb(128, 0, 128);">;</span>
 > ```

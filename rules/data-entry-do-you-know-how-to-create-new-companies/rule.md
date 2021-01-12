@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- data-entry---do-you-know-how-to-create-new-companies
+redirects: []
 
 ---
 
@@ -25,14 +24,11 @@ Although you can create a Contact first, it's better to always create the Compan
 
 
 <!--endintro-->
-<dl class="goodImage">          <dt>
-            <img src="Sales-Accounts.jpg" alt="Change CRM company Logo" style="width:500px;height:98px;">
-          </dt>
-          <dd>
-            Figure: In MS CRM 2013, click on Sales | Accounts</dd>
-        </dl><dl class="goodImage">          <dt>
-            <img src="NewAccount.jpg" alt="Change CRM company Logo" style="width:500px;height:289px;">
-          </dt>
-          <dd>
-            Figure: Click New, enter the required fields, and save and close</dd>
-        </dl>
+
+::: good  
+![Figure: In MS CRM 2013, click on Sales | Accounts](Sales-Accounts.jpg)  
+:::  
+
+::: good  
+![Figure: Click New, enter the required fields, and save and close](NewAccount.jpg)  
+:::

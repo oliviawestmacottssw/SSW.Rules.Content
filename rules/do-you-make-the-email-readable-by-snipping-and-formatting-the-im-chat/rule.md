@@ -28,8 +28,7 @@ Snip the relevant information only. You can do this by:
  **
 ** 
 
-
-![](Bad-Example-of-IM-snip.jpg)
+![Bad Example of an IM snip](Bad-Example-of-IM-snip.jpg)
 
 
 ::: bad
@@ -37,8 +36,7 @@ Figure: Bad example - this IM snip has a lot of unnecessary text that makes it h
 :::
 
 
-
-![](Good-Example-of-IM-snip.jpg)
+![Good example of an IM snip](Good-Example-of-IM-snip.jpg)
 
 
 ::: good

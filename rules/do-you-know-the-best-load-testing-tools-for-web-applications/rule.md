@@ -29,4 +29,7 @@ Most commercial tools will support up to 50 virtual users in the load test but o
 
 
 <!--endintro-->
-<dl class="image"><dt><img src="testingtools9.jpg" alt="testingtools.jpg"></dt><dd>Figure: Load Storm results<br></dd></dl>
+
+::: ok  
+![Figure: Load Storm results](testingtools9.jpg)  
+:::

@@ -13,8 +13,7 @@ authors:
 - title: Martin Hinshelwood
   url: https://ssw.com.au/people/martin-hinshelwood
 related: []
-redirects:
-- ending-a-sprint---do-you-know-what-to-do-when-your-sprint-fails
+redirects: []
 
 ---
 

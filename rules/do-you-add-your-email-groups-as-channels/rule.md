@@ -18,4 +18,11 @@ When adopting a new technology it can sometimes help to include a familiar parad
 Companies should have Email Groups for the main offices, and one for the rest of the world. To help figuring out what channels to be posting to and what content is appropriate, recreate these groups as Slack channels.
 
 <!--endintro-->
-<dl class="image"><dt><img src="slack-1.png" alt=""></dt><dd>Figure: Our Main Office Email Groups</dd></dl><dl class="image"><dt><img src="slack-2.png" alt=""></dt><dd>Figure: Our Main Office Email Groups recreated as Slack Channels</dd></dl>
+
+::: ok  
+![Figure: Our Main Office Email Groups](slack-1.png)  
+:::  
+
+::: ok  
+![Figure: Our Main Office Email Groups recreated as Slack Channels](slack-2.png)  
+:::

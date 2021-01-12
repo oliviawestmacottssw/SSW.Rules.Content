@@ -18,7 +18,19 @@ ASP.NET injects many lines during page rendering, so if you are using inline Jav
 
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="JavaScriptBad1.jpg" alt="JavaScriptBad1.jpg"></dt><dd>Figure: Bad Code - Using Inline JavaScript</dd></dl><dl class="badImage"><dt><img src="JavaScriptBad.jpg" alt="JavaScriptBad.jpg"></dt><dd>Figure: Bad Code - On PostBack Line numbers are changed for Inline JavaScript</dd></dl><dl class="goodImage"><dt><img src="JavaScriptGood.jpg" alt="JavaScriptGood.jpg"></dt><dd>Figure: Good Code - Using JavaScript on Separate file <br></dd></dl>
+
+::: bad  
+![Figure: Bad Code - Using Inline JavaScript](JavaScriptBad1.jpg)  
+:::  
+
+::: bad  
+![Figure: Bad Code - On PostBack Line numbers are changed for Inline JavaScript](JavaScriptBad.jpg)  
+:::  
+
+::: good  
+![Figure: Good Code - Using JavaScript on Separate file](JavaScriptGood.jpg)  
+:::  
+
 So you should always put JavaScript in a separate file.  Then the line numbers will stay consistent during debugging. 
 Keeping JavaScript in a separate file is also good for production as it improves performance due to browser caching. 
 

@@ -11,15 +11,11 @@ authors:
 - title: Igor Goldobin
   url: https://ssw.com.au/people/igor-goldobin
 related: []
-redirects:
-- do-you-use-a-dependency-injection-centric-architecture-
+redirects: []
 
 ---
 
-[[badExample]]
-| ![N-Tiered architectures do not inherently support dependency injection](dependency-injection-bad.jpg)
-[[goodExample]]
-| ![The Onion Architecture promotes layers built on interfaces, and then injecting dependencies into those layers. This keeps coupling low, and therefore maintainability high](dependency-injection-good.jpg)
+![inject](dependency-injection-bad.jpg) Figure: Bad Example – N-Tiered architectures do not inherently support dependency injection ![inject](dependency-injection-good.jpg) Figure: Good Example – The Onion Architecture promotes layers built on interfaces, and then injecting dependencies into those layers. This keeps coupling low, and therefore maintainability high
 <!--endintro-->
 
 The classes in each layer can depend on layers toward the centre.

@@ -13,7 +13,6 @@ related:
 redirects:
 - when-to-use-all-day-events-or-start-and-end-times-with-recurrence
 - scheduling-do-you-know-when-to-use-＂all-day-events＂-or-start-and-end-times-with-recurrence
-- scheduling---do-you-know-when-to-use-all-day-events-or-start-and-end-times-with-recurrence
 
 ---
 
@@ -34,11 +33,15 @@ CRM supports recurring appointments, and this allows for more flexibility in boo
 <!--endintro-->
 
 This also works better for Service Calendar syncing, as you can see what each person is working on each day.
-<dl class="badImage"><dt> 
-      <img src="recurring-appointment-bad.png" alt="Bad Example">
-   </dt><dd>Figure: Bad Example – If a change is needed on Tuesday’s booking, there will an issue</dd></dl><dl class="goodImage"><dt> 
-      <img src="recurring-appointment-good.png" alt="Good Example">
-   </dt><dd>Figure: Good Example – Easy to alter any individual day as needed<br></dd></dl>
+
+::: bad  
+![Figure: Bad Example – If a change is needed on Tuesday’s booking, there will an issue](recurring-appointment-bad.png)  
+:::  
+
+::: good  
+![Figure: Good Example – Easy to alter any individual day as needed](recurring-appointment-good.png)  
+:::  
+
 **For Leave**
 
 Leave appointments are the one time when it's actually useful to have the appointment out of the way up the top in your calendar, so "All Day" appointments are better for this.

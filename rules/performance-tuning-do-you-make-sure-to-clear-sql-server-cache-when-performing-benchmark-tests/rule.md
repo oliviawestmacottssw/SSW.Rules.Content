@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - be-sure-to-clear-sql-server-cache-when-performing-benchmark-tests
-- performance-tuning---do-you-make-sure-to-clear-sql-server-cache-when-performing-benchmark-tests
 
 ---
 
@@ -24,4 +23,7 @@ You really need to clear SQL's cache (or buffer) every time you test the speed o
 To clear SQL Server's cache, run  **DBCC DROPCLEANBUFFERS** , which clears all data from the cache. Then run  **DBCC FREEPROCCACHE** , which clears the stored procedure cache.
 
 <!--endintro-->
-<dl class="image"><dt><img src="ClearSQLServerCache_BenchmarkTests.jpeg" alt="ClearSQLServerCache_BenchmarkTests.jpeg" style="width:750px;"></dt><dd>Figure: First call is after clearing the cache. The second one is without clearing the cache. (26 seconds vs 2 seconds)<br></dd></dl>
+
+::: ok  
+![Figure: First call is after clearing the cache. The second one is without clearing the cache. (26 seconds vs 2 seconds)](ClearSQLServerCache\_BenchmarkTests.jpeg)  
+:::

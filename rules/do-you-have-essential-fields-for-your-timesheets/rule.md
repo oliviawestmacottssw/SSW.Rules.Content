@@ -28,8 +28,7 @@ These are the essential fields for your timesheets:
 
 
 
-
-![](Good Timesheet.jpg)
+![Good Timesheet.jpg](Good Timesheet.jpg)
 
 
 ::: good

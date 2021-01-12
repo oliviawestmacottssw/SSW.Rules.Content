@@ -41,4 +41,7 @@ View [SSW Web References](https://www.ssw.com.au/ssw/company/Web-Reference.aspx)
 
 
 You should help designers to find stuff in your Intranet:
-<dl class="goodImage"><dt><img src="intranet.jpg" alt="intranet.jpg"></dt><dd>Figure: Good Example - Keep things together in your Intranet</dd></dl>
+
+::: good  
+![Figure: Good Example - Keep things together in your Intranet](intranet.jpg)  
+:::

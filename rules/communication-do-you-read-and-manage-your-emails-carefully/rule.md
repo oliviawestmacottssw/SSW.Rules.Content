@@ -7,8 +7,7 @@ uri: communication-do-you-read-and-manage-your-emails-carefully
 created: 2010-05-20T10:17:52.0000000Z
 authors: []
 related: []
-redirects:
-- communication---do-you-read-and-manage-your-emails-carefully
+redirects: []
 
 ---
 

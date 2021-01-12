@@ -14,10 +14,10 @@ redirects: []
 Keep a breadcrumb on every page is necessary. With this navigation tool,  users can easily location themselves and find the targets quickly. But  don't link yourself!
 
 <!--endintro-->
-<dl class="image"><dt> 
-      <img alt="add breadcrumb to the top of the page" src="../../assets/WebsiteLayout_Breadcrumb_1.gif" style="margin:5px;">
-   </dt><dd>Figure: The breadcrumb</dd></dl>
+
+::: ok  
+![Figure: The breadcrumb](../../assets/WebsiteLayout\_Breadcrumb\_1.gif)  
+:::  
+
 So every page should have a SiteMapPath Control.
-<dl class="code"><dt> 
-      <span style="background-color:yellow;"><></span> ID="SiteMapPath1" runat="server" SiteMapProvider="SiteMapProvider1"/> </dt><dd>Figure: SiteMapPath Control (Note: 
-      <a href="http://www.ssw.com.au/ssw/redirect/ssw/CodeAuditor.htm">Code Auditor</a> checks for the yellow highlighted text)</dd></dl>
+&lt;asp:SiteMapPathID="SiteMapPath1" runat="server" SiteMapProvider="SiteMapProvider1"/&gt;Figure: SiteMapPath Control (Note:checks for the yellow highlighted text)[Code Auditor](http://www.ssw.com.au/ssw/redirect/ssw/CodeAuditor.htm)

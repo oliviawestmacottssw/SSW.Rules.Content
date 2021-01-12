@@ -31,8 +31,7 @@ Two things should be done:
 
 
 
-
-![](broken builds.png)
+![broken builds.png](broken builds.png)
 
 
 
@@ -43,8 +42,7 @@ Bad Example: Too many broken builds in a row.
 
 
 
-
-![](good builds.png)
+![good builds.png](good builds.png)
 
 
 ::: good

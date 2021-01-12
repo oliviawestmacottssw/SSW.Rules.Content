@@ -19,8 +19,7 @@ Reasons for avoiding checking Nuget or Npm packages
 
 <!--endintro-->
 
-
-![](nugetpackages.png)
+![nugetpackages.png](nugetpackages.png)
 
 
 ::: bad

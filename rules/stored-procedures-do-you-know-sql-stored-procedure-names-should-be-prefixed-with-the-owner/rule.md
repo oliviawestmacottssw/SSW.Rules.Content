@@ -12,7 +12,6 @@ related:
 - general---do-you-know-every-object-name-should-be-owned-by-dbo
 redirects:
 - sql-stored-procedure-names-should-be-prefixed-with-the-owner
-- stored-procedures---do-you-know-sql-stored-procedure-names-should-be-prefixed-with-the-owner
 
 ---
 
@@ -33,7 +32,7 @@ CREATE PROCEDURE procCustomer\_Update @CustomerID INT, ….. BEGIN
 
 
 ::: bad
- Figure: Bad example 
+Figure: Bad example
 :::
 
 
@@ -41,6 +40,6 @@ CREATE PROCEDURE dbo.procCustomer\_Update @CustomerID INT, ….. BEGIN
 
 
 ::: good
- Figure: Good example
+Figure: Good example
 
 :::

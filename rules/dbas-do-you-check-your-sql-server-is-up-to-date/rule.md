@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - check-your-sql-server-is-up-to-date
-- dbas---do-you-check-your-sql-server-is-up-to-date
 
 ---
 
@@ -22,4 +21,3 @@ Most patches are for security. SQL Slammer showed that it's no good waiting a mo
 
 
 <!--endintro-->
-<dl class="image"><dt><br></dt></dl>

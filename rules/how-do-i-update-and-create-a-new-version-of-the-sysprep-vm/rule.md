@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- how-do-i-update-and-create-a-new-version-of-the-sysprep-vm-
+redirects: []
 
 ---
 

@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- quality---do-you-get-your-most-experienced-colleagues-to-check-your-work
+redirects: []
 
 ---
 

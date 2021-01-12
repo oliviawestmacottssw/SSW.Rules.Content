@@ -93,10 +93,15 @@ Pull request body is a medium for the developer to tell the reviewers what the p
 3. (Optional) Put a screenshot if it will help the reviewer to understand the changes (e.g. front-end cosmetic change)
 4. (Optional) What do you want the reviewers to do - this can be approvals (most of the case) or looking to get more feedback on a piece of code in the pull request.
 
-<dl class="badImage"><dt><img src="better-pr-bad-pr.png" alt="better-pr-bad-pr.png" style="width:730px;"></dt>
-   <dd>Bad example - Pull request with vague title and no description<br></dd></dl><dl class="goodImage"><dt>
-      <img src="better-pr-good-pr.png" alt="better-pr-good-pr.png" style="width:730px;height:503px;"> 
-   </dt><dd>Good example - Pull request with a good title and descriptive body<br></dd></dl> There is also a well-known pull request semantic like [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) on how to write a pull request body, but we can still have a great pull request without using such semantic.
+
+::: bad  
+![Bad example - Pull request with vague title and no description](better-pr-bad-pr.png)  
+:::  
+
+::: good  
+![Good example - Pull request with a good title and descriptive body](better-pr-good-pr.png)  
+:::  
+ There is also a well-known pull request semantic like [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) on how to write a pull request body, but we can still have a great pull request without using such semantic.
 
 ### 3. Link the pull request to the associated issues / PBIs
 
@@ -106,8 +111,11 @@ Pull request body is a medium for the developer to tell the reviewers what the p
 Since we already have a great title and body, the last thing to do is to associate this pull request to the related PBIs or issues.
 
 Linking an issue to a pull request can serve as documentation on which development work that was done on a specific PBI/issue. It may help the team in the future to debug when and which changes were introduced and what was the original specification of that piece of work.
-<dl class="image"><dt>
-      <img src="better-pr-link-issues.png" alt="better-pr-link-issues.png" style="width:730px;height:504px;"> 
-   </dt><dd>Figure: Linking a pull request to the related issue<br></dd></dl><dl class="image"><dt>
-      <img src="better-pr-link-issues-linked.png" alt="better-pr-link-issues-linked.png" style="width:730px;height:504px;"> 
-   </dt><dd>Figure: A pull request is now associated with the related issue<br></dd></dl>
+
+::: ok  
+![Figure: Linking a pull request to the related issue](better-pr-link-issues.png)  
+:::  
+
+::: ok  
+![Figure: A pull request is now associated with the related issue](better-pr-link-issues-linked.png)  
+:::

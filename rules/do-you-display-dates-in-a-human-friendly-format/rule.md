@@ -16,8 +16,7 @@ redirects: []
 Do you display dates on your website formatted in a human friendly manner? 
 <!--endintro-->
 
-
-![](bad-timeformatting.jpg)
+![bad-timeformatting.jpg](bad-timeformatting.jpg)
 
 
 ::: bad
@@ -27,8 +26,7 @@ Figure: Bad - detailed date formatting is difficult to read
 
 
 
-
-![](good-timeformatting.jpg)
+![good-timeformatting.jpg](good-timeformatting.jpg)
 
 
 ::: good

@@ -40,5 +40,4 @@ Some activities are run internally; some are run with the client.
 
 
 
-
-![Only with a strict project schedule can the manager coach the team to success](ProjectManagement_Coach.jpg)!**
+![Only with a strict project schedule can the manager coach the team to success!](ProjectManagement_Coach.jpg)**Figure: Only with a strict project schedule can the manager coach the team to success!**

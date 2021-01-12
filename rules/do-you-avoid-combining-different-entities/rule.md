@@ -15,8 +15,11 @@ If the form controls are different entities, they usually have different  data a
                     Having the controls separated also make the form easier to read.
 
 <!--endintro-->
-<dl class="badImage"><dt>
-      <img alt="Different entities are combined." src="../../assets/AvoidCombiningBad.gif" style="margin:5px;">
-   </dt><dd>Figure: Bad Example - Different entities are combined</dd></dl><dl class="goodImage"><dt>
-      <img alt="Different entities are separated." src="../../assets/AvoidCombiningGood.gif" style="margin:5px;">
-   </dt><dd>Figure: Good Example - Different entities are separated</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Different entities are combined](../../assets/AvoidCombiningBad.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - Different entities are separated](../../assets/AvoidCombiningGood.gif)  
+:::

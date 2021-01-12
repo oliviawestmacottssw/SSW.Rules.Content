@@ -17,7 +17,6 @@ authors:
 related: []
 redirects:
 - estimating-do-you-know-how-to-size-user-stories-effectively
-- estimating---do-you-know-how-to-size-product-backlog-items-pbis-effectively
 - estimating-do-you-know-how-to-size-product-backlog-items-(pbis)-effectively
 
 ---
@@ -54,17 +53,29 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 > 
 > **Please note:** In some teams which only use Small, Medium and Large the following numbering is applyed respectively 2, 4 and 8.
 
-<dl class="badImage"><dt> <img class="ms-rteCustom-ImageArea" src="size-stories-bad-example.jpg" alt=""> </dt><dd>Figure: Bad example - Estimation using T-Shirt sizes</dd></dl>
+
+::: bad  
+![Figure: Bad example - Estimation using T-Shirt sizes](size-stories-bad-example.jpg)  
+:::  
+
 ### Fibonacci Extended (1-100)
 
 Planning Poker is a very effective Product Backlog estimation technique and the most common method is using Fibonacci numbers (1,2,3,5,8,13, etc.). This was made popular by Mike Cohn.
-<dl class="goodImage"><dt> <img class="ms-rteCustom-ImageArea" src="size-stories-ok-example.jpg" alt=""> </dt><dd>Figure: OK example - Estimation using Planning Poker with large numbers</dd></dl>
+
+::: good  
+![Figure: OK example - Estimation using Planning Poker with large numbers](size-stories-ok-example.jpg)  
+:::  
+
 ### Fibonacci (1-21)
 
 Mike Cohn introduced changes to the original 7 cards, by changing the 21 to 20 and adding 40 and 100 to indicate very large user stories called Epics.
 
 Ken Schwaber (the father of Scrum) says in his Scrum Certification course, that he is not a fan of the extra cards and says he prefers teams keep to the original 7 cards.
-<dl class="goodImage"><dt> <img class="ms-rteCustom-ImageArea" src="size-stories-good-example.jpg" alt=""> </dt><dd>Figure: OK example - Estimation using Planning Poker with only small numbers</dd></dl>
+
+::: good  
+![Figure: OK example - Estimation using Planning Poker with only small numbers](size-stories-good-example.jpg)  
+:::  
+
 ### Doubling (recommended)
 
 
@@ -85,7 +96,13 @@ It has one other advantage over the Fibonacci sequence, it is easier for non-tec
 
 :::
 
-<font class="ms-rteCustom-FigureGood">Figure: Good example -Doubling simplifies relative sizing</font>
+
+
+::: good
+Figure: Good example -Doubling simplifies relative sizing
+:::
+
+
 ### Thrown
 
 Another method of estimating is the "Thrown method" as described Martin Fowler. http://martinfowler.com/bliki/ThrownEstimate.html
@@ -93,7 +110,11 @@ Another method of estimating is the "Thrown method" as described Martin Fowler. 
 This is particularly useful if you don't have Planning Poker cards.  Instead of Fibonacci numbers, estimates are from 1 to 5.  It's nice and simple, and you only need the fingers on your hand.
 
 The action is done in the same method as the game 'Rock, Paper, Scissors'. The options the developer can estimate is 1,2,3,4,5
-<dl class="image"><dt> <img class="ms-rteCustom-ImageArea" src="fist-method.jpg" alt=""> </dt><dd>Figure: PBI estimates using the "Thrown method"</dd></dl>
+
+::: ok  
+![Figure: PBI estimates using the "Thrown method"](fist-method.jpg)  
+:::  
+
 ### Other Tips
 
 
@@ -114,7 +135,11 @@ Every team is different, but you can use the following guidelines for sizing PBI
 > | 32<br> | - |
 > | 64<br> | More than a month with a couple of guys.<br> **Tip:** Don't include these in a sprint because they are too risky - ask for them to be broken down. |
 > 
-> <font class="ms-rteCustom-FigureGood">Figure: Good example - Example PBI estimates</font>
+> 
+> 
+> ::: good
+> Figure: Good example - Example PBI estimates
+> :::
 
 
 

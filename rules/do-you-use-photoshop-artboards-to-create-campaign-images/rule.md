@@ -18,4 +18,4 @@ When creating an image (banner, logo, etc) for a campaign, it's important to hav
 <!--endintro-->
 
 Use the Photoshop Artboard to provide a visual guideline and allow for quick and consistent campaign creation.This way, you can see your new banner in the context of the other banners in the campaign, and check that your sizing and art style is consistent.
-<dl class="ssw15-rteElement-ImageArea"><img src="Photoshop artboard.jpg" alt="Photoshop artboard.jpg" style="margin:5px;width:808px;"> <strong>Figure: Photoshop artboard</strong> </dl>
+![Photoshop artboard.jpg](Photoshop artboard.jpg) **Figure: Photoshop artboard**

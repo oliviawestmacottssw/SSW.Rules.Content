@@ -15,6 +15,5 @@ redirects:
 ---
 
 When you follow a rule, remember to refer to its URL:
-
-![Refer to the URL](RuleReferrence.jpg)
+![RuleReference](RuleReferrence.jpg)Good Example: Refer to the URL
 <!--endintro-->

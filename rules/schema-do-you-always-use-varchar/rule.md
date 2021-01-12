@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - always-use-varchar
-- schema---do-you-always-use-varchar
 
 ---
 

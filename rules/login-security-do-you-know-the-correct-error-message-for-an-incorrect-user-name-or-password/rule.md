@@ -7,8 +7,7 @@ uri: login-security-do-you-know-the-correct-error-message-for-an-incorrect-user-
 created: 2015-02-16T03:17:47.0000000Z
 authors: []
 related: []
-redirects:
-- login-security---do-you-know-the-correct-error-message-for-an-incorrect-user-name-or-password
+redirects: []
 
 ---
 
@@ -19,7 +18,9 @@ However this is not secure. It makes it easier for bad guys       (e.g., hacker)
 The more secure message should be 'Invalid email or       password'.
 
 <!--endintro-->
-<dl class="goodImage"><dt> 
-      <img border="0" alt="Good message for invalid account" src="../../assets/GoodLoginError.gif" style="margin:5px;"> 
-   </dt><dd>Figure: Good example - for security reasons, you don't say if it was an invalid user name or password.</dd></dl>
+
+::: good  
+![Figure: Good example - for security reasons, you don't say if it was an invalid user name or password.](../../assets/GoodLoginError.gif)  
+:::  
+
 See     [Login.aspx](http://www.ssw.com.au/ssw/shop/Login.aspx) for a real example.

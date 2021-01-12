@@ -24,6 +24,7 @@ This is a simple rule - if someone goes beyond the call of duty, you thank them.
 **Bonus:** If you want to go further, you can tweet the link where you've found help from.
 
 **Tip:** Elaborate your text and avoid adding URLs as it may look like spam.
-<dl class="image"><dt>
-      <img src="GoodJob.jpg" alt="GoodJob.jpg">
-   </dt><dd>Figure: Show appreciation when you've got help<br></dd></dl>
+
+::: ok  
+![Figure: Show appreciation when you've got help](GoodJob.jpg)  
+:::

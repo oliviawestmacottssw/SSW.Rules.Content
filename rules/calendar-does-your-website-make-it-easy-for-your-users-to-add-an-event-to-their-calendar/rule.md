@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-make-it-easy-to-your-users-to-add-an-event-to-their-calendar
-- calendar---does-your-website-make-it-easy-for-your-users-to-add-an-event-to-their-calendar
 
 ---
 
@@ -35,7 +34,6 @@ Figure: Bad Example - User cannot add a reminder
 
 Next User Group Meeting:
 Wednesday, 15 February 2006 5:45 PM 
-
 ![](../../assets/IconVCS.gif)[Add Outlook reminder](http://www.ssw.com.au/ssw/NETUG/SydneyDotNETUsersGroup.ics)
 
 

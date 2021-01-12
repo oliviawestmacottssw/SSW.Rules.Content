@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - investigate-your-question-for-two-minutes-before-asking-someone-on-im
-- interruptions---do-you-investigate-your-question-for-2-minutes-before-asking-someone-on-im
 
 ---
 
@@ -25,4 +24,7 @@ IM can interrupt a person when they are busy, so make sure that you are well pre
 
 
 <!--endintro-->
-<dl class="image"><dt><img src="lmgtfy.jpg" alt="lmgtfy.jpg"></dt><dd>Figure: Don't make someone else have to <a href="http://lmgtfy.com/">Google something for you</a><br></dd></dl>
+
+::: ok  
+![Figure: Don't make someone else have to Google something for you](lmgtfy.jpg)  
+:::

@@ -13,16 +13,35 @@ authors:
 related: []
 redirects:
 - web-content-do-you-write-in-the-newsreader-and-eye-witness-style
-- web-content-like-wikipediainstructional-style---do-you-write-in-the-newsreader-and-eyewitness-style
 
 ---
 
 General web content should always be written as if read by a newsreader. It is objective and describes its content professionally. A good example of this is Wikipedia.
 <!--endintro-->
-<dl class="badImage"><dt><br><br>::: greybox<br>
-                            I don't like JavaScript. I prefer jQuery because...<br>:::<br><br></dt><dd>Figure&#58; Bad Example - using 1st person writing makes it sound like opinion</dd></dl><dl class="goodImage"><dt><br><br>::: greybox<br>
-                            jQuery is superior to JavaScript for this because...<br>:::<br><br></dt><dd>Figure&#58; Good Example - using 3rd person writing makes it sound like fact</dd></dl>
+
+
+
+:::
+I don't like JavaScript. I prefer jQuery because...
+::: greybox
+Figure: Bad Example - using 1st person writing makes it sound like opinion
+
+
+:::
+jQuery is superior to JavaScript for this because...
+::: greybox
+Figure: Good Example - using 3rd person writing makes it sound like fact
 However, when quoting a testimonial, you should use 1st person writing as if a newsreader had crossed over to an eyewitness for a personal view of the topic.
-<dl class="badImage"><dt><br><br>::: greybox<br>
-                            Don Bradman thought that SSW's work was fantastic!<br>:::<br><br></dt><dd>Figure&#58; Bad Example - impersonal</dd></dl><dl class="goodImage"><dt><br><br>::: greybox<br>
-                            Don Bradman says&#58; &quot;I thought that SSW's work was fantastic!&quot;<br>:::<br><br></dt><dd>Figure&#58; Good Example - 1st person in this context is appropriate</dd></dl>
+
+
+
+:::
+Don Bradman thought that SSW's work was fantastic!
+::: greybox
+Figure: Bad Example - impersonal
+
+
+:::
+Don Bradman says: "I thought that SSW's work was fantastic!"
+::: greybox
+Figure: Good Example - 1st person in this context is appropriate

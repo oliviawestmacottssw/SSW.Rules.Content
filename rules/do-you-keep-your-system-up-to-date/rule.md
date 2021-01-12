@@ -15,4 +15,7 @@ redirects: []
 
 How do you keep your system up to date? [FileHippo](http://filehippo.com/) is a handy tool to check if there is any software on your machine need to be updated. 
 <!--endintro-->
-<dl class="image"><dt><img src="FileHippo.png" alt="FileHippo.png" style="width:650px;"></dt><dd>Figure: FileHippo tells which software need to update</dd></dl>
+
+::: ok  
+![Figure: FileHippo tells which software need to update](FileHippo.png)  
+:::

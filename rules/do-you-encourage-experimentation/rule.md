@@ -19,7 +19,7 @@ Encourage experimentation to increase comfort:
 
 
 <!--endintro-->
-<dl class="ssw15-rteElement-ImageArea"><img src="live-preview.jpg" alt="live-preview.jpg" style="margin:5px;width:650px;"></dl>
+![live-preview.jpg](live-preview.jpg)
 
 ::: good
 Figure: Good example - Office Word uses Live Preview to show what styles look like

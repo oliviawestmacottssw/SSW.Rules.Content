@@ -14,9 +14,11 @@ redirects: []
 The buttons that a user will typically use to close a form should be named consistently across your applications.
 
 <!--endintro-->
-<dl class="badImage"><dt>
-      <img alt="Broker Details - Save & Close Buttons" src="../../assets/ButtonLabels_Bad.gif" style="margin:5px;">
-   </dt><dd>Figure: Bad Example - Unclear labels on the buttons</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Unclear labels on the buttons](../../assets/ButtonLabels\_Bad.gif)  
+:::  
+
 * **Save** button could possibly update the fields but keep the form open.
 * **Close** could save the fields, then close the form, when the <br>       **Cancel** button may be more appropriate.
 
@@ -27,7 +29,9 @@ We recommend the age-old standards of:
 * **Cancel** . Close the form without saving. This should be referenced by the form's CancelButton property.
 * **Apply** . Save data without closing the form.
 
-<dl class="goodImage"><dt>
-      <img alt="Outlook Contact Properties - OK, Cancel & Apply Buttons" src="../../assets/OKCancelExampleDialog.jpg" style="margin:5px;">
-   </dt><dd>Figure: Good Example - This form uses the standard button naming standards (and has the Default buttons set!)</dd></dl>
+
+::: good  
+![Figure: Good Example - This form uses the standard button naming standards (and has the Default buttons set!)](../../assets/OKCancelExampleDialog.jpg)  
+:::  
+
 We have a program called     [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.

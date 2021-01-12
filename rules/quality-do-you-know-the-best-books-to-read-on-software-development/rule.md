@@ -17,7 +17,6 @@ authors:
 related: []
 redirects:
 - do-you-know-the-best-books-to-read-on-software-development
-- quality---do-you-know-the-best-books-to-read-on-software-development
 
 ---
 

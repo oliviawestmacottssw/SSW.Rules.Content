@@ -7,8 +7,7 @@ uri: controls-do-you-include-all-option-in-your-comboboxes
 created: 2012-11-27T08:38:56.0000000Z
 authors: []
 related: []
-redirects:
-- controls---do-you-include--all--option-in-your-comboboxes
+redirects: []
 
 ---
 
@@ -43,13 +42,28 @@ ALTER TABLE [TableName] ADD CONSTRAINT CK\_String\_Identifier
 
 
 
+![ComboBox without All](../../assets/Combo-ALL-1.jpg)
 
-![](../../assets/Combo-ALL-1.jpg)
-<dl class="badImage"><dd>Figure: Bad Example - No '-All-' option so the user cannot select all data</dd></dl><dl class="goodImage"><dt><img alt="ComboBox without All" src="../../assets/Combo-ALL-2.jpg"></dt>
-<dd>Figure: Good Example - Having an '-All-' option gives a user a chance to select all data</dd></dl>
+::: bad  
+![Figure: Bad Example - No '-All-' option so the user cannot select all data](../../assets/Combo-ALL-1.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - Having an '-All-' option gives a user a chance to select all data](../../assets/Combo-ALL-1.jpg)  
+:::  
+
 Also, keep it simple!
-<dl class="badImage"><dt><img alt="All Stores" src="../../assets/SelectAllBad.jpg"></dt>
-<dd>Figure: Bad Example - '-All Stores-' isn't needed</dd></dl><dl class="goodImage"><dt><img alt="All" src="../../assets/SelectAllGood.jpg"></dt>
-<dd>Figure: Good Example - Keep it as a simple '-All-'</dd></dl><dl class="goodImage"><dt><img alt="All" src="../../assets/SelectAllVGood.gif"></dt>
-<dd>Figure: Good Example - Keeping it simple makes it easy to spot (that there is no filter) when you have multiple fields.</dd></dl>
+
+::: bad  
+![Figure: Bad Example - '-All Stores-' isn't needed](../../assets/Combo-ALL-1.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - Keep it as a simple '-All-'](../../assets/Combo-ALL-1.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example - Keeping it simple makes it easy to spot (that there is no filter) when you have multiple fields.](../../assets/Combo-ALL-1.jpg)  
+:::  
+
 Read our rule on [Always make sure the dimensions All Captions = All](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterBusinessIntelligence.aspx#AllDimensionsTag).

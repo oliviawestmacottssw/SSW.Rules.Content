@@ -9,8 +9,7 @@ authors:
 - title: Titus Maclaren
   url: https://ssw.com.au/people/titus-maclaren
 related: []
-redirects:
-- production---do-you-add-a-call-to-action
+redirects: []
 
 ---
 
@@ -60,6 +59,5 @@ Figure: Bad example - too many options breeds choice paralysis
 
 
 
-Figure: Fairly Good example (skip to the end) – a simple task to email hamids@axosoft.com, plus links to social media are present, however there is too much on screen and he has used a graphic instead of live action.    [
-![](Call-to-Action-Screenshot.jpg)](http://www.youtube.com/watch?v=11ibqpnitfk)
+Figure: Fairly Good example (skip to the end) – a simple task to email hamids@axosoft.com, plus links to social media are present, however there is too much on screen and he has used a graphic instead of live action.    [![](Call-to-Action-Screenshot.jpg)](http://www.youtube.com/watch?v=11ibqpnitfk)
  **Figure: Good Example – very clear call to action that asks for an email address. Only asks for one thing at a time and uses zooming effects. In addition, gives a twitter option to engage and uses live action.**

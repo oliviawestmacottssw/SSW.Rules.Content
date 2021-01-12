@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/tristan-kurniawan
 related: []
 redirects:
-- check-in-before-lunch-and-dinner-do-you-work-in-small-chunks--check-in-after-completing-each-one
 - (check-in-before-lunch-and-dinner)-do-you-work-in-small-chunks-check-in-after-completing-each-one
 
 ---
@@ -29,8 +28,7 @@ Frequently developers work on long or difficult features/bugs and leave code che
 
 
 <!--endintro-->
-
-![](Check-InRegularly.jpg) <font class="ms-rteCustom-FigureNormal">Figure: Eating one big meal every three days gives you a bellyache... (aka check in small portions regularly, one large check-in after a few days will give you a headache)</font>
+![](Check-InRegularly.jpg)**Figure: Eating one big meal every three days gives you a bellyache... (aka check in small portions regularly, one large check-in after a few days will give you a headache)** 
 That's why source code should be checked in regularly. We recommend a check-in:
 
 * Immediately after completing a piece of functionality, where the [code compiles and passes the unit tests](/Pages/CompilePassed.aspx)Before lunch or dinner

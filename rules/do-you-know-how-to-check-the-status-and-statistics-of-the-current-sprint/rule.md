@@ -22,7 +22,11 @@ Wrong. It is much better to [use Microsoft Test Manager (MTM) and step through t
 Once you are doing that, this is how you check the status of the current Sprint:
 
 <!--endintro-->
-<dl class="image"><dt><img alt="run acceptance tests" src="check-sprint-status.jpg"></dt><dd>Figure: Good example - This Sprint currently has 2 'Failed' tests (red), and 1 'Active' test (blue). (This 'Results' view is new in MTM 2012) </dd></dl>
+
+::: good  
+![Figure: Good example - This Sprint currently has 2 'Failed' tests (red), and 1 'Active' test (blue). (This 'Results' view is new in MTM 2012)](check-sprint-status.jpg)  
+:::  
+
 Key:
 
 * The red is work remaining for the developers, and

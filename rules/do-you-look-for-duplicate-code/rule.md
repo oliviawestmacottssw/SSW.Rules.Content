@@ -27,14 +27,14 @@ For example, have a look at these two Action methods in an MVC 4 controller.
 [Authorize]
 public ActionResult Index()
 {
-    // get company this user can view
+<span style="background-color:rgb(255, 255, 0);">    // get company this user can view
     Company company = null;
     var currentUser = Session["CurrentUser"] as User;
     if (currentUser != null)
     {
         company = currentUser.Company;
     }
-
+</span>
     // show people in that company
     if (company != null)
     {
@@ -52,14 +52,14 @@ public ActionResult Index()
 [Authorize]
 public ActionResult Details(int id = 0)
 {
-    // get company this user can view
+<span style="background-color:rgb(255, 255, 0);">    // get company this user can view
     Company company = null;
     var currentUser = Session["CurrentUser"] as User;
     if (currentUser != null)
     {
         company = currentUser.Company;
     }
-
+</span>
     // get matching person
     Person person = db.People.Find(id);
     if (person == null || person.Company == company)
@@ -77,7 +77,7 @@ We can refactor this code to make sure the repeated lines are only in one place.
 
 
 ```
-private Company GetCurrentUserCompany()
+<span style="background-color:rgb(255, 255, 0);">private Company GetCurrentUserCompany()
 {
     // get company this user can view
     Company company = null;
@@ -88,15 +88,15 @@ private Company GetCurrentUserCompany()
     }
     return company;
 }
-
+</span>
 //
 // GET: /Person/
 [Authorize]
 public ActionResult Index()
 {
     // get company this user can view
-    Company company = GetCurrentUserCompany();
-
+    <span style="background-color:rgb(255, 255, 0);">Company company = GetCurrentUserCompany();
+</span>
     // show people in that company
     if (company != null)
     {
@@ -115,8 +115,8 @@ public ActionResult Index()
 public ActionResult Details(int id = 0)
 {
     // get company this user can view
-    Company company = GetCurrentUserCompany();
-
+    <span style="background-color:rgb(255, 255, 0);">Company company = Ge</span><span style="background-color:rgb(255, 255, 0);"></span><span style="background-color:rgb(255, 255, 0);">tCurrentUserCompany();
+</span>
     // get matching person
     Person person = db.People.Find(id);
     if (person == null || person.Company == company)
@@ -131,5 +131,4 @@ public ActionResult Details(int id = 0)
 Figure: Good Example - The repeated code has been refactored into its own method.
 
 **Tip:** The Refactor menu in Visual Studio 11 can do this refactoring for you.
-
-![The Extract Method function in Visual Studio's Refactor menu.](vs_refactor_extract.png)
+![vs_refactor_extract.png](vs_refactor_extract.png)Figure: The Extract Method function in Visual Studio's Refactor menu.

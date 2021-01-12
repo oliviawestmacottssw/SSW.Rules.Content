@@ -18,9 +18,11 @@ redirects: []
 Scrum is easier than it seems, we'll explain how in these 8 simple steps.
 
 <!--endintro-->
-<dl class="goodImage"><dt><img src="8Steps_preview.jpg" alt=""><br></dt><dd>Figure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this 
-      <a href="/Documents/8StepstoScrum.pdf">SSW 8 Steps to Scrum PDF</a> and put it on your " 
-      <a href="/Pages/ScrumVisualImage.aspx">War Room</a>" wall<br></dd></dl>
+
+::: good  
+![Figure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this        SSW 8 Steps to Scrum PDF and put it on your "        War Room" wall](8Steps\_preview.jpg)  
+:::  
+
 ### 1. [Initial Meeting](/meetings-are-you-prepared-for-the-initial-meeting)
 
 In the Initial Meeting, the Product Owner explains the product vision. The Develoeprs think about the Architecture needed and how long they will need to come up with an estimate.

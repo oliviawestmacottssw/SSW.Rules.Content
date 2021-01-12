@@ -11,8 +11,7 @@ authors:
 - title: Brendan Richards
   url: https://ssw.com.au/people/brendan-richards
 related: []
-redirects:
-- quality---do-you-only-deploy-after-a-test-please
+redirects: []
 
 ---
 
@@ -30,8 +29,7 @@ Here are some examples:
 
 
 
-
-![](OctopusDeploy.png)
+![OctopusDeploy.png](OctopusDeploy.png)
 
 
 

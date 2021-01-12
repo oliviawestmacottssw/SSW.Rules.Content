@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - write-small-components
-- practices---do-you-write-small-components
 
 ---
 
@@ -20,4 +19,11 @@ The Single Responsibility Principle is a well understood, and well-accepted tena
 When designing components, keep them small, modular and reusable. For example, if you have a menu, put it into a menu component, don’t put it in your app component.
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="comp-1.png" alt="comp-1.png" style="width:800px;"></dt><dd>Figure: Bad example - Having just 3 components for the page makes it difficult to reuse, maintain and test<br></dd></dl><dl class="goodImage"><dt><img src="comp-2.png" alt="comp-2.png" style="width:800px;"></dt><dd>Figure: Good example - Splitting up the page into 11 components means they are small and targeted - and thus easy to maintain and test. Components can be reused on other pages</dd></dl>
+
+::: bad  
+![Figure: Bad example - Having just 3 components for the page makes it difficult to reuse, maintain and test](comp-1.png)  
+:::  
+
+::: good  
+![Figure: Good example - Splitting up the page into 11 components means they are small and targeted - and thus easy to maintain and test. Components can be reused on other pages](comp-2.png)  
+:::

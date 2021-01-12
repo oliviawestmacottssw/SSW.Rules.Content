@@ -20,6 +20,17 @@ redirects: []
 Bug reports can come from anywhere and anyone - the more people reporting back, the better.
 
 Once a problem has been discovered, it helps to collect as much information as possible. Although there are many useful tools you can give to your test team, Problem Details Recorder has one big advantage: It's shipped with Windows since Windows 7 so anyone can record details of their issue with no preinstalled software.
-<dl class="image"><dt><img src="psr1.png" alt="psr1.png"></dt><dd>Figure: To start Problem Steps recorder, type PSR into the start | run box </dd></dl><dl class="image"><dt><img src="psr2.png" alt="psr2.png"></dt><dd>Figure: then click 'Start Record'</dd></dl>
+
+::: ok  
+![Figure: To start Problem Steps recorder, type PSR into the start | run box](psr1.png)  
+:::  
+
+::: ok  
+![Figure: then click 'Start Record'](psr2.png)  
+:::  
+
 Once recording, the user can repeat whatever steps to reproduce an issue.
-<dl class="image"><dt><img src="psr3.png" alt="psr3.png" style="width:750px;"></dt><dd>Figure: User behavior is captured along with full screenshots. This can be saved and attached to a Bug PBI<span style="color:#444444;"></span></dd></dl>
+
+::: ok  
+![Figure: User behavior is captured along with full screenshots. This can be saved and attached to a Bug PBI](psr3.png)  
+:::

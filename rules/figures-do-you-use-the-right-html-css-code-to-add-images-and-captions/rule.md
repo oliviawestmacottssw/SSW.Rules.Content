@@ -14,7 +14,6 @@ related: []
 redirects:
 - use-the-right-html-figure-caption
 - figures-do-you-use-the-right-html-css-code-to-add-the-useful-figure-caption
-- figures---do-you-use-the-right-htmlcss-code-to-add-images-and-captions
 
 ---
 

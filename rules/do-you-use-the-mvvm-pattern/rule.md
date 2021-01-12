@@ -20,9 +20,16 @@ Xamarin follows the MVVM design pattern (see: [Do you use the MVVM pattern in yo
 
 <!--endintro-->
 
-MVVM allows for loose coupling between data, business logic, and UI. In Xamarin, UI is usually defined in XAML (although you can declaratively define your UI in C# code too). Your UI is called a 'view' - a view can be a page or a UI element, although UI elements that are not complete pages are more often referred to as     *controls*. 
-![](../../assets/clip_image001.png)
-<dl class="badImage"><dt><img src="mvvm-bad.png" alt="mvvm-bad.png" style="width:750px;"></dt><dd>Figure: Bad Example - Logic and properties are in the code behind, which decreases maintainability and leads to antipatterns like async void</dd></dl><dl class="goodImage"><dt><img src="mvvm-good.png" alt="mvvm-good.png" style="width:750px;"></dt><dd>Figure: Good Example - Values are bound to properties of the ViewModel, and actions are bound to Commands in the ViewModel<br></dd></dl>
+MVVM allows for loose coupling between data, business logic, and UI. In Xamarin, UI is usually defined in XAML (although you can declaratively define your UI in C# code too). Your UI is called a 'view' - a view can be a page or a UI element, although UI elements that are not complete pages are more often referred to as     *controls*. ![](../../assets/clip_image001.png)
+
+::: bad  
+![Figure: Bad Example - Logic and properties are in the code behind, which decreases maintainability and leads to antipatterns like async void](../../assets/clip\_image001.png)  
+:::  
+
+::: good  
+![Figure: Good Example - Values are bound to properties of the ViewModel, and actions are bound to Commands in the ViewModel](../../assets/clip\_image001.png)  
+:::  
+
 Xamarin supports MVVM out of the box, but there are several MVVM frameworks available that enhance this functionality. For example, some MVVM frameworks support "convention over configuration", allowing you to just code your View and ViewModel and let the framework hook them up for you. Some include:
 
 * **Prism:** Prism is an MVVM framework that was developed initially for WPF but has since been ported to Xamarin Forms. It is stable and mature. https://github.com/PrismLibrary/Prism

@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - promotion-do-people-know-about-your-event
-- promotion---do-you-help-people-to-know-about-your-events
 
 ---
 

@@ -24,6 +24,7 @@ However, for special types of images we do include a prefix.
 | Icon | ico | icoSSW.ico |
 | Screenshot | Screen | ScreenCodeAuditorMainWindow.gif |
 
-<dl class="goodImage"><dt>
-      <img src="ScreenFilesWithScreenPrefix.gif" alt="">
-   </dt><dd>Figure: Correctly named images</dd></dl>
+
+::: good  
+![Figure: Correctly named images](ScreenFilesWithScreenPrefix.gif)  
+:::

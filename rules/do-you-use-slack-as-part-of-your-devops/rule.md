@@ -46,4 +46,7 @@ At SSW we integrate Slack with:
 
 
 Even better, you can create bots in slack to manage things like deployments and updating release notes.
-<dl class="goodImage"><dt><img src="2016-06-06_11-22-03.png" alt="2016-06-06_11-22-03.png" style="width:808px;"></dt><dd>Good example - One centralized location for team chat, deployment issues, exceptions and TFS changes</dd></dl>
+
+::: good  
+![Good example - One centralized location for team chat, deployment issues, exceptions and TFS changes](2016-06-06\_11-22-03.png)  
+:::

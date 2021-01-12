@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - avoid-empty-lines-at-the-start-of-character-columns
-- data--do-you-avoid-empty-lines-at-the-start-of-character-columns
 - data-–-do-you-avoid-empty-lines-at-the-start-of-character-columns
 
 ---

@@ -24,7 +24,7 @@ The problem with emailing a task, is that no one knows how important that email 
 There are the 3 ways people can send tasks:
 
 1. Send an email only.
-<dl class="ssw15-rteElement-ImageArea"><img src="Email sign.jpg" alt="Email sign.jpg" style="margin:5px;"></dl>
+![Email sign.jpg](Email sign.jpg)
 
 ::: bad
 Figure: Bad example - An email with requirements does not indicate the priority
@@ -32,7 +32,7 @@ Figure: Bad example - An email with requirements does not indicate the priority
 
 
 2. Put the task straight into the backlog, and send no email:
-<dl class="ssw15-rteElement-ImageArea"><img src="straight to scrum.jpg" alt="" style="margin:5px;width:349px;height:268px;"></dl>
+![](straight to scrum.jpg)
 
 ::: bad
 Figure: Bad example - The developer does not get a chance to ask questions and refine it before it hits the backlog
@@ -40,7 +40,7 @@ Figure: Bad example - The developer does not get a chance to ask questions and r
 
 
 3. Send an email, the recipient reviews it and places it into the backlog, based off the specified Business Value. Developers often prefer this method if they like control over their backlog.
-<dl class="ssw15-rteElement-ImageArea"><img src="Developer entered.jpg" alt="Developer entered.jpg" style="margin:5px;width:349px;"></dl>
+![Developer entered.jpg](Developer entered.jpg)
 
 ::: good
 Good example - Email tasks with a Business Value, allow the developer to review before putting it in the backlog
@@ -56,10 +56,17 @@ Good example - Email tasks with a Business Value, allow the developer to review 
 
 
 Before you email a task to someone, think about how important it is to you.  Then draft your email, add the Business Value using the same scale that you would use to estimate your PBIs.
-<dl class="ssw15-rteElement-ImageArea" style="text-align:left;"><dl class="ssw15-rteElement-ImageArea"><img src="Email Diagram.jpg" alt="Email Diagram.jpg" style="width:600px;margin:5px;height:615px;"></dl><br><br>::: good<br>Figure: Good example - The best workflow for sending an email<br>:::<br><br><br></dl>
+![Email Diagram.jpg](Email Diagram.jpg)
+
+
+:::
+Figure: Good example - The best workflow for sending an email
+::: good
+
+
 **Q:** What if you need to write an email to multiple recipients?
  **A:** Assign each person a Business Value. In the case of "To Myself" emails, you can also add the amount of 'Effort' required too.
-<dl class="ssw15-rteElement-ImageArea" style="text-align:left;"><img src="Email screenshot.jpg" alt="Email screenshot.jpg" style="text-align:left;margin:5px;width:600px;height:426px;"></dl>
+![Email screenshot.jpg](Email screenshot.jpg)
 
 ::: good
 Figure: Good example - The best workflow for sending an email (with multiple recipients)
@@ -68,7 +75,8 @@ Figure: Good example - The best workflow for sending an email (with multiple rec
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><span style="color:#cc4141;font-family:" segoe="" ui",="" "trebuchet="" ms",="" tahoma,="" arial,="" verdana,="" sans-serif;font-size:18px;background-color:initial;"="">Related links</span><br></dl>
+Related links
+
 
 
 * [Estimating - Do you know how to size user stories effectively?](/estimating-do-you-know-how-to-size-user-stories-effectively)

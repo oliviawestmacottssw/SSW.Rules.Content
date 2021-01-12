@@ -24,50 +24,52 @@ Easy to locate class definitions outside the Visual Studio IDE (e.g. SourceSafe,
 <!--endintro-->
 
 The only exception should be - classes that collectively forms one atomic unit of reuse should live in one file. For example:
-<dl class="badCode">    <dt style="width&#58;92.16%;height&#58;806px;">
-    <pre>class MyClass
+
+
+```
+class MyClass
 <br> 
-&#123;
+{
 <br>
-&#160;&#160;&#160;&#160;    ...
+        ...
 <br>
-&#125;
+}
 <br>
 <br>
 class MyClassAEventArgs
 <br>
-&#123;
+{
 <br>
-    &#160;&#160;&#160;&#160;...
+        ...
 <br>
-&#125;
+}
 <br>
 <br>
 class MyClassBEventArgs
 <br>
-&#123;
+{
 <br>
-    &#160;&#160;&#160;&#160;...
+        ...
 <br>
-&#125;
+}
 <br>
 <br>
 class MyClassAException
 <br>
-&#123;
+{
 <br>
-    &#160;&#160;&#160;&#160;...
+        ...
 <br>
-&#125;
+}
 <br>
 <br>
 class MyClassBException
 <br>
-&#123;
+{
 <br>
-    &#160;&#160;&#160;&#160;...
+        ...
 <br>
-&#125;
-</pre>
-    </dt>
-    <dd>Bad example - 1 project, 1 file. </dd></dl>
+}
+```
+
+Bad example - 1 project, 1 file.

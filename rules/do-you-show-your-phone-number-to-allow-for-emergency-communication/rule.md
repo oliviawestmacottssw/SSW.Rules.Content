@@ -26,11 +26,15 @@ Email is great. But in an emergency, you need to pick up the phone. Often the mo
 
 
 <!--endintro-->
-<dl class="badImage"><dt>
-      <img src="skype-phonenumber-bad.jpg" alt="skype-phonenumber-bad.jpg">
-   </dt><dd>Figure: Bad example - can't call a phone number</dd></dl><dl class="goodImage"><dt>
-      <img src="skype-phonenumber-good.jpg" alt="skype-phonenumber-good.jpg">
-   </dt><dd>Figure: Good example - Able to call phone numbers</dd></dl>
+
+::: bad  
+![Figure: Bad example - can't call a phone number](skype-phonenumber-bad.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - Able to call phone numbers](skype-phonenumber-good.jpg)  
+:::  
+
 **Remote offices tip:** Don’t make being overseas a barrier. Of course, it is always best to provide a local number as that gives clients peace of mind and keep their costs down. Not many clients will call an international number and there are lots of options - [http://www.skype.com/en/features](http://www.skype.com/en/features/).
 
 The next best alternative is to at least show your overseas phone number.

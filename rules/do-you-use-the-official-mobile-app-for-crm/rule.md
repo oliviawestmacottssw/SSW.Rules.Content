@@ -16,7 +16,11 @@ redirects: []
 While there is a web app available, Microsoft have now released a CRM mobile app for Apple, Android and, of course, their own phone OS. It is only for CRM Online and CRM2013 On-Premise.
 
 <!--endintro-->
-<dl class="goodImage"><dt><img src="crm-mobile.jpg" alt=""></dt><dd>Figure: CRM 2013 on your mobile gives you even more accessibility to your important company information</dd></dl>
+
+::: good  
+![Figure: CRM 2013 on your mobile gives you even more accessibility to your important company information](crm-mobile.jpg)  
+:::  
+
 You can download it now for your device (Aussie links):
 
 * Windows Phone: <br>   http://www.windowsphone.com/en-au/store/app/dynamics-crm/bdf6ad14-8ff3-4db1-a9d5-336c50ef13ee

@@ -9,8 +9,7 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects:
-- agreements---do-you-join-the-team-as-a-tester
+redirects: []
 
 ---
 

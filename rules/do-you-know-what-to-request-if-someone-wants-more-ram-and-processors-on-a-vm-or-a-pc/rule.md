@@ -36,11 +36,9 @@ Note:<br>An ideal email subject prefix for more resources would be e.g. “Perfo
 
 
 
-**
-![](resource_monitor.png)**
+**![](resource_monitor.png)**
 
 **Figure: Use “Resource Monitor”<br>prior to allocating**  **more RAM on a VM**
 
-
-![](highUtilisation.png)
+![highUtilisation.png](highUtilisation.png)
 **            Figure: If you see something like<br>this, pass their request :-)**

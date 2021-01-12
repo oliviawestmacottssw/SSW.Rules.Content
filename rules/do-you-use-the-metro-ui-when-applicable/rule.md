@@ -22,5 +22,11 @@ From           [Adam Cogan's blog](http://www.adamcogan.com/2012/11/18/microsoft
 "We now have devices from phones, tablets, work PCs and servers all with the same Metro (don't tell me to call it Modern UI please) tiled user interface.
  What that means for users is that they have the same \*one\* user experience.
  What that means for developers is that we have the simplest way to build apps that go across these 3 devices."
-<dl class="goodImage"><dt><img src="../../assets/Metro-Good.jpg" alt="Metro UI in TFSPreview"> </dt><dd>Figure: Good example – TFSPreview.com adopts the Metro style</dd></dl><dl class="goodImage"><dt> 
-      <img src="../../assets/Metro-Good2.jpg" alt="Metro UI in TimePRO"> </dt><dd>Figure: Good example – SSW TIMEPRO has been Metro influenced</dd></dl>
+
+::: good  
+![Figure: Good example – TFSPreview.com adopts the Metro style](../../assets/Metro-Good.jpg)  
+:::  
+
+::: good  
+![Figure: Good example – SSW TIMEPRO has been Metro influenced](../../assets/Metro-Good2.jpg)  
+:::

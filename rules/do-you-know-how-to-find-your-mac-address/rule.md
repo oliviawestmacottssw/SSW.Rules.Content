@@ -34,9 +34,11 @@ iPhone
 1. Open the  **Settings** app
 2. Navigate to  **General | About**
 3. Look for  **WiFi Address
-<dl class="image"><dt>
-               <img src="iphone-mac.png" alt="iphone-mac.png" style="margin:5px;">
-            </dt></dl>**
+
+::: ok  
+![](iphone-mac.png)  
+:::  
+**
 
 
 ### Android Phone
@@ -46,8 +48,11 @@ iPhone
 2. Tap   **About Phone**
 3. Tap   **Status/Hardware information**
 4. Scroll down to see your  **WiFi/MAC address
-<dl class="image"><dt>
-               <img src="android-mac-address.jpg" alt="android-mac-address.jpg" style="margin:5px;"><br></dt></dl>**
+
+::: ok  
+![](android-mac-address.jpg)  
+:::  
+**
 
 
 ### Windows Phone

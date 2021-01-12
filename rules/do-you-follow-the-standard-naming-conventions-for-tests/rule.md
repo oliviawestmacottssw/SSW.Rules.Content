@@ -51,9 +51,11 @@ That means all tests must pass.
 Test.Integration.WebUI: This test project tests the WebUI and depends on other external resources (Eg. probably needs a database, web services, etc.).
 That means if any external resource is unavailable, the tests will fail.
 Tests.Functional.SilverlightUI: Tests the Silverlight UI from an end-user perspective by clicking around in the application
-<dl class="goodImage"><dt>
-      <img src="UnitTestsProject.jpg" alt="UnitTestsProject.jpg">
-   </dt><dd>Figure: Good example - Naming for a Unit Test Project</dd></dl>Samples Naming of test methods
+
+::: good  
+![Figure: Good example - Naming for a Unit Test Project](UnitTestsProject.jpg)  
+:::  
+Samples Naming of test methods
 [TestMethod]
  public void Test\_Client()
 
@@ -124,6 +126,17 @@ namespace SSW.NETToolkit.IntegrationTests
         }
     }
   }
-<dl class="image"><dt><img src="TestGenerationSettings.gif" alt="TestGenerationSettings.gif"></dt><dd>Figure: This rule is consistent with the Visual Studio default</dd></dl>**Tip:** You can create a test project using the Unit Test Wizard: Test > Add New Test
 
-<dl class="image"><dt><img src="AddNewTest.gif" alt="AddNewTest.gif"></dt><dd>Figure: Unit Test Wizard 1</dd></dl><dl class="image"><dt><img src="CreateUnitTests.gif" alt="CreateUnitTests.gif"></dt><dd>Figure: Unit Test Wizard 2</dd></dl>
+::: ok  
+![Figure: This rule is consistent with the Visual Studio default](TestGenerationSettings.gif)  
+:::  
+**Tip:** You can create a test project using the Unit Test Wizard: Test &gt; Add New Test
+
+
+::: ok  
+![Figure: Unit Test Wizard 1](AddNewTest.gif)  
+:::  
+
+::: ok  
+![Figure: Unit Test Wizard 2](CreateUnitTests.gif)  
+:::

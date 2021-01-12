@@ -13,12 +13,17 @@ authors:
 related: []
 redirects:
 - have-a-naming-convention-for-client-in-teams
-- team-names---do-you-have-naming-convention-for-client-teams
 
 ---
 
 Client Teams should be prefixed with “Client –“ so it is easier to identify them.
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="client-naming-bad.png" alt="client-naming-bad.png"></dt><dd>Bad Example: Client team without the "Client –" prefix</dd></dl><dl class="goodImage"><dt><img src="client-naming-good.jpg" alt="client-naming-good.jpg">
-</dt><dd>Good Example: Well prefixed Teams make Client-related teams easier to identify</dd></dl>
+
+::: bad  
+![Bad Example: Client team without the "Client –" prefix](client-naming-bad.png)  
+:::  
+
+::: good  
+![Good Example: Well prefixed Teams make Client-related teams easier to identify](client-naming-good.jpg)  
+:::

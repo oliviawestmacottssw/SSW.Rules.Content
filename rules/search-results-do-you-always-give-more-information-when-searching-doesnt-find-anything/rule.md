@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- search-results---do-you-always-give-more-information-when-searching-doesnt-find-anything
 - search-results-do-you-always-give-more-information-when-searching-doesn’t-find-anything
 
 ---
@@ -21,4 +20,7 @@ Websites should do the same by giving more information instead of just say “40
 
 
 <!--endintro-->
-<dl class="goodImage"><dt><img src="amazon-search.jpg" alt=""></dt><dd>Figure: Good example - If you don’t match anything on Amazon, it gives you some other choices to click on</dd></dl>
+
+::: good  
+![Figure: Good example - If you don’t match anything on Amazon, it gives you some other choices to click on](amazon-search.jpg)  
+:::

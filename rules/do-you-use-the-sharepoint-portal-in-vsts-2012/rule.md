@@ -17,6 +17,5 @@ You should use the SharePoint portal in VSTS2012 because it provides you dashboa
 
 <!--endintro-->
 
-
 ![](VS2012-SharePointPortal.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: SharePoint portal in VSTS 2012 </font>
+ **Figure: SharePoint portal in VSTS 2012**

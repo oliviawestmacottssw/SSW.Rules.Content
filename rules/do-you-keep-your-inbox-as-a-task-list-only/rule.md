@@ -25,7 +25,11 @@ Most people don’t manage their inbox effectively. Emails should be treated as 
 Your inbox should only contain 'tasks', that are actionable items on your  **list of things to do** . Everything that is in your 'Inbox' (including sub-folders) should only be to-do items.
 
 So do it now, delete all emails you have done. If you want to keep some for reference, move them to a new folder that is not in your inbox.
-<dl class="image"><dt><img src="inbox-tasks-list.jpg" alt="inbox-tasks-list.jpg"> </dt><dd>Figure: All inbox items are tasks</dd></dl>
+
+::: ok  
+![Figure: All inbox items are tasks](inbox-tasks-list.jpg)  
+:::  
+
 In fact, you could go so far as to say you should not do anything unless you have an email telling you to do it (which is why we [send ourselves emails](/dones-do-you-send-yourself-emails)). However, very simple tasks can be requested and replied 'done' via IM.
 
 Read [Rules to Better IM](/rules-to-better-im).

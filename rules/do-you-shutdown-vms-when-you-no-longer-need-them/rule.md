@@ -25,5 +25,5 @@ The following is stated on http://www.windowsazure.com/en-us/pricing/member-offe
 
 You can shutdown the VM by either making a remote desktop connection to the VM and shutdown server or using Azure portal to shutdown the VM.
 
-
-![Azure Portal](Azure.jpg)
+![Azure.jpg](Azure.jpg)
+ **Figure: Azure Portal**

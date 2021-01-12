@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-public-protected-properties-instead-of-public-protected-fields
-- do-you-use-publicprotected-properties-instead-of-publicprotected-fields
 
 ---
 

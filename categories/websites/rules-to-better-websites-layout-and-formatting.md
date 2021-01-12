@@ -12,7 +12,7 @@ index:
 - figures-do-you-use-bad-example-and-good-example-with-ticks-and-crosses-in-captions
 - figures-do-you-use-the-right-html-css-code-to-add-images-and-captions
 - do-you-always-acknowledge-your-work
-- printing-do-you-have-a-printcss-file-so-your-web-pages-are-nicely-printable
+- printing-do-you-have-a-print-css-file-so-your-web-pages-are-nicely-printable
 - printing-do-you-check-for-oversized-images-and-table
 - do-you-design-your-web-pages-to-work-on-mobile-tablets-screens-aka-responsive-web-design
 - authentication-do-you-have-a-user-friendly-registration-and-sign-in-screen

@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - what-metrics-to-collect-stage-3
-- devops--stage-3-do-you-know-what-metrics-to-collect
 - devops-–-stage-3-do-you-know-what-metrics-to-collect
 
 ---
@@ -53,14 +52,15 @@ But it's not only exceptions you should be looking at but also how your users ar
 
 Application/Server performance – track how your code is running in production, that way you can tell if you need to provision more servers or increase hardware specs to keep up with demand
 
-
-![Application Insights gives you information about how things are running and whether there are detected abnormalities in the telemetry](2020-03-24_15-27-26.jpg)
+![2020-03-24_15-27-26.jpg](2020-03-24_15-27-26.jpg)
+ **Figure: Application Insights gives you information about how things are running and whether there are detected abnormalities in the telemetry
 ** 
 
 
-
-![Azure can render the Application Insights data on a nice dashboard so you can get a high level view of your application ](2020-03-24_15-27-45.jpg)
-** <dd class="ssw15-rteElement-FigureNormal"><img src="2020-03-24_15-28-22.jpg" alt="2020-03-24_15-28-22.jpg" style="margin:5px;width:808px;">Figure: App Center can let you monitor app install stats, usage and errors from phones just like an app running in Azure<br></dd>
+![2020-03-24_15-27-45.jpg](2020-03-24_15-27-45.jpg)
+ **Figure: Azure can render the Application Insights data on a nice dashboard so you can get a high level view of your application** **
+** ![2020-03-24_15-28-22.jpg](2020-03-24_15-28-22.jpg)
+Figure: App Center can let you monitor app install stats, usage and errors from phones just like an app running in Azure
 
 
 Process Metrics

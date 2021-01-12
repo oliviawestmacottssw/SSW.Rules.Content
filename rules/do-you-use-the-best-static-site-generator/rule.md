@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - static-site-generator
-- do-you-use-the-best-static-site-generator-
 
 ---
 
@@ -19,8 +18,7 @@ redirects:
 
 <!--endintro-->
 
-
-![](Jekyll.jpg)
+![Jekyll.jpg](Jekyll.jpg)
 
 
 ::: bad
@@ -31,8 +29,7 @@ Bad Example: Jekyll - Great but too simple
 
 
 
-
-![](NextJS.jpg)
+![NextJS.jpg](NextJS.jpg)
 
 
 ::: bad
@@ -43,8 +40,7 @@ Bad Example: NextJS - We had reliability issues with page generation
 
 
 
-
-![](Gatsby.jpg)
+![Gatsby.jpg](Gatsby.jpg)
 
 
 ::: good

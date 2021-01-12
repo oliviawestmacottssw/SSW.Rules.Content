@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - good-audio-conferencing
-- setup---do-you-have-good-audio-conferencing
 
 ---
 

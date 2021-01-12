@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - separate-your-angular-components-into-container-and-presentational
-- practices---do-you-know-to-separate-your-angular-components-into-container-and-presentational-components
 
 ---
 

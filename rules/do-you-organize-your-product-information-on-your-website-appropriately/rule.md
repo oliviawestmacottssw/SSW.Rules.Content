@@ -38,7 +38,7 @@ The way you present information to prospective clients determines its effectiven
 
 
 
-<dl class="ssw15-rteElement-ImageArea">   <img border="1" alt="Organize your product information" src="../../assets/ScreenCodeAuditor.jpg" style="margin:5px;"> </dl>
+![Organize your product information](../../assets/ScreenCodeAuditor.jpg)
 
 ::: good
 Figure: How to organize your product information.

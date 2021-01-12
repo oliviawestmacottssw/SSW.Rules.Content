@@ -19,8 +19,7 @@ Every error message you put into your products is an opportunity for good servic
 
 <!--endintro-->
 
-
-![](imgErrorHandle.GIF)
+![ ](imgErrorHandle.GIF)
 
 
 ::: good

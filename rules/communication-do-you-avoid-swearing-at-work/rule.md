@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - speaking-do-you-avoid-swearing-at-work
-- communication---do-you-avoid-swearing-at-work
 
 ---
 
@@ -25,5 +24,4 @@ Some good deterrents are:
 * To enforce 10 push-ups for every infraction (recommended). 
 This is the same concept as a swear jar but also promotes fitness.
 
-<dl class="ssw15-rteElement-ImageArea"> 
-   <img src="gordon-ramsay.jpg" alt="GORDON-RAMSAY.jpg"> </dl> **Figure: Gordon Ramsay - The only man who can get away with professional swearing**
+![GORDON-RAMSAY.jpg](gordon-ramsay.jpg) **Figure: Gordon Ramsay - The only man who can get away with professional swearing**

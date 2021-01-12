@@ -22,7 +22,11 @@ redirects:
 **Test, test, test!** Testing is the most critical part of any project. Before the delivery of any release the application must pass an internal "test please". Clients quickly become disillusioned if you have delivered a bug-riddled application.
 
 <!--endintro-->
-<dl class="image" style="padding:15px;width:230px;float:right;"><dt> <img alt="Do you want users to have good first impressions?" src="pic16-TestingDoYouWantThemT.gif"> </dt><dd>Figure: Do you want users to have good first impressions? </dd></dl>
+
+::: ok  
+![Figure: Do you want users to have good first impressions?](pic16-TestingDoYouWantThemT.gif)  
+:::  
+
 There are a number of different types of tests that you can perform:
 
 * **Unit Testing:**     It validates the smallest testable parts of an application. Unit tests do not cover the UI layer. There is no industry standard 3rd party unit test tool but at SSW we use NUnit and Visual Studio Team Test.

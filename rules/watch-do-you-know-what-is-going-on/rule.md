@@ -9,8 +9,7 @@ authors:
 - title: Adam Stephensen
   url: https://ssw.com.au/people/adam-stephensen
 related: []
-redirects:
-- watch---do-you-know-what-is-going-on
+redirects: []
 
 ---
 

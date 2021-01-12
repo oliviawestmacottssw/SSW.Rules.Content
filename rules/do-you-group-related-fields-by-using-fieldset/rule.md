@@ -18,25 +18,34 @@ redirects: []
 See the example below using "Your Details"                     and "Event Details".
 
 <!--endintro-->
-<dl class="goodImage"><dt> 
-      <img src="fieldset.jpg" alt=""> 
-   </dt><dd>Figure: Good example - Use FieldSet for grouping</dd><dd></dd></dl>
+
+::: good  
+![Figure: Good example - Use FieldSet for grouping](fieldset.jpg)  
+:::  
+
 Here's an example of how FieldSet works:
-<dl class="code"><dt><pre>&lt;fieldset&gt;
+
+
+```
+<fieldset>
     <legend>Your Details</legend>
     <p>
-        <label for="FirstName">First Name: &lt;/label&gt;
-        <input id="FirstName" type="text"><br>
-        <label for="LastName">Last Name: &lt;/label&gt;
-        <input id="LastName" type="text"><br>
-        <label for="EmailAddress">Email Address: &lt;/label&gt;
-        <input id="EmailAddress" type="text">
-    </label></label></label></p>
-&lt;/fieldset&gt;</pre></dt><dd>Figure: Example code of FieldSet</dd></dl><dl class="image"> 
-   <dt> 
-      <img src="fieldset-browser.jpg" alt=""> 
-   </dt><dd>Figure: How that code will look on the browser</dd><dd></dd></dl>
+        <label for="FirstName">First Name: </label>
+        <input id="FirstName" type="text" /><br />
+        <label for="LastName">Last Name: </label>
+        <input id="LastName" type="text" /><br />
+        <label for="EmailAddress">Email Address: </label>
+        <input id="EmailAddress" type="text" />
+    </p>
+</fieldset>
+```
+
+Figure: Example code of FieldSet
+::: ok  
+![Figure: How that code will look on the browser](fieldset-browser.jpg)  
+:::  
+
 Things to remember:
 
 1. Wrap logical control groups in a &lt;fieldset&gt;.
-2. The first child of a &lt;fieldset&gt; should be a <legend>, so the user knows what to expect in that section.</legend>
+2. The first child of a &lt;fieldset&gt; should be a &lt;legend&gt;, so the user knows what to expect in that section.

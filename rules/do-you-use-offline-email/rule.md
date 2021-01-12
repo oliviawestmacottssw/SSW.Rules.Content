@@ -19,4 +19,7 @@ And remember to periodically select "Check All Subfolders" to make sure all fold
 
 
 <!--endintro-->
-<dl class="image"><dt><img src="offline.JPG" alt="offline"></dt><dd>Figure: Periodically check that all your mail folders are being synced in your offline.ost file </dd> </dl>
+
+::: ok  
+![Figure: Periodically check that all your mail folders are being synced in your offline.ost file](offline.JPG)  
+:::

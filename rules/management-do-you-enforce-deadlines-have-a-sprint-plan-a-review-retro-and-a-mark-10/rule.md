@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - management-do-you-enforce-deadlines-have-a-project-release-plan-a-debrief-and-a-mark-10
-- management---do-you-enforce-deadlines-have-a-sprint-plan-a-reviewretro-and-a-mark-10
 
 ---
 

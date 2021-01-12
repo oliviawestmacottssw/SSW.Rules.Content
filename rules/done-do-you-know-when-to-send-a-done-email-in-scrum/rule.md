@@ -11,8 +11,7 @@ authors:
 - title: Martin Hinshelwood
   url: https://ssw.com.au/people/martin-hinshelwood
 related: []
-redirects:
-- done---do-you-know-when-to-send-a-done-email-in-scrum
+redirects: []
 
 ---
 
@@ -23,7 +22,7 @@ Most devs don't send 'Done' emails. Do you really expect Product Owners to alway
 * If a task/bug came from a client when it is completed, send the 'Done' email to the Product Owner.
 * If the task/bug is your breakdown of a PBI (that the developer did to break down a big user story), then only send the ‘Done’ once the entire user story is complete.
 
-**Note** : Send the ‘Done’ email to the [Owner of that PBI](/Pages/OwnerForEveryUserStory.aspx).
+**Note** : Send the ‘Done’ email to the [Owner of that PBI](/Pages/OwnerForEveryUserStory.aspx). 
 ### Done tips:
 
 * Include Task #, Summary, and link to the item in TWA.
@@ -50,11 +49,14 @@ When the last task/bug of a PBI is complete, you then send a     [comprehensive 
 Here is the [Done Criteria](/done-do-you-go-beyond-done-and-follow-a-definition-of-done)we followed:
 
 * Compiled/Built locally
-* >30% Code Coverage
+* &gt;30% Code Coverage
 * All unit tests passed
 
 
 Then add an illustration to show this.
-<dl class="goodImage"><dt><img border="0" title="image" alt="image" src="ProveDoneCriteria.png" style="width:750px;">
-</dt><dd>Figure: Good example -  This is proof you have met your '<a shape="rect" href="/done-do-you-go-beyond-done-and-follow-a-definition-of-done" target="_blank">Done criteria</a>'. </dd></dl>
+
+::: good  
+![Figure: Good example -  This is proof you have met your 'Done criteria'.](ProveDoneCriteria.png)  
+:::  
+
 This is all designed to help you Scrum Team members (Product Owner, Scrum Master and Team) keep a certain quality bar on completion of each chunk of work. Remember that you are not 'DONE' until your team says you are done.

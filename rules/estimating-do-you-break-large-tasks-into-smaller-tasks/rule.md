@@ -7,8 +7,7 @@ uri: estimating-do-you-break-large-tasks-into-smaller-tasks
 created: 2010-04-07T01:52:01.0000000Z
 authors: []
 related: []
-redirects:
-- estimating---do-you-break-large-tasks-into-smaller-tasks
+redirects: []
 
 ---
 

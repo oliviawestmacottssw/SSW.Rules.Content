@@ -40,15 +40,22 @@ When selecting a Dependency Injection container it is worth considering a number
 The top tools all contain comparable functionality. In practice which one you use makes little difference, especially when you consider that your container choice should not leak into your domain model.
 
 **Important:** Unless a specific shortfall is discovered with the container your team uses, you should continue to use the same container across all of your projects, become an expert with it and invest time on building features rather than learning new container implementations.
-<dl class="badImage"><dt><img src="dic-bad.png" alt="dic-bad.png"> <br></dt><dd>Figure: Bad Example - Ninject was a top container but is no longer developed as actively as Autofac and Structuremap. Both Autofac and Structuremap have active communities and contributors that ensure they stay up to date with the latest changes in .Net<br></dd></dl><dl class="goodImage"><dt> <img src="dic-good.png" alt="dic-good.png alt="> </dt><dd>Figure: Good Example -  <strong>Autofac has a great combination of performance and features and is actively developed</strong> </dd></dl>
+
+::: bad  
+![Figure: Bad Example - Ninject was a top container but is no longer developed as actively as Autofac and Structuremap. Both Autofac and Structuremap have active communities and contributors that ensure they stay up to date with the latest changes in .Net](dic-bad.png)  
+:::  
+
+::: good  
+![Figure: Good Example - Autofac has a great combination of performance and features and is actively developed](dic-good.png)  
+:::  
+
 **Note:** Autofac's support for child lifetime containers may be  significant for some: 
 [http://nblumhardt.com/2011/01/an-autofac-lifetime-primer](http://nblumhardt.com/2011/01/an-autofac-lifetime-primer/)
 
 StructureMap does also support a kind of child container:
 http://codebetter.com/jeremymiller/2010/02/10/nested-containers-in-structuremap-2-6-1/
 
-
-![](Autofac_web.png)
+![Autofac_web.png](Autofac_web.png)
 
 
 ::: good

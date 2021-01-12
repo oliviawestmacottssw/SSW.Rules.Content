@@ -19,5 +19,4 @@ Always introduce yourself \*after\* you have asked the audience who they are. Do
 
 
 <!--endintro-->
-<dl>    <dt><img class="ms-rteCustom-ImageArea" src="aboutAdam.gif" alt=""> </dt>
-     <strong>Figure: Talk about yourself after you know the audience a little. It is not great to bring up the 'About' slide too early</strong> </dl>
+![](aboutAdam.gif) **Figure: Talk about yourself after you know the audience a little. It is not great to bring up the 'About' slide too early**

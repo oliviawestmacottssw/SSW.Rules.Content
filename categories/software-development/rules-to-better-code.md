@@ -10,7 +10,7 @@ index:
 - do-you-follow-naming-conventions
 - do-you-use-the-testing-stage-in-the-file-name
 - do-you-remove-spaces-from-your-folders-and-filename
-- do-you-start-versioning-at-01-and-change-to-10-once-approved-by-a-client-or-tester
+- do-you-start-versioning-at-0-1-and-change-to-1-0-once-approved-by-a-client-or-tester
 - tools-do-you-make-sure-stylecop-is-installed-and-turned-on
 - tools-do-you-make-sure-you-have-visual-studio-code-analysis-turned-on
 - do-you-know-how-to-avoid-problems-in-if-statements
@@ -31,7 +31,7 @@ index:
 - do-you-expose-events-as-events
 - do-you-follow-boy-scout-rule
 - do-you-follow-naming-conventions-for-your-boolean-property
-- do-you-format-environmentnewline-at-the-end-of-a-line
+- do-you-format-environment-newline-at-the-end-of-a-line
 - do-you-have-the-time-taken-in-the-status-bar
 - do-you-import-namespaces-and-shorten-the-references
 - do-you-initialize-variables-outside-of-the-try-block
@@ -41,7 +41,7 @@ index:
 - do-you-know-when-to-use-named-parameters
 - do-you-know-where-to-store-your-applications-files
 - do-you-name-your-events-properly
-- do-you-pre-format-your-time-strings-before-using-timespanparse
+- do-you-pre-format-your-time-strings-before-using-timespan-parse
 - do-you-know-not-to-put-exit-sub-before-end-sub-vb
 - do-you-put-optional-parameters-at-the-end
 - do-you-refer-to-form-controls-directly
@@ -52,12 +52,12 @@ index:
 - do-you-use-a-regular-expression-to-validate-an-email-address
 - do-you-use-a-regular-expression-to-validate-an-url
 - do-you-use-enums-instead-of-hard-coded-strings
-- do-you-use-environmentnewline-to-make-a-new-line-in-your-string
+- do-you-use-environment-newline-to-make-a-new-line-in-your-string
 - do-you-use-good-code-over-backward-compatibility
 - do-you-use-public-protected-properties-instead-of-public-protected-fields
 - do-you-use-resource-file-to-store-all-the-messages-and-globlal-strings
 - do-you-use-resource-file-to-store-messages
-- do-you-use-stringempty-instead-of
+- do-you-use-string-empty-instead-of
 - do-you-use-using-declaration-instead-of-use-explicitly-dispose
 - do-you-warn-users-before-starting-a-long-process
 - do-you-wrap-the-same-logic-in-a-method-instead-of-writing-it-again-and-again-whenever-its-used

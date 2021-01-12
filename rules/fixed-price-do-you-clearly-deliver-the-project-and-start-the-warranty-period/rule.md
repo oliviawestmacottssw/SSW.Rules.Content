@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - fixed-price-deliver-the-project-and-start-the-warranty-period
-- fixed-price--do-you-clearly-deliver-the-project-and-start-the-warranty-period
 - fixed-price-–-do-you-clearly-deliver-the-project-and-start-the-warranty-period
 
 ---

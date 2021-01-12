@@ -14,7 +14,6 @@ related: []
 redirects:
 - how-to-take-feedback-or-criticism
 - do-you-know-how-to-take-feedback-criticism-(even-if-it’s-not-your-fault)
-- communication---do-you-know-how-to-take-feedbackcriticism-even-if-its-not-your-fault
 - communication-do-you-know-how-to-take-feedback-criticism-(even-if-it’s-not-your-fault)
 
 ---
@@ -47,8 +46,12 @@ https://www.americanexpress.com/en-us/business/trends-and-insights/articles/the-
 
 :::
 
-<dl class="image"><dt> <img src="dilbert-criticism-1.gif" alt="dilbert-criticism-1.gif" style="width:90%;height:auto;"> <br>
-   </dt><dd>Figure: Make sure you know how to take criticism well</dd></dl><dl class="ssw15-rteElement-ImageArea"> <strong></strong> <img src="Defensive behaviour.png" alt="Defensive behaviour.png" style="margin:5px;width:808px;"> <strong>Figure: Active listening can help with communication issues</strong> <br></dl>
+
+::: ok  
+![Figure: Make sure you know how to take criticism well](dilbert-criticism-1.gif)  
+:::  
+  
+ **Figure: Active listening can help with communication issues** ![Defensive behaviour.png](Defensive behaviour.png)
 
 
 

@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - have-auto-generated-maintenance-pages
-- do-you-have-auto-generated-maintenance-pages-on-every-project-
 
 ---
 
@@ -28,12 +27,26 @@ Please follow these steps to create your maintenance pages.
 3. Install CodeSmith.
 4. Run C:\Program Files\NetTiers\NetTiers.cst.
 5. Set requires properties following instructions.
-<dl class="image"><dt> <img src="NetTiersConfig.jpg" alt=""><br> </dt><dd>Figure: Properties Window</dd></dl>6. Generate.
+
+::: ok
+![Figure: Properties Window](NetTiersConfig.jpg)
+:::
+6. Generate.
 7. Open the solution.
 8. Build it and run it in IE.
 9. Congratulations! It's up and running.
-<dl class="image"><dt> <img src="RunNorthwind.jpg" alt=""> </dt><dd>Figure: The application is running</dd></dl>
+
+::: ok
+![Figure: The application is running](RunNorthwind.jpg)
+:::
+
 
 Code Smith enables to do this generate with a single command. If you want to generate it again, just run this command.
-<dl class="code"><dt><pre>cs D:\DataDavidBian\Personal\New12345\NetTiers.csp</pre></dt><dd>Figure: An example of command line of Code Smith for NorthWind</dd></dl>
+
+
+```
+cs D:\DataDavidBian\Personal\New12345\NetTiers.csp
+```
+
+Figure: An example of command line of Code Smith for NorthWind
 We recommend you put this command in a file called "\_Regenerate.bat" and add it in the solution in case you will generate it again in future.

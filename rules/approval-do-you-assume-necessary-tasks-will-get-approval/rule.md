@@ -11,8 +11,7 @@ authors:
 - title: Cameron Shaw
   url: https://ssw.com.au/people/cameron-shaw
 related: []
-redirects:
-- approval---do-you-assume-necessary-tasks-will-get-approval
+redirects: []
 
 ---
 

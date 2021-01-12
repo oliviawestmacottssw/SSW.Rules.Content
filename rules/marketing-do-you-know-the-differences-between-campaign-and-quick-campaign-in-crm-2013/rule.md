@@ -9,17 +9,18 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- marketing---do-you-know-the-differences-between-campaign-and-quick-campaign-in-crm-2013
+redirects: []
 
 ---
 
 This picture shows a flowchart of Campaigns and Quick Campaigns in CRM 2013:
 
 <!--endintro-->
-<dl class="image"><dt> 
-      <img alt="Color of CRM Development Server" src="CampaignVSQuickCampaign.jpg">
-   </dt><dd> Figure: Campaign VS Quick Campaign flowchart.</dd></dl>
+
+::: ok  
+![Figure: Campaign VS Quick Campaign flowchart.](CampaignVSQuickCampaign.jpg)  
+:::  
+
 A Campaign can extend over a long period of time, with potentially multiple different media types being used for a common purpose. It has extensive meta-data to both plan activities and then show reports on results. e.g.
 
 * A monthly newsletter

@@ -9,7 +9,6 @@ authors: []
 related: []
 redirects:
 - menu-do-you-include-a-＂tools-validate-data＂
-- menu---do-you-include-a-tools--validate-data
 
 ---
 
@@ -22,8 +21,11 @@ So when you add business rules to the middle tier, consider scenarios such as im
 * For SQL Server we use  **vwValidateClient\_MustHaveACategoryID** , or  **procValidateClient\_MustHaveACategoryID**
 * For Access we use  **qryValidateClient\_MustHaveACategoryID**
 
-<dl class="goodImage"><dt><img alt="Data Validation" src="../../assets/TimeProValidateData.png"></dt>
-<dd>Figure: Good Example - This application, while not the prettiest, has a handy validation tool to check for incorrect data</dd></dl>
+
+::: good  
+![Figure: Good Example - This application, while not the prettiest, has a handy validation tool to check for incorrect data](../../assets/TimeProValidateData.png)  
+:::  
+
 # Related Links
 
 [Do you validate each "Denormalized Field" with procValidate?](/do-you-validate-each-＂denormalized-field＂-with-procvalidate)

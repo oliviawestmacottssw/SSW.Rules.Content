@@ -7,20 +7,15 @@ uri: bounces-do-you-know-what-to-do-with-bounced-email
 created: 2011-08-25T19:54:59.0000000Z
 authors: []
 related: []
-redirects:
-- bounces---do-you-know-what-to-do-with-bounced-email
+redirects: []
 
 ---
 
 Having people report bounce back emails is frustrating and time consuming. The first thing to try when you get a report is to check that your mail server isn’t on a spam blacklist. An easy way to check this is via [MX Toolbox](http://mxtoolbox.com/). 
 <!--endintro-->
-
-![Enter the domain to check](MXToolbox-1.jpg)
-![Then select "Blacklist Check"](MXToolbox-2.jpg)
-![Getting a zero is good, so you know that you are not blacklisted… so Step 1 is good](MXToolbox-3.jpg)
+![Enter the domain to check](MXToolbox-1.jpg)**Figure: Enter the domain to check** ![Then select Blacklist Check](MXToolbox-2.jpg)**Figure: Then select "Blacklist Check"** ![not blacklisted](MXToolbox-3.jpg)**Figure: Getting a zero is good, so you know that you are not blacklisted… so Step 1 is good** 
 Next step check that you have primary and secondary (and even better tertiary) MX records setup and working.
-
-![Seeing at least 2 MX records is good... Run an SMTP Test to test mail servers. So Step 2 is good](MXToolbox-4.jpg)
+![SMTP test](MXToolbox-4.jpg)**Figure: Seeing at least 2 MX records is good... Run an SMTP Test to test mail servers. So Step 2 is good** 
 If success on both steps the error is most likely on the senders side. Send them the an email to check their mail settings.
 
 

@@ -23,9 +23,11 @@ Why do web pages have "Reset" buttons? I have been entering forms on the web for
 <!--endintro-->
 
 More detailed information about this rule can be found in this article http://www.nngroup.com/articles/reset-and-cancel-buttons/
-<dl class="image"><dt> 
-         <img src="ResetButton.gif" alt=""> 
-      </dt><dd>Figure: The "Reset" button isn't useful at all </dd></dl>
+
+::: ok  
+![Figure: The "Reset" button isn't useful at all](ResetButton.gif)  
+:::  
+
 We have a program called        [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.
 
 We have a program called        [SSW Link Auditor](http://www.ssw.com.au/ssw/LinkAuditor) to check for this rule.

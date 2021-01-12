@@ -7,8 +7,7 @@ uri: meetings-do-you-listen-more-than-you-talk
 created: 2010-07-16T06:27:54.0000000Z
 authors: []
 related: []
-redirects:
-- meetings---do-you-listen-more-than-you-talk
+redirects: []
 
 ---
 
@@ -16,6 +15,5 @@ For meetings with clients, aim for a ratio of 70% to 30% - that is, 70% of the t
 <!--endintro-->
 
 It's important to ask probing questions and then listen to the answers.
-<dl class="good">    <dt>Client&#58; We had a problem in China <br>
-    You&#58; What was the problem? </dt>
-    <dd>Figure&#58; Good Example </dd></dl>
+ Client: We had a problem in ChinaYou: What was the problem?
+Figure: Good Example

@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- data-migration---do-you-prioritize-the-data-that-is-to-be-imported
+redirects: []
 
 ---
 

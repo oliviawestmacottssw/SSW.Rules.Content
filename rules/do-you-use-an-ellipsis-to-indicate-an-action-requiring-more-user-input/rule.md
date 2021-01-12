@@ -8,7 +8,6 @@ created: 2012-11-27T09:08:21.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-use-an-ellipsis--to-indicate-an-action-requiring-more-user-input
 - do-you-use-an-ellipsis-(-)-to-indicate-an-action-requiring-more-user-input
 
 ---
@@ -22,8 +21,19 @@ In menus (including context menus) or buttons, there are generally two types of 
 <!--endintro-->
 
 Microsoft applications use this technique to indicate whether or not the action will be carried out without any further user intervention. Your application should also follow this well-established standard, so users will not be caught off guard when an action carried out immediately after they click the menu item.
-<dl class="goodImage"><dt><img alt="Elipsis" src="../../assets/Elipsis.gif"></dt>
-<dd>Figure: Good Example - Options menu in Outlook, with ellipsis</dd></dl><dl class="goodImage"><dt><img alt="Shows that it needs further input" src="../../assets/RunDialog.gif"></dt>
-<dd>Figure: Good Example - Ellipsis on buttons that require further input</dd></dl><dl class="goodImage"><dt><img alt="Elipsis" src="../../assets/GoodElipsis3.png"></dt>
-<dd>Figure: Good Example - Different ways of using the elipsis</dd></dl><dl class="goodImage"><dt><img alt="Shows that it needs further input" src="../../assets/GoodElipsis4.png"></dt>
-<dd>Figure: Good Example - Elipsis being used on a button requiring user input</dd></dl>
+
+::: good  
+![Figure: Good Example - Options menu in Outlook, with ellipsis](../../assets/Elipsis.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - Ellipsis on buttons that require further input](../../assets/RunDialog.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - Different ways of using the elipsis](../../assets/GoodElipsis3.png)  
+:::  
+
+::: good  
+![Figure: Good Example - Elipsis being used on a button requiring user input](../../assets/GoodElipsis4.png)  
+:::

@@ -9,15 +9,39 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- controls---do-you-make-the-selectedenabled-rows-stand-out-in-a-datagrid
+redirects: []
 
 ---
 
 Many times you allow a multiple selection in a grid by using a checkbox. When you do this make it easy to see the distinction of a row that is selected and one that is not. Make it subtle by dimming the unselected text.
 
 <!--endintro-->
-<dl class="badImage"><dt> <img alt="Seleted rows not standard out" src="../../assets/Interface_Selected_Rows_Bad.JPG"> </dt><dd>Figure: Bad Example - Selected rows are not separate from others.</dd></dl><dl class="goodImage"><dt> <img alt="Seleted rows standard out" src="../../assets/Interface_Selected_Rows_Good.JPG"> </dt><dd>Figure: Good Example - Selected rows are separate from others.</dd></dl>
+
+::: bad  
+![Figure: Bad Example - Selected rows are not separate from others.](../../assets/Interface\_Selected\_Rows\_Bad.JPG)  
+:::  
+
+::: good  
+![Figure: Good Example - Selected rows are separate from others.](../../assets/Interface\_Selected\_Rows\_Good.JPG)  
+:::  
+
 To make this effect in datagrid, you may need to edit the  **cellcontentclick** event handler code. 
 Example:
-<dl class="goodCode"><dt><p>private void DatagridviewRules_CellContentClick(object sender, DataGridViewCellEventArgs e)<br> {<br> if (DatagridviewRules.Columns[e.ColumnIndex] is DataGridViewCheckBoxColumn && e.ColumnIndex == 0 &&<br>e.RowIndex != -1)<br> {<br> bool boolCheckBox = (bool)(DatagridviewRules.Rows[e.RowIndex].Cells[e.ColumnIndex].Value);<br> DatagridviewRules.Rows[e.RowIndex].DefaultCellStyle.ForeColor = boolCheckBox<br> ? SystemColors.WindowText<br> : SystemColors.ControlDark;<br> DataRowView objDataRowView = (DataRowView)DatagridviewRules.Rows[e.RowIndex].DataBoundItem;<br> JobRule.DataTableJobRulesRow objDataRow = (JobRule.DataTableJobRulesRow)(objDataRowView.Row);<br> updateRuleIsEnabled(objDataRow.RuleId, boolCheckBox);<br> updateSelectAllCheckBox();<br> updateRulesCount();<br> }<br> }<br></p> </dt><dd>Setting the ForeColor to different ones, like black and gray, can separate the selected rows from others.</dd></dl>
+
+private void DatagridviewRules\_CellContentClick(object sender, DataGridViewCellEventArgs e)
+ {
+ if (DatagridviewRules.Columns[e.ColumnIndex] is DataGridViewCheckBoxColumn && e.ColumnIndex == 0 &&
+e.RowIndex != -1)
+ {
+ bool boolCheckBox = (bool)(DatagridviewRules.Rows[e.RowIndex].Cells[e.ColumnIndex].Value);
+ DatagridviewRules.Rows[e.RowIndex].DefaultCellStyle.ForeColor = boolCheckBox
+ ? SystemColors.WindowText
+ : SystemColors.ControlDark;
+ DataRowView objDataRowView = (DataRowView)DatagridviewRules.Rows[e.RowIndex].DataBoundItem;
+ JobRule.DataTableJobRulesRow objDataRow = (JobRule.DataTableJobRulesRow)(objDataRowView.Row);
+ updateRuleIsEnabled(objDataRow.RuleId, boolCheckBox);
+ updateSelectAllCheckBox();
+ updateRulesCount();
+ }
+ }
+Setting the ForeColor to different ones, like black and gray, can separate the selected rows from others.

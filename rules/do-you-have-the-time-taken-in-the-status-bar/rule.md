@@ -19,4 +19,11 @@ This feature is Particularly important if the user runs a semi-long task (e.g.30
 Also a developer, you can use it to know if a piece of code you have modified has increased the performance of the task or hindered it.
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="TimeTaken_Bad.jpg" alt="TimeTaken_Bad.jpg"></dt><dd>Figure: Bad example - popup dialog at the end of a long process</dd></dl><dl class="goodImage"><dt><img src="TimeTaken_Good.jpg" alt="TimeTaken_Good.jpg"></dt><dd>Figure: Good example - show time taken in the status bar</dd></dl>
+
+::: bad  
+![Figure: Bad example - popup dialog at the end of a long process](TimeTaken\_Bad.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - show time taken in the status bar](TimeTaken\_Good.jpg)  
+:::

@@ -13,7 +13,7 @@ index:
 - do-you-create-a-continuous-integration-build-for-the-solution
 - do-you-create-a-deployment-batch-file-and-setparameters-file-for-each-environment
 - do-you-deploy-to-other-environments
-- do-you-know-the-easiest-way-to-continuously-deploy-is-to-use-visualstudiocom-and-azure
+- do-you-know-the-easiest-way-to-continuously-deploy-is-to-use-visualstudio-com-and-azure
 - do-you-know-to-create-the-website-in-iis-if-using-web-deploy
 - do-you-not-install-web-deploy-from-the-web-platform-installer
 - do-you-update-your-build-to-use-the-executebatchtemplate-build-process-template

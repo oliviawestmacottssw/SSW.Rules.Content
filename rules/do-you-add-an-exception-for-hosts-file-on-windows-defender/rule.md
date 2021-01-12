@@ -18,5 +18,4 @@ If you sometimes add entries into your Hosts file (C:\Windows\System32\Drivers\e
 <!--endintro-->
 
 The relevant setting can be found under "Settings, Excluded files and locations". Of course this also mean that the anti-virus program will no longer detect any malicious modifications to the HOSTS file.
-
-![ Window defender Settings](Windows-Defender-settings.jpg)
+![Figure: Window defender Settings](Windows-Defender-settings.jpg)**Figure: Window defender Settings**

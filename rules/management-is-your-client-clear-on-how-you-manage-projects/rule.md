@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- management---is-your-client-clear-on-how-you-manage-projects
+redirects: []
 
 ---
 

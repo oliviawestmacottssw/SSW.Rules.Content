@@ -19,6 +19,7 @@ redirects:
 Zendesk has a larger market share, lower cost and better 'overall rating' as per     [getapp.com](https://www.getapp.com/it-management-software/a/service-now-com/compare/zendesk/).
 
 <!--endintro-->
-<dl class="image"><dt>
-      <img src="comparison.png" alt="comparison.png">
-   </dt><dd>Figure: Zendesk vs Service Now<br></dd></dl>
+
+::: ok  
+![Figure: Zendesk vs Service Now](comparison.png)  
+:::

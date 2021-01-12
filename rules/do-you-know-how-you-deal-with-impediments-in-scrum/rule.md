@@ -24,11 +24,9 @@ This exercise uses the VS2010 planning poker deck of cards & TFS
 # Separate out the cards
 
 Separate out these as Chance Cards
-
-![Chance cards](chance-cards.jpg)
+![Chance Cards](chance-cards.jpg)**Figure: Chance cards** 
 Separate out these as Point Cards
-
-![Point cards](point-cards.jpg)
+![Point Cards](point-cards.jpg)**Figure: Point cards** 
 # Set Timeboxes
 
 **Sprint Planning (What):** 20 minutes

@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - comment-each-property-and-method
-- comments---do-you-comment-each-property-and-method
 
 ---
 

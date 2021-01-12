@@ -18,8 +18,8 @@ index:
 - do-you-make-the-homepage-as-a-portal
 - does-your-applications-interface-fit-in-a-small-screen-resolution
 - authentication-do-you-make-the-logged-in-state-clear
-- give-context-do-you-include-extra-information-eg-checkboxes
-- give-context-do-you-include-extra-information-eg-screenshots
+- give-context-do-you-include-extra-information-e-g-checkboxes
+- give-context-do-you-include-extra-information-e-g-screenshots
 - do-you-log-usage
 - help-do-you-have-a-wiki-for-each-page-or-form
 - help-do-you-help-users-when-they-get-errors-by-directing-them-to-a-wiki-or-kb

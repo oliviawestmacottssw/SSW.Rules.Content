@@ -35,5 +35,7 @@ It should definitely include:
 * Goals
 * Metrics that will be followed
 
-<dl class="image"><dt><img src="contentmkt.png" alt="contentmkt.png"></dt><dd>Figure: Marketing Content is valuable with the right approach! - Image source: 
-      <a class="ignore" href="https://medium.com/%40joelesina/content-marketing-a-simple-guide-on-how-i-do-it-1b1791ca1898">Joe Lesina</a></dd></dl>
+
+::: ok  
+![Figure: Marketing Content is valuable with the right approach! - Image source:        Joe Lesina](contentmkt.png)  
+:::

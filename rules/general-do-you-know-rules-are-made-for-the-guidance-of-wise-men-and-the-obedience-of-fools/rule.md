@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - do-you-know-rules-are-made-for-the-guidance-of-wise-men-and-the-obedience-of-fools
-- general---do-you-know-rules-are-made-for-the-guidance-of-wise-men-and-the-obedience-of-fools
 
 ---
 

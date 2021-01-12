@@ -33,65 +33,87 @@ Sometimes it can be hard to keep generating content daily for your social media,
 So, here are a few examples taken from our social media of what you could post on yours:
 
 ### Internal projects, services or products that your business developed or offers
-<dl class="image"><dt> 
-      <img src="teamwork.jpg" alt="teamwork.jpg"> 
-   </dt><dd>Figure: SSW’s devs doing a scrum retro with General Manager Uly after working on 
-      <a href="https://sswtimepro.com/">SSW TimePro</a></dd></dl>
+
+::: ok  
+![Figure: SSW’s devs doing a scrum retro with General Manager Uly after working on        SSW TimePro](teamwork.jpg)  
+:::  
+
 ### Projects that your company worked on
-<dl class="image"><dt>
-      <img src="breast.jpg" alt="breast.jpg">
-   </dt><dd>Figure: SSW's developer Kosta being recorded by SSW TV about the web app that SSW developed for Sydney University</dd></dl>
+
+::: ok  
+![Figure: SSW's developer Kosta being recorded by SSW TV about the web app that SSW developed for Sydney University](breast.jpg)  
+:::  
+
 ### Video content
-<dl class="image"><dt>
-      <img src="sswtv.jpg" alt="sswtv.jpg">
-   </dt><dd>Figure: SSW TV Tech tips recorded during NDC 2019 on YouTube - 
-      <a href="https://www.youtube.com/playlist?list=PLpiOR7CBNvlqSNO-jkFxuAqy9uL6vnfkx">Watch the playlist here</a></dd></dl>
+
+::: ok  
+![Figure: SSW TV Tech tips recorded during NDC 2019 on YouTube -        Watch the playlist here](sswtv.jpg)  
+:::  
+
 ### Events that your company organised
-<dl class="image"><dt>
-      <img src="promoclean.jpg" alt="promoclean.jpg">
-   </dt><dd>Figure: Clean Architecture Superpowers paid training promotion on SSW's socials</dd></dl><dl class="image"><dt>
-      <img src="sswevents.jpg" alt="sswevents.jpg">
-   </dt><dd>Figure: 
-      <a href="https://angularhackday.com/">Angular Hack Day</a> post-event post<br></dd></dl>
+
+::: ok  
+![Figure: Clean Architecture Superpowers paid training promotion on SSW's socials](promoclean.jpg)  
+:::  
+
+::: ok  
+![Figure:        Angular Hack Day post-event post](sswevents.jpg)  
+:::  
+
 ### External events that you and your team attended to
-<dl class="image"><dt>
-      <img src="ndc.jpg" alt="ndc.jpg">
-   </dt><dd>Figure: SSW’s team in our booth at NDC Sydney 2019 with Alumnus Tiago Passos</dd></dl>
+
+::: ok  
+![Figure: SSW’s team in our booth at NDC Sydney 2019 with Alumnus Tiago Passos](ndc.jpg)  
+:::  
+
 ### Your team members profile
-<dl class="image"><dt>
-      <img src="kikisprofile.png" alt="kikisprofile.png">
-   </dt><dd>Figure: In profile photos, you can show your employees in action</dd></dl>
+
+::: ok  
+![Figure: In profile photos, you can show your employees in action](kikisprofile.png)  
+:::  
+
 ### Your employee's blogs posts
-<dl class="image"><dt>
-      <img src="blogpost.jpg" alt="blogpost.jpg">
-   </dt><dd>Figure: Use the same image from the blog post for consistency</dd></dl>
+
+::: ok  
+![Figure: Use the same image from the blog post for consistency](blogpost.jpg)  
+:::  
+
 ### Your business blog posts
-<dl class="image"><dt>
-      <img src="blogpostssw.jpg" alt="blogpostssw.jpg">
-   </dt><dd>Figure: When you promote your own business' blog post on your social media, try to use the same design & branding</dd></dl>
+
+::: ok  
+![Figure: When you promote your own business' blog post on your social media, try to use the same design & branding](blogpostssw.jpg)  
+:::  
+
 ### General content wrote by your team on your website
 
-<dl class="image">   <dt>
-      <img src="rules.jpg" alt="rules.jpg">
-   </dt><dd>Figure: Even though some of your content doesn’t have a photo, you can add a relevant one from free stock photo services, like the above</dd></dl>
+
+::: ok  
+![Figure: Even though some of your content doesn’t have a photo, you can add a relevant one from free stock photo services, like the above](rules.jpg)  
+:::  
+
 ### Employment opportunities
-<dl class="image"><dt>
-      <img src="hiringpost.jpg" alt="hiringpost.jpg"> 
-   </dt><dd>Figure: Hiring post following branding guidelines</dd><dd></dd></dl>
+
+::: ok  
+![Figure: Hiring post following branding guidelines](hiringpost.jpg)  
+:::  
+
 ### Teamwork, parties, etc
-<dl class="image"><dt>
-      <img src="teamwork2.jpg" alt="teamwork2.jpg">
-   </dt><dd>Figure: A team shot just before NDC with part of the SSW China office</dd></dl>
+
+::: ok  
+![Figure: A team shot just before NDC with part of the SSW China office](teamwork2.jpg)  
+:::  
+
 ### Relevant news for your industry
-<dl class="image"><dt>
-      <img src="technews.jpg" alt="technews.jpg">
-   </dt><dd>Figure: If you don’t have a catchy photo to represent your news, try free stock photo websites like 
-      <a href="https://www.pexels.com/">Pexels</a> or 
-      <a href="https://unsplash.com/">Unsplash</a></dd></dl>
+
+::: ok  
+![Figure: If you don’t have a catchy photo to represent your news, try free stock photo websites like        Pexels or        Unsplash](technews.jpg)  
+:::  
+
 ### Memes, if they suit your industry
 
 
 To see best practices for sharing memes on your socials, check out our Rule: [Do you know why you should use memes as part of your business social media content?](/do-you-know-why-you-should-use-memes-as-part-of-your-business-social-media-content)
-<dl class="image"><dt>
-      <img src="meme.png" alt="meme.png">
-   </dt><dd>Figure: A meme once a week on weekends can help you boost your social media engagement</dd><br></dl>
+
+::: ok  
+![Figure: A meme once a week on weekends can help you boost your social media engagement](meme.png)  
+:::

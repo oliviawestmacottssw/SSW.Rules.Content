@@ -11,16 +11,41 @@ authors:
 related: []
 redirects:
 - do-you-offer-specific-criticism
-- communication---do-you-offer-specific-feedback
 
 ---
 
 Every day you will probably come across something that could be improved. If you're not making improvements, you're going backwards. But don't make suggestions or criticisms without being specific.
 
 <!--endintro-->
-<dl class="bad"> <br><br>::: greybox<br>&quot;Do you know our sales process is pretty bad, what are you going to do about it?&quot;<br>:::<br><br> <br><br>::: bad<br>Figure&#58; Bad Example - Nonspecific criticism <br><br>:::<br><br></dl>
+
+
+
+:::
+
+Figure: Bad Example - Nonspecific criticism
+::: bad
+
+
+
+:::
+"Do you know our sales process is pretty bad, what are you going to do about it?"
+::: greybox
+
 When you find a problem, pinpoint it directly (and recommend a solution):
-<dl class="good"> <br><br>::: greybox<br>&quot;The current sales process is pretty bad. It&#160;does not ensure that a prospect is followed up by a phone call within 7 days of an initial meeting. Please create a workflow in CRM, have it tested by the sales manager, and then we will email the sales team to inform them about the improvement.&quot;<br>:::<br><br> <br><br>::: good<br>Figure&#58; Good Example - Offering criticism in this way ensures that something will happen to fix the problem<br><br>:::<br><br> </dl>
+
+
+
+:::
+
+Figure: Good Example - Offering criticism in this way ensures that something will happen to fix the problem
+::: good
+
+
+
+:::
+"The current sales process is pretty bad. It does not ensure that a prospect is followed up by a phone call within 7 days of an initial meeting. Please create a workflow in CRM, have it tested by the sales manager, and then we will email the sales team to inform them about the improvement."
+::: greybox
+
 
 ::: greybox
 "Not done, please try again"

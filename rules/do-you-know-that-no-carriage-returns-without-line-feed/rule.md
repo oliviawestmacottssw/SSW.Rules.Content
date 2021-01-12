@@ -18,6 +18,11 @@ Text files created on DOS/Windows machines have different line endings than file
 
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="carriage-bad.jpg" alt="carriage-bad.jpg"></dt><dd>Figure: Bad example</dd></dl><dl class="goodImage"><dt> 
-      <img src="carriage-good.jpg" alt="carriage-good.jpg"> 
-   </dt><dd>Figure: Good example<span style="color:#444444;"></span></dd></dl>
+
+::: bad  
+![Figure: Bad example](carriage-bad.jpg)  
+:::  
+
+::: good  
+![Figure: Good example](carriage-good.jpg)  
+:::

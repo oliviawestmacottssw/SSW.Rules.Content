@@ -8,7 +8,7 @@ index:
 - do-you-know-what-your-staff-are-working-on
 - do-you-participate-in-daily-scrum-meetings
 - do-you-process-approvals-in-a-timely-manner
-- do-you-do-invoicing-in-a-timely-manner-ie-once-a-week
+- do-you-do-invoicing-in-a-timely-manner-i-e-once-a-week
 - do-you-perform-client-follow-ups
 - do-you-review-and-update-crm
 - do-you-make-your-office-a-welcoming-space-for-employees-and-customers

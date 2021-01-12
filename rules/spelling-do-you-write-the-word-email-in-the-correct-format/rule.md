@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-write-the-word-email-in-the-correct-format
-- spelling---do-you-write-the-word-email-in-the-correct-format
 
 ---
 

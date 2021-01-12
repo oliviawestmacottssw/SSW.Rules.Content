@@ -9,17 +9,18 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- meeting---do-you-update-your-tasks-before-the-daily-scrum
+redirects: []
 
 ---
 
 All team members must update their tasks with  status, (and remaining hours if you are estimateing tasks) prior to the daily Scrum meeting.
 
 <!--endintro-->
-<dl class="image"><dt> 
-      <img src="Updatetasks.jpg" alt=""> 
-   </dt><dd>Figure: Update the following screen to keep your burndown rate accurate.<br><br></dd></dl>
+
+::: ok  
+![Figure: Update the following screen to keep your burndown rate accurate.](Updatetasks.jpg)  
+:::  
+
 **Related Links** 
 
 

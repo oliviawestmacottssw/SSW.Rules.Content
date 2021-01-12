@@ -18,8 +18,7 @@ We recommend enforcing strict password policies.
 
 Below is a capture of the settings we use:
 
-
-![](ADSecurityPolicy.png)
+![ADSecurityPolicy.png](ADSecurityPolicy.png)
 
 <!--endintro-->
 

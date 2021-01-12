@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - do-you-know-the-best-place-to-find-good-software-videos
-- quality---do-you-know-the-best-place-to-find-good-software-videos
 
 ---
 

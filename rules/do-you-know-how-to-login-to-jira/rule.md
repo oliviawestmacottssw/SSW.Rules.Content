@@ -20,5 +20,4 @@ You can track progress on this at: [NET-48](/Pages/HowdoIsignintoJira.aspx)
 
 See screen below for sign in details
 
-
-![](SignIn.png)
+![Alternate Text](SignIn.png)

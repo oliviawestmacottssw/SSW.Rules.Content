@@ -24,13 +24,16 @@ But all is not lost.
 ### With Outlook 2007
 
 If you go into your sent items, open up the offending email, and go into Actions | Recall this Message, outlook will attempt to delete the message from the recipient's inbox before he has a chance to read it.
-
-![Actions | Recall this Message](RecallMessage.JPG)(Outlook 2007)**  
+![Recall a message](RecallMessage.JPG)**Figure: Actions | Recall this Message (Outlook 2007)**  
 ### With Outlook 2010
 
 If you go into your sent items, open up the offending email, and go into file | Info | Resend Or Recall | Recall this message, outlook will attempt to delete the message from the recipient's inbox before he has a chance to read it.
 
- 
-![File | Info | Resend Or Recall | Recall This Message](RecallInOutlook2010.jpg)(Outlook 2010)
+ ![RecallInOutlook2010.jpg](RecallInOutlook2010.jpg)
+
+
+
+
+Figure: File | Info | Resend Or Recall | Recall This Message (Outlook 2010)
 
 Outlook will tell you whether it was successful or not

@@ -9,19 +9,17 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- customization---do-you-enable-your-contacts-to-have-more-than-the-default-3-email-addresses-and-phone-numbers
+redirects: []
 
 ---
 
 Out of the box CRM4 only enables a contact to have 3 phone numbers (home, business and mobile) + 3 email addresses (but only one visible). A customization that almost everyone needs is to remove this limitation (to allow contacts to have an unlimited amount of phone numbers and email addresses). 
 <!--endintro-->
-<dl class="badImage">          <dt>
-            <img border="0" src="contact1.jpg" alt="">
-          </dt>
-          <dd>Figure: Bad example - Out of the box a contact can only have 3 phone numbers and
-              1 email address</dd>
-        </dl>
+
+::: bad  
+![Figure: Bad example - Out of the box a contact can only have 3 phone numbers and               1 email address](contact1.jpg)  
+:::  
+
 There are a few customizations needed to get the SSW Contact Makeover:
 
 * Show some hidden fields
@@ -30,37 +28,31 @@ There are a few customizations needed to get the SSW Contact Makeover:
 * Add some entities
 * Add some form java script to hide the core Contact Details? tab when a user is<br>            entering a new contact
 
-<dl class="goodImage">          <dt>
-            <img border="0" src="contact3.jpg" alt="">
-          </dt>
-          <dd>Figure: Good example - Enable the hidden fields and move it to a new tab. And now
-              a Contact has 3 email addresses and phone numbers </dd>
-        </dl><dl class="goodImage">          <dt>
-            <img border="0" src="contact2.jpg" alt="">
-          </dt>
-          <dd>Figure: Good example - After adding an entity, you add a frame show the unlimited
-              contact details (phone, fax, email etc)
-          </dd>
-        </dl>
+
+::: good  
+![Figure: Good example - Enable the hidden fields and move it to a new tab. And now               a Contact has 3 email addresses and phone numbers](contact3.jpg)  
+:::  
+
+::: good  
+![Figure: Good example - After adding an entity, you add a frame show the unlimited               contact details (phone, fax, email etc)](contact2.jpg)  
+:::  
+
 Q: So what is the end result? 
 A: The end user experience to add a phone number is ..
-<dl class="image">          <dt>
-            <img border="0" src="contact4.jpg" alt="">
-          </dt>
-          <dd>Figure:  Step 1: Double-click the contact (or right-click the contact and
-              select Open) Open</dd>
-        </dl><dl class="image">          <dt>
-            <img border="0" src="contact5.jpg" alt="">
-          </dt>
-          <dd>Figure:  Step 2: Select the tab 'More Contact Details' </dd>
-        </dl>
-<dl class="image">          <dt>
-            <img border="0" src="contact6.jpg" alt="">
-          </dt>
-          <dd>Figure:  Step 3: Click the button 'New Contact Detail' </dd>
-        </dl><dl class="image">          <dt>
-            <img border="0" src="contact7.jpg" alt="">
-          </dt>
-          <dd>Figure:  Step 4: Enter the details and click button 'Save and Close' (top
-              left) </dd>
-        </dl>
+
+::: ok  
+![Figure:  Step 1: Double-click the contact (or right-click the contact and               select Open) Open](contact4.jpg)  
+:::  
+
+::: ok  
+![Figure:  Step 2: Select the tab 'More Contact Details'](contact5.jpg)  
+:::  
+
+
+::: ok  
+![Figure:  Step 3: Click the button 'New Contact Detail'](contact6.jpg)  
+:::  
+
+::: ok  
+![Figure:  Step 4: Enter the details and click button 'Save and Close' (top               left)](contact7.jpg)  
+:::

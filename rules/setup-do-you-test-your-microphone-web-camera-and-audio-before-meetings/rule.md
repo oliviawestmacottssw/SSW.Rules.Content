@@ -15,7 +15,6 @@ authors:
 related: []
 redirects:
 - test-your-microphone-camera-and-audio-before-meetings
-- setup---do-you-test-your-microphone-web-camera-and-audio-before-meetings
 
 ---
 
@@ -32,6 +31,7 @@ If your audio, camera or your microphone are not working properly, it’s very l
 We recommend that you do a test on the platform you are using for your meeting (Microsoft Teams, Skype for Business, etc) and follow their procedure to test your microphone and your audio.
 
 A second option is to call a work colleague and ask them if they can hear and see you well. Good tips are to use headphones and to keep your microphone on mute when not speaking.
-<dl class="image"><dt>
-      <img src="test-call.png" alt="test-call.png">
-   </dt><dd>Figure: Call a work colleague to test your presentation on online calls and make sure it works!<br></dd></dl>
+
+::: ok  
+![Figure: Call a work colleague to test your presentation on online calls and make sure it works!](test-call.png)  
+:::

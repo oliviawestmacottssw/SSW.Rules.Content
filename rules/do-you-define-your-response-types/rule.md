@@ -15,29 +15,38 @@ redirects:
 ---
 
 It is important to define your response types.
-<dl class="badImage"><dt><img src="bad-no-response-types.jpg" alt="bad-no-response-types.jpg"></dt>
-dd>Figure: Bad example – no response types</dl><dl class="goodImage"><dt><img src="good-response-types.png" alt="good-response-types.png"></dt><dd>Figure: Good example – Response types (in .NET)</dd></dl>
+
+::: bad  
+![dd&gt;Figure: Bad example – no response types](bad-no-response-types.jpg)  
+:::  
+
+::: good  
+![Figure: Good example – Response types (in .NET)](good-response-types.png)  
+:::  
+
 <!--endintro-->
 
 
 
-/// <summary><br>/// Returns the nth number in the fibonacci sequence.<br>/// </summary>
-/// <param name="n">The index (n) of the fibonacci sequence
-/// <returns>Returns the nth fibonacci number.</returns>
-/// <response code="200">int64</response>
+/// &lt;summary&gt;
+/// Returns the nth number in the fibonacci sequence.
+/// &lt;/summary&gt;
+/// &lt;param name="n"&gt;The index (n) of the fibonacci sequence&lt;/param&gt;
+/// &lt;returns&gt;Returns the nth fibonacci number.&lt;/returns&gt;
+/// &lt;response code="200"&gt;int64&lt;/response&gt;
 [HttpGet]
 [ProducesResponseType(200)]
 [ProducesResponseType(400)]
 [ResponseCache(CacheProfileName = DefaultCacheProfile.Name)]
 [Produces("application/json", "text/json")]
-public ActionResult Get(long n)
+public <mark>ActionResult&lt;long&gt;</mark> Get(long n)
 {
 \_logger.LogInformation($"Fibonacci number {n} requested");
 if(!\_fibonacciSolver.CanSolve(n))
 return new BadRequestResult();
 try
 {
-return \_cache.GetOrAdd($"Fibonacci{n}", () => \_fibonacciSolver.Solve(n));
+return \_cache.GetOrAdd($"Fibonacci{n}", () =&gt; \_fibonacciSolver.Solve(n));
 }
 catch (ArgumentOutOfRangeException)
 {
@@ -56,7 +65,7 @@ Figure: Good example for swashbuckle - Even better if you have .NET Core 2.1 use
 [HttpGet]
         [SwaggerResponse(HttpStatusCode.OK, typeof(long))]
         [SwaggerResponse(HttpStatusCode.BadRequest, typeof(void))]
-        public ActionResult Get(long n)
+        public <mark>ActionResult&lt;long&gt;</mark> Get(long n)
         {
             \_logger.LogInformation($"Fibonacci number {n} requested");
 
@@ -65,7 +74,7 @@ Figure: Good example for swashbuckle - Even better if you have .NET Core 2.1 use
  
             try
             {
-                return \_cache.GetOrAdd($"Fibonacci{n}", () => \_fibonacciSolver.Solve(n));
+                return \_cache.GetOrAdd($"Fibonacci{n}", () =&gt; \_fibonacciSolver.Solve(n));
             }
             catch (ArgumentOutOfRangeException)
             {

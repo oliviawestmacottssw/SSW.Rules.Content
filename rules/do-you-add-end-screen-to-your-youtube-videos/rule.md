@@ -33,7 +33,11 @@ End screens help to avoid viewers to go away by suggesting to them the next cont
 * Another channel
 * A link to an approved website
 
-<dl class="ssw15-rteElement-ImageArea"><img src="end screen.png" alt="end screen.png" style="margin:5px;width:808px;"><br></dl>
+
+::: ok  
+![](end screen.png)  
+:::  
+
  **Figure:** To add an end screen, go to VIDEO MANAGER | Videos | (select your video) | End screens and Annotations | Add element
 
 
@@ -45,12 +49,16 @@ Your end screen shouldn’t overlap actual video content so you should leave up 
 
 
 
-<dl class="ssw15-rteElement-ImageArea"><img src="end screen example.png" alt="end screen example.png" style="margin:5px;width:808px;"><br></dl>
+
+::: ok  
+![](end screen example.png)  
+:::  
+
 
 ::: good
 Good example: An example of an end screen featuring a Subscribe button (the SSW logo) and a playlist (which the video is from).
 :::
 
-<dt><br></dt>
+
+
 You can see a demo at the end of our [LINQPad: Insights from its creator Joseph Albahari (2017 NDC Sydney)](https://www.youtube.com/watch?v=4Hpl4Gq-yNE) video (from 6:39).
-<dl class="ssw15-rteElement-ImageArea"><br><br></dl>

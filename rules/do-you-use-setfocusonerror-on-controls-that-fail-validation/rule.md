@@ -12,6 +12,9 @@ redirects: []
 ---
 
 For Validation Errors, don’t rely on an error messagebox, instead automatically focus on the control.
-<dl class="goodImage"><dt><img src="../../assets/GoodValidation.jpg" alt=""></dt>
-<dd>Figure: Good Example - Balloons also direct the eye</dd></dl>
+
+::: good  
+![Figure: Good Example - Balloons also direct the eye](../../assets/GoodValidation.jpg)  
+:::  
+
 <!--endintro-->

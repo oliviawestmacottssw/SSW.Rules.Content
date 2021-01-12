@@ -27,14 +27,19 @@ When a new developer joins a project, there is often a sea of information that t
 
 
 Make it easy for the new developer by putting all this information in a central location like the Visual Studio dashboard.
-<dl class="image"><dt>
-      <img src="plaindashboard.png" alt="plaindashboard.png" style="width:800px;"> 
-   </dt>  </dl><dl class="badImage"><dt>
-      <img src="2016-06-06_8-00-55.png" alt="2016-06-06_8-00-55.png" style="width:800px;">
-      <br>
-   </dt><dd>Figure: Bad Example - Don't stick with the default dashboard, it's almost useless</dd></dl><dl class="goodImage"><dt> 
-      <img src="2016-06-06_9-15-14.png" alt="2016-06-06_9-15-14.png" style="width:800px;">
-   </dt><dd>Figure: Good Example - This dashboard contains all the information a new team member would need to get started<br></dd></dl> 
+
+::: ok  
+![](plaindashboard.png)  
+:::  
+
+::: bad  
+![Figure: Bad Example - Don't stick with the default dashboard, it's almost useless](2016-06-06\_8-00-55.png)  
+:::  
+
+::: good  
+![Figure: Good Example - This dashboard contains all the information a new team member would need to get started](2016-06-06\_9-15-14.png)  
+:::  
+ 
 
 <!--endintro-->
 
@@ -54,4 +59,7 @@ The dashboard should contain:
 Your solution should also contain the standard [\_Instructions.docx](/Pages/DoYouMakeInstructions.aspx) to your solution file for additional details on getting the project up and running in Visual Studio.
 
 For particularly large and complex projects you can use an induction tool like [SugarLearning](https://www.sugarlearning.com/) to create a course for getting up to speed with the project.
-<dl class="image"><dt><img src="2016-06-06_7-18-43.png" alt="2016-06-06_7-18-43.png" style="width:800px;"><br></dt></dl>
+
+::: ok  
+![](2016-06-06\_7-18-43.png)  
+:::

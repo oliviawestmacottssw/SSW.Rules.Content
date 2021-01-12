@@ -15,19 +15,19 @@ redirects: []
 
 ---
 
-You may know that it is quite easy to sort view by a column through the UI.<dl class="ssw15-rteElement-ImageArea"><img src="SortInView.png" alt="SortInView.png" style="margin:5px;width:650px;"></dl> **Figure: Change view column sort from web UI** 
+You may know that it is quite easy to sort view by a column through the UI.![SortInView.png](SortInView.png) **Figure: Change view column sort from web UI** 
 But when you are trying to do that via code, you may find a pretty tricky issue.
 
 <!--endintro-->
  You can use some code like:
 
-view.Query = "<orderby><fieldref name="\&quot;Modified\&quot;" ascending="\&quot;"></fieldref><strong>FALSE</strong> \" /></orderby>";
+view.Query = "&lt;OrderBy&gt;&lt;FieldRef Name=\"Modified\" Ascending=\" **FALSE** \" /&gt;&lt;/OrderBy&gt;";
  **Figure: Use code to change view sort** 
 but the below code won't work:
 
 
 
-view.Query = "<orderby><fieldref name="\&quot;Modified\&quot;" ascending="\&quot;"></fieldref><strong>False</strong> \" /></orderby>";
+view.Query = "&lt;OrderBy&gt;&lt;FieldRef Name=\"Modified\" Ascending=\" **False** \" /&gt;&lt;/OrderBy&gt;";
 
 
 ::: bad
@@ -40,7 +40,7 @@ The full code should be some code like:
 
 
 SPView view = list.DefaultView;
-view.Query = "<orderby><fieldref name="\&quot;Modified\&quot;" ascending="\&quot;"></fieldref><strong>FALSE</strong> \" /></orderby>";
+view.Query = "&lt;OrderBy&gt;&lt;FieldRef Name=\"Modified\" Ascending=\" **FALSE** \" /&gt;&lt;/OrderBy&gt;";
 view.Update();
 
 

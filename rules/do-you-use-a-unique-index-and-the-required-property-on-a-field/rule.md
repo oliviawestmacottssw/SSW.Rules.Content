@@ -20,5 +20,11 @@ redirects: []
 ---
 
 In SQL Server a field with a unique index cannot contain Null values. 
-<font class="ms-rteCustom-YellowBorderBox"><a href="http&#58;//www.ssw.com.au/ssw/UpsizingPRO">Upsizing PRO</a> will check this rule </font>
+
+
+::: yellowBox
+[Upsizing PRO](http&#58;//www.ssw.com.au/ssw/UpsizingPRO) will check this rule
+:::
+
+
 <!--endintro-->

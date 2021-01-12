@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - add-the-right-apps-when-creating-a-new-team
-- apps---do-you-add-the-right-apps-when-creating-a-new-team
 
 ---
 
@@ -31,4 +30,11 @@ Apps enhance your Teams experience in various ways e.g.:
 
 
 You can also read more about Apps at [Five things to know about apps in Microsoft Teams](https://support.microsoft.com/en-us/office/five-things-to-know-about-apps-in-microsoft-teams-747492ee-7cdd-4115-a993-8c7e7f98a3d0).
-<dl class="image"><dt><img src="teams-apps.png" alt="teams-apps.png" style="width:750px;"></dt><dd>Figure: There are various apps you can add to channels</dd></dl><dl class="image"><dt><img src="teams-analytics-app.png" alt="teams-analytics-app.png" style="width:750px;"></dt><dd>Figure: Apps for Google Analytics and GitHub in a channel</dd></dl>
+
+::: ok  
+![Figure: There are various apps you can add to channels](teams-apps.png)  
+:::  
+
+::: ok  
+![Figure: Apps for Google Analytics and GitHub in a channel](teams-analytics-app.png)  
+:::

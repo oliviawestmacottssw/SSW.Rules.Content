@@ -16,5 +16,4 @@ redirects: []
 Look for inline SQL to see whether you can replace it with Linq to Entities.
 
 <!--endintro-->
-
-![SQL Injection for Speed Cameras :-](speed-camera.jpg))**
+![Speed camera](speed-camera.jpg)**Figure: SQL Injection for Speed Cameras :-)**

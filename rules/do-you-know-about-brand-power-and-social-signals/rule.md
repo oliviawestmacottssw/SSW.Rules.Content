@@ -28,4 +28,4 @@ Always include your social media signals, on your website so that people can eas
 
 
 <!--endintro-->
-<dl class="ssw15-rteElement-ImageArea"><img src="sharing.png" alt="sharing.png" style="margin:5px;"></dl><dl class="ssw15-rteElement-ImageArea"> <strong>Figure: How Social sharing indirectly affects your Google Ranking</strong> <br></dl>
+![sharing.png](sharing.png) **Figure: How Social sharing indirectly affects your Google Ranking**

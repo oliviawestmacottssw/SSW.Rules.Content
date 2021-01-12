@@ -30,9 +30,17 @@ They must be specified in the Acceptance Criteria if required.
 There are 2 parts to getting this right. The Acceptance Criteria, then the Acceptance Tests:
 
 <!--endintro-->
-<dl class="image"><dt> <img src="DevsAndUsers.jpg" alt="DevsAndUsers.jpg"> </dt><dd>Figure: You need a common language to communicate in</dd></dl>
+
+::: ok  
+![Figure: You need a common language to communicate in](DevsAndUsers.jpg)  
+:::  
+
 **Acceptance Criteria** (from the Product Owner) define the exact requirements that must be met for the story to be completed. They answer the question, "How will I know when I' m done with the story?"
-<dl class="image"><dt> <img src="acceptance-criteria.jpg" alt="A User Story with Acceptance Criteria" class="ms-rteCustom-ImageArea"> </dt><dd>Figure: A User Story with Acceptance Criteria (MSF Agile Template)<br></dd></dl>
+
+::: ok  
+![Figure: A User Story with Acceptance Criteria (MSF Agile Template)](acceptance-criteria.jpg)  
+:::  
+
 
 ::: greybox
 When I enter ‘Adam’ in the search box and click 'Search' I will see all entries starting with 'Adam' in the grid.
@@ -65,7 +73,7 @@ Gold Plating – if a large set of results is returned, display pagination with 
 
 :::
 
-<dd></dd> **Figure: Good Example of Acceptance Criteria – Including Gold Plating 
+ **Figure: Good Example of Acceptance Criteria – Including Gold Plating 
 ** 
 For tiny stories, you can omit acceptance criteria. Sometimes you just need a screenshot, or even better a video.
 

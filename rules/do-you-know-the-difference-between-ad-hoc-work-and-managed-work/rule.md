@@ -27,9 +27,11 @@ The ad-hoc work approach should not generally be used for project work where the
 This approach can be useful for problems where time or effort is not immediately known and not possible to estimate with the information at hand. The types of work this may include would be support jobs or investigatory work.
 
 There should be an agreement of the time allowed to be spent ahead of time, even if what is being worked on has no scope.
-<dl class="goodImage"><dt>
-      <img src="work-done-as-needed-when-needed.png" alt="work-done-as-needed-when-needed.png" style="width:750px;">
-   </dt><dd>Good example: Work is done as needed, when needed</dd></dl>
+
+::: good  
+![Good example: Work is done as needed, when needed](work-done-as-needed-when-needed.png)  
+:::  
+
 ### B. Managed Work (using Scrum, the Client is agreeing to an outcome that the consulting company controls)
 
 
@@ -37,10 +39,15 @@ The alternative is to work with a Scrum Master, or a Project Manager, with speci
 
 This method is recommended for any work which is substantial and where the client wants a greater degree of control. 
 In this approach, backlog items are created during the Spec Review process while creating the project estimates, which can be used to create the sprints.
-<dl class="goodImage"><dt>
-      <img src="scope-tasks-spec-review.png" alt="scope-tasks-spec-review.png" style="width:750px;">
-   </dt><dd>Good example: Scope and tasks are arranged ahead of time during the Spec Review process</dd></dl><dl class="goodImage"><dt>
-      <img src="product-backlog-example.png" alt="product-backlog-example.png" style="width:750px;">
-   </dt><dd>Good example: A Product Backlog is created with individual Product Backlog Items sized in effort</dd></dl><dl class="goodImage"><dt>
-      <img src="sprint-example.png" alt="sprint-example.png" style="width:750px;">
-   </dt><dd>Good Example: A sprint is created for the week with the Product Backlog Items ready to be tracked</dd></dl>
+
+::: good  
+![Good example: Scope and tasks are arranged ahead of time during the Spec Review process](scope-tasks-spec-review.png)  
+:::  
+
+::: good  
+![Good example: A Product Backlog is created with individual Product Backlog Items sized in effort](product-backlog-example.png)  
+:::  
+
+::: good  
+![Good Example: A sprint is created for the week with the Product Backlog Items ready to be tracked](sprint-example.png)  
+:::

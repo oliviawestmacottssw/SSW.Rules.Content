@@ -38,8 +38,7 @@ The below example is for a scenario to improve load times for an MVC to Angular 
 Once they are done the developer commits all the changes they made and push it the remote repository. Using this method, the developer loses the history of experimentation and it will be difficult to prove for R&D.
 
 
-
-![](single-commit-not-showing-experimentation-2.png)
+![single-commit-not-showing-experimentation-2.png](single-commit-not-showing-experimentation-2.png)
 
 
 
@@ -53,8 +52,7 @@ Bad Example: Only the final solution is committed. Experimentation history is no
 
 In this example for the same scenario the developer makes sure to commit every separate attempt to reduce load times for their web application. This way, everybody knows what kinds of experimentation was done to solve this problem.
 
-
-![](commit-failed-experiments.png)
+![commit-failed-experiments.png](commit-failed-experiments.png)
 
 
 

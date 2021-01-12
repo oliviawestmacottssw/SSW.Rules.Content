@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - use-async-await-for-all-io-bound-operations
-- do-you-use-asyncawait-for-all-io-bound-operations
 
 ---
 

@@ -11,14 +11,12 @@ authors:
 related: []
 redirects:
 - do-you-use-javascript-alert
-- popup---do-you-know-javascript-alerts-are-evil
 
 ---
 
 JavaScript alerts are evil. Not only are they ugly, they look unprofessional...
 
 <!--endintro-->
-
 
 
 
@@ -32,15 +30,13 @@ Bad example: A JavaScript alert showing a message to the user
 
 
 
-
-![](JSAlert_Code.png)
+![JSAlert_Code.png](JSAlert_Code.png)
 
 
 ::: bad
 Bad example: The alert(".....") is the evil code
 
 :::
-
 
 
 
@@ -55,8 +51,7 @@ Good example: The message in green is rendered as Html
 
 
 
-
-![](JS_Alert_2.png)
+![JS_Alert_2.png](JS_Alert_2.png)
 
 
 ::: good

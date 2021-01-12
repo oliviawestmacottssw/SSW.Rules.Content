@@ -22,4 +22,4 @@ Using text rather than images has multiple advantages:
 
 
 <!--endintro-->
-<dl class="badCode"><dt>&lt;<span style="white-space&#58;nowrap;">img</span>&#160;<span style="white-space&#58;nowrap;">src</span>=&quot;Images/Heading_Welcome.gif&quot;&gt;</dt><dd>Figure&#58; Bad Example - using image for text header</dd></dl><dl class="goodCode"><dt>&lt;h1&gt;Welcome to My Page&lt;/h1&gt;</dt><dd>Figure&#58; Good Example - this text can be easily rendered  by the browser and recognized by search engine</dd></dl>
+ &lt;="Images/Heading\_Welcome.gif"&gt;src imgFigure: Bad Example - using image for text header&lt;h1&gt;Welcome to My Page&lt;/h1&gt;Figure: Good Example - this text can be easily rendered  by the browser and recognized by search engine

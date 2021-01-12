@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - when-you-use-@-mentions-in-a-pbi
-- do-you-know-when-you-use--mentions-in-a-pbi
 - do-you-know-when-you-use-@-mentions-in-a-pbi
 
 ---
@@ -23,10 +22,13 @@ When the Product Owner verbally requests a change to a PBI, how do you update th
 <!--endintro-->
 
 You could send yourself a "[To Myself](/dones-do-you-send-yourself-emails)" email and update the PBI description accordingly, but only those people included in the email chain are aware of the conversation.
-<dl class="badImage"><dt> 
-      <img src="bad-mention-pbi.jpg" alt="bad-mention-pbi.jpg"> 
-   </dt><dd>Figure: Bad Example – don't use emails to update tasks</dd></dl>
-Instead, what you should do is use the discussions feature in the PBI and mention the user using "@<username>". <br>The benefits of using comments are:<br> </username>
+
+::: bad  
+![Figure: Bad Example – don't use emails to update tasks](bad-mention-pbi.jpg)  
+:::  
+
+Instead, what you should do is use the discussions feature in the PBI and mention the user using "@&lt;username&gt;". 
+The benefits of using comments are:
 
 * Quick and easy, no need to compose an email
 * History is visible to anyone looking at the PBI (with email, if you don’t cc them, they wouldn’t have a clue)
@@ -59,14 +61,22 @@ Good example: "I have found the PBI, prioritized it near the top, and @mentioned
 
 ### Azure DevOps PBIs
 
-<dl class="goodImage"><dt> 
-      <img src="good-mention-pbi.jpg" alt="good-mention-pbi.jpg" style="width:750px;height:617px;"> 
-   </dt><dd>Figure: Good Example – Using @ mentions in Azure DevOps discussion</dd></dl><dl class="goodImage"><dt> 
-      <img src="good-mention-pbi-2.jpg" alt="good-mention-pbi-2.jpg"> 
-   </dt><dd>Figure: Good Example – Email still gets sent to the users who are mentioned in the discussion, so they can still chime in if any details are incorrect<br></dd></dl>
+
+::: good  
+![Figure: Good Example – Using @ mentions in Azure DevOps discussion](good-mention-pbi.jpg)  
+:::  
+
+::: good  
+![Figure: Good Example – Email still gets sent to the users who are mentioned in the discussion, so they can still chime in if any details are incorrect](good-mention-pbi-2.jpg)  
+:::  
+
 ### GitHub Issues
 
-<dl class="goodImage"><dt><img src="MicrosoftTeams-image.png" alt="MicrosoftTeams-image.png" style="width:750px;"></dt><dd><span style="background-color:transparent;">Figure: Good Example – Using @ mentions in GitHub</span><br></dd></dl>
+
+::: good  
+![Figure: Good Example – Using @ mentions in GitHub](MicrosoftTeams-image.png)  
+:::  
+
 
 ::: greybox
  **Tip:** You can @mention on your pull requests as well.

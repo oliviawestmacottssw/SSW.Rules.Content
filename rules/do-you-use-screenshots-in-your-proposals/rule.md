@@ -17,4 +17,7 @@ redirects:
 A Picture tells a thousand words. Using screen shots can sell your designs and add confidence to your proposals by giving visual examples of similar projects you have done.
 
 <!--endintro-->
-<dl class="image"><dt><img src="Proposals_Screeshot.jpg" alt="Proposals_Screeshot.jpg"></dt><dd>Figure: Add a screenshot of a related project<br></dd></dl>
+
+::: ok  
+![Figure: Add a screenshot of a related project](Proposals\_Screeshot.jpg)  
+:::

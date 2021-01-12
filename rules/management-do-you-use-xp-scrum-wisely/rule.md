@@ -11,8 +11,7 @@ authors:
 - title: Eric Phan
   url: https://ssw.com.au/people/eric-phan
 related: []
-redirects:
-- management---do-you-use-xpscrum-wisely
+redirects: []
 
 ---
 
@@ -21,7 +20,7 @@ Scrum is a big concept which we try to use here. I don't adhere to every idea, b
 <!--endintro-->
 
 
-| ![ You need to check up on your developers every 2 weeks. Then you'll never be fooled!](ab9491_Anthrax.gif)!**  |
+| ![Figure: You need to check up on your developers every 2 weeks. Then you'll never be fooled!](ab9491_Anthrax.gif)**Figure: You need to check up on your developers every 2 weeks. Then you'll never be fooled!**  |
 | --- |
 
 

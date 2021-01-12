@@ -45,14 +45,20 @@ E.g. PublishingContent,PublishingHTML;
 The Content Query web part gives the user a lot of flexibility to design the query in the UI toolpart.  However if your needs are perculiar you can use the QueryOverride to skip over defining the query and use your supplied CAML directly.
 
 
-<dl class="badCode">    <dt>
-    <pre>[Guid(&quot;5bbdb385-5076-4a4b-85e8-691664b7f575&quot;)] public class WebPart1 &#58; System.Web.UI.WebControls.WebParts.WebPart<br>&#123;<br>    public WebPart1() &#123; &#125;<br>    protected override void CreateChildControls()<br>    &#123;<br>        base.CreateChildControls();<br>        // TODO&#58; add custom rendering code here.<br>        Label label = new Label();<br>        label.Text = &quot;Hello World&quot;;<br>        this.Controls.Add(label);<br>    &#125;<br>&#125;</pre>
-    </dt>
-    <dd>Bad Example&#58; Inherit from System.Web.UI.WebControls.WebParts.WebPart</dd></dl>
+
+
+```
+[Guid("5bbdb385-5076-4a4b-85e8-691664b7f575")] public class WebPart1 : System.Web.UI.WebControls.WebParts.WebPart<br>{<br>    public WebPart1() { }<br>    protected override void CreateChildControls()<br>    {<br>        base.CreateChildControls();<br>        // TODO: add custom rendering code here.<br>        Label label = new Label();<br>        label.Text = "Hello World";<br>        this.Controls.Add(label);<br>    }<br>}
+```
+
+Bad Example: Inherit from System.Web.UI.WebControls.WebParts.WebPart 
 
 
 
-<dl class="goodCode">    <dt>
-    <pre>public class RelatedContentByQueryWebPart&#58;CustomContentByQueryWebPart<br>&#123;<br>    public string RulesKeyWords //get the column name from SharePoint<br>    &#123;<br>        get;<br>        set;<br>    &#125;<br>    protected override void OverrideQuery()<br>    &#123;<br>        StringBuilder query = new StringBuilder();<br>        SPListItem item = SPContext.Current.ListItem;<br>        string[] rulesKeyWords = &#123;&#125;;<br>        if (item != null)<br>        &#123;<br>            ......<br>        &#125;<br>        this.QueryOverride = query.ToString(); // pass the query<br>    &#125;<br>&#125;</pre>
-    </dt>
-    <dd>Good Example&#58; Inherit from CustomContentByQueryWebPart</dd></dl>
+
+
+```
+public class RelatedContentByQueryWebPart:CustomContentByQueryWebPart<br>{<br>    public string RulesKeyWords //get the column name from SharePoint<br>    {<br>        get;<br>        set;<br>    }<br>    protected override void OverrideQuery()<br>    {<br>        StringBuilder query = new StringBuilder();<br>        SPListItem item = SPContext.Current.ListItem;<br>        string[] rulesKeyWords = {};<br>        if (item != null)<br>        {<br>            ......<br>        }<br>        this.QueryOverride = query.ToString(); // pass the query<br>    }<br>}
+```
+
+Good Example: Inherit from CustomContentByQueryWebPart

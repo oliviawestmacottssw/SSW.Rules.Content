@@ -31,7 +31,7 @@ index:
 - do-you-avoid-having-important-content-in-javascript
 - do-you-submit-all-your-software-to-download-sites
 - do-you-keep-your-webpages-less-than-101kb
-- do-you-use-your-robotstxt-file-effectively
+- do-you-use-your-robots-txt-file-effectively
 - do-you-keep-your-files-under-the-google-file-size-limit
 - do-you-register-your-domain-for-a-long-time
 - spelling-do-you-use-us-english
@@ -42,7 +42,7 @@ index:
 - do-you-know-that-you-should-use-subdirectories-not-domains
 
 ---
-![](googlelogo_color_272x92dp.png)Google is, by a country mile, the most popular search engine in the world. It's popular because it seems to rank pages so accurately and quickly, time and time again. The secret to its success is its top secret Page Rank Algorithm. Google developed its page ranking system in an effort to increase the quality of search results and has left all of its competitors for dead. As a result, search engine optimization (SEO) gurus are always looking to find new ways to increase their Google rankings. As we all know, a website is a pretty nifty thing to have for a myriad of different reasons. But the truth is that its worth is derived from the people that surf it, and if no one is surfing it, then it becomes useless. So who's the biggest website referrer? The answer is Google in almost every case. 
+![googlelogo_color_272x92dp.png](googlelogo_color_272x92dp.png)Google is, by a country mile, the most popular search engine in the world. It's popular because it seems to rank pages so accurately and quickly, time and time again. The secret to its success is its top secret Page Rank Algorithm. Google developed its page ranking system in an effort to increase the quality of search results and has left all of its competitors for dead. As a result, search engine optimization (SEO) gurus are always looking to find new ways to increase their Google rankings. As we all know, a website is a pretty nifty thing to have for a myriad of different reasons. But the truth is that its worth is derived from the people that surf it, and if no one is surfing it, then it becomes useless. So who's the biggest website referrer? The answer is Google in almost every case. 
 
 
 

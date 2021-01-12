@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - avoid-invalid-characters-in-object-identifiers
-- data---do-you-avoid-invalid-characters-in-object-identifiers
 
 ---
 

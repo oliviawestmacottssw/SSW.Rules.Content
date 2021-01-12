@@ -33,7 +33,6 @@ As a general rule, we wait 4 weeks before installing a new Service Pack, and tel
 
 
 
-
 ![](holdyourhorses.jpg)
 
 

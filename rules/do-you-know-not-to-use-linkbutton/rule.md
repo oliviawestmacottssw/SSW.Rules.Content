@@ -17,16 +17,37 @@ redirects:
 If we want to refresh and data bind the same page from client side, we can use the javascript function calls "\_\_doPostBack". We shouldn't fire this post back in LinkButton. Otherwise, there will be an error.
 
 <!--endintro-->
-<dl class="image"><dt><img src="RightClickLink.gif" alt="RightClickLink.gif"></dt><dd>Figure: Right click the link with __doPostBack event  
-</dd></dl><dl class="image"><dt><img src="PostBack.gif" alt="PostBack.gif"></dt><dd>Figure: New window with incorrect URL</dd></dl>
+
+::: ok  
+![Figure: Right click the link with \_\_doPostBack event](RightClickLink.gif)  
+:::  
+
+::: ok  
+![Figure: New window with incorrect URL](PostBack.gif)  
+:::  
+
 ASPX:
-<asp:panel runat="server" id="mUpdatePanel" onload="mUpdatePanel_Load"><br> <asp:label runat="server" id="lblTime"></asp:label><br> <br><br> <asp:gridview id="gvList" runat="server" autogeneratecolumns="false"><br> <columns><br> <asp:boundfield datafield="ID" headertext="ID"></asp:boundfield><br> </columns><br> <columns><br> <asp:boundfield datafield="Name" headertext="Name"></asp:boundfield><br> </columns><br> </asp:gridview><br> <br><br> ID:<asp:textbox id="txtID" runat="server"></asp:textbox><br> Name:<asp:textbox id="txtName" runat="server"></asp:textbox><br></asp:panel>
+&lt;asp:Panel runat="server" ID="mUpdatePanel" OnLoad="mUpdatePanel\_Load"&gt;
+ &lt;asp:Label runat="server" ID="lblTime" /&gt;
+ &lt;br /&gt;
+ &lt;asp:GridView ID="gvList" runat="server" AutoGenerateColumns="false"&gt;
+ &lt;Columns&gt;
+ &lt;asp:BoundField DataField="ID" HeaderText="ID" /&gt;
+ &lt;/Columns&gt;
+ &lt;Columns&gt;
+ &lt;asp:BoundField DataField="Name" HeaderText="Name" /&gt;
+ &lt;/Columns&gt;
+ &lt;/asp:GridView&gt;
+ &lt;br /&gt;
+ ID:&lt;asp:TextBox ID="txtID" runat="server"/&gt;
+ Name:&lt;asp:TextBox ID="txtName" runat="server"/&gt;
+&lt;/asp:Panel&gt;
 C#:
 protected void mUpdatePanel\_Load(object sender, EventArgs e)
 {
  lblTime.Text = DateTime.Now.ToLongTimeString();
  ArrayList mList = (ArrayList)ViewState["List"];
- if (txtName.Text.Length > 0)
+ if (txtName.Text.Length &gt; 0)
  {
  Client mClient = new Client();
  mClient.ID = Int32.Parse(txtID.Text);
@@ -38,7 +59,7 @@ protected void mUpdatePanel\_Load(object sender, EventArgs e)
  }
 }
  **Sample Code** 
-[Refresh](javascript:__doPostBack%28'mUpdatePanel',''%29;)
+&lt;a href="javascript:\_\_doPostBack('mUpdatePanel','');"&gt;Refresh&lt;/a&gt;
 
 
 ::: bad
@@ -46,7 +67,7 @@ Bad Code
 :::
 
 
-<input type="button" onclick="javascript:__doPostBack('mUpdatePanel','');" value="Refresh">
+&lt;input type="button" onclick="javascript:\_\_doPostBack('mUpdatePanel','');" value="Refresh" /&gt;
 
 
 ::: good

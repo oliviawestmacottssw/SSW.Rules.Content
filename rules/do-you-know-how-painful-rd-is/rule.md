@@ -21,7 +21,7 @@ redirects: []
 
 ---
 
-![](female researcher inspecting tube.jpg)
+![female researcher inspecting tube.jpg](female researcher inspecting tube.jpg)
 When a visit comes from an R&D auditor, they will want to check on what work you have ‘experimented’ with.
 
 An experiment, in R&D terms, translates to an iterative series of changes over the same piece of code.

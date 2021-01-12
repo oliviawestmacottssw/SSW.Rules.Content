@@ -20,15 +20,25 @@ redirects:
 If you find a     mistake or typo you should look and see who is the culprit before fixing it. This way you can inform the person what was done.
 
 Here is how you see the      **history** of the page:
-<dl class="image"><dt>
-      <img src="Screen Shot 2018-09-28 at 3.34.38 PM-min.png" alt="Screen Shot 2018-09-28 at 3.34.38 PM-min.png">
-   </dt><dd>Figure: Click on Page | Page History</dd></dl><dl class="image"><dt>
-      <img src="sharepoint-page-history.png" alt="sharepoint-page-history.png"></dt><dd>Figure: See the changes made, versions and the person who changed it<br></dd></dl>
+
+::: ok  
+![Figure: Click on Page | Page History](Screen Shot 2018-09-28 at 3.34.38 PM-min.png)  
+:::  
+
+::: ok  
+![Figure: See the changes made, versions and the person who changed it](sharepoint-page-history.png)  
+:::  
+
 Here is how you see the  **history** on Office 365 - SharePoint Online:
-<dl class="image"><dt>
-      <img src="Snipaste_2018-10-08_13-21-05.jpg" alt="Snipaste_2018-10-08_13-21-05.jpg" style="margin:5px;width:808px;">
-   </dt><dd>Figure: Click on Show actions | Version History<br></dd></dl><dl class="image"><dt>    
-      <img src="Snipaste_2018-10-08_13-22-46.jpg" alt="" style="margin:5px;width:808px;"><br></dt><dd>Figure: Version History listed<br></dd></dl>
+
+::: ok  
+![Figure: Click on Show actions | Version History](Snipaste\_2018-10-08\_13-21-05.jpg)  
+:::  
+
+::: ok  
+![Figure: Version History listed](Snipaste\_2018-10-08\_13-22-46.jpg)  
+:::  
+
 <!--endintro-->
 
 Watch the video which explains how to view the version history for a page in SharePoint 2013 (Same as in SharePoint 2016). This allows you to see changes that were made to the page, as long as versioning is enabled in advance.

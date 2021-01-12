@@ -11,12 +11,19 @@ authors:
 - title: Cameron Shaw
   url: https://ssw.com.au/people/cameron-shaw
 related: []
-redirects:
-- do-you-add-contextreasoning-to-your-emails
+redirects: []
 
 ---
 
 When sending an email it is very important to give context and reasoning. This way anyone can understand what was done at any time in the future. Never assume that the other person will get it anyway, and always try to give details and make yourself as clear as possible. 
 
 <!--endintro-->
-<dl class="badImage"><dt><img src="BadContextReasoning.GIF" alt="Bad - no context or reasoning"></dt><dd>Figure: Bad Example - There is no context or reasoning</dd></dl><dl class="goodImage"><dt><img src="GoodContextReasoning.jpg" alt="Good - there is context and reasoning"></dt><dd>Figure: Good Example - There is both context and reasoning</dd></dl> **VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)
+
+::: bad  
+![Figure: Bad Example - There is no context or reasoning](BadContextReasoning.GIF)  
+:::  
+
+::: good  
+![Figure: Good Example - There is both context and reasoning](GoodContextReasoning.jpg)  
+:::  
+ **VIDEO** - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)

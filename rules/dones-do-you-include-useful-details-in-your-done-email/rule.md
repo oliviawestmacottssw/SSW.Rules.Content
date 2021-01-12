@@ -15,8 +15,7 @@ authors:
 - title: Justin King
   url: https://ssw.com.au/people/justin-king
 related: []
-redirects:
-- dones---do-you-include-useful-details-in-your-done-email
+redirects: []
 
 ---
 
@@ -42,15 +41,34 @@ This has several benefits:
 
 
 Let's look at some examples and tips:
-<dl class="badImage"><dt> <img src="NotifyCodeChangesBad.gif" alt="" style="width:620px;"> </dt><dd>Figure: Bad example - the client cannot see any detail of what was done </dd></dl><dl class="goodImage"><dt> <img src="NotifyCodeChanges.gif" border="0" alt="" style="width:592px;"> </dt><dd>Figure: Good example - the client can see the image + the code changes highlighted in yellow </dd></dl>
+
+::: bad  
+![Figure: Bad example - the client cannot see any detail of what was done](NotifyCodeChangesBad.gif)  
+:::  
+
+::: good  
+![Figure: Good example - the client can see the image + the code changes highlighted in yellow](NotifyCodeChanges.gif)  
+:::  
+
 **Tip #1: Include the URL
 ** If you are using TFS, you can also include a URL to the work item in TSWA
 
  **Tip #2: Include a .diff file
 ** You can include the code as an attached text file.
-<dl class="goodImage"><dt> <img src="NotePad2DiffFiles.gif" alt=""> </dt><dd>Figure: Good example - this is a Text file with a .diff extension that includes the code change from TFS. If opened using NotePad2, the client can view the code changes with green and red color (added and deleted code). </dd></dl>
+
+::: good  
+![Figure: Good example - this is a Text file with a .diff extension that includes the code change from TFS. If opened using NotePad2, the client can view the code changes with green and red color (added and deleted code).](NotePad2DiffFiles.gif)  
+:::  
+
 **Tip 3#: Do you have force a link between the code and the requirement?**
 
 For those developers lucky enough to be using Microsoft Team Foundation Server (TFS 2005, 2008 or 2010) you can associate your code changes with a work item. This means that future developers can work out not just \*what\* changed, but \*why\*. 
 For those using TFS, enable the Checkin policy and force all developers to associate every check-in with a work item.
-<dl class="image"><dt> <img alt=" " src="SourceControl_AssociateWorkItems1.gif">  <strong></strong> </dt><dd>Figure: Make developers associate all check-ins to a work items </dd></dl> <dl class="image"> <dt> <img src="SourceControl_AssociateWorkItems2.gif" alt="" style="width:563px;">  <strong></strong> </dt><dd>Figure: Enabling the Checkin Policy (via Project | Team Project Settings | Source Control | Add) </dd></dl>
+
+::: ok  
+![Figure: Make developers associate all check-ins to a work items](SourceControl\_AssociateWorkItems1.gif)  
+:::  
+ 
+::: ok  
+![Figure: Enabling the Checkin Policy (via Project | Team Project Settings | Source Control | Add)](SourceControl\_AssociateWorkItems2.gif)  
+:::

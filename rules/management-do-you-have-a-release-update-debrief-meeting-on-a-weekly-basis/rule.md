@@ -11,7 +11,6 @@ authors:
 related: []
 redirects:
 - management-do-you-have-a-＂release-update-debrief-meeting＂-on-a-weekly-basis
-- management---do-you-have-a-release-updatedebrief-meeting-on-a-weekly-basis
 
 ---
 
@@ -43,7 +42,11 @@ There are tools to help you do this:
 
 * [SSW TFS Add-in - Release Update/Debrief Report](http://www.ssw.com.au/ssw/AgileTemplate/UserGuide.aspx#ReleaseUpdate)
 
-<dl class="image"> <dt><img src="ProgressReport_small.jpg" border="0" alt="" style="border-width:0px;border-style:solid;"> </dt> <dd>Figure: The actual output of the Release Update Report </dd> </dl>
+
+::: ok  
+![Figure: The actual output of the Release Update Report](ProgressReport\_small.jpg)  
+:::  
+
 Here is a PDF format [SSW Release Update Report.](http://www.ssw.com.au/ssw/AgileTemplate/Sample/Reports.zip)
 
 **If you are at the end of a main section of work, promote your success**

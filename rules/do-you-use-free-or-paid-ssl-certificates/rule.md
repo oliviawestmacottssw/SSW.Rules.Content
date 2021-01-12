@@ -31,8 +31,7 @@ Free certificates can be obtained from Certificate Authorities like Let's Encryp
 
 
 
-
-![](letsenc.png) 
+![letsenc.png](letsenc.png) 
 
 
 ::: good
@@ -55,8 +54,7 @@ If you are operating a big business, paid certificates give you some more assura
 3. Paid certificates offer support for any errors or problems you have with your certificates.
 
 
-
-![](comodo.png)
+![comodo.png](comodo.png)
 
 ::: good
 Good Example: Comodo Paid Certificate Authority

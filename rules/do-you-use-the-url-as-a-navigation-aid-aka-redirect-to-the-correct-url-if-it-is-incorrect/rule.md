@@ -16,25 +16,36 @@ redirects:
 
 ---
 
-<dl class="image"><br>`youtube: http&#58;//www.youtube.com/embed/1j3m4A9Tlhc`<br> 
-<dd>Figure&#58; Watch the URL working as a navigation aid</dd></dl>
+Figure: Watch the URL working as a navigation aid
+`youtube: http://www.youtube.com/embed/1j3m4A9Tlhc`
 MVC gives us great URLs, but you need to help users navigate via the URL.  If the user changes a URL, and the route parameters no longer match, you should correct them with a redirect.
 
 <!--endintro-->
-<dl class="image"><dt><br><br>::: greybox<br><pre>public ActionResult Edit(string employeename, int id)
-&#123;
+
+
+
+:::
+
+
+```
+public ActionResult Edit(string employeename, int id)
+{
     var model = _repository.GetEmployee(id);
 
     // check for a parameter match and redirect if incorrect
     if (string.IsNullOrEmpty(employeename) || employeename != model.EmployeeName)
-    &#123;
+    {
         return RedirectToAction(
-            &quot;Edit&quot;, new &#123; employeename = model.EmployeeName, id &#125;);
-    &#125;
+            "Edit", new { employeename = model.EmployeeName, id });
+    }
 
     return View(model);
-&#125;
-</pre><br>:::<br><br></dt><dd><span class="ssw-rteStyle-FigureGood">Figure&#58; Good example - the comment says it all</span></dd></dl>  Wordpress and Stack Overflow have URL formats that do this very well:
+}
+```
+
+
+::: greybox
+Figure: Good example - the comment says it all  Wordpress and Stack Overflow have URL formats that do this very well:
 
 
 

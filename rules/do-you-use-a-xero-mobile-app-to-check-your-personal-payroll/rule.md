@@ -28,21 +28,20 @@ Xero has released a mobile app version of Xero Payroll called "Xero Me" which ha
 
 
 
-
-![Xero Me app available on iOS and Android](578347254_1280x720.jpg)
+![578347254_1280x720.jpg](578347254_1280x720.jpg)
+ **Figure: Xero Me app available on iOS and Android
 ** 
 
 
 As such, the app makes for a great handy tool for employees to check their information, submit timesheets and request leave on the go. 
 
 
-
-![Xero Me homepage - complete timesheets, request leave and check payslips on the go](abc.png)
+![abc.png](abc.png)
+ **Figure: Xero Me homepage - complete timesheets, request leave and check payslips on the go** 
 
 
 
 Requesting leave is simple with the app and can be approved just as quickly by the relevant approver with all systems updated simultaneously. 
-
 
 
 
@@ -59,16 +58,14 @@ Requesting leave is simple with the app and can be approved just as quickly by t
 Simply click the plus symbol to add a new leave request and put in the basic information (type of leave, approver, days or hours taken and description). The approver will then get a notification and can easily approve or reject the request.
 
 
-  **
-![MicrosoftTeams-image (11).png](MicrosoftTeams-image (11).png)
+  **![MicrosoftTeams-image (11).png](MicrosoftTeams-image (11).png)
 ** **Figure: Leave request page** 
 
 
  **
 ** 
 
- **
-![MicrosoftTeams-image (12).png](MicrosoftTeams-image (12).png)
+ **![MicrosoftTeams-image (12).png](MicrosoftTeams-image (12).png)
 ** 
 
  **Figure: Approver's leave request page** 

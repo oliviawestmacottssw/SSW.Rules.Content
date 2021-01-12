@@ -21,7 +21,6 @@ This will enable you to quickly find out which version of the package your Share
 
 <!--endintro-->
 
-
 ![](SP_version_small.jpg)
 
 

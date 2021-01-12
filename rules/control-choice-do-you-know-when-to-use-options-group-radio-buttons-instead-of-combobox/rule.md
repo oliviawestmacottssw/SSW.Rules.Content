@@ -7,8 +7,7 @@ uri: control-choice-do-you-know-when-to-use-options-group-radio-buttons-instead-
 created: 2012-11-27T09:01:24.0000000Z
 authors: []
 related: []
-redirects:
-- control-choice---do-you-know-when-to-use-options-group-radio-buttons-instead-of-combobox
+redirects: []
 
 ---
 
@@ -23,6 +22,11 @@ For a ComboBox, user needs 2 clicks to change the value
 
 
 For an options group, user can see all the available options without clicking, and select the option with just a click.
-<dl class="badImage"><dt><img alt="ComboBox is used for " src="../../assets/NotUsingRadioButtons.gif"></dt>
-<dd>Figure: Bad Example - ComboBox is used for "Job Type" where it contains only 2 options</dd></dl><dl class="goodImage"><dt><img alt="Radio Buttons are used and aligned vertically." src="../../assets/UsingRadioButtons.gif" width="544" height="362"></dt>
-<dd>Figure: Good Example - Radio Buttons are used and aligned vertically</dd></dl>
+
+::: bad  
+![Figure: Bad Example - ComboBox is used for "Job Type" where it contains only 2 options](../../assets/NotUsingRadioButtons.gif)  
+:::  
+
+::: good  
+![Figure: Good Example - Radio Buttons are used and aligned vertically](../../assets/UsingRadioButtons.gif)  
+:::

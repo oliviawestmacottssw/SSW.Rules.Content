@@ -20,53 +20,59 @@ Did you know if you are using DataSets throughout your application (not data rea
 Some say it is better to be explicit. However the bottom line is less code is less bugs.
 
 <!--endintro-->
-<dl class="badCode">    <dt style="width&#58;97.43%;height&#58;509px;">
-    <pre>  try
+
+
+```
+try
 <br>
-  &#123;
+  {
 <br> 
      cnn.Open();
 <br>
      adapter.Fill(dataset);
 <br>
-  &#125;
+  }
 <br>
   catch (SQLException ex)
 <br>
-  &#123;
+  {
 <br>
      MessageBox.Show(ex.Message);
 <br>
-  &#125;
+  }
 <br>
   finally
 <br>
-  &#123;
+  {
 <br>
      //I'm in the finally block so that I always get called even if the fill fails.
 <br>
      cnn.Close();
 <br>
-  &#125;</pre>
-    </dt>
-    <dd>Bad code - The connection code is not needed</dd></dl><dl class="goodCode">    <dt>
-    <pre>  try
+  }
+```
+
+Bad code - The connection code is not needed 
+
+```
+try
 <br>
-  &#123;
+  {
 <br>
      adapter.Fill(dataset);
 <br> 
-  &#125;
+  }
 <br>
   catch (SQLException ex)
 <br>
-  &#123;
+  {
 <br>
      MessageBox.Show(ex.Message);
 <br>
-  &#125;</pre>
-    </dt>
-    <dd>Good code - letting the adapter worry about the connection.</dd></dl> Note: A common comment for this rule is...
+  }
+```
+
+Good code - letting the adapter worry about the connection. Note: A common comment for this rule is...
  "Please tell users to explicitly open and close connection - even when the .NET Framework can do for them" 
 The developers who prefer the first (more explicit) code example give the following reasons:
 

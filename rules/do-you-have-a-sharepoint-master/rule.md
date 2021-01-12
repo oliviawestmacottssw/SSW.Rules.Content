@@ -24,8 +24,7 @@ The SharePoint master should be your companies SharePoint expert. All major chan
 * Migrations
 
 
-
 ![](../../assets/JohnLiu.jpg)
-<font class="ms-rteCustom-FigureNormal">Figure: Do you have a SharePoint master</font>
+**Figure: Do you have a SharePoint master**
 
 <!--endintro-->

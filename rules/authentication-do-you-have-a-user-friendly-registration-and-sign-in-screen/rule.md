@@ -9,17 +9,18 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- authentication---do-you-have-a-user-friendly-registration-and-sign-in-screen
+redirects: []
 
 ---
 
 For a web site that expects a lot of first-time visitors, it is wise to put the                     user registration form on the same page as the sign in dialog. This saves having the                     user click on another link to enter their details.
 
 <!--endintro-->
-<dl class="badImage"><dt> 
-      <img src="BadloginDialog.gif" alt="Bad sign in Dialog">
-   </dt><dd> Figure: Bad example - non-friendly sign in screen</dd></dl>
+
+::: bad  
+![Figure: Bad example - non-friendly sign in screen](BadloginDialog.gif)  
+:::  
+
 The image is a bad example of a dialog box because:
 
 * You can easily enter the correct data and click the wrong hyperlink (i.e. Join or sign in)
@@ -27,11 +28,15 @@ The image is a bad example of a dialog box because:
 * The "Forgot my Password" link is ambiguous - Does it take me to a new page or do I have to enter the email address field first?
 * A button, not a link, should be used for submitting data, as links don't allow the user to hit "enter"
 
-<dl class="goodImage"><dt> 
-      <img src="GoodloginScreen.gif" alt="Good sign in Screen 1">
-   </dt><dd> Figure: Good example - friendly sign in screen for many new visitors</dd></dl>
+
+::: good  
+![Figure: Good example - friendly sign in screen for many new visitors](GoodloginScreen.gif)  
+:::  
+
 For a web site that expects few first-time visitors, this is a good sign in screen, as it is clean and concise:
-<dl class="goodImage"><dt>
-                        <img src="GoodloginScreen-few.gif" alt="Good sign in Screen 2"></dt><dd>
-                        Figure: Good example - friendly sign in screen for few new visitors</dd></dl>
+
+::: good  
+![Figure: Good example - friendly sign in screen for few new visitors](GoodloginScreen-few.gif)  
+:::  
+
 **Note:** Generally, the action buttons should be aligned to the right.

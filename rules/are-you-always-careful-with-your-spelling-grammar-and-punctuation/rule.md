@@ -24,24 +24,43 @@ Improper spelling, grammar, and punctuation gives a bad impression of your compa
 
 
 When on a web page, [install Grammarly Addon for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) so you can automatically check web content. For example, while editing in a CMS.
-<dl class="image"><dt> <img src="grammarly-plugin.png" alt="grammarly.png"> </dt><dd>Figure: A typo caught by Grammarly plugin <br></dd></dl>
+
+::: ok  
+![Figure: A typo caught by Grammarly plugin](grammarly-plugin.png)  
+:::  
+
 ### Documents
 
 
-When on Word, press  **F7** (or on the ribbon go to  **Review > Spelling & Grammar** ) to check your .docx text.
-<dl class="image"><dt> <img src="Microsoft-Word-has-a-spelling-and-grammar-checker.jpg" alt="Use Microsoft Word's spelling and grammar checker to confirm your content is correct"> </dt><dd>Figure: Click on "Spelling & Grammar" button to check your web content</dd></dl>
+When on Word, press  **F7** (or on the ribbon go to  **Review &gt; Spelling & Grammar** ) to check your .docx text.
+
+::: ok  
+![Figure: Click on "Spelling & Grammar" button to check your web content](Microsoft-Word-has-a-spelling-and-grammar-checker.jpg)  
+:::  
+
 ### Presentation
 
 When on PowerPoint , press  **F7** (or on the ribbon go to  **Review | Spelling & Grammar** ) to check your .pptx text.
-<dl class="image"><dt> <img src="ppt-review-f7.png" alt="ppt-review-f7.png"> </dt><dd>Figure: Click on "Spelling" button to check your web content</dd></dl>
+
+::: ok  
+![Figure: Click on "Spelling" button to check your web content](ppt-review-f7.png)  
+:::  
+
 You should also keep "Check grammar with spelling" checked in your PowerPoint  **Options | Proofing** :
-<dl class="image"><dt> <img src="ppt-check-spelling.png" alt="ppt-check-spelling.png"> <br> 
-   </dt><dd>Figure: Make sure "Check grammar with spelling" is enabled<br></dd></dl>
+
+::: ok  
+![Figure: Make sure "Check grammar with spelling" is enabled](ppt-check-spelling.png)  
+:::  
+
 ### Web Content
 
 
 Any other text can be checked manually. Go to [Grammarly](https://app.grammarly.com/), create a New Document and Paste your content to check your text.
-<dl class="image"><dt> <img src="grammarly.png" alt="grammarly.png"> </dt><dd>Figure: A typo caught by Grammarly<span style="color:#444444;"> </span></dd></dl>
+
+::: ok  
+![Figure: A typo caught by Grammarly](grammarly.png)  
+:::  
+
 ### Related rule
 
 

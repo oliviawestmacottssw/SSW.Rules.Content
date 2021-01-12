@@ -13,7 +13,6 @@ authors:
 related: []
 redirects:
 - do-you-know-to-duplicate-email-content-in-a-calendar-appointment
-- appointments---do-you-know-to-copy-the-email-content-into-the-calendar-appointment
 
 ---
 

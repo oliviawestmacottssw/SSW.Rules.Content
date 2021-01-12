@@ -17,7 +17,11 @@ redirects:
 If you store your URL references in the application settings, you can create integration tests to validate them.
 
 <!--endintro-->
-<dl class="image"><dt><img src="testURLSettings.gif" alt="testURLSettings.gif" style="width:750px;"></dt><dd>Figure: URL for link stored in application settings</dd></dl>
+
+::: ok  
+![Figure: URL for link stored in application settings](testURLSettings.gif)  
+:::  
+
 **Sample Code: How to test the URL**
 
 [Test]
