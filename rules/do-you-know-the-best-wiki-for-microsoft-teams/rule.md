@@ -21,9 +21,11 @@ You should use OneNote instead of the default Wiki. This way you can use it offl
 
 <!--endintro-->
 
+
 ::: bad  
 ![Bad Example: Default tab – Wiki. There is no offline mobile application](teams-best-wiki-1.jpg)  
 :::
+
 
 ::: good  
 ![Good Example: Use OneNote. Now you can use the normal OneNote Desktop and Mobile app for iOS and Android (including offline support)](teams-best-wiki-2.jpg)  

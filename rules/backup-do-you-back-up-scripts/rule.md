@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - backup-scripts
+- backup---do-you-back-up-scripts
 
 ---
 

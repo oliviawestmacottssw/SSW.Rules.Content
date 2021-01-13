@@ -20,6 +20,7 @@ The corner stone of good user interface design is that if your users need instru
 * No excuse for RTFM (read the freaking manual)
 
 
+
 ::: ok  
 ![Figure: A good interface does not need instructions!](../../assets/SelfEvident.gif)  
 :::
@@ -49,9 +50,11 @@ A good UI is:
 
 
 
+
 ::: good  
 ![Figure: Good example - Teamviewer's interface requires very little explanation](../../assets/GoodUITeamViewer.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - See the fly? (an example of excellent usability) Dutch manufacturers realized that a fly painted on the urinal became a "target" for men using the facility. And the fly is positioned in precisely the right place for minimal spillage or splash back. Clever people those Dutch!](../../assets/FlyInUrinal.jpg)  

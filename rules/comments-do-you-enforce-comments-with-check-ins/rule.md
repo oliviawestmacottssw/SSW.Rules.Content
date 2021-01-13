@@ -17,7 +17,8 @@ authors:
 - title: Drew Robson
   url: https://ssw.com.au/people/drew-robson
 related: []
-redirects: []
+redirects:
+- comments---do-you-enforce-comments-with-check-ins
 
 ---
 

@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - avoid-using-magic-string-when-referencing-property-variable-names
+- do-you-avoid-using-magic-string-when-referencing-propertyvariable-names
 
 ---
 
@@ -20,14 +21,26 @@ Hard coded strings when referencing property and variable names can be problemat
 
 <!--endintro-->
 
+
+
+```
 (if customer.Address.ZipCode == null) throw new ArgumentNullException("ZipCode");
+```
+
+
 
 ::: bad
 Figure: Bad Example - Hardcoding a reference to a property
 
 :::
 
+
+
+```
 (if customer.Address.ZipCode == null) throw new ArgumentNullException(nameof(customer.Address.ZipCode));
+```
+
+
 
 ::: good
 Figure: Good Example - Using nameof() operator to avoid hardcoded strings

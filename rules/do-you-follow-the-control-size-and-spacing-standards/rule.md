@@ -17,6 +17,7 @@ Despite seeming trivial, the most subtle elements of your form can have the grea
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - What's wrong with this form?](../../assets/ScreenBadControls.gif)  
 :::
@@ -37,6 +38,7 @@ This detracts from the visual appeal of the user interface, and results in an un
 The good news is that **you don't need to** : Microsoft have gone to a great deal of effort to     [define standards](http://www.ssw.com.au/ssw/Redirect/Microsoft/MSDNVisualDesign.htm) for exactly how your form controls should be laid out, and these standards are worth taking into consideration. By all means, if you have disagreements with anything listed here then please discuss it with us and we'll consider changing our own standards (Microsoft have changed theirs over the years, after all), but we recommend using the following as a guide.
 
 These examples assume that you are using the standard system font as defined in the rule mentioned above. Please note that although Dialog Units (DLUs) are better suited for generic (font independent) use, they are not available in the Visual Studio designer.
+
 
 ::: good  
 ![Figure: Good Example - The form follows Standards of good form design discussed below](../../assets/external.gif)  
@@ -67,6 +69,7 @@ Here's a good example for you to take inspiration from. This dialog is from Micr
 1. Consistency across wizard pages is very good
 2. Spacing and sizing of buttons is precise
 3. The logo has been positioned evenly
+
 
 
 ::: good  

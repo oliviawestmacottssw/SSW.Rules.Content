@@ -19,10 +19,16 @@ A String object is immutable - this means if you append two Strings together, th
 
 
 
+
+
+```
 String s = "";
-for (int i = 0; i &lt; 1000; i ++) {
+for (int i = 0; i < 1000; i ++) {
   s += i;
 }
+```
+
+
 
 ::: bad
 Figure: Bad example - This inefficient code results in 1000 new String objects being created unnecessarily.
@@ -31,10 +37,16 @@ Figure: Bad example - This inefficient code results in 1000 new String objects 
 
 
 
+
+
+```
 StringBuilder sb = new StringBuilder();
-for (int i = 0; i &lt; 1000; i ++) {
+for (int i = 0; i < 1000; i ++) {
   sb.append(i);
 }
+```
+
+
 
 ::: good
 Figure: Good example - This efficient code only uses one StringBuilder object.

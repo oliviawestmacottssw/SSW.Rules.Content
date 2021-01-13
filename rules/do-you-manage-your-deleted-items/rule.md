@@ -25,11 +25,13 @@ Here's a couple of solutions:
 * Move the items into subfolders under Deleted Items. This is a good solution as you can manually archive items, making it easier to search. You can permanently delete items when they reach a certain age.
 
 
+
 ::: good  
 ![Figure: Good Example - Deleted Items ordered into time periods](OulookDeletedItemsSubFolders.gif)  
 :::
 
 **Note:** A hot tip for making it easy to search for an accidentally deleted item is to add the "Modified" field into your Deleted Items view and sort by "Modified". The item from two months ago which you just accidentally deleted will be sitting at the top.
+
 
 
 

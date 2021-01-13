@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/ryan-tee
 related: []
 redirects:
+- do-you-always-make-file-paths--quoted
 - do-you-always-make-file-paths-@-quoted
 
 ---

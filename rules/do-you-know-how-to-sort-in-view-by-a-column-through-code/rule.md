@@ -21,13 +21,25 @@ But when you are trying to do that via code, you may find a pretty tricky issue.
 <!--endintro-->
  You can use some code like:
 
-view.Query = "&lt;OrderBy&gt;&lt;FieldRef Name=\"Modified\" Ascending=\" **FALSE** \" /&gt;&lt;/OrderBy&gt;";
+
+
+```
+view.Query = "<OrderBy><FieldRef Name=\"Modified\" Ascending=\" FALSE \" /></OrderBy>";
+```
+
+
  **Figure: Use code to change view sort** 
 but the below code won't work:
 
 
 
-view.Query = "&lt;OrderBy&gt;&lt;FieldRef Name=\"Modified\" Ascending=\" **False** \" /&gt;&lt;/OrderBy&gt;";
+
+
+```
+view.Query = "<OrderBy><FieldRef Name=\"Modified\" Ascending=\" False \" /></OrderBy>";
+```
+
+
 
 ::: bad
 Bad Example - the Ascending attribute is case-sensitive
@@ -37,9 +49,15 @@ Bad Example - the Ascending attribute is case-sensitive
 The full code should be some code like:
 
 
+
+
+```
 SPView view = list.DefaultView;
-view.Query = "&lt;OrderBy&gt;&lt;FieldRef Name=\"Modified\" Ascending=\" **FALSE** \" /&gt;&lt;/OrderBy&gt;";
+view.Query = "<OrderBy><FieldRef Name=\"Modified\" Ascending=\" FALSE \" /></OrderBy>";
 view.Update();
+```
+
+
 
 ::: good
 Good Example - the Ascending attribute is using capital charactors as it is case-sensitive  

@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - precompile-your-asp-net-1-1-and-2-0-and-later-sites
+- do-you-precompile-your-aspnet-11-and-20-sites
 - do-you-precompile-your-asp-net-1-1-and-2-0+-sites
 
 ---

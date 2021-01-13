@@ -13,7 +13,8 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects: []
+redirects:
+- dones---do-you-send-yourself-emails
 
 ---
 
@@ -22,6 +23,7 @@ When a colleague or a client asks you to do a task verbally, or you have discove
 The best solution is to send yourself an email CC'ing the person who asked you, including "[As per our conversation](/Pages/DoYouAlwaysSendAnAsPerOurConversationEmail.aspx)..." This way both of you know that the job needs to be done. This is really important especially when you are working for clients so there is a record of the requests for work.
 
 <!--endintro-->
+
 
 ::: bad  
 ![Figure: Writing yourself a "Post-It Note" is not the best method](postit-screen.jpg)  
@@ -52,10 +54,12 @@ When you write a "To Myself" email, it is even better when you include an estima
 
 With this estimate, the Product Owner can stop you if they think the amount of time doesn't provide good ROI.
 
+
 ::: bad  
 ![Figure: Bad Example - Send a task to self without an estimate](EmailWithoutEstimation.JPG)  
 :::
  
+
 ::: good  
 ![Figure: Good Example - Send a task to self with an estimate](EmailWithEstimation.jpg)  
 :::

@@ -24,9 +24,11 @@ You can split your blog entries so that only the first part of certain posts is 
 To do so, you can either edit the source index.php (or similar) file; or just click the "Read More" tag button in the first row of the visual editor toolbar (or press  **Alt+Shift+T** ):
 
 
+
 ::: bad  
 ![replace &lt;?php the\_content(); ?&gt; with &lt;?php the\_excerpt(); ?&gt;Figure: Bad example - changing source PHP files is complicated and require developer skills](readmore-tag.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example - click on the "Read More" tag on the post visual editor](readmore-tag.png)  
@@ -38,6 +40,7 @@ To do so, you can either edit the source index.php (or similar) file; or just cl
 
 To customize the message, simply add a space after  **&lt;!--more** and insert the text you want to show:
 
+
 ::: ok  
 ![&lt;!--more Read the full post --&gt; Figure: Custom "read more" link](excerpt.png)  
 :::
@@ -45,6 +48,7 @@ To customize the message, simply add a space after  **&lt;!--more** and insert t
 ### Some WordPress themes do this automatically
 
 Many WordPress themes will have an option to not show the full blog content on the homepage. E.g. in Avada (one of the most popular themes) it has this:
+
 
 ::: good  
 ![Figure: Many WordPress themes make it easier for you](excerpt.png)  

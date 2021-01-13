@@ -19,13 +19,16 @@ ASP.NET injects many lines during page rendering, so if you are using inline Jav
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Code - Using Inline JavaScript](JavaScriptBad1.jpg)  
 :::
 
+
 ::: bad  
 ![Figure: Bad Code - On PostBack Line numbers are changed for Inline JavaScript](JavaScriptBad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Code - Using JavaScript on Separate file](JavaScriptGood.jpg)  

@@ -31,9 +31,11 @@ This gives you a quick and easy reference for the changes that have happened in 
 
 
 
+
 ::: bad  
 ![Bad Example: Version 1.0.0.0, No changelog](change-log-bad.png)  
 :::
+
 
 ::: good  
 ![Good Example: Solution has up to date versioning with detailed changelog](change-log-good.png)  

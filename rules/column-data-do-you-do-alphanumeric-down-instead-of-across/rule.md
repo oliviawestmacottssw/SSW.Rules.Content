@@ -7,7 +7,8 @@ uri: column-data-do-you-do-alphanumeric-down-instead-of-across
 created: 2012-11-27T01:58:25.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- column-data---do-you-do-alphanumeric-down-instead-of-across
 
 ---
 
@@ -15,9 +16,11 @@ The search direction of a list should be obvious. When it comes to a multicolumn
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - The list columns go across instead of down](../../assets/bad-alphanum.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - The list is going down](../../assets/good-alphanum.jpg)  

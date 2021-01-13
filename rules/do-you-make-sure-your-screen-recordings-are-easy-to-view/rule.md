@@ -43,9 +43,11 @@ Zoom in to 125% by holding Ctrl and scrolling up on the mouse wheel
 
 
 
+
 ::: bad  
 ![Figure: Bad example - This video will be cluttered and unprofessional](screen-recording-bad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example - This is easy to read, and doesn’t look cluttered](screen-recording-good.png)  

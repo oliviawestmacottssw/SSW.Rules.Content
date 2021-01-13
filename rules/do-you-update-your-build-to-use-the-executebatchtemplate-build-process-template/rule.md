@@ -17,17 +17,21 @@ Update your Build to use the ExecuteBatchTemplate Build Process Template. A samp
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: If the ExecuteBatchTemplate is available in the dropdownlist on the Process tab, select it and continue in the next section](execute-batch-1.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: If the ExecuteBatchTemplate is not available in the dropdown list, click the New button](execute-batch-2.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: Select the Browse button to browse source control for the correct build process template](execute-batch-3.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Navigate to the \BuildProcessTemplates\ folder and then select the ExecuteBatchUpdate template. Click "OK"](execute-batch-4.jpg)  

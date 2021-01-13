@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - web-content-do-you-write-in-the-newsreader-and-eye-witness-style
+- web-content-like-wikipediainstructional-style---do-you-write-in-the-newsreader-and-eyewitness-style
 
 ---
 

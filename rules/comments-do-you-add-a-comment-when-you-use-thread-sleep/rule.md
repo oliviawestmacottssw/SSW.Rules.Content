@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - add-a-comment-when-you-use-thread-sleep
+- comments---do-you-add-a-comment-when-you-use-threadsleep
 
 ---
 
@@ -18,6 +19,9 @@ First don’t do it and find the right fix. But if you have to, it should alway
 
 <!--endintro-->
 
+
+
+```
 public DialogResult RefreshSchema() {
     SSW.SQLAuditor.WindowsUI.QueryAnalysisForm.RunScript(Startup.PageQueryAnalyzer.txtScript.Text)
     System.Windows.Forms.Application.DoEvents()
@@ -26,3 +30,4 @@ public DialogResult RefreshSchema() {
     System.Windows.Forms.Application.DoEvents()
     ...
 }
+```

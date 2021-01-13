@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - setup-a-complete-maintenance-plan
+- backup---do-you-set-up-a-complete-maintenance-plan
 
 ---
 
@@ -28,6 +29,7 @@ It is surprising how many IT staff create backup plans and then leave it at that
 
 
 <!--endintro-->
+
 
 ::: ok  
 ![This can be found under Management | Maintenance Plans within the database tee in SQL Server.Figure: SQL Server - A Complete Weekly Maintenance Plan](SqlMaintenancePlan.png)  

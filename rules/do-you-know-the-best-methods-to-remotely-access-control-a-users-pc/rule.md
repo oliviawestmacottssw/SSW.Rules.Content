@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - make-it-easy-to-see-the-users-pc
+- do-you-know-the-best-methods-to-remotely-accesscontrol-a-users-pc
 
 ---
 

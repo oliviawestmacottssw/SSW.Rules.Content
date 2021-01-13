@@ -40,4 +40,8 @@ Any operation that attempts to modify data (i.e., INSERT, UPDATE) will not work 
 
 The following Common Data Service datatypes are not supported with the SQL connection:
 
-binary, image, ntext, sql\_variant, varbinary, virtual, HierarchyId, managedproperty, file, xml, partylist, timestamp.
+
+
+```
+binary, image, ntext, sql_variant, varbinary, virtual, HierarchyId, managedproperty, file, xml, partylist, timestamp.
+```

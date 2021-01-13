@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - have-a-server-reboot-restart-policy
+- do-you-have-a-server-rebootrestart-policy
 
 ---
 
@@ -109,6 +110,7 @@ Immediately before the scheduled downtime, check for logged in users, file acces
 
 Open 'Windows Task Manager' (Run &gt; taskmgr) and select the 'Users' tab. Check with users if they have active connections, then have them log off.
 
+
 ::: ok  
 ![Figure: Connected users can be viewed in Task Manager](rule-outage-1.jpg)  
 :::
@@ -117,6 +119,7 @@ Open 'Windows Task Manager' (Run &gt; taskmgr) and select the 'Users' tab. Check
 
 Open 'Computer Management' (Run &gt; compmgmt.msc), then 'System Tools &gt; Shared Folders'. Check 'Session' and 'Open Files' for user connections.
 
+
 ::: ok  
 ![Figure: Computer Management 'Open Files' View](rule-outage-1.jpg)  
 :::
@@ -124,6 +127,7 @@ Open 'Computer Management' (Run &gt; compmgmt.msc), then 'System Tools &gt; Shar
 ### Database
 
 Open SQL Server Management Studio on the server. Connect to the local SQL Server. Expand 'Management' and double-click 'Activity Manager'.
+
 
 ::: ok  
 ![Figure: SQL Management Studio 'Active Connections' View](rule-outage-1.jpg)  

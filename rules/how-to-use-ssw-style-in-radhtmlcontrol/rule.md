@@ -26,18 +26,37 @@ Let's take the "AvoidReplyToAllWhenBcc" page as example.
 * there is no style apply to figure;
 
 
-<font class="ms-rteCustom-CodeArea">&lt;span class="ms-rteCustom-YellowBorderBox"&gt;We have a program called &lt;a href="<a shape="rect" href="/WebSites/RulesToBetterWebsitesLayout">http://rules.ssw.com.au/WebSites/RulesToBetterWebsitesLayout</a>"&gt;<br>
-        SSW LookOut! for Outlook&lt;/a&gt; to check for this rule.<br>
-        &lt;br /&gt;<br>
-        &lt;br /&gt;<br>
-       <font class="ms-rteCustom-Highlight">&lt;span class="ms-rteCustom-ImageArea"&gt;<br>
-</font>            &lt;img style="border-bottom: 0px solid; border-left: 0px solid; border-top: 0px solid;<br>
-                border-right: 0px solid;" border="0" alt="Lookout Reply All BCC Warning" src="<a shape="rect" href="/WebSites/RulesToBetterWebsitesLayout">http://rules.ssw.com.au/WebSites/RulesToBetterWebsitesLayout</a>" /&gt;<br>
-            &lt;br /&gt;<br>
-       <font class="ms-rteCustom-Highlight">&lt;/span&gt;</font>&lt;b&gt;<br>
-            &lt;br /&gt;<br>
-            Figure: SSW LookOut! for Outlook warns you if you accidentally 'Reply All' when<br>
-            you have been BCC'ed  &lt;/b&gt; &lt;/span&gt;</font>
+
+
+
+```
+<span class="ms-rteCustom-YellowBorderBox">We have a program called <a href="http://rules.ssw.com.au/WebSites/RulesToBetterWebsitesLayout">
+
+        SSW LookOut! for Outlook</a> to check for this rule.
+
+        <br />
+
+        <br />
+
+       <span class="ms-rteCustom-ImageArea">
+
+            <img style="border-bottom: 0px solid; border-left: 0px solid; border-top: 0px solid;
+
+                border-right: 0px solid;" border="0" alt="Lookout Reply All BCC Warning" src="http://rules.ssw.com.au/WebSites/RulesToBetterWebsitesLayout" />
+
+            <br />
+
+       </span><b>
+
+            <br />
+
+            Figure: SSW LookOut! for Outlook warns you if you accidentally 'Reply All' when
+
+            you have been BCC'ed  </b> </span>
+```
+
+
+
  1.  Not sure how user inputs the  content into this page. Anyway, here is the right way to add content via Telerik Editor. Please read below example of how I redo this part in Telerik Editor without changing the code manually
 ![Copy content in notepad](SaveContentInNotePad.jpg)
 **Figure:Copy content in the notepad** 2. Delete the current content from Telerik for a new start;

@@ -16,6 +16,7 @@ related:
 - tiny-do-you-know-"email"-does-not-have-a-hyphen
 redirects:
 - dones-do-you-use-email-for-tasks-only-not-communication
+- do-you-use-email-for-tasks-only---not-chatting
 
 ---
 

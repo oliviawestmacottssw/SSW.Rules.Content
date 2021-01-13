@@ -9,7 +9,8 @@ authors:
 - title: Raj Dhatt
   url: https://ssw.com.au/people/raj-dhatt
 related: []
-redirects: []
+redirects:
+- post-production---do-you-know-how-to-get-your-videos-approved
 
 ---
 

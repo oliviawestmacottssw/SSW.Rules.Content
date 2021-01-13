@@ -14,6 +14,7 @@ related: []
 redirects:
 - design-web-pages-to-work-on-mobile-and-tablets-screens-aka-responsive-web-design
 - do-you-design-your-web-pages-to-work-on-mobile-tablets-screens-28aka-responsive-web-design29
+- do-you-design-your-web-pages-to-work-on-mobiletablets-screens-aka-responsive-web-design
 - do-you-design-your-web-pages-to-work-on-mobile-tablets-screens-(aka-responsive-web-design)
 
 ---
@@ -23,6 +24,7 @@ You may be nicely equipped with a 21" monitor running at a resolution of 1920x14
 Your website should work nicely on screens that vary from a mobile/tablet to a large PC monitor.
 
 <!--endintro-->
+
 
 ::: good  
 ![Figure: Good example - A modern website adapts to different screens](Responsive-Design.jpg)  

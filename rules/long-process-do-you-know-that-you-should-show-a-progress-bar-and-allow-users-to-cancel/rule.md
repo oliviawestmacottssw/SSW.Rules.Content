@@ -7,7 +7,8 @@ uri: long-process-do-you-know-that-you-should-show-a-progress-bar-and-allow-user
 created: 2012-11-27T03:05:05.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- long-process---do-you-know-that-you-should-show-a-progress-bar-and-allow-users-to-cancel
 
 ---
 
@@ -25,9 +26,11 @@ Instead, keep users happy with your application by:
 * Allowing the user to stop the process at any time by clicking "Cancel" (or as a minimum, prompt for confirmation before the long running process starts)
 
 
+
 ::: good  
 ![Figure: Good Example - Progress Bar with description and Cancel Button](../../assets/AllowCancelAndShowProgressForLongRunningProcesses.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Progress Bar with description and status, and Cancel Button](../../assets/AllowCancelAndShowProgressForLongRunningProcesses2.jpg)  

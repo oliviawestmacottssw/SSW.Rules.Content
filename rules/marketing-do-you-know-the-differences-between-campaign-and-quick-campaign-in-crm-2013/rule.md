@@ -9,13 +9,15 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- marketing---do-you-know-the-differences-between-campaign-and-quick-campaign-in-crm-2013
 
 ---
 
 This picture shows a flowchart of Campaigns and Quick Campaigns in CRM 2013:
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: Campaign VS Quick Campaign flowchart.](CampaignVSQuickCampaign.jpg)  

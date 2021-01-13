@@ -18,6 +18,7 @@ A Picture tells a thousand words. Using screen shots can sell your designs and a
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Add a screenshot of a related project](Proposals\_Screeshot.jpg)  
 :::

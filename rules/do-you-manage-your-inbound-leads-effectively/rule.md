@@ -29,6 +29,7 @@ Once you have qualified the lead, your aim for the remainder of the call should 
 
 3. Send an appointment to the client and everyone attending the meeting (copy the email above.).
 
+
 ::: ok  
 ![Figure: Send an appointment for your initial meeting](meeting-request.jpg)  
 :::

@@ -19,7 +19,13 @@ It is simple to set up and if you are developing an MVC application, there are e
 
 Usage:
 
+
+
+```
 @Html.GravatarImage("MyEmailAddress@example.com", 80, new { Title = "My Gravatar", Alt = "Gravatar" })
+```
+
+
 
 Also, check out the [Gravatar API documentation](https&#58;//en.gravatar.com/site/implement/images/) for all the options available.
 

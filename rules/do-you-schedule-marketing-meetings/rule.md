@@ -20,9 +20,11 @@ It is very easy to take days and multiple resources to write a Marketing Plan, s
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example – Where ideas go to die, the plan falls into a black hole and is wasted!](mkt-plan-bad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example – Pre-book your meetings, update the plan, and action!](Screen Shot 2020-05-26 at 3.08.24 PM.png)  

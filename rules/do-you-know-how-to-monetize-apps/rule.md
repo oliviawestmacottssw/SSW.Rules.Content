@@ -62,13 +62,16 @@ Good example: capture data eg. What device and do data mining to set different p
 
 
 
+
 ::: ok  
 ![`youtube: https://www.youtube.com/embed/fKK9nVLvhGM`](how-to-monetize.png)  
 :::
 
+
 ::: ok  
 ![Figure: some apps charge more based on the device you are using](how-to-monetize.png)  
 :::
+
 
 ::: ok  
 ![Figure: know app developers make most of their in-app purchases from the whales 🐳](how-to-monetize-2.png)  

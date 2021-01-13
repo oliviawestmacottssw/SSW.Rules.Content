@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-you-use-javascript-alert
+- popup---do-you-know-javascript-alerts-are-evil
 
 ---
 

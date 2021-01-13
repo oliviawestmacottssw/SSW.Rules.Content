@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-async-await-for-all-io-bound-operations
+- do-you-use-asyncawait-for-all-io-bound-operations
 
 ---
 
@@ -38,22 +39,34 @@ When using async, the thread is released back to the thread pool while waiting f
 
 The async/await pattern is most effective when applied “all the way down”. For ASP.NET web applications this means that the Controller Action – which is usually the entry point for a request into your application – should be async.
 
+
+
+```
 public ActionResult Gizmos()
 {
     var gizmoService = new GizmoService();
     return View("Gizmos", gizmoService.GetGizmos());
 }
+```
+
+
 
 ::: bad
 Figure: Bad Example – this MVC Controller Action endpoint is not async so the thread assigned to process it will be blocked for the whole lifetime of the request
 
 :::
 
-public async Task&lt;ActionResult&gt; GizmosAsync()
+
+
+```
+public async Task<ActionResult> GizmosAsync()
 {
     var gizmoService = new GizmoService();
     return View("Gizmos", await gizmoService.GetGizmosAsync());
 }
+```
+
+
 
 ::: good
 Figure: Good example this MCV Controller Action is async. The thread will be released back to the threadpool while waiting for any IO operations under the “gizmoService” to complete 

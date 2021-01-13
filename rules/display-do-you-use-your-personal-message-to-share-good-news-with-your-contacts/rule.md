@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-your-personal-message-to-share-good-news-with-your-contacts
+- display---do-you-use-your-personal-message-to-share-good-news-with-your-contacts
 
 ---
 
@@ -21,6 +22,7 @@ If you     [have your clients added as Instant Messenger contacts](/_layouts/15/
 Your personal message should be simple, to the point, and make sure you change it at least once a month!
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: Use your Personal Message to share the good news](Use-your-Persona- Message-to-share-good-news.jpg)  

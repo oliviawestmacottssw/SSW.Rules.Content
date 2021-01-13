@@ -18,14 +18,26 @@ Not explicitly specifying the access type for members of a structure or class ca
 
 <!--endintro-->
 
+
+
+```
 Match MatchExpression(string input, string pattern)
+```
+
+
 
 ::: bad
 Figure: Bad - Method without member accessibility declared 
 
 :::
 
+
+
+```
 private Match MatchExpression(string input, string pattern)
+```
+
+
 
 ::: good
 Figure: Good - Method with member accessibility declared

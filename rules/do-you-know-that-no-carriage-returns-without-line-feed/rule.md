@@ -19,9 +19,11 @@ Text files created on DOS/Windows machines have different line endings than file
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example](carriage-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example](carriage-good.jpg)  

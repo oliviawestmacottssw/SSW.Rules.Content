@@ -25,13 +25,16 @@ Twitter Bootstrap is a NuGet Package that provides a jump-start for HTML based p
 
 Building your site on top of bootstrap makes it much easier to have your website look great on devices of all sizes, across many different browsers.
 
+
 ::: ok  
 ![Figure: This website template, along with many others is available as a starting point for building Bootstrap-based sites](bootstrap-1.jpg)  
 :::
 
+
 ::: bad  
 ![Figure: Bad example - Many websites built by using tables for positioning would render poorly on smaller devices, and be hard to use](iphonenonresponsive.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example - Twitter Bootstrap uses many techniques to help make your site look great on different browsers, on all devices](bootstrap-3.jpg)  

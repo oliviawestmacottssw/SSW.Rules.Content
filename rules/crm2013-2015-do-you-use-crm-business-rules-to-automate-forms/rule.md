@@ -9,7 +9,8 @@ authors:
 - title: Mehmet Ozdemir
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
-redirects: []
+redirects:
+- crm20132015---do-you-use-crm-business-rules-to-automate-forms
 
 ---
 
@@ -30,17 +31,20 @@ Starting with CRM 2013 (and much improved in CRM 2015), users can now use Busine
 
 Take the following Example:
 
+
 ::: ok  
 ![Figure: ‘Customer Type Other’ should be hidden and only displayed when Other is selected](crm-automated-forms-1.png)  
 :::
 
 To make this work use the following Business Rules:
 
+
 ::: ok  
 ![Figure: Show the ‘Customer Type Other’ field when Customer Type equals Other](crm-automated-forms-2.png)  
 :::
 
 The flip side of the expression also needs to be set where Customer Type doesn’t equal Other to hide the ‘Customer Type Other’ field (you could also optionally clear this field too)
+
 
 ::: ok  
 ![Figure: Hide the ‘Customer Type Other’ field when Customer Type doesn’t equal Other](crm-automated-forms-3.png)  
@@ -50,9 +54,11 @@ Finally the last step is to      **Activate** the Business Rules. To activate cl
 
 Now the form will look like this:
 
+
 ::: ok  
 ![Figure: Great. Now ‘Customer Type Other’ is hidden](crm-automated-forms-4.png)  
 :::
+
 
 ::: ok  
 ![Figure: And on the other side ‘Customer Type Other’ is visible](crm-automated-forms-5.png)  

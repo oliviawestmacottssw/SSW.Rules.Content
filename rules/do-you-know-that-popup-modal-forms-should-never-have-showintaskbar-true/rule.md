@@ -7,11 +7,13 @@ uri: do-you-know-that-popup-modal-forms-should-never-have-showintaskbar-true
 created: 2012-11-27T04:22:06.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- do-you-know-that-popupmodal-forms-should-never-have-showintaskbartrue
 
 ---
 
 Question: What is wrong with this Picture?
+
 
 ::: ok  
 ![Figure: Can you tell what is wrong with this Picture?](../../assets/ShowInTaskBar.jpg)  

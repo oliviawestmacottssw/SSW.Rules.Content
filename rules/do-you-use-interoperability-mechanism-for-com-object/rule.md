@@ -16,10 +16,16 @@ VB.NET includes the CreateObject () Method for creating the COM object. This is 
 
 <!--endintro-->
 
+
+
+```
 Sub CreateADODBConnection()
 Dim adoApp As Object
 adoApp = CreateObject("ADODB.Connection")
 End Sub
+```
+
+
 
 ::: bad
 Figure: Bad code. Uses a VB technique - CreateObject() - for creating a COM object  
@@ -35,6 +41,7 @@ To add references to COM objects:
 
 * On the Project menu, select Add Reference and then click the COM tab.
 * Select the component you want to use from the list of COM objects.
+
 ::: ok  
 ![](UserCOM.gif)  
 :::

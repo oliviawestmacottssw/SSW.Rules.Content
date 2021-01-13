@@ -20,6 +20,7 @@ However
  the first step to keeping anyone happy is to [manage expectations](/do-you-manage-clients-expectations) from the beginning to the end of a project.
 The following steps are the processes by which you can manage client expectations and, with luck, keep them happy...
 
+
 ::: ok  
 ![Figure: Making premature statements is not an effective way of managing expectations](SuccessfulProjects\_ManagingExpectations.jpg)  
 :::

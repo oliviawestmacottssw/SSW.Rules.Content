@@ -45,9 +45,11 @@ Most importantly, you can have all these things done for you at the click of a b
 
 ### Visual Studio
 
+
 ::: bad  
 ![Figure: Bad Example - Code is small and most of the Visual Studio UI is too small to read](present\_off.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Good Example – Presentation mode creates a full alternative profile so you can cant adjust font sizes across the whole UI](present\_on.png)  
@@ -57,9 +59,11 @@ Most importantly, you can have all these things done for you at the click of a b
 
 Change font size in your text editor.
 
+
 ::: bad  
 ![Figure: Small font size](notepad\_bad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good font size](notepad\_good2.png)  
@@ -69,9 +73,11 @@ Change font size in your text editor.
 
 And don't forget to change your command prompt as well.
 
+
 ::: bad  
 ![Figure: Command prompts are hard to read](cmd\_bad\_2.png)  
 :::
+
 
 ::: good  
 ![Figure: Font size for command prompt should be about twice as much as by default](cmd\_good\_2.png)  

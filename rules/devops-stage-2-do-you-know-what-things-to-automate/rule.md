@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - things-to-automate-stage-2
+- devops--stage-2-do-you-know-what-things-to-automate
 - devops-–-stage-2-do-you-know-what-things-to-automate
 
 ---
@@ -21,6 +22,7 @@ Once you’ve identified the manual processes in Stage 1, you can start looking 
 <!--endintro-->
 
 See our <br>      [Rules to Better Continuous Deployments with TFS](/rules-to-better-continuous-deployment-with-tfs-2012-and-tfs-2013).
+
 
 ::: ok  
 ![Figure: In Azure DevOps you can automate application deployment to a staging environment and automatically run tests before deploying to production](2020-03-23\_14-08-39.jpg)  

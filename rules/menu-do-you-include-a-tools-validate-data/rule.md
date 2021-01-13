@@ -9,6 +9,7 @@ authors: []
 related: []
 redirects:
 - menu-do-you-include-a-＂tools-validate-data＂
+- menu---do-you-include-a-tools--validate-data
 
 ---
 
@@ -20,6 +21,7 @@ So when you add business rules to the middle tier, consider scenarios such as im
 
 * For SQL Server we use  **vwValidateClient\_MustHaveACategoryID** , or  **procValidateClient\_MustHaveACategoryID**
 * For Access we use  **qryValidateClient\_MustHaveACategoryID**
+
 
 
 ::: good  

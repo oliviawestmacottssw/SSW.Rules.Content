@@ -22,11 +22,13 @@ This is often a problem when building systems that leverage Entity Framework, as
 
 <!--endintro-->
 
+
 ::: bad  
 ![Bad Example: Domain is cluttered with data annotations](domain-layer-1.png)  
 :::
 
 As you can see in the above example, the domain is cluttered with data annotations. If the data access technology changes, we will likely need to change all entities as all entities will have data annotations. In the following example, we will remove the data annotations from the entity and instead use a special configuration type:
+
 
 ::: good  
 ![Good Example: Domain is lean, configuration for entity is contained within a separate configuration type](domain-layer-2.png)  

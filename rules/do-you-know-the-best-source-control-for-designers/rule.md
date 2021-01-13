@@ -21,13 +21,16 @@ Design files should never be stored in Azure DevOps (was VSTS/TFS) or any other 
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example – Azure DevOps (was VSTS/TFS) takes too long to set up and too slow to use](Designer-Source-Control-TFS.png)  
 :::
 
+
 ::: good  
 ![Figure: Good Example – Dropbox or OneDrive](Designer-Source-Control-DropBox.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example – OneDrive and Teams](Teamsfiles.png)  

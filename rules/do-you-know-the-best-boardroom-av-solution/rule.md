@@ -25,6 +25,7 @@ There are several ways you can set up your boardroom AV for effective and effici
 
 A popular way to connect devices wirelessly to the boardroom TV is to use an Apple TV.
 
+
 ::: ok  
 ![Figure: Apple TV with remote](appletv.jpg)  
 :::
@@ -53,6 +54,7 @@ Cons
 
 ### Smart TV’s with built-in AirPlay, Google and HoMirrorcast
 A newer way to connect wirelessly is to use Smart TV’s built-in features.
+
 ::: ok  
 ![Figure: Samsung Smart TV with built-in AirPlay](smarttv.jpg)  
 :::
@@ -83,6 +85,7 @@ Cons
 
 For a more robust AV solution, you can install an Extron system. We recommend the ShareLink Pro.
 
+
 ::: ok  
 ![Figure: Extron ShareLink Pro 1000 diagram](extron.jpg)  
 :::
@@ -112,6 +115,7 @@ Cons
 
 
 A more advanced wireless solution, Barco Clickshare allows you to use any laptop device without installing software by connecting a small USB dongle. The Clickshare 'brain' is connected to your TV or AV hub via HDMI.
+
 
 ::: ok  
 ![Figure: Barco USB dongle for the laptop, or an app for your smartphone](barcousb.jpg)  

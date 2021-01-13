@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - start-versioning-at-0-1-and-change-to-1-0-once-approved
+- do-you-start-versioning-at-01-and-change-to-10-once-approved-by-a-client-or-tester
 
 ---
 

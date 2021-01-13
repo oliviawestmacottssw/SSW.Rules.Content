@@ -21,6 +21,7 @@ One of the annoying things with SharePoint document libraries is that users ofte
 
 Suggestion to Microsoft: send an email to the user to remind them they have outstanding checkouts potentially blocking other users.
 
+
 ::: ok  
 ![Figure: Here Greg Harris has not checked in a file](sp-docs.jpg)  
 :::
@@ -45,6 +46,7 @@ Eg. SSW.Dory
 
 Go to "Site Settings | Manage Content and Structure | Content and Structure Reports", click "New":
 
+
 ::: ok  
 ![Figure: Create a new report](ContentAndStructureReportsNew.png)  
 :::
@@ -53,6 +55,7 @@ Fill the "CAML Query":
 &lt;Where&gt;&lt;IsNotNull&gt;&lt;FieldRef Name="CheckoutUser" LookupId="TRUE"/&gt;&lt;/IsNotNull&gt;&lt;/Where&gt;
 
 Fill the other fields like below:
+
 
 ::: ok  
 ![Figure: Fill in form](NewReportForm.png)  
@@ -63,6 +66,7 @@ Fill the other fields like below:
  
 
 Run the checkout report from "Site Settings | Manage Content and Structure | View: Checked out documents":
+
 
 ::: ok  
 ![Figure: Checked Out Documents report link Make sure there are no files checked out, otherwise, go step 3](CheckedOutDocuments.png)  

@@ -18,6 +18,7 @@ It's common for business logic to be added directly to the presentation layer. W
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse](business-logic-presentation-layer-bad.png)  
 :::
@@ -36,11 +37,13 @@ MediatR is an open source .NET library by Jimmy Bogard that provides an elegant 
 
 For every command or query, you create a specific request class that explicitly defines the “input” required to invoke the operation.
 
+
 ::: ok  
 ![Figure: (from MediatR docs) A Simple Request class](business-logic-presentation-layer-simple.png)  
 :::
 
 Then the implementation of that command or query is implemented in a handler class. The handler class is instantiated by a Dependency Injection container – so can use any of the configured dependencies (Repositories, Entity Framework, services etc).
+
 
 ::: ok  
 ![Figure: A handler class](business-logic-presentation-layer-handler.png)  
@@ -57,6 +60,7 @@ This approach brings many benefits:
 * MediatR handlers are easy to mock and unit test
 * The interface for MediatR handlers encourages the implementation of best-practice async methods with cancellation token support.
 * MediatR introduces a pipeline behaviour system allowing custom to be injected around handler invocation. This is useful for implementing cross-cutting concerns such as logging, validation or caching
+
 
 
 ::: good  

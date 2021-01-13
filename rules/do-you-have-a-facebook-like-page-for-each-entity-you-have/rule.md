@@ -21,6 +21,7 @@ If an object can gather enough of a community willing to share a common interest
 
 A **Like Page** should be available for each popular product or entity of your company. SSW has a page for the Rules section of our company but not for each individual product; on the other hand, it would be suitable for Microsoft to have a separate page for each of their products.
 
+
 ::: ok  
 ![Figure: One of these Like Pages is probably unnecessary.](Facebook\_LikePage.jpg)  
 :::

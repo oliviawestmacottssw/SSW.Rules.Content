@@ -43,6 +43,7 @@ Customers normally appreciate this sentiment. You need to remember that prospect
 
 <!--endintro-->
 
+
 ::: ok  
 ![](fries-mcdonalds-whitebg.gif)  
 :::

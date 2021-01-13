@@ -18,7 +18,10 @@ Should you declare variables at the top of the function, or declare them when yo
 
 <!--endintro-->
 
-Private Sub Command0\_Click()
+
+
+```
+Private Sub Command0_Click()
 Dim dteTodayDate As Date
 Dim intRoutesPerDay As Integer
 Dim intRoutesToday As Integer
@@ -29,6 +32,9 @@ dblWorkLoadToday = Date.Now()
 .
 intRoutesPerDay = 2
 End Sub
+```
+
+
 
 ::: bad
 Figure: Bad example 
@@ -37,7 +43,10 @@ Figure: Bad example
 
 
 
-Private Sub Command0\_Click()
+
+
+```
+Private Sub Command0_Click()
 Dim dteTodayDate As Date
 dteTodayDate = Date.Now()
 .
@@ -48,6 +57,9 @@ intRoutesPerDay = 2
 .
 ....continuing code...
 .End Sub
+```
+
+
 
 ::: good
 Figure: Good example

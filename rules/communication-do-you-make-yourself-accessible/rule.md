@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - make-yourself-available-on-different-communication-channels
+- communication---do-you-make-yourself-accessible
 
 ---
 

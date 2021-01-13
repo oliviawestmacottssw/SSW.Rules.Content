@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- control-choice---do-you-use-gridview-over-the-checkedlistbox
 
 ---
 
@@ -28,9 +29,11 @@ In Windows Forms we have a CheckedListBox. With a CheckedListBox you cannot:
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - The CheckedListBox is limited](../../assets/external.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - The DataGrid can show much more information (and if you use a 3rd Party eg. Telerik, then it can be pretty too)](../../assets/external.gif)  

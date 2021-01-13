@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- controls---do-you-extend-the-size-of-your-comboboxes-to-show-as-many-results-as-possible-windows-forms-only
 - controls-do-you-extend-the-size-of-your-comboboxes-to-show-as-many-results-as-possible-(windows-forms-only)
 
 ---
@@ -20,9 +21,11 @@ When designing your form, it's a good idea to help your user whenever it's possi
 
 However, you should not extend your ComboBox without limit, normally the maximum number of items should be under 10 and the maximum width of the drop-down should be smaller than your hosting form.
 
+
 ::: bad  
 ![Figure: Bad Example - You have to scroll to see all the result, and the long results are cut off](../../assets/ComboBox-Size-1.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - The size of the drop down has been extended to allow user to see as much as possible](../../assets/ComboBox-Size-2.jpg)  

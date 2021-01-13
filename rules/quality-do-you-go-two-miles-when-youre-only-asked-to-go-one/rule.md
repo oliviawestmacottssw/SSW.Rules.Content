@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-go-two-miles-when-youre-only-asked-to-go-one
+- quality---do-you-go-two-miles-when-youre-only-asked-to-go-one
 
 ---
 

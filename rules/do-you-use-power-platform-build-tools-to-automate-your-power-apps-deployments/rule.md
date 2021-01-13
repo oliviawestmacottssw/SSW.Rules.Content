@@ -20,6 +20,7 @@ You’ve built your Power App using all the best practices, have multiple soluti
 
 The solution, Power Platform Build Tools:
 
+
 ::: ok  
 ![Figure: ALM for your Power Platform projects](almpowered.png)  
 :::

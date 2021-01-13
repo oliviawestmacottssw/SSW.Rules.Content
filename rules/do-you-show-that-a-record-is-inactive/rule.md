@@ -20,6 +20,7 @@ Make it clear when a record is inactive by reducing it opacity, for example.
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good Example - Microsoft Teams clearly shows inactive users](inactive-record.png)  
 :::

@@ -18,11 +18,13 @@ When a user is created in Active Directory (AD) a Global Unique Identifier (GUID
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: GUID for User Steven Andrews](guid.png)  
 :::
 
 When adding a user to CRM they are assigned with an Employee ID, this is linked to the AD account’s GUID.
+
 
 ::: ok  
 ![Figure: AD User StevenAndrews is tied to STA Employee ID through AD GUID](aduser.png)  

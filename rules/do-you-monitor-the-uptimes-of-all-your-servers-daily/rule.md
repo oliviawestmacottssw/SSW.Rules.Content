@@ -20,6 +20,7 @@ Here is a report that we use to monitor our servers on a daily basis:
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good example - We can easily see the uptime of all our servers](WuGReport.png)  
 :::

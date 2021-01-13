@@ -27,9 +27,11 @@ Email is great. But in an emergency, you need to pick up the phone. Often the mo
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - can't call a phone number](skype-phonenumber-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - Able to call phone numbers](skype-phonenumber-good.jpg)  

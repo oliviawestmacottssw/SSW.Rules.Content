@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - have-a-notifications-channel
+- notifications---does-your-team-have-a-notifications-channel
 
 ---
 

@@ -11,12 +11,14 @@ authors:
 related: []
 redirects:
 - fix-search-with-office-app-preview
+- search---do-you-fix-search-with-office-app-for-content-preview--on-premise-only
 - search-do-you-fix-search-with-office-app-for-content-preview-(on-premise-only)
 
 ---
 
 To make office documents with content preview available in search result, you need to setup an Office App server and link it to SharePoint: 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: Preview Office documents on SharePoint](preview-sharepoint.png)  

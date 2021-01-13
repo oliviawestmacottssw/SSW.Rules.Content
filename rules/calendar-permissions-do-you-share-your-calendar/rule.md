@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - calendar-do-you-allow-full-access-to-calendar-admins
+- calendar-permissions---do-you-share-your-calendar
 
 ---
 
@@ -22,9 +23,11 @@ Within a company, there are occasions that you are not able to access your compu
 
 So always make sure the admin people are able to access your calendar with full permission in order to add/edit/delete appointments for you.
 
+
 ::: ok  
 ![Figure: Click on "Calendar Permissions"](Share-Calendar.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Give admins full access to your calendar](Permissions.jpg)  

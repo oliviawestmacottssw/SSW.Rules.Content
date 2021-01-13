@@ -30,6 +30,7 @@ The ongoing resources planned to work on this product must also be evaluated.
 
 To help in these decisions,  the .NET Core team has released a roadmap for upcoming releases over the next few years. All even-numbered releases will be LTS.
 
+
 ::: ok  
 ![Figure: The .NET Schedule – from        https://devblogs.microsoft.com/dotnet/introducing-net-5/](net-schedule.jpg)  
 :::

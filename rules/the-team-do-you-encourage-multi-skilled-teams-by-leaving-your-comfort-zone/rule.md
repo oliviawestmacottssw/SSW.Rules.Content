@@ -7,7 +7,8 @@ uri: the-team-do-you-encourage-multi-skilled-teams-by-leaving-your-comfort-zone
 created: 2010-04-08T04:28:36.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- the-team---do-you-encourage-multi-skilled-teams-by-leaving-your-comfort-zone
 
 ---
 

@@ -27,7 +27,13 @@ According to [MSDN web developer tips](https&#58;//blogs.msdn.microsoft.com/), 
 
 <!--endintro-->
 
-&lt;system.web&gt; &lt;deployment retail="true"/&gt; &lt;/system.web&gt;
+
+
+```
+<system.web> <deployment retail="true"/> </system.web>
+```
+
+
 
 ::: good
 The setting in machine.config will also turn off trace output in a page and detailed error messages remotely

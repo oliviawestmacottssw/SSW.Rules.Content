@@ -20,9 +20,11 @@ The  **&lt;title&gt;** ,  **&lt;h1&gt;** , and  **&lt;h2&gt;** tags need to be d
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - non-descriptive title/headings](bad-title-headings.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - descriptive title/headings](good-title-headings.png)  

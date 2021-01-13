@@ -28,6 +28,7 @@ Social engineering is a technique which mixes art and science to exploit common 
 
 There are numerous examples of social engineering ranging from phone calls, attackers posing as friends on social media, all the way to sophisticated attempts at phishing users with near-perfect clones of popular websites.
 
+
 ::: ok  
 ![Figure: ‘Do you think the average consumer could spot the phishing site?’ Source: Troy Hunt](social-eng.png)  
 :::

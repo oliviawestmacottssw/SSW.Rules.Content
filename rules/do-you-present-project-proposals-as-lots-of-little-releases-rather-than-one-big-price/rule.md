@@ -21,6 +21,7 @@ When a prospective client gets a quote for a huge price it's like giving them a 
 
 This approach also allows you to side-step common delaying tactics of prospective clients by making it easier to get the project moving.
 
+
 ::: ok  
 ![Figure: One big price is like a slap in the face](AccountManagement-FaceSlap.jpg)  
 :::

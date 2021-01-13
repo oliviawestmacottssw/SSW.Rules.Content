@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - is-everyone-in-your-team-a-standards-watchdog
+- general---standards-watchdog---do-you-help-everyone-to-learn-the-rules
 
 ---
 
@@ -20,9 +21,11 @@ redirects:
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Correcting someone in a mean way](watchdog-mean.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - People make mistakes but correct them as though they’re a soft cute puppy 🐶](watchdog-watchdog.jpg)  
@@ -114,6 +117,7 @@ For more, check out [Do you know to create a safe space instead of jumping into 
 
 
 
+
 ::: bad  
 ![Figure: Bad example - seeing a mistake and not pointing it out doesn't improve a person. Allow them to benefit from your experience!](watchdog-ghost.jpg)  
 :::
@@ -123,6 +127,7 @@ For more, check out [Do you know to create a safe space instead of jumping into 
 When something is really personal, you can’t really correct someone unless you are a close friend and have credit with the person, so you should discretely ask your manager how to proceed in that specific case.
 
 ### Taking Feedback
+
 
 ::: good  
 ![Figure: Good example - say 'thank you' to a person's corrections to show you don't have thin skin and encourage further positive and negative feedback. It all helps you to improve](watchdog-thankyou.jpg)  

@@ -7,7 +7,8 @@ uri: less-is-more-do-you-realize-that-when-it-comes-to-interface-design-less-is-
 created: 2012-11-27T01:41:21.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- less-is-more---do-you-realize-that-when-it-comes-to-interface-design-less-is-more
 
 ---
 
@@ -28,17 +29,21 @@ It might be fantastic under the covers, but if the user interface is not intuiti
 
 Do yourself a favor, take some time to think about UI first.
 
+
 ::: bad  
 ![Figure: Bad Example - An example of a poor UI](../../assets/badui2.jpg)  
 :::
+
 
 ::: bad  
 ![Figure: Bad Example - Functional overload (a programmer probably designed this one)](../../assets/bad-functionaloverload1.jpg)  
 :::
 
+
 ::: bad  
 ![Figure: Bad Example - Another example of Functional overload](../../assets/bad-functionaloverload2.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Outlook.com (the replacement to Hotmail), streamlined functionality and minimal](OutlookCom.png)  

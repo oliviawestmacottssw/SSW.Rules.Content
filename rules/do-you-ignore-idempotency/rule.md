@@ -25,7 +25,11 @@ This usually involves a check at the start to see if the object exists or not.
 Database scripts should be run in order (into separate sequential files), as per the rule [Do you script out all changes?](http://www.ssw.com.au/ssw/standards/rules/rulestobettersqlserverdatabases.aspx#ScriptOutChanges)
 
  Therefore developers should not worry about idempotency, as the script will run in the order it was created. Actually, if they are doing this, then  **\*they want to see the errors\*** . It means that the database is not in the state that they expect.
-<font class="ms-rteCustom-CodeArea"><pre>IF EXISTS (SELECT 1 FROM 
+
+
+
+```
+IF EXISTS (SELECT 1 FROM 
                INFORMATION_SCHEMA.TABLES 
            WHERE 
                TABLE_TYPE='BASE TABLE' AND 
@@ -34,17 +38,28 @@ Database scripts should be run in order (into separate sequential files), as per
     ALTER TABLE [dbo].[Employees]( …… ) ON [PRIMARY] 
 ELSE 
     CREATE TABLE [dbo].[Employees]( …… ) ON [PRIMARY]
-</pre></font>
+```
+
+
+
 ::: bad
 Bad example – worrying about the idempotency should not be done, if you plan to run your scripts in the order they were created  
 :::
- <font class="ms-rteCustom-CodeArea"><pre>CREATE TABLE [dbo].[Employees](
+ 
+
+
+```
+CREATE TABLE [dbo].[Employees](
     ……
 ) ON [PRIMARY]
-</pre></font>
+```
+
+
+
 ::: good
 Good example – not worrying about the idempotency. If errors occur we don’t want them to be hidden + it is easier to read  
 :::
+
 
 
 ::: ok  

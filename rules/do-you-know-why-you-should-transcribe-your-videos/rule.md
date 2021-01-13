@@ -22,6 +22,7 @@ The most important step is setting the right title and description. As this is w
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: How to improve the keywords of this video?](transcribe.jpg)  
 :::
@@ -52,6 +53,7 @@ However, it is missing important keywords such as:
 How to capture all of these missing keywords?  You can't just overload your content with keywords, as your content will quickly become flagged as spam.
 
 The answer is to have your video content transcribed. As it provides drastically benefits for the discoverability of your video content, while the organic nature of the written material ensures it is not flagged as spam.
+
 
 ::: ok  
 ![Figure: Checkout the rest of this example transcript - http://blog.chrisbriggsy.com/Ilija-Injac-on-IoT/](transcription.jpg)  

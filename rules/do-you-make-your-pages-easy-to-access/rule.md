@@ -17,6 +17,7 @@ There is no point of having a web page if it is too hard for       the user to a
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Have a useful navigation system](../../assets/drop\_down\_menu.gif)  
 :::

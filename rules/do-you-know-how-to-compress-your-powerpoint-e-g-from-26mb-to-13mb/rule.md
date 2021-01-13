@@ -9,6 +9,7 @@ authors: []
 related: []
 redirects:
 - do-you-know-how-to-compress-your-powerpoint
+- do-you-know-how-to-compress-your-powerpoint-eg-from-26mb-to-13mb
 
 ---
 

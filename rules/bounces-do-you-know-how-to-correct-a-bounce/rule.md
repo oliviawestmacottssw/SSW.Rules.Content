@@ -11,7 +11,8 @@ authors:
 - title: Cameron Shaw
   url: https://ssw.com.au/people/cameron-shaw
 related: []
-redirects: []
+redirects:
+- bounces---do-you-know-how-to-correct-a-bounce
 
 ---
 

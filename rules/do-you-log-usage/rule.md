@@ -17,6 +17,7 @@ So you can see what functions are being used more often (e.g. reports, menu item
 
 <!--endintro-->
  Plus, you can work out what fields to show on search pages (standard and advanced tabs) and which parameters are being used. 
+
 ::: ok  
 ![Figure: Keep track of what terms are searched most often](../../assets/GoodLogUsage.png)  
 :::

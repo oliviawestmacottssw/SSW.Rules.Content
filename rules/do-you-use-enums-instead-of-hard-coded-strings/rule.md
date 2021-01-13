@@ -18,9 +18,11 @@ Use Enums instead of hard-coded strings, it makes your code lot  **cleaner** and
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - "Hard- coded string" works, but is a bad idea](EnumBadExample.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - Used Enums, looks good and is easy to manage](EnumGoodExample.jpg)  

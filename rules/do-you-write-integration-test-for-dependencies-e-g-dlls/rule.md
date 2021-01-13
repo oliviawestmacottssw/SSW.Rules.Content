@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - write-integration-test-for-dependencies
+- do-you-write-integration-test-for-dependencies---eg-dlls
 
 ---
 
@@ -26,6 +27,9 @@ These errors can be fixed by writing a integration test to check all referenced 
 
 Sample code:
 
+
+
+```
 [Test]
 public void ReferencedAssembliesTest()
 {
@@ -47,4 +51,7 @@ public void ReferencedAssembliesTest()
  }
  }
 }
+```
+
+
  **Figure: This code is a unit test for checking that all referenced assemblies are able to load.**

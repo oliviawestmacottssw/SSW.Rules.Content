@@ -20,7 +20,13 @@ It is always better to make sure there are equivalent closing quotations for HTM
 
 
 
-&lt;span style="font-size:12pt; background: #ccc;&gt;
+
+
+```
+<span style="font-size:12pt; background: #ccc;>
+```
+
+
 
 ::: bad
 Figure: Bad code - Can you see the missing quote? Code Auditor can
@@ -28,7 +34,13 @@ Figure: Bad code - Can you see the missing quote? Code Auditor can
 
 :::
 
-&lt;span style="font-size:12pt; background: #ccc;"&gt;
+
+
+```
+<span style="font-size:12pt; background: #ccc;">
+```
+
+
 
 ::: good
 Figure: All OK

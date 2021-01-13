@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - object-name-should-not-be-a-reserved-word
+- general---do-you-know-object-name-should-not-be-a-reserved-word
 
 ---
 

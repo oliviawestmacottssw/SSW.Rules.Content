@@ -22,9 +22,11 @@ It's better to save reports under Group Workspace and share it with the team.
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - saving report under My Workspace](powerbi-bad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example - saving report under Group Workspace](powerbi-good.png)  

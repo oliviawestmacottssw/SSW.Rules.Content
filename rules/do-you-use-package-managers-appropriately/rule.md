@@ -18,15 +18,18 @@ Advice like this can be a minefield, and is constantly in flux, but there are so
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Default ASP.NET Core project is package management done wrong](package1.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Project using good package management](package2.jpg)  
 :::
 
 ### Bower is dead
+
 
 ::: ok  
 ![Figure: Bower is dead](package3.jpg)  

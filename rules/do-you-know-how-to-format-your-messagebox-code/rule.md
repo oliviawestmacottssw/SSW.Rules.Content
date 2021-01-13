@@ -18,29 +18,41 @@ You should always write each parameter of MessageBox in a separate line. So it w
 
 <!--endintro-->
 
+
+
+```
 Private Sub ShowMyMessage()
  MessageBox.Show("Are
  you sure you want to delete the team project """ + strProjectName
  + """?" + Environment.NewLine + Environment.NewLine + "Warning:
  Deleting a team project cannot be undone.", strProductName + "
  " + strVersion(), MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2)
+```
+
+
 
 ::: bad
 Figure: Bad example of MessageBox code format
 
 :::
 
+
+
+```
 Private Sub ShowMyMessage()
- MessageBox.Show( \_ 
+ MessageBox.Show( _ 
  "Are you sure you want to delete the team project """ + strProjectName + """?"
- \_ + Environment.NewLine \_ +
- Environment.NewLine \_ +
- "Warning: Deleting a team project cannot be undone.", \_
- strProductName + " " + strVersion(), \_
- MessageBoxButtons.YesNo, \_
- MessageBoxIcon.Warning, \_
+ _ + Environment.NewLine _ +
+ Environment.NewLine _ +
+ "Warning: Deleting a team project cannot be undone.", _
+ strProductName + " " + strVersion(), _
+ MessageBoxButtons.YesNo, _
+ MessageBoxIcon.Warning, _
  MessageBoxDefaultButton.Button2)
 End Sub
+```
+
+
 
 
 

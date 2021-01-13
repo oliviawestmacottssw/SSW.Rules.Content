@@ -27,6 +27,7 @@ To make these changes navigate to:  **Admin Portal** |      **Custom Branding**
 
 Make your changes and save. That's it, you now have a branded Power BI Portal.
 
+
 ::: ok  
 ![Figure: Power BI Portal with Custom SSW Branding](powerbi-custom-branding.png)  
 :::

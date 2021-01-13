@@ -19,6 +19,7 @@ authors:
 related: []
 redirects:
 - do-you-understand-a-data-type-change-＂data-motion-scripts＂
+- do-you-understand-a-data-type-change--data-motion-scripts
 
 ---
 
@@ -29,10 +30,12 @@ Scripting out a schema change is easy, worrying about data is not. "'Data motion
 
 We have a 'Gender' column (that is a Boolean) storing 0's and 1's. All works well for a while.
 
+
 ::: ok  
 ![Figure: Anything wrong this Gender column?](TableBit.jpg)  
 :::
  Later you learn you need to change the data type to char(2) to support 'M', 'F', 'T', 'NA' and 'U'  
+
 ::: ok  
 ![Figure: Caster Semenya has taught us a thing or two about the right data type for Gender](CasterSemenya.jpg)  
 :::
@@ -43,11 +46,13 @@ We have a 'Gender' column (that is a Boolean) storing 0's and 1's. All works wel
 4. Delete the column ztGender\*
 
  \*Note: zt stands for Temporary  
+
 ::: ok  
 ![Figure: Changing the data type and data required a "Data Motion Script"](TableChar.jpg)  
 :::
 
 Visual Studio does not automatically support this scenario, as data type changes are not part of the refactoring tools. However, if you add pre and post scripting events to handle the data type change the rest of the changes are automatically handled for you.
+
 
 ::: ok  
 ![Figure: Don't use Data Dude](DataDude-BadExample.jpg)  
@@ -66,18 +71,25 @@ Using EF Code First Migrations is comparable to using one of the below combinati
 - <br>            [SQL Deploy](http://sqldeploy.com/)
 
 
+
+
+```
 public partial class GenderToString : DbMigration
     {
         public override void Up()
         {
-            AlterColumn("dbo.Customers", "Gender", c =&gt; c.String(maxLength: 2));
+            AlterColumn("dbo.Customers", "Gender", c => c.String(maxLength: 2));
         }
-
+        
+   
         public override void Down()
         {
-            AlterColumn("dbo.Customers", "Gender", c =&gt; c.Boolean(nullable: false));
+            AlterColumn("dbo.Customers", "Gender", c => c.Boolean(nullable: false));
         }
     }
+```
+
+
 
 ::: bad
 Bad Example - the default scaffolded migration will not perform any mapping of your data  
@@ -85,18 +97,24 @@ Bad Example - the default scaffolded migration will not perform any mapping of y
 
 
 
+
+
+```
 public partial class GenderToString : DbMigration
  {
  public override void Up()
  {
- AddColumn("dbo.Customers", "GenderTemp", c =&gt; c.Boolean(nullable: false));
+ AddColumn("dbo.Customers", "GenderTemp", c => c.Boolean(nullable: false));
  Sql("UPDATE [dbo].[Customers] set GenderTemp = Gender");
  DropColumn("dbo.Customers", "Gender");
- AddColumn("dbo.Customers", "Gender", c =&gt; c.String(maxLength: 2));
+ AddColumn("dbo.Customers", "Gender", c => c.String(maxLength: 2));
  Sql("UPDATE [dbo].[Customers] set Gender = 'M' where GenderTemp=1");
  Sql("UPDATE [dbo].[Customers] set Gender = 'F' where GenderTemp=0");
  DropColumn("dbo.Customers", "GenderTemp");
  }
+```
+
+
 
 ::: good
 Good Example - Data motion with EF Migrations

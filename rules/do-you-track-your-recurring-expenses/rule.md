@@ -31,7 +31,13 @@ With technological changes, comes a greater need to focus on tracking your subsc
 
 
 
+
+
+```
 1. Do you follow the rules to better tracking your recurring expenses?
+```
+
+
 
 
 A common solution many business owners used to solve the issues of tracking is by delegating the responsibilities to their finance team or accountant. This is a big assumption that they follow accurate and proper due process when completing the regular tracking procedures. 

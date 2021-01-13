@@ -15,9 +15,11 @@ Screenshots are a very important part of websites these days. Be careful to avoi
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - This screenshot includes personal browsers](Bad\_Screenshot-with-personal-data.JPG)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - This screenshot has been cropped to hide personal browsers](Good\_No-Personal-Info.jpg)  
@@ -28,6 +30,7 @@ Tips:
 1. Use a region screen shot if appropriate (however the URL is generally helpful in most browser screen shots)
 2. Go full screen e.g. F11 in Internet Explorer, then &lt;Alt&gt;+&lt;Print&gt;
 3. Always have the 'Auto-hide the taskbar' option checked
+
 
 ::: good  
 ![Figure: Always have the 'Auto-hide the taskbar' option checked so you do be screen shots](Good\_Auto-Hide-Taskbar.gif)  

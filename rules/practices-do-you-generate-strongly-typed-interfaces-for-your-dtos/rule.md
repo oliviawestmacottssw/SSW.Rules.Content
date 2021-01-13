@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - generate-interfaces-for-your-dtos
+- practices---do-you-generate-strongly-typed-interfaces-for-your-dtos
 
 ---
 
@@ -20,11 +21,13 @@ Inevitably, our well-engineered Angular application will need to send and receiv
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - The "any" type is used as the DTO for this service. There is no type safety.](dtogs-bad.png)  
 :::
 
 One step better is to manually create interfaces for the DTOs. This gives type safety, but still means a lot of manual, tedious work to generate the interfaces.
+
 
 ::: ok  
 ![Figure: OK example - Manually coded interface ensures any object passed to the service is in the correct format](dtogs-ok.png)  
@@ -36,6 +39,7 @@ If your WebAPI has an OpenAPI (a.k.a. Swagger) specification, then the NSwag too
 * HttpClient calls that return Observables
 * All defined endpoints implemented as methods in the service
 * All DTOs included as Typescript interfaces
+
 
 
 ::: good  

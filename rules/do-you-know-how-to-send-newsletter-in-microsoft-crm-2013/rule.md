@@ -25,43 +25,53 @@ There is more than one way to distribute a newsletter through CRM, such as throu
 The first time - use <br>       **Advanced Find** in CRM 2013, then save it as a System View. In the example below, we're only interested in New Zealand contacts.
 Subsequent times - Use the  **System View** , so everyone is using the same list.
 
+
 ::: ok
 ![Figure: From the CRM home screen, hover your mouse over “Workplace”, and then click “Contacts” in the menu that drops down](crm01.png)
 :::
+
 
 ::: ok
 ![Figure: From the “Activities” page, click “…” | “Advanced Find”. This will activate a pop-up.](crm02.png)
 :::
 
+
 ::: ok
 ![Figure: Select Contacts at Look For and specify a set of criteria to search for newsletter contacts](crm03.png)
 :::
 
+
 ::: ok
 ![Figure: then select "Results" to bring up contacts which match your search query](crm04 - results.png)
 :::
+
 
 ::: ok
 ![Figure: The result contacts that will get newsletter: these contacts allow us to "Send Marketing Material" and have a New Zealand email address or living country is New Zealand](crm05 - contacts list.png)
 :::
 2. First time only, save this as a System View. You will need a SysAdmin for this.
 3. Create the newsletter in Microsoft CRM 2013 using a <br>             **Quick Campaign** 
+
 ::: ok  
 ![Figure: Select "For All Records on All Pages" to create a Quick Campaign from the current contact list. This will bring up a Quick Campaign Wizard](crm06 - create quick campaign.png)  
 :::
+
 
 ::: ok
 ![Figure: Click Next and then specify the name of the quick campaign.](crm07 - name quick campaign.png)
 :::
 
+
 ::: ok
 ![Figure: Select the Activity Type and Owner.](crm08- own quick campaign.png)
 :::
+
 
 ::: ok
 ![Figure: Fill in newsletter content.](crm09 - add content.png)
 :::
     Use your preferred browser to view the content of the newsletter, select all (or use "Ctrl" + "A") and then copy and paste it in the Quick Campaign text area.
+
 
 ::: ok
 ![Figure: Highlight the keyword and click the Unsubscribe button to make a link for subscribers to unsubscribe themselves.](crm10 - unsubscribe.png)

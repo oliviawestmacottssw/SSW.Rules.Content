@@ -21,9 +21,11 @@ Whether you are converting an email to a blog post or writing it from scratch, a
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example, there are no instructions here](RulesBloggingFeedbackBad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example – Asking some questions at the end will solicit more feedback](RulesBloggingFeedbackGood.jpg)  

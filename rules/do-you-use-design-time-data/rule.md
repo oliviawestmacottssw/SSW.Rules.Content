@@ -20,6 +20,7 @@ The XAML previewer in Visual Studio is a useful tool for designing your Xamarin 
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - screenshot of XAML previewer with blank controls](design-time-bad.png)  
 :::
@@ -28,9 +29,16 @@ A simple solution to this problem is to use design-time data. By importing the r
  
 These are the namespaces to import, and the declaration to use them:
 
+
+
+```
 xmlns:d="http://xamarin.com/schemas/2014/forms/design"
 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
 mc:Ignorable="d"
+```
+
+
+
 
 ::: good  
 ![Figure: Good example - screenshot of XAML previewer with design-time data](design-time-good.png)  

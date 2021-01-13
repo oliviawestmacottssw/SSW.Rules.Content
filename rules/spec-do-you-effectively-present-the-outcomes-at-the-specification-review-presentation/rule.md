@@ -18,12 +18,14 @@ related: []
 redirects:
 - spec-do-you-effectively-present-the-outcomes-at-the-specification-review-presentation
 - spec-do-you-effectively-present-the-outcomes-at-the-＂specification-review-presentation＂
+- spec---do-you-effectively-present-the-outcomes-at-the-specification-review-presentation
 
 ---
 
 The findings of the Spec Review should be presented at a meeting with the key decision makers of the project for review and acceptance, generally in the form of a PowerPoint presentation, or sometimes a word doc. It is important that all the required people are in a room together to review the plan.
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: It's a lot easier to get a signature when you've got the right people in the room](ProjectManagement\_DecisionMakers\_Small.jpg)  
@@ -63,6 +65,7 @@ Figure: Good example – this is an appointment with a specific time for the nex
 * **Option C** - PowerPoint presentation (if they are the decision maker, and they don't want a doc)
 * **Option D** - Video of  PowerPoint presentation with narrations **exported to a video**  (the best option to gather more feedback, you can even gather public feedback E.g. PointBank https://sswconsulting.github.io/PointBank/).
 Make sure to name your video according to the rules on [How to Include Version Numbers in Your File](/post-production-do-you-use-a-version-number-on-your-videos), and add a version number to it by following the rule on How to Use a Version Number on Your Videos. Publish your video to YouTube afterwards so you can easily share it with colleagues and clients.
+
 
 
 ::: good  

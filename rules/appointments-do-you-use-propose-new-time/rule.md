@@ -14,6 +14,7 @@ related: []
 redirects:
 - use-propose-new-time
 - appointments-–-do-you-use-propose-new-time
+- appointments---do-you-use-propose-new-time
 
 ---
 
@@ -21,11 +22,13 @@ When you would like to propose a new time for an appointment that someone has se
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example: The person who sent the appointment has to interpret your message, then go back in and edit the appointment](decline.png)  
 :::
 
 Instead of simply declining the message and typing your proposed time in the message body, propose a new time as follows:
+
 
 ::: good  
 ![Figure: Good Example - Click one of these... and then...Figure: Good Example - The new time is proposed, and the person who sent the original appointment can easily accept your proposal (or view all proposals if there are multiple recipients)](Propose-new-time.png)  

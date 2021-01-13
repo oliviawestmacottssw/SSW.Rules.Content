@@ -26,6 +26,7 @@ There will be a lot of small quick query's against the Sitefinity SQL database a
 We recommend disabling all modules and only enabling items that you require.
     You can access the Module list via the Sitefinity backend.
 
+
 ::: ok  
 ![Figure: Administration -&gt; System -&gt; Modules](sitefinity-admin-module.jpg)  
 :::

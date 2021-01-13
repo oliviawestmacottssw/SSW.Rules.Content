@@ -24,6 +24,7 @@ When adding a friendly URL, please avoid using specific characters like “+, :,
 
 Some characters are reserved characters, which may not be supported by some features, based on our experience, “+" is not supported in “canonical" to redirect from      **http**  to      **https** .
 
+
 ::: ok  
 ![](sharepoint-characters-not-allowed.jpg)  
 :::

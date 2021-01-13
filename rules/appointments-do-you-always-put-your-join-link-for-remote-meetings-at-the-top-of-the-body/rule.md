@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - join-link-at-the-top
+- appointments---do-you-always-put-your-join-link-for-remote-meetings-at-the-top-of-the-body
 
 ---
 
@@ -20,9 +21,11 @@ By default, when you click the button to turn an appointment into a Teams Meetin
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example – join link gets lost](join-link-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example – easy to know what to click on](join-link-good.jpg)  

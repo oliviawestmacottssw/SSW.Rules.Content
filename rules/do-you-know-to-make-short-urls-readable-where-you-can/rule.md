@@ -45,6 +45,7 @@ So you should only 'Auto Shorten URLs' when it is too long and you need the spac
 
 However, it is becoming more prevalent for the software to support showing the full URL on rollover.
 
+
 ::: good  
 ![Figure: Good example – the application does the heavy lifting for you](RulesSocialTwitterReadableURL.jpg)  
 :::

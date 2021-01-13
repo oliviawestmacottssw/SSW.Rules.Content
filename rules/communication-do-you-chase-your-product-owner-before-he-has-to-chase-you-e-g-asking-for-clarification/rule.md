@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-chase-your-manager-before-he-has-to-chase-you-(e-g-asking-for-clarification)
+- communication---do-you-chase-your-product-owner-before-he-has-to-chase-you-eg-asking-for-clarification
 - communication-do-you-chase-your-product-owner-before-he-has-to-chase-you-(e-g-asking-for-clarification)
 
 ---

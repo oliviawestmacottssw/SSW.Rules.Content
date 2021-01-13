@@ -26,6 +26,7 @@ Never allow a situation where a developer can check out code and the code does n
 5. Check In
 
 Figure: Bad example - wrong process
+
 ::: ok  
 ![Figure: Before you start cooking prepare all your ingredients. Before you start coding, "Get Latest" the right way](BeforeCoding.jpg)  
 :::

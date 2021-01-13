@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- controls---do-you-include-the-number-of-results-in-comboboxes
 
 ---
 
@@ -17,6 +18,7 @@ When designing your form, you should try to help your user whenever it's possibl
 
 <!--endintro-->
 For Web Pages 
+
 ::: good  
 ![Figure: Good example – combo-box with multiple columns](combo-box-multiple-col.jpg)  
 :::
@@ -25,11 +27,14 @@ For Web Pages
 2. **HTML (Razor)** 
 Create a combo-box that has a custom template. Use a code bellow as an example:
 
-@(Html.Kendo().ComboBoxFor(x =&gt; x.EmpTime.ProjectID)
+
+
+```
+@(Html.Kendo().ComboBoxFor(x => x.EmpTime.ProjectID)
 .AutoBind(true)
 .Suggest(true)
 .Delay(300)
-.DataSource(source =&gt; source.Read(read =&gt; read.Action("ProjectNameAjaxBind", "Ajax")
+.DataSource(source => source.Read(read => read.Action("ProjectNameAjaxBind", "Ajax")
 .Data("function() { return {clientId : getClientId()}; }")
 .Type(HttpVerbs.Post)))
 .Height(450)
@@ -37,18 +42,19 @@ Create a combo-box that has a custom template. Use a code bellow as an example:
 .DataValueField("Value")
 .Filter(FilterType.Contains)
 .Template(@"
-&lt;table class='comboBox-Projects'&gt;
-&lt;tr&gt;
-&lt;td class='projectName'&gt;${data.DisplayText}&lt;/td&gt;
-&lt;td class='projectTotalCount'&gt;${data.UsedCount}&lt;/td&gt;
-&lt;td class='projectLastUsed'&gt;${data.LastUsedText}&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+<table class='comboBox-Projects'>
+<tr>
+<td class='projectName'>${data.DisplayText}</td>
+<td class='projectTotalCount'>${data.UsedCount}</td>
+<td class='projectLastUsed'>${data.LastUsedText}</td>
+</tr>
+</table>
 ")
 .HighlightFirst(false)
 .IgnoreCase(true)
-.Events(e =&gt; e.Change("projectChanged").Open("onProjectOpened"))
+.Events(e => e.Change("projectChanged").Open("onProjectOpened"))
 )
+```
 3. **CSS** 
 Customize the look & feel to suit your needs.
 
@@ -65,23 +71,28 @@ Use JavaScript to change the combo-box's behaviour.
 
 ### For Windows Forms
 
+
 ::: bad  
 ![Figure: Bad Example - You can't tell the number of results and there is a scroll bar](../../assets/ComboWF-1.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - The number of results is clearly displayed. Long text boxes &gt; 30 entries, another approach can be employed - putting the common ones at the top](../../assets/ComboWF-2.jpg)  
 :::
 
+
 ::: bad  
 ![Figure: Bad Example - Firstly because it is manual, plus what about the 4th, 5th, etc most common used countries](../../assets/Rule38LongTextCombobox.jpg)  
 :::
+
 
 ::: bad  
 ![Figure: Bad Example – This was a highly unpopular method of the sorting and counting above](../../assets/rule38SortableCombobox.jpg)  
 :::
 
 We believe all combos should be able to be sorted ascending/descending and by popularity asc/desc.
+
 
 ::: good  
 ![Figure: Good Example - Is there a better way to sort this?](sort-alpha-numeric.jpg)  

@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-you-only-do-what-you-think-is-right
+- general---ethics---do-you-only-do-what-you-think-is-right-professional-integrity
 - general-ethics-do-you-only-do-what-you-think-is-right-(professional-integrity)
 
 ---

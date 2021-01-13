@@ -26,6 +26,7 @@ Here is how you do it in Advanced Installer:
 3. Next to the text add <br>      [|ProductVersion]. If the text-box is empty you may want to start it with <br>      [|ProductName]
 
 
+
 ::: ok  
 ![Figure: Advanced Installer - Add version to output package](installer-add-version-number.jpg)  
 :::

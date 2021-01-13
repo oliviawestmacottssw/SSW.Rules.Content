@@ -15,10 +15,15 @@ Distinguishing visited links is very helpful to show where       users have been
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Visited links are marked different from unvisited.](../../assets/VisitedLinks.gif)  
 :::
 
 Specifying style for visited links is very simple. Just add this to your CSS file:
 
+
+
+```
 A:visited { color: purple; }
+```

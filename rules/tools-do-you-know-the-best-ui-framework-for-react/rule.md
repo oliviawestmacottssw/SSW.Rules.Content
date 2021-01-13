@@ -7,7 +7,8 @@ uri: tools-do-you-know-the-best-ui-framework-for-react
 created: 2019-05-16T06:19:43.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- tools---do-you-know-the-best-ui-framework-for-react
 
 ---
 
@@ -25,6 +26,7 @@ Ant Design     [https://ant.design](https://ant.design/)
 
 
 MaterialUI is a set of React Components that Implement the [Google’s Material Design](https://material.io/guidelines/material-design/introduction.html) Guidelines. When it comes to predefined components especially UI, one important thing we need to find is how many UI widgets are available and whether these can be customized with configurations. Material-UI has all components that you need and it is very configurable with predefined color palette. Material UI is one of the best Reactjs based UI frameworks that have the most refined implementation of Material Design.
+
 
 
 

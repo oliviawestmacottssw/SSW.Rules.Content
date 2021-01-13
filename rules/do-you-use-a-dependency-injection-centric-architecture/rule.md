@@ -11,7 +11,8 @@ authors:
 - title: Igor Goldobin
   url: https://ssw.com.au/people/igor-goldobin
 related: []
-redirects: []
+redirects:
+- do-you-use-a-dependency-injection-centric-architecture-
 
 ---
 

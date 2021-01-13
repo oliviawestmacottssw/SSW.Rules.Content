@@ -19,6 +19,7 @@ Generally speaking, the more time that passes after an initial meeting, the less
 
 For this reason, it's a good idea to try and get the spec review booked in straight off the back of the initial meeting, or as close to as possible.
 
+
 ::: ok  
 ![Figure: The chance of a Spec Review be successful decreases over time](Chance of sale decreasing.png)  
 :::

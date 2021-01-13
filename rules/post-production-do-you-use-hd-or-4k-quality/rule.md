@@ -14,6 +14,7 @@ related: []
 redirects:
 - post-production-high-quality
 - post-production-do-you-use-sd-or-hd-quality
+- post-production---do-you-use-hd-or-4k-quality
 
 ---
 
@@ -38,15 +39,18 @@ After your videos recorded and edited using your editor of choice, you need to c
 * In the Audio tab| Bitrate Settings | Bitrate [kbps] | 320kbps
 
 
+
 ::: ok  
 ![Figure: Figure: Video Export settings in Premiere Pro](export-premiere1.png)  
 :::
+
 
 ::: ok  
 ![Figure: Audio Export settings in Premiere Pro](export-premiere2.png)  
 :::
 
 ### Export Settings for Camtasia
+
 
 ::: ok  
 ![Figure: Camtasia export settings](export-camtasia.png)  

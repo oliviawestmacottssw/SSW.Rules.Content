@@ -58,6 +58,7 @@ Depending on how many contacts you are going to send the newsletter to, you shou
 
 1.   Go to   **Main | Marketing | Marketing Lists**
 
+
 ::: ok  
 ![Figure: This is where you can find your Marketing Lists in Microsoft Dynamics CRM 2016](Go-To-Marketing-Lists.jpg)  
 :::
@@ -66,11 +67,13 @@ Depending on how many contacts you are going to send the newsletter to, you shou
 
 3.   Go to  **... | Mail Merge on List Members** (in the menu bar)
 
+
 ::: ok  
 ![Figure: Click the ellipsis button to reveal the Mail Merge option](Go-To-Mail-Merge-On-List-Members.jpg)  
 :::
 
 4.   Select Email as the mail merge type, choose your starting document, (optional) select data fields to use, and download the .docx
+
 
 
 
@@ -81,11 +84,13 @@ Depending on how many contacts you are going to send the newsletter to, you shou
 5.   Open the document in Word and follow the instructions in the document to start the Mail Merge
 
 
+
 ::: ok  
 ![Figure: Follow these steps to start working on the mail merge](Set-Up-Word-Document.jpg)  
 :::
 
 6.   Exclude contacts and press  **OK**
+
 
 ::: ok  
 ![Figure: Choose the recipients for your mail merge and proceed](Select-Contacts.jpg)  
@@ -97,6 +102,7 @@ For a nicer editing experience (especially with HTML newsletter), switch to the 
 
 8.   If necessary, go to  **File | (Info) | Convert** to update the Word document to the newest version - this will solve styling issues while not breaking the mail merge
 
+
 ::: ok  
 ![Figure: Convert the mail merge document to the newest version](Convert-Document.jpg)  
 :::
@@ -105,6 +111,9 @@ For a nicer editing experience (especially with HTML newsletter), switch to the 
 
 For help on adding a macro to Word see the [Microsoft Office Support website](https://support.office.com/en-us/article/Create-or-run-a-macro-c6b99036-905c-49a6-818a-dfb98b7c3c9c).
 
+
+
+```
 Sub InsertNewsletterLink()
 '
 ' InsertNewsletterLink Macro
@@ -119,9 +128,9 @@ Sub InsertNewsletterLink()
         .Execute
     End With
     ActiveDocument.Fields.Add Range:=Selection.Range, Type:=wdFieldHyperlink
-
+    
 'Switch to alternative view so we can modify the content of the hyperlink "manually"
-    ActiveDocument.ActiveWindow.View.ShowFieldCodes = \_
+    ActiveDocument.ActiveWindow.View.ShowFieldCodes = _
      Not ActiveDocument.ActiveWindow.View.ShowFieldCodes
  
     With Selection.Find
@@ -131,53 +140,53 @@ Sub InsertNewsletterLink()
         .MatchWholeWord = True
         .Execute
     End With
-
-    Selection.InsertAfter " ""https://www.ssw.com.au/ssw/NETUG/Unsubscribe.aspx?email=&lt;&lt;EMAIL&gt;&gt;"
-
-    'Insert word mail merge fields on &lt;&lt;EMAIL&gt;&gt; and &lt;&lt;CONTACT&gt;&gt;
-
+    
+    Selection.InsertAfter " ""https://www.ssw.com.au/ssw/NETUG/Unsubscribe.aspx?email=<<EMAIL>>"
+    
+    'Insert word mail merge fields on <<EMAIL>> and <<CONTACT>>
+    
     With Selection.Find
         .Forward = False
         .Wrap = wdFindStop
-        .Text = "&lt;&lt;EMAIL&gt;&gt;"
+        .Text = "<<EMAIL>>"
         .MatchWholeWord = True
         .Execute
     End With
-
+    
     ActiveDocument.Fields.Add Range:=Selection.Range, Type:=wdFieldMergeField, Text:="EMAIL"
-
-    Selection.InsertAfter "&id=&lt;&lt;CONTACT&gt;&gt;"
-
+    
+    Selection.InsertAfter "&id=<<CONTACT>>"
+    
     With Selection.Find
         .Forward = False
         .Wrap = wdFindStop
-        .Text = "&lt;&lt;CONTACT&gt;&gt;"
+        .Text = "<<CONTACT>>"
         .MatchWholeWord = True
         .Execute
     End With
-
+    
     ActiveDocument.Fields.Add Range:=Selection.Range, Type:=wdFieldMergeField, Text:="CONTACT"
     Selection.InsertAfter """"
-
+    
     Selection.MoveRight Unit:=wdCharacter, Count:=1
-
+    
 'Remove the additional MERGEFORMATs
-
+    
 For counter = 0 To 1
     With Selection.Find
         .Forward = False
         .Wrap = wdFindStop
-        .Text = "\\* MERGEFORMAT "
+        .Text = "\* MERGEFORMAT "
         .MatchWholeWord = True
         .Execute
     End With
     Selection.Delete
     Next counter
-
+    
 'Switch back to normal view so we can change what the hyperlink looks like to the user
-    ActiveDocument.ActiveWindow.View.ShowFieldCodes = \_
+    ActiveDocument.ActiveWindow.View.ShowFieldCodes = _
      Not ActiveDocument.ActiveWindow.View.ShowFieldCodes
-
+     
     With Selection.Find
         .Forward = True
         .Wrap = wdFindStop
@@ -187,12 +196,15 @@ For counter = 0 To 1
     End With
     Selection.Text = "UNSUBSCRIBE"
     Selection.Font.Bold = False
-
+    
     Selection.Font.Underline = wdUnderlineSingle
-
+            
     Selection.HomeKey Unit:=wdStory
-
+         
 End Sub
+```
+
+
 
 
 
@@ -204,6 +216,7 @@ End Sub
  
 
 11.   Send the mail merge newsletter to the email address property of every contact by selecting the following
+
 
 ::: ok  
 ![Figure:  Example configuration for the email that is about to be sent](Verify-Changes.jpg)  

@@ -7,7 +7,8 @@ uri: sound-do-you-realize-the-importance-of-sounds-to-user-interface
 created: 2012-11-27T02:56:10.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- sound---do-you-realize-the-importance-of-sounds-to-user-interface
 
 ---
 
@@ -24,6 +25,7 @@ Out of the box, you'll get a sound with error messages. You'll still need to add
 
 
 However, not everyone likes sounds, so we think it is also important to have an option to disable sounds in your application.
+
 
 ::: good  
 ![Figure: Good Example - Turning on Feedback with sound in Outlook](../../assets/Sound.gif)  

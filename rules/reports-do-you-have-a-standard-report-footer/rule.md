@@ -7,7 +7,8 @@ uri: reports-do-you-have-a-standard-report-footer
 created: 2014-12-01T05:46:16.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- reports---do-you-have-a-standard-report-footer
 
 ---
 

@@ -24,7 +24,13 @@ Having these relevant words on links also gives a more friendly experience to 
 
 <!--endintro-->
  For example, if SSW had a million inbound links that described the site like this...  
-&lt;a href="http://www.ssw.com.au"&gt;Movies for Free&lt;/a&gt;
+
+
+```
+<a href="http://www.ssw.com.au">Movies for Free</a>
+```
+
+
 ...when someone searches for "free movies" on Google, it would point to us.  
 So what does this mean? All those that are pointing to pages on your website that are displayed as 'More', 'Link', 'This' or 'Click Here' aren't doing you any favors when it comes to increasing your Google rankings.
 

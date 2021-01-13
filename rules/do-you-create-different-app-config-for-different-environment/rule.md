@@ -9,7 +9,8 @@ authors:
 - title: Andy Taslim
   url: https://ssw.com.au/people/andy-taslim
 related: []
-redirects: []
+redirects:
+- do-you-create-different-appconfig-for-different-environment
 
 ---
 

@@ -23,6 +23,7 @@ Turning this option on all the time effectively throws the option away, not just
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Selectively request read receipts so as not to annoy your recipient.](OutlookReceiptRequest.gif)  
 :::

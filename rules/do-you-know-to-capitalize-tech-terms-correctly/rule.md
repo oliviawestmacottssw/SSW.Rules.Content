@@ -19,6 +19,7 @@ With so many different capitalization conventions used in technology names, it c
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: John Bristowe tackled some of the most commonly confused tech names in this tweet](john-bristow-tweet.jpg)  
 :::
@@ -55,9 +56,11 @@ Here’s a quick overview:
 > | Scrum<br><br> | Only first letter capitalized<br><br>(Note: it is not an acronym, so it should never be spelled "SCRUM") |
 
 
+
 ::: bad  
 ![Figure: Bad example - If you want to be taken seriously as an expert in the subject, you should properly and consistently spell, punctuate, and capitalize the technology you are working with](bad-example-incorrect-capitalization.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example – the technology is consistently capitalized correctly across the page](good-example-correctly-capitalized.jpg)  

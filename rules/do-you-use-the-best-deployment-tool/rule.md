@@ -30,6 +30,7 @@ There are two main reasons you should separate your deployment from your build p
 
 The best tool for deployments is [Octopus Deploy](https://octopus.com/).
 
+
 ::: good  
 ![Figure: Good Example - SSW uses Octopus Deploy to deploy Sugar Learning](SugarLearningOctopus.png)  
 :::
@@ -46,6 +47,7 @@ Then you should use an FTP client, which allows you to update files you have cha
 This process allows you to keep a local copy of your live website on your machine - a great backup as a side effect.
 
 Whenever you make changes on the website, as soon as they are approved they will be uploaded. You should tick the box that says "sync sub-folders", but when you click sync be careful to check any files that may be marked for a reverse sync. You should reverse the direction on these files. For most general editing tasks, changes should be uploaded as soon as they are done. Don't leave it until the end of the day. You won't be able to remember what pages you've changed. And when you upload a file, you should sync EVERY file in that directory. It's highly likely that un-synced files have been changed by someone, and forgotten to be uploaded. And make sure that deleted folders in the local server are deleted in the  remote server.
+
 
 ::: ok  
 ![](ticksubfolders.jpg)  

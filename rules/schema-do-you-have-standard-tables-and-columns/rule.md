@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - have-standard-tables-and-columns
+- schema---do-you-have-standard-tables-and-columns
 
 ---
 
@@ -32,6 +33,7 @@ redirects:
 <!--endintro-->
 
 The first three are examples of bad table records. The last one is an example of how this table structure should be entered.
+
 
 ::: ok  
 ![Figure: 3 bad examples and 1 good example of Row auditing](imgGoodBadPracticesExampleSQLFields.png)  

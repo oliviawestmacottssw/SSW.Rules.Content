@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - when-you-use-@-mentions-in-a-pbi
+- do-you-know-when-you-use--mentions-in-a-pbi
 - do-you-know-when-you-use-@-mentions-in-a-pbi
 
 ---
@@ -22,6 +23,7 @@ When the Product Owner verbally requests a change to a PBI, how do you update th
 <!--endintro-->
 
 You could send yourself a "[To Myself](/dones-do-you-send-yourself-emails)" email and update the PBI description accordingly, but only those people included in the email chain are aware of the conversation.
+
 
 ::: bad  
 ![Figure: Bad Example – don't use emails to update tasks](bad-mention-pbi.jpg)  
@@ -58,15 +60,18 @@ Good example: "I have found the PBI, prioritized it near the top, and @mentioned
 ### Azure DevOps PBIs
 
 
+
 ::: good  
 ![Figure: Good Example – Using @ mentions in Azure DevOps discussion](good-mention-pbi.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example – Email still gets sent to the users who are mentioned in the discussion, so they can still chime in if any details are incorrect](good-mention-pbi-2.jpg)  
 :::
 
 ### GitHub Issues
+
 
 
 ::: good  

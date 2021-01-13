@@ -19,19 +19,31 @@ Do not put "Exit Sub" statements before the "End Sub". The function will end on 
 
 <!--endintro-->
 
+
+
+```
 Private Sub SomeSubroutine()
 'Your code here....
 Exit Sub ' Bad code - Writing Exit Sub before End Sub.
 End Sub
+```
+
+
 
 ::: bad
 Bad example
 
 :::
 
+
+
+```
 Private Sub SomeOtherSubroutine()
 'Your code here....
 End Sub
+```
+
+
 
 ::: good
 Good example

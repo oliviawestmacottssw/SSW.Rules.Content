@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- customization---do-you-use-a-supported-method-of-customization
 
 ---
 
@@ -27,6 +28,7 @@ The common ways to customize are:
 
 
 The diagram below briefly outlines what are possible supported methods of customization.
+
 
 ::: ok  
 ![Figure: Microsoft CRM Customization Architecture](CRM\_Customization\_Architecture.JPG)  

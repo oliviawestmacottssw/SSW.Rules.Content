@@ -16,6 +16,7 @@ authors:
   url: https://ssw.com.au/people/tristan-kurniawan
 related: []
 redirects:
+- check-in-before-lunch-and-dinner-do-you-work-in-small-chunks--check-in-after-completing-each-one
 - (check-in-before-lunch-and-dinner)-do-you-work-in-small-chunks-check-in-after-completing-each-one
 
 ---

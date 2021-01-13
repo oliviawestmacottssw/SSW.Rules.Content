@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-you-give-120-when-deadlines-are-tight
+- quality---do-you-give-120-when-deadlines-are-tight
 
 ---
 

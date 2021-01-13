@@ -15,7 +15,8 @@ authors:
 - title: Tristan Kurniawan
   url: https://ssw.com.au/people/tristan-kurniawan
 related: []
-redirects: []
+redirects:
+- comment---do-you-know-the-comment-convention-you-should-use
 
 ---
 

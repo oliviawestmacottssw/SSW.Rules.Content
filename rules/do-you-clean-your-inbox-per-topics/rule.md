@@ -23,6 +23,7 @@ Your inbox should be a [task list](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e0
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good example - Search for "SugarLearning", reply 'done' to all emails and delete them](clean-inbox-by-topic-outlook-search.png)  
 :::

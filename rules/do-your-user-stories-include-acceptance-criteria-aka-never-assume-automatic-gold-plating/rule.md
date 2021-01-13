@@ -31,11 +31,13 @@ There are 2 parts to getting this right. The Acceptance Criteria, then the Accep
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: You need a common language to communicate in](DevsAndUsers.jpg)  
 :::
 
 **Acceptance Criteria** (from the Product Owner) define the exact requirements that must be met for the story to be completed. They answer the question, "How will I know when I' m done with the story?"
+
 
 ::: ok  
 ![Figure: A User Story with Acceptance Criteria (MSF Agile Template)](acceptance-criteria.jpg)  

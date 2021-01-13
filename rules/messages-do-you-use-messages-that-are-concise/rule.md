@@ -7,7 +7,8 @@ uri: messages-do-you-use-messages-that-are-concise
 created: 2012-11-27T04:41:51.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- messages---do-you-use-messages-that-are-concise
 
 ---
 
@@ -26,11 +27,13 @@ It is important to use terminology that your users will understand. Do not to us
 * You may be out of memory.
 
 
+
 ::: bad  
 ![Figure: Bad Example - Is it OK to Cancel?](../../assets/Bad-MessageBoxZango.jpg)  
 :::
 
 Microsoft uses this one:
+
 
 ::: good  
 ![Figure: Good Example - Microsoft error message is concise](../../assets/NotEnoughMemory.gif)  

@@ -21,15 +21,23 @@ When you embed a YouTube video it will increase your page size from 500kbs to 1.
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: A side by side comparison – everyone wants less requests and a smaller page size](video-embed-load-time.png)  
 :::
+
 
 ::: bad  
 ![Figure: Bad example - Don’t add embed code directly from YouTube. For more details read "A Better Method for Embedding YouTube Videos on your Website"](video-embed-bad.png)  
 :::
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eu0qhzevEXQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu0qhzevEXQ" frameborder="0" allowfullscreen></iframe>
+```
+
+
 
 ::: bad
 Figure: Bad example – The evil HTML code  
@@ -38,7 +46,13 @@ Figure: Bad example – The evil HTML code
 There is a clever, lightweight way to embed a YouTube video, which Google itself practices on their Google+ pages which reduce it to 15kbs.
 All you have to do is, whenever you need to embed a video to a page, add the below tag instead of the YouTube video embed code. (Remember to replace VIDEO\_ID with actual ID of the YouTube video)
 
-&lt;div class="youtube-player" data-id="VIDEO\_ID"&gt;&lt;/div&gt;
+
+
+```
+<div class="youtube-player" data-id="VIDEO_ID"></div>
+```
+
+
 
 ::: good
 Figure: Good example – The good HTML code  
@@ -47,14 +61,17 @@ Figure: Good example – The good HTML code
 
 **Note:** This script needs to be added at the end of the document:
 
-&lt;script&gt;
-/\* Light YouTube Embeds by @labnol \*/
-/\* Web: http://labnol.org/?p=27941 \*/
+
+
+```
+<script>
+/* Light YouTube Embeds by @labnol */
+/* Web: http://labnol.org/?p=27941 */
 document.addEventListener("DOMContentLoaded",
 function() {
 var div, n,
 v = document.getElementsByClassName("youtube-player");
-for (n = 0; n &lt; v.length; n++) {
+for (n = 0; n < v.length; n++) {
 div = document.createElement("div");
 div.setAttribute("data-id", v[n].dataset.id);
 div.innerHTML = labnolThumb(v[n].dataset.id);
@@ -63,8 +80,8 @@ v[n].appendChild(div);
 }
 });
 function labnolThumb(id) {
-var thumb = '&lt;img src="https://i.ytimg.com/vi/ID/hqdefault.jpg"&gt;',
-play = '&lt;div class="play"&gt;&lt;/div&gt;';
+var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',
+play = '<div class="play"></div>';
 return thumb.replace("ID", id) + play;
 }
 function labnolIframe() {
@@ -75,15 +92,21 @@ iframe.setAttribute("frameborder", "0");
 iframe.setAttribute("allowfullscreen", "1");
 this.parentNode.replaceChild(iframe, this);
 }
-&lt;/script&gt;
+</script>
+```
+
+
 
 ..and this needs to be added in the CSS:
 
-&lt;style&gt;
+
+
+```
+<style>
 .youtube-player {
 position: relative;
 padding-bottom: 56.23%;
-/\* Use 75% for 4:3 videos \*/
+/* Use 75% for 4:3 videos */
 height: 0;
 overflow: hidden;
 max-width: 100%;
@@ -130,4 +153,5 @@ position: absolute;
 background: url("//i.imgur.com/TxzC70f.png") no-repeat;
 cursor: pointer;
 }
-&lt;/style&gt;
+</style>
+```

@@ -23,6 +23,7 @@ When building a web application, it is common that you will need icons in the UI
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - using images for application icons can generate a lot of pain](23-06-2014 11-20-02 AM.png)  
 :::
@@ -35,12 +36,14 @@ Using it on your project is easy, just use your email and register on their webs
 
 There are hundreds of icons. Here are a few commonly used ones:
 
+
 ::: ok  
 ![Figure: Examples of Font Awesome icons](18-06-2014 2-33-45 PM.png)  
 :::
 Read the  ["Basic Use" documentation](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
 
 If you are using  **Azure** , there is an awesome icon collection with several options for you to use: http://code.benco.io/icon-collection/
+
 
 
 ::: good  

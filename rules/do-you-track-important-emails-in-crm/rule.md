@@ -25,6 +25,7 @@ Whenever you email a client with a correspondence that relates to an existing CR
 
 The simplest way is when writing or receiving the email, in Outlook click the Dynamics 365 CRM           button and then "Track without Regarding" to the opportunity in question.
 
+
 ::: ok  
 ![Figure: When you receive an important email, click the 'Track without Regarding' button in             on the Dynamics sidebarNow you know the general principle, the next step is to determine what activities are worth tracking: Sales - Do you track all sales related activities in CRM?](Track-an-appointment.jpg)  
 :::

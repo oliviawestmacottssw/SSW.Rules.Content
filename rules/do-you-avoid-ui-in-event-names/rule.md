@@ -19,6 +19,9 @@ The handler of the event should then do something on the UI.
 
 <!--endintro-->
 
+
+
+```
 private void RaiseUIUpdateBidButtonsRed()
 {
 if (UIUpdateBidButtonsRed != null)
@@ -26,6 +29,9 @@ if (UIUpdateBidButtonsRed != null)
 UIUpdateBidButtonsRed();
 }
 }
+```
+
+
 
 ::: bad
 Bad Code: Avoid "UI" in event names, an event is UI un-aware  
@@ -33,6 +39,9 @@ Bad Code: Avoid "UI" in event names, an event is UI un-aware
 
 
 
+
+
+```
 private void RaiseSelectedLotUpdated()
 {
 if (SelectedLotUpdated != null)
@@ -40,6 +49,9 @@ if (SelectedLotUpdated != null)
 SelectedLotUpdated();
 }
 }
+```
+
+
 
 ::: good
 Good Code: We received an update on the currently selected item, change the UI correspondingly (or even better: use MVVM and data binding)  

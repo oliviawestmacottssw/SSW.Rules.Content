@@ -20,11 +20,13 @@ While editing your mail merge template in Microsoft Word, you can add CRM data f
 
 1. While you're editing your mail merge template in Microsoft Word, click the  **Mailings** tab.
 
+
 ::: ok
 ![Figure: Click the Mailings tab](insert-mail-merge-1.jpg)
 :::
 2. Click  **Insert Merge Field** on the Ribbon.
 3. Select the field from Microsoft CRM that you want to insert, in this case I'm inserting<br>                            contact's first name.
+
 
 ::: ok
 ![Figure: Insert contact's first name in mail merge template](insert-mail-merge-2.jpg)

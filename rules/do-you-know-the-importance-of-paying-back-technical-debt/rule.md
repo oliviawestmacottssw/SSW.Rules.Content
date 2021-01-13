@@ -44,6 +44,7 @@ As new features are added to the system, often more Technical Debt will be intro
 * $80 - IOU via PBI in the backlog e.g. [FeatureName] – Tech Debt - Planned
 
 
+
 ::: good  
 ![Figure: Good example - Tech Debt is very visible to the Product Owner](tech-debt-good-example.png)  
 :::
@@ -95,13 +96,16 @@ At the Sprint Planning:
 ### Screenshots
 
 
+
 ::: ok  
 ![Figure: Screenshot of code with tech debt comment and link to GitHub issue](techdebt-github.png)  
 :::
 
+
 ::: ok  
 ![Figure: Screenshot of tech debt on backlog](techdebt-backlog.png)  
 :::
+
 
 ::: ok  
 ![Figure: SugarLearning architecture diagram](techdebt-architecture.png)  

@@ -29,11 +29,13 @@ PowerShell Universal is a platform to make websites, dashboards, and scripts usi
 
 For example, SSW uses PowerShell Universal Dashboards to automate repeating SysAdmin tasks and create a nice user interface to run them:
 
+
 ::: good  
 ![Figure: Good Example - Dashboard to automate employee's leaving standard](automated-standard.png)  
 :::
 
 Running commands directly in the PowerShell CLI without data, schedule or a nice UI is a thing of the past, and you should be using the capabilities of PowerShell Universal to keep your scripts well maintained.
+
 
 ::: bad  
 ![Figure: Bad Example - Running commands by hand directly](running-commands-hand.png)  

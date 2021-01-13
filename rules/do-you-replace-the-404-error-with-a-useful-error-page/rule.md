@@ -23,16 +23,28 @@ A well-designed custom error page encourages surfers to remain in your site and 
 
 <!--endintro-->
 
-&lt;customErrors mode="Off"&gt;&lt;/customErrors&gt;
+
+
+```
+<customErrors mode="Off"></customErrors>
+```
+
+
 
 ::: bad
 Figure: This is the default code on web.config 
 
 :::
 
-&lt;customErrors mode="RemoteOnly" defaultRedirect="/ssw/ErrorPage.aspx"&gt;
-&lt;error statusCode="404" redirect="/ssw/SSWCustomError404.aspx"&gt;
-&lt;/customErrors&gt;
+
+
+```
+<customErrors mode="RemoteOnly" defaultRedirect="/ssw/ErrorPage.aspx">
+<error statusCode="404" redirect="/ssw/SSWCustomError404.aspx">
+</customErrors>
+```
+
+
 
 ::: good
 Figure: this is the current code in the web.config of the SSW Site  
@@ -42,15 +54,23 @@ For ASP.NET website, the detailed information would be presented to the remote m
 
 This error information is useful for the developer to do debugging. However, it would leak out some confidential information which could be used to get into your system by the hackers. We can assume that if a SQL exception occurs by accident, which may expose database sensitive information (e.g. connection string; SQL script). So, to prevent these leaks, you should set the "mode" attribute of the tag &lt;customerrors&gt; to "RemoteOnly" or "On" in the web.config file and create a user-friendly customized error page to replace the detailed error information.
 
-&lt;customErrors mode="RemoteOnly" defaultRedirect="GenericErrorPage.htm"&gt;&lt;/customErrors&gt;
+
+
+```
+<customErrors mode="RemoteOnly" defaultRedirect="GenericErrorPage.htm"></customErrors>
+```
+
+
 
 ::: good
 Figure: Turning on "customErrors" protects sensitive information against Hacker  
 :::
 
+
 ::: bad  
 ![Figure: Bad example - Unhandled error](404-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - Custom error page](404-good.jpg)  

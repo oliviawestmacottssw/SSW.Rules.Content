@@ -18,14 +18,26 @@ Unit test classes should be suffixed with the word "Tests" for better coding rea
 
 <!--endintro-->
 
+
+
+```
 [TestFixture] public class SqlValidatorReportTest { }
+```
+
+
 
 ::: bad
 Bad - Unit test class is not suffixed with "Tests"
 
 :::
 
+
+
+```
 [TestFixture] public class HtmlDocumentTests { }
+```
+
+
 
 ::: good
 Good - Unit test class is suffixed with "Tests"

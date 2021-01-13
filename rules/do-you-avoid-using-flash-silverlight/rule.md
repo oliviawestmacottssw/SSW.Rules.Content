@@ -11,7 +11,8 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects: []
+redirects:
+- do-you-avoid-using-flashsilverlight
 
 ---
 

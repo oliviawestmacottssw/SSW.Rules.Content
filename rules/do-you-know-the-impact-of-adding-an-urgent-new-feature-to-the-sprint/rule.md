@@ -25,6 +25,7 @@ Understanding the impact of slotting in a new request into the sprint is importa
 
 <!--endintro-->
 **Tip:** If you're using Project Server, you can see the impact on the timeline visually in the "Tracking Gantt". 
+
 ::: ok  
 ![Figure: Project Server Tracking Gantt tells us the deviations from the baseline estimates](gantt-chart.jpg)  
 :::

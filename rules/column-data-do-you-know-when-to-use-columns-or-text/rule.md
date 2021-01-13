@@ -7,7 +7,8 @@ uri: column-data-do-you-know-when-to-use-columns-or-text
 created: 2012-11-27T01:59:48.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- column-data---do-you-know-when-to-use-columns-or-text
 
 ---
 
@@ -19,6 +20,7 @@ It's OK to use text because it's more natural, but use columns if you need:
 
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: While text looks friendlier, in terms of presenting data it's not the easiest to read](../../assets/ColumnsText.jpg)  

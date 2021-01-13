@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - methodology-daily-scrums
+- methodology---do-you-do-daily-scrums-aka-stand-up-meetings
 - methodology-do-you-do-daily-scrums-(aka-stand-up-meetings)
 
 ---
@@ -34,9 +35,11 @@ Asking these questions of every team member means no-one can hide and everyone r
 
 The team's successes and failures are shared, and anyone who knows the answer to someone else's problem can help with a solution, \*after\* the meeting.
 
+
 ::: ok  
 ![`youtube: https://www.youtube.com/embed/YR84qH6d7QE`Figure: Watch a Daily Scrum at Microsoft (short)](burndowntfspreview.png)  
 :::
+
 
 ::: ok  
 ![`youtube: https://www.youtube.com/embed/-UUrLxNBK_g` Figure: Watch a Daily Scrum at Microsoft (long)](burndowntfspreview.png)  
@@ -63,15 +66,18 @@ Then you’ll be able to say to your Scrum Master, “I’ve had a look at the T
 
 At the end of the Scrum, the Scrum Master should     [review the current burn down](/reports-do-you-schedule-the-burndown-and-stories-overview-reports-to-be-emailed-to-the-team-every-day) to check on the progress of the team.
 
+
 ::: ok  
 ![Figure: The burndown chart in tfs.visualstudio.com](burndowntfspreview.png)  
 :::
 
 **Tip 3: Keep a schedule of the Daily Scrum times on a wall (+ have a recurring appointment in Outlook)**
 
+
 ::: ok  
 ![::: greyboxSubject: 🙋Daily Scrum –              [Project Name]Hi [Team name],As per our conversation, the Daily Scrum will be held each day.Project: [Project Name]Scrum Master:              [Scrum Master Name]Regards,[Your name here]&lt;This email was sent as per              Do you do Daily Scrums? &gt;    :::Figure: Schedule a recurring Daily Scrum meeting in Outlook using this template](teams-meeting-daily-scrum.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Or you can use Microsoft Teams](teams-meeting-daily-scrum.jpg)  
@@ -104,6 +110,7 @@ Technology in the Daily Scrum causes people to lose focus on the goal. The goal 
 
 A task board allows people to visualize what the team is talking about.
 
+
 ::: ok  
 ![Figure: The Task Board from tfs.visualstudio.com (TFS 2012)](tfspreviewtaskboard.png)  
 :::
@@ -118,6 +125,7 @@ A whiteboard is also great for "Parking Lot" topics that arise, to be discussed 
 A "Parking Lot" is the place for any discussions that stop the Team from answering the 3 main questions. Only interested people stay for the "Parking Lot" to discuss issues after the Daily Scrum.
 
 **Tip 11: If you have raised impediments, consider contacting the Product Owner**
+
 
 ::: ok  
 ![Figure: Often the Product Owner won’t be at the Scrum. However, call the Product Owner if you have an Impediment (aka Roadblock). Communication with the Product Owner is essential and if you haven't touched base with him in the few days, then do so. A disconnected or absent Product Owner is a sign of dysfunction.](ProductOwnerTelephone.jpg)  
@@ -204,9 +212,11 @@ The goal is to be productive for 8 hours of the day, so communicate with the res
 
 It is important that any major incidents are dealt with first. Start with any major incidents that occurred in the last 24 hours.
 
+
 ::: ok  
 ![Figure: Daily Scrums will alert everyone if there is a major problem and get all brains aligned in the right direction. There is no sense in putting a Band-Aid on a patient's scraped knee if there is a big knife in his eye!](NewStandUpImage.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: If you like this,        retweet  ;)](dailyscrumtweet.png)  

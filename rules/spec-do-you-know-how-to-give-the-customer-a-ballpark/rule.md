@@ -15,7 +15,8 @@ authors:
 - title: Justin King
   url: https://ssw.com.au/people/justin-king
 related: []
-redirects: []
+redirects:
+- spec---do-you-know-how-to-give-the-customer-a-ballpark
 
 ---
 

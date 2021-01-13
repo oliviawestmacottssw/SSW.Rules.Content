@@ -25,6 +25,7 @@ As well as testing latency it has additional tests that come in handy like:
 * Download Test <br>
 
 
+
 ::: ok  
 ![Figure: AzureSpeed.com example](azure-speed.jpg)  
 :::

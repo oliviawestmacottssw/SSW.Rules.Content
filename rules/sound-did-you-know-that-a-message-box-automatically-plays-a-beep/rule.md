@@ -7,7 +7,8 @@ uri: sound-did-you-know-that-a-message-box-automatically-plays-a-beep
 created: 2012-11-27T02:57:30.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- sound---did-you-know-that-a-message-box-automatically-plays-a-beep
 
 ---
 

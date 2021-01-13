@@ -29,9 +29,11 @@ This is Microsoft's recommended approach, and you can read more about how to set
 
 If you use the Clean Architecture template developed by SSW's @JasonTaylorDev, this is built in out of the box. See our [rule on getting started with clean architecture](/clean-architecture-the-best-way-to-get-started).
 
+
 ::: good  
 ![Figure: Good Example - NSwag Studio lets you customise your nswag config](nswag-studio.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - @JasonTaylorDev's Clean Architecture templace comes with this built in](jt-nswag.png)  

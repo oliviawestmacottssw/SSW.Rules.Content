@@ -7,7 +7,8 @@ uri: production-do-you-create-a-quiz-immediately-following-production
 created: 2013-07-10T00:02:21.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- production---do-you-create-a-quiz-immediately-following-production
 
 ---
 

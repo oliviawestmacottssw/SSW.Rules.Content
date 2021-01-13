@@ -7,7 +7,8 @@ uri: messages-do-you-clearly-show-a-pass-fail-or-warning
 created: 2012-11-27T04:38:51.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- messages---do-you-clearly-show-a-pass-fail-or-warning
 
 ---
 
@@ -20,17 +21,21 @@ When a user looks at a test result, they want to be quickly informed. Therefore,
 * For a warning, the message should be yellow/orange in color, and an exclamation mark next to the message. ![](../../assets/Warning-lg.gif)
 
 
+
 ::: bad  
 ![Figure: Bad Example - Pass and fail are not clear](../../assets/Success-lg.gif)  
 :::
+
 
 ::: ok  
 ![Figure: Green text and tick for pass, red text and cross for fail (Better)](../../assets/Success-lg.gif)  
 :::
 
+
 ::: good  
 ![Figure: Good Example - Status on windows forms](../../assets/Success-lg.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Microsoft Update uses 3 icons to indicate different status, and good quality of Images too](../../assets/Success-lg.gif)  

@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
+- priorities---do-you-complete-work-in-order-of-importance-aka-priorities
 - priorities-do-you-complete-work-in-order-of-importance-(aka-priorities)
 
 ---
@@ -19,6 +20,7 @@ redirects:
 With a mountain of emails, it is difficult to make sure the most important tasks get done first. You want to keep your clients happy while still removing roadblocks for others. 
 
 <!--endintro-->
+
 
 ::: ok  
 ![::: greyboxThe word "Urgent" is more important than the word "Important"  :::  Figure: Remove roadblocks](challenges-ahead-sign.jpg)  
@@ -58,9 +60,11 @@ Tip #2: Use inbox subfolders to group and prioritize tasks
 
 :::
 
+
 ::: good  
 ![Figure: Group by subfolders under your inbox](subfolders.png)  
 :::
+
 
 ::: good  
 ![Figure: Efficient people keep a priority list (often written)](tasks-illustration.jpg)  
@@ -74,6 +78,7 @@ Figure: Confirm with the client "Are you changing the prior order?"
 
 When someone is asking you to do a new task, and you are still working on some other task, you should ask:
 ::: greybox
+
 ::: good  
 ![Figure: Prioritization - The most recent task assigned is not necessarily the most important. Mentally do this (e.g. an air traffic controller does not deal with the newest plane that has popped up on his radar when he has 4 lined up to land](prioritization.jpg)  
 :::

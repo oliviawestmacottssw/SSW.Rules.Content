@@ -27,13 +27,16 @@ We recommend you define a standard style for your visual elements by changing th
 ### More Information on SSW Branding
 
 
+
 ::: bad  
 ![Figure: Bad example - shapes being used and branding not followed](2019-10-14-Snagit-No-Branding-Example.png)  
 :::
 
+
 ::: good  
 ![Figure: Good example - using balloons and arrows instead and brand colours used](2019-10-14-Snagit-Branding-Example.png)  
 :::
+
 
 ::: ok  
 ![Figure: SSW theme already includes all tools you need with our branding](2019-10-14-Snagit-Themes.png)  

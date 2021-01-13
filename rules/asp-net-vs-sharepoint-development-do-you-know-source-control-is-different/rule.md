@@ -9,7 +9,8 @@ authors:
 - title: William Yin
   url: https://ssw.com.au/people/william-yin
 related: []
-redirects: []
+redirects:
+- aspnet-vs-sharepoint-development---do-you-know-source-control-is-different
 
 ---
 

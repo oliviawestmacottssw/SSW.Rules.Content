@@ -26,6 +26,7 @@ So to ensure the migration process did not miss any items, ensure nobody modifie
 
 1. Navigate to "Site Settings" | "Audit log reports" which will take you there:  
 
+
 ::: ok  
 ![Figure: check nobody was modifying the intranet during the long migration](no-intranet-modifications.jpg)  
 :::
@@ -51,6 +52,7 @@ Regards,
 :::
 
     After you export to Excel, follow this example:
+
 
 ::: ok  
 ![Figure: Modifications are done on the old SharePoint intranet during the migration process (hence not migrated to the cloud)](old-sharepoint-modification.jpg)  

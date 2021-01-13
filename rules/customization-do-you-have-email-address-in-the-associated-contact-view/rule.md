@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- customization---do-you-have-email-address-in-the-associated-contact-view
 
 ---
 
@@ -17,9 +18,11 @@ In default view for Associated Contact you cannot see the email address, it woul
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Associated Contact View without the email address](ContactView\_NoEmail.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Associated Contact View with the email address](ContactView\_Email.jpg)  

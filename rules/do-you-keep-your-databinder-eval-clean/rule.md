@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - keep-your-databinder-eval-clean
+- do-you-keep-your-databindereval-clean
 
 ---
 
@@ -31,7 +32,13 @@ control
 
 
 
-&lt;asp:Label id="tumorSizeLabel" runat="server" Text='&lt;%# iif( Container.DataItem.Row.IsNull("TumorSize"), "N/A",DataBinder.Eval(Container, "DataItem.TumorSize", "0.00")) %&gt;'/&gt;
+
+
+```
+<asp:Label id="tumorSizeLabel" runat="server" Text='<%# iif( Container.DataItem.Row.IsNull("TumorSize"), "N/A",DataBinder.Eval(Container, "DataItem.TumorSize", "0.00")) %>'/>
+```
+
+
 
 ::: bad
 Bad code  
@@ -47,11 +54,20 @@ Putting the code on the ItemDataBound Event.
 
 **In server page:**
 
-&lt;asp:Label id="tumorSizeLabel" runat="server" /&gt;
+
+
+```
+<asp:Label id="tumorSizeLabel" runat="server" />
+```
+
+
 
 **In code behind:**
 
-Private Sub patientDataGrid\_ItemDataBound( ByVal sender As Object, ByVal e As DataGridItemEventArgs)\_
+
+
+```
+Private Sub patientDataGrid_ItemDataBound( ByVal sender As Object, ByVal e As DataGridItemEventArgs)_
 Handles patientDataGrid.ItemDataBound
 If( e.Item.ItemType = ListItemType.Item Or e.Item.ItemType = ListItemType.AlternatingItem) Then
 Dim tumorSizeLabel As Label = e.Item.FindControl("tumorSizeLabel")
@@ -64,6 +80,9 @@ tumorSizeLabel.Text = row.TumorSize.ToString("0.00")
 End If
 End If
 End Sub
+```
+
+
 
 ::: good
 Good code  

@@ -31,6 +31,7 @@ To create an online meeting or conference call meeting request, follow these ste
 6. On the "Meeting" tab, in the "Show" group, click "Meeting Options", and then accept or change the default options as required. For more details about setting "Meeting Options" go to <br>      [Set options for online meetings and conference calls](http://office.microsoft.com/en-us/communicator-help/set-options-for-online-meetings-and-conference-calls-HA102000107.aspx?CTT=5&origin=HA101990914).
 
 
+
 ::: ok  
 ![Figure: Creating a Lync Online meeting from outlook.](lync-online-meeting.jpg)  
 :::

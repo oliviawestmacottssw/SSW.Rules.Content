@@ -25,6 +25,7 @@ However, for special types of images we do include a prefix.
 | Screenshot | Screen | ScreenCodeAuditorMainWindow.gif |
 
 
+
 ::: good  
 ![Figure: Correctly named images](ScreenFilesWithScreenPrefix.gif)  
 :::

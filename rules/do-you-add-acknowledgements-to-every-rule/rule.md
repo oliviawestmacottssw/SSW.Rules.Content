@@ -23,9 +23,11 @@ Every rule must have a person (or more) responsible for its content - The rule o
 
 When editing a rule, choose who is the rule owner on the "Acknowledgements" field. It is OK to have more than one person there.
 
+
 ::: ok  
 ![Figure: This is where you add or remove "Acknowledgements"](acknowledgements.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: You can add a new person in SharePoint, if the owner is not on the list yet](add-new-value.png)  

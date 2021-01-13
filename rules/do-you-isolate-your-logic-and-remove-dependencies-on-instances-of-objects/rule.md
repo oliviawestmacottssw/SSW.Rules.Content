@@ -20,8 +20,14 @@ Take this for example:
 
 <!--endintro-->
 
-while ((ActiveThreads &gt; 0 || AssociationsQueued &gt; 0) && (IsRegistered || report.TotalTargets &lt;= 1000 )
- && (maxNumPagesToScan == -1 || report.TotalTargets &lt; maxNumPagesToScan) && (!CancelScan))
+
+
+```
+while ((ActiveThreads > 0 || AssociationsQueued > 0) && (IsRegistered || report.TotalTargets <= 1000 )
+ && (maxNumPagesToScan == -1 || report.TotalTargets < maxNumPagesToScan) && (!CancelScan))
+```
+
+
 
 
  **Figure: This complex logic evaluation can't be unit tested
@@ -32,8 +38,14 @@ We can update this code to make it testable though.
 
 Update the line to this:
 
+
+
+```
 while (!HasFinishedInitializing (ActiveThreads, AssociationsQueued, IsRegistered, 
  report.TotalTargets, maxNumPagesToScan, CancelScan))
+```
+
+
 
 
  **Figure: Isolate the complex logic evaluation
@@ -42,12 +54,18 @@ We are using all the same parameters - however now we are moving the actual logi
 
 Now create the method:
 
+
+
+```
 private static bool HasFinishedInitializing(int ActiveThreads, int AssociationsQueued, bool IsRegistered, 
  int TotalAssociations, int MaxNumPagesToScan, bool CancelScan)
 {
- return (ActiveThreads &gt; 0 || AssociationsQueued &gt; 0) && (IsRegistered || TotalAssociations &lt;= 1000 )
- && (maxNumPagesToScan == -1 || TotalAssociations &lt; maxNumPagesToScan) && (!CancelScan);		
+ return (ActiveThreads > 0 || AssociationsQueued > 0) && (IsRegistered || TotalAssociations <= 1000 )
+ && (maxNumPagesToScan == -1 || TotalAssociations < maxNumPagesToScan) && (!CancelScan);		
 }
+```
+
+
 
 
  **Figure: Function of the complex logic evaluation
@@ -56,6 +74,9 @@ The critical thing is that everything the method needs to know is passed in, it 
 
 The other thing we can do now is actually go and simplify / expand out the logic so that it's a bit easier to digest.
 
+
+
+```
 private static bool HasFinishedInitializing(int ActiveThreads, int AssociationsQueued, bool IsRegistered, 
  int TotalAssociations, int MaxNumPagesToScan, bool CancelScan)
 {
@@ -63,20 +84,26 @@ private static bool HasFinishedInitializing(int ActiveThreads, int Associations
  if (CancelScan) 
  { return true; }
  //only up to 1000 links if it is not a registered version
- if (!IsRegistered && TotalAssociations &gt; 1000) 
+ if (!IsRegistered && TotalAssociations > 1000) 
  { return true; }
  //only scan up to the specified number of links
- if (MaxNumPagesToScan != -1 && TotalAssociations &gt; MaxNumPagesToScan) 
+ if (MaxNumPagesToScan != -1 && TotalAssociations > MaxNumPagesToScan) 
  { return true; }
  //not ActiveThread and the Queue is full
- if(ActiveThreads &lt;= 0 && AssociationsQueued &lt;= 0) 
+ if(ActiveThreads <= 0 && AssociationsQueued <= 0) 
  { return true; }
  return false;
 }
+```
+
+
  **Figure: Simplify the complex logic evaluation
 ** 
 The big advantage now is that we can unit test this code easily in a whole range of different scenarios!
 
+
+
+```
 [Test]
 public void HasFinishedInitializingLogicTest()
 {
@@ -104,6 +131,9 @@ public void HasFinishedInitializingLogicTest()
  totalAssociations, maxNumPagesToScan, cancelScan});
  Assert.IsFalse(actual, "HasFinishedInitializing LogicTest B failed.");
  }
+```
+
+
 
 
  **Figure: Write a unit test for complex logic evaluation

@@ -18,29 +18,36 @@ redirects:
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: The Build definition name should include the project name. The reason for this is that builds for all solutions are placed in the same folder, and including the build name makes the Build Drop folder organised](ci-build-1.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: On the Trigger tab choose Continuous Integration. This ensures that each check-in results in a build](ci-build-2.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: On the Workspace tab you need to include all source control folders that are required for the build](ci-build-3.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Enter the path to your Drop Folder (where you drop your builds)](ci-build-4.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: Choose the Default Build template and enter the DeployOnBuild argument to the MSBuild Arguments parameter of the build template](ci-build-5.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: Queue a build, to ensure our CI build is working correctly](ci-build-6.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Before we setup continuous deployment it is important to get a successful basic CI build](ci-build-7.jpg)  

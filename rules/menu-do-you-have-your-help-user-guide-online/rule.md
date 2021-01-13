@@ -9,6 +9,7 @@ authors: []
 related: []
 redirects:
 - menu-do-you-have-your-＂help-user-guide＂-online
+- menu---do-you-have-your-help--user-guide-online
 
 ---
 
@@ -23,9 +24,11 @@ There are benefits of having your user guide online:
 3. Allows community commenting
 
 
+
 ::: good  
 ![Figure: Good Example - "User Guide" link in the "Help" menu](../../assets/RulesT3.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Telerik keeps their "User Guide" online](../../assets/TelerikUserGuide.png)  

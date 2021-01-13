@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-cc-your-account-manager-on-emails-relating-to-new-work
+- communication---do-you-cc-your-account-manager-on-emails-relating-to-new-work
 
 ---
 

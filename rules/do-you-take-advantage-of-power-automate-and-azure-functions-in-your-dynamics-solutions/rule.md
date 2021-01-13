@@ -58,9 +58,11 @@ The case against Azure Function instead of regular Dynamics Plugins:
 * Azure Functions are a <br>      [paid](https://azure.microsoft.com/en-au/pricing/calculator/%22%20%5co%20%22https://azure.microsoft.com/en-au/pricing/calculator/) Azure service, while extremely cost-effective, it is still an additional cost
 
 
+
 ::: ok  
 ![Figure: Dynamics Workflow Editor](dynamics-workflow-editor.png)  
 :::
+
 
 ::: ok  
 ![Figure: Flow Editor](flow-editor.png)  

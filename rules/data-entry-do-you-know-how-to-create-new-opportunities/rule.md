@@ -11,7 +11,8 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects: []
+redirects:
+- data-entry---do-you-know-how-to-create-new-opportunities
 
 ---
 
@@ -23,9 +24,11 @@ You need to know what's in the sales pipeline, and the way to do that is by ente
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: In CRM 2013, click on Sales | Opportunities](Sales-Opportunities.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Click New, enter the Opportunity, especially the $ value and the chance of success](NewOpportunity.jpg)  

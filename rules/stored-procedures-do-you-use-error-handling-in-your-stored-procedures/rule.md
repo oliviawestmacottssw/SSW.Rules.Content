@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-error-handling-in-your-stored-procedures
+- stored-procedures---do-you-use-error-handling-in-your-stored-procedures
 
 ---
 
@@ -21,8 +22,14 @@ You should always include error handling in your stored procedures, it allows yo
 
 Here’s an example of the syntax used when implementing THROW.
 
+
+
+```
 -- Syntax
-THROW error\_number, message, state;
+THROW error_number, message, state;
+```
+
+
  **Figure: Example of the THROW syntax
 ** 
 There are 3 main arguments:
@@ -33,8 +40,14 @@ There are 3 main arguments:
 
 The  **state** argument can be used to help pinpoint where the error occurred by using a different value without changing the  **error\_number** or  **message** . This is useful if you have multiple steps in a process that may throw identical error descriptions.
 
+
+
+```
 -- Example
 THROW 51000, 'The record does not exist.', 1;
+```
+
+
  **Figure: Example of using THROW
 ** 
 ### Implementing Error Handling using THROW
@@ -42,10 +55,16 @@ THROW 51000, 'The record does not exist.', 1;
 
 Here we are generating a divide-by-zero error to easily raise a SQL exception and is used as a place holder for logic that we would have in our stored procedure.
 
+
+
+```
 DECLARE @inputNumber AS INT = 0;
  
 -- Generate a divide-by-zero error
 SELECT 1 / @inputNumber AS Error;
+```
+
+
 
 ::: bad
 Figure: Bad Example - No error handling.
@@ -59,6 +78,9 @@ We know this divide-by-zero is going to cause an exception and the error number 
 In our CATCH block, we check the error to ensure it’s the one that we want to handle otherwise, we re-throw the original exception.
 Finally, when we catch the error we are looking for we can log some information about it and attempt to run our stored procedure logic again with different parameters.
 
+
+
+```
 DECLARE @errorCode AS INT;
 DECLARE @inputNumber AS INT;
  
@@ -68,7 +90,7 @@ BEGIN TRY
        SELECT 1 / @inputNumber AS Error;
 END TRY
 BEGIN CATCH
-       SET @errorCode = (SELECT ERROR\_NUMBER());
+       SET @errorCode = (SELECT ERROR_NUMBER());
        IF @errorCode = 8134 -- Divide by zero error encountered.
               BEGIN
                     PRINT 'Divide by zero error encountered. Attempting to correct'
@@ -78,6 +100,9 @@ BEGIN CATCH
        ELSE
               THROW;
 END CATCH;
+```
+
+
 
 ::: good
 Figure: Good Example - Using error handling to catch an error and attempt to resolve it.
@@ -87,23 +112,27 @@ Figure: Good Example - Using error handling to catch an error and attempt to re
 The example below shows how you can catch an error and retrieve all the details about it.
 This is very useful if you want to save these errors to another table or trigger a stored procedure.
 
+
+
+```
 BEGIN TRY
        -- Generate a divide-by-zero error. 
        SELECT 1 / 0 AS Error;
 END TRY
 BEGIN CATCH
        SELECT
-             ERROR\_NUMBER() AS ErrorNumber,
-             ERROR\_STATE() AS ErrorState,
-             ERROR\_SEVERITY() AS ErrorSeverity,
-             ERROR\_PROCEDURE() AS ErrorProcedure,
-             ERROR\_LINE() AS ErrorLine,
-             ERROR\_MESSAGE() AS ErrorMessage;
-			 
-			             -- Insert logic for persisting log information (Log to table or log to file)
+             ERROR_NUMBER() AS ErrorNumber,
+             ERROR_STATE() AS ErrorState,
+             ERROR_SEVERITY() AS ErrorSeverity,
+             ERROR_PROCEDURE() AS ErrorProcedure,
+             ERROR_LINE() AS ErrorLine,
+             ERROR_MESSAGE() AS ErrorMessage;		 		             -- Insert logic for persisting log information (Log to table or log to file)
  
              THROW;
 END CATCH;
+```
+
+
 
 ::: good
 Figure: Good Example - Using error handling to catch an error and retrieving its details, allowing it to be logged.

@@ -22,11 +22,13 @@ Instructions on how to add Web Tests can be found on MSDN [https://azure.microso
 
 Setting up a Web Test will allow you to query and see how the performance of your application has  changed over a period of time and to help you spot any anomalies. It can be useful to query over a long period of time (e.g. a year) and see if the performance has stayed the same or if there have been any regressions in responsiveness.
 
+
 ::: good  
 ![Good Example - You can clearly see the point where we deployed a fix to production to improve the initial page load.](App-Insights-Web-Test.png)  
 :::
 
 You have the ability to drill down into web test results, to get an overview of the response time of the resources on a page. This can help discover if certain resources are slowing the response time.
+
 
 ::: good  
 ![Good Example - Reviewing the Web test results, provides vital information .](App-Insights-Web-Test-drilldown.png)  

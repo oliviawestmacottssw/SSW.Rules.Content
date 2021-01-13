@@ -18,6 +18,9 @@ If you access unmanaged resources (e.g. files, database connections etc.) in a c
 
 
 
+
+
+```
 public class MyClass
 {
    private File myFile = File.Open(...); // This is an unmanaged resource
@@ -27,10 +30,13 @@ public class MyClass
 private void useMyClass()
 {
   var myClass = new MyClass();
-   /\*
+   /*
   Here we are using an unmanaged resource without disposing of it, meaning it will hang around in memory unnecessarily until the   garbage collector finalises it
-  \*/
+  */
  }
+```
+
+
 
 ::: bad
 Figure: Bad example - Using unmanaged resources without disposing of them when we are done
@@ -39,6 +45,9 @@ Figure: Bad example - Using unmanaged resources without disposing of them when w
 
 
 
+
+
+```
 public class MyClass : IDisposable
 {
   private File myFile = new File.Open(...); // This is an unmanaged resource
@@ -49,6 +58,9 @@ public class MyClass : IDisposable
     GC.SuppressFinalize(this); // Preventing a redundant garbage collector finalize call
   }
 }
+```
+
+
 
 ::: good
 Figure: Good example - Implementing IDisposable allows you to dispose of the unmanaged resources deterministically to maximise efficiency
@@ -59,6 +71,9 @@ Figure: Good example - Implementing IDisposable allows you to dispose of the unm
 
 Now we can use the "using" statement to automatically dispose the class when you are finished with it.:
 
+
+
+```
 private void useClass()
 {
   using (var myClass = new MyClass())
@@ -66,6 +81,9 @@ private void useClass()
     // do stuff with myClass here...
   }  // myClass.Dispose() is automatically run at the end of the using block
 }
+```
+
+
 
 ::: good
 Figure: Good example - With the using statement, the unmanaged resources are disposed of as soon as we are finished with them

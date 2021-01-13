@@ -11,13 +11,15 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects: []
+redirects:
+- scheduling---do-you-know-how-to-book-developers-for-a-project
 
 ---
 
 It is the responsibility of Account Managers to book developers for known client work, however anyone can book a developer, including the developer themselves. Also if a developer notices they should be booked, but there's nothing in their calendar, and they can't figure out the below, as a minimum they should ask the Account Manager to book them.
 
 To book a developer:
+
 
 ::: ok  
 ![Figure: Using the Service Calendar, you can see who is and is not available at a given time](ServiceCalendar2013.jpg)  
@@ -42,6 +44,7 @@ This is generally the easiest way for developers to book themselves in as they d
 6. Click "Dynamics 365" on the ribbon which will open a side panel and click on "Set Regarding" then search select the company that you want to book the developers to work on (this is the step that syncs it with CRM)
 
 
+
 ::: ok  
 ![Figure: A complete appointment booking Brendan to work for SSW for 5 daysOption 2: CRM Activity Appointments](Dynamics1.jpg)  
 :::
@@ -49,6 +52,7 @@ This is generally the easiest way for developers to book themselves in as they d
 This is a backup option for anyone who doesn't have access to Outlook with the CRM add-in.
 
 1. Create new appointment in Dynamics 365 Online
+
 
 
 ::: ok  
@@ -64,6 +68,7 @@ This is a backup option for anyone who doesn't have access to Outlook with the C
 
 
 Tip: If you do not want the to block your calendar, you can change the orgainzer and owner to the developer you are booking. It will still track to the Service Calendar, but wont add it to your personal calendar, only the developers.
+
 
 ::: ok  
 ![Figure: A complete CRM Appointment for a 1-day booking](Dynamics-Appointment.jpg)  

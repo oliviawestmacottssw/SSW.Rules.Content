@@ -11,7 +11,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- production---do-you-use-proper-production-design
 
 ---
 
@@ -33,9 +34,11 @@ Wardrobe refers to what people wear when they're on screen. Keep in mind the ton
 
 Creating a set for a production is a complex and tricky business but there are some basic ideas you can use to create appealing set design. First off try and design your set to reflect the theme of your production. So for example if you were creating a set for a software design talk show, you would probably want lots of metal and technical art, however if you were creating a set for a drama about a youth who's run away from home, you would want something dirty, dark and depressing to reflect the character's grim situation. Again, avoid stripes that are too close together. A general rule of thumb is that the stripes should be at least 5cm in width. Make sure that everything is safe and if there is construction to be done, hire a professional.
 
+
 ::: bad  
 ![Figure: Bad example - dark wall on the side, boring wall in the middle, reflective surface with people passing behind, lack of depth.](Bad-set-design-example.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - interesting background but not distracting, relevant furniture, set reflects theme of show](good-set-example.png)  
@@ -55,9 +58,11 @@ Figure: Good and Bad examples of filming locations
 
 If you are working with a D.O.P. (Director of Photography) and/or your are lighting your scene, its a good idea to include lights as part of the production design (on the set). Don't include a bright light shining directly into the lens or anything, but a lamp can provide a good source of light to work with and create an interesting object in the frame.
 
+
 ::: bad  
 ![Figure: Bad example - the light is far too bright in comparison to the rest of the shot.](Lighting-bad-example-DSC\_0023-small.JPG)  
 :::
+
 
 ::: good  
 ![Figure: Good example - these lights are diffused enough that the rest of the picture is clearly visible.](Japan\_by\_dhatt1.jpg)  
@@ -67,9 +72,11 @@ If you are working with a D.O.P. (Director of Photography) and/or your are light
 
 Props and set dressing are important; props are defined as objects in the script that we know before-hand that the subjects will interact with, set dressing is things that we add to a set to create content. When choosing what props should(n't) be on set it is important to ask yourself, is there a reason for this to be here? A can of coke for example will be ugly and distracting in most circumstances but a pot of flowers might be just the thing to give your scene that extra bit of life, or convey a caring sensitive side of your character. If your subject needs to drink something while they're on camera, offer them a glass (its more visually pleasing). Look carefully at the frame and ask yourself, is there any camera equipment visible? Does that ugly mess of cables really need to be there? Does this scrap of paper or backpack     *need* to be in the frame? If not, ditch it. If it adds value to the picture and doesn't distract, keep it.
 
+
 ::: bad  
 ![Figure: Bad example - too much clutter on the desk, unnecessary dirty bowl, loose sheets of paper, this would only work if you wanted to illustrate that the character is messy.](Props-Bad-example-DSC\_0016.JPG)  
 :::
+
 
 ::: good  
 ![Figure: Good example - clear space, clear point of focus, minimal cables, only necessary items.](Props-good-example-DSC\_0017.jpg)  

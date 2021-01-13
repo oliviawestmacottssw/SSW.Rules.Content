@@ -7,7 +7,8 @@ uri: meetings-do-you-know-the-way-meetings-should-work
 created: 2010-07-16T06:08:10.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- meetings---do-you-know-the-way-meetings-should-work
 
 ---
 
@@ -28,6 +29,7 @@ To ensure your meetings are productive and successful, you should:
 * Send [an appointment](/Pages/WayMeetingsShouldWork.aspx) to all meeting attendees to ensure the meeting appears on their calendar.
 * If you are going to be late, contact the organizer or the person in charge of the meeting to let them know that you are running late and what time you will be arriving.
 * To improve future meetings, at the end of the meeting, do a quick debrief to see how long the meeting took, if anything was covered that didn't need to be, etc.
+
 
 
 ::: bad  

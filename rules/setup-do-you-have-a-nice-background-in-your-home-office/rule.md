@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - have-a-nice-background-in-your-home-office
+- setup---do-you-have-a-nice-background-in-your-home-office
 
 ---
 
@@ -30,9 +31,11 @@ A nice test is to sit at your desk and to take a selfie to see what others will 
 
 If you want to go the extra mile, consider designating one wall as your company wall and keep it consistent with the company branding.
 
+
 ::: bad  
 ![Figure: Bad Example – A messy background will not look professional](bad-background.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example – Branded monitor in the background showing off the company website](good-background.png)  

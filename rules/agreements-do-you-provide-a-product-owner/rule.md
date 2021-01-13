@@ -7,7 +7,8 @@ uri: agreements-do-you-provide-a-product-owner
 created: 2010-05-20T10:10:03.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- agreements---do-you-provide-a-product-owner
 
 ---
 

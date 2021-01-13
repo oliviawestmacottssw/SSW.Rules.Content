@@ -48,20 +48,24 @@ Read more about     [implementing Microsoft Lync](http://www.ssw.com.au/ssw/Cons
 
 1. Log on to SNOM Phone, press a key to continue
 
+
 ::: ok  
 ![](step-1.png)  
 :::
 2. Enter in your SIP-URI, that is emailaddress@ssw.com.au and press the green tick
+
 
 ::: ok  
 ![](step-2.jpg)  
 :::
 3. Enter in your Domain\Username, that is ssw2000\username and press the green tick
 
+
 ::: ok  
 ![](step-3.jpg)  
 :::
 4. Enter in your AD password and press the green tick
+
 
 ::: ok  
 ![](step-4.jpg)  

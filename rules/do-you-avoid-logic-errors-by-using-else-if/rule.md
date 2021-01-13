@@ -20,6 +20,9 @@ We see a lot of programmers doing this, they have two conditions - true and fals
 
 In the example the only expected values are "Development" and "Production".
 
+
+
+```
 void Load(string environment)
 {
   if (environment == "Development")
@@ -31,6 +34,9 @@ void Load(string environment)
     // set Production environment variables	
   }
 }
+```
+
+
 
 ::: bad
 Figure: Bad example with If statement  
@@ -42,6 +48,9 @@ By using the above code, the wrong code will run because the above code assumes 
 
 Now the code will throw an exception if an unexpected value is provided.
 
+
+
+```
 void Load(string environment)
 {
   if (environment == "Development")
@@ -57,6 +66,9 @@ void Load(string environment)
     throw new InvalidArgumentException(environment); 
   }
 }
+```
+
+
 
 ::: good
 Figure: Good example with If statement

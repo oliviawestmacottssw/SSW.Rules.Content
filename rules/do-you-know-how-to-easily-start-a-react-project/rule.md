@@ -18,14 +18,20 @@ Create-React-App is a boilerplate provided by Facebook for almost any React proj
 
 <!--endintro-->
 
+
 ::: good  
 ![Good example: Use the create-react-app npm package](create-react-app.png)  
 :::
 
 1. Install [Create-React-App](https://github.com/facebook/create-react-app)
-2. Quick Start <br>          npx create-react-app my-app
+2. Quick Start <br>      
+
+
+```
+npx create-react-app my-app
 cd my-app
 npm start
+```
 3. Open your Application  **http://localhost:3000**
 
 

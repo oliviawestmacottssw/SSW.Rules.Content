@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - calendar-do-you-set-your-work-hours-in-your-calendars
+- calendar---do-you-set-your-work-hours-in-crm-and-your-calendars
 
 ---
 

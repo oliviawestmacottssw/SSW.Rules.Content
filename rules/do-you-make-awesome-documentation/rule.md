@@ -38,6 +38,7 @@ There are a few styles of documentation:
 
 ### Bad Example – Old School
 
+
 ::: bad  
 ![Figure: Bad example - The dinosaur’s method of documentation](old-documentation.png)  
 :::
@@ -57,9 +58,11 @@ This is a well-established way to do documentation, but it has several problems:
 * Needs a business analyst
 
 
+
 ::: bad  
 ![Figure: Bad example - Documentation can take the form of Sequence Diagrams](enterprisearchitect1.jpg)  
 :::
+
 
 ::: bad  
 ![Figure: Bad example - Use Case Diagrams are even worse!](EnterpriseArchitectUseCases.jpg)  
@@ -126,25 +129,31 @@ Documents to be read or edited by the Product Owner (or other members of the Scr
 
 
 
+
 ::: bad  
 ![Figure: Bad example - Github project without any documentation or instruction](documentation\_\_level2\_\_bad-example-gh.png)  
 :::
+
 
 ::: bad  
 ![Figure: Bad example - Azure DevOps project without any documentation or instruction](azuredevops-bad.png)  
 :::
 
+
 ::: ok  
 ![Figure: OK example - Github project with README instructions on how to compile and run the project (but still has a TODO)](documentation\_\_level2\_\_good-example-1-gh.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example - Azure DevOps project with README instructions on how to compile and run the project](azuredevops-good.png)  
 :::
 
+
 ::: good  
 ![Figure: Good example - Github project with Wiki instructions for product owners, stakeholders, or public consumption (Source: https://github.com/christoment/Northwind/wiki)](documentation\_\_level2\_\_good-example-2-gh.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example - Azure DevOps project with Wiki instructions for product owners, stakeholders, or public consumption](azuredevops-wiki-good.png)  
@@ -153,9 +162,11 @@ Documents to be read or edited by the Product Owner (or other members of the Scr
 **Tip:** Use your documentation for onboarding developers
 
 
+
 ::: bad  
 ![Figure: Bad Example - No documentation, go and sit with another developer](sit-dev-bad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example - Developer onboarding can be self-guided by good documentation, and offers a structure for feedback and improvement if the developer hits any issues](documentation\_\_level2\_\_onboarding-pbi-3.png)  

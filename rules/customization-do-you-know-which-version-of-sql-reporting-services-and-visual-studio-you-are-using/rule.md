@@ -11,7 +11,8 @@ authors:
 - title: Mehmet Ozdemir
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
-redirects: []
+redirects:
+- customization---do-you-know-which-version-of-sql-reporting-services-and-visual-studio-you-are-using
 
 ---
 

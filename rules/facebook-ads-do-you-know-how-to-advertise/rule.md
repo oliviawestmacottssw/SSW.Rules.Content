@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - how-to-advertise-using-facebook-ads
+- facebook-ads---do-you-know-how-to-advertise
 
 ---
 

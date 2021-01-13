@@ -30,14 +30,17 @@ The feature is built-in to IIS 8
 1. Open Internet Information Services (IIS)
 2. Browse to the website in question
 3. Open Advanced settings <br>      
+
 ::: ok  
 ![Figure: IIS](iis8-1.jpg)  
 :::
 4. Change the “start mode” to “Always running” <br>      
+
 ::: ok  
 ![Figure: Start mode](iis8-2.jpg)  
 :::
 5. Change Preload Enabled to True <br>      
+
 ::: ok  
 ![Figure: Preload setting](iis8-3.jpg)  
 :::
@@ -49,16 +52,19 @@ The feature is built-in to IIS 8
 2. Open <br>       **Internet Information Services (IIS)**
 3. Select the server
 4. Scroll down and select <br>       **Configuration Editor** 
+
 ::: ok  
 ![Figure: IIS](iis7-1.jpg)  
 :::
 5. From the <br>       **Section** menu select <br>       **system.applicationHost / applicationPools** 
+
 ::: ok  
 ![Figure: Configuration editor](iis7-2.jpg)  
 :::
 6. Double click the <br>       **“…”** to the right of <br>       **(Collection)**
 7. Find the Application Pool CFT is running on (it could be ComplyFirstTime or DefaultAppPool)
 8. In the <br>       **Properties** window, scroll down and select <br>       **startMode** , choose <br>       **AlwaysRunning** 
+
 ::: ok  
 ![Figure: Set "start Mode"](iis7-3.jpg)  
 :::
@@ -74,9 +80,19 @@ The feature is built-in to IIS 8
 ** 
 
 1. There is a setting that has to be enabled in the applicationhost.config file which contains all of the top level configuration settings that IIS uses. This file is called appplocated at c:\windows\system32\inetsvr\config on a standard install of IIS. <br>          I recommend making a backup of this file before continuing. You can use any text editor to update this file. Search for and locate the section named &lt;applicationPools&gt;. Within this section, you will see your application listed in this format:
-    &lt;add name=”Application Pool Name” managedRuntimeVersion=”v4.0″ /&gt;
+
+
+
+```
+<add name=”Application Pool Name” managedRuntimeVersion=”v4.0″ />
+```
 2. add the Always Running mode by adding startMode="AlwaysRunning"
     
-    &lt;add name=”Application Pool Name” managedRuntimeVersion=”v4.0″ startMode="AlwaysRunning"
- /&gt;
+
+
+
+```
+<add name=”Application Pool Name” managedRuntimeVersion=”v4.0″ startMode="AlwaysRunning"
+ />
+```
 3. Save this file and perform an IISReset so that the change is read into the running memory of the IIS server.

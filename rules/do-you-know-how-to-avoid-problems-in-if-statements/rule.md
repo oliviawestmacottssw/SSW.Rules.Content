@@ -18,14 +18,23 @@ Try to avoid problems in if-statements without curly brackets and just one state
 
 <!--endintro-->
 
+
+
+```
 if (ProductName == null) ProductName = string.Empty; if (ProductVersion == null)
  ProductVersion = string.Empty; if (StackTrace == null) StackTrace = string.Empty;
+```
+
+
 
 ::: bad
 Figure: Bad Example
 
 :::
 
+
+
+```
 if (ProductName == null) 
 { 
  ProductName = string.Empty; 
@@ -38,6 +47,9 @@ if (StackTrace == null)
 { 
  StackTrace = string.Empty;
 }
+```
+
+
 
 ::: good
 Figure: Good Example  

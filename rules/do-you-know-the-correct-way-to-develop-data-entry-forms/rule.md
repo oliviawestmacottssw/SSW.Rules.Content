@@ -15,6 +15,7 @@ Data Entrees should be able to use your data entry form with ease. It should fol
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - New button should open another form, and Delete button should be on that new form](../../assets/BadAddDeleteSubForm.gif)  
 :::
@@ -23,9 +24,11 @@ Data Entrees should be able to use your data entry form with ease. It should fol
     Imagine, while the Sally is entering a Quote on the Quote Form, they receive a Phone call from a client needing a new Quote. The user will not want to close the current Quote, because they are 1/2 way through it.
     As we saw in the example above, Sally needs to open multiple instances of the same form. A reputable example for this is Microsoft's Outlook. When you are 1/2 way through an email, and you chose to start writing another, Outlook makes it convenient by placing every email you open in the taskbar. The figure below illustrates this.
 
+
 ::: good  
 ![Figure: Good Example - Outlook opens multiple instances of the data entry form (email message)](../../assets/Outlookemails.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Each form instance is shown in the taskbar, and easily opened again](../../assets/outlooktaskbar.jpg)  
@@ -33,6 +36,7 @@ Data Entrees should be able to use your data entry form with ease. It should fol
     A method of implementing this is through New and Delete buttons on the form.
     New and Delete buttons should appear, in a toolbar for example, docked to the top.
  The figure in           [Data Entry Drill Downs](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Forms.aspx#DrillAround) below illustrates this.
+
 
 ::: good  
 ![Figure: Good Example - New and Delete buttons docked in the Toolbar providing easy data entry for new Timesheets](../../assets/GoodAddDeleteSubForm.jpg)  
@@ -55,20 +59,24 @@ Data Entrees should be able to use your data entry form with ease. It should fol
  If Cancel, then return back to the dirty form.
 
 
+
 ::: good  
 ![Figure: Good Example - Save Changes Dialog must appear when form is dirty](../../assets/SaveChangesDialog.jpg)  
 :::
 3. Do not add buttons for searching on the data entry form, create a new form for search, through which you can open new instances of the form. The convenience of the search capability on the form will be overlooked as it makes the form more crowded. Another issue which can arise is if Sally searches for a criteria which returns multiple records, she cannot look at all those records. She can only open one at a time, navigating through them. The solution to the search dilemma is to create a new search form, which is shown in the figure below. The search form will allow multiple criteria, will not over crowd the data entry form, and will show you all the results that your search has retrieved.
 
+
 ::: bad  
 ![Figure: Bad Example - This implementation of a search utility is on the same form](../../assets/BadSearch.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - This implementation of Search feature is on a separate form](../../assets/SearchForm.gif)  
 :::
 4. ### No Delete Button for sub forms
     When including a sub form in your main form (as shown in figure below), the only options the user should have are "New" and "Edit". When "Edit" is clicked, another data entry form is opened to edit selected record. In this data entry form, you will have a "Delete" button on the toolbar. This saves the user from making mistakes and forcing them to see the record before deleting.
+
 
 ::: good  
 ![Figure: Good Example - No Delete button for Sub forms](../../assets/SubFormsExample.gif)  
@@ -92,6 +100,7 @@ Data Entrees should be able to use your data entry form with ease. It should fol
     * Validated
 
 
+
 ::: good  
 ![Figure: Good Example - Error Provider Icon next to a required field](../../assets/ErrorProviderIconExample.jpg)  
 :::
@@ -99,9 +108,11 @@ Data Entrees should be able to use your data entry form with ease. It should fol
 6. ### Relevant Menus
     Make sure that the menu items are relevant to the current form. The main idea is that we don't want to show the user any dummy menu items. However, this may become complex when a base form (containing the menu) is inherited. Access to menus in the base form must be granted (maybe through properties), so that each menu can be customized according to each child form.
 
+
 ::: bad  
 ![Figure: Bad Example - Action and Tools are irrelevant on this form](../../assets/MenuBadExample.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Menus are relevant](../../assets/MenuGoodExample.jpg)  
@@ -143,9 +154,11 @@ Code: Code for Handling Parse and Format Events for Data bound Controls    The B
     With all database entries, there are always some fields that are used over and over again. For example, these fields may be created date, created by, last updated date, updated by, etc.
     A common UI to use for these fields can be seen in the example below. What we do is create a user control that is identical across all projects/UI.
 
+
 ::: bad  
 ![Figure: Bad Example - This form has no information to indicate who created this entry and who last modified it](../../assets/BadCreatedUpdated.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - This form contains Created by/Updated by fields used in a standard control which is put into all forms](../../assets/GoodCreatedUpdated.jpg)  
@@ -161,6 +174,7 @@ updatedBy.CreatedDate = .DateCreated
 ```
 
 Code: Code for Setting values for User Control    Databinding is also available to be used with this user control.
+
 
 ::: ok  
 ![Figure: Data Binding using the Designer](../../assets/CommonFieldsDB.gif)  

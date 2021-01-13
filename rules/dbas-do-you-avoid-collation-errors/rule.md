@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - avoid-collation-errors
+- dbas---do-you-avoid-collation-errors
 
 ---
 
@@ -28,6 +29,9 @@ The reality is that you can't tell a user what collation to run their TempDB - w
 
 Here is what you need to do:
 
+
+
+```
 SELECT
  #ClientSummary.ClientID,
  DateOfLastReminder = MAX(ClientDiary.DateCreated),
@@ -36,8 +40,9 @@ SELECT
  FROM
  ClientDiary INNER JOIN #ClientSummary
  ON ClientDiary.ClientID = #ClientSummary.ClientID COLLATE
- database\_default
+ database_default
  WHERE
  ClientDiary.CategoryID LIKE 'DEBT-%'
  GROUP BY
  #ClientSummary.ClientID
+```

@@ -20,9 +20,11 @@ Lets assume you have created a set of libraries that add extra functionality to 
 
 A better approach would be to split your libraries into 3 separate packages:  **YourCompany.WebExtensions**  **.Core** ,  **YourCompany.WebExtensions**  **.MVC** and  **YourCompany.WebExtensions**  **.Security** .  **YourCompany.WebExtensions**  **.Core**  will only contain core libraries that can be used in both ASP.NET WebForm and MVC.  **YourCompany.WebExtensions**  **.MVC** package will contain only MVC specific code and will have a dependency on the Core package.  **YourCompany.WebExtensions**  **.Security** will only contain classes that are related to security. This will give consumer a choice as well as better transparency to the features you are trying to offer. It will also have a better maintainabilty, as one team can work on one package while you are working on another one. Patches and enhancements can also be introduced much easier.
 
+
 ::: bad  
 ![Figure: Bad Example - One big library with lots of features, where most of them are obsolete with a release of ASP.NET MVC 5](package2.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Lots of smaller self contained packaged with a single purpose](package.jpg)  

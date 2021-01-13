@@ -11,7 +11,8 @@ authors:
 - title: Eric Phan
   url: https://ssw.com.au/people/eric-phan
 related: []
-redirects: []
+redirects:
+- management---do-you-use-xpscrum-wisely
 
 ---
 

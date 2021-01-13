@@ -24,6 +24,7 @@ Sometimes people see an email 6 months old and just delete it because it's "too 
 
 Example: A product suggestion might take 12 months to get around to, but when it's done the customer should be informed and get a link to the new version - it's possible that their need still exists, and they'll know that their ideas and suggestions are not ignored.
 
+
 ::: bad  
 ![Figure: Bad example - Hitting the “Delete” button without replying](delete-outlook-message-button.png)  
 :::

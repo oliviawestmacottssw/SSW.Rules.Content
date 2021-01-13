@@ -36,9 +36,11 @@ An architecture diagram is useful when:
 
 The architecture diagram is a technical diagram that demonstrates the technology in use. The purpose of the architecture diagram is to show how a solution has been built and what the technical dependencies are. It is not used for user journeys or business logic.
 
+
 ::: bad  
 ![Figure: Bad Example - a screenshot of the Azure resources used helps, but doesn't show data flows or dependencies             Depending on the complexity of your solution and your comfort/familiarity with the tools, an architecture diagram could take you anywhere from half an hour to a couple of days.Usually, the longer an architecture diagram takes you to make, the more important it is for your project. - Matt Goldman, Software ArchitectAn architecture diagram is part of the 7 crucial documents you need for your project, see our rule: Do you make awesome documentation?Tip 1: Include your most important componentsAt a minimum, your architecture diagram should include:Your data repositoryYour business logic componentYour UI    Your diagram needs to include the relationships between these components, and how they share and process data.     Tip 2: Don't use a .NET Dependency Graph as a System Architecture DiagramThe .NET dependency diagram is a useful tool, but it drills down into a specific component of the solution (the code) while ignoring the rest of it (the infrastructure). If it adds value to your documentation (i.e., there is a specific reason to include it) you can include the .NET dependency diagram, but don't use it here in place of the architecture diagram.See SSW rule: Do you generate the VS Dependency Graph?             Figure: Bad Example - the .NET dependency diagram shows code dependencies, but not the application's architectureTip 3: Show data dependencies and data flowsYour architecture diagram should show how the components of your solution fit together. It should also show \*how\* the components of the architecture depend on each other for functionality, as well as upstream and downstream data dependencies.](image001.jpg)  
 :::
+
 
 ::: good  
 ![Figure: OK Example - Shows the technologies and data flows (from the data --&gt; Azure Data Factory --&gt;Azure Databricks --&gt; Power BI). This gives an overview of the whole application in one diagram.](architecture-diagram-good1.png)  

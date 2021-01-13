@@ -20,6 +20,7 @@ redirects: []
 
 
 
+
 ::: good  
 ![](CodeAuditorProjectFile.gif)  
 :::
@@ -36,6 +37,7 @@ To add a [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) 
 8. Right click and  **add existing file**
 9. Select the  **SSW Code Auditor project file**
 10. Right click the newly added file and select " **Open With** "
+
 
 ::: good  
 ![](OpenWith.gif)  

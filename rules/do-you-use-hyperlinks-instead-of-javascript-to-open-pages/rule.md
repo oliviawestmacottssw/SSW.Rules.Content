@@ -27,14 +27,28 @@ There are two good reasons for avoiding JavaScript-powered links:
 
 
 
-&lt;div onclick="window.open('mynewpage.html');"&gt;Open a new page&lt;/div&gt;
+
+
+```
+<div onclick="window.open('mynewpage.html');">Open a new page</div>
+```
+
+
 
 ::: bad
 Figure: Bad Example - This link can't be clicked on if you paste it into an email or if JavaScript is off  
 :::
 
 
-&lt;a href="mynewpage.html"&gt;Open a new page&lt;/a&gt;
+
+
+
+```
+<a href="mynewpage.html">Open a new page</a>
+```
+
+
+
 
 ::: good
 Figure: Good Example - This link can still be clicked on when pasted and when JavaScript is turned off  

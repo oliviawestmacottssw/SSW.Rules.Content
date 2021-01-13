@@ -7,7 +7,8 @@ uri: watch-are-you-aware-of-existing-issues
 created: 2010-05-20T10:35:32.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- watch---are-you-aware-of-existing-issues
 
 ---
 

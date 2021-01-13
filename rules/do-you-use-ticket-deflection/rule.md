@@ -28,6 +28,7 @@ This way you help your users to access the information they need and help themse
 
 More info: https://support.zendesk.com/hc/en-us/community/posts/203459886-Fine-Tuning-Best-Practices-for-Ticket-Deflection
 
+
 ::: ok  
 ![Figure: You can use Azure Logic Apps with Cognitive Services to implement deflected tickets](azure-logic-deflected-tickets.jpg)  
 :::

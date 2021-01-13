@@ -25,7 +25,13 @@ Therefore, it is very important to hyperlink your phone number to increase the 
 Devices and computers that don’t have phone functionality will either open a phone app or add the number to a contact list. 
 
 
-&lt;a href="tel:+61299533000"&gt;+61 2 9953 3000&lt;/a&gt;
+
+
+```
+<a href="tel:+61299533000">+61 2 9953 3000</a>
+```
+
+
 
 ::: good
 Figure: Good Example – This is the syntax to hyperlink phone numbers.

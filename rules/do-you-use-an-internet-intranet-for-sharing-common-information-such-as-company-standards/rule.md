@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- do-you-use-an-internetintranet-for-sharing-common-information-such-as-company-standards
 
 ---
 

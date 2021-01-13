@@ -24,6 +24,9 @@ This is a fundamental principle in Test Driven Development (TDD) called Red/Gree
 
 A common approach is by returning NotImplementedException() from the method you are writing tests for. For Example:
 
+
+
+```
 [Test]
 public void ShouldAddTwoNumbers()
 {
@@ -39,6 +42,9 @@ public int Sum(int x, int y)
 {
    throw new NotImplementedException();
 }
+```
+
+
 
 ::: bad
 Bad Example: The test fails by throwing a NotImplementedException
@@ -49,11 +55,17 @@ This test fails for the wrong reason, by throwing a NotImplementedException. In 
 
 A better approach would be to return a value that is invalid:
 
+
+
+```
 // The method to test in class Calculator ...
 public int Sum(int x, int y)
 {
    return 0;
 }
+```
+
+
 
 ::: good
 Good Example: The test fails by returning an invalid result

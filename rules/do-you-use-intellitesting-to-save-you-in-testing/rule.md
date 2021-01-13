@@ -22,9 +22,11 @@ This is where IntelliTesting comes into play. The feature, formerly known as Sma
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - What’s wrong with this code?](IntelliTest-bad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example - IntelliTest in action](IntelliTest-Good.png)  

@@ -9,13 +9,15 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- authentication---do-you-have-a-remember-me-checkbox
 
 ---
 
 It is always good to provide the user with an option to have their username and password remembered. Doing so means they don't have to type them again.
 
 <!--endintro-->
+
 
 ::: good  
 ![Figure: 'Remember me' checkbox in a Web Form](sugarlearning-rememberme.jpg)  

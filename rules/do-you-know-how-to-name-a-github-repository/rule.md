@@ -19,6 +19,7 @@ Consistent naming is important so that users of your GitHub account can easily f
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example – Repository names are not consistently formatted](name-github-bad.png)  
 :::
@@ -28,6 +29,7 @@ Consistent naming is important so that users of your GitHub account can easily f
 :::
 ![Figure: Good example – Repository names are name-spaced in the format [CompanyName].[ProjectName]](name-github-good.png)
 ::: good
+
 :::
 ![Figure: OK example – Repositories are following the lower-cased hyphenated format that is common for open source projects](name-github-ok.png)
 ::: ok

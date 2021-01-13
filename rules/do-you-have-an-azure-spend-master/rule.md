@@ -9,7 +9,8 @@ authors:
 - title: Kaique Biancatti
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
-redirects: []
+redirects:
+- do-you-have-an-azure-spend--master
 
 ---
 
@@ -18,6 +19,7 @@ Azure is Microsoft's Cloud service. However, you have to pay for every little bi
 <!--endintro-->
 
 Before diving in, it is good to have an understanding of the basic built-in user roles:
+
 
 ::: ok  
 ![Figure: Roles in Azure](tabl.png)  
@@ -31,9 +33,11 @@ The best practice is to have an **Azure Spend Master** . This person will contro
 
 Also, keep in mind that you should be giving access to security groups and not individual users. It is easier, simpler, and keeps things much better structured.
 
+
 ::: bad  
 ![Bad Example: Contributor access to the Developers group](tabl3.png)  
 :::
+
 
 ::: good  
 ![Good Example: Reader access to the Developers group](tabl2.png)  

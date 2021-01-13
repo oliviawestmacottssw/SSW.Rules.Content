@@ -27,6 +27,7 @@ Incoming chats are assigned to the agent currently serving the lowest number of 
 
 Assigned chats appear in animated tabs at the bottom of the dashboard.
 
+
 ::: ok  
 ![](zendesk-departments-1.png)  
 :::
@@ -35,6 +36,7 @@ Assigned chats appear in animated tabs at the bottom of the dashboard.
 
 1. From the dashboard, select  **Settings** &gt;  **Account** &gt;  **Chat Routing** tab.
 2. Select a routing method.
+
 ::: ok  
 ![](zendesk-departments-2.png)  
 :::

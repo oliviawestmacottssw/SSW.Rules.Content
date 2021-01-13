@@ -7,7 +7,8 @@ uri: messages-do-you-use-green-tick-red-cross-and-spinning-icon-to-show-the-stat
 created: 2012-11-27T04:40:28.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- messages---do-you-use-green-tick-red-cross-and-spinning-icon-to-show-the-status
 
 ---
 
@@ -15,17 +16,21 @@ It is very important to use a clear information icon to show the current status.
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - The icon is not consistent with the actual status](../../assets/wrongIconStatus.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Use spinning icon to show the checking status](../../assets/spinningIconStatus.gif)  
 :::
 
+
 ::: good  
 ![Figure: Good Example - Use red cross icon to show the wrong status](../../assets/crossIconStatus.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Use green tick icon to show the correct status](../../assets/tickIconStatus.gif)  

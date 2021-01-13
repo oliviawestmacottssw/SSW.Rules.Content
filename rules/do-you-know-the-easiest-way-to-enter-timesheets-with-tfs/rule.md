@@ -17,6 +17,7 @@ Timesheets have always been the bane of developers, with them trying every excus
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Our Office Manager chasing up timesheets](chase-up-timesheets.jpg)  
 :::
@@ -24,6 +25,7 @@ Timesheets have always been the bane of developers, with them trying every excus
 The main problem is timesheet entry is often difficult, time consuming and requires double entry (e.g. into different systems TFS and invoicing system).
 
 Project Server 2013 offers a solution that integrates with TFS work items.
+
 
 ::: good  
 ![Figure: Project Server 2013 pulls work items from TFS and updates the actual and remaining hours](tfs-timesheets.jpg)  

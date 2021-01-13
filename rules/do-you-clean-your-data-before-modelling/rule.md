@@ -55,20 +55,26 @@ Missing, incomplete or suspect data can be dealt with in one of four ways:
 
 To exclude data from a Python dataframe, use a query expression to exclude the rows where the data is missing, and then re-assign the filtered dataframe back to the same variable.  This will permanently remove the rows.  This first code block creates a dataframe with a NaN value in one row:
 
+
+
+```
 import datetime
 import math
 import pandas as pd
 import numpy as np
 
-todays\_date = datetime.datetime.now().date()
-index = pd.date\_range(todays\_date-datetime.timedelta(10), periods=4, freq='D')
+todays_date = datetime.datetime.now().date()
+index = pd.date_range(todays_date-datetime.timedelta(10), periods=4, freq='D')
 columns = ['A','B', 'C']
 df = pd.DataFrame(index=index, columns=columns)
 df = df.fillna(0) 
 
-df.set\_value('2017-04-16', 'B', math.nan) #set one value in NaN
+df.set_value('2017-04-16', 'B', math.nan) #set one value in NaN
 
 df.head()
+```
+
+
 
 Dataframe output:
 
@@ -83,8 +89,14 @@ Dataframe output:
 
 Filtering out this row is simple using a square bracket filter expression.  Here we are filtering using the Numpy isfinite method on column B to exclude the problematic row:
 
+
+
+```
 df = df.loc[np.isfinite(df['B'])] #filter out the NaN row
 df.head()
+```
+
+
 
 Dataframe output:
 
@@ -100,8 +112,14 @@ There is also inbuilt functionality in a dataframe to fill values by interpolati
 
 This first code sample great a dataframe with a number of rows with incomplete data.
 
+
+
+```
 df2 = pd.DataFrame({'Col1': [1, 2, np.nan, 4.8, 6],'Col2': [11, np.nan, np.nan, 16, 28]})
 df2
+```
+
+
 
 
 | <br><br> | Col1<br> | Col2<br> |
@@ -115,8 +133,14 @@ df2
 
 The dataframe's inbuilt interpolate method is then used to fill the missing values.  The default behaviour of interpolate is to use a linear interpolation, but a number of more advanced algorithms are also available.  See the [interpolation documentation](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.interpolate.html) for more information.
 
+
+
+```
 df2 = df2.interpolate()
 df2
+```
+
+
 
 
 | <br><br> | Col1<br> | Col2<br> |
@@ -129,8 +153,14 @@ df2
 
 In this code sample, the mean value of a column is used to fill missing data.
 
+
+
+```
 df3 = pd.DataFrame({'Col1': [1, 2, np.nan, 4.8, 6],'Col2': [11, np.nan, np.nan, 16, 28]})
 df3
+```
+
+
 
 
 | <br><br> | Col1<br><br> | Col2<br> |
@@ -142,8 +172,14 @@ df3
 | 4<br> | 6.0<br> | 28.0<br> |
 
 
+
+
+```
 df3 = df3.fillna(df3.mean())
 df3
+```
+
+
 
 
 | <br><br> | Col1<br> | Col2<br> |

@@ -14,9 +14,11 @@ redirects: []
 ---
 
 DevOps and Scrum compliment each other very well. Scrum is about inspecting and adapting with the help of the Scrum ceremonies (Standup, Review, Planning and Retro). With DevOps it's all about Building, Measuring and Improving with the help of tools and automation. 
+
 ::: ok  
 ![Figure: Traditional Scrum Process](2016-06-08\_14-33-24.png)  
 :::
+
 
 ::: good  
 ![Figure: Scrum with DevOps](2016-06-08\_14-30-33.png)  

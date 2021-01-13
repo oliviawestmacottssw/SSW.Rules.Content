@@ -14,6 +14,7 @@ authors:
   url: https://ssw.com.au/people/damian-brady
 related: []
 redirects:
+- do-you-know-the-common-design-principles-part-2---example
 - do-you-know-the-common-design-principles-(part-2-example)
 
 ---

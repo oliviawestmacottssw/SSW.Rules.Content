@@ -14,6 +14,7 @@ related: []
 redirects:
 - give-enough-notice-for-annual-leave
 - do-you-give-enough-notice-for-annual-leave-(aka-flexibility-vs-substantial-notice)
+- office-environment---do-you-give-enough-notice-for-annual-leave
 
 ---
 
@@ -44,13 +45,16 @@ Generally, people who need to know include:
 
 
 
+
 ::: bad  
 ![::: greybox[Appointment to: @SSWAbsence]Hi SSW Absence,I'm going to Brazil for 2 weeks on Monday... wish me luck :)Thanks, Patricia  ::: Figure: Bad Example - not enough notice for substantial leave](BeachEnforcers.jpg)  
 :::
 
+
 ::: good  
 ![::: greybox[Appointment to: @SSWAbsence]Hi SSW Absence,I want to book a ticket to go to Brazil for 2 weeks.I'd like to leave in about 4 weeks. I will, of course, check with my client before I purchase my tickets.Thanks, Patricia  :::Figure: Good Example - appropriate notice given](BeachEnforcers.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Did you give enough notice, or do we need to track you down?](BeachEnforcers.jpg)  

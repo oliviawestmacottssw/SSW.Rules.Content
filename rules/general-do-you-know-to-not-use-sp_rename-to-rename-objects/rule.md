@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-not-use-sp_rename-to-rename-objects
+- general---do-you-know-to-not-use-sp_rename-to-rename-objects
 
 ---
 

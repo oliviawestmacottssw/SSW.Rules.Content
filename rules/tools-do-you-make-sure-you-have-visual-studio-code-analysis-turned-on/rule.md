@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - make-sure-you-have-visual-studio-code-analysis-turned-on
+- tools---do-you-make-sure-you-have-visual-studio-code-analysis-turned-on
 
 ---
 

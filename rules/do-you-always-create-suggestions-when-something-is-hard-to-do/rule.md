@@ -20,34 +20,46 @@ If you have to add a suggestion, make sure that you put the link to that suggest
 
 <!--endintro-->
 
-/// &lt;summary&gt;
+
+
+```
+/// <summary>
 /// base class for command implementations
 /// This is a work around as standard MVVM commands
 /// are not provided by default. 
-/// &lt;/summary&gt;
+/// </summary>
 public class Command : ICommand
 {
  // code
 }
+```
+
+
 
 ::: bad
 Figure: Bad example - The link to the suggestion should be in the comments
 
 :::
 
-/// &lt;summary&gt;
+
+
+```
+/// <summary>
 /// base class for command implementations
 /// This is a work around as standard MVVM commands
 /// are not provided by default. 
-/// &lt;/summary&gt;
+/// </summary>
 ///
-/// &lt;remarks&gt;
+/// <remarks>
 ///  Issue Logged here: https://github.com/SSWConsulting/SSW.Rules/issues/3
-///&lt;/remarks&gt;
+///</remarks>
 public class Command : ICommand
 {
  // code
 }
+```
+
+
 
 ::: good
 Figure: Good example - When you link to a suggestion everyone can find it and vote it up  

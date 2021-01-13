@@ -7,7 +7,8 @@ uri: scheduling-do-you-have-a-consistent-naming-convention-for-your-bookings
 created: 2014-06-30T06:32:15.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- scheduling---do-you-have-a-consistent-naming-convention-for-your-bookings
 
 ---
 

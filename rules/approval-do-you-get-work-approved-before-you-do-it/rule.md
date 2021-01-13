@@ -15,7 +15,8 @@ authors:
 - title: Justin King
   url: https://ssw.com.au/people/justin-king
 related: []
-redirects: []
+redirects:
+- approval---do-you-get-work-approved-before-you-do-it
 
 ---
 
@@ -26,6 +27,7 @@ The trouble is that the above is predicated on the notion that you're doing some
 Let's see how to live without stomach ulcers...
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: Get work approved and spend less time putting out fires](SuccessfulProjects\_PuttingOutFires.jpg)  

@@ -11,7 +11,8 @@ authors:
 - title: Jay Lin
   url: https://ssw.com.au/people/jay-lin
 related: []
-redirects: []
+redirects:
+- aspnet-vs-sharepoint-development---do-you-know-what-you-get-for-free-out-of-the-box
 
 ---
 

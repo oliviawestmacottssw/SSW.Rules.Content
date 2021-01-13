@@ -36,6 +36,7 @@ So recommendations for managing updates are as follows:
 5. Do all of this on a schedule - have an email sent to your SysAdmins to remind them to review and reboot needed machines:
 
 
+
 ::: good  
 ![Good Example: Scheduled email showing clear action points and WSUS stats](WSUSReport.png)  
 :::

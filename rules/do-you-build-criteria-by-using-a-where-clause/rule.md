@@ -17,7 +17,13 @@ redirects:
 It is very common to come up with ways to filter data. 
 As an example, you could do it like this.
 
+
+
+```
 ClientSearch.aspx?Client.ClientID='ssw'&Client.CoName='S'
+```
+
+
 
 **Figure: Filtering Data**
 
@@ -27,20 +33,44 @@ But this gives exact matches. E.g.:
 
 <!--endintro-->
 
+
+
+```
 ClientID=ssw
+```
+
+
 
 What if you want to give the ability to allow the user to be able to use a like e.g.
 
+
+
+```
 ClientID like '%ssw%'
+```
+
+
 
 Well then I could add something like
 
+
+
+```
 ClientSearch.aspx?Client.ClientID=ssw&Client.ClientID.SearchMode=OR
+```
+
+
 
 But why do this when a WHERE clause in SQL can do all this 
 e.g.
 
+
+
+```
 ClientSearch.aspx?Where=Client.ClientID%20like%20'%ssw%'
+```
+
+
 
 **Figure: Similar matches**
 
@@ -51,7 +81,14 @@ The Pros for do this are:
 * Quicker development time.
 * SQL is very powerful - say I want to JOIN another table in the WHERE, I could use an IN statement and do a sub query - no extra code by the developer.
 * Matches HTML syntax (named value pair) and as a developer you can get it easy. e.g.
-    Request.QueryString("Where")
+
+
+
+```
+Request.QueryString("Where")
+```
+
+
 
 
 The CONS:

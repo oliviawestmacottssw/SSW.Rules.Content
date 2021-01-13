@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - the-team-do-you-help-your-scrum-master-(not-scrummaster)-protect-and-serve-the-team
+- the-team---do-you-help-your-scrum-master-protect-and-serve-the-team
 
 ---
 

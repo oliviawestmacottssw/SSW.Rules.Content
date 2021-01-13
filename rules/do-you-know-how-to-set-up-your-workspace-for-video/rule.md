@@ -25,6 +25,7 @@ Without a spare room, it can be difficult to create a workable setup, however as
 ### Tip 1: Use a room divider
 
 
+
 ::: ok  
 ![Figure: Christian uses this divider to hide his background](room-divider.jpg)  
 :::
@@ -37,6 +38,7 @@ It has the added effect of softening any background light, e.g. windows, lamps e
 
 
 Jason’s setup is another good example:
+
 
 ::: ok  
 ![Figure: Jason is in a bedroom, however, the angle shows little of the bed](jason-angle-bed.jpg)  
@@ -57,6 +59,7 @@ One of the most frustrating aspects of remote calls is participants’ mixed aud
 
 **USB webcam with built-in mic array**
 
+
 ::: ok  
 ![Figure:        Logitech Brio 4k webcam](logitech-brio.png)  
 :::
@@ -76,6 +79,7 @@ Benefits
 
 **Podcast style microphone** 
 
+
 ::: ok  
 ![Figure: <br>            Rode USB Podcaster microphone](rode-podcaster.jpg)  
 :::
@@ -94,6 +98,7 @@ Benefits
 
 
 The best way to improve your video is not to buy a new fancy camera, but to improve your existing setup with great lighting.
+
 
 ::: ok  
 ![Figure: Ring light for webcam/camera/smartphone](ring-light.jpg)  

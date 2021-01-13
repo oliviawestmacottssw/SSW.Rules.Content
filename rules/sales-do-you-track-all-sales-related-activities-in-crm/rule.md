@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - track-sales-emails
+- sales---do-you-track-all-sales-related-activities-in-crm
 
 ---
 
@@ -39,6 +40,7 @@ Microsoft Dynamics 365 allows users to track activities such as appointments, ph
 
 All sales activities should be tracked via CRM as an opportunity, company or contact.
 
+
 ::: ok  
 ![](Track-an-appointment.jpg)  
 :::
@@ -50,6 +52,7 @@ By recording these activities, reports can be created to view:
  e.g. The "Activities" report. This should be printed monthly and posted on the wall. (shown below)
 * The history for all sales activities relating to an opportunity. This is useful to review before making a call (but is not necessary if you CC each other).
 * Which opportunities have been neglected. This is a custom report and could be useful in a large company where opportunities could slip through the cracks.
+
 
 
 ::: ok  

@@ -26,6 +26,7 @@ Repeat customers and return web visitors are valuable to your business. To help 
 
 Set the conditions of the trigger where the visitor previous visits is greater than 0, as well as the conditions where the customer has not yet been helped by another agent or initiated a chat already themselves.
 
+
 ::: ok  
 ![](zendesk-interact-1.png)  
 :::
@@ -36,6 +37,7 @@ As a customer, how many times have you added items to your online shopping cart,
 
 To provide customers that extra push to purchase, you can set up a trigger to initiate a proactive chat when a customer is on your shopping cart page URL for a specific length of time, more than 60 seconds, for example. You can send them a personalized message to see if they have any questions about the items in their cart.
 
+
 ::: ok  
 ![](zendesk-interact-2.png)  
 :::
@@ -45,6 +47,7 @@ To provide customers that extra push to purchase, you can set up a trigger to in
 Similar to the previous shopping cart example, there may be some critical pages on your website or Help Centre that you would want to provide customers with an extra level of support by reaching out to them.
 
 One example would be when a prospect is on your pricing page and evaluating which plan or product to select. You can initiate a proactive chat to provide the guidance they might need.
+
 
 ::: ok  
 ![](zendesk-interact-3.png)  

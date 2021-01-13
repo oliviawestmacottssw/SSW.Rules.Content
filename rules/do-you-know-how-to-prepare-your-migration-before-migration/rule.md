@@ -23,6 +23,7 @@ Before migrating your content over SharePoint Online, you want to get rid of unu
 
 Use the Sharegate migration tool to generate reports on your site collections and sites, so you can easily identify problems. Reporting tool comes with a lot of out of the box reports, and you can even create custom ones.
 
+
 ::: ok  
 ![Figure: Sharegate reporting menu have 4 main reports](sharegate-4-main-reports.png)  
 :::

@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - minimize-skype-distractions
+- interruptions---do-you-minimize-skype-distractions
 
 ---
 
@@ -20,6 +21,7 @@ redirects:
 1. Set your status to Busy - people will think twice before messaging you
 2. Don't display an alert when a contact comes online or goes offline
 3. Don't play a sound when you receive an email. Remember - you do need a sound when you receive an IM in case you're not looking at your PC when it arrives.
+
 
 
 ::: ok  

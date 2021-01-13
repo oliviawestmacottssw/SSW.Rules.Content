@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - create-primary-key-on-your-tables
+- schema---do-you-create-primary-key-on-your-tables
 
 ---
 

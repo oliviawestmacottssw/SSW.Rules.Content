@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - have-a-rowversion-column
+- schema---do-you-have-a-rowversion-column
 
 ---
 
@@ -31,6 +32,9 @@ Figure: Bad Example - No rowversion available in this table
 
 
 
+
+
+```
 CREATE TABLE MyTest (myKey int PRIMARY KEY 
     ,myValue int, RecordVersion rowversion); 
 GO
@@ -40,7 +44,10 @@ INSERT INTO MyTest (myKey, myValue) VALUES (2, 0);
 INSERT INTO MyTest (myKey, myValue) VALUES (3, 0); 
 UPDATE MyTest SET myValue = 1 WHERE myKey = 2
  
-SELECT \* FROM MyTest ORDER BY RecordVersion DESC
+SELECT * FROM MyTest ORDER BY RecordVersion DESC
+```
+
+
 
 ::: good
 Figure: Good Example - A create statement which builds a table with a rowversion

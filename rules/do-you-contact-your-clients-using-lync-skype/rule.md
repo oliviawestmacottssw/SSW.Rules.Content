@@ -7,7 +7,8 @@ uri: do-you-contact-your-clients-using-lync-skype
 created: 2010-07-16T06:46:49.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- do-you-contact-your-clients-using-lyncskype
 
 ---
 

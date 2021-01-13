@@ -14,6 +14,7 @@ related: []
 redirects:
 - use-the-right-html-figure-caption
 - figures-do-you-use-the-right-html-css-code-to-add-the-useful-figure-caption
+- figures---do-you-use-the-right-htmlcss-code-to-add-images-and-captions
 
 ---
 
@@ -21,10 +22,16 @@ Most developers put the image and the caption in a DIV tag, where the figure is 
 
 <!--endintro-->
 
-&lt;div&gt;
-  &lt;img alt=""/&gt;
-  &lt;p&gt;Figure: Caption&lt;/p&gt;
-&lt;/div&gt;
+
+
+```
+<div>
+  <img alt=""/>
+  <p>Figure: Caption</p>
+</div>
+```
+
+
 
 ::: bad
 Figure: Bad Example  
@@ -32,10 +39,16 @@ Figure: Bad Example
 
 Instead, you should use      **&lt;figure&gt;** and      **&lt;figcaption&gt;** as per [https://www.w3schools.com/TAGS/tag\_figcaption.asp](https&#58;//www.w3schools.com/TAGS/tag_figcaption.asp). This structure gives semantic meaning to the image and figure:
 
-&lt;figure&gt;
-  &lt;img src="image.jpg" alt="Image" /&gt;
-  &lt;figcaption&gt;Figure: Caption&lt;/figcaption&gt;
-&lt;/figure&gt;
+
+
+```
+<figure>
+  <img src="image.jpg" alt="Image" />
+  <figcaption>Figure: Caption</figcaption>
+</figure>
+```
+
+
 
 ::: good
 Figure: Good Example
@@ -47,10 +60,16 @@ Figure: Good Example
 
 For some internal sites, we still use the old way to place images: Using  **&lt;dl&gt;** ,  **&lt;dt&gt;** (which is the item in the list – in our case an image), and      **&lt;dd&gt;** for a caption.
 
-&lt;dl class="image"&gt; OR &lt;dl class="badImage"&gt; OR &lt;dl class="goodImage"&gt; 
-  &lt;dt&gt;&lt;img src="image.jpg" alt="Image"/&gt;&lt;/dt&gt;
-  &lt;dd&gt;Figure: Caption&lt;/dd&gt; 
-&lt;/dl&gt;
+
+
+```
+<dl class="image"> OR <dl class="badImage"> OR <dl class="goodImage"> 
+  <dt><img src="image.jpg" alt="Image"/></dt>
+  <dd>Figure: Caption</dd> 
+</dl>
+```
+
+
  **Figure: Good Example
 ** 
 

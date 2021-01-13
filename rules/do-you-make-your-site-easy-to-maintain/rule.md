@@ -19,14 +19,17 @@ If you have database driven pages on your website, you need a way of updating th
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: "New" and "Edit" links allow SSW Employees to maintain testimonial entries easily](MaintenanceDemo.gif)  
 :::
 
 
+
 ::: ok  
 ![Figure: "Edit" button on WordPress admin bar](wordpress-edit.png)  
 :::
+
 
 
 ::: good  
@@ -38,6 +41,7 @@ From Github, you can edit and submit a pull request. See     https://github.com/
 This is better than sending a 'Change from X to Y' email ([http://rules.ssw.com.au/do-you-ask-for-content-changes-using-from-x-to-y](/do-you-ask-for-content-changes-using-from-x-to-y)) as the work can be done immediately with less work and management requirements.
 
 ### Related Rule
+
 
 
 ::: ok  

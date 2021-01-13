@@ -17,6 +17,7 @@ redirects: []
 
 The built-in CRM report wizard is great for users to quickly and easily create reports in CRM.
 
+
 ::: ok  
 ![Figure: The starting point](custom-reports-1.jpg)  
 :::
@@ -28,6 +29,7 @@ But when the user wants to create a report that needs additional totals, differe
 Do you use Filtered Views or Fetch?
 
 [Filtered Views](http://msdn.microsoft.com/en-us/library/gg309722.aspx) allows the report developer to query underlying SQL data directly. Filtered views are fully compliant with the Microsoft Dynamics CRM security model. When you run a report that obtains data from filtered views, the Microsoft Dynamics CRM security role determines what data you can view in the report.
+
 
 ::: ok  
 ![Figure: Filtered Views in the CRM SQL Database](custom-reports-2.jpg)  
@@ -73,9 +75,11 @@ More advanced users will have a boilerplate(s) for the various CRM report styles
 
 Here’s an example of a before (CRM Wizard) and after (Visual Studio) for an Activity Report:
 
+
 ::: ok  
 ![Figure: Report created using CRM Wizard](custom-reports-3.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Report updated in Visual Studio](custom-reports-3.jpg)  

@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - use-default-zone-url-in-search-content-source
+- search---do-you-use-default-zone-url-in-search-content-source
 
 ---
 

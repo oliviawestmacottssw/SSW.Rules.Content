@@ -22,13 +22,16 @@ People may not pay attention to some important words in your pages. While adding
 
 <!--endintro-->
 
+
 ::: ok  
 ![](validation-bad.jpg)  
 :::
 
+
 ::: bad  
 ![Figure: Bad example - no icons to indicate the status](validation-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - green tick and red cross help the user to know what's going on](validation-good.jpg)  

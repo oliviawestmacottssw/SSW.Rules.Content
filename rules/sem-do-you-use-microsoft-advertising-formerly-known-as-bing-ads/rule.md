@@ -18,6 +18,7 @@ related:
 - do-you-use-lead-magnets-as-part-of-your-marketing-strategy
 redirects:
 - do-you-use-microsoft-advertising-(formerly-known-as-bing-ads)
+- sem---do-you-use-microsoft-advertising-formerly-known-as-bing-ads
 - sem-do-you-use-microsoft-advertising-(formerly-known-as-bing-ads)
 
 ---

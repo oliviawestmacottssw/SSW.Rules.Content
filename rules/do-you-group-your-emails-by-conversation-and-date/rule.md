@@ -19,9 +19,11 @@ You may be involved in different tasks simultaneously every day.  The best way t
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example. Email messages are grouped by Date](GroupByConversationAndDateBad.gif)  
 :::
+
 
 ::: good  
 ![Figure:  Good example.  Email messages are grouped by Conversation](GroupByConversationAndDateGood.gif)  
@@ -32,6 +34,7 @@ Follow these steps to group by conversation:
 1. Open Outlook and select the Mail View.
 2. Right-click any column and choose the "Customize Current View..." option.
 3. Select the "Group by..." option as displayed in the image.
+
 
 ::: ok  
 ![Figure:  Steps to group by conversation field](GroupByConversationAndDate3.gif)  

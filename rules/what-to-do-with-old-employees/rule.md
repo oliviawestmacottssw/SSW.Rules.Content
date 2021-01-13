@@ -17,6 +17,7 @@ When migrating from TFS to the cloud you will find that a list of historical use
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: TFS Identity Mapping](old-employees-to-the-cloud.jpg)  
 :::

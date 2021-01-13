@@ -9,7 +9,8 @@ authors:
 - title: Eric Phan
   url: https://ssw.com.au/people/eric-phan
 related: []
-redirects: []
+redirects:
+- tasks---when-you-check-in-code-and-associate-it-to-a-task
 
 ---
 

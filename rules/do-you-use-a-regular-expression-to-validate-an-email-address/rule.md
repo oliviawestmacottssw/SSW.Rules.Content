@@ -18,26 +18,38 @@ A regex is the best way to verify an email address.
 
 <!--endintro-->
 
+
+
+```
 public bool IsValidEmail(string email)
 {
  // Return true if it is in valid email format.
- if (email.IndexOf("@") &lt;= 0) return false; 
+ if (email.IndexOf("@") <= 0) return false; 
  if (email.EndWith("@")) return false; 
- if (email.IndexOf(".") &lt;= 0) return false; 
+ if (email.IndexOf(".") <= 0) return false; 
  if ( ... 
 }
+```
+
+
 
 ::: bad
 Figure: Bad example of verify email address
 
 :::
 
+
+
+```
 public bool IsValidEmail(string email) 
 { 
  // Return true if it is in valid email format.
  return System.Text.RegularExpressions.Regex.IsMatch( email, 
  @"^([\w-\.]+)@(([[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$";
 }
+```
+
+
 
 ::: good
 Figure: Good example of verify email address

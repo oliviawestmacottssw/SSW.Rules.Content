@@ -23,6 +23,7 @@ in the Chat section, with the Visitors activity, you can see is a real-time list
 
 The Visitors activity gives you a birds-eye view of all the visitors on your website by putting them into different categories:
 
+
 ::: ok  
 ![](zendesk-visitors-1.png)  
 :::
@@ -39,6 +40,7 @@ Click the  **List** tab  to view visitors in a list, as shown above, or click  *
 **Grouping visitors**
 
 This is the primary view of the Visitor List, but you can also monitor them in a number of different ways:
+
 
 ::: ok  
 ![](zendesk-visitors-2.png)  
@@ -65,6 +67,7 @@ Unlike the standard Visitor List, the High Load Dashboard only shows Incoming an
 
 1. From the dashboard, go to  **Settings** &gt;  **Account** &gt;  **Visitor List** tab.
 2. Select the  **High Load Dashboard** check box.  <br>      
+
 ::: ok  
 ![](zendesk-visitors-3.png)  
 :::

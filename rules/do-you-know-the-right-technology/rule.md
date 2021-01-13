@@ -18,9 +18,25 @@ redirects:
 
 Use  **.NET MVC** over  **ASP.NET Web Forms** .
 
-&lt;asp:HyperLink     ID="HyperLink1"     runat="Server"     NavigateUrl="http://www.example.com" CssClass="example"     Text="Hello World"/&gt;
+
+
+```
+<asp:HyperLink
+    ID="HyperLink1"
+    runat="Server"
+    NavigateUrl="http://www.example.com" CssClass="example"
+    Text="Hello World"/>
+```
+
+
 Figure: Bad example - Using Web Forms
-&lt;a href="http://www.example.com" class="example" id="Example1\_HyperLink1"&gt;Hello World&lt;/a&gt;
+
+
+```
+<a href="http://www.example.com" class="example" id="Example1_HyperLink1">Hello World</a>
+```
+
+
 Figure: Good example - Using MVC 5
 Read the Top 5 reasons why you should never use Web Forms again:
 

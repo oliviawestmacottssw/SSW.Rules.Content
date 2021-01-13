@@ -15,6 +15,7 @@ related:
 redirects:
 - professional-integrity
 - do-you-have-professional-integrity
+- communication---do-you-have-professional-integrity-are-you-a-person-of-your-word
 - communication-do-you-have-professional-integrity-(are-you-a-person-of-your-word)
 
 ---

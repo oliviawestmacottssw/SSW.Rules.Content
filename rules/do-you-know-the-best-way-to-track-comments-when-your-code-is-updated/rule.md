@@ -24,10 +24,13 @@ Since applications evolve over time - don't add comments to your code with datet
 
 Commands such as git blame or Visual Studio's annotate are great ways of seeing who and when a line of code was changed.
 
-private void iStopwatchOptionsForm\_Resizing(object sender, System.EventArgs e) {
+
+
+```
+private void iStopwatchOptionsForm_Resizing(object sender, System.EventArgs e) {
     // Don't close this form except closing this application - using hide instead; 
-    if (!this.m\_isForceClose) {
- // &lt;added by FW, 11/10/2006&gt;
+    if (!this.m_isForceClose) {
+        // <added by FW, 11/10/2006>
         // Remind saving the changes if the options were modified.
         if (this.IsOptionsModified) {
             if (MessageBox.Show("Do
@@ -36,9 +39,12 @@ MessageBoxIcon.Warning) = DialogResult.Yes) {
                 this.SaveOptions()
             }
         }
-        // &lt;/added&gt;
+        // </added>
     }
 }
+```
+
+
 
 ::: bad
 Figure: Bad example - timestamped comments add noise to the code

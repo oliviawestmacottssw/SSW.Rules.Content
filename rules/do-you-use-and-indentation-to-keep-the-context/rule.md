@@ -15,7 +15,8 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects: []
+redirects:
+- do-you-use--and-indentation-to-keep-the-context
 
 ---
 

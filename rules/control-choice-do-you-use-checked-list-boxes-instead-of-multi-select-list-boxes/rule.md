@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- control-choice---do-you-use-checked-list-boxes-instead-of-multi-select-list-boxes
 
 ---
 

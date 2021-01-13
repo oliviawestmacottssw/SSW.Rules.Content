@@ -22,6 +22,7 @@ redirects:
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Do you want users to have good first impressions?](pic16-TestingDoYouWantThemT.gif)  
 :::

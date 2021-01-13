@@ -7,7 +7,8 @@ uri: controls-do-you-include-all-option-in-your-comboboxes
 created: 2012-11-27T08:38:56.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- controls---do-you-include--all--option-in-your-comboboxes
 
 ---
 
@@ -34,8 +35,14 @@ If the ID column in your database is a string data type, it is useful to add a c
 
 In SQL Server, you can add a check constraint that limits your column to alphanumeric characters, a hyphen, or underscore using the following T-SQL:
 
-ALTER TABLE [TableName] ADD CONSTRAINT CK\_String\_Identifier
-    CHECK ([StringIdColumn] NOT LIKE'%[^a-zA-Z0-9\_\-]%')
+
+
+```
+ALTER TABLE [TableName] ADD CONSTRAINT CK_String_Identifier
+    CHECK ([StringIdColumn] NOT LIKE'%[^a-zA-Z0-9_\-]%')
+```
+
+
 
 
 
@@ -44,9 +51,11 @@ ALTER TABLE [TableName] ADD CONSTRAINT CK\_String\_Identifier
 
 ![ComboBox without All](../../assets/Combo-ALL-1.jpg)
 
+
 ::: bad  
 ![Figure: Bad Example - No '-All-' option so the user cannot select all data](../../assets/Combo-ALL-1.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Having an '-All-' option gives a user a chance to select all data](../../assets/Combo-ALL-1.jpg)  
@@ -54,13 +63,16 @@ ALTER TABLE [TableName] ADD CONSTRAINT CK\_String\_Identifier
 
 Also, keep it simple!
 
+
 ::: bad  
 ![Figure: Bad Example - '-All Stores-' isn't needed](../../assets/Combo-ALL-1.jpg)  
 :::
 
+
 ::: good  
 ![Figure: Good Example - Keep it as a simple '-All-'](../../assets/Combo-ALL-1.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Keeping it simple makes it easy to spot (that there is no filter) when you have multiple fields.](../../assets/Combo-ALL-1.jpg)  

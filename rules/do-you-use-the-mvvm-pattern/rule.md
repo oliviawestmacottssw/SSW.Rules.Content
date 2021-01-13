@@ -22,9 +22,11 @@ Xamarin follows the MVVM design pattern (see: [Do you use the MVVM pattern in yo
 
 MVVM allows for loose coupling between data, business logic, and UI. In Xamarin, UI is usually defined in XAML (although you can declaratively define your UI in C# code too). Your UI is called a 'view' - a view can be a page or a UI element, although UI elements that are not complete pages are more often referred to as     *controls*. ![](../../assets/clip_image001.png)
 
+
 ::: bad  
 ![Figure: Bad Example - Logic and properties are in the code behind, which decreases maintainability and leads to antipatterns like async void](../../assets/clip\_image001.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Values are bound to properties of the ViewModel, and actions are bound to Commands in the ViewModel](../../assets/clip\_image001.png)  

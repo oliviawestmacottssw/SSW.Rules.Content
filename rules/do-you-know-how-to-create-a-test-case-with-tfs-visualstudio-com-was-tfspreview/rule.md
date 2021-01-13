@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- do-you-know-how-to-create-a-test-case-with-tfsvisualstudiocom-was-tfspreview
 - do-you-know-how-to-create-a-test-case-with-tfs-visualstudio-com-(was-tfspreview)
 
 ---

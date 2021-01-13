@@ -58,6 +58,7 @@ Example of properties you can use (common ones);
 
 **More:** https://docs.microsoft.com/en-us/office365/securitycompliance/keyword-queries-and-search-conditions
 
+
 ::: ok  
 ![Figure: Example of using Filetype: filter](filter-sharepoint-example.png)  
 :::

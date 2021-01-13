@@ -23,9 +23,11 @@ There are a number of web applications that do a great job on this:
 * [UserEcho](https://userecho.com/)
 
 
+
 ::: ok  
 ![Figure: The UserVoice website allows user to enter suggestions (used here by SSW Code Auditor)](codeauditoruservoice.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: UserVoice has an Administrator console to track feedback](admin.jpg)  
@@ -38,13 +40,16 @@ Many software houses use this for their products Eg. SSW Code Auditor, SSW Link 
 
 Here are the google results as at 2014
 
+
 ::: ok  
 ![Figure: Google result of UserVoice](uservoice.jp.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: Google result of GetSatisfaction](getsatisfaction.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Google result of UserEcho](googleresultuserecho.jpg)  

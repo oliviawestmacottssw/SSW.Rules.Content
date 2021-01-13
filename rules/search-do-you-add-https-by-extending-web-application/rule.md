@@ -9,6 +9,7 @@ authors: []
 related: []
 redirects:
 - extend-web-application-for-https
+- search---do-you-add-https-by-extending-web-application
 
 ---
 

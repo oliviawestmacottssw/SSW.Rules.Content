@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - check-the-global-variable-error-after-executing-a-data-manipulation-statement
+- stored-procedures---do-you-check-the-global-variable-error-after-executing-a-data-manipulation-statement
 - stored-procedures-do-you-check-the-global-variable-@@error-after-executing-a-data-manipulation-statement
 
 ---

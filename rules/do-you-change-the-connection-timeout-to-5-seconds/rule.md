@@ -21,16 +21,28 @@ By default, the connection timeout is 15 seconds. When it comes to testing if a 
 
 <!--endintro-->
 
+
+
+```
 "Integrated Security=SSPI;Initial Catalog=SallyKnoxMedical;Data 
 Source=TUNA"
+```
+
+
 
 ::: bad
 Figure: Bad Connection String
 
 :::
 
+
+
+```
 "Integrated Security=SSPI;Initial Catalog=SallyKnoxMedical;Data Source=TUNA;
 Connect Timeout=5"
+```
+
+
 
 ::: good
 Figure: Good Connection String with a 5-second connection timeout

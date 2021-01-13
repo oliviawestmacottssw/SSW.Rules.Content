@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- do-you-know-how-to-create-nice-urls-using-aspnet-4
 
 ---
 
@@ -21,9 +22,11 @@ There are a lot of reasons to have nice URLs for your website:
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example – This URL is impossible to remember for your users, and even search don’t like these URLs](BadURL.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example – Nice clean URL, easy to remember, easy to guess where I am and good for search engines](GoodURL.jpg)  

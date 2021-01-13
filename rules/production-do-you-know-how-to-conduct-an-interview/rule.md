@@ -7,7 +7,8 @@ uri: production-do-you-know-how-to-conduct-an-interview
 created: 2013-03-04T23:47:54.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- production---do-you-know-how-to-conduct-an-interview
 
 ---
 

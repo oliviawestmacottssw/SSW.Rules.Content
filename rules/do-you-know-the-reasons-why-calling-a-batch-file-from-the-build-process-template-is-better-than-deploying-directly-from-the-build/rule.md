@@ -19,6 +19,7 @@ We do this by including deployment batch files in the solution, and specifying t
 
 <!--endintro-->
 
+
 ::: bad  
 ![](deployment-scripts.jpg)  
 :::

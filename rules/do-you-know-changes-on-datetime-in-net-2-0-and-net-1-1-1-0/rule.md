@@ -11,7 +11,8 @@ authors:
 - title: Ryan Tee
   url: https://ssw.com.au/people/ryan-tee
 related: []
-redirects: []
+redirects:
+- do-you-know-changes-on-datetime-in-net-20-and-net-1110
 
 ---
 

@@ -15,6 +15,7 @@ Often clients will call up asking for a short task to be performed. You need to 
 <!--endintro-->
     If it was a quick 5 mins I would do it straight away... however I need to do a little investigation... first impression is that it might take me a couple of hours... if that is OK then I would need you to authorize me to go ahead.Let me know...
 Good example 
+
 ::: ok  
 ![Figure: Careful! One small free task can turn into a dam-breaking torrent of free work.](../../assets/DealingwithClients-Floodgates.jpg)  
 :::

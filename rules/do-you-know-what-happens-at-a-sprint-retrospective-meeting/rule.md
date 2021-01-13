@@ -47,17 +47,21 @@ To help aid discussion it can be useful for the Scrum Master to prepare items fo
 
 For example the Scrum Master can find PBIs (Product Backlog Items) in the Sprint that were successful / not successful and then facilitate the discussion as to why.
 
+
 ::: ok  
 ![Figure: The Scrum Master can inspect the Sprint Backlog for items which are Not Done at the end of a Sprint](retrospective-meeting-1.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: The Scrum Master can inspect the team’s velocity over multiple Sprints](retrospective-meeting-2.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: The Scrum Master can inspect the team’s Sprint Burndown for insight into how work progressed through the Sprint](retrospective-meeting-3.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: The Scrum Master can inspect the team’s Code Coverage to for an insight into code quality](retrospective-meeting-4.jpg)  

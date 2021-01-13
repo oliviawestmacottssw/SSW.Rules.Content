@@ -40,6 +40,7 @@ A better way is:
 "It was 22 seconds, you asked for around 10 seconds. It is now 8 seconds."
 
 
+
 ::: good  
 ![Figure: Good example – Add some code to check the timing, before fixing any performance issues (An example from SSW Code Auditor)](Code-Auditor-performance.jpg)  
 :::
@@ -48,11 +49,13 @@ Also, never forget to do incremental changes in your tests!
 
 For example, if you are trying to measure the optimal number of processors for a server, do not go from 1 processor to 4 processors at once:
 
+
 ::: bad  
 ![Figure: Bad Example - Going from 1 to 4 all at once gives you incomplete measurements and data](1to4.png)  
 :::
 
 Do it incrementally, adding 1 processor each time, measuring the results, and then adding more:
+
 
 ::: good  
 ![Figure: Good Example - Going from 1 to 2, then measuring, then incrementally adding one more, measuring...](1234.png)  

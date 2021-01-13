@@ -52,20 +52,33 @@ Test.Integration.WebUI: This test project tests the WebUI and depends on other e
 That means if any external resource is unavailable, the tests will fail.
 Tests.Functional.SilverlightUI: Tests the Silverlight UI from an end-user perspective by clicking around in the application
 
+
 ::: good  
 ![Figure: Good example - Naming for a Unit Test Project](UnitTestsProject.jpg)  
 :::
 Samples Naming of test methods
+
+
+```
 [TestMethod]
- public void Test\_Client()
+ public void Test_Client()
+```
+
+
 
 ::: bad
 Bad example: There is no way to guess what this test does; you have to read the source
 
 :::
 
+
+
+```
 [TestMethod]
- public void PubSubServiceConnectTest\_AuctionOk\_AuctionInfoReturned()
+ public void PubSubServiceConnectTest_AuctionOk_AuctionInfoReturned()
+```
+
+
 
 ::: good
 Good Example: We are testing PubSubService.Connect under the scenario that the "Auction status is OK" with an expected behaviour that data is returned  
@@ -73,6 +86,9 @@ Good Example: We are testing PubSubService.Connect under the scenario that the "
 
 Sample Code for Integration Tests:
 
+
+
+```
 using System;
 using System.Collections;
 using System.Data;
@@ -85,43 +101,50 @@ namespace SSW.NETToolkit.IntegrationTests
   [TestFixture]
   Public class CustomerTests
     {
-    BusinessRules business=new BusinessRules();     
+    BusinessRules business=new BusinessRules(); 
+   
     [Test]
-    public void OrderTotal\_SimpleExampleInput()
+    public void OrderTotal_SimpleExampleInput()
         {
         decimal calculatedGrandTotal = business.CalculateOrderGrandTotal(10248);
         int expected = 440;
         Assert.AreEqual(expected, calculatedGrandTotal, "Calculated grand total didn't match the expect
         }
     [Test]
-    public void OderTotal\_Discounts()
+    public void OderTotal_Discounts()
         {
         decimal calculatedGrandTotal = business.CalculateOrderGrandTotal(10260);
         decimal expected = 1504.65m;
         Assert.AreEqual(expected, calculatedGrandTotal, "Calculated grand total didn't match the expecte
         }
     [Test]
-    public void RoundingTest\_RoundUp()
+    public void RoundingTest_RoundUp()
         {
         Assert.AreEqual(149.03, business.ApplyRounding(149.0282m), "Incorrect rounding rules applied for
         }
     [Test]
-    public void RoundingTest\_RoundDown()
+    public void RoundingTest_RoundDown()
         {
-        Assert.AreEqual(149.02, business.ApplyRounding(149.0232m), "Incorrect rounding rules applied     
+        Assert.AreEqual(149.02, business.ApplyRounding(149.0232m), "Incorrect rounding rules applied 
+   
         }
     [Test]
-    public void RoundingTest\_NoRoundingNeeded()
+    public void RoundingTest_NoRoundingNeeded()
         {
-        Assert.AreEqual(149.02, business.ApplyRounding(149.02m), "Incorrect rounding rules applied for     
+        Assert.AreEqual(149.02, business.ApplyRounding(149.02m), "Incorrect rounding rules applied for 
+   
         }
     [Test]
-    public void RoundingTest\_BorderCondition()
+    public void RoundingTest_BorderCondition()
         {
         Assert.AreEqual(149.02, business.ApplyRounding(149.025m), "Incorrect rounding rules applied for
         }
     }
   }
+```
+
+
+
 
 ::: ok  
 ![Figure: This rule is consistent with the Visual Studio default](TestGenerationSettings.gif)  
@@ -129,9 +152,11 @@ namespace SSW.NETToolkit.IntegrationTests
 **Tip:** You can create a test project using the Unit Test Wizard: Test &gt; Add New Test
 
 
+
 ::: ok  
 ![Figure: Unit Test Wizard 1](AddNewTest.gif)  
 :::
+
 
 ::: ok  
 ![Figure: Unit Test Wizard 2](CreateUnitTests.gif)  

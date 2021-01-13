@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - create-clustered-index-on-your-tables
+- schema---do-you-create-clustered-index-on-your-tables
 
 ---
 
@@ -29,6 +30,12 @@ For example, in an Order to OrderDetails relationship with OrderID as the joinin
 
 Another example, if a table is frequently used for reporting, and a date range is used to define the time scope of the report, a clustered index on the date column is suitable. In more technical terms, if queries such as...
 
-SELECT \* FROM ReportTable WHERE ItemDate BETWEEN 1/1/2003 AND 1/2/2003
+
+
+```
+SELECT * FROM ReportTable WHERE ItemDate BETWEEN 1/1/2003 AND 1/2/2003
+```
+
+
 
 ...is executed frequently, ItemDate is a good candidate column for a clustered index.

@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-use-trace-fail-or-set-assertuienabled-＂true＂-in-your-web-config
+- do-you-use-tracefail-or-set-assertuienabledtrue-in-your-webconfig
 
 ---
 

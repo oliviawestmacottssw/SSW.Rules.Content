@@ -23,6 +23,7 @@ There are a few methods to control a client's machine remotely, all of them have
 For supporting end users' workstation machines remotely, here is the order you should try with the end users:
 
 * [Microsoft Teams](https://products.office.com/en-AU/microsoft-teams/group-chat-software) - (recommended) <br>      
+
 ::: ok  
 ![Figure: Teams allow you to give remote control, making it the best option for giving support](Teams-give-control.png)  
 :::
@@ -39,6 +40,7 @@ For supporting end users' workstation machines remotely, here is the order you s
 
 
 For server machines, we recommend using either Windows' built-in Remote Desktop (also knows as "Terminal Services") or a VNC-based tool. Remote Desktop provides each authenticated user a Windows login session that is not shared. If your client lives in a place where the time zone is different, Remote Desktop should be your first choice as it doesn't need the client's interaction once Remote Desktop is enabled (typically it should have been enabled for a server for the ease for remote maintenance and monitoring). For servers, Remote Desktop is usually enabled via a group policy (AD GPO), although it can also be enabled through Windows System Properties.
+
 
 ::: ok  
 ![Figure: Enable Remote Desktop](remoteconnection.png)  

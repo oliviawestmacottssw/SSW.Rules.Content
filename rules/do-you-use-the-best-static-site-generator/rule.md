@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - static-site-generator
+- do-you-use-the-best-static-site-generator-
 
 ---
 

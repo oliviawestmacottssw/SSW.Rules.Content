@@ -27,6 +27,7 @@ related:
 - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
 redirects:
 - branding-do-you-know-you-should-use-overlay-on-photos-shared-on-your-social-media
+- branding---do-you-know-when-to-use-an-overlay-on-images
 
 ---
 

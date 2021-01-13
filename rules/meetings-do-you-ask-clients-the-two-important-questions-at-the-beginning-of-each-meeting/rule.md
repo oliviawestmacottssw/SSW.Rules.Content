@@ -7,7 +7,8 @@ uri: meetings-do-you-ask-clients-the-two-important-questions-at-the-beginning-of
 created: 2010-07-16T06:26:46.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- meetings---do-you-ask-clients-the-two-important-questions-at-the-beginning-of-each-meeting
 
 ---
 

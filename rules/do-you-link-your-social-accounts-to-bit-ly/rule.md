@@ -12,7 +12,8 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related:
 - do-you-know-the-text-limit-for-images
-redirects: []
+redirects:
+- do-you-link-your-social-accounts-to-bitly
 
 ---
 

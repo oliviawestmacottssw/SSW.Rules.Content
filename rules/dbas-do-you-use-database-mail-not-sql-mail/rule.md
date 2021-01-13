@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-database-mail-not-sql-mail
+- dbas---do-you-use-database-mail-not-sql-mail
 - dbas-do-you-use-database-mail-(not-sql-mail)
 
 ---
@@ -28,36 +29,50 @@ SQL Server includes Database Mail (it was a new feature released back in 2005 as
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - Using SQL Mail](SQLDatabases\_SQLMail.png)  
 :::
 
-EXEC master.dbo.xp\_smtp\_sendmail
+
+
+```
+EXEC master.dbo.xp_smtp_sendmail
 @FROM = N'your@email.com',
-@FROM\_NAME = N'Sophie Belle',
+@FROM_NAME = N'Sophie Belle',
 @TO = 'recipient@email.com',
 @subject = 'Vendor List',
 @message = 'The list of vendors is attached.',
 @type = N'text/html',
 @server = N'mail.company.com.au'
+```
+
+
 
 ::: bad
 Figure: Bad example - Avoid using SQL Mail -  you need to have Outlook on the server and there is no built-in logging
 
 :::
 
+
 ::: good  
 ![Figure: Good example -  Use Database Mail](SqlDatabaseMail01.png)  
 :::
 
+
+
+```
 USE msdb
-Execute dbo.sp\_send\_dbmail
-@profile\_name = 'UTS',
+Execute dbo.sp_send_dbmail
+@profile_name = 'UTS',
 @recipients = 'your@email.com,
 @body = 'The list of vendors is attached.',
 @query = 'USE AdventureWorks; SELECT VendorID, Name FROM Purchasing.Vendor',
 @subject = 'Vendor List',
-@attach\_query\_result\_as\_file = 1
+@attach_query_result_as_file = 1
+```
+
+
 
 ::: good
 Figure: Good example - Use database mail for scalability, built-in logging and HTML capability

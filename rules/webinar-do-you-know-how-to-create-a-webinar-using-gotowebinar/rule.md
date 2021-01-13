@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - how-to-create-a-webinar-using-gotowebinar
+- webinar---do-you-know-how-to-create-a-webinar-using-gotowebinar
 
 ---
 

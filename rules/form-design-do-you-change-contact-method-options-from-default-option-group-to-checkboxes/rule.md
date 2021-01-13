@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- form-design---do-you-change-contact-method-options-from-default-option-group-to-checkboxes
 
 ---
 
@@ -28,17 +29,20 @@ As per our rule [Do you know when to use CheckBox?](http://www.ssw.com.au/SSW/st
 5. Click "Administration" tab
 6. Select a contact method field, i.e. Email
 7. Click "Change Properties"<br>            
+
 ::: ok  
 ![Figure: Select and change the email field's properties.](CRMChangeContactMethodsFieldProperties.jpg)  
 :::
 8. Click "Formatting" tab
 9. Change layout from "Two Columns" to "One Column" and select "Check box" as control<br>            formatting
 
+
 ::: ok
 ![Figure: Change layout and control formatting of email field to one column type and<br>              check box.](CRMChangeContactMethodsFieldProperties.jpg)
 :::
 10. Repeat steps 6-9 for other contact method
 11. Repeat steps 3-9 for account entity
+
 
 
 ::: good  

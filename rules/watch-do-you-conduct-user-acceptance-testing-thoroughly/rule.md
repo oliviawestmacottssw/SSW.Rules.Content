@@ -7,7 +7,8 @@ uri: watch-do-you-conduct-user-acceptance-testing-thoroughly
 created: 2010-05-20T10:28:04.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- watch---do-you-conduct-user-acceptance-testing-thoroughly
 
 ---
 

@@ -30,6 +30,7 @@ Once you have ROI a Product Owner can use the ROI field to sort priority. Awesom
 
 ROI (Return on Investment) is an unbelievably simply calculation.
 
+
 ::: ok  
 ![Figure: Product Owners should be estimating the Business Value](business-value-field.jpg)  
 :::

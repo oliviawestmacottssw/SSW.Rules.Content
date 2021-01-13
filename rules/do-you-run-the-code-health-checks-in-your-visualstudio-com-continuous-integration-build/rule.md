@@ -11,7 +11,8 @@ authors:
 - title: Danijel Malik
   url: https://ssw.com.au/people/danijel-malik
 related: []
-redirects: []
+redirects:
+- do-you-run-the-code-health-checks-in-your-visualstudiocom-continuous-integration-build
 
 ---
 

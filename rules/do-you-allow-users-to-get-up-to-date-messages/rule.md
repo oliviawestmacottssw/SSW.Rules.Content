@@ -26,9 +26,11 @@ Messages might range from helpful tips that are undiscovered that would help a u
 Or helpful to remind old customers to get off their old version. 
 Eg. Sometimes customers are just not aware that their TFS or CRM installation is years old?
 
+
 ::: bad  
 ![Figure: Bad example](uptodate-message-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example](uptodate-message-good.jpg)  

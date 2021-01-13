@@ -19,9 +19,11 @@ Companies should have Email Groups for the main offices, and one for the rest of
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Our Main Office Email Groups](slack-1.png)  
 :::
+
 
 ::: ok  
 ![Figure: Our Main Office Email Groups recreated as Slack Channels](slack-2.png)  

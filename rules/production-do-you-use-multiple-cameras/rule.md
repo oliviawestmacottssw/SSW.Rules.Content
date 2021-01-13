@@ -11,7 +11,8 @@ authors:
 - title: Andrew Forsyth
   url: https://ssw.com.au/people/andrew-forsyth
 related: []
-redirects: []
+redirects:
+- production---do-you-use-multiple-cameras
 
 ---
 
@@ -23,6 +24,7 @@ The benefit is that you can use the second camera to 'cut away' to (see Rule: [h
 
 If you are recording a long interview use two (identical) cameras, covering both the presenter and the interviewee.
 
+
 ::: ok  
 ![Figure: Multi cam setup for single guest speaker interview](3cam\_basic\_setup.gif)  
 :::
@@ -31,6 +33,7 @@ If you are recording an event with multiple people and want to maximize the cove
 
 
 Camera 3 should be identical to Camera 1 if available (it is still possible to use two different cameras but this may cause some quality compromise in the form of different colours for each). An iPhone can provide the necessary shots to make a video more interesting, but only use iPhone 7 or later footage if proper lighting, exposure & composition can be achieved (Please see rule     [https://rules.ssw.com.au/production-do-you-know-the-correct-way-to-frame-your-subject](/production-do-you-know-the-correct-way-to-frame-your-subject).)
+
 
 ::: ok  
 ![Figure: Flip camera mounted to a small table top tripod. Ideal for cutaway shots](flipcamontripod.jpg)  

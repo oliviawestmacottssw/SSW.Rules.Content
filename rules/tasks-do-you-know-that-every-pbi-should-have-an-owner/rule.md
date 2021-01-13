@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - tasks-do-you-know-that-every-user-story-should-have-an-owner
+- tasks---do-you-know-that-every-pbi-should-have-an-owner
 
 ---
 
@@ -34,13 +35,16 @@ Beware, this is intended for convenience and should not conflict with the follow
 * Accountability belongs to the development team as a whole
 
 
+
 ::: bad  
 ![Figure: Bad example - The Product Owner is not sure who to speak to](UserStoryOwner\_Bad.png)  
 :::
 
+
 ::: good  
 ![Figure: Good example - The Product Owner can now see who he should speak to and developers know where to send done emails](UserStoryOwner\_Good.png)  
 :::
+
 
 ::: ok  
 ![Figure: Use the 'Assigned To' column to identify who will be presenting the task](TFS\_Screenshot4.png)  

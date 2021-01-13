@@ -11,7 +11,8 @@ authors:
 - title: Martin Hinshelwood
   url: https://ssw.com.au/people/martin-hinshelwood
 related: []
-redirects: []
+redirects:
+- during-a-sprint---do-you-know-when-to-create-bugs
 
 ---
 

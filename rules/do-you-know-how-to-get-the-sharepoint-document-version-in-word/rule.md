@@ -25,13 +25,16 @@ We are always disappointed when adding version information to a Word document. W
 
 **Note:** This also works in SharePoint 2010 and Office 2010.
 
+
 ::: good  
 ![Figure: Good example, you see the formatted SharePoint version number](VersionInWord.jpg)  
 :::
 
+
 ::: bad  
 ![Bad Example](BadVersioning.png)  
 :::
+
 
 ::: good  
 ![Good Example](GoodVersioning.png)  

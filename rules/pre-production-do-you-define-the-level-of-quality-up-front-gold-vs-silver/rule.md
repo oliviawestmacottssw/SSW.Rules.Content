@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - define-the-level-of-quality-up-front
+- pre-production---do-you-define-the-level-of-quality-up-front-gold-vs-silver
 - pre-production-do-you-define-the-level-of-quality-up-front-(gold-vs-silver)
 
 ---

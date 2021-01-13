@@ -63,6 +63,7 @@ Change from:
 
 Sometimes you have a lot of content and too many changes, making the process "from X to Y" too arduous. In this case is recommended to use     [Word 'Track Changes'](https://support.office.com/en-gb/article/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) functionality.
 
+
 ::: ok  
 ![Figure: A Word document with 'Track Changes' ON is recommended if you have too many changes](word-track-changes.jpg)  
 :::

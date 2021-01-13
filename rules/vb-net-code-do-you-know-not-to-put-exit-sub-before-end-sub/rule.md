@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-not-put-exit-sub-before-end-sub
+- vbnet-code---do-you-know-not-to-put-exit-sub-before-end-sub
 
 ---
 
@@ -18,10 +19,16 @@ This is often a bad practice if you already are ending Sub you don't need anothe
 
 <!--endintro-->
 
+
+
+```
 Sub MySub
 …
 End Sub
 Exit sub
+```
+
+
 
 
 
@@ -29,9 +36,15 @@ Exit sub
 Figure: Bad example  
 :::
 
+
+
+```
 Sub MySub
 …
 End sub
+```
+
+
 
 
 

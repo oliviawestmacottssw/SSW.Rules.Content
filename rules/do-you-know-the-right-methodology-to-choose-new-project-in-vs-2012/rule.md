@@ -22,6 +22,7 @@ Choosing the right template to fit into your environment is very important.
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Built-in Process Templates in Visual Studio 2012 with TFS 2012](VSTS2010ProcessTemplates.jpg)  
 :::

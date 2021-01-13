@@ -20,6 +20,7 @@ Every website out there has a page that displays the results of a search. I am  
 
 However, Google is a very good example for displaying search results. Their result                     pages are clear and efficient, especially for a large result set.
 
+
 ::: good  
 ![Figure: Good example – adopt Google's search result layout](results-ssw.jpg)  
 :::
@@ -34,13 +35,16 @@ Want the 'Google grid'? Then follow these rules to help users to navigate:
 4. The number of pages found (hyperlinks centered in the middle), and these hyperlinks<br>                        should be shown on the footer of the page only.
 
 
+
 ::: ok  
 ![Figure: The header of SSW results screen                         - filter, number of results found, search criteria and time taken](results-filter.jpg)  
 :::
 
+
 ::: good  
 ![Figure: Good example - The footer of SSW product order listing page                         has the hyperlinks for pages 1 to 10 centered](results-pagination.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Google's classic search results](results-google.jpg)  

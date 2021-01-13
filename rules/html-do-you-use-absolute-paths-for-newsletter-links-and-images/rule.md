@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-absolute-paths-on-newsletters
+- html---do-you-use-absolute-paths-for-newsletter-links-and-images
 
 ---
 
@@ -18,14 +19,26 @@ Newsletters should always use  **absolute** references to all links and images
 
 <!--endintro-->
 
-&lt;a href="/ssw/Company/ContactUs.aspx "&gt;&lt;img src="/SSW/images/SSWLogo.png"&gt;&lt;/a&gt;
+
+
+```
+<a href="/ssw/Company/ContactUs.aspx "><img src="/SSW/images/SSWLogo.png"></a>
+```
+
+
 
 ::: bad
 Figure: Bad example - using relative paths for both link and image on a newsletter
 
 :::
 
-&lt;a href="<mark>https&#58;//ssw.com.au</mark>/ssw/Company/ContactUs.aspx "&gt;&lt;img src="<mark>https&#58;//ssw.com.au</mark>/SSW/images/SSWLogo.png"&gt;&lt;/a&gt;
+
+
+```
+<a href="https://ssw.com.au/ssw/Company/ContactUs.aspx "><img src="https://ssw.com.au/SSW/images/SSWLogo.png"></a>
+```
+
+
 
 ::: good
 Figure: Good example - using absolute paths for both link and image on a newsletter

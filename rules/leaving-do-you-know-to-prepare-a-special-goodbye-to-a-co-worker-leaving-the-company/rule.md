@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - prepare-a-special-goodbye-to-a-co-worker-leaving-the-company
+- leaving---do-you-know-to-prepare-a-special-goodbye-to-a-co-worker-leaving-the-company
 
 ---
 

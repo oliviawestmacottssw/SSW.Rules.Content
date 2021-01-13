@@ -7,7 +7,8 @@ uri: authentication-do-you-make-the-logged-in-state-clear
 created: 2012-11-27T02:03:35.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- authentication---do-you-make-the-logged-in-state-clear
 
 ---
 
@@ -15,21 +16,26 @@ Remember to make the "logged in" state clear enough to help the user know the cu
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example on Web form - The user is logged in, but it isn't very clear](../../assets/weblogin\_bad.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example on Web form - It's clear that the user is logged in](../../assets/weblogin\_good.gif)  
 :::
 
+
 ::: bad  
 ![Figure: Bad Example on Win form - The user is logged in, but it isn't very clear](../../assets/winlogin\_bad.gif)  
 :::
 
+
 ::: good  
 ![Figure: Good Example on Win form - It's clear that the user is logged in](../../assets/BetterInterface\_sqlAuditorLogin.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example on Web form - Logged off state](../../assets/weblogoff.gif)  

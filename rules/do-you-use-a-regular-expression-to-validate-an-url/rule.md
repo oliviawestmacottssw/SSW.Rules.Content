@@ -19,6 +19,9 @@ A regex is the best way to verify an URI.
 
 <!--endintro-->
 
+
+
+```
 public bool IsValidUri(string uri)
 {
 try 
@@ -31,17 +34,26 @@ catch (UriFormatException ex)
 return false; 
 } 
 }
+```
+
+
 
 ::: bad
 Figure: Bad example of verifying URI
 
 :::
 
+
+
+```
 public bool IsValidUri(string uri) 
 { 
 // Return true if it is in valid Uri format.
-return System.Text.RegularExpressions.Regex.IsMatch( uri,@"^(http|ftp|https)://([^\/][\w-/:]+\.?)+([\w- ./?/:/;/\%&=]+)?(/[\w- ./?/:/;/\%&=]\*)?"); 
+return System.Text.RegularExpressions.Regex.IsMatch( uri,@"^(http|ftp|https)://([^\/][\w-/:]+\.?)+([\w- ./?/:/;/\%&=]+)?(/[\w- ./?/:/;/\%&=]*)?"); 
 }
+```
+
+
 
 ::: good
 Figure: Good example of verifying URI 

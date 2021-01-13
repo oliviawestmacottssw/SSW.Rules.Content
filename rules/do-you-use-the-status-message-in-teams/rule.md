@@ -25,6 +25,7 @@ It tells people 3 things:
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: When people chat with you, they can see what you’re up to](teams-status-message.jpg)  
 :::
@@ -36,6 +37,7 @@ To update the status message, follow these steps:
 
 * On the top right, click on your photo
 * Click on the pencil icon to edit the status message
+
 
 
 ::: ok  
@@ -53,6 +55,7 @@ The status message is helpful when it contains:
 * Enable “Show when people message me”
 * For “Clear status message after”, select Never (to prevent Microsoft from deleting the status message)
 * Click Done once complete
+
 
 
 ::: ok  

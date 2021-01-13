@@ -11,7 +11,8 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects: []
+redirects:
+- do-you-not-have-heightwidth-in-an-img-tag
 
 ---
 
@@ -19,9 +20,11 @@ The  **&lt;img&gt;** tag of HTML has 2 attributes that should not be used -  **"
 
 <!--endintro-->
 
+
 ::: bad  
 ![&lt;img src="images/codeauditor-logo.png" alt="Code Auditor logo" width="150" height="100" /&gt;             Figure: Bad example - Stretched image caused by inline height/width ratio that doesn't match](streched-image.jpg)  
 :::
+
 
 ::: good  
 ![&lt;img src="images/codeauditor-logo.png" alt="Code Auditor logo"  /&gt;             Figure: Good example - Avoiding inline height/width ratio keeps the image as original](non-streched-image.jpg)  

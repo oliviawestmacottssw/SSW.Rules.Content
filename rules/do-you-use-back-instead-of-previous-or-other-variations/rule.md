@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - do-you-use-＂-back＂-instead-of-＂-previous＂-or-other-variations
+- do-you-use--back-instead-of--previous-or-other-variations
 
 ---
 
@@ -32,13 +33,16 @@ There are a few reasons for this:
 
 Below is an example of a Good "&lt; Back" link versus some Bad variations.
 
+
 ::: good  
 ![Figure: A Good example of a "&lt; Back" link](textboxeswithshowbutton.gif)  
 :::
 
+
 ::: bad  
 ![Figure: This is Bad because it says "Previous" instead of "Back"](badpreviouslink.gif)  
 :::
+
 
 ::: good  
 ![Figure: This is bad because it has too many "&lt;"s or it has no space between the "&lt;" and the "Back"](badbacklink.gif)  

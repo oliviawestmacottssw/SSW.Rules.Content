@@ -7,7 +7,8 @@ uri: dates-do-you-keep-date-formats-consistent-across-your-application
 created: 2014-12-01T05:59:36.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- dates---do-you-keep-date-formats-consistent-across-your-application
 
 ---
 
@@ -15,13 +16,16 @@ Date formats should always be kept consistent across your application, more impo
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Operating System's Regional Settings](../../assets/BetterInterface\_RegionalSettings.jpg)  
 :::
 
+
 ::: bad  
 ![Figure: Bad Example - Two screens with inconsistent date formats](../../assets/BadExampleDP.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Two screens with consistent date formats](../../assets/GoodExampleDP.gif)  

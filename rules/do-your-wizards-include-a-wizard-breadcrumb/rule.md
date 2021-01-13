@@ -30,6 +30,7 @@ Headings that direct the user around your web page are       important as it giv
 * Confirmation of Purchase - Display information about their purchase
 
 
+
 ::: ok  
 ![Figure: Simple Header that tells the user where they have come from](../../assets/ExamleHeadingforShoppingBasket.gif)  
 :::
@@ -44,9 +45,11 @@ Headings that direct the user around your web page are       important as it giv
 
 The following heading from Amazon shows the user at what stage of the ordering process they are at and what they can expect next. This covers the whole billing process.
 
+
 ::: ok  
 ![Figure: This is how headings should look](../../assets/amazonshopping.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Virgin Australia uses a more subtle approach](../../assets/virgin-flight-navigation.png)  

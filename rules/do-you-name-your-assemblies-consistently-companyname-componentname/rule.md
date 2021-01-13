@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-name-your-assemblies-consistently-(-companyname-componentname-)
+- do-you-name-your-assemblies-consistently-companynamecomponentname
 - do-you-name-your-assemblies-consistently-(companyname-componentname)
 
 ---

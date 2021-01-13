@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - comment-each-property-and-method
+- comments---do-you-comment-each-property-and-method
 
 ---
 
@@ -40,11 +41,17 @@ If the file contains any function/sub module/class declaration, comments will be
 
 **Above a method or property declaration:**
 
-/// &lt;summary&gt;
+
+
+```
+/// <summary>
 /// 
-/// &lt;/summary&gt;
-/// &lt;param name="sender"&gt;&lt;/param&gt;
-/// &lt;param name="e"&gt;&lt;/param&gt;
-/// &lt;remarks &gt;&lt;/remarks&gt;
+/// </summary>
+/// <param name="sender"></param>
+/// <param name="e"></param>
+/// <remarks ></remarks>
+```
+
+
 
 **Bonus - you can automatically generate documentation - but the number of clients that want this is minimal.**

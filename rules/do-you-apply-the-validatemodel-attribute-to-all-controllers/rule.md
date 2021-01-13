@@ -18,6 +18,9 @@ Web API does not automatically return an error to the client when validation fai
 
 You can also create an action filter to check the model state before the controller action is invoked.
 
+
+
+```
 using System.Collections.Generic;
  using System.Linq;
  using System.Net;
@@ -25,7 +28,8 @@ using System.Collections.Generic;
  using System.Web.Http.Controllers;
  using System.Web.Http.Filters;
  using System.Web.Http.ModelBinding;
-
+ 
+      
  namespace MyApi.Filters
  {
  public class ValidateModelAttribute : ActionFilterAttribute
@@ -40,7 +44,13 @@ using System.Collections.Generic;
  }
  }
  }
+```
+
+
 Figure: If model validation fails, this filter returns an HTTP response that contains the validation errors. In that case, the controller action is not invoked
+
+
+```
 public class ProductsController : ApiController
  {
  [ValidateModel]
@@ -49,14 +59,31 @@ public class ProductsController : ApiController
  // ...
  }
  }
-Figure: Bad Example - Set the filter as an attribute on individual controllers or controller actions
-public static class WebApiConfig
-     {
-         public static void Register(HttpConfiguration config)
-         {
-             config.Filters.Add(new ValidateModelAttribute());
+```
 
-             // ...
-         }
- }
+
+Figure: Bad Example - Set the filter as an attribute on individual controllers or controller actions
+
+
+```
+public static class WebApiConfig
+
+    {
+
+        public static void Register(HttpConfiguration config)
+
+        {
+
+            config.Filters.Add(new ValidateModelAttribute());
+
+
+
+            // ...
+
+        }
+
+}
+```
+
+
 Figure: Good Example - Add an instance of the filter to the HttpConfiguration.Filterscollection to apply this filter to all Web API controllers

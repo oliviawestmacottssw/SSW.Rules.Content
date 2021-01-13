@@ -19,9 +19,15 @@ By default, the group header of a list shows bigger font size only on modern UI,
 
 To implement this, you will need to inject a custom style to first level group header. e.g.
 
-.ms-GroupedList-group &gt; .ms-GroupHeader .ms-GroupHeader-title {
+
+
+```
+.ms-GroupedList-group > .ms-GroupHeader .ms-GroupHeader-title {
     font-weight:600;
 }
+```
+
+
 
 
 

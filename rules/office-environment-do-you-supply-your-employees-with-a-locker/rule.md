@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - lockers-for-employees
+- office-environment---do-you-supply-your-employees-with-a-locker
 
 ---
 

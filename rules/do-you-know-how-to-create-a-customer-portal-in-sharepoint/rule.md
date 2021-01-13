@@ -38,17 +38,20 @@ Once you have the template, follow these steps to create a customer portal with 
 2. <font size="2">Click "Site Actions" on right-hand top, select "Manage Content and Structure</font>
 
 
+
 ::: good  
 ![Figure: The first step to creating a 'Customer Portal' is to select 'Manage Content and Structure' to view site collection](ManageContentAndStructure.jpg)  
 :::
 
 <font size="2">Once the new window opens, on the left-hand side, click on the 'Clients' dropdown select New -&gt; Site. <br> </font> <font size="2"> <font color="#400040">Note: If you </font>don’t see this option, that means you don’t have permission to create the site.</font>
 
+
 ::: good  
 ![Figure: Create new site](CreateNewSiteStep1.jpg)  
 :::
 
 Now follow these steps when the new window opens fill in the fields below.
+
 
 ::: good  
 ![Figure: Fill in the appropriate info then click "Create"](CreateNewSiteStep2.jpg)  
@@ -95,6 +98,7 @@ In this case, we are using 'create a new group' option because we want this grou
 Note: you can also access this through the "People and Group" option on "Site Action" link on right-hand top of the page if you need to manage permission in future.
 
 Click "OK", and the portal is created.
+
 
 ::: good  
 ![Figure: Northwind portal](SetUpGroupForSite.jpg)  

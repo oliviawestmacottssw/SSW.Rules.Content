@@ -18,14 +18,26 @@ This is against the .NET Object Naming Conventions and inconsistent with the fra
 
 <!--endintro-->
 
+
+
+```
 Public Enum ProjectLanguageEnum CSharp VisualBasic End Enum
+```
+
+
 
 ::: bad
 Bad - Enum type is suffixed with the word "Enum" 
 
 :::
 
+
+
+```
 Public Enum ProjectLanguage CSharp VisualBasic End Enum
+```
+
+
 
 ::: good
 Good - Enum type is not suffixed with the word "Enum" 

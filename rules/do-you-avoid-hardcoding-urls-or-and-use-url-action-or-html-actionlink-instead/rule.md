@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/damian-brady
 related: []
 redirects:
+- do-you-avoid-hardcoding-urls---or--and-use-urlaction-or-htmlactionlink-instead
 - do-you-avoid-hardcoding-urls-(-or-)-and-use-url-action-or-html-actionlink-instead
 
 ---

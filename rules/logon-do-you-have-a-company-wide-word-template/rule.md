@@ -17,14 +17,17 @@ related:
 - do-you-use-great-email-signatures
 redirects:
 - have-a-companywide-word-template
+- logon---do-you-have-a-company-wide-word-template
 
 ---
 
 A company-wide template will be implemented, so users have automatic footers to save time and give better branding.
 
+
 ::: bad  
 ![Figure: Bad Example - creating an email/document does not have the company templates](word-template-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - creating an email/document with the company templates](word-template-good.jpg)  
@@ -42,16 +45,22 @@ e.g. a PowerShell login script like https://github.com/SSWConsulting/SSWSysAdmin
 
 
 
-ECHO Copy Office Templates To Workstation &gt;&gt; %LogonLogFile%
+
+
+```
+ECHO Copy Office Templates To Workstation >> %LogonLogFile%
 call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\Normal.dot" "%APPDATA%\Microsoft\Templates\Normal.dot" %LogonLogFile%
 call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\Normal.dotm" "%APPDATA%\Microsoft\Templates\Normal.dotm" %LogonLogFile%
 call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\ProposalNormalTemplate.dotx" "%APPDATA%\Microsoft\Templates\ProposalNormalTemplate.dotx" %LogonLogFile%
 call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dot" "%APPDATA%\Microsoft\Templates\NormalEmail.dot" %LogonLogFile%
-call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\Microsoft\_Normal.dotx" "%APPDATA%\Microsoft\Templates\Microsoft\_Normal.dotx" %LogonLogFile%
+call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\Microsoft_Normal.dotx" "%APPDATA%\Microsoft\Templates\Microsoft_Normal.dotx" %LogonLogFile%
 call %ScriptFolder%\SSWLogonScript\BatchScript\SafeCopyNewerFile.bat "\\fileserver\DataSSW\DataSSWEmployees\Templates\Blank.potx" "%APPDATA%\Microsoft\Templates\Blank.potx" %LogonLogFile%
-xcopy /Y "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dotm" "%APPDATA%\Microsoft\Templates\" &gt;&gt; %LogonLogFile%
-xcopy /Y "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dotx" "%APPDATA%\Microsoft\QuickStyles\" &gt;&gt; %LogonLogFile%
+xcopy /Y "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dotm" "%APPDATA%\Microsoft\Templates\" >> %LogonLogFile%
+xcopy /Y "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dotx" "%APPDATA%\Microsoft\QuickStyles\" >> %LogonLogFile%
 ECHO Templates Copied
+```
+
+
 
 ::: bad
 Figure: Bad Example - This is a snippet of an old login script  

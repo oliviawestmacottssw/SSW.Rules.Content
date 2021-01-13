@@ -9,12 +9,14 @@ authors: []
 related: []
 redirects:
 - menu-do-you-have-a-＂help-training-videos＂-item
+- menu---do-you-have-a-help--training-videos-item
 
 ---
 
 Training Videos provide a straightforward way to help the user look into your product and help them have a good understanding. It's better to have a "Training Videos" item in the help menu.
 
 <!--endintro-->
+
 
 ::: good  
 ![Figure: It's better to provide such a "Training Videos..." menu item](../../assets/TrainingVideos.jpg)  

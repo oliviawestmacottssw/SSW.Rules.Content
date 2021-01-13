@@ -15,7 +15,8 @@ authors:
 - title: Justin King
   url: https://ssw.com.au/people/justin-king
 related: []
-redirects: []
+redirects:
+- triaging---do-you-correctly-triage-additional-item-requests
 
 ---
 
@@ -24,6 +25,7 @@ redirects: []
 <!--endintro-->
 
 Managing additional work requests can reduce the adverse impact on estimates and deadlines.
+
 
 ::: ok  
 ![Figure: Only if it's life and death does it get added "in this sprint"](SuccessfulProjects\_Triage.jpg)  

@@ -36,18 +36,30 @@ Advantages
 * Makes your code more readable
 
 
+
+
+```
 SELECT Id, CompanyName, ContactName, ContactTitle
 FROM dbo.Customers
 WHERE CompanyName = 'NorthWind';
+```
+
+
 
 ::: bad
 Figure: Bad Example - Using a dynamic SQL query
 
 :::
 
+
+
+```
 SELECT Id, CompanyName, ContactName, ContactTitle
 FROM dbo.Customers
 WHERE CompanyName = @companyName;
+```
+
+
 
 ::: good
 Figure: Good Example - Using a parameterized query
@@ -65,28 +77,52 @@ When using dates, strings, varchar and nvarchar it is strongly recommended to us
 
 Implementing parameterized queries using Parameters.Add()
 
+
+
+```
 cmd.Parameters.Add("@varcharValue", System.Data.SqlDbType.Varchar, 20).Value = “Text”;
+```
+
+
 
 ::: good
 Figure: Good Example – Using VarChar SqlDbType and specifying a max of 20 characters (-1 for MAX)
 
 :::
 
+
+
+```
 cmd.Parameters.Add("@decimalValue", System.Data.SqlDbType.Decimal, 11, 4).Value = decimalValue;
+```
+
+
 
 ::: good
 Figure: Good Example – Using decimal(11,4) SQL Parameter
 
 :::
 
+
+
+```
 cmd.Parameters.Add("@dateTimeValue", System.Data.SqlDbType.DateTime2).Value = DateTime.UtcNow;
+```
+
+
 
 ::: good
 Figure: Good Example - C#, VB .NET SQL DateTime Parameter
 
 :::
 
+
+
+```
 $SqlCmd.Parameters.Add("@dateTimeValue", [System.Data.SqlDbType]::DateTime2).Value = $dateTime2Value
+```
+
+
 
 ::: good
 Figure: Good Example - PowerShell SQL DateTime Parameter

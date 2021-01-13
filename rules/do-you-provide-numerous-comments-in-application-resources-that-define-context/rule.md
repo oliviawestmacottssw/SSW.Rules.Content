@@ -23,6 +23,7 @@ Knowing the context and use of certain strings will help translators choose the 
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Use the comment field in the resx to tell you where it is used](Localization\_Commonts.jpg)  
 :::

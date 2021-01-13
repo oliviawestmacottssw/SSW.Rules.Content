@@ -11,7 +11,8 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects: []
+redirects:
+- meetings---are-you-prepared-for-the-initial-meeting
 
 ---
 

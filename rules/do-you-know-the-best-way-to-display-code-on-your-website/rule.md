@@ -24,40 +24,58 @@ The simpler method uses &lt;pre&gt; tags. Pre (standing for "preformatted") mean
 
 **Note:**  &lt;code&gt; tags should not be used because they only provide the font Courier - you still have to manually indent all of your code as in the bad code display example below.
 
-&lt;font face="Courier, Times, Arial, Verdana" size="3"&gt;
-public class Configuration&lt;br&gt;
-&nbsp;{&lt;br&gt;
-&nbsp;&nbsp;public static string MySetting&lt;br&gt;
-&nbsp;&nbsp;{&lt;br&gt;
-&nbsp;&nbsp;&nbsp;get&lt;br&gt;
-&nbsp;&nbsp;&nbsp;{&lt;br&gt;
-&lt;/font&gt;
+
+
+```
+<font face="Courier, Times, Arial, Verdana" size="3">
+public class Configuration<br>
+&nbsp;{<br>
+&nbsp;&nbsp;public static string MySetting<br>
+&nbsp;&nbsp;{<br>
+&nbsp;&nbsp;&nbsp;get<br>
+&nbsp;&nbsp;&nbsp;{<br>
+</font>
+```
+
+
 
 ::: bad
 Figure: Bad code display example - using &lt;font&gt;  
 :::
 
-&lt;code&gt;
-public class Configuration&lt;br&gt;
-&nbsp;{&lt;br&gt;
-&nbsp;&nbsp;public static string MySetting&lt;br&gt;
-&nbsp;&nbsp;{&lt;br&gt;
-&nbsp;&nbsp;&nbsp;get&lt;br&gt;
-&nbsp;&nbsp;&nbsp;{&lt;br&gt;
-&lt;/code&gt;
+
+
+```
+<code>
+public class Configuration<br>
+&nbsp;{<br>
+&nbsp;&nbsp;public static string MySetting<br>
+&nbsp;&nbsp;{<br>
+&nbsp;&nbsp;&nbsp;get<br>
+&nbsp;&nbsp;&nbsp;{<br>
+</code>
+```
+
+
 
 ::: bad
 Figure: Bad code display example - using &lt;code&gt;  
 :::
 
-&lt;pre&gt;
+
+
+```
+<pre>
 public class Configuration
 {
 public static string MySetting
 {
 get
 {
-&lt;/pre&gt;
+</pre>
+```
+
+
 
 ::: good
 Figure: Good code display example - using &lt;pre&gt;

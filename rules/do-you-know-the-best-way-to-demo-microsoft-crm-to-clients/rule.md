@@ -37,6 +37,7 @@ Microsoft Partners have access to the     [Customer Digital Experience site](htt
 Adding a Dynamics Environment is as easy as navigating to:
  **My Environments | Create Tennant | Dynamics 365 Customer Engagement**
 
+
 ::: ok  
 ![](dynamics-365-cusomer-engagement.png)  
 :::
@@ -55,6 +56,7 @@ The second option is to provision a trial via Office 365. If using this method, 
 
 
 The Office 365 based Dynamics trial is good for 1 month and includes 25 users.
+
 
 ::: ok  
 ![](dynamics-365-cusomer-engagement-plan-triel.png)  

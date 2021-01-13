@@ -7,7 +7,8 @@ uri: production-do-you-know-how-to-record-live-video-interviews-on-location
 created: 2011-08-30T18:02:28.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- production---do-you-know-how-to-record-live-video-interviews-on-location
 
 ---
 

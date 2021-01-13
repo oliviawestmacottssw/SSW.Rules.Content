@@ -17,6 +17,7 @@ Not only do we try to keep our designs clean and simple without too many images,
 
 
 
+
 ::: ok  
 ![Figure: Testimonials as displayed on SSW's About Us page](../../assets/MinimalDesignImage.jpg)  
 :::

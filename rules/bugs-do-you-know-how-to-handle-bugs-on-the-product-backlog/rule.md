@@ -13,7 +13,8 @@ authors:
 - title: Eric Phan
   url: https://ssw.com.au/people/eric-phan
 related: []
-redirects: []
+redirects:
+- bugs---do-you-know-how-to-handle-bugs-on-the-product-backlog
 
 ---
 

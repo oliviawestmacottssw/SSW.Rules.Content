@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - automate-schedule-meetings
+- appointments---do-you-automate-scheduling-of-meetings
 
 ---
 
@@ -32,6 +33,7 @@ Note that both of the following solutions work best when you're dealing with peo
 <!--endintro-->
 
 ### Microsoft Cortana Scheduler (formerly known as Calendar.help)
+
 
 
 ::: ok  
@@ -63,9 +65,11 @@ Cortana then handles all the back-and-forth emails to find a time when everyone 
 1. More on     https://calendar.help/ and see the FAQ
 2. Watch the video here     https://www.microsoft.com/en-us/scheduler
 
+
 ::: good  
 ![Figure: Speak to Cortana as you would a PA](Cortana.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Cortana will find a time that suits everyone and send the appointment](confirmation.jpg)  
@@ -73,11 +77,13 @@ Cortana then handles all the back-and-forth emails to find a time when everyone 
 
 **Step 3:** To make it easier to add Cortana to your emails, create a Contact.
 
+
 ::: ok  
 ![Figure: Cortana added as a contact](CortanaContact.jpg)  
 :::
 
 **Mobile – works great ✔**
+
 
 ::: ok  
 ![Figure: Microsoft Scheduler – Fully works on mobile phone](cortana-scheduler-mobile.jpg)  
@@ -94,6 +100,7 @@ Propose your selected times to all attendees and allow everyone to vote and quic
 
 FindTime sends out the meeting invite on your behalf. More on [https://findtime.microsoft.com](https://findtime.microsoft.com/)
 
+
 ::: ok  
 ![Figure: FindTime gives a nice UI for people working in the same org, as you can see times that might be available for all attendees easily (e.g. 8 am above)](findtime-scheduler.jpg)  
 :::
@@ -105,6 +112,7 @@ As of Dec 2020, FindTime does not work on iOS.
 Vote at     [What features would you like to see in FindTime?](https://findtime.uservoice.com/forums/316122-ideas-tell-us-your-great-ideas/suggestions/13358103-findtime-for-iphone-in-outlook-for-ios)
 
 **Note:** Findtime’s competitor is https://calendly.com
+
 
 ::: ok  
 ![Figure: FindTime - No mobile support for iOS](findtime-mobile.jpg)  

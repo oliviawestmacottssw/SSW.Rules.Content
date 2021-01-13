@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - avoid-using-indexes-on-rowguid-column
+- schema---do-you-avoid-using-indexes-on-rowguid-column
 
 ---
 

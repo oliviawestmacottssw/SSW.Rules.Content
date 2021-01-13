@@ -15,6 +15,7 @@ When redirecting users to another page make sure that the       text is consiste
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good example - Click "More" and the next page begins with the same information](../../assets/ConsistentInformation.gif)  
 :::

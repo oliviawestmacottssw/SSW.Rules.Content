@@ -9,7 +9,8 @@ authors:
 - title: Marlon Marescia
   url: https://ssw.com.au/people/marlon-marescia
 related: []
-redirects: []
+redirects:
+- do-you-know-how-to-handover-a-sales-enquiry-to-a-sales-person-
 
 ---
 

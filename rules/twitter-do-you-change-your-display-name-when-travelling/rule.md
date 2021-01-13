@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - change-your-twitter-name-when-travelling
+- twitter---do-you-change-your-display-name-when-travelling
 
 ---
 
@@ -23,6 +24,7 @@ Eg.  **Todd Gardner in Norway 🇳🇴**
 <!--endintro-->
 
 This tip also works well on all social media platforms. Eg. Facebook, Instagram etc.
+
 
 ::: ok  
 ![Figure: Changing name when traveling](twitter-name.png)  

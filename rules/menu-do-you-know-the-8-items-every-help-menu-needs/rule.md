@@ -9,6 +9,7 @@ authors: []
 related: []
 redirects:
 - menu-do-you-know-the-8-items-every-＂help＂-menu-needs
+- menu---do-you-know-the-8-items-every-help-menu-needs
 
 ---
 
@@ -27,9 +28,11 @@ A good help menu should have these 8 items in it:
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Example of a Help menu with only "About"](../../assets/BadExampleForHelpMenu.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Example of a Help menu with all 8 items](../../assets/GoodExampleOfHelpMenu.gif)  

@@ -11,7 +11,8 @@ authors:
 - title: Andrew Forsyth
   url: https://ssw.com.au/people/andrew-forsyth
 related: []
-redirects: []
+redirects:
+- pre-production---do-you-test-technical-scripts-properly
 
 ---
 

@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - avoid-using-documentgetelementbyid-and-documentall-to-get-a-single-element
+- do-you-avoid-using-documentgetelementbyidid-and-documentallid-to-get-a-single-element-instead-use-selector-id
 - do-you-avoid-using-document-getelementbyid(id)-and-document-all(id)-to-get-a-single-element-instead-use-selector-(id)
 
 ---
@@ -23,28 +24,46 @@ $(#id) is a selector of jQuery. It gets the single element with the given id.
 
 With jQuery, you can write less code but do more work.
 
-&lt;h1 id="Head1"&gt;Hello&lt;/h1&gt; 
-&lt;script type="text/javascript" language="javascript"&gt;
+
+
+```
+<h1 id="Head1">Hello</h1> 
+<script type="text/javascript" language="javascript">
     document.all("Head1").style.color="red"; 
-&lt;/script&gt;
+</script>
+```
+
+
 
 ::: bad
 Figure - Bad Code  
 :::
 
-&lt;h1 id="Head1"&gt;Hello&lt;/h1&gt; 
-&lt;script type="text/javascript" language="javascript"&gt;
+
+
+```
+<h1 id="Head1">Hello</h1> 
+<script type="text/javascript" language="javascript">
     document.getElementById("Head1").style.color="red"; 
-&lt;/script&gt;
+</script>
+```
+
+
 
 ::: bad
 Figure: Bad Code  
 :::
 
-&lt;h1 id="Head1"&gt;Hello&lt;/h1&gt; 
-&lt;script type="text/javascript" language="javascript"&gt;
+
+
+```
+<h1 id="Head1">Hello</h1> 
+<script type="text/javascript" language="javascript">
     $("#Head1").css("color","red"); 
-&lt;/script&gt;
+</script>
+```
+
+
 
 ::: good
 Figure: Good Code - Using $("#Head1")

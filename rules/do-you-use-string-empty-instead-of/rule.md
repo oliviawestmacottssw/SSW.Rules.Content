@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-string-empty-instead-of-quotes
+- do-you-use-stringempty-instead-of-
 
 ---
 
@@ -18,26 +19,45 @@ Considering the memory management of .NET Framework String.Empty will get higher
 
 <!--endintro-->
 
-public string myString     
+
+
+```
+public string myString 
+   
 {
  get
  {
  return ;
- }     
+ } 
+   
 }
+```
+
+
 
 ::: bad
 Figure: Bad code. Low performance
 
 :::
 
+
+
+```
 public string myString
-{     
- get     
- {     
- return string.Empty;     
- }     
+{ 
+   
+ get 
+   
+ { 
+   
+ return string.Empty; 
+   
+ } 
+   
 }
+```
+
+
 
 ::: good
 Figure: Good code. Higher performance

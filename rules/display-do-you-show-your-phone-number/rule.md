@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - show-your-phone-number
+- display---do-you-show-your-phone-number
 
 ---
 
@@ -18,9 +19,11 @@ Using instant messengering applications is all about communication. If something
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - To contact this person via the phone I will have to ask them for their number](Bad-Example-no-number.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - People are showing their phone numbers to allow urgent issues to be resolved](Good-Example-numbers-listed.jpg)  

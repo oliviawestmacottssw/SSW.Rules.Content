@@ -33,11 +33,13 @@ In  **Visual Studio 2005 - Software Testers Edition** , there is a built-in Test
 1. From the  **Test** menu select  **New Test**
 2. Select  **Web Test** and  **Create a new Test Project** 
 
+
 ::: ok  
 ![](../../assets/add\_new\_test.gif)  
 :::
 3. Name the Test Project &lt;Namespace&gt;.WebUI.Tests
 4. An Internet Explorer window will open with a recorder toolbar. Navigate to the web pages that need to be Load Tested
+
 
 ::: ok  
 ![](../../assets/record\_website.gif)  
@@ -45,10 +47,12 @@ In  **Visual Studio 2005 - Software Testers Edition** , there is a built-in Test
 5. Click Stop when you are finished recording the pages to be tested
 6. Click the  **Run** button to make sure the tests run
 
+
 ::: ok  
 ![](../../assets/run\_webtest.gif)  
 :::
 7. Add a new Load Test
+
 
 ::: ok  
 ![](../../assets/add\_load\_test.gif)  
@@ -60,6 +64,7 @@ In  **Visual Studio 2005 - Software Testers Edition** , there is a built-in Test
     * **Network Mix** - Specify connection speeds of users (leave as default)
 9. Click  **Finish**
 10. Click  **Run** to run the load test
+
 
 ::: ok  
 ![](../../assets/run\_load\_test.gif)  

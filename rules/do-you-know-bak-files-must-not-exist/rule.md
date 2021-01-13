@@ -16,9 +16,11 @@ redirects: []
 Finding a file with a BAK extension is a "call sign" that your folders need a tidy up. 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example](bak-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example](bak-good.jpg)  

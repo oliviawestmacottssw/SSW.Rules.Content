@@ -26,13 +26,16 @@ It’s very easy to log in and send one out from your own Office 365 account, bu
 2. Go to Microsoft Teams
 3. Navigate to the team you’d like to be able to see the results of the form
 
+
 ::: ok  
 ![Figure: Click “+” to make a new tab](forms-teams-1.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: Select “Forms”](forms-teams-2.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Name your form, and then continue as usual to create and share it](forms-teams-3.jpg)  
@@ -40,6 +43,7 @@ It’s very easy to log in and send one out from your own Office 365 account, bu
 
 
 If you do accidentally create a personal form instead of a group form, you can move it to a group in http://forms.microsoft.com by clicking “All my forms” | … | “Move”
+
 
 ::: ok  
 ![Figure: How to move a Personal form to a Group](forms-teams-4.jpg)  

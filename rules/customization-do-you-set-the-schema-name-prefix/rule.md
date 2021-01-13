@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- customization---do-you-set-the-schema-name-prefix
 
 ---
 
@@ -17,9 +18,11 @@ Note when you do a customization it gives it a prefix with the schema name - in 
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Set your schema-name prefix to use for custom entities and attributes](CRM\_PrefixSetting.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: customized attributes with the prefix](CRM\_Prefix.jpg)  

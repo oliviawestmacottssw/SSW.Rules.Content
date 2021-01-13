@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - turn-on-security-auditing
+- dbas---do-you-turn-on-security-auditing
 
 ---
 
@@ -23,6 +24,7 @@ Configure login security auditing:
 
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: Enable Auditing for SQL Server logins](TurnOnSqlSecurityAuditing.png)  

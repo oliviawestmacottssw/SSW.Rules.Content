@@ -24,10 +24,12 @@ We like to have debugging information in our application, so that we can view th
 ```
 
 **Figure: Code that should only run in Debug mode, we certainly don't want this in the release version.** 
+
 ::: good  
 ![](DebugConfiguration.gif)  
 :::
 **Figure: Set "Generate Debugging Information" to True on the project properties page (VS 2003).** 
+
 ::: good  
 ![](VS2005AdvancedBuildSettings.gif)  
 :::

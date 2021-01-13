@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-robots-txt-effectively
+- do-you-use-your-robotstxt-file-effectively
 
 ---
 

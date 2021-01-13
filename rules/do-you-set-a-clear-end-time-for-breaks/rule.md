@@ -19,10 +19,12 @@ When you set a break at a training course, you should make sure you first finish
  Tell them 20 min break (or 1 hour for lunch) and:
 * Let them break
 * Write in a clear place the end time for the break and ask people to be back on time 
+
 ::: ok  
 ![Figure: Clearly show the end time for the break - you can print this PDF here](break-ends.jpg)  
 :::
 * Set an alarm on your phone or PC
+
 
 ::: ok  
 ![Figure: iPhone alarm](iphone\_timer.png)  

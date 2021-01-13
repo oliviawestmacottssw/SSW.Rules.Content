@@ -42,6 +42,7 @@ Hashtags identify the keyword or topic of interest that the post is about. They 
 
 The best tweets will use a combination of @mentions and #hashtags where appropriate to properly leverage the platform – that way readers can check out the people involved OR join the conversation about a topic. See our rule [Do you know when to use a hashtag vs. a @mention?](/do-you-know-when-to-use-a-hashtag-vs-a-mention) to see how to best leverage them in combination.
 
+
 ::: ok  
 ![](hashtag-stream.jpg)  
 :::
@@ -50,6 +51,7 @@ The best tweets will use a combination of @mentions and #hashtags where appropri
 
 
 **Tip #1:** Encourage people to use the correct hashtag by adding the hashtag to your sidebar or footer.
+
 
 ::: ok  
 ![Figure: On  www.ssw.com.au/ssw/netug you can see the sidebar shows a feed with the hashtag used](hashtag-stream.jpg)  

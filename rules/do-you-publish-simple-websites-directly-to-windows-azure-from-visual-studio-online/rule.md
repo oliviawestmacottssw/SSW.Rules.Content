@@ -21,9 +21,11 @@ This is by far the most simple method to achieve continuous deployment of your w
 But, if your application is more complicated, or you need to run UI tests as part of your deployment, you should be using Octopus Deploy instead according to the [Do you use the best deployment tool](/Pages/The-best-deployment-tool.aspx) rule.
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Setting up deployment from source control is simple from within the Azure portal](integrate-source-control.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Deployment is available from a number of different source control repositories](TFS\_Deployment.png)  

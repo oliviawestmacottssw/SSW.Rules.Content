@@ -15,6 +15,7 @@ Keep a breadcrumb on every page is necessary. With this navigation tool,  users 
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: The breadcrumb](../../assets/WebsiteLayout\_Breadcrumb\_1.gif)  
 :::

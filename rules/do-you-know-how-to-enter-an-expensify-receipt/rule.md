@@ -14,6 +14,7 @@ related:
 - do-you-separate-your-expenses-by-creating-separate-reports-in-expensify
 redirects:
 - how-to-enter-an-expensify-receipt
+- do-you-know-how-to-enter-an-expensify-receipt-
 
 ---
 
@@ -31,21 +32,25 @@ For example, on the free version of Expensify, you can make the "Category" field
 
 More features are available if you purchase the full version, and you can see these options on their [pricing features page.](https://www.expensify.com/pricing#features)
 
+
 ::: ok  
 ![Figure: Selecting "Enabled" ensures that people using your policy have to enter that field before claiming](Expensify options.png)  
 :::
 
 Required fields are then identified by an asterisk when you are uploading an expense. Conveniently, most of this information is completed for you by the Smart Scan function.  On the free version, there is still room to add a manual "Comment" for more complicated claims if required.
 
+
 ::: bad  
 ![Figure: Bad Example - here there are only 3 required fields shown for this claim, the Name of Merchant, the Date, and the Total.  Without adding an additional Category, or Comment, it will be more difficult for the accounts staff to process this claim](Expensify\_nocompulsary.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - You can see the fields marked with an asterisk that they are required fields. To claim an expense from SSW, you need to give the "Name of Merchant", the "Date" of purchase, "Total", and a "Category". Most of this information is completed for you by the smart scan and there is still room to add a manual "Comment" for more complicated claims if required](Expensify1.png)  
 :::
 
 If you complete these fields, it will make your reports much nicer to read and easier to claim.
+
 
 ::: good  
 ![Figure: Good example - You can see highlighted here that the expenses have been sorted by "Category" and that they have all of the relevant information to claim. A Date," "Name of Merchant," and what the expense was for is clearly identified and you can also see each has an attached receipt. You can also see in one example that an additional "Comment" has been added to a more complicated expense to reflect the approval for that purchase](Expensify example categories.png)  

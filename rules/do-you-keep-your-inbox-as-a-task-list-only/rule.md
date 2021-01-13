@@ -26,6 +26,7 @@ Your inbox should only contain 'tasks', that are actionable items on your  **lis
 
 So do it now, delete all emails you have done. If you want to keep some for reference, move them to a new folder that is not in your inbox.
 
+
 ::: ok  
 ![Figure: All inbox items are tasks](inbox-tasks-list.jpg)  
 :::

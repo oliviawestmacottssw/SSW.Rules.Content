@@ -7,7 +7,8 @@ uri: communication-do-you-respond-to-queries-quickly
 created: 2010-05-20T10:21:38.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- communication---do-you-respond-to-queries-quickly
 
 ---
 

@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - continually-improve-processes
+- devops--stage-4-do-you-continually-improve-processes
 - devops-–-stage-4-do-you-continually-improve-processes
 
 ---
@@ -31,6 +32,7 @@ Here are some examples:
 * For code quality, add getting Code Auditor and ReSharper to 0 on files you’ve changed to your Definition of Done
 * * See [https://rules.ssw.com.au/done-do-you-go-beyond-done-and-follow-a-definition-of-done](/done-do-you-go-beyond-done-and-follow-a-definition-of-done)
 * For code quality, add SonarQube and identify your technical debt and track it
+
 ::: ok  
 ![](improve-processes.png)  
 :::

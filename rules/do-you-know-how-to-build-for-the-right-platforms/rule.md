@@ -20,6 +20,7 @@ Picking the right development environment is important, and which platforms you 
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: The platforms you can target with each development environment – in most situations a Mac works best](dev-environments.png)  
 :::

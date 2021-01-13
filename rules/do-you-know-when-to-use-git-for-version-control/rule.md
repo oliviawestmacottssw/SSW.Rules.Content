@@ -21,6 +21,7 @@ Team Foundation Server Update 2 and Team Foundation Server 2013 comes with built
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: How you start using Git on TFS](git-screen.jpg)  
 :::

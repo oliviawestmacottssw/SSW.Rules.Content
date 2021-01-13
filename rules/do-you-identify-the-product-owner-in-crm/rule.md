@@ -17,6 +17,7 @@ To make them easily identifiable, the [Product Owner](/_layouts/15/FIXUPREDIRECT
 
 <!--endintro-->
 
+
 ::: bad  
 ![](BetterCRMDataGoodExam.jpg)  
 :::

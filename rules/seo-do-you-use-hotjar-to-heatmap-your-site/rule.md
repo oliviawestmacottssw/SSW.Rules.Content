@@ -9,7 +9,8 @@ authors:
 - title: Camilla Rosa Silva
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
-redirects: []
+redirects:
+- seo---do-you-use-hotjar-to-heatmap-your-site
 
 ---
 

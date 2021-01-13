@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - track-your-initial-meetings
+- metrics---do-you-track-your-initial-meetings
 
 ---
 
@@ -52,11 +53,13 @@ Figure: Good subjects - Make clear it is an initial meeting by having both words
 
 The Appointment should also be tracked (without regarding) in Dynamics 365 so that this information is readily available and reportable.
 
+
 ::: ok  
 ![Figure: Initial Meeting created in Outlook and tracked to Dynamics 365](initial-meeting-dynamics.png)  
 :::
 
 The idea behind it is that Power BI can then track and show this.
+
 
 ::: ok  
 ![Figure: It's clear to see that there is no yellow in the past couple of months, which may indicate work drying up for Stephen's area](initial-meeting-graph.jpg)  

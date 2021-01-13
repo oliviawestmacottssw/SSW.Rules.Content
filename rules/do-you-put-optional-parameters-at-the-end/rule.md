@@ -19,12 +19,18 @@ Optional parameters should be placed at the end of the method signature as optio
 
 <!--endintro-->
 
+
+
+```
 public void SaveUserProfile(
 [Optional] string username,
 [Optional] string password,
 string firstName,
 string lastName, 
 [Optional] DateTime? birthDate)
+```
+
+
 
 ::: bad
 Figure: Bad Example - Username and Password are optional and first - they are less important than firstName and lastName and should be put at the end  
@@ -32,12 +38,18 @@ Figure: Bad Example - Username and Password are optional and first - they are le
 
 
 
+
+
+```
 public void SaveUserProfile(
 string firstName,
 string lastName, 
 [Optional] string username,
 [Optional] string password,
 [Optional] DateTime? birthDate)
+```
+
+
 
 ::: good
 Figure: Good Example - All the optional parameters are the end  

@@ -16,7 +16,15 @@ redirects:
 
 The bad practice below because the application can now do anything it wants to the SQL server (e.g. DROP other databases). 
 
+
+
+
+```
 Server=DRAGON;Database=SSWData2005;Uid=sa;Pwd=password;
+```
+
+
+
 
 
 ::: bad
@@ -27,10 +35,16 @@ Bad example - The connection string use 'sa' in Uid
 
 <!--endintro-->
 
+
+
+```
 If using SQL Authentication
 Server=DRAGON;Database=SSWData2005;Uid=SSWWebsite;Pwd=password;Application Name=SSWWebsite 
 If using Windows Authentication (Recommended)
 Server=DRAGON;Database=SSWData2005;Integrated Security=True;Application Name=SSWWebsite
+```
+
+
 
 ::: good
  Good example - The connection string with Application Name  

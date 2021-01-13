@@ -24,6 +24,7 @@ Why do web pages have "Reset" buttons? I have been entering forms on the web for
 
 More detailed information about this rule can be found in this article http://www.nngroup.com/articles/reset-and-cancel-buttons/
 
+
 ::: ok  
 ![Figure: The "Reset" button isn't useful at all](ResetButton.gif)  
 :::

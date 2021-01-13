@@ -19,6 +19,7 @@ related:
 - branding---do-you-know-when-to-use-an-overlay-on-images
 redirects:
 - how-to-see-what-is-going-on-in-your-project
+- notifications---do-you-know-how-to-see-whats-going-on-in-your-project
 - notifications-do-you-know-how-to-see-what’s-going-on-in-your-project
 
 ---
@@ -49,6 +50,7 @@ Figure: Bad example - Broad email asking what’s been happening
 
 
 Teams can keep you abreast of all the events happening on your project.
+
 
 ::: good  
 ![Good example: See that a record of team conversations, builds, and deployments](Teams Notifications.png)  

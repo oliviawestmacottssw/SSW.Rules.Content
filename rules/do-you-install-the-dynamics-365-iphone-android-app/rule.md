@@ -11,12 +11,14 @@ authors:
 related: []
 redirects:
 - install-dynamics-iphone-android-app
+- do-you-install-the-dynamics-365-iphoneandroid-app
 
 ---
 
 You should have Dynamics 365 installed on your phone.
 
 <!--endintro-->
+
 
 ::: ok  
 ![](dynamics365-app.png)  

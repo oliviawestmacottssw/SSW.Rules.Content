@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - script-out-all-changes
+- dbas---do-you-script-out-all-changes
 
 ---
 
@@ -19,6 +20,7 @@ Every time a change is made to your product's SQL Server Database, script out th
 Keep the scripts in a separate directory to any other scripts or files. This way you can always go back to them and find out what alterations you have made to the database in version xxx to find errors. If you have all the scripts you are able to rebuild the database from scratch. At SSW we name this folder SQLChangeScripts so as to not confuse it with other script folders.
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: A list of change SQL scripts, each file name is in the correct format](SQLChangeScripts.jpg)  

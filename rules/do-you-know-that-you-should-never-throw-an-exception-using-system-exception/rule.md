@@ -11,7 +11,8 @@ authors:
 - title: Drew Robson
   url: https://ssw.com.au/people/drew-robson
 related: []
-redirects: []
+redirects:
+- do-you-know-that-you-should-never-throw-an-exception-using-systemexception
 
 ---
 

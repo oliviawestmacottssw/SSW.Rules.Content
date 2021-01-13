@@ -7,7 +7,8 @@ uri: messages-do-you-avoid-ok-button-when-the-action-is-clear
 created: 2012-11-27T04:31:59.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- messages---do-you-avoid-ok-button-when-the-action-is-clear
 
 ---
 
@@ -25,6 +26,7 @@ Don't use "OK" if the button does one clear action. The button name must reflect
 
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: Save button in action](../../assets/DontUseOpen.jpg)  

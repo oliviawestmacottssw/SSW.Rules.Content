@@ -25,6 +25,7 @@ To do this, in Outlook, click File | CRM | Options | Synchronization, and click 
 
 
 
+
 ::: ok  
 ![Figure: Contact Synchronization enabled in MS Outlook 2013](ContactSynchronizationEnabled.jpg)  
 :::

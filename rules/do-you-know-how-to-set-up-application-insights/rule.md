@@ -26,6 +26,7 @@ Lets take a look at the overview and our tips to help you get the most out of Ap
 **An overview of the setup steps** Application Insights requires that you make 2 general modifications to your application:
 
 1. On the client side, manually[add a Javascript tracker to your web page header](https://azure.microsoft.com/en-us/documentation/articles/app-insights-javascript/) (i.e. by placing directly on each page or through a "master page" or "layout template"), this modification enables the "browser page loading time" monitor and can track client-side exceptions: 
+
 ::: ok  
 ![Browser side stats have been enabled with the JavaScript tracker](app-insights-browser-loading-time.jpg)  
 :::

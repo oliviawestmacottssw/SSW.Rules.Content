@@ -16,9 +16,11 @@ redirects:
 
 It is important to define your response types.
 
+
 ::: bad  
 ![dd&gt;Figure: Bad example – no response types](bad-no-response-types.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example – Response types (in .NET)](good-response-types.png)  
@@ -28,31 +30,37 @@ It is important to define your response types.
 
 
 
-/// &lt;summary&gt;
+
+
+```
+/// <summary>
 /// Returns the nth number in the fibonacci sequence.
-/// &lt;/summary&gt;
-/// &lt;param name="n"&gt;The index (n) of the fibonacci sequence&lt;/param&gt;
-/// &lt;returns&gt;Returns the nth fibonacci number.&lt;/returns&gt;
-/// &lt;response code="200"&gt;int64&lt;/response&gt;
+/// </summary>
+/// <param name="n">The index (n) of the fibonacci sequence</param>
+/// <returns>Returns the nth fibonacci number.</returns>
+/// <response code="200">int64</response>
 [HttpGet]
 [ProducesResponseType(200)]
 [ProducesResponseType(400)]
 [ResponseCache(CacheProfileName = DefaultCacheProfile.Name)]
 [Produces("application/json", "text/json")]
-public <mark>ActionResult&lt;long&gt;</mark> Get(long n)
+public ActionResult<long> Get(long n)
 {
-\_logger.LogInformation($"Fibonacci number {n} requested");
-if(!\_fibonacciSolver.CanSolve(n))
+_logger.LogInformation($"Fibonacci number {n} requested");
+if(!_fibonacciSolver.CanSolve(n))
 return new BadRequestResult();
 try
 {
-return \_cache.GetOrAdd($"Fibonacci{n}", () =&gt; \_fibonacciSolver.Solve(n));
+return _cache.GetOrAdd($"Fibonacci{n}", () => _fibonacciSolver.Solve(n));
 }
 catch (ArgumentOutOfRangeException)
 {
 return new BadRequestResult();
 }
 }
+```
+
+
 
 ::: bad
 Figure: Good example for swashbuckle - Even better if you have .NET Core 2.1 use the strong typed ActionResult – see yellow
@@ -60,25 +68,31 @@ Figure: Good example for swashbuckle - Even better if you have .NET Core 2.1 use
 
 :::
 
+
+
+```
 [HttpGet]
         [SwaggerResponse(HttpStatusCode.OK, typeof(long))]
         [SwaggerResponse(HttpStatusCode.BadRequest, typeof(void))]
-        public <mark>ActionResult&lt;long&gt;</mark> Get(long n)
+        public ActionResult<long> Get(long n)
         {
-            \_logger.LogInformation($"Fibonacci number {n} requested");
-
-            if(!\_fibonacciSolver.CanSolve(n))
+            _logger.LogInformation($"Fibonacci number {n} requested");
+            
+            if(!_fibonacciSolver.CanSolve(n))
                 return new BadRequestResult();
  
             try
             {
-                return \_cache.GetOrAdd($"Fibonacci{n}", () =&gt; \_fibonacciSolver.Solve(n));
+                return _cache.GetOrAdd($"Fibonacci{n}", () => _fibonacciSolver.Solve(n));
             }
             catch (ArgumentOutOfRangeException)
             {
                 return new BadRequestResult();
             }
         }
+```
+
+
 
 ::: good
 Figure: Good example for nswag - Even better if you have .NET Core 2.1 use the strong typed ActionResult – see yellow

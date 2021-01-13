@@ -7,7 +7,8 @@ uri: column-data-do-you-make-matrix-columns-as-simple-as-possible
 created: 2012-11-27T01:53:59.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- column-data---do-you-make-matrix-columns-as-simple-as-possible
 
 ---
 
@@ -16,6 +17,7 @@ redirects: []
 :::
 
 <!--endintro-->
+
 
 ::: good  
 ![Figure: Good example - The whole table has been re-written and is now easier to understand](../../assets/good-matrixcol.jpg)  

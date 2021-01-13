@@ -23,6 +23,7 @@ Recommended practice is to apply package updates at the start of a sprint so tha
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Nuget package updates](update-nuget.png)  
 :::

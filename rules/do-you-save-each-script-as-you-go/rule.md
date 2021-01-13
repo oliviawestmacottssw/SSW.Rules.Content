@@ -36,6 +36,7 @@ Every time a change is made to your product's SQL Server Database, script out th
 
 
 
+
 ::: ok  
 ![Figure: A list of change SQL scripts, each file name is in the correct format](ChangeScripts.jpg)  
 :::

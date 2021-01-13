@@ -55,11 +55,13 @@ Problems with CAML:
 
 Figure: Example of CAML query<br>
 2. SharePoint is not good at telling you if you made a mistake with your CAML query. 
+
 ::: bad  
 ![Figure: Debug error message](CAMLError.png)  
 :::
 3. Hard to debug.
 <font color="#ff0000">Tips:</font> Use 3rd Party tools - U2U CAML Query Builder<br>    
+
 ::: good  
 ![Figure: U2U CAML Query Builder](U2U.png)  
 :::

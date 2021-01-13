@@ -16,6 +16,7 @@ redirects: []
 Too often error messages are a summary at the top or the bottom of the page. Instead please provide an error message per validation error, next to the field (and in red!). 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good example - Provide red errors next to the field](red-error.jpg)  
 :::

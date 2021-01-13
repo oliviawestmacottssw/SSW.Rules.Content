@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - make-newcomers-feel-welcome
+- starting---do-you-know-how-to-make-newcomers-feel-welcome
 
 ---
 

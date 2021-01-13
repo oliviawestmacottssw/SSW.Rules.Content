@@ -23,9 +23,11 @@ Validation rules can be added to a model object via Data Annotations or using th
 
 Fluent Validation is [available as a Nuget package](http://www.nuget.org/packages/FluentValidation/). See [Do you use Fluent Validation?](/use-fluent-validation)
 
+
 ::: ok  
 ![Figure: OK Example - Data Annotation attributes decorate model properties to make them required](DataAttributes.png)  
 :::
+
 
 ::: ok  
 ![Figure: Better Example - Fluent Validation allows validation metadata to be added to a class without modifying the original class.  This provides much more flexibility for code reuse](FluentValidation.png)  
@@ -37,13 +39,16 @@ If you create a new MVC web application in VisualStudio 2013, unobtrusive valida
 2. Use Html Helpers to render the form UI
 
 
+
 ::: good  
 ![Figure: Good Example - this razor view binds to a strongly typed model object and uses HTML helpers.](view.png)  
 :::
 
+
 ::: ok  
 ![Figure: the HTML UI rendered for this view now has data-validation attributes that are followed by JQuery validation to provide rich client-side validation.](Html.png)  
 :::
+
 
 ::: ok  
 ![Figure: On the server-side, the same validation rules will be checked when you call ModelState.IsValid](SaveAction.png)  

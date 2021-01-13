@@ -20,6 +20,7 @@ When creating workflows in Dynamics developers take for granted when a solution 
 
 **Tip:** When searching for Common Data Services (Current Environment) it’s very easy to pick the wrong one:
 
+
 ::: ok  
 ![](common-data-services.png)  
 :::

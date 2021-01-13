@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-bit-numeric-data-type-correctly
+- schema---do-you-use-bitnumeric-data-type-correctly
 
 ---
 

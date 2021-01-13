@@ -39,6 +39,7 @@ Summary: SharePoint BCS -&gt; Pre-built Adapter (.NET Assembly) -&gt; CRM web se
 | ![clip_image002\[8\]](correct.gif "clip_image002[8]")Read/Write<br><br>![clip_image002\[9\]](correct.gif "clip_image002[9]")Minimal coding<br><br>![clip_image002\[10\]](correct.gif "clip_image002[10]")Easiest to implement<br><br>![clip_image002\[11\]](correct.gif "clip_image002[11]")The likely way forward (Best Practice as Microsoft) | ![clip_image004\[13\]](wrong.gif "clip_image004[13]")Needs to be deployed and published to the web server.<br><br>![clip_image004\[14\]](wrong.gif "clip_image004[14]")Less performance than SQL filter views directly<br><br>![clip_image004\[15\]](wrong.gif "clip_image004[15]")Only recently released. |
 
 
+
 ::: ok  
 ![](correct.gif)  
 :::
@@ -63,6 +64,7 @@ Summary: SharePoint BCS -&gt; Pre-built Adapter (.NET Assembly) -&gt; CRM web se
     **More information:**
     If you only want read-only for CRM on-premises data for SharePoint users, this solution is fine. You create the External Content Type directly against the Filtered Views in the CRM database.
     http://msdn.microsoft.com/en-us/library/gg328467.aspx
+
 
 ::: ok
 ![Figure: The result of "SELECT \* FROM FilteredCtx\_Project". Use Office SharePoint Designer to hook this up](correct.gif)
@@ -101,15 +103,18 @@ So it is really only suited to calling from Silverlight and JavaScript web resou
     1. Install [http://crm2011odatatool.codeplex.com](http://crm2011odatatool.codeplex.com/)
     2. Make a query
 
+
 ::: ok
 ![Figure: Designing a query](correct.gif)
 :::
     3. See the data
 
+
 ::: ok
 ![Figure: See the data - RSS source for xtc\_countrySet](correct.gif)
 :::
     The second step (and the problem) is consuming the data
+
 
 ::: ok
 ![Figure: BCS has no option to consume RSS data. Please Microsoft SharePoint Team, we need a new 'Data Source Type' = OData](correct.gif)

@@ -9,7 +9,8 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects: []
+redirects:
+- htmlcss---do-you-know-how-to-create-spaces-in-a-web-page
 
 ---
 

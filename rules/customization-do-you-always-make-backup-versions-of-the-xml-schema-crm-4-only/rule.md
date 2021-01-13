@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- customization---do-you-always-make-backup-versions-of-the-xml-schema-crm-4-only
 - customization-do-you-always-make-backup-versions-of-the-xml-schema-(crm-4-only)
 
 ---
@@ -17,6 +18,7 @@ redirects:
 When the XML schema is published it re-generates the underlying SQL and .aspx code. If trouble hits, a "refresh" or "rollback" to an uncorrupted schema is always a backup plan. A versioning scheme is also required to keep track of different versions of the XML schema at different points in time. To make a backup of the schema from within Microsoft CRM navigate to Settings -&gt; Customization -&gt; Export Customizations. Browse to the location on your personal hard drive where the .XML file is to be stored.
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: Export customizations as backup](CRM\_CustomizationPane.jpg)  

@@ -13,7 +13,8 @@ authors:
 - title: Matt Wicks
   url: https://ssw.com.au/people/matt-wicks
 related: []
-redirects: []
+redirects:
+- scrum-master---do-you-schedule-the-3-meetings
 
 ---
 
@@ -78,6 +79,7 @@ Regards,
 Figure: Good Example - copy this appointment template and send to the Scrum Team
 
 :::
+
 
 ::: good  
 ![It's a great idea to run your Scrum meetings through Microsoft Teams so that the whole team is invited and new developers can easily find the meetings see https://rules.ssw.com.au/run-your-meetings-through-teams for more info.](Screen Shot 2020-04-06 at 4.15.50 PM.png)  

@@ -7,7 +7,8 @@ uri: popup-do-you-know-when-popup-forms-are-good
 created: 2012-11-27T04:19:40.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- popup---do-you-know-when-popup-forms-are-good
 
 ---
 
@@ -29,9 +30,11 @@ Popup forms are good:
 * if you make them clear by dimming the background (see below)
 
 
+
 ::: bad  
 ![Figure: Bad example - if this was a popup form it would be easier to focus on where to look (as a minimum you would be looking at half the screen)](../../assets/Popup01.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - the popup with the dimmed background is much more intuitive](../../assets/Popup02.jpg)  

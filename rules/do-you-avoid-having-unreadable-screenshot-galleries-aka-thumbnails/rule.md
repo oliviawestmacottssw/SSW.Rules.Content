@@ -16,11 +16,13 @@ Many sites have screenshot galleries that offer a list of all the screens within
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - The contents of the screenshots are difficult to make out](ScreenGalleryBad.gif)  
 :::
 
 What we suggest as an alternative is to have one large image - full size - (and possibly a list of descriptions) to allow users to have a large screenshot to view right from the get go. This might look something like:
+
 
 ::: good  
 ![Figure: Good Example - This is a viable alternative to a typical image gallery.](ScreenGalleryGood.jpg)  

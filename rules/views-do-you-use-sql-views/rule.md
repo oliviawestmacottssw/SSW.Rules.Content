@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - use-sql-views
+- views---do-you-use-sql-views
 
 ---
 
@@ -82,15 +83,24 @@ In some cases, you can update the tables through a SQL view depending on its com
 You can only update views with a single base table otherwise it may choose the incorrect base table to update.
 
 
+
+
+```
 INSERT INTO vwProductsNorthwind VALUES (@ItemName, @ItemCost);
 
 UPDATE vwProductsNorthwind SET Cost = @ItemCost WHERE Id = @ItemId;
 
 DELETE vwProductsNorthwind WHERE Id = @ItemId;
+```
+
+
  **Figure: Example of an updatable view using a single base table
 ** 
 More complex views, such as a multi-table view can be used after the where clause in another update statement.
 
+
+
+```
 -- Create the products by category view
 CREATE VIEW vwProductsByCategory
 AS
@@ -103,6 +113,9 @@ ON p.CategoryId = c.Id
 UPDATE Products
 SET  OnSale = @OnSale
 WHERE Id IN ( SELECT Id FROM  vwProductsByCategory WHERE CategoryName = @CategoryName )
+```
+
+
  **Figure: Using a multi-table view after the when clause** 
 ### Example Scenario
 
@@ -117,6 +130,9 @@ This would also need an additional system to sync between the tables to ensure t
 Figure: Bad Example – Using tables and duplicating data  
 :::
 
+
+
+```
 CREATE VIEW  vwIntranetEmployees AS  
 SELECT EmployeeID, LastName, FirstName, Title, TitleOfCourtesy, Country, Extension, Photo, PhotoPath   
 FROM Employees;  
@@ -124,6 +140,9 @@ FROM Employees;
 CREATE VIEW  vwWebsiteProfiles AS  
 SELECT EmployeeID, LastName, FirstName, Title, TitleOfCourtesy, Photo, PhotoPath
 FROM Employees;
+```
+
+
 
 ::: good
 Figure: Good Example – Using views from the base table containing the source data

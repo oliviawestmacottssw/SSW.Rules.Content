@@ -20,6 +20,7 @@ redirects:
 
 Authentication and authorisation are complicated, and it is risky to try and implement it yourself.  Use this rule for a guide on choosing the right service or framework for your situation.
 
+
 ::: ok  
 ![](security-icon-ssw.jpg)  
 :::
@@ -45,6 +46,7 @@ Choosing the right     [authentication and authorisation](https://www.youtube.co
 Without the answers to these questions, it will be difficult to choose the right option. With the answers to these questions, you can use the flow charts below to help you choose the right solution.
 
 ###  External Applications
+
 
 
 ::: ok  
@@ -74,6 +76,7 @@ MFA - You would like to allow users to enable MFA.
 
 
 ###  Internal Applications
+
 
 
 ::: ok  

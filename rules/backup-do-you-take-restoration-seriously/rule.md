@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - take-restoration-seriously
+- backup---do-you-take-restoration-seriously
 
 ---
 

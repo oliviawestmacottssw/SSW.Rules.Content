@@ -25,10 +25,22 @@ Main reasons are:
 * and keep a good track of Analytics
 
 
-&lt;a href="http://support.microsoft.com/support"&gt;Support&lt;/a&gt;
+
+
+```
+<a href="http://support.microsoft.com/support">Support</a>
+```
+
+
 Figure: Bad example - External link opening on the same tab
 
-&lt;a href="http://support.microsoft.com/support" <mark>target=&quot;_blank&quot;</mark>&gt;Support&lt;/a&gt;
+
+
+```
+<a href="http://support.microsoft.com/support" target="_blank">Support</a>
+```
+
+
 Figure: Good example - External link opening in a new tab 
 
 <!--endintro-->

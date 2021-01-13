@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - use-xamarin-forms
+- do-you-use-xamarinforms
 
 ---
 
@@ -20,11 +21,13 @@ Xamarin has evolved beyond simply being an abstraction of the platform native AP
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Xamarin project targeting a single platform](xamarin-platform-bad.png)  
 :::
 
 It is possible to implement beautiful and complex UI designs in Xamarin.Forms, especially given the rich ecosystem of plugins and templates available (see rule: Do you know where to find the best Xamarin resources?). Using drawing APIs like [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/) or the [new shapes and path APIs](https://devblogs.microsoft.com/xamarin/xamarin-forms-shapes-and-paths/) built into Xamarin.Forms (Note: this is an experimental feature) there is no UI that you can't implement cross-platform. Even so, 100% of the platform native APIs are exposed in Xamarin, so if you wanted to you could still implement any UI natively on each platform and call it using your shared code with a [custom renderer](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/custom-renderer/).
+
 
 ::: good  
 ![Figure: Good Example - cross-platform mobile app targeting iOS and Android with a shared codebase](xamarin-platform-good.png)  

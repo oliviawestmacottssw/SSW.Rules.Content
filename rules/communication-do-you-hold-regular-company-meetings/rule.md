@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-hold-regular-company-meetings
+- communication---do-you-hold-regular-company-meetings
 
 ---
 

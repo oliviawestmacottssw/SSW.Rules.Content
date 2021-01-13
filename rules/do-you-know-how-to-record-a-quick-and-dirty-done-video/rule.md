@@ -74,6 +74,7 @@ See Rule: [Do you always zoom in when using a projector?](/meetings-do-you-alway
     **Tip:** Some offices have a professional setup.
 E.g. SSW have the                  **Marantz Turret** hardware and desktop recording kit. The Turret is an ideal device to record these videos as it has a professional podcasting microphone, built-in light and good quality High Definition video camera.
 
+
 ::: ok
 ![Figure: 'Done' video in progress using a Marantz turret broadcasting kit](turret-usage.jpg)
 :::
@@ -98,6 +99,7 @@ Learn more about the Turret:[Product Review: The Marantz Turret — Wistia](http
     * On the timeline, move the new audio meter up just until the audio waveform is about to hit the top
     * Listen and adjust as necessary
 
+
 ::: ok
 ![Figure: audio effects panel with the compressor](audio-effects-panel.png)
 :::
@@ -110,6 +112,7 @@ Learn more about the Turret:[Product Review: The Marantz Turret — Wistia](http
     4. Select the  **Full Opacity (4)** animation effect for fade-in.
     5. **Drag and drop the Full Opacity effect (5)** to the point in the track where you want to fade-in. Adjust the start  and end point of the fade using the handles on the animation arrow.
 
+
 ::: ok
 ![Figure: Camtasia - Steps for adding fade-out/fade-in animation to video track of your face in 'Done' video](fade in and out.png)
 :::
@@ -121,14 +124,17 @@ Follow the steps to export your video:
 
     1. Click the Share button on the top right of the window
 
+
 ::: ok  
 ![](export-video1.png)  
 :::
     2. In the new dialog, select custom production settings <br>                     
+
 ::: ok  
 ![](export-video2.png)  
 :::
     3. In the next window, uncheck the ‘Produce with controller’ option <br>                     
+
 ::: ok  
 ![](export-video3.png)  
 :::
@@ -137,10 +143,12 @@ Follow the steps to export your video:
 -	H.264 Profile: High
 -	Encoding mode: Quality
     o	Increase the quality to 100% <br>                     
+
 ::: ok  
 ![Figure: Copy these settings](export-video4.png)  
 :::
     5. In the ‘Audio settings’ tab, make sure the Bit rate is set to 320 kbps <br>                     
+
 ::: ok  
 ![](export-video5.png)  
 :::

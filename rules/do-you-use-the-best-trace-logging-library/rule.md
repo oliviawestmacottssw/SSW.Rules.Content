@@ -39,18 +39,22 @@ Other sinks allow you to:
 
 Many other sinks are available as described here: https://github.com/serilog/serilog/wiki/Provided-Sinks
 
+
 ::: bad  
 ![Figure: Bad Example - Using Debug or Trace for logging, or writing hard coded mechanisms for logging does not allow you to configure logging at runtime](trace-logging-bad.jpg)  
 :::
+
 
 ::: bad  
 ![Figure: Bad Example - Roll your own logging components lack functionality, and have not been tested as thoroughly for quality or performance as log4net](trace-logging-bad-2.jpg)  
 :::
 
+
 ::: good  
 ![Figure: Good Example - Using serilog allows persisting structured log data to multiple stores, querying that data intelligently and requires less work to install and configure than a roll-you-own logger, and provides many more features](serilog.png)  
 :::
  
+
 ::: good  
 ![Figure: Good Example - Seq provides a powerful UI for searching and viewing your structured logs](seq2.png)  
 :::

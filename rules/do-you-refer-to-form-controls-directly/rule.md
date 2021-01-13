@@ -26,7 +26,10 @@ It's a correct method of programming.
 
 <!--endintro-->
 
-Private Sub Command0\_Click()
+
+
+```
+Private Sub Command0_Click()
  CreateSchedule
 End Sub
 Sub CreateSchedule()
@@ -36,13 +39,19 @@ Sub CreateSchedule()
  dteDateEnd = Format(Me.ctlDateEnd, "dd/mm/yyyy")
  .....processing code
 End Sub
+```
+
+
 
 ::: bad
 Bad Example
 
 :::
 
-Private Sub Command0\_Click()
+
+
+```
+Private Sub Command0_Click()
  CreateSchedule(ctlDateStart, ctlDateEnd)
 End Sub
 Sub CreateSchedule(pdteDateStart As Date, pdteDateEnd As Date)
@@ -52,6 +61,9 @@ Sub CreateSchedule(pdteDateStart As Date, pdteDateEnd As Date)
  dteDateEnd = Format(pdteDateEnd, "dd/mm/yyyy")
  &....processing code
 End Sub
+```
+
+
 
 ::: good
 Good Example

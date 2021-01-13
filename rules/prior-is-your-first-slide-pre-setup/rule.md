@@ -7,7 +7,8 @@ uri: prior-is-your-first-slide-pre-setup
 created: 2010-06-08T08:19:23.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- prior---is-your-first-slide-pre-setup
 
 ---
 

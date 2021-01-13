@@ -18,6 +18,7 @@ Using a standard file structure for storing user data on laptops makes locating 
 
 Remember, the expectation is for all the questions to be answered with "YES" by the end of this checklist.
 
+
 ::: ok  
 ![](data-backup.jpg)  
 :::
@@ -72,6 +73,7 @@ Warning: If you are using OneDrive, it is not possible to change the root direct
 
 When you choose a location in OneDrive, it will always create the main root folder called "OneDrive - (YourOrganization)". Use this folder to store your files.
 E.g. Create a folder in C: with Data and your username, for example, "C:\DataKaiqueBiancatti", and choose that folder to be your main OneDrive folder. It will automatically create a new folder inside it:
+
 
 ::: good  
 ![Figure: Good Example - Location of Data&lt;YourUserName&gt; with OneDrive - (YourOrganization) folder in it](onedrive.png)  

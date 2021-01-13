@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- installation---do-you-log-each-screen-which-is-different-to-the-default
 
 ---
 
@@ -18,6 +19,7 @@ It is impossible to exactly remember every configuration setting in an MSCRM ins
 <!--endintro-->
 
 You will also need this because you are going to do this in a Dev, then Test and then Production environment aren't you :-)
+
 
 ::: ok  
 ![Figure: This is the last dialog before it installs. So you want a screen capture of everything up to here - so you can replay it for the Test and Production servers](CRM-screen.jpg)  

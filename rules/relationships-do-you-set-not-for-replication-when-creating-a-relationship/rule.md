@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - set-not-for-replication-when-creating-a-relationship
+- relationships---do-you-set-not-for-replication-when-creating-a-relationship
 
 ---
 

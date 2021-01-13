@@ -9,6 +9,7 @@ authors: []
 related: []
 redirects:
 - do-you-know-how-to-enter-a-hubdoc-receipt
+- do-you-know-how-to-enter-and-file-a-hubdoc-receipt-
 
 ---
 

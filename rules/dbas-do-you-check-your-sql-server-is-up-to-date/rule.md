@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - check-your-sql-server-is-up-to-date
+- dbas---do-you-check-your-sql-server-is-up-to-date
 
 ---
 

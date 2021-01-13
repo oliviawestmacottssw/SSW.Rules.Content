@@ -17,6 +17,7 @@ authors:
 related:
 - do-you-name-your-dependencies-to-avoid-problems-with-minification
 redirects:
+- do-you-know-the-common-design-patterns-part-2---example
 - do-you-know-the-common-design-patterns-(part-2-example)
 
 ---

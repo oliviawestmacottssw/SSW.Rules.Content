@@ -16,6 +16,7 @@ redirects:
 
 With Clean Architecture, the Domain and Application layers are at the centre of the design. This is known as the Core of the application. The Domain layer contains the enterprise logic and types, and the Application layer contains the business logic and types. The difference being that enterprise logic could be shared with other systems whereas business logic would typically be specific to this system.
 
+
 ::: ok  
 ![Figure: Onion View of Clean Architecture](ca-diagram.png)  
 :::

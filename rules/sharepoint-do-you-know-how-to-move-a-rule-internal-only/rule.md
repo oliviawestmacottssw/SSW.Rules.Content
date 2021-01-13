@@ -14,6 +14,7 @@ related: []
 redirects:
 - how-to-move-a-rule
 - do-you-know-how-to-move-a-rule-(internal-only)
+- sharepoint---do-you-know-how-to-move-a-rule-internal-only
 - sharepoint-do-you-know-how-to-move-a-rule-(internal-only)
 
 ---
@@ -31,18 +32,22 @@ Sometimes you might need to move a rule from a category to another. You can do t
 <!--endintro-->
 
 1. Click on "Site Settings": <br>      
+
 ::: ok  
 ![Figure: Make sure you are logged in and click on "Site Settings"](site-settings.png)  
 :::
 2. Under "Site Administration", click on "Content and structure": <br>      
+
 ::: ok  
 ![Figure: Go to "Content and structure"](content-structure.png)  
 :::
 3. Navigate on the categories and pages to find the rule you want to move: <br>      
+
 ::: ok  
 ![Figure: Find the rule to be moved and click on the small arrow beside it, then click on "Move..."](move-rule.png)  
 :::
 4. Select the new location where the rule should be: <br>      
+
 ::: ok  
 ![Figure: Navigate through categories and click on the place the rule should be moved to and click "OK"](select-new-place.png)  
 :::

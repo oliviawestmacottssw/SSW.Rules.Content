@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - create-task-list-comments-for-your-code
+- comments---do-you-create-task-list-comments-for-your-code
 
 ---
 
@@ -49,6 +50,7 @@ Figure: Good example - Marked TODO in the comment, so you can see it in Task Lis
 ::: good
 Figure: Good example - Marked HACK in the comment, so you can see it in Task List window and double-click to jump to  
 :::
+
 
 
 

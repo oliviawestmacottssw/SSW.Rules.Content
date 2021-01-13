@@ -72,6 +72,7 @@ Finally, at the end of a project, you should go through a "Go-Live Audit". The C
 
 
 
+
 ::: ok  
 ![Figure: Choosing the right services on Azure requires experience.           View large image](MS Cloud Design Patterns Infographic SSW Edited.png)  
 :::

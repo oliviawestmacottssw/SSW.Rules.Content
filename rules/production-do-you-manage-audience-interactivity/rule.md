@@ -7,7 +7,8 @@ uri: production-do-you-manage-audience-interactivity
 created: 2013-05-24T01:08:56.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- production---do-you-manage-audience-interactivity
 
 ---
 

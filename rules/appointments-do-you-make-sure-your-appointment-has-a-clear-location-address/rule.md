@@ -15,7 +15,8 @@ authors:
 - title: Penny Walker
   url: https://ssw.com.au/people/penny-walker
 related: []
-redirects: []
+redirects:
+- appointments---do-you-make-sure-your-appointment-has-a-clear-location-address
 
 ---
 
@@ -23,9 +24,11 @@ Make sure appointments have address details unless it's obvious for all attendee
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Appointment field should have addresses in location when appropriate](appointment-location-bad-example.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - Address is clearly identified in the location field, meaning it can be mapped using applications on smartphones](map example.png)  

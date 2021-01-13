@@ -9,13 +9,15 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- authentication---do-you-have-a-sign-me-in-automatically-checkbox
 
 ---
 
 When you present visitors to your site with an opportunity to sign in, you should                     always include an option to have that person signed in automatically.
 
 <!--endintro-->
+
 
 ::: good  
 ![Figure: 'Stay signed in' checkbox is available](signin.jpg)  

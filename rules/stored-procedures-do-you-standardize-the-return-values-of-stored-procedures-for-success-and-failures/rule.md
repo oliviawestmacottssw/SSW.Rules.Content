@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - standardize-the-return-values-of-stored-procedures-for-success-and-failures
+- stored-procedures---do-you-standardize-the-return-values-of-stored-procedures-for-success-and-failures
 
 ---
 

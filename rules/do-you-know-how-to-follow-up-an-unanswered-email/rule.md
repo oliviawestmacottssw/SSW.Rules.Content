@@ -23,6 +23,7 @@ Sometimes the person you send your email to may not reply immediately because th
 3. Plus any other instructions - such as "Hurry Up!" or "following-up, and looking forward to your reply" or "Need an answer please"
 
 
+
 ::: good  
 ![Figure: Good Example - (PING) written at the top of the email.](ping-email.png)  
 :::

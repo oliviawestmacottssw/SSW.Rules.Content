@@ -26,18 +26,34 @@ You can disable validation when using the XmlDocument object by passing an XmlTe
 
 <!--endintro-->
 
+
+
+```
 XmlDocument report = new XmlDocument();
  XmlTextReader tr = new XmlTextReader(Configuration.LastReportPath);
  report.Load(tr);
+```
+
+
 
 To perform validation:
 
+
+
+```
 XmlDocument report = new XmlDocument();
  XmlTextReader tr = new XmlTextReader(Configuration.LastReportPath);
  XmlValidatingReader reader = new XmlValidatingReader(tr);
  report.Load(reader);
+```
+
+
 
 The XSD should be distributed in the same directory as the XML file and a relative path should be used:
 
-&lt;Report&gt; &lt;Report xmlns="LinkAuditorReport.xsd"&gt;
- ... &lt;/Report&gt;
+
+
+```
+<Report> <Report xmlns="LinkAuditorReport.xsd">
+ ... </Report>
+```

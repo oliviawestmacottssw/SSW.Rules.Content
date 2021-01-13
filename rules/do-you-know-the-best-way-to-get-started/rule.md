@@ -20,6 +20,7 @@ If you're building applications based on .NET Core then the Clean Architecture S
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: The Clean Architecture Solution Template by @JasonTaylorDev](clean-architecture-solution-template.png)  
 :::

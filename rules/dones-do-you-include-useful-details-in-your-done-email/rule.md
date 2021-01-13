@@ -15,7 +15,8 @@ authors:
 - title: Justin King
   url: https://ssw.com.au/people/justin-king
 related: []
-redirects: []
+redirects:
+- dones---do-you-include-useful-details-in-your-done-email
 
 ---
 
@@ -40,9 +41,11 @@ This has several benefits:
 
 Let's look at some examples and tips:
 
+
 ::: bad  
 ![Figure: Bad example - the client cannot see any detail of what was done](NotifyCodeChangesBad.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good example - the client can see the image + the code changes highlighted in yellow](NotifyCodeChanges.gif)  
@@ -54,6 +57,7 @@ Let's look at some examples and tips:
  **Tip #2: Include a .diff file
 ** You can include the code as an attached text file.
 
+
 ::: good  
 ![Figure: Good example - this is a Text file with a .diff extension that includes the code change from TFS. If opened using NotePad2, the client can view the code changes with green and red color (added and deleted code).](NotePad2DiffFiles.gif)  
 :::
@@ -63,10 +67,12 @@ Let's look at some examples and tips:
 For those developers lucky enough to be using Microsoft Team Foundation Server (TFS 2005, 2008 or 2010) you can associate your code changes with a work item. This means that future developers can work out not just \*what\* changed, but \*why\*. 
 For those using TFS, enable the Checkin policy and force all developers to associate every check-in with a work item.
 
+
 ::: ok  
 ![Figure: Make developers associate all check-ins to a work items](SourceControl\_AssociateWorkItems1.gif)  
 :::
  
+
 ::: ok  
 ![Figure: Enabling the Checkin Policy (via Project | Team Project Settings | Source Control | Add)](SourceControl\_AssociateWorkItems2.gif)  
 :::

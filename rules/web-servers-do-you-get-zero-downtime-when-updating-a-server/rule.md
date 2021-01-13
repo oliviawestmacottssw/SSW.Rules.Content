@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-you-get-zero-downtime-when-updating-a-server
+- web-servers---do-you-get-zero-downtime-when-updating-a-server
 
 ---
 

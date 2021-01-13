@@ -14,6 +14,7 @@ related: []
 redirects:
 - how-to-create-a-rule-category
 - do-you-know-how-to-create-a-rule-category-(internal-only)
+- sharepoint---do-you-know-how-to-create-a-rule-category-internal-only
 - sharepoint-do-you-know-how-to-create-a-rule-category-(internal-only)
 
 ---

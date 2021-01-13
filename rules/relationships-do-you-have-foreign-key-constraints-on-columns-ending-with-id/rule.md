@@ -11,12 +11,14 @@ authors:
 related: []
 redirects:
 - have-foreign-key-constraints-on-columns-ending-with-id
+- relationships---do-you-have-foreign-key-constraints-on-columns-ending-with-id
 
 ---
 
 Columns ending with 'ID' should have FOREIGN KEY constraints.
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: Missing relationships](NorthwindRelationships.jpg)  

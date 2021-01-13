@@ -59,6 +59,7 @@ By comparing the 3 libraries we can see      **ngx-translate** provides the best
 
 Since Angular 9, they now have built-in support for i18n which is called Angular Localized, it is expected that over time, Angular Localize will become the most popular (see the yellow line on     [Google Trends increase](https://trends.google.com/trends/explore?q=Angular%20i18n%2cangular%20ngx-translate%2cAngular%20Localize)).
 
+
 ::: ok  
 ![Figure: It is expected that the yellow line will become the dominant internationalization tool for Angular](code-1.png)  
 :::

@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-you-enjoy-your-job
+- general---do-you-enjoy-your-job
 
 ---
 

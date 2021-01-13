@@ -9,13 +9,15 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- sales---do-you-know-how-to-follow-up-an-opportunity-using-crm-activities
 
 ---
 
 Once you create an opportunity, you should click the "Add phone call" button to           create an activity to call up the client after approximately 1 week. Each time you           make this call, you should complete the activity and create a new one to follow up again when appropriate.
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: Use sales activities to follow up an opportunity](FollowUpActivity.jpg)  

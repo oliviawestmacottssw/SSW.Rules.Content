@@ -23,9 +23,11 @@ If you migrate using the Sharegate migration tool, you want to have zero errors 
 * Get rid of SharePoint Designer customizations on List form
 
 
+
 ::: bad  
 ![Bad example: Page customized using SharePoint Designer](avoid-errors-sp-migration1.png)  
 :::
+
 
 ::: good  
 ![Good example: Out of the box list view page](avoid-errors-sp-migration2.png)  
@@ -38,6 +40,7 @@ Remove unsupported columns such as:
 * Calculated Columns with volatile functions ('Me', 'Today'…)
 * Managed Metadata columns on folders
 * Get rid of MicroFeed
+
 
 
 ::: bad  

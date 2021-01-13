@@ -18,11 +18,13 @@ redirects:
 
 Internet Explorer has a great feature that you hardly notice. The Authentication credentials of the current user will be used by default.
 
+
 ::: ok  
 ![Figure: Internet Explorer has the Integrated Authentication feature built in](ie-integrated.JPG)  
 :::
 
 In Firefox, if you sign-in to an internal server like SharePoint or CRM, you will get an authentication dialog. Even though you are already authenticated to the local domain.
+
 
 ::: ok  
 ![Figure: We want to avoid authenticating using Firefox (so it works like IE)](ff-auth1.JPG)  
@@ -42,6 +44,7 @@ In Firefox, if you sign-in to an internal server like SharePoint or CRM, you wil
 8. Close browser and test
 
 
+
 ::: ok  
 ![Figure: Showed how to find "network.automatic-ntlm-auth.trusted-uris" by using filter: "network.automatic"](ff-auth2.JPG)  
 :::
@@ -49,6 +52,7 @@ In Firefox, if you sign-in to an internal server like SharePoint or CRM, you wil
 More info on this blog: [Firefox and Sharepoint](http://www.cauldwell.net/patrick/blog/PermaLink%2cguid%2cc7f1e799-c4ae-4758-9de7-5c3e7a16f3da.aspx).
 
 **Tip:** To test this without the Integrated Authentication enabled, you need to clear your session. You do this via:  **Tools** |  **Clear private data** |  **Authenticated Sessions** .
+
 
 ::: ok  
 ![Figure: To test you will need to clear your "Authenticated Sessions" to completely logout from a site (SharePoint, CRM)](ff-auth3.JPG)  

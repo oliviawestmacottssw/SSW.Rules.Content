@@ -21,6 +21,7 @@ If you include more than one person in your email, include the name of the perso
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good Example - When addressing multiple people, include each addressee's name as a separate heading](IncludeNameFirstLine.jpg)  
 :::

@@ -11,7 +11,8 @@ authors:
 - title: Jay Lin
   url: https://ssw.com.au/people/jay-lin
 related: []
-redirects: []
+redirects:
+- do-you-know-the-aspnet-skills-that-translate
 
 ---
 

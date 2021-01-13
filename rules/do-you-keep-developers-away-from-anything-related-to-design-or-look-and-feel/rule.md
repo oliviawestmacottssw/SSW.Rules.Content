@@ -15,6 +15,7 @@ Developers should never do design work. A bad design can be dangerous for the pr
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad design can be dangerous!](BadDesignGun.jpg)  
 :::

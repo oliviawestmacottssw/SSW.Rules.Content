@@ -17,19 +17,23 @@ redirects: []
 
 Making reports on websites printable can be difficult. While there are CSS media and rules to help make pages printable, there are always issues with page breaks, browser quirks and tables.  
 
+
 ::: ok  
 ![Figure: Beautiful HTML report](print-reports-bad-1.png)  
 :::
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example – The printed layout looks nothing like the HTML](print-reports-bad-2.png)  
 :::
 
+
 ::: ok  
 ![Figure: Beautiful PowerBI HTML report](print-reports-bad-3.png)  
 :::
+
 
 ::: bad  
 ![Figure: Bad example – PowerBI print preview scales everything down to fit on a page, you have no real control over how things flow onto multiple pages](print-reports-bad-4.png)  
@@ -43,11 +47,13 @@ With an iframe and a little bit of code, your reports can also be viewed in your
 
 In your MVC project, add a new item of type WebForm.
 
+
 ::: ok  
 ![Figure: Add a new WebForm](16-06-2014 10-44-12 AM.png)  
 :::
 
 Then add the ReportViewer control to the WebForm.
+
 
 ::: ok  
 ![Figure: Add the ReportViewer control](16-06-2014 10-46-58 AM.png)  
@@ -59,21 +65,25 @@ Tie them together, by getting your report parameters from the MVC page and appen
 
 (The below example uses JavaScript to execute this part from user input)
 
+
 ::: ok  
 ![Figure: Add an iframe](16-06-2014 10-50-55 AM.png)  
 :::
 
 Now you have your SSRS report in your MVC application.
 
+
 ::: ok  
 ![Figure: The final report in an MVC application](17-06-2014 8-33-37 AM.png)  
 :::
+
 
 ::: ok  
 ![Figure: Export your report with the in-build SSRS functionality](16-06-2014 10-38-51 AM.png)  
 :::
 
 ### When using Web-API the method above is difficult and time-consuming!
+
 
 ::: ok  
 ![](2015-04-29\_10-09-56-compressor.png)  

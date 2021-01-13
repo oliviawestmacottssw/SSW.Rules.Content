@@ -14,6 +14,7 @@ related: []
 redirects:
 - how-to-take-feedback-or-criticism
 - do-you-know-how-to-take-feedback-criticism-(even-if-it’s-not-your-fault)
+- communication---do-you-know-how-to-take-feedbackcriticism-even-if-its-not-your-fault
 - communication-do-you-know-how-to-take-feedback-criticism-(even-if-it’s-not-your-fault)
 
 ---
@@ -44,6 +45,7 @@ More:  **The 3 A’s of Business** (a great article from American Express)
 https://www.americanexpress.com/en-us/business/trends-and-insights/articles/the-three-as-of-business/ 
 
 :::
+
 
 ::: ok  
 ![Figure: Make sure you know how to take criticism well](dilbert-criticism-1.gif)  

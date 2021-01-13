@@ -19,7 +19,10 @@ Don't explicitly use "dispose" to close objects and dispose of them, the "using"
 
 <!--endintro-->
 
-static int WriteLinesToFile(IEnumerable&lt;string&gt; lines)
+
+
+```
+static int WriteLinesToFile(IEnumerable<string> lines)
 {
   // We must declare the variable outside of the using block
   // so that it is in scope to be returned.
@@ -39,6 +42,9 @@ static int WriteLinesToFile(IEnumerable&lt;string&gt; lines)
   file.Dispose();
   return skippedLines;
 }
+```
+
+
 
 ::: bad
 Figure: Bad example of dispose of resources
@@ -47,7 +53,10 @@ Figure: Bad example of dispose of resources
 
 
 
-static int WriteLinesToFile(IEnumerable&lt;string&gt; lines)
+
+
+```
+static int WriteLinesToFile(IEnumerable<string> lines)
 {
   // We must declare the variable outside of the using block
   // so that it is in scope to be returned.
@@ -68,6 +77,9 @@ static int WriteLinesToFile(IEnumerable&lt;string&gt; lines)
   } // file is disposed here
    return skippedLines;
 }
+```
+
+
 
 ::: bad
 Figure: Bad example of dispose of resources 
@@ -76,7 +88,10 @@ Figure: Bad example of dispose of resources
 
 
 
-static int WriteLinesToFile(IEnumerable&lt;string&gt; lines)
+
+
+```
+static int WriteLinesToFile(IEnumerable<string> lines)
 {
   using var file = new System.IO.StreamWriter("WriteLines2.txt");
   // Notice how we declare skippedLines after the using statement.
@@ -96,6 +111,9 @@ static int WriteLinesToFile(IEnumerable&lt;string&gt; lines)
     return skippedLines;
    // file is disposed here
 }
+```
+
+
 
 
 

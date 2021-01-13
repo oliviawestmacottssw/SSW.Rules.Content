@@ -9,7 +9,8 @@ authors:
 - title: Peter Gfader
   url: https://ssw.com.au/people/peter-gfader
 related: []
-redirects: []
+redirects:
+- dones---do-you-reply-done-using-team-companion-when-using-tfs
 
 ---
 

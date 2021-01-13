@@ -29,6 +29,7 @@ To do this, you first need to decide how frequently you’d like to collect your
 
 Here is a diagram outlining some of the ways you can track your performance:
 
+
 ::: ok  
 ![](mkt-performance-diagram.png)  
 :::
@@ -39,6 +40,7 @@ A simple way of tracking this, is to have a spreadsheet that holds all of your d
 * Can I take action on these metrics (i.e., will they provide me insight into how I can improve my program)?
 
 Unless you can answer “yes” to the questions above, you likely don’t need to be collecting the data — at least at first.   
+
 
 
 ::: ok  

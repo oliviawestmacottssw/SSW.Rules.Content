@@ -20,6 +20,7 @@ When recording a Microsoft Teams or a Zoom call (e.g. an interview) the software
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: The H6 Pro Zoom Audio Recorder](h6-pro-zoom-audio-recorder.jpg)  
 :::

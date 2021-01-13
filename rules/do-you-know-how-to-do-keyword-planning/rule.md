@@ -20,6 +20,7 @@ The Keyword Planner allows you to get keyword ideas that can help you reach peop
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Keyword planner in action!](keyword-planning.jpg)  
 :::

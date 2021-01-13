@@ -19,7 +19,10 @@ Be sure you are aware of what is business logic and what isn't. Typically, loopi
 
 <!--endintro-->
 
-private void btnOK\_Click(object sender, EventArgs e)
+
+
+```
+private void btnOK_Click(object sender, EventArgs e)
 {
 rtbParaText.Clear();
 var query =
@@ -34,6 +37,9 @@ select t.ParaText;
 rtbParaText.AppendText(query2.First() + "\r\n");
 }
 }
+```
+
+
 
 ::: bad
 Bad Example: A UI method mixed with business logics  
@@ -41,12 +47,18 @@ Bad Example: A UI method mixed with business logics
 
 
 
-private void btnOK\_Click(object sender, EventArgs e)
+
+
+```
+private void btnOK_Click(object sender, EventArgs e)
 {
 string paraText = Business.GetParaText();
 rtbParaText.Clear();
 rtbParaText.Add(paraText);
 }
+```
+
+
 
 ::: good
 Good Example : Putting business logics into the business project, just call the relevant method when needed

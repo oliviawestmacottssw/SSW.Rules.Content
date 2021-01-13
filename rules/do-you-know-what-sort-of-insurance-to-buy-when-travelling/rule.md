@@ -22,9 +22,11 @@ For example, if you're travelling  **within your home country** you might decide
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - Getting insurance through the car hire provider, with AUD$6,000 excess, is $23.25/day](53a2eb\_hire-car-provided-insurance.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example: Allianz travel insurance for within Australia covers up to AUD$6,000 excess on a rental vehicle – this works out to be about $5.15 a day for a 9-day trip](575bdf\_private-travel-insurance.jpg)  
@@ -39,6 +41,7 @@ If you're  **travelling outside of the country** , you should definitely take ou
 If you're the card holder and you're travelling alone, you should be fine with the insurance provided by your credit card institution.
 
 **Note:** if you're travelling for business and would like to be covered under credit card insurance, you will have to pay for the trip on your own credit card to get the coverage, and then be reimbursed for the costs by your company.
+
 
 ::: good  
 ![Figure: Good example – but only if you're travelling by yourself](ccb9e6\_credit-card-insurance-coverage-table.jpg)  

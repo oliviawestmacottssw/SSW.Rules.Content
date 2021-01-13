@@ -11,7 +11,8 @@ authors:
 - title: Brendan Richards
   url: https://ssw.com.au/people/brendan-richards
 related: []
-redirects: []
+redirects:
+- quality---do-you-only-deploy-after-a-test-please
 
 ---
 

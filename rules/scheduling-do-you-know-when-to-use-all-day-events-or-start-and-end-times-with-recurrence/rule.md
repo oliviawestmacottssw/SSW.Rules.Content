@@ -13,6 +13,7 @@ related:
 redirects:
 - when-to-use-all-day-events-or-start-and-end-times-with-recurrence
 - scheduling-do-you-know-when-to-use-＂all-day-events＂-or-start-and-end-times-with-recurrence
+- scheduling---do-you-know-when-to-use-all-day-events-or-start-and-end-times-with-recurrence
 
 ---
 
@@ -34,9 +35,11 @@ CRM supports recurring appointments, and this allows for more flexibility in boo
 
 This also works better for Service Calendar syncing, as you can see what each person is working on each day.
 
+
 ::: bad  
 ![Figure: Bad Example – If a change is needed on Tuesday’s booking, there will an issue](recurring-appointment-bad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example – Easy to alter any individual day as needed](recurring-appointment-good.png)  

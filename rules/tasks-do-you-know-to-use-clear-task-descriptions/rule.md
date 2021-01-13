@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- tasks---do-you-know-to-use-clear-task-descriptions
 
 ---
 
@@ -18,6 +19,7 @@ When you create tasks in Scrum you are doing this within a time box and you tend
 <!--endintro-->
 
 Once you have accepted a task you should then add as much information as possible so that anyone can pick up that task; what if your numbers come up? Will you be into work the next day?
+
 
 ::: ok  
 ![Figure: What if your numbers come up in the lottery?](lottery.jpg)  
@@ -29,9 +31,11 @@ Add as much information to the task as you think is necessary for anyone to work
 
 If you need to add rich text and images you can do this by [attaching an email to the task](/Pages/EnsureRelevantEmails.aspx).
 
+
 ::: bad  
 ![Figure: Bad example, there is not enough information for a non team member to complete this task](TaskDetail-badExample.png)  
 :::
+
 
 ::: ok  
 ![Figure: Julie provided a lot more information and another team should be able to pick this up](UserStoryOwner\_Good.png)  

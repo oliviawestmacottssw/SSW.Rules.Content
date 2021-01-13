@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-computed-columns-rather-than-denormalized-fields
+- schema---do-you-use-computed-columns-rather-than-denormalized-fields
 
 ---
 
@@ -20,9 +21,11 @@ Use the suffix "Computed" to clearly distinguish that this field is a computed f
 
 ![NormalizedFields_Bad.jpg style=](NormalizedFields_Bad.jpg)
 
+
 ::: bad  
 ![Figure: Bad Example - This field was manually updated from code in the middle tier.](NormalizedFields\_Bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - There was no code in the middle tier to calculate this (and it has the correct name)](NormalizedFields\_Bad.jpg)  
@@ -36,19 +39,27 @@ You can use user-defined functions (UDF) from code in a reusable function, this 
 
 ALTER FUNCTION [dbo].[udfEmpTime\_TimeTotalComputed]
 
+
+
+```
 (
 @TimeStart as DateTime,
-@TimeEnd as DateTime     
+@TimeEnd as DateTime 
+   
 )
 RETURNS DECIMAL(8,6)
 AS
 BEGIN
 -- This function returns the time difference in hours - decimal(8,6)
-RETURN (round(isnull(CONVERT([decimal](8,6),@TimeEnd - @TimeStart,(0))\*(24),(0)),(2)))
+RETURN (round(isnull(CONVERT([decimal](8,6),@TimeEnd - @TimeStart,(0))*(24),(0)),(2)))
 
  END
+```
+
+
  **Figure: This is the user defined function
 ** 
+
 ::: ok  
 ![Figure: Setting up a computed column in the table designer](NormalizedFields\_Bad.jpg)  
 :::

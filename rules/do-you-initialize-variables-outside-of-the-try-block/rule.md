@@ -18,6 +18,9 @@ You should initialize variables outside of the try block.
   
 <!--endintro-->
 
+
+
+```
 Cursor cur;
 try
 {
@@ -30,12 +33,18 @@ finally
 {
 Cursor.Current = cur;
 }
+```
+
+
 
 ::: bad
 Bad Example: Because of the initializing code inside the try block. If it failed on this line then you will get a NullReferenceException in Finally
 
 :::
 
+
+
+```
 Cursor cur = Cursor.Current; //Good Code - initializing the variable outside the try block
 try
 {
@@ -47,6 +56,9 @@ finally
 {
 Cursor.Current = cur;
 }
+```
+
+
 
 ::: good
 Good Example : Because the initializing code is outside the try block

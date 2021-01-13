@@ -22,7 +22,13 @@ The best way to avoid it is not to display valid individual email addresses in t
 
 
 
+
+
+```
 e.g. FirstnameSurname@ssw.com.au
+```
+
+
 
 ::: bad
 Figure: Bad way - normal email address in text format
@@ -32,13 +38,34 @@ Figure: Bad way - normal email address in text format
 ###  Better way: encryption technique 
 
 1. Store email addresses in the web.config file
-    &lt;configuration&gt; 
-&lt;appSettings&gt; 
-&lt;add key="SampleEncodedEmailAddress" value="David@sample.com.au" /&gt; ...&lt;/appSettings&gt; &lt;/configuration&gt;
+
+
+
+```
+<configuration> 
+<appSettings> 
+<add key="SampleEncodedEmailAddress" value="David@sample.com.au" /> ...</appSettings> </configuration>
+```
+
+
 2. Encode them on the server using the BitConverter class
-    Dim email As String = ConfigurationSettings.AppSettings("SampleEncodedEmailAddress") Application("SampleEncodedEmailAddress") = BitConverter.ToString( \_ ASCIIEncoding.ASCII.GetBytes(email)).Replace("-", "")
+
+
+
+```
+Dim email As String = ConfigurationSettings.AppSettings("SampleEncodedEmailAddress") Application("SampleEncodedEmailAddress") = BitConverter.ToString( _ ASCIIEncoding.ASCII.GetBytes(email)).Replace("-", "")
+```
+
+
 3. Decode on the client with a JavaScript function in the JavaScript
-    &lt;a id="linkContact" href="javascript:sendEmail('44617669644073616D706C652E636F6D2E6175')"&gt;CONTACT David&lt;/a&gt;
+
+
+
+```
+<a id="linkContact" href="javascript:sendEmail('44617669644073616D706C652E636F6D2E6175')">CONTACT David</a>
+```
+
+
 
 
 We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.

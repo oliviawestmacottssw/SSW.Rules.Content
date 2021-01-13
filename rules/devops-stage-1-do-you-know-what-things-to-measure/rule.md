@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - things-to-measure
+- devops--stage-1-do-you-know-what-things-to-measure
 - devops-–-stage-1-do-you-know-what-things-to-measure
 
 ---
@@ -23,9 +24,11 @@ Before you begin your journey into DevOps, you should assess yourself and see wh
 
 Take this survey to find out your DevOps index: http://goo.gl/forms/NrJhwHeGu1
 
+
 ::: ok  
 ![Figure: DevOps Survey](DevOps Survey.png)  
 :::
+
 
 ::: ok  
 ![Figure: If you prefer, you can download and print this survey in PDF](quiz-devops.jpg)  

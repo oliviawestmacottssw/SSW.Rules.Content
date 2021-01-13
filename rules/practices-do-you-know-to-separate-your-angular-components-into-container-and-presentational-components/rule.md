@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - separate-your-angular-components-into-container-and-presentational
+- practices---do-you-know-to-separate-your-angular-components-into-container-and-presentational-components
 
 ---
 
@@ -22,42 +23,47 @@ There are two types of components 'dumb' and 'smart' components. Dumb components
 
 Aiming to keep the components that display data 'dumb' makes them much easy to reuse in your application and less buggy, but many people do not like the terms smart and dumb components as a dumb component may just have less logic versus none. Many people and SSW included are preferring the terms container and presentational components for these reasons.
 
-**company-list-table.component.ts** 
-@Component({
+
+
+```
+company-list-table.component.ts @Component({
     selector: 'fbc-company-list-table',
     template: `
-     &lt;table id="company-list-table" class="table table-hover table-striped company-list-table-component"&gt;
-            &lt;thead&gt;
-                &lt;tr&gt;
-                    &lt;th&gt;Name&lt;/th&gt;
-                    &lt;th&gt;Phone&lt;/th&gt;
-                    &lt;th&gt;Email&lt;/th&gt;
-                    &lt;th&gt;&lt;/th&gt;
-                &lt;/tr&gt;
-            &lt;/thead&gt;
-            &lt;tbody&gt;
-               &lt;tr class="item" \*ngFor="let company of companies"&gt;
-                    &lt;td&gt;{{company.name}}&lt;/td&gt;
-                    &lt;td&gt;{{company.phone}}&lt;/td&gt;
-                    &lt;td&gt;{{company.email}}&lt;/td&gt;
-                    &lt;td class="button-column"&gt;
-                        &lt;button routerLink="/company/detail/{{company.id}}" class="btn btn-default" &gt;Details&lt;/button&gt;
-                        &lt;button routerLink="/company/edit/{{company.id}}" class="btn btn-default" &gt;Edit&lt;/button&gt;
-                        &lt;button (click)="confirmDelete(company)" class="btn btn-default"&gt;Delete&lt;/button&gt;
-                    &lt;/td&gt;
-                &lt;/tr&gt;
-            &lt;/tbody&gt;
-        &lt;/table&gt;
+     <table id="company-list-table" class="table table-hover table-striped company-list-table-component">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>Email</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+               <tr class="item" *ngFor="let company of companies">
+                    <td>{{company.name}}</td>
+                    <td>{{company.phone}}</td>
+                    <td>{{company.email}}</td>
+                    <td class="button-column">
+                        <button routerLink="/company/detail/{{company.id}}" class="btn btn-default" >Details</button>
+                        <button routerLink="/company/edit/{{company.id}}" class="btn btn-default" >Edit</button>
+                        <button (click)="confirmDelete(company)" class="btn btn-default">Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
     `
 })
 export class CompanyListTableComponent {
     @Input() companies: Company[];
-    @Output() deleteCompanySelected = new EventEmitter&lt;number&gt;();
+    @Output() deleteCompanySelected = new EventEmitter<number>();
      
     confirmDelete(company: Company) {
         this.deleteCompanySelected.emit(company.id);
     }
 }
+```
+
+
 
 ::: good
 Figure: Good example of a presentational component with no injected dependencies

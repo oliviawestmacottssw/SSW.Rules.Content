@@ -41,6 +41,7 @@ While these starters often include advanced functionality, we prefer to implemen
 
 To learn how to build  **enterprise Angular applications** check out [FireBootCamp](http://firebootcamp.com/angular2)
 
+
 ::: good  
 ![Figure: Good Example: The Angular CLI will create you a new Angular project with a single command, and that project will be set up with production build, unit testing, and end-to-end testing all configured. If you have very specific build requirements, the CLI also supports custom web pack builds.](create-angular-good.png)  
 :::

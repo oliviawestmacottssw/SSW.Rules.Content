@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - appointments-do-you-show-all-the-necessary-information-in-the-subject
+- appointments---do-you-make-sure-your-appointment-has-a-good-subject
 
 ---
 
@@ -22,9 +23,11 @@ For example, if the appointment is a meeting request you should include the name
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - appointment subject with very little information](ApptSubjectBad\_small.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Appointment subject with all of the relevant information shown](ApptSubjectGood\_small.jpg)  

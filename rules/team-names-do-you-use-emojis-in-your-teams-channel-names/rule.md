@@ -14,6 +14,7 @@ related:
 - do-you-write-nice-commit-messages
 redirects:
 - teams-emojis
+- team-names---do-you-use-emojis-in-your-teams-channel-names-
 
 ---
 
@@ -23,9 +24,11 @@ It's usually easier for users to remember where given information is when it is 
 
 An easy and fun way to alleviate this issue and boost user adoption to Microsoft Teams is to use Emojis in your channel names (using Windows Key + .)!
 
+
 ::: bad  
 ![Bad Example: Channel names without emojis](Teams\_Emojis\_Bad.png)  
 :::
+
 
 ::: good  
 ![Good Example: Channel names have emojis](Teams\_Emojis\_Good.png)  

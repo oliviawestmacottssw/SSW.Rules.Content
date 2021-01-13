@@ -25,6 +25,7 @@ It allows you to choose which accounts to post to, can post to multiple social m
 
 You can either visit the [Buffer web app](https://buffer.com/) in your browser  or install a tool that sits next to the address bar of your browser.
 
+
 ::: ok  
 ![Figure: to use the Buffer app from your browser, simply click the symbol](buffer\_tool.jpg)  
 :::

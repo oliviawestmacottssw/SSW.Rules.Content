@@ -21,6 +21,7 @@ Users expect underlined text to be a hyperlink. Never underline text that isn't 
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Never underline the text when it isn't a link (even        Scott Guthrie agrees!)](../../assets/Websites\_UnderlineNoHyperlink.gif)  
 :::

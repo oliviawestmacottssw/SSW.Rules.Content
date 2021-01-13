@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - make-sure-you-have-valid-date-data-in-your-database
+- data---dates---do-you-make-sure-you-have-valid-date-data-in-your-database
 
 ---
 
@@ -47,4 +48,6 @@ There are two methods to avoid this:
 
 
 
-> CONSTRAINT chk\_INVOICE\_DATE CHECK (INVOICE\_DATE &gt; TO\_DATE('2015-01-01', 'yyyy-mm-dd'))
+> ```
+> CONSTRAINT chk_INVOICE_DATE CHECK (INVOICE_DATE > TO_DATE('2015-01-01', 'yyyy-mm-dd'))
+> ```

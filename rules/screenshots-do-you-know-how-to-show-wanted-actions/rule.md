@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- screenshots---do-you-know-how-to-show-wanted-actions
 
 ---
 
@@ -22,9 +23,11 @@ When using [Snagit](http://www.techsmith.com/snagit.html) to show actions on a s
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example – There is no visual difference between different actions](snagit-actions-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example – This screenshot tells that the user should be on the "Message" tab, click on "Attach File" and edit the subject to be "Button types"](snagit-actions-good.jpg)  

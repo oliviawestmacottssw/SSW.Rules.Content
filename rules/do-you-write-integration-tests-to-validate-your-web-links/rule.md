@@ -18,23 +18,34 @@ If you store your URL references in the application settings, you can create int
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: URL for link stored in application settings](testURLSettings.gif)  
 :::
 
 **Sample Code: How to test the URL**
 
+
+
+```
 [Test]
  public void urlRulesToBetterInterfaces()
  {
  HttpStatusCode result = WebAccessTester.GetWebPageStatusCode(Settings.Default.urlRulesToBetterInterfaces);
  Assert.IsTrue(result == HttpStatusCode.OK, result.ToString());
  }
+```
+
+
 
 **Sample Code: Method used to verify the Page**
 
+
+
+```
 public class WebAccessTester
- {     
+ { 
+   
  public static HttpStatusCode GetWebPageStatusCode(string url)
  {
  HttpWebRequest req = ((HttpWebRequest)(WebRequest.Create(url)));
@@ -71,3 +82,4 @@ public class WebAccessTester
  return resp.StatusCode;
  }
  }
+```

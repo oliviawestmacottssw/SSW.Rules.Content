@@ -18,6 +18,9 @@ Try to avoid Double-Negative Conditionals in if-statements. Double negative cond
 
 <!--endintro-->
 
+
+
+```
 if (!IsValid)
 {
         // handle no error
@@ -26,6 +29,9 @@ else
 {
        // handle error
 }
+```
+
+
 
 
 
@@ -34,6 +40,9 @@ Figure: Bad example
 
 :::
 
+
+
+```
 if (IsValid)
 {
        // handle error
@@ -42,6 +51,9 @@ else
 {
        // handle no error
 }
+```
+
+
 
 
 
@@ -50,10 +62,16 @@ Figure: Good example
 
 :::
 
+
+
+```
 if (!IsValid)
 {
        // handle error
 }
+```
+
+
 
 ::: good
 Figure: Another good example

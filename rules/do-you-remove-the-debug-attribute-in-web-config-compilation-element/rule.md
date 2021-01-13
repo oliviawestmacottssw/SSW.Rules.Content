@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - remove-the-debug-attribute-in-webconfig-compilation-element
+- do-you-remove-the-debug-attribute-in-webconfig-compilation-element
 
 ---
 

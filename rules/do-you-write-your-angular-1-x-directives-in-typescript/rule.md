@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - do-you-wrote-your-angular-1-x-directives-in-typescript
+- do-you-write-your-angular-1x-directives-in-typescript
 
 ---
 

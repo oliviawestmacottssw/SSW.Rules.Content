@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - create-new-databases-in-the-default-data-directory
+- dbas---do-you-create-new-databases-in-the-default-data-directory
 
 ---
 
@@ -24,8 +25,11 @@ The moral of the story is - keep it simple.
 
 When using a create script to create a new database, let SQL Server determine the filename and path from its default settings. This will help make the script simpler, more flexible, and ready to use with utilities such as MS OSQL and SSW SQL Deploy.
 
-DECLARE @device\_directory NVARCHAR(520)
-SELECT @device\_directory = SUBSTRING(phyname, 1,
+
+
+```
+DECLARE @device_directory NVARCHAR(520)
+SELECT @device_directory = SUBSTRING(phyname, 1,
  CHARINDEX(N'master.mdf', LOWER(phyname)) - 1)
 FROM master.dbo.sysdevices
 WHERE (name = N'master')
@@ -34,26 +38,34 @@ CREATE DATABASE [DatabaseName]
  ON PRIMARY 
  (
  NAME = N''[DatabaseName]'', 
- FILENAME = N''' + @device\_directory + N'[DatabaseName].mdf''
+ FILENAME = N''' + @device_directory + N'[DatabaseName].mdf''
  )
  LOG ON 
  (
- NAME = N''[DatabaseName]\_log'', 
- FILENAME = N''' + @device\_directory + N'[DatabaseName].ldf''
- ) 
-			COLLATE SQL\_Latin1\_General\_CP1\_CI\_AS
+ NAME = N''[DatabaseName]_log'', 
+ FILENAME = N''' + @device_directory + N'[DatabaseName].ldf''
+ ) 		COLLATE SQL_Latin1_General_CP1_CI_AS
  ' 
  )
 Go
+```
+
+
 
 ::: bad
 Figure: Bad Example - FILENAME Parameter used to specify database path
 
 :::
 
+
+
+```
 CREATE DATABASE [DatabaseName]
-COLLATE SQL\_Latin1\_General\_CP1\_CI\_AS
+COLLATE SQL_Latin1_General_CP1_CI_AS
 Go
+```
+
+
 
 ::: good
 Figure: Good Example - Generic CREATE DATABASE used

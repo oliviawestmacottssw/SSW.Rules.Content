@@ -25,6 +25,7 @@ Improper spelling, grammar, and punctuation gives a bad impression of your compa
 
 When on a web page, [install Grammarly Addon for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) so you can automatically check web content. For example, while editing in a CMS.
 
+
 ::: ok  
 ![Figure: A typo caught by Grammarly plugin](grammarly-plugin.png)  
 :::
@@ -34,6 +35,7 @@ When on a web page, [install Grammarly Addon for Chrome](https://chrome.google.c
 
 When on Word, press  **F7** (or on the ribbon go to  **Review &gt; Spelling & Grammar** ) to check your .docx text.
 
+
 ::: ok  
 ![Figure: Click on "Spelling & Grammar" button to check your web content](Microsoft-Word-has-a-spelling-and-grammar-checker.jpg)  
 :::
@@ -42,11 +44,13 @@ When on Word, press  **F7** (or on the ribbon go to  **Review &gt; Spelling & Gr
 
 When on PowerPoint , press  **F7** (or on the ribbon go to  **Review | Spelling & Grammar** ) to check your .pptx text.
 
+
 ::: ok  
 ![Figure: Click on "Spelling" button to check your web content](ppt-review-f7.png)  
 :::
 
 You should also keep "Check grammar with spelling" checked in your PowerPoint  **Options | Proofing** :
+
 
 ::: ok  
 ![Figure: Make sure "Check grammar with spelling" is enabled](ppt-check-spelling.png)  
@@ -56,6 +60,7 @@ You should also keep "Check grammar with spelling" checked in your PowerPoint  *
 
 
 Any other text can be checked manually. Go to [Grammarly](https://app.grammarly.com/), create a New Document and Paste your content to check your text.
+
 
 ::: ok  
 ![Figure: A typo caught by Grammarly](grammarly.png)  

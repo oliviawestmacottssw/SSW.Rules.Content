@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - create-a-consistent-primary-key-column-on-your-tables
+- schema---do-you-create-a-consistent-primary-key-column-on-your-tables
 
 ---
 
@@ -18,14 +19,26 @@ Make sure you created a consistent primary key column named  **Id** on your tabl
 
 <!--endintro-->
 
-Employee.ID, Employee.EmployeeId, Employee.EmployeeID, Employee.Employee\_Code, Employee.Employee
+
+
+```
+Employee.ID, Employee.EmployeeId, Employee.EmployeeID, Employee.Employee_Code, Employee.Employee
+```
+
+
 
 ::: bad
 Figure: Bad Example
 
 :::
 
+
+
+```
 Employee.Id
+```
+
+
 
 ::: good
 Figure: Good Example

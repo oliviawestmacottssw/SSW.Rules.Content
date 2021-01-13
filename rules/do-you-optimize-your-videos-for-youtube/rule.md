@@ -35,6 +35,7 @@ It is not very difficult, but you should still follow some rules:
 
 
 
+
 ::: ok  
 ![](description\_bad.png)  
 :::
@@ -42,6 +43,7 @@ It is not very difficult, but you should still follow some rules:
 ::: bad
 Bad example: Short descriptions are not SEO-optimized.  
 :::
+
 
 
 ::: ok  

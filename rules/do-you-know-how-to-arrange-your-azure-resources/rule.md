@@ -24,6 +24,7 @@ There is no cost saving to group databases into on single resource group. It is 
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - SSW.SQL has all the Databases for different apps in one place](arrange-azure-resources-bad.jpg)  
 :::

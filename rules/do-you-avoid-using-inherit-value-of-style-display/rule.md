@@ -9,6 +9,7 @@ authors: []
 related: []
 redirects:
 - do-you-avoid-using-＂inherit＂-value-of-style-display
+- do-you-avoid-using-inherit-value-of-styledisplay
 
 ---
 

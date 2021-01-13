@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-you-know-that-caching-is-disabled-when-debug-＂true＂
+- do-you-know-that-caching-is-disabled-when-debugtrue
 
 ---
 

@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - efficiency-do-you-use-two-monitors
+- setup---do-you-use-two-monitors
 
 ---
 
@@ -23,6 +24,7 @@ Studies have shown that you can get up to a 30% increase in productivity by usin
 Providing users with the ability to access more information and images simultaneously,                     multiple monitor configurations allow for more efficient multitasking between applications.
 
 For example, if you were a developer; you could have your references in one monitor                     and your Visual Studio in another, and directly compare the two without compromising                     on space or layout.
+
 
 ::: good  
 ![Figure: Two monitors are better than one](TwoMonitorsBetterThanOne.JPG)  

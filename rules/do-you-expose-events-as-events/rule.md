@@ -18,16 +18,28 @@ You should expose events as events.
 
 <!--endintro-->
 
+
+
+```
 public Action
-&lt; connectioninformation &gt; ConnectionProblem;
+< connectioninformation > ConnectionProblem;
+```
+
+
 
 ::: bad
 Bad code
 
 :::
 
+
+
+```
 public event Action
-&lt; connectioninformation &gt; ConnectionProblem;
+< connectioninformation > ConnectionProblem;
+```
+
+
 
 ::: good
 Good code

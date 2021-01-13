@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - speaking-do-you-avoid-swearing-at-work
+- communication---do-you-avoid-swearing-at-work
 
 ---
 

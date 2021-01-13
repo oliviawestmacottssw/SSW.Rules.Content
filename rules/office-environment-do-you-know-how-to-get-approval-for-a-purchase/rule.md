@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-you-know-how-to-get-approval-for-a-purchase
+- office-environment---do-you-know-how-to-get-approval-for-a-purchase
 
 ---
 
@@ -33,9 +34,11 @@ Let's have a look at the best way to get authorization:
     * If it is for a client, include if it is to be on-charged (E.g. please invoice - add 20%)
 
 
+
 ::: bad  
 ![Figure: Bad Example - this expense will not be reimbursed](purchase-please-bad-example.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - this expense will be reimbursed, if David gets a reply from Adam](purchase-please-good-example.jpg)  

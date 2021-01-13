@@ -34,6 +34,7 @@ Below are the best practices you should know:
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Always check your Ad strength](ad-strength.png)  
 :::

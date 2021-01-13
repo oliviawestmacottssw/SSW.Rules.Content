@@ -46,13 +46,16 @@ Don't surprise users! Use the following icons:
 | YouTube | ![](youtube-icon_png.jpg)This is a link to a YouTube Video |
 
 
+
 ::: ok  
 ![Figure: FYI there are the same images used by Google at GoogleDesktopSideBar.htm](../../assets/IconPdf.png)  
 :::
 
+
 ::: bad  
 ![Figure: Bad Example - The user would expect all these hyperlinks to work the same way](../../assets/IconPdf.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - The pdf icon (before a hyperlink) indicates it is not a web page](../../assets/IconPdf.png)  
@@ -62,11 +65,17 @@ Don't surprise users! Use the following icons:
 
 Add the icon image to your server. Then use $= to make the match the extension of the &gt;a&lt; tag on your CSS. The padding is to give it some space before the text (where the icon will be).
 
+
+
+```
 a[href$='.pdf'] 
 { 
-background: transparent url(/images/icon\_pdf.gif) center left no-repeat; 
+background: transparent url(/images/icon_pdf.gif) center left no-repeat; 
 padding-left: 20 px; 
 }
+```
+
+
 
 
 

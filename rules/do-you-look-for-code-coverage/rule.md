@@ -30,6 +30,7 @@ Code Coverage shows how much of your code is covered by tests and can be a usefu
 * You should run your tests regularly (see [Do you follow a Test Driven Process](/before-starting-do-you-follow-a-test-driven-process)). Ideally, they'll be part of your build (see [Do you know the minimum builds to create on any branch](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterVersionControlwithTFS%28AKASourceControl%29.aspx#MinimumBuilds))
 
 
+
 ::: ok  
 ![Figure: Code Coverage metrics in Visual Studio. This solution has a very high code coverage percentage (around 80% on average)](CodeCoverage2010.png)  
 :::

@@ -11,7 +11,8 @@ authors:
 - title: Ryan Tee
   url: https://ssw.com.au/people/ryan-tee
 related: []
-redirects: []
+redirects:
+- do-you-avoid-microsoftvisualbasiccompatibilitydll-for-visual-basicnet-projects
 
 ---
 

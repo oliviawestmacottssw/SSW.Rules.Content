@@ -19,6 +19,7 @@ One huge advantage of a Canvas App has over a Model-Driven App is the number of 
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Microsoft connector gallery is growing every day](connector-gallery.png)  
 :::

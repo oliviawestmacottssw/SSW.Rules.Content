@@ -26,6 +26,7 @@ Specifically, you now have the option of querying the locally configured DNS ser
 * From the same screen, you can ping the resulting hostname or test the port availability on any of the Lync DNS record matches
 
 
+
 ::: ok  
 ![Figure: Lync Auto-Discovery Mobility DNS record](lync-auto-discovery.jpg)  
 :::
@@ -37,6 +38,7 @@ The Monitoring Server collects data from the call detail recording (CDR) and Qua
 ### Internet Network connectivity tests
 
 Tools such as VisualRoute 2010 will assist in highlight problems related latency and packet loss.
+
 
 ::: ok  
 ![Figure: VisualRoute 2010 tool showing a test to a Google DNS server](visualroute-tool.jpg)  

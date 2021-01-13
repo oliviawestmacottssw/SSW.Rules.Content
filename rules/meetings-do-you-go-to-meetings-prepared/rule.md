@@ -7,7 +7,8 @@ uri: meetings-do-you-go-to-meetings-prepared
 created: 2010-07-16T06:25:57.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- meetings---do-you-go-to-meetings-prepared
 
 ---
 

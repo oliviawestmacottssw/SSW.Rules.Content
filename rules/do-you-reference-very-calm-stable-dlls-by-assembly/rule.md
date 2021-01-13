@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-reference-＂very-calm-stable＂-dlls-by-assembly
+- do-you-reference-very-calmstable-dlls-by-assembly
 
 ---
 

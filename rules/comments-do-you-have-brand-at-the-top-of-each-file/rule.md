@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - have-brand-at-the-top-of-each-file
+- comments---do-you-have-brand-at-the-top-of-each-file
 
 ---
 
@@ -25,7 +26,10 @@ Bad header comments
 
 :::
 
-///&lt;summary&gt;
+
+
+```
+///<summary>
 ///'----------------------------------------------
 /// Copyright 2017 Superior Software for Windows 
 /// www.ssw.com.au All Rights Reserved.
@@ -33,8 +37,11 @@ Bad header comments
 /// Comment: User class to handle user preference and login information
 /// Authors:   DDK,PH
 /// Reviewers: AC,RD
-///&lt;/summary&gt;
+///</summary>
 ///'----------------------------------------------
+```
+
+
 
 
 ::: good
@@ -43,4 +50,8 @@ Good header comments
 :::
 
 
+
+
+```
 /// Copyright 2017 www.ssw.com.au
+```

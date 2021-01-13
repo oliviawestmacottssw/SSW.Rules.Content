@@ -29,6 +29,7 @@ To prevent issues from arising and having to re-deploy continuously which would 
 1. Have scripts that can get the pathname of the .exe that the user has installed the application on
 
 Wise has a Dialog that prompts the user for the installation directory: 
+
 ::: good  
 ![Figure: Wise Prompts the user for the installation directory and sets the path to a property in wise called "INSTALLDIR"](INSTALLDIR.jpg)  
 :::

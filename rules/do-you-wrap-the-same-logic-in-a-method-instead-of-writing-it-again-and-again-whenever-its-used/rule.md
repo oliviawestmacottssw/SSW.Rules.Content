@@ -20,6 +20,9 @@ This will reduce redundancy, decrease maintenance effort, improve efficiency and
 
 <!--endintro-->
 
+
+
+```
 public class WarningEmail
 {
 //...
@@ -55,6 +58,9 @@ sSmtpClient.Send(sMessage);
 //...
 }
 }
+```
+
+
 
 ::: bad
 Bad Example: Write the same logic repeatedly 
@@ -63,6 +69,9 @@ Bad Example: Write the same logic repeatedly
 
 
 
+
+
+```
 public class WarningEmail
 {
 //...
@@ -97,6 +106,9 @@ sSmtpClient.Credentials = new NetworkCredential(pUser, pPwd, pDomain);
 sSmtpClient.Send(sMessage);
 } 
 }
+```
+
+
 
 ::: good
 Good Example: Put the same logic in a method and make it reusable 

@@ -22,7 +22,10 @@ Most SharePoint site templates contain a calendar list, this will bring lots of 
 
 Use the below PowerShell script to clean them:
 
-$site = Get-SPSite("http://&lt;site collection URL&gt;/"); # Specify url here
+
+
+```
+$site = Get-SPSite("http://<site collection URL>/"); # Specify url here
 foreach ($web in $site.AllWebs) {    
     $lists = $web.Lists
     for ($i=($lists.Count-1);$i -gt 0; $i--) {  
@@ -38,6 +41,9 @@ foreach ($web in $site.AllWebs) {
         }
     }
 }
+```
+
+
 
 This script will put the calendars which do not have any events into  **Site Settings** |  **Recycle Bin** :
 ![](EmptyCalendarsInRecyckeBin.png) **Figure: Empty Calendars in Recycle Bin folder**

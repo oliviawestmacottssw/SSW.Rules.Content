@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- management---do-you-always-inform-your-client-how-long-a-task-took
 
 ---
 

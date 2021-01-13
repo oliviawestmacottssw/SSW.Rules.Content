@@ -31,8 +31,11 @@ The "Assert" step verifies our expectations by stating what we were expecting fr
 
 Developers call this the "AAA" syntax.
 
+
+
+```
 [TestMethod]
-public void TestRegisterPost\_ValidUser\_ReturnsRedirect()
+public void TestRegisterPost_ValidUser_ReturnsRedirect()
 {
    // Arrange
    AccountController controller = GetAccountController();
@@ -50,6 +53,9 @@ public void TestRegisterPost\_ValidUser\_ReturnsRedirect()
    Assert.AreEqual("Home", redirectResult.RouteValues["controller"]);
    Assert.AreEqual("Index", redirectResult.RouteValues["action"]);
 }
+```
+
+
 
 ::: good
 Figure: A good structure for a unit test

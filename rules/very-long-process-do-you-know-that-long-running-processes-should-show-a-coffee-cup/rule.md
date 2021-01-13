@@ -7,7 +7,8 @@ uri: very-long-process-do-you-know-that-long-running-processes-should-show-a-cof
 created: 2012-11-27T03:06:05.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- very-long-process---do-you-know-that-long-running-processes-should-show-a-coffee-cup
 
 ---
 
@@ -15,9 +16,11 @@ If you are unable to show a progress bar, you should still indicate that it may 
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - An unknown length of time. So let them know](../../assets/UnknownLengthTime.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example – The coffee cup tells the user that they will be here a while](../../assets/CoffeeCup.jpg)  

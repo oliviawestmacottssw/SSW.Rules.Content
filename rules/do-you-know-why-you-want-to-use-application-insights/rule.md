@@ -25,9 +25,11 @@ Application Insights will tell you if your application goes down or runs slowly 
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure:  When developing a public website, you wouldn't deploy without Google Analytics to track metrics about user activity.](Google-analytics.png)  
 :::
+
 
 ::: ok  
 ![Figure: For similar reasons, you shouldn't deploy a web application without metric tracking on performance and exceptions](2020-03-24\_15-27-26.jpg)  
@@ -41,9 +43,11 @@ Application Insights will tell you if your application goes down or runs slowly 
     3. Usage
 
 
+
 ::: ok  
 ![Figure: Spikes on an Echidna are dangerous](../../assets/r437355\_2104314.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Spikes on a graph are dangerous](../../assets/sockeye-daily-count.jpg)  

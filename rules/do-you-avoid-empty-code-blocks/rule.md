@@ -25,18 +25,28 @@ If the class implements an inherited interface method, ensure the method throws 
 
 <!--endintro-->
 
+
+
+```
 public class Example
  {
        public double salary()
-       {     
+       { 
+   
        }
  }
+```
+
+
 
 ::: bad
 Figure: Bad Example - Method is empty
 
 :::
 
+
+
+```
 public class Sample
  {
        public double salary()
@@ -44,12 +54,18 @@ public class Sample
                return 2500.00;
         }
  }
+```
+
+
 
 ::: good
 Figure: Good Example - Method implements some code
 
 :::
 
+
+
+```
 public interface IDemo
  {
        void DoSomethingUseful();
@@ -67,11 +83,17 @@ public class Demo : IDemo
       { 
       } 
  }
+```
+
+
 
 ::: bad
 Figure: Bad Example - No Comment within empty code block  
 :::
 
+
+
+```
 public interface IDemo
  {
        void DoSomethingUseful();
@@ -90,6 +112,9 @@ public class Demo : IDemo
               // stub for IDemo interface
        } 
  }
+```
+
+
 
 ::: good
 Figure: Good Example - Added comment within Empty Code block method of interface class  

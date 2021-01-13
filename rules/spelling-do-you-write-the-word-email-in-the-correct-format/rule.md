@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-you-write-the-word-email-in-the-correct-format
+- spelling---do-you-write-the-word-email-in-the-correct-format
 
 ---
 
@@ -51,13 +52,25 @@ Upper Case with capital M:
 
 
 
-&lt;input class="form-control" data-val="true" data-val-required="The EMail field is required." id="EMail" name="EMail" placeholder="EMail" type="email" value="" data-cip-id="EMail" autocomplete="off"&gt;
+
+
+```
+<input class="form-control" data-val="true" data-val-required="The EMail field is required." id="EMail" name="EMail" placeholder="EMail" type="email" value="" data-cip-id="EMail" autocomplete="off">
+```
+
+
 
 ::: bad
 Bad example : 'EMail' used as a placeholder and in the validation message  
 :::
 
-&lt;input class="form-control" data-val="true" data-val-required="The Email field is required." id="Email" name="Email" placeholder="Email" type="email" value="" data-cip-id="Email" autocomplete="off"&gt;
+
+
+```
+<input class="form-control" data-val="true" data-val-required="The Email field is required." id="Email" name="Email" placeholder="Email" type="email" value="" data-cip-id="Email" autocomplete="off">
+```
+
+
 
 ::: good
 Good example: Use 'Email' instead 

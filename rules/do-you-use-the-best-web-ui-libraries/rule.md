@@ -23,6 +23,7 @@ Don't waste time evaluating which Web UI libraries to use. Most of the commonly 
 
 It's the most popular available framework today, which means more people involved in the project, more tutorials and articles from the community, more real-world examples/websites, more third-party extensions, and better integration with other web development products
 
+
 ::: ok  
 ![Figure: Leader among frameworks today, Bootstrap toolkit is recommended to build successful websites](bootstrap.png)  
 :::

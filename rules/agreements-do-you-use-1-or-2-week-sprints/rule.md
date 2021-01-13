@@ -9,7 +9,8 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects: []
+redirects:
+- agreements---do-you-use-1-or-2-week-sprints
 
 ---
 

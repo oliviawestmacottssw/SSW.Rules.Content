@@ -29,12 +29,14 @@ Do you configure redirection from HTTP to https for Outlook Web App (OWA)? To si
 7. Under  **Redirect Behavior** , select the  **Only redirect requests to content in this directory (not subdirectories)** check box.
 8. In the  **Status code** list, click  **Found (302)** .
 9. In the Actions pane, click  **Apply** . 
+
 ::: ok  
 ![](OWARedirect.jpg)  
 :::
 10. Click  **Default Web Site** .
 11. In the Default Web Site Home pane, double-click  **SSL Settings** .
 12. In  **SSL Settings** , clear  **Require SSL** . 
+
 ::: ok  
 ![](OWARedirect2.jpg)  
 :::
@@ -43,8 +45,17 @@ Do you configure redirection from HTTP to https for Outlook Web App (OWA)? To si
 ### Step 2: Remove redirection from virtual directories
 
 1. Open a Command Prompt window.
-2. Navigate to:    &lt;Window directory&gt;\System32\Inetsrv.
-3. Run the following commands:    appcmd set config "Default Web Site/autodiscover" /section:httpredirect /enabled:false -commit:apphost 
+2. Navigate to:
+
+
+```
+<Window directory>\System32\Inetsrv.
+```
+3. Run the following commands:
+
+
+```
+appcmd set config "Default Web Site/autodiscover" /section:httpredirect /enabled:false -commit:apphost 
 appcmd set config "Default Web Site/ecp" /section:httpredirect /enabled:false -commit:apphost
 appcmd set config "Default Web Site/ews" /section:httpredirect /enabled:false -commit:apphost
 appcmd set config "Default Web Site/owa" /section:httpredirect /enabled:false -commit:apphost
@@ -53,7 +64,13 @@ appcmd set config "Default Web Site/powershell" /section:httpredirect /enabled:f
 appcmd set config "Default Web Site/rpc" /section:httpredirect /enabled:false -commit:apphost
 appcmd set config "Default Web Site/rpcwithcert" /section:httpredirect /enabled:false -commit:apphost
 appcmd set config "Default Web Site/Microsoft-Server ActiveSync" /section:httpredirect /enabled:false -commit:apphost
-4. Finish by running the command:    `iisreset/noforce`.
+```
+4. Finish by running the command:
+
+
+```
+iisreset/noforce.
+```
 
 
 ### Step 3: Test that HTTP to HTTPS redirect is working
@@ -62,9 +79,11 @@ appcmd set config "Default Web Site/Microsoft-Server ActiveSync" /section:httpre
 2. DONE - You are then redirected to  **https://mail.domain.com/owa**
 
 
+
 ::: bad  
 ![Figure: Bad Example, no redirect in place for OWA](iisnoredirect.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example, redirect from HTTP to https for OWA](iisredirect.jpg)  

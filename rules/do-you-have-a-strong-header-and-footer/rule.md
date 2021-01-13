@@ -18,6 +18,7 @@ A strong header and footer will make the client sure that document is from your 
 
 <!--endintro-->
 
+
 ::: good  
 ![Good Example - The header and footer are consistent, using the company colours and all the necessary information](proposal-header-and-footer.jpg)  
 :::

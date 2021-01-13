@@ -17,9 +17,11 @@ redirects: []
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: When trying to undo a change you will sometimes get errors. The answer is to exit Visual Studio and use the command line](git-reset-1.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: use ‘git reset --hard HEAD’ to throw away all your uncommitted changes](git-reset-2.jpg)  

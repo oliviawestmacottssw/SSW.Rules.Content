@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-know-that-every-comment-gets-a-tweet
+- twitter---do-you-know-that-every-comment-gets-a-tweet
 
 ---
 

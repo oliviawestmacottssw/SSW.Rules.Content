@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/danijel-malik
 related: []
 redirects:
+- do-you-know-you-should-do-a-retrospective-after-an-activity-ends-aka-feedback
 - do-you-know-you-should-do-a-retrospective-after-an-activity-ends-(a-k-a-feedback)
 
 ---
@@ -23,6 +24,7 @@ Notes you take during meetings, presentations, user group, etc., can serve you w
 <!--endintro-->
 
 It is very important you write this down and discuss it with people in the room or with the presenter (if it was a presentation or user group). This will help everyone to understand what was good and what needs to improve.
+
 
 ::: good  
 ![Figure: Good Example - Danijel took notes during the FireBootCamp Gala Day presentation and sent them to Adam](activity-feedback.jpg)  

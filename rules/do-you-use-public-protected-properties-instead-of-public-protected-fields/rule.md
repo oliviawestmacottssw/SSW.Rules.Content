@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-public-protected-properties-instead-of-public-protected-fields
+- do-you-use-publicprotected-properties-instead-of-publicprotected-fields
 
 ---
 
@@ -28,24 +29,36 @@ The performance overhead for public properties is trivial. In some situations, p
 
 <!--endintro-->
 
+
+
+```
 public int Count;
+```
+
+
 
 ::: bad
 Figure: Bad code. Variable declared as a Field
 
 :::
 
+
+
+```
 public int Count
 {
  get
  {
- return \_count;
+ return _count;
  }
  set
  {
- \_count = value; 
+ _count = value; 
  }
 }
+```
+
+
 
 ::: good
 Figure: Good code. Variable declared as a Property

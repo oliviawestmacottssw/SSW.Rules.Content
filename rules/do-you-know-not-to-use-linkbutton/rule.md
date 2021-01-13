@@ -18,36 +18,41 @@ If we want to refresh and data bind the same page from client side, we can use t
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Right click the link with \_\_doPostBack event](RightClickLink.gif)  
 :::
+
 
 ::: ok  
 ![Figure: New window with incorrect URL](PostBack.gif)  
 :::
 
+
+
+```
 ASPX:
-&lt;asp:Panel runat="server" ID="mUpdatePanel" OnLoad="mUpdatePanel\_Load"&gt;
- &lt;asp:Label runat="server" ID="lblTime" /&gt;
- &lt;br /&gt;
- &lt;asp:GridView ID="gvList" runat="server" AutoGenerateColumns="false"&gt;
- &lt;Columns&gt;
- &lt;asp:BoundField DataField="ID" HeaderText="ID" /&gt;
- &lt;/Columns&gt;
- &lt;Columns&gt;
- &lt;asp:BoundField DataField="Name" HeaderText="Name" /&gt;
- &lt;/Columns&gt;
- &lt;/asp:GridView&gt;
- &lt;br /&gt;
- ID:&lt;asp:TextBox ID="txtID" runat="server"/&gt;
- Name:&lt;asp:TextBox ID="txtName" runat="server"/&gt;
-&lt;/asp:Panel&gt;
+<asp:Panel runat="server" ID="mUpdatePanel" OnLoad="mUpdatePanel_Load">
+ <asp:Label runat="server" ID="lblTime" />
+ <br />
+ <asp:GridView ID="gvList" runat="server" AutoGenerateColumns="false">
+ <Columns>
+ <asp:BoundField DataField="ID" HeaderText="ID" />
+ </Columns>
+ <Columns>
+ <asp:BoundField DataField="Name" HeaderText="Name" />
+ </Columns>
+ </asp:GridView>
+ <br />
+ ID:<asp:TextBox ID="txtID" runat="server"/>
+ Name:<asp:TextBox ID="txtName" runat="server"/>
+</asp:Panel>
 C#:
-protected void mUpdatePanel\_Load(object sender, EventArgs e)
+protected void mUpdatePanel_Load(object sender, EventArgs e)
 {
  lblTime.Text = DateTime.Now.ToLongTimeString();
  ArrayList mList = (ArrayList)ViewState["List"];
- if (txtName.Text.Length &gt; 0)
+ if (txtName.Text.Length > 0)
  {
  Client mClient = new Client();
  mClient.ID = Int32.Parse(txtID.Text);
@@ -58,14 +63,29 @@ protected void mUpdatePanel\_Load(object sender, EventArgs e)
  gvList.DataBind();
  }
 }
+```
+
+
  **Sample Code** 
-&lt;a href="javascript:\_\_doPostBack('mUpdatePanel','');"&gt;Refresh&lt;/a&gt;
+
+
+```
+<a href="javascript:__doPostBack('mUpdatePanel','');">Refresh</a>
+```
+
+
 
 ::: bad
 Bad Code  
 :::
 
-&lt;input type="button" onclick="javascript:\_\_doPostBack('mUpdatePanel','');" value="Refresh" /&gt;
+
+
+```
+<input type="button" onclick="javascript:__doPostBack('mUpdatePanel','');" value="Refresh" />
+```
+
+
 
 ::: good
 Good Code  

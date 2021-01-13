@@ -18,6 +18,7 @@ authors:
   url: https://ssw.com.au/people/edgar-rocha
 related: []
 redirects:
+- spec---do-you-conduct-a-specification-review-ask-for-a-coffee-not-a-marriage
 - spec-do-you-conduct-a-specification-review-(ask-for-a-coffee-not-a-marriage)
 
 ---
@@ -31,6 +32,7 @@ It is paid work conducted after the initial meeting to determine the overall sco
 
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: A ballpark or proposal should start small and not be a big commitment](proposal.jpg)  
@@ -79,6 +81,7 @@ The purpose is to understand the whole project but, if the project is greater th
 Most software consulting experts will be able to provide a small improvement to the current system 'on the fly' during the Spec Review. This may be something as simple as adding an index to a table and thereby increasing the performance of a web page.
 
 ### Use 'Corridor Conversations'
+
 
 ::: ok  
 ![Figure: Use corridor conversations to prevent nasty surprises](ProjectManagement\_Suprise.jpg)  

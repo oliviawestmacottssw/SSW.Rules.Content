@@ -17,9 +17,11 @@ A good technique is to set a CSS style to images. This style will be consistent 
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - The image has no styles](imageWithoutStyles.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - The image has CSS driven margin, padding, borders](imageWithStyles.jpg)  

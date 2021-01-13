@@ -24,13 +24,16 @@ Audiences, in general, will allow you to try pulling up your ads to different gr
 * **Remarketing & Similar Audiences** – Show your ads to people who have visited your website previously before (You can choose the period) or viewed your content somewhere online. This would include remarketing lists.
 
 
+
 ::: bad  
 ![Figure: Bad Example – No audiences were set up yet](audience-1.png)  
 :::
 
+
 ::: good  
 ![Figure: Good Example – Add specific audiences and increase the engagement on your campaigns with your target audience](audience-2.png)  
 :::
+
 
 ::: ok  
 ![Figure: Find your excluded audience so you won't waste any money for useless clicks](audience-3.png)  
@@ -44,13 +47,16 @@ On Sources, you can link Google Analytics, YouTube (if you use this social media
 
 To build your In-Market and Affinity audiences, you can select from some options that Google will give you like below:
 
+
 ::: ok  
 ![Figure: In-Market audiences that might be your right target](audience-4.png)  
 :::
 
+
 ::: ok  
 ![Figure: Affinity audiences suggestions from Google](audience-5.png)  
 :::
+
 
 ::: ok  
 ![](audience-6.png)  

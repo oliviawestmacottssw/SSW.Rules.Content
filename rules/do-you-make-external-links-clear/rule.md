@@ -30,10 +30,19 @@ Figure: Good example - With visual indication
 :::
  is by far the best but try other search engines as well[http://www.google.com](http&#58;//www.ssw.com.au/ssw/Redirect/Web/Google.htm)Search Engines (
 ::: greybox
-3. External link <br>       **external indicators should be inserted by CSS** as following: <br>          a[href\*="//"]:not([href\*="mysite.com"]):after {              
-    content: url(https://www.ssw.com.au/ssw/images/external.gif);              
+3. External link <br>       **external indicators should be inserted by CSS** as following: <br>      
+
+
+```
+a[href*="//"]:not([href*="mysite.com"]):after { 
+            
+    content: url(https://www.ssw.com.au/ssw/images/external.gif); 
+            
     padding-left: 4px;
 }
+```
+
+
 Figure: Good example - Icon is added by CSS via a simple declaration
 
 

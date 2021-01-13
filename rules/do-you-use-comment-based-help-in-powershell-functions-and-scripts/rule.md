@@ -26,15 +26,21 @@ You can use it like this (beginning of the Function body):
 
 <!--endintro-->
 
+
+
+```
 function Get-Function
 {
-&lt;#
-.&lt;help keyword&gt;
-&lt;help content&gt;
-#&gt;
+<#
+.<help keyword>
+<help content>
+#>
 
   # function logic
 }
+```
+
+
 
 ::: good
 Figure: Good Example - Using Comment-Based Help for Functions
@@ -43,11 +49,17 @@ Figure: Good Example - Using Comment-Based Help for Functions
 
 Or like this (before the function keyword):
 
-&lt;#
-.&lt;help keyword&gt;
-&lt;help content&gt;
-#&gt;
+
+
+```
+<#
+.<help keyword>
+<help content>
+#>
 function Get-Function { }
+```
+
+
 
 ::: good
 Figure: Good Example - Using Comment-Based Help for Function  
@@ -55,6 +67,9 @@ Figure: Good Example - Using Comment-Based Help for Function
 
 You can do the same with scripts, with a little difference - you need to place the snippet at the beginning or end of the script file:
 
+
+
+```
 #Accept input parameters
 param(
 [switch]$FullAccess,
@@ -67,13 +82,19 @@ param(
 [string]$Password,
 [switch]$MFA
 )
+```
+
+
 
 ::: bad
 Figure: Bad Example - Script not using any Comment-Based Help snippet
 
 :::
 
-&lt;#
+
+
+```
+<#
 .SYNOPSIS
 Gets THE IP addresses in a file and checks if they are on blacklists across the web.
 
@@ -81,13 +102,13 @@ Gets THE IP addresses in a file and checks if they are on blacklists across the 
 Gets THE IP addresses in a file and checks if they are on blacklists across the web. If they are, add them to the final blacklist file that will be used by the firewall.
 
 .EXAMPLE
-PS C:\&gt; Check-Blacklist -File "FileWithNewIPs" -BaseFile "BaseBlacklistFile" -Logfile "LogfileLocation"
+PS C:\> Check-Blacklist -File "FileWithNewIPs" -BaseFile "BaseBlacklistFile" -Logfile "LogfileLocation"
 Checks the newly-generated blacklist file to see if any IPs are blacklisted, if yes, adds them to the final blacklist file.
 
 .NOTES
 Created by Kiki Biancatti for SSW.
 
-#&gt;
+#>
 Param(
 [Parameter(Position = 0, Mandatory = $true)]
 [string] $File,
@@ -96,6 +117,9 @@ Param(
 [Parameter(Position = 2, Mandatory = $true)]
 [string] $LogFile
 ) ...
+```
+
+
 
 ::: good
 Figure: Good Example - Using Comment-Based Help at the beginning of a script file

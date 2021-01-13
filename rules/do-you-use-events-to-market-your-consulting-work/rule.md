@@ -18,6 +18,7 @@ Events such as training courses, user groups, tech breakfasts and boot camps can
 
 You should make sure you have some upcoming events in each main area that you hope to get work from, preferably that showcase your core competencies well.
 
+
 ::: good  
 ![Figure: Good Example – Upcoming events in the main areas you want to get consulting work](upcoming-events.png)  
 :::

@@ -8,11 +8,13 @@ created: 2012-11-27T02:09:20.0000000Z
 authors: []
 related: []
 redirects:
+- give-context---do-you-include-extra-information-eg-screenshots
 - give-context-do-you-include-extra-information-(e-g-screenshots)
 
 ---
 
 ## 
+
 ::: good  
 ![Figure: Good Example - The screenshot provides more, useful information and gives the user context](../../assets/GoodMoreInfo.png)  
 :::

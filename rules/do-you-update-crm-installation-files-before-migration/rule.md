@@ -18,6 +18,7 @@ When running the Microsoft CRM 4 installation file, you can check for setup upda
 <!--endintro-->
 
 * If the CRM server has an Internet connection, you can click  **Update installation files** during the upgrade. Updates then will be automatically downloaded and applied to your installation files.
+
 ::: ok  
 ![Figure: Update CRM installation files](../../assets/CRM\_UpdateSetup.gif)  
 :::

@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - name-your-sql-server-domain-account-as-sqlservermachinename
+- dbas---do-you-name-your-sql-server-domain-account-as-sqlservermachinename-so-it-is-easily-identified-when-performing-network-operations
 
 ---
 

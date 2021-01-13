@@ -20,10 +20,13 @@ Typically there are User Acceptance Tests that need to be written to measure the
 
 **Sample Code:**
 
-public abstract class FormTestBase&lt;F&gt;
+
+
+```
+public abstract class FormTestBase<F>
  where F : Form, new()
  {
- protected TimeSpan \_ExpectedLoadTime = TimeSpan.FromSeconds(4);
+ protected TimeSpan _ExpectedLoadTime = TimeSpan.FromSeconds(4);
  [Test]
  public void LoadTest()
  {
@@ -34,20 +37,23 @@ public abstract class FormTestBase&lt;F&gt;
  testForm.Close();
  stopwatch.Stop();
  Console.WriteLine("Form [{0}] took {1:#,##0.0} seconds to open", typeof(F), stopwatch.Elapsed.TotalSeconds);
- Assert.IsTrue(stopwatch.Elapsed &lt; \_ExpectedLoadTime, 
+ Assert.IsTrue(stopwatch.Elapsed < _ExpectedLoadTime, 
  string.Format("Loading time ({0:#,##0.0} seconds) exceed the expected time ({1:#,##0.0} seconds).", 
- stopwatch.Elapsed.TotalSeconds, \_ExpectedLoadTime.TotalSeconds));
+ stopwatch.Elapsed.TotalSeconds, _ExpectedLoadTime.TotalSeconds));
  }
  }
  
  [TestFixture]
- public class LoginFormTests : FormTestBase&lt;LoginForm&gt;
+ public class LoginFormTests : FormTestBase<LoginForm>
  {
  }
 
  [TestFixture]
- public class MainFormTests : FormTestBase&lt;MainForm&gt;
+ public class MainFormTests : FormTestBase<MainForm>
  {
  }
+```
+
+
  **Figure: This code tests that the LoginForm and MainForm load in under 4 seconds
 **

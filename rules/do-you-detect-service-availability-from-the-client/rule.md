@@ -53,9 +53,11 @@ SSW has created a simple Service Detection library for exactly this purpose call
 
 This Service Detector works by attempting to download the Favicon.ico file from the website for each service you want to use. These favicon files are small, so if a service is available, the file will download very quickly. If a service is blocked, the connection could take a long time to timeout on its own. In this situation, the service detector uses a 1.5-second timer to attempt the download and will cancel the request after this time so that these connection attempts fail quickly and don't block the entire page.
 
+
 ::: bad  
 ![Figure Bad Example: Attempted requests to Facebook, Google, and Youtube from China took a long time to timeout, adding significant delays to the rendering of this page](BlockedDependencies.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Only 4 errors on F12 in China. Using SSW.ServiceDetector, there were only short, canceled requests raised to blocked services. The site was then able to fall-back gracefully for some services and load YouKu for videos](SSW.ServiceDetector.png)  
@@ -68,11 +70,13 @@ Both these options require service detection to operate properly. Remember that 
 
 **Solution 1: Remove the content**
 
+
 ::: ok  
 ![](youtuberemove.png)  
 :::
 
 **Solution 2: Provide an alternative to the blocked service**
+
 
 ::: ok  
 ![](youku.png)  

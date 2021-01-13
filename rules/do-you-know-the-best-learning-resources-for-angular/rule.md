@@ -20,6 +20,7 @@ redirects:
 
 Here are the best collection of resources for Angular.
 
+
 ::: ok  
 ![Figure: Download the Little Book of Angular](The-Little-Book-of-Angular-v1-8.jpg)  
 :::

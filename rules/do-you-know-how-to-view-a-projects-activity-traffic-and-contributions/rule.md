@@ -19,6 +19,7 @@ When you have a public project in GitHub you have some graphs available that giv
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Under your project name, click Insights](view-project-1.png)  
 :::
@@ -30,6 +31,7 @@ Some project graphs available:
 ### Pulse Graph
 
 
+
 ::: ok  
 ![Figure: Pulse graph shows a summary of the project activity](view-project-2.png)  
 :::
@@ -39,6 +41,7 @@ Read more about  **Pulse Graph** :     https://help.github.com/en/github/visuali
 ### Contributors Graph
 
 
+
 ::: ok  
 ![Figure: Contributors graphs show the top 100 contributors to the project](view-project-3.png)  
 :::
@@ -46,6 +49,7 @@ Read more about  **Pulse Graph** :     https://help.github.com/en/github/visuali
 Read more about  **Contributors Graph** :     https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-projects-contributors
 
 ### Traffic Graph
+
 
 
 ::: ok  

@@ -20,6 +20,7 @@ Websites should have an uptime report to provide real-time and historical perfor
 
 Plus, with history information, you can get exact downtime of your website or services in the past.
 
+
 ::: good  
 ![Figure: Google's uptime reports - with history information.        See it now](google-uptime-report.jpg)  
 :::

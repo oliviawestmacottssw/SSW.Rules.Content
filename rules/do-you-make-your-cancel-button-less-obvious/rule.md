@@ -18,9 +18,11 @@ redirects: []
 To avoid users accidentally cancelling an operation when they thought they where clicking the save button you should always make your cancel button less obvious.  
 <!--endintro-->
 
+
 ::: bad  
 ![Bad example: Cancel button looks like a save button](bad-cancel-button-example.jpg)  
 :::
+
 
 ::: good  
 ![Good example: Cancel button is less obvious](good-example-cancel-button.jpg)  

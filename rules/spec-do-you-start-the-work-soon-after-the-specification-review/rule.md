@@ -11,7 +11,8 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects: []
+redirects:
+- spec---do-you-start-the-work-soon-after-the-specification-review
 
 ---
 

@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-know-how-to-schedule-presenters-for-webinars
+- webinar---do-you-know-the-planning-that-should-be-done-for-a-webinar
 
 ---
 

@@ -37,13 +37,16 @@ Using this strategy,  **master** is always production-ready and deployable.
 
 
 
+
 ::: bad  
 ![Figure: Bad example - Committing to master](commit-master-bad.jpg)  
 :::
 
+
 ::: good  
 ![Figure: Good example - Committing to a new branch](commit-branch-good.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Great diagram from        GitHub](github-flow.jpg)  
@@ -65,9 +68,11 @@ Since master is always being deployed, it must always be in a deployable state.
 
 When starting a PBI from the task board, create a branch from      **master** with a descriptive name for that feature.
 
+
 ::: bad  
 ![Figure: Bad example - Branch name is not descriptive](BadBranchName.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Branch name describes the intent of the change](GoodBranchName.png)  
@@ -85,9 +90,11 @@ The benefit of creating feature branches is to reduce the number of conflicts an
 
 While working, commit frequently to this branch with nice, descriptive messages. For example, "Added a field to hold the product category to our timesheet read model" and "added a column to the timesheet summary UI for the product category".
 
+
 ::: bad  
 ![Figure: Bad Example - Commit message does not describe what was changed](BadCommitMessage.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Commit message describes exactly what was changed.](GoodCommitMessage.png)  
@@ -118,6 +125,7 @@ Some prefer to move this step to after the merge, especially when using a releas
 
 
 Once everyone is happy and everything is tested, complete the pull request, which will merge back to      **master** . Ensure you are not using the "Fast Forward" merge option (git), or details about the branch will be lost - it will appear as though all work was done in      **master** . Being able to see the feature branches in the git log is very useful.
+
 
 ::: good  
 ![Figure: Good Example - Each change is well described, small and in its own feature branch.](GoodGitHistory.png)  

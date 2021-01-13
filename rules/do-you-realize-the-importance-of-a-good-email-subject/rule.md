@@ -19,6 +19,7 @@ Just as we should not 'judge a book by its cover' - we will not judge an email b
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good Example - I'm definitely going to read this email](Outlook\_ChooseAnInterestingSubject.gif)  
 :::

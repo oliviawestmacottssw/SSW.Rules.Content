@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - use-ngrx-on-complex-applications
+- practices---do-you-know-to-use-ngrx-on-complex-applications
 
 ---
 
@@ -28,6 +29,7 @@ NgRx is the redux pattern implemented for Angular.        [View on GitHub](https
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: NgRx supercharges the redux pattern with RxJS](ngrx.png)  
 :::
@@ -41,9 +43,11 @@ Benefits:
 * Code that is easy to test
 
 
+
 ::: ok  
 ![Figure: NgRx supercharges the redux pattern with RxJS](img1.png)  
 :::
+
 
 ::: ok  
 ![Figure: The redux pattern is a way to implement a predictable state container](img2.png)  

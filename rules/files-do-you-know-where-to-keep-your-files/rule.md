@@ -17,10 +17,12 @@ redirects:
 - where-to-keep-your-files
 - do-you-know-where-to-keep-your-files
 - do-you-know-where-to-keep-your-files-tfs-sharepoint
+- files---do-you-know-where-to-keep-your-files
 
 ---
 
 Each client project should have a nice place to keep files. In the old days, things were simple but limited, we simply used Windows Explorer and file shares. Today there are so many places that teams can store documents. E.g Dropbox, OneDrive, SharePoint, Microsoft Teams and Azure DevOps (was TFS).
+
 
 ::: ok  
 ![](Screen Shot 2020-10-29 at 11.02.48 AM.png)  
@@ -32,6 +34,7 @@ Each client project should have a nice place to keep files. In the old days, thi
 
 
 The solution that allows the best collaboration with Developers, Project Managers, and other stakeholders is SharePoint and Microsoft Teams. It is super easy to create, upload, and share documents with others.
+
 
 ::: ok  
 ![Figure: Teams | Team | Files. More at        https://rules.ssw.com.au/track-project-documents](Microsoft-Teams-Files.png)  
@@ -53,17 +56,21 @@ For most projects, you need to quickly store and locate important details and do
 
 
 
+
 ::: bad  
 ![Figure: Bad example – It might be easy to use File Shares, your Local C: or emails – but don’t. They don’t work in a team environment as they aren’t easy for others to access](Dont-keep-files.jpg)  
 :::
+
 
 ::: bad  
 ![Figure: Bad example – SharePoint integrated into Azure DevOps (was VSTS/TFS) is not supported via Visual Studio anymore](keep-files-TFS.jpg)  
 :::
 
+
 ::: bad  
 ![Figure: Bad example – even though this is using SharePoint - this is using a Team Site with a Document Library - it is better to use Microsoft Teams which uses SharePoint under the covers](keep-files-SP.jpg)  
 :::
+
 
 ::: good  
 ![Good example: Use Microsoft Teams and it will automatically create a Site for the Team (and that includes a document library which you can connect to with OneDrive)](keep-files-sp-teams.jpg)  

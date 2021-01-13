@@ -15,7 +15,8 @@ authors:
 - title: Tristan Kurniawan
   url: https://ssw.com.au/people/tristan-kurniawan
 related: []
-redirects: []
+redirects:
+- do-you-know-the-best-projectversion-conventions
 
 ---
 

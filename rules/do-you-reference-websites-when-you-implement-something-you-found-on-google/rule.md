@@ -19,6 +19,9 @@ If you end up using someone else's code, or even idea, that you found online, ma
 
 <!--endintro-->
 
+
+
+```
 private void HideToSystemTray()
 {
        // Hide the windows form in the system tray
@@ -27,6 +30,9 @@ private void HideToSystemTray()
               Hide();
        } 
 }
+```
+
+
 
 ::: bad
 Bad Example: The website where the solution was found IS NOT referenced in the comments  
@@ -34,6 +40,9 @@ Bad Example: The website where the solution was found IS NOT referenced in the 
 
 
 
+
+
+```
 private void HideToSystemTray()
 {
         // Hide the windows form in the system tray
@@ -43,6 +52,9 @@ private void HideToSystemTray()
               Hide();
        } 
 }
+```
+
+
 
 ::: good
 Good Example: The website where the solution was found is referenced in the comments

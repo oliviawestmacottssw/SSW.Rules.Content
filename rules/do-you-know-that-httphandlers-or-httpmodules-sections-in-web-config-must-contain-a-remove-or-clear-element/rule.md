@@ -17,6 +17,7 @@ redirects:
 - do-you-know-that-httphandlers-or-httpmodules-sections-in-web-config-must-contain-a-remove3f3f3f-or-a-clear-element
 - https-rules-ssw-com-au-do-you-know-that-httphandlers-or-httpmodules-sections-in-web-config-must-contain-a-remove-or-a-clear-element
 - you-know-that-httphandlers-or-httpmodules-sections-in-web-config-must-contain-a-remove-or-a-clear-element
+- do-you-know-that-httphandlers-or-httpmodules-sections-in-webconfig-must-contain-a-remove-or-clear-element
 
 ---
 

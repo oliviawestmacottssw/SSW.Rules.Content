@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-not-allow-nulls-in-text-fields
+- data---do-you-not-allow-nulls-in-text-fields
 
 ---
 
@@ -19,16 +20,29 @@ Why? Well, what is wrong with this?
 
 <!--endintro-->
 
-SELECT ContactName FROM Customer WHERE ContactName &lt;&gt; ''
+
+
+```
+SELECT ContactName FROM Customer WHERE ContactName <> ''
+```
+
+
  **Figure: Selecting on empty string
 ** 
 Nothing if your data is perfect, but if you allow Nulls in your database, then statements like this will give you unexpected results. To get it working you would have to add the following to the last line:
 
-WHERE ContactName &lt;&gt; '' OR ContactName Is Null
+
+
+```
+WHERE ContactName <> '' OR ContactName Is Null
+```
+
+
  **Figure: Allowing null strings makes queries more complex
 
 ** 
 What about only allowing empty strings? Well, we choose to block Nulls because it is a lot easier to check off a check box in SQL Server Management Studio than it is to put a constraint on every field that disallows empty string ('').
+
 
 ::: ok  
 ![Figure: Don't allow Nulls](SqlTableWithNullValue.PNG)  
@@ -48,6 +62,7 @@ However, you should always be aware that Nulls and empty strings are totally dif
 
 
 For example, you have Address1 and Address2 in your database, a Null value in Address2 means you don't know what the Address2 is, but an empty string means you know there is no data for Address2. You have to use a checkbox on the UI to explicitly distinguish Null value and empty string:
+
 
 ::: ok  
 ![Figure: A check box is required if you want to allow user to use Null value on the UI](NullValueOnUI.jpg)  

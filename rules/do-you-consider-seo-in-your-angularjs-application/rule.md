@@ -31,6 +31,7 @@ It is not enough to just use hashes in your URLs (e.g., www.example.com/index.ht
 
 If you do not pre-render HTML you may still get good enough SEO as Google Bots are getting better at crawling JavaScript but you can not be certain it will work. You can use [Google Fetch](https://www.google.com/webmasters/tools/googlebot-fetch) to test how your web pages look to a Google bot.
 
+
 ::: ok  
 ![Figure: How to configure your site to pre-render HTML for Google bots.](seo\_for\_angular-diagram.png)  
 :::

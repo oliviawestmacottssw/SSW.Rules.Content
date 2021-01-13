@@ -18,6 +18,9 @@ The code below shows how you could use TestSmtpServer to test your send mail co
 
 <!--endintro-->
 
+
+
+```
 DotNetOpenMailProvider provider = new DotNetOpenMailProvider();
 NameValueCollection configValue = new NameValueCollection();
 configValue["smtpServer"] = "127.0.0.1";
@@ -40,6 +43,9 @@ finally
 Assert.AreEqual(1, receivingServer.Inbox.Count);
 ReceivedEmailMessage received = receivingServer.Inbox[0];
 Assert.AreEqual("phil@example.com", received.ToAddress.Email);
+```
+
+
 
 ::: good
 Figure: This code could help you validate the send mail code

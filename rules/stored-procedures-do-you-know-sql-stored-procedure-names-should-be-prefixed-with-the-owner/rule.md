@@ -12,6 +12,7 @@ related:
 - general---do-you-know-every-object-name-should-be-owned-by-dbo
 redirects:
 - sql-stored-procedure-names-should-be-prefixed-with-the-owner
+- stored-procedures---do-you-know-sql-stored-procedure-names-should-be-prefixed-with-the-owner
 
 ---
 
@@ -28,13 +29,25 @@ There are 2 other benefits to including the schema prefix on all object referenc
 
 Aaron Bertrand agrees with this rule - [My stored procedure "best practices" checklist](https&#58;//sqlblog.org/2008/10/30/my-stored-procedure-best-practices-checklist).
 
-CREATE PROCEDURE procCustomer\_Update @CustomerID INT, ….. BEGIN
+
+
+```
+CREATE PROCEDURE procCustomer_Update @CustomerID INT, ….. BEGIN
+```
+
+
 
 ::: bad
 Figure: Bad example  
 :::
 
-CREATE PROCEDURE dbo.procCustomer\_Update @CustomerID INT, ….. BEGIN
+
+
+```
+CREATE PROCEDURE dbo.procCustomer_Update @CustomerID INT, ….. BEGIN
+```
+
+
 
 ::: good
 Figure: Good example

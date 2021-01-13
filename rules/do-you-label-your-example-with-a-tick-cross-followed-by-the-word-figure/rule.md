@@ -7,7 +7,8 @@ uri: do-you-label-your-example-with-a-tick-cross-followed-by-the-word-figure
 created: 2010-03-19T00:46:30.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- do-you-label-your-example-with-a-tickcross-followed-by-the-word-figure
 
 ---
 

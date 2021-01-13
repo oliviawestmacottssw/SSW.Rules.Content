@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - avoid-spaces-and-empty-lines-at-the-start-of-character-columns
+- data---do-you-avoid-spaces-and-empty-lines-at-the-start-of-character-columns
 
 ---
 
@@ -24,11 +25,17 @@ The best way to avoid this issue is to handle whitespace in the middle-tier befo
 
 Here’s an example of removing whitespace and carriage returns in the middle-tier using Regex:
 
+
+
+```
 static string Trim(string inputText)
 {
   Match m = Regex.Match(inputText, @"[^\s]");
   return m.Success ? inputText.Substring(m.Index) : inputText;
 }
+```
+
+
  **Figure: C# Removing whitespace and carriage returns in middle-tier
 ** 
 The code above:

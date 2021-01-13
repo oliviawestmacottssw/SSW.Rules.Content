@@ -21,6 +21,7 @@ redirects: []
 
 Just like a car, applications need servicing and tuning every now and then to stay in top condition. They might need alterations to deal with new business problems, or just tuning to increase efficiency.
 
+
 ::: ok  
 ![Figure: What happens after the software has been delivered and the development team moves on. The next phase is maintenance](sucessful-project-and-now.jpeg)  
 :::

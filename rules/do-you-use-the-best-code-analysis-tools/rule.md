@@ -27,6 +27,7 @@ The levels of protection are:
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: You wouldn't play cricket without protective gear and you shouldn't code without protective tools](CricketHelmet.jpg)  
 :::
@@ -41,9 +42,11 @@ Get ReSharper to green on each file you touch. You want the files you work on to
 * Alt + Enter: Smart refactoring suggestions
 
 
+
 ::: ok  
 ![Figure: ReSharper will show Orange when it detects that there is code that could be improved](48bc81\_image001.png)  
 :::
+
 
 ::: ok  
 ![Figure: ReSharper will show green when all code is tidy](image002.png)  
@@ -52,6 +55,7 @@ Get ReSharper to green on each file you touch. You want the files you work on to
 ### Level 2
 
 Is to use     [Code Auditor.](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx)
+
 
 ::: ok  
 ![Figure: Code Auditor shows a lot of warnings in this test project](CodeAuditor.png)  
@@ -69,6 +73,7 @@ Is to use     [Link Auditor](http://www.ssw.com.au/ssw/LinkAuditor/).
 
 Is to use StyleCop to check that your code has consistent style and formatting.
 
+
 ::: ok  
 ![Figure: StyleCop shows a lot of warnings in this test project](StyleCopInVS2010.png)  
 :::
@@ -77,9 +82,11 @@ Is to use StyleCop to check that your code has consistent style and formatting.
 
 Run Code Analysis (was FxCop) with the default settings or ReSharper with Code Analysis turned on
 
+
 ::: ok  
 ![Figure: Run Code Analysis in Visual Studio](CodeAnalysisVS11.png)  
 :::
+
 
 ::: ok  
 ![Figure: The Code Analysis results indicate there are 17 items that need fixing](codeanalysis.png)  
@@ -88,6 +95,7 @@ Run Code Analysis (was FxCop) with the default settings or ReSharper with Code A
 ### Level 6
 
 Ratchet up your Code Analysis Rules until you get to 'Microsoft All Rules'
+
 
 ::: ok  
 ![Figure: Start with the Minimum Recommended Rules, and then ratched up.](image003.png)  
@@ -101,6 +109,7 @@ All of these rules allow you to disable rules that you're not concerned about.  
 
 Create a      **GlobalSuppressions.cs** file in your project with the rules that have been turned off and why.
 
+
 ::: ok  
 ![Figure: The suppressions file tells Code Analysis which rules it should disable for specific code blocks](suppressions-file.png)  
 :::
@@ -111,9 +120,11 @@ Create a      **GlobalSuppressions.cs** file in your project with the rules that
 
 The gold standard is to use <br>   [SonarQube](https://www.sonarqube.org/), which gives you the code analysis that the previous levels give you as wells as the ability to analyze technical debt and to see which code changes had the most impact to technical debt
 
+
 ::: ok  
 ![Figure:  SonarQube workflow with Visual Studio and Azure DevOps](2016-06-08\_12-59-38.png)  
 :::
+
 
 ::: ok  
 ![Figure: SonarQube gives you the changes in code analysis results between each check-in](2016-06-08\_12-59-53.png)  

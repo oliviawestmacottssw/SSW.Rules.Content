@@ -9,7 +9,8 @@ authors:
 - title: Titus Maclaren
   url: https://ssw.com.au/people/titus-maclaren
 related: []
-redirects: []
+redirects:
+- production---do-you-know-the-best-way-to-end-a-video
 
 ---
 

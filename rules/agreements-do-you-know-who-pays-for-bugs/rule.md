@@ -7,7 +7,8 @@ uri: agreements-do-you-know-who-pays-for-bugs
 created: 2010-05-20T10:30:33.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- agreements---do-you-know-who-pays-for-bugs
 
 ---
 

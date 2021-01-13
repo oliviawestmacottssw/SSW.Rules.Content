@@ -73,6 +73,7 @@ Figure: Good example – Add your name, URL and your phone number
 
 This is created in HTML and goes well on emails with Word used as the email editor. Include some product advertising, like what's new on your monthly newsletter. It should have the company colors.
 
+
 ::: ok  
 ![Figure: A great long signature for PC](outlook-signature.png)  
 :::
@@ -95,6 +96,7 @@ Use a really short signature (your first name or initials) or no signature at al
 3. Click on "Signatures..." and add in your signatures
 
 
+
 ::: ok  
 ![Figure: How to add a signature in Outlook](../../assets/Outlook2013\_signature.jpg)  
 :::
@@ -106,6 +108,7 @@ Use a really short signature (your first name or initials) or no signature at al
 3. Go Settings | Mail and make following changes: <br>
 
 
+
 ::: ok  
 ![Figure: Add your 'Email Signature' and save](owa-signatures.png)  
 :::
@@ -115,6 +118,7 @@ Use a really short signature (your first name or initials) or no signature at al
 1. Open Outlook in Office 365 ([http://outlook.office.com/mail/inbox](https://outlook.office.com/mail/inbox))
 2. Click the "Settings" cog on the top right corner of the Window
 3. Click on “View all Outlook settings” at the bottom of the Settings panel <br>      
+
 ::: ok  
 ![Figure: Where to find "View all Outlook settings"](outlook-settings-signature.png)  
 :::

@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - naming-convention-for-use-on-database-server-test-and-production
+- general---do-you-know-the-naming-convention-for-use-on-database-server-test-and-production
 
 ---
 
@@ -18,9 +19,11 @@ Generally, every client should have a dev and a test database, so the dev databa
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Database with bad names](BadDBName.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Database with standard names](GoodDBName.gif)  

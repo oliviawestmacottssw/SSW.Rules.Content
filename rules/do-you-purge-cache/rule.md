@@ -29,6 +29,7 @@ WPEngine - After you make a change on any WordPress site:
 * Scroll down, click Purge All Caches
 
 
+
 ::: ok  
 ![Figure: Make sure you "Purge All Caches" after making changes - This will allow others to see the changes immediately](purge-cache-wpengine-wordpress.png)  
 :::

@@ -20,15 +20,18 @@ You can use Visual Studio's Web Compiler extension to create a bundle.css and te
 
 More information and download at [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebCompiler).
 
+
 ::: good  
 ![Figure: Web Compiler can find missing curly braces](web-compiler-find-error.png)  
 :::
  Unfortunately different kinds of errors, like are not caught. 
+
 ::: bad  
 ![Figure: Curly braces in the wrong place, but still compiled successfully](web-compiler-didnt-find-error.png)  
 :::
 
 In addition, Gulp is wrongly successful too:
+
 
 ::: bad  
 ![Figure: Gulp couldn't find the curly braces error](gulp-didnt-find-error.png)  

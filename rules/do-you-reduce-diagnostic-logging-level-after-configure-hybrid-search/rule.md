@@ -18,15 +18,18 @@ By default, SharePoint diagnostic logging level was set to “Information” and
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: default logging levels](sp-diagnostic-logging.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: lots of "Medium" level search logs](sp-diagnostic-logging-2.jpg)  
 :::
 This made us had 60GB logs for only 14 days.
 So the solution is to change to "diagnostic logging level" as below to reduce the log size:
+
 
 ::: ok  
 ![](sp-diagnostic-logging-3.jpg)  

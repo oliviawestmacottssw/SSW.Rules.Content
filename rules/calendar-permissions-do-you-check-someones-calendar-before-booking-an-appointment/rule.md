@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - calendar-do-you-check-someones-calendar-before-booking-an-appointment
+- calendar-permissions---do-you-check-someones-calendar-before-booking-an-appointment
 
 ---
 

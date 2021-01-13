@@ -11,7 +11,8 @@ authors:
 - title: Camilla Rosa Silva
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
-redirects: []
+redirects:
+- spelling---do-you-use-us-english
 
 ---
 
@@ -23,6 +24,7 @@ If you are an Australian or British this rule is controversial, but it is worth 
 
 * Aim for the majority. Most web traffic is from American users and they expect American (most probably will assume anything different is an error)
 * SEO - On the practical side, more web searches are going to be returned for US spelling of words.
+
 
 
 ::: good  

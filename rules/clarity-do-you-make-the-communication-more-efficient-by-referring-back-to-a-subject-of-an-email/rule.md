@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - make-the-communication-more-efficient-by-referring-back-to-a-subject-of-an-email
+- clarity---do-you-make-the-communication-more-efficient-by-referring-back-to-a-subject-of-an-email
 
 ---
 

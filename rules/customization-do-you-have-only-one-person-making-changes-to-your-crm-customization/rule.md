@@ -11,7 +11,8 @@ authors:
 - title: Mehmet Ozdemir
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
-redirects: []
+redirects:
+- customization---do-you-have-only-one-person-making-changes-to-your-crm-customization
 
 ---
 

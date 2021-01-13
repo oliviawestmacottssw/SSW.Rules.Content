@@ -36,12 +36,14 @@ Follow these steps:
 2. Slecect Settings (cog) | Advanced Settings
 3. Select Settings (cog) | Apps For Dynamics 365
 
+
 ::: ok  
 ![Figure: Select Settings (cog) | Apps for Dynamics 365 ﻿menu﻿ item](crm-addins\_1.png)  
 :::
 4. Install the App.
 From this page, you should have the option to Download Dynamics 365 for Outlook and then follow the prompts to finish the configuration.
 You can optionally install the new App (ask you SysAdmin for help if you're unable to get it working)﻿
+
 
 ::: ok  
 ![Figure: Dynamics 365 apps for Outlook﻿.](Dynamics-app-download.png)  

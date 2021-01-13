@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-triggers-for-denormalized-fields
+- schema---do-you-use-triggers-for-denormalized-fields
 
 ---
 
@@ -35,13 +36,22 @@ The second option will save me an expensive JOIN query each time because you ca
 
 1. Code: Alter Orders table
 
+
+
+```
 ALTER TABLE Orders
 ADD SumOfOrderItems money NULL
+```
+
+
 
 
 
 2. Code: Insert trigger
-Alter Trigger tri\_SumOfOrderItems
+
+
+```
+Alter Trigger tri_SumOfOrderItems
 On dbo.OrderItems
 For Insert
 AS
@@ -51,9 +61,15 @@ UPDATE Orders
 SET Orders.SumOfOrderItems = Orders.SumOfOrderItems + 
 (SELECT isnull(SUM(ItemValue),0) FROM inserted WHERE inserted.OrderID = Orders.OrderID)
 WHERE Orders.OrderID = @OrderID
+```
+
+
 
 3. Code: Update trigger
-Alter Trigger tru\_SumOfOrderItems
+
+
+```
+Alter Trigger tru_SumOfOrderItems
 On dbo.OrderItems
 For Update
 AS
@@ -65,20 +81,32 @@ SET Orders.SumOfOrderItems = Orders.SumOfOrderItems
 + (SELECT isnull(SUM(ItemValue),0) FROM inserted WHERE inserted.OrderID = Orders.OrderID)
 - (SELECT isnull(SUM(ItemValue),0) FROM deleted WHERE deleted.OrderID = Orders.OrderID) 
 WHERE Orders.OrderID = @OrderID
+```
+
+
 4. Code: Delete trigger
-Alter Trigger trd\_SumOfOrderItems
+
+
+```
+Alter Trigger trd_SumOfOrderItems
 On dbo.OrderItems
 For Delete
 AS
 DECLARE @OrderID varchar (5)
 SELECT @OrderID = OrderID FROM deleted
 UPDATE Orders
-SET Orders.SumOfOrderItems = Orders.SumOfOrderItems - 
-	(SELECT isnull(SUM(ItemValue),0) FROM deleted WHERE deleted.OrderID = Orders.OrderID)
+SET Orders.SumOfOrderItems = Orders.SumOfOrderItems - (SELECT isnull(SUM(ItemValue),0) FROM deleted WHERE deleted.OrderID = Orders.OrderID)
 WHERE Orders.OrderID = @OrderID
+```
+
+
 5. Code: Maintenance stored procedure
+
+
+```
 --Stored Procedure for Maintenance
-Alter Procedure dt\_Maintenance\_SumOfItemValue
+Alter Procedure dt_Maintenance_SumOfItemValue
 As
 UPDATE Orders
 SET Orders.SumOfOrderItems = Isnull((SELECT SUM (ItemValue) FROM OrderItems WHERE OrderItems.OrderID = Orders.OrderID),0)
+```

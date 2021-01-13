@@ -12,6 +12,7 @@ related:
 - stored-procedures---do-you-know-sql-stored-procedure-names-should-be-prefixed-with-the-owner
 redirects:
 - every-object-name-should-be-owned-by-dbo
+- general---do-you-know-every-object-name-should-be-owned-by-dbo
 
 ---
 
@@ -19,11 +20,14 @@ The reason is that you avoid ownership chain problems. Where Mary owns an object
 
 <!--endintro-->
 
+
+
+```
 CREATE PROCEDURE [Adam Cogan].[Sales by Year]
 
-@Beginning\_Date DateTime,
+@Beginning_Date DateTime,
 
-@Ending\_Date DateTime AS
+@Ending_Date DateTime AS
 
 SELECT Orders.ShippedDate
 
@@ -39,18 +43,24 @@ INNER JOIN "vwOrderSubTotals"
 
 ON Orders.OrderID = "vwOrderSubTotals".OrderID
 
-WHERE Orders.ShippedDate Between @Beginning\_Date And @Ending\_Date
+WHERE Orders.ShippedDate Between @Beginning_Date And @Ending_Date
+```
+
+
 
 ::: bad
 Figure: Bad Example
 
 :::
 
+
+
+```
 CREATE PROCEDURE [dbo].[Sales by Year]
 
- @Beginning\_Date DateTime,
+ @Beginning_Date DateTime,
 
- @Ending\_Date DateTime AS
+ @Ending_Date DateTime AS
 
  SELECT Orders.ShippedDate
 
@@ -66,7 +76,10 @@ CREATE PROCEDURE [dbo].[Sales by Year]
 
  ON Orders.OrderID = "vwOrderSubTotals".OrderID
 
- WHERE Orders.ShippedDate Between @Beginning\_Date And @Ending\_Date
+ WHERE Orders.ShippedDate Between @Beginning_Date And @Ending_Date
+```
+
+
 
 ::: good
 Figure: Good Example

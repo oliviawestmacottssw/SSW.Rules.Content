@@ -31,13 +31,16 @@ From the main search box, you can search for:
 
 If you start typing in the search box, you will see all Teams and Channels that matches your query:
 
+
 ::: ok  
 ![Figure: Search results for "Training". The 1st two results are Teams, the 3rd one is a channel.Teams only show up with their title, while channels show with the name of the associated Team underneath](teams-search-1.png)  
 :::
 
+
 ::: ok  
 ![Figure: Teams result](teams-search-2.png)  
 :::
+
 
 ::: ok  
 ![Figure: Channel associated to a Team result](teams-search-3.png)  
@@ -49,11 +52,13 @@ If you start typing in the search box, you will see all Teams and Channels that 
 
 Once you've hit "Enter", you can search through the different tabs to find messages, people or files that match your query across all teams
 
+
 ::: ok  
 ![Figure: Use the 3 built-in tabs to search through the different categories](teams-search-4.jpg)  
 :::
 
 You can also use built in filters to refine your search, by clicking the "Filter" icon in Messages or Files tabs:
+
 
 ::: ok  
 ![Figure: Built in filters for Messages (see #3)](teams-search-5.png)  

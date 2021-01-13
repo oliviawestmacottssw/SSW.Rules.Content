@@ -25,9 +25,11 @@ Partial differences make people get confused and start asking things like "this 
 
 Compare the follow two examples:
 
+
 ::: bad  
 ![Figure: Bad Example - The heading and body text is very simlar, only 2px font-size difference.](choosingFontsbad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - The heading as been bolded and the content font size decreased to make it more obvious that the two are different styles.](choosingFontsgood.png)  

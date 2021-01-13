@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - have-tests-for-difficult-to-spot-errors
+- do-you-have-tests-for-difficult-to-spot-errors---eg-arithmetic-rounding-regular-expressions
 
 ---
 

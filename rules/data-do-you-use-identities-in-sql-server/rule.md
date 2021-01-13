@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-identities-in-sql-server
+- data---do-you-use-identities-in-sql-server
 
 ---
 
@@ -65,11 +66,17 @@ Using SQL Management Studio
 
 Alternatively, you can also enable and disable the identity insert through SQL with the following commands
 
-SET IDENTITY\_INSERT Shippers ON --this will allow manual identity INSERTS on the requested table
+
+
+```
+SET IDENTITY_INSERT Shippers ON --this will allow manual identity INSERTS on the requested table
  
 -- Modify the table here
  
-SET IDENTITY\_INSERT Shippers OFF --as it can only be on for one table at a time
+SET IDENTITY_INSERT Shippers OFF --as it can only be on for one table at a time
+```
+
+
 
 More information on [IDENTITY\_INSERT](https://docs.microsoft.com/en-us/sql/t-sql/statements/set-identity-insert-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15)
 

@@ -17,6 +17,7 @@ authors:
 related: []
 redirects:
 - estimating-do-you-know-how-to-size-user-stories-effectively
+- estimating---do-you-know-how-to-size-product-backlog-items-pbis-effectively
 - estimating-do-you-know-how-to-size-product-backlog-items-(pbis)-effectively
 
 ---
@@ -53,6 +54,7 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 > **Please note:** In some teams which only use Small, Medium and Large the following numbering is applyed respectively 2, 4 and 8.
 
 
+
 ::: bad  
 ![Figure: Bad example - Estimation using T-Shirt sizes](size-stories-bad-example.jpg)  
 :::
@@ -60,6 +62,7 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 ### Fibonacci Extended (1-100)
 
 Planning Poker is a very effective Product Backlog estimation technique and the most common method is using Fibonacci numbers (1,2,3,5,8,13, etc.). This was made popular by Mike Cohn.
+
 
 ::: good  
 ![Figure: OK example - Estimation using Planning Poker with large numbers](size-stories-ok-example.jpg)  
@@ -70,6 +73,7 @@ Planning Poker is a very effective Product Backlog estimation technique and the 
 Mike Cohn introduced changes to the original 7 cards, by changing the 21 to 20 and adding 40 and 100 to indicate very large user stories called Epics.
 
 Ken Schwaber (the father of Scrum) says in his Scrum Certification course, that he is not a fan of the extra cards and says he prefers teams keep to the original 7 cards.
+
 
 ::: good  
 ![Figure: OK example - Estimation using Planning Poker with only small numbers](size-stories-good-example.jpg)  
@@ -105,6 +109,7 @@ Another method of estimating is the "Thrown method" as described Martin Fowler. 
 This is particularly useful if you don't have Planning Poker cards.  Instead of Fibonacci numbers, estimates are from 1 to 5.  It's nice and simple, and you only need the fingers on your hand.
 
 The action is done in the same method as the game 'Rock, Paper, Scissors'. The options the developer can estimate is 1,2,3,4,5
+
 
 ::: ok  
 ![Figure: PBI estimates using the "Thrown method"](fist-method.jpg)  

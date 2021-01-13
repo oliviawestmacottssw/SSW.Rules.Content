@@ -27,6 +27,7 @@ Promoting your application and business via social media can be extremely benefi
 * Then post it to the Chinese site.
 * Great, now you are ready to post to all of the social media platforms simultaneously.
 
+
 ::: ok
 ![Figure:  Make sure that your social media presence covers the countries you have translated your application into                e.g. Link Auditor on Weibo (A local social media, China’s Twitter replacement).](Weibo.jpg)
 :::

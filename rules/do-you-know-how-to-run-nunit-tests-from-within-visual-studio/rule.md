@@ -34,6 +34,7 @@ In Visual Studio:
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - NUnit In Visual Studio](NUnitInVStudio.jpg)  
 :::
@@ -43,9 +44,11 @@ In Visual Studio:
 
 TestDriven.net has better NUnit integration – from both code and Solution Explorer windows.
 
+
 ::: ok  
 ![Figure: Better way - Use TestDriven.Net - it has a 'Run Test(s)' command for a single test (above) or...](UseTestDriven.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: ...you can right-click on a project and select 'Test With &gt; NUnit' to bring up the GUI. It is certainly more convenient](GUIBringUpAction.jpg)  

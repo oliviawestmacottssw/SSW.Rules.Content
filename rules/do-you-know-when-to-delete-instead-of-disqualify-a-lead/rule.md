@@ -17,6 +17,7 @@ When going through leads to see if they should be converted to an Account/Contac
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Delete rubbish lead](CRMDeleteLead.jpg)  
 :::

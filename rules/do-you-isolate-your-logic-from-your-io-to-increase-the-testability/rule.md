@@ -20,9 +20,12 @@ Take this for example (and see how we refactor it):
 
 <!--endintro-->
 
-public static List&lt;string&gt; GetFilesInProject(string projectFile)
+
+
+```
+public static List<string> GetFilesInProject(string projectFile)
 {
- List&lt;string&gt; files = new List&lt;string&gt;();
+ List<string> files = new List<string>();
  TextReader tr = File.OpenText(projectFile);
  Regex regex = RegexPool.DefaultInstance[RegularExpression.GetFilesInProject];
  MatchCollection matches = regex.Matches(tr.ReadToEnd());
@@ -38,6 +41,9 @@ public static List&lt;string&gt; GetFilesInProject(string projectFile)
  }
  return files;
 }
+```
+
+
 
 ::: bad
 Bad - The logic and the IO are coded in a same method
@@ -48,7 +54,10 @@ While this is a small concise and fairly robust piece of code, it still isn't th
 
 If we start by refactoring it with an overload, we can remove the IO dependency and extract the logic further making it easier to test:
 
-public static List&lt;string&gt; GetFilesInProject(string projectFile)
+
+
+```
+public static List<string> GetFilesInProject(string projectFile)
 {
  string projectFileContents;
  using (TextReader reader = File.OpenText(projectFile))
@@ -59,9 +68,9 @@ public static List&lt;string&gt; GetFilesInProject(string projectFile)
  string baseFolder = Path.GetDirectoryName(projectFile);
  return GetFilesInProjectByContents(projectFileContents, baseFolder, true);
 }
-public static List&lt;string&gt; GetFilesInProjectByContents(string projectFileContents, string baseFolder, bool checkFileExists)
+public static List<string> GetFilesInProjectByContents(string projectFileContents, string baseFolder, bool checkFileExists)
 {
- List&lt;string&gt; files = new List&lt;string&gt;();
+ List<string> files = new List<string>();
  Regex regex = RegexPool.DefaultInstance[RegularExpression.GetFilesInProject];
  MatchCollection matches = regex.Matches(projectFileContents);
  foreach (Match match in matches)
@@ -74,6 +83,9 @@ public static List&lt;string&gt; GetFilesInProjectByContents(string projectFileC
  }
  return files;
 }
+```
+
+
 
 ::: good
 Good - The logic is now isolated from the IO
@@ -82,12 +94,15 @@ Good - The logic is now isolated from the IO
 
 The first method (GetFilesInProject) is simple enough that it can remain untested. We do however want to test the second method (GetFilesInProjectByContents). Testing the second method is now too easy:
 
+
+
+```
 [Test]
 public void TestVS2003CSProj()
 {
  string projectFileContents = VSProjects.VS2003CSProj;
  string baseFolder = @"C:\NoSuchFolder";
- List&lt;string&gt; result = CommHelper.GetFilesInProjectByContents(projectFileContents, baseFolder, false);
+ List<string> result = CommHelper.GetFilesInProjectByContents(projectFileContents, baseFolder, false);
  Assert.AreEqual(15, result.Count);
  Assert.AreEqual(true, result.Contains(Path.Combine(baseFolder, "BaseForm.cs")));
  Assert.AreEqual(true, result.Contains(Path.Combine(baseFolder, "AssemblyInfo.cs")));
@@ -97,11 +112,14 @@ public void TestVS2005CSProj()
 {
  string projectFileContents = VSProjects.VS2005CSProj;
  string baseFolder = @"C:\NoSuchFolder";
- List&lt;string&gt; result = CommHelper.GetFilesInProjectByContents(projectFileContents, baseFolder, false);
+ List<string> result = CommHelper.GetFilesInProjectByContents(projectFileContents, baseFolder, false);
  Assert.AreEqual(6, result.Count);
  Assert.AreEqual(true, result.Contains(Path.Combine(baseFolder, "OptionsUI.cs")));
  Assert.AreEqual(true, result.Contains(Path.Combine(baseFolder, "VSAddInMain.cs")));
 }
+```
+
+
 
 ::: good
 Good - Different test cases and assertions are created to test the logic

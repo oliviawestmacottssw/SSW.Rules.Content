@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - do-you-make-your-team-meetings-easy-to-find
+- appointments---do-you-make-your-team-meetings-easy-to-find
 
 ---
 
@@ -22,9 +23,11 @@ When joining a new team, it's easy to be lost and not know when the important me
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - When I look at my calendar, I don't know when the meetings are](team meetings - bad example.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - A SharePoint page allows me to see my Team's meetings before I have been invited (and invite myself if required)](team meetings - good example.jpg)  
@@ -36,12 +39,14 @@ When joining a new team, it's easy to be lost and not know when the important me
 4. Add a Group Calendar web part to the page
 5. Publish the page
 
+
 ::: ok  
 ![Figure: Some easy to follow steps to create the SharePoint page](team meeting - create calendar page.gif)  
 :::
 6. In Teams, click add a new SharePoint tab to the Team
 7. Select the newly published SharePoint page
 8. Click Save
+
 
 ::: ok  
 ![Figure: Adding a tab to a Team is an indispensable skill](team meeting - add sharepoint tab.gif)  
@@ -55,6 +60,7 @@ When joining a new team, it's easy to be lost and not know when the important me
 
 <font color="#333333"><br></font>
 
+
 ::: ok  
 ![](Bad One.jpg)  
 :::
@@ -64,6 +70,7 @@ Figure: Bad Example - using the Website tab
 :::
 
 <font color="#333333"><br></font>
+
 
 ::: ok  
 ![](Good One.jpg)  
@@ -77,6 +84,7 @@ Figure: Good Example - using the SharePoint tab
 <font color="#333333"><br></font>
 
 **Suggestion to Microsoft:** [This is an unnecessary extra hoop to jump through. If you create an appointment from a Team then this tab should be automatically created.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/36007027-add-a-team-calendar-to-teams-or-allow-a-project-te)
+
 
 ::: ok  
 ![Figure: As a bonus, I can the event to my calendarWarning: Only the organizer of a meeting can make changes to it and Teams offers no ability to transfer ownership of that meeting.To be fair you also can’t change meeting owners in Exchange.Vote for this UserVoice item (that describes that the Teams team is working on delegation for Teams meetings but no ETA).https://microsoftteams.uservoice.com/forums/555103-public/suggestions/34050022-ms-teams-meeting-delegation](team meetings - add yourself.jpg)  

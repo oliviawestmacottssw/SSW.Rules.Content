@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/titus-maclaren
 related: []
 redirects:
+- productionpost-production---do-you-use-cutaways-aka-removing-the-talking-head
 - production-post-production-do-you-use-cutaways-(aka-removing-the-talking-head)
 
 ---

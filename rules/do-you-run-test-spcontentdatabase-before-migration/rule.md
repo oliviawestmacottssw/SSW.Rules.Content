@@ -29,5 +29,10 @@ It is strongly recommend to run a pre-migration check on the content databas
 
 1. Run SharePoint PowerShell Console as administrator
 2. Run the command below
-**Test-SPContentDatabase** **-** **name** WSS\_Content\_DB  **-** **webapplication** http://sitename
+
+
+
+```
+Test-SPContentDatabase - name WSS_Content_DB  - webapplication http://sitename
+```
 3. Check the output log, ensure there isn't any errors.

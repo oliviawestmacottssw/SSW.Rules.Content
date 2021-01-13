@@ -12,7 +12,8 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related:
 - do-you-know-how-to-use-balloons-in-screenshots-for-instructions
-redirects: []
+redirects:
+- screenshots---do-you-use-balloons-instead-of-a-wall-of-text
 
 ---
 

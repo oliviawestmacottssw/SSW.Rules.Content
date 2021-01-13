@@ -7,7 +7,8 @@ uri: dates-do-you-keep-time-formats-consistent-across-your-application
 created: 2014-12-01T05:58:19.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- dates---do-you-keep-time-formats-consistent-across-your-application
 
 ---
 
@@ -15,9 +16,11 @@ Time formats should be consistent across your application, to give the          
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Three screens with inconsistent time formats](../../assets/BadExampleTP.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Three screens with consistent formats](../../assets/GoodExampleTP.gif)  

@@ -19,13 +19,16 @@ Instead of a deep nested If, use Return to provide a short execution path for co
 
 <!--endintro-->
 
+
+
+```
 private void AssignRightToLeft()
 {
   // Validate Right 
-  if (paraRight.SelectedIndex &gt;= 0)
+  if (paraRight.SelectedIndex >= 0)
   { 
     // Validate Left 
-    if (paraLeft.SelectedIndex &gt;= 0)
+    if (paraLeft.SelectedIndex >= 0)
     {
        string paraId = paraRight.SelectedValue.ToString();
        Paragraph para = new Paragraph();
@@ -34,6 +37,9 @@ private void AssignRightToLeft()
     }
   }
 }
+```
+
+
 
 ::: bad
 Figure: Bad example - using nested if for validation
@@ -42,16 +48,19 @@ Figure: Bad example - using nested if for validation
 
 
 
+
+
+```
 private void AssignRightToLeft()
 {
   // Validate Right 
-  if (paraRight.SelectedIndex &gt;= 0)
+  if (paraRight.SelectedIndex >= 0)
   {
     return; 
   }
   
   // Validate Left 
-  if (paraLeft.SelectedIndex &gt;= 0)
+  if (paraLeft.SelectedIndex >= 0)
   {
     return;
   }
@@ -61,6 +70,9 @@ private void AssignRightToLeft()
   para.MoveRight(paraId);
   RefreshData();
 }
+```
+
+
 
 ::: good
 Figure: Good example - using Return to exit early if invalid 

@@ -17,9 +17,11 @@ Instead of using plain textboxes for notes, use rich textboxes. It  allows you t
 
 
 
+
 ::: bad  
 ![Figure: Bad Example - use of a plain textbox limits the detail of the user's notes](../../assets/BadNotes.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - with use of a rich textbox, you can use features such as bold, underline, highlighting and hyperlinks.](../../assets/GoodNotes.jpg)  

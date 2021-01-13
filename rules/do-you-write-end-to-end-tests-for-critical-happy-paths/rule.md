@@ -25,9 +25,11 @@ A nice option is to use [Seleno](http://seleno.teststack.net/) with an appropria
  
 This isn’t free though.  The nature of these tests mean that without proper care and maintenance, tests will fail intermittently.  There are difficult-to-predict timings, DOM changes and browser compatibility issues and ongoing maintainability - so it is beneficial to limit these kinds of tests to critical happy-paths.
 
+
 ::: bad  
 ![Figure: Bad example - No end-to-end tests, no automatic feedback when things go catastrophically wrong](test-bad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example - End-to-end Seleno tests run in Continuous-Integration, giving us very rapid feedback when the deployment breaks](test-good.png)  

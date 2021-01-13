@@ -11,7 +11,8 @@ authors:
 - title: Damian Brady
   url: https://ssw.com.au/people/damian-brady
 related: []
-redirects: []
+redirects:
+- do-you-decide-on-the-level-of-the-verboseness-eg-ternary-operators
 
 ---
 

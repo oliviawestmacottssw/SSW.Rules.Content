@@ -50,9 +50,11 @@ Here's a suggestion of what these documents could contain.
 6. Other things to take care of
 
 
+
 ::: bad  
 ![Bad example - A project without an instruction.](BadNetProject.JPG)  
 :::
+
 
 ::: good  
 ![Good example - A project with instructions](ProjectDocumentation.jpg)  
@@ -79,11 +81,13 @@ Lots of dependencies
 
 
 
+
 ::: ok  
 ![You are at Level 2 when you have some static Word documents with the steps to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile.](instructions-level2.jpg)  
 :::
 
 ### Level #3: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
+
 
 
 ::: ok  

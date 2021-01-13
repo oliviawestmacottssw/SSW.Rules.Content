@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- scheduling---do-you-know-how-to-view-the-availability-of-each-developer-resource-scheduling
 - scheduling-do-you-know-how-to-view-the-availability-of-each-developer-(resource-scheduling)
 
 ---
@@ -39,6 +40,7 @@ The calendar provides a one page view of everyone’s availability for a given t
 All of the Appointments in the Service Calendar will also sync to the developers' Outlook calendars, keeping them up to date with where they need to be, when.
 
 You have multiple options for ways to fill this data, which you can see in [<font color="#333333">Scheduling - Do you know how to book developers for a project? </font>](/Pages/How-to-book-developers-for-a-project.aspx)
+
 
 ::: ok  
 ![Figure: The Service Calendar in CRM is showing that Drew is available but Mehmet is busy next week](yelling-whos-free.jpg)  

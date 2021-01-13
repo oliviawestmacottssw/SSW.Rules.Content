@@ -24,13 +24,25 @@ A better approach is to use Trace.WriteLine. You can create a trace listener to 
 
 <!--endintro-->
 
+
+
+```
 Console.WriteLine("Service started");
+```
+
+
 
 ::: bad
  Figure: Bad Example - Using Console.WriteLine to write debug information  
 :::
 
+
+
+```
 Trace.WriteLine("Service started");
+```
+
+
 
 ::: good
  Figure: Better Example - Using Trace.WriteLine to write debug informatio  
@@ -38,7 +50,13 @@ Trace.WriteLine("Service started");
 
 The best approach is to use a logging framework like Serilog. You can direct output to different sinks (e.g. log file, database, table storage or Application Insights), include structured objects as well and filter output based off severity (Verbose/Debug/Info/Warning/Error).
 
+
+
+```
 Log.Debug(“Service started”);
+```
+
+
 
 ::: good
 Figure: Best Example – Using Serilog to write debug information

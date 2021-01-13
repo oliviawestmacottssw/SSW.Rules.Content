@@ -16,6 +16,7 @@ redirects:
 - figures-do-you-add-useful-and-concise-figure-text-(aka-a-caption)-to-avoid-a-lot-of-text-over-images
 - add-a-useful-figure-caption-below-all-images
 - show-a-bad-example-and-then-a-good-example
+- figures---do-you-add-useful-and-concise-figure-text
 
 ---
 
@@ -28,6 +29,7 @@ It's the best way of ensuring you catch users' attention to the content of your 
 <!--endintro-->
 
 Users read websites in a similar fashion. Catch their attention with an image, and then keep it with a useful description. Don't just describe what the image is; say what it's used for in the context of the document.
+
 
 ::: good  
 ![Figure: Good Example - Some nice useful text describing the image](good-caption.jpg)  

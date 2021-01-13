@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-ok-cancel-buttons
+- do-you-use-okcancel-buttons
 
 ---
 

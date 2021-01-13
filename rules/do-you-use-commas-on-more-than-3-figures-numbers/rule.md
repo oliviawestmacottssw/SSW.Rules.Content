@@ -18,9 +18,11 @@ redirects: []
 In numbers of more than 3 digits, always use commas. This makes reading much easier. 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example: No commas make it harder to read](numbers-bad-example.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example: Commas make it easier to read](numbers-good-example.png)  

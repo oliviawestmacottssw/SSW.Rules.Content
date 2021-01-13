@@ -21,6 +21,7 @@ redirects:
 
 Reading ugly commits is not very pleasant and makes it very confusing when you have to check the commit history.
 
+
 ::: bad  
 ![Bad Example: The commits have no meaning](2020-09-17\_17-19-04.png)  
 :::
@@ -82,9 +83,11 @@ h [Gitmoji - Visual Studio Marketplace (visualstudio.com)](https://marketplace.v
 
 You can even go 🤘 hardcore and use the  **gitmoji cli -** [carloscuesta/gitmoji-cli: A gitmoji interactive command line tool for using emojis on commits. 💻 (github.com)](https://github.com/carloscuesta/gitmoji-cli)
 
+
 ::: good  
 ![Good Example: Great use of emoji and concise message](commits-with-emojis.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: see what emojis work best with each topic here: <br>gitmoji.carloscuesta.me/](emojis-list.jpg)  

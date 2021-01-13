@@ -28,27 +28,58 @@ Why LINQ is good?
 * SPMetal is awesome for generating entity classes
 * In the backend, LINQ provider translates as much as it can to CAML first
 
-<font class="ms-rteCustom-CodeArea">SPQueryquery = newSPQuery(); <br>
-query.Query= String.Format(“<br>
-&lt;Where&gt;<br>
-&lt;And&gt;<br>
-&lt;Contains&gt;&lt;FieldRefName=‘Tags’ /&gt;&lt;ValueType=‘Text’&gt;&#123;0&#125;&lt;/Value&gt;&lt;/Contains&gt;<br>
-&lt;IsNotNull&gt;&lt;FieldRefName=‘URL’ /&gt;&lt;/IsNotNull&gt;<br>
-&lt;/And&gt;<br>
-&lt;/Where&gt;<br>
-&lt;OrderBy&gt;<br>
-&lt;FieldRefName=‘PostedOn’ Ascending=‘TRUE’ /&gt;<br>
-&lt;/OrderBy&gt;”, _filter);<br>
-SPListItemCollectionlistItemsColl= resourceList.GetItems(query);</font>
+
+
+
+```
+SPQueryquery = newSPQuery(); 
+
+query.Query= String.Format(“
+
+<Where>
+
+<And>
+
+<Contains><FieldRefName=‘Tags’ /><ValueType=‘Text’>{0}</Value></Contains>
+
+<IsNotNull><FieldRefName=‘URL’ /></IsNotNull>
+
+</And>
+
+</Where>
+
+<OrderBy>
+
+<FieldRefName=‘PostedOn’ Ascending=‘TRUE’ />
+
+</OrderBy>”, _filter);
+
+SPListItemCollectionlistItemsColl= resourceList.GetItems(query);
+```
+
+
+
 
 ::: bad
 Figure: Bad example – using CAML  
 :::
-<font class="ms-rteCustom-CodeArea">Var resourceListItems =<br>
-From SPListItem item in resourceList.Items<br>
-Where item.Tags.ToString().ToLower().Contains(_filter)<br>
-&amp;&amp; item.URL.ToString().Length&gt; 0<br>
-OrderBy item.PostedOn Ascending</font>  
+
+
+
+```
+Var resourceListItems =
+
+From SPListItem item in resourceList.Items
+
+Where item.Tags.ToString().ToLower().Contains(_filter)
+
+&& item.URL.ToString().Length> 0
+
+OrderBy item.PostedOn Ascending
+```
+
+
+  
 ::: good
 Figure: Good example – using LINQ  
 :::

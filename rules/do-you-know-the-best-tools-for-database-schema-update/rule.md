@@ -49,22 +49,29 @@ Bad options for updating database schema - No ability to validate that the datab
 * Red Gate SQL Compare + Red Gate SQL Packager (post-development model)
 
 
+
 ::: bad  
 ![Figure: Don't use Data Dude](DataDude-BadExample.jpg)  
 :::
 
+
+
+```
 public partial class GenderToString : DbMigration
  {
  public override void Up()
  {
- AddColumn("dbo.Customers", "GenderTemp", c =&gt; c.Boolean(nullable: false));
+ AddColumn("dbo.Customers", "GenderTemp", c => c.Boolean(nullable: false));
  Sql("UPDATE [dbo].[Customers] set GenderTemp = Gender");
  DropColumn("dbo.Customers", "Gender");
- AddColumn("dbo.Customers", "Gender", c =&gt; c.String(maxLength: 2));
+ AddColumn("dbo.Customers", "Gender", c => c.String(maxLength: 2));
  Sql("UPDATE [dbo].[Customers] set Gender = 'M' where GenderTemp=1");
  Sql("UPDATE [dbo].[Customers] set Gender = 'F' where GenderTemp=0");
  DropColumn("dbo.Customers", "GenderTemp");
  }
+```
+
+
 
 ::: good
 Good Example - Data motion with EF Migrations

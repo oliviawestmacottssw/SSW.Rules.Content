@@ -7,7 +7,8 @@ uri: reports-do-you-keep-reporting-criteria-simple
 created: 2014-12-01T05:47:39.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- reports---do-you-keep-reporting-criteria-simple
 
 ---
 
@@ -19,6 +20,7 @@ redirects: []
 
 
 <!--endintro-->
+
 
 ::: ok  
 ![](../../assets/GraphInterface.gif)  

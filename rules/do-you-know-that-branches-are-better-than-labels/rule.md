@@ -27,9 +27,11 @@ Although labels are useful they can be changed after they have been created with
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example, labels can be edited after the fact (they are mutable)](TFSLabel.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example, branches give absolute certainty of versions (they are immutable)](tfslabe2.jpg)  

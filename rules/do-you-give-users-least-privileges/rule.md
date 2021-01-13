@@ -20,9 +20,11 @@ First a little understanding of how Azure permissions work. For each subscriptio
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - too many people have Owner permission on the subscription level](azure-permissions-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - only Administrators that will be managing overall permissions and content have been given Owner/Co-administrator](azure-permissions-good.png)  

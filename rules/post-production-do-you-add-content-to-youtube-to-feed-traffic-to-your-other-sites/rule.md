@@ -7,7 +7,8 @@ uri: post-production-do-you-add-content-to-youtube-to-feed-traffic-to-your-other
 created: 2011-11-08T22:49:11.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- post-production---do-you-add-content-to-youtube-to-feed-traffic-to-your-other-sites
 
 ---
 

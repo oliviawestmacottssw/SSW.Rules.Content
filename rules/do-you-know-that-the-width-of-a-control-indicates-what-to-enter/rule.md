@@ -15,6 +15,7 @@ The widths of the fields indicate to a user the data that goes in it. Do not use
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - The 'Data Retention Days' field should be reduced](../../assets/field-width.jpg)  
 :::

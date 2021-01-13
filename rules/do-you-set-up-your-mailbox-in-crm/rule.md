@@ -21,6 +21,7 @@ Do the following:
 <!--endintro-->
 
 1. Browse to your Dynamics 365 Online URL | Advanced Settings | Settings | Email Configuration | Mailboxes | Browse for your mailbox:<br>   
+
 ::: ok  
 ![Figure: You should see your mailbox. Click the link on Name and it will open up your mailbox settings](crm-open-meilbox-settings.png)  
 :::
@@ -35,6 +36,7 @@ Do the following:
 3. Click  **Test & Enable Mailbox** 
 If successful, you will receive an email, if not, contact your nearest SysAdmin
 4. Click Save & Close!
+
 
 
 ::: ok  

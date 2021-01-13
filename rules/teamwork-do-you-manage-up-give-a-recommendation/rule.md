@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-manage-up
+- teamwork---do-you-manage-up-give-a-recommendation
 - teamwork-do-you-manage-up-(give-a-recommendation)
 
 ---
@@ -70,6 +71,7 @@ Please let me know if you're happy to proceed with our recommendation, otherwise
 Figure: Good Example - Multiple options to approve with reasons for each <br>      
 
 :::
+
 
 ::: ok  
 ![Figure: Hard decision - this guy needs to state why he recommends this option](complexity-and-false-hope.jpg)  

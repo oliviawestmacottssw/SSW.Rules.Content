@@ -18,9 +18,11 @@ redirects: []
 We want to keep clear and simple file structure in our solution. Never put any files other than images file in \images folder.  
 <!--endintro-->
 
+
 ::: bad  
 ![Bad example - HTML file in \Images Folder.](OnlyImageBad.gif)  
 :::
+
 
 ::: good  
 ![Good example - Images only, clean \Images folder.](OnlyImageGood.gif)  

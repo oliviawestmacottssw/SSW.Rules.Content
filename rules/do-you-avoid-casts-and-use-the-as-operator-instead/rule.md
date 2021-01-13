@@ -20,27 +20,42 @@ b. You want to perform a user-defined conversion
 
 <!--endintro-->
 
+
+
+```
 private void AMControlMouseLeftButtonUp(object sender, MouseButtonEventArgs e)
 {
- var auc = (AMUserControl)sender;     
+ var auc = (AMUserControl)sender; 
+   
  var aucSessionId = auc.myUserControl.Tag;
  // snip snip snip
 }
+```
+
+
 
 ::: bad
 Bad example
 
 :::
 
+
+
+```
 private void AMControlMouseLeftButtonUp(object sender, MouseButtonEventArgs e)
 {
- var auc = sender as AMUserControl;     
+ var auc = sender as AMUserControl; 
+   
  if (auc != null)
  {
  var aucSessionId = auc.myUserControl.Tag;
  // snip snip snip
- }     
+ } 
+   
 }
+```
+
+
 
 ::: good
 Good example

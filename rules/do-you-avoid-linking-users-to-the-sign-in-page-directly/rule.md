@@ -17,9 +17,11 @@ Thus, if a user is already logged in, he will go to the       default page. If n
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Linked to the login page.](../../assets/BadNoUseLogin.GIF)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Linked to the default page.](../../assets/GoodNoUseLogin.GIF)  

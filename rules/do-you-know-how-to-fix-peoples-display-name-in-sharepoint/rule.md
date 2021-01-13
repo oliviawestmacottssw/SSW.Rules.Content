@@ -9,7 +9,8 @@ authors:
 - title: John Liu
   url: https://ssw.com.au/people/john-liu
 related: []
-redirects: []
+redirects:
+- do-you-know-how-to-fix-peoples-display-name-in-sharepoint-
 
 ---
 

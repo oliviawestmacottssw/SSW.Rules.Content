@@ -15,6 +15,7 @@ The buttons that a user will typically use to close a form should be named consi
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Unclear labels on the buttons](../../assets/ButtonLabels\_Bad.gif)  
 :::
@@ -28,6 +29,7 @@ We recommend the age-old standards of:
 * **OK** . Close the form and save any changed data. This should be referenced by the form's AcceptButton property.
 * **Cancel** . Close the form without saving. This should be referenced by the form's CancelButton property.
 * **Apply** . Save data without closing the form.
+
 
 
 ::: good  

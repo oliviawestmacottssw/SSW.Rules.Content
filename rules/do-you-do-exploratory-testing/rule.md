@@ -53,23 +53,28 @@ Use Microsoft's Exploratory Testing -  **Test & Feedback extension** - to perfor
 ** 
 
 1. Go to [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms.vss-exploratorytesting-web) and click install. <br>      
+
 ::: ok  
 ![Figure: Microsoft Test & Feedback (was Exploratory Testing) extension](exploratory-test-extension-install.png)  
 :::
 2. Click "Add to Chrome" to add the extension to the browser on your computer. <br>      
+
 ::: ok  
 ![Figure: Chrome Web Store page for Test & Feedback extension](exploratory-test-extension-add.png)  
 :::
 3. Go to Chrome.
 4. Start a session by clicking on the Chrome extension and then click start a session. <br>      
+
 ::: ok  
 ![Figure: Chrome extension icon](exploratory-test-extension-icon.png)  
 :::
+
 
 ::: ok  
 ![Figure: Test & Feedback start session button](exploratory-test-extension-start.png)  
 :::
 5. Upload the screenshot to a PBI. <br>          
+
 
 ::: ok  
 ![Figure: PBI in Visual Studio Team Services (VSTS) showing the screenshot](pbi-screenshot.jpg)  

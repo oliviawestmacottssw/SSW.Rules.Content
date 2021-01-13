@@ -18,6 +18,7 @@ related: []
 redirects:
 - the-best-packages-and-modules-to-use-with-angular
 - do-you-know-the-best-packages-and-modules-to-use-with-angular-2
+- tools---do-you-know-the-best-packages-and-modules-to-use-with-angular
 
 ---
 

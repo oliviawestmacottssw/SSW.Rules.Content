@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - ok-words-in-china
+- chinafy---do-you-know-those-english-words-are-ok-in-china
 
 ---
 

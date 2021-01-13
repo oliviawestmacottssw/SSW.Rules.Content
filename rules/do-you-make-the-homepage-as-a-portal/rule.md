@@ -18,9 +18,11 @@ You should put all the useful and current information on the homepage and also m
 E.g. Top billing customers for the month and a button under it for adding an invoice.
 E.g. See the number of bugs counted by the most common.
 
+
 ::: ok  
 ![Figure: The homepage of TWA is a portal.](../../assets/HomepagePortal.png)  
 :::
+
 
 ::: ok  
 ![Figure: Adobe's Creative Suite also opens a portal 'homepage'.](../../assets/HomepagePortalSoftware.jpg)  

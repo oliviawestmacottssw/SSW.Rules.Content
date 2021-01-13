@@ -9,7 +9,8 @@ authors:
 - title: Mehmet Ozdemir
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
-redirects: []
+redirects:
+- customization---do-you-check-custom-javascript-with-the-crm-custom-code-validation-tool
 
 ---
 

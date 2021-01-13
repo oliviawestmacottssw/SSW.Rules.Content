@@ -24,6 +24,7 @@ Use a table to summarize the major features of the project. Columns that are nee
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Highlight the option recommended](Proposals\_OptionAHighlighted.jpg)  
 :::

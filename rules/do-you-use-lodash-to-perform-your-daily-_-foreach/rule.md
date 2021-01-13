@@ -11,7 +11,8 @@ authors:
 - title: Duncan Hunter
   url: https://ssw.com.au/people/duncan-hunter
 related: []
-redirects: []
+redirects:
+- do-you-use-lodash-to-perform-your-daily-_foreach
 
 ---
 
@@ -31,7 +32,13 @@ A simple example of the power of lodash is this snippet of code which is looping
 
 This new simplified array of account numbers was then used in a dropdown to filter the Kendo grid. This single line saves a call to the database for another array of data and populates the dropdown with the same shared datasource. This would be a pain to write with vanilla javascript and difficult to read.
 
-this.accountNumberDropDownData = \_.chain(this.sharedDataSource).pluck('AccountNumber').uniq().sortBy().value();
+
+
+```
+this.accountNumberDropDownData = _.chain(this.sharedDataSource).pluck('AccountNumber').uniq().sortBy().value();
+```
+
+
 
 ::: good
 Good example - Simple one line of TypeScript which would take many line of code without lodash  

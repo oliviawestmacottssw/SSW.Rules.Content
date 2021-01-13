@@ -11,7 +11,8 @@ authors:
 - title: Ryan Tee
   url: https://ssw.com.au/people/ryan-tee
 related: []
-redirects: []
+redirects:
+- do-you-add-the-necessary-code-so-you-can-always-sync-the-webconfig-file
 
 ---
 

@@ -34,6 +34,7 @@ This is where RayGun or Application Insights comes into the picture. RayGun give
 * See which errors are occurring the most often
 
 
+
 ::: bad  
 ![Figure: Bad Example - Elmah gives you a wall of exceptions and no way to flag exceptions as completed](elmah.gif)  
 :::

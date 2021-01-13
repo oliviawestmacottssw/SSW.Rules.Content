@@ -14,6 +14,7 @@ related: []
 redirects:
 - process-invoicing-in-a-timely-manner
 - process-billing-in-a-timely-manner
+- do-you-do-invoicing-in-a-timely-manner-ie-once-a-week
 - do-you-do-invoicing-in-a-timely-manner-(i-e-once-a-week)
 
 ---

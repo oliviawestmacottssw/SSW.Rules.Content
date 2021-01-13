@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - have-generic-exception-handler-in-your-global-asax
+- do-you-have-generic-exception-handler-in-your-globalasax
 
 ---
 
@@ -18,12 +19,18 @@ Add your code to handle generic exception of your ASP.NET application in Applica
 
 <!--endintro-->
 
+
+
+```
 private static readonly ILog log = LogManager.GetLogger(typeof(MvcApplication));
 
-        protected void Application\_Error(object sender, EventArgs e)
+        protected void Application_Error(object sender, EventArgs e)
         {
             Exception ex = Server.GetLastError().GetBaseException();
             log.Fatal("Unhandled Exception", ex);
         }
+```
+
+
  **Figure. Exception handler in Global.asax.cs
 **

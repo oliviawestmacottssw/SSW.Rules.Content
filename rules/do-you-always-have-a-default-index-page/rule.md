@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - always-have-a-default-index-page
+- do-you-always-have-a-defaultindex-page
 
 ---
 

@@ -11,10 +11,12 @@ authors:
 related: []
 redirects:
 - do-you-repeat-back-the-specifics-of-a-request
+- communication---do-you-repeat-back-the-specifics-of-a-request
 
 ---
 
 Misunderstanding due to miscommunication can cause major disasters at work or in life (see: [Tenerife airport disaster](https://en.wikipedia.org/wiki/Tenerife_airport_disaster)).
+
 
 ::: bad  
 ![Figure: KLM Flight 4805 collides with Pan Am Flight 1736 at Tenerife Los Rodeos Airport](flight-accident-1977.jpg)  

@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- controls---do-you-use-a-tooltip-to-show-the-full-text-of-hidden-listview-data
 
 ---
 
@@ -17,9 +18,11 @@ When you can't see all the text for an item in a ListView you need to expose the
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Users can't see all the text and the ListView doesn't use a Tooltip](../../assets/ListViewWithoutToolTip.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Users can't see all the text, but the ListView shows all the text via a Tooltip](../../assets/ListViewWithToolTip.gif)  

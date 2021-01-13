@@ -20,6 +20,7 @@ SSW have a random testimonials box up the top of many pages. One example is the 
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Testimonials as displayed on SSW's About Us page](../../assets/MarketingTestimonials.gif)  
 :::

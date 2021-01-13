@@ -20,17 +20,21 @@ When a user looks at a search result, they expect to see a list of items to look
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - The list of "suggestions" is just noise and can confuse the user](search-result-bad-list.jpg)  
 :::
+
 
 ::: bad  
 ![Figure: Bad example - Having an icon implies that an error happened which is not the case](search-result-bad-icon.jpg)  
 :::
 
+
 ::: good  
 ![Figure: Good example - Plain and clean screen](search-result-good-web.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - Plain and clean screen on mobile](search-result-good-iphone.jpg)  

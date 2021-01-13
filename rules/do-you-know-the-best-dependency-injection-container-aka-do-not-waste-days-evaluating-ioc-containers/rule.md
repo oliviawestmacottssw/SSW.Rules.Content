@@ -41,9 +41,11 @@ The top tools all contain comparable functionality. In practice which one you us
 
 **Important:** Unless a specific shortfall is discovered with the container your team uses, you should continue to use the same container across all of your projects, become an expert with it and invest time on building features rather than learning new container implementations.
 
+
 ::: bad  
 ![Figure: Bad Example - Ninject was a top container but is no longer developed as actively as Autofac and Structuremap. Both Autofac and Structuremap have active communities and contributors that ensure they stay up to date with the latest changes in .Net](dic-bad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Autofac has a great combination of performance and features and is actively developed](dic-good.png)  

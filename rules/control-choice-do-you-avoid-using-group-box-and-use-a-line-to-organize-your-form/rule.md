@@ -7,7 +7,8 @@ uri: control-choice-do-you-avoid-using-group-box-and-use-a-line-to-organize-your
 created: 2012-11-27T08:57:50.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- control-choice---do-you-avoid-using-group-box-and-use-a-line-to-organize-your-form
 
 ---
 
@@ -15,17 +16,21 @@ Group box should only be used when you want to notify the user the controls with
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Inappropriate use of 'Group Box', there is nothing to be grouped](../../assets/RulesT8.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Use a line to organize different sections](../../assets/RulesT4.jpg)  
 :::
 
+
 ::: good  
 ![Figure: Good Example - VS.NET 2003 Options form, appropriate use of 'Group Box', the radio buttons are related to each other](../../assets/RulesT6.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - VS.NET 2012 Options form, also appropriate use of 'Group Box'](../../assets/vsnet-groupbox.jpg)  

@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - how-string-should-be-quoted
+- c-code---do-you-use-string-literals
 
 ---
 
@@ -21,13 +22,25 @@ As per:  [Strings](http&#58;//msdn.microsoft.com/en-us/library/c84eby0h%28v=vs.
 
 <!--endintro-->
 
+
+
+```
 string p2 = "\\My Documents\\My Files\\";
+```
+
+
 
 ::: bad
 Figure: Bad example - Using "\\"  
 :::
 
+
+
+```
 string p2 = @"\My Documents\My Files\";
+```
+
+
 
 ::: good
 Figure: Good example - Using @

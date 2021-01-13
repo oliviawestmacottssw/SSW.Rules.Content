@@ -20,6 +20,7 @@ A lot of your audience will not always be looking at your video. A sweet sound t
 
 <!--endintro-->
 
+
 ::: good  
 ![Good example: Text on the screen without audio        E.g. Video on YouTube: Cory Booker: Why Trump should try being nice on Twitter http://youtu.be/8p5n0TbRFEk (at 1:05 you will hear the sound)](video-trump-sound.png)  
 :::

@@ -9,7 +9,8 @@ authors:
 - title: Raj Dhatt
   url: https://ssw.com.au/people/raj-dhatt
 related: []
-redirects: []
+redirects:
+- post-production---do-you-know-how-to-transfer-avchd-footage-to-your-computer
 
 ---
 
@@ -28,14 +29,17 @@ We will go through the process of using Sony Content Management Utility software
     * Create a folder in your data drive called ‘Capture\_Dump’. This should be the default place you transfer all raw footage to (you will move the footage from here to your project folder as described in a later step).
     * Open ‘Content Management Utility’
     * A dialogue will prompt you to navigate to your destination folder. Navigate to the ‘Capture\_Dump’ folder you created in step ‘1’ and select it. If you do not get this prompt, select the ‘Register Folders to View’ button on the top left of the window: 
+
 ::: ok  
 ![](Step 2.png)  
 :::
 3. Connect the camera to your computer, and using the LCD, press 'USB Connect 
+
 ::: ok  
 ![](Step 3.png)  
 :::
 4. Open the ‘Content Management Utility’. Click on the camera icon on the top left of the window to open a new transfer window: 
+
 ::: ok  
 ![](Step 4.png)  
 :::
@@ -44,10 +48,12 @@ We will go through the process of using Sony Content Management Utility software
     * Select the clips you would like to transfer to your computer.
     * At the bottom of the window, click the ‘Change’ button and rename the folder to: ‘[date]\_[Project-Name]’
 
+
 ::: ok
 ![](Step 5.png)
 :::
 6. Finally, select the ‘Import’ button on the bottom right of the screen: 
+
 ::: ok  
 ![](Step 6.png)  
 :::

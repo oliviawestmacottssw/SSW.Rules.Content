@@ -22,6 +22,7 @@ Also remember that uniforms don't have to be boring or uncomfortable, but they d
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good Example - Part of the SSW team attending NDC Sydney 2019 wearing special shirts we created for this event + branded backdrop for our booth  Figure: Good Example - Some of our Sydney team wearing different branded shirt](ndcshot.png)  
 :::

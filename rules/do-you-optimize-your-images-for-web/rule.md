@@ -29,6 +29,7 @@ Some tips and techniques to keep in mind as you work on optimizing your images:
 * **Use** **automated tools** to ensure that all of your images are always optimized. E.g.: [http://optimizilla.com](http://optimizilla.com/)
 
 
+
 ::: ok  
 ![Figure: Optimizilla reduced the image below in 31%](optimizeexample.png)  
 :::
@@ -37,6 +38,7 @@ Some tips and techniques to keep in mind as you work on optimizing your images:
 
 
 If your website is running on WordPress you should install and activate the plugin [WP Smush](https://wordpress.org/plugins/wp-smushit/). It scans every image you upload – or have already added to your site – cuts all the unnecessary data and scales it for you before adding it to your media library.
+
 
 ::: ok  
 ![Figure: WP Smush plugin saved 9.4MB from one web site](wp-smush.jpg)  

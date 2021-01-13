@@ -22,9 +22,11 @@ When making reports, charts, and visualizations, it’s important to be consiste
 
 Power BI shows "XXX by YYY" (e.g. total earnings by month) rather than "XXX per YYY" and so it’s best to stay with the default and use this throughout your charts.
 
+
 ::: bad  
 ![Figure: Bad example - Using "per"](by-per-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - Using "by"](by-per-good.jpg)  

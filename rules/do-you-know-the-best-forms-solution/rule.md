@@ -18,13 +18,16 @@ You should use PowerApps for your forms.
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - Using Nintext](nintex.jpg)  
 :::
 
+
 ::: bad  
 ![Figure: Bad example - Using Infopath](infopath.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - Using PowerApps](powerapps.jpg)  

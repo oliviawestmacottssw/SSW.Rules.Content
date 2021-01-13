@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - use-environment-newline-to-make-a-new-line-in-your-string
+- do-you-use-environmentnewline-to-make-a-new-line-in-your-string
 
 ---
 
@@ -20,7 +21,13 @@ When you need to create a new line in your string, make sure you use Environment
 
 <!--endintro-->
 
+
+
+```
 string strExample = "This is a very long string that is \r\n not properly implementing a new line.";
+```
+
+
 
 ::: bad
 Bad Example: The string has implemented a manual carriage return line feed pair (\r\n)  
@@ -28,8 +35,13 @@ Bad Example: The string has implemented a manual carriage return line feed pair 
 
 
 
-string strExample = "This is a very long string that is " + Environment.NewLine +
-			 " properly implementing a new line.";
+
+
+```
+string strExample = "This is a very long string that is " + Environment.NewLine +		 " properly implementing a new line.";
+```
+
+
 
 
 
@@ -38,9 +50,17 @@ OK Example: The new line is created with Enviroment.NewLine (but strings are imm
 
 :::
 
+
+
+```
 var example = new StringBuilder();
- example.AppendLine("This is a very long string that is ");
- example.Append(" properly implementing a new line.");
+
+example.AppendLine("This is a very long string that is ");
+
+example.Append(" properly implementing a new line.");
+```
+
+
 
 
 

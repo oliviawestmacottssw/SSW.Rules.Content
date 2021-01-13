@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- after-adding-a-rule-on-sharepoint---what-steps-should-you-take
 
 ---
 

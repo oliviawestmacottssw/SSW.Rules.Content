@@ -7,7 +7,8 @@ uri: product-owners-do-you-know-the-consequence-of-disrupting-a-team
 created: 2010-04-13T01:56:44.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- product-owners---do-you-know-the-consequence-of-disrupting-a-team
 
 ---
 

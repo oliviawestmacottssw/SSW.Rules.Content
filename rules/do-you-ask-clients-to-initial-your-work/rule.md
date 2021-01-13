@@ -23,6 +23,7 @@ When you ask a client to 'review this screen mock-up' they will generally take a
 
 Training clients to review the work carefully leads to better quality projects.
 
+
 ::: ok  
 ![Figure: A signature can be very valuable but sometimes hard to obtain, like Michael Jackson's autograph](SuccessfulProjects\_Signature.jpg)  
 :::

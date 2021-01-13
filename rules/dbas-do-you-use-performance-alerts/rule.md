@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-performance-alerts
+- dbas---do-you-use-performance-alerts
 
 ---
 
@@ -30,6 +31,7 @@ To configure an alert to trigger an application, perform the following steps:
 6. On the Action tab, select the Run this Program checkbox.
 7. Click the Browse button, and select the name of the application you want to run.
 8. Click OK.
+
 
 
 ::: ok  

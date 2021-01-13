@@ -18,11 +18,13 @@ redirects:
 
 When discussing a PBI/Issue, Pull Request, or a project in general, it is important to do it in the right place.
 
+
 ::: ok  
 ![](Kanban-on-Screen.jpg)  
 :::
 
 <!--endintro-->
+
 
 ::: bad  
 ![Figure: Bad Example – don't use emails to discuss tasks](bad-mention-pbi.jpg)  
@@ -33,6 +35,7 @@ When discussing a PBI/Issue, Pull Request, or a project in general, it is import
 Sometimes developers need to discuss code implementations - sometimes to improve the code, other times to explain why something was done a certain way.
 
 This should be done in the Pull Request, if possible comment directly on the line of the code change and once resolved, make sure that the important information is captured in the merge's commit description.
+
 
 ::: good  
 ![Figure: You can add a comment on a specific line of code](comment on code in pull request.png)  
@@ -45,6 +48,7 @@ As per[Do you know when you use @ mentions in a PBI?](/when-you-use-mentions-in-
 
 
 
+
 ::: good  
 ![Figure: Good Example - When adding a GitHub issue, @ mention the Product Owner and other related people so they receive a notification e.g, an email](Create-Issue.png)  
 :::
@@ -52,6 +56,7 @@ As per[Do you know when you use @ mentions in a PBI?](/when-you-use-mentions-in-
 ### For an existing PBI/Issue
 
 Discuss it in the existing PBI/Issue.
+
 
 ::: good  
 ![Figure: You can discuss an existing issue, even when it has been closed](existing issue discussion.png)  
@@ -67,11 +72,13 @@ You can:
 * Discuss it in the discussion tab in GitHub
 
 
+
 ::: good  
 ![Figure: You can create discussions on your project using the Discussion tab in your GitHub repository](Discussion Tab in GitHub.png)  
 :::
 
 * In the team channel in Teams
+
 
 
 ::: good  

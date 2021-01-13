@@ -11,7 +11,8 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects: []
+redirects:
+- printing---do-you-have-a-printcss-file-so-your-web-pages-are-nicely-printable
 
 ---
 
@@ -21,5 +22,13 @@ As we know portable devices like tablets and mobile phones are being more and mo
 
 A print.css file works in the same way as a regular stylesheet, except it only gets called up when the page is printed, by setting the command media to be "print", as per below:
 
-&lt;link rel="stylesheet" href="print.css" type="text/css" media="print" /&gt;
+
+
+
+```
+<link rel="stylesheet" href="print.css" type="text/css" media="print" />
+```
+
+
+
   The print.css file should have 100% width and is used to hide elements that you don't want to appear when printing a web page, such as advertising, background, menus, animations etc.

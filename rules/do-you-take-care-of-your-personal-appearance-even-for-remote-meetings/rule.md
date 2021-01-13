@@ -25,9 +25,11 @@ Also, you will show professionalism by not wearing pyjamas and attending meeting
 
 Try to start your day afresh, as you would usually do to go to your workplace. Follow your usual morning routine: shower, dress, eat breakfast, and then start your work routine.
 
+
 ::: bad  
 ![Bad example - Figure: Not dressing accordingly or not having a work station from home can drastically reduce your concentration](dressing-meeting-bad.jpg)  
 :::
+
 
 ::: good  
 ![Good example - Figure: Nice work station and good personal presentation whilst working from home](dressing-meeting-good.jpg)  

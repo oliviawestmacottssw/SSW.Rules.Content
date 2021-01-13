@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - how-to-do-a-perfect-done
+- dones---do-you-know-how-to-do-a-perfect-done-replying-to-a-bug
 - dones-do-you-know-how-to-do-a-perfect-done-(replying-to-a-bug)
 
 ---
@@ -24,6 +25,7 @@ To reply to a bug effectively and efficiently in your emails, you need to includ
 * Current Status - the bug is fixed (screenshot of working application) or not fixed (ask for more detailed information from the client)
 * Investigation - the reason for the bug, or if you don't know, what you investigated, e.g. checked Windows event logs and found nothing helpful
 * Solution - how you fixed the bug (code snippet if necessary)
+
 
 ::: good  
 ![Figure: Good Example - Reply to a bug showing all steps](better\_emails\_reply\_bug\_small.jpg)  

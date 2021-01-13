@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-separate-lookup-tables-rather-than-one-large-lookup-table
+- schema---do-you-use-separate-lookup-tables-rather-than-one-large-lookup-table-for-your-lookup-data
 
 ---
 

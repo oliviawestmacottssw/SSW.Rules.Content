@@ -19,16 +19,28 @@ Events should end in "ing" or "ed".
 
 <!--endintro-->
 
+
+
+```
 public event Action
-&lt; connectioninformation &gt; ConnectionProblem;
+< connectioninformation > ConnectionProblem;
+```
+
+
 
 ::: bad
 Bad code
 
 :::
 
+
+
+```
 public event Action
-&lt; connectioninformation &gt; ConnectionProblemDetected;
+< connectioninformation > ConnectionProblemDetected;
+```
+
+
 
 ::: good
 Good code  

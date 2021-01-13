@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - have-an-ergonomic-setup
+- setup---do-you-have-an-ergonomic-setup
 
 ---
 

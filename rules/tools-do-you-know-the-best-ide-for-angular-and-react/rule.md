@@ -15,12 +15,14 @@ redirects:
 - how-to-get-your-machine-setup
 - the-best-IDE-for-Angular
 - the-best-ide-for-angular
+- tools---do-you-know-the-best-ide-for-angular-and-react
 
 ---
 
 When developing Angular or React, there are lots of choices for code editors. The best experience by far is to use [Visual Studio Code](https://visualstudio.microsoft.com/downloads/).   
 
 <!--endintro-->
+
 
 ::: good  
 ![Figure: Good Example - Visual Studio Code is a free, lightweight IDE that runs on Windows, Linux and OS X. Visual Studio Code is the IDE of choice for many Angular developers and has lots of great extensions for Angular](angular-machine-setup-1.png)  
@@ -34,6 +36,7 @@ The recommended extension for Visual Studio Code is ` **Angular Essentials** ` f
 
 See     https://github.com/johnpapa/vscode-angular-essentials.
 
+
 ::: good  
 ![Figure: Good Example – the Angular Essentials extension will install a great suite of extensions to support Angular development](angular-machine-setup-2.png)  
 :::
@@ -43,6 +46,7 @@ You can find more extensions at [Visual Studio | Marketplace](https://marketplac
 ### Open in Visual Studio Code
 
 This extension is for those times where you have a project open in      **Visual Studio** and you want to be able to quickly open it in      **Visual Studio Code** .
+
 
 ::: ok  
 ![Figure: Get to Visual Studio Code quickly from within Visual Studio -        Open in Visual Studio Code extension](open-in-vscode.png)  

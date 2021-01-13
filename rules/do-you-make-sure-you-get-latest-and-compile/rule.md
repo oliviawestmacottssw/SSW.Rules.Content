@@ -21,6 +21,7 @@ It's amazing how often you can't simply Clone a repository (aka "Get Latest") an
 
 A good developer makes it clear how to get a new project, compile it, and have a smooth "F5" experience.
 
+
 ::: ok  
 ![](f5-key.jpg)  
 :::
@@ -32,6 +33,7 @@ Check they have a README or instruction files in their solution as per the rule 
 ### Sometimes the experience is more CLI based
 
 
+
 ::: ok  
 ![Figure: Some consider this rule (Do you get latest and compile) to be more a “git clone” and then “dotnet run”](dotnet-run.png)  
 :::
@@ -39,13 +41,16 @@ Check they have a README or instruction files in their solution as per the rule 
 ### Sometimes the experience is more Mac-based
 
 
+
 ::: ok  
 ![Figure: On a MacBook, if you hold down the Fn key, the touch bar will show F buttons](mac-f5-key.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: On a MacBook, VSCode has a run button to launch the debugger (similar to F5)](macbook-vscode-run-button.png)  
 :::
+
 
 ::: ok  
 ![Figure: On a MacBook, Visual Studio for Mac is similar to VSCode but less obvious, since it looks more like XCode](macbook-visualstudio-run-button.png)  

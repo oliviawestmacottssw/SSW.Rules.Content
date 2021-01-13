@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - add-ssw-only-content
+- sharepoint---do-you-know-how-to-add-ssw-only-content-to-a-rule-internal-only
 - sharepoint-do-you-know-how-to-add-ssw-only-content-to-a-rule-(internal-only)
 
 ---
@@ -22,13 +23,16 @@ Select the element "SSW Internal Block" to show content only internally.
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Use this "SSW Internal Block" style to insert a section for "SSW Only" content](internal-only.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: When signed in, you can see "ssw only" content](ssw-only-signedin.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: When signed off, you cannot  see "ssw only" content](ssw-only-signedoff.jpg)  

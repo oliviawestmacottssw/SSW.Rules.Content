@@ -8,6 +8,7 @@ created: 2012-11-27T08:44:11.0000000Z
 authors: []
 related: []
 redirects:
+- control-choice---do-you-use-a-gridview-over-the-listbox
 - control-choice-do-you-use-a-gridview-(over-the-listbox)
 
 ---
@@ -16,9 +17,11 @@ A GridView provides much richer features than ListBox, you can easily add a chec
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Use the ListBox.](../../assets/BadUseListBox.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Use GridView and add the enabled checkbox on the header](../../assets/GoodUseGridView.jpg)  

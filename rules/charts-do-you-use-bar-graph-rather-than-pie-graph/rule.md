@@ -7,7 +7,8 @@ uri: charts-do-you-use-bar-graph-rather-than-pie-graph
 created: 2014-12-01T05:54:53.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- charts---do-you-use-bar-graph-rather-than-pie-graph
 
 ---
 
@@ -28,13 +29,16 @@ This is a fancy way of saying use the right graph for  the right purpose. Pie gr
 
 Pie graphs are used to show the general composition of an element. It's good for seeing at a glance what section is dominating, but it doesn't handle details very well.
 
+
 ::: bad  
 ![Figure: Bad Example - This Pie Graph is too complicated and difficult to understand.](../../assets/PieGraph.gif)  
 :::
 
+
 ::: good  
 ![Figure: Good Example - This Pie Graph has been simplified and it is easy to see at a glance that Nike sold the most sneakers this month compared to others.](../../assets/PieGraph-Good.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - This Bar Graph data hasn't even been processed but it's still readable.](../../assets/BarGraph.gif)  

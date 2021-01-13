@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - avoid-using-select-when-inserting-data
+- stored-procedures---do-you-avoid-using-select--when-inserting-data
 
 ---
 
@@ -19,12 +20,15 @@ Using a statement like "INSERT tableName SELECT \* FROM otherTable", makes your 
 
 <!--endintro-->
 
+
+
+```
 USE [ParaGreg]
 GO
-/\*\*\*\*\*\* Object: StoredProcedure [dbo].[procMove] Script Date: 08/08/2008 12:18:33 \*\*\*\*\*\*/
-SET ANSI\_NULLS ON
+/****** Object: StoredProcedure [dbo].[procMove] Script Date: 08/08/2008 12:18:33 ******/
+SET ANSI_NULLS ON
 GO
-SET QUOTED\_IDENTIFIER ON
+SET QUOTED_IDENTIFIER ON
 GO
 ALTER PROCEDURE [dbo].[procMove]
 @id AS Char,
@@ -33,7 +37,7 @@ AS
 IF @direction = 0
 BEGIN
  INSERT INTO ParaRight
- SELECT \* FROM ParaLeft
+ SELECT * FROM ParaLeft
  WHERE ParaID = @id
  DELETE FROM ParaLeft
  WHERE ParaID = @id
@@ -41,23 +45,29 @@ END
 ELSE IF @direction = 1
 BEGIN
  INSERT INTO ParaLeft
- SELECT \* FROM ParaRight
+ SELECT * FROM ParaRight
  WHERE ParaID = @id
  DELETE FROM ParaRight
  WHERE ParaID = @id
 END
+```
+
+
 
 ::: bad
 Figure: Bad Example - Using SELECT \* when inserting data. Besides, this stored procedure should have an Else section to raise error when no condition is satisfied
 
 :::
 
+
+
+```
 USE [ParaGreg]
 GO
-/\*\*\*\*\*\* Object: StoredProcedure [dbo].[procMove] Script Date: 08/08/2008 12:18:33 \*\*\*\*\*\*/
-SET ANSI\_NULLS ON
+/****** Object: StoredProcedure [dbo].[procMove] Script Date: 08/08/2008 12:18:33 ******/
+SET ANSI_NULLS ON
 GO
-SET QUOTED\_IDENTIFIER ON
+SET QUOTED_IDENTIFIER ON
 GO
 ALTER PROCEDURE [dbo].[procMove]
 @id AS Char,
@@ -74,13 +84,16 @@ END
 ELSE IF @direction = 1
 BEGIN
  INSERT INTO ParaLeft
- SELECT \* FROM ParaRight
+ SELECT * FROM ParaRight
  WHERE ParaID = @id
  DELETE FROM ParaRight
  WHERE ParaID = @id
 END
 ELSE BEGIN PRINT "Please use a correct direction"
  END
+```
+
+
 
 ::: good
 Figure: Good Example - Using concrete columns instead of \* and provide an Else section to raise errors

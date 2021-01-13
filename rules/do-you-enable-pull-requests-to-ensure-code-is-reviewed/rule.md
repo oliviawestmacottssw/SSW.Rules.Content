@@ -22,6 +22,7 @@ redirects:
 ![Figure: Bad example - Every developer commits to the master branch, code is not reviewed, and code quality is poor](github-pullrequest-bad-2.png)  
 :::
 
+
 ::: bad  
 ![Figure: Bad example - Use the out of the box pull requests to ensure all code is reviewed](github-pullrequest-bad.png)  
 :::
@@ -29,9 +30,11 @@ redirects:
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good example - Use the plugin "Reviewable". Reviewable improves pull requests and code reviews with a powerful UI and easy code commenting. See the Reviewable icon above](github-pullrequest-1.png)  
 :::
+
 
 ::: ok  
 ![Figure: See how easy it is to see the code rejectedUseful resources - learn about Pull Requestshttps://www.visualstudio.com/learn/git-pull-requests/https://www.visualstudio.com/en-us/docs/git/pull-requests/https://yangsu.github.io/pull-request-tutorial/](github-pullrequest-2.png)  

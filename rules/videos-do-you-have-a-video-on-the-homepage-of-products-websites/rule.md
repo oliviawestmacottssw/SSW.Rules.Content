@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- videos---do-you-have-a-video-on-the-homepage-of-products-websites
 
 ---
 
@@ -18,6 +19,7 @@ The best way to show the features of a product is creating a video. The informat
 Videos are also important for services, but for products, it should be **on the homepage** .
 
 <!--endintro-->
+
 
 ::: good  
 ![Good Example - Dropbox homepage has no text but a video that shows nicely how it works](dropbox-homepage.jpg)  

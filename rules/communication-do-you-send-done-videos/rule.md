@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-send-done-videos
+- communication---do-you-send-done-videos
 
 ---
 

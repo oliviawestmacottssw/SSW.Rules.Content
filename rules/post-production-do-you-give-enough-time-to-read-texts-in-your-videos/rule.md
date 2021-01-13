@@ -15,7 +15,8 @@ authors:
 - title: Toby Goodman
   url: https://ssw.com.au/people/toby-goodman
 related: []
-redirects: []
+redirects:
+- post-production---do-you-give-enough-time-to-read-texts-in-your-videos
 
 ---
 

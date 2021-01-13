@@ -18,12 +18,14 @@ When you build the test project, the tests appear in Test Explorer. If Test Expl
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Test Explorer](test-explorer.jpg)  
 :::
 
 As you run, write, and rerun your tests, Test Explorer displays the results in default groups of Failed Tests, Passed Tests, Skipped Tests and Not Run Tests. You can change the way Test Explorer groups your tests.
 You can perform much of the work of finding, organizing and running tests from the Test Explorer toolbar.
+
 
 ::: ok  
 ![Figure: Run Tests](run-tests.jpg)  

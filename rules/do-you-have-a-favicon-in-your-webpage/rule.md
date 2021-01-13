@@ -20,9 +20,11 @@ A Favicon is a small image file included on professionally developed sites. The 
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - When you don't add a favicon the user sees a generic icon](favicon-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Using the favicon gives your website professional look and feel](favicon-good.jpg)  

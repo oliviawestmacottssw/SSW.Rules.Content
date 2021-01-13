@@ -24,7 +24,14 @@ Don't lose your Google juice when you rename a file. Do not use META refresh to 
 
 Any time you move a page or just delete a page you should add a "301" redirect to a new page or a page for missing pages.
 
-1. You can add a 301 redirect in code    &lt;% Response.RedirectPermanent("NEW PAGE URL HERE") %&gt;
+1. You can add a 301 redirect in code
+
+
+```
+<% Response.RedirectPermanent("NEW PAGE URL HERE") %>
+```
+
+
 Although this works well it is difficult to manage the list of redirects and you need to keep the page around.
 2. **You can write an HTTP handler** 
 This is better as you can choose where to store the redirect list, but you still need to manage a custom codebase.

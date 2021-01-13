@@ -20,6 +20,9 @@ Enter Intro Text
 
 Instead of:
 
+
+
+```
 private void RaiseUpdateOnExistingLotReceived()
 {
 if (ExistingLotUpdated != null)
@@ -27,10 +30,16 @@ if (ExistingLotUpdated != null)
 ExistingLotUpdated();
 }
 }
+```
+
+
 
 ...use this event extension method:
 
-public static void Raise&lt;t&gt;(this EventHandler&lt;t&gt; @event,
+
+
+```
+public static void Raise<t>(this EventHandler<t> @event,
 object sender, T args) where T : EventArgs
 {
 var temp = @event;
@@ -47,13 +56,28 @@ if (temp != null)
 temp();
 }
 }
+```
+
+
 
 That means that instead of calling:
 
+
+
+```
 RaiseExistingLotUpdated();
+```
+
+
 
 ...you can do:
 
+
+
+```
 ExistingLotUpdated.Raise();
+```
+
+
 
 Less code = less code to maintain = less code to be blamed for ;)

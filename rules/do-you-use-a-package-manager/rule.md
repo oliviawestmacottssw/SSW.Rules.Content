@@ -17,6 +17,7 @@ A package manager is a collection of software tools that automate the process of
 
 <!--endintro-->
 
+
 ::: ok  
 ![](chocolatey.png)  
 :::

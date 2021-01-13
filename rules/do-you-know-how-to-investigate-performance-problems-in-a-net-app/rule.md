@@ -47,17 +47,20 @@ Application Insights can help determine which tier of an application is performi
 
 Query Store is like having a light-weight version of SQL Profiler running all the time, and is enabled at a database level using the Database Properties dialog:
 
+
 ::: ok  
 ![Figure: Read Write indicates that the Query Store is setup to help us a few days later](QueryStore1.png)  
 :::
 
 Once Query Store has been enabled for a particular database, it needs to run for a number of days to collect performance data.  It is generally a good idea to enable Query Store for important production databases      **before** performance problems occur.  Detailed information on regressed queries, overall resource consumption, the worst performing queries, and detailed information such as query plans for a specific SQL statement can then be retrieved using SQL Server Management Studio (SSMS).
 
+
 ::: ok  
 ![Figure: A couple of days later… Query Store can now be queried to determine which queries are now performing poorly](QueryStore3.png)  
 :::
 
 Once Query Store has been collecting performance information on a database for an extended period, a rich collection of information is available.  It is possible to show regressed queries by comparing a Recent time interval (2 weeks in the diagram below) compared to a baseline History period (the Last Year in the diagram below) to see queries that have begun to perform poorly.
+
 
 ::: ok  
 ![Figure: The query store can show the top 25 regressed queries in the last 2 weeks and give suggestions on how to improve them](QueryStore2.png)  
@@ -86,6 +89,7 @@ All of these readings can be broken down using the  statistical measures of:
 
 
 As with the Regressed Queries tab, the query plan history and details of a particular query plan are available for inspection. This provides all the required information to track down the part of the application that is calling the poorly performing SQL, and also provides insight into how to fix the poor performance depending on which SQL step is taking the most time.
+
 
 ::: ok  
 ![](QueryStore4.png)  

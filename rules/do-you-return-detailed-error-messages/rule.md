@@ -40,17 +40,29 @@ ASP.Net Core has built in support for the problem details specification. You can
 
 Error messages should contain a sufficient level of information that a developer or consuming client can act upon.
 
+
+
+```
 {
     "errorMessage": "An error has occurred."
 }
+```
+
+
 
 ::: bad
 Figure: Bad Example - The error message does not contain information that can be acted upon.  
 :::
 
+
+
+```
 {
     "errorMessage": "Client ID is a required field. Please provide a Client ID."
 }
+```
+
+
 
 ::: good
 Figure: Good Example - The error message provides explicit detail and a short description on how to fix the issue.  
@@ -59,6 +71,9 @@ Figure: Good Example - The error message provides explicit detail and a short de
 ### ...But no more verbose than that
 
 
+
+
+```
 HTTP/1.1 500 Internal Server Error
 Transfer-Encoding: chunked
 Content-Type: text/plain
@@ -67,27 +82,30 @@ X-Powered-By: ASP.NET
 Date: Fri, 27 Sep 2019 16:13:16 GMT
 
 System.ArgumentException: We don't offer a weather forecast for chicago. (Parameter 'city')
-   at WebApiSample.Controllers.WeatherForecastController.Get(String city) in C:\working\_folder\aspnet\AspNetCore.Docs\aspnetcore\web-api\handle-errors\samples\3.x\Controllers\WeatherForecastController.cs:line 34
-   at lambda\_method(Closure , Object , Object[] )
+   at WebApiSample.Controllers.WeatherForecastController.Get(String city) in C:\working_folder\aspnet\AspNetCore.Docs\aspnetcore\web-api\handle-errors\samples\3.x\Controllers\WeatherForecastController.cs:line 34
+   at lambda_method(Closure , Object , Object[] )
    at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
    at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
-   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.&lt;InvokeActionMethodAsync&gt;g\_\_Logged|12\_1(ControllerActionInvoker invoker)
-   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.&lt;InvokeNextActionFilterAsync&gt;g\_\_Awaited|10\_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
 --- End of stack trace from previous location where exception was thrown ---
-   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeFilterPipelineAsync&gt;g\_\_Awaited|19\_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
-   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g\_\_Logged|17\_1(ResourceInvoker invoker)
-   at Microsoft.AspNetCore.Routing.EndpointMiddleware.&lt;Invoke&gt;g\_\_AwaitRequestTask|6\_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
    at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
    at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
 
 HEADERS
 =======
-Accept: \*/\*
+Accept: */*
 Host: localhost:44312
 User-Agent: curl/7.55.1
+```
+
+
 
 ::: bad
 Figure: Bad Example - this level of data should not be returned in a production environment
@@ -98,18 +116,30 @@ Figure: Bad Example - this level of data should not be returned in a production 
 
 A tracking or correlation ID will allow the consuming clients to provide the API developers with a reference point in their logs.
 
+
+
+```
 {
     "errorMessage": "An error has occurred. Please contact technical support"
 }
+```
+
+
 
 ::: bad
 Figure: Bad Example - No tracking or correlation ID is provided.  
 :::
 
+
+
+```
 {
     "errorMessage": "An error has occurred. Please contact technical support",
     "errorId": "3022af02-482e-4c06-885a-81d811ce9b34"
 }
+```
+
+
 
 ::: good
 Figure: Good Exmaple - A error ID is provided as part of the reponse.  
@@ -119,25 +149,48 @@ Figure: Good Exmaple - A error ID is provided as part of the reponse.
 
 Providing a URI to an additional help resources as part of your request will allow consuming clients to find additional resources or documentation that relates to the defined problem.
 
-`{
-    "ErrorType": "DoesNotExist",
-    "Id": "3022af02-482e-4c06-885a-81d811ce9b34",
-    "Message": "No Client with a ID of 999999999 was found",
-    "StatusCode": 404
-}`
+
+
+```
+{
+  
+  "ErrorType": "DoesNotExist",
+  
+  "Id": "3022af02-482e-4c06-885a-81d811ce9b34",
+  
+  "Message": "No Client with a ID of 999999999 was found",
+  
+  "StatusCode": 404
+
+}
+```
+
+
 
 ::: bad
 ``Figure: Bad Example - No Help Link Provided
 
 :::
 
-`{
-    "ErrorType": "DoesNotExist",
-    "HelpLink": "http://www.myapiapplication/api/help/doesnotexist",
-    "Id": "3022af02-482e-4c06-885a-81d811ce9b34",
-    "Message": "No Client with a ID of 999999999 was found",
-    "StatusCode": 404
-}`
+
+
+```
+{
+  
+  "ErrorType": "DoesNotExist",
+  
+  "HelpLink": "http://www.myapiapplication/api/help/doesnotexist",
+  
+  "Id": "3022af02-482e-4c06-885a-81d811ce9b34",
+  
+  "Message": "No Client with a ID of 999999999 was found",
+  
+  "StatusCode": 404
+
+}
+```
+
+
 
 ::: good
 Figure: Good Example - A help link is provided as part of the response.

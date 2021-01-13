@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - do-you-know-what-to-tweet
+- twitter---do-you-know-to-tweet-relevant-stuff-only
 
 ---
 
@@ -22,6 +23,7 @@ Your tweets should be interesting to your target audience. People aren't going t
 
 
 <!--endintro-->
+
 
 ::: bad  
 ![Bad Example - "Having lunch" is not an interesting tweet](twitter-boring-tweet.png)  
@@ -36,6 +38,7 @@ Some good examples of things to tweet about:
 
     * Installing #SharePoint for the first time
     * #SharePoint install done - found a great guide to follow here: www.example.com
+
 
 
 ::: good  

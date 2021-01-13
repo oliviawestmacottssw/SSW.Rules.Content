@@ -22,6 +22,7 @@ The same works for your work colleagues.
 
 <!--endintro-->
 
+
 ::: good  
 ![Good Example: Bing - Find your files faster by just searching on Bing](bing-recent-files.png)  
 :::
@@ -29,6 +30,7 @@ The same works for your work colleagues.
 **Suggestion to Microsoft:** Put a checkbox "Show thumbnails" like Delve.
 
 In a slower way, you can go to Delve to see this information with a different UI with big images.
+
 
 ::: bad  
 ![Bad Example: Delve - Is harder to get to and the UI doesn't offer a summary view like Bing](delve-recent-files.png)  

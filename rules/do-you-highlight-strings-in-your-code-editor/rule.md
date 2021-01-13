@@ -18,13 +18,16 @@ redirects: []
 It is a good practice to highlight string variables or const in source code editor of Visual Studio to make them clear. Strings can be easily found especially you have long source code.   
 <!--endintro-->
 
+
 ::: bad  
 ![Default string appearance](HighlightString\_bad\_small.gif)  
 :::
 
+
 ::: good  
 ![Highlighted string appearance](HighlightString\_good\_small.jpg)  
 :::
+
 
 ::: good  
 ![Tools | Options form of Visual Studio](HighlightString\_VSOption\_small.gif)  

@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - secure-your-server-by-changing-the-defaults
+- dbas---do-you-secure-your-server-by-changing-the-defaults
 
 ---
 

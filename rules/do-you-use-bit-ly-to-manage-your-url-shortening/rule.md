@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- do-you-use-bitly-to-manage-your-url-shortening
 
 ---
 
@@ -22,9 +23,11 @@ Bitly helps you easily save & share links over the web. You can:
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: bit.ly provides a detailed stats page for all your links](bitly-stats-general.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: bit.ly provides a detailed stats page for a single link](bitly-stats.jpg)  

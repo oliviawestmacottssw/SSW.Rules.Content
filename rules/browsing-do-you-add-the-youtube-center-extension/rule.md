@@ -9,7 +9,8 @@ authors:
 - title: Mehmet Ozdemir
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
-redirects: []
+redirects:
+- browsing---do-you-add-the-youtube-center-extension
 
 ---
 

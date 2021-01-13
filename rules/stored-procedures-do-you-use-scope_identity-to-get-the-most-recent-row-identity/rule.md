@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-scope_identity-to-get-the-most-recent-row-identity
+- stored-procedures---do-you-use-scope_identity-to-get-the-most-recent-row-identity
 - stored-procedures-do-you-use-scope_identity()-to-get-the-most-recent-row-identity
 
 ---
@@ -21,61 +22,71 @@ When inserting a row in a stored procedure, always use SCOPE\_IDENTITY() if you 
 
 Behold this example from SQL Server Books online.
 
+
+
+```
 USE tempdb
 GO
 CREATE TABLE TZ (
- Z\_id int IDENTITY(1,1)PRIMARY KEY,
- Z\_name varchar(20) NOT NULL)
+ Z_id int IDENTITY(1,1)PRIMARY KEY,
+ Z_name varchar(20) NOT NULL)
 INSERT TZ
  VALUES ('Lisa')
 INSERT TZ
  VALUES ('Mike')
 INSERT TZ
  VALUES ('Carla')
-SELECT \* FROM TZ
+SELECT * FROM TZ
 --Result set: This is how table TZ looks.
-Z\_id Z\_name
+Z_id Z_name
 -------------
 1 Lisa
 2 Mike
 3 Carla
 CREATE TABLE TY (
- Y\_id int IDENTITY(100,5)PRIMARY KEY,
- Y\_name varchar(20) NULL)
-INSERT TY (Y\_name)
+ Y_id int IDENTITY(100,5)PRIMARY KEY,
+ Y_name varchar(20) NULL)
+INSERT TY (Y_name)
  VALUES ('boathouse')
-INSERT TY (Y\_name)
+INSERT TY (Y_name)
  VALUES ('rocks')
-INSERT TY (Y\_name)
+INSERT TY (Y_name)
  VALUES ('elevator')
-SELECT \* FROM TY
+SELECT * FROM TY
 --Result set: This is how TY looks:
-Y\_id Y\_name
+Y_id Y_name
 ---------------
 100 boathouse
 105 rocks
 110 elevator
-/\*Create the trigger that inserts a row in table TY 
-when a row is inserted in table TZ\*/
+/*Create the trigger that inserts a row in table TY 
+when a row is inserted in table TZ*/
 CREATE TRIGGER Ztrig
 ON TZ
 FOR INSERT AS 
  BEGIN
  INSERT TY VALUES ('')
  END
-/\*FIRE the trigger and determine what identity values you obtain 
-with the @@IDENTITY and SCOPE\_IDENTITY functions.\*/
+/*FIRE the trigger and determine what identity values you obtain 
+with the @@IDENTITY and SCOPE_IDENTITY functions.*/
 INSERT TZ VALUES ('Rosalie')
-SELECT SCOPE\_IDENTITY() AS [SCOPE\_IDENTITY]
+SELECT SCOPE_IDENTITY() AS [SCOPE_IDENTITY]
 GO
 SELECT @@IDENTITY AS [@@IDENTITY]
 GO
+```
+
+
 
 Notice the difference in the result sets. As you can see, it's crucial that you understand the difference between the 2 commands in order to get the correct ID of the row you just inserted.
 
-SCOPE\_IDENTITY
+
+
+```
+SCOPE_IDENTITY
 4
-/\*SCOPE\_IDENTITY returned the last identity value in the same scope. This was the insert on table TZ.\*/
+/*SCOPE_IDENTITY returned the last identity value in the same scope. This was the insert on table TZ.*/
 @@IDENTITY
 115
-/\*@@IDENTITY returned the last identity value inserted to TY by the trigger. This fired because of an earlier insert on TZ.\*/
+/*@@IDENTITY returned the last identity value inserted to TY by the trigger. This fired because of an earlier insert on TZ.*/
+```

@@ -11,7 +11,8 @@ authors:
 - title: Martin Hinshelwood
   url: https://ssw.com.au/people/martin-hinshelwood
 related: []
-redirects: []
+redirects:
+- done---do-you-know-when-to-send-a-done-email-in-scrum
 
 ---
 
@@ -54,6 +55,7 @@ Here is the [Done Criteria](/done-do-you-go-beyond-done-and-follow-a-definition-
 
 
 Then add an illustration to show this.
+
 
 ::: good  
 ![Figure: Good example -  This is proof you have met your 'Done criteria'.](ProveDoneCriteria.png)  

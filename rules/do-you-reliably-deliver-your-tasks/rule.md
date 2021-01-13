@@ -17,6 +17,7 @@ Some tasks are either time-critical or you give a promise to do them promptly. I
 
 If you're not going to be able to deliver a task on-time, you should let the appropriate people know right away.
 
+
 ::: good  
 ![Figure: Some tasks are time critical. If you have agreed on something then notify the person when you know you will miss the deadline.You could use your Inbox as a priority list by sending yourself email with an estimate and the priority. Also you are supposed CC other who you think should know about this, so that they could give you some advice and know what is going on here. (Link:        do-you-send-yourself-emails)](../../assets/tickingclock.JPG)  
 :::

@@ -23,9 +23,11 @@ Keys, we all have them. A key for the front door, a key for the garage, a key to
 
 If you allocate each individual lock a color and then tag or colour your keys to match, you can save a lot of time and effort identifying the correct key.
 
+
 ::: bad  
 ![Figure: Bad example - Figure: Bad Example - a key bunch with no color-coding, total anarchy!](keys 2.JPG)  
 :::
+
 
 ::: good  
 ![Figure: Good example - color-coded keys with labels, perfect order.](keys 1.JPG)  

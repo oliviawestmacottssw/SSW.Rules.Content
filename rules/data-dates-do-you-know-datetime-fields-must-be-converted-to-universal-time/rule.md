@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - datetime-fields-must-be-converted-to-universal-time
+- data---dates---do-you-know-datetime-fields-must-be-converted-to-universal-time
 
 ---
 
@@ -25,6 +26,9 @@ We can simplify dealing with datetime conversions by using a date and time API s
 Noda Time uses the concept of an Instant representing a global point in time, which is first converted to UTC time and then to the users local time when required for display.
 An Instant is the number of nanoseconds since January 1st 1970. Using an Instant gives more granularity than datetime because it uses nanoseconds rather than ticks (100 nanoseconds).
 
+
+
+```
 //------ .NET DateTime Examples
 int year, month, day;
 int hour, minute, second;
@@ -47,13 +51,13 @@ second = time.Seconds;
 
 int startDate = (int)date.DayOfWeek;
 int target = (int)DayOfWeek.Wednesday;
-if (target &lt;= startDate)
+if (target <= startDate)
     target += 7;
 DateTime nextWednesday = date.AddDays(target - startDate);     //     8/01/2020 12:00:00 AM
 
 startDate = (int)date.DayOfWeek;
 target = (int)DayOfWeek.Friday;
-if (target &gt; startDate)
+if (target > startDate)
     target -= 7;
 DateTime lastFriday = date.AddDays(-(startDate - target));         //     27/12/2019 12:00:00 AM
 
@@ -63,22 +67,28 @@ TimeSpan t2 = TimeSpan.FromHours(1.0);
 int timespanCheck = TimeSpan.Compare(t1, t2);
 TimeSpan longestSpan;
 TimeSpan shortestSpan;
-if(timespanCheck &gt; 0)
+if(timespanCheck > 0)
 {
     longestSpan = t1;
     shortestSpan = t2;
 } 
-else if(timespanCheck &lt; 0)
+else if(timespanCheck < 0)
 {
     shortestSpan = t1;
     longestSpan = t2;
 }
+```
+
+
 
 ::: bad
 Figure: Bad Example - Using .Net DateTime to manipulate dates and times.
 
 :::
 
+
+
+```
 //------    Noda Time Examples
 int year, month, day;
 int hour, minute, second;
@@ -103,6 +113,9 @@ Duration d1 = Duration.FromDays(1);
 Duration d2 = Duration.FromHours(1);
 Duration longestDuration = Duration.Max(d1, d2);
 Duration shortestDuration = Duration.Min(d1, d2);
+```
+
+
 
 ::: good
 Figure: Good Example - Using Noda Time to manipulate dates and times.
@@ -130,12 +143,18 @@ Currently, there will be an issue if for example, someone from the US (Pacific t
 Our servers will store it as 21/04/05 19:00:00 in other words 21/04/05 07:00:00 PM because the .NET Framework will automatically convert the time accordingly for our Web Service.
 Therefore our servers have to take the Date component of the DateTime and add the Time component as 12:00:00 AM to make it stored in our local time format.
 
+
+
+```
 [WebMethod] 
 public double GetDateDifference(DateTime dateRemote) 
 { 
 DateTime dateLocal = dateRemote.Date; 
 return (dateRemote.TimeOfDay.TotalHours - dateLocal.TimeOfDay.TotalHours); 
 }
+```
+
+
 
 **Figure: When dateRemote is passed in from the remote machine, .Net Framework will have already converted it to the UTC equivalent for the local server (i.e. the necessary hours would have been added to cater for the local server time).**
 

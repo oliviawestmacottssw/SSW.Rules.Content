@@ -7,7 +7,8 @@ uri: less-is-more-do-you-know-people-scan-not-read
 created: 2012-11-27T01:44:03.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- less-is-more---do-you-know-people-scan-not-read
 
 ---
 
@@ -22,9 +23,11 @@ It is important to divide information, not show it all at once. The visual organ
 3. Importance and relevance of elements
 
 
+
 ::: bad  
 ![Figure: Bad example - Can you find how to check in?](../../assets/bad\_informationscan.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example - What about here? Can you find how to check in?](../../assets/good\_informationscan.png)  
@@ -32,9 +35,11 @@ It is important to divide information, not show it all at once. The visual organ
 
 Another example of scanning, not reading is visually mapping.
 
+
 ::: bad  
 ![Figure: Bad Example - Which is the dial that controls the top-right stove?](../../assets/Bad-Mapping.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - In this layout, it's easy to see which dial controls which stove](../../assets/Good-Mapping.jpg)  

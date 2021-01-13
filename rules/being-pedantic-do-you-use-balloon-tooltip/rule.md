@@ -7,7 +7,8 @@ uri: being-pedantic-do-you-use-balloon-tooltip
 created: 2012-11-27T09:23:38.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- being-pedantic---do-you-use-balloon-tooltip
 
 ---
 
@@ -15,9 +16,11 @@ The standard tooltip is a rectangle, so the tool tip for the control can be misl
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Standard tooltip.](../../assets/BadTooltip.gif)  
 :::
+
 
 ::: good  
 ![Figure: Balloon tooltip.](../../assets/GoodTooltip.gif)  

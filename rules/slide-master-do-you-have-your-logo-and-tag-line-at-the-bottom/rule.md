@@ -7,7 +7,8 @@ uri: slide-master-do-you-have-your-logo-and-tag-line-at-the-bottom
 created: 2010-06-08T08:41:21.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- slide-master---do-you-have-your-logo-and-tag-line-at-the-bottom
 
 ---
 
@@ -21,9 +22,11 @@ Neither of these elements are intended to distract, so they are placed in the fo
 
 Adding the tag line and logo in the slide master will duplicate it automatically across all slides. This will dictate the size and font of text present on all slides.
 
+
 ::: ok  
 ![Figure: Step 1 - Click 'Slide Master' button on the 'View' ribbon](tagLine.gif)  
 :::
+
 
 ::: ok  
 ![Figure: Step 2 - Add your Logo and Tagline at bottom of the slide](tagLine.gif)  

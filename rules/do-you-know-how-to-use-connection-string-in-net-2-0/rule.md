@@ -11,7 +11,8 @@ authors:
 - title: Ryan Tee
   url: https://ssw.com.au/people/ryan-tee
 related: []
-redirects: []
+redirects:
+- do-you-know-how-to-use-connection-string-in-net-20
 
 ---
 
@@ -38,11 +39,13 @@ In .NET 2.0 you can access it in another way
 
 Step 1: Setup your settings in your common project. E.g. Northwind.Common
 
+
 ::: ok  
 ![Figure: Settings in Project Properties](ConnStringNET2\_Settings.jpg)  
 :::
 
 Step 2: Open up the generated App.config under your common project. E.g. Northwind.Common/App.config
+
 
 ::: ok  
 ![Figure: Auto generated app.config](ConnStringNET2\_CommonApp.GIF)  

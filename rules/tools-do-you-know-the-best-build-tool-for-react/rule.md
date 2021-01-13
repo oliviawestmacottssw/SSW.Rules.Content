@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - the-best-build-tool-for-react
+- tools---do-you-know-the-best-build-tool-for-react
 
 ---
 
@@ -30,7 +31,13 @@ Creating a Production Build of a React project is complicated, you need great to
 ### Create React App
 
 
+
+
+```
 npm run build
+```
+
+
 
 **Create React App ** uses Webpack under the hood.npm run build creates a build directory with a production build of your app. See:
 

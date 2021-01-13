@@ -17,6 +17,7 @@ Among other things, it means never sending attachments in an email. Once an atta
 
 <!--endintro-->
  SharePoint changes this by allowing you to easily email a link to a SharePoint file. This means all recipients review and edit the single "master version" of the file. 
+
 ::: good  
 ![Figure: Good example: Email a link, not a file](share-link1.jpg)  
 :::

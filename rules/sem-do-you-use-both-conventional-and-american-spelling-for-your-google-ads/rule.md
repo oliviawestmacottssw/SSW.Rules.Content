@@ -12,6 +12,7 @@ related: []
 redirects:
 - use-both-english-spelling-on-google-ads
 - do-you-use-both-conventional-and-american-spelling-for-your-google-adwords
+- sem---do-you-use-both-conventional-and-american-spelling-for-your-google-ads
 
 ---
 

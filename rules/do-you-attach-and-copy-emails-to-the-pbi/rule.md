@@ -27,13 +27,16 @@ While working on a task or PBI, it is very important that you save any discussio
 
 <!--endintro-->
 
+
 ::: bad  
 ![Bad Example: An important research task that hasn't is missing records of communication](no-email-attached.png)  
 :::
 
+
 ::: good  
 ![Good Example: Email is copied to the description](email-in-the-description.png)  
 :::
+
 
 ::: good  
 ![Good Example: Related emails are attached to the PBI](email-attached-to-the-pbi.png)  

@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - submit-all-dates-to-sql-server-in-iso-format
+- middle-tier---do-you-submit-all-dates-to-sql-server-in-iso-format
 
 ---
 
@@ -18,6 +19,9 @@ All dates submitted to SQL Server must be in ISO format date. This ensures that 
 
 <!--endintro-->
 
+
+
+```
 SET DATEFORMAT mdy
 
  print convert( datetime, '2020-07-01' )
@@ -45,6 +49,9 @@ SET DATEFORMAT dmy
  print convert( datetime, '20200701' )
 
  -- returns Jul 1 2020 12:00AM, only one which is same as above
+```
+
+
 
 ::: good
 Code - ISO format date is the best

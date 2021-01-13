@@ -38,6 +38,7 @@ This is the most common and the worst. This is bad because it requires manual ef
 
 
 
+
 ::: bad  
 ![Figure: Bad Example – creating resources manually](azure resources.gif)  
 :::
@@ -49,9 +50,11 @@ This is the most common and the worst. This is bad because it requires manual ef
 
 Some people half solve the problem by manually creating and saving the script. This is also bad because it’s like eating ice cream and brushing your teeth – it doesn’t solve the      **health** problem.
 
+
 ::: bad  
 ![Figure: Bad Example – Exporting your Resource Group as an ARM template defined in JSON](create-azure-bad2.png)  
 :::
+
 
 
 
@@ -67,6 +70,7 @@ Some people half solve the problem by manually creating and saving the script. T
 ::: greybox
  **Tip:** Save scripts in a folder called Azure  
 :::
+
 
 
 
@@ -121,6 +125,7 @@ https://github.com/Azure/bicep
 
 
 
+
 ::: good  
 ![Figure: Good Example – using Farmer to define your ARM template in F# code](goldie rules.png)  
 :::
@@ -136,6 +141,7 @@ https://github.com/Azure/bicep
 * Free for individual developers (even for commercial use), but is a paid product for teams &gt; 1
 
 
+
 ::: ok  
 ![](pulumi3.png)  
 :::
@@ -144,6 +150,7 @@ https://github.com/Azure/bicep
 Figure: Good Example - Code from the Pulumi Azure NextGen provider demo with Azure resources defined in C#
 
 :::
+
 
 
 
@@ -161,6 +168,7 @@ Figure: Good Example - From the console simply run 'pulumi up' to deploy your re
 ###  What’s Mainstream?
 
 It’s early days so     [not much help (from Google trends)](https://trends.google.com/trends/explore?q=azure%20pulumi%2cazure%20teraform%2cazure%20ansible%2cazure%20farmer%E2%80%8B) yet.
+
 
 ::: ok  
 ![Figure: Google Trends shows that Terraform is the most searched for as it’s been around the longest and is well established](google trends.png)  

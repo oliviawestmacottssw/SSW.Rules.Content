@@ -9,7 +9,8 @@ authors:
 - title: Adam Stephensen
   url: https://ssw.com.au/people/adam-stephensen
 related: []
-redirects: []
+redirects:
+- do-you-know-the-easiest-way-to-continuously-deploy-is-to-use-visualstudiocom-and-azure
 
 ---
 

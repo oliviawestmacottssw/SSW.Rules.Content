@@ -19,13 +19,16 @@ Icons make your user interface clean, but users sometimes need further informati
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good Example - Tooltips](kendo-tooltips.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: When adding Kendo Tooltips to Icons in the Kendo Grid, the Tooltip JavaScript needs to be executed as the page is bound or else the tooltips will not exist after a new page of data is selected](kendo-adding-tooltips.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Common JavaScript library: add the EnableEditLinks() method/dd&gt;](kendo-commonJS.jpg)  

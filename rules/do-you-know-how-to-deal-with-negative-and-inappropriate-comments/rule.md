@@ -47,9 +47,11 @@ Making sure everyone from your team is on the same page about how to approach th
 
 You can use social media monitoring tools to keep track of the comments you get on social media, like Zendesk or Hootsuite.
 
+
 ::: ok  
 ![Figure: This is Zendesk UI to help you reply to comments on social media - You can reply, mark as solved, open or pending through the platform](commentsonzendesk.png)  
 :::
+
 
 ::: ok  
 ![Figure: This is Hootsuite UI to manage comments (more expensive)](engagement-new-streams.png)  
@@ -60,9 +62,11 @@ You can use social media monitoring tools to keep track of the comments you get 
 
 Facebook has a nice functionality where if you hide a comment, the user who posted it (and the page manager) can still see it. This hide functionality is useful as it doesn’t inflame the situation. On other platforms, you have to either publicly comment to indicate that the message is against your company’s values or report the comment to hide it.
 
+
 ::: ok  
 ![Figure: Facebook allows you to hide or report a comment](Screen Shot 2020-06-02 at 8.37.31 am.png)  
 :::
+
 
 ::: ok  
 ![Figure: A few options Facebook gives you when reporting a comment](Screen Shot 2020-06-02 at 8.38.01 am.png)  

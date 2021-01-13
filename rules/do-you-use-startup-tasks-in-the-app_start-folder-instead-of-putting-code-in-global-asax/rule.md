@@ -9,7 +9,8 @@ authors:
 - title: Damian Brady
   url: https://ssw.com.au/people/damian-brady
 related: []
-redirects: []
+redirects:
+- do-you-use-startup-tasks-in-the-app_start-folder-instead-of-putting-code-in-globalasax
 
 ---
 
@@ -17,9 +18,11 @@ Adding code to the Application\_Start method in the Global.asax file is the easi
 
 <!--endintro-->
 
+
 ::: bad  
 ![::: greyboxpublic class MvcApplication : System.Web.HttpApplication {     protected void Application\_Start()     {         AreaRegistration.RegisterAllAreas();          routes.IgnoreRoute("{resource}.axd/{\*pathInfo}");          routes.MapRoute(             name: "Default",             url: "{controller}/{action}/{id}",             defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }         );        } }    :::Figure: Bad Example – Logic is implemented in the Application\_Start method which breaks the Single Responsibility Principle](startup-task.jpg)  
 :::
+
 
 ::: good  
 ![::: greyboxpublic class MvcApplication : System.Web.HttpApplication {     protected void Application\_Start()     {         AreaRegistration.RegisterAllAreas();          WebApiConfig.Register(GlobalConfiguration.Configuration);         FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);         RouteConfig.RegisterRoutes(RouteTable.Routes);         BundleConfig.RegisterBundles(BundleTable.Bundles);         AuthConfig.RegisterAuth();     } }   :::        Figure: Good Example – Startup tasks are called from the Application\_Start method but are located in the App\_Start folder](startup-task.jpg)  

@@ -11,7 +11,8 @@ authors:
 - title: Cameron Shaw
   url: https://ssw.com.au/people/cameron-shaw
 related: []
-redirects: []
+redirects:
+- do-you-add-contextreasoning-to-your-emails
 
 ---
 
@@ -19,9 +20,11 @@ When sending an email it is very important to give context and reasoning. This w
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - There is no context or reasoning](BadContextReasoning.GIF)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - There is both context and reasoning](GoodContextReasoning.jpg)  

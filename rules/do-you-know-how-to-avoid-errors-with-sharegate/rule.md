@@ -36,6 +36,7 @@ Copying the content to a MicroFeed list is not supported.
 
 **Source:** https://support.share-gate.com/hc/en-us/articles/115000600227
 
+
 ::: ok  
 ![Figure: errors due to micro feed migration](errors-micro-feed-migration.png)  
 :::

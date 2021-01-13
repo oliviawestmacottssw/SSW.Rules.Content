@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-minimize-team-distractions
+- interruptions---do-you-minimize-microsoft-teams-distractions
 
 ---
 
@@ -24,13 +25,16 @@ redirects:
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Open options (select image in the bottom right) | Notifications](Teams\_1\_FindNotifications.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: Set settings to "Only show in feed" so distracting phone and email alerts aren't sent](Teams\_2\_SetNotifications.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: In Microsoft Teams turn on "Auto-start application". Suggestion to Microsoft: Make this the default](Teams\_4\_ApplicationSettings.jpg)  

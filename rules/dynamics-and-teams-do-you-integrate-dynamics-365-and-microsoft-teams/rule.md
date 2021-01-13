@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - integrate-dynamics-365-and-microsoft-teams
+- dynamics-and-teams---do-you-integrate-dynamics-365-and-microsoft-teams
 
 ---
 
@@ -21,6 +22,7 @@ redirects:
 
 
 <!--endintro-->
+
 
 ::: ok  
 ![Figure: Dynamics 365 tab in MS Teams (also showing the Teams URL field, two birds in one stone)](integration-teams-365.png)  

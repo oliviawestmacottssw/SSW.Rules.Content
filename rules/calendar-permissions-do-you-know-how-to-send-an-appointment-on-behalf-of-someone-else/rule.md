@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - appointments-do-you-know-how-to-add-an-appointment-in-someone-elses-calendar
+- calendar-permissions---do-you-know-how-to-send-an-appointment-on-behalf-of-someone-else
 
 ---
 

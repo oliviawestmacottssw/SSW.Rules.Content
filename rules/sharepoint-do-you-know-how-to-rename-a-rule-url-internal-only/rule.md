@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - rename-a-rule
+- sharepoint---do-you-know-how-to-rename-a-rule-url-internal-only
 - sharepoint-do-you-know-how-to-rename-a-rule-url-(internal-only)
 
 ---

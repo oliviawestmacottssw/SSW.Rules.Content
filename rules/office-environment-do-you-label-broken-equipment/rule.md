@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - do-you-label-broken-equipment
+- office-environment---do-you-label-broken-equipment
 
 ---
 
@@ -26,10 +27,12 @@ When you see something not working like a phone or a PowerPoint, don't ignore it
 
 Create a form that reminds you what is broken, who you have to call to fix it and any notes that may need to ensure that the item in question is fixed properly or replaced.
 
+
 ::: good  
 ![Figure: Good Example - Label broken things](LeaningTowerOfPisa.jpg)  
 :::
  If you want to have a more formal version of the sticky note, the SSW Design Team has created  [this PDF](/Documents/SSW-label-broken-things.pdf) which can be printed and attached to stuff that needs fixing (however, normally just a yellow sticky note and an email does the job just fine) 
+
 ::: good  
 ![Figure: OK Example - Print PDF, fill the form and attach to broken things in the office](broken-things.jpg)  
 :::

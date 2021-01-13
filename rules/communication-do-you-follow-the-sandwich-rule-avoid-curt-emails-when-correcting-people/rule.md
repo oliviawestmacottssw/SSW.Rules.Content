@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-you-follow-the-sandwich-rule
+- communication---do-you-follow-the-sandwich-rule-avoid-curt-emails-when-correcting-people
 - communication-do-you-follow-the-sandwich-rule-(avoid-curt-emails-when-correcting-people)
 
 ---

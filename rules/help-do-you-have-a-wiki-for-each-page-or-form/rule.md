@@ -7,7 +7,8 @@ uri: help-do-you-have-a-wiki-for-each-page-or-form
 created: 2012-11-27T02:10:18.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- help---do-you-have-a-wiki-for-each-page-or-form
 
 ---
 
@@ -53,6 +54,7 @@ There was a bug in Beta2 (fixed in upcoming RC release) wherein even if you have
 
 Hi Mr Northwind
 Figure: Bad Example - The user encounters an issue and has to email someone about it 
+
 ::: good  
 ![Figure: Good Example - The 'Wiki...' link in the bottom left, takes the user to a wiki page with common issues and workarounds for this form (e.g. Creating a Project Portal)](../../assets/InterfacesWiki.png)  
 :::

@@ -9,7 +9,8 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects: []
+redirects:
+- the-team---do-you-have-a-scrum-master-outside-the-dev-team
 
 ---
 

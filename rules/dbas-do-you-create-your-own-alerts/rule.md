@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - create-your-own-alerts
+- dbas---do-you-create-your-own-alerts
 
 ---
 

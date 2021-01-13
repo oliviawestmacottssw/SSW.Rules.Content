@@ -43,6 +43,9 @@ Here's a quick guide in setting it up for your GitHub Repository and Azure DevOp
 
 e.g. SSW uses this template for their projects, you may need to change the new and closed states depending on your environment.
 
+
+
+```
 name: Sync issue to Azure DevOps work item
 on:
   issues:
@@ -55,14 +58,17 @@ jobs:
     steps:
       - uses: danhellem/github-actions-issue-to-work-item@master
         env:
-          ado\_token: "${{ secrets.ADO\_PERSONAL\_ACCESS\_TOKEN }}"
-          github\_token: "${{ secrets.GH\_PERSONAL\_ACCESS\_TOKEN }}"
-          ado\_organization: "${{ secrets.ADO\_ORGANIZATION }}"
-          ado\_project: "${{ secrets.ADO\_PROJECT }}"
-          ado\_wit: "Product Backlog Item"
-          ado\_new\_state: "New"
-          ado\_close\_state: "Done"
-          ado\_bypassrules: true
+          ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}"
+          github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
+          ado_organization: "${{ secrets.ADO_ORGANIZATION }}"
+          ado_project: "${{ secrets.ADO_PROJECT }}"
+          ado_wit: "Product Backlog Item"
+          ado_new_state: "New"
+          ado_close_state: "Done"
+          ado_bypassrules: true
+```
+
+
 
 ::: good
 Figure: Good Example - GitHub Action to Sync Issues to Azure DevOps

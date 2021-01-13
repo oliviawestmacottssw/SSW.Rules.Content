@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - keep-your-stored-procedures-simple
+- stored-procedures---do-you-keep-your-stored-procedures-simple
 
 ---
 
@@ -21,6 +22,9 @@ If you are using the .NET Framework, put validation and defaults in the middle t
 ### 1. Code: Select Procedure
 
 
+
+
+```
 ALTER PROCEDURE dbo.ProductSelect
 @ProductID int
 AS
@@ -28,9 +32,15 @@ SELECT ProductName, SupplierID, CategoryID, QuantityPerUnit, UnitPrice, UnitsInS
 UnitsOnOrder, ReorderLevel, Discontinued, Concurrency
 FROM Products
 WHERE (ProductID= @ProductID)
+```
+
+
 
 ### 2. Code: Insert Procedure
 
+
+
+```
 ALTER PROCEDURE dbo.ProductInsert
 @ProductName nvarchar(40),
 @SupplierID int,
@@ -46,13 +56,19 @@ INSERT INTO Products (ProductName, SupplierID, CategoryID, QuantityPerUnit, Unit
 UnitsInStock, UnitsOnOrder, ReorderLevel, Discontinued)
 VALUES (@ProductName, @SupplierID, @CategoryID, @QuantityPerUnit, @UnitPrice, @UnitsInStock,
 @UnitsOnOrder, @ReorderLevel, @Discontinued, 1)
-SELECT Scope\_Identity() AS [SCOPE\_IDENTITY] --If table has identity column
+SELECT Scope_Identity() AS [SCOPE_IDENTITY] --If table has identity column
 --SELECT @@ROWCOUNT --If table doesn't have identity column
 -- Note: The middle tier must check the ROWCOUNT = 1
+```
+
+
 
 ### 3.Code: Update Procedure
 
 
+
+
+```
 ALTER PROCEDURE dbo.ProductUpdate 
 @ProductID int, 
 @ProductName nvarchar(40), 
@@ -78,10 +94,16 @@ Discontinued = @Discontinued
 WHERE (Concurrency = @Concurrency) AND (ProductID= @ProductID) --Note the double criteria to ensure concurrency 
 SELECT @@ROWCOUNT 
 -- Note: The middle tier must check the ROWCOUNT = 1
+```
+
+
 
 ### 4.Code: Delete Procedure
 
 
+
+
+```
 ALTER PROCEDURE dbo.ProductDelete 
 @ProductID int, 
 @Concurrency timestamp 
@@ -91,3 +113,4 @@ WHERE (ProductID= @ProductID) AND (Concurrency = @Concurrency)
 --Note the double criteria to ensure concurrency 
 SELECT @@ROWCOUNT 
 --Note: The middle tier must check the ROWCOUNT = 1
+```

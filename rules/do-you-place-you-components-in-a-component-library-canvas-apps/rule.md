@@ -21,6 +21,7 @@ If you are creating and using Components, you’re already doing a great job. Th
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Create a new component library](create-component-library.png)  
 :::

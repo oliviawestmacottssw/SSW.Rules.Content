@@ -31,6 +31,7 @@ So when do you change it?
 
 Remember, never forget the     [importance of a good email subject](/Pages/ImportanceOfAGoodSubject.aspx "Realize the Importance of a Good Email Subject") in improving communications.
 
+
 ::: ok  
 ![Figure: Keep your email subject description up-to-date. Sarah Palin isn’t even a governor anymore](SarahPalin.jpg)  
 :::

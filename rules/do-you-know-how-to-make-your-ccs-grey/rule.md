@@ -20,6 +20,7 @@ Cut down the noise in your inbox by visually filtering emails not sent directly 
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good Example - Cut down the noise in your inbox by visually filtering emails not sent directly to you](MakeCCGrey.jpg)  
 :::

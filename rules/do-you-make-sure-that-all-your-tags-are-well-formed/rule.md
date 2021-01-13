@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- do-you-make-sure-that-all-your-tags-are-well-formed-
 
 ---
 

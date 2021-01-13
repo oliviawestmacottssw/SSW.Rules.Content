@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-a-sql-server-stored-procedure-naming-standard
+- general---do-you-use-a-sql-server-stored-procedure-naming-standard
 
 ---
 
@@ -39,10 +40,13 @@ If Stored Procedure deletes data then suffix is 'Delete'.
 If Stored Procedure refreshes data (ie. drop and create) a table then suffix is 'Create'.
 If Stored Procedure returns an output parameter and nothing else then make the suffix is 'Output'.
 
+
+
+```
 ALTER PROCEDURE procClientRateOutput
 
          @pstrClientID VARCHAR(6) = 'CABLE',
-         @pstrCategoryID VARCHAR(6) = '&lt;All&gt;',
+         @pstrCategoryID VARCHAR(6) = '<All>',
          @pstrEmpID VARCHAR(6)='AC',
          @pdteDate datetime = '1996/1/1',
          @curRate MONEY OUTPUT
@@ -58,7 +62,7 @@ SET @curRate = (
                 WHERE ClientID=@pstrClientID
                 AND EmpID=@pstrEmpID
                 AND CategoryID=@pstrCategoryID
-                AND DateEnd &gt; @pdteDate
+                AND DateEnd > @pdteDate
                 ORDER BY DateEnd
                )
 
@@ -70,12 +74,15 @@ IF @curRate IS NULL
                 FROM ClientRate
                 WHERE ClientID=@pstrClientID
                 AND EmpID=@pstrEmpID
-                AND CategoryID='&lt;ALL&gt;'
-                AND DateEnd &gt; @pdteDate
+                AND CategoryID='<ALL>'
+                AND DateEnd > @pdteDate
                 ORDER BY DateEnd
                )
 
 RETURN
+```
+
+
 
 ::: good
 Figure: Good Example - stored proc that returns only an output parameter

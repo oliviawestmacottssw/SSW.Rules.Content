@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- the-application---do-you-show-what-version-the-app-is-and-what-version-the-database-is
 
 ---
 
@@ -21,13 +22,16 @@ redirects: []
  Let's see how to show the Database version:    
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: The applications database should have a table storing the version info (the table is called \_zsDataVersion). See an example of this in SSW Link Auditor](zsVersionTable.png)  
 :::
 
+
 ::: ok  
 ![Figure: The user can clearly see the Database version is 62 after clicking "Configure..." button in wizard "Storage Mechanism". See an example of this in SSW Link Auditor](LinkAuditorVersion.png)  
 :::
+
 
 ::: ok  
 ![Figure: The Application keeps all the scripts in a folder called SQLScripts (this allows the application to upgrade itself and give the Reconciliation functionality)](ChangeScripts.jpg)  

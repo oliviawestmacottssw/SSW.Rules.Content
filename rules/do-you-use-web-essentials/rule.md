@@ -18,6 +18,7 @@ Web Essentials is a Visual Studio extension that greatly improves the productivi
 
 You can install Web Essentials from the  **Tools** |  **Extensions and Updates** menu.
 
+
 ::: good  
 ![Good Example: Web Essentials is in the Installed list.](SSW - Rules - Web Essentials.png)  
 :::

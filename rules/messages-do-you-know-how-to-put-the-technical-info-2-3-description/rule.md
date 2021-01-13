@@ -8,6 +8,7 @@ created: 2012-11-27T04:36:22.0000000Z
 authors: []
 related: []
 redirects:
+- messages---do-you-know-how-to-put-the-technical-info-23-description
 - messages-do-you-know-how-to-put-the-technical-info-(2-3-description)
 
 ---
@@ -18,6 +19,7 @@ The description should explain *what the error was*, followed by the *why it occ
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - A message box that does not intuitively alert the user](../../assets/BadMessageBox.gif)  
 :::
@@ -26,6 +28,7 @@ The description should explain *what the error was*, followed by the *why it occ
 * There is no punctuation
 * The word "Error" is meaningless
 * Line breaks are not present, so the message box is too wide and the text may wrap in the wrong spot
+
 
 
 ::: good  

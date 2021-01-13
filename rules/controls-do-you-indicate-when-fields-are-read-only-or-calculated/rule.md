@@ -9,6 +9,7 @@ authors: []
 related: []
 redirects:
 - controls-do-you-indicate-when-fields-are-＂read-only＂-or-＂calculated＂
+- controls---do-you-indicate-when-fields-are-read-only-or-calculated
 
 ---
 
@@ -18,9 +19,11 @@ When you are not able to edit a field the field should be greyed out. This visua
 
 If you are using Word or Excel, actually locking cells or tables may not be what you require, but you still want to prevent people from directly editing calculations. So make the cells grey and the visual indication should prompt the users what to do.
 
+
 ::: good  
 ![Figure: Good Example - Read only fields should be greyed out](../../assets/GreyField.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Calculated Fields in Excel should be in Grey](../../assets/GreyField-Excel.gif)  

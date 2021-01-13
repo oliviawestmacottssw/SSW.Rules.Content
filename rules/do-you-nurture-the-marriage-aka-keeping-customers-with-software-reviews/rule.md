@@ -23,6 +23,7 @@ You won the job with a great [1st Date (aka Spec Review)](/Pages/Ensure-an-excel
 
 Left to their own devices, most developers will slowly make more and more unmaintainable code, that is only comprehendable by themselves.                 This isn't a big problem for them as they are in it every day and know how it all fits together, but if they're not coding to a set of industry                  standards, you'll find this code very hard for anyone else to maintain.
 
+
 ::: bad  
 ![Figure: Bad Example - Would you want to maintain this code?](BadCode.png)  
 :::
@@ -39,6 +40,7 @@ This makes more maintainable software with better architecture using industry st
 1. In the pre-sales, you should have already explained the concept of Software Reviews.
 2. Look at a report to show your main current clients (best seen by who was invoiced in the past month)
     * Tip: This is also a good thing to have up on the wall as a reminder of who your main customers are at the moment.
+
 
 
 ::: ok  

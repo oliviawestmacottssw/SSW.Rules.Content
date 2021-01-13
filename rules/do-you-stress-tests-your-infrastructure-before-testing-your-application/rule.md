@@ -25,6 +25,7 @@ This simple test will highlight:
 * Uplink bandwidth, DDOS protection, firewall issues
 
 
+
 ::: ok  
 ![Figure: Work out the maximum performance of the infrastructure before starting](infratests.jpg)  
 :::

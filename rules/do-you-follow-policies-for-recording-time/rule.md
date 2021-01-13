@@ -18,6 +18,7 @@ redirects: []
 There needs to be consistency between all of your developers' timesheets, so you should get them all to adhere to the following:
 
 * Be accurate <br>      
+
 ::: good  
 ![Figure: Good example - Inform accurately how much time you spent for each client](timesheet-accuracy.jpg)  
 :::

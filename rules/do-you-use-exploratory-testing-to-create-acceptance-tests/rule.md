@@ -23,9 +23,11 @@ Exploratory testing provides the best way to create repeatable tests from the ac
 
 There are two ways to run an exploratory test in Microsoft Test Manager.
 
+
 ::: bad  
 ![Figure: Bad Example - go to the Test tab, choose Do Exploratory Testing, choose a PBI, then click Explore. Too many steps](exploratory\_2.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Right-click on a requirement in your test suite and choose "Explore requirement"](exploratory\_1.png)  
@@ -35,6 +37,7 @@ There are two ways to run an exploratory test in Microsoft Test Manager.
 
 When you start an Exploratory test, you don't see any test steps, but you can click on the title of the requirement to see its Acceptance Criteria.
 
+
 ::: ok  
 ![Figure: Clicking on the title will show you the Acceptance Criteria](show\_criteria.png)  
 :::
@@ -43,11 +46,13 @@ When you start an Exploratory test, you don't see any test steps, but you can cl
 
 If you find a bug while testing, click the  **Create bug** button to add a bug related to the PBI.
 
+
 ::: ok  
 ![Figure: Creating a bug from exploratory test links to the PBI](create\_bug.png)  
 :::
 
 By default, the reproduction steps will be populated with the last 10 actions you took (you can [change this and other defaults with configuration](http://geekswithblogs.net/TarunArora/archive/2011/12/14/mtm-11-configuration-settings-amp-customization.aspx)).  You can cut this down to just the relevant actions by clicking Change steps.
+
 
 ::: ok  
 ![Figure: You can change the repro steps captured in the bug very easily](change\_bug\_steps.png)  
@@ -55,11 +60,13 @@ By default, the reproduction steps will be populated with the last 10 actions yo
 
 Now you have a bug, you should create a matching test case so you can verify when the bug is fixed.  This also gives you a handy regression test to help ensure the problem isn't reproduced later.
 
+
 ::: ok  
 ![Figure: Click Save and create test to create a matching test case](save\_create\_test.png)  
 :::
 
 Again, the steps are prepopulated from your bug steps.
+
 
 ::: ok  
 ![Figure: The test steps are prepopulated from the action recording](create\_test.png)  

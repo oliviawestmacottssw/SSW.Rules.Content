@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - answer-im-questions-in-order
+- clarity---do-you-answer-im-questions-in-order
 
 ---
 

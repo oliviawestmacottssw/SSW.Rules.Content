@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-a-sql-server-relationship-naming-standard
+- general---do-you-use-a-sql-server-relationship-naming-standard
 
 ---
 

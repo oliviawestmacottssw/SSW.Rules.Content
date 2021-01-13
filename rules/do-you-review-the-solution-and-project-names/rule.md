@@ -21,6 +21,7 @@ Follow the rule: [Do you have a consistent .Net Solution Structure?](/_layouts/1
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good Example - The Solution and Projects are named consistently](solution-structure.png)  
 :::

@@ -7,7 +7,8 @@ uri: sample-do-your-sample-databases-have-good-naming-conventions
 created: 2012-11-27T03:08:58.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- sample---do-your-sample-databases-have-good-naming-conventions
 
 ---
 

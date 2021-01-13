@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-your-company-name-as-part-of-your-display-name
+- display---do-you-use-your-company-name-and-location-as-part-of-your-display-name
 
 ---
 

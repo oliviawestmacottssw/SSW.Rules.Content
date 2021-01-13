@@ -18,9 +18,11 @@ You need to log a record on success so you can check for backups that have faile
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad example - an email is sent on completion](backup\_notification\_bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - a record is logged on completion](backup\_notification\_good.jpg)  

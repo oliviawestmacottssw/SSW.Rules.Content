@@ -18,6 +18,7 @@ redirects: []
 All setup files should stored under setup folder of your project root directory.   
 <!--endintro-->
 
+
 ::: good  
 ![Good example - All the wise setup file in the \setup folder.](SetupFileGood.gif)  
 :::

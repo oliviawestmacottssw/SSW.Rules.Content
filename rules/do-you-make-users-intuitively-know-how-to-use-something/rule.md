@@ -19,21 +19,26 @@ redirects: []
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - The affordance of the checkbox makes this UI misleading](../../assets/Bad-Affordance2.jpg)  
 :::
+
 
 ::: bad  
 ![Figure: Bad Example - If this mop sink didn't look so much like a urinal and wasn't right next to the toilet, maybe the sign wouldn't be necessary.](../../assets/Bad-FalseAffordance.jpg)  
 :::
 
+
 ::: bad  
 ![Figure: Bad Example – It might not have been a good idea to place a male policeman where the exhaust pipe is.](../../assets/Bad-Affordance3.jpg)  
 :::
 
+
 ::: bad  
 ![Figure: Bad Example - Old MS Word - Because of the UI, people never knew they could use styles e.g. normal, H1, H2](../../assets/Bad-Affordance.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - New MS Word - Because of the new ribbon UI, people intuitively know how to use styles](../../assets/Good-Affordance.jpg)  

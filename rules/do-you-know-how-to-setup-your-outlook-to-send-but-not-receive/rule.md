@@ -22,15 +22,18 @@ Here is how you do it:
 
 1. Open Outlook and create a new Exchange account: <br>      
 
+
 ::: ok  
 ![Figure - Tick manually configure server settings](mail1.png)  
 :::
 2. Enter your server name and user name, but un-tick <br>       **Use Cached Exchange Mode** :  <br>      
+
 ::: ok  
 ![Figure - Un-tick Use Cached Exchange Mode](Mail3.png)  
 :::
 3. Finish the setup and then open Outlook
 4. Configure your Send / Receive Groups: <br>      
+
 ::: ok  
 ![Figure - Click Send / Receive | Click Send / Receive Groups | Click Define Send / Receive Groups](Email2.png)  
 :::
@@ -41,6 +44,7 @@ Here is how you do it:
     * Tick the <br>             **Contacts** folder
     * Tick the <br>             **Sent Items** folder,
     * and select <br>             **Download headers only**
+
 
 
 ::: ok  

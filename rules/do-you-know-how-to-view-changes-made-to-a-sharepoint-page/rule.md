@@ -21,9 +21,11 @@ If you find a     mistake or typo you should look and see who is the culprit bef
 
 Here is how you see the      **history** of the page:
 
+
 ::: ok  
 ![Figure: Click on Page | Page History](Screen Shot 2018-09-28 at 3.34.38 PM-min.png)  
 :::
+
 
 ::: ok  
 ![Figure: See the changes made, versions and the person who changed it](sharepoint-page-history.png)  
@@ -31,9 +33,11 @@ Here is how you see the      **history** of the page:
 
 Here is how you see the  **history** on Office 365 - SharePoint Online:
 
+
 ::: ok  
 ![Figure: Click on Show actions | Version History](Snipaste\_2018-10-08\_13-21-05.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Version History listed](Snipaste\_2018-10-08\_13-22-46.jpg)  

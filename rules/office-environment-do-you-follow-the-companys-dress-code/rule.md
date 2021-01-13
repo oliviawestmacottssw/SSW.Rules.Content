@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-have-a-dress-code
+- office-environment---do-you-follow-the-companys-dress-code
 
 ---
 
@@ -35,6 +36,7 @@ Of course, when in a public event such as a User Group, conference or seeing cli
 
 It should go without saying, but of course, things such as shaving off your weekend facial growth, using deodorant and having clean teeth and nice breath is assumed.
 
+
 ::: ok  
 ![](sean-connery\_dressed-up.jpg)  
 :::
@@ -44,6 +46,7 @@ It should go without saying, but of course, things such as shaving off your week
 ### On a business flight
 
 It's a good idea to "Dress Up" in flights as you never know who you will be seated next to.  
+
 ::: ok  
 ![Figure: Why dress up in a flight](dresscode-linkedin.PNG)  
 :::
@@ -59,6 +62,7 @@ Then they  **"Dress Down"** later in the week... so they have      **"Casual Thu
 :::
 
 Thursday are casual clothes. On Fridays, they encourage sport clothes, such as shorts. It allows the end of the week to be fun.
+
 
 ::: ok  
 ![Figure: SSW Dress Code can be downloaded here (internal only)](SSW\_Dresscode\_Poster.png)  

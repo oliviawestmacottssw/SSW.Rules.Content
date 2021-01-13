@@ -56,9 +56,11 @@ For groups on Facebook, there is now a tool that allows admin to ask up to 3 pre
 
 
 
+
 ::: ok  
 ![Figure: Asking a screening question is a good way to separate real people with a genuine interest from those who just want to spam the group](facebook screening questions.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: an example of a suspicious profile](suspicious-profile.png)  

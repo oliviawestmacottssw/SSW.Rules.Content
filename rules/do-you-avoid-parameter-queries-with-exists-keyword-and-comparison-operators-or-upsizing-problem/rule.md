@@ -12,6 +12,7 @@ related:
 - do-you-have-complex-queries-upsizing-problem
 - do-you-remove-vba-function-names-in-queries-before-upsizing-queries-upsizing-problem
 redirects:
+- do-you-avoid-parameter-queries-with-exists-keyword-and-comparison-operators--or-upsizing-problem
 - do-you-avoid-parameter-queries-with-exists-keyword-and-comparison-operators-(-or-)(upsizing-problem)
 
 ---

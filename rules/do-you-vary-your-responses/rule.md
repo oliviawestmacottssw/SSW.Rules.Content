@@ -18,6 +18,7 @@ People don’t act like robots and answer the same way all the time. Neither sho
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good examples - Different welcome messages](bots-responses.jpg)  
 :::

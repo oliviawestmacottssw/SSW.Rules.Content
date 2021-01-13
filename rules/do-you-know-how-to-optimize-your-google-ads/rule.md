@@ -20,6 +20,7 @@ The biggest key to a successful Google Ads campaign is optimisation. Optimising 
 
 There are other ways to optimise your campaign, i.e. increasing or decreasing ad bids, scheduling your ads to only appear in business hours, removing underperforming keywords, and many more.
 
+
 ::: ok  
 ![Figure: Keep your negative keyword list updated](google-ads-negative-keyword.jpg)  
 :::

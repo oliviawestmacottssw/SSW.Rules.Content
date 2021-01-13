@@ -7,7 +7,8 @@ uri: messages-do-you-avoid-message-boxes-at-all-costs
 created: 2012-11-27T04:24:26.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- messages---do-you-avoid-message-boxes-at-all-costs
 
 ---
 
@@ -25,9 +26,11 @@ Exception: Only use them in the following scenarios:
 * Kicking off a long running process that cannot be cancelled
 
 
+
 ::: bad  
 ![Figure: Bad example - could the information in this message box be moved into the panel on the right](../../assets/MoveErrorMSG.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good example - An error message that does not pop up and block your user](../../assets/oneplacemailerror.png)  

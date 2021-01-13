@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - dont-push-your-pull-requests
+- do-you-know-to-not-push-your-pull-requests-aka-discuss-then-build
 - do-you-know-to-not-push-your-pull-requests-(a-k-a-discuss-then-build)
 
 ---

@@ -53,17 +53,29 @@ Note: ** For large organizations, a better way is  to use a type of group (eg. 
 
 **E** **xample** **#1:**
 
+
+
+```
 L-LocalGroupName-
    SYD-EntityName-
    SP-Sharepoint-
+```
+
+
 
 That becomes “L-SYD-SP-SSW-Users"
 
 **E** **xample** **#2:**
 
+
+
+```
 G-GlobalGroupName-
    SYD-EntityName-
    SP-Sharepoint-
+```
+
+
 
 That becomes “G-SYD-SP-SSW-Users"
 

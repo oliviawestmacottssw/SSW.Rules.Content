@@ -25,9 +25,11 @@ For example, your cost can depend on how wide your audience is if it’s local o
 
 Here are some interesting demographics to consider:
 
+
 ::: ok  
 ![Figure: For SSW we know that our target audience is mostly men aged between 25-45, so we know for Social Media we should focus on Facebook, Twitter & LinkedIn. If we had products, Pinterest & Instagram would be our best target because they are more visual.](target-audience-table.png)  
 :::
+
 
 ::: ok  
 ![Figure: According to Marketing Insider Group, the most popular platform is now LinkedIn, followed by Facebook](social-platforms.png)  

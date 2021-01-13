@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - increase-the-log-size-of-your-event-viewer
+- dbas---do-you-increase-the-log-size-of-your-event-viewer
 
 ---
 
@@ -18,9 +19,11 @@ Change the defaults from 20480KB to 64000KB and Overwrite as needed. This will a
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Using a small log size](EventViewer\_BadSmallLogSize.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Using a reasonable log size](EventViewer\_GoodReasonableLogSize.png)  

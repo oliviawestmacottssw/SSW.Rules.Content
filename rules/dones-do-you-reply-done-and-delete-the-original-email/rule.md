@@ -13,7 +13,8 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects: []
+redirects:
+- dones---do-you-reply-done-and-delete-the-original-email
 
 ---
 
@@ -33,6 +34,7 @@ Read "[Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4
 
 **Note 2:** For tasks that will take time to be completely done (E.g. Producing a video), you may send a "work in progress" email. This way you avoid giving the perception that no action was in relation to the task.
 
+
 ::: ok  
 ![Figure: Not Done Email](NotDone.jpg)  
 :::
@@ -48,9 +50,11 @@ In any reply, include relevant information, such as the URL and the code or text
 
 [Use SnagIt with Balloons in screenshots](/Pages/HowToUseBalloons.aspx).
 
+
 ::: bad  
 ![Figure: Bad Example of a "Done" email.](email\_done\_bad.JPG)  
 :::
+
 
 ::: good  
 ![Figure: Good Example of a "Done" email as it has both the link and the changed text.](email\_done\_good.JPG)  
@@ -147,7 +151,13 @@ Ideally, all tasks should be less than 4 hours. If you are given a task that is 
 
 **A:** Yes. If there are multiple items of work in an email and you can't do them all at once (in say 4 hours), reply "Done" to each item individually, and put yourself in the TO: so you can go back and do the remaining items.     [(See rule "To Myself")](/Pages/EmailToMyself.aspx)
 
+
+
+```
 Done - 8 out of 9 tasks.
+```
+
+
 
 ### Tip 5: Don't consolidate emails
 

@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - do-you-have-successful-remote-meetings
+- communication---do-you-know-the-options-for-remote-meetings
 
 ---
 

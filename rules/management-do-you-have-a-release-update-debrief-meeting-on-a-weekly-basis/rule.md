@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - management-do-you-have-a-＂release-update-debrief-meeting＂-on-a-weekly-basis
+- management---do-you-have-a-release-updatedebrief-meeting-on-a-weekly-basis
 
 ---
 
@@ -41,6 +42,7 @@ If "Yes"
 There are tools to help you do this:
 
 * [SSW TFS Add-in - Release Update/Debrief Report](http://www.ssw.com.au/ssw/AgileTemplate/UserGuide.aspx#ReleaseUpdate)
+
 
 
 ::: ok  

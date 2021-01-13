@@ -31,6 +31,7 @@ It simplifies WordPress backups and can be configured to back up your site to:
 
 We setup our WordPress sites to backup daily to Dropbox:
 
+
 ::: good  
 ![Figure: AdamCogan.com blog backs up daily to Dropbox](wp-dropbox.png)  
 :::

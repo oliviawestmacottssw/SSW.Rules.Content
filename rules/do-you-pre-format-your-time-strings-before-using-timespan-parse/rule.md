@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - pre-format-your-time-strings-before-using-timespan-parse
+- do-you-pre-format-your-time-strings-before-using-timespanparse
 - do-you-pre-format-your-time-strings-before-using-timespan-parse()
 
 ---
@@ -20,14 +21,26 @@ TimeSpan.Parse() constructs a Timespan from a time indicated by a specified stri
 
 <!--endintro-->
 
+
+
+```
 ts = TimeSpan.Parse(cboMyComboBox.Text)
+```
+
+
 
 ::: bad
 Figure: Bad code because a value greater than 24hours will crash eg. 45:30
 
 :::
 
+
+
+```
 ts = TimeSpan.Parse(FormatTimeSpanString(cboMyComboBox.Text))
+```
+
+
 
 ::: good
 Figure: Good code because we are using a wrapper method to pre-parse the string containing the 

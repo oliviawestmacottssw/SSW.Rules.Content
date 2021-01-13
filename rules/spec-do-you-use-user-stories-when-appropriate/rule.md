@@ -15,16 +15,19 @@ authors:
 related: []
 redirects:
 - spec-do-you-use-user-stories
+- spec---do-you-use-user-stories-when-appropriate
 
 ---
 
 Product Backlog Items (PBIs) can be described in the form of a "User Stories" when appropriate. It ensures the developers will know the context for a PBI.
+
 
 ::: ok  
 ![::: greyboxAs a &lt;type of User&gt;I want &lt;some goal&gt;so that &lt;some reason&gt;  :::Figure: User Story - template for description](TFS2012UserStory.gif)  
 :::
 
 <!--endintro-->
+
 
 ::: bad  
 ![Figure: User Story - Product Backlog Item form](TFS2012UserStory.gif)  

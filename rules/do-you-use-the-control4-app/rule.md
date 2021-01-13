@@ -32,6 +32,7 @@ The Control4 App turns your iOS or Android mobile device into the smart home/off
 :::
 ![](os3app.webp)
 ::: ok
+
 1. Download the app from the App Store: http://www.control4.com/software/control4-app-ios/latest
 or Google Play: http://www.control4.com/software/control4-app-android/latest
 
@@ -53,6 +54,7 @@ Good Example: Turning on the air conditioner using Control4
 
 
 
+
 :::
 
 Figure: Bad example, using any pysical remote control instead of the Control4 app.
@@ -61,6 +63,7 @@ Figure: Bad example, using any pysical remote control instead of the Control4 ap
 :::
 ![](os3app.webp)
 ::: ok
+
 Throw away your remote controls and move on to technological freedom!
 
  **Figure: Use the Control4 App** 
@@ -74,6 +77,7 @@ Throw away your remote controls and move on to technological freedom!
 :::
 ![](os3app.webp)
 ::: ok
+
 
 > 3. Contact your SysAdmin to set you up with an account for logging in.
 > 
@@ -90,6 +94,7 @@ Throw away your remote controls and move on to technological freedom!
 :::
 ![](os3app.webp)
 ::: ok
+
 ### Changing Users
 
 
@@ -98,13 +103,16 @@ Throw away your remote controls and move on to technological freedom!
 ::: ok
 
 
+
 :::
 ![](os3app.webp)
 ::: ok
 
+
 :::
 ![Once logged in, you will have access to your site's controls. These apps are customisable, but the ones we have at SSW are:](os3app.webp)
 ::: ok
+
 ### Using Control4
 
 
@@ -119,9 +127,11 @@ Throw away your remote controls and move on to technological freedom!
 ![](os3app.webp)
 ::: ok
 
+
 :::
 ![](os3app.webp)
 ::: ok
+
 
 > :::
 > ![2. Scroll to the bottom and select the settings button.](os3app.webp)
@@ -133,9 +143,11 @@ Throw away your remote controls and move on to technological freedom!
 ![](os3app.webp)
 ::: ok
 
+
 > :::
 > ![3. Select your System:](os3app.webp)
 > ::: ok
+
 
 
 ::: ok  
@@ -158,6 +170,7 @@ Throw away your remote controls and move on to technological freedom!
 :::
 ![](os3app.webp)
 ::: ok
+
 
 > :::
 > ![](os3app.webp)

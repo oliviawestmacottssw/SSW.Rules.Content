@@ -23,7 +23,13 @@ PSD1 us the filename extension for PowerShell module descriptions, and this file
 
 <!--endintro-->
 
+
+
+```
 Import-PowerShellDataFile.
+```
+
+
 
 You can check a sample PSD1 file here:     [https://gist.github.com/ssg/a8e31af18ae8e03dcdc0f23e02793eca#file-sample-psd1](https://gist.github.com/ssg/a8e31af18ae8e03dcdc0f23e02793eca%22%20%5cl%20%22file-sample-psd1)
 
@@ -37,6 +43,7 @@ Some of the things we can do in a PSD1 file:
 
 Instead of keeping all your important URLs and FQDNs inside your PowerShell script, you should keep the script itself clean and "sanitized" from those hard-coded variables, so it can be freely shared on GitHub without any security concerns for you or your company. It also makes the script much more maintainable, where you can easily change the variables in the .PSD1 file without needing to change your core script.
 Don't forget to add the configuration file to .gitignore!
+
 
 ::: bad  
 ![Figure: Bad Example - Your script variables are in the script itself, making it insecure to share outside](bad-script-variables.png)  

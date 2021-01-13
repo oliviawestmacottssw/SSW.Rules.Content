@@ -7,7 +7,8 @@ uri: do-you-align-your-add-edit-delete-buttons-horizontal-and-bottom-right
 created: 2014-12-01T00:48:18.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- do-you-align-your-addeditdelete-buttons-horizontal-and-bottom-right
 
 ---
 
@@ -15,13 +16,16 @@ Usually there are problems fitting buttons next to datagrids or  listboxes when 
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - This form places the Add and Delete buttons in the top right.](../../assets/BadButtonAlign.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: Buttons aligned vertically, however they cut off useful information in the datagrid (Better)](../../assets/BetterButtonAlign.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Buttons align horizontally at the bottom right of the grid which provides plenty of room for then needed information](../../assets/GoodButtonAlign.jpg)  

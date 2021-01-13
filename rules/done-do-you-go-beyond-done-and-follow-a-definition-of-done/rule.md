@@ -15,7 +15,8 @@ authors:
 - title: Damian Brady
   url: https://ssw.com.au/people/damian-brady
 related: []
-redirects: []
+redirects:
+- done---do-you-go-beyond-done-and-follow-a-definition-of-done
 
 ---
 
@@ -87,6 +88,7 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 * Sending a Done email with screenshots
 
 
+
 ::: good  
 ![Figure: Good example - Add check in policies to enforce your Definition of Done](level-3-done.jpg)  
 :::
@@ -100,13 +102,16 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 * Sending a Done email (with video recording using SnagIt)
 
 
+
 ::: good  
 ![Figure: Organize tests in suites with built-in E2E traceability across requirements, test artifacts and defects](level-3-done.jpg)  
 :::
 
+
 ::: good  
 ![Figure: Use the client, Microsoft Test Manager, to run tests and not just capture the pass/fail of steps, comments/attachments and bugs, but also capture diagnostic data during execution, such as screen recording, system info, image action log etc](level-3-done.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Explore your web applications, find and submit bugs directly from your Chrome browser – no need for predefined test cases or test steps](level-3-done.jpg)  
@@ -134,6 +139,7 @@ Figure: Good example - Done video showing the features worked on
 * Multiple environments automatically tested using Lab Management
 
 
+
 ::: good  
 ![Figure: Good example - A tester Lab Management to create VMs for testing the application, then defines a test plan for that application with Test Case Management](level-3-done.jpg)  
 :::
@@ -143,6 +149,7 @@ Figure: Good example - Done video showing the features worked on
 * *All of the above, plus*
 * Automated Load Testing
 * Continuous Deployment
+
 
 
 ::: good  

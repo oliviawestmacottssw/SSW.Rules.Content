@@ -18,9 +18,11 @@ Remember to remove the https from your URLs in your presentations. It keeps the 
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example – These links are showing the "https://"](ppt-urls-bad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example – These links are clean](ppt-urls-good.png)  

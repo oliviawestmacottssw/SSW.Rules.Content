@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - use-temporal-tables-to-audit-data-changes
+- data---do-you-use-temporal-tables-to-audit-data-changes
 
 ---
 
@@ -58,29 +59,38 @@ Cons:
 
 
 
+
+
+```
 CREATE TABLE dbo.Shippers
 (
                [ShipperID] int IDENTITY(1, 1) NOT NULL,
                [CompanyName] nvarchar(40) NOT NULL,
                [Phone] nvarchar(24) NULL,
-**[SysStartTime] datetime2 GENERATED ALWAYS AS ROW START,** 
- **[SysEndTime]  datetime2 GENERATED ALWAYS AS ROW END,** 
- **PERIOD FOR SYSTEM\_TIME (SysStartTime, SysEndTime),** 
-               CONSTRAINT PK\_Shippers PRIMARY KEY CLUSTERED
+              [SysStartTime] datetime2 GENERATED ALWAYS AS ROW START, [SysEndTime]  datetime2 GENERATED ALWAYS AS ROW END, PERIOD FOR SYSTEM_TIME (SysStartTime, SysEndTime), CONSTRAINT PK_Shippers PRIMARY KEY CLUSTERED
                (             
                               [ShipperID]
                )
 )
- **WITH (SYSTEM\_VERSIONING = ON (HISTORY\_TABLE = dbo.ShippersHistory));**
+ WITH (SYSTEM_VERSIONING = ON (HISTORY_TABLE = dbo.ShippersHistory));
+```
+
+
  **Figure: Shippers table from the Northwind schema converted to a temporal table.
 ** 
 ![](Shippers_TemporalTable.PNG) **Figure: New temporal table shown in SQL Management Studio.
 ** 
 <font color="#333333"><br></font>
 
+
+
+```
 -- Update the tables history data retention
 ALTER TABLE dbo.Shippers
-SET (SYSTEM\_VERSIONING = ON (HISTORY\_RETENTION\_PERIOD = 7 YEARS));
+SET (SYSTEM_VERSIONING = ON (HISTORY_RETENTION_PERIOD = 7 YEARS));
+```
+
+
  **Figure: Code snippet for updating data retention.
 ** 
 <font color="#333333"></font>

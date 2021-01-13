@@ -15,9 +15,11 @@ If you want to edit a single item in your form we suggest you use a  popup form.
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Edit controls and main UI are messed up.](../../assets/NonePopupEditForm.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Use a popup form to do edit.](../../assets/PopupEditForm.gif)  

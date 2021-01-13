@@ -24,13 +24,16 @@ You should never rebase master onto a feature branch. This would move all of the
 
 Since rebasing results in brand new commits, Git will think that your master branch’s history has diverged from everybody else’s. If you were to Push this to the server... [expect lots of pain to fix it up](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/the-golden-rule-of-rebasing)!
 
+
 ::: bad  
 ![Figure: Bad Example: Rebasing master onto a feature branch can cause project history to become confused.](rebase3.png)  
 :::
 
+
 ::: ok  
 ![Figure: To get it wrong in Visual Studio you would need to change the current branch to master and then choose rebase. While this is possible, the VS team have done a good job making it hard to do the wrong thing](rebase4.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Rebase your Feature branch onto Master](rebase5.png)  

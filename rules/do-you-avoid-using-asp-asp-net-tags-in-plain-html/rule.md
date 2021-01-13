@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - avoid-using-asp-asp-net-tags-in-plain-html
+- do-you-avoid-using-aspaspnet-tags-in-plain-html
 
 ---
 
@@ -18,9 +19,15 @@ ASP and ASP.NET tags have no place in plain HTML pages. They simply increase the
 
 <!--endintro-->
 
-&lt;%@ Page Language="C#" %&gt;
-&lt;html&gt;
-&lt;ssw:inctop id="inctop" runat="server"&gt;&lt;/ssw:inctop&gt;
+
+
+```
+<%@ Page Language="C#" %>
+<html>
+<ssw:inctop id="inctop" runat="server"></ssw:inctop>
+```
+
+
 
 ::: bad
 Figure: Bad Example - ASP.NET tags accidentaly placed in a plain HTML documents

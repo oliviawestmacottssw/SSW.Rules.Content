@@ -13,7 +13,8 @@ authors:
 - title: William Yin
   url: https://ssw.com.au/people/william-yin
 related: []
-redirects: []
+redirects:
+- sharepoint-rules-categories---do-you-know-how-to-make-the-title-consistent
 
 ---
 

@@ -31,6 +31,7 @@ To get to this setting, you need to:
 4. Edit the subcategory | Check "Success" and "Failure" as best practices
 
 
+
 ::: good  
 ![Figure: Good Example - Auditing Successes and Failures in your file shares](auditing-success-and-fail.png)  
 :::
@@ -43,6 +44,7 @@ After that, your server will start logging audit events in the Event Viewer. To 
     2. 4660 (An object was deleted) - Event ID when a user deletes a file system file
     3. 5145 (A network share object was checked to see whether the client can be granted desired access.) - Event ID when a network user accesses a file share file
 3. The relevant logs will start popping up:
+
 
 ::: good  
 ![Figure: Good example - Filtered logs with file access information](filtered-logs.png)  

@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - the-best-ide-for-react
+- tools---do-you-know-the-best-ide-for-react
 
 ---
 

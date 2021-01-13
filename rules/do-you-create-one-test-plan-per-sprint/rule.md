@@ -16,9 +16,11 @@ redirects: []
 When you use Microsoft Test Manager to create test plans and test suites for your team project, there are several approaches that you can take.  
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example – Only create 1 test plan that you use for all milestones. Add test suites and tests as you progress. This is bad because f you use this approach, you do not have historical data for your test pass rates for previous milestones](project-test-plan-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example -  Create test plans based on your testing goals for a specific sprint](project-test-plan-good.jpg)  

@@ -7,7 +7,8 @@ uri: communication-are-you-specific-in-your-requirements
 created: 2010-05-20T10:14:31.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- communication---are-you-specific-in-your-requirements
 
 ---
 

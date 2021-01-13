@@ -17,9 +17,11 @@ A good way to do this is use a left navigation bar with  **bold** on the step th
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - The progress bar does not indicate completed nor next steps](../../assets/FrontPageWizard.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - This wizard form shows all steps and indicates where the user is up to](../../assets/Wizard\_1.jpg)  

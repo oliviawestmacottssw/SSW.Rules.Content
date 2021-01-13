@@ -26,6 +26,7 @@ To ensure a consistent user experience, make sure to include these visual elemen
 
 
 
+
 ::: good  
 ![Figure: Good Example - SSW Link Auditor Wizard's                                 better flow of information](../../assets/GoodInformationFlow.gif)  
 :::
@@ -49,6 +50,7 @@ Figure: Change the form so that it inherits from your new base form class
 The "finish" button denotes the end of the Wizard; by clicking on it,                     the user closes the Wizard.
 
 For longer processes, the Wizard should implement "Start" and "Skip"                     features to guide the user through from start to finish.
+
 
 ::: good  
 ![Figure: Good Example - SSW Code Auditor Wizard featuring                                 "Start" and "Skip" options](../../assets/StartProcess.gif)  

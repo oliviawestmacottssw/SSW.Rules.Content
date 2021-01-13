@@ -19,21 +19,25 @@ redirects: []
 
 Rather than randomly browsing for dodgy code, use Visual Studio's Code Metrics feature to identify "Hot Spots" that require investigation.
 
+
 ::: bad  
 ![Figure: The bad was is to browse the code](lotto-balls.jpeg)  
 :::
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Run Code Metrics in Visual Studio](VS 11 Code Metrics.png)  
 :::
+
 
 ::: ok  
 ![Figure: Red dots indicate the code that is hard to maintain. E.g. Save() and LoadCustomer()](CodeMetrics\_3.png)  
 :::
 
 Identifying the problem areas is only the start of the process. From here, you should speak to the developers responsible for this dodgy code. There might be good reasons why they haven't invested time on this.
+
 
 ::: ok  
 ![Figure: Find out who the devs are by using CodeLens and start a conversation](codelens-start-conversation.png)  

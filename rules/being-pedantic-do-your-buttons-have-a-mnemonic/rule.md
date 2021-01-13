@@ -9,7 +9,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- being-pedantic---do-your-buttons-have-a-mnemonic
 
 ---
 
@@ -17,9 +18,11 @@ A mnemonic for a button is the letter which has an underscore, and the user can 
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - All buttons without Mnemonic](../../assets/BadMem.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - All buttons with Mnemonic - user can easily choose which button they want without a click](../../assets/GoodMem.gif)  

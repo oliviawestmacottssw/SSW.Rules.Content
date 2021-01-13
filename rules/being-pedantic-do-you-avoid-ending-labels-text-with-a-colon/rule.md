@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - avoid-ending-labels-text-with-a-colon
+- being-pedantic---do-you-avoid-ending-labels-text-with-a-colon
 
 ---
 
@@ -18,9 +19,11 @@ Labels provide an easy way to show text in a form. It is recommended to consiste
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Labels with ":" at the end](LabelBad.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Clean labels without ":"](LabelGood.gif)  

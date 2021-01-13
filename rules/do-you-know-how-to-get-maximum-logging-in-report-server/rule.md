@@ -26,7 +26,13 @@ To update the value you can:
 
 
 
+
+
+```
 EXEC SetConfigurationInfo @Name=N'ExecutionLogDaysKept',@Value=N'365'
+```
+
+
 
 
 

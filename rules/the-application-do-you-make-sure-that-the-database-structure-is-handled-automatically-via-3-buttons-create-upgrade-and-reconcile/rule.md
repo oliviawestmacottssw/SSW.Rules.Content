@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - the-application-do-you-make-sure-that-the-database-structure-is-handled-automatically-via-3-buttons-＂create＂-＂upgrade＂-and-＂reconcile＂
+- the-application---do-you-make-sure-that-the-database-structure-is-handled-automatically-via-3-buttons-create-upgrade-and-reconcile
 
 ---
 
@@ -20,9 +21,11 @@ You get an error message reported from a user like:
 > *When I click the Save button on the product form it gives an error message about a missing field.*
 
 
+
 ::: ok  
 ![Figure: The developer thinks "what could be wrong"](ObamaThinking.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: The developer tests then replies "Works on my machine"](WorksOnMyMachine.png)  
@@ -75,6 +78,7 @@ As a developer, I promise to do these 3 things:
 
 
 :::
+
 
 ::: ok  
 ![Figure: Adam makes all his new developers swear in and repeat this](Reconcile.jpg)  

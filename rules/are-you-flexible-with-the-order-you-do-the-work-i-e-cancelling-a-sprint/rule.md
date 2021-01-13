@@ -16,6 +16,7 @@ authors:
   url: https://ssw.com.au/people/justin-king
 related: []
 redirects:
+- are-you-flexible-with-the-order-you-do-the-work-ie-cancelling-a-sprint
 - are-you-flexible-with-the-order-you-do-the-work-(i-e-cancelling-a-sprint)
 
 ---

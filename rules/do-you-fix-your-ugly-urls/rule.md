@@ -42,13 +42,21 @@ Figure: Users could even guess the URL
 <!--endintro-->
 
 1. Add in Global.asax a route
-    protected void Application\_Start(object sender, EventArgs e) 
+
+
+
+```
+protected void Application_Start(object sender, EventArgs e) 
 { 
 //RouteTable and PageRouteHandler are in System.Web.Routing 
 RouteTable.Routes.Add("ProductRoute", new Route("products/{productname}", new PageRouteHandler("~/MyInternalDB/UserDatabase/ProductList.aspx.aspx"))); 
 }
+```
+
+
     **Figure: OK example - create a static route if you only have a few rewrites**
 2. Use the URL Rewriting Module for IIS7 
+
 
 ::: good  
 ![Figure: Good example - An IIS7 Rewrite is much easier to manage](IIS7Rewrite.jpg)  

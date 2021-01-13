@@ -14,6 +14,7 @@ related: []
 redirects:
 - what-type-of-microphone-to-use
 - production-do-you-know-that-shotgun-mics-can-only-do-so-much
+- production---do-you-know-what-type-of-microphone-to-use
 
 ---
 
@@ -37,11 +38,13 @@ A headset mic offers the advantage of being very close to the source of the audi
 
 Some headsets are better than others, we recommend the     [Audio Technica BPHS1’s](https://www.audio-technica.com/en-us/bphs1) like the ‘go-to’ option for really great broadcast-quality audio recordings.
 
+
 ::: ok  
 ![Figure: Audio Technica BPHS1 ‘aviation-style’ headset](mic-1-audiotechnica.png)  
 :::
 
 On the lower end, the     [Logitech H340](https://www.logitech.com/en-au/product/usb-headset-h340) USB headset is a good option.
+
 
 ::: ok  
 ![Figure: Logitech H340 headset](mic-2-logitech.png)  
@@ -55,6 +58,7 @@ Desktop mics can offer better audio quality than headsets mics overall.
 
 There are many models to pick with different characteristics. Our choice is the [Blue Yeti X](https://www.bluemic.com/en-us/products/yeti-x/). It connects via USB to your laptop and works without additional drivers.
 
+
 ::: ok  
 ![Figure: Desktop microphone – plugs into USB and sits in front of you on the desk. Preferred for done videos and is portable](blue-yeti-x.jpg)  
 :::
@@ -62,6 +66,7 @@ There are many models to pick with different characteristics. Our choice is the 
 ### Desktop microphone – non-portable
 
 You can go beyond a portable desktop mic and get something like the Rode Procaster mic on an arm. These are typically used by professional podcasters.
+
 
 ::: ok  
 ![Figure: Professional podcasting mic](micpro-1.jpg)  
@@ -74,6 +79,7 @@ Lapel mics are a great option for both mobile and PC devices.
 The Rode smartLav+ is a lapel that works on devices that support TRRS connectors (phones, tablets and modern laptops).
 The benefit of this type of mic is that it is placed on your shirt and close to your mouth, which provides cleaner audio and more ambient noise rejection.
 
+
 ::: ok  
 ![Figure: Rode smartLav+ Lapel Microphone for Smart Phones](micpro-2-lapel.jpg)  
 :::
@@ -84,6 +90,7 @@ Shotgun microphone
 
 Shotgun Microphones are, by definition, built to capture the audio from the source they are directly pointed at. They are designed to cut out audio from other directions. This means that if someone behind the microphone says something, it will likely not be picked up clearly.
 These are traditionally used on film and TV sets and offer among the highest quality recordings.
+
 
 ::: ok  
 ![Figure: Shotgun mic](mic-shotgun.jpg)  

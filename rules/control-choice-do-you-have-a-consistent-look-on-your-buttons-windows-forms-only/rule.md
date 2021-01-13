@@ -8,11 +8,13 @@ created: 2012-11-27T08:56:29.0000000Z
 authors: []
 related: []
 redirects:
+- control-choice---do-you-have-a-consistent-look-on-your-buttons-windows-forms-only
 - control-choice-do-you-have-a-consistent-look-on-your-buttons-(windows-forms-only)
 
 ---
 
 Question: What is wrong with this Picture?
+
 
 ::: ok  
 ![Figure: What is wrong?](../../assets/InconsistentButtonStyles.jpg)  
@@ -25,6 +27,7 @@ Question: What is wrong with this Picture?
 * *Next &gt;* - Default Window Style
 * *Preview* - .NET Flat Style
 * *Cancel* - Window XP Style
+
 
 
 ::: ok  

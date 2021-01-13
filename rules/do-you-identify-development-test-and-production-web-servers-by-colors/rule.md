@@ -21,9 +21,11 @@ As per rule ["Do you have separate development, testing, and production environm
 ### CRM 
 
 
+
 ::: ok  
 ![Figure: Staging uses blue background](ssw staging 2.png)  
 :::
+
 
 ::: ok  
 ![Figure: Production uses red background](ssw production 2.png)  
@@ -36,6 +38,7 @@ The way to change the default background color is to edit the CRM CSS files. The
 
 Using theme feature to change the environment color.
 
+
 ::: ok  
 ![Figure: Changing CRM 2016 UI by using theme feature](CRM2015Theme.JPG)  
 :::
@@ -44,6 +47,9 @@ Using theme feature to change the environment color.
 
 Edit:  **&lt;CrmWebsiteRoot&gt;** **\\_controls\navbar\navbar.css**
 
+
+
+```
 .navigationControl
 {
 background-color: #006600;
@@ -53,8 +59,12 @@ float: left;
 width: 100%;
 position: relative;
 }
+```
+
+
  **Figure: Edit the background color to reflect the environment
 ** 
+
 ::: ok  
 ![Figure: CRM 2013 with a green navigation bar](crm2013\_greenbar.jpg)  
 :::
@@ -79,17 +89,21 @@ Figure: CRM Ribbon color green to signify production environment
 
 Edit, **&lt;CrmWebsiteRoot&gt;\** **\_common\styles\global.css.aspx**
 
+
 ::: ok  
 ![::: greybox         body.stage             {                 &lt;% if (CrmStyles.IsRightToLeft) { %&gt;                     dir:rtl;                 &lt;%} %&gt;                 border-top:1px solid #6893cf;              /\* background-color: #d6e8ff; \*/              background-color: #ffff00;              padding: 4px;                          /\* background-repeat: repeat-x;                          background-image: url(/\_imgs/app\_back.gif);                   \*/             }          ::: Figure: In C:\Inetpub\wwwroot\\_common\styles\global.css.aspx comment out and change the reference in yellow so the users know what server they are on](CRM2011\_ColorCodedRibbon.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Color of CRM Development Server - Red](CRM2011\_ColorCodedRibbon.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: Color of CRM Test Server - Yellow](CRM2011\_ColorCodedRibbon.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Color of CRM Production Server - Default](CRM2011\_ColorCodedRibbon.jpg)  
@@ -103,17 +117,21 @@ Here is what we change:
 
 * Site Settings | Change The Look
     * Test – Orange <br>            
+
 ::: ok  
 ![Figure: Selecting Orange theme for test](CRM2011\_ColorCodedRibbon.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: orange theme applied](CRM2011\_ColorCodedRibbon.jpg)  
 :::
     * Production - Office <br>            
+
 ::: ok  
 ![Figure: Selecting Office theme for Production](CRM2011\_ColorCodedRibbon.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: office (blue) theme applied](CRM2011\_ColorCodedRibbon.jpg)  

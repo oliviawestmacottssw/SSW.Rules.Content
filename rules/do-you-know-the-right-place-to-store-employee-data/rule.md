@@ -30,6 +30,7 @@ The User Profile is simply a layer of information on top of Active Directory pro
 
 Office 365 User Profile Service is a good tool at managing fields related to users, but it does not offer any functionality to maintain related data such as responsibilities and projects. Therefore it cannot be used as a single source of truth if you have complex profile data. Think of all the stuff you see on LinkedIn. Maybe this will change in the future now that Microsoft owns LinkedIn.
 
+
 ::: ok  
 ![Figure: AD, UserProfile and O365 Services interactions](onpremisesad1.png)  
 :::
@@ -39,6 +40,7 @@ Office 365 User Profile Service is a good tool at managing fields related to use
 **B:** Rich - If you want richer relationships eg. Many skills, many languages, past projects and roles on them etc. then you want to add an external 'Source of truth' Eg. Dynamics 365, Salesforce etc. that supports that kind of relationships.
 
 Companies want bots to answer more than just simple questions. If you have rich data then your bot can answer questions like "Who worked in Education and knows French". This is unfortunately not possible with AD/UserProfile custom fields and properties. In those instances, the alternative is to use Dynamics 365 (or SalesForce) as a single source of truth; and then sync back the data to simple fields in User Profile.
+
 
 ::: ok  
 ![Figure: CRM (Dynamics 365) used a source of truth](onpremisesad2.png)  

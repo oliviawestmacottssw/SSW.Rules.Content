@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-you-use-expression-blend-sketchflow-to-create-mock-ups
+- do-you-use-expression-blend--sketchflow-to-create-mock-ups
 - do-you-use-expression-blend-+-sketchflow-to-create-mock-ups
 
 ---

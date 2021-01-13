@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - ending-a-sprint-do-you-know-what-to-do-with-partially-completed-stories
+- ending-a-sprint---do-you-know-what-to-do-with-partially-completed-pbi
 
 ---
 

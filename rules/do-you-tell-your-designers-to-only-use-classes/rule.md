@@ -17,6 +17,7 @@ In Sitefinity you can alter the appearance and content areas on your webpage usi
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: You have the ability to assign a Class to a Div only. No other customisations can be made](sitefinity-class-only.jpg)  
 :::

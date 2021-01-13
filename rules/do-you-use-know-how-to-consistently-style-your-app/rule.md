@@ -28,9 +28,11 @@ Branding is important in any product, and especially a mobile app. Xamarin offer
 * Visual
 
 
+
 ::: bad  
 ![Figure: Bad Example - same styling defined and repeated multiple times](xamarin-style-bad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Styles defined once in resource dictionary and applied to controls](xamarin-style-good.png)  

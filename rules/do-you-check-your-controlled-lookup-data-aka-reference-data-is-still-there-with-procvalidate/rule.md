@@ -19,6 +19,7 @@ redirects:
 
 The simplest way is to add a procValidate (Stored Procedure) to check that all the lookup data is still there.
 
+
 ::: ok  
 ![Figure: procValidates are just like a nagging wife](NaggingWife.gif)  
 :::
@@ -26,10 +27,15 @@ The simplest way is to add a procValidate (Stored Procedure) to check that all t
  Let's look at an example, of a combo that is populated with Controlled Lookup data (just 4 records)    
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: How do I make sure these 4 records never go missing?](TimeProDropDown.png)  
 :::
-<font class="ms-rteCustom-CodeArea">    <pre>CREATE PROCEDURE procValidate_Region 
+
+
+
+```
+CREATE PROCEDURE procValidate_Region 
 AS
 
     IF EXISTS(SELECT TOP 1 * FROM dbo.[Region]
@@ -52,5 +58,7 @@ AS
         PRINT 'Southern is there'
     ELSE
         RAISERROR(N'Lack of Southern', 10, 1)
-</pre>
-    </font>Figure: Implement a stored procedure to check the 'Controlled Lookup Data' does not go missing Note: As this procedure will be [executed many times, it must be Idempotent](/Pages/DoYouIgnoreIdempotency.aspx)
+```
+
+
+Figure: Implement a stored procedure to check the 'Controlled Lookup Data' does not go missing Note: As this procedure will be [executed many times, it must be Idempotent](/Pages/DoYouIgnoreIdempotency.aspx)

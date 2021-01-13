@@ -23,6 +23,7 @@ Once you are doing that, this is how you check the status of the current Sprint:
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good example - This Sprint currently has 2 'Failed' tests (red), and 1 'Active' test (blue). (This 'Results' view is new in MTM 2012)](check-sprint-status.jpg)  
 :::

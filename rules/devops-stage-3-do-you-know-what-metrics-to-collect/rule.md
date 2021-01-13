@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - what-metrics-to-collect-stage-3
+- devops--stage-3-do-you-know-what-metrics-to-collect
 - devops-–-stage-3-do-you-know-what-metrics-to-collect
 
 ---

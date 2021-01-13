@@ -19,6 +19,7 @@ Go to **\\printer**
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: Printers listed in Printer Server](printers.jpg)  
 :::

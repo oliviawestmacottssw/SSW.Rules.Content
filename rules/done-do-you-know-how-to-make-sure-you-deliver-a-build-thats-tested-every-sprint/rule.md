@@ -14,6 +14,7 @@ authors:
   url: https://ssw.com.au/people/martin-hinshelwood
 related: []
 redirects:
+- done---do-you-know-how-to-make-sure-you-deliver-a-build-thats-tested-every-sprint
 - done-do-you-know-how-to-make-sure-you-deliver-a-build-that’s-tested-every-sprint
 
 ---

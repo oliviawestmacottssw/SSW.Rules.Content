@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - use-transactions-for-complicated-stored-procedures
+- stored-procedures---do-you-use-transactions-for-complicated-stored-procedures
 
 ---
 
@@ -18,18 +19,27 @@ A transaction means an atomic operation, it assures that all operations within t
 
 <!--endintro-->
 
+
+
+```
 ALTER PROCEDURE [dbo].[procInit]
 AS
  DELETE ParaLeft
  DELETE ParaRight
  INSERT INTO ParaLeft (ParaID)
  SELECT ParaID FROM Para
+```
+
+
 
 ::: bad
 Figure: Bad Example - No transaction here, if any of operations fail, the database will only partially update, resulting in an unwanted result.
 
 :::
 
+
+
+```
 ALTER PROCEDURE [dbo].[procInit]
 AS
  BEGIN TRANSACTION
@@ -38,6 +48,9 @@ AS
  INSERT INTO ParaLeft (ParaID)
  SELECT ParaID FROM Para
  COMMIT
+```
+
+
 
 ::: good
 Figure: Good Example - Using a transaction to assure that all operations within the transaction will be successful, otherwise, the database will roll back to the original state.

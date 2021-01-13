@@ -9,6 +9,7 @@ authors: []
 related: []
 redirects:
 - controls-do-you-set-row-select-mode-as-＂fullrowselect＂-for-datagridview-if-it-is-read-only-(windows-forms-only)
+- controls---do-you-set-row-select-mode-as-fullrowselect-for-datagridview-if-it-is-read-only-windows-forms-only
 - controls-do-you-set-row-select-mode-as-fullrowselect-for-datagridview-if-it-is-read-only-(windows-forms-only)
 
 ---
@@ -17,13 +18,16 @@ If you use the DataGridView control which is read only, you had better set row s
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Row select mode is not "FullRowSelect".](../../assets/NoneFullRowSelect.gif)  
 :::
 
+
 ::: good  
 ![Figure: Good Example - Row select mode is "FullRowSelect".](../../assets/FullRowSelect.gif)  
 :::
+
 
 ::: ok  
 ![Figure: Changed row select mode to FullRowSelect.](../../assets/setselectmodefull.gif)  

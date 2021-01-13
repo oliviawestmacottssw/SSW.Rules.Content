@@ -16,6 +16,7 @@ redirects:
 
 You should never start a long process (&gt;30 seconds) without first giving a warning message to warn the user approximately how long it will take.
 
+
 ::: good  
 ![Figure: Good example - Code Auditor message warning this is a long process](lengthyoperation.jpg)  
 :::

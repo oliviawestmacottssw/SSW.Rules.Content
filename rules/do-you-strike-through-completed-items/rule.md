@@ -15,9 +15,11 @@ When you're giving an update on progress on a task list or a schedule, ~~STRIKE 
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good Example - Completed items are struck-through](../../assets/StrikeThrough.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Completed tasks are struck-through](../../assets/OutlookTaskList.JPG)  

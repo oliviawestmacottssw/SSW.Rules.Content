@@ -15,9 +15,11 @@ Hyperlinks are the foundation to website navigation. Without       it, the Inter
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - I have no way of knowing that this link allows me to edit my details](../../assets/Websites\_NotIntuitiveHyperlinks.gif)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - I'm pretty certain where this link will take me...](../../assets/Websites\_IntuitiveHyperlinks.gif)  

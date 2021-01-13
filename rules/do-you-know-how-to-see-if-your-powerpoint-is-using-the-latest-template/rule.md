@@ -15,6 +15,7 @@ Unfortunately, there is no easy solution to this. What we need is a 'version' fi
 
 <!--endintro-->
 
+
 ::: ok  
 ![Figure: This is how you can see if you are using the template file](CheckTemplate.jpg)  
 :::

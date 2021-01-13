@@ -29,14 +29,17 @@ There are three steps:
 * You need to install [SSW SQL Reporting Service Auditor](https://www.ssw.com.au/ssw/SQLReportingServicesAuditor/ "SSW SQL Reporting Service Auditor")both on the old and new servers. (You'll also need to run it on 3rd step)
 * Find those reports are not-in-use, as per a rule: <br>      [Do you know which reports are being used?](/do-you-know-which-reports-are-being-used)
 * Find creators of those reports, by clicking “Detail Views” in reports folder<br>      
+
 ::: ok  
 ![Figure: Find reports creators by clicking "Details View" inside report folder](detailsview.png)  
 :::
 * Send an email to report creater ask for permission to delete 
 
+
 ::: ok  
 ![Figure:  Send an email to ask permission](sent.png)  
 :::
+
 
 ::: ok  
 ![Figure: Email received with permission to delete from creator](receive.png)  

@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - make-frequently-accessed-sharepoint-pages-easier-to-find
+- tabs---do-you-make-frequently-accessed-sharepoint-pages-easier-to-find
 
 ---
 
@@ -22,9 +23,11 @@ Some information sent via email, such as an event agenda will often be accessed 
 
 A SharePoint page can also have dynamic content such as Document Library views, Youtube players, and much more. You can even embed your own custom web parts, rendered in Teams with full fidelity.
 
+
 ::: bad  
 ![Bad Example: Details sent via Email](details-sent-bad.jpg)  
 :::
+
 
 ::: good  
 ![Good Example: Details set as a SharePoint page, visible in a Team’s tab](details-sent-good.jpg)  
@@ -34,11 +37,13 @@ To set up a SharePoint Page as a Tab in Teams, follow these steps:
 
 1. Navigate to SharePoint:
 
+
 ::: ok  
 ![Figure: Navigating to SharePoint from Teams](navigate-to-sharepoint-from-teams.png)  
 :::
 
 2. Create a SharePoint page
+
 
 ::: ok  
 ![Figure: adding a new SharePoint page](adding-sharepoint-page.jpg)  
@@ -46,15 +51,18 @@ To set up a SharePoint Page as a Tab in Teams, follow these steps:
 
 3. Customize it
 
+
 ::: ok  
 ![Figure: Customizing the page using the different controls](customizing-sharepoint-page.png)  
 :::
 
 4. Publish it (tips: you can even share it via Email or Promote it as a News)
 
+
 ::: ok  
 ![Figure: Publishing the page](publishing-sharepoint-page.png)  
 :::
+
 
 ::: ok  
 ![Figure: several options available once the page is published](options-avaialble-sharepoint-page.jpg)  
@@ -64,11 +72,13 @@ To set up a SharePoint Page as a Tab in Teams, follow these steps:
 
 6. Select “SharePoint”
 
+
 ::: ok  
 ![Figure: Adding the page as a tab in Teams](adding-sharepoint-page-as-a-tab-in-teams.png)  
 :::
 
 7. Select the page you just published and hit “save”
+
 
 ::: ok  
 ![Figure: picking the page from the menu](picking-sahrepoint-page-from-menu.jpg)  

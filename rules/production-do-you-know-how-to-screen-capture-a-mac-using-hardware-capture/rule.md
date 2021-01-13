@@ -9,7 +9,8 @@ authors:
 - title: Raj Dhatt
   url: https://ssw.com.au/people/raj-dhatt
 related: []
-redirects: []
+redirects:
+- production---do-you-know-how-to-screen-capture-a-mac-using-hardware-capture
 
 ---
 

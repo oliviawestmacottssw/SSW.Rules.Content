@@ -16,6 +16,7 @@ redirects: []
 ---
 
 We've all received a cryptic email at some point. Don't just reply saying "I don't understand". Chances are if the sender of the task couldn't explain the task well enough the first time then it's likely conversation is needed to clarify the issue. Pick up the phone or Skype the person who sent the email.  
+
 ::: ok  
 ![Figure: If an email isn't clear, a phone call generally sorts problems out quickly](putin-phone.jpg)  
 :::

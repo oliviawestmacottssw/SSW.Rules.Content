@@ -31,6 +31,7 @@ If the request from the client is too large for one Work Item, then it will need
 
 **Note:** Once you've moved the email into Azure DevOps as a work item, you should delete the original email from your inbox or move it to an Outlook folder called "Moved to Azure DevOps" to avoid duplication.
 
+
 ::: ok  
 ![Figure: Now the new Product Backlog Item is in the Product Backlog](2014-11-10\_13-17-43-compressor.png)  
 :::

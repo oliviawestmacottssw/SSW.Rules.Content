@@ -9,7 +9,8 @@ authors:
 - title: Matt Goldman
   url: https://ssw.com.au/people/matt-goldman
 related: []
-redirects: []
+redirects:
+- ios---do-you-know-how-to-optimise-your-test-and-release-deployments
 
 ---
 

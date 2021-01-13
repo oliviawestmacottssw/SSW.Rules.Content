@@ -11,11 +11,13 @@ authors:
 - title: Jay Lin
   url: https://ssw.com.au/people/jay-lin
 related: []
-redirects: []
+redirects:
+- aspnet-vs-sharepoint-development---do-you-know-deployment-is-different
 
 ---
 
 In ASP.NET deployment is a simple xcopy. Or you can right click the Web Site project and  "Publish Web Site" in Visual Studio.
+
 
 ::: good  
 ![Fugure: Publish Web Site in Visual Studio](PublishWebSite.png)  

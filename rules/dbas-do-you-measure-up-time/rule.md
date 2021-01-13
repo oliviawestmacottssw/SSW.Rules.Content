@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - measure-up-time
+- dbas---do-you-measure-up-time
 
 ---
 

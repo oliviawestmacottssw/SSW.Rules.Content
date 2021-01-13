@@ -38,10 +38,13 @@ You have just added a grid that auto updates, but you need to disable all the ti
 
 Now what do you do?
 
+
+
+```
 protected override void OnPreLoad(EventArgs e)
 {
      //Fix for pages that allow edit in grids
-     this.Controls.ForEach(c=&gt;
+     this.Controls.ForEach(c=>
      {   
           if (c is System.Web.UI.Timer)
           {
@@ -50,4 +53,7 @@ protected override void OnPreLoad(EventArgs e)
      });
      base.OnPreLoad(e);
 }
+```
+
+
  **Figure: Work around code in the Page Render**

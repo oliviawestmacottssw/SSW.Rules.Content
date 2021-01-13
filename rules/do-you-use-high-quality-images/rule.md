@@ -23,9 +23,11 @@ For this reason, we encourage you to choose only high quality photos and to avoi
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - What is this monstrosity!](low-quality.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Figure: Good Example - Looks classy, that](high-quality.jpg)  

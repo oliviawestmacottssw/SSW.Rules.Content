@@ -31,6 +31,7 @@ Creating and promoting optimized playlists is a plus, increasing session time (a
 
 
 
+
 ::: ok  
 ![](playlist\_bad.png)  
 :::
@@ -38,6 +39,7 @@ Creating and promoting optimized playlists is a plus, increasing session time (a
 ::: bad
 Bad example: people living YouTube after (or even while) watching one of your videos will rank you (and your content) down.  
 :::
+
 
 
 
@@ -51,6 +53,7 @@ OK example: people watching another video after yours will give you a little boo
 
 
 
+
 ::: ok  
 ![](playlist\_good.png)  
 :::
@@ -58,6 +61,7 @@ OK example: people watching another video after yours will give you a little boo
 ::: good
 Good example: people watching a video from your playlist are more likely to keep watching more of your videos, giving you a big boost!  
 :::
+
 
 
 

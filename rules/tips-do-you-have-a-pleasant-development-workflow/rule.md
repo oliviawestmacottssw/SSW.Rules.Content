@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - have-a-pleasant-development-workflow
+- tips---do-you-have-a-pleasant-development-workflow
 
 ---
 

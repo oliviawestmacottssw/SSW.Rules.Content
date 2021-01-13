@@ -28,6 +28,7 @@ This approach can be useful for problems where time or effort is not immediately
 
 There should be an agreement of the time allowed to be spent ahead of time, even if what is being worked on has no scope.
 
+
 ::: good  
 ![Good example: Work is done as needed, when needed](work-done-as-needed-when-needed.png)  
 :::
@@ -40,13 +41,16 @@ The alternative is to work with a Scrum Master, or a Project Manager, with speci
 This method is recommended for any work which is substantial and where the client wants a greater degree of control. 
 In this approach, backlog items are created during the Spec Review process while creating the project estimates, which can be used to create the sprints.
 
+
 ::: good  
 ![Good example: Scope and tasks are arranged ahead of time during the Spec Review process](scope-tasks-spec-review.png)  
 :::
 
+
 ::: good  
 ![Good example: A Product Backlog is created with individual Product Backlog Items sized in effort](product-backlog-example.png)  
 :::
+
 
 ::: good  
 ![Good Example: A sprint is created for the week with the Product Backlog Items ready to be tracked](sprint-example.png)  

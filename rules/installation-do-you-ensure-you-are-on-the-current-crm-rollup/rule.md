@@ -11,7 +11,8 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects: []
+redirects:
+- installation---do-you-ensure-you-are-on-the-current-crm-rollup
 
 ---
 

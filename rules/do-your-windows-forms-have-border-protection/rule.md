@@ -15,19 +15,23 @@ Border protection helps us design Windows Forms properly without placing  contro
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good Example - Good border protection on a form at run time. The only problem is you would have to imagine these blue lines to get consistency](../../assets/BorderProtectionExample.gif)  
 :::
 
 **Border protection in action:**
 
+
 ::: bad  
 ![Figure: Bad Example - Controls placed very near to the border and not aligned correctly](../../assets/BorderProtectionBad.gif)  
 :::
 
+
 ::: good  
 ![Figure: Good Example - All controls are in the border protection area and aligned correctly](../../assets/BorderProtectionGood.gif)  
 :::
+
 
 ::: ok  
 ![Figure: Design mode](../../assets/BorderProtectionDesign.gif)  

@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - archive-old-teams
+- sysadmin---do-you-archive-old-teams
 
 ---
 
@@ -22,9 +23,11 @@ Within a team or project-based organization, the number of Teams can rapidly gro
 
 Hiding teams works well enough for end users but doesn't help administrators figure out which teams are actually in use. You should "Archive" unused teams instead – making the team unavailable read-only.
 
+
 ::: bad  
 ![Figure: Bad example - Lots of old and test teams](old-teams-bad.png)  
 :::
+
 
 ::: good  
 ![Figure: Good example - Old teams are archived](old-teams-good.jpg)  
@@ -40,9 +43,11 @@ To archive a Team, follow these steps:
 * Click "Archive team"
 
 
+
 ::: ok  
 ![Figure: Clicking "Manage Teams"](old-teams-how1.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Clicking "Ellipsis" | "Archive Team"](old-teams-how2.png)  

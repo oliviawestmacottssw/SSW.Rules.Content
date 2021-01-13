@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - product-owner-do-you-know-how-to-update-the-backlog
+- product-owner---do-you-know-how-to-buildupdate-the-backlog
 
 ---
 

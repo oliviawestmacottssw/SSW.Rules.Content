@@ -20,6 +20,9 @@ The .NET compiler generates a jump list for switch blocks, resulting in far bett
 
 <!--endintro-->
 
+
+
+```
 int DepartmentId = GetDepartmentId()
 if(DepartmentId == 1)
 {
@@ -45,6 +48,9 @@ else
 {
 // do something #6
 }
+```
+
+
 
 ::: bad
 Figure: Bad example of coding practice  
@@ -52,6 +58,9 @@ Figure: Bad example of coding practice
 
 
 
+
+
+```
 int DepartmentId = GetDepartmentId()
 switch(DepartmentId)
 {
@@ -77,6 +86,9 @@ default:
 //Do something here
 break;
 }
+```
+
+
 
 ::: good
 Figure: Good example of coding practice which will result better performance 

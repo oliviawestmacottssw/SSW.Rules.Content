@@ -12,6 +12,7 @@ related:
 - do-you-use-prefix-sys-in-table-name-best-practice
 redirects:
 - do-you-always-have-version-tracking-tables
+- schema---do-you-always-have-version-tracking-tables
 
 ---
 

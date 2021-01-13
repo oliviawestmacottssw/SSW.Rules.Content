@@ -28,9 +28,11 @@ It is also one more reason developers don’t like to join a company domain on t
 
 
 
+
 ::: bad  
 ![Bad Example - Windows 10 shows a ‘Restart now’ – do not accidentally press it! Your production server and your users won't be happy!](Windows-Update-notification.png)  
 :::
+
 
 ::: bad  
 ![Bad example – Remember this nasty one from Vista days?](updates-restart.jpg)  
@@ -42,10 +44,12 @@ The best ensure you are still downloading updates but not installing them automa
 
 1. Create an Organization Unit (OU) in Active Directory, and put all your Production Servers in the OU
 
+
 ::: ok  
 ![Add all your Production Servers to the Production Server OU](updates-adou.jpg)  
 :::
 2. Create a new Group Policy object and link it to the Production Server OU
+
 
 ::: ok  
 ![Create a new Group Policy for your Production Servers](updates-gpo.jpg)  
@@ -53,6 +57,7 @@ The best ensure you are still downloading updates but not installing them automa
 3. Edit the new Group Policy object and drill down to <br>       **Computer Configuration** | <br>       **Policies** | <br>       **Windows Components** | <br>       **Windows Update**
 4. Edit the <br>       **Configure Automatic Update Properties** item and <br>       **enable** it
 5. Set the <br>       **Configure Automatic Updating** option to <br>       **3 – Auto download and notify for install
+
 
 ::: ok  
 ![Edit Configure Automatic Updates Properties and enable 'Auto download and notify for install](updates-editgp.jpg)  
@@ -62,6 +67,7 @@ The best ensure you are still downloading updates but not installing them automa
 
 After the new Group Policy propagates, you will notice the update setting is now locked on the servers in the Production Server OU.
 
+
 ::: good  
 ![The Group Policy locks the Windows Update setting](updates-updatesforced.jpg)  
 :::
@@ -69,6 +75,7 @@ After the new Group Policy propagates, you will notice the update setting is now
 
 
 From now on your servers will be updated without unplanned reboots!
+
 
 ::: good  
 ![Figure: Good example - AD shows the Group Policy setting “3 – Auto download and notify for install”. This policy is applied to the specified OU eg. Production Servers joined to this domain](Default domain policy1.png)  

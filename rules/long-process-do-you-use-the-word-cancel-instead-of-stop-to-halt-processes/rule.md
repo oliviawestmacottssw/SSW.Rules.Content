@@ -8,6 +8,7 @@ created: 2012-11-27T03:03:58.0000000Z
 authors: []
 related: []
 redirects:
+- long-process---do-you-use-the-word-cancel-instead-of-stop-to-halt-processes
 - long-process-do-you-use-the-word-cancel-(instead-of-stop)-to-halt-processes
 
 ---
@@ -16,9 +17,11 @@ When stopping processes, you should use 'Cancel'... Not 'Stop'. The meaning of '
 
 <!--endintro-->
 
+
 ::: bad  
 ![Figure: Bad Example - Stop is an ambiguous term and can be momentarily confusing](../../assets/cancel-long-process-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - Cancel leaves little room for miscommunication](../../assets/cancel-long-process-good.jpg)  

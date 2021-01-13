@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-know-the-nice-way-to-correct-someone
+- communication---do-you-know-the-nice-way-to-correct-someone
 
 ---
 

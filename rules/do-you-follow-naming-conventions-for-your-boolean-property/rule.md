@@ -19,16 +19,28 @@ Boolean Properties must be prefixed by a verb. Verbs like "Supports", "Allow", "
 
 <!--endintro-->
 
+
+
+```
 public bool Enable { get; set; }
 public bool Invoice { get; set; }
+```
+
+
 
 ::: bad
 Bad Example 
 
 :::
 
+
+
+```
 public bool Enabled { get; set; }
 public bool IsInvoiceSent { get; set; }
+```
+
+
 
 ::: good
 Good Example - Naming Convention for Boolean Property

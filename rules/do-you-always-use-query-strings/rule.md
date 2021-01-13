@@ -23,6 +23,7 @@ When you build a web application, any dynamic page you think a user may wish to 
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: The URL should always have all the parameters the user enters. Here Google is a good example](querystring.png)  
 :::

@@ -7,7 +7,8 @@ uri: c-vb-net-configuration-do-you-know-not-to-use-debug-compilation-in-producti
 created: 2013-01-11T18:25:53.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- cvbnet-configuration---do-you-know-not-to-use-debug-compilation-in-production-applications
 
 ---
 
@@ -28,9 +29,11 @@ The rest is up to the JIT.
 
 As per:     [C# debug vs release performance](http://stackoverflow.com/questions/2446027/c-sharp-debug-vs-release-performance).
 
+
 ::: bad  
 ![Figure: Bad Example](debug-bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example](debug-good.jpg)  

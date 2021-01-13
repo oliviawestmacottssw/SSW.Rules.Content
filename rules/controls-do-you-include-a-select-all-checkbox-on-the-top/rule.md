@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - controls-do-you-include-a-＂select-all＂-checkbox-on-the-top
+- controls---do-you-include-a-select-all-checkbox-on-the-top
 
 ---
 
@@ -18,29 +19,36 @@ Do you have checkbox (on the top) that let users select or unselect all checkbox
 
 <!--endintro-->
 
+
 ::: good  
 ![Figure: Good Example - Hotmail does this](../../assets/HotmailSelectAll.gif)  
 :::
+
 
 ::: ok  
 ![Figure: Google have done it a different way to provide multiple methods (All, All Read, All Unread, All Starred, and All Unstarred)](../../assets/GmailSelectAll.gif)  
 :::
 
+
 ::: bad  
 ![Figure: Bad Example - SQL Auditor - No CheckBox for users to perform a "select all"](../../assets/SQLAuditorSelectAll\_Bad.jpg)  
 :::
+
 
 ::: good  
 ![Figure: Good Example - SQL Auditor - CheckBox at the top of the column](../../assets/SQLAuditorSelectAll\_good.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: Selecting all does this - selects all](../../assets/SQLAuditorSelectAll\_All.jpg)  
 :::
 
+
 ::: ok  
 ![Figure: Deselecting all does this - selects none](../../assets/SQLAuditorSelectAll\_None.jpg)  
 :::
+
 
 ::: ok  
 ![Figure: Selecting some should show the Indeterminate check state - aka customized selection](../../assets/SQLAuditorSelectAll\_Customize.jpg)  
@@ -54,6 +62,7 @@ sDataGridViewRow.Cells(0).Value = Me.CheckBoxSelectAll.Checked
 Next
 End Sub
 Code: Code for selecting all checkboxes in a windows form
+
 ::: ok  
 ![Figure: Select all checkboxes in a web form](../../assets/SelectAllCheckBox\_Web.jpg)  
 :::

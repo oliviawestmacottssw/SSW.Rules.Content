@@ -7,7 +7,8 @@ uri: post-production-do-you-know-how-to-structure-your-files
 created: 2013-10-20T22:19:03.0000000Z
 authors: []
 related: []
-redirects: []
+redirects:
+- post-production---do-you-know-how-to-structure-your-files
 
 ---
 
