@@ -29,7 +29,7 @@ If you go into your sent items, open up the offending email, and go into Actions
 
 If you go into your sent items, open up the offending email, and go into file | Info | Resend Or Recall | Recall this message, outlook will attempt to delete the message from the recipient's inbox before he has a chance to read it.
 
- ![RecallInOutlook2010.jpg](RecallInOutlook2010.jpg)
+ ![](RecallInOutlook2010.jpg)
 
 
 

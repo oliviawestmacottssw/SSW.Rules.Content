@@ -22,11 +22,9 @@ OK - so now you've got your important emails identified, don't let them get lost
 
 ![Sort by Recieved and Important](OutlookSortbyReceivedThenImportant.gif)
 
-
 ::: good
-Figure: Good Example - Sorted by Important and Received Date
+Figure: Good Example - Sorted by Important and Received Date  
 :::
-
 
 The Red Exclamation Mark is a good start, but the Blue Arrow keeps getting my attention.
 

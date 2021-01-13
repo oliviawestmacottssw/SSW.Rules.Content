@@ -27,7 +27,7 @@ The step by step to rename a file that under SourceSafe control:
 
 ::: ok  
 ![Figure: Warning message of renaming files under source control.](RenameVSS1\_small.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: You are seeing this as the new file name already exists in SourceSafe, just click "Continue with change".](RenameVSS2\_small.jpg)  

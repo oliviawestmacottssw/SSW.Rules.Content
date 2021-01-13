@@ -19,7 +19,7 @@ Despite seeming trivial, the most subtle elements of your form can have the grea
 
 ::: bad  
 ![Figure: Bad Example - What's wrong with this form?](../../assets/ScreenBadControls.gif)  
-:::  
+:::
 
 The form shown in this screenshot is an example of bad control placement:
 
@@ -40,7 +40,7 @@ These examples assume that you are using the standard system font as defined in 
 
 ::: good  
 ![Figure: Good Example - The form follows Standards of good form design discussed below](../../assets/external.gif)  
-:::  
+:::
 
 ### The Rules
 
@@ -71,7 +71,7 @@ Here's a good example for you to take inspiration from. This dialog is from Micr
 
 ::: good  
 ![Figure: Good Example - Microsoft have defined to exacting measures what spacing should be used in their Microsoft Outlook wizards](../../assets/external.gif)  
-:::  
+:::
 
 Read more about control size on the     [Rules to Better Windows Forms](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#CommonControl) page
 

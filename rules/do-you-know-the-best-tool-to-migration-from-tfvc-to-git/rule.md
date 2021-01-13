@@ -34,14 +34,12 @@ Git has become the defacto standard for version control systems. It's distribute
 
 VisualStudio.com gives you the ability to import from a TFVC repository into a new Git repository.
 
-![03_29_08.png](03_29_08.png)
-
+![](03_29_08.png)
 
 ::: bad
 Bad Example - Built in tool has several limitations
 
 :::
-
 
 If you don't care about source control history, then this inbuilt tool is the easiest to use. It has the limitations of:
 
@@ -50,12 +48,10 @@ If you don't care about source control history, then this inbuilt tool is the ea
 * No branches
 
 
-
 ::: greybox
  **TIP -** Use this if you don't care about source control history
 
 :::
-
  
 
 ### Git -Tf 
@@ -67,12 +63,10 @@ If you don't care about source control history, then this inbuilt tool is the ea
 To see how to use this to migrate see ["Migrate an existing project from TFS to Git with changeset history intact" from Chris Kirby](https://chriskirby.net/blog/migrate-an-existing-project-from-tfs-to-github-with-changeset-history-intact)
 
 
-
 ::: greybox
  **TIP -** Use Git-Tf if you don't have a Windows environment
 
 :::
-
 
 
 ### Git-Tfs ( Recommended)

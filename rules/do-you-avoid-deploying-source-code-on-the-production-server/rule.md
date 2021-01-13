@@ -25,20 +25,20 @@ Instead, please use 'Publish' utility to deploy your Web site or Web application
 
 ::: ok  
 ![Figure: How to open Publish Web Site dialog box](PublishWebsite.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Publish Web Site dialog box](PublishWebsiteDialog.JPG)  
-:::  
+:::
     See more about [Publishing Web Sites](https://msdn.microsoft.com/en-us/library/20yh9f1b.aspx).
 2. Web Application Project <br>          The  **Publish Web** dialog box enables you to build and publish a Web application project to a new location. Like  **Publish Web Site** dialog box, this utility can remove source code. However you have to select  **Only files needed to run this application** to specify it. Other benefit of this utility is that potential errors and compile-time errors in the Web.config file and in other non-code files can be found.
     To access this dialog box, open a Web application project that you want to publish and click  **Publish** ApplicationName on the  **Build** menu.
 
 ::: ok  
 ![Figure: How to open Publish Web dialog ('WebApp' is the name of this application)](PublishWebApp.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Publish Web dialog box](PublishWebAppDialog.JPG)  
-:::  
+:::
     See more about [How to Publish Web Applications](https://msdn.microsoft.com/en-us/library/aa983453.aspx).

@@ -30,7 +30,7 @@ There are numerous examples of social engineering ranging from phone calls, atta
 
 ::: ok  
 ![Figure: ‘Do you think the average consumer could spot the phishing site?’ Source: Troy Hunt](social-eng.png)  
-:::  
+:::
 
 The only solution to social engineering is to train properly and prepare users about the dangers presented by and common techniques used by malicious individuals. For useful information on the topic reference the document ‘[Avoiding Social Engineering and Phishing Attacks’ by the United States Computer Emergency Readiness Team](https://www.us-cert.gov/ncas/tips/ST04-014) or the Pluralsight course [Ethical Hacking: Social Engineering by Troy Hunt](http://app.pluralsight.com/courses/ethical-hacking-social-engineering).
 

@@ -16,9 +16,8 @@ redirects: []
 ---
 
 ::: greybox
-Option Explict should always only be used in VB.NET.
+Option Explict should always only be used in VB.NET.  
 :::
-
 
 <!--endintro-->
 

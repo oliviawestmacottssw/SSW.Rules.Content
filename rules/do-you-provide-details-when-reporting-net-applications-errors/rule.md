@@ -20,8 +20,7 @@ The text within the 'Details' button is more useful for debugging and locating t
 
 ::: ok  
 ![Figure: Bug details window](../../assets/DotNetDebug2.GIF)  
-:::  
-
+:::
 
 ::: greybox
 See the end of this message for details on invoking 
@@ -92,5 +91,5 @@ For example:
 
 When JIT debugging is enabled, any unhandled exception
 will be sent to the JIT debugger registered on the machine
-rather than being handled by this dialog.
+rather than being handled by this dialog.  
 :::

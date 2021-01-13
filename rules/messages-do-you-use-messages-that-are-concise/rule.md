@@ -28,13 +28,13 @@ It is important to use terminology that your users will understand. Do not to us
 
 ::: bad  
 ![Figure: Bad Example - Is it OK to Cancel?](../../assets/Bad-MessageBoxZango.jpg)  
-:::  
+:::
 
 Microsoft uses this one:
 
 ::: good  
 ![Figure: Good Example - Microsoft error message is concise](../../assets/NotEnoughMemory.gif)  
-:::  
+:::
 
 Some other message types that Microsoft uses are:
 

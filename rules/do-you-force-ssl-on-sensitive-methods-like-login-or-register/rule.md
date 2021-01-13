@@ -18,7 +18,6 @@ Any sensitive data that is sent over the wire must be protected using a secure t
 <!--endintro-->
 
 
-
 :::
 
 
@@ -30,9 +29,7 @@ public ActionResult Register()
 ```
 
 
-::: greybox
-Figure: Bad Example – The Register method isn’t secure
-
+::: greyboxFigure: Bad Example – The Register method isn’t secure
 
 :::
 
@@ -46,5 +43,4 @@ public ActionResult Login()
 ```
 
 
-::: greybox
-Figure: Good Example – The Login method is protected by HTTPS
+::: greyboxFigure: Good Example – The Login method is protected by HTTPS

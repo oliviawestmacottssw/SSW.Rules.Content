@@ -37,25 +37,21 @@ It is not very difficult, but you should still follow some rules:
 
 ::: ok  
 ![](description\_bad.png)  
-:::  
-
-
-::: bad
-Bad example: Short descriptions are not SEO-optimized.
 :::
 
+::: bad
+Bad example: Short descriptions are not SEO-optimized.  
+:::
 
 
 ::: ok  
 ![](description\_good.png)  
-:::  
-
+:::
 
 ::: good
 Good example: treat your video description as a blog post and give info but keep the details for your video! 
 
 :::
-
 
 
 

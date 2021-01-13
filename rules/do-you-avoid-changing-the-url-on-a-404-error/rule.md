@@ -25,7 +25,7 @@ The disadvantage is, that .NET changes the URL. So if the user wants to correct 
 
 ::: bad  
 ![Figure: Bad example - URL changes](url\_asp.gif)  
-:::  
+:::
 
 Our solution is to show the customized error page while not change the original URL. So if the user wants to do any corrections, e.g. a mixed up letter, he can do that by just editing the URL in the address bar.
 The advantages of this solution are, that the site looks nice and matches the design of the whole site and that the user can easily change the original URL he typed.
@@ -34,7 +34,7 @@ You can try any page name that doesn't exist like xxx.asp on the URL and it will
 
 ::: good  
 ![Figure: Good example - Customized 404 error page without change the URL](404-good.jpg)  
-:::  
+:::
 
 In order to show the customized error page while not change the original URL, you can use Server.Transfer() to keep the original URL.
 

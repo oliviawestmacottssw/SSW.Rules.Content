@@ -24,21 +24,21 @@ Scheduled payments means you won't need to make individual payments through your
 
 At SSW, we use our Accounting software (Xero) to schedule payments. All invoices and bills are either emailed or pushed through to the bill's section via an expense app (we recommend using either Xero Expense or Hubdoc app).
 
-![2020-11-20_14-47-54.png](2020-11-20_14-47-54.png)
+![](2020-11-20_14-47-54.png)
  **Figure: Use Xero's bill creation via email forwarding process**
 
 OR
 
-![2020-11-20_15-09-45.png](2020-11-20_15-09-45.png)
+![](2020-11-20_15-09-45.png)
  **Figure: Use Xero Expense for capturing bills or money spent**
 
-Once the invoice is in the bill's section, you can schedule a planned payment date. ![2020-11-20_15-00-03.png](2020-11-20_15-00-03.png)
+Once the invoice is in the bill's section, you can schedule a planned payment date. ![](2020-11-20_15-00-03.png)
 
 **Figure: Scheduling area of unpaid bills**
 
 It is important to have a usual day of payment, so the accounts department is able to follow the agreed terms for scheduling and maintain consistency throughout. At SSW, we batch our payments on a weekly basis to be paid on Friday. Additionally, the accounts team should agree on whether payments are made prior to the due date or a number of days following the due date.
 
-It is then super easy to make a batch payment on the day of payment. Simply select the relevant date under the schedule of planned payments and select all invoices to be batched and paid through your banking portal. There should be no restrictions to the number of invoices to be paid at any one time so the business should be able to make all the weekly payments in one go, saving countless amounts of time not needed to process invoices daily and earlier than required.![2020-11-20_11-19-38.png](2020-11-20_11-19-38.png)
+It is then super easy to make a batch payment on the day of payment. Simply select the relevant date under the schedule of planned payments and select all invoices to be batched and paid through your banking portal. There should be no restrictions to the number of invoices to be paid at any one time so the business should be able to make all the weekly payments in one go, saving countless amounts of time not needed to process invoices daily and earlier than required.![](2020-11-20_11-19-38.png)
  **Figure: prepare batch payment for scheduled payments on a specific date**
 
 Note: all scheduled payments should ideally have an attached PDF of the invoice, as represented by the image of a paper document on the end of each transaction. This is useful for auditing purposes and referring or double-checking.

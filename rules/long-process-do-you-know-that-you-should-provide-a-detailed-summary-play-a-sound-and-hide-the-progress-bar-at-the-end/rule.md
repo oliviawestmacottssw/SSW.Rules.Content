@@ -28,13 +28,13 @@ When using Message Box to indicate user a process is done, always includes detai
 
 ::: bad  
 ![Process completed.  Figure: Bad example – No detailed information](../../assets/ProgressBarComplete.gif)  
-:::  
+:::
 
 This is just like standing at a set of traffic lights listening for the beep to know when to walk, rather than constantly looking at the red and green lights.
 
 ::: good  
 ![Figure: OK Example - A completed progress form](../../assets/ProgressBarComplete.gif)  
-:::  
+:::
 
 Manual extraction process completed.
 

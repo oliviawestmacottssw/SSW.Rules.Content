@@ -16,7 +16,6 @@ redirects: []
 Another thing that helps readability in emails is  **indentation** .   
 <!--endintro-->
 
-
 ::: greybox
 I’m on site with a client setting up their TFS Server. We have the TFS 2010 and WSS on the app tier and SQL 2008 Standard on a separate box. We can see Analysis Services running in Services but the configuration manager returns Error “TF 255040: You must exit Team Foundation Admin console and install SQL Server Reporting Services or at a minimum SQL Client Connectivity Tools…” SQL Reporting Services appears happy in the Advanced Configuration Wizard. Anyone have suggestions?     
 Mike
@@ -24,13 +23,9 @@ Mike
 :::
 
 
-
-
 ::: bad
-Figure: Bad Example - hard to read
+Figure: Bad Example - hard to read  
 :::
-
-
 
 ::: greybox
 
@@ -42,15 +37,12 @@ I’m on site with a client setting up their TFS Server. We have the TFS 2010 an
 
 SQL Reporting Services appears happy in the Advanced Configuration Wizard. Anyone have suggestions?
 
-Mike
+Mike  
 :::
-
-
 
 ::: good
-Figure: Good example – this reads better
+Figure: Good example – this reads better  
 :::
-
 
 Your new text should be kept to the left. When quoting text on web pages, other people or quoting past email history, indent it.
 

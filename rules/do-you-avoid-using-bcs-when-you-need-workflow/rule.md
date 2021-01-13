@@ -20,17 +20,14 @@ If you are planning to use Workflow, use Workflow with SharePoint List instead o
 
 ![](BCSDoesNotSupportWF.jpg)
 
-
 ::: bad
 BCS doesn't have WorkFlow support
 
 :::
 
 
-
 ![](WFSupportList.jpg)
 
-
 ::: good
-Use WorkFlow with SharePoint List
+Use WorkFlow with SharePoint List  
 :::

@@ -30,12 +30,10 @@ The performance overhead for public properties is trivial. In some situations, p
 
 public int Count;
 
-
 ::: bad
 Figure: Bad code. Variable declared as a Field
 
 :::
-
 
 public int Count
 {
@@ -49,11 +47,9 @@ public int Count
  }
 }
 
-
 ::: good
 Figure: Good code. Variable declared as a Property
 
 :::
-
 
 We agree that the syntax is tedious and think [Microsoft should improve this.](https&#58;//www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/VisualStudio.aspx#PropertyShortcut)

@@ -36,7 +36,6 @@ The following benefits of using heading tags:
 &lt;p&gt;&lt;span class="Heading"&gt;Introduction&lt;/span&gt;        
 &lt;br&gt;Lets chatter about...&lt;/p&gt;
 
-
 ::: bad
 Figure: Bad example -  **using span tags and CSS classes to put headings in** 
 
@@ -44,14 +43,11 @@ Figure: Bad example -  **using span tags and CSS classes to put headings in**
 
 
 
-
 &lt;h2&gt;Introduction&lt;/h2&gt;
-
 
 ::: good
 Figure: Good example - using heading styles
 :::
-
 
 
 ### Related Rules

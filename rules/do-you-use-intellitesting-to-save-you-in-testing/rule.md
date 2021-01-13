@@ -24,10 +24,10 @@ This is where IntelliTesting comes into play. The feature, formerly known as Sma
 
 ::: bad  
 ![Figure: Bad example - What’s wrong with this code?](IntelliTest-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - IntelliTest in action](IntelliTest-Good.png)  
-:::  
+:::
 
 In short, by using IntelliTest, you will increase code coverage, greatly increase the number of assertions tested, and increase the number of edge cases tested. By adding automation to your testing, you save yourself time in the long run and reduce the risk of problems in your code caused by simple human error.

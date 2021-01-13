@@ -28,28 +28,23 @@ With jQuery, you can write less code but do more work.
     document.all("Head1").style.color="red"; 
 &lt;/script&gt;
 
-
 ::: bad
-Figure - Bad Code
+Figure - Bad Code  
 :::
-
 
 &lt;h1 id="Head1"&gt;Hello&lt;/h1&gt; 
 &lt;script type="text/javascript" language="javascript"&gt;
     document.getElementById("Head1").style.color="red"; 
 &lt;/script&gt;
 
-
 ::: bad
-Figure: Bad Code
+Figure: Bad Code  
 :::
-
 
 &lt;h1 id="Head1"&gt;Hello&lt;/h1&gt; 
 &lt;script type="text/javascript" language="javascript"&gt;
     $("#Head1").css("color","red"); 
 &lt;/script&gt;
-
 
 ::: good
 Figure: Good Code - Using $("#Head1")

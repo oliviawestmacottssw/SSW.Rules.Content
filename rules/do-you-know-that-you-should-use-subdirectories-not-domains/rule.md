@@ -24,7 +24,7 @@ If you’re building a website today, and your business needs to create addresse
 There’s a lot of debate about this topic on the internet, so the question to ask yourself is: “Should I use subdirectories or subdomains?”
 
 <!--endintro-->
-![rulesubdomains.png](rulesubdomains.png)
+![](rulesubdomains.png)
  **Figure: Difference between subdirectories and subdomains** 
 
 

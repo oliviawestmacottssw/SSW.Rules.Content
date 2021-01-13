@@ -21,7 +21,7 @@ When building a simple API based on Entity Framework, It can be tempting to keep
 
 ::: bad  
 ![Figure: Bad Example - A naive WebAPI implementation](bad-webapi.png)  
-:::  
+:::
 
 Although this code is very simple to write, there can be a number of potential problems:
 
@@ -35,7 +35,7 @@ Update operations can be even more problematic:
 
 ::: bad  
 ![Figure: Bad Example - A naive update operation](bad-webapi-operation.png)  
-:::  
+:::
 
 Consider the Product object that is received as a [FromBody] parameter by the action.
 
@@ -62,13 +62,13 @@ For all these reasons, the use of DTOs or View Models is highly recommended:
 
 ::: good  
 ![Figure: Good Example - Update an Entity from a submitted View Model](good-webapi-1.png)  
-:::  
+:::
 
 This approach requires a bit more boiler-plate code as the fields to be updated are applied manually, but there is far less risk of unintended side effects.
 As the complexity of the code increases, it will be much easier for developers to keep a clear distinction between ViewModel objects that were received from web requests, and persistent entities that came from Entity Framework.<br>   
 ::: good  
 ![Figure: Good Example - A Read Operation that selects directly into a view model](good-webapi-operation-1.png)  
-:::  
+:::
 
 For the above read, Entity Framework will execute an SQL select statement containing only the fields that have been projected via .Select()  
 This will also prevent change tracking on the source entity.

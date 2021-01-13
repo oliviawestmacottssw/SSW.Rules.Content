@@ -29,7 +29,7 @@ The levels of protection are:
 
 ::: ok  
 ![Figure: You wouldn't play cricket without protective gear and you shouldn't code without protective tools](CricketHelmet.jpg)  
-:::  
+:::
 
 ### Level 1
 
@@ -43,11 +43,11 @@ Get ReSharper to green on each file you touch. You want the files you work on to
 
 ::: ok  
 ![Figure: ReSharper will show Orange when it detects that there is code that could be improved](48bc81\_image001.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: ReSharper will show green when all code is tidy](image002.png)  
-:::  
+:::
 
 ### Level 2
 
@@ -55,7 +55,7 @@ Is to use     [Code Auditor.](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx
 
 ::: ok  
 ![Figure: Code Auditor shows a lot of warnings in this test project](CodeAuditor.png)  
-:::  
+:::
 
 **Note:** Document any rules you've turned off.
 
@@ -71,7 +71,7 @@ Is to use StyleCop to check that your code has consistent style and formatting.
 
 ::: ok  
 ![Figure: StyleCop shows a lot of warnings in this test project](StyleCopInVS2010.png)  
-:::  
+:::
 
 ### Level 5
 
@@ -79,11 +79,11 @@ Run Code Analysis (was FxCop) with the default settings or ReSharper with Code A
 
 ::: ok  
 ![Figure: Run Code Analysis in Visual Studio](CodeAnalysisVS11.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: The Code Analysis results indicate there are 17 items that need fixing](codeanalysis.png)  
-:::  
+:::
 
 ### Level 6
 
@@ -91,7 +91,7 @@ Ratchet up your Code Analysis Rules until you get to 'Microsoft All Rules'
 
 ::: ok  
 ![Figure: Start with the Minimum Recommended Rules, and then ratched up.](image003.png)  
-:::  
+:::
 
 ### Level 7
 
@@ -103,7 +103,7 @@ Create a      **GlobalSuppressions.cs** file in your project with the rules that
 
 ::: ok  
 ![Figure: The suppressions file tells Code Analysis which rules it should disable for specific code blocks](suppressions-file.png)  
-:::  
+:::
 
 **More Information:** [Do you make instructions at the beginning of a project and improve them gradually?](/do-you-make-instructions-at-the-beginning-of-a-project-and-improve-them-gradually) and     https://docs.microsoft.com/en-us/visualstudio/code-quality/in-source-suppression-overview
 
@@ -113,7 +113,7 @@ The gold standard is to use <br>   [SonarQube](https://www.sonarqube.org/), whic
 
 ::: ok  
 ![Figure:  SonarQube workflow with Visual Studio and Azure DevOps](2016-06-08\_12-59-38.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: SonarQube gives you the changes in code analysis results between each check-in](2016-06-08\_12-59-53.png)  

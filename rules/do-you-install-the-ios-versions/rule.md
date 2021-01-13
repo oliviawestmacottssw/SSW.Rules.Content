@@ -24,7 +24,7 @@ Installing MS Lync client on Iphone or Ipad. Employees should be contactable no 
 3. Set up Lync to sign into your account as follows: <br>      
 ::: ok  
 ![Figure: you just need to enter 3 fields](Lync2.png)  
-:::  
+:::
 
     * Sign-in address is your <br>             **email address**
     * Password is your AD password

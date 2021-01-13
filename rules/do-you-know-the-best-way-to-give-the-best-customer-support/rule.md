@@ -42,7 +42,7 @@ For server machines, we recommend using either Windows' built-in Remote Desktop 
 
 ::: ok  
 ![Figure: Enable Remote Desktop](remoteconnection.png)  
-:::  
+:::
 
 Remote Desktop works for workstations, but it's not recommended due to a security risk if Remote Support isn't disabled. Also, because of the End User License Agreement (EULA), only allows 1 user at a time, if you log in to client's Windows machine, the client will be logged off.
 

@@ -41,7 +41,7 @@ Summary: SharePoint BCS -&gt; Pre-built Adapter (.NET Assembly) -&gt; CRM web se
 
 ::: ok  
 ![](correct.gif)  
-:::  
+:::
 
 **More information:**    
     Download from Microsoft

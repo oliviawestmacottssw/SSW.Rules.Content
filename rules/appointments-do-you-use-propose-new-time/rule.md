@@ -23,7 +23,7 @@ When you would like to propose a new time for an appointment that someone has se
 
 ::: bad  
 ![Figure: Bad Example: The person who sent the appointment has to interpret your message, then go back in and edit the appointment](decline.png)  
-:::  
+:::
 
 Instead of simply declining the message and typing your proposed time in the message body, propose a new time as follows:
 

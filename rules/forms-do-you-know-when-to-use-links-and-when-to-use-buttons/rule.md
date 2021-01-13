@@ -41,11 +41,11 @@ That being said, there are a couple of exceptions to this rule.
 
 ::: ok  
 ![Figure: An exception to the rule - an "Update" button inside the datagrid would look inconsistent](LinksExample.gif)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad Example - The "sign in" hyperlink should be a button](LinkVsButton.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - This is a perfect example of how a good sign in screen should look](Logon.gif)  

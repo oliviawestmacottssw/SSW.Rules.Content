@@ -20,7 +20,7 @@ The following grid shows where application files should be placed:
 
 ::: ok  
 ![](store-files.jpg)  
-:::  
+:::
 
 <!--endintro-->
 

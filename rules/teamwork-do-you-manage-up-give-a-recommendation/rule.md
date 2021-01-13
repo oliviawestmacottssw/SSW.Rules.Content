@@ -21,20 +21,15 @@ Managing up is providing your manager with an option to approve, rather than ask
 
 <!--endintro-->
 
-
 ::: greybox
 What do you want to charge for Cameron's rate?
 
 :::
 
-
-
 ::: bad
 Figure: Bad Example - Nothing to approve
 
 :::
-
-
 
 ::: greybox
 What do you want to charge for Cameron's rate?
@@ -45,13 +40,10 @@ Please approve.
 :::
 
 
-
-
 ::: good
 Figure: Good Example - Option to approve 
 
 :::
-
 
 When you are giving someone multiple options you should:
 
@@ -60,7 +52,6 @@ When you are giving someone multiple options you should:
 
 
 For example:
-
 
 ::: greybox
 We want to integrate our database with our website so that customers can purchase online.
@@ -75,17 +66,14 @@ Please let me know if you're happy to proceed with our recommendation, otherwise
 
 :::
 
-
-
 ::: good
 Figure: Good Example - Multiple options to approve with reasons for each <br>      
 
 :::
 
-
 ::: ok  
 ![Figure: Hard decision - this guy needs to state why he recommends this option](complexity-and-false-hope.jpg)  
-:::  
+:::
 
 ### Related Rules  <br>      
 

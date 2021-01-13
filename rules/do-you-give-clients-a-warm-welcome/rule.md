@@ -22,7 +22,6 @@ When a client arrives, your job is to make them feel comfortable and impress the
 
 <!--endintro-->
 
-
 ::: greybox
 
 * Leaving the client standing at the reception while finishing what you were doing
@@ -31,13 +30,9 @@ When a client arrives, your job is to make them feel comfortable and impress the
 
 :::
 
-
-
 ::: bad
-Figure: Bad example - This could start the meeting poorly
+Figure: Bad example - This could start the meeting poorly  
 :::
-
-
 
 ::: greybox
 
@@ -56,14 +51,10 @@ Figure: Bad example - This could start the meeting poorly
 
 :::
 
-
-
 ::: good
 Figure: Good Example - You are starting off the meeting well
 
 :::
-
-
 
 
 

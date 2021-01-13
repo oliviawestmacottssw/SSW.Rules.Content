@@ -47,7 +47,6 @@ This is much better than the old waterfall method which goes like this:
 
 Insist that your Scrum Master (aka Project Manager) [maintains a strict project schedule](/does-your-scrum-master-aka-project-manager-maintain-a-strict-project-schedule).
 
-
 ::: greybox
 
 **#1 For Scrum Projects:**
@@ -55,6 +54,5 @@ Insist that your Scrum Master (aka Project Manager) [maintains a strict project
 In Scrum projects the role of project manager is split into three roles: Scrum Master, Product Owner and Team. Each role is essential.
 
 :::
-
 
 For more information go to [Scrum Terms](https&#58;//www.scrumalliance.org/community/articles/2007/march/glossary-of-scrum-terms) and [Scrum Roles](https&#58;//www.scrumalliance.org/why-scrum/core-scrum-values-roles).

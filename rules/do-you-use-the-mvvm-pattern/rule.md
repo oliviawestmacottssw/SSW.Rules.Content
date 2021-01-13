@@ -24,11 +24,11 @@ MVVM allows for loose coupling between data, business logic, and UI. In Xamarin,
 
 ::: bad  
 ![Figure: Bad Example - Logic and properties are in the code behind, which decreases maintainability and leads to antipatterns like async void](../../assets/clip\_image001.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Values are bound to properties of the ViewModel, and actions are bound to Commands in the ViewModel](../../assets/clip\_image001.png)  
-:::  
+:::
 
 Xamarin supports MVVM out of the box, but there are several MVVM frameworks available that enhance this functionality. For example, some MVVM frameworks support "convention over configuration", allowing you to just code your View and ViewModel and let the framework hook them up for you. Some include:
 

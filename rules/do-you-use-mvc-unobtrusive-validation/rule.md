@@ -25,11 +25,11 @@ Fluent Validation is [available as a Nuget package](http://www.nuget.org/package
 
 ::: ok  
 ![Figure: OK Example - Data Annotation attributes decorate model properties to make them required](DataAttributes.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Better Example - Fluent Validation allows validation metadata to be added to a class without modifying the original class.  This provides much more flexibility for code reuse](FluentValidation.png)  
-:::  
+:::
 
 If you create a new MVC web application in VisualStudio 2013, unobtrusive validation will be enabled by default. Otherwise, it's simple to [install from Nuget](http://www.nuget.org/packages/Microsoft.jQuery.Unobtrusive.Validation/). To use it simply:
 
@@ -39,11 +39,11 @@ If you create a new MVC web application in VisualStudio 2013, unobtrusive valida
 
 ::: good  
 ![Figure: Good Example - this razor view binds to a strongly typed model object and uses HTML helpers.](view.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: the HTML UI rendered for this view now has data-validation attributes that are followed by JQuery validation to provide rich client-side validation.](Html.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: On the server-side, the same validation rules will be checked when you call ModelState.IsValid](SaveAction.png)  

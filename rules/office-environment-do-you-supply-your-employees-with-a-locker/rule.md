@@ -27,25 +27,20 @@ It's important to provide a physical space for each employee to store their stuf
 * Encourage the chucking of paper - it should not be a place to keep all of your scraps of papers. Paper tends to get lost and should be transferred to tasks as 'To Myself' emails and then chuck. See[Rules to better Email](/rules-to-better-email) for more information.
 
 
-![drawer-bad.jpg](drawer-bad.jpg)
+![](drawer-bad.jpg)
 Figure: Bad example - Having a drawer and a mailbox takes too much space (2 different locations) and larger packages won't fit
-![Lockers.jpg](Lockers.jpg)
-
+![](Lockers.jpg)
 ::: good
 Figure: OK example - Stepped lockers are great as they allow jackets (however missing the mail hole)
 
 :::
-
-![locker-good.jpg](locker-good.jpg)
+![](locker-good.jpg)
 
 Note: At Microsoft Canberra and other offices, they call this "Keep your office in your bag". See the [5S methodology](/do-you-use-the-5s-desk-space-organization-system-invented-by-the-japanese) Rule for more details.
-
 ::: good
 Figure: This is how your desk should look when you leave everyday.
 :::
-
-![clean desk.jpg](clean desk.jpg)
-
+![](clean desk.jpg)
 
 
 :::

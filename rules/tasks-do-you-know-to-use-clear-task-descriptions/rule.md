@@ -21,7 +21,7 @@ Once you have accepted a task you should then add as much information as possibl
 
 ::: ok  
 ![Figure: What if your numbers come up in the lottery?](lottery.jpg)  
-:::  
+:::
 
 What if the Team runs a syndicate and all your numbers come up? The point is that anything can happen and you need to protect the integrity of the project, the company, and the Customer.
 
@@ -31,10 +31,10 @@ If you need to add rich text and images you can do this by [attaching an email t
 
 ::: bad  
 ![Figure: Bad example, there is not enough information for a non team member to complete this task](TaskDetail-badExample.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Julie provided a lot more information and another team should be able to pick this up](UserStoryOwner\_Good.png)  
-:::  
+:::
 
 **Note:** If you are updating the details of a PBI then follow the rule “[Do you know when you use @ mentions in a PBI?](/when-you-use-mentions-in-a-pbi)”

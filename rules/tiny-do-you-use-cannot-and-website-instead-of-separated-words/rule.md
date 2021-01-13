@@ -21,32 +21,24 @@ Note: When there are two ways of doing something, we make a rule on it one way w
 
 <!--endintro-->
 
-
 ::: greybox
-You can not change the world.
+You can not change the world.  
 :::
-
-
 
 
 ::: bad
-Figure: Bad example – two separated words
+Figure: Bad example – two separated words  
 :::
-
-
 
 ::: greybox
-You cannot change the world.
+You cannot change the world.  
 :::
-
-
 
 
 
 ::: good
-Figure: Good example - using these terms in one word
+Figure: Good example - using these terms in one word  
 :::
-
 
 
 

@@ -22,14 +22,13 @@ When recording a Microsoft Teams or a Zoom call (e.g. an interview) the software
 
 ::: ok  
 ![Figure: The H6 Pro Zoom Audio Recorder](h6-pro-zoom-audio-recorder.jpg)  
-:::  
+:::
 
 This higher quality audio should be used in post-production eg. When editing in Adobe Premiere Pro.
 
 
 `youtube: https://www.youtube.com/embed/yfbKXqRAgOA`
  
-
 
 ::: good
 Figure: Good example – Brian Tyler Cohen and Adam Schiff – the setup is likely Zoom and a good mic

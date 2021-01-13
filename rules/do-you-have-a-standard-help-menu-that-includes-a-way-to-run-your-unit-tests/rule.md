@@ -24,10 +24,10 @@ And yes, there are many tests that can be written that will pass on the develope
 
 ::: ok  
 ![Figure: Standard Help menu should give you an option to Run Unit Tests to check the users' environment (Good)](HelpRunUnitTests.gif)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Obviously the red indicates that there is a problem with a Unit Test (Good)](NUnitGui.gif)  
-:::  
+:::
 
 We have a rule [Do you know the Seven items every Help menu needs?](/menu-do-you-know-the-8-items-every-help-menu-needs)

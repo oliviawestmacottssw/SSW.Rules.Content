@@ -25,11 +25,9 @@ Disposing objects in SharePoint is important, but never do it with objects from 
  //do something here
 }
 
-
 ::: bad
-Figure: Using statement is trying to dispose current site object - it will cause exception
+Figure: Using statement is trying to dispose current site object - it will cause exception  
 :::
-
 
 
 
@@ -39,10 +37,8 @@ Just simplely use "Current" object directly.
 SPWeb web =  **SPContext.Current.Site.RootWeb** ;
 //do something here
 
-
 ::: good
-Figure: Use Current objects directly - don't need to dispose them
+Figure: Use Current objects directly - don't need to dispose them  
 :::
-
 
 <!--endintro-->

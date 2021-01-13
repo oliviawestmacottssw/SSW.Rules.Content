@@ -69,7 +69,7 @@ As per [https://rules.ssw.com.au/do-you-know-what-happens-at-a-sprint-retrospect
 
 ::: ok  
 ![Figure: Sprint Burndown](burndown.JPG)  
-:::  
+:::
 
 2. Code Coverage (hopefully tests are increasing each sprint)
 XXX
@@ -81,13 +81,13 @@ XXX
 
 ::: ok  
 ![Figure: Release Burnup](Release Burnup.jpg)  
-:::  
+:::
 
 5. Production Deployments (How many times did we deploy to Production?)
 
 ::: ok  
 ![Figure: Deployments from Octopus Deploy](production-deploy.png)  
-:::  
+:::
 
 6. Application Health Overview Timeline (For the entire Sprint)
 

@@ -22,7 +22,7 @@ Picking the right development environment is important, and which platforms you 
 
 ::: ok  
 ![Figure: The platforms you can target with each development environment – in most situations a Mac works best](dev-environments.png)  
-:::  
+:::
 
 **Note:** More platforms are coming in 2021 when Xamarin.Forms evolves into MAUI, see: [Introducing .NET Multi-platform App UI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/).
 

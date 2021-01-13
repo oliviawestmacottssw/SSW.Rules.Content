@@ -21,7 +21,7 @@ To do this, we give a bad example and raise users' expectation first.
 
 ::: bad  
 ![Figure: Bad Example - kid not in his seat](ImageBadExample.gif)  
-:::  
+:::
 
 Now we can show the solution and give a good example as the result, make them feel released.
 

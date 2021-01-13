@@ -31,17 +31,16 @@ It's important that your website is focused on CX (Customer Experience) which me
 
 ::: bad  
 ![Figure: Bad example: the only way to contact the company is via email](moderncontact-bad.png)  
-:::  
+:::
  
 ::: good  
 ![Figure: Good example - Chat is available along with other ways of contact, such as voip, IM, KB etc](moderncontact-good.png)  
-:::  
+:::
  
 
 `youtube: https://www.youtube.com/embed/K1HlAsW1RiA`
  
  
-
 
 ::: good
 Zendesk explain how you can use mulitple channels of support to give your customers a better CX. 

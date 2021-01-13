@@ -23,7 +23,7 @@ Adding the tag line and logo in the slide master will duplicate it automatically
 
 ::: ok  
 ![Figure: Step 1 - Click 'Slide Master' button on the 'View' ribbon](tagLine.gif)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Step 2 - Add your Logo and Tagline at bottom of the slide](tagLine.gif)  

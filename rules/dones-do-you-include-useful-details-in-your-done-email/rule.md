@@ -21,14 +21,12 @@ redirects: []
 
 Including images is a good idea, in addition when appropriate include code snippets,  and ideally have the code that changed highlighted in <font style="background-color:#ffff00;">yellow</font>.
 
-
 ::: greybox
 An email with just the word "done" can often be enhanced with a screen capture or code snippet...
 ...it provides evidence
 ...it educates
 
 :::
-
 
 <!--endintro-->
 
@@ -44,11 +42,11 @@ Let's look at some examples and tips:
 
 ::: bad  
 ![Figure: Bad example - the client cannot see any detail of what was done](NotifyCodeChangesBad.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - the client can see the image + the code changes highlighted in yellow](NotifyCodeChanges.gif)  
-:::  
+:::
 
 **Tip #1: Include the URL
 ** If you are using TFS, you can also include a URL to the work item in TSWA
@@ -58,7 +56,7 @@ Let's look at some examples and tips:
 
 ::: good  
 ![Figure: Good example - this is a Text file with a .diff extension that includes the code change from TFS. If opened using NotePad2, the client can view the code changes with green and red color (added and deleted code).](NotePad2DiffFiles.gif)  
-:::  
+:::
 
 **Tip 3#: Do you have force a link between the code and the requirement?**
 
@@ -67,7 +65,7 @@ For those using TFS, enable the Checkin policy and force all developers to assoc
 
 ::: ok  
 ![Figure: Make developers associate all check-ins to a work items](SourceControl\_AssociateWorkItems1.gif)  
-:::  
+:::
  
 ::: ok  
 ![Figure: Enabling the Checkin Policy (via Project | Team Project Settings | Source Control | Add)](SourceControl\_AssociateWorkItems2.gif)  

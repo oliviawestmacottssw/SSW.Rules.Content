@@ -28,7 +28,6 @@ A naïve development experience is as follows:
 
 Bad example - Many hours each week are wasted just waiting for the code you wrote to run
 
-
 :::
 
 1. Make a code change using a misconfigured IDE
@@ -45,11 +44,9 @@ Bad example - Many hours each week are wasted just waiting for the code you wrot
 
 
 ::: greybox
-
 A more ideal workflow is:
 
 Good example - No time is wasted doing repetitive and slow tasks
-
 :::
 
 1. Make the change using a properly configured IDE
@@ -62,7 +59,6 @@ Good example - No time is wasted doing repetitive and slow tasks
 
 
 ::: greybox
-
 **Remember** : Spending 4 hours setting up a good dev experience will pay for itself within the week, and make your work like much happier.
 
 ### Guidelines to follow

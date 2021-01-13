@@ -39,7 +39,6 @@ There are a number of reasons why this is important:
 
 Below is a template email you can use:
 
-
 ::: greybox
 Hi &lt;ClientName&gt;, 
 

@@ -46,17 +46,14 @@ CREATE DATABASE [DatabaseName]
  )
 Go
 
-
 ::: bad
 Figure: Bad Example - FILENAME Parameter used to specify database path
 
 :::
 
-
 CREATE DATABASE [DatabaseName]
 COLLATE SQL\_Latin1\_General\_CP1\_CI\_AS
 Go
-
 
 ::: good
 Figure: Good Example - Generic CREATE DATABASE used

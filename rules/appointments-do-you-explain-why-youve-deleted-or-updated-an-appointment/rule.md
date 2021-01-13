@@ -22,26 +22,19 @@ Whenever you have to modify the time, attendees, or subject of an appointment, a
 
 Examples:
 
-
 ::: greybox
 UPDATED: Moving to Thursday as Adam could not make it
 
 :::
-
-
 
 ::: good
 Figure: Good example – changing the date or time
 
 :::
 
-
-
 ::: greybox
-UPDATED: Adding Uly since he may want to know that we are working on TimePro this day
+UPDATED: Adding Uly since he may want to know that we are working on TimePro this day  
 :::
-
-
 
 ::: good
 Figure: Good example - adding someone
@@ -49,13 +42,9 @@ Figure: Good example - adding someone
 
 :::
 
-
-
 ::: greybox
-UPDATED: Change the subject as we will be taking about Marketing first
+UPDATED: Change the subject as we will be taking about Marketing first  
 :::
-
-
 
 ::: good
 Figure: Good example – changing the subject
@@ -66,12 +55,11 @@ Figure: Good example – changing the subject
 
 
 
-
 This will help to solidify the changes and alleviate confusion.
 
 ::: ok  
 ![Figure: Explaining the change that has been made using the prefix "UPDATE:". Using brackets is also an option](AppointmentWithComments.jpg)  
-:::  
+:::
 
 ### Related Rule
 

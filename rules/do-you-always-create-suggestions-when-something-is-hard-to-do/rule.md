@@ -30,12 +30,10 @@ public class Command : ICommand
  // code
 }
 
-
 ::: bad
 Figure: Bad example - The link to the suggestion should be in the comments
 
 :::
-
 
 /// &lt;summary&gt;
 /// base class for command implementations
@@ -51,7 +49,6 @@ public class Command : ICommand
  // code
 }
 
-
 ::: good
-Figure: Good example - When you link to a suggestion everyone can find it and vote it up
+Figure: Good example - When you link to a suggestion everyone can find it and vote it up  
 :::

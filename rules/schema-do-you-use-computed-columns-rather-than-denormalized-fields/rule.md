@@ -22,11 +22,11 @@ Use the suffix "Computed" to clearly distinguish that this field is a computed f
 
 ::: bad  
 ![Figure: Bad Example - This field was manually updated from code in the middle tier.](NormalizedFields\_Bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - There was no code in the middle tier to calculate this (and it has the correct name)](NormalizedFields\_Bad.jpg)  
-:::  
+:::
 
 <!--endintro-->
 

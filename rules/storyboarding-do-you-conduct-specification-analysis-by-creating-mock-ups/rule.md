@@ -22,7 +22,7 @@ Storyboarding is a technique taken from movie production.
 
 ::: ok  
 ![Figure: Movies are expensive to produce, so directors do storyboards first and then the product designer, costume designer, lighting people etc. all know what they need to do for each sceneSource: Woodsman Film Company](movie-storyboard.jpg)  
-:::  
+:::
 
 There are five primary types of mockups:
 
@@ -41,7 +41,7 @@ Often it's best to start with some hand-drawn ones to get started. Then if you h
 
 ::: ok  
 ![Figure: A 'Hand drawn mockup' example. Nice and quick for early concept design](Hand-Drawn-Mockup.jpg)  
-:::  
+:::
 
 ### Wireframe Mockup
 
@@ -60,11 +60,11 @@ A layout of how the controls will look is usually all that is needed initially, 
 
 ::: ok  
 ![Figure: Adobe XD prototyping](AdobeXD.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Adobe XD Google material design UI kit](AdobeXDMaterialDesign.png)  
-:::  
+:::
 
 ### Others 
 
@@ -83,7 +83,7 @@ These are mockups done in the front end technology that will be used. Meaning it
 
 ::: ok  
 ![Figure: Developer HTML Mockup example - not recommended as it is a bad starting point from an HTML view and refactoring later is harder (if even possible) + this reeks of Bodgy Brothers and doesn't do a very good sales job](1d9b4a\_DeveloperHTMLMockup.jpg)  
-:::  
+:::
 
 ### Designer HTML Mockup
 
@@ -93,12 +93,11 @@ These are also mockups in a Web/Windows Forms with full CSS Styling and graphic 
 
 ::: ok  
 ![Figure: Designer HTML Mockup - not recommend because it is time-consuming to make changes (and change is all you do at the beginning of a project)](11fe40\_HTMLMockup.jpg)  
-:::  
+:::
 
 ### Designer Mockup
 
 These are concept mockups produced by designers in Photoshop providing a guidance of the final look with full styling.
-
 
 ::: greybox
 
@@ -106,10 +105,9 @@ These are concept mockups produced by designers in Photoshop providing a guidanc
 
 :::
 
-
 ::: ok  
 ![Figure: Designer Photoshop Mockup example - recommended as quick to change, when changes happen](1d6c03\_PSMockup.jpg)  
-:::  
+:::
 
 **More information – Add notes at the bottom**
 
@@ -117,19 +115,19 @@ Wireframes should include numbers (in orange circles) and notes at the bottom, e
 
 ::: good  
 ![Figure: This wireframe indicates priorities of features](wireframe-with-notes.jpg)  
-:::  
+:::
 
 Mock-ups notes should also include the business rules that apply to the page. If there are a lot of rules then it is acceptable to link off to a Microsoft Word document.
 
 ::: good  
 ![Figure: Good Example - This mockup states the validation and business rules that apply to the page](88215b\_Mockup\_1.jpg)  
-:::  
+:::
 
 ### Don't use UML - it is virtually impossible to get clients to understand these.
 
 ::: bad  
 ![Figure: Don't use UML diagram which clients can't fully understand](Bad-UML.jpg)  
-:::  
+:::
 
 UML is not all bad. UML and other formal documentation methods can be useful for developers.
 
@@ -139,7 +137,7 @@ A demo can be seen in the 2nd video ["A Modern Architecture Review"](http://chan
 
 ::: ok  
 ![Figure: Tools like NDepend can generate diagrams from your source code so there's no "Technical Debt"](23f19c\_ndepend.png)  
-:::  
+:::
 
 ## Summary
 
@@ -148,7 +146,6 @@ Mock-ups and wireframes are far easier to understand.
 For example, to communicate that “a customer has many phone numbers”, a storyboard/wireframe of how that relationship will appear in the user interface is highly more likely to be understood by the client.
 
 The clear communication of the message is more important than the medium used to convey that message.
-
 
 ::: greybox
 
@@ -164,7 +161,6 @@ Here are some more hot tips on mock-ups:
 
 
 :::
-
 
 ### Related Rules
 

@@ -20,7 +20,7 @@ Using a free third party tool AD Photo Edit tool which can be downloaded from   
 
 ::: ok  
 ![Figure: Profile picture imported from AD into Exchange](ExchangeAdPhoto.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Profile picture imported from AD into Lync](Lync.jpg)  

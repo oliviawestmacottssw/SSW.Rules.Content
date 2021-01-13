@@ -24,7 +24,7 @@ When using [Snagit](http://www.techsmith.com/snagit.html) to show actions on a s
 
 ::: bad  
 ![Figure: Bad example – There is no visual difference between different actions](snagit-actions-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – This screenshot tells that the user should be on the "Message" tab, click on "Attach File" and edit the subject to be "Button types"](snagit-actions-good.jpg)  

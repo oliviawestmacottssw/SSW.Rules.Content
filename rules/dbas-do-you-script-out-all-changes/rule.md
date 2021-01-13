@@ -22,7 +22,7 @@ Keep the scripts in a separate directory to any other scripts or files. This way
 
 ::: ok  
 ![Figure: A list of change SQL scripts, each file name is in the correct format](SQLChangeScripts.jpg)  
-:::  
+:::
 
 The script file format should be: &lt;version&gt;\_&lt;description&gt;.sql
 

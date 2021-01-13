@@ -23,11 +23,11 @@ Once a problem has been discovered, it helps to collect as much information as p
 
 ::: ok  
 ![Figure: To start Problem Steps recorder, type PSR into the start | run box](psr1.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: then click 'Start Record'](psr2.png)  
-:::  
+:::
 
 Once recording, the user can repeat whatever steps to reproduce an issue.
 

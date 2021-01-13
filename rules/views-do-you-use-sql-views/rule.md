@@ -22,11 +22,9 @@ A view is a virtual table produced from executing a stored query on the database
 
 <!--endintro-->
 
-
 ::: good
-Advantages:
+Advantages:  
 :::
-
 
 **1. Simplicity**
 
@@ -54,12 +52,10 @@ Advantages:
 
 
 
-
 ::: bad
 Disadvantages:
 
 :::
-
  **1. Performance** 
 
 * Views can take longer to query than tables as they may contain complex functions or multi-table queries.
@@ -112,16 +108,14 @@ WHERE Id IN ( SELECT Id FROM  vwProductsByCategory WHERE CategoryName = @Categor
 
 
 So your business has an employees table as shown below that has detailed information about their name, birthdate, home phone, address and photo. This information is suitable for the payroll department but what you want to display employees names and photos on the website for public viewing. Or what If you want contact information such as extension number and country to be available on the company intranet?
-![ViewsSqlEmployeesTable.png](ViewsSqlEmployeesTable.png)
+![](ViewsSqlEmployeesTable.png)
  **Figure: Northwind traders employees table** 
 You could create separate tables for each department, only supplying the required fields for each. 
 This would also need an additional system to sync between the tables to ensure the information was kept up to date.
-![ViewsSqlTables.png](ViewsSqlTables.png)
-
+![](ViewsSqlTables.png)
 ::: bad
-Figure: Bad Example – Using tables and duplicating data
+Figure: Bad Example – Using tables and duplicating data  
 :::
-
 
 CREATE VIEW  vwIntranetEmployees AS  
 SELECT EmployeeID, LastName, FirstName, Title, TitleOfCourtesy, Country, Extension, Photo, PhotoPath   
@@ -131,10 +125,8 @@ CREATE VIEW  vwWebsiteProfiles AS
 SELECT EmployeeID, LastName, FirstName, Title, TitleOfCourtesy, Photo, PhotoPath
 FROM Employees;
 
-
 ::: good
 Figure: Good Example – Using views from the base table containing the source data
 :::
-
 
 Creating views of the employee table allows you to update the data in one source location such as payroll and all other departments will see the changes. It prevents the problem of stale data and allows more control over access to the data.

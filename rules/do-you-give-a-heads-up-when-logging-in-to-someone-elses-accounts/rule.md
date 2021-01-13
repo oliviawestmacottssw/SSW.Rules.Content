@@ -27,7 +27,7 @@ A quick IM, SMS or email is enough to let the account owner know that you are th
 
 ::: ok  
 ![Figure: An email like this can be pretty scary if you don't know what's going on](twitter-account-new-access.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Letting others know you are the one accessing the account](heads-up-google-account.png)  

@@ -31,7 +31,6 @@ At SSW we create standards for all manner of processes: from coding practices to
 
 The following story illustrates these values:
 
-
 ::: greybox
 
 **The Barber** (excerpt from "The E Myth" page 105)
@@ -65,7 +64,6 @@ What the barber did was to give me a delightful experience and then take it away
 What you do in your model is not nearly as important as doing what you do the same way, each and every time.
 
 :::
-
 **Figure: The Barber gave an inconsistent experience. Excerpt from "The E Myth" page 10** 
 
 Standards don't need to come at the expense of creativity. Following standards means less time doing the administrative stuff and more time for the creative. Of course, standards are works in progress, and so we are always on the lookout for improvements. That's why standards should be shared with everyone.

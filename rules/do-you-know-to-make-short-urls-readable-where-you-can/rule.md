@@ -23,26 +23,22 @@ Readability of URLs is important, so you should consider making a short URL. How
 
 If you use a shortened link people can't see what they are clicking through to. In fact, this is what most spammers rely on:
 
-
 ::: greybox
 http://twb.ly/1uJtUG
 :::
 
-
 ::: bad
-Figure: Bad example - You don't know where this is going
+Figure: Bad example - You don't know where this is going  
 :::
 
 When you can, take the more readable option:
-
 
 ::: greybox
 http://twibbon.com/join/Scotland
 :::
 
-
 ::: good
-Figure: Better example - this link is sent in the clear as it is short enough
+Figure: Better example - this link is sent in the clear as it is short enough  
 :::
 
 So you should only 'Auto Shorten URLs' when it is too long and you need the space.

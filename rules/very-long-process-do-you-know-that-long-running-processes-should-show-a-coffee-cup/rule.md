@@ -17,7 +17,7 @@ If you are unable to show a progress bar, you should still indicate that it may 
 
 ::: bad  
 ![Figure: Bad example - An unknown length of time. So let them know](../../assets/UnknownLengthTime.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – The coffee cup tells the user that they will be here a while](../../assets/CoffeeCup.jpg)  

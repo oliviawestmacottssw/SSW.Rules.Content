@@ -20,15 +20,12 @@ Newsletters should always use  **absolute** references to all links and images
 
 &lt;a href="/ssw/Company/ContactUs.aspx "&gt;&lt;img src="/SSW/images/SSWLogo.png"&gt;&lt;/a&gt;
 
-
 ::: bad
 Figure: Bad example - using relative paths for both link and image on a newsletter
 
 :::
 
-
 &lt;a href="<mark>https&#58;//ssw.com.au</mark>/ssw/Company/ContactUs.aspx "&gt;&lt;img src="<mark>https&#58;//ssw.com.au</mark>/SSW/images/SSWLogo.png"&gt;&lt;/a&gt;
-
 
 ::: good
 Figure: Good example - using absolute paths for both link and image on a newsletter

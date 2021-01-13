@@ -20,12 +20,10 @@ The brand is the summary of our company.
 
 The brand should contain the copyright declaration.
 
-
 ::: bad
 Bad header comments
 
 :::
-
 
 ///&lt;summary&gt;
 ///'----------------------------------------------
@@ -39,12 +37,10 @@ Bad header comments
 ///'----------------------------------------------
 
 
-
 ::: good
 Good header comments
 
 :::
-
 
 
 /// Copyright 2017 www.ssw.com.au

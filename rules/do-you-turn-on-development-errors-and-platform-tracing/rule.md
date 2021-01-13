@@ -22,7 +22,7 @@ By turning DevErrors on (mainly applicable to CRM 3 and 4) you will obtain the a
 
 ::: ok  
 ![Figure: Turn on DevErrors within Web.Config file to get details of error](CRM\_DevErrors.jpg)  
-:::  
+:::
 
 In CRM2011 we accomplish the same thing by turning on tracing. For more information on tracing refer to MS KB907490.
 

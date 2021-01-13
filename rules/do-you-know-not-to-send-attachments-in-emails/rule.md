@@ -25,17 +25,17 @@ If you're sending to a client, it would be a link to a document store on their [
 
 ::: bad  
 ![Figure: Bad example - Don't send attachments by mail](Email\_Attachment\_1\_small.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad example - Don't use location / filename in the link (URL)](PortalLinks.jpg)  
-:::  
+:::
 
 **Tip:** If you're using SharePoint, then an even better way to do this is to use a tool like OnePlaceMail to insert a link from SharePoint
 
 ::: good  
 ![Figure: Good Example - Use OnePlaceMail to send a link to a document in SharePoint](insert\_link\_in\_email\_to\_sharePoint\_item-png.png)  
-:::  
+:::
 
 Using the Document ID Feature in SharePoint will help minimise broken links under the following scenarios:
 
@@ -45,7 +45,7 @@ Using the Document ID Feature in SharePoint will help minimise broken links unde
 
 ::: good  
 ![Figure: Good Example - The use of the SharePoint Document ID as part of the link (URL) formation](insert\_link\_in\_email\_to\_sharePoint\_item\_with\_document\_id-png.png)  
-:::  
+:::
 
 If you are using a shared DropBox, then put in a reference like so:
 

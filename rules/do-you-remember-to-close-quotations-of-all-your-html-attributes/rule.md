@@ -22,22 +22,18 @@ It is always better to make sure there are equivalent closing quotations for HTM
 
 &lt;span style="font-size:12pt; background: #ccc;&gt;
 
-
 ::: bad
 Figure: Bad code - Can you see the missing quote? Code Auditor can
 
 
 :::
 
-
 &lt;span style="font-size:12pt; background: #ccc;"&gt;
-
 
 ::: good
 Figure: All OK
 
 :::
-
 
 As you can see from the above example, just missing a quotation makes the whole layout of the text different. So be very careful that you make sure you have closed all opening quotations of attributes with equivalent closing quotations.
 

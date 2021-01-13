@@ -24,7 +24,7 @@ An easy and fun way to alleviate this issue and boost user adoption to Microsoft
 
 ::: bad  
 ![Figure: Bad Example - Channel names without emojis](bad-no-emojis.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Channel names have emojis](good-use-emojis.png)  

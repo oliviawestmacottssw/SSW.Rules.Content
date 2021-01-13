@@ -35,11 +35,11 @@ Creating a set for a production is a complex and tricky business but there are s
 
 ::: bad  
 ![Figure: Bad example - dark wall on the side, boring wall in the middle, reflective surface with people passing behind, lack of depth.](Bad-set-design-example.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - interesting background but not distracting, relevant furniture, set reflects theme of show](good-set-example.png)  
-:::  
+:::
 
 ###  <br>Location
 
@@ -57,11 +57,11 @@ If you are working with a D.O.P. (Director of Photography) and/or your are light
 
 ::: bad  
 ![Figure: Bad example - the light is far too bright in comparison to the rest of the shot.](Lighting-bad-example-DSC\_0023-small.JPG)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - these lights are diffused enough that the rest of the picture is clearly visible.](Japan\_by\_dhatt1.jpg)  
-:::  
+:::
 
 ###  <br>   Props
 
@@ -69,7 +69,7 @@ Props and set dressing are important; props are defined as objects in the script
 
 ::: bad  
 ![Figure: Bad example - too much clutter on the desk, unnecessary dirty bowl, loose sheets of paper, this would only work if you wanted to illustrate that the character is messy.](Props-Bad-example-DSC\_0016.JPG)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - clear space, clear point of focus, minimal cables, only necessary items.](Props-good-example-DSC\_0017.jpg)  

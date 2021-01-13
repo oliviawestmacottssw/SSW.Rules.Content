@@ -20,7 +20,6 @@ If the dev is booked in on the Service Calendar in CRM, he will be billing that 
 <!--endintro-->
 
 Bad Example: Scenario where developer bills a partial day
-
 :::
 
 * Developer X comes in in the morning
@@ -31,9 +30,7 @@ Bad Example: Scenario where developer bills a partial day
 
 
 ::: greybox
-
 Good Example: The developer knows ahead of time what he’s working on and bills the full day
-
 :::
 
 * Developer checks his calendar or the CRM Service Calendar the day before and knows what client he’s going to work on before he comes in
@@ -44,7 +41,6 @@ Good Example: The developer knows ahead of time what he’s working on and bills
 
 
 ::: greybox
-
 The bad example scenario is not acceptable as the full day will be billed to the client as per the agreement, so it's up to him to make sure he is as productive as possible.
 
 The major benefits of the good example (working full days for the client) is that the Service Calendar will be an accurate representation of what will be worked on, and when a client thinks they have a resource booked for a day, they do in fact get the full day.

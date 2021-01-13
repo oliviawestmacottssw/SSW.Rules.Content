@@ -25,34 +25,27 @@ Note that this rule should apply to any file or folder that is on the web. Thi
 extremeemailsversion1.2.doc
 Extreme Emails version 1.2.doc
 
-
 ::: bad
 Figure - Bad Examples: filenames have spaces or dots 
 
 :::
 
-
 Extreme\_Emails\_v1\_2.doc
 ExtremeEmails\_v1\_2.doc
 
-
 ::: good
-Figure – Good Examples: file names do not have spaces
+Figure – Good Examples: file names do not have spaces  
 :::
-
 
 &lt;a href="http://sharepoint.ssw.com.au/Training/UTSNET/Pages/UTS%20NET%20Short%20Course.aspx"&gt;UTS Short Course&lt;/a&gt;
 &lt;a href="file://fileserver/Shared%20Documents/Ignite%20Brisbane%20Talk.docx"&gt;Ignite Talk&lt;/a&gt;
 
-
 ::: bad
-Figure – Bad Examples: file names have been published with spaces so the URLs look ugly and are hard to read
+Figure – Bad Examples: file names have been published with spaces so the URLs look ugly and are hard to read  
 :::
-
 
 &lt;a href="http://sharepoint.ssw.com.au/Training/UTSNET/Pages/UTSNETShortCourse.aspx"&gt;UTS Short Course&lt;/a&gt;
 &lt;a href="file://fileserver/SharedDocuments/Ignite\_Brisbane\_Talk.docx"&gt;Ignite Talk&lt;/a&gt;
-
 
 ::: good
 Figure – Good Examples: file names have no spaces so are much easier to read

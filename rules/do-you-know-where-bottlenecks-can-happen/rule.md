@@ -22,7 +22,7 @@ For modern applications, there are many layers and moving parts that need to sea
 
 ::: ok  
 ![Figure: Bottlenecks can happen anywhere! Call out diagrammatically where you think the bottlenecks are happenning](bottleneck.png)  
-:::  
+:::
 
 The issues can be in:
 

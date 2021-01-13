@@ -19,21 +19,21 @@ Making reports on websites printable can be difficult. While there are CSS media
 
 ::: ok  
 ![Figure: Beautiful HTML report](print-reports-bad-1.png)  
-:::  
+:::
 
 <!--endintro-->
 
 ::: bad  
 ![Figure: Bad Example – The printed layout looks nothing like the HTML](print-reports-bad-2.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Beautiful PowerBI HTML report](print-reports-bad-3.png)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad example – PowerBI print preview scales everything down to fit on a page, you have no real control over how things flow onto multiple pages](print-reports-bad-4.png)  
-:::  
+:::
 
 The best and most accurate print solution is to use SQL Server Reporting Services (SSRS). You can use SQL Server Reporting Services in MVC even though its only supported by WebForms.
 
@@ -45,13 +45,13 @@ In your MVC project, add a new item of type WebForm.
 
 ::: ok  
 ![Figure: Add a new WebForm](16-06-2014 10-44-12 AM.png)  
-:::  
+:::
 
 Then add the ReportViewer control to the WebForm.
 
 ::: ok  
 ![Figure: Add the ReportViewer control](16-06-2014 10-46-58 AM.png)  
-:::  
+:::
 
 In the View you want to display the report in, add an iframe pointing to your WebForm.
 
@@ -61,22 +61,22 @@ Tie them together, by getting your report parameters from the MVC page and appen
 
 ::: ok  
 ![Figure: Add an iframe](16-06-2014 10-50-55 AM.png)  
-:::  
+:::
 
 Now you have your SSRS report in your MVC application.
 
 ::: ok  
 ![Figure: The final report in an MVC application](17-06-2014 8-33-37 AM.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Export your report with the in-build SSRS functionality](16-06-2014 10-38-51 AM.png)  
-:::  
+:::
 
 ### When using Web-API the method above is difficult and time-consuming!
 
 ::: ok  
 ![](2015-04-29\_10-09-56-compressor.png)  
-:::  
+:::
 
 The easy solution is to render the report within the API and return it to the user  as a pdf. For an example of how to implement the functionality, read the following series  of articles on ['Integrating SSRS Web-API and AngularJS'](http://blog.chrisbriggsy.com/the-first-step-towards-integration/).

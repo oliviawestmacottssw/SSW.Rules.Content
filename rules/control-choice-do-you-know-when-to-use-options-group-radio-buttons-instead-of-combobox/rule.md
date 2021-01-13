@@ -25,7 +25,7 @@ For an options group, user can see all the available options without clicking, a
 
 ::: bad  
 ![Figure: Bad Example - ComboBox is used for "Job Type" where it contains only 2 options](../../assets/NotUsingRadioButtons.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Radio Buttons are used and aligned vertically](../../assets/UsingRadioButtons.gif)  

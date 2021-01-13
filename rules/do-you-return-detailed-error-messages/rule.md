@@ -44,21 +44,17 @@ Error messages should contain a sufficient level of information that a developer
     "errorMessage": "An error has occurred."
 }
 
-
 ::: bad
-Figure: Bad Example - The error message does not contain information that can be acted upon.
+Figure: Bad Example - The error message does not contain information that can be acted upon.  
 :::
-
 
 {
     "errorMessage": "Client ID is a required field. Please provide a Client ID."
 }
 
-
 ::: good
-Figure: Good Example - The error message provides explicit detail and a short description on how to fix the issue.
+Figure: Good Example - The error message provides explicit detail and a short description on how to fix the issue.  
 :::
-
 
 ### ...But no more verbose than that
 
@@ -93,12 +89,10 @@ Accept: \*/\*
 Host: localhost:44312
 User-Agent: curl/7.55.1
 
-
 ::: bad
 Figure: Bad Example - this level of data should not be returned in a production environment
 
 :::
-
 
 ### Provide a Tracking or Correlation ID
 
@@ -108,22 +102,18 @@ A tracking or correlation ID will allow the consuming clients to provide the AP
     "errorMessage": "An error has occurred. Please contact technical support"
 }
 
-
 ::: bad
-Figure: Bad Example - No tracking or correlation ID is provided.
+Figure: Bad Example - No tracking or correlation ID is provided.  
 :::
-
 
 {
     "errorMessage": "An error has occurred. Please contact technical support",
     "errorId": "3022af02-482e-4c06-885a-81d811ce9b34"
 }
 
-
 ::: good
-Figure: Good Exmaple - A error ID is provided as part of the reponse.
+Figure: Good Exmaple - A error ID is provided as part of the reponse.  
 :::
-
 
 ### Provide an additional Help Resource
 
@@ -136,12 +126,10 @@ Providing a URI to an additional help resources as part of your request will all
     "StatusCode": 404
 }`
 
-
 ::: bad
 ``Figure: Bad Example - No Help Link Provided
 
 :::
-
 
 `{
     "ErrorType": "DoesNotExist",
@@ -150,7 +138,6 @@ Providing a URI to an additional help resources as part of your request will all
     "Message": "No Client with a ID of 999999999 was found",
     "StatusCode": 404
 }`
-
 
 ::: good
 Figure: Good Example - A help link is provided as part of the response.

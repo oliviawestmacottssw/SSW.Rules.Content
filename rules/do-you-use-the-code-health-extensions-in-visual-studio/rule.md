@@ -40,13 +40,13 @@ Search & Install the NuGet packages:
 
 
 
-![VS-InstallNuGetPackages.png](VS-InstallNuGetPackages.png)
+![](VS-InstallNuGetPackages.png)
 Figure: Steps to install NuGet Packages
 
 
 
 Issues from these will now be returned in the Visual Studio analyser error list.
- **![VS-RoslynRules.png](VS-RoslynRules.png)
+ **![](VS-RoslynRules.png)
 Figure: New Roslyn Rule issues raised in Visual Studio Analyser** 
 Your goal should be to get the issues in a solution down to zero.
 If you believe the issues being raised are not important, please check the section below which outlines how to change the ruleset.
@@ -59,11 +59,11 @@ Any project specific rules should be documented in "\_Instructions-CodeHealth.do
 Please also copy the current version number of this rule into the "\_Instructions-CodeHealth.docx" in order to track what version your existing solution adheres to.
 
 
-![VS-ModifyRules.png](VS-ModifyRules.png)
+![](VS-ModifyRules.png)
 
 Figure: Steps to open Visual Studio Analyser rules customisation page
 Steps to open Analyser customisation page:
 Right Click project &gt; Properties &gt; Code Analysis &gt; Open
-![VS-ModifyRules2.png](VS-ModifyRules2.png)
-Figure: How to customize rules. By either enabling / disabling rules or packages. Or by modifying the rule severity level.![VS-ModifyRules3.png](VS-ModifyRules3.png) **Figure: How to apply custom ruleset to all projects in a solution
+![](VS-ModifyRules2.png)
+Figure: How to customize rules. By either enabling / disabling rules or packages. Or by modifying the rule severity level.![](VS-ModifyRules3.png) **Figure: How to apply custom ruleset to all projects in a solution
 **

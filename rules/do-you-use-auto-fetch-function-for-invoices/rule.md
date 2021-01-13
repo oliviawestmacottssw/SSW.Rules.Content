@@ -39,11 +39,11 @@ The level of automation can be customised in a way so a staff member can get inv
 
 At SSW, we use Hubdoc which integrates with our accounting platform (Xero) and has some of the most Australian suppliers connected with the auto-fetch system, compared to its competitors.
 
-![2020-11-20_16-59-56.png](2020-11-20_16-59-56.png)
+![](2020-11-20_16-59-56.png)
 
 **Figure: Popular suppliers with auto-fetch capabilities**
 
-**![2020-11-20_17-01-43.png](2020-11-20_17-01-43.png)
+**![](2020-11-20_17-01-43.png)
 **
 
 **Figure: Confirmed auto-fetch accounts updated every 24 hours**

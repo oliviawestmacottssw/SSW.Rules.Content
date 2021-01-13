@@ -64,13 +64,10 @@ jobs:
           ado\_close\_state: "Done"
           ado\_bypassrules: true
 
-
 ::: good
 Figure: Good Example - GitHub Action to Sync Issues to Azure DevOps
 
 :::
-
-
 
 
 :::
@@ -78,7 +75,6 @@ Figure: Good Example - GitHub Action to Sync Issues to Azure DevOps
 
 Figure: Good Example - GitHub Issues Syncing to Azure DevOps
 ::: good
-
 ![](GitHub-Issues-Syncing-to-AzDevOps.png)
 Pros
 

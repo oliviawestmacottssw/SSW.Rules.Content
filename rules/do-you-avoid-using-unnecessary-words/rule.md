@@ -18,30 +18,22 @@ When writing any documentation it is vital that you avoid using unnecessary word
 
 <!--endintro-->
 
-
 ::: greybox
-Click the "Select" button
+Click the "Select" button  
 :::
-
-
 
 ::: bad
-Figure: Bad Example - There are too many unnecessary words
+Figure: Bad Example - There are too many unnecessary words  
 :::
-
-
 
 
 ::: greybox
-Click "Select"
+Click "Select"  
 :::
-
-
 
 ::: good
-Good Example - This is short and to the point.
+Good Example - This is short and to the point.  
 :::
-
 
 
 It is less wordy, and still gets the message across. Look through your document now - where else can you get rid of words that don't add any value to the sentence?

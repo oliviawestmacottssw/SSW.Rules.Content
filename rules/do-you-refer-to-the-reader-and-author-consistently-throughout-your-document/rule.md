@@ -27,33 +27,25 @@ For example:
 
 <!--endintro-->
 
-
 ::: greybox
-When one wants to scan for viruses, you can open the antivirus software.
+When one wants to scan for viruses, you can open the antivirus software.  
 :::
-
-
 
 
 ::: bad
-Figure: Bad Example - The user is referred in two ways and flow is broken
+Figure: Bad Example - The user is referred in two ways and flow is broken  
 :::
-
-
 
 
 
 ::: greybox
-When you want to scan for viruses, you can open the antivirus software.
+When you want to scan for viruses, you can open the antivirus software.  
 :::
-
-
 
 
 ::: good
-Figure: Good Example - There is no noticeable break in the reading flow
+Figure: Good Example - There is no noticeable break in the reading flow  
 :::
-
 
 
 
@@ -69,25 +61,18 @@ It is occasionally acceptable to use the first person, "we", "I", "us", "our" et
 ** 
 
 
-
 ::: greybox
-We will now open a web browser and go to the home page.
+We will now open a web browser and go to the home page.  
 :::
-
-
 
 ::: bad
-Figure: Bad Example - It is unclear who the "we" is.
+Figure: Bad Example - It is unclear who the "we" is.  
 :::
-
-
 
 ::: greybox
-You can now open a web browser and go to the home page.
+You can now open a web browser and go to the home page.  
 :::
 
-
-
 ::: good
-Figure: Good Example - These instructions are clear and direct.
+Figure: Good Example - These instructions are clear and direct.  
 :::

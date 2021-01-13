@@ -20,11 +20,11 @@ We want to keep clear and simple file structure in our solution. Never put any f
 
 ::: bad  
 ![Bad example - HTML file in \Images Folder.](OnlyImageBad.gif)  
-:::  
+:::
 
 ::: good  
 ![Good example - Images only, clean \Images folder.](OnlyImageGood.gif)  
-:::  
+:::
 
 
 

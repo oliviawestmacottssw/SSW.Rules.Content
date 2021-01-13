@@ -29,49 +29,34 @@ In Ken Getz's words, you MUST ALWAYS list the items in the order the user select
 
 
 
-
 ::: greybox
-Click Start, then All Programs, then Accessories, then Calculator.
+Click Start, then All Programs, then Accessories, then Calculator.  
 :::
-
-
 
 ::: bad
-Figure: Bad Example - No visual cue is given for separate steps
+Figure: Bad Example - No visual cue is given for separate steps  
 :::
-
-
 
 ::: greybox
-Start - All Programs - Accessories - Calculator
+Start - All Programs - Accessories - Calculator  
 :::
-
-
 
 ::: bad
-Figure: Bad Example - Dashes are easy to glance over
+Figure: Bad Example - Dashes are easy to glance over  
 :::
-
-
 
 ::: greybox
-Start --&gt; All Programs --&gt; Accessories --&gt; Calculator
+Start --&gt; All Programs --&gt; Accessories --&gt; Calculator  
 :::
-
-
 
 ::: bad
-Figure: Bad Example - This is better but looks unprofessional
+Figure: Bad Example - This is better but looks unprofessional  
 :::
-
-
 
 ::: greybox
-Start | All Programs | Accessories | Calculator
+Start | All Programs | Accessories | Calculator  
 :::
-
-
 
 ::: good
-Figure: Good Example
+Figure: Good Example  
 :::

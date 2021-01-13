@@ -16,22 +16,18 @@ redirects:
 
 ---
 
-Using default zone URL in search content source, it will be automatically convert to the relative URL on the search result.e.g. if a user access  search center via http://projects.ssw.com.au/search, the result will be like http://projects.ssw.com.au/search/xxx. While another user access search center via http![https-data-source.jpg](https-data-source.jpg)
+Using default zone URL in search content source, it will be automatically convert to the relative URL on the search result.e.g. if a user access  search center via http://projects.ssw.com.au/search, the result will be like http://projects.ssw.com.au/search/xxx. While another user access search center via http![](https-data-source.jpg)
 
 ://projects.ssw.com.au/search/xxx.<mark>s</mark>://projects.ssw.com.au/search, the result will be http<mark>s</mark>
-
 ::: bad
-Bad example: use https://projects.ssw.com.au
+Bad example: use https://projects.ssw.com.au  
 :::
 
 
-
-![http-data-source.jpg](http-data-source.jpg)
-
+![](http-data-source.jpg)
 ::: good
-Good example: use http://project.ssw.com.au
+Good example: use http://project.ssw.com.au  
 :::
-
 
 
 

@@ -26,12 +26,10 @@ public string myString
  }     
 }
 
-
 ::: bad
 Figure: Bad code. Low performance
 
 :::
-
 
 public string myString
 {     
@@ -41,11 +39,9 @@ public string myString
  }     
 }
 
-
 ::: good
 Figure: Good code. Higher performance
 
 :::
-
 
 We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#TimeSpan) to check for this rule.

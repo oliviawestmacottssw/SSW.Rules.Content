@@ -28,7 +28,7 @@ Set the conditions of the trigger where the visitor previous visits is greater t
 
 ::: ok  
 ![](zendesk-interact-1.png)  
-:::  
+:::
 
 **Reduce cart abandonment**
 
@@ -38,7 +38,7 @@ To provide customers that extra push to purchase, you can set up a trigger to in
 
 ::: ok  
 ![](zendesk-interact-2.png)  
-:::  
+:::
 
 **Answer questions on critical web pages**
 

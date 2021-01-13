@@ -38,7 +38,7 @@ So recommendations for managing updates are as follows:
 
 ::: good  
 ![Good Example: Scheduled email showing clear action points and WSUS stats](WSUSReport.png)  
-:::  
+:::
 
 ###  Related Rules
 

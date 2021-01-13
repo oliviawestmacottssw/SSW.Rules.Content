@@ -20,11 +20,11 @@ Instead of images sitting all around the solution, we put all the images in the 
 
 ::: bad  
 ![Bad example - Images under Product root folder.](../../assets/ImageLinkBad.gif)  
-:::  
+:::
 
 ::: good  
 ![Good example - Images under \Images folder.](../../assets/ImageLinkGood.gif)  
-:::  
+:::
 
 
 

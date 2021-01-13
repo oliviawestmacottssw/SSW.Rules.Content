@@ -21,7 +21,7 @@ e.g.  The period the invoice relates to.
 
 ::: bad  
 ![Figure: Bad Example](memo-field-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example](memo-field-good.jpg)  

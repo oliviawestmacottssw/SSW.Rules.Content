@@ -19,7 +19,7 @@ Keeping your projects tidy says good things about the teams maturity. Therefore 
 
 ::: bad  
 ![Figure: Bad example - Zz-ed files should not exist in Source Control](zzed-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - No zz-ed files in Source Control](zzed-good.jpg)  

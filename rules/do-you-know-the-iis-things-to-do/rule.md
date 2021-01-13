@@ -29,10 +29,10 @@ You can use the [IIS SEO](http://www.iis.net/extensions/SEOToolkit) Toolkit to f
 
 ::: ok  
 ![Figure: Analyzing your site is easy](AnalyseSite.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: You never know how many problems you have until you try](ProblemsYouHave.jpg)  
-:::  
+:::
 
 See [ScottGu's post on IIS Search Engine Optimization Toolkit](http://weblogs.asp.net/scottgu/archive/2009/06/03/iis-search-engine-optimization-toolkit.aspx) for more information

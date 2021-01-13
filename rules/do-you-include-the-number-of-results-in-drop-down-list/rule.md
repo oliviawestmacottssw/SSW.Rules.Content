@@ -19,7 +19,7 @@ When designing your web site, it's a good idea to help your users where possible
 
 ::: bad  
 ![Figure: Bad Example - You can't tell the number of results](drop-list-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - The number of results is clearly displayed](drop-list-good.jpg)  

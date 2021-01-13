@@ -20,7 +20,6 @@ ASP.NET provides a great way to compress and package multiple script files or mu
 Rather than link to each script or css file individually, use bundling to group many together and get the advantages of minification and versioning out of the box.
 
 
-
 :::
 
 
@@ -40,9 +39,7 @@ Rather than link to each script or css file individually, use bundling to group 
 ```
 
 
-::: greybox
-Figure: Bad Example – each reference will be downloaded separately and won’t be compressed
-
+::: greyboxFigure: Bad Example – each reference will be downloaded separately and won’t be compressed
 
 :::
 
@@ -71,5 +68,4 @@ View:
 ```
 
 
-::: greybox
-Figure: Good Example – Define a bundle and render it in the view for maximum performance
+::: greyboxFigure: Good Example – Define a bundle and render it in the view for maximum performance

@@ -20,7 +20,7 @@ Developers should \*never\* use the "General" Project.
 
 ::: bad  
 ![Figure: Bad Example - "General" category](using-general-timesheets-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Specific category](using-general-timesheets-bad.png)  

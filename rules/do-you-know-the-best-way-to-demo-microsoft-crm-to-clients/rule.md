@@ -39,7 +39,7 @@ Adding a Dynamics Environment is as easy as navigating to:
 
 ::: ok  
 ![](dynamics-365-cusomer-engagement.png)  
-:::  
+:::
 
 Once the environment is created it's good for 90 days.
 
@@ -58,7 +58,7 @@ The Office 365 based Dynamics trial is good for 1 month and includes 25 users.
 
 ::: ok  
 ![](dynamics-365-cusomer-engagement-plan-triel.png)  
-:::  
+:::
 
 The advantage of using an Office 365 based Dynamics trial (in the customers' Office Instance), is that is can be converted to a paid product very easily and with all data kept intact.
 

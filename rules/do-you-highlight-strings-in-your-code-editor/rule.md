@@ -20,11 +20,11 @@ It is a good practice to highlight string variables or const in source code edit
 
 ::: bad  
 ![Default string appearance](HighlightString\_bad\_small.gif)  
-:::  
+:::
 
 ::: good  
 ![Highlighted string appearance](HighlightString\_good\_small.jpg)  
-:::  
+:::
 
 ::: good  
 ![Tools | Options form of Visual Studio](HighlightString\_VSOption\_small.gif)  

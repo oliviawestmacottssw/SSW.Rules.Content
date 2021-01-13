@@ -22,15 +22,15 @@ When a user looks at a test result, they want to be quickly informed. Therefore,
 
 ::: bad  
 ![Figure: Bad Example - Pass and fail are not clear](../../assets/Success-lg.gif)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Green text and tick for pass, red text and cross for fail (Better)](../../assets/Success-lg.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Status on windows forms](../../assets/Success-lg.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Microsoft Update uses 3 icons to indicate different status, and good quality of Images too](../../assets/Success-lg.gif)  

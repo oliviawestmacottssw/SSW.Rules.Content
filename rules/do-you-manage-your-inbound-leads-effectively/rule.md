@@ -31,7 +31,7 @@ Once you have qualified the lead, your aim for the remainder of the call should 
 
 ::: ok  
 ![Figure: Send an appointment for your initial meeting](meeting-request.jpg)  
-:::  
+:::
 
 If the client wants to commence ad-hoc work (e.g. Consulting) without a meeting, you should immediately:
 

@@ -40,12 +40,12 @@ Follow these steps to check your website in WhatsUp:
 5. Add the monitor to your device. 
 ::: ok  
 ![Figure: Add monitor](running5.GIF)  
-:::  
+:::
  Once a device is down or up, a WhatsUp action will tell SQL Reporting Services to send out a notification report. 
 Our report looks like this: 
 ::: ok  
 ![Figure: Website doesn't work](running6.GIF)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Website works](running7.GIF)  

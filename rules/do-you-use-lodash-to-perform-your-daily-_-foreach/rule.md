@@ -33,11 +33,9 @@ This new simplified array of account numbers was then used in a dropdown to filt
 
 this.accountNumberDropDownData = \_.chain(this.sharedDataSource).pluck('AccountNumber').uniq().sortBy().value();
 
-
 ::: good
-Good example - Simple one line of TypeScript which would take many line of code without lodash
+Good example - Simple one line of TypeScript which would take many line of code without lodash  
 :::
-
 
 If you have been into JavaScript development for a while you may of also heard about underscore.js which is very similar to Lo-Dash but has some fundamental differences.
 

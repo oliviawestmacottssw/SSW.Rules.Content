@@ -28,11 +28,11 @@ It should be placed on the &lt;head&gt; section of your page. The most used prop
 
 ::: bad  
 ![Figure: Bad example - Shared link has no image and the title was "guessed" by LinkedIn](open-graph-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Shared link has a nice image and title, both defined via Open Graph tags](opengraph-good.jpg)  
-:::  
+:::
 
 **Note:** For LinkedIn you might need to add the prefix as following:
 

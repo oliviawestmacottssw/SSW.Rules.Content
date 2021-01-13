@@ -27,11 +27,11 @@ Application Insights will tell you if your application goes down or runs slowly 
 
 ::: ok  
 ![Figure:  When developing a public website, you wouldn't deploy without Google Analytics to track metrics about user activity.](Google-analytics.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: For similar reasons, you shouldn't deploy a web application without metric tracking on performance and exceptions](2020-03-24\_15-27-26.jpg)  
-:::  
+:::
 
 1. You need a portal for your app
 2. You need to know spikes are dangerous
@@ -43,11 +43,11 @@ Application Insights will tell you if your application goes down or runs slowly 
 
 ::: ok  
 ![Figure: Spikes on an Echidna are dangerous](../../assets/r437355\_2104314.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Spikes on a graph are dangerous](../../assets/sockeye-daily-count.jpg)  
-:::  
+:::
 
 To add Application Insights to your application, make sure you follow the rule [Do you know how to set up Application Insights?](/how-to-set-up-application-insights)
 

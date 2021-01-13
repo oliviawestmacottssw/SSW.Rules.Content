@@ -29,7 +29,7 @@ Assigned chats appear in animated tabs at the bottom of the dashboard.
 
 ::: ok  
 ![](zendesk-departments-1.png)  
-:::  
+:::
 
 **To change the chat routing method for your account**
 

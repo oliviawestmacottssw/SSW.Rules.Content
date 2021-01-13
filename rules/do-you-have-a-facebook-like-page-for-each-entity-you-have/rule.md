@@ -23,6 +23,6 @@ A **Like Page** should be available for each popular product or entity of your c
 
 ::: ok  
 ![Figure: One of these Like Pages is probably unnecessary.](Facebook\_LikePage.jpg)  
-:::  
+:::
 
 Whether your product or entity requires a Like Page depends largely on how effectively it will reach your target audience. Such pages usually have a high upkeep as you need to spend time to maintain your public image, responding to comments and posting updates reliably. It can be a profitable maneuver, but if this style of social networking does not reach out to your audience, then maintaining it is needless.

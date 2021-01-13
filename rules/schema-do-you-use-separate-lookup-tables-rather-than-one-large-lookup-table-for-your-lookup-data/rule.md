@@ -15,9 +15,8 @@ redirects:
 ---
 
 ::: good
-Advantage: Simplifies ORM Mapping
+Advantage: Simplifies ORM Mapping  
 :::
-
 We prefer multiple lookup tables so they make more sense in ORM tools. If you have multiple lookups to the one table, you would need to do your mappings manually rather than using a tool. E.g. you could have either: LookupTable or OrderType
 
 
@@ -45,12 +44,10 @@ When you are obtaining the OrderType for an order, you would have either:
 > Not great as it is not clear what the nature of the lookup table is.
 
 
-
 ::: good
 Advantage: Maintains Complete Referential Integrity without the need for triggers
 
 :::
-
 The other advantage of having separate lookup tables rather than one large one is that referential integrity is maintained.
 One issue with having one large table is that you can still enter invalid values in the Order.OrderTypeID column. E.g. if Order TypeIDs range from 1-3 and CustomerTypeIDs range from 4 to 10.
 
@@ -62,15 +59,12 @@ If I want to enforce referential integrity so I can only enter the correct type 
 
 
 
-
 ::: good
 Advantage: You can add new columns specific to each lookup table
 
 :::
 
-
 For example, if a Lookup table (e.g. CustomerType) has an associated value (e.g. the field MaximumDebtAmount), we don't need to add a field that is irrelevant to all the other lookup tables. We can just add it to the individual lookup table.
-
 
 
 
@@ -78,6 +72,5 @@ For example, if a Lookup table (e.g. CustomerType) has an associated value (e.g.
 Disadvantage: Multiple tables make maintenance slightly more difficult, especially when making changes directly via Management Studio
 
 :::
-
 
 It is simpler to Administer one table than multiple tables, but you can reduce this problem with a good Generic Administration Page UI.

@@ -27,7 +27,7 @@ Without a spare room, it can be difficult to create a workable setup, however as
 
 ::: ok  
 ![Figure: Christian uses this divider to hide his background](room-divider.jpg)  
-:::  
+:::
 
 Christian has used a folding room divider to hide his background and create something visually nice to look at.
 
@@ -40,7 +40,7 @@ Jason’s setup is another good example:
 
 ::: ok  
 ![Figure: Jason is in a bedroom, however, the angle shows little of the bed](jason-angle-bed.jpg)  
-:::  
+:::
 
 In this setup, Jason is using a more ‘pro’ setup with a USB powered podcasting mic and an articulating arm. He is also using a high-quality webcam with a ring light.
 
@@ -59,15 +59,13 @@ One of the most frustrating aspects of remote calls is participants’ mixed aud
 
 ::: ok  
 ![Figure:        Logitech Brio 4k webcam](logitech-brio.png)  
-:::  
-
+:::
 
 
 ::: good
 Benefits
 
 :::
-
 
 * Improves audio \*and\* video quality compared to the built-in webcam
 * ‘One-stop-solution’; easy to install and will work on both laptop and desktop systems
@@ -80,15 +78,13 @@ Benefits
 
 ::: ok  
 ![Figure: <br>            Rode USB Podcaster microphone](rode-podcaster.jpg)  
-:::  
-
+:::
 
 
 ::: good
 Benefits
 
 :::
-
 
 * High-quality audio will be very useful if you plan to record videos. e.g. done videos
 * You look cool
@@ -101,15 +97,13 @@ The best way to improve your video is not to buy a new fancy camera, but to impr
 
 ::: ok  
 ![Figure: Ring light for webcam/camera/smartphone](ring-light.jpg)  
-:::  
-
+:::
 
 
 ::: good
 Benefits
 
 :::
-
 
 * Drastically improves video quality
 * Adds professional spark to your presentation

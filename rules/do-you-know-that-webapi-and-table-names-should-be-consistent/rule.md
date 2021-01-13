@@ -18,21 +18,16 @@ When creating WebAPIs for your applications, it is useful to keep the naming con
 
 <!--endintro-->
 
-
 ::: greybox
  **Table name:** Employees
  **Endpoint:** /api/Users
 
 :::
 
-
-
 ::: bad
 Bad Example: The endpoint is different to the table name
 
 :::
-
-
 
 
 
@@ -44,12 +39,9 @@ Bad Example: The endpoint is different to the table name
 :::
 
 
-
-
 ::: good
-Good Example: Table name is the same as the WebAPI endpoint
+Good Example: Table name is the same as the WebAPI endpoint  
 :::
-
 
 
 

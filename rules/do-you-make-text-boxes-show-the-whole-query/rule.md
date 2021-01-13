@@ -21,11 +21,11 @@ Text boxes are often limited in size. When the user have a large ammount of text
 
 ::: bad  
 ![Figure: Bad example - Can't see the whole query](textarea-small-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Text area expands showing the entire message as it is typed](textarea-big-good.png)  
-:::  
+:::
 
 More info:
 

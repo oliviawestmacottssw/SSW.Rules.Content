@@ -27,7 +27,7 @@ When on a web page, [install Grammarly Addon for Chrome](https://chrome.google.c
 
 ::: ok  
 ![Figure: A typo caught by Grammarly plugin](grammarly-plugin.png)  
-:::  
+:::
 
 ### Documents
 
@@ -36,7 +36,7 @@ When on Word, press  **F7** (or on the ribbon go to  **Review &gt; Spelling & Gr
 
 ::: ok  
 ![Figure: Click on "Spelling & Grammar" button to check your web content](Microsoft-Word-has-a-spelling-and-grammar-checker.jpg)  
-:::  
+:::
 
 ### Presentation
 
@@ -44,13 +44,13 @@ When on PowerPoint , press  **F7** (or on the ribbon go to  **Review | Spelling 
 
 ::: ok  
 ![Figure: Click on "Spelling" button to check your web content](ppt-review-f7.png)  
-:::  
+:::
 
 You should also keep "Check grammar with spelling" checked in your PowerPoint  **Options | Proofing** :
 
 ::: ok  
 ![Figure: Make sure "Check grammar with spelling" is enabled](ppt-check-spelling.png)  
-:::  
+:::
 
 ### Web Content
 
@@ -59,7 +59,7 @@ Any other text can be checked manually. Go to [Grammarly](https://app.grammarly.
 
 ::: ok  
 ![Figure: A typo caught by Grammarly](grammarly.png)  
-:::  
+:::
 
 ### Related rule
 

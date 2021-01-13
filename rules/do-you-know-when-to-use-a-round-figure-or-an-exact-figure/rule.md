@@ -30,27 +30,20 @@ A round figure gives the impression that it was just plucked out of thin air and
 
 **Note** **: ** Whether round or exact, [make sure your dollar amount is excluding GST, and has "+GST" after it](/do-you-always-quote-price-plus-gst-tax).
 
-
 ::: greybox
-The project will take about 6 months to complete and cost $200,000+GST
+The project will take about 6 months to complete and cost $200,000+GST  
 :::
-
-
 
 
 ::: bad
-Bad Example - You've just made that number up, you can go lower
+Bad Example - You've just made that number up, you can go lower  
 :::
-
 
 An exact figure gives the impression that you've done your research and there isn't as much room to move.
 
-
 ::: greybox
-The project will take 6 months to complete and cost $204,080+GST
+The project will take 6 months to complete and cost $204,080+GST  
 :::
-
-
 
 
 ::: good
@@ -58,15 +51,11 @@ Good Example - Everyone knows exactly what they're in for
 
 :::
 
-
 For a** variable price** project, round figures should be used. This gives room for the project scope to be varied with additional items and lends itself more to an agile approach.
 
-
 ::: greybox
-The project will take 6 months to complete and cost $204,080+GST
+The project will take 6 months to complete and cost $204,080+GST  
 :::
-
-
 
 
 ::: bad
@@ -74,17 +63,13 @@ Bad Example - This makes it very hard to vary the project as the client will alw
 
 :::
 
-
  A round figure gives the impression that this is a ball park estimate and that the price will likely change. 
 
-
 ::: greybox
-The project will take about 6 months to complete and cost approximately $200,000+GST
+The project will take about 6 months to complete and cost approximately $200,000+GST  
 :::
 
 
-
-
 ::: good
-Good Example - Give the client an indication of how much it will approximately cost without committing to the figure
+Good Example - Give the client an indication of how much it will approximately cost without committing to the figure  
 :::

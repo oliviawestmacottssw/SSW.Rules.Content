@@ -24,12 +24,10 @@ SQL Server rowversions are a data type available which are binary numbers that i
 
 All tables should have a rowversion column called "RecordVersion" to aid concurrency checking. A rowversion improves update performance because only one column needs to be checked when performing a concurrency check (instead of checking all columns in a table for changes).
 ![](NoRowversionOnTable.png)
-
 ::: bad
 Figure: Bad Example - No rowversion available in this table
 
 :::
-
 
 
 
@@ -44,16 +42,13 @@ UPDATE MyTest SET myValue = 1 WHERE myKey = 2
  
 SELECT \* FROM MyTest ORDER BY RecordVersion DESC
 
-
 ::: good
 Figure: Good Example - A create statement which builds a table with a rowversion
 
 :::
 
 
-
 ![](RecordsWithRowversion.jpg)
-
 ::: good
-Figure: Good Example - A set of records with a rowversion available
+Figure: Good Example - A set of records with a rowversion available  
 :::

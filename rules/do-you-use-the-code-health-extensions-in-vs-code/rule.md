@@ -35,7 +35,7 @@ Simply select the "Extensions" tab, search for "CSSLint" and "TSLint" and click 
 
 ::: ok  
 ![Figure: Addition of CssLi nt and TSLint to VS Code Project](VSCode-Extensions.png)  
-:::  
+:::
 
 If you prefer not to use the Extensions (which are currently a bit out of date). You can install them using npm as normal. 
 CssLint ([Csslint npm guide](https://www.npmjs.com/package/csslint))

@@ -22,12 +22,12 @@ So we need a better way to present an image on our website and it should be easy
 <!--endintro-->
 
 ::: bad  
-![::: greyboxYou then have this pretty white flower with a green stem standing on a water pond. It is beautiful.:::Figure: Bad example - Here we have text describing a flower](flower.jpg)  
-:::  
+![::: greyboxYou then have this pretty white flower with a green stem standing on a water pond. It is beautiful.  :::Figure: Bad example - Here we have text describing a flower](flower.jpg)  
+:::
 
 ::: good  
 ![Figure: Good example - Here we have a picture (could be a screen capture) which avoids a thousand words](flower.jpg)  
-:::  
+:::
 
 What else can you do?
 

@@ -20,13 +20,10 @@ Bad example: to sound like you are emotional about this
 :::
 
 
-
-
 ::: good
 Good example: to sound like you are passionate about this
 
 :::
-
 
 
 <!--endintro-->

@@ -21,7 +21,7 @@ You should never use any copyrighted work without permission. When it comes to v
 
 ::: bad  
 ![Bad example: Ripping someone's song - your video will get taken down by YouTube](audio-video-bad.jpg)  
-:::  
+:::
 
 ### Royalty Free Music 
 
@@ -34,7 +34,7 @@ Audio Jungle is great for finding sound effects and [Foley](https://en.wikipedia
 
 ::: good  
 ![Good example: E.g. AudioJungle.net - you can pay $1 for a laugh track](audio-video-good-audiojungle.jpg)  
-:::  
+:::
 
 If you want audio that sounds more like professional music created by bands and artists but still designed for corporate, then use Art List Music.
 

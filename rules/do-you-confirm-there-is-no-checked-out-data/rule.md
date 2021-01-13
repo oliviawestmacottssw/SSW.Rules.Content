@@ -23,7 +23,7 @@ Suggestion to Microsoft: send an email to the user to remind them they have outs
 
 ::: ok  
 ![Figure: Here Greg Harris has not checked in a file](sp-docs.jpg)  
-:::  
+:::
 
 
 
@@ -47,7 +47,7 @@ Go to "Site Settings | Manage Content and Structure | Content and Structure Repo
 
 ::: ok  
 ![Figure: Create a new report](ContentAndStructureReportsNew.png)  
-:::  
+:::
 
 Fill the "CAML Query":
 &lt;Where&gt;&lt;IsNotNull&gt;&lt;FieldRef Name="CheckoutUser" LookupId="TRUE"/&gt;&lt;/IsNotNull&gt;&lt;/Where&gt;
@@ -56,7 +56,7 @@ Fill the other fields like below:
 
 ::: ok  
 ![Figure: Fill in form](NewReportForm.png)  
-:::  
+:::
 
 2. Run Checked Out report
 
@@ -66,7 +66,7 @@ Run the checkout report from "Site Settings | Manage Content and Structure | Vie
 
 ::: ok  
 ![Figure: Checked Out Documents report link Make sure there are no files checked out, otherwise, go step 3](CheckedOutDocuments.png)  
-:::  
+:::
 
 3. Go chase after the users.
 
@@ -84,8 +84,7 @@ Run the checkout report from "Site Settings | Manage Content and Structure | Vie
 Even better, we have also improved the application with a scheduled task using SharePoint CSOM API to find checked out files and send these notification emails automatically every night.
 
 
-![CheckedOutFilesApplicationReport.png](CheckedOutFilesApplicationReport.png)Figure: One button reminds all users of their "Checked out Files"
-
+![](CheckedOutFilesApplicationReport.png)Figure: One button reminds all users of their "Checked out Files"
 
 
 ::: greybox
@@ -126,7 +125,6 @@ Tip: See all files you have checked out at [<font color="#3a66cc">http://&lt;sit
 
 
 :::
-
  **Figure: An example of the reminder email that all users receive** **
 
 **

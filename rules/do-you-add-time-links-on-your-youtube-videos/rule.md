@@ -45,7 +45,7 @@ Steps to do this:
 
 ::: good  
 ![Figure: Timestamps are interactive - Users can easily go to each section of the video by clicking on these links or using the slider](youtube-video-time-link.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Chapter Markers are rendered over the video and not interactive - A visual table of content inside the video screen - If you watch from        2:38 you will see a new section highlighted with a dip to black, subtle sound effect, and strikethrough on the section that just finished](table-contents-in-video-screen.png)  

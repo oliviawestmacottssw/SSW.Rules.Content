@@ -26,6 +26,6 @@ Some characters are reserved characters, which may not be supported by some feat
 
 ::: ok  
 ![](sharepoint-characters-not-allowed.jpg)  
-:::  
+:::
 
 In the above source code, the URL     [http://rules.ssw.com.au:80/do-you-know-when-to-use-+1](/do-you-know-when-to-use-+1)*[note: don't include as a hyperlink as it's a broken URL]* will throw a 404 error rather than redirecting to      **https://rules.ssw.com.au:80/do-you-know-when-to-use-+1** ,but it works fine if the URL doesn't include “+", e.g.     [https://rules.ssw.com.au/do-you-know-when-to-use-plus-one](/do-you-know-when-to-use-plus-one).

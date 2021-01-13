@@ -25,12 +25,10 @@ Private Sub ShowMyMessage()
  Deleting a team project cannot be undone.", strProductName + "
  " + strVersion(), MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2)
 
-
 ::: bad
 Figure: Bad example of MessageBox code format
 
 :::
-
 
 Private Sub ShowMyMessage()
  MessageBox.Show( \_ 
@@ -43,7 +41,6 @@ Private Sub ShowMyMessage()
  MessageBoxIcon.Warning, \_
  MessageBoxDefaultButton.Button2)
 End Sub
-
 
 
 

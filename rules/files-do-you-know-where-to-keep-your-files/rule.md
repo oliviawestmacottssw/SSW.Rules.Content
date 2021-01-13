@@ -24,7 +24,7 @@ Each client project should have a nice place to keep files. In the old days, thi
 
 ::: ok  
 ![](Screen Shot 2020-10-29 at 11.02.48 AM.png)  
-:::  
+:::
 
 <!--endintro-->
 
@@ -35,7 +35,7 @@ The solution that allows the best collaboration with Developers, Project Manager
 
 ::: ok  
 ![Figure: Teams | Team | Files. More at        https://rules.ssw.com.au/track-project-documents](Microsoft-Teams-Files.png)  
-:::  
+:::
 
 ### What emails do you need to store?
 
@@ -55,19 +55,19 @@ For most projects, you need to quickly store and locate important details and do
 
 ::: bad  
 ![Figure: Bad example – It might be easy to use File Shares, your Local C: or emails – but don’t. They don’t work in a team environment as they aren’t easy for others to access](Dont-keep-files.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad example – SharePoint integrated into Azure DevOps (was VSTS/TFS) is not supported via Visual Studio anymore](keep-files-TFS.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad example – even though this is using SharePoint - this is using a Team Site with a Document Library - it is better to use Microsoft Teams which uses SharePoint under the covers](keep-files-SP.jpg)  
-:::  
+:::
 
 ::: good  
 ![Good example: Use Microsoft Teams and it will automatically create a Site for the Team (and that includes a document library which you can connect to with OneDrive)](keep-files-sp-teams.jpg)  
-:::  
+:::
 
 ### What does not get stored in Microsoft Teams? 
 

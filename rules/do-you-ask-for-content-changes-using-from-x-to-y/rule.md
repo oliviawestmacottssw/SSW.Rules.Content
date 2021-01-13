@@ -24,7 +24,6 @@ Make the changes even easier to see and understand by highlighting in <font styl
 <!--endintro-->
 
 
-
 :::
 
 1. For the Code Auditor web page, please make the list read:
@@ -36,13 +35,9 @@ Make the changes even easier to see and understand by highlighting in <font styl
 **Hi Eric,**
 
 ::: greybox
-
-
 :::
 Figure: Bad example - original version of content has not been included in the email,
 ::: bad
-
-
 
 
 :::
@@ -61,8 +56,7 @@ Change from:
 
 **Hi Eric,**
 
-::: greybox
-Figure: Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed
+::: greyboxFigure: Good Example - it has 'From' and 'To' with changes highlighted... so it is clear what needs to be changed
 
 ### If there are too many changes
 
@@ -71,6 +65,6 @@ Sometimes you have a lot of content and too many changes, making the process "fr
 
 ::: ok  
 ![Figure: A Word document with 'Track Changes' ON is recommended if you have too many changes](word-track-changes.jpg)  
-:::  
+:::
 
 **Video:** [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)

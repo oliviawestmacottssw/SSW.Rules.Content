@@ -45,7 +45,6 @@ Just to be friendly, we would send an email for the first month, and then anothe
 
 We probably all prefer working on new features, rather than supporting old code, but it’s still a core part of the job. If your answer to question 3 scares you, it might be time to consider a backward compatibility warning.
 
-
 ::: greybox
  **From: ** John Liu www.ssw.com.au
  **To:**  SSWALL
@@ -55,7 +54,6 @@ The stored procedure procLookOutClientSelect (currently used only by LookOut any
 You can change your settings either by: 
 
 :::
-
 
 * Going to LookOut Options -&gt; Database tab and select the new stored procedure
 * Upgrading to SSW LookOut version 10.0 which will be released later today

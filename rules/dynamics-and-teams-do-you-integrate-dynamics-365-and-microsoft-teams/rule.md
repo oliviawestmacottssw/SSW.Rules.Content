@@ -24,7 +24,7 @@ redirects:
 
 ::: ok  
 ![Figure: Dynamics 365 tab in MS Teams (also showing the Teams URL field, two birds in one stone)](integration-teams-365.png)  
-:::  
+:::
 
 ### Related rules
 

@@ -24,15 +24,15 @@ There is another relevant rule about the [winform title](http://www.ssw.com.au/s
 
 ::: bad  
 ![Figure: Bad Example - The winform's title does not contain the progress status](../../assets/BadProgressForm.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - The winform's title contains the status of progress bar](../../assets/GoodProgressForm.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - You can clearly see the progress status from taskbar when you have the windows minimized](../../assets/GoodProgressFormTaskbar.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Windows 7 shows the progress in the taskbar (which is visible even when the application is minimized)](../../assets/TaskBarProgress.png)  

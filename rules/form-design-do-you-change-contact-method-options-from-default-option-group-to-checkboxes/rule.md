@@ -15,7 +15,7 @@ redirects: []
 
 ::: bad  
 ![Figure: Bad Example - By default CRM uses option group for contact's and account's             contact methods.](CRMContactMethods.jpg)  
-:::  
+:::
 
 <!--endintro-->
 

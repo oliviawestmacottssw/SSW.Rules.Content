@@ -21,11 +21,9 @@ Every error message you put into your products is an opportunity for good servic
 
 ![ ](imgErrorHandle.GIF)
 
-
 ::: good
-Figure: Log every error
+Figure: Log every error  
 :::
-
 
 Not to say though that there is any ideal error message - a great error is one that has been eliminated! In packaged products, every unhandled error is our problem.
 

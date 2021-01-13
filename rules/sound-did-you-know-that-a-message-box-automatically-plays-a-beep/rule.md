@@ -13,7 +13,7 @@ redirects: []
 
 ::: good  
 ![Figure: Good Example - Windows message boxes plays a sound... which cannot be captured in screenshot form.](../../assets/Win7SoundError.png)  
-:::  
+:::
 
 <!--endintro-->
 

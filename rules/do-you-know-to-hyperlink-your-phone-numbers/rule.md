@@ -27,7 +27,6 @@ Devices and computers that don’t have phone functionality will either open a p
 
 &lt;a href="tel:+61299533000"&gt;+61 2 9953 3000&lt;/a&gt;
 
-
 ::: good
 Figure: Good Example – This is the syntax to hyperlink phone numbers.
 

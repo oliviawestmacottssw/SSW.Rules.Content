@@ -18,20 +18,20 @@ To avoid confusion, add as much detail as possible about the purchase and who au
 
 
 
-![ac.png](ac.png) 
+![](ac.png) 
 
  **Figure: Users to accept invite to use Hubdoc** 
 
 
 
 
-![de.png](de.png)
+![](de.png)
 
 
  **Figure: Take a photo with the Mobile Hubdoc app** 
 
 
-![wer.png](wer.png)
+![](wer.png)
 
 
  **Figure: Photo of Receipt and submitting basic invoice details - generally is read by OCR of the software.** 
@@ -43,7 +43,7 @@ To avoid confusion, add as much detail as possible about the purchase and who au
 
 
 
-![che.png](che.png)
+![](che.png)
  **Figure: Details that can be automated for Accounting reconciliation purposes** 
 
 
@@ -71,7 +71,7 @@ Tip: Hubdoc will automatically create folders to categorise the invoices and sto
 
 
 
-![1.png](1.png)
+![](1.png)
 
 
 

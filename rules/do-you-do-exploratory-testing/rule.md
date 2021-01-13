@@ -64,7 +64,7 @@ Use Microsoft's Exploratory Testing -  **Test & Feedback extension** - to perfor
 4. Start a session by clicking on the Chrome extension and then click start a session. <br>      
 ::: ok  
 ![Figure: Chrome extension icon](exploratory-test-extension-icon.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Test & Feedback start session button](exploratory-test-extension-start.png)  

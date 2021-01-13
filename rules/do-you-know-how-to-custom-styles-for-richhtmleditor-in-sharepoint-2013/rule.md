@@ -24,7 +24,7 @@ This rule outlines how to use custom styles in the SharePoint  RichHTMLEditor.
 
 
 In SharePoint, we can use the below way to apply custom styles:
-![CustomStylesInSharePoint.png](CustomStylesInSharePoint.png) **Figure: custom RichHtmlEditor styles give your content editors a visual preview of your custom styles
+![](CustomStylesInSharePoint.png) **Figure: custom RichHtmlEditor styles give your content editors a visual preview of your custom styles
 ** 
 
 
@@ -112,7 +112,7 @@ P.ssw15-rteElement-CodeArea
 }
 
 This  **Code Area** style will come up in "Page Elements" section:
-![CodeArea.png](CodeArea.png) **Figure: Code Area style come up in "Page Elements" seciton** 
+![](CodeArea.png) **Figure: Code Area style come up in "Page Elements" seciton** 
 
 
 While applying a "Page Elements" style, it will
@@ -140,13 +140,13 @@ Its html code will change
 
 
 from
-![page_element_p.png](page_element_p.png)
+![](page_element_p.png)
 
  **Figure: "Code Area style" with parent element &lt;p&gt;** 
 
 
 to
-![page_element_dd.png](page_element_dd.png)Figure: "Good Figure style" changed the parent element from &lt;p&gt; to &lt;dd&gt;
+![](page_element_dd.png)Figure: "Good Figure style" changed the parent element from &lt;p&gt; to &lt;dd&gt;
 
 
 
@@ -168,7 +168,7 @@ e.g.
 }
 
 This  **Highlight** style will come up in "Text Styles" section:
-![HighLight.png](HighLight.png) **Figure: Highlight style will come up in "Text Styles" section
+![](HighLight.png) **Figure: Highlight style will come up in "Text Styles" section
 ** 
 
 While applying a "Text Styles" style, it will

@@ -25,11 +25,11 @@ If you migrate using the Sharegate migration tool, you want to have zero errors 
 
 ::: bad  
 ![Bad example: Page customized using SharePoint Designer](avoid-errors-sp-migration1.png)  
-:::  
+:::
 
 ::: good  
 ![Good example: Out of the box list view page](avoid-errors-sp-migration2.png)  
-:::  
+:::
 
 Remove unsupported columns such as:
 

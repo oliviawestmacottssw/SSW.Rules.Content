@@ -19,14 +19,12 @@ Reasons for avoiding checking Nuget or Npm packages
 
 <!--endintro-->
 
-![nugetpackages.png](nugetpackages.png)
-
+![](nugetpackages.png)
 
 ::: bad
 Figure:  Do not have a folder called "packages" or "Node\_Modules" 
 
 :::
-
 
 
 

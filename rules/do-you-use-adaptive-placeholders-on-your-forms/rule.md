@@ -27,7 +27,7 @@ It's also a nice way to save space and achieve a neat visual appearance. Using t
 
 ::: bad  
 ![Figure: Bad Example - Having both label and placeholders can be repetitive and dull](placeholder-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Using placeholders](placeholder-good.gif)  

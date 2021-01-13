@@ -27,17 +27,17 @@ So our old rule was to always use the ugly DataGrid (although we were never happ
 
 ::: bad  
 ![Figure: Bad Example - The DataGrid is ugly](../../assets/UsingDataGridWhenNotNeeded.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - A beautiful ListView - a nicer look over the datagrid](../../assets/SortableListView.gif)  
-:::  
+:::
 
 So the listview looks nicer? If you are not convinced here is another one:
 
 ::: good  
 ![Figure: Good Example - The appearance of DataGrid and ListView](../../assets/DatagridVSListview.gif)  
-:::  
+:::
 
 But another issue is how much code to write... For ListView you will need to write a bit of code to fill the list view...
 

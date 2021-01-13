@@ -26,7 +26,7 @@ We recommend using software such as GitHub Issues, Azure DevOps, or JIRA to stor
 
 ::: ok  
 ![Figure: Get typing during a conversation to make the meeting tangible](Typing.jpg)  
-:::  
+:::
 
 The Product Owner is responsible for owning the Product Backlog. See the video on     ["Do you know how to be a good Product Owner?"](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4cbb-aac2-e778b71166a2&TermSetId=07da3ddf-0924-4cd2-a6d4-a4809ae20160&TermId=a91de77d-a8dd-40be-b61a-bd6305e7183f)
 

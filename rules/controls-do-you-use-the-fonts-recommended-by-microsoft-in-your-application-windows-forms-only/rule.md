@@ -20,15 +20,15 @@ At SSW, we use Code Auditor to ensure all fonts on our forms are set to Tahoma b
 
 ::: bad  
 ![Figure: Bad Example - This form uses a non-standard font, and it is hard to read](../../assets/FontBadArialNarrow.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - This form uses Tahoma, and it is easy to read](../../assets/FontGoodTahoma.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - This form uses Tahoma, and the RichTextBox displays source code using Courier New](../../assets/FontCourierNew.gif)  
-:::  
+:::
 
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#VBFont) to check for this rule. |

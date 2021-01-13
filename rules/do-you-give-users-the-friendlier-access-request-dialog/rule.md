@@ -17,18 +17,18 @@ redirects:
 ---
 
 Instead of displaying a direct " **Access Denied** " warning info, you can allow end users to send an " **Access Request** ".
-![PermissionRequest.jpg](PermissionRequest.jpg) **Figure: Joanna is requesting access to SharePoint site** 
+![](PermissionRequest.jpg) **Figure: Joanna is requesting access to SharePoint site** 
 
 <!--endintro-->
 
 The "request manager" will receive an email:
-![RequestNotificationEmail.png](637cf8_RequestNotificationEmail.png) **Figure: Request Notification Email Sample** The link in the email will navigate administrator to thelist: **Pending Requests** ![LinkToPendingRequestsList.png](LinkToPendingRequestsList.png) **Figure: Pending Requests List** 
+![RequestNotificationEmail.png](637cf8_RequestNotificationEmail.png) **Figure: Request Notification Email Sample** The link in the email will navigate administrator to thelist: **Pending Requests** ![](LinkToPendingRequestsList.png) **Figure: Pending Requests List** 
 After reading the request infomation, the administrator can "Approve" or "Decline" the request, or he can start a conversation with the request user on the  **Pending Requests** list directly to inquire more information:
-![StartAConversatioinOnPendingList.png](StartAConversatioinOnPendingList.png) **Figure: possible actions for requests (Approve, Decline or start a conversation with the request user)** 
+![](StartAConversatioinOnPendingList.png) **Figure: possible actions for requests (Approve, Decline or start a conversation with the request user)** 
 
 
 To setup permission request for a SharePoint site collection, go to " **Site Settings (Gear Wheel icon)** |  **Site Permissions** ":
-![SetupPermissionRequest.png](SetupPermissionRequest.png) **Figure: Open "Access Request" setting** 
+![](SetupPermissionRequest.png) **Figure: Open "Access Request" setting** 
 
 
 **Limition:** 

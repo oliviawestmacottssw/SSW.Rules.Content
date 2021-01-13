@@ -25,13 +25,11 @@ You can imagine Hoover's anger. One could anticipate the tongue-lashing that thi
 
 :::
 
-
 <!--endintro-->
 
 To err is human and it happens to the best of us. When a mistake happens, getting upset and lashing out doesn't resolve the situation. The best course of action is to examine what went wrong, and how it can be prevented from happening again.
 
 This story from Adam Cogan is a good example of this:
-
 
 ::: greybox
 One of my staff, I won't tell you Edward's last name 😉, offered to help clean up my laptop by backing up my files, reformatting and starting from scratch. For some reason or another, all of my emails and client work were destroyed. Naturally, I was upset, but instead of coming down on him like a ton of bricks, I:

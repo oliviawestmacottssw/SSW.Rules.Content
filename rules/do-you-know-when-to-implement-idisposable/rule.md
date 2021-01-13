@@ -32,12 +32,10 @@ private void useMyClass()
   \*/
  }
 
-
 ::: bad
 Figure: Bad example - Using unmanaged resources without disposing of them when we are done
 
 :::
-
 
 
 
@@ -52,12 +50,10 @@ public class MyClass : IDisposable
   }
 }
 
-
 ::: good
 Figure: Good example - Implementing IDisposable allows you to dispose of the unmanaged resources deterministically to maximise efficiency
 
 :::
-
 
 
 
@@ -71,12 +67,10 @@ private void useClass()
   }  // myClass.Dispose() is automatically run at the end of the using block
 }
 
-
 ::: good
 Figure: Good example - With the using statement, the unmanaged resources are disposed of as soon as we are finished with them
 
 :::
-
 
 
 

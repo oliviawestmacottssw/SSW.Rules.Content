@@ -18,7 +18,6 @@ Repeated sections of User Interface should be encapsulated in either Html Helper
 <!--endintro-->
 
 
-
 :::
 
 
@@ -33,9 +32,7 @@ Repeated sections of User Interface should be encapsulated in either Html Helper
 ```
 
 
-::: greybox
-Figure: Bad Example – The above code could be encapsulated into a Partial View for reuse
-
+::: greyboxFigure: Bad Example – The above code could be encapsulated into a Partial View for reuse
 
 :::
 
@@ -52,9 +49,7 @@ public static class DateExtensions
 ```
 
 
-::: greybox
-Figure: Good Example – Using an HTML Helper extension method for reusable code
-
+::: greyboxFigure: Good Example – Using an HTML Helper extension method for reusable code
 
 :::
 
@@ -64,5 +59,4 @@ Figure: Good Example – Using an HTML Helper extension method for reusable code
 ```
 
 
-::: greybox
-Figure: Good Example – Using a Partial View for reusable sections of UI
+::: greyboxFigure: Good Example – Using a Partial View for reusable sections of UI

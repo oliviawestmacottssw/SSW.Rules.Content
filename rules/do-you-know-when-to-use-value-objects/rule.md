@@ -22,19 +22,19 @@ As an example, consider an AD account. An AD Account consists of a domain name a
 
 ::: bad  
 ![Figure: Bad Example - Storing an AD Account as a String (AD Account is a complex type)](when-use-value-bad.png)  
-:::  
+:::
 
 An AD Account is a complex type. Only certain strings are valid AD accounts. Sometimes you will want the string representation (SSW\Jason), sometimes you will need the domain name (SSW), and sometimes just the user name (Jason). All of this requires logic and validation, and the logic and validation cannot be provided by the string primitive type. Clearly, what is required is a more complex type such as a value object.
 
 ::: good  
 ![Figure: Good Example - Storing an AD Account as a Value Object to Support Logic and Validation](when-use-value-good.png)  
-:::  
+:::
 
 The underlying implementation for the      **AdAccount** class is as follows:
 
 ::: good  
 ![Figure: Good Example - Implementation of the AdAccount Value Object Supports Logic and Validation](when-use-value-good-2.png)  
-:::  
+:::
 
 The      **AdAccount** type is based on the      **ValueObject** type, which you can view here;     https://github.com/SSWConsulting/NorthwindTraders/blob/master/Northwind.Domain/Infrastructure/ValueObject.cs.
 
@@ -42,7 +42,7 @@ Working with the AD accounts will now be easy. You can construct a new      **Ad
 
 ::: ok  
 ![](when-use-value-eg-1.png)  
-:::  
+:::
 
 The factory method      **For** ensures only valid AD accounts can be constructed and for invalid AD account strings, exceptions are meaningful, i.e.      **AdAccountInvalidException** rather than      **IndexOutOfRangeException** .
 
@@ -63,7 +63,7 @@ If you're using Entity Framework Core, you should also configure the type as fol
 
 ::: ok  
 ![Figure: Using Entity Framework Core to Configure Value Objects as Owned Entity Types](when-use-value-eg-2.png)  
-:::  
+:::
 
 With the above configuration in place, EF Core will name the database columns for the properties of the owned entity type as      **AdAccount\_Domain** and      **AdAccount\_Name** . You can learn more about     [Owned Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities) by reviewing the EF Core documentation.
 

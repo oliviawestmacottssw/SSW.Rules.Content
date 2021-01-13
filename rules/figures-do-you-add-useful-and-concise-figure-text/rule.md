@@ -31,34 +31,27 @@ Users read websites in a similar fashion. Catch their attention with an image, a
 
 ::: good  
 ![Figure: Good Example - Some nice useful text describing the image](good-caption.jpg)  
-:::  
+:::
 
 It is especially important that images and captions serve a purpose, as opposed to graphics which are there solely for design.
 
 ### Tip #1 - Bold your captions
 
 
-
 ::: greybox
 [image]
 
 :::
-
-
 
 
 ::: bad
 Figure: [Description…] (not bolded)
 :::
 
-
-
 ::: greybox
 [image]
 
 :::
-
-
 
 
 
@@ -68,40 +61,31 @@ Figure: [Description…] (bolded is best)
 :::
 
 
-
 ### Tip #2 - Describe the actions 
 
 Especially for screenshots, it is a good idea to have your figure describe the action the user would take:
 
 <br>   &lt;
-
 ::: greybox
 [image]
 
 :::
-
-
 
 
 
 ::: bad
-Figure: This is the screen
+Figure: This is the screen  
 :::
-
-
 
 ::: greybox
-[image]
+[image]  
 :::
-
-
 
 
 
 ::: good
-Figure: On the screen, choose the execution method
+Figure: On the screen, choose the execution method  
 :::
-
 
 
 
@@ -115,20 +99,15 @@ Bear in mind to always show the bad example first, then good example, like below
 
 
 
-
 ::: greybox
 To print your document:
 1. Select File | Print. The Print dialog <mark>should</mark> now show.
-2. Select the number of copies and click Print. The file <mark>should</mark> now print.
+2. Select the number of copies and click Print. The file <mark>should</mark> now print.  
 :::
-
-
 
 ::: bad
-Figure: Bad Example - Using 'should' implies uncertainty
+Figure: Bad Example - Using 'should' implies uncertainty  
 :::
-
-
 
 ::: greybox
 To print your document: 
@@ -137,13 +116,10 @@ To print your document:
 
 :::
 
-
-
 ::: good
 Figure: Good example - Using present or future tense implies confidence <br>            
 
 :::
-
 
 
 ### Related Rules

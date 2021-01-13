@@ -24,12 +24,10 @@ If you have to use a workaround you should always comment your code and referenc
 
 
 
-
 ::: greybox
 "This is a workaround as per the suggestion 
-"[URL]
+"[URL]  
 :::
-
  **Figure: Always add a URL to the suggestion that you are compensating for
 ** **
 ** 

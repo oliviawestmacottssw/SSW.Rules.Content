@@ -22,13 +22,13 @@ After logging into your live site's /wp-admin click the WP Engine button on the 
 
 ::: ok  
 ![Figure: Staging tab in WordPress](staging-tab.jpg)  
-:::  
+:::
 
 Then, choose from the following options:
 
 ::: ok  
 ![](wp-tables.png)  
-:::  
+:::
 
 When pushing changes from staging to live the file system from staging does not overwrite the live file system but instead, merges with the live file system.
 

@@ -27,7 +27,7 @@ Making a responsive website work well on a mobile is not easy but with the right
 > ![](bad-rules-testing-responsivewebsites.jpg)
 
 Figure: Bad example - Using your browser to test a responsive website layout.
-![2015-02-16_17-44-01.jpg](2015-02-16_17-44-01.jpg)
+![](2015-02-16_17-44-01.jpg)
 Figure: Good example - Using Device Mode & Mobile Emulation in Chrome.
 1. Watch this video below
 2. Read the documentation on the [Chrome Developer Website.](https://developer.chrome.com/devtools/docs/device-mode)

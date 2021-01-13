@@ -42,7 +42,7 @@ Search & Install the NuGet packages:
 "tslint" https://www.nuget.org/packages/tslint/
 
 For Visual Studio development on web applications, download Web Essentials, it will provide intellisense for JS, CSS, HTML, Less, Scss, and CoffeeScript. (https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials20153 )
-![VS-InstallNuGetPackages.png](VS-InstallNuGetPackages.png) **Figure: Steps to install NuGet Packages
+![](VS-InstallNuGetPackages.png) **Figure: Steps to install NuGet Packages
 ** 
 Here is a quick guide to the steps to install NuGet Packages to the entire solution:
  1) Right click solution
@@ -54,7 +54,7 @@ Here is a quick guide to the steps to install NuGet Packages to the entire solut
  7) Click "Install"
 
 Issues from these will now be returned in the Visual Studio analyser error list.
-![VS-RoslynRules.png](VS-RoslynRules.png)Figure: New Roslyn Rule issues raised in Visual Studio Analyser
+![](VS-RoslynRules.png)Figure: New Roslyn Rule issues raised in Visual Studio Analyser
 Run Code Analysis on the project. Check over all of the warnings, if they are unnecessary or inappropriate, disable them, otherwise modify their severity level to "Error". 
 When the build is run, "Errors" will break the build, while "Warnings" will be reported, but not break the build.
 Rules which have been flagged should also be checked once the build is completed
@@ -66,10 +66,10 @@ The goal is to develop a shared ruleset across projects. (Currently this is just
 Any project specific rules should be documented in "\_Instructions-CodeHealth.docx" kept in the solution.
 <mark>Please also copy the current version number of this rule into the "_Instructions-CodeHealth.docx" in order to track what version your existing solution adheres to.</mark>
 
-![VS-ModifyRules.png](VS-ModifyRules.png)
+![](VS-ModifyRules.png)
 Right Click project | Properties | Code Analysis | Open
  **Figure: Steps to open Visual Studio Analyser rules customisation page
-** ![VS-ModifyRules2.png](VS-ModifyRules2.png) **Figure: How to customize rules. By either enabling / disabling rules or packages. Or by modifying the rule severity level.
+** ![](VS-ModifyRules2.png) **Figure: How to customize rules. By either enabling / disabling rules or packages. Or by modifying the rule severity level.
 ** 
 ### Visual Studio Code
 
@@ -78,7 +78,7 @@ For web projects, we advocate the use of CSSLint for css files and TSLint for ty
 
 Linters for these can be easily added to VS Code via extensions.
 Simply select the "Extensions" tab, search for "CSSLint" and "TSLint" and click "Install" on each respectively.
-![VSCode-Extensions.png](VSCode-Extensions.png) **Figure: Addition of CssLint and TSLint to VS Code Project
+![](VSCode-Extensions.png) **Figure: Addition of CssLint and TSLint to VS Code Project
 ** 
 If you prefer not to use the Extensions (which are currently a bit out of date). You can install them using npm as normal.
 
@@ -90,9 +90,9 @@ TSLint https://www.npmjs.com/package/tslint
 
 <mark>Ensure utilisation of TeamBuild2015 or higher. (No support for XAML builds)</mark>
 Edit the build definition
-![VSO-EditBuild.png](VSO-EditBuild.png) **Figure: Steps to edit an existing build definition on VisualStudio.com** 
+![](VSO-EditBuild.png) **Figure: Steps to edit an existing build definition on VisualStudio.com** 
 Select "Build & Release" &gt; Select "Builds" &gt; Click on your existing build &gt; Click "Edit"
-![VSO-BuildDefinition-V3.png](VSO-BuildDefinition-V3.png)Figure: Example completed build definition.![VSO-DirectoryExampleV2.png](VSO-DirectoryExampleV2.png) **Figure: Example directory for TSLint run commands
+![](VSO-BuildDefinition-V3.png)Figure: Example completed build definition.![](VSO-DirectoryExampleV2.png) **Figure: Example directory for TSLint run commands
 ** 
 Under advanced for the Command Line tasks, the Working Directory can be specified if necessary.
 
@@ -121,7 +121,7 @@ TsLint
 
 If your build is being hosted, then the config file must be reloaded every time. If your build is running on premises, the config file will attempt to load over the existing one and break the build.
 If this is the case, just add a step to delete your config file after the scan is complete.
-![VSO-RemoveConfig.png](VSO-RemoveConfig.png) **Figure: Command line step to remove the config file (tslint.json) after the linter has run
+![](VSO-RemoveConfig.png) **Figure: Command line step to remove the config file (tslint.json) after the linter has run
 ** 
 **Command Line** - Remove the tslint config file, as it will break future scan if the build is on premises if a config file already exists and an attempt to add another one is made.
  **Name:** Remove tslint config
@@ -136,31 +136,25 @@ If warnings exist, the rule should be disabled or set as an error. (If it is wor
 
 
 If your project does not contain TypeScript files, then you do not need to include the TSLint build tasks.
- **![VSO-EnsureTSLintRuns.png](VSO-EnsureTSLintRuns.png)Figure: Ensure TSLint actually finds files to scan (if the project includes TSLint files) otherwise it will pass without you noticing
-** **![VSO-AddVariableTag.png](VSO-AddVariableTag.png)Figure: Steps to add PrimaryBuild variable to build definition** 
+ **![](VSO-EnsureTSLintRuns.png)Figure: Ensure TSLint actually finds files to scan (if the project includes TSLint files) otherwise it will pass without you noticing
+** **![](VSO-AddVariableTag.png)Figure: Steps to add PrimaryBuild variable to build definition** 
 For the purposes of reporting, a unique tag must be added to the build definition which the Code Health steps have been applied to. 
 This is done with the addition of a variable (Name = PrimaryBuild, Value = true)
 
 
-![VSO-BuildResult-BadV3.png](VSO-BuildResult-BadV3.png)
-
+![](VSO-BuildResult-BadV3.png)
 ::: bad
 Figure: Bad Example - Build broke due to compile errors. Must fix to proceed.
 
 :::
-
-![VSO-BuildResultV3.png](VSO-BuildResultV3.png)
-
+![](VSO-BuildResultV3.png)
 :::
 
 Figure: Bad Example - Successful build with warnings. Should be disabled or set as errors.
 ::: bad
 
-
-
 :::
 
 Figure: Good Example - Successful build with no warnings.
 ::: good
-
-![VSO-BuildResult-GoodV3.png](VSO-BuildResult-GoodV3.png)
+![](VSO-BuildResult-GoodV3.png)

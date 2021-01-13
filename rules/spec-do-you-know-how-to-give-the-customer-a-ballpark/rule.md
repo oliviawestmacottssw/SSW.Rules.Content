@@ -49,9 +49,9 @@ Note: It would be great if TFS (or visualstudio.com) had functionality to add [s
 
 
 Open the [Estimates Calculator](/Documents/4.%20Estimates%20Calculator.xlsx?d=w6f09d6a75d074fbda81e5e5dd3e18c76) and do the following:
-![Resource tab.png](Resource tab.png) **Figure: Set the types and numbers of resources who will be working on the project
+![](Resource tab.png) **Figure: Set the types and numbers of resources who will be working on the project
 
-** ![Estimates tab.png](Estimates tab.png) **Figure: Enter your PBIs and estimates
+** ![](Estimates tab.png) **Figure: Enter your PBIs and estimates
 ** 
 
 

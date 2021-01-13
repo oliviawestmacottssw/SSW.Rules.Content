@@ -41,33 +41,25 @@ The key to writing a concise pull request is to base the pull request itself on 
 
 Example PBI title: Product Backlog Item 100359: "Desktop App | Exporting occasionally failed"
 
-
 ::: greybox
 Pull request title: "Fix exporting"
 
 :::
-
-
 
 ::: bad
 Bad example - Pull request title does not tell what issues have been fixed and how
 
 :::
 
-
-
 ::: greybox
 Pull request title: "Fix desktop app exporting - prevent database concurrent access while exporting"
 
 :::
 
-
-
 ::: good
 Good example - Pull request title briefly describe the fix that it has
 
 :::
-
 
 The important information in the title are:
 
@@ -96,11 +88,11 @@ Pull request body is a medium for the developer to tell the reviewers what the p
 
 ::: bad  
 ![Bad example - Pull request with vague title and no description](better-pr-bad-pr.png)  
-:::  
+:::
 
 ::: good  
 ![Good example - Pull request with a good title and descriptive body](better-pr-good-pr.png)  
-:::  
+:::
  There is also a well-known pull request semantic like [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) on how to write a pull request body, but we can still have a great pull request without using such semantic.
 
 ### 3. Link the pull request to the associated issues / PBIs
@@ -114,7 +106,7 @@ Linking an issue to a pull request can serve as documentation on which developme
 
 ::: ok  
 ![Figure: Linking a pull request to the related issue](better-pr-link-issues.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: A pull request is now associated with the related issue](better-pr-link-issues-linked.png)  

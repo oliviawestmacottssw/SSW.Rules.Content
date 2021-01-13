@@ -15,34 +15,25 @@ redirects:
 ---
 
 ::: greybox
-Using no Outlook add-in
+Using no Outlook add-in  
 :::
-
-
 
 ::: bad
-Bad Example
+Bad Example  
 :::
-
-
 
 ::: greybox
-Colligo , Harmon.ie and Macroview
+Colligo , Harmon.ie and Macroview  
 :::
-
 
 
  **OK Example** 
-
 ::: greybox
-OnePlaceMail
+OnePlaceMail  
 :::
-
-
 
 ::: good
-Good Example
+Good Example  
 :::
-
 
 <!--endintro-->

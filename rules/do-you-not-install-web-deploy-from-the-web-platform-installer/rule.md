@@ -23,7 +23,7 @@ More information on this issue here: [Don't Install Web Deployment Tool using th
 
 ::: bad  
 ![Figure: Bad Example - Installing Web Deploy from the Web Platform Installer does not install all the components required for continuous deployment](web-platform-installer.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Install Web Deploy 3.0 by downloading the package from        http://www.iis.net/downloads/microsoft/web-deploy](web-deploy-installer.jpg)  

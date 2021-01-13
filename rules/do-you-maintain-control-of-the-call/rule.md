@@ -20,15 +20,12 @@ For example, if I'm on the phone trying to sell a training event, and the conver
 
 <!--endintro-->
 
-
 ::: greybox
  **Scott:** I think I've got just what you're after for advanced IT training.
- **Prospect:** Really? That reminds me of a time when this other sales person who was trying to sell me tickets to crackpot training events held in an abandoned warehouse. He was the rudest person I'd ever spoken to and he had this funny accent... Blah Blah.
+ **Prospect:** Really? That reminds me of a time when this other sales person who was trying to sell me tickets to crackpot training events held in an abandoned warehouse. He was the rudest person I'd ever spoken to and he had this funny accent... Blah Blah.  
 :::
 
-
 When this happens, ask a general question that you know they're going to say "Yes" to like this...
-
 
 ::: greybox
  **Question:** So you'd agree that in today's tough market you've got to stay up to date with today's technological advancements? (No self-respecting developer that wants to keep his job would answer no to this question)
@@ -36,6 +33,5 @@ When this happens, ask a general question that you know they're going to say "Y
  **Scott:** Well let me show you how you can keep up to date with technology.
 
 :::
-
 
 See how this tactic forces the prospect to get back on to the topic and think about what you're offering them. So beyond the YES ladder, you should always have a few more questions up your sleeve.

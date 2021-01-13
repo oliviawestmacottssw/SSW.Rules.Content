@@ -19,7 +19,7 @@ When designing your form, you should try to help your user whenever it's possibl
 For Web Pages 
 ::: good  
 ![Figure: Good example – combo-box with multiple columns](combo-box-multiple-col.jpg)  
-:::  
+:::
  Feel free to use our sample:
 1. Download and install Kendo UI Controls from [Kendo UI](http://www.kendoui.com/)
 2. **HTML (Razor)** 
@@ -67,19 +67,19 @@ Use JavaScript to change the combo-box's behaviour.
 
 ::: bad  
 ![Figure: Bad Example - You can't tell the number of results and there is a scroll bar](../../assets/ComboWF-1.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - The number of results is clearly displayed. Long text boxes &gt; 30 entries, another approach can be employed - putting the common ones at the top](../../assets/ComboWF-2.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad Example - Firstly because it is manual, plus what about the 4th, 5th, etc most common used countries](../../assets/Rule38LongTextCombobox.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad Example – This was a highly unpopular method of the sorting and counting above](../../assets/rule38SortableCombobox.jpg)  
-:::  
+:::
 
 We believe all combos should be able to be sorted ascending/descending and by popularity asc/desc.
 

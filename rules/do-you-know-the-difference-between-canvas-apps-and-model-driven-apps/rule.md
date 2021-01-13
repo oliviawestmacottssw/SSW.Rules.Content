@@ -29,7 +29,7 @@ Canvas Apps are just that, a blank canvas (or a template) that controls can be p
 
 ::: ok  
 ![Figure: Canvas App Example](canvas-apps-example.png)  
-:::  
+:::
 
 ### Model-Driven Apps
 
@@ -41,7 +41,7 @@ Model-Driven Apps can also host Canvas Apps, where the majority of the applicati
 
 ::: ok  
 ![Figure: Model-Driven App Example](model-driven-apps-example.png)  
-:::  
+:::
 
 ### OK, I get it, now which do I use?
 

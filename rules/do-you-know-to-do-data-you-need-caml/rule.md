@@ -62,5 +62,5 @@ Figure: Example of CAML query<br>
 <font color="#ff0000">Tips:</font> Use 3rd Party tools - U2U CAML Query Builder<br>    
 ::: good  
 ![Figure: U2U CAML Query Builder](U2U.png)  
-:::  
+:::
 <font color="#ff0000">Note:</font> U2U CAML Builder is the best tool that we have. There are some occasional UI and interface issues, but for creating CAML and testing it against live SharePoint lists it gets the job done. And it’s FREE!

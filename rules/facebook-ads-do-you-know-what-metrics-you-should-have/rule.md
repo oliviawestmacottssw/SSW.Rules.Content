@@ -30,7 +30,7 @@ Facebook allows you to customize your reports, allowing you to measure the succe
 
 ::: ok  
 ![Figure: Post Engagement Report](Enagagement Report.png)  
-:::  
+:::
 
 Other goals for Facebook Ads may be Page Likes, Conversions, and Website Clicks. An overview provides you with a basic report of your campaign, featuring; Results, Amount Spent, Frequency, Page Likes, Website Clicks, Post Shares, Post Comments, Post Engagement, and Post Likes.
 

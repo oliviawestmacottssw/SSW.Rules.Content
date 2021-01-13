@@ -29,18 +29,17 @@ We recommend you define a standard style for your visual elements by changing th
 
 ::: bad  
 ![Figure: Bad example - shapes being used and branding not followed](2019-10-14-Snagit-No-Branding-Example.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - using balloons and arrows instead and brand colours used](2019-10-14-Snagit-Branding-Example.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: SSW theme already includes all tools you need with our branding](2019-10-14-Snagit-Themes.png)  
-:::  
+:::
 
 Instructions to create and use Snagit themes can be found at     [Quick Style Themes Tutorial](https://www.techsmith.com/tutorial-snagit-13-quick-style-themes.html?utm_source=product&utm_medium=snagit&utm_campaign=sw13).
-
 
 ::: greybox
  **Tip #1:** You can automatically have your SSW Snagit presets on sign-in via a script. See https://github.com/SSWConsulting/LoginScript.

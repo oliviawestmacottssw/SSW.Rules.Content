@@ -24,7 +24,7 @@ redirects:
 
 ::: ok  
 ![Figure: Minimize Skype alerts you receive](minimize-skype-distractions.jpg)  
-:::  
+:::
 
 ### Related Rules
 

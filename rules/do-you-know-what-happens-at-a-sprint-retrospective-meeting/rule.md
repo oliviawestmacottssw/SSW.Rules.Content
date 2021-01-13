@@ -49,26 +49,25 @@ For example the Scrum Master can find PBIs (Product Backlog Items) in the Sprint
 
 ::: ok  
 ![Figure: The Scrum Master can inspect the Sprint Backlog for items which are Not Done at the end of a Sprint](retrospective-meeting-1.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: The Scrum Master can inspect the team’s velocity over multiple Sprints](retrospective-meeting-2.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: The Scrum Master can inspect the team’s Sprint Burndown for insight into how work progressed through the Sprint](retrospective-meeting-3.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: The Scrum Master can inspect the team’s Code Coverage to for an insight into code quality](retrospective-meeting-4.jpg)  
-:::  
+:::
 
 Once all issues have been discussed to the satisfaction of The Scrum Team, the meeting concludes.
 
  If the timebox limit is reached, the remaining issues should be recorded and dealt with by the Scrum Master.  Any outstanding issues must be raised at the next Retrospective if they are still relevant.
 
  The time-box for this meeting is usually as many hours as weeks in the Sprint.
-
 
 
 ::: greybox

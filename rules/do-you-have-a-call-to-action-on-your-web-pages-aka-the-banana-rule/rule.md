@@ -26,13 +26,13 @@ How would you get a monkey pay attention to something? You could lure him by tem
 
 ::: ok  
 ![Figure: If the monkey can see the banana, he will do whatever it takes to get it](banana.jpg)  
-:::  
+:::
 
 This is how the "banana rule" should be applied:
 
 ::: bad  
 ![Figure: Bad Example – "Points+Pay"button takes the attention over "Go" which should be the "banana"](BadBananaQantas.png)  
-:::  
+:::
 So, remember most pages need a "banana" to get them to where you want them. "Bananas" are big, simple and stand out from the rest of the page
 ::: good  
 ![Figure: Great Example - Team Viewer also has a good banana](BananaTeamviewer.png)  

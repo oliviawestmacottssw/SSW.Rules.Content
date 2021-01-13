@@ -18,7 +18,7 @@ redirects: []
 ---
 
 The default WIT doesn’t control the valid drop down items in Assigned To filed, this will introduce unnecessary items to be shown in the list which will make your users confused, e.g. TFSBUILD, tfsBuildService should never be used to assign a job.
-![UnnecessaryValue.png](UnnecessaryValue.png)
+![](UnnecessaryValue.png)
 Figure: Bad Example – shown unnecessary values
 <!--endintro-->
  You can add the following XML in the Assigned To filed definition to control the valid values:
@@ -36,5 +36,5 @@ Figure: Bad Example – shown unnecessary values
 
 Figure: Use ALLOWEDVALUES to control the values in Assigned to field
 
-![ShowNecessaryUser.png](ShowNecessaryUser.png)
+![](ShowNecessaryUser.png)
 Figure: Good Example – shown necessary values

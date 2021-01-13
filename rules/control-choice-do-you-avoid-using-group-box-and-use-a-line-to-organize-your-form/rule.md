@@ -17,18 +17,18 @@ Group box should only be used when you want to notify the user the controls with
 
 ::: bad  
 ![Figure: Bad Example - Inappropriate use of 'Group Box', there is nothing to be grouped](../../assets/RulesT8.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Use a line to organize different sections](../../assets/RulesT4.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - VS.NET 2003 Options form, appropriate use of 'Group Box', the radio buttons are related to each other](../../assets/RulesT6.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - VS.NET 2012 Options form, also appropriate use of 'Group Box'](../../assets/vsnet-groupbox.jpg)  
-:::  
+:::
 
 In other cases, you should avoid using group box and replace it with a simple line, this will save you some space on the form and help you organize your form more easily.

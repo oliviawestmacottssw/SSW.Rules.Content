@@ -25,11 +25,11 @@ There are a number of web applications that do a great job on this:
 
 ::: ok  
 ![Figure: The UserVoice website allows user to enter suggestions (used here by SSW Code Auditor)](codeauditoruservoice.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: UserVoice has an Administrator console to track feedback](admin.jpg)  
-:::  
+:::
 
 [UserVoice](https://www.uservoice.com/) is the most popular platform to collect, manage, and prioritize user feedback. It has a voting and tickets system out of the box.
 
@@ -40,11 +40,11 @@ Here are the google results as at 2014
 
 ::: ok  
 ![Figure: Google result of UserVoice](uservoice.jp.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Google result of GetSatisfaction](getsatisfaction.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Google result of UserEcho](googleresultuserecho.jpg)  

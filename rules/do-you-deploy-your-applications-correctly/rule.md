@@ -31,7 +31,7 @@ To prevent issues from arising and having to re-deploy continuously which would 
 Wise has a Dialog that prompts the user for the installation directory: 
 ::: good  
 ![Figure: Wise Prompts the user for the installation directory and sets the path to a property in wise called "INSTALLDIR"](INSTALLDIR.jpg)  
-:::  
+:::
     An embedded script must be used if the pathname is necessary in the application (i.e. like .reg files that set registry keys in registry)
 
 

@@ -20,7 +20,7 @@ Generally, every client should have a dev and a test database, so the dev databa
 
 ::: bad  
 ![Figure: Bad Example - Database with bad names](BadDBName.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Database with standard names](GoodDBName.gif)  

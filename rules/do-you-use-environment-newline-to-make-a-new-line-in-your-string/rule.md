@@ -22,11 +22,9 @@ When you need to create a new line in your string, make sure you use Environment
 
 string strExample = "This is a very long string that is \r\n not properly implementing a new line.";
 
-
 ::: bad
-Bad Example: The string has implemented a manual carriage return line feed pair (\r\n)
+Bad Example: The string has implemented a manual carriage return line feed pair (\r\n)  
 :::
-
 
 
 
@@ -35,17 +33,14 @@ string strExample = "This is a very long string that is " + Environment.NewLine 
 
 
 
-
 ::: good
 OK Example: The new line is created with Enviroment.NewLine (but strings are immutable)
 
 :::
 
-
 var example = new StringBuilder();
  example.AppendLine("This is a very long string that is ");
  example.Append(" properly implementing a new line.");
-
 
 
 

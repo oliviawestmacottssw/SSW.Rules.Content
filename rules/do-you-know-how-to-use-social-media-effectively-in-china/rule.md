@@ -24,7 +24,7 @@ China is different. There are different rules, platforms and of course, they hav
 <!--endintro-->
 
 China has a huge amount of social media users, there are over 911 million active users - which is huge! In comparison, the U.S.A only have 207 million users, a small fraction compared to China. It is a huge opportunity for market growth, particularly for app owners who would like to expand their product to millions of users.
-![DigitalInChina-1024x576.png](DigitalInChina-1024x576.png)
+![](DigitalInChina-1024x576.png)
 **Figure: According to Social Media experts Hootsuite, there are 911 million active social media users (yellow), 65% of the overall population (red).**
 
 
@@ -38,7 +38,7 @@ Do you know the best platforms to use in China? Here is a list of our top 5.
 ### 1. WeChat (The Chinese Super App)
 
 WeChat started as an instant messaging app similar to WhatsApp but has morphed into a ‘super app’ that now allows you to do just about anything! Users can perform a wide variety of activities such as making transactions, ordering food, booking movie tickets, calling a taxi, even playing games. It now has more than 1 billion active users.
-![We chat.png](We chat.png)
+![](We chat.png)
  **Figure: Taken from Statistica.com - the Graph shows how much WeChat is growing every year. WeChat is now one of the most popular, well rounded apps available in China, growing in popularity every year.** 
 Why you should consider using it:
 
@@ -86,7 +86,7 @@ Why you should consider using it:
 
 
 
-![Youku.png](Youku.png)
+![](Youku.png)
  **Figure: Youku would have a very familiar feel for our Western audience as seen from this video feed.** 
 
 
@@ -107,7 +107,7 @@ Why you should use it:
 
 
 \*The Cost per click is lower but be warned - Baidu does have some strict payment terms, requiring an initial deposit of at least RMB 20,000 (USD $2,952) if you are a foreign company. But the overall cost of your campaign should be comparatively lower.)
-![Baidu.png](Baidu.png)
+![](Baidu.png)
 **Figure: A search for 'SSW' using Baidu, we are organically No 1 on this page.**
 
 ### 5. Bilibili (Up & coming alternate to Youku)
@@ -118,7 +118,7 @@ We all know that the best marketers are using video to sell their products and d
 What started as a China's largest Anime streaming platform, it has grown to be one of the most popular video sharing platforms for China’s Millennials and Generation Z with over 100 million monthly active users, where users can view, submit, and add commentary to videos.
 
 Bilibili also recently launched a premium membership enabling access to special shows, e-commerce deals, and HQ video streaming. If you want to increase your long-term success in China, it is important to penetrate Gen-Z consumers who have an expanding purchasing power. Bilibili, uses mini programs (multi-page application containing a complete application feature), livestreaming, and e-commerce to benefit brands looking to market to younger consumers.
-![bilibili_user-growth.png](bilibili_user-growth.png)
+![](bilibili_user-growth.png)
 According to Bilibili's annual report to investors, their top 5 most watched video categories are:
  **Figure: Bilibili is continuously growing it's audience becoming a great place to host videos and advertise.
 **
@@ -128,7 +128,7 @@ According to Bilibili's annual report to investors, their top 5 most watched vid
 4. Anime
 5. Technology
 
-![FireUg-Bilbili.png](FireUg-Bilbili.png) **Figure: A recent recording from FireUG, “Intermediaries design patterns and MediatR” by Victor Yu, SSW China: https://www.bilibili.com/video/BV1tK411P7He?p=2**
+![](FireUg-Bilbili.png) **Figure: A recent recording from FireUG, “Intermediaries design patterns and MediatR” by Victor Yu, SSW China: https://www.bilibili.com/video/BV1tK411P7He?p=2**
 
 <font color="#333333">Why you should use it:</font>
 * Young, active audience with a keen interest in technology

@@ -35,7 +35,7 @@ You can install the IIS [URL Rewrite Module](http://learn.iis.net/page.aspx/460/
 
 ::: ok  
 ![Figure: Rewrite both the HTML in the page and the incoming URL's to be friendly](friendly-url-rule.jpg)  
-:::  
+:::
 
 The caveat here is that it will only work if the URL is in the clear on the page.
 

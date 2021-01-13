@@ -28,11 +28,11 @@ It’s very easy to log in and send one out from your own Office 365 account, bu
 
 ::: ok  
 ![Figure: Click “+” to make a new tab](forms-teams-1.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Select “Forms”](forms-teams-2.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Name your form, and then continue as usual to create and share it](forms-teams-3.jpg)  

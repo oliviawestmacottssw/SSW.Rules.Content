@@ -39,11 +39,11 @@ Examples of Progressive Web Apps can be seen at [**https://mofluid.com/blog/10-b
 
 ::: bad  
 ![Figure: Bad Example - aliexpress get a mark of 6/12 (see tooltip) and cannot be used as a PWA](pwa-bad-example.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Accessing a PWA on your mobile will prompt adding it on your Home screen. E.g. https://blog.mikemjharris.com](pwa-example.png)  
-:::  
+:::
 
 You can check the Progressive Web App score of your application using Chrome's Developer tools.
 

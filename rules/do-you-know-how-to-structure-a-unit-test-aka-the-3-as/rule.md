@@ -51,7 +51,6 @@ public void TestRegisterPost\_ValidUser\_ReturnsRedirect()
    Assert.AreEqual("Index", redirectResult.RouteValues["action"]);
 }
 
-
 ::: good
 Figure: A good structure for a unit test
 

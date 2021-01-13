@@ -28,7 +28,7 @@ Specifically, you now have the option of querying the locally configured DNS ser
 
 ::: ok  
 ![Figure: Lync Auto-Discovery Mobility DNS record](lync-auto-discovery.jpg)  
-:::  
+:::
 
 ### Lync Monitoring Reports
 
@@ -40,6 +40,6 @@ Tools such as VisualRoute 2010 will assist in highlight problems related latency
 
 ::: ok  
 ![Figure: VisualRoute 2010 tool showing a test to a Google DNS server](visualroute-tool.jpg)  
-:::  
+:::
 
 Read more about implementing [Microsoft Lync](http://www.ssw.com.au/ssw/Consulting/Lync.aspx).

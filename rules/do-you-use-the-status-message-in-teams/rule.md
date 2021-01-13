@@ -27,7 +27,7 @@ It tells people 3 things:
 
 ::: ok  
 ![Figure: When people chat with you, they can see what you’re up to](teams-status-message.jpg)  
-:::  
+:::
 
 ### More information
 
@@ -40,7 +40,7 @@ To update the status message, follow these steps:
 
 ::: ok  
 ![Figure: Edit the Teams status message each day](edit-teams-status.jpg)  
-:::  
+:::
 
 The status message is helpful when it contains:
 
@@ -57,7 +57,7 @@ The status message is helpful when it contains:
 
 ::: ok  
 ![Figure: Edit the status message](edit-teams-status-2.jpg)  
-:::  
+:::
 
 ### Related rule
 

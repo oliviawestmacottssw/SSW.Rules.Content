@@ -31,11 +31,11 @@ It will return all the knowledge base articles in a paged format. The link scann
 
 ::: ok  
 ![Figure: In Google webmaster tools you can see all broken URLs, and even the pages who are linking to them (known as referrer, found in the 'Linked From' column)](GoogleWebMaster.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: In Bing webmaster centre you can find the broken URL which is linked by the above URL](BingWebMaster.jpg)  
-:::  
+:::
 
 We have a program called [SSW Link Auditor](https://sswlinkauditor.com/) to check for this rule.
 

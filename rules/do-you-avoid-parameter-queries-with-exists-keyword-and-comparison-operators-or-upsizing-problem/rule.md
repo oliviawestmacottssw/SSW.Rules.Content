@@ -40,11 +40,9 @@ WHERE EXISTS (SELECT EmployeeID
 ```
 
 
-
 ::: bad
-Figure: Bad example of Access query with EXISTS keyword and comparison operator
+Figure: Bad example of Access query with EXISTS keyword and comparison operator  
 :::
-
 
 
 ```
@@ -60,9 +58,7 @@ SELECT Orders.OrderID
 ```
 
 
-
 ::: good
-Figure: Good example of Access query with EXISTS keyword and without comparison operator
+Figure: Good example of Access query with EXISTS keyword and without comparison operator  
 :::
-
 In order to get the good example syntax you must switch from Design View window to SQL View in query designer window and save query definition.

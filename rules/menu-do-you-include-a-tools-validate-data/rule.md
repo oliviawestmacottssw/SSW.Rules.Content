@@ -24,7 +24,7 @@ So when you add business rules to the middle tier, consider scenarios such as im
 
 ::: good  
 ![Figure: Good Example - This application, while not the prettiest, has a handy validation tool to check for incorrect data](../../assets/TimeProValidateData.png)  
-:::  
+:::
 
 # Related Links
 

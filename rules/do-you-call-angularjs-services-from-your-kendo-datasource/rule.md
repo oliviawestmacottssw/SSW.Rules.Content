@@ -34,12 +34,10 @@ read: { <br>    url: "../content/dataviz/js/spain-electricity.json", <br>    dat
 ```
 
 
-
 ::: bad
 Bad Example - This hard codes your url endpoint throughout your application 
 
 :::
-
 
 This is example is in TypeScript and you can see the Kendo data source is calling the getFundAssetPositionChartData function and passing it a promise which when resolved will return the data. This function calls an AngularJS service which then calls the API endpoint. You can also see in the getFundAssetPositionChartData function the ‘this.isLoading = true’ code which is turning the pages spinner feature on and off when the call is resolved, to let the user know it is processing.
 
@@ -51,7 +49,6 @@ This is example is in TypeScript and you can see the Kendo data source is callin
 
 
 
-
 ::: good
-Good Example - This code passes a promise to a function which calls an AngularJS service to call the API endpoint.
+Good Example - This code passes a promise to a function which calls an AngularJS service to call the API endpoint.  
 :::

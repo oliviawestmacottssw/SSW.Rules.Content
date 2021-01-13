@@ -60,7 +60,7 @@ The case against Azure Function instead of regular Dynamics Plugins:
 
 ::: ok  
 ![Figure: Dynamics Workflow Editor](dynamics-workflow-editor.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Flow Editor](flow-editor.png)  

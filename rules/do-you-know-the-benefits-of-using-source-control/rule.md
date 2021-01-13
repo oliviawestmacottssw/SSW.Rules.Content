@@ -19,13 +19,10 @@ Source control is the backup of your code, as well as your change history to tra
 ![](HistoryWindow.jpg)**Figure: View the changes in source control on each individual file** ![](HistoryCompareMenu.jpg)**Figure: We can select different changesets and compare the changes** ![](Compare.jpg)**Figure: We can select different changesets and compare the changes. Blue = modified, Green = addition, Red = deletion <br>   
 ** ![](AnnotateMenu.jpg)**Figure: Right click file and select Annotate to view the history on a segment basis** ![](Annotate.jpg)**Figure: Use annotate to understand (or find the guy) to understand his thoughts before deleting/changing someone elses code** ![](AnnotationAndComment.jpg)**Figure: Annotation is great, but it gets even better when one click gives you the 'check in comment' and the 'work item'** 
 
-
 ::: greybox
 Don't just fix the problem, see who caused the problem and correct them.
 **- Adam Cogan** 
 :::
-
-
 
 
 ::: greybox

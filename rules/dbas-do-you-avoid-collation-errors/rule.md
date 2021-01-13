@@ -16,11 +16,9 @@ redirects:
 
 You don't want this error:
 
-
 ::: greybox
-"120\_ClientInvoice\_ClientIDRequired.sql...Column 'dbo.Client.ClientID' is not of same collation as referencing column 'ClientInvoice.ClientID' in foreig..."
+"120\_ClientInvoice\_ClientIDRequired.sql...Column 'dbo.Client.ClientID' is not of same collation as referencing column 'ClientInvoice.ClientID' in foreig..."  
 :::
-
 When you write a stored proc - it must work regardless of the users collation. When you are joining to a temp table - meaning you are joining 2 different databases (eg. Northwind and TempDB) they won't always have the same collation.
 
 

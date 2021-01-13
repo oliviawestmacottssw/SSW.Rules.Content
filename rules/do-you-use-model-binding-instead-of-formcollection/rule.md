@@ -18,7 +18,6 @@ Model binding in the ASP.NET MVC framework is simple. Your action methods need d
 <!--endintro-->
 
 
-
 :::
 
 
@@ -35,9 +34,7 @@ public ActionResult Create(FormCollection values)
 ```
 
 
-::: greybox
-Figure: Bad Example – Manually reading form values and assigning them to properties is tedious boiler-plate code!
-
+::: greyboxFigure: Bad Example – Manually reading form values and assigning them to properties is tedious boiler-plate code!
 
 :::
 
@@ -53,5 +50,4 @@ public ActionResult Create(Recipe newRecipe)
 ```
 
 
-::: greybox
-Figure: Good Example – Using MVC’s model binding allows you to work with an automatically-populated object instead
+::: greyboxFigure: Good Example – Using MVC’s model binding allows you to work with an automatically-populated object instead

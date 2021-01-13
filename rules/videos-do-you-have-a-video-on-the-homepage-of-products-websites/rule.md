@@ -21,7 +21,7 @@ Videos are also important for services, but for products, it should be **on the 
 
 ::: good  
 ![Good Example - Dropbox homepage has no text but a video that shows nicely how it works](dropbox-homepage.jpg)  
-:::  
+:::
 
 ### Videos are also good for SEO
 

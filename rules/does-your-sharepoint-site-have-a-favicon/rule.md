@@ -24,7 +24,6 @@ A Favicon is a small image file included on nearly all professional developed si
 
 Let's see how it's done for SharePoint:
 
-
 ::: greybox
 
 &lt;head runat="server"&gt;        
@@ -36,5 +35,4 @@ Let's see how it's done for SharePoint:
  &lt;/head&gt;
 
 :::
-
  **Figure: One line of HTML lets you add your company's icon to  your web page**

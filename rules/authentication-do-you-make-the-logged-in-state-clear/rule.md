@@ -17,25 +17,24 @@ Remember to make the "logged in" state clear enough to help the user know the cu
 
 ::: bad  
 ![Figure: Bad Example on Web form - The user is logged in, but it isn't very clear](../../assets/weblogin\_bad.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example on Web form - It's clear that the user is logged in](../../assets/weblogin\_good.gif)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad Example on Win form - The user is logged in, but it isn't very clear](../../assets/winlogin\_bad.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example on Win form - It's clear that the user is logged in](../../assets/BetterInterface\_sqlAuditorLogin.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example on Web form - Logged off state](../../assets/weblogoff.gif)  
-:::  
-![MetroLoggedIn.jpg](MetroLoggedIn.jpg)
-
+:::
+![](MetroLoggedIn.jpg)
 ::: good
 Figure: Good Example – Metro UI’s new logged in state     
 

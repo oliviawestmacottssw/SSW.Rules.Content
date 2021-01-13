@@ -21,7 +21,7 @@ To book a developer:
 
 ::: ok  
 ![Figure: Using the Service Calendar, you can see who is and is not available at a given time](ServiceCalendar2013.jpg)  
-:::  
+:::
 
 There are a few different ways of booking developers for project work, either via Outlook or the browser.
 
@@ -44,7 +44,7 @@ This is generally the easiest way for developers to book themselves in as they d
 
 ::: ok  
 ![Figure: A complete appointment booking Brendan to work for SSW for 5 daysOption 2: CRM Activity Appointments](Dynamics1.jpg)  
-:::  
+:::
 
 This is a backup option for anyone who doesn't have access to Outlook with the CRM add-in.
 
@@ -53,7 +53,7 @@ This is a backup option for anyone who doesn't have access to Outlook with the C
 
 ::: ok  
 ![Figure: Click Appointment to create a new appointment in CRM](Dynamics-Calendar-App.jpg)  
-:::  
+:::
 
 1. Set the Subject
 2. Select the resources that you want to book
@@ -67,7 +67,7 @@ Tip: If you do not want the to block your calendar, you can change the orgainzer
 
 ::: ok  
 ![Figure: A complete CRM Appointment for a 1-day booking](Dynamics-Appointment.jpg)  
-:::  
+:::
 
 ### Adding Tentative Bookings
 
@@ -93,7 +93,7 @@ To book someone for internal work:
 2. Instead of choosing a client account for "Set Regarding", choose your own company (E.g. "SSW").
 
 
-![2020-03-20_10-49-19.png](2020-03-20_10-49-19.png)
+![](2020-03-20_10-49-19.png)
  **Figure: Internally Booked days show as black and Pencilled In days show as grey** 
 
 
@@ -108,7 +108,7 @@ If you have a lot of staff, it can be useful to use a separate calendar to make 
 Unfortunately, you cannot use a sub-folder to track appointments in Outlook. You need to create a whole new email account and then add it to your Outlook folder.
 
 For example at SSW we use the account crmtimeprosync@ssw.com.au to add appointments to our Service Calendar, and add them through the SSWBookings calendar in Outlook:
-![Appointments tracked from Outlook desktop.png](Appointments tracked from Outlook desktop.png)
+![](Appointments tracked from Outlook desktop.png)
 
  **Figure: Appointments tracked from with Outlook desktop** 
 **How to set it up**
@@ -117,7 +117,7 @@ Open browser’s incognito mode | go to https://outlook.office.com | logon with 
  
  **For Outlook Desktop** 
      Go to Files | Add an account | Restart Outlook once it completes 
-![Add account.jpg](Add account.jpg)
+![](Add account.jpg)
 **Figure: Add crmtimeprosync@ssw.com.au to your Outlook** 
 
  **

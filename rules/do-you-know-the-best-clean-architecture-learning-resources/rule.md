@@ -43,7 +43,7 @@ This book by Robert C. Martin (aka ‘Uncle Bob’) should be anyone’s startin
 
 ::: ok  
 ![Figure: Clean Architecture: A Craftsman's Guide to Software Structure and Design](clean-architecture-book-1.jpg)  
-:::  
+:::
 
 This resource by Steve Smith is available as an online e-book and contains up-to-date specific examples for ASP.NET Core and Azure.
 

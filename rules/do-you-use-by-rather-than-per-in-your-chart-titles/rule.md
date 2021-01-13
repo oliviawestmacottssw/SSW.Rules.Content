@@ -24,7 +24,7 @@ Power BI shows "XXX by YYY" (e.g. total earnings by month) rather than "XXX per 
 
 ::: bad  
 ![Figure: Bad example - Using "per"](by-per-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Using "by"](by-per-good.jpg)  

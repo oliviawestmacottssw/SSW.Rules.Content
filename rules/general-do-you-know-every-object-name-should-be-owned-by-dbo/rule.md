@@ -41,12 +41,10 @@ ON Orders.OrderID = "vwOrderSubTotals".OrderID
 
 WHERE Orders.ShippedDate Between @Beginning\_Date And @Ending\_Date
 
-
 ::: bad
 Figure: Bad Example
 
 :::
-
 
 CREATE PROCEDURE [dbo].[Sales by Year]
 
@@ -69,7 +67,6 @@ CREATE PROCEDURE [dbo].[Sales by Year]
  ON Orders.OrderID = "vwOrderSubTotals".OrderID
 
  WHERE Orders.ShippedDate Between @Beginning\_Date And @Ending\_Date
-
 
 ::: good
 Figure: Good Example

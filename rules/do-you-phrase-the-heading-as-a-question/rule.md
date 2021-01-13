@@ -16,30 +16,23 @@ redirects: []
 
 <!--endintro-->
 
-
 ::: greybox
 Phrase the heading as a question. 
 
 :::
 
 
-
-
 ::: bad
 Bad example – the heading isn’t a question.
 
 :::
-
  
-
 ::: greybox
 Do you consider phrasing the heading as a question?
 
 :::
 
 
-
-
 ::: good
-Good example – the heading is phrased as a question.
+Good example – the heading is phrased as a question.  
 :::

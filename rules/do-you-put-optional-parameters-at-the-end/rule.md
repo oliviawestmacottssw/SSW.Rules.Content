@@ -26,11 +26,9 @@ string firstName,
 string lastName, 
 [Optional] DateTime? birthDate)
 
-
 ::: bad
-Figure: Bad Example - Username and Password are optional and first - they are less important than firstName and lastName and should be put at the end
+Figure: Bad Example - Username and Password are optional and first - they are less important than firstName and lastName and should be put at the end  
 :::
-
 
 
 
@@ -41,11 +39,9 @@ string lastName,
 [Optional] string password,
 [Optional] DateTime? birthDate)
 
-
 ::: good
-Figure: Good Example - All the optional parameters are the end
+Figure: Good Example - All the optional parameters are the end  
 :::
-
 
 
 

@@ -18,7 +18,7 @@ Video thumbnails should entice a visitor to watch the video. We find that images
 
 ::: bad  
 ![Figure: Bad example – Text is obstructed by the play button](video-thumb-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example – This image lets a visitor know that the video is an interview](video-thumb-good.jpg)  

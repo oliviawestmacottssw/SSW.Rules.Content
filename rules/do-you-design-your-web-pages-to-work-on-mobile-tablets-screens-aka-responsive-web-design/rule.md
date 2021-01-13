@@ -26,7 +26,7 @@ Your website should work nicely on screens that vary from a mobile/tablet to a l
 
 ::: good  
 ![Figure: Good example - A modern website adapts to different screens](Responsive-Design.jpg)  
-:::  
+:::
 
 Google has a web tool to  [test how mobile-friendly your site is.](https://testmysite.thinkwithgoogle.com/)
 

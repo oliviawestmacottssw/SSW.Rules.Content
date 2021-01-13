@@ -44,21 +44,21 @@ GraphQL differs from REST in that REST is concerned with  **resources** and Grap
 
 ::: bad  
 ![Figure: Bad Example – REST API does not return order information with a customer query, so a second API call is needed](graphql-bad-example-underfetching.png)  
-:::  
+:::
 
 * **No need for over-fetching:** Continuing the above example, you may decide a workaround is to return details of all orders with all customer queries. However, this overwhelms your client with data it doesn’t need most of the time, just to solve a problem in one scenario. This is called over-fetching (and is the specific problem Facebook set out to resolve with GraphQL).
 
 
 ::: bad  
 ![Figure: Bad Example – REST API returns a whole bunch of data the client doesn’t need – killing bandwidth (and, on mobile, battery)](graph-ql-bad-overfetching.png)  
-:::  
+:::
 
 * **Client Defined Queries:** In a REST API, the CRUD operations are defined by the API, and the client application is constrained by the operations available. This means that any changes required by your UI necessitate changes to your back end as well. With GraphQL you can change your client queries to meet changing UI needs without needing to update your back end.
 
 
 ::: good  
 ![Figure: Good Example – Clients can write queries and specify which fields they want the query to return](graphql-good-example-shaped-query.png)  
-:::  
+:::
 
 ###  Disadvantages of GraphQL
 Sounds great, right? Well, there are some limitations to be aware of before you rush to add it to all your solutions.
@@ -70,7 +70,7 @@ Sounds great, right? Well, there are some limitations to be aware of before you 
 
 ::: bad  
 ![Figure: Bad Example – Image encoded as Base64 string uses more bandwidth and processing power than necessary, resulting in poor UX](graphql-image-base64.png)  
-:::  
+:::
 
 ### When to use GraphQL
  GraphQL is useful when your client needs to display information from multiple sources in one UI as it can service complex queries in your client applications without multiple round-trips to the server. However, this can also be achieved with REST - you can build carefully crafted view models that explicitly meet the needs of the views in your UI.
@@ -100,7 +100,7 @@ Some example use cases might include:
 GraphQL is not a replacement for REST; in fact, it’s often best to use them together. While GraphQL supports changing state on the server through migrations, the true power of GraphQL is in queries. Many create, update, and delete operations are relatively unchanging and can benefit from being maintained as REST resources – think sign-up forms for example. REST is also better for transferring rich content, like images and videos.<br>
 ::: good  
 ![Good Example – GraphQL used to construct a complex query with embedded entities, and images are referenced with a URI that the client can use to retrieve from a REST endpointAdam Cogan's blog post introducting SSW People explains how GraphQL can be combined with other technologies to get the best results.Figure: Good Example - use GraphQL to complement the rest of your tech stackFigure: Good Example - GraphQL query in the SSW People static web app](good-example-image-url.png)  
-:::  
+:::
 
 ### The best GraphQL Resources
 

@@ -25,7 +25,7 @@ The Visitors activity gives you a birds-eye view of all the visitors on your web
 
 ::: ok  
 ![](zendesk-visitors-1.png)  
-:::  
+:::
 
 * **Incoming Chats:** Visitors who have clicked the chat button and asked a question.
 * **Chat Button Clicked:** Visitors who have clicked the chat button but have yet to start a chat.
@@ -42,7 +42,7 @@ This is the primary view of the Visitor List, but you can also monitor them in a
 
 ::: ok  
 ![](zendesk-visitors-2.png)  
-:::  
+:::
 
 * **Activity:** This is the default page and breaks down visitors based on the actions they have taken on your website.
 * **Page Title:** Groups visitors based on the page they are on.

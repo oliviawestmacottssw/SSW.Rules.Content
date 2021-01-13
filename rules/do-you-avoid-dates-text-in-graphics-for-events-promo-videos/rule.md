@@ -20,10 +20,10 @@ To maximize reusability and minimize costs, it’s best to avoid including dates
 
 ::: bad  
 ![Figure: Bad example - dates shown as text in graphics (creates extra work to change every time)](events-dates-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - no dates shown as text in graphics (can be re-used without editing)](events-dates-good.png)  
-:::  
+:::
 
 If there is some particular value/purpose in including dates there may be exceptions to this rule.

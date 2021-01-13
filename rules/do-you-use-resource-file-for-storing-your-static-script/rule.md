@@ -50,7 +50,7 @@ string scriptTemplate = Resources.Scripts.DeleteJavascript;<br>     string scrip
 
 ::: ok  
 ![Figure: Add a recourse file into your project in VS2005](CreateResource\_small.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Read value from the new added resource file](ReadResource\_small.jpg)  

@@ -39,8 +39,8 @@ redirects: []
 <font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"> <strong><div class="ms-rtestate-read ms-rte-wpbox"><div id="div_f2ab1bb8-28cc-4914-b859-52688d9f51f9" class="ms-rtestate-notify  ms-rtestate-read f2ab1bb8-28cc-4914-b859-52688d9f51f9"></div>
 <div id="vid_f2ab1bb8-28cc-4914-b859-52688d9f51f9" style="display:none;"></div></div></strong> </font></font></font></font></font></font><font color="#333333"><font face="Verdana"><font size="2"><font color="#333333"><font face="Verdana"><font size="2"> <strong>视频: 微软的每日Scrum会议(长)</strong> </font></font></font></font></font></font>
 <font color="#333333" style="line-height:18px;"><font face="Verdana"><font size="2"><div> <strong></strong> </div>
-<br><br>::: greybox<br><div style="padding:10px 0px;line-height:20px;margin-top:0px;font-family:verdana, arial, sans-serif;margin-bottom:0px;"><span style="line-height:18px;"> <strong>牢记：</strong> <div style="padding:10px 0px;line-height:20px;margin-top:0px;margin-bottom:0px;">      “只要能遵循Scrum价值，改变Scrum是可以的，实际上为了成功，这也是有必要的。”</div>
-<div style="padding:10px 0px;line-height:20px;margin-top:0px;margin-bottom:0px;">-Stephen Forte</div></span></div><br>:::<br><br>
+<br>::: greybox<br><div style="padding:10px 0px;line-height:20px;margin-top:0px;font-family:verdana, arial, sans-serif;margin-bottom:0px;"><span style="line-height:18px;"> <strong>牢记：</strong> <div style="padding:10px 0px;line-height:20px;margin-top:0px;margin-bottom:0px;">      “只要能遵循Scrum价值，改变Scrum是可以的，实际上为了成功，这也是有必要的。”</div>
+<div style="padding:10px 0px;line-height:20px;margin-top:0px;margin-bottom:0px;">-Stephen Forte</div></span></div>  <br>:::<br>
 <p> <strong></strong> </p>
 <p> <strong>以下这些建议有助于提高每日Scrum会议质量:</strong> </p>
 <p class="ssw-rteStyle-Tip">建议 1：在会议结束时，Scrum Master回顾当前迭代的进度</p>
@@ -48,7 +48,6 @@ redirects: []
 <font color="#333333"><font face="Verdana"><font size="2"><img class="ssw-rteStyle-ImageArea" alt="burndowntfspreview.png" src="burndowntfspreview.png" style="width:601px;height:467px;"></font></font></font><font color="#333333"><font face="Verdana"><font size="2"> <br></font></font></font>图：TFS 预览版(TFS 2012)自动生成燃尽图
 
 建议 2：在墙上贴一张每日Scrum会议的日程表(+ 在OutLook中设置一个预约)
-
 
 ::: greybox
 
@@ -60,7 +59,6 @@ redirects: []
 <div>谢谢,</div>
  <strong>&lt;Scrum Master&gt;</strong> </font> 
 :::
-
 
 示例：在Outlook中设置每日Scrum会议预约模板
 
@@ -86,7 +84,7 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 
 <font size="2" face="宋体">人们可以通过</font>任务板<font face="宋体">看到</font>当前正在讨论的问题。
 
-![tfspreviewtaskboard.png](tfspreviewtaskboard.png)  
+![](tfspreviewtaskboard.png)  
 **图：TFS **       **Preview** **中的任务板**        **(TFS 2012)**
 
 **
@@ -137,5 +135,5 @@ SSW 规则 [Do you update your tasks before the daily stand-up meeting?](/meetin
 ![](NewStandUpImage.jpg)
 
 图：如果有重大事故发生，每日Scrum会议可以提醒每个人并且集中所有的资源到一个问题上。如果一把尖刀插进了你的眼睛，而你却给擦伤的膝盖贴创可贴是没有任何意义的。
-![dailyscrumtweet.png](dailyscrumtweet.png)
+![](dailyscrumtweet.png)
 图：喜欢请转发  [https://twitter.com/#!/AdamCogan/status/168175594209681408](https://twitter.com/#%21/AdamCogan/status/168175594209681408) **

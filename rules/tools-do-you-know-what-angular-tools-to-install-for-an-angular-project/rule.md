@@ -86,7 +86,7 @@ Instructions for upgrading the Angular CLI of an existing project can be found h
 
 ::: ok  
 ![Figure: Running “ng v” (or any other ng command) in the command-line of an older Angular CLI project will give you a warning that the global version is greater than the local version (see yellow text in the screenshot)](angular-cli-8.3.2x.png)  
-:::  
+:::
 
 ### Getting errors?
 

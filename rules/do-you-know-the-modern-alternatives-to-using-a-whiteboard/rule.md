@@ -24,15 +24,15 @@ Software consultants often use architecture diagrams to present a solution to th
 
 ::: bad  
 ![Figure: Bad example - When working with people online, drawing on some paper, taking a photo, and emailing it… is the \*least\* collaborative way to work](hand-drawing.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: OK example - Teams Whiteboard is a good collaborating tool while working online. (Using a mouse is not pleasant, and a computer pen is not really natural for complex diagrams 🔥)](team\_whiteboard.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - An architecture diagram exists on established projects after many discussions](architecture\_diagram.png)  
-:::  
+:::
 
 <!--endintro-->
 
@@ -56,22 +56,22 @@ Using your laptop or Ipad and then sharing your screen in a remote meeting and i
 
 ::: ok  
 ![Figure: Pens/Styluses help to draw better sketches](surface-pen.jpg)  
-:::  
+:::
 
 
 ::: ok  
 ![`youtube: https://www.youtube.com/embed/qDqtWRu0rTA`            Figure: Using Whiteboard in Microsoft Teams](samsung\_flip.jpg)  
-:::  
+:::
 
 ::: ok  
 ![`youtube: https://www.youtube.com/embed/JsaqPiqBxPY`            Figure: Using Microsoft Whiteboard App](samsung\_flip.jpg)  
-:::  
+:::
  #2 Tech Whiteboard replacement
 * **Samsung Flip** ($3k AUD)
 
 ::: ok  
 ![`youtube: https://www.youtube.com/embed/lZgVAbdwYNI`<br>                 Figure: Using Samsung Flip](samsung\_flip.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Samsung Flip can be flipped from horizontal to vertical](samsung\_flip.jpg)  
@@ -92,7 +92,7 @@ Bear in mind that paper is not ideal because you can’t wipe it out... you have
 
 ::: ok  
 ![Figure: Paper whiteboards don't work when someone is in Sydney and the other attendee is in Melbourne](paperboard.jpg)  
-:::  
+:::
 
 
 
@@ -110,7 +110,7 @@ The common scenario is for a spec review. I am always happy when I see devs usin
 
 ::: ok  
 ![Figure: Whiteboards are not a sign of a modern office.](whiteboard\_marker.png)  
-:::  
+:::
 
 ### #5 Writable wall -  Low tech (ugly)
 

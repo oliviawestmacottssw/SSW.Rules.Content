@@ -32,11 +32,9 @@ void Load(string environment)
   }
 }
 
-
 ::: bad
-Figure: Bad example with If statement
+Figure: Bad example with If statement  
 :::
-
 
 Consider later that extra environments may be added: e.g. "Staging"
 
@@ -59,7 +57,6 @@ void Load(string environment)
     throw new InvalidArgumentException(environment); 
   }
 }
-
 
 ::: good
 Figure: Good example with If statement

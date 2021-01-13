@@ -30,14 +30,11 @@ Aaron Bertrand agrees with this rule - [My stored procedure "best practices" ch
 
 CREATE PROCEDURE procCustomer\_Update @CustomerID INT, ….. BEGIN
 
-
 ::: bad
-Figure: Bad example
+Figure: Bad example  
 :::
 
-
 CREATE PROCEDURE dbo.procCustomer\_Update @CustomerID INT, ….. BEGIN
-
 
 ::: good
 Figure: Good example

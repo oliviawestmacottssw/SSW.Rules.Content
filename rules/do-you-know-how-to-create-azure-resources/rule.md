@@ -40,7 +40,7 @@ This is the most common and the worst. This is bad because it requires manual ef
 
 ::: bad  
 ![Figure: Bad Example – creating resources manually](azure resources.gif)  
-:::  
+:::
 
 ### Manually creating and saving the script
 
@@ -51,30 +51,28 @@ Some people half solve the problem by manually creating and saving the script. T
 
 ::: bad  
 ![Figure: Bad Example – Exporting your Resource Group as an ARM template defined in JSON](create-azure-bad2.png)  
-:::  
+:::
 
 
 
 ::: bad  
 ![Figure: Warning - often templates don't work and need to be manually tweaked](create-azure-bad3.png)  
-:::  
+:::
 
 * **Warning:** The templates are crazy verbose
 
 
 
 
-
 ::: greybox
- **Tip:** Save scripts in a folder called Azure
+ **Tip:** Save scripts in a folder called Azure  
 :::
-
 
 
 
 ::: good  
 ![Figure: Good example - However you generate your ARM template, save it in an Azure folder like this example (SSW TimePro)](azure folder1.png)  
-:::  
+:::
 
 
 
@@ -125,7 +123,7 @@ https://github.com/Azure/bicep
 
 ::: good  
 ![Figure: Good Example – using Farmer to define your ARM template in F# code](goldie rules.png)  
-:::  
+:::
 
 ### Option E: Pulumi (Recommended)
 
@@ -140,8 +138,7 @@ https://github.com/Azure/bicep
 
 ::: ok  
 ![](pulumi3.png)  
-:::  
-
+:::
 
 ::: good
 Figure: Good Example - Code from the Pulumi Azure NextGen provider demo with Azure resources defined in C#
@@ -150,17 +147,14 @@ Figure: Good Example - Code from the Pulumi Azure NextGen provider demo with Azu
 
 
 
-
 ::: ok  
 ![](pulumi2.png)  
-:::  
-
+:::
 
 ::: good
 Figure: Good Example - From the console simply run 'pulumi up' to deploy your resources to Azure
 
 :::
-
 
 
 
@@ -170,7 +164,7 @@ It’s early days so     [not much help (from Google trends)](https://trends.goo
 
 ::: ok  
 ![Figure: Google Trends shows that Terraform is the most searched for as it’s been around the longest and is well established](google trends.png)  
-:::  
+:::
 
 ### General Tips
 

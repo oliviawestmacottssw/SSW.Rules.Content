@@ -21,11 +21,9 @@ Dim adoApp As Object
 adoApp = CreateObject("ADODB.Connection")
 End Sub
 
-
 ::: bad
-Figure: Bad code. Uses a VB technique - CreateObject() - for creating a COM object
+Figure: Bad code. Uses a VB technique - CreateObject() - for creating a COM object  
 :::
-
 
 Using the CreateObject() method affects the performance of your application. The variable adoApp is of type Object and this results in "late binding"
 

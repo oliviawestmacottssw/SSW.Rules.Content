@@ -22,13 +22,10 @@ When someone makes a suggestion or a complaint. Usually, you only hear from the 
 <!--endintro-->
 
 
-
 :::
 
 Figure: Good Example - using +1 to show you agree
 ::: good
-
-
 
 :::
 Uly

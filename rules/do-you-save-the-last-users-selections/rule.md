@@ -17,7 +17,7 @@ Below is a report screen that is fairly common that developers create,  they wil
 
 ::: bad  
 ![Figure: Bad Example - This is suitable for first view, but not for a return view](../../assets/SampleSelect.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Instead, save the users last selection](../../assets/SampleSelect2.jpg)  

@@ -36,13 +36,13 @@ For every command or query, you create a specific request class that explicitly 
 
 ::: ok  
 ![Figure: (from mediatr MediatR docs) A Simple Request class](mediator-cqrs-1.png)  
-:::  
+:::
 
 Then the implementation of that command or query is implemented in a handler class. The handler class is instantiated by a Dependency Injection container – so can use any of the configured dependencies (Repoistories, Entity Framework, services etc)
 
 ::: ok  
 ![Figure: A handler class](mediator-cqrs-2.png)  
-:::  
+:::
 
 This approach brings many benefits:
 
@@ -60,7 +60,7 @@ This approach brings many benefits:
 
 ::: bad  
 ![Figure: Bad example - Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse](clean-architecture-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - MediatR simplifies the dependencies injected into the controller. The incoming web request is simply mapped directly to a MediatR request that orchestrates all the logic for this operation. The implementation and dependencies needed to complete “GetItemForEdit” are free to change without needing to change the controller class](clean-architecture-good.jpg)  

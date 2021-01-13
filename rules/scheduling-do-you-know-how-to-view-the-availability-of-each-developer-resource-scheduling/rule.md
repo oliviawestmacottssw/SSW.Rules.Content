@@ -16,14 +16,12 @@ redirects:
 
 As an Account Manager, you'll frequently be required to find a free resource to put onto a project.
 
-![yelling-whos-free.jpg](yelling-whos-free.jpg)
-
+![](yelling-whos-free.jpg)
 
 ::: bad
 Figure: Bad Example - Constantly yelling out "who's free?" 
 
 :::
-
 
 Instead of going around and asking everyone “Who’s free next week?”, you should use the CRM Service Calendar.
 
@@ -44,6 +42,6 @@ You have multiple options for ways to fill this data, which you can see in [<fon
 
 ::: ok  
 ![Figure: The Service Calendar in CRM is showing that Drew is available but Mehmet is busy next week](yelling-whos-free.jpg)  
-:::  
+:::
 
 <font color="#555555">Suggestion to Microsoft: One limitation of CRM is that you cannot send a URL to this page to someone, so they will have to navigate to it themselves</font>

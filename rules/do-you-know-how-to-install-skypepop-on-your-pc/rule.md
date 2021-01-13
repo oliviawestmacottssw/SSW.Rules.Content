@@ -36,7 +36,7 @@ Only receptionists should have SkypePOP installed.
 2.      The CRM contact pops up (or a "new contact" form if the number is not already in your CRM):
 
 
-> ![1.png](1.png)
+> ![](1.png)
 
 
 
@@ -46,7 +46,7 @@ Only receptionists should have SkypePOP installed.
 3.      Send Email
 
 
-> ![2.png](2.png)
+> ![](2.png)
 
 
 
@@ -83,7 +83,7 @@ Only receptionists should have SkypePOP installed.
 
 
 3.      Add your CRM connection details
-Tip: Go to Main | Settings | Customizations | Developer Resources in order to find the address for your CRM![CRM_Endpoint_Address_SkypePOP.jpg](CRM_Endpoint_Address_SkypePOP.jpg)
+Tip: Go to Main | Settings | Customizations | Developer Resources in order to find the address for your CRM![](CRM_Endpoint_Address_SkypePOP.jpg)
 
 
 > **Figure: Copy the Endpoint Address for your Organization Service**
@@ -103,7 +103,7 @@ Tip: Go to Main | Settings | Customizations | Developer Resources in order to fi
 4.      Change the SkypePOP  **Preferences**
 
 
-> ![2016-12-22_9-13-03.jpg](2016-12-22_9-13-03.jpg) Figure: Right click on the icon in the taskbar and select “Preferences”
+> ![](2016-12-22_9-13-03.jpg) Figure: Right click on the icon in the taskbar and select “Preferences”
 
 
 
@@ -111,7 +111,7 @@ Tip: Go to Main | Settings | Customizations | Developer Resources in order to fi
 
 5.      Configure the <br>       **Dynamics CRM** settings to something similar to this: <br>      
 
-> ![50.jpg](50.jpg)
+> ![](50.jpg)
 
 
 

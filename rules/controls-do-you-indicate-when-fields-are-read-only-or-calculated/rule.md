@@ -20,10 +20,10 @@ If you are using Word or Excel, actually locking cells or tables may not be what
 
 ::: good  
 ![Figure: Good Example - Read only fields should be greyed out](../../assets/GreyField.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Calculated Fields in Excel should be in Grey](../../assets/GreyField-Excel.gif)  
-:::  
+:::
 
 Of course you should follow the converse, which requires making all editable fields white.

@@ -54,26 +54,22 @@ Tests.Functional.SilverlightUI: Tests the Silverlight UI from an end-user perspe
 
 ::: good  
 ![Figure: Good example - Naming for a Unit Test Project](UnitTestsProject.jpg)  
-:::  
+:::
 Samples Naming of test methods
 [TestMethod]
  public void Test\_Client()
-
 
 ::: bad
 Bad example: There is no way to guess what this test does; you have to read the source
 
 :::
 
-
 [TestMethod]
  public void PubSubServiceConnectTest\_AuctionOk\_AuctionInfoReturned()
 
-
 ::: good
-Good Example: We are testing PubSubService.Connect under the scenario that the "Auction status is OK" with an expected behaviour that data is returned
+Good Example: We are testing PubSubService.Connect under the scenario that the "Auction status is OK" with an expected behaviour that data is returned  
 :::
-
 
 Sample Code for Integration Tests:
 
@@ -129,13 +125,13 @@ namespace SSW.NETToolkit.IntegrationTests
 
 ::: ok  
 ![Figure: This rule is consistent with the Visual Studio default](TestGenerationSettings.gif)  
-:::  
+:::
 **Tip:** You can create a test project using the Unit Test Wizard: Test &gt; Add New Test
 
 
 ::: ok  
 ![Figure: Unit Test Wizard 1](AddNewTest.gif)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Unit Test Wizard 2](CreateUnitTests.gif)  

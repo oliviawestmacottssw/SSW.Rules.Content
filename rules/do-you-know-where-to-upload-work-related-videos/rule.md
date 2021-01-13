@@ -26,7 +26,7 @@ For any videos that would help your company's YouTube presence and that are take
 
 ::: ok  
 ![Figure: Click Add to | pick a playlist, and this video will show up on your personal channel](youtube-playlist.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Your own channel now shows these videos](youtube-ownchannel.jpg)  

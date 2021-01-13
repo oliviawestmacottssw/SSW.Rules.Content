@@ -35,7 +35,7 @@ redirects:
 
 ::: ok  
 ![Figure: Multi-tasking can be your deadline's enemy](Square SM photos.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: The Pomodoro technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.](Pomodoro.png)  

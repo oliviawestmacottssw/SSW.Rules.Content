@@ -20,11 +20,11 @@ If we want to refresh and data bind the same page from client side, we can use t
 
 ::: ok  
 ![Figure: Right click the link with \_\_doPostBack event](RightClickLink.gif)  
-:::  
+:::
 
 ::: ok  
 ![Figure: New window with incorrect URL](PostBack.gif)  
-:::  
+:::
 
 ASPX:
 &lt;asp:Panel runat="server" ID="mUpdatePanel" OnLoad="mUpdatePanel\_Load"&gt;
@@ -61,18 +61,14 @@ protected void mUpdatePanel\_Load(object sender, EventArgs e)
  **Sample Code** 
 &lt;a href="javascript:\_\_doPostBack('mUpdatePanel','');"&gt;Refresh&lt;/a&gt;
 
-
 ::: bad
-Bad Code
+Bad Code  
 :::
-
 
 &lt;input type="button" onclick="javascript:\_\_doPostBack('mUpdatePanel','');" value="Refresh" /&gt;
 
-
 ::: good
-Good Code
+Good Code  
 :::
-
 
 We have a program called [SSW Code Auditor](https://www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.

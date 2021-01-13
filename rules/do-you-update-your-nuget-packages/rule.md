@@ -21,11 +21,11 @@ NuGet packages can quickly get out of date and you may miss some important updat
 
 ::: good  
 ![Figure: Good example -  NuGet packages via Package Manager are all up-to-date](nuget-update1.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Update one package at a time eg. The command 'Update-Package EntityFramework' will update the one NuGet package via the Package Manager Console. Then test](nuget-update2.png)  
-:::  
+:::
 
 **\*\*WARNING\*\***
 

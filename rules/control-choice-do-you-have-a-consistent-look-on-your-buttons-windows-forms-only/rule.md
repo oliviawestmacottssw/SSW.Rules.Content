@@ -16,7 +16,7 @@ Question: What is wrong with this Picture?
 
 ::: ok  
 ![Figure: What is wrong?](../../assets/InconsistentButtonStyles.jpg)  
-:::  
+:::
 
 <!--endintro-->
 
@@ -29,7 +29,7 @@ Question: What is wrong with this Picture?
 
 ::: ok  
 ![Figure: Even labels need to use FlatStyle.System. Can you spot the wrong label?](../../assets/BadDivider.gif)  
-:::  
+:::
 
 See our [Rules to Better Windows Forms](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWindowsForms.aspx#XPThemes) to implement XP Themes in .NET.
 

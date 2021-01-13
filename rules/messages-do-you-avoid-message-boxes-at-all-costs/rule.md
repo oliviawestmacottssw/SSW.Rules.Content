@@ -27,7 +27,7 @@ Exception: Only use them in the following scenarios:
 
 ::: bad  
 ![Figure: Bad example - could the information in this message box be moved into the panel on the right](../../assets/MoveErrorMSG.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - An error message that does not pop up and block your user](../../assets/oneplacemailerror.png)  

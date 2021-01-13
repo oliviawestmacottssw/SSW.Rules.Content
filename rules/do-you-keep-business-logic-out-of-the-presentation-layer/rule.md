@@ -20,7 +20,7 @@ It's common for business logic to be added directly to the presentation layer. W
 
 ::: bad  
 ![Figure: Bad example - Although this application clearly has repository and business logic layers, the logic that orchestrates these dependencies is in the ASP.NET Controller and is difficult to reuse](business-logic-presentation-layer-bad.png)  
-:::  
+:::
 
 The logic in the above controller cannot be reused, for example, by a new console application. This might be fine for trivial or small systems but would be a mistake for enterprise systems. It is important to ensure that logic such as this is independent of the UI so that the system will be easy to maintain now and well into the future. A great approach to solving this problem is to use the mediator pattern with CQRS.
 
@@ -38,13 +38,13 @@ For every command or query, you create a specific request class that explicitly 
 
 ::: ok  
 ![Figure: (from MediatR docs) A Simple Request class](business-logic-presentation-layer-simple.png)  
-:::  
+:::
 
 Then the implementation of that command or query is implemented in a handler class. The handler class is instantiated by a Dependency Injection container – so can use any of the configured dependencies (Repositories, Entity Framework, services etc).
 
 ::: ok  
 ![Figure: A handler class](business-logic-presentation-layer-handler.png)  
-:::  
+:::
 
 This approach brings many benefits:
 

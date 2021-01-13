@@ -20,16 +20,13 @@ Sometimes clients will add attachment files into emails. Those files could be do
 <!--endintro-->
 ![The image is in attachment. ](EmailAttachImage_1_small.jpg)
 ::: bad
-Figure: Bad Example - The image is in attachment.
+Figure: Bad Example - The image is in attachment.  
 :::
-
 
 ![The image is included in the context](EmailAttachImage_2.JPG)
 
-
 ::: good
-Figure: Good Example - The image is included in the context.
+Figure: Good Example - The image is included in the context.  
 :::
-
 
  PS: Clients make attachments because they are using OWA and you can't paste an image in - see suggestion for OWA

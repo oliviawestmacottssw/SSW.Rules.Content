@@ -40,13 +40,13 @@ Step 1: Setup your settings in your common project. E.g. Northwind.Common
 
 ::: ok  
 ![Figure: Settings in Project Properties](ConnStringNET2\_Settings.jpg)  
-:::  
+:::
 
 Step 2: Open up the generated App.config under your common project. E.g. Northwind.Common/App.config
 
 ::: ok  
 ![Figure: Auto generated app.config](ConnStringNET2\_CommonApp.GIF)  
-:::  
+:::
 
 Step 3: ~~Copy the content into your entry applications app.config. E.g. Northwind.WindowsUI/App.config~~ The new setting has been updated to app.config automatically in .NET 2.0
 
@@ -64,7 +64,6 @@ SqlConnection sqlConn =<br> new SqlConnection(Common.Properties.Settings.Default
 ```
 
 Good example - access our connection string by strongly typed generated settings class. 
-
 ::: greybox
 
 Please note these steps does not work for web site model in Visual Studio 2005. However, they work for other projects such as Windows Form, Console application, Class Library and Web Application Project.

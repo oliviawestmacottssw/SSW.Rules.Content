@@ -28,7 +28,7 @@ A majority of these notifications can be created using the connectors that are b
 * Select the three dots in the top right of the screen and select "Connectors."
 
 
-![Add-a-Connector.png](Add-a-Connector.png)
+![](Add-a-Connector.png)
 
 
 
@@ -42,7 +42,7 @@ A majority of these notifications can be created using the connectors that are b
 * Select "Add" on the connector that you want to use.
 
 
-![Select-a-Connector.png](Select-a-Connector.png)
+![](Select-a-Connector.png)
 
 
 
@@ -57,7 +57,7 @@ A majority of these notifications can be created using the connectors that are b
 * Complete the other configuration options for the Connector and click "Save."
 
 
-![Connector-Settings.png](Connector-Settings.png) **
+![](Connector-Settings.png) **
 ** 
 
 
@@ -72,14 +72,14 @@ Sometimes you may have to choose between multiple connectors that can serve the 
 
 
 
-![Notification-Bad-Example.png](Notification-Bad-Example.png)
+![](Notification-Bad-Example.png)
 
 
  **Figure: Bad example – There is no thumbnail and no link to the video. (It is nice that you can add custom text – inside the 2 emoijs)** 
 
 
 
-![Notification-Good-Example.png](Notification-Good-Example.png)
+![](Notification-Good-Example.png)
 
 
  **Figure: Good example – There is a thumbnail and a link to the video. (Although there is no custom text)** 

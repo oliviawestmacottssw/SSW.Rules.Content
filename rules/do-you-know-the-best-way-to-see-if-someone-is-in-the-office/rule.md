@@ -23,11 +23,11 @@ You should create an #in-and-out channel on Slack and use the employees' MAC Add
 
 ::: bad  
 ![Figure: Bad Example – Scream out “Where is Marlon?”](shout.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example – Using in/out functionality with Slack and Ubiquity Access Point](Slack-in-out.jpg)  
-:::  
+:::
 
 Although there is one bug with the solution:
 

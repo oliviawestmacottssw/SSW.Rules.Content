@@ -20,13 +20,12 @@ Remember, the expectation is for all the questions to be answered with "YES" by 
 
 ::: ok  
 ![](data-backup.jpg)  
-:::  
+:::
 
 <!--endintro-->
 
 
 ###  Domain-joined checklist:
-
 
 
 
@@ -48,7 +47,6 @@ Now go through the non-domain-joined checklist.
 ** 
 
 :::
-
 
 ### Non-domain-joined checklist:
 
@@ -77,12 +75,12 @@ E.g. Create a folder in C: with Data and your username, for example, "C:\DataKai
 
 ::: good  
 ![Figure: Good Example - Location of Data&lt;YourUserName&gt; with OneDrive - (YourOrganization) folder in it](onedrive.png)  
-:::  
+:::
 
 
 
 
-> ![OneDrive.jpg](OneDrive.jpg)
+> ![](OneDrive.jpg)
 >  **Figure: Good Example - Backup is being done automatically
 > 
 > **

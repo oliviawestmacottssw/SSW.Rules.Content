@@ -23,15 +23,15 @@ How often do you find files on your network file server that clearly shouldn't b
 
 ::: ok  
 ![Figure: Who created this file?](DuplicateFile.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Terminal into your file server using Terminal Services](RDP.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: It was Jatin!](FileOwner.png)  
-:::  
+:::
 
 The easiest way is to configure  **Windows file auditing** .
 
@@ -89,6 +89,6 @@ Done, now you need only double-click to start it.
 
 ::: ok  
 ![Figure: Caught an action on remote server and logged it to database](EventLogger.gif)  
-:::  
+:::
 
 This script is originally from [http://pubs.logicalexpressions.com/pub0009/LPMArticle.asp?ID=340](https://www.ssw.com.au/ssw/Redirect/logicalexpressions.htm).

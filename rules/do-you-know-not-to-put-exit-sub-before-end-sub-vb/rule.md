@@ -24,22 +24,18 @@ Private Sub SomeSubroutine()
 Exit Sub ' Bad code - Writing Exit Sub before End Sub.
 End Sub
 
-
 ::: bad
 Bad example
 
 :::
 
-
 Private Sub SomeOtherSubroutine()
 'Your code here....
 End Sub
-
 
 ::: good
 Good example
 
 :::
-
 
 We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#ExitSub) to check for this rule.

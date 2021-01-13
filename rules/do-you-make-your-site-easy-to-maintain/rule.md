@@ -21,17 +21,17 @@ If you have database driven pages on your website, you need a way of updating th
 
 ::: ok  
 ![Figure: "New" and "Edit" links allow SSW Employees to maintain testimonial entries easily](MaintenanceDemo.gif)  
-:::  
+:::
 
 
 ::: ok  
 ![Figure: "Edit" button on WordPress admin bar](wordpress-edit.png)  
-:::  
+:::
 
 
 ::: good  
 ![Figure: Good Example - "Edit" button on an Open Source page](github-edit.png)  
-:::  
+:::
 
 From Github, you can edit and submit a pull request. See     https://github.com/SSWConsulting/SSW.People.Profiles/wiki for more details.
 

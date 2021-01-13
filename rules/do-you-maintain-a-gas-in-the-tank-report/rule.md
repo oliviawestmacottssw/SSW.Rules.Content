@@ -35,8 +35,7 @@ For most businesses, a good amount of cash to hold should cover approximately  *
 
 
 
-![2020-06-23_12-23-35.png](2020-06-23_12-23-35.png)
-
+![](2020-06-23_12-23-35.png)
 
 
 ::: bad
@@ -44,18 +43,15 @@ Figure: Bad Example - Only 13 weeks of cash reserves
 
 :::
 
-
 The length of time which the business can survive on cash reserves is not as high as ideal. 13 weeks is not a lot of time to respond to a significant downturn of activity, assuming it was identified at the first-week activity went down. This report would have revealed the calculations and henceforth increase the business awareness and to keep the foot on the pedal.
 
-![2020-06-23_12-22-06.png](2020-06-23_12-22-06.png)
-
+![](2020-06-23_12-22-06.png)
 
 
 ::: good
 Figure: Good Example - 26 weeks of cash reserves 
 
 :::
-
 This example is a good indication the business has enough cash reserves, that even with a significant downturn in activities, there will be enough time to respond and likely reverse the situation. They achieve this by either maintaining cost measures low or consistently driving for new customers and a minimum level of business activity, as well as other business-specific strategies.
 
 Often a business can become satisfied with a few good months of positive cash flow whether it be a result of cost-cutting efforts or improved business activities for those months. 

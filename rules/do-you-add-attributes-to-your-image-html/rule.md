@@ -24,7 +24,7 @@ Hold the cursor over the image below and see what happens.
 
 ::: bad  
 ![&lt;a href="/ssw/Default.aspx"&gt;      &lt;img src="logo.png" /&gt;&lt;/a&gt;Figure: Bad example - No attributes to the image](../../assets/SSWLogo.png)  
-:::  
+:::
 
 ::: good  
 ![&lt;a href="/ssw/Default.aspx"&gt;      &lt;img src="logo.png"           alt="SSW Logo" title="SSW Logo" /&gt;&lt;/a&gt;    Figure: Good example - Search engines will index this text. Scroll over](../../assets/SSWLogo.png)  

@@ -26,11 +26,9 @@ The standard way to inject your dependencies looks a little like the following. 
 ```
 
 
-
 ::: bad
-Bad Example: This code will break when minified
+Bad Example: This code will break when minified  
 :::
-
 
 
 
@@ -52,11 +50,9 @@ phonecatApp</span><span class="pun" style="box-sizing:border-box;">.</span><span
 ```
 
 
-
 ::: good
-Good Example: This code names the parameters using the $inject property
+Good Example: This code names the parameters using the $inject property  
 :::
-
 
 
 
@@ -71,12 +67,10 @@ The second and preferred option is to pass an array containing the names, follow
 ```
 
 
-
 ::: good
 Better Example: This code names the parameters inline which is a little cleaner
 
 :::
-
 
 
 

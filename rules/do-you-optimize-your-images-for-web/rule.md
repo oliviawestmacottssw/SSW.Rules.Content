@@ -31,7 +31,7 @@ Some tips and techniques to keep in mind as you work on optimizing your images:
 
 ::: ok  
 ![Figure: Optimizilla reduced the image below in 31%](optimizeexample.png)  
-:::  
+:::
 
 ### WordPress 
 

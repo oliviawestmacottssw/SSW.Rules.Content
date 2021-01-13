@@ -19,13 +19,13 @@ Your users should never see the "unhandled exception" message in Windows Forms, 
 
 ::: bad  
 ![Figure: Bad example - your users should never have unhandled exceptions in Windows Forms](ladylog-bad.jpg)  
-:::  
+:::
 
 LadyLog is a Windows UI for your application that allows users to Log meaningful errors.
 
 ::: good  
 ![Figure: Good example - your users get a nice professional error reporting window](ladylog-good.jpg)  
-:::  
+:::
 
 See     [SSW .NET Toolkit - LadyLog](http://www.ssw.com.au/ssw/NetToolKit/04ExceptionReporter.aspx).
 

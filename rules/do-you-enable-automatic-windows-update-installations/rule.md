@@ -28,17 +28,17 @@ Go to      **Start** **| Windows Update Settings | Advanced Options** and set  *
 
 ::: bad  
 ![Figure: Bad example – Install updates automatically](WindowsUpdateBadExample.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – Download updates but let user choose whether to install them](Windows Update Good Example.jpg)  
-:::  
+:::
 
 If you have a system administrator who manages your organization’s infrastructure, it is recommended to get you system administrator to push this setting via group policy.
 
 ::: good  
 ![Figure: Better example – Windows Updates setting is pushed to \*ALL\* users via group policy](win-update-3.jpg)  
-:::  
+:::
 
 ###  Related Rules
 

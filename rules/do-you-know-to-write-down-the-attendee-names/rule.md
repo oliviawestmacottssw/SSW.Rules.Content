@@ -25,7 +25,7 @@ This ends up being a great reference you can use to address questions directly t
 
 ::: ok  
 ![Figure: For a classroom like this...](classroom.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: ...use a sheet like this](names-list.jpg)  

@@ -19,7 +19,6 @@ This does not contribute to high functioning teams, and instead masks, or even c
 
 <!--endintro-->
 
-
 ::: greybox
 
 In the retro the team decides to turn gated checkins on because Jonny and Sue keep breaking the build.
@@ -37,9 +36,7 @@ They resent Jonny and Sue for having to work this way.
 Gated Checkins mask the dysfunction on the team, and introduce impediments to the high performers.
 
 :::
-
 Bad Example – Gated Checkins mask dysfunction
-
 ::: greybox
 
 In the retro the team discusses the fact that the build is often broken.
@@ -56,7 +53,6 @@ In the retro the team discusses the fact that the build is often broken.
 
 
 :::
-
 Good Example – The whole team should be constantly aware and invested in the status of the build, the quality of the software and in encouraging each other to better developers.
 \*\* I actually don’t follow this rule when working on small teams of awesome devs, who write code against tests and checkin frequently.
 

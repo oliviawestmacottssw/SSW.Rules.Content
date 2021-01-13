@@ -20,7 +20,7 @@ Windows Command Processor (cmd.exe) cannot run batch files (.bat) in Visual Stud
 
 ::: bad  
 ![Bad example - Using Windows Command Processor (cmd.exe) for running batch files.](BadBatch\_small.jpg)  
-:::  
+:::
 
 ::: good  
 ![Good example - Using PowerShell for running batch files](goodbatch\_small.jpg)  

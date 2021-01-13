@@ -25,7 +25,7 @@ A SWOT analysis helps identify your companies’ Strengths, Weaknesses, Opportun
 
 ::: ok  
 ![Figure: SWOT analysis template to help you ask the big questions about your business](swot-analysis.png)  
-:::  
+:::
 
 Market analysis studies the attractiveness and the dynamics of a special market within a special industry. Through all these analyses, the strengths, weaknesses, opportunities, and threats of a company can also be identified.  
 
@@ -33,7 +33,7 @@ Market analysis should cover: all trends happening in the market, your market sh
 
 ::: ok  
 ![Figure: You should follow these steps in order to conduct your market analysis](How to conduct marketing analysis image.jpg)  
-:::  
+:::
 
 The benefits of this kind of analysis mean you will have a thorough picture of your customers, competition, and yours/their strengths and weaknesses.  
  

@@ -23,7 +23,6 @@ Send an email like this:
 
 <!--endintro-->
 
-
 ::: greybox
  **From:** Account Manager or Dev
  **To:** Client

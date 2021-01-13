@@ -30,15 +30,15 @@ Do yourself a favor, take some time to think about UI first.
 
 ::: bad  
 ![Figure: Bad Example - An example of a poor UI](../../assets/badui2.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad Example - Functional overload (a programmer probably designed this one)](../../assets/bad-functionaloverload1.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad Example - Another example of Functional overload](../../assets/bad-functionaloverload2.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Outlook.com (the replacement to Hotmail), streamlined functionality and minimal](OutlookCom.png)  

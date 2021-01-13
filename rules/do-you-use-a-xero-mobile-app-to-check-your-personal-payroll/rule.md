@@ -28,7 +28,7 @@ Xero has released a mobile app version of Xero Payroll called "Xero Me" which ha
 
 
 
-![578347254_1280x720.jpg](578347254_1280x720.jpg)
+![](578347254_1280x720.jpg)
  **Figure: Xero Me app available on iOS and Android
 ** 
 
@@ -36,7 +36,7 @@ Xero has released a mobile app version of Xero Payroll called "Xero Me" which ha
 As such, the app makes for a great handy tool for employees to check their information, submit timesheets and request leave on the go. 
 
 
-![abc.png](abc.png)
+![](abc.png)
  **Figure: Xero Me homepage - complete timesheets, request leave and check payslips on the go** 
 
 

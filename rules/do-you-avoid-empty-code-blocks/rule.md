@@ -32,12 +32,10 @@ public class Example
        }
  }
 
-
 ::: bad
 Figure: Bad Example - Method is empty
 
 :::
-
 
 public class Sample
  {
@@ -47,12 +45,10 @@ public class Sample
         }
  }
 
-
 ::: good
 Figure: Good Example - Method implements some code
 
 :::
-
 
 public interface IDemo
  {
@@ -72,11 +68,9 @@ public class Demo : IDemo
       } 
  }
 
-
 ::: bad
-Figure: Bad Example - No Comment within empty code block
+Figure: Bad Example - No Comment within empty code block  
 :::
-
 
 public interface IDemo
  {
@@ -97,7 +91,6 @@ public class Demo : IDemo
        } 
  }
 
-
 ::: good
-Figure: Good Example - Added comment within Empty Code block method of interface class
+Figure: Good Example - Added comment within Empty Code block method of interface class  
 :::

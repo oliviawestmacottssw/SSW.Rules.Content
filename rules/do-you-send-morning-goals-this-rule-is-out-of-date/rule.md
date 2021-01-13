@@ -25,11 +25,9 @@ You can use eXtreme Emails to communicate your "Morning Goals" using the followi
 
 ![Morning Goals Email](MorningGoals.jpg)
 
-
 ::: good
-Figure: Sample Morning Goals Email
+Figure: Sample Morning Goals Email  
 :::
-
 
  ~~ 
 * Forward the previous morning goal from yesterday, striking out completed items
@@ -40,9 +38,8 @@ Figure: Sample Morning Goals Email
 * If a task is huge (e.g. clean up my email inbox) and we only aim to do a portion of it, we say so in the morning goals as well.
     ![Morning Goal Aims](MorningGoalAims.gif)
 
-
 ::: good
-Figure: Morning Goal Item with a mini goal (140 emails)
+Figure: Morning Goal Item with a mini goal (140 emails)  
 :::
 
  CC the people you are working with on the email. ~~

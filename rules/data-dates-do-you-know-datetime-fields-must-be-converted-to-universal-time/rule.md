@@ -74,12 +74,10 @@ else if(timespanCheck &lt; 0)
     longestSpan = t2;
 }
 
-
 ::: bad
 Figure: Bad Example - Using .Net DateTime to manipulate dates and times.
 
 :::
-
 
 //------    Noda Time Examples
 int year, month, day;
@@ -106,12 +104,10 @@ Duration d2 = Duration.FromHours(1);
 Duration longestDuration = Duration.Max(d1, d2);
 Duration shortestDuration = Duration.Min(d1, d2);
 
-
 ::: good
 Figure: Good Example - Using Noda Time to manipulate dates and times.
 
 :::
-
  **
 ** 
 When retrieving data from the database it must be converted back to the local time of the user.

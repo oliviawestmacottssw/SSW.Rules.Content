@@ -20,55 +20,40 @@ Do you know free games are designed to make money? See the good and bad examples
 
 
 
-
 ::: bad
 Bad example: paid apps
 
 :::
 
-
-
 ::: good
-Good example: free apps with in-app purchases
+Good example: free apps with in-app purchases  
 :::
-
-
 
 
 
 ::: bad
-Bad example: paid with currency
+Bad example: paid with currency  
 :::
-
-
 
 ::: good
-Good example: paid with abstract currency
+Good example: paid with abstract currency  
 :::
-
-
 
 
 
 ::: bad
-Bad example: treat all customers the same
+Bad example: treat all customers the same  
 :::
-
-
 
 ::: good
-Good example: detect when a customer might leave and offer them incentives
+Good example: detect when a customer might leave and offer them incentives  
 :::
-
-
 
 
 
 ::: bad
-Bad example: same prices for everyone
+Bad example: same prices for everyone  
 :::
-
-
 
 ::: good
 Good example: capture data eg. What device and do data mining to set different prices 
@@ -77,14 +62,13 @@ Good example: capture data eg. What device and do data mining to set different p
 
 
 
-
 ::: ok  
 ![`youtube: https://www.youtube.com/embed/fKK9nVLvhGM`](how-to-monetize.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: some apps charge more based on the device you are using](how-to-monetize.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: know app developers make most of their in-app purchases from the whales 🐳](how-to-monetize-2.png)  

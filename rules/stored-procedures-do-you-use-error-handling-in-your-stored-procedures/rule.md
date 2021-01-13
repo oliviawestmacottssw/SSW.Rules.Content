@@ -47,12 +47,10 @@ DECLARE @inputNumber AS INT = 0;
 -- Generate a divide-by-zero error
 SELECT 1 / @inputNumber AS Error;
 
-
 ::: bad
 Figure: Bad Example - No error handling.
 
 :::
-
 
 Below we have wrapped our stored procedure logic in a TRY block and added a CATCH block to handle the error. More information can be found here [TRY...CATCH (Transact-SQL)](https&#58;//docs.microsoft.com/en-us/sql/t-sql/language-elements/try-catch-transact-sql?view=sql-server-ver15).
 
@@ -81,12 +79,10 @@ BEGIN CATCH
               THROW;
 END CATCH;
 
-
 ::: good
 Figure: Good Example - Using error handling to catch an error and attempt to resolve it.
 
 :::
-
 
 The example below shows how you can catch an error and retrieve all the details about it.
 This is very useful if you want to save these errors to another table or trigger a stored procedure.
@@ -108,7 +104,6 @@ BEGIN CATCH
  
              THROW;
 END CATCH;
-
 
 ::: good
 Figure: Good Example - Using error handling to catch an error and retrieving its details, allowing it to be logged.

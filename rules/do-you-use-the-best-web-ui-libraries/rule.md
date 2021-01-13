@@ -25,7 +25,7 @@ It's the most popular available framework today, which means more people involve
 
 ::: ok  
 ![Figure: Leader among frameworks today, Bootstrap toolkit is recommended to build successful websites](bootstrap.png)  
-:::  
+:::
 
 ### The 3 things a developer need to know to get up and running quickly with ASP.NET MVC
 

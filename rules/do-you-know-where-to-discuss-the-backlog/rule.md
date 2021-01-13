@@ -20,13 +20,13 @@ When discussing a PBI/Issue, Pull Request, or a project in general, it is import
 
 ::: ok  
 ![](Kanban-on-Screen.jpg)  
-:::  
+:::
 
 <!--endintro-->
 
 ::: bad  
 ![Figure: Bad Example – don't use emails to discuss tasks](bad-mention-pbi.jpg)  
-:::  
+:::
 
 ### For code
 
@@ -36,7 +36,7 @@ This should be done in the Pull Request, if possible comment directly on the lin
 
 ::: good  
 ![Figure: You can add a comment on a specific line of code](comment on code in pull request.png)  
-:::  
+:::
 
 ### For a new PBI/Issue
 
@@ -47,7 +47,7 @@ As per[Do you know when you use @ mentions in a PBI?](/when-you-use-mentions-in-
 
 ::: good  
 ![Figure: Good Example - When adding a GitHub issue, @ mention the Product Owner and other related people so they receive a notification e.g, an email](Create-Issue.png)  
-:::  
+:::
 
 ### For an existing PBI/Issue
 
@@ -55,7 +55,7 @@ Discuss it in the existing PBI/Issue.
 
 ::: good  
 ![Figure: You can discuss an existing issue, even when it has been closed](existing issue discussion.png)  
-:::  
+:::
 
 ### For other topics (brainstorm ideas, general discussion, etc.)
 
@@ -69,13 +69,13 @@ You can:
 
 ::: good  
 ![Figure: You can create discussions on your project using the Discussion tab in your GitHub repository](Discussion Tab in GitHub.png)  
-:::  
+:::
 
 * In the team channel in Teams
 
 
 ::: good  
 ![Figure: You can discuss your idea in Teams on the team channel](Team channel.png)  
-:::  
+:::
 
 In summary, Email should be the last resort.

@@ -36,7 +36,7 @@ Note that both of the following solutions work best when you're dealing with peo
 
 ::: ok  
 ![](Sexy-face.jpg)  
-:::  
+:::
 
 This option is best if you're ok to meet any time that your calendar says is free.
 
@@ -50,14 +50,12 @@ This option is best if you're ok to meet any time that your calendar says is fre
 
 **Step 2:** Open an email... not an appointment!
 
-
 ::: greybox
 To:      [person]
 Cc:      Cortana@calendar.help
 Body:  after your normal text to a person, add some extra text like "Cortana, schedule a meeting."
 
 :::
-
 
 Cortana then handles all the back-and-forth emails to find a time when everyone can meet and then she sends out an invite on your behalf.
 
@@ -67,23 +65,23 @@ Cortana then handles all the back-and-forth emails to find a time when everyone 
 
 ::: good  
 ![Figure: Speak to Cortana as you would a PA](Cortana.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Cortana will find a time that suits everyone and send the appointment](confirmation.jpg)  
-:::  
+:::
 
 **Step 3:** To make it easier to add Cortana to your emails, create a Contact.
 
 ::: ok  
 ![Figure: Cortana added as a contact](CortanaContact.jpg)  
-:::  
+:::
 
 **Mobile – works great ✔**
 
 ::: ok  
 ![Figure: Microsoft Scheduler – Fully works on mobile phone](cortana-scheduler-mobile.jpg)  
-:::  
+:::
 
 ### FindTime
 
@@ -98,7 +96,7 @@ FindTime sends out the meeting invite on your behalf. More on [https://findtime.
 
 ::: ok  
 ![Figure: FindTime gives a nice UI for people working in the same org, as you can see times that might be available for all attendees easily (e.g. 8 am above)](findtime-scheduler.jpg)  
-:::  
+:::
 
 **Mobile – does not work ❌**
 

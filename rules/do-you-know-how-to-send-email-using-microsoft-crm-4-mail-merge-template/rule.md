@@ -38,7 +38,6 @@ You can use mail merge template, to send email to account, contact... Each mail 
 ![Figure: Mail Merge Recipients](send-mail-merge-3.jpg)
 :::
 
-
 ::: greybox
 
 # Attention
@@ -48,7 +47,6 @@ You can use mail merge template, to send email to account, contact... Each mail 
     * **Do Not Allow**
 
 :::
-
 9. Follow the on screen instructions in Microsoft Word and edit the content of the email that you want to send.
 
 

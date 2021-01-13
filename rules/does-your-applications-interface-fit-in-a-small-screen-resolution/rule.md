@@ -19,11 +19,11 @@ Each user prefers to have their own resolution. You must check if your controls 
 
 ::: bad  
 ![Figure: Bad Example - Form is too large to fit inside 1024x768px resolution](../../assets/InterfaceResBadExample.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Form fits inside any screen resolution](../../assets/InterfaceResGoodExample.jpg)  
-:::  
+:::
 
 The potential solutions for this problem are:
 
@@ -44,8 +44,7 @@ From [Adam Cogan](http://www.adamcogan.com/2012/11/18/microsoft-is-onto-somethin
 I am amazed how good the split screen is so you can be reading email while continuing to watch that movie.
  One thing developers need to be aware of when building apps, is to consider the size for the different resolutions in particular when an application is snapped. On the Surface, the snap view divides the screen up into ¼ and ¾, but this will be different on different devices (actually the snap view is always 342 pixels) so you really need to get into responsive designing. For a good user experience, keep the left snap view for reading, not interactive stuff like filling in forms.
  The great thing for developers is the way you test. With Visual Studio 2012, the emulator simulates the Surface perfectly.
-![SurfaceScreen.jpg](SurfaceScreen.jpg)
-
+![](SurfaceScreen.jpg)
 ::: good
 Figure: The Surface screen allows you to place two apps side by side.
 

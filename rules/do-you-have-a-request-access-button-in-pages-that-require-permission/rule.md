@@ -20,7 +20,7 @@ If your page requires permission to be accessed it should provide a button for t
 
 ::: bad  
 ![Figure: Bad example -  You just don't have access](no-request-permission.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – Office 365 has a "Request Access" button](request-permission.png)  

@@ -39,7 +39,6 @@ Measures:
 
 GroupingColumn = if(value&lt;x, small, if(value&lt;y, medium, large))
 
-
 ::: good
 Figure - Good Example: Nested if statements are a great way to split up your data into groups
 

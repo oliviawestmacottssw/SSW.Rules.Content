@@ -38,7 +38,7 @@ The Team are then advised of their resourcing for the Sprint as there may be add
 The Team then size (assign Story points to) PBIs starting at the top until there are more than enough PBIs to fill the Sprint.
 
 The process of sizing is somewhat formal. Either using cards or IM (essential if not co-located) the team vote privately on the size of the PBI. They can either use T-shirt sizes of XXS, XS, S, M, L, XL, XXL and XXXL or their equivalent number of story points for which we use the Doubling Series of 1, 2, 4, 8, 16 or 32. Once the differring votes are in, the Scrum Master asks the smallest and biggest voters to explain the reasons for their vote. Assumtions and omisions are quickly identified through discussions and the Scrum Master encourages discussion until consensus on the Story points is reached. Any PBI voted at 16 or higher should be broken down into smaller stories; re-prioritised by the Product Owner and re-sized if necessary.
-![PBI.png](PBI.png)
+![](PBI.png)
 
 Once enough stories are sized, the Product Owner is given the opportunity to re-prioritise now knowing the relative sizes. If more PBIs need then be sized then they are. The Scrum Master keeps everything going and facilitates negotiation between The Team and The Product Owner until final priority is confirmed and The team commit to a number of stories and the meeting concludes.<br>      This meeting should be timeboxed to an hour for every week in the Sprint. However, the Scrum Master must be sensitive to the meeting producing a workable result.<br>      <br>   
  **Figure: A sample PBI based on the Microsoft Scrum process template for Azure DevOps
@@ -60,7 +60,6 @@ To answer the second question the team create tasks, with sub-tasks where necess
  It is not essential for the Product Owner or the Scrum Master to be present for the whole meeting but they must be available for consultation. The Scrum Master should formally close the meeting. 
 
 Once this meeting is finished, the Scrum Master should email the Product Owner with a [forecast](/Pages/Do-you-create-a-Sprint-Forecast-email.aspx).
-
 
 
 

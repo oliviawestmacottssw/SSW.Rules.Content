@@ -36,12 +36,10 @@ function Get-Function
   # function logic
 }
 
-
 ::: good
 Figure: Good Example - Using Comment-Based Help for Functions
 
 :::
-
 
 Or like this (before the function keyword):
 
@@ -51,11 +49,9 @@ Or like this (before the function keyword):
 #&gt;
 function Get-Function { }
 
-
 ::: good
-Figure: Good Example - Using Comment-Based Help for Function
+Figure: Good Example - Using Comment-Based Help for Function  
 :::
-
 
 You can do the same with scripts, with a little difference - you need to place the snippet at the beginning or end of the script file:
 
@@ -72,12 +68,10 @@ param(
 [switch]$MFA
 )
 
-
 ::: bad
 Figure: Bad Example - Script not using any Comment-Based Help snippet
 
 :::
-
 
 &lt;#
 .SYNOPSIS
@@ -103,12 +97,10 @@ Param(
 [string] $LogFile
 ) ...
 
-
 ::: good
 Figure: Good Example - Using Comment-Based Help at the beginning of a script file
 
 :::
-
 
 You can check some good PowerShell examples in     [SSW's GitHub](https&#58;//github.com/SSWConsulting):
 

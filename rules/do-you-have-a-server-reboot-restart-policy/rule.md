@@ -62,10 +62,10 @@ To show others who are interested in what needs to be done to fix the problem: *
 
 **Note:** The following servers will be affected
 
-![rule-outage-2.jpg](rule-outage-2.jpg)
+![](rule-outage-2.jpg)
 
 http://wug.ssw.com.au/
-![rule-outage-1.jpg](rule-outage-1.jpg) **Figure: Clearly showing the potential risks
+![](rule-outage-1.jpg) **Figure: Clearly showing the potential risks
 
 ** Hi All,
 
@@ -111,7 +111,7 @@ Open 'Windows Task Manager' (Run &gt; taskmgr) and select the 'Users' tab. Check
 
 ::: ok  
 ![Figure: Connected users can be viewed in Task Manager](rule-outage-1.jpg)  
-:::  
+:::
 
 ### Files
 
@@ -119,7 +119,7 @@ Open 'Computer Management' (Run &gt; compmgmt.msc), then 'System Tools &gt; Shar
 
 ::: ok  
 ![Figure: Computer Management 'Open Files' View](rule-outage-1.jpg)  
-:::  
+:::
 
 ### Database
 
@@ -127,7 +127,7 @@ Open SQL Server Management Studio on the server. Connect to the local SQL Server
 
 ::: ok  
 ![Figure: SQL Management Studio 'Active Connections' View](rule-outage-1.jpg)  
-:::  
+:::
 
 Once these have been checked for active users, and users have logged off, maintenance can be carried out.
 

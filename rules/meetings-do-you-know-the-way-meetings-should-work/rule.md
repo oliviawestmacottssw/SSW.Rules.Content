@@ -32,13 +32,11 @@ To ensure your meetings are productive and successful, you should:
 
 ::: bad  
 ![Figure: Bad example - meeting with No Agenda](../../assets/MeetingNoAgenda.JPG)  
-:::  
-![](MeetingWithAgenda_1.jpg)
-
-::: good
-Figure: Good example - meeting with Agenda
 :::
-
+![](MeetingWithAgenda_1.jpg)
+::: good
+Figure: Good example - meeting with Agenda  
+:::
 
 Every Outlook appointment must have:
 

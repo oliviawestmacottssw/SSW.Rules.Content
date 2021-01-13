@@ -24,7 +24,7 @@ redirects:
 
 ::: ok  
 ![Figure: Do you want users to have good first impressions?](pic16-TestingDoYouWantThemT.gif)  
-:::  
+:::
 
 There are a number of different types of tests that you can perform:
 
@@ -36,7 +36,6 @@ There are a number of different types of tests that you can perform:
 * **Security testing:**     Security testing is done to check that a system protects data and maintains confidentiality as intended. The concepts covered by Security testing can include: network mapping, vulnerability scanning, password cracking, confidentiality, integrity, authentication, authorization, availability, non-repudiation and virus scanning.
 * **Performance testing:**     Performance Testing is used to determine the responsiveness, the effectiveness of a system under a given workload. Qualitative attributes such as reliability, scalability and interoperability may also be evaluated. Performance testing is often done along with stress testing.
 * **Smoke testing:**     Smoke testing is done to ensure the system doesn't have any critical bugs that would make other types of testing unnecessary. This type of testing is generally performed on a new or fixed software. A Smoke test should cover essential parts of the application so it is said to be shallow and broad.
-
 
 
 ::: greybox
@@ -54,7 +53,6 @@ Yes! A "Test Please", aka peer review highlights unseen errors, proposes new ide
 Always put "test please" in the email body so readers know they are expected to react quickly.
 
 :::
-
 
 ### Lead Developer responsibilities
 
@@ -87,7 +85,6 @@ Please cc the client in all your "Test Please" emails including internal ones.
 10. When finished reply to the 'test please' email with "Test Please Succeeded (as no Critical bugs)" or "Test please failed (as per critical bugs reported)". <br>
 
 
-
 ::: greybox
 
 **Subject:** RE: Test Please - \\Public Folders\All Public Folders\SSWeXtremeEmailsDatabase\SSWCodeAuditor\Release09
@@ -99,7 +96,6 @@ Gary,
 (as per        critical bugs reported in other emails)
 
 :::
-
  **Figure: This is how to reply failed to a "test please" email** 
 
 `youtube: https://www.youtube.com/embed/whxbTtkH5GU`

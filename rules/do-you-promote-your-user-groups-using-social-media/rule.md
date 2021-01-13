@@ -20,7 +20,7 @@ Do you need to increase the attendance at your User Groups?
 <!--endintro-->
 
 A great way to increase your over all audience, as well as your attendance at each User Group, is to use social media and online forums like MeetUp to advertise your events. At SSW we use MeetUp, as well as the social media platforms, Twitter, Facebook, Instagram and LinkedIn to announce all of our upcoming User Groups and keep track of attendance.
-![Tweet UG.jpg](Tweet UG.jpg) **Figure: An example of SSW promoting the .NET User Group on Twitter.
+![](Tweet UG.jpg) **Figure: An example of SSW promoting the .NET User Group on Twitter.
 
 ** 
 For tips on taking great photos for social media promotions, see [Do you know how to take great photos for your socials?](/know-how-to-take-great-photos-for-your-socials)

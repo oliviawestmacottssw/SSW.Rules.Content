@@ -24,12 +24,10 @@ The best way to avoid it is not to display valid individual email addresses in t
 
 e.g. FirstnameSurname@ssw.com.au
 
-
 ::: bad
 Figure: Bad way - normal email address in text format
 
 :::
-
 
 ###  Better way: encryption technique 
 

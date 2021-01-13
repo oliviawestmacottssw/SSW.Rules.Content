@@ -21,6 +21,6 @@ Go to **\\printer**
 
 ::: ok  
 ![Figure: Printers listed in Printer Server](printers.jpg)  
-:::  
+:::
 
 Double click on Printer to connect/add the printer. Follow prompt to finish adding printer (printer driver installation).

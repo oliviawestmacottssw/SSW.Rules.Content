@@ -26,7 +26,7 @@ The easiest way to get attendees involved is to promote a social media hashtag a
 
 ::: bad  
 ![Figure: Bad Example – Presentation title slide does not promote attendee involvement](presentation-promote-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example – Promoting a Twitter backchannel promotes online discussion and feedback](presentation-promote-good.jpg)  

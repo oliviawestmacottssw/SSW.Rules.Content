@@ -35,11 +35,9 @@ rtbParaText.AppendText(query2.First() + "\r\n");
 }
 }
 
-
 ::: bad
-Bad Example: A UI method mixed with business logics
+Bad Example: A UI method mixed with business logics  
 :::
-
 
 
 
@@ -49,7 +47,6 @@ string paraText = Business.GetParaText();
 rtbParaText.Clear();
 rtbParaText.Add(paraText);
 }
-
 
 ::: good
 Good Example : Putting business logics into the business project, just call the relevant method when needed

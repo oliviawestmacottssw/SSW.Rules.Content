@@ -49,11 +49,11 @@ You can use social media monitoring tools to keep track of the comments you get 
 
 ::: ok  
 ![Figure: This is Zendesk UI to help you reply to comments on social media - You can reply, mark as solved, open or pending through the platform](commentsonzendesk.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: This is Hootsuite UI to manage comments (more expensive)](engagement-new-streams.png)  
-:::  
+:::
 
 ### 5. Use the hide functionality (Facebook only)
 
@@ -62,7 +62,7 @@ Facebook has a nice functionality where if you hide a comment, the user who post
 
 ::: ok  
 ![Figure: Facebook allows you to hide or report a comment](Screen Shot 2020-06-02 at 8.37.31 am.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: A few options Facebook gives you when reporting a comment](Screen Shot 2020-06-02 at 8.38.01 am.png)  

@@ -49,19 +49,19 @@ Query Store is like having a light-weight version of SQL Profiler running all th
 
 ::: ok  
 ![Figure: Read Write indicates that the Query Store is setup to help us a few days later](QueryStore1.png)  
-:::  
+:::
 
 Once Query Store has been enabled for a particular database, it needs to run for a number of days to collect performance data.  It is generally a good idea to enable Query Store for important production databases      **before** performance problems occur.  Detailed information on regressed queries, overall resource consumption, the worst performing queries, and detailed information such as query plans for a specific SQL statement can then be retrieved using SQL Server Management Studio (SSMS).
 
 ::: ok  
 ![Figure: A couple of days later… Query Store can now be queried to determine which queries are now performing poorly](QueryStore3.png)  
-:::  
+:::
 
 Once Query Store has been collecting performance information on a database for an extended period, a rich collection of information is available.  It is possible to show regressed queries by comparing a Recent time interval (2 weeks in the diagram below) compared to a baseline History period (the Last Year in the diagram below) to see queries that have begun to perform poorly.
 
 ::: ok  
 ![Figure: The query store can show the top 25 regressed queries in the last 2 weeks and give suggestions on how to improve them](QueryStore2.png)  
-:::  
+:::
 
 In the diagram we can see the total duration for a query (top left), the execution plans that have been used on a particular query (top right) and the details of a selected execution plan in the bottom pane.  The actual SQL statement that was executed is also visible, allowing the query to be linked back to a particular EF code statement.
 

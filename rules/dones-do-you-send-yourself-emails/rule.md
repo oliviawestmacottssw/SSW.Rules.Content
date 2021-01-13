@@ -25,10 +25,9 @@ The best solution is to send yourself an email CC'ing the person who asked you, 
 
 ::: bad  
 ![Figure: Writing yourself a "Post-It Note" is not the best method](postit-screen.jpg)  
-:::  
+:::
 
 Always add "To myself" in the email body - not on the subject - so that other people CC'd know what is going on.
-
 
 ::: greybox
 
@@ -46,7 +45,6 @@ As per my conversation with Lei, the rule on progress bar is missing a bad examp
 1. Add bad example to Rules to Better UI - progress bar - https://rules.ssw.com.au/long-process-do-you-show-the-status-of-progress-bar-on-winforms-title
 
 :::
-
 Figure: Good Example - Send yourself an email, and make it clear to everyone else
 ### Tip: Include an estimate and priority too 
 
@@ -56,7 +54,7 @@ With this estimate, the Product Owner can stop you if they think the amount of t
 
 ::: bad  
 ![Figure: Bad Example - Send a task to self without an estimate](EmailWithoutEstimation.JPG)  
-:::  
+:::
  
 ::: good  
 ![Figure: Good Example - Send a task to self with an estimate](EmailWithEstimation.jpg)  

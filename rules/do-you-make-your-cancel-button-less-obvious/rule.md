@@ -20,11 +20,11 @@ To avoid users accidentally cancelling an operation when they thought they where
 
 ::: bad  
 ![Bad example: Cancel button looks like a save button](bad-cancel-button-example.jpg)  
-:::  
+:::
 
 ::: good  
 ![Good example: Cancel button is less obvious](good-example-cancel-button.jpg)  
-:::  
+:::
 
 **Which side should the cancel button be on?**
 

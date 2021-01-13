@@ -27,7 +27,7 @@ To do this, in Outlook, click File | CRM | Options | Synchronization, and click 
 
 ::: ok  
 ![Figure: Contact Synchronization enabled in MS Outlook 2013](ContactSynchronizationEnabled.jpg)  
-:::  
+:::
 
 In Outlook, you can also choose which of your personal contacts you want to sync to CRM by using the toolbar option "Track" and "Set Parent" (i.e. company).
 

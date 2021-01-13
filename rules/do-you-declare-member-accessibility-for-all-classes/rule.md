@@ -20,22 +20,18 @@ Not explicitly specifying the access type for members of a structure or class ca
 
 Match MatchExpression(string input, string pattern)
 
-
 ::: bad
 Figure: Bad - Method without member accessibility declared 
 
 :::
 
-
 private Match MatchExpression(string input, string pattern)
-
 
 ::: good
 Figure: Good - Method with member accessibility declared
 
 :::
-
-![matt-w-screenshot.jpg](matt-w-screenshot.jpg)
+![](matt-w-screenshot.jpg)
  **Figure: Compiler warning given for not explicitly defining member access level** 
 
 

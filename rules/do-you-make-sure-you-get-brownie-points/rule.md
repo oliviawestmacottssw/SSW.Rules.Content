@@ -19,10 +19,9 @@ People are not mind-readers (unless they are telepathic!), so when you get good 
 
 ::: ok  
 ![](brownie-points.png)  
-:::  
+:::
 
 Figure: Developers, when you get good feedback from anyone at the client's company, forward their comments onto the boss at the client's company and CC your manager
-
 
 :::
 
@@ -41,7 +40,6 @@ Figure: Developers, when you get good feedback from anyone at the client's compa
 
 
 ::: greybox
-
 "It’s not good enough just to do good work.
 You’ve gotta do good work and be visible"
 

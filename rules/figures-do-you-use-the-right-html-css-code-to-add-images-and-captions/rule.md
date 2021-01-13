@@ -26,11 +26,9 @@ Most developers put the image and the caption in a DIV tag, where the figure is 
   &lt;p&gt;Figure: Caption&lt;/p&gt;
 &lt;/div&gt;
 
-
 ::: bad
-Figure: Bad Example
+Figure: Bad Example  
 :::
-
 
 Instead, you should use      **&lt;figure&gt;** and      **&lt;figcaption&gt;** as per [https://www.w3schools.com/TAGS/tag\_figcaption.asp](https&#58;//www.w3schools.com/TAGS/tag_figcaption.asp). This structure gives semantic meaning to the image and figure:
 
@@ -39,12 +37,10 @@ Instead, you should use      **&lt;figure&gt;** and      **&lt;figcaption&gt;** 
   &lt;figcaption&gt;Figure: Caption&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-
 ::: good
 Figure: Good Example
 
 :::
-
 
 ### The old way
 

@@ -32,33 +32,27 @@ Here are some of the reasons why:
 * Integrated Build Server
 
 
-
 ::: greybox
 Reasons companies choose Visual SourceSafe (VSS) 
  - No server required
  - No VPN required 
- - They are ignorant about the potential corruption problems
+ - They are ignorant about the potential corruption problems  
 :::
-
-
 
 ::: bad
-Figure: Bad Example, Visual SourceSafe (VSS) is a bad choice
+Figure: Bad Example, Visual SourceSafe (VSS) is a bad choice  
 :::
-
 
 ::: greybox
 Reasons companies choose Subversion (SVN) 
  -It's free 
  -It's easy to use 
  -No Build integration 
- -No Work Item integration
+ -No Work Item integration  
 :::
-
  
 **Figure: Better example, Subversion (SVN) is an OK choice 
 ** 
-
 ::: greybox
 Reasons companies choose Team Foundation Server (TFS)
   -It's free (With MSDN)
@@ -70,11 +64,9 @@ Reasons companies choose Team Foundation Server (TFS)
  -Has Build integration 
  -Has Work Item integration 
  -Has Test suite integration 
- -Has reporting out of the box
+ -Has reporting out of the box  
 :::
 
-
-
 ::: good
-Figure: Better example, Subversion (SVN) is an OK choice
+Figure: Better example, Subversion (SVN) is an OK choice  
 :::

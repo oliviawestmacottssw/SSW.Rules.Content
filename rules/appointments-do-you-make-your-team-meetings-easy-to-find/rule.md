@@ -24,11 +24,11 @@ When joining a new team, it's easy to be lost and not know when the important me
 
 ::: bad  
 ![Figure: Bad Example - When I look at my calendar, I don't know when the meetings are](team meetings - bad example.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - A SharePoint page allows me to see my Team's meetings before I have been invited (and invite myself if required)](team meetings - good example.jpg)  
-:::  
+:::
 
 1. Open up the Team's SharePoint site (you can find this easily by going to the <br>      *Files* tab and clicking <br>      *Open in SharePoint*)
 2. Go to the SharePoint site's Home page (from the menu on the left)
@@ -57,26 +57,22 @@ When joining a new team, it's easy to be lost and not know when the important me
 
 ::: ok  
 ![](Bad One.jpg)  
-:::  
-
-
-::: bad
-Figure: Bad Example - using the Website tab
 :::
 
+::: bad
+Figure: Bad Example - using the Website tab  
+:::
 
 <font color="#333333"><br></font>
 
 ::: ok  
 ![](Good One.jpg)  
-:::  
-
+:::
 
 ::: good
 Figure: Good Example - using the SharePoint tab
 
 :::
-
 
 <font color="#333333"><br></font>
 

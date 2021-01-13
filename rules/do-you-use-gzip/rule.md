@@ -31,19 +31,19 @@ Use one of the methods described below to add Gzip compression to your site ASP.
 
 
 
-* Method 1: Turn on "Dynamic Content Compression" In IIS Server. ![2.png](2.png)Figure: Choose the website which you want to use Gzip and click on Compression.![3.png](3.png)Figure: Install "dynamic content compression" if you haven't installed it.
+* Method 1: Turn on "Dynamic Content Compression" In IIS Server. ![](2.png)Figure: Choose the website which you want to use Gzip and click on Compression.![](3.png)Figure: Install "dynamic content compression" if you haven't installed it.
 
 
 In**Control Panel**navigate to**All Control Panel Items | Programs and Features**, and click**Turn Windows features on or off**.
-Choose**Internet Information Services | Web Management Tools | World Wide Web Services | Performance Features | Dynamic Content****Compression**.![4.png](4.png)Figure : Click "Ok" to install it.![5.png](5.png)Figure: now enable dynamic content compression for your site.
+Choose**Internet Information Services | Web Management Tools | World Wide Web Services | Performance Features | Dynamic Content****Compression**.![](4.png)Figure : Click "Ok" to install it.![](5.png)Figure: now enable dynamic content compression for your site.
 
 
     * Method 2:  Using “Gzipper” in your Angular website
 Followhttps://www.npmjs.com/package/gzipper .(but it still need IIS Server enable static content compression.) 
 Using "npm i gzipper g" to install "gzipper" first. Add to scripts in your package.json
-![7.png](7.png)
+![](7.png)
 
-![6.png](6.png)Figure: "Finish configuration like that.
+![](6.png)Figure: "Finish configuration like that.
 
     * Method 3: Using ASP.NET code in MVC
 Refer tohttps://www.codeproject.com/Tips/1080065/Improve-the-Performance-of-ASP-NET-MVC-Web-Applica .  <br>             To implement this in ASP.NET MVC, we can utilize ActionFilterAttribute and override either OnActionExecuting or OnResultExecuting method. The below code snippet is being used to check whether the current request browser can accept GZIP/DEFLATE encoding by looking at Accept-Encoding request header. If it finds GZIP encoding in this header, then we would set gzip in Content-encoding in response header and if it supports DEFLATE, then this code would set deflate in Content-encoding.
@@ -109,15 +109,12 @@ namespace HTTPCompression.ActionFilters
 ```
 
 
-
 ::: bad
 Figure: Bad Example, files with large size and slow load time.
 
 
 :::
-
-        ![5.28.7.png](5.28.7.png)
-
+        ![](5.28.7.png)
 
 ::: good
 Figure: Good Example, gzipped files with smaller size and faster load time.

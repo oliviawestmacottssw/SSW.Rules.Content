@@ -24,15 +24,15 @@ Microsoft applications use this technique to indicate whether or not the action 
 
 ::: good  
 ![Figure: Good Example - Options menu in Outlook, with ellipsis](../../assets/Elipsis.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Ellipsis on buttons that require further input](../../assets/RunDialog.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Different ways of using the elipsis](../../assets/GoodElipsis3.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Elipsis being used on a button requiring user input](../../assets/GoodElipsis4.png)  

@@ -44,7 +44,7 @@ Now when you click Send, each message remains in the Outbox folder for the time 
 
 ::: bad  
 ![Figure: Bad example - Recalling a message when you want to change an email after sending](recall-message.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Delay sending in 15 minutes (make it less or more if necessary)](create-rule-to-delay-sending.jpg)  

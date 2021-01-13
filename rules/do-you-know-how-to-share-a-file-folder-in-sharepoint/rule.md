@@ -24,19 +24,19 @@ You can select the folder (or file) and click on "Copy link" at the top bar to g
 
 ::: ok  
 ![Figure: Getting URL from SharePoint top bar](sharepoint-cloud-copy-folder.jpg)  
-:::  
+:::
 
 You can also right-click the folder/file to copy the link:
 
 ::: ok  
 ![Figure: Getting URL by right-clicking a file in SharePoint](sharepoint-right-click-link.jpg)  
-:::  
+:::
 
 On previous versions, you can open the menu on ellipsis link and get it from there:
 
 ::: ok  
 ![Figure: Getting URL from SharePoint ellipsis menu](sharepoint-link.jpg)  
-:::  
+:::
 
 ###  Related Rule
 

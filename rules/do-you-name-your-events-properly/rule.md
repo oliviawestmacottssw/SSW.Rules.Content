@@ -22,17 +22,14 @@ Events should end in "ing" or "ed".
 public event Action
 &lt; connectioninformation &gt; ConnectionProblem;
 
-
 ::: bad
 Bad code
 
 :::
 
-
 public event Action
 &lt; connectioninformation &gt; ConnectionProblemDetected;
 
-
 ::: good
-Good code
+Good code  
 :::

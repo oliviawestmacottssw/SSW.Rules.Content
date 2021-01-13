@@ -17,7 +17,7 @@ Small images are hard to see. Remember your audience sitting at the back of the 
 
 ::: bad  
 ![Figure: Bad example - the image doesn't cover the whole slide](badSmall.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Cover the whole slide with your image to make it easier for people to see from the back row](goodbig.jpg)  

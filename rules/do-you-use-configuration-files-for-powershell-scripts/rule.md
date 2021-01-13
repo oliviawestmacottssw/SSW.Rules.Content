@@ -40,6 +40,6 @@ Don't forget to add the configuration file to .gitignore!
 
 ::: bad  
 ![Figure: Bad Example - Your script variables are in the script itself, making it insecure to share outside](bad-script-variables.png)  
-:::  
+:::
 
 Credits to:     [PowerShell Accidentally Created A Nice Configuration Format](https://medium.com/%40ssg/powershell-accidentally-created-a-nice-configuration-format-3efde5448090).

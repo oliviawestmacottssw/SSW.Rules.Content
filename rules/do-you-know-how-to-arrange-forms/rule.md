@@ -23,12 +23,12 @@ When arranging labels and inputs on your html form, align labels next to the inp
 
 ::: ok  
 ![Figure: Labels besides their respective inputs on regular displays](forms-desktop.jpg)  
-:::  
+:::
 
 When arranging labels and inputs on your html form, align labels above inputs on small and extra-small displays.
 
 ::: ok  
 ![Figure: Labels above their respective input on smaller displays](forms-mobile.jpg)  
-:::  
+:::
 
 Bootstrap makes this easy. Read [Do you use the css class "form horizontal" to arrange your fields and labels?](/do-you-use-the-css-class-form-horizontal-to-arrange-your-fields-and-labels) to know more.

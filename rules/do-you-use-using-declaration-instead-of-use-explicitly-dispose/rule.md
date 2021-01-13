@@ -40,12 +40,10 @@ static int WriteLinesToFile(IEnumerable&lt;string&gt; lines)
   return skippedLines;
 }
 
-
 ::: bad
 Figure: Bad example of dispose of resources
 
 :::
-
 
 
 
@@ -71,12 +69,10 @@ static int WriteLinesToFile(IEnumerable&lt;string&gt; lines)
    return skippedLines;
 }
 
-
 ::: bad
 Figure: Bad example of dispose of resources 
 
 :::
-
 
 
 
@@ -100,7 +96,6 @@ static int WriteLinesToFile(IEnumerable&lt;string&gt; lines)
     return skippedLines;
    // file is disposed here
 }
-
 
 
 

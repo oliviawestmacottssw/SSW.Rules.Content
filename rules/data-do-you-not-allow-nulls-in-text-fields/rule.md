@@ -32,7 +32,7 @@ What about only allowing empty strings? Well, we choose to block Nulls because i
 
 ::: ok  
 ![Figure: Don't allow Nulls](SqlTableWithNullValue.PNG)  
-:::  
+:::
 
 However, you should always be aware that Nulls and empty strings are totally different, so if you absolutely have to have them, they should be used consistently. In the ANSI SQL-92 standard, an empty string ('') is never equated to Null, because empty string can be significant in certain applications.
 
@@ -51,7 +51,7 @@ For example, you have Address1 and Address2 in your database, a Null value in Ad
 
 ::: ok  
 ![Figure: A check box is required if you want to allow user to use Null value on the UI](NullValueOnUI.jpg)  
-:::  
+:::
 
 Some people are not going to like this rule, but this is how it works in Oracle and Access:
 

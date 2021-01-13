@@ -24,19 +24,19 @@ On our rules web site, one of the pages’ initial loading size of images reduce
 
 ::: bad  
 ![Figure: Bad Example - load all images by default](load-images-1.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Do not load all images by default, only load them when they are visible while scrolling down the browsers](load-images-2.jpg)  
-:::  
+:::
 The page's initial loading size of JS scripts reduced from 2.3MB to 518KB after being applied “lazy loading” of embedded YouTube videos:
 ::: bad  
 ![Figure: Bad Example – load all embedded YouTube videos by default](load-images-3.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Do not load all embedded YouTube videos by default, only load them when they are visible while scrolling down the browsers](load-images-4.jpg)  
-:::  
+:::
 
 To implement lazy loading for image:
 

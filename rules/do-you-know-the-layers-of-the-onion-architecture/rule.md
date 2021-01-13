@@ -19,7 +19,7 @@ redirects: []
 
 ::: ok  
 ![Figure: The layers of the onion architecture](Onion-Architecture.jpg)  
-:::  
+:::
 
 <!--endintro-->
 

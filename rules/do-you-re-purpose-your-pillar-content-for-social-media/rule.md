@@ -67,14 +67,12 @@ This is the content that will be used to create all other types of content. They
 2. Create a Quotable Card with a great background image:
 
 - create a version of the video for Facebook, Twitter, LinkedIn and Instagram
-- write the copy for the update![ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png](ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png)
-
+- write the copy for the update![](ASPNETCORE30_ENDPOINT_AUTHORIZATION_WITCHCRAFT.png)
 ::: good
 Figure: Good example, create a version of the video for Facebook, Twitter, LinkedIn, and Instagram
 
 
 :::
-
 
 
 

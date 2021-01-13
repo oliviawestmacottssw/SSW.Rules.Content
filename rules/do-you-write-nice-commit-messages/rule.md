@@ -23,7 +23,7 @@ Reading ugly commits is not very pleasant and makes it very confusing when you h
 
 ::: bad  
 ![Bad Example: The commits have no meaning](2020-09-17\_17-19-04.png)  
-:::  
+:::
 
 <!--endintro-->
 
@@ -84,7 +84,7 @@ You can even go 🤘 hardcore and use the  **gitmoji cli -** [carloscuesta/gitmo
 
 ::: good  
 ![Good Example: Great use of emoji and concise message](commits-with-emojis.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: see what emojis work best with each topic here: <br>gitmoji.carloscuesta.me/](emojis-list.jpg)  

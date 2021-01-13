@@ -20,21 +20,17 @@ Make sure you created a consistent primary key column named  **Id** on your tabl
 
 Employee.ID, Employee.EmployeeId, Employee.EmployeeID, Employee.Employee\_Code, Employee.Employee
 
-
 ::: bad
 Figure: Bad Example
 
 :::
 
-
 Employee.Id
-
 
 ::: good
 Figure: Good Example
 
 :::
-
 
 ### Why?
 

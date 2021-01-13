@@ -32,11 +32,11 @@ Try to have one issue/PBI/email per bug/suggestion, but if the bugs/suggestions 
 
 ::: bad  
 ![Figure: Bad Example - This email isn't going to help the developer much - it is vague and has no screen capture, and gives no alternate way for the developer to contact the user regarding the issue](do-you-know-the-right-way-to-report-bugs-bad-example.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - This email includes the product name and version, the category of the issue (BUG), a screen capture and contact number, and shows that the user's system is up to date](do-you-know-the-right-way-to-report-bugs-good-example.png)  
-:::  
+:::
 
 
 A great template to follow is the [Functional Bug template](https://github.com/aspnet/Home/wiki/Functional-bug-template) from the ASP.NET open-source project. Spending time to provide as much detail as possible, by ensuring you have the three critical components of: Steps to reproduce, Expected outcome, and Actual outcome, will save the both you and the developer time and frustration in the long run. 
@@ -50,7 +50,6 @@ Also, make sure your descriptions are detailed and useful as that can make findi
 Make sure you always explain and give as many details as you can of how you got an error or a bad experience.
 
 
-
 :::
 
 Hi, Rebecca, 
@@ -59,9 +58,7 @@ Where is SSW TV on the navigation?
 
 - Adam
 
-::: greybox
-Figure: Bad example - Lack of details
-
+::: greyboxFigure: Bad example - Lack of details
 
 :::
 
@@ -90,14 +87,12 @@ Me, thinking... "Ctrl+F for TV? Nope."
 
 Hi, Rebecca,
 
-::: greybox
-Figure: Good example - We can easily identify more the one way to improve the UX
+::: greyboxFigure: Good example - We can easily identify more the one way to improve the UX
 Better than a good description of the bug is a screen recording. This should be followed for a more detailed report. Use [Snagit](http://www.techsmith.com/snagit.html) or [Camtasia](/production-do-you-know-how-to-start-recording-with-camtasia) to record your screen.
 
 
 `youtube: https://www.youtube.com/embed/y9vsGY1hYN0`
  
-
 
 ::: good
 Figure: Good example - Recording bug reports in a video can make the issue clearer to see
@@ -107,18 +102,14 @@ Figure: Good example - Recording bug reports in a video can make the issue clear
 :::
 
 
-
 `youtube: https://www.youtube.com/embed/VDZSfHJ7GNU`
  
-
 
 ::: good
 Figure: Good example - Giving feature requests via video
 
 
 :::
-
-
 
 
 
@@ -134,7 +125,6 @@ For a new feature email:  TO: TechLead@  CC: ProductOwner  Subject:SUGGESTION xx
 Note: There is no use for: sswtimepro@ssw.com.au
 
 :::
-
 
 
 

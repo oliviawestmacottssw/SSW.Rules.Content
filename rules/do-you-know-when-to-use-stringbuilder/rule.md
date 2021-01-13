@@ -24,12 +24,10 @@ for (int i = 0; i &lt; 1000; i ++) {
   s += i;
 }
 
-
 ::: bad
 Figure: Bad example - This inefficient code results in 1000 new String objects being created unnecessarily.
 
 :::
-
 
 
 
@@ -38,11 +36,9 @@ for (int i = 0; i &lt; 1000; i ++) {
   sb.append(i);
 }
 
-
 ::: good
 Figure: Good example - This efficient code only uses one StringBuilder object.
 
 :::
-
 
 [See here](https&#58;//docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder) for more details.

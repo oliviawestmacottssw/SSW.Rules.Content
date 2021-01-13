@@ -31,7 +31,7 @@ This is a popular tool for Angular projects which analyses a webpack stats JSON 
 
 ::: good  
 ![Figure: Good example – use webpack-bundle-analyzer for Angular applications](architecture-good-angular.png)  
-:::  
+:::
 
 ### For React projects sadly webpack-bundle-analyzer is too hacky to get going 
 
@@ -39,7 +39,7 @@ Unfortunately, the create-react-app from version 3 has removed the “--stats" f
 
 ::: bad  
 ![Figure: Bad example – webpack-bundle-analyzer is not user friendly for React applications.](architecture-bad-react.png)  
-:::  
+:::
 
 ### For React projects use source-map-explorer
 
@@ -48,7 +48,7 @@ This tool uses a bundle's generated source map files to analyse the size and com
 
 ::: good  
 ![Figure: Good example – use source-map-explorer on React projects](architecture-good-react.png)  
-:::  
+:::
 
 Screenshots of these diagrams should be included in the project's wiki as per the rule     [Do you make awesome documentation?](/do-you-review-the-documentation)
 

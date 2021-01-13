@@ -23,7 +23,6 @@ MVC gives us great URLs, but you need to help users navigate via the URL.  If th
 <!--endintro-->
 
 
-
 :::
 
 
@@ -44,8 +43,7 @@ public ActionResult Edit(string employeename, int id)
 ```
 
 
-::: greybox
-Figure: Good example - the comment says it all  Wordpress and Stack Overflow have URL formats that do this very well:
+::: greyboxFigure: Good example - the comment says it all  Wordpress and Stack Overflow have URL formats that do this very well:
 
 
 

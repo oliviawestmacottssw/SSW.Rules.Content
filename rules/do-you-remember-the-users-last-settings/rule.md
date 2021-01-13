@@ -18,7 +18,7 @@ The user's last settings should be saved and should be selected as the Default t
 * Login forms - the last login name should be the Default selected and the cursor should be in the password box. <br>      
 ::: bad  
 ![Figure: Bad Example - Last Username is not saved](../../assets/BadFormLogin.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Last Username is saved](../../assets/GoodFormLogin.jpg)  

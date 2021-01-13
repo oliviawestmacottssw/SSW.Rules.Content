@@ -38,7 +38,7 @@ It is a simple 4 step process:
 
 ::: good  
 ![Figure: Good Example - The backlog is constructed during the Spec Review](ProductBacklog.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - CRM Record showing the sales stage of the Opportunity after the Spec Review has been booked](CRMOpportunitySalesStage.jpg)  

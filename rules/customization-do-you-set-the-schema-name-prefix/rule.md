@@ -19,7 +19,7 @@ Note when you do a customization it gives it a prefix with the schema name - in 
 
 ::: ok  
 ![Figure: Set your schema-name prefix to use for custom entities and attributes](CRM\_PrefixSetting.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: customized attributes with the prefix](CRM\_Prefix.jpg)  

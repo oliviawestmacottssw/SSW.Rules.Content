@@ -24,7 +24,7 @@ It is not a nice experience that in 2015 the out-of-the-box requirement is still
 
 ::: bad  
 ![Figure: Bad example - A horrible first experience... did I get the URL wrong? Is the server down?](tfs-url-1.jpg)  
-:::  
+:::
 
 **Note:** The better out-of-the-box experience for Exchange OWA is to type https://mail.ssw.com.au/
 ...and it redirects to     
@@ -34,7 +34,7 @@ So fix the nasty out-of-the-box experience.
 
 ::: ok  
 ![Figure: Option 1 – This is one way. Include some text to tell devs that they can remove the need for /tfs - on the Application Tier page specify port 80 and an empty Virtual Directory](tfs-url-2.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Option 2 – This is another way. In IIS add the redirect to remove the need to type “/tfs”        (recommended)](tfs-url-3.png)  

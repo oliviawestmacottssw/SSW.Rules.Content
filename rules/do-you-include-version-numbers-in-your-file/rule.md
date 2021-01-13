@@ -48,20 +48,15 @@ For example:
 
 
 
-
 ::: greybox
 extreme\_email\_file
 extreme\_email\_new\_file
-extreme\_email\_latest
+extreme\_email\_latest  
 :::
-
-
 
 ::: bad
-Figure: Bad Example - These files do not show any version information.
+Figure: Bad Example - These files do not show any version information.  
 :::
-
-
 
 
 
@@ -70,11 +65,9 @@ Figure: Bad Example - These files do not show any version information.
 Extreme\_Emails\_v1
 Extreme\_Emails\_v2
 CodeAuditor\_Ver1
-CodeAuditor\_Ver2
+CodeAuditor\_Ver2  
 :::
 
-
-
 ::: good
-Figure: Good Example - These files show the version information.
+Figure: Good Example - These files show the version information.  
 :::

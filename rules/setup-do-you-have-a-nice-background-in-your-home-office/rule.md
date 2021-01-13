@@ -32,7 +32,7 @@ If you want to go the extra mile, consider designating one wall as your company 
 
 ::: bad  
 ![Figure: Bad Example – A messy background will not look professional](bad-background.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example – Branded monitor in the background showing off the company website](good-background.png)  

@@ -28,13 +28,13 @@ The process is:
 
 ::: ok  
 ![Figure: Create a Lead, then become familiar with the time saving "Qualify" button](CRM\_ConvertLead.jpg)  
-:::  
+:::
 
 Clicking on the "Qualify" button allows the automatic generation of Accounts, Contacts and Opportunities, and also allows you to check for potential duplicates being created.
 
 ::: ok  
 ![Figure: CRM 2013 also checks for existing records before creating new ones](CRM\_ConvertLeadDialg.jpg)  
-:::  
+:::
 
 This will:
 

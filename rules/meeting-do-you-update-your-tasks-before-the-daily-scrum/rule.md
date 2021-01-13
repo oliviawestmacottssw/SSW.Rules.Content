@@ -19,14 +19,13 @@ All team members must update their tasks with  status, (and remaining hours if y
 
 ::: ok  
 ![Figure: Update the following screen to keep your burndown rate accurate.](Updatetasks.jpg)  
-:::  
+:::
 
 **Related Links** 
 
 
 * [Reports - Do you know which reports are the most important ones to track your progress?](/Pages/TrackProgress.aspx)
 * [Management - Do you have daily stand-up meetings (Scrums)?](/methodology-do-you-do-daily-scrums-aka-stand-up-meetings)
-
 
 
 
@@ -39,7 +38,6 @@ In Scrum, there are 4 meetings in total that you need to know about:
 
 
 :::
-
 
 ### Related Videos
 

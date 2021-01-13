@@ -27,17 +27,14 @@ If you want an easy way to access data in remote or legacy systems, provide one 
 
 ![](BCSBadExample.jpg) 
 
-
 ::: bad
 Use BCS with multiple systems(not working)
 
 :::
 
 
-
 ![](BCSGoodExample.jpg)
 
-
 ::: good
-Use BCS with one system at time
+Use BCS with one system at time  
 :::

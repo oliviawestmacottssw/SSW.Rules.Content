@@ -17,19 +17,19 @@ It is very important to use a clear information icon to show the current status.
 
 ::: bad  
 ![Figure: Bad Example - The icon is not consistent with the actual status](../../assets/wrongIconStatus.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Use spinning icon to show the checking status](../../assets/spinningIconStatus.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Use red cross icon to show the wrong status](../../assets/crossIconStatus.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Use green tick icon to show the correct status](../../assets/tickIconStatus.gif)  
-:::  
+:::
 
 We have another similar rule for Web application - [Do you use icons in web pages to indicate status directly?](http://www.ssw.com.au/ssw/standards/rules/RulesToBetterWebsitesLayout.aspx#StatusIcon)
 

@@ -16,7 +16,7 @@ After upgrading TFS, you should do a quick [smoke test](http://en.wikipedia.org/
 
 <!--endintro-->
 
-![tfs title.png](tfs title.png)
+![](tfs title.png)
 
 **Figure: New TFS Title using our existing url**
 

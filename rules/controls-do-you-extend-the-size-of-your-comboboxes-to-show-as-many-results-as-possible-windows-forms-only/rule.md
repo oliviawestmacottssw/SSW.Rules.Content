@@ -22,11 +22,11 @@ However, you should not extend your ComboBox without limit, normally the maximum
 
 ::: bad  
 ![Figure: Bad Example - You have to scroll to see all the result, and the long results are cut off](../../assets/ComboBox-Size-1.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - The size of the drop down has been extended to allow user to see as much as possible](../../assets/ComboBox-Size-2.jpg)  
-:::  
+:::
 
 Changing the maximum items is easy, just include the following code in your form:
 

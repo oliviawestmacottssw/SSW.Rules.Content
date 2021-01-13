@@ -19,7 +19,7 @@ When a user downloads a file from your site, they should see a progress bar alon
 
 ::: bad  
 ![Figure: Bad example - there is no indication of the total size of the download or                         the percent complete, thus no estimate of how long left](bar-progress-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - percent complete, time left, total size and a progress bar                         are all shown](bar-progress-good.jpg)  

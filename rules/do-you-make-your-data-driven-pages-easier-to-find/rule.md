@@ -24,7 +24,7 @@ Take a look at how we tackle this issue. We have a knowledge base with hundreds 
 
 ::: ok  
 ![Figure: It is hard for search engines to know which option from the drop down field they should go into. Here we add a link to our Knowledge Base Index](kbsearch.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: By default the dynamic pages behind this page would be invisible to Google. You need to provide a link that will make them visible to Google](KbIndex.jpg)  

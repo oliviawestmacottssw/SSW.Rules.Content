@@ -20,21 +20,17 @@ redirects:
 
 What is Slideshare? [Slideshare](http://www.slideshare.net/) is an online archive of presentations and other documents. It is the best way to store your training material for search engines and is easily accessible.
 
-![FodyAsyncErrorHandlerXamarinGoogleSearch.png](FodyAsyncErrorHandlerXamarinGoogleSearch.png)
-
-
-::: good
-Slideshare ranks well in google searches
-:::
-
-
-![FodyAsyncErrorHandlerGoogleImageSearch.png](FodyAsyncErrorHandlerGoogleImageSearch.png)
-
+![](FodyAsyncErrorHandlerXamarinGoogleSearch.png)
 
 ::: good
-Interestingly, keyword heavy slides from your PowerPoint will rank highly on Google Image Search
+Slideshare ranks well in google searches  
 :::
 
+![](FodyAsyncErrorHandlerGoogleImageSearch.png)
+
+::: good
+Interestingly, keyword heavy slides from your PowerPoint will rank highly on Google Image Search  
+:::
 
 Check out the slideshare shown above: '['Supercharging your Xamarin app! 3 must use libraries](http://www.slideshare.net/ChrisBriggsy/supercharging-your-xamarin-app-3-must-use-libraries)"
 
@@ -54,14 +50,12 @@ Follow these steps to ensure you get as much coverage as possible before and aft
 7. Create a "\_OnSlideshare.txt" file with the Slideshare URL and add it to SharePoint on the same folder where the original PPT is
 8. Now you can present!
 ![](slideshareend.jpg)
-
 ::: good
-Figure: the SSW example of a Slideshare link slide
+Figure: the SSW example of a Slideshare link slide  
 :::
 
 
 <font color="#555555"><span style="font-size:11px;line-height:21px;"> <b><img src="YoutubeEmbedSlideShare.png" alt="YoutubeEmbedSlideShare.png" style="margin:5px;"><br></b> </span></font>
-
 
 ::: good
 Figure: If you presentation is being recorded be sure to send yourself a reminder email to embedd the video in to the slideshare.

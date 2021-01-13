@@ -19,7 +19,7 @@ If you want the URL to be shown as often as possible, you can place it in the ti
 
 ::: good  
 ![Figure: Good Example - The company URL appearing in SSW SQL Auditor](../../assets/TitleBarURL.gif)  
-:::  
+:::
 
 Note: Make sure the URL won't take other important information's place.
 

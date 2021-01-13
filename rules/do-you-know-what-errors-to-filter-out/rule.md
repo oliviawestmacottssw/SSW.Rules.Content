@@ -20,13 +20,13 @@ You should always keep on top of your RayGun crashreporting and not let the erro
 
 ::: bad  
 ![Figure: Bad Example – Most of these errors are 404s cause by automated tools scanning for vulnerabilities](raygun-fileter-bad.png)  
-:::  
+:::
 
 Luckily RayGun has built-in filtering to hide these frequent exceptions.
 
 ::: ok  
 ![](raygun-filter.png)  
-:::  
+:::
 
 To enable filtering:
 

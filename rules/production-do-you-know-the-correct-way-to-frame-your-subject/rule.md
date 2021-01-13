@@ -31,11 +31,11 @@ Basic rules to follow include:
 
 ::: bad  
 ![Figure: Bad example – too much dead space, the characters are unevenly placed, there is an uninteresting background, it's side on and the framing is too far out](video-fram-bad-example.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – the rule of thirds followed, mid-shot, interesting background, no dead space, fairly face on, subject placed on the right side because he's looking from right to left (leading room)](video-fram-good-example.jpg)  
-:::  
+:::
 
 When positioning your subjects it is important to remember several factors:
 
@@ -47,25 +47,25 @@ When positioning your subjects it is important to remember several factors:
 
 ::: bad  
 ![Figure: Bad example - Interviewee (left) is facing toward the interviewer (right) too much and the interviewer is faced towards the camera too much](bad-interview-positions.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - position your subjects properly to create an unbiased interview](interview positions.jpg)  
-:::  
+:::
 
 When doing an over the shoulder shot (OTS) for a corporate video, it is generally best to stay at a level height with the subject. Looking up or down at them can create unnecessary meaning in the shot. It is also a good idea to avoid using the wide-angle setting on your camera as it makes the subject seem distant and small in comparison to the person whose shoulder we can see.
 
 ::: bad  
 ![Figure: Bad example – looking down at the subject with a wide-angle lens setting](bad OTS example.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – level height, zoom level not set to wide-angle](Good OTS example.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad example – head not close enough to the top and hand gestures not visible](framing-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – head close to the top and hand gestures visible](framing-good.jpg)  

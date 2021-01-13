@@ -26,7 +26,7 @@ More detailed information about this rule can be found in this article http://ww
 
 ::: ok  
 ![Figure: The "Reset" button isn't useful at all](ResetButton.gif)  
-:::  
+:::
 
 We have a program called        [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor) to check for this rule.
 

@@ -17,7 +17,7 @@ Data in Azure Storage accounts is protected by replication. Deciding how far to 
 
 ::: ok  
 ![Figure: It is important to balance safety and pricing when choosing the right replication strategy for Azure Storage Accounts](azure-graphic.jpg)  
-:::  
+:::
 
 <!--endintro-->
 

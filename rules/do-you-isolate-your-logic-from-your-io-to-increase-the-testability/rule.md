@@ -39,12 +39,10 @@ public static List&lt;string&gt; GetFilesInProject(string projectFile)
  return files;
 }
 
-
 ::: bad
 Bad - The logic and the IO are coded in a same method
 
 :::
-
 
 While this is a small concise and fairly robust piece of code, it still isn't that easy to unit test. Writing a unit test for this would require us to create temporary files on the hard drive, and probably end up requiring more code than the method itself.
 
@@ -77,12 +75,10 @@ public static List&lt;string&gt; GetFilesInProjectByContents(string projectFileC
  return files;
 }
 
-
 ::: good
 Good - The logic is now isolated from the IO
 
 :::
-
 
 The first method (GetFilesInProject) is simple enough that it can remain untested. We do however want to test the second method (GetFilesInProjectByContents). Testing the second method is now too easy:
 
@@ -106,7 +102,6 @@ public void TestVS2005CSProj()
  Assert.AreEqual(true, result.Contains(Path.Combine(baseFolder, "OptionsUI.cs")));
  Assert.AreEqual(true, result.Contains(Path.Combine(baseFolder, "VSAddInMain.cs")));
 }
-
 
 ::: good
 Good - Different test cases and assertions are created to test the logic

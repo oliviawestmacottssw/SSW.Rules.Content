@@ -22,41 +22,29 @@ If you are using a task tracking system like TFS or Jira, always include the rel
 
 <!--endintro-->
 
-
 ::: greybox
 Done 
 
 :::
 
-
-
 ::: bad
-Figure: Bad Example   
+Figure: Bad Example     
 :::
-
-
 
 ::: greybox
-Done - http://jira.ssw.com.au/browse/NET-443
+Done - http://jira.ssw.com.au/browse/NET-443  
 :::
-
-
 
 ::: good
-Figure: Good example 
+Figure: Good example   
 :::
-
-
 
 ::: greybox
-Done - tfs.ssw.com.au/tfs/DefaultCollection/... /\_workitems#12075  
+Done - tfs.ssw.com.au/tfs/DefaultCollection/... /\_workitems#12075    
 :::
-
  
-
 ::: good
-Figure: Good Example (sorry TFS URLs are a little uglier)
+Figure: Good Example (sorry TFS URLs are a little uglier)  
 :::
-
 
 **Video:**  [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https&#58;//www.youtube.com/watch?v=LAqRokqq4jI)

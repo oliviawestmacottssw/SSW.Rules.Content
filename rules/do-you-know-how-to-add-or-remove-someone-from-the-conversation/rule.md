@@ -30,13 +30,13 @@ Be aware that it is easy to over CC people. Try not to CC people without thinkin
 
 ::: good  
 ![Figure: Good Example - Adding someone to an email thread](AddingPersonToCcGoodExample.png)  
-:::  
+:::
 
 If you need to remove someone from the loop, for example to have an internal conversation about an email to a client, put (Removing xxx from the loop) at the top of the email.
 
 ::: good  
 ![Figure: Good Example – Removing someone from an email thread so you can talk about the them in private](RemoveRecipient.jpg)  
-:::  
+:::
 
 You can delete people from an email thread, but what often happens is:
 
@@ -53,6 +53,6 @@ To fix all these issues, instead of deleting people from the email, you:
 
 ::: good  
 ![Figure: Good Example – Moving someone to BCC](move-bcc.jpg)  
-:::  
+:::
 
 **VIDEO**  - [Top 10+ Rules to Better Email Communication with Ulysses Maclaren](https://www.youtube.com/watch?v=LAqRokqq4jI)

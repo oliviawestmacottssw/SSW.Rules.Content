@@ -25,7 +25,7 @@ So try something like "My calendar fills up really quick, how about I pencil you
 
 ::: good  
 ![Figure: Plan ahead at the end of your day eg. "How about we pencil in my next visit, say 2 weeks' time?"](mobile-calendar.jpg)  
-:::  
+:::
 
 **Note:** If, at the end of the day, work hasn't been fully tested or is incomplete and you haven't been booked in for the next day, tell the Product Owner (PO) that issues may arise and further work is likely to be required. After the conversation, email the PO and CC your manager to confirm that further work is required.
 

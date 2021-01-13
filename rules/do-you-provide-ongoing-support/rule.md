@@ -23,7 +23,7 @@ Just like a car, applications need servicing and tuning every now and then to st
 
 ::: ok  
 ![Figure: What happens after the software has been delivered and the development team moves on. The next phase is maintenance](sucessful-project-and-now.jpeg)  
-:::  
+:::
 
 <!--endintro-->
 

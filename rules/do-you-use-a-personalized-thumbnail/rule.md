@@ -41,8 +41,7 @@ YouTube offers [resources to create better custom thumbnails](https://support.go
 
 ::: ok  
 ![](thumbnail\_bad.png)  
-:::  
-
+:::
 
 ::: bad
 Bad example: despite looking "trustworthy", a thumbnail automatically generated from the video is not engaging enough.
@@ -51,16 +50,13 @@ Bad example: despite looking "trustworthy", a thumbnail automatically generated 
 
 
 
-
 ::: ok  
 ![](thumbnail\_good.png)  
-:::  
-
-
-::: good
-Good example: a custom thumbnail looks professional and already gives important information about the content of the video.
 :::
 
+::: good
+Good example: a custom thumbnail looks professional and already gives important information about the content of the video.  
+:::
 
  **Images** 
 ).[source](https://backlinko.com/grow-youtube-channel): courtesy of Brian Dean (

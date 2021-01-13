@@ -24,12 +24,10 @@ In many cases, there are legal requirements to audit all updates to financial re
 
 
 
-
 ::: good
 Pros:
 
 :::
-
 
 
 
@@ -41,12 +39,10 @@ Pros:
 
 
 
-
 ::: bad
 Cons:
 
 :::
-
 
 
 

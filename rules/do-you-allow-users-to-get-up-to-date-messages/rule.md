@@ -28,7 +28,7 @@ Eg. Sometimes customers are just not aware that their TFS or CRM installation is
 
 ::: bad  
 ![Figure: Bad example](uptodate-message-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example](uptodate-message-good.jpg)  

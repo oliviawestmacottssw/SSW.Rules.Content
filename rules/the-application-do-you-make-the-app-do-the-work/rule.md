@@ -21,18 +21,18 @@ Application upgrade might not only include the .exe and .dll but the database ch
 
 ::: bad  
 ![Dear Mr Northwind,   Before installing your application, you need to  run this script by  first opening up SQL Management Studio.  Open the attached script, point it to Northwind and  execute the script.   Let me know if you have any issues...  We worked very hard on this release.   I hope you’re happy with it.   Regards,  Eric Phan            Figure: Bad example - run SQL scripts manually](UsingSQLDeployControl.png)  
-:::  
+:::
 
 ::: ok  
 ![Hi Mr. Northwind,   Please run the attached Northwind\_v5.exe.   Click Run when the prompt appears.   Regards, Eric Phan            Figure: Better example - run SQL scripts using another package](UsingSQLDeployControl.png)  
-:::  
+:::
 
 ::: ok  
 ![Dear Mr Northwind,   When you run the Northwind v1.0 (Rich Client) it will  automatically upgrade the database for you.   Just make sure you have dbo permissions:  Let me know if you run into any issues,  otherwise have a great day.   Regards,  Eric Phan           Figure: Best example - run SQL scripts in the application](UsingSQLDeployControl.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Deploy SQL scripts by the application itself](UsingSQLDeployControl.png)  
-:::  
+:::
 
  We have a tool called [SQL Deploy](http://www.ssw.com.au/ssw/SQLDeploy) can do this.

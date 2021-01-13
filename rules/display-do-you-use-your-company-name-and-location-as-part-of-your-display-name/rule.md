@@ -16,7 +16,7 @@ redirects:
 
 ::: good  
 ![Figure: Display your company name and location](display-your-company-name.jpg)  
-:::  
+:::
 
 Using your company name as part of your Display Name has the double advantage of firstly branding, and secondly, indicating to other parties that your IM account is for work purposes.
 

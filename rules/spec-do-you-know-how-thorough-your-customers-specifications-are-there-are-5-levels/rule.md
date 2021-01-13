@@ -33,11 +33,9 @@ verify they have a really hefty bank account!
 
 ### 2. High-Level Requirements Document
 
-
 ::: greybox
-This will read like a wish list with no details and many unanswered questions
+This will read like a wish list with no details and many unanswered questions  
 :::
-
  **Figure: High-Level Requirements are very vague and open to many interpretations** 
 ### 3. Detailed Requirements Document
 

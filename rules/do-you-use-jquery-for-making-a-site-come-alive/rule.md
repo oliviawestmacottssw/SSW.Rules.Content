@@ -18,11 +18,11 @@ To please customers every business knows they need to keep their services and of
 
 ::: bad  
 ![Figure: Bad example – there is no response when mouse is over the image](OldFashionSite.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – apply the different style when mouse is over](NewFashionSite.jpg)  
-:::  
+:::
 
 
 ```

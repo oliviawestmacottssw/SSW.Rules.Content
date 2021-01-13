@@ -20,7 +20,7 @@ Visual Studio 2015/2017 allows you to view your Application Insights data using 
 
 ::: ok  
 ![Figure: See live data from production servers using CodeLens](use-codelens-1.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Drill into request details right inside Visual Studio](use-codelens-2.jpg)  

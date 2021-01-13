@@ -33,11 +33,11 @@ Check your PBI against your <br>      [Definition of Ready](/have-a-definition-o
 
 ::: bad  
 ![Figure: Adding a new "Test" state. This is only visible in the Product Backlog and not the Sprint Backlog](KB-customize-board-columns.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Testing Task added to PBI. This is the board the team will use for 90% of the Sprint, so testing should be clearly visible here](Testing-task.png)  
-:::  
+:::
 
 ### 2. Code
 

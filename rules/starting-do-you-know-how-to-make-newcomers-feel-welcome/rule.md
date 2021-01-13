@@ -26,7 +26,7 @@ There are few simple ways to help new hires feel more comfortable as they adjust
 
 Prior to the newcomer’s arrival, make sure their desk and work area are clean by giving the desktop, monitor, mouse and keyboard a wipe with a damp cloth. Then test that the equipment on their desk, such as the computer, phone and any other electronics, is in good working condition.
 
-![Welcome-Shot.jpg](Welcome-Shot.jpg)
+![](Welcome-Shot.jpg)
 
 **The day before they start:**
 
@@ -45,14 +45,12 @@ Other nice day 1 gifts could include:
 * Use a blank notebook to write a welcome note and put handy hints inside, then they can continue to use the notepad during induction!
 
 
-![Penny Welcome Pic.jpg](Penny Welcome Pic.jpg)
-
+![](Penny Welcome Pic.jpg)
 ::: good
 Good example: Personal, fun welcome to SSW Sydney with all of the good food and coffee tips!
 
 
 :::
-
 
 
 It’s also a nice idea to take the newbie out to lunch on their first day so they can get to know their co-workers outside of the office. NB: check if they have any special dietary requirements.

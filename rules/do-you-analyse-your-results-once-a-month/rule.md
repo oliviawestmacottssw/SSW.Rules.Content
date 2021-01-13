@@ -34,7 +34,7 @@ During this meeting, you can discuss:    * Marketing activities you worked on
 
 ::: bad  
 ![Bad Example - Figure: tracking just a few information won't help you see the big picture](marketing overview old.png)  
-:::  
+:::
 
 ::: good  
 ![Good Example - Figure: tracking all your marketing efforts will help you see where you can improve and what you are already on the right track](Screen Shot 2020-05-01 at 4.17.26 pm.png)  

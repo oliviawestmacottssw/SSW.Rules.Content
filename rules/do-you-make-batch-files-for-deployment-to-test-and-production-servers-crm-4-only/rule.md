@@ -29,7 +29,6 @@ How should developers work?
 
 Create a Deployment.bat like this
 
-
 ::: greybox
 
 
@@ -55,7 +54,6 @@ REM (deploy the callouts - Part 1)
 
 
 :::
-
 
 Deploy to Test Server
 

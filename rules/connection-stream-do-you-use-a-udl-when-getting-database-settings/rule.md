@@ -17,19 +17,19 @@ Why do people always invent ways of getting the same old server name and a datab
 
 ::: bad  
 ![Figure: Bad Example - Custom database connection screen in Speed Ferret](../../assets/CustomDatabaseConnectionScreen.jpg)  
-:::  
+:::
 
 While a nice form, it would have taken quite some developer time to get it right. Not only that, it is a little bit different than what a user has seen before. Now look at this UDL from one of our utilities [SSW SQL Auditor](https://www.ssw.com.au/ssw/SQLAuditor/):
 
 ::: good  
 ![Figure: Good Example - Standard Microsoft UDL dialog](../../assets/StandardMSUDLDialog.jpg)  
-:::  
+:::
 
 Every developer has seen this before - so use it. Better still, it is only a few lines of code: [B-Open UDL Dialog-DH.txt](https://gist.github.com/SSWConsulting/60cce3f7a65665d7dae2#file-b-open-udl-dialog-dh) 
 
 ::: ok  
 ![Figure: Coming in Visual Studio .NET 2005 Microsoft are yet to release an API to do this](../../assets/ReleaseAPI.jpg)  
-:::  
+:::
 
 [Need extra information?](https://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/MSForm.aspx#InvokingOLEBDataLinkPropertiesDialog)
 

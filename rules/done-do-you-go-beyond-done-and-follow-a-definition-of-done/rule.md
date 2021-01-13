@@ -89,7 +89,7 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 
 ::: good  
 ![Figure: Good example - Add check in policies to enforce your Definition of Done](level-3-done.jpg)  
-:::  
+:::
 
 ## Team - Level 4
 
@@ -102,25 +102,23 @@ TFS Check in Policy - Change set Comments Policy (all check-ins must have a comm
 
 ::: good  
 ![Figure: Organize tests in suites with built-in E2E traceability across requirements, test artifacts and defects](level-3-done.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Use the client, Microsoft Test Manager, to run tests and not just capture the pass/fail of steps, comments/attachments and bugs, but also capture diagnostic data during execution, such as screen recording, system info, image action log etc](level-3-done.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Explore your web applications, find and submit bugs directly from your Chrome browser – no need for predefined test cases or test steps](level-3-done.jpg)  
-:::  
+:::
 
 
 `youtube: https://www.youtube.com/embed/JJCgP7XcpNA`
  
 
-
 ::: good
-Figure: Good example - Done video showing the features worked on
+Figure: Good example - Done video showing the features worked on  
 :::
-
 
 ## Team - Level 5
 
@@ -138,7 +136,7 @@ Figure: Good example - Done video showing the features worked on
 
 ::: good  
 ![Figure: Good example - A tester Lab Management to create VMs for testing the application, then defines a test plan for that application with Test Case Management](level-3-done.jpg)  
-:::  
+:::
 
 ## Team - Level 7
 
@@ -149,7 +147,7 @@ Figure: Good example - Done video showing the features worked on
 
 ::: good  
 ![Figure: Good example - Load testing involves multiple test agents running Web Performance Tests and pounding the application (simulating the behavior of many simultaneous users)](level-3-done.jpg)  
-:::  
+:::
 
 ## Team - Level 8 (Gold)
 

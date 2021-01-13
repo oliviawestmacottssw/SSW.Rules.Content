@@ -23,14 +23,11 @@ As per:  [Strings](http&#58;//msdn.microsoft.com/en-us/library/c84eby0h%28v=vs.
 
 string p2 = "\\My Documents\\My Files\\";
 
-
 ::: bad
-Figure: Bad example - Using "\\"
+Figure: Bad example - Using "\\"  
 :::
 
-
 string p2 = @"\My Documents\My Files\";
-
 
 ::: good
 Figure: Good example - Using @

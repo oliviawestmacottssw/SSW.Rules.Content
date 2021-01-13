@@ -21,6 +21,6 @@ The more secure message should be 'Invalid email or       password'.
 
 ::: good  
 ![Figure: Good example - for security reasons, you don't say if it was an invalid user name or password.](../../assets/GoodLoginError.gif)  
-:::  
+:::
 
 See     [Login.aspx](http://www.ssw.com.au/ssw/shop/Login.aspx) for a real example.

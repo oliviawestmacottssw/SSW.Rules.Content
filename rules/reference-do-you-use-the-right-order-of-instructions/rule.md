@@ -25,28 +25,21 @@ When writing the instructions for a series of operations, be sure you keep the o
 
 <!--endintro-->
 
-
 ::: greybox
-Select Options from the Tools Menu.
+Select Options from the Tools Menu.  
 :::
-
-
 
 
 ::: bad
-Figure: Bad Example - These instructions are in reverse and needs to be processed by the user.
+Figure: Bad Example - These instructions are in reverse and needs to be processed by the user.  
 :::
-
-
 
 
 
 ::: greybox
-Select Tools | Options
+Select Tools | Options  
 :::
 
-
-
 ::: good
-Figure: Good Example - These instructions are in order and do not require any effort from the user.
+Figure: Good Example - These instructions are in order and do not require any effort from the user.  
 :::

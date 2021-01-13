@@ -21,14 +21,14 @@ The simplest way is to add a procValidate (Stored Procedure) to check that all t
 
 ::: ok  
 ![Figure: procValidates are just like a nagging wife](NaggingWife.gif)  
-:::  
+:::
 
  Let's look at an example, of a combo that is populated with Controlled Lookup data (just 4 records)    
 <!--endintro-->
 
 ::: ok  
 ![Figure: How do I make sure these 4 records never go missing?](TimeProDropDown.png)  
-:::  
+:::
 <font class="ms-rteCustom-CodeArea">    <pre>CREATE PROCEDURE procValidate_Region 
 AS
 

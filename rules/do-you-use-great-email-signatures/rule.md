@@ -47,12 +47,9 @@ Mobile signature are not easily customized so they can be simpler.
 
 Use the "mobile signature" when sending emails from your phone.
 
-
 ::: greybox
-Get Outlook for Android
+Get Outlook for Android  
 :::
-
-
 
 ::: bad
 Figure: Bad example - This default signature sucks
@@ -60,20 +57,15 @@ Figure: Bad example - This default signature sucks
 
 :::
 
-
-
 ::: greybox
 Thanks, Adam
-www.ssw.com.au  | +61 4 1985 1995
+www.ssw.com.au  | +61 4 1985 1995  
 :::
-
-
 
 ::: good
 Figure: Good example – Add your name, URL and your phone number
 
 :::
-
 
 ### PC Long Signature
 
@@ -83,7 +75,7 @@ This is created in HTML and goes well on emails with Word used as the email edit
 
 ::: ok  
 ![Figure: A great long signature for PC](outlook-signature.png)  
-:::  
+:::
 However, you shouldn't use your long signature on <br>    **every** sent email. It's recommended to have a simpler version for internal emails and appointments:
 ### PC Short Signature
 
@@ -105,7 +97,7 @@ Use a really short signature (your first name or initials) or no signature at al
 
 ::: ok  
 ![Figure: How to add a signature in Outlook](../../assets/Outlook2013\_signature.jpg)  
-:::  
+:::
 
 **How to set it up in OWA**
 
@@ -116,7 +108,7 @@ Use a really short signature (your first name or initials) or no signature at al
 
 ::: ok  
 ![Figure: Add your 'Email Signature' and save](owa-signatures.png)  
-:::  
+:::
 
 **How to set it up in Office 365**
 

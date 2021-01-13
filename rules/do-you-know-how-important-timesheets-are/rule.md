@@ -23,7 +23,7 @@ Timesheets should be right near the top of your priorities: #2 on [Do you get yo
 
 ::: ok  
 ![Figure: You should be filling out a timesheet for every day you work](enter-your-timesheets.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Timesheets come first, always!](Bucket-list.jpg)  

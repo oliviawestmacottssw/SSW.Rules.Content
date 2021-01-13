@@ -25,7 +25,7 @@ From           [Adam Cogan's blog](http://www.adamcogan.com/2012/11/18/microsoft
 
 ::: good  
 ![Figure: Good example – TFSPreview.com adopts the Metro style](../../assets/Metro-Good.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – SSW TIMEPRO has been Metro influenced](../../assets/Metro-Good2.jpg)  

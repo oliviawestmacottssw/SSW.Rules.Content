@@ -22,7 +22,7 @@ redirects: []
 
 ::: good  
 ![](CodeAuditorProjectFile.gif)  
-:::  
+:::
 
 To add a [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Default.aspx) file to your solution:
 

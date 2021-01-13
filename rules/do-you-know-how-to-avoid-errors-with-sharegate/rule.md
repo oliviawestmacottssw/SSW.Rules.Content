@@ -38,7 +38,7 @@ Copying the content to a MicroFeed list is not supported.
 
 ::: ok  
 ![Figure: errors due to micro feed migration](errors-micro-feed-migration.png)  
-:::  
+:::
 
 ### Lookup fields
 

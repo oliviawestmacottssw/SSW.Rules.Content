@@ -32,7 +32,7 @@ Here are reasons why WiX is the way to go:
 
 ::: good  
 ![Figure: Good Example - WiX Installer for Code Auditor](setup-packages-tool.jpg)  
-:::  
+:::
 
 But WiX has one bad side as well – learning curve is high. Not everyone can afford learning it. The alternative is Advanced Installer.
 

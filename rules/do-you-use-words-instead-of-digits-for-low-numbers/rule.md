@@ -17,54 +17,39 @@ Whenever writing numbers for a web audience, it's generally a good idea to use n
 For example: 
 <!--endintro-->
 
-
 ::: greybox
-There are seventy three good reasons to do this.
+There are seventy three good reasons to do this.  
 :::
-
-
 
 ::: bad
-Figure: Bad Example - The number is spelled out.
+Figure: Bad Example - The number is spelled out.  
 :::
-
-
 
 ::: greybox
-There are 73 good reasons to do this.
+There are 73 good reasons to do this.  
 :::
-
-
 
 
 ::: good
-Figure: Good Example - This is easy to read and more noticeable
+Figure: Good Example - This is easy to read and more noticeable  
 :::
-
 
 
 
 The exception is generally very small numbers (one and two) which are normally spelled out.
 
-
 ::: greybox
-2 heads are better than 1.
+2 heads are better than 1.  
 :::
-
-
 
 ::: bad
-Figure: Bad Example - Numerals used
+Figure: Bad Example - Numerals used  
 :::
-
-
 
 ::: greybox
-Two heads are better than one
+Two heads are better than one  
 :::
 
-
-
 ::: good
-Figure: Good Example - Numbers are spelled out
+Figure: Good Example - Numbers are spelled out  
 :::

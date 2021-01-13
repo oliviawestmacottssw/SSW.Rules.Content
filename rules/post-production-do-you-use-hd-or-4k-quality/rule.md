@@ -40,11 +40,11 @@ After your videos recorded and edited using your editor of choice, you need to c
 
 ::: ok  
 ![Figure: Figure: Video Export settings in Premiere Pro](export-premiere1.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Audio Export settings in Premiere Pro](export-premiere2.png)  
-:::  
+:::
 
 ### Export Settings for Camtasia
 

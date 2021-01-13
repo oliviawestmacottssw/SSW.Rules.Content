@@ -23,7 +23,7 @@ redirects: []
 
 ::: ok  
 ![Note: This rule applies to git. For branching advice in TFVC, see Do you know when to branch in TFVC?](finishing-a-feature-with-world-class-flow.jpg)  
-:::  
+:::
 
 The best way to handle continuous development and deployment is following [GitHub Flow](https://guides.github.com/introduction/flow/). The basic idea is to always deploy from  **master** , and to create a feature branch for every feature. When the feature is complete, it is merged back to master via a pull request, which provides a trigger for other developers to build.
 
@@ -39,15 +39,15 @@ Using this strategy,  **master** is always production-ready and deployable.
 
 ::: bad  
 ![Figure: Bad example - Committing to master](commit-master-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Committing to a new branch](commit-branch-good.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Great diagram from        GitHub](github-flow.jpg)  
-:::  
+:::
 
 ### The process
 
@@ -67,11 +67,11 @@ When starting a PBI from the task board, create a branch from      **master** wi
 
 ::: bad  
 ![Figure: Bad example - Branch name is not descriptive](BadBranchName.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Branch name describes the intent of the change](GoodBranchName.png)  
-:::  
+:::
 
 **It is critical that this branch always comes off master, not another feature branch. Master is the only branch that is mandated to be in a deployable state, so any other option is unsafe.**
 
@@ -87,11 +87,11 @@ While working, commit frequently to this branch with nice, descriptive messages.
 
 ::: bad  
 ![Figure: Bad Example - Commit message does not describe what was changed](BadCommitMessage.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Commit message describes exactly what was changed.](GoodCommitMessage.png)  
-:::  
+:::
 
 **d) Push your changes to your remote Feature Branch**
 
@@ -102,12 +102,10 @@ When the change is complete, or when you want feedback on anything, open a pull 
 
 Tip: A best practice is to have another developer review your work and then approve.
 
-
 ::: greybox
 It is easy to chalk this step up as busy-work, but it is one of the most valuable parts of the strategy
 
 :::
-
 
 ### #assumption
 
@@ -123,11 +121,10 @@ Once everyone is happy and everything is tested, complete the pull request, whic
 
 ::: good  
 ![Figure: Good Example - Each change is well described, small and in its own feature branch.](GoodGitHistory.png)  
-:::  
+:::
 
 After you completed the pull request, make sure you also delete the branch     that you made the pull request of. Deleting your completed branch will not just help yourself in the long run, but also everyone else. Having too many branches especially a stale one will confuse developers on what "may" be in progress, moreover it would cause so much pain to the future developer when they have to do a clean-up and the branch author has left.
-![bad-figure-stale-branches2.png](bad-figure-stale-branches2.png)
-
+![](bad-figure-stale-branches2.png)
 :::
 
 Figure: Bad Example - Lots of stale branches that could cause confusion or potentially take a long time to resolve conflicts when merging
@@ -136,26 +133,20 @@ Figure: Bad Example - Lots of stale branches that could cause confusion or poten
 
 
 
-
 Otherwise, you can do it before you complete the pull request by ticking     delete branch option.
-![delete branch in devops.png](delete branch in devops.png)
-
+![](delete branch in devops.png)
 :::
 
 Figure: Good Example - Automatically delete the branch after the pull         request completion in Azure Devops
 ::: good
 
 
-
-![github settings.png](github settings.png)
-
+![](github settings.png)
 :::
 
 Figure: Good Example - Set the whole project to auto-delete branch after         merging in GitHub
 ::: good
 
-
-
 ::: greybox
-Once merged,      **master** should immediately and automatically be deployed (in a perfect world, to production).
+Once merged,      **master** should immediately and automatically be deployed (in a perfect world, to production).  
 :::

@@ -21,13 +21,13 @@ Whenever we setup a new Team Project we implement a basic version control struct
 
 ::: bad  
 ![Figure: Bad Example, how would anyone know how to sort this mess out?](MessySolution.jpg)  
-:::  
+:::
 
 <!--endintro-->
 
 ::: good  
 ![Figure: Good Example, The ideal solution.](IdealSolution.jpg)  
-:::  
+:::
 
 For more implementation details see:     
 [http://blog.hinshelwood.com/archive/2010/05/17/guidance-how-to-layout-you-files-for-an-ideal-solution.aspx](http://www.ssw.com.au/ssw/redirect/LayoutSolution.htm)

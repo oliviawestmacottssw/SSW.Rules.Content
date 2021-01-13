@@ -30,13 +30,10 @@ On your timesheet entries, there are a few rules you should follow on how to bes
                         The word 'bug' gives the impression that the problem was solely the developer's fault, when often most fixes are to do with changes as a result of unspecified work (extra validation, extra testing or gold plating).
 
 Figure: Bad example
-
 :::
 'Fixed Bug on customer form'
 ::: greybox
-
 Figure: Good example
-
 :::
 'Investigated and improved the  validation on customer form to enable saving when Customer name is &gt; 100 characters'
 ::: greybox
@@ -59,10 +56,8 @@ If you are writing stored procs, write down their names.
 'Apply changes as per Tony's request for FRDCAPP'Figure: This is an example of a bad timesheet note
 **<font color="#555555"></font>**
 'CaterPRO! Version 8.3Attempt to run CaterPRO! In the old Windows 7 with AlanFix to DiaryTemplate UpdatesFixed Function Counts (was doublecounting)Fixed Sales Reports (Sales Dashboard). It now reconciles correctly with Food Sales Summary.
-
 ::: good
-Figure: This is an example of a good timesheet note
+Figure: This is an example of a good timesheet note  
 :::
-
 
 **<font color="#555555" style="background-color&#58;#f5f5f5;"></font>**

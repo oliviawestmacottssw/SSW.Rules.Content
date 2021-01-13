@@ -22,7 +22,7 @@ Azure defines [naming rules and restrictions for Azure resources](https://docs.m
 
 ::: bad  
 ![Bad Example: This is using a mixture of upper case and lower case letters, plus specifying the resource type](bad-azure-naming.png)  
-:::  
+:::
 
 ::: good  
 ![Good Example:  Use lowercase letters and ”-”](good-azure-naming.png)  

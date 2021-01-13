@@ -20,9 +20,9 @@ Using instant messengering applications is all about communication. If something
 
 ::: bad  
 ![Figure: Bad example - To contact this person via the phone I will have to ask them for their number](Bad-Example-no-number.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - People are showing their phone numbers to allow urgent issues to be resolved](Good-Example-numbers-listed.jpg)  
-:::  
+:::
 **Note** : Before you make phone calls, see our [Do you prepare, then confirm conversations/decisions?](/do-you-prepare-then-confirm-conversations-decisions)

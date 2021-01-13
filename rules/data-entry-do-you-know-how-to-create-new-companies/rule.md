@@ -27,7 +27,7 @@ Although you can create a Contact first, it's better to always create the Compan
 
 ::: good  
 ![Figure: In MS CRM 2013, click on Sales | Accounts](Sales-Accounts.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Click New, enter the required fields, and save and close](NewAccount.jpg)  

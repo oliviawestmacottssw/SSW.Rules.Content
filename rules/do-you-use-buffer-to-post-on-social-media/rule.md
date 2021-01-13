@@ -27,23 +27,19 @@ You can either visit the [Buffer web app](https://buffer.com/) in your browser  
 
 ::: ok  
 ![Figure: to use the Buffer app from your browser, simply click the symbol](buffer\_tool.jpg)  
-:::  
+:::
 ![](Buffer example.jpg)Figure: You can select as many Social Media accounts as required and post to each platform at once using Buffer. You can also use the "Customize for each network" button to modify the content for each platform before you post it
 
 The content of your posts should be consistent across accounts. When making a post that exceeds the character limit of a site such as Twitter, you should write a separate, shorter version of the post to send to that site only. You can also use the "Customize for each network" button on Buffer to modify the content to better suit the platform for each post. This means that you could write the content for a Tweet and then modify it to remove things like #Hashtags to post it to LinkedIn where they don't make sense.
-![Tweet example.jpg](Tweet example.jpg)
-
+![](Tweet example.jpg)
 ::: bad
-Figure: Bad example - only Tweeting using Twitter alone and not using a scheduler to post across the different media platforms at once. This is time consuming!
+Figure: Bad example - only Tweeting using Twitter alone and not using a scheduler to post across the different media platforms at once. This is time consuming!  
 :::
-
-![Buffer2.jpg](Buffer2.jpg)
-
+![](Buffer2.jpg)
 ::: good
 Figure: Good example - posting using Buffer to modify your content between platforms - much faster than posting individually to each platform every time 
 
 :::
-
 
 **
 **

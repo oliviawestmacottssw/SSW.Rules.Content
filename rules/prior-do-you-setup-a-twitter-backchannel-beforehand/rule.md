@@ -16,7 +16,7 @@ Create a hashtag for your presentation prior to the presentation and display it 
 
 ::: ok  
 ![Figure: A Twitter hashtag allows the attendees to have a backchannel that can be used to talk about your presentation, during your presentation](PPTwit.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: (optional) Midway through the presentation have a slide where you say "Let's see if any questions have arisen"](PPTwit2.jpg)  

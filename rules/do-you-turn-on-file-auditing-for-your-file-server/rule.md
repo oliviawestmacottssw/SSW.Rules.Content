@@ -33,7 +33,7 @@ To get to this setting, you need to:
 
 ::: good  
 ![Figure: Good Example - Auditing Successes and Failures in your file shares](auditing-success-and-fail.png)  
-:::  
+:::
 
 After that, your server will start logging audit events in the Event Viewer. To filter relevant events, do the following:
 

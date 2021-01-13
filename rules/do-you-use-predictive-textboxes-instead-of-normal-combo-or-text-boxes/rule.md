@@ -21,15 +21,15 @@ Also, predictive textboxes can be used with validation, or without. In instances
 
 ::: bad  
 ![Figure: Bad Example - Using a Textbox and Combo to enter list data](PredTextBad.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Predictive-Text combo with Type Ahead](TypeAhead.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Predictive-Text combo with and without validation](PredTextValidation.gif)  
-:::  
+:::
 
 To see this in action [try our Predictive-Text Combos demo](https://www.ssw.com.au/Demos/PredictiveTextCombo/).
 

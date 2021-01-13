@@ -22,11 +22,11 @@ The title should contain the application name, so the user knows what applicatio
 
 ::: bad  
 ![Figure: Bad Example - Title contains brief description of error, which is already contained in the message box](../../assets/BadMsgTitle.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Title contains Product Name ("SSW eXtreme Emails!") and Product Version ("12.56")](../../assets/GoodMsgTitle.jpg)  
-:::  
+:::
 
 We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#TitleCS) to check for this rule.
 

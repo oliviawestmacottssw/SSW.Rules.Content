@@ -36,7 +36,6 @@ So to ensure the migration process did not miss any items, ensure nobody modifie
 
     * Redo their modification in your new Cloud intranet (likely)
     * Confirm that the modification is not important and does not require manual migration (less likely)
-
 ::: greybox
 Hey xxx,
 
@@ -48,14 +47,14 @@ Could you please:
 Please note that these changes will be lost as part of the old SharePoint server decommission. If the changes are important, please redo the modifications on the new Online Intranet.
 Regards,
 
--SharePoint Admin Team
+-SharePoint Admin Team  
 :::
 
     After you export to Excel, follow this example:
 
 ::: ok  
 ![Figure: Modifications are done on the old SharePoint intranet during the migration process (hence not migrated to the cloud)](old-sharepoint-modification.jpg)  
-:::  
+:::
     **Green:** non-important data (automated logging info) - ignore
     **Orange:** potentially important data (user made changes) – ask the user
     **Red:**  critical data (invoices !) – Migrate these documents

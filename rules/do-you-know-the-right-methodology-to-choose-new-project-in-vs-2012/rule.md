@@ -24,11 +24,10 @@ Choosing the right template to fit into your environment is very important.
 
 ::: ok  
 ![Figure: Built-in Process Templates in Visual Studio 2012 with TFS 2012](VSTS2010ProcessTemplates.jpg)  
-:::  
+:::
 
 It is recommended to use the top option, the Scrum one. If you think the built-in template is not going to fulfil your needs, customize it and create your own.
 
-
 ::: greybox
-If you want help customising your own Process Template, call a TFS guru at SSW on +61 2 9953 3000.
+If you want help customising your own Process Template, call a TFS guru at SSW on +61 2 9953 3000.  
 :::

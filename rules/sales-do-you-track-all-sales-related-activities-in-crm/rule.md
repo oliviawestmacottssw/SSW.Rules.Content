@@ -41,7 +41,7 @@ All sales activities should be tracked via CRM as an opportunity, company or con
 
 ::: ok  
 ![](Track-an-appointment.jpg)  
-:::  
+:::
  **Figure: This email should be tracked in CRM using the Add-in "Track without regarding"
 ** 
 By recording these activities, reports can be created to view:
@@ -54,7 +54,7 @@ By recording these activities, reports can be created to view:
 
 ::: ok  
 ![Figure: Activities Report - Ulysses was the hardest worker for this month. Print this and put it on the wall and it will encourage everyone to log their calls](TrackingGraph.jpg)  
-:::  
+:::
 
 **Note:** You can see more details on what emails to track in [Do you know to hit 'Track' when you receive an important email?](/Pages/Hit-Track-in-CRM-when-you-receive-an-important-email.aspx)
 

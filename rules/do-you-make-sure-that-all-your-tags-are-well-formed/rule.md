@@ -18,16 +18,13 @@ Do you know how to form HTML/XML tags on webpages?
 <!--endintro-->
 
 
-
 ::: greybox
 &lt;div&gt;   
  &lt;p&gt;Hello HTML&lt;/p&gt;   
  &lt;/div&gt; 
 
 :::
-
 Figure: Good Example
-
 
 
 ::: greybox
@@ -38,11 +35,9 @@ Figure: Good Example
 <br>&lt;description&gt;two eggs&lt;/description&gt;<br>
 <br>&lt;calories&gt;950&lt;/calories&gt;<br>
 <br>&lt;/food&gt;
-<br>&lt;/breakfast\_menu&gt;
+<br>&lt;/breakfast\_menu&gt;  
 :::
-
 Figure: Good Example
-
 
 ::: greybox
 &lt;div&gt;   
@@ -50,9 +45,7 @@ Figure: Good Example
 <br>&lt;/div&gt;<br>
 
 :::
-
 Figure: Bad Example
-
 
 ::: greybox
 &lt;breakfast\_menu&gt;<br>
@@ -62,7 +55,6 @@ Figure: Bad Example
 <br>&lt;description&gt;two eggs<br>
 <br>&lt;calories&gt;950<br>
 <br>&lt;/food&gt;
-<br>&lt;/breakfast\_menu&gt;
+<br>&lt;/breakfast\_menu&gt;  
 :::
-
 Figure: Bad Example

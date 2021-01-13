@@ -27,7 +27,6 @@ This basically forces developers to explicitly enable inheritance in nested virt
 <!--endintro-->
 
 
-
 :::
 
 
@@ -47,9 +46,7 @@ This basically forces developers to explicitly enable inheritance in nested virt
 ```
 
 
-::: greybox
-Figure: Bad example
-
+::: greyboxFigure: Bad example
 
 :::
 
@@ -71,5 +68,4 @@ Figure: Bad example
 ```
 
 
-::: greybox
-Figure: Good example
+::: greyboxFigure: Good example

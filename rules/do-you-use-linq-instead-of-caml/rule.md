@@ -41,17 +41,14 @@ query.Query= String.Format(“<br>
 &lt;/OrderBy&gt;”, _filter);<br>
 SPListItemCollectionlistItemsColl= resourceList.GetItems(query);</font>
 
-
 ::: bad
-Figure: Bad example – using CAML
+Figure: Bad example – using CAML  
 :::
-
 <font class="ms-rteCustom-CodeArea">Var resourceListItems =<br>
 From SPListItem item in resourceList.Items<br>
 Where item.Tags.ToString().ToLower().Contains(_filter)<br>
 &amp;&amp; item.URL.ToString().Length&gt; 0<br>
 OrderBy item.PostedOn Ascending</font>  
-
 ::: good
-Figure: Good example – using LINQ
+Figure: Good example – using LINQ  
 :::

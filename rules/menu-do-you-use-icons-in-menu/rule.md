@@ -16,13 +16,13 @@ Plain menu items make your application look normal and less expressive.
 
 ::: bad  
 ![Figure: Bad Example - Plain menu](../../assets/BetterUI\_PlainMenu.gif)  
-:::  
+:::
 
 While icons can make your application look good.
 
 ::: good  
 ![Figure: Good Example - Menu with icons](../../assets/BetterUI\_MenuStrip.gif)  
-:::  
+:::
 
 # More information
 

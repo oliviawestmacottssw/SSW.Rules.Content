@@ -30,7 +30,7 @@ If your Max CPC is too low compared to competitor ads you may be missing out on 
 
 ::: ok  
 ![Figure: Maximum Cost per Click can be set at the campaign, ad group or ad level](2016-02-25\_8-16-05.jpg)  
-:::  
+:::
 
 **Negative Keywords**
 
@@ -40,7 +40,7 @@ Negative Keywords are able to be added to your campaign or ad group and tell Goo
 
 ::: ok  
 ![Figure: Negative Keywords ensure your ad is not shown in unrelated searches](2016-02-25\_8-18-14.jpg)  
-:::  
+:::
 
 ### Split Testing Ads 
 

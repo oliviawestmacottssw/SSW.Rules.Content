@@ -24,23 +24,19 @@ redirects:
 
 Communication can be difficult  (even if English is your first language!). It might be tempting to only communicate via IM, but this will not improve your skills or build a relationship as well as communicating verbally.
 
-
 ::: bad
 Stop: Just using text in IM
 
 :::
-
-
 
 ::: good
 Start: Asking ‘Can I call you?’ (Especially for complicated conversations)
 
 :::
 
-
 ::: ok  
 ![Figure: A group call should look like this](skype-conference.jpg)  
-:::  
+:::
 
 Here are some tips to have a better call:
 
@@ -61,7 +57,7 @@ Get your video background right. Check <br>      [Rules to Better Branding](/rul
 
 ::: bad  
 ![Figure: Bad Example - Ugly background showing an air conditioner](Bad-Video-Background-orgn.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Nice background](Good-Video-Background-orgn.png)  

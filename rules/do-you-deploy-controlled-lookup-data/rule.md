@@ -29,11 +29,11 @@ Let's look at an example:
 
 ::: ok  
 ![Figure: This combo looks innocent. However if it is "Billable" then the calendar goes yellow](TimeProDropDown.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Billable days are shown in yellow](TimeProCalendar.png)  
-:::  
+:::
 <font class="ms-rteCustom-CodeArea">    <pre>if (drDay.NotBillableCount == 0 && 
     drDay.BillableCount &gt; 0)
 {

@@ -28,7 +28,7 @@ Option 1 ( **Recommended** ):
 
 ::: ok  
 ![](quotas-and-locks.jpg)  
-:::  
+:::
 
 2. Select the "site collection" which you would like to lock.
 
@@ -36,7 +36,7 @@ Option 1 ( **Recommended** ):
 
 ::: ok  
 ![Note: Read more at Manage the lock status for site collections in SharePoint 2013](read-only-status.jpg)  
-:::  
+:::
 
 Option 2 ( **not recommended** ):
 
@@ -50,7 +50,7 @@ Option 2 ( **not recommended** ):
 
 ::: ok  
 ![Figure - Database Properties | Options | Database-Read Only](LocLSQLDB.jpg)  
-:::  
+:::
 
 5.    Now it’s safe to take a backup of your content database
 

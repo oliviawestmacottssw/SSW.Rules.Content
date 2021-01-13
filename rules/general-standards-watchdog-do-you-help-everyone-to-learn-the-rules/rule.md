@@ -22,11 +22,11 @@ redirects:
 
 ::: bad  
 ![Figure: Bad Example - Correcting someone in a mean way](watchdog-mean.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - People make mistakes but correct them as though they’re a soft cute puppy 🐶](watchdog-watchdog.jpg)  
-:::  
+:::
 
 Every member of a team plays an important role in maintaining standards. Whether it's your  work or someone else's, always  keep an eye out for  **things that can be improved** .
 
@@ -43,30 +43,23 @@ When the 'mistake' the person made is not an actual mistake, but something that 
 
 
 
-
 ::: greybox
- **Tiny Tip:** I’d use international format on your phone number so people outside Australia can just click to dial - as per https://rules.ssw.com.au/great-email-signatures
+ **Tiny Tip:** I’d use international format on your phone number so people outside Australia can just click to dial - as per https://rules.ssw.com.au/great-email-signatures  
 :::
-
-
 
 ::: good
 Figure: Good example - nicely informing of a small standard oversight 
 
 :::
 
-
 ### Important things = Tip 
 
 When there is a proven better way to do something different from what the person has done. You should try to include the reasons.
-
 
 ::: greybox
  **Tip:** I noticed your email has a very generic subject: "website". Please resend with a descriptive email subject as per Rules to Better Email. This way it is easier to identify, categorize and find this email later, without having to open it :)
 
 :::
-
-
 
 ::: good
 Figure: Good example - nicely informing of a better way to do something 
@@ -75,12 +68,10 @@ Figure: Good example - nicely informing of a better way to do something
 
 
 
-
 ### Crucial things = Critical
 
 
 When the error the person committed can lead to a misunderstanding or a security breach. You should include a task with action when necessary.
-
 
 ::: greybox
  **Critical:** When sending a proposal never use the word "quote", but use "estimates" instead. As per Rules to Better Project Management we don't work with a fixed price, which is opposite to what the word "quote" implies. This might create different expectation and consequently frustration and legal problems with the client. 
@@ -89,13 +80,10 @@ When the error the person committed can lead to a misunderstanding or a security
 
 :::
 
-
-
 ::: good
 Figure: Good example - nicely informing of a critical mistake
 
 :::
-
 
 ### Coding - For Developers
 
@@ -128,7 +116,7 @@ For more, check out [Do you know to create a safe space instead of jumping into 
 
 ::: bad  
 ![Figure: Bad example - seeing a mistake and not pointing it out doesn't improve a person. Allow them to benefit from your experience!](watchdog-ghost.jpg)  
-:::  
+:::
 
 ### Going Anonymous
 
@@ -138,12 +126,11 @@ When something is really personal, you can’t really correct someone unless you
 
 ::: good  
 ![Figure: Good example - say 'thank you' to a person's corrections to show you don't have thin skin and encourage further positive and negative feedback. It all helps you to improve](watchdog-thankyou.jpg)  
-:::  
+:::
 
 ### In Summary
 
 It's important to ensure others are doing their best to maintain and follow the standards. Remember, it can be just as important for someone's professional development to give feedback as it is to receive it. Being able to communicate feedback in an effective and professional manner can benefit you in any career.
-
 
 ::: greybox
  **To:** Peter
@@ -163,8 +150,6 @@ Cheers,
 John
 
 :::
-
-
 
 ::: good
 Figure: Good example - nicely informing of a standards violation 

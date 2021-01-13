@@ -21,7 +21,7 @@ Before diving in, it is good to have an understanding of the basic built-in user
 
 ::: ok  
 ![Figure: Roles in Azure](tabl.png)  
-:::  
+:::
 
 **More info:** https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
 
@@ -33,7 +33,7 @@ Also, keep in mind that you should be giving access to security groups and not i
 
 ::: bad  
 ![Bad Example: Contributor access to the Developers group](tabl3.png)  
-:::  
+:::
 
 ::: good  
 ![Good Example: Reader access to the Developers group](tabl2.png)  

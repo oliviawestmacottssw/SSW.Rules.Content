@@ -21,15 +21,15 @@ It's easy and common for users to forget their passwords, the vital key which gr
 
 ::: bad  
 ![Figure: Bad example - what will happen for the poor user that forgot his password?](bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - users have an option if they forget their password](good.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - users can enter their email to get a new password](reset example.png)  
-:::  
+:::
 
 ### Do you avoid a username enumeration attack?
 
@@ -38,7 +38,7 @@ This practice also opens up the risk of "username enumeration" where an entire c
 
 ::: bad  
 ![Figure: Bad example - Displaying information that a user does not exist?](2016-01-05\_15-20-06.png)  
-:::  
+:::
 
 ::: good  
 ![Good example - You should always aim to not disclose if a user is registered with your site or not](demo.png)  

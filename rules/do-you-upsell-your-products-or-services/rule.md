@@ -45,7 +45,7 @@ Customers normally appreciate this sentiment. You need to remember that prospect
 
 ::: ok  
 ![](fries-mcdonalds-whitebg.gif)  
-:::  
+:::
  #2 Consultants should always be visible when they spot an upsell/cross-sell opportunity
 When an Account Manager sells a solution to a customer, they are generally not trusted and have a bunch of competition.
 
@@ -73,12 +73,9 @@ This is the same as when a dev goes to a client to build an Angular application 
 
 Some developers see lots of opportunities for upselling, and once they get a positive bite from the customer they hand it over to the Account Manager to track in CRM. From there the client should be massaged until the new work booked in. This is important as Account Managers can then track and report on opportunities that have been won or lost.
 
-
 ::: greybox
- **Scenario:** You overhear the client talking about implementing Azure AD. You do nothing and continue with your work.
+ **Scenario:** You overhear the client talking about implementing Azure AD. You do nothing and continue with your work.  
 :::
-
-
 
 ::: bad
 Figure: Bad example - of upselling 
@@ -86,13 +83,9 @@ Figure: Bad example - of upselling
 
 :::
 
-
-
 ::: greybox
- **Scenario:** You are having an initial meeting with a client about developing a new in-house application. During this meeting, they mention a few additional projects to be completed. These include implementing syncing between their on-premises AD with Azure AD. You advise them that you have some SysAdmins that could assist in this work, and ask if it is ok for your account manager to call them.
+ **Scenario:** You are having an initial meeting with a client about developing a new in-house application. During this meeting, they mention a few additional projects to be completed. These include implementing syncing between their on-premises AD with Azure AD. You advise them that you have some SysAdmins that could assist in this work, and ask if it is ok for your account manager to call them.  
 :::
-
-
 
 ::: good
 Figure: Good example - of upselling
@@ -102,9 +95,8 @@ Figure: Good example - of upselling
 
 
 
-
 ### #3 Advice from trenches 
 
 From the above video, you can see that the software consultants at SSW completed a Microsoft Form with the question: Your advice: Pretend you are talking to a junior dev about this concept of upselling. What do you say to them? Here were some stand out answers:
 
-![Screen Shot 2020-09-10 at 10.16.58 AM.png](Screen Shot 2020-09-10 at 10.16.58 AM.png)
+![](Screen Shot 2020-09-10 at 10.16.58 AM.png)

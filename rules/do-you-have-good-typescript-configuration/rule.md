@@ -24,7 +24,7 @@ Putting a “tsconfig.json” file in your project tells the typescript compiler
 
 ::: ok  
 ![Figure: A tsconfig.json file with great configuration](goodtypescriptconfig1.png)  
-:::  
+:::
 
 ### Disable implicit “any”
 

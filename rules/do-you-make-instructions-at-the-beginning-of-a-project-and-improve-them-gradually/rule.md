@@ -52,11 +52,11 @@ Here's a suggestion of what these documents could contain.
 
 ::: bad  
 ![Bad example - A project without an instruction.](BadNetProject.JPG)  
-:::  
+:::
 
 ::: good  
 ![Good example - A project with instructions](ProjectDocumentation.jpg)  
-:::  
+:::
 
 Add a readme.md to your solution (Use [this](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=vsts)  as a guidance for markdown)
 
@@ -64,7 +64,6 @@ Add a readme.md to your solution (Use [this](https://docs.microsoft.com/en-us/az
 
 
 When a new developer starts on a project you want them to get up and running as soon as possible.
-
 
 ::: greybox
 If you were at Level 2 you might have a document that says:
@@ -80,17 +79,16 @@ Lots of dependencies
 
 
 
-
 ::: ok  
 ![You are at Level 2 when you have some static Word documents with the steps to compile. The \_instructions\_compile.docx contains the steps required to be able to get latest and compile.](instructions-level2.jpg)  
-:::  
+:::
 
 ### Level #3: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
 
 
 ::: ok  
 ![Figure: Level 2 Documentation includes database build scripts. We use        SSW SQL Deploy to make keeping all databases on the same version simple. Check out        how to use SQL Deploy here](instructions-level2.jpg)  
-:::  
+:::
 
 ### Level #4: Less documentation (and Get Latest and compile with a PowerShell script)
 
@@ -103,7 +101,6 @@ Example of Level 6: PowerShell Documentation
 **Recommendation:** All manual workstation setup steps should be scripted with powerShell (as per the below example)
 
 **Recommendation:** You should be able to get latest and compile within 1 minute. Also, a developer machine should not HAVE to be on the domain (to support external consultants)
-
 
 ::: greybox
 PS C:\Code\Northwind&gt; **.\Setup-Environment.ps1** 
@@ -118,14 +115,10 @@ To try and automatically resolve the problems found, re-run the script with a -F
 
 :::
 
-
-
 ::: good
 Figure: Good example - you see the problems in the devs environment
 
 :::
-
-
 
 ::: greybox
 
@@ -143,14 +136,10 @@ WARNING: Abandoning remainder of script due to critical failures.
 
 :::
 
-
-
 ::: good
 Figure: Good example - when running with -fix this script tries to automatically fix the problem <br>      
 
 :::
-
-
 
 ::: greybox
 
@@ -166,13 +155,10 @@ WARNING: Abandoning remainder of script due to critical failures.
 
 :::
 
-
-
 ::: good
 Figure: Good example -  Note that on the 2nd run, issues resolved by the 1st run are not re-reported <br>      
 
 :::
-
 
 
 ## Further Reading

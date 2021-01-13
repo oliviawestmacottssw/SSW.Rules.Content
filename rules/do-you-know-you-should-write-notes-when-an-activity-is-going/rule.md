@@ -23,11 +23,11 @@ During meetings, there is a lot of communication between you and the client. It 
  The best tool for taking notes will depend on what sort of activity you are doing. If you are making a straightforward document, OneNote will suffice. However, if the activity involves creating a lot of new tasks, it might be worth using Trello to take your notes. Trello allows for the creation of multiple lists (such as "To do", "In progress", and "Done") and has an easy drop and drag interface to reorganise work items as required. It also allows for comments on any item created, and you can tag people so they are associated with items. That way each new task can be created, organised and assigned immediately. You can invite team members and clients to the board so everyone is on the same page with regard to progress and outcomes. 
 ::: bad  
 ![Figure: Bad example – Notepad is not a good tool as it cannot recover your content in case of disaster](write-notes-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – Notes from the meeting with a client were written in OneNote](write-notes-good.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – Notes from a conversation organising presenters for upcoming user groups. The sessions are listed in month order and the speakers have been tagged in their respective events.](trello-for-notetaking.jpg)  

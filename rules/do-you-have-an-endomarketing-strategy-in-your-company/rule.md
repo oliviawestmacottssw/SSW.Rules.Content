@@ -64,8 +64,7 @@ The main benefits of this strategy are:
 
 
 
-![bunny.jpg](bunny.jpg) 
-
+![](bunny.jpg) 
 
 ::: good
 

@@ -21,7 +21,7 @@ When you distribute important information by email all you can do is put "Do Not
 
 ::: ok  
 ![Figure: You can protect your email messages](outlookIRM.jpg)  
-:::  
+:::
 
 This solution exists in Microsoft Office and is built into Outlook. Entitled 'Information Rights Management', a file level security application built onto Windows Server. The capability enables you to prevent recipients of your emails (and attachments) from forwarding them on, copying any text, or printing the document (be aware that determined chaps could use a lower level screen shot program to get past this).
 
@@ -29,6 +29,6 @@ Additionally, it encrypts the file as it's sent away. As an added basis - you ca
 
 ::: ok  
 ![Figure: How to prevent emails being forwarded in Outlook](outlook-prevent-FW.jpg)  
-:::  
+:::
 
 **Note:** You may be interested to know that every mail item that you send gets a file saved with these credentials so you can still open the emails when you are offline. To see: go to Start - Run %USERPROFILE%\Local Settings\Application Data\Microsoft\drm.

@@ -28,7 +28,7 @@ The customized process template is a very important asset for your team, you sho
 
 ::: ok  
 ![Figure: customized process template in source control](CheckInTemplateIntoSourceControl.png)  
-:::  
+:::
 
 <!--endintro-->
 

@@ -25,7 +25,7 @@ When editing a rule, choose who is the rule owner on the "Acknowledgements" fiel
 
 ::: ok  
 ![Figure: This is where you add or remove "Acknowledgements"](acknowledgements.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: You can add a new person in SharePoint, if the owner is not on the list yet](add-new-value.png)  

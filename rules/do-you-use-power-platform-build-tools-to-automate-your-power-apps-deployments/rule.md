@@ -22,7 +22,7 @@ The solution, Power Platform Build Tools:
 
 ::: ok  
 ![Figure: ALM for your Power Platform projects](almpowered.png)  
-:::  
+:::
 
 ### What do I get with the Microsoft Power Platform Build Tools? 
 

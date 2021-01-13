@@ -43,11 +43,11 @@ The top tools all contain comparable functionality. In practice which one you us
 
 ::: bad  
 ![Figure: Bad Example - Ninject was a top container but is no longer developed as actively as Autofac and Structuremap. Both Autofac and Structuremap have active communities and contributors that ensure they stay up to date with the latest changes in .Net](dic-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Autofac has a great combination of performance and features and is actively developed](dic-good.png)  
-:::  
+:::
 
 **Note:** Autofac's support for child lifetime containers may be  significant for some: 
 [http://nblumhardt.com/2011/01/an-autofac-lifetime-primer](http://nblumhardt.com/2011/01/an-autofac-lifetime-primer/)
@@ -55,14 +55,12 @@ The top tools all contain comparable functionality. In practice which one you us
 StructureMap does also support a kind of child container:
 http://codebetter.com/jeremymiller/2010/02/10/nested-containers-in-structuremap-2-6-1/
 
-![Autofac_web.png](Autofac_web.png)
-
+![](Autofac_web.png)
 
 ::: good
 Figure: Good Example - the web / mvc integration package layer for Autofac is developed by the same core Autofac team. Some containers (such as Structure Map) require third-party integration layers   
 
 :::
-
 
 ### Further Reading:
 

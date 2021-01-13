@@ -33,7 +33,7 @@ You can also read more about Apps at [Five things to know about apps in Microsof
 
 ::: ok  
 ![Figure: There are various apps you can add to channels](teams-apps.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Apps for Google Analytics and GitHub in a channel](teams-analytics-app.png)  

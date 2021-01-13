@@ -25,7 +25,7 @@ If you are recording a long interview use two (identical) cameras, covering both
 
 ::: ok  
 ![Figure: Multi cam setup for single guest speaker interview](3cam\_basic\_setup.gif)  
-:::  
+:::
 
 If you are recording an event with multiple people and want to maximize the coverage (and obtain cutaway shots) use a second/third camera, either placed on a tripod somewhere of interest or give to someone else to move around with and obtain interesting shots.
 

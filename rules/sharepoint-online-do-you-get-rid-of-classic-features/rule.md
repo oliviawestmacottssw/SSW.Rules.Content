@@ -26,7 +26,7 @@ To delete the Microfeed List, simply de-activate the Site Feed feature at the We
 
 ::: ok  
 ![](microfeed-sharepoint.png)  
-:::  
+:::
 
 ### Company Announcements
 
@@ -34,13 +34,13 @@ To delete the Microfeed List, simply de-activate the Site Feed feature at the We
 
 ::: ok  
 ![](company-announcements-sharepoint.png)  
-:::  
+:::
 
 To remove company News, click “Settings” | “Remove” from Site Contents:
 
 ::: ok  
 ![](site-feed-sharepoint2.png)  
-:::  
+:::
 
 ### Drop Off Library
 
@@ -48,7 +48,7 @@ Drop Off Libraries (Content Organizer feature) were a way to automate moving doc
 
 ::: ok  
 ![](content-organizer-sharepoint.png)  
-:::  
+:::
 
 ### Deleting leftovers from Migrations
 
@@ -59,7 +59,7 @@ If that doesn’t work, however, there is a more radical approach: removing the 
 
 ::: ok  
 ![](jean-migration-1.jpg)  
-:::  
+:::
 
 (In case you prefer using code straight away instead of the screenshot)
 
@@ -69,13 +69,13 @@ However, on system Lists, you may get an error:
 
 ::: ok  
 ![](jean-migration-2.jpg)  
-:::  
+:::
 
 The workaround is to set the “AllowDeletion” flag to true before calling delete:
 
 ::: ok  
 ![](jean-migration-3.png)  
-:::  
+:::
 
 (In case you prefer using code straight away instead of the screenshot)
 

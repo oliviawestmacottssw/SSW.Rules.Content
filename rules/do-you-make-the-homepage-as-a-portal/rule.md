@@ -20,7 +20,7 @@ E.g. See the number of bugs counted by the most common.
 
 ::: ok  
 ![Figure: The homepage of TWA is a portal.](../../assets/HomepagePortal.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Adobe's Creative Suite also opens a portal 'homepage'.](../../assets/HomepagePortalSoftware.jpg)  

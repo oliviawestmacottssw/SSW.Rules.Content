@@ -24,7 +24,7 @@ Setting up a Web Test will allow you to query and see how the performance of you
 
 ::: good  
 ![Good Example - You can clearly see the point where we deployed a fix to production to improve the initial page load.](App-Insights-Web-Test.png)  
-:::  
+:::
 
 You have the ability to drill down into web test results, to get an overview of the response time of the resources on a page. This can help discover if certain resources are slowing the response time.
 

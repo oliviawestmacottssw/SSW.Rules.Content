@@ -19,5 +19,5 @@ To make them easily identifiable, the [Product Owner](/_layouts/15/FIXUPREDIRECT
 
 ::: bad  
 ![](BetterCRMDataGoodExam.jpg)  
-:::  
+:::
 Figure: Good Example - A CRM 2013 user can easily determine who is the Product Owner of the Company/Contact

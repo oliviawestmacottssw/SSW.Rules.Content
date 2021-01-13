@@ -17,7 +17,7 @@ The search direction of a list should be obvious. When it comes to a multicolumn
 
 ::: bad  
 ![Figure: Bad example - The list columns go across instead of down](../../assets/bad-alphanum.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - The list is going down](../../assets/good-alphanum.jpg)  

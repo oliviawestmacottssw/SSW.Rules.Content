@@ -22,16 +22,13 @@ JavaScript alerts are evil. Not only are they ugly, they look unprofessional...
 
 ![](JS_Alert.png)
 
-
 ::: bad
-Bad example: A JavaScript alert showing a message to the user
+Bad example: A JavaScript alert showing a message to the user  
 :::
 
 
 
-
-![JSAlert_Code.png](JSAlert_Code.png)
-
+![](JSAlert_Code.png)
 
 ::: bad
 Bad example: The alert(".....") is the evil code
@@ -40,20 +37,16 @@ Bad example: The alert(".....") is the evil code
 
 
 
-
 ![](Toastr_Alert.png)
 
-
 ::: good
-Good example: The message in green is rendered as Html
+Good example: The message in green is rendered as Html  
 :::
 
 
 
-
-![JS_Alert_2.png](JS_Alert_2.png)
-
+![](JS_Alert_2.png)
 
 ::: good
-Good example: In this example, [Toaster](https://github.com/CodeSeven/toastr)is used
+Good example: In this example, [Toaster](https://github.com/CodeSeven/toastr)is used  
 :::

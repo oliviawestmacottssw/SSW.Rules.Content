@@ -24,11 +24,11 @@ A company-wide template will be implemented, so users have automatic footers to 
 
 ::: bad  
 ![Figure: Bad Example - creating an email/document does not have the company templates](word-template-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - creating an email/document with the company templates](word-template-good.jpg)  
-:::  
+:::
 
 <!--endintro-->
 
@@ -53,20 +53,16 @@ xcopy /Y "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dotm" "%AP
 xcopy /Y "\\fileserver\DataSSW\DataSSWEmployees\Templates\NormalEmail.dotx" "%APPDATA%\Microsoft\QuickStyles\" &gt;&gt; %LogonLogFile%
 ECHO Templates Copied
 
-
 ::: bad
-Figure: Bad Example - This is a snippet of an old login script
+Figure: Bad Example - This is a snippet of an old login script  
 :::
-
 
 You can automatically have your SSW Word doc template on sign-in via a script. See https://github.com/SSWConsulting/SSWSysAdmins.LoginScript
 
 
-
 ::: good
-Good Example - New Login script on Github
+Good Example - New Login script on Github  
 :::
-
 
 
 

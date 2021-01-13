@@ -13,7 +13,7 @@ redirects: []
 
 ::: bad  
 ![Figure: Bad example - Hard to read these columns](../../assets/bad-matrixcol.jpg)  
-:::  
+:::
 
 <!--endintro-->
 

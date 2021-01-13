@@ -17,19 +17,15 @@ redirects: []
 
 If a client says:
 
-
 ::: greybox
 *"This application is too slow, I don't really want to put up with such poor performance. Please fix."*
 :::
 
-
 We don't jump in and look at the code and clean it up and reply with something like:
-
 
 ::: greybox
 *"I've looked at the code and cleaned it up - not sure if this is suitable - please tell me if you are OK with the performance now."*
 :::
-
 
 <!--endintro-->
 
@@ -46,7 +42,7 @@ A better way is:
 
 ::: good  
 ![Figure: Good example – Add some code to check the timing, before fixing any performance issues (An example from SSW Code Auditor)](Code-Auditor-performance.jpg)  
-:::  
+:::
 
 Also, never forget to do incremental changes in your tests!
 
@@ -54,13 +50,13 @@ For example, if you are trying to measure the optimal number of processors for a
 
 ::: bad  
 ![Figure: Bad Example - Going from 1 to 4 all at once gives you incomplete measurements and data](1to4.png)  
-:::  
+:::
 
 Do it incrementally, adding 1 processor each time, measuring the results, and then adding more:
 
 ::: good  
 ![Figure: Good Example - Going from 1 to 2, then measuring, then incrementally adding one more, measuring...](1234.png)  
-:::  
+:::
 
 This gives you the most complete set of data to work from.
 

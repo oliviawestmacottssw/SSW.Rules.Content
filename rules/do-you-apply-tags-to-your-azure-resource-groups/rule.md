@@ -24,7 +24,7 @@ Azure has the Tag feature, which allows you to apply different Tag Names and val
 
 ::: ok  
 ![Figure: Little example of Tags in Resource Groups](tags-in-resources-group.png)  
-:::  
+:::
 
 You can leverage this feature to organize your resources in a logical way, not relying in the names only. E.g.
 

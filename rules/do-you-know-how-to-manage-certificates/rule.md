@@ -27,7 +27,7 @@ You should use [Certify the Web](https://certifytheweb.com/).
 
 ::: bad  
 ![Figure: Bad example - Keeping a database is unnecessary](manage-certificates-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Using Certify The Web](manage-certificates-good.png)  

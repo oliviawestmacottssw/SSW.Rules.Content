@@ -27,7 +27,7 @@ Try to start your day afresh, as you would usually do to go to your workplace. F
 
 ::: bad  
 ![Bad example - Figure: Not dressing accordingly or not having a work station from home can drastically reduce your concentration](dressing-meeting-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Good example - Figure: Nice work station and good personal presentation whilst working from home](dressing-meeting-good.jpg)  

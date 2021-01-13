@@ -19,7 +19,7 @@ While there is a web app available, Microsoft have now released a CRM mobile app
 
 ::: good  
 ![Figure: CRM 2013 on your mobile gives you even more accessibility to your important company information](crm-mobile.jpg)  
-:::  
+:::
 
 You can download it now for your device (Aussie links):
 

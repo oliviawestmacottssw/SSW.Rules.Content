@@ -21,7 +21,7 @@ Syntax highlighting, special tags and keeping a track of your code snippets can 
 
 ::: bad  
 ![Figure - Using images for code snippets is difficult to maintain.](2014-03-08\_19-49-571.png)  
-:::  
+:::
 
 Introducing Github Gists, which makes sharing, embedding and keeping track of code snippets easy. The standout feature of Github Gists is that every code snippet (often referred to by GitHub as a Gist) is behind the scenes a Git repository, which in turn gives you access to all of the benefits of source control.
 
@@ -29,7 +29,7 @@ Upon editing an already published Gist, the previous versions are preserved. As 
 
 ::: good  
 ![Figure - Easy to review your Gists.](2015-12-03\_15-46-34.png)  
-:::  
+:::
 
 It is very simple to embed your code snippets using Github Gists, as you can embed any Gist in your blog with a single a line of JavaScript. The embedded Gists automatically display the current version of your snippet while still maintaining all the formatting and syntax highlighting. Furthermore, if you're using WordPress, it's even easier. Click here to find out all of the shortcuts for embedding Gists in WordPress! blogs.
 

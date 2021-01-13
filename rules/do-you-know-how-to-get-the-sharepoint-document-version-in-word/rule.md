@@ -27,11 +27,11 @@ We are always disappointed when adding version information to a Word document. W
 
 ::: good  
 ![Figure: Good example, you see the formatted SharePoint version number](VersionInWord.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Bad Example](BadVersioning.png)  
-:::  
+:::
 
 ::: good  
 ![Good Example](GoodVersioning.png)  

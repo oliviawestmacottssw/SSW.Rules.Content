@@ -26,7 +26,6 @@ Over the course of work on a project, there will likely be many little disagreem
 
 <font color="#333333"> <strong>Figure: It's common for people to say "I don't remember you disagreeing with that decision", sending a "for the record" email makes it clear.</strong> <br><br></font>
 
-
 ::: greybox
  **One war story** 
  
@@ -39,7 +38,6 @@ Adam Cogan
 SSW Chief Architect
 
 :::
-
 
 <font color="#333333"><br></font>
 

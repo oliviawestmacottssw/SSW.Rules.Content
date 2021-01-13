@@ -21,7 +21,7 @@ That's where the new [Visual Studio Online REST APIs](http://www.visualstudio.co
 
 
 
-![8-08-2014-9-58-37-AM-compressor.png](8-08-2014-9-58-37-AM-compressor.png)
+![](8-08-2014-9-58-37-AM-compressor.png)
  **Figure: HTTPS GET commits from your VSO Git repository**
 
 
@@ -30,7 +30,7 @@ Using HTTPS with basic authentication, make a GET request to a URL as below, sub
 
 
 
-![8-08-2014-4-24-34-PM-compressor.png](8-08-2014-4-24-34-PM-compressor.png)
+![](8-08-2014-4-24-34-PM-compressor.png)
  **Figure: Using the Chrome extension Postman to execute our request with Basic Authentication**
 
 

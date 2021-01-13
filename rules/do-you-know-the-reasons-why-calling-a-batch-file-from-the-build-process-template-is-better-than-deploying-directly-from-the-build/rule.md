@@ -21,7 +21,7 @@ We do this by including deployment batch files in the solution, and specifying t
 
 ::: bad  
 ![](deployment-scripts.jpg)  
-:::  
+:::
 Figure: Good Example - Include deployment scripts in the solution, and execute them from the Build Process Template
 
 | | Bad Example - Using Builds to Deploy | Good Example - Using Batch File |

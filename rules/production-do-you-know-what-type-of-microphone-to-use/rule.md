@@ -39,13 +39,13 @@ Some headsets are better than others, we recommend the     [Audio Technica BPHS1
 
 ::: ok  
 ![Figure: Audio Technica BPHS1 ‘aviation-style’ headset](mic-1-audiotechnica.png)  
-:::  
+:::
 
 On the lower end, the     [Logitech H340](https://www.logitech.com/en-au/product/usb-headset-h340) USB headset is a good option.
 
 ::: ok  
 ![Figure: Logitech H340 headset](mic-2-logitech.png)  
-:::  
+:::
 
 **Warning:** These look poor on video.
 
@@ -57,7 +57,7 @@ There are many models to pick with different characteristics. Our choice is the 
 
 ::: ok  
 ![Figure: Desktop microphone – plugs into USB and sits in front of you on the desk. Preferred for done videos and is portable](blue-yeti-x.jpg)  
-:::  
+:::
 
 ### Desktop microphone – non-portable
 
@@ -65,7 +65,7 @@ You can go beyond a portable desktop mic and get something like the Rode Procast
 
 ::: ok  
 ![Figure: Professional podcasting mic](micpro-1.jpg)  
-:::  
+:::
 
 ### Lapel microphone
 
@@ -76,7 +76,7 @@ The benefit of this type of mic is that it is placed on your shirt and close to 
 
 ::: ok  
 ![Figure: Rode smartLav+ Lapel Microphone for Smart Phones](micpro-2-lapel.jpg)  
-:::  
+:::
 
 **Warning:** [The cable can look poor on video](https://www.youtube.com/watch?v=3YbAGcB2LgQ&feature=emb_title).
 
@@ -87,7 +87,7 @@ These are traditionally used on film and TV sets and offer among the highest qua
 
 ::: ok  
 ![Figure: Shotgun mic](mic-shotgun.jpg)  
-:::  
+:::
 
 ### Related Rule
 

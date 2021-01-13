@@ -20,7 +20,7 @@ There are many good reasons why it's better to work in pairs.
 
 ::: ok  
 ![Figure: Do you always try to work in pairs?](ProjectManagement\_PairProgramming\_Luge.jpg)  
-:::  
+:::
 
 For everyone:
 
@@ -47,11 +47,11 @@ If you are not sitting next to a person working on the same project, then fix it
 
 ::: bad  
 ![Figure: Bad example - This is normal ‘pair programming’, two people working at one PC](PairProgramming01.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - This is ‘working in pairs’, two guys working on the same project, with their own laptops, but sitting very close to each other](PairProgramming02\_Small.jpg)  
-:::  
+:::
 
 ###  Is there an overhead?
 

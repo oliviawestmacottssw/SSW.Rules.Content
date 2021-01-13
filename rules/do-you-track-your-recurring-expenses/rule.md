@@ -56,8 +56,7 @@ A common solution many business owners used to solve the issues of tracking is b
 
 
 
-![2020-05-29_17-40-48.png](2020-05-29_17-40-48.png)
-
+![](2020-05-29_17-40-48.png)
 
 
 ::: bad
@@ -68,9 +67,7 @@ Figure: Bad Example - Too simple and no helpful information
 
 
 
-
-![2020-05-29_17-50-10.png](2020-05-29_17-50-10.png)
-
+![](2020-05-29_17-50-10.png)
 
 
 
@@ -78,7 +75,6 @@ Figure: Bad Example - Too simple and no helpful information
 Figure: Good Example - All useful information is maintained and conditional formatting is used to identify significant changes 
 
 :::
-
 
 There is no foolproof process that will avoid every unwanted situation, however, by following proper expense tracking will ensure these situations are discovered before it becomes a major issue and it may provide more reporting layers in order to make better financial decisions.
 

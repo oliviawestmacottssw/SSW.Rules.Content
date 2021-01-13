@@ -25,7 +25,7 @@ At the project’s initial conception, there is a lot to be learnt and consequen
 
 ::: ok  
 ![Figure: The further away an event is (task, user story, job), the harder it is to know how big (effort, time) it is](396294\_Cone-of-Uncertainty.jpg)  
-:::  
+:::
 
 
 

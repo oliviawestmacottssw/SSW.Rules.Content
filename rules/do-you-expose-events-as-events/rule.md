@@ -21,16 +21,13 @@ You should expose events as events.
 public Action
 &lt; connectioninformation &gt; ConnectionProblem;
 
-
 ::: bad
 Bad code
 
 :::
 
-
 public event Action
 &lt; connectioninformation &gt; ConnectionProblem;
-
 
 ::: good
 Good code

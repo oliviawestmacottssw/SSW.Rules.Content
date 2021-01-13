@@ -19,7 +19,7 @@ Nuget is great for managing publicly available packages, but it’s also surpris
 
 ::: ok  
 ![Figure: You can create your own nuget server by simply creating a new asp.net web project and adding the Nuget.Server package](private-nuget-1.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Add your new server as a package source under Tools | Options | Nuget Package Manager | Package Sources](private-nuget-2.png)  

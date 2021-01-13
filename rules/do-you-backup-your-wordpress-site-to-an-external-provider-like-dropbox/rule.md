@@ -33,6 +33,6 @@ We setup our WordPress sites to backup daily to Dropbox:
 
 ::: good  
 ![Figure: AdamCogan.com blog backs up daily to Dropbox](wp-dropbox.png)  
-:::  
+:::
 
 For more information head over to: https://wordpress.org/plugins/backwpup

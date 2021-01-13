@@ -64,7 +64,7 @@ appcmd set config "Default Web Site/Microsoft-Server ActiveSync" /section:httpre
 
 ::: bad  
 ![Figure: Bad Example, no redirect in place for OWA](iisnoredirect.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example, redirect from HTTP to https for OWA](iisredirect.jpg)  

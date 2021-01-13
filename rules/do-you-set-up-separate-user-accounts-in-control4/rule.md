@@ -27,6 +27,6 @@ If everyone is using an individual account, it is as simple as disabling (or del
 
 
 
-![ManageUser.png](ManageUser.png)
+![](ManageUser.png)
 
 **Figure: Use the Customer Portal to add accounts for all users**

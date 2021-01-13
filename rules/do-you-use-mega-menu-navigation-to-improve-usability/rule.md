@@ -25,11 +25,11 @@ Of course, don't use a mega dropdown menu just because you can. Turning your nor
 
 ::: bad  
 ![Figure: Bad Example - Long drop down menu requires scrolling and difficult to see at a glance.](../../assets/longmenu.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Links are grouped into distinct category](megamenu.jpg)  
-:::  
+:::
  
 ::: ok  
 ![Figure: Bear in mind that mobile menus are limited](mobilemenu.jpg)  

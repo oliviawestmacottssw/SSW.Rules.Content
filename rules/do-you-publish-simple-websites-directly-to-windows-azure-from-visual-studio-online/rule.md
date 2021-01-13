@@ -23,10 +23,10 @@ But, if your application is more complicated, or you need to run UI tests as par
 
 ::: ok  
 ![Figure: Setting up deployment from source control is simple from within the Azure portal](integrate-source-control.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Deployment is available from a number of different source control repositories](TFS\_Deployment.png)  
-:::  
+:::
 
 Suggestion to Microsoft: We hope this functionality comes to on-premise TFS and IIS configurations in the next version.

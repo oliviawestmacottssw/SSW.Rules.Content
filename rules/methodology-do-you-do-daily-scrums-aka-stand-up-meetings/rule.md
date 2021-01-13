@@ -36,12 +36,11 @@ The team's successes and failures are shared, and anyone who knows the answer to
 
 ::: ok  
 ![`youtube: https://www.youtube.com/embed/YR84qH6d7QE`Figure: Watch a Daily Scrum at Microsoft (short)](burndowntfspreview.png)  
-:::  
+:::
 
 ::: ok  
 ![`youtube: https://www.youtube.com/embed/-UUrLxNBK_g` Figure: Watch a Daily Scrum at Microsoft (long)](burndowntfspreview.png)  
-:::  
-
+:::
 
 ::: greybox
 
@@ -50,7 +49,6 @@ The team's successes and failures are shared, and anyone who knows the answer to
 Stephen Forte (Board member ScrumAlliance.com)
 
 :::
-
 
 ### Follow these essential tips to improve your Daily Scrum meetings:
 
@@ -67,17 +65,17 @@ At the end of the Scrum, the Scrum Master should     [review the current burn do
 
 ::: ok  
 ![Figure: The burndown chart in tfs.visualstudio.com](burndowntfspreview.png)  
-:::  
+:::
 
 **Tip 3: Keep a schedule of the Daily Scrum times on a wall (+ have a recurring appointment in Outlook)**
 
 ::: ok  
-![::: greyboxSubject: 🙋Daily Scrum –              [Project Name]Hi [Team name],As per our conversation, the Daily Scrum will be held each day.Project: [Project Name]Scrum Master:              [Scrum Master Name]Regards,[Your name here]&lt;This email was sent as per              Do you do Daily Scrums? &gt;  :::Figure: Schedule a recurring Daily Scrum meeting in Outlook using this template](teams-meeting-daily-scrum.jpg)  
-:::  
+![::: greyboxSubject: 🙋Daily Scrum –              [Project Name]Hi [Team name],As per our conversation, the Daily Scrum will be held each day.Project: [Project Name]Scrum Master:              [Scrum Master Name]Regards,[Your name here]&lt;This email was sent as per              Do you do Daily Scrums? &gt;    :::Figure: Schedule a recurring Daily Scrum meeting in Outlook using this template](teams-meeting-daily-scrum.jpg)  
+:::
 
 ::: ok  
 ![Figure: Or you can use Microsoft Teams](teams-meeting-daily-scrum.jpg)  
-:::  
+:::
 
 **Tip 4: Keep to the schedule. Same place, same time (and start even if people are missing)**
 
@@ -108,7 +106,7 @@ A task board allows people to visualize what the team is talking about.
 
 ::: ok  
 ![Figure: The Task Board from tfs.visualstudio.com (TFS 2012)](tfspreviewtaskboard.png)  
-:::  
+:::
 
 **Tip 9: Carry a pen and paper**
 
@@ -123,7 +121,7 @@ A "Parking Lot" is the place for any discussions that stop the Team from answeri
 
 ::: ok  
 ![Figure: Often the Product Owner won’t be at the Scrum. However, call the Product Owner if you have an Impediment (aka Roadblock). Communication with the Product Owner is essential and if you haven't touched base with him in the few days, then do so. A disconnected or absent Product Owner is a sign of dysfunction.](ProductOwnerTelephone.jpg)  
-:::  
+:::
 
 **Tip 12: What to do when you're working for a PO directly**
 
@@ -138,7 +136,6 @@ Once you have completed your stand up, add “S” to your timesheet as per     
 
 Use Teams or Skype to bridge gaps in geography.
 
-
 ::: greybox
 
 Focus on the Flow
@@ -149,9 +146,7 @@ Focus on the Flow
 
 :::
 
-
 When using email or IM try to be as specific as possible.
-
 
 ::: greybox
 
@@ -171,13 +166,9 @@ Today I am working on:
 
 :::
 
-
-
 ::: bad
-Figure: Bad example - Lack of details. Eg. Yesterday - if it's Monday, you wouldn't say “Yesterday was Sunday"... so if you were sick, it's more useful to go back to the prior day you were working
+Figure: Bad example - Lack of details. Eg. Yesterday - if it's Monday, you wouldn't say “Yesterday was Sunday"... so if you were sick, it's more useful to go back to the prior day you were working  
 :::
-
-
 
 ::: greybox
 
@@ -197,13 +188,10 @@ Today I am working on:
 
 :::
 
-
-
 ::: good
 Figure: Good example - Clear details 
 
 :::
-
 
 ### More information
 
@@ -218,11 +206,11 @@ It is important that any major incidents are dealt with first. Start with any ma
 
 ::: ok  
 ![Figure: Daily Scrums will alert everyone if there is a major problem and get all brains aligned in the right direction. There is no sense in putting a Band-Aid on a patient's scraped knee if there is a big knife in his eye!](NewStandUpImage.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: If you like this,        retweet  ;)](dailyscrumtweet.png)  
-:::  
+:::
 
 ### Related rule
 

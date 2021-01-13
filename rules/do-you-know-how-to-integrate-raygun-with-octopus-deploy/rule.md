@@ -25,14 +25,14 @@ To set it up:
 
 ::: ok  
 ![](raygun-octopus-1.jpg)  
-:::  
+:::
     Raygun will product you with a [PowerShell script](https://raygun.com/docs/deployments/octopus-deploy) to add into your octopus deployment steps that will call the RayGun API and log a new deployment
 3. Trigger a new deployment
 4. Then you’ll see the deployment in RayGun
 
 ::: ok  
 ![](raygun-octopus-2.png)  
-:::  
+:::
     Drilling into a deployment you’ll see:
 
     * New errors

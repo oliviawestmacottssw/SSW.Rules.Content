@@ -28,10 +28,8 @@ Mock-ups are very powerful tools to communicate requirements with clients, howev
 <!--endintro-->
 ![](sketchflow.jpg) 
 
-
 ::: good
-Figure: Expression + SketchFlow
+Figure: Expression + SketchFlow  
 :::
-
 
 Read [Do you conduct specification analysis by creating mock-ups?](/Pages/SpecificationByMockUp.aspx) to learn more about other mock-up types.

@@ -29,7 +29,7 @@ This means that the component's state must expose things that are useful to the 
 
 ::: bad  
 ![This component manipulates the DOM directly to show and hide the menu](dom1.png)  
-:::  
+:::
 
 ::: good  
 ![This component sets component state, which the template can use.  It is simpler, more descriptive and easier to test](dom2.png)  

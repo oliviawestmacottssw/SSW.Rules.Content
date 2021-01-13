@@ -18,7 +18,6 @@ To prevent cross-site request forgery (XSRF), you should use Html.AntiForgeryTok
 <!--endintro-->
 
 
-
 :::
 
 
@@ -41,9 +40,7 @@ To prevent cross-site request forgery (XSRF), you should use Html.AntiForgeryTok
 ```
 
 
-::: greybox
-Figure: Bad Example – The page is potentially vulnerable to XSRF attacks. Any post will be accepted by the server
-
+::: greyboxFigure: Bad Example – The page is potentially vulnerable to XSRF attacks. Any post will be accepted by the server
 
 :::
 
@@ -79,5 +76,4 @@ public ActionResult Create(CreateModel model)
 ```
 
 
-::: greybox
-Figure: Good Example – The page is no longer vulnerable to XSRF attacks
+::: greyboxFigure: Good Example – The page is no longer vulnerable to XSRF attacks

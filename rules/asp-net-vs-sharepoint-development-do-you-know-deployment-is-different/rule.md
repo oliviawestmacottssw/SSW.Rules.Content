@@ -19,7 +19,7 @@ In ASP.NET deployment is a simple xcopy. Or you can right click the Web Site pro
 
 ::: good  
 ![Fugure: Publish Web Site in Visual Studio](PublishWebSite.png)  
-:::  
+:::
 
 
 

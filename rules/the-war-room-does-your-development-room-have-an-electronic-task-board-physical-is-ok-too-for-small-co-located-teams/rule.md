@@ -22,11 +22,11 @@ These are the columns (aka swim lanes) you need:
 
 ::: good  
 ![Figure: Good Example - a virtual client task board in action (TFS)](TFS Preview Task Board.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: OK Example - a physical client task board in operation](Taskboard.jpg)  
-:::  
+:::
 
 Near your task board, stick an SSW "Want to submit a User Story?"
 

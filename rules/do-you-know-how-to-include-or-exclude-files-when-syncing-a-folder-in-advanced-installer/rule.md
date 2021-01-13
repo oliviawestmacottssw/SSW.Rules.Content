@@ -29,11 +29,11 @@ Here is how you do it:
 
 ::: ok  
 ![Figure: Edit Filters dialog](installers-include-exclude-1.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad Example - Synced folder contains files that are not supposed to be deployed](installers-include-exclude-2.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Synced folder is filtered so that it includes only files we want to deploy](installers-include-exclude-3.jpg)  

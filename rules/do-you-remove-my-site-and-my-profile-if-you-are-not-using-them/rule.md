@@ -32,14 +32,14 @@ There are a few options, based on what you need to do:<br></font>
     a.<span style="font:7pt 'times new roman';"> </span>Go to  <strong>Central Admin</strong> |  <strong>Application Management</strong> |  <strong>Service Applications</strong> |  <strong>Configure service application associations</strong> , <br>
     Choose “default” link:
     <br>
-    <img alt="" height="384" width="569" class="ms-rteCustom-ImageArea" src="RemoveAssociation.png"><br><br>::: bad<br>Figure: Choose “default” link<br>:::<br><br></p>
+    <img alt="" height="384" width="569" class="ms-rteCustom-ImageArea" src="RemoveAssociation.png"><br>::: bad<br>Figure: Choose “default” link  <br>:::<br></p>
     <p>
     b.Uncheck the “ <strong>User Profile Service Application</strong> ”  in the
     opened page, then click “ <strong>OK</strong> ”:<span lang="EN-US">
     <img alt="" height="453" width="570" class="ms-rteCustom-ImageArea" src="RemoveAssociation2.png"><br>
     </span>
-    <br><br>::: bad<br>Figure: uncheck the association for user
-    profile service<br>:::<br><br></p>
+    <br>::: bad<br>Figure: uncheck the association for user
+    profile service  <br>:::<br></p>
     </blockquote>
     </li>
     <li> <strong>Customize permissions for only some people to have access to create personal site</strong> <blockquote dir="ltr" style="margin-right:0px;">
@@ -51,8 +51,8 @@ There are a few options, based on what you need to do:<br></font>
     </span>Go to  <strong>Central Admin</strong> |  <strong>Application Management</strong> |  <strong>Service Applications</strong> |  <strong>Manage service applications</strong> ,<br>
     Click the link of “User Profile Service Application”, navigate to its manage
     page:</span> <strong><span lang="EN-US"><img alt="" height="241" width="573" class="ms-rteCustom-ImageArea" src="UserProfileServiceManagePage.png"><br>
-    </span></strong> <br><br>::: good<br>Figure: “User Profile
-    Service Application” manage page<br>:::<br><br></p>
+    </span></strong> <br>::: good<br>Figure: “User Profile
+    Service Application” manage page  <br>:::<br></p>
     <p>
     b.<span style="font:7pt 'times new roman';">    </span>Click
      <strong>People</strong> |  <strong>Manage User Permissions</strong> , you can

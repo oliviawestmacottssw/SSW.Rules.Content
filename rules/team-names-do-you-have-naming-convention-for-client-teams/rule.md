@@ -22,7 +22,7 @@ Client Teams should be prefixed with “Client –“ so it is easier to identif
 
 ::: bad  
 ![Bad Example: Client team without the "Client –" prefix](client-naming-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Good Example: Well prefixed Teams make Client-related teams easier to identify](client-naming-good.jpg)  

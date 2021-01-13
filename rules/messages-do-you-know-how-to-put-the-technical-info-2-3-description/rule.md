@@ -20,7 +20,7 @@ The description should explain *what the error was*, followed by the *why it occ
 
 ::: bad  
 ![Figure: Bad Example - A message box that does not intuitively alert the user](../../assets/BadMessageBox.gif)  
-:::  
+:::
 
 * This is confusing, because it uses different terminology to the title ("estimate" instead of "quote")
 * There is no punctuation
@@ -30,7 +30,7 @@ The description should explain *what the error was*, followed by the *why it occ
 
 ::: good  
 ![Figure: Good Example - A message box that is clear, consistent and intuitive](../../assets/GoodMessageBox.gif)  
-:::  
+:::
 
 * Terminology is consistent
 * Punctuation is present

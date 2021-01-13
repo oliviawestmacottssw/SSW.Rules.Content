@@ -24,6 +24,6 @@ Xamarin also provides several other options for optimizing Android builds and im
 
 ::: ok  
 ![Figure: Using the d8 compiler and r8 code shrinker can improve your Android app performance, and enabling startup tracing can help you identify performance issues](android-startup.png)  
-:::  
+:::
 
 For more information, see: https://devblogs.microsoft.com/xamarin/optimize-xamarin-android-builds/

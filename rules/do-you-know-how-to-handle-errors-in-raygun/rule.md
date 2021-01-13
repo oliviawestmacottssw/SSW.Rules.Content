@@ -36,35 +36,29 @@ This is where RayGun or Application Insights comes into the picture. RayGun give
 
 ::: bad  
 ![Figure: Bad Example - Elmah gives you a wall of exceptions and no way to flag exceptions as completed](elmah.gif)  
-:::  
+:::
 
 **Hi Adam,** 
 Please find below the Raygun Health Check for TimePro:
-![Raygun-health-check-for-TimePro-in-the-past-7-days.jpg](Raygun-health-check-for-TimePro-in-the-past-7-days.jpg)
-
+![](Raygun-health-check-for-TimePro-in-the-past-7-days.jpg)
 
 ::: good
-Figure: Raygun health check for TimePro in the past 7 days
+Figure: Raygun health check for TimePro in the past 7 days  
 :::
 
-
-![2.png](2.png)
-
+![](2.png)
 
 ::: good
 Figure: Resolved issues in the past 7 days
 
 :::
 
-
-![3.jpg](3.jpg)
-
+![](3.jpg)
 
 ::: good
 Figure: The next issue to be worked on
 
 :::
-
 
 &lt;This email is from [https://rules.ssw.com.au/how-to-handle-errors-in-raygun/](/how-to-handle-errors-in-raygun)&gt;
  **Figure: Email with Raygun application health report 

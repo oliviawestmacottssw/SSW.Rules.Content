@@ -25,22 +25,18 @@ A well-designed custom error page encourages surfers to remain in your site and 
 
 &lt;customErrors mode="Off"&gt;&lt;/customErrors&gt;
 
-
 ::: bad
 Figure: This is the default code on web.config 
 
 :::
 
-
 &lt;customErrors mode="RemoteOnly" defaultRedirect="/ssw/ErrorPage.aspx"&gt;
 &lt;error statusCode="404" redirect="/ssw/SSWCustomError404.aspx"&gt;
 &lt;/customErrors&gt;
 
-
 ::: good
-Figure: this is the current code in the web.config of the SSW Site
+Figure: this is the current code in the web.config of the SSW Site  
 :::
-
 
 For ASP.NET website, the detailed information would be presented to the remote machines when an unhandled error occurs if the customErrors mode is off.
 
@@ -48,19 +44,17 @@ This error information is useful for the developer to do debugging. However, it 
 
 &lt;customErrors mode="RemoteOnly" defaultRedirect="GenericErrorPage.htm"&gt;&lt;/customErrors&gt;
 
-
 ::: good
-Figure: Turning on "customErrors" protects sensitive information against Hacker
+Figure: Turning on "customErrors" protects sensitive information against Hacker  
 :::
-
 
 ::: bad  
 ![Figure: Bad example - Unhandled error](404-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Custom error page](404-good.jpg)  
-:::  
+:::
 
 ### Related rule
 

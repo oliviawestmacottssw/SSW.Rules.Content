@@ -20,7 +20,7 @@ When the XML schema is published it re-generates the underlying SQL and .aspx co
 
 ::: ok  
 ![Figure: Export customizations as backup](CRM\_CustomizationPane.jpg)  
-:::  
+:::
 
 **Tip #1:** Export only the customizations of entities that you customize and keep each entity customizations in a separate file, see the rule:[Customization](/Pages/Only-export-the-customizations-and-related-ones-that-you-have-made.aspx) - Do you export only the customizations of entities that you did customize?
 

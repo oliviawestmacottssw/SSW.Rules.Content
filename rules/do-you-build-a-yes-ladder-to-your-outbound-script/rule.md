@@ -20,7 +20,6 @@ A good way to avoid the nasty dial tone midway through your introduction is to a
 
 So after you've done your introduction here's an example how your conversation should develop. Let's say we're trying to sell some developer training:
 
-
 ::: greybox
  **Question 1:** Jane, have you considered any extra IT training since starting your job? (those that answer no, you're not likely to be targeting)
  **Prospect:** Yes
@@ -30,8 +29,7 @@ So after you've done your introduction here's an example how your conversation s
 
  **Question 3:**  Great! We're holding unique hands-on developer training sessions which may benefit you greatly. Is this of interest?
  **Prospect:**  OOH YES! 
- **Scott:**  (I'll have what she's having!) Fantastic! The courses on offer include our SSW Tech Breakfast etc...
+ **Scott:**  (I'll have what she's having!) Fantastic! The courses on offer include our SSW Tech Breakfast etc...  
 :::
-
 
 After the prospect has said yes to you three times it's going to be hard for them to decline when you ask them if they would like to find out some more information thus making it hard for them to give you an excuse to get off the phone.

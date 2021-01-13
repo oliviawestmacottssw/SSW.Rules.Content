@@ -33,17 +33,17 @@ More features are available if you purchase the full version, and you can see th
 
 ::: ok  
 ![Figure: Selecting "Enabled" ensures that people using your policy have to enter that field before claiming](Expensify options.png)  
-:::  
+:::
 
 Required fields are then identified by an asterisk when you are uploading an expense. Conveniently, most of this information is completed for you by the Smart Scan function.  On the free version, there is still room to add a manual "Comment" for more complicated claims if required.
 
 ::: bad  
 ![Figure: Bad Example - here there are only 3 required fields shown for this claim, the Name of Merchant, the Date, and the Total.  Without adding an additional Category, or Comment, it will be more difficult for the accounts staff to process this claim](Expensify\_nocompulsary.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - You can see the fields marked with an asterisk that they are required fields. To claim an expense from SSW, you need to give the "Name of Merchant", the "Date" of purchase, "Total", and a "Category". Most of this information is completed for you by the smart scan and there is still room to add a manual "Comment" for more complicated claims if required](Expensify1.png)  
-:::  
+:::
 
 If you complete these fields, it will make your reports much nicer to read and easier to claim.
 

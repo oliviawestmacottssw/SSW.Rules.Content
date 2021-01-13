@@ -18,11 +18,9 @@ The best place for a QR code scanner is to put it on top of the home page with a
 
 <!--endintro-->
 ![](qr scanner on UI.png)
-
 ::: good
 Figure: Good example - Apps put the QR code scanner on top of  homepage
 
 :::
-
 
 QR  code is widely used in Chinafy projects, it is easier for users to find the scanner when it located in a convenient place.

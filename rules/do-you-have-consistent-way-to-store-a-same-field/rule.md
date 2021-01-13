@@ -17,11 +17,11 @@ In Outlook the Street Address is stored as 1 Multi-Line field (with an  intellig
 
 ::: good  
 ![Figure: Street Address in Outlook.](../../assets/GoodExample.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Street Address in CRM.](../../assets/BadExample.jpg)  
-:::  
+:::
 
 We consider Outlook is friendlier, because:
 

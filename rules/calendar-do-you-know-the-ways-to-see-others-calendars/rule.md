@@ -38,11 +38,11 @@ This can keep track of important things like client work and leave. See [Schedul
 
 **Note:** The CRM Service Calendar is deprecated; Microsoft are now moving to Dynamics Universal Resource Scheduling 
 
-![ServiceCalendar.png](ServiceCalendar.png)
+![](ServiceCalendar.png)
 
 ::: ok  
 ![Figure: The CRM Service Calendar shows everyone's booked in client work and leave](ServiceCalendar.png)  
-:::  
+:::
 
 
 

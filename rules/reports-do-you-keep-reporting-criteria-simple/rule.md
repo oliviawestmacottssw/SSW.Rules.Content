@@ -22,6 +22,6 @@ redirects: []
 
 ::: ok  
 ![](../../assets/GraphInterface.gif)  
-:::  
+:::
 
 More     [Options for Reporting](http://www.ssw.com.au/ssw/Standards/DeveloperDotNet/GuidelinesForReporting.aspx)

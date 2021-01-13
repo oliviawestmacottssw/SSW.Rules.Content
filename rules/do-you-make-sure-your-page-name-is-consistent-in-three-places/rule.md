@@ -22,7 +22,7 @@ It's a good idea to make sure your page names are consistent       between:
 
 ::: bad  
 ![Figure: Bad example - Inconsistency everywhere!](../../assets/BadPageName.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Title, Header and Navigation Menu item have the same text.](../../assets/GoodPageName.jpg)  

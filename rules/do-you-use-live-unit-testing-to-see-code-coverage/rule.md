@@ -20,18 +20,18 @@ Visual Studio 2017 introduces a new feature called Live Unit Testing. This gives
 
 ::: ok  
 ![Figure: Enable it by selecting Test | Live Unit Testing | Start](lut-codecoverage1.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad Example – This method isn't covered by any unit tests, so the developer should consider writing a unit test for it](lut-codecoverage2.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: The developer can right click and create a test immediately](lut-codecoverage3.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example – Developer can see that the code is covered by 2 passing tests and one failing test](lut-codecoverage4.jpg)  
-:::  
+:::
 
 For more details see Joe Morris’s video on .NET Tooling Improvements Overview – Live Unit Testing:

@@ -46,7 +46,7 @@ Here they are:
 
 * **Framing:** Being eye level with the subject and using the rule of thirds, which involves mentally dividing up your framing using 2 horizontal lines and 2 vertical lines, as a professional camera would do – if you are not using one. Also make sure there isn’t too much empty space and that you are not missing anyone important, if you have a big group, for example.
 
-![RuleOfThirds.png](RuleOfThirds.png)Rule of thirds visualisationFigure: 
+![](RuleOfThirds.png)Rule of thirds visualisationFigure: 
 
 
 * **Composition Checklist:**
@@ -64,15 +64,12 @@ Here they are:
 
 * **Photo Style:** Regarding the photo style, it’s better to smile in photos, so try and get your models (aka employees) to naturally smile in their photos. This makes the business seem more inviting to clients, besides giving the photo a warmer tone. It’s always good to take natural photos as well, like a shot of our team working together. When possible, it’s great to show a bit of diversity, as the techie community is pretty much consisted by the male sex.
 
-![sebprofile.png](sebprofile.png)
-
+![](sebprofile.png)
 
 ::: bad
-Figure: Bad Example – Bad framing and background
+Figure: Bad Example – Bad framing and background  
 :::
-
-![mattgprofile.png](mattgprofile.png)
-
+![](mattgprofile.png)
 ::: good
 Figure: Good Example – Good framing for a profile photo
 

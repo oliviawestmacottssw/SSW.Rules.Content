@@ -15,11 +15,9 @@ redirects: []
 
 A golden rule of marketing is:
 
-
 ::: greybox
 *"People love gifts and surprises"*
 :::
-
 
 Taking this into consideration: a great and effective way to promote your company is to give people free stuff. A very simple yet effective method. Each month at the Sydney .NET User Group, attendees receive SSW show bags filled with free software and company brochures.
 

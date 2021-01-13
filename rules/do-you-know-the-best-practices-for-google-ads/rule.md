@@ -36,7 +36,7 @@ Below are the best practices you should know:
 
 ::: ok  
 ![Figure: Always check your Ad strength](ad-strength.png)  
-:::  
+:::
 
 ### Additional resources
 

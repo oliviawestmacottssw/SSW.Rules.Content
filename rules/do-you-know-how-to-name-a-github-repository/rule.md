@@ -21,7 +21,7 @@ Consistent naming is important so that users of your GitHub account can easily f
 
 ::: bad  
 ![Figure: Bad example – Repository names are not consistently formatted](name-github-bad.png)  
-:::  
+:::
 
 
 

@@ -28,11 +28,9 @@ private void HideToSystemTray()
        } 
 }
 
-
 ::: bad
-Bad Example: The website where the solution was found IS NOT referenced in the comments
+Bad Example: The website where the solution was found IS NOT referenced in the comments  
 :::
-
 
 
 
@@ -45,7 +43,6 @@ private void HideToSystemTray()
               Hide();
        } 
 }
-
 
 ::: good
 Good Example: The website where the solution was found is referenced in the comments

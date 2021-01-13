@@ -62,7 +62,7 @@ Examples:
 
 
 
-![2016-02-08_12-02-29.png](2016-02-08_12-02-29.png)
+![](2016-02-08_12-02-29.png)
 
 
  **Figure: Bugs can be added "out of sprint" directly into the product backlog in TFS** 

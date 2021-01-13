@@ -22,5 +22,5 @@ Imagine someone wants to book some time with you. Offer to look up the calendar 
 <!--endintro-->
  Bad Example - "Try calling him."
 
-![adams-calendar.jpg](adams-calendar.jpg)
+![](adams-calendar.jpg)
 Good Example - "Sure, I'll just look up Adam's calendar and see when he's free. Obviously, it's not a good idea to call Adam now as he is on a plane."

@@ -24,11 +24,11 @@ The redux pattern helps resolve this issue.
 
 ::: bad  
 ![Bad example: maintaining state on individual components](maintaining-state.png)  
-:::  
+:::
 
 ::: good  
 ![Good example: use the redux pattern](redux-logo.png)  
-:::  
+:::
 
 The 4 principles of the redux pattern:
 

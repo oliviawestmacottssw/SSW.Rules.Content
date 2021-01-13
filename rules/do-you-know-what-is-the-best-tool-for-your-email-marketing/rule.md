@@ -69,12 +69,10 @@ Email marketing is very important for your company and you need to use the best 
 * Very cheap - $10 per month
 
 
-
 ::: bad
 Bad Example: Does not match requirements.
 
 :::
-
 
 
 
@@ -91,12 +89,10 @@ Bad Example: Does not match requirements.
 * Cheap - $240 per month
 
 
-
 ::: bad
 Bad Example: Does not match requirements.
 
 :::
-
  **
 ** **2. Campaign Monitor (basic)
 ** 
@@ -109,11 +105,9 @@ Bad Example: Does not match requirements.
 * Average price - $1,250 per month
 
 
-
 ::: bad
-Bad Example: Does not match requirements, expensive
+Bad Example: Does not match requirements, expensive  
 :::
-
  **
 ** **3.  Active Campaign (used at SSW)** 
 
@@ -125,12 +119,10 @@ Bad Example: Does not match requirements, expensive
 * Cheap - $65 month
 
 
-
 ::: bad
 Bad Example: Does not match requirements, quite expensive
 
 :::
-
   **4. CRM Click Dimensions (on premise)  http://clickdimensions.com/pricing/**
 * Nice - editing of email
 * Nice - can see opening an email
@@ -141,11 +133,9 @@ Bad Example: Does not match requirements, quite expensive
 * Average price - $1,000 per month
 
 
-
 ::: good
-Good Example: Match requirements
+Good Example: Match requirements  
 :::
-
  **
 ** **5. Infusionsoft
 **
@@ -158,11 +148,9 @@ Good Example: Match requirements
 
 
 
-
 ::: bad
-Bad Example: Does not match requirements
+Bad Example: Does not match requirements  
 :::
-
   **6. Hubspot**
 * Nice - editing of email
 * Nice - can see opening an email
@@ -171,7 +159,6 @@ Bad Example: Does not match requirements
 * Craig Bailey SEO expert says "I have found the UI clunky and the support issues painful"
 * Nice - end to end tracking of a purchase
 * Very Expensive - $3,200 per month + Integration cost $500 per month
-
 
 
 ::: good

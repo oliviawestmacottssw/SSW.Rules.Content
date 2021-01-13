@@ -32,12 +32,10 @@ private void Command0\_Click() {
     .....processing code
 }
 
-
 ::: bad
 Bad Example - Debug code has just been commented out
 
 :::
-
 
 private void Command0\_Click() {
     rst.Open("SELECT \* FROM Emp")
@@ -48,7 +46,6 @@ private void Command0\_Click() {
     } else  {
     .....processing code
 }
-
 
 ::: good
 Good Example - the debug commands have been rafactored into meaningful comments for the next developer

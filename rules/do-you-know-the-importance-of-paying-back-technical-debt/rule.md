@@ -46,7 +46,7 @@ As new features are added to the system, often more Technical Debt will be intro
 
 ::: good  
 ![Figure: Good example - Tech Debt is very visible to the Product Owner](tech-debt-good-example.png)  
-:::  
+:::
 
 ### What are the consequences of Technical Debt?
 
@@ -61,12 +61,10 @@ As new features are added to the system, often more Technical Debt will be intro
  **#1 Planned Technical Debt** 
 Sometimes you do want to quickly implement a new feature to get it out and receive some feedback.
 
-
 ::: greybox
 PBI:         **[FeatureName] – Tech Debt - Planned** 
 
 :::
-
 
 **Note:** Martin Fowler calls this Deliberate Technical Debt 
 
@@ -76,11 +74,9 @@ PBI:         **[FeatureName] – Tech Debt - Planned**
 **#2 Discovered Technical Debt** 
 During a code review, you or the team notice something as part of the system that is clearly Technical Debt. This code is hindering the ability to add new features or is hard to read/understand.
 
-
 ::: greybox
 PBI: <br>             **[FeatureName] – Tech Debt - Discovered** 
 :::
-
 
 
 **Note:** Martin Fowler calls this Inadvertent Technical Debt
@@ -101,15 +97,15 @@ At the Sprint Planning:
 
 ::: ok  
 ![Figure: Screenshot of code with tech debt comment and link to GitHub issue](techdebt-github.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Screenshot of tech debt on backlog](techdebt-backlog.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: SugarLearning architecture diagram](techdebt-architecture.png)  
-:::  
+:::
 
 ### Related Rule
 

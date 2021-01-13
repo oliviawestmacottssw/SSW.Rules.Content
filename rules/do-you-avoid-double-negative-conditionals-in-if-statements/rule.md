@@ -29,12 +29,10 @@ else
 
 
 
-
 ::: bad
 Figure: Bad example
 
 :::
-
 
 if (IsValid)
 {
@@ -47,18 +45,15 @@ else
 
 
 
-
 ::: good
 Figure: Good example
 
 :::
 
-
 if (!IsValid)
 {
        // handle error
 }
-
 
 ::: good
 Figure: Another good example

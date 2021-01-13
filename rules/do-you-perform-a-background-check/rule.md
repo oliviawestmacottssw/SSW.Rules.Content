@@ -29,7 +29,7 @@ The easiest method is to check they are a legitimate company via a quick Google 
 * Is the "Contact Us" address and/or phone number the same as the one they provided?
 
 
-![Wanted-Poster.jpg](Wanted-Poster.jpg)
+![](Wanted-Poster.jpg)
  **Figure: Make sure you know who you're going into business with
 
 ** 

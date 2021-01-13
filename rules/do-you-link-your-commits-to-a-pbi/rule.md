@@ -25,11 +25,11 @@ In order to get better clarity on what work is done, it's a good idea to connect
 
 ::: bad  
 ![Bad Example: No linked commit's, branches or pull requests](no-linked-commit.png)  
-:::  
+:::
 
 ::: good  
 ![Good Example: Git branch linked to PBI in TFS](link-branch-to-pbi.png)  
-:::  
+:::
 
 <!--endintro-->
 
@@ -37,7 +37,7 @@ Note: If you create your branches through Azure DevOps then you can link them du
 
 ::: good  
 ![Good Example: Using Azure DevOps to link PBI during creation](link-pbi-during-creation.png)  
-:::  
+:::
 
 Here is a handy resource for linking work items:
 

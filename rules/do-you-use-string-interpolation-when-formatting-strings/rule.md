@@ -23,15 +23,12 @@ Formatting strings on the fly was previously a task which required a stack of bo
 
 var s = String.Format("Profit is ${0} this year", p.TotalEarnings - p.Totalcost);
 
-
 ::: bad
 Figure: Bad Example - Using String.Format() makes the code difficult to read
 
 :::
 
-
 var s = "Profit is ${p.TotalEarnings - p.Totalcost} this year";
-
 
 ::: good
 Figure: Good Example - String Interpolation is very human readable

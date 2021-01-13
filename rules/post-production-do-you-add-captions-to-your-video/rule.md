@@ -19,11 +19,11 @@ For argument's sake, it makes sense to refer to any text pop-up on screen as a '
 
 ::: bad  
 ![Figure: Bad example of captions - Text is too small and hard to read.](CTA\_Bad\_Example\_2.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example of Captions - Text is clear and legible. Provides extra value to the viewer with content not mentioned in the video](CTA\_Good\_Example\_2.jpg)  
-:::  
+:::
 
 Now you cant really have just one type of caption. Have defined styles for different types of videos
 
@@ -31,18 +31,18 @@ eg. Here are the styles SSW use for their videos:
 
 ::: good  
 ![Figure: Example 1: SSW Infomercials - Clear, nice effects and well stylized.](Why Choose SSW.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Example 2: General SSW TV videos - corporate branding, clear, eye catching](Good titles example.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Example 3: SSW Rules Videos - this is a good generic title style and works well for documentary style videos](SSWRules\_LowerThirdsExample.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Example 4: SSW Case Studies - This allows us to represent Scrum roles with an icon](CaseStudy\_LowerThirds.jpg)  
-:::  
+:::
 
 Remember to put any links that you've mentioned in the captions underneath your video in it's own section (with a heading such as 'Show Notes' or 'Related Content'). You can also use this section to put in links that are related to what was said in the video as evidence (similar to footnotes or a bibliography in a book). That way, you will gain more Google juice and it will make it easier for the Product Owner to review your captions.

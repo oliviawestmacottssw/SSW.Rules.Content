@@ -24,7 +24,7 @@ Aim to use any in the same way that you use the dynamic keyword in C# - that is,
 
 ::: bad  
 ![Figure: Bad example – I can pass anything into this method, so I get bad output at run time (“undefined undefined”)](any-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – using types means I get errors and intellisense support](any-good.png)  

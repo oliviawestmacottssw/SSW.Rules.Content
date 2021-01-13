@@ -70,7 +70,7 @@ Correlating it to     [DevOps Culture](https://docs.microsoft.com/en-us/azure/de
 
 ::: bad  
 ![Figure - Bad Example: Doritos usually creates their own memes blending humour with their brand, but in this one, the comments were clearly showing it was a bad idea](doritos.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure - Good Example: By using a light-hearted tone, the        NSW Police manages to get across their point on controversial topics](nswpolice.jpg)  

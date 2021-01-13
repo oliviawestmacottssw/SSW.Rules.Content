@@ -15,32 +15,25 @@ redirects: []
 
 <!--endintro-->
 
-
 ::: greybox
 Bad example - background colour is manually added to &lt;tablegt; tag
 
 :::
 
 
-
-
 ::: bad
-Bad example – example isn’t labelled with the X symbol followed by ‘Figure:’
+Bad example – example isn’t labelled with the X symbol followed by ‘Figure:’  
 :::
-
  
-<font class="ms-rteCustom-GreyBox"><br><br>::: bad<br>Figure&#58; Bad example - background colour is manually added to &lt;tablegt; tag<br>:::<br><br></font>
-
+<font class="ms-rteCustom-GreyBox"><br>::: bad<br>Figure&#58; Bad example - background colour is manually added to &lt;tablegt; tag  <br>:::<br></font>
 
 ::: good
 Figure: Good example – It is clear that this example is incorrect.
 
 :::
-
  
-<font class="ms-rteCustom-GreyBox"><br><br>::: good<br>Figure&#58; Good example - background colour is automatically added to &lt;tablegt; tag<br>:::<br><br></font>
-
+<font class="ms-rteCustom-GreyBox"><br>::: good<br>Figure&#58; Good example - background colour is automatically added to &lt;tablegt; tag  <br>:::<br></font>
 
 ::: good
-Figure: Good example – It is clear that this example is correct.
+Figure: Good example – It is clear that this example is correct.  
 :::

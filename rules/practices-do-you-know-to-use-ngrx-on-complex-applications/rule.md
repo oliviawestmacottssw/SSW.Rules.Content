@@ -30,7 +30,7 @@ NgRx is the redux pattern implemented for Angular.        [View on GitHub](https
 
 ::: ok  
 ![Figure: NgRx supercharges the redux pattern with RxJS](ngrx.png)  
-:::  
+:::
 
 Benefits:
 
@@ -43,11 +43,11 @@ Benefits:
 
 ::: ok  
 ![Figure: NgRx supercharges the redux pattern with RxJS](img1.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: The redux pattern is a way to implement a predictable state container](img2.png)  
-:::  
+:::
 
 The three principles of the redux pattern:
 

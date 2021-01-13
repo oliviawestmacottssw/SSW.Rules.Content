@@ -18,7 +18,6 @@ ASP.NET MVC provides the [AuthorizeAttribute](https&#58;//msdn.microsoft.com/en-
 <!--endintro-->
 
 
-
 :::
 
 
@@ -35,9 +34,7 @@ public ActionResult Delete(string tagName)
 ```
 
 
-::: greybox
-Figure: Bad Example – Checking for an appropriate role in code leads to repetition
-
+::: greyboxFigure: Bad Example – Checking for an appropriate role in code leads to repetition
 
 :::
 
@@ -52,5 +49,4 @@ public ActionResult Delete(string tagName)
 ```
 
 
-::: greybox
-Figure: Good Example – Using the Authorize attribute to check for appropriate roles
+::: greyboxFigure: Good Example – Using the Authorize attribute to check for appropriate roles

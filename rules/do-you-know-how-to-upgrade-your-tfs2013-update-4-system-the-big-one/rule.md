@@ -33,7 +33,7 @@ d.              Make sure you have access to coffee while it's upgrading your Pr
 
 
 
-![depending size.png](depending size.png)
+![](depending size.png)
 
 **Figure: Depending on the size of your collections, the Project Collection upgrade process takes the longest out of all steps**
 
@@ -45,7 +45,7 @@ d.              Make sure you have access to coffee while it's upgrading your Pr
 
 
 
-**![success.png](success.png)
+**![](success.png)
 **
 
 **Figure: TFS Upgrade wizard success!**

@@ -27,23 +27,19 @@ The right way to do this is to copy the image locally and upload to your own ser
 &lt;dd&gt;Figure: Open extension&lt;/dd&gt;
 &lt;/dl&gt;
 
-
 ::: bad
 Figure: Bad example - using an external URL as image source. The image can be edited or deleted and there is nothing you can do about it
 
 :::
-
 
 &lt;dl class="image"&gt;
 &lt;dt&gt;&lt;img src="<mark>https&#58;//ssw.com.au</mark>/images/open-extension.png" alt="Open extension" /&gt;&lt;/dt&gt; 
 &lt;dd&gt;Figure: Open extension&lt;/dd&gt;
 &lt;/dl&gt;
 
-
 ::: good
 Figure: Good example - Image is hosted internally. You have control over the image
 
 :::
-
 
 **Note:**  For copyrighted images, it is important to always mention the source.

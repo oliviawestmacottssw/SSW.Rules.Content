@@ -42,12 +42,10 @@ To use Control4 on your phone and remotely control all services, you will need t
 
 
 
-
 :::
 
 Good Example: Turning on the air conditioner using Control4
 ::: good
-
 
 :::
 ![](os3app.webp)
@@ -55,12 +53,10 @@ Good Example: Turning on the air conditioner using Control4
 
 
 
-
 :::
 
 Figure: Bad example, using any pysical remote control instead of the Control4 app.
 ::: bad
-
 
 :::
 ![](os3app.webp)
@@ -144,7 +140,7 @@ Throw away your remote controls and move on to technological freedom!
 
 ::: ok  
 ![](os3app.webp)  
-:::  
+:::
 
 
 > ::: ok  

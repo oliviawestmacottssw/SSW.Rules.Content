@@ -18,7 +18,7 @@ You should never start a long process (&gt;30 seconds) without first giving a wa
 
 ::: good  
 ![Figure: Good example - Code Auditor message warning this is a long process](lengthyoperation.jpg)  
-:::  
+:::
 
 You will need to have 2 things:
 

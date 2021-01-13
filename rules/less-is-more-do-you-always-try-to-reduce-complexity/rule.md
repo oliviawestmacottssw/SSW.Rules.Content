@@ -28,11 +28,11 @@ Our visual short term memory has a capacity of 4 items. So options are easier fo
 
 ::: ok  
 ![Figure: Blocks of 4 or less menu items are easier for the brain to consume](../../assets/4VisualOptions1.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Even though the iPad has a larger screen estate, it still uses a max of 4 icons across](../../assets/4VisualOptions2.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - A great example of removing complexity.](../../assets/SimpleFormsResolution.png)  

@@ -24,11 +24,11 @@ In Visual Studio, there is inbuilt support for Cyclomatic Complexity analysis.
 
 ::: ok  
 ![Figure: Cyclomatic Complexity analysis tool](CodeMetrics.gif)  
-:::  
+:::
 
 2. Look at the largest Cyclomatic Complexity number and refactor.
 
 ::: ok  
 ![Figure: Results from Cyclomatic analysis these metrics give an indication on how complicated functions are](CyclomaticAnalysis.gif)  
-:::  
+:::
 Tip: Maintainability index &gt; 85 is good and &lt; 65 is hard to maintain

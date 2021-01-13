@@ -21,13 +21,10 @@ redirects:
 When creating an appointment email for an initial meeting, make sure you include the words " **initial** " and " **meeting** " on the subject. 
 
 
-
 ::: greybox
  **Subject:**  Northwind project with SSW and Bob
 
 :::
-
-
 
 
 
@@ -37,14 +34,10 @@ Figure: Bad subject - not clear it is an initial meeting
 :::
 
 
-
-
 ::: greybox
  **Subject:** <mark>Initial meeting</mark> with SSW and Bob from Northwind
-**Subject:** <mark>Initial</mark> phone <br>         <mark>meeting</mark> with SSW and Bob from Northwind
+**Subject:** <mark>Initial</mark> phone <br>         <mark>meeting</mark> with SSW and Bob from Northwind  
 :::
-
-
 
 
 
@@ -55,14 +48,13 @@ Figure: Good subjects - Make clear it is an initial meeting by having both words
 
 
 
-
 <!--endintro-->
 
 The Appointment should also be tracked (without regarding) in Dynamics 365 so that this information is readily available and reportable.
 
 ::: ok  
 ![Figure: Initial Meeting created in Outlook and tracked to Dynamics 365](initial-meeting-dynamics.png)  
-:::  
+:::
 
 The idea behind it is that Power BI can then track and show this.
 

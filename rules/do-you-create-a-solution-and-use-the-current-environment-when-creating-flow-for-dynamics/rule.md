@@ -22,7 +22,7 @@ When creating workflows in Dynamics developers take for granted when a solution 
 
 ::: ok  
 ![](common-data-services.png)  
-:::  
+:::
 
 ### Related Rule
 

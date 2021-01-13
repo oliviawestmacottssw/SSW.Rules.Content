@@ -43,15 +43,15 @@ Assuming that Windows 10 is already installed, then get your SOE installed fast 
 7. For branding reasons, stick your company sticker to the laptop <br>      
 ::: ok  
 ![Figure: SSWLoginScript.bat](LoginScript.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: SSWPackages.ps1 which runs Chocolatey command to install SOE software](ChocolateyScript.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: SOE Software that is not supported by Chocolatey](NonChocolateyApp.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Company branding on laptop](SSWLaptopBranding.jpg)  

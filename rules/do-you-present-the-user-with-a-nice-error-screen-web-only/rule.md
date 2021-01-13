@@ -32,7 +32,7 @@ This will activate ASP.NET’s built in error page (e.g. MVC’s HandleErrorAttr
 
 ::: bad  
 ![Figure: Bad Example – Yellow Screen of Death](error-screen-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Default ASP.NET MVC custom error pageHowever, as a developer you still want to be able to view the detail of the exception in your local development environment. Use the below setting in your Web Application's web.config file to view the yellow screen locally but present a nice error screen to the user.Figure: Good Example - Don't hide the yellow screen of death in the local environment](error-screen-bad.jpg)  

@@ -21,11 +21,11 @@ You may be involved in different tasks simultaneously every day.  The best way t
 
 ::: bad  
 ![Figure: Bad example. Email messages are grouped by Date](GroupByConversationAndDateBad.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure:  Good example.  Email messages are grouped by Conversation](GroupByConversationAndDateGood.gif)  
-:::  
+:::
 
 Follow these steps to group by conversation:
 

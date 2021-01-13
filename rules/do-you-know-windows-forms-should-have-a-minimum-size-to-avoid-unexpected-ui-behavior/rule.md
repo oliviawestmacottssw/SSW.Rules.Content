@@ -15,11 +15,9 @@ redirects: []
 
 If windows form does not setup a minimum size, your users could have unpredictable form behaviour as seen below:
 ![Bad window form](../../assets/Bugsize.gif)
-
 ::: bad
-Figure: Bad Example - Unexpected window form
+Figure: Bad Example - Unexpected window form  
 :::
-
 
 
 
@@ -27,7 +25,6 @@ Figure: Bad Example - Unexpected window form
 
 Therefore, a standard has been built to ensure Windows forms have a minimum size.
 ![Good window form](../../assets/Minisize.gif)
-
 ::: good
-Figure: Good Example - User friendly window form
+Figure: Good Example - User friendly window form  
 :::

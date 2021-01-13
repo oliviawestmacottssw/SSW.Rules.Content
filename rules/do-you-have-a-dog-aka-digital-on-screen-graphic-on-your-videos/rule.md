@@ -38,7 +38,7 @@ A Good DOG must:
 
 ::: bad  
 ![Figure – Bad example: Channel ID is too obstructive and has unusual placement](dog-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure – Good example: DOG placed in lower right corner where it's not obtrusive](dog-good.jpg)  

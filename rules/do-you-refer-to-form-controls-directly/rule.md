@@ -37,12 +37,10 @@ Sub CreateSchedule()
  .....processing code
 End Sub
 
-
 ::: bad
 Bad Example
 
 :::
-
 
 Private Sub Command0\_Click()
  CreateSchedule(ctlDateStart, ctlDateEnd)
@@ -54,7 +52,6 @@ Sub CreateSchedule(pdteDateStart As Date, pdteDateEnd As Date)
  dteDateEnd = Format(pdteDateEnd, "dd/mm/yyyy")
  &....processing code
 End Sub
-
 
 ::: good
 Good Example

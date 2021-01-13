@@ -23,30 +23,26 @@ When you embed a YouTube video it will increase your page size from 500kbs to 1.
 
 ::: ok  
 ![Figure: A side by side comparison – everyone wants less requests and a smaller page size](video-embed-load-time.png)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad example - Don’t add embed code directly from YouTube. For more details read "A Better Method for Embedding YouTube Videos on your Website"](video-embed-bad.png)  
-:::  
+:::
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eu0qhzevEXQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-
 ::: bad
-Figure: Bad example – The evil HTML code
+Figure: Bad example – The evil HTML code  
 :::
-
  
 There is a clever, lightweight way to embed a YouTube video, which Google itself practices on their Google+ pages which reduce it to 15kbs.
 All you have to do is, whenever you need to embed a video to a page, add the below tag instead of the YouTube video embed code. (Remember to replace VIDEO\_ID with actual ID of the YouTube video)
 
 &lt;div class="youtube-player" data-id="VIDEO\_ID"&gt;&lt;/div&gt;
 
-
 ::: good
-Figure: Good example – The good HTML code
+Figure: Good example – The good HTML code  
 :::
-
 
 
 **Note:** This script needs to be added at the end of the document:

@@ -33,11 +33,9 @@ control
 
 &lt;asp:Label id="tumorSizeLabel" runat="server" Text='&lt;%# iif( Container.DataItem.Row.IsNull("TumorSize"), "N/A",DataBinder.Eval(Container, "DataItem.TumorSize", "0.00")) %&gt;'/&gt;
 
-
 ::: bad
-Bad code
+Bad code  
 :::
-
 
 Putting the code on the ItemDataBound Event.
 
@@ -67,10 +65,8 @@ End If
 End If
 End Sub
 
-
 ::: good
-Good code
+Good code  
 :::
-
 
 We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/) to check for this rule.

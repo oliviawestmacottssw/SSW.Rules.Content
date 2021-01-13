@@ -78,7 +78,6 @@ Thanks, [XXX]
     * Instead, add "Test please" with a yellow highlight to the top of the email body.
 
 
-
 ::: greybox
     **Subject: Product Name v1.11**
     Test please
@@ -97,7 +96,7 @@ Thanks, [XXX]
 8. Use TFS to email the work items to the project manager and client: 
 ::: ok  
 ![Figure: TFS makes it easy to export work items](tfs-backlog-email.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: How the email is generated](tfs-backlog-email-2.jpg)  

@@ -21,7 +21,7 @@ Just as we should not 'judge a book by its cover' - we will not judge an email b
 
 ::: good  
 ![Figure: Good Example - I'm definitely going to read this email](Outlook\_ChooseAnInterestingSubject.gif)  
-:::  
+:::
 
 Use the email Subject to grab your recipient's attention. Choosing the right subject can give an email a sense of urgency or importance that choosing the wrong subject won't!
 
@@ -32,7 +32,7 @@ If there's anything to be learned from spammers, they know how to get your atten
 Never leave the subject blank! It's like writing a book and failing to give it a name!
 
 
-| <br><br>::: bad<br>Bad Subject Examples<br><br>:::<br><br> | <br><br>::: good<br>Good Subject Examples<br><br>:::<br><br> |
+| <br>::: bad<br>Bad Subject Examples<br><br>:::<br> | <br>::: good<br>Good Subject Examples<br><br>:::<br> |
 | --- | --- |
 | Database | Northwind - Future - Meeting to get your software solution rolling, next Monday 2PM<br> |
 | Dinner | Dinner Tonight, 6.30PM at The Oaks |
@@ -51,12 +51,10 @@ Of course, we also use a structured approach for emails - especially when sendin
 
 We use the following format for the subject internally and encourage clients and external contacts to use this format as well.
 
-
 ::: greybox
 [Client Name/Product Name] - [Project Name] – [Object Name/Description]
 Eg.:  **WorleyParsons – IOP – Customer.aspx - Add email address validation** 
 :::
-
 
 The advantage of this is that when you sort by the subject in Outlook, you get all of the emails grouped together, and it is easy to recognize the client/product, because the subject contains the relevant information.
 
@@ -84,7 +82,6 @@ Other words to be used are:
 * Client Name
 
 
-
 ::: greybox
 
 **Remember:**
@@ -94,7 +91,6 @@ For external emails, it is acceptable to [change the email subject](/Pages/WhenT
 For internal emails, the subject line should generally not be changed as it will break the threading of emails.
 
 :::
-
 
 
 ### Related rules

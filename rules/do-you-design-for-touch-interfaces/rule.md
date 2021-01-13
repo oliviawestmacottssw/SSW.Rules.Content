@@ -23,7 +23,7 @@ True mobile interface design focuses that which is used on mobile and simplifies
 
 ::: bad  
 ![Figure: Bad Example - TimePro as it renders on mobile. It is near unusable!](TimePro-NotMobile.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - TimePro designed for mobile.](TimePro-Mobile.png)  

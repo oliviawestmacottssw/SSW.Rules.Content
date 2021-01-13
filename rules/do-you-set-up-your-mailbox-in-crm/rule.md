@@ -39,7 +39,7 @@ If successful, you will receive an email, if not, contact your nearest SysAdmin
 
 ::: ok  
 ![Figure: Setting up your mailbox in CRM](setup-mailbox-crm.png)  
-:::  
+:::
 
 If you need more guidance on setting it up, you can find more on Microsoft documentation: [Set incoming and outgoing email synchronization](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/admin/set-incoming-outgoing-email-synchronization).
 

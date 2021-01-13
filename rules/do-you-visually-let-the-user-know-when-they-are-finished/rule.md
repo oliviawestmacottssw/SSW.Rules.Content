@@ -17,7 +17,7 @@ When a user reaches the last page of a wizard, a visual indication should be pro
 
 ::: bad  
 ![Figure: Bad Example - This is the last page of the wizard but it is not obvious because the finish flag is small and the "Next" button still enabled](../../assets/BadFinishedPage.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Good quality Finish flag on the last page of a wizard.](../../assets/GoodFlagImage.png)  

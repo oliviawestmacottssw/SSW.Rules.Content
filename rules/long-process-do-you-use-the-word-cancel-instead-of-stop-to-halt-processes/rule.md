@@ -18,7 +18,7 @@ When stopping processes, you should use 'Cancel'... Not 'Stop'. The meaning of '
 
 ::: bad  
 ![Figure: Bad Example - Stop is an ambiguous term and can be momentarily confusing](../../assets/cancel-long-process-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Cancel leaves little room for miscommunication](../../assets/cancel-long-process-good.jpg)  

@@ -32,7 +32,7 @@ See examples of pages that advertise their hashtags:
 
 ::: ok  
 ![Figure: This Twitter widget shows the hashtags working](hashtag-twitter.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - SharePoint Conference 2014 banner to advertise the hashtag people should use](sharepoint-conference-hashtag.jpg)  

@@ -24,7 +24,7 @@ It is a common pattern for open source projects to contain a CONTRIBUTING.md mar
 
 ::: good  
 ![Figure: Good Example - The Microsoft ASP.NET and Azure teams both do a great job of providing documentation on how to start contributing](getinvolved1.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - The ASP.NET team (and the SSW team) use a common CONTRIBUTING.md in a common 'Home' repository. This ensures that all projects for their team are collaborated on in the same way](getinvolved2.png)  

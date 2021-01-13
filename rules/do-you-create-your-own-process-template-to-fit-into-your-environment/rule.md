@@ -22,21 +22,20 @@ The built-in Process Templates in TFS will not always fit into your environment,
 
 ::: good  
 ![Figure: Good - The "Baseline work (hours)" field was added to keep the original estimate](SSWAgile-Baseline-1.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good - "Additional Task" was added to track scope creep](SSWAgile-Additional.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good - The "URL" field has been added to allow reverse view from the web page](SSWAgile-URL.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good - Rich text has been enabled in the "Description" field to allow users to enter better text for the requirement Note: the URL field is used in the   SSW Smashing Barrier product](SSWAgile-RichText.jpg)  
-:::  
-
+:::
 
 ::: greybox
-If you want help customizing your own Process Template, call a TFS guru at SSW on +61 2 9953 3000.
+If you want help customizing your own Process Template, call a TFS guru at SSW on +61 2 9953 3000.  
 :::

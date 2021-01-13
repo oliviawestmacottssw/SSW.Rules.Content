@@ -27,12 +27,10 @@ public bool IsValidEmail(string email)
  if ( ... 
 }
 
-
 ::: bad
 Figure: Bad example of verify email address
 
 :::
-
 
 public bool IsValidEmail(string email) 
 { 
@@ -40,7 +38,6 @@ public bool IsValidEmail(string email)
  return System.Text.RegularExpressions.Regex.IsMatch( email, 
  @"^([\w-\.]+)@(([[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$";
 }
-
 
 ::: good
 Figure: Good example of verify email address

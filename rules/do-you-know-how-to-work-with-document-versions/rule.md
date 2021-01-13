@@ -23,7 +23,7 @@ This is how you should work with Document Versions:
 2. Make sure you are showing the version column in your document view. <br>      
 ::: ok  
 ![](VersionColumn\_Small.jpg)  
-:::  
+:::
     TIP: You can add the column by selecting Modify View
 3. Whenever you edit the document and check it in, SharePoint will automatically increase the version number.
     If you need to send this document to a client then it is important to:

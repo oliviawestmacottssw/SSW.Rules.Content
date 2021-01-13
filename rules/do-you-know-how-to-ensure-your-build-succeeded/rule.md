@@ -23,7 +23,7 @@ The first way is from within Visual Studio.
 
 ::: good  
 ![Figure: Good Example – Check your build has passed from Team Explorer | Builds](builds-success-good.jpg)  
-:::  
+:::
 
 The second is by always having the TFS Build Notification tool always running. Through it you can subscribe to any builds you are interested in, when they start, end and their status.
 

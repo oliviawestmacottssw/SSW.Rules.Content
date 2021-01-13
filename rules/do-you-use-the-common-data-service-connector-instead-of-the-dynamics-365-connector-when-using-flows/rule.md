@@ -26,7 +26,7 @@ While it may seem like the obvious choice to pick Dynamics 365, but this would b
 
 ::: bad  
 ![Bad Example: Using the deprecated Dynamics 365 connector](bad-connector-use.png)  
-:::  
+:::
 
 ::: good  
 ![Good Example: Using the Common Data Service connector](good-connector-use.png)  

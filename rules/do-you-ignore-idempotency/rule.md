@@ -35,23 +35,19 @@ Database scripts should be run in order (into separate sequential files), as per
 ELSE 
     CREATE TABLE [dbo].[Employees]( …… ) ON [PRIMARY]
 </pre></font>
-
 ::: bad
-Bad example – worrying about the idempotency should not be done, if you plan to run your scripts in the order they were created
+Bad example – worrying about the idempotency should not be done, if you plan to run your scripts in the order they were created  
 :::
-
  <font class="ms-rteCustom-CodeArea"><pre>CREATE TABLE [dbo].[Employees](
     ……
 ) ON [PRIMARY]
 </pre></font>
-
 ::: good
-Good example – not worrying about the idempotency. If errors occur we don’t want them to be hidden + it is easier to read
+Good example – not worrying about the idempotency. If errors occur we don’t want them to be hidden + it is easier to read  
 :::
-
 
 
 ::: ok  
 ![Figure: Viagra isn't the cure to your Idempotency problems](ViagraPill.jpg)  
-:::  
+:::
  See the concept of [Idempotence on WikiPedia](http://en.wikipedia.org/wiki/Idempotence)

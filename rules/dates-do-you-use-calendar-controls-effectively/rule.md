@@ -26,9 +26,9 @@ Users are familiar with the Outlook calendar control. When the calendar control 
 
 ::: bad  
 ![Figure: Bad Example - Calendar Control - Sunday is at the front, today's date is                          not highlighted, and items with data are not bolded](../../assets/CalendarControlBad.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Calendar Control - Monday is at the front, today's date                          is highlighted, and items with data are bolded](../../assets/CalendarControlGood.gif)  
-:::  
+:::
                                                                                             We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/) to                              check for this rule.

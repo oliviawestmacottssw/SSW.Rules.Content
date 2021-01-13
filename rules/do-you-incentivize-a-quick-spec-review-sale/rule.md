@@ -21,7 +21,7 @@ For this reason, it's a good idea to try and get the spec review booked in strai
 
 ::: ok  
 ![Figure: The chance of a Spec Review be successful decreases over time](Chance of sale decreasing.png)  
-:::  
+:::
 
 This will often lead to a cycle of you calling and emailing your client to try to book it in, with the client getting less and less responsive as they gradually lose interest and as other things take up their attention.
 

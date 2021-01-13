@@ -24,7 +24,7 @@ The same works for your work colleagues.
 
 ::: good  
 ![Good Example: Bing - Find your files faster by just searching on Bing](bing-recent-files.png)  
-:::  
+:::
 
 **Suggestion to Microsoft:** Put a checkbox "Show thumbnails" like Delve.
 

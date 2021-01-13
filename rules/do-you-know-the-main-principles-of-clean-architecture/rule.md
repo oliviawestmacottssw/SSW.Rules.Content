@@ -18,7 +18,7 @@ With Clean Architecture, the Domain and Application layers are at the centre of 
 
 ::: ok  
 ![Figure: Onion View of Clean Architecture](ca-diagram.png)  
-:::  
+:::
 
 <!--endintro-->
 

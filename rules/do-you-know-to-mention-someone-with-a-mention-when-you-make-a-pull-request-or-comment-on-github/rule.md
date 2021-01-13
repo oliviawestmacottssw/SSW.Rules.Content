@@ -25,7 +25,7 @@ Read more about @mention: https://help.github.com/articles/basic-writing-and-for
 
 ::: bad  
 ![Figure: Bad example - Not using a @mention when addressing Duncan or Igor](github-mention-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Using a @mention](github-mention-good.png)  

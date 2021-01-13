@@ -46,17 +46,14 @@ Keep in mind that 1) hosting of a full-text search service costs you labour to s
 
 ![Untitled2.png](9c0754_Untitled2.png)
 
-
 ::: good
-Figure: Good Example - Azure website using AzureSearch for what it can deliver today
+Figure: Good Example - Azure website using AzureSearch for what it can deliver today  
 :::
 
 
 
-
-![Untitled.png](Untitled.png)
-
+![](Untitled.png)
 
 ::: bad
-Figure: Bad Example - Azure website using ElasticSearch for a simple search that AzureSearch can do
+Figure: Bad Example - Azure website using ElasticSearch for a simple search that AzureSearch can do  
 :::

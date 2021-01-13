@@ -25,11 +25,11 @@ Make sure appointments have address details unless it's obvious for all attendee
 
 ::: bad  
 ![Figure: Bad Example - Appointment field should have addresses in location when appropriate](appointment-location-bad-example.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Address is clearly identified in the location field, meaning it can be mapped using applications on smartphones](map example.png)  
-:::  
+:::
  
 
 It's important to always add the address information in appointments when a third party is included. i.e.:

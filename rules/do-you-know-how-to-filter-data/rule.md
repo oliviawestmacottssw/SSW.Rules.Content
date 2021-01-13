@@ -20,12 +20,12 @@ The standard DataGrid of ASP.NET doesn't include this functionality, developers 
 
 ::: bad  
 ![Figure: Bad Example - implement data filter manually](FilterDataInDataGrid.jpg)  
-:::  
+:::
 
 Fortunately, RadGrid supplies this perfect feature.
 
 ::: good  
 ![Figure: Good Example - add an attribute to filter data](FilterDataInRadGrid.jpg)  
-:::  
+:::
 
 Developer can turn this feature on by setting the AllowFilteringByColumn="True".

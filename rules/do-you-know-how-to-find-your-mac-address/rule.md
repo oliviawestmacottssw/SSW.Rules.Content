@@ -37,7 +37,7 @@ iPhone
 
 ::: ok  
 ![](iphone-mac.png)  
-:::  
+:::
 **
 
 
@@ -51,7 +51,7 @@ iPhone
 
 ::: ok  
 ![](android-mac-address.jpg)  
-:::  
+:::
 **
 
 

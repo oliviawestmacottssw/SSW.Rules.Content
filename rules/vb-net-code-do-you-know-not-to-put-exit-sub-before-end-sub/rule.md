@@ -25,16 +25,13 @@ Exit sub
 
 
 
-
 ::: bad
-Figure: Bad example
+Figure: Bad example  
 :::
-
 
 Sub MySub
 …
 End sub
-
 
 
 

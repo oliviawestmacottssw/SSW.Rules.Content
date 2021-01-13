@@ -32,7 +32,7 @@ Differences between Managed and Unmanaged solutions:
 
 ::: ok  
 ![Figure: Solution show all customizations, make it very easy to move changes between environments](solutions-custom.png)  
-:::  
+:::
 
 ### Related Rule
 

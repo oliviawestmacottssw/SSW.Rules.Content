@@ -29,7 +29,7 @@ Let's see how to live without stomach ulcers...
 
 ::: ok  
 ![Figure: Get work approved and spend less time putting out fires](SuccessfulProjects\_PuttingOutFires.jpg)  
-:::  
+:::
 
 Get permission for the work you do      **\*before\*** you do it. Usually get permission verbally,     [confirmed with an email](/dones-do-you-send-yourself-emails) (or with a     [signature](/do-you-ask-clients-to-initial-your-work), although that's sometimes a whole lot harder).
 

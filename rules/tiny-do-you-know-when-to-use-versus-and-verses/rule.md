@@ -31,13 +31,10 @@ When using a homophone in a sentence, it is important to ensure you are using th
 
 
 
-
 ::: greybox
 "Matthew 5:41 is one of my favourite bible versus."
 
 :::
-
-
 
 ::: bad
 Figure: Bad example: the wrong “versus” is used
@@ -46,20 +43,14 @@ Figure: Bad example: the wrong “versus” is used
 
 
 
-
-
 ::: greybox
 "Floyd verses Mayweather."
 
 :::
 
-
-
 ::: bad
-Figure: Bad example: Floyd did not poetry<br>Mayweather
+Figure: Bad example: Floyd did not poetry<br>Mayweather  
 :::
-
-
 
 
 ::: greybox
@@ -67,22 +58,16 @@ Figure: Bad example: Floyd did not poetry<br>Mayweather
 
 :::
 
-
-
 ::: good
 Figure: Good example: in a legal context, “versus”<br>is abbreviated to “v.”
 
 :::
 
 
-
-
 ::: greybox
 "Adam penned many verses about his love for .NET development"
 
 :::
-
-
 
 ::: good
 Figure: Good example

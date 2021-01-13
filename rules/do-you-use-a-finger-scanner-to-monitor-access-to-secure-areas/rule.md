@@ -28,19 +28,15 @@ Finger scanners are a good way of monitoring and restricting access to secure ar
 SSW uses an Invixium fingerprint scanner. The user interface is easy to use, you simply hold your finger down on the screen and it will either allow or deny you access. Other fingerprint scanners like E-Key use a swipe function that is less intuitive for visitors.
 
 The Invixium integrates well with our [Control4](/rules-to-better-control4) Automation system.
-![Scanner 2.jpg](Scanner 2.jpg)
-
+![](Scanner 2.jpg)
 ::: bad
 Bad example - E-Key needs you to swipe your finger down, this is less intuitive
 
 :::
-
-![Scanner 1.jpg](Scanner 1.jpg)
-
+![](Scanner 1.jpg)
 ::: good
 Good example - Invixium  is easy to use, just hold down your finger on the screen to scan 
 :::
-
 
 
 

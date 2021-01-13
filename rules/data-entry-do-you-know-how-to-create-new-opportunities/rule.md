@@ -25,7 +25,7 @@ You need to know what's in the sales pipeline, and the way to do that is by ente
 
 ::: good  
 ![Figure: In CRM 2013, click on Sales | Opportunities](Sales-Opportunities.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Click New, enter the Opportunity, especially the $ value and the chance of success](NewOpportunity.jpg)  

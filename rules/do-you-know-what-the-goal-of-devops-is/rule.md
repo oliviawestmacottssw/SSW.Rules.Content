@@ -26,18 +26,14 @@ redirects:
 
 The goal should be:
 
-
 ::: greybox
 A client calls and says: "I'm having problems with your software."
 
 :::
 
-
-
 ::: greybox
 Your answer: "Yes I know. Each morning we check the health of the app and we already saw a new exception. So I already have an engineer working on it."
 
 :::
-
 
 Take this survey to find out your DevOps index: <br>

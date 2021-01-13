@@ -23,10 +23,10 @@ When you contribute to open source projects it is great to fix bugs and contribu
 
 ::: bad  
 ![Figure: Bad Example - bad open source contribution etiquette involves gratuitous refactoring, re-organisation of files and classes, changing of formatting beyond those used throughout the rest of the project](etiquette-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - good open source contributors review the CONTRIBUTING.md for the project and work within the guidelines provided, they follow existing coding styles and architecture and if large refactoring or changes are required communicate with the community and the core contributors](etiquette-good.png)  
-:::  
+:::
 
 This issue is described beautifully here http://tirania.org/blog/archive/2010/Dec-31.html

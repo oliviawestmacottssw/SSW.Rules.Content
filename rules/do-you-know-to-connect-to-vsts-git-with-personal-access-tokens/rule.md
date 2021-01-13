@@ -24,7 +24,7 @@ It isn't always clear how to do this.
 
 ::: bad  
 ![Figure: Bad Example - Alternate  Authentication Credentials should not be used. When you change the password it invalidates all projects and can't be scoped to limit access to your Team Services data](vsts-alternative-login.png)  
-:::  
+:::
 
 Instead, you should use Personal Access Token. You can do this in two ways.
 
@@ -32,7 +32,7 @@ The first option is to make sure your Git for Windows is up-to-date and when clo
 
 ::: good  
 ![Figure: Good Example - Windows for Git credential manager will automatically create Personal Access Token for Git](git-credentials-personal-access-token.png)  
-:::  
+:::
 
 Option 2 is to manually create Personal Access Token and use it as a password for Git login.
 

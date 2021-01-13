@@ -21,11 +21,11 @@ Getting in the zone is pretty challenging in any work environment. Outlook in pa
 
 ::: good  
 ![Figure: Good Example - Turn off Outlook distractions on Windows](OutlookDistractions.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Turn off Outlook distractions on a Mac](minimize-outlook-distractions-mac.jpg)  
-:::  
+:::
 
 * Doesn't play a sound
 * Doesn't briefly change the mouse cursor

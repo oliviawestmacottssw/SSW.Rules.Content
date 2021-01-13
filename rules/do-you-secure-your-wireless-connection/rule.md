@@ -18,12 +18,9 @@ Wireless networks are everywhere now. You can't drive down the street without fi
 
 <!--endintro-->
 
-
 ::: greybox
-WEP, No SSID broadcast, allowed MAC addresses are all OK but these are more home security.
+WEP, No SSID broadcast, allowed MAC addresses are all OK but these are more home security.  
 :::
-
-
 
 ::: bad
 Figure: Bad example - the above settings are not suitable for a company's wireless access point
@@ -33,9 +30,7 @@ Figure: Bad example - the above settings are not suitable for a company's wirele
 
 
 
-
 For the office, you need something a bit more robust and not requiring much management overhead.
-
 
 ::: greybox
 It is recommended to use Radius authentication to integrate with your Active Directory.
@@ -43,12 +38,9 @@ It is recommended to use Radius authentication to integrate with your Active Dir
 :::
 
 
-
-
 ::: good
-Figure: Good example - configure your wireless access point to authenticate against AD
+Figure: Good example - configure your wireless access point to authenticate against AD  
 :::
-
 
 This article explains how to setup your wireless AP to use WPA2-enterprise. WPA2-Enterprise verifies network users (AD a/c's) through a server (Domain Controller).
 
@@ -68,7 +60,7 @@ This document assumes you have some knowledge of how to configure your wireless 
 
 1. **Configure your wireless access points**
     In SSW we use Unifi APs. I have configured these access points to:
-    ![ubntuap-ac-lite.jpg](ubntuap-ac-lite.jpg)
+    ![](ubntuap-ac-lite.jpg)
 
 ::: ok
 ![Figure: Unifi AP](ubntuap-ac-lite.jpg)

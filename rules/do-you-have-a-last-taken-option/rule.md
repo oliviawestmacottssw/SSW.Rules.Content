@@ -16,11 +16,9 @@ The best apps predict what the user is trying to do from context and does it for
 
 <!--endintro-->
 ![](lastphototaken.png)
-
 :::
 Figure: Good Example – “Use Last Photo Taken” is a simple example from Slack.
 ::: good
-
 
 This is generally referred to as an “adaptive system.”
 

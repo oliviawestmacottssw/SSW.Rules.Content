@@ -25,7 +25,7 @@ Your tweets should be interesting to your target audience. People aren't going t
 
 ::: bad  
 ![Bad Example - "Having lunch" is not an interesting tweet](twitter-boring-tweet.png)  
-:::  
+:::
 
 Some good examples of things to tweet about:
 

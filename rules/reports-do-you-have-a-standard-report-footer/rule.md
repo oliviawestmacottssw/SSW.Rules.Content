@@ -23,24 +23,20 @@ Include:
 4. Link to company website + slogan  (e.g. www.ssw.com.au - Writing software people understand)
 
 
-![RSRulesBadFooter.gif](RSRulesBadFooter.gif)
+![](RSRulesBadFooter.gif)
  
 
-
 ::: bad
-Bad Example - This footer doesn't provide any useful information
+Bad Example - This footer doesn't provide any useful information  
 :::
 
 
 
-
-![RSRulesGoodFooter.gif](RSRulesGoodFooter.gif)
-
+![](RSRulesGoodFooter.gif)
 
 ::: good
-Good Example - Useful and informative information should be displayed in your report footer
+Good Example - Useful and informative information should be displayed in your report footer  
 :::
-
 
 
  
@@ -60,13 +56,11 @@ Use these handy report expressions to show the above information.
 
 
 
-![footerInDesigner.gif](footerInDesigner.gif)
-
+![](footerInDesigner.gif)
 
 ::: good
-Good Example - Footer in visual studio designer
+Good Example - Footer in visual studio designer  
 :::
-
 
 
  
@@ -76,11 +70,9 @@ When you try to add the User your data-driven subscriptions will fail with the f
 'The '/GroupHealth' report has user profile dependencies and cannot be run unattended. (rsHasUserProfileDependencies)'.     
 A quick workaround is to add a user function to fallback the error to a nice message, like: "SYSTEM",
 
-
 ::: greybox
 
 :::
-
 
  Public Function UserName()
 

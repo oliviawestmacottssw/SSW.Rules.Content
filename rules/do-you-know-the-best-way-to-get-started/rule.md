@@ -22,7 +22,7 @@ If you're building applications based on .NET Core then the Clean Architecture S
 
 ::: ok  
 ![Figure: The Clean Architecture Solution Template by @JasonTaylorDev](clean-architecture-solution-template.png)  
-:::  
+:::
 
 The template is designed for creating a Single Page App (SPA) with Angular and ASP.NET Core, but it can easily be used for other .NET Core applications. Create a new project based on this template by visiting https://github.com/jasontaylordev/CleanArchitecture/ and clicking  **Use this template** or by installing the     [.NET Core Project Template](https://www.nuget.org/packages/Clean.Architecture.Solution.Template) package. To do so, follow these steps:
 

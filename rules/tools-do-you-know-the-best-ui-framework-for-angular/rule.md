@@ -42,7 +42,7 @@ Angular Material has a very specific design metaphor, and if the look and feel i
 
 ::: ok  
 ![Figure:  Angular Material is built by the Angular team](angular-material.png)  
-:::  
+:::
 
 The components available in Angular Material are solid, but it doesn't have the range of components that are available in Bootstrap. It is actively being developed though, and new, exciting components are being added regularly. For example, an infinite scroll component was added in October 2018.
 
@@ -67,6 +67,6 @@ Bootstrap is the obvious choice if your UI design requires extensive customizati
 
 ::: ok  
 ![Figure: Bootstrap has been the recommended UI framework for the web for years](bad-bootstrap.png)  
-:::  
+:::
 
 There are two popular bootstrap-based Angular component libraries -     [ng-bootstrap](https://ng-bootstrap.github.io/) and     [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap). Both support Bootstrap 4 and provide a rich choice of components.

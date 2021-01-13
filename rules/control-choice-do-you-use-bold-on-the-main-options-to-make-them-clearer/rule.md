@@ -17,7 +17,7 @@ Make the options clearer by using bold.
 
 ::: bad  
 ![Figure: Bad Example - Main options text not in bold](../../assets/OptionsTextNotInBold.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Main options text in bold](../../assets/OptionsTextInBold.gif)  

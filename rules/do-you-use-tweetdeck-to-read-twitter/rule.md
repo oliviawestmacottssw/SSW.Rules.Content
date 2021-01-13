@@ -35,11 +35,9 @@ Bad Example : Using the Twitter webpage is not the best way to use Twitter
 
 ![](twitter-tweetdeck.png)
 
-
 ::: good
 Good Example : Using TweetDeck gives you a dashboard to follow topics you are interested in
 
 :::
-
 
 You can download TweetDeck here: http://www.tweetdeck.com/

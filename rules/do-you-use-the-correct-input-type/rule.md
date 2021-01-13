@@ -19,12 +19,12 @@ Although most of these don't do anything on desktop, on mobile devices they brin
 
 ::: bad  
 ![&lt;label for="phone"&gt;Phone&lt;/label&gt;: &lt;input           type="text" name="phone"&gt;&lt;/input&gt;Figure: Bad Example – This field is using a text type and shows a standard keyboard on mobile](fieldtype-text.PNG)  
-:::  
+:::
 
 
 ::: good  
 ![&lt;label for="phone"&gt;Phone&lt;/label&gt;: &lt;input           type="tel" name="phone"&gt;&lt;/input&gt;Figure: Good Example – This field is using the correct field type and shows the keypad on mobile](fieldtype-tel.PNG)  
-:::  
+:::
 
 
 

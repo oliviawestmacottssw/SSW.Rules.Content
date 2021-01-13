@@ -18,6 +18,6 @@ You should spend the extra dollars to ensure that you get nice cards and your em
 
 ::: good  
 ![Figure: SSW Cube Business Cards](ssw-businesscards.png)  
-:::  
+:::
 
 <!--endintro-->

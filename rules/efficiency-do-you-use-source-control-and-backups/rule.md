@@ -26,9 +26,8 @@ If you are working onsite, you can still use TFS remotely and it's important to 
 
 
 
-![Backup.gif](Backup.gif)
-
+![](Backup.gif)
 
 ::: good
-Figure: Have a backup
+Figure: Have a backup  
 :::

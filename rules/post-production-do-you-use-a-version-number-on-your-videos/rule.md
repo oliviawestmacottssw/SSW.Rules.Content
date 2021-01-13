@@ -17,11 +17,11 @@ When updating a version of a video (especially in a corporate environment),  it'
 
 <!--endintro-->
 
-![bad-version-example.jpg](bad-version-example.jpg)
+![](bad-version-example.jpg)
 
 Figure: Bad example - the version number is too large, too dark and too obvious
 
-![Version Example.png](Version Example.png)
+![](Version Example.png)
 Figure: Good example - the text is small, barely visible and would only be noticeable if you're looking for it.
 
 The best way to label the version is as follows:

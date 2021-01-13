@@ -18,11 +18,11 @@ It is important to define your response types.
 
 ::: bad  
 ![dd&gt;Figure: Bad example – no response types](bad-no-response-types.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – Response types (in .NET)](good-response-types.png)  
-:::  
+:::
 
 <!--endintro-->
 
@@ -54,13 +54,11 @@ return new BadRequestResult();
 }
 }
 
-
 ::: bad
 Figure: Good example for swashbuckle - Even better if you have .NET Core 2.1 use the strong typed ActionResult – see yellow
 
 
 :::
-
 
 [HttpGet]
         [SwaggerResponse(HttpStatusCode.OK, typeof(long))]
@@ -81,7 +79,6 @@ Figure: Good example for swashbuckle - Even better if you have .NET Core 2.1 use
                 return new BadRequestResult();
             }
         }
-
 
 ::: good
 Figure: Good example for nswag - Even better if you have .NET Core 2.1 use the strong typed ActionResult – see yellow

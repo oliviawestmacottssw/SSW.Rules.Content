@@ -23,10 +23,10 @@ Whether you are converting an email to a blog post or writing it from scratch, a
 
 ::: bad  
 ![Figure: Bad example, there are no instructions here](RulesBloggingFeedbackBad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – Asking some questions at the end will solicit more feedback](RulesBloggingFeedbackGood.jpg)  
-:::  
+:::
 
 Although people may not comply, it helps them adjust from the world of email only.

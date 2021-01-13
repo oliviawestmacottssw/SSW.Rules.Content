@@ -27,36 +27,28 @@ The findings of the Spec Review should be presented at a meeting with the key de
 
 ::: ok  
 ![Figure: It's a lot easier to get a signature when you've got the right people in the room](ProjectManagement\_DecisionMakers\_Small.jpg)  
-:::  
+:::
 
 If you've run the Spec Review successfully the client should not be surprised by anything you present. This means discussions should focus on issues such as what particular requirements could be added into the scope for the MVP, or what releases can be completed by what date, rather than spending the meeting helping the client regain consciousness after they blacked out from seeing the price.
 
 The Spec Review presentation should be scheduled by the Consultant or Account Manager for the afternoon of the final day of the Spec Review.
 
-
 ::: greybox
-“I will send you a proposal when I get back to the office.”
+“I will send you a proposal when I get back to the office.”  
 :::
-
-
 
 ::: bad
 Figure: Bad example – a common mistake is to tell the client you will complete it later     
 
 :::
 
-
-
 ::: greybox
-“Let’s schedule a meeting now for Wed 3 pm. I will send a meeting invite to all the stakeholders.”
+“Let’s schedule a meeting now for Wed 3 pm. I will send a meeting invite to all the stakeholders.”  
 :::
-
-
 
 ::: good
-Figure: Good example – this is an appointment with a specific time for the next schedule The benefits are:
+Figure: Good example – this is an appointment with a specific time for the next schedule The benefits are:  
 :::
-
 
 * You are striking while the iron is hot
 * All parties benefit while the information is fresh in their minds
@@ -75,7 +67,7 @@ Make sure to name your video according to the rules on [How to Include Version N
 
 ::: good  
 ![Figure: Good example - Export your PowerPoint presentation as a video](3-01-2014 10-13-04 PM.png)  
-:::  
+:::
 
 ### Video Examples <br>   
 

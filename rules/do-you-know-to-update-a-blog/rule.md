@@ -23,26 +23,24 @@ Use the word "UPDATED" clearly (in capitals and in red for example). The date sh
 
 Example:
 
-
 ::: greybox
 UPDATED: 1 August 2010 [what you changed]
 
 :::
 
-
 ::: ok  
 ![Figure: OK example – Although Peter has the right idea, he needs to think more of a global audience -        See live](RulesBloggingUpdate\_OKPeter.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Ultimate example – Mike has gotten into the swing of things -        See live](RulesBloggingUpdate\_UltimateMike.jpg)  
-:::  
+:::
 
 You should also apply this technique to youtube videos you record.
 
 ::: good  
 ![Figure: Good Example - Following up on bug video makes it clear that the bug was fixed quickly](UpdatedYoutubeTitle.png)  
-:::  
+:::
 
 ### Related Rule
 

@@ -51,7 +51,7 @@ Bad options for updating database schema - No ability to validate that the datab
 
 ::: bad  
 ![Figure: Don't use Data Dude](DataDude-BadExample.jpg)  
-:::  
+:::
 
 public partial class GenderToString : DbMigration
  {
@@ -66,12 +66,10 @@ public partial class GenderToString : DbMigration
  DropColumn("dbo.Customers", "GenderTemp");
  }
 
-
 ::: good
 Good Example - Data motion with EF Migrations
 
 :::
-
 
 ### Related Rule
 

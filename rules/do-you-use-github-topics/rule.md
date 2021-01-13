@@ -28,13 +28,13 @@ GitHub introduced topics in 2017, and you can use topics to search for repositor
 
 ::: ok  
 ![Figure: Searching for repositories by topic](github-repositories-topics-search.jpg)  
-:::  
+:::
 
 Topics also help others to find your repository and increase the visibility and discoverability of your work.
 
 ::: bad  
 ![Figure: Bad Example – no repositories tagged with topics on the first page](github-repositories-topics-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Great example – every repository is meticulously tagged with topics](github-repositories-topics-good.jpg)  

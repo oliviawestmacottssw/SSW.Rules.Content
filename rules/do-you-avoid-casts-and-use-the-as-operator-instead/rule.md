@@ -27,12 +27,10 @@ private void AMControlMouseLeftButtonUp(object sender, MouseButtonEventArgs e)
  // snip snip snip
 }
 
-
 ::: bad
 Bad example
 
 :::
-
 
 private void AMControlMouseLeftButtonUp(object sender, MouseButtonEventArgs e)
 {
@@ -44,10 +42,8 @@ private void AMControlMouseLeftButtonUp(object sender, MouseButtonEventArgs e)
  }     
 }
 
-
 ::: good
 Good example
 
 :::
-
   More info here: [http://blog.gfader.com/2010/08/avoid-type-casts-use-operator-and-check.html](http&#58;//blog.gfader.com/2010/08/avoid-type-casts-use-operator-and-check.html)

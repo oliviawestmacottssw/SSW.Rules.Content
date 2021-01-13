@@ -37,7 +37,7 @@ The best tweets will use a combination of @mentions and #hashtags where appropri
 
 ::: ok  
 ![Figure: Figure: This tweet utilises @mentions, #hashtags, and an external link, which will create higher engagement and let the reader further explore the topic](tweet-with-mentions-and-hashtags.png)  
-:::  
+:::
  
 **Small companies:
 ** If the brand is not big you don't need it diluted. So find the profile and use the @ not the #

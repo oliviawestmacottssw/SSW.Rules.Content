@@ -21,7 +21,7 @@ See the example below using "Your Details"                     and "Event Detail
 
 ::: good  
 ![Figure: Good example - Use FieldSet for grouping](fieldset.jpg)  
-:::  
+:::
 
 Here's an example of how FieldSet works:
 
@@ -43,7 +43,7 @@ Here's an example of how FieldSet works:
 Figure: Example code of FieldSet
 ::: ok  
 ![Figure: How that code will look on the browser](fieldset-browser.jpg)  
-:::  
+:::
 
 Things to remember:
 

@@ -30,15 +30,15 @@ You should always try to use Site Columns instead of List Columns
 
 ::: bad  
 ![Figure: Create column - Bad Example](ListColumn.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Add from existing site columns - Good Example](SiteColumn.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Site Columns - Good Example](SSWColumns\_small.jpg)  
-:::  
+:::
 
 
 

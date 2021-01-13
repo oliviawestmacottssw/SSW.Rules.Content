@@ -22,7 +22,7 @@ Also a developer, you can use it to know if a piece of code you have modified ha
 
 ::: bad  
 ![Figure: Bad example - popup dialog at the end of a long process](TimeTaken\_Bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - show time taken in the status bar](TimeTaken\_Good.jpg)  

@@ -25,7 +25,7 @@ The Application Insights provides devs with two different levels of usage tracki
 
 ::: ok  
 ![Figure: The most frequent event is someone filling out their timesheet.](usage-1.png)  
-:::  
+:::
 
 It is very straightforward to add these to an application by adding a few lines of code to the hot points of your app. Follow this link to read more (https://azure.microsoft.com/en-us/documentation/articles/app-insights-api-custom-events-metrics/).
 
@@ -33,7 +33,7 @@ Feel constricted by the Application Insights custom events blade? Then you can e
 
 ::: ok  
 ![Figure: Power BI creates an easy to use and in-depth dashboard for viewing the health of the application](Sugarlearning PowerBi.png)  
-:::  
+:::
 
 
 Previously we would have had to perform a complicated set up to allow Application Insights and Power BI to communicate. [(Follow this link to learn more).](http://blog.chrisbriggsy.com/Getting-Started-using-Application-Insights-PowerBI/) Now it is as easy as adding the Application Insights content pack.  

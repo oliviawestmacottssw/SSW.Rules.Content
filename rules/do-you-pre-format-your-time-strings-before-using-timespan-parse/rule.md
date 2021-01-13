@@ -22,21 +22,17 @@ TimeSpan.Parse() constructs a Timespan from a time indicated by a specified stri
 
 ts = TimeSpan.Parse(cboMyComboBox.Text)
 
-
 ::: bad
 Figure: Bad code because a value greater than 24hours will crash eg. 45:30
 
 :::
 
-
 ts = TimeSpan.Parse(FormatTimeSpanString(cboMyComboBox.Text))
-
 
 ::: good
 Figure: Good code because we are using a wrapper method to pre-parse the string containing the 
 TimeSpan value. [(Look it up in CodeBase)](https&#58;//www.ssw.com.au/ssw/Standards/Rules/RulestoBetterCode.aspx#)
 
 :::
-
 
 We have a program called [SSW Code Auditor](https&#58;//www.ssw.com.au/ssw/CodeAuditor/Rules.aspx#TimeSpan) to check for this rule.

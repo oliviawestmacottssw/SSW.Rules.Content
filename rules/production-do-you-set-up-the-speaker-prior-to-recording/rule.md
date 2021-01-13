@@ -30,19 +30,15 @@ During the presentation a number of guests will ask the speaker questions regard
  
 The people who watch your video need to know what the questions were in order to understand the context of the answers. The best way to do this is to ask the speaker to paraphrase the question in his or her answer. A simple example would be:
 
-
 ::: greybox
 Audience member: "Why should we do things your way?
 Speaker: "Because..."
 :::
-
 Figure: Wrong way to respond (viewer will not understand what the context of the answer without knowing the question.)
-
 ::: greybox
 Audience member: "Why should we do things your way?"
 Speaker: "The reason you should do things this is way is because..."
 :::
-
 Figure: Correct way to respond    The speaker arrives to the venue with a mindset that they are speaking to a room of about 25 - 30 people. It is important to us and the audience at home who watch this online, that the speakers' mindset changes from presenting to a room of people to an audience of thousands
 3. [Do you enable presentation mode in Visual Studio](/enable-presentation-mode-in-visual-studio).
 4. Tell the speaker to read  [Rules to Better PowerPoint Presentations](https&#58;//www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=8&amp;cad=rja&amp;ved=0CHMQFjAH&amp;url=http&#58;//www.ssw.com.au/ssw/standards/Rules/RulesToBetterPowerpointPresentations.aspx&amp;ei=ue-GUdiyNueWiQedlICQBg&amp;usg=AFQjCNGvMOBZ3W-Ri29auNajyEjSPzX9oA&amp;sig2=9Is7_Z_fo0VGQt9r5SZpOg&amp;bvm=bv.45960087%2cd.aGc).

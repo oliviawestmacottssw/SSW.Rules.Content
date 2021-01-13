@@ -36,11 +36,11 @@ This also works better for Service Calendar syncing, as you can see what each pe
 
 ::: bad  
 ![Figure: Bad Example – If a change is needed on Tuesday’s booking, there will an issue](recurring-appointment-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example – Easy to alter any individual day as needed](recurring-appointment-good.png)  
-:::  
+:::
 
 **For Leave**
 

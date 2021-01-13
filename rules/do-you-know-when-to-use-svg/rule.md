@@ -35,7 +35,7 @@ Some of SVG format advantages are:
 
 ::: bad  
 ![Figure: Bad Example - this graphic is line art, but has mistakenly been saved as a JPEG. It loses resolution.](jpg\_vs\_svg\_bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - the same graphic, saved as an SVG, no pixelation.](svg.jpg)  

@@ -19,7 +19,6 @@ At the end of the spec review encourage the project to go ahead with the current
 
 <!--endintro-->
 
-
 ::: greybox
 "The resources allocated to your project depend on availability. All efforts will be made to allocate the original resources used on the Spec Review, but that cannot be guaranteed.|
 

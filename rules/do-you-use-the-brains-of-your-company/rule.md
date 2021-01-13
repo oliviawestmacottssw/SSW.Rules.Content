@@ -145,11 +145,11 @@ Eg. "Guys, you've got 5 minutes to get your 3 votes in"
 
 ::: good  
 ![Good Example: A brainstorming session is like an office party but more productive](MicrosoftTeams-image.png)  
-:::  
+:::
 
 ::: good  
 ![Good Example: A Trello board with the voting power-up allows people to suggest and vote on ideas they would like to work on in the brainstorming session](2019-12-07\_16-06-18.png)  
-:::  
+:::
 
 ::: good  
 ![Good Example: The selected ideas are moved from the Vote column to the Chosen column and the real fun begins!](2019-12-07\_16-26-04.png)  

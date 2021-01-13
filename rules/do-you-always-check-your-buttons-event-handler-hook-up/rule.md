@@ -26,12 +26,10 @@ this.button1.Size = new System.Drawing.Size(75, 23);
 this.button1.TabIndex = 60;
 this.button1.UseVisualStyleBackColor = true;
 
-
 ::: bad
 Bad Example - the event handler hook-up is lost, so there will be no response after you click the button
 
 :::
-
 
 this.btnResetAll = new System.Windows.Forms.Button();
 this.btnResetAll.FlatStyle = System.Windows.Forms.FlatStyle.System;
@@ -42,7 +40,6 @@ this.btnResetAll.TabIndex = 54;
 this.btnResetAll.Text = "Reset &All";
 this.btnResetAll.UseVisualStyleBackColor = true;
 this.btnResetAll.Click += new System.EventHandler(this.btnResetAll\_Click);
-
 
 ::: good
 Good Example : keep the event handler hook-up together with the initialization of the button

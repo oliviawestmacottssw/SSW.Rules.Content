@@ -23,16 +23,13 @@ Previously you have had to pay for this service, but there is now a free CA call
 
 
 <!--endintro-->
-![tomato.jpg](tomato.jpg)
-
+![](tomato.jpg)
 ::: bad
 Figure: Bad example – As you can see, your web-browser will let you know if the website you’re accessing is not secure
 
 :::
 
-
-![ssw.jpg](ssw.jpg)
-
+![](ssw.jpg)
 ::: good
 Figure: Good example – SSW’s website is secure and does not share your information
 

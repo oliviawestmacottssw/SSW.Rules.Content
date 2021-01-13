@@ -31,30 +31,23 @@ Here is a list of English words which are OK to use on your user interface:
 * 3D
 
 ![](microsoft download site.jpg)
-
 ::: good
 Figure: Good Example - Microsoft's Chinese software downloading site use "FAQ" on the main menu
 
 :::
 
 
-
 ![](sugarlearning cn site.jpg)
-
 ::: good
 Figure: Good Example - SugarLearning.cn site use "FAQ" on the main menu
 
 :::
-
 ![](versionok.png)
-
 ::: good
 Figure: Good Example - Apps keep "V" or "Version" in English
 
 :::
-
 ![](FACE ID.png)
-
 ::: good
 Figure: Good Example - iOS keep "ID" in English
 

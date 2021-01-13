@@ -31,7 +31,7 @@ Application sharing allows presenters to share control of software on their desk
 
 ::: ok  
 ![Figure: Application sharing, note the ability to view questions from participants](lync-app-sharing.jpg)  
-:::  
+:::
 
 Presenters can delegate control to meeting participants. Presenters can customize the colour depth and screen resolution to better engage with participants who have varying desktop capabilities.
 

@@ -35,11 +35,11 @@ Let's have a look at the best way to get authorization:
 
 ::: bad  
 ![Figure: Bad Example - this expense will not be reimbursed](purchase-please-bad-example.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - this expense will be reimbursed, if David gets a reply from Adam](purchase-please-good-example.jpg)  
-:::  
+:::
 
 ### Related Rule 
 

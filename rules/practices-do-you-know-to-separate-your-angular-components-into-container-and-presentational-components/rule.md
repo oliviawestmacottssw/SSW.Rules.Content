@@ -59,7 +59,6 @@ export class CompanyListTableComponent {
     }
 }
 
-
 ::: good
 Figure: Good example of a presentational component with no injected dependencies
 

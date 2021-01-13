@@ -31,7 +31,7 @@ Here is a diagram outlining some of the ways you can track your performance:
 
 ::: ok  
 ![](mkt-performance-diagram.png)  
-:::  
+:::
 
 A simple way of tracking this, is to have a spreadsheet that holds all of your data. Measurement can be as simple or as complicated as you make it. Don’t measure simply for the sake of having some numbers to present to your upper management. If you aren’t certain what you should be measuring, ask yourself these two questions:
 

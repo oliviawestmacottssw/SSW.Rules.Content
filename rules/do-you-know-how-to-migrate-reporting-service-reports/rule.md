@@ -36,7 +36,7 @@ There are three steps:
 
 ::: ok  
 ![Figure:  Send an email to ask permission](sent.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Email received with permission to delete from creator](receive.png)  

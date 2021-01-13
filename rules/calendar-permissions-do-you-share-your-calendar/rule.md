@@ -24,20 +24,20 @@ So always make sure the admin people are able to access your calendar with full 
 
 ::: ok  
 ![Figure: Click on "Calendar Permissions"](Share-Calendar.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Give admins full access to your calendar](Permissions.jpg)  
-:::  
+:::
 
 Once the permission is given, open other people's calendar is as easy as 2 steps:
 
 1. Go to the Calendar tab in outlook and click "open a Shared Calendar"
- **![Shared-Calendar.jpg](Shared-Calendar.jpg)Figure: Opening a shared calendar
+ **![](Shared-Calendar.jpg)Figure: Opening a shared calendar
 ** 
 
 
-2. Choose the calendar you want to open in the pop-up form:![SSWAbsence.jpg](SSWAbsence.jpg)
+2. Choose the calendar you want to open in the pop-up form:![](SSWAbsence.jpg)
 
 Figure: Find the calendar you want
 

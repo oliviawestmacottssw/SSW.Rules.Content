@@ -21,7 +21,7 @@ Therefore it is bad web design to use a horizontal scroll bar. When designing yo
 
 ::: bad  
 ![Figure: Bad Example - Using pre code tags and having lines exceed screen size](BadHorizontalScrollBar.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Using pre code tags and having lines not exceed screen size](GoodHorizontalScrollBar.jpg)  

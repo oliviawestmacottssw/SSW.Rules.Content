@@ -30,11 +30,11 @@ Let us look at some examples:
 
 ::: bad  
 ![Figure: Bad example - Chrome using Chinese as its language setting](2016-3-22 10-43-12.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Chrome using English as its language setting](2016-3-22 14-59-07.png)  
-:::  
+:::
 
 ### How to fix on a PC?
 
@@ -87,7 +87,7 @@ You should also change your Google language to English as well. If it is not alr
 2. Click on `Sign-In` or `My Account` if you are already signed in <br>      
 ::: ok  
 ![Figure: Google page without an account](ssw1.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Google page with an account](ssw2.png)  
@@ -134,7 +134,7 @@ You should also change your Google language to English as well. If it is not alr
 3. Choose your preferred language for displaying pages. Add English(UnitedStates) and move it to the top. <br>      
 ::: ok  
 ![Figure: Click Choose to change your preferred language](Firefox3a.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Add English(United States) to your preferred language for displaying pages](Firefox3.png)  
@@ -146,7 +146,7 @@ You should also change your Google language to English as well. If it is not alr
 
 ::: ok  
 ![Figure: In Azure https://portal.azure.com it is as simple as clicking on the Cog icon](Azure.png)  
-:::  
+:::
 
 ### How to fix on MS Office 365 (rich client)
 
@@ -154,30 +154,28 @@ You should also change your Google language to English as well. If it is not alr
 
 ::: bad  
 ![Figure: The Office 365 cog does not show the language. Some cheap versions of Microsoft Office 365 only allow Chinese, so you need to uninstall and install the English version. It requires you to download a language pack which is a bit more of a hassle...](office365.png)  
-:::  
-![3.png](3.png)
+:::
+![](3.png)
 
 1. Go to https://outlook.office.com **Figure: If you have the Inbox, Sent Items etc in Chinese then you will need to follow these steps
 
-** ![screenshot.png](screenshot.png)
+** ![](screenshot.png)
 ### How to fix on Office 365 (https://outlook.office365.com)
-
 
 
 
 :::
 Figure: If you do not have the English version. In Microsoft Office open the rich client application such as Outlook or Word, then install and configure as per the image above
 ::: good
-
 2. Click on "My profile" in the top right corner
-![screenshot-step1.png](screenshot-step1.png)
+![](screenshot-step1.png)
  ** Figure: Choose 'My profile' ** 
 3. Click on "setting" button ** 
- ** ![screenshot-step2.png](screenshot-step2.png) ** Figure: Choose 'Mail' ** 
+ ** ![](screenshot-step2.png) ** Figure: Choose 'Mail' ** 
 4. Click on Region and time zone ** 
- ** ![screenshot-step3.png](screenshot-step3.png) **Figure: Choose Region and Time. Then when you change the ‘Language’ with the checkbox enabled, the problem will be fixed.
+ ** ![](screenshot-step3.png) **Figure: Choose Region and Time. Then when you change the ‘Language’ with the checkbox enabled, the problem will be fixed.
 
 ** 
-5.In Windows10, Go to Settings| Language| Windows display language, click Windows display language and search for English.6. Done. You have changed your language to English. Congratulations!~![screenshot-finished.png](screenshot-finished.png)
+5.In Windows10, Go to Settings| Language| Windows display language, click Windows display language and search for English.6. Done. You have changed your language to English. Congratulations!~![](screenshot-finished.png)
  ** Figure: After completing the fix. 
 **

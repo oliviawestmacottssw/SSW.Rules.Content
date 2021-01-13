@@ -18,8 +18,7 @@ redirects:
 
 <!--endintro-->
 
-![Jekyll.jpg](Jekyll.jpg)
-
+![](Jekyll.jpg)
 
 ::: bad
 Bad Example: Jekyll - Great but too simple
@@ -28,9 +27,7 @@ Bad Example: Jekyll - Great but too simple
 
 
 
-
-![NextJS.jpg](NextJS.jpg)
-
+![](NextJS.jpg)
 
 ::: bad
 Bad Example: NextJS - We had reliability issues with page generation
@@ -39,14 +36,11 @@ Bad Example: NextJS - We had reliability issues with page generation
 
 
 
-
-![Gatsby.jpg](Gatsby.jpg)
-
+![](Gatsby.jpg)
 
 ::: good
 Good Example: Gatsby
 
 :::
-
 
 Gatsby is great because it's simple and yet powerful. It works natively with GitHub as a Datasource and you can query via GraphQL based on Tags and Branches.

@@ -21,12 +21,10 @@ Try to avoid problems in if-statements without curly brackets and just one state
 if (ProductName == null) ProductName = string.Empty; if (ProductVersion == null)
  ProductVersion = string.Empty; if (StackTrace == null) StackTrace = string.Empty;
 
-
 ::: bad
 Figure: Bad Example
 
 :::
-
 
 if (ProductName == null) 
 { 
@@ -41,7 +39,6 @@ if (StackTrace == null)
  StackTrace = string.Empty;
 }
 
-
 ::: good
-Figure: Good Example
+Figure: Good Example  
 :::

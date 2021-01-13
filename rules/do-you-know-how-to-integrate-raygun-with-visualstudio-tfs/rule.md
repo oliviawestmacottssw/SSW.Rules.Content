@@ -25,18 +25,18 @@ TFS/VisualStudio.com is the source of truth for product development, so how do y
 
 ::: ok  
 ![Figure: Link RayGun with TFS/VisualStudio.com](raygun-integration-tfs-1.png)  
-:::  
+:::
 
 Now under the crash report, you have to option to create a PBI and link it to the crash report.
 
 ::: ok  
 ![Figure: Create a new PBI or link to an existing PBI](raygun-integration-tfs-2.png)  
-:::  
+:::
 
 Now you can see which RayGun create reports have already been added to the backlog.
 
 ::: ok  
 ![Figure: Link RayGun with TFS/VisualStudio.com](raygun-integration-tfs-3.png)  
-:::  
+:::
 
 RayGun is a useful tool to use for your DevOps. Check out our rule “[Do you know how DevOps fits in with Scrum?](/do-you-know-how-devops-fits-in-with-scrum)”

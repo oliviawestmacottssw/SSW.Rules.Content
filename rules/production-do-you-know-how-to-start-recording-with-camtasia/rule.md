@@ -51,18 +51,16 @@ Follow these steps to start recording using Camtasia:
 8. On the ‘Video Proc Amp’ tab, check the Frequency setting is correctly configured – 50Hz if you are located in Australia or China.<br>   
 ::: ok  
 ![Figure: In Camtasia, there are two options in the frequency setting to help prevent flickering.](frequency-settings-camtasia.png)  
-:::  
+:::
 <br>   This setting ensures that the camera frame rate is in sync with electrical devices (such as fluorescent lights) in order to prevent flickering.
  **Note:** If you are located in America, or anywhere that uses a 60Hz electricity supply, you will need to select the 60Hz setting.
 9. After you have done all these things, click on 'OK', and then hit the big red 'Rec' button to start recording!
-
 
 
 ::: greybox
  **Tip:** Alternatively, you can use     [Loom](https://www.useloom.com/), which works as a Google Chrome extension.     
 
 :::
-
 
 ### Related Rule
 

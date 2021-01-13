@@ -28,15 +28,15 @@ If you have a wearable device like an Apple Watch/ Fitbit/ Microsoft Band that c
 
 ::: ok  
 ![Figure: With an Apple Watch, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](apple-iwatch-incoming-call.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: With a Fitbit, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](fitbit-band-incoming-call.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: With a Microsoft Band, you can keep your phone on vibrate 100% of the time and never have to worry about missing a call](microsoft-band-incoming-call.jpg)  
-:::  
+:::
 
 This has the following advantages:
 

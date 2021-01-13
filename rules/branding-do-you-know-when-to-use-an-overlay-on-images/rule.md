@@ -40,20 +40,15 @@ It’s a good way of adding text to a photo as well following your branding guid
 <!--endintro-->
 
 See some bad and good examples from SSW's social media below:
-![badexampleandreas.png](badexampleandreas.png)
-
+![](badexampleandreas.png)
 ::: bad
-Figure: Bad Example – An overlay could have made this post look nicer
+Figure: Bad Example – An overlay could have made this post look nicer  
 :::
-
-![goode5videos.png](goode5videos.png)
-
+![](goode5videos.png)
 ::: good
-Figure: Good Example – Overlay on a social media post used to have some text on it
+Figure: Good Example – Overlay on a social media post used to have some text on it  
 :::
-
-![goodeteamphoto.png](goodeteamphoto.png)
-
+![](goodeteamphoto.png)
 ::: good
 Figure: Good Example – Overlay on a social media post to fill in the 4 square gaps that a wide photo can have
 

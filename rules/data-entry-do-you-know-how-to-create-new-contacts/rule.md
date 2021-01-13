@@ -22,7 +22,7 @@ redirects: []
 
 ::: bad  
 ![Figure: Bad Example - Click New, enter relevant contact information, and click "Save and Close"](NewContact.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - open the Account and create the contact from there](Sales-COntacts.jpg)  

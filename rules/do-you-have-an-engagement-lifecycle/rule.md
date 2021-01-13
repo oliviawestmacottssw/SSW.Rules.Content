@@ -22,11 +22,9 @@ Our engagement lifecycle overlaps with our     [sales pipeline](/do-you-know-the
 
 ![7ProjectPhases.png](Engagement Lifecycle.png)
 
-
 ::: good
-Figure: Good Example - Engagement Lifecycle
+Figure: Good Example - Engagement Lifecycle  
 :::
-
 
 **<font color="#555555"></font>**
 

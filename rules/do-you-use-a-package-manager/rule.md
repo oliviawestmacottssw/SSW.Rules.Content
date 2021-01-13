@@ -19,7 +19,7 @@ A package manager is a collection of software tools that automate the process of
 
 ::: ok  
 ![](chocolatey.png)  
-:::  
+:::
 
 To get started with Chocolatey open up Command Prompt in Administrative mode, type in:
 

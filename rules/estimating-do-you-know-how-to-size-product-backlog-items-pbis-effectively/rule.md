@@ -50,13 +50,12 @@ This method is popular with Microsoft teams, but it has the problem of not easil
 > 
 > :::
 > 
-> 
 > **Please note:** In some teams which only use Small, Medium and Large the following numbering is applyed respectively 2, 4 and 8.
 
 
 ::: bad  
 ![Figure: Bad example - Estimation using T-Shirt sizes](size-stories-bad-example.jpg)  
-:::  
+:::
 
 ### Fibonacci Extended (1-100)
 
@@ -64,7 +63,7 @@ Planning Poker is a very effective Product Backlog estimation technique and the 
 
 ::: good  
 ![Figure: OK example - Estimation using Planning Poker with large numbers](size-stories-ok-example.jpg)  
-:::  
+:::
 
 ### Fibonacci (1-21)
 
@@ -74,7 +73,7 @@ Ken Schwaber (the father of Scrum) says in his Scrum Certification course, that 
 
 ::: good  
 ![Figure: OK example - Estimation using Planning Poker with only small numbers](size-stories-good-example.jpg)  
-:::  
+:::
 
 ### Doubling (recommended)
 
@@ -82,7 +81,6 @@ Ken Schwaber (the father of Scrum) says in his Scrum Certification course, that 
 Estimating using doubling numbers makes relative sizing simple. An 8 point PBI should be about twice the size as a 4-point PBI. This method also simplifies PBI swapping where a PBI is replaced with PBIs totaling the same number of points.
 
 It has one other advantage over the Fibonacci sequence, it is easier for non-techies because the numbers aren't whacky and the name isn't bizarre.
-
 
 ::: greybox
  **Estimate** 
@@ -96,12 +94,9 @@ It has one other advantage over the Fibonacci sequence, it is easier for non-tec
 
 :::
 
-
-
 ::: good
-Figure: Good example -Doubling simplifies relative sizing
+Figure: Good example -Doubling simplifies relative sizing  
 :::
-
 
 ### Thrown
 
@@ -113,7 +108,7 @@ The action is done in the same method as the game 'Rock, Paper, Scissors'. The o
 
 ::: ok  
 ![Figure: PBI estimates using the "Thrown method"](fist-method.jpg)  
-:::  
+:::
 
 ### Other Tips
 
@@ -136,9 +131,8 @@ Every team is different, but you can use the following guidelines for sizing PBI
 > | 64<br> | More than a month with a couple of guys.<br> **Tip:** Don't include these in a sprint because they are too risky - ask for them to be broken down. |
 > 
 > 
-> 
 > ::: good
-> Figure: Good example - Example PBI estimates
+> Figure: Good example - Example PBI estimates  
 > :::
 
 

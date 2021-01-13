@@ -25,7 +25,7 @@ When building a web application, it is common that you will need icons in the UI
 
 ::: bad  
 ![Figure: Bad example - using images for application icons can generate a lot of pain](23-06-2014 11-20-02 AM.png)  
-:::  
+:::
 
 This is simplified if you are using  **Bootstrap** , as it comes with a font-based icon library you can use in your web application. However, there is an even better third-party font-based icon library you should use when using Bootstrap:     [Font Awesome](https://fontawesome.com/).
 
@@ -37,7 +37,7 @@ There are hundreds of icons. Here are a few commonly used ones:
 
 ::: ok  
 ![Figure: Examples of Font Awesome icons](18-06-2014 2-33-45 PM.png)  
-:::  
+:::
 Read the  ["Basic Use" documentation](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
 
 If you are using  **Azure** , there is an awesome icon collection with several options for you to use: http://code.benco.io/icon-collection/
@@ -45,6 +45,6 @@ If you are using  **Azure** , there is an awesome icon collection with several o
 
 ::: good  
 ![Figure: Good example - a 5x scaled paper plane icon added to a Web Application](18-06-2014 2-33-45 PM.png)  
-:::  
+:::
 
 Also check out Eric Phan's blog for more info: http://ericphan.net/blog/2013/10/15/javascript-corner-font-awesome .

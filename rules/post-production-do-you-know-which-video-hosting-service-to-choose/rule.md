@@ -25,7 +25,7 @@ Hosting platforms like Wistia and Vimeo is better for professional purposes beca
 
 ::: good  
 ![Figure: Good Example for using YouTube – Educational video targeted at a specific audience, with an aim of driving engagement and high view numbers - Routing in ASP.NET Core 3.0 | 'Tech Tips' @ NDC Sydney 2019](video-hosting-youtube.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example for using Vimeo – Homepage sales video: since the main goal for this would be to embed it on your website and get clients, you wouldn't be too concerned with hits. As such, Vimeo would be the best choice - Why choose SSW for custom software development?](video-hosting-vimeo.jpg)  

@@ -29,11 +29,9 @@ According to [MSDN web developer tips](https&#58;//blogs.msdn.microsoft.com/), 
 
 &lt;system.web&gt; &lt;deployment retail="true"/&gt; &lt;/system.web&gt;
 
-
 ::: good
 The setting in machine.config will also turn off trace output in a page and detailed error messages remotely
 
 :::
-
 
 Machine.config file is typically located at %SystemRoot%\Microsoft.NET\Framework\%VersionNumber%\CONFIG.

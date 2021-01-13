@@ -18,11 +18,9 @@ This one is going to be a controversial one. But the bottom line is every now an
 
 <!--endintro-->
 
-
 ::: bad
-Cons:
+Cons:  
 :::
-
 
 * You can't manually change a Primary Key and let the Cascade Update do its work, eg. an InvoiceID
 * Hassles when importing data into related tables where you want to control the Primary Key eg. Order and Order Details
@@ -36,12 +34,10 @@ But in SQL Server you have identities and we have these procs:
 * SET IDENTITY\_INSERT { table } { ON | OFF } - Allows explicit values to be inserted into the identity column of a table
 
 
-
 ::: good
 Pros:
 
 :::
-
 
 * Less programming - letting the database take care of it
 * Replication (identities are supported by SQL Server with ranges so when you want replication, no coding)

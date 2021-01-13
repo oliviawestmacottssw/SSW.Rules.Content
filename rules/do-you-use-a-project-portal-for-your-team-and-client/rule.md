@@ -30,15 +30,15 @@ Make it easy for the new developer by putting all this information in a central 
 
 ::: ok  
 ![](plaindashboard.png)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad Example - Don't stick with the default dashboard, it's almost useless](2016-06-06\_8-00-55.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - This dashboard contains all the information a new team member would need to get started](2016-06-06\_9-15-14.png)  
-:::  
+:::
  
 
 <!--endintro-->

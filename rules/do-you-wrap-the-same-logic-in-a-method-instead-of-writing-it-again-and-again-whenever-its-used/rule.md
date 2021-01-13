@@ -56,12 +56,10 @@ sSmtpClient.Send(sMessage);
 }
 }
 
-
 ::: bad
 Bad Example: Write the same logic repeatedly 
 
 :::
-
 
 
 
@@ -99,7 +97,6 @@ sSmtpClient.Credentials = new NetworkCredential(pUser, pPwd, pDomain);
 sSmtpClient.Send(sMessage);
 } 
 }
-
 
 ::: good
 Good Example: Put the same logic in a method and make it reusable 

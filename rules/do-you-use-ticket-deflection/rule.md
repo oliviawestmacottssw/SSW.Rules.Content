@@ -30,7 +30,7 @@ More info: https://support.zendesk.com/hc/en-us/community/posts/203459886-Fine-T
 
 ::: ok  
 ![Figure: You can use Azure Logic Apps with Cognitive Services to implement deflected tickets](azure-logic-deflected-tickets.jpg)  
-:::  
+:::
 
 **Note:** SSW uses     [Zendesk](https://www.ssw.com.au/ssw/Consulting/Zendesk.aspx).
 

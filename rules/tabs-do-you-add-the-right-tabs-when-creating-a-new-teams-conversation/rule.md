@@ -25,7 +25,7 @@ The number of tabs is really broad and starts with the standard Microsoft produc
 
 ::: ok  
 ![Figure: There is a virtual smorgasbord of tabs to add the conversation – aggregating all your necessary work parts into one easy, accessible location](teams-tab-1.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Beyond our "conversations", we have 4 tabs – our "files", our "VSTS backlog", our "workflow notes", and our "stakeholders in Excel"](teams-tab-2.png)  

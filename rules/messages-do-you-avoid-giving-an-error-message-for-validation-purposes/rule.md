@@ -16,7 +16,7 @@ If you do a search and no matches are found, display a message indicating zero r
 
 ::: bad  
 ![Figure: Bad Example - No matches found on searching is not an "Error"](../../assets/InappropriateError.gif)  
-:::  
+:::
 
 <!--endintro-->
 

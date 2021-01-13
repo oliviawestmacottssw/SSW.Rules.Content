@@ -28,7 +28,7 @@ Never allow a situation where a developer can check out code and the code does n
 Figure: Bad example - wrong process
 ::: ok  
 ![Figure: Before you start cooking prepare all your ingredients. Before you start coding, "Get Latest" the right way](BeforeCoding.jpg)  
-:::  
+:::
 
 1. Get latest
 2. Compile

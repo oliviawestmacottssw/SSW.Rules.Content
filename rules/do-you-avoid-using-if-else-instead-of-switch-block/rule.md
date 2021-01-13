@@ -46,11 +46,9 @@ else
 // do something #6
 }
 
-
 ::: bad
-Figure: Bad example of coding practice
+Figure: Bad example of coding practice  
 :::
-
 
 
 
@@ -80,11 +78,9 @@ default:
 break;
 }
 
-
 ::: good
 Figure: Good example of coding practice which will result better performance 
 
 :::
-
 
 Further Reading: [Speed Test: Switch vs If-Else-If](http&#58;//www.blackwasp.co.uk/SpeedTestIfElseSwitch.aspx)

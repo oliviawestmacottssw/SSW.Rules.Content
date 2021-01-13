@@ -32,7 +32,7 @@ The best tool for deployments is [Octopus Deploy](https://octopus.com/).
 
 ::: good  
 ![Figure: Good Example - SSW uses Octopus Deploy to deploy Sugar Learning](SugarLearningOctopus.png)  
-:::  
+:::
 
 Octopus Deploy allows you to package your projects in Nuget packages, publish them to the Octopus server, and deploy the package to your configured environments. Advanced users can also perform other tasks as part of a deployment like running integration and smoke tests, or notifying third-party services of a successful deployment.
 
@@ -49,7 +49,7 @@ Whenever you make changes on the website, as soon as they are approved they will
 
 ::: ok  
 ![](ticksubfolders.jpg)  
-:::  
+:::
 
 If you are working on some files that you do not want to sync then put a  **\_DoNotSyncFilesInThisFolder\_XX.txt** file in the folder. (Replace XX with your initials.) So if you see files that are to be synced (and you don't see this file) then find out who did it and tell them to sync. The reason you have this TXT file is so that people don't keep telling the web
 

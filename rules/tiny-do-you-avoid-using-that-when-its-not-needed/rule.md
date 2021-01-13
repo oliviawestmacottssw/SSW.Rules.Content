@@ -14,30 +14,22 @@ redirects:
 
 'That' is occasionally an unnecessary addition to a sentence, especially if it's a title that would benefit from being short and punchy. As such, avoid using "that" in a title wherever possible.
 
-
 ::: greybox
-"Building Software that People Understand"
+"Building Software that People Understand"  
 :::
-
-
 
 ::: bad
-Figure: Bad Example - unnecessary "that"
+Figure: Bad Example - unnecessary "that"  
 :::
-
-
 
 ::: greybox
-"Building Software People Understand"
+"Building Software People Understand"  
 :::
-
-
 
 
 ::: good
-Figure: Good Example - without the "that", the setence is concise and has more punch
+Figure: Good Example - without the "that", the setence is concise and has more punch  
 :::
-
 
 
 

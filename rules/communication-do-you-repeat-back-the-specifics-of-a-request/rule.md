@@ -18,30 +18,25 @@ Misunderstanding due to miscommunication can cause major disasters at work or in
 
 ::: bad  
 ![Figure: KLM Flight 4805 collides with Pan Am Flight 1736 at Tenerife Los Rodeos Airport](flight-accident-1977.jpg)  
-:::  
+:::
 
 A good communication strategy when receiving instructions is to repeat back what's being said to avoid misunderstanding.
 
 <!--endintro-->
  Question:   
 
-
 ::: greybox
 1. Please add a checkbox on the right, and make it red.
 
 :::
 
-
 Possible answers:<br>      
 Figure: Bad Example
-
 :::
 
 "OK" or "Roger That"
 ::: greybox
-
 Figure: Good Example - repeat back the task
-
 
 :::
 

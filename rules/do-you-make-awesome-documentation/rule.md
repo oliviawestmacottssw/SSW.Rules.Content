@@ -40,7 +40,7 @@ There are a few styles of documentation:
 
 ::: bad  
 ![Figure: Bad example - The dinosaur’s method of documentation](old-documentation.png)  
-:::  
+:::
 
 The old school way is document first – lots of planning, and lots of heavy documentation created upfront before even a single line of code is written.
 
@@ -59,21 +59,19 @@ This is a well-established way to do documentation, but it has several problems:
 
 ::: bad  
 ![Figure: Bad example - Documentation can take the form of Sequence Diagrams](enterprisearchitect1.jpg)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad example - Use Case Diagrams are even worse!](EnterpriseArchitectUseCases.jpg)  
-:::  
+:::
 
 There may be exceptions – some situations benefit from this kind of documentation; for example, it may be necessary to support a business case – although a well-defined spec is a better document to support a business case.
-
 
 
 ::: greybox
  **More info:** https://rules.ssw.com.au/rules-to-better-specification-reviews
 
 :::
-
 **Tip:** Documentation should be as minimal as possible. If your circumstances require this style of documentation, start by limiting it to just enough to cover your first couple of Sprints. And recognize that by going down this path you make a commitment to keeping it up-to-date.
 
 
@@ -104,11 +102,9 @@ It also means that when a developer makes a change to the code that needs an upd
 
 **In the Wiki (for developers and other stakeholders):**
 
-
 ::: greybox
- **Note:** When using a GitHub Wiki, it’s a separate repository. When using an Azure DevOps Wiki, it’s in the same repository.
+ **Note:** When using a GitHub Wiki, it’s a separate repository. When using an Azure DevOps Wiki, it’s in the same repository.  
 :::
-
 
 **4. Wiki\Business** – explains the purpose of the application, including the problem, goals, and statement of intent.
 
@@ -132,38 +128,38 @@ Documents to be read or edited by the Product Owner (or other members of the Scr
 
 ::: bad  
 ![Figure: Bad example - Github project without any documentation or instruction](documentation\_\_level2\_\_bad-example-gh.png)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad example - Azure DevOps project without any documentation or instruction](azuredevops-bad.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: OK example - Github project with README instructions on how to compile and run the project (but still has a TODO)](documentation\_\_level2\_\_good-example-1-gh.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Azure DevOps project with README instructions on how to compile and run the project](azuredevops-good.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Github project with Wiki instructions for product owners, stakeholders, or public consumption (Source: https://github.com/christoment/Northwind/wiki)](documentation\_\_level2\_\_good-example-2-gh.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Azure DevOps project with Wiki instructions for product owners, stakeholders, or public consumption](azuredevops-wiki-good.png)  
-:::  
+:::
 
 **Tip:** Use your documentation for onboarding developers
 
 
 ::: bad  
 ![Figure: Bad Example - No documentation, go and sit with another developer](sit-dev-bad.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - Developer onboarding can be self-guided by good documentation, and offers a structure for feedback and improvement if the developer hits any issues](documentation\_\_level2\_\_onboarding-pbi-3.png)  
-:::  
+:::
 
 **Tip:** Keep your documentation as minimal as possible - automate the F5 experience and deployment process (documents 2 and 3) using PowerShell scripts. Then your documents can just say "run these scripts"
 

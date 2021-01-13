@@ -36,78 +36,78 @@ So, here are a few examples taken from our social media of what you could post o
 
 ::: ok  
 ![Figure: SSW’s devs doing a scrum retro with General Manager Uly after working on        SSW TimePro](teamwork.jpg)  
-:::  
+:::
 
 ### Projects that your company worked on
 
 ::: ok  
 ![Figure: SSW's developer Kosta being recorded by SSW TV about the web app that SSW developed for Sydney University](breast.jpg)  
-:::  
+:::
 
 ### Video content
 
 ::: ok  
 ![Figure: SSW TV Tech tips recorded during NDC 2019 on YouTube -        Watch the playlist here](sswtv.jpg)  
-:::  
+:::
 
 ### Events that your company organised
 
 ::: ok  
 ![Figure: Clean Architecture Superpowers paid training promotion on SSW's socials](promoclean.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure:        Angular Hack Day post-event post](sswevents.jpg)  
-:::  
+:::
 
 ### External events that you and your team attended to
 
 ::: ok  
 ![Figure: SSW’s team in our booth at NDC Sydney 2019 with Alumnus Tiago Passos](ndc.jpg)  
-:::  
+:::
 
 ### Your team members profile
 
 ::: ok  
 ![Figure: In profile photos, you can show your employees in action](kikisprofile.png)  
-:::  
+:::
 
 ### Your employee's blogs posts
 
 ::: ok  
 ![Figure: Use the same image from the blog post for consistency](blogpost.jpg)  
-:::  
+:::
 
 ### Your business blog posts
 
 ::: ok  
 ![Figure: When you promote your own business' blog post on your social media, try to use the same design & branding](blogpostssw.jpg)  
-:::  
+:::
 
 ### General content wrote by your team on your website
 
 
 ::: ok  
 ![Figure: Even though some of your content doesn’t have a photo, you can add a relevant one from free stock photo services, like the above](rules.jpg)  
-:::  
+:::
 
 ### Employment opportunities
 
 ::: ok  
 ![Figure: Hiring post following branding guidelines](hiringpost.jpg)  
-:::  
+:::
 
 ### Teamwork, parties, etc
 
 ::: ok  
 ![Figure: A team shot just before NDC with part of the SSW China office](teamwork2.jpg)  
-:::  
+:::
 
 ### Relevant news for your industry
 
 ::: ok  
 ![Figure: If you don’t have a catchy photo to represent your news, try free stock photo websites like        Pexels or        Unsplash](technews.jpg)  
-:::  
+:::
 
 ### Memes, if they suit your industry
 

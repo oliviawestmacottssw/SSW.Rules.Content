@@ -20,11 +20,11 @@ Tasking out work means adding it to the backlog. Adding it to the backlog has pr
 
 ::: bad  
 ![Figure: Bad Example - asking someone to do work in a conversation](teams - tasking in conversation.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - task is added to the backlog](teams - add to backlog.png)  
-:::  
+:::
 
 
 

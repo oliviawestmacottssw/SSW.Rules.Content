@@ -48,15 +48,15 @@ Don't surprise users! Use the following icons:
 
 ::: ok  
 ![Figure: FYI there are the same images used by Google at GoogleDesktopSideBar.htm](../../assets/IconPdf.png)  
-:::  
+:::
 
 ::: bad  
 ![Figure: Bad Example - The user would expect all these hyperlinks to work the same way](../../assets/IconPdf.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - The pdf icon (before a hyperlink) indicates it is not a web page](../../assets/IconPdf.png)  
-:::  
+:::
 
 ### How to add an icon before a link with CSS
 

@@ -61,7 +61,7 @@ At SSW we find the greatest overall value for expense reimbursements is to use t
 
 
 
-![2020-11-25_15-44-09.png](2020-11-25_15-44-09.png)
+![](2020-11-25_15-44-09.png)
 
 
  **Figure: Xero Expense app submit a photo** 
@@ -75,7 +75,7 @@ At SSW we find the greatest overall value for expense reimbursements is to use t
 
 
 
-![e.jpg](e.jpg)
+![](e.jpg)
 
 
  **Figure: Details required of a submitted receipt** 
@@ -89,7 +89,7 @@ At SSW we find the greatest overall value for expense reimbursements is to use t
 
 
 
-![2020-11-25_15-51-14.png](2020-11-25_15-51-14.png) 
+![](2020-11-25_15-51-14.png) 
 
  **Figure: Option of reimbursable and non-reimbursable** 
 
@@ -101,7 +101,7 @@ At SSW we find the greatest overall value for expense reimbursements is to use t
 
 
 
-![2020-11-25_15-53-02.png](2020-11-25_15-53-02.png) 
+![](2020-11-25_15-53-02.png) 
 
  **Figure: Saving as draft or submit for approval** 
 
@@ -128,7 +128,7 @@ Note - if not already done, make sure purchase approval is forwarded to the Acco
 
 3. Follow-up on any invoices awaiting approval, or approve those where appropriate
 
-![2020-11-25_16-14-53.png](2020-11-25_16-14-53.png)
+![](2020-11-25_16-14-53.png)
 
 
 **Figure: Xero Expense claim approval page** 
@@ -141,7 +141,7 @@ Note - if not already done, make sure purchase approval is forwarded to the Acco
 
 
 
-![2020-11-25_16-01-26.png](2020-11-25_16-01-26.png)
+![](2020-11-25_16-01-26.png)
 
 
  **Figure: Xero payment scheduling page** 
@@ -157,7 +157,7 @@ Note - if not already done, make sure purchase approval is forwarded to the Acco
 
 6. Send remittance to employee via Xero 
 
-![2020-11-25_16-04-57.png](2020-11-25_16-04-57.png)
+![](2020-11-25_16-04-57.png)
 
 
  **Figure: Send remittance page post payment** 

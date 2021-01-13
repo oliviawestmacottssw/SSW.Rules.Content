@@ -32,12 +32,10 @@ return false; 
 } 
 }
 
-
 ::: bad
 Figure: Bad example of verifying URI
 
 :::
-
 
 public bool IsValidUri(string uri) 
 { 
@@ -45,11 +43,9 @@ public bool IsValidUri(string uri) 
 return System.Text.RegularExpressions.Regex.IsMatch( uri,@"^(http|ftp|https)://([^\/][\w-/:]+\.?)+([\w- ./?/:/;/\%&=]+)?(/[\w- ./?/:/;/\%&=]\*)?"); 
 }
 
-
 ::: good
 Figure: Good example of verifying URI 
 
 :::
-
 
 You should have unit tests for it, see our [Rules to Better Unit Tests](https&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterUnitTests.aspx) for more information.

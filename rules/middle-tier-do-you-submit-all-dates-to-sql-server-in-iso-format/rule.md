@@ -46,12 +46,10 @@ SET DATEFORMAT dmy
 
  -- returns Jul 1 2020 12:00AM, only one which is same as above
 
-
 ::: good
 Code - ISO format date is the best
 
 :::
-
 
 The extended format can still mix up month & day in some circumstances, whereas the basic format is the only one that always works correctly.
 

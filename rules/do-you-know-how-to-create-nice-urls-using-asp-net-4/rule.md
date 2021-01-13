@@ -23,11 +23,11 @@ There are a lot of reasons to have nice URLs for your website:
 
 ::: bad  
 ![Figure: Bad example – This URL is impossible to remember for your users, and even search don’t like these URLs](BadURL.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – Nice clean URL, easy to remember, easy to guess where I am and good for search engines](GoodURL.jpg)  
-:::  
+:::
 
 With ASP.NET 4 it is easy to create this URLs. The ASP.NET team includes routing features, known from the MVC web framework.
  Add a route in Global.asax

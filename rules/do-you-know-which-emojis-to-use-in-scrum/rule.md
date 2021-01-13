@@ -25,8 +25,7 @@ Check out https://www.scrumoji.org/ for the full list.
 
 
 
-![srumoji - bad example.jpg](srumoji - bad example.jpg)
-
+![](srumoji - bad example.jpg)
 
 
 ::: bad
@@ -37,16 +36,13 @@ Figure: Bad Example - The Sprint Review is an important meeting but doesn't stan
 
 
 
-
-![scrumoji - good example.jpg](scrumoji - good example.jpg) 
-
+![](scrumoji - good example.jpg) 
 
 
 ::: good
 Figure: Good Example - The Daily Scrum and Sprint Review stand out and I will definitely not forget to attend
 
 :::
-
 
 
 

@@ -70,15 +70,12 @@ When choosing a CDN provider, take into account where your user base is located 
 ![5-28.1.png](5-28.4.png)
 
 
-
 ::: bad
 Figure: Bad example, jquery.min.js from GoogleAPIs failed to load.
 
 :::
 
-
 ![5-28.2.png](5-28.5.png)
-
 
 
 ::: good

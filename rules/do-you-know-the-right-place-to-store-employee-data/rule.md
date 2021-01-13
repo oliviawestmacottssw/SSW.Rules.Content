@@ -32,7 +32,7 @@ Office 365 User Profile Service is a good tool at managing fields related to use
 
 ::: ok  
 ![Figure: AD, UserProfile and O365 Services interactions](onpremisesad1.png)  
-:::  
+:::
 
 **Tip:** Keep User Profiles up-to-date with     [hyperfish.com](https://www.hyperfish.com/)
 
@@ -42,7 +42,7 @@ Companies want bots to answer more than just simple questions. If you have rich 
 
 ::: ok  
 ![Figure: CRM (Dynamics 365) used a source of truth](onpremisesad2.png)  
-:::  
+:::
  In this scenario, a custom sync mechanism (i.e. SSIS pipeline) will have to be implemented. Both Dynamics 365 and User Profile Service exposes APIs that can read and write properties/fields for such a system.
 Then other external systems such as the public employee pages, Power BI reports and bots can query Dynamics 365 directly.
 

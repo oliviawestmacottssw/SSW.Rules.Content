@@ -40,11 +40,11 @@ To create an Angular application with the SPA template new project from the comm
 
 ::: ok  
 ![Figure: Creating a project from the command line](create-angular-via-cmd.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Creating a project using Visual Studio](create-angular-via-vs.jpg)  
-:::  
+:::
 
 Although Visual Studio can be used to create the project, we still recommend Visual Studio Code for working with the Angular code, as per [Do you know the best IDE for Angular?](/how-to-get-your-machine-setup)
 
@@ -52,15 +52,15 @@ Although Visual Studio can be used to create the project, we still recommend Vis
 
 ::: ok  
 ![Figure: A simple example WebAPI](simple-example-webapi.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: An Angular UI with Twitter Bootstrap styling](angular-ui-with-bootstrap.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Server-side configuration in Startup.cs allowing the Angular UI to be hosted from under the single ASP.NET Core website](angular-server-side-config.png)  
-:::  
+:::
 
 This Angular app uses the Angular CLI and is fully compatible with any other Angular CLI app. If you want to create a new app from scratch, simply delete the contents of the  **ClientApp** folder and run  **ng new.**
 

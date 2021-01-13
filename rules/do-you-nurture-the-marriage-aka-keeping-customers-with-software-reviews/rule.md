@@ -25,7 +25,7 @@ Left to their own devices, most developers will slowly make more and more unmain
 
 ::: bad  
 ![Figure: Bad Example - Would you want to maintain this code?](BadCode.png)  
-:::  
+:::
 
 This can be fixed by having regular software audits with a Solution Architect to keep the developers accountable.
 

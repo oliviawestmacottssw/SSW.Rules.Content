@@ -38,16 +38,16 @@ The architecture diagram is a technical diagram that demonstrates the technology
 
 ::: bad  
 ![Figure: Bad Example - a screenshot of the Azure resources used helps, but doesn't show data flows or dependencies             Depending on the complexity of your solution and your comfort/familiarity with the tools, an architecture diagram could take you anywhere from half an hour to a couple of days.Usually, the longer an architecture diagram takes you to make, the more important it is for your project. - Matt Goldman, Software ArchitectAn architecture diagram is part of the 7 crucial documents you need for your project, see our rule: Do you make awesome documentation?Tip 1: Include your most important componentsAt a minimum, your architecture diagram should include:Your data repositoryYour business logic componentYour UI    Your diagram needs to include the relationships between these components, and how they share and process data.     Tip 2: Don't use a .NET Dependency Graph as a System Architecture DiagramThe .NET dependency diagram is a useful tool, but it drills down into a specific component of the solution (the code) while ignoring the rest of it (the infrastructure). If it adds value to your documentation (i.e., there is a specific reason to include it) you can include the .NET dependency diagram, but don't use it here in place of the architecture diagram.See SSW rule: Do you generate the VS Dependency Graph?             Figure: Bad Example - the .NET dependency diagram shows code dependencies, but not the application's architectureTip 3: Show data dependencies and data flowsYour architecture diagram should show how the components of your solution fit together. It should also show \*how\* the components of the architecture depend on each other for functionality, as well as upstream and downstream data dependencies.](image001.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: OK Example - Shows the technologies and data flows (from the data --&gt; Azure Data Factory --&gt;Azure Databricks --&gt; Power BI). This gives an overview of the whole application in one diagram.](architecture-diagram-good1.png)  
-:::  
+:::
 
 ### Tip 4: Put data at the top
 
  **Figure: OK Example - SSW Rewards - start out with a hand-drawn sketch if that's easier for you, but don't consider this your final architecture diagram
-** ![IMG_9906.JPG](IMG_9906.JPG)
+** ![](IMG_9906.JPG)
 For me its all about building a shared understanding between the client and the developers. Most pieces of software architecture I do, work starts by building a rough solution architecture diagram on a whiteboard. 
 
 Putting something on a whiteboard is "low risk" for the participants as its really easy to wipe and redraw. It allows us to start working together straight away, building a shared understanding of what we're trying to achieve. There is no software or skills required to participate in whiteboard collaboration. 
@@ -61,13 +61,11 @@ Make sure you use the right tools when creating your architecture diagrams. Ther
 ### Tip 6: Start with paper...
 
 
-
 :::
 
 
 Figure: Good example - SSW Rewards (Xamarin with Azure Active Directory B2C) - consistent styling is used, e.g. as well as all the icons and typography being consistent, you can see that data is a solid line and auth traffic is a dotted line
 ::: good
-
 ![rewards-architecture-diagram (2).png](rewards-architecture-diagram (3).png)
 Note: for clarity, out of scope items whether one or many, should be in a box.
 
@@ -76,25 +74,21 @@ Group components logically by enclosing them in a box. Components that operate i
 ### Tip 5: Group relevant components
 
 
-
 :::
 
 
 Figure: Good example - SugarLearning (an Angular + .NET project) - data flows from top to bottom, with exceptions (e.g. Application Insights / Raygun, not part of the main data flow) perpendicular to the primary direction
 ::: good
-
 ![sugarlearning-architecture-diagram (1).png](sugarlearning-architecture-diagram (1).png)
 It should be easy to tell at a glance which direction data flows in your diagram: left to right, right to left,        <mark>top to bottom</mark>(recommended). Pick a direction for your data flow, and keep it consistent across all your documentation. Where there are exceptions (for example data going to analytics or to/from partner sources) make these perpendicular to the primary data flow direction.
 
 **Tip** **:** [Microsoft Office Lens](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwi6-NTb1MvrAhWXA3IKHevqC-MQtwIwAHoECAEQAQ&url=https://www.youtube.com/watch?v%3DjzZ3WVhgi5w&usg=AOvVaw25XKH6ZRcPfM5jaVajFOlH) is a free mobile app that uses your smartphone camera to capture scan-like images of documents, photographs, business cards, and whiteboards (including searchable handwritten text).
-![IMG_9908.JPG](IMG_9908.JPG)
-
+![](IMG_9908.JPG)
 :::
 
 Figure: Good Example - SSW People (a Static Site - Gatsby and React with Dynamics 365 and SharePoint Online) - you can just as easily create colorful, engaging diagrams suitable for all of your project stakeholders
 ::: good
-
-![SSW.People-Architecture-Diagram.png](SSW.People-Architecture-Diagram.png)
+![](SSW.People-Architecture-Diagram.png)
 * Diagram heading: Nameing Convention "Architecture Diagram - [product name]", in font size 43pts
 * Use a standard font: e.g., at SSW we use Helvetica bold
 * Arrowhead sizes: 14pts
@@ -108,48 +102,40 @@ Maintain standards to keep your diagrams consistent:
 ### Tip 8: Polish up Diagrams.net
 
 
-
 :::
 
 
 Figure: Good Example - Auctions (a Blazor + .NET + Cosmos DB project) - system architecture diagram created within VS Code and checked into the repo in the same commit as the relevant code changes. Blazor UI layer encapsulated in thematic color
 ::: good
-
-![architecture-2.png](architecture-2.png)
+![](architecture-2.png)
 There are multiple extensions available that let you do this, the best one is [VS Code | Extensions | Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio). This makes it easy to create and edit the architecture diagram right alongside the code, and check-in with the relevant commits.
-
 
 :::
 
 Figure: Great Example - Auctions (a Blazor + .NET + Cosmos DB project) - diagrams.net integrated directly into VS Code
 ::: good
-
-![thumbnail_image003.jpg](thumbnail_image003.jpg)
+![](thumbnail_image003.jpg)
 Diagrams.net is free, can be used in the browser, or can be downloaded as a desktop app. But the best way to use diagrams.net is to integrate it directly into VS Code.
-
 
 :::
 
 Figure: Better Example - TimePro (an Angular + .NET project with Hangfire) - you can create diagrams quickly and easily with diagrams.net that still look very professional. This one is in the style of a technical document.
 ::: good
-
-![TimePRO Architecture Diagram v2.png](TimePRO Architecture Diagram v2.png)
+![](TimePRO Architecture Diagram v2.png)
 **Figure:** **Figure: When SSW developers were surveyed, diagrams.net was the clear winner (see green) for building architecture diagrams**
 
 It is definitely the most popular diagram tool at SSW:
-![FaveTool.png](FaveTool.png)
+![](FaveTool.png)
 
 The best tool for creating these diagrams is        [diagrams.net](https://diagrams.net/) (previously draw.io). All the examples on this page were created with this tool.
 
 ### Tip 7: ...and Finish up with Diagrams.net
-
 
 :::
 
 
 Figure: Better Example - SSW Rewards - the same sketch but captured with Office Lens. How much clearer and more vibrant is this!
 ::: good
-
 
 ### Related links
 

@@ -25,12 +25,10 @@ AS
  INSERT INTO ParaLeft (ParaID)
  SELECT ParaID FROM Para
 
-
 ::: bad
 Figure: Bad Example - No transaction here, if any of operations fail, the database will only partially update, resulting in an unwanted result.
 
 :::
-
 
 ALTER PROCEDURE [dbo].[procInit]
 AS
@@ -40,7 +38,6 @@ AS
  INSERT INTO ParaLeft (ParaID)
  SELECT ParaID FROM Para
  COMMIT
-
 
 ::: good
 Figure: Good Example - Using a transaction to assure that all operations within the transaction will be successful, otherwise, the database will roll back to the original state.

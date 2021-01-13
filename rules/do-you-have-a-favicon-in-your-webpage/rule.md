@@ -22,11 +22,11 @@ A Favicon is a small image file included on professionally developed sites. The 
 
 ::: bad  
 ![Figure: Bad Example - When you don't add a favicon the user sees a generic icon](favicon-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Using the favicon gives your website professional look and feel](favicon-good.jpg)  
-:::  
+:::
 
 ### Which formats and sizes to use?
 
@@ -38,14 +38,12 @@ The format of the image must be one of PNG (a W3C standard), GIF, or ICO. You ca
 2. Add the highlighted code below inside the &lt;HEAD&gt; tags in your HTML
 
 
-
 ::: greybox
 &lt;head&gt;
 			 &lt;title&gt;Page Title&lt;/title&gt;
 <mark>&lt;link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" /&gt;</mark>
-			 &lt;/head&gt;
+			 &lt;/head&gt;  
 :::
-
 **Figure: One line of HTML lets you add your company's icon to your web page** 
 **
 **  

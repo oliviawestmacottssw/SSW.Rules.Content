@@ -22,7 +22,7 @@ Use the VSTS Branch Policies feature. This is a super sexy feature.
 
 ::: bad  
 ![Figure: Bad example – no protection – anyone can make unreviewed changes](protect-branch-bad.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example – the branch protected](protect-branch-good.jpg)  

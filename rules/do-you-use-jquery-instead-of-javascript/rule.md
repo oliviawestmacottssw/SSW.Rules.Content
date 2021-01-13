@@ -29,15 +29,12 @@ jQuery is the MUST HAVE tool for web developers. There are 3 good reasons why yo
 
 window.onload = function() { alert("Welcome"); }
 
-
 ::: bad
 Figure: Bad Example - Using JavaScript 'onload' event
 
 :::
 
-
 $(document).ready(function() { alert("Welcome!"); });
-
 
 ::: good
 Figure: Good Example - using jQuery document 'ready' event

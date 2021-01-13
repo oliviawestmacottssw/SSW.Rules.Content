@@ -19,7 +19,6 @@ Hardcoding URLs in your View can cause problems if your routes or page names nee
 <!--endintro-->
 
 
-
 :::
 
 
@@ -28,9 +27,7 @@ Hardcoding URLs in your View can cause problems if your routes or page names nee
 ```
 
 
-::: greybox
-Figure: Bad Example – Hard-coded URLs may lead to broken links if routes change
-
+::: greyboxFigure: Bad Example – Hard-coded URLs may lead to broken links if routes change
 
 :::
 
@@ -40,5 +37,4 @@ Figure: Bad Example – Hard-coded URLs may lead to broken links if routes chang
 ```
 
 
-::: greybox
-Figure: Good Example – Use the Url or Html helpers to provide links
+::: greyboxFigure: Good Example – Use the Url or Html helpers to provide links

@@ -19,7 +19,7 @@ The built-in CRM report wizard is great for users to quickly and easily create r
 
 ::: ok  
 ![Figure: The starting point](custom-reports-1.jpg)  
-:::  
+:::
 
 <!--endintro-->
 
@@ -31,7 +31,7 @@ Do you use Filtered Views or Fetch?
 
 ::: ok  
 ![Figure: Filtered Views in the CRM SQL Database](custom-reports-2.jpg)  
-:::  
+:::
 
 [Fetch](http://technet.microsoft.com/en-us/library/bb928434.aspx) is a proprietary query language that is used in Microsoft Dynamics CRM. It is based on a schema that describes the capabilities of the language. The FetchXML language supports similar query capabilities as query expression. It is used primarily as a serialized form of query expression, used to save a query as a user owned saved view in the userquery entity or as an organization owned view in the savedquery entity.
 
@@ -75,11 +75,11 @@ Here’s an example of a before (CRM Wizard) and after (Visual Studio) for an Ac
 
 ::: ok  
 ![Figure: Report created using CRM Wizard](custom-reports-3.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Report updated in Visual Studio](custom-reports-3.jpg)  
-:::  
+:::
 
 Five enhancements that required a custom report:
 

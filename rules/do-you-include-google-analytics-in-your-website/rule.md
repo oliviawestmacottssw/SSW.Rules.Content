@@ -33,16 +33,16 @@ The most useful reports:
 To add Google Analytics to your website, [log into your Google account](https://www.google.com/analytics), then go to **Admin** , ensure both **Account**  and **Property**  specify your website, then find your **Tracking Code** .
 ::: ok  
 ![Figure: Navigate to the Tracking Code property](20-08-2014-3-25-06-PM-compressor (1).png)  
-:::  
+:::
 
 From this page, you will be able to get a JavaScript snippet to include in your application.
 
 ::: ok  
 ![Figure: Include this JavaScript in your web application](20-08-2014-3-30-55-PM-compressor.png)  
-:::  
+:::
 
 ::: ok  
 ![Figure: The JavaScript code in HTML](20-08-2014-10-53-15-AM-compressor.png)  
-:::  
+:::
  
 Once deployed, this script will start tracking metrics and interacting with Google Analytics. You are good to go!

@@ -29,7 +29,7 @@ Another issue is how long it will take you to process the screen recording for e
 
 ::: bad  
 ![Figure: Bad Example - Presenters View in PowerPoint auto changes the screen mode to 'Extended'](using-capture-hardware-bad.png)  
-:::  
+:::
 
 ### Good example
 

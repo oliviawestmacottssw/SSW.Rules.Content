@@ -44,12 +44,10 @@ public ActionResult Gizmos()
     return View("Gizmos", gizmoService.GetGizmos());
 }
 
-
 ::: bad
 Figure: Bad Example – this MVC Controller Action endpoint is not async so the thread assigned to process it will be blocked for the whole lifetime of the request
 
 :::
-
 
 public async Task&lt;ActionResult&gt; GizmosAsync()
 {
@@ -57,12 +55,10 @@ public async Task&lt;ActionResult&gt; GizmosAsync()
     return View("Gizmos", await gizmoService.GetGizmosAsync());
 }
 
-
 ::: good
 Figure: Good example this MCV Controller Action is async. The thread will be released back to the threadpool while waiting for any IO operations under the “gizmoService” to complete 
 
 :::
-
 
 Above code examples are based on:     [https://docs.microsoft.com/en-us/aspnet/mvc/overview/performance/using-asynchronous-methods-in-aspnet-mvc-4](https&#58;//docs.microsoft.com/en-us/aspnet/mvc/overview/performance/using-asynchronous-methods-in-aspnet-mvc-4)
 

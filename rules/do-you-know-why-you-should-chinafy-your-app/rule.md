@@ -35,13 +35,10 @@ Most Chinese consumers will not make a purchase or use your application if infor
 
 
 
-
 ::: good
 You can grow and target your audience better using the local social media networks
 
 :::
-
-
 
 
 
@@ -56,14 +53,10 @@ You should ensure your application works in China, and that critical applicatio
 
 
 
-
-
 ::: good
 You should integrate with local services (such as video streaming)
 
 :::
-
-
 
 
 

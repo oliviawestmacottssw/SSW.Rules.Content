@@ -30,11 +30,11 @@ It is also one more reason developers don’t like to join a company domain on t
 
 ::: bad  
 ![Bad Example - Windows 10 shows a ‘Restart now’ – do not accidentally press it! Your production server and your users won't be happy!](Windows-Update-notification.png)  
-:::  
+:::
 
 ::: bad  
 ![Bad example – Remember this nasty one from Vista days?](updates-restart.jpg)  
-:::  
+:::
 
 **Note:** Server patching is also achievable via SCCM and you get more control over restarting windows like this. WSUS can also be used in conjunction with group policies to handle restart times better.
 
@@ -56,7 +56,7 @@ The best ensure you are still downloading updates but not installing them automa
 
 ::: ok  
 ![Edit Configure Automatic Updates Properties and enable 'Auto download and notify for install](updates-editgp.jpg)  
-:::  
+:::
 **
 
 
@@ -64,7 +64,7 @@ After the new Group Policy propagates, you will notice the update setting is now
 
 ::: good  
 ![The Group Policy locks the Windows Update setting](updates-updatesforced.jpg)  
-:::  
+:::
 
 
 
@@ -72,7 +72,7 @@ From now on your servers will be updated without unplanned reboots!
 
 ::: good  
 ![Figure: Good example - AD shows the Group Policy setting “3 – Auto download and notify for install”. This policy is applied to the specified OU eg. Production Servers joined to this domain](Default domain policy1.png)  
-:::  
+:::
 
 
 

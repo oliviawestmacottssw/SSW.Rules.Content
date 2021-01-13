@@ -93,7 +93,7 @@ The key to this, is not burying your message in buzzwords or meaningless slogans
 
 ::: bad  
 ![Figure: Bad example: A Value Proposition is not a slogan! It must reflect the value of your business](nike.png)  
-:::  
+:::
 
 Here is an example of a great Value Proposition advertised by Stripe on their website. Their target audience was developers. Stripe makes it clear that its web and mobile payment products are specifically made for developers and tech-savvy businesses. Its APIs and tools are comprehensive, state-of-the-art, and trustworthy for businesses that demand nothing less. This statement is also aided cleverly by the image of two cell phones, each highlighting a different, well-known Stripe customer.
 

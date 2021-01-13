@@ -41,7 +41,6 @@ Assert.AreEqual(1, receivingServer.Inbox.Count);
 ReceivedEmailMessage received = receivingServer.Inbox[0];
 Assert.AreEqual("phil@example.com", received.ToAddress.Email);
 
-
 ::: good
 Figure: This code could help you validate the send mail code
 

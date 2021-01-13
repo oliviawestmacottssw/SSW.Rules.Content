@@ -22,7 +22,7 @@ As per CRM Tip of the Day https://crmtipoftheday.com/979/start-planning-farewell
 
 ::: bad  
 ![Figure: Bad Example - Deprecated Mail routed Enabled](CRM Email Router.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Serverside Sync configured as per https://technet.microsoft.com/en-us/library/mt622063.aspx](CRM ServerSideSync.png)  

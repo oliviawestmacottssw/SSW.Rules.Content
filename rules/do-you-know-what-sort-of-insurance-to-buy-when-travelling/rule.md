@@ -24,11 +24,11 @@ For example, if you're travelling  **within your home country** you might decide
 
 ::: bad  
 ![Figure: Bad example - Getting insurance through the car hire provider, with AUD$6,000 excess, is $23.25/day](53a2eb\_hire-car-provided-insurance.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example: Allianz travel insurance for within Australia covers up to AUD$6,000 excess on a rental vehicle – this works out to be about $5.15 a day for a 9-day trip](575bdf\_private-travel-insurance.jpg)  
-:::  
+:::
 
 ### International travel:
 
@@ -42,7 +42,7 @@ If you're the card holder and you're travelling alone, you should be fine with t
 
 ::: good  
 ![Figure: Good example – but only if you're travelling by yourself](ccb9e6\_credit-card-insurance-coverage-table.jpg)  
-:::  
+:::
 
 **"Supplementary" card members (spouse and dependent children) aren't nearly as well covered as the primary card holder – C is the big one!** (Source: American Express Ultimate credit card travel insurance policy)
 

@@ -15,7 +15,7 @@ Question: What is wrong with this Picture?
 
 ::: ok  
 ![Figure: Can you tell what is wrong with this Picture?](../../assets/ShowInTaskBar.jpg)  
-:::  
+:::
 
 <!--endintro-->
 

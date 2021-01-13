@@ -26,11 +26,11 @@ PS: One reason web UI's are nice, is that the information is always selectable/c
 
 ::: bad  
 ![Figure: Bad Example - Not only is the data cut off when you are using label, but you can't copy and paste the value](../../assets/BetterInterface\_LabelCutOff.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Using Textbox controls makes the data obvious to users](../../assets/GoodTextbox.gif)  
-:::  
+:::
 
 As you can see you'll barely know the difference, so start using Textboxes for displaying data, that's good practice.
 
@@ -40,7 +40,7 @@ When using TextBox controls in Windows Forms, set them up like this:
 
 ::: ok  
 ![Figure: Having the 'BorderStyle' Property set to Fixed3D is the best choice visually](../../assets/BorderStyle\_1.gif)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Make the text box Read-Only (users copying data is OK, changing is silly)](../../assets/ReadOnly\_1.gif)  

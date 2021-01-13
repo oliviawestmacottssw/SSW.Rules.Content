@@ -16,12 +16,9 @@ redirects:
 
 Know the best OpenAPI toolchain:
 
-
 ::: greybox
-swashbuckle
+swashbuckle  
 :::
-
-
 
 
 ::: bad
@@ -29,13 +26,9 @@ Bad Example 
 
 :::
 
-
-
 ::: greybox
-nswag
+nswag  
 :::
-
-
 
 
 
@@ -43,7 +36,6 @@ nswag
 Good Example (more comprehensive)
 
 :::
-
 
 
 <!--endintro-->

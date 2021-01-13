@@ -32,7 +32,7 @@ This is easily fixed with Angular ’s routing capabilities, and implementing it
 
 ::: bad  
 ![Figure: Bad example - The blog post component is choosing components based on the state of the component](client-side-bad.png)  
-:::  
+:::
 
 A better way is to set up routes, and use a router (the first-party component router is great for this) to manage your components:
 

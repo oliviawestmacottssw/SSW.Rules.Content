@@ -27,6 +27,6 @@ If you are an Australian or British this rule is controversial, but it is worth 
 
 ::: good  
 ![Figure: Good example - the US English is the selected language](SetLanguageUS.png)  
-:::  
+:::
 
 Don't forget to check your pages for spelling errors after making edits.

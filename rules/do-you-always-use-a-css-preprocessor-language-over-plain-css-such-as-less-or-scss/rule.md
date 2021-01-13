@@ -26,11 +26,11 @@ The key advantage of using CSS pre-processors is nested selectors. Instead line 
 
 ::: bad  
 ![Bad Example: Using regular CSS, you repeat yourself a lot](RulesLESS - css.png)  
-:::  
+:::
 
 ::: good  
 ![Good Example: Using LESS, we can structure our CSS better](RulesLESS - less.png)  
-:::  
+:::
 
 The pre-processed CSS then compiles to the regular CSS shown above.
 

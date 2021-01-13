@@ -31,21 +31,17 @@ ASP.NET Core includes default dependency injection for new Web Apps in the Start
 You can quickly flag this error and any more by using the [SSW Code Auditor](https://www.ssw.com.au/ssw/CodeAuditor/).
 
 Here is an example of rewiring the default code to AutoFac with the [SSW's Music Store](https://github.com/SSWConsulting/enterprise-musicstore-ui-angular2)  app:
-![SSW-DependencyInjection-Example-Default-Bad.png](SSW-DependencyInjection-Example-Default-Bad.png)
-
+![](SSW-DependencyInjection-Example-Default-Bad.png)
 :::
 
 Figure: Bad Example - The default dependency injection for ASP.NET Core
 ::: bad
-
-![SSW-DependencyInjection-Example-Default-Good.png](SSW-DependencyInjection-Example-Default-Good.png)
-
+![](SSW-DependencyInjection-Example-Default-Good.png)
 ::: good
 Figure: Good Example - The bad example rewired to utilize AutoFac. Red boxes outline the modified code
 
 
 :::
-
 
 ### Further Reading:
 

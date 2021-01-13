@@ -19,12 +19,10 @@ redirects:
 If someone's blog post is interesting or inflammatory enough that you want to comment on it, then it is probably worth a tweet.
 
 
-
 :::
 
 via bit.lyless than 20 seconds ago 
 I missed this...John Liu, making sense, something to see https://bit.ly/9wzSVT  **@MrHinsh** 
-::: greybox
-Figure: When you comment, tweet the other person's blog. It's only polite
+::: greyboxFigure: When you comment, tweet the other person's blog. It's only polite
 
 <!--endintro-->

@@ -18,7 +18,6 @@ MVC provides a ViewData collection in which you can store miscellaneous pieces o
 <!--endintro-->
 
 
-
 :::
 
 
@@ -32,9 +31,7 @@ public ActionResult Index() {
 ```
 
 
-::: greybox
-Figure: Bad Example – ViewData being used to pass information to the View isn’t type-safe
-
+::: greyboxFigure: Bad Example – ViewData being used to pass information to the View isn’t type-safe
 
 :::
 
@@ -50,5 +47,4 @@ public ActionResult Index() {
 ```
 
 
-::: greybox
-Figure: Good Example – Using a ViewModel is a safer way to pass data
+::: greyboxFigure: Good Example – Using a ViewModel is a safer way to pass data

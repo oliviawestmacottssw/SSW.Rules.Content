@@ -17,6 +17,6 @@ Too many sites expect the user to hover and wait to       'discover' if there ar
 
 ::: good  
 ![Figure: Good Example - This menu clearly shows which items have submenus](../../assets/SubmenusHaveIcons\_Good.gif)  
-:::  
+:::
 
 [WorleyParson](http://www.worleyparsons.com/csg/infrastructureandenvironment/resource_infrastructure/Pages/default.aspx) submenus were also designed with this in mind.

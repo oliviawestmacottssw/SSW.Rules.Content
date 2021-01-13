@@ -19,9 +19,8 @@ redirects: []
 
 ::: greybox
 *“Aim for simplicity. I want to code to read like poetry”*
- - Terje Sandstrom
+ - Terje Sandstrom  
 :::
-
 
 <!--endintro-->
 

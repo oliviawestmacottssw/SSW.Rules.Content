@@ -21,13 +21,10 @@ Using subdomains over directories has 2 benefits:
 2. in different geographic locations
 
 
-
 ::: greybox
 http://www.myservice.com/ **ssw** /
-http://www.myservice.com/ **northwind** /
+http://www.myservice.com/ **northwind** /  
 :::
-
-
 
 
 ::: bad
@@ -37,8 +34,6 @@ Figure: Bad Example - Virtual directories used to distinguish organizations
 :::
 
 
-
-
 ::: greybox
 http:// **ssw** .myservice.com/
 http:// **northwind** .myservice.com/
@@ -46,8 +41,6 @@ http:// **northwind** .myservice.com/
 :::
 
 
-
-
 ::: good
-Figure: Good Example - Subdomains used to distinguish organizations
+Figure: Good Example - Subdomains used to distinguish organizations  
 :::

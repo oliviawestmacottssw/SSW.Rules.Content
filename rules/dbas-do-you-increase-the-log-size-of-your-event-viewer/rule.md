@@ -20,7 +20,7 @@ Change the defaults from 20480KB to 64000KB and Overwrite as needed. This will a
 
 ::: bad  
 ![Figure: Bad Example - Using a small log size](EventViewer\_BadSmallLogSize.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Using a reasonable log size](EventViewer\_GoodReasonableLogSize.png)  

@@ -24,13 +24,13 @@ Lifecycles can be found in the Library section of Octopus Deploy. By default, a 
 
 ::: ok  
 ![Figure: Lifecycles can be found in the Library](Octopus\_Lifecycles.png)  
-:::  
+:::
 
 You should create a new Lifecycle for each project you've configured with Octopus Deploy. You should set up a phase to continuously deploy to your first environment (e.g. test or staging), but make sure the final phase of the lifecycle is a manual step to production.
 
 ::: good  
 ![Figure: Good Example - This lifecycle has two phases: an automatic release to a Staging server, and a manual release to the Production server.](SugarLearning\_Lifecycle.png)  
-:::  
+:::
 
 In the Process tab of your project definition, there's a panel on the right-hand side that lets you configure the Lifecycle to use. You should also enable Automatic Release Creation. If you have a CI build which publishes a new package to the Octopus NuGet feed as part of your build using OctoPack, and your first Lifecycle phase is automatic, this will result in continuous deployment to your CI environment.
 

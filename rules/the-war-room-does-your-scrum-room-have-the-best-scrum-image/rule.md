@@ -20,19 +20,19 @@ Here is an image for your war room wall...
 
 ::: bad  
 ![Bad Figure: This image doesn't include the review and the retro](SCRUMImage-bad02.jpg)  
-:::  
+:::
 
 ::: bad  
 ![OK Figure: This Scrum image is OK because it includes all the important steps including the Review and the Retro](SCRUMImage-good.jpg)  
-:::  
+:::
 
 ::: good  
 ![Good Figure: This Scrum image includes all the important steps from the initial meeting to the Review and Retro. Print this "SSW 8 Steps to Scrum pdf" and put it on your 'War Room' wall](8Steps\_preview.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: If you like this, retweet         twitter.com/AdamCogan/status/94109372908711936](scrum-twitter.jpg)  
-:::  
+:::
 
 ### Related Links
 

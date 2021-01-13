@@ -17,7 +17,7 @@ Data Entrees should be able to use your data entry form with ease. It should fol
 
 ::: bad  
 ![Figure: Bad Example - New button should open another form, and Delete button should be on that new form](../../assets/BadAddDeleteSubForm.gif)  
-:::  
+:::
 
 1. ### Multiple Form Instances
     Imagine, while the Sally is entering a Quote on the Quote Form, they receive a Phone call from a client needing a new Quote. The user will not want to close the current Quote, because they are 1/2 way through it.
@@ -25,18 +25,18 @@ Data Entrees should be able to use your data entry form with ease. It should fol
 
 ::: good  
 ![Figure: Good Example - Outlook opens multiple instances of the data entry form (email message)](../../assets/Outlookemails.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Each form instance is shown in the taskbar, and easily opened again](../../assets/outlooktaskbar.jpg)  
-:::  
+:::
     A method of implementing this is through New and Delete buttons on the form.
     New and Delete buttons should appear, in a toolbar for example, docked to the top.
  The figure in           [Data Entry Drill Downs](http://www.ssw.com.au/ssw/Standards/Rules/RulestoBetterInterfaces-Forms.aspx#DrillAround) below illustrates this.
 
 ::: good  
 ![Figure: Good Example - New and Delete buttons docked in the Toolbar providing easy data entry for new Timesheets](../../assets/GoodAddDeleteSubForm.jpg)  
-:::  
+:::
     The Delete button resides there to make sure that Sally has seen the record before she deletes it. The New button should instantiate a new data entry form in add mode (as compared to "edit"), leaving the current one in the background.
     It can be argued that navigation is required in a data entry form. As an option, a good navigation system will navigate through a subset of records (ideally records which are search results). The idea of navigating through all records can be tedious, and most of the time useless.
 
@@ -62,7 +62,7 @@ Data Entrees should be able to use your data entry form with ease. It should fol
 
 ::: bad  
 ![Figure: Bad Example - This implementation of a search utility is on the same form](../../assets/BadSearch.gif)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - This implementation of Search feature is on a separate form](../../assets/SearchForm.gif)  
@@ -94,18 +94,18 @@ Data Entrees should be able to use your data entry form with ease. It should fol
 
 ::: good  
 ![Figure: Good Example - Error Provider Icon next to a required field](../../assets/ErrorProviderIconExample.jpg)  
-:::  
+:::
     **Do not** show a message box after every error in validation. You may show a message box as an error summary when an OK or Apply is clicked. Make sure you warn the user that there is an error on the form when they attempt to save.
 6. ### Relevant Menus
     Make sure that the menu items are relevant to the current form. The main idea is that we don't want to show the user any dummy menu items. However, this may become complex when a base form (containing the menu) is inherited. Access to menus in the base form must be granted (maybe through properties), so that each menu can be customized according to each child form.
 
 ::: bad  
 ![Figure: Bad Example - Action and Tools are irrelevant on this form](../../assets/MenuBadExample.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Menus are relevant](../../assets/MenuGoodExample.jpg)  
-:::  
+:::
     In the above example, there are a couple of unused menus that have been inherited from the base form and not set to invisible.
 7. ### Field Formatting
     Ensure that the data is displayed in correct format. For example, when presenting a percentage data in a field, make sure it is displayed as '% xx.xx'.
@@ -145,11 +145,11 @@ Code: Code for Handling Parse and Format Events for Data bound Controls    The B
 
 ::: bad  
 ![Figure: Bad Example - This form has no information to indicate who created this entry and who last modified it](../../assets/BadCreatedUpdated.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - This form contains Created by/Updated by fields used in a standard control which is put into all forms](../../assets/GoodCreatedUpdated.jpg)  
-:::  
+:::
     An example of how to set the values for this user control is shown below.
 
 

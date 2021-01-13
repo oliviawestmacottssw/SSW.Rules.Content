@@ -35,7 +35,7 @@ Read "[Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4
 
 ::: ok  
 ![Figure: Not Done Email](NotDone.jpg)  
-:::  
+:::
 
 ### Tip 1: Say "Done" first
 
@@ -50,11 +50,11 @@ In any reply, include relevant information, such as the URL and the code or text
 
 ::: bad  
 ![Figure: Bad Example of a "Done" email.](email\_done\_bad.JPG)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example of a "Done" email as it has both the link and the changed text.](email\_done\_good.JPG)  
-:::  
+:::
 
 If you find that you have already sent a "Done", and then the client asks you to undo the change, reply "Undone".
 
@@ -168,7 +168,6 @@ Screen captures should always include:
 ### Tip 8: When appropriate use text instead of an image
 
 
-
 ::: greybox
 
 Done - There was a problem with the SQL. I added the line highlighted in        <font style="background-color:#ffff00;">Yellow</font>:
@@ -187,7 +186,6 @@ ON Download.ProdCategoryID = ProdCategory.CategoryID
 
 
 :::
-
  Figure: Good example - Most of the time screens need images. However, this "DONE" uses text instead of an image. It is easier to search and easy to reply with a modification 
 ### Tip 9: Handle an email once
 

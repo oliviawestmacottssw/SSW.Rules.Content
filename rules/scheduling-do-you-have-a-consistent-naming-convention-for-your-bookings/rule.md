@@ -20,11 +20,9 @@ To do this, the subject field of appointments should be as follows:
 
 <!--endintro-->
 
-
 ::: greybox
  **Client [Project] - Name[s]** 
 :::
-
 
 
 
@@ -37,7 +35,6 @@ You can have 1 or many names, depending on the booking.
 
 
 
-
 ::: greybox
 Go to ACME Corp
 Work onsite for ACME Corp
@@ -45,32 +42,24 @@ Mehmet working at ACME Corp
 
 :::
 
-
-
 ::: bad
-Figure: Bad example - all inconsistent and hard to read
+Figure: Bad example - all inconsistent and hard to read  
 :::
-
-
 
 ::: greybox
 ACME Corp - Mehmet
  ACME Corp - Mehmet, Dan
-ACME Corp (SharePoint) - Dan
+ACME Corp (SharePoint) - Dan  
 :::
-
-
 
 
 ::: good
-Figure: Good Examples
+Figure: Good Examples  
 :::
-
 
 
 
 The same format should also be used for leave requests ([the same for normal calendar appointments/invitations](/appointments-do-you-show-all-the-necessary-information-in-the-subject)).
-
 
 
 ::: greybox
@@ -78,13 +67,10 @@ Leave - Mehmet
 
 :::
 
-
-
 ::: good
 Figure: Good Example
 
 :::
-
 
 ### Related rules
 

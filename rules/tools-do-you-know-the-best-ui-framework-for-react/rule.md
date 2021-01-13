@@ -31,7 +31,7 @@ MaterialUI is a set of React Components that Implement the [Google’s Material 
 
 ::: ok  
 ![Figure: MaterialUI is a set of React components that implement Google's Material Design.](Snipaste\_2019-05-14\_18-04-27.jpg)  
-:::  
+:::
 
 
 Get started:        [**react-material-ui-official-docs-example**](https://stackblitz.com/edit/react-material-ui-official-docs-example)

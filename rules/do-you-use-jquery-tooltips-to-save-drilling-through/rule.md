@@ -20,7 +20,7 @@ It is common when we browse a list page, we have to click the "More..." or "Deta
 
 ::: bad  
 ![Figure: Bad Example - redirect to a new page to view the detail](ViewDetailGrid.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - show tooltip when mouse is over in the list](ViewTooltipGrid.jpg)  

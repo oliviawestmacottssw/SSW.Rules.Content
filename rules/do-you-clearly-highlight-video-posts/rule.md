@@ -21,7 +21,7 @@ One simple way to do this is to make sure that the first word of your blog post 
 
 ::: bad  
 ![Bad example: Great content, but from the title you would be unable to tell that this is a video](Stevo-Bad-blog.png)  
-:::  
+:::
  
 ::: good  
 ![Good example: Easy to see from the title that this includes a video](Chris-Good-blog.png)  

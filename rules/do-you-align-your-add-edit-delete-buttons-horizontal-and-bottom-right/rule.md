@@ -17,11 +17,11 @@ Usually there are problems fitting buttons next to datagrids or  listboxes when 
 
 ::: bad  
 ![Figure: Bad Example - This form places the Add and Delete buttons in the top right.](../../assets/BadButtonAlign.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Buttons aligned vertically, however they cut off useful information in the datagrid (Better)](../../assets/BetterButtonAlign.jpg)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good Example - Buttons align horizontally at the bottom right of the grid which provides plenty of room for then needed information](../../assets/GoodButtonAlign.jpg)  

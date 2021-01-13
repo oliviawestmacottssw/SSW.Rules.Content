@@ -19,12 +19,10 @@ The bad practice below because the application can now do anything it wants to t
 Server=DRAGON;Database=SSWData2005;Uid=sa;Pwd=password;
 
 
-
 ::: bad
 Bad example - The connection string use 'sa' in Uid 
 
 :::
-
 
 
 <!--endintro-->
@@ -34,11 +32,9 @@ Server=DRAGON;Database=SSWData2005;Uid=SSWWebsite;Pwd=password;Application Name=
 If using Windows Authentication (Recommended)
 Server=DRAGON;Database=SSWData2005;Integrated Security=True;Application Name=SSWWebsite
 
-
 ::: good
- Good example - The connection string with Application Name
+ Good example - The connection string with Application Name  
 :::
-
 
 
 * Application Name (e.g. SSWWebsite)

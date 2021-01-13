@@ -28,22 +28,18 @@ If you use the default Azure staging web site Url, it can be difficult to rememb
 | --- |
 
 
-
 ::: bad
-Figure: Bad example - Site using the default Url (hard to remember!!)
+Figure: Bad example - Site using the default Url (hard to remember!!)  
 :::
-
 
 
 | Customized Url:<br><ul><li><strong style="line-height:20px;background-color:initial;"><font color="#ff0066">staging</font></strong> <span style="line-height:20px;background-color:initial;">.</span><strong style="line-height:20px;background-color:initial;">sugarlearning.com</strong> <br></li></ul> |
 | --- |
 
 
-
 ::: good
-Figure: Good example - Staging Url having production Url with "staging." prefix
+Figure: Good example - Staging Url having production Url with "staging." prefix  
 :::
-
 
 
 
@@ -51,7 +47,7 @@ Figure: Good example - Staging Url having production Url with "staging." prefix
 
 1. Add a CName to the default Url to your DNS server
 
-![2015-03-10_17-13-55.png](2015-03-10_17-13-55.png) Figure:  CName being added to DNS for the default Url
+![](2015-03-10_17-13-55.png) Figure:  CName being added to DNS for the default Url
 
 2. Instruct Azure to accept the custom Url
 

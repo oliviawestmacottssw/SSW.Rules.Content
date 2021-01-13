@@ -24,7 +24,6 @@ When others mention you on their blog or podcast and if they re-tweet you then y
 > 
 > :::
 > 
-> 
 > **Figure: Good example, always thanking someone is not just good practice and polite, you both get Google juice as well
 > **
 

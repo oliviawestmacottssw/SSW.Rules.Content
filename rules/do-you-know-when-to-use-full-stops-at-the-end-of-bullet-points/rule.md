@@ -15,7 +15,6 @@ There are two types of bullet list. The first type of bullet list is the  most c
 
 <!--endintro-->
 
-
 ::: greybox
 
 UI may refer to:
@@ -26,9 +25,7 @@ UI may refer to:
 
 :::
 
-
 The second type is when each bullet point is a full sentence. It features a capital letter at the start and a full stop at the end of each bullet point. For example:
-
 
 ::: greybox
 

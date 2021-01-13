@@ -20,21 +20,17 @@ redirects:
 
 Sometimes you're not able to complete a task right away or anytime soon. In this case, people usually just say:
 
-
 ::: greybox
 "I can't do this week, but I should have it done by the end of next week"
 
 :::
 
-
 Another scenario is when the task should be done or will expire after a period of time. For example:
-
 
 ::: greybox
 "Send Google Analytics data after a month" or "Remove course banner after the course is completed"
 
 :::
-
 
 Efficient people don't rely on their memory and instead, use some way to make sure they don't forget to do that task. The most common ways are to either make a note in a paper diary, stick a post-it note to his screen. But there are better ways.
 
@@ -42,7 +38,7 @@ Efficient people don't rely on their memory and instead, use some way to make su
 
 ::: bad  
 ![Figure: Bad example - using stick notes](postit-screen.jpg)  
-:::  
+:::
 
 To ensure you follow up any task like these, there are two ways to set yourself a task to follow up in the future:
 
@@ -57,7 +53,7 @@ When you receive it in your inbox, action the task.
 
 ::: good  
 ![Figure: Good example - Use delayed email on Outlook](delay-emails-outlook.jpg)  
-:::  
+:::
 
 ### #2 Email reminders - followupthen.com <br>   
 
@@ -68,7 +64,7 @@ Simply BCC or email      **&lt;period of time&gt;@followupthen.com** and it will
 
 ::: good  
 ![Figure: Good example -  Use        1week@followupthen.com to be reminded of this email in one weekNote that you are sending this email thread to a 3rd party, so if you're dealing with any confidential information, strip it out before using this tool.](FollowUpThen.jpg)  
-:::  
+:::
 
 ### #3 Follow Up flag feature in Outlook
 
@@ -83,14 +79,14 @@ When you require a reminder to follow up on an email by a certain date:
 2. Select an appropriate date from the drop-down or choose Custom to add additional reminders <br>         
 ::: ok  
 ![Figure: Add an additional reminder to follow up](followup2.jpg)  
-:::  
+:::
 
     * You can even set a custom reminder for the recipient :)
 3. Outlook shows an info tip with the exact follow-up date you chose.
 4. A To-Do item is also added to your Outlook To-Do list <br>      
 ::: ok  
 ![Figure: An item is added to your To-Do list](followup3.jpg)  
-:::  
+:::
 
     * To-Do list can be found in the Tasks pane
 5. On the due date you will receive a Reminder popup from Outlook

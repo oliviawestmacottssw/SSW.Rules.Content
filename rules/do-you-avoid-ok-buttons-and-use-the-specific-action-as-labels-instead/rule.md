@@ -20,7 +20,7 @@ While "OK" buttons were the standard convention with operating systems of the pa
 
 ::: bad  
 ![Figure: Bad example - web application button labeled as "OK"](OKBadExample.png)  
-:::  
+:::
 
 ::: good  
 ![Figure: Good example - button is labeled with the specific action](OKGoodExample.png)  

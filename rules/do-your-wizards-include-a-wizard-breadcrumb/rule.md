@@ -32,7 +32,7 @@ Headings that direct the user around your web page are       important as it giv
 
 ::: ok  
 ![Figure: Simple Header that tells the user where they have come from](../../assets/ExamleHeadingforShoppingBasket.gif)  
-:::  
+:::
 
 **Amazon Example:**
 
@@ -46,7 +46,7 @@ The following heading from Amazon shows the user at what stage of the ordering p
 
 ::: ok  
 ![Figure: This is how headings should look](../../assets/amazonshopping.jpg)  
-:::  
+:::
 
 ::: ok  
 ![Figure: Virgin Australia uses a more subtle approach](../../assets/virgin-flight-navigation.png)  

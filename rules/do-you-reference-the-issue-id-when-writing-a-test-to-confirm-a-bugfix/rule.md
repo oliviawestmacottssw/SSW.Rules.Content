@@ -23,12 +23,10 @@ public void TestProj11()
 {
 }
 
-
 ::: bad
 Figure: Bad example - The test name is the bug ID and I don't know what it is meant to test
 
 :::
-
 
 ///
  Test case where a user can cause an application exception on the
@@ -43,7 +41,6 @@ Figure: Bad example - The test name is the bug ID and I don't know what it is m
 public void TestResavingAfterPressingBackShouldntBreak()
 {
 }
-
 
 ::: good
 Figure: Good example - The test name is clearer, good comments for the unit test give a little context, and there is a link to original bug
