@@ -26,20 +26,20 @@ index:
 - do-you-strike-through-completed-items
 - do-you-use-the-metro-ui-when-applicable
 - do-you-give-the-6-options-to-share
-- do-you-have-a-search-box-to-make-your-data-easy-to-find
-- do-you-know-how-to-use-gamification
+- do-you-have-a-＂search-box＂-to-make-your-data-easy-to-find
+- how-to-use-gamification
 - do-you-highlight-incomplete-work-with-red-text
 - do-you-encourage-experimentation
 - do-you-know-what-guidelines-to-follow-for-wp8
 - do-you-avoid-ok-buttons-and-use-the-specific-action-as-labels-instead
-- do-you-have-a-last-taken-option
-- do-you-have-a-request-access-button-in-pages-that-require-permission
-- do-you-have-a-clean-no-match-found-screen
+- do-you-have-a-＂last-taken＂-option
+- have-a-request-access-button-when-you-require-permission
+- clean-no-match-found-screen
 - do-you-highlight-the-search-term
-- do-you-know-the-right-way-to-embed-a-youtube-video
+- a-better-method-for-embedding-youtube-videos-on-your-website
 - do-you-know-to-use-save-save-and-close-on-a-webpage
 - do-you-make-your-cancel-button-less-obvious
-- do-you-show-that-a-record-is-inactive
+- show-inactive-record
 - do-you-understand-the-importance-of-language-in-your-ui
 - do-you-use-commas-on-more-than-3-figures-numbers
 

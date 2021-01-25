@@ -4,11 +4,11 @@ title: Rules to Better Access UI
 guid: 1798e8e0-0f80-4128-9fcc-35ee6b7f6385
 uri: rules-to-better-access-ui
 index:
-- do-you-group-forms-into-tabs-where-appropriate
-- do-you-target-the-correct-resolution-when-designing-forms
-- do-you-use-appropriate-and-user-friendly-icons
-- do-you-use-clean-designs-when-creating-forms
-- do-you-use-ok-cancel-buttons
+- group-forms-into-tabs-where-appropriate
+- target-the-correct-resolution-when-designing-forms
+- use-appropriate-and-user-friendly-icons
+- use-clean-designs-when-creating-forms
+- use-ok-cancel-buttons
 
 ---
 When designing their UI, Access developers often make these common mistakes:

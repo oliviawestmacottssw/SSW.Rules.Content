@@ -58,17 +58,17 @@ index:
 - do-you-create-your-own-process-template-to-fit-into-your-environment
 - do-you-know-the-right-methodology-to-choose-new-project-in-vs-2012
 - do-you-use-tfs-2012-instead-of-tfs-2010
-- do-you-always-say-option-strict-on
+- do-you-always-say-＂option-strict-on＂
 - do-you-keep-your-nuget-packages-small
 - do-you-know-how-to-track-down-permission-problems
 - do-you-know-the-best-criteria-for-evaluating-3rd-party-software
-- do-you-know-the-best-sample-applications
-- do-you-reference-most-dlls-by-project
-- do-you-reference-very-calm-stable-dlls-by-assembly
+- the-best-sample-applications
+- do-you-reference-＂most＂-dlls-by-project
+- do-you-reference-＂very-calm-stable＂-dlls-by-assembly
 - do-you-turn-edit-and-continue-off
-- do-you-use-a-project-portal-for-your-team-and-client
+- use-a-Project-Portal-for-your-team-and-client
 - do-you-use-slack-as-part-of-your-devops
-- do-you-use-trace-fail-or-set-assertuienabled-true-in-your-web-config
+- do-you-use-trace-fail-or-set-assertuienabled-＂true＂-in-your-web-config
 
 ---
 If you still need help, visit [ASP.NET MVC Web Application Development](http&#58;//www.ssw.com.au/ssw/Consulting/WebsiteDevelopment.aspx) and book in a consultant.

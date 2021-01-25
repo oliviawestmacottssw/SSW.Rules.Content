@@ -6,7 +6,7 @@ uri: rules-to-better-presentation-pcs
 index:
 - do-you-know-how-to-setup-a-boot-to-vhd-image
 - do-you-put-the-vhd-image-in-a-standard-folder-name-with-instructions
-- do-you-know-what-features-to-install-on-a-windows-server-vhd
+- do-you-know-what-features-to-install-on-a-windows-2008-r2-vhd
 - do-you-know-that-the-vhd-file-will-expand-to-the-size-of-the-partition-inside-the-vhd-when-you-boot-into-it
 - do-you-know-what-standard-software-to-install-on-vhd
 - do-you-install-your-video-card-driver-on-your-vhd

@@ -4,8 +4,8 @@ title: Rules to Better Data Protection Manager (DPM)
 guid: 5bb18b42-1943-42ed-a318-b6197963450a
 uri: rules-to-better-data-protection-manager-dpm
 index:
-- do-you-know-why-to-use-data-protection-manager-dpm
-- do-you-know-the-best-way-to-install-dpm
+- why-use-data-protection-manager
+- the-best-way-to-install-DPM
 - do-you-setup-sharepoint-backups-in-the-correct-order
 
 ---

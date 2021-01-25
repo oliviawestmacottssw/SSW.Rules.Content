@@ -19,7 +19,7 @@ index:
 - do-you-know-how-to-turn-requests-for-free-work-into-billable-work
 - do-you-avoid-invoicing-issues-where-possible-and-resolve-them-quickly-when-they-come-up
 - meetings-do-you-know-the-way-meetings-should-work
-- do-you-give-clients-a-warm-welcome
+- give-clients-a-warm-welcome
 - meetings-are-you-clear-about-billable-time-in-meetings
 - meetings-do-you-go-to-meetings-prepared
 - do-you-know-the-difference-between-a-brief-proposal-and-a-specification-review
@@ -27,7 +27,7 @@ index:
 - meetings-do-you-ask-clients-the-two-important-questions-at-the-beginning-of-each-meeting
 - meetings-do-you-exchange-names-in-meetings
 - meetings-do-you-listen-more-than-you-talk
-- do-you-send-thank-you-email-to-your-client-when-project-is-about-to-end
+- send-a-thank-you-email-to-your-client
 - do-you-know-the-first-thing-to-do-when-you-come-off-client-work
 - do-you-always-state-your-understanding-or-what-you-have-already-done-to-investigate-a-problem
 - do-you-reliably-deliver-your-tasks
@@ -48,11 +48,11 @@ index:
 - do-you-know-the-client-is-not-_always_-right
 - do-you-know-how-to-handover-a-sales-enquiry-to-a-sales-person
 - do-you-not-interrupt-people-when-they-are-in-the-zone
-- do-you-build-the-client-relationship-by-completing-client-love-each-week-aka-customer-love
+- do-you-build-the-client-relationship-by-completing-＂client-love＂-each-week-(aka-customer-love)
 - do-you-keep-your-client-informed-of-progress
-- do-you-avoid-logging-out-and-logging-in
-- do-you-cc-the-client-whenever-possible
-- do-you-use-backchannels-effectively
+- use-chrome-profiles
+- cc-the-client-whenever-possible
+- use-backchannels-effectively
 
 ---
 Being a software consultant involves more than just coding. How you manage and communicate with your clients is vital to your success.

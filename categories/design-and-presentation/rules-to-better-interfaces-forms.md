@@ -4,9 +4,9 @@ title: Rules to Better Interfaces (Forms)
 guid: f46457d7-6684-440e-9a68-b18202963dc4
 uri: rules-to-better-interfaces-forms
 index:
-- being-pedantic-do-you-avoid-ending-labels-text-with-a-colon
+- avoid-ending-labels-text-with-a-colon
 - do-you-align-your-add-edit-delete-buttons-horizontal-and-bottom-right
-- do-you-avoid-data-junk-data-not-manually-entered-by-yourself
+- do-you-avoid-＂data-junk＂-(data-not-manually-entered-by-yourself)
 - do-you-avoid-combining-different-entities
 - do-you-avoid-doing-an-embedded-add
 - do-you-avoid-dynamically-labeling-your-form-buttons
@@ -18,7 +18,7 @@ index:
 - do-you-group-related-fields-by-using-fieldset
 - do-you-have-a-label-tag-for-the-fields-associated-with-your-input
 - do-you-have-consistent-way-to-store-a-same-field
-- do-you-know-how-to-align-your-form-labels
+- how-to-align-your-form-labels
 - do-you-know-the-correct-way-to-develop-data-entry-forms
 - do-you-label-your-form-buttons-consistently
 - do-you-make-text-boxes-show-the-whole-query

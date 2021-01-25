@@ -30,9 +30,9 @@ index:
 - connection-stream-do-you-use-a-udl-when-getting-database-settings
 - being-pedantic-do-your-buttons-have-a-mnemonic
 - do-you-use-an-ellipsis-to-indicate-an-action-requiring-more-user-input
-- controls-do-you-include-a-select-all-checkbox-on-the-top
-- controls-do-you-indicate-when-fields-are-read-only-or-calculated
-- controls-do-you-set-row-select-mode-as-fullrowselect-for-datagridview-if-it-is-read-only-windows-forms-only
+- controls-do-you-include-a-＂select-all＂-checkbox-on-the-top
+- controls-do-you-indicate-when-fields-are-＂read-only＂-or-＂calculated＂
+- controls-do-you-set-row-select-mode-as-＂fullrowselect＂-for-datagridview-if-it-is-read-only-(windows-forms-only)
 - being-pedantic-do-you-use-balloon-tooltip
 
 ---

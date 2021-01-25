@@ -5,12 +5,12 @@ guid: 4cba1303-cb5f-44f5-8cf8-4549740defcb
 uri: rules-to-better-angularjs
 index:
 - do-you-know-the-best-visual-studio-extensions-and-nuget-packages-for-angularjs
-- do-you-write-your-angular-1-x-directives-in-typescript
+- do-you-wrote-your-angular-1-x-directives-in-typescript
 - do-you-name-your-dependencies-to-avoid-problems-with-minification
 - do-you-consider-seo-in-your-angularjs-application
 - do-you-call-angularjs-services-from-your-kendo-datasource
-- do-you-know-the-best-free-resources-for-angularjs
-- tools-do-you-know-what-angular-tools-to-install-for-an-angular-project
+- best-free-resources-for-angularjs
+- angular-the-stuff-to-install
 
 ---
 ### \*Depreciated\*

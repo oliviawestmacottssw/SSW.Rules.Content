@@ -4,11 +4,11 @@ title: Rules to Better Outlook
 guid: 4484570f-c674-4bdc-947a-24831d2b8499
 uri: rules-to-better-outlook
 index:
-- do-you-avoid-recall-this-message-by-not-sending-emails-imediatelly
+- avoid-sending-emails-immediately
 - do-you-avoid-outlook-rules
 - do-you-avoid-using-auto-archive
 - do-you-group-your-emails-by-conversation-and-date
-- do-you-know-how-to-make-your-ccs-grey
+- how-to-make-emails-you-are-cc-ed-grey
 - do-you-know-how-to-recall-an-email
 - do-you-manage-your-deleted-items
 - do-you-minimize-your-outlook-distractions
@@ -18,7 +18,7 @@ index:
 - do-you-use-the-search-tool-to-find-emails-in-outlook
 - do-you-use-the-security-options-in-outlook
 - do-you-use-the-voting-option-appropriately
-- zz_do-you-use-word-as-your-editor
+- do-you-use-word-as-your-editor
 
 ---
 

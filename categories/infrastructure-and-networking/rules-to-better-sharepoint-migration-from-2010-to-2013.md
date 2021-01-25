@@ -8,12 +8,12 @@ index:
 - do-you-know-that-you-need-to-migrate-custom-site-template-before-upgrade-to-sharepoint-2013-ui
 - do-you-know-how-to-identify-customizations-on-sharepoint-webs
 - do-you-know-how-to-deploy-the-imported-solutions-to-the-new-site-collection
-- do-you-run-test-spcontentdatabase-before-migration
-- have-you-migrated-your-service-application-databases
+- run-test-spcontentdatabase-before-actual-migration
+- have-you-migrated-your-service-application-databases-from-sharepoint-2010-to-2013
 - do-you-advise-staff-members-you-are-about-to-perform-a-migration
 - do-you-lock-the-sharepoint-content-database-before-making-a-backup
 - do-you-check-for-errors-after-the-migration-process
-- do-you-have-a-migration-plan
+- high-level-migration-plan
 
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.

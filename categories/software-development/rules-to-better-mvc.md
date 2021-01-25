@@ -28,7 +28,7 @@ index:
 - do-you-use-jquery-with-the-web-api-to-build-responsive-ui
 - do-you-use-twitter-bootstrap
 - do-you-bundle-and-minify-your-javascript
-- do-you-know-the-best-sample-applications
+- the-best-sample-applications
 - do-you-know-the-best-way-to-do-printable-reports
 - do-you-protect-your-mvc-website-from-automated-attack
 - do-you-update-your-nuget-packages

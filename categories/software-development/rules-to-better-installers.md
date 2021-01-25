@@ -7,7 +7,7 @@ index:
 - do-you-know-how-to-add-a-version-number-to-setup-package-in-advanced-installer
 - do-you-know-how-to-include-or-exclude-files-when-syncing-a-folder-in-advanced-installer
 - do-you-know-what-tools-to-use-to-create-setup-packages
-- do-you-share-code-using-packages-binary-and-source-sharing
+- share-code-using-packages
 
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.

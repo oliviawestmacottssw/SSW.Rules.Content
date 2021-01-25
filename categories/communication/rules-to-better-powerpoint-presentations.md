@@ -22,16 +22,16 @@ index:
 - do-you-keep-your-presentation-simple
 - do-you-make-todo-items-in-red
 - do-you-use-the-full-slide-for-screenshots
-- do-you-have-good-and-bad-bullet-points
+- have-good-and-bad-bullet-points
 - do-you-use-a-word-document-to-record-your-audiences-questions-and-answers
 - do-you-finish-your-presentation-with-a-thank-you-slide
 - do-you-know-to-slideshare-your-powerpoint-before-the-presentation
 - do-you-keep-eye-contact-with-the-audience
-- do-you-get-your-ppt-tester-to-do-a-test-please-preferably-a-designer
-- do-you-know-how-to-compress-your-powerpoint-e-g-from-26mb-to-13mb
-- do-you-know-to-animate-your-summary-slide
-- do-you-know-to-keep-your-urls-clean
-- do-you-know-to-use-creative-commons-images
+- do-you-get-your-＂ppt-tester＂-to-do-a-test-please-(preferably-a-designer)
+- do-you-know-how-to-compress-your-powerpoint
+- animate-your-summary-slide
+- keep-your-urls-clean
+- use-creative-commons-images
 
 ---
  

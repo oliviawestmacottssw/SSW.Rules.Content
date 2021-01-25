@@ -8,8 +8,8 @@ index:
 - do-you-email-clients-as-soon-as-you-realise-you-will-overrun-your-original-estimate
 - approval-do-you-get-work-approved-before-you-do-it
 - approval-do-you-assume-necessary-tasks-will-get-approval
-- do-you-send-sprint-forecast-and-sprint-review-retro-emails-to-the-client
-- do-you-send-thank-you-email-to-your-client-when-project-is-about-to-end
+- send-sprint-forecast-and-sprint-review-retro-emails-to-the-client
+- send-a-thank-you-email-to-your-client
 
 ---
 ### This page is for both developers and Account Managers

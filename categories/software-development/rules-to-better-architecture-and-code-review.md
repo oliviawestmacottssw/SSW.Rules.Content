@@ -7,12 +7,12 @@ index:
 - do-you-evaluate-the-processes
 - do-you-make-sure-you-get-latest-and-compile
 - do-you-review-the-solution-and-project-names
-- do-you-conduct-an-architecture-review-every-few-sprints
-- do-you-make-awesome-documentation
-- do-you-have-an-architecture-diagram
+- do-you-conduct-an-architecture-review-after-every-sprint
+- awesome-documentation
+- architecture-diagram
 - do-you-document-the-technologies-design-patterns-and-alm-processes
-- do-you-look-at-the-architecture-of-javascript-projects
-- do-you-look-at-the-architecture-of-net-projects
+- look-at-the-architecture-of-javascript-projects
+- do-you-look-at-the-architecture
 - do-you-generate-the-vs-dependency-graph
 - do-you-know-how-to-laser-in-on-the-smelliest-code
 - do-you-know-the-common-design-principles-part-1
@@ -22,7 +22,7 @@ index:
 - do-you-look-for-grasp-patterns
 - code-can-you-read-code-down-across
 - do-you-start-reading-code
-- do-you-use-a-precision-mocker-like-moq-instead-of-a-monster-mocker-like-microsoft-fakes
+- use-a-precision-mocker-instead-of-a-monster-mocker
 - do-you-have-opportunities-to-convert-use-linq-to-entities
 - do-you-look-for-opportunities-to-use-linq
 - do-you-use-the-repository-pattern-for-data-access
@@ -30,16 +30,16 @@ index:
 - do-you-decide-on-the-level-of-the-verboseness-e-g-ternary-operators
 - do-you-review-the-code-comments
 - do-you-use-the-best-code-analysis-tools
-- do-you-use-a-logging-framework
+- do-you-look-for-console-writeline-and-change-it-to-trace-writeline
 - do-you-look-for-code-coverage
 - do-you-use-the-kent-beck-philosophy
-- do-you-know-the-best-dependency-injection-container-aka-do-not-waste-days-evaluating-ioc-containers
-- do-you-know-what-to-do-about-asp-net-core-default-dependency-injection
+- the-best-dependency-injection-container
+- do-you-know-what-to-do-about-asp-net-core-(aka-asp-net-5)-default-dependency-injection
 - do-you-use-subdomains-instead-of-virtual-directories
 - do-you-use-the-best-middle-tier-net-libraries
 - do-you-use-the-best-web-ui-libraries
 - do-you-use-your-ioc-container-to-inject-dependencies-and-not-as-a-singleton-container
-- do-you-know-the-importance-of-paying-back-technical-debt
+- technical-debt
 - do-you-know-to-replace-reflection-with-mef
 - mef-do-you-know-not-to-go-overboard-with-dynamic-dependencies
 

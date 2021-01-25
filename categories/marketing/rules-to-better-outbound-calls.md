@@ -4,18 +4,18 @@ title: Rules to Better Outbound Calls
 guid: 7b785973-edcd-44ec-b098-0a978f49d052
 uri: rules-to-better-outbound-calls
 index:
-- calling-do-you-have-a-good-introduction
-- do-have-an-outbound-script
-- do-you-ask-open-ended-questions
-- do-you-build-a-yes-ladder-to-your-outbound-script
-- do-you-call-enough-people
-- do-you-change-cold-calls-into-warm-calls
-- do-you-have-the-right-attitude
-- do-you-know-how-to-write-a-follow-up-email-after-an-outbound-call
-- do-you-maintain-control-of-the-call
-- do-you-measure-the-success-of-your-outbound-efforts
-- do-you-target-the-right-people
-- do-you-use-your-own-database-to-find-prospects
+- make-a-good-call-introduction
+- have-an-outbound-script
+- ask-open-ended-questions
+- build-a-yes-ladder-to-your-outbound-script
+- call-enough-people
+- change-cold-calls-into-warm-calls
+- have-the-right-attitude
+- write-a-follow-up-email-after-an-outbound-call
+- maintain-control-of-the-call
+- measure-the-success-of-your-outbound-efforts
+- target-the-right-people
+- use-your-own-database-to-find-prospects
 
 ---
 As you look at the phone and get ready to make the first outbound call on the seemingly endless list in front of you, you're filled with doubt, fear, and anxiety. As you break out in a cold sweat you've just realized why they call it a cold call. But the reluctance and fear that you're feeling can be remedied if you do just follow a few simple things before you start your outbound efforts.

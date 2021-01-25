@@ -8,10 +8,10 @@ index:
 - do-you-backup-your-wordpress-site-to-an-external-provider-like-dropbox
 - do-you-know-how-to-create-posts-via-email
 - do-you-know-how-to-deploy-changes-from-staging-to-live
-- do-you-optimize-your-images-for-web
-- do-you-purge-cache
-- do-you-use-301-code-to-redirect-renamed-or-moved-pages
-- do-you-use-read-more-wordpress-tag-to-show-summary-only-on-a-blog-list
+- optimize-your-images
+- purge-server-caches
+- use-301-redirect-on-renamed-or-moved-pages
+- do-you-use-read-more’-wordpress-tag-to-show-summary-only-on-a-blog-list
 
 ---
 If you still need help, [visit our WordPress consulting page](https&#58;//www.ssw.com.au/ssw/Consulting/WordPress.aspx) and book in a consultant.

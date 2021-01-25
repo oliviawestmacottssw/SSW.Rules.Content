@@ -59,18 +59,18 @@ index:
 - do-you-know-the-best-way-to-implement-administrators-login
 - asp-net-vs-sharepoint-development-do-you-know-what-you-get-for-free-out-of-the-box
 - do-you-customize-group-header-style-in-list
-- do-you-know-how-to-create-a-customer-portal-in-sharepoint
+- how-to-create-a-customer-portal-in-sharepoint
 - do-you-know-how-to-custom-styles-for-richhtmleditor-in-sharepoint-2013
 - do-you-know-how-to-resolve-the-broken-links-caused-by-page-renaming
-- do-you-know-how-to-set-up-application-insights-in-sharepoint
+- application-insights-in-sharepoint
 - do-you-know-how-to-sort-in-view-by-a-column-through-code
 - do-you-know-the-6-ways-to-integrate-your-crm-2011-data-into-sharepoint-2010
-- do-you-know-the-best-forms-solution
-- do-you-reduce-diagnostic-logging-level-after-configure-hybrid-search
+- the-best-forms-solution
+- reduce-diagnostic-logging-level-after-configure-hybrid-search
 - do-you-turn-off-auto-update-on-your-servers
 - do-you-use-the-right-service-in-sharepoint-2013
 - never-dispose-objects-from-spcontext-current
-- do-you-turn-off-auto-update-on-your-servers
+- do-you-turn-off-auto-update-on-your-sharepoint-servers
 
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.

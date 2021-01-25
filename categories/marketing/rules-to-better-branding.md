@@ -4,22 +4,22 @@ title: Rules to Better Branding
 guid: 101302ea-9cc1-4fec-986b-a2ca54a535cb
 uri: rules-to-better-branding
 index:
-- do-you-have-a-great-company-logo
-- do-you-set-design-guidelines-for-your-company
-- do-you-keep-the-same-main-concept-when-redesigning-a-logo
-- do-you-have-cool-business-cards
-- do-you-use-great-email-signatures
-- do-you-brand-your-products
-- do-you-brand-your-events
-- do-you-brand-your-cars
-- do-you-brand-your-employees
-- do-you-brand-your-plastic-bags
-- do-you-use-a-consistent-phone-message
-- do-you-brand-your-computer-safe-coffee-mugs-and-water-bottles
-- do-you-brand-your-assets
+- have-a-great-company-logo
+- set-design-guidelines
+- logo-redesign
+- business-cards-branding
+- great-email-signatures
+- products-branding
+- events-branding
+- cars-branding
+- employees-branding
+- plastic-bags-branding
+- consistent-phone-message
+- coffee-mugs-branding
+- brand-your-assets
 - do-you-brand-your-takeaway-coffee-cups
 - do-you-use-identifying-company-logo-motifs
-- linkedin-do-you-have-links-to-your-main-services-on-your-profile
+- have-urls-to-your-main-services-on-linkedin
 
 ---
 Branding is the key to success. In the cluttered global market, your company's brand is the way the outside world perceives your product or service. Many business problems revolve around poor branding: your clients might think you're too small for a job, or not technically capable, or charge too much. Common customer grievances could be alleviated by a positive brand image.

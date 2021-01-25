@@ -20,11 +20,11 @@ index:
 - sample-do-your-sample-databases-have-good-naming-conventions
 - sample-do-you-avoid-dropping-a-users-database-when-you-attempt-to-create-a-database
 - do-you-provide-a-warning-before-the-program-exits
-- menu-do-you-have-a-help-training-videos-item
-- menu-do-you-have-a-standard-help-about-form
-- menu-do-you-have-your-help-user-guide-online
-- menu-do-you-include-a-tools-validate-data
-- menu-do-you-know-the-8-items-every-help-menu-needs
+- menu-do-you-have-a-＂help-training-videos＂-item
+- menu-do-you-have-a-standard-＂help-about＂-form
+- menu-do-you-have-your-＂help-user-guide＂-online
+- menu-do-you-include-a-＂tools-validate-data＂
+- menu-do-you-know-the-8-items-every-＂help＂-menu-needs
 
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.

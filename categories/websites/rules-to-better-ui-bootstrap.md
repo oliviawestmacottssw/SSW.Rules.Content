@@ -4,13 +4,13 @@ title: Rules to Better UI (Bootstrap)
 guid: add2d97c-ee8c-4ee7-b11f-7d7a30e13628
 uri: rules-to-better-ui-bootstrap
 index:
-- do-you-always-use-a-css-preprocessor-language-over-plain-css-such-as-less-or-scss
+- do-you-always-use-less-instead-of-plain-old-css
 - do-you-provide-alternate-sizings-for-bootstrap-columns
 - do-you-set-device-width-when-designing-responsive-web-applications
 - do-you-use-hidden-visible-classes-when-resizing-to-hide-show-content
 - do-you-use-respond-js-to-target-ie8-with-bootstrap
-- do-you-use-the-best-libraries-for-icons
-- do-you-use-the-css-class-form-horizontal-to-arrange-your-fields-and-labels
+- best-libraries-for-icons
+- use-css-class-form-horizontal-to-arrange-fields-and-labels
 - do-you-use-web-essentials
 
 ---

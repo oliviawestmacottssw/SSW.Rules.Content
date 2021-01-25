@@ -10,15 +10,15 @@ index:
 - do-you-avoid-publishing-from-visual-studio
 - do-you-configure-the-executebatchtemplate-build-process-template
 - do-you-create-a-deployment-project-alongside-your-web-application-for-any-additional-deployment-steps
-- do-you-create-a-continuous-integration-build-for-the-solution
+- do-you-create-a-continuous-integration-build-for-the-solution-before-configuring-continuous-deployment
 - do-you-create-a-deployment-batch-file-and-setparameters-file-for-each-environment
 - do-you-deploy-to-other-environments
 - do-you-know-the-easiest-way-to-continuously-deploy-is-to-use-visualstudio-com-and-azure
 - do-you-know-to-create-the-website-in-iis-if-using-web-deploy
 - do-you-not-install-web-deploy-from-the-web-platform-installer
 - do-you-update-your-build-to-use-the-executebatchtemplate-build-process-template
-- do-you-know-the-reasons-why-calling-a-batch-file-from-the-build-process-template-is-better-than-deploying-directly-from-the-build
-- do-you-use-web-compiler-extension
+- the-reasons-why-calling-a-batch-file-from-the-build-process-template-is-better-than-deploying-directly-from-the-build
+- use-web-compiler
 
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.

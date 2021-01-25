@@ -14,12 +14,12 @@ index:
 - do-you-export-a-virtual-machine-if-you-need-to-move-it
 - do-you-use-group-policy-to-apply-settings-to-all-of-your-cluster-nodes
 - do-you-know-how-to-specify-a-network-for-live-migration
-- do-you-snapshot-virtual-machines-before-big-changes
+- do-you-shut-down-a-virtual-machine-before-running-a-snapshot
 - do-you-delete-old-snapshots-before-making-a-new-one
 - do-your-network-cards-to-the-latest-driver
 - do-you-have-your-cluster-network-on-a-separate-active-directory-domain
 - do-you-know-how-to-decommission-a-virtual-machine
-- do-you-only-use-your-nodes-for-virtual-machine-management
+- do-you-make-sure-all-of-your-nodes-are-all-domain-controllers
 - do-you-disable-netbios-on-all-dedicated-purpose-adapters-iscsi-and-cluster-communications
 - do-you-manage-hyper-v-networks-through-virtual-machine-manager-vmm
 - do-you-manage-virtual-machines-through-virtual-machine-manager-vmm

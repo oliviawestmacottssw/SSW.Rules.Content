@@ -9,7 +9,7 @@ index:
 - production-do-you-know-how-to-conduct-an-interview
 - production-do-you-know-how-to-record-live-video-interviews-on-location
 - production-do-you-know-how-to-start-recording-with-camtasia
-- production-do-you-know-what-type-of-microphone-to-use
+- what-type-of-microphone-to-use
 - production-do-you-know-the-best-way-to-end-a-video
 - production-do-you-know-the-correct-way-to-frame-your-subject
 - production-do-you-manage-audience-interactivity
@@ -30,29 +30,29 @@ index:
 - post-production-do-you-know-how-to-promote-videos
 - post-production-do-you-know-how-to-transfer-avchd-footage-to-your-computer
 - post-production-do-you-use-a-version-number-on-your-videos
-- post-production-do-you-use-hd-or-4k-quality
-- do-you-add-a-sweet-audio-indication-when-text-arrives-on-the-screen
-- do-you-add-time-links-on-your-youtube-videos
+- post-production-high-quality
+- add-a-sweet-audio-indication-when-text-arrives-on-the-screen
+- add-sections-time-and-links-on-video-description
 - do-you-have-a-dog-aka-digital-on-screen-graphic-on-your-videos
-- do-you-have-a-good-intro-and-closing-for-your-product-demonstrations
-- do-you-know-how-to-find-the-best-audio-track-for-your-video
+- have-a-good-intro-and-closing-for-product-demonstrations
+- how-to-find-the-best-audio-track-for-your-video
 - do-you-know-how-to-make-a-video-of-a-responsive-website-as-it-appears-on-a-mobile-phone
 - do-you-know-how-to-record-the-screen-on-a-mac
-- do-you-know-that-the-editors-aim-is-to-be-a-coach-not-just-a-video-editor
-- do-you-make-sure-your-screen-recordings-are-easy-to-view
-- do-you-organize-the-audience-when-numbers-are-low
-- do-you-know-how-to-record-a-quick-and-dirty-done-video
-- do-you-use-a-hardware-capture-device-to-capture-laptop-video-output
+- the-editors-aim-is-to-be-a-coach-not-just-a-video-editor
+- easy-to-view-screen-recordings
+- organize-the-audience-when-numbers-are-low
+- record-a-quick-and-dirty-done-video
+- use-a-hardware-device-to-capture-laptop-video-output
 - post-production-do-you-know-how-to-structure-your-files
-- post-production-do-you-have-a-branded-intro-and-outro-in-your-videos
+- branded-video-intro-and-outro
 - production-do-you-know-to-subtitle-your-videos
-- do-you-avoid-dates-text-in-graphics-for-events-promo-videos
-- do-you-record-better-audio
-- do-you-structure-and-back-up-your-files
-- do-you-take-a-copy-of-the-data-views-and-comments-before-deleting-a-version-for-good
-- pre-production-do-you-define-the-level-of-quality-up-front-gold-vs-silver
+- avoid-dates-text-in-graphics-for-events
+- record-better-audio
+- structure-and-back-up-your-files
+- copy-views-and-comments-before-deleting-a-video-version
+- define-the-level-of-quality-up-front
 - production-do-you-create-a-quiz-immediately-following-production
-- video-production-do-you-know-the-types-of-cuts
+- video-cuts
 
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.

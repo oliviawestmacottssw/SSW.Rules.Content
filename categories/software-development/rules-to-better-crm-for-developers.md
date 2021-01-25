@@ -5,9 +5,9 @@ guid: 0f529183-db33-47b0-8f53-1c03347edf91
 uri: rules-to-better-crm-for-developers
 index:
 - do-you-know-the-best-way-to-demo-microsoft-crm-to-clients
-- do-you-identify-development-test-and-production-web-servers-by-colors
+- do-you-identify-development-test-and-production-crm-web-servers-by-colors
 - do-you-know-how-to-correctly-use-the-terms-configuration-customization-and-extending-in-the-crm-context
-- do-you-turn-on-development-errors-and-platform-tracing
+- installation-do-you-turn-on-development-errors-and-platform-tracing
 - crm2013-2015-do-you-use-crm-business-rules-to-automate-forms
 - crm2013-do-you-use-real-time-workflows-instead-of-javascript-and-or-plugin-code
 - do-you-use-filtered-views-or-fetch-for-crm-custom-reports
@@ -28,23 +28,23 @@ index:
 - customization-do-you-export-only-the-customizations-of-entities-that-you-did-customize
 - customization-do-you-have-a-naming-convention-for-your-customization-back-up-crm-4-only
 - customization-do-you-have-email-address-in-the-associated-contact-view
-- customization-do-you-only-export-the-customizations-and-related-ones-that-you-have-made
+- customization-do-you-only-export-the-customizations-and-related-ones-that-you-have-made-(only-for-crm-4-0)
 - customization-do-you-use-the-built-in-test-form-events-before-you-publish-javascript-changes
 - customization-do-you-always-make-backup-versions-of-the-xml-schema-crm-4-only
 - data-migration-do-you-prioritize-the-data-that-is-to-be-imported
-- do-you-make-batch-files-for-deployment-to-test-and-production-servers-crm-4-only
+- do-you-make-batch-files-for-deployment-to-test-and-production-servers
 - form-design-do-you-change-contact-method-options-from-default-option-group-to-checkboxes
-- do-you-have-proper-tools-in-your-tool-belt
-- do-you-create-a-solution-and-use-the-current-environment-when-creating-flow-for-dynamics
-- do-you-enable-sql-read-only-connect-to-the-common-data-service
-- do-you-know-how-to-configure-email-sending
-- do-you-know-the-right-place-to-store-employee-data
-- do-you-make-sure-the-primary-field-is-always-the-first-column-in-a-view
-- do-you-take-advantage-of-power-automate-and-azure-functions-in-your-dynamics-solutions
+- crm-proper-tools
+- create-a-solution-and-use-the-current-environment-when-creating-flow-for-dynamics
+- enable-sql-connect-to-the-common-data-service
+- how-to-configure-email-sending
+- the-right-place-to-store-employee-data
+- make-sure-the-primary-field-is-always-the-first-column-in-a-view
+- take-advantage-of-power-automate-and-azure-functions-in-your-dynamics-solutions
 - do-you-turn-off-auto-update-on-your-servers
-- do-you-use-the-common-data-service-connector-instead-of-the-dynamics-365-connector-when-using-flows
-- do-you-use-version-numbers-and-well-formatted-notes-to-keep-track-of-solution-changes
-- do-you-turn-off-auto-update-on-your-servers
+- use-the-common-data-service-connector-instead-of-the-dynamics-365-connector
+- use-version-numbers-and-well-formatted-notes-to-keep-track-of-solution-changes
+- do-you-turn-off-auto-update-on-your-sharepoint-servers
 
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.

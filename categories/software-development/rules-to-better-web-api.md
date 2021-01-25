@@ -4,11 +4,11 @@ title: Rules to Better Web API
 guid: 1be95aba-742b-4ab9-bca6-ed78f1821ede
 uri: rules-to-better-web-api
 index:
-- do-you-choose-the-right-web-api-technology-for-your-project
-- do-you-know-when-to-use-graphql
+- choose-the-right-api-tech
+- graphql-when-to-use
 - do-you-return-detailed-error-messages
 - do-you-return-the-correct-response-code
-- do-you-use-fluent-validation
+- use-fluent-validation
 - do-you-add-timestamps
 - do-you-apply-the-validatemodel-attribute-to-all-controllers
 

@@ -10,9 +10,9 @@ index:
 - data-entry-do-you-know-how-to-create-new-companies
 - data-entry-do-you-know-how-to-create-new-contacts
 - data-entry-do-you-know-how-to-create-new-opportunities
-- data-entry-do-you-know-the-quick-way-to-create-a-contact-account-and-opportunity-in-one-go
+- data-entry-do-you-know-the-quick-way-to-create-a-contact-account-and-opportunity-in-1-go
 - sales-do-you-know-how-to-follow-up-an-opportunity-using-crm-activities
-- sales-do-you-track-all-sales-related-activities-in-crm
+- track-sales-emails
 - do-you-know-how-and-when-to-deactivate-a-company-contact
 - do-you-know-how-to-sync-your-outlook-contacts-to-crm
 - marketing-do-you-know-the-differences-between-campaign-and-quick-campaign-in-crm-2013
@@ -22,17 +22,17 @@ index:
 - do-you-know-how-to-report-on-crm-data
 - scheduling-do-you-know-how-to-view-the-availability-of-each-developer-resource-scheduling
 - scheduling-do-you-know-how-to-book-developers-for-a-project
-- scheduling-do-you-know-when-to-use-all-day-events-or-start-and-end-times-with-recurrence
+- when-to-use-all-day-events-or-start-and-end-times-with-recurrence
 - scheduling-do-you-have-a-consistent-naming-convention-for-your-bookings
 - crm2013-2015-do-you-use-crm-business-rules-to-automate-forms
-- do-you-know-how-to-find-an-employee-or-clients-phone-number
-- do-you-know-how-to-install-skypepop-on-your-pc
-- do-you-know-how-to-keep-crm-opportunities-updated
+- how-to-find-a-phone-number
+- how-to-install-skypepop
+- keep-crm-opportunities-updated
 - do-you-know-how-to-send-newsletter-in-microsoft-crm-2013
-- do-you-know-how-to-send-newsletters-in-microsoft-dynamics-crm-2016
-- do-you-track-important-emails-in-crm
+- how-to-send-newsletter-in-microsoft-crm-2016
+- track-important-emails
 - do-you-know-how-to-view-changes-made-to-a-crm-entity
-- do-you-merge-accounts-or-contacts-when-you-see-duplicates
+- merge-duplicate-accounts-or-contacts
 
 ---
 

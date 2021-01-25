@@ -6,7 +6,7 @@ uri: rules-to-better-websites-navigation
 index:
 - do-you-use-underlines-only-on-links
 - do-you-underline-links-and-include-a-rollover
-- do-you-use-relevant-words-on-your-links
+- relevant-words-on-links
 - do-you-distinguish-visited-links
 - do-you-visually-indicate-the-page-you-are-at-on-the-menu-aka-active-state
 - do-you-use-mega-menu-navigation-to-improve-usability
@@ -19,10 +19,10 @@ index:
 - do-you-make-your-pages-easy-to-access
 - do-you-avoid-redundant-linking-aka-single-link-to-single-location
 - do-you-avoid-linking-a-page-to-itself
-- do-you-know-to-hyperlink-your-phone-numbers
+- do-you-know-to-hyperlink-your-phone-numbers-2
 - do-your-wizards-include-a-wizard-breadcrumb
 - do-you-make-external-links-clear
-- do-you-make-external-links-open-on-a-new-tab
+- external-links-open-on-a-new-tab
 - do-you-save-clicking-through
 - do-you-use-icons-not-to-surprise-users-aka-use-the-correct-image-for-files
 - do-you-use-an-icon-so-a-password-prompt-should-never-be-a-surprise
@@ -34,8 +34,8 @@ index:
 - forgot-password-do-you-read-their-mind
 - login-security-do-you-know-the-correct-error-message-for-an-incorrect-user-name-or-password
 - do-you-avoid-letting-the-screen-go-white
-- do-you-give-an-option-to-widen-a-search
-- calendar-does-your-website-make-it-easy-for-your-users-to-add-an-event-to-their-calendar
+- do-you-give-option-to-widen-a-search
+- do-you-make-it-easy-to-your-users-to-add-an-event-to-their-calendar
 - do-you-know-when-to-use-full-stops-at-the-end-of-bullet-points
 
 ---

@@ -7,7 +7,7 @@ index:
 - do-you-know-the-benefits-of-using-source-control
 - do-you-know-how-to-ensure-your-build-succeeded
 - do-you-know-how-the-gated-checkin-process-works
-- do-you-know-which-check-in-policies-to-enable
+- do-you-know-which-check-in-policies-to-enable1
 - after-work-do-you-only-check-in-code-when-it-has-compiled-and-passed-the-unit-tests
 - before-starting-do-you-follow-a-test-driven-process
 - are-you-very-clear-your-source-control-is-not-a-backup-repository
@@ -39,7 +39,7 @@ index:
 - do-you-use-the-windows-explorer-integration
 - tfs-master-do-you-have-a-report-to-see-who-has-not-checked-in
 - check-in-before-lunch-and-dinner-do-you-work-in-small-chunks-check-in-after-completing-each-one
-- do-you-know-which-check-in-policies-to-enable
+- do-you-know-which-check-in-policies-to-enable1
 
 ---
 Since 1990, SSW has supported the developer community by publishing all our best practices and rules for everyone to see.
