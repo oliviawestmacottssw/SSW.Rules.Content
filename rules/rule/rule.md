@@ -5,30 +5,32 @@ title: Example Rule
 guid:
 uri: rule
 created: 2021-01-20T05:06:33.0000000Z
-authors: []
+authors:
+- title: Christian Morford-Waite
+  url: https://ssw.com.au/people/christian-morford-waite
+- title: Sebastien-Boissiere
+  url: https://ssw.com.au/people/sebastien-boissiere
+- title: Tiago Araujo
+  url: https://ssw.com.au/people/tiago-araujo
 related:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is an example rule to show you what is possible for a rule. 
+Below you will see everything you need to create an awesome page. 
 
 <!--endintro-->
 
+# This is a heading 1
+Lorem ipsum dolor sit amet. Ut enim ad minim veniam, quis nostrud exercitation. qui officia deserunt mollit anim id est laboru.
+Duis aute [this is a link](https://ssw.com.au/rules/rule) dolore  nulla [this is an external link](http://www.google.com/) pariatur. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumsunt in culpa qui officia.
+
 ## This is a heading 2
-Lorem ipsum dolor sit amet. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate [this is a link](https://ssw.com.au/rules/rule) dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ### This is a heading 3
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, [this is an external link](http://www.google.com/), sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### This is a heading 4 and below is a blockquote
+#### This is a heading 4 
+##### This is a heading 5
+###### This is a heading 6 and below is a blockquote
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.  
 >                                   - Someone famous in Source Title
 
@@ -51,11 +53,10 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
       1. This is the first item of an ordered list inside another
       1. This is the second item of an ordered list inside another
 
-  
 ### Boxes
 
 ::: greybox  
-This is a &lt;figure&gt; using the class "greybox" with a &lt;div&gt; and no &lt;p&gt; inside - Only text straight in the div. <mark>These words</mark> are surrounded by a &lt;mark&gt;.
+This is a &lt;figure&gt; using the class "greybox" with a &lt;div&gt; and no &lt;p&gt; inside - Only text straight in the div. <mark>These words</mark> are surrounded by a &lt;mark&gt;.  
 :::
 
 #### Boxes with captions
@@ -64,7 +65,7 @@ This is a &lt;figure&gt; using the class "greybox" with a &lt;div&gt; and no &lt
 This is a example of a grey box  
 :::  
 ::: bad  
-Figure: Bad greybox
+Figure: Bad greybox  
 :::
 
 ::: greybox  
@@ -76,7 +77,7 @@ This is a example of a grey box
 This is a example of a grey box  
 :::  
 ::: good  
-Figure: Good greybox
+Figure: Good greybox  
 :::
 
 #### Other boxes
@@ -97,10 +98,14 @@ This is a &lt;div&gt; using the class "china". Works the same as using a &lt;p&g
 This is a &lt;div&gt; using the class "todo". Works the same as using a &lt;p&gt; . Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.  
 :::
 
-### Codes
+### Code
+
 ```
-This is a piece of code using <code>
+This is a piece of code in a code block
 ```
+::: bad  
+Figure: Bad Example - This isn't actual code  
+:::  
 
 ```javascript
 let iceCream = 'chocolate';
@@ -131,7 +136,41 @@ Check out this video - it's responsive!
 ![Figure: Good figure](https://images.unsplash.com/photo-1491472253230-a044054ca35f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80)
 :::
 
+# Horizontal Rules
+---
+***
+___
+
+**bold** or **bold**  
+_italic_ or _italic_  
+**combined bold and _italic_**  
+~~strikethrough~~  
+
+| Tables        |      Are      |   Cool |
+| ------------- | :-----------: | -----: |
+| col 3 is      | right-aligned | \$1600 |
+| col 2 is      |   centered    |   \$12 |
+| zebra stripes |   are neat    |    \$1 |
+
+| Markdown | Less      | Pretty     |
+| -------- | --------- | ---------- |
+| _Still_  | `renders` | **nicely** |
+| 1        | 2         | 3          |
+
 ![Figure: How a smaller image (400px) works with long caption. Full screen on mobile, real width on larger screens](https://images.unsplash.com/photo-1528820454441-189cd70a6c3c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80)
 
 ![Figure: Short caption](https://images.unsplash.com/photo-1528820454441-189cd70a6c3c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80)
 
+[I'm an inline-style link](https://www.google.com)  
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+[I'm a reference-style link][arbitrary case-insensitive reference text]  
+[You can use numbers for reference-style link definitions][1]  
+Or leave it empty and use the [link text itself].  
+
+URLs and URLs in angle brackets will automatically get turned into links.  
+http://www.example.com or <http://www.example.com> and sometimes example.com (but not on Github, for example).  
+Some text to show that the reference links can follow later.
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org  
+[1]: http://slashdot.org  
+[link text itself]: http://www.reddit.com
