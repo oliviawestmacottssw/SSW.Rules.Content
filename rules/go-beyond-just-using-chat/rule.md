@@ -17,7 +17,6 @@ related:
 - do-you-show-your-phone-number-to-allow-for-emergency-communication
 - tiny-do-you-know-"email"-does-not-have-a-hyphen
 redirects:
-- go-beyond-just-using-chat
 - do-you-go-beyond-just-using-skype-chat
 - communication-do-you-go-beyond-text-when-using-teams-zoom-skype-chat
 

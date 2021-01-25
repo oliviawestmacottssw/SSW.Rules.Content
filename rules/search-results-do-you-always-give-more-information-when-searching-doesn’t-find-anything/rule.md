@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- search-results-do-you-always-give-more-information-when-searching-doesn’t-find-anything
+redirects: []
 
 ---
 

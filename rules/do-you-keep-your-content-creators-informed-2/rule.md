@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/jerwin-parker-roberto
 related: []
 redirects:
-- do-you-keep-your-content-creators-informed-2
 - do-you-keep-your-content-creators-informed
 - do-you-monitor-youtube-analytics-and-metrics-effectively
 

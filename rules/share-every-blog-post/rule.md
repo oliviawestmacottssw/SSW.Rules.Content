@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- share-every-blog-post
 - do-you-tweet-every-blog-post-(using-a-2-step-process-aka-the-double-tweet)
 - do-you-share-every-blog-post
 

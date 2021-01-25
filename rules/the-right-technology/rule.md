@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- the-right-technology
 - do-you-know-the-right-technology
 
 ---

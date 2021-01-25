@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/christian-morford-waite
 related: []
 redirects:
-- avoid-spaces-and-empty-lines-at-the-start-of-character-columns
 - data-do-you-avoid-spaces-and-empty-lines-at-the-start-of-character-columns
 
 ---

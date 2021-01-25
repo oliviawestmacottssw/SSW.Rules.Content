@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- images-should-be-hosted-internally
 - do-you-make-sure-your-images-are-hosted-internally
 
 ---

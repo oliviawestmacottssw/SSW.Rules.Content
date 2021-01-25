@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- track-your-initial-meetings
 - metrics-do-you-track-your-initial-meetings
 
 ---

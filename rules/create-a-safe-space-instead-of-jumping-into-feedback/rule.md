@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- create-a-safe-space-instead-of-jumping-into-feedback
 - do-you-know-to-create-a-safe-space-instead-of-jumping-into-feedback
 
 ---

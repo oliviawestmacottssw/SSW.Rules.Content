@@ -17,7 +17,6 @@ authors:
 related:
 - logon---do-you-have-a-company-wide-word-template
 redirects:
-- great-email-signatures
 - do-you-use-great-email-signatures
 
 ---

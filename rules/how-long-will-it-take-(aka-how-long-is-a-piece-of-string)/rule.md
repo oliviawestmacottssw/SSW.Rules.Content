@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- how-long-will-it-take-(aka-how-long-is-a-piece-of-string)
+redirects: []
 
 ---
 

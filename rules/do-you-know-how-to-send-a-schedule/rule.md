@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/daniel-šmon
 related: []
 redirects:
-- do-you-know-how-to-send-a-schedule
 - calendar-do-you-know-how-to-share-your-availability-via-email
 
 ---

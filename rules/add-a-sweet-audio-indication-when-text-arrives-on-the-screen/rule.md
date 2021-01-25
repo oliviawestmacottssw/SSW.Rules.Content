@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
-- add-a-sweet-audio-indication-when-text-arrives-on-the-screen
 - do-you-add-a-sweet-audio-indication-when-text-arrives-on-the-screen
 
 ---

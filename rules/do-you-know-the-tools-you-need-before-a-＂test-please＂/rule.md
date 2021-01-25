@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-know-the-tools-you-need-before-a-＂test-please＂
 - do-you-know-the-tools-you-need-before-a-test-please
 
 ---

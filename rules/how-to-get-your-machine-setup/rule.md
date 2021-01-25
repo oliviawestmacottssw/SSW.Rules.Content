@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- how-to-get-your-machine-setup
 - the-best-IDE-for-Angular
 - the-best-ide-for-angular
 - tools-do-you-know-the-best-ide-for-angular-and-react

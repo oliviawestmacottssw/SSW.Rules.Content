@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- write-integration-tests-to-validate-your-web-links
 - do-you-write-integration-tests-to-validate-your-web-links
 
 ---

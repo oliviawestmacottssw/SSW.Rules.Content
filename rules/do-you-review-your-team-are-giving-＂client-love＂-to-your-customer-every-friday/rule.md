@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-review-your-team-are-giving-＂client-love＂-to-your-customer-every-friday
 - do-you-review-your-team-are-giving-client-love-to-your-customer-every-friday
 
 ---

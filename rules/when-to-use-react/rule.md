@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- when-to-use-react
 - do-you-know-when-to-use-react
 
 ---

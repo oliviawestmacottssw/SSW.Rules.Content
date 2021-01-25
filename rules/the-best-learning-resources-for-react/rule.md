@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/shane-ye
 related: []
 redirects:
-- the-best-learning-resources-for-react
 - do-you-know-the-best-learning-resources-for-react
 
 ---

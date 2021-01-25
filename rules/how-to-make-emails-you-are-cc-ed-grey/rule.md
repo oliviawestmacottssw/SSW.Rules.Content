@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- how-to-make-emails-you-are-cc-ed-grey
 - do-you-make-your-cc’s-grey
 - do-you-know-how-to-make-your-cc’s-grey
 

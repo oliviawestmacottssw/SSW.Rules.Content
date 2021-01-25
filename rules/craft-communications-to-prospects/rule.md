@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matthew-sampias
 related: []
 redirects:
-- craft-communications-to-prospects
 - do-you-make-your-office-a-welcoming-space-for-employees-and-customers
 
 ---

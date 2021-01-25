@@ -8,7 +8,6 @@ created: 2016-04-21T04:36:06.0000000Z
 authors: []
 related: []
 redirects:
-- when-to-use-log-on-log-in-and-sign-in
 - tiny-do-you-know-when-to-use-log-on-log-in-and-sign-in
 
 ---

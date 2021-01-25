@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- do-you-keep-track-of-which-reports-are-being-executed
 - do-you-know-how-to-get-maximum-logging-in-report-server
 
 ---

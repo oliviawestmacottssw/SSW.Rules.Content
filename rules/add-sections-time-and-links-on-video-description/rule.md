@@ -11,17 +11,16 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related:
-- do-you-use-a-personalized-thumbnail
-- do-you-sort-your-videos-into-playlists
-- do-you-use-untapped-keywords
-- do-you-make-your-videos-youtube-friendly
-- do-you-optimize-your-videos-for-youtube
-- do-you-keep-your-audience-happy
-- do-you-add-cards-to-your-youtube-videos
+- personalized-thumbnail
+- sort-videos-into-playlists
+- untapped-keywords
+- videos-youtube-friendly
+- optimize-videos-for-youtube
+- keep-audience-happy
+- youtube-cards
 - do-you-add-end-screen-to-your-youtube-videos
 - do-you-follow-image-standard-sizes-on-social-media
 redirects:
-- add-sections-time-and-links-on-video-description
 - do-you-add-time-links-on-your-youtube-videos
 
 ---

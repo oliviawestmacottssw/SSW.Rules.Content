@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-make-batch-files-for-deployment-to-test-and-production-servers
 - do-you-make-batch-files-for-deployment-to-test-and-production-servers-(crm-4-only)
 
 ---

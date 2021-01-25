@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-the-distributed-file-system-for-your-file-shares
 - do-you-use-the-distributed-file-system-for-your-file-shares
 
 ---

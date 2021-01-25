@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- use-absolute-paths-on-newsletters
 - html-do-you-use-absolute-paths-for-newsletter-links-and-images
 
 ---

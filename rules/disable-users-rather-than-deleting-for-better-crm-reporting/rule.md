@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- disable-users-rather-than-deleting-for-better-crm-reporting
 - do-you-disable-ad-users-rather-than-deleting-for-better-crm-reporting
 
 ---

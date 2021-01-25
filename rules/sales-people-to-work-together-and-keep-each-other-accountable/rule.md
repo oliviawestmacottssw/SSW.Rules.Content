@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- sales-people-to-work-together-and-keep-each-other-accountable
 - do-your-sales-people-work-together-and-keep-each-other-accountable
 
 ---

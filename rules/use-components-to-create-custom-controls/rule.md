@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- use-components-to-create-custom-controls
 - do-you-use-components-to-create-custom-controls-(canvas-app)
 
 ---

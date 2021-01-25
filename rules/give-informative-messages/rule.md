@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- give-informative-messages
 - do-you-give-informative-messages
 
 ---

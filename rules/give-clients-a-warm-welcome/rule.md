@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/gabriel-george
 related: []
 redirects:
-- give-clients-a-warm-welcome
 - meetings-are-you-hospitable-in-client-meetings-at-your-office
 - https-rules-ssw-com-au-meetings-are-you-hospitable-in-client-meetings-at-your-office
 - do-you-give-clients-a-warm-welcome

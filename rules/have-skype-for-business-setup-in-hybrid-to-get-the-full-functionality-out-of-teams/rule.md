@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- have-skype-for-business-setup-in-hybrid-to-get-the-full-functionality-out-of-teams
 - do-you-have-skype-for-business-setup-in-hybrid-to-get-the-full-functionality-out-of-teams
 
 ---

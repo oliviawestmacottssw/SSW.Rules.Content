@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-nurture-the-marriage-(aka-keeping-customers-with-＂software-reviews＂)
 - do-you-nurture-the-marriage-(aka-keeping-customers-with-software-reviews)
 
 ---

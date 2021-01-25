@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- what-unit-tests-to-write-and-how-many
 - do-you-know-what-unit-tests-to-write-and-how-many
 
 ---

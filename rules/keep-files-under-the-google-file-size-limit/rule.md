@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- keep-files-under-the-google-file-size-limit
 - do-you-keep-your-files-under-the-google-file-size-limit
 
 ---

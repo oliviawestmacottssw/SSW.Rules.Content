@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-have-a-call-to-action-on-your-web-pages-(aka-the-banana-rule)
+redirects: []
 
 ---
 

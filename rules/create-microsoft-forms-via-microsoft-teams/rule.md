@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- create-microsoft-forms-via-microsoft-teams
 - do-you-create-microsoft-forms-via-microsoft-teams-so-others-can-see-the-results
 
 ---

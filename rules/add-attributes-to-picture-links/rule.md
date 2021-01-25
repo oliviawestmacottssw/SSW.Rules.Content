@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- add-attributes-to-picture-links
 - do-you-add-attributes-to-your-image-html
 
 ---

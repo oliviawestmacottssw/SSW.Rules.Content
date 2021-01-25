@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-carry-your-usb-flash-drive-on-your-key-ring
 - zzdo-you-carry-your-usb-flash-drive-on-your-key-ring
 
 ---

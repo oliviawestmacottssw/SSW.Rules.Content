@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- measure-the-success-of-your-outbound-efforts
 - do-you-measure-the-success-of-your-outbound-efforts
 
 ---

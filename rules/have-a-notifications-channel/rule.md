@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- have-a-notifications-channel
 - notifications-does-your-team-have-a-notifications-channel
 
 ---

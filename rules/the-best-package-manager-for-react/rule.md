@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-best-package-manager-for-react
 - do-you-know-the-best-package-manager-for-react
 
 ---

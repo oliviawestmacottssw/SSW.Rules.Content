@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- the-right-way-to-report-bugs-and-give-feedback-suggestions
 - do-you-know-the-right-way-to-report-bugs
 - do-you-know-the-right-way-to-report-bugs-and-give-feedback-suggestions
 

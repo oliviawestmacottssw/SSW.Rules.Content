@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- chose-efficient-anchor-names
 - do-you-chose-efficient-anchor-names
 
 ---

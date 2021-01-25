@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
-- setting-up-your-workspace-for-video
 - do-you-know-how-to-set-up-your-workspace-for-video
 
 ---

@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- when-you-follow-a-rule-do-you-know-to-refer-to-it-(including-the-icon)
+redirects: []
 
 ---
 

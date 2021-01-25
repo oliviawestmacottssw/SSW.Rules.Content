@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-the-right-attitude
 - do-you-have-the-right-attitude
 
 ---

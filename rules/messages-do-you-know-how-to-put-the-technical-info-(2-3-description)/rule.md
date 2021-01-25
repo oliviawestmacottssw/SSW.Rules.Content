@@ -7,8 +7,7 @@ uri: messages-do-you-know-how-to-put-the-technical-info-(2-3-description)
 created: 2012-11-27T04:36:22.0000000Z
 authors: []
 related: []
-redirects:
-- messages-do-you-know-how-to-put-the-technical-info-(2-3-description)
+redirects: []
 
 ---
 

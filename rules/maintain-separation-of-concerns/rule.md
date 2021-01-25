@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- maintain-separation-of-concerns
 - do-you-maintain-separation-of-concerns
 
 ---

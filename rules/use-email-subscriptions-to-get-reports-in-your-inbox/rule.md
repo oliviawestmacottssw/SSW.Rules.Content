@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-email-subscriptions-to-get-reports-in-your-inbox
 - do-you-use-email-subscriptions-to-get-the-reports-you-need-in-your-inbox
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- know-that-no-carriage-returns-without-line-feed
 - do-you-know-that-no-carriage-returns-without-line-feed
 
 ---

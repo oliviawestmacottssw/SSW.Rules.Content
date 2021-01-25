@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-deploying-source-code-on-the-production-server
 - do-you-avoid-deploying-source-code-on-the-production-server
 
 ---

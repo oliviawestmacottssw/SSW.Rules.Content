@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- unit-test-your-database
 - do-you-unit-test-your-database
 
 ---

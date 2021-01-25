@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- approval-for-your-social-media-content
 - do-you-know-to-seek-approval-for-your-social-media-content
 
 ---

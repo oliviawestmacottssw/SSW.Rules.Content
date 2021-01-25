@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-intellitesting-to-save-you-in-testing
 - do-you-use-intellitesting-to-save-you-in-testing
 
 ---

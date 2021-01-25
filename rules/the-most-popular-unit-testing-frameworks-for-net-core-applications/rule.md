@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- the-most-popular-unit-testing-frameworks-for-net-core-applications
 - do-you-know-the-most-popular-unit-testing-frameworks-for-net-core-applications
 
 ---

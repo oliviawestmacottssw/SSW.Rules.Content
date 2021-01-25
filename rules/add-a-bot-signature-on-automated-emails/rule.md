@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- add-a-bot-signature-on-automated-emails
 - do-you-add-a-bot-signature-to-make-it-clear-when-an-email-is-automated
 
 ---

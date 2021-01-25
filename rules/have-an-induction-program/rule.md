@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ivan-tyapkin
 related: []
 redirects:
-- have-an-induction-program
 - do-you-have-an-induction-program
 
 ---

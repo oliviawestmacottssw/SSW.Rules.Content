@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/nick-viet
 related: []
 redirects:
-- do-you-use-a-mobile-app-to-check-your-personal-payroll
 - do-you-use-a-xero-mobile-app-to-check-your-personal-payroll
 
 ---

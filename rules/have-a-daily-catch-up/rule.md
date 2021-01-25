@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- have-a-daily-catch-up
 - communication-do-you-have-a-daily-catch-up
 
 ---

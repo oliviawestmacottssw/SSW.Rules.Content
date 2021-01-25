@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-give-each-project-a-project-page-(that-you-refer-customers-to)
+redirects: []
 
 ---
 

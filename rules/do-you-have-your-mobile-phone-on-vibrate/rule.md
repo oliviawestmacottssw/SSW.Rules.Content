@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-have-your-mobile-phone-on-vibrate
 - office-environment-do-you-have-your-mobile-phone-on-vibrate
 
 ---

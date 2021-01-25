@@ -13,7 +13,6 @@ authors:
 related:
 - why-do-we-use-vm-for-sharepoint-development-
 redirects:
-- sharepoint-search
 - do-you-know-how-to-use-sharepoint-search
 
 ---

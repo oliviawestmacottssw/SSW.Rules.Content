@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- use-the-brains-of-your-company
 - https-rules-ssw-com-au-do-you-use-the-brains-of-your-company
 - do-you-use-the-brains-of-your-company
 

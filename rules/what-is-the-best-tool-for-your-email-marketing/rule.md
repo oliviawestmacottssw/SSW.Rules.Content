@@ -14,10 +14,9 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related:
 - do-you-know-the-best-crm-solutions-for-your-company
-- do-you-know-how-to-keep-crm-opportunities-updated
+- keep-crm-opportunities-updated
 - do-you-use-dynamics-365-app-for-outlook
 redirects:
-- what-is-the-best-tool-for-your-email-marketing
 - do-you-know-what-is-the-best-tool-for-your-email-marketing
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-goal-of-devops
 - do-you-know-what-the-goal-of-devops-is
 
 ---

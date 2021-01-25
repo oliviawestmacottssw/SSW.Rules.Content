@@ -9,15 +9,14 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related:
-- reference-do-you-use-the-correct-symbols-when-documenting-instructions
-- reference-do-you-use-the-right-order-of-instructions
-- do-you-highlight-actions-correctly-in-your-document
-- do-you-make-numbers-more-readable
-- do-you-include-version-numbers-in-your-file
+- use-correct-symbols-when-documenting-instructions
+- use-the-right-order-of-instructions
+- highlight-items-in-your-document
+- make-numbers-more-readable
+- include-version-numbers-in-your-file
 - tiny-do-you-use-active-phrases-no-zombies-please
-- do-you-make-awesome-documentation
+- awesome-documentation
 redirects:
-- refer-consistently-throughout-your-document
 - do-you-refer-to-the-reader-and-author-consistently-throughout-your-document
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-resource-file-to-store-all-the-messages-and-global-strings
 - do-you-use-resource-file-to-store-all-the-messages-and-globlal-strings
 
 ---

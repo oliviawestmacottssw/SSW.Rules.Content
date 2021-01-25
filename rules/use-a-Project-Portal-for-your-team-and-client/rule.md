@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- use-a-Project-Portal-for-your-team-and-client
 - do-you-make-getting-started-on-a-project-easy-for-new-developers
 - do-you-use-a-project-portal-for-your-team-and-client
 

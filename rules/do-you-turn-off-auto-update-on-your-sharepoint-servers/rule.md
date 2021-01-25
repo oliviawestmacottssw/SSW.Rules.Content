@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-turn-off-auto-update-on-your-sharepoint-servers
 - do-you-turn-off-auto-update-on-your-servers
 
 ---

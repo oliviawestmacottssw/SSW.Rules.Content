@@ -10,8 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related:
 - do-you-have-multiple-key-foreign-key-relationships-on-tables-that-map-to-fields-of-a-different-name-upsizing-problem*
-redirects:
-- do-you-have-fields-with-multiple-key-indexes-(upsizing-problem)
+redirects: []
 
 ---
 

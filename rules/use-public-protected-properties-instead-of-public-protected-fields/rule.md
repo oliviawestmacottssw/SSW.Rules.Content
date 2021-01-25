@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-public-protected-properties-instead-of-public-protected-fields
 - do-you-use-public-protected-properties-instead-of-public-protected-fields
 
 ---

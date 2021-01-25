@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-right-version-and-config-for-nunit
 - do-you-know-the-right-version-and-config-for-nunit
 
 ---

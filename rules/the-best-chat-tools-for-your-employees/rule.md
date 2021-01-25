@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-best-chat-tools-for-your-employees
 - communication-do-you-know-the-best-chat-tools-for-your-employees
 
 ---

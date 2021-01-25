@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- investigate-your-question-for-two-minutes-before-asking-someone-on-im
 - interruptions-do-you-investigate-your-question-for-2-minutes-before-asking-someone-on-im
 
 ---

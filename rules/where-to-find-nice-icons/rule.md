@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- where-to-find-nice-icons
 - do-you-know-where-you-can-find-some-nice-icons
 
 ---

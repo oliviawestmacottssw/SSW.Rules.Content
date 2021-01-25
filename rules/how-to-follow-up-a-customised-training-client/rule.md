@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- how-to-follow-up-a-customised-training-client
 - do-you-know-how-to-follow-up-a-customised-training-client
 
 ---

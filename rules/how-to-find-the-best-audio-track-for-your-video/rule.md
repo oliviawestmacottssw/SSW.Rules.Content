@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
-- how-to-find-the-best-audio-track-for-your-video
 - do-you-know-how-to-find-the-best-audio-track-for-your-video
 
 ---

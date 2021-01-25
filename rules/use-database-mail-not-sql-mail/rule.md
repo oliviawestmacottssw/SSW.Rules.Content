@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-database-mail-not-sql-mail
 - dbas-do-you-use-database-mail-(not-sql-mail)
 
 ---

@@ -15,9 +15,8 @@ related:
 - do-you-include-version-numbers-in-your-file
 - do-you-refer-to-the-reader-and-author-consistently-throughout-your-document
 - tiny-do-you-use-active-phrases-no-zombies-please
-- do-you-make-awesome-documentation
+- awesome-documentation
 redirects:
-- use-correct-symbols-when-documenting-instructions
 - reference-do-you-use-the-correct-symbols-when-documenting-instructions
 
 ---

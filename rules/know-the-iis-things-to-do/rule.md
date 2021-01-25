@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- know-the-iis-things-to-do
 - do-you-know-the-iis-things-to-do
 
 ---

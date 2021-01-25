@@ -11,8 +11,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-know-the-right-methodology-to-choose-(new-project-in-vs-2012)
+redirects: []
 
 ---
 

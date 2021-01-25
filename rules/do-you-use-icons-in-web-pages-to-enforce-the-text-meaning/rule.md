@@ -14,7 +14,6 @@ related:
 - do-you-use-an-icon-so-a-password-prompt-should-never-be-a-surprise
 - do-you-use-icons-not-to-surprise-users-aka-use-the-correct-image-for-files
 redirects:
-- do-you-use-icons-in-web-pages-to-enforce-the-text-meaning
 - do-you-use-icons-to-enforce-the-text-meaning
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/martin-li
 related: []
 redirects:
-- do-you-follow-a-definition-of-implementing-social-media-campaigns
 - do-you-follow-a-definition-of-social-media
 - do-you-know-how-to-use-social-media-for-international-campaigns
 

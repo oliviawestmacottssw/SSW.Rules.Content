@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- the-main-principles-of-clean-architecture
 - do-you-know-the-main-principles-of-clean-architecture
 
 ---

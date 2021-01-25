@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- how-to-use-your-marketing-budget-effectively
 - do-you-know-how-to-use-your-marketing-budget-effectively
 
 ---

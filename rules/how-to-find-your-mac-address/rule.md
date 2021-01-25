@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- how-to-find-your-mac-address
 - do-you-know-how-to-find-your-mac-address
 
 ---

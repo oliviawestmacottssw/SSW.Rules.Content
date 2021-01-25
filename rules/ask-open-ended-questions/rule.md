@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- ask-open-ended-questions
 - do-you-ask-open-ended-questions
 
 ---

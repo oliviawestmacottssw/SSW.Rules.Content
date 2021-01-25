@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- use-async-await-for-all-io-bound-operations
 - do-you-use-async-await-for-all-io-bound-operations
 
 ---

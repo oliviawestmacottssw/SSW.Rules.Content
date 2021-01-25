@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/liam-elliott
 related: []
 redirects:
-- avoid-using-magic-string-when-referencing-property-variable-names
 - do-you-avoid-using-magic-string-when-referencing-property-variable-names
 
 ---

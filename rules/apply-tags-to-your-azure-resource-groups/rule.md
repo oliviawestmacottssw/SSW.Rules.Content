@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- apply-tags-to-your-azure-resource-groups
 - do-you-apply-tags-to-your-azure-resource-groups
 
 ---

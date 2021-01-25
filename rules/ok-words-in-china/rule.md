@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ken-shi
 related: []
 redirects:
-- ok-words-in-china
 - chinafy-do-you-know-those-english-words-are-ok-in-china
 
 ---

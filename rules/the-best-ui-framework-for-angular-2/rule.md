@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/gabriel-george
 related: []
 redirects:
-- the-best-ui-framework-for-angular-2
 - tools-do-you-know-the-best-ui-framework-for-angular
 
 ---

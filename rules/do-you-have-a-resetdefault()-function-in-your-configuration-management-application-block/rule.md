@@ -11,8 +11,7 @@ authors:
 - title: Ryan Tee
   url: https://ssw.com.au/people/ryan-tee
 related: []
-redirects:
-- do-you-have-a-resetdefault()-function-in-your-configuration-management-application-block
+redirects: []
 
 ---
 

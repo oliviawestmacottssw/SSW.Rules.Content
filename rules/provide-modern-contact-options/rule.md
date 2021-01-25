@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- provide-modern-contact-options
 - do-you-provide-modern-contact-options
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- where-to-upload-work-related-videos
 - do-you-know-where-to-upload-work-related-videos
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- set-design-guidelines
 - do-you-set-design-guidelines-for-your-company
 
 ---

@@ -11,8 +11,7 @@ authors:
 - title: Tristan Kurniawan
   url: https://ssw.com.au/people/tristan-kurniawan
 related: []
-redirects:
-- (before-starting)-do-you-follow-a-test-driven-process
+redirects: []
 
 ---
 

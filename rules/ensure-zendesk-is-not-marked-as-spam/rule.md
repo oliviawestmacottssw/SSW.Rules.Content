@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- ensure-zendesk-is-not-marked-as-spam
 - do-you-ensure-zendesk-is-not-marked-as-spam
 
 ---

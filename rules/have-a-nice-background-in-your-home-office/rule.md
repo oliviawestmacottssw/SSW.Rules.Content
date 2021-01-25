@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- have-a-nice-background-in-your-home-office
 - setup-do-you-have-a-nice-background-in-your-home-office
 
 ---

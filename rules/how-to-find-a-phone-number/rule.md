@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- how-to-find-a-phone-number
 - do-you-know-how-to-find-an-employee-or-clients-phone-number
 
 ---

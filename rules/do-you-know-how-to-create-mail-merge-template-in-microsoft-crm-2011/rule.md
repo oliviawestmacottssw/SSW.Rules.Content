@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-know-how-to-create-mail-merge-template-in-microsoft-crm-2011
 - do-you-know-how-to-create-mail-merge-template-in-microsoft-crm-2016
 
 ---

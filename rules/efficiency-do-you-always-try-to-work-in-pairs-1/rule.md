@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- efficiency-do-you-always-try-to-work-in-pairs-1
 - efficiency-do-you-always-try-to-work-in-pairs
 
 ---

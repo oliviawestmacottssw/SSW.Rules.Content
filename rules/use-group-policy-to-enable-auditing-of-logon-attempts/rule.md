@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- use-group-policy-to-enable-auditing-of-logon-attempts
 - do-you-use-group-policy-to-enable-auditing-of-logon-attempts
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jernej-kavka
 related: []
 redirects:
-- azure-devops-events-flowing-through-to-microsoft-teams
 - tfs-events-flowing-through-to-microsoft-teams
 - do-you-have-azure-devops-events-flowing-through-to-microsoft-teams
 

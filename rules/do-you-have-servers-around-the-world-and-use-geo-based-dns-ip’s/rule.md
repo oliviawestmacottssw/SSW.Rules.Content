@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-have-servers-around-the-world-and-use-geo-based-dns-ip’s
 - do-you-have-servers-around-the-world-and-use-cdn
 
 ---

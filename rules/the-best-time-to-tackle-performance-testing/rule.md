@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- the-best-time-to-tackle-performance-testing
 - do-you-know-the-best-time-to-tackle-performance-testing
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- introduce-yourself-correctly
 - do-you-know-how-to-introduce-yourself-correctly
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- keep-your-domain-layer-independent-of-the-data-access-concerns
 - do-you-keep-your-domain-layer-independent-of-the-data-access-concerns
 
 ---

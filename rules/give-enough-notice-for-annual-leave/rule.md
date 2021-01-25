@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- give-enough-notice-for-annual-leave
 - do-you-give-enough-notice-for-annual-leave-(aka-flexibility-vs-substantial-notice)
 - office-environment-do-you-give-enough-notice-for-annual-leave
 

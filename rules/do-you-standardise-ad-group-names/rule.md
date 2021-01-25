@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/stanley-sidik
 related: []
 redirects:
-- do-you-standardise-ad-group-names
 - do-you-standardize-ad-group-names
 
 ---

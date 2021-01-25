@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/greg-harris
 related: []
 redirects:
-- track-sales-emails
 - sales-do-you-track-all-sales-related-activities-in-crm
 
 ---

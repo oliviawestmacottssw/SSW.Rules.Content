@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/rebecca-liu
 related: []
 redirects:
-- do-you-use-testimonials-on-your-website
 - do-you-show-testimonials-on-your-website
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-a-cover-page
 - do-you-have-a-cover-page-with-clients-photo
 
 ---

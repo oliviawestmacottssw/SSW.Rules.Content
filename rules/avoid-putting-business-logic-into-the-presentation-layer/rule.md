@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-putting-business-logic-into-the-presentation-layer
 - do-you-avoid-putting-business-logic-into-the-presentation-layer
 
 ---

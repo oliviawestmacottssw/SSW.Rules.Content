@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- have-urls-to-your-main-services-on-linkedin
 - linkedin-do-you-have-links-to-your-main-services-on-your-profile
 
 ---

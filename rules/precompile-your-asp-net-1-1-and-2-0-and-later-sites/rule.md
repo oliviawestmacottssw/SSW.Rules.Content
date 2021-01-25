@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- precompile-your-asp-net-1-1-and-2-0-and-later-sites
 - do-you-precompile-your-asp-net-1-1-and-2-0+-sites
 
 ---

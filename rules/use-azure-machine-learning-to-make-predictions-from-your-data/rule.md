@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-azure-machine-learning-to-make-predictions-from-your-data
 - do-you-use-azure-machine-learning-to-make-predictions-from-your-data
 
 ---

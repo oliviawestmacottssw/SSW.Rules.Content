@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- show-time-taken-in-the-status-bar
 - do-you-have-the-time-taken-in-the-status-bar
 
 ---

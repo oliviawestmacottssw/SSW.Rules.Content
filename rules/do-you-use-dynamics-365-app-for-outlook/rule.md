@@ -8,7 +8,7 @@ created: 2017-07-05T05:21:31.0000000Z
 authors: []
 related:
 - do-you-know-the-best-crm-solutions-for-your-company
-- do-you-know-how-to-keep-crm-opportunities-updated
+- keep-crm-opportunities-updated
 - do-you-know-what-is-the-best-tool-for-your-email-marketing
 redirects: []
 

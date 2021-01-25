@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- use-xamarin-forms
 - do-you-use-xamarin-forms
 
 ---

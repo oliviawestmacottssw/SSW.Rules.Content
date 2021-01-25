@@ -9,8 +9,7 @@ authors:
 - title: John Liu
   url: https://ssw.com.au/people/john-liu
 related: []
-redirects:
-- do-you-create-bcs-connections-to-all-your-line-of-business-(lob)-applications
+redirects: []
 
 ---
 

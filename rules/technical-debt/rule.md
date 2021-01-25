@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- technical-debt
 - do-you-know-the-importance-of-paying-back-technical-debt
 
 ---

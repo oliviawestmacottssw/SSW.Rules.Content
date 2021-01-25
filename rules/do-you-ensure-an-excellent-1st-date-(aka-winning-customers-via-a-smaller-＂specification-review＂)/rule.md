@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-ensure-an-excellent-1st-date-(aka-winning-customers-via-a-smaller-＂specification-review＂)
 - do-you-ensure-an-excellent-1st-date-(aka-winning-customers-via-a-smaller-specification-review)
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-hold-regular-company-meetings
 - communication-do-you-hold-regular-company-meetings
 
 ---

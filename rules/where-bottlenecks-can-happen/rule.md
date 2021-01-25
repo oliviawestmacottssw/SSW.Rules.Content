@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- where-bottlenecks-can-happen
 - do-you-know-where-bottlenecks-can-happen
 
 ---

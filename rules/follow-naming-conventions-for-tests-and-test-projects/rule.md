@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- follow-naming-conventions-for-tests-and-test-projects
 - do-you-follow-naming-conventions-for-tests-and-test-projects
 
 ---

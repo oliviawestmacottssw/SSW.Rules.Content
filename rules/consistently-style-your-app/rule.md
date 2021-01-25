@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- consistently-style-your-app
 - do-you-use-know-how-to-consistently-style-your-app
 
 ---

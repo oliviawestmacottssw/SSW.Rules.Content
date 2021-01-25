@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- good-typescript-configuration
 - do-you-have-good-typescript-configuration
 
 ---

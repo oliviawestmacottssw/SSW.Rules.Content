@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-sending-emails-immediately
 - do-you-know-not-to-use-＂recall-this-message-＂-in-outlook
 - do-you-avoid-recall-this-message-by-not-sending-emails-imediatelly
 

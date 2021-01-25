@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related: []
 redirects:
-- track-project-documents
 - the-best-place-to-store-documents-and-share-them
 - rules-to-better-microsoft-teams-the-best-place-to-store-documents-and-share-them
 - files-do-you-store-project-documents-in-teams

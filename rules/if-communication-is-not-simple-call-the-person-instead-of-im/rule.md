@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- if-communication-is-not-simple-call-the-person-instead-of-im
 - do-you-call-instead-of-im-when-communication-is-not-simple
 
 ---

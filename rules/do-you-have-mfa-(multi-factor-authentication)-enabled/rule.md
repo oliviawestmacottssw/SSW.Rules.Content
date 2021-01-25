@@ -9,8 +9,7 @@ authors:
 - title: Kaique Biancatti
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
-redirects:
-- do-you-have-mfa-(multi-factor-authentication)-enabled
+redirects: []
 
 ---
 

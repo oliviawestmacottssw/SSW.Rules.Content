@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- make-it-clear-when-a-project-is-no-longer-maintained
 - do-you-make-it-clear-when-a-project-is-no-longer-maintained
 
 ---

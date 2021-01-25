@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- how-to-change-the-live-chat-appearance
 - do-you-know-how-to-change-the-live-chat-appearance
 
 ---

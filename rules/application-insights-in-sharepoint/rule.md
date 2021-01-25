@@ -11,9 +11,8 @@ authors:
 - title: Chris Briggs
   url: https://ssw.com.au/people/chris-briggs
 related:
-- do-you-know-how-to-set-up-application-insights
+- how-to-set-up-application-insights
 redirects:
-- application-insights-in-sharepoint
 - do-you-know-how-to-set-up-application-insights-(in-sharepoint)
 
 ---

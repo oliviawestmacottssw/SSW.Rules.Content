@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-make-it-easy-to-your-users-to-add-an-event-to-their-calendar
 - calendar-does-your-website-make-it-easy-for-your-users-to-add-an-event-to-their-calendar
 
 ---

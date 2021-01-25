@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-using-if-else-instead-of-switch-block
 - do-you-avoid-using-if-else-instead-of-switch-block
 
 ---

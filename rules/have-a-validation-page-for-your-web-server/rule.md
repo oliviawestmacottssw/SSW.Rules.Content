@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-a-validation-page-for-your-web-server
 - do-you-have-a-validation-page-(the-zsvalidate)-for-your-web-server
 
 ---

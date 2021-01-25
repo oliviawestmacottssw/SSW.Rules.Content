@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- store-application-level-settings-in-database-instead-of-configuration-files-when-possible
 - do-you-store-application-level-settings-in-your-database-rather-than-configuration-files-when-possible
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- always-get-your-prospects-full-contact-details
 - do-you-always-get-your-prospects-full-contact-details
 
 ---

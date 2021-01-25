@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ryan-tee
 related: []
 redirects:
-- do-you-name-your-assemblies-consistently-(-companyname-componentname-)
 - do-you-name-your-assemblies-consistently-(companyname-componentname)
 
 ---

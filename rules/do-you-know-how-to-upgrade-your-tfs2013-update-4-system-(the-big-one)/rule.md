@@ -7,8 +7,7 @@ uri: do-you-know-how-to-upgrade-your-tfs2013-update-4-system-(the-big-one)
 created: 2015-08-13T12:32:42.0000000Z
 authors: []
 related: []
-redirects:
-- do-you-know-how-to-upgrade-your-tfs2013-update-4-system-(the-big-one)
+redirects: []
 
 ---
 

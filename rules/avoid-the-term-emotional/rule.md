@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-the-term-emotional
 - do-you-avoid-the-term-emotional
 
 ---

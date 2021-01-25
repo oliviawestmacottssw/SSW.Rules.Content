@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- prioritize-performance-optimization-for-maximum-business-value
 - do-you-prioritize-performance-optimization-for-maximum-business-value
 
 ---

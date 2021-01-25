@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- best-practices-around-colour
 - do-you-know-the-best-practices-around-colour
 
 ---

@@ -11,8 +11,7 @@ authors:
 - title: Cameron Shaw
   url: https://ssw.com.au/people/cameron-shaw
 related: []
-redirects:
-- do-you-know-what-to-do-when-you-get-an-email-that-you-don’t-understand
+redirects: []
 
 ---
 

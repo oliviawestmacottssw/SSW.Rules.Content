@@ -9,8 +9,7 @@ authors:
 - title: Damian Brady
   url: https://ssw.com.au/people/damian-brady
 related: []
-redirects:
-- do-you-always-work-in-priority-order-unless-there’s-a-good-reason-not-to
+redirects: []
 
 ---
 

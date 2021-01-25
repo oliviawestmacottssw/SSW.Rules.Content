@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- the-right-place-to-store-employee-data
 - do-you-know-the-right-place-to-store-employee-data
 
 ---

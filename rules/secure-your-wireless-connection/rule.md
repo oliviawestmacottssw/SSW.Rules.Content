@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/stanley-sidik
 related: []
 redirects:
-- secure-your-wireless-connection
 - do-you-secure-your-wireless-connection
 
 ---

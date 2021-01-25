@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-using-indexes-on-rowguid-column
 - schema-do-you-avoid-using-indexes-on-rowguid-column
 
 ---

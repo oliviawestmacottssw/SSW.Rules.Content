@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- analyze-your-website-stats
 - do-you-analyze-your-website-statistics-(aka-google-analytics)
 
 ---

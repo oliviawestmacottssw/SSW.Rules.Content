@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- run-sql-server-services-under-non-administrator-accounts
 - dbas-do-you-run-sql-server-services-under-non-administrator-accounts
 
 ---

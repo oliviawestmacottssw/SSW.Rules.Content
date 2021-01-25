@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- transcribe-videos
 - do-you-transcribe-your-videos-for-google-juice
 
 ---

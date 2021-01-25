@@ -7,8 +7,7 @@ uri: do-you-avoid-redundant-linking-(aka-single-link-to-single-location)
 created: 2015-02-16T02:15:22.0000000Z
 authors: []
 related: []
-redirects:
-- do-you-avoid-redundant-linking-(aka-single-link-to-single-location)
+redirects: []
 
 ---
 

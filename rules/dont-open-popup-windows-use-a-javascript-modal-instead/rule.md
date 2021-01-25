@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- dont-open-popup-windows-use-a-javascript-modal-instead
 - do-you-know-you-should-not-open-popup-windows-and-use-a-javascript-modal-instead
 
 ---

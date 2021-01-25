@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/paul-neumeyer
 related: []
 redirects:
-- planning-meeting-do-you-encourage-spikes-(aka-investigation-tasks)-when-a-story-is-inestimable
 - planning-meeting-do-you-encourage-spikes-(aka-investigation-tasks)-when-a-pbi-is-inestimable
 
 ---

@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related: []
 redirects:
-- do-you-make-your-team-meetings-easy-to-find
 - appointments-do-you-make-your-team-meetings-easy-to-find
 
 ---

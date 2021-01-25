@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- branded-video-intro-and-outro
 - post-production-do-you-have-a-branded-intro-and-outro-in-your-videos
 
 ---

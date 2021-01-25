@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jernej-kavka
 related: []
 redirects:
-- connect-to-vsts-git-with-personal-access-tokens
 - do-you-know-to-connect-to-vsts-git-with-personal-access-tokens
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-putting-phone-calls-on-hold
 - do-you-avoid-putting-your-phone-calls-on-hold
 
 ---

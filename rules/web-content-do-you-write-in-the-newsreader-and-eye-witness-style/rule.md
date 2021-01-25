@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- web-content-do-you-write-in-the-newsreader-and-eye-witness-style
 - web-content-like-wikipedia-instructional-style-do-you-write-in-the-newsreader-and-eyewitness-style
 
 ---

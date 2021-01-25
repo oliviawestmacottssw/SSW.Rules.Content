@@ -11,12 +11,12 @@ authors:
 - title: Matt Wicks
   url: https://ssw.com.au/people/matt-wicks
 related:
-- do-you-keep-your-social-media-updated
-- do-you-use-and-encourage-others-to-use-hashtags
-- do-you-add-tracking-codes-in-urls
-- do-you-know-how-to-weed-out-spammers
-- do-you-follow-minimum-image-sizes-on-social-media
-- do-you-know-that-posts-with-images-are-more-engaging
+- keep-your-social-media-updated
+- do-you-know-to-use-hash-tags
+- add-tracking-codes-in-urls
+- weed-out-spammers
+- image-size-instagram
+- posts-with-images-are-more-engaging
 - branding---do-you-know-when-to-use-an-overlay-on-images
 - do-you-know-how-to-take-great-photos-for-your-socials
 - do-you-follow-image-standard-sizes-on-social-media

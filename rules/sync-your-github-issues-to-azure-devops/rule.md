@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/christian-morford-waite
 related: []
 redirects:
-- sync-your-github-issues-to-azure-devops
 - do-you-sync-your-github-issues-to-azure-devops
 
 ---

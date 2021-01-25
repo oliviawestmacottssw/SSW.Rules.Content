@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- define-your-response-types
 - do-you-define-your-response-types
 
 ---

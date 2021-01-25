@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/chris-briggs
 related: []
 redirects:
-- do-you-give-option-to-widen-a-search
 - do-you-give-an-option-to-widen-a-search
 
 ---

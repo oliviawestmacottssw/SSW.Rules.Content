@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/drew-robson
 related: []
 redirects:
-- turn-emails-into-work-items
 - do-you-turn-an-email-into-a-tfs-work-item-before-starting-work
 - do-you-turn-an-email-into-an-azure-devops-work-item-before-starting-work
 

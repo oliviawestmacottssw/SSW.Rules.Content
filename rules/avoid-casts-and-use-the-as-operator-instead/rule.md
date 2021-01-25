@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-casts-and-use-the-as-operator-instead
 - do-you-avoid-casts-and-use-the-as-operator-instead
 
 ---

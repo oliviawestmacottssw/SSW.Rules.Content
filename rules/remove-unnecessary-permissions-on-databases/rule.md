@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- remove-unnecessary-permissions-on-databases
 - dbas-do-you-remove-unnecessary-permissions-on-databases
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- plastic-bags-branding
 - do-you-brand-your-plastic-bags
 
 ---

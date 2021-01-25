@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- speaking-do-you-use-correct-english-at-work
 - communication-do-you-use-correct-english-at-work
 
 ---

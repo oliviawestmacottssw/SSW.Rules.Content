@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-server-side-comments
 - do-you-use-server-side-comments
 
 ---

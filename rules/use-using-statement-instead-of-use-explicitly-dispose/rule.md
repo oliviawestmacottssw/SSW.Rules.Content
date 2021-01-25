@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-using-statement-instead-of-use-explicitly-dispose
 - do-you-use-using-declaration-instead-of-use-explicitly-dispose
 
 ---

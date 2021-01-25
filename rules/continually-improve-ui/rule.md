@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- continually-improve-ui
 - do-you-continually-improve-the-user-interface
 
 ---

@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/greg-harris
 related: []
 redirects:
-- end-user-documentation
 - do-you-produce-the-best-end-user-documentation
 
 ---

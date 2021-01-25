@@ -11,7 +11,6 @@ authors:
 related:
 - do-you-know-how-to-enter-an-expensify-receipt-
 redirects:
-- do-you-create-a-new-report-for-related-expenses
 - do-you-separate-your-expenses-by-creating-separate-reports-in-expensify
 
 ---

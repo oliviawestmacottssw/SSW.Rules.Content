@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brittany-lawrence
 related: []
 redirects:
-- do-you-know-what-metrics-you-should-have-around-your-facebook-ads
 - facebook-ads-do-you-know-what-metrics-you-should-have
 
 ---

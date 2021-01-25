@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- refactor-your-code-and-keep-methods-short
 - do-you-refactor-your-code-and-keep-methods-short
 
 ---

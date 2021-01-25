@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/martin-hinshelwood
 related: []
 redirects:
-- acknowledge-who-give-feedback
 - do-you-know-to-acknowledge-people-who-feedback
 - do-you-acknowledge-people-who-give-you-feedback
 

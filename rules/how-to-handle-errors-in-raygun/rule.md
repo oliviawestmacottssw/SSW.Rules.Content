@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- how-to-handle-errors-in-raygun
 - do-you-know-how-to-handle-errors-in-raygun
 
 ---

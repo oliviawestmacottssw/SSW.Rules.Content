@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- avoid-using-frames-on-your-website
 - do-you-avoid-using-frames-on-your-website
 
 ---

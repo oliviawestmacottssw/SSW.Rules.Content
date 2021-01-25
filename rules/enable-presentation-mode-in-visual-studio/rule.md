@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- enable-presentation-mode-in-visual-studio
 - do-you-enable-presentation-mode-in-visual-studio
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- write-a-follow-up-email-after-an-outbound-call
 - do-you-know-how-to-write-a-follow-up-email-after-an-outbound-call
 
 ---

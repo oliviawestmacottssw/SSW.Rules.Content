@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- expose-events-as-events
 - do-you-expose-events-as-events
 
 ---

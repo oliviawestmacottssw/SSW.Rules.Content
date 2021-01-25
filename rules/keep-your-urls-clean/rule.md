@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- keep-your-urls-clean
 - do-you-know-to-keep-your-urls-clean
 
 ---

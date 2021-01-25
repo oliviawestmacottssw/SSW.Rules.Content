@@ -9,8 +9,7 @@ authors:
 - title: Adam Stephensen
   url: https://ssw.com.au/people/adam-stephensen
 related: []
-redirects:
-- do-your-user-stories-include-acceptance-criteria-(aka-never-assume-automatic-gold-plating)
+redirects: []
 
 ---
 

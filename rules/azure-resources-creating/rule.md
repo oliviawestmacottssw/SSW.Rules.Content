@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- azure-resources-creating
 - do-you-know-how-to-create-azure-resources
 
 ---

@@ -7,8 +7,7 @@ uri: long-process-do-you-know-that-long-running-processes-should-allow-to-skip-t
 created: 2012-11-27T03:01:02.0000000Z
 authors: []
 related: []
-redirects:
-- long-process-do-you-know-that-long-running-processes-should-allow-to-skip-the-processing-(when-appropriate)
+redirects: []
 
 ---
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- know-that-im-interrupts
 - interruptions-do-you-know-that-im-interrupts
 
 ---

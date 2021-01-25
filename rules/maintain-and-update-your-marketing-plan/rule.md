@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- maintain-and-update-your-marketing-plan
 - do-you-maintain-and-update-your-marketing-plan
 
 ---

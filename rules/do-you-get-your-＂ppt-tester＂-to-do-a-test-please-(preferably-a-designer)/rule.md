@@ -8,7 +8,6 @@ created: 2010-06-08T10:08:01.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-get-your-＂ppt-tester＂-to-do-a-test-please-(preferably-a-designer)
 - do-you-get-your-ppt-tester-to-do-a-test-please-(preferably-a-designer)
 
 ---

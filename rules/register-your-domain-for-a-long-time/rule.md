@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- register-your-domain-for-a-long-time
 - do-you-register-your-domain-for-a-long-time
 
 ---

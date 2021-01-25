@@ -11,8 +11,7 @@ authors:
 - title: Eric Phan
   url: https://ssw.com.au/people/eric-phan
 related: []
-redirects:
-- do-you-run-your-dog-food-stats-(before)
+redirects: []
 
 ---
 

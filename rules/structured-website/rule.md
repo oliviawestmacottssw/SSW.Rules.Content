@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- structured-website
 - do-you-have-a-structured-website
 
 ---

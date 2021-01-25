@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- where-your-goal-posts-are
 - do-you-know-where-your-goal-posts-are
 
 ---

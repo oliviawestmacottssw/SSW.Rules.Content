@@ -19,7 +19,6 @@ related:
 - do-you-add-time-links-on-your-youtube-videos
 - do-you-follow-image-standard-sizes-on-social-media
 redirects:
-- personalized-thumbnail
 - do-you-use-a-personalized-thumbnail
 
 ---

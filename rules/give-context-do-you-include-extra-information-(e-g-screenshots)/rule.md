@@ -7,8 +7,7 @@ uri: give-context-do-you-include-extra-information-(e-g-screenshots)
 created: 2012-11-27T02:09:20.0000000Z
 authors: []
 related: []
-redirects:
-- give-context-do-you-include-extra-information-(e-g-screenshots)
+redirects: []
 
 ---
 

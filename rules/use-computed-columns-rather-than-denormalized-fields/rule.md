@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-computed-columns-rather-than-denormalized-fields
 - schema-do-you-use-computed-columns-rather-than-denormalized-fields
 
 ---

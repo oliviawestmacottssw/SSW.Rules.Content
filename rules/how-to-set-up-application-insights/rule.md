@@ -13,7 +13,6 @@ related:
 - do-you-use-an-analytics-framework-to-help-manage-exceptions
 - do-you-know-why-you-want-to-use-application-insights
 redirects:
-- how-to-set-up-application-insights
 - do-you-know-how-to-set-up-application-insights
 
 ---

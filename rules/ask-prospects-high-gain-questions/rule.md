@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- ask-prospects-high-gain-questions
 - do-you-ask-prospects-high-gain-questions
 
 ---

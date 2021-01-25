@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steve-leigh
 related: []
 redirects:
-- only-export-what-is-necessary
 - do-you-only-export-what-is-necessary
 
 ---

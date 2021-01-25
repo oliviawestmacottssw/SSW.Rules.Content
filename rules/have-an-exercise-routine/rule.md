@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-an-exercise-routine
 - do-you-have-an-indoor-exercise-routine
 
 ---

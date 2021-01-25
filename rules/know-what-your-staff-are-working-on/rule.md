@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matthew-sampias
 related: []
 redirects:
-- know-what-your-staff-are-working-on
 - do-you-know-what-your-staff-are-working-on
 
 ---

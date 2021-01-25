@@ -13,8 +13,7 @@ authors:
 - title: William Yin
   url: https://ssw.com.au/people/william-yin
 related: []
-redirects:
-- do-you-remove-my-site’-and-my-profile’-if-you-are-not-using-them
+redirects: []
 
 ---
 

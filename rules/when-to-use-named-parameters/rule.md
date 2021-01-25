@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- when-to-use-named-parameters
 - do-you-know-when-to-use-named-parameters
 
 ---

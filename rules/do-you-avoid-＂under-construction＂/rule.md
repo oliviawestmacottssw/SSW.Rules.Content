@@ -8,7 +8,6 @@ created: 2015-02-13T02:39:13.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-avoid-＂under-construction＂
 - do-you-avoid-under-construction
 
 ---

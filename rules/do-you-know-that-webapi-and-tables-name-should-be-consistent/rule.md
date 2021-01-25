@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-know-that-webapi-and-tables-name-should-be-consistent
 - do-you-know-that-webapi-and-table-names-should-be-consistent
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- compatibility-issues-between-sql-server-2000-and-2005
 - dbas-do-you-know-the-compatibility-issues-between-sql-server-2000-and-2005
 
 ---

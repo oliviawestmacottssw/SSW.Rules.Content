@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-know-the-common-standard-email-types
 - do-you-know-the-four-standard-email-types
 
 ---

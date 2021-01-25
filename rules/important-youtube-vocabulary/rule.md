@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- important-youtube-vocabulary
 - do-you-know-the-important-youtube-vocabulary
 
 ---

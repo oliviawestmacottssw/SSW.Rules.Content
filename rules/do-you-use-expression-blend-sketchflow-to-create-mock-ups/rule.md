@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/lei-xu
 related: []
 redirects:
-- do-you-use-expression-blend-sketchflow-to-create-mock-ups
 - do-you-use-expression-blend-+-sketchflow-to-create-mock-ups
 
 ---

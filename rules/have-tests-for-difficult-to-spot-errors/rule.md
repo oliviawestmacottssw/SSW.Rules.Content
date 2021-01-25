@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-tests-for-difficult-to-spot-errors
 - do-you-have-tests-for-difficult-to-spot-errors-e-g-arithmetic-rounding-regular-expressions
 
 ---

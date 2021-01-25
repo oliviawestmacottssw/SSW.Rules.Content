@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- scrum-should-be-capitalized
 - tiny-do-you-know-scrum-should-be-capitalized
 
 ---

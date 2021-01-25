@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/danijel-malik
 related: []
 redirects:
-- do-you-know-the-best-books-to-read-on-software-development
 - quality-do-you-know-the-best-books-to-read-on-software-development
 
 ---

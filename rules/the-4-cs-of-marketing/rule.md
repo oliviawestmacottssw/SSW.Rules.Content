@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- the-4-cs-of-marketing
 - do-you-know-the-4-cs-of-marketing
 
 ---

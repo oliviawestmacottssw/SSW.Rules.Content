@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matthew-hodgkins
 related: []
 redirects:
-- do-you-know-how-to-setup-nlb-on-windows-server-2008-r2-(aka-network-load-balancing)
 - web-servers-do-you-know-how-to-setup-nlb-on-windows-server-2016-(aka-network-load-balancing)
 
 ---

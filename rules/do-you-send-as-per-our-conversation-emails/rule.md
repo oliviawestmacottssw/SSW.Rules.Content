@@ -20,7 +20,6 @@ related:
 - quality---do-you-know-how-to-request-a-"test-please"
 - conduct-a-test-please-internally-and-then-with-the-client
 redirects:
-- do-you-send-as-per-our-conversation-emails
 - do-you-send-＂as-per-our-conversation＂-emails
 
 ---

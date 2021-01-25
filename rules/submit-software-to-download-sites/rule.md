@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- submit-software-to-download-sites
 - do-you-submit-all-your-software-to-download-sites
 
 ---

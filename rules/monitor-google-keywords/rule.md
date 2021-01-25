@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- monitor-google-keywords
 - do-you-monitor-google-keywords
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- build-a-yes-ladder-to-your-outbound-script
 - do-you-build-a-yes-ladder-to-your-outbound-script
 
 ---

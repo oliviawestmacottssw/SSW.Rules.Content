@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-know-that-working-in-a-team-is-better-than-on-your-own-(aka-the-ben-darwin-rule)
+redirects: []
 
 ---
 

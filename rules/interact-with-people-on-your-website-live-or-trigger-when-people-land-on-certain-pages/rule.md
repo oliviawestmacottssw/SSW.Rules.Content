@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- interact-with-people-on-your-website-live-or-trigger-when-people-land-on-certain-pages
 - do-you-know-how-to-interact-with-people-on-your-website-live-or-trigger-when-people-land-on-certain-pages
 
 ---

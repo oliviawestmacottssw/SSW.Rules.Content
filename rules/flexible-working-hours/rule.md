@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- flexible-working-hours
 - do-you-aim-to-keep-your-working-hours-consistent
 
 ---

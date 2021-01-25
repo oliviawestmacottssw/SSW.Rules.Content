@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-a-definition-of-ready
 - do-you-have-a-＂definition-of-ready＂
 - do-you-have-a-＂-definition-of-ready-＂
 - https-rules-ssw-com-au-do-you-have-a-＂-definition-of-ready-＂

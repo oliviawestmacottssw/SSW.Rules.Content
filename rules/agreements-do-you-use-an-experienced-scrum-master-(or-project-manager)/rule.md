@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- agreements-do-you-use-an-experienced-scrum-master-(or-project-manager)
+redirects: []
 
 ---
 

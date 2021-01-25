@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-provide-the-reason-behind-the-rules-rather-than-just-enforce-them
 - general-standards-watchdog-do-you-provide-the-reason-behind-the-rules-rather-than-just-enforce-them
 
 ---

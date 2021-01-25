@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/danijel-malik
 related: []
 redirects:
-- keep-your-tfs-build-server
 - do-you-keep-your-tfs-build-server
 
 ---

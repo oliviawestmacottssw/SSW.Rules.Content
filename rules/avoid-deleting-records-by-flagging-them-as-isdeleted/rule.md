@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-deleting-records-by-flagging-them-as-isdeleted
 - data-do-you-avoid-deleting-records-by-flagging-them-as-isdeleted-(aka-soft-delete)
 
 ---

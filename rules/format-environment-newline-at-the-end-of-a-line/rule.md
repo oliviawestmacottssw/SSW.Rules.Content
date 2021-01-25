@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- format-environment-newline-at-the-end-of-a-line
 - do-you-format-environment-newline-at-the-end-of-a-line
 
 ---

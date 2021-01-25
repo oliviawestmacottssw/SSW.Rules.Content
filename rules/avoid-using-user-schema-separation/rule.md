@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-using-user-schema-separation
 - schema-do-you-avoid-using-user-schema-separation
 
 ---

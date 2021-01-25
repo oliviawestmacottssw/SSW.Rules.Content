@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/matthew-hodgkins
 related: []
 redirects:
-- do-you-know-what-features-to-install-on-a-windows-2008-r2-vhd
 - do-you-know-what-features-to-install-on-a-windows-server-vhd
 
 ---

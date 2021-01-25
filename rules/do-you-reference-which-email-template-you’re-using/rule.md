@@ -11,8 +11,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-reference-which-email-template-you’re-using
+redirects: []
 
 ---
 

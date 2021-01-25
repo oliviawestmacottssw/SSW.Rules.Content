@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/stanley-sidik
 related: []
 redirects:
-- do-you-disable-automatic-windows-update-installations
 - do-you-enable-automatic-windows-update-installations
 
 ---

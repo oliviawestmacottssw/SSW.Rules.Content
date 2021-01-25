@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- declare-variables-when-you-need-them
 - do-you-declare-variables-when-you-need-them
 
 ---

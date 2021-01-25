@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/greg-harris
 related: []
 redirects:
-- automate-schedule-meetings
 - appointments-do-you-automate-scheduling-of-meetings
 
 ---

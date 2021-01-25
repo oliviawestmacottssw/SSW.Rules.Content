@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-fillfactor-of-90-percent-for-indexes-and-constraints
 - schema-do-you-use-fillfactor-of-90-for-indexes-and-constraints
 
 ---

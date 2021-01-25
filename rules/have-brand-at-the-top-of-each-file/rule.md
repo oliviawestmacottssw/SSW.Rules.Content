@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-brand-at-the-top-of-each-file
 - comments-do-you-have-brand-at-the-top-of-each-file
 
 ---

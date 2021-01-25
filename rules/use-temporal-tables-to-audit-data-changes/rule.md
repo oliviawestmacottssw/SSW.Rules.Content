@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/christian-morford-waite
 related: []
 redirects:
-- use-temporal-tables-to-audit-data-changes
 - data-do-you-use-temporal-tables-to-audit-data-changes
 
 ---

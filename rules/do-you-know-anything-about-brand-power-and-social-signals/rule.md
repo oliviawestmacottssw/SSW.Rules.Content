@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- do-you-know-anything-about-brand-power-and-social-signals
 - do-you-know-about-brand-power-and-social-signals
 
 ---

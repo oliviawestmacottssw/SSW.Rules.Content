@@ -9,7 +9,6 @@ authors: []
 related:
 - do-you-know-to-capitalize-tech-terms-correctly
 redirects:
-- how-to-capitalize-titles
 - do-you-know-how-to-capitalize-headings-and-titles
 
 ---

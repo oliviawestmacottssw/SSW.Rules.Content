@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- use-situational-analysis-swot-and-marketing-analysis
 - do-you-use-situational-analysis-(swot)-and-marketing-analysis
 
 ---

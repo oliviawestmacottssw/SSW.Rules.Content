@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- turn-on-all-the-default-alerts
 - dbas-do-you-turn-on-all-the-default-alerts
 
 ---

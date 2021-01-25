@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- the-levels-to-git-mastery
 - do-you-know-the-levels-to-git-mastery
 
 ---

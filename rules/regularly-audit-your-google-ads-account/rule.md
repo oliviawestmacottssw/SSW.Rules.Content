@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- regularly-audit-your-google-ads-account
 - do-you-regularly-audit-your-google-adwords-account
 - sem-do-you-regularly-audit-your-google-ads-account
 

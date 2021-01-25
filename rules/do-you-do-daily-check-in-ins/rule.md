@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-do-daily-check-in-ins
 - do-you-do-daily-check-ins
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- release-build-your-web-applications-before-you-deploy-them
 - do-you-release-build-your-web-applications-before-you-deploy-them
 
 ---

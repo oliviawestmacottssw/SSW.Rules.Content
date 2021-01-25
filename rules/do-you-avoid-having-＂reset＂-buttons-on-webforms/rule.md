@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/jade-mitchell
 related: []
 redirects:
-- do-you-avoid-having-＂reset＂-buttons-on-webforms
 - do-you-avoid-having-reset-buttons-on-webforms
 
 ---

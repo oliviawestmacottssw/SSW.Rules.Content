@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- use-null-condition-operators-when-getting-values-from-objects
 - do-you-use-null-condition-operators-when-getting-values-from-objects
 
 ---

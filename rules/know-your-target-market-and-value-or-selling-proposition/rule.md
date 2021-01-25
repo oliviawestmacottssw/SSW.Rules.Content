@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- know-your-target-market-and-value-or-selling-proposition
 - do-you-know-your-target-market-and-value-or-selling-proposition
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- analyze-website-performance
 - do-you-analyze-your-website-performance
 
 ---

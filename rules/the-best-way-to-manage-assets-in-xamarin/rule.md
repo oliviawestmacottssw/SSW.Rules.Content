@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- the-best-way-to-manage-assets-in-xamarin
 - do-you-know-the-best-way-to-manage-assets-in-xamarin
 
 ---

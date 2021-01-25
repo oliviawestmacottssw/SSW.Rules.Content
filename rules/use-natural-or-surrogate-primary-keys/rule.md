@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-natural-or-surrogate-primary-keys
 - schema-do-you-use-natural-or-surrogate-primary-keys
 
 ---

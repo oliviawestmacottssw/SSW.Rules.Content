@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ken-shi
 related: []
 redirects:
-- all-the-things-you-can-use-qr-code-for
 - do-you-know-all-the-things-you-can-use-qr-codes-for
 
 ---

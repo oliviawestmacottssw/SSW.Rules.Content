@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- registration
 - do-you-register-your-guests-and-help-them-find-you
 
 ---

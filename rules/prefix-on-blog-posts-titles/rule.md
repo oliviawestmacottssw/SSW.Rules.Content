@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- prefix-on-blog-posts-titles
 - do-you-add-a-prefix-on-blog-posts-titles
 
 ---

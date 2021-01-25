@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-a-help-menu-including-a-way-to-run-your-unit-tests
 - do-you-have-a-standard-help-menu-that-includes-a-way-to-run-your-unit-tests
 
 ---

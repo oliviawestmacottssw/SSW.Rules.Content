@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- keyboard-shortcuts
 - do-you-know-the-keyboard-shortcuts
 
 ---

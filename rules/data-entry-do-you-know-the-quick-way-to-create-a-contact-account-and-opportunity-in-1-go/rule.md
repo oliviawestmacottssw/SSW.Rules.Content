@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- data-entry-do-you-know-the-quick-way-to-create-a-contact-account-and-opportunity-in-1-go
 - data-entry-do-you-know-the-quick-way-to-create-a-contact-account-and-opportunity-in-one-go
 
 ---

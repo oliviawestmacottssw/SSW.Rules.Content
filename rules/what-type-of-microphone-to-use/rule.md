@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
-- what-type-of-microphone-to-use
 - production-do-you-know-that-shotgun-mics-can-only-do-so-much
 - production-do-you-know-what-type-of-microphone-to-use
 

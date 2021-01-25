@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related: []
 redirects:
-- dont-base-your-projects-on-the-angular-io-tutorials
 - do-you-know-the-right-way-to-create-your-angular-project
 
 ---

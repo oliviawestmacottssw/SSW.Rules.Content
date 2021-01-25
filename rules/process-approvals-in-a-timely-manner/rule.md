@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matthew-sampias
 related: []
 redirects:
-- process-approvals-in-a-timely-manner
 - do-you-process-approvals-in-a-timely-manner
 
 ---

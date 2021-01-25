@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- do-you-look-for-console-writeline-and-change-it-to-trace-writeline
 - do-you-use-a-logging-framework
 
 ---

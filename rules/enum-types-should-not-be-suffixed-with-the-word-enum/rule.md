@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- enum-types-should-not-be-suffixed-with-the-word-enum
 - do-you-know-that-enum-types-should-not-be-suffixed-with-the-word-enum
 
 ---

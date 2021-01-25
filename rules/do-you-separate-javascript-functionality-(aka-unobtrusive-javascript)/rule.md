@@ -9,8 +9,7 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects:
-- do-you-separate-javascript-functionality-(aka-unobtrusive-javascript)
+redirects: []
 
 ---
 

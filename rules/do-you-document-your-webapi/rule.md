@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- do-you-document-your-webapi
 - do-you-document-your-web-api
 
 ---

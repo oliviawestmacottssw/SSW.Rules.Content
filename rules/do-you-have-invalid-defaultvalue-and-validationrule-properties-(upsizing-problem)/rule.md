@@ -15,8 +15,7 @@ related:
 - do-you-use-the-required-property-on-a-field
 - do-you-use-a-unique-index-and-the-required-property-on-a-field
 - do-you-have-valid-validationtext-propertyupsizing-problem
-redirects:
-- do-you-have-invalid-defaultvalue-and-validationrule-properties-(upsizing-problem)
+redirects: []
 
 ---
 

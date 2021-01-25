@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/shane-ye
 related: []
 redirects:
-- why-react-is-great
 - do-you-know-why-react-is-great
 
 ---

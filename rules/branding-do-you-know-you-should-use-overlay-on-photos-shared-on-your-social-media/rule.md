@@ -14,19 +14,18 @@ related:
 - sem---do-you-use-microsoft-advertising-formerly-known-as-bing-ads
 - do-you-have-an-endomarketing-strategy-in-your-company
 - do-you-use-lead-magnets-as-part-of-your-marketing-strategy
-- do-you-keep-your-social-media-updated
-- do-you-use-and-encourage-others-to-use-hashtags
-- do-you-add-tracking-codes-in-urls
-- do-you-know-how-to-weed-out-spammers
-- do-you-follow-minimum-image-sizes-on-social-media
-- do-you-know-that-posts-with-images-are-more-engaging
+- keep-your-social-media-updated
+- do-you-know-to-use-hash-tags
+- add-tracking-codes-in-urls
+- weed-out-spammers
+- image-size-instagram
+- posts-with-images-are-more-engaging
 - do-you-know-why-you-should-use-memes-as-part-of-your-business-social-media-content
 - do-you-know-how-to-take-great-photos-for-your-socials
 - do-you-follow-image-standard-sizes-on-social-media
 - do-you-know-what-type-of-content-marketing-you-should-post-on-your-socials
 - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
 redirects:
-- branding-do-you-know-you-should-use-overlay-on-photos-shared-on-your-social-media
 - branding-do-you-know-when-to-use-an-overlay-on-images
 
 ---

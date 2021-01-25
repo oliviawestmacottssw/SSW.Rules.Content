@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
-- video-cuts
 - video-production-do-you-know-the-types-of-cuts
 
 ---

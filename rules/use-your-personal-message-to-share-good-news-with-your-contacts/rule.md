@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-your-personal-message-to-share-good-news-with-your-contacts
 - display-do-you-use-your-personal-message-to-share-good-news-with-your-contacts
 
 ---

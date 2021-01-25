@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/justin-king
 related: []
 redirects:
-- spec-do-you-effectively-present-the-outcomes-at-the-specification-review-presentation
 - spec-do-you-effectively-present-the-outcomes-at-the-＂specification-review-presentation＂
 
 ---

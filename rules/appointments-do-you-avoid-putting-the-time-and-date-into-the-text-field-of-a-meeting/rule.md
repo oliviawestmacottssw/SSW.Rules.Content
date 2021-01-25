@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- appointments-do-you-avoid-putting-the-time-and-date-into-the-text-field-of-a-meeting
 - appointments-do-you-avoid-putting-the-time-and-date-into-the-subject-or-body-of-a-meeting
 
 ---

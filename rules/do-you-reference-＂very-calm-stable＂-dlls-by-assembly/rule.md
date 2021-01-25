@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ryan-tee
 related: []
 redirects:
-- do-you-reference-＂very-calm-stable＂-dlls-by-assembly
 - do-you-reference-very-calm-stable-dlls-by-assembly
 
 ---

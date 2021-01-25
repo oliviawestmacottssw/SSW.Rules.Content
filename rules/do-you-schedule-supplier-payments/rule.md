@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/nick-viet
 related: []
 redirects:
-- do-you-schedule-supplier-payments
 - do-you-use-xero-to-schedule-supplier-payments
 
 ---

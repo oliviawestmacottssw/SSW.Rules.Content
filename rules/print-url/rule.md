@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- print-url
 - do-you-keep-the-url-next-to-each-link-on-printing
 
 ---

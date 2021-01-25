@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- spec-do-you-use-user-stories
 - spec-do-you-use-user-stories-when-appropriate
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- do-you-use-access-request-on-your-sharepoint-site
 - do-you-give-users-the-friendlier-access-request-dialog
 
 ---

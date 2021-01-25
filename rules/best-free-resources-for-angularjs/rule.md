@@ -8,7 +8,6 @@ created: 2016-02-19T14:02:15.0000000Z
 authors: []
 related: []
 redirects:
-- best-free-resources-for-angularjs
 - do-you-know-the-best-free-resources-for-angularjs
 
 ---

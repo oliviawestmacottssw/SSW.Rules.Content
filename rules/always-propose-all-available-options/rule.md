@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- always-propose-all-available-options
 - do-you-always-propose-all-available-options
 
 ---

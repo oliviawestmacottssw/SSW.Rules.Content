@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- choose-the-best-method-of-authentication-for-your-situation
 - do-you-choose-the-best-method-of-authentication-for-your-situation
 
 ---

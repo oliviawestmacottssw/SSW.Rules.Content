@@ -8,7 +8,6 @@ created: 2014-12-30T23:45:47.0000000Z
 authors: []
 related: []
 redirects:
-- venue-is-everything
 - venue-do-you-use-an-ideal-venue
 
 ---

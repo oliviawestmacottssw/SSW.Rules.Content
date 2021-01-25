@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- prepare-a-special-goodbye-to-a-co-worker-leaving-the-company
 - leaving-do-you-know-to-prepare-a-special-goodbye-to-a-co-worker-leaving-the-company
 
 ---

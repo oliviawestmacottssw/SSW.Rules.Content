@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- create-task-list-comments-for-your-code
 - comments-do-you-create-task-list-comments-for-your-code
 
 ---

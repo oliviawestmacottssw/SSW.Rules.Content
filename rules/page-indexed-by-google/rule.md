@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- page-indexed-by-google
 - do-you-know-if-google-has-indexed-your-page
 
 ---

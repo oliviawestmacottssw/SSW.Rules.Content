@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- when-anchor-should-run-at-server
 - do-you-know-when-anchor-should-run-at-server
 
 ---

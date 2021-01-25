@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-an-integration-test-for-send-mail-code
 - do-you-have-a-integration-test-for-your-send-mail-code
 
 ---

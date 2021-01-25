@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/edgar-rocha
 related: []
 redirects:
-- how-to-check-the-version-of-angular
 - tips-do-you-know-how-to-check-the-version-of-angular
 
 ---

@@ -11,7 +11,6 @@ authors:
 related:
 - appointments---do-you-send-outlook-calendar-appointments-when-appropriate
 redirects:
-- when-to-use-all-day-events-or-start-and-end-times-with-recurrence
 - scheduling-do-you-know-when-to-use-＂all-day-events＂-or-start-and-end-times-with-recurrence
 - scheduling-do-you-know-when-to-use-all-day-events-or-start-and-end-times-with-recurrence
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- how-to-add-custom-branding-to-the-power-bi-portal
 - do-you-know-how-to-add-custom-branding-to-the-power-bi-portal
 
 ---

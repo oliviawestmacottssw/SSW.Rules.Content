@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-the-right-html-figure-caption
 - figures-do-you-use-the-right-html-css-code-to-add-the-useful-figure-caption
 - figures-do-you-use-the-right-html-css-code-to-add-images-and-captions
 

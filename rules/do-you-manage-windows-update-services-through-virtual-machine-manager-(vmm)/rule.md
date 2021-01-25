@@ -9,8 +9,7 @@ authors:
 - title: Kaique Biancatti
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
-redirects:
-- do-you-manage-windows-update-services-through-virtual-machine-manager-(vmm)
+redirects: []
 
 ---
 

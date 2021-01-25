@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-standard-tables-and-columns
 - schema-do-you-have-standard-tables-and-columns
 
 ---

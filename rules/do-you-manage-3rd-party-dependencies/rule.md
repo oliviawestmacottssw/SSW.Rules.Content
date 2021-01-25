@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/barry-sanders
 related: []
 redirects:
-- do-you-manage-3rd-party-dependencies
 - chinafy-do-you-manage-3rd-party-dependencies
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- make-sure-the-primary-field-is-always-the-first-column-in-a-view
 - do-you-make-sure-the-primary-field-is-always-the-first-column-in-a-view
 
 ---

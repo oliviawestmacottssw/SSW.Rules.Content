@@ -9,10 +9,9 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related:
-- tiny-do-you-know-commas-and-full-stops-always-should-have-1-space-after-them
-- reference-do-you-use-quotation-mark-for-controls
+- commas-and-full-stops-always-should-have-1-space-after-them
+- use-quotation-mark-for-controls
 redirects:
-- avoid-full-stops-in-bullet-point-lists
 - tiny-do-you-avoid-full-stops-at-the-end-of-bullet-point-lists
 
 ---

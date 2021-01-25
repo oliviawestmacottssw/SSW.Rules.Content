@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-triggers-for-denormalized-fields
 - schema-do-you-use-triggers-for-denormalized-fields
 
 ---

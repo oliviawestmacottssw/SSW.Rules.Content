@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/gabriel-george
 related: []
 redirects:
-- the-best-packages-and-modules-to-use-with-angular
 - do-you-know-the-best-packages-and-modules-to-use-with-angular-2
 - tools-do-you-know-the-best-packages-and-modules-to-use-with-angular
 

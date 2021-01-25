@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/liam-elliott
 related: []
 redirects:
-- when-to-use-grpc
 - do-you-know-when-to-use-grpc
 
 ---

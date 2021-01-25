@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- memory-leak-–-do-you-look-for-native-code-that’s-missing-dispose
 - do-you-look-for-native-code-that’s-missing-dispose
 
 ---

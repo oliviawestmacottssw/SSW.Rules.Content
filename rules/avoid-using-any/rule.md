@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steve-leigh
 related: []
 redirects:
-- avoid-using-any
 - do-you-avoid-using-any
 
 ---

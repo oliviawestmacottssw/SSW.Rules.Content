@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- always-use-query-strings
 - do-you-always-use-query-strings
 
 ---

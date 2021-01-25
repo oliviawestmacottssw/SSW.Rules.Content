@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- do-you-use-＂list＂-tags-for-lists-only
 - do-you-use-list-tags-for-lists-only
 
 ---

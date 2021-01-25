@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- install-dynamics-iphone-android-app
 - do-you-install-the-dynamics-365-iphone-android-app
 
 ---

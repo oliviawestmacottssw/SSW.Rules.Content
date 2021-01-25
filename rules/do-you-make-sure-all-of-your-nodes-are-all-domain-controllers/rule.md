@@ -8,7 +8,6 @@ created: 2012-03-02T19:35:14.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-make-sure-all-of-your-nodes-are-all-domain-controllers
 - do-you-only-use-your-nodes-for-virtual-machine-management
 
 ---

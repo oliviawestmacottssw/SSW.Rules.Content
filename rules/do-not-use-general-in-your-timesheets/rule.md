@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-not-use-general-in-your-timesheets
 - do-you-not-use-general-in-your-timesheets
 
 ---

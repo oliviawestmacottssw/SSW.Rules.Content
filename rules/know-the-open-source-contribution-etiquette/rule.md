@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- know-the-open-source-contribution-etiquette
 - do-you-know-open-source-contribution-etiquette-(-a-k-a-dont-re-order-my-house-when-you-fix-my-tap)
 
 ---

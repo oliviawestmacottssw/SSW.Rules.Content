@@ -9,8 +9,7 @@ authors:
 - title: Damian Brady
   url: https://ssw.com.au/people/damian-brady
 related: []
-redirects:
-- do-you-know-how-to-upgrade-your-tfs2010-databases-(the-big-one)
+redirects: []
 
 ---
 

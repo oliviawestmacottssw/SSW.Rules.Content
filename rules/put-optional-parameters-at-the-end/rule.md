@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- put-optional-parameters-at-the-end
 - do-you-put-optional-parameters-at-the-end
 
 ---

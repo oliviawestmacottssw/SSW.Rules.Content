@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- use-meta-keywords-and-description-tags
 - do-you-use-meta-description-and-meta-keywords-tags
 
 ---

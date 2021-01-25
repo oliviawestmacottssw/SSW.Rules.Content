@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-ask-questions-where-youre-stuck
 - communication-do-you-ask-questions-when-youre-stuck
 
 ---

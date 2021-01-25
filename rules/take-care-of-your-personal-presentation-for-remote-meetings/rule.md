@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- take-care-of-your-personal-presentation-for-remote-meetings
 - do-you-take-care-of-your-personal-appearance-even-for-remote-meetings
 
 ---

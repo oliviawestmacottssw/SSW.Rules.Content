@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/stephen-carter
 related: []
 redirects:
-- the-best-way-to-see-if-someone-is-in-the-office
 - do-you-know-the-best-way-to-see-when-someone-is-in-the-office
 - do-you-know-the-best-way-to-see-if-someone-is-in-the-office
 

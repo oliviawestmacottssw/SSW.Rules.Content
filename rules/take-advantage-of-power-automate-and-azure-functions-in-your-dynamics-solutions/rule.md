@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- take-advantage-of-power-automate-and-azure-functions-in-your-dynamics-solutions
 - do-you-take-advantage-of-power-automate-and-azure-functions-in-your-dynamics-solutions
 
 ---

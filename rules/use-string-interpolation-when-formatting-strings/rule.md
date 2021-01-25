@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- use-string-interpolation-when-formatting-strings
 - do-you-use-string-interpolation-when-formatting-strings
 
 ---

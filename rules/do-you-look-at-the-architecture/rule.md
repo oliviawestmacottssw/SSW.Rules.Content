@@ -15,7 +15,6 @@ authors:
 related:
 - do-you-look-for-grasp-patterns
 redirects:
-- do-you-look-at-the-architecture
 - do-you-look-at-the-architecture-of-net-projects
 
 ---

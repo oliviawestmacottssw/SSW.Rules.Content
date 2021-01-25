@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-will-not-should
 - tiny-do-you-use-will-not-should
 
 ---

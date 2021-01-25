@@ -9,8 +9,7 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects:
-- do-you-know-the-difference-between-microsoft-dynamics-crm-marketing-and-microsoft-dynamics-marketing-(mdm)
+redirects: []
 
 ---
 

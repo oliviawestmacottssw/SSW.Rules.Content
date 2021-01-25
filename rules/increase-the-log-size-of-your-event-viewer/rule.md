@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- increase-the-log-size-of-your-event-viewer
 - dbas-do-you-increase-the-log-size-of-your-event-viewer
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- add-the-application-name-in-the-sql-server-connection-string
 - do-you-add-the-application-name-in-the-sql-server-connection-string
 
 ---

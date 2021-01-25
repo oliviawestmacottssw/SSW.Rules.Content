@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-bit-numeric-data-type-correctly
 - schema-do-you-use-bit-numeric-data-type-correctly
 
 ---

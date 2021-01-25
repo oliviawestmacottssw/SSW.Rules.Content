@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- why-tests-are-important
 - do-you-know-why-tests-are-important
 
 ---

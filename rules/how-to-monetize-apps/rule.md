@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- how-to-monetize-apps
 - do-you-know-how-to-monetize-apps
 
 ---

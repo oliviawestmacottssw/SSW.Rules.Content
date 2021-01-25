@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- how-to-manage-certificates
 - do-you-know-how-to-manage-certificates
 
 ---

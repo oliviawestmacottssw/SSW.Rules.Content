@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- naming-convention-for-use-on-database-server-test-and-production
 - general-do-you-know-the-naming-convention-for-use-on-database-server-test-and-production
 
 ---

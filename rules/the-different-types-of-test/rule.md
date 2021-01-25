@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- the-different-types-of-test
 - what-are-the-different-types-of-test-you-can-have
 
 ---

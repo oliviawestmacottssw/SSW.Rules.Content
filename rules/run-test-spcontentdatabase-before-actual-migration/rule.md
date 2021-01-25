@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- run-test-spcontentdatabase-before-actual-migration
 - do-you-run-test-spcontentdatabase-before-migration
 
 ---

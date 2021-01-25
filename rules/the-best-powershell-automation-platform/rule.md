@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- the-best-powershell-automation-platform
 - do-you-use-the-best-powershell-automation-platform
 
 ---

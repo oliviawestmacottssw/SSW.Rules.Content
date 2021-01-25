@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- do-you-know-how-to-keep-track-of-your-ppc-campaign-spend
 - sem-do-you-know-how-to-keep-track-of-your-ppc-campaign-spend
 
 ---

@@ -8,7 +8,6 @@ created: 2020-05-29T06:18:29.0000000Z
 authors: []
 related: []
 redirects:
-- rules-to-better-expense-tracking
 - do-you-track-your-recurring-expenses
 
 ---

@@ -8,7 +8,6 @@ created: 2015-08-12T15:35:42.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-have-a-rollback-plan1
 - do-you-have-a-rollback-plan
 
 ---

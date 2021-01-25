@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/duncan-hunter
 related: []
 redirects:
-- use-client-side-routing
 - practices-do-you-use-client-side-routing
 
 ---

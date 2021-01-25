@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- schedule-marketing-meetings
 - do-you-schedule-marketing-meetings
 
 ---

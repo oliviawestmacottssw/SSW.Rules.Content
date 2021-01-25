@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/danijel-malik
 related: []
 redirects:
-- follow-security-checklists
 - do-you-follow-security-checklists
 
 ---

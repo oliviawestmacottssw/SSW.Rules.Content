@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- the-3-commitments-in-scrum
 - do-you-know-the-3-commitments-in-scrum-(product-goal-sprint-goal-and-definition-of-done)
 
 ---

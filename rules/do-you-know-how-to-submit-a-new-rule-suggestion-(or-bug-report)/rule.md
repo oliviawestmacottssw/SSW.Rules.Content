@@ -11,8 +11,7 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects:
-- do-you-know-how-to-submit-a-new-rule-suggestion-(or-bug-report)
+redirects: []
 
 ---
 

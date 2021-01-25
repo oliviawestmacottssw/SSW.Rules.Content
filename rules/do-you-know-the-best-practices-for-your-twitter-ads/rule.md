@@ -9,12 +9,11 @@ authors:
 - title: Florent Dezettre
   url: https://ssw.com.au/people/florent-dezettre
 related:
-- do-you-use-and-encourage-others-to-use-hashtags
+- do-you-know-to-use-hash-tags
 - do-you-share-when-you-upgrade-an-application
-- do-you-use-a-conversion-code-in-your-lead-generation-campaigns
+- use-a-conversion-pixel
 - do-you-follow-image-standard-sizes-on-social-media
 redirects:
-- do-you-know-the-best-practices-for-your-twitter-ads
 - twitter-do-you-know-the-best-practices-for-your-twitter-ads
 
 ---

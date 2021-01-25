@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- do-you-use-presentation-templates-for-your-web-site-layouts
 - do-you-have-a-master-template-for-your-website-layouts
 
 ---

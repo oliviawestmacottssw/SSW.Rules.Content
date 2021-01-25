@@ -7,8 +7,7 @@ uri: do-you-disable-netbios-on-all-dedicated-purpose-adapters-(iscsi-and-cluster
 created: 2012-03-02T19:44:44.0000000Z
 authors: []
 related: []
-redirects:
-- do-you-disable-netbios-on-all-dedicated-purpose-adapters-(iscsi-and-cluster-communications)
+redirects: []
 
 ---
 

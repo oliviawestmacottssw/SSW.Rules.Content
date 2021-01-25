@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related: []
 redirects:
-- integrate-dynamics-365-and-microsoft-teams
 - dynamics-and-teams-do-you-integrate-dynamics-365-and-microsoft-teams
 
 ---

@@ -8,7 +8,6 @@ created: 2015-05-19T02:17:19.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-have-a-＂last-taken＂-option
 - do-you-have-a-last-taken-option
 
 ---

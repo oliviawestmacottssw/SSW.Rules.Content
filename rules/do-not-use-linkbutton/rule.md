@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-not-use-linkbutton
 - do-you-know-not-to-use-linkbutton
 
 ---

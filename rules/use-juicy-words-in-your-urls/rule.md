@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- use-juicy-words-in-your-urls
 - do-you-use-juicy-words-in-your-urls
 
 ---

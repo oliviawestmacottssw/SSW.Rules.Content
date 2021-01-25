@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- monitor-failed-login-attempts
 - do-you-monitor-failed-login-attempts
 
 ---

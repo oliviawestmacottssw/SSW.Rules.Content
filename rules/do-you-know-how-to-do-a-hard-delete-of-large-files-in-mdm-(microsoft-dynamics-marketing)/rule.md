@@ -9,8 +9,7 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects:
-- do-you-know-how-to-do-a-hard-delete-of-large-files-in-mdm-(microsoft-dynamics-marketing)
+redirects: []
 
 ---
 

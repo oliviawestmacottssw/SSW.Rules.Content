@@ -13,9 +13,8 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related:
-- do-you-add-tracking-codes-in-urls
+- add-tracking-codes-in-urls
 redirects:
-- use-subdirectories-not-domains
 - do-you-know-that-you-should-use-subdirectories-not-domains
 
 ---

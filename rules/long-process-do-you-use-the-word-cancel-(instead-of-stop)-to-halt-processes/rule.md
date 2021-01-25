@@ -7,8 +7,7 @@ uri: long-process-do-you-use-the-word-cancel-(instead-of-stop)-to-halt-processes
 created: 2012-11-27T03:03:58.0000000Z
 authors: []
 related: []
-redirects:
-- long-process-do-you-use-the-word-cancel-(instead-of-stop)-to-halt-processes
+redirects: []
 
 ---
 

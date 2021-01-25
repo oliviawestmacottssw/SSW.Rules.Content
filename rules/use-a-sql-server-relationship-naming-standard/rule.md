@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-a-sql-server-relationship-naming-standard
 - general-do-you-use-a-sql-server-relationship-naming-standard
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- import-namespaces-and-shorten-the-references
 - do-you-import-namespaces-and-shorten-the-references
 
 ---

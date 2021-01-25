@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- training-templates-to-help-you-learn-power-apps
 - do-you-know-there-are-training-templates-to-help-you-learn-power-apps-(canvas)
 
 ---

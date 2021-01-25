@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- good-quality-images
 - do-you-have-good-quality-images
 
 ---

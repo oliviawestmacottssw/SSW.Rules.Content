@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/joanna-feely
 related: []
 redirects:
-- do-you-know-when-to-versus-and-verses
 - tiny-do-you-know-when-to-use-versus-and-verses
 
 ---

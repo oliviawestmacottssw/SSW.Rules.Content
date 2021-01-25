@@ -15,8 +15,7 @@ authors:
 - title: Tristan Kurniawan
   url: https://ssw.com.au/people/tristan-kurniawan
 related: []
-redirects:
-- do-you-know-to-make-using-check-in-policies-easier-(by-adding-a-recent-query)
+redirects: []
 
 ---
 

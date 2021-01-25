@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/daragh-bannigan
 related: []
 redirects:
-- do-you-integrate-crm-with-microsoft-lync
 - do-you-integrate-crm-with-microsoft-skype-for-business
 
 ---

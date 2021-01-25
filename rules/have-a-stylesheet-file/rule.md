@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-a-stylesheet-file
 - do-you-have-a-stylesheet-file-for-all-your-formatting
 
 ---

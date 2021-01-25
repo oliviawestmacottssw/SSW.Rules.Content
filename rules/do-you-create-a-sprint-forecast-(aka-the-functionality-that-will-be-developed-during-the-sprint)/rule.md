@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-create-a-sprint-forecast-(aka-the-functionality-that-will-be-developed-during-the-sprint)
+redirects: []
 
 ---
 

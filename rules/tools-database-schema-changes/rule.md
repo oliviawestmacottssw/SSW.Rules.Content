@@ -18,7 +18,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- tools-database-schema-changes
 - do-you-know-the-tools-that-can-help
 - do-you-know-the-best-tools-for-database-schema-update
 

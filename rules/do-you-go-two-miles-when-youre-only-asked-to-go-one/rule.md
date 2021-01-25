@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-go-two-miles-when-youre-only-asked-to-go-one
 - quality-do-you-go-two-miles-when-youre-only-asked-to-go-one
 
 ---

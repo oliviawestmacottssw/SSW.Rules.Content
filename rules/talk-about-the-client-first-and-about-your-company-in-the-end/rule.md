@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- talk-about-the-client-first-and-about-your-company-in-the-end
 - do-you-talk-about-the-client-first-and-about-your-company-in-the-end
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-using-reportviewer-local-processing-mode
 - do-you-avoid-using-reportviewer-local-processing-mode
 
 ---

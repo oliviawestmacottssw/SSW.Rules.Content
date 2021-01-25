@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/stanley-sidik
 related: []
 redirects:
-- keep-your-file-servers-clean
 - do-you-keep-your-file-servers-clean
 
 ---

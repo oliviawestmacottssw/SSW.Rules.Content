@@ -8,7 +8,6 @@ created: 2019-01-11T23:59:37.0000000Z
 authors: []
 related: []
 redirects:
-- when-to-implement-idisposable
 - do-you-know-when-to-implement-idisposable
 
 ---

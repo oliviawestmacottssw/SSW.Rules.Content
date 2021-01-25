@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-string-empty-instead-of-quotes
 - do-you-use-string-empty-instead-of
 
 ---

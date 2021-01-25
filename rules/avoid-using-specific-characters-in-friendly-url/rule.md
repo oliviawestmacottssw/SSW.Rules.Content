@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- avoid-using-specific-characters-in-friendly-url
 - do-you-avoid-using-specific-characters-in-friendly-url
 
 ---

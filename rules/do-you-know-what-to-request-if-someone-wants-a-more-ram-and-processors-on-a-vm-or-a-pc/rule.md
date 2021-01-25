@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-know-what-to-request-if-someone-wants-a-more-ram-and-processors-on-a-vm-or-a-pc
 - do-you-know-what-to-request-if-someone-wants-more-ram-and-processors-on-a-vm-or-a-pc
 
 ---

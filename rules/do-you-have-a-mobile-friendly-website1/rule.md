@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- do-you-have-a-mobile-friendly-website1
 - do-you-have-a-mobile-friendly-website
 
 ---

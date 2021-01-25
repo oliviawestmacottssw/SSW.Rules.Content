@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/shane-ye
 related: []
 redirects:
-- the-best-ide-for-react
 - tools-do-you-know-the-best-ide-for-react
 
 ---

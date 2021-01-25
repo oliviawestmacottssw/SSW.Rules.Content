@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- test-your-microphone-camera-and-audio-before-meetings
 - setup-do-you-test-your-microphone-web-camera-and-audio-before-meetings
 
 ---

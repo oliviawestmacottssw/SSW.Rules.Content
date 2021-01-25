@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- 404-useful-error-page
 - do-you-replace-the-404-error-with-a-useful-error-page
 
 ---

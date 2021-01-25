@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- asking-questions
 - do-you-know-the-importance-of-asking-questions
 
 ---

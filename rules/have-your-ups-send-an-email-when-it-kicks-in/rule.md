@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/stanley-sidik
 related: []
 redirects:
-- have-your-ups-send-an-email-when-it-kicks-in
 - do-you-have-your-ups-send-an-email-when-it-kicks-in
 
 ---

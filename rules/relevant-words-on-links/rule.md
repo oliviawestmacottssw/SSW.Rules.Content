@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- relevant-words-on-links
 - do-you-use-relevant-words-on-your-links
 
 ---

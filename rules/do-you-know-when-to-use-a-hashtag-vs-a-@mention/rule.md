@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/joanna-feely
 related: []
 redirects:
-- do-you-know-when-to-use-a-hashtag-vs-a-@mention
 - twitter-do-you-know-when-to-use-a-hashtag-vs-a-@mention
 
 ---

@@ -7,11 +7,10 @@ uri: how-to-add-quotations
 created: 2016-04-21T04:15:15.0000000Z
 authors: []
 related:
-- tiny-do-you-know-commas-and-full-stops-always-should-have-1-space-after-them
-- reference-do-you-use-quotation-mark-for-controls
+- commas-and-full-stops-always-should-have-1-space-after-them
+- use-quotation-mark-for-controls
 - tiny-do-you-use-"cannot"-and-"website"-instead-of-separated-words
 redirects:
-- how-to-add-quotations
 - do-you-know-how-to-make-quotations-easier-to-identify
 
 ---

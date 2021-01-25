@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/william-liebenberg
 related: []
 redirects:
-- use-backchannels-effectively
 - do-you-use-backchannels-effectively
 
 ---

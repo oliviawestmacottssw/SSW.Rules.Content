@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- keep-a-history-of-your-im-conversations
 - do-you-keep-a-history-of-your-im-conversations
 
 ---

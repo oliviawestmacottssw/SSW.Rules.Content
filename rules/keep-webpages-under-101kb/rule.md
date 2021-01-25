@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- keep-webpages-under-101kb
 - do-you-keep-your-webpages-less-than-101kb
 
 ---

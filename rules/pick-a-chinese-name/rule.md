@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- pick-a-chinese-name
 - do-you-pick-a-chinese-name
 
 ---

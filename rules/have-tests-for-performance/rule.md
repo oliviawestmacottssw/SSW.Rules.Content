@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-tests-for-performance
 - do-you-have-tests-for-performance
 
 ---

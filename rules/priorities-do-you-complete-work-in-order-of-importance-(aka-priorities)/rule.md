@@ -11,8 +11,7 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects:
-- priorities-do-you-complete-work-in-order-of-importance-(aka-priorities)
+redirects: []
 
 ---
 

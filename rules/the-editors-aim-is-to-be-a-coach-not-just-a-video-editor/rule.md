@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
-- the-editors-aim-is-to-be-a-coach-not-just-a-video-editor
 - do-you-know-that-the-editor’s-aim-is-to-be-a-coach-not-just-a-video-editor
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-make-sure-your-developers-get-to-see-each-other-regularly
 - do-you-make-sure-your-developers-get-to-see-each-other-regularly-to-avoid-becoming-disconnected
 
 ---

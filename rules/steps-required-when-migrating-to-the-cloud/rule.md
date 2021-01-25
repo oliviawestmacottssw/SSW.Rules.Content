@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/danijel-malik
 related: []
 redirects:
-- steps-required-when-migrating-to-the-cloud
 - do-you-know-all-steps-required-when-migrating-to-the-cloud
 
 ---

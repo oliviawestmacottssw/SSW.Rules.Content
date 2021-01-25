@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-foreign-key-constraints-on-columns-ending-with-id
 - relationships-do-you-have-foreign-key-constraints-on-columns-ending-with-id
 
 ---

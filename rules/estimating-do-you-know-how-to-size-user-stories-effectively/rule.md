@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/chris-briggs
 related: []
 redirects:
-- estimating-do-you-know-how-to-size-user-stories-effectively
 - estimating-do-you-know-how-to-size-product-backlog-items-(pbis)-effectively
 
 ---

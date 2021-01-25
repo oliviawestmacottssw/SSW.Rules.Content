@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- create-new-databases-in-the-default-data-directory
 - dbas-do-you-create-new-databases-in-the-default-data-directory
 
 ---

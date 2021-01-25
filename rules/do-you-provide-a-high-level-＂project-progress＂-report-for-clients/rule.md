@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/justin-king
 related: []
 redirects:
-- do-you-provide-a-high-level-＂project-progress＂-report-for-clients
 - do-you-provide-a-high-level-project-progress-report-for-clients
 
 ---

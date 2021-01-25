@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- use-environment-newline-to-make-a-new-line-in-your-string
 - do-you-use-environment-newline-to-make-a-new-line-in-your-string
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- allow-users-to-get-up-to-date-messages
 - do-you-allow-users-to-get-up-to-date-messages
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-off-the-record-conversations
 - do-you-sometimes-use-off-the-record’-conversations
 
 ---

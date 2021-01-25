@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- make-your-data-driven-pages-easier-to-find
 - do-you-make-your-data-driven-pages-easier-to-find
 
 ---

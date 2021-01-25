@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- how-to-use-audiences-on-google-ads
 - do-you-know-how-to-use-audiences-on-google-ads
 
 ---

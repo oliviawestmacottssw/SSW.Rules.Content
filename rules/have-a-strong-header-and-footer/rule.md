@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-a-strong-header-and-footer
 - do-you-have-a-strong-header-and-footer
 
 ---

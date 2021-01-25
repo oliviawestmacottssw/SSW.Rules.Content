@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- azure-resources-diagram
 - azure-resources-visualizing
 - visualizing-do-you-have-an-azure-resources-diagram
 

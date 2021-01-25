@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-your-files-available-offline
 - do-you-have-your-files-available-offline
 
 ---

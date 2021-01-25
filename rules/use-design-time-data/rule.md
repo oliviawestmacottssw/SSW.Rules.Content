@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- use-design-time-data
 - do-you-use-design-time-data
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-ending-labels-text-with-a-colon
 - being-pedantic-do-you-avoid-ending-labels-text-with-a-colon
 
 ---

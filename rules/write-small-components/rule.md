@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steve-leigh
 related: []
 redirects:
-- write-small-components
 - practices-do-you-write-small-components
 
 ---

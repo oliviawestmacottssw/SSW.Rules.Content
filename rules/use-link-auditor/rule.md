@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-link-auditor
 - do-you-use-link-auditor-to-tell-you-about-bad-links
 
 ---

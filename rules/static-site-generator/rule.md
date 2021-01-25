@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- static-site-generator
 - do-you-use-the-best-static-site-generator
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- configure-all-your-sql-server-services-to-use-a-domain-account
 - dbas-do-you-configure-all-your-sql-server-services-to-use-a-domain-account-rather-than-a-local-service-account
 
 ---

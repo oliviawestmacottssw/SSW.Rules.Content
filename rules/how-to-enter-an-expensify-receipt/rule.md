@@ -13,7 +13,6 @@ authors:
 related:
 - do-you-separate-your-expenses-by-creating-separate-reports-in-expensify
 redirects:
-- how-to-enter-an-expensify-receipt
 - do-you-know-how-to-enter-an-expensify-receipt
 
 ---

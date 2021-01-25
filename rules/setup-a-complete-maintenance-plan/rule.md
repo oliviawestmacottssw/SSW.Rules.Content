@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- setup-a-complete-maintenance-plan
 - backup-do-you-set-up-a-complete-maintenance-plan
 
 ---

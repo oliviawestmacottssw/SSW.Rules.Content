@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-not-have-views-as-redundant-objects
 - views-do-you-avoid-having-views-as-redundant-objects
 
 ---

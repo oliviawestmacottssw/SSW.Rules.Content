@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/jerwin-parker-roberto
 related: []
 redirects:
-- bid-on-your-own-brand-keyword
 - do-you-bid-on-your-own-brand-keyword
 
 ---

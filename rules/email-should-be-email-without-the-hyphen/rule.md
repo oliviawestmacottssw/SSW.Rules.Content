@@ -11,9 +11,8 @@ authors:
 related:
 - do-you-use-email-for-tasks-only---not-chatting
 - communication---do-you-go-beyond-text-when-using-teams/zoom/skype-chat
-- do-you-show-your-phone-number-to-allow-for-emergency-communication
+- do-you-show-your-phone-number-in-skype
 redirects:
-- email-should-be-email-without-the-hyphen
 - tiny-do-you-know-email-does-not-have-a-hyphen
 
 ---

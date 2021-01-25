@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- the-touch-it-once-principle
 - do-you-know-the-touch-it-once-principle-(aka-if-something-takes-less-than-5-minutes-do-it-immediately)
 
 ---

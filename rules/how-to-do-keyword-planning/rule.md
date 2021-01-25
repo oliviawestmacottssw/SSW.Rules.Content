@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- how-to-do-keyword-planning
 - do-you-know-how-to-do-keyword-planning
 
 ---

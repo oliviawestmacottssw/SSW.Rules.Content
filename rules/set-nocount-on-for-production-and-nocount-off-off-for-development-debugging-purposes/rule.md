@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- set-nocount-on-for-production-and-nocount-off-off-for-development-debugging-purposes
 - stored-procedures-do-you-set-nocount-on-for-production-and-nocount-off-off-for-development-debugging-purposes
 
 ---

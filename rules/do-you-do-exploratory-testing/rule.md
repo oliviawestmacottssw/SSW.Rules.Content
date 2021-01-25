@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- do-you-do-exploratory-testing
 - do-you-do-exploratory-testing-(2)
 - do-you-do-some-exploratory-testing
 

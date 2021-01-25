@@ -11,7 +11,7 @@ authors:
 - title: John Liu
   url: https://ssw.com.au/people/john-liu
 related:
-- do-you-know-how-to-use-sharepoint-search
+- sharepoint-search
 redirects: []
 
 ---

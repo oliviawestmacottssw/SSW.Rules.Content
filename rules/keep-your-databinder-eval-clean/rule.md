@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- keep-your-databinder-eval-clean
 - do-you-keep-your-databinder-eval-clean
 
 ---

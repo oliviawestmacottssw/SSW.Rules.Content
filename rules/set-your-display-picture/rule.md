@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- set-your-display-picture
 - set-your-display-picture-using-a-good-photographic-image-of-yourself
 - display-do-you-set-your-display-picture-using-a-good-photographic-image-of-yourself
 

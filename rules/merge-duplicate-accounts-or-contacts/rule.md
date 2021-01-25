@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- merge-duplicate-accounts-or-contacts
 - do-you-merge-accounts-or-contacts-when-you-see-duplicates
 
 ---

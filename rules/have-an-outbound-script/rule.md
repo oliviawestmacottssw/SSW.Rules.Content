@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-an-outbound-script
 - do-have-an-outbound-script
 
 ---

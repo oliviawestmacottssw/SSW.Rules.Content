@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- is-everyone-in-your-team-a-standards-watchdog
 - general-standards-watchdog-do-you-help-everyone-to-learn-the-rules
 
 ---

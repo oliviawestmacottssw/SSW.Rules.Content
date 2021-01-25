@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-sending-unnecessary-messages
 - do-you-avoid-sending-unnecessary-messages
 
 ---

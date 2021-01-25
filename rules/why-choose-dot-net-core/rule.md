@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- why-choose-dot-net-core
 - do-you-know-why-you-choose-net-core
 
 ---

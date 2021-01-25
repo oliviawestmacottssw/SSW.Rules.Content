@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- when-you-reply-inline-do-you-use-a-different-color
 - do-you-use-a-different-color-when-replying-an-email
 
 ---

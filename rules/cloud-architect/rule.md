@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- cloud-architect
 - do-you-have-a-cloud-architect-in-your-projects
 
 ---

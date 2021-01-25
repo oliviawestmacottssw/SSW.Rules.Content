@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jernej-kavka
 related: []
 redirects:
-- protect-your-master-branch
 - do-you-protect-your-master-branch
 
 ---

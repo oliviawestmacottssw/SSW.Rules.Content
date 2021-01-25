@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-using-web-site-projects
 - do-you-avoid-using-web-site-projects
 
 ---

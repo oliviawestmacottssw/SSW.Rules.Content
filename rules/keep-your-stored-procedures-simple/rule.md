@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- keep-your-stored-procedures-simple
 - stored-procedures-do-you-keep-your-stored-procedures-simple
 
 ---

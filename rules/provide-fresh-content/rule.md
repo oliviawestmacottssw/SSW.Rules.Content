@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- provide-fresh-content
 - do-you-provide-fresh-content
 
 ---

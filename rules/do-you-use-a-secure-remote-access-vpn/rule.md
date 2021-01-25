@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/stanley-sidik
 related: []
 redirects:
-- do-you-use-a-secure-remote-access-vpn
 - do-you-know-how-to-setup-a-pptp-vpn-in-windows-10
 
 ---

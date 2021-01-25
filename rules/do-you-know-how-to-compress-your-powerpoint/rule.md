@@ -8,7 +8,6 @@ created: 2016-10-14T06:40:05.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-know-how-to-compress-your-powerpoint
 - do-you-know-how-to-compress-your-powerpoint-e-g-from-26mb-to-13mb
 
 ---

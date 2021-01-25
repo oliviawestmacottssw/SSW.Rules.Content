@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- set-up-your-mailbox-in-crm
 - do-you-set-up-your-mailbox-in-crm
 
 ---

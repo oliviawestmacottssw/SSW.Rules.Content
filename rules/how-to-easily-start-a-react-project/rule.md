@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/shane-ye
 related: []
 redirects:
-- how-to-easily-start-a-react-project
 - do-you-know-how-to-easily-start-a-react-project
 
 ---

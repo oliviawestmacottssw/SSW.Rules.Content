@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/stanley-sidik
 related: []
 redirects:
-- perform-security-and-system-checks
 - do-you-perform-security-and-system-checks
 
 ---

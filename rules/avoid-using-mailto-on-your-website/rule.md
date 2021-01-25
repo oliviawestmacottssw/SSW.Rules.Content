@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-using-mailto-on-your-website
 - do-you-avoid-using-mailto-on-your-website
 
 ---

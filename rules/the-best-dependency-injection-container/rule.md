@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- the-best-dependency-injection-container
 - do-you-know-the-best-dependency-injection-container-(aka-dont-waste-days-evaluating-ioc-containers)
 - do-you-know-the-best-dependency-injection-container-(aka-don’t-waste-days-evaluating-ioc-containers)
 - do-you-know-the-best-dependency-injection-container-(aka-do-not-waste-days-evaluating-ioc-containers)

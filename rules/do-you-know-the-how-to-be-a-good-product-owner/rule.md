@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-know-the-how-to-be-a-good-product-owner
 - do-you-know-how-to-be-a-good-product-owner
 
 ---

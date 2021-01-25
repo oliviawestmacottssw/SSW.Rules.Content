@@ -8,7 +8,6 @@ created: 2015-08-13T14:27:04.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-know-to-upgrade-your-third-party-tools1
 - do-you-know-to-upgrade-your-third-party-tools
 
 ---

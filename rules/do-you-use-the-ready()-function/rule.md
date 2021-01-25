@@ -10,8 +10,7 @@ authors:
   url: https://ssw.com.au/people/damian-brady
 related:
 - do-you-know-which-version-of-jquery-to-use
-redirects:
-- do-you-use-the-ready()-function
+redirects: []
 
 ---
 

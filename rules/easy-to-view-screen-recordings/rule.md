@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steve-leigh
 related: []
 redirects:
-- easy-to-view-screen-recordings
 - do-you-make-sure-your-screen-recordings-are-easy-to-view
 
 ---

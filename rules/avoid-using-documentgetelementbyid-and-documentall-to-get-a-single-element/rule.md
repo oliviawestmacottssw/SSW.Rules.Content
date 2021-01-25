@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-using-documentgetelementbyid-and-documentall-to-get-a-single-element
 - do-you-avoid-using-document-getelementbyid(id)-and-document-all(id)-to-get-a-single-element-instead-use-selector-(id)
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-your-validation-with-exit-sub
 - do-you-do-your-validation-with-return
 
 ---

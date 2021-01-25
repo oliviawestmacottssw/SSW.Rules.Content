@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-notify-others-about-what-is-happening-in-the-company
 - communication-do-you-notify-others-about-what-is-happening-in-the-company
 
 ---

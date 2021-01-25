@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/alex-breskin
 related: []
 redirects:
-- add-branding-to-screenshots
 - do-you-know-how-to-configure-balloons-branding
 - do-you-add-branding-to-screenshots
 

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- how-to-share-a-file-folder-in-sharepoint
 - do-you-know-how-to-share-a-file-folder-in-sharepoint
 
 ---

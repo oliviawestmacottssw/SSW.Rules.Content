@@ -16,7 +16,6 @@ related:
 - do-you-start-from-a-built-in-process-template
 - do-you-use-global-list
 redirects:
-- do-you-check-in-your-process-template-into-source-control
 - do-you-check-in-your-process-template-into-source-control-(legacy)
 
 ---

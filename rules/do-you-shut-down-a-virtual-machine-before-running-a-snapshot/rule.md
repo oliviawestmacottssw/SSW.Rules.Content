@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/matthew-hodgkins
 related: []
 redirects:
-- do-you-shut-down-a-virtual-machine-before-running-a-snapshot
 - do-you-snapshot-virtual-machines-before-big-changes
 
 ---

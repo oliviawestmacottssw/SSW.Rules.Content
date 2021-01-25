@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/andrew-forsyth
 related: []
 redirects:
-- avoid-dates-text-in-graphics-for-events
 - do-you-avoid-dates-text-in-graphics-for-events-promo-videos
 
 ---

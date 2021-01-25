@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- transfer-a-call-quickly
 - do-you-know-how-to-transfer-a-call-quickly
 
 ---

@@ -8,7 +8,6 @@ created: 2013-02-25T23:29:12.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-know-how-to-use-snom-voip-phones-physical-phones-microsoft-lync
 - do-you-know-how-to-use-snom-voip-phones-(physical-phones-+-microsoft-lync)
 - do-you-know-how-to-use-snom-voip-phones-(physical-phones-microsoft-lync)
 - do-you-know-how-to-use-snom-voip-phones-(physical-phones-+-skype-for-business)

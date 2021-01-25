@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- im-your-contact-to-see-if-they’re-free-before-you-try-calling-them
 - calling-do-you-im-your-contact-to-see-if-they’re-free-before-you-try-calling-them
 
 ---

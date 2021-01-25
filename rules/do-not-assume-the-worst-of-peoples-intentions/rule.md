@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-not-assume-the-worst-of-peoples-intentions
 - do-you-know-not-to-assume-the-worst-of-peoples-intentions
 
 ---

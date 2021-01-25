@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/andreas-lengkeek
 related: []
 redirects:
-- avoid-content-in-javascript
 - do-you-avoid-having-important-content-in-javascript
 
 ---

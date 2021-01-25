@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- use-power-platform-build-tools-to-automate-your-power-apps-deployments
 - do-you-use-power-platform-build-tools-to-automate-your-power-apps-deployments
 
 ---

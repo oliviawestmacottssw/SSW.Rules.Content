@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-confirm-with-the-venue-on-the-day-of-the-presentation-(or-the-day-before-if-it’s-a-morning-presentation)
+redirects: []
 
 ---
 

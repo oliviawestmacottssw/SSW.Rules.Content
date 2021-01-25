@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- make-sure-all-software-uses-english
 - make-sure-all-software-are-english
 - do-you-make-sure-all-software-uses-english-(language-setting)
 

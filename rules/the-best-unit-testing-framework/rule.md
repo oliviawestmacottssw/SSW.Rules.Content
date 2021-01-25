@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- the-best-unit-testing-framework
 - do-you-know-the-best-unit-testing-framework
 
 ---

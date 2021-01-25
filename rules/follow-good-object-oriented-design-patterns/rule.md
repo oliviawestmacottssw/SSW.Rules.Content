@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steve-leigh
 related: []
 redirects:
-- follow-good-object-oriented-design-patterns
 - do-you-follow-good-object-oriented-design-patterns
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-markup-validation-service-to-check-your-html-code
 - do-you-use-markup-validation-service-to-check-your-html-and-xhtml-code
 
 ---

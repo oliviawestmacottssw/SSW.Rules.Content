@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- perform-a-thorough-check-on-documents-before-they-go-to-the-client
 - do-you-perform-a-thorough-check-on-documents-before-they-go-to-the-client
 
 ---

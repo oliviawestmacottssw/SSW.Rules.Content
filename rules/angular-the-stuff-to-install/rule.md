@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/gabriel-george
 related: []
 redirects:
-- angular-the-stuff-to-install
 - tools-do-you-know-what-angular-tools-to-install-for-an-angular-project
 
 ---

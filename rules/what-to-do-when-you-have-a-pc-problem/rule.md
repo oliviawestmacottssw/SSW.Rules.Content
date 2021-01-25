@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jernej-kavka
 related: []
 redirects:
-- what-to-do-when-you-have-a-pc-problem
 - do-you-know-what-to-do-when-you-have-a-pc-problem
 
 ---

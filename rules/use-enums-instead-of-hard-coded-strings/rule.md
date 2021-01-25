@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-enums-instead-of-hard-coded-strings
 - do-you-use-enums-instead-of-hard-coded-strings
 
 ---

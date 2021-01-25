@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/christian-morford-waite
 related: []
 redirects:
-- have-a-rowversion-column
 - schema-do-you-have-a-rowversion-column
 
 ---

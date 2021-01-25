@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- how-to-hand-off-a-new-live-chat-lead-to-a-sales-person
 - do-you-know-how-to-hand-off-a-new-live-chat-lead-to-a-sales-person-using-support
 
 ---

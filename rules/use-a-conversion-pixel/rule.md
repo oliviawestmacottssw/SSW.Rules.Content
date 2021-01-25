@@ -11,13 +11,12 @@ authors:
 - title: Camilla Rosa Silva
   url: https://ssw.com.au/people/camilla-rosa-silva
 related:
-- do-you-use-and-encourage-others-to-use-hashtags
+- do-you-know-to-use-hash-tags
 - do-you-share-when-you-upgrade-an-application
 - twitter---do-you-know-the-best-practices-for-your-twitter-ads
 - do-you-follow-image-standard-sizes-on-social-media
-- do-you-know-how-to-weed-out-spammers
+- weed-out-spammers
 redirects:
-- use-a-conversion-pixel
 - do-you-use-a-conversion-pixel
 - do-you-use-a-conversion-code-in-your-lead-generation-campaigns
 

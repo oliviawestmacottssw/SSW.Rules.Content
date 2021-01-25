@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- tasks-do-you-know-that-every-user-story-should-have-an-owner
 - tasks-do-you-know-that-every-pbi-should-have-an-owner
 
 ---

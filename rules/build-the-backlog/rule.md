@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- build-the-backlog
 - product-owner-do-you-know-how-to-update-the-backlog
 
 ---

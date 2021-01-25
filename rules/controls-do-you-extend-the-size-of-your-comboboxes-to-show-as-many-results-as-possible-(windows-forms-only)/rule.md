@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- controls-do-you-extend-the-size-of-your-comboboxes-to-show-as-many-results-as-possible-(windows-forms-only)
+redirects: []
 
 ---
 

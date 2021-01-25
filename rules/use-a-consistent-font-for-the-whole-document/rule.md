@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-a-consistent-font-for-the-whole-document
 - do-you-use-a-consistent-font-for-the-whole-document
 
 ---

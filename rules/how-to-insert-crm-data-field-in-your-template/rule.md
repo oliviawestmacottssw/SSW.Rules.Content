@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- how-to-insert-crm-data-field-in-your-template
 - do-you-know-how-to-insert-crm-data-field-in-your-template
 
 ---

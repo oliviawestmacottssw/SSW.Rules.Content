@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- call-enough-people
 - do-you-call-enough-people
 
 ---

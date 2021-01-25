@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- target-the-right-people
 - do-you-target-the-right-people
 
 ---

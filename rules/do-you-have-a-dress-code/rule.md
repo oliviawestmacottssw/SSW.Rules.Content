@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-have-a-dress-code
 - office-environment-do-you-follow-the-companys-dress-code
 
 ---

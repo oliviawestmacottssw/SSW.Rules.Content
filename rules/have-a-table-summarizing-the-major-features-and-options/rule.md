@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-a-table-summarizing-the-major-features-and-options
 - do-you-have-a-table-summarizing-the-major-features-and-options
 
 ---

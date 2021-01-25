@@ -13,7 +13,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related:
-- do-you-color-code-your-keys
+- do-you-colour-code-your-keys
 - do-you-know-what-to-check-if-your-control4-director-is-running-slowly
 redirects: []
 

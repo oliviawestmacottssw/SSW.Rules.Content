@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- have-active-directory-federation-services-activated
 - do-you-have-active-directory-federation-services-activated
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-an-ergonomic-setup
 - setup-do-you-have-an-ergonomic-setup
 
 ---

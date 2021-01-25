@@ -8,7 +8,6 @@ created: 2010-05-12T22:30:32.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-know-what-a-story-owner-is-responsible-for
 - do-you-know-what-a-pbi-owner-is-responsible-for
 
 ---

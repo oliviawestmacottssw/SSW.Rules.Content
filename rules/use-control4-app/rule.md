@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/greg-harris
 related: []
 redirects:
-- use-control4-app
 - do-you-use-the-control4-app
 
 ---

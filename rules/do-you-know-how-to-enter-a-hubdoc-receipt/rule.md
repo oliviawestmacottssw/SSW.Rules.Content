@@ -8,7 +8,6 @@ created: 2020-06-12T02:17:59.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-know-how-to-enter-a-hubdoc-receipt
 - do-you-know-how-to-enter-and-file-a-hubdoc-receipt
 
 ---

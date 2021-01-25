@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- use-mvvm-pattern
 - do-you-use-the-mvvm-pattern
 
 ---

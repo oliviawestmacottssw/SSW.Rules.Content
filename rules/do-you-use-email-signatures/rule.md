@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-use-email-signatures
 - do-you-use-email-signatures-for-external-emails
 
 ---

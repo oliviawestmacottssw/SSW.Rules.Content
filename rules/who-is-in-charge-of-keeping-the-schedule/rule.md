@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- who-is-in-charge-of-keeping-the-schedule
 - do-your-speakers-know-what-they-need-to-do-at-an-event
 
 ---

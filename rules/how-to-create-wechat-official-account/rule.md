@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/yang-shen
 related: []
 redirects:
-- how-to-create-wechat-official-account
 - how-to-create-wechat-official-account-(2)
 - how-to-create-a-wechat-official-account
 

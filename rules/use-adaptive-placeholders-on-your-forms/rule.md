@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- use-adaptive-placeholders-on-your-forms
 - do-you-use-adaptive-placeholders-on-your-forms
 
 ---

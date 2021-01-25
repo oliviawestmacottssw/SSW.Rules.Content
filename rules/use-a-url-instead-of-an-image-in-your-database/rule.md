@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-a-url-instead-of-an-image-in-your-database
 - data-do-you-use-a-url-instead-of-an-image-in-your-database
 
 ---

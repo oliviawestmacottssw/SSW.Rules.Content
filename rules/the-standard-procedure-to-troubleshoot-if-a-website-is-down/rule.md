@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-standard-procedure-to-troubleshoot-if-a-website-is-down
 - do-you-know-the-standard-procedure-to-troubleshoot-if-a-website-is-down
 
 ---

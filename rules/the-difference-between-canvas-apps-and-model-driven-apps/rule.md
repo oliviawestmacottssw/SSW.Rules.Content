@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- the-difference-between-canvas-apps-and-model-driven-apps
 - do-you-know-the-difference-between-canvas-apps-and-model-driven-apps
 
 ---

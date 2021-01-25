@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-deal-with-distractions
 - do-you-know-how-to-deal-with-distractions
 
 ---

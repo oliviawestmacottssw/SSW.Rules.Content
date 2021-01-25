@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/anthony-nguyen
 related: []
 redirects:
-- a-better-method-for-embedding-youtube-videos-on-your-website
 - do-you-know-the-right-way-to-embed-a-youtube-video
 
 ---

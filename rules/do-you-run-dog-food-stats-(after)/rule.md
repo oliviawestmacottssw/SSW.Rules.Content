@@ -7,8 +7,7 @@ uri: do-you-run-dog-food-stats-(after)
 created: 2009-11-08T02:01:52.0000000Z
 authors: []
 related: []
-redirects:
-- do-you-run-dog-food-stats-(after)
+redirects: []
 
 ---
 

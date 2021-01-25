@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-know-what-to-tweet
 - twitter-do-you-know-to-tweet-relevant-stuff-only
 
 ---

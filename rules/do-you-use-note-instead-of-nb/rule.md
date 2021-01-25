@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/joanna-feely
 related: []
 redirects:
-- do-you-use-note-instead-of-nb
 - tiny-do-you-use-note-instead-of-nb
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-best-forms-solution
 - do-you-know-the-best-forms-solution
 
 ---

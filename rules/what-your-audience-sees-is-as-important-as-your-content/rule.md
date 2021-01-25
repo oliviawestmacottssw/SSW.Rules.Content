@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- what-your-audience-sees-is-as-important-as-your-content
 - do-you-know-that-what-your-audience-sees-is-as-important-as-your-content
 
 ---

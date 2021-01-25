@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/nick-viet
 related: []
 redirects:
-- do-you-know-how-to-claim-expense-reimbursements-2
 - do-you-know-how-to-claim-expense-reimbursements
 - do-you-know-how-to-claim-expense-reimbursements-with-xero-expense-app
 

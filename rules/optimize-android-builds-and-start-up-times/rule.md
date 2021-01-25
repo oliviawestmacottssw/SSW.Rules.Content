@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- optimize-android-builds-and-start-up-times
 - do-you-optimise-your-android-builds-and-start-up-times
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- have-a-naming-convention-for-client-in-teams
 - team-names-do-you-have-naming-convention-for-client-teams
 
 ---

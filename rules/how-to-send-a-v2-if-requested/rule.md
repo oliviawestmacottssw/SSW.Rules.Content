@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- how-to-send-a-v2-if-requested
 - do-you-know-how-to-send-a-v2-of-an-email
 
 ---

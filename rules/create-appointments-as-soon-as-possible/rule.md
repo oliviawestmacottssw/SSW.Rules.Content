@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- create-appointments-as-soon-as-possible
 - appointments-do-you-create-appointments-as-soon-as-possible
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-the-status-message-in-teams
 - do-you-use-the-status-message-in-teams
 
 ---

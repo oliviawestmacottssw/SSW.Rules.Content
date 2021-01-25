@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-auto-generated-maintenance-pages
 - do-you-have-auto-generated-maintenance-pages-on-every-project
 
 ---

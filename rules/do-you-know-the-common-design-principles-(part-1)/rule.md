@@ -11,8 +11,7 @@ authors:
 - title: Damian Brady
   url: https://ssw.com.au/people/damian-brady
 related: []
-redirects:
-- do-you-know-the-common-design-principles-(part-1)
+redirects: []
 
 ---
 

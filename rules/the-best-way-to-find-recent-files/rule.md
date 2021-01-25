@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- the-best-way-to-find-recent-files
 - do-you-know-the-best-way-to-find-your-(or-others)-recent-files
 
 ---

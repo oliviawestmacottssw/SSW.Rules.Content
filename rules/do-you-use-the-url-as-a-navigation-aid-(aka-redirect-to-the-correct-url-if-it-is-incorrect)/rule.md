@@ -11,8 +11,7 @@ authors:
 - title: Damian Brady
   url: https://ssw.com.au/people/damian-brady
 related: []
-redirects:
-- do-you-use-the-url-as-a-navigation-aid-(aka-redirect-to-the-correct-url-if-it-is-incorrect)
+redirects: []
 
 ---
 

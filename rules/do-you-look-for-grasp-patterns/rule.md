@@ -11,7 +11,7 @@ authors:
 - title: Damian Brady
   url: https://ssw.com.au/people/damian-brady
 related:
-- do-you-look-at-the-architecture-of-net-projects
+- do-you-look-at-the-architecture
 redirects: []
 
 ---

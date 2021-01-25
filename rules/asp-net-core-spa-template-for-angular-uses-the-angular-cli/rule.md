@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- asp-net-core-spa-template-for-angular-uses-the-angular-cli
 - options-do-you-know-that-the-asp-net-core-spa-template-for-angular-uses-the-angular-cli
 
 ---

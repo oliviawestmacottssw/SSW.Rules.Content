@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
-- the-best-boardroom-av-solution
 - do-you-know-the-best-boardroom-av-solution
 
 ---

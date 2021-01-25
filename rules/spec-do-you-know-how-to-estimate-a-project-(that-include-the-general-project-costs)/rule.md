@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- spec-do-you-know-how-to-estimate-a-project-(that-include-the-general-project-costs)
 - spec-do-you-know-how-to-estimate-a-project-(include-the-general-project-costs)
 
 ---

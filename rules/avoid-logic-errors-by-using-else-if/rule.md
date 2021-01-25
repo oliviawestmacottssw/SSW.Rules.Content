@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-logic-errors-by-using-else-if
 - do-you-avoid-logic-errors-by-using-else-if
 
 ---

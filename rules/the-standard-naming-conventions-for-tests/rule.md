@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-standard-naming-conventions-for-tests
 - do-you-follow-the-standard-naming-conventions-for-tests
 
 ---

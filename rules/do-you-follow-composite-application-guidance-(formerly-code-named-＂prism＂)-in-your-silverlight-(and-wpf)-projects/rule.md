@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-follow-composite-application-guidance-(formerly-code-named-＂prism＂)-in-your-silverlight-(and-wpf)-projects
 - do-you-follow-composite-application-guidance-(formerly-code-named-prism)-in-your-silverlight-(and-wpf)-projects
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/martin-hinshelwood
 related: []
 redirects:
-- create-friendly-short-urls
 - do-you-know-to-make-short-url’s-readable-where-you-can
 
 ---

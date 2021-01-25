@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-link-farms
 - do-you-avoid-the-temptation-of-link-farms
 
 ---

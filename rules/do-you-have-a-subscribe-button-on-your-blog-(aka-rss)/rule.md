@@ -11,8 +11,7 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects:
-- do-you-have-a-subscribe-button-on-your-blog-(aka-rss)
+redirects: []
 
 ---
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- always-use-varchar
 - schema-do-you-always-use-varchar
 
 ---

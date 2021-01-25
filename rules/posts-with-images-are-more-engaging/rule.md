@@ -9,11 +9,11 @@ authors:
 - title: Camilla Rosa Silva
   url: https://ssw.com.au/people/camilla-rosa-silva
 related:
-- do-you-keep-your-social-media-updated
-- do-you-use-and-encourage-others-to-use-hashtags
-- do-you-add-tracking-codes-in-urls
-- do-you-know-how-to-weed-out-spammers
-- do-you-follow-minimum-image-sizes-on-social-media
+- keep-your-social-media-updated
+- do-you-know-to-use-hash-tags
+- add-tracking-codes-in-urls
+- weed-out-spammers
+- image-size-instagram
 - do-you-know-why-you-should-use-memes-as-part-of-your-business-social-media-content
 - branding---do-you-know-when-to-use-an-overlay-on-images
 - do-you-know-how-to-take-great-photos-for-your-socials
@@ -21,7 +21,6 @@ related:
 - do-you-know-what-type-of-content-marketing-you-should-post-on-your-socials
 - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
 redirects:
-- posts-with-images-are-more-engaging
 - do-you-know-to-add-images-to-your-social-media-posts
 - do-you-know-that-posts-with-images-are-more-engaging
 

@@ -9,8 +9,7 @@ authors:
 - title: Titus Maclaren
   url: https://ssw.com.au/people/titus-maclaren
 related: []
-redirects:
-- post-production-–-do-you-know-how-to-create-the-swing-in-text-effect
+redirects: []
 
 ---
 

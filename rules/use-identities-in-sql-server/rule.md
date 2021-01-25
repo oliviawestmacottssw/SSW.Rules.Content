@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-identities-in-sql-server
 - data-do-you-use-identities-in-sql-server
 
 ---

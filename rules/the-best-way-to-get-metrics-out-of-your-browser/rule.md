@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- the-best-way-to-get-metrics-out-of-your-browser
 - do-you-know-the-best-way-to-get-metrics-out-of-your-browser
 
 ---

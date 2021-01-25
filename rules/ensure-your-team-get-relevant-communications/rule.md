@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matthew-sampias
 related: []
 redirects:
-- ensure-your-team-get-relevant-communications
 - do-you-ensure-your-team-get-relevant-communications
 
 ---

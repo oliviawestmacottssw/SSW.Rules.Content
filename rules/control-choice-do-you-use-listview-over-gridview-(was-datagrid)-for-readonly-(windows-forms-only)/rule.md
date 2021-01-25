@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- control-choice-do-you-use-listview-over-gridview-(was-datagrid)-for-readonly-(windows-forms-only)
+redirects: []
 
 ---
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- you-make-the-email-readable-by-snipping-and-formatting-the-im-chat
 - do-you-make-the-email-readable-by-snipping-and-formatting-the-im-chat
 
 ---

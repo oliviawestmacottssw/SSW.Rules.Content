@@ -12,8 +12,7 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related:
 - do-you-have-a-product-roadmap
-redirects:
-- do-you-have-a-war-room-(summary)
+redirects: []
 
 ---
 

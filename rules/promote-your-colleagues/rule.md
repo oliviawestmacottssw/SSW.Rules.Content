@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- promote-your-colleagues
 - do-you-promote-your-colleagues
 
 ---

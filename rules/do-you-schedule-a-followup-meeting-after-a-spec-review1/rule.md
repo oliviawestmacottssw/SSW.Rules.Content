@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-schedule-a-followup-meeting-after-a-spec-review1
 - do-you-schedule-a-follow-up-meeting-after-a-spec-review
 
 ---

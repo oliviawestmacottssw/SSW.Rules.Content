@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- turn-on-file-auditing-for-your-file-server
 - do-you-turn-on-file-auditing-for-your-file-server
 
 ---

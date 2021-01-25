@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- where-to-find-images
 - do-you-know-where-to-find-images-for-your-blog
 
 ---

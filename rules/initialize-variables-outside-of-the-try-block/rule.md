@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- initialize-variables-outside-of-the-try-block
 - do-you-initialize-variables-outside-of-the-try-block
 
 ---

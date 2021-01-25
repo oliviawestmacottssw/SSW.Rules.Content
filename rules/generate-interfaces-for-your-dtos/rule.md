@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- generate-interfaces-for-your-dtos
 - practices-do-you-generate-strongly-typed-interfaces-for-your-dtos
 
 ---

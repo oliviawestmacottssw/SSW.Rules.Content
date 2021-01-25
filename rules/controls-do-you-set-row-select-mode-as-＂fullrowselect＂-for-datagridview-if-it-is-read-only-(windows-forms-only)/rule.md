@@ -8,7 +8,6 @@ created: 2012-11-27T09:17:59.0000000Z
 authors: []
 related: []
 redirects:
-- controls-do-you-set-row-select-mode-as-＂fullrowselect＂-for-datagridview-if-it-is-read-only-(windows-forms-only)
 - controls-do-you-set-row-select-mode-as-fullrowselect-for-datagridview-if-it-is-read-only-(windows-forms-only)
 
 ---

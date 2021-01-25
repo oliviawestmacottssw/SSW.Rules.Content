@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-provide-your-users-with-a-validate-menu-(aka-diagnostics)
+redirects: []
 
 ---
 

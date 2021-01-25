@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- check-your-sql-server-is-up-to-date
 - dbas-do-you-check-your-sql-server-is-up-to-date
 
 ---

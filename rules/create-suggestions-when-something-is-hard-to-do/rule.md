@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- create-suggestions-when-something-is-hard-to-do
 - do-you-always-create-suggestions-when-something-is-hard-to-do
 
 ---

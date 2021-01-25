@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- be-sure-to-clear-sql-server-cache-when-performing-benchmark-tests
 - performance-tuning-do-you-make-sure-to-clear-sql-server-cache-when-performing-benchmark-tests
 
 ---

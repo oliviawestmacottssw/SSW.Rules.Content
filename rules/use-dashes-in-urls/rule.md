@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- use-dashes-in-urls
 - do-you-use-dashes-in-your-urls
 
 ---

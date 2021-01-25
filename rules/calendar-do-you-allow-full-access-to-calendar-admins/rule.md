@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- calendar-do-you-allow-full-access-to-calendar-admins
 - calendar-permissions-do-you-share-your-calendar
 
 ---

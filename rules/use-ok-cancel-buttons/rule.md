@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-ok-cancel-buttons
 - do-you-use-ok-cancel-buttons
 
 ---

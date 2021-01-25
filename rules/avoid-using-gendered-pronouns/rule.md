@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- avoid-using-gendered-pronouns
 - do-you-avoid-using-gendered-pronouns
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/jernej-kavka
 related: []
 redirects:
-- clean-up-stale-remote-branches-in-git
 - do-you-know-how-clean-up-stale-remote-branches-in-git
 
 ---

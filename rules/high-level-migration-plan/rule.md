@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- high-level-migration-plan
 - do-you-have-a-migration-plan
 
 ---

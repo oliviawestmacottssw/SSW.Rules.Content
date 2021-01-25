@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- are-you-careful-with-your-spelling-grammar-and-punctuation
 - are-you-always-careful-with-your-spelling-grammar-and-punctuation
 
 ---

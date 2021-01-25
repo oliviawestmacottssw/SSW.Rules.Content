@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- know-all-the-log-files
 - dbas-do-you-know-all-the-log-files
 
 ---

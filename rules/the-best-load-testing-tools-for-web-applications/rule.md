@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- the-best-load-testing-tools-for-web-applications
 - do-you-know-the-best-load-testing-tools-for-web-applications
 
 ---

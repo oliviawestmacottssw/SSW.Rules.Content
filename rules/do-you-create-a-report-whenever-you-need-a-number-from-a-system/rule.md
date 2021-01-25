@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-create-a-report-whenever-you-need-a-number-from-a-system
 - efficiency-reuse-do-you-create-a-report-whenever-you-need-a-number-from-a-system
 
 ---

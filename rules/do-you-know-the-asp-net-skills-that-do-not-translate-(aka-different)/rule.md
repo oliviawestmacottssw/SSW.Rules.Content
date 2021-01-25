@@ -9,8 +9,7 @@ authors:
 - title: Jay Lin
   url: https://ssw.com.au/people/jay-lin
 related: []
-redirects:
-- do-you-know-the-asp-net-skills-that-do-not-translate-(aka-different)
+redirects: []
 
 ---
 

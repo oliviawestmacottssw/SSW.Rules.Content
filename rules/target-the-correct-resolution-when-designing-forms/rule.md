@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- target-the-correct-resolution-when-designing-forms
 - do-you-target-the-correct-resolution-when-designing-forms
 
 ---

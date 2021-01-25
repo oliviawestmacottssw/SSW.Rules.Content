@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- follow-up
 - do-you-follow-up-with-your-attendees-after-events
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- use-creative-commons-images
 - do-you-know-to-use-creative-commons-images
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- what-errors-to-filter-out
 - do-you-know-what-errors-to-filter-out
 
 ---

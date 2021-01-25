@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-a-dedicated-working-space
 - setup-do-you-have-a-dedicated-working-space
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- how-to-justify-your-rates
 - do-you-know-how-to-justify-your-rates
 
 ---

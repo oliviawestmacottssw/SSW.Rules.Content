@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- installation-do-you-turn-on-development-errors-and-platform-tracing
 - do-you-turn-on-development-errors-and-platform-tracing
 
 ---

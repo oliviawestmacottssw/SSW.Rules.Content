@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/barry-sanders
 related: []
 redirects:
-- record-a-quick-and-dirty-done-video
 - do-you-know-how-to-record-a-quick-and-dirty-done-video
 
 ---

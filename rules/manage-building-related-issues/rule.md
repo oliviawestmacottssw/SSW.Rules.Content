@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matthew-sampias
 related: []
 redirects:
-- manage-building-related-issues
 - do-you-manage-building-repair-and-maintenance
 
 ---

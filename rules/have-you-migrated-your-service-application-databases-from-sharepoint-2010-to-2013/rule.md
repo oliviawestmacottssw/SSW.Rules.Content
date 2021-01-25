@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- have-you-migrated-your-service-application-databases-from-sharepoint-2010-to-2013
 - have-you-migrated-your-service-application-databases
 
 ---

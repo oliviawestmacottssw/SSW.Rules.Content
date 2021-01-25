@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- know-the-highest-hit-pages
 - do-you-know-the-highest-hit-pages
 
 ---

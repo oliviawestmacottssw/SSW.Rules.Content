@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- how-to-improve-the-discoverability-of-your-mediatr-requests
 - do-you-know-how-to-improve-the-discoverability-of-your-mediatr-requests
 
 ---

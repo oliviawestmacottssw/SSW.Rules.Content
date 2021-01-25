@@ -18,7 +18,6 @@ related:
 - do-you-have-an-endomarketing-strategy-in-your-company
 - branding---do-you-know-when-to-use-an-overlay-on-images
 redirects:
-- how-to-see-what-is-going-on-in-your-project
 - notifications-do-you-know-how-to-see-what’s-going-on-in-your-project
 
 ---

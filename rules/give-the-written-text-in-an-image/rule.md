@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- give-the-written-text-in-an-image
 - do-you-give-the-written-text-when-you-publish-an-image-with-text-in-it
 
 ---

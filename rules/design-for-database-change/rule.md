@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- design-for-database-change
 - dbas-do-you-design-for-database-change
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-know-how-to-describe-the-work-you-have-done-(while-avoiding-the-word-bug)
 - do-you-know-how-to-describe-the-work-you-have-done
 
 ---

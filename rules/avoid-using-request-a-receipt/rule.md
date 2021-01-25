@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- avoid-using-request-a-receipt
 - do-you-use-＂request-a-receipt＂-selectively
 - do-you-avoid-using-request-a-receipt
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- submit-all-dates-to-sql-server-in-iso-format
 - middle-tier-do-you-submit-all-dates-to-sql-server-in-iso-format
 
 ---

@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- heads-up-when-logging-in-to-others-accounts
 - do-you-give-a-heads-up-when-logging-in-to-someone-elses-accounts
 
 ---

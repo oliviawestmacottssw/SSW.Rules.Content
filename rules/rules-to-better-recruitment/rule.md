@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- rules-to-better-recruitment
 - do-you-know-how-to-find-excellent-candidates
 
 ---

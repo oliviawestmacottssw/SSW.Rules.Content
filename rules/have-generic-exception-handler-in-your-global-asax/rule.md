@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-generic-exception-handler-in-your-global-asax
 - do-you-have-generic-exception-handler-in-your-global-asax
 
 ---

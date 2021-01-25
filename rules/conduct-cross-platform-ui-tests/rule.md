@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- conduct-cross-platform-ui-tests
 - do-you-conduct-cross-platform-ui-tests
 
 ---

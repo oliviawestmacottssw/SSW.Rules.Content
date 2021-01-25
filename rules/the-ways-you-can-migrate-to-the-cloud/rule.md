@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/danijel-malik
 related: []
 redirects:
-- the-ways-you-can-migrate-to-the-cloud
 - do-you-know-all-the-ways-you-can-migrate-to-the-cloud
 
 ---

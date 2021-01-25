@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- use-ngrx-on-complex-applications
 - practices-do-you-know-to-use-ngrx-on-complex-applications
 
 ---

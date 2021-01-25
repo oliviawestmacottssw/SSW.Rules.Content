@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- make-complaints-a-positive-experience
 - do-you-make-complaints-a-positive-experience
 
 ---

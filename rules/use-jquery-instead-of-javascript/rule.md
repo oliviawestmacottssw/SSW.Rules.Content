@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-jquery-instead-of-javascript
 - do-you-use-jquery-instead-of-javascript
 
 ---

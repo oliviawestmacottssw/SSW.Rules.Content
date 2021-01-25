@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/eden-liang
 related: []
 redirects:
-- use-web-compiler
 - do-you-use-web-compiler-extension
 
 ---

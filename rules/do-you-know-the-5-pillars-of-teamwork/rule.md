@@ -11,7 +11,6 @@ authors:
 related:
 - teamwork---do-you-know-the-5-dysfunctions-of-a-team
 redirects:
-- do-you-know-the-5-pillars-of-teamwork
 - teamwork-do-you-know-the-5-pillars-of-teamwork
 
 ---

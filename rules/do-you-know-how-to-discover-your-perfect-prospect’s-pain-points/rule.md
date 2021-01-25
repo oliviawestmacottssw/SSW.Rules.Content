@@ -12,8 +12,7 @@ related:
 - do-you-know-how-to-test-which-pain-points-are-relevant-to-your-prospect
 - do-you-know-how-to-use-a-perfect-prospectâ€™s-pain-points-in-your-online-marketing
 - do-you-know-why-you-need-to-understand-your-perfect-prospects-pain-points
-redirects:
-- do-you-know-how-to-discover-your-perfect-prospect’s-pain-points
+redirects: []
 
 ---
 

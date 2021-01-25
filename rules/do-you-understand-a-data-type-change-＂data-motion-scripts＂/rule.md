@@ -18,7 +18,6 @@ authors:
   url: https://ssw.com.au/people/thiago-passos
 related: []
 redirects:
-- do-you-understand-a-data-type-change-＂data-motion-scripts＂
 - do-you-understand-a-data-type-change-data-motion-scripts
 
 ---

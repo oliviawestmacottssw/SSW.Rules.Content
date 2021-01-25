@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related: []
 redirects:
-- check-the-audit-log-for-modification
 - do-you-check-the-audit-log-for-modification
 
 ---

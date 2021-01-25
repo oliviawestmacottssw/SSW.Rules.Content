@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- keep-sharepoint-databases-in-a-separate-sql-instance
 - do-you-keep-sharepoint-databases-in-a-separate-sql-instance
 
 ---

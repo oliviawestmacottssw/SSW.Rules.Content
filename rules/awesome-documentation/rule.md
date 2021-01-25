@@ -27,7 +27,6 @@ related:
 - do-you-refer-to-the-reader-and-author-consistently-throughout-your-document
 - tiny-do-you-use-active-phrases-no-zombies-please
 redirects:
-- awesome-documentation
 - do-you-review-the-documentation
 - do-you-make-awesome-documentation
 

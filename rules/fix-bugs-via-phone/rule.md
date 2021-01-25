@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- fix-bugs-via-phone
 - do-you-fix-bugs-with-a-phone-call
 
 ---

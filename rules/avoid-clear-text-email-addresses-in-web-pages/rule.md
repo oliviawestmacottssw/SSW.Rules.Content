@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-clear-text-email-addresses-in-web-pages
 - do-you-avoid-clear-text-email-addresses-in-web-pages
 
 ---

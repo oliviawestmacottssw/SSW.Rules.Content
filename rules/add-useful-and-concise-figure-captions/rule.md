@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- add-useful-and-concise-figure-captions
 - figures-do-you-add-useful-and-concise-figure-text-(aka-a-caption)-to-avoid-a-lot-of-text-over-images
 - add-a-useful-figure-caption-below-all-images
 - show-a-bad-example-and-then-a-good-example

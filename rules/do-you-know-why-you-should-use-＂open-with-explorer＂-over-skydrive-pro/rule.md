@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- do-you-know-why-you-should-use-＂open-with-explorer＂-over-skydrive-pro
 - do-you-know-why-you-should-use-open-with-explorer-over-onedrive
 
 ---

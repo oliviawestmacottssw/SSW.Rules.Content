@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-clean-designs-when-creating-forms
 - do-you-use-clean-designs-when-creating-forms
 
 ---

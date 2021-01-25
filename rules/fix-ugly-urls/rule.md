@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- fix-ugly-urls
 - do-you-fix-your-ugly-urls
 
 ---

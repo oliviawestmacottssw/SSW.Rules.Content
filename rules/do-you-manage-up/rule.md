@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-manage-up
 - teamwork-do-you-manage-up-(give-a-recommendation)
 
 ---

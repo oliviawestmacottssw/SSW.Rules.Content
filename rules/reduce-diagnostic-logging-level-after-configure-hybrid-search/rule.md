@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- reduce-diagnostic-logging-level-after-configure-hybrid-search
 - do-you-reduce-diagnostic-logging-level-after-configure-hybrid-search
 
 ---

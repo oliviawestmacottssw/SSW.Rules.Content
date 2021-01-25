@@ -23,7 +23,6 @@ related:
 - do-you-know-what-type-of-content-marketing-you-should-post-on-your-socials
 - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
 redirects:
-- keep-your-social-media-updated
 - do-you-keep-it-alive
 - do-you-keep-your-social-media-updated
 

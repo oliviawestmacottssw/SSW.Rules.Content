@@ -7,8 +7,7 @@ uri: do-you-use-an-ellipsis-(-)-to-indicate-an-action-requiring-more-user-input
 created: 2012-11-27T09:08:21.0000000Z
 authors: []
 related: []
-redirects:
-- do-you-use-an-ellipsis-(-)-to-indicate-an-action-requiring-more-user-input
+redirects: []
 
 ---
 

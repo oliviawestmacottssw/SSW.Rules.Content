@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- create-your-own-alerts
 - dbas-do-you-create-your-own-alerts
 
 ---

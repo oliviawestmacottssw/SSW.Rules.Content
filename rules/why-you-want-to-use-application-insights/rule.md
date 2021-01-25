@@ -12,9 +12,8 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related:
 - do-you-use-an-analytics-framework-to-help-manage-exceptions
-- do-you-know-how-to-set-up-application-insights
+- how-to-set-up-application-insights
 redirects:
-- why-you-want-to-use-application-insights
 - do-you-know-why-you-want-to-use-application-insights
 
 ---

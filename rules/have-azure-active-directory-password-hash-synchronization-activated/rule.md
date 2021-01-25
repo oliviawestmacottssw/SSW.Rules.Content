@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- have-azure-active-directory-password-hash-synchronization-activated
 - do-you-have-azure-active-directory-password-hash-synchronization-activated
 
 ---

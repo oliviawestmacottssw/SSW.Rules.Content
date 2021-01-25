@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/isaac-lu
 related: []
 redirects:
-- use-sql-views
 - views-do-you-use-sql-views
 
 ---

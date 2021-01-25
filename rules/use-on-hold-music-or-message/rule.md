@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-on-hold-music-or-message
 - do-you-use-on-hold-music-or-hold-message
 
 ---

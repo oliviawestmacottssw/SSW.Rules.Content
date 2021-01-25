@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- have-good-lighting-on-your-home-office
 - setup-do-you-have-good-lighting-in-your-home-office
 
 ---

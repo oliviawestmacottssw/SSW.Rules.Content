@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/martin-li
 related: []
 redirects:
-- do-you-know-how-to-better-localize-your-application
 - rules-to-better-localization
 
 ---

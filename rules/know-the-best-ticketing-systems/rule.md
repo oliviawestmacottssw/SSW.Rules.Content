@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- know-the-best-ticketing-systems
 - do-you-know-the-best-ticketing-systems
 
 ---

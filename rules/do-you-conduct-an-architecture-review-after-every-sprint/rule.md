@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/justin-king
 related: []
 redirects:
-- do-you-conduct-an-architecture-review-after-every-sprint
 - do-you-conduct-an-architecture-review-every-few-sprints
 
 ---

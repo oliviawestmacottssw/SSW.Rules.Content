@@ -7,8 +7,7 @@ uri: do-you-add-an-useful-introduction-screen-(with-an-image-of-where-it-is-goin
 created: 2014-12-01T03:51:56.0000000Z
 authors: []
 related: []
-redirects:
-- do-you-add-an-useful-introduction-screen-(with-an-image-of-where-it-is-going)-prior-to-settings
+redirects: []
 
 ---
 

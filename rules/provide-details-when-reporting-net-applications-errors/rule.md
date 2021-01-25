@@ -8,7 +8,6 @@ created: 2016-02-09T16:59:27.0000000Z
 authors: []
 related: []
 redirects:
-- provide-details-when-reporting-net-applications-errors
 - do-you-provide-details-when-reporting-net-applications-errors
 
 ---

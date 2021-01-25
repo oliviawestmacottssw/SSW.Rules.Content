@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- make-frequently-accessed-sharepoint-pages-easier-to-find
 - tabs-do-you-make-frequently-accessed-sharepoint-pages-easier-to-find
 
 ---

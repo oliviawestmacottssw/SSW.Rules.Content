@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- steps-required-to-implement-a-performance-improvement
 - do-you-know-the-steps-required-to-implement-a-performance-improvement
 
 ---

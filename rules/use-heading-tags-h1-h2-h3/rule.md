@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- use-heading-tags-h1-h2-h3
 - do-you-use-heading-tags-where-appropriate-(h1-h2-h3-)
 
 ---

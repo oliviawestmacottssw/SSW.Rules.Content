@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/stanley-sidik
 related: []
 redirects:
-- have-a-strict-password-security-policy
 - do-you-have-a-strict-password-security-policy
 
 ---

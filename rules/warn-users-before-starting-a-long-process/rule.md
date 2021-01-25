@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- warn-users-before-starting-a-long-process
 - do-you-warn-users-before-starting-a-long-process
 
 ---

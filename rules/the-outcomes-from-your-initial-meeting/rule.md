@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- the-outcomes-from-your-initial-meeting
 - meetings-do-you-know-the-outcomes-from-your-initial-meeting-(spec-review-or-ad-hoc-work)
 
 ---

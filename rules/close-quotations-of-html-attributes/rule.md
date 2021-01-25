@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- close-quotations-of-html-attributes
 - do-you-remember-to-close-quotations-of-all-your-html-attributes
 
 ---

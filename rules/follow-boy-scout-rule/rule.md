@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- follow-boy-scout-rule
 - do-you-follow-boy-scout-rule
 
 ---

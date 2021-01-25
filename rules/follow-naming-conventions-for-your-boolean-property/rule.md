@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- follow-naming-conventions-for-your-boolean-property
 - do-you-follow-naming-conventions-for-your-boolean-property
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- when-adding-a-unit-test-for-an-edge-case-the-naming-convention-should-be-the-issue-id
 - do-you-reference-the-issue-id-when-writing-a-test-to-confirm-a-bugfix
 
 ---

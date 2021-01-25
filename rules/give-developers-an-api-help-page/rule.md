@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- give-developers-an-api-help-page
 - do-you-give-a-developer-an-api-help-page
 
 ---

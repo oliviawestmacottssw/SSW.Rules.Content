@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/andrew-lean
 related: []
 redirects:
-- do-you-minimize-team-distractions
 - interruptions-do-you-minimize-microsoft-teams-distractions
 
 ---

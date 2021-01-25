@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- rebase-not-merge
 - do-you-know-to-rebase-not-merge
 
 ---

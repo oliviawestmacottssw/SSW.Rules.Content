@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-emojis-in-you-channel-names
 - do-you-use-emojis-in-your-channel-names
 
 ---

@@ -17,7 +17,6 @@ related:
 - communication---do-you-go-beyond-text-when-using-teams/zoom/skype-chat
 - tiny-do-you-know-"email"-does-not-have-a-hyphen
 redirects:
-- do-you-show-your-phone-number-in-skype
 - https-rules-ssw-com-au-do-you-know-to-use-skypein-to-improve-your-communication-with-clients
 - do-you-show-your-phone-number-to-allow-for-emergency-communication
 

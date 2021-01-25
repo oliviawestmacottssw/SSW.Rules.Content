@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- use-a-service-to-share-reusable-logic
 - practices-do-you-use-a-service-to-share-reusable-logic
 
 ---

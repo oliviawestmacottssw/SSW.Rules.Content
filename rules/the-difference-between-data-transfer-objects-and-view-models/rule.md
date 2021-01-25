@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- the-difference-between-data-transfer-objects-and-view-models
 - do-you-know-the-difference-between-data-transfer-objects-and-view-models
 
 ---

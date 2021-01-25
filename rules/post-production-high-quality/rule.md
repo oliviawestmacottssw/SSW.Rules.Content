@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
-- post-production-high-quality
 - post-production-do-you-use-sd-or-hd-quality
 - post-production-do-you-use-hd-or-4k-quality
 

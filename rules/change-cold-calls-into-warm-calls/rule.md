@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- change-cold-calls-into-warm-calls
 - do-you-change-cold-calls-into-warm-calls
 
 ---

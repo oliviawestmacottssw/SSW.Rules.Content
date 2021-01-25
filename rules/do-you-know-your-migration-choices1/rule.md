@@ -8,7 +8,6 @@ created: 2015-08-12T15:26:07.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-know-your-migration-choices1
 - do-you-know-your-migration-choices
 
 ---

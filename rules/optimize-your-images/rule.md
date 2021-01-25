@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- optimize-your-images
 - do-you-optimize-your-images-for-web
 
 ---

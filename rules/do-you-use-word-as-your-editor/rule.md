@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- do-you-use-word-as-your-editor
 - zz_do-you-use-word-as-your-editor
 
 ---

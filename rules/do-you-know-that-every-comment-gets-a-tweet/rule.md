@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-know-that-every-comment-gets-a-tweet
 - twitter-do-you-know-that-every-comment-gets-a-tweet
 
 ---

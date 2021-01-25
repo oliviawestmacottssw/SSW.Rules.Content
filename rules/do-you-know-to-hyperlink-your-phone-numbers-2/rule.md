@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-know-to-hyperlink-your-phone-numbers-2
 - do-you-know-to-hyperlink-your-phone-numbers
 
 ---

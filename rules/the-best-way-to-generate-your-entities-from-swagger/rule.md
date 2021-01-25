@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- the-best-way-to-generate-your-entities-from-swagger
 - the-best-way-the-best-way-to-generate-your-entities-from-swagger
 - do-you-know-the-best-way-to-generate-your-classes-from-swagger
 

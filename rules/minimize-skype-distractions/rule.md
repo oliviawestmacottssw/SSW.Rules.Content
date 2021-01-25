@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- minimize-skype-distractions
 - interruptions-do-you-minimize-skype-distractions
 
 ---

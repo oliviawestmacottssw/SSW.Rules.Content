@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- how-to-create-a-negative-keyword-list
 - do-you-know-how-to-create-a-negative-keyword-list
 
 ---

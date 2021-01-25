@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- name-your-azure-resources-correctly
 - do-you-name-your-azure-resources-correctly
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-your-own-database-to-find-prospects
 - do-you-use-your-own-database-to-find-prospects
 
 ---

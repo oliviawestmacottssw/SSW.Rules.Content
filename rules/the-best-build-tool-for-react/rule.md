@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/shane-ye
 related: []
 redirects:
-- the-best-build-tool-for-react
 - tools-do-you-know-the-best-build-tool-for-react
 
 ---

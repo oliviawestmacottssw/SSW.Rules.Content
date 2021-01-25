@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- how-to-prepare-before-migration
 - do-you-know-how-to-prepare-your-migration-(before-migration)
 
 ---

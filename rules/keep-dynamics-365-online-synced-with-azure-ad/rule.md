@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- keep-dynamics-365-online-synced-with-azure-ad
 - do-you-keep-your-dynamics-365-online-synced-with-azure-ad
 
 ---

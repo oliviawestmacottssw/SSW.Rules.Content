@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- the-best-approach-to-validate-your-client-requests
 - do-you-know-the-best-approach-to-validate-your-client-requests
 
 ---

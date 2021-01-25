@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- quality-do-you-make-your-templates-accessible-to-everyone-in-your-organisation
 - ip-do-you-make-your-templates-accessible-to-everyone-in-your-organisation
 
 ---

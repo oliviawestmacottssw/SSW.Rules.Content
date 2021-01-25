@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-know-how-to-get-approval-for-a-purchase
 - office-environment-do-you-know-how-to-get-approval-for-a-purchase
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-a-helper-extension-method-to-raise-events
 - do-you-use-a-helper-extension-method-to-raise-events
 
 ---

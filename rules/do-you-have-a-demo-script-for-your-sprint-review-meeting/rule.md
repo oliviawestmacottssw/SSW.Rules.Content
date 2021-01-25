@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/peter-gfader
 related: []
 redirects:
-- do-you-have-a-demo-script-for-your-sprint-review-meeting
 - do-you-have-a-demo-script-for-your-sprint-review-meeting-important
 
 ---

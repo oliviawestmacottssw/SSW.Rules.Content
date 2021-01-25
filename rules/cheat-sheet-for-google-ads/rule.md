@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- cheat-sheet-for-google-ads
 - do-you-have-a-cheat-sheet-for-google-ads
 
 ---

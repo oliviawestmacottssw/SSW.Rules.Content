@@ -14,9 +14,8 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related:
 - do-you-know-if-you-are-using-the-template
-- do-you-use-great-email-signatures
+- great-email-signatures
 redirects:
-- have-a-companywide-word-template
 - logon-do-you-have-a-company-wide-word-template
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- upsell
 - upsell-your-most-valuable-product-service
 - do-you-upsell-your-products-or-services
 

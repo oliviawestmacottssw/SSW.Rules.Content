@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/drew-robson
 related: []
 redirects:
-- do-you-know-that-caching-is-disabled-when-debug-＂true＂
 - do-you-know-that-caching-is-disabled-when-debug-true
 
 ---

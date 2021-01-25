@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- graphql-when-to-use
 - do-you-know-when-to-use-graphql
 
 ---

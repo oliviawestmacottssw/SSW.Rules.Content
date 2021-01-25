@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-best-openapi-toolchain
 - do-you-use-the-best-openapi-toolchain
 
 ---

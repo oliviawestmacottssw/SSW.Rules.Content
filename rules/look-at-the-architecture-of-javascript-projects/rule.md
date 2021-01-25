@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jernej-kavka
 related: []
 redirects:
-- look-at-the-architecture-of-javascript-projects
 - do-you-look-at-the-architecture-of-javascript-projects
 
 ---

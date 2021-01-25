@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matthew-sampias
 related: []
 redirects:
-- perform-client-follow-ups
 - do-you-perform-client-follow-ups
 
 ---

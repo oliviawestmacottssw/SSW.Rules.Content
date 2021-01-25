@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- send-sprint-forecast-and-sprint-review-retro-emails-to-the-client
 - do-you-send-＂sprint-forecast＂-and-＂sprint-review-retro＂-emails-to-the-client
 - do-you-send-sprint-forecast-and-sprint-review-retro-emails-to-the-client
 

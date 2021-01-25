@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- refer-to-form-controls-directly
 - do-you-refer-to-form-controls-directly
 
 ---

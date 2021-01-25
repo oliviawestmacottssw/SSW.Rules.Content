@@ -11,8 +11,7 @@ authors:
 - title: Titus Maclaren
   url: https://ssw.com.au/people/titus-maclaren
 related: []
-redirects:
-- do-you-have-a-knowledge-base-(kb)
+redirects: []
 
 ---
 

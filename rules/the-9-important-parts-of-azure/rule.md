@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-9-important-parts-of-azure
 - do-you-know-the-9-important-parts-of-azure
 
 ---

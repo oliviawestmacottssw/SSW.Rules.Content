@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- consistent-phone-message
 - do-you-use-a-consistent-phone-message
 
 ---

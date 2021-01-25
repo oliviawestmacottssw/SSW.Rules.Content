@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- establish-a-baseline
 - do-you-establish-a-baseline
 
 ---

@@ -11,8 +11,7 @@ authors:
 - title: Danijel Malik
   url: https://ssw.com.au/people/danijel-malik
 related: []
-redirects:
-- do-you-know-you-should-do-a-retrospective-after-an-activity-ends-(a-k-a-feedback)
+redirects: []
 
 ---
 

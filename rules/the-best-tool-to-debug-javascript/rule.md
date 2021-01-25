@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/duncan-hunter
 related: []
 redirects:
-- the-best-tool-to-debug-javascript
 - tools-do-you-know-the-best-tools-to-debug-javascript
 
 ---

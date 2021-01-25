@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- important-documents-to-get-started-on-unit-testing
 - do-you-know-the-important-documents-to-get-started-on-unit-testing
 
 ---

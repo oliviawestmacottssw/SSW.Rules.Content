@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- do-you-unsubscribe-from-newsletters
 - do-you-unsubscribe-from-irrelevant-newsletters
 
 ---

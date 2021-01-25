@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related: []
 redirects:
-- have-a-migration-plan
 - do-you-have-a-migration-plan
 
 ---

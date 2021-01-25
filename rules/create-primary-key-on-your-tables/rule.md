@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- create-primary-key-on-your-tables
 - schema-do-you-create-primary-key-on-your-tables
 
 ---

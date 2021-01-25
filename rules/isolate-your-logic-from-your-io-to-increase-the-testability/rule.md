@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- isolate-your-logic-from-your-io-to-increase-the-testability
 - do-you-isolate-your-logic-from-your-io-to-increase-the-testability
 
 ---

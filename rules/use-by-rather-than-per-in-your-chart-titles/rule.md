@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- use-by-rather-than-per-in-your-chart-titles
 - do-you-use-by-rather-than-per-in-your-chart-titles
 
 ---

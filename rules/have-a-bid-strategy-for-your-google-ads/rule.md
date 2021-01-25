@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- have-a-bid-strategy-for-your-google-ads
 - do-you-have-a-bid-strategy-for-your-google-ads
 
 ---

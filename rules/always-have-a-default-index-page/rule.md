@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- always-have-a-default-index-page
 - do-you-always-have-a-default-index-page
 
 ---

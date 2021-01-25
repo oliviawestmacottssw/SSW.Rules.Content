@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- microsoft-recommended-frameworks-for-automated-ui-driven-functional-testing
 - do-you-know-microsoft’s-recommended-frameworks-for-automated-ui-driven-functional-testing
 
 ---

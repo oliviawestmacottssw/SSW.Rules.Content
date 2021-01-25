@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- measure-up-time
 - dbas-do-you-measure-up-time
 
 ---

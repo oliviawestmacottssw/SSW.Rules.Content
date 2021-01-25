@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/chris-briggs
 related: []
 redirects:
-- transcribe-your-videos
 - do-you-know-why-you-should-transcribe-your-videos
 
 ---

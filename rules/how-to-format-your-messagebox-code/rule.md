@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- how-to-format-your-messagebox-code
 - do-you-know-how-to-format-your-messagebox-code
 
 ---

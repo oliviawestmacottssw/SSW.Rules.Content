@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- give-users-least-privileges
 - do-you-give-users-least-privileges
 
 ---

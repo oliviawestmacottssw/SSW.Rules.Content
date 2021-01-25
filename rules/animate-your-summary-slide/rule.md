@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- animate-your-summary-slide
 - do-you-know-to-animate-your-summary-slide
 
 ---

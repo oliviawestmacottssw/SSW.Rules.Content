@@ -11,8 +11,7 @@ authors:
 - title: Cameron Shaw
   url: https://ssw.com.au/people/cameron-shaw
 related: []
-redirects:
-- do-you-make-sure-every-customers-(and-prospects)-email-is-in-your-company-database
+redirects: []
 
 ---
 

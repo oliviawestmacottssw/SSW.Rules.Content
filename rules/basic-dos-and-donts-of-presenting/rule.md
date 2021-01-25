@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- basic-dos-and-donts-of-presenting
 - do-you-know-the-basic-dos-and-don’ts-of-presentingdo-you-know-the-basic-dos-and-don’ts-of-presenting
 
 ---

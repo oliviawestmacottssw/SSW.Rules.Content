@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- remove-spaces-from-your-folders-and-filename
 - do-you-remove-spaces-from-your-folders-and-filename
 
 ---

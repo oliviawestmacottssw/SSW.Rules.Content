@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- change-the-connection-timeout-to-5-seconds
 - do-you-change-the-connection-timeout-to-5-seconds
 
 ---

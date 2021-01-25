@@ -8,7 +8,6 @@ created: 2015-06-18T04:36:23.0000000Z
 authors: []
 related: []
 redirects:
-- how-to-convert-crm-managed-solution-to-unmanaged
 - do-you-know-how-to-convert-dynamics-crm-managed-solution-to-unmanaged
 
 ---

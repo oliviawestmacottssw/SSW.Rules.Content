@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- best-practice-for-managing-state
 - do-you-know-the-best-practice-for-managing-state
 
 ---

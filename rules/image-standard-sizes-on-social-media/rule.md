@@ -10,30 +10,29 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related:
 - do-you-share-when-you-upgrade-an-application
-- do-you-know-how-to-weed-out-spammers
-- do-you-use-a-conversion-code-in-your-lead-generation-campaigns
-- do-you-use-and-encourage-others-to-use-hashtags
+- weed-out-spammers
+- use-a-conversion-pixel
+- do-you-know-to-use-hash-tags
 - twitter---do-you-know-the-best-practices-for-your-twitter-ads
-- do-you-use-a-personalized-thumbnail
-- do-you-sort-your-videos-into-playlists
-- do-you-use-untapped-keywords
-- do-you-make-your-videos-youtube-friendly
-- do-you-optimize-your-videos-for-youtube
-- do-you-keep-your-audience-happy
-- do-you-add-cards-to-your-youtube-videos
+- personalized-thumbnail
+- sort-videos-into-playlists
+- untapped-keywords
+- videos-youtube-friendly
+- optimize-videos-for-youtube
+- keep-audience-happy
+- youtube-cards
 - do-you-add-end-screen-to-your-youtube-videos
-- do-you-add-time-links-on-your-youtube-videos
-- do-you-keep-your-social-media-updated
-- do-you-add-tracking-codes-in-urls
-- do-you-follow-minimum-image-sizes-on-social-media
-- do-you-know-that-posts-with-images-are-more-engaging
+- add-sections-time-and-links-on-video-description
+- keep-your-social-media-updated
+- add-tracking-codes-in-urls
+- image-size-instagram
+- posts-with-images-are-more-engaging
 - do-you-know-why-you-should-use-memes-as-part-of-your-business-social-media-content
 - branding---do-you-know-when-to-use-an-overlay-on-images
-- do-you-know-how-to-take-great-photos-for-your-socials
+- know-how-to-take-great-photos-for-your-socials
 - do-you-know-what-type-of-content-marketing-you-should-post-on-your-socials
 - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
 redirects:
-- image-standard-sizes-on-social-media
 - do-you-follow-image-standard-sizes-on-social-media
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- name-your-events-properly
 - do-you-name-your-events-properly
 
 ---

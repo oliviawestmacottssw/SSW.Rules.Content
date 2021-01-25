@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- how-string-should-be-quoted
 - c-code-do-you-use-string-literals
 
 ---

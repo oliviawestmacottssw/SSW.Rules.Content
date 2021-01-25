@@ -14,7 +14,6 @@ related:
 - quality---do-you-know-how-to-request-a-"test-please"
 - conduct-a-test-please-internally-and-then-with-the-client
 redirects:
-- do-you-conduct-a-＂test-please＂-internally-and-then-with-the-client
 - conduct-a-test-please-internally-and-then-with-te-client
 - do-you-conduct-a-test-please-internally-and-then-with-the-client
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-remind-your-boss-of-daily-events-on-a-＂just-in-time＂-basis
 - do-you-remind-your-boss-of-daily-events-on-a-just-in-time-basis
 
 ---

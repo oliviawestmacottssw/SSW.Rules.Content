@@ -13,7 +13,6 @@ authors:
 related:
 - do-you-link-your-social-accounts-to-bitly
 redirects:
-- text-limit-for-images
 - do-you-know-the-text-limit-for-images
 
 ---

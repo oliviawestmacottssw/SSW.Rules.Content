@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/brittany-lawrence
 related: []
 redirects:
-- be-prepared-for-inbound-calls
 - do-you-know-how-to-be-prepared-for-inbound-calls
 
 ---

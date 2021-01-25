@@ -7,9 +7,8 @@ uri: use-words-instead-of-digits-for-low-numbers
 created: 2016-04-21T05:57:12.0000000Z
 authors: []
 related:
-- do-you-make-numbers-more-readable
+- make-numbers-more-readable
 redirects:
-- use-words-instead-of-digits-for-low-numbers
 - do-you-use-words-instead-of-digits-for-low-numbers
 
 ---

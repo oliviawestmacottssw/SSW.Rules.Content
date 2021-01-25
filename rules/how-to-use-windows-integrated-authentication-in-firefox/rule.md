@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/peter-gfader
 related: []
 redirects:
-- how-to-use-windows-integrated-authentication-in-firefox
 - do-you-know-how-to-use-windows-integrated-authentication-in-firefox
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-double-negative-conditionals-in-if-statements
 - do-you-avoid-double-negative-conditionals-in-if-statements
 
 ---

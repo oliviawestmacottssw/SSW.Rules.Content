@@ -15,8 +15,7 @@ authors:
 - title: Justin King
   url: https://ssw.com.au/people/justin-king
 related: []
-redirects:
-- does-your-scrum-master-(aka-project-manager)-maintain-a-strict-project-schedule
+redirects: []
 
 ---
 

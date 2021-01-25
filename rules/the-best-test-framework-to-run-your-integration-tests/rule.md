@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- the-best-test-framework-to-run-your-integration-tests
 - do-you-know-the-best-test-framework-to-run-your-integration-tests
 
 ---

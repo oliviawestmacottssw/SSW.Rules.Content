@@ -11,8 +11,7 @@ authors:
 - title: Danijel Malik
   url: https://ssw.com.au/people/danijel-malik
 related: []
-redirects:
-- do-you-know-the-code-health-(quality-gates)-to-add
+redirects: []
 
 ---
 

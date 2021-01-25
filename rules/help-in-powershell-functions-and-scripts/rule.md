@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- help-in-powershell-functions-and-scripts
 - do-you-use-comment-based-help-in-powershell-functions-and-scripts
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- monitor-the-uptimes-of-all-your-servers-daily
 - do-you-monitor-the-uptimes-of-all-your-servers-daily
 
 ---

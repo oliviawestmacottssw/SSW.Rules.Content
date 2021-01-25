@@ -13,7 +13,6 @@ related:
 - do-you-check-your-boarding-pass
 - do-you-take-advantage-of-business-rewards-programs
 redirects:
-- do-you-know-the-best-online-accommodation-websites
 - accommodation-do-you-know-the-best-online-accommodation-websites
 
 ---

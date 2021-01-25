@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-an-uptime-report-for-your-website
 - do-you-have-uptime-report-for-your-website
 
 ---

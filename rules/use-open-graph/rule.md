@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- use-open-graph
 - do-you-use-open-graph-to-control-how-your-links-are-shared
 
 ---

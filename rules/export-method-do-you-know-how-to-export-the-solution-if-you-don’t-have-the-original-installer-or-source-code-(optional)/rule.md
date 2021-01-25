@@ -13,8 +13,7 @@ authors:
 - title: William Yin
   url: https://ssw.com.au/people/william-yin
 related: []
-redirects:
-- export-method-do-you-know-how-to-export-the-solution-if-you-don’t-have-the-original-installer-or-source-code-(optional)
+redirects: []
 
 ---
 

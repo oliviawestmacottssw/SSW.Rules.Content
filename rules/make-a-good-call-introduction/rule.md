@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- make-a-good-call-introduction
 - calling-do-you-have-a-good-introduction
 
 ---

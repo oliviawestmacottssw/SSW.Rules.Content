@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- spec-do-you-create-tasks-under-4-hours
 - spec-do-you-keep-your-pbis-smaller-than-2-days-effort
 
 ---

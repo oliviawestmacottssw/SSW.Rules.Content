@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-a-schema-master
 - do-you-have-a-＂schema-master＂
 - do-you-have-a-schema-master
 

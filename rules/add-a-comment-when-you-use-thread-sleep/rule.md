@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- add-a-comment-when-you-use-thread-sleep
 - comments-do-you-add-a-comment-when-you-use-thread-sleep
 
 ---

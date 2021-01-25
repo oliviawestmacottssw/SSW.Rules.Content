@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related: []
 redirects:
-- review-your-intranet-for-classic-pages
 - sharepoint-online-do-you-review-your-intranet-for-classic-pages
 
 ---

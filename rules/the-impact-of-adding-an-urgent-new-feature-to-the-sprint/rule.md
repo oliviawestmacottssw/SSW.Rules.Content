@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-impact-of-adding-an-urgent-new-feature-to-the-sprint
 - do-you-know-the-impact-of-adding-an-＂urgent-new-feature＂-to-the-sprint
 - do-you-know-the-impact-of-adding-an-urgent-new-feature-to-the-sprint
 

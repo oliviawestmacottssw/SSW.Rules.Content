@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steve-leigh
 related: []
 redirects:
-- write-end-to-end-tests-for-critical-happy-paths
 - do-you-write-end-to-end-tests-for-critical-happy-paths
 
 ---

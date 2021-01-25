@@ -7,8 +7,7 @@ uri: do-you-always-quote-price-plus-gst-(tax)
 created: 2010-07-16T04:38:32.0000000Z
 authors: []
 related: []
-redirects:
-- do-you-always-quote-price-plus-gst-(tax)
+redirects: []
 
 ---
 

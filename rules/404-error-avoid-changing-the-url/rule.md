@@ -8,7 +8,6 @@ created: 2016-08-11T18:08:44.0000000Z
 authors: []
 related: []
 redirects:
-- 404-error-avoid-changing-the-url
 - do-you-avoid-changing-the-url-on-a-404-error
 
 ---

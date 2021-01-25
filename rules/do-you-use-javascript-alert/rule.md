@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/danijel-malik
 related: []
 redirects:
-- do-you-use-javascript-alert
 - popup-do-you-know-javascript-alerts-are-evil
 
 ---

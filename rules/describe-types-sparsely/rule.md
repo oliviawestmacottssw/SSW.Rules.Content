@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steve-leigh
 related: []
 redirects:
-- describe-types-sparsely
 - do-you-describe-types-sparsely
 
 ---

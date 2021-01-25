@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/chris-clement
 related: []
 redirects:
-- calendar-do-you-know-the-ways-to-share-and-see-others-calendars
 - calendar-do-you-know-the-ways-to-see-others-calendars
 
 ---

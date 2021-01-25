@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- use-azure-policies
 - do-you-use-azure-policies
 
 ---

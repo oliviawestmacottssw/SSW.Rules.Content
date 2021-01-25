@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- use-the-mediator-pattern-with-cqrs
 - do-you-use-the-mediator-pattern-with-cqrs
 
 ---

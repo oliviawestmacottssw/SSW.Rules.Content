@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- brand-your-assets
 - do-you-brand-your-assets
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- how-to-maintain-productivity
 - do-you-know-how-to-maintain-productivity
 
 ---

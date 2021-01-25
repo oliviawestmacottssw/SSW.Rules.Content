@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- purchase-online-as-your-1st-option-think-of-your-experience-and-have-a-voice
 - do-you-purchase-online-as-your-1st-option-think-of-your-experience-and-have-a-voice
 
 ---

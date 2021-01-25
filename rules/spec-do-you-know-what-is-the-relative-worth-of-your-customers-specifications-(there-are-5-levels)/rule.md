@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- spec-do-you-know-what-is-the-relative-worth-of-your-customers-specifications-(there-are-5-levels)
 - spec-do-you-know-how-thorough-your-customers-specifications-are-(there-are-5-levels)
 
 ---

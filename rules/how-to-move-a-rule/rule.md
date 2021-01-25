@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- how-to-move-a-rule
 - do-you-know-how-to-move-a-rule-(internal-only)
 - sharepoint-do-you-know-how-to-move-a-rule-(internal-only)
 

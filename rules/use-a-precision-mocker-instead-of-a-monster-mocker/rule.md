@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- use-a-precision-mocker-instead-of-a-monster-mocker
 - do-you-use-a-precision-mocker’-like-moq-instead-of-a-monster-mocker’-like-microsoft-fakes
 
 ---

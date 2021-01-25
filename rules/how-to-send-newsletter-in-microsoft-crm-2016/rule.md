@@ -8,7 +8,6 @@ created: 2016-12-20T23:23:35.0000000Z
 authors: []
 related: []
 redirects:
-- how-to-send-newsletter-in-microsoft-crm-2016
 - do-you-know-how-to-send-newsletters-in-microsoft-dynamics-crm-2016
 
 ---

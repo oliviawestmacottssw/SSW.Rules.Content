@@ -11,8 +11,7 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects:
-- do-you-get-a-signed-copy-of-the-whole-terms-and-conditions-document-(not-just-the-last-page)
+redirects: []
 
 ---
 

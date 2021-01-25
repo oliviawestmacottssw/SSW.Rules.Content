@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- know-the-right-notification-for-backups
 - do-you-know-the-right-notification-for-backups
 
 ---

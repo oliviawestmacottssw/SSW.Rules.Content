@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- use-generic-consistent-names-on-examples
 - do-you-use-generic-and-consistent-names-on-examples
 
 ---

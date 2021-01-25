@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- do-you-avoid-using-out-of-office
 - do-you-minimise-the-use-of-out-of-office
 
 ---

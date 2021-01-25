@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
-- record-better-audio
 - do-you-record-better-audio
 
 ---

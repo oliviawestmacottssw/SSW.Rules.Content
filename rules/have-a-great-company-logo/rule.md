@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-a-great-company-logo
 - do-you-have-a-great-company-logo
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- things-to-measure
 - devops-–-stage-1-do-you-know-what-things-to-measure
 
 ---

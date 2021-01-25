@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/martin-li
 related: []
 redirects:
-- do-you-use-client-side-tools-for-localization-as-much-as-possible
 - do-you-use-client-side-tools-for-localization-as-much-as-possible-(2)
 
 ---

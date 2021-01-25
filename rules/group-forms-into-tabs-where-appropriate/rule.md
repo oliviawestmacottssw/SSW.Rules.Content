@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- group-forms-into-tabs-where-appropriate
 - do-you-group-forms-into-tabs-where-appropriate
 
 ---

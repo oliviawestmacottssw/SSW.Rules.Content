@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- the-best-build-tool
 - tools-do-you-know-the-best-build-tool
 
 ---

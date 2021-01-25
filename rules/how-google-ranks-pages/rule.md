@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- how-google-ranks-pages
 - do-you-know-how-google-ranks-pages
 
 ---

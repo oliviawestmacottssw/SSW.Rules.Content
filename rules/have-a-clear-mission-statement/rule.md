@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- have-a-clear-mission-statement
 - do-you-have-a-clear-mission-statement
 
 ---

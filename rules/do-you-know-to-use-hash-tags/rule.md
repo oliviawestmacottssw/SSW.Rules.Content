@@ -21,7 +21,7 @@ related:
 - do-you-use-a-conversion-code-in-your-lead-generation-campaigns
 - twitter---do-you-know-the-best-practices-for-your-twitter-ads
 - do-you-follow-image-standard-sizes-on-social-media
-- do-you-keep-your-social-media-updated
+- keep-your-social-media-updated
 - do-you-add-tracking-codes-in-urls
 - do-you-know-how-to-weed-out-spammers
 - do-you-follow-minimum-image-sizes-on-social-media
@@ -32,7 +32,6 @@ related:
 - do-you-know-what-type-of-content-marketing-you-should-post-on-your-socials
 - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
 redirects:
-- do-you-know-to-use-hash-tags
 - do-you-use-and-encourage-others-to-use-hashtags
 
 ---

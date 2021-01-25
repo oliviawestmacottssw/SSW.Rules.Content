@@ -7,8 +7,7 @@ uri: control-choice-do-you-use-a-gridview-(over-the-listbox)
 created: 2012-11-27T08:44:11.0000000Z
 authors: []
 related: []
-redirects:
-- control-choice-do-you-use-a-gridview-(over-the-listbox)
+redirects: []
 
 ---
 

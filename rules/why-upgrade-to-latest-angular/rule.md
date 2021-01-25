@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- why-upgrade-to-latest-angular
 - why-upgrade-to-angular-2
 - do-you-know-why-to-upgrade-from-angularjs-to-angular
 

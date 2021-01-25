@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- reference-websites-when-you-implement-something-you-found-on-google
 - do-you-reference-websites-when-you-implement-something-you-found-on-google
 
 ---

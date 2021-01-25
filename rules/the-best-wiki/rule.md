@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- the-best-wiki
 - do-you-know-the-best-wiki-for-microsoft-teams
 
 ---

@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- scheduling-do-you-know-how-to-view-the-availability-of-each-developer-(resource-scheduling)
+redirects: []
 
 ---
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- tell-the-coding-standards-you-expect
 - do-you-tell-people-the-coding-standards-you-expect
 
 ---

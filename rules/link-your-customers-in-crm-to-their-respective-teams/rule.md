@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- link-your-customers-in-crm-to-their-respective-teams
 - dynamics-and-teams-do-you-link-your-customers-in-crm-to-their-respective-teams
 
 ---

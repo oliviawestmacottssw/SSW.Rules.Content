@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- make-sure-you-use-a-consistent-collation-server-wide
 - dbas-do-you-make-sure-you-use-a-consistent-collation-server-wide
 
 ---

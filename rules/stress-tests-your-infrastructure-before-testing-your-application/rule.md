@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- stress-tests-your-infrastructure-before-testing-your-application
 - do-you-stress-tests-your-infrastructure-before-testing-your-application
 
 ---

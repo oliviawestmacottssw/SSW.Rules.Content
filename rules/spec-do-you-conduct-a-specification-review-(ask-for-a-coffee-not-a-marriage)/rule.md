@@ -17,8 +17,7 @@ authors:
 - title: Edgar Rocha
   url: https://ssw.com.au/people/edgar-rocha
 related: []
-redirects:
-- spec-do-you-conduct-a-specification-review-(ask-for-a-coffee-not-a-marriage)
+redirects: []
 
 ---
 

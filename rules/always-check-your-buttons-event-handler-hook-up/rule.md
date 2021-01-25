@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- always-check-your-buttons-event-handler-hook-up
 - do-you-always-check-your-buttons-event-handler-hook-up
 
 ---

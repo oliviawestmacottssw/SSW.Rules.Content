@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/damian-brady
 related: []
 redirects:
-- do-you-know-which-check-in-policies-to-enable1
 - do-you-know-which-check-in-policies-to-enable
 
 ---

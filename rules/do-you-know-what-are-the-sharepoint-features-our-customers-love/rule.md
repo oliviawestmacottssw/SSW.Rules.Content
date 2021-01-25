@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-know-what-are-the-sharepoint-features-our-customers-love
 - do-you-know-what-are-the-sharepoint-features-customers-love
 
 ---

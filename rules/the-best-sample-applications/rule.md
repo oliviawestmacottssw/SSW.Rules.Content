@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/gabriel-george
 related: []
 redirects:
-- the-best-sample-applications
 - do-you-know-the-best-sample-applications
 
 ---

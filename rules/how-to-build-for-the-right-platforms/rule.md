@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- how-to-build-for-the-right-platforms
 - do-you-know-how-to-build-for-the-right-platforms
 
 ---

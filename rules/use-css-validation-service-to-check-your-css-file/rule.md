@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-css-validation-service-to-check-your-css-file
 - do-you-use-css-validation-service-to-check-your-css-file
 
 ---

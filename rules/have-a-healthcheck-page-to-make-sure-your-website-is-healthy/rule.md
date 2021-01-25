@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- have-a-healthcheck-page-to-make-sure-your-website-is-healthy
 - do-you-have-a-healthcheck-page-(from-zsvalidate)-to-make-sure-your-website-is-healthy
 
 ---

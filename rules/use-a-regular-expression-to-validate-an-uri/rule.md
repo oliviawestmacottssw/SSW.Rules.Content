@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-a-regular-expression-to-validate-an-uri
 - do-you-use-a-regular-expression-to-validate-an-url
 
 ---

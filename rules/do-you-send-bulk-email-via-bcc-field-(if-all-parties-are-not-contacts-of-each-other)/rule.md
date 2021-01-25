@@ -11,8 +11,7 @@ authors:
 - title: Cameron Shaw
   url: https://ssw.com.au/people/cameron-shaw
 related: []
-redirects:
-- do-you-send-bulk-email-via-bcc-field-(if-all-parties-are-not-contacts-of-each-other)
+redirects: []
 
 ---
 

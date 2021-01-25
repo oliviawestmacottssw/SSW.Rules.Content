@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/shane-ye
 related: []
 redirects:
-- do-you-use-cdn-for-js-files
 - do-you-use-a-content-delivery-network-(cdn)
 
 ---

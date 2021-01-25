@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- create-a-solution-and-use-the-current-environment-when-creating-flow-for-dynamics
 - do-you-create-a-solution-and-use-the-current-environment-when-creating-flow-for-dynamics
 
 ---

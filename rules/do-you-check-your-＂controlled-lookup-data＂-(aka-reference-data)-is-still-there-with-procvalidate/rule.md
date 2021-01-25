@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-check-your-＂controlled-lookup-data＂-(aka-reference-data)-is-still-there-with-procvalidate
 - do-you-check-your-controlled-lookup-data-(aka-reference-data)-is-still-there-with-procvalidate
 
 ---

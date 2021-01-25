@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/john-liu
 related: []
 redirects:
-- ideal-place-to-store-employee-skills
 - do-you-know-the-ideal-place-to-store-employee-skills
 
 ---

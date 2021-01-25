@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- comment-when-your-code-is-updated
 - do-you-know-the-best-way-to-track-comments-when-your-code-is-updated
 
 ---

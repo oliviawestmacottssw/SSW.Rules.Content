@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- do-you-know-how-to-deal-with-negative-comments
 - do-you-know-how-to-deal-with-negative-and-inappropriate-comments
 
 ---

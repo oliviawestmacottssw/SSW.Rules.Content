@@ -11,8 +11,8 @@ authors:
 related:
 - do-you-know-that-you-should-use-subdirectories,-not-domains
 - do-you-keep-your-content-consistent-across-your-different-social-media-platforms
-- do-you-keep-your-social-media-updated
-- do-you-use-and-encourage-others-to-use-hashtags
+- keep-your-social-media-updated
+- do-you-know-to-use-hash-tags
 - do-you-know-how-to-weed-out-spammers
 - do-you-follow-minimum-image-sizes-on-social-media
 - do-you-know-that-posts-with-images-are-more-engaging
@@ -22,7 +22,6 @@ related:
 - do-you-follow-image-standard-sizes-on-social-media
 - do-you-know-what-type-of-content-marketing-you-should-post-on-your-socials
 redirects:
-- add-tracking-codes-in-urls
 - do-you-add-tracking-codes-in-urls
 
 ---

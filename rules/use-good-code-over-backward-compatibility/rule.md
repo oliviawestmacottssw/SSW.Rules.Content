@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-good-code-over-backward-compatibility
 - do-you-use-good-code-over-backward-compatibility
 
 ---

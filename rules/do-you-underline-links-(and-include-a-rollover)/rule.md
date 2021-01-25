@@ -13,8 +13,7 @@ authors:
 - title: Tiago Araujo
   url: https://ssw.com.au/people/tiago-araujo
 related: []
-redirects:
-- do-you-underline-links-(and-include-a-rollover)
+redirects: []
 
 ---
 

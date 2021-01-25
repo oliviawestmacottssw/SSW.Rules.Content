@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- what-are-the-best-examples-of-technically-cool-jquery-plug-ins
 - do-you-know-what-are-the-best-examples-of-technically-cool-jquery-plug-ins
 
 ---

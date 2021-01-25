@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- research-your-buyer-personas
 - do-you-know-your-buyer-personas
 
 ---

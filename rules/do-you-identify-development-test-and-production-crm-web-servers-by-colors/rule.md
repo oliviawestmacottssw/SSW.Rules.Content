@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related: []
 redirects:
-- do-you-identify-development-test-and-production-crm-web-servers-by-colors
 - do-you-identify-development-test-and-production-web-servers-by-colors
 
 ---

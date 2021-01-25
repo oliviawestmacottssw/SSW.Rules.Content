@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/mark-liu
 related: []
 redirects:
-- setup-web-application-for-internal-and-external-access
 - do-you-setup-web-application-for-internal-and-external-access
 
 ---

@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/jade-mitchell
 related: []
 redirects:
-- do-you-use-＂-back＂-instead-of-＂-previous＂-or-other-variations
 - do-you-use-back-instead-of-previous-or-other-variations
 
 ---

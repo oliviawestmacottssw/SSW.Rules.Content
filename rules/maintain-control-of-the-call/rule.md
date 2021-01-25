@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- maintain-control-of-the-call
 - do-you-maintain-control-of-the-call
 
 ---

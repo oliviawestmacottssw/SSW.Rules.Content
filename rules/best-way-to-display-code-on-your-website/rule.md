@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- best-way-to-display-code-on-your-website
 - do-you-know-the-best-way-to-display-code-on-your-website
 
 ---

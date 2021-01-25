@@ -8,7 +8,6 @@ created: 2014-11-05T23:40:22.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-ensure-speakers-use-a-microphone
 - setup-do-you-ensure-speakers-use-a-microphone
 
 ---

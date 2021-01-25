@@ -8,7 +8,6 @@ created: 2016-05-20T06:51:56.0000000Z
 authors: []
 related: []
 redirects:
-- extend-web-application-for-https
 - search-do-you-add-https-by-extending-web-application
 
 ---

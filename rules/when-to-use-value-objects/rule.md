@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- when-to-use-value-objects
 - do-you-know-when-to-use-value-objects
 
 ---

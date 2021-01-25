@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- do-you-use-typescript-for-your-angular-and-react-applications
 - do-you-use-typescript-for-your-angular-2-applications
 - options-do-you-use-typescript-for-your-angular-and-react-applications
 

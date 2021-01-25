@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- validate-each-denormalized-field-with-procvalidate
 - do-you-validate-each-denormalized-field-with-procvalidate
 - schema-do-you-validate-each-denormalized-field-with-procvalidate
 

@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- do-you-label-broken-equipment
 - office-environment-do-you-label-broken-equipment
 
 ---

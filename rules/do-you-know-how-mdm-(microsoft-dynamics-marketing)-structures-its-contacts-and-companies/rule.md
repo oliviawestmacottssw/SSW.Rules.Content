@@ -9,8 +9,7 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
-redirects:
-- do-you-know-how-mdm-(microsoft-dynamics-marketing)-structures-its-contacts-and-companies
+redirects: []
 
 ---
 

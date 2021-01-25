@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/steve-leigh
 related: []
 redirects:
-- have-a-good-intro-and-closing-for-product-demonstrations
 - do-you-have-a-good-intro-and-closing-for-your-product-demonstrations
 
 ---

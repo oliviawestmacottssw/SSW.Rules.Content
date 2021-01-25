@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/gabriel-george
 related: []
 redirects:
-- have-a-pleasant-development-workflow
 - tips-do-you-have-a-pleasant-development-workflow
 
 ---

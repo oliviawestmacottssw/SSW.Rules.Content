@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- add-quality-control-to-dones
 - dones-do-you-add-(or-show)-your-quality-control
 - dones-do-you-show-quality-control-with-checked-by-xxx
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- tweet-rules-you-follow
 - exercise-if-you-use-a-rule-then-tweet-it
 - twitter-do-you-tweet-rules-that-you-follow
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- crm-proper-tools
 - do-you-have-proper-tools-in-your-tool-belt
 
 ---

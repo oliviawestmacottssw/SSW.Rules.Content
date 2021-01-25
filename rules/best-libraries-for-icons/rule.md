@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- best-libraries-for-icons
 - do-you-use-font-awesome-for-icons
 - do-you-use-the-best-libraries-for-icons
 

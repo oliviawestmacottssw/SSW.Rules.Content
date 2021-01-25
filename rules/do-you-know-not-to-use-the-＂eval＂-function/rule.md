@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- do-you-know-not-to-use-the-＂eval＂-function
 - do-you-know-not-to-use-the-eval-function
 
 ---

@@ -11,8 +11,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-have-a-dog-(aka-digital-on-screen-graphic)-on-your-videos
+redirects: []
 
 ---
 

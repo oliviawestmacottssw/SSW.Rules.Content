@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related: []
 redirects:
-- how-to-avoid-errors-on-sharepoint-migration
 - do-you-know-how-to-avoid-errors
 
 ---

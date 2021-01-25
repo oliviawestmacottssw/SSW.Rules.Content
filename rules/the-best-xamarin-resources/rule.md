@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- the-best-xamarin-resources
 - do-you-know-where-to-find-the-best-xamarin-resources
 
 ---

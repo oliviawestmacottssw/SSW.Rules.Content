@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- the-application-–-do-you-make-the-app-do-the-work
+redirects: []
 
 ---
 

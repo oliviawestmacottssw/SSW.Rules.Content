@@ -7,11 +7,10 @@ uri: use-cannot-and-website-instead-of-separated-words
 created: 2016-04-21T04:47:12.0000000Z
 authors: []
 related:
-- tiny-do-you-know-commas-and-full-stops-always-should-have-1-space-after-them
-- reference-do-you-use-quotation-mark-for-controls
-- do-you-know-how-to-make-quotations-easier-to-identify
+- commas-and-full-stops-always-should-have-1-space-after-them
+- use-quotation-mark-for-controls
+- how-to-add-quotations
 redirects:
-- use-cannot-and-website-instead-of-separated-words
 - tiny-do-you-use-cannot-and-website-instead-of-separated-words
 
 ---

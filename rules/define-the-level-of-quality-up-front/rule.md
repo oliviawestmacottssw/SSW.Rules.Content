@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
-- define-the-level-of-quality-up-front
 - pre-production-do-you-define-the-level-of-quality-up-front-(gold-vs-silver)
 
 ---

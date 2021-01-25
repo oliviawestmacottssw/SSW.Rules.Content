@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/sebastien-boissiere
 related: []
 redirects:
-- add-multilingual-support-on-angular
 - do-you-add-multilingual-support-(angular)
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/christian-morford-waite
 related: []
 redirects:
-- datetime-fields-must-be-converted-to-universal-time
 - data-dates-do-you-know-datetime-fields-must-be-converted-to-universal-time
 
 ---

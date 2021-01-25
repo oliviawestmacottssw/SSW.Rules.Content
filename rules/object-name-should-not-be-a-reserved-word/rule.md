@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- object-name-should-not-be-a-reserved-word
 - general-do-you-know-object-name-should-not-be-a-reserved-word
 
 ---

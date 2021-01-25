@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- the-best-practices-for-google-ads
 - do-you-know-the-best-practices-for-google-ads
 
 ---

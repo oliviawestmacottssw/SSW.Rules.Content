@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-use-american-spelling-for-your-website
 - seo-do-you-use-american-spelling-for-your-website
 
 ---

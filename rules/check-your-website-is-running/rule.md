@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- check-your-website-is-running
 - do-you-check-if-your-website-is-running
 
 ---

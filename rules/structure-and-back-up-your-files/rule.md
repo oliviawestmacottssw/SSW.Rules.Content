@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
-- structure-and-back-up-your-files
 - do-you-structure-and-back-up-your-files
 
 ---

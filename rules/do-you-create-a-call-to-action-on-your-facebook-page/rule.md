@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- do-you-create-a-call-to-action-on-your-facebook-page
 - facebook-do-you-create-a-call-to-action-on-your-facebook-page
 
 ---

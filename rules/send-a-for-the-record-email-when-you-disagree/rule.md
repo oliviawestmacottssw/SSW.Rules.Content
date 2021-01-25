@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- send-a-for-the-record-email-when-you-disagree
 - do-you-send-a-for-the-record’-email-when-you-disagree
 - do-you-send-a-for-the-record-email-when-you-disagree
 

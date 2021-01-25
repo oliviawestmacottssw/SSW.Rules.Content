@@ -8,7 +8,6 @@ created: 2012-11-27T04:26:58.0000000Z
 authors: []
 related: []
 redirects:
-- messages-do-you-avoid-giving-an-＂error＂-message-for-validation-purposes
 - messages-do-you-avoid-giving-an-error-message-for-validation-purposes
 
 ---

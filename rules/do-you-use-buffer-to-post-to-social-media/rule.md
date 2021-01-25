@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/brittany-lawrence
 related: []
 redirects:
-- do-you-use-buffer-to-post-to-social-media
 - do-you-use-buffer-to-post-on-social-media
 
 ---

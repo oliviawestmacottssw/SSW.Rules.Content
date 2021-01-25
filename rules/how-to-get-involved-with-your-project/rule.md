@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- how-to-get-involved-with-your-project
 - do-you-tell-people-how-to-get-involved-with-your-project
 
 ---

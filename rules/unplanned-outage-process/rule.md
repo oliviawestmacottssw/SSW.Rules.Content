@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- unplanned-outage-process
 - do-you-have-an-unplanned-outage-process
 
 ---

@@ -11,8 +11,7 @@ authors:
 - title: Jay Lin
   url: https://ssw.com.au/people/jay-lin
 related: []
-redirects:
-- do-you-know-to-try-to-use-the-content-query-web-part-(cqwp)-over-the-data-view-web-part-(dvwp)
+redirects: []
 
 ---
 

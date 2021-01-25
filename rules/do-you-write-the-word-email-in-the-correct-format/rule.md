@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-write-the-word-email-in-the-correct-format
 - spelling-do-you-write-the-word-email-in-the-correct-format
 
 ---

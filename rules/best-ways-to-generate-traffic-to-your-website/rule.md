@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- best-ways-to-generate-traffic-to-your-website
 - do-you-know-the-best-ways-to-generate-traffic-to-your-website
 
 ---

@@ -13,7 +13,6 @@ authors:
 related:
 - do-you-use-a-finger-scanner-to-monitor-access-to-secure-areas
 redirects:
-- do-you-colour-code-your-keys
 - do-you-color-code-your-keys
 
 ---

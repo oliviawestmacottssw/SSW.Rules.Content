@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-photos-of-your-employees-to-make-the-document-more-personal
 - do-you-use-photos-of-your-employees-to-make-the-document-more-personal
 
 ---

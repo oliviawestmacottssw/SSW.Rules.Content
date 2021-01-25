@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/patricia-barros
 related: []
 redirects:
-- use-report-server-project
 - do-you-use-report-server-project
 
 ---

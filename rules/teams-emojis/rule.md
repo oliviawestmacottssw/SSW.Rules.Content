@@ -13,7 +13,6 @@ authors:
 related:
 - do-you-write-nice-commit-messages
 redirects:
-- teams-emojis
 - team-names-do-you-use-emojis-in-your-teams-channel-names
 
 ---

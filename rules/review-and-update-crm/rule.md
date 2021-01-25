@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matthew-sampias
 related: []
 redirects:
-- review-and-update-crm
 - do-you-review-and-update-crm
 
 ---

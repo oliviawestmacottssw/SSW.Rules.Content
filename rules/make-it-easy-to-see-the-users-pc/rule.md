@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- make-it-easy-to-see-the-users-pc
 - do-you-know-the-best-methods-to-remotely-access-control-a-users-pc
 
 ---

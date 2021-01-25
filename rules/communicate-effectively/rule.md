@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- communicate-effectively
 - do-you-know-to-communicate-effectively
 
 ---

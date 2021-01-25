@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- know-your-marketing-efforts
 - do-you-know-your-marketing-efforts
 
 ---

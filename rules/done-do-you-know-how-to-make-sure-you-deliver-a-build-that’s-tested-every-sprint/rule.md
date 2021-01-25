@@ -13,8 +13,7 @@ authors:
 - title: Martin Hinshelwood
   url: https://ssw.com.au/people/martin-hinshelwood
 related: []
-redirects:
-- done-do-you-know-how-to-make-sure-you-deliver-a-build-that’s-tested-every-sprint
+redirects: []
 
 ---
 

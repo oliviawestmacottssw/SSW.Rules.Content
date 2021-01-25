@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-ui-in-event-names
 - do-you-avoid-ui-in-event-names
 
 ---

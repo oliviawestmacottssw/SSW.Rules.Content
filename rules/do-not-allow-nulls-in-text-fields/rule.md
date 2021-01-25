@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-not-allow-nulls-in-text-fields
 - data-do-you-not-allow-nulls-in-text-fields
 
 ---

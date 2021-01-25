@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- progressive-web-app
 - do-you-have-a-pwa-(progressive-web-app)
 
 ---

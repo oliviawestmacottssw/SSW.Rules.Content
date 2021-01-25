@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- update-or-delete-mistakes
 - clarity-do-you-update-or-delete-message-mistakes
 
 ---

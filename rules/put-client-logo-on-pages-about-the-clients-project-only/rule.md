@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- put-client-logo-on-pages-about-the-clients-project-only
 - do-you-to-put-the-client-logo-on-the-pages-that-are-about-the-clients-project-only
 
 ---

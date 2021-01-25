@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- include-commercial-in-confidence-in-your-proposal
 - do-you-include-commercial-in-confidence-in-your-proposal
 
 ---

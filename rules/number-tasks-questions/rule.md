@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- number-tasks-questions
 - do-you-number-tasks-or-questions-you-would-like-a-reply-to
 - do-you-number-tasks-questions
 

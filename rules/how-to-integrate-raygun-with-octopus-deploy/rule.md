@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- how-to-integrate-raygun-with-octopus-deploy
 - do-you-know-how-to-integrate-raygun-with-octopus-deploy
 
 ---

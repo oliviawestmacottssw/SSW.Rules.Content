@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/rebecca-liu
 related: []
 redirects:
-- how-to-align-your-form-labels
 - do-you-know-how-to-align-your-form-labels
 
 ---

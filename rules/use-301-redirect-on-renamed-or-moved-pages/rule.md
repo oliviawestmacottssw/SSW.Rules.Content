@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- use-301-redirect-on-renamed-or-moved-pages
 - do-you-use-301-code-to-redirect-renamed-or-moved-pages
 
 ---

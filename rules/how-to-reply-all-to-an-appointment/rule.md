@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- how-to-reply-all-to-an-appointment
 - appointments-do-you-know-how-to-reply-all-to-an-appointment
 
 ---

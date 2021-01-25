@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- use-configuration-files-for-powershell-scripts
 - do-you-use-configuration-files-for-powershell-scripts
 
 ---

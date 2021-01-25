@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- appointments-do-you-explain-why-youve-deleted-or-modified-an-appointment
 - appointments-do-you-explain-why-youve-deleted-or-updated-an-appointment
 
 ---

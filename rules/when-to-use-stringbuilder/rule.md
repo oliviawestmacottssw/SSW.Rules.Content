@@ -8,7 +8,6 @@ created: 2019-01-12T01:08:17.0000000Z
 authors: []
 related: []
 redirects:
-- when-to-use-stringbuilder
 - do-you-know-when-to-use-stringbuilder
 
 ---

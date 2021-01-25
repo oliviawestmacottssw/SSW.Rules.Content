@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- include-important-keywords-where-it-matters
 - do-you-include-important-keywords-where-it-matters
 
 ---

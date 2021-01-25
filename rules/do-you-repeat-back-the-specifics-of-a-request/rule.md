@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-repeat-back-the-specifics-of-a-request
 - communication-do-you-repeat-back-the-specifics-of-a-request
 
 ---

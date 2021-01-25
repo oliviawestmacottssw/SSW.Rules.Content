@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/martin-hinshelwood
 related: []
 redirects:
-- encourage-blog-comments
 - do-you-know-how-to-invite-replies
 - do-you-know-how-to-encourage-blog-comments
 

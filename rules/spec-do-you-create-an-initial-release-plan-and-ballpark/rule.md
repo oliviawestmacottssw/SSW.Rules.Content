@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/justin-king
 related: []
 redirects:
-- spec-do-you-create-an-initial-release-plan-and-ballpark
 - spec-what-are-the-specification-review-deliverables
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- cars-branding
 - do-you-brand-your-cars
 
 ---

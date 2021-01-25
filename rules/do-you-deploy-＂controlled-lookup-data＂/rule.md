@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-deploy-＂controlled-lookup-data＂
 - do-you-deploy-controlled-lookup-data
 
 ---

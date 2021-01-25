@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- claim-your-power-apps-community-plan
 - do-you-know-to-claim-your-power-apps-community-plan
 
 ---

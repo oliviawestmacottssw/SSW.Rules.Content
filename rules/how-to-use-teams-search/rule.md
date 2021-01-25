@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related: []
 redirects:
-- how-to-use-teams-search
 - do-you-know-how-to-use-teams-search
 
 ---

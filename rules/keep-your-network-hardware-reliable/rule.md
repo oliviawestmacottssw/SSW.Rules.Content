@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- keep-your-network-hardware-reliable
 - do-you-keep-your-network-hardware-reliable
 
 ---

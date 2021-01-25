@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-empty-code-block
 - do-you-avoid-empty-code-blocks
 
 ---

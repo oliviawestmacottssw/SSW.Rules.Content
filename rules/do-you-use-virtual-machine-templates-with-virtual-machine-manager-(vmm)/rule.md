@@ -7,8 +7,7 @@ uri: do-you-use-virtual-machine-templates-with-virtual-machine-manager-(vmm)
 created: 2019-10-18T00:33:00.0000000Z
 authors: []
 related: []
-redirects:
-- do-you-use-virtual-machine-templates-with-virtual-machine-manager-(vmm)
+redirects: []
 
 ---
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/drew-robson
 related: []
 redirects:
-- use-css-class-form-horizontal-to-arrange-fields-and-labels
 - do-you-use-the-css-class-＂form-horizontal＂-to-arrange-your-fields-and-labels
 - do-you-use-the-css-class-form-horizontal-to-arrange-your-fields-and-labels
 

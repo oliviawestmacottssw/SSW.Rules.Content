@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- the-steps-to-do-after-adding-a-page
 - do-you-know-the-steps-to-do-after-adding-an-aspx-page
 
 ---

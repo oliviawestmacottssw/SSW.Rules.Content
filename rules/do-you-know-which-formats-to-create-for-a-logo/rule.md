@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ken-shi
 related: []
 redirects:
-- do-you-know-which-formats-to-create-for-a-logo
 - do-you-know-the-formats-and-variations-to-create-for-a-logo
 - do-you-know-which-formats-and-variations-to-create-for-a-logo
 

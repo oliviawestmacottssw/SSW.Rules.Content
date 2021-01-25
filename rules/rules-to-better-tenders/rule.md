@@ -8,7 +8,6 @@ created: 2020-09-04T04:41:38.0000000Z
 authors: []
 related: []
 redirects:
-- rules-to-better-tenders
 - do-you-know-when-to-go-for-a-tender
 
 ---

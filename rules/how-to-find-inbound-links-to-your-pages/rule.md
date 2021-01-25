@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- how-to-find-inbound-links-to-your-pages
 - does-your-website-have-backlinks-pointing-to-it
 
 ---

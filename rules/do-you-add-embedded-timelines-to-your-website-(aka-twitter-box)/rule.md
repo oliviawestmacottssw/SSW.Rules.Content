@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- do-you-add-embedded-timelines-to-your-website-(aka-twitter-box)
 - do-you-add-embedded-social-media-to-your-website-(aka-twitter-box)
 
 ---

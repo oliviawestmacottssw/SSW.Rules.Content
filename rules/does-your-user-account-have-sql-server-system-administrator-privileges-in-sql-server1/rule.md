@@ -8,7 +8,6 @@ created: 2015-08-12T15:57:43.0000000Z
 authors: []
 related: []
 redirects:
-- does-your-user-account-have-sql-server-system-administrator-privileges-in-sql-server1
 - does-your-user-account-have-sql-server-system-administrator-privileges-in-sql-server
 
 ---

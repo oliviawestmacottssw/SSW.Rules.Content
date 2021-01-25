@@ -12,7 +12,6 @@ related:
 - tiny-do-you-use-"cannot"-and-"website"-instead-of-separated-words
 - tiny-do-you-avoid-full-stops-at-the-end-of-bullet-point-lists
 redirects:
-- commas-and-full-stops-always-should-have-1-space-after-them
 - tiny-do-you-know-commas-and-full-stops-always-should-have-1-space-after-them
 
 ---

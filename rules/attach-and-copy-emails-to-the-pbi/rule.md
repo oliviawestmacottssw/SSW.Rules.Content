@@ -18,7 +18,6 @@ authors:
   url: https://ssw.com.au/people/patricia-barros
 related: []
 redirects:
-- attach-and-copy-emails-to-the-pbi
 - do-you-attach-emails-to-the-pbi
 - do-you-attach-and-copy-emails-to-the-pbi
 

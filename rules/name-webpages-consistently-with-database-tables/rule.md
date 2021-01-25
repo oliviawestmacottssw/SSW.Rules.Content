@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- name-webpages-consistently-with-database-tables
 - do-you-name-web-pages-to-be-consistent-with-database-tables
 
 ---

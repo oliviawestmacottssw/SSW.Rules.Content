@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- controls-do-you-include-a-＂select-all＂-checkbox-on-the-top
 - controls-do-you-include-a-select-all-checkbox-on-the-top
 
 ---

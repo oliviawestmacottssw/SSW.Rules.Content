@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- write-integration-test-for-dependencies
 - do-you-write-integration-test-for-dependencies-e-g-dlls
 
 ---

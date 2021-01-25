@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- make-your-site-easy-to-maintain
 - do-you-make-your-site-easy-to-maintain
 
 ---

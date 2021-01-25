@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- comment-each-property-and-method
 - comments-do-you-comment-each-property-and-method
 
 ---

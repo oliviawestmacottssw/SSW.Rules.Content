@@ -9,8 +9,7 @@ authors:
 - title: Greg Harris
   url: https://ssw.com.au/people/greg-harris
 related: []
-redirects:
-- do-you-verify-that-report-server-authentication-settings-allow-a-wide-range-of-web-browsers
+redirects: []
 
 ---
 

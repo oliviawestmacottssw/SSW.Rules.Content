@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- check-your-teams-backup-status
 - do-you-check-your-teams-backup-status
 
 ---

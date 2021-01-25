@@ -11,10 +11,9 @@ authors:
 related:
 - do-you-know-why-you-need-to-understand-your-perfect-prospects-pain-points
 - do-you-know-how-to-test-which-pain-points-are-relevant-to-your-prospect
-- do-you-follow-minimum-image-sizes-on-social-media
+- image-size-instagram
 - do-you-know-how-to-discover-your-perfect-prospectâ€™s-pain-points
-redirects:
-- do-you-know-how-to-use-a-perfect-prospect’s-pain-points-in-your-online-marketing
+redirects: []
 
 ---
 

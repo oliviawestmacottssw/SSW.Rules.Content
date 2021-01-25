@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- use-version-numbers-and-well-formatted-notes-to-keep-track-of-solution-changes
 - do-you-use-version-numbers-and-well-formatted-notes-to-keep-track-of-solution-changes
 
 ---

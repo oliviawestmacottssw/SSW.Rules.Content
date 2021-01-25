@@ -11,7 +11,6 @@ authors:
 related:
 - general---do-you-know-every-object-name-should-be-owned-by-dbo
 redirects:
-- sql-stored-procedure-names-should-be-prefixed-with-the-owner
 - stored-procedures-do-you-know-sql-stored-procedure-names-should-be-prefixed-with-the-owner
 
 ---

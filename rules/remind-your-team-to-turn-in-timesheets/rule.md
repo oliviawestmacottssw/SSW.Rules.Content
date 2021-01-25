@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matthew-sampias
 related: []
 redirects:
-- remind-your-team-to-turn-in-timesheets
 - do-you-remind-your-team-to-turn-in-timesheets
 
 ---

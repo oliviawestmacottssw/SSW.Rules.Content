@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/christian-morford-waite
 related: []
 redirects:
-- how-to-provide-best-database-schema-document
 - schema-do-you-know-how-to-provide-best-database-schema-document
 
 ---

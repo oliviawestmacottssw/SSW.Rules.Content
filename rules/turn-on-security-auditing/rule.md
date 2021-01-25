@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- turn-on-security-auditing
 - dbas-do-you-turn-on-security-auditing
 
 ---

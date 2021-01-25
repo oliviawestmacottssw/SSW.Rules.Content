@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-appropriate-and-user-friendly-icons
 - do-you-use-appropriate-and-user-friendly-icons
 
 ---

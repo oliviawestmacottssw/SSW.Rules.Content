@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- the-right-mobile-tool-for-the-job
 - do-you-know-the-right-mobile-tool-for-the-job
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-robots-txt-effectively
 - do-you-use-your-robots-txt-file-effectively
 
 ---

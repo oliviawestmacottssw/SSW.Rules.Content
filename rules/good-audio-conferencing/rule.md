@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- good-audio-conferencing
 - setup-do-you-have-good-audio-conferencing
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- remove-the-debug-attribute-in-webconfig-compilation-element
 - do-you-remove-the-debug-attribute-in-web-config-compilation-element
 
 ---

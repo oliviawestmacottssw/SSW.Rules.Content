@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/marlon-marescia
 related: []
 redirects:
-- do-you-use-automated-webinars-for-running-webinars-in-multiple-time-zones
 - webinar-do-you-use-automated-webinars-for-running-webinars-in-multiple-time-zones
 
 ---

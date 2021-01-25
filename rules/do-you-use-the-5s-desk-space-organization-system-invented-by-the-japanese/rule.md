@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/florent-dezettre
 related: []
 redirects:
-- do-you-use-the-5s-desk-space-organization-system-invented-by-the-japanese
 - office-environment-do-you-use-the-5s-desk-space-organization-system-invented-by-the-japanese
 
 ---

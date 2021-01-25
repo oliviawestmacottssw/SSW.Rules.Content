@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- manage-your-photos
 - do-you-manage-your-photos
 
 ---

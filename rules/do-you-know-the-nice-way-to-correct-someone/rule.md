@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-know-the-nice-way-to-correct-someone
 - communication-do-you-know-the-nice-way-to-correct-someone
 
 ---

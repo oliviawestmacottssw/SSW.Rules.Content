@@ -8,7 +8,6 @@ created: 2010-12-02T10:35:22.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-avoid-using-＂inherit＂-value-of-style-display
 - do-you-avoid-using-inherit-value-of-style-display
 
 ---

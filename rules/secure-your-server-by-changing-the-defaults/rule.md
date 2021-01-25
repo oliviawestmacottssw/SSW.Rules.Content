@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- secure-your-server-by-changing-the-defaults
 - dbas-do-you-secure-your-server-by-changing-the-defaults
 
 ---

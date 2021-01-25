@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- things-to-automate-stage-2
 - devops-–-stage-2-do-you-know-what-things-to-automate
 
 ---

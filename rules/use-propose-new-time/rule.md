@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- use-propose-new-time
 - appointments-–-do-you-use-propose-new-time
 - appointments-do-you-use-propose-new-time
 

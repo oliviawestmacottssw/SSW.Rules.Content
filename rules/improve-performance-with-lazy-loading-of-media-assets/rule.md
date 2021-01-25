@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- improve-performance-with-lazy-loading-of-media-assets
 - do-you-know-how-to-improve-web-page-performance-with-lazy-loading-of-media-assets
 
 ---

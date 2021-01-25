@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/marlon-marescia
 related: []
 redirects:
-- the-best-way-to-learn
 - do-you-know-the-best-way-to-learn
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- how-to-view-changes-made-to-a-sharepoint-page
 - do-you-know-how-to-view-changes-made-to-a-sharepoint-2013-page
 - do-you-know-how-to-view-changes-made-to-a-sharepoint-page
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- choose-the-right-api-tech
 - do-you-choose-the-right-web-api-technology-for-your-project
 
 ---

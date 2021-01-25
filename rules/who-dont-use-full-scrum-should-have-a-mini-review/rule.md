@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- who-dont-use-full-scrum-should-have-a-mini-review
 - do-you-ensure-your-client-projects-who-dont-use-full-scrum-at-least-have-a-mini-review
 
 ---

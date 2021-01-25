@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- how-to-avoid-problems-in-if-statements
 - do-you-know-how-to-avoid-problems-in-if-statements
 
 ---

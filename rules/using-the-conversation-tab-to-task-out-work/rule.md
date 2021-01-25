@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- using-the-conversation-tab-to-task-out-work
 - do-you-avoid-using-the-conversation-tab-to-task-out-work
 
 ---

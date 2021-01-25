@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/nick-viet
 related: []
 redirects:
-- do-you-use-auto-fetch-functions-for-invoices
 - do-you-use-auto-fetch-function-for-invoices
 
 ---

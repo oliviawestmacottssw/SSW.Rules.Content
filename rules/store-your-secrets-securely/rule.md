@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/andrew-lean
 related: []
 redirects:
-- store-your-secrets-securely
 - do-you-store-your-secrets-securely
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-resource-file-to-store-messages
 - do-you-use-resource-file-to-store-messages
 
 ---

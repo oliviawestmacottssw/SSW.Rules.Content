@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-offer-positive-feedback-to-your-team
 - do-you-offer-positive-feedback-and-give-credit
 
 ---

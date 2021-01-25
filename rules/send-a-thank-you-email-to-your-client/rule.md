@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- send-a-thank-you-email-to-your-client
 - do-you-send-thank-you-email-to-your-client-when-project-is-about-to-end
 
 ---

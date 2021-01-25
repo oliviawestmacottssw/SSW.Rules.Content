@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- design-to-improve-your-google-ranking
 - do-you-design-your-website-to-improve-your-google-ranking
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- discuss-the-backlog
 - do-you-know-where-to-discuss-the-backlog
 
 ---

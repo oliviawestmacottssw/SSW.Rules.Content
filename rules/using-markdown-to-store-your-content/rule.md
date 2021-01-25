@@ -18,7 +18,6 @@ authors:
   url: https://ssw.com.au/people/gabriel-george
 related: []
 redirects:
-- using-markdown-to-store-your-content
 - using-github-and-markdown-to-store-you-content
 - do-you-use-markdown-to-store-your-content
 

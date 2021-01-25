@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-best-outlook-add-in-to-get-the-most-out-of-sharepoint
 - do-you-know-the-best-outlook-add-in-to-get-the-most-out-of-sharepoint
 
 ---

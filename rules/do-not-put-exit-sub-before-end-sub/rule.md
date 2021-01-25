@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-not-put-exit-sub-before-end-sub
 - vb-net-code-do-you-know-not-to-put-exit-sub-before-end-sub
 
 ---

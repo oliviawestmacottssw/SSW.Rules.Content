@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- maximum-row-size-for-a-table
 - schema-do-you-know-the-maximum-row-size-for-a-table
 
 ---

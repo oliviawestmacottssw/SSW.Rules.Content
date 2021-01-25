@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-using-select-when-inserting-data
 - stored-procedures-do-you-avoid-using-select-when-inserting-data
 
 ---

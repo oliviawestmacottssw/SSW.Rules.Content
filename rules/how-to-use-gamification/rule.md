@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- how-to-use-gamification
 - do-you-know-how-to-use-＂gamification＂
 - do-you-know-how-to-use-gamification
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- keep-business-logic-out-of-the-presentation-layer
 - do-you-keep-business-logic-out-of-the-presentation-layer
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- dynamics-crm-install-the-dynamics-365-app-for-outlook
 - install-the-2-add-ins
 - do-you-install-the-dynamics-365-app
 

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/duncan-hunter
 related: []
 redirects:
-- mention-when-you-make-a-pull-request-or-comment-on-github
 - do-you-know-to-mention-someone-with-a-@mention-when-you-make-a-pull-request-or-comment-on-github
 
 ---

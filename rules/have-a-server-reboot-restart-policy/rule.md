@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
-- have-a-server-reboot-restart-policy
 - do-you-have-a-server-reboot-restart-policy
 
 ---

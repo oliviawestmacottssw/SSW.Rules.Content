@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/mark-liu
 related: []
 redirects:
-- show-inactive-record
 - do-you-show-that-a-record-is-inactive
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- avoid-validating-xml-documents-unnecessarily
 - do-you-avoid-validating-xml-documents-unnecessarily
 
 ---

@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- the-best-clean-architecture-learning-resources
 - the-best-resources-for-learning-clean-architecture-with-net-core
 - do-you-know-the-best-clean-architecture-learning-resources
 

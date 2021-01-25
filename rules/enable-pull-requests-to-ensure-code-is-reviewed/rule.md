@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- enable-pull-requests-to-ensure-code-is-reviewed
 - do-you-enable-pull-requests-to-ensure-code-is-reviewed
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- how-to-hand-over-tasks-to-others
 - do-you-know-how-to-hand-over-tasks-(aka-emails)-to-others
 
 ---

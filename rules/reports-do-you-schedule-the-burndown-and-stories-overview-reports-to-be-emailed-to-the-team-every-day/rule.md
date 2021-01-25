@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- reports-do-you-schedule-the-burndown-and-stories-overview-reports-to-be-emailed-to-the-team-every-day
 - watch-do-you-get-regular-updates-on-costs-and-progress-(aka-project-progress-burndown-etc-)
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- finish-the-conversation-with-something-to-action
 - do-you-finish-the-conversation-with-something-to-action
 
 ---

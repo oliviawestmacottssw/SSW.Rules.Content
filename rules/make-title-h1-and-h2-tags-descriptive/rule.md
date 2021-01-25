@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- make-title-h1-and-h2-tags-descriptive
 - do-you-make-your-title-h1-and-h2-tags-descriptive
 
 ---

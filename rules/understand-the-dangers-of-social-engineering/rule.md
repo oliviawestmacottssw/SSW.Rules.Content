@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/chris-briggs
 related: []
 redirects:
-- understand-the-dangers-of-social-engineering
 - does-your-team-understand-the-dangers-of-social-engineering
 
 ---

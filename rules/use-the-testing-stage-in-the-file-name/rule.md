@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-the-testing-stage-in-the-file-name
 - do-you-use-the-testing-stage-in-the-file-name
 
 ---

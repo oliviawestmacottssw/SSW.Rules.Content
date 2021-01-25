@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- use-a-signature-with-a-link-when-commenting-on-a-blog
 - do-you-use-a-signature-with-a-link-when-commenting-on-a-blog
 
 ---

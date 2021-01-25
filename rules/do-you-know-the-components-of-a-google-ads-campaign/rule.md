@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- do-you-know-the-components-of-a-google-ads-campaign
 - sem-do-you-know-the-components-of-a-google-ads-campaign
 
 ---

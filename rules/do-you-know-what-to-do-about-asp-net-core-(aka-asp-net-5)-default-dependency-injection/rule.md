@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- do-you-know-what-to-do-about-asp-net-core-(aka-asp-net-5)-default-dependency-injection
 - do-you-know-what-to-do-about-asp-net-core-default-dependency-injection
 
 ---

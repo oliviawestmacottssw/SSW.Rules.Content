@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- external-links-open-on-a-new-tab
 - do-you-make-external-links-open-on-a-new-tab
 
 ---

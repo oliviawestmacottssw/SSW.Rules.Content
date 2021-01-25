@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-performance-alerts
 - dbas-do-you-use-performance-alerts
 
 ---

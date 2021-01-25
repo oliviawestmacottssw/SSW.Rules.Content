@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- follow-version-conventions
 - comments-do-you-follow-the-general-commenting-rules
 
 ---

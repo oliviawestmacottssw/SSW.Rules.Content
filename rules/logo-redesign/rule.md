@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- logo-redesign
 - do-you-keep-the-same-main-concept-when-redesigning-a-logo
 
 ---

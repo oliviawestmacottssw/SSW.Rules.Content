@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-know-the-right-format-to-show-your-phone-number
 - do-you-know-the-right-format-to-show-phone-numbers
 
 ---

@@ -10,8 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related:
 - schema---do-you-always-have-version-tracking-tables
-redirects:
-- do-you-use-prefix-sys-in-table-name-(best-practice)
+redirects: []
 
 ---
 

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
-- when-to-target-lts-versions
 - do-you-know-when-to-target-lts-versions
 
 ---

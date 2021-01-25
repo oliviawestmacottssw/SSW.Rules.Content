@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- how-to-take-feedback-or-criticism
 - do-you-know-how-to-take-feedback-criticism-(even-if-it’s-not-your-fault)
 - communication-do-you-know-how-to-take-feedback-criticism-(even-if-it’s-not-your-fault)
 

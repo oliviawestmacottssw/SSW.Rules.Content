@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/joanna-feely
 related: []
 redirects:
-- add-the-right-tabs-when-creating-a-new-teams-conversation
 - tabs-do-you-add-the-right-tabs-when-creating-a-new-teams-conversation
 
 ---

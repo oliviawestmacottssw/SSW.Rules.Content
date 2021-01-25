@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/liam-elliott
 related: []
 redirects:
-- where-to-keep-your-files
 - do-you-know-where-to-keep-your-files
 - do-you-know-where-to-keep-your-files-tfs-sharepoint
 - files-do-you-know-where-to-keep-your-files

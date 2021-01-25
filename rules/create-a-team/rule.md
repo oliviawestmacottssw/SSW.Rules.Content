@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- create-a-team
 - do-you-know-how-to-create-a-team
 
 ---

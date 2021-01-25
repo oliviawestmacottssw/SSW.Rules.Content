@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related: []
 redirects:
-- use-codelens-to-view-your-application-insights-data
 - do-you-use-codelens-to-view-your-application-insights-data
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steve-leigh
 related: []
 redirects:
-- use-package-managers-appropriately
 - do-you-use-package-managers-appropriately
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
-- how-to-use-sharepoint-recycle-bin
 - do-you-know-how-to-use-sharepoint-recycle-bin
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- join-link-at-the-top
 - appointments-do-you-always-put-your-join-link-for-remote-meetings-at-the-top-of-the-body
 
 ---

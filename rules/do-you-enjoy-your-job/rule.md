@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-enjoy-your-job
 - general-do-you-enjoy-your-job
 
 ---

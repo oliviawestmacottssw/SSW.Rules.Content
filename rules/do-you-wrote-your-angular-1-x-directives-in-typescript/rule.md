@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/mark-liu
 related: []
 redirects:
-- do-you-wrote-your-angular-1-x-directives-in-typescript
 - do-you-write-your-angular-1-x-directives-in-typescript
 
 ---

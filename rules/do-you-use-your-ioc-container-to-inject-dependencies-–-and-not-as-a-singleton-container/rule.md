@@ -9,8 +9,7 @@ authors:
 - title: Brendan Richards
   url: https://ssw.com.au/people/brendan-richards
 related: []
-redirects:
-- do-you-use-your-ioc-container-to-inject-dependencies-–-and-not-as-a-singleton-container
+redirects: []
 
 ---
 

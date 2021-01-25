@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-setup-lync-conference-calls-(that-makes-you-the-organizer-leader-presenter)
+redirects: []
 
 ---
 

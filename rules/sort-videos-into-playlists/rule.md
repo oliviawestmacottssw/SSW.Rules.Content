@@ -9,7 +9,7 @@ authors:
 - title: Florent Dezettre
   url: https://ssw.com.au/people/florent-dezettre
 related:
-- do-you-use-a-personalized-thumbnail
+- personalized-thumbnail
 - do-you-use-untapped-keywords
 - do-you-make-your-videos-youtube-friendly
 - do-you-optimize-your-videos-for-youtube
@@ -19,7 +19,6 @@ related:
 - do-you-add-time-links-on-your-youtube-videos
 - do-you-follow-image-standard-sizes-on-social-media
 redirects:
-- sort-videos-into-playlists
 - do-you-sort-your-videos-into-playlists
 
 ---

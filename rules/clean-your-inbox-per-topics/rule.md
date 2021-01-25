@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/marlon-marescia
 related: []
 redirects:
-- clean-your-inbox-per-topics
 - do-you-clean-your-inbox-per-topics
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- better-late-than-never
 - do-you-think-when-replying-to-emails-its-better-late-than-never
 
 ---

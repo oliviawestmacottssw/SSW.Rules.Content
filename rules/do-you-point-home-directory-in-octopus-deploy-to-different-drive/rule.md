@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/danijel-malik
 related: []
 redirects:
-- do-you-point-home-directory-in-octopus-deploy-to-different-drive
 - do-you-point-home-directory-to-a-different-drive
 
 ---

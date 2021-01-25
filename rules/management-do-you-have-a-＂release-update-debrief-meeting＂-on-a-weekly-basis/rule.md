@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- management-do-you-have-a-＂release-update-debrief-meeting＂-on-a-weekly-basis
 - management-do-you-have-a-release-update-debrief-meeting-on-a-weekly-basis
 
 ---

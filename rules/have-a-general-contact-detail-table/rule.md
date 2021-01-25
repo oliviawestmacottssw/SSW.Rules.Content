@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-a-general-contact-detail-table
 - do-you-have-a-general-contact-detail-table
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- the-golden-rule-of-rebasing
 - do-you-know-the-golden-rule-of-rebasing
 
 ---

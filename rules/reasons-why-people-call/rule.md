@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- reasons-why-people-call
 - do-you-know-the-reasons-why-people-call
 
 ---

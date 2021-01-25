@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- how-to-structure-a-unit-test
 - do-you-know-how-to-structure-a-unit-test-(aka-the-3-as)
 
 ---

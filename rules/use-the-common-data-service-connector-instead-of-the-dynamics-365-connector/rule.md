@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- use-the-common-data-service-connector-instead-of-the-dynamics-365-connector
 - do-you-use-the-common-data-service-connector-instead-of-the-dynamics-365-connector-when-using-flows
 
 ---

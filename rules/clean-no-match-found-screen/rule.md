@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- clean-no-match-found-screen
 - do-you-have-a-clean-no-match-found-screen
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- have-a-word-template
 - do-you-have-a-word-template
 
 ---

@@ -11,8 +11,7 @@ authors:
 - title: Martin Hinshelwood
   url: https://ssw.com.au/people/martin-hinshelwood
 related: []
-redirects:
-- do-you-know-to-tip-don’t-rant
+redirects: []
 
 ---
 

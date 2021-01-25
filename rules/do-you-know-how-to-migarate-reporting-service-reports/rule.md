@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/moss-gu
 related: []
 redirects:
-- do-you-know-how-to-migarate-reporting-service-reports
 - do-you-know-how-to-migrate-reporting-service-reports
 
 ---

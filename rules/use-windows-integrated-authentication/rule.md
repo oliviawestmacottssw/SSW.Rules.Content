@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-windows-integrated-authentication
 - do-you-use-windows-integrated-authentication
 
 ---

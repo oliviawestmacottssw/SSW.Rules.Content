@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- do-you-remove-＂language＂-from-your-script-tag
 - do-you-remove-language-from-your-script-tag
 
 ---

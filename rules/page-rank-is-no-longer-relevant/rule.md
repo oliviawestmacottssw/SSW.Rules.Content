@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- page-rank-is-no-longer-relevant
 - do-you-know-pagerank-is-no-longer-relevant
 
 ---

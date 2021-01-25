@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- efficiency-do-you-use-two-monitors
 - setup-do-you-use-two-monitors
 
 ---

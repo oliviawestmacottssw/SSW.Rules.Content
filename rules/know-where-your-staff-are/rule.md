@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- know-where-your-staff-are
 - know-where-your-staff-is
 - do-you-know-where-your-staff-are-(and-where-they’re-supposed-to-be)
 

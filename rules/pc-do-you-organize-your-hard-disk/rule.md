@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/kaique-biancatti
 related: []
 redirects:
-- pc-do-you-organize-your-hard-disk
 - do-you-do-organize-your-hard-disk
 
 ---

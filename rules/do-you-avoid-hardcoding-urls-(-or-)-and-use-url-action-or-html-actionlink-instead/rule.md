@@ -9,8 +9,7 @@ authors:
 - title: Damian Brady
   url: https://ssw.com.au/people/damian-brady
 related: []
-redirects:
-- do-you-avoid-hardcoding-urls-(-or-)-and-use-url-action-or-html-actionlink-instead
+redirects: []
 
 ---
 

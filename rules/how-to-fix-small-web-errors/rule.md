@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- how-to-fix-small-web-errors
 - efficiency-do-all-your-employees-know-the-quickest-way-to-fix-small-web-errors
 
 ---

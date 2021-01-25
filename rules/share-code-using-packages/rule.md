@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/danijel-malik
 related: []
 redirects:
-- share-code-using-packages
 - do-you-share-code-using-packages-(binary-and-source-sharing)
 
 ---

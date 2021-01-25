@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- dones-is-your-inbox-a-task-list-only
 - do-you-keep-your-inbox-as-a-task-list-only
 
 ---

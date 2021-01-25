@@ -8,7 +8,6 @@ created: 2020-04-06T07:26:07.0000000Z
 authors: []
 related: []
 redirects:
-- which-emojis-to-use-in-scrum
 - do-you-know-the-which-emojis-to-use-in-scrum
 - do-you-know-which-emojis-to-use-in-scrum
 

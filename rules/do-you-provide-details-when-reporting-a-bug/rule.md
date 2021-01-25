@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-provide-details-when-reporting-a-bug
 - zzdo-you-provide-ux-details-when-reporting-a-bug
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/liam-elliott
 related: []
 redirects:
-- how-to-configure-email-sending
 - do-you-know-how-to-configure-email-sending
 
 ---

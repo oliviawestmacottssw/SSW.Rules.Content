@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related: []
 redirects:
-- archive-old-teams
 - sysadmin-do-you-archive-old-teams
 
 ---

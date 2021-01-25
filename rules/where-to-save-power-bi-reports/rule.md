@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/mark-liu
 related: []
 redirects:
-- where-to-save-power-bi-reports
 - do-you-know-where-to-save-reports
 
 ---

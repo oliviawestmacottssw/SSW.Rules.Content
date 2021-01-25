@@ -7,8 +7,7 @@ uri: messages-do-you-know-how-to-make-message-boxes-user-friendly-(1-3-titles)
 created: 2012-11-27T04:33:49.0000000Z
 authors: []
 related: []
-redirects:
-- messages-do-you-know-how-to-make-message-boxes-user-friendly-(1-3-titles)
+redirects: []
 
 ---
 

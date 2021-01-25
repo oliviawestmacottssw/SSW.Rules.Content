@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/christian-morford-waite
 related: []
 redirects:
-- use-error-handling-in-your-stored-procedures
 - stored-procedures-do-you-use-error-handling-in-your-stored-procedures
 
 ---

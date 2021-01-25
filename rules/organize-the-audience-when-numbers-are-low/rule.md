@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/farrukh-khan
 related: []
 redirects:
-- organize-the-audience-when-numbers-are-low
 - do-you-organize-the-audience-when-numbers-are-low
 
 ---

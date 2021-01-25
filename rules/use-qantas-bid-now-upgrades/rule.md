@@ -15,7 +15,6 @@ related:
 - do-you-check-your-boarding-pass
 - do-you-take-advantage-of-business-rewards-programs
 redirects:
-- use-qantas-bid-now-upgrades
 - do-you-check-if-your-qantas-flight-is-eligible-for-a-bid-now-upgrade
 
 ---

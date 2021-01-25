@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- declare-member-accessibility-for-all-classes
 - do-you-declare-member-accessibility-for-all-classes
 
 ---

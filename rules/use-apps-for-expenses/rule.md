@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/nick-viet
 related: []
 redirects:
-- use-apps-for-expenses
 - use-expensify-for-expenses
 - do-you-use-the-best-mobile-app-for-expenses
 

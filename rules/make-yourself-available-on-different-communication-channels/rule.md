@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- make-yourself-available-on-different-communication-channels
 - communication-do-you-make-yourself-accessible
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- feedback-avoid-chopping-down-every-example
 - communication-do-you-know-how-to-take-feedback-criticism-(the-3-a’s)
 
 ---

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/gabriel-george
 related: []
 redirects:
-- avoid-the-dom-in-your-components
 - practices-do-you-avoid-directly-modifying-the-dom-from-your-components
 
 ---

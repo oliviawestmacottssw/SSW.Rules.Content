@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- bundle-all-your-customizations-in-a-solution
 - do-you-bundle-all-your-customizations-in-a-solution-(model-driven)
 
 ---

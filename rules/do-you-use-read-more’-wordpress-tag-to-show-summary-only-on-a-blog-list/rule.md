@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-use-read-more’-wordpress-tag-to-show-summary-only-on-a-blog-list
 - do-you-use-read-more-wordpress-tag-to-show-summary-only-on-a-blog-list
 
 ---

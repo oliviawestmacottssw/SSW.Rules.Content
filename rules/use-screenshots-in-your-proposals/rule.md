@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-screenshots-in-your-proposals
 - do-you-use-screenshots-in-your-proposals
 
 ---

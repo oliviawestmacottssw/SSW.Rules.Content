@@ -8,7 +8,6 @@ created: 2016-04-21T05:27:02.0000000Z
 authors: []
 related: []
 redirects:
-- use-taskbar-instead-of-task-bar
 - tiny-do-you-use-taskbar-instead-of-task-bar
 
 ---

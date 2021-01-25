@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/jason-taylor
 related: []
 redirects:
-- make-sure-that-the-test-can-be-failed
 - do-you-make-sure-that-the-test-can-be-failed
 
 ---

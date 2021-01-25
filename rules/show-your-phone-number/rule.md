@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- show-your-phone-number
 - display-do-you-show-your-phone-number
 
 ---

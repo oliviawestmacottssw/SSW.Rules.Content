@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-know-the-best-place-to-find-good-software-videos
 - quality-do-you-know-the-best-place-to-find-good-software-videos
 
 ---

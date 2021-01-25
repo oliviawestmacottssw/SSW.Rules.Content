@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- business-cards-branding
 - do-you-have-cool-business-cards
 
 ---

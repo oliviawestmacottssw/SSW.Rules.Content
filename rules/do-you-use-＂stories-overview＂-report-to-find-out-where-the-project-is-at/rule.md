@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/damian-brady
 related: []
 redirects:
-- do-you-use-＂stories-overview＂-report-to-find-out-where-the-project-is-at
 - do-you-use-stories-overview-report-to-find-out-where-the-project-is-at
 
 ---

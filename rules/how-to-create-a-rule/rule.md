@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- how-to-create-a-rule
 - do-you-know-how-to-create-a-rule-(internal-only)
 - sharepoint-do-you-know-how-to-create-a-rule-(internal-only)
 

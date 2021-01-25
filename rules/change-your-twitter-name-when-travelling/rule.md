@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- change-your-twitter-name-when-travelling
 - twitter-do-you-change-your-display-name-when-travelling
 
 ---

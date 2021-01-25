@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- have-good-and-bad-bullet-points
 - do-you-know-how-to-change-bullet-points
 - do-you-have-good-and-bad-bullet-points
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-most-recent-language-features-to-slash-the-amount-of-boilerplate-code-you-write
 - do-you-use-the-new-c-7-language-features-to-slash-the-amount-of-boilerplate-code-you-write
 
 ---

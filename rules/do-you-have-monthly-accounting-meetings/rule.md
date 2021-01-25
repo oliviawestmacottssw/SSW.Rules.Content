@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-have-monthly-accounting-meetings
 - do-you-have-monthly-financial-meetings
 
 ---

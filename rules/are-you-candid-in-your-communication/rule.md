@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- are-you-candid-in-your-communication
 - communication-are-you-always-candid-in-your-communication
 
 ---

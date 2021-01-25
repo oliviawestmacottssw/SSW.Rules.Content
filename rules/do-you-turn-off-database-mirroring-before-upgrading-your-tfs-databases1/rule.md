@@ -8,7 +8,6 @@ created: 2015-08-12T16:10:38.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-turn-off-database-mirroring-before-upgrading-your-tfs-databases1
 - do-you-turn-off-database-mirroring-before-upgrading-your-tfs-databases
 
 ---

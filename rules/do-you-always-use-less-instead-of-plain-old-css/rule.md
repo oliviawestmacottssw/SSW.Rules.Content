@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/rebecca-liu
 related: []
 redirects:
-- do-you-always-use-less-instead-of-plain-old-css
 - do-you-always-use-a-css-preprocessor-language-over-plain-css-such-as-less-or-scss
 
 ---

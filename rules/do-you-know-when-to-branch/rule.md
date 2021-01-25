@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
-- do-you-know-when-to-branch
 - do-you-know-when-to-branch-in-tfs-(aka-tfvc)
 
 ---

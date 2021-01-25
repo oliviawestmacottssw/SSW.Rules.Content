@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
-- do-you-use-an-ats
 - do-you-track-your-candidates-using-an-applicant-tracking-system-(ats)
 
 ---

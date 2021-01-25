@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-teach-share-ideas-regularly
 - ip-do-you-teach-share-ideas-regularly
 
 ---

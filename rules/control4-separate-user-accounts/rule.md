@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- control4-separate-user-accounts
 - do-you-add-a-seperate-user-account-for-each-control4-user
 - do-you-set-up-separate-user-accounts-in-control4
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- isolate-your-logic-and-remove-dependencies-on-instances-of-objects
 - do-you-isolate-your-logic-and-remove-dependencies-on-instances-of-objects
 
 ---

@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-know-the-primary-features-of-lync-(software-phones-with-microsoft-lync)
+redirects: []
 
 ---
 

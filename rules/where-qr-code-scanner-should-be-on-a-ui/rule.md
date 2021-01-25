@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ken-shi
 related: []
 redirects:
-- where-qr-code-scanner-should-be-on-a-ui
 - do-you-know-where-the-qr-code-scanner-should-be-on-a-ui
 
 ---

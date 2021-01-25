@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- use-environment-variables-for-environment-specific-configurations
 - do-you-use-environment-variables-for-environment-specific-configurations
 
 ---

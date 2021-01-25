@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-use-built-in-authentication-from-ms
 - deprecated-do-you-use-built-in-authentication-from-ms
 
 ---

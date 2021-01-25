@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- always-put-javascript-in-a-separate-file
 - do-you-always-put-javascript-in-a-separate-file
 
 ---

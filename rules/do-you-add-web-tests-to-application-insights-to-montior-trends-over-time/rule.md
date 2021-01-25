@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/chris-briggs
 related: []
 redirects:
-- do-you-add-web-tests-to-application-insights-to-montior-trends-over-time
 - do-you-add-web-tests-to-application-insights-to-monitor-trends-over-time
 
 ---

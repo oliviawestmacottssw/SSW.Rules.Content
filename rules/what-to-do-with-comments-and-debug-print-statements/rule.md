@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- what-to-do-with-comments-and-debug-print-statements
 - comments-do-you-know-what-to-do-with-comments-and-debug-print-statements
 
 ---

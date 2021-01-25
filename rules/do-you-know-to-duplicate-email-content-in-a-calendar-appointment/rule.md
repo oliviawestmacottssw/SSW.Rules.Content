@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/joanna-feely
 related: []
 redirects:
-- do-you-know-to-duplicate-email-content-in-a-calendar-appointment
 - appointments-do-you-know-to-copy-the-email-content-into-the-calendar-appointment
 
 ---

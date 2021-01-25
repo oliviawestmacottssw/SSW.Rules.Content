@@ -15,7 +15,6 @@ authors:
 related:
 - team-names---do-you-use-emojis-in-your-teams'-channel-names-
 redirects:
-- use-emojis-in-your-commits
 - do-you-write-nice-commit-messages
 
 ---

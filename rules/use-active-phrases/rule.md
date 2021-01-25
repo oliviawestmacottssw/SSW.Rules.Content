@@ -9,15 +9,14 @@ authors:
 - title: Joanna Feely
   url: https://ssw.com.au/people/joanna-feely
 related:
-- reference-do-you-use-the-correct-symbols-when-documenting-instructions
-- reference-do-you-use-the-right-order-of-instructions
-- do-you-highlight-actions-correctly-in-your-document
-- do-you-make-numbers-more-readable
-- do-you-include-version-numbers-in-your-file
-- do-you-refer-to-the-reader-and-author-consistently-throughout-your-document
-- do-you-make-awesome-documentation
+- use-correct-symbols-when-documenting-instructions
+- use-the-right-order-of-instructions
+- highlight-items-in-your-document
+- make-numbers-more-readable
+- include-version-numbers-in-your-file
+- refer-consistently-throughout-your-document
+- awesome-documentation
 redirects:
-- use-active-phrases
 - tiny-do-you-use-active-phrases-(no-zombies-please)
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- the-best-examples-of-visually-cool-jquery-plug-ins
 - do-you-know-what-are-the-best-examples-of-visually-cool-jquery-plug-ins
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- where-to-store-your-applications-files
 - do-you-know-where-to-store-your-applications-files
 
 ---

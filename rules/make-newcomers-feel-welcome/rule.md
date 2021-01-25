@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- make-newcomers-feel-welcome
 - starting-do-you-know-how-to-make-newcomers-feel-welcome
 
 ---

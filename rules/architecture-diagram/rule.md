@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-goldman
 related: []
 redirects:
-- architecture-diagram
 - have-an-architecture-diagram
 - do-you-have-an-architecture-diagram
 

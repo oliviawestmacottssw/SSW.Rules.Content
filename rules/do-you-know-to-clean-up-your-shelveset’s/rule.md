@@ -15,8 +15,7 @@ authors:
 - title: David Klein
   url: https://ssw.com.au/people/david-klein
 related: []
-redirects:
-- do-you-know-to-clean-up-your-shelveset’s
+redirects: []
 
 ---
 

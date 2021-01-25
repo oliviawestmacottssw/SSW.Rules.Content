@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- import-your-google-campaigns-to-your-microsoft-ads
 - do-you-know-that-you-can-quickly-import-your-google-campaigns-to-your-microsoft-ads
 
 ---

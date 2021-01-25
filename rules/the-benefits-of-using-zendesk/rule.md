@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- the-benefits-of-using-zendesk
 - do-you-know-the-benefits-of-using-zendesk
 
 ---

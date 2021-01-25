@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- ticket-deflection
 - do-you-use-ticket-deflection
 
 ---

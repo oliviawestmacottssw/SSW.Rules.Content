@@ -8,7 +8,6 @@ created: 2012-11-27T08:37:31.0000000Z
 authors: []
 related: []
 redirects:
-- controls-do-you-indicate-when-fields-are-＂read-only＂-or-＂calculated＂
 - controls-do-you-indicate-when-fields-are-read-only-or-calculated
 
 ---

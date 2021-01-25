@@ -16,7 +16,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- how-to-arrange-your-azure-resources
 - do-you-know-how-to-arrange-your-azure-resources
 
 ---

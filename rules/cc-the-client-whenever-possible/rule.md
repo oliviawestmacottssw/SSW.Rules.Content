@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- cc-the-client-whenever-possible
 - do-you-cc-the-client-whenever-possible
 
 ---

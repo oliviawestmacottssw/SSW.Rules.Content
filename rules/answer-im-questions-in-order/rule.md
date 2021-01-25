@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- answer-im-questions-in-order
 - clarity-do-you-answer-im-questions-in-order
 
 ---

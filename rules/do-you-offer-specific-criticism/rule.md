@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-offer-specific-criticism
 - communication-do-you-offer-specific-feedback
 
 ---

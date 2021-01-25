@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-respond-to-blogs-and-forums-with-the-standard-footer
 - communication-do-you-respond-to-blogs-and-forums-with-the-standard-footer
 
 ---

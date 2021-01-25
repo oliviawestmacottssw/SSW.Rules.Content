@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
-- appointments-do-you-show-all-the-necessary-information-in-the-subject
 - appointments-do-you-make-sure-your-appointment-has-a-good-subject
 
 ---

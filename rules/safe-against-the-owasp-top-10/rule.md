@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/steve-leigh
 related: []
 redirects:
-- safe-against-the-owasp-top-10
 - do-you-stay-safe-against-the-owasp-top-10
 
 ---

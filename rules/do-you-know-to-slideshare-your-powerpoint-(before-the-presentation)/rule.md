@@ -13,8 +13,7 @@ authors:
 - title: Joanna Feely
   url: https://ssw.com.au/people/joanna-feely
 related: []
-redirects:
-- do-you-know-to-slideshare-your-powerpoint-(before-the-presentation)
+redirects: []
 
 ---
 

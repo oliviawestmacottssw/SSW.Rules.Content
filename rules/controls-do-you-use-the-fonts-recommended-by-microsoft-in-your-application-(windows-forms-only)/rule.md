@@ -7,8 +7,7 @@ uri: controls-do-you-use-the-fonts-recommended-by-microsoft-in-your-application-
 created: 2012-11-27T09:16:16.0000000Z
 authors: []
 related: []
-redirects:
-- controls-do-you-use-the-fonts-recommended-by-microsoft-in-your-application-(windows-forms-only)
+redirects: []
 
 ---
 

@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- clean-architecture-the-best-way-to-get-started
 - do-you-know-the-best-way-to-get-started
 
 ---

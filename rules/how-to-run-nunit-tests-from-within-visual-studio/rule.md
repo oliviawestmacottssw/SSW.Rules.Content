@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- how-to-run-nunit-tests-from-within-visual-studio
 - do-you-know-how-to-run-nunit-tests-from-within-visual-studio
 
 ---

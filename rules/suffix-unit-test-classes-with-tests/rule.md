@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- suffix-unit-test-classes-with-tests
 - do-you-suffix-unit-test-classes-with-tests
 
 ---

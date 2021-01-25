@@ -9,9 +9,8 @@ authors:
 - title: Joanna Feely
   url: https://ssw.com.au/people/joanna-feely
 related:
-- do-you-know-how-to-capitalize-headings-and-titles
+- how-to-capitalize-titles
 redirects:
-- use-the-right-capitalization
 - do-you-know-to-capitalize-tech-terms-correctly
 
 ---

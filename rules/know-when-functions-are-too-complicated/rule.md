@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- know-when-functions-are-too-complicated
 - do-you-know-when-functions-are-too-complicated
 
 ---

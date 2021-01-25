@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/tiago-araujo
 related: []
 redirects:
-- purge-server-caches
 - do-you-purge-cache
 
 ---

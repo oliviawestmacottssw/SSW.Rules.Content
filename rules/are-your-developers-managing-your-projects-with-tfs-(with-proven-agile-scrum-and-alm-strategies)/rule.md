@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- are-your-developers-managing-your-projects-with-tfs-(with-proven-agile-scrum-and-alm-strategies)
+redirects: []
 
 ---
 

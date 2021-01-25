@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
-- use-a-hardware-device-to-capture-laptop-video-output
 - do-you-use-a-hardware-capture-device-to-capture-laptop-video-output
 
 ---

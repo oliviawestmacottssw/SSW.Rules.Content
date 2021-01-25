@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- take-breaks
 - do-you-take-breaks
 
 ---

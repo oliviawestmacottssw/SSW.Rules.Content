@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
-- send-appointment-or-teams-meeting
 - run-your-meetings-through-teams
 - meetings-do-you-know-when-to-send-an-appointment-or-a-teams-meeting
 

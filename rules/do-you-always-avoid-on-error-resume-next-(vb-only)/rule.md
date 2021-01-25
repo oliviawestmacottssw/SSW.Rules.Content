@@ -9,8 +9,7 @@ authors:
 - title: Adam Cogan
   url: https://ssw.com.au/people/adam-cogan
 related: []
-redirects:
-- do-you-always-avoid-on-error-resume-next-(vb-only)
+redirects: []
 
 ---
 

@@ -11,8 +11,7 @@ authors:
 - title: Drew Robson
   url: https://ssw.com.au/people/drew-robson
 related: []
-redirects:
-- do-you-present-the-user-with-a-nice-error-screen-(web-only)
+redirects: []
 
 ---
 

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- create-a-consistent-primary-key-column-on-your-tables
 - schema-do-you-create-a-consistent-primary-key-column-on-your-tables
 
 ---

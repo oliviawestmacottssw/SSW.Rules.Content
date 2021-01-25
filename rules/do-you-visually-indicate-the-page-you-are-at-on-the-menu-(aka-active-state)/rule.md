@@ -7,8 +7,7 @@ uri: do-you-visually-indicate-the-page-you-are-at-on-the-menu-(aka-active-state)
 created: 2015-02-16T01:43:42.0000000Z
 authors: []
 related: []
-redirects:
-- do-you-visually-indicate-the-page-you-are-at-on-the-menu-(aka-active-state)
+redirects: []
 
 ---
 

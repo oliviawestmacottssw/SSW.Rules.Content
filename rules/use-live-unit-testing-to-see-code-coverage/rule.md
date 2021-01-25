@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-live-unit-testing-to-see-code-coverage
 - do-you-use-live-unit-testing-to-see-code-coverage
 
 ---

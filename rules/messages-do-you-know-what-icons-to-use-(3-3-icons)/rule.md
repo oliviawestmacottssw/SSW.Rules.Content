@@ -7,8 +7,7 @@ uri: messages-do-you-know-what-icons-to-use-(3-3-icons)
 created: 2012-11-27T04:37:34.0000000Z
 authors: []
 related: []
-redirects:
-- messages-do-you-know-what-icons-to-use-(3-3-icons)
+redirects: []
 
 ---
 

@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/sumesh-ghimire
 related: []
 redirects:
-- the-best-way-to-install-DPM
 - do-you-know-the-limitations-when-installing-dpm-as-a-virtual-machine
 - do-you-know-the-best-way-to-install-dpm
 

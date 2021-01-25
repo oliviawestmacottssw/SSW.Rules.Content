@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- have-a-request-access-button-when-you-require-permission
 - do-you-have-a-request-access-button-in-pages-that-require-permission
 
 ---

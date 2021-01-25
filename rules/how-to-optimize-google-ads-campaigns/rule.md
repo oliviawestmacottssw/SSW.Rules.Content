@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []
 redirects:
-- how-to-optimize-google-ads-campaigns
 - do-you-know-how-to-optimize-google-adwords-campaigns
 - sem-do-you-know-how-to-optimize-google-ads-campaigns
 

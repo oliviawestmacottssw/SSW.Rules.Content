@@ -16,8 +16,7 @@ authors:
   url: https://ssw.com.au/people/eric-phan
 related:
 - do-you-name-your-dependencies-to-avoid-problems-with-minification
-redirects:
-- do-you-know-the-common-design-patterns-(part-2-example)
+redirects: []
 
 ---
 

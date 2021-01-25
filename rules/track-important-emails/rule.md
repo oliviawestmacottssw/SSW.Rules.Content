@@ -14,7 +14,6 @@ authors:
   url: https://ssw.com.au/people/greg-harris
 related: []
 redirects:
-- track-important-emails
 - do-you-know-to-hit-track-when-you-receive-an-important-email
 - do-you-track-important-emails-in-crm
 

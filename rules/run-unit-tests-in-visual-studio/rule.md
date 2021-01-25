@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- run-unit-tests-in-visual-studio
 - do-you-run-unit-tests-in-visual-studio
 
 ---

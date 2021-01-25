@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/andreas-lengkeek
 related: []
 redirects:
-- do-you-know-how-to-use-tags-for-github-issues
 - do-you-know-how-to-use-labels-for-github-issues
 
 ---

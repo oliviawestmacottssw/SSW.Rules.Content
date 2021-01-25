@@ -8,7 +8,6 @@ created: 2012-11-27T01:48:43.0000000Z
 authors: []
 related: []
 redirects:
-- do-you-have-a-＂search-box＂-to-make-your-data-easy-to-find
 - do-you-have-a-search-box-to-make-your-data-easy-to-find
 
 ---

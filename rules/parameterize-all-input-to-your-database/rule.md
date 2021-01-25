@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/christian-morford-waite
 related: []
 redirects:
-- parameterize-all-input-to-your-database
 - do-you-parameterize-all-input-to-your-database
 
 ---

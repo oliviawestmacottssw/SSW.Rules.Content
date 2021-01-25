@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- use-setup-and-set-up-correctly
 - tiny-do-you-use-setup-and-set-up-correctly
 
 ---

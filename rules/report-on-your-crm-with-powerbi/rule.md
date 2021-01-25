@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- report-on-your-crm-with-powerbi
 - do-you-report-on-your-crm-with-power-bi
 
 ---

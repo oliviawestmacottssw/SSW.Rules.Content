@@ -8,7 +8,6 @@ created: 2018-04-25T22:10:13.0000000Z
 authors: []
 related: []
 redirects:
-- use-interoperability-mechanism-for-com-object
 - do-you-use-interoperability-mechanism-for-com-object
 
 ---

@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- automate-the-generation-of-your-api-specification-and-required-clients
 - do-you-automate-the-generation-of-your-api-specification-and-required-clients
 
 ---

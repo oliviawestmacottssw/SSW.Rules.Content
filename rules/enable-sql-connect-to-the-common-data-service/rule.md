@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
-- enable-sql-connect-to-the-common-data-service
 - do-you-enable-sql-(read-only)-connect-to-the-common-data-service
 
 ---

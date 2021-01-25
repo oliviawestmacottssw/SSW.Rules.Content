@@ -12,7 +12,6 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
-- do-you-reward-your-employees-for-doing-their-timesheets-on-time
 - do-you-incentivise-your-employees-to-do-their-timesheets-on-time
 
 ---

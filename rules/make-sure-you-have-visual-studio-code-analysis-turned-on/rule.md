@@ -10,7 +10,6 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- make-sure-you-have-visual-studio-code-analysis-turned-on
 - tools-do-you-make-sure-you-have-visual-studio-code-analysis-turned-on
 
 ---
