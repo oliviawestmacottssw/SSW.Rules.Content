@@ -1,0 +1,33 @@
+---
+type: rule
+archivedreason: 
+title: Do you know the right way to report bugs and give feedback/suggestions?
+guid: 22b7ce50-2586-4fa0-999f-a76a3d60a44a
+uri: the-right-way-to-report-bugs-and-give-feedback-suggestions
+created: 2009-03-25T04:53:21.0000000Z
+authors:
+- title: Adam Cogan
+  url: https://ssw.com.au/people/adam-cogan
+- title: Cameron Shaw
+  url: https://ssw.com.au/people/cameron-shaw
+related: []
+redirects:
+- do-you-know-the-right-way-to-report-bugs
+- do-you-know-the-right-way-to-report-bugs-and-give-feedback-suggestions
+
+---
+
+
+<p class="ssw15-rteElement-P">​​​​​​​When reporting bugs and giving product feedback, it is essential that you are as descriptive as possible, so that the developer can reproduce the error to find out what the problem is or understand what features you are requesting.<br></p><p class="ssw15-rteElement-P">Try to be as efficient as possible: <br></p><ol class="ssw15-rteElement-P"><li>If there is a GitHub backlog, add an issue and @mention relevant people<br></li><li>If there is a Azure DevOps backlog, add a PBI and @mention relevant people<br></li><li>If you don't know where the backlog is, or don't have access, then send an email <br></li></ol><p class="ssw15-rteElement-P">Try to have one issue/PBI/email per bug​/suggestion, but if the bugs/suggestions are related or very small (e.g. they are all on the same page) then you should group them together in a single email.​<br></p>
+<br><excerpt class='endintro'></excerpt><br>
+<dl class="badImage"><dt> <img src="do-you-know-the-right-way-to-report-bugs-bad-example.png" alt="do-you-know-the-right-way-to-report-bugs-bad-example.png" /> <br>
+   </dt><dd>Figure: Bad Example - This email isn't going to help the developer much - it is vague and has no screen capture, and gives no alternate way for the developer to contact the user regarding the issue</dd></dl><dl class="goodImage"><dt> <img src="do-you-know-the-right-way-to-report-bugs-good-example.png" alt="do-you-know-the-right-way-to-report-bugs-good-example.png" /> <br>
+   </dt><dd>Figure: Good Example - This email includes the product name and version, the category of the issue (BUG), a screen capture and contact number, and shows that the user's system is up to date<br></dd>
+</dl><div><div aria-labelledby="ctl00_PlaceHolderMain_ContentTop_label" style="display:inline;"><div>A great template to follow is the <a href="https://github.com/aspnet/Home/wiki/Functional-bug-template">Functional Bug template</a> from the ASP.NET open-source project. Spending time to provide as much detail as possible, by ensuring you have the three critical components of: Steps to reproduce, Expected outcome, and Actual outcome, will save the both you and the developer time and frustration in the long run. <br>​<br></div>Also, make sure your descriptions are detailed and useful as that can make finding the solution quicker and easier.<br></div></div><div><div aria-labelledby="ctl00_PlaceHolderMain_Content_label" style="display:inline;"><p>Make sure you always explain and give as many details as you can of how you got an error or a bad experience.</p><dl class="badImage"><dt><div class="greyBox"><p>Hi, Rebecca, <br>
+               <br>Where is SSW TV on the navigation?<br><br>- Adam  <br></p></div></dt><dd>Figure: Bad example - Lack of details</dd></dl><dl class="goodImage"><dt><div class="greyBox"><p>Hi, Rebecca,<br></p><ol><li>Navigated to ssw.com.au</li><li>Scrolling down looking for a big graphic like "CHECK OUT SSW TV! CLICK HERE!"<br>(Nothing)<br>Me, thinking… "Hmm… let's try the menu at the top..."</li><li>About Us? Nope.</li><li>Services? Nope.<br></li><li>Products and Support? Nope.</li><li>Training? Nope.</li><li>User Group? Nope.</li><li>Rules? Nope.<br>Me, thinking... "OK. Now where? Most likely, the SSW company description will list it..."</li><li>Navigates to About Us.</li><li>Me, scrolls down… nothing.<br>Me, thinking... "OK. Weird. Let's go back."</li><li>Me, goes back to homepage.<br>Me, thinking… "Is there a site map?"</li><li>Scrolls to bottom of page. Clicks sitemap link.<br>Me, thinking... "Ctrl+F for TV? Nope."</li><li>Me, gives up… types tv.ssw.com.au to try and get lucky. Huzzah!</li></ol><p>- Adam <br></p></div></dt><dd>Figure: Good example - We can easily identify more the one way to improve the UX</dd></dl><p>Better than a good description of the bug is a screen recording. This should be followed for a more detailed report. Use <a href="http://www.techsmith.com/snagit.html" target="_blank">Snagit</a> or <a href=/production-do-you-know-how-to-start-recording-with-camtasia>Camtasia​</a> to record your screen.<br></p><div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify" unselectable="on">
+         <iframe width="853" height="480" src="https://www.youtube.com/embed/y9vsGY1hYN0" frameborder="0"></iframe> </div><dd class="ssw15-rteElement-FigureGood">Figure: Good example - Recording bug reports in a video can make the issue clearer to see<br><br><br></dd><div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify" unselectable="on">
+         <iframe width="853" height="480" src="https://www.youtube.com/embed/VDZSfHJ7GNU" frameborder="0"></iframe> </div><dd class="ssw15-rteElement-FigureGood">Figure: Good example - Giving feature requests via video<br>​<br></dd></div><br></div><p class="ssw15-rteElement-GreyBox"><b>Who should you email, the Product Owner or the Tech Lead?<br></b><br>It depends on the team, but often the Product Owner is busy. If you know the Tech Lead and your suggestion is obviously a good one and not too much work, then you should email the Tech Leader and CC the Product Owner.<br>The Product Owner can always respond if he doesn’t like the suggestion.​<br>e.g.<br>For a bug email:   TO: TechLead@  CC: ProductOwner  Subject:BUG xxx   (or use PBI @mention)​<br>For a new feature email:  TO: TechLead@  CC: ProductOwner  Subject:SUGGESTION xxx  (or use PBI @mention)<br>​Note: There is no use for: sswtimepro@ssw.com.au​<br></p><div><br></div>When you create a bug/suggestion to a backlog, it's important to add an emoji in the title so it looks nicer.<div>I.e: "🐛 Bug - Calendar is not showing on iOS devices" <br>"✨Feature - Add 'Back to menu' item to top navigation"<br><p></p><p></p><p></p><h3>Related rules<br></h3><ul><li>
+      <a href="http://www.ssw.com.au/ssw/Standards/Support/bugreportorenhancement.aspx">Reporting a Bug or Enhancement</a> </li><li>
+      <a href=/do-you-provide-details-when-reporting-net-applications-errors>Do you provide details when reporting .NET Applications errors</a><br></li></ul></div>
+
+

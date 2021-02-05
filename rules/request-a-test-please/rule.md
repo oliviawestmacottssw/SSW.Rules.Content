@@ -1,0 +1,38 @@
+---
+type: rule
+archivedreason: 
+title: Quality - Do you know how to request a "test please"?
+guid: dda8e03b-f5a1-4dea-967e-cfda36fbda95
+uri: request-a-test-please
+created: 2015-08-26T19:03:34.0000000Z
+authors:
+- title: Adam Cogan
+  url: https://ssw.com.au/people/adam-cogan
+- title: Tiago Araujo
+  url: https://ssw.com.au/people/tiago-araujo
+related:
+- do-you-send-as-per-our-conversation-emails
+- do-you-know-when-to-do-use-checked-by-xxx
+- do-you-conduct-a-test-please-internally-and-then-with-the-client
+- conduct-a-test-please-internally-and-then-with-the-client
+redirects:
+- quality-do-you-know-how-to-request-a-test-please
+
+---
+
+
+​These are the steps you should take when request a "test please" :<br>
+
+<br><excerpt class='endintro'></excerpt><br>
+<ol><li>Find two free testers to send the email below</li><li>Stop working on the project until you receive either a "pass" or "fail" email</li><li>Create your "test please" following this template: (refer to Windows Forms or Email templates below)<div class="greyBox"><p> 
+            <strong>Subject: Test Please - Product Name v1.11</strong>​</p><p>Dear [XXX],</p><p>I am looking for bugs or approval to release this version.</p><p>I have done what I could for my code's health. E.g.</p><ul><li>Run SSW Code Auditor - it has [XXX] errors [If not 0, give reason]</li><li>Run SSW Link Auditor - it has [XXX] errors [If not 0, give reason]</li><li>Kept my eye on Application Insights</li></ul><p>Specific issues to look out for are:</p><ul><li>[XXX]</li><li>[YYY]</li></ul><p>The latest version of [XXX] is at [WWW.URL.COM]</p><p>Keep in mind that a "test please" is an urgent task and that it should start within the hour.</p><p> 
+            <strong>Note:</strong></p><ul><li>Send suggestions/bugs one email at a time (with a new email subject) because it makes it easier to fix and reply "done"<ul><li>Please CC the project manager [xxx@yyy.com] and the client [xxx@yyy.com]</li></ul></li><li>Know the definition of a bug. Read <a href="http://www.ssw.com.au/ssw/Standards/Support/BugReportOrEnhancement.aspx">www.ssw.com.au/ssw/Standards/Support/BugReportOrEnhancement.aspx</a></li><li>Understand the importance of testing. Read the rule on <a href="/Management/RulesToSuccessfulProjects/Pages/InternalTestPlease.aspx" target="_blank">Do you conduct a "test please" internally and then with the client?</a></li><li>Use good subjects on your emails. Read <a href=/do-you-realize-the-importance-of-a-good-email-subject target="_blank">Do you realize the importance of a good email Subject?</a></li><li>Do not reply to this message until you can say "Test Please Succeeded (as no Critical bugs). You are ready to deploy." or "Test Please Failed (as per Critical bugs reported)"</li></ul><p>Thanks, [XXX]</p></div></li><li> 
+      <strong>What if you're doing a Windows Forms test?</strong>
+      <p>Then you should also include this to the email:</p></li><ul><li>The latest version of [XXX] has been uploaded to \\frog\SSW\Download\[Application_verX-XX_beta.exe</li><li>Test on a fresh VPC image of Windows</li><li>Install into a non-default directory</li><li>Check the installation folder for misplaced items</li><li>Test Unit Tests via "Help - Run Unit Tests"</li><li>(If Applicable)Test the "Create" and "Reconcile" buttons. Read <a href=/rules-to-better-net-projects>Rules to Better .NET Projects</a></li><li>Test open and closing forms and saving values</li><li>Test most buttons and menus and links</li><li>Disable your network connection and test again (check for unhandled errors)</li><li>If your test fails, please rename the executable to [Application_verX-XX_failed.exe]<br></li></ul><li> 
+      <strong>What if you are doing an email test?</strong> 
+      <ul><li>DO NOT add Test Please to the subject. (it is too easy to forget later!)</li><li>Instead, add "Test please" with a yellow highlight to the top of the email body.</li></ul><div class="greyBox"><p> 
+            <strong>Subject: Product Name v1.11</strong> <br></p><p><span style="background-color:yellow;">Test please</span> <br></p> ​ ​<br>
+         <p>Dear [XXX],</p><p>I am looking for bugs or approval to release this version.</p><p>I have done what I could for my code's health. E.g.</p></div></li><li>​ 
+      <strong>Note to </strong> <strong> developer: </strong>If current version is better than the last version you can release (even with a test fail) as long:<ul><li>The bugs reported in the test fail existed in the old version</li><li>Two people have tested it</li><li>The changes in this version are fairly important to get out</li><li>You get to work on the failures ASAP</li></ul></li><li>For clients on fixed price contracts, this email marks the start of the 30 day warranty period.</li><li>Use TFS to email the work items to the project manager and client: <dl class="image"><dt> <img src="tfs-backlog-email.jpg" alt="tfs-backlog-email.jpg" style="width:550px;" /> </dt><dd>Figure: TFS makes it easy to export work items </dd></dl><dl class="image"><dt> <img src="tfs-backlog-email-2.jpg" alt="tfs-backlog-email-2.jpg" style="width:550px;" /> </dt><dd>Figure: How the email is generated</dd></dl></li></ol>​<br>
+
+

@@ -1,0 +1,35 @@
+---
+type: rule
+archivedreason: 
+title: Do you know how to use Ad Extensions on Google Ads?
+guid: f59c8e15-e17b-4528-9eac-cfaf00222963
+uri: how-to-use-ad-extensions-on-google-ads
+created: 2019-03-26T20:54:51.0000000Z
+authors:
+- title: Camilla Rosa Silva
+  url: https://ssw.com.au/people/camilla-rosa-silva
+- title: Jerwin Parker Roberto
+  url: https://ssw.com.au/people/jerwin-parker-roberto
+related: []
+redirects:
+- do-you-know-how-to-use-ad-extensions-on-google-ads
+
+---
+
+
+<p class="ssw15-rteElement-P"><strong>Ad extensions are additional pieces of information about your business, like a phone number or a link to a specific page on your website, that we can add to your ads</strong>. Keep in mind that ad extensions can improve the visibility of your ads, which can lead to more clicks and improve your ROI. It’ll give the ad greater visibility/prominence, so you tend to get more value from your ad. These are the possibilities:<br></p>
+<br><excerpt class='endintro'></excerpt><br>
+<ul><li> 
+      <b>App extensions </b>– downloading an app (when appropriate to your business)<br></li><li> 
+      <b>Price extensions </b>– price transparency on a showcase.<br></li><li> 
+      <b>Location extensions</b> – promoting locations (Google my Business)<br></li><li> 
+      <b>Message extensions </b>– offers a possibility of the viewer sending the company a Text/SMS (Although is not possible to track this conversion)<br></li><li> 
+      <b>Call Extensions</b> – provides the ad a phone number to make calls through mobiles.<br></li><li> 
+      <b>Structured Snippets </b>– provide advertisers 3 additional headlines of text to highlight key aspects of our business.<br></li><li> 
+      <b>Promotion</b> – coupons, deals, sales offerings.<br></li><li> 
+      <b>Call out</b> – Additional detail/an invitation to a call-to-action.<br></li><li> 
+      <b>Sitelinks</b> – Promoting links from your website you want to advertise!<br></li></ul><dl class="badImage"><dt>
+      <img src="google-ad-no-ad-extension.jpg" alt="google-ad-no-ad-extension.jpg" />
+   </dt><dd>Figure: Bad Example – Ad doesn't have a clear message about either product or service, there’s no call extension even though it mentions "Call Now"​<br></dd></dl><dl class="goodImage"><dt><img src="google-ad-extension.jpg" alt="google-ad-extension.jpg" />​<br></dt><dd>Figure: Good Example - Sitelinks and Call extensions on one of our mobile ads​</dd></dl>​
+
+

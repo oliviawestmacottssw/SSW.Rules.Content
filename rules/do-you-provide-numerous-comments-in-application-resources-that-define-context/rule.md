@@ -1,0 +1,21 @@
+---
+type: rule
+archivedreason: 
+title: Do you provide numerous comments in application resources that define context?
+guid: 85521cc2-bbbc-4902-a4a0-8b8cc4eb3f69
+uri: do-you-provide-numerous-comments-in-application-resources-that-define-context
+created: 2015-10-21T09:57:27.0000000Z
+authors:
+- title: Martin Li
+  url: https://ssw.com.au/people/martin-li
+related: []
+redirects: []
+
+---
+
+
+<p>​​Knowing the context and use of certain strings will help translators choose the right translation from the beginning when you localize your web application to make it available in a variety of languages. Most translation tools will allow translators to see these comments as they translate the strings. To make your <span style="line-height:20.8px;">comments </span>more friendly, it's better to list in the comment field where this text is used. e.g.<br></p><ul class="p1"><li><span style="line-height:1.6;">​Text</span></li><li><span style="line-height:1.6;">Validation<br></span></li><li><span style="line-height:1.6;">Tooltip<br></span></li><li><span style="line-height:1.6;">Textbox Placeholder​​</span></li></ul>
+<br><excerpt class='endintro'></excerpt><br>
+<dl class="image"><dt><img alt="CommentsInResources.jpg" src="Localization_Commonts.jpg" style="width:750px;" /></dt><dd>Figure: Use the comment field in the resx to tell you where it is used​<br></dd></dl>
+
+

@@ -1,0 +1,24 @@
+---
+type: rule
+archivedreason: 
+title: Do you have a great company logo?
+guid: f35213b9-42c0-4b6b-a4ab-afa93fe88cfc
+uri: have-a-great-company-logo
+created: 2015-11-24T17:19:59.0000000Z
+authors:
+- title: Tiago Araujo
+  url: https://ssw.com.au/people/tiago-araujo
+- title: Adam Cogan
+  url: https://ssw.com.au/people/adam-cogan
+related: []
+redirects:
+- do-you-have-a-great-company-logo
+
+---
+
+
+<p>​​​Think about McDonalds and you will see the yellow arches, in the shape of an "M". Think of Nike and the swoosh is the first image in your mind.</p><p>It doesn't have to take millions of dollars and 15 marketing consultancies to come up with a great logo, but make sure you get a professional designer to make it.​​<br></p>
+<br><excerpt class='endintro'></excerpt><br>
+<p style="margin-top:7px;margin-bottom:7px;font-family:verdana, sans-serif;font-size:12px;line-height:17px;color:#000000;"></p><p>The characteristics you should be after:</p><ul><li><strong>Simple</strong> - Follow solid basic design principles, such as proportion and symmetry, coherent fonts and matching colors​</li><li><strong>Versatile</strong> - Your logo will eventually end up on different mediums, and it must work well in all kinds of situations</li><li><strong>Relevant</strong> - Represent the company</li><li><strong>Memorable</strong> - Be unique</li></ul><p>If you follow these principles, people should be able to look at your logo from a distance and know which company it's from. The best trademarks end up cemented into the minds of individuals worldwide.</p><p>Some examples of great logos:</p><ul><li><strong>Twitter</strong> - the small flying blue bird makes an instinctive correlation to tweeting<br><img src="twitterlogo.jpg" alt="twitterlogo.jpg" style="margin:5px;" /><br></li><li><strong>Mini</strong> - the mini "wings" logo is simple and easily recognizable <br><img src="mini-logo.jpg" alt="mini-logo.jpg" data-pin-nopin="true" style="margin:5px;" /><br></li><li><strong>Canon</strong> - the font of the logo simple and is tweaked with only a slight tilt<br><img src="canon-logo.jpg" alt="canon-logo.jpg" style="margin:5px;" /><br></li></ul><p>It is very important to remember that your logo should be consistently displayed wherever your company promotes itself.</p>
+
+

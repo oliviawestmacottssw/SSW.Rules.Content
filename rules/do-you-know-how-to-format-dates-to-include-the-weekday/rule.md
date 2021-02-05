@@ -1,0 +1,38 @@
+---
+type: rule
+archivedreason: 
+title: Do you know how to format dates to include the weekday?
+guid: 11a7a554-2fd9-4dad-a588-a06f7e56c68f
+uri: do-you-know-how-to-format-dates-to-include-the-weekday
+created: 2009-06-26T10:07:46.0000000Z
+authors:
+- title: William Yin
+  url: https://ssw.com.au/people/william-yin
+related: []
+redirects: []
+
+---
+
+
+  <img alt="" class="ms-rteCustom-ImageArea" src="BadDateFormat.gif" /> <br>
+<span class="ms-rteCustom-FigureBad">Figure: Bad example - using the default Date Format</span><br>
+<br>
+<img alt="" class="ms-rteCustom-ImageArea" src="GoodDateFormat.gif" /><br>
+<span class="ms-rteCustom-FigureGood">Figure: Good example - using the Date Format with 'ddd'</span><br>
+<br>
+<strong>How do you do this ?</strong><br>
+
+<br><excerpt class='endintro'></excerpt><br>
+By default, the date type column only have two format options:<br>
+<br>
+     <img alt="" class="ms-rteCustom-ImageArea" src="DateFormateDateOnly.gif" /> <font class="ms-rteCustom-FigureNormal">Figure: Date Format #1 </font><img alt="" class="ms-rteCustom-ImageArea" src="DateFormateDateAndTime.gif" border="0" /> <font class="ms-rteCustom-FigureNormal">Figure: Date Format #2 <br>
+</font>To add the week day(eg.Wed) you need to:
+<ol>
+    <li>Select List Settings | Columns |Create column | Calculated (calculation based on other columns) </li>
+    <li>See the columns of this list in the "Insert Column", add the column you want to change format, and custom the code in "Formula" like below:  <img alt="" class="ms-rteCustom-ImageArea" src="CalculatedColumnWithFormulaCode.gif" /> <br>
+    <font class="ms-rteCustom-FigureNormal">Figure: Calculated column with Formula code </font></li>
+    <li> Change the views of the list to use the new Calculated column (WeekDate) instead of the original date column (Date): <img alt="" class="ms-rteCustom-ImageArea" src="ReplaceOldDate.gif" /> <font class="ms-rteCustom-FigureNormal">Figure: Replace the old Date column (Date) with new Calculated column (WeekDate It should not be this hard - see <a href="http://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/SharePointTeamServices.aspx#ChangeDateFormatShouldBeEasier">suggestion to the SharePoint team to make date formatting easier</a>. </font></li>
+</ol>
+
+
+
