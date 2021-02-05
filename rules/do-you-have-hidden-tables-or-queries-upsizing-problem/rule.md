@@ -1,0 +1,20 @@
+---
+type: rule
+archivedreason: 
+title: Do you have hidden tables or queries (Upsizing problem)?
+guid: ab396806-2b24-435e-9991-d2d532f56e5f
+uri: do-you-have-hidden-tables-or-queries-upsizing-problem
+created: 2010-07-23T01:51:51.0000000Z
+authors:
+- title: Adam Cogan
+  url: https://ssw.com.au/people/adam-cogan
+related: []
+redirects: []
+
+---
+
+1. Access2000: Hidden tables are not shown in the list of tables available for upsizing regardless Tools-&gt;Options-&gt;View
+2. All versions of Access: Tables created by ADODB ("CREATE TABLE ...") are not shown at all
+
+
+<!--endintro-->
