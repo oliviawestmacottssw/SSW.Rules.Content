@@ -95,13 +95,13 @@ Tip: Go to Main | Settings | Customizations | Developer Resources in order to fi
       </dl>
 
 
-> <p class="ssw15-rteElement-P">  <strong>Figure: Copy the Endpoint Address for your Organization Service</strong> 
+ <p class="ssw15-rteElement-P">  <strong>Figure: Copy the Endpoint Address for your Organization Service</strong> 
 </p><p class="ssw15-rteElement-P"> 
->              <strong>
+              <strong>
 </strong> </p><p class="ssw15-rteElement-P"> 
->              <strong><img src="2016-12-02_15-14-23.jpg" alt="" style="margin:5px;">
+              <strong><img src="2016-12-02_15-14-23.jpg" alt="" style="margin:5px;">
 </strong> </p><p class="ssw15-rteElement-P"> 
->              <strong>Figure: Enter your CRM Connection Details
+              <strong>Figure: Enter your CRM Connection Details
 
 </strong> </p>
 
