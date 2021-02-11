@@ -79,16 +79,19 @@ Note that this is not a particularly complicated example. However, you can see w
 <font size="2">Performance is better for read-intensive reports</font>
 
 :::
+
 Particularly when reporting on data with a cube.
 
 ::: good
 <font size="2">When there a multiple tables in a SQL Server view</font>
 :::
+
 They cannot be updated in one hit - they must be updated one table at a time.
 
 ::: good
 <font size="2">It is a built-in validation device</font>
 :::
+
  For example, if records are accidentally deleted directly in the database, there is still a validation check for the correct totals. The value of this is mitigated when there is a full audit log on the database
 
 However, there are reasons against using denormalized fields
