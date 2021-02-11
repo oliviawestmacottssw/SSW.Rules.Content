@@ -119,3 +119,15 @@ LinkedIn
 * Business Profile image
 * Cover photo
 * Post image
+
+
+
+
+### YouTube
+
+
+On [YouTube](https://www.youtube.com/), you will find:
+
+* Profile image
+* Cover Photo
+* Video Thumbnail
