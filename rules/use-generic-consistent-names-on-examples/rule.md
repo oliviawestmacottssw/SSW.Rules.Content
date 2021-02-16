@@ -48,6 +48,6 @@ Regards
 
 
 ::: good
-Bad example - Using dummy consistent names on examples
+Good example - Using dummy consistent names on examples
 
 :::
